@@ -28,11 +28,11 @@ Vous avez [Roberts Radio solarDABII Radio solaire portable DAB+/FM Chargeur int�
 
 ℹ️:
 
-- Adaptateur secteur, charge grâce à lénergie solaire ou au branchement secteur
 - Fonctionne à lénergie solaire afin dêtre aussi indépendant des systèmes dalimentation conventionnels que possible
-- Tuner DAB+/FM - Fonction RDS - Touches programmables
-- <b>Notez que les paramètres de configuration d’origine peuvent être différents de ceux habituellement utilisés en France (ex. les paramètres de langue, dheure et de devise). La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
+- Adaptateur secteur, charge grâce à lénergie solaire ou au branchement secteur
 - Énergie solaire/électrique
 - Contenu de la livraison : radio solaire, piles rechargeables LR6, adaptateur secteur, notice
+- <b>Notez que les paramètres de configuration d’origine peuvent être différents de ceux habituellement utilisés en France (ex. les paramètres de langue, dheure et de devise). La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
+- Tuner DAB+/FM - Fonction RDS - Touches programmables
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0056S2VFS/?tag=tolees0d-21)
