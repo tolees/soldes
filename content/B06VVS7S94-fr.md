@@ -29,8 +29,8 @@ Vous avez [Western Digital - WD Elements Disque dur portable externe 1 To USB 3.
 ℹ️:
 
 - Couleur: Noir
-- Type de RAM pour système : ddr3_sdram
-- Dimensions de lemballage de larticle ( L x B x H) en cm : 11.05 x 1.5 x 8.2
 - Fabriqué en Chine
+- Dimensions de lemballage de larticle ( L x B x H) en cm : 11.05 x 1.5 x 8.2
+- Type de RAM pour système : ddr3_sdram
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06VVS7S94/?tag=tolees0d-21)

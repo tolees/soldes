@@ -28,8 +28,8 @@ C'est en vente [SanDisk Ultra Flair 128 Go Clé USB 3.0  dotée d un corps épur
 
 ℹ️:
 
-- Transférez un film entier en moins de 30 secondes
-- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s
 - Transférez sur la clé jusquà 15 fois plus vite quavec une clé USB 2.0 standard
+- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s
+- Transférez un film entier en moins de 30 secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015CH1PJU/?tag=tolees0d-21)
