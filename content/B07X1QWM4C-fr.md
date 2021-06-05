@@ -28,10 +28,10 @@ Vous avez [Schmidt Kinkade: Disney Peter Pan Jigsaw Puzzle  1000 pièces ](https
 
 ℹ️:
 
-- A beautiful picture of Peter Pans Never Land illustrated by Thomas Kinkade
-- Snug fitting, varied, extra thick and smooth edged pieces
-- A perfect gift for any puzzler: Age 10 plus
 - The completed puzzle measures approximately 69 cm x 49 cm
 - Schmidt six star premium quality 1000 piece jigsaw puzzle
+- Snug fitting, varied, extra thick and smooth edged pieces
+- A beautiful picture of Peter Pans Never Land illustrated by Thomas Kinkade
+- A perfect gift for any puzzler: Age 10 plus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X1QWM4C/?tag=tolees0d-21)
