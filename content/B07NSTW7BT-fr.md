@@ -28,10 +28,10 @@ C'est en vente [Kindi Kids- Poupée Marsha Mello 25 cm pour Enfants de 3 à 5 
 
 ℹ️:
 
+- Approche le Cake Pop (gâteau) de ma bouche et regarde-moi en prendre une bouchée !
+- Presse mon Babycino pour faire bouger les guimauves !
 - Découvre mes amies Jessicake, Peppa-Mint et Donatina, et rejoins-nous dans l’univers magique de Rainbow Kindi !
 - Joue avec Marsha Mello et découvre l’univers des Kindi Kids dans le monde interactif fascinant de Rainbow Kindi !
-- Presse mon Babycino pour faire bouger les guimauves !
 - Je remue la tête !
-- Approche le Cake Pop (gâteau) de ma bouche et regarde-moi en prendre une bouchée !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NSTW7BT/?tag=tolees0d-21)

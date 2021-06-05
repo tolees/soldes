@@ -28,8 +28,8 @@ Vous avez [Focus Home Interactive - GreedFall](https://www.amazon.fr/dp/B06X3VTY
 
 ℹ️:
 
-- Explorez un monde mystérieux empli de magie
 - Influencez le cours de lhistoire par vos choix
+- Explorez un monde mystérieux empli de magie
 - Plongez au cœur dune véritable expérience RPG
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)

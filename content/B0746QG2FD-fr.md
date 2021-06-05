@@ -28,13 +28,13 @@ Vous avez [Nacon Manette Filaire compacte pour Playstation 4 - Accessoires de Je
 
 ℹ️:
 
-- Longueur de câble: 3 m. Largeur: 170 mm
+- Profondeur: 205 mm
 - Profondeur du colis: 170 mm
-- Technologie de contrôle des jeux: Analogique/Numérique. Technologie de connectivité: Avec fil. Couleur du produit: Noir
+- Plates-formes de jeux prises en charge: PlayStation 4
+- Longueur de câble: 3 m. Largeur: 170 mm
+- Hauteur: 65 mm. Largeur du colis: 65 mm
 - NACON Manette filaire compacte pour Playstation 4. Type dappareil: Manette de jeu
 - Hauteur du colis: 220 mm
-- Plates-formes de jeux prises en charge: PlayStation 4
-- Hauteur: 65 mm. Largeur du colis: 65 mm
-- Profondeur: 205 mm
+- Technologie de contrôle des jeux: Analogique/Numérique. Technologie de connectivité: Avec fil. Couleur du produit: Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0746QG2FD/?tag=tolees0d-21)
