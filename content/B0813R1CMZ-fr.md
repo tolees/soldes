@@ -28,15 +28,15 @@ C'est en vente [LEGO 60266 City Le Bateau d’Exploration océanique  Jouet d
 
 ℹ️:
 
-- Les héros de LEGO City sont fiers de soutenir le travail d’avant-garde des explorateurs de National Geographic, qui contribuent à bâtir un monde meilleur pour tous. Les sets LEGO City sur le thème de locéan permettent aux enfants de découvrir le monde passionnant de lexploration sous-marine.
-- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
 - Le set inclut un guide de construction imprimé facile à suivre et figure dans Instructions PLUS, un guide interactif pour les constructeurs en herbe. Disponible dans l’application gratuite LEGO Instructions de montage pour appareils intelligents.
-- Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures.
+- Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie.
+- À la recherche de jouets passionnants pour des enfants de 7 ans et plus
 - Que contient la boîte
 - Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs. Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante.
-- Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie.
+- Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures.
+- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
+- Les héros de LEGO City sont fiers de soutenir le travail d’avant-garde des explorateurs de National Geographic, qui contribuent à bâtir un monde meilleur pour tous. Les sets LEGO City sur le thème de locéan permettent aux enfants de découvrir le monde passionnant de lexploration sous-marine.
 - Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large.
-- À la recherche de jouets passionnants pour des enfants de 7 ans et plus
 - Pas besoin de piles. Ce formidable jouet composé de plusieurs modèles, dont un bateau flottant, fonctionne grâce à limagination débordante des jeunes enfants.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
