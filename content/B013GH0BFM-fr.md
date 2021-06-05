@@ -29,9 +29,9 @@ Vous avez [Remington Tondeuse Cheveux  Lames Acier Inoxydable  5 Sabots  1 Peign
 ℹ️:
 
 - Levier d’ajustement de la hauteur de coupe. 5 guides de coupe (3, 6, 9, 12 et 18 mm)
-- Utilisation sur prise secteur
 - Lames acier inoxydable
 - Accessoires: Peigne de coiffeur, brosse pour le cou, brossette de nettoyage, capot de protection
+- Utilisation sur prise secteur
 - Utilisation facile et coupe précise
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013GH0BFM/?tag=tolees0d-21)
