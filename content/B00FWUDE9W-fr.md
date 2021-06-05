@@ -28,10 +28,10 @@ C'est en vente [Sony ILCE7 Appareil Photo Numérique Hybride Boitier Nu  Capteur
 
 ℹ️:
 
+- Mise au point automatique Fast Hybrid
 - Proportions du capteur dimage: 3:2
 - Moteur de traitement dimage BIONZ X
-- Capteur plein format CMOS Exmor 24,3 mpx
 - Compact et robuste, idéal pour une utilisation professionnelle. Format denregistrement audio AVCHD: Dolby Digital(AC-3) 2ch, MP4: MPEG-4 AAC-LC 2ch
-- Mise au point automatique Fast Hybrid
+- Capteur plein format CMOS Exmor 24,3 mpx
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FWUDE9W/?tag=tolees0d-21)
