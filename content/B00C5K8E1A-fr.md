@@ -28,10 +28,10 @@ C'est en vente [Kingston Technology - Kingston DataTraveler 100 G3-DT100G3/32GB 
 
 ℹ️:
 
-- Boîtier avec une élégante finition noire, doté d’un capuchon coulissant.
 - Compatible avec : Windows 10, Windows 8.1, Windows 8, Mac OS (v. 10.10.x), Linux (v. 2.6.x), Chrome OS
-- Dispositif de stockage USB 3.0 idéal¹
-- Températures de fonctionnement: 0 ° C à 60 ° C Températures de stockage: -20 ° C à 85 ° C
 - Capacités allant de 16 à 256Go²
+- Boîtier avec une élégante finition noire, doté d’un capuchon coulissant.
+- Températures de fonctionnement: 0 ° C à 60 ° C Températures de stockage: -20 ° C à 85 ° C
+- Dispositif de stockage USB 3.0 idéal¹
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00C5K8E1A/?tag=tolees0d-21)

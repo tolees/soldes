@@ -29,8 +29,8 @@ C'est en vente [Walt Disney France - Oliver & Compagnie [Blu-Ray]](https://www.a
 ℹ️:
 
 - Date de sortie marché : Août 2009
+- Langue(s) audio : Français, Anglais
 - Date de sortie marché : 26 Août 2009
 - Titre : Oliver & Compagnie
-- Langue(s) audio : Français, Anglais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00H91FCXI/?tag=tolees0d-21)

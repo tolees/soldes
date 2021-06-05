@@ -28,11 +28,11 @@ C'est en vente [Wera 05135918001 Kraftform Kompakt Zyklop Mini 2  27 pièces](ht
 
 ℹ️:
 
-- Dans une housse textile robuste
 - Cliquets en acier massif forgé dans la masse
-- Le méchanisme à fine denture (60 dents) permet un faible angle de reprise de 6 pour un travail précis
-- Avec porte-embouts, 9 douilles, 14 embouts et 1 adaptateur
-- Pour visser dans des situations de travail exiguës
 - Douilles Zyklop 8790 FA pour utilisation directe sur le Zyklop Mini 2
+- Le méchanisme à fine denture (60 dents) permet un faible angle de reprise de 6 pour un travail précis
+- Pour visser dans des situations de travail exiguës
+- Avec porte-embouts, 9 douilles, 14 embouts et 1 adaptateur
+- Dans une housse textile robuste
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01CILZXRI/?tag=tolees0d-21)

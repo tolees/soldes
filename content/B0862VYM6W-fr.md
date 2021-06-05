@@ -28,10 +28,10 @@ Vous avez [Wüsthof TR1040330120 Couteau de chef Classic Ikon 20 cm  acier inoxy
 
 ℹ️:
 
-- Couteau forgé avec précision dans une seule pièce dun acier spécial trempé et doté d’une haute teneur en carbone, pour en garantir la solidité et la durabilité. Fabriqué en Allemagne, à Solingen, depuis 1814.
-- Tranchant extrême garanti grâce à la technologie de pointe PEtec de Wüsthof, pour un tranchant beaucoup plus durable et un fil plus facile à réaiguiser chez soi.
-- Ne pas mettre au lave-vaisselle, pour conserver le tranchant de la lame - couteau garanti à vie.
 - Sil ne devait en rester quun ce serait celui-là : cest LE couteau à tout faire de la cuisine. Sa lame large et rigide permet de couper la viande, le poisson, mais également démincer les fines herbes ou de tailler les légumes. Il excelle autant dans les découpes minutieuses que dans les découpes puissantes daliments gros et fermes. La forme courbée de la lame assure un mouvement de balancier fluide et précis. Avec une lame de 20 cm, il est très maniable, que lon soit un cuisinier aguerri ou un juste amateur de bonne cuisine !
+- Ne pas mettre au lave-vaisselle, pour conserver le tranchant de la lame - couteau garanti à vie.
+- Tranchant extrême garanti grâce à la technologie de pointe PEtec de Wüsthof, pour un tranchant beaucoup plus durable et un fil plus facile à réaiguiser chez soi.
 - Couteau de la gamme Classic Ikon, caractérisée par sa demi-mitre qui permet dutiliser toute la longueur de la lame et par le design élégant de son manche ergonomique.
+- Couteau forgé avec précision dans une seule pièce dun acier spécial trempé et doté d’une haute teneur en carbone, pour en garantir la solidité et la durabilité. Fabriqué en Allemagne, à Solingen, depuis 1814.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0862VYM6W/?tag=tolees0d-21)

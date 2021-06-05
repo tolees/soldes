@@ -28,10 +28,10 @@ Vous avez [CEP Take a Break Range-dosette Vertical Plastique Noir 24 5 x 17 0 x 
 
 ℹ️:
 
-- Capacité de stockage dosettes : 42 Nespresso
 - Polystyrène antichoc recyclable, 24,5 x 17 x 25,2 cm
-- Rangement vertical pour un encombrement minimum
-- Pas dassemblage requis
 - 6 compartiments de tri pour capsules
+- Pas dassemblage requis
+- Capacité de stockage dosettes : 42 Nespresso
+- Rangement vertical pour un encombrement minimum
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CCZR5N0/?tag=tolees0d-21)

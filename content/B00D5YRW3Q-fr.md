@@ -28,8 +28,8 @@ C'est en vente [Bosch 2608642602 Lame de scie circulaire optiline wood 165 x 20/
 
 ℹ️:
 
-- Pays dorigine : république populaire de chine
 - Spécification : 165 x 20/16 x 1,7 mm, 36
+- Pays dorigine : république populaire de chine
 - Diamètre extérieur : 165 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00D5YRW3Q/?tag=tolees0d-21)

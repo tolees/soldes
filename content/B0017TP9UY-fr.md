@@ -28,9 +28,9 @@ C'est en vente [Natural Elements Boîte de poids Système métrique Bois/métal 
 
 ℹ️:
 
-- Le bois dacacia provient dune gestion forestière durable
-- Les poids sont disposés dans un support en bois dacacia avec poignée en inox poli
 - Livré dans un coffret cadeau
 - Série de poids, système métrique
+- Les poids sont disposés dans un support en bois dacacia avec poignée en inox poli
+- Le bois dacacia provient dune gestion forestière durable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0017TP9UY/?tag=tolees0d-21)
