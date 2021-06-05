@@ -29,9 +29,9 @@ Vous avez [Iris Ohyama 125032.0 WC-N604 Tour de Rangement avec 4 Tiroirs Plastiq
 ℹ️:
 
 - Matériel: Plastique
-- Tours de Rangement rigide
-- Couleur: Noir/Transparent
 - Couleur: Noir/Transparent
 - Tiroirs: 4
+- Tours de Rangement rigide
+- Couleur: Noir/Transparent
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FGLRLA0/?tag=tolees0d-21)
