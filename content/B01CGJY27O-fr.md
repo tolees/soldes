@@ -28,11 +28,11 @@ C'est en vente [Gre CSPA Pool & Spa Vac - Aspirateur Electrique avec Manche pour
 
 ℹ️:
 
-- Aspirateur électrique avec manche pour piscines hors sol et spas
-- Il peut être utilisé avec un manche ou une perche
 - Léger, portable et sans câbles
-- Idéal pour le nettoyage des escaliers et des angles où le système traditionnel ou automatique ne peut pas fonctionner de façon optimale
-- À batterie, chargeur inclus
+- Il peut être utilisé avec un manche ou une perche
+- Aspirateur électrique avec manche pour piscines hors sol et spas
 - LElectric Vac fonctionne avec un accumulateur lithium rechargeable de 11,1 V
+- À batterie, chargeur inclus
+- Idéal pour le nettoyage des escaliers et des angles où le système traditionnel ou automatique ne peut pas fonctionner de façon optimale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01CGJY27O/?tag=tolees0d-21)
