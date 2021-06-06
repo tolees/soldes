@@ -28,10 +28,10 @@ C'est en vente [Amazon Basics Agrafeuse avec 200 agrafes  Noir  Lot de 16](https
 
 ℹ️:
 
-- Peut être ouverte pour accrocher un rapport sur un tableau, inverser lenclume pour accrocher des documents
-- Inclut un ôte-agrafes pratique sur l’extrémité ; finition noir mat
-- Base entièrement recouverte de caoutchouc pour maintenir lagrafeuse en place pendant son utilisation : pas de risque de déraper ou de glisser
 - Agrafeuse dune capacité de 200 agrafes permettant dagrafer jusquà 10 feuilles
+- Peut être ouverte pour accrocher un rapport sur un tableau, inverser lenclume pour accrocher des documents
+- Base entièrement recouverte de caoutchouc pour maintenir lagrafeuse en place pendant son utilisation : pas de risque de déraper ou de glisser
+- Inclut un ôte-agrafes pratique sur l’extrémité ; finition noir mat
 - Excellent choix pour les espaces de coworking et en openspace
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079ZVKK3V/?tag=tolees0d-21)
