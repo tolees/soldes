@@ -28,7 +28,7 @@ C'est en vente [camel active 5-Pocket Houston Jean Droit  Bleu  Bleue 82   W38/L
 
 ℹ️:
 
-- Jambe droite et largeur normale du pied et effet délavé
 - Coupe droite 5 poches style Houston avec fermeture éclair et bouton et hauteur de taille normale.
+- Jambe droite et largeur normale du pied et effet délavé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P7QPMZW/?tag=tolees0d-21)
