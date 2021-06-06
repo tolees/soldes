@@ -30,8 +30,8 @@ C'est en vente [New Balance 574 Core  Sneaker Basse Homme  Black Iris  44 EU](ht
 
 - Fermeture : brièvement
 - Rapide et facile à porter.
-- New Balance
-- Design élégant et confortable.
 - Baskets
+- Design élégant et confortable.
+- New Balance
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06Y2Y9XC5/?tag=tolees0d-21)

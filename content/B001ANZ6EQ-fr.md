@@ -28,13 +28,13 @@ Vous avez [Exacompta - 78E - Piqure Budget des Dépenses Ménagères - 27/25 - 5
 
 ℹ️:
 
-- Avec un récapitulatif annuel en dernière page et un planning des échéances au centre du cahier, il est conçu pour une durée de 24 mois
-- Comme les piqûres et registres Exacompta, ce cahier budget dépenses ménagères est fabriqué à 100% en France
-- Le Papier 110 g/m2 est légèrement teinté, spécialement étudié pour reposer la vue, et mat pour une écriture facile et nette
-- La couverture est imprimée et vernie
-- Il est certifié FSC, un mode de gestion responsable des forêts
-- Format : 27x25 cm
 - Pour le suivi des recettes et des dépenses familiales
+- Format : 27x25 cm
+- Comme les piqûres et registres Exacompta, ce cahier budget dépenses ménagères est fabriqué à 100% en France
+- La couverture est imprimée et vernie
 - Le cahier budget dépenses ménagères permet détablir facilement un budget familial en listant chaque mois les ressources et les dépenses
+- Avec un récapitulatif annuel en dernière page et un planning des échéances au centre du cahier, il est conçu pour une durée de 24 mois
+- Il est certifié FSC, un mode de gestion responsable des forêts
+- Le Papier 110 g/m2 est légèrement teinté, spécialement étudié pour reposer la vue, et mat pour une écriture facile et nette
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001ANZ6EQ/?tag=tolees0d-21)

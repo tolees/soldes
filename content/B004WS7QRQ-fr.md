@@ -28,10 +28,10 @@ C'est en vente [Island - The Game - Remasterisé 2011](https://www.amazon.fr/dp/
 
 ℹ️:
 
+- Year Of Release: 2011
+- Country Of Release: NLD
+- Notes: 2011 Remastered Version
 - Catalog#: 06025 2771751
 - Record Label: Universal
-- Country Of Release: NLD
-- Year Of Release: 2011
-- Notes: 2011 Remastered Version
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004WS7QRQ/?tag=tolees0d-21)

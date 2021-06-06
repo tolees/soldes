@@ -28,7 +28,7 @@ Vous avez [REVLON PROFESSIONAL Equave Soin Démêlant Instantané sans Rinçage 
 
 ℹ️:
 
-- Un produit exclusif de la marque Revlon
 - REVLON PROFESSIONAL Equave Soin Démêlant Instantané sans Rinçage 2 Phases Hydronutritif Hydratant Cheveux Secs, 200ml
+- Un produit exclusif de la marque Revlon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FTBDBJ6/?tag=tolees0d-21)

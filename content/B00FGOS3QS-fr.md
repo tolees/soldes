@@ -28,9 +28,9 @@ C'est en vente [Mario Kart - Nintendo Selects [import anglais] [jeu en français
 
 ℹ️:
 
-- Ce jeu est une version importée, Il nest pas garanti que le français soit disponible dans les options de jeu
-- Players can race as their favourite Nintendo character, or even as themselves! Mario Kart Wii lets players race with their personalized Mii; characters. And racers will see other Mii characters they have created cheering from the sidelines on some race courses.
 - Players can compete with up to three friends in their living room. Or challenge up to 11 opponents via Nintendo Wi-Fi Connection in the biggest Mario Kart race yet. All tracks and modes of play are available via Nintendo Wi-Fi Connection, and players can visit the Mario Kart Channel to compete in tournaments, check rankings, see when their friends are playing and download ghost data.
+- Players can race as their favourite Nintendo character, or even as themselves! Mario Kart Wii lets players race with their personalized Mii; characters. And racers will see other Mii characters they have created cheering from the sidelines on some race courses.
+- Ce jeu est une version importée, Il nest pas garanti que le français soit disponible dans les options de jeu
 - The Wii Wheel transforms the Wii Remote; controller into a steering wheel that feels natural in anyones hands, while the Wii Remote and Nunchuk; controller offer a classic control style for the Mario Kart veteran. In either configuration, players can perform speed-boosting tricks with a shake of the Wii Remote.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FGOS3QS/?tag=tolees0d-21)

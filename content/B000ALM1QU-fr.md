@@ -28,10 +28,10 @@ C'est en vente [Polar - 18 Hits](https://www.amazon.fr/dp/B000ALM1QU/?tag=tolees
 
 ℹ️:
 
-- Notes: Incl. Versions In Spanish/French/German
 - Year Of Release: 2005
-- Record Label: Universal
-- Country Of Release: NLD
 - Catalog#: 06024 9831452
+- Country Of Release: NLD
+- Notes: Incl. Versions In Spanish/French/German
+- Record Label: Universal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000ALM1QU/?tag=tolees0d-21)

@@ -30,7 +30,7 @@ C'est en vente [What Color Is Love  Verve Originals Serie ](https://www.amazon.f
 
 - Catalog#: 06025 1782974
 - Country Of Release: NLD
-- Record Label: Verve
 - Year Of Release: 2008
+- Record Label: Verve
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001EIK7IC/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ Vous avez [Polydor - Eric Clapton [Deluxe Edition]](https://www.amazon.fr/dp/B00
 ℹ️:
 
 - Notes: Cd1: Album + 3 Bonus Tr. / Cd2: 14 Tracks
-- Catalog#: 06024 9839607
-- Record Label: A&M
 - Year Of Release: 2006
 - Country Of Release: NLD
+- Catalog#: 06024 9839607
+- Record Label: A&M
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000FDEUG2/?tag=tolees0d-21)

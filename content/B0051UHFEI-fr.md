@@ -28,10 +28,10 @@ C'est en vente [Honeywell Home – Tête programmable pour radiateur Rondostat H
 
 ℹ️:
 
-- Les fonctions intelligentes, la fonction ECO et l’optimisation de la tête programmable de radiateur permettent déconomiser jusquà 30 % dénergie et de protéger votre installation; la fonction de protection des robinets, la protection anti gel ainsi que la sécurité enfants complètent les caractéristiques du Rondostat HR25 Energy
-- Le design élégant du Rondostat, sa molette chromée et son grand écran pour une meilleure lisibilité, sadapte facilement au décor de l’habitation
 - La tête programmable pour radiateur Honeywell Home se distingue par ses nombreuses fonctions
-- Convient pour tous les corps de radiateur courants M30 x 1,5 de Honeywell Home, Braukmann, MNG, Heimeier, Danfoss, Wingenroth (Wiroflex) R.B.M, Oventrop Type A et Oventrop AV6; des adaptateurs fournis permettent également de monter le Rondostat HR25 Energy sur les corps thermostatiques Danfoss RA, Danfoss RAV et Danfoss RAVL
 - La tête programmable Rondostat HR25 Energy, permet de réguler avec précision la température ambiante pour répondre aux besoins de l’utilisateur; en fonction de ses besoins, il est possible de définir un programme horaire individuel avec 6 programmes différents pour chaque jour de la semaine
+- Les fonctions intelligentes, la fonction ECO et l’optimisation de la tête programmable de radiateur permettent déconomiser jusquà 30 % dénergie et de protéger votre installation; la fonction de protection des robinets, la protection anti gel ainsi que la sécurité enfants complètent les caractéristiques du Rondostat HR25 Energy
+- Convient pour tous les corps de radiateur courants M30 x 1,5 de Honeywell Home, Braukmann, MNG, Heimeier, Danfoss, Wingenroth (Wiroflex) R.B.M, Oventrop Type A et Oventrop AV6; des adaptateurs fournis permettent également de monter le Rondostat HR25 Energy sur les corps thermostatiques Danfoss RA, Danfoss RAV et Danfoss RAVL
+- Le design élégant du Rondostat, sa molette chromée et son grand écran pour une meilleure lisibilité, sadapte facilement au décor de l’habitation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0051UHFEI/?tag=tolees0d-21)

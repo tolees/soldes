@@ -28,8 +28,8 @@ Vous avez [LogiLink BT0015 Adaptateur USB Bluetooth 4.0 Noir](https://www.amazon
 
 ℹ️:
 
-- Interface de lhôte: USB
 - LogiLink BT0015. Technologie de connectivité: Avec fil
+- Interface de lhôte: USB
 - Interface: Bluetooth. Taux de transfert de données (maximum): 3 Mbit/s. Distance de fonctionnement maximum: 100 m. Plage de fréquence: 2,402 - 2,480 GHz. Couleur: Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0096Y2HFW/?tag=tolees0d-21)
