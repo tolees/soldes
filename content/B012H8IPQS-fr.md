@@ -28,8 +28,8 @@ Vous avez [Garmin - Ceinture Cardio-Fréqeuncemètre HRM - Tri - Noir/Bleu](http
 
 ℹ️:
 
-- Compatibilité :FR 920 XT/FENIX/Epix
 - Garantie Fabricant: 1 an(s)
 - Batterie: CR2032
+- Compatibilité :FR 920 XT/FENIX/Epix
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012H8IPQS/?tag=tolees0d-21)
