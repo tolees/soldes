@@ -29,10 +29,10 @@ Vous avez [BaoFeng UV-5R Plus Radio portable FM Camouflage](https://www.amazon.f
 ℹ️:
 
 - Functión FM 68-105 MHz (RX)
+- Fonction VOX : La fonctionnalité VOX vous permet non seulement denclencher la communication à la voix, mais également de parler sans devoir attendre que votre interlocuteur ait terminé.
+- Radio UHF/VHF compacte, 128 Canaux, Récepteur radio FM, Puissance démission : VHF: 5W / UHF 4W
 - Ce modèle comprend une oreillette confort offerte (style de port : tour doreille) , pratique pour passer toutes vos communicationsles mains libres.
 - Portée pouvant atteindre 5 km : le Baofeng UV-5R Plus vous fait bénéficier de communication dans un périmètre de 5 km en champ libre.
 - Ecran LCD : Son écran LCD vous permet de contrôler dun simple coup doeil le canal utilisé, létat de la batterie ou encore la mise en route de la fonction Vox.
-- Fonction VOX : La fonctionnalité VOX vous permet non seulement denclencher la communication à la voix, mais également de parler sans devoir attendre que votre interlocuteur ait terminé.
-- Radio UHF/VHF compacte, 128 Canaux, Récepteur radio FM, Puissance démission : VHF: 5W / UHF 4W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CZ0X8E8/?tag=tolees0d-21)
