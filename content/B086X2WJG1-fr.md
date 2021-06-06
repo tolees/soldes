@@ -28,10 +28,10 @@ C'est en vente [Microids - Fort Boyard Nouvelle Edition](https://www.amazon.fr/d
 
 ℹ️:
 
+- Plusieurs personnages issus de l’émission: le père fouras, passe-partout, la juge blanche, mister boo ou encore les maîtres du temps
 - Vos cellules grises vont chauffer dans des épreuves comme le labyrinthe ou la momie
+- Personnalisez vos personnages et votre équipe, pour une aventure toujours unique
 - Jouable de 1 à 4 joueurs en mode solo, mode coopératif ou compétitif dans 25 épreuves inspirées de l’émission télévisée, comme les cotons tiges aériens, le casino, le temple maudit ou encore la momie
 - Votre dextérité sera mise à l’épreuve dans rodéo Dino ou car Wars et vous devrez prouver votre force pour triompher d’excalibur ou du punching-ball
-- Plusieurs personnages issus de l’émission: le père fouras, passe-partout, la juge blanche, mister boo ou encore les maîtres du temps
-- Personnalisez vos personnages et votre équipe, pour une aventure toujours unique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)
