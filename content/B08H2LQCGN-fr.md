@@ -28,10 +28,10 @@ Vous avez [Polar - M460 - Compteur Vélo GPS Intégré avec Ceinture Capteur de 
 
 ℹ️:
 
+- produit 1: Restez connecté pendant vos courses grâce aux notifications de votre smartphone
 - produit 2: Ne livre ni la Corse ni Monaco
+- produit 1: Rendez vos courses plus plaisantes encore grâce à Strava Live Segments
 - produit 1: 16h dautonomie
 - produit 1: Contrôle votre vitesse, votre distance, votre altitude et votre déclivité grâce au GPS et au baromètre
-- produit 1: Rendez vos courses plus plaisantes encore grâce à Strava Live Segments
-- produit 1: Restez connecté pendant vos courses grâce aux notifications de votre smartphone
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H2LQCGN/?tag=tolees0d-21)

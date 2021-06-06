@@ -28,10 +28,10 @@ C'est en vente [Quiksilver Steeze-Veste de Snow pour Homme Ski  True Black  FR :
 
 ℹ️:
 
-- Doublure en tricot brossé et taffetas répartie aux endroits stratégiques sur le corps; Coutures renforcées aux endroits critiques
-- Imperméabilité: technologie Quiksilver DryFlight 10K [10 000 mm/ 5 000 g]
-- Polyester 4-way stretch, recyclé Repère fabriqué à partir de bouteilles en plastique; coupe modern fit - pour un style contemporain
 - Capuche ajustable en trois sens; capuche fixe; jupe pare-neige fixe
+- Imperméabilité: technologie Quiksilver DryFlight 10K [10 000 mm/ 5 000 g]
 - Isolation thermique: Shell; indice Warmflight: 1/3 pour une chaleur ultralégère et respirant
+- Polyester 4-way stretch, recyclé Repère fabriqué à partir de bouteilles en plastique; coupe modern fit - pour un style contemporain
+- Doublure en tricot brossé et taffetas répartie aux endroits stratégiques sur le corps; Coutures renforcées aux endroits critiques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0893RCZMT/?tag=tolees0d-21)
