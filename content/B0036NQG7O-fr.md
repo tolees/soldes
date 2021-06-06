@@ -28,10 +28,10 @@ C'est en vente [hama Réveil radiopiloté à projecteur intégré "RCR 110"  san
 
 ℹ️:
 
+- Horloge radio-pilotée DCF à réglage automatique par synchronisation. Le fuseau horaire peut être réglé manuellement lorsque lheure DCF.
+- Heure/Calendrier/Alarme : 12h ou 24h, 5 langues : Anglais/Allemand/Français/Italien/Espagnol, Répétition alarme. Thermomètre : °C ou °F.
 - 2 alarmes programmables. Projection de lheure au plafond ou sur le mur avec possibilité de faire pivoter limage à 180°.
 - Réveil radio-piloté indiquant lheure, lheure de réveil, la date et la température. Projection de lheure et mise au point. Rétroéclairage (LED).
-- Heure/Calendrier/Alarme : 12h ou 24h, 5 langues : Anglais/Allemand/Français/Italien/Espagnol, Répétition alarme. Thermomètre : °C ou °F.
 - Contenu : 1x Réveil à projection "RCR 110", 1x Alimentation secteur, 2x Piles LR06 AA Mignon et 1x Mode demploi.
-- Horloge radio-pilotée DCF à réglage automatique par synchronisation. Le fuseau horaire peut être réglé manuellement lorsque lheure DCF.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0036NQG7O/?tag=tolees0d-21)
