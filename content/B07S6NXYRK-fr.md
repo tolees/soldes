@@ -28,9 +28,9 @@ Vous avez [PUMA Popcat 20  Beach and Pool Shoes Unisex Adult Black White  11 UK]
 
 ℹ️:
 
-- Homme > Chaussures > Claquettes - tongs
+- Marque : Puma
 - Couleur : noir
 - Référence : 372279-01-46
-- Marque : Puma
+- Homme > Chaussures > Claquettes - tongs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S6NXYRK/?tag=tolees0d-21)
