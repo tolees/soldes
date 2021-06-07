@@ -28,8 +28,8 @@ Vous avez [Gerber Paraframe I Tanto](https://www.amazon.fr/dp/B00AU6BKTE/?tag=to
 
 ℹ️:
 
-- Léger et facile à nettoyer
 - Poignée en acier
 - Bord de scie
+- Léger et facile à nettoyer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AU6BKTE/?tag=tolees0d-21)
