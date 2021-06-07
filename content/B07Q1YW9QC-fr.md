@@ -28,10 +28,10 @@ C'est en vente [KRUPS Expresso Broyeur Espresseria Latt Espress Silver Cafetièr
 
 ℹ️:
 
-- Oubliez les soucis de nettoyage : Un nettoyage complet et automatique de la machine est ultra simple, sans intervention humaine : insérez une pastille et lancez le programme, la machine soccupe de tout.
-- Découvrez la facilité dutilisation : Le panneau de commande avec un écran LCD intuitif, facile à utiliser, comprend quelques règles de mixture préprogrammés qui peuvent aussi être ajustés selon vos goûts personnels.
+- Achetez avec confiance un savoir-faire Français : La machine fabriquée en France, à Mayenne, a une garantie de 2 ans. Le produit est réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus.
 - Profitez dun café toujours parfait : Machine à café à grain, automatique, avec broyeur pour savourez des expresso de qualité barista. Le système de thermobloc garantit une température de brassage idéale et grâce au système One-Touch-Cappuccino vous aurez des expresso simple, double ou cappuccino parfaits
 - Une cafetière qui aura sa place dans votre cuisine : Un design moderne en acier inoxydable haut de gamme, une addition idéale pour votre cuisine ou espace de travail. Capacité des réservoirs à eau de 1,7L et à grains de 260gr avec 3 règles de température et 3 niveaux de réglage de la finesse de broyage
-- Achetez avec confiance un savoir-faire Français : La machine fabriquée en France, à Mayenne, a une garantie de 2 ans. Le produit est réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus.
+- Découvrez la facilité dutilisation : Le panneau de commande avec un écran LCD intuitif, facile à utiliser, comprend quelques règles de mixture préprogrammés qui peuvent aussi être ajustés selon vos goûts personnels.
+- Oubliez les soucis de nettoyage : Un nettoyage complet et automatique de la machine est ultra simple, sans intervention humaine : insérez une pastille et lancez le programme, la machine soccupe de tout.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q1YW9QC/?tag=tolees0d-21)

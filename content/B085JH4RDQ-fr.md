@@ -28,10 +28,10 @@ Vous avez [Codemasters - Dirt Rally 2.0 - Game Of The Year Edition](https://www.
 
 ℹ️:
 
-- Vrais lieux de rallye - nouvelle-zélande, argentine, espagne, pologne, australie et états-unis
-- Contenu de colin mcrae: 40 scénarios difficiles basés sur la carrière de colin mcrae;
 - Tuning - adaptez votre véhicule à votre propre style de conduite et aux caractéristiques de lenvironnement;
+- Contenu de colin mcrae: 40 scénarios difficiles basés sur la carrière de colin mcrae;
 - 60+ véhicules hors route
 - Une maniabilité, des surfaces, une sensibilité aux erreurs et des environnements optimisés offrent lexpérience hors route la plus authentique et la plus ciblée jamais conçue
+- Vrais lieux de rallye - nouvelle-zélande, argentine, espagne, pologne, australie et états-unis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085JH4RDQ/?tag=tolees0d-21)
