@@ -28,7 +28,7 @@ Vous avez [Iris & Lilly BELK023-M2 Débardeur  2 x Noir  X-S  Lot de 2](https://
 
 ℹ️:
 
-- Une marque Amazon
 - Confectionné en coton doux, respirant et hypoallergénique conçu pour un confort durable
+- Une marque Amazon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N63LN4I/?tag=tolees0d-21)
