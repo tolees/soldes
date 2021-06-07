@@ -28,10 +28,10 @@ Vous avez [WAHL Kit de Rasage à Usage Multiple Conception Ergonomique pour Pré
 
 ℹ️:
 
-- Charge rapide pour une puissance instantanée
 - 1 heure de charge pour 3 heures d’autonomie
+- Charge rapide pour une puissance instantanée
 - Lames de précision auto-affûtées en acier à haute teneur en carbone
-- Deux fois plus de puissance en comparaison aux batteries NiMH ordinaires
 - 12 longueurs de coupe différentes
+- Deux fois plus de puissance en comparaison aux batteries NiMH ordinaires
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072KPWDJS/?tag=tolees0d-21)
