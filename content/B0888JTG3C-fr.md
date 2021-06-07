@@ -28,10 +28,10 @@ C'est en vente [Liberex Patch Anti-Acné Invisible Hydrocolloïde Absorbant Cont
 
 ℹ️:
 
+- Invisible, sans médicament, imperméable et respirant, peut être porté de jour comme de nuit.
+- Les autocollants à boutons hydrocolloïdes absorbent efficacement lexsudat, le pus, lhuile et réduisent les rougeurs et linflammation, bons pour la réparation cellulaire et la accélération de cicatrisation des plaies.
+- Non desséchant grâce à son hydrophilie. Cet autocollant anti acné ne dessèche ni nirrite la peau environnante, parfait pour tous les types de peau et tous les âges.
 - Empêche linvasion de bactéries, protège les imperfections de la pollution externe et des irritations tout en offrant un environnement doux, humide et non pollué.
 - Remarque : 1. Pour un meilleur effet, prenez des outils pour piquer le bouton avant utilisation, puis veuillez vous laver le visage et le sécher, en particulier le front et la zone en T. Et veuillez ne pas appliquer la crème éviter daffecter ladhésivité. 2. Fonctionne principalement pour les boutons contenant du liquide ou du pus, peu utile pour les comédons fermés.
-- Les autocollants à boutons hydrocolloïdes absorbent efficacement lexsudat, le pus, lhuile et réduisent les rougeurs et linflammation, bons pour la réparation cellulaire et la accélération de cicatrisation des plaies.
-- Invisible, sans médicament, imperméable et respirant, peut être porté de jour comme de nuit.
-- Non desséchant grâce à son hydrophilie. Cet autocollant anti acné ne dessèche ni nirrite la peau environnante, parfait pour tous les types de peau et tous les âges.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0888JTG3C/?tag=tolees0d-21)

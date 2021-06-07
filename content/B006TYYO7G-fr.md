@@ -28,11 +28,11 @@ C'est en vente [Tefal GV5245 Centrale vapeur Easycord Pressing](https://www.amaz
 
 ℹ️:
 
-- Dimensions (L x l x h) : 18.9 pouces x 18.9 pouces x 11.42 pouces
-- Caractéristiques particulières : Mode Eco, vapeur verticale, Easycord, système de verrouillage, range-cordon, témoin de vapeur prête, débit de vapeur: 90 g-min
 - Fonction Eco : jusquà 20 % déconomie dénergie
-- Pression : 4,5 bar - Puissance : 2200 W
+- Caractéristiques particulières : Mode Eco, vapeur verticale, Easycord, système de verrouillage, range-cordon, témoin de vapeur prête, débit de vapeur: 90 g-min
 - Puissance : 1370 watts
+- Pression : 4,5 bar - Puissance : 2200 W
+- Dimensions (L x l x h) : 18.9 pouces x 18.9 pouces x 11.42 pouces
 - Poids du produit : 1.1 pounds
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B006TYYO7G/?tag=tolees0d-21)
