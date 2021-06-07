@@ -28,10 +28,10 @@ Vous avez [Deutsche Grammophon - Midnight At Notre-Dame - Transcriptions pour or
 
 ℹ️:
 
+- Notes: Plays On Sacd & Cd Players
+- Catalog#: 00289 4748162
 - Record Label: Deutsche Grammophon
 - Country Of Release: NLD
-- Catalog#: 00289 4748162
-- Notes: Plays On Sacd & Cd Players
 - Year Of Release: 2004
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00022URKE/?tag=tolees0d-21)

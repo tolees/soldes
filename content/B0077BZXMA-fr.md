@@ -28,7 +28,7 @@ C'est en vente [Herschel 10020-00007 Little America Mid-Volume Rucksack  41 cm  
 
 ℹ️:
 
-- Garantie 1 an
 - Doublure intérieure
+- Garantie 1 an
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0077BZXMA/?tag=tolees0d-21)

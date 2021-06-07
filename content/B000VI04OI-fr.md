@@ -28,8 +28,8 @@ Vous avez [Polydor - Crossroads  Coffret Long Box 4 CD ](https://www.amazon.fr/d
 
 ℹ️:
 
-- Year Of Release: 2007
 - Record Label: Polydor
+- Year Of Release: 2007
 - Catalog#: 06007 5302809
 - Country Of Release: NLD
 

@@ -28,9 +28,9 @@ Vous avez [Columbia - Old Ideas](https://www.amazon.fr/dp/B0067LY4WG/?tag=tolees
 
 ℹ️:
 
-- Year Of Release: 2012
 - Country Of Release: NLD
-- Catalog#: 88697 986712
 - Record Label: Columbia
+- Catalog#: 88697 986712
+- Year Of Release: 2012
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0067LY4WG/?tag=tolees0d-21)
