@@ -28,14 +28,14 @@ C'est en vente [Candy - Sèche-Linge Smart Pro CSO H9A2DE  9 kg Classe A++  Pomp
 
 ℹ️:
 
-- Classe defficacité énergétique : A++
 - Dimensions (L x H x P) : 60 x 85 x 60 cm
-- Système breveté Easy Case
+- Ce produit est testé avant dêtre emballé et commercialisé, il peut donc y avoir des résidus deau
 - Certifié Woolmark
-- Connectivité Wi-Fi + Bluetooth
+- Écran tactile intelligent dans votre langue
 - Sèche-linge pompe à chaleur 9 kg
 - Set complet de programmes rapides
-- Ce produit est testé avant dêtre emballé et commercialisé, il peut donc y avoir des résidus deau
-- Écran tactile intelligent dans votre langue
+- Système breveté Easy Case
+- Connectivité Wi-Fi + Bluetooth
+- Classe defficacité énergétique : A++
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZKXWMMB/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ Vous avez [Ordinateur Portable 15 6 Pouces  TECLAST F15S Ultrabook 6Go RAM 128Go
 ℹ️:
 
 - TYPAGE EFFICACE ET CONFORTABLE - Le clavier est de taille normale. Et le cadre des F15 est très étroit. Les gros boutons vous permettent de taper du contenu facilement et correctement. La taille du pavé tactile est de 140 mm x 95 mm.
+- ULTRA MINCE ET LÉGER - Seulement 1,8 kg, écran IPS Full HD 15,6 pouces, une épaisseur ultra fine de seulement 7 mm. Lécran a une résolution de 1080P (1920 x 1080).
 - HAUTES PERFORMANCES - Intel Celeron Apollo Lake J3455 a une fréquence maximale jusquà 2,60 GHz. LIntel UHD Graphics 500 Core peut gérer le travail quotidien. LPDDR3 avec 6 Go de RAM et 128 Go de disque dur SSD. Prise en charge de la mise à jour des cartes micro SD et SSD.
 - LOGICIEL DE SYSTÈME RÉEL - Le véritable système dexploitation Windows 10 est préinstallé. Prise en charge de tous les types de logiciels de bureau et de logiciels de productivité comme Adobe. Il est compatible avec tous les types de divertissement audio, vidéo et applications conventionnelles.
 - CONNEXION PUISSANTE - Cet ordinateur portable F15s dispose dune grande batterie de 38000 mWh pour offrir des performances durables. Lordinateur portable offre environ 7 heures dautonomie pour la lecture vidéo. Et il existe un WiFi AC double bande (prend en charge 802.11a / b / g / n / ac), Bluetooth 4.2 et dautres transmissions sans fil à haut débit. Cest pratique. Les différents appareils peuvent être connectés via les 2 ports USB 3.0 et la sortie mini HDMI.
-- ULTRA MINCE ET LÉGER - Seulement 1,8 kg, écran IPS Full HD 15,6 pouces, une épaisseur ultra fine de seulement 7 mm. Lécran a une résolution de 1080P (1920 x 1080).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08ZMRZMDX/?tag=tolees0d-21)
