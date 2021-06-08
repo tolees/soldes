@@ -28,10 +28,10 @@ Vous avez [ESR Coque/Étui/Housse de Protection avec Smart Cover/Rabat en PU Ult
 
 ℹ️:
 
-- Ultra fin et léger, offre une main confortable incroyable.
 - Matériau de grande qualité : de haute qualité PU leatner avec coque arrière qui protège lécran de votre iPad et son doux.
 - Protection complète : 1 mm plus large que plaque arrière, la coque intérieure protège votre iPad de lusure quotidienne et des déchirures et chute accidentelle.
-- Veille/Réveil Automatique : aimant intégré pour contrôler la fonction de veille/réveil.
 - [Compatibilité] : Conception unique pour iPad 9.7 (modèle n° : A1893 A1954). Non compatible avec le reste des iPad ou tablettes.
+- Ultra fin et léger, offre une main confortable incroyable.
+- Veille/Réveil Automatique : aimant intégré pour contrôler la fonction de veille/réveil.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X6LSBZ6/?tag=tolees0d-21)

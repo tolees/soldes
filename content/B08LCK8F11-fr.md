@@ -28,10 +28,10 @@ C'est en vente [Italian Shopping Network - ISN mask2 - Masque de protection resp
 
 ℹ️:
 
-- Expédition rapide dans toute la France. Avec marquage CE, déclaration de conformité UE
-- Confortable : masque FFP2 conçu pour fournir une résistance respiratoire qui fonctionne en éliminant efficacement lair, afin de réduire laccumulation de chaleur et dhumidité, tout en assurant une utilisation confortable pendant les activités quotidiennes
 - SÉCURITÉ CERTIFIÉE: masques faciaux de catégorie FFP2 NR pour la protection contre la poussière, le pollen, les bactéries et autres particules solides. Certifié CE selon EN 149: 2001
-- Élastiques auriculaires pour un maximum de confort et une facilité de port
 - Lemballage comprend 10 masques FFP2 emballés individuellement et scellés. Masques à haute efficacité avec une capacité de filtration de 95%
+- Élastiques auriculaires pour un maximum de confort et une facilité de port
+- Confortable : masque FFP2 conçu pour fournir une résistance respiratoire qui fonctionne en éliminant efficacement lair, afin de réduire laccumulation de chaleur et dhumidité, tout en assurant une utilisation confortable pendant les activités quotidiennes
+- Expédition rapide dans toute la France. Avec marquage CE, déclaration de conformité UE
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08LCK8F11/?tag=tolees0d-21)
