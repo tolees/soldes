@@ -28,10 +28,10 @@ Vous avez [FERM Jeu de 20 Fraises - pour défonceuses - Avec coffret en aluminiu
 
 ℹ️:
 
-- De plus, cet ensemble de fraises est fourni dans une mallette en aluminium pratique.
-- Ensemble de fraises très complet (20 pièces) pour des travaux de fraisage divers.
-- Les accessoires sont adaptés pour les défonceuses avec un diamètre daxe de 8 mm
 - Convient pour les défonceuses FERM PRM1015, PRM1018 et PRM1021
+- Ensemble de fraises très complet (20 pièces) pour des travaux de fraisage divers.
 - Convient également pour les défonceuses dautres marques comme Powerplus, Bosch, Einhell, Black + Decker et Hitachi (faites attention aux dimensions de la tige)
+- Les accessoires sont adaptés pour les défonceuses avec un diamètre daxe de 8 mm
+- De plus, cet ensemble de fraises est fourni dans une mallette en aluminium pratique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008PQI4S6/?tag=tolees0d-21)
