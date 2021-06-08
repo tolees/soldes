@@ -28,9 +28,9 @@ Vous avez [Take 2 - GTA IV [import anglais]](https://www.amazon.fr/dp/B001EO74NW
 
 ℹ️:
 
-- Free roam environment
-- Online multiplayer with 15 modes of play and up to 16 players
 - Add on (expansion) content available
+- Online multiplayer with 15 modes of play and up to 16 players
+- Free roam environment
 - Ce jeu est une version importée, Il nest pas garanti que le français soit disponible dans les options de jeu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001EO74NW/?tag=tolees0d-21)
