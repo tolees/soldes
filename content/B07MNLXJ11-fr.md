@@ -28,11 +28,11 @@ C'est en vente [Spin Master Games - PERPLEXUS - PERPLEXUS BEAST - Labyrinthe Par
 
 ℹ️:
 
-- FACILE À MANIPULER, MAIS DIFFICILE À MAÎTRISER - Manipulez le Perplexus Beast dans tous les sens jusquà la ligne darrivée. Vous allez vite devenir accro ! Lorsque vous aurez maîtrisé le parcours, passez au Perplexus Epic (vendu séparément)
-- JOUET ENFANT 9 ANS ET + - La boule PERPLEXUS BEAST convient aux enfants à partir de 9 ans ; jeu enfant casse-tête
-- LABYRINTHE 3D - Un labyrinthe en 3 dimensions, contenu dans une sphère transparente que le joueur doit manipuler dans tous les sens pour faire progresser une bille à travers le parcours. Le circuit utilise à la fois endroit et envers, obligeant les joueurs à adapter leurs mouvements aux 3 dimensions, avec des passages de plus en plus difficiles. La moindre erreur est fatale. Relevez le défi et testez votre talent
-- PERPLEXUS - Perplexus est à la fois un casse tête et un jeu d’habileté diabolique, innovant et addictif. Il est un jeu qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
 - 100 DÉFIS COMPLEXES - Réussirez-vous à relever les 100 défis que constituent le parcours du Perplexus Beast ? Faites avancer la bille sur le circuit numéroté malgré des défis complexes comme la spirale infernale, la corniche et la balançoire. Attention, la bille ne doit pas tomber
+- LABYRINTHE 3D - Un labyrinthe en 3 dimensions, contenu dans une sphère transparente que le joueur doit manipuler dans tous les sens pour faire progresser une bille à travers le parcours. Le circuit utilise à la fois endroit et envers, obligeant les joueurs à adapter leurs mouvements aux 3 dimensions, avec des passages de plus en plus difficiles. La moindre erreur est fatale. Relevez le défi et testez votre talent
 - CADEAU ENFANT - Pour un anniversaire ou Noël offrez le casse-tête Perplexus Beast ; la version idéale pour que petits et grands se lancent, un niveau de difficulté intermédiaire
+- JOUET ENFANT 9 ANS ET + - La boule PERPLEXUS BEAST convient aux enfants à partir de 9 ans ; jeu enfant casse-tête
+- FACILE À MANIPULER, MAIS DIFFICILE À MAÎTRISER - Manipulez le Perplexus Beast dans tous les sens jusquà la ligne darrivée. Vous allez vite devenir accro ! Lorsque vous aurez maîtrisé le parcours, passez au Perplexus Epic (vendu séparément)
+- PERPLEXUS - Perplexus est à la fois un casse tête et un jeu d’habileté diabolique, innovant et addictif. Il est un jeu qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MNLXJ11/?tag=tolees0d-21)

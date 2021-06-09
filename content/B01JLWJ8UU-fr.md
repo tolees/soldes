@@ -28,9 +28,9 @@ Vous avez [Makita DJR188Z Scie Récipro Brushless 18V  vendue seule ](https://ww
 
 ℹ️:
 
-- Léclairage LED incorporé permet une bonne visibilité de la base de travail
-- Machine compacte à encombrement réduit dans la longueur (316 mm seulement)
 - (Pt) protection contre linfiltration de la poussières et de leaux pour un usage dans des conditions difficiles
+- Léclairage LED incorporé permet une bonne visibilité de la base de travail
 - Poignée ergonomique
+- Machine compacte à encombrement réduit dans la longueur (316 mm seulement)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JLWJ8UU/?tag=tolees0d-21)

@@ -29,11 +29,11 @@ Vous avez [SAMSUNG Galaxy Fold 2  256 Go - Android 10.0  Bronze](https://www.ama
 ℹ️:
 
 - Cinq capteuPolyvalence ultimers photos:
-- Système exploitation : Android 10.0
-- Écran extérieur: 6,2’’ Super AMOLED
 - Charnière à position libre: Plus de flexibilité
-- Composants inclus : Smartphone - kit piéton-bloc de charge - câble USB type C- guide d utilisation
 - Grand écran pliable intérieur: 7,6’’ Dynamic AMOLED
+- Composants inclus : Smartphone - kit piéton-bloc de charge - câble USB type C- guide d utilisation
+- Écran extérieur: 6,2’’ Super AMOLED
 - Taille daffichage : 6.2 inches
+- Système exploitation : Android 10.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HKJBFJS/?tag=tolees0d-21)

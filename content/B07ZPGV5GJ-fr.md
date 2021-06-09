@@ -28,12 +28,12 @@ C'est en vente [Marque Amazon - Solimo Anti-transpirante à bille  protection 48
 
 ℹ️:
 
+- Effet désodorisant 48h
+- Élimine les mauvaises odeurs
+- Anti-perspirant - Formule anti-traces blanches
 - Testé sous contrôle dermatologique - Pour tout type de peau
 - Effet anti-perspirant longue durée & action prolongée pendant 48h
-- Effet désodorisant 48h
-- 0% de parabène 0% dalcool
-- Anti-perspirant - Formule anti-traces blanches
 - Respecte et protège la peau
-- Élimine les mauvaises odeurs
+- 0% de parabène 0% dalcool
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZPGV5GJ/?tag=tolees0d-21)

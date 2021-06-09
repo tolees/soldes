@@ -28,8 +28,8 @@ Vous avez [Majesty - Asmodee - Jeu de société - Jeu de cartes - Jeu de straté
 
 ℹ️:
 
-- Durée de joue: 30 min
 - Cette perle ludique est le dernier chef d’oeuvre de marc Andréa, auteur du célèbre splendor.
 - Majesty est servi par un matériel de qualité, illustré avec soin par anne heidsieck.
+- Durée de joue: 30 min
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078XG6CHW/?tag=tolees0d-21)

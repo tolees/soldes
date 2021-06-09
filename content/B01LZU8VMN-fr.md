@@ -28,8 +28,8 @@ Vous avez [Gel Press GEL10803 Plaque de Gel  Transparent  30.48 x 30.48 cm](http
 
 ℹ️:
 
-- Amusant – amusez-vous à expérimenter et à créer des impressions uniques. La Mono impression est un métier super populaire et addictif!
 - Sans danger- plaques durables et réutilisables, non toxiques, sans Latex, végétaliennes et sans cruauté
+- Amusant – amusez-vous à expérimenter et à créer des impressions uniques. La Mono impression est un métier super populaire et addictif!
 - Facile – impression facile et amusante, Gel Press est facile à nettoyer avec du savon et de leau ou des lingettes pour bébé. Une boite spécial est inclus pour un facile rangement
 - Polyvalent – il peut être utilisé avec une grande variété de supports (barres de pigments à lhuile, peintures acryliques, encre à base dalcool, etc.) et sur différents types de papier
 - Qualité supérieure – la surface super sensible capture des textures et des détails très fins

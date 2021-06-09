@@ -28,8 +28,8 @@ Vous avez [PQube - New Super Lucky s Tale pour Nintendo Switch](https://www.amaz
 
 ℹ️:
 
-- Un jeu de plateforme et daventure dynamique en 3D dans lesprit des classiques du genre, avec des centaines dobjets à collectionner, des tonnes de secrets à débloquer
 - Expérimentez un Game Play des plus variés: parcourez un gigantesque monde en 3D, vivez une aventure au scénario riche, relevez des défis à défilement latéral en 2D
 - New super luckys tale propose des niveaux inédits mais aussi des niveaux originaux redessinés
+- Un jeu de plateforme et daventure dynamique en 3D dans lesprit des classiques du genre, avec des centaines dobjets à collectionner, des tonnes de secrets à débloquer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YGM266F/?tag=tolees0d-21)
