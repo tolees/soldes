@@ -28,9 +28,9 @@ C'est en vente [LEGO Trolls World Tour  La soirée dansante de Techno  Island Co
 
 ℹ️:
 
-- Les accessoires incluent des haut-parleurs, des lumières stroboscopiques, des prétendus phares, des diamants, une brosse à cheveux, des coraux et des fleurs sous-marines
 - Apportez lunivers des Trolls pour inspirer des expériences de jeu créatives et fascinantes dans une célébration colorée de la positivité
 - Comprend une figurine de sirène de Troll pour le jeu de rôle de soirée DJ, avec des cheveux et des postiches amovibles à décorer, ainsi quun copain poulpe
+- Les accessoires incluent des haut-parleurs, des lumières stroboscopiques, des prétendus phares, des diamants, une brosse à cheveux, des coraux et des fleurs sous-marines
 - Les enfants peuvent mettre la sirène sur le récif en forme de cœur pour la voir tourner ou glisser avec son amie pieuvre dans une aventure sous-marine inspirée de la musique
 - Facile à construire Même les jeunes constructeurs peuvent profiter du sentiment daccomplissement de la construction indépendante
 

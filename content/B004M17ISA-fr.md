@@ -28,10 +28,10 @@ C'est en vente [Island - Queen - Remasterisé 2011](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Record Label: Island
 - Year Of Release: 2011
 - Catalog#: 06025 2763876
-- Notes: 2011 Edition - Enhanced
+- Record Label: Island
 - Country Of Release: NLD
+- Notes: 2011 Edition - Enhanced
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004M17ISA/?tag=tolees0d-21)

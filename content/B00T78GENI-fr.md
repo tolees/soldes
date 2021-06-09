@@ -28,10 +28,10 @@ Vous avez [Transcend 128Go JetFlash 810 Clé USB 3.1 Gen 1 TS128GJF810  Bleu](ht
 
 ℹ️:
 
-- Palette de couleurs sportives accrocheuses en extérieur
-- Conception robuste en caoutchouc résistante à la poussière et aux éclaboussures
-- Interface USB 3.1 Gen 1
-- Logiciel de gestion de données Transcend Elite
 - Conforme aux normes dessai de chute militaires MIL-STD-810G 516.6 des États-Unis
+- Interface USB 3.1 Gen 1
+- Conception robuste en caoutchouc résistante à la poussière et aux éclaboussures
+- Palette de couleurs sportives accrocheuses en extérieur
+- Logiciel de gestion de données Transcend Elite
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00T78GENI/?tag=tolees0d-21)

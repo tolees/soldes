@@ -28,12 +28,12 @@ C'est en vente [Paper Mate Flexgrip Ultra Lot de 36 Stylo-bille rétractable Noi
 
 ℹ️:
 
-- Dureté de la mine :
-- Garantie :
-- Corps arrondi.
+- Constitué à 55% de matériaux recyclés (cône de la pointe et corps).
 - Rétractable :
 - Clip design et élégant.
+- Garantie :
 - Corps caoutchouté pour un plus grand confort
-- Constitué à 55% de matériaux recyclés (cône de la pointe et corps).
+- Dureté de la mine :
+- Corps arrondi.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NMH5EKE/?tag=tolees0d-21)
