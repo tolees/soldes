@@ -28,8 +28,8 @@ Vous avez [Geox D PONTOISE D  Sneakers Basses Femme  Blanc  White C1000   39 EU]
 
 ℹ️:
 
-- Matériau extérieur : cuir lisse
-- Semelle : synthétique
 - Matériau intérieur : maille
+- Semelle : synthétique
+- Matériau extérieur : cuir lisse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFZ2Z32/?tag=tolees0d-21)
