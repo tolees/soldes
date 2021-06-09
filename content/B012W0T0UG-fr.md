@@ -28,12 +28,12 @@ Vous avez [Philips S5400/06 Rasoir électrique Aquatouch 100% étanche](https://
 
 ℹ️:
 
-- Les têtes flexibles dans 5 directions assurent un excellent contact avec la peau, pour un rasage de près rapide, même sur le cou et la mâchoire.
-- Les lames Multi Précision soulèvent et coupent les poils courts et longs pour un rasage rapide.
-- Tondeuse nez/oreilles clip sable pour couper les poils disgracieux. Tondeuse de précision clip sable pour entretenir la moustache et tailler les pattes.
-- Rinçage facile sous le robinet grâce aux têtes lavables sous leau.
-- Sans fil
-- Un rasage de près rapide. Un rasage des zones les plus denses de la barbe grâce à 20 % de puissance en plus*.
 - Étanche
+- Tondeuse nez/oreilles clip sable pour couper les poils disgracieux. Tondeuse de précision clip sable pour entretenir la moustache et tailler les pattes.
+- Les lames Multi Précision soulèvent et coupent les poils courts et longs pour un rasage rapide.
+- Sans fil
+- Les têtes flexibles dans 5 directions assurent un excellent contact avec la peau, pour un rasage de près rapide, même sur le cou et la mâchoire.
+- Un rasage de près rapide. Un rasage des zones les plus denses de la barbe grâce à 20 % de puissance en plus*.
+- Rinçage facile sous le robinet grâce aux têtes lavables sous leau.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21)

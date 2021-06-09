@@ -28,11 +28,11 @@ C'est en vente [Head & Shoulders  Classic 2en1 Shampoing et après-shampoing Ant
 
 ℹ️:
 
-- Pour une combinaison parfaite, il est à utiliser avec un après-shampooing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
-- Le shampoing antipelliculaire Classic 2 en 1 nettoie les cheveux, tout en leur apportant fraîcheur et hydratation intense
-- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
 - Protection contre les démangeaisons jusqu’à 72 h (pellicules visibles, avec utilisation régulière) (démangeaisons liées aux pellicules)
+- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
+- Pour une combinaison parfaite, il est à utiliser avec un après-shampooing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
 - La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
 - Cible la cause première des pellicules pour éliminer jusqu’à 100 % des pellicules (avec une utilisation régulière)
+- Le shampoing antipelliculaire Classic 2 en 1 nettoie les cheveux, tout en leur apportant fraîcheur et hydratation intense
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00QPROY9U/?tag=tolees0d-21)

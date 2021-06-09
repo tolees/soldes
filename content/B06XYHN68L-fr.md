@@ -29,9 +29,9 @@ Vous avez [Carte Mémoire microSDHC SanDisk Extreme PRO 32 Go + Adaptateur SD ju
 ℹ️:
 
 - Filmez des vidéos Full HD et UHD 4K en mode rafale continue
-- Notre carte UHS-I la plus rapide transfère les fichiers volumineux rapidement
-- Des performances professionnelles allant jusquà 100/90 Mo/s en lecture/écriture pour des transferts et saisies plus rapides
-- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour vidéo UHD 4K
 - Homologuée A1 pour des performances dappli plus rapides
+- Des performances professionnelles allant jusquà 100/90 Mo/s en lecture/écriture pour des transferts et saisies plus rapides
+- Notre carte UHS-I la plus rapide transfère les fichiers volumineux rapidement
+- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour vidéo UHD 4K
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XYHN68L/?tag=tolees0d-21)

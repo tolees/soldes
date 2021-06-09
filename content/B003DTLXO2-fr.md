@@ -28,9 +28,9 @@ Vous avez [roba Chaise haute évolutive  Sit Up III   en bois naturel  chaise ha
 
 ℹ️:
 
-- Lassemblage facile de la chaise haute prend environ 30 minutes. Pour le nettoyage, vous pouvez utiliser un chiffon humide.
 - Lassise et le repose-pieds de la chaise haute évolutive sont réglable en hauteur et en profondeur pour un ajustement de la chaise ergonomique qui s´adapte à la phase de croissance de votre enfant.
 - La hauteur de lassise de la chaise haute est de 55 centimètres maximums, la hauteur minimale est de 42,5 centimètres. Dimensions: 80 cm x 44,5 cm x 54 cm, arceau de sécurité à 71 cm.
+- Lassemblage facile de la chaise haute prend environ 30 minutes. Pour le nettoyage, vous pouvez utiliser un chiffon humide.
 - Larceau de sécurité amovible et le harnais de sécurité offrent une protection supplémentaire aux plus petits. La chaise haute s´adapte à plusieurs hauteurs de table et peut être réglée de manière flexible à la table et au bureau.
 - Apte comme chaise haute pour les tout-petits, qui arrivent à se tenir assis (à partir denviron 6 mois). Le produit a été testé pour une capacité jusqu’à 50 kg.
 

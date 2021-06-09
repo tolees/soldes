@@ -28,10 +28,10 @@ C'est en vente [Projecteur Portable Nebula Astro  cinéma de Poche pour Enfants 
 
 ℹ️:
 
-- Le monde devient votre cinéma : transformez votre chambre, votre terrasse ou tout autre lieu en cinéma personnel grâce à au projecteur de poche Astro.
-- Contenus pour enfants : décidez ce que vos enfants peuvent regarder grâce aux fonctionnalités de contrôle parental. Verrouillez les films et les applications réservés aux parents à laide dun mot de passe pour que vos enfants ne puissent pas les regarder.
-- Divertissement sans limites : un monde de divertissement souvre à vous depuis la paume de votre main avec Android 7.1. Plongez-vous dans vos films et séries préférés sur Netflix ou Amazon Prime, distrayez vos enfants avec YouTube Kids, et bien plus encore.
 - Semporte partout : lautonomie de 2,5 heures vous permet de regarder un film ou plusieurs épisodes de votre série préférée, où que vous soyez.
+- Contenus pour enfants : décidez ce que vos enfants peuvent regarder grâce aux fonctionnalités de contrôle parental. Verrouillez les films et les applications réservés aux parents à laide dun mot de passe pour que vos enfants ne puissent pas les regarder.
+- Le monde devient votre cinéma : transformez votre chambre, votre terrasse ou tout autre lieu en cinéma personnel grâce à au projecteur de poche Astro.
+- Divertissement sans limites : un monde de divertissement souvre à vous depuis la paume de votre main avec Android 7.1. Plongez-vous dans vos films et séries préférés sur Netflix ou Amazon Prime, distrayez vos enfants avec YouTube Kids, et bien plus encore.
 - Visionnage serein : la technologie Eye Guard fournit une protection supplémentaire aux enfants sintéressant dun peu trop près à la lampe de projection DLP dAstro. Dès quune personne passe à 60 cm ou moins devant la lampe, Astro éteint automatiquement le projecteur pour protéger ses yeux.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085PRXWHK/?tag=tolees0d-21)

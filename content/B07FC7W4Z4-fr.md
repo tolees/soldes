@@ -28,10 +28,10 @@ Vous avez [HUION KAMVAS Pro 13 Tablette Graphique avec Ecran 13.3 Pouces avec 4 
 
 ℹ️:
 
+- ▲Gamme de couleurs sRVB à 120% offrant des couleurs plus riches et une transition plus naturelle. Le taux de rapport de 266 PPS le plus élevé garantit de meilleures performances et une réponse plus rapide.
 - ▲Facile à transporter：La nouvelle conception du verre antireflet Full Lamination Screen pourrait effectivement réduire les interférences de léblouissement et réduire la distance entre la pointe du stylet et le curseur, ce qui rend le trait plus précis. 13 pouces en font une taille compacte et il est facile à transporter.
+- ▲4 touches express et 1 barre tactile: elles peuvent non seulement vous faire gagner du temps, mais également améliorer votre productivité. Vous êtes libre de configurer vos clés expresses préférées.
 - ▲Le nouveau support réglable dans lemballage. Compatible avec Windows 7 ou version ultérieure et Mac OS 10.12 ou version ultérieure.
 - ▲Support dinclinaison: Détection dinclinaison naturelle ± 60 niveaux. Stylo sans pile PW507: Comprend une pression de stylet de 8192 niveaux qui procure une expérience de dessin plus précise et naturelle.
-- ▲4 touches express et 1 barre tactile: elles peuvent non seulement vous faire gagner du temps, mais également améliorer votre productivité. Vous êtes libre de configurer vos clés expresses préférées.
-- ▲Gamme de couleurs sRVB à 120% offrant des couleurs plus riches et une transition plus naturelle. Le taux de rapport de 266 PPS le plus élevé garantit de meilleures performances et une réponse plus rapide.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FC7W4Z4/?tag=tolees0d-21)

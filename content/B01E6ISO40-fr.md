@@ -28,10 +28,10 @@ Vous avez [Somfy 1841026 - Télécommande Keytis 2 canaux RTS | Pour commander 2
 
 ℹ️:
 
-- Livrée avec une pile CR2430
-- Télécommande RTS 1ère génération, remplacée par la Keypop 2 RTS (2401539), télécommande 2 canaux
-- Pour contrôler une motorisation de portail et/ou porte de garage Somfy avec une seule télécommande
 - Ouvrez votre portail et votre porte de garage sans sortir de votre voiture !
+- Télécommande RTS 1ère génération, remplacée par la Keypop 2 RTS (2401539), télécommande 2 canaux
 - Fonctionne avec tous les moteurs dotés de la technologie radio RTS. Contrôlez deux équipements : un moteur de portail, de store, de garage ou un éclairage équipé dun récepteur radio RTS
+- Livrée avec une pile CR2430
+- Pour contrôler une motorisation de portail et/ou porte de garage Somfy avec une seule télécommande
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01E6ISO40/?tag=tolees0d-21)
