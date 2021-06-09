@@ -28,9 +28,9 @@ C'est en vente [Ravensburger Erwachsenenpuzzle - Ravensburger 19953 Exit in U-Bo
 
 ℹ️:
 
-- Un concept innovant pour les adeptes de jeux vidéos et d’assemblage de puzzles.
-- Revivez le puzzle au rythme des Escape Rooms : un puzzle et des énigmes à résoudre.
 - Un grand puzzle de 759 pièces, un livret d’instructions (français non garanti) et une enveloppe contenant la solution des énigmes.
+- Revivez le puzzle au rythme des Escape Rooms : un puzzle et des énigmes à résoudre.
+- Un concept innovant pour les adeptes de jeux vidéos et d’assemblage de puzzles.
 - Des motifs et des histoires passionnantes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLNJDGW/?tag=tolees0d-21)

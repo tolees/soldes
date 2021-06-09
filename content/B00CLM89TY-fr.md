@@ -29,12 +29,12 @@ C'est en vente [Générique - Console Blanc/Taupe  2030A2191A17](https://www.ama
 ℹ️:
 
 - Panneaux de particules mélaminés
-- Design contemporain
-- item_height : 79.2 centimeters
 - item_width : 28.0 centimeters
-- Contenu du packaging : 1
+- Design contemporain
 - Facile à monter
+- Contenu du packaging : 1
 - Garantie : 1 an
 - Item_length : 120.0 centimeters
+- item_height : 79.2 centimeters
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CLM89TY/?tag=tolees0d-21)

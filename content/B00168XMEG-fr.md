@@ -28,12 +28,12 @@ Vous avez [Kenwood AT641A Centrifugeuse Métal/Tamis Métal pour robot Chef et M
 
 ℹ️:
 
-- Famille: Chef et Major
+- Pour éviter toute éclaboussure, vous disposez dun gobelet de 1 L avec un filtre pour retenir la mousse
 - Equipée dun tamis en acier inoxydable et dune large cheminée, pour une plus grande efficacité, elle est également entièrement démontable pour un nettoyage parfait
+- Famille: Chef et Major
 - Il na jamais été aussi facile de consommer 5 fruits et légumes par jour, Matériel: Plastique
+- La centrifugeuse vous permet de réaliser des jus de fruits et de légumes : ananas, pommes, kiwis, carottes, tomates
 - Sortie: Rapide
 - Adaptable sur la gamme: Classic, Premier, Titanium et Cooking Chef
-- Pour éviter toute éclaboussure, vous disposez dun gobelet de 1 L avec un filtre pour retenir la mousse
-- La centrifugeuse vous permet de réaliser des jus de fruits et de légumes : ananas, pommes, kiwis, carottes, tomates
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00168XMEG/?tag=tolees0d-21)

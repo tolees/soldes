@@ -29,7 +29,7 @@ C'est en vente [ECCO Bella  Loafer. Femme  Bleu Gris Argenté  43 EU](https://ww
 ℹ️:
 
 - Matériau extérieur : nubuck
-- Matériau intérieur : synthétique
 - Semelle : synthétique
+- Matériau intérieur : synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BWSBBK7/?tag=tolees0d-21)
