@@ -28,9 +28,9 @@ C'est en vente [Bosch Home and Garden - Bosch Batterie de Remplacement  36 V  2 
 
 ℹ️:
 
-- Remarque: veuillez noter que les batteries Garden 36V sont les mêmes que les batteries PRO
-- 50% plus dexécution pour une efficacité maximale
-- Boîtier au design robuste pour la robustesse
 - Indicateur de charge de batterie pour plus de commodité
+- Remarque: veuillez noter que les batteries Garden 36V sont les mêmes que les batteries PRO
+- Boîtier au design robuste pour la robustesse
+- 50% plus dexécution pour une efficacité maximale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MR2D5SC/?tag=tolees0d-21)
