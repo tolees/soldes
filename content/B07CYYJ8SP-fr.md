@@ -28,8 +28,8 @@ Vous avez [Salomon XA PRO 3D MID CSWP J  Noir/Orange  Black/Stormy Weather/Cherr
 
 ℹ️:
 
+- Longueur de la Chaussure: Nous vous conseillons de prendre votre pointure habituelle.
 - Largeur: Standard
 - Baskets mode
-- Longueur de la Chaussure: Nous vous conseillons de prendre votre pointure habituelle.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CYYJ8SP/?tag=tolees0d-21)

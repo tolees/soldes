@@ -28,13 +28,13 @@ Vous avez [Marque Amazon - Solimo MEN Anti-transpirante à bille pour hommes  pr
 
 ℹ️:
 
-- Doux et délicat sur la peau de l’aisselle
-- Effet anti-perspirant durable et action prolongée pendant 48h
-- Dermatologiquement testé - Pour tous types de peaux
-- Sentiment de confort et de bien-être
-- Effet désodorisant 48h
-- Lot de 6 (6x50 ml)
 - Anti-perspirant - Formule anti-traces blanches
+- Lot de 6 (6x50 ml)
 - Diminue la quantité de sueur
+- Dermatologiquement testé - Pour tous types de peaux
+- Effet anti-perspirant durable et action prolongée pendant 48h
+- Effet désodorisant 48h
+- Doux et délicat sur la peau de l’aisselle
+- Sentiment de confort et de bien-être
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZPH2WJV/?tag=tolees0d-21)

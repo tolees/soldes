@@ -29,9 +29,9 @@ Vous avez [edding 55 Feutre fin - 16 stylos - pointe gainée en métal 0 3 mm - 
 ℹ️:
 
 - La pointe synthétique gainée métal a une largeur de trait de 0,3 mm
-- Lencre à base deau est aquarellable avant séchage et ne traverse pas le papier
-- Feutre fin pour écrire, réaliser des croquis et des illustrations et créer des présentations sur du papier de couleur claire
-- Assortiment de 16 feutres: noir, rouge, bleu, vert, jaune, orange, marron, violet, rose, bleu clair, vert clair, gris, turquoise, bleu acier, rouge carmin et violet.
 - Article disponible en 16 couleurs différentes
+- Lencre à base deau est aquarellable avant séchage et ne traverse pas le papier
+- Assortiment de 16 feutres: noir, rouge, bleu, vert, jaune, orange, marron, violet, rose, bleu clair, vert clair, gris, turquoise, bleu acier, rouge carmin et violet.
+- Feutre fin pour écrire, réaliser des croquis et des illustrations et créer des présentations sur du papier de couleur claire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0012F4FWG/?tag=tolees0d-21)

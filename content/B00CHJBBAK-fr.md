@@ -28,8 +28,8 @@ Vous avez [KESPER 58462 Planche Couteau à Pizza 32cm en Bambou  Bamboo  Nature 
 
 ℹ️:
 
-- Optiques fascinants
 - Idéal pour servir et partager platters
+- Optiques fascinants
 - Matériel: Bambou
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CHJBBAK/?tag=tolees0d-21)
