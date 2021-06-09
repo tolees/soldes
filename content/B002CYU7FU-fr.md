@@ -28,7 +28,7 @@ C'est en vente [Smir - 4702 - Jeu de Société - Coffret Luxe Magie + DVD](https
 
 ℹ️:
 
-- Nécessite des piles: Non
 - Descriptif Produit: Réalise des tours de magie surprenants, comme un professionnel pour épater tes amis et ta famille! Coffret composé de nombreux accessoires tels que des cartes, anneaux, dés, gobelets,... Livré avec DVD et manuel dinstructions.
+- Nécessite des piles: Non
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002CYU7FU/?tag=tolees0d-21)

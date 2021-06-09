@@ -28,11 +28,11 @@ Vous avez [Alessi Sg74 Babà Tabouret/ Panier avec Assise en Acier Inoxydable 18
 
 ℹ️:
 
-- Design : Stefano Giovannoni
-- Tabouret et panier à linge avec couvercle Baba en acier inoxydable et bois
-- <b>Diamètre</b>: 36 cm
-- Poli, brillant
 - <b>Description du produit</b>: Alessi SG74
+- Tabouret et panier à linge avec couvercle Baba en acier inoxydable et bois
+- Poli, brillant
+- Design : Stefano Giovannoni
+- <b>Diamètre</b>: 36 cm
 - <b>Hauteur</b>: 46.5 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001DQL8GA/?tag=tolees0d-21)

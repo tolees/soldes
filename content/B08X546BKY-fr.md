@@ -28,10 +28,10 @@ Vous avez [Inin Games - Wonder Boy Asha In Monster World  Nintendo Switch ](http
 
 ℹ️:
 
-- Graphismes remasterisés avec un nouveau design 2.5D en cel-shading du plus bel effet, des sons et une bande-son du jeu remasterisés par Shinichi Sakamoto
-- Asha se lance avec son ami volant bleu Pepelogoo pour laccompagner dans ses aventures, dans une quête pour sauver les esprits disparus et sauver le monde.
 - Comprend loriginal Monster World IV sur Mega Drive!
 - Pour la toute première fois des voix pour tous les personnages principaux et de nouvelles cinématiques et animations dynamiques
+- Graphismes remasterisés avec un nouveau design 2.5D en cel-shading du plus bel effet, des sons et une bande-son du jeu remasterisés par Shinichi Sakamoto
+- Asha se lance avec son ami volant bleu Pepelogoo pour laccompagner dans ses aventures, dans une quête pour sauver les esprits disparus et sauver le monde.
 - Pour célébrer le 35e anniversaire de la série Wonder Boy, léquipe originale de Westone sest réunie pour faire revivre le favori des fans de 1994, Monster World IV.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08X546BKY/?tag=tolees0d-21)

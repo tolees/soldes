@@ -28,10 +28,10 @@ C'est en vente [Kipling Seoul Sac à Dos Loisir  44 cm  27 Litres  Bleu  Active 
 
 ℹ️:
 
-- Poignée sur le dessus
 - Singe métallique 3D
+- Poignée sur le dessus
 - Pochette pour téléphone portable
-- Bretelles de sac à dos ajustables
 - Pochette pour portefeuille
+- Bretelles de sac à dos ajustables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083YF5KTB/?tag=tolees0d-21)
