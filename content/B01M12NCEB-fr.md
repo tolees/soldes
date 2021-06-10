@@ -28,10 +28,10 @@ Vous avez [GPO Retro - GPO Bermuda- Platine vinyle classique de style rétro ave
 
 ℹ️:
 
-- Enregistrez tous vos vinyles (33, 45 et 78) sur une clé USB au format MP3
+- Tourne-disque sur pied avec pieds amovibles
 - Le bras de lecture a un arrêt automatique / retour automatique réglable
+- Enregistrez tous vos vinyles (33, 45 et 78) sur une clé USB au format MP3
 - Lecture à partir dune clé USB ou dautres appareils via AUX IN
 - Deux haut-parleurs stéréo intégrés avec sortie 2 x 2,5 watts (5 watts au total)
-- Tourne-disque sur pied avec pieds amovibles
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M12NCEB/?tag=tolees0d-21)
