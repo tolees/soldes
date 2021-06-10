@@ -28,8 +28,8 @@ C'est en vente [G-STAR RAW Sleeve Pocket Sweat - Pullover  DK Black/Combat C707-
 
 ℹ️:
 
-- Écusson G-Star RAW tissé en bas du devant
 - Manches longues à poignet tombant côtelé
+- Écusson G-Star RAW tissé en bas du devant
 - Poche biceps à bord roulotté
 - Col rond côtelé
 - Ourlet droit avec bord côtelé
