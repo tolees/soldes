@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG cfv-300 Housse Noir Pochette pour Tél avec 26.31 % rabais '
-date: 2021-06-01 12:59:03
+date: 2021-06-10 19:52:59
 image: 'https://m.media-amazon.com/images/I/41ihA7jBQ9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [LG cfv-300 Housse Noir Pochette pour Téléphone Portable  Hous
 
 ℹ️:
 
+- Poids du colis de larticle : 100 g
+- Quantité de colis darticles : 1
 - Couleur : Noir
 - Numéro de modèle de larticle : CFV-300.AGEUBK
-- Quantité de colis darticles : 1
-- Poids du colis de larticle : 100 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0711VBSWF/?tag=tolees0d-21)

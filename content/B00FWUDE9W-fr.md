@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ILCE7 Appareil Photo Numérique Hybr avec 26.45 % rabais '
-date: 2021-06-05 09:43:35
+date: 2021-06-10 21:44:17
 image: 'https://m.media-amazon.com/images/I/513quincG2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Sony ILCE7 Appareil Photo Numérique Hybride Boitier Nu  Capteur
 
 ℹ️:
 
-- Mise au point automatique Fast Hybrid
 - Moteur de traitement dimage BIONZ X
+- Mise au point automatique Fast Hybrid
 - Capteur plein format CMOS Exmor 24,3 mpx
 - Compact et robuste, idéal pour une utilisation professionnelle. Format denregistrement audio AVCHD: Dolby Digital(AC-3) 2ch, MP4: MPEG-4 AAC-LC 2ch
 - Proportions du capteur dimage: 3:2
