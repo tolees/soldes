@@ -28,7 +28,7 @@ Vous avez [MAKITA 194281-7 - Tope de profundidad para atornilladores de impacto]
 
 ℹ️:
 
-- MAKITA 194281-7 - Tope de profundidad para atornilladores de impacto
 - 194281-7
+- MAKITA 194281-7 - Tope de profundidad para atornilladores de impacto
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001U44KZQ/?tag=tolees0d-21)
