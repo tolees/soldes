@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.22 % rabais sur Tefal TL600830 Grille Pain Toast And Gri'
-date: 2021-06-04 13:28:09
+date: 2021-06-10 17:43:32
 image: 'https://m.media-amazon.com/images/I/41cunF6yowS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Tefal TL600830 Grille Pain Toast And Grill](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Hauteur: 21 cm
-- Puissance: 1300 W
-- Description du produit: Tefal TL 6008
 - Profondeur: 23 cm
+- Description du produit: Tefal TL 6008
+- Hauteur: 21 cm
 - Longueur: 40 cm
+- Puissance: 1300 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005JZ4KDO/?tag=tolees0d-21)

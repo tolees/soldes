@@ -29,8 +29,8 @@ Vous avez [IMC Toys - Disney - Grande RC cabriolet de Minnie Fashion Doll - 1841
 ℹ️:
 
 - Incroyable ! Le toit du cabriolet de Minnie de transforme en brosse pour brosser tes cheveux !
-- À partir de 3 ans
 - Télécommande toutes fonctions: marche avant/ marche arrière, tourne à gauche / tourne à droite.
+- À partir de 3 ans
 - Grand cabriolet radiocommandée de Minnie vu dans la série Mickey et ses amis Top Départ !
 - Nécessite des piles: 5 x LR06 AA et 2 x LR03 AAA non incluses.
 
