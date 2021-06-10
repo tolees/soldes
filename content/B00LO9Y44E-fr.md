@@ -28,10 +28,10 @@ Vous avez [PHILIPS S9711/32 Rasoir Electrique avec Système SmartClean Plus  Aut
 
 ℹ️:
 
-- Technologie ContourDectect : tête flexible dans 8 directions
 - Accessoire tondeuse barbe SmartClick inclus
+- Technologie ContourDectect : tête flexible dans 8 directions
+- Lames V-Track Precision pour une meilleure capture du poil
 - AquaTec : 100 % étanche utilisable à sec ou avec du gel ou de la mousse
 - 50 min dautonomie pour 1h de charge
-- Lames V-Track Precision pour une meilleure capture du poil
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LO9Y44E/?tag=tolees0d-21)
