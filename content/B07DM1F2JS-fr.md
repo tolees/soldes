@@ -28,9 +28,9 @@ Vous avez [Samsonite Pro-DLX 5 - Upright S Extensible Bagage Cabine  55 cm  44.5
 
 ℹ️:
 
-- Poches extérieures : Deux poches frontales
-- Poignée de traction : Poignée de traction double tube
 - Types de roues : Système de roulettes intégrées
+- Poignée de traction : Poignée de traction double tube
 - Poignées : Poignée(s) haute(s), poignée(s) de portage et poignée(s) inférieure(s)
+- Poches extérieures : Deux poches frontales
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DM1F2JS/?tag=tolees0d-21)
