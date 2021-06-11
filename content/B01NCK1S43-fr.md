@@ -28,10 +28,10 @@ C'est en vente [iCOO Pace Poussette Haut-de-Gamme jusqu’à 25 kg avec Position
 
 ℹ️:
 
-- DESIGNÉE EN ALLEMAGNE – Cette poussette élégante avec châssis en aluminium de couleur or convient pour longtemps : de 0 mois (en position allongée) jusqu’à 25 kg (siège 22 kg + panier 3 kg)
-- SÛRE – La poussette a un harnais 5 points ainsi qu’une barre de maintien et elle est conforme au standard de sécurité européen EN 1888
 - CONFORTABLE – Grâce au dossier et au repose-pied réglables, au siège spacieux, ainsi qu’au couvre-jambes et à la capote pare-soleil, votre enfants se sentira á l’aise pendant toutes vos balades
-- PRATIQUE – La poussette a des poignées ergonomiques, une porte-boissons ainsi qu’un grand panier pour les choses de bébé, les jouets ou les achats
+- DESIGNÉE EN ALLEMAGNE – Cette poussette élégante avec châssis en aluminium de couleur or convient pour longtemps : de 0 mois (en position allongée) jusqu’à 25 kg (siège 22 kg + panier 3 kg)
 - COMPAGNON DE VOYAGE – La poussette Pace se plie de façon plate et, avec moins de 10 kg et suspension ainsi que roues avant pivotantes et fixe, elle est facile à manipuler
+- SÛRE – La poussette a un harnais 5 points ainsi qu’une barre de maintien et elle est conforme au standard de sécurité européen EN 1888
+- PRATIQUE – La poussette a des poignées ergonomiques, une porte-boissons ainsi qu’un grand panier pour les choses de bébé, les jouets ou les achats
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NCK1S43/?tag=tolees0d-21)
