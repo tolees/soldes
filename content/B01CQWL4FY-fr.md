@@ -28,14 +28,14 @@ Vous avez [Avidsen - Kit Motorisation - Styrka 300  Motorisation Télescopique  
 
 ℹ️:
 
-- Portée de 100m en champ libre pour les télécommandes
-- Compatible kit dalimentation solaire (REF 114373)
 - Passage piéton: ouverture d’un seul battant
+- Fonction copie télécommande
+- Compatible avec tous types dinterphone audio/vidéo
+- Compatible kit dalimentation solaire (REF 114373)
+- Auto-diagnostic
+- Portée de 100m en champ libre pour les télécommandes
+- Garantie 2 ans
 - Arrêt automatique sur détection dobstacle et retour en arrière -
 - Conception électronique française
-- Garantie 2 ans
-- Auto-diagnostic
-- Compatible avec tous types dinterphone audio/vidéo
-- Fonction copie télécommande
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CQWL4FY/?tag=tolees0d-21)

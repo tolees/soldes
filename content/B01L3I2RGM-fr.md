@@ -28,10 +28,10 @@ Vous avez [Polti Vaporetto SV420 Frescovapor balai vapeur avec brosse Vaporforce
 
 ℹ️:
 
-- Puissance : 1500W
 - Vapeur réglable
 - La vapeur des balais vapeur Polti Vaporetto tue et élimine 99,9%* des virus, germes et bactéries.
 - Chauffe rapide: prêt en 15 secondes
+- Puissance : 1500W
 - Réservoir amovible. Filtre anticalcaire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01L3I2RGM/?tag=tolees0d-21)

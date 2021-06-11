@@ -28,9 +28,9 @@ C'est en vente [StarTech.com Adaptateur Mini DisplayPort vers DVI Dual-Link alim
 
 ℹ️:
 
-- Résolution maximale jusquà 2560 x 1600 avec dvi dual link
 - Installation plug-and-play facile
-- Alimentation par un port USB 2.0 unique
 - Prise en charge de tous les écrans DVI-D, y compris les télévisions et Apple cinéma Display HD
+- Alimentation par un port USB 2.0 unique
+- Résolution maximale jusquà 2560 x 1600 avec dvi dual link
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PSW9KYT/?tag=tolees0d-21)

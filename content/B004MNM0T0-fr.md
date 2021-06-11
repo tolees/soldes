@@ -28,10 +28,10 @@ Vous avez [Smiffy s - Smiffys Costume Fever d aventurière  noir  avec veste  Ju
 
 ℹ️:
 
-- Veuillez noter que tous les produits de Smiffys arriveront dans l’emballage entier marqué par Smiffys.
-- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
-- Smiffys est un fournisseur principal de déguisements et entreprise familiale avec un héritage de 123 années en costumes, perruques, maquillage et accessoires.
 - Poitrine 34.5-35.5" / Taille 26.5-27.5" / Hanche 37-38" / Entrejambe 32.5"
+- Veuillez noter que tous les produits de Smiffys arriveront dans l’emballage entier marqué par Smiffys.
+- Smiffys est un fournisseur principal de déguisements et entreprise familiale avec un héritage de 123 années en costumes, perruques, maquillage et accessoires.
 - Inclus Smiffys Costume Fever daventurière, noir, avec veste, Jupon attachés et chapeau
+- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004MNM0T0/?tag=tolees0d-21)
