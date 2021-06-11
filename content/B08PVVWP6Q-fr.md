@@ -28,10 +28,10 @@ Vous avez [B.K.Licht I barre de spots I 4 spots pivotants & orientables I GU10 I
 
 ℹ️:
 
-- Les dimensions du projecteur réglable sont : Longueur : 550 mm, largeur 60 mm, hauteur : 90 mm. Les trous de fixation ont une distance de 210 mm
-- Les douilles GU10 sont conçues pour des LED de 5 watts maximum. Remplacement simple des ampoules possible
-- Plafonnier 2 spots en métal blanc mat comme lampe de salon, de chambre ou dentrée
 - La livraison comprend également 4 chevilles, 4 vis, 1 support de montage et des instructions dinstallation. Les illuminants ne sont pas inclus
+- Les douilles GU10 sont conçues pour des LED de 5 watts maximum. Remplacement simple des ampoules possible
+- Les dimensions du projecteur réglable sont : Longueur : 550 mm, largeur 60 mm, hauteur : 90 mm. Les trous de fixation ont une distance de 210 mm
+- Plafonnier 2 spots en métal blanc mat comme lampe de salon, de chambre ou dentrée
 - Plafonnier moderne avec 2 spots rotatifs et pivotants pour un éclairage individuel de vos pièces à vivre.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PVVWP6Q/?tag=tolees0d-21)

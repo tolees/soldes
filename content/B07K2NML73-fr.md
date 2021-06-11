@@ -28,10 +28,10 @@ C'est en vente [UncleHu - 20x50 Jumelles de Haute Puissance pour Adultes  Enfant
 
 ℹ️:
 
-- Taille compacte et légère : légère et pliable. Il est livré avec un sac portable, des housses de protection pour oculaire, un chiffon de nettoyage et une sangle de cou pour jumelles, très pratique et facile à transporter. Cest un cadeau idéal pour les adultes, les enfants et les enfants.
 - Jumelles puissantes : grossissement x 20, diamètre de la lentille de 50 mm et diamètre de la lentille oculaire de 25 mm, champ de vision de 56 m à 1000 m, grand champ de vision et plus clair. Parfait pour lobservation des oiseaux, le tourisme, la chasse, lobservation de la faune, le camping, la randonnée, les sports et lastronomie.
-- Élégant et solide : finition en caoutchouc pour une résistance aux chocs et une prise en main ferme et confortable, durable. Pliage compact et puissant. Imperméable et antibuée.
-- Image claire --- Lentilles asphériques revêtues de plusieurs couches pour une réflexion de la lumière et une distorsion minimale, un meilleur contraste de la luminosité de limage et une meilleure qualité, même dans des conditions de faible luminosité. Le prisme Bak-4 a une pupille de sortie parfaitement ronde. Vous pouvez voir une vue lumineuse, claire et nette.
 - Facile à utiliser : mise au point en ajustant lœilleton droit et la molette centrale. Super facile pour tout le monde. Cette paire de jumelles peut être utilisée avec un trépied. Il est donc très pratique lorsque vous regardez quelque chose pendant une longue période.
+- Image claire --- Lentilles asphériques revêtues de plusieurs couches pour une réflexion de la lumière et une distorsion minimale, un meilleur contraste de la luminosité de limage et une meilleure qualité, même dans des conditions de faible luminosité. Le prisme Bak-4 a une pupille de sortie parfaitement ronde. Vous pouvez voir une vue lumineuse, claire et nette.
+- Élégant et solide : finition en caoutchouc pour une résistance aux chocs et une prise en main ferme et confortable, durable. Pliage compact et puissant. Imperméable et antibuée.
+- Taille compacte et légère : légère et pliable. Il est livré avec un sac portable, des housses de protection pour oculaire, un chiffon de nettoyage et une sangle de cou pour jumelles, très pratique et facile à transporter. Cest un cadeau idéal pour les adultes, les enfants et les enfants.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K2NML73/?tag=tolees0d-21)
