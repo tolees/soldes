@@ -28,8 +28,8 @@ C'est en vente [L Oréal Professionnel Tecni Art Density Material Crème Cire](h
 
 ℹ️:
 
-- Crème cire texturisante
 - Texture Définition Fixation Fini mat
+- Crème cire texturisante
 - Faites chauffer la crème-cire dans vos mains. Appliquez uniformément sur cheveux humides ou secs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XVCRDWF/?tag=tolees0d-21)

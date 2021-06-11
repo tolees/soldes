@@ -28,10 +28,10 @@ C'est en vente [Bamax BX106FM Manomètre semi-professionnel pour test de pressio
 
 ℹ️:
 
+- Diamètre du manomètre : 63 cm.
 - Tête universelle.
 - Manomètre semi-professionnel pour test de pression des pneus.
 - Tube en caoutchouc : 40 cm.
 - 100 % fabriquée en Italie.
-- Diamètre du manomètre : 63 cm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LXYAER9/?tag=tolees0d-21)

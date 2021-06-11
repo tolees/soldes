@@ -28,10 +28,10 @@ Vous avez [Amazon Basics Câble en nylon à double tressage USB de type C vers M
 
 ℹ️:
 
+- Permet de connecter un ordinateur équipé dun port USB de type C (MacBook, Chromebook Pixel, Galaxy Note 7, etc.) à un appareil équipé d’un port Micro-B USB 2.0.
+- Le revêtement en fibre de nylon tressé durable offre protection, résistance et flexibilité et forme une couche supplémentaire de protection afin d’accroître la durabilité et de réduire l’effilochage. Les câbles ont été soumis à des tests de pliage à 95 degrés 5000 fois. Couleurs modernes disponibles pour un look tendance.
+- Offre une connectivité fiable pour le chargement et la synchronisation faciles dune tablette, dun smartphone, dun appareil photo numérique ou dun appareil périphérique USB antérieur équipé dun port Micro USB.
 - Vitesse de transfert de données jusqu’à 480 Mbits/s, puissance de sortie jusqu’à 5 V, 3 A, certifié conforme à la norme USB 2.0 par USB-IF.
 - Design réversible - Insérez facilement le connecteur de type C dans n’importe quel appareil équipé d’un port type C (peu importe le sens) ; le port de type C mesure la moitié de la largeur et un tiers de la hauteur d’un connecteur de type A standard (légèrement plus large qu’un port USB Lightning ou Micro-USB).
-- Le revêtement en fibre de nylon tressé durable offre protection, résistance et flexibilité et forme une couche supplémentaire de protection afin d’accroître la durabilité et de réduire l’effilochage. Les câbles ont été soumis à des tests de pliage à 95 degrés 5000 fois. Couleurs modernes disponibles pour un look tendance.
-- Permet de connecter un ordinateur équipé dun port USB de type C (MacBook, Chromebook Pixel, Galaxy Note 7, etc.) à un appareil équipé d’un port Micro-B USB 2.0.
-- Offre une connectivité fiable pour le chargement et la synchronisation faciles dune tablette, dun smartphone, dun appareil photo numérique ou dun appareil périphérique USB antérieur équipé dun port Micro USB.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CWC6GN4/?tag=tolees0d-21)

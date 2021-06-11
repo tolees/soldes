@@ -28,8 +28,8 @@ C'est en vente [Tajima MGB300FB Magnum Lame de scie 300 mm  Noir](https://www.am
 
 ℹ️:
 
+- Impulsion dents endurci
 - Lame revêtue de fluorine empêchant la résine et la sciure de coller, améliorant la capacité de glisse et protégeant contre la rouille
 - Longueur de lame: 300 mm
-- Impulsion dents endurci
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00BPGC61E/?tag=tolees0d-21)

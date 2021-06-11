@@ -28,12 +28,12 @@ C'est en vente [Sony WH-H910N Casque Bluetooth sans fil à réduction de bruit h
 
 ℹ️:
 
+- Affinez votre écoute avec lapplication Sony Headphones Connect
+- Réponse en fréquence: 5 Hz - 40 000 Hz
+- Casque à réduction de bruit: le système à réduction de bruit numérique et le mode bruit ambiant vous permettent de contrôler ce que vous entendez
 - Compatible Hi-Res Audio
 - Fin, léger et confortable pour écouter de la musique toute la journée
-- Casque à réduction de bruit: le système à réduction de bruit numérique et le mode bruit ambiant vous permettent de contrôler ce que vous entendez
 - Audio sans fil haute qualité via les technologies BLUETOOTH et LDAC
-- Affinez votre écoute avec lapplication Sony Headphones Connect
 - Impédance: 17 ohm (1 kHz)
-- Réponse en fréquence: 5 Hz - 40 000 Hz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X2T6K3H/?tag=tolees0d-21)

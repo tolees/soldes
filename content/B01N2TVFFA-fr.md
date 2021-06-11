@@ -28,7 +28,7 @@ Vous avez [Only NOS Onlkira Lace Singlet 2 Pack Débardeur  Noir  Black   40  Ta
 
 ℹ️:
 
-- Top in Two Colours
 - Top with lace
+- Top in Two Colours
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2TVFFA/?tag=tolees0d-21)
