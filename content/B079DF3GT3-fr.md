@@ -28,10 +28,10 @@ C'est en vente [Saeco PicoBaristo SM5473/10 Machine à expresso automatique inox
 
 ℹ️:
 
+- Pression 15 bars
+- Broyeur 100% céramique Garantie une finesse de mouture constante (sur 20000 tasses)
 - Technologie Aquaclean (retarde le détartrage)
 - Longueur réglable, 5 intensités et 10 réglages du broyeur
 - 11 boissons dont 5 à la pression dun bouton: espresso, café, Cappuccino, Latte Macchiato, café au lait
-- Pression 15 bars
-- Broyeur 100% céramique Garantie une finesse de mouture constante (sur 20000 tasses)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079DF3GT3/?tag=tolees0d-21)

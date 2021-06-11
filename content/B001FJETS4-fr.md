@@ -28,9 +28,9 @@ Vous avez [WDK Partner - Vernis - Brillant - 10 ml](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Nécessite des Piles: Non
-- Descriptif Produit: Vernis brillant, dans un flacon de 10 ml, pinceau dansle couvercle, à base deau, pour un effet brillant, pour protection des surfaces, sous carte bliste
 - Contenu du packaging: Vernis brillant 10ml
+- Descriptif Produit: Vernis brillant, dans un flacon de 10 ml, pinceau dansle couvercle, à base deau, pour un effet brillant, pour protection des surfaces, sous carte bliste
+- Nécessite des Piles: Non
 - Dimensions: 1 x 1 x 1 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001FJETS4/?tag=tolees0d-21)
