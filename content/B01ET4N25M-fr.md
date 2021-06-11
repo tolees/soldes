@@ -28,12 +28,12 @@ C'est en vente [Helly Hansen Aden Veste imperméable Femme  Black  S](https://ww
 
 ℹ️:
 
-- Construction en tissu double couche
-- Poche intérieure
-- Coutures étanches
-- Longueur 3/4
 - Finition déperlante longue durée
-- Capuche rétractable
+- Poche intérieure
 - Poches avec fermetures zippées
+- Capuche rétractable
+- Coutures étanches
+- Construction en tissu double couche
+- Longueur 3/4
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ET4N25M/?tag=tolees0d-21)
