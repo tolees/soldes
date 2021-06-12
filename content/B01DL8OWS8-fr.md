@@ -28,9 +28,9 @@ Vous avez [Qubino ZMNHSD1 DIN Dimmer Z-Wave module Gradateur pour Smart Home](ht
 
 ℹ️:
 
-- Portée maximum intérieur: 30m
-- Couleur du produit: Bleu/Vert/Gris
 - Tension dentrée AC: 110-230 V
+- Couleur du produit: Bleu/Vert/Gris
+- Portée maximum intérieur: 30m
 - Rangement: A monter
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DL8OWS8/?tag=tolees0d-21)

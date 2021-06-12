@@ -28,10 +28,10 @@ Vous avez [Amazon Basics Patère murale  Bois brut](https://www.amazon.fr/dp/B01
 
 ℹ️:
 
-- Chaque crochet peut supporter jusquà 2,27 kg
-- Matériel de fixation et instruction dinstallations inclus
-- Dimensions (L x l x H) : 57 cm x 11,7 cm x 7 cm
 - Crochets en métal fixés sur un dos en bois
+- Chaque crochet peut supporter jusquà 2,27 kg
+- Dimensions (L x l x H) : 57 cm x 11,7 cm x 7 cm
 - Idéal pour les vestibules, entrées et chambres à coucher
+- Matériel de fixation et instruction dinstallations inclus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2PLWIL/?tag=tolees0d-21)

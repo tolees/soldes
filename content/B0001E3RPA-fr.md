@@ -28,9 +28,9 @@ C'est en vente [Gardena limpieza Cepillo rociador pequeño  Noir](https://www.am
 
 ℹ️:
 
-- Corps de brosse plat et étroit : pour un nettoyage facile jusquaux angles les plus petits
-- Fabriqué en Allemange
 - GARDENA propose une large gamme de produits pour tous les travaux dans et autour du jardin
 - Nettoyage en douceur : la brosse peut être stockée avec des bâtonnets de savon.
+- Corps de brosse plat et étroit : pour un nettoyage facile jusquaux angles les plus petits
+- Fabriqué en Allemange
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0001E3RPA/?tag=tolees0d-21)

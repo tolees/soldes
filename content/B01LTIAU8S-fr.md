@@ -28,8 +28,8 @@ Vous avez [Cantu Soin des cheveux et du cuir chevelu 370 g](https://www.amazon.f
 
 ℹ️:
 
-- Cantu Sb Hommes Cond Leave-in 370 g (S/A) (51384)
-- Traitement capillaire de coiffure unisexe
 - Traitement capillaire cantu
+- Traitement capillaire de coiffure unisexe
+- Cantu Sb Hommes Cond Leave-in 370 g (S/A) (51384)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LTIAU8S/?tag=tolees0d-21)

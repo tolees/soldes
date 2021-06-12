@@ -28,9 +28,9 @@ Vous avez [Merge Games - Cloudpunk  Nintendo Switch ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Votre nom est Rania. Aujourdhui est votre première nuit de travail pour cloudpunk, une entreprise de livraison semi-légale basée dans la mégalopole tentaculaire de nivalis
-- Ce jeu cyberpunk à base scénaristique vous fera rencontrer toute une série de personnages hauts en couleur, dont des androïdes, des ia et des humains sans scrupules, à tous les échelons de la société.
 - Explorez une immense mégalopole cyberpunk, à pied ou en voiture anti gravité dans un monde où corporations, pirates informatiques et ia rebelles conspirent les uns contre les autres
 - Vous explorerez toute la ville, des bas-fonds de la moelle aux hautes tours qui percent les nuages gris pour atteindre les limites de la troposphère.
+- Votre nom est Rania. Aujourdhui est votre première nuit de travail pour cloudpunk, une entreprise de livraison semi-légale basée dans la mégalopole tentaculaire de nivalis
+- Ce jeu cyberpunk à base scénaristique vous fera rencontrer toute une série de personnages hauts en couleur, dont des androïdes, des ia et des humains sans scrupules, à tous les échelons de la société.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088QWKP2S/?tag=tolees0d-21)
