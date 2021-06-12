@@ -28,10 +28,10 @@ C'est en vente [Philips SM5460/10 SAECO Machine à café Expresso Super Automati
 
 ℹ️:
 
-- Technologie AquaClean (retarde le détartrage)
+- Rinçage automatique de son circuit et détartrage guidé
 - Café personnalisé: longueur, intensité et température de son choix
+- Technologie AquaClean (retarde le détartrage)
 - Carafe à lait intégré: Cappuccinos et latte macchiato ultra-crémeux
 - Broyeur 100% céramique silencieux
-- Rinçage automatique de son circuit et détartrage guidé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079PYKG1N/?tag=tolees0d-21)

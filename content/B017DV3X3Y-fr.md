@@ -28,10 +28,10 @@ C'est en vente [AEOTEC - Micromodule commutateur Z-Wave+ Nano Switch avec consom
 
 ℹ️:
 
-- Convertir nimporte quel commutateur ou prise dans une prise connectée z-wave commutateur ou prise de contrôle sans fil et lautomatisation. Interrupteur mural existant ou prise de courant continue à fonctionner normalement
-- Compatibilité universelle : peut être contrôlé via 2-state (flip/flop) externe/manuel commutateur, momentané bouton poussoir ou le commutateur à 3 voies ;
-- Compatible avec les passerelles certifiés z-wave y compris Samsung vos attentes, mios-biganos bassin verra, fibaro, jeedom, et ouvrez Le z-wave
 - Z-wave plus certifié pour un temps de réponse plus rapide et meilleure portée sans fil. Numéro de certification : zc10–17035496
 - Super petite taille ; sinstalle derrière votre interrupteur mural existant ou une prise de courant. Ne mesure que 4 x 4, 3 x 1, 9 cm
+- Compatibilité universelle : peut être contrôlé via 2-state (flip/flop) externe/manuel commutateur, momentané bouton poussoir ou le commutateur à 3 voies ;
+- Compatible avec les passerelles certifiés z-wave y compris Samsung vos attentes, mios-biganos bassin verra, fibaro, jeedom, et ouvrez Le z-wave
+- Convertir nimporte quel commutateur ou prise dans une prise connectée z-wave commutateur ou prise de contrôle sans fil et lautomatisation. Interrupteur mural existant ou prise de courant continue à fonctionner normalement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B017DV3X3Y/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Birkenstock Arizona Noir Cuir Lisse](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Weitere Informationen: Core
+- Type: Sandales
 - Farbe: noir
 - Material: cuir lisse
-- Type: Sandales
+- Weitere Informationen: Core
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000KA1NSS/?tag=tolees0d-21)
