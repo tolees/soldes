@@ -29,9 +29,9 @@ Vous avez [Bosch Professional Système d aspiration de Poussière GDE 115/125 FC
 ℹ️:
 
 - Faible poids et roulettes pour un travail plus agréable
-- Facile à utiliser : se raccorde rapidement à une meuleuse angulaire et à un aspirateur
 - Fonctionne avec de nombreuses meuleuses angulaires Bosch de diamètre 115 et 125 mm
-- Réglage pratique de la profondeur de coupe pour un travail précis
 - Pour un travail propre : quasiment aucun nettoyage ultérieur requis
+- Réglage pratique de la profondeur de coupe pour un travail précis
+- Facile à utiliser : se raccorde rapidement à une meuleuse angulaire et à un aspirateur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XP038QU/?tag=tolees0d-21)

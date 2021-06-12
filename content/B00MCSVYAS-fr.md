@@ -28,9 +28,9 @@ Vous avez [Remington Tondeuse Cheveux Anti-Choc 11 Sabots  Lames Acier Japonais 
 
 ℹ️:
 
-- Entièrement lavable
 - Lames acier inoxydable japonais, auto-affûtées Précision et performance de coupe professionnelle (350mm/s)
 - Moteur super magnet 7,4V - Batterie Dual Lithium jusquà 120min dautonomie pour 4h de charge LED de charge Utilisation avec / sans fil
+- Entièrement lavable
 - 11 guides de coupe professionnels (3 – 25 mm) - Revêtement anti-dérapant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MCSVYAS/?tag=tolees0d-21)

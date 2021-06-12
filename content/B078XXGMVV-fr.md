@@ -28,9 +28,9 @@ Vous avez [ROWENTA PURIFICATEUR D AIR INTENSE PURE AIR CONNECT XL Silencieux  Co
 
 ℹ️:
 
-- Contenu : 1x Purificateur dair Intense Pure Air Connect XL de Rowenta, Blanc, Puissance : 30 W, Poids : 7,72 kg, Dim. : 31,5 x 68,3 x 25,3 cm, Garantie : 2 ans, Réparabilité pièce détachées : 10 ans.
 - Design moderne en harmonie avec les intérieurs, Poignée de transport pratique pour le rangement, Indicateur de changement de filtres, Grille 3D orientable.
 - Système de filtration haute performance avec 4 niveaux (préfiltre, charbon actif, Allergy+, NanoCaptur), Ajustement automatique de la vitesse selon la qualité de lair et le moment de la journée. Contribue à l’effet assainissant, anti-bactérien de votre maison.
+- Contenu : 1x Purificateur dair Intense Pure Air Connect XL de Rowenta, Blanc, Puissance : 30 W, Poids : 7,72 kg, Dim. : 31,5 x 68,3 x 25,3 cm, Garantie : 2 ans, Réparabilité pièce détachées : 10 ans.
 - Panneau tactile avec minuterie hebdomadaire programmable, Départ différé, Modes boost/jour/nuit, Modèle connecté avec suivi et contrôle de la qualité de lair à distance en temps réel via smartphone.
 - Purificateur d’air ultra-silencieux (17,5 dBA en mode silence), Filtration jusqu’à 100% des allergènes et particules fines (dont formaldéhyde) pour un air plus pur, véritable arme anti-pollution Capacité de 360 m3/h (180m2).
 

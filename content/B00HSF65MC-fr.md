@@ -28,10 +28,10 @@ C'est en vente [Lighting EVER - LE Ruban LED 5m  Bande LED Autocollant 300 LEDs 
 
 ℹ️:
 
-- Applications Larges - Cette bande lumineuse est idéal dans les zones cachées pour créer un éclairage ambiant, sous les armoires ou les unités de cuisine, dans le coffre de la camionnette, derrière la TV ou le lit, autour dun miroir, au plafond, au mur, à la porte, au bureau, à lescalier, ou partout où vous le souhaitez.
-- Ruban LED Lumineux - LE bande led 5m émet une belle lumière brillante de 1200 lm avec 300 LED blanches de lumière du jour, réduisant plus de consommation dénergie
 - Facile à Installer - LE ruban LED flexible est livré avec un support adhésif pelable et collant, vous pouvez appliquer rapidement cette bande LED 12V sur la surface lisse, sèche et propre
 - Connectable et Peut être Coupé - Ce ruban LED peut être coupé le long des marques de ciseaux (3 LED par marque), et est connectable avec les connecteurs, vous pouvez personnaliser léclairage selon vos besoins
+- Applications Larges - Cette bande lumineuse est idéal dans les zones cachées pour créer un éclairage ambiant, sous les armoires ou les unités de cuisine, dans le coffre de la camionnette, derrière la TV ou le lit, autour dun miroir, au plafond, au mur, à la porte, au bureau, à lescalier, ou partout où vous le souhaitez.
 - Adaptateur Secteur Requis - Ladaptateur secteur EU 12V est requis mais NON inclus, veuillez rechercher «B019IHQND8» sur Amazon si vous en avez besoin
+- Ruban LED Lumineux - LE bande led 5m émet une belle lumière brillante de 1200 lm avec 300 LED blanches de lumière du jour, réduisant plus de consommation dénergie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00HSF65MC/?tag=tolees0d-21)
