@@ -29,9 +29,9 @@ C'est en vente [Samsonite Base Boost - Spinner L Valise Extensible  78 cm  105/1
 ℹ️:
 
 - Volume optimisé dans la poche frontale
-- Légère : à partir de 2,00 kg pour les bagages cabine
 - Spinner 78 Extensible (grande valise : séjours de deux semaines): 48 x 31/34 x 78 cm - 105/112,5 L - 3,10 kg
-- Serrure TSA sur toutes les tailles pour voyager en toute sécurité
 - Attention aux détails : logo, curseurs et décoration en métal
+- Serrure TSA sur toutes les tailles pour voyager en toute sécurité
+- Légère : à partir de 2,00 kg pour les bagages cabine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W2MRNP7/?tag=tolees0d-21)

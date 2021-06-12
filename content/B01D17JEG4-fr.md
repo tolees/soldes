@@ -28,8 +28,8 @@ Vous avez [Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour Ordinateur Po
 
 ℹ️:
 
+- Poches extérieures : Une poche frontale
 - Bretelles : Bandoulières ergonomiques
 - Protection dorsale : Panneau dorsal matelassé
-- Poches extérieures : Une poche frontale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D17JEG4/?tag=tolees0d-21)

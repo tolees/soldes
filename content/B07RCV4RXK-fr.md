@@ -29,9 +29,9 @@ Vous avez [Sea of Thieves: Edition Anniversaire  console Xbox](https://www.amazo
 ℹ️:
 
 - Un monde fantastique et riche: Explorez un monde magnifique au style graphique particulier spécialement conçu pour la découverte et laventure, et affronter des créatures mythiques rôdant sur les îles et sous la surface leau.
-- Un gameplay coopératif innovant dans un monde partagé: Travaillez ensemble en tant quéquipage de pirates avec des objectifs et des récompenses en commun. Partez dans des voyages épiques à la recherche dobjets légendaires et de trésors enfouis, la menace potentielle dautres joueurs planant toujours à lhorizon.
 - Sea of Thieves est un jeu multijoueur dun tout nouveau genre, qui vous offre la vie pirate dont vous avez toujours rêvé. Que vous voguiez en solitaire ou à plusieurs, vous ferez la rencontre dautres équipages. Mais seront-ils amis ou ennemis ? Et ferez-vous preuve de bienveillance ou serez-vous impitoyable ?
-- compétitions ! Sea of Thieves et sa légendaire communauté sont en pleine croissance. Cest le moment ou jamais de vous joindre à nous !
+- Un gameplay coopératif innovant dans un monde partagé: Travaillez ensemble en tant quéquipage de pirates avec des objectifs et des récompenses en commun. Partez dans des voyages épiques à la recherche dobjets légendaires et de trésors enfouis, la menace potentielle dautres joueurs planant toujours à lhorizon.
 - Devenez le pirate de votre choix: Faites équipe avec vos amis et devenez le pirate de votre choix, en choisissant vos propres rôles et objectifs. Explorez le monde, participez à des quêtes ou recherchez le conflit. Cest votre équipage contre le reste du monde, et cest entièrement à vous quil revient de déterminer de quelle manière vous allez accueillir ceux que vous rencontrez.
+- compétitions ! Sea of Thieves et sa légendaire communauté sont en pleine croissance. Cest le moment ou jamais de vous joindre à nous !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RCV4RXK/?tag=tolees0d-21)

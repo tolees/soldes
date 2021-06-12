@@ -28,10 +28,10 @@ Vous avez [Philips Avent SCF254/13 100 coussinets d allaitement jetables - jour 
 
 ℹ️:
 
-- Plus de confort, plus de lait
 - Matière ultra-absorbante et cœur triple couche
-- Couche externe anti-fuites et respirant
 - 2 bandes adhésives pour maintenir le coussinet en place
+- Couche externe anti-fuites et respirant
+- Plus de confort, plus de lait
 - Voile supérieur alvéolé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079GZBV4N/?tag=tolees0d-21)
