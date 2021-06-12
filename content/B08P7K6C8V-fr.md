@@ -28,9 +28,9 @@ Vous avez [L.O.L. Surprise! R/C Wheels-LLUH0](https://www.amazon.fr/dp/B08P7K6C8
 
 ℹ️:
 
+- Fabriqué en Chine
 - Poids du colis de larticle : 0.93 kg
 - Coffret L.O.L. avec 1 voiture R/C, 1 radiocommande avec volant directionnel, 1 poupée série limitée avec de longs cheveux, 1 super tenue, des accessoires et 1 socle de poupée
-- Fabriqué en Chine
 - Dimensions des colis darticles : 12.9 x 26.7 x 43.4 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08P7K6C8V/?tag=tolees0d-21)
