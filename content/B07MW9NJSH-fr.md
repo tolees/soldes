@@ -28,9 +28,9 @@ C'est en vente [PNY XLR8 CS3030 M.2 NVMe SSD Interne 1TB - Jusqu à 3500 Mo/s](h
 
 ℹ️:
 
+- Meilleures performances système générales
 - Lecture séquentielle jusqu’à 3500 Mo/s et écriture séquentielle jusqu’à 3000 Mo/s
 - Démarrage et lancement des applications plus rapides
-- Meilleures performances système générales
 - Consommation électrique plus faible, fonctionnement froid et discret
 - Stockage fiable
 
