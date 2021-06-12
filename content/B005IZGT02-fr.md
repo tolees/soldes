@@ -28,8 +28,8 @@ Vous avez [Philips Avent SCF870/00 Robot cuiseur-mixeur 2-en-1 pour bébé  Pot 
 
 ℹ️:
 
-- Livre de recettes inclus
 - Encombrement minimal dans la cuisine
+- Livre de recettes inclus
 - Remplissage facile, réglages intuitifs et peu de pièces à nettoyer
 - De la cuisson au mixage avec un seul bol pratique
 - Mode de cuisson unique à la vapeur pour une alimentation saine

@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD Elements Disque dur portable externe 5 To U
 
 ℹ️:
 
-- Transferts de données rapides
-- Qualité et fiabilité WD
 - Compatibilité USB 3.0 et 2.0
-- Amélioration performances de votre PC
+- Transferts de données rapides
 - Grande capacité
+- Amélioration performances de votre PC
+- Qualité et fiabilité WD
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X41PWTY/?tag=tolees0d-21)

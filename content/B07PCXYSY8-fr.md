@@ -28,9 +28,9 @@ Vous avez [Amazon Basics C-10074FM-50L trash can  50L](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Couvercle à fermeture douce qui réduit le bruit d’ouverture/fermture et prolonge la durée de vie du produit
 - Poubelle rectangulaire en acier inoxydable 50 L avec pédale au pied manuelle
 - Récipient intérieur en plastique résistant qui peut être facilement retirer pour vider les déchets
+- Couvercle à fermeture douce qui réduit le bruit d’ouverture/fermture et prolonge la durée de vie du produit
 - Extérieur en acier inoxydable durable, anti-traces de doigts et anti-tâches
 - Fonction ouverture continue (utiliser la main pour ouvrir le couvercle à 90 degrés) pour faciliter le changement du sac poubelle
 
