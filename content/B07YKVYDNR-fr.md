@@ -28,10 +28,10 @@ C'est en vente [Esprit 990ee2k316 Polo  Gris  Medium Grey 035   Large Homme](htt
 
 ℹ️:
 
+- Plusieurs couleurs disponibles en taille plus grande
+- Coupe ample et légèrement près du corps
 - Patte de boutonnage avec deux boutons
 - Nouvelles versions en pur coton biologique
 - Piqué structuré grainé avec logo brodé discret
-- Plusieurs couleurs disponibles en taille plus grande
-- Coupe ample et légèrement près du corps
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YKVYDNR/?tag=tolees0d-21)
