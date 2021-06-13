@@ -28,10 +28,10 @@ Vous avez [Aigle Parcours 2  Bottes de Pluie Mixte Adulte  Vert  Kaki  43 EU](ht
 
 ℹ️:
 
-- Semelle intérieure : mousse absorbante sur une base en caoutchouc Softex.
-- Semelle extérieure : triple densité en caoutchouc naturel absorbant les chocs.
 - La première botte anti-fatigue fabriquée à la main en France
-- Dessus : caoutchouc naturel Primarily Gomma Plus.
 - Doublure : polyester.
+- Semelle intérieure : mousse absorbante sur une base en caoutchouc Softex.
+- Dessus : caoutchouc naturel Primarily Gomma Plus.
+- Semelle extérieure : triple densité en caoutchouc naturel absorbant les chocs.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009LNT9B8/?tag=tolees0d-21)
