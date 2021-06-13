@@ -28,10 +28,10 @@ C'est en vente [Mauboussin - Eau de Parfum Homme - Private Club - Senteur Boisé
 
 ℹ️:
 
-- LES NOTES OLFACTIVES : Notes de tête : bergamote, épices froides (poivre noir, cardamome, coriandre) ; Notes de coeur : cannelle ; Note de fond : ambre.
-- UN PARFUM BIJOU : Accèdez à lunivers privé de MAUBOUSSIN. Un Private Club à lambiance tamisée... Entre mystère et addiction.
 - UNE FRAGRANCE UNIQUE : En tête un bouquet d’épices froides et de poivre glacé laisse place à un cœur chaud et sensuel de cannelle signé d’un fond racé et masculin ambre / patchouli.
+- LES NOTES OLFACTIVES : Notes de tête : bergamote, épices froides (poivre noir, cardamome, coriandre) ; Notes de coeur : cannelle ; Note de fond : ambre.
 - UNE SENTEUR INTEMPORELLE : Gouttes ruisselantes sur un bourbon tourbé. Nuages bas et poudrés d’un cigare à la cape ambrée. Effluves gourmandes de cacahuètes grillées... déposées ici et là, sur un majestueux zinc bleu et froid qui accueille les plus curieux, les grands audacieux.
+- UN PARFUM BIJOU : Accèdez à lunivers privé de MAUBOUSSIN. Un Private Club à lambiance tamisée... Entre mystère et addiction.
 - UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HM75LN9/?tag=tolees0d-21)
