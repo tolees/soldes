@@ -28,10 +28,10 @@ C'est en vente [Philips Sonicare HX9901/03 Brosse À Dents DiamondClean Smart Co
 
 ℹ️:
 
-- Couvre 4x plus de surface et Enlève jusquà 10 x plus de plaque dentaire
 - Indicateur de batterie/ jusquà 2 semaines dautonomie
-- 3 niveaux dintensités: doux, medium, intense + 4 modes
 - Gr ce à lapplication Philips Sonicare suivez en temps réel vos zones de brossages pour noublier aucune surface
+- 3 niveaux dintensités: doux, medium, intense + 4 modes
+- Couvre 4x plus de surface et Enlève jusquà 10 x plus de plaque dentaire
 - Indicateur de changement de la tête de brosse avec la technologie BrushSync
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NWYP527/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Geox D ANNYTAH MOC A  Mocassins  Loafers  Femme  Beige  LT Taupe
 
 ℹ️:
 
-- Doublure : synthétique
-- Largeur de la chaussure : moyen
+- Semelle intérieure : synthétique
 - Matériau de semelle : synthétique
 - Dessus : cuir - nubuck
+- Largeur de la chaussure : moyen
+- Doublure : synthétique
 - Hauteur de talons : 2 centimètres
-- Semelle intérieure : synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJMWRDK/?tag=tolees0d-21)
