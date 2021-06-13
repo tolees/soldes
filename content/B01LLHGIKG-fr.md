@@ -28,10 +28,10 @@ C'est en vente [Neewer Sac de Transport à roulettes pour Studio Photo 96 x 39 x
 
 ℹ️:
 
-- Vous pouvez porter le cas de deux façons. Soit tirer la poignée fourre-tout rétractable ou de détenir les sangles avec une poignée de chevauchement. Avec la structure solide, ce sac peut protéger votre équipement de photographie délicate contre de la poussière, leau, les rayures et les dommages
-- Grande taille pour sadapter à votre équipement déclairage de photographie studio. Les deux lumières et trépieds. Taille: 77x28x27cm
 - Housse de transport professionel. Il est un bon moyen de transporter votre équipement et le lieu de stockage quand ils ne sont pas utilisés. REMARQUE: Trépieds et lumières stroboscopiques ne sont pas inclus
-- Assez despace fourni pour vous transporter et stocker votre équipement de photographie. Taille: 96x38.5x29cm. Plaque de base en plastique est plus forte et pas facile de devenir humide et moisie. Charge maximale est jusquà 50kg
+- Vous pouvez porter le cas de deux façons. Soit tirer la poignée fourre-tout rétractable ou de détenir les sangles avec une poignée de chevauchement. Avec la structure solide, ce sac peut protéger votre équipement de photographie délicate contre de la poussière, leau, les rayures et les dommages
 - Avec trois diviseurs rembourrés amovibles à lintérieur du sac, vous pouvez stocker différents types déquipements et de petits articles séparément selon vos différents besoins
+- Assez despace fourni pour vous transporter et stocker votre équipement de photographie. Taille: 96x38.5x29cm. Plaque de base en plastique est plus forte et pas facile de devenir humide et moisie. Charge maximale est jusquà 50kg
+- Grande taille pour sadapter à votre équipement déclairage de photographie studio. Les deux lumières et trépieds. Taille: 77x28x27cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LLHGIKG/?tag=tolees0d-21)
