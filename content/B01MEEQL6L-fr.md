@@ -28,11 +28,11 @@ Vous avez [Verbatim 47683 2TO Store  n  Save 3.5" USB 3.0 HDD de bureau  Gen 2 ]
 
 ℹ️:
 
-- SuperSpeed USB 3.0 - pour le transfert de données ultra rapide
 - Logiciel déconomie dénergie
-- Design noir élégant qui peut être posé à plat ou sur le côté
 - Haute vitesse, grande capacité de stockage backup
-- Logiciel de sauvegarde Nero
 - Puissance externe: +12VDC alimentation
+- SuperSpeed USB 3.0 - pour le transfert de données ultra rapide
+- Logiciel de sauvegarde Nero
+- Design noir élégant qui peut être posé à plat ou sur le côté
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MEEQL6L/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Jack & Jones JJCROSSING Tee SS Crew Neck T-Shirt  Tapis Shoe  S 
 
 ℹ️:
 
-- 100 % coton
-- Coupe ajustée
 - Logo imprimé
 - T-shirt
+- 100 % coton
+- Coupe ajustée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FXFXY53/?tag=tolees0d-21)

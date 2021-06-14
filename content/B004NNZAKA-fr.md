@@ -28,8 +28,8 @@ Vous avez [My.Size 36 Préservatifs 69 mm](https://www.amazon.fr/dp/B004NNZAKA/?
 
 ℹ️:
 
-- Préservatifs en latex
 - Contenu: 36 préservatifs
 - Avec lubrification
+- Préservatifs en latex
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004NNZAKA/?tag=tolees0d-21)
