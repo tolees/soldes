@@ -28,9 +28,9 @@ C'est en vente [Stanley SXPW22PE Nettoyeur Haute Pression avec Patio Cleaner Del
 
 ℹ️:
 
-- Enrouleur statique avec système de blocage: après emploi, le flexible haute pression senroule facilement et se range dans le compartiment prévu à cet effet
 - Pression (bar) max. 150; Puissance absorbée (kW) 2, 2; Débit (L/h) max. 440; Température eau dalimentation (°C) max. 50
 - Équipement: pistolet, lance et flexible à haute pression (8 m), rotabuse, buse à jet réglable, kit canon à mousse (0, 4 L) applicable au pistolet, brosse fixe et patio Cleaner Deluxe
+- Enrouleur statique avec système de blocage: après emploi, le flexible haute pression senroule facilement et se range dans le compartiment prévu à cet effet
 - Nettoyeur haute pression pour éliminer la saleté tenace sur les surfaces domestiques extérieures, les autos, les motos, les sols, les escaliers, les piscines, les outils et les murs
 - Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
 
