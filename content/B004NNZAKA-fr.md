@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.37 % rabais sur My.Size 36 Préservatifs 69 mm'
-date: 2021-05-16 23:43:15
+date: 2021-06-14 13:39:31
 image: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [My.Size 36 Préservatifs 69 mm](https://www.amazon.fr/dp/B004NNZAKA/?
 
 ℹ️:
 
-- Avec lubrification
-- Contenu: 36 préservatifs
 - Préservatifs en latex
+- Contenu: 36 préservatifs
+- Avec lubrification
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004NNZAKA/?tag=tolees0d-21)
