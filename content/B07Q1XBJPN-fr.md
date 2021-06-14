@@ -28,10 +28,10 @@ C'est en vente [Casio Horloge GBD-800UC-8ER](https://www.amazon.fr/dp/B07Q1XBJPN
 
 ℹ️:
 
-- Diamètre du boîtier: 48 mm, Épaisseur du boîtier: 14 mm, Couleur du boîtier: Gris et Couleur du cadran: Noir
-- Bracelet de Haute qualité en Plastique Gris 21 cm de longueur et 19 mm de largeur avec un Fermoir Boucle Ardillon
-- La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
 - Résistant à leau: 20 bar Poids: 62 g
 - La montre peut se connecter à un smartphone sans fil via bluetooth, ce qui permet daccéder à un large éventail de fonctions utiles. -Cette montre Casio a une function calendrier: Jour-Date-Mois, bluetooth, Chronographe, Compte à rebours, Dual Time, Alarme
+- La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
+- Diamètre du boîtier: 48 mm, Épaisseur du boîtier: 14 mm, Couleur du boîtier: Gris et Couleur du cadran: Noir
+- Bracelet de Haute qualité en Plastique Gris 21 cm de longueur et 19 mm de largeur avec un Fermoir Boucle Ardillon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q1XBJPN/?tag=tolees0d-21)

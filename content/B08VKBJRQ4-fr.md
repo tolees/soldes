@@ -28,11 +28,11 @@ Vous avez [Friteuse sans huile XXL Princess Deluxe - Pour 9 personnes - Panneau 
 
 ℹ️:
 
-- Composants inclus: Friteuse sans huile Princess Deluxe XXL
-- sans bpa, cette friteuse à air chaud est constituée dinox et dabs. de plus, cette friteuse est très simple à utiliser car elle est dotée de pieds antidérapants et dune poignée "cool touch" pour éviter les brûlures.
-- la technologie de convection à air chaud vous permet de préparer des frites sans ajouter de matières grasses, pour une cuisine gourmande et saine. il est également possible de préparer viandes, poisson, légumes et même des pizzas ou des gâteaux.
+- le panneau de contrôle numérique tactile de cette friteuse est très convivial. 8 programmes sont pré-enregistrés pour des plats variés préparés à la perfection. vous pouvez aussi paramétrer manuellement la température et la minuterie pour créer vos propres recettes. son panneau de commande digital lcd tactile est très convivial.
 - avec la capacité généreuse (5,5 l, soit 1,5 kg de frites) de cette friteuse sans huile, vous régalez les grandes tablées jusquà 9 personnes en une seule session !
 - sa puissance de 1 700 w lui permet de chauffer et de préparer vos plats rapidement et ce, pour toute la famille. son panier amovible antiadhésif est très simple à nettoyer car il passe au lave-vaisselle.
-- le panneau de contrôle numérique tactile de cette friteuse est très convivial. 8 programmes sont pré-enregistrés pour des plats variés préparés à la perfection. vous pouvez aussi paramétrer manuellement la température et la minuterie pour créer vos propres recettes. son panneau de commande digital lcd tactile est très convivial.
+- sans bpa, cette friteuse à air chaud est constituée dinox et dabs. de plus, cette friteuse est très simple à utiliser car elle est dotée de pieds antidérapants et dune poignée "cool touch" pour éviter les brûlures.
+- la technologie de convection à air chaud vous permet de préparer des frites sans ajouter de matières grasses, pour une cuisine gourmande et saine. il est également possible de préparer viandes, poisson, légumes et même des pizzas ou des gâteaux.
+- Composants inclus: Friteuse sans huile Princess Deluxe XXL
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VKBJRQ4/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [SURWELL Support pour téléphone Portable.](https://www.amazon.f
 
 ℹ️:
 
-- Applicable fort : Bras extensible peut tenir le phone ou l’appareil en largeur de 48mm à 95mm et ne raye pas du tout leurs bords.
-- Bouton automatique : Appuyez le bouton au dos du plateau pour régler la largeur du bras qui varie de 48mm à 95mm. Compatible à la plupart des smartphones au marché.
-- Rotation à 360° : Plateau peut tourner à 360°, il assure une vue convenable et la conduite plus sécuritaire.
-- Ventouse ultra collante : Ventouse sécurisée colle bien sur le pare-brise, le tableau de bord, ou d’autres surfaces lisses. En même temps, retirez facilement sans traces.
 - Garantie : 12 mois de garantie.
+- Applicable fort : Bras extensible peut tenir le phone ou l’appareil en largeur de 48mm à 95mm et ne raye pas du tout leurs bords.
+- Ventouse ultra collante : Ventouse sécurisée colle bien sur le pare-brise, le tableau de bord, ou d’autres surfaces lisses. En même temps, retirez facilement sans traces.
+- Rotation à 360° : Plateau peut tourner à 360°, il assure une vue convenable et la conduite plus sécuritaire.
+- Bouton automatique : Appuyez le bouton au dos du plateau pour régler la largeur du bras qui varie de 48mm à 95mm. Compatible à la plupart des smartphones au marché.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071NWHS87/?tag=tolees0d-21)
