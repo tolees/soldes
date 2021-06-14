@@ -28,11 +28,11 @@ C'est en vente [505 Games - Indivisible - Playstation 4](https://www.amazon.fr/d
 
 ℹ️:
 
-- EXPLOREZ LOKA – Explorez un monde riche et vaste en utilisant plus d’une douzaine de compétences qu’Ajna apprendra lors de son voyage
 - SUPERBE SÉQUENCE D’OUVERTURE ANIMÉE – Indivisible s’ouvre sur une belle séquence animée créée par le célèbre studio d’animation TRIGGER et réalisée par l’animateur légendaire Yoh Yoshinari
-- IMMENSE SÉLECTION DE PERSONNAGES – Avec plus de 20 Incarnations uniques au choix, les manières de personnaliser votre groupe sont innombrables
+- MUSIQUE LÉGENDAIRE – La bande-son d’Indivisible est l’œuvre du grand compositeur Hiroki Kikuta, célèbre pour certains incontournables du genre tels que Secret of Mana, Seiken Densetsu 3 et Koudelka
 - DESIGN HYBRIDE UNIQUE – Indivisible est à la fois un RPG et un jeu de plateformes, alliant exploration en défilement horizontal et combats RPG effrénés
 - DESSINÉ ET ANIMÉ À LA MAIN – Les personnages et les monstres ont été conçus méticuleusement, chaque image danimation débordant de caractère
-- MUSIQUE LÉGENDAIRE – La bande-son d’Indivisible est l’œuvre du grand compositeur Hiroki Kikuta, célèbre pour certains incontournables du genre tels que Secret of Mana, Seiken Densetsu 3 et Koudelka
+- IMMENSE SÉLECTION DE PERSONNAGES – Avec plus de 20 Incarnations uniques au choix, les manières de personnaliser votre groupe sont innombrables
+- EXPLOREZ LOKA – Explorez un monde riche et vaste en utilisant plus d’une douzaine de compétences qu’Ajna apprendra lors de son voyage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WNKT5JW/?tag=tolees0d-21)
