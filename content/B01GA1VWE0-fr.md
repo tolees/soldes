@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.03 % rabais sur L abricot blanc T-Shirt Nombreux sont Ce'
-date: 2021-06-13 05:41:24
+date: 2021-06-14 05:53:50
 image: 'https://m.media-amazon.com/images/I/414S2gZl2iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [L abricot blanc T-Shirt Nombreux sont Ceux Qui m appellent par Mon pr
 
 ℹ️:
 
-- Disponible en grande taille
 - manches courtes
-- col rond en bord-côte 1x1 et élasthanne
 - col avec bande de propreté
 - coton
+- col rond en bord-côte 1x1 et élasthanne
+- Disponible en grande taille
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GA1VWE0/?tag=tolees0d-21)
