@@ -28,10 +28,10 @@ Vous avez [SD toys - Missing in Action Matt Hunter Deluxe Figure & Diorama](http
 
 ℹ️:
 
-- Présenté dans un coffret cadeau de luxe
-- Personnage mat Hunter
 - Édition Deluxe
-- Superbe figurine en PVC de 18 cm
 - Cadeau idéal pour tout fan de Chuck Norris
+- Superbe figurine en PVC de 18 cm
+- Personnage mat Hunter
+- Présenté dans un coffret cadeau de luxe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FWBH3P4/?tag=tolees0d-21)
