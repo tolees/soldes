@@ -28,10 +28,10 @@ C'est en vente [Gillette Lames de Rasoir Homme Mach3  Pack de 6 Lames de Recharg
 
 ℹ️:
 
-- Lames plus résistantes que l’acier qui restent affûtées plus longtemps (par rapport au Sensor3)
 - Jusqu’à 6 mois de rasage par paquet
-- 3 Lames pour un rasage classique en douceur
 - Conçu en acier pour une coupe précise et jusqu’à 15 rasages par lame
+- Lames plus résistantes que l’acier qui restent affûtées plus longtemps (par rapport au Sensor3)
+- 3 Lames pour un rasage classique en douceur
 - Les lames les plus vendues au monde (calcul Procter & Gamble basé sur les informations de vente de Nielsen de septembre 2018 à août 2019, parmi les rasoirs à 3 lames pour homme)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PGC1KHZ/?tag=tolees0d-21)
