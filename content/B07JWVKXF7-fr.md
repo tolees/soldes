@@ -28,10 +28,10 @@ C'est en vente [CADENCE SMARTFIT 100 - Vélo pliable  unisexe  Noir et Argenté]
 
 ℹ️:
 
-- Siège ample, rembourré et réglable en hauteur
-- Système de résistance magnétique à réglage manuel vous permettant de faire graduellement progresser votre entraînement
-- Design compact, pliable et peu encombrant ; roues de transport pour faciliter les déplacements
-- Large console avec écran LCD permettant de consulter la distance parcourue, les calories dépensées, le nombre de tours de pédales par minute et la durée totale
 - Support pour tablette intégré
+- Design compact, pliable et peu encombrant ; roues de transport pour faciliter les déplacements
+- Siège ample, rembourré et réglable en hauteur
+- Large console avec écran LCD permettant de consulter la distance parcourue, les calories dépensées, le nombre de tours de pédales par minute et la durée totale
+- Système de résistance magnétique à réglage manuel vous permettant de faire graduellement progresser votre entraînement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JWVKXF7/?tag=tolees0d-21)
