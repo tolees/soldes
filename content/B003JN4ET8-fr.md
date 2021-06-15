@@ -28,10 +28,10 @@ Vous avez [Exacompta - Réf. 5900E - 1 boîte de 100 pochettes perforées polypr
 
 ℹ️:
 
-- Pochette lisse en polypropylène haute résistance, transparente
-- Qualité supérieure
-- Matière haute résistance pour un usage intensif
-- Epaisseur 9/100ème
 - Pochette perforée A4
+- Pochette lisse en polypropylène haute résistance, transparente
+- Epaisseur 9/100ème
+- Matière haute résistance pour un usage intensif
+- Qualité supérieure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21)

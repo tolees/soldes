@@ -28,13 +28,13 @@ Vous avez [Bethesda - The Elder Scrolls Online Collection : BLACKWOOD XBOX ONE](
 
 ℹ️:
 
-- Blackwood est l’offre complète de The Elder Scrolls Online, elle comprend le jeu de base et tous les Chapitres : Blackwood (2021), Greymoor, Elswey, Summerset et Morrowind
-- Rejoignez 18 millions de joueurs et découvrez une aventure unique en son genre dans The Elder Scrolls Online, le RPG en ligne plusieurs fois primé
-- Un monde immense : explorez la quasi-totalité de Tamriel sans restriction de niveau
 - Commencez votre aventure dans le jeu de base ou lun des Chapitres. Tout est accessible pour les nouveaux joueurs et vous pouvez changer daventure à tout moment
-- Des centaines de quêtes et une histoire épique qui marquera durablement tout lunivers The Elder Scrolls
 - Sans abonnement obligatoire
-- Une infinité de personnalisations possibles pour votre personnage
+- Un monde immense : explorez la quasi-totalité de Tamriel sans restriction de niveau
 - Contient un bonus de précommande
+- Une infinité de personnalisations possibles pour votre personnage
+- Des centaines de quêtes et une histoire épique qui marquera durablement tout lunivers The Elder Scrolls
+- Rejoignez 18 millions de joueurs et découvrez une aventure unique en son genre dans The Elder Scrolls Online, le RPG en ligne plusieurs fois primé
+- Blackwood est l’offre complète de The Elder Scrolls Online, elle comprend le jeu de base et tous les Chapitres : Blackwood (2021), Greymoor, Elswey, Summerset et Morrowind
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VC28PFN/?tag=tolees0d-21)

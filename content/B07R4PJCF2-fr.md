@@ -28,11 +28,11 @@ Vous avez [Bébé Confort Kori Transat bébé 2 en1  Transat Léger avec Réduct
 
 ℹ️:
 
-- Déhoussage facile grâce à une fermeture zip, housse lavable en machine
 - Hamac confortable pour nouveau-né, conçu avec des matériaux très doux de la plus haute qualité, offrant à bébé un véritable petit nid douillet
-- Transat bébé inclinable : Kori se règle en trois positions différentes d’une seule main
+- Design et tissus Premium
 - Facile à plier : grâce à son incroyable légèreté et à son design minimaliste mais ingénieux, Kori se plie aisément à plat pour faciliter le rangement
 - Transat bébé 2 en 1 : adapté pour utilisation de la naissance à 9 mois ( jusqu’à 9 kg), le Kori passe très facilement du mode fixe au mode balancelle bébé
-- Design et tissus Premium
+- Déhoussage facile grâce à une fermeture zip, housse lavable en machine
+- Transat bébé inclinable : Kori se règle en trois positions différentes d’une seule main
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R4PJCF2/?tag=tolees0d-21)

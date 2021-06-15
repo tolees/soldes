@@ -28,13 +28,13 @@ Vous avez [Sanitas SIH 21 avec technologie d air comprimé par compresseur  pour
 
 ℹ️:
 
+- Taille : 29,5 x 17,8 x 9,4 cm, poids : env. 1,6 kg
+- Accessoires :Embout buccal, masque pour adulte, masque pour enfant, tube à air comprimé (extra long), filtre, compartiment de rangement pour les accessoires
 - 230 V~ / 50 Hz / 180 VA
 - Inhalateur pour le traitement des voies respiratoires supérieures et inférieures à technologie à compresseur, air comprimé
 - Peut être désinfecté
 - Contenu du packaging:1
-- Taux élevé de particules accédant aux poumons, haute capacité de nébulisation ( >0,2 ml/min. ), court temps dinhalation
-- Accessoires :Embout buccal, masque pour adulte, masque pour enfant, tube à air comprimé (extra long), filtre, compartiment de rangement pour les accessoires
-- Taille : 29,5 x 17,8 x 9,4 cm, poids : env. 1,6 kg
 - Pression de travail 0,64 - 0.96 bar
+- Taux élevé de particules accédant aux poumons, haute capacité de nébulisation ( >0,2 ml/min. ), court temps dinhalation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EXOBSYQ/?tag=tolees0d-21)
