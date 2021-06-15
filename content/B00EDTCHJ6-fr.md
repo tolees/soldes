@@ -28,10 +28,10 @@ Vous avez [LEGO 10886 Duplo Mes Premiers Véhicules Briques de Construction avec
 
 ℹ️:
 
-- Encouragez les compétences sociales et émotionnelles des bébé de 18 mois en les faisant participer à des jeux de rôle avec les personnages qui voyagent dans ces jouets voitures
-- Comprend une brique décorée en forme de feu de signalisation et des briques de construction décorées avec différentes fenêtres, conducteurs et passagers
 - Comprend 4 véhicules LEGO DUPLO à construire : un jouet camion de pompiers, un hélicoptère, un taxi et un camion à déchets
-- Encouragez limagination des bébé de 18 mois en leur permettant de créer des jouets voitures et des briques de construction merveilleuses et colorées
+- Encouragez les compétences sociales et émotionnelles des bébé de 18 mois en les faisant participer à des jeux de rôle avec les personnages qui voyagent dans ces jouets voitures
 - Créez et partagez avec ce jouet pour bébés de 18 mois et plus en construisant des véhicules emblématiques avec le jeu LEGO DUPLO Mes Premiers Véhicules 10886
+- Comprend une brique décorée en forme de feu de signalisation et des briques de construction décorées avec différentes fenêtres, conducteurs et passagers
+- Encouragez limagination des bébé de 18 mois en leur permettant de créer des jouets voitures et des briques de construction merveilleuses et colorées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EDTCHJ6/?tag=tolees0d-21)
