@@ -28,10 +28,10 @@ C'est en vente [Comfee Climatiseur portable  9000 Btu  2.6kW  fonction 3-en-1 cl
 
 ℹ️:
 
-- Refroidissement puissant: grâce à son compresseur à haute efficacité, cet appareil offre un refroidissement rapide pour votre habitat, bureau ou garage tout en limitant la consommation délectricité. Optimal pour une pièce de 80m³ (31㎡)
-- Cet appareil compact refroidit votre pièce et expulse la chaleur grâce à un tuyau dévacuation connecté à lextérieur. Ce tuyau peut être facilement installé sur différents types de fenêtres ou sur un mur.
+- Design ergonomique pour un usage pratique et sécurisé: fonction "follow me", affichage LED, minuteur, roues mobiles et revêtement durable
 - Notre technologie de refroidissement deau patentée utilise leau condensée pour refroidir le condenseur, permettant à ce modèle de fonctionner sans réservoir deau tout en garantissant un fonctionnement durable sans accroc quel que soit le niveau dhumidité.
 - Ce modèle utilise le réfrigérant R290, un friorigène respectueux de lenvironnement du fait quil est naturel, sans fréon, et émet très peu de CO2.
-- Design ergonomique pour un usage pratique et sécurisé: fonction "follow me", affichage LED, minuteur, roues mobiles et revêtement durable
+- Cet appareil compact refroidit votre pièce et expulse la chaleur grâce à un tuyau dévacuation connecté à lextérieur. Ce tuyau peut être facilement installé sur différents types de fenêtres ou sur un mur.
+- Refroidissement puissant: grâce à son compresseur à haute efficacité, cet appareil offre un refroidissement rapide pour votre habitat, bureau ou garage tout en limitant la consommation délectricité. Optimal pour une pièce de 80m³ (31㎡)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KJYD1ZP/?tag=tolees0d-21)
