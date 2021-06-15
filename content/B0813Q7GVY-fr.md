@@ -28,10 +28,10 @@ C'est en vente [LEGO Friends 41430 Le Parc Aquatique Plaisirs d été avec M
 
 ℹ️:
 
-- Le set comprend également un jacuzzi, des vestiaires, une jolie licorne, une douche et des toilettes, ainsi que trois matelas de natation colorés et des accessoires amusants
-- Les mini-poupées peuvent jouer dans les toboggans, se détendre dans le jacuzzi, être un sauveteur et surveiller les nageurs ou servir des glaces dans le van
-- Découvrez les autres sets dété des Amis de LEGO : L’avion de Heartlake City 41429, La Maison sur la Plage 41428, Party Boat 41433, Olivias Flower Garden 41425
 - Comprend 3 super toboggans dont un toboggan tubulaire, des canons à eau, un siège de sauveteur, un mini van de glaces et de nombreuses décorations pour le parc aquatique
+- Les mini-poupées peuvent jouer dans les toboggans, se détendre dans le jacuzzi, être un sauveteur et surveiller les nageurs ou servir des glaces dans le van
 - Ce jouet pour filles et garçons de 8 ans et plus comprend les mini-poupées Stéphanie, Emma, Olivia et Mason, ainsi que Pinky, le flamant rose
+- Découvrez les autres sets dété des Amis de LEGO : L’avion de Heartlake City 41429, La Maison sur la Plage 41428, Party Boat 41433, Olivias Flower Garden 41425
+- Le set comprend également un jacuzzi, des vestiaires, une jolie licorne, une douche et des toilettes, ainsi que trois matelas de natation colorés et des accessoires amusants
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813Q7GVY/?tag=tolees0d-21)
