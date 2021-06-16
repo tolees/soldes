@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Logitech G PRO Souris Gamer Filaire  Cap avec 46.43 % rabais '
-date: 2021-06-12 20:36:44
+title: 'Logitech G PRO Souris Gamer Filaire  Cap avec 33.23 % rabais '
+date: 2021-06-16 18:16:26
 image: 'https://m.media-amazon.com/images/I/31UCKqXCQNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B07L9FLRPD-fr Logitech G PRO Souris Gamer Filaire Capteur Gaming HERO...'
 sku: 'B07L9FLRPD-fr'
 tags: [ 'Accessoires pour Mac','Accessoires pour Nintendo Switch','Accessoires pour PC','Accessoires pour PlayStation','Accessoires pour PlayStation 2','Accessoires pour PlayStation 4','Accessoires pour Xbox','Accessoires pour Xbox One','Consoles rétro et mini consoles','Jeux vidéo','Mac: Jeux et accessoires','Nintendo Switch:  Consoles, jeux et accessoires','PC: Jeux et accessoires','PlayStation 2: Jeux, consoles et accessoires','PlayStation 4: Consoles, jeux et accessoires','PlayStation: Jeux, consoles et accessoires','Souris gaming pour Mac','Souris gaming pour PC','Xbox One:  Consoles, jeux et accessoires','Xbox: Jeux, consoles et accessoires','logitech g', ]
-actualPrice: 42.85 EUR
+actualPrice: 53.41 EUR
 currency: EUR
-price: 42.85
+price: 53.41
 comparePrice: 79.99 EUR
 prodname: 'Logitech G PRO Souris Gamer Filaire  Capteur Gaming HERO 25K  25 600 PPP  RVB  Ultra-Léger  6 Boutons Programmables  Mémoire Intégrée  Compatible avec PC/Mac - Noire'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21'
-descuento: '46.43'
-average: '42.85'
+descuento: '33.23'
+average: '48.13'
 ---
 
-C'est en vente [Logitech G PRO Souris Gamer Filaire  Capteur Gaming HERO 25K  25 600 PPP  RVB  Ultra-Léger  6 Boutons Programmables  Mémoire Intégrée  Compatible avec PC/Mac - Noire](https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21)  à  46.43 % de réduction, prix final  42.85 EUR (original: 79.99 EUR) ici:
+C'est en vente [Logitech G PRO Souris Gamer Filaire  Capteur Gaming HERO 25K  25 600 PPP  RVB  Ultra-Léger  6 Boutons Programmables  Mémoire Intégrée  Compatible avec PC/Mac - Noire](https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21)  à  33.23 % de réduction, prix final  53.41 EUR (original: 79.99 EUR) ici:
 
 [![Logitech G PRO Souris Gamer Filaire  Cap](https://m.media-amazon.com/images/I/31UCKqXCQNL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21)
 
 ℹ️:
 
-- Système de Tension de Bouton Mécanique: le système de tension de bouton à ressort métallique ergonomique garantit une meilleure uniformité entre les boutons gauche et droit de la souris, et aide à réduire la force nécessaire pour cliquer, rendant chaque clic plus net et plus fiable, ce qui fera la différence aux plus hauts niveaux de la compétition
-- Jouez comme les Pros: développée en partenariat avec des athlètes deSports, la souris filaire gamer Pro de Logitech G possède une structure légère et un capteur gaming optique conçus pour une vitesse inédite, et une précision et réactivité sans égales
-- Capteur Adapté pour Gamer: le meilleur capteur optique pour gamers au monde offre une précision inégalée et une réactivité homogène à nimporte quelle vitesse sur lensemble de la plage de résolution de 200 à 12 000 PPP
 - Conception Classique de l’Esport: construite à partir de matériaux légers et résistants pour assurer aux gamers vitesse de jeu et confort longue durée, la souris filaire USB Pro garantit un niveau de performances à la hauteur de lutilisation intensive des compétitions
-- Capteur nouvelle génération: capable de détecter des mouvements au sous-micron près et de suivre un mouvement à moins d’un millionième de mètre avec une précision exceptionnelle
-- LIGHTSYNC RVB: avec 16,8 millions de couleurs disponibles, vous pouvez arborer les couleurs de votre équipe, et personnaliser votre configuration ou la synchronisation à dautres produits G. Six boutons programmables vous permettent dexécuter diverses commandes à partir de la souris RVB
 - Le n° 1 mondial des périphériques gaming - Daprès des données agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
+- Jouez comme les Pros: développée en partenariat avec des athlètes deSports, la souris filaire gamer Pro de Logitech G possède une structure légère et un capteur gaming optique conçus pour une vitesse inédite, et une précision et réactivité sans égales
+- LIGHTSYNC RVB: avec 16,8 millions de couleurs disponibles, vous pouvez arborer les couleurs de votre équipe, et personnaliser votre configuration ou la synchronisation à dautres produits G. Six boutons programmables vous permettent dexécuter diverses commandes à partir de la souris RVB
+- Système de Tension de Bouton Mécanique: le système de tension de bouton à ressort métallique ergonomique garantit une meilleure uniformité entre les boutons gauche et droit de la souris, et aide à réduire la force nécessaire pour cliquer, rendant chaque clic plus net et plus fiable, ce qui fera la différence aux plus hauts niveaux de la compétition
+- Capteur Adapté pour Gamer: le meilleur capteur optique pour gamers au monde offre une précision inégalée et une réactivité homogène à nimporte quelle vitesse sur lensemble de la plage de résolution de 200 à 12 000 PPP
+- Capteur nouvelle génération: capable de détecter des mouvements au sous-micron près et de suivre un mouvement à moins d’un millionième de mètre avec une précision exceptionnelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21)
