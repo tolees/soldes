@@ -28,12 +28,12 @@ C'est en vente [BLACK+DECKER BDCDC18BAST-QW Perceuse-Visseuse sans fil - 30 Nm -
 
 ℹ️:
 
-- Ampérage: 1.5Ah
 - Performante: contrôle de couple 10 positions pour plus de précision; 2 vitesses mécaniques pour couvrir 8% des applications du quotidien.
 - Technologie lithium: faible autodécharge, pas deffet mémoire, toujours prête à lemploi.
-- Revêtement Grip: pour une prise en main sûre et confortable.
-- Compacte et légère: perceuse légère (1, 2kg) grâce à son moteur et batterie compacts.
-- Pression sonore: 65,2 dB (A) .Puissance sonore: 76,2 dB (A)
 - Pratique: porte-embout et lampe LED.
+- Revêtement Grip: pour une prise en main sûre et confortable.
+- Ampérage: 1.5Ah
+- Pression sonore: 65,2 dB (A) .Puissance sonore: 76,2 dB (A)
+- Compacte et légère: perceuse légère (1, 2kg) grâce à son moteur et batterie compacts.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PL5SRWP/?tag=tolees0d-21)

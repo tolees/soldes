@@ -28,11 +28,11 @@ C'est en vente [Grille-pains  Princess  4 Fentes  Noir Mat  1750W](https://www.a
 
 ℹ️:
 
+- Type de prise: F - CEE 7/4 (Schuko)
+- Grille-pain élégant au design en acier inoxydable brillant et quatre fentes
 - Combine la décongélation, le chauffage, et la grillade en actionnant les fentes deux par deux
-- Fonctions de décongélation et de réchauffage pour le pain congelé et les petits pains
 - Avec quatre pinces à fromage pour faire de délicieux sandwiches au fromage grillé
 - Facile à nettoyer grâce à ses tiroirs ramasse-miette amovibles
-- Grille-pain élégant au design en acier inoxydable brillant et quatre fentes
-- Type de prise: F - CEE 7/4 (Schuko)
+- Fonctions de décongélation et de réchauffage pour le pain congelé et les petits pains
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FJT7DG/?tag=tolees0d-21)
