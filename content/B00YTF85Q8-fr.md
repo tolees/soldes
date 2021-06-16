@@ -29,7 +29,7 @@ Vous avez [Alaia Parfum Spray 50 ml](https://www.amazon.fr/dp/B00YTF85Q8/?tag=to
 ℹ️:
 
 - Parfum - Alaia - Femmes
-- Parfums et fragrances - Parfum
 - Alaia - RHF30350 - Parfum
+- Parfums et fragrances - Parfum
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YTF85Q8/?tag=tolees0d-21)

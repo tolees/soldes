@@ -28,8 +28,8 @@ C'est en vente [BaByliss Sèche-cheveux Cordkeeper 2000 avec Technologie Ionique
 
 ℹ️:
 
-- Sèche-cheveux ionique 2000W pour un résultat rapide, controlé et brillant
 - Cordon rétractable pour une facilité de rangement
+- Sèche-cheveux ionique 2000W pour un résultat rapide, controlé et brillant
 - 3 réglages de températures / 2 vitesses pour un contrôle ultime de votre style et un bouton air frais pour fixer votre coiffure durablement
 - Les accessoires comprennent un concentrateur fin pour des résultats nets et un large diffuseur pour embellir les boucles et le volume
 

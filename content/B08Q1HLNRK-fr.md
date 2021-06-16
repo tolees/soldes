@@ -28,8 +28,8 @@ C'est en vente [Séga - PERSONA 5 Strikers](https://www.amazon.fr/dp/B08Q1HLNRK/
 
 ℹ️:
 
-- Plongez dans le monde stylisé de persona avec une histoire totalement inédite
-- Battez-vous dun bout à lautre du japon au cours dun voyage épique
 - Contrôlez votre équipe de manière dynamique au fil de combats explosifs
+- Battez-vous dun bout à lautre du japon au cours dun voyage épique
+- Plongez dans le monde stylisé de persona avec une histoire totalement inédite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q1HLNRK/?tag=tolees0d-21)
