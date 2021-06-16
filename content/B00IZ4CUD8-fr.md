@@ -28,9 +28,9 @@ Vous avez [Geomag - Mechanics 722  Jeu de Construction  6847  Multicolore  146 P
 
 ℹ️:
 
+- Coffret composé de barrettes magnétiques et sphères avec des accessoires qui permettent des mouvements et la maitrise des flux magnétiques
 - Les produits Geomag sont qualifiés pour la catégorie STEM (Science, Technology, Engineering and Mathematics), qui indique une approche interdisciplinaire de lapprentissage
 - Un jeu de créativité sans limite
 - A partir de 7+ ans
-- Coffret composé de barrettes magnétiques et sphères avec des accessoires qui permettent des mouvements et la maitrise des flux magnétiques
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IZ4CUD8/?tag=tolees0d-21)
