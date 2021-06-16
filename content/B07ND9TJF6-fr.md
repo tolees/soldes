@@ -28,12 +28,12 @@ Vous avez [LEGO 75256 Star Wars La Navette de Kylo Ren  Set de Construction Shut
 
 ℹ️:
 
-- La navette de commandement de Kylo Ren comprend un moteur droit rotatif pour replier les ailes à latterrissage, la possibilité de raccourcir les ailes en repliant leur partie supérieure, 2 fusils à ressort, une rampe daccès qui sabaisse et un cockpit pouvant accueillir 3 figurines.
-- Un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
+- Inclut 6 figurines LEGO Star Wars : le Leader Suprême Kylo Ren, le général Pryde, un soldat Sith, un Stormtrooper du Premier Ordre et 2 Chevaliers de Ren.
 - La navette LEGO Star Wars avec ses ailes dépliées mesure plus de 35 cm de haut, 21 cm de long et 50 cm de large.
 - Inclut un design de casque spécifique pour les Chevaliers de Ren (nouveauté doctobre 2019).
-- Les armes incluent le sabre laser de Kylo Ren, le pistolet blaster du général Pryde, le fusil blaster du soldat Sith, le fusil blaster du Stormtrooper du Premier Ordre, ainsi que la hache et la masse des Chevaliers de Ren.
+- La navette de commandement de Kylo Ren comprend un moteur droit rotatif pour replier les ailes à latterrissage, la possibilité de raccourcir les ailes en repliant leur partie supérieure, 2 fusils à ressort, une rampe daccès qui sabaisse et un cockpit pouvant accueillir 3 figurines.
+- Un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
 - La navette personnelle de Kylo Ren inspirée du film Star Wars : LAscension de Skywalker constitue une source de jeu infinie.
-- Inclut 6 figurines LEGO Star Wars : le Leader Suprême Kylo Ren, le général Pryde, un soldat Sith, un Stormtrooper du Premier Ordre et 2 Chevaliers de Ren.
+- Les armes incluent le sabre laser de Kylo Ren, le pistolet blaster du général Pryde, le fusil blaster du soldat Sith, le fusil blaster du Stormtrooper du Premier Ordre, ainsi que la hache et la masse des Chevaliers de Ren.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND9TJF6/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [L abricot blanc T-Shirt Nombreux sont Ceux Qui m appellent par Mon pr
 
 ℹ️:
 
+- coton
 - manches courtes
 - Disponible en grande taille
-- col avec bande de propreté
 - col rond en bord-côte 1x1 et élasthanne
-- coton
+- col avec bande de propreté
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GA1VWE0/?tag=tolees0d-21)
