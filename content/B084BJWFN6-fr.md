@@ -30,9 +30,9 @@ Vous avez [iRobot Roomba 971  aspirateur robot connecté WiFi avec forte puissan
 
 - Nettoyez sans lever le petit doigt - Grâce à la compatibilité avec les appareils Google Assistant et Alexa, le robot 981 nettoie votre maison au son de votre voix *Fonctionne avec les appareils compatibles Google Home et Alexa Alexa et tous les logos associés sont des marques déposées dAmazon.com ou de ses sociétés affiliées. Google est une marque de commerce de Google LLC
 - iRobot peut se prévaloir de plus de 30 années dexpertise et dinnovation dans la robotique, avec plus de 30 millions de robots domestiques vendus dans le monde. Que vous choisissiez Roomba, Braava ou les deux, vos sols bénéficient du soin expert dont ils ont besoin.
-- La saleté laisse place à la propreté - Profitez dun nettoyage complet grâce au puissant système de nettoyage qui déloge la saleté, les débris et les poils danimaux où quils se cachent.
 - Navigation supérieure - Grâce à la navigation vSLAM de pointe, laspirateur robot Roomba 971 cartographie votre maison pour naviguer en lignes nettes et efficaces, laissant des sols propres dans son sillage. Et si la batterie est faible, il se recharge et reprend là où il sétait arrêté pour sassurer de terminer le travail.
 - Technologie de batterie: Li-Ion
+- La saleté laisse place à la propreté - Profitez dun nettoyage complet grâce au puissant système de nettoyage qui déloge la saleté, les débris et les poils danimaux où quils se cachent.
 - Reprend là où il sétait arrêté - Nos robots savent quand ils ont besoin de se recharger. Ils reprennent ensuite le travail directement à lendroit où ils sétaient arrêtés.
 - Vous aide avec des suggestions - Nos robots retiennent vos préférences de nettoyage et vous fournissent des suggestions personnalisées pour programmer automatiquement les sessions de nettoyage ou vous suggérer des périodes auxquelles un nettoyage plus fréquent de votre maison peut être nécessaire, comme lorsque vos animaux de compagnie perdent leurs poils ou à la saison des allergies.
 
