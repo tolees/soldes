@@ -28,12 +28,12 @@ C'est en vente [Pioneer MVH-S420BT Autoradio](https://www.amazon.fr/dp/B07X7ZRDH
 
 ℹ️:
 
-- Égaliseur graphique 13 bandes ; accessoires 1 microphone Bluetooth externe
 - Amplificateur Mosfet 50 W x 4 ; sélecteur de position découte manuelle (alignement de temps)
-- Autoradio Bluetooth ; application pioneer Smart Sync pour iPhone, Android, spotify, mechafree
-- Autres appareils de musique via lentrée auxiliaire frontale
 - Châssis court, panneau amovible antivol. Lecture via USB : fichiers audio MP3, WMA, WAV, FLAC, AAC
-- Type dinstallation : 1 DIN
+- Autres appareils de musique via lentrée auxiliaire frontale
 - Housse de protection pour panneau avant, menu anglais, allemand, français, turc, russe, fonction karaoké
+- Autoradio Bluetooth ; application pioneer Smart Sync pour iPhone, Android, spotify, mechafree
+- Type dinstallation : 1 DIN
+- Égaliseur graphique 13 bandes ; accessoires 1 microphone Bluetooth externe
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X7ZRDHH/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ Vous avez [Philips HR3655/00 Blender Avance Collection 1400 W  Bol en Tritan  2 
 
 ℹ️:
 
-- Notre bol de 2 L en verre a une capacité de 1,8 L vous permettant de préparer des smoothies pour toute la famille
-- Des millions de nutriments extrait grâce au puissant moteur de 1400W et la technologie ProBlend 3D
-- Relié à lappli "healthy drinks" pour plus de 40 délicieuses recettes de jus et défis
-- Affichage LED
-- 3 fonctions préenregistrées (pulse/ glace pilée / smoothie) pour une multitude de recettes
 - 2 bocaux à gobelet
+- Notre bol de 2 L en verre a une capacité de 1,8 L vous permettant de préparer des smoothies pour toute la famille
+- Affichage LED
+- Des millions de nutriments extrait grâce au puissant moteur de 1400W et la technologie ProBlend 3D
+- 3 fonctions préenregistrées (pulse/ glace pilée / smoothie) pour une multitude de recettes
+- Relié à lappli "healthy drinks" pour plus de 40 délicieuses recettes de jus et défis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2AXU0G/?tag=tolees0d-21)

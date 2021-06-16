@@ -30,8 +30,8 @@ Vous avez [Remington Set de Rasage  Tondeuse Barbe B5  Lames Titanium Auto-Affû
 
 - Réglage par pas de 0, 5 mm jusqu’à 5 mm - réglage par pas de 2 mm de 6 à 18 mm
 - Finition premium - Brosse spéciale barbe poils 100% nylon - pochette de rangement
-- Molette de réglage verticale intuitive - guide de coupe ajustable 17 longueurs (0, 4 -18 mm)
 - Utilisation avec ou sans fil: jusquà 60 min - Temps de charge: 2H - témoin de charge/ charge faible
+- Molette de réglage verticale intuitive - guide de coupe ajustable 17 longueurs (0, 4 -18 mm)
 - Lames amovibles revêtement titane auto-affûtées et confort-tip aux embouts arrondis: performance de coupe et résultats nets
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084DPT52B/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ C'est en vente [Logitech G PRO Souris Gamer Filaire  Capteur Gaming HERO 25K  25
 
 ℹ️:
 
-- Conception Classique de l’Esport: construite à partir de matériaux légers et résistants pour assurer aux gamers vitesse de jeu et confort longue durée, la souris filaire USB Pro garantit un niveau de performances à la hauteur de lutilisation intensive des compétitions
-- Le n° 1 mondial des périphériques gaming - Daprès des données agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
-- Jouez comme les Pros: développée en partenariat avec des athlètes deSports, la souris filaire gamer Pro de Logitech G possède une structure légère et un capteur gaming optique conçus pour une vitesse inédite, et une précision et réactivité sans égales
-- LIGHTSYNC RVB: avec 16,8 millions de couleurs disponibles, vous pouvez arborer les couleurs de votre équipe, et personnaliser votre configuration ou la synchronisation à dautres produits G. Six boutons programmables vous permettent dexécuter diverses commandes à partir de la souris RVB
-- Système de Tension de Bouton Mécanique: le système de tension de bouton à ressort métallique ergonomique garantit une meilleure uniformité entre les boutons gauche et droit de la souris, et aide à réduire la force nécessaire pour cliquer, rendant chaque clic plus net et plus fiable, ce qui fera la différence aux plus hauts niveaux de la compétition
-- Capteur Adapté pour Gamer: le meilleur capteur optique pour gamers au monde offre une précision inégalée et une réactivité homogène à nimporte quelle vitesse sur lensemble de la plage de résolution de 200 à 12 000 PPP
 - Capteur nouvelle génération: capable de détecter des mouvements au sous-micron près et de suivre un mouvement à moins d’un millionième de mètre avec une précision exceptionnelle
+- LIGHTSYNC RVB: avec 16,8 millions de couleurs disponibles, vous pouvez arborer les couleurs de votre équipe, et personnaliser votre configuration ou la synchronisation à dautres produits G. Six boutons programmables vous permettent dexécuter diverses commandes à partir de la souris RVB
+- Conception Classique de l’Esport: construite à partir de matériaux légers et résistants pour assurer aux gamers vitesse de jeu et confort longue durée, la souris filaire USB Pro garantit un niveau de performances à la hauteur de lutilisation intensive des compétitions
+- Système de Tension de Bouton Mécanique: le système de tension de bouton à ressort métallique ergonomique garantit une meilleure uniformité entre les boutons gauche et droit de la souris, et aide à réduire la force nécessaire pour cliquer, rendant chaque clic plus net et plus fiable, ce qui fera la différence aux plus hauts niveaux de la compétition
+- Jouez comme les Pros: développée en partenariat avec des athlètes deSports, la souris filaire gamer Pro de Logitech G possède une structure légère et un capteur gaming optique conçus pour une vitesse inédite, et une précision et réactivité sans égales
+- Capteur Adapté pour Gamer: le meilleur capteur optique pour gamers au monde offre une précision inégalée et une réactivité homogène à nimporte quelle vitesse sur lensemble de la plage de résolution de 200 à 12 000 PPP
+- Le n° 1 mondial des périphériques gaming - Daprès des données agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L9FLRPD/?tag=tolees0d-21)
