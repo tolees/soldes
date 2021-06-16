@@ -29,14 +29,14 @@ C'est en vente [LEGO 60245 City Le cambriolage de la Banque  Ensemble avec F
 ℹ️:
 
 - Le fourgon de surveillance de la police et la banque présentent des intérieurs détaillés ; les enfants peuvent extraire le coffre-fort à l’aide du bras magnétique du camion monstre. Ce set peut être combiné à dautres sets LEGO originaux.
-- Idéal pour les enfants de 5 ans et plus, ce set nécessite uniquement des compétences élémentaires en construction. Il constitue un formidable cadeau pour les enfants qui adorent les jeux daction et pour les fans de la série télévisée LEGO City.
-- L’action LEGO City s’invite à la maison avec ce set sur la police (60245) et ses multiples modèles, dont un camion monstre de voleurs équipé d’un bras de levage magnétique, 2 personnages de la série télévisée LEGO City et plus encore.
+- Une fois construit, le camion monstre mesure plus de 8 cm de haut, 17 cm de long et 9 cm de large, tandis que le fourgon de surveillance de la police mesure plus de 8 cm de haut, 12 cm de long et 6 cm de large.
 - Les sets de construction LEGO sont conformes aux normes industrielles les plus élevées afin de garantir que les sets de jeu LEGO City sont compatibles entre eux et que toutes les pièces LEGO s’assemblent et se séparent toujours facilement.
 - Le groupe LEGO soumet toutes les pièces LEGO à des tests rigoureux afin de s’assurer que chaque set de jeu est conforme aux normes les plus élevées au monde en matière de sécurité et de qualité.
-- Bonne nouvelle ! Aucune pile n’est requise – les véhicules de ce set de jeu LEGO City sur le thème de la police fonctionnent grâce à limagination débordante des jeunes enfants, le jeu peut donc commencer immédiatement.
-- Set pour enfants comprenant un camion monstre de voleurs, une banque avec un coffre-fort magnétique, un fourgon de surveillance et une moto de police, ainsi que les figurines du héros de la police Tom Bennett et de la voleuse Grande Betty.
+- L’action LEGO City s’invite à la maison avec ce set sur la police (60245) et ses multiples modèles, dont un camion monstre de voleurs équipé d’un bras de levage magnétique, 2 personnages de la série télévisée LEGO City et plus encore.
+- Idéal pour les enfants de 5 ans et plus, ce set nécessite uniquement des compétences élémentaires en construction. Il constitue un formidable cadeau pour les enfants qui adorent les jeux daction et pour les fans de la série télévisée LEGO City.
 - Il est facile de se lancer avec ce jouet LEGO. Des instructions de montage faciles à suivre sont incluses dans la boîte. Il suffit douvrir les sachets de briques pour que l’amusement commence !
-- Une fois construit, le camion monstre mesure plus de 8 cm de haut, 17 cm de long et 9 cm de large, tandis que le fourgon de surveillance de la police mesure plus de 8 cm de haut, 12 cm de long et 6 cm de large.
+- Bonne nouvelle ! Aucune pile n’est requise – les véhicules de ce set de jeu LEGO City sur le thème de la police fonctionnent grâce à limagination débordante des jeunes enfants, le jeu peut donc commencer immédiatement.
 - Les sets LEGO City sur la police incluent des bâtiments réalistes, des véhicules fascinants et des personnages amusants qui inspirent le jeu créatif, en aidant les enfants à améliorer leurs aptitudes physiques et à développer leur confiance.
+- Set pour enfants comprenant un camion monstre de voleurs, une banque avec un coffre-fort magnétique, un fourgon de surveillance et une moto de police, ainsi que les figurines du héros de la police Tom Bennett et de la voleuse Grande Betty.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TM73M/?tag=tolees0d-21)
