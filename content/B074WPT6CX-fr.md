@@ -28,10 +28,10 @@ Vous avez [Andoer trépied niveleur et de trois roues avec niveleur niveau à bu
 
 ℹ️:
 
-- 8mm de hauteur réglable sur chaque roue, autour de +/- 5 °. Peut supporter des charges lourdes allant jusquà 15kg / 33Lbs.
 - Avec 3 niveaux à bulle offrent une indication précise et très visible du niveau.
-- Vis supérieure 3/8 "et filetage inférieur pour montage sur trépied universel et tête de photographie.
+- 8mm de hauteur réglable sur chaque roue, autour de +/- 5 °. Peut supporter des charges lourdes allant jusquà 15kg / 33Lbs.
 - Construction en alliage daluminium CNC de précision, avec surface de traitement anti-oxydation anodique. Compact et portable, avec un sac de transport.
 - Le niveleur de trépied à trois roues vous permet deffectuer des réglages précis pour obtenir un équilibre précis sur une topographie variée.
+- Vis supérieure 3/8 "et filetage inférieur pour montage sur trépied universel et tête de photographie.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074WPT6CX/?tag=tolees0d-21)
