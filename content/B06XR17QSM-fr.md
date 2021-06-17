@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Perceuse à percussion filaire Bosch - E
 
 ℹ️:
 
-- Moteur 550 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,…).
 - Design ergonomique compact - poignée pour un meilleur contrôle - Mandrin auto serrant.
-- Diam. De perçage max (béton/acier/bois): 10/ 8/ 25 mm.
-- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
 - Vitesse à vide: 3 000 tr/min. Fréquence de frappe 33 000 cps/min. Couple: 11 Nm.
+- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
+- Moteur 550 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,…).
+- Diam. De perçage max (béton/acier/bois): 10/ 8/ 25 mm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XR17QSM/?tag=tolees0d-21)
