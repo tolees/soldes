@@ -29,7 +29,7 @@ C'est en vente [Prada 490-82970 Eau de Toilette](https://www.amazon.fr/dp/B07BL1
 ℹ️:
 
 - Eau De Toilette Homme 50 millilitres
-- Contenu :50 millilitres
 - Parfums: Eau De Toilette
+- Contenu :50 millilitres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BL19QGK/?tag=tolees0d-21)

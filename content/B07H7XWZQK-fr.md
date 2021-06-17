@@ -28,12 +28,12 @@ C'est en vente [Devolo Magic 1 WiFi : Kit CPL Multiroom pour un WiFi ac dans tou
 
 ℹ️:
 
+- Internet haut débit jusquà 1200 Mbits/s avec la nouvelle technologie CPL (norme g.Hn) par le leader du marché
+- Débit Wifi sur la bande 2,4GHz: 300 Mbps | Débit Wifi sur la bande 5GHz: 867 Mbps
+- Systèmes d’exploitation pris en charge de Windows 7, de Mac OS X 10.9, de Ubuntu-Linux 14.04
 - Compatible avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
 - Plug & Play, attribution facile de mot de passe pour le WiFi invité, contrôle parental
-- Systèmes d’exploitation pris en charge de Windows 7, de Mac OS X 10.9, de Ubuntu-Linux 14.04
 - Kit CPL Multiroom
-- Débit Wifi sur la bande 2,4GHz: 300 Mbps | Débit Wifi sur la bande 5GHz: 867 Mbps
-- Internet haut débit jusquà 1200 Mbits/s avec la nouvelle technologie CPL (norme g.Hn) par le leader du marché
 - Trois prises CPL avec cinq ports ethernet en tout, point daccès WiFi
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H7XWZQK/?tag=tolees0d-21)
