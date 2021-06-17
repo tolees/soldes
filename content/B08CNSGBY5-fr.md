@@ -28,8 +28,8 @@ C'est en vente [NBA 2K21  PS5 ](https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0
 
 ℹ️:
 
-- Bonus de précommande o 5 000 vc + 5 000 points mon équipeo 9 boosts mon joueuro 10 packs hebdomadaires pour mon equipeo 5 paires de chaussureso bundle déléments numériques damian lillard
 - Bonus de précommande exclusif amazon: o 1 pack mon equipeo 6 boosts de compétence pour améliorer votre joueuro 3 boosts de gatorade
+- Bonus de précommande o 5 000 vc + 5 000 points mon équipeo 9 boosts mon joueuro 10 packs hebdomadaires pour mon equipeo 5 paires de chaussureso bundle déléments numériques damian lillard
 - Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0d-21)
