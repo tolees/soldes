@@ -29,7 +29,7 @@ Vous avez [Alessi Mw52/3 Dressed for X-mas Surtout à Trois Éléments en Acier 
 ℹ️:
 
 - Lavable au lave-vaisselle
-- Parfaite idée cadeau
 - Designer: Marcel Wanders
+- Parfaite idée cadeau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M02FL8Z/?tag=tolees0d-21)

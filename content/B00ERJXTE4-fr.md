@@ -28,14 +28,14 @@ Vous avez [Liteon IHAS124-14 Black Lecteurs - Graveurs CD/DVD Graveur de DVD R /
 
 ℹ️:
 
-- Mécanisme de chargement: Tray disc loader. Convient pour: Bureau
-- CD-RW
-- Type de lecteur optique: DVD Super Multi DL
-- Lite-On IHAS124. Couleur: Noir
 - DVD+R
 - CD-R
-- DVD
-- CD-ROM
+- Type de lecteur optique: DVD Super Multi DL
+- CD-RW
 - Types de disque supportés: CD
+- DVD
+- Mécanisme de chargement: Tray disc loader. Convient pour: Bureau
+- CD-ROM
+- Lite-On IHAS124. Couleur: Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ERJXTE4/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ C'est en vente [Game of Thrones  Le Trône de Fer  - L intégrale des saisons 1 
 
 ℹ️:
 
-- Feature Subtitles: English SDH, French, Latin Spanish, Castilian Spanish, Czech, Polish, Brazilian Portuguese, Dutch, Danish, Finnish, Norwegian, Swedish, Greek
 - Feature Audio: English DTS-HD Master Audio 5.1, French DTS Digital Surround 5.1, Latin Spanish DTS Digital Surround 2.0, Castilian Spanish DTS Digital Surround 5.1, Czech DTS Digital Surround 2.0, Polish DTS Digital Surround 2.0
 - Saison 4 - audio: Espagnol, Français, Polonais, Anglais, Tchèque ; sous-titre: Espagnol, Français, Polonais, Danois, Finnois, Grec, Néerlandais, Norvégien, Portugais, Tchèque, Suédois, Anglais
-- Compatible avec le modem Freebox et le lecteur dvd
-- Saison 1 - audio: Espagnol, Français, Polonais, Anglais, Castillan ; sous-titre: Espagnol, Français, Polonais, Castillan, Danois, Finnois, Néerlandais, Norvégien, Portugais, Suédois, Anglais
-- Saison 3 - audio: Espagnol, Français, Polonais, Anglais ; sous-titre: Espagnol, Français, Danois, Finnois, Néerlandais, Norvégien, Portugais, Suédois, Anglais
+- Feature Subtitles: English SDH, French, Latin Spanish, Castilian Spanish, Czech, Polish, Brazilian Portuguese, Dutch, Danish, Finnish, Norwegian, Swedish, Greek
 - Saison 2 - audio: Espagnol, Français, Polonais, Anglais, Castillan ; sous-titre: Espagnol, Français, Polonais, Castillan, Danois, Finnois, Néerlandais, Norvégien, Portugais, Suédois, Anglais
+- Compatible avec le modem Freebox et le lecteur dvd
+- Saison 3 - audio: Espagnol, Français, Polonais, Anglais ; sous-titre: Espagnol, Français, Danois, Finnois, Néerlandais, Norvégien, Portugais, Suédois, Anglais
+- Saison 1 - audio: Espagnol, Français, Polonais, Anglais, Castillan ; sous-titre: Espagnol, Français, Polonais, Castillan, Danois, Finnois, Néerlandais, Norvégien, Portugais, Suédois, Anglais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00OH9K29E/?tag=tolees0d-21)

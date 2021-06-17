@@ -28,10 +28,10 @@ Vous avez [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00T
 
 ℹ️:
 
-- sony
 - Stabilisation dimage :N
-- unknown_modifier
 - Ouverture focale maximum :50
+- unknown_modifier
+- sony
 - Ouverture focale minimum :50
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)

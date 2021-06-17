@@ -29,9 +29,9 @@ Vous avez [Ruko - Terrax - Jeu de tarauds main - Norme 352 - M8  Import Allemagn
 ℹ️:
 
 - Alliage acier HSS de qualité supérieure
-- Pour filetage métrique M8 x 1,25 mm selon la norme ISO 13
-- Set comprenant ébaucheurs, intermédiaires et finisseurs
 - Diamètre avant-trou : 6,8 mm.
 - Filetage réalisé en trois temps.
+- Pour filetage métrique M8 x 1,25 mm selon la norme ISO 13
+- Set comprenant ébaucheurs, intermédiaires et finisseurs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003IHVD58/?tag=tolees0d-21)
