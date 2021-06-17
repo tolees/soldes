@@ -28,10 +28,10 @@ Vous avez [Ring Automotive - Ring RECB312 Chargeur de Batterie 6/12 Volts - 12 A
 
 ℹ️:
 
-- chargeur batterie
-- 12 ampères
-- 6 et 12 volts
 - 180 AH
 - RING
+- 12 ampères
+- chargeur batterie
+- 6 et 12 volts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AZHE7S4/?tag=tolees0d-21)

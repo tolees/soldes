@@ -28,8 +28,8 @@ Vous avez [Bioderma - Crealine Ds+ - Soin apaisant et raffraichissant - Pour pea
 
 ℹ️:
 
-- Appliquez Créaline DS + Crème tous les jours sur votre peau nettoyée le matin et/ou soir. Utiliser idéalement Créaline DS+ Crème avec Créaline DS+ Gel apaisant et assainissant.
 - hypoallergénique / texture légère non grasse / non comédogène
 - Le soin apaisant et assainissant des peaux sensibles associant rougeurs et squames.
+- Appliquez Créaline DS + Crème tous les jours sur votre peau nettoyée le matin et/ou soir. Utiliser idéalement Créaline DS+ Crème avec Créaline DS+ Gel apaisant et assainissant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UNGPP6K/?tag=tolees0d-21)
