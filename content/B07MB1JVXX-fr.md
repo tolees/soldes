@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MYCARBON Ventilateur Silencieux avec Tél avec 30.46 % rabais '
-date: 2021-06-17 06:31:43
+date: 2021-06-18 06:37:11
 image: 'https://m.media-amazon.com/images/I/418bhtrf9tS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [MYCARBON Ventilateur Silencieux avec Télécommande 1800m³/h EC
 
 ℹ️:
 
+- ✔ Télécommande à 360°& Minuterie 12h: La télécommande à 360°vous permet de contrôler le ventilateur bureau sans vous déplacer; Fonction Timer: La durée de fonctionnement peut être programmée de 1 à 12h.
 - ✔Mode ECO innovant: La vitesse change automatiquement avec la température ambiante détectée. La température augmente, la vitesse augmente; La température baisse, la vitesse diminue. MYCARBON ventilateur est le premier ventilateur de table qui possède ECO mode sur Amazon.fr. En plus du mode ECO, MYCARBON Ventilateur silencieux est équipé de mode nuit et de mode normal.
 - ✔Circulation dAir & Economie dEnergie: Différent des ventilateurs classiques, grâce à son dispositif turbo intégré, MYCARBON ventilateur chambre souffle un vent plus concentré et de plus longue distance, qui peut faire circuler lair intérieur et le rendre beaucoup plus économe en énergie. Le ventilateur peut être utilisé avec le purificateur d’air, le déshumidificateur, même pendant la saison de pluie.
-- ✔ Télécommande à 360°& Minuterie 12h: La télécommande à 360°vous permet de contrôler le ventilateur bureau sans vous déplacer; Fonction Timer: La durée de fonctionnement peut être programmée de 1 à 12h.
 - ✔Puissant mais Silencieux: 4 vitesses en total, débit d’air max 1800m3/h en Turbo boost, vous pouvez sentir la brise fraîche même à 20 mètres. Mais le petit ventilateur est aussi ultra silencieux, seulement 30dB en mode nuit, ne vous dérange pas durant votre sommeil.
 - ✔Oscillation à 4 Dimensions : Le ventilateur puissant peut osciller non seulement horizontalement et mais aussi verticalement, cela permet de couvrir une très grande zone et de répondre aux besoins de plusieurs personnes à la fois.
 
