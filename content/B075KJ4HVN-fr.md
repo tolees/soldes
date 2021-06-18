@@ -28,13 +28,13 @@ Vous avez [Extel - Visiophone - Ice  2 fils facile d instalation  à Effet Miroi
 
 ℹ️:
 
-- Avec mémoire de passage enregistrement photo et vidéo des visiteurs sur mémoire interne ou carte SD (non fournie)
-- Visiophone avec large écran de 18cm avec effet miroir
-- Double commande pour ouvrir un portillon et un portail
-- Si vous optez pour un moniteur supplémentaire, Les deux moniteurs communiquent entre eux
-- Surveiller votre entrée facilement grâce à la fonction monitoring
-- Plateforme évolutive: vous pouvez ajouter jusquà 1 écran supplémentaire et 1 caméra ou platine de rue supplémentaire
-- Vision nocturne grâce à ses LEDs infrarouges invisibles
 - Référence fournisseur EXTEL: 720306
+- Double commande pour ouvrir un portillon et un portail
+- Vision nocturne grâce à ses LEDs infrarouges invisibles
+- Visiophone avec large écran de 18cm avec effet miroir
+- Avec mémoire de passage enregistrement photo et vidéo des visiteurs sur mémoire interne ou carte SD (non fournie)
+- Si vous optez pour un moniteur supplémentaire, Les deux moniteurs communiquent entre eux
+- Plateforme évolutive: vous pouvez ajouter jusquà 1 écran supplémentaire et 1 caméra ou platine de rue supplémentaire
+- Surveiller votre entrée facilement grâce à la fonction monitoring
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075KJ4HVN/?tag=tolees0d-21)
