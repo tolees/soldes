@@ -28,9 +28,9 @@ C'est en vente [Syoss - Densi fix Laque Cheveux Densité/Volume 400 ml - Lot de 
 
 ℹ️:
 
+- Ne colle pas, ne laisse pas de résidus, s’élimine facilement au brossage
 - N’alourdit pas les cheveux
 - Effets matière et épaisseur pendant 48 h grâce à une fixation très forte
 - Effet anti-cheveux plats et volume depuis la racine
-- Ne colle pas, ne laisse pas de résidus, s’élimine facilement au brossage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BGR6Z9A/?tag=tolees0d-21)

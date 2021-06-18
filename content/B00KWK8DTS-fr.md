@@ -29,9 +29,9 @@ Vous avez [Columbia Newton Ridge Plus  Chaussures Imperméables Homme - Marron  
 ℹ️:
 
 - Ferrures en métal.
-- Construction étanche et scellée.
-- Dessus en cuir avec revêtement en polyuréthane, daim et maille.
-- Semelle extérieure Omni-Grip en caoutchouc résistant à labrasion.
 - Semelle intermédiaire légère Techlite pour un confort durable, un excellent amorti et un excellent retour dénergie.
+- Semelle extérieure Omni-Grip en caoutchouc résistant à labrasion.
+- Dessus en cuir avec revêtement en polyuréthane, daim et maille.
+- Construction étanche et scellée.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KWK8DTS/?tag=tolees0d-21)

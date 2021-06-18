@@ -28,10 +28,10 @@ Vous avez [Zen Light CASCADE-V2 Fontaine d Intérieur  Polyrésine  Noir  17 x 2
 
 ℹ️:
 
-- Écoulement deau dans un décor au style naturel avec de belles finitions
 - Installation simple et rapide en quelques minutes et une utilisation très facile
-- Crée une atmosphère zen idéale pour vos moments de détente et de relaxation
-- Écoulement sur 5 niveaux très relaxant pour une fontaine peu encombrante
 - Pompe incluse avec ajustement du débit deau et éclairage Led à variation de couleur
+- Crée une atmosphère zen idéale pour vos moments de détente et de relaxation
+- Écoulement deau dans un décor au style naturel avec de belles finitions
+- Écoulement sur 5 niveaux très relaxant pour une fontaine peu encombrante
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01L9AWK70/?tag=tolees0d-21)

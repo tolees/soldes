@@ -28,10 +28,10 @@ Vous avez [Philips Lighting Lot de 6 Ampoules LED Standard Culot B22  13W équiv
 
 ℹ️:
 
-- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
-- Éclairage instantané, dès lallumage
-- Ampoule LED longue durée de vie
-- Retrouvez la lumière blanche et chaude des ampoules à incandescence
 - Meilleur pour votre portefeuille et pour la planète
+- Éclairage instantané, dès lallumage
+- Retrouvez la lumière blanche et chaude des ampoules à incandescence
+- Ampoule LED longue durée de vie
+- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KHILTL8/?tag=tolees0d-21)

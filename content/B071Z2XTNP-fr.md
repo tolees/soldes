@@ -28,8 +28,8 @@ Vous avez [Bialetti 5322 Machine à Expresso Aluminium  Vert/Rouge  30 x 20 x 15
 
 ℹ️:
 
+- Convient pour 3 tasses
 - Matériel: Aluminium, Plastique
 - Convient versez tous les cuiseurs (sauf induction)
-- Convient pour 3 tasses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071Z2XTNP/?tag=tolees0d-21)

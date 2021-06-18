@@ -28,10 +28,10 @@ Vous avez [3M Ruban Adhésif de Signalisation de Danger 766I  Vinyle Hachuré  5
 
 ℹ️:
 
-- Peut être appliqué à la main ou avec un applicateur de plancher
-- Ladhésif en caoutchouc offre une bonne adhérence instantanée sur de nombreuses surfaces
 - Support vinyle imprimé sur face avant
-- Adhésif en caoutchouc pour une bonne adhérence instantanée, imprimé en bandes hachurées noires et jaunes
 - Idéal pour marquer les applications dans les zones de circulation légère
+- Ladhésif en caoutchouc offre une bonne adhérence instantanée sur de nombreuses surfaces
+- Peut être appliqué à la main ou avec un applicateur de plancher
+- Adhésif en caoutchouc pour une bonne adhérence instantanée, imprimé en bandes hachurées noires et jaunes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008CNZDRW/?tag=tolees0d-21)
