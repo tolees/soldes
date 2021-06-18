@@ -29,9 +29,9 @@ C'est en vente [Philips - L OR Barista LM8018/90 Machine à café à capsules La
 ℹ️:
 
 - Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
+- 19 bars de pression afin de savourer le goût dun véritable Espresso/café
+- Dégustez un large choix de boissons: Ristretto, Espresso, Lungo, Grand Café Filtre ainsi que des boissons lactées.
 - Système de reconnaissance automatique de la capsule
 - Préparez 2 tasses de café ou un café double dans 1 seule tasse grâce au système exclusif LOR Barista
-- Dégustez un large choix de boissons: Ristretto, Espresso, Lungo, Grand Café Filtre ainsi que des boissons lactées.
-- 19 bars de pression afin de savourer le goût dun véritable Espresso/café
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07M93GTFQ/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Garmin - Ceinture HRM Cardio-Dual](https://www.amazon.fr/dp/B07N
 
 ℹ️:
 
-- Transmission des données de fréquence cardiaque en temps réel
+- Connectivité ANT + et technologie sans fil BLUETOOTH 5.0
 - Etanchéité 1 ATM
 - Autonomie : Jusqu’à 3 ans et demi (Pile CR2032 3volt)
-- Connectivité ANT + et technologie sans fil BLUETOOTH 5.0
+- Transmission des données de fréquence cardiaque en temps réel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N3C5WRG/?tag=tolees0d-21)
