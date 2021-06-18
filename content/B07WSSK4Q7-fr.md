@@ -28,10 +28,10 @@ C'est en vente [Pioneer DMH-A3300DAB Écran AV Double DIN pour Voiture](https://
 
 ℹ️:
 
-- AUX et USB avant avec contrôle iPod/Android
-- Écran tactile de 6,2" avec bouton déclairage personnalisé
-- Bluetooth mains libres intégré et streaming audio
-- Radio Dab+/FM/AM avec 2 présorties
 - Châssis court et compatible Alexa (via lapplication Pioneer Smart Sync)
+- Radio Dab+/FM/AM avec 2 présorties
+- AUX et USB avant avec contrôle iPod/Android
+- Bluetooth mains libres intégré et streaming audio
+- Écran tactile de 6,2" avec bouton déclairage personnalisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WSSK4Q7/?tag=tolees0d-21)
