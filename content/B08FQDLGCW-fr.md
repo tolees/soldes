@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '64.29 % rabais sur Electronic Arts - FIFA 21  PS4  - Versio'
-date: 2021-06-08 14:53:46
+title: '71.57 % rabais sur Electronic Arts - FIFA 21  PS4  - Versio'
+date: 2021-06-18 18:04:52
 image: 'https://m.media-amazon.com/images/I/51BvadBd0iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08FQDLGCW-fr Electronic Arts - FIFA 21 PS4 - Version PS5 incluse'
 sku: 'B08FQDLGCW-fr'
 tags: [ 'Jeux vidéo','electronic arts', ]
-actualPrice: 24.99 EUR
+actualPrice: 19.9 EUR
 currency: EUR
-price: 24.99
+price: 19.9
 comparePrice: 69.99 EUR
 prodname: 'Electronic Arts - FIFA 21  PS4  - Version PS5 incluse'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.fr/dp/B08FQDLGCW/?tag=tolees0d-21'
-descuento: '64.29'
-average: '33.99'
+descuento: '71.57'
+average: '31.172'
 ---
 
-Vous avez [Electronic Arts - FIFA 21  PS4  - Version PS5 incluse](https://www.amazon.fr/dp/B08FQDLGCW/?tag=tolees0d-21)  à  64.29 % de réduction, prix final  24.99 EUR (original: 69.99 EUR) ici:
+Vous avez [Electronic Arts - FIFA 21  PS4  - Version PS5 incluse](https://www.amazon.fr/dp/B08FQDLGCW/?tag=tolees0d-21)  à  71.57 % de réduction, prix final  19.9 EUR (original: 69.99 EUR) ici:
 
 [![Electronic Arts - FIFA 21  PS4  - Versio](https://m.media-amazon.com/images/I/51BvadBd0iL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08FQDLGCW/?tag=tolees0d-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NBA 2K21  PS5  avec 80.01 % rabais '
-date: 2021-06-17 07:43:20
+date: 2021-06-18 18:50:49
 image: 'https://m.media-amazon.com/images/I/51U7GUoaisL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: '2K'
 buyurl: 'https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0d-21'
 descuento: '80.01'
-average: '25.1175'
+average: '23.092'
 ---
 
 C'est en vente [NBA 2K21  PS5 ](https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0d-21)  à  80.01 % de réduction, prix final  14.99 EUR (original: 74.99 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [NBA 2K21  PS5 ](https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0
 
 ℹ️:
 
+- Bonus de précommande o 5 000 vc + 5 000 points mon équipeo 9 boosts mon joueuro 10 packs hebdomadaires pour mon equipeo 5 paires de chaussureso bundle déléments numériques damian lillard
 - Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
 - Bonus de précommande exclusif amazon: o 1 pack mon equipeo 6 boosts de compétence pour améliorer votre joueuro 3 boosts de gatorade
-- Bonus de précommande o 5 000 vc + 5 000 points mon équipeo 9 boosts mon joueuro 10 packs hebdomadaires pour mon equipeo 5 paires de chaussureso bundle déléments numériques damian lillard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CNSGBY5/?tag=tolees0d-21)
