@@ -28,10 +28,10 @@ Vous avez [HP 32s Ecran PC Full HD 32" Noir  IPS/LED  VGA/HDMI  1920 x 1080  1
 
 ℹ️:
 
-- Résolution : 1920 x 1080 à 60 Hz
-- Taille et format : 32 pouces, 16:9
 - Fonctions daffichage : Anti-reflets; Antistatique; Sélection de la langue; Rétroéclairage LED; Commandes à l’écran; Plug and Play; Programmable par l’utilisateur
+- Taille et format : 32 pouces, 16:9
 - Contenu du colis : 1 écran, Cordon d’alimentation secteur; Documentation; Câble HDMI; Adaptateur pour montage VESA; Carte de garantie
+- Résolution : 1920 x 1080 à 60 Hz
 - Entrée Vidéo : 1 HDMI, 1 VGA. Haut-parleurs intégrés: Non
 - Temps de réponse du rafraîchissement : 5 ms
 
