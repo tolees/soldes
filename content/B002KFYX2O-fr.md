@@ -28,8 +28,8 @@ Vous avez [Lacor 69046 100 Sacs de Conservation sous Vide 25 X 35 cm](https://ww
 
 ℹ️:
 
+- 105 microns
 - Dimensions : 25 x 35 cm
 - Lot de 100
-- 105 microns
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002KFYX2O/?tag=tolees0d-21)
