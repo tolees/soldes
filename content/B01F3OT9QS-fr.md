@@ -28,8 +28,8 @@ C'est en vente [L Oréal Professionnel Mythic Oil Sérum Réparateur](https://ww
 
 ℹ️:
 
-- 96h de volume contrôlé Douceur Nutrition Protection Brillance
-- Crème de brushing multiusage.
 - Produit 3-en-1 : pré-shampooing, soin démêlant à rincer et crème de brushing sans rinçage. Appliquer une noisette de produit sur cheveux humides avant ou après le shampooing, puis rincer. Appliquer en crème de brushing, ne pas rincer, sécher au sèche-cheveux et coiffer normalement.
+- Crème de brushing multiusage.
+- 96h de volume contrôlé Douceur Nutrition Protection Brillance
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01F3OT9QS/?tag=tolees0d-21)

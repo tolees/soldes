@@ -29,9 +29,9 @@ Vous avez [Corsair Scimitar ELITE RGB Optique MOBA/MMO Souris Gaming  18 000 DPI
 ℹ️:
 
 - Capteur optique natif 18 000 DPI : Équipée d’un capteur optique natif personnalisé PixArt PMW3391 réglable par paliers de 1 DPI, pour un suivi ultraprécis et personnalisable
-- Système de contrôle breveté Key Slider : Permet de repositionner les 12 boutons latéraux pour obtenir une prise en main optimale
 - Forme profilée confortable : Conçue pour épouser les lignes de votre paume, peu importe la taille de votre main ou la manière dont vous tenez la souris
-- 17 boutons entièrement programmables : Idéal pour les actions fréquentes ainsi que pour exécuter des macros complexes dans les MMO et les MOBA
 - Construction haute résistance : Les switchs Omron certifiés pour 50 millions de clics, la molette de défilement robuste et les câbles tressés garantissent
+- Système de contrôle breveté Key Slider : Permet de repositionner les 12 boutons latéraux pour obtenir une prise en main optimale
+- 17 boutons entièrement programmables : Idéal pour les actions fréquentes ainsi que pour exécuter des macros complexes dans les MMO et les MOBA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083JL8CLF/?tag=tolees0d-21)

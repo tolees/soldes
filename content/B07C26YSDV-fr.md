@@ -28,7 +28,7 @@ Vous avez [JACK & JONES Jjecorp Logo Sweat Hood Noos Shirt À Capuche  Noir  Bla
 
 ℹ️:
 
-- Coton mélangé.
 - Sweat avec logo.
+- Coton mélangé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07C26YSDV/?tag=tolees0d-21)

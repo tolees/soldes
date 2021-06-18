@@ -28,8 +28,8 @@ C'est en vente [Fractal Design Meshify C – TG Midi Tower Noir  Transparent](ht
 
 ℹ️:
 
-- Produit destiné aux joueurs exigeants
 - Qualité de fabrication irréprochable
+- Produit destiné aux joueurs exigeants
 - Immersion exceptionnelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FQZM89/?tag=tolees0d-21)

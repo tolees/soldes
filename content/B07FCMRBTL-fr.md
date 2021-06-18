@@ -28,10 +28,10 @@ C'est en vente [SanDisk Extreme Plus 256GB microSDXC Memory Card + SD Adapter wi
 
 ℹ️:
 
-- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
-- Homologuée A2 pour des performances applicatives et des chargements plus rapides
 - Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones. Température de fonctionnement : -25ºC à 85ºC
 - Jusquà 170 Mo/s en lecture et 90 Mo/s en écriture pour des prises et transferts rapides
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FCMRBTL/?tag=tolees0d-21)

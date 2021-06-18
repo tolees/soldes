@@ -28,11 +28,11 @@ C'est en vente [VTech Ordi Genius Kid  196305 - Version FR](https://www.amazon.f
 
 ℹ️:
 
-- 30 mélodies et différents modes musicaux : Rock, Jazz et country.
-- Le premier ordinateur parlant et musical des petits !
-- Clavier abécédaire, 10 touches chiffre, un pavé directionnel et un sélecteur de mode de jeu.
+- Différents niveau de progression : plus l’enfant joue, plus la difficulté augmente.
 - 20 activités pour découvrir les formes, les animaux, la logique, le vocabulaire
 - Version française
-- Différents niveau de progression : plus l’enfant joue, plus la difficulté augmente.
+- Le premier ordinateur parlant et musical des petits !
+- 30 mélodies et différents modes musicaux : Rock, Jazz et country.
+- Clavier abécédaire, 10 touches chiffre, un pavé directionnel et un sélecteur de mode de jeu.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N2UE5KK/?tag=tolees0d-21)
