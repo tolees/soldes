@@ -28,8 +28,8 @@ C'est en vente [Brilliant G42684/06 Panel Borne Extérieure LED  Aluminium/Verre
 
 ℹ️:
 
-- LED incl.
-- Ampoule LED à économie dénergie
 - 9 watts
+- Ampoule LED à économie dénergie
+- LED incl.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HOHA3EE/?tag=tolees0d-21)

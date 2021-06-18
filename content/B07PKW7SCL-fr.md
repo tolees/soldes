@@ -28,14 +28,14 @@ C'est en vente [Asus Wi-Fi AC2200 Lyra Voice Routeur Triple Bande avec le Servic
 
 ℹ️:
 
-- L’application vous informe des potentiels problèmes rencontrés
 - Un réseau entièrement sécurisé pour votre famille — Logiciel gratuit free AiProtection Pro développé par Trend Micro et garanti à vie – Protège tous vos appareils connectés
-- Vous êtes aux commandes - l’application ASUS Lyra permet au Lyra Voice d’être installé sans nécessiter de passer par un PC, de même pour ce qui est de la gestion du réseau et des diagnostics de connexion
-- Portée Wi-Fi pour toute la maison - réseau maillé tri-bande compatible avec la technologie ASUS AiMesh pour une connexion sans fil forte à chaque coin de la maison
 - Alimentation: Entrée CA: 110 V ~ 240 V (50 ~ 60 Hz). Sortie CC: 19 V avec max. 2,37 A de courant
-- Amazon Alexa - les commandes vocales Alexa permettent à l’utilisateur de contrôler ses appareils connectés et utiliser les milliers de Alexa Skills
-- Un son riche et puissant - technologie audio exclusive pour des musiques en stéréo avec basses plus profondes et gamme de fréquences plus large
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 - Amazon Alexa - les commandes vocales Alexa permettent à l’utilisateur d’écouter en toute simplicité ses musiques préférées ou les actualités
+- L’application vous informe des potentiels problèmes rencontrés
+- Amazon Alexa - les commandes vocales Alexa permettent à l’utilisateur de contrôler ses appareils connectés et utiliser les milliers de Alexa Skills
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Un son riche et puissant - technologie audio exclusive pour des musiques en stéréo avec basses plus profondes et gamme de fréquences plus large
+- Portée Wi-Fi pour toute la maison - réseau maillé tri-bande compatible avec la technologie ASUS AiMesh pour une connexion sans fil forte à chaque coin de la maison
+- Vous êtes aux commandes - l’application ASUS Lyra permet au Lyra Voice d’être installé sans nécessiter de passer par un PC, de même pour ce qui est de la gestion du réseau et des diagnostics de connexion
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PKW7SCL/?tag=tolees0d-21)

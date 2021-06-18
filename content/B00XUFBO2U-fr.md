@@ -28,11 +28,11 @@ Vous avez [Brennenstuhl 1159291138 Eco-Line Bloc de 8 Prises 1 4 m H05VV-F 3G1 5
 
 ℹ️:
 
-- Couleur: Anthracite.
-- Protège les appareils connectés contre les surtensions jusquà maximum 13.500 A.
-- 8 prises, Longueur câble: 1,4 m.
 - Voyant indicateur de protection active.
+- Couleur: Anthracite.
 - Disposition des prises de courant: 45°
+- Protège les appareils connectés contre les surtensions jusquà maximum 13.500 A.
 - Bloc multiprise Eco-Line avec parasurtenseur 13.500A.
+- 8 prises, Longueur câble: 1,4 m.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XUFBO2U/?tag=tolees0d-21)

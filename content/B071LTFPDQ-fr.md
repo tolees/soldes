@@ -28,9 +28,9 @@ C'est en vente [Nikon JAA831DA Objectif AF-S Fisheye Nikkor 8-15 Mm F/3.5-4.5E E
 
 ℹ️:
 
-- distance minimale de mise au point de 0,16 m
 - La créativité d’un fisheye et la polyvalence d’un zoom. Passez d’une perspective circulaire de 8 mm à une image fisheye plein cadre de 15 mm.
 - Autofocus ultra-silencieux et ultra-rapide et contrôle de l’exposition homogène.
+- distance minimale de mise au point de 0,16 m
 - Réalisez de superbes images haute définition avec une netteté parfaite sur tout le champ, même avec une ouverture maximale de f/3.5.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071LTFPDQ/?tag=tolees0d-21)

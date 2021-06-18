@@ -28,8 +28,8 @@ Vous avez [B&W International Type 6500 Mallette avec Insert Amovible pour Appare
 
 ℹ️:
 
-- Garantie Fabricant: 1 an(s)
 - Dimension (L x l x h) :49 x 66 x 23 cm
 - Piles requises : Non
+- Garantie Fabricant: 1 an(s)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B018LZP0N2/?tag=tolees0d-21)

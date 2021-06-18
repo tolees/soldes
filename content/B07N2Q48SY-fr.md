@@ -28,10 +28,10 @@ Vous avez [GEEETECH A20 Imprimante 3D avec zone d impression 255x255x255mm  dét
 
 ℹ️:
 
-- Firmware Open Source: A20 est livré avec le tableau de commande OPEN SOURCE GT2560, offrant un espace illimité pour vous permettre de modifier le firmware et le bricoler avec votre imprimante.
 - Détecteur de filament:A20 sarrête automatiquement lorsque le filament est épuisé et le processus dimpression se réinitialise après le chargement du filament en un seul clic.
+- Firmware Open Source: A20 est livré avec le tableau de commande OPEN SOURCE GT2560, offrant un espace illimité pour vous permettre de modifier le firmware et le bricoler avec votre imprimante.
 - Grande zone dimpression:avec sa surface dimpression de 255 x 255 x 255 mm, la A20 offre la meilleure plateforme de construction et les détails les plus précis.
-- Fonction de réenregistrement des cassettes :le processus dimpression peut être effectué à la même emplacement, quelle que soit la panne de courant inattendue. Le changement de filament est interrompu.
 - Assemblage rapide:2 étapes suffisent pour installer le kit de portique supérieur sur la base de bâtiment intégrée et le câblage. Simple et pratique.
+- Fonction de réenregistrement des cassettes :le processus dimpression peut être effectué à la même emplacement, quelle que soit la panne de courant inattendue. Le changement de filament est interrompu.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N2Q48SY/?tag=tolees0d-21)
