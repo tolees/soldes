@@ -29,9 +29,9 @@ C'est en vente [LORYERGO Support de Moniteur avec 3 hauteurs réglables Rehausse
 ℹ️:
 
 - 【Espace De Travail Spacieux 】 Une fente multifonctionnelle sur la plateforme peut tenir votre smartphone, votre tablette et votre stylo afin de garder votre bureau propre et organisé. Lespace sous le support de lécran vous permet de ranger vos fournitures de bureau et dagrandir votre espace de travail.
-- 【3 Hauteur De Visualisation Reglable 】Support Ecran PC offre des angles de vue ergonomiques et flexibles avec 3 hauteurs réglables de 5,9 cm / 9,5 cm / 13,2 cm, soulageant ainsi les charges sur votre cou et vos épaules. Utilise les segments de jambes qui peuvent être ajoutés ou retirés très facilement à la main pour le réglage de la hauteur. Obtention facile dune position de travail parfaite et dun angle de vue très confortable.
 - 【Excellente Compatibilité 】Rehausseur Ecran avec une plateforme de 37*27cm, elle peut supporter jusquà 20kg décrans, ordinateurs portables, tablettes, smartphones, imprimantes et plus encore. Ce support pour moniteur est une solution de bureau idéale pour optimiser votre espace de travail.
 - 【Facile à Assembler 】 Le support de lécran peut être assemblé en 2 minutes ou moins sans utiliser doutils, vous pouvez donc lutiliser immédiatement. Linstallation est facile en fixant simplement des segments de pieds sur la plate-forme à la hauteur de votre choix.
 - 【Fabrication Robuste】Construction robuste et sophistiquée, faite dune haute qualité ABS. La jambes stable soutient vos appareils en place sans vaciller et présente votre bureau avec élégance.
+- 【3 Hauteur De Visualisation Reglable 】Support Ecran PC offre des angles de vue ergonomiques et flexibles avec 3 hauteurs réglables de 5,9 cm / 9,5 cm / 13,2 cm, soulageant ainsi les charges sur votre cou et vos épaules. Utilise les segments de jambes qui peuvent être ajoutés ou retirés très facilement à la main pour le réglage de la hauteur. Obtention facile dune position de travail parfaite et dun angle de vue très confortable.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7X7XZX/?tag=tolees0d-21)

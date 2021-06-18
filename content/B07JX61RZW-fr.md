@@ -29,9 +29,9 @@ C'est en vente [Phinistec 140cm Aluminium Trépied Appareil Photo pour Smartphon
 ℹ️:
 
 - Compatible avec appareil photo: Canon, Nikon, Sony, Panasonic, Olympus, Leica, Fujifilm, Kodak et autres caméra SLR.
-- Professionnel et Stable: fabriqué en alliage daluminium de trépied bonne qualité, très léger, poids de charge maximale 3.50 KG.
 - Compatible avec Gopro, actioncam et caméra de sport avec adaptateur Gopro, avec télécommande bluetooth pour smartphone pour photo et vidéo.
-- Compatible avec smartphone: iPhone, Huawei, Samsung, Xiaomi, Orange et autres smartphones avec adaptateur universel pour téléphone avec cold shoe mount.
+- Professionnel et Stable: fabriqué en alliage daluminium de trépied bonne qualité, très léger, poids de charge maximale 3.50 KG.
 - Extensible: la taille pliée est de 55 cm, la taille étendue est de 140 cm, adaptée à un voyage.
+- Compatible avec smartphone: iPhone, Huawei, Samsung, Xiaomi, Orange et autres smartphones avec adaptateur universel pour téléphone avec cold shoe mount.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JX61RZW/?tag=tolees0d-21)
