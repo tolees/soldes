@@ -30,8 +30,8 @@ C'est en vente [Bekaline 13517244 Belvia Poêle à frire en acier inoxydable 24 
 
 - Matière : acier inoxydable de haute qualité 18/10 - équipement en fonte dinox riveté
 - Capacité : pour 3 personnes
+- Finition extérieure brillante - intérieure mate
 - Triple fond capsulé thermoradiant pour une diffusion et une conservation optimales de la chaleur
 - Type de feu : tous feux + induction
-- Finition extérieure brillante - intérieure mate
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00A3FVJGQ/?tag=tolees0d-21)

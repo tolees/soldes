@@ -28,10 +28,10 @@ Vous avez [Thrustmaster ESWAP PRO CONTROLLER : manette de jeu professionnelle fi
 
 ℹ️:
 
-- Boutons additionnels arrière ré-assignables disposés de façon ergonomique, préréglage de la sensibilité de déclenchement des gâchettes et possibilité d’alterner 2 profils en temps réel pour une flexibilité instantanée
-- Technologie « T-MOD » et fonction « Hot Swap » pour permuter un module avec un autre à n’importe quel moment de la partie
 - Ecosystème de modules illimité (vendus séparément) pour un maximum de polyvalence et un confort de jeu continuellement amélioré
+- Boutons additionnels arrière ré-assignables disposés de façon ergonomique, préréglage de la sensibilité de déclenchement des gâchettes et possibilité d’alterner 2 profils en temps réel pour une flexibilité instantanée
 - Modules et boutons d’action de très haute précision pour un temps de réponse minimal grâce à la présence de touches contact ultra-réactives à longue durée de vie
 - Logiciel PC dédié pour ajuster tous les réglages nécessaires sur la manette (profils de jeu, reprogrammation, sensibilité, vibrations, etc.)
+- Technologie « T-MOD » et fonction « Hot Swap » pour permuter un module avec un autre à n’importe quel moment de la partie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WGW88NS/?tag=tolees0d-21)

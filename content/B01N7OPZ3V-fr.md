@@ -28,8 +28,8 @@ C'est en vente [GeoSmart - GEO 301 Le Camion Spatial - 42 Pièces Mixtes avec Ro
 
 ℹ️:
 
-- Permet de créer un véhicule avec remorque
 - Fabriqué en:- Chine
+- Permet de créer un véhicule avec remorque
 - compatibles avec les pièces magnétiques dautres marques
 - produit bénéficiant dun double en capsulage pour une meilleure sécurité
 
