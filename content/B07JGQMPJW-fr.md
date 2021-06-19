@@ -30,8 +30,8 @@ C'est en vente [Lowepro Whistler BP 450 AW II Sac à dos 4 saisons ultra-résist
 
 - Sac à dos 4 saisons
 - 1 x Lowepro Whistler BP 450 AW II
+- Sac à dos
 - Ultra-résistant pour le matériel photo de plein air et léquipement essentiel en milieu sauvage
 - De la marque LOWEPRO
-- Sac à dos
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JGQMPJW/?tag=tolees0d-21)
