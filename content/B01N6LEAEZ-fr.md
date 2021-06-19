@@ -28,10 +28,10 @@ Vous avez [UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. 
 
 ℹ️:
 
-- Les fixations murales (vis et chevilles) sont fournies.
-- Conçu par Paul Rowan pour Umbra
-- Ce miroir apporte beaucoup de personnalité dans la pièce ou Il est accroché, par sa dimension (61cm), sa forme moderne et son revêtement en caoutchoucnoir qui adoucit son contour.
-- Décoration murale fonctionnelle, la structure robuste et résistante et le caoutchouc de protection antichocs offrent une solution au design innovant et décontracté
 - À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
+- Conçu par Paul Rowan pour Umbra
+- Les fixations murales (vis et chevilles) sont fournies.
+- Décoration murale fonctionnelle, la structure robuste et résistante et le caoutchouc de protection antichocs offrent une solution au design innovant et décontracté
+- Ce miroir apporte beaucoup de personnalité dans la pièce ou Il est accroché, par sa dimension (61cm), sa forme moderne et son revêtement en caoutchoucnoir qui adoucit son contour.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21)
