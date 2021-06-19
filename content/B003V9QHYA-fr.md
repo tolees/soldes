@@ -28,10 +28,10 @@ C'est en vente [Alsapan Compo Meuble de Rangement 2 Casiers + 1 Tiroir Biblioth�
 
 ℹ️:
 
-- Dimensions du meuble : L 31,1 x P 29,5 x H 80 cm ; Poids : 8,3 kg ; Dimensions de l’intérieur des casiers forme cube : 28 x 28 x 28 cm ; Charge maximale d’une étagère : 5 kg
 - Meuble de rangement au style contemporain idéal pour une entrée, un séjour, une chambre, un bureau
-- Structure en panneaux de particules 12 mm recouvert de papier décor
 - Meuble colonne avec deux casiers + un tiroir
+- Structure en panneaux de particules 12 mm recouvert de papier décor
+- Dimensions du meuble : L 31,1 x P 29,5 x H 80 cm ; Poids : 8,3 kg ; Dimensions de l’intérieur des casiers forme cube : 28 x 28 x 28 cm ; Charge maximale d’une étagère : 5 kg
 - Facile à assembler : comprend une notice de montage illustrée et les pièces d’assemblage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003V9QHYA/?tag=tolees0d-21)
