@@ -28,7 +28,7 @@ C'est en vente [Canon CRG Pg-560XL Cartouche d encre Noir XL](https://www.amazon
 
 ℹ️:
 
-- Encre noire Canon pg-560xl.
 - Conçue pour des résultats durables, chaque cartouche de 14,3 ml vous permet dimprimer jusquà 400 pages de documents A4
+- Encre noire Canon pg-560xl.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X61B1ZN/?tag=tolees0d-21)

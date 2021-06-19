@@ -29,10 +29,10 @@ Vous avez [Lagostina Ingenio Essential Poêle  Ø 30 cm  Aluminium  Noir - Non 
 ℹ️:
 
 - Revêtement antiadhérent fiable : sans PFOA, sans cadmium, sans plomb
-- Fabriqué en aluminium avec revêtement anti-adhésif
 - Convient à toutes les sources de chaleur, sauf linduction
-- Poêle Ø 30 cm, manche et capuchon vendus séparément. Non compatible avec linduction
-- Indicateur de température Lagospot : indique la température de cuisson idéale
 - Passe au lave-vaisselle
+- Indicateur de température Lagospot : indique la température de cuisson idéale
+- Poêle Ø 30 cm, manche et capuchon vendus séparément. Non compatible avec linduction
+- Fabriqué en aluminium avec revêtement anti-adhésif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075CVX2WT/?tag=tolees0d-21)
