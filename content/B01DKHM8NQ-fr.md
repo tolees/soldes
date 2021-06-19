@@ -28,10 +28,10 @@ Vous avez [Clementoni - 52202-Exploraglobe 2016 - Le Globe interactif-Jeu éduca
 
 ℹ️:
 
-- Un globe interactif et son stylo à lecture optique pour découvrir le monde de façon interactive !
 - Au total, plus de 3 heures de contenu informatif à propos de tous les pays du monde vous attendent. La carte de France présente quant à elle les nouvelles régions !
-- Thèmes abordés: continents, pays, capitales, superficies, populations, monnaies, langage, territoires, altitudes, fuseaux horaires, curiosités, produits typiques, hymne
-- Avec plus de 500 questions divisées en 3 niveaux de difficulté pour tester ses connaissances.
 - Avec la nouvelle appli à télécharger gratuitement, les enfants pourront vivre une incroyable expérience de réalité augmentée!
+- Avec plus de 500 questions divisées en 3 niveaux de difficulté pour tester ses connaissances.
+- Un globe interactif et son stylo à lecture optique pour découvrir le monde de façon interactive !
+- Thèmes abordés: continents, pays, capitales, superficies, populations, monnaies, langage, territoires, altitudes, fuseaux horaires, curiosités, produits typiques, hymne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DKHM8NQ/?tag=tolees0d-21)
