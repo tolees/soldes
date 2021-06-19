@@ -28,10 +28,10 @@ Vous avez [SIGEL GL275 Tableau magnétique en verre  48 x 48 cm  miroir - Artver
 
 ℹ️:
 
-- Tableau livré avec - aimants néodymes C5 «Strong». Remarque : les aimants standards ne conviennent pas sur ce tableau; - matériel de fixation, notice de montage et gabarit de perçage (instructions de montage disponibles ci-dessous. Cf. "Spécifications techniques")
-- Caractéristiques du tableau : dimensions 48 x 48 cm, couleur miroir, matériel verre trempé haut de gamme (verre sécurit ESG, certification européenne EN 12150-1)
-- Ce tableau de la marque SIGEL a une garantie décriture et deffaçage de 25 ans, à condition dutiliser des accessoires de la marque SIGEL - Pour en savoir plus, vous reportez à la rubrique "Spécifications techniques" sur cette page
-- Ce tableau sans cadre et fixé grâce à un système de suspension murale (contrôlé et certifié par SGS TÜV Saar - Contrôle Technique allemand), qui lui confère un look flottant en 3D
 - Tableau carré magnétique multifonction Artverum.Tableau très décoratif, facile à installer et à entretenir. Existe en différentes formes, dimensions et couleurs
+- Ce tableau sans cadre et fixé grâce à un système de suspension murale (contrôlé et certifié par SGS TÜV Saar - Contrôle Technique allemand), qui lui confère un look flottant en 3D
+- Ce tableau de la marque SIGEL a une garantie décriture et deffaçage de 25 ans, à condition dutiliser des accessoires de la marque SIGEL - Pour en savoir plus, vous reportez à la rubrique "Spécifications techniques" sur cette page
+- Caractéristiques du tableau : dimensions 48 x 48 cm, couleur miroir, matériel verre trempé haut de gamme (verre sécurit ESG, certification européenne EN 12150-1)
+- Tableau livré avec - aimants néodymes C5 «Strong». Remarque : les aimants standards ne conviennent pas sur ce tableau; - matériel de fixation, notice de montage et gabarit de perçage (instructions de montage disponibles ci-dessous. Cf. "Spécifications techniques")
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CJMV2ZI/?tag=tolees0d-21)
