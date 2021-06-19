@@ -28,10 +28,10 @@ C'est en vente [Philips Sonicare HX6871/47 Brosse à dents électrique rechargea
 
 ℹ️:
 
+- Indicateur de changement de la tête de brosse avec la technologie BrushSync
 - Capteur de pression pour un brossage sûr tout en douceur
 - 3 intensités (doux/moyen/intense) pour un brossage adapté à vos besoins
 - Des dents plus blanches en une semaine
 - 3 modes : classique, soin gencives, blancheur
-- Indicateur de changement de la tête de brosse avec la technologie BrushSync
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079H8LMY9/?tag=tolees0d-21)
