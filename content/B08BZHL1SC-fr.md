@@ -28,12 +28,12 @@ C'est en vente [LG Electronics - LG XBOOM | Système High Power | Bluetooth | Le
 
 ℹ️:
 
-- Fonction DJ et karaoké avec entrée microphone, entrée guitare, éclairage intégré pour un maximum de plaisir de fête
-- Composants inclus: Télécommande : MA2 (40 touches) avec 2 piles AAA, guide de démarrage rapide, carte de garantie, antenne DAB+, câble d alimentation.
-- Connectivité : LG Sound Sync (via Bluetooth), connexion multipoint (peut être connecté à deux sources de smartphones/Bluetooth en même temps), Wireless Party Link (connecte plusieurs appareils sans fil)
-- Connexions : Bluetooth, 2 x USB, 1 x optique, 1 x entrée micro (jack 6,3 mm), 1 x entrée guitare (jack 6,3 mm)
 - Prise en charge audio Dolby - Lecture de tous les formats de CD/DVD courants - Sortie via HDMI
-- Contenu de la livraison : ON9, télécommande (MA2 avec 40 touches) avec piles, guide de démarrage rapide, carte de garantie, antenne DAB+, câble dalimentation
+- Connectivité : LG Sound Sync (via Bluetooth), connexion multipoint (peut être connecté à deux sources de smartphones/Bluetooth en même temps), Wireless Party Link (connecte plusieurs appareils sans fil)
+- Composants inclus: Télécommande : MA2 (40 touches) avec 2 piles AAA, guide de démarrage rapide, carte de garantie, antenne DAB+, câble d alimentation.
 - Système de son bidirectionnel avec 4 haut-parleurs et 2 woofers de 8" pour des basses puissantes
+- Connexions : Bluetooth, 2 x USB, 1 x optique, 1 x entrée micro (jack 6,3 mm), 1 x entrée guitare (jack 6,3 mm)
+- Fonction DJ et karaoké avec entrée microphone, entrée guitare, éclairage intégré pour un maximum de plaisir de fête
+- Contenu de la livraison : ON9, télécommande (MA2 avec 40 touches) avec piles, guide de démarrage rapide, carte de garantie, antenne DAB+, câble dalimentation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BZHL1SC/?tag=tolees0d-21)
