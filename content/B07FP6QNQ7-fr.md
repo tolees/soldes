@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR  Set  avec 26.66 % rabais '
-date: 2021-06-17 22:23:01
+date: 2021-06-19 23:22:49
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21'
 descuento: '26.66'
-average: '123.526487068966'
+average: '123.497397849463'
 ---
 
 C'est en vente [LEGO 42096 Technic Porsche 911 RSR  Set Voiture de Course Détaillée à Construire  Modèle et Jouet a Collectionner  pour Enfants de 10 Ans et Plus](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)  à  26.66 % de réduction, prix final  110.0 EUR (original: 149.99 EUR) ici:
@@ -29,9 +29,9 @@ C'est en vente [LEGO 42096 Technic Porsche 911 RSR  Set Voiture de Course Détai
 ℹ️:
 
 - Ouvrez la porte de ce véhicule LEGO et accédez à l’écran radar, à la direction qui fonctionne, au système d’extinction et à la carte du circuit Laguna Seca
-- Ce modèle LEGO Technic comprend des mouvements et mécanismes réalistes et est conçu pour offrir une expérience de construction immersive et gratifiante
 - Il comprend un corps aérodynamique, des jantes noires à rayon, une direction et un différentiel qui fonctionnent, une suspension indépendante et un moteur à six cylindres à plat
-- Les coloris blanc, rouge et noir avec des autocollants détaillés ajoutent la touche finale à ce superbe modèle LEGO Technic Porsche 911 RSR
 - Construisez et explorez ce modèle LEGO Technic Porsche 911 RSR, une icône en matière d’ingénierie et de design innovants
+- Ce modèle LEGO Technic comprend des mouvements et mécanismes réalistes et est conçu pour offrir une expérience de construction immersive et gratifiante
+- Les coloris blanc, rouge et noir avec des autocollants détaillés ajoutent la touche finale à ce superbe modèle LEGO Technic Porsche 911 RSR
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)
