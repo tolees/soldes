@@ -28,12 +28,12 @@ Vous avez [Découvrez Ring Video Doorbell Wired + Chime par Amazon | Vidéo HD  
 
 ℹ️:
 
+- Le nouveau Ring Chime se branche dans une prise électrique standard et se connecte à votre Ring Video Doorbell.
+- Les fonctionnalités standards telles que les notifications instantanées, la vidéo en direct et le système audio bidirectionnel sont disponibles gratuitement dès la mise en service de tous vos appareils Ring. Souscrivez un abonnement Ring Protect (abonnement vendu séparément) pour enregistrer, voir et partager les moments que vous avez manqués (essai gratuit de 90 jours inclus avec votre achat).
 - Voyez, entendez et parlez à vos visiteurs, où que vous soyez, et recevez des notifications en temps réel pour ne rien manquer.
+- Entendez les notifications en temps réel dans votre domicile lorsquun mouvement est déclenché ou lorsquun visiteur appuie sur votre Ring Video Doorbell Wired.
 - Personnalisez vos paramètres de détection de mouvements afin de cibler uniquement la zone de votre choix, et concentrez-vous sur les notifications qui vous intéressent le plus.
 - Sonnette vidéo raccordée HD 1080p avec système audio bidirectionnel, détection de mouvements avancée, connectivité 2,4 GHz standard et paramètres de confidentialité personnalisables.
-- Entendez les notifications en temps réel dans votre domicile lorsquun mouvement est déclenché ou lorsquun visiteur appuie sur votre Ring Video Doorbell Wired.
-- Les fonctionnalités standards telles que les notifications instantanées, la vidéo en direct et le système audio bidirectionnel sont disponibles gratuitement dès la mise en service de tous vos appareils Ring. Souscrivez un abonnement Ring Protect (abonnement vendu séparément) pour enregistrer, voir et partager les moments que vous avez manqués (essai gratuit de 90 jours inclus avec votre achat).
 - Se raccorde à vos fils de sonnette existants pour une alimentation et une protection en continu.
-- Le nouveau Ring Chime se branche dans une prise électrique standard et se connecte à votre Ring Video Doorbell.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08SSDHWDJ/?tag=tolees0d-21)
