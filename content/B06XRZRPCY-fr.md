@@ -30,8 +30,8 @@ Vous avez [THERMOS Bouteille Isotherme en Acier Inoxydable  Acier Inoxydable  No
 
 - Fermeture à vis pratique avec gobelet, 100% étanche
 - Dimensions du produit : 11 x 10 x 31.5 cm
-- Matériau : acier inoxydable
 - Couleur : Noir
+- Matériau : acier inoxydable
 - Marque : Thermos
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XRZRPCY/?tag=tolees0d-21)

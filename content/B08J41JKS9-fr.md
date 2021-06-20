@@ -28,11 +28,11 @@ C'est en vente [Microsoft Surface Pro X Ordinateur Portable  Windows 10  écran 
 
 ℹ️:
 
-- Écran tactile PixelSense 13 à bordures fines
-- Connectique : deux ports USB-C, 1 port Surface Connect
 - PC portable ultrafin et connecté, pensé pour vous accompagner dans votre vie professionnelle et personnelle grâce à son écran tactile sans bordure et des graphismes impressionnants, ainsi que la connectivité LTE ultra-rapide
-- Clavier AZERTY français vendu séparément
 - Autonomie de batterie pour toute la journée
+- Connectique : deux ports USB-C, 1 port Surface Connect
 - Nouveau processeur Microsoft SQ2
+- Clavier AZERTY français vendu séparément
+- Écran tactile PixelSense 13 à bordures fines
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J41JKS9/?tag=tolees0d-21)

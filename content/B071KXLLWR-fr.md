@@ -29,9 +29,9 @@ C'est en vente [Puressentiel - Anti Pique - Crème Multi-Apaisante - Piqûres d 
 ℹ️:
 
 - MODE DEMPLOI : appliquez la crème multi apaisante en petite couche pour protéger concernées par les irritations. Faire pénétrer par un léger massage. Renouvelez si nécessaire dans la journée. Bien se laver les mains après usage
-- COMPOSITION NATURELLE A 99,8% : composée de 4 huiles végétales, de 3 extraits végétaux et de 8 huiles essentielles certifiées HEBBD. Complexe phyto aroma apaisant, à lefficacité calmante sur les irritations et les démangeaisons
-- CALMEZ ET SOULAGEZ LES DEMANGEAISONS : aide à apaiser les irritations dues aux piqûres dinsectes et de végétaux. Sa formule dorigine naturelle à laloe vera et calendula aide à hydrater et réparer la peau des zones concernées
 - TESTE SOUS CONTRÔLE DERMATOLOGIQUE : sa texture nourrissante et riche en huiles végétales et en extrait végétaux (camomille, calendula, aloe vera). Elle aide à réhydrater et regénérer votre peau, irritée par les piqûres
 - EFFET FRAIS APAISANT: contient du menthol dorigine naturelle qui vous procure une sensation de fraicheur sur les boutons, piqûres et démangeaisons. Ne pas utiliser avant 3 ans. Lire la notice avant utilisation
+- COMPOSITION NATURELLE A 99,8% : composée de 4 huiles végétales, de 3 extraits végétaux et de 8 huiles essentielles certifiées HEBBD. Complexe phyto aroma apaisant, à lefficacité calmante sur les irritations et les démangeaisons
+- CALMEZ ET SOULAGEZ LES DEMANGEAISONS : aide à apaiser les irritations dues aux piqûres dinsectes et de végétaux. Sa formule dorigine naturelle à laloe vera et calendula aide à hydrater et réparer la peau des zones concernées
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071KXLLWR/?tag=tolees0d-21)

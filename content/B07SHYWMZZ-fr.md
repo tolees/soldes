@@ -28,10 +28,10 @@ C'est en vente [Facom ATWHH.JT6 Jeu de 6 TOURNEVIS PROTWIST avec empreinte 6 pan
 
 ℹ️:
 
-- Traitement « tri-cotinga » de la lame (zinc-nickel-chrome): 4 fois plus de résistance à la corrosion
 - Marquage laser: pour une meilleur résistance à lusure
+- Ergonomie optimisée du manche: + 10% de couple
 - Traitement thermique en ligne: + 50% de durée de vie et + 100% de résistance
 - Matière du manche - soft grip pour plus de confort et toujours résistant aux produits chimiques
-- Ergonomie optimisée du manche: + 10% de couple
+- Traitement « tri-cotinga » de la lame (zinc-nickel-chrome): 4 fois plus de résistance à la corrosion
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SHYWMZZ/?tag=tolees0d-21)

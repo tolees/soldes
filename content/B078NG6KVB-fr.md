@@ -28,10 +28,10 @@ Vous avez [Merrell Vapor Glove 3 Luna LTR  Baskets Homme  Noir  Black   44 EU](h
 
 ℹ️:
 
-- Tige en cuir doux
-- Lacets et toile 100 % recyclés
-- Semelle en caoutchouc Vibram TC5+
 - Doublure respirante en mesh
+- Lacets et toile 100 % recyclés
+- Tige en cuir doux
+- Semelle en caoutchouc Vibram TC5+
 - Doublure en mesh 100 % recyclé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078NG6KVB/?tag=tolees0d-21)

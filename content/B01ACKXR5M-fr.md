@@ -28,10 +28,10 @@ C'est en vente [ASPECTEK Tue Mouche Eléctrique  Lampe Anti-Moustique - Lampe UV
 
 ℹ️:
 
-- PUISSANTS: Deux ampoules UV émettent de puissants rayons ultraviolets qui attirent les mouches, les moustiques et autres insectes volants de jusquà 24m de distance.
-- SANS DANGER: Les ampoulles UV sont entourées par une cage de protection. Lappareil est certifié CE et RoHS. Produit de marque Canadienne.
 - SANS PRODUITS CHIMIQUES: Aérosols naturels purs ou sans danger potentiel. Se débarrasser des mouches devient facile. Pratique pour la maison, la cuisine et le jardin.
-- EFFICACE: Le tue-mouche attire les mouches et les moustiques qui vont venir se faire griller sur les lampes UV (puissant choc à 2,800 Volt). 100% Satisfaction.
+- SANS DANGER: Les ampoulles UV sont entourées par une cage de protection. Lappareil est certifié CE et RoHS. Produit de marque Canadienne.
 - FACILE À UTILISER: Les insectes morts sont pris dans un bac pour lélimination facile.
+- EFFICACE: Le tue-mouche attire les mouches et les moustiques qui vont venir se faire griller sur les lampes UV (puissant choc à 2,800 Volt). 100% Satisfaction.
+- PUISSANTS: Deux ampoules UV émettent de puissants rayons ultraviolets qui attirent les mouches, les moustiques et autres insectes volants de jusquà 24m de distance.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ACKXR5M/?tag=tolees0d-21)
