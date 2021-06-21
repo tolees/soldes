@@ -28,11 +28,11 @@ Vous avez [Plantronics BackBeat GO 810 - Casque sans fil à réduction de bruit 
 
 ℹ️:
 
-- Accessible depuis lapplication BackBeat, les deux niveaux de lannulation active du bruit offre un son clair dans les environnements bruyants élevé et faible
-- Dix minutes de charge offrent jusquà 3 heures découte
-- Jusquà 22 heures dautonomie en écoute musicale avec ANC, jusquà 28 heures sans ANC et jusquà 60 heures sans lecture audio (utilisation de lANC seul)
-- Ecouteurs de 40 mm offrant un son riche et détaillé pour apprécier chaque détail sonore
 - Sensibilité: 92 dBPL
 - Mousse à mémoire de forme pour un confort longue durée
+- Jusquà 22 heures dautonomie en écoute musicale avec ANC, jusquà 28 heures sans ANC et jusquà 60 heures sans lecture audio (utilisation de lANC seul)
+- Dix minutes de charge offrent jusquà 3 heures découte
+- Accessible depuis lapplication BackBeat, les deux niveaux de lannulation active du bruit offre un son clair dans les environnements bruyants élevé et faible
+- Ecouteurs de 40 mm offrant un son riche et détaillé pour apprécier chaque détail sonore
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G2XC6VN/?tag=tolees0d-21)
