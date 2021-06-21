@@ -28,10 +28,10 @@ Vous avez [Microids - Astérix & Obélix XXL3 Standard](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Bataille, Exploration, Puzzle ou encore Collecte : de nombreuses possibilités d’actions vous attendent
-- Les baffes, les sangliers et la potion magique vous ont manqué ? Nos Irréductibles Gaulois sont de retour dans une toute nouvelle aventure
 - Astérix & Obélix XXL3 : Le Menhir de Cristal propose un contenu complet qui ravira le Gaulois qui réside en chacun de nous
+- Bataille, Exploration, Puzzle ou encore Collecte : de nombreuses possibilités d’actions vous attendent
 - Accomplissez les nombreuses quêtes secondaires et tentez de collecter un maximum d’objets cachés
 - Accompagnés du mystérieux menhir de cristal, ils voyageront dans des contrées lointaines et feront face à d’innombrables dangers
+- Les baffes, les sangliers et la potion magique vous ont manqué ? Nos Irréductibles Gaulois sont de retour dans une toute nouvelle aventure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081NLXK2V/?tag=tolees0d-21)
