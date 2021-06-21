@@ -28,10 +28,10 @@ C'est en vente [LEGO Friends 41395 Le Bus de l’Amitié avec Maison de Poup�
 
 ℹ️:
 
+- La plate-forme glisse vers larrière pour faciliter laccès aux espaces de vie situés en dessous, et un toit à charnières permet daccéder facilement aux chambres de cette maison de poupée
+- Incluant les mini-poupées Olivia, Mia et Stéphanie, le jeu de construction est fourni avec de nombreux détails garantissant aux enfants de 8 ans de jeu de rôle sans fin
 - Une piscine avec toboggan coulisse sous le bus, un filet de tennis amovible permet de samuser à lextérieur du bus, et le stand de réparation contient tous les outils
 - Livré avec beaucoup daccessoires de mini-poupées, une figurine de hamster, un ordinateur portable, un appareil photo, une poêle, un œuf, une couverture, un biscuit et bien plus
 - Ce jouet comprend un bus de vacances entièrement équipé avec 5 zones de jeu : un toit ouvert avec un toboggan, une cuisine, une piscine, une tente et un stand de réparation
-- La plate-forme glisse vers larrière pour faciliter laccès aux espaces de vie situés en dessous, et un toit à charnières permet daccéder facilement aux chambres de cette maison de poupée
-- Incluant les mini-poupées Olivia, Mia et Stéphanie, le jeu de construction est fourni avec de nombreux détails garantissant aux enfants de 8 ans de jeu de rôle sans fin
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5PX1QP/?tag=tolees0d-21)

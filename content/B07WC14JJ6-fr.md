@@ -28,10 +28,10 @@ Vous avez [LEGO Friends 41392 Le Camping Glamour dans la Nature avec Mini P
 
 ℹ️:
 
-- Ce jouet pour filles et garçons de 6 ans comprend 3 sections : une tente tout équipée avec un toit en plastique, un feu de camp simulé avec un télescope et un jacuzzi sous un arbre
-- Inclut 2 mini-poupées Mia et Olivia, et une figurine décureuil qui vit dans la cabane dans les arbres Aussi un vélo avec un casque et un haut-parleur pour se détendre
 - Téléchargez lapplication LEGO Life pour accéder à Instructions Plus afin que votre enfant puisse regarder les aventures en plein air en mode rotation, zoom et "fantôme"
 - Le camp de jouets pour mini-poupées est décoré dune guirlande de lumières, alors prenez une photo de la jolie tente avec un smartphone, puis envoyez des photos à des amis
+- Ce jouet pour filles et garçons de 6 ans comprend 3 sections : une tente tout équipée avec un toit en plastique, un feu de camp simulé avec un télescope et un jacuzzi sous un arbre
+- Inclut 2 mini-poupées Mia et Olivia, et une figurine décureuil qui vit dans la cabane dans les arbres Aussi un vélo avec un casque et un haut-parleur pour se détendre
 - Lensemble de jeu comprend des lits, des chaises, une armoire avec une brosse à cheveux et un support de rouge à lèvres, une lanterne, une torche, des jumelles, même des cerises dans les boissons
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WC14JJ6/?tag=tolees0d-21)

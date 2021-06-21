@@ -28,10 +28,10 @@ Vous avez [LEGO Friends 41394 L’hôpital de Heartlake City avec Mini Poupé
 
 ℹ️:
 
+- Comprend une ambulance jouet avec un espace pour un patient et une civière à larrière, un fauteuil roulant mini-poupée et des accessoires médicaux pour les options de jeu
 - Comprend les mini-poupées Emma, Ethan et Dr Maria, plus un scanner à rayons X, un microscope, des bandages, un stéthoscope, une seringue et un thermomètre
+- Comprend un bâtiment de 3 étages à accès libre avec 3 sections de jeu : une réception, une salle dexamen, une chambre dhôpital avec un lit et un jardin sur le toit
 - Avec ce jeu, les filles et garçons de 6 ans joueront le rôle du médecin, de la patiente et dEmma la visiteuse, et recréeront des scénarios de la vie réelle tout en développant leur empathie
 - Comprend également du chocolat, un ballon et une banane. Oups, Ethan vient de glisser dessus, il sest cassé la jambe et doit être emmené à lhôpital en ambulance
-- Comprend un bâtiment de 3 étages à accès libre avec 3 sections de jeu : une réception, une salle dexamen, une chambre dhôpital avec un lit et un jardin sur le toit
-- Comprend une ambulance jouet avec un espace pour un patient et une civière à larrière, un fauteuil roulant mini-poupée et des accessoires médicaux pour les options de jeu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W8XYTQ8/?tag=tolees0d-21)
