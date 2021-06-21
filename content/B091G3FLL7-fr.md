@@ -28,10 +28,10 @@ C'est en vente [Xiaomi Mi Smart Band 6 x 1 56 écran Complet Amoled* 30 Modes d 
 
 ℹ️:
 
-- Bracelet antibactérien Ag + Le bracelet en TPU noir inclus dans la boîte contient un agent antibactérien Ag + pour éviter la contamination de germes. Jusquà 14 jours dautonomie de la batterie pour une utilisation normale. Se recharge facilement avec des broches de charge magnétiques. Résistant à leau jusquà 50 m
-- Surveillance de la santé actualisée : le moniteur SpO2 peut détecter votre niveau de saturation en oxygène dans le sang, ce qui est essentiel pour la santé. Surveillance du sommeil qui peut enregistrer des REM, des siestes tout au long de la journée et de la qualité de la respiration pendant le sommeil. Surveillance et alertes de fréquence cardiaque tout au long de la journée.
-- Affichage plein écran amélioré. Écran AMOLED de 1,56 pouces, zone 49 % plus grande que mon bracelet intelligent. 5. Haute résolution de 326 PPI, vous pouvez voir limage et le texte avec plus de clarté.
 - Contrôle de la caméra \ Contrôle de la musique \ Alerte inactivaStress \ PAI \ Suivi du cycle menstruel, entraînement de la respiration. Application Mi Wear / Mi Fit. Vous pouvez utiliser lapplication Mi Wear ou Mi Fit pour se connecter à la bande.
+- Surveillance de la santé actualisée : le moniteur SpO2 peut détecter votre niveau de saturation en oxygène dans le sang, ce qui est essentiel pour la santé. Surveillance du sommeil qui peut enregistrer des REM, des siestes tout au long de la journée et de la qualité de la respiration pendant le sommeil. Surveillance et alertes de fréquence cardiaque tout au long de la journée.
+- Bracelet antibactérien Ag + Le bracelet en TPU noir inclus dans la boîte contient un agent antibactérien Ag + pour éviter la contamination de germes. Jusquà 14 jours dautonomie de la batterie pour une utilisation normale. Se recharge facilement avec des broches de charge magnétiques. Résistant à leau jusquà 50 m
+- Affichage plein écran amélioré. Écran AMOLED de 1,56 pouces, zone 49 % plus grande que mon bracelet intelligent. 5. Haute résolution de 326 PPI, vous pouvez voir limage et le texte avec plus de clarté.
 - Suivi sportif amélioré, 30 modes dentraînement pour enregistrer votre fréquence cardiaque et vos calories brûlées, y compris lexercice populaire comme HIIT, Platies, Zumba.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B091G3FLL7/?tag=tolees0d-21)

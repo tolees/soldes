@@ -28,12 +28,12 @@ Vous avez [Varier Variable Chaise  Tissu  Noir  72 x 52 x 51 cm](https://www.ama
 
 ℹ️:
 
+- Dimensions : largeur : 52 cm, profondeur : 72 cm, hauteur : 51 cm, hauteur du siège : 50 cm
 - Conçu par Peter Opsvik en 1979
-- Tissu : Revive est un revêtement textile durable 100 % polyester recyclé
 - Le siège assis-genoux original
 - Idéal pour un bureau à domicile ou sur le lieu de travail
 - Adapté tant aux enfants qu’aux adultes
+- Tissu : Revive est un revêtement textile durable 100 % polyester recyclé
 - Incite à un mouvement continu et à une posture saine
-- Dimensions : largeur : 52 cm, profondeur : 72 cm, hauteur : 51 cm, hauteur du siège : 50 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MUG3N2I/?tag=tolees0d-21)

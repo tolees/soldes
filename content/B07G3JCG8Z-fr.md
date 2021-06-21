@@ -28,9 +28,9 @@ Vous avez [Carte Mémoire microSDXC SanDisk Extreme PRO 256 Go + Adaptateur SD a
 
 ℹ️:
 
-- Température de fonctionnement: -13ºF à 185ºF (-25ºC à 85ºC)
 - Facteur de forme: microSDXC. Température de stockage: -40ºF to 185ºF (-40ºC to 85ºC)
-- Vitesse décriture: jusquà 90 Mo/ s3
 - Vitesse vidéo: C10, U3, A2, V304
+- Vitesse décriture: jusquà 90 Mo/ s3
+- Température de fonctionnement: -13ºF à 185ºF (-25ºC à 85ºC)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G3JCG8Z/?tag=tolees0d-21)

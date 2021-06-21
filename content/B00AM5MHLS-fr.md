@@ -28,9 +28,9 @@ C'est en vente [FACOM 200 C.30 Marteau d ajusteur avec manche en graphite 30 m
 
 ℹ️:
 
-- Le poids du colis de larticle: 470 g
+- Nombre de pièces : 1
 - Manche en graphite
 - Les dimensions du colis de larticle ( L x B x H) en cm :32.4 x 32.4 x 34.02
-- Nombre de pièces : 1
+- Le poids du colis de larticle: 470 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00AM5MHLS/?tag=tolees0d-21)

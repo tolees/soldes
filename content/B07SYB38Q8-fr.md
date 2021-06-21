@@ -28,10 +28,10 @@ Vous avez [SanDisk Ultra Luxe 128Go  Clé USB USB 3.1 jusqu à 150 Mo/s](https:/
 
 ℹ️:
 
+- Conception élégante, tout en métal moulé
 - Inclut la protection par mot de passe SanDisk SecureAccess
+- USB 3.1 (Gén. 1) avec des vitesses allant jusquà 150 Mo/s
 - Transférez un film entier sur la clé en moins de 30 secondes
 - Jusquà 128 Go de stockage
-- Conception élégante, tout en métal moulé
-- USB 3.1 (Gén. 1) avec des vitesses allant jusquà 150 Mo/s
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SYB38Q8/?tag=tolees0d-21)

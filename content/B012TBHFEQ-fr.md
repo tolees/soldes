@@ -28,10 +28,10 @@ Vous avez [ARCHOS CORE 101 3G V5 64GB - Tablette tactile 3G et WIFI  écran 10.1
 
 ℹ️:
 
-- Grande capacité de stockage avec 64 GB extensible via micro SD
-- Toutes vos applications préférées avec Android 8.1 Oreo
-- Marque française. Tablette 3G et Wifi avec grand écran 10.1” IPS HD
-- Batterie longue durée 5000 mAh
 - Double caméra 2MP/VGA
+- Toutes vos applications préférées avec Android 8.1 Oreo
+- Batterie longue durée 5000 mAh
+- Grande capacité de stockage avec 64 GB extensible via micro SD
+- Marque française. Tablette 3G et Wifi avec grand écran 10.1” IPS HD
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012TBHFEQ/?tag=tolees0d-21)
