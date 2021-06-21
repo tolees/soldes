@@ -28,12 +28,12 @@ C'est en vente [LEGO 75947 Harry Potter La cabane de Hagrid : Le Sauvetag
 
 ℹ️:
 
+- Inclut également des citrouilles, une lanterne, une hache, 3 baguettes, le chapeau du Ministre de la Magie et une chaîne détachable pour Buck.
+- La cabane de Hagrid LEGO mesure plus de 16 cm de haut, 23 cm de large et 12 cm de profondeur.
+- La pièce à vivre de la cabane de Hagrid LEGO comprend une table et 2 chaises, un fauteuil à construire, une cheminée avec une brique lumineuse, un œuf dans un bol, un sac, une vitrine, le parapluie rose de Hagrid, une pelle, une théière, une cuillère, une poêle, un hachoir à viande, un lasso, un balai et un seau.
+- Buck avec les ailes ouvertes mesure plus de 5 cm de haut, 7 cm de long et 12 cm de large.
+- Cet ensemble LEGO Harry Potter comprend la cabane de Hagrid à construire en 2 parties, avec son jardin de citrouilles.
 - Inclut 6 figurines LEGO Harry Potter : Harry Potter, Ron Weasley, Hermione Granger, le bourreau, le Ministre de la Magie (nouveautés de juin 2019) et Hagrid, plus Buck lhippogriffe avec des ailes et une tête articulées, attaché par une chaîne que lon peut détacher.
 - Le bureau de la cabane de Hagrid LEGO comprend un bureau et une chaise, une bougie, un coffre, une chocogrenouille, un numéro de la Gazette du sorcier et une araignée.
-- La pièce à vivre de la cabane de Hagrid LEGO comprend une table et 2 chaises, un fauteuil à construire, une cheminée avec une brique lumineuse, un œuf dans un bol, un sac, une vitrine, le parapluie rose de Hagrid, une pelle, une théière, une cuillère, une poêle, un hachoir à viande, un lasso, un balai et un seau.
-- La cabane de Hagrid LEGO mesure plus de 16 cm de haut, 23 cm de large et 12 cm de profondeur.
-- Cet ensemble LEGO Harry Potter comprend la cabane de Hagrid à construire en 2 parties, avec son jardin de citrouilles.
-- Buck avec les ailes ouvertes mesure plus de 5 cm de haut, 7 cm de long et 12 cm de large.
-- Inclut également des citrouilles, une lanterne, une hache, 3 baguettes, le chapeau du Ministre de la Magie et une chaîne détachable pour Buck.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=tolees0d-21)
