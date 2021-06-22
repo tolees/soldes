@@ -28,11 +28,11 @@ Vous avez [Sony SRS-XB23 | Enceinte Portable EXTRA BASS Bluetooth Stéréo  Sans
 
 ℹ️:
 
+- X-Balanced Speaker : un haut-parleur dune nouvelle forme qui produit un son de haute qualité et une pression acoustique puissante.
+- Un son stéréo puissant et percutant : la puissance de cette enceinte EXTRA BASS réside dans sa conception. Les deux radiateurs passifs fonctionnent de pair avec les haut-parleurs large bande pour optimiser les graves et renforcer les basses.
+- Grande autonomie : Avec ses 12 heures dautonomie, la SRS-XB23 aura de lénergie même quand vous nen aurez plus. En mode EXTRA BASS, vous pouvez faire la fête pendant 10 h.
+- Composants inclus : Câble de recharge USB C
 - Format ultraportable : glissez lenceinte dans votre sac à dos, dans le porte bidon de votre vélo et accrochez-la partout grâce à sa dragonne (incluse).
 - Conçue pour durer : Grâce à son indice de protection IP67, vous pouvez emporter la SRS-XB23 à la plage, en forêt, dans le désert, et plus encore... Sa conception lui permet de fonctionner partout, elle est étanche et résistante à leau salée.
-- Un son stéréo puissant et percutant : la puissance de cette enceinte EXTRA BASS réside dans sa conception. Les deux radiateurs passifs fonctionnent de pair avec les haut-parleurs large bande pour optimiser les graves et renforcer les basses.
-- Composants inclus : Câble de recharge USB C
-- X-Balanced Speaker : un haut-parleur dune nouvelle forme qui produit un son de haute qualité et une pression acoustique puissante.
-- Grande autonomie : Avec ses 12 heures dautonomie, la SRS-XB23 aura de lénergie même quand vous nen aurez plus. En mode EXTRA BASS, vous pouvez faire la fête pendant 10 h.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B438CRW/?tag=tolees0d-21)

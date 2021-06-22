@@ -28,11 +28,11 @@ Vous avez [D-Link DCS-8325LH Caméra IP Mydlink Smart Full HD Wi-Fi - 2 Megapixe
 
 ℹ️:
 
+- Personnalisez les paramètres et interagissez avec dautres appareils mydlink
+- Modes de détection basés sur l’intelligence artificielle
 - La résolution Full HD 1080p
 - La vision nocturne
 - Vous alerte avec une notification sur mobile ou tablette
-- Personnalisez les paramètres et interagissez avec dautres appareils mydlink
 - Délivre une image nette avec un zoom numérique 4x
-- Modes de détection basés sur l’intelligence artificielle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082KZNNLH/?tag=tolees0d-21)

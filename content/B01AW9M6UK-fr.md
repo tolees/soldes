@@ -28,9 +28,9 @@ Vous avez [Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery Shop Pasta Farfalle in a Tin 
 
 ℹ️:
 
-- Dimensions : 7,1 x 3,1 x 8,1 cm
-- Les nouilles sont des produits alimentaires typiques essentiels à tout magasin ou cuisine de jeu
-- En hêtre
 - Fabriqué en Allemagne
+- Les nouilles sont des produits alimentaires typiques essentiels à tout magasin ou cuisine de jeu
+- Dimensions : 7,1 x 3,1 x 8,1 cm
+- En hêtre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21)
