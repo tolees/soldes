@@ -28,10 +28,10 @@ Vous avez [Mega Bloks Sac Bleu  jeu de blocs de construction  60 pièces  jouet 
 
 ℹ️:
 
-- Activités manuelles pour le développement de lenfant
-- ​Adapté aux petites mains
 - Se combine à dautres jouets Mega Bloks à construire
-- ​60 blocs colorés de construction et formes spéciales
 - Sac pour un rangement facile
+- Activités manuelles pour le développement de lenfant
+- ​60 blocs colorés de construction et formes spéciales
+- ​Adapté aux petites mains
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0083F2XCW/?tag=tolees0d-21)
