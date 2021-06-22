@@ -28,10 +28,10 @@ Vous avez [LUNII - Ma Fabrique à Histoires - Conteuse pour enfants de 3 à 8 an
 
 ℹ️:
 
-- LE CONTENU : 48 histoires audio sont prêtes à écouter dans Ma Fabrique à Histoires et des centaines dautres sont à télécharger sur Lunii.com. Des histoires douces, des aventures, des comptines et bien d’autres pour développer l’imaginaire, la culture et le vocabulaire des enfants
-- POURQUOI CHOISIR MA FABRIQUE À HISTOIRES ? ● Fabriquée en France ● 6 à 8 heures d’autonomie ● Rechargeable par câble USB-C ● Prise Jack ● Disponible en 8 langues ● Emballage éco-conçu ● Photos non contractuelles
-- COMMENT ÇA MARCHE ? Un héros, un univers fantastique, un compagnon… Les enfants choisissent les éléments qui composent leurs récits et écoutent les histoires qu’ils ont créées
 - Ma Fabrique à Histoires de Lunii réveille l’imaginaire des enfants de 3 à 8 ans. Une boîte à histoires interactive et nomade, sans ondes, sans écran, pour rêver, explorer et apprendre s’amusant
 - ENREGISTREZ VOS HISTOIRES : Avec l’application mobile Lunii, toute la famille peut créer et enregistrer ses propres histoires audio
+- POURQUOI CHOISIR MA FABRIQUE À HISTOIRES ? ● Fabriquée en France ● 6 à 8 heures d’autonomie ● Rechargeable par câble USB-C ● Prise Jack ● Disponible en 8 langues ● Emballage éco-conçu ● Photos non contractuelles
+- COMMENT ÇA MARCHE ? Un héros, un univers fantastique, un compagnon… Les enfants choisissent les éléments qui composent leurs récits et écoutent les histoires qu’ils ont créées
+- LE CONTENU : 48 histoires audio sont prêtes à écouter dans Ma Fabrique à Histoires et des centaines dautres sont à télécharger sur Lunii.com. Des histoires douces, des aventures, des comptines et bien d’autres pour développer l’imaginaire, la culture et le vocabulaire des enfants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FRRHG4V/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Samsung Fold 2 256 Go Noir](https://www.amazon.fr/dp/B08HKJ598G/?tag=
 
 ℹ️:
 
-- Écran extérieur: 6,2’’ Super AMOLED
-- Cinq capteuPolyvalence ultimers photos:
-- Charnière à position libre: Plus de flexibilité
 - Grand écran pliable intérieur: 7,6’’ Dynamic AMOLED
+- Écran extérieur: 6,2’’ Super AMOLED
+- Charnière à position libre: Plus de flexibilité
+- Cinq capteuPolyvalence ultimers photos:
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HKJ598G/?tag=tolees0d-21)
