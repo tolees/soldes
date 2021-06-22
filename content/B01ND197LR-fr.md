@@ -28,12 +28,12 @@ C'est en vente [Varier Move Fauteuil](https://www.amazon.fr/dp/B01ND197LR/?tag=t
 
 ℹ️:
 
-- Tissu : Revive est un revêtement textile durable 100 % polyester recyclé
-- S’accorde parfaitement avec une table réglable en hauteur
-- Dimensions : siège : Ø 43 cm, base : Ø 40 cm, hauteur du siège : 56 - 82 cm
-- Pensé pour accompagner votre corps dans ses mouvements
-- Assise dynamique et redressement sans effort
-- Assemblage aisé : 3 pièces réunies aisément sans outils
 - Conçu par Per Øie en 1985
+- S’accorde parfaitement avec une table réglable en hauteur
+- Pensé pour accompagner votre corps dans ses mouvements
+- Assemblage aisé : 3 pièces réunies aisément sans outils
+- Tissu : Revive est un revêtement textile durable 100 % polyester recyclé
+- Assise dynamique et redressement sans effort
+- Dimensions : siège : Ø 43 cm, base : Ø 40 cm, hauteur du siège : 56 - 82 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ND197LR/?tag=tolees0d-21)

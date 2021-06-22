@@ -28,10 +28,10 @@ Vous avez [UMBRA Prisma Mirror. Miroir mural Prisma sur structure en métal noir
 
 ℹ️:
 
+- À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
 - Ce miroir Prisma est majestueux (57x43cm) et apporte une vraie personnalité à votre intérieur. Totalement dans la tendance du métal filaire, la structure métallique donne du relief à ce miroir et en fait un véritable objet de décoration. Il se combien avantageusement avec les autres articles de la gamme Prisma, comme les cadres, les mobiles et décors muraux et les arbres à bijoux.
 - Conçu par Sung Wook Park pour Umbra
 - Ce miroir permet également de suspendre un petit accessoire sur le partie filaire, comme un grand collier, ou un foulard, pour une décoration très originale. De plus, il est souvent utilisé comme plateau sur une belle table de fête, car les verres à pieds, flûtes ou coupes de champagne sy reflètent et créent une ambiance féerique.
 - Fixation possible à lhorizontale ou à la verticale. Vis et chevilles fournies.
-- À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ANF7Q94/?tag=tolees0d-21)

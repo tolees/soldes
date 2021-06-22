@@ -28,12 +28,12 @@ Vous avez [Lékué Popcorn Maker Silicone Pliable](https://www.amazon.fr/dp/B00N
 
 ℹ️:
 
+- Plus de 90% des grains de maïs explosent à la cuisson
 - Livret de Recettes originales
 - Utilisation: Bol pliable pour préparer des pop corn faits maison au micro-ondes
-- Sain: Pop corn sans graisses saturées
-- Bol pliable pour un réel gain de place
-- Plus de 90% des grains de maïs explosent à la cuisson
 - Garantie : 10 an(s)
 - Compatible au micro-ondes et au lave-vaisselle
+- Sain: Pop corn sans graisses saturées
+- Bol pliable pour un réel gain de place
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NF9CT0C/?tag=tolees0d-21)
