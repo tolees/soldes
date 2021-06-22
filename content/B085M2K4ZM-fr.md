@@ -29,10 +29,10 @@ Vous avez [Motorola Moto G8 Power Lite Smartphone débloqué  6 5" HD+ Display  
 ℹ️:
 
 - Lecteur d’empreinte digitale pour une sécurité maximale
-- Batterie 5000 mAh profitez de trois jours d’autonomie en une seule charge
-- Ecran Max Vision 6 5’’ HD+ pour une expérience multimédia unique
 - Système triple caméra 16MP réalisez des clichés plus nets de superbes gros plans et de magnifiques portraits
-- Processeur ultra performant octo-core 2 3 GHz adossé à 4 Go de RAM
+- Batterie 5000 mAh profitez de trois jours d’autonomie en une seule charge
 - 64 GB de mémoire interne extensible par slot SD allant jusqu’à 256 Go
+- Ecran Max Vision 6 5’’ HD+ pour une expérience multimédia unique
+- Processeur ultra performant octo-core 2 3 GHz adossé à 4 Go de RAM
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085M2K4ZM/?tag=tolees0d-21)

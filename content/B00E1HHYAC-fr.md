@@ -28,11 +28,11 @@ C'est en vente [Panasonic Solo KX-TG6821FRB Téléphone Numérique sans fil DECT
 
 ℹ️:
 
-- Alarme, appel excepté, horloge intégrée avec fonction de rappel dalarme, phonebook transfer
 - Téléphone sans fil système de répondeur. Unité de Base (Largeur x Profondeur): 107 x 86 mm; Combiné (Largeur x Profondeur) : 48 x 29 mm
-- Autonomie en communication : Jusquà 900 minutes
-- Capacité répertoire : 120 noms et numéros
 - Temps de charge : 7 heures. 15 heures en communication
+- Capacité répertoire : 120 noms et numéros
 - Mains libres : Oui
+- Alarme, appel excepté, horloge intégrée avec fonction de rappel dalarme, phonebook transfer
+- Autonomie en communication : Jusquà 900 minutes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00E1HHYAC/?tag=tolees0d-21)

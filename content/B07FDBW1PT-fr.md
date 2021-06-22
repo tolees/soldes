@@ -28,10 +28,10 @@ C'est en vente [AstroAI Multimètre Numérique Automatique 4000 Count TRMS  Test
 
 ℹ️:
 
-- 📌ECRAN LCD - Il a une fonction HOLD pour bloquer les données et sur votre écran LCD, vous pouvez effectuer des lectures facilement grâce à la grande taille avec un écran rétro-éclairé
 - 📌MISE HORS TENSION AUTOMATIQUE - Le multimètre numérique 4000 count comprend une fonction darrêt automatique après 15 minutes dinactivité, ce qui évite lusure de la batterie en cas doubli de léteindre
-- 📌CONTENU DE LEMBALLAGE - 1 x AstroAI multimètre numérique 4000C, 2 x câbles de mesure, 1x manuel dutilisation; AstroAI offre une garantie de 3 ans
-- 📌DOUBLE PROTECTION - Il est doté d’une protection anti-surcharge avec deux fusibles en céramique et l’assemblage du système est conforme aux exigences F500mA/600V and F10A/600V, qui protège l’utilisateur des risques d’électrocution
 - 📌LES FONCTIONNALITÉS - AstroAI 4000C multimètre est utilisé pour mesurer les courants alternatif et continu, testeur de tension AC&DC la résistance, la température, la capacité, l’inductance et le test des piles, les transistors et les diodes. Haute qualité-prix
+- 📌ECRAN LCD - Il a une fonction HOLD pour bloquer les données et sur votre écran LCD, vous pouvez effectuer des lectures facilement grâce à la grande taille avec un écran rétro-éclairé
+- 📌DOUBLE PROTECTION - Il est doté d’une protection anti-surcharge avec deux fusibles en céramique et l’assemblage du système est conforme aux exigences F500mA/600V and F10A/600V, qui protège l’utilisateur des risques d’électrocution
+- 📌CONTENU DE LEMBALLAGE - 1 x AstroAI multimètre numérique 4000C, 2 x câbles de mesure, 1x manuel dutilisation; AstroAI offre une garantie de 3 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FDBW1PT/?tag=tolees0d-21)

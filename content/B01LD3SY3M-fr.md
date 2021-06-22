@@ -28,14 +28,14 @@ C'est en vente [Netatmo Caméra de Surveillance Extérieure Intelligente avec é
 
 ℹ️:
 
-- AUCUN FRAIS D’ABONNEMENT : accès à toutes les fonctionnalités, mises à jours et stockage gratuits
-- ALERTES PRECISES ET PERSONNALISABLES : Être humain, véhicule, animal ? Avec la fonction Alert-Zones, définissez les zones à surveiller et le type d’intrusion pour lequel être alerté(e)
 - SURVEILLANCE CONTINUE : Accédez aux images HD en streaming ou en direct de votre caméra 7j/7, 24h/24, même la nuit grâce à la vision nocturne
+- AUCUN FRAIS D’ABONNEMENT : accès à toutes les fonctionnalités, mises à jours et stockage gratuits
+- ECLAIRAGE INTELLIGENT INTEGRE : Il vous aide à faire fuir les intrus et peut même éclairer votre chemin la nuit
+- NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
+- ALERTES PRECISES ET PERSONNALISABLES : Être humain, véhicule, animal ? Avec la fonction Alert-Zones, définissez les zones à surveiller et le type d’intrusion pour lequel être alerté(e)
+- VOS DONNEES, 100% SECURISEES : Vos données sont stockées et sécurisées en local sur carte microSD incluse
+- Compatibilité iPhone et iPad: iOS 10 minimum requis | Compatibilité Android: Android 5.0 minimum requis
 - COMPATIBLE: Amazon Alexa, Apple Homekit, Apple Homekit Secure Video, Google Assistant. Contrôlez la caméra par la voix et créez des scénarios avec d’autres objets connectés
 - NOTIFICATIONS IMMEDIATES SUR VOTRE SMARTPHONE EN CAS DINTRUSION : Alerte en temps réel en cas de détection dune personne ou dun véhicule inconnu sur votre propriété
-- NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
-- Compatibilité iPhone et iPad: iOS 10 minimum requis | Compatibilité Android: Android 5.0 minimum requis
-- ECLAIRAGE INTELLIGENT INTEGRE : Il vous aide à faire fuir les intrus et peut même éclairer votre chemin la nuit
-- VOS DONNEES, 100% SECURISEES : Vos données sont stockées et sécurisées en local sur carte microSD incluse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LD3SY3M/?tag=tolees0d-21)
