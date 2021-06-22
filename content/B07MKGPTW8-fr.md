@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.10 % rabais sur La Baie sanglante [Édition Collector Blu'
-date: 2021-06-21 15:49:54
+date: 2021-06-22 16:03:00
 image: 'https://m.media-amazon.com/images/I/51iPk7rK7RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
