@@ -28,11 +28,11 @@ Vous avez [Philips EP2220/10 Machine Espresso automatique Séries 2200 avec Mous
 
 ℹ️:
 
+- Broyeur 100% en céramique: café riche en goût
 - Technologie Aroma Seal: préserve larômes des grains de café
-- Personnalisation de la boisson: réglages de la mouture (12), de lintensité, de la quantité de café et de la température.
 - Technologie AquaClean (filtre inclus)
 - Longueur du cordon: 100 cm
-- Broyeur 100% en céramique: café riche en goût
 - 2 boissons possibles: Espresso, café classique. Boissons lactées possibles grâce à son mousseur à lait classique
+- Personnalisation de la boisson: réglages de la mouture (12), de lintensité, de la quantité de café et de la température.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MMSHC4R/?tag=tolees0d-21)

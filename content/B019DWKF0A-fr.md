@@ -28,11 +28,11 @@ Vous avez [Russell Hobbs Mijoteur Electrique 3 5L  Cuve Amovible  3 Programmes d
 
 ℹ️:
 
-- Indicateur lumineux de fonctionnement. Pieds antidérapants.
-- Poignées et corps du mijoteur thermo isolés pour plus de sécurité
-- Mijoteur en inox dune capacité de 3,5L idéal pour toute la famille : prépare jusquà 4 portions
-- 3 programmes de cuisson : forte, moyenne, douce
-- Cuve à saisir amovible pouvant être utilisée directement sur une plaque à gaz ou induction pour saisir la viande
 - Couvercle en verre permettant de contrôler la cuisson. Cuve et couvercle amovibles et faciles à nettoyer
+- Poignées et corps du mijoteur thermo isolés pour plus de sécurité
+- Indicateur lumineux de fonctionnement. Pieds antidérapants.
+- Cuve à saisir amovible pouvant être utilisée directement sur une plaque à gaz ou induction pour saisir la viande
+- 3 programmes de cuisson : forte, moyenne, douce
+- Mijoteur en inox dune capacité de 3,5L idéal pour toute la famille : prépare jusquà 4 portions
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B019DWKF0A/?tag=tolees0d-21)
