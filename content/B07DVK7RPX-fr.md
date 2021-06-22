@@ -30,8 +30,8 @@ C'est en vente [Garmin Montre en Acier avec Bracelet TU Noir](https://www.amazon
 
 - Boussole: boussole numérique, la compensation dinclinaison, indicateur du Nord
 - Altimètre: Altimètre barométrique, altimètre GPS, graphique daltitude, ascension totale / descente
-- Marque: Garmin
 - GPS: les systèmes satellites: GPS, GLONASS, point de passage et graphique de navigation ditinéraire
 - couleur noir
+- Marque: Garmin
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DVK7RPX/?tag=tolees0d-21)
