@@ -29,14 +29,14 @@ C'est en vente [LEGO 75278 Star Wars D-O  Ensemble de Construction de modèle �
 ℹ️:
 
 - Les fans vont adorer construire cet adorable droïde D-O (75278) à collectionner du film Star Wars : L’ascension de Skywalker, qui reproduit les détails authentiques dans le style LEGO. Une pièce fantastique à construire et à exposer.
-- Ce superbe droïde LEGO Star Wars de 519 pièces est conçu pour les fans de Star Wars créatifs de plus de 10 ans. C’est un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour une occasion spéciale.
-- Depuis 1958, les briques de construction LEGO sont conformes aux normes industrielles les plus élevées, ce qui garantit quelles peuvent être assemblées et séparées facilement, sans avoir recours à la Force !
-- Ce droïde D-O fait partie d’une fabuleuse gamme de modèles LEGO Star Wars à construire et à exposer, disponible en janvier 2020.
-- Le modèle a des antennes pliables et sa tête sincline et pivote à 360 degrés, tout comme le personnage de Star Wars. Il est livré avec un présentoir intégré, une fiche dinformation et une figurine de D-O pour le bonheur des collectionneurs.
 - Pour les personnes qui souhaitent offrir ce modèle de D-O à un amateur de Star Wars qui débute dans la construction LEGO. Il est fourni avec des instructions claires pour se lancer dans la construction de ce modèle avec la confiance dun Jedi.
-- Le droïde de D-O à construire mesure plus de 27 cm de haut, 10 cm de large et 16 cm de profondeur. Il ne prend pas beaucoup de place, mais il attirera l’attention de tous à la maison ou au bureau.
-- Les kits LEGO Star Wars sont appréciés par les fans de tout âge qui peuvent construire et exposer leurs créations, recréer des scènes épiques de la saga Star Wars ou inventer leurs propres histoires.
-- Ce superbe modèle à construire, sans piles, offre une activité relaxante. Ce fantastique personnage Star Wars à construire seul ou en famille et à exposer permet d’oublier tous ses soucis.
 - Les briques et les pièces LEGO sont soumises à tous les tests possibles et imaginables ou presque, afin de s’assurer que ce set de construction Star Wars D-O est conforme aux normes de sécurité les plus élevées sur la planète Terre.
+- Le droïde de D-O à construire mesure plus de 27 cm de haut, 10 cm de large et 16 cm de profondeur. Il ne prend pas beaucoup de place, mais il attirera l’attention de tous à la maison ou au bureau.
+- Depuis 1958, les briques de construction LEGO sont conformes aux normes industrielles les plus élevées, ce qui garantit quelles peuvent être assemblées et séparées facilement, sans avoir recours à la Force !
+- Ce superbe modèle à construire, sans piles, offre une activité relaxante. Ce fantastique personnage Star Wars à construire seul ou en famille et à exposer permet d’oublier tous ses soucis.
+- Le modèle a des antennes pliables et sa tête sincline et pivote à 360 degrés, tout comme le personnage de Star Wars. Il est livré avec un présentoir intégré, une fiche dinformation et une figurine de D-O pour le bonheur des collectionneurs.
+- Les kits LEGO Star Wars sont appréciés par les fans de tout âge qui peuvent construire et exposer leurs créations, recréer des scènes épiques de la saga Star Wars ou inventer leurs propres histoires.
+- Ce superbe droïde LEGO Star Wars de 519 pièces est conçu pour les fans de Star Wars créatifs de plus de 10 ans. C’est un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour une occasion spéciale.
+- Ce droïde D-O fait partie d’une fabuleuse gamme de modèles LEGO Star Wars à construire et à exposer, disponible en janvier 2020.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XFXZ43Z/?tag=tolees0d-21)
