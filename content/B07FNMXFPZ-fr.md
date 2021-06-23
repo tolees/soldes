@@ -28,13 +28,13 @@ C'est en vente [LEGO 60214 City L’Intervention des Pompiers au Restaurant�
 
 ℹ️:
 
-- Le camion des pompiers avec la pompe à eau rétractée mesure plus de 8 cm de haut, 15 cm de long et 6 cm de large.
-- Inclut 3 figurines LEGO City : 2 pompiers et le cuisinier du restaurant.
-- La partie arrière du camion des pompiers pivote, puis il faut appuyer sur le soufflet de la pompe à eau pour lancer les éléments deau et renverser les flammes.
 - Le restaurant de burgers mesure plus de 17 cm de haut, 12 cm de large et 6 cm de profondeur
 - Comprend un camion des pompiers avec une cabine pour figurine, une partie arrière rotative, une pompe directionnelle avec une fonction de «jet d’eau» et 2 compartiments de rangement, plus une moto.
-- Comprend également un restaurant de burgers avec un panneau de burger, une fenêtre de service qui souvre et une poubelle.
+- La partie arrière du camion des pompiers pivote, puis il faut appuyer sur le soufflet de la pompe à eau pour lancer les éléments deau et renverser les flammes.
 - Les accessoires incluent une hache dincendie, 2 casques avec des visières qui souvrent, une bouteille d’oxygène, une poubelle, un casque de moto, un petit extincteur et 5 éléments de feu à construire.
+- Inclut 3 figurines LEGO City : 2 pompiers et le cuisinier du restaurant.
+- Comprend également un restaurant de burgers avec un panneau de burger, une fenêtre de service qui souvre et une poubelle.
 - Les ensembles de flammes se soulèvent sur le panneau du restaurant de burgers ainsi que la poubelle.
+- Le camion des pompiers avec la pompe à eau rétractée mesure plus de 8 cm de haut, 15 cm de long et 6 cm de large.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMXFPZ/?tag=tolees0d-21)
