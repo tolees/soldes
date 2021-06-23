@@ -28,8 +28,8 @@ Vous avez [Asmodee - SWUND - Smallworld - Extension Underground - Jeu de Straté
 
 ℹ️:
 
-- Age minimum : 8 ans
-- Nombre de joueurs : 2 à 5 joueurs
 - Durée dune partie : environ 80 minutes
+- Nombre de joueurs : 2 à 5 joueurs
+- Age minimum : 8 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0055BJ6WW/?tag=tolees0d-21)

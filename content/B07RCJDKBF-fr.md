@@ -29,9 +29,9 @@ C'est en vente [Bosch Professional 611910001 18V System Perforateur sans-fil GBH
 ℹ️:
 
 - Livré avec : GBH 18V-26 F, poignée supplémentaire, butée de profondeur, chiffon, mandrin interchangeable SDS plus, L-BOXX
-- Le perforateur sans-fil GBH 18V-26 F Professional à mandrin automatique est un modèle universel du segment SDS plus
 - Professional 18V System, performances maximales, liberté totale, toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de voltage
 - Travail sûr et maîtrise optimale grâce au système KickBack Control : arrêt automatique de l’outil en cas de danger
+- Le perforateur sans-fil GBH 18V-26 F Professional à mandrin automatique est un modèle universel du segment SDS plus
 - Perçage et burinage rapides grâce à l’énergie de frappe de 2,6 J
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RCJDKBF/?tag=tolees0d-21)

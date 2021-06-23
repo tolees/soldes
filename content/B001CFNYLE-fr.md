@@ -28,12 +28,12 @@ C'est en vente [DE BUYER -6460.12 -cass. cuivre-inox e.f. q. fonte ø 12cm](http
 
 ℹ️:
 
-- Composition : 90% de cuivre, 10% dinox
-- Tous feux sauf induction
-- Diamètre : 12 cm
-- Ustensile purement traditionnel, fidèle en cuisine Simple et efficace
 - Conductibilité complète, diffusion idéale de la chaleur
 - Entretien du cuivre avec une pâte à polir ; entretien de l’inox par lavage à la main ; ne pas mettre au lave-vaisselle
+- Tous feux sauf induction
+- Composition : 90% de cuivre, 10% dinox
+- Diamètre : 12 cm
 - Compatible avec le four
+- Ustensile purement traditionnel, fidèle en cuisine Simple et efficace
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001CFNYLE/?tag=tolees0d-21)

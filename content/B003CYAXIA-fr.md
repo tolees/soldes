@@ -28,10 +28,10 @@ C'est en vente [ANNEMARIE BÖRLIND - Boe For Men Pfl Cr 75ml](https://www.amazon
 
 ℹ️:
 
+- Crème pour le visage
+- Protège et nourrit
+- Hydratant
 - Homme
 - Effet régénérant
-- Protège et nourrit
-- Crème pour le visage
-- Hydratant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003CYAXIA/?tag=tolees0d-21)
