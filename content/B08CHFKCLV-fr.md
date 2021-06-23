@@ -28,10 +28,10 @@ Vous avez [Alpina Tronçonneuse d élagage APR 25  10 "  Pour élagage d arbres 
 
 ℹ️:
 
-- Tronçonneuse précise, légère et compacte avec guide-chaîne 25 cm, Pour la taille de branches darbres et darbustes et pour les travaux domestiques de coupe de bois tels que la coupe de bûches pour les poêles et les cheminées, Moteur à essence de 25,4 cm³
-- Contenu: 1 Tronçonneuse thermique APR 25 (10’’) Alpina, Guide-chaîne 25 cm, Moteur essence 25,4 cc, 900 W, Avec tournevis, aiguiseur de chaîne et clé à bougie, Dimenssions (LxPxH): 50 cmx26 cmx26 cm, Poids: 5,11 kg, Art. 202510024/A20
-- Moteur essence alimenté par un mélange dessence et dhuile (2,5%), Moteur à 2 temps, Pompe à huile automatique et réglable avec vis spéciale pour des opérations de coupe plus efficaces
 - Utilisation sûre, facile et pratique : bonne maniabilité grâce à la double poignée, Poignée arrière souple pour une prise en main confortable et sûre de la tronçonneuse
+- Tronçonneuse précise, légère et compacte avec guide-chaîne 25 cm, Pour la taille de branches darbres et darbustes et pour les travaux domestiques de coupe de bois tels que la coupe de bûches pour les poêles et les cheminées, Moteur à essence de 25,4 cm³
 - Système anti-vibrations pour une moindre fatigue de la main et une utilisation plus longue, Chaîne 3/8" .050", Vitesse de la chaîne 21 m/s, Frein de chaîne manuel et à inertie, Capacité du réservoir dhuile de chaîne 0,14 L, Tension latérale de la chaîne pratique
+- Moteur essence alimenté par un mélange dessence et dhuile (2,5%), Moteur à 2 temps, Pompe à huile automatique et réglable avec vis spéciale pour des opérations de coupe plus efficaces
+- Contenu: 1 Tronçonneuse thermique APR 25 (10’’) Alpina, Guide-chaîne 25 cm, Moteur essence 25,4 cc, 900 W, Avec tournevis, aiguiseur de chaîne et clé à bougie, Dimenssions (LxPxH): 50 cmx26 cmx26 cm, Poids: 5,11 kg, Art. 202510024/A20
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CHFKCLV/?tag=tolees0d-21)
