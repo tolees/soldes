@@ -29,7 +29,7 @@ C'est en vente [Britney Spears - Midnight Fantasy - Eau de Parfum Femme Vaporisa
 ℹ️:
 
 - Un Oriental fruité gourmand.Notes de tête : Cerises noires, Framboise, Prunes Notes de cœur : Iris velvet, Bourgeon dOrchidée, Pétales de Freesia Notes de fond : Bois Cachemire, Patchouli blanc, Ambre vanillé
-- Britney lance son quatrième parfum Midnight Fantasy, deuxième de la collection Fantasy, en décembre 2006. Décrit comme féminin et envoutant, ce parfum très fruité est réalisé par Caroline Sabas. Variante de Fantasy plus sophistiquée et séductrice, Midnight Fantasy a été crée pour les femmes magnétiques et séduisantes. Sexy. Intriguant. Irrésistible.
 - Le design du flacon est exactement le même que pour "Fantasy", excepté sa couleur bleu profond, indigo et ses cristaux bleu clair.
+- Britney lance son quatrième parfum Midnight Fantasy, deuxième de la collection Fantasy, en décembre 2006. Décrit comme féminin et envoutant, ce parfum très fruité est réalisé par Caroline Sabas. Variante de Fantasy plus sophistiquée et séductrice, Midnight Fantasy a été crée pour les femmes magnétiques et séduisantes. Sexy. Intriguant. Irrésistible.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000M8BE3C/?tag=tolees0d-21)

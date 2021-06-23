@@ -28,13 +28,13 @@ C'est en vente [Corsair HS50 PRO Stereo Casque de Gaming Mousse à mémoire ajus
 
 ℹ️:
 
-- Commandes de volume et de sourdine en supra-aural : Les commandes de volume et de sourdine en supra-aural permettent d’effectuer des réglages à la volée sans vous distraire de vos sessions de jeu
-- Idéale qualité sonore : Les transducteurs audios en néodyme de 50 mm personnalisés ont une gamme couvrant tous les sons à ne pas manquer sur le champ de bataille
-- Léger et durable : Le poids léger et la conception robuste du HS50 PRO avec une armature en aluminium confèrent au casque une longévité de plusieurs années
-- Certifié discord : Pour des communications claires et dhaute qualité
 - Longueur du câble: 1,8 m
 - Microphone unidirectionnel antibruit : Le microphone entièrement amovible réduit le bruit ambiant pour garantir une excellente clarté vocale
-- Élaboré pour le confort : Les oreillettes ajustables rembourrées de mousse à mémoire de forme offrent un confort idéal pendant des heures de gameplay. Sensibilité du casque: 111dB (+/- 3dB)
+- Léger et durable : Le poids léger et la conception robuste du HS50 PRO avec une armature en aluminium confèrent au casque une longévité de plusieurs années
 - Compatibilité multiplateforme : Jouez sur PC, PS4, Xbox One, nintendo switch et appareils mobiles via un connecteur 3,5 mm ; peut nécessiter un adaptateur microsoft de 3,5 mm (vendu séparément)
+- Commandes de volume et de sourdine en supra-aural : Les commandes de volume et de sourdine en supra-aural permettent d’effectuer des réglages à la volée sans vous distraire de vos sessions de jeu
+- Élaboré pour le confort : Les oreillettes ajustables rembourrées de mousse à mémoire de forme offrent un confort idéal pendant des heures de gameplay. Sensibilité du casque: 111dB (+/- 3dB)
+- Idéale qualité sonore : Les transducteurs audios en néodyme de 50 mm personnalisés ont une gamme couvrant tous les sons à ne pas manquer sur le champ de bataille
+- Certifié discord : Pour des communications claires et dhaute qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y2LRP67/?tag=tolees0d-21)
