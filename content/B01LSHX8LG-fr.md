@@ -30,8 +30,8 @@ Vous avez [Cinereplicas - Harry Potter - Robe de Sorcier - Licence Officielle - 
 
 - UNE MARQUE RECONNUE : Cinereplicas a toute la confiance de Warner Bros pour représenter l’image de leur production et élaborer des gammes de produits Harry Potter de haute qualité.
 - VIVEZ LA MAGIE DE HARRY POTTER : mettez-vous dans la peau des sorciers de Poudlard, revêtez la robe de sorcier de l’univers de la saga, et affichez fièrement les couleurs de la Maison Poufsouffle !
-- UN DESIGN ORIGNAL : la découpe et la finition ont été travaillées avec soin afin d’obtenir une robe fidèle à celles apparaissant dans les films, et satisfairont les plus grands fans de Harry Potter !
-- PRODUIT DEXCELLENTE QUALITÉ : avec son tissu haut grammage premium, la robe de sorcier Harry Potter est très résistante, agréable à porter et facile à ranger.
 - PRODUIT OFFICIEL SOUS LICENCE WARNER BROS : conçue par des costumiers professionnels, la tenue est authentique, d’excellente qualité, et respecte strictement la licence Warner Bros.
+- PRODUIT DEXCELLENTE QUALITÉ : avec son tissu haut grammage premium, la robe de sorcier Harry Potter est très résistante, agréable à porter et facile à ranger.
+- UN DESIGN ORIGNAL : la découpe et la finition ont été travaillées avec soin afin d’obtenir une robe fidèle à celles apparaissant dans les films, et satisfairont les plus grands fans de Harry Potter !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LSHX8LG/?tag=tolees0d-21)
