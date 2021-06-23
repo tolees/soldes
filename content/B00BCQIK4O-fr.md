@@ -28,11 +28,11 @@ Vous avez [Philips HP8232/00 Sèche-Cheveux ThermoProtect Volume  2200 W  Diffus
 
 ℹ️:
 
-- Réglage de la température ThermoProtect
-- Fonction ionique pour des cheveux brillants et sans frisottis
-- 6 combinaisons vitesse/température pour un contrôle total de votre coiffure
 - Puissance professionnelle de 2 200 W pour des résultats impeccables
+- 6 combinaisons vitesse/température pour un contrôle total de votre coiffure
 - Touche air froid pour fixer la coiffure
 - Augmente le volume, maximise lépaisseur, optimise boucles et ondulations
+- Réglage de la température ThermoProtect
+- Fonction ionique pour des cheveux brillants et sans frisottis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BCQIK4O/?tag=tolees0d-21)
