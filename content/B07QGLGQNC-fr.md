@@ -28,10 +28,10 @@ C'est en vente [The Bellies - Potty Car  accessoire pour enfants à partir de 3 
 
 ℹ️:
 
-- Lorsque vous roulez, une drôle de surprise apparaît : un popo sous le pot que vous pourrez nettoyer grâce à la brosse rose.
 - A chaque fois que vous roulez, une surprise différente et amusante apparaîtra !
 - Cest la voiture pot la plus amusante et pleine de surprises avec laquelle le plaisir des enfants est garanti.
 - Comprend des roues et une ceinture de sécurité pour vos Bellies.
 - Venez découvrir la voiture Bellies « Potty Car », le pot le plus drôle, plein de surprises et de jeux !
+- Lorsque vous roulez, une drôle de surprise apparaît : un popo sous le pot que vous pourrez nettoyer grâce à la brosse rose.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QGLGQNC/?tag=tolees0d-21)
