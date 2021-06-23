@@ -28,11 +28,11 @@ Vous avez [ECOVACS DEEBOT N8 Aspirateur Robot Laveur  Aspiration Puissante  2300
 
 ℹ️:
 
-- 🧹2.【 Détection des tapis 】 Une technologie de détection avancée permet à votre robot aspirateur de détecter de manière automatique les tapis et réagir en conséquence en choisissant daugmenter la puissance lors de laspiration ou éviter les tapis pendant le lavage.
-- 🌍4.【 Cartographie laser et navigation précise 】 combine la technologie laser de précision et les capteurs dTOF avancés pour afficher votre maison 4 fois plus rapidement que la cartographie laser standard, avec une augmentation de 2 fois de la distance de détection et la capacité de détection dobjets jusquà 2 mm.
 - 🌊1.【Technologie de lavage OZMO 】: pour aspiration et lavage en un seul passage. Grâce à une pompe à eau à commande électronique innovante incluse dans le réservoir, votre robot lave et aspire simultanément, laissant votre sol impeccablement propre.
-- 🛑5.【 Nettoyage précis et personnalisé 】：Directement sur la carte, vous pouvez dessiner les zones qui ont besoin de plus dattention, identifiant automatiquement la taille ; en outre, grâce aux fonctions de personnalisation, vous pouvez désormais renommer, diviser, ou unir les zones visibles sur la carte.
+- 🧹2.【 Détection des tapis 】 Une technologie de détection avancée permet à votre robot aspirateur de détecter de manière automatique les tapis et réagir en conséquence en choisissant daugmenter la puissance lors de laspiration ou éviter les tapis pendant le lavage.
 - ✅6.【Garantie de 24 mois】 : Ecovacs fournit une garantie de 24 mois, ainsi que des conseils et un service de réparation auprès de votre centre de contact local.
+- 🌍4.【 Cartographie laser et navigation précise 】 combine la technologie laser de précision et les capteurs dTOF avancés pour afficher votre maison 4 fois plus rapidement que la cartographie laser standard, avec une augmentation de 2 fois de la distance de détection et la capacité de détection dobjets jusquà 2 mm.
 - 🌀3.【2300 Pa*Mode Max+】 : puissance daspiration améliorée à 2300 Pa, avec un niveau de bruit étonnamment faible. La puissance daspiration améliorée à 2300Pa est augmentée de 53 %.
+- 🛑5.【 Nettoyage précis et personnalisé 】：Directement sur la carte, vous pouvez dessiner les zones qui ont besoin de plus dattention, identifiant automatiquement la taille ; en outre, grâce aux fonctions de personnalisation, vous pouvez désormais renommer, diviser, ou unir les zones visibles sur la carte.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08YY4ZPNB/?tag=tolees0d-21)
