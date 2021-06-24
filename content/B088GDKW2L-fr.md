@@ -28,11 +28,11 @@ Vous avez [Oral-B Genius - 8500 - Brosse À Dents Électrique  Argenté](https:/
 
 ℹ️:
 
-- 5 MODES DE BROSSAGE VISIBLES : Propreté, Pro Clean, Douceur, Blancheur et Soin des Gencives
-- PROTÉGEZ VOS GENCIVES : Le contrôle de la pression sur les gencives ralentit automatiquement la vitesse de la brosse et vous alerte visiblement si vous brossez trop vigoureusement
-- La tête ronde élimine jusqu’à 100 % de plaque en plus le long des gencives pour des dents plus propres et des gencives plus saines
-- La batterie dure plus de 2 semaines avec 1 recharge grâce à la batterie au lithium-ion
 - Contenu : 1 manche argenté avec minuteur de 2 minutes, 1 chargeur, 1 brossette, 1 étui de voyage premium
+- La tête ronde élimine jusqu’à 100 % de plaque en plus le long des gencives pour des dents plus propres et des gencives plus saines
+- 5 MODES DE BROSSAGE VISIBLES : Propreté, Pro Clean, Douceur, Blancheur et Soin des Gencives
+- La batterie dure plus de 2 semaines avec 1 recharge grâce à la batterie au lithium-ion
+- PROTÉGEZ VOS GENCIVES : Le contrôle de la pression sur les gencives ralentit automatiquement la vitesse de la brosse et vous alerte visiblement si vous brossez trop vigoureusement
 - Un nettoyage professionnel pour des gencives plus saines grâce à la détection de position permettant de couvrir 100 % de la zone de brossage pour ne jamais oublier un recoin
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088GDKW2L/?tag=tolees0d-21)
