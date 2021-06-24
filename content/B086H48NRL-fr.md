@@ -28,10 +28,10 @@ Vous avez [Belkin Chargeur de Voiture USB  18 W  Quick Charge  Chargeur Quick Ch
 
 ℹ️:
 
-- Technologie Quick Charge 3.0 pour recharger un appareil compatible jusqu’à 80 % en 35 minutes
-- Technologie de pointe et innovation depuis plus de 35 ans
-- Puissance de sortie pouvant atteindre 18 W via le port USB-A
 - Chargeur rétrocompatible avec les appareils Quick Charge 2.0
+- Puissance de sortie pouvant atteindre 18 W via le port USB-A
+- Technologie Quick Charge 3.0 pour recharger un appareil compatible jusqu’à 80 % en 35 minutes
 - Chargeur compatibles avec les appareils Quick Charge et notamment le Samsung Galaxy Note9, Note9+, S9, S9+, S8, S7, S7 Edge, S6; Sony, LG, HTC (certains modèles)
+- Technologie de pointe et innovation depuis plus de 35 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086H48NRL/?tag=tolees0d-21)

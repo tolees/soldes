@@ -28,10 +28,10 @@ C'est en vente [Senya cuiseur à riz Kit Sushi  1L pour 500g de riz  deux kits f
 
 ℹ️:
 
+- Kit à sushi fourni pour vos sushis, makis, futomakis, hosomakis
+- Le cuiseur à riz et kit sushi est le partenaire idéal pour la cuisson du riz et la préparation des sushis maison
 - Arrêt automatique en fin de cuisson et maintien au chaud
 - Idéal pour la cuisson de tout type de riz: blanc, basmati, thaï, japonais, complet,... Capacité 1L pour 500g de riz
-- Le cuiseur à riz et kit sushi est le partenaire idéal pour la cuisson du riz et la préparation des sushis maison
 - Cuve et accessoires compatibles au Lave vaisselle
-- Kit à sushi fourni pour vos sushis, makis, futomakis, hosomakis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071XCMQQS/?tag=tolees0d-21)

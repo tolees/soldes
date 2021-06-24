@@ -30,8 +30,8 @@ Vous avez [Belkin - Adaptateur Cassette avec Sortie jack 3 5mm pour Smartphone e
 
 - Connectique : jack
 - Garantie fabricant : 3 an(s)
-- Appareils compatibles : iPod/lecteur MP3/lecteur CD/ordinateurs portables
 - Fonctions de protection : magnet proof, résistant aux chocs
 - Interface de lappareil : 3,5 mm (1/8")
+- Appareils compatibles : iPod/lecteur MP3/lecteur CD/ordinateurs portables
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XJVBO8O/?tag=tolees0d-21)

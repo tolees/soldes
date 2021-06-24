@@ -28,10 +28,10 @@ Vous avez [Amazon Basic Care - Pansements doux en silicone Retrait sans douleur 
 
 ℹ️:
 
-- Testé dermatologiquement
-- Pour recouvrir et protéger les petites plaies
 - Ces patchs sont idéaux pour une bonne adhésion et un retrait facile
+- Testé dermatologiquement
 - Convient aux peaux sensibles et fragiles telles que celles des nouveaux nés et des personnes âgées
+- Pour recouvrir et protéger les petites plaies
 - Hypoallergénique - Extra doux et super confortable pour la cicatrisation des plaies
 - Pansements en silicone emballés dans des boîtes de 50 pièces
 

@@ -28,10 +28,10 @@ C'est en vente [Geox U New Life B  Derbys Homme  Noir  Black C9999   44 EU](http
 
 ℹ️:
 
-- Matériau de semelle : cuir - synthétique/pu
+- Fermeture : lacets
 - Type de talons : bloc
 - Dessus : cuir souple
 - Doublure : cuir
-- Fermeture : lacets
+- Matériau de semelle : cuir - synthétique/pu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJ2XB7H/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ Vous avez [Garnier Color Sensation Intensissimos Coloration Permanente 60 ml  6.
 
 ℹ️:
 
-- Volume - 60 ml
-- Marque - Garnier
 - Produit pour Femme
+- Marque - Garnier
+- Volume - 60 ml
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00X9U9AA4/?tag=tolees0d-21)
