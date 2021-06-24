@@ -28,12 +28,12 @@ Vous avez [Bosch 0 242 129 510 Bougie All. Nickel Vr8Sc+](https://www.amazon.fr/
 
 ℹ️:
 
+- Numéro de pièce équivalent OEM : CHAMPION:OE130,NGK:6799,NGK:LZKAR 7A,BERU:12 VR-8 SE,BERU:Z 243,BOSCH:VR8SC+,CHAMPION:REA 8MCL,BOSCH:0 242 129 801,EYQUEM:RWC52HSK
+- Grande robustesse: Céramique spéciale qui assure une résistance diélectrique élevée.
+- Protection contre la corrosion: Grâce à son filetage en nickel.
+- Performances optimales du moteur: La bonne électrode, comme recommandée par les constructeurs.
+- Type dajustement : Spécifique au véhicule
 - Haute résistance à lusure: Conductivitée thermique élevée qui protège contre les surcharges, la corrosion et lérosion.
 - Longue durée de vie: Electrode centrale soudée au laseren continu pour une durée de vie allongée des bougies à méteaux précieux.
-- Performances optimales du moteur: La bonne électrode, comme recommandée par les constructeurs.
-- Grande robustesse: Céramique spéciale qui assure une résistance diélectrique élevée.
-- Numéro de pièce équivalent OEM : CHAMPION:OE130,NGK:6799,NGK:LZKAR 7A,BERU:12 VR-8 SE,BERU:Z 243,BOSCH:VR8SC+,CHAMPION:REA 8MCL,BOSCH:0 242 129 801,EYQUEM:RWC52HSK
-- Protection contre la corrosion: Grâce à son filetage en nickel.
-- Type dajustement : Spécifique au véhicule
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)

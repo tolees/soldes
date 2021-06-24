@@ -28,12 +28,12 @@ Vous avez [Oral-B Pro 2 2000 Brosse à dents électrique rechargeable  1 manche 
 
 ℹ️:
 
-- Contrôle de la pression de brossage pour aider à protéger les gencives délicates.
+- Élimine jusquà 100 % en plus de plaque dentaire pour des gencives plus saines qu’une brosse à dents manuelle traditionnelle.
 - Minuterie : la brosse émettra un signal sonore après 2 minutes de brossage, comme recommandé par votre dentiste.
 - Grâce à sa tête ronde, cette brosse à dents entoure chaque dent pour un nettoyage supérieur.
-- Batterie au lithium : plus de 2 semaines de brossage avec 1 recharge complète.
-- Contenu : 1 manche noir pour brosse à dents électrique avec chargeur, 1 tête de rechange.
 - Deux modes de brossage : nettoyage quotidien et protection des gencives.
-- Élimine jusquà 100 % en plus de plaque dentaire pour des gencives plus saines qu’une brosse à dents manuelle traditionnelle.
+- Batterie au lithium : plus de 2 semaines de brossage avec 1 recharge complète.
+- Contrôle de la pression de brossage pour aider à protéger les gencives délicates.
+- Contenu : 1 manche noir pour brosse à dents électrique avec chargeur, 1 tête de rechange.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V61GN2L/?tag=tolees0d-21)
