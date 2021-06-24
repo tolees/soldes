@@ -29,8 +29,8 @@ Vous avez [CMT Orange Tools - CMT 273.216.64 m Lame circulaire itk-plus pour co
 ℹ️:
 
 - 64 dents
-- Trou 30 mm
-- Epaisseur du corps de la lame 1.8 mm
 - CMT 273.216.64M - Sierra circular itk plus hw 216x1.8x30 z=64 atb+s -5 grados
+- Epaisseur du corps de la lame 1.8 mm
+- Trou 30 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0145FXH0K/?tag=tolees0d-21)
