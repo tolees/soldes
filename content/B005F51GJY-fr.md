@@ -28,10 +28,10 @@ C'est en vente [DE BUYER -3091.28N -cercle a tarte inox ht 2cmbd roule ø28](htt
 
 ℹ️:
 
-- Hauteur : 2 cm
-- Epaisseur : 0,4 mm
 - Entretien : passe au lave-vaisselle
-- Matériau : inox
+- Epaisseur : 0,4 mm
 - Garantie : 3 mois
+- Hauteur : 2 cm
+- Matériau : inox
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005F51GJY/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Trust Gaming GXT 105 Souris Gamer  800 - 2400 dpi  6 Boutons Ré
 
 ℹ️:
 
+- Dessus revêtu de caoutchouc pour une prise en main ferme
+- Modèle de forme ambidextre. Câble tressé [1,8 m].
+- 6 boutons réactifs
 - Dessus entièrement éclairé
 - Bouton de sélection de précision (600-2400 ppp)
-- Modèle de forme ambidextre. Câble tressé [1,8 m].
-- Dessus revêtu de caoutchouc pour une prise en main ferme
-- 6 boutons réactifs
 - Vitesse de suivi: 28 ips
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M1IJKLO/?tag=tolees0d-21)
