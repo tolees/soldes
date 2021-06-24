@@ -28,13 +28,13 @@ C'est en vente [Apple AirPods Pro](https://www.amazon.fr/dp/B07ZPML7NP/?tag=tole
 
 ℹ️:
 
-- Réduction active du bruit pour un son profondément immersif
-- Accès rapide à Siri en disant « Dis Siri »
-- Plus de 24 heures d’autonomie avec le boîtier de charge sans fil
-- Résistance à l’eau et à la transpiration
 - Configuration facile pour tous vos appareils Apple
 - Égalisation adaptative qui calibre automatiquement la musique en fonction de la forme de votre oreille
-- Trois tailles d’embouts fuselés en silicone souple pour un confort personnalisé
+- Accès rapide à Siri en disant « Dis Siri »
+- Plus de 24 heures d’autonomie avec le boîtier de charge sans fil
 - Mode Transparence pour entendre ce qu’il se passe autour de vous et interagir avec le monde qui vous entoure
+- Résistance à l’eau et à la transpiration
+- Réduction active du bruit pour un son profondément immersif
+- Trois tailles d’embouts fuselés en silicone souple pour un confort personnalisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZPML7NP/?tag=tolees0d-21)
