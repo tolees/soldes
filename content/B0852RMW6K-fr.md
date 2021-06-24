@@ -28,10 +28,10 @@ Vous avez [Ruwhere - Palette de maquillage lumineux de 78 couleurs  palette dura
 
 ℹ️:
 
-- ★ Poudre brillante exquise, texture délicate et douce, facile à appliquer. Imperméable et durable, ce qui vous rendra parfait tout au long de la journée.
 - ★ Comprend 60 ombres à paupières, 3 couleurs, 12 couleurs de rouge à lèvres et 3 couleurs, satisfait les besoins de base en maquillage, facile à utiliser. Vous pouvez mélanger et assortir nimporte quelle couleur pour créer le look parfait.
 - ★ Il peut être appliqué seul pour obtenir un effet dramatique ou mixte, créer une apparence personnalisée et présenter une excellente ductilité, une forte adhérence, sans décoloration. Convient pour différentes occasions, telles quinformelles, salons, fêtes, mariages, etc.
-- ★ Nendommage pas et nirrite pas la peau des yeux, il donne à la peau une protection naturelle. Ingrédients sûrs et de haute qualité. Il peut être utilisé sur la partie supérieure de la lèvre, du visage et du corps.
+- ★ Poudre brillante exquise, texture délicate et douce, facile à appliquer. Imperméable et durable, ce qui vous rendra parfait tout au long de la journée.
 - ★ Un rendu des couleurs intense peut vous aider à créer un maquillage facial distinctif. Design délicat, avec toutes les fonctions, haute capacité, très pratique. Il est idéal pour le maquillage quotidien et professionnel.
+- ★ Nendommage pas et nirrite pas la peau des yeux, il donne à la peau une protection naturelle. Ingrédients sûrs et de haute qualité. Il peut être utilisé sur la partie supérieure de la lèvre, du visage et du corps.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0852RMW6K/?tag=tolees0d-21)
