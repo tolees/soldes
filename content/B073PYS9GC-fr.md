@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'METRONIC CAMSAT - Récepteur Satellite Mo avec 38.21 % rabais '
-date: 2021-06-12 00:18:31
+date: 2021-06-25 21:04:15
 image: 'https://m.media-amazon.com/images/I/41r4e7sg+gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [METRONIC CAMSAT - Récepteur Satellite Module PCMCIA Fransat 1 3
 
 ℹ️:
 
+- Compatible 4K. Basse consommation < 0,5W
+- Mise à jour par satellite
 - Pas de télécommande supplémentaire requise, utilisez une seule télécommande : celle de votre TV
+- Compatible avec les TV UHD labellisés par FRANSAT. Non compatible avec le satellite ASTRA
 - Installation et classement automatique des chaînes
 - Carte d’accès FRANSAT incluse
-- Compatible 4K. Basse consommation < 0,5W
-- Compatible avec les TV UHD labellisés par FRANSAT. Non compatible avec le satellite ASTRA
-- Mise à jour par satellite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073PYS9GC/?tag=tolees0d-21)
