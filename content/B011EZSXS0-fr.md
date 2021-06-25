@@ -28,10 +28,10 @@ Vous avez [GARDINIA Store Plissé à Clipser  Opaque  Kit de Montage Inclus  Sto
 
 ℹ️:
 
+- Réglage libre de la hauteur du store plissé à l’aide de 2 rails avec poignées de commande, Ajustement facile de la largeur par découpe (voir vidéo)
 - Montage facile avec 4 supports à clipser sur les parties supérieure et inférieure du châssis (Profondeur daccroche: 6-30 mm), Supports en plastique résistant aux UV, Pas de balancement même sur une fenêtre oscillo-battante, Pas de marque sur le châssis après démontage du store
 - Store plissé élégant avec subtils motifs floraux pour fenêtre standard, Réglage libre de la hauteur avec rails de commande, Protection contre le soleil et les regards translucide mais opaque, Pose sans perçage
 - Touche décorative pour fenêtre: hauteur réglable et système moderne de plis de 20 mm de largeur, Nettoyage facile avec une brosse douce, Fixation possible avec supports à coller ou supports à visser sur la parclose (vendus séparément)
-- Réglage libre de la hauteur du store plissé à l’aide de 2 rails avec poignées de commande, Ajustement facile de la largeur par découpe (voir vidéo)
 - Contenu: 1 x GARDINIA EASYFIX Store plissé à clipser, Matériel de montage inclus, Motif fleurs, Blanc, Tissu dévoré, 100% Polyester, 4 supports à clipser de grande qualité, 90 x 130 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B011EZSXS0/?tag=tolees0d-21)
