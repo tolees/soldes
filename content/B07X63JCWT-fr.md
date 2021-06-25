@@ -28,9 +28,9 @@ C'est en vente [Nokia 800 Tough 6 1 cm  2.4"  Double SIM Hybride KaiOS 4G Micro-
 
 ℹ️:
 
-- Jusquà 43 jours dautonomie en veille sur une seule charge.
-- IP68 résistant à leau et à la poussière, protection contre les chutes et conforme à la norme MIL-STD-810G.
-- Boutons en caoutchouc robustes pour une utilisation facile avec des gants.
 - Facebook et WhatsApp préinstallés. Fonctionnalité du point daccès Wi-Fi.
+- Jusquà 43 jours dautonomie en veille sur une seule charge.
+- Boutons en caoutchouc robustes pour une utilisation facile avec des gants.
+- IP68 résistant à leau et à la poussière, protection contre les chutes et conforme à la norme MIL-STD-810G.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X63JCWT/?tag=tolees0d-21)

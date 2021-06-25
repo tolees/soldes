@@ -29,9 +29,9 @@ C'est en vente [Les Tropéziennes par M. Belarbi HAMAT  Sandales Bride Arriere F
 ℹ️:
 
 - Cuir irisé
-- P-E 2019
 - Femme
-- Ces Sandales et nu-pieds en Cuir irisé se composent dune tige en Cuir et dune hauteur de talon de 2 cm
 - LES TROPEZIENNES
+- Ces Sandales et nu-pieds en Cuir irisé se composent dune tige en Cuir et dune hauteur de talon de 2 cm
+- P-E 2019
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BL113KY/?tag=tolees0d-21)

@@ -28,15 +28,15 @@ C'est en vente [Beats by Dr. Dre - Casque Beats Solo Pro sans fil avec réductio
 
 ℹ️:
 
-- Compatible avec iOS et Android
-- Le mode Réduction active du bruit bloque les bruits extérieurs
-- Contenu du coffret : casque Beats Solo Pro sans fil avec réduction du bruit, étui de transport, câble de charge Lightning vers USB-A, guide de démarrage rapide et carte de garantie
-- Grâce à la technologie Fast Fuel, quand la batterie est faible, une charge de 10 minutes offre 3 heures découte
-- Jusquà 22 heures découte (jusquà 40 heures lorsque les modes Réduction active du bruit et Transparence sont désactivés)
-- Grâce au mode Transparence, vous restez attentif à votre environnement lorsque vous écoutez votre musique
 - Pliez et dépliez ce casque Bluetooth sans fil pour léteindre et lallumer
-- Casque sans fil haute performance avec réduction du bruit
+- Le mode Réduction active du bruit bloque les bruits extérieurs
 - Grâce aux commandes mains libres avec « Dis Siri » sur les appareils iOS ou au contrôle vocal dun simple appui sur le bouton « b » sur un large éventail dappareils compatibles, écoutez votre musique en totale immersion
+- Jusquà 22 heures découte (jusquà 40 heures lorsque les modes Réduction active du bruit et Transparence sont désactivés)
 - Équipé de la puce Apple H1 pour casques et écouteurs ainsi que de la technologie Bluetooth classe 1 pour une portée plus élevée et moins de pertes de connexion
+- Compatible avec iOS et Android
+- Grâce au mode Transparence, vous restez attentif à votre environnement lorsque vous écoutez votre musique
+- Grâce à la technologie Fast Fuel, quand la batterie est faible, une charge de 10 minutes offre 3 heures découte
+- Casque sans fil haute performance avec réduction du bruit
+- Contenu du coffret : casque Beats Solo Pro sans fil avec réduction du bruit, étui de transport, câble de charge Lightning vers USB-A, guide de démarrage rapide et carte de garantie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YYYXRNK/?tag=tolees0d-21)

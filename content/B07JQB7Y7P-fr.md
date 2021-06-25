@@ -28,7 +28,7 @@ C'est en vente [JACK & JONES Jjiglenn Jjoriginal Am Noos Jeans  Black Denim Blac
 
 ℹ️:
 
-- Fermeture: bouton
 - elastic cotton mixture
+- Fermeture: bouton
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JQB7Y7P/?tag=tolees0d-21)

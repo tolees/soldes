@@ -28,8 +28,8 @@ C'est en vente [Samsung Chargeur Secteur Ultra Rapide 25W Blanc](https://www.ama
 
 ℹ️:
 
-- Cble USB-C/USB-C (1M) - jusquà 25W - Design pratique - Port universel USB-C - Ultra Fast Charge
 - 1 port USB Type-C - Compatibilité charge ultra rapide 25W
 - Chargeur ultra rapide 25W et cble USB-C/USB-C Samsung
+- Cble USB-C/USB-C (1M) - jusquà 25W - Design pratique - Port universel USB-C - Ultra Fast Charge
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TV8N1HR/?tag=tolees0d-21)
