@@ -28,11 +28,11 @@ Vous avez [Michelin MPX19EH Nettoyeur Haute Pression  1900 W  140 bar  460 l/h ]
 
 ℹ️:
 
-- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
-- Pression (bar) max. 140; Puissance absorbée (kW) 1, 9; Débit (L/h) max. 460; Température eau dalimentation (°C) max. 50
-- Avec enrouleur, manche télescopique et porte-accessoires intégré au dos de lappareil
 - Total stop System: le nettoyeur haute pression séteint dès que la gâchette du pistolet est relâchée pour diminuer lusure et la consommation électrique
-- Équipement: pistolet, lance et flexible à haute pression (6 m), rotabuse, buse à jet réglable et kit canon à mousse
+- Avec enrouleur, manche télescopique et porte-accessoires intégré au dos de lappareil
+- Pression (bar) max. 140; Puissance absorbée (kW) 1, 9; Débit (L/h) max. 460; Température eau dalimentation (°C) max. 50
 - Nettoyeur haute pression idéal pour nettoyer les motos, les autos, les fourgons, les camions et les surfaces domestiques extérieures
+- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
+- Équipement: pistolet, lance et flexible à haute pression (6 m), rotabuse, buse à jet réglable et kit canon à mousse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PSPNSX8/?tag=tolees0d-21)
