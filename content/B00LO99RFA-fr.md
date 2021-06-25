@@ -28,11 +28,11 @@ C'est en vente [Philips S9031/13  Rasoir électrique Series 9000 + tondeuse de 
 
 ℹ️:
 
-- 50 min dautonomie pour 1h de charge
 - Lames V-Track Precision pour une meilleure capture du poil
 - Étanche
-- Accessoire : Tondeuse de précision
 - AquaTec : 100 % étanche utilisable à sec ou avec du gel ou de la mousse
+- 50 min dautonomie pour 1h de charge
 - Technologie Contour Detect : tête flexible dans 8 directions
+- Accessoire : Tondeuse de précision
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00LO99RFA/?tag=tolees0d-21)
