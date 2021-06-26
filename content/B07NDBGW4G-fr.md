@@ -28,14 +28,14 @@ Vous avez [LEGO 42100 Technic La Pelleteuse Liebherr R 9800  Ensemble de Con
 
 ℹ️:
 
-- Inclut 3 moteurs XL, 4 moteurs L et 2 hubs sophistiqués contrôlés par Bluetooth.
-- Ce modèle de pelleteuse peut être commandé avec lapplication LEGO TECHNIC CONTROL+, pour une expérience de jeu des plus immersive et réaliste.
-- Mouvements personnalisés : lutilisateur peut utiliser des commandes prédéfinies ou enregistrer les actions du modèle pour créer des séquences complexes de mouvements.
-- Lapplication permet aux utilisateurs de se connecter à plusieurs hubs et deffectuer des mouvements précis et réalistes.
-- Commande par touche unique : faire glisser le doigt sur lécran en suivant lun des motifs permet de faire bouger le bras selon la commande.
 - Défis et victoires : relever des défis permet de gagner des récompenses.
 - Commande multifonction : avancer, reculer, tourner, faire pivoter la superstructure, étendre, élever et abaisser le bras, ouvrir et incliner le godet, et consulter en temps réel des informations telles que la position du bras et de la superstructure, la consommation dénergie et la distance parcourue.
+- Ce modèle de pelleteuse peut être commandé avec lapplication LEGO TECHNIC CONTROL+, pour une expérience de jeu des plus immersive et réaliste.
 - Une réplique de la pelleteuse Liebherr R 9800 avec des détails et des fonctions réalistes, complétée par des coloris authentiques agrémentés dautocollants.
+- Mouvements personnalisés : lutilisateur peut utiliser des commandes prédéfinies ou enregistrer les actions du modèle pour créer des séquences complexes de mouvements.
+- Commande par touche unique : faire glisser le doigt sur lécran en suivant lun des motifs permet de faire bouger le bras selon la commande.
+- Inclut 3 moteurs XL, 4 moteurs L et 2 hubs sophistiqués contrôlés par Bluetooth.
+- Lapplication permet aux utilisateurs de se connecter à plusieurs hubs et deffectuer des mouvements précis et réalistes.
 - Les hubs sophistiqués intègrent la technologie Bluetooth Low Energy (BLE) et comprennent un bouton dactivation, un capteur 6 axes ainsi que 4 ports de connexion.
 - La pelleteuse Liebherr R 9800 LEGO Technic peut être contrôlée via un smartphone ou une tablette, avec 4 écrans différents. Pour obtenir la liste des dispositifs compatibles : LEGO.com/devicecheck.
 
