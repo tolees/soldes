@@ -1,19 +1,19 @@
 ---
 layout: post
-title: '20.57 % rabais sur Bosch 0 242 129 510 Bougie All. Nickel V'
-date: 2021-06-24 20:45:57
+title: '20.57 % rabais sur Bosch Automotive 0242129510 Bougie Allum'
+date: 2021-06-26 05:21:55
 image: 'https://m.media-amazon.com/images/I/21C1WwT2-9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00BJM080K-fr Bosch 0 242 129 510 Bougie All. Nickel Vr8Sc+'
+slug: 'B00BJM080K-fr Bosch Automotive 0242129510 Bougie Allumage'
 sku: 'B00BJM080K-fr'
 tags: [ 'Allumages moto','Auto et Moto','Auto et moto','Moteurs et pièces de moteur pour moto','Motos, accessoires et pièces','bosch', ]
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78
 comparePrice: 3.5 EUR
-prodname: 'Bosch 0 242 129 510 Bougie All. Nickel Vr8Sc+'
+prodname: 'Bosch Automotive 0242129510 Bougie Allumage'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Bosch'
@@ -22,18 +22,18 @@ descuento: '20.57'
 average: '2.78'
 ---
 
-Vous avez [Bosch 0 242 129 510 Bougie All. Nickel Vr8Sc+](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)  à  20.57 % de réduction, prix final  2.78 EUR (original: 3.5 EUR) ici:
+Vous avez [Bosch Automotive 0242129510 Bougie Allumage](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)  à  20.57 % de réduction, prix final  2.78 EUR (original: 3.5 EUR) ici:
 
-[![Bosch 0 242 129 510 Bougie All. Nickel V](https://m.media-amazon.com/images/I/21C1WwT2-9S._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)
+[![Bosch Automotive 0242129510 Bougie Allum](https://m.media-amazon.com/images/I/21C1WwT2-9S._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)
 
 ℹ️:
 
-- Numéro de pièce équivalent OEM : CHAMPION:OE130,NGK:6799,NGK:LZKAR 7A,BERU:12 VR-8 SE,BERU:Z 243,BOSCH:VR8SC+,CHAMPION:REA 8MCL,BOSCH:0 242 129 801,EYQUEM:RWC52HSK
-- Grande robustesse: Céramique spéciale qui assure une résistance diélectrique élevée.
-- Protection contre la corrosion: Grâce à son filetage en nickel.
-- Performances optimales du moteur: La bonne électrode, comme recommandée par les constructeurs.
-- Type dajustement : Spécifique au véhicule
-- Haute résistance à lusure: Conductivitée thermique élevée qui protège contre les surcharges, la corrosion et lérosion.
-- Longue durée de vie: Electrode centrale soudée au laseren continu pour une durée de vie allongée des bougies à méteaux précieux.
+- Veuillez noter que les numéros de référence OE spécifiés ne constituent pas une liste exhaustive. Utilisez les outils de recherche de pièces en haut de cette page pour trouver la bougie dallumage adaptée pour votre véhicule
+- Protection contre la corrosion : protection exceptionnelle du moteur grâce au filetage avec revêtement en nickel anti corrosion
+- Grande fiabilité : excellent comportement lors du démarrage à froid
+- Favorise une performance optimale du moteur : fonctionnement fluide du moteur et accélération régulière
+- Veuillez utiliser lidentification du véhicule pour confirmer la compatibilité avec votre véhicule. Toutes les restrictions doivent être respectées
+- Bougies faciles à remplacer : écartement des électrodes préréglé en usine, aucun réglage nécessaire ; Bosch conseille de ne pas lubrifier le filetage ; couple de serrage et angle à respecter lors du montage mentionnés sur lemballage
+- Résistance à lusure et robustesse élevées : céramique spéciale à haute résistance diélectrique et mécanique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BJM080K/?tag=tolees0d-21)

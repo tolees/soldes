@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Glaive PRO RGB FPS/MOBA Optique  avec 37.50 % rabais '
-date: 2021-06-24 20:47:38
+date: 2021-06-26 05:26:00
 image: 'https://m.media-amazon.com/images/I/41owHBGZCoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.fr/dp/B07QD1DG9Z/?tag=tolees0d-21'
 descuento: '37.50'
-average: '53.3233333333333'
+average: '52.49'
 ---
 
 C'est en vente [Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI Optique Capteur  Revêtements Antidérapants Interchangeables  Rétroéclairage LED RGB  - Aluminium](https://www.amazon.fr/dp/B07QD1DG9Z/?tag=tolees0d-21)  à  37.50 % de réduction, prix final  49.99 EUR (original: 79.99 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI 
 
 ℹ️:
 
+- Forme profilée confortable : s’adapte naturellement à la paume de votre main pour que vous puissiez jouer plus longtemps
+- Revêtements antidérapants interchangeables pour le pouce : trois revêtements antidérapants interchangeables pour le pouce inclus permettant à la souris d’épouser parfaitement la forme de votre main
+- Câble: Fibre tressée de 1,8 m
 - Capteur optique personnalisé de qualité gaming de 18 000 DPI : ajustable par paliers de résolution d’1 DPI pour des performances fiables et très précises
 - Switchs Omron hautes performances prévus pour 50 millions de clics : profitez d’une excellente durabilité de la souris pendant des années de gaming
-- Revêtements antidérapants interchangeables pour le pouce : trois revêtements antidérapants interchangeables pour le pouce inclus permettant à la souris d’épouser parfaitement la forme de votre main
 - Éclairage RGB dynamique sur trois zones : personnalisez votre expérience de gaming à l’aide d’un très large éventail de couleurs et d’effets de rétroéclairage RGB
-- Câble: Fibre tressée de 1,8 m
-- Forme profilée confortable : s’adapte naturellement à la paume de votre main pour que vous puissiez jouer plus longtemps
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QD1DG9Z/?tag=tolees0d-21)
