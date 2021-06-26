@@ -28,8 +28,8 @@ Vous avez [Electraline PINCECOLL Pince de fixation](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- pince fixation collier
 - Serre et coupe à la longueur
 - Pince
+- pince fixation collier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EAQMIDM/?tag=tolees0d-21)
