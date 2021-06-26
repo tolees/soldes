@@ -28,9 +28,9 @@ Vous avez [Revell - 05715 - Maquette - Coffret Cadeau 100 Ans de Titanic - Speci
 
 ℹ️:
 
-- Descriptif produit : Maquette plastique à monter et à peindre.
 - Nécessite des piles: Non
-- Longeur: 67 cm
 - Contenu du packaging: 1 maquette à peindre et à coller, 6 principales peintures acryliques, colle, pinceau, 3 cartes postales originales, réédition d’une carte de menu de la 1ère classe et d’une brochure publicitaire historique de la White Star Line.
+- Descriptif produit : Maquette plastique à monter et à peindre.
+- Longeur: 67 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004DZOHPM/?tag=tolees0d-21)
