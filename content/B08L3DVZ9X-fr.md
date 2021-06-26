@@ -28,10 +28,10 @@ C'est en vente [iAmer Chargeur pour Manette PS5 Chargeur Manette PS5 Station de 
 
 ℹ️:
 
-- 【Facile à transporter】 -La conception rationalisée est non seulement lisse,chargeur de contrôleur ps5 peut être chargé par alimentation USB, alimentation mobile, PC, ordinateur portable, etc, sans se limiter au système PS5, pratique et rapide, et peut être chargé à tout moment et nimporte où.
-- 【Conception antidérapante 】 La double station de charge qui est robuste et durable. Le fond a 4 patins antidérapants maintiennent le chargeur en place pour empêcher la station de charge de bouger et de tomber.
-- 【Chargeur rapide pour Manette PS5】 Le Manette PS5 Chargeur iAmer vous permet de charger 2 manettes PS5 en même temps sans connecter au PS5 Console, elles seront complètement chargées dans les ≤ 4 heures.(600mA de puissance par contrôleur)
-- 【Vous obtiendrez】1 * station de charge pour manette PS5; 1 * USB câble; 1*Mode demploi ;Si vous avez des questions sur le produit, nhesiste de nous cotacter, nous sommes toujours à votre disposition.
 - 【 Intelligente protection multiple】Ce chargeur de contrôleur PS5 dispose dune puce de protection intelligente intégrée, avec protection contre les surtensions, protection contre les surintensités et protection contre la surchauffe. Il éteindra automatiquement lalimentationlorsquil sera complètement chargé pour protéger votre poignée. (Remarque : veuillez utiliser un adaptateur dalimentation 5V 2A pour alimenter lalimentation).
+- 【Chargeur rapide pour Manette PS5】 Le Manette PS5 Chargeur iAmer vous permet de charger 2 manettes PS5 en même temps sans connecter au PS5 Console, elles seront complètement chargées dans les ≤ 4 heures.(600mA de puissance par contrôleur)
+- 【Conception antidérapante 】 La double station de charge qui est robuste et durable. Le fond a 4 patins antidérapants maintiennent le chargeur en place pour empêcher la station de charge de bouger et de tomber.
+- 【Vous obtiendrez】1 * station de charge pour manette PS5; 1 * USB câble; 1*Mode demploi ;Si vous avez des questions sur le produit, nhesiste de nous cotacter, nous sommes toujours à votre disposition.
+- 【Facile à transporter】 -La conception rationalisée est non seulement lisse,chargeur de contrôleur ps5 peut être chargé par alimentation USB, alimentation mobile, PC, ordinateur portable, etc, sans se limiter au système PS5, pratique et rapide, et peut être chargé à tout moment et nimporte où.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L3DVZ9X/?tag=tolees0d-21)
