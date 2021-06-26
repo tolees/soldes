@@ -28,10 +28,10 @@ Vous avez [Ravensburger - Strike Harry Potter - Jeu d ambiance - Idéal pour l a
 
 ℹ️:
 
-- Contient 26 dés gravé et en couleurs ! 2 à 5 joueurs. A partir de 8 ans.
-- Tous à vos baguettes ! Affrontez-vous dans de grands duels de magie ! Lancez les dés dans l’arène pour lancer Confundo, Wingardium Leviosa, Stupéfix et bien d’autres sorts du Monde des Sorciers. Les symboles identiques obtenus ont tous un effet magique différent et vous permettront de récupérer les dés correspondants. Plus la partie progresse, plus vous perdrez ou gagnerez de nouveaux dés. Le dernier Sorcier à avoir encore des dés remportera la partie !
-- Mise en place ultra-rapide : se joue dans la boîte grâce à larène intégrée !
-- Des règles simples, des parties courtes. Jouable avec la règle classique de Strike ou en mode bataille de sorts Harry Potter.
 - Une version thématisée de Strike, le fameux jeu de dés et dadresse : maintenant les dés ont des pouvoirs !
+- Tous à vos baguettes ! Affrontez-vous dans de grands duels de magie ! Lancez les dés dans l’arène pour lancer Confundo, Wingardium Leviosa, Stupéfix et bien d’autres sorts du Monde des Sorciers. Les symboles identiques obtenus ont tous un effet magique différent et vous permettront de récupérer les dés correspondants. Plus la partie progresse, plus vous perdrez ou gagnerez de nouveaux dés. Le dernier Sorcier à avoir encore des dés remportera la partie !
+- Contient 26 dés gravé et en couleurs ! 2 à 5 joueurs. A partir de 8 ans.
+- Des règles simples, des parties courtes. Jouable avec la règle classique de Strike ou en mode bataille de sorts Harry Potter.
+- Mise en place ultra-rapide : se joue dans la boîte grâce à larène intégrée !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084DSLYVR/?tag=tolees0d-21)
