@@ -28,10 +28,10 @@ Vous avez [Bandai Namco Entertainment - Captain Tsubasa: Rise of New Champions -
 
 ℹ️:
 
-- 2 MODES HISTOIRE : Vivez les événements de l’anime, ou décidez de faire partie intégrante du monde de Captain Tsubasa.
-- FORMEZ L’ÉQUIPE DE VOS RÊVES : Créez vos propres personnages dotés de compétences et d’aptitudes uniques et formez l’équipe ultime.
-- BIEN PLUS QU’UN DU JEU DE FOOT : Tirez parti de chacun de vos joueurs, grâce à leur « Jauge d’âme », aux « Compétences » et aux « Coups Spéciaux » qui leur sont attribués.
 - MODE 4 JOUEURS : Qui sera la prochaine légende du foot parmi vos amis ? Découvrez-le lors de matchs mouvementés !
+- FORMEZ L’ÉQUIPE DE VOS RÊVES : Créez vos propres personnages dotés de compétences et d’aptitudes uniques et formez l’équipe ultime.
+- 2 MODES HISTOIRE : Vivez les événements de l’anime, ou décidez de faire partie intégrante du monde de Captain Tsubasa.
 - EN LIGNE : Jouez pour la gloire, face aux joueurs du monde entier !
+- BIEN PLUS QU’UN DU JEU DE FOOT : Tirez parti de chacun de vos joueurs, grâce à leur « Jauge d’âme », aux « Compétences » et aux « Coups Spéciaux » qui leur sont attribués.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21)

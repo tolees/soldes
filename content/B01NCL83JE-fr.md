@@ -30,7 +30,7 @@ C'est en vente [AFEITA BRAUN 300S RED SERIE3](https://www.amazon.fr/dp/B01NCL83J
 
 - Technologie batterie: Hybrides nickel-métal (NiMH)
 - Type décran: LED. Source dalimentation: Batterie/Pile
-- Braun Series 3 300s. Système de rasage: Rasoir à grille. Couleur du produit: Noir
 - Profondeur du colis: 112 mm
+- Braun Series 3 300s. Système de rasage: Rasoir à grille. Couleur du produit: Noir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NCL83JE/?tag=tolees0d-21)

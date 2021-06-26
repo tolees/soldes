@@ -28,8 +28,8 @@ Vous avez [New Balance 997H Core  Baskets Homme  Pigment  42 EU](https://www.ama
 
 ℹ️:
 
+- Voir la description de produit ci-dessous pour plus dinformations.
 - Neuf et authentique. Nous sommes un vendeur autorisé de New Balance.
 - New Balance Bleu Baskets en daim 997H
-- Voir la description de produit ci-dessous pour plus dinformations.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DJ2FF2S/?tag=tolees0d-21)

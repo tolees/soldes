@@ -28,11 +28,11 @@ C'est en vente [Sony WF-SP800N Ecouteurs sans fil bluetooth à réduction de bru
 
 ℹ️:
 
-- Connectivité Bluetooth stable et fiable avec transmission du son en simultané Gauche / Droite et antenne optimisée
-- Jusquà 18 heures dautonomie (9h dans les écouteurs WF-SP800N + 9h dans létui de charge)
-- Réduction de bruit numérique : pas de distraction
 - Résistants à leau et à la poussière ( protection IP55 contre leau et la poussière, les écouteurs WF-SP800N peuvent même être lavés.)
 - Composants inclus : Câble USB
 - Ajustement parfait avec stabilisateur rembourré et design 3D incurvé pour un maintien sûr et impeccable
+- Réduction de bruit numérique : pas de distraction
+- Connectivité Bluetooth stable et fiable avec transmission du son en simultané Gauche / Droite et antenne optimisée
+- Jusquà 18 heures dautonomie (9h dans les écouteurs WF-SP800N + 9h dans létui de charge)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0886Y9PJH/?tag=tolees0d-21)
