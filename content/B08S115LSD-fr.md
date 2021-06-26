@@ -28,8 +28,8 @@ C'est en vente [Electronic Arts - It Takes Two  PS4 ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Invitez une autre personne à jouer gratuitement avec le pass ami**, et relevez à deux une multitude de défis amusants et originaux
 - Partez pour le périple le plus déjanté de votre vie avec it takes two, un jeu de plateformes/aventure transcendant les genres créé exclusivement pour la coopération
 - Incarnez cody et may, un couple au bord de la rupture transformé en poupées par un sortilège.
+- Invitez une autre personne à jouer gratuitement avec le pass ami**, et relevez à deux une multitude de défis amusants et originaux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08S115LSD/?tag=tolees0d-21)

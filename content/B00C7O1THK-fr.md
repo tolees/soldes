@@ -28,13 +28,13 @@ C'est en vente [Pyrex 4936456 Cook&store Plat À Four En Verre Carré Avec Avec 
 
 ℹ️:
 
+- Usage polyvalent, idéal pour cuire au four (sans couvercle), conserver au réfrigérateur puis réchauffer au micro-ondes (sans couvercle)
+- Nettoyage facile au lave-vaisselle
 - Fabriqué en France
 - Garantie 10 ans
-- Plats empilables et gigognes pour un gain de place et un rangement optimisé
 - Verre borosilicate Pyrex : résistance au four jusquà 300°C, résistant aux chocs thermiques : peut passer du congélateur à -20°C au four à 240°C
+- Plats empilables et gigognes pour un gain de place et un rangement optimisé
 - Différentes tailles pour tous les usages du quotidien
-- Nettoyage facile au lave-vaisselle
 - Couvercle sans BPA
-- Usage polyvalent, idéal pour cuire au four (sans couvercle), conserver au réfrigérateur puis réchauffer au micro-ondes (sans couvercle)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00C7O1THK/?tag=tolees0d-21)

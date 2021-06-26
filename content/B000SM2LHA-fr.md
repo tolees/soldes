@@ -28,12 +28,12 @@ Vous avez [Lacor 54218 Casserole Chef Luxe Diamètre 18 cm](https://www.amazon.f
 
 ℹ️:
 
-- Litrage : 2,25 L
-- Hauteur : 9 cm
-- Acier inox 18/10 avec fond triple type "sandwich"
-- Diamètre 18 cm
-- Casserole Chef Luxe
-- Compatible tous feux y compris induction
 - Fond triple sandwich
+- Hauteur : 9 cm
+- Diamètre 18 cm
+- Acier inox 18/10 avec fond triple type "sandwich"
+- Compatible tous feux y compris induction
+- Litrage : 2,25 L
+- Casserole Chef Luxe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000SM2LHA/?tag=tolees0d-21)

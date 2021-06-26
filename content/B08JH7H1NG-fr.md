@@ -28,10 +28,10 @@ C'est en vente [Corsair MM300 PRO Tapis de Souris Gaming  Tissu Résistant aux �
 
 ℹ️:
 
+- Taille étendue : Peut accueillir tant votre souris que votre clavier gaming grâce à sa surface étendue de 930 mm sur 300 mm
 - Résistant aux taches et aux éclaboussures : Les liquides glissent sans s’accrocher à la surface, facilitant ainsi le nettoyage du tapis de souris même après un accident
 - Conception en caoutchouc rugueux de 3 mm : Confort exceptionnel pour de longues séances de jeu
 - Textile micro-maille : Crée une surface compacte, parfaite pour des mouvements de souris rapides et fluides
-- Taille étendue : Peut accueillir tant votre souris que votre clavier gaming grâce à sa surface étendue de 930 mm sur 300 mm
 - Contours anti-effilochement cousus et résistants : Contours cousus à 360 degrés pour protéger contre l’effilochement de la surface
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JH7H1NG/?tag=tolees0d-21)

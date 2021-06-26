@@ -28,10 +28,10 @@ Vous avez [EAU THERMALE JONZAC Gel Douche Bio Surgras Nutritive 250 ml - Lot de 
 
 ℹ️:
 
-- Ce gel douche est idéal pour lhygiène des peaux sèches à très sèches, même sensibles
 - La formule du gel douche bio surgras nettoie votre peau tout en douceur
+- Ce gel douche est idéal pour lhygiène des peaux sèches à très sèches, même sensibles
+- Il convient à toute la famille: bébés, enfants, adultes
 - Elle renforce la barrière protectrice de la peau pour un confort amélioré dès la première douche
 - Elle laide à apaiser les zones de sécheresse, même sévères
-- Il convient à toute la famille: bébés, enfants, adultes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079Z2LGD2/?tag=tolees0d-21)
