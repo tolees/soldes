@@ -28,9 +28,9 @@ C'est en vente [Design Toscano Statue fée Clochette  ivoire antique](https://ww
 
 ℹ️:
 
+- Dimensions: 34.5 x 19 x 34.5 cm 1.75 kg
+- Moulée à la main avec des véritables pierres concassées assemblées avec de la résine de haute qualité
 - Une exclusivité de la marque Design Toscano parfaite pour votre maison et votre jardin
 - Chaque pièce est terminée individuellement à la main par nos artisans
-- Moulée à la main avec des véritables pierres concassées assemblées avec de la résine de haute qualité
-- Dimensions: 34.5 x 19 x 34.5 cm 1.75 kg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007VIPW1Q/?tag=tolees0d-21)
