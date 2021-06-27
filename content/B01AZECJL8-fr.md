@@ -29,10 +29,10 @@ Vous avez [New Balance 500 Core  Baskets Homme  Navy  40.5 EU](https://www.amazo
 ℹ️:
 
 - Synthétique.
-- Type de tissu : textile, matière synthétique.
-- Printemps-été.
 - GM500
-- Basses
+- Printemps-été.
 - Pour homme.
+- Basses
+- Type de tissu : textile, matière synthétique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AZECJL8/?tag=tolees0d-21)

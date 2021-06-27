@@ -28,8 +28,8 @@ C'est en vente [The Noble Collection - Collectionneurs de Baguettes de la Collec
 
 ℹ️:
 
-- Fabriqué avec des détails exquis
-- Produit sous licence officielle
 - Créé par The Noble Collection
+- Produit sous licence officielle
+- Fabriqué avec des détails exquis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M9GJBP5/?tag=tolees0d-21)
