@@ -28,8 +28,8 @@ Vous avez [MENABO 000084900000 Tiger Silver](https://www.amazon.fr/dp/B01EHY0ZXQ
 
 ℹ️:
 
+- porte tout
 - aluminium
 - Barre
-- porte tout
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EHY0ZXQ/?tag=tolees0d-21)
