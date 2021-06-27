@@ -28,8 +28,8 @@ C'est en vente [Razer Kraken Kitty Quartz Edition - Casque de jeu USB Cat Ears  
 
 ℹ️:
 
-- Éclairage réactif à la diffusion qui réagit à votre public. Personnalisez exactement les couleurs et les effets utilisés dans l’application Streamer Companion (Compagnon du diffuseur)
 - Oreilles de chat illuminées par Razer Chroma: Avec 16,8 millions de couleurs, une suite d’effet et des oreillettes éclairées en plus de l’éclairage des oreilles de chat, vous pouvez personnaliser à souhait et arborer un look unique à chaque occasion. Sensibilité (@ 1 kHz): 109 dB
+- Éclairage réactif à la diffusion qui réagit à votre public. Personnalisez exactement les couleurs et les effets utilisés dans l’application Streamer Companion (Compagnon du diffuseur)
 - Conçu pour le confort et la durabilité Pour de longues heures d’utilisation
 - THX Spatial Audio: Découvrez le son surround 7.1 de THX Spatial Audio pour un audio positionnel précis et une immersion audio supérieure sur toutes vos plateformes de divertissement, des jeux intenses aux films épiques. *Uniquement disponible sur Windows 10 64 bits
 - Microphone avec annulation active du bruit: Disposez d’un son aussi cool que votre look : améliorez votre diffusion grâce à un micro rétractable de haute qualité, réglé pour bloquer tout bruit de fond

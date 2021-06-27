@@ -28,8 +28,8 @@ Vous avez [THQ NORDIC - Desperados 3 - Collector s Edition](https://www.amazon.f
 
 ℹ️:
 
+- Un packaging de qualité premium et 8 cartes postales desperados iii
 - L’artbook officiel desperados iii et la bande-son officielle du jeu sur cd
 - Une boîte à musique tournante desperados iii avec 5 figurines interchangeables (16 cm chacune)
-- Un packaging de qualité premium et 8 cartes postales desperados iii
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086RGHKNT/?tag=tolees0d-21)

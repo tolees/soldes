@@ -28,9 +28,9 @@ C'est en vente [New Balance 500 Core  Baskets Homme  Munsell White  41.5 EU](htt
 
 ℹ️:
 
-- Logo New Balance sur le côté et à larrière
-- Semelle intermédiaire et talon en mousse EVA pour un amortissement
 - Dessus en daim/nylon
 - Semelle extérieure en caoutchouc
+- Logo New Balance sur le côté et à larrière
+- Semelle intermédiaire et talon en mousse EVA pour un amortissement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJ28K1S/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Le Creuset  Cocotte Signature en Fonte Émaillée avec Couvercle
 
 ℹ️:
 
-- Fabriqué en France, Entretien facile grâce à son intérieur en émail de haute qualité, Passe au lave-vaisselle, Garantie à vie
-- Poignées dassistance pour une manipulation et un transport faciles, même avec des gants de cuisine
 - Contenu : 1 Cocotte Signature en fonte émaillée avec couvercle Le Creuset, Ronde, Ø 30 cm, Dimensions avec poignées et couvercle : 40.2 x 31.8 x 19.1 cm, Poids : 7.165 kg, Couleur : Cerise
 - Cocotte ronde en fonte idéale pour la préparation de délicieux plats mijotés, Couvercle en fonte émaillée avec bouton en inox résistant à la chaleur
+- Fabriqué en France, Entretien facile grâce à son intérieur en émail de haute qualité, Passe au lave-vaisselle, Garantie à vie
+- Poignées dassistance pour une manipulation et un transport faciles, même avec des gants de cuisine
 - Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes les sources de chaleur, y compris linduction, Finitions intérieures en émail résistant à lusure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00VA5HADO/?tag=tolees0d-21)

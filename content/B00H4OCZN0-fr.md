@@ -28,8 +28,8 @@ Vous avez [Varta Rechargez la Batterie Solaire AAA Micro  Batterie 550 mAh Ni-Mh
 
 ℹ️:
 
-- Tension des piles: 1,5 V
 - Facteur de forme de la batterie: Cylindrique
 - Technologie batterie: Alcaline
+- Tension des piles: 1,5 V
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00H4OCZN0/?tag=tolees0d-21)
