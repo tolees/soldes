@@ -28,15 +28,15 @@ Vous avez [Riviera-et-Bar QD794A Bread & Bagel Machine à Pain Inox](https://www
 
 ℹ️:
 
+- Affichage du cycle en cours : préchauffage, prétrissage, levée, cuisson et maintien au chaud
 - Chambre dévaporation pour diffuser de la vapeur indispensable à la cuisson des bagels
-- Fonction départ différé jusquà 13 heures
+- Distributeur automatique dingrédients
+- 17 programmes spécialisés et 10 programmes personnalisés pour mémoriser ses propres créations
 - Programme super rapide pour un pain prêt en 1 heure
-- Puissance : 1240 W
-- Exclusif, deux programmes spécial bagel (pétrissage/levée et cuisson) avec 3 plateaux dédiés à la réalisation de six bagels
 - Trois tailles de pain et trois niveaux de dorage
 - Sans bisphenol A ; Sans PFOA ; Garantie 2 ans pièces et main doeuvre
-- 17 programmes spécialisés et 10 programmes personnalisés pour mémoriser ses propres créations
-- Distributeur automatique dingrédients
-- Affichage du cycle en cours : préchauffage, prétrissage, levée, cuisson et maintien au chaud
+- Puissance : 1240 W
+- Exclusif, deux programmes spécial bagel (pétrissage/levée et cuisson) avec 3 plateaux dédiés à la réalisation de six bagels
+- Fonction départ différé jusquà 13 heures
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FEANTKE/?tag=tolees0d-21)
