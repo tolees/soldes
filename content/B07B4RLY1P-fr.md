@@ -29,7 +29,7 @@ C'est en vente [Antec HCG850 unité d alimentation d énergie 850 W ATX Noir - U
 ℹ️:
 
 - Produit destiné aux joueurs exigeants
-- Qualité de fabrication irréprochable
 - Immersion exceptionnelle
+- Qualité de fabrication irréprochable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B4RLY1P/?tag=tolees0d-21)

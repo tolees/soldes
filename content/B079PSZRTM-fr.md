@@ -28,9 +28,9 @@ C'est en vente [Panasonic - Personalcare ES-LV6Q-S803 | Rasoir 5 Lames dont 2 de
 
 ℹ️:
 
-- Le capteur de barbe détecte la densité de la barbe et contrôle la puissance de rasage
 - Le rasoir LV6Q offre un rasage plus précis et plus rapide. Ses 2 grilles de finition externes extra fines permettent un rasage d’encore plus près tout en protégeant la peau avec un système « Skincare Roller » pour éviter les frictions et les irriations
 - 1 bloc dalimentation, 1 étui de voyage, 1 brosse de nettoyage, 1 huile
+- Le capteur de barbe détecte la densité de la barbe et contrôle la puissance de rasage
 - Wet&Dry 2 en 1: rasoir utilisable sur peau sèche ou humide avec ou sans mousse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079PSZRTM/?tag=tolees0d-21)
