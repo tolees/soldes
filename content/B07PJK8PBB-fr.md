@@ -28,9 +28,9 @@ Vous avez [Devolo - Point D ACCES Point d accŠs Access Point One](https://www.a
 
 ℹ️:
 
-- Le style: Point daccès
-- séries : Devolo Access Point One, «Amplificateur WiFi» jusquà 2 Gbits/s (WiFi ac + WiFi n, 2,4 + 5 GHz), 4 ports Ethernet, extension facile du réseau.
 - Les dimensions du colis de larticle ( L x B x H) en cm : 8.1 x 24.3 x 19
+- Le style: Point daccès
 - Fabriqué en:- Chine
+- séries : Devolo Access Point One, «Amplificateur WiFi» jusquà 2 Gbits/s (WiFi ac + WiFi n, 2,4 + 5 GHz), 4 ports Ethernet, extension facile du réseau.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PJK8PBB/?tag=tolees0d-21)

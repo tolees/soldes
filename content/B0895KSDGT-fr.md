@@ -28,10 +28,10 @@ C'est en vente [Quantic Dream - Detroit Become Human Collector s Edition  PC ](h
 
 ℹ️:
 
-- Des pins de collection exclusifs et un code Steam du jeu en version digitale sur une carte collector
 - Créez un récit ambitieux avec des ramifications où vos décisions ne déterminent pas seulement le destin des 3 personnages principaux, mais celui de toute la ville de Detroit
 - La manière dont vous contrôlez Kara, Connor et Markus peut signifier la vie ou la mort, et si l’un d’eux paie le prix ultime, l’histoire continue toujours
-- Entrez dans un monde où dilemmes moraux et décisions difficiles peuvent transformer les androïdes esclaves en révolutionnaires prêts à changer le monde
 - Edition Collector incluant une magnifique figurine articulée de Kara de 27cm, avec éclairage led et une boîte de présentation modulable
+- Des pins de collection exclusifs et un code Steam du jeu en version digitale sur une carte collector
+- Entrez dans un monde où dilemmes moraux et décisions difficiles peuvent transformer les androïdes esclaves en révolutionnaires prêts à changer le monde
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0895KSDGT/?tag=tolees0d-21)

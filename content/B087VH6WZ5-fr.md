@@ -29,9 +29,9 @@ C'est en vente [Ubisoft - Assassin s Creed Valhalla - Limited Edition - Version 
 ℹ️:
 
 - Un système de combat viscéral
-- Faites grandir votre colonie
 - Écrivez votre propre saga viking
 - Un monde ouvert situé dans les âges obscurs du Moyen Âge
+- Faites grandir votre colonie
 - Menez des raids épiques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087VH6WZ5/?tag=tolees0d-21)

@@ -29,10 +29,10 @@ C'est en vente [LG PH30JG Projecteur de bureau 250ANSI lumens DLP 720p  1280x720
 ℹ️:
 
 - Langues du menu: 23 langues
-- Luminosit? du projecteur: 250 ANSI lumens
-- Modes vid?o pris en charge: 480p,576p,720p,1080i,1080p.
 - Type de lampe: LED - Dur?e de vie de la lampe: 30000 h
-- Technologie de projection: DLP - HD 720p
+- Luminosit? du projecteur: 250 ANSI lumens
 - R?solution native du projecteur: 720p (1280x720).
+- Modes vid?o pris en charge: 480p,576p,720p,1080i,1080p.
+- Technologie de projection: DLP - HD 720p
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0759VT1ZN/?tag=tolees0d-21)
