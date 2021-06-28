@@ -28,10 +28,10 @@ Vous avez [Schneider 746-02 Parasol Salerno Rectangulaire  Naturel  300 x 150 cm
 
 ℹ️:
 
-- housse de protection en polyester gris avec fermeture ? glissi?re et barre incluse
-- Ouverture, fermeture et inclinaison possibles dans les lieux les plus exigus, cest-?-dire entre le parapet du balcon et l`?tage du dessus.
-- 100 % polyester, env. 180 g/m?, imputrescible, imperm?abilis?e
 - UV-protection 50+ excellent as/Nzs4399: 1996
+- 100 % polyester, env. 180 g/m?, imputrescible, imperm?abilis?e
 - pôle en deux parties 38 mm ø
+- Ouverture, fermeture et inclinaison possibles dans les lieux les plus exigus, cest-?-dire entre le parapet du balcon et l`?tage du dessus.
+- housse de protection en polyester gris avec fermeture ? glissi?re et barre incluse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSCXHF/?tag=tolees0d-21)
