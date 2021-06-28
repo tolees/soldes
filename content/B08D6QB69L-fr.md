@@ -30,7 +30,7 @@ C'est en vente [Samsung Note20 256GB  Gris](https://www.amazon.fr/dp/B08D6QB69L/
 
 - SM-N980FZAGEUB
 - Dimensions de lemballage de larticle: 20.0 x 20.0 x 20.0 cm
-- Poids du colis: 1.0 Kg
 - Fabriqué en Chine
+- Poids du colis: 1.0 Kg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08D6QB69L/?tag=tolees0d-21)
