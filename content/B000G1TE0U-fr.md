@@ -28,9 +28,9 @@ Vous avez [75 Jahre [Import]](https://www.amazon.fr/dp/B000G1TE0U/?tag=tolees0d-
 
 ℹ️:
 
+- Year Of Release: 2006
 - Record Label: Kochusa
 - Catalog#: 06025 1702455
 - Country Of Release: NLD
-- Year Of Release: 2006
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000G1TE0U/?tag=tolees0d-21)

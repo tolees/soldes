@@ -28,14 +28,14 @@ Vous avez [LINKSYS Amplificateur de signal WIFI AC 2x2  RE6500-EJ](https://www.a
 
 ℹ️:
 
+- Antennes externes amovibles
+- 4 Ports Ethernet Gigabit pour des connexions filaires à la vitesse de léclair
+- Le RE6500 élimine les zones blanches et fournit des vitesses réseau jusquà 2,8 fois plus rapides que les amplificateurs de portée sans fil N
+- Système de diffusion audio : Écoutez de la musique par lentremise de haut-parleurs
 - Type de produit : amplificateur/répéteur de portée Wi-Fi double bande
-- 2 bandes WiFi  2.4 Ghz et 5 Ghz
+- Jusquà 2,8 fois plus rapides que les amplificateurs de portée sans fil N
 - Sécurité intégrée pour protéger vos données
 - RE6500-EJ
-- Antennes externes amovibles
-- Jusquà 2,8 fois plus rapides que les amplificateurs de portée sans fil N
-- Système de diffusion audio : Écoutez de la musique par lentremise de haut-parleurs
-- Le RE6500 élimine les zones blanches et fournit des vitesses réseau jusquà 2,8 fois plus rapides que les amplificateurs de portée sans fil N
-- 4 Ports Ethernet Gigabit pour des connexions filaires à la vitesse de léclair
+- 2 bandes WiFi  2.4 Ghz et 5 Ghz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00M6NAG12/?tag=tolees0d-21)
