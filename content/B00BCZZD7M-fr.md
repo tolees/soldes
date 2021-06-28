@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fartools DWS 180 Ponceuse orbitale pour  avec 49.61 % rabais '
-date: 2021-06-04 05:43:52
+date: 2021-06-28 20:28:09
 image: 'https://m.media-amazon.com/images/I/4171BZlTcCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Fartools DWS 180 Ponceuse orbitale pour plaques de plâtre 710 W
 
 ℹ️:
 
-- Livrée en mallette tissu avec 6 papiers abrasifs
 - Variateur de vitesse électronique
-- Tube flexible (4 m) & sac à poussières
 - Ouverture pour ponçage des angles
+- Tube flexible (4 m) & sac à poussières
+- Livrée en mallette tissu avec 6 papiers abrasifs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00BCZZD7M/?tag=tolees0d-21)
