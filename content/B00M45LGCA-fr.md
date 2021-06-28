@@ -28,10 +28,10 @@ C'est en vente [Osprey Ultralight DrySack 20 Mixte Adulte  Jaune  Electric Lime 
 
 ℹ️:
 
-- Tissus enduits et coutures entièrement étanches
-- Haute visibilité
-- Forme rectangulaire pour emballage efficace
 - Se replie pour fermer de manière entièrement étanche
 - Impression graphique réfléchissante
+- Forme rectangulaire pour emballage efficace
+- Haute visibilité
+- Tissus enduits et coutures entièrement étanches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00M45LGCA/?tag=tolees0d-21)
