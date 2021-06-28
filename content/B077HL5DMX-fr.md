@@ -29,10 +29,10 @@ C'est en vente [TP-Link Routeur 4G LTE 150Mbps WiFi AC1200  Archer MR400 V3   Mo
 ℹ️:
 
 - 4 PORTS ETHERNET - fournissent des connexions filaires haut débit pour connecter un périphérique câblé tels que les consoles de jeux, un téléviseur ou un lecteur de streaming.
+- ROUTEUR 4G HAUT DEBIT - partagez laccès à linternet avec jusquà 64 appareils WiFi et profitez de vitesses allant jusquà 150 Mbps. Ce routeur 4G est destiné à ceux qui disposent d’un faible débit ADSL et d’une bonne couverture 4G.
 - INSEREZ UNE CARTE SIM ET JOUEZ - aucune configuration requise, la compatibilité des cartes SIM dans plus de 100 pays est assurée par des années de tests sur le terrain. Emplacement de type Micro SIM, compatible avec tous opérateurs.
+- WiFi ULTRA RAPIDE - créez des réseaux WiFi bi-bandes simultanés, avec des vitesses maximales allant jusquà 300 Mbps sur la bande de 2,4 GHz et 867 Mbps sur la bande de 5 GHz
 - MODE ROUTEUR WIFI -branchez un câble Ethernet dans le port LAN/WAN pour un accès flexible comme option de secours si vous ne pouvez pas obtenir une connexion 4G.
 - ANTENNES 4G AMOVIBLES - profitez de connexions stables et fiable grâce aux 2 antennes 4G externes. Modem 4G Archer MR400 possède 2 connecteurs SMA pour le branchement d’antennes externes 4G.
-- ROUTEUR 4G HAUT DEBIT - partagez laccès à linternet avec jusquà 64 appareils WiFi et profitez de vitesses allant jusquà 150 Mbps. Ce routeur 4G est destiné à ceux qui disposent d’un faible débit ADSL et d’une bonne couverture 4G.
-- WiFi ULTRA RAPIDE - créez des réseaux WiFi bi-bandes simultanés, avec des vitesses maximales allant jusquà 300 Mbps sur la bande de 2,4 GHz et 867 Mbps sur la bande de 5 GHz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077HL5DMX/?tag=tolees0d-21)
