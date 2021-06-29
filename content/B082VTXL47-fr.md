@@ -28,8 +28,8 @@ C'est en vente [Veet Men - Crème Dépilatoire Homme - Peaux Normales - 200 ml](
 
 ℹ️:
 
-- Utilisée pour le torse et le corps
 - Hydrate la peau jusquà 24h
+- Utilisée pour le torse et le corps
 - Efficace : Agit proche de la racine pour retirer même les poils les plus courts
 - Rapide & simple : élimine les poils en seulement 3 minutes
 - Une douceur parfaite
