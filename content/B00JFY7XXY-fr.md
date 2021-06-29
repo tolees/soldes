@@ -28,8 +28,8 @@ C'est en vente [ECLIPSE EOHBC12 Serre joint automatique  Noir  300 mm/12"](https
 
 ℹ️:
 
-- La barre en acier au carbone et le corps en nylon renforcé rendent la pince à la fois robuste et durable
 - Barre de serrage à une main 12"/ 300mm
+- La barre en acier au carbone et le corps en nylon renforcé rendent la pince à la fois robuste et durable
 - Force de serrage: 150 kg.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00JFY7XXY/?tag=tolees0d-21)

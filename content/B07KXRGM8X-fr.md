@@ -28,9 +28,9 @@ Vous avez [SanDisk Carte microSDXC UHS-I pour Nintendo Switch 64 Go - Produit so
 
 ℹ️:
 
-- Carte mémoire sous licence Nintendo pour la console Nintendo Switch
+- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
 - Stockez des jeux numériques et du contenu supplémentaire en un seul endroit pour y jouer nimporte où
 - Ajoutez instantanément jusquà 64 Go despace de stockage supplémentaire
-- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
+- Carte mémoire sous licence Nintendo pour la console Nintendo Switch
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KXRGM8X/?tag=tolees0d-21)

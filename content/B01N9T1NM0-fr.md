@@ -28,9 +28,9 @@ Vous avez [Tajima DFC560W Razar Black Cutter avec blocage bouton-poussoir/ailero
 
 ℹ️:
 
-- Largeur de lame: 18 mm
-- Blocage automatique par bouton-poussoir
-- Dimensions de lemballage de larticle: 22.0 x 4.0 x 3.0 cm
 - Avec fonctions utiles de laileron
+- Blocage automatique par bouton-poussoir
+- Largeur de lame: 18 mm
+- Dimensions de lemballage de larticle: 22.0 x 4.0 x 3.0 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N9T1NM0/?tag=tolees0d-21)

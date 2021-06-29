@@ -28,10 +28,10 @@ C'est en vente [Jouets Ecoiffier -3021 - La ferme Abrick – Jeu de construction
 
 ℹ️:
 
-- DÉVELOPPER LIMAGINATION : La gamme Abrick se compose de jouets destinés aux enfants à partir de 18 mois pour les aider à développer leur capacité à inventer des histoires et construire lunivers qui va avec.
-- POUR LES FERMIERS EN HERBE : Retrouvez tout lunivers de la ferme dans ce pack, de la maison du fermier au tracteur en passant par les animaux pour se familiariser avec la vie à la campagne.
 - JOUER POUR MIEUX GRANDIR  : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
-- LA FERME ET SES HABITANTS : Ce kit contient la maison du fermier, 1 couple de fermiers, 1 tracteur avec remorque, 1 tracteur à fourche, 2 balles de foin, 1 brouette, 1 barrière, des animaux, des légumes.
+- POUR LES FERMIERS EN HERBE : Retrouvez tout lunivers de la ferme dans ce pack, de la maison du fermier au tracteur en passant par les animaux pour se familiariser avec la vie à la campagne.
+- DÉVELOPPER LIMAGINATION : La gamme Abrick se compose de jouets destinés aux enfants à partir de 18 mois pour les aider à développer leur capacité à inventer des histoires et construire lunivers qui va avec.
 - DES JOUETS ORIGINE FRANCE GARANTIE : Jouets Ecoiffier fabrique ses produits à Oyonnax dans lAin grâce à linvestissement des 350 personnes que lentreprise familiale emploie directement et indirectement.
+- LA FERME ET SES HABITANTS : Ce kit contient la maison du fermier, 1 couple de fermiers, 1 tracteur avec remorque, 1 tracteur à fourche, 2 balles de foin, 1 brouette, 1 barrière, des animaux, des légumes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07M8HW7DN/?tag=tolees0d-21)

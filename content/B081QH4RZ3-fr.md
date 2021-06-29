@@ -28,10 +28,10 @@ C'est en vente [CADUM MICRO TALC - Cadum Déodorant pour Femme 50 ml](https://ww
 
 ℹ️:
 
-- 24h defficacité sans sels daluminium et sans alcool Efficacité anti-odeur 24h, test sensoriel
 - Déodorant bille au micro-talc, sans sels daluminium et sans alcool , efficace 24h
 - Un amour généreux et partagé: Cadum vient en aide aux enfants atteints de malformation du cœur
 - Le déodorant Douceur de Lait allie le pouvoir naturellement absorbant du micro-talc et le plaisir dun parfum au lait damande douce bio pour 24h defficacité déodorante Efficacité anti-odeur 24H, test sensoriel
 - Refermer après usage
+- 24h defficacité sans sels daluminium et sans alcool Efficacité anti-odeur 24h, test sensoriel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081QH4RZ3/?tag=tolees0d-21)
