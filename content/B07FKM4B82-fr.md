@@ -28,9 +28,9 @@ Vous avez [DE BUYER -3507.28 -marmite s/couv. prim appety ø 28cm](https://www.a
 
 ℹ️:
 
-- Matériel: Acier inoxydable 18/260
-- Poids du colis: 2.909 kilograms
 - Number of items: 1.0
+- Matériel: Acier inoxydable 18/260
 - La marmite est ustensiles de cuisson idéal pour porter à ébullition de grandes quantités de liquide, réaliser des potages, un pot au feu ou dautres plats uniques. Ustensile de cuisson primappety en acier inoxydable AISI 304 avec bord verseur et fond Sandwich, qui le rend compatible avec induction et permet une diffusion homogène de la chaleur sur tout le fond de l’ustensile. Ustensile de qualité professionnelle robuste et durable. Anses tubes Inox Soudées par points multiples = préhension facile et agréable. Surface intérieure lisse. Finition satinée poli brossé. Passe au lave-vaisselle. Polissage occasionnel avec de la pâte à polir spéciale Inox pour lui redonner son éclat. Tous feux dont induction.
+- Poids du colis: 2.909 kilograms
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FKM4B82/?tag=tolees0d-21)

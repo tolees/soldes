@@ -28,10 +28,10 @@ C'est en vente [Polar Pro - PolarPro filtre 6PK  ND4  ND8  ND16  ND4/PL  ND8/PL 
 
 ℹ️:
 
+- Filtres pèsent moins quune gramme par pièce grce à la construction en aluminium CAO
+- Se compose dun filtre ND4, ND8, ND16, ND4/PL, ND8/PL et ND16/PL
 - Livrés dans un housse plastique magnétique
 - Fabriqué en verre optique HD avec plusieurs couches de revêtement
-- Se compose dun filtre ND4, ND8, ND16, ND4/PL, ND8/PL et ND16/PL
-- Filtres pèsent moins quune gramme par pièce grce à la construction en aluminium CAO
 - Pour le drone DJI Mavic 2 Pro
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GQ2Z11P/?tag=tolees0d-21)

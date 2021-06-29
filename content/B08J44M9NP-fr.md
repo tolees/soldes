@@ -28,13 +28,13 @@ C'est en vente [Arlo Pro 3 Floodlight cam Black  caméra de surveillance Wifi sa
 
 ℹ️:
 
-- Sirène intelligente intégrée qui peut être activée à distance ou automatiquement en cas dincident
-- Luminosité exceptionnelle - Illuminez jusquà 7 m de votre propriété avec 3000 * lumens
-- Installation rapide pour une protection instantanée avec la première caméra spot intégré sans fil au monde
-- Vidéo 2K avec HDR - La seule caméra de surveillance avec spot intégré 2K - zoomez jusquà 12x sur les détails importants
-- Angle de vue de 160 ° : avec un champ de vision plus large, vous avez ce qui est important pour vous de voir encore mieux
 - 100% sans fil: caméra de surveillance sans fil
-- Répondez et réagissez aux alertes - Choisissez la façon dont vous souhaitez répondre à une alerte. Écoutez et parlez aux visiteurs avec un son bi-directionnel ou déclenchez la sirène pour dissuader les intrus
+- Luminosité exceptionnelle - Illuminez jusquà 7 m de votre propriété avec 3000 * lumens
+- Sirène intelligente intégrée qui peut être activée à distance ou automatiquement en cas dincident
+- Angle de vue de 160 ° : avec un champ de vision plus large, vous avez ce qui est important pour vous de voir encore mieux
+- Vidéo 2K avec HDR - La seule caméra de surveillance avec spot intégré 2K - zoomez jusquà 12x sur les détails importants
+- Installation rapide pour une protection instantanée avec la première caméra spot intégré sans fil au monde
 - Vision nocturne couleur améliorée - Voyez les détails importants même la nuit avec une vision nocturne couleur 2K ou en noir et blanc avec la floodlight cam Arlo.
+- Répondez et réagissez aux alertes - Choisissez la façon dont vous souhaitez répondre à une alerte. Écoutez et parlez aux visiteurs avec un son bi-directionnel ou déclenchez la sirène pour dissuader les intrus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J44M9NP/?tag=tolees0d-21)
