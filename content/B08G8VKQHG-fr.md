@@ -28,10 +28,10 @@ Vous avez [Lavor Nettoyeur Haute Pression Eau Froide Ninja Plus 130  Pression 13
 
 ℹ️:
 
-- Laccessoire lave-sols inclus, permet un nettoyage optimal des grandes surfaces aussi.
 - Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique. Chariot avec poignée ergonomique et porte-accessoires. Support Flexible haute pression.
-- Pression 130 bar max, débit 420 litres / heure, moteur 1800 Watt. Accessoires inclus : pistolet, tuyau haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo, brosse fixe, accessoire lave-sols, diffuseur de détergent / désinfectant.
+- Laccessoire lave-sols inclus, permet un nettoyage optimal des grandes surfaces aussi.
 - Avec le diffuseur de nettoyage fourni avec Ninja PLUS 130, il est possible de désinfecter toutes les surfaces externes, simplement en rajoutant le produit désinfectant adapté.
 - La buse TURBO augmente la puissance de lavage grâce au jet rotatif. La buse Vario-jet, avec réglage de la largeur du jet pour mieux sadapter à la surface à nettoyer.
+- Pression 130 bar max, débit 420 litres / heure, moteur 1800 Watt. Accessoires inclus : pistolet, tuyau haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo, brosse fixe, accessoire lave-sols, diffuseur de détergent / désinfectant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G8VKQHG/?tag=tolees0d-21)
