@@ -28,11 +28,11 @@ C'est en vente [Oral-B Aquacare Pro-Expert hydropulseur Et Oral-B Genius X 20000
 
 ℹ️:
 
-- Contenu : 1 hydropulseur Aquacare Pro-Expert avec 4 jets oxyjet et 1 manche de brosse à dents électrique avec 4 brossettes
 - 2 flux : choisissez un flux d’eau ciblé ou rotatif pour un nettoyage interdentaire doux
-- 6 modes de brossage dont Soin des gencives, Douceur, Blancheur et Nettoyage de la langue
-- Technologie Oxyjet : enrichie à l’eau avec des microbulles pour une action de nettoyage intensifiée
 - 3 intensités : personnalisez votre nettoyage avec des pressions d’eau intense, normale, ou sensible
+- Contenu : 1 hydropulseur Aquacare Pro-Expert avec 4 jets oxyjet et 1 manche de brosse à dents électrique avec 4 brossettes
+- Technologie Oxyjet : enrichie à l’eau avec des microbulles pour une action de nettoyage intensifiée
+- 6 modes de brossage dont Soin des gencives, Douceur, Blancheur et Nettoyage de la langue
 - La brosse à dents Genius X 20000 permet de reconnaître votre style de brossage et de vous guider pour obtenir les meilleurs résultats possibles au quotidien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082VGR6X9/?tag=tolees0d-21)
