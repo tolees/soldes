@@ -29,8 +29,8 @@ C'est en vente [HP OMEN Encoder - Clavier Mécanique Gaming AZERTY  Filaire - US
 ℹ️:
 
 - Poids du colis de larticle: 1.0 kilograms
+- Fabriqué en Chine
 - Dimensions du colis de larticle: 20.0 x 20.0 x 11.0 centimeters
 - Type de connecteur: USB
-- Fabriqué en Chine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CL1CNDS/?tag=tolees0d-21)
