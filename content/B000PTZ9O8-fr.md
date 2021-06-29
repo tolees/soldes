@@ -29,9 +29,9 @@ Vous avez [BGS technic - BGS 710 | Tournevis impact avec embouts | 5 pièces](ht
 ℹ️:
 
 - Avec 2 embouts cruciformes (PH2 - PH3) et 2 embouts à fente (8 - 10 mm)
-- En acier au chrome-vanadium
+- Traitement de surface: chromé, mat
 - Très robuste
 - En cassette métallique
-- Traitement de surface: chromé, mat
+- En acier au chrome-vanadium
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000PTZ9O8/?tag=tolees0d-21)
