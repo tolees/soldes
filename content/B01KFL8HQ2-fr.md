@@ -28,10 +28,10 @@ Vous avez [Philips GC8723/20 Centrale vapeur PerfectCare Performer sans réglage
 
 ℹ️:
 
+- Légère et compacte, facile à ranger
+- Très Puissante : débit vapeur jusquà 120g/min + effet pressing jusquà 420g
+- Réservoir détachable de 1,8L pour 2 heures de repassage sans interruption
 - Arrêt automatique de vapeur centrale
 - Technologie sans réglage OptimalTEMP : plus de risque de brûler vos vêtements
-- Légère et compacte, facile à ranger
-- Réservoir détachable de 1,8L pour 2 heures de repassage sans interruption
-- Très Puissante : débit vapeur jusquà 120g/min + effet pressing jusquà 420g
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KFL8HQ2/?tag=tolees0d-21)
