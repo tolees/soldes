@@ -28,9 +28,9 @@ C'est en vente [Levi s 511 Slim Fit Jeans  Fennel Subtle  36W / 34L Homme](https
 
 ℹ️:
 
+- Style cinq poches
 - 99 % coton, 1 % élasthanne
 - Braguette zippée
 - Taille basse
-- Style cinq poches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KF3BS49/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Canon Objectif EF-M 32mm F/1.4 STM](https://www.amazon.fr/dp/B07H9T4S
 
 ℹ️:
 
-- Grande ouverture f/1.4; Léger, 32mm
-- EF-M 32mm f/1.4 STM; Bouchon dobjectif; Bouchon dextrémité; Manuel dutilisation
-- Autofocus silencieux idéal pour les vidéos
 - Traitement Super Spectra
+- Grande ouverture f/1.4; Léger, 32mm
+- Autofocus silencieux idéal pour les vidéos
+- EF-M 32mm f/1.4 STM; Bouchon dobjectif; Bouchon dextrémité; Manuel dutilisation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H9T4SFJ/?tag=tolees0d-21)

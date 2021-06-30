@@ -28,11 +28,11 @@ C'est en vente [Roccat Burst Pro – Souris de jeu optique pro ultra-légère  h
 
 ℹ️:
 
-- Titan Switch Optical pour une sensation mécanique et une vitesse optique
-- Capteur optique ROCCAT Owl-Eye de 16 000 ppp basé sur le PMW3389 de PixArt
-- Une forme symétrique et ergonomique conçue à partir de rien plus agréable et performante | Coque alvéolée translucide et ultralégère de 68 g
-- Câble PhantomFlex quasiment invisible ; pas besoin de passe-câble
 - Patins traités à la chaleur et préajustés pour des mouvements fluides dès la sortie de la boîte
+- Capteur optique ROCCAT Owl-Eye de 16 000 ppp basé sur le PMW3389 de PixArt
+- Câble PhantomFlex quasiment invisible ; pas besoin de passe-câble
 - Dimensions : Hauteur : 3,87 cm, Largeur : 5,80 cm, Longueur : 12,00 cm
+- Une forme symétrique et ergonomique conçue à partir de rien plus agréable et performante | Coque alvéolée translucide et ultralégère de 68 g
+- Titan Switch Optical pour une sensation mécanique et une vitesse optique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HR323PP/?tag=tolees0d-21)
