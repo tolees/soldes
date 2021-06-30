@@ -28,11 +28,11 @@ Vous avez [Astell&Kern KANN - Lecteur audio HD portable Argent avec DAC et 64Go 
 
 ℹ️:
 
-- Jusquà 15h découte continue avec sa batterie haute capacité 6200mAh charge rapide (2h sur port USB-C)
-- Composants inclus : KANN, Film de protection, guide de démarrage rapide et carte de garantie, câble USB Type-C
-- USB Type-C (charge + data), jack 3.5mm, jack 2.5mm, Wi-Fi, Bluetooth v4.0 (A2DP, AVRCP, aptX HD)
-- Embarque un DAC Asahi Kasei AK4490. Capable de lire les fichiers audio PCM 32 bits/384 kHz et DSD jusquà 11,2 MHz. (utilisable en DAC externe USB)
 - Compatible WAV, FLAC, WMA, MP3, OGG, APE(Normal, High, Fast), AAC, ALAC, AIFF, DFF, DSF
+- Jusquà 15h découte continue avec sa batterie haute capacité 6200mAh charge rapide (2h sur port USB-C)
+- USB Type-C (charge + data), jack 3.5mm, jack 2.5mm, Wi-Fi, Bluetooth v4.0 (A2DP, AVRCP, aptX HD)
+- Composants inclus : KANN, Film de protection, guide de démarrage rapide et carte de garantie, câble USB Type-C
 - 64Go de base extensible jusquà 832Go grâce à son double lecteur de carte (micro SD et carte SD)
+- Embarque un DAC Asahi Kasei AK4490. Capable de lire les fichiers audio PCM 32 bits/384 kHz et DSD jusquà 11,2 MHz. (utilisable en DAC externe USB)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y58GNMW/?tag=tolees0d-21)
