@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Boxer Brief Pure Caleon Boxeur  Dar avec 30.20 % rabais '
-date: 2021-06-29 06:12:42
+date: 2021-06-30 10:24:40
 image: 'https://m.media-amazon.com/images/I/41tJJQySZ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
