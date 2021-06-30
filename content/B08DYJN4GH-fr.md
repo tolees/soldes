@@ -28,11 +28,11 @@ Vous avez [Calor Express Protect Centrale vapeur 7 5 bars débit vapeur jusqu
 
 ℹ️:
 
-- CENTRALE VAPEUR FACILE A RANGER ET TRANSPORTER : elle dispose dun système de verrouillage pour un transport et un rangement faciles et sécurisés. Un système de rangement du cordon vapeur innovant est également développé afin de proposer aux utilisateurs une expérience de repassage plus pratique et sans encombre.
+- GAIN DE TEMPS ET PERFORMANCE EXCEPTIONNELLE : la fonction pressing ultra-puissante de 520 g/minute; vient à bout des tissus épais et des faux plis même les plus capricieux. Un débit de vapeur continu allant jusqu’à 130 g/minute est idéal pour des sessions repassage ultra-efficaces et des résultats parfaits
 - ULTRA-PERFORMANTE : la centrale vapeur est dotée dune pression vapeur de 7;5 bars et dun collecteur de calcaire exclusif permettant de garantir des performances vapeur durables dans le temps
-- CENTRALE VAPEUR 100 % SÛRE : aucun risque de brûlure grâce à la technologie "Sans Réglage"
 - * Test externe réalisé sur les revêtements 2016
 - GLISSE PARFAITE : la semelle Durilium Airglide Autoclean reste propre au fil du temps et offre une glisse supérieure de 33 %*; soit la meilleure glisse de Calor; Réparabilité 10 ans; Garantie 2 ans; Fabriquée en France
-- GAIN DE TEMPS ET PERFORMANCE EXCEPTIONNELLE : la fonction pressing ultra-puissante de 520 g/minute; vient à bout des tissus épais et des faux plis même les plus capricieux. Un débit de vapeur continu allant jusqu’à 130 g/minute est idéal pour des sessions repassage ultra-efficaces et des résultats parfaits
+- CENTRALE VAPEUR FACILE A RANGER ET TRANSPORTER : elle dispose dun système de verrouillage pour un transport et un rangement faciles et sécurisés. Un système de rangement du cordon vapeur innovant est également développé afin de proposer aux utilisateurs une expérience de repassage plus pratique et sans encombre.
+- CENTRALE VAPEUR 100 % SÛRE : aucun risque de brûlure grâce à la technologie "Sans Réglage"
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DYJN4GH/?tag=tolees0d-21)
