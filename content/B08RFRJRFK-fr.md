@@ -28,15 +28,15 @@ Vous avez [by Amazon Capsules Ristretto  compatibles Nespresso  100 capsules  2 
 
 ℹ️:
 
-- Veuillez toujours suivre les intructions du fabricant de la machine
-- CERTIFIÉ RAINFOREST ALLIANCE: Le café que nous achetons pour ce produit est certifié Rainforest Alliance , ce qui signifie qu’il n’a pas seulement bon goût, il fait aussi du bien. Avec chaque achat, vous aidez des centaines dagriculteurs et leurs familles à travers le monde, et vous faites également un geste pour la forêt tropicale - buvez mieux, faites mieux
-- 100 capsules (2 x 50)
 - Conditionné sous atmosphère protectrice
-- Capsules compatibles Nespresso* (* Non enregistré auprès d’Amazon EU S.a.r.l.). Non compatible avec les machines Nespresso Vertuo
-- Riche & puissant
-- Café torréfié et moulu en capsules
+- 100 capsules (2 x 50)
 - À conserver dans un endroit frais et sec
 - Force du café : 8/10
+- CERTIFIÉ RAINFOREST ALLIANCE: Le café que nous achetons pour ce produit est certifié Rainforest Alliance , ce qui signifie qu’il n’a pas seulement bon goût, il fait aussi du bien. Avec chaque achat, vous aidez des centaines dagriculteurs et leurs familles à travers le monde, et vous faites également un geste pour la forêt tropicale - buvez mieux, faites mieux
 - Torréfié et conditionné en Belgique
+- Café torréfié et moulu en capsules
+- Capsules compatibles Nespresso* (* Non enregistré auprès d’Amazon EU S.a.r.l.). Non compatible avec les machines Nespresso Vertuo
+- Riche & puissant
+- Veuillez toujours suivre les intructions du fabricant de la machine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08RFRJRFK/?tag=tolees0d-21)
