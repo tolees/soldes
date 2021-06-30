@@ -28,10 +28,10 @@ C'est en vente [LEGO Hidden Side  Le phare des ténèbres  Appli AR Games  Set d
 
 ℹ️:
 
-- Inclut 5 figurines du monde réel : Jack, Parker, Jennie Napo, Claus Stormward sont à la disposition des joueurs pour combatte le chef fantôme Joe Ishmael
+- Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 - Le phare sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
+- Inclut 5 figurines du monde réel : Jack, Parker, Jennie Napo, Claus Stormward sont à la disposition des joueurs pour combatte le chef fantôme Joe Ishmael
 - Inclut un modèle interactif de phare 3 étages, avec une falaise, des rochers et une jetée, ainsi quun jet ski, en combinant loption de jeu en solo ou multijoueur
 - L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
-- Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W8XYTS3/?tag=tolees0d-21)
