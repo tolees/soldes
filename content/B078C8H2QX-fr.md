@@ -28,10 +28,10 @@ Vous avez [Panasonic - Personalcare ER-SB60-S803 | Tondeuse barbe - Premium 20 R
 
 ℹ️:
 
-- 60 minutes d’autonomie pour 1 heure de charge (socle fourni)
-- La molette de réglage rapide de la tondeuse ER-SB60 offre 19 réglages de 1,0 à 10 mm à des intervalles de 0,5 mm pour une coupe facile de la barbe à la longueur souhaitée (sans peigne: 0,5 mm)
-- 1x peigne amovible de précision 1x chargeur 1x socle de charge 1x Brosse de nettoyage 1x Huile 1x Pochette de rangement
 - Lames de qualité professionnelle
+- 1x peigne amovible de précision 1x chargeur 1x socle de charge 1x Brosse de nettoyage 1x Huile 1x Pochette de rangement
 - Cette tondeuse s’utilise avec ou sans fil. Rechargeable, la tondeuse s’utilise sans fil lorsqu’aucune prise n’est disponible, dans la salle de bain ou en déplacement, ce qui est très pratique.
+- La molette de réglage rapide de la tondeuse ER-SB60 offre 19 réglages de 1,0 à 10 mm à des intervalles de 0,5 mm pour une coupe facile de la barbe à la longueur souhaitée (sans peigne: 0,5 mm)
+- 60 minutes d’autonomie pour 1 heure de charge (socle fourni)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078C8H2QX/?tag=tolees0d-21)
