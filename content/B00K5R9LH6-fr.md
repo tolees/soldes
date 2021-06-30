@@ -28,9 +28,9 @@ Vous avez [Tommy Hilfiger 3p Trunk Boxer  Bleu  Peacoat-pt 409   M  Lot de 3  Ho
 
 ℹ️:
 
-- Regular
-- Lavage en machine
 - 95% Coton, 5% Élasthanne
+- Regular
 - Fermeture: Taille élastique
+- Lavage en machine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00K5R9LH6/?tag=tolees0d-21)
