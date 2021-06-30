@@ -28,11 +28,11 @@ Vous avez [ROCCAT Kone AIMO Souris Gaming  remastered  – Capteur Optique Owl-E
 
 ℹ️:
 
-- Technologie de duplication de boutons via Easy-Shift[+] pour un total de 24 fonctions
-- Cinq zones lumineuses indépendantes et configurables
-- Capteur optique Roccat Owl-Eye 16 000 DPI
-- Une forme iconique à l’ergonomie exceptionnelle | revêtement durable, résistant à la saleté et agrippant tout en étant doux au toucher
 - Illumination AIMO: rétroéclairage RGBA et effets lumineux LED
+- Capteur optique Roccat Owl-Eye 16 000 DPI
+- Technologie de duplication de boutons via Easy-Shift[+] pour un total de 24 fonctions
+- Une forme iconique à l’ergonomie exceptionnelle | revêtement durable, résistant à la saleté et agrippant tout en étant doux au toucher
+- Cinq zones lumineuses indépendantes et configurables
 - Câble USB tressé de 1,8 m
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YCG26KZ/?tag=tolees0d-21)
