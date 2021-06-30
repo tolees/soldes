@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger Essential Th Beach Sandal  Tongs Homme  Bleu  Mid
 
 ℹ️:
 
-- Matériel: Polyester
 - Saison: TOUJOURS DISPONIBLE
+- Designer: TOMMY HILFIGER
 - Couleur: nuit
 - Article: FM0FM01369 ESSENTIAL TH
-- Designer: TOMMY HILFIGER
+- Matériel: Polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078T75JZL/?tag=tolees0d-21)
