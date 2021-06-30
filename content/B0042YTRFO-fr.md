@@ -29,8 +29,8 @@ Vous avez [Wrangler Authentic - Blouson - Manches longues - Homme - Bleu  Blue B
 ℹ️:
 
 - manches longues
+- veste en jean
 - décontracté
 - boutonné
-- veste en jean
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0042YTRFO/?tag=tolees0d-21)
