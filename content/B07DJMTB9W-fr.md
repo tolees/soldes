@@ -28,13 +28,13 @@ C'est en vente [Geox D ANNYTAH MOC A  Mocassins  Loafers  Femme  Beige  LT Taupe
 
 ℹ️:
 
+- Semelle intérieure: Synthétique
+- Matériau de semelle: Synthétique
+- Largeur de la chaussure: Moyen
 - Dessus: Cuir
 - Taille: Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Matériau de semelle: Synthétique
 - Fermeture: Pas de fermeture
 - Doublure: Synthétique
-- Semelle intérieure: Synthétique
 - Hauteur de talons: 2 centimètres
-- Largeur de la chaussure: Moyen
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJMTB9W/?tag=tolees0d-21)
