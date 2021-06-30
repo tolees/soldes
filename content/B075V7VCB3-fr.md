@@ -28,12 +28,12 @@ C'est en vente [Kenwood KAT911SS bol à mélanger  bol en inox de 6 7 litres COO
 
 ℹ️:
 
-- Echelle
-- Généreuse capacité 6,7 L
-- Compatible avec Cooking Chef Gourmet
-- Acier inoxydable, poli.Pour une manipulation plus facile, il est doté de 2 becs verseurs
 - Passe au lave-vaisselle
 - Echelle
 - Protection contre la chaleur Poignées
+- Compatible avec Cooking Chef Gourmet
+- Généreuse capacité 6,7 L
+- Acier inoxydable, poli.Pour une manipulation plus facile, il est doté de 2 becs verseurs
+- Echelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075V7VCB3/?tag=tolees0d-21)

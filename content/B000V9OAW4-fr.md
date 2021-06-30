@@ -28,8 +28,8 @@ Vous avez [Trixie Natural Living Maison Tilde 39 × 20 × 29 cm](https://www.ama
 
 ℹ️:
 
-- En bois naturel
 - Refuge douillet sur le toit
 - Lit démontable (lavable à la main)
+- En bois naturel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000V9OAW4/?tag=tolees0d-21)
