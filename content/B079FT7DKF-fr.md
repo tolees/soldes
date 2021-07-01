@@ -28,9 +28,9 @@ C'est en vente [PC Portable MSI PL62 7RC-252FR i5-7300/15  6 Pouces;/8G/Dos](htt
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Produit destiné aux joueurs exigeants
 - Le processeur Intel Core i5-7300HQ de 7 ème génération possède 4 curs, ces derniers ont pour fonction de gérer plusieurs taches sans subir de ralentissement. Le nombre de cœur est le premier indicateur de puissance. La mémoire cache de 6 Mb, permet à cet
+- Produit destiné aux joueurs exigeants
+- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FT7DKF/?tag=tolees0d-21)
