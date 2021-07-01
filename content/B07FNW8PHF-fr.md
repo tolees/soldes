@@ -29,8 +29,8 @@ Vous avez [LEGO 60239 City La Voiture de Patrouille de la Police avec Figu
 ℹ️:
 
 - Comprend une voiture de police LEGO avec un toit amovible, de la place à l’intérieur pour une figurine et des décorations emblématiques.
-- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
 - Comprend une figurine d’officier de police de LEGO.
+- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
 - Inclut également 2 cônes de circulation de police.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW8PHF/?tag=tolees0d-21)
