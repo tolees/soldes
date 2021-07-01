@@ -29,7 +29,7 @@ Vous avez [Saveur & Dégustation - SAVEUR ET DEGUSTATION - KV70121 Billes nettoy
 ℹ️:
 
 - Introduisez-les dans la carafe, secouez, cest nettoyé.
-- Nettoyez vos carafes à décanter en toute simplicité grâce à ces billes astucieuses.
 - Composition : Inox.
+- Nettoyez vos carafes à décanter en toute simplicité grâce à ces billes astucieuses.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BBVDUTU/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ C'est en vente [KS TOOLS 713.5014 Module de Tournevis ULTIMATETORXPercée  6 Pi�
 
 ℹ️:
 
-- Module de tournevis ultimate torx percée, 6 pièces
 - Ks tools - outillage à main professionnel
+- Module de tournevis ultimate torx percée, 6 pièces
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B017RKKOEW/?tag=tolees0d-21)
