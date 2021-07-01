@@ -29,12 +29,12 @@ C'est en vente [Bébé Confort Lara 2  Poussette canne ultra compacte  pliage fa
 ℹ️:
 
 - Poussette canne pour les bébés et les enfants, de la naissance à 4 ans, jusqu’à 22 kg
-- Poussette canne idéale pour voyager en avion avec bébé - poussette bagage cabine possible (voir conditions des compagnies aériennes)
-- Confection déhoussable et lavable
-- Deux paniers vous assurent une capacité de rangement maximale et un accès aisé à vos affaires
-- Style premium et tissus doux pour des balades fraîches et confortables
-- Compatible avec les cosis Bébé Confort Pebble, Rock , Cabriofix et Citi grâce aux adaptateurs pour siège auto cosi inclus
-- Pliage unique ultra-rapide d’une seule main : une seule pression sur le guidon suffit pour plier cette poussette bébé automatiquement
 - Poussette ultra-compacte et légere, facile à transporter grâce à sa bandoulière, et facile à ranger même dans les plus petits espaces
+- Confection déhoussable et lavable
+- Poussette canne idéale pour voyager en avion avec bébé - poussette bagage cabine possible (voir conditions des compagnies aériennes)
+- Pliage unique ultra-rapide d’une seule main : une seule pression sur le guidon suffit pour plier cette poussette bébé automatiquement
+- Style premium et tissus doux pour des balades fraîches et confortables
+- Deux paniers vous assurent une capacité de rangement maximale et un accès aisé à vos affaires
+- Compatible avec les cosis Bébé Confort Pebble, Rock , Cabriofix et Citi grâce aux adaptateurs pour siège auto cosi inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088V6RH5L/?tag=tolees0d-21)

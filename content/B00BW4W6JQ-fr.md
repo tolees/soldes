@@ -28,7 +28,7 @@ Vous avez [Prolongateur 16A HO5VV-F 3G1 5mm² Blanc 3m - Zenitech](https://www.a
 
 ℹ️:
 
-- Dimensions de lemballage de larticle: 4.2 L x 13.0 H x 11.8 W (centimeters)
 - Rallonge électrique - Longueur : 3m - Fiche 2P+T 16A - Intérieur - Câblé en HO5VV-F 3x1,5mm² - Coloris : blanc - Norme NF.
+- Dimensions de lemballage de larticle: 4.2 L x 13.0 H x 11.8 W (centimeters)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BW4W6JQ/?tag=tolees0d-21)

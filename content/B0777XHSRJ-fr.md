@@ -28,10 +28,10 @@ C'est en vente [Playstation - Sony  The Last of Us Part 2 sur PS4  Jeu d action 
 
 ℹ️:
 
-- Caractéristiques du jeu : 1 joueur, Version physique, Disponible en français et en anglais, Compatibilités : consoles PS4 et PS4 Pro
 - Graphismes : des personnages, des ennemis et un univers encore plus réalistes et méticuleusement détaillés grâce au nouveau moteur de Naughty Dog
-- Contenu : 1 x Jeu The Last of Us Part II Édition Standard, Bonus numérique à télécharger : pistolet dEllie avec capacité de munitions améliorée, manuel de confection pour débloquer des recettes, des compétences et des améliorations, Art : 1952636
-- Jeu daction et daventure The Last of Us Part II, Pour découvrir la suite tant attendue du jeu qui à marqué une génération de joueurs
+- Caractéristiques du jeu : 1 joueur, Version physique, Disponible en français et en anglais, Compatibilités : consoles PS4 et PS4 Pro
 - Fonctionnalités améliorées : système de combat au corps à corps à haute intensité et système de furtivité dynamique pour vous mettre au coeur de laction
+- Jeu daction et daventure The Last of Us Part II, Pour découvrir la suite tant attendue du jeu qui à marqué une génération de joueurs
+- Contenu : 1 x Jeu The Last of Us Part II Édition Standard, Bonus numérique à télécharger : pistolet dEllie avec capacité de munitions améliorée, manuel de confection pour débloquer des recettes, des compétences et des améliorations, Art : 1952636
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0777XHSRJ/?tag=tolees0d-21)

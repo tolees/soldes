@@ -28,7 +28,7 @@ Vous avez [Electronic Arts - Fifa 17](https://www.amazon.fr/dp/B01GE44QT6/?tag=t
 
 ℹ️:
 
-- Edition: Standard
 - Plate-forme: PC
+- Edition: Standard
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GE44QT6/?tag=tolees0d-21)

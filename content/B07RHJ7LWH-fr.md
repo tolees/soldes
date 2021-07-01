@@ -28,10 +28,10 @@ C'est en vente [DJI Osmo Mobile 3 - Stabilisateur de Cardan 3 Axes Compatible av
 
 ℹ️:
 
+- Votre histoire, votre moment : des moments spéciaux aux scènes ordinaires, partagez vos clichés et vidéos facilement et defaçon créative avec le modeStory
+- Poignée ergonomique : grâce à son design intelligent, lOsmo Mobile 3 est confortable et peut être tenu pendant delongues heures. Sa poignée sadapte parfaitement à la paume demain
 - Montage et Partage instantanés : Personnalisé Votre vidéo à laidedune variété demusique, effets detransition et filtres, puis partagez-la facilement sur les réseaux sociaux
 - Excellente fluidité et stabilité impressionnante : avec une nacelle à 3 axes qui élimine les effets dus aux tremblements, lOsmo Mobile 3 offre des images incroyablement fluides et stables; Plage de rotation pour Lacet (Pan): 332,8 ° (-162,5 à 170,3 °); Roll: 337,3 ° (-85,1 à 252,2 °) et Pitch (Tilt): 340,2 ° (-104,5 à 235,7 °)
 - Activetrack 3.0 : pour filmer des scènes qui nécessitent des mouvements rapides, appuyez simplement sur la gâchette, sélectionnez un sujet sur votre smartphone pour commencer le suivi
-- Votre histoire, votre moment : des moments spéciaux aux scènes ordinaires, partagez vos clichés et vidéos facilement et defaçon créative avec le modeStory
-- Poignée ergonomique : grâce à son design intelligent, lOsmo Mobile 3 est confortable et peut être tenu pendant delongues heures. Sa poignée sadapte parfaitement à la paume demain
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RHJ7LWH/?tag=tolees0d-21)
