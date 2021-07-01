@@ -29,8 +29,8 @@ C'est en vente [Bloc 3 prises 16A 2P+T Blanc - Zenitech](https://www.amazon.fr/d
 ℹ️:
 
 - Forme compacte pour optimiser le rangement
-- Certifié NF
 - Multprise 3x 16A 2P+T pour brancher tous vos appareils électriques et luminaires
+- Certifié NF
 - Câble HO5VV-F 3G1mm² de longueur 1m
 - Avec sécurité enfant
 

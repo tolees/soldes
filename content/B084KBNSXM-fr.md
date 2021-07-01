@@ -28,11 +28,11 @@ Vous avez [Motorola G8 Power - Smartphone portable débloqué 4G -   écran HD 6
 
 ℹ️:
 
-- Batterie 5000 mAh : jusqu’à trois jours d’autonomie
+- Revêtement avancé résistant à l’eau: Ne laissez plus les déversements, les éclaboussures ou la sueur vous empêcher d’utiliser votre smartphone
 - Double haut-parleur stéréo Dolby : profitez d’un son quatre fois plus net et quatre fois plus puissant grâce au double haut-parleur stéréo Dolby
 - Ecran bord à bord : donnez vie à vos films sur un écran Full HD+ de 6,4” aux couleurs éclatantes
-- Des performances exceptionnelles : sentez votre smartphone réagir à chaque pression, toucher ou balayage de vos doigts grâce à un processeur octa-core et à 4 Go de RAM
+- Batterie 5000 mAh : jusqu’à trois jours d’autonomie
 - Système quadruple caméra doté de l’Intelligence Artificielle : libérez votre créativité et prenez des photos d’objets distants, réalisez des panoramiques ultra grand angle et capturez des détails en gros plan
-- Revêtement avancé résistant à l’eau: Ne laissez plus les déversements, les éclaboussures ou la sueur vous empêcher d’utiliser votre smartphone
+- Des performances exceptionnelles : sentez votre smartphone réagir à chaque pression, toucher ou balayage de vos doigts grâce à un processeur octa-core et à 4 Go de RAM
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084KBNSXM/?tag=tolees0d-21)
