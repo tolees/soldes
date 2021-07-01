@@ -30,7 +30,7 @@ Vous avez [KS TOOLS 911.0944 Jeu de douilles à chocs XZN 1/2     9pcs](https://
 
 - Fabriqué au Taïwan
 - Dimensions de lemballage de larticle : 30.0 x 30.0 x 20.0 cm
-- Poids du colis : 8.0 kg
 - Nombre de pièces: 9
+- Poids du colis : 8.0 kg
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001NYR0UK/?tag=tolees0d-21)

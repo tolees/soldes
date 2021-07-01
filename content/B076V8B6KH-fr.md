@@ -28,10 +28,10 @@ Vous avez [Belkin - Tempered glass Ip7 blk](https://www.amazon.fr/dp/B076V8B6KH/
 
 ℹ️:
 
-- Surface entièrement recouverte : ce film sadapte à la forme incurvée de lécran pour une protection améliorée, résistante, durable et nette qui préserve le toucher de lécran dorigine.
-- Application facile et précise : posez le film protecteur sur votre téléphone grâce au support dalignement, au chiffon de nettoyage et à lautocollant de dépoussiérage inclus. Instructions fournies.
 - Surface de meilleure qualité : revêtement de qualité 9H ; épaisseur de 0,3 mm pour préserver la sensibilité de lécran tactile ; fonction Face ID préservée ; effet de glissement fluide propre au verre
 - Les quatre couches de protection en verre trempé du TemperedCurve permettent déviter toute rayure ou tout dommage sur lécran et de réduire les effets liés aux impacts de chute et de choc.
+- Application facile et précise : posez le film protecteur sur votre téléphone grâce au support dalignement, au chiffon de nettoyage et à lautocollant de dépoussiérage inclus. Instructions fournies.
 - Cette protection décran est compatible avec liPhone 8 Plus, iPhone 7 Plus, iPhone 6s Plus et iPhone 6 Plus uniquement. Garantie limitée de 2 ans (seulement si expédié / vendu par Amazon).
+- Surface entièrement recouverte : ce film sadapte à la forme incurvée de lécran pour une protection améliorée, résistante, durable et nette qui préserve le toucher de lécran dorigine.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076V8B6KH/?tag=tolees0d-21)

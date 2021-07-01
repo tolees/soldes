@@ -28,12 +28,12 @@ Vous avez [Mega Construx Game of Thrones Daenerys et Drogon  jeu de construction
 
 ℹ️:
 
-- Daenerys porte la tenue de combat visible dans la saison 7 avec une chaîne décorée d’un dragon.
 - Les ailes de Drogon s’étendent jusqu’à 90 cm.
-- Figurine Drogon à construire avec des écailles rouges et noires, des pattes, une queue et une tête articulées et des ailes en tissu qui se déploient.
-- Le corps de Drogon mesure environ 50 cm.
-- Mini-figurine de 5 cm de Daenerys Targaryen aux détails authentiques et nombreux points d’articulation
 - À collectionner et à combiner avec d’autres coffrets de construction Mega Construx.
+- Mini-figurine de 5 cm de Daenerys Targaryen aux détails authentiques et nombreux points d’articulation
+- Le corps de Drogon mesure environ 50 cm.
+- Figurine Drogon à construire avec des écailles rouges et noires, des pattes, une queue et une tête articulées et des ailes en tissu qui se déploient.
+- Daenerys porte la tenue de combat visible dans la saison 7 avec une chaîne décorée d’un dragon.
 - Construisez votre univers Game of Thrones et construisez au-delà !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P8WTVNR/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD My Passport SSD 1 To - Disque SSD externe a
 
 ℹ️:
 
-- Cryptage matériel AES 256 bits par mot de passe
-- Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
-- Sauvegarde facile
-- Design élégant et compact
 - Technologie NVMe rapide comme léclair avec des vitesses pouvant atteindre 1050 Mo/s en lecture et 1000 Mo/s en écriture
+- Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
+- Design élégant et compact
+- Sauvegarde facile
+- Cryptage matériel AES 256 bits par mot de passe
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08F2G1XPH/?tag=tolees0d-21)
