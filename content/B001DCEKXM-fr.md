@@ -28,10 +28,10 @@ C'est en vente [Suunto Core Digital Watch  taille unique   Noir](https://www.ama
 
 ℹ️:
 
-- Affichage matriciel avec rétroéclairage électroluminescent; Batterie remplaçable par lutilisateur, autonomie de 12 mois en mode heure
-- Menu multilingue, disponible en anglais, français, allemand et espagnol; Température de fonctionnement de -20°C à +60°C
 - La combinaison de laltimètre, du baromètre et de la boussole avec des informations météorologiques est loutil indispensable pour vos aventures
 - Double heure, affichage de la date, alarme quotidienne et heures de lever et de coucher du soleil
 - Suunto Core intègre les fonctionnalités outdoor les plus importantes dans une construction robuste avec un bracelet en élastomère confortable
+- Affichage matriciel avec rétroéclairage électroluminescent; Batterie remplaçable par lutilisateur, autonomie de 12 mois en mode heure
+- Menu multilingue, disponible en anglais, français, allemand et espagnol; Température de fonctionnement de -20°C à +60°C
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001DCEKXM/?tag=tolees0d-21)
