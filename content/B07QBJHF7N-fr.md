@@ -29,9 +29,9 @@ C'est en vente [Homecall - Coussin de jardin  Bleu/marron](https://www.amazon.fr
 ℹ️:
 
 - Homecall est une marque exclusivement vendue sur Amazon par des fabricants tiers.
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Rembourrage ultra-confortable en mousse de polyuréthane
-- 15 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Coussin réversible avec motif imprimé en 3D
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 15 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QBJHF7N/?tag=tolees0d-21)

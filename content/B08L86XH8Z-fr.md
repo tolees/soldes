@@ -28,10 +28,10 @@ Vous avez [AMIBOT Pure Laser H2O - Robots Aspirateurs et laveurs cartographie La
 
 ℹ️:
 
-- Cartographie laser : déplacements intelligents
-- Application AMIBOT HOME (IOS et Android) + Compatible avec les assistants vocaux Google Home et Alexa en Français
 - Aspiration ultra puissante : 3000Pa
 - Technologie UVC-Clean : 4 lampes UV-C destinées à désinfecter et purifier vos sols de manière écologique. Couplée à l’aspiration puissante, il tue les micro-organismes (virus, bactéries, levures et moisissures au sol) et réduit les risques d’allergies
+- Cartographie laser : déplacements intelligents
 - Autonomie jusquà 230min et surface jusquà 250 m²
+- Application AMIBOT HOME (IOS et Android) + Compatible avec les assistants vocaux Google Home et Alexa en Français
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08L86XH8Z/?tag=tolees0d-21)

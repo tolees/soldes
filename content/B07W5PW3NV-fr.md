@@ -28,10 +28,10 @@ C'est en vente [LEGO Star Wars  Snowspeeder et speeder bike  Set de jeu avec bas
 
 ℹ️:
 
-- Instructions PLUS, un guide disponible dans lapplication LEGO Life gratuite pour smartphones et tablettes propose des outils de zoom et de rotation pour aider les enfants à construire
 - Comprend 2 figurines : le héros et pilote rebelle Wedge Antilles et un Snowtrooper, tous deux équipés darmes
-- Les bases de démarrage, conçues pour faciliter le processus dapprentissage, aident les enfants à comprendre les étapes de construction tout en leur donnant confiance en eux
 - Les enfants peuvent aider à défendre la base Echo contre les assauts maléfiques de lEmpire - la station de défense possède un lanceur de disques « laser » pour tirer sur les assaillants
+- Les bases de démarrage, conçues pour faciliter le processus dapprentissage, aident les enfants à comprendre les étapes de construction tout en leur donnant confiance en eux
+- Instructions PLUS, un guide disponible dans lapplication LEGO Life gratuite pour smartphones et tablettes propose des outils de zoom et de rotation pour aider les enfants à construire
 - Contient 3 modèles faciles à reconstruire après la bataille : un Snowspeeder, une base de defense Echo et un speeder bike
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5PW3NV/?tag=tolees0d-21)
