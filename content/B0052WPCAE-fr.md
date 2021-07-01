@@ -28,11 +28,11 @@ Vous avez [BLACK+DECKER KA902EK-QS Lime Électrique Filaire - 6 Bandes Abrasives
 
 ℹ️:
 
+- Equipement: Coffret, 1 bras droit 13mm, 1 bras droit 6mm, 1 bras coudé 13mm, 6 bandes abrasives
 - Dimensions de la bande : 455 x 13 mm
 - Vitesse variable de la bande : 900 à 1 400 trs/mn pour poncer tous les matériaux
+- Action cyclonique pour une excellente aspiration et collection de la poussière
 - Livré avec 1 bras de ponçage
 - Idéal sur le surfaçage, le ponçage des pièces en relief
-- Action cyclonique pour une excellente aspiration et collection de la poussière
-- Equipement: Coffret, 1 bras droit 13mm, 1 bras droit 6mm, 1 bras coudé 13mm, 6 bandes abrasives
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0052WPCAE/?tag=tolees0d-21)
