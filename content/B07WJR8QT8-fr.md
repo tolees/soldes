@@ -29,7 +29,7 @@ Vous avez [Electronic Arts - Need for Speed Heat pour Xbox](https://www.amazon.f
 ℹ️:
 
 - Participez au Speedhunter Showdown le jour et gagnez de l’argent à l’issue de courses et d’épreuves de drift et de tout-terrain
-- La journée, repoussez vos limites en provoquant les flics de Palm City
 - Affirmez votre liberté – Avec encore plus d’articles pour personnaliser vos voitures et votre personnage au volant, c’est le moment d’affirmer qui vous êtes et de faire en sorte que tout le monde le sache
+- La journée, repoussez vos limites en provoquant les flics de Palm City
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WJR8QT8/?tag=tolees0d-21)

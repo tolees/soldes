@@ -28,10 +28,10 @@ C'est en vente [Smoby - Dickie - Toy Story 4 - Buggy Radio Commandé Buzz l Ecla
 
 ℹ️:
 
-- Aux commandes de ce buggy radiocommandé à léchelle 1/24ème tu pourras tentraîner à devenir le meilleur pilote !
 - Plonge dans lunivers de ton film danimation préféré: Toy Story 4 !
-- 4 piles LR6 et 2 piles LR03 non incluses. Dès 4 ans.
 - Tu pourras diriger ta voiture comme tu le souhaites grâce à la télécommande aux fonctions complètes de pilotage et sa fonction turbo ! le buggy a même des suspensions !
 - Une figurine représentant buzz est incluse. Technologie 2, 4GHz.
+- Aux commandes de ce buggy radiocommandé à léchelle 1/24ème tu pourras tentraîner à devenir le meilleur pilote !
+- 4 piles LR6 et 2 piles LR03 non incluses. Dès 4 ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QHN1XBF/?tag=tolees0d-21)

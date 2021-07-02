@@ -28,10 +28,10 @@ Vous avez [GROHE 26082002 Tempesta Cosmopolitan 100 Douchette 1 Jet  Chrome](htt
 
 ℹ️:
 
-- Inner WaterGuide, longévité maximale
 - GROHE DreamSpray jet parfaitement uniforme
 - Douchette 1 jet Pluie
 - Procédé anticalcaire SpeedClean.Import Allemagne
+- Inner WaterGuide, longévité maximale
 - GROHE StarLight chrome éclatant et durable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075RCPMC2/?tag=tolees0d-21)

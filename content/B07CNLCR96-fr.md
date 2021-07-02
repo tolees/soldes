@@ -28,10 +28,10 @@ Vous avez [FurReal friends – Peluche Interactive Show-Coco  Mon Perroquet Star
 
 ℹ️:
 
+- Bouton on/off dans le dos du Perroquet, 3 modes: allumé, éteint ou démonstration. 4 piles AA de 1, 5V requises, piles de démo incluses.
 - Ce Perroquet Star show Coco, peluche interactive Furreal Friends, danse, chante, parle, raconte des blagues et répète après vous en Français !
 - Equipé de nombreux capteurs: bec, joue, poitrail, détecteur de lumière. Il bouge ses ailes, son cou, son bec et sa crête.
-- Il enregistre et répète ce quon lui dit dans plusieurs tonalités. Peluche interactive: plus de 50 combinaisons de sons et de mouvements réalistes !
-- Bouton on/off dans le dos du Perroquet, 3 modes: allumé, éteint ou démonstration. 4 piles AA de 1, 5V requises, piles de démo incluses.
 - Valeur éducative de Furreal Friends: imaginer des histoires. Peluche interactive Furreal Friends, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 4 ans, 5 ans, 6 ans et plus.
+- Il enregistre et répète ce quon lui dit dans plusieurs tonalités. Peluche interactive: plus de 50 combinaisons de sons et de mouvements réalistes !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CNLCR96/?tag=tolees0d-21)

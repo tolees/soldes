@@ -28,10 +28,10 @@ C'est en vente [Soedesco - Truck Driver pour PS4](https://www.amazon.fr/dp/B07FD
 
 ℹ️:
 
-- Customisez votre camion avec des tonnes de pièces et réalisez les tunings dont vous rêvez. </p><p>
 - Entretenez de fortes relations professionnelles avec votre réseau à chaque nouveau job. </p><p>
-- Voyagez à travers de magnifiques paysages et des villes entièrement explorables. </p>
+- Customisez votre camion avec des tonnes de pièces et réalisez les tunings dont vous rêvez. </p><p>
 - Découvrez une vraie expérience au volant de votre camion axée sur votre carrière de chauffeur routier. </p><p>
 - Explorez un vaste monde ouvert et observez-le progresser avec vous. </p><p>
+- Voyagez à travers de magnifiques paysages et des villes entièrement explorables. </p>
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FDKWPLS/?tag=tolees0d-21)
