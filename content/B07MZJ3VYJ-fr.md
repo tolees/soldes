@@ -28,9 +28,9 @@ C'est en vente [G-STAR RAW Graphic 8 T-Shirt  Bleu  Sartho Blue 6067   Medium Ho
 
 ℹ️:
 
+- Ourlet droit
+- Col rond côtelé
 - Manches courtes avec empiècement droit
 - Motif G-Star Originals sur la poitrine
-- Col rond côtelé
-- Ourlet droit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MZJ3VYJ/?tag=tolees0d-21)
