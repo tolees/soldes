@@ -28,7 +28,7 @@ Vous avez [FM London Fitted Boxer Shorty  Noir  Gris  Blanc  Large  Lot de 12  H
 
 ℹ️:
 
-- Mélange 95 % coton et 5 % élasthanne
 - Lot de 12 boxers hipster pour homme
+- Mélange 95 % coton et 5 % élasthanne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084PRBVFZ/?tag=tolees0d-21)
