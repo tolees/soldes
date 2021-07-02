@@ -28,15 +28,15 @@ Vous avez [LEGO L invasion de la Batcave par Gueule d argile](https://www.amazon
 
 ℹ️:
 
-- La zone Batcomputer de la Batcave comprend un bureau, une chaise rotative pour figurine et 5 écrans avec des graphismes dordinateur.
-- La tour de transformation dispose dune fonction pour « transformer » Bruce Wayne en Batman : la figurine de Bruce Wayne est placée en haut à côté du téléphone, la figurine de Batman à lintérieur ; lorsque lon tire sur la goupille à larrière, Bruce disparaît et Batman apparaît à la base de la tour.
-- Cet ensemble Batman inclut le Batarang de Batman, le Batarang de Batwoman, le fouet de Catwoman ainsi que la dynamite et le pistolet qui ne tire pas de Double-Face.
-- La zone high-tech comprend un sac à dos à construire pour la figurine de Batman avec des outils détachables.
-- Les accessoires incluent un pack de 10 éléments daction et un pack de 10 éléments Bat Family assortis pour personnaliser les constructions, les figurines et les armes.
-- Lensemble comprend la Batcave LEGO avec une zone Batcomputer, une zone high-tech, une zone dentraînement, une salle darmes, une salle des trophées, une tour de transformation détachable et une prison détachable, plus un Bat-Tank.
-- Cet ensemble LEGO Batman inclut 6 figurines : Batman, Bruce Wayne, Robin, Batwoman, Catwoman et Double-Face, plus un grand modèle articulé de Gueule dargile avec des mâchoires et des mains agrippantes qui peuvent tenir une figurine.
 - La salle des trophées compte 3 podiums pour exposer 3 objets emblématiques de lunivers de Batman : une statue de dinosaure, un penny géant et des cartes du Joker.
+- Cet ensemble Batman inclut le Batarang de Batman, le Batarang de Batwoman, le fouet de Catwoman ainsi que la dynamite et le pistolet qui ne tire pas de Double-Face.
+- La zone Batcomputer de la Batcave comprend un bureau, une chaise rotative pour figurine et 5 écrans avec des graphismes dordinateur.
+- Lensemble comprend la Batcave LEGO avec une zone Batcomputer, une zone high-tech, une zone dentraînement, une salle darmes, une salle des trophées, une tour de transformation détachable et une prison détachable, plus un Bat-Tank.
+- La tour de transformation dispose dune fonction pour « transformer » Bruce Wayne en Batman : la figurine de Bruce Wayne est placée en haut à côté du téléphone, la figurine de Batman à lintérieur ; lorsque lon tire sur la goupille à larrière, Bruce disparaît et Batman apparaît à la base de la tour.
+- Les accessoires incluent un pack de 10 éléments daction et un pack de 10 éléments Bat Family assortis pour personnaliser les constructions, les figurines et les armes.
+- Cet ensemble LEGO Batman inclut 6 figurines : Batman, Bruce Wayne, Robin, Batwoman, Catwoman et Double-Face, plus un grand modèle articulé de Gueule dargile avec des mâchoires et des mains agrippantes qui peuvent tenir une figurine.
 - La prison comprend une fonction dexplosion pour faire sauter les barreaux, ainsi quune place de stationnement sur le toit pour le Batwing de lensemble Le Batwing et le cambriolage de lHomme-Mystère LEGO DC Batman 76120.
 - Le Bat-Tank comprend un cockpit pour figurine qui souvre, une tourelle rotative avec 4 missiles, plus un fusil à tenons et un lanceur de crochet détachables.
+- La zone high-tech comprend un sac à dos à construire pour la figurine de Batman avec des outils détachables.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KTVR1J4/?tag=tolees0d-21)
