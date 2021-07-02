@@ -28,11 +28,11 @@ C'est en vente [Sony Objectif SEL-P1650 Monture E APS-C 16-50 mm F3.5-5.6](https
 
 ℹ️:
 
-- Angle de vue (APS-C): 83°-32°
-- Distance focale équivalente en 35 mm : 24 - 75 mm
 - Zoom motorisé exceptionnellement fluide
-- Moins de 30 mm de long une fois rétracté
-- Stabilisateur optique SteadyShot intégré
+- Angle de vue (APS-C): 83°-32°
 - Lentilles asphériques et verre ED
+- Moins de 30 mm de long une fois rétracté
+- Distance focale équivalente en 35 mm : 24 - 75 mm
+- Stabilisateur optique SteadyShot intégré
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009AU9DJA/?tag=tolees0d-21)

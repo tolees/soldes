@@ -28,10 +28,10 @@ C'est en vente [Beyerdynamic Headset Gear  Extension de microphone pour série p
 
 ℹ️:
 
-- Compatible avec les écouteurs CUSTOM via un jack 3,5 mm
+- Le microphone à condensateur professionnel assure une communication parfaite
 - La télécommande par câble intégrée permet de couper le microphone rapidement et facilement et de régler le volume
 - Le câble dextension supplémentaire Y pour PC est inclus dans la livraison
-- Le microphone à condensateur professionnel assure une communication parfaite
+- Compatible avec les écouteurs CUSTOM via un jack 3,5 mm
 - Extension de casque amovible avec microphone à col à gosses pour jeux et utilisation multimédia
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075QT97BG/?tag=tolees0d-21)

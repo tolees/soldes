@@ -28,10 +28,10 @@ Vous avez [Corsair RM650i Alimentation PC  Modulaire Complet  80 PLUS Gold  650 
 
 ℹ️:
 
-- Certifiée 80 PLUS Gold
-- La puissance de Corsair Link Digital
-- Mode de ventilation à zéro T/M
 - Rail +12v configurable
+- La puissance de Corsair Link Digital
+- Certifiée 80 PLUS Gold
 - Condensateurs japonais de type 105°C
+- Mode de ventilation à zéro T/M
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZRL7F4G/?tag=tolees0d-21)
