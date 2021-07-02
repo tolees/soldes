@@ -28,13 +28,13 @@ C'est en vente [TEFAL Body Partner Pèse Personne Balance Connectée Compatible 
 
 ℹ️:
 
-- Suivi de toute la famille: reconnaissance automatique de lutilisateur possible jusquà 8 profils + 1 profil invité format compact ergonomique.
-- Consommation - Facteur de forme des piles: AAA | Source dalimentation: Batterie
+- Capteur de silhouette pour un suivi maximal de 6 mesures corporelles (bras, poitrine, taille, hanches, cuisses, mollets) par graduations de 2 mm.
 - Mesure du poids, jusquà 180 kg par graduations de 100 g.
+- Suivi de toute la famille: reconnaissance automatique de lutilisateur possible jusquà 8 profils + 1 profil invité format compact ergonomique.
 - Capteurs ITO pour mesurer précisément le poids, la masse grasse et le taux dhydratation.
-- Coaching sportif et coaching nutritionnel exclusifs intégrés dans lapplication Body Partner. Musculation, yoga, haltères, suivez vos évolutions de poids !
+- Consommation - Facteur de forme des piles: AAA | Source dalimentation: Batterie
 - Avec la balance impédancemètre suivez votre poids, IMC, masse maigre, masse grasse et taux dhydratation en un seul coup dœil.
 - Compatible Heath kit et Google Fit.
-- Capteur de silhouette pour un suivi maximal de 6 mesures corporelles (bras, poitrine, taille, hanches, cuisses, mollets) par graduations de 2 mm.
+- Coaching sportif et coaching nutritionnel exclusifs intégrés dans lapplication Body Partner. Musculation, yoga, haltères, suivez vos évolutions de poids !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21)

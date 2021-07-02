@@ -28,10 +28,10 @@ C'est en vente [Microsoft Surface Book 2  13 5" Argent  Core i7  16Go de RAM  1T
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Carte graphique dédiée NVIDIA GeForce GTX 1050
 - Dernier processeur Intel Quad-Core de 8ème génération
 - Jusqu’à 17h d’autonomie. Dernier processeur Intel Quad-Core de 8ème génération, Carte graphique dédiée NVIDIA GeForce GTX 1050, Ecran tactile 13,5’’ Pixel Sensé 3000x2000 pixels (267 PPI)
+- Carte graphique dédiée NVIDIA GeForce GTX 1050
 - 4 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0771RHSDF/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [OtterBox pour Apple iPhone SE  2nd gen /8/7  Étui folio anticho
 
 ℹ️:
 
-- Compatible avec iPhone 7/8/SE 2020
-- Cuir Véritable
-- Emplacement sécurisé pour insérer votre carte bancaire
-- Combine la protection fine et élégante, design Italien et la haute protection
 - Protection anti choc : double couche de protection composée de polycarbonate et Silicone
 - Protège aussi votre écran tactile grâce au rabat en cuir
+- Combine la protection fine et élégante, design Italien et la haute protection
+- Compatible avec iPhone 7/8/SE 2020
+- Emplacement sécurisé pour insérer votre carte bancaire
+- Cuir Véritable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074H3NLGL/?tag=tolees0d-21)

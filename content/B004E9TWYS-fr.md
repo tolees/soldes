@@ -28,14 +28,14 @@ C'est en vente [Gant - 2201 - Polo - Homme - Noir - Small](https://www.amazon.fr
 
 ℹ️:
 
-- Manches courtes.
-- Entretien : lavable en machine à chaud (40° +).
-- Polo piqué original de Gant.
 - Matériau intérieur : sans doublure.
-- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
-- Numéro du modèle : 2201.
+- Polo piqué original de Gant.
+- Entretien : lavable en machine à chaud (40° +).
 - 100 % coton.
-- Style de col : polo.
+- Numéro du modèle : 2201.
 - En raison du changement saisonnier, le point de couture, le logo et le bouton peuvent différer des images du catalogue.
+- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
+- Style de col : polo.
+- Manches courtes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004E9TWYS/?tag=tolees0d-21)

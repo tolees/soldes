@@ -29,9 +29,9 @@ C'est en vente [Wago 221-415 Bornier 5 Voies Lot de 25](https://www.amazon.fr/dp
 ℹ️:
 
 - Bornes de raccordement compactes.
-- Bornes de raccordement avec leviers.
 - Convient à tous types de conducteurs.
-- 5 points de serrage.
 - Lot de 25.
+- 5 points de serrage.
+- Bornes de raccordement avec leviers.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0107SYYGU/?tag=tolees0d-21)

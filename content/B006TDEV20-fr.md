@@ -28,10 +28,10 @@ Vous avez [Hornit DB140V2 Klaxon + lumière Mixte Adulte  Noir  Unique](https://
 
 ℹ️:
 
-- 100 % étanche norme IP44
-- Alerte les voitures, bus, camions et piétons
-- Adaptable à tous les cycles du marché - 140 décibels
 - Bouton poussoir en néoprène (facile à utiliser même en freinant)
+- Adaptable à tous les cycles du marché - 140 décibels
+- Alerte les voitures, bus, camions et piétons
+- 100 % étanche norme IP44
 - 2 sons (klaxon et perçant)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006TDEV20/?tag=tolees0d-21)

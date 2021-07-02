@@ -28,10 +28,10 @@ C'est en vente [The Ninja Saviors: Return of the Warriors pour PS4](https://www.
 
 ℹ️:
 
-- 5 personnages au total avec des déplacements différents
+- Coop à 2 joueurs Classement en ligne
 - Contient la bande son : Ninja Warriors Arcade, Ninja Warriors Super NES et le nouveau Ninja Savior
 - Nouvelles animations et Graphismes Haute définition En 16/9ème
-- Coop à 2 joueurs Classement en ligne
 - 2 nouveaux personnages jouables
+- 5 personnages au total avec des déplacements différents
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TVCHNN9/?tag=tolees0d-21)

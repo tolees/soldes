@@ -28,9 +28,9 @@ Vous avez [IMS-MCA  UN - Gaucho](https://www.amazon.fr/dp/B00008FCXO/?tag=tolees
 
 ℹ️:
 
-- Longueur:1.8 m
-- Interface prise en charge:DisplayPort
 - Caractéristiques supplémentaires:Connecteurs plaqués or
+- Longueur:1.8 m
 - Type de câble:Câble vidéo/audio
+- Interface prise en charge:DisplayPort
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00008FCXO/?tag=tolees0d-21)

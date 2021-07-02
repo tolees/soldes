@@ -30,9 +30,9 @@ C'est en vente [Vans Homme Old Skool Classic Suede/Canvas Baskets  Black White  
 
 - Fermeture : lacets.
 - Composition : toile.
+- Intérieur : textile.
+- Largeur de la tige : normale.
 - Matériau extérieur : cuir.
 - Semelle : caoutchouc.
-- Largeur de la tige : normale.
-- Intérieur : textile.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000KKM61Q/?tag=tolees0d-21)

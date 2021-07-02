@@ -28,14 +28,14 @@ C'est en vente [Gant Pique Rugger - Polo - Uni - Manches courtes - Homme  Noir -
 
 ℹ️:
 
-- En raison du changement saisonnier, le point de couture, le logo et le bouton peuvent différer des images du catalogue.
-- Numéro du modèle : 2201.
-- 100 % coton.
-- Matériau intérieur : sans doublure.
-- Style de col : polo.
-- Manches courtes.
-- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
 - Entretien : lavable en machine à chaud (40° +).
+- 100 % coton.
+- Manches courtes.
+- Numéro du modèle : 2201.
+- Matériau intérieur : sans doublure.
 - Polo piqué original de Gant.
+- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
+- En raison du changement saisonnier, le point de couture, le logo et le bouton peuvent différer des images du catalogue.
+- Style de col : polo.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004E9TXDS/?tag=tolees0d-21)
