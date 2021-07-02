@@ -28,15 +28,15 @@ Vous avez [LEGO 21153 Minecraft La Ferme à Laine  Set de Construction avec F
 
 ℹ️:
 
-- Cet ensemble de jeu LEGO Minecraft inclut plus de 250 pièces.
-- Cisailles en main, en route pour la ferme à laine !
-- Limagination ne connaît pas de limites : cet ensemble peut être transformé pour encore plus de créations LEGO Minecraft !
-- Les enfants peuvent construire lune des 3 structures ou leurs propres créations pour ajouter une touche personnelle à la ferme.
 - La ferme mesure plus de 12 cm de haut, 19 cm de large et 14 cm de profondeur.
 - Les accessoires incluent des cisailles à mouton.
 - Ce jouet Minecraft comprend également des briques LEGO supplémentaires pour des constructions créatives.
+- Cisailles en main, en route pour la ferme à laine !
 - Une conception modulaire facile à reconfigurer pour des modèles faciles et rapides à reconstruire.
+- Limagination ne connaît pas de limites : cet ensemble peut être transformé pour encore plus de créations LEGO Minecraft !
+- Les enfants peuvent construire lune des 3 structures ou leurs propres créations pour ajouter une touche personnelle à la ferme.
 - Le modèle comprend une ferme Minecraft avec un bouleau, une clôture, un ruisseau, des pierres pour le traverser, des cultures, des fleurs, 2 moutons Minecraft teints et un agneau, ainsi que des briques LEGO colorées pour construire lune des 3 structures amusantes qui décoreront la ferme.
 - Inclut une figurine de Steve, des moutons rouge et jaune et un agneau (nouveautés daoût 2019).
+- Cet ensemble de jeu LEGO Minecraft inclut plus de 250 pièces.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NDB4L48/?tag=tolees0d-21)
