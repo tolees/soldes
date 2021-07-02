@@ -28,10 +28,10 @@ Vous avez [Bosch Home and Garden - Bosch 0603130001 EasyImpact 550 Perceuse à p
 
 ℹ️:
 
-- Design ergonomique compact - Poignée pour un meilleur contrôle - Mandrin autoserrant.
+- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
 - Diam. De perçage max (béton/acier/bois) : 10 / 8 / 25 mm.
 - Vitesse à vide : 3 000 tr/min. Fréquence de frappe 33 000 cps/min. Couple : 11 Nm.
-- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
 - Moteur 550 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,…). Livrée avec un assistant pour un perçage précis et sans poussière.
+- Design ergonomique compact - Poignée pour un meilleur contrôle - Mandrin autoserrant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XQNG1T8/?tag=tolees0d-21)

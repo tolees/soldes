@@ -28,12 +28,12 @@ C'est en vente [Bosch Home and Garden - Détecteur thermique Bosch - PTD 1  Livr
 
 ℹ️:
 
-- Plage de température de surface : entre -20 et 200°C
-- Ecran daffichage et touches rétro-éclairées
 - Interprétation immédiate et facile des résultats
-- Optique: 10:01
-- Précision (humidité) : 2%
+- Ecran daffichage et touches rétro-éclairées
+- Plage de température de surface : entre -20 et 200°C
 - Précision (température) : 1°
+- Précision (humidité) : 2%
 - Type de détection : température de surface, ponts thermiques, humidité
+- Optique: 10:01
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B008MXIW5C/?tag=tolees0d-21)
