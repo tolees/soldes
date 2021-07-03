@@ -28,9 +28,9 @@ C'est en vente [Philips Lighting - Philips Hue White & Color Ambiance Spot Fugat
 
 ℹ️:
 
+- Une envie de simplement créer une ambiance? Commencez avec lapplication de contrôle Philips Hue Bluetooth et connectez jusquà 10 appliques. Faites varier l’intensité de votre éclairage et personnalisez votre ambiance avec les nuances de blancs et profitez de 4 scénarios lumineux préprogrammés : stimulation, concentration, lecture et détente.
 - Elargissez votre expérience de la maison connectée en synchronisant le pont Hue (vendu séparément) et bénéficiez dune expérience déclairage connectée optimale.
 - Déjà utilisateur Philips Hue: cette ampoule connectée compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre éco-système Hue existant.
 - Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, etc..). Contrôlez depuis un accessoire Hue, votre mobile ou via votre assistant vocal ( Alexa, Google Assistant, etc...).
-- Une envie de simplement créer une ambiance? Commencez avec lapplication de contrôle Philips Hue Bluetooth et connectez jusquà 10 appliques. Faites varier l’intensité de votre éclairage et personnalisez votre ambiance avec les nuances de blancs et profitez de 4 scénarios lumineux préprogrammés : stimulation, concentration, lecture et détente.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z9BJFM7/?tag=tolees0d-21)
