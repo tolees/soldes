@@ -28,15 +28,15 @@ Vous avez [LEGO 42099 Technic Le Tout-Terrain X-trême  Ensemble de Constructi
 
 ℹ️:
 
+- Le tout-terrain X-trême LEGO peut être contrôlé via un smartphone ou une tablette, avec 3 écrans différents. Pour obtenir la liste des dispositifs compatibles : LEGO.com/devicecheck.
+- Le hub sophistiqué intègre la technologie Bluetooth Low Energy (BLE) et comprend un bouton dactivation, un capteur 6 axes (3 capteurs gyroscopiques et 3 capteurs accélérométriques) ainsi que 4 ports de connexion.
+- Ce modèle LEGO Technic à construire fait découvrir aux constructeurs LEGO des notions dingénierie avancées, tout en améliorant leur temps de réaction, leur pensée cognitive et leur habilité à résoudre des problèmes.
+- Ce formidable tout-terrain peut être commandé depuis lapplication LEGO TECHNIC CONTROL+ et actionné par un hub sophistiqué avec 2 moteurs XL et 1 moteur L, pour des mouvements authentiques et une expérience de jeu des plus immersive.
+- Commande par touche unique : faire glisser le doigt sur lécran permet de voir le tout-terrain effectuer la manœuvre.
+- Défis et victoires : relever des défis permet de gagner des récompenses.
 - Le véhicule télécommandé fonctionne avec des piles (non incluses). Le type et le nombre de piles nécessaires sont indiqués sur lemballage.
 - 4x4 LEGO robuste contrôlé par application, équipé de suspensions hautes et indépendantes, de roues larges et dénormes pneus.
-- Le tout-terrain X-trême LEGO peut être contrôlé via un smartphone ou une tablette, avec 3 écrans différents. Pour obtenir la liste des dispositifs compatibles : LEGO.com/devicecheck.
-- Commande par touche unique : faire glisser le doigt sur lécran permet de voir le tout-terrain effectuer la manœuvre.
-- Ce modèle LEGO Technic à construire fait découvrir aux constructeurs LEGO des notions dingénierie avancées, tout en améliorant leur temps de réaction, leur pensée cognitive et leur habilité à résoudre des problèmes.
 - Commande multifonction : avancer, reculer, tourner, accélérer, freiner, franchir des obstacles, activer des effets sonores et consulter en temps réel des informations telles que la vitesse ou linclinaison.
-- Défis et victoires : relever des défis permet de gagner des récompenses.
-- Le hub sophistiqué intègre la technologie Bluetooth Low Energy (BLE) et comprend un bouton dactivation, un capteur 6 axes (3 capteurs gyroscopiques et 3 capteurs accélérométriques) ainsi que 4 ports de connexion.
-- Ce formidable tout-terrain peut être commandé depuis lapplication LEGO TECHNIC CONTROL+ et actionné par un hub sophistiqué avec 2 moteurs XL et 1 moteur L, pour des mouvements authentiques et une expérience de jeu des plus immersive.
 - Lapplication LEGO TECHNIC CONTROL+ est téléchargeable sur lApp Store et Google Play. Lautorisation des parents est nécessaire pour pouvoir se connecter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND6CFHZ/?tag=tolees0d-21)

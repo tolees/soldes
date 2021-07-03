@@ -28,8 +28,8 @@ Vous avez [LEGO 75255 Star Wars Yoda  Ensemble de Construction  modèle à Coll
 
 ℹ️:
 
-- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 - Le personnage de Yoda LEGO Star Wars avec son sabre laser mesure plus de 41 cm de haut.
+- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 - Ce modèle à collectionner inspiré de Star Wars : LAttaque des clones constitue un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
 - Comprend de nombreux détails : une tête et des sourcils mobiles, des doigts et des orteils articulés, le sabre laser vert de Yoda, ainsi qu’une plaque descriptive avec des informations sur le Maître Jedi et un présentoir pour la figurine de Yoda incluse.
 
