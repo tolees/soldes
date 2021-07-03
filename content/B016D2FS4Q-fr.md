@@ -28,9 +28,9 @@ Vous avez [SPORT-ELEC Multisport Pro - Electrostimulateur Musculaire Complet Mul
 
 ℹ️:
 
+- Ne pas mettre de crème de contact sur les électrodes autoadhésives
 - 4 modules
 - Multisport Pro possède une haute performance grâce à ses 4 canaux (dont 344 variations de programmes)
 - Simplicité et rapidité de pose
-- Ne pas mettre de crème de contact sur les électrodes autoadhésives
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B016D2FS4Q/?tag=tolees0d-21)
