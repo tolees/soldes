@@ -28,10 +28,10 @@ C'est en vente [Corsair M55 PRO RGB  Ambidextre D adhérence Multiples Optique S
 
 ℹ️:
 
-- Poids de seulement 86 g : Une construction incroyablement légère vous permet de jouer sans effort à votre meilleur niveau pendant des heures
-- Huit boutons entièrement programmables : Prenez l’avantage pendant le jeu avec le remappage de touches et des macros puissantes
-- La précision pour gagner : Contrôlez votre gameplay grâce au capteur optique de 12400DPI pour un suivi de haute précision
-- Construit pour durer : La construction durable dotée de switchs Omron certifiés pour 50millions de clics et d’un câble tressé donne à la force de résister à des années d’intenses séances de gaming
 - Conception ambidextre polyvalente : Jouez à votre meilleur niveau de n’importe quelle main en utilisant votre prise la plus confortable, que ce soit avec votre paume ou du bout des doigts. Capteur: PMW3327
+- La précision pour gagner : Contrôlez votre gameplay grâce au capteur optique de 12400DPI pour un suivi de haute précision
+- Huit boutons entièrement programmables : Prenez l’avantage pendant le jeu avec le remappage de touches et des macros puissantes
+- Construit pour durer : La construction durable dotée de switchs Omron certifiés pour 50millions de clics et d’un câble tressé donne à la force de résister à des années d’intenses séances de gaming
+- Poids de seulement 86 g : Une construction incroyablement légère vous permet de jouer sans effort à votre meilleur niveau pendant des heures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RNS9HTZ/?tag=tolees0d-21)

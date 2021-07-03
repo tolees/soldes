@@ -28,8 +28,8 @@ Vous avez [Electronic Arts - Mass Effect : Andromeda](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Incarnez le Pionnier dans une histoire où vos choix comptent, combattez de nouveaux ennemis
-- Redoutables et tentez de percer les secrets du secteur Héléus
 - Plongez au cœur dune aventure RPG bourrée daction se déroulant dans une nouvelle galaxie
+- Redoutables et tentez de percer les secrets du secteur Héléus
+- Incarnez le Pionnier dans une histoire où vos choix comptent, combattez de nouveaux ennemis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M36HOIC/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Microsoft Surface Book 3  Windows 10  écran détachable tactile
 
 ℹ️:
 
+- Indice de réparabilité: 3.5/10
 - Stockage et mémoire : 8GB/256GB
 - Processeur quadricœur Intel Core i5-1035G7 de 10e génération
 - Écran PixelSense de 13,5 pouces 3 000 x 2 000 (267 ppp). Format d’image : 3:2 Rapport de contraste : 1600:1 Tactile : Multipoint 10 points G5
-- Carte graphique : Modèles avec Intel Core i5-1035G7 : Intel Iris Plus Graphics
-- Indice de réparabilité: 3.5/10
 - 2 ports USB-A 1 port USB-C Prise casque 3,5 mm 2 ports Surface Connect Lecteur de carte SDXC format standard Compatible avec Surface Dial* avec interaction sur ou hors écran
+- Carte graphique : Modèles avec Intel Core i5-1035G7 : Intel Iris Plus Graphics
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0873KJVDH/?tag=tolees0d-21)

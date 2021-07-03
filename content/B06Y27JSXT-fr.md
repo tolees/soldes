@@ -28,9 +28,9 @@ C'est en vente [Jeujura - 8345- Jeux de Construction-Tecap Baril de Planchettes 
 
 ℹ️:
 
+- Baril: 27 x 43 x 15 cm
 - Jeu de construction en bois
 - Fabrication française
 - Contient 200 pièces en bois (planchettes, doubles planchettes, triangles, hexagones, cylindres…)
-- Baril: 27 x 43 x 15 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06Y27JSXT/?tag=tolees0d-21)

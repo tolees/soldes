@@ -28,9 +28,9 @@ C'est en vente [Aubade Demi Bra pour Femme - Bow Collection - Soir 80  Taille FR
 
 ℹ️:
 
-- Complétez le look avec la culotte assortie.
-- Somptueux soutien-gorge corbeille longline, son effet push up réhausse et met en valeur la poitrine.
 - Ses bretelles doubles ajustables et sa fermeture agrafée offrent un confort optimal.
+- Somptueux soutien-gorge corbeille longline, son effet push up réhausse et met en valeur la poitrine.
 - Tulle transparent adorné dune broderie haute couture à motif noeud.
+- Complétez le look avec la culotte assortie.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q2H5QZP/?tag=tolees0d-21)

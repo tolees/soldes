@@ -28,10 +28,10 @@ C'est en vente [BABYBJÖRN Coffret Repas Bébé  lot de 5  Bleu pastel](https://
 
 ℹ️:
 
-- Verre pour bébé stable et difficile à renverser
-- Bavoir confortable avec une poche de récupération profonde
-- La forme de l’assiette aide l’enfant à manger seul
-- Cuillère et fourchette pour bébé faciles à tenir
 - Plastique sans bpa fabriqué en suède
+- Verre pour bébé stable et difficile à renverser
+- Cuillère et fourchette pour bébé faciles à tenir
+- La forme de l’assiette aide l’enfant à manger seul
+- Bavoir confortable avec une poche de récupération profonde
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MPZ9ZKK/?tag=tolees0d-21)
