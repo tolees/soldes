@@ -28,10 +28,10 @@ Vous avez [Schneider 746-15 Parasol Salerno Rectangulaire  Anthracite  300 x 150
 
 ℹ️:
 
-- UV-protection 50+ excellent as/Nzs4399: 1996
-- 100 % polyester, env. 180 g/m 2, imputrescible, imperméable
-- pôle en deux parties 38 mm ø
-- Ouverture, fermeture et inclinaison possibles dans les lieux les plus exigus, cest-à-dire entre le parapet du balcon et létage du dessus
 - housse de protection en polyester gris avec fermeture à glissière et barre incluse
+- Ouverture, fermeture et inclinaison possibles dans les lieux les plus exigus, cest-à-dire entre le parapet du balcon et létage du dessus
+- 100 % polyester, env. 180 g/m 2, imputrescible, imperméable
+- UV-protection 50+ excellent as/Nzs4399: 1996
+- pôle en deux parties 38 mm ø
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WS1PZ2/?tag=tolees0d-21)
