@@ -28,10 +28,10 @@ Vous avez [Capcom - Resident Evil 3 pour PS4](https://www.amazon.fr/dp/B082PPZTL
 
 ℹ️:
 
-- Encore plus d’action !
-- Deux personnages iconiques de la série: jill valentine et le nemesis
-- Vue à la troisième personne
 - Remake d’un des jeux les plus appréciés des fans
+- Vue à la troisième personne
+- Deux personnages iconiques de la série: jill valentine et le nemesis
+- Encore plus d’action !
 - Moteur re engine, utilisé pour resident evil 2 et resident evil 7
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082PPZTLT/?tag=tolees0d-21)
