@@ -28,10 +28,10 @@ C'est en vente [Scuderia Ferrari Homme Analogique Quartz Montre avec Bracelet en
 
 ℹ️:
 
-- Résistance à leau 5 ATM
 - Mouvement multifonction
-- Cadran coloris noir
 - Bracelet milanais en acier inoxydable
+- Cadran coloris noir
 - Épaisseur du boîtier 10,2mm, Diamètre du boîtier 44 mm
+- Résistance à leau 5 ATM
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V1M9CK7/?tag=tolees0d-21)
