@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '51.45 % rabais sur SPORT-ELEC Multisport Pro - Electrostimu'
-date: 2021-06-27 20:03:30
+date: 2021-07-03 14:28:22
 image: 'https://m.media-amazon.com/images/I/518sWOGxSXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [SPORT-ELEC Multisport Pro - Electrostimulateur Musculaire Complet Mul
 
 ℹ️:
 
+- Multisport Pro possède une haute performance grâce à ses 4 canaux (dont 344 variations de programmes)
 - Simplicité et rapidité de pose
 - 4 modules
 - Ne pas mettre de crème de contact sur les électrodes autoadhésives
-- Multisport Pro possède une haute performance grâce à ses 4 canaux (dont 344 variations de programmes)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B016D2FS4Q/?tag=tolees0d-21)
