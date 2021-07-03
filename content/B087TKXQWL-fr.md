@@ -28,10 +28,10 @@ C'est en vente [Videoprojecteur Full HD WiFi Bluetooth - Artlii ENERGON 2  2.4G/
 
 ℹ️:
 
-- 【🔥 Expérience de grande image de 300,Zoom dimage de 60% à 100%】La taille de limage est variable de 44  à 300  dune distance de 1,44m à 8.5m, ce qui peut fournir une expérience immersive de niveau cinéma, Ce projecteur prend en charge lajustement de la taille de limage de 60% à 100%.
-- 【🔥 Meilleures performances dimage】Amélioré avec la puce de performance Mstar, ce rétroprojecteur a une gamme de couleurs de 98% NTSC, une luminosité de + 60% (340ANSI） et un taux de contraste de 10000: 1, Lamélioration vous apporte une expérience cinématographique inégalée.
 - 【🔥 Videoprojecteur 1080P natif & WiFi Connexion】Artlii ENERGON 2 - 2021 Amélioré, Projecteur 1080P natif avec connexion WiFi,Soutenir 4K, Synchronisation décran de sans fil, Soutiens appareils iOS, Huawei, Samsung,Android,la connexion Macbook et plus dappareils.
 - 【🔥 Connexion Bluetooth & Son stéréo】Energon 2 vidéoprojecteur fournit une connexion WiFi et Bluetooth, compatible avec les écouteurs Bluetooth, Haut-parleur Bluetooth,Soundbar. Il dispose également de haut-parleurs stéréo intégrés.
+- 【🔥 Expérience de grande image de 300,Zoom dimage de 60% à 100%】La taille de limage est variable de 44  à 300  dune distance de 1,44m à 8.5m, ce qui peut fournir une expérience immersive de niveau cinéma, Ce projecteur prend en charge lajustement de la taille de limage de 60% à 100%.
+- 【🔥 Meilleures performances dimage】Amélioré avec la puce de performance Mstar, ce rétroprojecteur a une gamme de couleurs de 98% NTSC, une luminosité de + 60% (340ANSI） et un taux de contraste de 10000: 1, Lamélioration vous apporte une expérience cinématographique inégalée.
 - 【🔥 Reproduction réaliste des couleurs naturelles】 Grâce à la technologie LCD améliorée et au chipset Mstar, le videoprojecteur Artlii Full HD produit des couleurs réalistes. Avec son rapport de contraste de 10000: 1, limage est plus vive et immersive. Il est parfait pour la démonstration de projet et l’enseignement.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087TKXQWL/?tag=tolees0d-21)
