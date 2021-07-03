@@ -29,8 +29,8 @@ Vous avez [GPS Voiture - GPS auto - Mappy GPS Maxi E738  Écran : 7 Pouces - 24 
 ℹ️:
 
 - Ecran : 7 Pouces
-- Mise à jour : Gratuite jusquà 4 fois par an
 - Alertes : À l’approche des zones de dangers
+- Mise à jour : Gratuite jusquà 4 fois par an
 - Carte Europe : 24 pays
 - Autonomie : Jusqu’à 3h en navigation
 
