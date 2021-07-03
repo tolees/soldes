@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.64 % rabais sur Schneider 746-15 Parasol Salerno Rectang'
-date: 2021-06-28 18:28:12
+date: 2021-07-03 10:04:14
 image: 'https://m.media-amazon.com/images/I/31oAM8CtWCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Schneider 746-15 Parasol Salerno Rectangulaire  Anthracite  300 x 150
 
 ℹ️:
 
+- UV-protection 50+ excellent as/Nzs4399: 1996
+- 100 % polyester, env. 180 g/m 2, imputrescible, imperméable
+- pôle en deux parties 38 mm ø
 - Ouverture, fermeture et inclinaison possibles dans les lieux les plus exigus, cest-à-dire entre le parapet du balcon et létage du dessus
 - housse de protection en polyester gris avec fermeture à glissière et barre incluse
-- UV-protection 50+ excellent as/Nzs4399: 1996
-- pôle en deux parties 38 mm ø
-- 100 % polyester, env. 180 g/m 2, imputrescible, imperméable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WS1PZ2/?tag=tolees0d-21)
