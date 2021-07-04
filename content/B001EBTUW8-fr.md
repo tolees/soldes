@@ -28,10 +28,10 @@ Vous avez [New Classic Toys Instrument de Musique pour débutants Guitare de Lux
 
 ℹ️:
 
-- Conçu pour les personnes âgées de 3 ans et plus.
 - New Classic Toys est synonyme de jouets éducatifs et de qualité. Tous les produits respectent les exigences de sécurité les plus strictes en conformité avec la norme EN-71.
-- Cet article fait partie de la New Classic Toys "First Melodies" collection.
 - Guitare enfant avec un système professionel, inclus un plectre, une bandoulière et une corde supplémentaire.
+- Conçu pour les personnes âgées de 3 ans et plus.
+- Cet article fait partie de la New Classic Toys "First Melodies" collection.
 - Encourage les compétences musicales et de coordination yeux-yeux des enfants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001EBTUW8/?tag=tolees0d-21)
