@@ -28,10 +28,10 @@ Vous avez [Seiko SUR269P1  Montres Bracelet  Hommes](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Type de mouvement : quartz
 - Type de verre : hardlex
 - Type daffichage : analogique
 - Matière du bracelet : acier inoxydable
 - Matière du boîtier : acier inoxydable
+- Type de mouvement : quartz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNSDT36/?tag=tolees0d-21)
