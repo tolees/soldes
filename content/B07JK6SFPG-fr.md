@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.10 % rabais sur Under Armour UA Roland Backpack  Sac à o'
-date: 2021-07-01 06:44:33
+date: 2021-07-04 08:44:58
 image: 'https://m.media-amazon.com/images/I/31fJhZGjrfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.fr/dp/B07JK6SFPG/?tag=tolees0d-21'
 descuento: '50.10'
-average: '16.6783333333333'
+average: '16.4342857142857'
 ---
 
 Vous avez [Under Armour UA Roland Backpack  Sac à ordinateur hydrofuge pratique  Sac à dos polyvalent avec compartiment à ordinateur pour MacBook 15" ou taille similaire Unisexe](https://www.amazon.fr/dp/B07JK6SFPG/?tag=tolees0d-21)  à  50.10 % de réduction, prix final  14.97 EUR (original: 30.0 EUR) ici:
