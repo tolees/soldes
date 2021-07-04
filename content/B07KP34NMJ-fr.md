@@ -28,8 +28,8 @@ Vous avez [ASUS VG279Q - Ecran PC gaming eSport 27" FHD - Dalle IPS - 16:9 - 144
 
 ℹ️:
 
-- Matériel spécial gaming
 - Fréquence du signal numérique: Port daffichage: 255 ~ 255 KHz (H) / 48 ~ 280 Hz (V)
 - Réglage de linclinaison: -5 à 33°
+- Matériel spécial gaming
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KP34NMJ/?tag=tolees0d-21)

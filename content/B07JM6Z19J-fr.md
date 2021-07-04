@@ -28,10 +28,10 @@ C'est en vente [NIOXIN 3-part System Kit 2 pour cheveux très fins et naturels](
 
 ℹ️:
 
-- Ce kit professionnel de 3 produits capillaires est idéal pour laver, équilibrer et prendre soin de vos cheveux et de votre cuir chevelu
-- Obtenez une chevelure plus dense avec le produit innovant Système en trois parties
-- Le kit System 2 de Nixon protège vos cheveux contre la casse, pour une chevelure plus épaisse, plus dense et éclatante
 - Shampooing Nixon Cleans er 2 (150ml), élimine le sébum et les résidus du cuir chevelu et des cheveux
+- Le kit System 2 de Nixon protège vos cheveux contre la casse, pour une chevelure plus épaisse, plus dense et éclatante
+- Ce kit professionnel de 3 produits capillaires est idéal pour laver, équilibrer et prendre soin de vos cheveux et de votre cuir chevelu
 - Lemballage peut varier
+- Obtenez une chevelure plus dense avec le produit innovant Système en trois parties
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JM6Z19J/?tag=tolees0d-21)
