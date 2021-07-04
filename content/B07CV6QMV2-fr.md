@@ -28,10 +28,10 @@ Vous avez [Osprey Ozone Duplex 65 - Sac de voyage homme - Black O/S](https://www
 
 ℹ️:
 
-- 18 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Entrée au compartiment principal par larrière
 - Conforme aux régulations européenne concernant les dimensions maximales
+- Entrée au compartiment principal par larrière
+- 18 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Osprey ozone duplex 65 - Sac de voyage homme - Black o/S
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CV6QMV2/?tag=tolees0d-21)

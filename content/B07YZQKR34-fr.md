@@ -28,7 +28,7 @@ Vous avez [Jack & Jones Jjiliam Jjoriginal Agi 002 Noos Jean Skinny  Bleu  Blue 
 
 ℹ️:
 
-- elastic cotton
 - skinny fit jeans
+- elastic cotton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YZQKR34/?tag=tolees0d-21)
