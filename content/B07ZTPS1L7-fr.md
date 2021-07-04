@@ -28,7 +28,7 @@ C'est en vente [Peak Design x Sac à dos  Schwarz  30 l Unisexe](https://www.ama
 
 ℹ️:
 
-- PEAK-DESIGN
 - Accessoire image & son
+- PEAK-DESIGN
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZTPS1L7/?tag=tolees0d-21)

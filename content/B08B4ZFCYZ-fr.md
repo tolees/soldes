@@ -28,9 +28,9 @@ Vous avez [Lenovo Ideacentre AIO 3 27IMB05 Ordinateur de Bureau Tout-en-Un 27 �
 
 ℹ️:
 
+- Gamme complète de ports
 - Le fabuleux écran 27" FHD affiche une quantité de détails impressionnante
 - Des performances de pointe avec le processeur Intel Core i5-10400T
-- Gamme complète de ports
 - Démarrez en moins de 20 secondes grace à la rapidité du SSD ! Tous vos logiciels sexecutent en un temps record! De plus, profitez dun large stockage pour tous vos fichiers multimédias.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B4ZFCYZ/?tag=tolees0d-21)

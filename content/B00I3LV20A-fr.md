@@ -28,13 +28,13 @@ Vous avez [Sony MDR-EX15APW Ecouteurs Intra-auriculaires avec Microphone - Blanc
 
 ℹ️:
 
+- Disponible dans différents coloris
+- Gamme de fréquences effective 8 Hz - 22 kHz
+- Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz - 22 kHz, oreillettes en silicone, choix de coloris
 - Diaphragmes en néodyme de 9 mm
+- Gamme de fréquences effective 8 Hz - 22 kHz
 - Disponible dans différents coloris
 - Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz - 22 kHz, oreillettes en silicone, choix de coloris
-- Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz - 22 kHz, oreillettes en silicone, choix de coloris
-- Gamme de fréquences effective 8 Hz - 22 kHz
-- Gamme de fréquences effective 8 Hz - 22 kHz
 - Diaphragmes en néodyme de 9 mm
-- Disponible dans différents coloris
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00I3LV20A/?tag=tolees0d-21)

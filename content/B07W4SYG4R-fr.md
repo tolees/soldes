@@ -28,8 +28,8 @@ Vous avez [Nike Park VII Jersey SS Maillot Homme  Bright Crimson/Black  FR : M  
 
 ℹ️:
 
+- 100% polyester
 - Maillot
 - Park VII jersey ss
-- 100% polyester
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4SYG4R/?tag=tolees0d-21)

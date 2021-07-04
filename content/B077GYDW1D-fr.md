@@ -28,9 +28,9 @@ C'est en vente [Le Comptoir du Bain Savon de Marseille Liquide Pamplemousse Rose
 
 ℹ️:
 
-- Sans conservateur. Sans sulfate. Sans graisse animale.
-- Naturellement riche en glycérine hydratante et acide gras essentiel
 - Sa formule de dessèche pas et élimine efficacement les odeurs tenaces (fritures, poissons, crustacés, ail, oignons…)
+- Sans conservateur. Sans sulfate. Sans graisse animale.
 - Lave en douceur les mains, même les plus sensibles
+- Naturellement riche en glycérine hydratante et acide gras essentiel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077GYDW1D/?tag=tolees0d-21)

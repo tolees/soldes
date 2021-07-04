@@ -28,10 +28,10 @@ C'est en vente [Merge Games - Stranded Sails Explorers of the Cursed Islands pou
 
 ℹ️:
 
-- Gérez la création et l’extension d’un camp de survivants, vivez une aventure de survie avec un cycle jour et nuit
 - Vivez une aventure agricole dans un monde ouvert, accomplissez des quêtes pleines de mystères et dangers, explorez les îles pour trouver de nouvelles plantes et des objets utiles
-- Explorez plusieurs îles passionnantes et résolvez le secret des îles maudites en combattant des dangers surnaturels
+- Gérez la création et l’extension d’un camp de survivants, vivez une aventure de survie avec un cycle jour et nuit
 - Procurez de la nourriture à votre équipage et améliorer leur niveau de satisfaction et prouvez vos compétences en tant que constructeur de bateaux
+- Explorez plusieurs îles passionnantes et résolvez le secret des îles maudites en combattant des dangers surnaturels
 - L’agriculture et la cuisine vous permettront de survivre, surveillez vos réserves d’énergie et choisissez le bon aliment
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXN5TWW/?tag=tolees0d-21)
