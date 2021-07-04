@@ -28,10 +28,10 @@ Vous avez [Millet – Easy Up – Chaussures d’Escalade Mixte Adulte – Tige 
 
 ℹ️:
 
-- Forme axée droite et semelle symétrique avec talon généreux pour un confort d’utilisation optimisé, Pointe profilée pour une meilleure précision lors de la grimpe
-- Languette chaussette enveloppante offrant un compromis idéal entre confort, durabilité et performance grâce à sa tige en polycoton doublée en chanvre
+- Contenu : 1x paire de chaussons d’escalade unisexe pour adulte Easy Up Millet, Pointure : UK 8,5 / EUR 42 2/3, Poids : 210g, Couleur : Gris/Rouge
 - Chaussons souples pour grimpeurs débutants à la recherche de sensations dans la dimension verticale spécialement conçus pour la pratique de l’escalade en intérieur, compatibles en extérieur
 - Excellent ratio adhérence/durabilité grâce à la gomme historique 4 Points Grip Durable de la marque, Serrage velcro pour un réglage précis et un chaussage et déchaussage rapides
-- Contenu : 1x paire de chaussons d’escalade unisexe pour adulte Easy Up Millet, Pointure : UK 8,5 / EUR 42 2/3, Poids : 210g, Couleur : Gris/Rouge
+- Forme axée droite et semelle symétrique avec talon généreux pour un confort d’utilisation optimisé, Pointe profilée pour une meilleure précision lors de la grimpe
+- Languette chaussette enveloppante offrant un compromis idéal entre confort, durabilité et performance grâce à sa tige en polycoton doublée en chanvre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N1YSPT4/?tag=tolees0d-21)

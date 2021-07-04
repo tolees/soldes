@@ -28,15 +28,15 @@ C'est en vente [2020 Apple iPad Pro  11 Pouces  Wi-FI  512 Go  - Gris sidéral
 
 ℹ️:
 
-- Face ID pour l’authentification sécurisée et Apple Pay
-- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
-- Appareils photo grand‑angle 12 Mpx et ultra grand‑angle 10 Mpx, scanner LiDAR
-- Wi‑Fi 6 802.11ax
-- Caméra avant TrueDepth 7 Mpx
+- Connecteur USB-C pour la recharge et les accessoires
 - Écran Liquid Retina bord à bord de 11 pouces avec ProMotion, True Tone et large gamme de couleurs P3
 - Puce A12Z Bionic avec Neural Engine
+- Wi‑Fi 6 802.11ax
 - Jusqu’à 10 heures d’autonomie
+- Appareils photo grand‑angle 12 Mpx et ultra grand‑angle 10 Mpx, scanner LiDAR
+- Face ID pour l’authentification sécurisée et Apple Pay
+- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Caméra avant TrueDepth 7 Mpx
 - Quatre haut‑parleurs et cinq micros de qualité studio
-- Connecteur USB-C pour la recharge et les accessoires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0863TK1FM/?tag=tolees0d-21)
