@@ -28,8 +28,8 @@ Vous avez [Canon CLI-42 Cartouche PM Photo Magenta  Emballage carton ](https://w
 
 ℹ️:
 
-- Lencre dorigine canon est fiable, vous pouvez donc imprimer en toute tranquillité
 - Lencre canon produit en moyenne dimpressions de qualité
 - Lencre canon offre toujours des impressions de qualité
+- Lencre dorigine canon est fiable, vous pouvez donc imprimer en toute tranquillité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009DL0UKM/?tag=tolees0d-21)
