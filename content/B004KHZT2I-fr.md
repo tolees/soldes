@@ -28,10 +28,10 @@ Vous avez [Exacompta - Réf. 50000E - Paquet de 50 chemises à fenetre Forever®
 
 ℹ️:
 
-- Limpression facilite lidentification et le classement
-- 10 couleurs assorties, blanc, bleu clair, bleu vif, fuchsia, jaune, lilas, orange, rouge, vert pré, vert vif
 - Elles se recyclent avec le papier. Carte légère, recyclée, certifiée Ange Bleu
-- Ces chemises à fenêtre sans plastique sont mono-matériau papier, avec une fenêtre en calque transparent
+- Limpression facilite lidentification et le classement
 - La fenêtre permet une visualisation immédiate du contenu du dossier
+- 10 couleurs assorties, blanc, bleu clair, bleu vif, fuchsia, jaune, lilas, orange, rouge, vert pré, vert vif
+- Ces chemises à fenêtre sans plastique sont mono-matériau papier, avec une fenêtre en calque transparent
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21)
