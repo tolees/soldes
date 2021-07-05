@@ -28,8 +28,8 @@ Vous avez [Disney La Reine des Neiges 2 - L extraordinaire Chteau d Arendelle d 
 
 ℹ️:
 
-- Idéal for KIDS
-- Désigne for easy utiliser
 - Frz 2 a rend elle Castle
+- Désigne for easy utiliser
+- Idéal for KIDS
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M8SDQJH/?tag=tolees0d-21)

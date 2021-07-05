@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital WD Red Plus 3.5" 4000 Go avec 18.58 % rabais '
-date: 2021-07-03 23:54:05
+date: 2021-07-04 23:57:32
 image: 'https://m.media-amazon.com/images/I/41tlAx+h1sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
