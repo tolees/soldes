@@ -28,8 +28,8 @@ Vous avez [Minichamps- Miniature-McLaren F1 GTR Sekiyale  530133739  Bleu/Orange
 
 ℹ️:
 
-- Dimensions : 30x12x12 cm
 - Age minimum : 14 ans
 - Modèle Réduit
+- Dimensions : 30x12x12 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZGEA258/?tag=tolees0d-21)
