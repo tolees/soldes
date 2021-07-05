@@ -28,21 +28,21 @@ C'est en vente [Case Logic QHDC101K Étui semi-rigide pour unité de Disque Dur 
 
 ℹ️:
 
-- <b>Couleur</b>: Noir
-- Poids : 85 g
-- Garantie Fabricant: 25 an(s)
-- <b>Poids</b>: 85 g
-- Case Logic - QHDC101K
 - <b>Description du produit</b>: Case Logic - QHDC101K
-- Étui semi-rigide
-- Matériau du produit : Éthylène-acétate de vinyle moulé
-- <b>Utilisation</b>: Étui semi-rigide pour unité de Disque Dur 2,5 pouces
-- <b>Matériau du produit</b>: Éthylène-acétate de vinyle moulé
 - Couleur : Noir
-- <b>Dimensions intérieures</b>: 13.5 cm x 8.9 cm x 3.8 cm
+- Case Logic - QHDC101K
+- <b>Utilisation</b>: Étui semi-rigide pour unité de Disque Dur 2,5 pouces
 - Utilisation : Étui semi-rigide pour unité de Disque Dur 2,5 pouces
+- <b>Poids</b>: 85 g
 - Garantie Fabricant: 25 an(s)
-- <b>Type de produit</b>: Étui semi-rigide
 - Dimensions intérieures 13.5 cm x 8.9 cm x 3.8 cm
+- <b>Couleur</b>: Noir
+- Étui semi-rigide
+- <b>Dimensions intérieures</b>: 13.5 cm x 8.9 cm x 3.8 cm
+- <b>Matériau du produit</b>: Éthylène-acétate de vinyle moulé
+- Garantie Fabricant: 25 an(s)
+- Matériau du produit : Éthylène-acétate de vinyle moulé
+- <b>Type de produit</b>: Étui semi-rigide
+- Poids : 85 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003WUBIZQ/?tag=tolees0d-21)

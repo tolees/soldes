@@ -29,7 +29,7 @@ C'est en vente [Lastolite Hinterbasique support ventouseung magnetisch](https://
 ℹ️:
 
 - Conçu pour sadapter au connecteur standard industriel 5/8
-- Aimants magnétiques fiables
 - Attachez facilement nimporte quel fond pliable avec une monture en acier
+- Aimants magnétiques fiables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J7OQLTO/?tag=tolees0d-21)
