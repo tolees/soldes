@@ -28,10 +28,10 @@ C'est en vente [KREATOR KRT020427 KRT020427-Disco de Sierra Madera 254mm40d  Ø2
 
 ℹ️:
 
-- Ø 254 mm x 30 mm x 3 mm
 - Lame de scie en bois avec Diamètre : 254 mm
+- Ø 254 mm x 30 mm x 3 mm
+- 40 dents
 - drehrichtungsgebunden max. 5300 tr/min
 - Alésage Ø 30 mm, bague de réduction sur Ø 16–20–25,4 mm
-- 40 dents
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01G7DCOUW/?tag=tolees0d-21)

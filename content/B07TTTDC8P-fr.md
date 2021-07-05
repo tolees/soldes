@@ -29,8 +29,8 @@ Vous avez [Gund - 6055561 - Peluche Classique - Jouet Premier Age - Philbin Ours
 ℹ️:
 
 - Le premier ourson tout doux qui grandira avec Bébé
-- Lavable en surface
-- A partir de 12 mois
 - Taille : environ 30 cm
+- A partir de 12 mois
+- Lavable en surface
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTTDC8P/?tag=tolees0d-21)

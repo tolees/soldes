@@ -28,10 +28,10 @@ Vous avez [Cisco Catalyst 3560-CX PD PSE 8 Port POE](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- CATALYST 3560-CX PD PSE 8 PORT POE
-- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Dimensions de lemballage de larticle ( L x B x H) en cm : 20 x 20 x 11
+- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Fabriqué en Chine
+- CATALYST 3560-CX PD PSE 8 PORT POE
+- Dimensions de lemballage de larticle ( L x B x H) en cm : 20 x 20 x 11
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015FXX6P2/?tag=tolees0d-21)

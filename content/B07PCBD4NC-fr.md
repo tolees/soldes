@@ -28,13 +28,13 @@ Vous avez [Bakugan - 6045146 - Jouet enfant à collectionner - Pack 1 Bakugan Ul
 
 ℹ️:
 
-- Coffret 1 Bakugan Ultra : des modèles spéciaux capables de brandir et demporter la carte sur laquelle ils se sont déployés
-- Le cadeau danniversaire ou de Noël idéal
-- Attention modèle alétatoire : ce produit fait partie d’un assortiment, il est donc possible que vous le receviez dans un autre coloris ou modèle que celui présenté en visuel
-- Entraîne-toi et collectionne tous les Bakugan du dessin animé
-- A partir de 6 ans
-- Ce modèle est livré par le fabricant sous forme dun assortiment aléatoire de plusieurs modèles et/ou coloris. Il nous est impossible de vous proposer un modèle et/ou un coloris en particulier. En validant votre commande, vous recevrez donc un des modèles figurant sur limage en fonction du stock disponible. Nous vous remercions pour votre compréhension
 - Lance ta billle pour déployer ton Bakugan et pars au combat
 - Contenu : 1 Bakugan Ultra, 2 cartes hexagonales BakuCore, 1 carte Personnage, 1 carte Maîtrise
+- Le cadeau danniversaire ou de Noël idéal
+- Coffret 1 Bakugan Ultra : des modèles spéciaux capables de brandir et demporter la carte sur laquelle ils se sont déployés
+- Entraîne-toi et collectionne tous les Bakugan du dessin animé
+- A partir de 6 ans
+- Attention modèle alétatoire : ce produit fait partie d’un assortiment, il est donc possible que vous le receviez dans un autre coloris ou modèle que celui présenté en visuel
+- Ce modèle est livré par le fabricant sous forme dun assortiment aléatoire de plusieurs modèles et/ou coloris. Il nous est impossible de vous proposer un modèle et/ou un coloris en particulier. En validant votre commande, vous recevrez donc un des modèles figurant sur limage en fonction du stock disponible. Nous vous remercions pour votre compréhension
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PCBD4NC/?tag=tolees0d-21)

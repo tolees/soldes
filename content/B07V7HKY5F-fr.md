@@ -28,8 +28,8 @@ C'est en vente [Funko- Pop Funkoverse: Gotham City Rumble Board Game  43462  Mul
 
 ℹ️:
 
-- Exclusive DC Pocket POP!
-- Funkoverse jeu de plateau de stratégie
 - Pop! Funkoverse: Gotham City crumble 4 pack jeu de plateau.
+- Funkoverse jeu de plateau de stratégie
+- Exclusive DC Pocket POP!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V7HKY5F/?tag=tolees0d-21)
