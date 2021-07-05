@@ -28,11 +28,11 @@ Vous avez [Somfy 1870508 - Vanne Thermostatique connectée io | Pour contrôler 
 
 ℹ️:
 
-- Pour contrôler individuellement la température du radiateur à eau chaude de chaque pièce en utilisant les touches sur la face avant ou via lapplication de la box domotique TaHoma (non fournie)
-- Détection de fenêtre ouverte : lorsquune perte de 2 degrés en moins de 10 minutes est constatée, la tête thermostatique baisse automatiquement la température de la pièce
-- Faîtes des économies dénergie en ajustant au degré près la température de chaque pièce et en évitant ainsi de surchauffer les pièces inoccupées.
 - Conçue pour être très silencieuse (moins de 30dB), elle peut sinstaller dans une chambre, sans risquer de perturber le sommeil
-- Connectée à la box domotique TaHoma (non fournie), vous contrôlez à distance la température de vos radiateurs à eau chaude, et programmez la température de chaque pièce en fonction de votre agenda
+- Faîtes des économies dénergie en ajustant au degré près la température de chaque pièce et en évitant ainsi de surchauffer les pièces inoccupées.
+- Pour contrôler individuellement la température du radiateur à eau chaude de chaque pièce en utilisant les touches sur la face avant ou via lapplication de la box domotique TaHoma (non fournie)
 - Régulation auto-apprenante : la vanne anticipe les périodes de chauffe en tenant compte des caractéristiques dune pièce pour atteindre la température programmée à lhoraire voulu
+- Connectée à la box domotique TaHoma (non fournie), vous contrôlez à distance la température de vos radiateurs à eau chaude, et programmez la température de chaque pièce en fonction de votre agenda
+- Détection de fenêtre ouverte : lorsquune perte de 2 degrés en moins de 10 minutes est constatée, la tête thermostatique baisse automatiquement la température de la pièce
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082KMXG6K/?tag=tolees0d-21)

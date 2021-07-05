@@ -28,10 +28,10 @@ C'est en vente [Nair Crème dépilatoire hydratante  peaux sèches et sensibles 
 
 ℹ️:
 
+- Formule à la texture onctueuse délicatement parfumée et hydratante
 - Efficacité sur poils courts : dès 2 mm
-- Nair Crème dépilatoire hydratante, peaux sèches et sensibles, à la fleur de cerisier & huile de riz - Le tube de 200ml
 - Après rinçage, la peau des jambes, du maillot et des aisselles est parfaitement nette, douce et hydratée pour un confort optimal
 - Formule enrichie en Fleur de Cerisier adoucissante et en Huile de Riz nourissante, pour une épilation tout en douceur
-- Formule à la texture onctueuse délicatement parfumée et hydratante
+- Nair Crème dépilatoire hydratante, peaux sèches et sensibles, à la fleur de cerisier & huile de riz - Le tube de 200ml
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YQFXCHP/?tag=tolees0d-21)

@@ -29,8 +29,8 @@ Vous avez [Amazon Basics Récipients en Verre avec clips de Fermeture pour Conse
 ℹ️:
 
 - La base passe au four, au micro-ondes, au congélateur et au lave-vaisselle. Le couvercle passe au micro-ondes, au congélateur et au lave-vaisselle (dans le panier supérieur)
-- Les couvercles en plastique sans BPA se ferment en toute sécurité et incluent un joint en silicone pour une fermeture hermétique
-- Lot de 7 récipients en verre avec couvercles assortis pour conservation alimentaire. Inclut les tailles/formes suivantes : 2 rectangulaires de 852 ml, 2 rectangulaires de 378 ml, 1 ronde de 662 ml, et 2 rondes de 355 ml
 - La base en verre borosilicate est non poreuse, elle nabsorbe pas les taches ni les odeurs, elle résiste à la corrosion et se nettoie facilement
+- Lot de 7 récipients en verre avec couvercles assortis pour conservation alimentaire. Inclut les tailles/formes suivantes : 2 rectangulaires de 852 ml, 2 rectangulaires de 378 ml, 1 ronde de 662 ml, et 2 rondes de 355 ml
+- Les couvercles en plastique sans BPA se ferment en toute sécurité et incluent un joint en silicone pour une fermeture hermétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073ZP5Z2X/?tag=tolees0d-21)
