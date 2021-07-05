@@ -28,8 +28,8 @@ C'est en vente [Plaque à induction à poser double feu Tristar IK-6179 noire - 
 
 ℹ️:
 
-- Cette plaque est très sûre à utiliser : elle détecte automatiquement la présence/labsence de casserole et sallume ou séteint en conséquence. De plus, elle est équipée dune protection contre la surchauffe
 - Grâce à sa puissance totale pouvant atteindre 3 400 W, la plaque chauffe rapidement
+- Cette plaque est très sûre à utiliser : elle détecte automatiquement la présence/labsence de casserole et sallume ou séteint en conséquence. De plus, elle est équipée dune protection contre la surchauffe
 - Cette plaque est dotée dun panneau de controle digital à écran LCD très pratique, vous permettant de régler la température, la puissance et la minuterie
 - Cuisinez en toute simplicité avec la double plaque à induction Tristar IK-6179. Cette plaque est équipée de deux emplacements pour casseroles et poêles adaptées de 12 à 26 cm de diamètre
 - Elle est très simple à nettoyer avec un détergent appropprié

@@ -29,8 +29,8 @@ Vous avez [Arena WPWSK Carbon Maillots de bain Femme   Bleu  cyan   FR32](https:
 ℹ️:
 
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- De haute qualité multifonctionnel wettkampf jumpsuit avec structure de carbone
 - Maillots de bain
+- De haute qualité multifonctionnel wettkampf jumpsuit avec structure de carbone
 - 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Ajustement parfait
 
