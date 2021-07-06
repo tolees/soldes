@@ -28,15 +28,15 @@ Vous avez [Tefal Express Control Bouilloire Electrique  Bouilloire Sans Fil Inox
 
 ℹ️:
 
-- ECRAN DIGITAL pour une visualisation et une utilisation faciles
-- COUVERCLE A OUVERTURE AUTOMATIQUE facilitant le nettoyage et le remplissage de la bouilloire
 - CAPACITE 1.7L
-- BASE PIVOTANTE 360° pour une parfaite stabilité de la bouilloire
-- PRODUIT REPARABLE 10 ANS - GARANTIE 2 ANS
 - MAINTIEN AU CHAUD 60 MINUTES : une eau qui reste pendant 60 minutes à la bonne température
-- FILTRE ANTICALCAIRE : pour une eau encore plus propre
-- PUISSANCE : 2400W
-- FOND INOX POLI AVEC RESISTANCE CACHEE pour une ébullition rapide et un entretien facilité de lintérieur de la bouilloire
+- BASE PIVOTANTE 360° pour une parfaite stabilité de la bouilloire
+- COUVERCLE A OUVERTURE AUTOMATIQUE facilitant le nettoyage et le remplissage de la bouilloire
 - 7 TEMPERATURES POSSIBLES : idéal pour des thés et des infusions à larôme révelé
+- PUISSANCE : 2400W
+- FILTRE ANTICALCAIRE : pour une eau encore plus propre
+- ECRAN DIGITAL pour une visualisation et une utilisation faciles
+- PRODUIT REPARABLE 10 ANS - GARANTIE 2 ANS
+- FOND INOX POLI AVEC RESISTANCE CACHEE pour une ébullition rapide et un entretien facilité de lintérieur de la bouilloire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013B7G6YM/?tag=tolees0d-21)
