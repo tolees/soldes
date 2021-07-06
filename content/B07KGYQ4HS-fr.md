@@ -28,10 +28,10 @@ Vous avez [Under Armour Qualifier WG Perf Short Homme  Noir  Black/Black  001   
 
 ℹ️:
 
-- Confort optimal – La matière innovante de ce pantalon short évacue la transpiration et le tissu 4-Way Stretch augmente la liberté de mouvement.
-- Détails pratiques – Ce short homme est équipé dune ceinture élastique dissimulée ainsi que de deux poches latérales ouvertes pratiques.
+- Jogging souple – Ce pantalon court léger est respirant et confortable, il est idéal pour lentraînement, pour la gym ou pour tout autre type de sport.
 - Technologie Anti-Odeur – La technologie Anti-Odeur de ce short sport empêche le développement des microbes malodorants pour vous garder au frais.
 - Matière et coupe – Under Armour Homme UA Qualifier WG Perf Shorts, short de sport en tissu stretch, coupe - loose, composition - 86 % polyester, 14 % élasthanne.
-- Jogging souple – Ce pantalon court léger est respirant et confortable, il est idéal pour lentraînement, pour la gym ou pour tout autre type de sport.
+- Confort optimal – La matière innovante de ce pantalon short évacue la transpiration et le tissu 4-Way Stretch augmente la liberté de mouvement.
+- Détails pratiques – Ce short homme est équipé dune ceinture élastique dissimulée ainsi que de deux poches latérales ouvertes pratiques.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KGYQ4HS/?tag=tolees0d-21)
