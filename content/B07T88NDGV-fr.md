@@ -28,10 +28,10 @@ Vous avez [Marque Amazon - Movian Iskar Tapis rectangulaire  228 6 x 152 4 cm
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Casual style and easy decor come to life with the Delray Collection of flat weave rugs. Ivory is beautifully interwoven with stylish contemporary hues and finished with an ornately bound edge and tassels. The reversible, lightweight construction makes the
-- Dimensions : 228,6 x 152,4 cm (longueur x largeur)
-- 5 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Forme : rectangulaire
+- 5 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Casual style and easy decor come to life with the Delray Collection of flat weave rugs. Ivory is beautifully interwoven with stylish contemporary hues and finished with an ornately bound edge and tassels. The reversible, lightweight construction makes the
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Dimensions : 228,6 x 152,4 cm (longueur x largeur)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07T88NDGV/?tag=tolees0d-21)
