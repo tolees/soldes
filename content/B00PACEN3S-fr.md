@@ -28,10 +28,10 @@ C'est en vente [RDX RDSL000003 Kit Bas de Caisse Gauche et Droite  Set de 2](htt
 
 ℹ️:
 
-- RDX Kit Bas de caisse MAZDA 3 (BL) "GT4" (gauche et droite)
-- Convient pour tous Mazda 3 BL, sauf MPS
-- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - RDX Kit Bas de caisse MAZDA 3 (BL) "GT4" (gauche et droite). Convient pour tous Mazda 3 BL, sauf MPS. Comprend Certificat TÜV. En plastique ABS, Nouveau et non peint
+- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- RDX Kit Bas de caisse MAZDA 3 (BL) "GT4" (gauche et droite)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Convient pour tous Mazda 3 BL, sauf MPS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00PACEN3S/?tag=tolees0d-21)
