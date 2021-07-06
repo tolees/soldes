@@ -28,10 +28,10 @@ Vous avez [Doudou et Compagnie - Doudou Lapin - 20 cm - Rose - Lapin Bonbon - 12
 
 ℹ️:
 
-- Présenté dans une belle boite cadeau
-- 100% Polyester, lavable à 30°
-- Dès la naissance
-- Produit bénéficiant de la Garantie Doudou. Grace à son numéro unique, doudou perdu est vite retrouvé! Plus de renseignements sur doudouetcompagnie.com
 - Issu de la collection iconique Lapin Bonbon, ce doudou rose ne demande quà faire des calins
+- 100% Polyester, lavable à 30°
+- Produit bénéficiant de la Garantie Doudou. Grace à son numéro unique, doudou perdu est vite retrouvé! Plus de renseignements sur doudouetcompagnie.com
+- Présenté dans une belle boite cadeau
+- Dès la naissance
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002BZRC4Y/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [LG Electronics - LG UltraWide 38WN75C-B  Moniteur incurvé 21:9 
 
 ℹ️:
 
-- Ajustable en hauteur
-- Moniteur 21:9e incurvé IPS QHD+ 38 (3840x1600)
 - HDR 10, Colorimétrie sRGB 99%
+- Moniteur 21:9e incurvé IPS QHD+ 38 (3840x1600)
 - Connectiques HDMI, Display Port
 - Virtuellement sans bords 3 cotés
+- Ajustable en hauteur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086BJG21Z/?tag=tolees0d-21)
