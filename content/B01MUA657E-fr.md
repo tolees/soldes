@@ -28,7 +28,7 @@ C'est en vente [Filorga NCTF-INTENSIVE Sérum Régénérant Suprême 30 ml](http
 
 ℹ️:
 
-- Soutient la régénération naturelle de la peau
 - revitalise la peau
+- Soutient la régénération naturelle de la peau
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MUA657E/?tag=tolees0d-21)
