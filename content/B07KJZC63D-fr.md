@@ -28,7 +28,7 @@ C'est en vente [Sorel Bottes d Hiver pour Hommes  1964 PAC NYLON  Noir  Black/An
 
 ℹ️:
 
-- Type de tissu : cuir
 - Tige en nylon imperméable. Coutures étanches
+- Type de tissu : cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KJZC63D/?tag=tolees0d-21)
