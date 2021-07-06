@@ -28,9 +28,9 @@ C'est en vente [Sony Objectif SAL-18250 Monture A APS-C 18-250 mm F3.5-6.3](http
 
 ℹ️:
 
-- Toutes les fonctions de base sont réunies pour des prises de vue au quotidien. Objectif grand angle avec zoom 14x à forte puissance et une distance focale équivalente de 27-375 mm
-- Objectif zoom à fort agrandissement
-- Lentille asphérique avec verre ED
 - Type A, APS-C
+- Lentille asphérique avec verre ED
+- Objectif zoom à fort agrandissement
+- Toutes les fonctions de base sont réunies pour des prises de vue au quotidien. Objectif grand angle avec zoom 14x à forte puissance et une distance focale équivalente de 27-375 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000XAAA7A/?tag=tolees0d-21)

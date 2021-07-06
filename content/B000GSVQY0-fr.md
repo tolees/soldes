@@ -29,10 +29,10 @@ Vous avez [Sony Objectif SAL-50F14 Monture A Plein Format 50 mm F1.4](https://ww
 ℹ️:
 
 - Angle de vue (APS-C): 32°
-- Objectif standard de qualité
-- Laissez passer plus de lumière avec lobjectif 50 mm, F1.4 ultra-lumineux
-- Distance minimale de mise au point: 0,45m
-- Type A, plein format 35 mm
 - Très performant par faible luminosité
+- Objectif standard de qualité
+- Type A, plein format 35 mm
+- Distance minimale de mise au point: 0,45m
+- Laissez passer plus de lumière avec lobjectif 50 mm, F1.4 ultra-lumineux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000GSVQY0/?tag=tolees0d-21)

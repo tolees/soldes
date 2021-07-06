@@ -28,10 +28,10 @@ Vous avez [Lagrange Gaufrier  1070 W  Black](https://www.amazon.fr/dp/B08BP3P8NZ
 
 ℹ️:
 
-- Nettoyage et démontage facile : plaques amovibles et antiadhésives.
-- Concept unique et innovant : Gaufres avec grosses alévoles dun côté et surface lisse pour tartiner de lautre.
-- Résultat impeccable : les plaques en fonte daluminium, revêtues dantiadhésif, permettent une bonne répartition de la chaleur et de réaliser des gaufres parfaitement formées, faciles à démouler.
 - Multifonction : Maxi gaufres tartinables pour des goûters et desserts gourmands. Réaliser des croque monsieur généreux pour de délicieux en-cas et préparer des minis gaufres pour des cafés gourmands ou des apéritifs dinatoires grâce aux jeux de plaques inclus
+- Concept unique et innovant : Gaufres avec grosses alévoles dun côté et surface lisse pour tartiner de lautre.
+- Nettoyage et démontage facile : plaques amovibles et antiadhésives.
+- Résultat impeccable : les plaques en fonte daluminium, revêtues dantiadhésif, permettent une bonne répartition de la chaleur et de réaliser des gaufres parfaitement formées, faciles à démouler.
 - Simple dutilisation : pas de retournement nécessaire du gaufrier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BP3P8NZ/?tag=tolees0d-21)

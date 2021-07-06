@@ -28,9 +28,9 @@ C'est en vente [Lagrange Crêpière  1500 W  Bois Clair](https://www.amazon.fr/d
 
 ℹ️:
 
-- Thermostat réglable : 5 positions de thermostat pour ajuster la température de la plaque ou maintenir au chaud.
-- Multifonctions / plaque mini crêpes : réaliser des mini crêpes de 11cm de diam. grâce à une deuxième plaque amovible en fonte daluminuim
 - Facile à transporter : poignées en bois intégrées
+- Multifonctions / plaque mini crêpes : réaliser des mini crêpes de 11cm de diam. grâce à une deuxième plaque amovible en fonte daluminuim
+- Thermostat réglable : 5 positions de thermostat pour ajuster la température de la plaque ou maintenir au chaud.
 - Accessoires inclus : les accessoires indispensables pour réussir les crêpes : une grande louche, un répartiteur, deux grandes spatules, 7 petites spatules et un rince répartiteur
 - Facile à utiliser : puissante (1500W), thermostat réglable, large plaque de 35cm de diamètre en fonte daluminium et accessoires malins.
 

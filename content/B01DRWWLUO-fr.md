@@ -29,14 +29,14 @@ C'est en vente [Transcend 480 Go SATA III 6Gb/s SSD220S 2.5” Solid State Drive
 ℹ️:
 
 - Téléchargez le logiciel SSD Scope sur le site officiel de Transcend
+- Conçu avec un moteur RAID et le codage LDPC (contrôle de parité à faible densité) pour assurer lintégrité des données - Technologie de mise en cache SLC intégrée pour des vitesses de transfert exceptionnelles
 - Jusquà 540 Mo/s de lecture; 500 Mo/s décriture
+- Mémoire 3D NAND flash
+- Commande TRIM & NCQ, S.M.A.R.T et mode DevSleep.
 - Commande TRIM & NCQ, SMART et mode DevSleep
 - Mémoire 3D NAND flash
-- Mémoire 3D NAND flash
-- Jusquà 540 Mo/s de lecture; 500 Mo/s décriture
-- Commande TRIM & NCQ, S.M.A.R.T et mode DevSleep.
 - Conçu avec un moteur RAID et le codage LDPC (contrôle de parité à faible densité) pour assurer lintégrité des données Technologie de mise en cache SLC intégrée pour des vitesses de transfert exceptionnelles
-- Conçu avec un moteur RAID et le codage LDPC (contrôle de parité à faible densité) pour assurer lintégrité des données - Technologie de mise en cache SLC intégrée pour des vitesses de transfert exceptionnelles
+- Jusquà 540 Mo/s de lecture; 500 Mo/s décriture
 - Téléchargez le logiciel SSD Scope sur le site officiel de Transcend
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01DRWWLUO/?tag=tolees0d-21)
