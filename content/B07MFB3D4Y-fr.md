@@ -28,10 +28,10 @@ Vous avez [CYCL WingLights 360 Mag Clignotants Feux de Position pour vélo](http
 
 ℹ️:
 
+- Ajustement universel et facile à installer. Compatible avec les guidons plat/droits (diamètre intérieur de 14.7 mm - 23 mm)
+- NOUVEAU! Feux de Position permanents blanc / rouge + indicateurs orange clignotants. 4 DEL orange très lumineuses à efficacité énergétique élevée, allumées par indicateur, avec ajout des DEL rouge (arrière) et blanche (à lavant), par Clignotant
 - Système de verrouillage à vis et fixation magnétique puissante
 - Rechargeable par USB, fourni avec un câble micro USB capable de se recharger complètement en moins de 30 minutes. Complétez votre trajet quotidien sans vous soucier de rester coincé dans le noir. Chaque charge fournira 3 heures de visibilité en mode d’éclairage continu (davantage pendant le clignotement!).
-- Ajustement universel et facile à installer. Compatible avec les guidons plat/droits (diamètre intérieur de 14.7 mm - 23 mm)
 - De haute qualité, design en aluminium léger, robuste, imperméable, durable
-- NOUVEAU! Feux de Position permanents blanc / rouge + indicateurs orange clignotants. 4 DEL orange très lumineuses à efficacité énergétique élevée, allumées par indicateur, avec ajout des DEL rouge (arrière) et blanche (à lavant), par Clignotant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MFB3D4Y/?tag=tolees0d-21)

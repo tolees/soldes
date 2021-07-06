@@ -28,10 +28,10 @@ C'est en vente [Under Armour UA Scrimmage 2.0 Backpack  Sac à ordinateur sporti
 
 ℹ️:
 
-- Matériau & coupe – Under Armour Unisexe UA Scrimmage 20 Backpack, matériau : 100 % polyester, v : 25 litres, dimensions : 17 cm x 32 cm x 47 cm
-- Sacoche ordinateur – Le sac astucieux dispose dune poche rembourrée pour ordinateur adaptée à un MacBook Pro 15" ou de taille similaire
-- Sac à dos pratique – Le sac à ordinateur est confortable et facile à porter; idéal comme sac de sport, comme cartable ou pour voyager
-- Sac hydrofuge – Grâce à la technologie UA Storm, le sac de vélo est totalement hydrofuge, ce qui permet de protéger son contenu des intempéries
 - Détails pratiques – Le sac de voyage est doté de 2 poches zippées, de poches latérales pour les bouteilles et de bretelles HeatGear réglables
+- Sac hydrofuge – Grâce à la technologie UA Storm, le sac de vélo est totalement hydrofuge, ce qui permet de protéger son contenu des intempéries
+- Sacoche ordinateur – Le sac astucieux dispose dune poche rembourrée pour ordinateur adaptée à un MacBook Pro 15" ou de taille similaire
+- Matériau & coupe – Under Armour Unisexe UA Scrimmage 20 Backpack, matériau : 100 % polyester, v : 25 litres, dimensions : 17 cm x 32 cm x 47 cm
+- Sac à dos pratique – Le sac à ordinateur est confortable et facile à porter; idéal comme sac de sport, comme cartable ou pour voyager
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07J31ZHWX/?tag=tolees0d-21)

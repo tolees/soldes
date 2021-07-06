@@ -29,9 +29,9 @@ Vous avez [Peugeot 32517 Moulin à poivre  Stainless Steel  Gris  6 9 cm](https:
 ℹ️:
 
 - Prêt à l’emploi : grains de poivre inclus, Réservoir grande capacité facile à remplir par dévissage du bouton sur la tête, Excellente prise en main grâce à la forme galbée du moulin, Résistance optimale grâce à linox de grande qualité
-- Ne pas utiliser avec du sel, À nettoyer avec un chiffon sec et doux (pas d’eau ni de produit nettoyant), Corps garanti 5 ans, Mécanisme garanti sans limitation de durée, Made in France
 - Révélation exceptionnelle des arômes : mécanisme exclusif en acier spécifique au poivre, Mouture à votre goût : système U’Select à la base avec 6 moutures précises sélectionnables sans risque de déréglage
 - Moulin manuel en inox pour sublimer vos poivres, baies roses (15% maxi dans un mélange de poivre) et graines de coriandre, Modèle emblématique favori des grands chefs dans un habit tout inox power_source_type:Électrique
 - Contenu : 1x Peugeot Moulin à poivre Paris Chef U’Select, Couleur : Inox brossé, Taille : 30 cm, Matière : Acier inox, Inclus : Grains de poivre, 32517
+- Ne pas utiliser avec du sel, À nettoyer avec un chiffon sec et doux (pas d’eau ni de produit nettoyant), Corps garanti 5 ans, Mécanisme garanti sans limitation de durée, Made in France
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D3ZVMT6/?tag=tolees0d-21)
