@@ -28,10 +28,10 @@ C'est en vente [Simple Way Désinfectant automatique avec capteur infrarouge - S
 
 ℹ️:
 
-- Le distributeur peut être rempli avec du savon pour les mains, du désinfectant pour les mains, du shampoing, du détergent (pas de particules).
-- Design unique transparent pour connaître la quantité de liquide restante et ajouter du liquide à temps.
-- Voici le distributeur de savon automatique Simple Way : une méthode simple, sans contact et hygiénique pour se laver les mains
 - Ce distributeur automatique de savon Simple Way est équipé dun capteur infrarouge haute sensibilité. Il suffit détirer votre main dans la zone du capteur, le liquide sera libéré en 0,4 secondes.
 - Simple Way vous offre une expérience hygiénique, sans contact et conviviale, sans déversement excessif.
+- Le distributeur peut être rempli avec du savon pour les mains, du désinfectant pour les mains, du shampoing, du détergent (pas de particules).
+- Voici le distributeur de savon automatique Simple Way : une méthode simple, sans contact et hygiénique pour se laver les mains
+- Design unique transparent pour connaître la quantité de liquide restante et ajouter du liquide à temps.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P7JL5BR/?tag=tolees0d-21)
