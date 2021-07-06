@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Note20 256GB  Gris avec 30.08 % rabais '
-date: 2021-06-28 14:28:43
+date: 2021-07-06 20:09:18
 image: 'https://m.media-amazon.com/images/I/41nX7FU5+XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Samsung Note20 256GB  Gris](https://www.amazon.fr/dp/B08D6QB69L/
 
 ℹ️:
 
-- SM-N980FZAGEUB
 - Dimensions de lemballage de larticle: 20.0 x 20.0 x 20.0 cm
+- SM-N980FZAGEUB
 - Poids du colis: 1.0 Kg
 - Fabriqué en Chine
 
