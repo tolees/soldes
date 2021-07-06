@@ -29,9 +29,9 @@ C'est en vente [Cobble Hill - Cobblehill 80035 1000 PC Donuts puzzle  différe
 ℹ️:
 
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Cobble Hill casse-têtes 1000 Pièces-Tous les casse-têtes de Cobble Hill sont fait à laide des encres et vernis les plus raffinés du marché, de papier texture à effet lin, de carton bleu de qualité supérieure et de carton gris 100% recyclé. Leurs pièces s
 - Tous les casse-têtes de Cobble Hill sont fait à laide des encres
+- Cobble Hill casse-têtes 1000 Pièces-Tous les casse-têtes de Cobble Hill sont fait à laide des encres et vernis les plus raffinés du marché, de papier texture à effet lin, de carton bleu de qualité supérieure et de carton gris 100% recyclé. Leurs pièces s
 - Puzzle 1000 pièces –
+- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BRMG5H5/?tag=tolees0d-21)

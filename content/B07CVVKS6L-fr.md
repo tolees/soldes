@@ -28,9 +28,9 @@ Vous avez [Unbekannt Puzzle Inconnu 1000 pièces - Waterhouse John William : The
 
 ℹ️:
 
-- Dimensions : 68.00 x 47.00 cm
-- Dimensions du colis : 5.3 x 27 x 38.5 cm
 - Puzzle de 1000 pièces.
+- Dimensions du colis : 5.3 x 27 x 38.5 cm
+- Dimensions : 68.00 x 47.00 cm
 - Artiste : Waterhouse John William
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CVVKS6L/?tag=tolees0d-21)

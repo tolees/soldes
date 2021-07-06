@@ -28,9 +28,9 @@ C'est en vente [Lacoste Croco Slide 119 1 CMA  Sandales Bout ouvert Homme -Blanc
 
 ℹ️:
 
+- Dessus en synthétique
 - Bride en caoutchouc hydrofuge
 - Crocodile oversize de couleur contrastante
 - Semelle extérieure en PU
-- Dessus en synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FG68M9V/?tag=tolees0d-21)

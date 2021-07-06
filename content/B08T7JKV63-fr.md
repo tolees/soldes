@@ -28,8 +28,8 @@ C'est en vente [Nintendo - New Pokémon Snap](https://www.amazon.fr/dp/B08T7JKV6
 
 ℹ️:
 
-- Vous explorerez des forêts, des plages pour photographier les pokémon
 - New pokémon snap vous entraînera dans une aventure inédite
+- Vous explorerez des forêts, des plages pour photographier les pokémon
 - Inspirée du jeu classique sorti sur nintendo 64, pokémon snap
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08T7JKV63/?tag=tolees0d-21)

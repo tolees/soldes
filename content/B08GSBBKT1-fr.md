@@ -29,9 +29,9 @@ C'est en vente [Schmidt Spiele Thomas Kinkade Spirit 59679 Puzzle 1000 pièces](
 ℹ️:
 
 - Nombre de joueurs : à partir de 1 joueur
-- Dimensions du puzzle : 69,3 x 49,3 cm
 - Âge recommandé : à partir de 12 ans
-- Puzzle de qualité supérieure SCHMIDT Jeux
+- Dimensions du puzzle : 69,3 x 49,3 cm
 - Puzzle de 1000 pièces
+- Puzzle de qualité supérieure SCHMIDT Jeux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GSBBKT1/?tag=tolees0d-21)
