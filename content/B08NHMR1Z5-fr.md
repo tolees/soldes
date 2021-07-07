@@ -28,8 +28,8 @@ C'est en vente [Jack & Jones JCOALPHA Tee SS FST T-Shirt  Bleu Marine/Coupe Slim
 
 ℹ️:
 
-- T-shirt
 - Confortable
+- T-shirt
 - coton
 - Imprimé
 

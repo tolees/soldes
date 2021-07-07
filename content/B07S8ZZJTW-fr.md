@@ -28,9 +28,9 @@ Vous avez [NZXT H510i - Boîtier PC Gaming ATX Moyenne Tour Compact - Port I/O U
 
 ℹ️:
 
-- SMART DEVICE V2: Inclut un microprocesseur plus rapide pour le contrôle par NZXT CAM de deux canaux déclairage HUE 2 RGB et de trois canaux de ventilateur prenant en charge les ventilateurs à régulation de tension ou PWM
-- CARTE MÈRE PRISE EN CHARGE: Mini-ITX, MicroATX, and ATX
 - GESTION DES CÂBLES: Notre kit de routage de câbles breveté avec des canaux et des sangles préinstallés rend le câblage facile et intuitif
+- CARTE MÈRE PRISE EN CHARGE: Mini-ITX, MicroATX, and ATX
 - NOUVELLES FONCTIONNALITÉS: Ports E/S Type-C avant, panneau latéral en verre trempé avec installation à une vis et Smart Device V2 mis à niveau
+- SMART DEVICE V2: Inclut un microprocesseur plus rapide pour le contrôle par NZXT CAM de deux canaux déclairage HUE 2 RGB et de trois canaux de ventilateur prenant en charge les ventilateurs à régulation de tension ou PWM
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S8ZZJTW/?tag=tolees0d-21)
