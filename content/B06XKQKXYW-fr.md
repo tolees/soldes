@@ -28,9 +28,9 @@ Vous avez [Autan Lotion de Protection pour Visage et Corps  Anti-Moustiques  Fam
 
 ℹ️:
 
-- La lotion Autan Family Care protège dès son application contre les moustiques, jusquà 4 heures, tout en prenant soin de votre peau
 - Sa formule testée dermatologiquement contient des agents hydratants et de laloe vera
-- 1 Lotion de protection Autan, Anti-moustiques, Family Care, 100 ml
+- La lotion Autan Family Care protège dès son application contre les moustiques, jusquà 4 heures, tout en prenant soin de votre peau
 - Pour visage et corps, Utilisation : environ 6 à 7 sprays (1 ml) par avant-bras à une distance de 20 cm, Vaporisation du produit dans la paume de la main et application sans excès sur le visage en évitant les yeux et la bouche
+- 1 Lotion de protection Autan, Anti-moustiques, Family Care, 100 ml
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XKQKXYW/?tag=tolees0d-21)

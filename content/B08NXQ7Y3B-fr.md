@@ -28,10 +28,10 @@ C'est en vente [Dell Inspiron 14 5402 Intel Core i5-1135G7 Ordinateur portable 1
 
 ℹ️:
 
-- Dell Mobile Connect : la technologie couple votre smartphone Android ou iOS à votre ordinateur portable pour vous permettre d’accéder à plusieurs appareils sans vous déconcentrer
-- Le clavier rétroéclairé vous permet de continuer à travailler, quelles que soient les conditions d’éclairage.
 - Connectivité : 1 HDMI 1.4b, 1 USB 3.2 Gen 2 Type-C (DP/PowerDelivery), 2 USB 3.2 Gen 1, Micro SD card reader, 1 Headphone & Microphone Audio Jack. Garantie 2 ans constructeur
 - Lecteur d’empreintes digitales. Ecran antireflet Full HD 14,0" 1920 x 1080 pixels. Clavier Rétro-Eclairé. Lecteur de carte Micro SD.
+- Dell Mobile Connect : la technologie couple votre smartphone Android ou iOS à votre ordinateur portable pour vous permettre d’accéder à plusieurs appareils sans vous déconcentrer
 - Processeur Intel Core i5-1135G7 (8Mo Cache), 8Go DDR4-SDRAM, 512Go SSD, 35.6 cm (14") Full HD 1920 x 1080 WVA, Intel Iris Xe Graphics, WLAN, Webcam, Windows 10 Home 64-bit
+- Le clavier rétroéclairé vous permet de continuer à travailler, quelles que soient les conditions d’éclairage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NXQ7Y3B/?tag=tolees0d-21)

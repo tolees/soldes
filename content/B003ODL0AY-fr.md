@@ -28,17 +28,17 @@ Vous avez [Kidde - Détecteur de CO - Compact - 85 dcb](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Assure un avertissement de 85 décibels en cas de fumée
-- <b><a href="http://g-ec2.images-amazon.com/images/G/08/RBS/047871082445.pdf">Notice d’utilisation</a></b>
-- Alerte sonore de fin de vie de la pile
 - Un détecteur de monoxyde de carbone compact et de la plus haute qualité
-- EN 50291 approuvé et label de qualité CE
-- Indicateurs LED
+- Assure un avertissement de 85 décibels en cas de fumée
+- Alerte sonore de fin de vie de la pile
 - Capteur électrochimique
-- Pourvu dun bouton de test et de réinitialisation, et de 3x piles AA
-- Bouton test
-- Détecteur de Monoxyde de Carbone
 - Technologie de détection optimale pour les personnes sourdes ou malentendantes
+- Bouton test
+- Indicateurs LED
+- Détecteur de Monoxyde de Carbone
 - Montage simple, rapide et facile pour lutilisateur
+- EN 50291 approuvé et label de qualité CE
+- Pourvu dun bouton de test et de réinitialisation, et de 3x piles AA
+- <b><a href="http://g-ec2.images-amazon.com/images/G/08/RBS/047871082445.pdf">Notice d’utilisation</a></b>
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003ODL0AY/?tag=tolees0d-21)

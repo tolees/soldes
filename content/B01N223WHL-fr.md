@@ -28,7 +28,7 @@ C'est en vente [Nintendo - Mario Kart 8 Deluxe](https://www.amazon.fr/dp/B01N223
 
 ℹ️:
 
-- Remarque : L’article n’a pas de CD, il a une cartouche à l’intérieur de la boîte
 - Mario Kart 8 Deluxe
+- Remarque : L’article n’a pas de CD, il a une cartouche à l’intérieur de la boîte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N223WHL/?tag=tolees0d-21)
