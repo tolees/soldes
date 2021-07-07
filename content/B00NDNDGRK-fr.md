@@ -28,10 +28,10 @@ Vous avez [Beurer FC 95 Embout sensitive  brosse de rechange pour brosse nettoya
 
 ℹ️:
 
-- Contient deux brosses exfoliantes pour retirer en douceur les impuretés de la peau
 - Dans son emballage blister pratique à accrocher
-- A utiliser avec la brosse FC 95 Pureau Cosmétique soin visage
+- Contient deux brosses exfoliantes pour retirer en douceur les impuretés de la peau
 - Pour un peeling hebdomadaire
+- A utiliser avec la brosse FC 95 Pureau Cosmétique soin visage
 - Brosses à remplacer tous les 4 mois pour obtenir un résultat optimal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NDNDGRK/?tag=tolees0d-21)

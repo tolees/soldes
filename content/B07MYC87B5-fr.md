@@ -28,10 +28,10 @@ C'est en vente [Cardo FREECOM 2 PLUS - Système de communication Bluetooth 2 dir
 
 ℹ️:
 
-- Son explosif. Des haut-parleurs puissants de 40 mm de large et un processeur avancé qui transformeront votre voyage.
-- Appareil ultra fin. Seulement 16 mm de haut. Le design aérodynamique de Freecom 2 PLUS et son efficacité à atténuer le bruit du vent font passer les autres casques Bluetooth pour des outils grossiers.
-- Étanche. Votre PACKTALK SLIM étanche à la norme IP67 (eau et poussière) supportera les pires situations tout en maintenant la connexion.
 - Communication bidirectionnelle entre motocyclistes. Portée augmentée jusquà 500 m pour rester constamment connectés. Il est même livré préconfiguré lorsque vous commandez un coffret double.
+- Étanche. Votre PACKTALK SLIM étanche à la norme IP67 (eau et poussière) supportera les pires situations tout en maintenant la connexion.
 - Connexion universelle. Se connecte aux casques Bluetooth de nimporte quelle marque.
+- Appareil ultra fin. Seulement 16 mm de haut. Le design aérodynamique de Freecom 2 PLUS et son efficacité à atténuer le bruit du vent font passer les autres casques Bluetooth pour des outils grossiers.
+- Son explosif. Des haut-parleurs puissants de 40 mm de large et un processeur avancé qui transformeront votre voyage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MYC87B5/?tag=tolees0d-21)

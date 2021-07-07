@@ -29,9 +29,9 @@ C'est en vente [Téléobjectif zoom NIKKOR Z 24-200mm f/4-6.3 VR pour Hybride NI
 ℹ️:
 
 - Zoom téléobjectif ultra-compact et léger (570 gr). Du grand angle (24 mm) au téléobjectif (200 mm)
-- Résistant à la poussière et à lhumidité
-- Stabilisateur dimage intégré à lobjectif même en cas de faible luminosité
-- compatible avec les hybrides Z50, Z5, Z6, Z6II, Z7, Z7 II
 - Contraste parfait grâce aux lentilles asphériques et verre ED + traitement ARNEO
+- Résistant à la poussière et à lhumidité
+- compatible avec les hybrides Z50, Z5, Z6, Z6II, Z7, Z7 II
+- Stabilisateur dimage intégré à lobjectif même en cas de faible luminosité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084PVXX73/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [CROCK-POT - Crock Pot mijoteuse électrique  programmable  4 7L 
 
 ℹ️:
 
-- Temps de cuisson programmable jusqu’à 20H - Récipient amovible en grès, compatible au four, micro-ondes, réfrigérateur et lave-vaisselle
-- Maintien au chaud automatique Puissance 220 W - Témoins lumineux de fonctionnement - Ecran de commande digital
 - Mijoteuse électrique finition inox noire brillante Capacité 4,7L – idéal pour 4 à 5 personnes - 2 réglages de température
+- Maintien au chaud automatique Puissance 220 W - Témoins lumineux de fonctionnement - Ecran de commande digital
+- Temps de cuisson programmable jusqu’à 20H - Récipient amovible en grès, compatible au four, micro-ondes, réfrigérateur et lave-vaisselle
 - Couvercle en verre compatible au lave-vaisselle - Cordon détachable et range-cordon - Recettes incluses dans la notice
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07F7TZH5S/?tag=tolees0d-21)
