@@ -28,14 +28,14 @@ Vous avez [LEGO 42099 Technic Le Tout-Terrain X-trême  Ensemble de Constructi
 
 ℹ️:
 
-- Défis et victoires : relever des défis permet de gagner des récompenses.
-- Lapplication LEGO TECHNIC CONTROL+ est téléchargeable sur lApp Store et Google Play. Lautorisation des parents est nécessaire pour pouvoir se connecter.
-- 4x4 LEGO robuste contrôlé par application, équipé de suspensions hautes et indépendantes, de roues larges et dénormes pneus.
 - Commande multifonction : avancer, reculer, tourner, accélérer, freiner, franchir des obstacles, activer des effets sonores et consulter en temps réel des informations telles que la vitesse ou linclinaison.
 - Le véhicule télécommandé fonctionne avec des piles (non incluses). Le type et le nombre de piles nécessaires sont indiqués sur lemballage.
-- Ce formidable tout-terrain peut être commandé depuis lapplication LEGO TECHNIC CONTROL+ et actionné par un hub sophistiqué avec 2 moteurs XL et 1 moteur L, pour des mouvements authentiques et une expérience de jeu des plus immersive.
 - Commande par touche unique : faire glisser le doigt sur lécran permet de voir le tout-terrain effectuer la manœuvre.
+- 4x4 LEGO robuste contrôlé par application, équipé de suspensions hautes et indépendantes, de roues larges et dénormes pneus.
+- Lapplication LEGO TECHNIC CONTROL+ est téléchargeable sur lApp Store et Google Play. Lautorisation des parents est nécessaire pour pouvoir se connecter.
+- Défis et victoires : relever des défis permet de gagner des récompenses.
 - Le tout-terrain X-trême LEGO peut être contrôlé via un smartphone ou une tablette, avec 3 écrans différents. Pour obtenir la liste des dispositifs compatibles : LEGO.com/devicecheck.
+- Ce formidable tout-terrain peut être commandé depuis lapplication LEGO TECHNIC CONTROL+ et actionné par un hub sophistiqué avec 2 moteurs XL et 1 moteur L, pour des mouvements authentiques et une expérience de jeu des plus immersive.
 - Ce modèle LEGO Technic à construire fait découvrir aux constructeurs LEGO des notions dingénierie avancées, tout en améliorant leur temps de réaction, leur pensée cognitive et leur habilité à résoudre des problèmes.
 - Le hub sophistiqué intègre la technologie Bluetooth Low Energy (BLE) et comprend un bouton dactivation, un capteur 6 axes (3 capteurs gyroscopiques et 3 capteurs accélérométriques) ainsi que 4 ports de connexion.
 
