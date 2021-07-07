@@ -28,12 +28,12 @@ C'est en vente [Brevi PRATICO Table à langer pliante Lapinou blanc](https://www
 
 ℹ️:
 
-- Compartiments de rangement et porte-savon
-- Etagère avec compartiments sanitaire
-- Elle est équipée d’un matelas à langer souple avec système anti-basculement et barres de sécurité
-- Elle se ferme d’une seule main, avec fermeture automatique, bouchon et tuyau d’évacuation
-- Baignoire pliable en métal laqué, équipée de 4 roues pouvant être placée sur les sanitaires
-- Baignoire ergonomique à double siège (de 0 à 6 mois et 6 mois de 15 kg) avec des espaces pratiques et une douchette
 - Produit fabriqué dans les usines italiennes de Brevi.
+- Etagère avec compartiments sanitaire
+- Baignoire pliable en métal laqué, équipée de 4 roues pouvant être placée sur les sanitaires
+- Elle est équipée d’un matelas à langer souple avec système anti-basculement et barres de sécurité
+- Compartiments de rangement et porte-savon
+- Baignoire ergonomique à double siège (de 0 à 6 mois et 6 mois de 15 kg) avec des espaces pratiques et une douchette
+- Elle se ferme d’une seule main, avec fermeture automatique, bouchon et tuyau d’évacuation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZRZHPP7/?tag=tolees0d-21)
