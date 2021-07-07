@@ -28,10 +28,10 @@ Vous avez [Brio World - 33351 - Pont Viaduc - Accessoire pour circuit de train e
 
 ℹ️:
 
-- HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts
-- DEVELOPPE LIMAGINATION Cet accessoire permet aux garçons comme aux filles de développer leur habileté manuelle, leur créativité et leur imagination. Pour plus dactions de jeu, on peut faire se croiser 2 lignes de chemin de fer et créer 2 niveaux de circulation
+- EXTENSIBLE A VOLONTE Agrandissez votre circuit en ajoutant des rails supplémentaires, des trains à pile ou des accessoires amusants (passage à niveau, gare, tunnel, pont) du BRIO World. Rails double face pour encore plus de possibilité de jeu. Compatible avec les autres marques
 - DONNEZ DE LA HAUTEUR A VOS CIRCUITS 100% en bois de hêtre robuste et FSC, cet accessoire pour circuit de train en bois dune longueur de 38 cm vous permettra de créer un circuit vallonné et de laisser glisser le train une fois en haut pour le voir dévaler la pente
 - UN CADEAU INTEMPOREL qui fera des heureux pour des heures de jeu et d’amusement seul ou à plusieurs ! En bois de haute qualité : ultra solide, ne se déforme pas, sans écharde et qui résiste à l’humidité. Pour un anniversaire ou pour Noel ou une autre fête. Dès 3 ans
-- EXTENSIBLE A VOLONTE Agrandissez votre circuit en ajoutant des rails supplémentaires, des trains à pile ou des accessoires amusants (passage à niveau, gare, tunnel, pont) du BRIO World. Rails double face pour encore plus de possibilité de jeu. Compatible avec les autres marques
+- HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts
+- DEVELOPPE LIMAGINATION Cet accessoire permet aux garçons comme aux filles de développer leur habileté manuelle, leur créativité et leur imagination. Pour plus dactions de jeu, on peut faire se croiser 2 lignes de chemin de fer et créer 2 niveaux de circulation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00000IUKQ/?tag=tolees0d-21)
