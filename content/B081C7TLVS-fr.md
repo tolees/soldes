@@ -28,11 +28,11 @@ C'est en vente [PowerA MOGA Clip pour Jeu Mobile pour Manette sans Fil de Xbox](
 
 ℹ️:
 
-- Sous licence officielle pour Xbox avec garantie de deux ans
-- Maintenez et sécurisez votre téléphone grâce aux éléments en caoutchouc
 - Les deux points darticulation de verrouillage sajustent afin de placer le téléphone ergonomiquement
 - Fabriqué avec des matériaux de qualité pour profiter des jeux mobiles et du Xbox game streaming
+- Maintenez et sécurisez votre téléphone grâce aux éléments en caoutchouc
 - Clip pour jeu mobile conçu pour les manettes sans fil Bluetooth de Xbox
 - Le clip Moga convient à la plupart des téléphones portables: largeur maximale 79 mm (3,12 pouces)
+- Sous licence officielle pour Xbox avec garantie de deux ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081C7TLVS/?tag=tolees0d-21)
