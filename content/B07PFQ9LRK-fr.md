@@ -28,12 +28,12 @@ C'est en vente [Moulinex Easy Fry Digital Friteuse Sans Huile Capacité XL 6 Per
 
 ℹ️:
 
-- FACILE A UTILISER : écran tactile, minuteur de 60 mn, arrêt automatique
-- TECHNOLOGIE : air chaud pulsé
-- CAPACITE XL : 4,2L jusqu’à 6 personnes
-- PUISSANCE : 1500 W
 - DES FRITURES LEGERES : friteuse utilisant peu de matières grasses
 - VARIABILITE : 8 menus pour préparer vos frites, côtelettes, crevettes, gâteaux, pizzas, poissons, grillades et plats rôtis
+- FACILE A UTILISER : écran tactile, minuteur de 60 mn, arrêt automatique
+- CAPACITE XL : 4,2L jusqu’à 6 personnes
+- PUISSANCE : 1500 W
 - Réparabilité : 15 ans, Garantie : 2 ans
+- TECHNOLOGIE : air chaud pulsé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PFQ9LRK/?tag=tolees0d-21)
