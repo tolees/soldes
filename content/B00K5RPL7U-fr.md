@@ -28,9 +28,9 @@ C'est en vente [CMT Orange Tools 915 380 11 Fraise à Rainurer en v hw  90  s 8 
 
 ℹ️:
 
-- Longueur de coupe : 28,5 mm
-- Mussa parfaitement à 45° (deux ustensiles en un)
 - Longueur totale : 63,5 mm
+- Longueur de coupe : 28,5 mm
 - Diamètre : 38 mm
+- Mussa parfaitement à 45° (deux ustensiles en un)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K5RPL7U/?tag=tolees0d-21)

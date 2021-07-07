@@ -28,7 +28,7 @@ C'est en vente [Brother TN-328Y | cartouche de toner original | Jaune](https://w
 
 ℹ️:
 
-- Imprime 6000 pages
 - Évite le gaspillage pour vous économiser du papier, du temps et de largent
+- Imprime 6000 pages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0041H9YUA/?tag=tolees0d-21)

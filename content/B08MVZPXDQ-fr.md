@@ -28,8 +28,8 @@ Vous avez [Assemble Entertainment - Leisure Suit Larry Wet Dreams Dry Twice  Nin
 
 ℹ️:
 
+- Retrouvez plus de 40 nouveaux et anciens compagnons de Wet Dreams Dont Dry, et séduisez de toutes nouvelles conquêtes !
 - Aidez Larry à résoudre de nouvelles énigmes difficiles et palpitantes (et parfois légèrement érotiques) et à mener à bien des quêtes, pour lui donner une fin vraiment heureuse.
 - Explorez larchipel de Kalaua aux îles mystérieuses toutes plus magnifiques les unes que les autres avec plus de 50 lieux dessinés à la main.
-- Retrouvez plus de 40 nouveaux et anciens compagnons de Wet Dreams Dont Dry, et séduisez de toutes nouvelles conquêtes !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MVZPXDQ/?tag=tolees0d-21)

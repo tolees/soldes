@@ -28,10 +28,10 @@ C'est en vente [Casio Montres Bracelet F-105W-1AWYEF](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Casual
-- 30 meters
-- Mouvement Quartz
 - Mixte Résine Digital
 - Cadran LCD et sangle Noir
+- 30 meters
+- Mouvement Quartz
+- Casual
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000KD9OSG/?tag=tolees0d-21)

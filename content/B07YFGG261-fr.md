@@ -28,8 +28,8 @@ C'est en vente [Western Digital - WD Rouge 2To NAS SSD 2.5" SATA](https://www.am
 
 ℹ️:
 
-- Des capacités allant de 500 Go à 4 To (2,5 po) vous offrent la flexibilité nécessaire pour personnaliser votre réseau NAS afin de répondre aux besoins de stockage les plus exigeants. Disponibles dans des formats de 2,5 po et M.2 pour convenir aux emplacements présents sur les systèmes NAS modernes
 - Spécifiquement conçu pour le NAS avec la technologie éprouvée Western Digital 3D NAND afin de fournir une performance SATA maximale à la fois pour les utilisateurs privés et professionnels
+- Des capacités allant de 500 Go à 4 To (2,5 po) vous offrent la flexibilité nécessaire pour personnaliser votre réseau NAS afin de répondre aux besoins de stockage les plus exigeants. Disponibles dans des formats de 2,5 po et M.2 pour convenir aux emplacements présents sur les systèmes NAS modernes
 - Le stockage optimisé pour la mise en cache dans les systèmes NAS permet daccéder rapidement aux fichiers que vous utilisez le plus fréquemment
 - Réduit le temps de latence et accroît la réactivité pour les bases de données OLTP, les environnements multi-utilisateurs, le rendu photo, le montage des vidéos 4K et 8K, et bien plus
 - Lendurance supérieure peut supporter les lourdes charges de lecture et décriture exigées par le NAS, vous donnant la fiabilité dont vous avez besoin dans un environnement opérationnel en permanence

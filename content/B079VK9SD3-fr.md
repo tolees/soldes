@@ -28,11 +28,11 @@ C'est en vente [Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracel
 
 ℹ️:
 
-- band_width: 27.0 millimeters
 - Mesure de la montre-bracelet : 48,6 x 54,1 x 15,5 mm
-- Lap Memory 200
+- band_width: 27.0 millimeters
+- Bluetooth\u00AE Smart
 - Fonction dheure universelle
 - Steptracker
-- Bluetooth\u00AE Smart
+- Lap Memory 200
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079VK9SD3/?tag=tolees0d-21)
