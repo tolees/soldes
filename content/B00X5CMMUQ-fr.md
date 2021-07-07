@@ -28,14 +28,14 @@ C'est en vente [Netatmo Caméra de Surveillance Intérieure Intelligente  WIFI  
 
 ℹ️:
 
-- VOS DONNÉES, 100% SECURISÉES : vos données sont stockées et sécurisées en local sur carte microSD incluse
-- AUCUN FRAIS D’ABONNEMENT : accès à toutes les fonctionnalités, mises à jour et stockage gratuits
 - ALERTES PRÉCISES ET PERSONNALISABLES : inconnu(e)s, proches, animaux... Personnalisez les notifications et ne recevez que celles qui vous intéressent. LAN (RJ45): 10/100
-- COMPATIBLE : Amazon Alexa, Apple Homekit, Apple Homekit Secure Video, Google Assistant. Contrôlez la caméra par la voix et créez des scénarios avec dautres objets connectés
+- SURVEILLANCE CONTINUE : accédez aux images HD en streaming ou en direct de votre Caméra 7j/7, 24h/24, même la nuit grâce à la vision nocturne
+- VOS DONNÉES, 100% SECURISÉES : vos données sont stockées et sécurisées en local sur carte microSD incluse
+- PRÉSERVEZ LA VIE DE VOS PROCHES : enregistrez les visages connus pour désactiver les notifications et l’enregistrement vidéo qui les concernent
 - NOTIFICATIONS IMMÉDIATES SUR VOTRE SMARTPHONE EN CAS D’INTRUSION : visage connu ou inconnu ? Grâce à la reconnaissance faciale, votre Caméra repère les intrus et vous alerte en temps réel si besoin
 - NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
-- PRÉSERVEZ LA VIE DE VOS PROCHES : enregistrez les visages connus pour désactiver les notifications et l’enregistrement vidéo qui les concernent
+- COMPATIBLE : Amazon Alexa, Apple Homekit, Apple Homekit Secure Video, Google Assistant. Contrôlez la caméra par la voix et créez des scénarios avec dautres objets connectés
+- AUCUN FRAIS D’ABONNEMENT : accès à toutes les fonctionnalités, mises à jour et stockage gratuits
 - PROTECTON COMPLÈTE DE VOTRE MAISON : créez votre système dAlarme Intelligent en ajoutant à votre Caméra une Sirène Intérieure et des Détecteurs dOuverture pour Portes et Fenêtres Intelligents Netatmo
-- SURVEILLANCE CONTINUE : accédez aux images HD en streaming ou en direct de votre Caméra 7j/7, 24h/24, même la nuit grâce à la vision nocturne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00X5CMMUQ/?tag=tolees0d-21)

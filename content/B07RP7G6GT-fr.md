@@ -28,7 +28,7 @@ Vous avez [Robot aspirateur laveur connecté EZIclean® Sweeper Connect](https:/
 
 ℹ️:
 
-- Aspire et passe la serpillère à votre placeVotre robot effectue en un seul passage les 3 étapes essentielles dun nettoyage en profondeur. En effet, lors de son cycle de nettoyage il balaye les poussières et autres saletés du quotidien, les aspire grâce à sa puissante turbine daspiration puis passe la serpillère pour une finition soignée. Il est également équipé dun réservoir à eau électronique qui contrôle automat
 - . Connecté via application. Équipé dune caméra/microphone. Aspire et lave en 1 passage. Contrôle automatique du débit deau. Silencieux. Surface de couverture 150m². Tous types de sols. Batterie Lithium
+- Aspire et passe la serpillère à votre placeVotre robot effectue en un seul passage les 3 étapes essentielles dun nettoyage en profondeur. En effet, lors de son cycle de nettoyage il balaye les poussières et autres saletés du quotidien, les aspire grâce à sa puissante turbine daspiration puis passe la serpillère pour une finition soignée. Il est également équipé dun réservoir à eau électronique qui contrôle automat
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RP7G6GT/?tag=tolees0d-21)
