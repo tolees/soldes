@@ -28,10 +28,10 @@ C'est en vente [Havaianas Slide Brasil  Sandales Bout Ouvert Mixte Adulte  Noir 
 
 ℹ️:
 
-- Type de talons : plat
 - Doublure : non doublé
+- Type de talons : plat
 - Dessus : caoutchouc
-- Matériau de semelle : caoutchouc
 - Semelle intérieure : non
+- Matériau de semelle : caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07F1FNTMF/?tag=tolees0d-21)
