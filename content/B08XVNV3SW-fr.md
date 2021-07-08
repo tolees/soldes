@@ -28,14 +28,14 @@ C'est en vente [realme 8 Telephone Portable  Smartphone Debloqué et Quadruple C
 
 ℹ️:
 
-- Batterie massive de 5000mAh: 40 jours de veille
-- Refroidissement liquide au cuivre I Certificat de son haute résolution I Espace de jeu & Assistant de jeu
-- Charge Dart de 30W: 100 % de batterie en 65 minutes
 - Processeur de jeu Helio G95: Des jeux plus fluides
-- Quadruple caméra 64 Mpx à I.A.: Modes Tilt-shift et Starry
-- Portraits selfie de 16 Mpx: Beauté I.A. | Mode Portrait | Mode HDR | Environnement nocturne
-- Super fin : 177 g et 7,99 mm: Design Infini audacieux
-- Plein écran Super AMOLED de 16,3 cm (6,4"): Scanner d’empreintes digitales rapide intégré à l’écran
+- Refroidissement liquide au cuivre I Certificat de son haute résolution I Espace de jeu & Assistant de jeu
 - Le realme 8 présente des designs futuristes pour téléphones portables. Le côté gauche représente notre monde réel, tandis que le côté droit illustre le monde mystérieux du numérique. Grâce à une conception séparée et un processus de jointure, l’appareil fusionne réalité et illusion pour donner un look unique. Ce design audacieux vous démarquera des autres, sans aucune doute
+- Plein écran Super AMOLED de 16,3 cm (6,4"): Scanner d’empreintes digitales rapide intégré à l’écran
+- Super fin : 177 g et 7,99 mm: Design Infini audacieux
+- Portraits selfie de 16 Mpx: Beauté I.A. | Mode Portrait | Mode HDR | Environnement nocturne
+- Charge Dart de 30W: 100 % de batterie en 65 minutes
+- Batterie massive de 5000mAh: 40 jours de veille
+- Quadruple caméra 64 Mpx à I.A.: Modes Tilt-shift et Starry
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08XVNV3SW/?tag=tolees0d-21)
