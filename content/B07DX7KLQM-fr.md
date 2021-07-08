@@ -28,11 +28,11 @@ C'est en vente [VTech - Kidi LightShow Party  enceinte Bluetooth enfant – Vers
 
 ℹ️:
 
+- L’enceinte Bluetooth enfant Kidi LightShow Party dispose d’une boule disco avec une projection de lumières magiques qui varient selon l’intensité de la chanson. Appuie sur le bouton Effets lumineux pour régler la projection lumineuse.
+- L’enceinte Bluetooth enfant permet également de s’amuser seul avec ses jeux en solo ! Joue au tape tape, à l’attrap’boutons ou bien au hop, hop, hop ! Découvre plus en détail les concepts dans la description !
 - Une enceinte Bluetooth enfant avec boule disco lumineuse pour des heures de musique, de danse et de jeu ! Avec le Kidi LightShow Party, découvre de nombreuses mélodies avec le mode musique ! Radio FM, 9 jeux et activités, 10 mélodies et chansons, fonction réveil.
-- Version française
 - Le Kidi LightShow Party vous permet de jouer entre amis grâce à ses jeux en groupe, de quoi animer vos fêtes ! Au programme, des défis danses, Jacques a dit, mimes en folies, jeu de la statue, des défis minutes et les chaises musicales ! L’écran rétro-éclairé interactif permet d’utiliser les différentes fonctions, même dans le noir.
 - Le Kidi LightShow Party possède une connexion Bluetooth sécurisée (code PIN à 4 chiffres) pour écouter ses chansons préférées avec un smartphone ou une tablette sans aucun câble. Tu peux également brancher ton lecteur MP3 (non inclus) à l’aide du câble audio fourni pour écouter ta musique préférée sur ton enceinte enfant !
-- L’enceinte Bluetooth enfant permet également de s’amuser seul avec ses jeux en solo ! Joue au tape tape, à l’attrap’boutons ou bien au hop, hop, hop ! Découvre plus en détail les concepts dans la description !
-- L’enceinte Bluetooth enfant Kidi LightShow Party dispose d’une boule disco avec une projection de lumières magiques qui varient selon l’intensité de la chanson. Appuie sur le bouton Effets lumineux pour régler la projection lumineuse.
+- Version française
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DX7KLQM/?tag=tolees0d-21)

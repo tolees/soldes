@@ -30,8 +30,8 @@ Vous avez [JBL Endurance PEAK – Écouteurs intra-auriculaires de sport sans fi
 
 - Endurance PEAK : jamais douloureux et ne tombent pas - ces écouteurs tour doreille sont dotés de la fonction PowerHook : ils sallument automatiquement dès que vous les mettez
 - Avec les commandes tactiles intuitives, basculez en un simple geste du mode mono pour appels au mode stéréo pour votre musique - laissez tout votre potentiel sexprimer
+- Avec les Endurance PEAK atteignez des nouveaux sommets - ces écouteurs de sport étanches sans fil sont munis dun étui de recharge intelligent et offrent jusquà 28 hrs découte combinée
 - Étanches selon la norme IPX7, les Endurance PEAK sont conçus pour vous accompagner lors de vos séances de natation ou dentrainement - pour ne jamais sarrêter !
 - Livraison : 1x ecouteurs JBL Endurance PEAK / 1x étui de recharge / 3x tailles dembouts / 1 x stabilisateur / 1x câble dalimentation / 1 x guide de démarrage rapide - Noir
-- Avec les Endurance PEAK atteignez des nouveaux sommets - ces écouteurs de sport étanches sans fil sont munis dun étui de recharge intelligent et offrent jusquà 28 hrs découte combinée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HGHJCS4/?tag=tolees0d-21)
