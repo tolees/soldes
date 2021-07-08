@@ -28,10 +28,10 @@ Vous avez [Carl Victor - Poêle Sauteuse en Fonte 28 cm avec Poignée en Bois  I
 
 ℹ️:
 
-- Rétention de la chaleur supérieure.
-- Poêle en fonte écologique, libre de ptfe et pfoa - idéal pour la friture saine.
-- Fabriquée en Suède. Garantie 25 ans. - Fabriquée en fonte.
-- Convient pour tous les types de cuisinière.
 - Pré-assaisonné lourde poêle en fonte.
+- Poêle en fonte écologique, libre de ptfe et pfoa - idéal pour la friture saine.
+- Rétention de la chaleur supérieure.
+- Convient pour tous les types de cuisinière.
+- Fabriquée en Suède. Garantie 25 ans. - Fabriquée en fonte.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000XG4GTC/?tag=tolees0d-21)
