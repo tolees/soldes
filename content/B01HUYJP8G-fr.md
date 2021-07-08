@@ -28,10 +28,10 @@ Vous avez [IDE csn12pt boîtes pour prises de courant  IP65  12 modules](https:
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - IDE csn12pt boîtiers pour prises de courant, IP65, 12 modules. c.65tc12 gris transp. ABS.
+- 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 12 modules
 - IP65
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HUYJP8G/?tag=tolees0d-21)

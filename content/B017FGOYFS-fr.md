@@ -28,9 +28,9 @@ C'est en vente [Flamingo Pascha Grattoir pour Chat Noir 56 x 56 x 128 cm](https:
 
 ℹ️:
 
-- 4 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Il offre un endroit approprié pour les chats pour faire leurs griffes
+- 4 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Il offre un endroit approprié pour les chats pour faire leurs griffes. Divertissement et plaisir. Prévient que les chats fassent leurs griffes sur des meubles ou des tapisseries.
 - Divertissement et plaisir
 
