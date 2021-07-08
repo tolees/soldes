@@ -29,7 +29,7 @@ C'est en vente [adidas ESSENTIAL CBODY  Sacs à dos mixte adulte  Noir  Negro   
 ℹ️:
 
 - sport poche
-- fermeture éclair
 - Tissu résistant à la lumière et
+- fermeture éclair
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K1P9GPJ/?tag=tolees0d-21)

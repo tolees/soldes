@@ -28,15 +28,15 @@ Vous avez [LEGO 75953 Harry Potter Le Saule Cogneur du château de Poudla
 
 ℹ️:
 
-- Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige.
-- Les branches de larbre tournent pour capturer la voiture, puis Ron et Harry se libèrent pour conduire à travers la porte du château.
-- Les accessoires comprennent des potions, des chaudrons, 2 valises, 5 baguettes magiques, des bougies, une lanterne, le journal La Gazette du sorcier, une page de sortilèges, un balai, des tables, une chaise, des outils et 2 encriers avec une plume.
-- Peut-être combiné avec la grande salle du château de Poudlard 75954 pour des aventures LEGO Harry Potter encore plus passionnantes.
-- Comprend le saule cogneur, la Ford Anglia volante et une partie du château de Poudlard.
-- Mélange de potions avec le professeur Rogue en classe.
-- La partie du château de Poudlard de 3 niveaux comprend une porte, un chemin de ronde, trois tourelles, un dortoir avec 2 lits, une salle de classe de potions avec une table de travail et le bureau de Severus Rogue.
-- Le saule cogneur possède des branches tournantes et lentrée du tunnel de la cabane hurlante est incluse dans cet ensemble.
 - La Ford Anglia volante dispose de 2 portes qui souvrent et dun coffre qui souvre avec des valises à lintérieur.
 - Argus Rusard patrouille sur les remparts avec sa lanterne.
+- Les accessoires comprennent des potions, des chaudrons, 2 valises, 5 baguettes magiques, des bougies, une lanterne, le journal La Gazette du sorcier, une page de sortilèges, un balai, des tables, une chaise, des outils et 2 encriers avec une plume.
+- La partie du château de Poudlard de 3 niveaux comprend une porte, un chemin de ronde, trois tourelles, un dortoir avec 2 lits, une salle de classe de potions avec une table de travail et le bureau de Severus Rogue.
+- Peut-être combiné avec la grande salle du château de Poudlard 75954 pour des aventures LEGO Harry Potter encore plus passionnantes.
+- Le saule cogneur possède des branches tournantes et lentrée du tunnel de la cabane hurlante est incluse dans cet ensemble.
+- Les branches de larbre tournent pour capturer la voiture, puis Ron et Harry se libèrent pour conduire à travers la porte du château.
+- Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige.
+- Mélange de potions avec le professeur Rogue en classe.
+- Comprend le saule cogneur, la Ford Anglia volante et une partie du château de Poudlard.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21)

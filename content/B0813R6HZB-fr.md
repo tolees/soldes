@@ -28,15 +28,15 @@ Vous avez [LEGO 76164 Marvel Super Heroes Marvel Avengers Iron Man Hulkbus
 
 ℹ️:
 
-- Pas besoin de piles pour faire fonctionner ce modèle de Hulkbuster. Les jouets sans piles stimulent la pensée créative, le jeu de rôle imaginatif et les compétences en résolution de problèmes, et font découvrir aux enfants une expérience de jeu passionnante dès louverture de la boîte.
-- Les fans des films Marvel et tous les jeunes super-héros de 8 ans et plus vont vivre de passionnantes aventures pleines dimagination avec ce fabuleux set contenant la Hulkbuster – lune des armures les plus célèbres dIron Man.
-- Chaque brique et pièce LEGO est soumise à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysée afin de s’assurer qu’elle est toujours conforme aux normes de sécurité et de qualité les plus élevées au monde.
-- Tous les jouets à construire LEGO sont conformes aux normes industrielles les plus élevées, ce qui signifie quils sont compatibles entre eux et peuvent être parfaitement assemblés et démontés – et cela depuis 1958.
-- Inclut 4 figurines – Iron Man, Rescue and 2 soldats agents de lA.I.M. – ainsi quune gigantesque armure Hulkbuster. Avec des armes impressionnantes et un jet-pack, le décor est planté pour des batailles épiques !
-- Les sets de jeu LEGO Marvel Avengers comprennent des figurines, des véhicules, des armes et des accessoires à collectionner et mettent entre les mains des jeunes fans de super-héros toute laction des films Marvel.
-- Inclut des instructions faciles à comprendre pour que les enfants puissent immédiatement commencer à construire, à jouer et à faire preuve de créativité.
-- Les enfants peuvent installer Iron Man à l’intérieur de l’armure Hulkbuster et placer Rescue dans la tourelle de tir intégrée pour affronter les méchants et sauver la ville.
-- Les jeunes super-héros plongent dans un jeu d’imagination à grande échelle et inventent des aventures et des batailles haletantes avec le set LEGO Marvel Avengers Iron Man Hulkbuster contre un agent de l’A.I.M. (76164), avec cette armure aux membres articulés et aux incroyables fonctionnalités.
 - La grande armure Hulkbuster mesure plus de 16 cm de haut et 20 cm de large. Avec ses membres articulés, cette puissante machine de combat peut aller n’importe où et affronter tous les méchants qui oseront se mettre en travers de son chemin.
+- Les sets de jeu LEGO Marvel Avengers comprennent des figurines, des véhicules, des armes et des accessoires à collectionner et mettent entre les mains des jeunes fans de super-héros toute laction des films Marvel.
+- Les enfants peuvent installer Iron Man à l’intérieur de l’armure Hulkbuster et placer Rescue dans la tourelle de tir intégrée pour affronter les méchants et sauver la ville.
+- Pas besoin de piles pour faire fonctionner ce modèle de Hulkbuster. Les jouets sans piles stimulent la pensée créative, le jeu de rôle imaginatif et les compétences en résolution de problèmes, et font découvrir aux enfants une expérience de jeu passionnante dès louverture de la boîte.
+- Les jeunes super-héros plongent dans un jeu d’imagination à grande échelle et inventent des aventures et des batailles haletantes avec le set LEGO Marvel Avengers Iron Man Hulkbuster contre un agent de l’A.I.M. (76164), avec cette armure aux membres articulés et aux incroyables fonctionnalités.
+- Inclut des instructions faciles à comprendre pour que les enfants puissent immédiatement commencer à construire, à jouer et à faire preuve de créativité.
+- Tous les jouets à construire LEGO sont conformes aux normes industrielles les plus élevées, ce qui signifie quils sont compatibles entre eux et peuvent être parfaitement assemblés et démontés – et cela depuis 1958.
+- Chaque brique et pièce LEGO est soumise à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysée afin de s’assurer qu’elle est toujours conforme aux normes de sécurité et de qualité les plus élevées au monde.
+- Les fans des films Marvel et tous les jeunes super-héros de 8 ans et plus vont vivre de passionnantes aventures pleines dimagination avec ce fabuleux set contenant la Hulkbuster – lune des armures les plus célèbres dIron Man.
+- Inclut 4 figurines – Iron Man, Rescue and 2 soldats agents de lA.I.M. – ainsi quune gigantesque armure Hulkbuster. Avec des armes impressionnantes et un jet-pack, le décor est planté pour des batailles épiques !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0813R6HZB/?tag=tolees0d-21)

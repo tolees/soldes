@@ -28,10 +28,10 @@ Vous avez [Logitech MK850 Combo Clavier et Souris sans Fil Multidispositifs  2 4
 
 ℹ️:
 
-- Option Logitech Duolink: Loption à télécharger sur votre PC ou Mac Logitech DuoLink lie l’ensemble clavier et souris sans fil pour des fonctionnalités personnalisées sous Windows et sous Apple
-- Technologie Easy-Switch: Avec Easy-Switch pour clavier et souris Logitech, vous pouvez saisir un texte sur votre ordinateur puis passer sur votre smartphone ou votre tablette
-- Une Souris Ultra-Rapide: La souris profilée MK850 de Logitech dotée dune roulette de défilement ultra-rapide vous permet de parcourir les documents à une vitesse incroyable
-- Un Confort dUtilisation: Le repose-poignets matelassé extra-large et la surface en caoutchouc de la souris Logitech MK850 vous apportent un confort de saisie au quotidien
 - Logitech Unifying ou Bluetooth Smart: Choisissez le meilleur moyen de connecter votre dispositif actuel et ceux que vous posséderez à lavenir avec le mini récepteur USB Logitech Unifying
+- Une Souris Ultra-Rapide: La souris profilée MK850 de Logitech dotée dune roulette de défilement ultra-rapide vous permet de parcourir les documents à une vitesse incroyable
+- Option Logitech Duolink: Loption à télécharger sur votre PC ou Mac Logitech DuoLink lie l’ensemble clavier et souris sans fil pour des fonctionnalités personnalisées sous Windows et sous Apple
+- Un Confort dUtilisation: Le repose-poignets matelassé extra-large et la surface en caoutchouc de la souris Logitech MK850 vous apportent un confort de saisie au quotidien
+- Technologie Easy-Switch: Avec Easy-Switch pour clavier et souris Logitech, vous pouvez saisir un texte sur votre ordinateur puis passer sur votre smartphone ou votre tablette
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MT5WL4M/?tag=tolees0d-21)
