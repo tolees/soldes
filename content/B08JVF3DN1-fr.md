@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft 4K Wireless Display Adapter -  avec 38.48 % rabais '
-date: 2021-07-03 08:03:40
+date: 2021-07-08 06:04:28
 image: 'https://m.media-amazon.com/images/I/31vNKTqrfDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.fr/dp/B08JVF3DN1/?tag=tolees0d-21'
 descuento: '38.48'
-average: '54.6'
+average: '52.8033333333333'
 ---
 
 C'est en vente [Microsoft 4K Wireless Display Adapter - Adaptateur sans Fil Microsoft 4K - Miracast](https://www.amazon.fr/dp/B08JVF3DN1/?tag=tolees0d-21)  à  38.48 % de réduction, prix final  49.21 EUR (original: 79.99 EUR) ici:
@@ -30,8 +30,8 @@ C'est en vente [Microsoft 4K Wireless Display Adapter - Adaptateur sans Fil Micr
 
 - Partagez sur grand écran le contenu affiché sur votre ordinateur ou Smartphone Android
 - Port HDMI (pour la diffusion) et USB (pour l’alimentation) requis sur l’écran de destination
+- Utilisable sans connexion au réseau internet (Wifi direct) ou via Miracast over infrastructure pour une connexion fiabilisée
 - Compatible Windows 8.1, Windows 10 et Android
 - Diffusion vidéo jusquà 30 fps
-- Utilisable sans connexion au réseau internet (Wifi direct) ou via Miracast over infrastructure pour une connexion fiabilisée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JVF3DN1/?tag=tolees0d-21)
