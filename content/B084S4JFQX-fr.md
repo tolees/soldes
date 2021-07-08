@@ -29,9 +29,9 @@ Vous avez [Black+Decker BXEFT47E Ventilateur colonne  Plastique  Blanc 81 cm](ht
 ℹ️:
 
 - PUISSANT : Tour de ventilation jusqu’à 45 W de puissance, offrant un débit d’air agréable et puissant jusqu’à 1581,6 m3/h.
-- PRATIQUE ET SILENCIEUX : 81 cm de hauteur avec poignée de transport intégrée et base antidérapante pour une majeure stabilité. Niveau sonore < 57 dB(A). Câble de 135 cm et dimensions totales de 81x22 cm.
-- MINUTERIE : Avec une minuterie allant jusquà 2 heures. Réglez la durée de fonctionnement souhaitée et le ventilateur séteindra automatiquement une fois le temps écoulé.
-- 3 VITESSES : 3 vitesses différentes pour chaque occasion.
 - OSCILLANT : Système d’oscillation pour assurer un grand angle de flux d’air.
+- PRATIQUE ET SILENCIEUX : 81 cm de hauteur avec poignée de transport intégrée et base antidérapante pour une majeure stabilité. Niveau sonore < 57 dB(A). Câble de 135 cm et dimensions totales de 81x22 cm.
+- 3 VITESSES : 3 vitesses différentes pour chaque occasion.
+- MINUTERIE : Avec une minuterie allant jusquà 2 heures. Réglez la durée de fonctionnement souhaitée et le ventilateur séteindra automatiquement une fois le temps écoulé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084S4JFQX/?tag=tolees0d-21)
