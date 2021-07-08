@@ -28,12 +28,12 @@ Vous avez [BabySun Lit de Voyage Bébé/Sac à Langer/Couffin Nomade Simple Bed 
 
 ℹ️:
 
-- Se déplie et se replie très facilement.
 - De la naissance à 6 mois
 - Il est donc possible de changer la couche de votre bébé ou le permettre de faire la sieste où vous le souhaitez.
 - Contient une moustiquaire et de très nombreux rangements.
-- Ce sac à langer se transforme en un véritable couffin nomade  en 1 minute !
 - Dimensions (longueur x hauteur) : 47 x 34 cm
+- Ce sac à langer se transforme en un véritable couffin nomade  en 1 minute !
+- Se déplie et se replie très facilement.
 - Une poignée sécurisée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OZN0YEA/?tag=tolees0d-21)

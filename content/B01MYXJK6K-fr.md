@@ -30,8 +30,8 @@ Vous avez [Honeywell 6543012-39/7 Exceptio  S3 CI SRC  Size 39](https://www.amaz
 
 - Un design unique et élégant
 - Doublure et semelle intérieure en cuir
+- Exclusive et de dernière
 - Certifié en ISO 20345 : 2011 et SRC
 - Dessus en cuir résistant à leau
-- Exclusive et de dernière
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MYXJK6K/?tag=tolees0d-21)
