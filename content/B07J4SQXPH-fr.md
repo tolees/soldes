@@ -28,14 +28,14 @@ Vous avez [Riviera-et-Bar QPL570 Plancha Gril](https://www.amazon.fr/dp/B07J4SQX
 
 ℹ️:
 
-- Pare-graisse inox massif avec côtés rabattables et spatule de nettoyage spécialement adaptée
-- Plaque massive en fonte daluminium avec résistances intégrées
-- Plaque lisse et rainure pour une cuisson en mode plancha (pour légumes, fruits de mer, viandes émincer) et/ou gril-barbecue (pour viandes, poissons, brochettes, grillades)
-- Pare-graisse, collecteur et spatule compatibles lave-vaisselle
 - Plaque avec revêtement antiadhésif sans PFOA
 - Surface de cuisson: 2x 750 cm²
+- Plaque massive en fonte daluminium avec résistances intégrées
 - Plaque inclinée pour évacuer les graisses, tiroir avec collecteur de graisses en face avant
+- Plaque lisse et rainure pour une cuisson en mode plancha (pour légumes, fruits de mer, viandes émincer) et/ou gril-barbecue (pour viandes, poissons, brochettes, grillades)
+- Pare-graisse inox massif avec côtés rabattables et spatule de nettoyage spécialement adaptée
 - 2 zones de chauffe réglables séparément pour une cuisson simultanée de différents aliments et 2 thermostats indépendants avec 6 niveaux de température par zone
 - Cordon dalimentation extra long 2 mètres
+- Pare-graisse, collecteur et spatule compatibles lave-vaisselle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07J4SQXPH/?tag=tolees0d-21)
