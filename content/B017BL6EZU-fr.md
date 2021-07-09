@@ -28,10 +28,10 @@ Vous avez [Behringer X-TOUCH COMPACT](https://www.amazon.fr/dp/B017BL6EZU/?tag=t
 
 ℹ️:
 
-- Télécommande universelle pour DAW, instruments, effets et applications déclairage
-- Éléments de commande préconfigurés pour une utilisation instantanée
 - Mode double couche pour un changement rapide entre le DAW et le contrôle de linstrument
-- Mode émulation Mackie Control pour une intégration bonne avec nimporte quel logiciel de production de musique compatible
 - 9 faders motorisés 100 mm entièrement automatisés et sensibles au toucher
+- Éléments de commande préconfigurés pour une utilisation instantanée
+- Télécommande universelle pour DAW, instruments, effets et applications déclairage
+- Mode émulation Mackie Control pour une intégration bonne avec nimporte quel logiciel de production de musique compatible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B017BL6EZU/?tag=tolees0d-21)

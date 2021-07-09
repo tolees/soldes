@@ -29,7 +29,7 @@ Vous avez [Tommy Hilfiger Cotton Woven Boxer Icon Caleçon  Bleu  Navy Blazer Pt
 ℹ️:
 
 - Popeline de pur coton
-- 100% coton
 - Braguette boutonnée
+- 100% coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0160AYXN8/?tag=tolees0d-21)
