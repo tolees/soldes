@@ -28,8 +28,8 @@ Vous avez [Maped Color Peps 4 Pots de Peinture Doigt pour Bébé et Enfant dès 
 
 ℹ️:
 
-- Une peinture prête à lemploi, une texture onctueuse, agréable à étaler et qui ne coule pas.
 - De la peinture au doigt, pensée pour les débuts de bébé dans la peinture.
+- Une peinture prête à lemploi, une texture onctueuse, agréable à étaler et qui ne coule pas.
 - De jolies couleurs vives et brillantes pour des dessins pleins de vie et colorés qui disposent dun grand pouvoir couvrant.
 - Un produit testé dermatologiquement, adapté aux enfants dun an et plus.
 - Une peinture au doigt pour les tout-petits, facile à nettoyer et qui part rapidement avec de leau.
