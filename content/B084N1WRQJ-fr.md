@@ -28,8 +28,8 @@ C'est en vente [Milestone - MotoGP 20](https://www.amazon.fr/dp/B084N1WRQJ/?tag=
 
 ℹ️:
 
+- Créez votre équipe et contrôlez tous ses aspects avec le mode carrière managériale !
 - Découvrez la physique du monde réel, des graphismes améliorés, de nouveaux modèles de pilotes, des animations retravaillées
 - Laissez libre cours à votre imagination pendant que vous être en course contre des pilotes comme mick doohan, wayne raisey, casey stone ou dani pedrosa !
-- Créez votre équipe et contrôlez tous ses aspects avec le mode carrière managériale !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084N1WRQJ/?tag=tolees0d-21)
