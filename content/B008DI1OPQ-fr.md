@@ -28,11 +28,11 @@ C'est en vente [Stanley 1-42-315 Niveau Trapézoïdal mlh 80 cm Fabriqué en Fra
 
 ℹ️:
 
-- Longueur 30cm pour une accessibilité optimale dans les endroits étroits, lame effilée en acier inoxydable plus flexible pour enduire de manière précise, anticorrosion pour plus de résistance
-- Base plus large de 20% vs lancien modèle
+- Trou d’attache : permet d’accrocher le couteau à enduire à un support pour un rangement aisé
 - Poignée bimatière : promet une manipulation confortable, embout de la poignée en alliage de zinc lisse : garantit une grande robustesse et une longévité accrue
+- Base plus large de 20% vs lancien modèle
+- Longueur 30cm pour une accessibilité optimale dans les endroits étroits, lame effilée en acier inoxydable plus flexible pour enduire de manière précise, anticorrosion pour plus de résistance
 - Productivité : la lame de l’outil assez large permet de couvrir de grandes surfaces, réduisant le nombre de passages à effectuer, pour enduire avec un gain de temps et d’énergie considérable
 - Transport aisé : le couteau à enduit est facile à transporter dans un sac à outils grâce à ses dimensions légères et pas trop encombrantes
-- Trou d’attache : permet d’accrocher le couteau à enduire à un support pour un rangement aisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B008DI1OPQ/?tag=tolees0d-21)

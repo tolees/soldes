@@ -28,10 +28,10 @@ Vous avez [Bigben - WRC 7  PS4 ](https://www.amazon.fr/dp/B075QL8GV2/?tag=tolees
 
 ℹ️:
 
-- COMPLETELY OVERHAULED LEVEL DESIGN, for more realistic roads, reproducing the typical profiles of the famous WRC special stages
-- NEW VEHICLE PHYSICS developed in conjunction with WRC drivers and engineers
+- SPLIT-SCREEN MULTIPLAYER, for an intense head-to-head racing experience with friends
 - THE NEW OFFICIAL CARS FROM CITROEN, FORD, HYUNDAI AND TOYOTA - powerful rally behemoths, with a total of 55 different crews
 - OVER 60 SPECIAL STAGES IN 13 RALLIES, including 13 new Epic Stages that last more than 15 minutes each
-- SPLIT-SCREEN MULTIPLAYER, for an intense head-to-head racing experience with friends
+- COMPLETELY OVERHAULED LEVEL DESIGN, for more realistic roads, reproducing the typical profiles of the famous WRC special stages
+- NEW VEHICLE PHYSICS developed in conjunction with WRC drivers and engineers
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075QL8GV2/?tag=tolees0d-21)
