@@ -28,11 +28,11 @@ C'est en vente [MILESTONE - Hot Wheels Unleashed - Challenge Accepted Edition  N
 
 ℹ️:
 
-- Prenez le volant d’une tonne de véhicules avec chacun leur propre style et des niveaux de rareté différents. Le meilleur de l’univers Hot Wheels débarque dans votre salon !
-- Obtenez le DLC « HOT WHEELS - BEEFED UP PACK » en précommandant le jeu Hot Wheels Unleashed chez votre revendeur. Les éléments à récupérer en jeu (2 véhicules supplémentaires) seront disponibles le jour du lancement (30/09/2021)
-- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives
-- Faites la course face au monde entier: préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
-- Conduisez les voitures de vos rêves: les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
 - Prêt pour un nouveau challenge? Affrontez un ami en mode écran partagé à 2 joueurs ou faites la course jusqu’à 12 en ligne dans un événement mondial.
+- Obtenez le DLC « HOT WHEELS - BEEFED UP PACK » en précommandant le jeu Hot Wheels Unleashed chez votre revendeur. Les éléments à récupérer en jeu (2 véhicules supplémentaires) seront disponibles le jour du lancement (30/09/2021)
+- Prenez le volant d’une tonne de véhicules avec chacun leur propre style et des niveaux de rareté différents. Le meilleur de l’univers Hot Wheels débarque dans votre salon !
+- Conduisez les voitures de vos rêves: les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
+- Faites la course face au monde entier: préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
+- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08XR3FHYP/?tag=tolees0d-21)
