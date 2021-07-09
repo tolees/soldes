@@ -28,10 +28,10 @@ C'est en vente [SanDisk SDCZ73-064G-G46B Clé USB 64 Go](https://www.amazon.fr/d
 
 ℹ️:
 
-- Transférez un film entier en moins de 30 secondes
-- Un boîtier en métal élégant et résistant
-- Une protection par mot de passe simple demploi pour vos fichiers personnels, garantie de 5 ans
 - Transférez sur la clé jusquà 15 fois plus vite quavec une clé USB 2.0 standard
+- Un boîtier en métal élégant et résistant
+- Transférez un film entier en moins de 30 secondes
 - Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s
+- Une protection par mot de passe simple demploi pour vos fichiers personnels, garantie de 5 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075KP7D1R/?tag=tolees0d-21)

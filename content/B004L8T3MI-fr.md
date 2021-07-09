@@ -28,10 +28,10 @@ C'est en vente [FRONTLINE Combo Chien - Anti-puces et anti-tiques pour chien - 1
 
 ℹ️:
 
-- 6 pipettes anti-puces et anti-tiques FRONTLINE Combo pour chiens de 10-20kg.
-- Lors dune infestation, 95% des puces se trouvent dans lhabitat. En ne traitant que lanimal, leur élimination peut prendre jusquà plusieurs mois.
-- [ Habitat ] - Réduit le risque dinfestation de votre habitat en limitant la ponte des œufs et le développement des larves de puces.
 - [ Durée protection ] 1 pipette = 8 semaines contre les puces et 4 contre les tiques.
+- 6 pipettes anti-puces et anti-tiques FRONTLINE Combo pour chiens de 10-20kg.
+- [ Habitat ] - Réduit le risque dinfestation de votre habitat en limitant la ponte des œufs et le développement des larves de puces.
+- Lors dune infestation, 95% des puces se trouvent dans lhabitat. En ne traitant que lanimal, leur élimination peut prendre jusquà plusieurs mois.
 - [ Traitement préventif ] Renouvelez régulièrement le traitement anti-puces et tiques de votre chien.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004L8T3MI/?tag=tolees0d-21)
