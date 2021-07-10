@@ -28,9 +28,9 @@ C'est en vente [GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 EU](https://www.amaz
 
 ℹ️:
 
-- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Synthétique
-- Matériau de la semelle : synthétique.
 - Cuir Souple
+- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Matériau de la semelle : synthétique.
+- Synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LFRMVSG/?tag=tolees0d-21)

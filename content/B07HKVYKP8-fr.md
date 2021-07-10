@@ -30,8 +30,8 @@ Vous avez [Hercules DJControl Inpulse 300 – Contrôleur DJ USB - 2 pistes avec
 
 - Apprenez le DJing avec les fonctions exclusives du contrôleur : les guides lumineux Tempo et Beat Align, l’Assistant et l’Energy
 - Perfectionnez vos mix à l’aide des effets, des modes et 16 pads.
+- Préparez vos mix facilement avec l’IMA, l’assistant musical intelligent et la suggestion des morceaux tendances
 - Assimilez les bons gestes grâce à la disposition des boutons et des glissières comme sur un contrôleur pro.
 - Logiciel DJUCED complet fourni : maîtrisez les bases du DJing grâce à l’aide interactive et les vidéos tutorielles intégrées
-- Préparez vos mix facilement avec l’IMA, l’assistant musical intelligent et la suggestion des morceaux tendances
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HKVYKP8/?tag=tolees0d-21)

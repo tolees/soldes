@@ -28,10 +28,10 @@ C'est en vente [Philips MG5730/15 Tondeuse Multi-Styles Series 5000 11-en-1 Barb
 
 ℹ️:
 
-- Autonomie de 80 min pour 16 h de charge
 - 100% étanche, Rincez simplement lappareil et les accessoires après chaque utilisation
-- Tondeuse multifonctions 11 en 1 pour cheveux, barbe, nez-oreilles, corps
-- 3 sabots cheveux (9, 12, 16 mm), 2 sabots barbe (1, 2 mm), 1 sabot barbe réglable (3-7 mm) et 1 sabot corps (3 mm), accessoires tondeuse de précision, tondeuse nez-oreilles et rasoir de précision
 - Technologie DualCut, pour une précision maximale avec des lames doublement affûtées
+- 3 sabots cheveux (9, 12, 16 mm), 2 sabots barbe (1, 2 mm), 1 sabot barbe réglable (3-7 mm) et 1 sabot corps (3 mm), accessoires tondeuse de précision, tondeuse nez-oreilles et rasoir de précision
+- Tondeuse multifonctions 11 en 1 pour cheveux, barbe, nez-oreilles, corps
+- Autonomie de 80 min pour 16 h de charge
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075QGBMH7/?tag=tolees0d-21)

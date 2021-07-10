@@ -28,9 +28,9 @@ Vous avez [Samsung Galaxy Watch 46mm Smartwatch - Silver](https://www.amazon.fr/
 
 ℹ️:
 
+- Écran: 1,3 ", 360 x 360 pixels
 - Stockage: 4 Go
 - Processeur: Exynos 9110 1,15 GHz
 - Batterie: 472 mAh
-- Écran: 1,3 ", 360 x 360 pixels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GBJP82N/?tag=tolees0d-21)

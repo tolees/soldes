@@ -28,10 +28,10 @@ Vous avez [Hikvision 1/2.5i Progressive Scan CMOS/H.265+/2.8mm Lens optionl/120d
 
 ℹ️:
 
-- Hikvision appareil photo de dernière génération
 - 4 K Ultra HD 8 Mpx (4 fois plus Full HD Résolution)
 - Capteur CMOS 1/2.5 progressive scan, WDR 120 dB
 - Jusquà 30 mètres IR pour vision nocturne
+- Hikvision appareil photo de dernière génération
 - 102 ° Angle de vue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0756NJXDW/?tag=tolees0d-21)
