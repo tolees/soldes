@@ -28,10 +28,10 @@ C'est en vente [Hugo Boss Homme Analogique Classique Quartz Montre avec Bracelet
 
 ℹ️:
 
-- Montre quartz
+- Ultra mince
 - Fermoir de déploiement à bouton-poussoir
 - Bracelet maille
 - Resistance a leau 3 ATM
-- Ultra mince
+- Montre quartz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076B2NG7K/?tag=tolees0d-21)
