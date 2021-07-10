@@ -28,12 +28,12 @@ C'est en vente [Inconnu - Extel - Visiophone - Visio ultra plat design "effet mi
 
 ℹ️:
 
-- Distance platine/moniteur max. : 10 m
-- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
-- Avec vision nocturne
 - Commandez une gâche/serrure électrique ET un automatisme de portail
 - Avec sa fonction monitoring, surveillez votre entrée en toute discrétion
 - 9 sonneries
+- Distance platine/moniteur max. : 10 m
+- Avec vision nocturne
 - Visiophone avec large écran de 18cm
+- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L5J37GM/?tag=tolees0d-21)
