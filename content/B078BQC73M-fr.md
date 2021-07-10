@@ -28,10 +28,10 @@ C'est en vente [Traitement Boiseries & Parquets  Xylophene - Incolore  5L](https
 
 ℹ️:
 
-- ANTI INSECTES : Nattendez pas que les insectes envahissent lintérieur de votre habitation ! Ils convient pour les bois exposés en intérieur, attaqués et non attaqués
-- TOUS TYPES DE FINITIONS ACCEPTEES : Ce produit traite les bois attaqués en phase curative et les bois sains en phase préventive. Il accepte toutes les finitions Bondex et Ripolin (cire, vernis, huile, lasure, peinture)
-- UN TRAITEMENT PREVENTIF ET CURATIF DES PARQUETS ET BOISERIES INTERIEURES : XYLOPHENE Traitement Boiseries et Parquet est un traitement préventif et curatif pour les parquets et boiseries intérieures attaqués et non attaqués
-- XYLOPHENE, LA MARQUE DE REFERENCE POUR VOS BOIS : XYLOPHENE accompagne chaque projet d’entretien ou de rénovation de bois à toutes les étapes, de lidée de départ à la réalisation
 - UNE EFFICACITE PROUVEE : Fort de l’expertise de XYLOPHENE depuis plus de 60 ans, il assure un rendu optimal. Utilisez les produits biocides avec précaution. Avant toute utilisation, lisez l’étiquette et les informations concernant le produit
+- UN TRAITEMENT PREVENTIF ET CURATIF DES PARQUETS ET BOISERIES INTERIEURES : XYLOPHENE Traitement Boiseries et Parquet est un traitement préventif et curatif pour les parquets et boiseries intérieures attaqués et non attaqués
+- TOUS TYPES DE FINITIONS ACCEPTEES : Ce produit traite les bois attaqués en phase curative et les bois sains en phase préventive. Il accepte toutes les finitions Bondex et Ripolin (cire, vernis, huile, lasure, peinture)
+- ANTI INSECTES : Nattendez pas que les insectes envahissent lintérieur de votre habitation ! Ils convient pour les bois exposés en intérieur, attaqués et non attaqués
+- XYLOPHENE, LA MARQUE DE REFERENCE POUR VOS BOIS : XYLOPHENE accompagne chaque projet d’entretien ou de rénovation de bois à toutes les étapes, de lidée de départ à la réalisation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078BQC73M/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [LULANDO Baby-Nest cocon pour bébé/nourrisson  cocon à usage m
 
 ℹ️:
 
-- Usages multiples - le cocon peut être utilisé comme lit de bébé, il facilite le placement du bébé sur le côté ; il peut être placé dans le lit des parents, les côtés sécurisés protègent le bébé de lécrasement ; il peut être également placé dans la poussette et amortit parfaitement tous les chocs ; il peut être utilisé comme couffin dans nimporte quel endroit - sur le canapé, au sol et comme berceau lors de voyages.
 - Adaptable à la taille du bébé, réversible - le cocon grandit avec lenfant. Grâce au ruban cousu, la longueur et la largeur du cocon peuvent être ajustées librement. Le cocon est réversible, ce qui permet de changer son apparence.
-- Sicuro, è certificato da Oeko-Tex Standard 100 - Classe I, questo vuol dire che i materiali da soddisfano i requisiti più severi per i prodotti di contatto con la pelle sensibile di neonati e bambini piccoli.
 - Coton 100 % et anti-allergique - Fait de coton 100 % de qualité supérieure. A lintérieur, il est garni dun textile non-tissé polyester anti-allergique, aéré et respirant dont les propriétés ne sont pas altérées lors de lavages répétés.
 - Sûr, certifié par Oeko-Tex Standard 100 - Classe I, ce qui signifie que les matériaux dont il est composé répondent aux exigences les plus strictes pour les produits qui entrent en contact avec la peau sensible des nourrissons et des jeunes enfants.
+- Usages multiples - le cocon peut être utilisé comme lit de bébé, il facilite le placement du bébé sur le côté ; il peut être placé dans le lit des parents, les côtés sécurisés protègent le bébé de lécrasement ; il peut être également placé dans la poussette et amortit parfaitement tous les chocs ; il peut être utilisé comme couffin dans nimporte quel endroit - sur le canapé, au sol et comme berceau lors de voyages.
+- Sicuro, è certificato da Oeko-Tex Standard 100 - Classe I, questo vuol dire che i materiali da soddisfano i requisiti più severi per i prodotti di contatto con la pelle sensibile di neonati e bambini piccoli.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077QD3YDY/?tag=tolees0d-21)
