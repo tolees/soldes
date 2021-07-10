@@ -28,9 +28,9 @@ C'est en vente [Enermax LIBLLUSION LL30 - Boîtier PC Gaming Moyen-Tour RGB Adre
 
 ℹ️:
 
-- Poids du colis: 1.0 Kg
-- Couleur: Noir
 - Fabriqué en Chine
 - ECA-LL30-M1BB-ARGB
+- Poids du colis: 1.0 Kg
+- Couleur: Noir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0873MQMFJ/?tag=tolees0d-21)
