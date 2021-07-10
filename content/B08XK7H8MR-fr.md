@@ -28,8 +28,8 @@ Vous avez [Square Enix - Marvel s Avengers  PS5 ](https://www.amazon.fr/dp/B08XK
 
 ℹ️:
 
-- Réalisez vos rêves de super-héros
-- Explorez vos pouvoirs
 - Rassemblez votre propre équipe des plus grands héros de la terre
+- Explorez vos pouvoirs
+- Réalisez vos rêves de super-héros
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08XK7H8MR/?tag=tolees0d-21)
