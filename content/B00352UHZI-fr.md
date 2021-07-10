@@ -28,13 +28,13 @@ Vous avez [Havaianas Top Tongs  Mixte Adulte  Bleu  Marine   41/42 EU](https://w
 
 ℹ️:
 
+- Fermeture : à enfiler
 - Matériau de semelle : caoutchouc
-- Semelle : caoutchouc
-- Dessus : caoutchouc
+- Semelle intérieure : caoutchouc
 - Semelle intérieure amovible : faux
 - Doublure : caoutchouc
 - Type de talons : plat
-- Fermeture : à enfiler
-- Semelle intérieure : caoutchouc
+- Semelle : caoutchouc
+- Dessus : caoutchouc
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00352UHZI/?tag=tolees0d-21)
