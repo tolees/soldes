@@ -28,10 +28,10 @@ C'est en vente [Philips FC8245/09 Aspirateur avec Sac 3 L](https://www.amazon.fr
 
 ℹ️:
 
-- Certifié anti-allergène par lECARF : système de filtration spécial air pur qui piège 99,9 % des poussières fines, y compris le pollen, les poils danimaux et les acariens.
-- Long cordon de 9 mètres
 - Grande capacité de 3 litres
+- Certifié anti-allergène par lECARF : système de filtration spécial air pur qui piège 99,9 % des poussières fines, y compris le pollen, les poils danimaux et les acariens.
 - Classe énergétique AAA: consommation dénergie, rétention démission de poussières et nettoyage sur sols durs
 - Brosses et Accessoires: brosse 2 en 1, suceur plat, brosse multi-usages, 4 sacs et filtres supplémentaires
+- Long cordon de 9 mètres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0749WFRKL/?tag=tolees0d-21)

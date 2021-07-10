@@ -28,9 +28,9 @@ C'est en vente [Square Enix - Kingdom Hearts 3.0 - Deluxe Edition](https://www.a
 
 ℹ️:
 
-- Un boîtier Steelbook
 - Un pins exclusif
 - Un artbook
+- Un boîtier Steelbook
 - Lédition Deluxe contient :
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JFZSFQQ/?tag=tolees0d-21)
