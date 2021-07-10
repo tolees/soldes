@@ -28,9 +28,9 @@ C'est en vente [G-STAR RAW Originals Stripe Logo T-shirt  Sartho Blue 336-6067  
 
 ℹ️:
 
-- Manches courtes
 - Motif caoutchouté sur la poitrine
-- Ourlet droit
 - Col rond côtelé
+- Ourlet droit
+- Manches courtes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CN2DLQ3/?tag=tolees0d-21)
