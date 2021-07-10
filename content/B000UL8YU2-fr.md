@@ -29,8 +29,8 @@ Vous avez [Wahl - 09953-1016 - GroomMan Body Trimmer](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Large tête de rasoir pour une finition bien rase et lisse.
-- Tête de coupe rotative unique pouvant être réglée à 12 longueurs de coupe différentes.
 - Idéale pour les contours de la chevelure et sadapte à touts les angles de coupe que requiert le rasage des différentes parties du corps.
+- Tête de coupe rotative unique pouvant être réglée à 12 longueurs de coupe différentes.
 - Tête de coupe de précision pour raser les poils parasites du nez, du front, des oreilles, et parfaire les lignes de contour de la chevelure.
 - Lame de tondeuse standard pour le rasage des poils de toutes les parties du corps, y compris les poils du visage ou la barbe.
 

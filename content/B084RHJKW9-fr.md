@@ -28,9 +28,9 @@ C'est en vente [American Tourister Sunside - Spinner L Extensible Valise  77 cm 
 
 ℹ️:
 
-- Poignée de traction : Poignée de traction double tube
 - Serrure : Serrure à combinaison TSA
-- Matière : 100% Polypropylene
 - Types de roues : Roulettes multidirectionnelles
+- Matière : 100% Polypropylene
+- Poignée de traction : Poignée de traction double tube
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084RHJKW9/?tag=tolees0d-21)

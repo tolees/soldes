@@ -28,13 +28,13 @@ C'est en vente [SAMSUNG C27HG70  Ecran PC Gaming Incurvé   Dalle VA 27 "  Réso
 
 ℹ️:
 
-- Technologie AMD FreeSync
-- Pied ajustable en hauteur/ pivot/ inclinaison/ compatibilité VESA
-- 2 x HDMI, 1 x DisplayPort
-- Taux de rafraichissement: 144Hz
 - Du 1er juin au 19 juillet, profitez de 40€ remboursés sur ce produit. Voir conditions de loffre ci-dessous.
-- Temps de réponse: 1 ms mprt
-- Ecran incurvé qled de 27
 - Luminosité (typique): 350 cd/㎡
+- Ecran incurvé qled de 27
+- Technologie AMD FreeSync
+- Temps de réponse: 1 ms mprt
+- Taux de rafraichissement: 144Hz
+- 2 x HDMI, 1 x DisplayPort
+- Pied ajustable en hauteur/ pivot/ inclinaison/ compatibilité VESA
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0714BLPK1/?tag=tolees0d-21)

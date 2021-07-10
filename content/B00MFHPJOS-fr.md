@@ -28,13 +28,13 @@ Vous avez [Tiger Abattant WC  Blackwash  MDF  Noir](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Entièrement fabriqué à partir de bois FSC
 - Ensemble complet comprenant labattant WC, le système de fixation avec les charnières et un mode demploi
 - Encore plus confortable grâce au MDF qui absorbe rapidement la température corporelle
+- Entièrement fabriqué à partir de bois FSC
+- Les points de montage peuvent être ajustés de 10,5 à 20 cm, selon votre souhait
 - Labattant WC est résistant au rayonnement UV ainsi quaux détergents et désinfectants agressifs
 - La surface plane des côtés extérieur et intérieur de labattant WC en facilite le nettoyage, bannissant les coins et recoins où la poussière se glisse
-- Les charnières spéciales permettent à labattant WC de se refermer en sabaissant tout doucement. Au-delà de ne faire aucun bruit, cet abattant est également sûr pour les petites mains de vos chérubins. Les amortisseurs intégrés à labattant permettent déviter dendommager la céramique de la cuvette de toilette
 - Grâce à la peinture le recouvrant, labattant WC est facile à nettoyer et anti-rayures. Des années dutilisation ne vous lasseront pas de cet abattant
-- Les points de montage peuvent être ajustés de 10,5 à 20 cm, selon votre souhait
+- Les charnières spéciales permettent à labattant WC de se refermer en sabaissant tout doucement. Au-delà de ne faire aucun bruit, cet abattant est également sûr pour les petites mains de vos chérubins. Les amortisseurs intégrés à labattant permettent déviter dendommager la céramique de la cuvette de toilette
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MFHPJOS/?tag=tolees0d-21)

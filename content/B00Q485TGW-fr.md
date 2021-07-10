@@ -28,8 +28,8 @@ C'est en vente [Apli 12861 - Bracelets élastiques en caoutchouc naturel - 100G 
 
 ℹ️:
 
-- Découvrez la dimension idéale pour vous parmi la large gamme de bracelets en caoutchouc proposée par APLI.
 - Idéal pour ranger, assembler les objets, bricoler, lors de travaux manuels etc. Accessoire pratique et indispensable à lécole, à la maison, au bureau ou à l’atelier.
 - Sachet de bracelets en caoutchouc dimension Ø 100 x 5 mm. Contenu : 100 g. bracelets en caoutchouc de qualité, grande élasticité. Excellente résistance, composés à 70% de caoutchouc naturel.
+- Découvrez la dimension idéale pour vous parmi la large gamme de bracelets en caoutchouc proposée par APLI.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00Q485TGW/?tag=tolees0d-21)
