@@ -28,10 +28,10 @@ C'est en vente [LEDVANCE Smart+ Ruban LED Flex  Kit de démarrage  Connecté | 1
 
 ℹ️:
 
-- Systèmes Smart Home compatibles: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You et bien dautres
-- Produit ZigBee -> Étendez votre maison intelligente avec le Flex 3P Multicolor: Vous pouvez contrôler la source de lumière avec ZigBee Gateway et App, directement avec Echo Plus ou avec une passerelle compatible Echo et Echo.
 - faible consommation dénergie -> LED à économie dénergie de 11 W avec A et une puissance lumineuse de 600 lumens
+- Systèmes Smart Home compatibles: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You et bien dautres
 - Ambiance lumineuse individuelle -> Contrôle de la température de couleur du blanc chaud (2000 K) au blanc lumière du jour (6500 K), variation de la luminosité et changement de couleur RVB - facilement via lapplication, par commande vocale ou même à distance
+- Produit ZigBee -> Étendez votre maison intelligente avec le Flex 3P Multicolor: Vous pouvez contrôler la source de lumière avec ZigBee Gateway et App, directement avec Echo Plus ou avec une passerelle compatible Echo et Echo.
 - Installation flexible et facile -> bande autocollante, séparable et extensible pour éclairage indirect selon vos souhaits.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07M7V7FPH/?tag=tolees0d-21)

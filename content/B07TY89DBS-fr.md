@@ -28,10 +28,10 @@ C'est en vente [LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendu
 
 ℹ️:
 
-- Éclairage extérieur à LED pour le jardin, le garage et le carport, ainsi que la terrasse ou le balcon, convient également pour la porte dentrée.
-- Matériau du boîtier en aluminium de haute qualité
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Luminaire décoratifs et très lumineux. Caractéristiques produit: Luminaire LED extérieurs très lumineux et fonctionnels. Corps en fonte daluminium. Disponible en Luminaire muraux et en bornes. Avantages produits: Éco-énergétique grâce à la technologie LE
 - 6 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Éclairage extérieur à LED pour le jardin, le garage et le carport, ainsi que la terrasse ou le balcon, convient également pour la porte dentrée.
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Matériau du boîtier en aluminium de haute qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TY89DBS/?tag=tolees0d-21)

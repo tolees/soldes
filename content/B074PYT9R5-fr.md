@@ -28,10 +28,10 @@ C'est en vente [OSRAM Smart+ Ampoule LED Connectée | Culot B22 | Forme Standard
 
 ℹ️:
 
-- Technologie Zigbee : nécessite une passerelle compatible (non incluse) comme AMAZON Echo Plus / Echo Show (2G) ou PHILIPS Hue
-- Culot : B22 / Forme : Standard
-- Fonctions disponibles par défaut ; allumage On/Off ; réduire/augmenter la luminosité ; changement de couleur ; création de groupes de périphériques ; mise en place des scénarios
 - Compatible avec la commande vocale "Alexa" de AMAZON via Echos Plus ou Echo Show (2G), Non compatible avec la commande vocale "Dis Siri" de APPLE
+- Fonctions disponibles par défaut ; allumage On/Off ; réduire/augmenter la luminosité ; changement de couleur ; création de groupes de périphériques ; mise en place des scénarios
+- Culot : B22 / Forme : Standard
 - Puissance : 10 Watts, équivalent à 60 Watts (810 Lumens)
+- Technologie Zigbee : nécessite une passerelle compatible (non incluse) comme AMAZON Echo Plus / Echo Show (2G) ou PHILIPS Hue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074PYT9R5/?tag=tolees0d-21)

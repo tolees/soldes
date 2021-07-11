@@ -28,9 +28,9 @@ C'est en vente [Muc-Off Drive Train Nettoyant de Chaine Mixte Adulte  Jaune](htt
 
 ℹ️:
 
-- Nattaque pas les métaux, caoutchoucs, plastique ou joints
 - Nettoyage de la transmission
 - Biodégradable
 - Contenance: 5l
+- Nattaque pas les métaux, caoutchoucs, plastique ou joints
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078JKD9MR/?tag=tolees0d-21)

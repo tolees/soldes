@@ -30,7 +30,7 @@ C'est en vente [Just For Games - Mystery Investigations Path of Sin: Greed + Noi
 
 - Dans noir chronicles city of crime, visitez plus de 43 lieux dans une métropole dynamique et résolvez 41 énigmes pour connaître la vérité
 - Levez le voile sur les membres de cette famille énigmatique, de nombreux rebondissements rythment cette aventure mystérieuse.
-- Relevez le défi de mystery of investigation path of sin greed avec 36 énigmes et des puzzles dobjets cachés, découvrez et appréciez les 39 lieux mystérieux
 - Découvrez le destin des 20 personnages impliqués dans cette intrigue, suivez leurs aventures amoureuses et découvrez les conséquences mortelles 
+- Relevez le défi de mystery of investigation path of sin greed avec 36 énigmes et des puzzles dobjets cachés, découvrez et appréciez les 39 lieux mystérieux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082Y7TYLQ/?tag=tolees0d-21)

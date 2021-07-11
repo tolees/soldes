@@ -30,8 +30,8 @@ Vous avez [Philips Avent À la Mer Sucette pour Garçon 6-18 Mois](https://www.a
 
 - Des designs sur le thème a la mer et colorés pour les garçons
 - Téterelle plate et souple, respecte le développement naturel de la bouche de bébé
-- 2 sucettes décorées a la mer baleine et pingouin
 - Capuchon protecteur à clipser, pour garder la téterelle propre
 - Collerette aérée adaptée à lâge de bébé et conçue pour laisser respirer sa peau
+- 2 sucettes décorées a la mer baleine et pingouin
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NC1X2LM/?tag=tolees0d-21)
