@@ -29,10 +29,10 @@ C'est en vente [LEGO Dots 41904 Les Cubes-Photo Animaux  Activité Manuelle  D
 ℹ️:
 
 - Ce kit de bricolage offre de nombreuses possibilités aux enfants qui aiment les loisirs créatifs, les activités manuelles, la liberté de concevoir, redessiner, décorer et utiliser
-- Les enfants peuvent ajouter les tuiles dautres sets DOTS ou le paquet Extra DOTS - série 1 (41908) pour décorer les cubes en fonction de la décoration de leur chambre
-- Ce jouet sutilise comme accessoire de bureau et le plateau réutilisable offre également des possibilités dorganisation, de stockage et de déplacement faciles
-- Ce joli set de cubes comprend 3 cubes animaux avec couvercles et porte-photos. Ce kit de loisirs créatifs permet aux enfants de développer leurs capacités créatives
 - Les enfants décorent les cubes en suivant les idées figurant sur lemballage pour dessiner le visage du chat, du chien, du lama ou dautres animaux ou comme quils souhaitent
+- Ce joli set de cubes comprend 3 cubes animaux avec couvercles et porte-photos. Ce kit de loisirs créatifs permet aux enfants de développer leurs capacités créatives
+- Ce jouet sutilise comme accessoire de bureau et le plateau réutilisable offre également des possibilités dorganisation, de stockage et de déplacement faciles
+- Les enfants peuvent ajouter les tuiles dautres sets DOTS ou le paquet Extra DOTS - série 1 (41908) pour décorer les cubes en fonction de la décoration de leur chambre
 - Les amateurs de loisirs créatifs vont adorer ce ravissant set de cubes-photo qui stimule la créativité des enfants autour dune activité manuelle amusante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XCXPCL7/?tag=tolees0d-21)
