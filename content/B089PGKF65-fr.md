@@ -28,10 +28,10 @@ C'est en vente [THQNORDIC - KINGDOM OF AMALUR RE-RECKONING](https://www.amazon.f
 
 ℹ️:
 
-- La bande-son officielle du jeu sur cd
-- La statuette d’alyn shir (20 cm)
-- 5 artworks imprimés
 - Le jeu physique kingdoms of amalur: re-reckoning
 - Le porte-clés amalur
+- La statuette d’alyn shir (20 cm)
+- La bande-son officielle du jeu sur cd
+- 5 artworks imprimés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089PGKF65/?tag=tolees0d-21)
