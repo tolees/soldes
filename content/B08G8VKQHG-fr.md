@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.09 % rabais sur Lavor Nettoyeur Haute Pression Eau Froid'
-date: 2021-07-05 10:27:32
+date: 2021-07-11 18:04:18
 image: 'https://m.media-amazon.com/images/I/41WKmC2Zz3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Lavor'
 buyurl: 'https://www.amazon.fr/dp/B08G8VKQHG/?tag=tolees0d-21'
 descuento: '53.09'
-average: '66.5666666666667'
+average: '67.4'
 ---
 
 Vous avez [Lavor Nettoyeur Haute Pression Eau Froide Ninja Plus 130  Pression 130 bar max  débit 420 l/h max  avec brosse fixe et accessoire lave-sols Jaune](https://www.amazon.fr/dp/B08G8VKQHG/?tag=tolees0d-21)  à  53.09 % de réduction, prix final  69.9 EUR (original: 149.0 EUR) ici:
@@ -28,10 +28,10 @@ Vous avez [Lavor Nettoyeur Haute Pression Eau Froide Ninja Plus 130  Pression 13
 
 ℹ️:
 
-- Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique. Chariot avec poignée ergonomique et porte-accessoires. Support Flexible haute pression.
-- Laccessoire lave-sols inclus, permet un nettoyage optimal des grandes surfaces aussi.
-- Pression 130 bar max, débit 420 litres / heure, moteur 1800 Watt. Accessoires inclus : pistolet, tuyau haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo, brosse fixe, accessoire lave-sols, diffuseur de détergent / désinfectant.
 - La buse TURBO augmente la puissance de lavage grâce au jet rotatif. La buse Vario-jet, avec réglage de la largeur du jet pour mieux sadapter à la surface à nettoyer.
+- Pression 130 bar max, débit 420 litres / heure, moteur 1800 Watt. Accessoires inclus : pistolet, tuyau haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo, brosse fixe, accessoire lave-sols, diffuseur de détergent / désinfectant.
+- Laccessoire lave-sols inclus, permet un nettoyage optimal des grandes surfaces aussi.
+- Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique. Chariot avec poignée ergonomique et porte-accessoires. Support Flexible haute pression.
 - Avec le diffuseur de nettoyage fourni avec Ninja PLUS 130, il est possible de désinfecter toutes les surfaces externes, simplement en rajoutant le produit désinfectant adapté.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G8VKQHG/?tag=tolees0d-21)

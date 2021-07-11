@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '46.28 % rabais sur THQ NORDIC - Desperados 3 - Collector s '
-date: 2021-06-30 06:38:30
+date: 2021-07-11 19:17:10
 image: 'https://m.media-amazon.com/images/I/51hCzrxD9UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Vous avez [THQ NORDIC - Desperados 3 - Collector s Edition](https://www.amazon.f
 ℹ️:
 
 - Une boîte à musique tournante desperados iii avec 5 figurines interchangeables (16 cm chacune)
-- Un packaging de qualité premium et 8 cartes postales desperados iii
 - L’artbook officiel desperados iii et la bande-son officielle du jeu sur cd
+- Un packaging de qualité premium et 8 cartes postales desperados iii
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086RDZ2LV/?tag=tolees0d-21)
