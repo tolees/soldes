@@ -29,8 +29,8 @@ C'est en vente [Xiaomi - Mi Air Purifier Pro EU](https://www.amazon.fr/dp/B07HLR
 ℹ️:
 
 - Filters out PM2.5, formald?hyde et autres substances nocives.
+- Purify your home en 12 minutes
 - Le filtre cylindrique à 360 degrés prend de lair plus efficacement dans toutes les directions par rapport aux purificateurs dair conventionnels
 - Syst?me de ventilation double, 4 ampoules dair.
-- Purify your home en 12 minutes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HLRR5P1/?tag=tolees0d-21)

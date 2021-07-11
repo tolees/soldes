@@ -28,12 +28,12 @@ Vous avez [LEGO®-Hidden Side Le quad chasseur de fantômes Jeu de Construction 
 
 ℹ️:
 
-- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) Lapplication est compatible avec une sélection dappareils iOS et Android
-- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
+- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
 - Ce jouet incluant une application de réalité augmentée comprend 4 figurines pour jouer aux chasseurs de fantômes dans le monde physique et dans lapplication de réalité augmentée
+- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
+- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
 - Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
 - Le quad chasseur de fantômes à construire comprend un quad de cascade avec une suspension arrière, une cabine pouvant accueillir 2 figurines et un canon monté à larrière
-- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
+- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) Lapplication est compatible avec une sélection dappareils iOS et Android
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND9QVV2/?tag=tolees0d-21)

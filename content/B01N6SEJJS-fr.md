@@ -28,9 +28,9 @@ Vous avez [Histoire d ours - Peluche Licorne - Or - 23 cm - Cadeau Enfant - Je r
 
 ℹ️:
 
-- Lavable à 30°.
 - Cette licorne assise est vendue dans une jolie boîte cadeau.
-- Très girly avec touches de glitter or, elle séduira toutes les petites filles coquettes (à partir de 24 mois).
 - Jaime ma licorne avec sa belle robe blanche très douce et moelleuse et ses yeux brillants de paillettes.
+- Très girly avec touches de glitter or, elle séduira toutes les petites filles coquettes (à partir de 24 mois).
+- Lavable à 30°.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N6SEJJS/?tag=tolees0d-21)

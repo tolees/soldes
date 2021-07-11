@@ -28,11 +28,11 @@ C'est en vente [Moulinex Mini Bol + 4 Pots en verre Bébé pour gamme Companion 
 
 ℹ️:
 
-- Idéal pour préparer des repas pour bébés
-- Capacité maximum du bol : 1,4L
 - Idéal vos préparations chaudes ou froides
 - Passe au lave vaisselle
 - Préparations à conserver dans les 4 pots en verre adaptés
 - Facile a utiliser : couper et cuisiner directement dans le bol
+- Capacité maximum du bol : 1,4L
+- Idéal pour préparer des repas pour bébés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074D21VYN/?tag=tolees0d-21)

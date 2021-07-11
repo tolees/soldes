@@ -28,12 +28,12 @@ Vous avez [Sanipro Turboflush WC compact à turbo broyage 500 W](https://www.ama
 
 ℹ️:
 
-- Céramique anticalcaire
-- Fabriqué en France
-- Système très économique double-chasse 1,8L / 3L seulement
-- Abattant antibactérien à frein de chute
-- TURBOFLUSH est un WC compact avec un système de dilacération intégré
 - Nos appareils bénéficient dune garantie de deux ans pièces, main doeuvre et déplacement
+- Abattant antibactérien à frein de chute
+- Céramique anticalcaire
 - Evacuation à lhorizontale jusquà 30m ou à la verticale jusquà 3m
+- Système très économique double-chasse 1,8L / 3L seulement
+- Fabriqué en France
+- TURBOFLUSH est un WC compact avec un système de dilacération intégré
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CL8WTR6/?tag=tolees0d-21)

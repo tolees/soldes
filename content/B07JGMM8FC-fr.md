@@ -28,10 +28,10 @@ Vous avez [Orient Horloge RA-AA0004E19B](https://www.amazon.fr/dp/B07JGMM8FC/?ta
 
 ℹ️:
 
-- 200 meters
 - Homme acier inoxydable analogique
-- Sportif
-- Cadran vert et sangle gris
 - Mouvement automatique
+- 200 meters
+- Cadran vert et sangle gris
+- Sportif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JGMM8FC/?tag=tolees0d-21)

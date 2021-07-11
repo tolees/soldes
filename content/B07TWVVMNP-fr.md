@@ -28,9 +28,9 @@ C'est en vente [LEDVANCE Projecteurs LED luminaires pour applications extérieur
 
 ℹ️:
 
-- Très longue durée de vie avec 25 000 heures
 - Alimentation électrique par câble de 1 m de long avec connexions ouvertes
-- Utilisation extérieure irréprochable avec la classe de protection IP65
 - Matériau du boîtier en aluminium de haute qualité
+- Très longue durée de vie avec 25 000 heures
+- Utilisation extérieure irréprochable avec la classe de protection IP65
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TWVVMNP/?tag=tolees0d-21)

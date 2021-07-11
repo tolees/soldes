@@ -28,10 +28,10 @@ C'est en vente [Banana Boat Aloe Vera After Sun Gel - AfterSun Rafraîchissant e
 
 ℹ️:
 
-- Gel après-soleil rafraîchissant à lAloe Vera pur qui répare la peau après une exposition au soleil
-- Texture douce et légère
-- Peut être mis au réfrigérateur pour amplifier la sensation de refroidissement
-- Répare la peau et soulage les rougeurs
 - Aloe Vera pur pour éviter les tiraillements cutanés
+- Répare la peau et soulage les rougeurs
+- Peut être mis au réfrigérateur pour amplifier la sensation de refroidissement
+- Texture douce et légère
+- Gel après-soleil rafraîchissant à lAloe Vera pur qui répare la peau après une exposition au soleil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000P9ENQS/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Amazon Basics Destructeur de Documents/Cartes de crédit à coupe cro
 
 ℹ️:
 
+- Destructeur à coupe croisée avec capacité 12 feuilles - Permet de détruire des cartes de crédit
 - Dimensions : 35,81 x 25,65 x 41,4 cm
 - Découpe le papier en bandes croisées de 5,55 x 11,11 mm
 - Cycle de coupe continu de 7 minutes avec une durée de refroidissement de 30 minutes - Mise en route automatique et marche arrière anti-bourrage automatique pour minimiser/résoudre les problèmes de bourrage papier
 - Alimentation papier de 22 cm de large ; récipient de 18,16 litres ; protection thermique avec arrêt automatique ; poignée pour relever facilement le capot du destructeur
-- Destructeur à coupe croisée avec capacité 12 feuilles - Permet de détruire des cartes de crédit
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MC4LV24/?tag=tolees0d-21)

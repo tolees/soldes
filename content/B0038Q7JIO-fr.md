@@ -28,8 +28,8 @@ C'est en vente [Petmate - Pet Mate Cat Mate Abreuvoir pour Animal Domestique 2 L
 
 ℹ️:
 
-- convient pour chats et petits chiens
 - filtre au charbon en polymère pour purifier leau facile à nettoyer, lavable au lave-vaisselle
 - abreuvoirs à hauteurs multiples système de pompage isolé pour un fonctionnement très silencieux fonctionnement basse tension avec câble de raccordement de 3 m
+- convient pour chats et petits chiens
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0038Q7JIO/?tag=tolees0d-21)

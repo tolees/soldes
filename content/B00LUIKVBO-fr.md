@@ -28,11 +28,11 @@ Vous avez [Adidas Originals Adidas Stan Smith M20324  Sneaker Basse Homme  FTWR 
 
 ℹ️:
 
-- Fermeture: Lacets
-- Type de talons: Plat
 - Matériau de semelle: Caoutchouc
-- Semelle intérieure: Synthétique
-- Dessus: Autres Cuir
 - Doublure: Synthétique
+- Fermeture: Lacets
+- Dessus: Autres Cuir
+- Type de talons: Plat
+- Semelle intérieure: Synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LUIKVBO/?tag=tolees0d-21)

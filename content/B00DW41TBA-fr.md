@@ -28,7 +28,7 @@ C'est en vente [Cattier Dentifrice Dentargile Citron 75 ml Lot de 2](https://www
 
 ℹ️:
 
-- Cosmebio Ecocert
 - Tube + étui
+- Cosmebio Ecocert
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00DW41TBA/?tag=tolees0d-21)
