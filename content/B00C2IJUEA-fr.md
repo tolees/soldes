@@ -28,7 +28,7 @@ Vous avez [Minichamps - 410120015 - Véhicule Miniature - Modèle À L Échelle 
 
 ℹ️:
 
-- descriptif produit: fabricant : minichamps/marque : sauber/type : f1 team ferrari c31 - 2012/année : 2012/echelle : 43/couleur : blanc / gris / rouge/matière : mt/référence fabricant : 410120015/numéro de course : 15/pilotes : s. perez/remarque :
 - Age minimum: 14 ans
+- descriptif produit: fabricant : minichamps/marque : sauber/type : f1 team ferrari c31 - 2012/année : 2012/echelle : 43/couleur : blanc / gris / rouge/matière : mt/référence fabricant : 410120015/numéro de course : 15/pilotes : s. perez/remarque :
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00C2IJUEA/?tag=tolees0d-21)
