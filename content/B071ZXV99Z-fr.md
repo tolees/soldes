@@ -29,9 +29,9 @@ C'est en vente [Hasbro Dix de Chute - Jeu de Societe de Stratégie - Version Fra
 ℹ️:
 
 - Vous aimez les jeux de société et partager un moment en famille ou entre amis? Le dix de chute est le jeu parfait à offrir en cadeau pour les enfants, filles et garçons de 7 ans, 8 ans, 9 ans et plus. Valeur éducative: apprendre, partager, samuser.
-- Accessoires inclus: Une glissière, un lanceur, une unité dix de chute, 5 roues dentées a, 5 roues dentées B, 20 jetons, 2 clés et les règles du jeu en français. Aucune pile nest nécessaire.
 - Principe du jeu: tournez les roues dentelées grâce à la clé pour faire tomber les jetons le plus rapidement possible. Mais attention ! Vous risquez daider votre adversaire à chaque fois que vous faites tourner une roue.
-- Dix de chute: jeu de société où le but du jeu est de faire tourner les roues dentelées pour atteindre la victoire. Version française.
+- Accessoires inclus: Une glissière, un lanceur, une unité dix de chute, 5 roues dentées a, 5 roues dentées B, 20 jetons, 2 clés et les règles du jeu en français. Aucune pile nest nécessaire.
 - 2 joueurs. Temps de la partie: 30 minutes. Âge recommandé: à partir de 7 ans.
+- Dix de chute: jeu de société où le but du jeu est de faire tourner les roues dentelées pour atteindre la victoire. Version française.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)
