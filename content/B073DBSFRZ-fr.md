@@ -28,10 +28,10 @@ C'est en vente [Osram Ampoule LED Plastique 5 5 = 40 Watt W E14 Blanc Chaud  4 p
 
 ℹ️:
 
+- Allumage instantané, pas de temps de préchauffage
+- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Domaines dapplication: applications domestiques, éclairage général. Utilisation en extérieur, uniquement dans des luminaires appropriés.
 - Lumière Blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres d’enfants
-- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
-- Allumage instantané, pas de temps de préchauffage
 - Résistant aux chocs et aux vibrations grâce à la technologie LED.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073DBSFRZ/?tag=tolees0d-21)

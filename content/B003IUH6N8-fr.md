@@ -28,9 +28,9 @@ Vous avez [sif 600 Grille Pain & Grille Viande  Gris  Unique](https://www.amazon
 
 ℹ️:
 
-- Diffuseur mijoteur 21cm
-- Number of items: 1.0
-- Nombre de pièces: 1.0
 - Couleur: Gris
+- Number of items: 1.0
+- Diffuseur mijoteur 21cm
+- Nombre de pièces: 1.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003IUH6N8/?tag=tolees0d-21)

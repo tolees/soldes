@@ -28,10 +28,10 @@ C'est en vente [Joma Caire II Sweater Homme  Vert Fluo  M](https://www.amazon.fr
 
 ℹ️:
 
-- Comprend une bordure sur le col, les manchettes et la ceinture pour un ajustage optimum
-- Intérieur en peluche qui apporte du confort
 - Liberté de circulation
 - Logotype brodé
 - Sweat-shirt conçu avec un col rond
+- Intérieur en peluche qui apporte du confort
+- Comprend une bordure sur le col, les manchettes et la ceinture pour un ajustage optimum
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NWZJZF7/?tag=tolees0d-21)

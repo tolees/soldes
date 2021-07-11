@@ -28,10 +28,10 @@ C'est en vente [Amazfit GTR47 Smartwatch Unisex-Adult  Black  Normal](https://ww
 
 ℹ️:
 
-- 5 ATM water-resistance to ensure a normal use up to 50 meters water pressure
 - Large variety of built-in watch faces
 - 1.39” AMOLED Display with high 326PPI resolution (retina level), Corning Gorilla glass & anti-fingerprint coating
-- 27 days battery life to avoid frequent charging and focus on your daily activities mind free
+- 5 ATM water-resistance to ensure a normal use up to 50 meters water pressure
 - Classy and sleek design giving it a traditional watch look. Metal body (Titanium, Stainless Steel & Aluminum Alloy), giving premium and solid look and feel
+- 27 days battery life to avoid frequent charging and focus on your daily activities mind free
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VHHR7ML/?tag=tolees0d-21)

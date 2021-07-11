@@ -28,8 +28,8 @@ C'est en vente [THQ NORDICS - Darksiders - Genesis](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Darksiders genesis (nintendo switch)
 - Nintendo switch
 - Pegi
+- Darksiders genesis (nintendo switch)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SQFZX1Z/?tag=tolees0d-21)
