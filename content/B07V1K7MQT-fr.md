@@ -28,10 +28,10 @@ C'est en vente [LEDVANCE LED Arbeitslicht  Leuchte für Außenanwendungen  Kaltw
 
 ℹ️:
 
-- Matériau du boîtier en aluminium de haute qualité
 - Utilisation extérieure irréprochable avec la classe de protection IP65
-- Immédiatement à pleine lumière, pas de temps de préchauffage grâce au module LED intégré et à économie dénergie
-- Alimentation électrique via un câble de 2 mètres de long avec fiche Schuko
 - Chambre à ouverture rapide intégrée pour ajuster langle du faisceau
+- Alimentation électrique via un câble de 2 mètres de long avec fiche Schuko
+- Immédiatement à pleine lumière, pas de temps de préchauffage grâce au module LED intégré et à économie dénergie
+- Matériau du boîtier en aluminium de haute qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V1K7MQT/?tag=tolees0d-21)
