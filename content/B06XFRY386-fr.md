@@ -28,12 +28,12 @@ Vous avez [Seb Clipsominut  Easy Cocotte-minute 9 L Induction + Livre de 100 Rec
 
 ℹ️:
 
+- COMPATIBLE : tous feux dont induction, lave-vaisselle (sauf soupape et joint)
+- FABRIQUEE EN France
+- INCLUS : livret de 100 recettes, panier vapeur en acier inoxydable, application mobile gratuite de 300 recettes "Smart & Tasty"
+- PIECES DE RECHANGE : disponibles pendant au moins 10 ans après lachat
 - GARANTIE 10 ANS : cuve inox
 - PRATIQUE : 30 % plus légère quun autocuiseur Clipso+ avec une contenance similaire ; ouverture dune seule main
-- COMPATIBLE : tous feux dont induction, lave-vaisselle (sauf soupape et joint)
-- INCLUS : livret de 100 recettes, panier vapeur en acier inoxydable, application mobile gratuite de 300 recettes "Smart & Tasty"
-- FABRIQUEE EN France
-- PIECES DE RECHANGE : disponibles pendant au moins 10 ans après lachat
 - SECURITE : testée pour 30 ans de sécurité
 - CUISSON SOUS PRESSION : conçue pour cuire facilement une grande variété de plats jusquà 2 fois plus rapidement quun faitout Tefal conventionnel
 

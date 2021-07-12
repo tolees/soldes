@@ -28,10 +28,10 @@ Vous avez [Metz 005231299 Flash](https://www.amazon.fr/dp/B009GEP0Y2/?tag=tolees
 
 ℹ️:
 
-- Ecran Rotation Automatique
-- Flash 52 AF-1 digital / Olympus - Panasonic
-- Fixation Métal
-- Mise à Jour par USB
 - Nombre Guide : 52 à 100 ISO
+- Ecran Rotation Automatique
+- Fixation Métal
+- Flash 52 AF-1 digital / Olympus - Panasonic
+- Mise à Jour par USB
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009GEP0Y2/?tag=tolees0d-21)
