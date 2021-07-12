@@ -28,10 +28,10 @@ Vous avez [Onduleur Eaton 3S 550 FR - Off-line UPS - 3S550F - 550VA  6 prises FR
 
 ℹ️:
 
-- 3S 550 VA / 330 watts
 - 6 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 3 prise protection contre les surtensions uniquement
 - UPS avec interface USB (câble USB et logiciel inclus)
-- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
 - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
+- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
+- 3S 550 VA / 330 watts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082TGVTMG/?tag=tolees0d-21)

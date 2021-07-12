@@ -28,8 +28,8 @@ C'est en vente [Geox D Jaysen A  Baskets Femme  Blanc  White/Silver   37 EU](htt
 
 ℹ️:
 
-- Cuir Souple
 - Synthétique
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Cuir Souple
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GRYPLEC/?tag=tolees0d-21)
