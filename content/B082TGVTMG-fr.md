@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.40 % rabais sur Onduleur Eaton 3S 550 FR - Off-line UPS '
-date: 2021-06-21 07:54:16
+date: 2021-07-12 10:27:17
 image: 'https://m.media-amazon.com/images/I/41RRZyS7KWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Onduleur Eaton 3S 550 FR - Off-line UPS - 3S550F - 550VA  6 prises FR
 
 ℹ️:
 
-- Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
-- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
-- 6 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 3 prise protection contre les surtensions uniquement
 - 3S 550 VA / 330 watts
+- 6 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 3 prise protection contre les surtensions uniquement
 - UPS avec interface USB (câble USB et logiciel inclus)
+- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
+- Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082TGVTMG/?tag=tolees0d-21)
