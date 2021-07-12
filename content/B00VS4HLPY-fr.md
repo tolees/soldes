@@ -28,10 +28,10 @@ Vous avez [Reuzel - Pink Grease Heavy Hold Pomade - A base d huile et de cire d 
 
 ℹ️:
 
-- Cette formule avancée est sans végétalien.
-- Il hydrate et contrôle au maximum les cheveux les plus résistants.
 - Il se moule et conserve sa forme tout au long de la journée.
-- Une pommade à base dhuile qui vous aide à créer la coiffure de votre choix.
+- Il hydrate et contrôle au maximum les cheveux les plus résistants.
 - Il diffuse un agréable parfum de fruits et de fleurs fraîches.
+- Cette formule avancée est sans végétalien.
+- Une pommade à base dhuile qui vous aide à créer la coiffure de votre choix.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VS4HLPY/?tag=tolees0d-21)

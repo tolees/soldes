@@ -28,9 +28,9 @@ Vous avez [Remington Tondeuse Nez Oreilles Antibactérienne Hypoallergénique - 
 
 ℹ️:
 
-- Tête tondeuse à coupe verticale double face avec guide de coupe
 - Revêtement NanoSilver : antibactérien et hypoallergénique
 - Système Active Blade
+- Tête tondeuse à coupe verticale double face avec guide de coupe
 - Tête à coupe rotative
 - Technologie Comfort tip pour un confort optimal
 

@@ -28,8 +28,8 @@ Vous avez [HUAWEI Watch GT2 Pro - Smartwatch Night Black](https://www.amazon.fr/
 
 ℹ️:
 
-- Verre saphir dans un corps en titane
-- Jusquà deux semaines dautonomie
 - Plus de 100 modes sportifs
+- Jusquà deux semaines dautonomie
+- Verre saphir dans un corps en titane
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GPN5DM6/?tag=tolees0d-21)
