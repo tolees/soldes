@@ -28,10 +28,10 @@ Vous avez [Work Sharp - Worksharp WSS221 Affûteur de Couteaux et d outils](http
 
 ℹ️:
 
-- Affûtage manuel
-- Guides dangles incorporés
-- Affutage : Diamant, cuir, céramique
 - Affûteur compact conçu pour être utilisé sur le terrain
+- Guides dangles incorporés
+- Affûtage manuel
+- Affutage : Diamant, cuir, céramique
 - Cinq niveau daffutage
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FJUFHRW/?tag=tolees0d-21)
