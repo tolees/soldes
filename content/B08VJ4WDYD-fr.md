@@ -28,10 +28,10 @@ Vous avez [Pubioh RGB Tapis de Souris Gaming 12 Modes LED Lumineuse Extra Large 
 
 ℹ️:
 
+- 【12 Modes déClairage】 Super Glow Fiber - Léclairage personnalisable Chroma offre une apparence distinctive, choisissez parmi 12 modes déclairage: vert, bleu foncé, rose, rouge, bleu ciel, jaune, bleu froid, violet, orange, respirer, courir lentement, courir vite
 - 【Ce que vous obtiendrez】 Tapis de souris de jeu Pubioh 12 modes déclairage RVB, câble micro USB de 180cm, manuel dutilisation.
-- 【Surface Lisse & Base en Caoutchouc,Conçu pour les jeux】La surface est faite dun matériau ultra-fin en fibres tressées, offrant une surface ultra lisse et un positionnement précis de la souris. La base du tapis de souris est faite de caoutchouc doux et antidérapant qui peut tenir fermement le bureau, offre une stabilité supérieure sur le bureau, vous permettant de profiter de la précision ultime dans les jeux les plus passionnants.
 - 【Plug and Play】Ce tapis de souris rétro-éclairé est alimenté par USB et ne nécessite aucun pilote. Un seul bouton de commande permet de basculer facilement entre le mode rétro-éclairage. Convient à tous les types de souris.
 - 【Grande Taille & Facile à Transporter】Avec sa grande surface de 800x300 mm, le tapis de souris vous offre maintenant encore plus de possibilités de variation sans affecter lamplitude de mouvement de votre souris. Léger, facile à transporter et à plier, ce tapis de souris est parfait pour la maison, le bureau et les voyages.
-- 【12 Modes déClairage】 Super Glow Fiber - Léclairage personnalisable Chroma offre une apparence distinctive, choisissez parmi 12 modes déclairage: vert, bleu foncé, rose, rouge, bleu ciel, jaune, bleu froid, violet, orange, respirer, courir lentement, courir vite
+- 【Surface Lisse & Base en Caoutchouc,Conçu pour les jeux】La surface est faite dun matériau ultra-fin en fibres tressées, offrant une surface ultra lisse et un positionnement précis de la souris. La base du tapis de souris est faite de caoutchouc doux et antidérapant qui peut tenir fermement le bureau, offre une stabilité supérieure sur le bureau, vous permettant de profiter de la précision ultime dans les jeux les plus passionnants.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VJ4WDYD/?tag=tolees0d-21)
