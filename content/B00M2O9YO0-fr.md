@@ -29,9 +29,9 @@ Vous avez [CYBEX Silver Siège Auto Évolutif Pallas 2-Fix  Adapté aux Voitures
 ℹ️:
 
 - Siège auto pour enfant de haute qualité pour une grande durabilité - Pour les enfants âgés de 9 mois à 12 ans environ (9-36 kg), Adapté aux voitures avec ou sans ISOFIX
+- Sécurité maximale – bouclier d‘impact ajustable en profondeur, Appui-tête inclinable sur 3 positions breveté Cybex, Protections linéaires contre les impacts latéraux intégrée (Système L.S.P. plus)
 - Têtière confortable et ajustable en hauteur sur 11 positions, Fonction d’inclinaison à une main avec la base uniquement en groupe 1, Conversion facile en siège auto Solution X2-Fix pour les enfants à partir de 3 ans (groupe 2/3), Dossier avec inclinaison ajustable
 - Contenu : 1 Siège auto Pallas 2-Fix avec système ISOFIX Connect, Guides ISOFIX inclus, Matière de la housse : 100% polyester, Dimensions (LxlxH) : 43,5 x 55 x 71,5 cm, Poids : 11,2 kg, Couleur : Cobblestone
-- Sécurité maximale – bouclier d‘impact ajustable en profondeur, Appui-tête inclinable sur 3 positions breveté Cybex, Protections linéaires contre les impacts latéraux intégrée (Système L.S.P. plus)
 - Fixation facile dans la voiture avec la ceinture de sécurité du véhicule et avec l’ancrage ISOFIX rétractable pour une plus grande stabilité, Housse amovible et lavable en machine (30°C), Accessoires optionnels : housse dété
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00M2O9YO0/?tag=tolees0d-21)

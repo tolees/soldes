@@ -28,9 +28,9 @@ Vous avez [Jack & Jones Sense Trunks 3-Pack Boxer  Multicolore  Bourgogne   Medi
 
 ℹ️:
 
-- Triple pack
+- Stretch
 - Large ceinture
 - Set de Boxer shorts
-- Stretch
+- Triple pack
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HCYRG62/?tag=tolees0d-21)
