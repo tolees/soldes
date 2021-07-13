@@ -28,11 +28,11 @@ Vous avez [Calor FV5630C0 Fer à Repasser Vapeur Turbopro Anti-Calc Turbo Boost 
 
 ℹ️:
 
+- Mode Eco pour une meilleure économie dénergie
 - Fonction Automatic Steam ajuste le débit de vapeur en fonction du type de linge pour un repassage de haute précision, sans effort
+- Collecteur anti-calc exclusif qui récupère automatiquement le calcaire pour des performances durables
 - Semelle brevetée exclusive Gliss/Glide Protect Autoclean : autonettoyante pour une glisse préservée et une durée de vie allongée
 - Fonction Turbo Boost 200 g/min qui propulse la vapeur pour un résultat impeccable même sur les plis les plus récalcitrants
-- Mode Eco pour une meilleure économie dénergie
-- Collecteur anti-calc exclusif qui récupère automatiquement le calcaire pour des performances durables
 - Fabriqué en France
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFXYBJT/?tag=tolees0d-21)
