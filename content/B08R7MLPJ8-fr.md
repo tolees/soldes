@@ -28,9 +28,9 @@ Vous avez [adidas - Baseb Class Tre  Bonnet Unisexe - Adulte  Mixte  Bonnet  GN4
 
 ℹ️:
 
-- Le classique de sportswear fabriqué avec un tissu en coton confortable
 - Logo sur le devant
-- Sangle réglable
+- Le classique de sportswear fabriqué avec un tissu en coton confortable
 - Couleur : rose vapeur
+- Sangle réglable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08R7MLPJ8/?tag=tolees0d-21)
