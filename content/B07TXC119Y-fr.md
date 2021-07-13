@@ -28,9 +28,9 @@ C'est en vente [Amazfit BIPLITE Smartwatch Unisex-Adult  Black  Normal](https://
 
 ℹ️:
 
-- 3 ATM RÉSISTANT À LEAU: La montre est conçue pour mettre en ordre tous vos exercices sportifs, que ce soit sous la pluie ou au soleil. Il est certifié 3 ATM, ce qui correspond à une profondeur deau denviron 30 m
-- ENREGISTREMENT DES PISTES POUR LES EXERCICES SPORTIFS: La montre enregistre tous les jours les données des exercices sportifs tels que la course intérieure et extérieure, la randonnée et le vélo
-- DURÉE DE VIE DE LA BATTERIE JUSQUÀ 45 JOURS: Batterie puissante qui peut fournir jusquà 45 jours délectricité après une seule charge complète
 - LÉGER: même en le portant jour et nuit, vous oublierez quil est toujours à votre poignet
+- DURÉE DE VIE DE LA BATTERIE JUSQUÀ 45 JOURS: Batterie puissante qui peut fournir jusquà 45 jours délectricité après une seule charge complète
+- ENREGISTREMENT DES PISTES POUR LES EXERCICES SPORTIFS: La montre enregistre tous les jours les données des exercices sportifs tels que la course intérieure et extérieure, la randonnée et le vélo
+- 3 ATM RÉSISTANT À LEAU: La montre est conçue pour mettre en ordre tous vos exercices sportifs, que ce soit sous la pluie ou au soleil. Il est certifié 3 ATM, ce qui correspond à une profondeur deau denviron 30 m
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TXC119Y/?tag=tolees0d-21)
