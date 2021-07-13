@@ -28,10 +28,10 @@ C'est en vente [Funko - Pop! Star Wars The Rise of Skywalker: Jannah](https://ww
 
 ℹ️:
 
-- Les Funko Pop! Sont le jeux de lannée 2018
 - Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 7 rejoint la collection Funko Pop!
-- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
 - Jannah
+- Les Funko Pop! Sont le jeux de lannée 2018
+- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
 - Disney Star Wars
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QVTLK1J/?tag=tolees0d-21)

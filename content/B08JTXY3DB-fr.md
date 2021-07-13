@@ -29,9 +29,9 @@ C'est en vente [Corsair KATAR PRO WIRELESS Souris Gaming  Capteur Optique 10 000
 ℹ️:
 
 - Jouez des jours durant : Jusqu’à 135 heures d’autonomie de batterie avec une seule pile AA.
+- Capteur optique de 10 000 DPI : Un capteur optique PMW3325 de PixArt offre le suivi de haute précision dont vous avez besoin pour gagner.
 - Forme symétrique compacte : Adaptée à tous les styles de prise en main.
 - Jouez dans la plage idéal: Jouez avec la TECHNOLOGIE SLIPSTREAM CORSAIR WIRELESS ultrarapide et inférieure à 1 ms, ou connectez la souris à une multitude d’appareils via une connexion Bluetooth.
-- Capteur optique de 10 000 DPI : Un capteur optique PMW3325 de PixArt offre le suivi de haute précision dont vous avez besoin pour gagner.
 - Légère et agile : Avec seulement 96 g, la KATAR PRO WIRELESS est idéale pour des heures de gameplay FPS ou MOBA à un rythme effréné.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JTXY3DB/?tag=tolees0d-21)
