@@ -28,10 +28,10 @@ Vous avez [KÖNIG CK-7 100 - Chaînes à Neige  Set de 2](https://www.amazon.fr/
 
 ℹ️:
 
+- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - La chaîne à neige la plus fine au monde, encombrement de 7 mm garanti à lintérieur et sur la bande de roulement, idéal pour les voitures avec des problèmes despace entre la roue et le passage de roue. Les chaînes à neige Thule CK-7 sont souvent proposée
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Encombrement 7 mm.
-- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - 215/70-14, 195/80-15, 215/70-15, 225/65-15, 235/60-15, 215/60-16, 225/55-16, 235/50-16, 245/45-16, 215/50-17 (Kleber Krisalp), 215/55-17, 225/50-17, 235/45-17, 225/45-18, 235/40-18, 235/35-19
+- Encombrement 7 mm.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009NPLGP6/?tag=tolees0d-21)

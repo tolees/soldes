@@ -30,8 +30,8 @@ C'est en vente [RackMatic.com - Rack Serveur 19   9U 570x300x520mm Armoire Mural
 
 - Trous dans la plaque arrière pour la fixation de larmoire au mur.
 - Trous pour le passage des câbles, dans le panneau supérieur et inférieur. Ces trous sont destinés au passage des câbles.
-- Perçage pour un ventilateur de 12 cm dans le panneau supérieur (ventilateur non inclus).
 - Structure complète avec guides de rack avant et arrière de 19", réglables en profondeur pour sadapter à tous les besoins.
 - Porte avec verre de sécurité qui lui donne un design plus attrayant et une serrure à clé. Ouverture de la porte à 180 degrés.
+- Perçage pour un ventilateur de 12 cm dans le panneau supérieur (ventilateur non inclus).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00U31ET1M/?tag=tolees0d-21)

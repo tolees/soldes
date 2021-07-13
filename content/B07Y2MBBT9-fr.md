@@ -28,12 +28,12 @@ C'est en vente [Corsair CA-9011202-EU VOID ELITE RGB Wireless Casque de Gaming S
 
 ℹ️:
 
+- Conception robuste avec armature en aluminium : Permet de résister à des années de gamingSensibilité au microphone: -42dB (+/-3dB)
 - Microphone omnidirectionnel optimisé : Capte votre voix avec une haute clarté ; comprend une fonction sourdine flip-up ainsi qu’un voyant LED de sourdine intégré
 - Liberté du sans-fil : Portée pouvant atteindre 12 mètres et jusqu’à 16 heures d’autonomie ; n’interrompez jamais votre gaming grâce à la capacité de brancher
-- Conception robuste avec armature en aluminium : Permet de résister à des années de gamingSensibilité au microphone: -42dB (+/-3dB)
-- Un son époustouflant : Aux transducteurs audio haut de gamme en néodyme de 50 mm personnalisés avec une vaste gamme de fréquences allant de 20 Hz à 30 000 Hz
 - Son surround 71 immersif : Crée une expérience audio multicanale sur l’ordinateur qui vous place au coeur de l’action
-- Confort durable : Les coussinets en maille microfibre respirante et en mousse à mémoire de forme garantissent un confort durable, même pendant de longues sessions de gaming
 - Sans-fil 2,4 GHz à faible latence : Connectez-vous sans fil à votre PC ou PS4 via l’adaptateur USB inclus ; son surround 71 uniquement disponible sur PC
+- Un son époustouflant : Aux transducteurs audio haut de gamme en néodyme de 50 mm personnalisés avec une vaste gamme de fréquences allant de 20 Hz à 30 000 Hz
+- Confort durable : Les coussinets en maille microfibre respirante et en mousse à mémoire de forme garantissent un confort durable, même pendant de longues sessions de gaming
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y2MBBT9/?tag=tolees0d-21)
