@@ -28,15 +28,15 @@ C'est en vente [Calor Express Essential Centrale Vapeur  5 2 bars  Débit vapeur
 
 ℹ️:
 
-- PLUS DAUTONOMIE : réservoir d’eau fixe de 1,4 L pour un remplissage rapide et des séances de repassage en toute simplicité
-- GLISSE PARFAITE : Semelle en céramique "Xpress Glide" pour une glisse exceptionnelle et des sessions de repassage plus faciles et plus agréables
 - GAIN DE TEMPS : réduit votre temps de repassage de 30 %* ; * par rapport à un fer à repasser classique
-- DESIGN COMPACT : le format compact facilite le défroissage, l’appareil utilise moins d’espace qu’une feuille A4
+- PLUS DAUTONOMIE : réservoir d’eau fixe de 1,4 L pour un remplissage rapide et des séances de repassage en toute simplicité
 - CENTRALE VAPEUR AVEC SYSTEME ANTI-CALCAIRE : la technologie Calc Clear garantit des performances vapeur longue durée et un entretien efficace
-- TEMPS DE CHAUFFAGE RAPIDE : la centrale vapeur chauffe en 2 minutes pour un repassage sans perdre un instant
+- POLYVALENCE : pour des séances de défroissage vertical ou de repassage
+- Réparabilité 10 ans, Garantie 2 ans
+- DESIGN COMPACT : le format compact facilite le défroissage, l’appareil utilise moins d’espace qu’une feuille A4
 - REPASSAGE EFFICACE POUR DES RÉSULTATS EXCEPTIONNELS : centrale vapeur avec 5.2 bars et un débit de vapeur continu de 120 g/min assurent un repassage rapide de tous les tissus. La fonction pressing puissante de 280 g/min vient à bout des plis les plus tenaces
 - MODE ÉCO : ce mode réduit la consommation d’énergie sans compromettre la rapidité du repassage
-- Réparabilité 10 ans, Garantie 2 ans
-- POLYVALENCE : pour des séances de défroissage vertical ou de repassage
+- TEMPS DE CHAUFFAGE RAPIDE : la centrale vapeur chauffe en 2 minutes pour un repassage sans perdre un instant
+- GLISSE PARFAITE : Semelle en céramique "Xpress Glide" pour une glisse exceptionnelle et des sessions de repassage plus faciles et plus agréables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DYH3BJK/?tag=tolees0d-21)
