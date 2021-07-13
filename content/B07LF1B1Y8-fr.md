@@ -28,9 +28,9 @@ Vous avez [Corsair LL120  LL Series  120mm Dual Light Loop RGB LED  PWM  à flux
 
 ℹ️:
 
+- Boîtier blanc éclatant: Réfléchit la lumière pour amplifier léclairage tout en complétant élégamment le design clair et épuré des autres composants CORSAIR blancs
 - Deux boucles lumineuses RGB: Les 16 LED RGB configurables individuellement sont réparties sur deux boucles lumineuses dans chaque ventilateur pour des combinaisons deffets quasi infinies. Débit dair du ventilateur: 63 CFM
 - Conçu pour optimiser les performances: Pales de 120 mm conçues pour optimiser le flux dair et la pression statique
-- Boîtier blanc éclatant: Réfléchit la lumière pour amplifier léclairage tout en complétant élégamment le design clair et épuré des autres composants CORSAIR blancs
 - Contrôle intelligent, possibilités infinies: Créez des jeux et effets de lumière saisissants grce au module Lighting Node PRO inclus. Utilisez le logiciel optimisé CORSAIR iCUE pour donner vie à votre système grce à un éclairage RGB dynamique et synchronisé avec l’ensemble de vos produits compatibles iCUE
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LF1B1Y8/?tag=tolees0d-21)

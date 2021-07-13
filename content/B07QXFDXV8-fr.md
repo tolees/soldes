@@ -28,11 +28,11 @@ Vous avez [ESSENTIEL Masque Keratin Nutrition 1 ml](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Restructure et lisse la cuticule
-- Répare la fibre capillaire
-- Made in France
-- Masque nourrissant pour cheveux secs
-- Apporte de la douceur aux cheveux
 - Poids du colis: 0.22 kilogrammes
+- Restructure et lisse la cuticule
+- Masque nourrissant pour cheveux secs
+- Made in France
+- Répare la fibre capillaire
+- Apporte de la douceur aux cheveux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QXFDXV8/?tag=tolees0d-21)

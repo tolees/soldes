@@ -28,10 +28,10 @@ C'est en vente [FACOM DL.C6 Paire de Chandelles  Multicolore  6T  Set de 2 Pièc
 
 ℹ️:
 
-- Construction fiable et robuste
-- 11 positions de réglage 400mm-620mm
-- Chandelles à crémaillère et blocage par goupille de sécurité
 - Goupille imperdable grâce à une chaînette
+- 11 positions de réglage 400mm-620mm
+- Construction fiable et robuste
 - Base 4 pieds avec plaques soudées pour une meilleure stabilité et rigidité
+- Chandelles à crémaillère et blocage par goupille de sécurité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071F6Q7VR/?tag=tolees0d-21)

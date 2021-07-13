@@ -28,9 +28,9 @@ Vous avez [Vans Old Skool Platform  Baskets Femme  Noir  Black/White Y28   38 EU
 
 ℹ️:
 
-- Creepers présentant les caractéristiques suivantes:
-- Marchandises fun et de fans
 - Vos nouveaux produits EMP favoris!
+- Creepers présentant les caractéristiques suivantes:
 - Baskets || Matière longue durée || Hauteur de talon: /
+- Marchandises fun et de fans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2T92AE/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [Osram Lampe LED Base Classic B  en forme de bougie avec douille 
 ℹ️:
 
 - Lumière Blanc froid idéale pour améliorer la concentration et optimiser les performances visuelles dans la cuisine, la salle de bain et le bureau
+- Allumage instantané, pas de temps de préchauffage
 - Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Résistant aux chocs et aux vibrations grâce à la technologie LED.
-- Allumage instantané, pas de temps de préchauffage
 - Domaines dapplication: applications domestiques, éclairage général. Utilisation en extérieur, uniquement dans des luminaires appropriés.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073DBLP5B/?tag=tolees0d-21)

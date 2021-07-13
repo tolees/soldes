@@ -28,11 +28,11 @@ Vous avez [Scotch - Masque complet confort réutilisable 3M™ 6000  Certifié E
 
 ℹ️:
 
+- Taille medium
 - La légèreté de ce masque complet réutilisable assure confort et simplicité dutilisation
 - EN136 CERTIFIÉ: Testé et certifié selon les normes européennes
 - Légèreté, design équilibré avec un joint facial en silicone pour un plus grand confort et durabilité
 - Oculaire panoramique pour un large champ visuel et une excellente vision
-- Taille medium
 - Ladaptateur central unique qui dirige lair expiré et lhumidité vers le bas aide à réduire le dépôt de débris dans la valve, et permet un nettoyage facile et rapide
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FYNN6NQ/?tag=tolees0d-21)

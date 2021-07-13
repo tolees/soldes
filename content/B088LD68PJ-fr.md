@@ -29,7 +29,7 @@ Vous avez [NIS - void tRrLM  ; //Void Terrarium](https://www.amazon.fr/dp/B088LD
 ℹ️:
 
 - Status apparatus & set de pins « a.I love you »
-- Porte-clés lenticulaire animé "tori-gatchi" & poster « hand-plucked hope »
 - Boîte collector & bande-son « sporific sounds » sur cd
+- Porte-clés lenticulaire animé "tori-gatchi" & poster « hand-plucked hope »
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088LD68PJ/?tag=tolees0d-21)
