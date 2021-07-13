@@ -28,10 +28,10 @@ Vous avez [Offgridtec MPPT Pro Duo Régulateur de charge 30 A 12 V 24 V pour deu
 
 ℹ️:
 
+- Régulateur de charge Dual Duo 2 - Batterie de démarrage - Charge de compensation MPPT maximum Power Point Tracking - Batterie de bord LiFePo4 - Type de batterie : indicateur Votronic - Sortie de charge secondaire - Système solaire de camping - Panneau sol
 - Courant de charge maximal jusquà 30 A et donc adapté pour les systèmes plus grands, aussi bien pour 12 V que 24 V – Plage de tension de fonctionnement MPP pour améliorer la charge du module PV – Possibilité de limiter la puissance de charge par lutilisa
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Régulateur de charge Dual Duo 2 - Batterie de démarrage - Charge de compensation MPPT maximum Power Point Tracking - Batterie de bord LiFePo4 - Type de batterie : indicateur Votronic - Sortie de charge secondaire - Système solaire de camping - Panneau sol
 - Régulateur solaire haut de gamme spécialement conçu pour une utilisation dans les camping-cars avec sortie de charge secondaire pour maintenir la charge de la batterie de démarrage --- Affichage à distance optionnel avec câble de raccordement de 5 m – Com
+- 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CTCQFZY/?tag=tolees0d-21)
