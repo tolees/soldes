@@ -28,10 +28,10 @@ Vous avez [ECONLUX - Econ Lux ELEKTR. SolarRaptor Ballast pour Lampes 35 W HID 
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Set complet avec fiche Schuko
 - Ballast électronique pour lampes SolarRaptor HID
 - 12 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Ballast électronique pour lampes SolarRaptor HID Set complet avec fiche Schuko Connexion à une douille E27 Bague de contact appropriée à laide du verpolungssicheren fiche facile dutilisation et installation dans le terrarium faible dégagement de chaleur
+- Set complet avec fiche Schuko
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0054JVAJ2/?tag=tolees0d-21)

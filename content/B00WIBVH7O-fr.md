@@ -28,10 +28,10 @@ C'est en vente [GROHE Mitigeur monocommande Bain / Douche Eurosmart 33303002](ht
 
 ℹ️:
 
-- Inverseur automatique pour 2 sorties - 1 sortie 1/2"
-- Montage sur gorge - Levier de commande métallique
 - Saillie (en mm) : 172
-- GROHE SilkMove Cartouche en céramique 35mm avec butée éco 1/2 débit avec limiteur de température - GROHE StarLight Chrome éclatant et durable
+- Montage sur gorge - Levier de commande métallique
+- Inverseur automatique pour 2 sorties - 1 sortie 1/2"
 - Clapet anti-retour intégré - Raccords colonnettes
+- GROHE SilkMove Cartouche en céramique 35mm avec butée éco 1/2 débit avec limiteur de température - GROHE StarLight Chrome éclatant et durable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00WIBVH7O/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [CASCHA Ukulélé Soprano  table d harmonie en épicéa massif  S
 
 ℹ️:
 
-- Cordes en nylon de haute qualité : lukulélé daspect naturel est confectionné à lusine avec des cordes en nylgut Aquila originales qui ont un son clair et une grande facilité de jeu. Pour jouer en samusant !
-- Premier choix : le ukulélé Soprano CASCHA est le premier choix pour les fans de ukulélé et de grande qualité et dexcellente qualité sonore!
-- Excellentes caractéristiques sonores : la table dharmonie en épicéa massif offre un son complet et une résonance puissante. Les mécanismes daccord précis et encapsulés maintiennent toujours lukulélé Soprano au diapason.
 - Pour débutants & joueurs avancés : le kit ukulélé est complet. Avec ukulélé, sac de concert et 3 plectres. Tous peuvent apprendre à jouer du ukulélé rapidement et facilement.
 - Très bonne fabrication : le ukulélé Soprano convainc dès le début par sa qualité de fabrication. La table est en épicéa massif. Le beau grain régulier du bois de linstrument attire lattention.
+- Excellentes caractéristiques sonores : la table dharmonie en épicéa massif offre un son complet et une résonance puissante. Les mécanismes daccord précis et encapsulés maintiennent toujours lukulélé Soprano au diapason.
+- Cordes en nylon de haute qualité : lukulélé daspect naturel est confectionné à lusine avec des cordes en nylgut Aquila originales qui ont un son clair et une grande facilité de jeu. Pour jouer en samusant !
+- Premier choix : le ukulélé Soprano CASCHA est le premier choix pour les fans de ukulélé et de grande qualité et dexcellente qualité sonore!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PJLBBC5/?tag=tolees0d-21)

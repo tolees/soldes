@@ -29,10 +29,10 @@ Vous avez [New Balance 500 Core  Baskets Homme  Black  42.5 EU](https://www.amaz
 ℹ️:
 
 - Semelle extérieure : caoutchouc
-- Tige : synthétique/textile
+- Doublure : textile
+- Type de tissu : daim
 - Logo N sur le côté
 - Fermeture : lacets
-- Type de tissu : daim
-- Doublure : textile
+- Tige : synthétique/textile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077QNL5G8/?tag=tolees0d-21)
