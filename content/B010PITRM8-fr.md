@@ -28,10 +28,10 @@ Vous avez [Casio Montres bracelet STL-S300H-1BEF](https://www.amazon.fr/dp/B010P
 
 ℹ️:
 
+- Diamètre du cadran : 36 millimètres
 - Épaisseur du boîtier : 11 millimètres
 - Montre pour Femme à mouvement Quartz - Bracelet en Résine Noir
-- Montre, Boîte de présentation, Coussin, Garantie
 - Type daffichage : Digital
-- Diamètre du cadran : 36 millimètres
+- Montre, Boîte de présentation, Coussin, Garantie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010PITRM8/?tag=tolees0d-21)

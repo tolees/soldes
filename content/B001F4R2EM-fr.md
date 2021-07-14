@@ -28,9 +28,9 @@ Vous avez [HP 504A Toner Jaune Authentique  CE252A ](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Technologie dimpression : laser
 - Technologies de résolution dimpression: Intelligent
 - Rendement : 7000
+- Technologie dimpression : laser
 - Couleur : jaune
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001F4R2EM/?tag=tolees0d-21)
