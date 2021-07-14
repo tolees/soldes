@@ -28,8 +28,8 @@ C'est en vente [Tommy Hilfiger SF Medium Drawstring Slips de Bain  Rouge Primair
 
 ℹ️:
 
-- Ce produit a été fabriqué de manière durable avec des matériaux durables
 - Il sagit dun produit Calvin Klein authentique et original.
+- Ce produit a été fabriqué de manière durable avec des matériaux durables
 - Pour plus dinformations sur Calvin Klein, consultez la section description du produit ci-dessous.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CGBKN3Z/?tag=tolees0d-21)
