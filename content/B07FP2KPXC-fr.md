@@ -29,10 +29,10 @@ Vous avez [LEGO 75890 Speed Champions Ferrari F40 Competizione  Set de Constr
 ℹ️:
 
 - La voiture Ferrari F40 Competizione prête pour la course comprend un cockpit pour figurine avec un pare-brise amovible, des roues avec des pneus de course en caoutchouc, des éléments de style lumineux translucides, des couleurs de course, des détails de design réalistes et des capots et des ailerons arrière interchangeables.
-- Inclut une figurine de pilote de course Ferrari.
+- Le pare brise senlève pour placer la figurine dans la voiture.
+- La voiture Ferrari F40 Competizione mesure plus de 4 cm de haut, 13 cm de long et 5 cm de large.
 - Le capot et laileron se change pour transformer la F40 Competizione en voiture de route Ferrari F40 classique.
 - Inclut aussi le casque du pilote de course Ferrari.
-- La voiture Ferrari F40 Competizione mesure plus de 4 cm de haut, 13 cm de long et 5 cm de large.
-- Le pare brise senlève pour placer la figurine dans la voiture.
+- Inclut une figurine de pilote de course Ferrari.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPXC/?tag=tolees0d-21)

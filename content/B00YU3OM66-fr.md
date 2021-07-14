@@ -29,7 +29,7 @@ Vous avez [Tefal XD6060F0 Filtre Charbon Actif](https://www.amazon.fr/dp/B00YU3O
 ℹ️:
 
 - Dimensions du produit (l x l x h) : 41,6 x 18,6 x 2,2 cm
-- Poids du produit :0.34 kilogrammes
 - Conçu pour le purificateur dair : Intense Pure Air
+- Poids du produit :0.34 kilogrammes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YU3OM66/?tag=tolees0d-21)
