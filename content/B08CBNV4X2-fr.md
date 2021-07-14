@@ -28,8 +28,8 @@ Vous avez [Tommy Hilfiger Essential CTTN Tee S/S Chemise  Bleu Givre  74 cm Fill
 
 ℹ️:
 
-- Pour plus dinformations sur Tommy Hilfiger, consultez la section description du produit ci-dessous.
-- Cest un produit authentique et original de Tommy Hilfiger.
 - Ce produit a été fabriqué de manière durable avec des matériaux durables
+- Cest un produit authentique et original de Tommy Hilfiger.
+- Pour plus dinformations sur Tommy Hilfiger, consultez la section description du produit ci-dessous.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CBNV4X2/?tag=tolees0d-21)

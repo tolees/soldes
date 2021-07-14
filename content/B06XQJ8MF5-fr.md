@@ -28,10 +28,10 @@ C'est en vente [Diesel Montre Homme DZ1819](https://www.amazon.fr/dp/B06XQJ8MF5/
 
 ℹ️:
 
+- Boîtier de 45 mm, largeur de bracelet de 24 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à trois aiguilles et date
 - Boîtier rond noir en polycarbonate, cadran noir
 - Étanchéité jusqu’à 100 m : peut être portée pour la baignade, la natation ou la plongée en apnée et la plongée en eaux peu profondes
 - Bracelet en silicone noir
 - Produit emballé dans un coffret cadeau Diesel
-- Boîtier de 45 mm, largeur de bracelet de 24 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à trois aiguilles et date
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XQJ8MF5/?tag=tolees0d-21)

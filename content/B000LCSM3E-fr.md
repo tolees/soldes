@@ -28,10 +28,10 @@ C'est en vente [Montre Homme Casio Collection W-96H-1AVES](https://www.amazon.fr
 
 ℹ️:
 
-- Une fois programmé, le calendrier automatique affiche toujours la date correcte
-- Le cadran de la montre est éclairé par une diode électroluminescente
-- Vous pouvez afficher lheure au format 12 heures ou 24 heures
 - Une alarme sonore vous rappelle quotidiennement vos échéances à lheure programmée
 - Bracelet en résine
+- Le cadran de la montre est éclairé par une diode électroluminescente
+- Vous pouvez afficher lheure au format 12 heures ou 24 heures
+- Une fois programmé, le calendrier automatique affiche toujours la date correcte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000LCSM3E/?tag=tolees0d-21)
