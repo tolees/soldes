@@ -28,12 +28,12 @@ C'est en vente [Janod - Maxi Cube Multi-Activités Looping - Jouet d Éveil en B
 
 ℹ️:
 
-- Idéal pour les enfants de 18 mois à 3 ans
-- Dexterite et motricité fine : Chaque face du cube comprend sa propre activité pour favoriser les premières manipulations et ainsi améliorer la motricité et la coordination mail-oeil de lenfant : un engrenage de 3 roues avec son miroir et sa petite chenille, un labyrinthe, 5 pièces à encastrer, un grand looping 3 fils, et une face sonore avec un moulin rempli doeufs
-- Pratique et malin : la face "looping" se retourne, permettant de gagner de la place pour un rangement facile
-- Un grand choix pour séveiller : Ce grand cube déveil en bois au couleurs printanières, comprend de multiples activités sera parfait pour stimuler tous les sens des tout-petits et favoriser leurs tout premiers apprentissages… idéal pour des heures de jeu et de découvertes
 - Grandes dimensions : Longueur 32,5 cm x Largeur 33,2 cm x Hauteur 50,3 cm / Poids Produit : 4,08 k
 - Matériau(x) utilisé(s) : bois (MDF, contreplaqué, métal)
+- Un grand choix pour séveiller : Ce grand cube déveil en bois au couleurs printanières, comprend de multiples activités sera parfait pour stimuler tous les sens des tout-petits et favoriser leurs tout premiers apprentissages… idéal pour des heures de jeu et de découvertes
 - Design réalisé en France
+- Dexterite et motricité fine : Chaque face du cube comprend sa propre activité pour favoriser les premières manipulations et ainsi améliorer la motricité et la coordination mail-oeil de lenfant : un engrenage de 3 roues avec son miroir et sa petite chenille, un labyrinthe, 5 pièces à encastrer, un grand looping 3 fils, et une face sonore avec un moulin rempli doeufs
+- Pratique et malin : la face "looping" se retourne, permettant de gagner de la place pour un rangement facile
+- Idéal pour les enfants de 18 mois à 3 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CKGF9J9/?tag=tolees0d-21)
