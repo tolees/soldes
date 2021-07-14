@@ -30,13 +30,13 @@ Vous avez [LEGO 76384 Harry Potter Poudlard : Le Cours de botanique  Livre
 
 - LEGO Harry Potter Poudlard : le cours de botanique (76384) est un livre en briques qui s’ouvre et se déplie pour révéler la serre de Poudlard où a lieu un cours de botanique.
 - Les enfants soulèvent la couverture pour assister au cours de botanique du professeur Chourave. Le set contient du matériel de jardinage et des plantes enchantées pour pratiquer et des panneaux pour indiquer la présence du monstrueux mandragore !
-- Tous les sets LEGO Harry Potter regorgent de personnages, fonctionnalités et lieux des films de la saga magique pour enchanter et inspirer un jeu imaginatif sans fin.
-- Les sets LEGO sont soumis à des tests rigoureux pour sassurer quils sont conformes aux normes de sécurité les plus élevées au monde.
-- Pour les enfants de 8 ans et plus. Un formidable cadeau pour les jeunes sorciers et sorcières qui souhaitent profiter différemment de la magie et du jeu dans lunivers de Harry Potter.
+- Il existe dautres sets de la même série à collectionner. Conçus pour recréer différents cours de magie, ils peuvent être assemblés pour produire une expérience de jeu à 360° de Poudlard.
 - Inclut les figurines de Cedric Diggory, Neville Londubat et du professeur Chourave, un livre de sortilèges, un jardin de citrouilles, un point deau pour larrosage avec un seau et un robinet doré ainsi quun arrière-plan de serre.
-- Ce set magique de Poudlard mesure plus de 12 cm de haut, 8 cm de large et 4 cm de profondeur, des dimensions parfaites pour que les enfants puissent jouer avec et l’emporter partout avec eux ou pour être exposé dans une bibliothèque.
 - Contient des accessoires réalistes, tels qu’une pelle argentée et des ciseaux d’élagage, ainsi qu’un décor de serre qui évoqueront aux enfants des souvenirs de scènes culte des films Harry Potter.
 - Les éléments LEGO sont conformes aux normes industrielles les plus strictes ; ils sont compatibles entre eux, sassemblent et se séparent facilement, et cela depuis 1958.
-- Il existe dautres sets de la même série à collectionner. Conçus pour recréer différents cours de magie, ils peuvent être assemblés pour produire une expérience de jeu à 360° de Poudlard.
+- Ce set magique de Poudlard mesure plus de 12 cm de haut, 8 cm de large et 4 cm de profondeur, des dimensions parfaites pour que les enfants puissent jouer avec et l’emporter partout avec eux ou pour être exposé dans une bibliothèque.
+- Les sets LEGO sont soumis à des tests rigoureux pour sassurer quils sont conformes aux normes de sécurité les plus élevées au monde.
+- Tous les sets LEGO Harry Potter regorgent de personnages, fonctionnalités et lieux des films de la saga magique pour enchanter et inspirer un jeu imaginatif sans fin.
+- Pour les enfants de 8 ans et plus. Un formidable cadeau pour les jeunes sorciers et sorcières qui souhaitent profiter différemment de la magie et du jeu dans lunivers de Harry Potter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4KSBXK/?tag=tolees0d-21)

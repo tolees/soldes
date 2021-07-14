@@ -28,7 +28,7 @@ Vous avez [New Balance 500 Core  Baskets Homme  Black  44 EU](https://www.amazon
 
 ℹ️:
 
-- Matériau extérieur : synthétique
 - Type de tissu : daim
+- Matériau extérieur : synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0784GWNCJ/?tag=tolees0d-21)
