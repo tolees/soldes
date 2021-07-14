@@ -28,11 +28,11 @@ C'est en vente [Logitech G512 Clavier Gaming Mécanique  Eclairage RVB LIGHTSYNC
 
 ℹ️:
 
-- LIGHTSYNC RVB : le clavier mécanique RVB Logitech est doté dun éclairage couleur personnalisable et d’effets déclairage LIGHTSYNC piloté par le jeu pour tous les gamers
-- Dispositif de Relais USB : le câble USB dédié supplémentaire connecte le port de relais USB pour une puissance de débit et une vitesse de transmission des données optimales
 - Le n° 1 mondial des périphériques gaming : daprès des données de ventes agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
-- SWITCHS MÉCANIQUES : les switchs GX Brown sont des switchs mécaniques classiques offrant une activation discernable aux joueurs qui préfèrent un retour tactile direct. Ce clavier est également disponible en versions Linéaire et Clicky, vendues séparément
 - Touches de Fonction Complètes : utilisez la touche FN pour contrôler le volume, lire et mettre en pause, couper le son, changer le mode de jeu, contrôler les effets déclairage
 - Alliage en Aluminium de Qualité Aéronautique : le clavier filaire G512 est conçu à partir dun alliage en aluminium 5052 et magnésium ultra solide et durable offrant un design épuré et élégant
+- LIGHTSYNC RVB : le clavier mécanique RVB Logitech est doté dun éclairage couleur personnalisable et d’effets déclairage LIGHTSYNC piloté par le jeu pour tous les gamers
+- SWITCHS MÉCANIQUES : les switchs GX Brown sont des switchs mécaniques classiques offrant une activation discernable aux joueurs qui préfèrent un retour tactile direct. Ce clavier est également disponible en versions Linéaire et Clicky, vendues séparément
+- Dispositif de Relais USB : le câble USB dédié supplémentaire connecte le port de relais USB pour une puissance de débit et une vitesse de transmission des données optimales
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5JKKX9/?tag=tolees0d-21)
