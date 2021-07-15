@@ -28,8 +28,8 @@ Vous avez [BaBylissMEN Tondeuse cheveux Precision Cut Rechargeable E786E](https:
 
 ℹ️:
 
-- Hauteurs de coupe de 0,5 à 24 mm
 - Lames en acier inoxydable de haute qualité pour un meilleur résultat et une plus grande précision
+- Hauteurs de coupe de 0,5 à 24 mm
 - Contrôle facile de la hauteur de la lame
 - Jusquà 60 minutes dutilisation sans fil
 - Tondeuse cheveux légère et sans fil

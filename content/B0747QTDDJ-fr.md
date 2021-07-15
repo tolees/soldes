@@ -28,8 +28,8 @@ C'est en vente [Blaupunkt BLP3100.191 Enceinte LED Nomade Or](https://www.amazon
 
 ℹ️:
 
-- Temps de charge: 2 heures; Formats audio supportés : MP3, WAV; Emplacement pour micro carte mémoire
 - Plage de fréquence: 150Hz-20KHz;Autonomie d’utilisation jusqu’à 2 heures; Autonomie en veille jusqu’à 12 heures
 - Consommation max : 5W; Batterie 400mAh; Version Bluetooth compatible : 3.0Distance Bluetooth jusqu’à 10m;Puissance sonore : 5W
+- Temps de charge: 2 heures; Formats audio supportés : MP3, WAV; Emplacement pour micro carte mémoire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0747QTDDJ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [BLACK+DECKER BXJB800E - Blender mixeur 800W  bol en verre de 1.5
 
 ℹ️:
 
-- FACILE DENTRETIEN : Lames amovibles pour un nettoyage facile et rapide sous leau. La bol en verre peut être insérée dans le lave-vaisselle
-- HAUTE PERFORMANCE : Bol en verre résistant de 1,5 litre gradué jusquà 50 ml. De plus, avec 4 lames en acier inoxydable, vous pouvez couper la glace et préparer des cocktails et des granités rafraîchissants
 - TOUTES VOS RECETTES EN 2 VITESSES : Préparez vos smoothies, crèmes et smoothies préférés, toujours avec la consistance et la texture idéale, avec les 2 vitesses sélectionnables
 - ERGONOMIQUE : Placez le bol facilement dans la base et profitez dun design complètement ergonomique qui sadapte facilement à votre main. De plus, vous pouvez introduire les aliments de la manière la plus confortable dans louverture située dans la partie supérieure du couvercle, en retirant la tasse à mesurer et sans devoir ouvrir le couvercle du pot. Comprend un bec pour faciliter le vidage
+- HAUTE PERFORMANCE : Bol en verre résistant de 1,5 litre gradué jusquà 50 ml. De plus, avec 4 lames en acier inoxydable, vous pouvez couper la glace et préparer des cocktails et des granités rafraîchissants
 - PUISSANT : Utilisez la fonction Pulse pour obtenir les mélanges des plus fins et les plus homogènes et des plus onctueux. De plus, vous pouvez facilement nettoyer le pot pour continuer à préparer de délicieux smoothies, en ajoutant un peu deau et en sélectionnant loption Pulse
+- FACILE DENTRETIEN : Lames amovibles pour un nettoyage facile et rapide sous leau. La bol en verre peut être insérée dans le lave-vaisselle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07J5V5VCF/?tag=tolees0d-21)

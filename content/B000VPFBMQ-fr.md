@@ -28,16 +28,16 @@ Vous avez [Sebago Docksides Portland Chaussures Bateau  Homme  Noir  Total Black
 
 ℹ️:
 
-- Fermeture : lacets
-- Type de talons : plat
-- Dessus : cuir
-- Type de talons : plat
 - Doublure : cuir
-- Semelle intérieure : cuir
+- Matériau de semelle : caoutchouc
+- Type de talons : plat
+- Taille : pointure normale
+- Doublure : cuir
+- Dessus : cuir
 - Dessus : autre cuir
 - Matériau de semelle : caoutchouc
-- Doublure : cuir
-- Taille : pointure normale
-- Matériau de semelle : caoutchouc
+- Fermeture : lacets
+- Semelle intérieure : cuir
+- Type de talons : plat
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000VPFBMQ/?tag=tolees0d-21)

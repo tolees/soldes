@@ -29,9 +29,9 @@ Vous avez [Eastpak Jr Sac Bandoulière  33 cm  11.5 L  Gris  Black Denim ](https
 ℹ️:
 
 - Hauteur : 24 cm, largeur : 33 cm, profondeur : 11 cm
-- Poche intérieure zippée pour ranger vos petites affaires
-- Transport facile grâce à la sangle dépaule ajustable et amovible
 - Grand compartiment principal avec deux poches obliques sous le rabat
+- Poche intérieure zippée pour ranger vos petites affaires
 - Fabriqué dans un mélange 60% nylon 40% polyester
+- Transport facile grâce à la sangle dépaule ajustable et amovible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MGOMCS6/?tag=tolees0d-21)

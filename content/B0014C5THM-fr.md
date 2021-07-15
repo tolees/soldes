@@ -28,7 +28,7 @@ C'est en vente [Crocs Classic U  Sabots Mixte Adulte  Marron  Khaki   41/42 EU](
 
 ℹ️:
 
-- Doublure : synthétique
 - Dessus: Caoutchouc
+- Doublure : synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0014C5THM/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Unlock! Star Wars - - Asmodee - Jeu de société - Escape game -
 
 ℹ️:
 
+- Unlock! est un jeu de cartes coopératif inspiré des escape rooms, ces salles où vous devez vous échappez en moins de 60 minutes ! Lapplication gratuite Unlock!, compatible avec les téléphones et tablettes Android et iOS, est nécessaire pour jouer. Elle permet dobtenir des indices, de repérer des objets cachés, mais aussi dentrer les codes découverts. Elle contribue également à lambiance avec ses musiques dédiées à chaque aventure, ses énigmes audio, ses terribles pénalités et son compte à rebours fatal ! Unlock ! vous permet de vivre cette expérience dans votre salon !
 - Réussirez-vous à résoudre les énigmes pour vous échapper ?
 - Un Escape Game qui contre-attaque !
 - Plongez dans lunivers de Star Wars avec ce nouvel opus dUnlock !
-- Unlock! est un jeu de cartes coopératif inspiré des escape rooms, ces salles où vous devez vous échappez en moins de 60 minutes ! Lapplication gratuite Unlock!, compatible avec les téléphones et tablettes Android et iOS, est nécessaire pour jouer. Elle permet dobtenir des indices, de repérer des objets cachés, mais aussi dentrer les codes découverts. Elle contribue également à lambiance avec ses musiques dédiées à chaque aventure, ses énigmes audio, ses terribles pénalités et son compte à rebours fatal ! Unlock ! vous permet de vivre cette expérience dans votre salon !
 - Unlock! Star Wars, cest 3 aventures inédites pleines de vaisseaux, de droïdes et d’action dans lunivers culte de Star wars !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CH98T5M/?tag=tolees0d-21)

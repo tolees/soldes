@@ -28,8 +28,8 @@ C'est en vente [Just-Stationery - Papier-bulle 4 m x 300 mm Teaching Arts](https
 
 ℹ️:
 
+- Dimensions (par rouleau) : 4 m x 300 mm.
 - Un emballage sans danger.
 - Amusez-vous à éclater les bulles.
-- Dimensions (par rouleau) : 4 m x 300 mm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0052X7WQU/?tag=tolees0d-21)
