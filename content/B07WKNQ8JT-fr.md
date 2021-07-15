@@ -28,14 +28,14 @@ Vous avez [Nintendo Switch avec paire de Joy-Con Rouge Néon et Bleu Néon](http
 
 ℹ️:
 
-- 1 support Joy-Con
-- 1 console avec 1 manette Joy-con droite rouge néon et 1 manette Joy-con gauche bleu néon
-- 2 dragonnes Joy-con
-- Autonomie: varie en fonction des conditions dutilisation, de 3 heures (pour un jeu comme The Legend of Zelda : Breath of the Wild) à plus de 6 heures
-- Console Nintendo Switch Neon
 - 1 câble HDMI
 - La boite est composée de :
 - 1 station daccueil Nintendo Switch
+- 2 dragonnes Joy-con
 - 1 adaptateur secteur Nintendo Switch (EU)
+- 1 console avec 1 manette Joy-con droite rouge néon et 1 manette Joy-con gauche bleu néon
+- Autonomie: varie en fonction des conditions dutilisation, de 3 heures (pour un jeu comme The Legend of Zelda : Breath of the Wild) à plus de 6 heures
+- Console Nintendo Switch Neon
+- 1 support Joy-Con
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WKNQ8JT/?tag=tolees0d-21)

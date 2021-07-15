@@ -28,10 +28,10 @@ C'est en vente [Under Armour Tech Graphic Short - Homme - Gris  Steel/Black  035
 
 ℹ️:
 
+- Matériau et coupe – Under Armour Hommes UA Tech Short avec logo, jogging court en tissu Tech, coupe : loose, matériau : 100 % polyester
+- Matériau innovant – Le tissu unique utilisé pour la fabrication du jogging court évacue la transpiration Ainsi, le jogging sèche très vite
 - Détails pratiques – Le short de sport dispose de poches latérales pratiques en mesh et la ceinture à cordon dissimulée permet une tenue idéale
 - Confort absolu – Le tissu UA Tech ultra-doux du jogging short vous offre une sensation très naturelle, et sa coupe loose garantit un confort absolu
 - Pour tous les sports – Le short sport confortable est en tissu doux, sèche vite, et dispose de poches latérales pratiques Idéal pour chaque sport !
-- Matériau innovant – Le tissu unique utilisé pour la fabrication du jogging court évacue la transpiration Ainsi, le jogging sèche très vite
-- Matériau et coupe – Under Armour Hommes UA Tech Short avec logo, jogging court en tissu Tech, coupe : loose, matériau : 100 % polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077XK71ST/?tag=tolees0d-21)
