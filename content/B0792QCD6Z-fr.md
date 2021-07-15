@@ -28,11 +28,11 @@ Vous avez [LEGO Star Wars - Véhicule Impérial AT-Hauler - 75219 - Jeu de Const
 
 ℹ️:
 
-- Les scènes palpitantes du film Solo: A Star Wars Story sont recrées avec le Véhicule Impérial AT-Hauler 75219 LEGO Star Wars !
-- Le Véhicule Impérial AT-Hauler mesure plus de 12 cm de haut, 32 cm de long et 21 cm de large
-- Les ensembles LEGO Star Wars sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Inclut 5 figurines LEGO : Qi’ra, Val, Rio Durant et 2 gardes de Dryden
 - Construisez le Véhicule Impérial AT-Hauler
 - 829 pièces pour les filles et garçons entre 9 et 14 ans
-- Inclut 5 figurines LEGO : Qi’ra, Val, Rio Durant et 2 gardes de Dryden
+- Les scènes palpitantes du film Solo: A Star Wars Story sont recrées avec le Véhicule Impérial AT-Hauler 75219 LEGO Star Wars !
+- Les ensembles LEGO Star Wars sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Le Véhicule Impérial AT-Hauler mesure plus de 12 cm de haut, 32 cm de long et 21 cm de large
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792QCD6Z/?tag=tolees0d-21)
