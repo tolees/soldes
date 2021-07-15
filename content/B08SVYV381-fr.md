@@ -28,8 +28,8 @@ C'est en vente [Adidas Terrex Skychaser 2 GTX  Chaussure de Course Tout Terrain 
 
 ℹ️:
 
+- Membrane GORE-TEX imperméable et respirante
 - Semelle intermédiaire BOOST : Plus de récupération dénergie
 - Semelle extérieure adhérente CONTINENTAL
-- Membrane GORE-TEX imperméable et respirante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08SVYV381/?tag=tolees0d-21)

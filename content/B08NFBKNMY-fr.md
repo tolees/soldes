@@ -28,10 +28,10 @@ Vous avez [Dell S2721DGFA Écran de PC Gaming 27" QHD LCD  165 Hz  1 ms  AMD Fre
 
 ℹ️:
 
+- garantie 3 ans constructeur
 - format dimage: 16:9, taux de dactualisation maximal 165 hz, temps de réponse 1 ms
 - ecran pc gaming 27 pouces (68,6 cm) 2560 x 1440 pixels quad hd lcd
-- garantie 3 ans constructeur
-- connectivité : port d’alimentation secteur, logement antivol de sécurité, ports hdmi 2.0 (x2), port dp 1.4, port de sortie audio, port usb 3.0 montant, ports usb 3.0 descendants (x2), port usb 3.0 descendant, port pour casque audio, port usb 3.0 descendant, verrouillage du socle
 - la technologie nvidia g-sync et la technologie amd freesync premium pro permettent un gaming hdr encore plus fluide, à faible latence, en éliminant les effets de déchirure d’image et les saccades.
+- connectivité : port d’alimentation secteur, logement antivol de sécurité, ports hdmi 2.0 (x2), port dp 1.4, port de sortie audio, port usb 3.0 montant, ports usb 3.0 descendants (x2), port usb 3.0 descendant, port pour casque audio, port usb 3.0 descendant, verrouillage du socle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NFBKNMY/?tag=tolees0d-21)
