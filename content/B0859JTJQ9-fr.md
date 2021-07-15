@@ -28,10 +28,10 @@ C'est en vente [Paquet COCOSOLIS Bio Huile bronzante – Choco  Aloha  and Glow�
 
 ℹ️:
 
-- ☀️ AU SOLEIL OU DANS UN SOLARIUM : Appliquez lhuile de bronzage avant les séances de bronzage, au moins 10 minutes après lapplication de la crème solaire. Commencez par un FPS élevé et réduisez le temps passé au lit de bronzage pour éviter les brûlures. Lhuile bronzante accélérera le bronzage.
-- ☀️ GARANTIE DE SUIVI : Préparez votre peau au soleil ou au banc solaire avec lhuile de bronzage. Une fois le bronzage terminé, prenez une douche, hydratez-vous et appliquez lhuile corps pour un magnifique éclat de rosée. Noubliez pas que les produits ne sont PAS classés SPF !
-- 🌸 POUR UN BRONZE SAIN : Offrez à votre peau un traitement royal après le soleil ! Nourrissez et prolongez votre nouveau bronzage avec lhuile seche corps. Lhuile pour le corps facilite le processus de bronzage, vous laissant avec un éclat parfait. Utilisez-la comme huile pailletée pour le corps.
-- 🌸 INGRÉDIENTS RESPECTUEUX DE LA PEAU: Le pack crème bronzante et huile pour le corps contient un mélange dhuiles bio pressées à froid: huile de coco, huile de cacao, huile damande, huile davocat, vitamine E. Convient aux peaux délicates ou sensibles. Les produits NE SONT PAS classés SPF.
 - ☀️ UN BRONZAGE ÉTONNANT : Utilisez lhuile de bronzage Choco ou Aloha avant de prendre un bain de soleil ou un solarium pour obtenir un bronzage rapide, doux et profond. Si vous souhaitez donner un éclat supplémentaire à votre peau, appliquez lhuile corps de bronzage avec un effet scintillant.
+- 🌸 INGRÉDIENTS RESPECTUEUX DE LA PEAU: Le pack crème bronzante et huile pour le corps contient un mélange dhuiles bio pressées à froid: huile de coco, huile de cacao, huile damande, huile davocat, vitamine E. Convient aux peaux délicates ou sensibles. Les produits NE SONT PAS classés SPF.
+- ☀️ AU SOLEIL OU DANS UN SOLARIUM : Appliquez lhuile de bronzage avant les séances de bronzage, au moins 10 minutes après lapplication de la crème solaire. Commencez par un FPS élevé et réduisez le temps passé au lit de bronzage pour éviter les brûlures. Lhuile bronzante accélérera le bronzage.
+- 🌸 POUR UN BRONZE SAIN : Offrez à votre peau un traitement royal après le soleil ! Nourrissez et prolongez votre nouveau bronzage avec lhuile seche corps. Lhuile pour le corps facilite le processus de bronzage, vous laissant avec un éclat parfait. Utilisez-la comme huile pailletée pour le corps.
+- ☀️ GARANTIE DE SUIVI : Préparez votre peau au soleil ou au banc solaire avec lhuile de bronzage. Une fois le bronzage terminé, prenez une douche, hydratez-vous et appliquez lhuile corps pour un magnifique éclat de rosée. Noubliez pas que les produits ne sont PAS classés SPF !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0859JTJQ9/?tag=tolees0d-21)
