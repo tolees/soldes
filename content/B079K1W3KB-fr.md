@@ -28,12 +28,12 @@ C'est en vente [Corsair Carbide 275R Boîtier PC Gaming  Moyenne Tour ATX avec F
 
 ℹ️:
 
-- Refroidisseurs de liquide Corsair compatibles: H55, H60, H75, H80i, H90, H100i, H105, H110i, H115i, H150i
-- Apparence épurée et minimaliste : Des lignes épurées, des bords arrondis mis en valeur par un éclairage daccentuation tout en douceur
-- Acheminement des câbles intégré : Le compartiment dédié à lacheminement des câbles est synonyme dassemblages épurés
-- Splendide panneau en verre trempé : Le panneau latéral en verre trempé expose votre système avec élégance
 - Espace de stockage évolutif : Le plateau de disques en acier robuste offre un volume suffisant pour installer des disques supplémentaires
+- Apparence épurée et minimaliste : Des lignes épurées, des bords arrondis mis en valeur par un éclairage daccentuation tout en douceur
+- Refroidisseurs de liquide Corsair compatibles: H55, H60, H75, H80i, H90, H100i, H105, H110i, H115i, H150i
 - Agencement interne adapté à lassembleur : Lagencement interne simple et intuitif permet dassembler le système rapidement et facilement
+- Splendide panneau en verre trempé : Le panneau latéral en verre trempé expose votre système avec élégance
 - Diverses options de refroidissement : Suffisamment despace pour loger un radiateur de 360 mm à lavant, un radiateur de 240 mm en haut et un radiateur de 120 mm à larrière
+- Acheminement des câbles intégré : Le compartiment dédié à lacheminement des câbles est synonyme dassemblages épurés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079K1W3KB/?tag=tolees0d-21)

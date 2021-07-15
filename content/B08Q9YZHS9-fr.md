@@ -28,8 +28,8 @@ C'est en vente [Nike AIR Max 2090  Chaussure de Course Homme  Hyper Blue Black W
 
 ℹ️:
 
-- Tige en tissu transparent
-- Amorti Nike Air
 - Chaussures de sport
+- Amorti Nike Air
+- Tige en tissu transparent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q9YZHS9/?tag=tolees0d-21)

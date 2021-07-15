@@ -28,10 +28,10 @@ Vous avez [Fantasy Fields par Teamson Enfants Coiffeuse Bois Table Maquillage Mi
 
 ℹ️:
 
-- La coiffeuse dispose de 3 miroirs conçus avec du véritable verre pour un meilleur reflet.
-- Fabriquée en panneaux MDF éco-responsable (conforme aux normes « CARB Phase 2 ») et en plastique.
 - Cet ensemble coiffeuse comprend le meuble coiffeuse avec son tabouret. Cest un ensemble idéal pour une chambre de fille.
-- Un tiroir central coulissant avec poignée pour ranger des petits trésors.
+- Fabriquée en panneaux MDF éco-responsable (conforme aux normes « CARB Phase 2 ») et en plastique.
 - Le montage par un adulte est nécessaire. Coiffeuse recommandée aux enfants de 3 ans et plus.
+- Un tiroir central coulissant avec poignée pour ranger des petits trésors.
+- La coiffeuse dispose de 3 miroirs conçus avec du véritable verre pour un meilleur reflet.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012J2MVKS/?tag=tolees0d-21)
