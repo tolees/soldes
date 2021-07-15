@@ -28,10 +28,10 @@ C'est en vente [Hilitand - Kit Fer à Souder Electrique Numérique Soudure Porta
 
 ℹ️:
 
-- CARACTÉRISTIQUES: Écran OLED lisant les paramètres et deux boutons-poussoir momentanés pour contrôler et régler les paramètres, plage de température réglable de 100 à 400
-- CONVENIENCE: Ce fer à souder portable se réchauffe en quelques secondes, économisez votre temps de travail
 - SÉCURITAIRE ET FIABLE: Ce mini fer à souder numérique a une taille plus petite, identique à celle dun stylo, léger et sûr à utiliser
-- WIDE APPLICATION: Le préfet de kit de fer à souder électrique pour les applications de circuits imprimés et de circuits imprimés
+- CONVENIENCE: Ce fer à souder portable se réchauffe en quelques secondes, économisez votre temps de travail
+- CARACTÉRISTIQUES: Écran OLED lisant les paramètres et deux boutons-poussoir momentanés pour contrôler et régler les paramètres, plage de température réglable de 100 à 400
 - COMPATIBLE AVEC: Le port dalimentation DC 5525 est compatible avec ladaptateur secteur pour ordinateur portable DC 12-24V, la banque dalimentation, lalimentation de la voiture
+- WIDE APPLICATION: Le préfet de kit de fer à souder électrique pour les applications de circuits imprimés et de circuits imprimés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JG2L5RV/?tag=tolees0d-21)

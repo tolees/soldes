@@ -28,11 +28,11 @@ Vous avez [TP-Link Répéteur WiFi TL-WA850RE   Amplificateur WiFi N300  WiFi Ex
 
 ℹ️:
 
-- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. TL-WA850RE est recommandé pour les box ADSL.
 - Configuration requise: Microsoft Windows 98SE, NT, 2000, XP, Vista ou Windows 7, 8, 10, Mac OS, NetWare, UNIX ou Linux
 - 【Compatibilité universelle & installation simple】- Compatible avec tous les box Internet et routeurs Wi-Fi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
-- 【Port Ethernet】- Avec son port Ethernet 10/100M, le TL-WA850RE peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
 - 【Mode point daccès】- Ce mode vous permet dun emplacement libre (jusquà 100m de votre box). Grâce au mode AP, vous pouvez obtenir un débit max 300Mbps en 2.4GHz.
+- 【Port Ethernet】- Avec son port Ethernet 10/100M, le TL-WA850RE peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
 - 【Étendez votre couverture】- Les 2 antennes internes de TL-WA850RE augmentent la couverture Wi-Fi jusquà 90 m² et connectent jusquà 10 appareils tels que des smartphones, des tablettes, des PC, etc.
+- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. TL-WA850RE est recommandé pour les box ADSL.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00A0VCJPI/?tag=tolees0d-21)
