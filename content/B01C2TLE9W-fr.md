@@ -29,9 +29,9 @@ C'est en vente [Azden SMX-15 DSLR microphone](https://www.amazon.fr/dp/B01C2TLE9
 ℹ️:
 
 - + 20 dB Gain boooster pour audio et propre
-- Azden DSLR microphone SMX ; Vent protection, sac, instructions
 - frequenb de 40 Hz à 20 kHz pour les enregistrements naturellement son
 - Construit en appareil photo anti-choc type hors de cordon et fonction économie dénergie
 - Spécialement conçu pour appareil photo reflex numérique et appareil photo sans miroir
+- Azden DSLR microphone SMX ; Vent protection, sac, instructions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01C2TLE9W/?tag=tolees0d-21)
