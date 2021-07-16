@@ -28,12 +28,12 @@ Vous avez [LEGO®-Hidden Side Le laboratoire détecteur de fantômes Jeu de Cons
 
 ℹ️:
 
-- Ce jouet incluant une application de réalité augmentée comprend 3 figurines pour vivre laction dans le monde physique et dans lapplication Lego hidden side
-- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, rempli de mystères et de fantômes à capturer
 - Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
 - Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone ; Lapplication est compatible avec une sélection dappareils iOS et Android
+- Ce jouet incluant une application de réalité augmentée comprend 3 figurines pour vivre laction dans le monde physique et dans lapplication Lego hidden side
 - Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
 - Le laboratoire détecteur de fantômes à construire inclut un laboratoire équipé dune chambre « Tesla » pour éliminer les fantômes et détails technologiques propices à la créativité et au jeu
+- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, rempli de mystères et de fantômes à capturer
+- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone ; Lapplication est compatible avec une sélection dappareils iOS et Android
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND6CGGP/?tag=tolees0d-21)

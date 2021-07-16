@@ -28,10 +28,10 @@ C'est en vente [LEGO 60215 City La caserne de Pompiers  Jeu de Construction avec
 
 ℹ️:
 
-- Les rotors peuvent tourner pour lancer le drone et fais pivoter la caméra pour rechercher des incendies.
-- Inclut 4 figurines LEGO City : un chef des pompiers et 3 pompiers, plus une figurine de chien de pompiers.
 - Les accessoires incluent un extincteur qui tire des tenons, 6 éléments d’eau, un seau, un téléphone, une télévision, du pop-corn et une télécommande pour le drone.
-- Comprend une caserne de pompiers à 3 niveaux avec un bureau, une salle de relaxation et une tour de surveillance, un petit quai et un garage séparé avec une grande porte avant qui s’ouvre et une plate-forme d’atterrissage pour le drone inclus à construire. Inclut également une petite construction avec une poubelle, un tas de journaux et des éléments de flamme à construire.
+- Inclut 4 figurines LEGO City : un chef des pompiers et 3 pompiers, plus une figurine de chien de pompiers.
+- Les rotors peuvent tourner pour lancer le drone et fais pivoter la caméra pour rechercher des incendies.
 - Cet ensemble cool comprend aussi un véhicule tout-terrain avec une nouvelle brique lumineuse et sonore, une lance d’incendie qui fonctionne avec un levier et des compartiments de rangement, plus un jet-ski avec de la place pour un extincteur qui tire des tenons et un drone de surveillance avec des rotors qui tournent et une caméra rotative.
+- Comprend une caserne de pompiers à 3 niveaux avec un bureau, une salle de relaxation et une tour de surveillance, un petit quai et un garage séparé avec une grande porte avant qui s’ouvre et une plate-forme d’atterrissage pour le drone inclus à construire. Inclut également une petite construction avec une poubelle, un tas de journaux et des éléments de flamme à construire.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN17CM/?tag=tolees0d-21)
