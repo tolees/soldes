@@ -28,8 +28,8 @@ Vous avez [Wera Kraftform Kompakt 28 073240 Tournevis porte-embouts  Import Gran
 
 ℹ️:
 
+- Kraftform Kompakt 28
 - Manche Kraftform multi composants avec dispositif anti roulement, lame baïonnette et réserve d’embouts
 - Adaptateur baïonnette, avec douille acier inoxydable, jonc d’arrêt et puissant aimant permanent
-- Kraftform Kompakt 28
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002RIRGGO/?tag=tolees0d-21)

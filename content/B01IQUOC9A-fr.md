@@ -28,10 +28,10 @@ C'est en vente [Iris Ohyama - Iris pour animal domestique Bille](https://www.ama
 
 ℹ️:
 
-- Pour les chiens de grande taille ( bouvier bernois, labrador, dalmatien...)
 - Dimensions (1 élément): L 60 x H 121 cm
+- Pour les chiens de grande taille ( bouvier bernois, labrador, dalmatien...)
 - Fil résistant avec revêtement époxy
-- Ancrage pour fixation au sol, facile à installer, facile à nettoyer
 - Connecteurs résistants à la rouille et flexibles
+- Ancrage pour fixation au sol, facile à installer, facile à nettoyer
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01IQUOC9A/?tag=tolees0d-21)
