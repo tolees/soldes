@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas EF2508  Chaussure de Piste d athl avec 15.04 % rabais '
-date: 2021-07-15 03:21:04
+date: 2021-07-16 11:45:22
 image: 'https://m.media-amazon.com/images/I/31-6DzeXpdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [adidas EF2508  Chaussure de Piste d athlétisme Homme  Blanco Az
 
 ℹ️:
 
-- Taille : 44 EU
+- Fermeture : Lacets
 - Matière : Textile
 - Couleur : Blanc
-- Fermeture : Lacets
 - Saison : Automne Hiver
+- Taille : 44 EU
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RQLTQD3/?tag=tolees0d-21)

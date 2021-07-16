@@ -28,10 +28,10 @@ C'est en vente [ANTAPRCIS 2 en 1 Voiture de Cascade d eau RC  4WD Amphibie Tél�
 
 ℹ️:
 
-- Vitesse réglable: Réglez votre vitesse pour réaliser une variété de cascades, cette voiture est conçue pour que les débutants puissent apprendre facilement.
-- Cascades à 360°: Cette voiture peut faire des rotations à 360° et à 180°, des rotations sur le sol et peut se retourner sur elle-même, ce qui peut divertir votre enfant pendant des heures.
-- Jouez ensemble: Équipés dun émetteur de 2,4 GHz, les enfants peuvent jouer ensemble à plusieurs voitures sans interruption de fréquence, pour renforcer leur amitié et leur travail déquipe au travers des courses.
-- Qualité fiable: Avec un design en arc, une carrosserie à double coque et des pneus TPR très élastiques, cette voiture RC étanche à l’échelle 1:18 est entièrement résistante aux collisions, ce qui permet une grande variété de jeu.
 - Courir sur Jouez sur leau et le terre ferme: Grâce à ses trois couches imperméables, cette voiture de cascades peut être utilisée à lintérieur comme à lextérieur, sur des tapis, dans la cour, dans un parc, dans une piscine, etc.leau et sur la terre: Conçue avec trois structures étanches, la voiture de cascade peut jouer à lintérieur et à lextérieur, comme les tapis, la cour, le parc, la piscine, etc.
+- Jouez ensemble: Équipés dun émetteur de 2,4 GHz, les enfants peuvent jouer ensemble à plusieurs voitures sans interruption de fréquence, pour renforcer leur amitié et leur travail déquipe au travers des courses.
+- Vitesse réglable: Réglez votre vitesse pour réaliser une variété de cascades, cette voiture est conçue pour que les débutants puissent apprendre facilement.
+- Qualité fiable: Avec un design en arc, une carrosserie à double coque et des pneus TPR très élastiques, cette voiture RC étanche à l’échelle 1:18 est entièrement résistante aux collisions, ce qui permet une grande variété de jeu.
+- Cascades à 360°: Cette voiture peut faire des rotations à 360° et à 180°, des rotations sur le sol et peut se retourner sur elle-même, ce qui peut divertir votre enfant pendant des heures.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BR969XM/?tag=tolees0d-21)

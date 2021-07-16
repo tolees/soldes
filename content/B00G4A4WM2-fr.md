@@ -28,10 +28,10 @@ Vous avez [CROCK-POT - Crock Pot SCCPBPP605 Mijoteuse électrique programmable  
 
 ℹ️:
 
-- Compatible au four, micro-ondes et lave-vaisselle, couvercle compatible au lave-vaisselle, cordon amovible avec range cordon
+- Mijoteuse électrique avec panneau de contrôle digital, capacité 5.7L- idéal pour 6 personnes
 - Repas préparé pendant que vous travaillez ou vous détendez - pas besoin de surveiller ou de mélanger; recettes mijoteuse incluses dans la notice
 - Récipient en grès amovible - Utilisez la cocotte amovible qui passe au lave-vaisselle comme plat de service
+- Compatible au four, micro-ondes et lave-vaisselle, couvercle compatible au lave-vaisselle, cordon amovible avec range cordon
 - 2 réglages de température fonction maintien au chaud automatique, minuteur numérique jusqu’à 20H, témoin lumineux de fonctionnement
-- Mijoteuse électrique avec panneau de contrôle digital, capacité 5.7L- idéal pour 6 personnes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00G4A4WM2/?tag=tolees0d-21)
