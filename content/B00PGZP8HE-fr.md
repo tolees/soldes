@@ -28,8 +28,8 @@ Vous avez [Lego Creator Expert - 10220-Le Camping Car Volkswagen T1](https://www
 
 ℹ️:
 
-- Cet authentique camping-car est une réplique du camping-car Volkswagen classique de 1962.
 - À lintérieur, le réalisme est tout aussi impressionnant : un authentique moteur boxer quatre cylindres à plat refroidi par air, une banquette avant, un levier de vitesse et un tableau de bord incliné avec compteur...
+- Cet authentique camping-car est une réplique du camping-car Volkswagen classique de 1962.
 - II contient tous les détails qui en ont fait une légende ! Toutes ses caractéristiques célèbres sont ici ! À lextérieur, on retrouve les trois « V » du logo à lavant, le toit et les encadrements des fenêtres arrondis, le pare-brise en deux parties, les portes qui souvrent, le célèbre toit qui se soulève avec rideau de toile tout autour, le porte-bagages de toit, les prises dentrée dair à larrière et bien dautres choses encore !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)
