@@ -28,10 +28,10 @@ C'est en vente [ViscoSoft - Surmatelas 160 x 200 Mémo  Surmatelas Mémoire de F
 
 ℹ️:
 
-- ✅ SURMATELAS RESPIRANT ET HYPOALLERGENIQUE : La mousse à mémoire de forme perforée et la housse en viscose de bambou lavable permettent une aération optimale.
 - ✅ SURMATELAS ERGONOMIQUE : Surmatelas 160 x 200 memoire de forme qui s’adapte à votre morphologie. Convient à toutes les positions de sommeil et réduit les points de pression de votre corps.
-- ✅ SURMATELAS MEMOIRE DE FORME HAUTE QUALITE : Surmatelas 160 x 200 mémoire de forme d’une épaisseur de 5cm. Mousse mémoire de forme haute qualité qui dure dans le temps.
-- ✅ SECONDE VIE POUR VOTRE MATELAS : Prolonge la vie de tout type de literie et apporte du moelleux. Maintien parfait grâce à sa face anti-dérapante et ses sangles élastiques ajustables aux 4 coins.
 - ⭐ GARANTIE 5 ANS - Votre surmatelas bénéficie de la garantie fabricant de 5 ans contre les défauts de fabrication. Article soumis à la politique des retours et échanges d’Amazon.fr (sous 30 jours).
+- ✅ SECONDE VIE POUR VOTRE MATELAS : Prolonge la vie de tout type de literie et apporte du moelleux. Maintien parfait grâce à sa face anti-dérapante et ses sangles élastiques ajustables aux 4 coins.
+- ✅ SURMATELAS RESPIRANT ET HYPOALLERGENIQUE : La mousse à mémoire de forme perforée et la housse en viscose de bambou lavable permettent une aération optimale.
+- ✅ SURMATELAS MEMOIRE DE FORME HAUTE QUALITE : Surmatelas 160 x 200 mémoire de forme d’une épaisseur de 5cm. Mousse mémoire de forme haute qualité qui dure dans le temps.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MXJ9OKJ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [YINUO LIGHT - Bougies Parfumées Ensemblem  5 65oz Cire De Soja 
 
 ℹ️:
 
-- 4 parfums populaires, Le coffret cadeau femme comprend 4 boîtes de cnadle parfumé: citron, lavande, figue méditerranéenne et printemps. Grâce à la bougie portable en étain, vous pouvez la sceller et l’emporter avec vous. peu importe où vous allez
-- Convient à diverses occasions, Quil sagisse dun événement daffaires, une date, une fête, une date ou tout autre événement, il rend latmosphère plus détendue et élégante. Ces boîtes de bougie semblent simples et généreuses, et une fois utilisées vers le haut, elles peuvent être employées comme récipients décoratifs ou de stockage
-- Ensemble de cadeaux merveilleux, Des bougies parfumées sont emballées dans une boîte cadeau avec une carte-cadeau. Un cadeau parfait pour Noël, anniversaire, anniversaire, fête des mères ou tout autre jour spécial
 - Taille et poids, 4,4 oz pour chaque bougie et mesure. Chaque bougie brûle environ 25 à 30 heures, créant des atmosphères damélioration de lhumeur, soulagement et relaxation pour vous
 - Cire de soja naturelle, Faite de cire de soja naturelle pure, de fil de coton et dhuiles essentielles. Brûler uniformément et ne produire aucune fumée noire méchante. Le parfum charmant vous apportera un sentiment merveilleux comme Alice au pays des merveilles
+- Convient à diverses occasions, Quil sagisse dun événement daffaires, une date, une fête, une date ou tout autre événement, il rend latmosphère plus détendue et élégante. Ces boîtes de bougie semblent simples et généreuses, et une fois utilisées vers le haut, elles peuvent être employées comme récipients décoratifs ou de stockage
+- 4 parfums populaires, Le coffret cadeau femme comprend 4 boîtes de cnadle parfumé: citron, lavande, figue méditerranéenne et printemps. Grâce à la bougie portable en étain, vous pouvez la sceller et l’emporter avec vous. peu importe où vous allez
+- Ensemble de cadeaux merveilleux, Des bougies parfumées sont emballées dans une boîte cadeau avec une carte-cadeau. Un cadeau parfait pour Noël, anniversaire, anniversaire, fête des mères ou tout autre jour spécial
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WT26Z9V/?tag=tolees0d-21)
