@@ -28,9 +28,9 @@ Vous avez [Klorofil-le Parc enchanté Jouet D éveil  700202  Multicolore](https
 
 ℹ️:
 
-- Les différents accessoires pour samuser : 4 cagettes de bonbons, une balançoire et un nid.
 - Idéal pour développer limagination, se joue seul ou à plusieurs !
 - Comprend: 2 personnages de la famille Nocty.
+- Les différents accessoires pour samuser : 4 cagettes de bonbons, une balançoire et un nid.
 - Bienvenue dans le parc enchanté des klorofil et découvrez la boutique de bonbons qui sy cache !
 - Les différentes activités dans le parc sont : la spirale pour tournoyer sans fin dans les airs, le tronc sauteur, la balançoire et le nid suspendu.
 

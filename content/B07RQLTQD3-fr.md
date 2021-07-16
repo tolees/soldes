@@ -28,10 +28,10 @@ C'est en vente [adidas EF2508  Chaussure de Piste d athlétisme Homme  Blanco Az
 
 ℹ️:
 
-- Taille : 44 EU
-- Fermeture : Lacets
+- Couleur : Blanc
 - Saison : Automne Hiver
 - Matière : Textile
-- Couleur : Blanc
+- Taille : 44 EU
+- Fermeture : Lacets
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RQLTQD3/?tag=tolees0d-21)

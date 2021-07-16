@@ -28,8 +28,8 @@ C'est en vente [ROYAL CANIN de Bengale pour Chat  10 kg](https://www.amazon.fr/
 
 ℹ️:
 
-- Adulte
 - bengal
+- Adulte
 - Aliments secs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0735CDZ9B/?tag=tolees0d-21)

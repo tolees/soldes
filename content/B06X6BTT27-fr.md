@@ -28,11 +28,11 @@ C'est en vente [Rowenta Eole Infinite Ventilateur colonne sur pied  40 W  3 vite
 
 ℹ️:
 
+- Minuteur 3h avec un arrêt automatique pour un meilleur confort dutilisation
 - Grande stabilité: large socle pour augmenter la sécurité
+- Oscillation à 180° qui assure une couverture de ventilation extra large dans toute la pièce
+- Poids léger avec une poignée intégrée pour faciliter le transport et le stockage
 - Facile à nettoyer: une grille arrière amovible pour un entretien plus facile
 - Augmente le débit dair pour un meilleur rafraichissement avec son réglages 3 vitesses
-- Poids léger avec une poignée intégrée pour faciliter le transport et le stockage
-- Minuteur 3h avec un arrêt automatique pour un meilleur confort dutilisation
-- Oscillation à 180° qui assure une couverture de ventilation extra large dans toute la pièce
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21)
