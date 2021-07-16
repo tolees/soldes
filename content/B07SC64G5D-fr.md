@@ -28,10 +28,10 @@ C'est en vente [NZXT H210 - Boîtier PC Gaming Mini-ITX - Port I/O USB Type-C en
 
 ℹ️:
 
-- TOUJOURS AUSSI BEAU: Son design sobre et moderne, sa célèbre barre de gestion des câbles et son panneau latéral en verre trempé mettent en valeur votre conﬁguration
-- GESTION DES CÂBLES: Notre kit de routage de câbles breveté avec des canaux et des sangles préinstallés rend le câblage facile et intuitif
-- NOUVELLES CARACTÉRISTIQUES: Ports E/S frontaux USB Type C de type I avec entrée / sortie frontale et panneau latéral en verre trempé avec installation à une vis
 - REFROIDISSEMENT RATIONALISÉ: Deux ventilateurs Aer F de 120 mm* sont intégrés pour un ﬂux dair interne optimisé. Les entrées dair en façade et sur le bloc dalimentation sont dotées de ﬁltres amovibles.Le support amovible conçu pour les radiateurs dune taille maximale de 240 mm simpliﬁe linstallation dun système de watercooling à boucle fermée ou ouverte
 - CARTE MÈRE PRISE EN CHARGE: Mini-ITX
+- TOUJOURS AUSSI BEAU: Son design sobre et moderne, sa célèbre barre de gestion des câbles et son panneau latéral en verre trempé mettent en valeur votre conﬁguration
+- NOUVELLES CARACTÉRISTIQUES: Ports E/S frontaux USB Type C de type I avec entrée / sortie frontale et panneau latéral en verre trempé avec installation à une vis
+- GESTION DES CÂBLES: Notre kit de routage de câbles breveté avec des canaux et des sangles préinstallés rend le câblage facile et intuitif
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SC64G5D/?tag=tolees0d-21)

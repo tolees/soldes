@@ -28,10 +28,10 @@ Vous avez [HVS PL005 ARPL005 Plateforme workstep  Alu/Orange](https://www.amazon
 
 ℹ️:
 
+- Charge admissible max 150kg
+- Ample surface antidérapantes de la plateforme 71,5x30cm
 - Double crochet anti-fermeture
 - Hauteur daccès max: 2,50m
-- Ample surface antidérapantes de la plateforme 71,5x30cm
 - Plateforme de travail en aluminium et articulation en acier entièrement repliable
-- Charge admissible max 150kg
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VVLPGE2/?tag=tolees0d-21)
