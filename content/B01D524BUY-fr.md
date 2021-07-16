@@ -28,12 +28,12 @@ Vous avez [Corsair M65 PRO RGB Optique Souris Gaming  Rétro-Éclairge RGB Multi
 
 ℹ️:
 
-- Système de personnalisation du poids avancé:définissez le centre de gravité selon votre style de jeu.
+- Capteur haute précision de 12000dpi:capteur personnalisé, taillé pour le jeu, précis au pixel près.
 - Utilitaire de personnalisation de létalonnage de surface: Optimise la précision et la réactivité du capteur en fonction de la surface de jeu.
 - Positionnement optimisé du bouton Sniper:exploitez le potentiel du réglage des dpi à la volée pour adapter immédiatement la vitesse de la souris aux impératifs de jouabilité.
 - Structure en aluminium inspirée de lindustrie aéronautique:poids plume, extrêmement robuste et répartition de la masse optimale.
 - Durabilité du bouton de souris : 20 M L/R Click
 - Capteur: PMW3360
-- Capteur haute précision de 12000dpi:capteur personnalisé, taillé pour le jeu, précis au pixel près.
+- Système de personnalisation du poids avancé:définissez le centre de gravité selon votre style de jeu.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D524BUY/?tag=tolees0d-21)

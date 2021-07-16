@@ -28,10 +28,10 @@ Vous avez [Helstons Bottes Moto Basket C5 Cuir Aniline Fauve  Marron  43 EU](htt
 
 ℹ️:
 
-- Matière : Cuir
 - 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Matière : Cuir - Sexe : Homme - Étanche : Oui - Fermeture : Lacets - Sliders : Non - Renfort sélecteur : Oui - Protections Malléoles : Non - Homologué CE / EPI : Oui
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Fermeture : Lacets
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Matière : Cuir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MDY8Z8V/?tag=tolees0d-21)

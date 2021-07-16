@@ -29,9 +29,9 @@ C'est en vente [Olympus M.ZUIKO Digital ED Objectif 45-45 mm pour Appareil Photo
 ℹ️:
 
 - unknown_modifier
-- Ouverture focale minimum :45
 - Stabilisation dimage :N
-- Ouverture focale maximum :45
 - micro four thirds
+- Ouverture focale minimum :45
+- Ouverture focale maximum :45
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CPLQ7GI/?tag=tolees0d-21)
