@@ -28,11 +28,11 @@ Vous avez [Vans Homme Old Skool Classic Suede/Canvas Baskets  Black White  36 EU
 
 ℹ️:
 
-- Largeur de la tige : normale.
-- Semelle : caoutchouc.
-- Composition : toile.
-- Matériau extérieur : cuir.
 - Fermeture : lacets.
+- Composition : toile.
+- Semelle : caoutchouc.
+- Matériau extérieur : cuir.
 - Intérieur : textile.
+- Largeur de la tige : normale.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001CY4IPQ/?tag=tolees0d-21)
