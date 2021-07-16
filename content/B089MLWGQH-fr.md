@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MateBook D 14 PC Portable  14 pou avec 30.38 % rabais '
-date: 2021-07-13 20:57:41
+date: 2021-07-16 07:03:39
 image: 'https://m.media-amazon.com/images/I/415u2UDSINL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.fr/dp/B089MLWGQH/?tag=tolees0d-21'
 descuento: '30.38'
-average: '890.809090909091'
+average: '883.233333333333'
 ---
 
 C'est en vente [HUAWEI MateBook D 14 PC Portable  14 pouces 1080p FHD  Intel Core i7-10510U  RAM 16Go  SSD 512Go  MX250  Windows 10 Home  Clavier Français AZERTY   Argent](https://www.amazon.fr/dp/B089MLWGQH/?tag=tolees0d-21)  à  30.38 % de réduction, prix final  799.9 EUR (original: 1149.0 EUR) ici:
@@ -28,12 +28,12 @@ C'est en vente [HUAWEI MateBook D 14 PC Portable  14 pouces 1080p FHD  Intel Cor
 
 ℹ️:
 
-- Capteur dempreinte digitale intégré au bouton dalimentation
-- Continuité multi-écrans, pour une projection de votre smartphone directement sur votre PC
-- Chargeur secteur USB Type-C, pour un chargement 2-en-1 de votre ordinateur ou de votre téléphone
-- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
 - Format: 16:9
 - Processeur Intel Core i7 10510U pour des performances exceptionnelles
+- Capteur dempreinte digitale intégré au bouton dalimentation
 - Batterie de 56Wh pour une autonomie longue durée
+- Chargeur secteur USB Type-C, pour un chargement 2-en-1 de votre ordinateur ou de votre téléphone
+- Continuité multi-écrans, pour une projection de votre smartphone directement sur votre PC
+- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089MLWGQH/?tag=tolees0d-21)
