@@ -28,9 +28,9 @@ C'est en vente [Danalock V3 Türschloss - Z-Wave Plus](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Poids du colis: 480.0 g
 - Danalock V3 BT & serrure Z-wave Connectée
 - Couleur: Silver
 - Fabriqué en Chine
+- Poids du colis: 480.0 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074H99JDR/?tag=tolees0d-21)
