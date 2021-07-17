@@ -28,10 +28,10 @@ C'est en vente [gb Gold Pockit+ All-City Fashion Edition Blue Bleu](https://www.
 
 ℹ️:
 
-- 0
 - Gb gold pockit+ all-city fashion edition night bleu
+- 0
 - Numéro darticle: 619000243
-- Couleur: night bleu | navy bleu
 - Contenu: 1 Buggy Pockit+ All-City, collection Fashion, cadre matériel : Aluminium, Matériau revêtement : Polyester, Dimensions (LxLxHx) : 78 x 34 x 99 cm, Dimensions (LxLxHx) : 32 x 20 x 48 cm, Poids : 5,7 kg, Couleur : bleu nuit
+- Couleur: night bleu | navy bleu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P5HGTYL/?tag=tolees0d-21)
