@@ -28,10 +28,10 @@ C'est en vente [AGFA PHOTO AC9000BK Unisex-Adult  Noir  4K](https://www.amazon.f
 
 ℹ️:
 
-- 4 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Caméra Sport WIFI 4K
+- 4 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - stabilisateur 6 axes
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Caméra Sport WIFI 4K, avec stabilisateur 6 axes - Ecran LCD 2 - Capteur SONY IMX458 - Résolution vidéo maximale natif 4K 30fps - Résolution photo 16MP - Grand angle 170°- Anti vibration électronique - Carte micro SD jusquà 128GB ( carte non incluse) -
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MBBR681/?tag=tolees0d-21)

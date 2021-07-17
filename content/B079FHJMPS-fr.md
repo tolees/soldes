@@ -28,11 +28,11 @@ C'est en vente [dBb Remond Chef Robot Culinaire 6en1 Cuiseur Bleu Glacier](https
 
 ℹ️:
 
-- Le plus : fonction détartrage du réservoir deau.
+- Stérilise biberon et accessoires/décongèle/réchauffe biberon et pot alimentaire/cuit à la vapeur (2 puissances)/mixe et hache (2 vitesses)/maintient au chaud jusquà 8h.
 - Puissance: 700 watts
 - Possibilité de cuire 2 aliments séparément et en simultanées.
-- Capacité de 1,3l. spatule, pince, pot de conservation 150ml et cuillère en silicone fournis.
+- Le plus : fonction détartrage du réservoir deau.
 - Arrêt sonore et automatique à la fin de cycle.
-- Stérilise biberon et accessoires/décongèle/réchauffe biberon et pot alimentaire/cuit à la vapeur (2 puissances)/mixe et hache (2 vitesses)/maintient au chaud jusquà 8h.
+- Capacité de 1,3l. spatule, pince, pot de conservation 150ml et cuillère en silicone fournis.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FHJMPS/?tag=tolees0d-21)
