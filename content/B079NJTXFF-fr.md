@@ -28,9 +28,9 @@ C'est en vente [Nerrad Tools - Nerrad outils Ntvsf1 Versa-funnel  gris](https:/
 
 ℹ️:
 
-- Fabriqué à partir daluminium souple et recouvert de haut Grade en caoutchouc nitrile
-- versa-funnel est cancelling dans presque nimporte quelle forme pour sadapter à de nombreuses applications
 - Particulièrement utile aux ingénieurs de chaudière pour attraper ou détourner leau loin de PCB pour éviter une erreur coûteuse
+- versa-funnel est cancelling dans presque nimporte quelle forme pour sadapter à de nombreuses applications
 - Aide à contenir ces nuisances relève lors du travail sur : Les radiateurs, mobiliser toutes les bouteilles
+- Fabriqué à partir daluminium souple et recouvert de haut Grade en caoutchouc nitrile
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079NJTXFF/?tag=tolees0d-21)

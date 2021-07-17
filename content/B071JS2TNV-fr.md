@@ -28,10 +28,10 @@ Vous avez [Le Petit Marseillais Gel Douche Hydratant au Sel Marin 250 ml](https:
 
 ℹ️:
 
+- Testée sous contrôle dermatologique
+- Ingrédients de la base lavante facilement biodégradables
 - pH neutre pour la peau
 - Sa mousse légère et son parfum étonnant apporteront fraîcheur et vitalité à votre douche
-- Ingrédients de la base lavante facilement biodégradables
 - Enrichi en agent hydratant dorigine végétale
-- Testée sous contrôle dermatologique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071JS2TNV/?tag=tolees0d-21)
