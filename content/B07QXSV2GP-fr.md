@@ -28,11 +28,11 @@ Vous avez [Sony WI-C310 Ecouteurs Intra-Auriculaires Bluetooth sans Fil - Style 
 
 ℹ️:
 
-- Design ergonomique de la commande des appels et musiques pour éviter toute gène durant le port des écouteurs
-- Disponible en 4 coloris : blanc/ noir/ bleu/ doré
-- Ecouteurs intra aimantés pour un rangement plus facile
 - Autonomie sans fil longue distance de 15 heures et possibilité de recharger ces écouteurs en 10min pour une heure de musique
-- Diaphragme de 9mm pour une restitution du son haute qualité
+- Design ergonomique de la commande des appels et musiques pour éviter toute gène durant le port des écouteurs
 - Réponse en fréquence (communication Bluetooth):20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz)
+- Ecouteurs intra aimantés pour un rangement plus facile
+- Disponible en 4 coloris : blanc/ noir/ bleu/ doré
+- Diaphragme de 9mm pour une restitution du son haute qualité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QXSV2GP/?tag=tolees0d-21)

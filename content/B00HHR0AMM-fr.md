@@ -28,10 +28,10 @@ Vous avez [Les Tropéziennes par M. Belarbi CUMIN  Sandales Femme  Marron  Or/Ta
 
 ℹ️:
 
-- Cuir
-- LES TROPEZIENNES
 - P-E 2018
-- Femme
 - Découvrez les Sandales et nu-pieds LES TROPEZIENNES CUMIN pour Femme en Tan/or. Ces Sandales et nu-pieds en Cuir se composent dune tige en Cuir et dune hauteur de talon de 1 cm. Offrez vous LES TROPEZIENNES pour seulement 69.90€ !
+- LES TROPEZIENNES
+- Cuir
+- Femme
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HHR0AMM/?tag=tolees0d-21)
