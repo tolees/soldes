@@ -28,14 +28,14 @@ C'est en vente [LEGO L incendie sur Le Quai](https://www.amazon.fr/dp/B07FNN17DW
 
 ℹ️:
 
-- Comprend un bateau des pompiers avec un canon à tirs multiples nouveau pour janvier 2019 et un moteur qui se soulève.
-- Inclut 2 figurines LEGO City : un pompier et un docker.
-- Comprend également une scène de quai avec une échelle.
-- Les accessoires comprennent un talkie-walkie, un chariot, 3 éléments deau, un panneau davertissement, un élément de feu à construire et 2 barils à construire.
 - Le moteur sabaisse sur le bateau des pompiers et fonce vers lincendie sur le quai.
+- Le bateau des pompiers mesure plus de 5 cm de haut, 13 cm de long et 6 cm de large.
+- Comprend également une scène de quai avec une échelle.
+- Inclut 2 figurines LEGO City : un pompier et un docker.
+- Comprend un bateau des pompiers avec un canon à tirs multiples nouveau pour janvier 2019 et un moteur qui se soulève.
 - Les 3 éléments d’eau peuvent se charger dans le canon et permet de pousser le piston pour les tirer sur l’incendie.
 - Le bateau flotte vraiment !
 - La scène du quai mesure plus de 3 cm de haut, 9 cm de large et 4 cm de profondeur.
-- Le bateau des pompiers mesure plus de 5 cm de haut, 13 cm de long et 6 cm de large.
+- Les accessoires comprennent un talkie-walkie, un chariot, 3 éléments deau, un panneau davertissement, un élément de feu à construire et 2 barils à construire.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN17DW/?tag=tolees0d-21)
