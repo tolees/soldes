@@ -28,9 +28,9 @@ Vous avez [Desigual Pu Backpack Big  Sac à dos en polyuréthane Femme  Noir  M]
 
 ℹ️:
 
+- Backpack
 - Reliefs du logo inversé de Desigual de couleur unie
 - Sac à dos grand logo
-- Backpack
 - Modern
 - Backpack
 
