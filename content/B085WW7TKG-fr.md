@@ -28,10 +28,10 @@ C'est en vente [Hicorch 18XL Cartouches d encre Remplacer pour Epson 18XL Compat
 
 ℹ️:
 
-- Grande capacité 18XL: 600 pages par encre 18XL noir, 450 pages par cartouches dencre couleur (18XL cyan, 18XL magenta , 18XL jaune) , ia couverture est de 5%. (dépend de limprimante et de lutilisation)
-- Nous doffrir des images aux couleurs vives et des pages de texte claires, et de répondre à vos besoins dimpression quotidiens.
-- Contenu du colis: Hicorch compatibles 18XL cartouches remplacement pour epson 18 Xl multipack (T1811 T1812 T1813 T1814), 1 x Mode demploi, Paquet de 15 (6 Noir, 3 Cyan, 3 Magenta, 3 Jaune)
 - Hicorch compatibles 18XL cartouche dencre , ies puces intelligentes identifiant limprimante avec précision. Encre de haute qualité pour une impression fluide. Rendement de page élevé, économies de coûts. Facile à utiliser sans endommager limprimante.
+- Nous doffrir des images aux couleurs vives et des pages de texte claires, et de répondre à vos besoins dimpression quotidiens.
+- Grande capacité 18XL: 600 pages par encre 18XL noir, 450 pages par cartouches dencre couleur (18XL cyan, 18XL magenta , 18XL jaune) , ia couverture est de 5%. (dépend de limprimante et de lutilisation)
 - Imprimantes compatibles: Epson Expression Home XP-30, XP-102, XP-205, XP-212, XP-215, XP-225, XP-302, XP-305, XP-312, XP-315, XP-322, XP-325, XP-402, XP-405, XP-405WH, XP-412, XP-415, XP-422, XP-425, Epson Expression Home XP30, XP102, XP205, XP212, XP215, XP225, XP302, XP305, XP312, XP315, XP322, XP325, XP402, XP405, XP405WH, XP412, XP415, XP422, XP425
+- Contenu du colis: Hicorch compatibles 18XL cartouches remplacement pour epson 18 Xl multipack (T1811 T1812 T1813 T1814), 1 x Mode demploi, Paquet de 15 (6 Noir, 3 Cyan, 3 Magenta, 3 Jaune)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085WW7TKG/?tag=tolees0d-21)
