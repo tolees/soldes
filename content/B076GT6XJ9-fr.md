@@ -28,14 +28,14 @@ C'est en vente [HyperX HX-HSCA-RD Cloud Alpha - Casque Gaming avec control audio
 
 ℹ️:
 
-- Les transducteurs à chambre double HyperX génèrent un son cristallin et moins de distorsions acoustiques. Niveau de pression acoustique : 98dBSPL/mW à 1kHz
-- Microphone amovible à réduction de bruit, Compatible avec PC, PS4, Xbox One et dautres plateformes avec un port de 3,5 mm
-- Réponse en fréquence: 13Hz–27 000Hz
-- Longueur du câble: 1,3 m
-- Impédance: 65 Ω
-- Veuillez insérer complètement le câble audio en ligne dans loreillette
-- Confort certifié par Discord et TeamSpeak
 - Câble tressé amovible avec commandes audio en ligne
+- Veuillez insérer complètement le câble audio en ligne dans loreillette
+- Impédance: 65 Ω
+- Les transducteurs à chambre double HyperX génèrent un son cristallin et moins de distorsions acoustiques. Niveau de pression acoustique : 98dBSPL/mW à 1kHz
+- Réponse en fréquence: 13Hz–27 000Hz
+- Microphone amovible à réduction de bruit, Compatible avec PC, PS4, Xbox One et dautres plateformes avec un port de 3,5 mm
+- Longueur du câble: 1,3 m
+- Confort certifié par Discord et TeamSpeak
 - Cadre aluminium durable avec arceau élargi
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076GT6XJ9/?tag=tolees0d-21)
