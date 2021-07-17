@@ -28,12 +28,12 @@ C'est en vente [Samsung - Montre Galaxy Watch 3 R845 - 45 mm Version 4G - Mystic
 
 ℹ️:
 
-- Etanche IP68 et GPS intégré
 - Fonctionnalités sport et bien-être avancées : ECG, mesure de la tension artérielle et du taux d’oxygène dans le sang (SpO2)
-- Composants inclus : Galaxy Watch 3, bracelet en cuir, brins en taille M/L, socle de charge sans fil, guide de prise en main
+- Etanche IP68 et GPS intégré
 - personnalisation cadran et bracelet
 - Bluetooth 5.0
 - Compatibilité : Smartphones Android 5.0 et versions ultérieures avec 1,5 Go de RAM, iPhone5 et ultérieurs, iOS 9.0 et versions ultérieures
+- Composants inclus : Galaxy Watch 3, bracelet en cuir, brins en taille M/L, socle de charge sans fil, guide de prise en main
 - Design affirmé avec lunette rotative
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DY5PKZF/?tag=tolees0d-21)
