@@ -28,10 +28,10 @@ Vous avez [KidKraft 53198 Cuisine enfant en bois Home Cookin  jeu d imitation](h
 
 ℹ️:
 
-- Évier amovible facile à nettoyer
 - Fenêtres du four et du micro-ondes transparentes
 - Boutons fonctionnels sur le four et le robinet
 - Les portes du four et du microondes s’ouvrent et se ferment
+- Évier amovible facile à nettoyer
 - Rangement pratique au-dessus et en-dessous de l’évier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004HBWKII/?tag=tolees0d-21)

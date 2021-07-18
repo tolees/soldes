@@ -28,9 +28,9 @@ C'est en vente [La Noble Collection Le Médaillon De La Grotte](https://www.amaz
 
 ℹ️:
 
+- Pendentif avec compartiment intérieur.
 - Reproduction du faux Horcrux des films dHarry Potter.
 - Fabriqué en:- Chine
-- Pendentif avec compartiment intérieur.
 - Fourni avec une reproduction de la lettre du film.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001PAGGPW/?tag=tolees0d-21)
