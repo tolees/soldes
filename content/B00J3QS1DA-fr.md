@@ -28,9 +28,9 @@ C'est en vente [Varta - Piles alcalines Longlife AA  LR06   24 pack ](https://ww
 
 ℹ️:
 
-- Piles pour application simples avec un besoin dénergie constant
-- idéal pour la famille
 - Pour les torches, horloge, télécommande
+- idéal pour la famille
+- Piles pour application simples avec un besoin dénergie constant
 - Charge par paire nécessaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J3QS1DA/?tag=tolees0d-21)

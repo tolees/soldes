@@ -28,13 +28,13 @@ Vous avez [AVERY - Pochette de 960 étiquettes métalisées autocollantes ultra-
 
 ℹ️:
 
+- Indéchirables
 - Résistantes aux températures de -20° à +80°
+- Résistantes à lhuile, graisse, humidité
+- Matière Polyester
 - Code Logiciel : L6009
 - Résistantes aux variations de températures (-20°c +80°C)
-- Matière Polyester
-- Indéchirables
 - Impression laser
-- Résistantes à lhuile, graisse, humidité
 - Résistent à eau, humidité, UV
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0002S4DIU/?tag=tolees0d-21)

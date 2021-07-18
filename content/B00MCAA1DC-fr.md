@@ -29,8 +29,8 @@ C'est en vente [Canon PGI-550/CLI-551 Cartouches PGBK/C/M/Y/BK/GY Multipack Noir
 ℹ️:
 
 - Découvrez nos multipacks : ces packs contiennent plusieures cartouches et reviennent nettement moins cher que les cartouches achetées séparément.
+- Faites confiance aux véritables encres dorigine Canon pour obtenir une qualité optimale, des résultats durables et une fiabilité garantie
 - Taille de cartouche : Standard ; MultiPack ; Non Blistered
 - Pour : PIXMA iP8750, PIXMA MG6350, PIXMA MG7150, PIXMA MG7550
-- Faites confiance aux véritables encres dorigine Canon pour obtenir une qualité optimale, des résultats durables et une fiabilité garantie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MCAA1DC/?tag=tolees0d-21)

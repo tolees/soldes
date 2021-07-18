@@ -29,10 +29,10 @@ C'est en vente [Rexona Déodorant Femme Stick Anti-Transpirant Maximum Protectio
 ℹ️:
 
 - Lefficacité de ce stick anti-transpirant a été cliniquement prouvée
-- La meilleure protection REXONA contre la transpiration et les odeurs
-- Une formule douce pour la peau et avec un parfum frais
-- 3 x plus efficace contre la transpiration
-- Efficace toute la journée, même pendant les pics de transpiration *En comparaison à la gamme danti-transpirants aérosols REXONA
 - Le stick anti-transpirant femme REXONA Maximum Protection Confidence est ultra efficace pour réguler la transpiration excessive
+- Efficace toute la journée, même pendant les pics de transpiration *En comparaison à la gamme danti-transpirants aérosols REXONA
+- Une formule douce pour la peau et avec un parfum frais
+- La meilleure protection REXONA contre la transpiration et les odeurs
+- 3 x plus efficace contre la transpiration
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00763ABGC/?tag=tolees0d-21)
