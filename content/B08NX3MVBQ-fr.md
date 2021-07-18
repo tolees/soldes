@@ -28,10 +28,10 @@ C'est en vente [TAKRINK Webcam 1080P Webcaméra Cybercaméra Ordinateur Micropho
 
 ℹ️:
 
-- Webcam 1080P - La résolution vidéo de notre webcam est de 1920*1080, et vous donne une image stable en utilisant une fréquence dimages vidéo de 30FPS. La webcam est équipée dune fonction de mise au point automatique, qui permet dafficher une vidéo de qualité haute définition, nette et fluide.
-- Couverture privée et trépied - Notre webcam est équipée dune couverture privée et dun trépied, la couverture privée peut vous protéger contre lespionnage par des pirates. Vous pouvez utiliser le trépied pour poser votre caméra sur votre bureau.
+- Compatibilité - Notre webcam peut fonctionner avec Windows 2000/XP/win7 / win8 / win10 / Vista 32bit / Mac book / Android TV, Skype, Zoom, Facetime, Facebook, YouTube, Line, etc.
 - Annulation du bruit - Le microphone intégré est une stéréo numérique, avec une fonction dannulation du bruit, qui peut vous donner une expérience vidéo fantastique.
 - Interface USB et réglage automatique - Linterface USB peut rendre linstallation facile, vous pouvez la brancher sur votre ordinateur, portable, plus pratique. La webcam est autofocus et peut sajuster automatiquement en fonction de la luminosité.
-- Compatibilité - Notre webcam peut fonctionner avec Windows 2000/XP/win7 / win8 / win10 / Vista 32bit / Mac book / Android TV, Skype, Zoom, Facetime, Facebook, YouTube, Line, etc.
+- Webcam 1080P - La résolution vidéo de notre webcam est de 1920*1080, et vous donne une image stable en utilisant une fréquence dimages vidéo de 30FPS. La webcam est équipée dune fonction de mise au point automatique, qui permet dafficher une vidéo de qualité haute définition, nette et fluide.
+- Couverture privée et trépied - Notre webcam est équipée dune couverture privée et dun trépied, la couverture privée peut vous protéger contre lespionnage par des pirates. Vous pouvez utiliser le trépied pour poser votre caméra sur votre bureau.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NX3MVBQ/?tag=tolees0d-21)
