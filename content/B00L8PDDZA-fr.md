@@ -28,10 +28,10 @@ Vous avez [MOULINEX - Friteuses AM 480070 -](https://www.amazon.fr/dp/B00L8PDDZA
 
 ℹ️:
 
-- Filtre anti odeur
+- Capacité 2 Kg
 - Contenu de la livraison : Moulinex am4800 friteuse Mega, manuel dutilisation (langue française non garantie)
 - Nettoyage facile
+- Filtre anti odeur
 - Cuve amovible revêtement intérieur antiadhésif
-- Capacité 2 Kg
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00L8PDDZA/?tag=tolees0d-21)
