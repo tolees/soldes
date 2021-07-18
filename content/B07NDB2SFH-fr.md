@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.18 % rabais sur LEGO 75255 Star Wars Yoda  Ensemble de C'
-date: 2021-07-17 02:46:56
+date: 2021-07-18 03:24:32
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '18.18'
-average: '90.087613293051'
+average: '90.0873192771081'
 ---
 
 Vous avez [LEGO 75255 Star Wars Yoda  Ensemble de Construction  modèle à Collectionner avec présentoir  Collection L attaque des Clones](https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21)  à  18.18 % de réduction, prix final  89.99 EUR (original: 109.99 EUR) ici:
