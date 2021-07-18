@@ -30,8 +30,8 @@ Vous avez [Ravensburger - Jeu interactif tiptoi® - Le robot des chiffres - Jeux
 
 - tiptoi, c’est la promesse d’un jeu éducatif interactif sans écran ! Comment ça marche ? il suffit à lenfant de pointer le lecteur sur une image ou un texte. Et comme par magie, il entendra des sons, des dialogues et des musiques
 - Résolvez les opérations pour pouvoir nourrir Robi le nombrivore ! Ce jeu aide les enfants à faire leurs premiers pas vers lapprentissage des nombres, des premiers calculs et des formes
-- Autonomie et richesse d’apprentissage : tiptoi promet à votre enfant des heures de découverte et d’apprentissage en toute autonomie. Très facile à emporter partout, le lecteur possède même une prise casque ! Le volume sonore est réglable
 - Evolutif de 3 à 10 ans : une fois équipé du lecteur tiptoi, votre enfant peut découvrir d’autres thématiques qui le passionnent. Il existe une large collection de livres, jeux et globe, tous compatibles avec le lecteur tiptoi
+- Autonomie et richesse d’apprentissage : tiptoi promet à votre enfant des heures de découverte et d’apprentissage en toute autonomie. Très facile à emporter partout, le lecteur possède même une prise casque ! Le volume sonore est réglable
 - Fonctionne avec le lecteur tiptoi vendu séparément ! Ce livre interactif fonctionne uniquement avec le lecteur tiptoi et nécessite le téléchargement gratuit du fichier audio sur le site internet Ravensburger ou sur l’interface tiptoi manager
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TN1L9V6/?tag=tolees0d-21)

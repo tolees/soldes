@@ -28,10 +28,10 @@ C'est en vente [Joma Caire II Sweater Homme  Vert Fluo  M](https://www.amazon.fr
 
 ℹ️:
 
-- Liberté de circulation
-- Sweat-shirt conçu avec un col rond
 - Comprend une bordure sur le col, les manchettes et la ceinture pour un ajustage optimum
-- Intérieur en peluche qui apporte du confort
 - Logotype brodé
+- Intérieur en peluche qui apporte du confort
+- Sweat-shirt conçu avec un col rond
+- Liberté de circulation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NWZJZF7/?tag=tolees0d-21)

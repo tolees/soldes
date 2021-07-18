@@ -28,9 +28,9 @@ Vous avez [Maclaren Techno Xlr Arc Poussette - la Plus Grande Poussette Canne d�
 
 ℹ️:
 
+- Capote extensible upf 50+ visière solaire intégrée; capot avec une petite de surveillance
+- Compatible avec les sièges dauto les plus vendus de Cybex, Maxi Cosi, Britax, Concord et BeSafe. Adaptateurs vendus séparément, en Europe uniquement.
 - Poignée unique pour une conduite facile dune seule main - siège multipostions inclinable avec repos jambes
 - Inclus: chancelière, réducteur & coussins de protection pour les épaules et habillage pluie haut de gamme coupe vent;
-- Compatible avec les sièges dauto les plus vendus de Cybex, Maxi Cosi, Britax, Concord et BeSafe. Adaptateurs vendus séparément, en Europe uniquement.
-- Capote extensible upf 50+ visière solaire intégrée; capot avec une petite de surveillance
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WWLSTY/?tag=tolees0d-21)

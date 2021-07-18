@@ -28,10 +28,10 @@ Vous avez [Timberland Montres à quartz avec affichage analogique à cadran noir
 
 ℹ️:
 
-- Garantie fabricant 2 ans.
 - Livré dans une boîte de présentation
 - Homme
-- Étanche jusquà 5 ATM.
 - Quartz
+- Garantie fabricant 2 ans.
+- Étanche jusquà 5 ATM.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GFL3Y96/?tag=tolees0d-21)
