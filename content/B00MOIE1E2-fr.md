@@ -28,10 +28,10 @@ Vous avez [DELONGHI - De Longhi Autentica Machine expresso avec broyeur  technol
 
 ℹ️:
 
+- SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile avec écran LCD
 - DU GRAIN A LA TASSE : Lexpresso broyeur vous ouvre les portes du monde du café. Choisissez votre café en grains chez votre torréfacteur et découvrez de nouveaux terroirs et nouveaux arômes
 - LARGE CHOIX DE RECETTES : Profitez de 5 recettes café et lactées (expresso, double expresso, LONG, Doppio+, Cappuccino) en accès direct et plus encore grâce à la carafe LatteCrema System
-- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
-- SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile avec écran LCD
 - CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
+- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MOIE1E2/?tag=tolees0d-21)

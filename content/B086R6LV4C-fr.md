@@ -28,11 +28,11 @@ Vous avez [Belkin Station de recharge à induction 7 5 W pour iPhone  Apple Watc
 
 ℹ️:
 
-- Garantie de 2 ans et certification Qi
 - Lexception Belkin : fabricant daccessoires de rechargement sans fil leader sur le marché*
-- Chargeur fonctionnant avec l’iPhone 12, 12 Pro, 12 Pro Max, 11, 11 Pro, 11 Pro Max, XS, XS Max, XR, X, 8, 8 Plus, Apple Watch 5, 4, 3, 2, 1, AirPods 2, AirPods Pro
+- Recharge sans fil rapide de 7,5 W pour les iPhone et 5 W pour les Apple Watch et AirPods
 - Rechargement compatible avec la plupart des coques de protection légères en plastique de 3 mm dépaisseur max
 - Solution de charge sans fil et simultanée pour iPhone + Apple Watch + AirPods
-- Recharge sans fil rapide de 7,5 W pour les iPhone et 5 W pour les Apple Watch et AirPods
+- Chargeur fonctionnant avec l’iPhone 12, 12 Pro, 12 Pro Max, 11, 11 Pro, 11 Pro Max, XS, XS Max, XR, X, 8, 8 Plus, Apple Watch 5, 4, 3, 2, 1, AirPods 2, AirPods Pro
+- Garantie de 2 ans et certification Qi
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086R6LV4C/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Hoover Rc81 Rc25 Aspirateur Traineau sans Sac Cyclonique AAAA s
 
 ℹ️:
 
-- Performances optimales de nettoyage sur tous types de sols: AAAA
 - Grande capacité de la cassette: 2L avec vidage facile et hygiénique sans aucun contact avec la poussière
 - Technologie cyclonique: sépare efficacement les poussières Et Les saletés de lair pour une efficacité optimale et durable
 - Spécial animaux, parquet et moquettes: brosse spéciale cheveux et poils danimaux, brosse spéciale parquet et brosse spéciale tapis et moquette
 - Poignée ergonomique avec brosse meuble intégrée
+- Performances optimales de nettoyage sur tous types de sols: AAAA
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01CUONHHG/?tag=tolees0d-21)

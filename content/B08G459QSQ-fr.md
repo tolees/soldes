@@ -28,10 +28,10 @@ C'est en vente [LEGO 31201 Art Harry Potter Les blasons de Poudlard décor 
 
 ℹ️:
 
-- Cette pièce de plus de 40 cm² propose 4 options de construction et constitue une activité relaxante pour tous les passionnés de Harry Potter qui aiment les projets de loisirs créatifs.
-- Le set permet aux constructeurs de s’adonner à leur passion pour l’art, les loisirs créatifs et la saga Harry Potter, tout en se détendant. La bande-son incluse permet d’en apprendre plus sur les maisons tout en construisant.
-- Ce set LEGO de 4 249 pièces, qui contient 9 plaques support pour décoration murale, une tuile exclusive avec le logo Harry Potter, un cadre en briques, un élément de suspension unique et un outil à tuiles, est idéal pour se détendre.
 - Ce set LEGO Art Harry Potter Les blasons de Poudlard (31201) permet d’exprimer sa passion pour l’univers du jeune sorcier, tout en construisant et en exposant l’un des 4 blasons détaillés des maisons de Poudlard.
+- Le set permet aux constructeurs de s’adonner à leur passion pour l’art, les loisirs créatifs et la saga Harry Potter, tout en se détendant. La bande-son incluse permet d’en apprendre plus sur les maisons tout en construisant.
+- Cette pièce de plus de 40 cm² propose 4 options de construction et constitue une activité relaxante pour tous les passionnés de Harry Potter qui aiment les projets de loisirs créatifs.
+- Ce set LEGO de 4 249 pièces, qui contient 9 plaques support pour décoration murale, une tuile exclusive avec le logo Harry Potter, un cadre en briques, un élément de suspension unique et un outil à tuiles, est idéal pour se détendre.
 - Les instructions de qualité guident les constructeurs tout au long du projet et leur permettent de s’immerger dans l’univers de l’art, tout en se détendant grâce à une relaxation créative LEGO.
 - Superbes pièces à exposer sur un mur ou une étagère, les modèles LEGO Art offrent une expérience de construction gratifiante permettant aux adultes amateurs de loisirs créatifs de s’adonner à leur passion.
 - En créant et exposant cette décoration murale unique en mosaïques, les constructeurs rendent hommage à la magie et à l’aventure. Pour prolonger la détente, ils peuvent combiner 4 sets pour créer le blason ultime de Poudlard.
