@@ -28,9 +28,9 @@ C'est en vente [LEGO Hidden Side  La fête foraine hantée  Appli AR Games  Set 
 
 ℹ️:
 
-- Comprend 5 figurines : Jack, Parker, JB, Jimbo Loblo et Terry Top, plusieurs joueurs peuvent sengager dans des batailles épiques contre Tragico le Clown
 - Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 - Contient un modèle numérique interactif de fête foraine avec aux montagnes russes, une tour de chute et dautres éléments mobiles Option pour un seul ou plusieurs joueurs
+- Comprend 5 figurines : Jack, Parker, JB, Jimbo Loblo et Terry Top, plusieurs joueurs peuvent sengager dans des batailles épiques contre Tragico le Clown
 - L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
 - Le modèle de la fête foraine sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
 
