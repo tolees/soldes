@@ -29,8 +29,8 @@ C'est en vente [Philips Monitors Écran 272B8QJEB/00 68 58 cm  27 pouces   VGA
 ℹ️:
 
 - technologie ips : pour des images détaillées et un grand angle de 178°, technologie anti-scintillement
-- contenu de la livraison : écran 27 pouces philips 272b8qjeb 00 68,5 cm, câble vga, câble displayport, câble hdmi, câble audio, câble d’alimentation, cd d’installation, fiche de garantie
-- technologie low blue light, luminosité/constraste : 250 cd/m, 1000:1, ports : vga (analogique), hdmi 1.4, displayport 1.2, 2x usb 3.0, 2 x usb 2.0
 - dalle ips, qhd, écran mat avec temps de réponse de 5 ms, réglable en hauteur jusqu’à 130 mm, haut-parleurs intégrés, vesa 100x100, pied amovible
+- technologie low blue light, luminosité/constraste : 250 cd/m, 1000:1, ports : vga (analogique), hdmi 1.4, displayport 1.2, 2x usb 3.0, 2 x usb 2.0
+- contenu de la livraison : écran 27 pouces philips 272b8qjeb 00 68,5 cm, câble vga, câble displayport, câble hdmi, câble audio, câble d’alimentation, cd d’installation, fiche de garantie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BJJZ7KV/?tag=tolees0d-21)
