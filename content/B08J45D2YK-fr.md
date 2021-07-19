@@ -28,10 +28,10 @@ Vous avez [HP - Gaming OMEN Blast Casque avec câble USB  Audio Surround 7.1  Ar
 
 ℹ️:
 
-- Microphone : rétractable avec suppression du bruit
-- Connexion : USB
-- Commandes : en ligne, muet et et commandes multimédia
-- HP OMEN Command Center : oui
 - Dimensions : 11,7 x 19,9 x 22 cm
+- Commandes : en ligne, muet et et commandes multimédia
+- Connexion : USB
+- Microphone : rétractable avec suppression du bruit
+- HP OMEN Command Center : oui
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08J45D2YK/?tag=tolees0d-21)

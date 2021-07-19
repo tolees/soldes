@@ -28,10 +28,10 @@ C'est en vente [Iris Ohyama - Woozoo ® by Ohyama  Ventilateur tour / colonne tr
 
 ℹ️:
 
+- Oscillation horizontale jusquà 45 m et 90 ailettes réglables vers le haut et vers le bas pour sadapter parfaitement à vos besoins
 - Équipé de 2 modes "standard" et "brise rafraîchissante" en 3 niveaux de puissance dont la puissance minimale est adaptée pour un fonctionnement silencieux
+- Ventilateur Woozoo puissant (42 W) et fonctionnement silencieux (32 dB à puissance minimale) pour une large zone ventilée grâce à sa hauteur de ventilateur de 52 cm et à sa portée de 10 m
 - Livré avec une télécommande avec laquelle vous pouvez effecr les réglages à distance. Facile à transporter grâce à la ergonomique et à la place pour la télécommande
 - Minuterie avec démarrage automatique ou arrêt après 1 heure, 2 heures ou 4 heures dair soufflé continu
-- Ventilateur Woozoo puissant (42 W) et fonctionnement silencieux (32 dB à puissance minimale) pour une large zone ventilée grâce à sa hauteur de ventilateur de 52 cm et à sa portée de 10 m
-- Oscillation horizontale jusquà 45 m et 90 ailettes réglables vers le haut et vers le bas pour sadapter parfaitement à vos besoins
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VFRRB7H/?tag=tolees0d-21)
