@@ -28,10 +28,10 @@ C'est en vente [RDX Racedesign RDFAVX30798 Spoiler Avant Vario-X sur Mesure pour
 
 ℹ️:
 
+- En matière plastique polyuréthane, matériau utilisé pour les équipements dorigine
 - Spoiler avant innovant en 3 parties
 - RDX Spoiler Avant MERCEDES V-Classe W447 2014+ AMG-Line Rajout de pare chocs avant VARIO-X
 - Produit de qualité, Made in Germany - Montage vissé très simple sans collage
-- En matière plastique polyuréthane, matériau utilisé pour les équipements dorigine
 - Vissage uniquement par le bas, dans la partie non visible, ce qui permet de démonter à tout moment et en quelques minutes (par ex. en hiver)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DPDM1V3/?tag=tolees0d-21)
