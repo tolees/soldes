@@ -29,8 +29,8 @@ Vous avez [KODAK Pixpro FZ53 Appareils Photo Numériques 16.44 Mpix Zoom Optique
 ℹ️:
 
 - Longueur focale max : 140.0 millimeters
-- Zoom optique : 5.0 multiplier_x
-- Résolution du capteur optique : 16.44 megapixels
 - Capacité de stockage numérique : 8.0 MB
+- Résolution du capteur optique : 16.44 megapixels
+- Zoom optique : 5.0 multiplier_x
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CG62CCE/?tag=tolees0d-21)
