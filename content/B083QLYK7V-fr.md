@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Sécateur de jard avec 48.18 % rabais '
-date: 2021-07-14 06:04:41
+date: 2021-07-19 15:27:40
 image: 'https://m.media-amazon.com/images/I/41NsN-UPjOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.fr/dp/B083QLYK7V/?tag=tolees0d-21'
 descuento: '48.18'
-average: '46.2625'
+average: '46.336'
 ---
 
 C'est en vente [Bosch Home and Garden - Sécateur de jardin sans fil Bosch - EasyPrune  batterie 3 6 V  450 coupes/charge de batterie  dans une boîte en carton ](https://www.amazon.fr/dp/B083QLYK7V/?tag=tolees0d-21)  à  48.18 % de réduction, prix final  46.63 EUR (original: 89.99 EUR) ici:
@@ -29,8 +29,8 @@ C'est en vente [Bosch Home and Garden - Sécateur de jardin sans fil Bosch - Eas
 ℹ️:
 
 - Les outils de jardin de la gamme « Easy » Bosch : les assistants pratiques pour vos projets du quotidien
-- Recharge facile : Le câble micro USB permet de recharger l’outil partout. La LED indique quand la batterie est entièrement rechargée
 - Coupes franches et nettes : Le sécateur électrique coupe de manière nette les branches fines et épaisses et les lames en acier inoxydable favorisent la croissance saine des végétaux
+- Recharge facile : Le câble micro USB permet de recharger l’outil partout. La LED indique quand la batterie est entièrement rechargée
 - Coupe et élagage sans effort grâce à l’assistance électrique réglable : coupe facile de branches jusqu’à 25 mm d’épaisseur grâce au moteur électrique
 - Batterie endurante : Jusqu’à 450 coupes par charge grâce à la puissante batterie intégrée
 

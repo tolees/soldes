@@ -28,12 +28,12 @@ C'est en vente [LEGO® 4+ Toy Story 4™ L aventure de Buzz et la Bergère dans 
 
 ℹ️:
 
+- La maison mesure plus de 17 cm de haut, 25 cm de large et 12 cm de profondeur; le manège mesure plus de 6 cm de large et 7 cm de profondeur; la moufette mobile mesure plus de 14 cm de long et 3 cm de large
 - Un moyen daider son enfant à rejouer des scènes du film Toy Story passionnantes ou à créer ses propres histoires
 - Les ensembles LEGO Disney Pixar Toy Story 4 sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Cet ensemble comprend 3 figurines de Toy Story 4 : Buzz L’Eclair, La Bergère et Gabby Gabby
+- 139 pièces pour les filles et les garçons de 4 ans et plus
 - Les ensembles LEGO 4+ sont conçus pour être amusants et faciles pour les jeunes enfants; cela permet de développer leur confiance en eux avec des instructions de montage simples pour une entrée en douceur dans la construction en briques LEGO
 - Contruisez lensemble LEGO Pixar Toy Story 4 L’aventure de Buzz et la Bergère dans l’aire de jeu
-- 139 pièces pour les filles et les garçons de 4 ans et plus
-- La maison mesure plus de 17 cm de haut, 25 cm de large et 12 cm de profondeur; le manège mesure plus de 6 cm de large et 7 cm de profondeur; la moufette mobile mesure plus de 14 cm de long et 3 cm de large
+- Cet ensemble comprend 3 figurines de Toy Story 4 : Buzz L’Eclair, La Bergère et Gabby Gabby
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07J6B2S5Y/?tag=tolees0d-21)
