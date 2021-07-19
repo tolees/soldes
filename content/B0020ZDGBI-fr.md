@@ -28,10 +28,10 @@ Vous avez [Wacom Stylet Grip Pen pour Intuos Pro  Intuos 4/5  Cintiq et Cintiq C
 
 ℹ️:
 
+- Le stylet Grip Pen de Wacom avec 2 048 niveaux de sensibilité à la pression et sensible à linclinaison vous apporte maitrise et précision
+- Livraison : 1x Stylet Grip pen, Compatible avec: Génération précédente Intuos Pro (PTH-451, PTH-651, PTH-851), Intuos5 (tous les modèles), Intuos4 (tous les modèles), Cintiq 21UX (DTK2100), Cintiq 24HD, Cintiq 24HD touch, Cintiq 22HD, Cintiq 22HD touch, Cintiq 13HD, Cintiq Companion, Cintiq Companion Hybrid, Cintiq Pro et Mobile Studio Pro (tous les modèles)
 - Stylet sans pile et sans batterie, muni dune gomme et boutons latéraux personnalisables
 - Poids du stylet: 18g
-- Le stylet Grip Pen de Wacom avec 2 048 niveaux de sensibilité à la pression et sensible à linclinaison vous apporte maitrise et précision
 - Garantie Fabricant : 2 an(s)
-- Livraison : 1x Stylet Grip pen, Compatible avec: Génération précédente Intuos Pro (PTH-451, PTH-651, PTH-851), Intuos5 (tous les modèles), Intuos4 (tous les modèles), Cintiq 21UX (DTK2100), Cintiq 24HD, Cintiq 24HD touch, Cintiq 22HD, Cintiq 22HD touch, Cintiq 13HD, Cintiq Companion, Cintiq Companion Hybrid, Cintiq Pro et Mobile Studio Pro (tous les modèles)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0020ZDGBI/?tag=tolees0d-21)

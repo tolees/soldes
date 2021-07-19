@@ -29,9 +29,9 @@ C'est en vente [Bosch Professional 12V System Laser Lignes GLL 3-80 C  1 batteri
 ℹ️:
 
 - LIVRÉE AVEC : niveau Laser Lignes GLL 3-80 C, une batterie 12V, chargeur rapide, support universel BM 1, cellule de réception LR 7, support de cellule de réception, cible laser, housse, L-BOXX
-- Zone de travail avec récepteur: jusquà 120 m
-- MISES À NIVEAU SIMULTANÉES À LHORIZONTALE ET À LA VERTICALE : projette une ligne laser horizontale et deux lignes laser verticales, précision de lordre de ± 0,2 mm/m */**
 - DOUBLE ALIMANTATION : pour plus de flexibilité, lappareil peut fonctionner avec une 12 V ou des piles AA standard grâce à ladaptateur AA1
+- MISES À NIVEAU SIMULTANÉES À LHORIZONTALE ET À LA VERTICALE : projette une ligne laser horizontale et deux lignes laser verticales, précision de lordre de ± 0,2 mm/m */**
+- Zone de travail avec récepteur: jusquà 120 m
 - CAL GUARD : le voyant LED rouge avertit les utilisateurs déventuelles erreurs détalonnage, dont les détails sont disponibles sur lapplication pour smartphone
 - SIMPLY CONNECTED : utilisation de lapplication Bosch Levelling Remote qui permet de commander lappareil et de le régler à distance
 

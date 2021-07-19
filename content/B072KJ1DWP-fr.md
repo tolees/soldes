@@ -28,10 +28,10 @@ C'est en vente [Hoya Pro nd100000 Filtre de densité Neutre 77 mm](https://www
 
 ℹ️:
 
-- Créé pour photographier eclipses solaires
-- Construction de cadre : Aluminium
-- Filtre de Densité Neutre avec une réduction de la lumière de 16 3/5 Stops
-- Permet fotografíar dans des conditions normales avec une vitesse dobturation plus lente que la normale.
 - Nest pas valable pour regarder directement au soleil
+- Filtre de Densité Neutre avec une réduction de la lumière de 16 3/5 Stops
+- Créé pour photographier eclipses solaires
+- Permet fotografíar dans des conditions normales avec une vitesse dobturation plus lente que la normale.
+- Construction de cadre : Aluminium
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072KJ1DWP/?tag=tolees0d-21)

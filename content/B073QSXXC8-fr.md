@@ -28,10 +28,10 @@ Vous avez [Osram - Lot de 3 Ampoules LED Filament Sphérique - Culot E14 - 4 W E
 
 ℹ️:
 
-- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Angle de rayonnement : 320 degrees
 - Allumage instantané, pas de temps de préchauffage
 - Sans mercure
+- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres d’enfants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073QSXXC8/?tag=tolees0d-21)
