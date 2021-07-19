@@ -28,8 +28,8 @@ C'est en vente [Geberit - WC suspendu - Jeu de fixations murales Duofix](https:/
 
 ℹ️:
 
+- LIVRE AVEC : 2 fixations murales, 2 tiges filetées M10 avec écrou long, 2 supports dhabillage emboîtables, matériel de fixation.
 - CARACTERISTIQUES : Galvanisé, réglable en profondeur 13-20 cm.
 - Pour la fixation des bâti-supports Duofix devant un mur massif ou une cloison légère.
-- LIVRE AVEC : 2 fixations murales, 2 tiges filetées M10 avec écrou long, 2 supports dhabillage emboîtables, matériel de fixation.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000UW1M1Y/?tag=tolees0d-21)

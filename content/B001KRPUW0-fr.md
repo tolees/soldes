@@ -28,20 +28,20 @@ Vous avez [Brabantia 476181 Boîte pour dosettes à café Senseo Impression Sens
 
 ℹ️:
 
-- Facile à nettoyer, sans soudures, corps en acier inoxydable
-- Peut contenir jusquà 18 dosettes de café
-- Garantie: 10 an(s)
-- Boîte 18 dosettes
-- Système astucieux de distribution des dosettes
-- Couvercle hermétique doté dun joint en silicone, disponible en plusieurs coloris. Permet de distinguer vos différentes variétés de café.
 - Set détiquettes pour indiquer les variétés de café/thé
-- Couvercle rouge
+- Garantie: 10 an(s)
+- Peut contenir jusquà 18 dosettes de café
+- Couvercle hermétique doté dun joint en silicone, disponible en plusieurs coloris. Permet de distinguer vos différentes variétés de café.
+- Matière: Inox
+- Système délévateur pratique pour enlever facilement jusquà la dernière dosette de café /thé
 - Inox mat
-- Revêtement anti traces de doigt
+- Système astucieux de distribution des dosettes
+- Couvercle rouge
 - Une solution fonctionnelle et durable pour conserver larôme de vos sachets de thé et dosettes de café plus longtemps
 - Facile à nettoyer grâce à sa finition intérieure lisse et résiste au lave-vaisselle
-- Système délévateur pratique pour enlever facilement jusquà la dernière dosette de café /thé
-- Matière: Inox
+- Boîte 18 dosettes
 - Couleur: Inox/Mat
+- Facile à nettoyer, sans soudures, corps en acier inoxydable
+- Revêtement anti traces de doigt
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001KRPUW0/?tag=tolees0d-21)

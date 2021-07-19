@@ -28,8 +28,8 @@ C'est en vente [Panasonic WES9032Y1361 Jeu de Grille et de Lame pour Rasoir ES-L
 
 ℹ️:
 
-- Tête de rasoir
-- Compatible avec les modèles ES-LV65, es-lv67, ES-LV95, es-lv97
 - Grille/couteaux de rechange pour Rasoirs Panasonic
+- Compatible avec les modèles ES-LV65, es-lv67, ES-LV95, es-lv97
+- Tête de rasoir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FMBGA3I/?tag=tolees0d-21)

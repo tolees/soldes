@@ -28,10 +28,10 @@ C'est en vente [Emuca 3051205 Paire de coulisses/glissières à billes sortie to
 
 ℹ️:
 
-- Capacité de charge par jeu jusquà 35kg.
-- Coulisses à billes à sortie totale de longueur 400mm avec fermeture SOFT/amortie.
 - Fabriquées en acier Zingué.
 - Chaque lot comprend 5 paires de coulisses.
+- Capacité de charge par jeu jusquà 35kg.
+- Coulisses à billes à sortie totale de longueur 400mm avec fermeture SOFT/amortie.
 - Gâchette pour le démontage de la coulisse.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079QDMZ81/?tag=tolees0d-21)

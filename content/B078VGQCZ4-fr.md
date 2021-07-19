@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.05 % rabais sur Sony WH-CH700N Casque Sans Fil Bluetooth'
-date: 2021-06-26 18:03:20
+title: '66.68 % rabais sur Sony WH-CH700N Casque Sans Fil Bluetooth'
+date: 2021-07-19 05:43:14
 image: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,30 +12,30 @@ tags: [ 'Casques et écouteurs','Casques, écouteurs et accessoires','High-Tech'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95
-comparePrice: 79.99 EUR
+comparePrice: 179.9 EUR
 prodname: 'Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  avec Amazon Alexa Intégrée'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21'
-descuento: '25.05'
-average: '94.6350000000001'
+descuento: '66.68'
+average: '94.4910788381744'
 ---
 
-Vous avez [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  avec Amazon Alexa Intégrée](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)  à  25.05 % de réduction, prix final  59.95 EUR (original: 79.99 EUR) ici:
+Vous avez [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  avec Amazon Alexa Intégrée](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)  à  66.68 % de réduction, prix final  59.95 EUR (original: 179.9 EUR) ici:
 
 [![Sony WH-CH700N Casque Sans Fil Bluetooth](https://m.media-amazon.com/images/I/41AEZriyA-L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)
 
 ℹ️:
 
-- Ecouteurs pivotants pour un transport facile
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
-- Aimant: Néodyme
 - Appuyez sur le bouton NC pour activer la réduction de bruit
-- Sensibilités (dB/mW): 98 dB/mW
 - Entendez tout grâce aux diaphragmes de 40 mm
+- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
+- Ecouteurs pivotants pour un transport facile
 - Diffusion sans fil avec une connexion Bluetooth
 - Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
-- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
+- Sensibilités (dB/mW): 98 dB/mW
+- Aimant: Néodyme
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)

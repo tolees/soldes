@@ -30,8 +30,8 @@ Vous avez [UMBRA Ribbonwood clock. Horloge murale silencieuse Ribbonwood. En boi
 
 - À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
 - Conçu par la designer Michelle Ivankovic pour Umbra.
-- Le design particulièrement original de cette horloge lui confère un aspect résolument moderne et design. Les rubans de bois ont également quelque chose de floral. Cette horloge majestueuse apporet une touche très originale dans votre intérieur. Horloge en bois naturel et aiguilles noires. La créatrice de cette horloge a gagné le Lauréat du Concours de Design Etudiant de 2014 chez Umbra.
 - Horloge murale de qualité avec un Mécanisme de haute précision. Cette horloge utilise une pile de 1.5V AA non fournie.
 - Cette Horloge murale est pourvue dun Mécanisme de qualité, précis et silencieux, donc pas de tic tac! Les heures sont indiquées par les plis du ruban de bois.
+- Le design particulièrement original de cette horloge lui confère un aspect résolument moderne et design. Les rubans de bois ont également quelque chose de floral. Cette horloge majestueuse apporet une touche très originale dans votre intérieur. Horloge en bois naturel et aiguilles noires. La créatrice de cette horloge a gagné le Lauréat du Concours de Design Etudiant de 2014 chez Umbra.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LZLLFZW/?tag=tolees0d-21)
