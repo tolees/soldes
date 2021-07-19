@@ -28,10 +28,10 @@ Vous avez [Art 1068 City-leader Harlem  Escarpins Bout fermé femme - Rouge  Bur
 
 ℹ️:
 
+- Dessus : Autres Cuir
+- Fermeture : Lacets
 - Semelle intérieure : Fourrure
 - Matériau de semelle : Gomme / Synthétique
-- Fermeture : Lacets
 - Doublure : Fourrure
-- Dessus : Autres Cuir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NY8HT2W/?tag=tolees0d-21)
