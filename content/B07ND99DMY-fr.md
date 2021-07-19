@@ -30,10 +30,10 @@ C'est en vente [LEGO®-Hidden Side Le bus scolaire paranormal Jeu de Constructio
 
 - Les toilettes mobiles peuvent être transformées en monstre hanté lanceur de tuiles marron ; Lautorisation des parents est nécessaire pour pouvoir se connecter ; Application disponible en français
 - Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Ce jouet incluant une application de avec réalité augmentée comprend 6 personnages à decouvrir
 - Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
 - Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
 - Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
+- Ce jouet incluant une application de avec réalité augmentée comprend 6 personnages à decouvrir
 - Le bus scolaire paranormal à construire comprend un poste de commande et des canons « désenvoûteurs » qui se déploient, des scanners sur le toit et suffisamment de place pour accueillir 4 figurines
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ND99DMY/?tag=tolees0d-21)
