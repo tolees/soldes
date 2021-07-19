@@ -28,11 +28,11 @@ C'est en vente [Iris Ohyama - Woozoo ® by Ohyama  Ventilateur de bureau / de ta
 
 ℹ️:
 
-- Minuteur avec arrêt automatique après 1h, 2h ou 4h dair soufflé en continu.
-- Ainsi, le Woozoo peut couvrir jusqu’à 30m² de surface, idéal pour rafraîchir l’ensemble des pièces de votre maison.
-- Oscillation multidirectionnelle : de gauche à droite et/ou de haut en bas favorisant une meilleure répartition de l’air au sein de l’environnement.
 - Vendu avec une télécommande vous permettant deffectuer les réglages à distance.
+- Oscillation multidirectionnelle : de gauche à droite et/ou de haut en bas favorisant une meilleure répartition de l’air au sein de l’environnement.
+- Ainsi, le Woozoo peut couvrir jusqu’à 30m² de surface, idéal pour rafraîchir l’ensemble des pièces de votre maison.
 - Pâles tridimensionnelles au design breveté diffusant un jet d’air sous forme de spirale pouvant atteindre jusqu’à 25 m de distance.
+- Minuteur avec arrêt automatique après 1h, 2h ou 4h dair soufflé en continu.
 - Ventilateur design et ultra silencieux Woozoo, doté de 5 puissances réglables et une fonctionnalité "brise rafraîchissante".
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NC3GCLJ/?tag=tolees0d-21)

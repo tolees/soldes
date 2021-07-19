@@ -28,7 +28,7 @@ C'est en vente [Armor Lux  Caban "Cap Sizun" Homme  Bleu  Medium  Taille Fabrica
 
 ℹ️:
 
-- La marque de qualité
 - Depuis 1938
+- La marque de qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00GGPF1WK/?tag=tolees0d-21)
