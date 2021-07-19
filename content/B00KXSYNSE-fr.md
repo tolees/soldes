@@ -28,10 +28,10 @@ Vous avez [devolo Magic 2 LAN : Adaptateur CPL le plus rapide du monde  internet
 
 ℹ️:
 
-- HomeGrid Forum (HGF) Vitesse de transfert
-- Ethernet : 10 / 100 / 1000 Mbit/s
 - Auto MDI/X
-- IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3az, IEEE 802.1p
+- Ethernet : 10 / 100 / 1000 Mbit/s
+- HomeGrid Forum (HGF) Vitesse de transfert
 - Systèmes dexploitation pris en charge: Android 5.0, Windows 7, Mac OS X 10.9, iOS 9, Ubuntu-Linux 14.04
+- IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x, IEEE 802.3az, IEEE 802.1p
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KXSYNSE/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Customaccess AZ3183N Semi-carénage Modèle Anarchy Customacces 
 
 ℹ️:
 
-- Style sport.
-- Semi-carénage Modèle Anarchy Customacces. Style sport. Certifié TÜV. Fourni avec tout le matériel et les instructions nécessaires. Spécialement conçu pour Yamaha XV950 / R / Bolt. Fabriqué en matériau très résistant. Référence: AZ3183N; Couleur: Noir; Ada
-- Certifié TÜV.
 - 2 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Semi-carénage Modèle Anarchy Customacces. Style sport. Certifié TÜV. Fourni avec tout le matériel et les instructions nécessaires. Spécialement conçu pour Yamaha XV950 / R / Bolt. Fabriqué en matériau très résistant. Référence: AZ3183N; Couleur: Noir; Ada
+- Style sport.
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Certifié TÜV.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089DLV49K/?tag=tolees0d-21)
