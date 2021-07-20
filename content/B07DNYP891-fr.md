@@ -28,11 +28,11 @@ C'est en vente [Roccat Vulcan 120 - Clavier de Jeu Noir  gaming mécanique RGB  
 
 ℹ️:
 
-- Interrupteurs ROCCAT Titan – interrupteurs mécaniques tactiles marrons. Configuration requise: port USB 2.0, connexion Internet pour linstallation du pilote et Système dexploitation: Windows 10, Windows 7, Windows 8
 - Taux dinterrogation de 1000 Hz
 - Illumination AIMO – rétroéclairage RGB et effets de lumière LED
+- Repose-poignets détachable – attache magnétique, ergonomique et confortable
+- Interrupteurs ROCCAT Titan – interrupteurs mécaniques tactiles marrons. Configuration requise: port USB 2.0, connexion Internet pour linstallation du pilote et Système dexploitation: Windows 10, Windows 7, Windows 8
 - Anti-ghosting avancé – full n-key roller
 - Conception durable – composants robustes et interrupteurs résistants à la poussière
-- Repose-poignets détachable – attache magnétique, ergonomique et confortable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DNYP891/?tag=tolees0d-21)
