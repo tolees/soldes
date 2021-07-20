@@ -28,10 +28,10 @@ C'est en vente [Jamo S 803 160W Blanc Haut-Parleur - Hauts-parleurs  avec Fil  1
 
 ℹ️:
 
-- Gamme de fréquence: 57 - 26000 Hz
 - Nombre de lecteurs: 2. Technologie de connectivité: Avec fil. Puissance évaluée de RMS: 160 W
-- Sensibilité: 87 dB. Couleur du produit: Blanc
 - Jamo S 803. Utilisation recommandée: Haut-parleur
+- Gamme de fréquence: 57 - 26000 Hz
 - Impédance: 8 Ohm
+- Sensibilité: 87 dB. Couleur du produit: Blanc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079BF87DR/?tag=tolees0d-21)
