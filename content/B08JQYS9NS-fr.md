@@ -29,9 +29,9 @@ C'est en vente [deuter Aircontact Pro 55+15 SL Sac à dos de trekking pour fe
 ℹ️:
 
 - Ajustement confortable et fiable grâce au système dorsal de contact Aircontact, avec réparation maximale du poids sur les stabilisateurs de hanche grâce à la structure interne réglable
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Vous avez un trekking plus long devant vous et vous cherchez un sac à dos spacieux pour accueillir toutes vos affaires ? Vous souhaitez un équipement qui garantit spontanéité et flexibilité ? Alors, le sac Aircontact Pro de deuter est fait pour vous. L’Ai
 - 3 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Adaptation progressive de la longueur de dos grâce au système VariSlide
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQYS9NS/?tag=tolees0d-21)
