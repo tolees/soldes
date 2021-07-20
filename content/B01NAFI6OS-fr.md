@@ -28,11 +28,11 @@ Vous avez [Hansgrohe Mitigeur d Evier de Cuisine MySport M avec Bec Orientable 3
 
 ℹ️:
 
-- Universel, compatible tous systèmes de production deau chaude. Installation facile, manuel dinstallation et flexibles de raccordements fournis
-- Rotation du bec de 360° pour un grand confort dutilisation dans la cuisine
 - Robinet de cuisine finition Acier brossé : résistance accrue et design contemporain
-- Garantie totale de 5 ans par le fabricant
-- Cartouche brevetée Hansgrohe pour une sélection facile et précise de la température : 2 vitesses de débits, une butée à mi-parcours permet de limiter le débit, et faire réaliser des économies deau et dénergie
 - Hauteur totale de 26,9cm (poignée de débit ouverte), hauteur sous bec de 15,5cm
+- Cartouche brevetée Hansgrohe pour une sélection facile et précise de la température : 2 vitesses de débits, une butée à mi-parcours permet de limiter le débit, et faire réaliser des économies deau et dénergie
+- Rotation du bec de 360° pour un grand confort dutilisation dans la cuisine
+- Garantie totale de 5 ans par le fabricant
+- Universel, compatible tous systèmes de production deau chaude. Installation facile, manuel dinstallation et flexibles de raccordements fournis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NAFI6OS/?tag=tolees0d-21)

@@ -29,12 +29,12 @@ C'est en vente [LEGO Ma première Minnie à Construire](https://www.amazon.fr/dp
 ℹ️:
 
 - Pour imaginer des jeux de rôle amusants et raconter des histoires avec ce personnage emblématique de Disney en aidant son enfant à développer son langage et ses compétences sociales et émotionnelles
-- Les possibilités illimitées de jeu créatif des jouets éducatifs LEGO DUPLO permettent aux tout-petits de devenir des penseurs créatifs
-- Comprend un ruban pour les cheveux et une tenue interchangeable supplémentaire pour Minnie Mouse
-- Mesure plus de 15 cm de haut 9 cm de large et 5 cm de profondeur
-- Un moyen daider son enfant à apprendre à construire et à développer sa motricité fine avec ce puzzle simple
-- Ce jouet Minnie Mouse LEGO DUPLO l Disney Juniors est un cadeau idéal pour les enfants d’ ge préscolaire
 - Comprend un puzzle Minnie Mouse 3D de Disney Juniors à construire
+- Les possibilités illimitées de jeu créatif des jouets éducatifs LEGO DUPLO permettent aux tout-petits de devenir des penseurs créatifs
+- Ce jouet Minnie Mouse LEGO DUPLO l Disney Juniors est un cadeau idéal pour les enfants d’ ge préscolaire
+- Comprend un ruban pour les cheveux et une tenue interchangeable supplémentaire pour Minnie Mouse
+- Un moyen daider son enfant à apprendre à construire et à développer sa motricité fine avec ce puzzle simple
+- Mesure plus de 15 cm de haut 9 cm de large et 5 cm de profondeur
 - Les produits LEGO DUPLO sont amusants et spécialement conçus pour les petites mains
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN17DF/?tag=tolees0d-21)

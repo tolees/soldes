@@ -28,13 +28,13 @@ C'est en vente [realme C21 Telephone Portable Smartphone Debloqué et Batterie m
 
 ℹ️:
 
+- Appareil photo triple IA de 13 MP: Un appareil photo triple IA de 13 MP capture les détails de notre monde illuminé. Lappareil photo principal de 13 MP permet de prendre des photos plus nettes et plus lumineuses, tandis que lobjectif macro de 2 MP est parfait pour les gros plans détaillés. Paysages, portraits, prises de vue macro... les possibilités sont infinies
+- Design artistique géométrique: Le design audacieux à hachures croisées est à la mode et fonctionnel : il a un fort impact visuel tout en protégeant contre les traces de doigts. Choisissez entre bleu croisé et noir croisé
 - Capteur dempreintes digitales instantané: Le capteur dempreintes digitales fiable déverrouille votre téléphone rapidement et en toute sécurité, chaque fois que vous en avez besoin
 - Processeur de jeu Helio G35: Avec la technologie HyperEngine, le puissant processeur G35 garantit des performances fluides tout au long du jeu, quelle qu’en soit la durée. La vitesse de pointe sur le G35 peut atteindre 2,3 GHz
-- Appareil photo triple IA de 13 MP: Un appareil photo triple IA de 13 MP capture les détails de notre monde illuminé. Lappareil photo principal de 13 MP permet de prendre des photos plus nettes et plus lumineuses, tandis que lobjectif macro de 2 MP est parfait pour les gros plans détaillés. Paysages, portraits, prises de vue macro... les possibilités sont infinies
-- "Le premier smartphone de lindustrie a avoir obtenu Smartphone certifié haute fiabilité par TÜV Rheinland"
-- Emplacement pour 3 cartes: Doté de deux emplacements SIM et dun emplacement microSD pour un stockage extensible jusquà 256 Go
 - Batterie massive de 5 000 mAh: Cette batterie ultra longue durée vous permet de faire face aux défis de la vie. Optimisez votre journée au maximum grâce à cette batterie massive de 5000mAh
-- Design artistique géométrique: Le design audacieux à hachures croisées est à la mode et fonctionnel : il a un fort impact visuel tout en protégeant contre les traces de doigts. Choisissez entre bleu croisé et noir croisé
+- "Le premier smartphone de lindustrie a avoir obtenu Smartphone certifié haute fiabilité par TÜV Rheinland"
 - Plein écran Mini-drop de 6,5 pouces: Le grand écran HD+ nest quune raison de plus daimer ce téléphone. Que vous jouiez ou que vous regardiez des vidéos, le plein écran Mini-drop vous offre une expérience plus immersive
+- Emplacement pour 3 cartes: Doté de deux emplacements SIM et dun emplacement microSD pour un stockage extensible jusquà 256 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B091GZVJ49/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [GLORIA Thermoflamm BIO Fix | Désherbeur électrique | Manipulat
 
 ℹ️:
 
+- ÉFFICACITÉ : La spirale chauffante, avec une surface de rayonnement de 150cm², chauffe en 30 secondes jusquà 800°C. La chaleur fait bouillir le liquide cellulaire de la plante jusquaux racines
+- SÉCURITÉ CERTIFIÉE : Une plaque de protection thermique intégrée et des réflecteurs en acier inoxydable assurent une protection thermique optimale pour une utilisation en toute sécurité
 - ERGONOMIQUE : Le désherbant de 122 cm de long est facile à utiliser avec une poignée ergonomique confortable. 4 roues de guidage permettent une posture aisée sans avoir à soulever la machine
 - QUALITÉ : GLORIA est synonyme dinnovation - pulvérisateurs, outils de jardin et protection contre les mauvaises herbes. Avec une garantie de 10 ans sur les pièces de rechange de tous les produits
-- SÉCURITÉ CERTIFIÉE : Une plaque de protection thermique intégrée et des réflecteurs en acier inoxydable assurent une protection thermique optimale pour une utilisation en toute sécurité
-- ÉFFICACITÉ : La spirale chauffante, avec une surface de rayonnement de 150cm², chauffe en 30 secondes jusquà 800°C. La chaleur fait bouillir le liquide cellulaire de la plante jusquaux racines
 - ÉCOLOGIQUE ET DURABLE : Le brûleur de mauvaises herbes écologique fonctionne sans aucune substance chimique nocive comme le glyphosate et est donc sans danger pour les animaux de compagnie et durable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JGY67PY/?tag=tolees0d-21)
