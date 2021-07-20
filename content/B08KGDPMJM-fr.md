@@ -28,10 +28,10 @@ Vous avez [LEDVANCE Lumière de jardin LED intelligente avec technologie WiFi  p
 
 ℹ️:
 
-- Contrôlable via lapplication LEDVANCE SMART+ (avec Android 6.0 et versions ultérieures)
-- Contrôle des couleurs RVB, env. 16 millions doptions de couleurs réglables
-- Gradable
 - Installation facile et rapide
+- Gradable
+- Contrôle des couleurs RVB, env. 16 millions doptions de couleurs réglables
+- Contrôlable via lapplication LEDVANCE SMART+ (avec Android 6.0 et versions ultérieures)
 - Indice de protection (alimentation): IP44
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KGDPMJM/?tag=tolees0d-21)
