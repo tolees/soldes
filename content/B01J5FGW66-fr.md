@@ -28,10 +28,10 @@ Vous avez [Philips GC8735/80 Centrale vapeur PerfectCare Performer 6 5 bar effet
 
 ℹ️:
 
-- Légère et compacte, facile à ranger
-- Elimine facilement les faux plis grâce à un débit vapeur de 120g et un effet pressing de 420g
 - Système anticalcaire Smart CalcClean : Réceptacle fourni pour éliminer régulièrement les résidus de calcaire de la semelle
 - Technologie sans réglage Optimale : une combinaison idéale de vapeur et de température, sure pour tous vos vêtements
+- Légère et compacte, facile à ranger
 - Réservoir détachable de 1,8L pour 2 heures de repassage sans interruption
+- Elimine facilement les faux plis grâce à un débit vapeur de 120g et un effet pressing de 420g
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21)

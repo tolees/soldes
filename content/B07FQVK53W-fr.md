@@ -28,10 +28,10 @@ C'est en vente [FeiyuTech G6-Plus Stabilisateur universel pour appareil photo  c
 
 ℹ️:
 
+- Lappareil photo peut être des objets, reconnaissez avec précision les objectifs du visage et le zoom de mise au point tout en prenant en charge le suivi de la sélection dobjets par téléphone.
+- Lécran oléophobe affiche clairement létat de lappareil.
 - Onexion-Wifi à un appareil compatible pour contrôler la photographie, la prise de vue, le suivi de la mise au point, le zoom, le réglage de la sensibilité, la balance des blancs, la valeur dexposition et les fonctions de mode de commutation de trois marques de caméras professionnelles et GoPro.
 - Lorsque vous connectez au Wi-Fi, G6Plus peut contrôler la caméra pour régler la mise au point, changer le mode de prise de vue, sélectionner la résolution; déclencher avec une seule main, libérer une main de vous.
 - Facile à utiliser avec appareil photo numérique à lentilles interchangeables, appareil photo sans miroir, appareil photo de poche, GoPro et téléphones portables; Canon M10 + 15-45Lens; Canon G3X; Sony RX0; Sony RX100; Sony A6300 + 16-50Lens; Sony A6300 + 28-70Lens; Sony A6500 + 16-50Lens; Sony A6500 + 28-70Lens; Canon 100 15-45 verres; Panasonic Lx10; Panasonic G4; série Gopro Hero; smartphone intelligent et avec de nombreux types dappareils photo dans 800 g. Le trépied et la tige dextension sont inclus
-- Lécran oléophobe affiche clairement létat de lappareil.
-- Lappareil photo peut être des objets, reconnaissez avec précision les objectifs du visage et le zoom de mise au point tout en prenant en charge le suivi de la sélection dobjets par téléphone.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FQVK53W/?tag=tolees0d-21)

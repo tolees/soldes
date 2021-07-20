@@ -28,10 +28,10 @@ C'est en vente [GF Garden Solaire Sunny Style  Douche de Jardin  Piscine  pour l
 
 ℹ️:
 
-- Système breveté
 - La douche solaire Sunny exploit l’énergie des rayons solaires pour produire de l’eau chaude et distribuer nombreuses douches chaudes, avec température réglable, grâce au mélangeur y inclus
 - Fabriqué en Italie
-- Sunny Style est une douche de jardin équipé d’un mélangeur d’eau froide et chaude, base/réservoir stable et sure, régulateur de pression avec soupape de sécurité, nez de robinet 3/4", hauteur max 2 mètres
 - Breathable leather lining
+- Système breveté
+- Sunny Style est une douche de jardin équipé d’un mélangeur d’eau froide et chaude, base/réservoir stable et sure, régulateur de pression avec soupape de sécurité, nez de robinet 3/4", hauteur max 2 mètres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00S1GMGZW/?tag=tolees0d-21)

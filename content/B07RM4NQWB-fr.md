@@ -28,10 +28,10 @@ Vous avez [XYZprinting DaVinci 3FNAXXEU02K Imprimante 3D Da Vinci Nano - Blanc -
 
 ℹ️:
 
-- Une imprimante 3D légère très compacte, conçue très conviviale, en particulier pour lentrée de gamme.Nano a une taille de construction de 12x12x12 sm.De taille compacte, le Nano est facilement manoeuvrable autour de votre maison, école ou bureau.C’est l’
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Imprimante 3D entièrement assemblée.Comprend 300 g de filament PLA (dune valeur de 12) et des outils de maintenance (dune valeur de 15);Dimensions dimpression: 12 x 12 x 12 cm
 - 3 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Une imprimante 3D légère très compacte, conçue très conviviale, en particulier pour lentrée de gamme.Nano a une taille de construction de 12x12x12 sm.De taille compacte, le Nano est facilement manoeuvrable autour de votre maison, école ou bureau.C’est l’
 - Caractéristiques: Impression facile à utiliser, portable, légère et sûre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RM4NQWB/?tag=tolees0d-21)
