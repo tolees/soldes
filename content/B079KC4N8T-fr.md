@@ -28,10 +28,10 @@ Vous avez [Polly Pocket GCJ86 Coffret Univers le Sac à Boutiques avec 2mini-fig
 
 ℹ️:
 
-- Chaque coffret univers polly pocket est si compact quon peut emmener polly partout à laventure
 - Les coffrets univers polly pocket offrent un tout nouvel espace de vie et daventures à polly et ses amis
-- Chaque coffret univers polly pocket souvre sur un univers thématique recelant des surprises avec des mini-figuries de 2,5 cm et des accessoire
-- Découvrez de nouvelles façons de jouer avec polly pocket et partez à laventure et à la découverte de nouveaux endroits grâce à ces coffrets univers
 - La technologie polly stick vous permet de coller les poupées nimporte où sur le compact
+- Chaque coffret univers polly pocket souvre sur un univers thématique recelant des surprises avec des mini-figuries de 2,5 cm et des accessoire
+- Chaque coffret univers polly pocket est si compact quon peut emmener polly partout à laventure
+- Découvrez de nouvelles façons de jouer avec polly pocket et partez à laventure et à la découverte de nouveaux endroits grâce à ces coffrets univers
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079KC4N8T/?tag=tolees0d-21)

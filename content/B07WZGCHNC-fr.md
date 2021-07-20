@@ -28,10 +28,10 @@ C'est en vente [Iris Ohyama - Woozoo ® by Ohyama  Ventilateur de bureau / de ta
 
 ℹ️:
 
-- Utilisation 4 saisons en hiver le ventilateur répartit de manière plus homogène la chaleur émise par des radiateurs ainsi vous consommez moins dénergie et réalisez des économies
-- Ventilateur de table woozoo doté de 3 puissances dair disponibles à la fois compact puissant et silencieux
-- Inclinaison à 360° en hauteur ou au sol le jet dair diffusé est parfaitement orienté à vos besoins
 - De jour comme de nuit à puissance minimale ce ventilateur diffuse un jet dair puissant mais parfaitement silencieux
 - Hélices 3D brevetées le ventilateur diffuse un jet dair sous forme de spirale ce qui favorise une meilleure répartition de lair frais au sein de la pièce
+- Ventilateur de table woozoo doté de 3 puissances dair disponibles à la fois compact puissant et silencieux
+- Utilisation 4 saisons en hiver le ventilateur répartit de manière plus homogène la chaleur émise par des radiateurs ainsi vous consommez moins dénergie et réalisez des économies
+- Inclinaison à 360° en hauteur ou au sol le jet dair diffusé est parfaitement orienté à vos besoins
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WZGCHNC/?tag=tolees0d-21)

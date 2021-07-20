@@ -28,15 +28,15 @@ C'est en vente [Rowenta X-Plorer Serie 60 Aspirateur robot  Navigation méthodiq
 
 ℹ️:
 
-- COMMANDES POLYVALENTES : 3 modes de navigation (Méthodique, Précision, Long des murs) pour traquer la poussière partout et un mode silencieux avec un niveau sonore ne dépassant pas les 65 dB(A)
-- Réparabilité 15 ans, Garantie 2 ans
+- DESIGN COMPACT ULTRA-FIN : un aspirateur automatique de 6 cm de hauteur seulement, ultra-fin pour couvrir toutes les surfaces de votre maison, même sous les meubles bas et les zones difficiles d’accès
+- CONNECTIVITÉ SÉCURISÉE : lapplication gratuite dédiée (sur iOS et Android) est compatible avec les assistants vocaux Alexa d’Amazon et Google Assistant, données protégées et stockées en Europe
+- CONCU POUR LES PERSONNES ALLERGIQUES : grâce à son filtre haute efficacité, il capture jusqu’à 99,9 % des particules fines et sa lingette électrostatique antiallergique capture les particules les plus fines
 - AUTONOMIE LONGUE DURÉE : batterie lithium-ion ultra-performante et durable offrant jusqu’à 90 minutes de marche
 - ACCESSOIRES FOURNIS : 1 support lingette + 2 lingettes usage courant
-- EFFICACE SUR TOUTES LES SURFACES : la fonction Auto Boost ajuste automatiquement le niveau de puissance de nettoyage sur les tapis ou moquettes
-- CONCU POUR LES PERSONNES ALLERGIQUES : grâce à son filtre haute efficacité, il capture jusqu’à 99,9 % des particules fines et sa lingette électrostatique antiallergique capture les particules les plus fines
-- NAVIGATION METHODIQUE : grâce à sa technologie gyroscope combiné dune caméra latérale et de capteurs infrarouges il navigue en toute sécurité et donne sa localisation en temps réel sur lapplication grâce à une carte gyroscopique
 - NETTOYAGE 4-EN-1 : deux brosses latérales pour les recoins et zones difficiles d’accès, une Turbobrosse pour les poils et tapis/moquettes, un moteur BLDC pour une aspiration puissante et le système Aqua Force pour laver les sols aspirés
-- CONNECTIVITÉ SÉCURISÉE : lapplication gratuite dédiée (sur iOS et Android) est compatible avec les assistants vocaux Alexa d’Amazon et Google Assistant, données protégées et stockées en Europe
-- DESIGN COMPACT ULTRA-FIN : un aspirateur automatique de 6 cm de hauteur seulement, ultra-fin pour couvrir toutes les surfaces de votre maison, même sous les meubles bas et les zones difficiles d’accès
+- EFFICACE SUR TOUTES LES SURFACES : la fonction Auto Boost ajuste automatiquement le niveau de puissance de nettoyage sur les tapis ou moquettes
+- NAVIGATION METHODIQUE : grâce à sa technologie gyroscope combiné dune caméra latérale et de capteurs infrarouges il navigue en toute sécurité et donne sa localisation en temps réel sur lapplication grâce à une carte gyroscopique
+- COMMANDES POLYVALENTES : 3 modes de navigation (Méthodique, Précision, Long des murs) pour traquer la poussière partout et un mode silencieux avec un niveau sonore ne dépassant pas les 65 dB(A)
+- Réparabilité 15 ans, Garantie 2 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0837JMM9T/?tag=tolees0d-21)

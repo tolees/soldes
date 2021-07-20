@@ -28,8 +28,8 @@ C'est en vente [adidas Continental 80  Chaussures de Fitness Homme  Blanc  Ftwbl
 
 ℹ️:
 
+- Tige en cuir lisse
 - Chaussures de sport
 - Style vintage
-- Tige en cuir lisse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K1GYHWN/?tag=tolees0d-21)
