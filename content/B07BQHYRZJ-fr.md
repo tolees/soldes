@@ -28,10 +28,10 @@ C'est en vente [Einhell Palan électrique TC-EH 600  1050W   Hauteur d élévati
 
 ℹ️:
 
-- Le palan électrique TC-EH 600 est une aide puissante dont la sécurité a été particulièrement travaillée
-- Un frein automatique protège la charge en toute situation
-- Fixation facile de l’outil avec 2 pattes doubles livrées en série
-- Le moteur avec disjoncteur thermique garantit une longue durée de vie
 - Interrupteur d’arrêt d’urgence pour encore plus de sécurité
+- Fixation facile de l’outil avec 2 pattes doubles livrées en série
+- Un frein automatique protège la charge en toute situation
+- Le palan électrique TC-EH 600 est une aide puissante dont la sécurité a été particulièrement travaillée
+- Le moteur avec disjoncteur thermique garantit une longue durée de vie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BQHYRZJ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Lenovo V50t 13IMB PC de bureau  Intel Core i3  8 Go RAM  256 Go 
 
 ℹ️:
 
-- Lessentiel au quotidien pour votre entreprise
+- Informatique grand public pour une variété dutilisations professionnelles
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Ce bureau de 13,6 litres au tout nouveau design en finition noire et métallisée Iron Grey peut moderniser nimporte quel espace. Équipé de puissants processeurs Intel, de fonctionnalités de sécurité physiques et basées sur le BIOS et dune technologie de
 - 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Informatique grand public pour une variété dutilisations professionnelles
+- Lessentiel au quotidien pour votre entreprise
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08R7DVRCL/?tag=tolees0d-21)
