@@ -28,10 +28,10 @@ C'est en vente [ZWILLING Bloc de Couteaux Magnétique pour un Set Complet  Bambo
 
 ℹ️:
 
-- Support stable grâce aux picots en caoutchouc antidérapants sous la base, Poids élevé (2 kg env.) et conception astucieuse (Dimensions de la base : 16,5 x 30 cm), Produit naturel : écarts de couleur possibles
-- Toujours à portée de main : Support à couteaux en bambou naturel pour un rangement élégant et pratique des couteaux en acier de toute taille, Couteaux non inclus
+- Stockage pratique et peu encombrant des couteaux : à la verticale ou à lhorizontale pour un set complet avec une longueur de lame de 20 cm maximum (recommandé)
 - Contenu : 1 x Bloc de couteaux magnétique ZWILLING, Couteaux non inclus, Dimensions (LxlxH) : 16,5 x 30 x 20,8 cm, Poids : 2,035 kg, Matériau : Bambou, Couleur : Naturel, 35046-110-0
 - Bandes magnétiques robustes intégrées pour lentreposage sûr et hygiénique des jeux de couteaux à lavant du bloc (30 x 18,5 cm), Sans affûtage des lames
-- Stockage pratique et peu encombrant des couteaux : à la verticale ou à lhorizontale pour un set complet avec une longueur de lame de 20 cm maximum (recommandé)
+- Support stable grâce aux picots en caoutchouc antidérapants sous la base, Poids élevé (2 kg env.) et conception astucieuse (Dimensions de la base : 16,5 x 30 cm), Produit naturel : écarts de couleur possibles
+- Toujours à portée de main : Support à couteaux en bambou naturel pour un rangement élégant et pratique des couteaux en acier de toute taille, Couteaux non inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0080GW5WM/?tag=tolees0d-21)

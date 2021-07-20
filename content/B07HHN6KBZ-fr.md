@@ -28,9 +28,9 @@ Vous avez [PROCESSEUR INTEL i79700K Coffee Lake R LGA1151 3.6Ghz/12M BX80684I797
 
 ℹ️:
 
-- Prises en charge: FCLGA1151
-- Produit destin aux joueurs exigeants
 - Temperature maximale: 212 F / 100 ° C
+- Produit destin aux joueurs exigeants
 - Fréquence de base graphique :350 MHz
+- Prises en charge: FCLGA1151
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HHN6KBZ/?tag=tolees0d-21)

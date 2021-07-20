@@ -28,10 +28,10 @@ C'est en vente [Douceur d Intérieur 6TCA055BC Fond de Baignoire Motif Galets Bl
 
 ℹ️:
 
-- <b> Couleur </b>: Blanc
-- Collection VITAMINE
-- dim. 69x36cm - propriété antidérapant
-- <b> Dimensions </b>: 69 x 36 x 1 cm
 - <b>Description du produit</b>: Fond de baignoire motif galets
+- dim. 69x36cm - propriété antidérapant
+- Collection VITAMINE
+- <b> Couleur </b>: Blanc
+- <b> Dimensions </b>: 69 x 36 x 1 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00UCO1FIU/?tag=tolees0d-21)

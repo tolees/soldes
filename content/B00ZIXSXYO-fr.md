@@ -29,7 +29,7 @@ Vous avez [Tommy Hilfiger Original 1x1 Rib CN Knit l/s T-Shirt  Noir  Tommy Blac
 ℹ️:
 
 - Permanent
-- COTON
 - 2021
+- COTON
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZIXSXYO/?tag=tolees0d-21)

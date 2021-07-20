@@ -28,8 +28,8 @@ Vous avez [Olaplex No. 3 Hair Perfector Soin capillaire perfecteur et réparate
 
 ℹ️:
 
-- Renforce tous les types de cheveux.
 - Restaure les liaisons capillaires.
 - Possède des propriétés hydratantes.
+- Renforce tous les types de cheveux.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00SNM5US4/?tag=tolees0d-21)
