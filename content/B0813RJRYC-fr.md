@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42115 Technic Lamborghini Sián FKP  avec 28.51 % rabais '
-date: 2021-07-09 22:23:08
+title: 'LEGO 42115 Technic Lamborghini Sián FKP  avec 28.51 % rabais '
+date: 2021-07-20 21:57:44
 image: 'https://m.media-amazon.com/images/I/51AEfic4w2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,30 +13,28 @@ actualPrice: 271.67 EUR
 currency: EUR
 price: 271.67
 comparePrice: 379.99 EUR
-prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37 Voiture de Course  Set avancé pour Adultes  modèle de Collection'
+prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37 Voiture de Course  Set avancé pour Adultes  modèle de Collection'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21'
 descuento: '28.51'
-average: '326.374086956523'
+average: '326.137272727274'
 ---
 
-C'est en vente [LEGO 42115 Technic Lamborghini Sián FKP 37 Voiture de Course  Set avancé pour Adultes  modèle de Collection](https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21)  à  28.51 % de réduction, prix final  271.67 EUR (original: 379.99 EUR) ici:
+C'est en vente [LEGO 42115 Technic Lamborghini Sián FKP 37 Voiture de Course  Set avancé pour Adultes  modèle de Collection](https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21)  à  28.51 % de réduction, prix final  271.67 EUR (original: 379.99 EUR) ici:
 
-[![LEGO 42115 Technic Lamborghini Sián FKP ](https://m.media-amazon.com/images/I/51AEfic4w2L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21)
+[![LEGO 42115 Technic Lamborghini Sián FKP ](https://m.media-amazon.com/images/I/51AEfic4w2L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21)
 
 ℹ️:
 
-- Élaboré dans des tons vert citron vifs avec des jantes dorées et des éléments décorés, ce modèle de voiture constructible à l’échelle 1:8 mesure plus de 13 cm de haut, 60 cm de long et 25 cm de large.
-- Propulsé par la passion ! Pas besoin de piles pour ce set LEGO Technic. Ainsi, il est possible de commencer à construire sans attendre.
-- Les sets LEGO Technic, avec leurs designs élégants et leurs fonctions réalistes, proposent une expérience de construction enrichissante et des modèles aux caractéristiques impressionnantes.
-- Ce set LEGO Technic, doté dune boîte séquentielle à 8 rapports, dun aileron arrière, dun capot et dun coffre qui souvrent, de freins à disque détaillés et de jantes dorées, permet de découvrir tous les détails de la véritable Lamborghini Sián FKP 37.
-- Conçu spécialement pour les amateurs de voitures de sport, ce set de construction LEGO Technic avancé aux détails fascinants est livré avec un socle décoratif permettant d’exposer la voiture, et un numéro de série unique pour débloquer du contenu numérique exclusif.
-- Les sets LEGO Technic sont conformes aux normes industrielles les plus élevées, ce qui garantit que les éléments sassemblent facilement.
-- Le set LEGO Technic Lamborghini Sián FKP 37 (42115) propose une expérience de construction immersive. Une fois le modèle assemblé, les constructeurs peuvent explorer les fonctions de la voiture, fidèles à l’originale : le moteur V12 à pistons mobiles, la direction et les suspensions avant et arrière.
-- Un projet de construction gratifiant à soffrir ou à offrir à un proche, pour un anniversaire ou pour Noël. Ce set LEGO est présenté dans un coffret exclusif somptueux et contient une pièce fascinant à exposer.
-- Livret pour collectionneurs exclusif, avec des instructions de montage complètes, des images et des interviews en coulisses des deux équipes ayant travaillé sur ce projet : le groupe LEGO et Automobili Lamborghini.
-- Les kits de construction LEGO Technic sont soigneusement testés pour sassurer que tous répondent aux normes de sécurité et de qualité les plus élevées au monde.
+- Les éléments LEGO Technic sont soumis à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysés afin de s’assurer qu’ils sont conformes aux normes de sécurité les plus élevées.
+- Des fonctionnalités impressionnantes à découvrir, comme l’effet « flottant », les ventilateurs tournants, le cockpit et le signal lumineux rotatif, qui rappellent celles d’un véritable véhicule aéroglisseur.
+- Les éléments LEGO Technic sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
+- L’aéroglisseur de sauvetage LEGO Technic (42120) constitue un formidable cadeau d’anniversaire, de Noël ou de toute autre occasion, pour les enfants de 8 ans et plus qui aiment les véhicules de sauvetage.
+- L’univers LEGO Technic propose des modèles complexes pour les jeunes fans de LEGO prêts à relever leur prochain défi de construction.
+- Cet incroyable aéroglisseur constitue un formidable cadeau pour les enfants passionnés de véhicules. Avec ses nombreux détails réalistes, il est parfait pour imaginer toutes sortes d’aventures.
+- L’aéroglisseur mesure plus de 12 cm de haut, 24 cm de long et 13 cm de large.
+- Le design 2-en-1 favorise le jeu pour les jeunes héros. L’aéroglisseur peut être transformé en avion bimoteur doté d’un gouvernail et d’ailerons mobiles.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813RJRYC/?tag=tolees0d-21)
