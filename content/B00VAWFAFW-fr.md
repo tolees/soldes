@@ -28,11 +28,11 @@ Vous avez [HP OfficeJet Pro 9020 e-AiO](https://www.amazon.fr/dp/B00VAWFAFW/?tag
 
 ℹ️:
 
-- Capacité d’impression mobile : Apple AirPrint; Impression directe Wi-Fi; Mopria Certifié; HP Intelligent
-- Fonctions: impression, copie, numérisation, télécopie
 - Créez des documents modifiables et indexable à laide des tches intelligentes
+- Pensez à tout sauf à l’encre avec HP Instant Ink – Votre encre livrée automatiquement chez vous à partir de 0,99€/mois
 - 2 bacs dalimentation de 250 feuilles, bac de sortie de 100 feuilles
 - Numérisez automatiquement les deux pages en même temps
-- Pensez à tout sauf à l’encre avec HP Instant Ink – Votre encre livrée automatiquement chez vous à partir de 0,99€/mois
+- Capacité d’impression mobile : Apple AirPrint; Impression directe Wi-Fi; Mopria Certifié; HP Intelligent
+- Fonctions: impression, copie, numérisation, télécopie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VAWFAFW/?tag=tolees0d-21)

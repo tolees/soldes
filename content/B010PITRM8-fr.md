@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.90 % rabais sur Casio Montres bracelet STL-S300H-1BEF'
-date: 2021-07-13 22:57:50
+date: 2021-07-20 09:16:31
 image: 'https://m.media-amazon.com/images/I/416aXL1okFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Vous avez [Casio Montres bracelet STL-S300H-1BEF](https://www.amazon.fr/dp/B010P
 ℹ️:
 
 - Diamètre du cadran : 36 millimètres
-- Épaisseur du boîtier : 11 millimètres
 - Montre pour Femme à mouvement Quartz - Bracelet en Résine Noir
+- Épaisseur du boîtier : 11 millimètres
 - Type daffichage : Digital
 - Montre, Boîte de présentation, Coussin, Garantie
 
