@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '20.00 % rabais sur LEGO®-DUPLO® Disney Princess™ Le château'
-date: 2020-08-28 00:16:52
-image: 'https://m.media-amazon.com/images/I/51MWxuoJa+L._SL400_.jpg'
+title: '30.69 % rabais sur LEGO 10899 Duplo Disney Le Château De La'
+date: 2021-07-21 06:28:57
+image: 'https://m.media-amazon.com/images/I/51MwJKPrXmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ND6CGGQ-fr LEGO®-DUPLO® Disney Princess™ Le château de la Reine des...'
+slug: 'B07ND6CGGQ-fr LEGO 10899 Duplo Disney Le Château De La Reine des Neiges...'
 sku: 'B07ND6CGGQ-fr'
-tags: [  ]
-actualPrice: 39.99 EUR
+tags: [ 'Figurines de personnages','Figurines pour enfants','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jouets dactivité et de développement','Jouets déveil et 1er âge','Sets de jeux de construction','lego', ]
+actualPrice: 34.65 EUR
 currency: EUR
-price: 39.99
+price: 34.65
 comparePrice: 49.99 EUR
-prodname: 'LEGO®-DUPLO® Disney Princess™ Le château de la Reine des neiges Jouet pour Tout Petits Fille et Garçon dès 2 Ans  59 Pièces de Construction 10899'
+prodname: 'LEGO 10899 Duplo Disney Le Château De La Reine des Neiges Jeu De Construction avec Mini Poupées Anna Et Elsa  Jouet Enfant 2 Ans'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21'
-descuento: '20.00'
-average: '39.99'
+descuento: '30.69'
+average: '39.1'
 ---
 
-Vous avez [LEGO®-DUPLO® Disney Princess™ Le château de la Reine des neiges Jouet pour Tout Petits Fille et Garçon dès 2 Ans  59 Pièces de Construction 10899](https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  39.99 EUR (original: 49.99 EUR) ici:
+Vous avez [LEGO 10899 Duplo Disney Le Château De La Reine des Neiges Jeu De Construction avec Mini Poupées Anna Et Elsa  Jouet Enfant 2 Ans](https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21)  à  30.69 % de réduction, prix final  34.65 EUR (original: 49.99 EUR) ici:
 
-[![LEGO®-DUPLO® Disney Princess™ Le château](https://m.media-amazon.com/images/I/51MWxuoJa+L._SL400_.jpg)](https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21)
+[![LEGO 10899 Duplo Disney Le Château De La](https://m.media-amazon.com/images/I/51MwJKPrXmS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21)
 
 ℹ️:
 
+- Les enfants apprennent à maîtriser les compétences de construction de base et améliorent leur motricité fine en assemblant et en repositionnant les briques de construction, pour des possibilités illimitées de jeu créatif.
+- Ce jouet à construire pour tout-petits est conçu pour favoriser le jeu de rôle et lélaboration dhistoires. Il contribue au développement du langage et des compétences sociales et émotionnelles des enfants.
+- Ce château de la Reine des neiges Disney comprend un toboggan, une table, des chaises et des équipements de cuisine. Une brique lumineuse spéciale activée par un bouton éclaire le château de lumières multicolores.
+- Inclut 3 figurines LEGO DUPLO : Anna, Elsa et Olaf.
+- Le château de la Reine des neiges Disney mesure plus de 28 cm de haut, 19 cm de large et 16 cm de profondeur.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND6CGGQ/?tag=tolees0d-21)
