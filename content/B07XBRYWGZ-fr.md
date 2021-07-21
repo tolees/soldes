@@ -29,11 +29,11 @@ C'est en vente [Microsoft Surface Pro 7 Ordinateur Portable  Windows 10  écran 
 ℹ️:
 
 - Écran tactile PixelSense de 12.3’’
-- Ports USB-A & port USB-C pour les vidéos, les données et pour le chargement
-- Performances plus rapides et graphisme amélioré grâce aux processeurs Intel iRNUM 10ème génération
-- Autonomie de batterie pour toute la journée
-- Affichage: Rapport hauteur / largeur: 3: 2
-- Clavier AZERTY français vendu séparément
 - Le parfait équilibre entre la performance d’un ordinateur et la polyvalence d’une tablette
+- Autonomie de batterie pour toute la journée
+- Ports USB-A & port USB-C pour les vidéos, les données et pour le chargement
+- Clavier AZERTY français vendu séparément
+- Performances plus rapides et graphisme amélioré grâce aux processeurs Intel iRNUM 10ème génération
+- Affichage: Rapport hauteur / largeur: 3: 2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XBRYWGZ/?tag=tolees0d-21)

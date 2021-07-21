@@ -28,10 +28,10 @@ C'est en vente [Senya Blender Chauffant Inox Cook & Ice  Mixeur Soupe Veloutée 
 
 ℹ️:
 
-- Bouchon amovible et gradué pour ajouter des aliments pendant la cuisson
 - Couvercle hermétique pour éviter tout risque de projection
-- Fonction Pulse permettant d’atteindre la vitesse maximale
+- Bouchon amovible et gradué pour ajouter des aliments pendant la cuisson
 - Fonction auto-nettoyage pour un gain de temps
 - Bol en acier inoxydable avec graduations intérieures et extérieures
+- Fonction Pulse permettant d’atteindre la vitesse maximale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07R49WFFW/?tag=tolees0d-21)

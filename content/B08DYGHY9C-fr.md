@@ -28,12 +28,12 @@ C'est en vente [Moulinex Easy Soup blender chauffant 5 programmes automatiques 
 
 ℹ️:
 
-- facile a ranger : cordon d’alimentation amovible pour une plus grande facilité d’utilisation
-- trouvez linspiration necessaire : livre de 30 recettes inclus faciles à réaliser pour toutes les saisons.
-- mixage parfait : bol en acier inox avec 4 lames inox amovibles
-- puissant et simple a utiliser : blender chauffant avec 1000 w de puissance et une interface intuitive avec 5 programmes automatiques (4 culinaires et 1 nettoyage)
-- grande capacite : quantités jusqu’à 4 personnes grâce à la capacité d’1;2 l
-- prise en main sans risque de brulure : double paroi pour une prise en sécurité même en cours de fonctionnement et une fonction maintien au chaud pendant 40 minutes
 - preparez une large variete de recettes : 4 programmes culinaires automatiques de 4 à 25 minutes; pour faire des veloutés; soupes avec morceaux; compotes et mixage de préparations froides comme des smoothies; cocktails etc.
+- trouvez linspiration necessaire : livre de 30 recettes inclus faciles à réaliser pour toutes les saisons.
+- prise en main sans risque de brulure : double paroi pour une prise en sécurité même en cours de fonctionnement et une fonction maintien au chaud pendant 40 minutes
+- puissant et simple a utiliser : blender chauffant avec 1000 w de puissance et une interface intuitive avec 5 programmes automatiques (4 culinaires et 1 nettoyage)
+- facile a ranger : cordon d’alimentation amovible pour une plus grande facilité d’utilisation
+- grande capacite : quantités jusqu’à 4 personnes grâce à la capacité d’1;2 l
+- mixage parfait : bol en acier inox avec 4 lames inox amovibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DYGHY9C/?tag=tolees0d-21)

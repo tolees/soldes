@@ -28,10 +28,10 @@ Vous avez [PHILIPS MG9720/90 Tondeuse Multi-Styles Series 9000 13-en-1 + OneBlad
 
 ℹ️:
 
-- 100% étanche, rincez simplement lappareil et les accessoires après chaque utilisation
-- Autonomie de 180 min pour 3 h de charge
-- Tondeuse multifonctions 13 en 1 pour cheveux, barbe, nez-oreilles, corps
 - 2 sabots cheveux (9, 12 et 16mm), 2 sabots barbe de 3 jours (1, 2 mm), 1 sabot barbe réglable (3-7 mm), Tondeuse Nez-Oreilles, OneBlade (Lame Visage, Lame Corps, Sabot corps 3 mm, Protection corps zones sensibles)
+- Tondeuse multifonctions 13 en 1 pour cheveux, barbe, nez-oreilles, corps
+- 100% étanche, rincez simplement lappareil et les accessoires après chaque utilisation
 - OneBlade Visage & Corps : taillez, stylisez, rasez votre corps et votre barbe, même longue
+- Autonomie de 180 min pour 3 h de charge
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WMR2ZSR/?tag=tolees0d-21)

@@ -28,13 +28,13 @@ Vous avez [RÖSLE - Rosle RS12755 Eplucheur Tomates / Mozzarella](https://www.am
 
 ℹ️:
 
-- Dimensions: 16 x 5 x 10 cm
-- Garantie à vie
-- Les 10 lames aux dents fines et disposées parallèlement coupent les tomates et la mozzarella en tranches égales.
-- Deux poignées pour une bonne prise en main et un travail en toute sécurité.
-- Diamètre: 10 cm
-- Contenu du packaging: 1
-- Description détaillée: Pour couper les tomates et la mozzarella en tranches égales.
 - Le tampon en plastique assure la coupe complète et nette de la tomate.
+- Deux poignées pour une bonne prise en main et un travail en toute sécurité.
+- Dimensions: 16 x 5 x 10 cm
+- Les 10 lames aux dents fines et disposées parallèlement coupent les tomates et la mozzarella en tranches égales.
+- Garantie à vie
+- Contenu du packaging: 1
+- Diamètre: 10 cm
+- Description détaillée: Pour couper les tomates et la mozzarella en tranches égales.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00280NBQA/?tag=tolees0d-21)
