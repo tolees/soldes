@@ -28,8 +28,8 @@ C'est en vente [ARCADE1UP - Arcade 1UP- Tabouret ajustable de borne d arcade Str
 
 ℹ️:
 
-- Tabouret personnalisé pour borne de jeu darcade Street Fighter II
 - Assise personnalisé et comfortable
 - Tabouret ajustable de 50 à 75 cm de hauteur
+- Tabouret personnalisé pour borne de jeu darcade Street Fighter II
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07T8K1HQW/?tag=tolees0d-21)
