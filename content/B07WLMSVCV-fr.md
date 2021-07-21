@@ -28,10 +28,10 @@ C'est en vente [LEGO City Super véhicules  Le transport du bateau de course  Ca
 
 ℹ️:
 
-- Les enfants adoreront ce formidable camion avec une remorque et le bateau de course sportif qui flotte, aux formes aérodynamiques et avec turbo-propulseur
-- Inclut 2 figurines : conducteur du camion et pilote du bateau de course La cabine du camion est équipée des portes qui s’ouvrent, d’un toit amovible et des barres de retenue pour le transport
-- Les enfants peuvent décharger le bateau à turbo-propulseur, puis rejoindre le pilote de course de léquipe Xtreme à bord, survoler les vagues et établir de nouveaux records de vitesse sur leau
-- Le guide électronique Instructions PLUS disponible dans lappli gratuite LEGO Life pour appareils intelligents aide les enfants à zoomer, faire pivoter et visualiser le modèle au fur et à mesure de sa construction
 - Le bateau de course aérodynamique à turbo-propulseur possède un cockpit qui s’ouvre pour accueillir le pilote de course Xtreme – et il flotte sur leau
+- Les enfants peuvent décharger le bateau à turbo-propulseur, puis rejoindre le pilote de course de léquipe Xtreme à bord, survoler les vagues et établir de nouveaux records de vitesse sur leau
+- Les enfants adoreront ce formidable camion avec une remorque et le bateau de course sportif qui flotte, aux formes aérodynamiques et avec turbo-propulseur
+- Le guide électronique Instructions PLUS disponible dans lappli gratuite LEGO Life pour appareils intelligents aide les enfants à zoomer, faire pivoter et visualiser le modèle au fur et à mesure de sa construction
+- Inclut 2 figurines : conducteur du camion et pilote du bateau de course La cabine du camion est équipée des portes qui s’ouvrent, d’un toit amovible et des barres de retenue pour le transport
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WLMSVCV/?tag=tolees0d-21)

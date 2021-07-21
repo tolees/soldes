@@ -28,14 +28,14 @@ Vous avez [De Buyer 5020.28  La Lyonnaise  Poêle ronde Coupe Lyonnaise Queue Fe
 
 ℹ️:
 
-- Entretien : déglacer, rincer à l’eau chaude, essuyer et huiler légèrement, ranger dans un endroit sec ; ne pas utiliser de produits détergents ni mettre au lave-vaisselle
-- Ustensile léger avec coupe lyonnaise traditionnelle
-- Compatible avec le four
-- Anti-adhérence naturelle : culottage progressif, aucun revêtement antiadhésif
 - Tous feux, induction et vitrocéramique déconseillés, ustensile idéal sur le gaz
 - Diamètre : 28 cm
-- Finition : tôle brute et naturelle, bleuie par traitement thermique
+- Compatible avec le four
 - Diffusion homogène de la chaleur
+- Ustensile léger avec coupe lyonnaise traditionnelle
+- Finition : tôle brute et naturelle, bleuie par traitement thermique
+- Entretien : déglacer, rincer à l’eau chaude, essuyer et huiler légèrement, ranger dans un endroit sec ; ne pas utiliser de produits détergents ni mettre au lave-vaisselle
 - Ustensile en tôle dacier bleuie, sans revêtement, avec montures soudées
+- Anti-adhérence naturelle : culottage progressif, aucun revêtement antiadhésif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000ECSKBU/?tag=tolees0d-21)

@@ -28,15 +28,15 @@ C'est en vente [LEGO®-Hidden Side Le cimetière mystérieux Garçon et Fille 7 
 
 ℹ️:
 
-- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
-- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
-- Le cimetière mystérieux à construire inclut une statue qui tourne, une tombe qui souvre et un arbre hanté avec des bras articulés
 - Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
-- Assurez-vous que vos appareils sont compatibles avec des applications de réalité augmentée
 - Le cimetière mesure plus de 14 cm de haut, 32 cm de large et 10 cm de profondeur ; Application disponible en français ; Lautorisation des parents est nécessaire
-- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) ; Lapplication est compatible avec une sélection dappareils iOS et Android
+- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
 - Ce jouet incluant une application de réalité augmentée comprenant 4 figurines pour vivre la chasse aux fantômes dans le monde physique et dans lapplication de réalité augmentée
+- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
+- Assurez-vous que vos appareils sont compatibles avec des applications de réalité augmentée
+- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) ; Lapplication est compatible avec une sélection dappareils iOS et Android
 - L’expérience en réalité augmentée LEGO hidden side n’est compatible qu’avec les portables et tablettes supportant la technologie de réalité augmentée
+- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
+- Le cimetière mystérieux à construire inclut une statue qui tourne, une tombe qui souvre et un arbre hanté avec des bras articulés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ND9GYZ3/?tag=tolees0d-21)
