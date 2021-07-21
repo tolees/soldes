@@ -28,14 +28,14 @@ C'est en vente [MSI MPG A650GF unité d alimentation d énergie 650 W 24-pin ATX
 
 ℹ️:
 
-- 100% all Japanese 105oC capacitor
-- MPG A650GF
 - Active PFC design
+- MPG A650GF
 - Flat cable equipment
-- Full modular cable design
-- Industrial level protection with OVP,OCP,OPP,OTP, SCP,UVP
 - 80 Plus Gold certified for high efficiency
+- Full modular cable design
+- 100% all Japanese 105oC capacitor
 - LLC Half Bridge Topology with DC-DC module design
 - Supports the NVIDIA GeForce RTX 30 Series GPUs
+- Industrial level protection with OVP,OCP,OPP,OTP, SCP,UVP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MWCKD43/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [METRONIC CAMSAT - Récepteur Satellite Module PCMCIA Fransat 1 3
 
 ℹ️:
 
-- Installation et classement automatique des chaînes
 - Compatible 4K. Basse consommation < 0,5W
+- Installation et classement automatique des chaînes
+- Compatible avec les TV UHD labellisés par FRANSAT. Non compatible avec le satellite ASTRA
 - Carte d’accès FRANSAT incluse
 - Mise à jour par satellite
-- Compatible avec les TV UHD labellisés par FRANSAT. Non compatible avec le satellite ASTRA
 - Pas de télécommande supplémentaire requise, utilisez une seule télécommande : celle de votre TV
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073PYS9GC/?tag=tolees0d-21)
