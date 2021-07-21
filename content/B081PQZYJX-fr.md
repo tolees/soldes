@@ -28,10 +28,10 @@ C'est en vente [eufy Security Sonnette Vidéo Complémentaire sans Fil  Résolut
 
 ℹ️:
 
-- HomeBase 2 requise : la sonnette vidéo complémentaire sans fil eufy Security nécessite lutilisation dune HomeBase 2 pour fonctionner. Veuillez noter que la caméra seule ne fonctionnera pas.
-- HomeBase : HomeBase E ne prend actuellement pas en charge leufyCam 2/2C. Elles seront bientôt prises en charge.
-- 2,5 fois plus clair : le capteur 2K Sony et lobjectif de qualité professionnelle intégrés vous permettent de visualiser les activités dans une résolution exceptionnelle. Voyez les visiteurs dans les moindres détails tandis quils approchent de votre porte.
 - Champ de vision étendu : le rapport 4:3 vous garantit une vue de la tête au pied de toute personne qui approche, ainsi quun angle de visionnage idéal à tout moment.
+- HomeBase 2 requise : la sonnette vidéo complémentaire sans fil eufy Security nécessite lutilisation dune HomeBase 2 pour fonctionner. Veuillez noter que la caméra seule ne fonctionnera pas.
+- 2,5 fois plus clair : le capteur 2K Sony et lobjectif de qualité professionnelle intégrés vous permettent de visualiser les activités dans une résolution exceptionnelle. Voyez les visiteurs dans les moindres détails tandis quils approchent de votre porte.
+- HomeBase : HomeBase E ne prend actuellement pas en charge leufyCam 2/2C. Elles seront bientôt prises en charge.
 - Deux options dalimentation : 6 mois dautonomie avec une seule charge ou alimentation ininterrompue grâce à une connexion filaire.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081PQZYJX/?tag=tolees0d-21)
