@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '55.06 % rabais sur Osram - Lot de 3 Ampoules LED Filament S'
-date: 2021-07-19 21:04:29
+date: 2021-07-21 01:51:35
 image: 'https://m.media-amazon.com/images/I/41Njbdfs3+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Osram - Lot de 3 Ampoules LED Filament Sphérique - Culot E14 - 4 W E
 
 ℹ️:
 
-- Angle de rayonnement : 320 degrees
 - Allumage instantané, pas de temps de préchauffage
+- Angle de rayonnement : 320 degrees
 - Sans mercure
-- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres d’enfants
+- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073QSXXC8/?tag=tolees0d-21)
