@@ -30,8 +30,8 @@ Vous avez [Amazfit Band 5 EU noir](https://www.amazon.fr/dp/B08DKWSVZG/?tag=tole
 
 - TRACKER DE FRÉQUENCE CARDIAQUE, DE SOMMEIL ET DACTIVITÉ 24/7 La surveillance optique précise de la fréquence cardiaque Amazfit Band 5 vous permet de suivre avec précision les pas en temps réel, la surveillance de la fréquence cardiaque toute la journée, la distance parcourue, les calories brûlées et la qualité du sommeil. habitudes de sommeil
 - MONITEUR DE SATURATION DOXYGÈNE SANGUIN Le Fitness Tracker Band 5 vous permet de mesurer votre saturation en oxygène sanguin et de comprendre votre condition physique avec OxygenBeats. Idéal pour les entraînements intensifs et les sports tels que les marathons et les entraînements dans la salle de sport
+- SUIVI DE LA SANTÉ DES FEMMES avec le système de suivi des règles féminines, Band 5 enregistre et prédit le cycle menstruel féminin et envoie des notifications intelligentes
 - AMAZON ALEXA BUILT-IN Parlez à Amazon Alexa via votre montre intelligente Amazfit Band 5. Posez des questions, obtenez des traductions, réglez des alarmes et des minuteries, créez des listes de courses, vérifiez la météo, contrôlez vos appareils domestiques intelligents et bien plus encore
 - DURÉE DE VIE DE LA BATTERIE DE 15 JOURS Dites adieu à la recharge quotidienne. avec une montre de sport entièrement chargée, vous navez pas besoin dapporter de chargeur pour un voyage de deux semaines. Sur une seule charge, il a assez de puissance pour vous recharger pendant 2 semaines entières sans aucun problème
-- SUIVI DE LA SANTÉ DES FEMMES avec le système de suivi des règles féminines, Band 5 enregistre et prédit le cycle menstruel féminin et envoie des notifications intelligentes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DKWSVZG/?tag=tolees0d-21)
