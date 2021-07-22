@@ -31,8 +31,8 @@ C'est en vente [BenQ W2700 Vidéoprojecteur DLP 3D Ready  4K UHD avec HDR-PRO  D
 - Flexibilité d’installation : le lens shift vertical (± 5 %) et la focale courte avec son gros zoom de 1,3x permettent une installation plus souple dans les espaces restreints
 - Le plaisir du cinéma : la technologie CinematicColor reproduit les couleurs originales des espaces couleurs Rec. 709 et DCI-P3
 - Véritable résolution 4K UHD : les 8,3 mégapixels offrent une qualité dimage impressionnante avec une résolution de 3840x2160, une incroyable clarté ainsi que des détails nets
-- HDR optimisée pour les vidéoprojecteurs : la technologie HDR-PRO, boostée par la compatibilité avec la HDR10 et la HLG, transmet de manière exclusive des couleurs HDR améliorées et un contraste optimisé pour le cinéma
 - Elle procure par ailleurs l’espace couleurs DCI-P3 (couleur de cinéma numérique) ultra-large
+- HDR optimisée pour les vidéoprojecteurs : la technologie HDR-PRO, boostée par la compatibilité avec la HDR10 et la HLG, transmet de manière exclusive des couleurs HDR améliorées et un contraste optimisé pour le cinéma
 - Une expérience audiovisuelle inégalée : les technologies CinemaMaster Video+ et Audio+ 2 de BenQ avec leurs haut-parleurs de 10 W transforment n’importe quelle pièce en une prodigieuse salle de cinéma
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PD69Q3P/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [BGS 2755 | Jeu de Douilles  douze pans | 6 3 mm  1/4"  | en pouc
 ℹ️:
 
 - En acier au chrome-vanadium
-- avec cannelure
 - Traitement de surface: chromé, mat
 - Sur rail de métal
 - Douilles pour clé, carré 6,3 mm (1/4"): 5/32" - 3/16" - 7/32" - 1/4" - 9/32" - 5/16" - 11/32" - 3/8" - 7/16" - 15/32" - 1/2" - 9/16"
+- avec cannelure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004VRBE9O/?tag=tolees0d-21)
