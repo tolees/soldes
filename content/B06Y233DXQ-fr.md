@@ -28,10 +28,10 @@ C'est en vente [Silk n Motion - IPL Epilateur à Lumière Pulsée - Épilation D
 
 ℹ️:
 
-- 92 % de pilosité en moins après traitement complet
-- Technologie Touch&Glide: (épilation plus rapide avec) système de flashs automatique
-- 350.000 flashs lumineux et 3 capteurs couleur
 - Auto Energy Adjust System : sécurité renforcée pour les couleurs de peau plus foncées
 - Épilation longue durée corps et visage avec HPL
+- 92 % de pilosité en moins après traitement complet
+- 350.000 flashs lumineux et 3 capteurs couleur
+- Technologie Touch&Glide: (épilation plus rapide avec) système de flashs automatique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06Y233DXQ/?tag=tolees0d-21)
