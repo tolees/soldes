@@ -29,9 +29,9 @@ C'est en vente [OMRON Healthcare - L’appareil OMRON HeatTens Tens produit une 
 ℹ️:
 
 - Simplifiez votre traitement antidouleur grâce à 6 programmes prédéfinis pour les différentes zones du corps. Vous pouvez également personnaliser votre programme avec 3 combinaisons de chaleur et de massage TENS, 3 modes de massage du corps.
-- Articles livrés : 1 x HeatTens OMRON, 1 x câble pour électrodes, 2 x gels OMRON (HV-PAD-3E), un adaptateur secteur et le mode d’emploi.
 - Appareil antidouleur rechargeable ; inutile d’acheter des piles de rechange.
-- Soulagez efficacement les douleurs articulaires et musculaires grâce à la technologie TENS qui aide à bloquer le message de la douleur, à déclencher la libération d’endorphines et à améliorer la circulation sanguine.
 - L’OMRON HeatTens est un appareil antidouleur certifié (également appelé appareil TENS) à thérapie double qui combine une chaleur apaisante et la technologie TENS cliniquement prouvée pour soulager les douleurs articulaires et musculaires.
+- Soulagez efficacement les douleurs articulaires et musculaires grâce à la technologie TENS qui aide à bloquer le message de la douleur, à déclencher la libération d’endorphines et à améliorer la circulation sanguine.
+- Articles livrés : 1 x HeatTens OMRON, 1 x câble pour électrodes, 2 x gels OMRON (HV-PAD-3E), un adaptateur secteur et le mode d’emploi.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GK3VXS3/?tag=tolees0d-21)

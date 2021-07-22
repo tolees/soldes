@@ -28,10 +28,10 @@ Vous avez [Spirit  Coffret Spirit qui Marche avec Poupée et Accessoires  Cheval
 
 ℹ️:
 
-- COFFRET COMPLET: Lucky et Spirit sont inséparables ! Un coffret super complet avec ta poupée Lucky et ton cheval Spirit qui marche !
-- Spirit marche comme un vrai cheval ! Ecoute comme il est content d’aller se promener! Lucky peut monter sur Spirit et partir explorer de nouveaux territoires en toute liberté ! Cheval 35 cm et Poupée 29 cm.
-- 348 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - IL MARCHE : Lorsque tu appuies sur le bouton, Spirit se met à marcher comme un vrai cheval !
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Spirit marche comme un vrai cheval ! Ecoute comme il est content d’aller se promener! Lucky peut monter sur Spirit et partir explorer de nouveaux territoires en toute liberté ! Cheval 35 cm et Poupée 29 cm.
+- 348 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- COFFRET COMPLET: Lucky et Spirit sont inséparables ! Un coffret super complet avec ta poupée Lucky et ton cheval Spirit qui marche !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XN5Q2XG/?tag=tolees0d-21)
