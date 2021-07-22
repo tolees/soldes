@@ -28,10 +28,10 @@ C'est en vente [CHiQ U50H7A  50 Pouces 126cm   Android 9.0  Smart TV  UHD  4K  W
 
 ℹ️:
 
-- ✅TV Android 9.0, processeur quadri cœur, HDR (HDR10, HLG), Dolby Vision, Dolby Audio, Google Asisstant, Google Play, Google Music, Google Game, Amazon Prime Video, Netflix, YouTube, DISNEY+, navigateur web, Blue tooth Remote, Chromecast, Multiscreen, Remote button-Netflix, Amazon Prime Video, Youtube, Frameless Design
-- ✅TV (LED) avec diagonales décran de 126 cm (50 pouces), noir, design sans cadre, dimensions de lécran sans support : 111,7 x 64,8 x 9,3cm, avec support : 111,7 x 70,2x 21,2cm
-- ✅Service：Sil y a des problèmes de garantie et autres problèmes après-vente, veuillez laisser un message et nous vous répondrons dès que possible
 - ✅Résolution : 4K 3840 x 2160 pixels (Ultra HD), PSI 900,HDR 10/HLG, offrent une gamme dynamique et des détails dimage plus importants, vous offrant ainsi lexpérience visuelle la plus réaliste et la plus active.
+- ✅TV Android 9.0, processeur quadri cœur, HDR (HDR10, HLG), Dolby Vision, Dolby Audio, Google Asisstant, Google Play, Google Music, Google Game, Amazon Prime Video, Netflix, YouTube, DISNEY+, navigateur web, Blue tooth Remote, Chromecast, Multiscreen, Remote button-Netflix, Amazon Prime Video, Youtube, Frameless Design
+- ✅Service：Sil y a des problèmes de garantie et autres problèmes après-vente, veuillez laisser un message et nous vous répondrons dès que possible
+- ✅TV (LED) avec diagonales décran de 126 cm (50 pouces), noir, design sans cadre, dimensions de lécran sans support : 111,7 x 64,8 x 9,3cm, avec support : 111,7 x 70,2x 21,2cm
 - ✅Réception : TV Android, , Triple Tuner, DVB-T / T2 / T2-HD / C / S / S2,CI +, 3 x HDMI (ARC / CEC), 2 x USB, 1x entrée AV, 1x sortie audio numérique (optique), 1 x téléphone, 1x ANT RF & 1x LNB, 1 LAN, WLAN, Bluetooth 5.0
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZHHZ1V3/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Bosch Home and Garden - Tondeuse à gazon sans-fil Bosch - Rotak
 
 ℹ️:
 
-- Grâce à la technologie de circulation d’air innovante, la totalité de l’herbe coupée atterrit dans le bac de ramassage de 50 L
-- Réglage facile de la hauteur de tonte par levier : 20 - 70 mm (6 positions)
-- Rechargée à 80 % en 56 min
 - Livré avec : Rotak 430 LI, 2 batteries 2,0 Ah, chargeur, bac de ramassage de 50 L, carton (3165140895460)
-- La tondeuse sans fil Rotak 430 LI avec largeur de coupe de 43 cm est conçue pour les grands jardins
 - Tonte parfaite le long des murs, parterres de fleurs et bordures de pelouse grâce au guide-herbes rallongé et à la lame en acier trempé
+- La tondeuse sans fil Rotak 430 LI avec largeur de coupe de 43 cm est conçue pour les grands jardins
+- Réglage facile de la hauteur de tonte par levier : 20 - 70 mm (6 positions)
+- Grâce à la technologie de circulation d’air innovante, la totalité de l’herbe coupée atterrit dans le bac de ramassage de 50 L
+- Rechargée à 80 % en 56 min
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N9JMUTC/?tag=tolees0d-21)
