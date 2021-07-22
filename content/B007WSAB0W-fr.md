@@ -28,10 +28,10 @@ Vous avez [Oral-B Trizone Brossettes De Rechange x2  Recharge Originale Pour Bro
 
 ℹ️:
 
-- Changez de brossette tous les trois mois pour une hygiène optimale
-- Oral-B, la marque de brosses à dents la plus utilisée par les dentistes eux-mêmes dans le monde
-- Les poils de la brossette atteignent en profondeur les espaces interdentaires
 - Compatible avec toute la gamme de brosses à dents électriques rechargeables Oral-B, à l’exception des brosses à dents Pulsonic Oral-B
 - Retire jusqu’à 2X plus de plaque dentaire qu’une brosse à dents manuelle classique
+- Les poils de la brossette atteignent en profondeur les espaces interdentaires
+- Changez de brossette tous les trois mois pour une hygiène optimale
+- Oral-B, la marque de brosses à dents la plus utilisée par les dentistes eux-mêmes dans le monde
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007WSAB0W/?tag=tolees0d-21)
