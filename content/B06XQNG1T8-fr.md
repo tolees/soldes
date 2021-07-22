@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '51.44 % rabais sur Bosch Home and Garden - Bosch 0603130001'
-date: 2021-07-02 21:41:36
+date: 2021-07-22 14:28:58
 image: 'https://m.media-amazon.com/images/I/41V2o2srgrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Bosch Home and Garden - Bosch 0603130001 EasyImpact 550 Perceuse à p
 
 ℹ️:
 
-- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
-- Diam. De perçage max (béton/acier/bois) : 10 / 8 / 25 mm.
-- Vitesse à vide : 3 000 tr/min. Fréquence de frappe 33 000 cps/min. Couple : 11 Nm.
 - Moteur 550 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,…). Livrée avec un assistant pour un perçage précis et sans poussière.
+- Vitesse à vide : 3 000 tr/min. Fréquence de frappe 33 000 cps/min. Couple : 11 Nm.
 - Design ergonomique compact - Poignée pour un meilleur contrôle - Mandrin autoserrant.
+- Diam. De perçage max (béton/acier/bois) : 10 / 8 / 25 mm.
+- Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XQNG1T8/?tag=tolees0d-21)
