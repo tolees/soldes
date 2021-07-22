@@ -28,10 +28,10 @@ Vous avez [FEBER Activity Park - Centre d activités avec toboggan pour enfants 
 
 ℹ️:
 
+- Les couleurs sont lumineuses, résistantes au soleil et aux changements de température
 - Facile à monter
+- Âge minimum : 3 ans
 - Dimensions : 109x54x6050 cm
 - Il y a un toboggan pour glisser et si vous le retournez, il y a des escaliers pour grimper
-- Âge minimum : 3 ans
-- Les couleurs sont lumineuses, résistantes au soleil et aux changements de température
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OQSXP90/?tag=tolees0d-21)
