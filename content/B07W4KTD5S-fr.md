@@ -28,10 +28,10 @@ C'est en vente [LEGO Disney Princess  Les aventures de Mulan dans un livre de co
 
 ℹ️:
 
-- Comprend 3 figurines détaillées: 2 versions de la princesse Mulan et Li Shang, ainsi que le cheval Khan de Disney, plus une brique avec une décoration de Cri-Kee
 - Ce monde miniature transportable pour jouer partout avec vos personnages et scènes favoris facilite le jeu de rôle en déplacement
-- Comprend un étui portable sous la forme d’un livre avec 2 décors : un terrain d’entraînement hivernal et un jardin avec un prunier qui se déploie
-- Comprend un mannequin dentraînement en rotation, une théière, une tasse, 2 épées, ainsi que de nombreux détails décoratifs et 2 feuilles dautocollants pour décorer le livre avec
+- Comprend 3 figurines détaillées: 2 versions de la princesse Mulan et Li Shang, ainsi que le cheval Khan de Disney, plus une brique avec une décoration de Cri-Kee
 - Les enfants sentraîneront au combat contre Li Shang pour défendre lhonneur de la famille Mulan, puis feront une pause dans le jardin avec du thé sous le prunier
+- Comprend un mannequin dentraînement en rotation, une théière, une tasse, 2 épées, ainsi que de nombreux détails décoratifs et 2 feuilles dautocollants pour décorer le livre avec
+- Comprend un étui portable sous la forme d’un livre avec 2 décors : un terrain d’entraînement hivernal et un jardin avec un prunier qui se déploie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4KTD5S/?tag=tolees0d-21)
