@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % rabais sur Silk n Silhouette Device for Skin Tighte'
-date: 2021-07-18 17:06:31
+date: 2021-07-22 05:03:52
 image: 'https://m.media-amazon.com/images/I/41uyBQ4435L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
