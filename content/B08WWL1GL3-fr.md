@@ -28,11 +28,11 @@ C'est en vente [LEGO 76192 Marvel Super Heroes Le Combat Final d’Avengers: End
 
 ℹ️:
 
-- Ce jouet de super héros pour enfants de 8 ans et + est rempli de détails authentiques, comme lépée à double lame de Thanos, qui se reconstruit en 2 épées séparées
 - Les caractéristiques comprennent un gros canon qui tourne, s’incline et tire une grande flèche à bout en caoutchouc et un radar de virage et dinclinaison sur le toit
-- Inclut 6 figurines de super héros LEGO Avengers : Thor, Captain America, Black Panther, Iron Man, la Sorcière Rouge et un guerrier Centauri
-- Ce set de bâtiments LEGO du jouet Avengers est composé du laboratoire dIron Man où il y construit le Nano Gantelet
 - Inclut également une figurine de Thanos et une micro-figurine d’Ant-Man ; les accessoires comprennent des collations, des boissons et un porte-armes
 - Comprend un espace de loisirs et de réunion, où les superhéros peuvent se réunir, un camion qui souvre avec une machine à voyager dans le temps et une prison
+- Ce jouet de super héros pour enfants de 8 ans et + est rempli de détails authentiques, comme lépée à double lame de Thanos, qui se reconstruit en 2 épées séparées
+- Ce set de bâtiments LEGO du jouet Avengers est composé du laboratoire dIron Man où il y construit le Nano Gantelet
+- Inclut 6 figurines de super héros LEGO Avengers : Thor, Captain America, Black Panther, Iron Man, la Sorcière Rouge et un guerrier Centauri
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WWL1GL3/?tag=tolees0d-21)

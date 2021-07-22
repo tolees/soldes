@@ -28,9 +28,9 @@ Vous avez [Rapoo RA12539- E9090P Clavier Lumineux Tactile Sans Fil Noir - Connex
 
 ℹ️:
 
-- La connexion sans fil 5 GHz développée par Rapoo vous offre une portée sans interférence allant jusqu‘à 10 m et une couverture de 360°– le tout en consommant très peu d‘électricité.
 - Avec la charge par induction sans fil, aucune prise de tête. Il suffit de placer le clavier sur la station de charge après l‘avoir utilisé.
 - Rétroéclairage réglable des touches : Vous pouvez taper dans l‘obscurité car toutes les touches sont rétroéclairées. 3 niveaux d‘intensité variables grâce à un bouton.
 - Le pavé tactile intégré de taille généreuse vous offre une navigation facile et pratique, sans qu‘une souris soit nécessaire.
+- La connexion sans fil 5 GHz développée par Rapoo vous offre une portée sans interférence allant jusqu‘à 10 m et une couverture de 360°– le tout en consommant très peu d‘électricité.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P1S4ZG6/?tag=tolees0d-21)

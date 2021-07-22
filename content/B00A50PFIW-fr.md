@@ -28,10 +28,10 @@ Vous avez [Edifier C2XD - Kit d Enceintes 2 1 PC Noir Analogique et Optique  Té
 
 ℹ️:
 
-- Kit 2.1 puissant avec amplificateur indépendant, télécommande IR et entrée optique
 - Contenu de lemballage: 1 Caisson de basses, 2 Satellites, 1 amplificateur, 1 télécommande IR, 1 Cable stereo 3.5 mm vers RCA, 1 cable optique (TOSLINK), Manuel
-- Lampli externe permet le positionnement du caisson de basses sans perdre le comfort dutilisation
-- Connectique: Optique (TOSLINK), Cinch (RCA), 3.5mm (AUX), slot carte SD, port USB, AUX additionel. Entrée jack additionnelle
+- Kit 2.1 puissant avec amplificateur indépendant, télécommande IR et entrée optique
 - Puissance totale (RMS): Caisson de basses 35W, Satellites 2x 9W, Port bass reflex à larrière du Caisson pour dimpressionnantes basses
+- Connectique: Optique (TOSLINK), Cinch (RCA), 3.5mm (AUX), slot carte SD, port USB, AUX additionel. Entrée jack additionnelle
+- Lampli externe permet le positionnement du caisson de basses sans perdre le comfort dutilisation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00A50PFIW/?tag=tolees0d-21)

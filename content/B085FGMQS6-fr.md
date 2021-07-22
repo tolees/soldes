@@ -28,10 +28,10 @@ Vous avez [Samsung Evo Select microSD Carte mémoire 128 Go](https://www.amazon.
 
 ℹ️:
 
-- Emporter tous vos souvenirs avec vous sans
-- Vitesse décriture jusquà 100 Mo/s, soit 3 Go de contenu en moins de 40 secondes
-- Protection contre leau, les températures extrêmes, la poussière et les rayons X
 - Dimensions de larticle L x L x H 15 x 11 x 1 millimètres
 - Stockez jusquà 24h de vidéos 4K, 150 000 photos
+- Emporter tous vos souvenirs avec vous sans
+- Protection contre leau, les températures extrêmes, la poussière et les rayons X
+- Vitesse décriture jusquà 100 Mo/s, soit 3 Go de contenu en moins de 40 secondes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085FGMQS6/?tag=tolees0d-21)

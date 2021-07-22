@@ -29,11 +29,11 @@ Vous avez [Eastpak Out of Office Sac à dos  44 cm  27 L  Gris Réfléchissant](
 ℹ️:
 
 - Fabrication 100 % polyester
-- Housse rembourrée pour ordinateur portable jusquà 13 pouces
-- Bretelles réglables et panneau dorsal rembourrés
 - Finitions réfléchissantes
 - Dans notre coloris Reflective Grey
 - Hauteur : 44 cm, Largeur : 29,5 cm, Profondeur : 22 cm
+- Housse rembourrée pour ordinateur portable jusquà 13 pouces
+- Bretelles réglables et panneau dorsal rembourrés
 - Compartiment principal avec des poches à lintérieur et sur le devant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087XQBFD2/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [KS Tools 516.1422 Clé dynamométrique ERGOTORQUEprécision® 3/
 
 ℹ️:
 
-- selon DIN 3120 / ISO 1174 / 6789 - Cliquet Robuste 30 dents - Carré dentraînement en pouce : 3/8" - Plage dutilisation : 10-50 Nm - Avec Système déjection des douilles - Corps acier robuste laqué bleu
-- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
 - Outillage alliant qualité, robustesse, esthétique, performance, technologie de pointe et confort de travail, avec les outils KStools, le meilleur rapport qualité/prix.
 - Pour le serrage contrôlé à droite et à gauche avec un ajustement en finesse et précision en tourant la poignée - Le changement de sens se fait par lenfoncement du carré dentraînement
+- selon DIN 3120 / ISO 1174 / 6789 - Cliquet Robuste 30 dents - Carré dentraînement en pouce : 3/8" - Plage dutilisation : 10-50 Nm - Avec Système déjection des douilles - Corps acier robuste laqué bleu
 - Déclenchement sensitif et sonore lorsque le couple de serrage est atteint - Fenêtre de lecture avec fonction loupe - Précision garantie pour un minimum de 5 000 déclenchements
+- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001NYZTVM/?tag=tolees0d-21)

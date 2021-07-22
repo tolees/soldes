@@ -28,11 +28,11 @@ C'est en vente [LEDVANCE Smart + prise commutable Zigbee  pour le contrôle de l
 
 ℹ️:
 
-- Fréquence de fonctionnement: 50 Hz
-- Contrôle déclairage flexible -> Contrôlez facilement votre éclairage via lapplication de contrôle déclairage, via la commande vocale (Alexa) ou à distance (antieffraction)
-- Compatible avec ZigBee et Alexa -> directement contrôlable via Alexa Echo plus et Echo show, Sinon, une passerelle activée par ZigBee est requise
-- Systèmes Smart Home compatibles: OSRAM LIGHTIFY, Philips Hue, telekom magenta, quivicon, Samsung smartthings, Schwaiger4You et bien dautres
 - La prise intelligente -> outre les lampes, vous pouvez également intégrer tous les autres appareils électriques dans votre maison intelligente
 - Développez votre Smart Home -> Cet adaptateur commutable vous permet d’intégrer des périphériques non ZigBee à votre système de contrôle de l’éclairage
+- Contrôle déclairage flexible -> Contrôlez facilement votre éclairage via lapplication de contrôle déclairage, via la commande vocale (Alexa) ou à distance (antieffraction)
+- Fréquence de fonctionnement: 50 Hz
+- Compatible avec ZigBee et Alexa -> directement contrôlable via Alexa Echo plus et Echo show, Sinon, une passerelle activée par ZigBee est requise
+- Systèmes Smart Home compatibles: OSRAM LIGHTIFY, Philips Hue, telekom magenta, quivicon, Samsung smartthings, Schwaiger4You et bien dautres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SFZ81SK/?tag=tolees0d-21)
