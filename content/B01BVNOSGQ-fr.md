@@ -28,10 +28,10 @@ C'est en vente [Ariston-Chauffe-eau électrique de 3100353 andris lux eco-dessus
 
 ℹ️:
 
+- Classe énergétique : A
+- Câble dalimentation non inclus
 - Emballage de sécurité et dhygiène ABS
 - Écran LED intelligent et intuitif pour la lecture et le réglage précis de la température
-- Classe énergétique : A
 - Jusquà 14 % déconomie dénergie
-- Câble dalimentation non inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BVNOSGQ/?tag=tolees0d-21)

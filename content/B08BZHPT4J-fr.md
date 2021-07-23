@@ -29,8 +29,8 @@ Vous avez [LG Electronics - LG XBOOM | Système High Power | Bluetooth | Lecteur
 ℹ️:
 
 - Fonction DJ et karaoké avec entrée microphone, entrée guitare, éclairage intégré pour un maximum de plaisir de fête
-- Prise en charge audio Dolby - Lecture de tous les formats de CD/DVD courants - Sortie via HDMI
 - Lecteur CD, Bluetooth, Double Boomer 8’’, Lumières multicolores, Fonctions DJ & Karaoké
+- Prise en charge audio Dolby - Lecture de tous les formats de CD/DVD courants - Sortie via HDMI
 - Connectivité : LG Sound Sync (via Bluetooth), connexion multipoint (peut être connecté à deux sources de smartphones/Bluetooth en même temps), Wireless Party Link (connecte plusieurs appareils sans fil)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BZHPT4J/?tag=tolees0d-21)
