@@ -30,8 +30,8 @@ Vous avez [Reine des Neiges 2 - Ma Parure Lumineuse - Lansay](https://www.amazon
 
 - Réalise tes bijoux avec les perles et le charms lumineux La Reine des Neiges II. Fonctionne avec 3 piles LR41 et 2 piles CR927 incluses
 - Fabrique ton collier et ton bracelet lumineux grâce aux perles colorées à facettes et aux charms aux couleurs de La Reine des Neiges II
-- A partir de 6 ans
 - Retrouve tes héroïnes préférées Elsa et Anna et crée des bijoux lumineux La Reine des Neiges II pour devenir toi aussi une Princesse !
 - C’est magique, appuie sur le bouton du charms lumineux. Il brille de mille feux ! Super, ton bracelet s’illumine lui aussi !
+- A partir de 6 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TZ5LZK6/?tag=tolees0d-21)
