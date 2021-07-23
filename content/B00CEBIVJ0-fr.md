@@ -28,10 +28,10 @@ Vous avez [Facom BS.L30 Probag Sac à dos](https://www.amazon.fr/dp/B00CEBIVJ0/?
 
 ℹ️:
 
-- Fabriqué à partir dun tissu résistant en nylon de 1 200 x 1 200 deniers ; possède une base rigide et étanche à leau
-- Léger et entièrement réglable avec organiseur doutil amovible
-- Espaces de rangement pour ordinateur portable, téléphone portable et documents
 - Organiseur doutil pratique à poignée amovible et transportable
 - Dimensions : 355 x 225 x 460 mm ; capacité : 30 litres ; charge : 12 kg
+- Espaces de rangement pour ordinateur portable, téléphone portable et documents
+- Fabriqué à partir dun tissu résistant en nylon de 1 200 x 1 200 deniers ; possède une base rigide et étanche à leau
+- Léger et entièrement réglable avec organiseur doutil amovible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CEBIVJ0/?tag=tolees0d-21)

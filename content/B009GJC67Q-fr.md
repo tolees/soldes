@@ -28,11 +28,11 @@ C'est en vente [BEEPER Alarme Auto Universelle XR5](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Portée de commande de la télécommande: 20 mètres
-- Alarme auto universelle
 - Capteur de chocs / capteur de pression dair
+- Alarme auto universelle
 - Garantie 3 ans
-- Installation simple en 15 minutes
 - Beeper xr5
+- Installation simple en 15 minutes
+- Portée de commande de la télécommande: 20 mètres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009GJC67Q/?tag=tolees0d-21)
