@@ -28,9 +28,9 @@ C'est en vente [Duracell MN21 Pile Alcaline 12V  Lot de 2   A23 / 23A / V23GA / 
 
 ℹ️:
 
-- Piles alcalines Duracell MN21 - énergie longue durée garantie
-- Les piles spéciales Duracell sont disponibles en différents formats: J, N, AAAA, MN21, MN11, MN27
-- Garantie de stockage de 5 ans
 - Les piles alcalines Duracell MN21 sont conçues pour une utilisation dans les télécommandes sans fil, sonnettes de porte sans fil et systèmes de sécurité (alarmes, localisateurs)
+- Garantie de stockage de 5 ans
+- Les piles spéciales Duracell sont disponibles en différents formats: J, N, AAAA, MN21, MN11, MN27
+- Piles alcalines Duracell MN21 - énergie longue durée garantie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003UOWDCG/?tag=tolees0d-21)

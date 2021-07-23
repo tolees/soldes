@@ -28,10 +28,10 @@ C'est en vente [Philips Sonicare HX8438/01 AirFloss Ultra Microjet interdentaire
 
 ℹ️:
 
-- Aide à réduire les caries dans les espaces interdentaires
-- Réglages personnalisables triple jet
 - Ne prend que 60 secondes : visez, appuyez, nettoyez !
 - Technologie dair et micro-gouttelettes
+- Aide à réduire les caries dans les espaces interdentaires
 - Élimine jusquà 99,9 % de la plaque dentaire
+- Réglages personnalisables triple jet
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084HS3HRJ/?tag=tolees0d-21)
