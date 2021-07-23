@@ -29,9 +29,9 @@ C'est en vente [Crocs Literide Clog  Sabots Mixte Adulte  Bleu  Navy/Pepper 4cc 
 ℹ️:
 
 - Matériau de semelle : synthétique
-- Doublure : non doublé
 - Semelle intérieure : sans doublure
-- Fermeture : à enfiler
 - Dessus : caoutchouc
+- Doublure : non doublé
+- Fermeture : à enfiler
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HHRCT7K/?tag=tolees0d-21)

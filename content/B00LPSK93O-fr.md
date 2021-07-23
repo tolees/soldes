@@ -28,10 +28,10 @@ C'est en vente [TROIKA - Troïka Construction Stylo à bille multitâche – p
 
 ℹ️:
 
-- Pour prendre des notes, comme stylet, pour mesurer et visser – disponible en dautres couleurs – épaisseur de trait M (1,00 mm) – mine noire – peut écrire sur une distance de 1 600 à 1 800 m, convient parfaitement comme beau cadeau pour toute occasion – également idéal pour les architectes. Ingénieurs, dessinateurs techniques, etc.
-- Donner du plaisir – TROIKA incarne la transformation des tendances actuelles en produits élaborés, en plaçant toujours laccent sur la créativité et un design cohérent.
-- Stylo à bille, aide à la planification et boîte à outils en un. Avec une règle en centimètre et en pouce, un niveau à bulle, un tournevis plat, un tournevis cruciforme et un stylet – un véritable outil multifonction.
 - Avec différents outils de mesure, règle en centimètre et en pouces, tournevis plat/cruciforme, stylet et niveau à bulle (diamètre : 10 mm). Emballé dans une boîte-cadeau de haute qualité – dimensions hors : 150x10x10 mm, 40 g
 - TROIKA ORIGINAL Stylo à bille multitâche. Aide à la planification et boîte à outils dans un.
+- Stylo à bille, aide à la planification et boîte à outils en un. Avec une règle en centimètre et en pouce, un niveau à bulle, un tournevis plat, un tournevis cruciforme et un stylet – un véritable outil multifonction.
+- Pour prendre des notes, comme stylet, pour mesurer et visser – disponible en dautres couleurs – épaisseur de trait M (1,00 mm) – mine noire – peut écrire sur une distance de 1 600 à 1 800 m, convient parfaitement comme beau cadeau pour toute occasion – également idéal pour les architectes. Ingénieurs, dessinateurs techniques, etc.
+- Donner du plaisir – TROIKA incarne la transformation des tendances actuelles en produits élaborés, en plaçant toujours laccent sur la créativité et un design cohérent.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00LPSK93O/?tag=tolees0d-21)
