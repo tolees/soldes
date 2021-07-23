@@ -28,9 +28,9 @@ Vous avez [Panama Jack Sulia Basics  Sandales Bride Cheville Femme  Rouge  Rojo 
 
 ℹ️:
 
-- Fabriqué en Espagne
 - Hauteur du talon : 4,50 cm
 - Panama Jack Sandales Rojo pour femme Rouge
 - Matériau principal : nubuck, Matériau de la semelle : polyuréthane
+- Fabriqué en Espagne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y27ND8G/?tag=tolees0d-21)

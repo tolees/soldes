@@ -28,11 +28,11 @@ Vous avez [LEGO Friends - L’écurie de Mia - 41361 - Jeu de construction](http
 
 ℹ️:
 
-- Inclut une mini-poupée Mia LEGO Friends, plus 2 figurines de poulain et une figurine de lapin.
-- Le tracteur mesure plus de 4 cm de haut, 10 cm de long et 5 cm de large.
-- Construisez lécurie de Mia et laissez votre enfant exprimer sa passion pour les animaux.
-- Les ensembles LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes enfants. Cela permet de les aider à développer leur confiance en eux avec des instructions de montage simples pour une entrée en douceur dans la construction en briques LEGO.
-- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - 118 pièces pour les filles et les garçons de 4 ans et plus.
+- Le tracteur mesure plus de 4 cm de haut, 10 cm de long et 5 cm de large.
+- Inclut une mini-poupée Mia LEGO Friends, plus 2 figurines de poulain et une figurine de lapin.
+- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Les ensembles LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes enfants. Cela permet de les aider à développer leur confiance en eux avec des instructions de montage simples pour une entrée en douceur dans la construction en briques LEGO.
+- Construisez lécurie de Mia et laissez votre enfant exprimer sa passion pour les animaux.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNN12NN/?tag=tolees0d-21)

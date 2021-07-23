@@ -28,10 +28,10 @@ Vous avez [Objectif walimex pro 35/1 4 pour Canon EF](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- 1x objectif 35/1,4 Walimex Pro pour Canon EF, sac de rangement de qualité, pare-soleil et cache dobjectif incl.
+- Sur lappareil photo APS-C avec un angle de prise de vue de 40°, un objectif standard, Limite de mise au point à courte distance 0,30m, Mise au point manuelle
 - Grand-angle de reportage et paysage avec un angle de prise de vue de 64° sur lappareil photo plein format, associé à un 85/1,4, une combinaison classique
+- 1x objectif 35/1,4 Walimex Pro pour Canon EF, sac de rangement de qualité, pare-soleil et cache dobjectif incl.
 - adapté aux appareils photos plein format et APS-C, Intensité ultra-lumineuse avec une ouverte de départ de 1,5 pour une réserve de lumière
 - Très grande qualité de restitution en raison des lentilles asphériques et verres à haut indice de réfraction, Mise au point interne, Monture métallique robuste et très classique
-- Sur lappareil photo APS-C avec un angle de prise de vue de 40°, un objectif standard, Limite de mise au point à courte distance 0,30m, Mise au point manuelle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004Z4TYHM/?tag=tolees0d-21)

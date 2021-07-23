@@ -28,10 +28,10 @@ C'est en vente [Nebula Capsule par Anker Mini projecteur Wi-FI Intelligent 100�
 
 ℹ️:
 
+- Vous recevrez : le pico-projecteur Nebula Capsule, une télécommande, un guide dutilisation, notre garantie de 12 mois et le support de notre service client. Note : adaptateur non inclus. Nous vous recommandons dutiliser un adaptateur Quick Charge 2.0 (9V/2A)
+- Le divertissement à domicile : profitez de vos films préférés, de vos émissions de télévision et de bien dautres contenus, grâce à une image jusquà 100 pouces grâce à la conception du projecteur Capsule de la taille dune canette.
 - Enceinte 360° : Capsule est équipé dune puissante enceinte omnidirectionnelle pour les bandes son de vos films, ou bien juste pour écouter vos titres préférés.
 - Netteté et contraste surprenants : les algorithmes IntelliBright du processeur DLP offrent des images vives et lumineuses (100 ANSI lumens), dune taille allant jusquà 100 pouces.
-- Le divertissement à domicile : profitez de vos films préférés, de vos émissions de télévision et de bien dautres contenus, grâce à une image jusquà 100 pouces grâce à la conception du projecteur Capsule de la taille dune canette.
 - Android 7.1 : diffusez du streaming ou toute app média avec fluidité. Netflix et YouTube sont déjà pré-installées sur Capsule, pour encore plus simplicité.
-- Vous recevrez : le pico-projecteur Nebula Capsule, une télécommande, un guide dutilisation, notre garantie de 12 mois et le support de notre service client. Note : adaptateur non inclus. Nous vous recommandons dutiliser un adaptateur Quick Charge 2.0 (9V/2A)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079NZXRWR/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ Vous avez [GROHE Ensemble de Douche 4 Jets  Chromé  Tempesta 100  28436002  Arg
 
 ℹ️:
 
-- ShockProof anneau en silicone
-- Douchette 4 jets Tempesta 100 (Rain O², Pluie, Massage, Jet)
-- Barre de douche 600 mm avec curseur et support pivotant
-- Flexible Relexaflex 1750 mm
-- GROHE EasyReach porte savon (27596000)
 - GROHE EcoJoy débit limité 8 l/min
+- GROHE EasyReach porte savon (27596000)
+- Barre de douche 600 mm avec curseur et support pivotant
 - Surface lisse pour un nettoyage facile, résistance à la pression jusquà 5 bars, résistance à la chaleur 70°C
+- Flexible Relexaflex 1750 mm
+- Douchette 4 jets Tempesta 100 (Rain O², Pluie, Massage, Jet)
+- ShockProof anneau en silicone
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075RC6XZL/?tag=tolees0d-21)

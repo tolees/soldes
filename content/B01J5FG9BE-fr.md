@@ -28,10 +28,10 @@ C'est en vente [Philips HR2204/80 Blender chauffant Noir 1 2 L 1000 W](https://w
 
 ℹ️:
 
-- Grand bol de 1,2 l, soit 4 portions en 18 minutes seulement* !
-- Puissance 1 000 W et un nettoyage facile
-- Le programme "Veloute crémeux" pour des soupes gourmandes à base de lait
-- 6 réglages prédéfinis
 - Livre de 38 recettes inclus
+- 6 réglages prédéfinis
+- Puissance 1 000 W et un nettoyage facile
+- Grand bol de 1,2 l, soit 4 portions en 18 minutes seulement* !
+- Le programme "Veloute crémeux" pour des soupes gourmandes à base de lait
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01J5FG9BE/?tag=tolees0d-21)

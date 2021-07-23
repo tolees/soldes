@@ -28,10 +28,10 @@ C'est en vente [eufy Security Caméra de Surveillance WiFi Extérieure sans Fil 
 
 ℹ️:
 
-- Surveillance wifi extérieure HD - Regardez la diffusion en direct et enregistrez des séquences en haute définition 1080p HD pour que vous puissiez voir exactement ce qui se passe dans et autour de votre maison.
+- 180 jours de vidéo en une charge - Évitez les déplacements fréquents pour recharger la batterie de la caméra et profitez dune autonomie de 180 jours à partir dune seule charge.
+- Les alertes qui comptent - La technologie de détection humaine permet à la caméra de détecter intelligemment la forme du corps et les contours du visage. Vous êtes uniquement alerté lorsquune personne, et non un chat errant, approche.
 - Écran couleur jour et nuit - Visualisez les enregistrements ou les séquences en direct en couleur, même la nuit, pour voir clairement qui est là.
 - Prêt pour toutes les conditions météorologiques - Grâce à son indice de protection IP67, la eufyCam 2C est conçue pour résister aux éléments.
-- Les alertes qui comptent - La technologie de détection humaine permet à la caméra de détecter intelligemment la forme du corps et les contours du visage. Vous êtes uniquement alerté lorsquune personne, et non un chat errant, approche.
-- 180 jours de vidéo en une charge - Évitez les déplacements fréquents pour recharger la batterie de la caméra et profitez dune autonomie de 180 jours à partir dune seule charge.
+- Surveillance wifi extérieure HD - Regardez la diffusion en direct et enregistrez des séquences en haute définition 1080p HD pour que vous puissiez voir exactement ce qui se passe dans et autour de votre maison.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4MY7HL/?tag=tolees0d-21)

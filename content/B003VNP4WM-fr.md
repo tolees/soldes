@@ -28,10 +28,10 @@ Vous avez [Osram XENARC ORIGINAL D2S HID Brûleur au xénon  lampe à décharge 
 
 ℹ️:
 
-- OSRAM XENARC ORIGINAL D2S: lampes à décharge au xénon DHI puissantes de qualité OEM (OEM) pour projecteurs sans souci
 - Ampoule Xenon que pièces de rechange dorigine: version D2S, 85V, 35W, 3200 lm, 4300 Kelvin, P32d-2
-- A fait ses preuves des millions de fois dans les voitures neuves des constructeurs
 - La qualité de ce produit est garantie par une garantie du fabricant de la part dOSRAM pouvant aller jusquà 4 ans. Il est recommandé de changer les lampes au xénon dun professionnel
 - Brûleur au xénon D2S de qualité OEM: excellent rendement lumineux et durée de vie fiable
+- A fait ses preuves des millions de fois dans les voitures neuves des constructeurs
+- OSRAM XENARC ORIGINAL D2S: lampes à décharge au xénon DHI puissantes de qualité OEM (OEM) pour projecteurs sans souci
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003VNP4WM/?tag=tolees0d-21)

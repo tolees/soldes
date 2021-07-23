@@ -28,10 +28,10 @@ Vous avez [MYCARBON Souffleur Ventilateur sur Pied Turbo Ventilateur Portable 30
 
 ℹ️:
 
-- ✔3 Vitesses + Timer 7.5 h - 3 vitesses en tout pour votre choix, il peut répondre à vos différents besoins dans différents scénarios; la Fonction minuteur laissera vos mains libres, le ventilateur est programmable de 0.5h jusquà 7.5h.
-- ✔Scénario dUtilisation - Son vent ultra puissant le rend approprié non seulement pour un usage domestique, mais aussi pour un usage commercial. Scénarios dutilisation: Toilettes, cuisine, gymnase, studio de photographie, barbecue, atelier,, garage, sous-sols, cours, supermarchés, magasins, comptoirs, utilisés pour sécher les tapis, les peintures, les sols, les meubles, les murs, etc.
-- ✔3D Oscillation + Télécommande - MYCARBON petit ventilateur peut osciller automatiquement à 65°à gauche et à droite, et peut être réglé manuellement de 90°de haut en bas, il peut couvrir une très grande surface; Sa télécommande infrarouge vous permet de contrôler facilement le ventilateur de table sans vous déplacer.
 - ✔Vent Turbo Ultra Puissant - Equipé dune turbine centrifuge, MYCARBON ventilateur puissant peut produire un effet de suralimentation, accélérer la circulation dair et ventiler très rapidement la pièce. Débit dair max: 3000 m3/h, il sadapte à un espace jusquà 80m².
+- ✔3D Oscillation + Télécommande - MYCARBON petit ventilateur peut osciller automatiquement à 65°à gauche et à droite, et peut être réglé manuellement de 90°de haut en bas, il peut couvrir une très grande surface; Sa télécommande infrarouge vous permet de contrôler facilement le ventilateur de table sans vous déplacer.
 - ✔Facile à Transporter et Facile à Nettoyer - Différent des ventilateurs sur pied classique, MYCARBON brasseur dair est compact et peu encombrant, ne pèse que 4.8kg, facile à transporter et à ranger; Le ventilateur est facile à démonter et nettoyer, même si vous nêtes pas maniaque.
+- ✔Scénario dUtilisation - Son vent ultra puissant le rend approprié non seulement pour un usage domestique, mais aussi pour un usage commercial. Scénarios dutilisation: Toilettes, cuisine, gymnase, studio de photographie, barbecue, atelier,, garage, sous-sols, cours, supermarchés, magasins, comptoirs, utilisés pour sécher les tapis, les peintures, les sols, les meubles, les murs, etc.
+- ✔3 Vitesses + Timer 7.5 h - 3 vitesses en tout pour votre choix, il peut répondre à vos différents besoins dans différents scénarios; la Fonction minuteur laissera vos mains libres, le ventilateur est programmable de 0.5h jusquà 7.5h.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0855JNB8J/?tag=tolees0d-21)
