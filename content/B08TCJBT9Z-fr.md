@@ -30,8 +30,8 @@ C'est en vente [TALIUS  TECH 4 U - [Pack économique de TALIUS] : Boîtier ATX G
 
 - Profitez de ce nouveau pack économique de Talius qui comprend le boîtier Talius Cygnus (comprend 4 ventilateurs) chargé et 5 ventilateurs Shield RGB supplémentaires. Avec ce pack, vous donnerez à votre nouveau setup gaming un look unique grâce aux vitres
 - 1 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- La boîte cygnuscygnus casse le moule de ce qui est établi, le design trapézoïdal des verres trempés Premium enveloppe complètement la boîte, lensemble est complété par les 4 ventilateurs talius qui donnent à lensemble laspect dun totem futuriste.
 - Pack économique talius cygnus : profitez avant lépuisement de ce nouveau pack économique de talius qui comprend le boîtier talius cygnus (comprend 4 ventilateurs) chargé de design et 5 ventilateurs shield rgb supplémentaires.
+- La boîte cygnuscygnus casse le moule de ce qui est établi, le design trapézoïdal des verres trempés Premium enveloppe complètement la boîte, lensemble est complété par les 4 ventilateurs talius qui donnent à lensemble laspect dun totem futuriste.
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08TCJBT9Z/?tag=tolees0d-21)

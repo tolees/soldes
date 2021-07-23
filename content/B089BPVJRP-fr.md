@@ -28,13 +28,13 @@ C'est en vente [Krups Nespresso - Krups Vertuo Next gris clair Machine expresso
 
 ℹ️:
 
-- CONCUE avec 54% de plastique recyclé
 - Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
-- Mode autonomie d’énergie après 2 minutes d’inutilisation
 - 1 machine, 5 TAILLES DE TASSES pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à Alto, en passant par le Mug
-- UN SEUL BOUTON pour réaliser un café quelle que soit la taille de capsule choisie
-- EJECTION AUTOMATIQUE des capsules
-- Réparabilité 15 ans, Garantie 2 ans
 - CONNECTIVITE via Bluetooth et Wi-Fi pour une utilisation optimale
+- CONCUE avec 54% de plastique recyclé
+- Réparabilité 15 ans, Garantie 2 ans
+- UN SEUL BOUTON pour réaliser un café quelle que soit la taille de capsule choisie
+- Mode autonomie d’énergie après 2 minutes d’inutilisation
+- EJECTION AUTOMATIQUE des capsules
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089BPVJRP/?tag=tolees0d-21)
