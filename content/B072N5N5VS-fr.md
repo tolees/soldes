@@ -28,9 +28,9 @@ C'est en vente [Garmin - Bracelet de rechange pour Montres Fenix 5 - Quick Fit -
 
 ℹ️:
 
-- Taille du bracelet : 22mm
 - Fixation QuickFit : changement d’un simple geste (pas besoin d’outils)
-- Compatible: Approach S60, D2 Delta, fēnix 5, fēnix 5 Plus, Forerunner 935, Instinct, quatix 5, quatix 5 Sapphire
 - Bracelet en cuir noir
+- Taille du bracelet : 22mm
+- Compatible: Approach S60, D2 Delta, fēnix 5, fēnix 5 Plus, Forerunner 935, Instinct, quatix 5, quatix 5 Sapphire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072N5N5VS/?tag=tolees0d-21)

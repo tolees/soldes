@@ -29,7 +29,7 @@ Vous avez [HP Ed 805 G6 SFF R5P 4650G 8/256Go](https://www.amazon.fr/dp/B08XMWKM
 ℹ️:
 
 - HP ED 805 G6 SFF R5P 4650G 8/256Go
-- 273D7EAABF
 - Cet article n est plus en solde !
+- 273D7EAABF
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08XMWKMNR/?tag=tolees0d-21)

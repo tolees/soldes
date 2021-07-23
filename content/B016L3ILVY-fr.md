@@ -29,11 +29,11 @@ C'est en vente [Polti Nettoyeur Vapeur Vaporetto Smart 30 S  Pression 3 Bars  85
 ℹ️:
 
 - Système parking
-- Débit vapeur réglable ( 0 à 85 gr/ min)
-- Puissance max : 1500 W
-- Voyant « vapeur prête »
 - Bouton on/off
-- Longueur du câble : 4m
+- Débit vapeur réglable ( 0 à 85 gr/ min)
 - Compartiment de rangement accessoires
+- Voyant « vapeur prête »
+- Longueur du câble : 4m
+- Puissance max : 1500 W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B016L3ILVY/?tag=tolees0d-21)

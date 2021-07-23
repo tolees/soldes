@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BGS 2755 | Jeu de Douilles  douze pans | avec 55.35 % rabais '
-date: 2021-07-22 11:35:59
+date: 2021-07-23 18:12:11
 image: 'https://m.media-amazon.com/images/I/31XrUmlOJaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [BGS 2755 | Jeu de Douilles  douze pans | 6 3 mm  1/4"  | en pouc
 
 ℹ️:
 
-- En acier au chrome-vanadium
-- Traitement de surface: chromé, mat
+- avec cannelure
 - Sur rail de métal
 - Douilles pour clé, carré 6,3 mm (1/4"): 5/32" - 3/16" - 7/32" - 1/4" - 9/32" - 5/16" - 11/32" - 3/8" - 7/16" - 15/32" - 1/2" - 9/16"
-- avec cannelure
+- En acier au chrome-vanadium
+- Traitement de surface: chromé, mat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004VRBE9O/?tag=tolees0d-21)
