@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO®-Hidden Side Le cimetière mystérieu avec 40.01 % rabais '
-date: 2021-07-21 06:29:17
+date: 2021-07-23 22:21:08
 image: 'https://m.media-amazon.com/images/I/51Px980DuiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ C'est en vente [LEGO®-Hidden Side Le cimetière mystérieux Garçon et Fille 7 
 
 ℹ️:
 
-- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
-- Le cimetière mesure plus de 14 cm de haut, 32 cm de large et 10 cm de profondeur ; Application disponible en français ; Lautorisation des parents est nécessaire
-- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Ce jouet incluant une application de réalité augmentée comprenant 4 figurines pour vivre la chasse aux fantômes dans le monde physique et dans lapplication de réalité augmentée
-- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
-- Assurez-vous que vos appareils sont compatibles avec des applications de réalité augmentée
 - Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) ; Lapplication est compatible avec une sélection dappareils iOS et Android
-- L’expérience en réalité augmentée LEGO hidden side n’est compatible qu’avec les portables et tablettes supportant la technologie de réalité augmentée
+- Ce jouet incluant une application de réalité augmentée comprenant 4 figurines pour vivre la chasse aux fantômes dans le monde physique et dans lapplication de réalité augmentée
 - Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
+- Le cimetière mesure plus de 14 cm de haut, 32 cm de large et 10 cm de profondeur ; Application disponible en français ; Lautorisation des parents est nécessaire
+- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
+- Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
+- L’expérience en réalité augmentée LEGO hidden side n’est compatible qu’avec les portables et tablettes supportant la technologie de réalité augmentée
+- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
 - Le cimetière mystérieux à construire inclut une statue qui tourne, une tombe qui souvre et un arbre hanté avec des bras articulés
+- Assurez-vous que vos appareils sont compatibles avec des applications de réalité augmentée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ND9GYZ3/?tag=tolees0d-21)
