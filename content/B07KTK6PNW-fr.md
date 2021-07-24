@@ -28,15 +28,15 @@ Vous avez [LEGO®-Friends La mission de sauvetage des tortues Jouet pour Fille e
 
 ℹ️:
 
-- Les accessoires incluent 2 coquilles dœufs de tortue, un gilet de sauvetage, un anneau de sécurité, un mégaphone, une bouteille de lait, une seringue, du jus dorange, une pastèque et un ballon.
-- Les enfants découvrent comment prendre soin dun animal.
-- À combiner avec les ensembles LEGO Friends La mission de sauvetage des dauphins 41378, Le centre de sauvetage du phare 4138 et Le bateau de sauvetage 41381, pour prolonger le plaisir et laction.
-- Cette mission de sauvetage LEGO est une source dinspiration pour les jeunes constructeurs.
-- Les ensembles LEGO Friends stimulent limagination et rendent la construction à la fois créative et amusante.
-- Lappli LEGO Life permet daccéder aux instructions de montage intuitives Instructions PLUS. Celles-ci accompagnent les constructeurs, même les plus jeunes, dans le processus de construction, avec des fonctions de zoom, de rotation et un mode fantôme pour visualiser leurs créations.
-- Ce jouet pour filles et garçons fait partie de lunivers passionnant de LEGO Friends, avec ses héros du quotidien et ses scénarios ancrés dans la vie réelle.
 - Un cadeau idéal pour les enfants créatifs.
-- Comprend une voiture amphibie, une clinique de plage sur pilotis avec zone dexamen et aire de jeu sableuse, et une île.
+- Ce jouet pour filles et garçons fait partie de lunivers passionnant de LEGO Friends, avec ses héros du quotidien et ses scénarios ancrés dans la vie réelle.
+- À combiner avec les ensembles LEGO Friends La mission de sauvetage des dauphins 41378, Le centre de sauvetage du phare 4138 et Le bateau de sauvetage 41381, pour prolonger le plaisir et laction.
 - Inclut une mini-poupée Olivia, le robot Zobo et 4 tortues.
+- Lappli LEGO Life permet daccéder aux instructions de montage intuitives Instructions PLUS. Celles-ci accompagnent les constructeurs, même les plus jeunes, dans le processus de construction, avec des fonctions de zoom, de rotation et un mode fantôme pour visualiser leurs créations.
+- Les enfants découvrent comment prendre soin dun animal.
+- Les accessoires incluent 2 coquilles dœufs de tortue, un gilet de sauvetage, un anneau de sécurité, un mégaphone, une bouteille de lait, une seringue, du jus dorange, une pastèque et un ballon.
+- Les ensembles LEGO Friends stimulent limagination et rendent la construction à la fois créative et amusante.
+- Cette mission de sauvetage LEGO est une source dinspiration pour les jeunes constructeurs.
+- Comprend une voiture amphibie, une clinique de plage sur pilotis avec zone dexamen et aire de jeu sableuse, et une île.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KTK6PNW/?tag=tolees0d-21)

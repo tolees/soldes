@@ -28,12 +28,12 @@ Vous avez [Durable 488201 Duraframe Boîte de 10 Cadres d affichages repositionn
 
 ℹ️:
 
-- Protection transparente anti-reflet
-- Dimensions extérieures : 236 x 323 mm
-- Encadrement magnétique permettant une actualisation simple et rapide du document
-- Ne pas coller sur des surfaces fragiles (ex : papier peint)
-- Pouvant être utilisé aux Format Portrait ou Paysage
-- Possibilité d’affichage recto verso sur une surface vitrée
 - Dos adhésif : se colle sur toutes surfaces planes comme les surfaces vitrées
+- Dimensions extérieures : 236 x 323 mm
+- Ne pas coller sur des surfaces fragiles (ex : papier peint)
+- Possibilité d’affichage recto verso sur une surface vitrée
+- Pouvant être utilisé aux Format Portrait ou Paysage
+- Protection transparente anti-reflet
+- Encadrement magnétique permettant une actualisation simple et rapide du document
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006UAB0SA/?tag=tolees0d-21)

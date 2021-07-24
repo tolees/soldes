@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Sécateur de jardin sans fil Bosch - Eas
 
 ℹ️:
 
-- Batterie endurante : Jusqu’à 450 coupes par charge grâce à la puissante batterie intégrée
-- Recharge facile : Le câble micro USB permet de recharger l’outil partout. La LED indique quand la batterie est entièrement rechargée
+- Coupe et élagage sans effort grâce à l’assistance électrique réglable : coupe facile de branches jusqu’à 25 mm d’épaisseur grâce au moteur électrique
 - Coupes franches et nettes : Le sécateur électrique coupe de manière nette les branches fines et épaisses et les lames en acier inoxydable favorisent la croissance saine des végétaux
 - Les outils de jardin de la gamme « Easy » Bosch : les assistants pratiques pour vos projets du quotidien
-- Coupe et élagage sans effort grâce à l’assistance électrique réglable : coupe facile de branches jusqu’à 25 mm d’épaisseur grâce au moteur électrique
+- Recharge facile : Le câble micro USB permet de recharger l’outil partout. La LED indique quand la batterie est entièrement rechargée
+- Batterie endurante : Jusqu’à 450 coupes par charge grâce à la puissante batterie intégrée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083QLYK7V/?tag=tolees0d-21)
