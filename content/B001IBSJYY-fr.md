@@ -28,8 +28,8 @@ C'est en vente [Bosch Robust Line / 2607010540 Coffret de lames pour scie sauteu
 
 ℹ️:
 
-- Contenu du set : t 101 ao clean for wood / t 101 b clean for wood / t 101 br clean for wood / t 101 aof clean for hard wood / t 101 bf clean for hard wood / t 101 brf clean for hard wood / t 244 d speed for wood / t 144 d speed for wood / t 144 df speed for hard wood / t 144 dp precision for wood
 - Taille du set : c
+- Contenu du set : t 101 ao clean for wood / t 101 b clean for wood / t 101 br clean for wood / t 101 aof clean for hard wood / t 101 bf clean for hard wood / t 101 brf clean for hard wood / t 244 d speed for wood / t 144 d speed for wood / t 144 df speed for hard wood / t 144 dp precision for wood
 - Dimensions assortiment [ mm] : 124 x 107 x 23
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001IBSJYY/?tag=tolees0d-21)

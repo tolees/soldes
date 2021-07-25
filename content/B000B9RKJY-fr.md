@@ -28,10 +28,10 @@ C'est en vente [Bgs 2222 | Jeu de Douilles  Six Pans  Longues | 10 mm  3/8"  | 8
 
 ℹ️:
 
-- Douilles pour clé, Pro Torque, carré 10 mm (3/8"): 8 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 mm
-- avec cannelure
-- En acier au chrome-vanadium
 - Traitement de surface: chromé, mat
 - Sur rail de métal
+- avec cannelure
+- En acier au chrome-vanadium
+- Douilles pour clé, Pro Torque, carré 10 mm (3/8"): 8 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000B9RKJY/?tag=tolees0d-21)

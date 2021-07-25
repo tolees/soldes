@@ -29,9 +29,9 @@ C'est en vente [JBL Xtreme 2 Gun Metal – Enceinte Bluetooth portable – Water
 ℹ️:
 
 - La JBL Xtreme 2 Gun Metal est une enceinte Bluetooth qui assure un son incroyablement puissant - avec 4 haut-parleurs et 2 radiateurs de graves JBL profitez dun son inégalé partout où vous allez
-- Jusquà 15 heures de musique non-stop ! Lenceinte JBL est dotée dune batterie rechargeable Li-ion de 10 000 mAh et dun port USB pratique pour recharger vos appareils (smartphone / tablette)
 - Livraison : JBL Xtreme 2 Gun Metal / Adaptateur secteur / Sangle / Guide de démarrage rapide / Fiche de sécurité / Dimensions: 136 x 288 x 132 mm / Décapsuleur intégré inclus / Gris métal
-- Donnez plus dampleur à la fête : lenceinte JBL offre une diffusion Bluetooth à partir de votre smartphone ou tablette. Connectez + de 100 enceintes JBL entre elles avec la Technologie Connect+
+- Jusquà 15 heures de musique non-stop ! Lenceinte JBL est dotée dune batterie rechargeable Li-ion de 10 000 mAh et dun port USB pratique pour recharger vos appareils (smartphone / tablette)
 - Sur le bord de la piscine, à la plage ou sous la douche, lenceinte Xtreme 2 est étanche et certifiée IPX7. La musique ne risque pas de sarrêter, alors détendez vous et plongez !
+- Donnez plus dampleur à la fête : lenceinte JBL offre une diffusion Bluetooth à partir de votre smartphone ou tablette. Connectez + de 100 enceintes JBL entre elles avec la Technologie Connect+
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PCYZVD7/?tag=tolees0d-21)

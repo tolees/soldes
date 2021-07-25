@@ -28,7 +28,7 @@ C'est en vente [Paladone- Jeu de Cartes  PP6587MCF](https://www.amazon.fr/dp/B08
 
 ℹ️:
 
-- Idéal pour emmener à un pique-nique, à la plage ou à un dîner pour jouer avec vos amis !
 - Un jeu de 54 cartes aux couleurs de Minecraft
+- Idéal pour emmener à un pique-nique, à la plage ou à un dîner pour jouer avec vos amis !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082XGXLW5/?tag=tolees0d-21)

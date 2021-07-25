@@ -28,8 +28,8 @@ C'est en vente [LaCie LAC301558 Disque Dur Externe 2" 1/2 USB 3.0 Rugged MINI 1T
 
 ℹ️:
 
-- LaCie Rugged Mini. Capacité disque dur: 1000 Go
 - Configuration requise: dernière version de Windows 7, Windows 8 / Mac OS X 10.5 et versions ultérieures
 - Taille du disque dur: 2.5". Version USB: 3.0 (3.1 Gen 1). Vitesse de rotation du disque dur: 5400 tr/min. Couleur du produit: Orange
+- LaCie Rugged Mini. Capacité disque dur: 1000 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CHXF79W/?tag=tolees0d-21)

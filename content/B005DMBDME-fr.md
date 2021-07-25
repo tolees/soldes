@@ -28,9 +28,9 @@ C'est en vente [DE BUYER -3361.40 -plaque rectang.inox 10.10° b.p 40x30](https:
 
 ℹ️:
 
-- Dimensions : 37,5 x 27 x 0,7 cm
+- Passe au lave-vaisselle.
 - Made in France
 - Garantie : 3 mois
-- Passe au lave-vaisselle.
+- Dimensions : 37,5 x 27 x 0,7 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005DMBDME/?tag=tolees0d-21)

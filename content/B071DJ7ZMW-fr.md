@@ -28,10 +28,10 @@ C'est en vente [Brabantia Poubelle Murale NewIcon 3 litres -Inox mat](https://ww
 
 ℹ️:
 
-- Fermeture silencieuse et antiodeur
-- Dimensions: 26, 4x16, 8x20, 7 cm
 - Retrait facile de la fixation murale pour un nettoyage en Profondeur
 - Idéale pour la salle de bains
 - Dotée dun seau intérieur plastique amovible pour un nettoyage facilité
+- Dimensions: 26, 4x16, 8x20, 7 cm
+- Fermeture silencieuse et antiodeur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071DJ7ZMW/?tag=tolees0d-21)
