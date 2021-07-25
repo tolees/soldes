@@ -28,11 +28,11 @@ Vous avez [DVB-S2 THOMSON  THS804 TNTSAT ](https://www.amazon.fr/dp/B00YCK6BZ2/?
 
 ℹ️:
 
-- PRATIQUE ET NOMADE: regardez la TV lors de vos déplacements en connectant le décodeur à la prise allume cigare de votre caravane, bateau… (prise allume cigare 12V non fournie)
-- GENERAL: Profitez des chaînes HD de la TNT disponibles par satellite avec TNTSAT ainsi que des chaînes TV et radio en clair d’ASTRA 19.2°E
-- MULTIMEDIA ET EXTRAS: Enregistrez vos programmes TV favoris: connectez en toute simplicité votre disque dur sur le port USB du décodeur. 8 plages de programmation et une mise en veille possible, Guide et programme électronique (EPG): informations à l’écran sur les évènements présents et sur les 7 jours suivants, Service télétexte
-- DÉCODEUR CANAL READY: accédez aux chaines des offres Canal + et Canalsat en insérant votre carte dans le lecteur de carte Viaccess du terminal satellite HD
-- Impédance du signal dentrée: 75 Ohm + / - 5%
 - CONTENU DE LEMBALLAGE: Récepteur THS804, Télécommande, 2x piles (type AAA), adaptateur d’alimentation 12 V
+- Impédance du signal dentrée: 75 Ohm + / - 5%
+- MULTIMEDIA ET EXTRAS: Enregistrez vos programmes TV favoris: connectez en toute simplicité votre disque dur sur le port USB du décodeur. 8 plages de programmation et une mise en veille possible, Guide et programme électronique (EPG): informations à l’écran sur les évènements présents et sur les 7 jours suivants, Service télétexte
+- PRATIQUE ET NOMADE: regardez la TV lors de vos déplacements en connectant le décodeur à la prise allume cigare de votre caravane, bateau… (prise allume cigare 12V non fournie)
+- DÉCODEUR CANAL READY: accédez aux chaines des offres Canal + et Canalsat en insérant votre carte dans le lecteur de carte Viaccess du terminal satellite HD
+- GENERAL: Profitez des chaînes HD de la TNT disponibles par satellite avec TNTSAT ainsi que des chaînes TV et radio en clair d’ASTRA 19.2°E
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YCK6BZ2/?tag=tolees0d-21)

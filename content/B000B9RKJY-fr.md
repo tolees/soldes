@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bgs 2222 | Jeu de Douilles  Six Pans  Lo avec 39.03 % rabais '
-date: 2021-07-24 18:28:17
+date: 2021-07-25 18:35:10
 image: 'https://m.media-amazon.com/images/I/31UY+5whw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Bgs 2222 | Jeu de Douilles  Six Pans  Longues | 10 mm  3/8"  | 8
 
 ℹ️:
 
-- avec cannelure
 - Douilles pour clé, Pro Torque, carré 10 mm (3/8"): 8 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 mm
-- Traitement de surface: chromé, mat
+- avec cannelure
 - En acier au chrome-vanadium
+- Traitement de surface: chromé, mat
 - Sur rail de métal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000B9RKJY/?tag=tolees0d-21)
