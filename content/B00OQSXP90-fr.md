@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.20 % rabais sur FEBER Activity Park - Centre d activités'
-date: 2021-07-22 13:43:41
+date: 2021-07-25 08:43:43
 image: 'https://m.media-amazon.com/images/I/41MUQOyswpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Vous avez [FEBER Activity Park - Centre d activités avec toboggan pour enfants 
 - Les couleurs sont lumineuses, résistantes au soleil et aux changements de température
 - Facile à monter
 - Âge minimum : 3 ans
-- Dimensions : 109x54x6050 cm
 - Il y a un toboggan pour glisser et si vous le retournez, il y a des escaliers pour grimper
+- Dimensions : 109x54x6050 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OQSXP90/?tag=tolees0d-21)
