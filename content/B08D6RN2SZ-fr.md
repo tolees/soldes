@@ -28,8 +28,8 @@ Vous avez [2K - WWE Battleground  PS4 ](https://www.amazon.fr/dp/B08D6RN2SZ/?tag
 
 ℹ️:
 
+- "Devenez maître de wwe 2K battlegrounds grâce à des tas d’éléments personnalisables. Créez, personnalisez et modifiez vos propres personnages et battlegrounds originaux créés par vos soins ! "
 - "Combattez dans des tournois en ligne ou revendiquez votre titre de king of the battleground et survivez à la mêlée en ligne contre des joueurs du monde entier ! "
 - "Luttez sans retenue avec plus de 70 superstars et légendes de la wwe, incarnez vos préférées pour des combats dans ce pandémonium dérangé, agressif et sans retenue ! "
-- "Devenez maître de wwe 2K battlegrounds grâce à des tas d’éléments personnalisables. Créez, personnalisez et modifiez vos propres personnages et battlegrounds originaux créés par vos soins ! "
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D6RN2SZ/?tag=tolees0d-21)

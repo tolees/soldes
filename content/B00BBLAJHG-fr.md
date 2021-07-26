@@ -28,10 +28,10 @@ Vous avez [Smiffy s - Smiffys Perruque nuque longue  brune](https://www.amazon.f
 
 ℹ️:
 
-- Veuillez noter que tous les produits de Smiffys arriveront dans l’emballage entier marqué par Smiffys.
 - Disponible seulement en taille unique
-- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
-- Inclus Smiffys Perruque nuque longue, brune
 - Smiffys est un fournisseur principal de déguisements et entreprise familiale avec un héritage de 123 années en costumes, perruques, maquillage et accessoires.
+- Inclus Smiffys Perruque nuque longue, brune
+- Veuillez noter que tous les produits de Smiffys arriveront dans l’emballage entier marqué par Smiffys.
+- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BBLAJHG/?tag=tolees0d-21)

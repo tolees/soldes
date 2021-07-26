@@ -28,8 +28,8 @@ Vous avez [Marqueur STABILO Write-4-all - Lot de 10 marqueurs toutes surfaces li
 
 ℹ️:
 
-- Type de produit : Stylo feutre Pointe moyenne - Lot de 10
-- Description du produit : Stabilo - 14646-N WRITE 4 ALL
 - Couleur : Noir
+- Description du produit : Stabilo - 14646-N WRITE 4 ALL
+- Type de produit : Stylo feutre Pointe moyenne - Lot de 10
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000TKHE8C/?tag=tolees0d-21)

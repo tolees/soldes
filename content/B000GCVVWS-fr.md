@@ -28,7 +28,7 @@ Vous avez [Palmer s Hair Food Formula Baume de Soin Capillaire Sans Rincage Long
 
 ℹ️:
 
-- Appliquer une noisette de produit sur cheveux humides ou secs. Ne se rince pas.
 - Nourrit et redonne de la brillance aux cheveux, associe les vitamines A et E à des protéines dhuiles essentielles et des assouplissants. Rend les cheveux souples, faciles à coiffer et naturellement brillants.
+- Appliquer une noisette de produit sur cheveux humides ou secs. Ne se rince pas.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000GCVVWS/?tag=tolees0d-21)

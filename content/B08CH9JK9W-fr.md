@@ -28,12 +28,12 @@ C'est en vente [TP-Link CPL 1000Mbps  Prise CPL avec 1 Port Gigabit et Prise Int
 
 ℹ️:
 
-- PORT ETHERNET GIGABIT - Le port Gigabit de boitier CPL fournit des réseaux câblés sécurisés pour votre PC, votre TV Connectée ou votre consoles de jeux
-- VERSION FRANÇAISE - Avec prise terre sur la prise intégrée pour un branchement optimal
-- CPL HAUT DÉBIT - Débit de prise CPL jusquà 1 Gbit/s, idéal pour le streaming 4K et les jeux en ligne sans latence
 - SERVICE CLIENT - Si vous avez plus de questions, recherchez «TP-Link France Zoho Desk» sur Navigateur Web pour ouvrir votre Ticket
-- LARGE COMPATIBILITÉ - Compatible avec toutes les box internet. Mode veille breveté réduisant la consommation électrique de près de 85 %
 - INSTALLATION FACILE - Plug and Play. Aucune configuration requise ! Branchez le CPL dans une prise murale pour éviter les interférences et obetinir les débit plus puissant
+- PORT ETHERNET GIGABIT - Le port Gigabit de boitier CPL fournit des réseaux câblés sécurisés pour votre PC, votre TV Connectée ou votre consoles de jeux
+- CPL HAUT DÉBIT - Débit de prise CPL jusquà 1 Gbit/s, idéal pour le streaming 4K et les jeux en ligne sans latence
 - PRISE INTÉGRÉE - Prise gigogne permettant de brancher dautres appareils situés dans votre salon ou bureau
+- LARGE COMPATIBILITÉ - Compatible avec toutes les box internet. Mode veille breveté réduisant la consommation électrique de près de 85 %
+- VERSION FRANÇAISE - Avec prise terre sur la prise intégrée pour un branchement optimal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CH9JK9W/?tag=tolees0d-21)

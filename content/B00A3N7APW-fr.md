@@ -28,14 +28,14 @@ C'est en vente [Gant - 2201 - Polo - Homme - Rouge - Rot  BRIGHT RED  - XL](http
 
 ℹ️:
 
-- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
-- 100 % coton.
-- Entretien : lavable en machine à chaud (40° +).
 - Matériau intérieur : sans doublure.
+- Polo à manches courtes avec logo Gant Shield brodé à gauche de la poitrine.
+- Style de col : polo.
+- Numéro du modèle : 2201.
+- 100 % coton.
 - Polo piqué original de Gant.
 - En raison du changement saisonnier, le point de couture, le logo et le bouton peuvent différer des images du catalogue.
-- Numéro du modèle : 2201.
-- Style de col : polo.
+- Entretien : lavable en machine à chaud (40° +).
 - Manches courtes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00A3N7APW/?tag=tolees0d-21)
