@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD Black D10 for Xbox 12To - Disque dur extern
 
 ℹ️:
 
-- 12 To pour pouvoir enregistrer jusquà 300 jeux sur votre Xbox et vous créer une vaste collection
-- La qualité et la fiabilité WD_BLACK : un produit conçu spécialement pour les gamers
 - Abonnement de 1 mois au Xbox Game Pass Ultimate inclus avec votre achat
 - Deux ports USB Type-A de 7,5 W pour recharger votre équipement et vos accessoires de jeu
+- La qualité et la fiabilité WD_BLACK : un produit conçu spécialement pour les gamers
+- 12 To pour pouvoir enregistrer jusquà 300 jeux sur votre Xbox et vous créer une vaste collection
 - Disque doté dune vitesse allant jusquà 250 Mo/s et dune performance de 7200 tr/min avec une technologie de refroidissement actif
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WF8LQL5/?tag=tolees0d-21)
