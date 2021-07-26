@@ -28,12 +28,12 @@ C'est en vente [LEGO 42111 Technic La Dodge Charger de Dom  Ensemble de Construc
 
 ℹ️:
 
-- Les pilotes en herbe vont adorer le set LEGO Technic Avion de course (42117). Avec ses couleurs vives, ses autocollants de sponsors et son hélice qui tourne, il a l’air plus vrai que nature.
-- Avec le guide interactif Instructions PLUS, la construction devient encore plus amusante. Disponible dans l’application Instructions de montage LEGO gratuite, il propose des outils de zoom et de rotation pour aider les enfants à construire de manière indépendante.
 - Le modèle de l’avion de course mesure plus de 9 cm de haut (hélice comprise), 18 cm de long et 23 cm de large.
-- Ce modèle inclut de nombreux détails que les enfants passionnés de jouets volants vont découvrir avec plaisir. Le capot du moteur qui s’ouvre, le train d’atterrissage et l’hélice favorisent le jeu de rôle sur le thème des courses aéronautiques.
-- Les enfants vont adorer construire cet avion de voltige résistant avant de le transformer en un avion à réaction pour encore plus de jeux créatifs.
+- Avec le guide interactif Instructions PLUS, la construction devient encore plus amusante. Disponible dans l’application Instructions de montage LEGO gratuite, il propose des outils de zoom et de rotation pour aider les enfants à construire de manière indépendante.
 - L’univers LEGO Technic propose des modèles à construire complexes pour les jeunes fans de LEGO prêts à relever leur prochain défi de construction.
 - Constitue un superbe cadeau à offrir pour Noël, un anniversaire ou toute autre occasion aux enfants de 7 ans et plus qui aiment les avions de voltige.
+- Les enfants vont adorer construire cet avion de voltige résistant avant de le transformer en un avion à réaction pour encore plus de jeux créatifs.
+- Ce modèle inclut de nombreux détails que les enfants passionnés de jouets volants vont découvrir avec plaisir. Le capot du moteur qui s’ouvre, le train d’atterrissage et l’hélice favorisent le jeu de rôle sur le thème des courses aéronautiques.
+- Les pilotes en herbe vont adorer le set LEGO Technic Avion de course (42117). Avec ses couleurs vives, ses autocollants de sponsors et son hélice qui tourne, il a l’air plus vrai que nature.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YYQ89RT/?tag=tolees0d-21)
