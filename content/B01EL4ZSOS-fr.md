@@ -28,8 +28,8 @@ Vous avez [Magma J-WDG150 Douzuki or Scie japonaise  Beige  150 mm](https://www.
 
 ℹ️:
 
-- Espacement entre les dents: 83mm
-- Épaisseur: 0,2mm
 - Longueur de la lame: 150mm
+- Épaisseur: 0,2mm
+- Espacement entre les dents: 83mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EL4ZSOS/?tag=tolees0d-21)

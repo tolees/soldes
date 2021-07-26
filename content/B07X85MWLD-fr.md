@@ -28,8 +28,8 @@ C'est en vente [L Oréal Paris - L Oréal Professionnel Série Expert Vitamino C
 
 ℹ️:
 
-- Masque fixateur de couleur
 - Protection et réparation sans alourdir. Texture gelée
 - Répartir sur cheveux lavés et essorés. Laisser pauser 3-5 minutes. Rincer.
+- Masque fixateur de couleur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X85MWLD/?tag=tolees0d-21)

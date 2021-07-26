@@ -28,10 +28,10 @@ Vous avez [Tapis pour Nettoyer la Semelle du Fer  2.5cm x 12.5cm x 21cm  Tapis N
 
 ℹ️:
 
-- Poids du produit :0.256 kilogrammes
+- Fonctionnement : frotter énergiquement la semelle du fer froid sur le tapis en poussant le fer de l’arrière vers l’avant. Presser ensuite sur le bouton vapeur du fer afin d’éliminer les résidus de saleté dans les trous du fer, avant d’essuyer la semelle avec un chiffon humide
 - Dimensions : 2,5 x 12,5 x 21 cm
 - Garantie : 24 mois
 - Tapis nettoyant permettant au fer à repasser de retrouver sa splendeur du premier jour
-- Fonctionnement : frotter énergiquement la semelle du fer froid sur le tapis en poussant le fer de l’arrière vers l’avant. Presser ensuite sur le bouton vapeur du fer afin d’éliminer les résidus de saleté dans les trous du fer, avant d’essuyer la semelle avec un chiffon humide
+- Poids du produit :0.256 kilogrammes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000J2A2AC/?tag=tolees0d-21)
