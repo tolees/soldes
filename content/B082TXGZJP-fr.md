@@ -28,10 +28,10 @@ Vous avez [Haida Kit de filtres arrière ND pour Sigma 14-24 mm F/2.8 DG DN Art 
 
 ℹ️:
 
+- ► Filtre # 2. ND1.2 ND16 4 Stop.
 - ► Filtre #1 ND0.9 ND8 3 Stop.
+- ► Verre optique trempé multicouche. ► Instructions dinstallation incluses (français non garanti).
 - ►Filtre #4. ND3.0 ND1000 10 Stop.
 - ►Filtre #3. ND1.8 ND64 6 Stop.
-- ► Verre optique trempé multicouche. ► Instructions dinstallation incluses (français non garanti).
-- ► Filtre # 2. ND1.2 ND16 4 Stop.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082TXGZJP/?tag=tolees0d-21)
