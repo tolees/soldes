@@ -28,12 +28,12 @@ Vous avez [1MORE Triple Driver Ecouteur intra-auriculaire très haute résolutio
 
 ℹ️:
 
+- Technologie de contrôle intelligente - les commandes en ligne sont compatibles avec Apple iOS et Android, ce qui vous permet de contrôler facilement le volume, de sélectionner les musiques et de prendre des appels
+- Sensibilité: 99 dB/mW
 - Réglage final par un expert: lingénieur du son Lauréat du prix Grammy Award (Grammies) Luca Bignardi
+- Impédance de haut-parleur: 32Ω
 - Conception ergonomique confortable – les adaptateurs obliques sajustent parfaitement à vos canaux auriculaires
 - Jeu de 8 embouts en mousse ou silicone de tailles différentes qui vous assurent un ajustement parfait à votre oreille
-- Impédance de haut-parleur: 32Ω
-- Sensibilité: 99 dB/mW
 - Trois drivers (transducteurs): 2 diffuseurs en armature équilibrée (balanced armature driver) et un transducteur dynamic distinct vous offrent une qualité découte dune puissance inégalée dans cette gamme de prix
-- Technologie de contrôle intelligente - les commandes en ligne sont compatibles avec Apple iOS et Android, ce qui vous permet de contrôler facilement le volume, de sélectionner les musiques et de prendre des appels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KB9K9Z0/?tag=tolees0d-21)
