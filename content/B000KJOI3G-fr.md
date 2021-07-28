@@ -28,12 +28,12 @@ C'est en vente [Osram Ampoule à Economie d Energie G23 11 W](https://www.amazon
 
 ℹ️:
 
-- Dimensions :21.4xx cm
-- Use in public. Buildings, offices, shops, supermarkets, hotels …
 - Average life: 10,000 h
-- Puissance :11 watts
 - Dimensions :: centimeters
 - allows for creative lighting in high light quality
 - Dimensions :; centimeters
+- Use in public. Buildings, offices, shops, supermarkets, hotels …
+- Puissance :11 watts
+- Dimensions :21.4xx cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000KJOI3G/?tag=tolees0d-21)

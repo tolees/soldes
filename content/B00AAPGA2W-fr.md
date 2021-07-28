@@ -29,7 +29,7 @@ Vous avez [Beeztees Skykennel 2 IATA Caisse de Transport pour Chien de 7-13 5 kg
 ℹ️:
 
 - Conforme aux normes IATA pour le transport aérien
-- Incl. gobelet double ou deux gobelets (en fonction de la taille de la boîte)
 - Treillis des conduits métalliques, serrure de sécurité
+- Incl. gobelet double ou deux gobelets (en fonction de la taille de la boîte)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AAPGA2W/?tag=tolees0d-21)

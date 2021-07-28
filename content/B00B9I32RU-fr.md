@@ -28,12 +28,12 @@ Vous avez [Hansgrohe Colonne de Douche Showerpipe Raindance Select E 360 Mitigeu
 
 ℹ️:
 
-- Mitigeur thermostatique ultra-précis: température stable au degré près et 1 butée de confort à 40°
 - Réalisez jusquà 50% déconomie deau et dénergie, grâce à un débit réduit à 9l/min pour la douchette et la douche de tête
-- Douchette 3 jets avec pommeau de 12cm de diamètre. Changez de jet grâce au bouton Select 100% mécanique. Flexible de douche de 1m60.
-- Picots anticalcaires: le calcaire sélimine dun simple passage du doigt pour des jets irréprochables et pour longtemps.
-- Douche de tête rectangulaire (36x19cm): jet généreux et confortable. Montée sur rotule pour orienter le jet.
-- Garantie totale de 5 ans par le fabricant
 - Colonne universelle : compatible tout système de production deau chaude. Installation facile.
+- Picots anticalcaires: le calcaire sélimine dun simple passage du doigt pour des jets irréprochables et pour longtemps.
+- Garantie totale de 5 ans par le fabricant
+- Douche de tête rectangulaire (36x19cm): jet généreux et confortable. Montée sur rotule pour orienter le jet.
+- Mitigeur thermostatique ultra-précis: température stable au degré près et 1 butée de confort à 40°
+- Douchette 3 jets avec pommeau de 12cm de diamètre. Changez de jet grâce au bouton Select 100% mécanique. Flexible de douche de 1m60.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00B9I32RU/?tag=tolees0d-21)

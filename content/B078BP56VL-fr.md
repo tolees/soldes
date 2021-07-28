@@ -28,9 +28,9 @@ Vous avez [New Balance 500 Core  Baskets Homme  Black  45 EU](https://www.amazon
 
 ℹ️:
 
-- Textile/synthétique
-- Type de tissu : daim
 - Noir
+- Type de tissu : daim
+- Textile/synthétique
 - Erwachsene
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078BP56VL/?tag=tolees0d-21)
