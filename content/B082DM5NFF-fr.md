@@ -28,7 +28,7 @@ C'est en vente [Replay Anbass Jeans  7 Bleu foncé  38W x 36L Homme](https://www
 
 ℹ️:
 
-- Haute qualité et confortable à porter.
 - Denim stretch Dark Indigo Power 10 oz.
+- Haute qualité et confortable à porter.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082DM5NFF/?tag=tolees0d-21)
