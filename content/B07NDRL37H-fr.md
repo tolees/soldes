@@ -28,10 +28,10 @@ C'est en vente [Olimpia Splendid Climatiseur Mobile 9.000 BTU/h  2 34 kW  01914 
 
 ℹ️:
 
+- Déplacez-le où vous voulez ou prêtez-le à qui vous voulez grâce à son design compact : 35cm de largeur sur seulement 70cm de hauteur.
+- Capacité de réfrigération: 9.000 BTU / h (35° C / 80%UR)
 - Poignées latérales et roues pour un déplacement plus pratique
 - Fonction seulement déshumidification, jusqu’à un maximum de 2,1 l/heure
 - Avec R290 Le réfrigérant naturel ayant le moins d’impact sur le réchauffement climatique (GWP = 3)
-- Déplacez-le où vous voulez ou prêtez-le à qui vous voulez grâce à son design compact : 35cm de largeur sur seulement 70cm de hauteur.
-- Capacité de réfrigération: 9.000 BTU / h (35° C / 80%UR)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NDRL37H/?tag=tolees0d-21)

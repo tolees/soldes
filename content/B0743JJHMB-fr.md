@@ -28,8 +28,8 @@ C'est en vente [Samsung Coque pour Galaxy Note 8 Noir](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Laccessoire Samsung officiel fait pour la Note 8
-- Maintient votre téléphone mince et léger
 - Design unique Alcantara
+- Maintient votre téléphone mince et léger
+- Laccessoire Samsung officiel fait pour la Note 8
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0743JJHMB/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Mon grand poupon Corolle - 140450 - Porte-poupon pour poupons 36
 
 ℹ️:
 
-- Porte-poupon
 - Lavable en surface
 - Pour poupons de 36 à 42 cm
+- Dès 3 ans
+- Porte-poupon
 - Léger et maniable
 - Poignée à 3 positions
-- Dès 3 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MY3FBTQ/?tag=tolees0d-21)
