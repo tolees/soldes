@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.33 % rabais sur LEGO 42110 Technic Land Rover Defender  '
-date: 2021-07-27 04:55:43
+date: 2021-07-29 05:18:12
 image: 'https://m.media-amazon.com/images/I/51SWI-4L2zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07P2GQDQ6/?tag=tolees0d-21'
 descuento: '18.33'
-average: '155.764438356166'
+average: '155.740464480876'
 ---
 
 Vous avez [LEGO 42110 Technic Land Rover Defender  Maquette Voiture à Construire  Modèle à Collectionner Exclusif  Ensemble de Construction avancé](https://www.amazon.fr/dp/B07P2GQDQ6/?tag=tolees0d-21)  à  18.33 % de réduction, prix final  146.99 EUR (original: 179.99 EUR) ici:
@@ -28,15 +28,15 @@ Vous avez [LEGO 42110 Technic Land Rover Defender  Maquette Voiture à Constru
 
 ℹ️:
 
-- Ce modèle LEGO Technic est conçu pour offrir une expérience de construction immersive et gratifiante.
-- Le modèle inclut également un système de transmission à 2 leviers (nouveauté doctobre 2019) pour engager les rapports de vitesse élevé ou bas, ainsi quun sélecteur de vitesses – la boîte de vitesses LEGO Technic la plus sophistiquée à ce jour !
 - Le hayon s’ouvre en faisant tourner la roue de secours montée à larrière.
+- Inclut une collection dautocollants authentiques.
+- Le modèle inclut également un système de transmission à 2 leviers (nouveauté doctobre 2019) pour engager les rapports de vitesse élevé ou bas, ainsi quun sélecteur de vitesses – la boîte de vitesses LEGO Technic la plus sophistiquée à ce jour !
 - Les fonctionnalités comprennent une boîte séquentielle à 4 rapports, 4 roues motrices avec 3 différentiels, des suspensions indépendantes sur les deux essieux, un moteur 6 cylindres en ligne détaillé et un treuil fonctionnel.
 - L’habitacle comprend un tableau de bord détaillé, un volant qui tourne et des sièges arrière qui se rabattent pour révéler la boîte séquentielle à 4 rapports.
-- Les portières s’ouvrent pour accéder à l’habitacle détaillé.
-- Le capot se soulève pour révéler le moteur 6 cylindres en ligne avec pistons mobiles.
-- Une carrosserie aux lignes authentiques rehaussée des emblèmes de Land Rover, des jantes au design original équipées de pneus qui accrochent à la route, une galerie de toit amovible chargée d’un coffre de rangement, d’une sacoche, d’une échelle et de plaques de désensablement, des portières, un capot et un hayon qui souvrent, ainsi quun habitacle détaillé.
-- Inclut une collection dautocollants authentiques.
 - Le véhicule comprend un mélange de trois coloris : vert olive, gris et noir.
+- Le capot se soulève pour révéler le moteur 6 cylindres en ligne avec pistons mobiles.
+- Ce modèle LEGO Technic est conçu pour offrir une expérience de construction immersive et gratifiante.
+- Une carrosserie aux lignes authentiques rehaussée des emblèmes de Land Rover, des jantes au design original équipées de pneus qui accrochent à la route, une galerie de toit amovible chargée d’un coffre de rangement, d’une sacoche, d’une échelle et de plaques de désensablement, des portières, un capot et un hayon qui souvrent, ainsi quun habitacle détaillé.
+- Les portières s’ouvrent pour accéder à l’habitacle détaillé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P2GQDQ6/?tag=tolees0d-21)
