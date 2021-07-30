@@ -28,9 +28,9 @@ Vous avez [Tavolaswiss - Tavola Swiss 50.49077 Porte capsules Spécial T Ceylan 
 
 ℹ️:
 
-- Idéal pour ranger les capsules tout en les ayant toujours à portée de main
-- Vendu dans une boîte cadeau
 - A la fois esthétique et fonctionnel, le porte Capsules Spécial T Ceylan est rotatif
 - Le porte capsules Spécial T Ceylan peut contenir jusquà 40 capsules Spécial T Nestlé
+- Idéal pour ranger les capsules tout en les ayant toujours à portée de main
+- Vendu dans une boîte cadeau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072QDFR8K/?tag=tolees0d-21)
