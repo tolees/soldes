@@ -28,10 +28,10 @@ C'est en vente [Lotuscrafts Coussin de méditation Lotus - Hauteur d assise 15 c
 
 ℹ️:
 
-- HAUTEUR DASSISE INDIVIDUELLE - Le coussin méditation mesure 15 cm de haut. Cependant, le rembourrage en balle dépeautre bio peut être ajusté facilement en cas de besoin.
-- FACILEMENT LAVABLE - La housse faite de coton (agriculture biologique contrôlée) peut être retirée facilement et être lavée en machine.
 - PARFAITEMENT COMBINABLE - Le coussin de sol rond peut être assorti parfaitement avec un tapis de méditation Zabuton. Avec le tapis et le coussin, on obtient ainsi un soutien encore meilleur pendant la méditation.
-- COUSSIN DE MÉDITATION BESTSELLER - Le coussin polyvalent de sol pour yoga de Lotuscrafts est parfait pour une utilisation dans les salles de méditation, les studios de yoga, les centres de traitement ou comme siège flexible.
 - ÉCOLOGIQUE & CERTIFIÉ BIO - Le label GOTS du coussin de méditation garantit la culture biologique contrôlée du coton, la teinture écologique et les conditions de travail justes et sûres.
+- HAUTEUR DASSISE INDIVIDUELLE - Le coussin méditation mesure 15 cm de haut. Cependant, le rembourrage en balle dépeautre bio peut être ajusté facilement en cas de besoin.
+- COUSSIN DE MÉDITATION BESTSELLER - Le coussin polyvalent de sol pour yoga de Lotuscrafts est parfait pour une utilisation dans les salles de méditation, les studios de yoga, les centres de traitement ou comme siège flexible.
+- FACILEMENT LAVABLE - La housse faite de coton (agriculture biologique contrôlée) peut être retirée facilement et être lavée en machine.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005Q7D1XK/?tag=tolees0d-21)

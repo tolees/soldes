@@ -28,10 +28,10 @@ C'est en vente [Snocks Soquette Femme Chaussettes Basses Femme Coton  6x Blanc T
 
 ℹ️:
 
+- Garantie anti trou : Tes chaussettes ont un trou ? Snocks remplace toute chaussette trouée dans les 6 mois suivant l’achat, et celà gratuitement !
 - Trouver la bonne taille : Tu n’est pas sûr(e) de la taille ? Un conseil : si tu es pile entre deux pointures, prends la taille du dessus (par ex : choisir 43-46 pour une pointure 42,5).
 - Soutiens une Start-up : Envie de soutenir une start-up et de découvrir des produits innovants ? Tu es à la bonne adresse : nous sommes une start-up familiale créée en 2016 à Mannheim.
-- Invisibles : Quelle que soit la chaussure, les socquettes Snocks pour hommes et femmes sont invisibles pour mettre en valeur tes sneakers !
 - Antidérapantes : Nous savons à quel point des chaussettes qui glissent sont déagréables. C’est pourquoi les socquettes invisibles Snocks ont une pastille en silicone antidérapante pour qu’elles restent bien en place tout au long de la journée.
-- Garantie anti trou : Tes chaussettes ont un trou ? Snocks remplace toute chaussette trouée dans les 6 mois suivant l’achat, et celà gratuitement !
+- Invisibles : Quelle que soit la chaussure, les socquettes Snocks pour hommes et femmes sont invisibles pour mettre en valeur tes sneakers !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01IIKZHME/?tag=tolees0d-21)

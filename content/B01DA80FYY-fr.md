@@ -28,11 +28,11 @@ Vous avez [HP 973X L0S07AE Cartouche d Encre PageWide Noire Authentique](https:/
 
 ℹ️:
 
-- Protégez la planète : Les Toners HP authentiques sont fabriquées à partir de matériaux recyclés. Recyclez vos toners gratuitement avec le programme HP Planet Partners.
-- Couleur : Noir
 - Rendement : 10 000 pages (norme ISO/IEC 19752)
-- Imprimantes compatibles : HP LaserJet Pro M118dw / M148dw, HP LaserJet M148fdw
-- Toners HP Authentiques : une fiabilité exceptionnelle pour une qualité dimpression parfaite, de la première à la dernière page
 - Modèle : L0S07AE
+- Couleur : Noir
+- Protégez la planète : Les Toners HP authentiques sont fabriquées à partir de matériaux recyclés. Recyclez vos toners gratuitement avec le programme HP Planet Partners.
+- Toners HP Authentiques : une fiabilité exceptionnelle pour une qualité dimpression parfaite, de la première à la dernière page
+- Imprimantes compatibles : HP LaserJet Pro M118dw / M148dw, HP LaserJet M148fdw
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DA80FYY/?tag=tolees0d-21)

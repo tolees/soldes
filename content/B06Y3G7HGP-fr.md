@@ -29,8 +29,8 @@ C'est en vente [DULÀC FARMACEUTICI 1982 - Arnica Gel Crème Dulàc 250 ml Arnic
 ℹ️:
 
 - 🍃 Formule naturelle, adaptée même à la peau la plus sensible des bébés. Sans paraben, sans huile minérale, sans silicone
-- ❄️ Pommade arnica rafraîchissante aux extraits deucalyptus et de menthol pour soulager rapidement les muscles, les articulations (et la peau en cas de piqûres dinsectes)
 - 🌼 LArnica montana, fortement concentrée (35%) dans notre crème à larnica, peut accélérer le rétablissement des contusions, des gonflements, des tensions musculaires et des piqûres dinsectes
+- ❄️ Pommade arnica rafraîchissante aux extraits deucalyptus et de menthol pour soulager rapidement les muscles, les articulations (et la peau en cas de piqûres dinsectes)
 - 🏃🏃 Idéal avant et après les activités sportives, utile comme crème musculaire en cas de contusions, gonflements et tensions musculaires et articulaires
 - 🇮🇹 Made in Italy : tous nos produits, comme notre arnica crème-gel, sont réalisés en Italie, testés dermatologiquement et ont une formulation naturelle, riche en principes actifs
 
