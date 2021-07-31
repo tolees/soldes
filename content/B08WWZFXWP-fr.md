@@ -28,12 +28,12 @@ Vous avez [LEGO 43112 VIDIYO Robo Hiphop Car Beatbox Music Video Maker  Jouet Mu
 
 ℹ️:
 
+- Les enfants peuvent modifier la scène de leurs clips en créant un garage haute technologie ou un parking numérique rempli de graffitis
 - La BeatBox se ferme et permet d’emporter ce « jouet musical pour enfants » de partout, avec de l’espace à l’intérieur pour ranger la scène à scanner en briques
+- Scannez les BeatBits dans l’application LEGO pour débloquer des effets spéciaux : ajoutez de sons de robots aux chansons ou des décorations avec des graffitis
+- Le set LEGO VIDIYO music video maker Robo HipHop Car donne vie aux figurines dans l’application de réalité augmentée gratuite LEGO
 - Inclut 2 figurines avec accessoires de musique, 14 BeatBits aléatoires et 2 BeatBits spéciaux que les personnages peuvent jouer dans les clips !
 - Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
-- Les enfants peuvent modifier la scène de leurs clips en créant un garage haute technologie ou un parking numérique rempli de graffitis
 - Vérifiez la compatibilité de votre appareil en téléchargeant l’application gratuite et en enregistrant votre premier clip vidéo avec les personnages numériques Bandmate
-- Le set LEGO VIDIYO music video maker Robo HipHop Car donne vie aux figurines dans l’application de réalité augmentée gratuite LEGO
-- Scannez les BeatBits dans l’application LEGO pour débloquer des effets spéciaux : ajoutez de sons de robots aux chansons ou des décorations avec des graffitis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WWZFXWP/?tag=tolees0d-21)

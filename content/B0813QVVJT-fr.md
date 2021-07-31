@@ -28,10 +28,10 @@ C'est en vente [LEGO 70435 Hidden Side La prison abandonnée de Newbury  appli A
 
 ℹ️:
 
-- Incluant les figurines de Jack, Rami, El Fuego et Nate Lockem, plus les chiens Spencer et Maximus, ce set convient aux enfants de 7 ans et plus.
-- Ce set de jeu avec réalité augmentée (AR) comprend un modèle de prison abandonné Hidden Side numériquement interactif configurable en « mode possédé »
 - Pour plus de détails sur lapplication gratuite LEGO Hidden Side AR Games et sa compatibilité avec des appareils intelligents, veuillez lire la description du produit.
+- Ce set de jeu avec réalité augmentée (AR) comprend un modèle de prison abandonné Hidden Side numériquement interactif configurable en « mode possédé »
 - Le set de construction de prison se transforme lorsqu’on l’observe à travers l’appli AR et les enfants peuvent affronter le chef fantôme Bart Chaney dans un monde numérique hanté.
+- Incluant les figurines de Jack, Rami, El Fuego et Nate Lockem, plus les chiens Spencer et Maximus, ce set convient aux enfants de 7 ans et plus.
 - Poussez les leviers de la prison pour configurer le bâtiment en « mode possédé ».
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813QVVJT/?tag=tolees0d-21)
