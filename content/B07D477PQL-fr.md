@@ -28,13 +28,13 @@ C'est en vente [LEGO 75251 Star Wars Le château de Dark Vador  Ensemble de Cons
 
 ℹ️:
 
-- Les armes comprennent le sabre laser rouge de Dark Vador, le pistolet Blaster du pilote de transport impérial et les piques de Force de la garde royale
-- Le TIE Fighter dispose de 2 canons à tenons et dun cockpit pour une minifigurine qui souvre
-- Comprend 5 minifigurines : Dark Vador, Dark Vador (cuve à bacta), 2 gardes royaux et un pilote de transport impérial
-- Comprend le château de Dark Vador et une version à construire du TIE Advanced Fighter de Vador
 - Hangar souterrain avec un droïde souris et une station daccueil, un ancien sanctuaire Sith avec un holocron, des étagères pour les munitions supplémentaires, des reliques Sith, des compartiments secrets cachant une poignée de sabre laser et un cristal Kyber rouge, plus un espace pour le TIE Fighter de Vador
-- Le TIE Fighter mesure plus de 6 cm de haut, 11 cm de large et 9 cm de long
-- Le château de Dark Vador Star Wars mesure plus de 41 cm de haut, 28 cm de large et 23 cm de profondeur
 - Le château dispose également dune porte daccès latérale, d’une cuve à bacta qui s’ouvre, d’un crochet pour la cape de Lord Vador, d’une chambre de méditation avec de la place pour une minifigurine et une unité de communication holographique, plus une zone de réunion circulaire au sommet avec un canon à tenons défensif
+- Les armes comprennent le sabre laser rouge de Dark Vador, le pistolet Blaster du pilote de transport impérial et les piques de Force de la garde royale
+- Comprend 5 minifigurines : Dark Vador, Dark Vador (cuve à bacta), 2 gardes royaux et un pilote de transport impérial
+- Le château de Dark Vador Star Wars mesure plus de 41 cm de haut, 28 cm de large et 23 cm de profondeur
+- Comprend le château de Dark Vador et une version à construire du TIE Advanced Fighter de Vador
+- Le TIE Fighter dispose de 2 canons à tenons et dun cockpit pour une minifigurine qui souvre
+- Le TIE Fighter mesure plus de 6 cm de haut, 11 cm de large et 9 cm de long
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D477PQL/?tag=tolees0d-21)
