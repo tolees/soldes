@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DULÀC FARMACEUTICI 1982 - Arnica Gel Crè avec 19.90 % rabais '
-date: 2021-07-30 05:54:35
+date: 2021-07-31 07:36:37
 image: 'https://m.media-amazon.com/images/I/41c0m1s2aBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [DULÀC FARMACEUTICI 1982 - Arnica Gel Crème Dulàc 250 ml Arnic
 ℹ️:
 
 - 🍃 Formule naturelle, adaptée même à la peau la plus sensible des bébés. Sans paraben, sans huile minérale, sans silicone
-- 🌼 LArnica montana, fortement concentrée (35%) dans notre crème à larnica, peut accélérer le rétablissement des contusions, des gonflements, des tensions musculaires et des piqûres dinsectes
 - ❄️ Pommade arnica rafraîchissante aux extraits deucalyptus et de menthol pour soulager rapidement les muscles, les articulations (et la peau en cas de piqûres dinsectes)
 - 🏃🏃 Idéal avant et après les activités sportives, utile comme crème musculaire en cas de contusions, gonflements et tensions musculaires et articulaires
 - 🇮🇹 Made in Italy : tous nos produits, comme notre arnica crème-gel, sont réalisés en Italie, testés dermatologiquement et ont une formulation naturelle, riche en principes actifs
+- 🌼 LArnica montana, fortement concentrée (35%) dans notre crème à larnica, peut accélérer le rétablissement des contusions, des gonflements, des tensions musculaires et des piqûres dinsectes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06Y3G7HGP/?tag=tolees0d-21)
