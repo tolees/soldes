@@ -28,8 +28,8 @@ Vous avez [MAKITA DTD153Z - Atornillador de impacto BL 18V](https://www.amazon.f
 
 ℹ️:
 
-- Poignée ergonomique
 - Frein électrique
+- Poignée ergonomique
 - Moteur BRUSHLESS
 - Lampe de travail à LED
 

@@ -28,9 +28,9 @@ C'est en vente [Zwilling 39643-024-0 Table Passoire Acier Inoxydable Inox Mat 24
 
 ℹ️:
 
-- Son fond plat lui apporte une très grande stabilité
 - Compatible lave-vaisselle
-- Très résistante et facile dentretien
 - Excellente prise en main
+- Très résistante et facile dentretien
+- Son fond plat lui apporte une très grande stabilité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M1HAWJ9/?tag=tolees0d-21)

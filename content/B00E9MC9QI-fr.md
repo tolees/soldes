@@ -28,13 +28,13 @@ C'est en vente [Polti Vaporella 535 Eco Pro Centrale Vapeur avec Chaudière  4 b
 
 ℹ️:
 
-- Bouton vapeur continue
 - Tapis repose fer antidérapant en silicone
-- Voyant vapeur prête
 - Signal sonore indiquant le manque deau
-- Centrale vapeur avec fer professionnel doté dune semelle en aluminium et bouchon de sécuritéChaudière sous pression jusquà 4 Bars
 - Poignée en liège isolante qui ne chauffe pas.
-- Puissance : 1750W
+- Voyant vapeur prête
+- Centrale vapeur avec fer professionnel doté dune semelle en aluminium et bouchon de sécuritéChaudière sous pression jusquà 4 Bars
+- Bouton vapeur continue
 - Fonction ECO pour réduire la consommation
+- Puissance : 1750W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00E9MC9QI/?tag=tolees0d-21)

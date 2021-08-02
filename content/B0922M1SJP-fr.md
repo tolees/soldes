@@ -28,10 +28,10 @@ C'est en vente [Merge Games - Alex Kidd in Miracle World DX  PS4 ](https://www.a
 
 ℹ️:
 
-- Revivez les combats légendaires de pierre feuille ciseaux avec le mode boss rush ! affrontez les légendaires gooseka, chokkina, parplin et janken le grand, dans des combats de boss en continu !
 - Le légendaire alex kidd revient dans alex kidd in miracle world dx ! sautez dans le monde des miracles et vivez cette expérience comme vous ne lavez jamais vue
-- Jouez à de nouveaux niveaux qui développent lhistoire du jeu original. De nouvelles mécaniques de combat améliorées contre les boss avec un combat plus intuitif.
 - Replongez dans un monde 8 bits avec le mode rétro ! vous pouvez à nimporte quel moment de votre partie passer du mode graphique amélioré au style original !
 - Retournez dans les années 80 en appuyant sur un simple bouton. Peu importe où vous vous trouvez dans un niveau, vous pouvez passer des graphismes 8 bits à la hd.
+- Revivez les combats légendaires de pierre feuille ciseaux avec le mode boss rush ! affrontez les légendaires gooseka, chokkina, parplin et janken le grand, dans des combats de boss en continu !
+- Jouez à de nouveaux niveaux qui développent lhistoire du jeu original. De nouvelles mécaniques de combat améliorées contre les boss avec un combat plus intuitif.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0922M1SJP/?tag=tolees0d-21)

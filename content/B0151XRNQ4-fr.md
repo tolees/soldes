@@ -28,8 +28,8 @@ Vous avez [CATTIER Dentifrice Goût Orange 7 Ans + 50 ml   L emballage peut vari
 
 ℹ️:
 
-- goût orange
 - protection fluor
 - dentifrice sans sulfates
+- goût orange
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0151XRNQ4/?tag=tolees0d-21)

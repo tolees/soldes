@@ -28,9 +28,9 @@ Vous avez [Le Petit Marseillais Lait Corps Hydratant  Sublimant  a l Huile d Abr
 
 ℹ️:
 
-- Sublimée, votre peau est belle, lumineuse, nourrie et hydratée pour 24h de confort
 - 1 bouteille de 250ml
-- Avec sa texture onctueuse subtilement nacrée et son parfum ensoleillé, ce lait pénètre rapidement, sans coller et laisse un voile irisé sur votre peau
 - Pour illuminer votre peau toute l’année comme en été tout en vous faisant plaisir
+- Avec sa texture onctueuse subtilement nacrée et son parfum ensoleillé, ce lait pénètre rapidement, sans coller et laisse un voile irisé sur votre peau
+- Sublimée, votre peau est belle, lumineuse, nourrie et hydratée pour 24h de confort
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WV82YQX/?tag=tolees0d-21)

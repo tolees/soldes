@@ -28,8 +28,8 @@ C'est en vente [Natessance Capillaire Shampooing À L huile de Ricin et Kératin
 
 ℹ️:
 
-- Aqua (Water), Cocamidopropyl Betaine, Cetrimonium Chloride, Decyl Glucoside, Sodium Chloride, Sorbitan Caprylate, Ricinus Communis (Castor Seed) Oil, Inulin, Benzyl Alcohol, Cetearyl Alcohol, Parfum (Fragrance), Sodium Cocoyl Glutamate, Cocos Nucifera (Coconut) Oil, Xanthan Gum, Lactic Acid, Limonene, Butyrospermum Parkii (Shea) Butter, Chondrus Crispus (Carrageenan), CI 77891 (Titanium Dioxide), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Hexyl Cinnamal, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Linalool, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Dehydroacetic Acid, Sodium Benzoate.
-- De texture onctueuse, il nettoie avec efficacité les cheveux tout en leur apportant souplesse, légèreté et vitalité.
 - Appréciez la douceur de ce shampooing fortifiant et réparateur.
+- De texture onctueuse, il nettoie avec efficacité les cheveux tout en leur apportant souplesse, légèreté et vitalité.
+- Aqua (Water), Cocamidopropyl Betaine, Cetrimonium Chloride, Decyl Glucoside, Sodium Chloride, Sorbitan Caprylate, Ricinus Communis (Castor Seed) Oil, Inulin, Benzyl Alcohol, Cetearyl Alcohol, Parfum (Fragrance), Sodium Cocoyl Glutamate, Cocos Nucifera (Coconut) Oil, Xanthan Gum, Lactic Acid, Limonene, Butyrospermum Parkii (Shea) Butter, Chondrus Crispus (Carrageenan), CI 77891 (Titanium Dioxide), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Hexyl Cinnamal, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Linalool, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Dehydroacetic Acid, Sodium Benzoate.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00V5WUV5G/?tag=tolees0d-21)

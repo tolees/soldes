@@ -28,10 +28,10 @@ C'est en vente [Ariete 447 Râpe électrique Rechargeable Orange](https://www.am
 
 ℹ️:
 
-- Gratì Ariete est inimitable, le design de Gratì est un exemple inimitable et unique de l’ingéniosité italienne, qui a révolutionné la façon de râper le parmesan frais directement sur le plat de pâtes
-- Vous en avez assez de râper le fromage à la main, Gratì 2,0 est la râpe électrique sans fil qui permet de râper le parmesan directement sur votre assiette de pâtes, les fruits secs et du chocolat, mais aussi du pain sec
-- 2 batteries incluses avec la râpe électrique Gratì 2,0, vous trouverez 2 batteries rechargeables de 1500 mAh qui vous permettront de râper jusqu’à 1 kg de fromage sans interruption
-- Rouleau denté en acier inoxydable, Son rouleau denté est en acier inoxydable et solide pour râper tous les aliments (fromage, noix, pain, chocolat et autres) et passe au lave-vaisselle
 - Peu encombrant, Le design de Gratì 2,0 est conçu pour prendre le moins de place possible sur votre plan de travail de cuisine, il peut être rangé verticalement dans sa base de chargement
+- Rouleau denté en acier inoxydable, Son rouleau denté est en acier inoxydable et solide pour râper tous les aliments (fromage, noix, pain, chocolat et autres) et passe au lave-vaisselle
+- Gratì Ariete est inimitable, le design de Gratì est un exemple inimitable et unique de l’ingéniosité italienne, qui a révolutionné la façon de râper le parmesan frais directement sur le plat de pâtes
+- 2 batteries incluses avec la râpe électrique Gratì 2,0, vous trouverez 2 batteries rechargeables de 1500 mAh qui vous permettront de râper jusqu’à 1 kg de fromage sans interruption
+- Vous en avez assez de râper le fromage à la main, Gratì 2,0 est la râpe électrique sans fil qui permet de râper le parmesan directement sur votre assiette de pâtes, les fruits secs et du chocolat, mais aussi du pain sec
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004JLN29W/?tag=tolees0d-21)

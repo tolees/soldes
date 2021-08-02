@@ -28,10 +28,10 @@ C'est en vente [L OREAL - L Oréal Men Expert Hydra Energetic Soin Hydratant Ant
 
 ℹ️:
 
-- Conseils d’utilisation : utiliser le matin et le soir sur une peau nettoyée en massant énergiquement
-- Ce soin énergise la peau et l’aide à booster sa respiration ; elle paraît reposée
-- Non gras, non collant et ultra-frais, pénètre instantanément sans laisser de résidu ; durée de conservation après ouverture : 12 mois
 - Enrichi en Oxygen-CPTM et en vitamine C
 - Combat les 5 signes de fatigue en un seul geste : cernes, traits tirés, teint terne, perte de tonus, tiraillements
+- Ce soin énergise la peau et l’aide à booster sa respiration ; elle paraît reposée
+- Non gras, non collant et ultra-frais, pénètre instantanément sans laisser de résidu ; durée de conservation après ouverture : 12 mois
+- Conseils d’utilisation : utiliser le matin et le soir sur une peau nettoyée en massant énergiquement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005HG5VME/?tag=tolees0d-21)

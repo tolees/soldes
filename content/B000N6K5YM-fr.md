@@ -28,10 +28,10 @@ C'est en vente [Staedtler - Fimo Soft - Pain Pâte à  Modeler 57 g Rouge Ceris
 
 ℹ️:
 
-- Bloc standard de 57 g de pâte à modeler durcissant au four
 - Douce et légère
-- Prêt à lemploi
-- Le mélange est facilité par les pré-découpages en 8 portions
+- Bloc standard de 57 g de pâte à modeler durcissant au four
 - Des idées décoratives-faciles à réaliser par tous
+- Le mélange est facilité par les pré-découpages en 8 portions
+- Prêt à lemploi
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000N6K5YM/?tag=tolees0d-21)

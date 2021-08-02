@@ -28,10 +28,10 @@ C'est en vente [Kipling Gabbie S  Crossbody Femme  Kaki  Taille Unique](https://
 
 ℹ️:
 
-- Hydrofuge
+- 100% Polyamide
 - 22 Hauteur x 29 Largeur x 16,5 Profondeur cm
 - Sac à bandoulière avec compartiment pour téléphone
+- Hydrofuge
 - 0,33 kg
-- 100% Polyamide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083YCFV7X/?tag=tolees0d-21)

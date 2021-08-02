@@ -28,10 +28,10 @@ Vous avez [Apli 111840 - Pochette de 196 pastilles Blanches Ø 15 mm](https://ww
 
 ℹ️:
 
-- APLI propose des étiquettes idéales pour y écrire avec un crayon, un stylo bille (également à encre gel) ou un marqueur permettant un séchage rapide de lencre.
 - Certifitées FSC.
-- Etiquetage rapide et efficace.
-- Etiquettes blanches bords arrondis adhésif permanent Ø 15 mm pour écriture manelle.
+- APLI propose des étiquettes idéales pour y écrire avec un crayon, un stylo bille (également à encre gel) ou un marqueur permettant un séchage rapide de lencre.
 - Pochette de 196 pastilles.
+- Etiquettes blanches bords arrondis adhésif permanent Ø 15 mm pour écriture manelle.
+- Etiquetage rapide et efficace.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001JKB1M6/?tag=tolees0d-21)

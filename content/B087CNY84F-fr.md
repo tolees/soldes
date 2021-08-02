@@ -28,10 +28,10 @@ Vous avez [BLACK+DECKER BXTO1000E - Grille-pain 1000W  fente extra longue  3 fon
 
 ℹ️:
 
-- 7 NIVEAUX DE TEMPÉRATURE : Il est possible de choisir parmi les 7 niveaux de brunissage capables de satisfaire tous les goûts et de s’adapter à tous les types de pains. Trouvez le niveau de grillage que vous préférez.
-- PLATEAU RAMASSE-MIETTES : Le grille-pain comprend un pratique ramasse-miettes qui peut être retiré de lappareil pour le nettoyage. De cette façon, les miettes ne reste pas coincées au fond du grille-pain et ne brûle pas lors du grillage des toasts suivants.
-- 3 FONCTIONS : Le grille-pain offre trois fonctions différentes : Annuler, le processus de grillage sarrête et le pain grillé remonte à la surface, Réchauffer, pour réchauffer des toasts déjà préparés et Décongeler, pour faire griller le pain congelé sans le brûler.
 - DESIGN ÉLÉGANT : Design élégant, résistant et anti-empreintes. Ses finitions se marieront parfaitement à la décoration de votre cuisine. La base du grille-pain comprend un logement pour le cordon et des pieds antidérapants pour assurer une majeure stabilité.
+- 3 FONCTIONS : Le grille-pain offre trois fonctions différentes : Annuler, le processus de grillage sarrête et le pain grillé remonte à la surface, Réchauffer, pour réchauffer des toasts déjà préparés et Décongeler, pour faire griller le pain congelé sans le brûler.
 - FENTE EXTRA-LONGUE, EXTRA-LARGE ET SYSTÈME DAUTO-CENTRAGE : Il dispose dune fente extra-longue et extra-large de 42 x 260 mm adaptée à tous les types de pain et de tranches. Avec le système de centrage automatique, le grille-pain place automatiquement la tranche de pain au centre en garantie d’un grillage uniforme.
+- PLATEAU RAMASSE-MIETTES : Le grille-pain comprend un pratique ramasse-miettes qui peut être retiré de lappareil pour le nettoyage. De cette façon, les miettes ne reste pas coincées au fond du grille-pain et ne brûle pas lors du grillage des toasts suivants.
+- 7 NIVEAUX DE TEMPÉRATURE : Il est possible de choisir parmi les 7 niveaux de brunissage capables de satisfaire tous les goûts et de s’adapter à tous les types de pains. Trouvez le niveau de grillage que vous préférez.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087CNY84F/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Tamaris 1-1-28035-36  Sandale Femme  Beige Fleur  38 EU](https://www.
 
 ℹ️:
 
+- Moderne
+- tendance
 - Confortable
 - Tendance
-- tendance
-- Moderne
 - Tamaris
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08K8ZJP6Z/?tag=tolees0d-21)
