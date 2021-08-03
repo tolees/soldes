@@ -28,12 +28,12 @@ Vous avez [Philips Lighting Philips 929001257303 Hue Ampoule Plastique E27 Blanc
 
 ℹ️:
 
-- Grâce à cette ampoule, réglez lintensité et choisissez la couleur de la lumière parmi 16 millions de couleurs. Afin de contrôler vos ampoules à distance, équipez vous dun pont de connexion Philips Hue.
-- Avec lapplication Hue Sync et le pont Hue, vous pouvez propulser votre divertissement vers de nouveaux sommets
-- Grâce à cette nouvelle version, les couleurs sont désormais encore plus riches.
 - Type de culot : E27
+- Avec lapplication Hue Sync et le pont Hue, vous pouvez propulser votre divertissement vers de nouveaux sommets
+- Grâce à cette ampoule, réglez lintensité et choisissez la couleur de la lumière parmi 16 millions de couleurs. Afin de contrôler vos ampoules à distance, équipez vous dun pont de connexion Philips Hue.
 - Compatible avec Amazon Alexa, Apple Homekit et Google Home, pour permettre une commande vocale des éclairages
-- Version : 3
 - Créez des ambiances lumineuses et programmez les en fonction de la journée
+- Version : 3
+- Grâce à cette nouvelle version, les couleurs sont désormais encore plus riches.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LVXIM42/?tag=tolees0d-21)

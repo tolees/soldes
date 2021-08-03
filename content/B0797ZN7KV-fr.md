@@ -28,8 +28,8 @@ C'est en vente [Sylvanian Families - La Ville - Le Magasin de Glaces Italiennes 
 
 ℹ️:
 
-- Le magasin de glaces italiennes vend 4 parfums de glaces différents !
 - Maman chat roux fait les meilleurs glaces de la ville ! Tous les Sylvanian en raffolent !
 - Le mobilier du magasin peut sajouter au tramway (vendu séparément)
+- Le magasin de glaces italiennes vend 4 parfums de glaces différents !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0797ZN7KV/?tag=tolees0d-21)

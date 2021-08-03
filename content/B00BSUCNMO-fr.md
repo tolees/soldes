@@ -28,10 +28,10 @@ Vous avez [Prorhinel Embouts Jetables Mouche Bébé x20  Embouts Souples  Pour N
 
 ℹ️:
 
-- Ces embouts contiennent un filtre absorbant permettant ainsi de retenir le mucus afin d’assurer une bonne hygiène et pour votre sécurité.
-- Ces embouts en PVC et mousse de mélamine sont sans phtalate afin de préserver la santé de votre bébé. Ils ont été pensés, étudiés et conçus par nos laboratoires pour moucher votre bébé tout en douceur et tout en sécurité.
-- Conseil d’utilisation : Assemblez le mouche bébé en plaçant l’embout nasal sur le mouche bébé. Placez l’embout buccal dans votre bouche, puis l’embout nasal dans le nez de votre bébé. Aspirez doucement. Enlevez l’embout nasal du mouche bébé.
-- Ils sont mis au point pour réduire au maximum le risque de complications tels que les sinusites ou encore les otites.
 - Les embouts Prorhinel X20 sont des embouts souples à usage unique adaptés pour le mouche bébé Prorhinel. Il est conseillé de jeter l’embout après chaque utilisation afin d’éviter toute contamination.
+- Ils sont mis au point pour réduire au maximum le risque de complications tels que les sinusites ou encore les otites.
+- Ces embouts en PVC et mousse de mélamine sont sans phtalate afin de préserver la santé de votre bébé. Ils ont été pensés, étudiés et conçus par nos laboratoires pour moucher votre bébé tout en douceur et tout en sécurité.
+- Ces embouts contiennent un filtre absorbant permettant ainsi de retenir le mucus afin d’assurer une bonne hygiène et pour votre sécurité.
+- Conseil d’utilisation : Assemblez le mouche bébé en plaçant l’embout nasal sur le mouche bébé. Placez l’embout buccal dans votre bouche, puis l’embout nasal dans le nez de votre bébé. Aspirez doucement. Enlevez l’embout nasal du mouche bébé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BSUCNMO/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [L OREAL - L Oréal Paris Pure Liss Soin Démêlant à l Huile de
 
 ℹ️:
 
+- Contenu : 1x Tube de Soin Démêlant LOréal Paris Pure Liss Système Soin Lissant, 250 ml
+- Résultats : Des cheveux démêlés, lissés, sans frisottis et non alourdis, Toucher soyeux et souplesse absolue
+- Application : Après votre shampooing Pure Liss, Répartir soigneusement ce soin démêlant sur cheveux mouillés en insistant sur les longueurs et les pointes, Rincer abondamment
 - Parfum aux subtiles notes de Gardénia, Formule enrichie en huile de Tournesol pour une crème à la texture riche et onctueuse
 - Après-shampooing au pouvoir lissant pour une action efficace sur les cheveux frisottants et indomptables
-- Application : Après votre shampooing Pure Liss, Répartir soigneusement ce soin démêlant sur cheveux mouillés en insistant sur les longueurs et les pointes, Rincer abondamment
-- Résultats : Des cheveux démêlés, lissés, sans frisottis et non alourdis, Toucher soyeux et souplesse absolue
-- Contenu : 1x Tube de Soin Démêlant LOréal Paris Pure Liss Système Soin Lissant, 250 ml
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00N1ROXAC/?tag=tolees0d-21)
