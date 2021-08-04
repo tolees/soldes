@@ -28,10 +28,10 @@ Vous avez [Rowenta - XForce Flex 8.60 - RH9678WO - Aspirateur Sans Fil : 2 en 1 
 
 ℹ️:
 
-- Idéal pour les poils d’animaux : Aspirateur muni de 2 brossettes multi-usages intégrées, une mini électro brosse avec LEDs pour aspirer les tapis/moquettes, canapés, sièges de voiture et poils d’animaux, un suceur fente pour retirer la poussière dans les zones étroites, un large suceur ameublement plat et un filtre supplémentaire
 - Profitez de la puissance sans effort et lautonomie : aspirateur balai doté d’un moteur de 185 W, qui libère une puissance adaptée pour un nettoyage efficace et rapide de toutes les surfaces. La batterie amovible de 22 V vous garantit une aspiration puissante et constante pouvant aller jusqu’à 35 min. Bac à poussière de 0,55 L.
-- Bénéficiez de la facilité d’utilisation et dentretien : Grâce à la position Stop&Go, vous n’avez plus besoin de poser votre tube au sol, il tient debout tout seul ! Simplicité dentretien, il est 100 % lavable avec le filtre EasyWash.
-- Multifonction : Aspiration du sol au plafond en mode balai ou aspirateur main. Son tube flexible vous permet d’aller jusquà 4 fois plus loin sous les meubles bas. Il filtre 99 % de la poussière aspirée, il est ultra léger et maniable pour aspirer sans aucun effort.
 - Achetez avec confiance : garantie 2 ans. Vous avez 30 jours si vous voulez retourner le produit, le remboursement est garantit ! Rowenta sengage pour que le produit soit réparable pendant 10 ans et dans toute lEurope, parce que la protection de lenvironnement et la lutte contre le gaspillage sont nos préoccupations majeures.
+- Idéal pour les poils d’animaux : Aspirateur muni de 2 brossettes multi-usages intégrées, une mini électro brosse avec LEDs pour aspirer les tapis/moquettes, canapés, sièges de voiture et poils d’animaux, un suceur fente pour retirer la poussière dans les zones étroites, un large suceur ameublement plat et un filtre supplémentaire
+- Multifonction : Aspiration du sol au plafond en mode balai ou aspirateur main. Son tube flexible vous permet d’aller jusquà 4 fois plus loin sous les meubles bas. Il filtre 99 % de la poussière aspirée, il est ultra léger et maniable pour aspirer sans aucun effort.
+- Bénéficiez de la facilité d’utilisation et dentretien : Grâce à la position Stop&Go, vous n’avez plus besoin de poser votre tube au sol, il tient debout tout seul ! Simplicité dentretien, il est 100 % lavable avec le filtre EasyWash.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D46HM8N/?tag=tolees0d-21)
