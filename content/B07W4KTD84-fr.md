@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.02 % rabais sur LEGO Star Wars  Le combat des Microfight'
-date: 2021-07-19 05:52:21
+date: 2021-08-04 06:06:57
 image: 'https://m.media-amazon.com/images/I/51zpHWz+4BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [LEGO Star Wars  Le combat des Microfighters : T-16 Skyhopper™ contr
 
 ℹ️:
 
-- Inclut 2 figurines : un pilote LEGO Star Wars avec un pistolet blaster et un homme des sables muni dun bâton Gaffi
-- Contient 2 modèles faciles à construire : Un microchasseur T-16 Skyhopper avec 2 fusils à tenons et une figurine mobile de bantha Star Wars
 - Le vaisseau est équipé dun siège pour la figurine du pilote - préparons-nous pour un duel entre le T-16 Skyhopper et le bantha dans le désert de Tatooine
 - Pour plus de plaisir, combinez les sets LEGO Star Wars 75263 Microfighter Y-wing de la Résistance et 75264 Microfighter Navette de Kylo Ren
+- Inclut 2 figurines : un pilote LEGO Star Wars avec un pistolet blaster et un homme des sables muni dun bâton Gaffi
 - La figurine mobile du bantha Star Wars dispose dune selle pour la figurine de lhomme des sables et dun porte-bâton pour inspirer le jeu daction
+- Contient 2 modèles faciles à construire : Un microchasseur T-16 Skyhopper avec 2 fusils à tenons et une figurine mobile de bantha Star Wars
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4KTD84/?tag=tolees0d-21)

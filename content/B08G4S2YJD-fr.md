@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.22 % rabais sur LEGO 43106 VIDIYO Unicorn DJ Beatbox Cré'
-date: 2021-08-02 22:00:59
+date: 2021-08-04 06:07:28
 image: 'https://m.media-amazon.com/images/I/516FtAI-7DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08G4S2YJD/?tag=tolees0d-21'
 descuento: '36.22'
-average: '15.082923076923'
+average: '15.0475757575757'
 ---
 
 Vous avez [LEGO 43106 VIDIYO Unicorn DJ Beatbox Créateur de Clip Vidéo Musique  Jouet Musical avec Licorne  Appli Set de Réalité Augmentée](https://www.amazon.fr/dp/B08G4S2YJD/?tag=tolees0d-21)  à  36.22 % de réduction, prix final  12.75 EUR (original: 19.99 EUR) ici:
@@ -29,14 +29,14 @@ Vous avez [LEGO 43106 VIDIYO Unicorn DJ Beatbox Créateur de Clip Vidéo Musiq
 ℹ️:
 
 - Les éléments LEGO sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
+- Une expérience musicale amusante pour les garçons et les filles de 7 ans et plus qui méritent une surprise. Ce set constitue également un superbe cadeau de fêtes pour les enfants fans de musique, de danse et de spectacles.
+- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux. Les enfants vont adorer voir leur personnage prendre vie dans leur clip vidéo.
+- L’application LEGO VIDIYO est compatible avec une sélection d’appareils iOS et Android. Vérifiez la compatibilité sur w..com/devicecheck. Les enfants doivent demander l’autorisation de leurs parents avant de se connecter.
+- Les sets LEGO VIDIYO offrent une nouvelle expérience de jeu social et permettent aux garçons et aux filles de devenir réalisateurs, producteurs et vedettes de leurs propres clips musicaux.
+- La BeatBox se ferme pour permettre aux enfants d’emporter leur monde musical en tournée partout avec eux. À l’intérieur, ils peuvent ranger la scène à scanner en briques, 16 BeatBits et le disque vinyle de la licorne.
 - Les éléments LEGO sont soumis à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysés afin de s’assurer qu’ils sont conformes aux normes de sécurité les plus élevées.
 - Observez les enfants réaliser des clips vidéo dont ils sont les stars avec le set LEGO VIDIYO Unicorn DJ BeatBox (43106). Inclut une figurine licorne DJ, un disque vinyle, 14 BeatBits aléatoires et 2 BeatBits spéciaux.
 - La BeatBox mesure plus de 8 cm de haut, 7 cm de long et 10 cm de large.
-- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux. Les enfants vont adorer voir leur personnage prendre vie dans leur clip vidéo.
-- Les sets LEGO VIDIYO offrent une nouvelle expérience de jeu social et permettent aux garçons et aux filles de devenir réalisateurs, producteurs et vedettes de leurs propres clips musicaux.
-- La BeatBox se ferme pour permettre aux enfants d’emporter leur monde musical en tournée partout avec eux. À l’intérieur, ils peuvent ranger la scène à scanner en briques, 16 BeatBits et le disque vinyle de la licorne.
 - Scannez les BeatBits dans l’application pour débloquer des effets spéciaux, par exemple un filtre qui ajoute aux chansons un son pop synthétique irrésistible.
-- Une expérience musicale amusante pour les garçons et les filles de 7 ans et plus qui méritent une surprise. Ce set constitue également un superbe cadeau de fêtes pour les enfants fans de musique, de danse et de spectacles.
-- L’application LEGO VIDIYO est compatible avec une sélection d’appareils iOS et Android. Vérifiez la compatibilité sur w..com/devicecheck. Les enfants doivent demander l’autorisation de leurs parents avant de se connecter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4S2YJD/?tag=tolees0d-21)
