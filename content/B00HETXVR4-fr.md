@@ -28,8 +28,8 @@ Vous avez [Tigi Bed Head Color Goddess Duo Pack pour cheveux colorés  shampooin
 
 ℹ️:
 
-- Bed Head Colour Goddess Duo Kit - Shampooing + Conditionneur de la marque Tigi
 - Un produit exclusif de la marque Tigi
 - Bed Head Colour Goddess Duo Kit - Shampooing + Conditionneur pour Femme
+- Bed Head Colour Goddess Duo Kit - Shampooing + Conditionneur de la marque Tigi
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HETXVR4/?tag=tolees0d-21)

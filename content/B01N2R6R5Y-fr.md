@@ -29,10 +29,10 @@ C'est en vente [Climatiseur mobile Tristar AC-5531  10 500 BTU et 3kw  fonctions
 ℹ️:
 
 - Kit pour fenêtre inclus, tuyau d’évacuation (1,5m), roulettes, télécommande, piles
-- Climatiseur mobile puissant (10 500 btu et 3 kw) adapté aux pièces de 90m³ maximum
-- Appareil 3-en-1 : refroidissement, ventilation avec deux vitesses (320 m³/h) et déshumidification de l’air (1,3L/h)
 - Ecologique : fonctionnement au gaz naturel R290, pas de substances toxiques
-- Contrôle via le panneau de commande ou la télécommande (piles fournies)
 - Réglage de la température (16-31 °C) et minuteur digital
+- Contrôle via le panneau de commande ou la télécommande (piles fournies)
+- Appareil 3-en-1 : refroidissement, ventilation avec deux vitesses (320 m³/h) et déshumidification de l’air (1,3L/h)
+- Climatiseur mobile puissant (10 500 btu et 3 kw) adapté aux pièces de 90m³ maximum
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N2R6R5Y/?tag=tolees0d-21)
