@@ -30,10 +30,10 @@ C'est en vente [Xiaomi Mi Note 10 lite - Smartphone Débloqué 4G  6.53 Pouces  
 
 - Écran AMOLED 3D FHD + de 6,47" en Corning Gorilla Glass 5 Ultra résistant
 - Composants inclus : Smartphone - kit piéton - câble USB type C- guide dutilisation
-- Batterie Ultra haute capacité 5260 mAh avec charge rapide 30 W
-- Résolution daffichage: 2340x1080 FHD+
 - Processeur octa-core Qualcomm SnapdragonTM 730G
-- Réseau sans fil - Prend en charge les protocoles 802.11a/b/g//ac | Prend en charge le Wi-Fi 2.4G/Wi-Fi 5G | Prend en charge laffichage Wi-Fi Direct / Wi-Fi | Prend en charge Bluetooth 5.0 | Prise en charge AAC/LDAC/aptX-HD/aptX-adaptive
+- Résolution daffichage: 2340x1080 FHD+
 - Quad-caméra 64 MP
+- Réseau sans fil - Prend en charge les protocoles 802.11a/b/g//ac | Prend en charge le Wi-Fi 2.4G/Wi-Fi 5G | Prend en charge laffichage Wi-Fi Direct / Wi-Fi | Prend en charge Bluetooth 5.0 | Prise en charge AAC/LDAC/aptX-HD/aptX-adaptive
+- Batterie Ultra haute capacité 5260 mAh avec charge rapide 30 W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087MRWVM9/?tag=tolees0d-21)
