@@ -28,12 +28,12 @@ Vous avez [Diesel Homme Analogique Quartz Montre avec Bracelet en Cuir DZ7313](h
 
 ℹ️:
 
-- Épaisseur du boîtier : 14 mm
 - Résistance à leau : 3 ATM
-- Largeur du filet : 28 mm
+- Boucle ardillon
 - Finition polie et brossée
+- Épaisseur du boîtier : 14 mm
+- Largeur du filet : 28 mm
 - Taille boîtier : 66 mm x 57 mm
 - Le design des boîtes à montres Diesel se renouvelle à chaque saison
-- Boucle ardillon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00M9U8XDA/?tag=tolees0d-21)
