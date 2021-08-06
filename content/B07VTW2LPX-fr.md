@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD - My Passport 4To Noir - Disque dur externe port
 
 ℹ️:
 
+- Compatibilité : systèmes dexploitation Windows 10 ou Windows 8.1. Nécessite un reformatage pour les autres systèmes dexploitation
 - Dimensions (L x l x H) : 107.2 mm x 75 mm x 11.15 mm
 - Contenu de la boîte : disque dur portable, câble USB SuperSpeed, logiciel WD Discovery, guide dinstallation rapide
-- Style compact
 - Compatibilité avec les réseaux sociaux
-- Compatibilité : systèmes dexploitation Windows 10 ou Windows 8.1. Nécessite un reformatage pour les autres systèmes dexploitation
+- Style compact
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VTW2LPX/?tag=tolees0d-21)

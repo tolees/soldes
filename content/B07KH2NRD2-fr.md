@@ -28,10 +28,10 @@ Vous avez [Cressi 1946 Diver Man Monpiece Wetsuit 5mm Combinaisons de Plongée H
 
 ℹ️:
 
-- Une garniture en néoprène lisse recouvre lintérieur du contour du visage de la cagoule
-- Mono pièce en néoprène doublé deux faces de 5mm avec cagoule attenante et une fermeture sur le devant
-- Renforts anti-usure sur le genoux
-- Ce qui limite les entrées deau et augmente le confort
 - Les jambes sont préformées pour faciliter la flexion naturelle et typique des membres durant le palmes.
+- Ce qui limite les entrées deau et augmente le confort
+- Mono pièce en néoprène doublé deux faces de 5mm avec cagoule attenante et une fermeture sur le devant
+- Une garniture en néoprène lisse recouvre lintérieur du contour du visage de la cagoule
+- Renforts anti-usure sur le genoux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KH2NRD2/?tag=tolees0d-21)
