@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.64 % rabais sur KNIPEX ErgoStrip Outil universel à dégai'
-date: 2021-08-02 16:50:40
+date: 2021-08-06 22:03:01
 image: 'https://m.media-amazon.com/images/I/31u1uDVIyjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [KNIPEX ErgoStrip Outil universel à dégainer  135 mm  16 95 01 SB](h
 
 ℹ️:
 
+- Mise en place simplifiée des conducteurs individuels pour le dénudage grâce aux berceaux de positionnement
+- Dispositif de dénudage pour les sections 0,2 / 0,3 / 0,8 / 1,5 /2,5 / 4 mm²
+- design « pistolet » ergonomique et innovant pour faciliter l‘entaillage, le dénudage et les coupes longitudinales des isolants de câbles
 - pour le dégainage et le dénudage rapide et précis de tous types de câbles ronds et hydrofuges standards (par ex., câble NYM 3 x 1,5 mm² jusqu‘à 5 x 2,5 mm²), câbles de données (par ex. paires torsadées) et câbles coaxiaux
 - Forme conique et fine pour un meilleur accès dans les zones confinées
-- design « pistolet » ergonomique et innovant pour faciliter l‘entaillage, le dénudage et les coupes longitudinales des isolants de câbles
-- Dispositif de dénudage pour les sections 0,2 / 0,3 / 0,8 / 1,5 /2,5 / 4 mm²
-- Mise en place simplifiée des conducteurs individuels pour le dénudage grâce aux berceaux de positionnement
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BPW2C6Q/?tag=tolees0d-21)
