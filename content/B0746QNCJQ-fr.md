@@ -28,9 +28,9 @@ Vous avez [Plantronics Blackwire C5220 Casque Stéréo PC USB-C Stéréo - USB-C
 
 ℹ️:
 
-- Fabriqué en Chine
-- 207586-01
 - Poids du colis : 167.0 g
 - Couleur : Noir, Rouge
+- Fabriqué en Chine
+- 207586-01
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0746QNCJQ/?tag=tolees0d-21)

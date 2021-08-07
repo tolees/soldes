@@ -28,11 +28,11 @@ Vous avez [Amazon Basics Petite ampoule LED E14 P45 type globe  avec culot à vi
 
 ℹ️:
 
+- Lexcellent indice de rendu des couleurs (IRC > 80) fournit une couleur vive et naturelle ; angle de rayonnement de 270 degrés pour un éclairage large
+- Il sagit dampoules LED non réglables, non compatibles avec les gradateurs.
+- Avec une température de couleur de 2 700 kelvin, lampoule fournit une lumière blanc chaud, créant une atmosphère accueillante dans nimporte quelle pièce.
+- Consommant 5.5 Watts dénergie et coûtant seulement € 1,32 par an à lutilisation, cette ampoule économise jusquà 86% par an et € 113,86 sur sa durée de vie par rapport à une ampoule à incandescence équivalente (sur la base de 3 heures dutilisation par jour,0,22 €/kWh; peut varier selon les tarifs et lutilisation)
 - Fournit 470 lumens de lumière immédiatement, sans temps de chauffe pour atteindre son niveau déclairage maximal
 - Dune durée de vie de 15 000 heures, lampoule fonctionnera pendant plus de 13 ans (sur la base de 3 heures dutilisation par jour)
-- Consommant 5.5 Watts dénergie et coûtant seulement € 1,32 par an à lutilisation, cette ampoule économise jusquà 86% par an et € 113,86 sur sa durée de vie par rapport à une ampoule à incandescence équivalente (sur la base de 3 heures dutilisation par jour,0,22 €/kWh; peut varier selon les tarifs et lutilisation)
-- Avec une température de couleur de 2 700 kelvin, lampoule fournit une lumière blanc chaud, créant une atmosphère accueillante dans nimporte quelle pièce.
-- Il sagit dampoules LED non réglables, non compatibles avec les gradateurs.
-- Lexcellent indice de rendu des couleurs (IRC > 80) fournit une couleur vive et naturelle ; angle de rayonnement de 270 degrés pour un éclairage large
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y3JWX6K/?tag=tolees0d-21)

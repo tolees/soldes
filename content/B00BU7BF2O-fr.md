@@ -28,8 +28,8 @@ Vous avez [HUDORA - 2044104 - Balançoire - 90 Cm](https://www.amazon.fr/dp/B00B
 
 ℹ️:
 
-- Age minimum : 6 ans
 - Dimensions : 90x90x5.5 cm
 - Descriptif produit: Le plaisir du terrain de jeu enfin à la maison ! Voici une super balançoire HUDORA pour jouer et se détendre dans le jardin. La surface dassise est complètement fermée pour éviter à lenfant de semmêler les pinceaux ou de faire tomber ses jouets. Caractéristiques: Diamètre 90 cm, corde ajustable en hauteur de 150 à 200 cm, en PE de haute qualité, housse en polyester résistant, capacité de charge max.: 50 kg, livrée avec anneau de suspension en acier et ilet de réglage
+- Age minimum : 6 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BU7BF2O/?tag=tolees0d-21)

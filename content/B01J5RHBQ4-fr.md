@@ -28,11 +28,11 @@ Vous avez [Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95 Mo/s  UHS-I
 
 ℹ️:
 
-- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
-- Garantie à vie. Température de fonctionnement: -13 ºF à 185 F (-25 ºC à 85 ºC)
 - Compatibles avec tous les périphériques hôte compatibles SDXC et SDXC UHS-I
-- Conçue pour capturer des vidéos 4K UHD et des photographies en mode rafale séquentiel
 - Conçue et testée en conditions extrêmes : résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Garantie à vie. Température de fonctionnement: -13 ºF à 185 F (-25 ºC à 85 ºC)
 - Notre carte mémoire SD UHS-I la plus puissante à ce jour avec des vitesses de prise allant jusquà 90 Mo/s et des vitesses de transfert jusquà 95 Mo/s
+- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
+- Conçue pour capturer des vidéos 4K UHD et des photographies en mode rafale séquentiel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J5RHBQ4/?tag=tolees0d-21)

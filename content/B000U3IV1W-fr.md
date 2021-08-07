@@ -28,11 +28,11 @@ C'est en vente [DEWALT DW333K Scie sauteuse a prise par le corps 701 W](https://
 
 ℹ️:
 
-- Puissant moteur de 701 Watts avec vitesse variable offrant jusqu‘à 3100 coups par minute, pour réaliser des coupes rapides
-- Contrôle électronique de la vitesse, assure une vitesse constante même dans les matériaux les plus résistants
-- Démarrage progressif, garantit une plus grande précision de la coupe lors du démarrage
-- Système breveté de contre-poids anti-vibrations et poignée caoutchoutée permettant de travailler en souplesse
-- Semelle réglable sans outil, inclinable jusqu‘à 45° de chaque côté, avec semelle additionnelle anti-rayures
 - Mécanisme de changement rapide de lame sans clé acceptant les lames à emmanchement en T
+- Semelle réglable sans outil, inclinable jusqu‘à 45° de chaque côté, avec semelle additionnelle anti-rayures
+- Puissant moteur de 701 Watts avec vitesse variable offrant jusqu‘à 3100 coups par minute, pour réaliser des coupes rapides
+- Démarrage progressif, garantit une plus grande précision de la coupe lors du démarrage
+- Contrôle électronique de la vitesse, assure une vitesse constante même dans les matériaux les plus résistants
+- Système breveté de contre-poids anti-vibrations et poignée caoutchoutée permettant de travailler en souplesse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000U3IV1W/?tag=tolees0d-21)

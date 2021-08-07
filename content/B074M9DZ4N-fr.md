@@ -28,10 +28,10 @@ Vous avez [Philips CA6903/10  1 Filtre à Eau/Calcaire](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Votre machine ne sobstrue pas grâce au filtre microporeux
 - Activez facilement le filtre avec le système click & go
-- Préparez jusquà 5000 tasses avant de détartrer
+- Votre machine ne sobstrue pas grâce au filtre microporeux
 - Une eau purifiée de façon optimale par un circuit deau breveté
+- Préparez jusquà 5000 tasses avant de détartrer
 - Elimine naturellement le calcaire grâce à la technologie déchange ionique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074M9DZ4N/?tag=tolees0d-21)

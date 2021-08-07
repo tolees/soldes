@@ -28,10 +28,10 @@ Vous avez [RIDGID 31045 Clé serre-tubes ultra-résistante de 1 500 mm  clé d
 
 ℹ️:
 
-- Les clés serre-tubes de 1 500 mm sont idéales pour les tuyaux de 75 mm à 200 mm de diamètre.
 - A une mâchoire forgée totalement flottante assurant un excellent serrage et des ajustements rapides.
-- La clé serre-tubes comprend une molette de réglage antidérapante, des mâchoires auto-nettoyantes, un ressort remplaçables.
 - La clé serre-tubes haute résistance RIDGID est conforme à la norme GGG-W65IE, Type ll, Classe A.
+- Les clés serre-tubes de 1 500 mm sont idéales pour les tuyaux de 75 mm à 200 mm de diamètre.
 - Bâti en fonte robuste et poignée profilée pour une résistance et une efficacité optimales
+- La clé serre-tubes comprend une molette de réglage antidérapante, des mâchoires auto-nettoyantes, un ressort remplaçables.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001HWL3A6/?tag=tolees0d-21)

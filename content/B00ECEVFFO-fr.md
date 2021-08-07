@@ -28,11 +28,11 @@ Vous avez [Carte Mémoire CompactFlash SanDisk Extreme Pro 64 Go UDMA7  SDCFXPS-
 
 ℹ️:
 
-- Fonctionne entre -25°C et 85°C et résiste aux tensions, chocs et vibrations
+- Garantie à vie
+- Revêtement en silicone RTV pour une protection contre les chocs et les vibrations
 - Saisissez des vidéos de qualité cinéma avec VPG-67
 - La première carte haute capacité (256 Go) au monde à être optimisée pour la capture de vidéo 4K avec VPG-67
-- Revêtement en silicone RTV pour une protection contre les chocs et les vibrations
-- Garantie à vie
 - Des vitesses de lecture allant jusquà 160 Mo/s et décriture allant jusquà 140 Mo/s
+- Fonctionne entre -25°C et 85°C et résiste aux tensions, chocs et vibrations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ECEVFFO/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ Vous avez [BLACK+DECKER - FACOM DELA.1257.02 Équerre simple avec ailes](https:/
 
 ℹ️:
 
-- EQUERRE|100mm|clas II|equerre chap 90
 - EQUER CHAP 90 CLAS II 100MM
+- EQUERRE|100mm|clas II|equerre chap 90
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001C3TFC8/?tag=tolees0d-21)
