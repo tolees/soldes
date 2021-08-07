@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.97 % rabais sur Caran D ache Neocolor I Crayon - Assorti'
-date: 2021-08-05 14:46:51
+date: 2021-08-07 06:47:48
 image: 'https://m.media-amazon.com/images/I/51sNVlKiysL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Caran dAche'
 buyurl: 'https://www.amazon.fr/dp/B001SN8JVA/?tag=tolees0d-21'
 descuento: '15.97'
-average: '23.8885714285714'
+average: '23.31'
 ---
 
 Vous avez [Caran D ache Neocolor I Crayon - Assorti/ Metallic Couleurs  Lot de 10 ](https://www.amazon.fr/dp/B001SN8JVA/?tag=tolees0d-21)  à  15.97 % de réduction, prix final  19.26 EUR (original: 22.92 EUR) ici:
