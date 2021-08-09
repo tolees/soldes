@@ -28,8 +28,8 @@ C'est en vente [Starrett K53M-350-S Équerre](https://www.amazon.fr/dp/B00RD59PZ
 
 ℹ️:
 
-- Design attrayant, léger et pratique.
 - La longueur de l’équerre est de 200 mm.
+- Design attrayant, léger et pratique.
 - Idéale pour marquer et mesurer les angles droits en menuiserie.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00RD59PZQ/?tag=tolees0d-21)

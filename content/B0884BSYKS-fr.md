@@ -28,10 +28,10 @@ Vous avez [Crocs Classic  Sabots Mixte  Digital Aqua  41/42 EU](https://www.amaz
 
 ℹ️:
 
+- Léger et amusant : les Crocs pour homme et femme sont légers et confortables Crocs emblématiques. Les ports de ventilation ajoutent de la respirabilité et aident à évacuer leau et les débris rapidement
+- Les tailles de semelle sont US. Étiquette indiquant le Royaume-Uni. M = homme W = femme
+- À porter en toute occasion : ces crocs pour homme et femme sont parfaits pour la maison, mais également pour la plage, la piscine, la gym, la douche, la marche ou même le jardinage
 - Conçues pour sadapter : ces sabots sont faciles à mettre et à enlever, tout en étant extrêmement durables. Ces crocs offrent même des sangles de talon pivotantes pour un ajustement plus sécurisé
 - Crocs pour tout le monde : avec une couleur et un style pour chaque personnalité, les sabots classiques sont les femmes et les hommes qui ont besoin de commencer une révolution de confort dans le monde
-- Léger et amusant : les Crocs pour homme et femme sont légers et confortables Crocs emblématiques. Les ports de ventilation ajoutent de la respirabilité et aident à évacuer leau et les débris rapidement
-- À porter en toute occasion : ces crocs pour homme et femme sont parfaits pour la maison, mais également pour la plage, la piscine, la gym, la douche, la marche ou même le jardinage
-- Les tailles de semelle sont US. Étiquette indiquant le Royaume-Uni. M = homme W = femme
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0884BSYKS/?tag=tolees0d-21)

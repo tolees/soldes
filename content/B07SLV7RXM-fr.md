@@ -28,8 +28,8 @@ C'est en vente [Martin Cox IKFOAMPRO2 IK Pro 2  Professional Foam Sprayer](https
 
 ℹ️:
 
-- 1,5 Liters
 - A thick Layer of foam without using a hose!
 - Comes with 3 Valves for Dry- Medium- & Wet Foam
+- 1,5 Liters
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SLV7RXM/?tag=tolees0d-21)

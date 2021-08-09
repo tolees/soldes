@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD BLACK P10 Game Drive for Xbox One 5 To pour av
 
 ℹ️:
 
-- Un disque dur haute performance avec des vitesses allant jusquà 130 Mo/s pour optimiser votre expérience de jeu sur console ou PC
-- Abonnement de 1 mois au Xbox Game Pass Ultimate avec votre achat
 - La qualité et la fiabilité WD_BLACK : un produit conçu spécialement pour les gamers
-- Un support portable qui vous offre un accès rapide à tous vos jeux, où que vous soyez
 - Jusquà 5 To pour accueillir 125 jeux : vous pouvez garder vos jeux favoris et avoir suffisamment de place pour de nouveaux titres
+- Un support portable qui vous offre un accès rapide à tous vos jeux, où que vous soyez
+- Abonnement de 1 mois au Xbox Game Pass Ultimate avec votre achat
+- Un disque dur haute performance avec des vitesses allant jusquà 130 Mo/s pour optimiser votre expérience de jeu sur console ou PC
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VQ8Q3L4/?tag=tolees0d-21)

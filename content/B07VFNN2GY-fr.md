@@ -28,10 +28,10 @@ Vous avez [Hugo Boss Watch 1513718](https://www.amazon.fr/dp/B07VFNN2GY/?tag=tol
 
 ℹ️:
 
+- Mouvement chronographe / Fonction date
+- Bracelet en caoutchouc blanc
 - Cadran coloris noir
 - Résistance à leau 5 ATM
-- Bracelet en caoutchouc blanc
-- Mouvement chronographe / Fonction date
 - Épaisseur du boîtier 11,5mm, Diamètre du boîtier 44 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VFNN2GY/?tag=tolees0d-21)
