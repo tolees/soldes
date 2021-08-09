@@ -28,10 +28,10 @@ Vous avez [Imaginext - Jurassic World Dinosaure Marchant Figurine  Rugit et Marc
 
 ℹ️:
 
-- Faites rouler le quad devant lIndoraptor pour linciter à poursuivre Owen !
-- Tournez le disque dactivation pour faire marcher le dinosaure
 - LIndoraptor peut avancer à deux rythmes : marche normale ou grande vitesse
 - Contient un Indoraptor, un quad et une figurine Owen
+- Tournez le disque dactivation pour faire marcher le dinosaure
+- Faites rouler le quad devant lIndoraptor pour linciter à poursuivre Owen !
 - Grrr ! appuyez sur le disque dactivation pour ouvrir sa gueule.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0753H2KJG/?tag=tolees0d-21)
