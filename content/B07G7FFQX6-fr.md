@@ -28,10 +28,10 @@ Vous avez [Remington Fer à Boucler  Boucleur Céramique  Antistatique  Tourmali
 
 ℹ️:
 
-- Support pour poser le fer à boucler inclus.
-- Tension de fonctionnement: 230 V / AC
-- Revêtement antistatique, céramique, tourmaline ionique pour 4x plus de protection.
 - Chauffe rapide (30 secondes) et sécurité avec un arrêt automatique après 60min.
+- Support pour poser le fer à boucler inclus.
+- Revêtement antistatique, céramique, tourmaline ionique pour 4x plus de protection.
+- Tension de fonctionnement: 230 V / AC
 - Glisse facile, boucles et ondulations naturelles, cheveux brillants. Diamètre 38mm.
 - 8 températures (140 à 210°C), molette de réglage de la température. Embout isolé.
 

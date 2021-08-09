@@ -28,10 +28,10 @@ C'est en vente [Samsung Elettrodomestici - Samsung AX60R5080WD Purificateur d ai
 
 ℹ️:
 
-- Ultra silencieux sans écran lumineux
 - Purificateur dair avec écran intelligent, affichage de la qualité de lair, pureté du gaz et des poussières
-- Flux multidirectionnel, diffusion de lair
+- Ultra silencieux sans écran lumineux
 - Autorégulation en fonction de la qualité de lair
 - Filtre multiple avec alarme de changement de filtre
+- Flux multidirectionnel, diffusion de lair
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084VGQ9GD/?tag=tolees0d-21)
