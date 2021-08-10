@@ -29,9 +29,9 @@ C'est en vente [Unilux Nymphéa Repose-pieds Ergonomique et Fonctionnel avec Inc
 ℹ️:
 
 - CONFORT & BIEN-ÊTRE : soulage votre cou, dos et épaules, lusage quotidien de ce repose-pied vous rendra dynamique et productif au travail tout en réduisant fatigue et stress.
+- ANTIGLISSE : les patins en caoutchouc, antidérapant empêchent ce repose-pieds de glisser sur tous les types de sols.
 - BÉNÉFICES : il permet daugmenter la productivité et de diminuer labsentéisme.
 - TRAVAIL OU MAISON : ce repose-pied ergonomique est laccessoire idéal qui sera votre allié dans votre travail quotidien.
 - ERGONOMIQUE : réglage de la hauteur (12 à 17cm) ou encore de linclinaison (0 à 20°), ce repose-pied permet dadopter une bonne posture et favorise la circulation du sang.
-- ANTIGLISSE : les patins en caoutchouc, antidérapant empêchent ce repose-pieds de glisser sur tous les types de sols.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001PGRRVI/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [F2.0 12 mm Samyang Objectif à mis au point manuelle pour Fuji X Arge
 
 ℹ️:
 
+- Conçu pour les appareils photo à objectifs interchangeables mirrorless
 - élément de lentille asphérique hybride (H - ASP)
 - 6 lames douverture créent une forme presque circulaire
 - Verre éléments de lentille asphérique (AS) et une faible dispersion (ED)
-- Conçu pour les appareils photo à objectifs interchangeables mirrorless
 - Système de revêtement Nano (NCS) réduit les reflets et offre un contraste plus élevé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00Q6YFI0G/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ Vous avez [Garmin 010-11983-00](https://www.amazon.fr/dp/B00BGTQWII/?tag=tolees0
 
 ℹ️:
 
-- Matériel: Plastique
 - Type: Passif
+- Matériel: Plastique
 - Garmin 010-11983-00. Usage adapté: Voiture
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BGTQWII/?tag=tolees0d-21)

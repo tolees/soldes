@@ -28,16 +28,16 @@ C'est en vente [Ibili 440016 Poêle Natura 16 cm  Fonte  Schwarz](https://www.am
 
 ℹ️:
 
-- Induction recommandée: 14.5 cm
+- Idéal pour: Induction, gas, vitro, electric
 - Idéal pour: Induction, gas, vitro, Electric
+- Antiadhésif façon pierre
+- Fond inox
 - Dur et resistant comme la pierre
 - Fond inox
 - Dur et résistant comme la pierre
-- Antiadhésif façon pierre
 - Induction recommandée: 14.5 cm
 - Poêle Natura 16 cm
-- Fond inox
+- Induction recommandée: 14.5 cm
 - Fonte DAluminium
-- Idéal pour: Induction, gas, vitro, electric
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01A89ST3W/?tag=tolees0d-21)

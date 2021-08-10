@@ -28,12 +28,12 @@ Vous avez [Corsair iCUE 220T RGB Airflow  boîtier de jeu intelligent ATX mi-tou
 
 ℹ️:
 
-- Couvercle dalimentation pleine longueur: cachez votre alimentation et vos câbles hors de vue, ce qui facilite la construction dun système daspect professionnel sans encombrement excessif
+- Remarque: ce produit convient à un refroidisseur AIO dans le haut
 - Acier solide: la construction en acier et la plaque avant du 220T RGB Airflow garantissent une durabilité robuste et résistante avec un look saisissant
 - Panneau latéral en verre trempé bord à bord: présentez vos composants et votre éclairage RVB avec une fenêtre entièrement transparente dans votre PC
+- Couvercle dalimentation pleine longueur: cachez votre alimentation et vos câbles hors de vue, ce qui facilite la construction dun système daspect professionnel sans encombrement excessif
 - Disposition à débit dair élevé: structurée pour améliorer le refroidissement de votre système, avec un panneau avant en grille en acier pour une prise dair optimale
 - Smart Case, Smart Lighting: le Lighting Node CORE inclus contrôle votre éclairage RVB, créant des effets déclairage dès la sortie de la boîte avec le logiciel CORSAIR iCUE
 - Allumez votre PC: comprend trois ventilateurs CORSAIR SP120 RGB PRO, chacun doublé de huit LED adressables individuellement autour du concentrateur (24 au total) . Refroidisseurs de liquide Corsair compatibles : H55, H60, H75, H80i, H90, H100i, H105, H110i, H115i, H150i
-- Remarque: ce produit convient à un refroidisseur AIO dans le haut
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RW8GLQJ/?tag=tolees0d-21)

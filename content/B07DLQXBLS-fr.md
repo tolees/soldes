@@ -28,12 +28,12 @@ C'est en vente [BÉABA  Lot 2 Portion Conservation Repas Bébé/Verre Extra Rés
 
 ℹ️:
 
-- CONTENANCE : Portion conservation contenance 150ml/250 ml
-- MADE IN FRANCE : 100% Made in France
-- HERMETIQUE : Couvercle en silicone souple facile à clipper: fermeture hermétique pour préserver les saveurs et aromes
-- RESISTANT : Verre extra-résistant: ne saltère pas avec le temps, résiste à la chaleur, aux choc thermiques, peut-être congelé, stérilisé.
 - Garanti sans BPA* (conformément à la réglementation en vigueur)
-- GRADUATION : Graduation visible en ml/oz: témoin de dosage
 - ENTRETIEN : lavage à la main ou au lave-vaisselle
+- HERMETIQUE : Couvercle en silicone souple facile à clipper: fermeture hermétique pour préserver les saveurs et aromes
+- CONTENANCE : Portion conservation contenance 150ml/250 ml
+- GRADUATION : Graduation visible en ml/oz: témoin de dosage
+- RESISTANT : Verre extra-résistant: ne saltère pas avec le temps, résiste à la chaleur, aux choc thermiques, peut-être congelé, stérilisé.
+- MADE IN FRANCE : 100% Made in France
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DLQXBLS/?tag=tolees0d-21)

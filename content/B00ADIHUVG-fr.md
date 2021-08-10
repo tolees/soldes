@@ -28,9 +28,9 @@ Vous avez [CTEK Connect 2.5M Extension: Augmente le rayon d action de votre char
 
 ℹ️:
 
-- Robuste: Câbles durables et flexibles. Developpé et testé en Suède
-- Compatibilité: fonctionne avec tous les chargeurs CTEK jusquà 10A
 - Sécurité: Connexion compacte et sûre grâce au Système CTEK Connect
 - 2.5 mètres de rallonge pour connecter les batteries difficiles daccès
+- Compatibilité: fonctionne avec tous les chargeurs CTEK jusquà 10A
+- Robuste: Câbles durables et flexibles. Developpé et testé en Suède
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ADIHUVG/?tag=tolees0d-21)

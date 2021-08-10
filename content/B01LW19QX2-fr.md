@@ -28,10 +28,10 @@ Vous avez [Rollei C6i Trépied Carbone](https://www.amazon.fr/dp/B01LW19QX2/?tag
 
 ℹ️:
 
-- Plaque à déclenchement rapide caoutchoutée avec vis en acier inoxydable de ¼” – assemblage de tête de trépied avec filetage de 3/8”
-- Les pointes intégrées
-- Monopied jusqu’à 179,5 cm
-- Tête de trépied avec fonction panoramique à 360° et encoche pour orientation portrait Maniement rapide et facile de tous les boutons
 - Trépied stable en carbone (8 couches) avec une haute capacité de charge jusqu’à 12 kg pour vidéos professionnelles et appareils photo reflex numériques
+- Plaque à déclenchement rapide caoutchoutée avec vis en acier inoxydable de ¼” – assemblage de tête de trépied avec filetage de 3/8”
+- Tête de trépied avec fonction panoramique à 360° et encoche pour orientation portrait Maniement rapide et facile de tous les boutons
+- Monopied jusqu’à 179,5 cm
+- Les pointes intégrées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LW19QX2/?tag=tolees0d-21)

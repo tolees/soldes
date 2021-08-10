@@ -28,11 +28,11 @@ C'est en vente [Corsair Carbide 275R Boîtier PC Gaming  Fenêtré Moyenne Tour 
 
 ℹ️:
 
-- Panneau latéral intégralement vitré :  Le panneau latéral intégralement vitré expose votre système avec élégance
-- Espace de stockage évolutif : Le plateau de disques en acier robuste offre un volume suffisant pour installer des disques supplémentaires
-- Diverses options de refroidissement : Suffisamment despace pour loger un radiateur de 360 mm à lavant, un radiateur de 240 mm en haut et un radiateur de 120 mm à larrière
-- Agencement interne adapté à lassembleur : Lagencement interne simple et intuitif permet dassembler le système rapidement et facilement
 - Apparence épurée et minimaliste : Des lignes épurées, des bords arrondis mis en valeur par un éclairage daccentuation tout en douceur
+- Agencement interne adapté à lassembleur : Lagencement interne simple et intuitif permet dassembler le système rapidement et facilement
+- Panneau latéral intégralement vitré :  Le panneau latéral intégralement vitré expose votre système avec élégance
 - Acheminement des câbles intégré : Le compartiment dédié à lacheminement des câbles est synonyme dassemblages épurés
+- Diverses options de refroidissement : Suffisamment despace pour loger un radiateur de 360 mm à lavant, un radiateur de 240 mm en haut et un radiateur de 120 mm à larrière
+- Espace de stockage évolutif : Le plateau de disques en acier robuste offre un volume suffisant pour installer des disques supplémentaires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079JVTPJK/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Bosch Visseuse à Chocs PDR 18 Li Outil 
 
 ℹ️:
 
-- Longévité élevée grâce au système ECP
-- Fonctionne avec une batterie 18V (non fournie) - famille power4all 18V - puce syneon
-- Poignée softgrip, Minimise les vibrations, meilleure maintien
 - Visseuse à chocs sans fil 18V très compacte et puissante
 - Visseuse à chocs PDR 18 LI outil seul (sans batterie), technologie Syneon
+- Fonctionne avec une batterie 18V (non fournie) - famille power4all 18V - puce syneon
+- Longévité élevée grâce au système ECP
+- Poignée softgrip, Minimise les vibrations, meilleure maintien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M3NSYCD/?tag=tolees0d-21)

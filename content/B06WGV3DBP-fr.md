@@ -28,10 +28,10 @@ C'est en vente [Imetec Bellissima My Pro Beach Waves GT20 100 Fer à friser pour
 
 ℹ️:
 
-- Fer pour créer des boucles serrées ou souples et donner du caractère à votre Look
-- Système Thermo Control pour régler manuellement la température entre 160° C et 200° C
 - Déverrouillez le double fer et faites le pivoter grâce aux deux boutons latéraux et choisissez l’effet désiré : côté large pour des boucles larges, souples et naturelles ou côté étroit pour des boucles serrées et définies
-- Plaques ondulées avec revêtement en céramique pour une répartition homogène de la chaleur pour protéger vos cheveux au maximum
 - Le fer My Pro Beach Waves permet de réaliser des boucles naturelles larges ou serrées. Indiqué pour une longueur de cheveu au moins jusquaux épaules
+- Fer pour créer des boucles serrées ou souples et donner du caractère à votre Look
+- Plaques ondulées avec revêtement en céramique pour une répartition homogène de la chaleur pour protéger vos cheveux au maximum
+- Système Thermo Control pour régler manuellement la température entre 160° C et 200° C
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WGV3DBP/?tag=tolees0d-21)

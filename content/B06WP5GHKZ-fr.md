@@ -29,7 +29,7 @@ C'est en vente [Simba - 109251003 - Ensemble de Jeu - Sam Le Pompier - Sauvetage
 ℹ️:
 
 - Avec figurine
-- Age recommandé: à partir de 3 ans
 - Avec lumière et son
+- Age recommandé: à partir de 3 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WP5GHKZ/?tag=tolees0d-21)

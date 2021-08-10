@@ -28,9 +28,9 @@ C'est en vente [G-Technology - G-DRIVE Mobile 5 To avec USB-C  Gris Sidéral](ht
 
 ℹ️:
 
+- Jusquà 5 to de capacité de stockage portable
 - Compatible USB-C, USB 3.0 et Thunderbolt 3
 - Conception élégante en aluminium
 - Compatible Mac ; reformatage possible pour Windows
-- Jusquà 5 to de capacité de stockage portable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y5Y2FH1/?tag=tolees0d-21)
