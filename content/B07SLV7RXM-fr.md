@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Martin Cox IKFOAMPRO2 IK Pro 2  Professi avec 26.36 % rabais '
-date: 2021-08-09 03:27:03
+date: 2021-08-10 07:38:20
 image: 'https://m.media-amazon.com/images/I/31hJJWmTP4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Martin Cox IKFOAMPRO2 IK Pro 2  Professional Foam Sprayer](https
 
 ℹ️:
 
+- 1,5 Liters
 - A thick Layer of foam without using a hose!
 - Comes with 3 Valves for Dry- Medium- & Wet Foam
-- 1,5 Liters
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SLV7RXM/?tag=tolees0d-21)
