@@ -28,10 +28,10 @@ C'est en vente [Salomon XA PRO 3D Chaussures de Course Enfant -Bleu  Blue Indigo
 
 ℹ️:
 
-- Foulée: Neutre
-- Type de surface: Trail
-- Dessus: Synthétique
-- Largeur de la chaussure: Moyen
 - Matériau de semelle: Caoutchouc
+- Dessus: Synthétique
+- Type de surface: Trail
+- Foulée: Neutre
+- Largeur de la chaussure: Moyen
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z5FMZYS/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ C'est en vente [Mustang 1300-303-121  Sneakers Basses Femme  Blanc  Weiß/Silber
 ℹ️:
 
 - Robuste, moderne et élégant - Mustang la marque de tradition
-- Semelle extérieure légère et synthétique
 - Semelle intérieure et doublure intérieure en textile
+- Semelle extérieure légère et synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MYDM67X/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Perel TL73080 Pince à sertir pour profilés](https://www.amazon
 
 ℹ️:
 
-- Marque réputée
 - Produit de qualité
+- Marque réputée
 - Pince à sertir pour profilés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01E03IXGA/?tag=tolees0d-21)

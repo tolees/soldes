@@ -28,8 +28,8 @@ C'est en vente [NBA 2K21 Edition Mamba Forever  PS5 ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
+- Inclut également nba 2k21 pour playstation(r)4
 - Cette édition inclut 100 000 vc, 10 000 points mon équipe, du contenu digital pour votre mon joueur et plus encore !
 - Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
-- Inclut également nba 2k21 pour playstation(r)4
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CNR6XG1/?tag=tolees0d-21)

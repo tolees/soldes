@@ -28,10 +28,10 @@ C'est en vente [Subsonic - Just Dance 2021 officiel - Dance Band - Brassard pour
 
 ℹ️:
 
-- Ultra sécurisé, lemplacement a été spécialement conçu pour accueillir les Joy Cons et résister aux coups et aux chocs.
 - Plus besoin de tenir votre Joy-Con, insérez le directement dans votre Brassard et dansez en toute liberté.
 - Bandeau adaptable à toutes les tailles de poignets (enfant et adulte).
-- Brassard au design unique et exclusif pour manette Nintendo Swirtch JoyCon aux couleurs de Just Dance 2021, le jeu de danse le plus populaire de sa génération!
 - Laccessoire ultime pour jouer à Just dance sur console Nintendo Switch en ayant une liberté de mouvement totale.
+- Ultra sécurisé, lemplacement a été spécialement conçu pour accueillir les Joy Cons et résister aux coups et aux chocs.
+- Brassard au design unique et exclusif pour manette Nintendo Swirtch JoyCon aux couleurs de Just Dance 2021, le jeu de danse le plus populaire de sa génération!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08H6L6PD9/?tag=tolees0d-21)
