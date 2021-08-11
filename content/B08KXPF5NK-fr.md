@@ -28,10 +28,10 @@ C'est en vente [BSYYO Batterie Externe 10000mAh Power Bank USB-C avec écran LED
 
 ℹ️:
 
-- 5. Affichage LED:affichage numérique clair et intelligent pour savoir facilement combien de batterie est restante.
-- 3. Double entrée:ports dentrée micro et USB intégrés. Entrée:USB C 5V/2,4A, micro DC 5V/2A.
 - 4. Sécurité certifiée:le système de protection certifié UL2056 de BSYYO fournit une protection essentielle et protège vos appareils.
 - 1. Batterie externe haute capacité:10000mAh,charge rapide,assez pour recharger iPhone 8 cinq fois,le Galaxy S8 trois fois. Assurez-vous que vos produits électroniques sont toujours alimentés dans la nature.
 - 2. Chargez 2 appareils en même temps:chargeur portable Bsyyo équipé de 2 ports USB, vous pouvez alimenter deux appareils ensemble à une vitesse rapide allant jusquà 3A, détection intelligente et recharge vos appareils à sa vitesse maximale.
+- 3. Double entrée:ports dentrée micro et USB intégrés. Entrée:USB C 5V/2,4A, micro DC 5V/2A.
+- 5. Affichage LED:affichage numérique clair et intelligent pour savoir facilement combien de batterie est restante.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KXPF5NK/?tag=tolees0d-21)
