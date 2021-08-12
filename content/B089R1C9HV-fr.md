@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 870 QVO MZ-77Q2T0BW | Disque SSD avec 23.81 % rabais '
-date: 2021-08-03 09:35:22
+date: 2021-08-12 21:19:51
 image: 'https://m.media-amazon.com/images/I/31-m+QrrT7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B089R1C9HV/?tag=tolees0d-21'
 descuento: '23.81'
-average: '194.904761904762'
+average: '193.317727272727'
 ---
 
 C'est en vente [Samsung 870 QVO MZ-77Q2T0BW | Disque SSD Interne 2 To  SATA III  2 5   - Technologie QLC seconde génération](https://www.amazon.fr/dp/B089R1C9HV/?tag=tolees0d-21)  à  23.81 % de réduction, prix final  159.99 EUR (original: 209.99 EUR) ici:
@@ -28,10 +28,11 @@ C'est en vente [Samsung 870 QVO MZ-77Q2T0BW | Disque SSD Interne 2 To  SATA III 
 
 ℹ️:
 
-- Disponible jusquà 8 To
-- Seconde génération de la gamme QVO, plus performant et encore plus rapide
 - Température de fonctionnement : 0 - 70°C
+- Seconde génération de la gamme QVO, plus performant et encore plus rapide
 - Performances améliorées de 15% (par rapport au précédent modèle)
+- Mémoire cache: SDRAM DDR4 à faible consommation de 2 Go de Samsung
 - Garantie 3 ans
+- Disponible jusquà 8 To
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089R1C9HV/?tag=tolees0d-21)
