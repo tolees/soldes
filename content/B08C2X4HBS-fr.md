@@ -29,9 +29,9 @@ Vous avez [BORN PRETTY UV Gel Vernis à Ongles Set Nail Art Gel Soak Disappear P
 ℹ️:
 
 - [Brillant et longue durée]: le vernis à ongles en gel BORN PRETTY est dune bonne ténacité et hautement pigmenté, il peut être maintenu jusquà 21 jours si vous suivez les instructions pour lutiliser correctement; Leffet sera meilleur si vous utilisez la couche de base et la couche de finition de la même marque
-- [Bouteilles en verre exquises]: Le récipient pour le vernis à ongles est une bouteille en verre de couleur blanche et or; Les bouteilles en verre petites mais exquises sont portables et légères, ce qui vous permet de bricoler des ongles partout où vous le souhaitez
-- [Kit de gel pour ongles utilisé à la maison et professionnel]: Le kit de vernis à ongles en gel est assez facile pour bricoler vos ongles à la maison ou un bon choix pour une utilisation dans un salon de manucure professionnel; Convient aux ongles naturels, aux ongles en gel U V, aux ongles artificiels, aux ongles en acrylique, aux pointes dongles, etc.
 - [Ensemble de vernis à ongles en gel 6 couleurs]: Ensemble de vernis à ongles en gel de 6 couleurs, les belles couleurs à la mode populaires donneront à votre ongle une apparence attrayante; Convient à toutes les saisons et à la vie quotidienne
 - [Environnemental et sain]: Nos vernis à ongles en gel sont faits de résine naturelle, sont non toxiques, non irritants et peu odorants pour votre tranquillité desprit; Gel de polissage dingrédients sains, pas dingrédients durs ou dadhésifs qui endommagent les ongles
+- [Kit de gel pour ongles utilisé à la maison et professionnel]: Le kit de vernis à ongles en gel est assez facile pour bricoler vos ongles à la maison ou un bon choix pour une utilisation dans un salon de manucure professionnel; Convient aux ongles naturels, aux ongles en gel U V, aux ongles artificiels, aux ongles en acrylique, aux pointes dongles, etc.
+- [Bouteilles en verre exquises]: Le récipient pour le vernis à ongles est une bouteille en verre de couleur blanche et or; Les bouteilles en verre petites mais exquises sont portables et légères, ce qui vous permet de bricoler des ongles partout où vous le souhaitez
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C2X4HBS/?tag=tolees0d-21)
