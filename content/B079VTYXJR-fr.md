@@ -29,8 +29,8 @@ C'est en vente [Roba Baumann 450019WE Set de table et chaises pour enfants ](htt
 ℹ️:
 
 - Comprenant : 2x chaises pour enfant 1x table pour enfants
+- Chaise pour enfant: 54x26,5x26,5cm
 - Imprimé
 - Bois massif et mdf laqué
-- Chaise pour enfant: 54x26,5x26,5cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079VTYXJR/?tag=tolees0d-21)
