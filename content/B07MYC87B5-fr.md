@@ -28,10 +28,10 @@ C'est en vente [Cardo FRC2P101 FREECOM 2 Plus Motocyclette 2 Voies Bluetooth Com
 
 ℹ️:
 
+- Adaptation universelle : compatible avec toutes les marques et tous les modèles de casques. Pour une utilisation avec un demi-casque, le kit demi-casque Cardo est nécessaire
+- Haut-parleurs HD de 40 mm. Les haut-parleurs haute définition puissants et le processeur audio sont spécialement réglés pour offrir un son de qualité et clair à tous les niveaux de volume
 - Parfaitement résistant à l’eau et à la poussière. Diffusion audio en parallèle, avec ajustement automatique du volume en fonction du bruit ambiant
 - L’application Cardo Connect sous iOS et Android offre une commande à distance complète et la maîtrise totale des paramètres/présélections de l’appareil
-- Adaptation universelle : compatible avec toutes les marques et tous les modèles de casques. Pour une utilisation avec un demi-casque, le kit demi-casque Cardo est nécessaire
 - Système d’intercom de motard à motard. Prend en charge jusqu’à 2 motards en duplex intégral à une distance maximale de 800 m. Forte réduction du bruit du vent
-- Haut-parleurs HD de 40 mm. Les haut-parleurs haute définition puissants et le processeur audio sont spécialement réglés pour offrir un son de qualité et clair à tous les niveaux de volume
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MYC87B5/?tag=tolees0d-21)

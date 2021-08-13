@@ -28,10 +28,10 @@ C'est en vente [Pioneer Rayz Rally XW-LTS5-B - Haut-parleur avec câble Lightnin
 
 ℹ️:
 
-- Plug & Play – Il associe à nimporte quel Mac/PC avec cble USB/Lightning, pour connaître le système de haut-parleur de conférence.
 - Smart Button – Play/Pause. Mute un/mute. Tout sur une touche. talk and charge – Charge votre iPhone, même lorsque vous parlez ou écouter de la musique.
-- Propulsé Powered – de Lightning de votre iPhone, sans piles ni chargement nécessaire. Fonctionne avec différents modes avec la plus faible consommation électrique.
+- Plug & Play – Il associe à nimporte quel Mac/PC avec cble USB/Lightning, pour connaître le système de haut-parleur de conférence.
 - Plus puissant que il – Suffisamment compact pour dans une poche, mais il a le volume set la qualité dun grand système de conférence.
 - Petit, plus facile, plus solide. rayz Rally est un système de haut-parleur avec haut-parleur de la clarté à une conférence Pocket Size. Avec lapplication rayz rend lappel plus simples et claires.
+- Propulsé Powered – de Lightning de votre iPhone, sans piles ni chargement nécessaire. Fonctionne avec différents modes avec la plus faible consommation électrique.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074FW99DB/?tag=tolees0d-21)

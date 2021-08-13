@@ -28,12 +28,12 @@ C'est en vente [Logitech Folio Touch étui clavier pour iPad Pro 11 pouces  Mod�
 
 ℹ️:
 
-- Frappe de type ordinateur portable: le grand clavier aux touches espacées présente une rangée complète de touches de raccourcis pour iPadOS afin de saisir avec précision et rapidité
-- Quatre modes d’utilisation: saisissez, dessinez, affichez et lisez: choisissez parmi ces quatre modes polyvalents pour vos tâches sur iPad Pro
 - Protection de niveau militaire: l’étui robuste, conforme à la norme MIL STD 810G, protège l’iPad Pro contre les chocs et les rayures. La fermeture aimantée sécurisée maintient l’étui fermé lorsque vous êtes en déplacement
+- Frappe de type ordinateur portable: le grand clavier aux touches espacées présente une rangée complète de touches de raccourcis pour iPadOS afin de saisir avec précision et rapidité
+- Alimentation et couplage en un clic: Folio Touch se couple instantanément via Smart Connector. Le clavier salimente directement depuis liPad Pro de sorte que vous n’ayez jamais besoin de le charger
+- Trackpad haute précision: utilisez toutes les commandes gestuelles multi-touch que vous adorez telles que le défilement vers les côtés, vers le haut, vers le bas et le pincement pour naviguer encore plus rapidement dans votre iPad Pro.
 - Touches rétroéclairées: Les touches rétroéclairées sadaptent automatiquement à l’éclairage de votre environnement. Si vous avez besoin de plus ou moins de luminosité, les niveaux d’éclairage sont réglables
 - Support réglable: le support, doté de plusieurs angles à 40°, associe un clavier repliable pour un mode d’affichage optimal ainsi qu’un mode de dessin sans encombrement
-- Trackpad haute précision: utilisez toutes les commandes gestuelles multi-touch que vous adorez telles que le défilement vers les côtés, vers le haut, vers le bas et le pincement pour naviguer encore plus rapidement dans votre iPad Pro.
-- Alimentation et couplage en un clic: Folio Touch se couple instantanément via Smart Connector. Le clavier salimente directement depuis liPad Pro de sorte que vous n’ayez jamais besoin de le charger
+- Quatre modes d’utilisation: saisissez, dessinez, affichez et lisez: choisissez parmi ces quatre modes polyvalents pour vos tâches sur iPad Pro
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7N3CKC/?tag=tolees0d-21)
