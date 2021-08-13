@@ -28,10 +28,10 @@ Vous avez [Xiaomi Redmi Note 9 - Smartphone Débloqué 4G  6.53 Pouces  4Go RAM 
 
 ℹ️:
 
-- Batterie 5020mAh ultra longue durée avec charge rapide de 18W
-- Tout nouveau DotDisplay de 6,53" avec petite caméra frontale en poiçon
-- Supporte la technologie NFC MediaTek Helio G85
 - Prise en charge - 802.11a/b/g/n/ac | Wi-Fi 2,4 G / Wi-Fi 5 G | Wi-Fi Direct | Bluetooth 5.0
+- Tout nouveau DotDisplay de 6,53" avec petite caméra frontale en poiçon
 - Quad caméras 48 MP avec IA
+- Batterie 5020mAh ultra longue durée avec charge rapide de 18W
+- Supporte la technologie NFC MediaTek Helio G85
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0889CKL2Z/?tag=tolees0d-21)

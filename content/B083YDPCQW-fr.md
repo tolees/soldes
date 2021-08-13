@@ -28,13 +28,13 @@ C'est en vente [Arlo Pro 3 caméra de surveillance Wifi  Batterie rechargeable A
 
 ℹ️:
 
-- VISION NOCTURNE COULEUR: capturez des informations importantes, même la nuit, grâce à une vision nocturne aux couleurs vives
 - SANS FIL ET RÉSISTANTE AUX INTEMPÉRIES: KEYWORD 100 % sans fil et résistante aux intempéries, pour une protection instantanée sur laquelle vous pouvez compter
-- Résolution vidéo maximale: 2560 x 1440
+- PROJECTEUR INTÉGRÉ: le projecteur puissant illumine lactivité spécifique pour vous permettre de voir clairement ce qui se passe, de jour comme de nuit
+- ANGLE DE VUE DE 160 DEGRÉS: concentrez-vous sur les endroits les plus vulnérables de votre propriété, grâce à notre caméra extérieure avec langle de vue de 160 degrés
 - SIRÈNE INTÉGRÉE: prenez les commandes de votre sécurité à distance et déclenchez la sirène sur votre caméra de surveillance extérieure pour dissuader les intrus indésirables
 - AUDIO BIDIRECTIONNEL: laudio bidirectionnel vous permet dentendre les visiteurs et de leur parler, et donc de contrôler la protection de votre propriété
 - VIDÉO 2K AVEC HDR: caméra IP de surveillance wifi avec une qualité dimage supérieure qui vous permet de capturer les détails avec clarté
-- ANGLE DE VUE DE 160 DEGRÉS: concentrez-vous sur les endroits les plus vulnérables de votre propriété, grâce à notre caméra extérieure avec langle de vue de 160 degrés
-- PROJECTEUR INTÉGRÉ: le projecteur puissant illumine lactivité spécifique pour vous permettre de voir clairement ce qui se passe, de jour comme de nuit
+- Résolution vidéo maximale: 2560 x 1440
+- VISION NOCTURNE COULEUR: capturez des informations importantes, même la nuit, grâce à une vision nocturne aux couleurs vives
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083YDPCQW/?tag=tolees0d-21)

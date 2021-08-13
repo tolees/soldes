@@ -28,10 +28,10 @@ Vous avez [SanDisk MAX ENDURANCE Carte microSDHC 64Go + Adaptateur SD - pour le 
 
 ℹ️:
 
-- Enregistrez davantage de vidéos avec vos caméras de sécurité domestique et embarquées grâce à des capacités allant jusquà 256 Go
 - Sauvegardez ou transférez des vidéos vers votre ordinateur avec une vitesse de lecture pouvant aller jusquà 100 Mo/s (écriture jusquà 40 Mo/s)
 - Enregistrez en Full HD et en 4K grâce à une vitesse vidéo de classes 10, U3 et V30
 - Conçue pour avoir une résistance durable afin de vous permettre denregistrer et de ré-enregistrer jusquà 120 000 heures de vidéo (plus de 13 ans)
+- Enregistrez davantage de vidéos avec vos caméras de sécurité domestique et embarquées grâce à des capacités allant jusquà 256 Go
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084CJ96GT/?tag=tolees0d-21)

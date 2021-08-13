@@ -28,9 +28,9 @@ C'est en vente [GARNIER - MENNEN Dédorant Stick NATURAL FORCE 50ml - Pack de 6]
 
 ℹ️:
 
-- Refermer le stick à laide de lopercule et du capot protecteur après utilisation
-- Le 1er déodorant 100% dorigine naturelle, enrichi en écorce de bois brut. Protection anti-odeurs 48h
 - Contenu: 6x Dédorant Stick NATURAL FORCE 50ml
+- Le 1er déodorant 100% dorigine naturelle, enrichi en écorce de bois brut. Protection anti-odeurs 48h
+- Refermer le stick à laide de lopercule et du capot protecteur après utilisation
 - Enrichi en écorce brute de pin des landes, Natural Force vous apporte un parfum boisé et masculin pour une protection anti-odeurs longue durée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JR3GRLF/?tag=tolees0d-21)

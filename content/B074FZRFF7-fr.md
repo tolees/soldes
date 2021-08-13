@@ -28,11 +28,11 @@ C'est en vente [StarTech.com Hub USB 3.0 à 4 ports - Mini hub avec port de char
 
 ℹ️:
 
+- Alimenté par USB avec un adaptateur dalimentation optionnel (pour lalimentation autonome)
+- Installation rapide et facile avec prise en charge de nombreux systèmes dexploitation, sans pilote supplémentaire
+- Ajoutez des ports USB-A supplémentaires à votre ordinateur portable
+- Conception compacte pour une plus grande portabilité
 - Boîtier compact et léger à faible encombrement idéal pour le voyage ou le placement sur votre bureau
 - Température de fonctionnement: 0°C - 70°C (32°F - 158°F)
-- Alimenté par USB avec un adaptateur dalimentation optionnel (pour lalimentation autonome)
-- Conception compacte pour une plus grande portabilité
-- Ajoutez des ports USB-A supplémentaires à votre ordinateur portable
-- Installation rapide et facile avec prise en charge de nombreux systèmes dexploitation, sans pilote supplémentaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074FZRFF7/?tag=tolees0d-21)
