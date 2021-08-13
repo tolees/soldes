@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.21 % rabais sur LEGO Friends 41448 Le Cinéma de Heartlak'
-date: 2021-08-12 14:09:51
+date: 2021-08-13 15:06:37
 image: 'https://m.media-amazon.com/images/I/51kDBm74kDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08G4P2XRK/?tag=tolees0d-21'
 descuento: '20.21'
-average: '31.4771428571429'
+average: '31.5053333333334'
 ---
 
 Vous avez [LEGO Friends 41448 Le Cinéma de Heartlake City avec Support Téléphone  Jeu Créatif pour Fille et Garçon de 7 Ans et Plus](https://www.amazon.fr/dp/B08G4P2XRK/?tag=tolees0d-21)  à  20.21 % de réduction, prix final  31.9 EUR (original: 39.98 EUR) ici:
