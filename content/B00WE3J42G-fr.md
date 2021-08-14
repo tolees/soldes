@@ -28,9 +28,9 @@ Vous avez [Hasbro- Famille Jeu  A6769398](https://www.amazon.fr/dp/B00WE3J42G/?t
 
 ℹ️:
 
-- Avec lecteur de cartes bancaires et cartes de crédit
+- Classique avec des éléments
 - Nombre de joueurs: 2-4
 - Âge recommandé: 8 ans et plus
-- Classique avec des éléments
+- Avec lecteur de cartes bancaires et cartes de crédit
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WE3J42G/?tag=tolees0d-21)
