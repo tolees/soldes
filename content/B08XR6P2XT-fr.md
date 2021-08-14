@@ -28,11 +28,11 @@ Vous avez [MILESTONE - Hot Wheels Unleashed - Challenge Accepted Edition  Xbox S
 
 ℹ️:
 
+- Prêt pour un nouveau challenge ? Affrontez un ami en mode écran partagé à 2 joueurs ou faites la course jusqu’à 12 en ligne dans un événement mondial.
 - Obtenez le DLC « HOT WHEELS - BEEFED UP PACK » en précommandant le jeu Hot Wheels Unleashed chez votre revendeur. Les éléments à récupérer en jeu (2 véhicules supplémentaires) seront disponibles le jour du lancement (30/09/2021)
 - Prenez le volant d’une tonne de véhicules avec chacun leur propre style et des niveaux de rareté différents. Le meilleur de l’univers Hot Wheels débarque dans votre salon !
-- CONDUISEZ LES VOITURES DE VOS RÊVES : Les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
 - FAITES LA COURSE FACE AU MONDE ENTIER : Préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
-- Prêt pour un nouveau challenge ? Affrontez un ami en mode écran partagé à 2 joueurs ou faites la course jusqu’à 12 en ligne dans un événement mondial.
+- CONDUISEZ LES VOITURES DE VOS RÊVES : Les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
 - LIBÉREZ VOTRE CRÉATIVITÉ : Des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08XR6P2XT/?tag=tolees0d-21)
