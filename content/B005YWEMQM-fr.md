@@ -28,10 +28,10 @@ C'est en vente [Lip Smacker - Collection Canettes Coca-Cola - Ensemble Baumes à
 
 ℹ️:
 
-- COLLECTION CANETTE COCA-COLA : Un Coca et un sourire ! De délicieuses saveurs glissent sur les lèvres en douceur et procurent une longue hydratation. Avec le design iconique de la canette en plus!
-- CONSEILS DUTILISATION : Ce coffret Lip Smacker et brillant à lèvres inspiré de Coca-Cola est le cadeau idéal pour vos amis. Le design iconique de la boîte impressionera vos amis!
-- DES LÈVRES DOUCES, BRILLANTES ET HYDRATES : Ces gloss pour les lèvres offrent le goût authentique de vos saveurs Coca-Cola préférées tout en hydratant et en rafraîchissant vos lèvres
 - SOURIRES SUCRÉS DANS LE MONDE ENTIER : Depuis 1973, Lip Smacker met des sourires sur les lèvres. Nos saveurs authentiques, nos parfums et nos produits au design coloré vous rendront heureux
 - DES GOURMANDISES EXCEPTIONNELLES : le goût authentique de vos sodas préférés dans un lot de 6 brillants à lèvres, ils hydratent et rafraichisent les lèvres en un seul geste
+- CONSEILS DUTILISATION : Ce coffret Lip Smacker et brillant à lèvres inspiré de Coca-Cola est le cadeau idéal pour vos amis. Le design iconique de la boîte impressionera vos amis!
+- COLLECTION CANETTE COCA-COLA : Un Coca et un sourire ! De délicieuses saveurs glissent sur les lèvres en douceur et procurent une longue hydratation. Avec le design iconique de la canette en plus!
+- DES LÈVRES DOUCES, BRILLANTES ET HYDRATES : Ces gloss pour les lèvres offrent le goût authentique de vos saveurs Coca-Cola préférées tout en hydratant et en rafraîchissant vos lèvres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005YWEMQM/?tag=tolees0d-21)
