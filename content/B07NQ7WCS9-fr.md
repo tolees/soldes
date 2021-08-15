@@ -28,10 +28,10 @@ C'est en vente [Brabantia  BRAA3  - Brabantia - 130625 - Poubelle Bo Touch Bin H
 
 ℹ️:
 
-- 2 seaux intérieurs amovibles – idéal pour le tri des déchets à la maison.
 - Gain de place - conçue pour s’accoler au mur ou se glisser discrètement dans un coin.
 - Idéale pour les déchets des familles nombreuses - couvercle pouvant rester ouvert.
 - Garantie 10 ans
 - Facile à déplacer – poignées solides
+- 2 seaux intérieurs amovibles – idéal pour le tri des déchets à la maison.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NQ7WCS9/?tag=tolees0d-21)

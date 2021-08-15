@@ -28,11 +28,11 @@ C'est en vente [Panasonic - Personalcare ER-GC53-K503 | Tondeuse cheveux - 20 lo
 
 ℹ️:
 
-- Autonomie de 40 minutes
-- Molette de réglage avec 20 longueurs de coupe de 0,5mm à 10mm (0,5mm sans sabot), par intervalle de 0,5mm
-- Lumière de charge
-- Cette tondeuse cheveux offre une coupe de précision avec un bord de coupe à 45°.
 - Conception étanche et lame détachable pour un entretien facile de la tondeuse : nettoyez facilement la tondeuse sous leau après son utilisation
 - 1 accessoire cheveux 1-10mm
+- Autonomie de 40 minutes
+- Cette tondeuse cheveux offre une coupe de précision avec un bord de coupe à 45°.
+- Molette de réglage avec 20 longueurs de coupe de 0,5mm à 10mm (0,5mm sans sabot), par intervalle de 0,5mm
+- Lumière de charge
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XYMRBMM/?tag=tolees0d-21)

@@ -29,11 +29,11 @@ Vous avez [MAKITA DHR171Z - Martillo ligero 17mm a bateria 18v & Chargeur rapide
 ℹ️:
 
 - produit 1: Contrôle de vitesse constante
+- produit 1: Une touche coulissante mandrin pour permettre facile et rapide changements de bits. Puissance sonore: 97 dB (A)
 - produit 1: Frein électrique
 - produit 2: Peut également être utilisé pour charger un périphérique USB à partir du port USB situé à lavant de lappareil
-- produit 2: Comme charge rapide une batterie
 - produit 2: Avec alerte sonore de charge complète
-- produit 1: Une touche coulissante mandrin pour permettre facile et rapide changements de bits. Puissance sonore: 97 dB (A)
+- produit 2: Comme charge rapide une batterie
 - produit 1: Gâchette à vitesse variable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08V5HX8YX/?tag=tolees0d-21)

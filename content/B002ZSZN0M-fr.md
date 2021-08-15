@@ -29,9 +29,9 @@ Vous avez [Staedtler Lumocolor Lot de 10 Marqueurs permanents duos Noir](https:/
 ℹ️:
 
 - Couleurs intenses, quasi inodore
-- Séchage rapide sur le support, idéal pour les gauchers
 - Encre noire résistant aux U.V et aux intempéries
-- Largeur de trait F approx. 0.6 mm and M pointe ogive 1.5 mm
 - Encre sans xylène ni toluène
+- Largeur de trait F approx. 0.6 mm and M pointe ogive 1.5 mm
+- Séchage rapide sur le support, idéal pour les gauchers
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002ZSZN0M/?tag=tolees0d-21)

@@ -28,13 +28,13 @@ Vous avez [Whirlpool; Plaque de cuisson à gaz  AKT6465NB  Noir](https://www.ama
 
 ℹ️:
 
-- Puissance raccordée (gaz): 8000 W
-- Type de surface extérieure (dessus): Verre. Type de commande: Rotatif
 - Tension dentrée AC: 220-240 V. Largeur: 59 cm
-- Hauteur: 4,9 cm
 - Position de contrôle: En haut devant. Actuel: 0,2 A
 - Whirlpool AKT 6455/NB. Design de la caisse: Intégré
-- Type de plaque: Gaz
 - Profondeur: 51 cm
+- Type de plaque: Gaz
+- Hauteur: 4,9 cm
+- Type de surface extérieure (dessus): Verre. Type de commande: Rotatif
+- Puissance raccordée (gaz): 8000 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XRJO3D6/?tag=tolees0d-21)

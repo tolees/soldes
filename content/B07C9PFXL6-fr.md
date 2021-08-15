@@ -28,7 +28,7 @@ Vous avez [Replay M3590 .000.2660 T-Shirt  Noir  Black 98   Large Homme](https:/
 
 ℹ️:
 
-- Agréable à porter
 - Finitions de qualité supérieure
+- Agréable à porter
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07C9PFXL6/?tag=tolees0d-21)

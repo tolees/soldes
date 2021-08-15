@@ -28,10 +28,10 @@ C'est en vente [Disney Traditions Figurine Multicolore Taille Unique](https://ww
 
 ℹ️:
 
+- Conçu par Jim Shore.
+- Figurine Disney traditions
+- Fabriqué et peint à la main.
 - Coffret cadeau de marque.
 - Motifs inspirés de lart populaire avec des couleurs vives.
-- Fabriqué et peint à la main.
-- Figurine Disney traditions
-- Conçu par Jim Shore.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DR3Y17T/?tag=tolees0d-21)
