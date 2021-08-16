@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '54.95 % rabais sur Philips 12066B2 Lot de 2 ampoules pour c'
-date: 2021-08-15 04:51:17
+date: 2021-08-16 09:02:41
 image: 'https://m.media-amazon.com/images/I/41qNLuxLisL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Philips'
 buyurl: 'https://www.amazon.fr/dp/B005NY0QQ6/?tag=tolees0d-21'
 descuento: '54.95'
-average: '4.4'
+average: '4.425'
 ---
 
 Vous avez [Philips 12066B2 Lot de 2 ampoules pour clignotant Vision W21/5W](https://www.amazon.fr/dp/B005NY0QQ6/?tag=tolees0d-21)  à  54.95 % de réduction, prix final  4.5 EUR (original: 9.99 EUR) ici:
