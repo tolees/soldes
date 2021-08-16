@@ -28,10 +28,10 @@ C'est en vente [DYKHMILY Chaussure de Securité Homme Legere Coussin d air Embou
 
 ℹ️:
 
-- Respirant:Perforations sur la pointe pour une aération supplémentaire. Tige légère et respirante pour vous permettre de rester au sec et au frais.
-- Anti-fracassant:Chaussures de sécurité à bout en acier satisfaisant à la norme européenne peut résister à 200 J impact.
-- Légère: Chaussures de sécurité souple et légère les peuvent être libres de plier pour plus de confort et une réduiront la fatigue.
-- Amortissement:Lunité air sous le talon pour assurer un amorti souple et performant. Lamorti souple offre une sensation de confort à chaque pas.
 - Antidérapant:Structure de semelle spéciale pour une résistance au dérapage et une adhérence accrues.
+- Amortissement:Lunité air sous le talon pour assurer un amorti souple et performant. Lamorti souple offre une sensation de confort à chaque pas.
+- Légère: Chaussures de sécurité souple et légère les peuvent être libres de plier pour plus de confort et une réduiront la fatigue.
+- Anti-fracassant:Chaussures de sécurité à bout en acier satisfaisant à la norme européenne peut résister à 200 J impact.
+- Respirant:Perforations sur la pointe pour une aération supplémentaire. Tige légère et respirante pour vous permettre de rester au sec et au frais.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JCGQ9R7/?tag=tolees0d-21)
