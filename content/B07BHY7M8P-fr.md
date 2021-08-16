@@ -28,12 +28,12 @@ Vous avez [Jabra Elite Active 65t Écouteurs - Écouteurs de sport Bluetooth à 
 
 ℹ️:
 
-- Connectez lassistant virtuel de votre choix, passez des appels par pression dune touche ou utilisez la fonction HearThrough pour filtrer les sons autour
-- Des embouts pour un ajustement idéal : Choisissez la bonne taille pour garantir une qualité idéal sonore et augmenter le confort en toutes circonstances
-- Le produit est garanti 2 ans
-- Commande vocale dédiée, touche contrôle du son et des appels
 - Longue durée de vie de la batterie et stabilité sans fil : Les 15 heures dautonomie avec létui de chargement de poche permettent de prendre des appels et découter de la musique toujours connectés
-- Construit pour un mode de vie actif : Résistant à la transpiration et classé IP56 contre la poussière et leau
+- Commande vocale dédiée, touche contrôle du son et des appels
 - Contenu de la livraison : Oreillettes Jabra Elite Active 65t, étui de chargement, 3 jeux dembouts en silicone, câble de chargement USB - Couleur : bleu cuivre
+- Connectez lassistant virtuel de votre choix, passez des appels par pression dune touche ou utilisez la fonction HearThrough pour filtrer les sons autour
+- Construit pour un mode de vie actif : Résistant à la transpiration et classé IP56 contre la poussière et leau
+- Le produit est garanti 2 ans
+- Des embouts pour un ajustement idéal : Choisissez la bonne taille pour garantir une qualité idéal sonore et augmenter le confort en toutes circonstances
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BHY7M8P/?tag=tolees0d-21)

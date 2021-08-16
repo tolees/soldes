@@ -28,10 +28,10 @@ C'est en vente [Philips Audio on Ear PH805BK/00 Écouters on Ear  Bluetooth  Act
 
 ℹ️:
 
-- Grce à la fonction de chargement rapide, vos écouteurs Philips supra-auriculaires sont rapidement prêts à utiliser. En seulement 5 minutes de chargement, vous obtenez une autonomie de 2 heures, et en 15 minutes 6 heures.
-- Avec les écouteurs supra-auriculaires Bluetooth, profitez de votre musique sans fil. C’est possible grce au Bluetooth 5.0, dont la portée peut atteindre 10 m.
 - Les écouteurs supra-auriculaires vous permettent d’atteindre jusqu’à 25 heures d’autonomie lorsque l’ANC (suppression active des bruits parasites) est activée. Si vous désactivez l’ANC, les écouteurs supra-auriculaires vous offriront jusqu’à 30 heures de musique.
 - Sont fournis: Écouteurs Philips supra-auriculaires PH805BK/00 écouteurs supra-auriculaires (Bluetooth, Active Noise Cancelling, 30 heure d’autonomie des piles, Audio Hi-Res, Assistant Google,) noir, cble USB
+- Avec les écouteurs supra-auriculaires Bluetooth, profitez de votre musique sans fil. C’est possible grce au Bluetooth 5.0, dont la portée peut atteindre 10 m.
+- Grce à la fonction de chargement rapide, vos écouteurs Philips supra-auriculaires sont rapidement prêts à utiliser. En seulement 5 minutes de chargement, vous obtenez une autonomie de 2 heures, et en 15 minutes 6 heures.
 - Ces écouteurs supra-auriculaires sont équipés dun micro intégré. La suppression acoustique de l’écho vous garantit, lors de vos discussions téléphoniques, une liaison claire et sans perturbations.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z89CGS5/?tag=tolees0d-21)
