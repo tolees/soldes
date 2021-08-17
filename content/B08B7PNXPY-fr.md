@@ -28,9 +28,9 @@ C'est en vente [Electronic Arts - Star Wars Squadrons  PS4  - Compatible VR](htt
 
 ℹ️:
 
-- Maîtrisez des chasseurs légendaires – Prenez les commandes des différentes classes de chasseurs de la Nouvelle République et de l’Empire– dont l’agile A-Wing et le bombardier TIE dévastateur.
 - Une mission claire - Star Wars : Squadrons est une expérience entièrement indépendante dès le premier jour, où vous obtiendrez des récompenses en jouant.
 - Vivez votre rêve de pilote Star Wars - Décollez pour des modes multijoueurs passionnants et un scénario Star Wars solo unique, dans une campagne capitale alors que la Guerre Civile Galactique touche à sa fin.
+- Maîtrisez des chasseurs légendaires – Prenez les commandes des différentes classes de chasseurs de la Nouvelle République et de l’Empire– dont l’agile A-Wing et le bombardier TIE dévastateur.
 - Tous les pilotes au rapport – Planifiez des escarmouches avec votre escadron dans la salle de briefing avant de décoller pour des champs de bataille en constante évolution à travers la galaxie.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08B7PNXPY/?tag=tolees0d-21)

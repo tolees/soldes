@@ -28,10 +28,10 @@ C'est en vente [Kensington Support Ergonomique pour Ordinateur Portable  Jusqu �
 
 ℹ️:
 
-- Hauteur réglable - La plateforme peut être relevée ou abaissée de manière personnalisée, de sorte que lécran dordinateur soit à la hauteur de vos yeux et que vous soyez assis dans une posture beaucoup plus confortable
-- Système SmartFit - Vous permet de personnaliser la hauteur de la plateforme à laide de codes couleur pour ajuster votre écran dordinateur à votre hauteur
-- Gestion des câbles - Grâce au dessous de la plateforme, vous pouvez agencer les câbles de façon à éviter tout encombrement et privilégier un bureau épuré
 - Design antidérapant et inclinable - Idéalement incliné pour que tout ordinateur portable jusquà 15,6 pouces et 3,5 kg soit maintenu en toute stabilité sur la plateforme
 - Zéro encombrement - Idéal pour les petits bureaux disposant d’un espace limité, un système dédié vous permet de fixer, sous la plateforme, une station d’accueil universelle Kensington compatible
+- Système SmartFit - Vous permet de personnaliser la hauteur de la plateforme à laide de codes couleur pour ajuster votre écran dordinateur à votre hauteur
+- Gestion des câbles - Grâce au dessous de la plateforme, vous pouvez agencer les câbles de façon à éviter tout encombrement et privilégier un bureau épuré
+- Hauteur réglable - La plateforme peut être relevée ou abaissée de manière personnalisée, de sorte que lécran dordinateur soit à la hauteur de vos yeux et que vous soyez assis dans une posture beaucoup plus confortable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ISXQOQE/?tag=tolees0d-21)

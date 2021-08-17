@@ -28,8 +28,8 @@ Vous avez [GEB 60667 Graisse Silicone Tube 20g 515520  Clair](https://www.amazon
 
 ℹ️:
 
-- Protège du tartre les parties lubrifiées - empêche la corrosion électrolytique entre métaux différents
-- Convient également aux applications marines (winch, glissières)
 - Lubrification de la robinetterie sanitaire - graissage des robinets et vannes travaillant à des températures extrêmes ou en présence de vapeur deau ou dagents chimiques corrosifs
+- Convient également aux applications marines (winch, glissières)
+- Protège du tartre les parties lubrifiées - empêche la corrosion électrolytique entre métaux différents
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00902FRZC/?tag=tolees0d-21)

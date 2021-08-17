@@ -29,9 +29,9 @@ C'est en vente [Leifheit Dénoyauteur prunes automatique  dénoyauteur mirabelle
 ℹ️:
 
 - Livraison – Leifheit Dénoyauteur prunes automatique (19,5 x 11,4 x 22,3 cm), pour dénoyauter mirabelles et prunes, en plastique et lame en acier inox, blanc & transparent, numéro darticle : 37300
-- Découpage propre – Grâce à la lame en acier inoxydable de haute qualité, le dénoyauteur découpe proprement le fruit qui pourra être réutilisé sur une tarte ou un plateau
 - Nettoyage facile – Cet accessoire de cuisine est facilement démontable et peut être nettoyé sous leau courante. Il peut ainsi être réutilisé en un rien de temps
 - Simple & efficace – Il suffit simplement de placer le fruit avec noyau dans le bac de remplissage et dappuyer sur le poussoir pour un dénoyautage propre et rapide !
 - Support robuste – Le bol réceptacle possède quatre pieds anti-dérapants en caoutchouc, le dénoyautage de prune se fait de façon sûre sans accident. Il se vide facilement
+- Découpage propre – Grâce à la lame en acier inoxydable de haute qualité, le dénoyauteur découpe proprement le fruit qui pourra être réutilisé sur une tarte ou un plateau
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0002AE3EC/?tag=tolees0d-21)

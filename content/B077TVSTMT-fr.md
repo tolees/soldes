@@ -28,10 +28,10 @@ C'est en vente [Kensington Filtre de Confidentialité pour Ordinateurs Apple Mac
 
 ℹ️:
 
-- Protection des informations personnelles et confidentielles : Angle de vue limité à 30° pour éviter les regards indiscrets des côtés, En accord avec le RGPD
-- Réduction de la fatigue visuelle et cycles de sommeil protégés contre la lumière bleue
-- Réduction des reflets et de la lumière bleue : Revêtement anti-reflet contre les sources de lumière externes, Filtration des rayons nocifs jusquà 22%
 - PROTECTION DE LÉCRAN - des rayures, dommages et traces de doigts, Utilisez le chiffon de nettoyage inclus pour un entretien régulier
 - Fixation facile à lécran laissant un léger espacement permettant quand même à votre MacBook Pro ou Air 2018 de passer en mode veille
+- Réduction des reflets et de la lumière bleue : Revêtement anti-reflet contre les sources de lumière externes, Filtration des rayons nocifs jusquà 22%
+- Réduction de la fatigue visuelle et cycles de sommeil protégés contre la lumière bleue
+- Protection des informations personnelles et confidentielles : Angle de vue limité à 30° pour éviter les regards indiscrets des côtés, En accord avec le RGPD
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077TVSTMT/?tag=tolees0d-21)

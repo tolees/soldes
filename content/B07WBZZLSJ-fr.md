@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Le monde hanté d Hidden Side  Set d avec 31.02 % rabais '
-date: 2021-07-21 22:18:01
+date: 2021-08-17 14:04:12
 image: 'https://m.media-amazon.com/images/I/51fkOCT-ylL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [LEGO Le monde hanté d Hidden Side  Set de jeu de réalité augm
 
 ℹ️:
 
-- Comprend un monde interactif dHidden Side hanté par des fantômes avec des fonctionnalités et caractéristiques amusantes, ainsi que des créatures dHidden Side et 3 figurines
-- Linteraction avec le modèle dans le monde physique déclenche des événements dans le monde numérique, les enfants chassent et capturent des fantômes pour les utiliser plus tard dans le jeu en prolongeant ainsi le plaisir à linifini
+- Combine le jeu créatif des sets de construction LEGO avec une application pour une expérience en réalité augmentée (AR) à un ou plusieurs joueurs
 - Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 - Inclut les figurines de Jack, chasseur de fantômes, et des fantomes Axel Chops, Scrimper et Waylon Attention, le monstre tire sur les araignées
-- Combine le jeu créatif des sets de construction LEGO avec une application pour une expérience en réalité augmentée (AR) à un ou plusieurs joueurs
+- Comprend un monde interactif dHidden Side hanté par des fantômes avec des fonctionnalités et caractéristiques amusantes, ainsi que des créatures dHidden Side et 3 figurines
+- Linteraction avec le modèle dans le monde physique déclenche des événements dans le monde numérique, les enfants chassent et capturent des fantômes pour les utiliser plus tard dans le jeu en prolongeant ainsi le plaisir à linifini
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WBZZLSJ/?tag=tolees0d-21)
