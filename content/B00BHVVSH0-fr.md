@@ -28,9 +28,9 @@ Vous avez [Somfy 2401073 - Récepteur d éclairage intérieur ON/OFF RTS | 500W 
 
 ℹ️:
 
-- Récepteur radio intérieur RTS compatible avec lensemble des télécommandes Somfy RTS et avec la box domotique TaHoma (non fournie)
 - Grâce à sa compatibilité avec TaHoma, il vous permet dassocier votre éclairage à dautres équipements connectés dans des scénarios pour les faire interagir ensemble
-- Avec TaHoma, simulez votre présence en allumant et en éteignant votre éclairage à distance depuis lapplication dédiée, sur votre smartphone
+- Récepteur radio intérieur RTS compatible avec lensemble des télécommandes Somfy RTS et avec la box domotique TaHoma (non fournie)
 - Pour éteindre ou allumer un éclairage dune puissance maximum de 500W, avec une télécommande radio RTS ou avec votre smartphone, via lapplication TaHoma
+- Avec TaHoma, simulez votre présence en allumant et en éteignant votre éclairage à distance depuis lapplication dédiée, sur votre smartphone
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BHVVSH0/?tag=tolees0d-21)
