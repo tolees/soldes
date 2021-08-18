@@ -28,12 +28,12 @@ Vous avez [Kenwood KAX644ME Passoire à Fruits et Légumes pour Robot Métal Alu
 
 ℹ️:
 
-- Cet accessoire est entièrement démontable pour un nettoyage parfait
+- Utilisation: Pour réaliser des coulis, des jus de fruits, des gelées ou des confitures
 - Couleur : Aluminium Brossé
-- Afin de s’adapter aux différents ingrédients, il est possible de régler l’épaisseur de la pulpe et obtenir ainsi des textures différentes
+- Cet accessoire est entièrement démontable pour un nettoyage parfait
 - La capacité est illimitée
 - Accessoire compatible robots kMix et Sensé de Kenwood
-- Utilisation: Pour réaliser des coulis, des jus de fruits, des gelées ou des confitures
+- Afin de s’adapter aux différents ingrédients, il est possible de régler l’épaisseur de la pulpe et obtenir ainsi des textures différentes
 - Garantie : 1 an(s)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VM2YEES/?tag=tolees0d-21)

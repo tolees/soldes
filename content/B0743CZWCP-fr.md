@@ -28,10 +28,10 @@ C'est en vente [BOLD UNIQ - Shampoing Argent à Pigments Violets - Élimine les 
 
 ℹ️:
 
+- Fraîcheur des couleurs de cheveux fraîches : notre meilleur shampoing argenté peut être utilisé pour intensifier la couleur des cheveux pour des tons argentés et cendres.
 - Revitalisez la couleur des cheveux émoussés : le shampooing aux pigments violets est adapté aux cheveux gris, blonds, blondissés, mélangés ou fortement éclaircés pour une couleur plus éclatante et plus claire.
 - Shampooing sans sulfate : ne contient pas de sulfate et de paraben. Sa formule contient de la pro-vitamine B5 pour rendre les cheveux souples et donner de la brillance aux cheveux naturels et colorés.
-- Combattez les tons jaunes et laiton indésirables : le shampooing pour cheveux blonds contient des igmes violets intenses qui neutralisent les points jaunes indésirables.
-- Fraîcheur des couleurs de cheveux fraîches : notre meilleur shampoing argenté peut être utilisé pour intensifier la couleur des cheveux pour des tons argentés et cendres.
 - Filtre UV innovant : protégez votre couleur de cheveux contre la décoloration causée par les rayons UV nocifs pour obtenir votre ton blond parfait.
+- Combattez les tons jaunes et laiton indésirables : le shampooing pour cheveux blonds contient des igmes violets intenses qui neutralisent les points jaunes indésirables.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0743CZWCP/?tag=tolees0d-21)
