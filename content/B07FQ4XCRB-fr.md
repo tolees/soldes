@@ -29,10 +29,10 @@ Vous avez [Amazon - Kindle  maintenant avec un éclairage frontal intégré  Bla
 ℹ️:
 
 - Lisez sans distraction. Surlignez des passages, recherchez des définitions, traduisez des mots et ajustez la taille du texte, sans jamais quitter votre page.
+- Conçu pour la lecture, avec un écran de 167 ppp qui se lit comme une page imprimée, sans reflets, même en plein soleil.
 - Une seule charge de batterie dure des semaines et non pas des heures.
+- Léclairage frontal réglable vous permet de lire confortablement pendant des heures, à lintérieur et à lextérieur, de jour comme de nuit.
 - Les membres Prime peuvent lire gratuitement avec un accès illimité à plus de mille titres.
 - Accédez à des millions de livres et journaux. Peut contenir des milliers de titres afin demporter votre bibliothèque avec vous.
-- Conçu pour la lecture, avec un écran de 167 ppp qui se lit comme une page imprimée, sans reflets, même en plein soleil.
-- Léclairage frontal réglable vous permet de lire confortablement pendant des heures, à lintérieur et à lextérieur, de jour comme de nuit.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FQ4XCRB/?tag=tolees0d-21)
