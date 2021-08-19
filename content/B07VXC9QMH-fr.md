@@ -28,9 +28,9 @@ C'est en vente [Kingston A2000 - Disque SSD - chiffré - 1 To - interne - M.2 22
 
 ℹ️:
 
-- Idéal pour les Ultrabooks et les PC à petit facteur de forme (SFF)
-- Les performances NVMe PCIe pour une fraction du coût
-- Supporte une suite de sécurité intégrale (TCG Opal, XTS-AES 256 bits, eDrive)
 - Mettez votre PC à niveau avec des capacités allant jusquà 1To
+- Supporte une suite de sécurité intégrale (TCG Opal, XTS-AES 256 bits, eDrive)
+- Les performances NVMe PCIe pour une fraction du coût
+- Idéal pour les Ultrabooks et les PC à petit facteur de forme (SFF)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21)
