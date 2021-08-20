@@ -28,10 +28,10 @@ C'est en vente [BOSS Hommes Schino-Slim D Chino Casual Slim Fit en Coton Stretch
 
 ℹ️:
 
+- Poches basses sur le devant: Poche italienne
+- Taille standard
+- Jambes slim
 - Fermeture à bouton et zip
 - Slim fit
-- Jambes slim
-- Taille standard
-- Poches basses sur le devant: Poche italienne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07585QKPT/?tag=tolees0d-21)
