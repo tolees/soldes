@@ -30,8 +30,8 @@ Vous avez [Seagate Game Drive pour Xbox 4 TB  Disque dur externe portable HDD  U
 
 - La configuration plug-and-Play vous permet de jouer en quelques secondes et facilite le transfert de jeu
 - Stockez plus de 100 jeux Xbox One avec une capacité de 4 To
-- Game PASS de 2 mois offerts
-- Sa taille compacte et labsence de câble dalimentation le rendent parfait pour votre salon ou pour emmener chez un ami
 - Gagnez durablement en tranquillité desprit grâce à la garantie limitée de deux ans incluse et aux services Rescue Data Recovery Services valables deux ans
+- Sa taille compacte et labsence de câble dalimentation le rendent parfait pour votre salon ou pour emmener chez un ami
+- Game PASS de 2 mois offerts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071HXZX2C/?tag=tolees0d-21)
