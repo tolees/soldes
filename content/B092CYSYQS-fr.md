@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.50 % rabais sur MINIS FORUM - Mini PC AMD Ryzen 3 PRO 43'
-date: 2021-08-19 07:59:09
+date: 2021-08-22 08:33:00
 image: 'https://m.media-amazon.com/images/I/41ZGbcNtkpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'MINIS FORUM'
 buyurl: 'https://www.amazon.fr/dp/B092CYSYQS/?tag=tolees0d-21'
 descuento: '23.50'
-average: '621.823333333333'
+average: '600.24'
 ---
 
 Vous avez [MINIS FORUM - Mini PC AMD Ryzen 3 PRO 4350G up to 4.0 GHz| 16 GB RAM 512 GB PCIe SSD | Radeon Graphics| Windows 10 Pro | Intel WIFI6 AX200 BT 5.1 | 4K HDMI 2.0 / DisplayPort | 2X RJ45 | 4X USB 3.0 Small form factor](https://www.amazon.fr/dp/B092CYSYQS/?tag=tolees0d-21)  à  23.50 % de réduction, prix final  535.49 EUR (original: 699.99 EUR) ici:
