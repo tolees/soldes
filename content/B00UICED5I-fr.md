@@ -28,13 +28,13 @@ C'est en vente [Tefal RK103811 Classic Cuiseur à Riz Noir Métallisé](https://
 
 ℹ️:
 
-- disponibilité des pièces de rechange après achat du produit : 5 ans
-- cuiseurs à riz classic 2 noir métallisé 10 cm
-- capacité 5 l
-- poids du produit :3.125 kilogrammes
 - puissance 710 w
-- couleur : noir métallisé
-- capacité (nb de personnes) 10 - 15
+- disponibilité des pièces de rechange après achat du produit : 5 ans
 - garantie : 1 an(s)
+- poids du produit :3.125 kilogrammes
+- capacité 5 l
+- cuiseurs à riz classic 2 noir métallisé 10 cm
+- capacité (nb de personnes) 10 - 15
+- couleur : noir métallisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00UICED5I/?tag=tolees0d-21)
