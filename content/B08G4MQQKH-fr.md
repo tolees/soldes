@@ -28,10 +28,10 @@ Vous avez [LEGO Friends 41449 La Maison Familiale d’Andréa  Jouet avec Mai
 
 ℹ️:
 
-- Une maison de poupée sur deux étages, pleine de détails authentiques, où les enfants peuvent rencontrer la famille dAndrea et faire des jeux de rôle, seuls ou avec des amis
+- Dans la cuisine, le plan de travail bascule pour laisser passer les petits doigts. Le père dAndrea sort quelques petits gâteaux du four. Mmmm, ils sont délicieux !
 - Les enfants peuvent monter un spectacle musical dans le studio du garage, faire un plongeon dans la piscine ou préparer un repas dans la cuisine digne dun restaurant moderne
 - Intelligemment conçu pour faciliter le jeu, létage supérieur de la maison de poupée est amovible, ce qui permet daccéder au niveau inférieur, et la porte du garage souvre
 - Ce jouet pour fille et garçon de 6 ans comprend 4 mini-poupées LEGO Friends : Andrea, son amie Stephanie, ses parents et la micro poupée Liz, la sœur de lémission télévisée LEGO Friends
-- Dans la cuisine, le plan de travail bascule pour laisser passer les petits doigts. Le père dAndrea sort quelques petits gâteaux du four. Mmmm, ils sont délicieux !
+- Une maison de poupée sur deux étages, pleine de détails authentiques, où les enfants peuvent rencontrer la famille dAndrea et faire des jeux de rôle, seuls ou avec des amis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4MQQKH/?tag=tolees0d-21)
