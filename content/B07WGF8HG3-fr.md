@@ -28,10 +28,10 @@ C'est en vente [EIVOTOR Microphone PC USB Micro Computer Ordinateur Plug & Play 
 
 ℹ️:
 
-- 【Convient à toutes les situations suitable 】 - Convient pour Discord, Home Cinéma, Chat, Podcast, Skype, Enregistrement Yahoo, Enregistrement YouTube, Parole, Messagerie instantanée, Jeux, Chant, Conférences, etc. Nous offrons un service de garantie de remplacement de 6 mois sur. Si vous avez des questions, nhésitez pas à nous contacter à tout moment. ♥ E-mail: service@eivotors.com
-- 【LED Light & mute】 - Le microphone USB comporte également un bouton de sourdine à un bouton qui vous permet d’arrêter d’enregistrer à tout moment. Le voyant bleu peut indiquer visuellement le statut du travail.
 - 【Plug & Play et portable】- Ce microphone de bureau est Plug & Play, sans avoir besoin de drive supplémentaire. Compatible avec les systèmes dexploitation: Mac, Windows 7/8/10, etc. Sil ny a pas de réponse après linsertion du microphone, entrez les paramètres du microphone de votre ordinateur et sélectionnez le microphone comme périphérique dentrée.
 - 【Durable câble et flexible à 360 °】 - Le câble 1.4m et le col de cygne à 360°, ce qui vous permet de le positionner et dajuster la hauteur et langle pour un meilleur son.
+- 【LED Light & mute】 - Le microphone USB comporte également un bouton de sourdine à un bouton qui vous permet d’arrêter d’enregistrer à tout moment. Le voyant bleu peut indiquer visuellement le statut du travail.
+- 【Convient à toutes les situations suitable 】 - Convient pour Discord, Home Cinéma, Chat, Podcast, Skype, Enregistrement Yahoo, Enregistrement YouTube, Parole, Messagerie instantanée, Jeux, Chant, Conférences, etc. Nous offrons un service de garantie de remplacement de 6 mois sur. Si vous avez des questions, nhésitez pas à nous contacter à tout moment. ♥ E-mail: service@eivotors.com
 - 【Qualité sonore plus claire avec la technologie omnidirectionnelle 】- Le microphone de lordinateur utilise la technologie denregistrement sonore omnidirectionnel pour enregistrer le son dans toutes les directions et assurer une voix claire et stable. la couverture en éponge afin de préserver la qualité sonore.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WGF8HG3/?tag=tolees0d-21)
