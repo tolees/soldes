@@ -28,9 +28,9 @@ Vous avez [find. Albany Bottes Chelsea - Homme - Anthracite - 44 EU](https://www
 
 ℹ️:
 
-- Talon avec tissu
 - Pointus sur le devant
-- Cuir polis sur le dessus
 - Bottines Slip-on
+- Talon avec tissu
+- Cuir polis sur le dessus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XCKYWRR/?tag=tolees0d-21)
