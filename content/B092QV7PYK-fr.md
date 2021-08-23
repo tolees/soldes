@@ -28,8 +28,8 @@ C'est en vente [Electronic Arts - F1 2021  Xbox Series X et Xbox One ](https://w
 
 ℹ️:
 
-- Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
-- Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
 - Le jeu officiel du championnat du monde de formule 1 de la fia.
+- Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
+- Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B092QV7PYK/?tag=tolees0d-21)

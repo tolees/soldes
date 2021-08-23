@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jamo S 81 CEN 240W Noir haut-parleur - H avec 17.40 % rabais '
-date: 2021-08-19 17:35:33
+date: 2021-08-23 10:44:21
 image: 'https://m.media-amazon.com/images/I/41Ajs5ZXC8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Jamo S 81 CEN 240W Noir haut-parleur - Hauts-parleurs  Avec fil 
 
 ℹ️:
 
-- Jamo S 81 CEN. Utilisation recommandée: Haut-parleur
-- Gamme de fréquence: 71 - 26000 Hz
-- Impédance: 8 Ohm
 - Nombre de lecteurs: 3. Technologie de connectivité: Avec fil. Puissance évaluée de RMS: 240 W
+- Jamo S 81 CEN. Utilisation recommandée: Haut-parleur
+- Impédance: 8 Ohm
+- Gamme de fréquence: 71 - 26000 Hz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0796SNFN1/?tag=tolees0d-21)
