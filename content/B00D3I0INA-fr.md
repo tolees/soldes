@@ -31,7 +31,7 @@ Vous avez [TESMED Max 830 électrostimulateur Musculaire Professionnel avec 20 �
 - Max 830 est la gamme supérieure de Tesmed : avec batterie rechargeable et 20 électrodes de haute qualité, lavables, adhésives, ne nécessitent pas de gel
 - Brevet Waims System : les ondes séquentielles partent du bas et arrivent vers le haut en séquence et sont exceptionnelles pour la microcirculation - mode d’emploi plurilingue avec des illustrations détaillées du positionnement des électrodes et des conseils pour obtenir les meilleurs résultats.
 - 4 canaux indépendants, 99 programmes dont 20 personnalisables par fréquence et intensité - plus de 200 applications pour le sport, l’esthétique, le fitness, abdominal, massage tens
-- abdo, cuisse, fessier, renforcement, sport, augmentation masse musculaire, esthétique, massage tens
 - Adapté pour un usage professionnel aussi - technologie TMS : il est inutile d’identifier la polarité des électrodes - écran LCD rétroéclairé.
+- abdo, cuisse, fessier, renforcement, sport, augmentation masse musculaire, esthétique, massage tens
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00D3I0INA/?tag=tolees0d-21)

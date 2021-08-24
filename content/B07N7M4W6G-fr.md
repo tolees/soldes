@@ -28,10 +28,10 @@ Vous avez [mello - Surmatelas Coton 140 x 190 cm | Housse 100% Coton Hypoallerg�
 
 ℹ️:
 
-- ⭐ GARANTIE 5 ANS - Votre surmatelas bénéficie de la garantie fabricant de 5 ans contre les défauts de fabrication. Article soumis à la politique des retours et échanges d’Amazon.fr (sous 30 jours).
-- 🙌 SURMATELAS HYPOALLERGENIQUE : Le coton est une fibre naturelle ayant un haut pouvoir absorbant, isolant et hypoallergénique. Passe en machine pour des nuits plus saines.
-- ☁️ SURMATELAS COTON : Surmatelas 140x190 Haute Qualité en Percale de coton 120 fils/cm². Ce protège matelas matelassé est très apprécié pour son toucher doux et sa résistance au fil des lavages.
 - 📐SURMATELAS CLIC CLAC : Sa forme drap housse de 35cm ajustable se fixe parfaitement à un matelas épais ou fin comme un clic clac. Surmatelas pliable pouvant être rangé facilement ou replié avec le canapé.
+- ☁️ SURMATELAS COTON : Surmatelas 140x190 Haute Qualité en Percale de coton 120 fils/cm². Ce protège matelas matelassé est très apprécié pour son toucher doux et sa résistance au fil des lavages.
+- ⭐ GARANTIE 5 ANS - Votre surmatelas bénéficie de la garantie fabricant de 5 ans contre les défauts de fabrication. Article soumis à la politique des retours et échanges d’Amazon.fr (sous 30 jours).
 - 👉 SURMATELAS MOELLEUX : Apportez du gonflant et du moelleux à votre literie avec ce fin surmatelas matelassé de 3cm dépaisseur au garnissage durable et moelleux en fibres creuses (750g/m²).
+- 🙌 SURMATELAS HYPOALLERGENIQUE : Le coton est une fibre naturelle ayant un haut pouvoir absorbant, isolant et hypoallergénique. Passe en machine pour des nuits plus saines.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N7M4W6G/?tag=tolees0d-21)

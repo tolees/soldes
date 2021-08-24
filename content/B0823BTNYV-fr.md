@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart Compact Projector avec 22.87 % rabais '
-date: 2021-08-21 10:03:52
+date: 2021-08-24 07:28:01
 image: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21'
 descuento: '22.87'
-average: '485.880571428572'
+average: '485.216666666667'
 ---
 
 C'est en vente [Xiaomi Mi Smart Compact Projector](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)  à  22.87 % de réduction, prix final  461.98 EUR (original: 599.0 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [Xiaomi Mi Smart Compact Projector](https://www.amazon.fr/dp/B082
 
 ℹ️:
 
-- 2 haut-parleur intégrés
-- Taille daffichage: 200.0 inches
-- screen size up to 120”
-- 1080p complet hd
 - android tv 9.0 système
+- 1080p complet hd
+- 2 haut-parleur intégrés
+- screen size up to 120”
+- Taille daffichage: 200.0 inches
 - Composants inclus: Mi Smart Compact Projector -telecommande - cable USB type C- guide d utilisation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)
