@@ -28,10 +28,10 @@ Vous avez [Sony MDR-RF855RK.EU8 Casque Traditionnel UHF Numérique Noir](https:/
 
 ℹ️:
 
-- 100 m de portée sans fil
-- Gamme de fréquences de 10 Hz à 22 kHz
-- Casque sans fil de type fermé avec batteries rechargeables, diaphragme en néodyme de 40 mm et socle de recharge
-- Piles: DC2.4V (pile rechargeable Ni-MH)
 - Diaphragmes en néodyme de 40 mm
+- Casque sans fil de type fermé avec batteries rechargeables, diaphragme en néodyme de 40 mm et socle de recharge
+- Gamme de fréquences de 10 Hz à 22 kHz
+- 100 m de portée sans fil
+- Piles: DC2.4V (pile rechargeable Ni-MH)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AKUHC6A/?tag=tolees0d-21)
