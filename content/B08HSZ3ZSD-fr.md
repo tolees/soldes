@@ -30,8 +30,8 @@ C'est en vente [LG Electronics - LG UltraFine 32UN500-W 32" Moniteur UHD 4K 16/9
 
 - Stabilisateur noir (technologie Black Stabilizer) qui permet des couleurs foncées différenciées
 - Haut-parleurs intégrés (2 x 5 W) pour une lecture complète du contenu audiovisuel.
-- Rapport de contraste de couleur 3000:1 grâce au panneau VA avec une vitesse de réponse de 4ms (GtG)
 - Étendez votre contenu sur lécran sans perte de résolution ni de netteté grâce à la technologie Super Resolution+
 - Affiche plus de 90 % du spectre de couleur DCI-P3
+- Rapport de contraste de couleur 3000:1 grâce au panneau VA avec une vitesse de réponse de 4ms (GtG)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HSZ3ZSD/?tag=tolees0d-21)

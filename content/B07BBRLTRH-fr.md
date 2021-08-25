@@ -28,12 +28,12 @@ C'est en vente [BenQ EW3270U écran 4K HDR 31 5 pouces pour le plaisir visuel  U
 
 ℹ️:
 
-- CONNECTIVITÉ MULTIPLE : Ports HDMI 2.0, DPI.2, USB-C et DisplayPort pour connecter de multiples périphériques
-- TECHNOLOGIE EYE-CARE : Les technologies Low Blue Light et Flicker-Free augmentent le confort des yeux. Inclinaison (haut / bas): -5˚ - 15˚
-- PPI: 140. Couleurs daffichage : 1,07 milliard de couleurs. Gamme de couleurs : 95% DCI-P3
-- Langues du menu OSD: 18 Langues - allemand / anglais / arabe / chinois / chinois simplifié / coréen / espagnol / français / hongrois / italien / japonais / néerlandais / polonais / portugais / roumain / russe / suédois / tchèque
 - PRISE EN CHARGE DE LA HDR : La HDR élargit la gamme dynamique entre le noir et le blanc afin de présenter des détails et une clarté extraordinaires.
+- CONNECTIVITÉ MULTIPLE : Ports HDMI 2.0, DPI.2, USB-C et DisplayPort pour connecter de multiples périphériques
+- PPI: 140. Couleurs daffichage : 1,07 milliard de couleurs. Gamme de couleurs : 95% DCI-P3
 - HAUTE RÉSOLUTION : LED UHD 31,5 pouces (résolution 3840 x 2160). Tension nominale: 90 ~ 264 AC
+- TECHNOLOGIE EYE-CARE : Les technologies Low Blue Light et Flicker-Free augmentent le confort des yeux. Inclinaison (haut / bas): -5˚ - 15˚
 - TECHNOLOGIE BRIGHTNESS INTELLIGENCE PLUS : L’écran ajuste automatiquement la luminosité et la température de couleur suivant le contenu à l’écran et les conditions de lumière ambiante
+- Langues du menu OSD: 18 Langues - allemand / anglais / arabe / chinois / chinois simplifié / coréen / espagnol / français / hongrois / italien / japonais / néerlandais / polonais / portugais / roumain / russe / suédois / tchèque
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BBRLTRH/?tag=tolees0d-21)
