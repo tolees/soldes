@@ -28,10 +28,10 @@ Vous avez [PNY 16GB XLR8 Gaming Epic-X RGB DDR4 4000MHz  PC4-32000  Mémoire RAM
 
 ℹ️:
 
-- Bénéficiez des avantages dune mise à niveau de la mémoire de votre PC en ayant la possibilité dexécuter simultanément des applications et/ou jeux exigeants, à des vitesses plus rapides, pour une expérience améliorée et plus fluide
 - Personnalisez les couleurs et les effets lumineux de votre PC, sans avoir besoin de câbles ou de connecteurs supplémentaires, grâce aux logiciels Asus Aura Sync, Gigabyte RGB Fusion, MSI Mystic Light Sync et ASRock Polychrome Sync.
+- Une mémoire DDR4 aux performances extrêmes et overclockées, conçue pour les passionnés de PC et les joueurs et compatible avec le support Intel XMP 2.0
+- Bénéficiez des avantages dune mise à niveau de la mémoire de votre PC en ayant la possibilité dexécuter simultanément des applications et/ou jeux exigeants, à des vitesses plus rapides, pour une expérience améliorée et plus fluide
 - Des performances exceptionnelles avec une vitesse de fréquence de 4000 MHz (PC4-32000) et rétrocompatible avec: 3600 MHz, 3200 MHz, 3000 MHz, 2933 MHz, 2800 MHz, 2666 MHz, 2400 MHz, 2133 MHz
 - Timing 18-22-22-42 ; Latence CAS : 18 ; 1.35 Volts
-- Une mémoire DDR4 aux performances extrêmes et overclockées, conçue pour les passionnés de PC et les joueurs et compatible avec le support Intel XMP 2.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B094MJLKQS/?tag=tolees0d-21)

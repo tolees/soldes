@@ -31,7 +31,7 @@ C'est en vente [CHiQ L40H7N  40 Pouces  Téléviseur Full HD  Smart TV  1080p  W
 - ✅Magnifique sous tous les angles. Avec son design épuré, ce téléviseur sintégrera parfaitement dans votre intérieur.
 - ✅Un écran Full HD 1920 x 1080 pour profiter pleinement de vos séries, films ou jeux !
 - ✅Retrouvez les meilleures applications directement sur votre Smart TV ! Netflix, Youtube, Prime Video, Facebook, Youtube Kids et bien plus encore !
-- ✅PSI : Un calcul professionnel utilisé pour obtenir le bon indice qui garantit que chaque téléviseur peut atteindre un niveau élevé de qualité dimage.
 - ✅Naviguez sur le web sans ordinateur ! Un navigateur est directement intégré, vous permettant de visiter vos sites préférés uniquement à laide de votre télécommande !
+- ✅PSI : Un calcul professionnel utilisé pour obtenir le bon indice qui garantit que chaque téléviseur peut atteindre un niveau élevé de qualité dimage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZJBRLF1/?tag=tolees0d-21)
