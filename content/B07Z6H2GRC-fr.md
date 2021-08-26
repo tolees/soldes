@@ -28,10 +28,10 @@ Vous avez [Sena 20S-EVO-01D-FR Casque bluetooth  Pack Double  version française
 
 ℹ️:
 
-- Temps de charge: 2.5 heures
 - Bluetooth 4.1
-- Spécifications de fréquence radio: 76 ~ 108 MHz
-- Audio de contrôle du bruit avancé
 - Distance de travail: jusquà 2.0 km en terrain dégagé
+- Temps de charge: 2.5 heures
+- Audio de contrôle du bruit avancé
+- Spécifications de fréquence radio: 76 ~ 108 MHz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z6H2GRC/?tag=tolees0d-21)
