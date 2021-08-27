@@ -28,8 +28,8 @@ C'est en vente [Gears Tactics  Xbox ](https://www.amazon.fr/dp/B08KDKZ539/?tag=t
 
 ℹ️:
 
-- Escouades et équipements personnalisables : Préparez vos troupes à affronter des ennemis coriaces, en améliorant leurs compétences et en les équipant de butins collectés lors de missions diverses et variées.
 - Une histoire immersive : Incarnez Gabe Diaz et consitiuez votre escouade dans une aventure riche en combats épiques qui ne se gagneront pas sans sacrifices
 - Un gameplay nerveux : Commandez votre escouade dans des combats intenses, au tour par tour, en progressant pour survivre à des affrontements viscéraux avec des ennemis coriaces et vicieux.
+- Escouades et équipements personnalisables : Préparez vos troupes à affronter des ennemis coriaces, en améliorant leurs compétences et en les équipant de butins collectés lors de missions diverses et variées.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KDKZ539/?tag=tolees0d-21)

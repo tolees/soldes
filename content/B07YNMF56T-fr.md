@@ -28,10 +28,10 @@ Vous avez [Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rét
 
 ℹ️:
 
-- Anti-ghosting avancé – Full N-Key roller
 - Interrupteurs Roccat Titan – Interrupteurs mécaniques tactiles marrons. Configuration requise: port USB 2.0, Connexion Internet pour linstallation du pilote et système dexploitation: Windows 10, Windows 7, Windows 9. Cest un clavier Azerty
 - Repose-poignets détachable – Attache magnétique, ergonomique et confortable
-- Conception durable – composants robustes et interrupteurs résistants à la poussière
 - Illumination AIMO – rétroéclairage RGB et effets de lumière LED. Taux dinterrogation de 1000 Hz
+- Conception durable – composants robustes et interrupteurs résistants à la poussière
+- Anti-ghosting avancé – Full N-Key roller
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)

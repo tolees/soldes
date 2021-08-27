@@ -28,9 +28,9 @@ C'est en vente [Michael Kors Homme Chronographe Quartz Montre avec Bracelet en A
 
 ℹ️:
 
-- Livré dans une boîte cadeau MICHAEL KORS
-- Bracelet en acier inoxydable doré, finition polie et brossée - Boucle déployante invisible avec bouton poussoir
 - Montre MICHAEL KORS femme - Boîtier rond (diam. 45 mm) en acier inoxydable doré, finition polie - 2 bouton-poussoirs dorés - Etanche 10 ATM - Lunette crantée
+- Bracelet en acier inoxydable doré, finition polie et brossée - Boucle déployante invisible avec bouton poussoir
+- Livré dans une boîte cadeau MICHAEL KORS
 - Le design des boîtes à montres Michael Kors se renouvelle à chaque saison
 - Cadran doré avec effet rayon de soleil, index et chiffre romain à 12h dorés et luminescents - Mouvement chronographe avec date et mode 24h - Aiguilles dorées et luminescentes - Verre minéral
 
