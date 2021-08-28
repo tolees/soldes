@@ -28,9 +28,9 @@ Vous avez [Jacob Delafon E76090-CP FAIRFAX Mitigeur d évier avec bec orientable
 
 ℹ️:
 
-- Chrome brillant et résistant garanti 10 ans
-- Nettoyage facile : aérateur anticalcaire
 - Installation facile flexibles dalimentation fournis et prémontés. Percement diam. 35mm
+- Nettoyage facile : aérateur anticalcaire
 - Débit 13l/min
+- Chrome brillant et résistant garanti 10 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BN4KIEA/?tag=tolees0d-21)

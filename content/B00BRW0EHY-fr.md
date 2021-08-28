@@ -29,8 +29,8 @@ Vous avez [Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Mé
 ℹ️:
 
 - Cartouche à disques céramique, excellente durabilité
-- Installation facile flexibles dalimentation fournis et prémontés
 - Chrome brillant et résistant garanti 10 ans
+- Installation facile flexibles dalimentation fournis et prémontés
 - Débit limité à 12 l/mn
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BRW0EHY/?tag=tolees0d-21)
