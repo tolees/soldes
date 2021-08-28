@@ -28,10 +28,10 @@ C'est en vente [HUGO Elisha02 Chemise Business  Blanc  Open White 199   Large  T
 
 ℹ️:
 
+- Repassage à basse chaleur niveau 1
+- Température normale froide : 30 °C
 - Ne pas sécher au sèche-linge
 - Ne pas nettoyer à sec
-- Température normale froide : 30 °C
-- Repassage à basse chaleur niveau 1
 - Ne pas utiliser dagent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VBBN5FH/?tag=tolees0d-21)
