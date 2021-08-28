@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '48.47 % rabais sur Jacob Delafon E72090-CP FAIRFAX Mitigeur'
-date: 2021-08-23 05:27:32
+date: 2021-08-28 09:44:27
 image: 'https://m.media-amazon.com/images/I/41cXfxJlhtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Jacob Delafon'
 buyurl: 'https://www.amazon.fr/dp/B00BRW0EHY/?tag=tolees0d-21'
 descuento: '48.47'
-average: '107.292142857142'
+average: '105.818666666666'
 ---
 
 Vous avez [Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Métal  Chromé](https://www.amazon.fr/dp/B00BRW0EHY/?tag=tolees0d-21)  à  48.47 % de réduction, prix final  85.19 EUR (original: 165.31 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Mé
 
 ℹ️:
 
-- Débit limité à 12 l/mn
-- Chrome brillant et résistant garanti 10 ans
-- Installation facile flexibles dalimentation fournis et prémontés
 - Cartouche à disques céramique, excellente durabilité
+- Installation facile flexibles dalimentation fournis et prémontés
+- Chrome brillant et résistant garanti 10 ans
+- Débit limité à 12 l/mn
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BRW0EHY/?tag=tolees0d-21)
