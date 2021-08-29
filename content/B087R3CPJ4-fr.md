@@ -28,10 +28,10 @@ Vous avez [LG Electronics - LG XBOOM Go PL5 Enceinte Bluetooth Portable | Protec
 
 ℹ️:
 
-- 【Lumière rythmée】 Des basses que vous pouvez voir! Les lumières LED clignotantes se synchronisent avec précision sur le rythme de votre musique. Choisissez la couleur déclairage qui convient à votre humeur.
+- 【Double action des basses】 Les doubles radiateurs passifs utilisent la pression de lair pour créer plus de basses dans un espace limité.
 - 【Design et style】 Simple. Élégant. Portable. Un design élégant avec une finition caoutchoutée pour tenir et sadapter confortablement dans votre main.
 - 【18H DE BATTERIE】 Lautonomie jusqu’à 18 heures vous donne la liberté de profiter de votre musique en déplacement sans vous soucier de la charge.
 - 【SON AVEC LA TECHNOLOGIE MERIDIAN】 Expérimentez le son de lexcellence. Vous pouvez entendre des basses profondes et des tonalités riches, ainsi que des voix claires à chaque fois que vous écoutez de la musique.\
-- 【Double action des basses】 Les doubles radiateurs passifs utilisent la pression de lair pour créer plus de basses dans un espace limité.
+- 【Lumière rythmée】 Des basses que vous pouvez voir! Les lumières LED clignotantes se synchronisent avec précision sur le rythme de votre musique. Choisissez la couleur déclairage qui convient à votre humeur.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087R3CPJ4/?tag=tolees0d-21)
