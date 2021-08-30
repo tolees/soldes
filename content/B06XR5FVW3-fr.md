@@ -28,11 +28,11 @@ C'est en vente [Bosch Home and Garden - Perceuse à Percussion Filaire Bosch - U
 
 ℹ️:
 
-- Vitesse à vide : 3 000 tr/min. Fréquence de frappe 45 000 cps/min. Couple : 19 nm
-- Détecteur kickback control pour arrêter en 0,01 sec le moteur en cas de blocage de l’arbre. Evite les poignets cassés
-- Moteur 800 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique)
-- Couple nominal (1er vitesse/2ème vitesse) : 1,5 Nm
 - Variateur de vitesse - poignée pour un meilleur contrôle - mandrin autoserrant
+- Couple nominal (1er vitesse/2ème vitesse) : 1,5 Nm
+- Moteur 800 W pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique)
+- Détecteur kickback control pour arrêter en 0,01 sec le moteur en cas de blocage de l’arbre. Evite les poignets cassés
+- Vitesse à vide : 3 000 tr/min. Fréquence de frappe 45 000 cps/min. Couple : 19 nm
 - Petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XR5FVW3/?tag=tolees0d-21)
