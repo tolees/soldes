@@ -28,10 +28,10 @@ Vous avez [Canon EOS 6D Mark II Reflex numérique + EF 24-105mm F/3.5-5.6 IS STM
 
 ℹ️:
 
-- Révolution intérieure, évolution extérieure
-- EOS 6D Mark II Œilleton Eb Bouchon de boîtier R-F-3 Sangle appareil photo Batterie LP-E6N Chargeur de batterie LC-E6E Kit du manuel de lutilisateur
 - Soyez plus créatif avec les vidéos sur reflex
-- Des performances qui vous donnent confiance
+- EOS 6D Mark II Œilleton Eb Bouchon de boîtier R-F-3 Sangle appareil photo Batterie LP-E6N Chargeur de batterie LC-E6E Kit du manuel de lutilisateur
+- Révolution intérieure, évolution extérieure
 - Une qualité dimage nouvelle génération pour passera la vitesse supérieure de la photographie
+- Des performances qui vous donnent confiance
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073CZVKW8/?tag=tolees0d-21)
