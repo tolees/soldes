@@ -28,9 +28,9 @@ Vous avez [Crayola - Coffret Création de Masques - Loisir créatif - Kits d act
 
 ℹ️:
 
-- Possibilité de créer ses propres masques Accessoires inclus afin de les personnaliser Activité idéal pour les anniversaires ou le carnaval Guidée didée inclus pour aider les enfants dans leurs premières créations
 - 1 joueur
 - Les enfants adorent se déguiser ! Grâce à Crayola ils pourront créer leurs propres masques, une activité pleine de créativité ! Contient : 1 paire de ciseaux pour enfant, 5 planches de stickers, 12 fils d’élastique, 12 masques perforés, 25 feuilles de construction, 1 bâton de colle, 16 mini-feutres pointe large. 3 et +
 - Age minimun: 3 ans et plus
+- Possibilité de créer ses propres masques Accessoires inclus afin de les personnaliser Activité idéal pour les anniversaires ou le carnaval Guidée didée inclus pour aider les enfants dans leurs premières créations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PCKL772/?tag=tolees0d-21)

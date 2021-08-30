@@ -29,9 +29,9 @@ C'est en vente [Coffret perceuse à percussion Bosch Home and Garden - Universal
 ℹ️:
 
 - variateur de vitesse - poignée pour un meilleur contrôle - mandrin autoserrant.
-- moteur 700 w pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,).
-- petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
-- vitesse à vide : 3 000 tr/min. fréquence de frappe 45 000 cps/min. couple : 17 nm.
 - diam. de perçage max (Béton/Acier/Bois) : 14/12/30 mm.
+- vitesse à vide : 3 000 tr/min. fréquence de frappe 45 000 cps/min. couple : 17 nm.
+- petits travaux de perçage dans le béton 25% plus rapide grâce au mécanisme de frappe optimisé.
+- moteur 700 w pour percer sans efforts dans différents matériaux (bois tendres ou durs, brique,).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XR59JWK/?tag=tolees0d-21)
