@@ -28,11 +28,11 @@ C'est en vente [Diesel Homme Chronographe Quartz Montre avec Bracelet en Acier I
 
 ℹ️:
 
-- Matière du bracelet: Acier inoxydable
-- Closure: bracelet deployant
-- Étanchéité: 3 ATM
-- Largeur du bracelet: 26 mm; Longueur du bracelet: 200 +/-5 mm
-- Épaisseur du boîtier: 13 mm; Taille du boîtier: 57mm x 67 mm
 - Présenté dans un coffret cadeau Diesel
+- Closure: bracelet deployant
+- Matière du bracelet: Acier inoxydable
+- Étanchéité: 3 ATM
+- Épaisseur du boîtier: 13 mm; Taille du boîtier: 57mm x 67 mm
+- Largeur du bracelet: 26 mm; Longueur du bracelet: 200 +/-5 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G45VD3Y/?tag=tolees0d-21)
