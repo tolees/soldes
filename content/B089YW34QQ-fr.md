@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.86 % rabais sur HyperX Alloy Elite 2 – Clavier de jeu mé'
-date: 2021-08-27 20:37:09
+date: 2021-08-30 08:24:09
 image: 'https://m.media-amazon.com/images/I/41US-bz7rEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Vous avez [HyperX Alloy Elite 2 – Clavier de jeu mécanique  Effets lumineux c
 ℹ️:
 
 - Touches HyperX Pudding
-- Port USB 2.0 pass-through, anti-ghosting 100 % et fonctions N-key Rollover intégrales
-- Touches multimédia dédiées, boutons daccès rapide et large molette de réglage du volume
 - Barre lumineuse exclusive et effets lumineux RGB dynamiques
+- Touches multimédia dédiées, boutons daccès rapide et large molette de réglage du volume
+- Port USB 2.0 pass-through, anti-ghosting 100 % et fonctions N-key Rollover intégrales
 - Interrupteurs mécaniques HyperX
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089YW34QQ/?tag=tolees0d-21)
