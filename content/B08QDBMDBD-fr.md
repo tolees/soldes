@@ -28,10 +28,10 @@ Vous avez [Thomas Earnshaw Montre Automatique ES-8120-11](https://www.amazon.fr/
 
 ℹ️:
 
-- WHITEHALL
-- Cadran squelette
-- Acier inoxydable
 - Résistance à leau: 50.0 mètres
+- Acier inoxydable
+- Cadran squelette
+- WHITEHALL
 - Montre automatique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QDBMDBD/?tag=tolees0d-21)
