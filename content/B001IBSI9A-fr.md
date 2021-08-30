@@ -28,10 +28,10 @@ C'est en vente [Bosch Professional Tige Télescopique pour Lasers et Niveaux BT�
 
 ℹ️:
 
-- MONTAGE RAPIDE : montage simple et rapide grâce au réglage télescopique de la tige
 - LIVRÉE AVEC: tige télescopique BT 350, support et équerre métallique
-- GRANDE STABILITÉ : grande stabilité sur tous les sols grâce à sa conception en aluminium robuste et ses surfaces antidérapantes au niveau du pied et de la tête.
-- POSITIONNEMENT DE L’INSTRUMENT TRÈS SIMPLE : grande souplesse d’utilisation grâce au support à équerre métallique ; réglage grossier en poussant le bouton rouge, réglage fin en vissant la bride.
 - TRANSPORT FACILE : facile à transporter grâce à sa structure en aluminium légère
+- MONTAGE RAPIDE : montage simple et rapide grâce au réglage télescopique de la tige
+- POSITIONNEMENT DE L’INSTRUMENT TRÈS SIMPLE : grande souplesse d’utilisation grâce au support à équerre métallique ; réglage grossier en poussant le bouton rouge, réglage fin en vissant la bride.
+- GRANDE STABILITÉ : grande stabilité sur tous les sols grâce à sa conception en aluminium robuste et ses surfaces antidérapantes au niveau du pied et de la tête.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001IBSI9A/?tag=tolees0d-21)
