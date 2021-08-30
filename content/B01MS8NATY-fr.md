@@ -28,14 +28,14 @@ Vous avez [BLACK+DECKER Balai vapeur avec nettoyeur à main STEAMITT  1300W  12 
 
 ℹ️:
 
-- NETTOYAGE OPTIMAL : Nettoie nimporte quel sol dur en mode balai. Tête de nettoyage dotée d’une pédale permettant d’activer un jet vapeur puissant pour enlever les tâches tenaces. Patin et gant en microfibre et nylon : permet de nettoyer, retenir les saletés et de glisser facilement. Lavable en machine jusqu’à 100 cycles à 60°
-- ECOLOGIE : Grâce à la puissance de la vapeur deau vous pourrez laisser de côté produits chimiques et serpillères
 - EFFICACITÉ : 99,9% des bactéries sont tuées. Longueur du câble: 6 m
+- ECOLOGIE : Grâce à la puissance de la vapeur deau vous pourrez laisser de côté produits chimiques et serpillères
+- NETTOYAGE OPTIMAL : Nettoie nimporte quel sol dur en mode balai. Tête de nettoyage dotée d’une pédale permettant d’activer un jet vapeur puissant pour enlever les tâches tenaces. Patin et gant en microfibre et nylon : permet de nettoyer, retenir les saletés et de glisser facilement. Lavable en machine jusqu’à 100 cycles à 60°
 - AUTOSELECT : sélectionner le type de sol (parquet, carrelage/lino, marbre), le débit de vapeur s’ajustera automatiquement
-- GANT STEAMITT : La partie détachable SteaMitt vous donne la puissance de la vapeur au bout de vos doigts pour un nettoyage ultra polyvalent de toutes les surfaces (plan de travail, table, robinet, salle de bain, jouets des enfants…)
 - ERGONOMIE : Design, compact et léger
-- Accessoires : 1 patin microfibre pour sol, 1 tuyau vapeur flexible 1,2 m, 1 raclette 1 housse microfibre pour raclette, 1 buse réglable jet vapeur 1 brosse ronde cuivre, 1 brosse ronde, 1 brosse spéciale joints, 1 cadre adaptateur pour tapis/moquette, 1 gant SteaMitt avec tuyau 1,5 m 2 patins en microfibre pour gant
-- FACILITÉ DUTILISATION : Simple à utiliser, maniable et prêt à l’emploi en 15 secondes ! Remplissage facile du réservoir
 - Autonomie: 20 min
+- FACILITÉ DUTILISATION : Simple à utiliser, maniable et prêt à l’emploi en 15 secondes ! Remplissage facile du réservoir
+- Accessoires : 1 patin microfibre pour sol, 1 tuyau vapeur flexible 1,2 m, 1 raclette 1 housse microfibre pour raclette, 1 buse réglable jet vapeur 1 brosse ronde cuivre, 1 brosse ronde, 1 brosse spéciale joints, 1 cadre adaptateur pour tapis/moquette, 1 gant SteaMitt avec tuyau 1,5 m 2 patins en microfibre pour gant
+- GANT STEAMITT : La partie détachable SteaMitt vous donne la puissance de la vapeur au bout de vos doigts pour un nettoyage ultra polyvalent de toutes les surfaces (plan de travail, table, robinet, salle de bain, jouets des enfants…)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MS8NATY/?tag=tolees0d-21)
