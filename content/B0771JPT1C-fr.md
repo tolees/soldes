@@ -28,10 +28,10 @@ C'est en vente [Eastpak Tranverz L Valise  79 cm  121 L  Bleu  Cloud Navy ](http
 
 ℹ️:
 
-- Hauteur : 79 cm, largeur : 40 cm, profondeur : 33 cm
 - Grande contenance grâce aux doubles compartiments pour rapporter tous vos souvenirs
+- Fabrication 100% nylon
+- Hauteur : 79 cm, largeur : 40 cm, profondeur : 33 cm
 - Poignées matelassées frontales et latérales pour faciliter le chargement sur un porte-bagage ou un tapis roulant
 - La poignée télescopique est idéale pour se déplacer dans les rues passantes
-- Fabrication 100% nylon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0771JPT1C/?tag=tolees0d-21)
