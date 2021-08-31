@@ -28,10 +28,10 @@ C'est en vente [Happy Garden MSPA - Spa Gonflable carré 158cm Lite - 4 Places](
 
 ℹ️:
 
-- Dimensions : Spa (extérieur) : L 158 x l 158 x H 68cm - (intérieur) : L 118 × l 118cm
-- Matières : Spa : PVC renforcé avec technologie 6 couches
-- Le spa gonflable carré LITE, le partenaire idéal pour des moments de détente absolus !
 - Couleurs : Spa (extérieur) : bleu marine - Spa (intérieur) : blanc
 - À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
+- Dimensions : Spa (extérieur) : L 158 x l 158 x H 68cm - (intérieur) : L 118 × l 118cm
+- Le spa gonflable carré LITE, le partenaire idéal pour des moments de détente absolus !
+- Matières : Spa : PVC renforcé avec technologie 6 couches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KQ95ZBK/?tag=tolees0d-21)
