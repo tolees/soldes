@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.77 % rabais sur CRYSTAL ART Kit tableau à diamanter sur '
-date: 2021-08-28 16:27:47
+date: 2021-08-31 18:04:02
 image: 'https://m.media-amazon.com/images/I/61G9GC6BfoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
