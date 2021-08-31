@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.09 % rabais sur MSI Optix MPG341CQR 86 4 cm  34"  3440 x'
-date: 2021-08-24 13:15:16
+date: 2021-08-31 00:35:56
 image: 'https://m.media-amazon.com/images/I/41J1Ozvrt3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'MSI'
 buyurl: 'https://www.amazon.fr/dp/B07YCVMWV6/?tag=tolees0d-21'
 descuento: '16.09'
-average: '873.003333333335'
+average: '852.57142857143'
 ---
 
 Vous avez [MSI Optix MPG341CQR 86 4 cm  34"  3440 x 1440 Pixels UltraWide Quad HD LCD Noir](https://www.amazon.fr/dp/B07YCVMWV6/?tag=tolees0d-21)  à  16.09 % de réduction, prix final  729.98 EUR (original: 869.99 EUR) ici:
