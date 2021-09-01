@@ -28,8 +28,8 @@ Vous avez [Wrangler Sherpa Jacket Veste en Jean  Bleu  Javlin Blue 510   Medium 
 
 ℹ️:
 
-- Manches longues
-- 98% Coton, 2% Élasthanne
 - Lavage en machine
+- 98% Coton, 2% Élasthanne
+- Manches longues
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R3CN7P4/?tag=tolees0d-21)
