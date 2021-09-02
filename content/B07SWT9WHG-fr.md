@@ -28,9 +28,9 @@ C'est en vente [Geox D Myria C  Baskets Femme  Black 22C9999  39 EU](https://www
 
 ℹ️:
 
-- Matériau extérieur : daim/cuir nappa
 - Semelle intérieure : légèrement rembourrée/textile (amovible)
 - Doublure intérieure : cuir et textile
+- Matériau extérieur : daim/cuir nappa
 - Matière : cuir lisse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SWT9WHG/?tag=tolees0d-21)

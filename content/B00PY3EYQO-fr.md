@@ -28,15 +28,15 @@ C'est en vente [LEGO 10698 Classic Boîte de Briques créatives Deluxe  Set de C
 
 ℹ️:
 
-- LEGO Classic est conçu pour inspirer une créativité illimitée avec la brique LEGO
-- Comprend 8 types de fenêtres et de portes différents avec 8 cadres différents
-- Les pièces spéciales incluent aussi 2 plaques de base vertes de tailles différentes, 3 paires dyeux, 6 pneus et 6 jantes
-- Les pièces spéciales encouragent la construction imaginative
-- Le grand nombre de fenêtres et de portes facilite la construction LEGO classique
-- Les plaques de base vertes mesurent plus de 16 cm de long et 16 cm de large, et 12 cm de long et 6 cm de large respectivement
-- Comprend un vaste assortiment de briques LEGO de 33 couleurs différentes
 - Idées incluses avec lensemble et en ligne sur LEGO.fr/classic pour taider à démarrer
 - Tous les modèles présentés peuvent être construits avec cet ensemble simultanément
+- Comprend 8 types de fenêtres et de portes différents avec 8 cadres différents
+- Comprend un vaste assortiment de briques LEGO de 33 couleurs différentes
+- Les pièces spéciales encouragent la construction imaginative
 - Vendu dans une boîte de rangement en plastique utile
+- Les pièces spéciales incluent aussi 2 plaques de base vertes de tailles différentes, 3 paires dyeux, 6 pneus et 6 jantes
+- LEGO Classic est conçu pour inspirer une créativité illimitée avec la brique LEGO
+- Le grand nombre de fenêtres et de portes facilite la construction LEGO classique
+- Les plaques de base vertes mesurent plus de 16 cm de long et 16 cm de large, et 12 cm de long et 6 cm de large respectivement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00PY3EYQO/?tag=tolees0d-21)
