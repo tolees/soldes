@@ -28,9 +28,9 @@ C'est en vente [Eastpak Tranverz L Valise  79 cm  121 L  Gris  Sunday Grey ](htt
 
 ℹ️:
 
-- La poignée télescopique est idéale pour se déplacer dans les rues passantes
-- Fabriqué dans un mélange 60% nylon 40% polyester
 - Grande contenance grâce aux doubles compartiments pour rapporter tous vos souvenirs
+- Fabriqué dans un mélange 60% nylon 40% polyester
+- La poignée télescopique est idéale pour se déplacer dans les rues passantes
 - Hauteur : 79 cm, Largeur : 40 cm, Profondeur : 33 cm
 - Les poignées rembourrées sur le dessus et les côtés facilitent le placement sur un rack ou un convoyeur
 
