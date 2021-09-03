@@ -28,13 +28,13 @@ Vous avez [ASUS ROG Strix Scope RX - Clavier mécanique-optique AZERTY pour les 
 
 ℹ️:
 
-- Idéal pour le jeu FPS: Touche Ctrl grand format pour une simplicité d’utilisation ‘Crouch’
-- Connexion USB 2.0: pour le rechargement de vos appareils mobiles et le branchement de vos périphériques de stockage
 - Touche Stealth: Une pression suffit pour réduire tous vos fenêtres ouvertes et désactiver le son : confidentialité garantie !
-- Switches mécaniques-optiques ROG RX : des frappes homogènes et sans vacillement des touches avec un temps de réponse de 1 ms et une durée de vie de 100 millions de frappes
-- Switch Quick-toggl: Passez instantanément du mode Fonction au mode Multimédia pour vos touches
+- Connexion USB 2.0: pour le rechargement de vos appareils mobiles et le branchement de vos périphériques de stockage
 - Macros, gestion et mémoire embarquée: assignez des séquences de commandes précises à certaines de vos touches, ajustez les paramètres du clavier à l’aide du logiciel Armoury II et sauvegardez vos profils préférés sur la mémoire intégrée du clavier
-- Fabrication à l’épreuve du temps: Revêtement supérieur en alliage d’aluminium et certification IP56 garantissant sa protection contre les éclaboussures et la poussière
+- Idéal pour le jeu FPS: Touche Ctrl grand format pour une simplicité d’utilisation ‘Crouch’
 - Prêt pour une victoire éclatante avec ROG: Éclairage RGB LED individual des touches avec diffusion par le milieu de la touche pour plus d’homogénéité, logo ROG rétroéclairé et effets lumineux personnalisables
+- Switch Quick-toggl: Passez instantanément du mode Fonction au mode Multimédia pour vos touches
+- Switches mécaniques-optiques ROG RX : des frappes homogènes et sans vacillement des touches avec un temps de réponse de 1 ms et une durée de vie de 100 millions de frappes
+- Fabrication à l’épreuve du temps: Revêtement supérieur en alliage d’aluminium et certification IP56 garantissant sa protection contre les éclaboussures et la poussière
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MWRYKZL/?tag=tolees0d-21)
