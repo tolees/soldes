@@ -28,9 +28,9 @@ C'est en vente [LEGO 10948 Duplo Le Garage et la Station de Lavage Jouet Enfant 
 
 ℹ️:
 
+- Ce jouet garage voiture pour enfants 2 ans et plus inclut une station de lavage avec un rideau de lavage en tissu et une place de parking sur le toit
 - Les places de parking ont une rampe d’accès et une barrière amovible ; avec également une plateforme de chargement et une machine à ticket pour plus de possibilités de jeu
 - Inclut 2 jouets voitures pour bébé, dont une avec une fonction mécanique à pousser, en plus d’un van à toit ouvrant pour 3 figurines et le rangement d’équipement
 - 4 figurines DUPLO sont comprises dans ce jeu de construction : 2 hommes, une mamie et un enfant, en plus d’un chien pour des possibilités de jeu infinies
-- Ce jouet garage voiture pour enfants 2 ans et plus inclut une station de lavage avec un rideau de lavage en tissu et une place de parking sur le toit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WWM5GQC/?tag=tolees0d-21)
