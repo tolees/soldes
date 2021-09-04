@@ -28,10 +28,10 @@ Vous avez [Bosch Home and Garden - Ponceuse vibrante Bosch - PSS 250 AE  250 W  
 
 ℹ️:
 
-- Ponçage sans poussière grâce à l’aspiration directe de la poussière dans un boîtier microfiltre
-- Grand confort d’utilisation grâce au système de fixation par étrier permettant de changer de papier abrasif très facilement
 - Livré avec : PSS 250 AE, feuilles abrasives P80, P120, P180, boîtier microfiltre, coffret
-- Ponçage agréable avec peu de vibrations grâce au moteur de 250 W optimisé
 - Ponceuse Bosch PSS 250 AE : pour des ponçages rapides et précis sur de grandes surfaces, sur les chants ou dans des coins
+- Ponçage agréable avec peu de vibrations grâce au moteur de 250 W optimisé
+- Grand confort d’utilisation grâce au système de fixation par étrier permettant de changer de papier abrasif très facilement
+- Ponçage sans poussière grâce à l’aspiration directe de la poussière dans un boîtier microfiltre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000ARDYXS/?tag=tolees0d-21)
