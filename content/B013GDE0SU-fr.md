@@ -28,10 +28,10 @@ Vous avez [DELONGHI - DE LONGHI M/CAFFE  ECP35.31](https://www.amazon.fr/dp/B013
 
 ℹ️:
 
-- Pression 15 bars
-- Compartiment pour stocker les accessoires
 - Système cappuccino
 - Café moulu ou dosettes ESE
 - Réservoir amovible
+- Compartiment pour stocker les accessoires
+- Pression 15 bars
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013GDE0SU/?tag=tolees0d-21)
