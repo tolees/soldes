@@ -28,9 +28,9 @@ Vous avez [Huawei Mate 10 Pro Smartphone portable débloqué 4G  Ecran 6 pouces 
 
 ℹ️:
 
-- Batterie grande capacité de 4000mAh
-- Double objectif conçu avec LEICA et une ouverture f/1.6
-- Écran FullView de 6 pouces
 - Processeur Kirin 970
+- Double objectif conçu avec LEICA et une ouverture f/1.6
+- Batterie grande capacité de 4000mAh
+- Écran FullView de 6 pouces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076CNDP4J/?tag=tolees0d-21)
