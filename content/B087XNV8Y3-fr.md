@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AR Blue Clean e-4 TWINFLOW Nettoyeur Hau avec 35.82 % rabais '
-date: 2021-08-25 19:44:22
+date: 2021-09-05 10:43:15
 image: 'https://m.media-amazon.com/images/I/316rt8m241S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [AR Blue Clean e-4 TWINFLOW Nettoyeur Haute Pression avec Dualtec
 
 ℹ️:
 
-- Nettoyeur haute pression à eau froide avec l’exclusif Dualtech System comportant la présence de 2 unités pompe-moteur. Possibilité d’activer un seule unité pompe-moteur ou les deux pour augmenter de plus de 50 % la performance par rapport à un traditionnel nettoyeur Home & Garden
-- Pression (bar) max. 150 ; Puissance absorbée (kW) 2,5 ; Débit (l/h) max. 810 ; Température eau d’alimentation (°C) max. 50
 - Le nettoyeur est livré avec le révolutionnaire adaptateur TWIN NOZZLE à appliquer à la lance : deux buses peuvent y être installées pour doubler la surface lavée et pour nettoyer la même superficie en mettant jusqu’à 70 % de temps en moins
-- En mode Fast Cleaning (2 POWER UNITS), le débit de l’eau grimpe à 850 l/h (plus du double d’un habituel nettoyeur pour la maison) pour éliminer, sans efforts et plus vite, la saleté la plus tenace sur les grandes surfaces ou pour nettoyer les murs verticaux jusqu’à 5 m de haut
+- Pression (bar) max. 150 ; Puissance absorbée (kW) 2,5 ; Débit (l/h) max. 810 ; Température eau d’alimentation (°C) max. 50
 - Le mode Eco Soft Cleaning (1 POWER UNIT) est recommandé pour réaliser des lavages légers sur les petites surfaces et éviter ainsi d’inutiles gaspillages d’énergie
+- Nettoyeur haute pression à eau froide avec l’exclusif Dualtech System comportant la présence de 2 unités pompe-moteur. Possibilité d’activer un seule unité pompe-moteur ou les deux pour augmenter de plus de 50 % la performance par rapport à un traditionnel nettoyeur Home & Garden
+- En mode Fast Cleaning (2 POWER UNITS), le débit de l’eau grimpe à 850 l/h (plus du double d’un habituel nettoyeur pour la maison) pour éliminer, sans efforts et plus vite, la saleté la plus tenace sur les grandes surfaces ou pour nettoyer les murs verticaux jusqu’à 5 m de haut
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087XNV8Y3/?tag=tolees0d-21)
