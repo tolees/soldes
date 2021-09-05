@@ -28,10 +28,10 @@ C'est en vente [OPPO Reno4 Pro Noir Spatial Smartphone débloqué 5G - 256 Go - 
 
 ℹ️:
 
-- CHARGE RAPIDE SUPERVOOC 65W : La technologie SuperVOOC redonne 60% de charge à la batterie en 15 minutes seulement et la recharge complètement en 36 minutes
-- ÉCRAN INCURVÉ 90HZ ULTRA FLUIDE : Le Reno4 Pro est équipé dun écran AMOLED à taux de rafraîchissement de 90 Hz, pour un confort des yeux, une fluidité et une réactivité améliorés au quotidien
-- VIDÉO ULTRA STABLE 3.0 : Capturez des vidéos dans les situations mouvementées avec désormais 3 objectifs au choix : principal, ultra grand angle et frontal
 - TRIPLE CAMÉRA PROFESSIONNELLE : Les trois capteurs arrières du Reno4 Pro travaillent en tandem pour offrir une expérience photographique de haute qualité et une grande polyvalence au quotidien
 - VIDÉO GRAND ANGLE ULTRA NUIT : Le Reno4 Pro est équipé de lIMX708, un capteur professionnel ultra-large idéal pour lenregistrement de vidéos nocturnes
+- CHARGE RAPIDE SUPERVOOC 65W : La technologie SuperVOOC redonne 60% de charge à la batterie en 15 minutes seulement et la recharge complètement en 36 minutes
+- VIDÉO ULTRA STABLE 3.0 : Capturez des vidéos dans les situations mouvementées avec désormais 3 objectifs au choix : principal, ultra grand angle et frontal
+- ÉCRAN INCURVÉ 90HZ ULTRA FLUIDE : Le Reno4 Pro est équipé dun écran AMOLED à taux de rafraîchissement de 90 Hz, pour un confort des yeux, une fluidité et une réactivité améliorés au quotidien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQN9BNZ/?tag=tolees0d-21)
