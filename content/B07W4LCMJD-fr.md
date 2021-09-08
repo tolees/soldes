@@ -31,7 +31,7 @@ Vous avez [El Naturalista Tulip  Sandales Bout Ouvert Femme  Noir  Black Black  
 - Dessus : Autres Cuir
 - Matériau de semelle : Caoutchouc / Synthétique
 - Doublure : Fourrure
-- Fermeture : Scratch
 - Semelle intérieure : Fourrure
+- Fermeture : Scratch
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4LCMJD/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [Roccat Vulcan TKL - Clavier de jeu mécanique compact RGB  rétr
 ℹ️:
 
 - Commandes média et molette de volume de type « mixer »
-- Le Vulcan primé, repensé dans un format sans pavé numérique
-- Titan Switch Mechanical : meilleure vitesse et réactivité du secteur (actionnement linéaire de 1,4 mm) | Durabilité longue durée avec un cycle de vie de 50 millions de pressions par touche
-- Moins despace occupé par le clavier sur le bureau pour une plus grande portée de mouvement de la souris | Design ultrafin qui élimine la pression sur les poignets en vous permettant de laisser vos mains à plat
 - Technologie de stabilisation des touches pour les rendre plus robustes en éliminant loscillation | Moteur déclairage intelligent AIMO qui se synchronise avec les périphériques compatibles avec AIMO
+- Le Vulcan primé, repensé dans un format sans pavé numérique
+- Moins despace occupé par le clavier sur le bureau pour une plus grande portée de mouvement de la souris | Design ultrafin qui élimine la pression sur les poignets en vous permettant de laisser vos mains à plat
+- Titan Switch Mechanical : meilleure vitesse et réactivité du secteur (actionnement linéaire de 1,4 mm) | Durabilité longue durée avec un cycle de vie de 50 millions de pressions par touche
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HMZ97HQ/?tag=tolees0d-21)

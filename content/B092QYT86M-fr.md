@@ -28,8 +28,8 @@ Vous avez [Electronic Arts - F1 2021  PlayStation 5 ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
-- Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
 - Le jeu officiel du championnat du monde de formule 1 de la fia.
+- Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
+- Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)
