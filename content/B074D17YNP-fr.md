@@ -28,11 +28,11 @@ C'est en vente [Moulinex Mini Bol de Cuisson pour Cuisine Companion Accessoire O
 
 ℹ️:
 
-- Capacité maximum du bol : 1,4L
-- Facile à nettoyer: tous les éléments sont compatibles lave-vaisselle
 - Un livret de 4 recettes inclus
 - Facile à utiliser : mixez et cuisinez directement dans le mini-bol, à insérer dans le bol du Companion
+- Facile à nettoyer: tous les éléments sont compatibles lave-vaisselle
 - Double lame en inox pour mixer finement des herbes, de lail ou des oignons
+- Capacité maximum du bol : 1,4L
 - Idéal vos préparations chaudes ou froides
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074D17YNP/?tag=tolees0d-21)

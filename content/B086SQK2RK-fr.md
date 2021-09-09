@@ -28,10 +28,10 @@ Vous avez [HYCHIKA BETTER TOOLS FOR BETTER LIFE - Visseuse Sans Fil 6Nm  HYCHIKA
 
 ℹ️:
 
+- 【Poignée rotative & batterie au lithium 2000mAh】- La poignée est rotative, convient pour un environnement de travail étroit; La batterie rechargeable au lithium-ion de 2000 mAh a une grande capacité et une durée de vie plus longue.
+- 【Couple de Maximal 6 Nm & Mandrin Magnétique】- Le mandrin électromagnétique de 6,35 mm facilite le changement daccessoires. Avec interrupteur avant et arrière, facile à installer et à retirer les vis; Couple de transmission maximal 6 Nm, 0-180 tr / min, largement utilisé pour le vissage et le perçage du bois.
 - 【Avec 20 accessoires】- Livré avec 19 forets et 1 tige dextension, adapté pour assembler des meubles, réparer des jouets et réparer du matériel électrique. La broche a une fonction autobloquante, qui peut fournir un couple plus élevé lorsquelle est utilisée manuellement.
 - 【Inclus & service client】- 1 x tournevis électrique HYCHIKA 3.6V; 20 accessoires; 1 x chargeur, 1 x manuel dutilisation
-- 【Poignée rotative & batterie au lithium 2000mAh】- La poignée est rotative, convient pour un environnement de travail étroit; La batterie rechargeable au lithium-ion de 2000 mAh a une grande capacité et une durée de vie plus longue.
 - 【Lumières LED & Poignée Ergonomique】- La lampe à LED avant convient aux environnements sombres ou aux coins sombres. La conception en caoutchouc souple offre une prise en main plus confortable pendant le fonctionnement.
-- 【Couple de Maximal 6 Nm & Mandrin Magnétique】- Le mandrin électromagnétique de 6,35 mm facilite le changement daccessoires. Avec interrupteur avant et arrière, facile à installer et à retirer les vis; Couple de transmission maximal 6 Nm, 0-180 tr / min, largement utilisé pour le vissage et le perçage du bois.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086SQK2RK/?tag=tolees0d-21)

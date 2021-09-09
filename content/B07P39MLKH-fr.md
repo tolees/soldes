@@ -28,10 +28,10 @@ C'est en vente [Soundcore Motion+ Enceinte Bluetooth Puissante avec Son Hi-Res 3
 
 ℹ️:
 
-- Clarté et profondeur exceptionnelles : la plage de fréquences ultra-large de lenceinte bluetooth Motion+ sétend de 50 Hz à 40 kHz et est associée à un DSP avancé pour garantir la reproduction fidèle de tous les détails et particularités de vos chansons préférées.
-- Son puissant et basses intenses : doté de deux tweeters à ultra haute fréquence, de woofers en néodyme et de radiateurs passifs, lenceinte bluetooth remplit chaque coin de la pièce avec 30 W de son riche. Les basses fréquences sont en plus améliorées en temps réel grâce à notre technologie exclusive BassUp.
-- Audio de qualité Hi-Res : Motion+ est équipée dun son Hi-Res (haute résolution) avec également le codec Qualcomm aptX pour une connexion Bluetooth fluide sans perte de qualité.
 - 12 heures de musique : la batterie intégrée de 6700 mAh vous permet de profiter de cette enceinte puissante pendant pas moins de 12 heures en continu.
 - Étanchéité IPX7 : le boîtier entièrement étanche fournit une barrière impénétrable contre les liquides. Les ports USB-C et AUX sont protégés dun couvercle hermétique pour une étanchéité totale.
+- Son puissant et basses intenses : doté de deux tweeters à ultra haute fréquence, de woofers en néodyme et de radiateurs passifs, lenceinte bluetooth remplit chaque coin de la pièce avec 30 W de son riche. Les basses fréquences sont en plus améliorées en temps réel grâce à notre technologie exclusive BassUp.
+- Clarté et profondeur exceptionnelles : la plage de fréquences ultra-large de lenceinte bluetooth Motion+ sétend de 50 Hz à 40 kHz et est associée à un DSP avancé pour garantir la reproduction fidèle de tous les détails et particularités de vos chansons préférées.
+- Audio de qualité Hi-Res : Motion+ est équipée dun son Hi-Res (haute résolution) avec également le codec Qualcomm aptX pour une connexion Bluetooth fluide sans perte de qualité.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P39MLKH/?tag=tolees0d-21)

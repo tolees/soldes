@@ -28,10 +28,10 @@ C'est en vente [WORX Taille Haie sans fil avec Batterie WG284E  2 * 20V 2.0Ah Ba
 
 ℹ️:
 
-- 【Performance Maximale】 Avec une lame de 600 mm de longueur et un diamètre maximal de coupe de 27 mm, les tailles haies électriques puissants offrent une bonne qualité de coupe et facilite la coupe de haies moyennes ou grandes qui ont une épaisseur jusquà 27 mm et même les branches dures.
-- 【Lame À Double Action】 La lame découpée au laser et affûtée au diamant assure une expérience de coupe ultime. Sa conception à double action augmentera lefficacité et léquilibre de la coupe et réduira les vibrations par rapport aux tailles haies sans fil à simple action lors de la coupe de haies ou de branches.
 - 【Batterie 20V Lithium】 Les deux batteries 20V Lithium de taille-haies batterie vous fournissent la puissance et la performance similaires à lessence 40V avec lautonomie nécessaire pour prendre soin de votre jardin sans les contraintes de fil ou dextension de câble.
-- 【Emballage Inclut】 Le taille-haies est livré avec deux batteries WA3551 2,0Ah 20V, un chargeur de double port 4A WA3883, un fourreau de protection et un protecteur de sécurité.
+- 【Performance Maximale】 Avec une lame de 600 mm de longueur et un diamètre maximal de coupe de 27 mm, les tailles haies électriques puissants offrent une bonne qualité de coupe et facilite la coupe de haies moyennes ou grandes qui ont une épaisseur jusquà 27 mm et même les branches dures.
 - 【Poignée Ergonomique】 La poignée arrière rotative et la poignée avant couverte du taille haies sans fil vous permettent une coupe confortable dans toutes les positions, créant léquilibre optimal pour minimiser la charge sur les muscles des bras, des épaules et du dos.
+- 【Emballage Inclut】 Le taille-haies est livré avec deux batteries WA3551 2,0Ah 20V, un chargeur de double port 4A WA3883, un fourreau de protection et un protecteur de sécurité.
+- 【Lame À Double Action】 La lame découpée au laser et affûtée au diamant assure une expérience de coupe ultime. Sa conception à double action augmentera lefficacité et léquilibre de la coupe et réduira les vibrations par rapport aux tailles haies sans fil à simple action lors de la coupe de haies ou de branches.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P6DLY1T/?tag=tolees0d-21)

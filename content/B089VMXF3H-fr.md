@@ -30,8 +30,8 @@ C'est en vente [SONGMICS Chaise Bureau Ergonomique  Fauteuil de Bureau avec acco
 
 - ACCOUDOIRS RELEVABLES : Le rapport est prêt, la réunion est terminée, votre patron est satisfait... Relevez les accoudoirs de cette chaise pivotante et faîtes la glisser sous votre bureau pour gagner de la place... Vous pouvez enfin partir !
 - SIÈGE CONFORTABLE : Ni trop dur ni trop mou ! Ce fauteuil est le parfait entre-deux avec une assise rembourrée en mousse. Il offre un haut niveau de confort et soutient votre corps. La respirabilité de la toile est un atout supplémentaire
+- SÛR & STABLE : Le vérin à gaz a été testé par TÜV Rheinland et est conforme à la norme EN16955:2017, classe 3 (n° du rapport : 72745, présenté par le fournisseur). Le dossier a passé le test de durabilité SGS (n° du rapport : SHD002820221, présenté par le fournisseur). Charge : 120 kg
 - CE QUE VOUS OBTENEZ : Un siège de bureau ergonomique en toile qui offre plus de confort et de commodité pour votre colonne vertébrale, vos bras et votre dos. Asseyez-vous sûr ce fauteuil confortable et commencez une journée productive
 - CONCEPTION ERGONOMIQUE : Vous souffrez de problèmes de dos comme la plupart des gens qui travaillent ? Heureusement, cette chaise de bureau possède un support lombaire rembourré et réglable. Qui voudrait d’un dos tout bossu ?
-- SÛR & STABLE : Le vérin à gaz a été testé par TÜV Rheinland et est conforme à la norme EN16955:2017, classe 3 (n° du rapport : 72745, présenté par le fournisseur). Le dossier a passé le test de durabilité SGS (n° du rapport : SHD002820221, présenté par le fournisseur). Charge : 120 kg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089VMXF3H/?tag=tolees0d-21)

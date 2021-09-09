@@ -28,10 +28,10 @@ C'est en vente [Ulefone Note 7  2020  Smartphone Pas Cher Ecran Waterdrop 6 1 Po
 
 ℹ️:
 
-- 【Caméra Arrière 8MP + 2MP + 2 MP & Caméra Frontal 5MP】 Les caméras principales 8MP + 2MP + 2MP avec autofocus rapide de 0,3 s capturent des moments inoubliables et enregistrent de précieux souvenirs. La caméra frontale 5MP dotée de plusieurs modes beauté préserve votre propre sourire en selfie.
-- 【1G + 16G & Dual Sim Global 3G】Equipé de 1G RAM et de 16G stockage interne, il prend en charge une carte TF jusquà 64G. Vous pouvez utiliser 1 micro SIM, 1 nano SIM et 1 carte TF simultanément. Veuillez redémarrer le telephone portable après avoir inséré la carte SIM.
-- 【Liste de Colisage】Un étui noir comme cadeau pratique pour offrir à votre téléphone une protection à 360 degrés. Si vous recherchez un excellent rapport qualité-prix pour votre téléphone, Ulefone Note 7 sera sans aucun doute votre meilleur choix.
-- 【Identification du Visage】 Lidentité faciale aidera à protéger vos informations personnelles sur votre téléphone portable débloqué et à reconnaître votre visage facilement et avec précision pour déverrouiller lappareil.
 - 【Écran Waterdrop 6.1 pouces】 Laffichage plein écran 19.2: 9 vous offre un écran plus grand avec des cadres plus minces, offrant une expérience daffichage plus large et plus vive pour regarder des vedio ou jouer à des jeux.
+- 【Liste de Colisage】Un étui noir comme cadeau pratique pour offrir à votre téléphone une protection à 360 degrés. Si vous recherchez un excellent rapport qualité-prix pour votre téléphone, Ulefone Note 7 sera sans aucun doute votre meilleur choix.
+- 【Caméra Arrière 8MP + 2MP + 2 MP & Caméra Frontal 5MP】 Les caméras principales 8MP + 2MP + 2MP avec autofocus rapide de 0,3 s capturent des moments inoubliables et enregistrent de précieux souvenirs. La caméra frontale 5MP dotée de plusieurs modes beauté préserve votre propre sourire en selfie.
+- 【Identification du Visage】 Lidentité faciale aidera à protéger vos informations personnelles sur votre téléphone portable débloqué et à reconnaître votre visage facilement et avec précision pour déverrouiller lappareil.
+- 【1G + 16G & Dual Sim Global 3G】Equipé de 1G RAM et de 16G stockage interne, il prend en charge une carte TF jusquà 64G. Vous pouvez utiliser 1 micro SIM, 1 nano SIM et 1 carte TF simultanément. Veuillez redémarrer le telephone portable après avoir inséré la carte SIM.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZCJ7RNS/?tag=tolees0d-21)
