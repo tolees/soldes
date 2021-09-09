@@ -29,9 +29,9 @@ C'est en vente [Triumph - Infinite Sensation W01 - Soutien-Gorge - Femme  Noir  
 ℹ️:
 
 - Réduit le volume de poitrine de -1 bonnet
-- Soutien-gorge à armatures avec effet minimisant
-- Bonnets préformés
 - Les branches confortables sadaptent à tous les mouvements
+- Soutien-gorge à armatures avec effet minimisant
 - Bretelles larges
+- Bonnets préformés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BZT9MG1/?tag=tolees0d-21)
