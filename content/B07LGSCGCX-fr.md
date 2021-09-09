@@ -28,13 +28,13 @@ C'est en vente [Scie coupe droite sans fil Bosch -  AdvancedCut 18  Livrée av
 
 ℹ️:
 
-- produit 2: Elu produit de lannée 2018
 - produit 2: Coupe fine principalement dans du bois mais également dans du PVC, PMMA, WPC.
-- produit 1: Facilité dutilisation: sciage sans vibrations, changement de lame de scie sans outil et travail sans entretien sans serrage, huilage ou affûtage
-- produit 2: Lame avec technologie de micro tronçonneuse pour EasyCut 12, EasyCut 50, Advanced Cut 50.
 - produit 2: Technologie nanoBLADE : changement de lame rapide, zéro entretien (pas besoin dhuile lubrifiante), zéro vibration.
+- produit 2: Lame avec technologie de micro tronçonneuse pour EasyCut 12, EasyCut 50, Advanced Cut 50.
+- produit 2: Elu produit de lannée 2018
+- produit 1: La scie sans fil AdvancedCut 18 avec moteur sans balais pour un sciage puissant avec la technologie innovante NanoBlade
+- produit 1: Facilité dutilisation: sciage sans vibrations, changement de lame de scie sans outil et travail sans entretien sans serrage, huilage ou affûtage
 - produit 1: Les outils de Advanced de Bosch – bonne performances pour les plus hautes exigences et de vastes projets
 - produit 1: Une seule recharge permet de couper plus de 150 branches : lAdvancedCut 18 fait preuve de performances élevées et dune vitesse de coupe remarquable
-- produit 1: La scie sans fil AdvancedCut 18 avec moteur sans balais pour un sciage puissant avec la technologie innovante NanoBlade
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LGSCGCX/?tag=tolees0d-21)

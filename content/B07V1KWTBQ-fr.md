@@ -28,10 +28,10 @@ C'est en vente [SALOMON Explore Veste Imperméable A Capuche 2L Homme Trail Runn
 
 ℹ️:
 
-- Capuche intégrée, bas ajustable pour une convenance personnalisé
-- Fermeture éclaire complète sur le devant, 2 poches latérales avec fermeture éclair pour les mains ou accessoires, Détails réfléchissants
-- Contenu: 1x Salomon Veste imperméable pour Homme, EXPLORE WP JKT M, Matière : Polyester, Couleur: Noir, Taille: M, LC1267600
 - Tissu imperméable et respirant AdvancedSkin Dry et coutures scellées pour vous garder au sec et protégé, Maille respirante
 - Veste imperméable pour homme pour le cyclisme, la randonnée et autres sports de plein air, coupe active
+- Contenu: 1x Salomon Veste imperméable pour Homme, EXPLORE WP JKT M, Matière : Polyester, Couleur: Noir, Taille: M, LC1267600
+- Fermeture éclaire complète sur le devant, 2 poches latérales avec fermeture éclair pour les mains ou accessoires, Détails réfléchissants
+- Capuche intégrée, bas ajustable pour une convenance personnalisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V1KWTBQ/?tag=tolees0d-21)

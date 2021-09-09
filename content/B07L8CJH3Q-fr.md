@@ -28,13 +28,13 @@ C'est en vente [Riviera-et-Bar PPS650 Milxxer + Préparateur de Boissons Végét
 
 ℹ️:
 
-- Accessoires fournis : bol de trempage et sac de filtration
-- Un livret de 50 recettes est fourni avec le Milxxer +. Vous y trouverez plus de 30 recettes dédiées aux boissons végétales
+- 2 ans pièces et main doeuvre
 - 9 programmes automatiques, dont 2 dédiés aux boissons végétales. Mettez vos ingrédients dans le bol, sélectionnez le programme adapté, et le Milxxer + soccupe du reste
 - Capacité : 0.7 L minimum et 1.3 L maximum
+- Un livret de 50 recettes est fourni avec le Milxxer +. Vous y trouverez plus de 30 recettes dédiées aux boissons végétales
+- Accessoires fournis : bol de trempage et sac de filtration
+- Vous souhaitez rajouter un ingrédient ? La fonction "Pause" de 60 secondes est idéale
 - Maintien au chaud automatique de 30 minutes, réactivable pour une durée maximale de 2 heures
 - Adepte du fait-maison ? Grâce au Milxxer +, réalisez vos propres soupes, minestrones, boissons végétales, smoothies, comptotes, coulis ou encore les repas de votre nourisson !
-- 2 ans pièces et main doeuvre
-- Vous souhaitez rajouter un ingrédient ? La fonction "Pause" de 60 secondes est idéale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L8CJH3Q/?tag=tolees0d-21)
