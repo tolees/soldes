@@ -28,8 +28,8 @@ C'est en vente [FM London Collants 40 Deniers  Lot de 5   Noir  Medium Femme](ht
 
 ℹ️:
 
-- Coupe stretch confortable.
 - 40 deniers.
+- Coupe stretch confortable.
 - Construction en microfibre douce et durable.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083KVPFGT/?tag=tolees0d-21)
