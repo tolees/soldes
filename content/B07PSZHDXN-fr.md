@@ -28,10 +28,10 @@ C'est en vente [Panasonic ER-FGP82K802 Tondeuse à cheveux professionnelle](http
 
 ℹ️:
 
-- Nouvelle lame X-Taper Balade 2.0: avec nouvelle génération de matériaux DLC renforcés pour plus de longévité et de confort de travail,
 - Témoins détat de charge et de recharge de la batterie (lithium-ion), jusquà 50 minutes dautonomie sans fil, recharge complète de la batterie en 1H
-- Dimensions (H x L x P): Env. 176 x 48 x 47 mm
 - Nouvelle tondeuse de coupe ER-FGP82K802 fonctionne avec ou sans fil
+- Nouvelle lame X-Taper Balade 2.0: avec nouvelle génération de matériaux DLC renforcés pour plus de longévité et de confort de travail,
+- Dimensions (H x L x P): Env. 176 x 48 x 47 mm
 - Moteur linéaire à contrôle constant pour une coupe nette et précise sans à coups. Pas de perte de vitesse quelque soit la nature du cheveux et létat de charge de la batterie
 - Ultra légère 245g
 

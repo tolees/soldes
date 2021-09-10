@@ -28,10 +28,10 @@ Vous avez [Soundcore Anker Liberty Air 2 Pro  Écouteurs Bluetooth 5 sans Fil  R
 
 ℹ️:
 
+- Égaliseur Personnalisé HearID : Pour garantir une expérience découte parfaite, HearID analyse de façon intelligente votre profil découte unique et crée une configuration audio sur mesure pour vos oreilles. Ou prenez totalement le contrôle du son, avec un égaliseur réglable ou 22 profils sonores prédéfinis.
 - Appels Clairement Audibles : 6 microphones antibruit avec réduction du bruit garantissent que votre voix est isolée et transmise avec une grande clarté pour une expérience en face à face.
 - Son Pur via Réduction Active du Bruit Ciblée : Choisissez votre scénario via lapplication Soundcore et écoutez les sons ambiants disparaître pour ne vous laisser que du son pur.
-- Égaliseur Personnalisé HearID : Pour garantir une expérience découte parfaite, HearID analyse de façon intelligente votre profil découte unique et crée une configuration audio sur mesure pour vos oreilles. Ou prenez totalement le contrôle du son, avec un égaliseur réglable ou 22 profils sonores prédéfinis.
-- Jusquà 26 Heures dÉcoute : Profitez de 7 heures de musique en une seule charge des écouteurs et jusquà 3 recharges avec le boîtier de charge.
 - Technologie de Driver PureNote : Bénéficiez dune augmentation de 45 % des basses et dune bande passante de fréquence 30 % plus large que les drivers ordinaires. Les drivers revêtus de 10 nano-couches durcies offrent une rigidité incroyable pour générer une précision et une clarté étonnantes.
+- Jusquà 26 Heures dÉcoute : Profitez de 7 heures de musique en une seule charge des écouteurs et jusquà 3 recharges avec le boîtier de charge.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4K8CY8/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ C'est en vente [Lenovo G34w-10 - Computer Monitor LED 34"  3440 x 1440 @ 144 Hz 
 
 ℹ️:
 
-- Moniteur dordinateur Lenovo
 - Couleur: noir
+- Moniteur dordinateur Lenovo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084H13VVQ/?tag=tolees0d-21)

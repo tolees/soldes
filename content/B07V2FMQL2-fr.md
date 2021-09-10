@@ -28,10 +28,10 @@ Vous avez [Ficmax Chaise Gaming Ergonomique  Chaise de Jeu pour Ordinateur avec 
 
 ℹ️:
 
-- ✔ Matériau de qualité supérieure: cuir PU résistant à la saleté et à la décoloration et mousse haute densité de 11 cm dépaisseur.
 - ✔ Construit pour durer: Encadrement complet en métal et empattement renforcé. Piston hydraulique de classe 4 (capacité maxi: 140KGS).
-- ✔ sadapte à votre style: inclinable, rock ou pivotant, ajustez-le à votre guise.
 - ✔ Conçu pour le confort: mécanisme dinclinaison totale à 180 degrés. Repose-pieds rétractable, accoudoir réglable et grand coussin de siège. Coussin cervical gratuit et oreiller de massage lombaire alimenté par USB.
+- ✔ Matériau de qualité supérieure: cuir PU résistant à la saleté et à la décoloration et mousse haute densité de 11 cm dépaisseur.
 - ✔ Avis: Les boulons sont pré-montés dans la partie inférieure du siège. Pour les éviter lors de lexpédition, veuillez le noter lors de lassemblage. ✔Shipping & Customer Service: Temps de livraison logistique 4 - 10 jours. Garantie de 12 mois sur les pièces de rechange.
+- ✔ sadapte à votre style: inclinable, rock ou pivotant, ajustez-le à votre guise.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V2FMQL2/?tag=tolees0d-21)
