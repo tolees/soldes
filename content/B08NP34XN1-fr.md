@@ -28,12 +28,12 @@ C'est en vente [IsEasy - Plaque à Gaz 4 feux - Autosuffisante Plaque de Cuisson
 
 ℹ️:
 
-- 【4 Brûleur 】：1.75KW, 3.3KW, 1.75KW, 1KW. Brûleur imitation, support en fonte.
-- 【Connexion】：Cette table de cuisson est conçue pour être connectée à une alimentation électrique CA 127-240V / 50 Hz ou 120V / 60 Hz.
 - 【Allumage】 ：Allumage par impulsion, Commande par bouton.
-- 【Source dair】：NG / LPG（Conversion du GN AU GPL）.
+- 【4 Brûleur 】：1.75KW, 3.3KW, 1.75KW, 1KW. Brûleur imitation, support en fonte.
+- 【Taille du produit】：60cm × 52cm × 11cm, taille de coupe: 56cm * 48cm.
 - 【4 feux Plaque gaz en verre】：Encastrable Conception - Panneau en verre trempé, épaisseur 8 mm - Facile à nettoyer.
 - 【Sécurité】：Sécurité par thermocouple; Soupape de sécurité à arbre en cuivre.
-- 【Taille du produit】：60cm × 52cm × 11cm, taille de coupe: 56cm * 48cm.
+- 【Source dair】：NG / LPG（Conversion du GN AU GPL）.
+- 【Connexion】：Cette table de cuisson est conçue pour être connectée à une alimentation électrique CA 127-240V / 50 Hz ou 120V / 60 Hz.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NP34XN1/?tag=tolees0d-21)

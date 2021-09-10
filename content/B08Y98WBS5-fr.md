@@ -28,11 +28,11 @@ C'est en vente [GHD - Nouveau Styler Max - Lisseur Cheveux  Noir ](https://www.a
 
 ℹ️:
 
-- Idéal pour les cheveux longs, épais ou bouclés
 - Plaques 70% plus larges pour coiffer un maximum de cheveux à chaque passage
 - Jusquà 2x moins de frisottis, une casse réduite et 80% de brillance en plus
+- Idéal pour les cheveux longs, épais ou bouclés
 - Des cheveux en bonne santé : température optimale de coiffage de 185°C pour des résultats professionnels sans compromettre la santé de vos cheveux
-- Plus quun simple lisseur : son design élégant et ses plaques arrondies vous permettent de réaliser des lissages, des boucles ou des ondulations
 - Caractéristiques supplémentaires : chauffe en 30 secondes - mode veille automatique si inutilisé pendant 30 minutes - 2 ans de garantie - cordon de 2,7m - voltage universel - embout de protection
+- Plus quun simple lisseur : son design élégant et ses plaques arrondies vous permettent de réaliser des lissages, des boucles ou des ondulations
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Y98WBS5/?tag=tolees0d-21)

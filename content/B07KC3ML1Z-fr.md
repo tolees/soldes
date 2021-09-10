@@ -28,10 +28,10 @@ C'est en vente [W-KING 50W 70W Peak  Enceinte Bluetooth Portable & Batterie de R
 
 ℹ️:
 
-- CONÇU POUR PERMETTRE TOUT ABUS: Votre enceinte est non seulement solide et résistante aux chocs, mais également à l’eau, à la poussière et au sable. Emportez-le avec vous lors de votre prochain voyage de camping ou fête sur la plage!
-- CHARGEZ TOUS VOS APPAREILS PORTABLES: Sous son extérieur élégant et robuste, vous trouverez une énorme banque de puissance intégrée de 8 000 mAh qui rechargera votre iPhone, votre smartphone Android, votre tablette, votre iPad ou votre caméra d’action.
-- OBTENEZ MAINTENANT VOTRE HAUT-PARLEUR SANS FIL À 100% SANS RISQUE: veuillez utiliser un adaptateur dalimentation 5V 2.0A (non fourni) pour charger votre haut-parleur. Votre enceinte nomade Bluetooth comprend une garantie exclusive de 18 mois, vous permettant ainsi de passer votre commande en toute confiance.
 - CRISP & CRYSTAL CLEAR HD SON STÉRÉO: Une qualité audio irréprochable est notre principale priorité. Cest pourquoi lenceinte D8 est équipée de 2 haut-parleurs de grave, de 2 caissons de basse passifs et de 2 tweeters.
+- CHARGEZ TOUS VOS APPAREILS PORTABLES: Sous son extérieur élégant et robuste, vous trouverez une énorme banque de puissance intégrée de 8 000 mAh qui rechargera votre iPhone, votre smartphone Android, votre tablette, votre iPad ou votre caméra d’action.
+- CONÇU POUR PERMETTRE TOUT ABUS: Votre enceinte est non seulement solide et résistante aux chocs, mais également à l’eau, à la poussière et au sable. Emportez-le avec vous lors de votre prochain voyage de camping ou fête sur la plage!
+- OBTENEZ MAINTENANT VOTRE HAUT-PARLEUR SANS FIL À 100% SANS RISQUE: veuillez utiliser un adaptateur dalimentation 5V 2.0A (non fourni) pour charger votre haut-parleur. Votre enceinte nomade Bluetooth comprend une garantie exclusive de 18 mois, vous permettant ainsi de passer votre commande en toute confiance.
 - LA NORME GOLD DES HAUT-PARLEURS SANS FIL: Lenceinte sans fil W-KING D8 est là pour vous aider à profiter dune qualité audio « boîte de nuit » lors de vos déplacements grâce à sa puissance de sortie de 50 W et à son système d’entraînement acoustique de 2,2.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KC3ML1Z/?tag=tolees0d-21)

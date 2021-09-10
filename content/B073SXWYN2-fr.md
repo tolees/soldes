@@ -29,7 +29,7 @@ Vous avez [Google WiFi  Pack de 2  Routeur et point d accès Blanc](https://www.
 ℹ️:
 
 - Configuration et contrôle simplifiés
-- Sécurité optimale. WPA2-PSK et mises à jour de sécurité automatiques
 - Réseau optimisé sans aucune configuration manuelle
+- Sécurité optimale. WPA2-PSK et mises à jour de sécurité automatiques
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SXWYN2/?tag=tolees0d-21)

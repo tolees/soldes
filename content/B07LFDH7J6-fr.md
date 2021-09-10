@@ -28,10 +28,10 @@ Vous avez [Levi s 2Pk Crewneck Graphic T-Shirt  2 Pack SW White/Mineral Black  M
 
 ℹ️:
 
-- Fermeture : pas de fermeture
 - Manche courte
-- 100% coton
 - Lavage en machine
 - Regular
+- Fermeture : pas de fermeture
+- 100% coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFDH7J6/?tag=tolees0d-21)
