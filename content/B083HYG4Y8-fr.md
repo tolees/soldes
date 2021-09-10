@@ -28,10 +28,10 @@ Vous avez [Fsolis Miniature avec des Meubles de Maison de poupée  kit 3D Dollho
 
 ℹ️:
 
-- ▲ Remarque: la colle liquide au gel de silice et deux piles (type: AAA) sont interdites à laviation. Vous devez les préparer vous-même. Si vous avez des problèmes dassemblage, nhésitez pas à nous contacter. Nous sommes toujours là pour vous aider.
-- ▲ La maison de poupée bricolage comprend tous les meubles affichés sur limage. Ce produit nest pas fini, vous devez lassembler. Il convient aux personnes de plus de 14 ans.
-- ▲ Instructions en anglais: des instructions détaillées sur les couleurs en anglais vous guideront étape par étape, il est facile de terminer, le besoin prend un peu de temps et assez de patience. Vous obtiendrez une belle décoration de la maison.
 - ▲ La maison de poupée bricolage est ingénieuse dans la conception, excellente en qualité, les raccords sont coupés avec précision et sadaptent parfaitement. Les lumières LED, les plantes, les peintures, les décorations, les meubles sont tous réalistes.
 - ▲ Meilleur cadeau: En train de faire de lartisanat, les enfants doivent jouer à limagination et assembler des formes dans les positions correspondantes. Cela permet non seulement de coordonner les mains des enfants, mais aussi de cultiver leur créativité. Et pour les personnes qui aiment lartisanat et les micro-produits, faire des cadeaux par eux-mêmes est plus significatif.
+- ▲ La maison de poupée bricolage comprend tous les meubles affichés sur limage. Ce produit nest pas fini, vous devez lassembler. Il convient aux personnes de plus de 14 ans.
+- ▲ Remarque: la colle liquide au gel de silice et deux piles (type: AAA) sont interdites à laviation. Vous devez les préparer vous-même. Si vous avez des problèmes dassemblage, nhésitez pas à nous contacter. Nous sommes toujours là pour vous aider.
+- ▲ Instructions en anglais: des instructions détaillées sur les couleurs en anglais vous guideront étape par étape, il est facile de terminer, le besoin prend un peu de temps et assez de patience. Vous obtiendrez une belle décoration de la maison.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083HYG4Y8/?tag=tolees0d-21)

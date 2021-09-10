@@ -28,9 +28,9 @@ C'est en vente [Sunny Days - Table de Jardin Prince  Anthracite](https://www.ama
 
 ℹ️:
 
-- Quantité de article: 1
 - Polypropylène, coloris Anthracite
 - Fabriqué en Chine
 - Matériau: plastique
+- Quantité de article: 1
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00GIGR7EW/?tag=tolees0d-21)
