@@ -28,10 +28,10 @@ C'est en vente [UHU Power Glue Gel Prix Choc Tubes 2x3g](https://www.amazon.fr/d
 
 ℹ️:
 
-- La formule gel permet une application propre et sans coulures sur les surfaces verticales. Prise en quelques secondes seulement et transparente.
-- Colle instantanée formule gel ultra rapide et extrêmement résistante.
-- Idéal pour les supports poreux.
-- Ne goutte pas.
 - Format: 2 tubes de 3g.
+- La formule gel permet une application propre et sans coulures sur les surfaces verticales. Prise en quelques secondes seulement et transparente.
+- Ne goutte pas.
+- Idéal pour les supports poreux.
+- Colle instantanée formule gel ultra rapide et extrêmement résistante.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VPCYTRK/?tag=tolees0d-21)
