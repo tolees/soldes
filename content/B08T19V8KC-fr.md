@@ -28,10 +28,10 @@ Vous avez [OFUN Bougie Citronnelle  Bougies de jardin Bougie parfumée colorée 
 
 ℹ️:
 
-- 【MATÉRIAU NATUREL】 - Fait à 100% de cire de soja, brûle sans fumée et bougie sans cruauté.
 - 【Utilisation à lextérieur et à lextérieur】 - Placez les bougies à la citronnelle dans votre jardin, dans votre patio, dans votre jardin, vos pique-niques, votre camping, vos réunions de famille à lintérieur ou à lextérieur de votre maison, puis profitez dune nuit paisible.
-- 【Boîte réutilisable】 - Bougie mignonne avec 3 seaux de couleur, vous pouvez lutiliser comme bonbonnières, tirelires et pots de plantes dintérieur après avoir brûlé toute la bougie à la citronnelle. En même temps, il est également pratique de voyager et de le transporter.
+- 【MATÉRIAU NATUREL】 - Fait à 100% de cire de soja, brûle sans fumée et bougie sans cruauté.
 - 【HUILE DE CITRONNELLE FRAÎCHE】 - Extrait de lhuile végétale de citronnelle, ce parfum parfumé combine une note de tête dagrumes verts avec une note de fond de parfum de citronnelle fraîche.
 - 【LONG TEMPS DE BRÛLAGE】 - Chaque grande bougie à la citronnelle peut brûler pendant 10 à 15 heures. Taille de létain en métal: 5,3 x 5,2 x 4 cm.
+- 【Boîte réutilisable】 - Bougie mignonne avec 3 seaux de couleur, vous pouvez lutiliser comme bonbonnières, tirelires et pots de plantes dintérieur après avoir brûlé toute la bougie à la citronnelle. En même temps, il est également pratique de voyager et de le transporter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08T19V8KC/?tag=tolees0d-21)
