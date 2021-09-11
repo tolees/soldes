@@ -28,10 +28,10 @@ C'est en vente [GardenMate 5X Sacs à Plantes 30L en Non tissé Blackline - Ø 3
 
 ℹ️:
 
-- MESURES : Ø 35,6cm - Hauteur 30,5cm - 2 anses de transport solides.
 - PERMÉABLES à lair et à leau pour permettre la bonne croissance de la plante et éviter les moisissures.
-- ROBUSTES ET RÉSISTANTS : Lot de 5 sacs à plantes 30L en non tissé réutilisables, robustes et résistants.
+- MESURES : Ø 35,6cm - Hauteur 30,5cm - 2 anses de transport solides.
 - GARDENMATE est une marque connue et appréciée des professionnels comme des amateurs pour ses outils et ustensiles de jardinage de qualité.
+- ROBUSTES ET RÉSISTANTS : Lot de 5 sacs à plantes 30L en non tissé réutilisables, robustes et résistants.
 - PARFAITS POUR vos fleurs mais aussi vos tomates, concombres, haricots etc. À destination des balcons, terrasses et serres.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073NJYCFJ/?tag=tolees0d-21)

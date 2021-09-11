@@ -28,9 +28,9 @@ C'est en vente [KabelDirekt – Bloc multiprise  4 Prises  3 Porte chargeurs USB
 
 ℹ️:
 
-- 36 mois de garantie constructeur
-- Trois prises de charge USB de 5 V jusquà 2,4 A avec une détection intelligente des appareils (BC1.2) pour la charge optimale des appareils raccordés. Courant de charge maximal : 4,8 A
 - Bloc multiprise de KabelDirekt avec des prises de charge USB supplémentaires. Gérez tous les appareils électroniques depuis un point centralisé.
+- Trois prises de charge USB de 5 V jusquà 2,4 A avec une détection intelligente des appareils (BC1.2) pour la charge optimale des appareils raccordés. Courant de charge maximal : 4,8 A
 - Sécurité : protection parafoudre/surtension et sécurité enfant, les prises non utilisées sont sécurisées par une protection dinsertion, certifiée TÜV (GS)
+- 36 mois de garantie constructeur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0761WMSDV/?tag=tolees0d-21)

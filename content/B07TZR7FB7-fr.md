@@ -28,10 +28,10 @@ C'est en vente [BedStory [Nouvelle Version] Oreillers Lot de 2 60x60  Oreiller M
 
 ℹ️:
 
-- 【Anti-acarien et Hypoallergénique】Les taies d’oreiller anti-acarien lot de 2 60x60 sont fabriqués en polyester de haute densité, anti-acarien, hypoallergénique, et traités par technique de ponçage spéciale pour vous offrir un sentiment doux et très confortable.
 - 【Ergonomique et Confortable】L’épaisseur des oreillers fermes est 22cm, une épaisseur ergonomique selon enquêtes, soulage la nuque, vous donne un soutien efficace et un sommeil confortable.
 - 【Satisfaction】 Bedstory équipe s’attache à vous fournir un sommeil formidable, et vos idées sont vraiment importantes pour nous, si vous êtes insatisfaits de notre produit, veuillez nous contacter par email, nous vous promettons une résolution satisfaisante.
-- 【Moelleux à la fois Ferme】 Garnissage de haute qualité, chaque oreiller est rempli par 1050g 3D fibre polyester, cela permet Bedstory oreillers gonflables de rester gonflés et de garder bien leur forme, fibre polyester cela rend bedstory oreillers doux à la fois fermes.
 - 【Sécurité et Certifié par CE】Les garnissages et les taies de notre coussin anti acarien sont certifiés par CE, vous pouvez profiter de vos nuits avec oreillers lot de 2 60x60 sans soucis!
+- 【Anti-acarien et Hypoallergénique】Les taies d’oreiller anti-acarien lot de 2 60x60 sont fabriqués en polyester de haute densité, anti-acarien, hypoallergénique, et traités par technique de ponçage spéciale pour vous offrir un sentiment doux et très confortable.
+- 【Moelleux à la fois Ferme】 Garnissage de haute qualité, chaque oreiller est rempli par 1050g 3D fibre polyester, cela permet Bedstory oreillers gonflables de rester gonflés et de garder bien leur forme, fibre polyester cela rend bedstory oreillers doux à la fois fermes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TZR7FB7/?tag=tolees0d-21)

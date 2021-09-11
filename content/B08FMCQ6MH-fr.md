@@ -29,9 +29,9 @@ Vous avez [Sameriver Tour Multiprise 5M Cordon  Multiprise Electrique avec 5 Por
 ℹ️:
 
 - 【Sécurité Supérieure】: La multi prises électriques a passé les certifications FCC et RoHS, et elle adopte des matériaux ignifuges avancés. Lorsque lalimentation est surchargée / surchauffée / court-circuitée, linterrupteur de surcharge fiable se déclenchera automatiquement pour protéger votre équipement.
-- 【Contrôle Indépendant】: linterrupteur situé de chaque côté de la multiprise 8 prises contrôle les 2 prises CA correspondantes. Lorsquil nest pas utilisé, il vous suffit dappuyer sur linterrupteur pour éteindre lappareil. Cela économise de lénergie et élimine le besoin de brancher et de débrancher le cordon dalimentation.
-- 【13 en 1】: 8 prises CA et 5 ports USB alimentent tous les appareils de votre bureau via un concentrateur compact (la puissance maximale de la prise est de 2500 W). Les prises de tour peuvent économiser plus despace horizontal que les prises ordinaires, créant ainsi un espace de bureau organisé pour vous.
 - 【Ce que vous Obtenez】: Multiprise parafoudre avec USB, manuel, service de retour / remboursement gratuit pendant 18 mois, support technique à vie et service client amical.
 - 【Placement Pratique】: La multiprise usb avec câble dextension 5M peut vous aider à contourner facilement lautre extrémité du canapé. La taille compacte (12x12x17,5 cm) vous offre plus doptions de placement.
+- 【Contrôle Indépendant】: linterrupteur situé de chaque côté de la multiprise 8 prises contrôle les 2 prises CA correspondantes. Lorsquil nest pas utilisé, il vous suffit dappuyer sur linterrupteur pour éteindre lappareil. Cela économise de lénergie et élimine le besoin de brancher et de débrancher le cordon dalimentation.
+- 【13 en 1】: 8 prises CA et 5 ports USB alimentent tous les appareils de votre bureau via un concentrateur compact (la puissance maximale de la prise est de 2500 W). Les prises de tour peuvent économiser plus despace horizontal que les prises ordinaires, créant ainsi un espace de bureau organisé pour vous.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FMCQ6MH/?tag=tolees0d-21)
