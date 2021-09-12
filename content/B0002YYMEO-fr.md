@@ -28,10 +28,10 @@ Vous avez [KNIPEX Cobra Pince multiprise de pointe  300 mm  87 01 300](https://w
 
 ℹ️:
 
-- Réglage à même la pièce par simple pression du bouton
-- Autobloquante sur tubes et écrous : ne glisse pas sur la pièce, travail nécessitant moins deffort
-- Charnière entrepassée : grande stabilité grâce au double guidage
 - Intérieur des mâchoires à dents spécialement trempées, dureté denv. 61 HRC: serrage sûr grâce à une grande résistance à lusure
 - Réglage précis pour un ajustage parfait à différentes tailles de pièces et poignées ergonomiques
+- Autobloquante sur tubes et écrous : ne glisse pas sur la pièce, travail nécessitant moins deffort
+- Charnière entrepassée : grande stabilité grâce au double guidage
+- Réglage à même la pièce par simple pression du bouton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0002YYMEO/?tag=tolees0d-21)
