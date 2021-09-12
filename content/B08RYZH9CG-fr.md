@@ -28,10 +28,10 @@ C'est en vente [Mini Frigo de Chambre 6L/8 Canettes  OMMO Portable Petit Réfrig
 
 ℹ️:
 
-- Agréablement Silencieux - Avec un niveau sonore généralement bas de seulement 25 dB (A), il est très abordable et silencieux, convient bien pour un usage dans la salle de séjour, et même dans la chambre à coucher; un bon compagnon silencieux pour vous offrir un boisson frais et ne vous dérange jamais pour toute la journée
 - Léger et Facilement Transportable - Poids léger de 2,24 kg, peu coûteux et nexige pas beaucoup despace; Livré avec une prise 12 V DC et une prise 220 V AC, il peut être branché sur une prise de courant et sur lallume cigare, un vrai mini-frigo mobile pour lexcursion, lors dun week-end en montagne; compagnon idéal pour vos sorties nature en famille ou entre amis
+- Agréablement Silencieux - Avec un niveau sonore généralement bas de seulement 25 dB (A), il est très abordable et silencieux, convient bien pour un usage dans la salle de séjour, et même dans la chambre à coucher; un bon compagnon silencieux pour vous offrir un boisson frais et ne vous dérange jamais pour toute la journée
+- Petite Taille vs Grande Capacité - Ce 6L mini frigo de chambre mesure 130*135*235 mm à lintérieur, capable daccueillir maxi. 8 canettes de soda (330 ml), bien adapter pour garder frais vos boissons, des sucreries et des aliments; la conception classique et élégante le permettent de sintégrer bien dans votre décoration
 - Polyvalent, Pratique et Inventif - Mini frigo à boissons de chambre pour accueillir les boissons, des sucreries et des aliments, vous pouvez en profiter de la fraîcheur à tout moment; servir aussi à conserver tous vos produits de beauté dans des conditions optimales; invitez-le également au bureau pour préserver toute la fraîcheur et les vitamines de votre lunch-box
 - 2-en-1 Chauffe et Refroidisseur - Il sagit dun réfrigérateur thermoélectrique pour vous offrir à la fois le chaud et le froid; très efficace pour le refroidissement rapide jusquà 20-25℃ sous le température ambient et aussi servir à réchauffer ou maintenir à température une boisson jusquà 65℃
-- Petite Taille vs Grande Capacité - Ce 6L mini frigo de chambre mesure 130*135*235 mm à lintérieur, capable daccueillir maxi. 8 canettes de soda (330 ml), bien adapter pour garder frais vos boissons, des sucreries et des aliments; la conception classique et élégante le permettent de sintégrer bien dans votre décoration
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08RYZH9CG/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [MFAVOUR Siège Gamer Blanc  Chaise Gaming en Cuir Chaise de Bureau Pi
 
 ℹ️:
 
-- ※ Garantie ※-- Nous accordons une garantie de 1 ans à compter de la date dachat. Si vous avez des questions sur la chaise, veuillez nous contacter directement.
-- ※ Design Confortable ※-- MFAVOUR chaise gaming a un design ergonomique qui réduit la pression sur la colonne vertébrale. Le soutien lombaire, le coussin, le dossier et l’appui-tête sont fabriqués en coton monobloc de haute densité qui ne se déformera pas facilement après l’utilisation à long terme.
 - ※ Haute Qualité ※-- MFAVOUR fauteuil de jeu se compose dun cadre en métal-acier et d’apparence en cuir PU de haute qualité, ce qui le rend plus résistant et plus facile à nettoyer. L’ascenseur de gaz de la chaise a été certifiée en Europe et aux États-Unis. La barre de gaz peut être facilement levée et abaissée, plus sûre et plus fiable. La base en étoile solide et les pieds en nylon assurent la sécurité！
 - ※ Silencieux ※-- Avec des roues universelles en nylon, MFAVOUR chaise gamer peut sadapter aux différents moyens de rotation. Les roulettes de haute qualité sont plus silencieux et résistent mieux à labrasion. Convient aux sols durs tels que stratifiés, parquet, chapes, sols en bois, linoléum et carreaux de céramique. Le diamètre de barre pour installer des roues universelles est de 11 mm, vous pouvez remplacer des roues selon vos besoins.
+- ※ Design Confortable ※-- MFAVOUR chaise gaming a un design ergonomique qui réduit la pression sur la colonne vertébrale. Le soutien lombaire, le coussin, le dossier et l’appui-tête sont fabriqués en coton monobloc de haute densité qui ne se déformera pas facilement après l’utilisation à long terme.
 - ※ Multifonctionnel ※-- La hauteur des accoudoirs est réglable et le dossier est inclinable selon plusieurs angles, jusquà un angle maximal de 180 °. La hauteur du siège et langle du dossier peuvent être réglé pour répondre à vos attentes lorsque vous travaillez ou jouez à un jeu vidéo. Facile à trouver une position la plus confortable.
+- ※ Garantie ※-- Nous accordons une garantie de 1 ans à compter de la date dachat. Si vous avez des questions sur la chaise, veuillez nous contacter directement.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081JQ2XKX/?tag=tolees0d-21)

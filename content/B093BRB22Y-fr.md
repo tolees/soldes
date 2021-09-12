@@ -28,10 +28,10 @@ Vous avez [CHUWI Tablette 4G LTE 10 1 Pouces 128Go ROM 4Go RAM Dual SIM 5G WiFi 
 
 ℹ️:
 
-- 🏆【Processeur Puissant et Rapide】：CPU 8 Cœurs MediaTek Helio P60(MT6771V)+ GPU MP3 Mali-G72 +NPU haut de gamme pour un traitement efficace de lIA.Android 10 certifiée par Google GMS,a des nombreuses fonctionnalités pratiques, telles que le thème sombre, des paramètres de confidentialité plus privilégiés, etc.
-- 📶【Réseau Fluide】: 2.4G/5G Wifi AC bibande(IEEE 802.11 a/b/g/n/ac), Bluetooth 5.0; GPS +Glonass + Beidou/Galileo,FM,OTG.La tablette tactile pas cher est également livrée avec un double emplacement SIM et peut se connecter à un réseau 4G LTE . Vous pouvez utiliser sans problème des services tels que Google Play, G-mail, YouTube, Skype, Netflix et plus .
+- ⚡【Mémoire et Extension】：4 Go RAM et 128 Go ROM. Il y a aussi un lecteur de carte microSD(extension de Max.128Go).La grande batterie 8000 mAh pour utilisation plus longue (8-10h) .
 - 🔥【Ultra Mince et Haute Résolution】:Cette tablette android ne mesure que 9,2 mm et seulement 540g, est facile à transporter. Lécran IPS de 10,1 pouces avec résolution 1920*1200 pixels Full HD.Deux caméras( 8+8 MP)avec deux haut-parleurs . Quil sagisse dappels vidéo, des études, des jeux ou des vidéos, vous avez une excellente expérience (Prise en charge de la manette de jeu, du stylet ou du clavier ) .
 - 💌【Garantie】：Garantie dun an .Cette tablette pc dispose dun manuel multilingue .Si vous avez des questions, veuillez nous contacter, nous sommes heureux de vous servir : )
-- ⚡【Mémoire et Extension】：4 Go RAM et 128 Go ROM. Il y a aussi un lecteur de carte microSD(extension de Max.128Go).La grande batterie 8000 mAh pour utilisation plus longue (8-10h) .
+- 📶【Réseau Fluide】: 2.4G/5G Wifi AC bibande(IEEE 802.11 a/b/g/n/ac), Bluetooth 5.0; GPS +Glonass + Beidou/Galileo,FM,OTG.La tablette tactile pas cher est également livrée avec un double emplacement SIM et peut se connecter à un réseau 4G LTE . Vous pouvez utiliser sans problème des services tels que Google Play, G-mail, YouTube, Skype, Netflix et plus .
+- 🏆【Processeur Puissant et Rapide】：CPU 8 Cœurs MediaTek Helio P60(MT6771V)+ GPU MP3 Mali-G72 +NPU haut de gamme pour un traitement efficace de lIA.Android 10 certifiée par Google GMS,a des nombreuses fonctionnalités pratiques, telles que le thème sombre, des paramètres de confidentialité plus privilégiés, etc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B093BRB22Y/?tag=tolees0d-21)

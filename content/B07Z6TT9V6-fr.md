@@ -28,8 +28,8 @@ Vous avez [Samsonite Ziproll - Sac de Voyage S  2 Roues  Sac à Dos  55 cm  46.5
 
 ℹ️:
 
-- Roulettes : Deux roulettes
-- Poignées : Une poignée haute et une poignée latérale
 - Poches extérieures : Deux poches frontales
+- Poignées : Une poignée haute et une poignée latérale
+- Roulettes : Deux roulettes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z6TT9V6/?tag=tolees0d-21)
