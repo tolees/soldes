@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Y-Wing 75181 Star Wars Jo avec 19.46 % rabais '
-date: 2021-09-11 14:33:42
+date: 2021-09-12 14:36:41
 image: 'https://m.media-amazon.com/images/I/51L4mOOViuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.fr/dp/B07BLGCXZZ/?tag=tolees0d-21'
 descuento: '19.46'
-average: '425.271772727271'
+average: '425.066923076921'
 ---
 
 C'est en vente [LEGO Star Wars Y-Wing 75181 Star Wars Jouet](https://www.amazon.fr/dp/B07BLGCXZZ/?tag=tolees0d-21)  à  19.46 % de réduction, prix final  380.0 EUR (original: 471.83 EUR) ici:
@@ -29,9 +29,9 @@ C'est en vente [LEGO Star Wars Y-Wing 75181 Star Wars Jouet](https://www.amazon.
 ℹ️:
 
 - Présentez le modèle sur le support inclinable avec étiquette dinformation
-- Contient le Gold Leader en tant que mini figurine et les Droïdes R2-BHD comme figurine supplémentaire
 - Dispose de détails authentiques, dun cockpit de figurines rabattable, de canons à ions rotatifs sur le toit, de patins datterrissage rétractables et de lespace pour les droïdes Astromech, R2-BHD inclus dans le kit
 - Cet ensemble Lego Star Wars convient aux enfants à partir de 14 ans
+- Contient le Gold Leader en tant que mini figurine et les Droïdes R2-BHD comme figurine supplémentaire
 - Le centre parfait de toute collection Lego Star Wars
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BLGCXZZ/?tag=tolees0d-21)
