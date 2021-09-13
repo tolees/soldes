@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.10 % rabais sur Sebago Docksides Portland Waxed  Chaussu'
-date: 2021-09-10 11:29:25
+date: 2021-09-13 07:03:41
 image: 'https://m.media-amazon.com/images/I/416WDdhaMPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,16 +28,16 @@ Vous avez [Sebago Docksides Portland Waxed  Chaussures Bateau Homme  Marron  Bro
 
 ℹ️:
 
-- Matériau de semelle : caoutchouc
 - Semelle intérieure : cuir
-- Dessus : autre cuir
-- Fermeture : lacets
-- Taille : pointure normale
-- Dessus : cuir
 - Matériau de semelle : caoutchouc
+- Type de talons : plat
 - Doublure : cuir
 - Doublure : cuir
+- Matériau de semelle : caoutchouc
+- Dessus : cuir
+- Taille : pointure normale
 - Type de talons : plat
-- Type de talons : plat
+- Fermeture : lacets
+- Dessus : autre cuir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0007T0ZLS/?tag=tolees0d-21)
