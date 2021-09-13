@@ -28,7 +28,7 @@ C'est en vente [Fluchos LUCA 8499 Oiseau Noir](https://www.amazon.fr/dp/B071W6NT
 
 ℹ️:
 
-- Système FLC Active Shock Absorber
 - Cuir naturel et respirant avec doublure en microfibre hypoallergénique et semelles amovibles.
+- Système FLC Active Shock Absorber
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071W6NT3F/?tag=tolees0d-21)
