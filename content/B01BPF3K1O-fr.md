@@ -28,10 +28,10 @@ C'est en vente [BERING Hommes Analogique Solar Collection Montre avec Bracelet e
 
 ℹ️:
 
-- Le verre saphir de BERING est particulièrement dur, clair comme du cristal et résistant aux rayures
+- Solar Watch Collection. Tout type de lumière le chargera et une fois complètement chargé, il fonctionnera pendant 6 à 12 mois. Solar
 - Boîtier : acier inoxydable (316 L) de qualité médicale / noir / 40 mm de diamètre / 7 mm dépaisseur
+- Le verre saphir de BERING est particulièrement dur, clair comme du cristal et résistant aux rayures
 - Bracelet : acier inoxydable de qualité médicale (316 L) / noir / 200 mm de long / 22 mm de large
 - Étanche à leau jusquà 3 ATM / 30 m / 98 pieds. Résistance générale à la pluie, aux éclaboussures, à la submersion accidentelle et à la douche. Nest pas compatible avec la natation et la baignade
-- Solar Watch Collection. Tout type de lumière le chargera et une fois complètement chargé, il fonctionnera pendant 6 à 12 mois. Solar
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BPF3K1O/?tag=tolees0d-21)
