@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sunny Days - Table de Jardin Prince  Ant avec 41.60 % rabais '
-date: 2021-09-10 09:43:29
+date: 2021-09-14 17:31:52
 image: 'https://m.media-amazon.com/images/I/31djjbSj8LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sunny Days'
 buyurl: 'https://www.amazon.fr/dp/B00GIGR7EW/?tag=tolees0d-21'
 descuento: '41.60'
-average: '78.6749999999998'
+average: '77.062857142857'
 ---
 
 C'est en vente [Sunny Days - Table de Jardin Prince  Anthracite](https://www.amazon.fr/dp/B00GIGR7EW/?tag=tolees0d-21)  à  41.60 % de réduction, prix final  67.39 EUR (original: 115.4 EUR) ici:
@@ -28,9 +28,9 @@ C'est en vente [Sunny Days - Table de Jardin Prince  Anthracite](https://www.ama
 
 ℹ️:
 
-- Polypropylène, coloris Anthracite
-- Fabriqué en Chine
-- Matériau: plastique
 - Quantité de article: 1
+- Fabriqué en Chine
+- Polypropylène, coloris Anthracite
+- Matériau: plastique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00GIGR7EW/?tag=tolees0d-21)
