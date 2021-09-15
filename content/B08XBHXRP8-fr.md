@@ -28,10 +28,10 @@ Vous avez [Écrans PC LED IPS CHiQ 24 Pouces 24P625F  Full HD  1920x1080   5 ms 
 
 ℹ️:
 
+- Affichage : 24"", résolution FHD 1920 x 1080, écran IPS, sans scintillement, Freesync，faible Lumière bleue. DCR（Dynamic Ratio de contraste)：1M：1
 - Design:Le design cadre ultrea slim, le design à micro-tranchant offre plus décran dans moins despace. Idéal pour des configurations daffichages multiples. Le cadre métallique gris anthracite et le design ultra fin font la différence avec cet écran plat.
 - Autres : Taille nette du produit avec support (Lxlxh)：538.7x151.3x401.6 mm;Taille du carton extérieur (Lxlxh)：603x110x430 mm ; Inclinaison : 5° à -15°".
 - Connectivités : HDMI, DP, VGA et sortie audio (sortie écouteurs)
-- Affichage : 24"", résolution FHD 1920 x 1080, écran IPS, sans scintillement, Freesync，faible Lumière bleue. DCR（Dynamic Ratio de contraste)：1M：1
 - Temlps de réponse ：5ms；Taux de rafraichissement ：75Hz；Aspect ration:16:9；Angle de vue：178°/178°；Luminosité：250 cd/m2
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08XBHXRP8/?tag=tolees0d-21)

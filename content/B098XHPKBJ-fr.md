@@ -28,13 +28,13 @@ Vous avez [Krups Nespresso Pixie titane + 34 capsules Nespresso offertes  Machin
 
 ℹ️:
 
+- UN CONCENTRE DE FONCTIONNALITES  dans un design compact
+- UN COUPON PROMO DE 50 CAPSULES OFFERTES pour 50 capsules achetées dans le réseau Nespresso* 
+- 2 TAILLES DE TASSE : Espresso & Lungo
+- PRECHAUFFAGE RAPIDE en 25 secondes
 - Réparabilité 15 ans, Garantie 2 ans
 - CONCEPTION INTUITIVE et DESIGN INDUSTRIEL
-- UN CONCENTRE DE FONCTIONNALITES  dans un design compact
-- PRECHAUFFAGE RAPIDE en 25 secondes
-- 2 TAILLES DE TASSE : Espresso & Lungo
 - ARRET AUTOMATIQUE après 9 min dinutilisation
 - UN COFFRET DECOUVERTE de 14 capsules et 20 capsules de café Nespresso offerts.
-- UN COUPON PROMO DE 50 CAPSULES OFFERTES pour 50 capsules achetées dans le réseau Nespresso* 
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B098XHPKBJ/?tag=tolees0d-21)

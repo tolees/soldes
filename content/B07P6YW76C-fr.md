@@ -29,9 +29,9 @@ Vous avez [Willful Montre Connectée Femmes Homme Bracelet Connecté Cardiofréq
 ℹ️:
 
 - 👉 Cardiofrequencemetre👈 Nouveau capteur FC pour une surveillance plus précise et efficace de la frequence cardiaque, un moniteur FC en temps réel 24 heures avec des statistiques de la fréquence cardiaque en temps réel et un tableau de la frequence cardiaque pour visualiser votre condition physique sur lapplication VeryFitPro.
-- 👉 Etanche IP67👈 Vous pouvez le porter la Bracelet Connecté librement lors de lexercice, en vous lavant les mains, en nageant à la piscine, etc.... répond totalement à vos besoins quotidiens. La Montre Connectée est un assistant de santé parfait, adapté aux femmes, aux homme et aux enfant.
-- 👉 Système Requis 👈 La Smartwatch compatible avec Android 4.4 minimum et iOS 8.1 minimum.
 - 👉 Notification de Message👈 le bracelet connecté vibre pour vous alerter lorsque votre smartphone reçoit un appel telephone, un SMS et des messages (Facebook, Twitter, Instagram, Messenger, etc.) la montre connectée affiche le nom de lappelant et une partie du contenu du message. (Environ 30 caractères)
+- 👉 Etanche IP67👈 Vous pouvez le porter la Bracelet Connecté librement lors de lexercice, en vous lavant les mains, en nageant à la piscine, etc.... répond totalement à vos besoins quotidiens. La Montre Connectée est un assistant de santé parfait, adapté aux femmes, aux homme et aux enfant.
 - 👉 Fonctions de Montre Connectée 👈 Fitness Tracker ( Podometre, Distance, Calories), Cardiofrequencemetre, 14 Modes Sport, Notification de Message ( Appel, SMS, Facebook, Messenger, Twitter,....), Tracker Sommeil & Alarme, Rappel Sédentaire, Contrôle Appareil Photo, Sens du Poignet, Etanche IP67, Bouton Tactile..
+- 👉 Système Requis 👈 La Smartwatch compatible avec Android 4.4 minimum et iOS 8.1 minimum.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P6YW76C/?tag=tolees0d-21)
