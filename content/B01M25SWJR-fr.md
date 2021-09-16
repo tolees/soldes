@@ -29,7 +29,7 @@ C'est en vente [Jedi 563041646 Applique Temis  Métal  Intégré  11 W  Argent  
 ℹ️:
 
 - Couleur du produit: Acier brossé
-- Matériau du produit: Métal
 - Applique Tems Acier
+- Matériau du produit: Métal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M25SWJR/?tag=tolees0d-21)
