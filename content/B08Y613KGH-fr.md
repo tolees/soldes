@@ -28,12 +28,12 @@ C'est en vente [Corsair K55 RGB PRO Clavier Gaming à Membrane Filaire  Rétroé
 
 ℹ️:
 
-- Touches volume et multimédia dédiées : Utilisez-les pour régler vos paramètres audios et commander votre lecture média à la volée sans interrompre votre partie.
 - Rétroéclairage RGB dynamique : Illuminez votre bureau en choisissant parmi les six effets lumineux intégrés, assignez une couleur à chaque zone d’éclairage ou programmez vos propres effets lumineux.
 - Six touches de macro dédiées : Activez les fonctions, raccourcis en un instant avec six touches de macro avec le logiciel CORSAIR iCUE ou utilisez des commandes streaming grâce au logiciel Elgato.
-- Matrice: 111 touches
+- Conception résistante à la poussière et aux éclaboussures : Dotée d’une protection IP42 afin d’éviter que des accidents ne viennent interrompre votre gameplay.
+- Touches volume et multimédia dédiées : Utilisez-les pour régler vos paramètres audios et commander votre lecture média à la volée sans interrompre votre partie.
 - Repose-poignet amovible : Doté d’une surface texturée anti-glissement, le repose-poignet en caoutchouc souple diminue la contrainte sur vos mains pour que vous puissiez jouer confortablement.
 - Touches silencieuses et réactives : Vous offrent un confort de frappe inégalé pendant le travail et le jeu avec une bosse tactile pour des performances de gaming exceptionnelles.
-- Conception résistante à la poussière et aux éclaboussures : Dotée d’une protection IP42 afin d’éviter que des accidents ne viennent interrompre votre gameplay.
+- Matrice: 111 touches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Y613KGH/?tag=tolees0d-21)
