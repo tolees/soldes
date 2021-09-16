@@ -28,10 +28,10 @@ Vous avez [Thomas Earnshaw Montre Automatique ES-8123-11](https://www.amazon.fr/
 
 ℹ️:
 
+- cadran squelette
 - Résistance à leau: 50.0 meters
 - montre automatique
-- acier inoxydable
-- cadran squelette
 - chapel
+- acier inoxydable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QDDZFH4/?tag=tolees0d-21)
