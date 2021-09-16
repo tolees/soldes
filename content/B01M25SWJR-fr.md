@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jedi 563041646 Applique Temis  Métal  In avec 38.18 % rabais '
-date: 2021-09-09 19:30:21
+date: 2021-09-16 18:29:36
 image: 'https://m.media-amazon.com/images/I/314dQGR0vYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Jedi 563041646 Applique Temis  Métal  Intégré  11 W  Argent  
 
 ℹ️:
 
+- Couleur du produit: Acier brossé
 - Matériau du produit: Métal
 - Applique Tems Acier
-- Couleur du produit: Acier brossé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M25SWJR/?tag=tolees0d-21)
