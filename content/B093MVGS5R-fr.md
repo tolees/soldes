@@ -29,9 +29,9 @@ C'est en vente [Bandai Namco Entertainment - Tales of Arise  Playstation 4 ](htt
 ℹ️:
 
 - De laction et des combats époustouflants
-- Découvrez lhistoire des peuples divisés de rena et de dahna
 - Explorez un monde vivant
 - Libérez-vous des chaînes du destin
 - Un monde de nature peint avec le "shader atmosphérique"
+- Découvrez lhistoire des peuples divisés de rena et de dahna
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B093MVGS5R/?tag=tolees0d-21)
