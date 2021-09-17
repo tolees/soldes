@@ -29,9 +29,9 @@ Vous avez [Hugo Boss Watch 1513718](https://www.amazon.fr/dp/B07VFNN2GY/?tag=tol
 ℹ️:
 
 - Résistance à leau 5 ATM
+- Épaisseur du boîtier 11,5mm, Diamètre du boîtier 44 mm
 - Mouvement chronographe / Fonction date
 - Bracelet en caoutchouc blanc
 - Cadran coloris noir
-- Épaisseur du boîtier 11,5mm, Diamètre du boîtier 44 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VFNN2GY/?tag=tolees0d-21)

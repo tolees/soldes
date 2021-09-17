@@ -28,10 +28,10 @@ C'est en vente [Donner Domicile Piano Numérique 88 Touches Pondérées  Action 
 
 ℹ️:
 
-- 🎹[238 TONES EXCELLENTES ET 128 RÉSONANCES DACCORD] Utilisation de la technologie déchantillonnage stéréo dynamique et de la technologie de traitement professionnelle pour reproduire le son riche et naturel du concert. La polyphonie de 128 permet de reproduire au maximum le vrai son de piano et il nest pas facile de perdre le son.
+- 🎹 [SUPPORT DE MEUBLE et TRIPLE PÉDALES] Le piano numérique DEP-20S est livré avec un Support de Meuble dans lemballage. Il possède également des pédales triples sur le support, dont la pédale de sustain, la pédale douce et la pédale supersonique pour assurer la qualité de votre pratique.
 - 🎹[DOUBLE CLAVIER ET PANNEAU DE CONTRÔLE MULTIMÉDIA] Fonction avec un écran LCD rétroéclairé pour afficher clairement les noms des accords, la notation et les tonalités de réglage voulues. Fournit un mode bicolore pour combiner deux voix ensemble, comme le piano et le tambour, inspirant pour faire une nouvelle création. Prise en charge du mode denregistrement MIDI, du lecteur MP3 et de linterface de la pédale de sustain (entrée jack 1/4 ″).
 - 🎹[RESTAURE LA VRAIE TOUCHE DUN GRAND PIANO] Clavier standard de taille standard, avec 88 touches pondérées par marteau. Les touches noir et blanc sont faites de matériaux givrés de haute qualité, avec différents niveaux de sensibilité tactile, sajustent automatiquement avec la force de votre doigt.
+- 🎹[238 TONES EXCELLENTES ET 128 RÉSONANCES DACCORD] Utilisation de la technologie déchantillonnage stéréo dynamique et de la technologie de traitement professionnelle pour reproduire le son riche et naturel du concert. La polyphonie de 128 permet de reproduire au maximum le vrai son de piano et il nest pas facile de perdre le son.
 - 🎹[DEUX HAUT-PARLEURS STÉRÉO PUISSANTS] La sortie stéréo 25 WATT de haute qualité, équipée dune interface audio, connectable à des enceintes colonne plus puissantes, répondra à tous vos besoins, sur scène comme à la maison. Le mode casque vous permet dapprendre à tout moment, nimporte où sans déranger les autres.
-- 🎹 [SUPPORT DE MEUBLE et TRIPLE PÉDALES] Le piano numérique DEP-20S est livré avec un Support de Meuble dans lemballage. Il possède également des pédales triples sur le support, dont la pédale de sustain, la pédale douce et la pédale supersonique pour assurer la qualité de votre pratique.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CV95PBX/?tag=tolees0d-21)

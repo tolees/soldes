@@ -28,10 +28,10 @@ Vous avez [Razer Seiren Mini Ultra-Compact Streaming Microphone](https://www.ama
 
 ℹ️:
 
-- Ultra-compact build
-- Professional Recording Quality
 - Shock Resistant
 - Ultra-precise supercardioid pickup pattern
+- Professional Recording Quality
+- Ultra-compact build
 - Heavy-duty tilting stand
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PADOYP4/?tag=tolees0d-21)
