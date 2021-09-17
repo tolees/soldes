@@ -28,10 +28,10 @@ Vous avez [Listerine Bain de Bouche 6 en 1 Total Care Goût Plus Léger  500ml](
 
 ℹ️:
 
-- Mode demploi: : Particulièrement efficace en utilisation matin et soir en complément du brossage. Verser 20 ml (4 cuillères à café de 5ml) dans un verre, à utiliser en rinçage autour des dents et des gencives pendant 30 secondes, puis recracher.
-- Le plus complet des bains de bouche Listerine : 6 bénéfices en 1
 - Rafraichit lhaleine durablement, combat les bacteries, aide à réduire la plaque dentaire, à maintentir des gencives saines, à renforcer lemail des dents et à garder des dents blanches
+- Mode demploi: : Particulièrement efficace en utilisation matin et soir en complément du brossage. Verser 20 ml (4 cuillères à café de 5ml) dans un verre, à utiliser en rinçage autour des dents et des gencives pendant 30 secondes, puis recracher.
 - Aide à réduire la plaque dentaire, à maintentir des gencives saines, à renforcer lemail des dents et à garder des dents blanches
+- Le plus complet des bains de bouche Listerine : 6 bénéfices en 1
 - Il est conseillé dutiliser le bain de bouche deux fois par jour en complément du brossage / À partir de 12 ans / Ne pas avaler / Lefficacité est cliniquement prouvée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082VVHQZG/?tag=tolees0d-21)

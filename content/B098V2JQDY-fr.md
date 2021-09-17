@@ -29,11 +29,11 @@ Vous avez [HUAWEI MateView GT 34   Moniteur Gaming + FreeBuds Studio Écouteurs 
 ℹ️:
 
 - Un système de double micro à 360°: Avec le système de micro dual** construit à lintérieur du MateView GT, votre voix sera entendu jusquà 4 mètres ** *et à 360°****
-- De nombreuses connectiques et un menu via bouton joystick multidirectionnel : Larrière du moniteur est magnétique et facile à retirer, pour révéler les différents ports : USB Type-C, HDMI, un port Display et un port pour écouteur. Modifiez vos paramètres daffichage pour jouer en utilisant un joystick. Choisissez parmi 8 modes différents dont le mode jeu de stratégie en temps réel (RTS), ou le mode arène de bataille en ligne multi-joueurs (MOBA), et bien dautres
-- Ressentez la force dune immersion totale: Lécran extra-large de 34 pouces remplit votre champ de vision, et lécran incurvé vous apporte une nouvelle expérience visuelle
-- Profitez de loffre exceptionnelle de lancement ! En plus de votre MateView GT, une paire de FreeBuds Studio est offerte
-- Le système dintelligence artificielle augmente la clarté de votre voix, pour que vous ne soyez pas seulement entendu, mais également compris
 - Un écran à haut taux de rafraîchissement: Lécran WQHD 3440 x 1440 du HUAWEI MateView GT a plus de pixels horizontaux que le standard 1440p, pour réellement apporter de la vie aux images, rien que pour vous. Les visuels évoluent de manière fluide avec une latence très faible et un taux de rafraîchissement de 165 Hz*
 - Une barre de son à double haut-parleur, tactile pour vous donner le contrôle : Le double haut-parleur de 5W est intégré dans la base du moniteur et vous permet une écoute de qualité dans nimporte quelle situation. Faites simplement glisser votre doigt pour contrôler le son de votre MateView GT
+- Ressentez la force dune immersion totale: Lécran extra-large de 34 pouces remplit votre champ de vision, et lécran incurvé vous apporte une nouvelle expérience visuelle
+- De nombreuses connectiques et un menu via bouton joystick multidirectionnel : Larrière du moniteur est magnétique et facile à retirer, pour révéler les différents ports : USB Type-C, HDMI, un port Display et un port pour écouteur. Modifiez vos paramètres daffichage pour jouer en utilisant un joystick. Choisissez parmi 8 modes différents dont le mode jeu de stratégie en temps réel (RTS), ou le mode arène de bataille en ligne multi-joueurs (MOBA), et bien dautres
+- Profitez de loffre exceptionnelle de lancement ! En plus de votre MateView GT, une paire de FreeBuds Studio est offerte
+- Le système dintelligence artificielle augmente la clarté de votre voix, pour que vous ne soyez pas seulement entendu, mais également compris
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B098V2JQDY/?tag=tolees0d-21)
