@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'eufy Security eufyCam 2C  caméra de sécu avec 20.00 % rabais '
-date: 2021-09-13 05:55:17
+date: 2021-09-17 06:06:47
 image: 'https://m.media-amazon.com/images/I/31-1wl-3ZnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [eufy Security eufyCam 2C  caméra de sécurité sans Fil supplé
 ℹ️:
 
 - Surveillance HD : Regardez la diffusion en direct et enregistrez des séquences en haute définition 1080p HD pour que vous puissiez voir exactement ce qui se passe dans et autour de votre maison.
-- Prêt pour toutes les conditions météorologiques : Grâce à son indice de protection IP67, la eufyCam 2C est conçue pour résister aux éléments.
+- Les alertes qui comptent : La technologie de détection humaine permet à la caméra de détecter intelligemment la forme du corps et les contours du visage. Vous êtes uniquement alerté lorsquune personne, et non un chat errant, approche.
 - Écran couleur jour et nuit : Visualisez les enregistrements ou les séquences en direct en couleur, même la nuit, pour voir clairement qui est là.
 - 180 jours de vidéo en une charge : Évitez les déplacements fréquents pour recharger la batterie de la caméra et profitez dune autonomie de 180 jours à partir dune seule charge.
-- Les alertes qui comptent : La technologie de détection humaine permet à la caméra de détecter intelligemment la forme du corps et les contours du visage. Vous êtes uniquement alerté lorsquune personne, et non un chat errant, approche.
+- Prêt pour toutes les conditions météorologiques : Grâce à son indice de protection IP67, la eufyCam 2C est conçue pour résister aux éléments.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XCC3GDX/?tag=tolees0d-21)
