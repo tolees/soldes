@@ -28,15 +28,15 @@ C'est en vente [Swiffer Recharges Lingettes Sèches  3x40  120  Lingettes Nettoy
 
 ℹ️:
 
-- 20 recharges (balai vendu séparément)
-- Capacité électrostatique
-- Idéale pour attraper les poils danimaux
-- Conception spéciale pour attirer les poussières et les poils, même sur les joints
-- Attrape-poussière idéal pour les sols en bois, carrelage ou vinyle
-- Tête pivotante à 360º pour accéder aux endroits difficiles daccès (par exemple : sous le lit ou sous le canapé)
-- Existe aussi en lingettes humides swiffer
 - Lingettes épaisses pour balai swiffer
-- Lingette pour balai qui attire et emprisonne la poussière, la saleté et les poils bien mieux quun balai classique
+- Idéale pour attraper les poils danimaux
+- Tête pivotante à 360º pour accéder aux endroits difficiles daccès (par exemple : sous le lit ou sous le canapé)
 - lemballage peut varier
+- Conception spéciale pour attirer les poussières et les poils, même sur les joints
+- Capacité électrostatique
+- Existe aussi en lingettes humides swiffer
+- 20 recharges (balai vendu séparément)
+- Attrape-poussière idéal pour les sols en bois, carrelage ou vinyle
+- Lingette pour balai qui attire et emprisonne la poussière, la saleté et les poils bien mieux quun balai classique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07639RBVJ/?tag=tolees0d-21)
