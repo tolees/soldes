@@ -28,10 +28,10 @@ Vous avez [Razer Huntsman Tournament Edition Optical Gaming Keyboard French Layo
 
 ℹ️:
 
-- Touches en PBT à double injection: Grâce à la double couche de PBT offrant une plus grande résistance, ces touches sont conçues pour conserver leur texture malgré leur utilisation intensive lors de vos entraînements ou de vos compétitions
-- Câble Type-C amovible: Déballez vos affaires, branchez-le, et jouez sans souci lorsque vous passez dun tournoi à un autre. Le loquet de sécurité permet au câble de rester branché en permanence durant vos parties
-- Mémoire intégrée: Soyez prêts à jouer sans attendre grâce à l’activation de jusqu’à 5 configurations de profils depuis la mémoire intégrée, ou à vos paramètres personnalisés enregistrés sur le cloud
 - Forme compacte: Le design compact et sans pavé numérique permet de positionner le clavier et de le déplacer de manière plus facile pour créer la configuration idéale
+- Mémoire intégrée: Soyez prêts à jouer sans attendre grâce à l’activation de jusqu’à 5 configurations de profils depuis la mémoire intégrée, ou à vos paramètres personnalisés enregistrés sur le cloud
 - Touches opto-linéaires Razer: Profitez d’une réponse instantanée grâce à une activation optique de 1,0 mm. Chaque frappe est enregistrée grâce à la lumière, pour que vous ayez un avantage immédiat sur tous vos concurrents
+- Câble Type-C amovible: Déballez vos affaires, branchez-le, et jouez sans souci lorsque vous passez dun tournoi à un autre. Le loquet de sécurité permet au câble de rester branché en permanence durant vos parties
+- Touches en PBT à double injection: Grâce à la double couche de PBT offrant une plus grande résistance, ces touches sont conçues pour conserver leur texture malgré leur utilisation intensive lors de vos entraînements ou de vos compétitions
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CY3WQ2N/?tag=tolees0d-21)

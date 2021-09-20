@@ -28,10 +28,10 @@ C'est en vente [Philips AVENT SCD733/00 Ecoute-bébé DECT  Mode Smart ECO  Ecra
 
 ℹ️:
 
-- Technologie dect : une absence totale dinterférences et une confidentialité absolue
 - Très longue portée : jusquà 330m en extérieur, 50m en intérieur
 - Lunité-parents est dotée dun écran lcd et dun capteur de température
-- Mode smart eco : une consommation dénergie optimisée
+- Technologie dect : une absence totale dinterférences et une confidentialité absolue
 - Jusquà 18 heures dautonomie et un mode veilleuse lumineuse et sonore à 3 niveaux
+- Mode smart eco : une consommation dénergie optimisée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07F2H7F7R/?tag=tolees0d-21)
