@@ -31,7 +31,7 @@ C'est en vente [LEGO Star Wars Y-Wing 75181 Star Wars Jouet](https://www.amazon.
 - Cet ensemble Lego Star Wars convient aux enfants à partir de 14 ans
 - Contient le Gold Leader en tant que mini figurine et les Droïdes R2-BHD comme figurine supplémentaire
 - Présentez le modèle sur le support inclinable avec étiquette dinformation
-- Le centre parfait de toute collection Lego Star Wars
 - Dispose de détails authentiques, dun cockpit de figurines rabattable, de canons à ions rotatifs sur le toit, de patins datterrissage rétractables et de lespace pour les droïdes Astromech, R2-BHD inclus dans le kit
+- Le centre parfait de toute collection Lego Star Wars
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BLGCXZZ/?tag=tolees0d-21)
