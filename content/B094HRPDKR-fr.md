@@ -28,10 +28,10 @@ Vous avez [Séga - Lost Judgement](https://www.amazon.fr/dp/B094HRPDKR/?tag=tole
 
 ℹ️:
 
-- Menez des enquêtes trépidantes: yagami étend son arsenal de détective grce à de nouveaux gadgets, de nouvelles techniques de filature et des méthodes dinfiltration toujours plus ingénieuses.
-- Les différentes formes darts martiaux que maîtrise yagami lui permettent tout aussi bien de se sortir dembuscades tendues par un groupe dennemis que de combats singuliers.
-- Entre ordre et chaos: dans lost judgment, incarnez une nouvelle fois takayuki yagami, un ancien avocat devenu détective qui nhésite jamais à en découdre.
 - Langues: doublage japonais/ anglais, textes français
+- Les différentes formes darts martiaux que maîtrise yagami lui permettent tout aussi bien de se sortir dembuscades tendues par un groupe dennemis que de combats singuliers.
+- Menez des enquêtes trépidantes: yagami étend son arsenal de détective grce à de nouveaux gadgets, de nouvelles techniques de filature et des méthodes dinfiltration toujours plus ingénieuses.
 - Plongez dans un environnement exceptionnel
+- Entre ordre et chaos: dans lost judgment, incarnez une nouvelle fois takayuki yagami, un ancien avocat devenu détective qui nhésite jamais à en découdre.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B094HRPDKR/?tag=tolees0d-21)
