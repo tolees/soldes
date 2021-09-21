@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.37 % rabais sur Crucial Ballistix BL2K16G32C16U4B 3200 M'
-date: 2021-09-20 12:01:56
+date: 2021-09-21 16:12:51
 image: 'https://m.media-amazon.com/images/I/31vQ6DgPP0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Crucial Ballistix BL2K16G32C16U4B 3200 MHz  DDR4  DRAM  Mémoire Kit 
 
 ℹ️:
 
-- Conçue pour les dernières plateformes AMD et Intel
 - Idéale pour les gamers et les amateurs de performance
 - Dissipateur thermique moderne en aluminium disponible en trois coloris pour s’accorder à votre machine ou à votre style
 - Prise en charge XMP 2.0 pour un overclocking automatique, ou aux vitesses JEDEC standard
+- Conçue pour les dernières plateformes AMD et Intel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083TSLDF2/?tag=tolees0d-21)
