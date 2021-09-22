@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Delson 3005R Piano à queue pour enfant R avec 41.18 % rabais '
-date: 2021-09-13 15:03:22
+date: 2021-09-22 09:28:27
 image: 'https://m.media-amazon.com/images/I/31Wjd71wTpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Delson 3005R Piano à queue pour enfant Rouge](https://www.amazo
 
 ℹ️:
 
-- Poids: 9 kg
-- Piano à queue enfant 30 touches
-- Accord chromatique
 - dimension : 51 x 49 x 47 cm
 - Bois massif
+- Accord chromatique
+- Poids: 9 kg
+- Piano à queue enfant 30 touches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002E9YTYS/?tag=tolees0d-21)
