@@ -29,9 +29,9 @@ Vous avez [Exacompta - Réf. 18534E - 1 Exatrolley - Trolley Exactive pour PC ju
 ℹ️:
 
 - Couleur : noir
-- Avec 4 compartiments séparés pour ranger ordinateur, dossiers, vêtements et accessoires.
-- Trolley à roulettes avec poignée téléscopique.
 - Possibilité de recharger un téléphone ou une tablette grâce au port USB intégré (câble et chargeur non fournis)
 - Compatible bagage à main pour la plupart des compagnies aériennes. Le compartiment ordinateur peut être sécurisé grâce au cadenas à combinaison TSA.
+- Avec 4 compartiments séparés pour ranger ordinateur, dossiers, vêtements et accessoires.
+- Trolley à roulettes avec poignée téléscopique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MGU88HE/?tag=tolees0d-21)
