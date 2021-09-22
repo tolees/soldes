@@ -28,10 +28,10 @@ C'est en vente [Cuisinart CPT180PIE Toaster 4 tranches  rose vintage](https://ww
 
 ℹ️:
 
-- 6 niveaux de brunissage
 - Levier, permet une remontée maximale pour retirer les tranches les plus petites
-- Dispositif de centrage de la tranche de pain pour un résultat homogène
-- Fonction Bagel, Décongélation, Réchauffage et Annulation
 - Tiroir ramasse-miettes
+- Fonction Bagel, Décongélation, Réchauffage et Annulation
+- Dispositif de centrage de la tranche de pain pour un résultat homogène
+- 6 niveaux de brunissage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0924S3KXP/?tag=tolees0d-21)
