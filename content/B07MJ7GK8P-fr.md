@@ -28,8 +28,8 @@ Vous avez [Sweet Alice 001684 Confiturier  1000 W  3 liters](https://www.amazon.
 
 ℹ️:
 
-- 3. puissance & grande capacité le récipient possède une capacité de 3 litres allié à une puissance de 1000w pour réussir efficacement tous types de confitures et gelées.
 - 5. votre satisfaction 100% garantie nos appareils sweet alice, sont entièrement garantis 2 ans. soyez 100% satisfait ou remboursé pendant 14 jours. la satisfaction de nos clients est notre première priorité ! alors n’hésitez plus et ajoutez le à votre panier dès maintenant :)
+- 3. puissance & grande capacité le récipient possède une capacité de 3 litres allié à une puissance de 1000w pour réussir efficacement tous types de confitures et gelées.
 - 1. mangez des confitures plus saines préparez-vous de délicieuses confitures maison, saines, équilibrées et bio. fini les confitures trop grasses, trop sucrées et préférez les sans additifs !
 - 4. une ergonomie facile & efficace lappareil est très facile dutilisation, 2 touches vous permettent de régler les paramètres. il dispose dun minuteur et dun écran digital. suivez le temps restant directement sur lappareil.
 - 2. le seul appareil a confiture automatique du marché faites vos confitures et gelées automatiquement en 30 minutes chrono ! ne vous prenez plus la tête, lappareil fait tout pour vous en 1/2 heure. lappareil est livré avec une notice dutilisation et un livre de recettes qui vous guidera dans votre réalisation.

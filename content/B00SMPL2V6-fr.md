@@ -28,10 +28,10 @@ Vous avez [Olympus V316020BE000 Objectif pour Appareil photo reflex 40-150 mm No
 
 ℹ️:
 
-- Ouverture focale minimum :14
-- unknown_modifier
-- Ouverture focale maximum :150
 - Stabilisation dimage :Y
+- Ouverture focale maximum :150
+- unknown_modifier
 - Olympus
+- Ouverture focale minimum :14
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00SMPL2V6/?tag=tolees0d-21)
