@@ -29,8 +29,8 @@ C'est en vente [TEXAS INSTRUMENTS TI-83 Premium CE Edition Python – Calculatri
 ℹ️:
 
 - Mode examen intégré (obligatoire lycée général, professionnel et BTS)
-- Mises à jour gratuites et régulières pour bénéficier de nouvelles fonctionnalités
-- Programmation en Python intégrée avec coloration syntaxique pour une saisie facilitée des programmes
 - Ecran couleur haute résolution et batterie rechargeable
+- Programmation en Python intégrée avec coloration syntaxique pour une saisie facilitée des programmes
+- Mises à jour gratuites et régulières pour bénéficier de nouvelles fonctionnalités
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PKDCR41/?tag=tolees0d-21)
