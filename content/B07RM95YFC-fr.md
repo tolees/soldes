@@ -28,12 +28,12 @@ C'est en vente [TP-Link Box 4G  Routeur 4G LTE 150Mbps Wifi N 300Mbps  2 x SMA p
 
 ℹ️:
 
-- ANTENNES 4G AMOVIBLES - Profitez de connexions stables et fiable grâce aux 2 antennes 4G externes, Modem 4G TL-MR6400 possède 2 connecteurs SMA pour le branchement d’antennes externes 4G
-- MODEM 4G HAUT DEBIT - Partagez votre réseau 4G LTE jusquà 150 Mbps pour connecter plusieurs appareils WiFi, Créez un réseau WiFi à la maison jusquà 300 Mbps sur la bande 2.4 GHz, Le routeur 4G TL-MR6400 est destiné à ceux qui disposent d’un faible débit ADSL et d’une bonne couverture 4G
 - NOUVELLE VERSION ROUTEUR 4G TL-MR6400 - Design dantennes amovibles pour répondre à la nécessité de certains utilisateurs de remplacer les antennes, Nouveau routeur 4G améliore la stabilité de WiFi et corrige certains bug du Firmware
-- 4 PORTS ETHERNET - Fournissent des connexions filaires haut débit pour connecter un périphérique câblé tels que les consoles de jeux, un téléviseur ou un lecteur de streaming
 - INSEREZ UNE CARTE SIM ET JOUEZ - Emplacement de carte SIM de type Micro SIM, Compatible avec Orange, SFR, Bouygues Telecom, Free mobile, Non compatible avec les abonnements 4G Home Flybox Orange (lopérateur interdit lusage dun autre routeur)
+- 4 PORTS ETHERNET - Fournissent des connexions filaires haut débit pour connecter un périphérique câblé tels que les consoles de jeux, un téléviseur ou un lecteur de streaming
 - MODE ROUTEUR WIFI -Branchez un câble Ethernet sur le port LAN/ WAN pour un accès Internet flexible, fonctionne comme une sauvegarde de connexion WAN disponible, si vous ne pouvez pas obtenir une connexion 4G
+- MODEM 4G HAUT DEBIT - Partagez votre réseau 4G LTE jusquà 150 Mbps pour connecter plusieurs appareils WiFi, Créez un réseau WiFi à la maison jusquà 300 Mbps sur la bande 2.4 GHz, Le routeur 4G TL-MR6400 est destiné à ceux qui disposent d’un faible débit ADSL et d’une bonne couverture 4G
 - INSTALLATION FACILE - Aucune configuration requise, la compatibilité des cartes SIM dans plus de 100 pays est assurée par des années de tests sur le terrain
+- ANTENNES 4G AMOVIBLES - Profitez de connexions stables et fiable grâce aux 2 antennes 4G externes, Modem 4G TL-MR6400 possède 2 connecteurs SMA pour le branchement d’antennes externes 4G
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RM95YFC/?tag=tolees0d-21)
