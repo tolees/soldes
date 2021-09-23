@@ -28,10 +28,10 @@ Vous avez [MSI Optix MPG341CQR 86 4 cm  34"  3440 x 1440 Pixels UltraWide Quad H
 
 ℹ️:
 
-- MSI Optix MPG341CQR-009 Écran LED Ultra Large incurvé 21:9 UWQHD (3440 x 1440), 1 ms, 144 Hz, Steelseries Gamesense, HDR 400, Freesync Noir 86,36 cm (34")
+- Grâce à ses fonctionnalités KI uniques, lécran ajuste la luminosité à lenvironnement et détecte qui est assis devant lordinateur et charge le profil utilisateur approprié grâce à une caméra intégrée
 - MSI Curved Gaming - La courbure 1800R de lécran permet aux joueurs de plonger au cœur de laction
 - Pour les professionnels et les streamers - Avec support webcam intégré et cordon de souris
-- Grâce à ses fonctionnalités KI uniques, lécran ajuste la luminosité à lenvironnement et détecte qui est assis devant lordinateur et charge le profil utilisateur approprié grâce à une caméra intégrée
+- MSI Optix MPG341CQR-009 Écran LED Ultra Large incurvé 21:9 UWQHD (3440 x 1440), 1 ms, 144 Hz, Steelseries Gamesense, HDR 400, Freesync Noir 86,36 cm (34")
 - Léclairage LED RVB à lavant attire tous les regards et peut également fournir des informations avancées sur le jeu grâce à la fonction SteelSeries GameSense
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YCVMWV6/?tag=tolees0d-21)
