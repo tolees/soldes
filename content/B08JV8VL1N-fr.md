@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'yeedi 2 hybrid Aspirateur Robot  Aspirat avec 15.00 % rabais '
-date: 2021-09-21 06:07:34
+date: 2021-09-23 06:05:55
 image: 'https://m.media-amazon.com/images/I/414mNKUmjoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [yeedi 2 hybrid Aspirateur Robot  Aspirateur et Laveur 2 EN 1  25
 
 ℹ️:
 
-- 【Nettoyage à la carte】Divers réglages disponibles : Programmes de nettoyage, Limite virtuelle, Nettoyage de zone et Nettoyage personnalisé Il vous suffit dindiquer à votre robot via votre smartphone où, quand et comment effectuer le nettoyage
-- 【Couverture de nettoyage intégrale】Optimisée par la technologie SLAM visuel*, la navigation intelligente permet au robot aspirateur yeedi de mémoriser lagencement de vos pièces et de créer un itinéraire logique pour nettoyer en profondeur tout un étage de votre logement. Bien plus efficace que les robots munis dun gyroscope, qui fonctionnent de manière aléatoire
-- 【Aspiration et lavage des sols simultanés】Un système daspiration amélioré pouvant atteindre 2 500 Pa permet déliminer la saleté, les débris et les poils danimaux dans les moindres recoins. Le système de lavage des sols intelligent avec réservoir électrique de 240 ml sattaque simultanément aux taches tenaces. Le robot passe laspirateur et la serpillière simultanément pour des sols impeccables
 - 【Contenu de lemballage】 Robot aspirateur hybride yeedi 2 ×1, station de recharge avec adaptateur secteur ×1, brosse latérale ×2, brosse principale multi-surfaces ×1, lingette réutilisable ×1 , lingette jetable ×5, outil de nettoyage multifonctions ×1, filtre haute efficacité ×1, mode demploi ×1, garantie 24 mois sans soucis
+- 【Couverture de nettoyage intégrale】Optimisée par la technologie SLAM visuel*, la navigation intelligente permet au robot aspirateur yeedi de mémoriser lagencement de vos pièces et de créer un itinéraire logique pour nettoyer en profondeur tout un étage de votre logement. Bien plus efficace que les robots munis dun gyroscope, qui fonctionnent de manière aléatoire
 - 【200 min Nettoyage sans interruption 】Puissance Grâce à une batterie haute capacité de 5 200 mAh, le robot hybride yeedi 2 fonctionne pendant 200 min par charge, et reprend intelligemment là où il sest arrêté pour se recharger afin dassurer un nettoyage complet
+- 【Aspiration et lavage des sols simultanés】Un système daspiration amélioré pouvant atteindre 2 500 Pa permet déliminer la saleté, les débris et les poils danimaux dans les moindres recoins. Le système de lavage des sols intelligent avec réservoir électrique de 240 ml sattaque simultanément aux taches tenaces. Le robot passe laspirateur et la serpillière simultanément pour des sols impeccables
+- 【Nettoyage à la carte】Divers réglages disponibles : Programmes de nettoyage, Limite virtuelle, Nettoyage de zone et Nettoyage personnalisé Il vous suffit dindiquer à votre robot via votre smartphone où, quand et comment effectuer le nettoyage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JV8VL1N/?tag=tolees0d-21)
