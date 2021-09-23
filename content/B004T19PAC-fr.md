@@ -28,10 +28,10 @@ C'est en vente [BED HEAD by TIGI - Tigi Bed Head - Shampoing Réparateur - Urban
 
 ℹ️:
 
+- Ce shampooing nettoyant en profondeur aide à réparer les dommages extérieurs des cheveux et à les fortifier
+- Hydrate et nourrit les cheveux abîmés
+- Le shampooing Bed Head by Tigi Urban Antidotes Resurrection Conditioner est idéal pour soigner les cheveux abîmés, et il est sans danger pour la couleur
 - Redonne souplesse et vitalité aux cheveux
 - Shampooing professionnel pour réparation des cheveux abîmés
-- Le shampooing Bed Head by Tigi Urban Antidotes Resurrection Conditioner est idéal pour soigner les cheveux abîmés, et il est sans danger pour la couleur
-- Hydrate et nourrit les cheveux abîmés
-- Ce shampooing nettoyant en profondeur aide à réparer les dommages extérieurs des cheveux et à les fortifier
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004T19PAC/?tag=tolees0d-21)

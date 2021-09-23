@@ -28,9 +28,9 @@ Vous avez [Leifheit Set Clean Twist System M  lave-sol avec molleton ultra doux 
 
 ℹ️:
 
+- Emballage – Leifheit Set Clean Twist System M, outil de ménage avec essorage extra efficace, manche à balai réglable et dosage du degré dhumidité de la serpillère, numéro darticle : 52014
 - Pratique – Ce panier essoreur contient un mécanisme dessorage intégré directement sur le manche, permettant dessorer le balai sans se mouiller les mains
 - Manche extensible – Cet outil de nettoyage Leifheit possède un manche extensible de 110 à 130 cm qui permet dobtenir une hauteur de travail optimale, pour un nettoyage sans mal de dos
-- Emballage – Leifheit Set Clean Twist System M, outil de ménage avec essorage extra efficace, manche à balai réglable et dosage du degré dhumidité de la serpillère, numéro darticle : 52014
 - Surfaces délicates – Ce kit de nettoyage est parfaitement adapté pour les sols délicats comme le parquet et le stratifié évitant ainsi le risque de rayures ou de taches
 - Adaptable – Grâce à la fonction pratique du frein du mécanisme rotatif, le seau en plastique permet de doser le degré d’humidité de la housse selon le sol à nettoyer
 

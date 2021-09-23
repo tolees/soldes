@@ -28,9 +28,9 @@ Vous avez [Dop DOP Shampooing Très Doux à l Avocat 400.0 ml](https://www.amazo
 
 ℹ️:
 
-- Appliquer sur cheveux humides, faire mousser puis rincer abondamment
 - Lavocat est lingrédient incontournable pour prendre soin des cheveux abîmés il est riche en oméga 6 et acides gras essentiels très nutritifs connus pour préserver les cheveux du dessèchement
 - Résultat : les cheveux sont plus souples et doux au toucher
+- Appliquer sur cheveux humides, faire mousser puis rincer abondamment
 - Shampooing très doux à lavocat pour nourrir et protéger les cheveux abimés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N362BMH/?tag=tolees0d-21)
