@@ -28,10 +28,10 @@ C'est en vente [adidas Tapis de Fitness Mixte Adulte  Gris  7mm](https://www.ama
 
 ℹ️:
 
+- Amortissement doux de 7mm dépaisseur
 - Dimensions: 173 (l) x 61 (l)
 - Fond rainuré aide à adhérer au sol et à réduire les mouvements
-- Fabriqué à partir de NBR
-- Amortissement doux de 7mm dépaisseur
 - Facile à laver et à nettoyer
+- Fabriqué à partir de NBR
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078WZ13GP/?tag=tolees0d-21)
