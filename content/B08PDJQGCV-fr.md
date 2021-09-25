@@ -28,7 +28,7 @@ Vous avez [Levi s O.g Batwing Polo  Faded Bright White  XXL Homme](https://www.a
 
 ℹ️:
 
-- Dimensions de lemballage : 4,7 x 28,3 x 17,4 W
 - standard
+- Dimensions de lemballage : 4,7 x 28,3 x 17,4 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PDJQGCV/?tag=tolees0d-21)
