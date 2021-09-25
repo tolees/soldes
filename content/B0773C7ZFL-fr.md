@@ -28,10 +28,10 @@ C'est en vente [Gillette Mach3 Lames de Rasoir Homme  Pack de 18 Lames de Rechar
 
 ℹ️:
 
-- Les rasoirs pour homme Gillette sont dotés de lames plus résistantes que l’acier, qui restent affûtées plus longtemps (par rapport au Sensor3)
-- La bande lubrifiante protège votre peau des rougeurs
 - Chaque lame de rasoir est conçue pour procurer 15 rasages confortables
 - Le garde-confort innovant tend votre peau, pour préparer le poil à la coupe
+- La bande lubrifiante protège votre peau des rougeurs
+- Les rasoirs pour homme Gillette sont dotés de lames plus résistantes que l’acier, qui restent affûtées plus longtemps (par rapport au Sensor3)
 - Compatibles avec tous les manches de rasoir Mach3
 - La lame de rasoir présente des lames plus affûtées (les 2 premières lames par rapport au Sensor3)
 

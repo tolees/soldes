@@ -28,13 +28,13 @@ C'est en vente [Amazon - Echo Flex + Philips Hue White Pack de 2 ampoules LED co
 
 ℹ️:
 
-- Pour les clients Philips Hue existants : bien que cette lumière connectée soit compatible avec Bluetooth, elle continuera de fonctionner avec votre hub Hue et sintégrera harmonieusement à votre écosystème Hue. Continuez déclairer votre maison intelligemment avec Philips Hue.
-- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à vos questions, lire les nouvelles, consulter la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
-- Configuration simple : connectez facilement les ampoules connectées Philips Hue à votre appareil Echo via Bluetooth, aucun hub nest requis. Allumez lampoule et dites : « Alexa, découvre des appareils ».
-- Contrôle vocal mains-libres : créez une ambiance relaxante avant de dormir, sans avoir à toucher à votre téléphone. Dites simplement : « Alexa, tamise les lumières ». Vous cuisinez et avez les mains pleines ? Demandez simplement à Alexa daugmenter la luminosité pour mieux voir votre recette.
-- Cette offre groupée inclut un Echo Flex et un pack de 2 ampoules connectées Philips Hue White : tout ce dont vous avez besoin pour commencer votre maison connectée
 - Ajoutez lintelligence dAlexa à nimporte quel espace de la maison : cette enceinte connectée avec prise intégrée vous permet dutiliser Alexa dans plus dendroits à la maison.
 - 2 options pour un éclairage connecté simple : commencez à configurer votre éclairage connecté avec les ampoules connectées Hue et votre appareil Echo. Lappareil prend en charge jusquà 5 ampoules connectées Hue compatibles avec Bluetooth. Ajoutez un hub Hue pour obtenir un éclairage connecté intégral (jusquà 50 lumières), augmenter la portée et obtenir dautres fonctionnalités.
+- Configuration simple : connectez facilement les ampoules connectées Philips Hue à votre appareil Echo via Bluetooth, aucun hub nest requis. Allumez lampoule et dites : « Alexa, découvre des appareils ».
+- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à vos questions, lire les nouvelles, consulter la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
 - Mieux avec Alexa : connectez vos ampoules connectées Philips Hue à Alexa pour un contrôle vocal facile. Demandez simplement : « Alexa, allume la lumière du salon ».
+- Pour les clients Philips Hue existants : bien que cette lumière connectée soit compatible avec Bluetooth, elle continuera de fonctionner avec votre hub Hue et sintégrera harmonieusement à votre écosystème Hue. Continuez déclairer votre maison intelligemment avec Philips Hue.
+- Cette offre groupée inclut un Echo Flex et un pack de 2 ampoules connectées Philips Hue White : tout ce dont vous avez besoin pour commencer votre maison connectée
+- Contrôle vocal mains-libres : créez une ambiance relaxante avant de dormir, sans avoir à toucher à votre téléphone. Dites simplement : « Alexa, tamise les lumières ». Vous cuisinez et avez les mains pleines ? Demandez simplement à Alexa daugmenter la luminosité pour mieux voir votre recette.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08125LLPZ/?tag=tolees0d-21)

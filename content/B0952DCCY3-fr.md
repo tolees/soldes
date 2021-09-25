@@ -28,10 +28,10 @@ C'est en vente [Gillette Sensor3 Comfort Rasoirs Jetables Homme Bande Lubrastrip
 
 ℹ️:
 
-- Rasoir jetable avec 3 lames qui détectent la peau pour un rasage confortable
-- Manche en caoutchouc antidérapant pour une bonne prise en main
 - Tête pivotante à 40° qui épouse les contours de votre visage
-- Jusqu’à 10 rasages confortables par rasoir
 - La bande Lubrastrip améliorée avec technologie comfortgel qui s’active au contact de l’eau pour un confort ultime
+- Manche en caoutchouc antidérapant pour une bonne prise en main
+- Jusqu’à 10 rasages confortables par rasoir
+- Rasoir jetable avec 3 lames qui détectent la peau pour un rasage confortable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0952DCCY3/?tag=tolees0d-21)
