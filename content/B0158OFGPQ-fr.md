@@ -28,13 +28,13 @@ Vous avez [MASTER LOCK Mallette de sécurité Anti Feu [Ignifuge et Etanche] [Se
 
 ℹ️:
 
-- Sécurité : verrouillage à clé pour assurer la confidentialité du contenu et empêcher le caisson Ignifuge de souvrir sous leffet de la chaleur (deux clés incluses)
-- Ignifuge : homologué UL/ETL - assure une résistance au feu de 30 minutes pour les documents, papiers officiels et supports numériques (CD, clé USB, disques durs), jusquà 843°C
-- Avertissement : la propriété anti-feu du coffre est assurée par un remplissage des parois au ciment, il nest pas rare que lors du transport un peu de poussière non toxique apparaisse dans le coffre
 - Transportable : design discret avec poignée intégrée pour permettre le transport de la mallette de sécurité. Se dissimule dans une armoire ou tiroir
 - Étanche : homologué ETL - assure une protection des documents et des objets de valeur en cas dimmersion sous leau
-- Caractéristiques (H x L x P) : dimensions intérieures 11,2 x 32,5 x 21,6 cm ; dimensions extérieures 16,8 x 39,1 x 36,3 cm
 - Application du coffre : la caisse garantit la protection de vos objets de valeur (passeport, documents A4, petits électroniques, bijoux) contre les risques dincendie, dinondation et de vol
+- Avertissement : la propriété anti-feu du coffre est assurée par un remplissage des parois au ciment, il nest pas rare que lors du transport un peu de poussière non toxique apparaisse dans le coffre
+- Caractéristiques (H x L x P) : dimensions intérieures 11,2 x 32,5 x 21,6 cm ; dimensions extérieures 16,8 x 39,1 x 36,3 cm
+- Ignifuge : homologué UL/ETL - assure une résistance au feu de 30 minutes pour les documents, papiers officiels et supports numériques (CD, clé USB, disques durs), jusquà 843°C
 - Garanties : garantie de remplacement à vie après un incendie + garantie 2 ans limitée
+- Sécurité : verrouillage à clé pour assurer la confidentialité du contenu et empêcher le caisson Ignifuge de souvrir sous leffet de la chaleur (deux clés incluses)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0158OFGPQ/?tag=tolees0d-21)
