@@ -29,8 +29,8 @@ C'est en vente [KETER Abri horizontal range poubelle SIO MAX - 1200 litres](http
 ℹ️:
 
 - Dimensions extérieures assemblées : 145,5 cm x 82 cm x 125 cm (L xlx H), dimensions intérieures : 132 cm x 76 cm x 110 cm (L xlxh)
-- Ressorts à gaz pour soulever le couvercle, les étagères, la surface inférieure
-- Fait de plastique de haute qualité
 - Ouverture pour les poubelles intégrées
+- Fait de plastique de haute qualité
+- Ressorts à gaz pour soulever le couvercle, les étagères, la surface inférieure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00H27JWLW/?tag=tolees0d-21)
