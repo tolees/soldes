@@ -28,10 +28,10 @@ C'est en vente [Cayenne 49699 Radiateur à inertie Céramique LCD 1500W  Blanc](
 
 ℹ️:
 
-- Réglage de la température de 13°C a? 30°C
 - Mise à l’heure automatique ou manuelle
 - Fil pilotes 6 ordres. Sécurité thermique à réarmement automatique. Fixation murale verrouillable. Coloris : Blanc
-- Fonctions : Arrêt, Hors gel, Confort, Programmation hebdomadaire, Consommation, Écopilote, Écocitoyen, Absence prolongée, Verrouillage parental, Détection de fenêtre ouverte
+- Réglage de la température de 13°C a? 30°C
 - Programmation : 4 programmes intégrés Ecopilote non modi ables et a? accès direct (matin, soir, matin et soir, du matin au soir) + Programmation hebdomadaire (7 programmes personnalisables)
+- Fonctions : Arrêt, Hors gel, Confort, Programmation hebdomadaire, Consommation, Écopilote, Écocitoyen, Absence prolongée, Verrouillage parental, Détection de fenêtre ouverte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XXBPGS1/?tag=tolees0d-21)
