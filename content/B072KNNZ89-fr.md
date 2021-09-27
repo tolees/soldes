@@ -28,11 +28,11 @@ C'est en vente [El Naturalista Stella  Sandales Bride Cheville Femme  Noir  Blac
 
 ℹ️:
 
-- Matériau de semelle : caoutchouc
-- Doublure : cuir
 - Type de talons : plat
 - Semelle intérieure : fourrure
-- Dessus : cuir
 - Fermeture : boucle
+- Matériau de semelle : caoutchouc
+- Doublure : cuir
+- Dessus : cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072KNNZ89/?tag=tolees0d-21)

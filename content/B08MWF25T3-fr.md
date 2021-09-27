@@ -28,14 +28,14 @@ C'est en vente [MSI MPG A850GF unité d alimentation d énergie 850 W 24-pin ATX
 
 ℹ️:
 
-- Supports the NVIDIA GeForce RTX 30 Series GPUs
-- MSI MPG A850GF
-- Full modular cable design
+- 100% all Japanese 105oC capacitor
 - Flat cable equipment
-- 80 Plus Gold certified for high efficiency
+- MSI MPG A850GF
 - Active PFC design
 - Industrial level protection with OVP,OCP,OPP,OTP, SCP,UVP
-- 100% all Japanese 105oC capacitor
+- Supports the NVIDIA GeForce RTX 30 Series GPUs
 - LLC Half Bridge Topology with DC-DC module design
+- Full modular cable design
+- 80 Plus Gold certified for high efficiency
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MWF25T3/?tag=tolees0d-21)

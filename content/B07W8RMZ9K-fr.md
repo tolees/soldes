@@ -29,11 +29,11 @@ C'est en vente [Samsung - Montre Galaxy Watch Active 2 Bluetooth - Aluminium 44 
 ℹ️:
 
 - Capacité de la batterie: 340mAh
-- Fine 10,9 mm
 - Certification IP68
-- Lunette rotative numérique
+- Fine 10,9 mm
 - Grand écran aux bords fins
-- Durabilité : 5ATM et IP68, MIL-STD-810G
+- Lunette rotative numérique
 - Fonctions bien-être & sport avancées
+- Durabilité : 5ATM et IP68, MIL-STD-810G
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W8RMZ9K/?tag=tolees0d-21)

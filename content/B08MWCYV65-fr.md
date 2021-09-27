@@ -28,14 +28,14 @@ C'est en vente [MSI MPG A750GF unité d alimentation d énergie 750 W 24-pin ATX
 
 ℹ️:
 
-- Protection OVP, OCP, OPP, OTP, SCP, UVP de niveau industriel
-- Support des cartes graphiques AMD
-- Certification 80 Plus Gold
-- Topologie LLC Half Bridge avec design modulaire DC-DC
-- Condensateurs 105° C fabriqués au Japon
 - Design totalement modulaire
 - Correction active du facteur de puissance
-- Support des cartes graphiques NVIDIA GeForce RTX 30
 - Câbles plats
+- Support des cartes graphiques NVIDIA GeForce RTX 30
+- Support des cartes graphiques AMD
+- Protection OVP, OCP, OPP, OTP, SCP, UVP de niveau industriel
+- Topologie LLC Half Bridge avec design modulaire DC-DC
+- Certification 80 Plus Gold
+- Condensateurs 105° C fabriqués au Japon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MWCYV65/?tag=tolees0d-21)

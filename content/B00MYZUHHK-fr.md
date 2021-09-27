@@ -28,7 +28,7 @@ Vous avez [Lacoste XH7611 Pantalon de Sport  Argent Chine  3XL Homme](https://ww
 
 ℹ️:
 
-- 83% Coton, 17% Polyester
 - Sport
+- 83% Coton, 17% Polyester
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MYZUHHK/?tag=tolees0d-21)
