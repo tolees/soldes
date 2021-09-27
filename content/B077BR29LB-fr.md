@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KNIPEX Boîtiers d assortiment avec embou avec 25.00 % rabais '
-date: 2021-09-26 09:16:25
+date: 2021-09-27 09:35:41
 image: 'https://m.media-amazon.com/images/I/51cxZlZeOeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [KNIPEX Boîtiers d assortiment avec embouts de câble jumelés 9
 
 ℹ️:
 
-- Boîtier distributeur pratique, empilable et refermable
+- Couvercle rotatif avec ouverture pour le prélèvement des différents embouts de câble
 - Boîtier distributeur maniable, transparent
+- Boîtier distributeur pratique, empilable et refermable
 - Format : Ø 90 mm, hauteur 44 mm
 - Avec embouts isolés selon le code couleur DIN
-- Couvercle rotatif avec ouverture pour le prélèvement des différents embouts de câble
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077BR29LB/?tag=tolees0d-21)
