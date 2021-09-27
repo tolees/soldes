@@ -29,9 +29,9 @@ Vous avez [Lestes de la gamme “Reebok Women s Training”  vendu par paire  Fe
 ℹ️:
 
 - Idéal pour ajouter du poids supplémentaire à votre entraînement
-- Fermeture à crochet et boucle facilement réglable
-- Aussi disponible en 0.5Kg, 1Kg et 1.5Kg (vendu séparément)
-- Lestes de la gamme “Reebok Womens Training”, vendu par pair
 - Circonférence réglable: minimum 17cm - maximum 27cm
+- Lestes de la gamme “Reebok Womens Training”, vendu par pair
+- Aussi disponible en 0.5Kg, 1Kg et 1.5Kg (vendu séparément)
+- Fermeture à crochet et boucle facilement réglable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014KPM4IQ/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ Vous avez [Philips GC4564/20 Fer Vapeur Azur effet pressing jusqu à 240g](https
 
 ℹ️:
 
-- Semelle Steamglide Advanced : répartition optimale de la vapeur sur toute la semelle, glisse facile et résistance aux rayures
 - Fonction de détartrage Quick Calc Release en 15 secondes pour une longue durée de vie
+- Semelle Steamglide Advanced : répartition optimale de la vapeur sur toute la semelle, glisse facile et résistance aux rayures
 - Pénètre au cœur des fibres avec une vapeur continue de 50g/min un effet pressing jusquà 240g
 - Fonction arrêt automatique lorsque le fer nest pas utilisé
 - 2600W pour une montée en température rapide et de hautes performances

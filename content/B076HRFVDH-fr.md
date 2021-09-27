@@ -28,10 +28,10 @@ Vous avez [adidas - Core18 PES Jacket - Veste de survêtement - Mixte Enfant - R
 
 ℹ️:
 
-- Poignets et ourlet; Contraste liseré de couleur sur les manches
-- zip complet et col debout
-- logo Adidas sur la poitrine Badge du sport
-- Poches avant; manches raglan
 - Coupe régulière plus large à la taille; silhouette droite
+- Poches avant; manches raglan
+- Poignets et ourlet; Contraste liseré de couleur sur les manches
+- logo Adidas sur la poitrine Badge du sport
+- zip complet et col debout
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076HRFVDH/?tag=tolees0d-21)
