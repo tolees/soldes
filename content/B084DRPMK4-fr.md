@@ -28,10 +28,10 @@ Vous avez [Lékué 301050 Mug  350 milliliters](https://www.amazon.fr/dp/B084DRP
 
 ℹ️:
 
-- Hermétique. Cette tasse est hermétique pour assurer un transport sûr.
 - Peut être lavé. Le mug To Go se replie rapidement sur un petit disque que vous pouvez ranger nimporte où. Parfait pour un rythme de vie on-the-go
 - Pour gaucher et droitiers. Vous pouvez choisir la position de lembouchure par rapport à la poignée.
-- Réutilisable. Ce produit peut être utilisé autant que vous le souhaitez.
 - Lalternative aux tasses à usage unique. 1 million de tasses jetables arrivent dans les décharges chaque minute. Utilisez le mug To Go pour transporter votre café, réutiliser et évitez les tasses jetables pour prendre soin de notre planète.
+- Réutilisable. Ce produit peut être utilisé autant que vous le souhaitez.
+- Hermétique. Cette tasse est hermétique pour assurer un transport sûr.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084DRPMK4/?tag=tolees0d-21)

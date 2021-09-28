@@ -28,13 +28,13 @@ C'est en vente [Samsung - Montre Galaxy Watch Active 2 Bluetooth - Aluminium 40 
 
 ℹ️:
 
+- Fonctions bien-être & sport avancées
+- Grand écran aux bords fins
 - Compatibilité : il doit être au moins Android 5.0 ou supérieur et pour la fonction de pression artérielle au moins Android 7.0.
 - Certification IP68
-- Résolution décran: 360 x 360 pixels
 - Fine 10,9 mm
+- Résolution décran: 360 x 360 pixels
 - Lunette rotative numérique
-- Grand écran aux bords fins
-- Fonctions bien-être & sport avancées
 - La Galaxy Watch Active2 suit votre rythme grâce à ses certifications IP68 et 5ATM ainsi que sa certification militaire qui garantit une résistance aux conditions extrêmes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WLGHPZQ/?tag=tolees0d-21)
