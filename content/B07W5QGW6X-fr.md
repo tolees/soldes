@@ -29,9 +29,9 @@ Vous avez [LEGO Trolls World Tour  L aventure en radeau de Mornebourg  Ensemble 
 ℹ️:
 
 - Facile à construire Même les jeunes constructeurs peuvent profiter du sentiment daccomplissement de la construction indépendante
-- Comprend 3 figurines Trolls : Poppy and Branch dans des tenues de campagne exclusives et Hickory avec un chapeau de cowboy et un lasso, ainsi que de nombreux accessoires pour cheveux
+- Comprend un radeau flottant avec auvent réglable, une scène avec piste de danse tournante, une prison et plus encore
 - Les enfants adoreront faire de nouveaux looks pour les Trolls, décorer leurs cheveux avec des lunettes, des étoiles et des coeurs ou des fleurs avant le début de laventure
 - Laissez les fans des Trolls rejoindre Poppy et ses copains présenter de la musique pop aux trolls country, puis trouver la corde musicale pour restaurer lharmonie
-- Comprend un radeau flottant avec auvent réglable, une scène avec piste de danse tournante, une prison et plus encore
+- Comprend 3 figurines Trolls : Poppy and Branch dans des tenues de campagne exclusives et Hickory avec un chapeau de cowboy et un lasso, ainsi que de nombreux accessoires pour cheveux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W5QGW6X/?tag=tolees0d-21)

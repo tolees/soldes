@@ -28,13 +28,13 @@ C'est en vente [Devolo dLAN 550 WiFi CPL  Connexion Internet 500 Mbit/s via la P
 
 ℹ️:
 
+- La technologie WiFi Move relie automatiquement plusieurs adaptateurs dans un réseau WiFi : réception WiFi optimale et entièrement automatique dans toute la maison.
+- Remarque : Tous les adaptateurs devolo dLAN 200 à dLAN 1200 sont compatibles entre eux
+- Réseau électrique - Portée: 400 m
+- Compatible avec tous les autres adaptateurs des gammes de produit dLAN 200/500/550/650/1200. Les appareils de la série Magic de devolo ne sont pas compatibles avec les appareils dLANLes appareils de la série Magic de devolo ne sont pas compatibles avec les appareils dLAN
+- Cet adaptateur complémentaire étend votre réseau dLAN existant (compatible avec les gammes des produits dLAN 200/500/550/650/1200).
 - Connexion via le circuit électrique jusqu’à 500Mbit/s et excellente réception WiFi pour smartphones, tablettes jusqu’à 300 Mbit/s.
 - Contenu du coffret : 1x adaptateur CPL WiFi dLAN 550, 1x manuel d’installation
-- Remarque : Tous les adaptateurs devolo dLAN 200 à dLAN 1200 sont compatibles entre eux
 - Davantage de performance et encore plus de portée grâce à la technologie range+.
-- Réseau électrique - Portée: 400 m
-- Cet adaptateur complémentaire étend votre réseau dLAN existant (compatible avec les gammes des produits dLAN 200/500/550/650/1200).
-- La technologie WiFi Move relie automatiquement plusieurs adaptateurs dans un réseau WiFi : réception WiFi optimale et entièrement automatique dans toute la maison.
-- Compatible avec tous les autres adaptateurs des gammes de produit dLAN 200/500/550/650/1200. Les appareils de la série Magic de devolo ne sont pas compatibles avec les appareils dLANLes appareils de la série Magic de devolo ne sont pas compatibles avec les appareils dLAN
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0169PXEES/?tag=tolees0d-21)
