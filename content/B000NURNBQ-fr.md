@@ -28,10 +28,10 @@ Vous avez [Papo - 50055 - Figurine - Animaux - Crocodile du Nil](https://www.ama
 
 ℹ️:
 
-- Figurine peinte à la main
-- Âge minimum : 3 ans
 - Support de jeux et dimagination idéal
-- Imaginée, dessinée et développée en France
 - Dimensions : 22,4 x 8,9 x 5,5 cm
+- Âge minimum : 3 ans
+- Figurine peinte à la main
+- Imaginée, dessinée et développée en France
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NURNBQ/?tag=tolees0d-21)
