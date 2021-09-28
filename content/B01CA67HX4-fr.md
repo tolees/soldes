@@ -29,8 +29,8 @@ Vous avez [Angelcare Housse Décorative pour poubelle à couches Dress Up Royaum
 ℹ️:
 
 - Facile à installer – Habillez votre poubelle est un jeu d’enfant ! Enfilez simplement la housse en tissu sur la poubelle, puis insérez le tissu dans les fentes visibles sur le haut et le bas du produit.
-- Habillez votre poubelle à couches – Les housses Dress-Up sont compatibles avec les poubelles à couches Angelcare (vendues séparément).
 - Lavable à la machine – Mettez simplement la housse Dress-Up dans la machine à laver avec le reste de votre linge.
+- Habillez votre poubelle à couches – Les housses Dress-Up sont compatibles avec les poubelles à couches Angelcare (vendues séparément).
 - 12 motifs fantaisie – À coordonner à la déco de la chambre de bébé, à adapter à votre humeur du jour ou à la saison.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CA67HX4/?tag=tolees0d-21)
