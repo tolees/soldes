@@ -28,12 +28,12 @@ Vous avez [Extel - Visiophone filaire connecté à votre Smartphone Android ou A
 
 ℹ️:
 
-- Référence fournisseur Extel : 720308 connect
-- Connectez autant de téléphone que vous souhaitez sur votre visiophone
+- Connexion filaire entre lécran et la caméra de platine de rue
 - Contrôlez larrivée des visiteurs depuis votre téléphone et lécran 7 pouces soit 18cm du visiophone
-- Longueur maximale du câble: 100 m
+- Connectez autant de téléphone que vous souhaitez sur votre visiophone
 - Ouvrez le portail et un portillon depuis le visiophone ou votre smartphone
 - Enregistrement photo des visiteurs sur la mémoire interne
-- Connexion filaire entre lécran et la caméra de platine de rue
+- Longueur maximale du câble: 100 m
+- Référence fournisseur Extel : 720308 connect
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NT5KR6S/?tag=tolees0d-21)

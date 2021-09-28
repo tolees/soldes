@@ -28,10 +28,10 @@ C'est en vente [Deconovo Rideaux Occultants Isolant Thermique  Rideaux pour Salo
 
 ℹ️:
 
-- INSTALLATION ET ENTRETIEN – Installation facile. Les œillets s’adaptent à la grande majorité des tringles disponibles sur le marché. 100% en polyester, se lave à la main et à la machine à laver.
 - RÉGULANT THERMIQUE – Rideaux occultant à Œillets utilisant la technologie triple-tissage qui permet une meilleure isolation thermique de votre pièce été comme hiver ainsi qu’une protection efficace contre la lumière provenant de l’extérieur.
-- PERFORMANCE – Design raffiné et fonction occultante qui protège contre la lumière, la chaleur et le froid pour un intérieur confortable vous permettant de profiter de vos espaces intérieurs pleinement, comme vous le souhaitez et à tout moment de la journée.
-- USAGE – Idéal pour la maison, le salon, la chambre à coucher, la cuisine, les larges fenêtres, le vitrage des balcons, les baies vitrées. Adapté aussi pour une utilisation au travail, espace déco, entreprise, café, écoles, et restaurants. Produit utilisé pour intérieur de type studio, appartement ou maison. Peut être utilisé dans un environnement extérieur couvert. Recommandé pour les personnes au sommeil léger, enfants et bébés pour un sommeil de qualité.
 - DIMENSION - Vendus par paire (2 panneaux). Dimension par panneau : 140x200cm (Largeur x Hauteur). La hauteur est mesurée à partir du sommet de lanneaux
+- INSTALLATION ET ENTRETIEN – Installation facile. Les œillets s’adaptent à la grande majorité des tringles disponibles sur le marché. 100% en polyester, se lave à la main et à la machine à laver.
+- USAGE – Idéal pour la maison, le salon, la chambre à coucher, la cuisine, les larges fenêtres, le vitrage des balcons, les baies vitrées. Adapté aussi pour une utilisation au travail, espace déco, entreprise, café, écoles, et restaurants. Produit utilisé pour intérieur de type studio, appartement ou maison. Peut être utilisé dans un environnement extérieur couvert. Recommandé pour les personnes au sommeil léger, enfants et bébés pour un sommeil de qualité.
+- PERFORMANCE – Design raffiné et fonction occultante qui protège contre la lumière, la chaleur et le froid pour un intérieur confortable vous permettant de profiter de vos espaces intérieurs pleinement, comme vous le souhaitez et à tout moment de la journée.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WCLNGZ5/?tag=tolees0d-21)

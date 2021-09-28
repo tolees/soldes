@@ -28,10 +28,10 @@ Vous avez [RAMPOW Chargeur Allume Cigare USB - Chargeur Voiture USB Ultra Compac
 
 ℹ️:
 
-- 😊 [Charge sécurisée] - Ce chargeur allume cigare USB est équipé dune puce intelligente du fabricant américain Vishay qui assure la protection contre les courts-circuits, les surtensions et les surintensités. Cette puce peut fournir une puissance de charge sûre et stable maximale à vos appareils.
-- ⚡ [Ce que vous obtenez] - Un chargeur allume cigare USB 24W de RAMPOW et un service client amical. Nous sommes ici pour vous aider si vous avez toutes questions.
 - 🌟 [Double port] - Les deux ports peuvent délivrer jusquà 24 W, chaque port contribuant à une vitesse de charge de 2,4 A, ce chargeur voiture USB charge deux appareils avec un total de 4,8 A en même temps. Il est compatible avec les véhicules à courant continu 12-24 V, y compris les SUVs, les fourgonnettes et les camions.
 - 💡 [Conception améliorée] - Avec une lumière LED à lintérieur de chaque port, vous pouvez connecter des périphériques au chargeur allume cigare USB Rampow même dans des environnements peu éclairés. Le design en aluminium petit (20g) facilite beaucoup la tâche de retenue et de détachement de votre véhicule.
+- ⚡ [Ce que vous obtenez] - Un chargeur allume cigare USB 24W de RAMPOW et un service client amical. Nous sommes ici pour vous aider si vous avez toutes questions.
 - 📱 [Compatibilité et certifications complètes] - Cette prise allume cigare USB est compatible avec iPhone 6/7/8/X/11, Samsung S20/S9/S8/S7/Note 20, tous les autres téléphones iOS & Android, iPad, tablettes et autres appareils USB. Certifié par FCC, CE, PSE et RoHS.
+- 😊 [Charge sécurisée] - Ce chargeur allume cigare USB est équipé dune puce intelligente du fabricant américain Vishay qui assure la protection contre les courts-circuits, les surtensions et les surintensités. Cette puce peut fournir une puissance de charge sûre et stable maximale à vos appareils.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HT1T24W/?tag=tolees0d-21)
