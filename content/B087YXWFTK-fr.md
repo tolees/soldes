@@ -28,10 +28,10 @@ C'est en vente [MSI MAG CORELIQUID 240R - AIO RGB CPU - Design à capuchon rotat
 
 ℹ️:
 
-- Contrôle total du ventilateur RVB : les ventilateurs RVB inclus prennent en charge la vitesse personnalisée avec le ventilateur PWM et léclairage personnalisable via le logiciel.
-- Socket et processeur compatibles : Intel LGA1150/1151/1155/1156/1200, LGA1366, LGA2011, LGA2011-3, LGA2066 / AMD AM4, FM2+, FM2, FM1, AM3+, AM2
 - Capuchon rotatif : montez la plaque froide dans nimporte quelle orientation, tournez le bouchon jusquà 270 degrés pour la garder droite.
+- Contrôle total du ventilateur RVB : les ventilateurs RVB inclus prennent en charge la vitesse personnalisée avec le ventilateur PWM et léclairage personnalisable via le logiciel.
 - Pompe de radiateur : la pompe a été intégrée dans le radiateur pour amortir le son et réduire le bruit.
+- Socket et processeur compatibles : Intel LGA1150/1151/1155/1156/1200, LGA1366, LGA2011, LGA2011-3, LGA2066 / AMD AM4, FM2+, FM2, FM1, AM3+, AM2
 - Fiabilité intemporelle : le roulement en céramique du moteur a été conçu pour résister à 100 000 heures de durée de vie.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087YXWFTK/?tag=tolees0d-21)
