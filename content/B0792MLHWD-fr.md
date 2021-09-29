@@ -28,10 +28,10 @@ Vous avez [Hon&Guan ø200mm Extracteur Aérateur d air avec Minuterie & Hygrosta
 
 ℹ️:
 
-- 【Matériel de Bonne Qualité】 Le corps de ventilateur est fait de plastique de pp, lumière, double isolation, avec fonction anti-acide élevée, classe de protection IP44, température ambiante -20 ~ 60 ℃.
 - 【Moteur à Faible Consommation】Le moteur du rotor extérieur utilise un roulement à billes NMB pour un fonctionnement plus stable et silencieux, et plus de 50 000 heures de fonctionnement.
+- 【Mode Automatique】 En mode automatique, le contrôleur contrôlera le ventilateur pour fonctionner à haute vitesse lorsque la qualité de lair est supérieure à la valeur de réglage (température, humidité, COV valeur), et le ventilateur ne sarrête pas tant que la qualité de lair nest pas inférieure à la valeur de réglage.
+- 【Matériel de Bonne Qualité】 Le corps de ventilateur est fait de plastique de pp, lumière, double isolation, avec fonction anti-acide élevée, classe de protection IP44, température ambiante -20 ~ 60 ℃.
 - 【Paramètres de Performance】 Tension: 220 ~ 240V/50Hz; Puissance: 123/125/128W; Vitesse: 1950/2200/2450(RPM); Volume dair: 690/765/840m³/h; Bruit: 55/59/63dB.
 - 【Contrôleur de Capteur Intelligent】Le contrôleur a un capteur intégré pour surveiller la température intérieure, lhumidité et la valeur VOC en temps réel pour réaliser le fonctionnement intelligent du ventilateur. Plus de fonction: Ventilateur AUTO / mode manuel de commutation librement, 1 ~ 30 minutes réglage de la minuterie.
-- 【Mode Automatique】 En mode automatique, le contrôleur contrôlera le ventilateur pour fonctionner à haute vitesse lorsque la qualité de lair est supérieure à la valeur de réglage (température, humidité, COV valeur), et le ventilateur ne sarrête pas tant que la qualité de lair nest pas inférieure à la valeur de réglage.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792MLHWD/?tag=tolees0d-21)
