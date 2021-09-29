@@ -28,11 +28,11 @@ C'est en vente [Rexona Cotton dry Lot de 6 déodorants roll-on Femme 50 ml](ht
 
 ℹ️:
 
-- Plus vous bougez, plus il protège
-- Technologie MotionSense
-- Parfum classique, subtil et féminin inspiré du coton
-- Rexona ne vous laissera pas tomber
-- Formule sans alcool pour aisselles sèches et douces
 - 48 heures de protection contre les odeurs corporelles et lhumidité des aisselles
+- Formule sans alcool pour aisselles sèches et douces
+- Plus vous bougez, plus il protège
+- Rexona ne vous laissera pas tomber
+- Parfum classique, subtil et féminin inspiré du coton
+- Technologie MotionSense
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FONE9GY/?tag=tolees0d-21)

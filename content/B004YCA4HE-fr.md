@@ -28,10 +28,10 @@ Vous avez [Gilmore Girls : l intégrale](https://www.amazon.fr/dp/B004YCA4HE/?ta
 
 ℹ️:
 
-- Record Label: Warner Home Video
-- Country Of Release: NLD
-- Year Of Release: 2012
 - Catalog#: 1000171150
 - Notes: Pal/Region 2 // Complete Collection : 7 Seasons!
+- Country Of Release: NLD
+- Year Of Release: 2012
+- Record Label: Warner Home Video
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004YCA4HE/?tag=tolees0d-21)

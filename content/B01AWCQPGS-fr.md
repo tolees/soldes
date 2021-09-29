@@ -31,7 +31,7 @@ C'est en vente [Rollei Compact Traveler No.1 I Carbon I Noir I Trépied de Voyag
 - ✅ Contenu de la livraison : Rollei Compact Traveler No.1 Carbon avec tête sphérique, plaque Arca Swiss, sac trépied et mode demploi
 - ✅ Le Rollei Compact Traveler No.1 est le trépied de voyage idéal pour voyager. Avec une taille de seulement 33cm il tient dans presque tous les sacs
 - ✅ Le poids de 980g y compris la tête sphérique Panorama avec plaque de fixation rapide compatible Arca Swiss, idéal pour être présent à chaque voyage
-- ✅ Avec une hauteur maximale de 142cm et une hauteur minimale de 34cm, la photographie de paysage est aussi simple que la macro photographie
 - ✅ Le Rollei Compact Traveler No.1 convient à la photographie en extérieur et a une capacité de charge de 8 kg pour les appareils reflex numériques
+- ✅ Avec une hauteur maximale de 142cm et une hauteur minimale de 34cm, la photographie de paysage est aussi simple que la macro photographie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AWCQPGS/?tag=tolees0d-21)

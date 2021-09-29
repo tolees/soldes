@@ -28,7 +28,7 @@ C'est en vente [Warner Bros. Interactive Entertainment - HITMAN 2  xbox one ](ht
 
 ℹ️:
 
-- Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the worlds most deadly assassin, Agent 47. Prepare to experience the ultimate spy thriller story - your mission is to eliminate the elusive Shadow Client and unravel his militia, but upon learning your targets true identity and the truth about 47s past, nothing will ever be the same.
 - Sniper Assassin Codes will be sent within 48 hours of placing the order
+- Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the worlds most deadly assassin, Agent 47. Prepare to experience the ultimate spy thriller story - your mission is to eliminate the elusive Shadow Client and unravel his militia, but upon learning your targets true identity and the truth about 47s past, nothing will ever be the same.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DLLF1CV/?tag=tolees0d-21)

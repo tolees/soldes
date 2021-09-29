@@ -28,10 +28,10 @@ C'est en vente [Riviera-et-Bar QGF820 Gaufrier Pro 2 parts](https://www.amazon.f
 
 ℹ️:
 
-- Plaques massives en fonte daluminium avec résistances intégrées. Charnière flottante, garante du gonflement uniforme de la gaufre.
 - 12 niveaux de dorage et indicateur de la progression de la cuisson + fonction "extra" pour rajouter un temps de chauffe supplémentaire et accentuer le dorage.
 - 1 types de pâtes avec profils de cuisson préprogrammés + 1 mode personnel pour adapter la cuisson de votre recette préférée.
-- Diffusion homogène de la chaleur sur les deux plaques pour une cuisson et un dorage unirformes. Calcul automatique de la durée optimale de cuisson lors du versage de la pâte.
 - Grand écran LCD multifonctions, démarrage automatique de la cuisson dès fermeture du couvercle et signal gaufres prêtes.
+- Plaques massives en fonte daluminium avec résistances intégrées. Charnière flottante, garante du gonflement uniforme de la gaufre.
+- Diffusion homogène de la chaleur sur les deux plaques pour une cuisson et un dorage unirformes. Calcul automatique de la durée optimale de cuisson lors du versage de la pâte.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M7PBSSF/?tag=tolees0d-21)

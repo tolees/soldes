@@ -28,10 +28,10 @@ Vous avez [Kitchen Craft Clearview Cuiseur vapeur à 3 étages Acier inoxydable 
 
 ℹ️:
 
-- Couvercle vapeur en verre trempé
-- Marmite de 22 cm avec deux inserts vapeur profonds
-- Compatible avec toutes les cuisinières, y compris linduction
 - Fond encapsulé pour une diffusion homogène de la chaleur
 - Passe au lave-vaisselle, , Dimensions : 22 cm
+- Marmite de 22 cm avec deux inserts vapeur profonds
+- Compatible avec toutes les cuisinières, y compris linduction
+- Couvercle vapeur en verre trempé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LCNMOS/?tag=tolees0d-21)

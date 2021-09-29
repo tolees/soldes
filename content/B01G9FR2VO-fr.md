@@ -29,9 +29,9 @@ Vous avez [koziol brosse WC Miaou  thermoplastique  noir  13 x 13 x 43 6 cm](htt
 ℹ️:
 
 - Grande poignée, brosse interchangeable
-- Design original
 - Fabriqué en Allemagne
-- Conception : Koziol, Herrbach
+- Design original
 - Conteneur spécial : la brosse ne trempe pas dans leau
+- Conception : Koziol, Herrbach
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01G9FR2VO/?tag=tolees0d-21)

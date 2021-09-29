@@ -28,12 +28,12 @@ C'est en vente [Samsung - Montre Galaxy Watch 3 R855 - 41 mm Version 4G- Mystic 
 
 ℹ️:
 
-- Fonctionnalités sport et bien-être avancées : ECG, mesure de la tension artérielle et du taux d’oxygène dans le sang (SpO2)
-- Etanche IP68 et GPS intégré
-- Design affirmé avec lunette rotative
-- Compatibilité : Smartphones Android 5.0 et versions ultérieures avec 1,5 Go de RAM, iPhone5 et ultérieurs, iOS 9.0 et versions ultérieures
-- personnalisation cadran et bracelet
 - Bluetooth 5.0
+- Etanche IP68 et GPS intégré
+- personnalisation cadran et bracelet
+- Compatibilité : Smartphones Android 5.0 et versions ultérieures avec 1,5 Go de RAM, iPhone5 et ultérieurs, iOS 9.0 et versions ultérieures
+- Design affirmé avec lunette rotative
 - Composants inclus : Galaxy Watch 3, bracelet en cuir, brins en taille M/L, socle de charge sans fil, guide de prise en main
+- Fonctionnalités sport et bien-être avancées : ECG, mesure de la tension artérielle et du taux d’oxygène dans le sang (SpO2)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DY3ZNHQ/?tag=tolees0d-21)

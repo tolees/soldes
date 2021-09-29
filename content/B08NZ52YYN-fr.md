@@ -29,9 +29,9 @@ Vous avez [Logitech Webcam HD 720p et Micro Longue portée](https://www.amazon.f
 ℹ️:
 
 - Résolution HD 720p/30 ips en grand angle
-- Câble USB-A extra-long de 2 m
 - Micro longue portée
-- Clip universel pour ordinateurs portables, écrans LCD ou écrans
+- Câble USB-A extra-long de 2 m
 - Webcam avec vidéo HD 720p
+- Clip universel pour ordinateurs portables, écrans LCD ou écrans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NZ52YYN/?tag=tolees0d-21)
