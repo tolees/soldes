@@ -28,11 +28,11 @@ Vous avez [Timberland 6 inch Premium Waterproof  Junior   Bottes Garçon Mixte-E
 
 ℹ️:
 
-- Semelle intérieure : cuir
 - Dessus : autres cuir
-- Type de talons : plat
-- Hauteur de talons : 3 centimètres
-- Doublure : synthétique
 - Matériau de semelle : caoutchouc
+- Type de talons : plat
+- Doublure : synthétique
+- Semelle intérieure : cuir
+- Hauteur de talons : 3 centimètres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000HVK8JU/?tag=tolees0d-21)
