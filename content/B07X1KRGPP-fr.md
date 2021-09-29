@@ -28,10 +28,10 @@ C'est en vente [SRIWATANA Étagères Murales Lot de 3 Etagères Flottantes en Bo
 
 ℹ️:
 
-- Taille du produit: La planche longue 43 *12.5*10.6 cm; la planche moyenne 33 *12.5*10.6cm; la planche courte 23*12.5*10.6cm.
 - Conception simple:Ces étagères murales sont construites avec des planches en bois et des supports métalliques, idéales pour mettre petite plante, CD, livre, jouet en peluche et petit objet etc.
 - Installation facile: Il est super facile de fixer au mur si vous suivez le manuel, robuste et résistante. En outre, il est particulièrement approprié comme cadeau.
 - Bonne finition: Les supports métalliques sont peintes 4 fois par les poudres noirs de haute qualité rend ces étagères délicates, élégantes et rétros.
 - Adaptabilité forte: Conviennent à toutes les pièces comme chambre à coucher, alle de bains, salon, cuisine, couloir et balcon.
+- Taille du produit: La planche longue 43 *12.5*10.6 cm; la planche moyenne 33 *12.5*10.6cm; la planche courte 23*12.5*10.6cm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X1KRGPP/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [YABER Booster Batterie  1000A 13800mAh Booster Batterie Voiture 
 
 ℹ️:
 
-- 🚖【3 MODES DE LAMPE DE LED】Le booster de batterie voiture saut possède 3 modes déclairage à LED (Normal, SOS, Strob). Cela peut vous aider dans tous les cas, en particulier pour laventure, le plein air et les urgences.
 - 🚖【IP68 WATERPROOF BOOSTER BATTERIE VOITURE】Le booster batterie voiture est étanche à leau et résistant à la poussière, donc il peut être utilisé même par temps de pluie. 100% fiable pour les activités d’extérieur et mauvais temps.
-- 🚖【CAPACITÉ DE LA BATTERIE 13800MAH】La booster batterie powerbank avec batterie 13800mAh possède deux sorties et un connecteur USB-C. Le double port de charge peut alimenter deux produits électroniques en même temps.
 - 🚖【PLUS DE PROTECTION】Ce câble YABER booster batterie voiture avec systèmes de protection intelligents . Il protège contre les courts-circuits, les surchauffes, les surtensions, les surcharges, les décharges profondes, les surintensités et les inversions de polarité.
 - 🚖【1000A POWERFUL BOOSTER BATTERIE】Le booster batterie YABER YR600 peut démarrer des véhicules 12V (Jusquà 6.0L Essence 5.0L Gazole), il fournit un courant de pointe de 1000A. YABER booster batterie voiture convient aux voitures, motos, véhicules utilitaires, etc.
+- 🚖【3 MODES DE LAMPE DE LED】Le booster de batterie voiture saut possède 3 modes déclairage à LED (Normal, SOS, Strob). Cela peut vous aider dans tous les cas, en particulier pour laventure, le plein air et les urgences.
+- 🚖【CAPACITÉ DE LA BATTERIE 13800MAH】La booster batterie powerbank avec batterie 13800mAh possède deux sorties et un connecteur USB-C. Le double port de charge peut alimenter deux produits électroniques en même temps.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TF61TPM/?tag=tolees0d-21)
