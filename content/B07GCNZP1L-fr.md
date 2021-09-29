@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai - Pomsies  80592  Couleurs aléato avec 34.73 % rabais '
-date: 2021-09-20 18:33:16
+date: 2021-09-29 06:43:15
 image: 'https://m.media-amazon.com/images/I/41K0FaAz9BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
