@@ -28,10 +28,10 @@ C'est en vente [Vans Ward Platform Canvas  Basket Fille  Toile Noire et Blanche 
 
 ℹ️:
 
-- Flatform talon
-- fermeture Lacer
 - Low-top
-- Formateurs Chaussures
+- fermeture Lacer
 - Toile supérieur
+- Flatform talon
+- Formateurs Chaussures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08F3T9SQT/?tag=tolees0d-21)
