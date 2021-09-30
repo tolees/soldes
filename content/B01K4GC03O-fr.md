@@ -28,13 +28,13 @@ C'est en vente [Bosch Professional 18V System Souffleur sans-fil GBL 18V-120  Vi
 
 ℹ️:
 
-- Utilisation Boîte de conservation
-- Dimensions 10,4 x 10,4 x 8,5 cm
-- Vos aliments préférés restent frais - fermeture hermétique
-- Matière Verre
-- Gain de place - empilable et modulable
-- Vitesse maximale de lair : 75 m/s
 - Facile à nettoyer - couvercle et bocal compatibles au lave-vaisselle
+- Matière Verre
+- Dimensions 10,4 x 10,4 x 8,5 cm
+- Utilisation Boîte de conservation
+- Vos aliments préférés restent frais - fermeture hermétique
 - Contenu et quantité visibles dun coup dœil bocal en verre
+- Vitesse maximale de lair : 75 m/s
+- Gain de place - empilable et modulable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01K4GC03O/?tag=tolees0d-21)
