@@ -31,7 +31,7 @@ C'est en vente [VALERA VA 832.01T Hotello Sèche-Cheveux Mural avec un Tuyau](ht
 - Puissant de tuyau de sèche-cheveux mural – Fabriqué en Suisse, super compact (147 x 238 mm) – se range partout, flux dair puissant groupe de ventilation neuf animal permettent
 - Y compris. Vis et chevilles de fixation murale, degré de protection : IP34, welldrahtheiz élément Security
 - 2 possibilités de raccordement : Raccordement fixe électrique, raccordement direct connecteur
-- 1200 W, Allumage automatique après poignée de baisse, 8 min. Commutateur de minuterie de sécurité
 - Cool Touch de poignée rotative, tuyau flexible 1,20 m, pratique montage mural sans avoir besoin de lappareil öffnenzu
+- 1200 W, Allumage automatique après poignée de baisse, 8 min. Commutateur de minuterie de sécurité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N5P5WGK/?tag=tolees0d-21)
