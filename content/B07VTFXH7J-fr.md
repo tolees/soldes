@@ -28,10 +28,10 @@ C'est en vente [Lexibook Interpretor  Traducteur parlant instantané vocal 75 la
 
 ℹ️:
 
-- Traduction hors ligne disponible en 7 langues: Français, Anglais, Allemand, Italien, Espagnol, Portuguais, Chinois.
 - Traductions fidèles et instantanées de qualité professionnelle (dans les deux sens) dans 45 langues (75 langues depuis la nouvelle mise à jour).
-- Un traducteur avec reconnaissance vocale, transcription écrite et double micro.
 - Conversation de groupe, idéale pour les réunions! Pour connecter au moins deux traducteurs entre eux et traduire dans plusieurs langues en même temps
+- Un traducteur avec reconnaissance vocale, transcription écrite et double micro.
+- Traduction hors ligne disponible en 7 langues: Français, Anglais, Allemand, Italien, Espagnol, Portuguais, Chinois.
 - Traduction en ligne disponible en 75 langues dont Allemand, Anglais (US, GB, CA, AU, IE, IN), Arabe, Arabe (Egypte), Bulgare, Cantonais, Catalan, Chinois (Chine, Taiwan), Croate, Danois, Espagnol (Espagne, Mexique), Finois, Français (France, Canada), Grèq
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VTFXH7J/?tag=tolees0d-21)
