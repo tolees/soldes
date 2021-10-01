@@ -28,10 +28,10 @@ C'est en vente [Brabantia - 316104 - Poubelle Bo Touch Bin  11 + 23 litres  Roug
 
 ℹ️:
 
-- Plus quune poubelle, un meuble design
-- Garantie 10 ans
 - Pieds stables, réglables et antidérapants
+- Plus quune poubelle, un meuble design
 - Gain de place important, Bo Touch Bin peut être placée à plat contre un mur
+- Garantie 10 ans
 - Il nest pas utile de se baisser pour jeter ses déchets
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073ZHCZG3/?tag=tolees0d-21)
