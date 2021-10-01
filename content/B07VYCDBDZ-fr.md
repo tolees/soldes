@@ -28,10 +28,10 @@ C'est en vente [Dim - BOXER HOMME MULTIPACKS x3](https://www.amazon.fr/dp/B07VYC
 
 ℹ️:
 
-- Le confort unique du coton stretch
-- Le logo Dim très discret pour un rendu chic et élégant
-- Son lot de 2 boxers homme pratique et économique
 - Son corps uni Bleu Denim pour une allure sobre au quotidien
 - Sa ceinture à l’imprimé graphique qui lui donne une touche très « fitness chic »
+- Le logo Dim très discret pour un rendu chic et élégant
+- Son lot de 2 boxers homme pratique et économique
+- Le confort unique du coton stretch
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VYCDBDZ/?tag=tolees0d-21)

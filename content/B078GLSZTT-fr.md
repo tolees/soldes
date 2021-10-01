@@ -29,9 +29,9 @@ Vous avez [Arozzi Inizio Fauteuil Gamer  Tissu  Bleu  53 x 47 x 133 cm](https://
 ℹ️:
 
 - Installation facile grâce à notre manuel simple et clari
-- Fonction de verrouillage du siège réglable en inclinaison et construction légère pour un déplacement facile
 - Ossature métallique
 - Siège et dossier rembourrés épais pour un confort maximal
 - Conception ergonomique - vous gardant confortable pour une utilisation à long terme
+- Fonction de verrouillage du siège réglable en inclinaison et construction légère pour un déplacement facile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078GLSZTT/?tag=tolees0d-21)

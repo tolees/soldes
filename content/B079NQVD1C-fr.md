@@ -29,9 +29,9 @@ C'est en vente [Asioka 375/16 T-Shirt de Running Unisexe Adulte L Lilas](https:/
 ℹ️:
 
 - Tissu mesh 100 % polyester pour plus de résistance.
-- Compatible :Tennis, fitness, running, cyclotourisme, football ou basket.
 - Produit officiel Asioka.
-- Col arrondi.
 - Toucher doux, séchage rapide et sans plis.
+- Col arrondi.
+- Compatible :Tennis, fitness, running, cyclotourisme, football ou basket.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079NQVD1C/?tag=tolees0d-21)

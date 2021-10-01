@@ -28,9 +28,9 @@ Vous avez [Samsung LED View Cover Galaxy S20 - Gris](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Notifications des appels manqués et des applications - Contrôle de la musique
-- Etui folio LED View Cover Samsung pour Galaxy S20 - Coque à larrière et rabat à lavant pour protéger lécran
-- Affichage Heure et Date
 - Allumage et extinction de lécran à louverture et à la fermeture du rabat
+- Etui folio LED View Cover Samsung pour Galaxy S20 - Coque à larrière et rabat à lavant pour protéger lécran
+- Notifications des appels manqués et des applications - Contrôle de la musique
+- Affichage Heure et Date
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083KMW1M6/?tag=tolees0d-21)

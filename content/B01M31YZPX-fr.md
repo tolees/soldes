@@ -29,7 +29,7 @@ C'est en vente [Nintendo - Animal Crossing : New Leaf - Welcome Pack Sanrio - Pa
 ℹ️:
 
 - Compatible avec le jeu Animal Crossing New Leaf pour Nintendo 3DS
-- Contient les 6 cartes de la série Sanrio
 - Paquet de 6 cartes amiibo
+- Contient les 6 cartes de la série Sanrio
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M31YZPX/?tag=tolees0d-21)
