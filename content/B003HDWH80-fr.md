@@ -28,9 +28,9 @@ Vous avez [Honeywell 1011627 Ecran de Remplacement Polycarbonate Anti-rayures et
 
 ℹ️:
 
+- Facilement échangeable
+- Anti-buée
 - Résistant aux rayures
 - Grande visière de la plus haute qualité pour la meilleure vue possible
-- Anti-buée
-- Facilement échangeable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003HDWH80/?tag=tolees0d-21)

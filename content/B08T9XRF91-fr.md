@@ -28,10 +28,10 @@ C'est en vente [Philips CSA240/61 Machine à Café à Dosettes SENSEO Select Eco
 
 ℹ️:
 
-- Fonction Memo pour réaliser votre café exactement comme vous laimez
 - Réalisez une ou deux tasses en même temps
-- Sélecteur dintensité : 3 longueurs de café, classique (100ml), intense (80ml) et le savoureux espresso (45ml)
 - Fonction Crema plus pour une couche de crème fine et onctueuse
+- Sélecteur dintensité : 3 longueurs de café, classique (100ml), intense (80ml) et le savoureux espresso (45ml)
 - Nouveau slider intuitif pour une utilisation simplifiée
+- Fonction Memo pour réaliser votre café exactement comme vous laimez
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08T9XRF91/?tag=tolees0d-21)
