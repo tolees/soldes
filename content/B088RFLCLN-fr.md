@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.36 % rabais sur PUMA Carina L  Baskets Femme  Black Whit'
-date: 2021-10-01 11:07:27
+date: 2021-10-03 07:52:12
 image: 'https://m.media-amazon.com/images/I/41QPANEd0hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.60 % rabais sur Delson 3005BK Piano à queue pour enfant '
-date: 2021-10-01 08:55:01
+date: 2021-10-03 07:47:32
 image: 'https://m.media-amazon.com/images/I/31IvWDvCYDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Delson 3005BK Piano à queue pour enfant Noir](https://www.amazon.fr/
 
 ℹ️:
 
-- Accord chromatique
 - Piano à queue enfant 30 touches
+- dimension : 51 x 49 x 47 cm
 - Poids: 9 kg
 - Bois massif
-- dimension : 51 x 49 x 47 cm
+- Accord chromatique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002E9YTX4/?tag=tolees0d-21)

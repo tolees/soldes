@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '80.81 % rabais sur Pepe Jeans Venus Pl200029 Jeans - Femme '
-date: 2021-10-01 12:03:47
+date: 2021-10-03 07:56:01
 image: 'https://m.media-amazon.com/images/I/41hlJUoniuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Pepe Jeans Venus Pl200029 Jeans - Femme - Bleu  10oz Authentic Rope S
 
 ℹ️:
 
-- Type de tissu: 83,5% Coton, 14,5% Polyester, 2% Elastane
-- Care instructions: Lavage en machine
 - Fit type: taille basse
+- Care instructions: Lavage en machine
+- Type de tissu: 83,5% Coton, 14,5% Polyester, 2% Elastane
 - Dimensions de lemballage de larticle: 5.4 L x 27.0 H x 20.4 W (centimeters)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00U1I4KJI/?tag=tolees0d-21)
