@@ -29,9 +29,9 @@ Vous avez [STAUB Sauteuse Chistera en Fonte  Ø 28 cm  3 7 L  Vert/Basilic](http
 ℹ️:
 
 - Matte black enamel interior (or cooking surface if not a cocotte) helps to develop great flavour, is scratch resistant and easy to clean
-- Basil green, enamelled round 28 cm cast iron casserole pot, ideal for one-pot dishes and roasts
-- Lifetime warranty for domestic use against defects in manufacture and materials, made by STAUB in France
-- Suitable for use in the oven, under the grill and on all hob types including induction
 - Self-basting lid creates a rainfall effect of moisture as steam condenses, keeping your dish succulent and full of flavour
+- Basil green, enamelled round 28 cm cast iron casserole pot, ideal for one-pot dishes and roasts
+- Suitable for use in the oven, under the grill and on all hob types including induction
+- Lifetime warranty for domestic use against defects in manufacture and materials, made by STAUB in France
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MPRKFGU/?tag=tolees0d-21)

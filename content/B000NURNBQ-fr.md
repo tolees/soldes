@@ -28,10 +28,10 @@ Vous avez [Papo - 50055 - Figurine - Animaux - Crocodile du Nil](https://www.ama
 
 ℹ️:
 
-- Dimensions : 22,4 x 8,9 x 5,5 cm
 - Figurine peinte à la main
-- Imaginée, dessinée et développée en France
 - Support de jeux et dimagination idéal
+- Dimensions : 22,4 x 8,9 x 5,5 cm
+- Imaginée, dessinée et développée en France
 - Âge minimum : 3 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NURNBQ/?tag=tolees0d-21)
