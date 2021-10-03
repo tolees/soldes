@@ -28,9 +28,9 @@ Vous avez [Pepe Jeans Venus Pl200029 Jeans - Femme - Bleu  10oz Authentic Rope S
 
 ℹ️:
 
+- Type de tissu: 83,5% Coton, 14,5% Polyester, 2% Elastane
 - Fit type: taille basse
 - Care instructions: Lavage en machine
-- Type de tissu: 83,5% Coton, 14,5% Polyester, 2% Elastane
 - Dimensions de lemballage de larticle: 5.4 L x 27.0 H x 20.4 W (centimeters)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00U1I4KJI/?tag=tolees0d-21)

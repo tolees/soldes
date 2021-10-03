@@ -28,10 +28,10 @@ Vous avez [Delson 3005BK Piano à queue pour enfant Noir](https://www.amazon.fr/
 
 ℹ️:
 
-- Piano à queue enfant 30 touches
 - dimension : 51 x 49 x 47 cm
-- Poids: 9 kg
-- Bois massif
 - Accord chromatique
+- Poids: 9 kg
+- Piano à queue enfant 30 touches
+- Bois massif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002E9YTX4/?tag=tolees0d-21)

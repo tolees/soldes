@@ -28,9 +28,9 @@ Vous avez [Pepe Jeans Venus Pl200029 Jeans - Femme - Bleu  10oz Authentic Rope S
 
 ℹ️:
 
-- 84% coton, 14% polyester, 2% élasthanne
 - Type de coupe: droit
-- Dimensions de lemballage de larticle: 4.8 L x 34.29 H x 27.6 W (centimeters)
 - 84% coton, 14% polyester, 2% élasthanne
+- 84% coton, 14% polyester, 2% élasthanne
+- Dimensions de lemballage de larticle: 4.8 L x 34.29 H x 27.6 W (centimeters)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O4Z3J2S/?tag=tolees0d-21)

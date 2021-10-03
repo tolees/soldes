@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai Namco Entertainment - Captain Tsu avec 55.68 % rabais '
-date: 2021-10-01 21:27:42
+date: 2021-10-03 08:16:30
 image: 'https://m.media-amazon.com/images/I/51zDvdQjqaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Bandai Namco Entertainment'
 buyurl: 'https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21'
 descuento: '55.68'
-average: '42.69'
+average: '40.9011111111111'
 ---
 
 C'est en vente [Bandai Namco Entertainment - Captain Tsubasa : Rise of New Champions Nintendo Switch](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)  à  55.68 % de réduction, prix final  26.59 EUR (original: 59.99 EUR) ici:

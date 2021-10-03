@@ -28,10 +28,10 @@ C'est en vente [iCOO Acrobat XL Plus Trioset Poussette Légère jusqu’à 25 kg
 
 ℹ️:
 
-- SIÈGE AUTO – Le cosy iGuardfix convient aux bébés de 0 mois à 13 kg ; en voiture, il s’installe ou avec la ceinture de sécurité à 3 points ou avec la base ISOFIX qui est disponible séparément
-- SÛR – Le cosy iGuardfix a un harnais 3 points et il est conforme à ECE 44/04 ; la poussette a un harnais 5 points et elle est conforme au standard européen EN 1888
-- POUR LA VILLE – Cette poussette n’est pas seulement facile à manipuler, mais aussi compacte à plier – d’une seule main ; les grandes roues avant sont pivotantes ou fixe
-- DESIGNÉE EN ALLEMAGNE – Ce kit moderne convient dès la naissance grâce à la nacelle jusqu’à 9 kg et au cosy jusqu’à 13 kg ; la poussette soutient un poids total de 25 kg (siège 22 kg + panier 3 kg)
 - PRATIQUE – Tous les éléments s’installent directement sur le châssis de la poussette – sans adaptateurs ; ainsi, les réflecteurs intégrés offre de la sécurité quand il fait sombre
+- SÛR – Le cosy iGuardfix a un harnais 3 points et il est conforme à ECE 44/04 ; la poussette a un harnais 5 points et elle est conforme au standard européen EN 1888
+- DESIGNÉE EN ALLEMAGNE – Ce kit moderne convient dès la naissance grâce à la nacelle jusqu’à 9 kg et au cosy jusqu’à 13 kg ; la poussette soutient un poids total de 25 kg (siège 22 kg + panier 3 kg)
+- POUR LA VILLE – Cette poussette n’est pas seulement facile à manipuler, mais aussi compacte à plier – d’une seule main ; les grandes roues avant sont pivotantes ou fixe
+- SIÈGE AUTO – Le cosy iGuardfix convient aux bébés de 0 mois à 13 kg ; en voiture, il s’installe ou avec la ceinture de sécurité à 3 points ou avec la base ISOFIX qui est disponible séparément
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N1WFTZG/?tag=tolees0d-21)

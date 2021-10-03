@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Venus Pl200029 Jeans - Femme  avec 54.00 % rabais '
-date: 2021-10-01 18:43:23
+date: 2021-10-03 08:13:44
 image: 'https://m.media-amazon.com/images/I/41hlJUoniuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
