@@ -28,12 +28,12 @@ C'est en vente [Logitech M350 Pebble Souris Sans Fil  Bluetooth ou 2 4 GHz avec 
 
 ℹ️:
 
-- Compatible avec Chromebook : ce produit fonctionne de manière optimale avec un Chromebook. Il a été testé et approuvé comme répondant aux normes de compatibilité Chromebook pour vous offrir la meilleure expérience avec votre device.
 - Batterie Longue Durée: Cette souris de forme organique comme un galet fonctionne jusquà 18 mois avec une seule pile AA
-- Compatibilité: Windows 10 ou version ultérieure, Windows 8, macOS 10.10 ou version ultérieure, Chrome OS, Android 5.0 ou version ultérieure, Noyau Linux 2.6 ou version ultérieure, iPadOS 13.1 ou version ultérieure
-- Un Suivi Optique de Haute Précision: La souris Pebble fonctionne rapidement avec précision partout où vous en avez besoin
 - Cliquez et Faites Défiler en Silence: Travaillez dans un café, une bibliothèque ou un train bondé sans déranger ceux qui vous entourent. Vous bénéficierez du même confort de clic que vous aimez tant, mais vous ferez environ 90% de bruit en moins
 - Connexion Facile: Connectez-vous simplement via Bluetooth ou à laide du récepteur USB 2,4 GHz compact, situé dans la coque magnétique de la souris, et ne vous souciez plus des interruptions ou de la latence à une distance de 10 m
+- Compatible avec Chromebook : ce produit fonctionne de manière optimale avec un Chromebook. Il a été testé et approuvé comme répondant aux normes de compatibilité Chromebook pour vous offrir la meilleure expérience avec votre device.
+- Un Suivi Optique de Haute Précision: La souris Pebble fonctionne rapidement avec précision partout où vous en avez besoin
+- Compatibilité: Windows 10 ou version ultérieure, Windows 8, macOS 10.10 ou version ultérieure, Chrome OS, Android 5.0 ou version ultérieure, Noyau Linux 2.6 ou version ultérieure, iPadOS 13.1 ou version ultérieure
 - Moderne, Ultra-Fine et Elégante: La conception moderne de la souris Logitech Pebble M350 sadapte à votre style de vie, met laccent sur lagencement de votre bureau et est suffisamment mince pour lemporter dans votre sac au salon de thé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VFJVPBR/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ Vous avez [LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien analogique
 
 ℹ️:
 
-- Très efficace
-- Facile à utiliser
 - 1 Largeur du module
+- Facile à utiliser
+- Très efficace
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)
