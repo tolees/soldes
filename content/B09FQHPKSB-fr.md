@@ -28,10 +28,10 @@ C'est en vente [Xbox Series S + FIFA 22: Standard – Code jeu à télécharger]
 
 ℹ️:
 
-- Précommandez FIFA 22 et recevez : 1 élément joueur non-échangeable pour votre équipe FIFA Ultimate Team / Kylian Mbappé pour 5 matchs FUT / Choisissez entre Alaba, Foden ou Son pour 3 matchs FUT en prêt / Talent en mode carrière pour un jeune prometteur local au potentiel international
 - Le code bonus vous sera envoyé par email le jour de la sortie du jeu, pour les précommandes effectuées jusqu’au 30 Septembre à 23h59.
 - 120 FPS - La Xbox Series S permet un rendu encore plus fluide et dynamique allant jusqu’à 120 images par seconde (compatible Fortnite, Call of Duty : Warzone, Rocket League etc)
 - Découvrez la toute nouvelle Xbox Series S, notre Xbox la plus compacte de tous les temps, 100% Digitale, une console next-gen à un prix accessible
 - 4K HDR - Plongez dans des univers ultra détaillés avec une résolution interne 1080p HDR. Compatible avec la technologie 4K HDR en connectant votre Xbox Series S à votre téléviseur 4K pour jouer dans de meilleurs conditions grâce à la mise à léchelle (2160p)
+- Précommandez FIFA 22 et recevez : 1 élément joueur non-échangeable pour votre équipe FIFA Ultimate Team / Kylian Mbappé pour 5 matchs FUT / Choisissez entre Alaba, Foden ou Son pour 3 matchs FUT en prêt / Talent en mode carrière pour un jeune prometteur local au potentiel international
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B09FQHPKSB/?tag=tolees0d-21)

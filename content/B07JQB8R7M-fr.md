@@ -28,7 +28,7 @@ C'est en vente [Jack & Jones Jjimarco Jjbowie Noos Pantalon  Bleu  Navy Blazer N
 
 ℹ️:
 
-- chino pants and slim fit
 - elastic cotton quality
+- chino pants and slim fit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JQB8R7M/?tag=tolees0d-21)

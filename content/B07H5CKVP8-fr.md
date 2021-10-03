@@ -28,8 +28,8 @@ Vous avez [HQB - Batterie CR2430 Lithium 3V  Bouton de Pile Bouton électronique
 
 ℹ️:
 
-- Batterie au lithium bouton CR2430-longue vie de la batterie
-- Léger, Haute Tension et Haute Densité Énergétique
 - Utilisation: Bougies votives, bougies légères de thé, montre, ordinateur, calculatrice, cartes dIC, clef électrique et dautres produits électriques
+- Léger, Haute Tension et Haute Densité Énergétique
+- Batterie au lithium bouton CR2430-longue vie de la batterie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H5CKVP8/?tag=tolees0d-21)
