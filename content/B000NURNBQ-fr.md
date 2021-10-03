@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.36 % rabais sur Papo - 50055 - Figurine - Animaux - Croc'
-date: 2021-09-28 23:39:21
+date: 2021-10-03 10:21:25
 image: 'https://m.media-amazon.com/images/I/31sl9L-rcSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Papo - 50055 - Figurine - Animaux - Crocodile du Nil](https://www.ama
 
 ℹ️:
 
-- Imaginée, dessinée et développée en France
 - Dimensions : 22,4 x 8,9 x 5,5 cm
 - Figurine peinte à la main
+- Imaginée, dessinée et développée en France
 - Support de jeux et dimagination idéal
 - Âge minimum : 3 ans
 

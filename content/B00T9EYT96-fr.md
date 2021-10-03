@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.26 % rabais sur Makita D-30209 D-30209-Estuche de Fresa '
-date: 2021-09-28 23:41:25
+date: 2021-10-03 10:44:13
 image: 'https://m.media-amazon.com/images/I/41Le-8lWWoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
