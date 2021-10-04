@@ -28,12 +28,12 @@ Vous avez [Philips GC7844/20 Centrale Vapeur PerfectCare Compact  sans réglage 
 
 ℹ️:
 
-- Ultra compacte et légere pour un transport confortable et un rangement facile
 - Réservoir deau d1,5L permettant 1,5h dutilisation en continue et facile remplir
-- Alimentation: 2400 W | Tension: 220-240 volt
 - Technologie sans réglage de température OptimalTEMP : 0 brûlure sur tous les tissus
 - Semelle SteamGlide : robuste et antiadhésive, assure une glisse parfaite
+- Ultra compacte et légere pour un transport confortable et un rangement facile
 - Longueur du cordon dalimentation: 1,8 m
+- Alimentation: 2400 W | Tension: 220-240 volt
 - Puissante: débit de vapeur jusquà 120g/min, jusquà 400g deffet pressing et jusquà 6,5 bar de pression
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084QZ68MF/?tag=tolees0d-21)
