@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selsey Hugo - Meuble TV/Banc TV  140 cm  avec 28.66 % rabais '
-date: 2021-10-02 15:28:08
+date: 2021-10-04 06:36:37
 image: 'https://m.media-amazon.com/images/I/41BYpdoOzIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Selsey Hugo - Meuble TV/Banc TV  140 cm  Chene Lancaster  sans L
 
 ℹ️:
 
-- dimensions : H 50,5 cm x L 140 cm x P 35 cm
-- quatre niches ouvertes avec deux tablettes en verre, un compartiment fermé, plateau spacieux
 - taille décran supporté : 55 pouces
+- dimensions : H 50,5 cm x L 140 cm x P 35 cm
 - fabriqué en panneaux de particules mélaminées ; finition du meuble mate
+- quatre niches ouvertes avec deux tablettes en verre, un compartiment fermé, plateau spacieux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NBSGBHR/?tag=tolees0d-21)
