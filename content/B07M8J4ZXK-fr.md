@@ -29,9 +29,9 @@ Vous avez [Philips - L OR Barista LM8012/60 Machine à café à capsules Piano N
 ℹ️:
 
 - Préparez 2 tasses de café ou un café double dans 1 seule tasse grâce au système exclusif LOR Barista
-- Système de reconnaissance automatique de la capsule
-- Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
 - 19 bars de pression afin de savourer le goût dun véritable Espresso/café
+- Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
 - Avec LOR Barista, dégustez votre café préféré: Ristretto, Espresso, Lungo en simple ou double ainsi que votre Grand Café Filtre!
+- Système de reconnaissance automatique de la capsule
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M8J4ZXK/?tag=tolees0d-21)
