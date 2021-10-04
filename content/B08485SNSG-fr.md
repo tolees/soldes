@@ -28,10 +28,10 @@ C'est en vente [Bosch laser lignes AdvancedLevel 360 Set  ligne laser horizontal
 
 ℹ️:
 
-- Auto-nivellement : le laser lignes est capable de s’auto-niveler dans une plage de ±4° ou peut être placé en mode inclinaison pour projeter des pentes
-- Grande facilité d’utilisation : un bouton On/Off coulissant et sur le dessus du laser deux boutons permettent de commander les lignes vertes du laser
-- Résultats précis : le laser lignes travaille avec une précision de ± 0,4 mm/m (lignes) et ± 1,0 mm/m (point d’aplomb) pour des alignements précis
-- Visibilité jusqu’à quatre fois meilleure : la technologie laser verte offre une visibilité jusqu’à quatre fois supérieure que les laser à lignes rouges
 - Sélection des lignes grâce à un seul bouton : Le laser projette 1 ligne horizontale sur 360° et deux lignes verticales et un point d’aplomb vers le bas
+- Visibilité jusqu’à quatre fois meilleure : la technologie laser verte offre une visibilité jusqu’à quatre fois supérieure que les laser à lignes rouges
+- Grande facilité d’utilisation : un bouton On/Off coulissant et sur le dessus du laser deux boutons permettent de commander les lignes vertes du laser
+- Auto-nivellement : le laser lignes est capable de s’auto-niveler dans une plage de ±4° ou peut être placé en mode inclinaison pour projeter des pentes
+- Résultats précis : le laser lignes travaille avec une précision de ± 0,4 mm/m (lignes) et ± 1,0 mm/m (point d’aplomb) pour des alignements précis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08485SNSG/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [AJAX Kit alarme AJHUBK – Kit antivol sans fil  GSM + Ethernet  jusq
 
 ℹ️:
 
-- 1 détecteur MotionProtect AJMP.
 - 1 télécommande SpaceControl AJSC
 - 1 unité centrale AJHUB.
+- 1 détecteur MotionProtect AJMP.
 - 1 contact magnétique DoorProtect AJDP pour portes et fenêtres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H2JDDWY/?tag=tolees0d-21)

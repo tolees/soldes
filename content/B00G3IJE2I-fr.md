@@ -28,10 +28,10 @@ Vous avez [JUVAMINE - Equilibre Nerveux - Magnésium Marin 300mg + Vitamine B6 -
 
 ℹ️:
 
-- EQUILIBRE NERVEUX : Le Magnésium marin d’origine naturelle participe au fonctionnement normal du système nerveux et musculaire. La Vitamine B6 contribue au fonctionnement normal du système nerveux
-- REDUIRE LA FATIGUE : Le Magnésium marin d’origine naturelle est obtenu à partir d’eau de mer et contribue à réduire la fatigue. La Vitamine B6 a une action complémentaire à celle du magnésium. Elle contribue notamment à réduire la fatigue
 - BIEN-ETRE QUOTIDIEN : La Vitamine B6, associée au magnésium marin, est l’alliée de votre bien-être quotidien
 - FABRICATION FRANCAISE : Ce complément alimentaire Magnésium Marin est fabriqué dans notre usine à Forbach en Lorraine
 - VEGAN : Le complément alimentaire Magnésium Marin des Laboratoires Juvamine convient aux régimes végétariens et végétaliens
+- EQUILIBRE NERVEUX : Le Magnésium marin d’origine naturelle participe au fonctionnement normal du système nerveux et musculaire. La Vitamine B6 contribue au fonctionnement normal du système nerveux
+- REDUIRE LA FATIGUE : Le Magnésium marin d’origine naturelle est obtenu à partir d’eau de mer et contribue à réduire la fatigue. La Vitamine B6 a une action complémentaire à celle du magnésium. Elle contribue notamment à réduire la fatigue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00G3IJE2I/?tag=tolees0d-21)

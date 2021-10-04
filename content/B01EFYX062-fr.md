@@ -28,9 +28,9 @@ Vous avez [HISTOFREEZER 30591 Agent cryothérapeutique  2 x 80 ml + 60App  2 mm]
 
 ℹ️:
 
-- Kit avec deux bouteilles daérosol de 80 ml et 60 2mm applicateurs
-- Agent cryothérapeutique
-- Traitement des verrues et autres lésions de peau bénignes courantes
 - Convient aux adultes et aux enfants
+- Agent cryothérapeutique
+- Kit avec deux bouteilles daérosol de 80 ml et 60 2mm applicateurs
+- Traitement des verrues et autres lésions de peau bénignes courantes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EFYX062/?tag=tolees0d-21)

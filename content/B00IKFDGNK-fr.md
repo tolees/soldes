@@ -28,10 +28,10 @@ Vous avez [Keter Abri Horizontal Range Poubelle SIO Max - 1200 litres](https://w
 
 ℹ️:
 
-- Résistance à la neige : 75 kg/m²
-- Epaisseur paroi : 1,2 cm
-- Traité anti-UV
 - Inclus : ventilation, double porte, couvercle, plancher, vérins
 - Résistance à charge : 150 kg/m²
+- Epaisseur paroi : 1,2 cm
+- Résistance à la neige : 75 kg/m²
+- Traité anti-UV
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IKFDGNK/?tag=tolees0d-21)

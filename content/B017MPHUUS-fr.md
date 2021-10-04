@@ -29,8 +29,8 @@ C'est en vente [JOTT SED Veste en Duvet de Soie  Azul  XL Femme](https://www.ama
 ℹ️:
 
 - Vestes / Manteaux Femmes
+- Référence : SED-104
 - Composition : 100% NYLON
 - JOTT
-- Référence : SED-104
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B017MPHUUS/?tag=tolees0d-21)

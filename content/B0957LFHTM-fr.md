@@ -28,10 +28,10 @@ C'est en vente [Dell SE2422HX Écran de PC 24" Full HD LCD à rétroéclairage L
 
 ℹ️:
 
-- Pour des visuels impeccables pendant le jeu, cet écran est équipé de la technologie AMD FreeSync, d’un temps de réponse rapide et d’un taux d’actualisation de 75 Hz.
-- Écran PC SE 23.8 pouces (60.5 cm) 1920 x 1080 pixels, Full HD, LCD, 12 ms
-- Réduisez les émissions de lumière bleue nocives afin de réduire la fatigue oculaire avec la fonctionnalité technologie ComfortView certifiée TÜV de Dell.
 - Taille de lécran: 60,5 cm (23.8"), Résolution de lécran: 1920 x 1080 pixels, Type HD: Full HD, Technologie daffichage: LCD, Temps de réponse: 12 ms, Format dimage: 16:9
+- Pour des visuels impeccables pendant le jeu, cet écran est équipé de la technologie AMD FreeSync, d’un temps de réponse rapide et d’un taux d’actualisation de 75 Hz.
+- Réduisez les émissions de lumière bleue nocives afin de réduire la fatigue oculaire avec la fonctionnalité technologie ComfortView certifiée TÜV de Dell.
 - Garantie 3 ans constructeur
+- Écran PC SE 23.8 pouces (60.5 cm) 1920 x 1080 pixels, Full HD, LCD, 12 ms
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0957LFHTM/?tag=tolees0d-21)

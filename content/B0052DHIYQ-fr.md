@@ -28,9 +28,9 @@ Vous avez [Prym Fond de Coupe 60x90 cm](https://www.amazon.fr/dp/B0052DHIYQ/?tag
 
 ℹ️:
 
-- 60 x 90 cm.
-- Tapis de découpe pour cutter rotatif
-- Couleur : vert.
 - Prym
+- Tapis de découpe pour cutter rotatif
+- 60 x 90 cm.
+- Couleur : vert.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0052DHIYQ/?tag=tolees0d-21)

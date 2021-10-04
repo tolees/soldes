@@ -28,9 +28,9 @@ C'est en vente [Lenovo G32qc-10 Ecran de PC Gaming 31.5"  2560x1440  QHD incurv�
 
 ℹ️:
 
-- Son taux de rafraîchissement de 144 Hz réduit les effets de flou, vous permettant de jouer à vos jeux préférés sans aucune perturbation
-- Utilisez le socle à hauteur et inclinaison réglables ou le support VESA pour le positionner de manière optimale et profiter d’une expérience visuelle confortable. Les ports HDMI, DisplayPort et de sortie audio sont pratiques pour l’utilisateur
 - Profitez de vos jeux sans craindre la fatigue oculaire grâce à ce moniteur certifié TÜV Rheinland Low Blue Light et sans scintillement
 - Plongez dans une nouvelle expérience de jeu avec cet incroyable moniteur QHD incurvé de 81,28 cm (31.5")
+- Utilisez le socle à hauteur et inclinaison réglables ou le support VESA pour le positionner de manière optimale et profiter d’une expérience visuelle confortable. Les ports HDMI, DisplayPort et de sortie audio sont pratiques pour l’utilisateur
+- Son taux de rafraîchissement de 144 Hz réduit les effets de flou, vous permettant de jouer à vos jeux préférés sans aucune perturbation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084GZLY55/?tag=tolees0d-21)

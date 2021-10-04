@@ -28,9 +28,9 @@ C'est en vente [Oral-B Aquacare 6 Jet Dentaire Hydropulseur avec 1 manche et 2 c
 
 ℹ️:
 
-- 3 intensités : personnalisez votre nettoyage avec des pressions d’eau intense, normale, ou douceur
-- Contenu: 1 hydropulseur, 1 chargeur, 2 canules Oxyjet
 - Technologie Oxyjet : enrichie à l’eau avec des microbulles pour une action de nettoyage intensifiée
+- Contenu: 1 hydropulseur, 1 chargeur, 2 canules Oxyjet
+- 3 intensités : personnalisez votre nettoyage avec des pressions d’eau intense, normale, ou douceur
 - Mode unique à la demande : Pour libérer le jet d’eau seulement si nécessaire
 - 2 types de jets : choisissez un jet d’eau ciblé ou rotatif
 

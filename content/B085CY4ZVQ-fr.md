@@ -28,10 +28,10 @@ Vous avez [Braun Series 5 Rasoir Électrique Homme À Grille Sans Fil Bleu  Base
 
 ℹ️:
 
-- Le système EasyClean permet un nettoyage rapide et facile sans retirer la tête de rasage
 - Rasoir électrique avec 3 lames flexibles qui s’adaptent aux contours du visage, pour faciliter le rasage de près
+- Le système EasyClean permet un nettoyage rapide et facile sans retirer la tête de rasage
+- La batterie Li-Ion offre jusqu’à 3 semaines de rasage (50 min). Une charge rapide de 5 minutes suffit pour un rasage complet
 - Rasoir électrique homme 100 % étanche pour une utilisation Wet & Dry
 - Comprend : base de recharge, accessoire tondeuse à barbe, accessoire tondeuse spéciale corps
-- La batterie Li-Ion offre jusqu’à 3 semaines de rasage (50 min). Une charge rapide de 5 minutes suffit pour un rasage complet
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085CY4ZVQ/?tag=tolees0d-21)
