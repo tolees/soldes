@@ -28,9 +28,9 @@ Vous avez [Electronic Arts - Les Sims 4 Vie Citadine - Code de Téléchargement 
 
 ℹ️:
 
-- Attention: Ne contient pas de disque, la boite contient un code pour télécharger le jeu
-- Allez à des festivals culturels animés
-- Découvrez la vie citadine
 - Vivez dans des appartements
+- Attention: Ne contient pas de disque, la boite contient un code pour télécharger le jeu
+- Découvrez la vie citadine
+- Allez à des festivals culturels animés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M0I7YV0/?tag=tolees0d-21)
