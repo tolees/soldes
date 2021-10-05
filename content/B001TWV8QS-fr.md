@@ -28,10 +28,10 @@ Vous avez [Makita GB 602 Double ponceuse](https://www.amazon.fr/dp/B001TWV8QS/?t
 
 ℹ️:
 
-- Deux meules différentes pour le meulage grossier et fin
-- Idéal pour affûter les outils
 - Avec illumination de la zone de travail
-- Réservoir intégré pour le liquide de refroidissement pour refroidir directement les pièces à usiner
+- Idéal pour affûter les outils
+- Deux meules différentes pour le meulage grossier et fin
 - Avec 2 écrans de protection réglables, un avec loupe
+- Réservoir intégré pour le liquide de refroidissement pour refroidir directement les pièces à usiner
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001TWV8QS/?tag=tolees0d-21)
