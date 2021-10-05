@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjimarco Jjbowie Noos Panta avec 42.51 % rabais '
-date: 2021-10-03 16:44:21
+date: 2021-10-05 08:40:22
 image: 'https://m.media-amazon.com/images/I/31a8kxVfwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
