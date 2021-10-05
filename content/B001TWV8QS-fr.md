@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.83 % rabais sur Makita GB 602 Double ponceuse'
-date: 2021-10-04 08:39:01
+date: 2021-10-05 13:40:36
 image: 'https://m.media-amazon.com/images/I/414vGphIy9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Makita GB 602 Double ponceuse](https://www.amazon.fr/dp/B001TWV8QS/?t
 
 ℹ️:
 
-- Avec illumination de la zone de travail
-- Idéal pour affûter les outils
-- Avec 2 écrans de protection réglables, un avec loupe
 - Deux meules différentes pour le meulage grossier et fin
+- Idéal pour affûter les outils
+- Avec illumination de la zone de travail
 - Réservoir intégré pour le liquide de refroidissement pour refroidir directement les pièces à usiner
+- Avec 2 écrans de protection réglables, un avec loupe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001TWV8QS/?tag=tolees0d-21)

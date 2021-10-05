@@ -28,10 +28,10 @@ C'est en vente [Garnier SkinActive - Nettoyant 3 en 1 Charbon Anti-Points Noirs 
 
 ℹ️:
 
-- Contenu : 1x Nettoyant 3 en 1 charbon anti-points noirs incrustés Garnier, Pour peaux grasses à problèmes tenaces, Contenance : 150 ml
-- Résultats : Purifie intensément et élimine les impuretés, Réduit visiblement les points noirs et neutralise les brillances de la peau
-- Formule innovante enrichie en charbon dorigine végétale et acide salicylique, Texture crémeuse noire
-- Application : NETTOYANT : Appliquer quotidiennement sur visage humide - EXFOLIANT : Masser légèrement pour exfolier la peau chaque jour - MASQUE : Laisser poser 5 minutes sur le visage jusquà 3 fois par semaine
 - Produit 3 en 1 sutilisant comme nettoyant, exfoliant et masque pour réduire les points noirs et aider à prévenir leur réapparition, Spécialement conçu pour les peaux grasses à problèmes tenaces
+- Résultats : Purifie intensément et élimine les impuretés, Réduit visiblement les points noirs et neutralise les brillances de la peau
+- Application : NETTOYANT : Appliquer quotidiennement sur visage humide - EXFOLIANT : Masser légèrement pour exfolier la peau chaque jour - MASQUE : Laisser poser 5 minutes sur le visage jusquà 3 fois par semaine
+- Contenu : 1x Nettoyant 3 en 1 charbon anti-points noirs incrustés Garnier, Pour peaux grasses à problèmes tenaces, Contenance : 150 ml
+- Formule innovante enrichie en charbon dorigine végétale et acide salicylique, Texture crémeuse noire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01H76BO9U/?tag=tolees0d-21)

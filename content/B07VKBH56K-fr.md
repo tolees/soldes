@@ -28,10 +28,10 @@ Vous avez [TICTID Android TV Box Android 10.0【4G+64G】 RK3318 Boitier Android
 
 ℹ️:
 
-- 🌟【Dernier Technique RK3318】 D1 Pro Android TV Box TICTID est ésuipée de Amlogic RK3318, le dernier plus puissant technique, qui support une résolution de vidéos plus nette. Profitez-vous d’une expérience de visionnement formidable pendant votre temps libre.
-- 🌟【Couramment！ Rapidement！4G RAM + 64G ROM】 4Go RAM DDR3 permettra de fontionner des applications beaucoup plus couramment et rapidement. 64Go ROM Flash(peut être étendue à 128Go à l’aide d’un SDCard) permet assez despace pour installer les applications dont vous avez besoin.
 - 🌟【Plusieurs Pratiques Ports】Cette Boitier Android TV est équipée de 1 Ports USB 2.0, 1 Port USB 3.0, 1 SD Carte cram, 1 Ethernet Port de 10/100M, 1 Port HDMI , 1 Port dAlimentation,1 AV Port.
-- 🌟【2.4 G/5G WiFi/LAN100M】 Le WiFi 2.4 G + 5G fournit un signal WIFI stable, rapide et de haute qualité, assurant une connexion Internet stable et fluide, vous pouvez profiter de la vue sans délai. (Wifi Dual Band ： 6051P 802.11b / g / n 2.4G, LAN: 10M / 100M , RJ45 standard est disponible.)
+- 🌟【Couramment！ Rapidement！4G RAM + 64G ROM】 4Go RAM DDR3 permettra de fontionner des applications beaucoup plus couramment et rapidement. 64Go ROM Flash(peut être étendue à 128Go à l’aide d’un SDCard) permet assez despace pour installer les applications dont vous avez besoin.
 - 🌟【Android 10.0 + BT 4.0】D1 Pro Box Android TV est équipée du dernier système Android 10.0, qui vous apporte plus de stabilité. Avec Bluetooth 4.0 vous pouvez connecter à votre android box beaucoup daccessoires comme les écouteurs, la souris, le clavier etc.
+- 🌟【Dernier Technique RK3318】 D1 Pro Android TV Box TICTID est ésuipée de Amlogic RK3318, le dernier plus puissant technique, qui support une résolution de vidéos plus nette. Profitez-vous d’une expérience de visionnement formidable pendant votre temps libre.
+- 🌟【2.4 G/5G WiFi/LAN100M】 Le WiFi 2.4 G + 5G fournit un signal WIFI stable, rapide et de haute qualité, assurant une connexion Internet stable et fluide, vous pouvez profiter de la vue sans délai. (Wifi Dual Band ： 6051P 802.11b / g / n 2.4G, LAN: 10M / 100M , RJ45 standard est disponible.)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VKBH56K/?tag=tolees0d-21)
