@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '18.00 % rabais sur Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery '
-date: 2021-10-03 00:39:50
+title: '18.06 % rabais sur Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery '
+date: 2021-10-05 20:51:01
 image: 'https://m.media-amazon.com/images/I/51t0D2sdXIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'Commerçant','Cuisine','Jeux dimitation, déguisements et accessoires',
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39
-comparePrice: 12.67 EUR
+comparePrice: 12.68 EUR
 prodname: 'Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery Shop Pasta Farfalle in a Tin Playset Bois 7 1 x 3 1 x 8 1 cm  17176  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Erzi'
 buyurl: 'https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21'
-descuento: '18.00'
-average: '7.39'
+descuento: '18.06'
+average: '8.39'
 ---
 
-Vous avez [Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery Shop Pasta Farfalle in a Tin Playset Bois 7 1 x 3 1 x 8 1 cm  17176  Multicolore](https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21)  à  18.00 % de réduction, prix final  10.39 EUR (original: 12.67 EUR) ici:
+Vous avez [Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery Shop Pasta Farfalle in a Tin Playset Bois 7 1 x 3 1 x 8 1 cm  17176  Multicolore](https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21)  à  18.06 % de réduction, prix final  10.39 EUR (original: 12.68 EUR) ici:
 
 [![Erzi- 7.1 x 3.1 x 8.1 cm Wooden Grocery ](https://m.media-amazon.com/images/I/51t0D2sdXIL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21)
 
 ℹ️:
 
-- Fabriqué en Allemagne
-- Dimensions : 7,1 x 3,1 x 8,1 cm
 - Les nouilles sont des produits alimentaires typiques essentiels à tout magasin ou cuisine de jeu
+- Dimensions : 7,1 x 3,1 x 8,1 cm
 - En hêtre
+- Fabriqué en Allemagne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AW9M6UK/?tag=tolees0d-21)
