@@ -28,8 +28,8 @@ C'est en vente [DiO Connected Home - Télécommande 16 canaux + 2 Prises On/Off]
 
 ℹ️:
 
-- 3500W, 230VAC - 50Hz
 - 1x 3V CR2032 (incl.)
+- 3500W, 230VAC - 50Hz
 - - Solution simple de contrôle à distance de luminaires ou autres appareils électriques, sans devoir modifier linstallation électrique. - Fonction groupe: Permet une commande facile et sans fil, individuelle ou centralisée de ses luminaires ou ap
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005FTXJTK/?tag=tolees0d-21)

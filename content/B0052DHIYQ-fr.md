@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.66 % rabais sur Prym Fond de Coupe 60x90 cm'
-date: 2021-10-04 13:13:47
+date: 2021-10-06 16:08:47
 image: 'https://m.media-amazon.com/images/I/51jbWrarbiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Prym Fond de Coupe 60x90 cm](https://www.amazon.fr/dp/B0052DHIYQ/?tag
 
 ℹ️:
 
-- Prym
 - Tapis de découpe pour cutter rotatif
-- 60 x 90 cm.
+- Prym
 - Couleur : vert.
+- 60 x 90 cm.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0052DHIYQ/?tag=tolees0d-21)
