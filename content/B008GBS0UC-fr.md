@@ -30,7 +30,7 @@ Vous avez [TFA Dostmann 60.3017 Horloge murale  Blanc ](https://www.amazon.fr/dp
 
 - Très lisible
 - Corps plat
-- Grands chiffres
 - Dimensions : Ø 280 x 40 mm
+- Grands chiffres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008GBS0UC/?tag=tolees0d-21)
