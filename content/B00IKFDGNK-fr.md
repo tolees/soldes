@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.76 % rabais sur Keter Abri Horizontal Range Poubelle SIO'
-date: 2021-10-04 12:48:01
+date: 2021-10-06 09:42:25
 image: 'https://m.media-amazon.com/images/I/31PqUv2MYzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Keter Abri Horizontal Range Poubelle SIO Max - 1200 litres](https://w
 
 ℹ️:
 
-- Inclus : ventilation, double porte, couvercle, plancher, vérins
 - Résistance à charge : 150 kg/m²
-- Epaisseur paroi : 1,2 cm
 - Résistance à la neige : 75 kg/m²
 - Traité anti-UV
+- Inclus : ventilation, double porte, couvercle, plancher, vérins
+- Epaisseur paroi : 1,2 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IKFDGNK/?tag=tolees0d-21)
