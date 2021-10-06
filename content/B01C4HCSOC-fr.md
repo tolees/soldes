@@ -28,12 +28,12 @@ Vous avez [Logitech MK235 Combo Clavier et Souris pour Windows  2 4 GHz avec Ré
 
 ℹ️:
 
-- Clavier - Autonomie: 36 mois
-- Disposition des Touches Familière et Traditionnelle : Ce pack clavier souris sans fil AZERTY contient un clavier classique très facile à prendre en main. Les touches sont pensées pour le confort
-- Conçu pour Résister : Le pack Logitech clavier et souris sans fil MK235 noir résiste aux éclaboussures vous éviterez ainsi une catastrophe qui pourrait l’endommager
 - Pour plus de Confort, Essayez l’Ensemble Logitech MK540 : Touches arrondies, repose-poignets, souris de taille standard avec un revêtement en caoutchouc souple et raccourcis personnalisables
-- Une Batterie Longue Durée : Le Logitech MK235 est un ensemble clavier souris sans fil possédant une vraie autonomie longue durée, 3 ans pour le clavier, 1 pour la souris
+- Clavier - Autonomie: 36 mois
 - Compatibilité : Cet ensemble clavier et souris sans fil est compatible avec les dispositifs Windows 7-8-10 et versions ultérieures, Chrome et Linux
+- Disposition des Touches Familière et Traditionnelle : Ce pack clavier souris sans fil AZERTY contient un clavier classique très facile à prendre en main. Les touches sont pensées pour le confort
+- Une Batterie Longue Durée : Le Logitech MK235 est un ensemble clavier souris sans fil possédant une vraie autonomie longue durée, 3 ans pour le clavier, 1 pour la souris
+- Conçu pour Résister : Le pack Logitech clavier et souris sans fil MK235 noir résiste aux éclaboussures vous éviterez ainsi une catastrophe qui pourrait l’endommager
 - Connexion sans Fil Fiable : Cet ensemble clavier souris fonctionne via le mini récepteur USB Unifing, vous bénéficierez ainsi d’une connexion fiable qui vous permettra de travailler sans problème
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C4HCSOC/?tag=tolees0d-21)
