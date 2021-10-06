@@ -28,10 +28,10 @@ C'est en vente [Philips HD6554/51 Machine à Café à Dosettes Senseo Original G
 
 ℹ️:
 
-- Tirez le meilleur de vos dosettes avec la technologie booster darômes
 - Ajustez manuellement la longueur de votre café
-- Crema plus: une crème gourmande améliorée
-- Servez 1 ou 2 tasses de café simultanément
 - Sélectionnez en un clique lintensité de votre café
+- Servez 1 ou 2 tasses de café simultanément
+- Tirez le meilleur de vos dosettes avec la technologie booster darômes
+- Crema plus: une crème gourmande améliorée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074KN3GDT/?tag=tolees0d-21)

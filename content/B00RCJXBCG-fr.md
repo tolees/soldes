@@ -28,12 +28,12 @@ Vous avez [BLACK+DECKER MT218K-QW Perceuse-Visseuse Multievo - Outil multifoncti
 
 ℹ️:
 
-- Innovation BLACK+DECKER : 1 corps de perceuse sans fil sur laquelle vous pouvez clipser une dizaine de têtes différentes qui font de cet outil indispensable le plus complet du marché, nhésitez pas, la révolution multievo vous attend
-- Batterie interchangeable avec la totalité des produits 18V BLACK+DECKER Bricolage et Jardinage
-- Polyvalent et pratique : Choisissez les têtes selon les applications à accomplir et optimisez votre budget tout en gagnant de la place
-- Technologie lithium: plus grande autonomie, pas deffet mémoire
-- Fonction perçage : 20,9 Nm de couple, 0-750 trs/min, 10 positions de contrôle de couple, capacité de perçage dans le bois 25 mm, dans lacier 10 mm
 - Customisable grâce à lensemble des têtes disponibles : perceuse à percussion, scie sauteuse, ponceuse, haie, cisaille à gazon, lime électrique
 - Léger et compact
+- Fonction perçage : 20,9 Nm de couple, 0-750 trs/min, 10 positions de contrôle de couple, capacité de perçage dans le bois 25 mm, dans lacier 10 mm
+- Innovation BLACK+DECKER : 1 corps de perceuse sans fil sur laquelle vous pouvez clipser une dizaine de têtes différentes qui font de cet outil indispensable le plus complet du marché, nhésitez pas, la révolution multievo vous attend
+- Technologie lithium: plus grande autonomie, pas deffet mémoire
+- Batterie interchangeable avec la totalité des produits 18V BLACK+DECKER Bricolage et Jardinage
+- Polyvalent et pratique : Choisissez les têtes selon les applications à accomplir et optimisez votre budget tout en gagnant de la place
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RCJXBCG/?tag=tolees0d-21)

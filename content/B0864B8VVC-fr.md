@@ -28,11 +28,11 @@ Vous avez [Pampers Lingettes Aqua Harmonie  Composée à 99% d Eau Pure et Sans 
 
 ℹ️:
 
-- Les lingettes Pampers Aqua Harmonie sont conçues pour protéger la peau délicate de votre bébé
-- Le 1 % restant se compose de nettoyants doux testés dermatologiquement et d’ingrédients permettant de maintenir le pH naturel de la peau de votre bébé et ainsi protéger sa peau des irritations
 - Adaptées aux peaux délicates des nouveau-nés, pour le visage, les mains, les pieds et le siège de bébé
-- Fabriquées à partir de coton bio (coton biologique) pour être douces au contact de la peau de votre bébé
 - Composées à 99 % d’eau pure pour nettoyer la peau en douceur
+- Le 1 % restant se compose de nettoyants doux testés dermatologiquement et d’ingrédients permettant de maintenir le pH naturel de la peau de votre bébé et ainsi protéger sa peau des irritations
+- Fabriquées à partir de coton bio (coton biologique) pour être douces au contact de la peau de votre bébé
+- Les lingettes Pampers Aqua Harmonie sont conçues pour protéger la peau délicate de votre bébé
 - 0 % d’alcool et de parfum
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0864B8VVC/?tag=tolees0d-21)

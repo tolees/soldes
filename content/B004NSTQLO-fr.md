@@ -29,11 +29,11 @@ Vous avez [Lacoste L1212  Polo Homme - Groseillier - XL](https://www.amazon.fr/d
 ℹ️:
 
 - Special size type: Standard
-- Lavage en machine 40° C
 - Coupe classique.
+- Dimensions de lemballage de larticle: 33.2 L x 2.6 H x 23.2 W (centimeters)
+- Manches longues
 - best polo mc homme
 - Type de tissu: 100% co.coton
-- Manches longues
-- Dimensions de lemballage de larticle: 33.2 L x 2.6 H x 23.2 W (centimeters)
+- Lavage en machine 40° C
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004NSTQLO/?tag=tolees0d-21)

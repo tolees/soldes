@@ -28,14 +28,14 @@ Vous avez [Microsoft – Surface Keyboard – Clavier sans fil Bluetooth compati
 
 ℹ️:
 
-- Jusqu’à 12 mois d’autonomie
-- Fréquence sans fil : gamme de fréquence 2,4 MHz
-- Compatibilité : Microsoft Windows 10 / 8.1 / 8, 10 Phone, Mac OS 10.10.5/ 10.11.1/10.11.4, Android 4.4.2-5.0
-- Type et quantité de piles : 2 piles alcalines AAA
 - Portée sans fil ’ 50 pieds (15 mètres) en plein air, jusqu’à 23 pieds (7 mètres) dans un environnement de bureau classique
 - Design épuré et élégant
-- Connectivité Bluetooth version 4.0 ou ultérieure
+- Fréquence sans fil : gamme de fréquence 2,4 MHz
+- Jusqu’à 12 mois d’autonomie
+- Type et quantité de piles : 2 piles alcalines AAA
 - Conçu en aluminium pour plus de durabilité et d’agrément
 - Dimensions du produit : (L x l x h) : 42,1 x 11,3 x 1,9 cm
+- Connectivité Bluetooth version 4.0 ou ultérieure
+- Compatibilité : Microsoft Windows 10 / 8.1 / 8, 10 Phone, Mac OS 10.10.5/ 10.11.1/10.11.4, Android 4.4.2-5.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XTQVTGP/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Corsair SABRE PRO CHAMPION SERIES Souris Gaming  Forme Ergonomique po
 
 ℹ️:
 
-- Pesant seulement 69 g pour permettre des réflexes et mouvements rapides, la souris SABRE PRO solide vous accompagne durant toutes vos parties, même les plus longues.
-- Un câble en paracorde extrêmement léger et flexible réduit considérablement le frottement pour garantir des mouvements de souris fluides et agiles.
 - Dotés de ressorts, les boutons CORSAIR QUICKSTRIKE ne présentent aucun interstice entre les boutons principaux et leurs switchs afin que vos clics, tirs et sorts soient plus rapides que jamais.
-- La technologie d’hyper-traitement CORSAIR AXON transmet vos mouvements et clics jusqu’à 8x plus rapidement que les souris gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
 - Les produits CORSAIR CHAMPION SERIES sont conçus pour et testés par des professionnels de l’e-sport – comme cette souris très confortable de niveau professionnel qui vous mène à la victoire avec sa forme ergonomique adaptée à tous les styles de prise en main et sa prise en charge des mouvements rapides grâce à ses entrées hyper réactives.
+- Un câble en paracorde extrêmement léger et flexible réduit considérablement le frottement pour garantir des mouvements de souris fluides et agiles.
+- Pesant seulement 69 g pour permettre des réflexes et mouvements rapides, la souris SABRE PRO solide vous accompagne durant toutes vos parties, même les plus longues.
+- La technologie d’hyper-traitement CORSAIR AXON transmet vos mouvements et clics jusqu’à 8x plus rapidement que les souris gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ILQJBZK/?tag=tolees0d-21)
