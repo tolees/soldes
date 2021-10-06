@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DiO Connected Home - Télécommande 16 can avec 28.07 % rabais '
-date: 2021-10-04 13:14:27
+date: 2021-10-06 15:33:24
 image: 'https://m.media-amazon.com/images/I/31Ojcgzd2hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [DiO Connected Home - Télécommande 16 canaux + 2 Prises On/Off]
 
 ℹ️:
 
-- - Solution simple de contrôle à distance de luminaires ou autres appareils électriques, sans devoir modifier linstallation électrique. - Fonction groupe: Permet une commande facile et sans fil, individuelle ou centralisée de ses luminaires ou ap
-- 1x 3V CR2032 (incl.)
 - 3500W, 230VAC - 50Hz
+- 1x 3V CR2032 (incl.)
+- - Solution simple de contrôle à distance de luminaires ou autres appareils électriques, sans devoir modifier linstallation électrique. - Fonction groupe: Permet une commande facile et sans fil, individuelle ou centralisée de ses luminaires ou ap
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005FTXJTK/?tag=tolees0d-21)

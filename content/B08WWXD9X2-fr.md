@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.20 % rabais sur LEGO 10947 Duplo Les Voitures de Course '
-date: 2021-10-05 13:27:54
+date: 2021-10-06 15:42:22
 image: 'https://m.media-amazon.com/images/I/516m7sQmorS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08WWXD9X2/?tag=tolees0d-21'
 descuento: '16.20'
-average: '34.135'
+average: '35.686'
 ---
 
 Vous avez [LEGO 10947 Duplo Les Voitures de Course Jouet Enfant 2+ Ans  Petites Voitures](https://www.amazon.fr/dp/B08WWXD9X2/?tag=tolees0d-21)  à  16.20 % de réduction, prix final  41.89 EUR (original: 49.99 EUR) ici:
@@ -30,8 +30,8 @@ Vous avez [LEGO 10947 Duplo Les Voitures de Course Jouet Enfant 2+ Ans  Petites 
 
 - Les deux figurines de ce jouet de voiture pour bébés représentent un homme et une femme avec des casques, pour partager des moments créatifs à plusieurs
 - Coloré et polyvalent, ce jouet enfant 2+ ans LEGO Les voitures de course permet aux parents de passer des moments exceptionnels avec leurs enfants
-- Inclut dans ce jeu de construction : 2 jouets petites voitures, une grille de départ pour la course et une petite pompe à essences
-- Les accessoires comprennent un trophée, des drapeaux, un chargeur électrique, un treuil, 2 cônes, 2 pompes à essence et une brosse pour nettoyer les voitures
 - Une fois la course terminée, la grille peut être reconstruire en podium afin que les pilotes puissent célébrer leur victoire avec un trophée
+- Les accessoires comprennent un trophée, des drapeaux, un chargeur électrique, un treuil, 2 cônes, 2 pompes à essence et une brosse pour nettoyer les voitures
+- Inclut dans ce jeu de construction : 2 jouets petites voitures, une grille de départ pour la course et une petite pompe à essences
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WWXD9X2/?tag=tolees0d-21)

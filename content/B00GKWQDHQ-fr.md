@@ -28,9 +28,9 @@ Vous avez [Pustefix - Recharge bulles  2 5L](https://www.amazon.fr/dp/B00GKWQDHQ
 
 ℹ️:
 
-- Pour les enfants à partir de 7 ans
-- 2,5l
-- Recharge pour tous les produits Pustefix XXL-Bubbles
 - Fabriqué en Allemagne
+- Pour les enfants à partir de 7 ans
+- Recharge pour tous les produits Pustefix XXL-Bubbles
+- 2,5l
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GKWQDHQ/?tag=tolees0d-21)
