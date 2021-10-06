@@ -28,15 +28,15 @@ C'est en vente [2020 Apple iPad Pro  11 Pouces  Wi-FI  512 Go  - Argent  2ᵉ�
 
 ℹ️:
 
-- Écran Liquid Retina bord à bord de 11 pouces avec ProMotion, True Tone et large gamme de couleurs P3
-- Wi‑Fi 6 802.11ax
+- Caméra avant TrueDepth 7 Mpx
+- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Connecteur USB-C pour la recharge et les accessoires
+- Quatre haut‑parleurs et cinq micros de qualité studio
 - Puce A12Z Bionic avec Neural Engine
 - Face ID pour l’authentification sécurisée et Apple Pay
-- Caméra avant TrueDepth 7 Mpx
-- Quatre haut‑parleurs et cinq micros de qualité studio
-- Connecteur USB-C pour la recharge et les accessoires
-- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Wi‑Fi 6 802.11ax
 - Appareils photo grand‑angle 12 Mpx et ultra grand‑angle 10 Mpx, scanner LiDAR
 - Jusqu’à 10 heures d’autonomie
+- Écran Liquid Retina bord à bord de 11 pouces avec ProMotion, True Tone et large gamme de couleurs P3
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0863XW9JF/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Rexona - Cotton Dry Cotton  stick déodorant pour femme  paquet de 6 
 
 ℹ️:
 
-- Formule extrêmement fiable
-- Parfum activé par de petits mouvements progressivement
 - Stick déodorant sec en coton pour femme
 - Durée de vie : 48 heures
+- Parfum activé par de petits mouvements progressivement
+- Formule extrêmement fiable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CISWSUW/?tag=tolees0d-21)

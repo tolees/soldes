@@ -28,10 +28,10 @@ Vous avez [Crocs Classic  Sabots Mixte  À feuilles persistantes  41/42 EU](http
 
 ℹ️:
 
-- Farbe: vert
-- Type: Sabots avec bride cheville
-- Hersteller Artikelnummer: 10001-375
-- Weitere Informationen: CROCSONE
 - Material: Croslite
+- Farbe: vert
+- Weitere Informationen: CROCSONE
+- Hersteller Artikelnummer: 10001-375
+- Type: Sabots avec bride cheville
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006TAI9A8/?tag=tolees0d-21)

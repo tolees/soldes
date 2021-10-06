@@ -28,15 +28,15 @@ Vous avez [2020 Apple iPad Pro  12 9 Pouces  Wi-FI + Cellular  1 to  - Gris si
 
 ℹ️:
 
-- Jusqu’à 10 heures d’autonomie
-- Quatre haut‑parleurs et cinq micros de qualité studio
 - Puce A12Z Bionic avec Neural Engine
-- Face ID pour l’authentification sécurisée et Apple Pay
 - Caméra avant TrueDepth 7 Mpx
-- Écran Liquid Retina bord à bord de 12,9 pouces avec ProMotion, True Tone et large gamme de couleurs P3
-- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
 - Wi‑Fi 6 802.11ax et réseaux de données cellulaires 4G LTE Advanced
-- Connecteur USB-C pour la recharge et les accessoires
 - Appareils photo grand‑angle 12 Mpx et ultra grand‑angle 10 Mpx, scanner LiDAR
+- Quatre haut‑parleurs et cinq micros de qualité studio
+- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Écran Liquid Retina bord à bord de 12,9 pouces avec ProMotion, True Tone et large gamme de couleurs P3
+- Connecteur USB-C pour la recharge et les accessoires
+- Jusqu’à 10 heures d’autonomie
+- Face ID pour l’authentification sécurisée et Apple Pay
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0863VDTB6/?tag=tolees0d-21)
