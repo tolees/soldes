@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '69.72 % rabais sur Diesel Homme Analogique Quartz Montre av'
-date: 2021-09-28 06:27:48
+date: 2021-10-07 09:56:26
 image: 'https://m.media-amazon.com/images/I/51n5cIjKC4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
