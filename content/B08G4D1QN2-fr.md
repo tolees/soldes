@@ -28,10 +28,10 @@ Vous avez [PewinGo Filtre Fontaine eau Chat  Filtre de Fontaine Triple Action [6
 
 ℹ️:
 
-- 🛡️Meilleure Filtration🛡️ Charbon actif + résine échangeuse dions. Expulser les débris, absorber les métaux lourds, éliminer les odeurs. Protégez votre petit chat des infections inutiles. Offrez-leur un jus deau plus sain et plus savoureux!
-- ⛲Large compatibilité⛲ PewinGo, Aerb, Omasi, Bonve, Pedy, DADYPET, Parner ... notre filtre pour fontaine convient à la plupart des fontaines pour chats de 2 à 2,5 litres! Dimensions: diamètre extérieur 125 mm, diamètre intérieur 37 mm, épaisseur 10 mm
-- ⏰Changement de 2 à 4 semaines⏰ Bien que notre filtre de fontaine puisse durer longtemps, pour assurer la meilleure filtration protectrice pour nos animaux, nous suggérons un changement toutes les 2 à 4 semaines. Avec un emballage individuel, chaque filtre de fontaine peut être facilement stocké et bien réservé avec le meilleur effet!
-- 💌Garantie de satisfaction à 100%💌 45 jours de remboursement, 24 mois de garantie. Si vous avez des questions sur notre produit, veuillez nous contacter à tout moment! Nous nous efforcerons de vous aider!
 - ⚠️Rinçage et façade vers le haut⚠️ Rincez le filtre de fontaine pendant 10 minutes avant utilisation pour éliminer la poussière de charbon de bois. Veuillez mettre la façade plate vers le haut pour assurer la meilleure filtration!
+- ⏰Changement de 2 à 4 semaines⏰ Bien que notre filtre de fontaine puisse durer longtemps, pour assurer la meilleure filtration protectrice pour nos animaux, nous suggérons un changement toutes les 2 à 4 semaines. Avec un emballage individuel, chaque filtre de fontaine peut être facilement stocké et bien réservé avec le meilleur effet!
+- ⛲Large compatibilité⛲ PewinGo, Aerb, Omasi, Bonve, Pedy, DADYPET, Parner ... notre filtre pour fontaine convient à la plupart des fontaines pour chats de 2 à 2,5 litres! Dimensions: diamètre extérieur 125 mm, diamètre intérieur 37 mm, épaisseur 10 mm
+- 💌Garantie de satisfaction à 100%💌 45 jours de remboursement, 24 mois de garantie. Si vous avez des questions sur notre produit, veuillez nous contacter à tout moment! Nous nous efforcerons de vous aider!
+- 🛡️Meilleure Filtration🛡️ Charbon actif + résine échangeuse dions. Expulser les débris, absorber les métaux lourds, éliminer les odeurs. Protégez votre petit chat des infections inutiles. Offrez-leur un jus deau plus sain et plus savoureux!
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4D1QN2/?tag=tolees0d-21)
