@@ -30,8 +30,8 @@ C'est en vente [Warner Classics - Bizet : Symphonie en ut majeur - L Arlésienne
 
 - Year Of Release: 2000
 - Notes: W/Sir Thomas Beecham
-- Country Of Release: NLD
 - Record Label: Emi Classics
+- Country Of Release: NLD
 - Catalog#: 5672312
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00003ZKRD/?tag=tolees0d-21)

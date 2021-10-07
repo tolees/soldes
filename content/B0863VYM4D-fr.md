@@ -28,15 +28,15 @@ Vous avez [2020 Apple iPad Pro  12 9 Pouces  Wi-FI + Cellular  512 Go  - Gris 
 
 ℹ️:
 
-- Écran Liquid Retina bord à bord de 12,9 pouces avec ProMotion, True Tone et large gamme de couleurs P3
-- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Face ID pour l’authentification sécurisée et Apple Pay
 - Appareils photo grand‑angle 12 Mpx et ultra grand‑angle 10 Mpx, scanner LiDAR
 - Quatre haut‑parleurs et cinq micros de qualité studio
-- Connecteur USB-C pour la recharge et les accessoires
-- Puce A12Z Bionic avec Neural Engine
-- Face ID pour l’authentification sécurisée et Apple Pay
-- Caméra avant TrueDepth 7 Mpx
 - Wi‑Fi 6 802.11ax et réseaux de données cellulaires 4G LTE Advanced
 - Jusqu’à 10 heures d’autonomie
+- Connecteur USB-C pour la recharge et les accessoires
+- Caméra avant TrueDepth 7 Mpx
+- Compatible avec le Magic Keyboard, le Smart Keyboard Folio et l’Apple Pencil
+- Puce A12Z Bionic avec Neural Engine
+- Écran Liquid Retina bord à bord de 12,9 pouces avec ProMotion, True Tone et large gamme de couleurs P3
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0863VYM4D/?tag=tolees0d-21)
