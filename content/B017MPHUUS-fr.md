@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOTT SED Veste en Duvet de Soie  Azul  X avec 27.44 % rabais '
-date: 2021-10-04 13:14:42
+date: 2021-10-06 23:44:27
 image: 'https://m.media-amazon.com/images/I/41ppGJtjX4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [JOTT SED Veste en Duvet de Soie  Azul  XL Femme](https://www.ama
 
 ℹ️:
 
-- Vestes / Manteaux Femmes
+- JOTT
 - Référence : SED-104
 - Composition : 100% NYLON
-- JOTT
+- Vestes / Manteaux Femmes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B017MPHUUS/?tag=tolees0d-21)
