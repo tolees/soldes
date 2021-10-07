@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Classics - Bizet : Symphonie en u avec 28.13 % rabais '
-date: 2021-10-05 16:39:06
+date: 2021-10-07 13:12:56
 image: 'https://m.media-amazon.com/images/I/51sNfGrUZyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Warner Classics - Bizet : Symphonie en ut majeur - L Arlésienne
 
 ℹ️:
 
-- Country Of Release: NLD
 - Year Of Release: 2000
-- Catalog#: 5672312
-- Record Label: Emi Classics
 - Notes: W/Sir Thomas Beecham
+- Country Of Release: NLD
+- Record Label: Emi Classics
+- Catalog#: 5672312
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00003ZKRD/?tag=tolees0d-21)
