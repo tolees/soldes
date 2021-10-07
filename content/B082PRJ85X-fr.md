@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai Namco Entertainment - Sword Art O avec 55.72 % rabais '
-date: 2021-10-05 21:59:16
+date: 2021-10-07 02:07:00
 image: 'https://m.media-amazon.com/images/I/51oaLpWI7NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ C'est en vente [Bandai Namco Entertainment - Sword Art Online Alicization Lycori
 ℹ️:
 
 - Fidèle à lœuvre originale
-- Retrouvez vos personnages préférés
 - Une fleur symbolique
+- Retrouvez vos personnages préférés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082PRJ85X/?tag=tolees0d-21)
