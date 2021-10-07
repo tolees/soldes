@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer KS 25 Balance de cuisine avec 38.48 % rabais '
-date: 2021-10-06 18:58:51
+date: 2021-10-07 21:57:12
 image: 'https://m.media-amazon.com/images/I/41KyjF2V+zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

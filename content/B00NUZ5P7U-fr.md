@@ -28,9 +28,9 @@ C'est en vente [Pepe Jeans Venus Pl200029 Jeans - Femme - Bleu  10oz Authentic R
 
 ℹ️:
 
+- Care instructions: Lavage en machine
 - Dimensions de lemballage de larticle: 4.6 L x 37.9 H x 27.5 W (centimeters)
 - Type de tissu: 83,5% Coton, 14,5% Polyester, 2% Elastane
-- Care instructions: Lavage en machine
 - Type de coupe:Droit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NUZ5P7U/?tag=tolees0d-21)

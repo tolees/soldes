@@ -28,9 +28,9 @@ C'est en vente [Mattel Games - Blokus  Jeu de Société et de Stratégie  BJV44]
 
 ℹ️:
 
-- Les joueurs placent à tour de rôle des pièces sur le plateau : chaque pièce posée doit toucher une pièce de la même couleur, mais seulement par les coins
 - Le jeu de stratégie idéal pour toute la famille, moins dune minute suffit pour apprendre à y jouer, mais quel défi pour tous les âges
-- La partie est terminée lorsquaucun des joueurs ne peut plus poser de pièce, le joueur qui possède le moins de carrés remporte la partie
 - Revendique ta suprématie et protège ton territoire en plaçant autant de pièces sur le plateau que possible tout en essayant de bloquer tes adversaires
+- Les joueurs placent à tour de rôle des pièces sur le plateau : chaque pièce posée doit toucher une pièce de la même couleur, mais seulement par les coins
+- La partie est terminée lorsquaucun des joueurs ne peut plus poser de pièce, le joueur qui possède le moins de carrés remporte la partie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FBWBM3G/?tag=tolees0d-21)
