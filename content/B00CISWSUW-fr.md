@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.25 % rabais sur Rexona - Cotton Dry Cotton  stick déodor'
-date: 2021-10-05 22:00:17
+date: 2021-10-07 19:17:24
 image: 'https://m.media-amazon.com/images/I/41goWu+JWxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
