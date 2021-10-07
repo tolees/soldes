@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - The Legend of Zelda: Link s A avec 34.02 % rabais '
-date: 2021-10-05 22:46:07
+date: 2021-10-07 10:12:50
 image: 'https://m.media-amazon.com/images/I/51Xtjsa7suL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B07QZFLVM7/?tag=tolees0d-21'
 descuento: '34.02'
-average: '43.685'
+average: '43.4166666666667'
 ---
 
 C'est en vente [Nintendo - The Legend of Zelda: Link s Awakening](https://www.amazon.fr/dp/B07QZFLVM7/?tag=tolees0d-21)  à  34.02 % de réduction, prix final  42.88 EUR (original: 64.99 EUR) ici:

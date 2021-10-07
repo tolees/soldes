@@ -28,15 +28,15 @@ Vous avez [Beats by Dr. Dre - Écouteurs sans Fil Beats Flex – Puce Apple W
 
 ℹ️:
 
-- Compatibles avec les appareils Apple et Android
-- Écouteurs magnétiques avec Lecture/Mise en pause automatique
-- Confort optimal tout au long de la journée grâce au câble Flex-Form et aux quatre tailles dembout disponibles
 - Commandes intégrées pour la musique, les appels et lassistant vocal
-- Partage audio sans fil avec un autre casque ou dautres écouteurs Beats4, ou des AirPods
-- Bluetooth classe 1 pour une portée plus élevée et moins de pertes de connexion
-- Équipés de la puce Apple W1 pour casques et écouteurs pour une connectivité parfaite
-- Jusquà 12 heures découte
 - Contenu du coffret: Écouteurs sans fil Beats Flex, Câble de charge USB-C vers USB-C, Embouts de quatre tailles différentes, Guide de démarrage rapide, Carte de garantie
+- Équipés de la puce Apple W1 pour casques et écouteurs pour une connectivité parfaite
+- Compatibles avec les appareils Apple et Android
+- Jusquà 12 heures découte
+- Confort optimal tout au long de la journée grâce au câble Flex-Form et aux quatre tailles dembout disponibles
+- Écouteurs magnétiques avec Lecture/Mise en pause automatique
 - Micro intégré avec réduction du vent pour une voix plus claire
+- Bluetooth classe 1 pour une portée plus élevée et moins de pertes de connexion
+- Partage audio sans fil avec un autre casque ou dautres écouteurs Beats4, ou des AirPods
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08L6YRFDC/?tag=tolees0d-21)
