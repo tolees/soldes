@@ -28,11 +28,11 @@ Vous avez [Barbie Extra poupée articulée aux cheveux multicolores  look tendan
 
 ℹ️:
 
-- Les enfants de 3 à 9 ans peuvent collectionner ces poupées, découvrir l’univers de Barbie et vivre des aventures pleines de style et de personnalité !
-- La figurine chiot est, elle aussi, EXTRA-ordinaire avec sa frimousse rigolote et sa voiture rose.
-- Barbie affiche une coiffure audacieuse avec sa chevelure arc-en-ciel et ses deux grosses tresses.
-- Elle s’affirme aussi par son look unique : un T-shirt imprimé et un short en jean avec de vraies poches, complétés d’une veste en jean décorée de flammes et de franges extralongues sur les manches.
 - En matière de mode, les poupées Barbie Extra affichent une attitude « toujours plus », avec 15 éléments comprenant des vêtements et des accessoires de mode, ainsi qu’un animal de compagnie et des accessoires pour animaux.
 - Cette Barbie est fournie avec des accessoires qui expriment sa personnalité et stimulent l’imagination : un sac à main pour son téléphone portable, des mini-lunettes de soleil, des bijoux, des chaussettes vertes et des bottes marron.
+- Barbie affiche une coiffure audacieuse avec sa chevelure arc-en-ciel et ses deux grosses tresses.
+- La figurine chiot est, elle aussi, EXTRA-ordinaire avec sa frimousse rigolote et sa voiture rose.
+- Les enfants de 3 à 9 ans peuvent collectionner ces poupées, découvrir l’univers de Barbie et vivre des aventures pleines de style et de personnalité !
+- Elle s’affirme aussi par son look unique : un T-shirt imprimé et un short en jean avec de vraies poches, complétés d’une veste en jean décorée de flammes et de franges extralongues sur les manches.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HG3GR32/?tag=tolees0d-21)
