@@ -28,10 +28,10 @@ C'est en vente [Under Armour - 1328699 - T-shirt de compression Homme - Gris - S
 
 ℹ️:
 
-- Tombé parfait – Avec les manches raglan modifiées du haut de sport et son col à profil bas, le confort de port de ce vêtement est garanti.
-- T-shirt de sport optimal – Ce T-shirt est respirant, confortable et dispose de stratégiques empiècements en mailles aérées. Parfait pour tout sport !
 - T-shirt sport – Avec sa technologie anti-odeur, le vêtement de sport empêche le développement de microbes et lutte contre la formation dodeurs.
-- Matériau et coupe – Under Armour Hommes haut compression UA Rush, manches longues, coupe : compression, matériau : 82% polyester et 18% élasthanne.
 - Technologie Rush – Les énergies générées lors du sport sont sauvegardées par des minéraux dans le haut de compression et sont redonnées au corps.
+- Tombé parfait – Avec les manches raglan modifiées du haut de sport et son col à profil bas, le confort de port de ce vêtement est garanti.
+- Matériau et coupe – Under Armour Hommes haut compression UA Rush, manches longues, coupe : compression, matériau : 82% polyester et 18% élasthanne.
+- T-shirt de sport optimal – Ce T-shirt est respirant, confortable et dispose de stratégiques empiècements en mailles aérées. Parfait pour tout sport !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KH1MN3R/?tag=tolees0d-21)
