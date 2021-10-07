@@ -31,8 +31,8 @@ Vous avez [Electronic Arts - FIFA 22  PlayStation 5 ](https://www.amazon.fr/dp/B
 - TECHNOLOGIE HYPERMOTION : Grande nouveauté d’EA SPORTS FIFA et des consoles de nouvelle génération, HyperMotion allie pour la toute première fois deux technologies afin de révolutionner la jouabilité.
 - Contrôle Fluide Du Ballon : Grâce à des animations repensées, le contrôle du ballon dans FIFA 22 est plus naturel et plus fluide qu’auparavant.
 - Duels Aériens Cinétiques : La technologie utilisée lors des duels permet la synchronisation des animations des joueurs pour renforcer le réalisme et la réactivité lors de la lutte pour la conquête du ballon dans les airs.
-- Humanisation Des Joueurs : Grâce à la Capture 11-11 Avancée, les nouvelles animations sur les phases de jeu sans le ballon donnent littéralement vie aux joueurs sur le terrain.
 - MI - Fluidité : Notre algorithme réinvente le traitement des animations dans le jeu vidéo avec une plus grande fluidité et un réalisme visuel encore jamais atteint.
+- Humanisation Des Joueurs : Grâce à la Capture 11-11 Avancée, les nouvelles animations sur les phases de jeu sans le ballon donnent littéralement vie aux joueurs sur le terrain.
 - Capture 11-11 Avancée : Les combinaisons Xsens permettent, pour la première fois, de capturer les mouvements de 22 footballeurs professionnels en plein effort.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0992JHMSX/?tag=tolees0d-21)
