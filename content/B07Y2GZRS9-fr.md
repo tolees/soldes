@@ -28,9 +28,9 @@ C'est en vente [Head & Shoulders - Head & Shoulders  Citrus Fresh Shampoing An
 
 ℹ️:
 
-- Préserve la beauté des cheveux et élimine jusqu’à 100 % des pellicules (pellicules visibles, usage régulier)
 - La formule derma&Pure combat efficacement les démangeaisons, élimine le sébum, et traite le cuir chevelu sec pour éliminer les pellicules avant même leur apparition démangeaisons liées aux pellicules
 - Le shampoing antipelliculaire Citrus Fresh nettoie efficacement les cheveux et le cuir chevelu gras, tout en laissant un parfum d’agrumes qui dure longtemps
+- Préserve la beauté des cheveux et élimine jusqu’à 100 % des pellicules (pellicules visibles, usage régulier)
 - Testé sous contrôle dermatologique, au PH équilibré et riche en antioxydants, pour prendre soin en douceur de la chevelure et du cuir chevelu
 - Formulé sans ingrédients indésirables et fabriqué en France
 - Ce lot est composé de 3 shampoings de 500ml Head & Shoulders Citrus Fresh Antipelliculaire
