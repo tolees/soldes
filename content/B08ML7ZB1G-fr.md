@@ -28,10 +28,10 @@ C'est en vente [eufy par Anker  RoboVac G30 Hybrid  Robot aspirateur avec Smart 
 
 ℹ️:
 
-- Deux corvées prises en charge : grâce à ses capacités daspiration et de lavage du sol, le RoboVac G30 Hybrid vous libère de deux corvées à la fois. Laspiration ultra-puissante de 2 000 Pa ramasse davantage de saletés sur toutes les surfaces, tandis que le module de lavage du sol applique la touche finale.
-- Contrôle via une application avec historique de nettoyage : contrôlez toutes vos tâches de nettoyage directement depuis votre smartphone. Une fois le nettoyage terminé, vérifiez quels endroits votre RoboVac a aspirés et à quel moment.
 - Disposez des bandes de délimitation : excluez la salle de jeu de votre enfant ou le tapis de votre animal domestique. Les capteurs à double effet Hall spécialisés permettent au RoboVac de détecter les bandes de délimitation que vous avez placées et de nettoyer uniquement les zones de votre choix.
 - Smart Dynamic Navigation 2.0 : à laide du capteur de suivi de la trajectoire, Smart Dynamic Navigation 2.0 permet un nettoyage ciblé sur toutes les surfaces par rapport aux aspirateurs robots au parcours aléatoire.
 - Contenu de lemballage : RoboVac G30 Hybrid, station de recharge, adaptateur secteur, 2 brosses latérales, filtre monocoque supplémentaire, outil de nettoyage, réservoir deau, 1 serpillère lavable, 5 serpillières jetables, tapis étanche, bandes de délimitation de 2 m, 2 bandes adhésives, 5 serre-câbles, 4 éléments filtrants, manuel de lutilisateur, guide de démarrage rapide, guide de bienvenue et notre garantie sérénité de 12 mois.
+- Deux corvées prises en charge : grâce à ses capacités daspiration et de lavage du sol, le RoboVac G30 Hybrid vous libère de deux corvées à la fois. Laspiration ultra-puissante de 2 000 Pa ramasse davantage de saletés sur toutes les surfaces, tandis que le module de lavage du sol applique la touche finale.
+- Contrôle via une application avec historique de nettoyage : contrôlez toutes vos tâches de nettoyage directement depuis votre smartphone. Une fois le nettoyage terminé, vérifiez quels endroits votre RoboVac a aspirés et à quel moment.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08ML7ZB1G/?tag=tolees0d-21)
