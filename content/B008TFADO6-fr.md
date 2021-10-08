@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.41 % rabais sur LEGRAND 412780 MICRO REX T11 T11 T11 Tém'
-date: 2021-10-03 21:38:34
+date: 2021-10-08 02:41:47
 image: 'https://m.media-amazon.com/images/I/31C04z6mzNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Legrand'
 buyurl: 'https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21'
 descuento: '24.41'
-average: '32.0655555555556'
+average: '32.0354545454545'
 ---
 
 Vous avez [LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien analogique pour l installation dans un distributeur  une largeur de module 1](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)  à  24.41 % de réduction, prix final  31.9 EUR (original: 42.2 EUR) ici:
@@ -29,7 +29,7 @@ Vous avez [LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien analogique
 ℹ️:
 
 - 1 Largeur du module
-- Facile à utiliser
 - Très efficace
+- Facile à utiliser
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)

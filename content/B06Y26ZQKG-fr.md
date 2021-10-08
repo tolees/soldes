@@ -28,10 +28,10 @@ Vous avez [Jeujura - 8119- Jeux de Société-Coffret de Jeux Classiques - 50 Reg
 
 ℹ️:
 
-- Coffret en bois de jeux de société traditionnels
-- Fabrication française
-- Pions en bois
-- Jeu des petits chevaux, jeu de l’oie, jeu de dames, jeu de la marelle, YAMS, 421
 - Coffret: 33 x 33 x 5 cm
+- Coffret en bois de jeux de société traditionnels
+- Pions en bois
+- Fabrication française
+- Jeu des petits chevaux, jeu de l’oie, jeu de dames, jeu de la marelle, YAMS, 421
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y26ZQKG/?tag=tolees0d-21)

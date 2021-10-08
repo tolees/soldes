@@ -28,10 +28,10 @@ Vous avez [Tablette à stylet Wacom Intuos S Bluetooth  tablette graphique sans 
 
 ℹ️:
 
+- Une précision totale : une résolution de 2540 LPI, une surface active de 200 x 160 mm, quatre boutons ExpressKey personnalisables et un stylet doté de 4096 niveaux de pression inclus
 - Stylée, compacte et colorée : avec la tablette Wacom Intuos, proposée en exclusivité dans la couleur rose framboise sur Amazon, il n’a jamais été aussi simple de dessiner et de retoucher des photos. Tout est à portée de main grâce à la connexion Bluetooth
+- Facilitez-vous la vie grâce à la sélection de logiciels inclus : Bamboo Paper, Corel Painter Essentials 7, Clip Studio Paint Pro, Corel Aftershot Pro 3 et Sign Pro Plus pour Windows
 - Éléments fournis : 1 x tablette à stylet Wacom Intuos (petit format) framboise avec stylet 4K sans pile ni batterie et câble USB, Corel Painter Essentials 7, Corel Aftershot Pro 3 (licence de 90 jours pour les deux), Clip Studio Paint Pro (licence de 2 ans), Bamboo Paper (Pro Pack gratuit sur Windows 10), Sign Pro PDF pour Windows
 - La souplesse créative : dessinez, peignez ou retouchez des photos partout où vous voulez grâce à la connectivité Bluetooth 4.2 et la compatibilité avec Windows 7 (ou plus) et OS X 10.11 (ou plus)
-- Une précision totale : une résolution de 2540 LPI, une surface active de 200 x 160 mm, quatre boutons ExpressKey personnalisables et un stylet doté de 4096 niveaux de pression inclus
-- Facilitez-vous la vie grâce à la sélection de logiciels inclus : Bamboo Paper, Corel Painter Essentials 7, Clip Studio Paint Pro, Corel Aftershot Pro 3 et Sign Pro Plus pour Windows
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FPY8YJG/?tag=tolees0d-21)
