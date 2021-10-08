@@ -28,10 +28,10 @@ C'est en vente [Aussie  Blonde Hydration Shampoing Violet 300ml  Soin Intensif 3
 
 ℹ️:
 
+- Shampoing et soin intensif aux extraits de graines de chanvre d’Australie et de prune sauvage
 - A fait référence à Aussie… l’australie... L’authenticité des ingrédients et l’attitude Aussie admirable
 - Gamme pour cheveux décolorés, blonds et argentés
-- Pour les cheveux ternes et secs, qui ont besoin d’être nourris et de briller
 - Huile capillaire à l’extrait de graines de chanvre d’Australie
-- Shampoing et soin intensif aux extraits de graines de chanvre d’Australie et de prune sauvage
+- Pour les cheveux ternes et secs, qui ont besoin d’être nourris et de briller
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HMTR3RQ/?tag=tolees0d-21)
