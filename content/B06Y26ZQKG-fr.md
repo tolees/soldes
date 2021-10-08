@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % rabais sur Jeujura - 8119- Jeux de Société-Coffret '
-date: 2021-10-05 21:00:58
+date: 2021-10-08 00:50:41
 image: 'https://m.media-amazon.com/images/I/61BoUrgOSqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Jeujura - 8119- Jeux de Société-Coffret de Jeux Classiques - 50 Reg
 
 ℹ️:
 
+- Coffret en bois de jeux de société traditionnels
+- Fabrication française
+- Pions en bois
 - Jeu des petits chevaux, jeu de l’oie, jeu de dames, jeu de la marelle, YAMS, 421
 - Coffret: 33 x 33 x 5 cm
-- Fabrication française
-- Coffret en bois de jeux de société traditionnels
-- Pions en bois
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y26ZQKG/?tag=tolees0d-21)

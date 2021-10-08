@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.34 % rabais sur Electronic Arts - Unravel 2 pour Nintend'
-date: 2021-10-05 22:01:14
+date: 2021-10-08 01:02:55
 image: 'https://m.media-amazon.com/images/I/5119W9FXPRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
