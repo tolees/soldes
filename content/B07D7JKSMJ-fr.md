@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somfy 2401507 - Indoor Camera | Volet Mo avec 24.42 % rabais '
-date: 2021-10-04 13:16:08
+date: 2021-10-08 05:47:18
 image: 'https://m.media-amazon.com/images/I/31hsdAeoYBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ C'est en vente [Somfy 2401507 - Indoor Camera | Volet Motorisé | Détecteur de 
 
 ℹ️:
 
-- Cache motorisé automatique qui couvre l’objectif quand vous êtes chez vous, pour une intimité protégée
-- Caméra de surveillance Full-HD 1080P avec vision nocturne, grand angle 130° et zoom x8
-- Inclus dans chaque boîte: caméra Full-HD 1080P, câble USB (3m), adaptateur USB, notice d’utilisation et picot Reset. Compatible avec Somfy TaHoma
-- Installation simple avec l’application Somfy Protect
-- Fonctionne de manière autonome ou en complément dun système de sécurité Somfy Protect : Somfy Home Alarm, Somfy One(+) ou Myfox Home Alarm. Non compatible avec Myfox Home Control, Evology et Domotag
 - Compatible avec Apple Homekit, Amazon Alexa, l’Assistant Google, IFTTT et TaHoma pour vous ouvrir à un nouvel univers pour contrôler votre maison
+- Cache motorisé automatique qui couvre l’objectif quand vous êtes chez vous, pour une intimité protégée
+- Fonctionne de manière autonome ou en complément dun système de sécurité Somfy Protect : Somfy Home Alarm, Somfy One(+) ou Myfox Home Alarm. Non compatible avec Myfox Home Control, Evology et Domotag
+- Caméra de surveillance Full-HD 1080P avec vision nocturne, grand angle 130° et zoom x8
+- Détection de mouvement intelligente grâce à la combinaison de l’infrarouge et de l’analyse d’images
 - Vous gardez un œil permanent sur votre domicile depuis votre smartphone, où que vous soyez
 - Lors d’une détection, vous recevez immédiatement une vidéo de 30s de l’événement téléchargeable gratuitement pendant 7 jours
-- Détection de mouvement intelligente grâce à la combinaison de l’infrarouge et de l’analyse d’images
+- Installation simple avec l’application Somfy Protect
+- Inclus dans chaque boîte: caméra Full-HD 1080P, câble USB (3m), adaptateur USB, notice d’utilisation et picot Reset. Compatible avec Somfy TaHoma
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D7JKSMJ/?tag=tolees0d-21)

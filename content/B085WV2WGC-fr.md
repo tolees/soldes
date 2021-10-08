@@ -28,15 +28,15 @@ Vous avez [LEGO 75318 Star Wars: The Mandalorian  Figurine de l’Enfant Bébé 
 
 ℹ️:
 
-- Avec Instructions PLUS, même les plus jeunes constructeurs peuvent éprouver la fierté de construire de façon indépendante.
-- Un cadeau d’anniversaire idéal pour les enfants de 8 ans et plus qui aiment les jouets sur le thème des Minions. Et lorsqu’ils ont fini de jouer avec leur création, les enfants peuvent exposer les modèles.
-- En s’inspirant du film Les Minions 2 : Il était une fois Gru, les enfants découvrent le kung-fu avec Bob, construisent des inventions avec Kevin ou laissent Stuart faire la sieste dans sa chambre.
-- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées et aux critères de qualité du groupe LEGO. Elles sont donc compatibles entre elles et s’assemblent et se séparent toujours facilement.
 - Chaque set LEGO Minions encourage le jeu créatif et incite les enfants à recréer des scènes du film Les Minions 2 : Il était une fois Gru.
-- Chaque modèle de Minion LEGO en briques mesure plus de 9 cm de long et 11 cm de large. Kevin mesure plus de 15 cm de haut, Stuart mesure 14 cm de haut et Bob 12 cm de haut - des dimensions idéales pour jouer et exposer.
-- Avec ce set de construction créatif, les fans des Minions vont pouvoir construire leurs Minions préférés. Les enfants peuvent construire Kevin et Stuart, puis transformer Kevin en Bob.
 - Les pièces et les briques LEGO Minions sont soigneusement testées afin de garantir que chaque set de jeu est conforme aux normes de sécurité les plus élevées au monde.
-- Fonctionne grâce à l’imagination des enfants ! Pas besoin de piles pour ce jouet à construire sur le thème des Minions.
+- En s’inspirant du film Les Minions 2 : Il était une fois Gru, les enfants découvrent le kung-fu avec Bob, construisent des inventions avec Kevin ou laissent Stuart faire la sieste dans sa chambre.
+- Avec Instructions PLUS, même les plus jeunes constructeurs peuvent éprouver la fierté de construire de façon indépendante.
 - Lorsque les modèles sont assemblés, le jeu continue. Les enfants vont adorer regarder les yeux qui tournent. Ils peuvent ensuite observer les détails à l’intérieur des modèles, et utiliser les accessoires pour créer leurs histoires de Minions.
+- Chaque modèle de Minion LEGO en briques mesure plus de 9 cm de long et 11 cm de large. Kevin mesure plus de 15 cm de haut, Stuart mesure 14 cm de haut et Bob 12 cm de haut - des dimensions idéales pour jouer et exposer.
+- Un cadeau d’anniversaire idéal pour les enfants de 8 ans et plus qui aiment les jouets sur le thème des Minions. Et lorsqu’ils ont fini de jouer avec leur création, les enfants peuvent exposer les modèles.
+- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées et aux critères de qualité du groupe LEGO. Elles sont donc compatibles entre elles et s’assemblent et se séparent toujours facilement.
+- Fonctionne grâce à l’imagination des enfants ! Pas besoin de piles pour ce jouet à construire sur le thème des Minions.
+- Avec ce set de construction créatif, les fans des Minions vont pouvoir construire leurs Minions préférés. Les enfants peuvent construire Kevin et Stuart, puis transformer Kevin en Bob.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085WV2WGC/?tag=tolees0d-21)

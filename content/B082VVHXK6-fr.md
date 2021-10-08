@@ -28,10 +28,10 @@ Vous avez [MINIS FORUM - Mini PC sans Ventilateur Intel Celeron N4020  jusqu à 
 
 ℹ️:
 
-- 【Portable et silencieux】Équipé dun support de montage peut être facilement fixé à larrière du moniteur et peu encombrant.
+- 【Garantie durable et fiable】 Assistance technique à vie, 7 jours / 24 heures de service, 24 mois de garantie.Si vous avez des questions, nhésitez pas à nous contacter et nous sommes garantis à 100% pour résoudre votre problème.
 - 【Fonction complète】 Prise en charge des ports WiFi 4.2 et HDMI 2.0 et VGA sur bande 2.4G / 5.8G pour double écran.Avec 3 ports USB 3.0 et un emplacement pour carte SD, un port SSD M.2 2242 NGFF, il peut étendre le stockage facilement et fonctionne comme un ordinateur de bureau.
 - 【Performances stables et plus rapides】Préinstallé avec Windows 10 Pro, eMMC DDR4 / 64 Go intégré 4 Go, processeur Intel Celeron N4020, jusquà 2,80 GHz, fonctionnant plus rapidement et plus stable.
+- 【Portable et silencieux】Équipé dun support de montage peut être facilement fixé à larrière du moniteur et peu encombrant.
 - 【Affichage HD double écran】Le processeur Intel UHD Graphics 600 intégré prend en charge 2 moniteurs utilisant des ports HDMI （4K @ 60Hz） et VGA. Il est idéal pour le multitâche, le home cinéma, le travail de bureau, la sécurité et la surveillance numériques, la signalisation numérique, le centre multimédia, la salle de conférence, etc.
-- 【Garantie durable et fiable】 Assistance technique à vie, 7 jours / 24 heures de service, 24 mois de garantie.Si vous avez des questions, nhésitez pas à nous contacter et nous sommes garantis à 100% pour résoudre votre problème.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082VVHXK6/?tag=tolees0d-21)

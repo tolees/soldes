@@ -28,10 +28,10 @@ C'est en vente [ELEGOO Résine Lavable à l eau pour Imprimante 3D LCD UV 405nm 
 
 ℹ️:
 
-- ▶ Couleurs Exceptionnelles ◀ La résine ELEGOO de 405 nm contient des pigments et des photoinitiateurs de haute qualité, de sorte que le modèle imprimé avec elle a des couleurs claires et pures. Ce que vous voyez est ce que vous obtenez.
-- ▶ Durcissement Rapide ◀ La résine ELEGOO photosensible aux UV a une faible viscosité et de bonnes propriétés de nivellement. Elle est assez facile à utiliser pour améliorer lefficacité dimpression et gagner du temps pour vous.
-- ▶ Diverses Domaines dapplication ◀ La résine ELEGOO a dexcellentes performances, convenant à la plupart des imprimantes 3D de LCD, DLP ou SLA et répondant aux besoins de prototypage rapide de diverses industries telles que jouet, bijou, biomédecine, conception architecturale, etc.
 - ▶ Emballage Sûr et Complet ◀ La résine ELEGOO est scellée dans une bouteille sur mesure, complètement enveloppée dans un sac à bulles en plastique et emballée dans une boîte demballage exquise pour garantir que lemballage est intact.
+- ▶ Couleurs Exceptionnelles ◀ La résine ELEGOO de 405 nm contient des pigments et des photoinitiateurs de haute qualité, de sorte que le modèle imprimé avec elle a des couleurs claires et pures. Ce que vous voyez est ce que vous obtenez.
+- ▶ Diverses Domaines dapplication ◀ La résine ELEGOO a dexcellentes performances, convenant à la plupart des imprimantes 3D de LCD, DLP ou SLA et répondant aux besoins de prototypage rapide de diverses industries telles que jouet, bijou, biomédecine, conception architecturale, etc.
 - ▶ Faible Retrait et Haute Stabilité ◀ La résine ELEGOO photopolymère contient le monomère de méthacrylate qui peut réduire le retrait volumique au cours du processus de durcissement, assurant ainsi la précision de limpression de la taille du modèle.
+- ▶ Durcissement Rapide ◀ La résine ELEGOO photosensible aux UV a une faible viscosité et de bonnes propriétés de nivellement. Elle est assez facile à utiliser pour améliorer lefficacité dimpression et gagner du temps pour vous.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PCYY6J7/?tag=tolees0d-21)
