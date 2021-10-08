@@ -28,13 +28,13 @@ Vous avez [Columbia Fairbanks  Bottes Hiver Omni-Heat Homme](https://www.amazon.
 
 ℹ️:
 
-- Semelle intermédiaire légère en Techlite pour un confort durable, un bon amorti et un haut retour dénergie.
-- Matériaux : Cordura
-- Doublure réfléchissante Omni-Heat.
-- Semelle extérieure : caoutchouc Omni-Grip.
-- Caoutchouc de traction Omni-Grip.
-- Membrane imperméable et respirante Omni-Tech.
-- Dessus en tissu Cordura
 - Semelle intermédiaire : EVA Techlite
+- Doublure réfléchissante Omni-Heat.
+- Dessus en tissu Cordura
+- Membrane imperméable et respirante Omni-Tech.
+- Matériaux : Cordura
+- Caoutchouc de traction Omni-Grip.
+- Semelle extérieure : caoutchouc Omni-Grip.
+- Semelle intermédiaire légère en Techlite pour un confort durable, un bon amorti et un haut retour dénergie.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MU14KQZ/?tag=tolees0d-21)
