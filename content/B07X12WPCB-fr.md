@@ -28,10 +28,10 @@ Vous avez [🇫🇷 Jeu de société Pigeon Pigeon - ambiance  bluff  créativit
 
 ℹ️:
 
-- ✅ Un jeu multigénérationnel. Drôle mais pas vulgaire. Parfait en famille, entre amis, avec des ados, entre adultes, etc.
-- 😂 Jeu de société hilarant, créatif & intelligent (2-10 joueurs / 25 min)
-- COMMENT JOUER ? 1️⃣ Piochez une question parmi 440 questions insolites (Comment s’appelle le petit de l’orque ? Comment est mort François II ? Quel est le second prénom de Greta Thunberg ?) 2️⃣ Avec vos coéquipiers, inventez 2 réponses complètement bidons. 3️⃣ Ecrivez ces 2 réponses bidons dans 2 cases. ✏️⬜⬜ 4️⃣ Ecrivez la vraie réponse sur une 3ème case. ✏️⬜ 5️⃣ Posez la question à léquipe adverse et dévoilez les 3 réponses possibles…. Saura-t-elle retrouver la vraie réponse ? 😄
 - 😎 Inventez des informations bidons... puis bluffez pour que léquipe adverse vous croit !
 - 🏆 Classé parmi les 3 meilleurs jeux dambiance par Topito ! Adoré par les joueurs (on vous laisse lire les avis du jeu en bas page :)
+- 😂 Jeu de société hilarant, créatif & intelligent (2-10 joueurs / 25 min)
+- COMMENT JOUER ? 1️⃣ Piochez une question parmi 440 questions insolites (Comment s’appelle le petit de l’orque ? Comment est mort François II ? Quel est le second prénom de Greta Thunberg ?) 2️⃣ Avec vos coéquipiers, inventez 2 réponses complètement bidons. 3️⃣ Ecrivez ces 2 réponses bidons dans 2 cases. ✏️⬜⬜ 4️⃣ Ecrivez la vraie réponse sur une 3ème case. ✏️⬜ 5️⃣ Posez la question à léquipe adverse et dévoilez les 3 réponses possibles…. Saura-t-elle retrouver la vraie réponse ? 😄
+- ✅ Un jeu multigénérationnel. Drôle mais pas vulgaire. Parfait en famille, entre amis, avec des ados, entre adultes, etc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X12WPCB/?tag=tolees0d-21)
