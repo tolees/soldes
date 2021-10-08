@@ -28,8 +28,8 @@ C'est en vente [CATTIER Masque Capillaire Réparateur 200 ml](https://www.amazon
 
 ℹ️:
 
-- Plus forts, les cheveux sont soyeux, souples, doux et brillants
-- Sa formule, enrichie en beurre de cupuaçu et moelle de bambou, protège et gaine la fibre capillaire pour un démêlage facile
 - Restructurant, il prévient la formation des fourches
+- Sa formule, enrichie en beurre de cupuaçu et moelle de bambou, protège et gaine la fibre capillaire pour un démêlage facile
+- Plus forts, les cheveux sont soyeux, souples, doux et brillants
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BLKUY3U/?tag=tolees0d-21)

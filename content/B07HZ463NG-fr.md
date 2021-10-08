@@ -28,10 +28,10 @@ C'est en vente [Motorola Lifestyle MDC500GW Dashcam  Noir](https://www.amazon.fr
 
 ℹ️:
 
-- Écran lcd-tft 2 pouces - détection des collisions et mode stationnement grce à laccéléromètre
-- Grand angle de vue avant de 150° - Batterie rechargeable pour le mode stationnement - Enregistrement automatique sur la carte Micro SD jusquà 32 Go de mémoire
+- Caméra Avant 1080 P et caméra arrière 720 P - détection et enregistrement automatiques des mouvements grce à laccéléromètre
 - Caméra embarquée double canal (avant et arrière) - GPS pour enregistrer la localisation et la vitesse
 - Caméra arrière dotée dun téléobjectif de 12 mm - Fonction Wi-Fi pour transférer visualiser et partager des vidéos via lapplication mobile - Haut-parleur et microphone intégrés - Enregistrement en boucle des incidents
-- Caméra Avant 1080 P et caméra arrière 720 P - détection et enregistrement automatiques des mouvements grce à laccéléromètre
+- Écran lcd-tft 2 pouces - détection des collisions et mode stationnement grce à laccéléromètre
+- Grand angle de vue avant de 150° - Batterie rechargeable pour le mode stationnement - Enregistrement automatique sur la carte Micro SD jusquà 32 Go de mémoire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HZ463NG/?tag=tolees0d-21)
