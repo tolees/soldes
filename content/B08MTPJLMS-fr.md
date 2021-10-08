@@ -28,10 +28,10 @@ Vous avez [HEIMAN Détecteur de Fumée avec 10 Ans de Vie de la Batterie  Détec
 
 ℹ️:
 
-- 【Une protection complète pour votre sécurité】: Les détecteurs de fumée ont un buzzer intégré. Une fois le danger de fumée et dincendie détecté, lindicateur LED rouge clignotera immédiatement et un son dalarme de plus de 80 dB sera émis pour vous le rappeler rapidement, à vous et à votre famille.
-- 【Perception Haute Sensibilité à 360 Degrés】: Conception structurelle unique et labyrinthe photoélectrique avancé, surveillance en temps réel de la présence de fumée, détection des particules visibles plus rapide que lalarme dionisation.
-- 【La Batterie Dure 10 Ans】: Ce détecteur d’incendie est équipé d’une pile au lithium de 3 V de faible puissance pour une durée de vie incroyable allant jusqu’à 10 ans, pour un fonctionnement en douceur.
-- 【Button de test de fonctionnement】: Ce détecteur de fumée est équipé dun bouton de test de fonctionnement pour le test de fonctionnement. Grâce à cela, le détecteur dalarme peut être réinitialisé après une alarme ou remis au mode de surveillance.
 - 【Haut Niveau de Qualité et Facile à Installer】: Le boîtier extérieur de ce détecteur de fumée est fabriqué en plastique ABS + PC de haute qualité, écologique et ignifuge. Facile à poser et simple dutilisation. Avec 10 ans de qualité et de service à la clientèle à vie.
+- 【La Batterie Dure 10 Ans】: Ce détecteur d’incendie est équipé d’une pile au lithium de 3 V de faible puissance pour une durée de vie incroyable allant jusqu’à 10 ans, pour un fonctionnement en douceur.
+- 【Perception Haute Sensibilité à 360 Degrés】: Conception structurelle unique et labyrinthe photoélectrique avancé, surveillance en temps réel de la présence de fumée, détection des particules visibles plus rapide que lalarme dionisation.
+- 【Button de test de fonctionnement】: Ce détecteur de fumée est équipé dun bouton de test de fonctionnement pour le test de fonctionnement. Grâce à cela, le détecteur dalarme peut être réinitialisé après une alarme ou remis au mode de surveillance.
+- 【Une protection complète pour votre sécurité】: Les détecteurs de fumée ont un buzzer intégré. Une fois le danger de fumée et dincendie détecté, lindicateur LED rouge clignotera immédiatement et un son dalarme de plus de 80 dB sera émis pour vous le rappeler rapidement, à vous et à votre famille.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MTPJLMS/?tag=tolees0d-21)
