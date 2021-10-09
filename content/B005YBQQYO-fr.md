@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Brooklyn Straight Jeans  Blue Black  avec 49.99 % rabais '
-date: 2021-10-04 06:33:52
+date: 2021-10-09 10:07:44
 image: 'https://m.media-amazon.com/images/I/41+krSBpzGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Lee Brooklyn Straight Jeans  Blue Black HH  30W / 34L Homme](htt
 
 ℹ️:
 
-- Fermeture : Bouton
-- Droit
 - 98,8% Coton, 1,2% Élasthanne
-- Taille normale
+- Droit
+- Fermeture : Bouton
 - Lavage en machine
+- Taille normale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005YBQQYO/?tag=tolees0d-21)
