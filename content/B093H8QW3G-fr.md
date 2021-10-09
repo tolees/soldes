@@ -28,12 +28,12 @@ C'est en vente [Panasonic TV LCD | TX-50JX800EZ  Processeur HCX  Dolby Vision  A
 
 ℹ️:
 
-- PROCESSEUR HCX : Fruit de notre collaboration avec les studios dHollywood, il ajuste la fluidité, la couleur, le contraste et la clarté de limage en temps réel pour vous offrir les meilleures performances.
-- MODE FILMMAKER : Visionnez vos films de la manière la plus fidèle à la vision du cinéaste.
 - Taille daffichage: 50.0 pouces
 - DOLBY VISION : Comparée à une image standard de téléviseur, la technologie HDR Dolby Vision vous offre des couleurs indédites, une luminosité intense et des noirs profonds.
-- ANDROID TV : Accédez à toutes les applications du Play Store et profitez du Chromecast intégré pour visionner les contenus de votre smartphone !
-- SON SURROUND : Ne percevez plus le son uniquement de manière frontale mais également depuis les côtés et l’arrière. Le son surround vous offre davantage de sensations et une qualité d’écoute plus réaliste.
 - Composants inclus: Television + télécommande
+- ANDROID TV : Accédez à toutes les applications du Play Store et profitez du Chromecast intégré pour visionner les contenus de votre smartphone !
+- MODE FILMMAKER : Visionnez vos films de la manière la plus fidèle à la vision du cinéaste.
+- PROCESSEUR HCX : Fruit de notre collaboration avec les studios dHollywood, il ajuste la fluidité, la couleur, le contraste et la clarté de limage en temps réel pour vous offrir les meilleures performances.
+- SON SURROUND : Ne percevez plus le son uniquement de manière frontale mais également depuis les côtés et l’arrière. Le son surround vous offre davantage de sensations et une qualité d’écoute plus réaliste.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B093H8QW3G/?tag=tolees0d-21)
