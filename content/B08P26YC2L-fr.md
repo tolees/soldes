@@ -28,7 +28,7 @@ Vous avez [Salomon Alphacross 3 GTX Chaussures Imperméables Trail Femme - Marro
 
 ℹ️:
 
-- ALPHACROSS 3 GTX W Sirocco/Rainy Day/Mocha Mousse
 - Article number: 414476
+- ALPHACROSS 3 GTX W Sirocco/Rainy Day/Mocha Mousse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)
