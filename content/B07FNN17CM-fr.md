@@ -28,15 +28,15 @@ C'est en vente [LEGO 60215 City La caserne de Pompiers  Jouet Garage avec Camion
 
 ℹ️:
 
-- La brique sonore et lumineuse sur le véhicule tout-terrain sactive
-- Cet ensemble de construction créative inclut plus de 500 pièces
-- Le garage de la caserne est compatible avec les véhicules de pompiers des autres ensembles des pompiers LEGO City
 - Cet ensemble cool comprend aussi un véhicule tout-terrain avec une nouvelle brique lumineuse et sonore, une lance d’incendie qui fonctionne avec un levier et des compartiments de rangement, plus un jet-ski avec de la place pour un extincteur qui tire des tenons et un drone de surveillance avec des rotors qui tournent et une caméra rotative
-- Possiblilité de charger les éléments d’eau dans la lance d’incendie et dans lextincteur et pousse les leviers pour les tirer sur lincendie pour léteindre
-- La caserne des pompiers mesure plus de 28 cm de haut, 21 cm de large et 27 cm de profondeur
-- Les accessoires incluent un extincteur qui tire des tenons, 6 éléments deau, un seau, un téléphone, une télévision, du pop-corn et une télécommande pour le drone
-- Comprend une caserne de pompiers à 3 niveaux avec un bureau, une salle de relaxation et une tour de surveillance, un petit quai et un garage séparé avec une grande porte avant qui souvre et une plate-forme datterrissage pour le drone inclus à construire. Inclut également une petite construction avec une poubelle, un tas de journaux et des éléments de flamme à construire
 - Inclut 4 figurines LEGO City : un chef des pompiers et 3 pompiers, plus une figurine de chien de pompiers
+- Le garage de la caserne est compatible avec les véhicules de pompiers des autres ensembles des pompiers LEGO City
 - Les rotors peuvent tourner pour lancer le drone et fais pivoter la caméra pour rechercher des incendies
+- Possiblilité de charger les éléments d’eau dans la lance d’incendie et dans lextincteur et pousse les leviers pour les tirer sur lincendie pour léteindre
+- La brique sonore et lumineuse sur le véhicule tout-terrain sactive
+- Les accessoires incluent un extincteur qui tire des tenons, 6 éléments deau, un seau, un téléphone, une télévision, du pop-corn et une télécommande pour le drone
+- La caserne des pompiers mesure plus de 28 cm de haut, 21 cm de large et 27 cm de profondeur
+- Cet ensemble de construction créative inclut plus de 500 pièces
+- Comprend une caserne de pompiers à 3 niveaux avec un bureau, une salle de relaxation et une tour de surveillance, un petit quai et un garage séparé avec une grande porte avant qui souvre et une plate-forme datterrissage pour le drone inclus à construire. Inclut également une petite construction avec une poubelle, un tas de journaux et des éléments de flamme à construire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN17CM/?tag=tolees0d-21)
