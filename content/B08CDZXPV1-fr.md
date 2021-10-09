@@ -29,8 +29,8 @@ C'est en vente [Nutribullet 600W Gris 10 pièces](https://www.amazon.fr/dp/B08CD
 ℹ️:
 
 - CONCEPT NUTRITIONNEL INNOVANT : un blender nouvelle génération et breveté permettant d’extraire vitamines, minéraux et fibres, pour ne garder que le meilleur des aliments afin qu’ils soient plus faciles à absorber par l’organisme. Plus puissant quun blender traditionnel et plus facile dutilisation quun extracteur de jus et une centrifugeuse
-- Performant et nomade: cette aide culinaire d’une efficacité pulvérise encore plus facilement les ingrédients « difficiles ». Mélangez, appuyez, mixez et savourez de délicieuses boissons booster dénergie partout et à tout moment. Lappareil est équipé dune « CUP to go » véritable mug à emporter avec vous astucieux pour garder votre préparation à portée de main et emporter facilement vos préparations partout avec vous.
 - Repas sains et vitaminés en moins de 10 secondes: un blender qui conserve à la fois le jus et les fibres des aliments et préserve toutes leurs qualités nutritionnelles pour un minimum de calories.
 - Repas sains et vitaminés en moins de 10 secondes: un extracteur de nutriments qui conserve à la fois le jus et les fibres des aliments et préserve toutes leurs qualités nutritionnelles pour un minimum de calories
+- Performant et nomade: cette aide culinaire d’une efficacité pulvérise encore plus facilement les ingrédients « difficiles ». Mélangez, appuyez, mixez et savourez de délicieuses boissons booster dénergie partout et à tout moment. Lappareil est équipé dune « CUP to go » véritable mug à emporter avec vous astucieux pour garder votre préparation à portée de main et emporter facilement vos préparations partout avec vous.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CDZXPV1/?tag=tolees0d-21)
