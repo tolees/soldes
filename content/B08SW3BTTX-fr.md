@@ -28,10 +28,10 @@ C'est en vente [SAMSUNG ODYSSEY G7 32   Ecran PC Gaming Incurvé 1000R  Dalle VA
 
 ℹ️:
 
-- Résolution WQHD : 2560 x 1440 pixels
-- Temps de réponse: 1 ms
 - Taux de rafraichissement : 240Hz
 - Technologies GSYNC Compatible / AMD FreeSync Premium Pro
 - Ecran PC Gaming Incurvé 1000R 32
+- Résolution WQHD : 2560 x 1440 pixels
+- Temps de réponse: 1 ms
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08SW3BTTX/?tag=tolees0d-21)

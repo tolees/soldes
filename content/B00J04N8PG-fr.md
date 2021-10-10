@@ -28,8 +28,8 @@ Vous avez [Hazet Clé à Chocs Extra-Courte 9012M ∙ Couple de desserrage Maxim
 
 ℹ️:
 
+- Couple de desserrage maximal : 1100 Nm
 - Échappement dair par le bas de la poignée Vibrations réduites Maniement simple
 - Couple de desserrage maximal : 1100 Nm.
-- Couple de desserrage maximal : 1100 Nm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J04N8PG/?tag=tolees0d-21)

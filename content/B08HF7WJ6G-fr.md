@@ -28,10 +28,10 @@ Vous avez [Maximum Games - Train Sim World 2 Collector s Edition  PS4 ](https://
 
 ℹ️:
 
-- Le moteur physique des véhicules évolue, ressentez le patinage des roues lors de conditions météorologiques difficiles et apprenez à naviguer sur les voies avec une forte inclinaison
+- Maîtrisez les circuits et les gares mondialement connus, toutes les licences officielles, recréées de façon authentique. Cest vous qui êtes aux commandes dans la cabine
 - Maîtrisez des locomotives légendaires sur des lignes à grande vitesse, des frets long-courriers ou des transports de passagers avec précision et profitez des outils de personnalisation disponibles
 - Créez votre propre scénario. Personnalisez vos locomotives et destinations, puis lancez-vous. Le mode « Quick Drive » selon vos envies
-- Maîtrisez les circuits et les gares mondialement connus, toutes les licences officielles, recréées de façon authentique. Cest vous qui êtes aux commandes dans la cabine
+- Le moteur physique des véhicules évolue, ressentez le patinage des roues lors de conditions météorologiques difficiles et apprenez à naviguer sur les voies avec une forte inclinaison
 - Le nouveau système de commandes offre le choix entre le mode caméra et le mode de conduite. Il permet également un accès aisé aux autres véhicules de votre rame à partir du mode caméra externe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HF7WJ6G/?tag=tolees0d-21)
