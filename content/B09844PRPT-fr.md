@@ -28,12 +28,12 @@ Vous avez [LEGO 75257 Star Wars Faucon Millenium  Set de Construction avec Finn 
 
 ℹ️:
 
-- Un magnifique cadeau pour un anniversaire ou pour Noël, ou simplement un fabuleux modèle de collection Star Wars pour toute occasion.
-- À l’extérieur, le Faucon Millennium LEGO Star Wars comprend des tourelles supérieure et inférieure rotatives (la tourelle inférieure peut accueillir 2 figurines), 2 fusils à ressort, une rampe daccès qui sabaisse et un cockpit qui souvre pour accueillir 2 figurines.
 - Le vaisseau LEGO Star Wars mesure plus de 14 cm de haut, 44 cm de long et 32 cm de large.
-- Le légendaire cargo corellien inspiré du film Star Wars : LAscension de Skywalker constitue une source de jeu infinie.
+- Un magnifique cadeau pour un anniversaire ou pour Noël, ou simplement un fabuleux modèle de collection Star Wars pour toute occasion.
 - Lintérieur inclut un espace de chargement avec 2 conteneurs, un ordinateur de navigation avec un siège pivotant, un canapé et une table d’holojeu Dejarik, une cuisine, une couchette, un compartiment secret pour la contrebande et un système d’hyperpropulsion avec des outils pour le réparer.
-- Inclut 7 personnages LEGO Star Wars : les figurines de Finn, Chewbacca, C-3PO, Lando Calrissian et Boolio, ainsi que les droïdes LEGO R2-D2 et D-O.
 - Les outils comprennent l’arbalète lance-tenons de Chewbacca, le fusil blaster de Finn et le fusil blaster de Lando.
+- Le légendaire cargo corellien inspiré du film Star Wars : LAscension de Skywalker constitue une source de jeu infinie.
+- À l’extérieur, le Faucon Millennium LEGO Star Wars comprend des tourelles supérieure et inférieure rotatives (la tourelle inférieure peut accueillir 2 figurines), 2 fusils à ressort, une rampe daccès qui sabaisse et un cockpit qui souvre pour accueillir 2 figurines.
+- Inclut 7 personnages LEGO Star Wars : les figurines de Finn, Chewbacca, C-3PO, Lando Calrissian et Boolio, ainsi que les droïdes LEGO R2-D2 et D-O.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B09844PRPT/?tag=tolees0d-21)
