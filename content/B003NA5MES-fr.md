@@ -28,10 +28,10 @@ C'est en vente [GROHE 27055000 GROHE-27055000-Support Mural pour Douchette Rains
 
 ℹ️:
 
-- Facile à nettoyer grâce au revêtement chromé Grohe StarLight
-- Montage mural
 - Support douchette
+- Montage mural
 - Garantie : 5 ans
+- Facile à nettoyer grâce au revêtement chromé Grohe StarLight
 - Réglable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003NA5MES/?tag=tolees0d-21)
