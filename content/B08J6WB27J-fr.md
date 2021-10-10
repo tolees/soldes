@@ -28,10 +28,10 @@ C'est en vente [2020 Apple iPad Air  10 9 Pouces  Wi-FI + Cellular  256 Go  -
 
 ℹ️:
 
+- Puce A14 Bionic avec Neural Engine
+- Appareil photo arrière 12 Mpx, caméra avant FaceTime HD 7 Mpx
+- Disponible en argent, gris sidéral, or rose, vert et bleu ciel
 - Touch ID pour l’authentification sécurisée et Apple Pay
 - Superbe écran Liquid Retina de 10,9 pouces avec True Tone et large gamme de couleurs P3
-- Appareil photo arrière 12 Mpx, caméra avant FaceTime HD 7 Mpx
-- Puce A14 Bionic avec Neural Engine
-- Disponible en argent, gris sidéral, or rose, vert et bleu ciel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J6WB27J/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Grohe 31360DC1 Mitigeur Évier Minta Touch 31360DC1  Supersteel]
 
 ℹ️:
 
-- Alimentation par pile lithium 6 V, type CR-P2
-- Bec L
 - Température d’eau mitigée pré-définie
-- Marquage de conformité CE
+- Bec L
 - Touch : déclenchement de l’eau au contact de la peau
+- Alimentation par pile lithium 6 V, type CR-P2
+- Marquage de conformité CE
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01A5VKCWE/?tag=tolees0d-21)
