@@ -28,10 +28,10 @@ Vous avez [Fartools PMF1300 Surfaceuse multi-matériaux 1400 W 5en1 : ponçage  
 
 ℹ️:
 
-- Collecteur de poussières: oui
-- Variateur de vitesse de 3000-10000 tr.Min-1
 - Diamètre de larbre m14
 - Dimensions du disques (ponçage - meulage) : ø125 x 22.2
+- Collecteur de poussières: oui
+- Variateur de vitesse de 3000-10000 tr.Min-1
 - Blocage de larbre: oui
 - Puissance: 1400W
 

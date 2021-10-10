@@ -28,10 +28,10 @@ Vous avez [Hansgrohe Mitigeur de Lavabo MyCube M avec tirette et bonde de vidage
 
 ℹ️:
 
-- Poignée large et ergonomique positionnée au-dessus du corps, permet de régler la température et le débit de façon intuitive et précise
-- Garantie totale de 5 ans. Hansgrohe : qualité, design et innovations depuis 1901.
 - Réalisez des économies deau et dénergie avec son jet mousseux à 5l/min sous 3 bars de pression
+- Poignée large et ergonomique positionnée au-dessus du corps, permet de régler la température et le débit de façon intuitive et précise
 - Installation facile sur gorge mono trou, manuel dinstallation, flexibles dalimentation et tirette de vidage chromée inclus. Possibilité de régler la température maximale pour un maximum de sécurité.
+- Garantie totale de 5 ans. Hansgrohe : qualité, design et innovations depuis 1901.
 - Des matériaux haut de gamme et des finitions soignées qui assurent une grande longévité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YCAJYKQ/?tag=tolees0d-21)
