@@ -28,9 +28,9 @@ Vous avez [Sanitas SFB 07 Bain de pieds  massage par vibrations et à bulles  r�
 
 ℹ️:
 
-- Protection anti-éclaboussures amovible
-- Support de pieds pour massage suspendu
 - Pieds en caoutchouc antidérapant
 - Avec accessoire de massage
+- Support de pieds pour massage suspendu
+- Protection anti-éclaboussures amovible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NABNFNA/?tag=tolees0d-21)
