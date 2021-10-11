@@ -28,12 +28,12 @@ Vous avez [Logitech G815 LIGHTSYNC RVB Clavier Gaming Mécanique  Switch ultra-p
 
 ℹ️:
 
-- Construction premium AL-MG : le clavier G815 présente une conception exceptionnelle avec un alliage daluminium de qualité aéronautique pour offrir une conception incroyablement compacte tout en restant robuste et durable
-- Touches G programmables : cinq touches G dédiées peuvent être programmées avec des commandes et des macros personnalisées en fonction des jeux ou des profils dapplication. Nécessite lutilisation de Logitech G HUB pour configurer et gérer facilement les profils, les commandes et plus encore
-- LIGHTSYNC RVB : léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias et personnalisez chaque touche ou créez des animations personnalisées
-- Commandes multimédia dédiées : la molette de contrôle de volume sans bord, conçue avec précision, offre une commande pratique et facile pour lire, mettre en pause, sauter ou couper rapidement le son de votre média
-- Commandes multimédia dédiées : la molette de contrôle de volume sans bord, conçue avec précision, offre une commande pratique et facile pour lire, mettre en pause, sauter ou couper rapidement le son de votre média
 - Relais USB : le câble USB 2.0 dédié supplémentaire connecte le port relais USB pour une puissance de débit et une vitesse de transmission des données optimales
 - Switchs mécaniques ultra-plats : les nouveaux switchs gaming hautes performances offrent la vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit
+- Commandes multimédia dédiées : la molette de contrôle de volume sans bord, conçue avec précision, offre une commande pratique et facile pour lire, mettre en pause, sauter ou couper rapidement le son de votre média
+- Touches G programmables : cinq touches G dédiées peuvent être programmées avec des commandes et des macros personnalisées en fonction des jeux ou des profils dapplication. Nécessite lutilisation de Logitech G HUB pour configurer et gérer facilement les profils, les commandes et plus encore
+- Construction premium AL-MG : le clavier G815 présente une conception exceptionnelle avec un alliage daluminium de qualité aéronautique pour offrir une conception incroyablement compacte tout en restant robuste et durable
+- Commandes multimédia dédiées : la molette de contrôle de volume sans bord, conçue avec précision, offre une commande pratique et facile pour lire, mettre en pause, sauter ou couper rapidement le son de votre média
+- LIGHTSYNC RVB : léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias et personnalisez chaque touche ou créez des animations personnalisées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VV8R58C/?tag=tolees0d-21)
