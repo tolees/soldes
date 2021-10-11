@@ -28,10 +28,10 @@ C'est en vente [Philips HD9252/90 Airfryer Compact Noir - Bien plus qu une frite
 
 ℹ️:
 
+- Facile et rapide dutilisation : pas de préchauffage, écran tactile avec 7 programmes de cuisson prédéfinis, éléments détachables compatibles au lave-vaisselle, fonction maintient au chaud pour garder vos aliments à la température idéale jusquà 30 min
 - Cuisson homogène et respectueuse des aliments : croustillant à lextérieur, savoureux à lintérieur
 - Format compact 2 - 3 personnes
-- Bien plus quune simple friteuse, cuisinez de lentrée au dessert : viande, poissons, samoussas et nems, légumes, pâtisseries, frites
 - Cuisinez plus sainement : jusquà 90% de matières grasses en moins grâce à la technologie Rapid Air
-- Facile et rapide dutilisation : pas de préchauffage, écran tactile avec 7 programmes de cuisson prédéfinis, éléments détachables compatibles au lave-vaisselle, fonction maintient au chaud pour garder vos aliments à la température idéale jusquà 30 min
+- Bien plus quune simple friteuse, cuisinez de lentrée au dessert : viande, poissons, samoussas et nems, légumes, pâtisseries, frites
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08D9HYZMS/?tag=tolees0d-21)
