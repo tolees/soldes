@@ -28,9 +28,9 @@ C'est en vente [Studiocanal - L Aile ou la Cuisse](https://www.amazon.fr/dp/B00J
 
 ℹ️:
 
-- Type dédition : Standard
-- Editeur : StudioCanal Vidéo
-- Référence EAN : 5053083004095
 - Langues audio + format : Français Dolby Digital 5.1
+- Référence EAN : 5053083004095
+- Editeur : StudioCanal Vidéo
+- Type dédition : Standard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00JKUW5EA/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Sanotint Balsamo Rivitaliz - 200 ml](https://www.amazon.fr/dp/B003II1
 
 ℹ️:
 
-- Il peut être utilisé tous les jours. Le résultat est visible à partir du premier traitement: les cheveux sont immédiatement doux, forts, brillants et dociles au peigne. Indispensable après la teinture. Aucun rinçage nest requis, cependant, ce qui est recommandé en cas de cheveux fins.
 - Il ne contient pas de dérivés animaux Produit non testé sur des animaux Il ne contient pas de minéraux Testé dermatologiquement Pas dalcool Il ne contient pas de colorants synthétiques Ne contient pas dOGM Ne contient pas de métaux ajoutés
-- Baume en forme de Golden Mug, calcium pantothénique et biotine PH 2.5-3
 - Produix de Sanotint
+- Baume en forme de Golden Mug, calcium pantothénique et biotine PH 2.5-3
+- Il peut être utilisé tous les jours. Le résultat est visible à partir du premier traitement: les cheveux sont immédiatement doux, forts, brillants et dociles au peigne. Indispensable après la teinture. Aucun rinçage nest requis, cependant, ce qui est recommandé en cas de cheveux fins.
 - Enrichi de substances précieuses telles que le Golden Mile, riche en acide silicique, un grand restaurateur pour la protection capillaire, ce baume réparateur particulier est idéal pour les cheveux traités et fragiles.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003II1MJ4/?tag=tolees0d-21)

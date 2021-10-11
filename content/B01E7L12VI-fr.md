@@ -28,9 +28,9 @@ Vous avez [Laurastar Lift Pure White  Centrale Vapeur Nomade 3en1  Repasse  Déf
 
 ℹ️:
 
+- Emplacement sécurisé pour le fer. Le fer peut être posé, en toute sécurité, sur son socle même chaud.
 - Réservoir deau amovible peut être rempli en cours dutilisation pour un repassage en continu.
 - Fer à repasser professionnel dote dune semelle professionnelle diffusant une vapeur ultrafine et puissante.
 - Mise en route et arrêt automatique prete en 3 minutes. Sarrête Apres 10 minutes de non-utilisation.
-- Emplacement sécurisé pour le fer. Le fer peut être posé, en toute sécurité, sur son socle même chaud.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01E7L12VI/?tag=tolees0d-21)

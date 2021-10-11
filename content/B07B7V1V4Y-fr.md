@@ -28,10 +28,10 @@ Vous avez [Simba - Pyjamasques Ninjaka avec bus et avec figurine en bleu / véhi
 
 ℹ️:
 
-- Figurine mobile - Ninjaka est mobile sur les bras et les jambes pour être facilement placé dans la voiture-jouet et retiré. La voiture est poussée par lenfant et ne nécessite pas de piles.
-- Rejouer des scènes - Ninjaka peut prendre place derrière le volant de son bus bleu et énerver les héros en pyjama. Les nombreuses aventures de la série peuvent être reproduites avec le bus.
-- Parfait pour un cadeau - Le véhicule sadresse aux garçons et aux filles et peut être complété avec tous les autres jouets de la gamme Pyjamasques.
-- Suivez les méchants - Le jour, les héros en pyjama Sacha, Amaya et Greg sont des camarades de classe et des amis, mais le soir, les trois se transforment en super héros et deviennent Yoyo, Bibou et Gluglu. Ensemble, ils affrontent les méchants.
 - Simba Toys – Le plaisir de jouer, gros comme un éléphant ! Nous développons des jouets pour séduire les enfants et les encourager de manière ludique.
+- Parfait pour un cadeau - Le véhicule sadresse aux garçons et aux filles et peut être complété avec tous les autres jouets de la gamme Pyjamasques.
+- Figurine mobile - Ninjaka est mobile sur les bras et les jambes pour être facilement placé dans la voiture-jouet et retiré. La voiture est poussée par lenfant et ne nécessite pas de piles.
+- Suivez les méchants - Le jour, les héros en pyjama Sacha, Amaya et Greg sont des camarades de classe et des amis, mais le soir, les trois se transforment en super héros et deviennent Yoyo, Bibou et Gluglu. Ensemble, ils affrontent les méchants.
+- Rejouer des scènes - Ninjaka peut prendre place derrière le volant de son bus bleu et énerver les héros en pyjama. Les nombreuses aventures de la série peuvent être reproduites avec le bus.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B7V1V4Y/?tag=tolees0d-21)
