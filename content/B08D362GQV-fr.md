@@ -28,10 +28,10 @@ Vous avez [CeraVe Baume Hydratant | 2 x 454g | Crème Hydratante 48h Corps  Visa
 
 ℹ️:
 
-- RESTAURE ET PROTÈGE Crème enrichie aux 3 Céramides essentiels et à lAcide Hyaluronique pour restaurer la barrière cutanée des peaux sèches à très sèches
-- HYDRATE EN CONTINU PENDANT 48H & NOURRIT Technologie brevetée MVE garantit une diffusion prolongée des actifs pendant 48h
-- CONSEILS DUTILISATION Appliquer la crème hydratante sur le visage, le corps et les mains aussi souvent que nécessaire
-- TEXTURE CRÈME RICHE Texture non grasse, non collante, habillage rapide
 - DÉVELOPPÉ AVEC DES DERMATOLOGUES Formule développée pour les peaux sèches à très sèches. Sans parfum, hypoallergénique et non comédogène. Testée et recommandée par lAssociation Française de lEczéma
+- HYDRATE EN CONTINU PENDANT 48H & NOURRIT Technologie brevetée MVE garantit une diffusion prolongée des actifs pendant 48h
+- RESTAURE ET PROTÈGE Crème enrichie aux 3 Céramides essentiels et à lAcide Hyaluronique pour restaurer la barrière cutanée des peaux sèches à très sèches
+- TEXTURE CRÈME RICHE Texture non grasse, non collante, habillage rapide
+- CONSEILS DUTILISATION Appliquer la crème hydratante sur le visage, le corps et les mains aussi souvent que nécessaire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D362GQV/?tag=tolees0d-21)

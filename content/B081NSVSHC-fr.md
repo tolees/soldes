@@ -28,9 +28,9 @@ C'est en vente [Logitech G502 Lightspeed  Souris Gaming sans Fil - Noir + Powerp
 
 ℹ️:
 
-- Technologie de charge POWERPLAY - grâce à lapplication innovante dune technologie de résonance électromagnétique, la base POWERPLAY crée un champ énergétique à sa surface et recharge sans câble. Longueur de câble (alimentation / recharge): 1,83 m
-- Lightspeed sans fil - Les professionnels de leSports font confiance à lécosystème Lightspeed des technologies sans fil pour fournir des performances gaming de qualité professionnelle, ultra-rapides et fiables
 - Conception haute performance - La forme emblématique qui a repoussé les limites de léquipement du jeu a évolué plus avant pour des performances sans fil. Une coque extra-fine de 1, 2 mm et la structure de lendosquelette interne réduisent le poids pour prendre en charge les technologies les plus récentes. Durabilité: PTFE Pieds: 250 km dautonomie3
+- Lightspeed sans fil - Les professionnels de leSports font confiance à lécosystème Lightspeed des technologies sans fil pour fournir des performances gaming de qualité professionnelle, ultra-rapides et fiables
+- Technologie de charge POWERPLAY - grâce à lapplication innovante dune technologie de résonance électromagnétique, la base POWERPLAY crée un champ énergétique à sa surface et recharge sans câble. Longueur de câble (alimentation / recharge): 1,83 m
 - Module POWERCORE - le module POWERCORE transforme le champ énergétique du système POWERPLAY en courant de charge et se lie magnétiquement aux souris gaming sans fil compatibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081NSVSHC/?tag=tolees0d-21)

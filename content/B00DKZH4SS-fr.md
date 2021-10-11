@@ -28,10 +28,10 @@ Vous avez [Haku Möbel 90238 Table Basse d Appoint Tube d Acier/Verre Trempé Ch
 
 ℹ️:
 
-- 39 x 39 x 47 cm
 - Gain de place
-- Tube dacier chromé
-- Montage facile
 - Verre trempé de 5 mm
+- 39 x 39 x 47 cm
+- Montage facile
+- Tube dacier chromé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DKZH4SS/?tag=tolees0d-21)

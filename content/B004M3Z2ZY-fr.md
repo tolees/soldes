@@ -28,7 +28,7 @@ Vous avez [Burda B7409 Patron de Couture Lapin et Ours 19 x 13 cm](https://www.a
 
 ℹ️:
 
-- Dimensions : 19 x 13 cm
 - Description du produit: Niveau de difficulté : 1
+- Dimensions : 19 x 13 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004M3Z2ZY/?tag=tolees0d-21)
