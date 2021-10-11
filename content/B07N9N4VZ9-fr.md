@@ -29,8 +29,8 @@ C'est en vente [Apple Iphone Xr 64Go Blanc  Reconditionné ](https://www.amazon
 ℹ️:
 
 - Face ID. Activation par la caméra truedepth pour la reconnaissance faciale
+- Appareil photo 12 mpx avec OIS (stabilisation optique de l’image) et caméra avant truedepth 7 mpx, avec mode portrait, éclairage de portrait, contrôle de la profondeur et HDR intelligent
 - Super Retina Display. Lcd multi‑touch tout écran de 6, 1 pouces (diagonale) avec technologie IPS
 - Indice IP67 de résistance à la poussière et à l’eau (profondeur maximale de 1 mètre pendant 30 minutes maximum)
-- Appareil photo 12 mpx avec OIS (stabilisation optique de l’image) et caméra avant truedepth 7 mpx, avec mode portrait, éclairage de portrait, contrôle de la profondeur et HDR intelligent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N9N4VZ9/?tag=tolees0d-21)
