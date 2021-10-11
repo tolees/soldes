@@ -28,10 +28,10 @@ Vous avez [Sharpie marqueurs indélébiles | pointe fine | assortiment de couleu
 
 ℹ️:
 
-- Des couleurs intensément brillantes pour des effets dynamiques époustouflants
 - Extrêmement polyvalente, la pointe fine permet des marquages incroyablement détaillés et audacieux
 - Lencre permanente se dépose fièrement sur le papier, le plastique, le métal et la plupart des surfaces
-- Remarquablement résistante, lencre sèche rapidement et résiste à la décoloration et à leau ; certifiée AP
+- Des couleurs intensément brillantes pour des effets dynamiques époustouflants
 - Vaste choix de couleurs : inclut un magnifique mélange de 20 marqueurs permanents Sharpie
+- Remarquablement résistante, lencre sèche rapidement et résiste à la décoloration et à leau ; certifiée AP
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CWMQ4BC/?tag=tolees0d-21)
