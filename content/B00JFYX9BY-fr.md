@@ -28,9 +28,9 @@ C'est en vente [Kärcher BP3 Garden Set Plus  pompe d arrosage + kit d’aspirat
 
 ℹ️:
 
-- moteur 800 w, débit de 3 500 l/h, 4 bars, hauteur manométrique totale 40 m,
-- hauteur d’aspiration maximale 8 m, pompe de type jet
 - produit de haute qualité
 - sa poignée ergonomique lui garantit une manipulation confortable et son interrupteur au pied marche/arrêt vous évite de vous baisser.
+- moteur 800 w, débit de 3 500 l/h, 4 bars, hauteur manométrique totale 40 m,
+- hauteur d’aspiration maximale 8 m, pompe de type jet
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00JFYX9BY/?tag=tolees0d-21)
