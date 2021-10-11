@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43109 VIDIYO Metal Dragon Beatbox M avec 50.03 % rabais '
-date: 2021-10-06 23:34:43
+date: 2021-10-11 22:03:19
 image: 'https://m.media-amazon.com/images/I/51OdIBrd3AS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08WX465NV/?tag=tolees0d-21'
 descuento: '50.03'
-average: '10.2566666666668'
+average: '10.8129411764707'
 ---
 
 C'est en vente [LEGO 43109 VIDIYO Metal Dragon Beatbox Music Video Maker  Jouet Musical et Application de Réalité Augmentée pour Enfants](https://www.amazon.fr/dp/B08WX465NV/?tag=tolees0d-21)  à  50.03 % de réduction, prix final  9.99 EUR (original: 19.99 EUR) ici:
@@ -28,12 +28,12 @@ C'est en vente [LEGO 43109 VIDIYO Metal Dragon Beatbox Music Video Maker  Jouet 
 
 ℹ️:
 
-- Inclut une figurine de dragon chanteur, 14 BeatBits aléatoires, 2 BeatBits spéciaux, et le jouet microphone
-- Le LEGO VIDIYO music video maker Metal Dragon propose une musique Heavy Metal ainsi qu’une figurine dragon qui apparait dans l’application de réalité augmentée
-- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux pour donner vie au personnage dans le clip vidéo
 - Vérifiez la compatibilité de votre appareil en téléchargeant l’application gratuite et en enregistrant votre premier clip vidéo avec les personnages numériques Bandmate
+- À l’intérieur, ils peuvent ranger la scène à scanner en briques ; la boîte se ferme pour prendre ce « jouet musical enfants » de partout
+- Le LEGO VIDIYO music video maker Metal Dragon propose une musique Heavy Metal ainsi qu’une figurine dragon qui apparait dans l’application de réalité augmentée
 - Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
 - Scannez les BeatBits dans l’appli pour débloquer des effets spéciaux tels qu’un effet sonore d’opéra rock et des effets de feu passionnants, comme dans un vrai concert
-- À l’intérieur, ils peuvent ranger la scène à scanner en briques ; la boîte se ferme pour prendre ce « jouet musical enfants » de partout
+- Inclut une figurine de dragon chanteur, 14 BeatBits aléatoires, 2 BeatBits spéciaux, et le jouet microphone
+- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux pour donner vie au personnage dans le clip vidéo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WX465NV/?tag=tolees0d-21)
