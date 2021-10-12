@@ -28,13 +28,13 @@ Vous avez [BGS 1214 | Jeu de clés à œil doubles | coudées | 6 x 7 - 30 x 32 
 
 ℹ️:
 
-- Côté anneau contre-coudée
+- En sac roulé tetron
 - Forgé à chaud
 - En acier au chrome-vanadium
-- Chromé, têtes polies brillantes
-- Empreinte: Douze pans
-- En sac roulé tetron
-- DIN 838
 - Jeu de clés à œil doubles, contre- coudées profondes: 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 - 21x23 - 24x27 - 25x28 - 30x32 mm
+- Chromé, têtes polies brillantes
+- Côté anneau contre-coudée
+- DIN 838
+- Empreinte: Douze pans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001ILCCU6/?tag=tolees0d-21)

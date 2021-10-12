@@ -28,10 +28,10 @@ C'est en vente [Rotring 800 Stylo Bille  Pointe Moyenne  Encre Noir  Corps Noir 
 
 ℹ️:
 
-- Le corps entièrement métallique assure un équilibre idéal entre le poids et les sensations pour vous permettre décrire et de dessiner sans fatigue
-- La zone de préhension métallique et moletée antidérapante est confortable pour écrire et dessiner fréquemment
 - Pratique, son design « twist and Click » permet de rentrer la pointe et le manchon pour une durabilité accrue et un transport aisé
 - Stylo rechargeable précis, durable et doté dune encre noir de haute qualité pour une écriture fluide
+- Le corps entièrement métallique assure un équilibre idéal entre le poids et les sensations pour vous permettre décrire et de dessiner sans fatigue
 - Sa forme hexagonale permet déviter que le stylo ne roule pour un meilleur contrôle
+- La zone de préhension métallique et moletée antidérapante est confortable pour écrire et dessiner fréquemment
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077GQDPYM/?tag=tolees0d-21)

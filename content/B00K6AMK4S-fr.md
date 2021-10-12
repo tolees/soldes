@@ -28,10 +28,10 @@ Vous avez [Rapid Pince-Agrafeuse Retro K1  Pour Agrafes 26/6 et 26/8mm  Capacit�
 
 ℹ️:
 
-- Poignée ergonomique pour le confort, Compatible avec les agrafes Rapid 26/6 et 26/8+ (permettant dagrafer 50 feuilles de papier 80g/m²) , profondeur dinsertion de 56 mm.
 - Chargement facile par larrière, 2 types dagrafage : ouvert et fermé.
-- Garantie de 5 ans, Depuis 1943, les pinces Rapid K1 sont conçues pour vous permettre de travailler efficacement et fabriquées avec la plus grande précision en Suède - cest ce que nous appelons svensk effixity.
 - Pince agrafeuse au design classique pour agrafer jusquà 50 feuilles de papier 80 g/m², idéale pour la maison, le bureau ou lécole.
+- Poignée ergonomique pour le confort, Compatible avec les agrafes Rapid 26/6 et 26/8+ (permettant dagrafer 50 feuilles de papier 80g/m²) , profondeur dinsertion de 56 mm.
 - Contenu : 1 x Rapid Pince agrafeuse Classic K1, Blanc crème, 5000496, L x H x P : 85 x 25 x 182 mm, poids 360 g
+- Garantie de 5 ans, Depuis 1943, les pinces Rapid K1 sont conçues pour vous permettre de travailler efficacement et fabriquées avec la plus grande précision en Suède - cest ce que nous appelons svensk effixity.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00K6AMK4S/?tag=tolees0d-21)

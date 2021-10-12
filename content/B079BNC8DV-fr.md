@@ -28,9 +28,9 @@ Vous avez [Jack & Jones 12137126 T-Shirt Homme -Bleu  Navy Blazer   - Large](htt
 
 ℹ️:
 
-- Coupe : Coupe ajustée.
-- Type de manches : Manches courtes
 - T-shirt Jack & Jones pour homme.
 - Encolure : Col rond
+- Coupe : Coupe ajustée.
+- Type de manches : Manches courtes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079BNC8DV/?tag=tolees0d-21)
