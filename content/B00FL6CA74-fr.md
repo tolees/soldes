@@ -29,9 +29,9 @@ Vous avez [Sena 10S-01 Système de Communication Bluetooth  Noir  Single Pack](h
 ℹ️:
 
 - ENREGISTREMENT AUDIO BLUETOOTH - Combinez-le avec dautres produits Sena pour immortaliser vos aventures
-- Application Smartphone, Tuner FM intégré, connectivité à Handlebar Remote de Sena
-- SYSTÈME DE FIXATION TOUT EN UN - Connexions audio simplifiées et fiables
-- RESETEZ CONNECTÉ ET EN CONTACT - Bluetooth 4.1 et Universal Intercom(TM)
 - ÉCOUTEZ LA DIFFÉRENCE DE SENA - Son HD limpide et Advanced Noise Control(TM)
+- SYSTÈME DE FIXATION TOUT EN UN - Connexions audio simplifiées et fiables
+- Application Smartphone, Tuner FM intégré, connectivité à Handlebar Remote de Sena
+- RESETEZ CONNECTÉ ET EN CONTACT - Bluetooth 4.1 et Universal Intercom(TM)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FL6CA74/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Mattel Games - Scrabble Classique  Jeu de Société et de Lettre
 
 ℹ️:
 
-- Comprend un plateau de jeu Scrabble, 100 lettres, quatre chevalets, un sac à lettres et des règles du jeu
-- Le Scrabble est le jeu de formation de mots avec lequel on ne sennuie jamais
-- Scrabble change de look courant 2021. Par conséquent vous recevrez lune ou lautre des deux versions présentées dans les images, en fonction des stocks disponibles au moment de votre commande
-- En plus de vous divertir, le Scrabble vous permet denrichir votre vocabulaire en découvrant de nouveaux mots à chaque partie
-- Le but du jeu est dobtenir le score le plus élevé en formant des mots façon mots croisés sur le plateau de jeu. Chaque joueur pioche au hasard 7 lettres au début de la partie
 - Les points se marquent grâce à la valeur des lettres et aux points supplémentaires des cases Prime de la grille
+- Le but du jeu est dobtenir le score le plus élevé en formant des mots façon mots croisés sur le plateau de jeu. Chaque joueur pioche au hasard 7 lettres au début de la partie
+- Le Scrabble est le jeu de formation de mots avec lequel on ne sennuie jamais
+- Comprend un plateau de jeu Scrabble, 100 lettres, quatre chevalets, un sac à lettres et des règles du jeu
+- En plus de vous divertir, le Scrabble vous permet denrichir votre vocabulaire en découvrant de nouveaux mots à chaque partie
+- Scrabble change de look courant 2021. Par conséquent vous recevrez lune ou lautre des deux versions présentées dans les images, en fonction des stocks disponibles au moment de votre commande
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CN3SPKY/?tag=tolees0d-21)
