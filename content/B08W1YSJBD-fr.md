@@ -28,14 +28,14 @@ C'est en vente [Tefal - INGENIO PREFERENCE Poêle non revêtue 28 cm  fabriqué 
 
 ℹ️:
 
-- FABRICATION FRANCAISE : poêle de haute qualité conçue et fabriquée en France
-- POIGNEE AMOVIBLE (vendue séparément) : la poignée amovible sûre et breveté peut supporter jusquà 10 kgs* et est garantie 10 ans** ; *Selon tests réalisés en interne ; **Garantie soumise à conditions. La présente garantie commerciale naffecte pas les droits légaux qui sappliquent et dont bénéficie le consommateur suivant la législation en vigueur en fonction des pays
-- ACIER INOXYDABLE : poêle fabriquée en acier inoxydable de haute qualité pour assurer performance et durabilité
-- GAIN DE PLACE : la conception empilable des produits Ingenio permet un rangement optimal et un gain de place dans vos placards
-- Fabriqué en France
-- COMPATIBLE LAVE-VAISSELLE (sauf poignée) pour un nettoyage facilité
 - Tefal, N°1 mondial des articles culinaires* ; *Source : Euromonitor International Limited ; édition Home and Garden 2019, valeur de la marque en magasin (RSP), données 2018
 - COMPATIBILITE : tous feux dont induction
+- ACIER INOXYDABLE : poêle fabriquée en acier inoxydable de haute qualité pour assurer performance et durabilité
+- FABRICATION FRANCAISE : poêle de haute qualité conçue et fabriquée en France
+- COMPATIBLE LAVE-VAISSELLE (sauf poignée) pour un nettoyage facilité
 - POLYVALENCE : à laise sur le feu, au four comme au frigo, Ingenio est la réponse simple et intelligente pour des ustensiles de cuisine polyvalents
+- POIGNEE AMOVIBLE (vendue séparément) : la poignée amovible sûre et breveté peut supporter jusquà 10 kgs* et est garantie 10 ans** ; *Selon tests réalisés en interne ; **Garantie soumise à conditions. La présente garantie commerciale naffecte pas les droits légaux qui sappliquent et dont bénéficie le consommateur suivant la législation en vigueur en fonction des pays
+- Fabriqué en France
+- GAIN DE PLACE : la conception empilable des produits Ingenio permet un rangement optimal et un gain de place dans vos placards
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08W1YSJBD/?tag=tolees0d-21)

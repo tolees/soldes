@@ -28,10 +28,10 @@ C'est en vente [Philips Avent SCF293/00 Stérilisateur à vapeur Capacité 6 bib
 
 ℹ️:
 
-- Le contenu reste stérilisé pendant 24 heures si le couvercle nest pas soulevé
-- Rapide et hygiénique, le stérilisateur élimine 99, 9 % des microbes
 - Design compact pour moins d’encombrement et plus d’ergonomie
 - Intérieur spacieux avec plateau égouttoir intégré qui protège la plaque chauffantes des gouttelettes de lait pour réduire le risque d’odeurs désagréables
 - Stérilise et sèche en 40 minutes jusqu’à 6 biberons et également des tétines et sucettes au tire-lait manuel
+- Rapide et hygiénique, le stérilisateur élimine 99, 9 % des microbes
+- Le contenu reste stérilisé pendant 24 heures si le couvercle nest pas soulevé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DPPY1SC/?tag=tolees0d-21)
