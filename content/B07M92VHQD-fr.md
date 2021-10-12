@@ -28,7 +28,7 @@ Vous avez [Only onlNICOLE S/S Mix Top Noos T-Shirt  Bleu  Nuit Sky   M Femme](ht
 
 ℹ️:
 
-- Lace Shirt
 - Short sleeve top
+- Lace Shirt
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M92VHQD/?tag=tolees0d-21)

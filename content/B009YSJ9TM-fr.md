@@ -28,9 +28,9 @@ C'est en vente [Brandt FC160MW - Mini Four - 16L - 1200W - 4 Modes de Cuisson : 
 
 ℹ️:
 
-- Élégant et fonctionnel: ce four dispose de finitions soignées, dune interface intuitive permettant de régler individuellement la température, le mode et le temps de cuisson par lintermédiaire de 3 molettes et dune porte à double vitrage offrant des éco
-- Un produit fiable et homologué: bénéficiant dune constructeur de 2 ans, Ce mini four certifié CE répond aux normes de sécurité fixées par lUnion Européenne.
 - Un appareil puissant et polyvalent: doté dune puissance maximum de 1200 W, il peut atteindre les 240 °C et possède 4 modes de cuisson, dont la convection, la chaleur tournante, le grill et le tournebroche.
+- Un produit fiable et homologué: bénéficiant dune constructeur de 2 ans, Ce mini four certifié CE répond aux normes de sécurité fixées par lUnion Européenne.
+- Élégant et fonctionnel: ce four dispose de finitions soignées, dune interface intuitive permettant de régler individuellement la température, le mode et le temps de cuisson par lintermédiaire de 3 molettes et dune porte à double vitrage offrant des éco
 - Un four parfait pour la vie de tous les jours: compact et performant, ce four dune capacité de 16L est idéal pour griller, rôtir ou cuisiner au quotidien et ne prend pas beaucoup de place sur votre plan de travail.
 - Linnovation Brandt: à lécoute des attentes de ses consommateurs, la marque développe des appareils électroménagers fiables et performants pour faciliter la vie quotidienne.
 

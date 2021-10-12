@@ -28,11 +28,11 @@ C'est en vente [Tefal Intuition XL Extra Grande Marmite Inox 36 cm  20 L  + CV I
 
 ℹ️:
 
-- Compatible tous feux dont induction + four jusquà 250°
-- Anses en inox qui ne glissent pas
-- Une graduation intérieure pour plus de praticité
-- Bords verseurs pour faciliter le service
-- Acier inoxydable 18/10 de haute qualité
 - Une taille XL pour des repas des plus généreux
+- Acier inoxydable 18/10 de haute qualité
+- Anses en inox qui ne glissent pas
+- Bords verseurs pour faciliter le service
+- Une graduation intérieure pour plus de praticité
+- Compatible tous feux dont induction + four jusquà 250°
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HGPPB5C/?tag=tolees0d-21)
