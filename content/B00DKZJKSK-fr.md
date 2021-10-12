@@ -29,8 +29,8 @@ Vous avez [Haku Möbel 90239 Étagère de Salle de Bain Tube d Acier/Verre Tremp
 ℹ️:
 
 - Tube dacier chromé
-- 39 x 39 x 77 cm
-- Montage facile
 - Verre trempé de 5 mm
+- Montage facile
+- 39 x 39 x 77 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DKZJKSK/?tag=tolees0d-21)

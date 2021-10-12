@@ -28,10 +28,10 @@ C'est en vente [Samsung Galaxy Tab S5e 64 Go 4G Noir  FR version ](https://www.a
 
 ℹ️:
 
+- Un écran lumineux de très haute résolution doté de la technologie Super Amoled WQXGA (2560x 1600), très immersif avec seulement 8,7mm de bords
 - Camera principale 13 MP / camera frontale 8 MP
 - Une autonomie longue durée avec sa batterie de 7040 mAh et un port microSD allant jusquà 512 Go pour voyager avec vos contenus préférés
-- Une finesse captivante…Seulement 5,5 mm d’épaisseur, un poids plume de 400 g et une finiton en aluminium disponible en 3 couleurs : Noir Carbone, Gris Acier ou Or impérial
-- Un écran lumineux de très haute résolution doté de la technologie Super Amoled WQXGA (2560x 1600), très immersif avec seulement 8,7mm de bords
 - 4 hauts parleurs son AKG et immersion sonore Dolby Atmos
+- Une finesse captivante…Seulement 5,5 mm d’épaisseur, un poids plume de 400 g et une finiton en aluminium disponible en 3 couleurs : Noir Carbone, Gris Acier ou Or impérial
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PGT87JQ/?tag=tolees0d-21)
