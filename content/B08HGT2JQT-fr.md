@@ -29,8 +29,8 @@ Vous avez [Panasonic - DMW-BLK22E Batterie pour Lumix S5](https://www.amazon.fr/
 ℹ️:
 
 - Fabriqué en Chine
-- Poids du colis de larticle: 45.0 grams
 - Batterie originale pour Lumix S5
 - Dimensions du colis de larticle: 4.0 x 3.0 x 2.0 centimeters
+- Poids du colis de larticle: 45.0 grams
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HGT2JQT/?tag=tolees0d-21)

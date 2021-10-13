@@ -28,11 +28,11 @@ Vous avez [Amazon - Découvrez Fire TV Cube  Mains-libres avec Alexa  lecteur mu
 
 ℹ️:
 
+- Demandez simplement à Alexa dallumer la TV, de tamiser les lumières compatibles et de mettre ce que vous voulez regarder, où que vous soyez dans la pièce.
 - Fire TV Cube est lappareil Fire TV le plus rapide et le plus puissant : il vous livre une expérience dutilisation fluide et rapide pour profiter de vos films et séries préférés.
 - Fire TV Cube est conçu pour protéger votre vie privée. Pour déconnecter électroniquement les microphones, appuyez sur le bouton Microphone (marche/arrêt).
 - Regardez vos contenus préférés sur Netflix, Prime Video, YouTube, Molotov, ARTE, France 24 et plus encore (des abonnements séparés peuvent être nécessaires).
-- Demandez simplement à Alexa dallumer la TV, de tamiser les lumières compatibles et de mettre ce que vous voulez regarder, où que vous soyez dans la pièce.
-- Contrôlez votre barre de son et votre récepteur AV compatibles ; changez dentrée par simple commande vocale.
 - Grâce à un processeur hexacœur puissant, profitez dun accès au contenu 4K Ultra HD et des technologies Dolby Vision, HDR et HDR10+. La technologie Dolby Atmos est disponible sur une sélection de titres Prime Video et Netflix.
+- Contrôlez votre barre de son et votre récepteur AV compatibles ; changez dentrée par simple commande vocale.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083VVZ8VX/?tag=tolees0d-21)
