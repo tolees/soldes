@@ -29,9 +29,9 @@ Vous avez [OLIGHT ALLTY 2000 Éclairage Vélo Étanche Lampe Avant Vélo Puissan
 ℹ️:
 
 - 🚴【Haute Performance】La ALLTY 2000 est une lampe avant vélo qui a pour vocation de vous offrir la meilleure expérience cycliste. Sa puissance atteint jusqu’à 2000 lumens pour tous les usages : trajets quotidiens, cyclisme sur route, VTC, VTT, descente, Trial, etc.
-- 🚴【Idéal Pour Cycliste】La ALLTY 2000 est une lampe avant vélo qui a pour vocation de vous offrir la meilleure expérience cycliste. Et puis, cette lampe a une garantie de 2 ans, n’hésitez pas de nous contacter quand vous rencontrez des problèmes.
 - 🚴【Rechargeable et Batterie Amovible】Cette lampe de vélo est rechargeable qui est pratique et économique. Équipée de 2 batteries 18650 de haute qualité de 3500mAh 3.6V chacune, lautonomie de la ALLTY 2000 peut atteindre 14h30mins.Vous pouvez charger la ALLTY 2000 via micro-usb.
 - 🚴【5 Modes D’Éclairage】La ALLTY 2000 dispose de 5 modes d’éclairage pour satisfaire différents scénarios cyclistes. La fonction de mémoire enregistre astronomiquement le dernier mode sélectionné et le niveau de luminosité.
+- 🚴【Idéal Pour Cycliste】La ALLTY 2000 est une lampe avant vélo qui a pour vocation de vous offrir la meilleure expérience cycliste. Et puis, cette lampe a une garantie de 2 ans, n’hésitez pas de nous contacter quand vous rencontrez des problèmes.
 - 🚴【Lentille Optique Haute Qualité】La ALLTY 2000 dispose d’une lampe de jour et deux LED de haute efficacité qui peuvent produire une puissance maximum de 2000 lumens. Le faisceau à double angle (angle gauche 25°, angle droit 18°) émettra des lumières homogènes pour vous offrir une plage d’éclairage plus large et plus lumineuse, et augmenter votre sécurité.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GPGT4W8/?tag=tolees0d-21)
