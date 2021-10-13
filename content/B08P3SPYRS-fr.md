@@ -28,10 +28,10 @@ C'est en vente [LifeProof pour iPhone 12 Pro Max  coque antichoc et étanche  S�
 
 ℹ️:
 
-- ÉTANCHE À L´EAU
-- DESIGN ÉPURÉ
 - CONTRIBUTION À AIDER LENVIRONNEMENT
-- EMBALLAGE RECYCLABLE
 - PROTECTION CONTRE LES CHUTES
+- EMBALLAGE RECYCLABLE
+- DESIGN ÉPURÉ
+- ÉTANCHE À L´EAU
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P3SPYRS/?tag=tolees0d-21)
