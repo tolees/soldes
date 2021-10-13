@@ -29,9 +29,9 @@ Vous avez [Crucial Ballistix MAX BLM2K8G40C18U4B 4000 MHz  DDR4  DRAM  Mémoire 
 ℹ️:
 
 - Un capteur de précision intégré aux modules DIMM pour surveiller les températures lorsque vous repoussez les limites de votre mémoire
-- Profils XMP 2.0 pour un overclocking automatique. Les experts peuvent personnaliser leurs timings manuellement
-- Conçue pour les dernières plateformes AMD et Intel
 - Idéal pour les amateurs d’overclocking extrême
+- Conçue pour les dernières plateformes AMD et Intel
 - Un dissipateur thermique haute qualité en aluminium extrudé pour une élimination de la chaleur maximale et une gestion thermique optimale
+- Profils XMP 2.0 pour un overclocking automatique. Les experts peuvent personnaliser leurs timings manuellement
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083TS2KJH/?tag=tolees0d-21)

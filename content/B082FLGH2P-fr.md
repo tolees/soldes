@@ -29,8 +29,8 @@ Vous avez [Cybex Gold Eezy S 2  Deep Noir](https://www.amazon.fr/dp/B082FLGH2P/?
 ℹ️:
 
 - Cybex Gold EEZY S 2, Deep noir
-- Produit de haute qualité
-- Couleur : Deep Black
 - Numéro darticle : 520001597
+- Couleur : Deep Black
+- Produit de haute qualité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082FLGH2P/?tag=tolees0d-21)
