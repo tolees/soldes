@@ -28,10 +28,10 @@ C'est en vente [Microsoft Surface Headphones – Casque Bluetooth à réduction 
 
 ℹ️:
 
-- Recharge rapide par port USB-C, 1 heure d’écoute en 5 minutes de charge
-- Jusqu’à 15 heures d’autonomie
-- Commandes tactiles intuitives
 - 13 niveaux de réduction de bruit, réglables via molette latérale
+- Jusqu’à 15 heures d’autonomie
+- Recharge rapide par port USB-C, 1 heure d’écoute en 5 minutes de charge
+- Commandes tactiles intuitives
 - Compatible avec Siri et Google Assistant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NP6NN65/?tag=tolees0d-21)
