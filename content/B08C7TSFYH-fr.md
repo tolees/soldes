@@ -28,8 +28,8 @@ C'est en vente [Tommy Hilfiger TH ESS LW Down Jacket Manteau Long  Noir  M Femme
 
 ℹ️:
 
-- Doudoune femme : cette veste deviendra votre vêtement préféré. Son style et sa forme en font un bijou élégant intemporel
 - Veste matelassée : fabriquée en 100 % nylon et garnie de duvet pour vous protéger du froid. Fabriqué en matériau hydrofuge, ce manteau imperméable est adapté à tous les temps
+- Doudoune femme : cette veste deviendra votre vêtement préféré. Son style et sa forme en font un bijou élégant intemporel
 - Veste Tommy Hilfiger pour femme : élégante finition surpiquée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7TSFYH/?tag=tolees0d-21)
