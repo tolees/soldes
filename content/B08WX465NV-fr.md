@@ -29,11 +29,11 @@ C'est en vente [LEGO 43109 VIDIYO Metal Dragon Beatbox Music Video Maker  Jouet 
 ℹ️:
 
 - Le LEGO VIDIYO music video maker Metal Dragon propose une musique Heavy Metal ainsi qu’une figurine dragon qui apparait dans l’application de réalité augmentée
-- Scannez les BeatBits dans l’appli pour débloquer des effets spéciaux tels qu’un effet sonore d’opéra rock et des effets de feu passionnants, comme dans un vrai concert
-- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
-- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux pour donner vie au personnage dans le clip vidéo
 - À l’intérieur, ils peuvent ranger la scène à scanner en briques ; la boîte se ferme pour prendre ce « jouet musical enfants » de partout
+- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux pour donner vie au personnage dans le clip vidéo
 - Inclut une figurine de dragon chanteur, 14 BeatBits aléatoires, 2 BeatBits spéciaux, et le jouet microphone
+- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
 - Vérifiez la compatibilité de votre appareil en téléchargeant l’application gratuite et en enregistrant votre premier clip vidéo avec les personnages numériques Bandmate
+- Scannez les BeatBits dans l’appli pour débloquer des effets spéciaux tels qu’un effet sonore d’opéra rock et des effets de feu passionnants, comme dans un vrai concert
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WX465NV/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Playmobil - Ambulance et Secouristes - 70049  12.5 x 24.8 x 34.8
 
 ℹ️:
 
-- Le bloc décran à lintérieur sillumine Fonctionne avec 1 pile micro 1,5 V
 - Avec chaise longue pliable et beaucoup déquipement durgence.
+- Le bloc décran à lintérieur sillumine Fonctionne avec 1 pile micro 1,5 V
 - 3 figurines avec de nombreux accessoires.
 - Le module lumineux et sonore sur le toit nécessite 3 piles de 1,5 V (non fournies)
 
