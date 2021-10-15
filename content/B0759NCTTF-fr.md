@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ULTIMATE DIAG ONE - Interface de diagnos avec 49.54 % rabais '
-date: 2021-10-08 13:56:09
+date: 2021-10-15 13:35:49
 image: 'https://m.media-amazon.com/images/I/514A2gdP04L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [ULTIMATE DIAG ONE - Interface de diagnostic MULTIMARQUES – Ver
 
 ℹ️:
 
-- Système constitué dune interface électronique avec cble USB/OBD et du logiciel à installer (logiciel distribué sur clé USB)
+- Valise de diagnostic multimarque pour le moteur et multimodule pour les marques françaises – Version clé USB
 - Système conçu, développé et fabriqué en France, garanti 2 ans par le fabricant - Aide à linstallation et à lutilisation incluse et gratuite (numéro non surtaxé)
+- Système constitué dune interface électronique avec cble USB/OBD et du logiciel à installer (logiciel distribué sur clé USB)
+- Logiciel à installer sur un PC ou une tablette fonctionnant sous Windows (32 ou 64 bits) XP, 7, 8, 8.1 ou 10 (attention: non compatible avec VISTA)
 - Véhicule fabriqué à partir de fin 2001 pour les essence, à partir de fin 2004 pour les diesel et à partir de fin 2007 pour les utilitaires
 - Version 2019 avec nouvelle interface électronique OBD/USB optimisée
-- Valise de diagnostic multimarque pour le moteur et multimodule pour les marques françaises – Version clé USB
-- Logiciel à installer sur un PC ou une tablette fonctionnant sous Windows (32 ou 64 bits) XP, 7, 8, 8.1 ou 10 (attention: non compatible avec VISTA)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0759NCTTF/?tag=tolees0d-21)
