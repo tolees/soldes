@@ -29,8 +29,8 @@ C'est en vente [eKids- Pixar Lecteur CD  CR-430  Rouge](https://www.amazon.fr/dp
 ℹ️:
 
 - Dimensions de lemballage : 39.5 x 14.3 x 21.5 cm
-- Fabriqué en:- Chine
 - Poids du colis de larticle : 1.4 kg
+- Fabriqué en:- Chine
 - Âge recommandé : ENFANT
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00589VNJA/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Onkyo D-175 Enceinte Bass-Reflex Bidirectionnelle 120 Watts  Son
 
 ℹ️:
 
-- Appareils compatibles: Stereo
-- Caisson de basse actif Bass Reflex
 - Fabriqué en:- Chine
 - Boîtier esthétique avec brillant avant
+- Caisson de basse actif Bass Reflex
+- Appareils compatibles: Stereo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRELOF9/?tag=tolees0d-21)
