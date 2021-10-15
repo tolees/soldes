@@ -28,10 +28,10 @@ Vous avez [CAME - Telecommande CAME TOP862EE  868.35 MHz  2 Boutons](https://www
 
 ℹ️:
 
-- TELEcommande de portail de frÃquence 868.35 MHz
-- Type de pile CR2016-X2
-- Type de programmation: Auto-apprentissage
-- Garantie 1 an - Piles et notice incluses
 - Dimensions [32mm x 68mm x 13mm]
+- Type de programmation: Auto-apprentissage
+- Type de pile CR2016-X2
+- TELEcommande de portail de frÃquence 868.35 MHz
+- Garantie 1 an - Piles et notice incluses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P92TXFM/?tag=tolees0d-21)

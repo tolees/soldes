@@ -28,10 +28,10 @@ C'est en vente [Sika Stop Vert  Traitement algicide et fongicide anti-traces ver
 
 ℹ️:
 
+- ACTION CURATIVE ET PREVENTIVE: Sika Stop VERT agit dans la durée en éliminant les traces vertes et en permettant un traitement préventif contre la repousse
+- CONSOMMATION: un bidon de 6L = 42 à 60m². Fabriqué en France.
+- APPLICATION: Produit prêt à lemploi, application facile au pulvérisateur sans rinçage. Peut-être peint ou recouvert par un enduit une fois les traces éliminées. Vérifier labsence de pluie, vent et gel 48h avant et après application. Ne pas appliquer sur trop forte chaleur supérieur à 30°C.
 - MULTI-SUPPORTS: Ardoise, pierre, brique, mortier, tuiles, fibre-ciment, plâtre, faïence, zinc, shingle. Idéal pour toiture, terrasse, mur de façade, mur de clôture, dallage, balcon, escalier extrérieur, équipement de loisirs, statues, bassin non poissonneux, bois, pignon, enduit
 - Nettoyer et protéger sa maison cest lui redonner de la valeur! Nettoyant désincrustant de surfaces extérieures pour lELIMINATION de dépôts vert types ALGUES, LICHENS
-- APPLICATION: Produit prêt à lemploi, application facile au pulvérisateur sans rinçage. Peut-être peint ou recouvert par un enduit une fois les traces éliminées. Vérifier labsence de pluie, vent et gel 48h avant et après application. Ne pas appliquer sur trop forte chaleur supérieur à 30°C.
-- CONSOMMATION: un bidon de 6L = 42 à 60m². Fabriqué en France.
-- ACTION CURATIVE ET PREVENTIVE: Sika Stop VERT agit dans la durée en éliminant les traces vertes et en permettant un traitement préventif contre la repousse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01D1ORGVW/?tag=tolees0d-21)
