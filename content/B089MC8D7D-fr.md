@@ -29,8 +29,8 @@ C'est en vente [Le Petit Marseillais gel Douche Bio Hydratant  au Ph Neutre  Ros
 ℹ️:
 
 - Flacon 100% recyclable, formule 99% biodégradable
-- Le Petit Marseillais est parti cueillir des roses sauvages dans le Sud de la France pour son gel douche certifié bio, bon pour votre peau et pour la PLANÈTE
-- Testé sous contrôle dermatologique, pH neutre pour la peau
 - Note Yuka : 93/100
+- Testé sous contrôle dermatologique, pH neutre pour la peau
+- Le Petit Marseillais est parti cueillir des roses sauvages dans le Sud de la France pour son gel douche certifié bio, bon pour votre peau et pour la PLANÈTE
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089MC8D7D/?tag=tolees0d-21)

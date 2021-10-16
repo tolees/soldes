@@ -28,11 +28,11 @@ C'est en vente [Kinderkraft Siège Auto Isofix ONETO3  Groupe 1/2/3  de 9 à 36 
 
 ℹ️:
 
-- SYSTÈME ISOFIX ET TOP TETHER - Le siège auto se fixe facilement et solidement grâce au système ISOFIX. La fixation TOP TETHER est une fixation arrière supplémentaire qui améliore la sécurité du siège
-- UTILE PENDANT DES ANNEES - Le siège-auto ONETO3 vous servira pendant des années car il convient aux enfants allant de 9 à 36 kg (Groupe EFE I/II/III). Pour plus de confort il est déhoussable et la housse est lavable.
 - HARNAIS A 5 POINTS - Vous pouvez attacher votre enfant de 9 à 15 kg grâce au harnais de sécurité à 5 points. Le harnais est équipé de coussinés pour assurer le confort de votre enfant. De 15 à 36 kg lenfant sattache grâce à la ceinture de sécurité
+- SIDE PROTECTION SYSTEM - La structure du siège-auto est renforcée avec des coussinets latéraux qui sont équipés du système de protection "SIDE PROTECTION SYSTEM". Cela offre une protection supplémentaire en cas de choc
 - DOSSIER REGLABLE - Le dossier du siège-auto est inclinable pour que votre enfant soit toujours confortable. Vous avez le choix entre 5 niveaux dinclinaison. Ainsi en plus dêtre très bien protégé, votre enfant se sentira toujours bien
 - Ce produit bénéficie dune extension de garantie optionnelle de 10 ans. Veuillez vous référer au fichier PDF des conditions de garantie ci-dessous. Vous pouvez également trouver des informations sur la garantie sur le site Web du fabricant.
-- SIDE PROTECTION SYSTEM - La structure du siège-auto est renforcée avec des coussinets latéraux qui sont équipés du système de protection "SIDE PROTECTION SYSTEM". Cela offre une protection supplémentaire en cas de choc
+- SYSTÈME ISOFIX ET TOP TETHER - Le siège auto se fixe facilement et solidement grâce au système ISOFIX. La fixation TOP TETHER est une fixation arrière supplémentaire qui améliore la sécurité du siège
+- UTILE PENDANT DES ANNEES - Le siège-auto ONETO3 vous servira pendant des années car il convient aux enfants allant de 9 à 36 kg (Groupe EFE I/II/III). Pour plus de confort il est déhoussable et la housse est lavable.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KRN9GHB/?tag=tolees0d-21)

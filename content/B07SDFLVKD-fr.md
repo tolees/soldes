@@ -28,11 +28,11 @@ C'est en vente [Manette Xbox Noire Sans Fil - Carbon Black](https://www.amazon.f
 
 ℹ️:
 
+- Bouton de partage dédié : Grace au nouveau bouton de partage Xbox, capturez et partagez vos meilleurs captures & vidéos avec vos amis
+- Personnalisation totale : Personnalisez les boutons (mapping) de votre manette avec lapplication Xbox Accessories​ et brancher un casque compatible grâce à la prise jack 3.5mm
+- Confort de jeu accru : Surface antidérapante sur les gâchettes et l’arrière de la manette et nouvelle croix multidirectionnelle pour une prise en main précise
 - *selon la mise à jour du système d’exploitation. Plus d’informations sur xbox.com/controller-compatibility
 - Technologie Xbox sans fil et Bluetooth*
-- Personnalisation totale : Personnalisez les boutons (mapping) de votre manette avec lapplication Xbox Accessories​ et brancher un casque compatible grâce à la prise jack 3.5mm
-- Bouton de partage dédié : Grace au nouveau bouton de partage Xbox, capturez et partagez vos meilleurs captures & vidéos avec vos amis
 - Compatible avec tous vos appareils vos appareils – Xbox Series X|S, Xbox One, PC Windows10 , téléphones & tablettes iOS et Android*
-- Confort de jeu accru : Surface antidérapante sur les gâchettes et l’arrière de la manette et nouvelle croix multidirectionnelle pour une prise en main précise
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SDFLVKD/?tag=tolees0d-21)

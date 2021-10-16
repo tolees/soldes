@@ -28,10 +28,10 @@ Vous avez [UniR Masque de protection respiratoire FFP2 Blanc Adultes CE  Fabriqu
 
 ℹ️:
 
-- Fabriqué en France
-- L’appareil de protection respiratoire UniR est destiné à protéger le porteur contre l’inhalation de gouttelettes et de particules en suspension dans l’air.
 - Il sagit dun dispositif de protection de lenvironnement de travail et des salariés.
-- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
 - Certification Apave CE0082
+- L’appareil de protection respiratoire UniR est destiné à protéger le porteur contre l’inhalation de gouttelettes et de particules en suspension dans l’air.
+- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
+- Fabriqué en France
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08R7Q2YLD/?tag=tolees0d-21)

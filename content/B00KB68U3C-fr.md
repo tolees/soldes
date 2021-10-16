@@ -28,8 +28,8 @@ C'est en vente [Clover CLO3675 Ensemble de Crochets en Acier Amour  MÃtal  Asso
 
 ℹ️:
 
-- Contient les tailles 0,60 mm, 0,75 mm, 0,90 mm, 1,00 mm, 1,25 mm, 1,50 mm, 1,75 mm.
 - Avec manche tridimensionnel en matériau souple et antidérapant – prévient la fatigue.
 - Avec une longue tige pour un maillage homogène.
+- Contient les tailles 0,60 mm, 0,75 mm, 0,90 mm, 1,00 mm, 1,25 mm, 1,50 mm, 1,75 mm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00KB68U3C/?tag=tolees0d-21)
