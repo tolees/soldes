@@ -28,11 +28,11 @@ Vous avez [Fartools PMF1300 115032 Surfaceuse Multi Matériaux  1300 W  220 V  N
 
 ℹ️:
 
-- Diamètre de larbre m14
-- Variateur de vitesse de 3000-10000 tr.Min-1
 - Puissance: 1400W
-- Dimensions du disques (ponçage - meulage) : ø125 x 22.2
-- Collecteur de poussières: oui
+- Diamètre de larbre m14
 - Blocage de larbre: oui
+- Dimensions du disques (ponçage - meulage) : ø125 x 22.2
+- Variateur de vitesse de 3000-10000 tr.Min-1
+- Collecteur de poussières: oui
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074HBMKFL/?tag=tolees0d-21)
