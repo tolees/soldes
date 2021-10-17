@@ -28,7 +28,7 @@ C'est en vente [Tommy Hilfiger Lines Hilfiger Tee T-Shirt  Olivewood  XXL Homme]
 
 ℹ️:
 
-- Il sagit dun produit authentique et original Tommy Hilfiger
 - Produit durable fabriqué à partir de matériaux durables
+- Il sagit dun produit authentique et original Tommy Hilfiger
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08T6C9YJB/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Michelin MPX17EH Nettoyeur Haute Pression  1700 W  130 bar  440 
 
 ℹ️:
 
-- Avec enrouleur porte-accessoires intégré manche télescopique et fonction auto-amorçante depuis un réservoir extérieur
-- Pression (bar) max 130 Puissance absorbée (kW) 1 7 Débit (l/h) max 440 Température eau dalimentation (°C) max 50
-- Équipement pistolet lance et flexible à haute pression (6 m) rotabuse buse à jet réglable et kit canon à mousse Accessoires toujours rangés avec le porte-accessoires intégré au dos de lappareil
 - Nettoyeur haute pression idéal pour nettoyer les motos les autos les fourgons les camions et les surfaces domestiques extérieures
+- Pression (bar) max 130 Puissance absorbée (kW) 1 7 Débit (l/h) max 440 Température eau dalimentation (°C) max 50
 - Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
+- Équipement pistolet lance et flexible à haute pression (6 m) rotabuse buse à jet réglable et kit canon à mousse Accessoires toujours rangés avec le porte-accessoires intégré au dos de lappareil
+- Avec enrouleur porte-accessoires intégré manche télescopique et fonction auto-amorçante depuis un réservoir extérieur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085WPD9GS/?tag=tolees0d-21)
