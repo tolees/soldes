@@ -28,13 +28,13 @@ Vous avez [Outil Rotatif Multifonction Dremel 8220 Sans-fil 12V avec 5 Adaptatio
 
 ℹ️:
 
-- produit 1: Facilité dutilisation : avec lembout EZ Twist, plus besoin de chercher la clé pour changer daccessoire, celle-ci est déjà dans le nez de la machine ! Bénéficiez aussi dun éclairage LED sur le nez de la machine pour bien voir quelque soit les conditions de vos projets
-- produit 1: Contenu du coffret : outil Dremel 8220 + 1 chargeur + 2 batteries + caisse de rangement en aluminium + 5 adaptations + 65 accessoires dorigine Dremel + manuel d’utilisation en français + fiche des accessoires
-- produit 1: Outil multifonction : grâce aux nombreux accessoires fournis avec l’outil rotatif, cet appareil peut servir de mini ponceuse électrique, graveur, mini perceuse, meuleuse de poche ou polisseuse de finition
-- produit 1: Vitesse de rotation variable de 5.000 à 35.000 tr/min : adaptez facilement votre vitesse au matériau que vous travaillez grâce à la molette qui possède 6 positions différentes
 - produit 2: L’outil fixé au support est inclinable jusqu’à 90 degrés par incréments de 15 degrés pour répondre aux besoins de chaque projet
-- produit 2: Les marquages en pouces et en centimètres sur l’embase assurent des mesures précises et des réglages cohérents (pince de serrage non fournie)
-- produit 2: Transformer votre outil multifonctions Dremel en perceuse à colonne (accessoires de perçage non fournis)
+- produit 1: Contenu du coffret : outil Dremel 8220 + 1 chargeur + 2 batteries + caisse de rangement en aluminium + 5 adaptations + 65 accessoires dorigine Dremel + manuel d’utilisation en français + fiche des accessoires
+- produit 1: Vitesse de rotation variable de 5.000 à 35.000 tr/min : adaptez facilement votre vitesse au matériau que vous travaillez grâce à la molette qui possède 6 positions différentes
 - produit 2: Produit pour servir de colonne de perçage pour percer des trous parfaits, comme porte-outil pour avoir les mains libres ou comme support d’outil pour travailler avec grande précision avec l’adaptation arbre flexible.
+- produit 2: Transformer votre outil multifonctions Dremel en perceuse à colonne (accessoires de perçage non fournis)
+- produit 1: Facilité dutilisation : avec lembout EZ Twist, plus besoin de chercher la clé pour changer daccessoire, celle-ci est déjà dans le nez de la machine ! Bénéficiez aussi dun éclairage LED sur le nez de la machine pour bien voir quelque soit les conditions de vos projets
+- produit 1: Outil multifonction : grâce aux nombreux accessoires fournis avec l’outil rotatif, cet appareil peut servir de mini ponceuse électrique, graveur, mini perceuse, meuleuse de poche ou polisseuse de finition
+- produit 2: Les marquages en pouces et en centimètres sur l’embase assurent des mesures précises et des réglages cohérents (pince de serrage non fournie)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JQVKNDV/?tag=tolees0d-21)
