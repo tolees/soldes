@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.13 % rabais sur Ravensburger - GraviTrax - Bloc d action'
-date: 2021-10-16 20:39:46
+date: 2021-10-18 15:56:01
 image: 'https://m.media-amazon.com/images/I/41pCJjhoavL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Ravensburger - GraviTrax - Bloc d action Spiral - 26838 - Jeu de cons
 
 ℹ️:
 
-- MODULABLE A LINFINI et COMPATIBLE avec tous les produits GraviTrax. Ce bloc daction se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine à tous les éléments GraviTrax. Découvrez une large gamme de sets dextension et de blocs daction pour enrichir vos circuits et imaginer un nombre illimité de parcours différents
-- UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour les fans de construction de tous âges ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu et dassemblage, seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël
 - SPIRALE : Un toboggan en colimaçon que les billes pourront dévaler à toute vitesse ! Complètement modulable, la spirale peut se régler sur plusieurs hauteurs différentes, pour des circuits de billes GraviTrax encore plus personnalisés
-- CONTENU : 2 blocs Spirale, 1 guide dutilisation illustré et en français
+- UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour les fans de construction de tous âges ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu et dassemblage, seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël
 - JEU EDUCATIF STEM : GraviTrax est un système de construction très ludique qui permet aux enfants dexpérimenter des lois physiques comme la gravité, le magnétisme ou la force cinétique. En manipulant les blocs et en testant leurs propres assemblages, ils développent à la fois leur créativité et leur compréhension de ces principes scientifiques
+- CONTENU : 2 blocs Spirale, 1 guide dutilisation illustré et en français
+- MODULABLE A LINFINI et COMPATIBLE avec tous les produits GraviTrax. Ce bloc daction se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine à tous les éléments GraviTrax. Découvrez une large gamme de sets dextension et de blocs daction pour enrichir vos circuits et imaginer un nombre illimité de parcours différents
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086D2HKTD/?tag=tolees0d-21)
