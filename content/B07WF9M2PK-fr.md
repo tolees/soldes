@@ -28,10 +28,10 @@ Vous avez [HyperX Fury HX432C16FB3AK2/16 Mémoire RAM DIMM DDR4 16GB  Kit 2x8GB 
 
 ℹ️:
 
-- Intel XMP et AMD Ryzen Compatible
 - Effets lumineux RGB époustouflants dans un style agressif¹
+- 100% testée à toutes les fréquences
+- Intel XMP et AMD Ryzen Compatible
 - Technologie HyperX de synchronisation par infrarouge en attente de brevet
 - Overclocking automatique jusquà la vitesse la plus élevée autorisée par le BIOS du système.
-- 100% testée à toutes les fréquences
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WF9M2PK/?tag=tolees0d-21)
