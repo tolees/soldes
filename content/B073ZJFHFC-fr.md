@@ -28,9 +28,9 @@ C'est en vente [ACTIVISION - Destiny 2 + Emote Digital: Salut Militaire  exclusi
 
 ℹ️:
 
-- Destiny 2 sur PS4
 - Le fusil exclusif "Coeur du Glace" (Destiny 2 en précommande uniquement) (Code présent dans la boite)
-- Emote Amazon exclusive "Salut" (Code présent dans la boite)
 - Contient:
+- Destiny 2 sur PS4
+- Emote Amazon exclusive "Salut" (Code présent dans la boite)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073ZJFHFC/?tag=tolees0d-21)

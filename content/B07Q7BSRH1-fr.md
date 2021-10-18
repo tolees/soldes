@@ -28,9 +28,9 @@ C'est en vente [JUVAMINE - Vitamine C 500-30 Comprimés à croquer](https://www.
 
 ℹ️:
 
+- FORMAT PRATIQUE: Contient 2 tubes de 15 comprimés
+- LUTTER CONTRE LA FATIGUE PASSAGERE: Pour les personnes souhaitant un apport en vitamine C supplémentaire au cours de périodes difficiles (fatigue intense, surmenage, hiver…)
 - BOOSTER SON SYSTEME IMMUNITAIRE: La Vitamine C contribue à réduire la fatigue et au fonctionnement normal du système immunitaire
 - ENTREPRISE FRANCAISE: La Vitamine C500 des Laboratoires Juvamine est produite en France, à Forbach.
-- LUTTER CONTRE LA FATIGUE PASSAGERE: Pour les personnes souhaitant un apport en vitamine C supplémentaire au cours de périodes difficiles (fatigue intense, surmenage, hiver…)
-- FORMAT PRATIQUE: Contient 2 tubes de 15 comprimés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q7BSRH1/?tag=tolees0d-21)

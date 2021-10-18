@@ -28,10 +28,10 @@ Vous avez [Singer Heavy Duty – Machine à Coudre  électrique  Grise  Pied b
 
 ℹ️:
 
+- Top drop bobbin couleur utiliser (par le haut)
+- Enfile-aiguille intégré, cadre en métal stable avec plaque de fond en acier inoxydable
 - Double éclairage lED et bras libre pratique, weichhaube de protection contre la poussière.
 - 32 Programmes nutzstiche (6, 7, 18 stretchstiche fantaisie)
 - Entraînement du transporteur, boutonnière
-- Enfile-aiguille intégré, cadre en métal stable avec plaque de fond en acier inoxydable
-- Top drop bobbin couleur utiliser (par le haut)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ID9RZ44/?tag=tolees0d-21)

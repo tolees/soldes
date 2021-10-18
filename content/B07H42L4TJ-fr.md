@@ -28,9 +28,9 @@ Vous avez [Carte mémoire SDXC SanDisk Extreme 64 Go jusqu à 150 Mo/s  Classe
 
 ℹ️:
 
-- Température de fonctionnement :-13°F to 185°F (-25°C to 85°C
 - Vitesses de capture allant jusquà 70 Mo/s, Vitesse de transfert jusquà 150 mo/s
 - Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
+- Température de fonctionnement :-13°F to 185°F (-25°C to 85°C
 - Enregistrez des vidéos ininterrompues avec une classe de vitesse UHS 3 (U3) et une classe de vitesse vidéo 30 (V30)
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 
