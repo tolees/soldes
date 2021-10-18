@@ -28,10 +28,10 @@ Vous avez [DeLonghi SER3018 Détartrant écologique pour machine à café 500ml]
 
 ℹ️:
 
-- Le liquide détartrant est composé uniquement de matières premières végétales d’haute qualité et qui sont également biodégradables et respectueux de lenvironnement.
-- Delonghi SER3018 500ml
-- Le flacon est 50% fait des plastiques recyclées. L’emballage est composé de matériaux recyclés et biodégradables.
 - Le carton et la plastique d’emballage est 100% recyclable.
+- Le liquide détartrant est composé uniquement de matières premières végétales d’haute qualité et qui sont également biodégradables et respectueux de lenvironnement.
+- Le flacon est 50% fait des plastiques recyclées. L’emballage est composé de matériaux recyclés et biodégradables.
+- Delonghi SER3018 500ml
 - Permet deffectuer cinq cycles de détartrage. Convient à toutes les machines à café.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008YETL18/?tag=tolees0d-21)

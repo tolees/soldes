@@ -29,7 +29,7 @@ C'est en vente [NBA 2K22 Exclusivité Amazon  Xbox Series X ](https://www.amazon
 ℹ️:
 
 - Contenu supplémentaitre exclusif amazon 2 000 vc et 1 pack promo myteam.
-- Contenu édition std: - jeu - bonus préco (digital) - 5K vc - 6 boosts ma carrière - 1 maillot luka dončić - 5K points myteam - 10 packs promo myteam - 1 carte myteam de luka dončić (95)
 - Nba 2K22 est le dernier opus de la série développée par visual concepts et éditée par 2K
+- Contenu édition std: - jeu - bonus préco (digital) - 5K vc - 6 boosts ma carrière - 1 maillot luka dončić - 5K points myteam - 10 packs promo myteam - 1 carte myteam de luka dončić (95)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B099KXYSC5/?tag=tolees0d-21)

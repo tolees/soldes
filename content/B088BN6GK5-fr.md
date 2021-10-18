@@ -28,9 +28,9 @@ C'est en vente [LG Electronics - LG UltraGear 34GN73A-B  Moniteur incurvé Gamin
 
 ℹ️:
 
-- Le MBR de 1 ms assure une meilleure fluidité de jeu, en réduisant l’effet de flou et le ghosting.
 - Le taux de rafraîchissement de 144 Hz permet aux joueurs de voir limage suivante plus rapidement et pour un rendu plus fluide.
 - Le HDR10 offre un contraste dynamique et une reproduction des couleurs avec une fidélité extrême pour une immersion profonde.
+- Le MBR de 1 ms assure une meilleure fluidité de jeu, en réduisant l’effet de flou et le ghosting.
 - La compatibilité avec G-SYNC supprime les déchirures décran et minimise les saccades pour une expérience de jeu plus fluide et plus rapide.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088BN6GK5/?tag=tolees0d-21)

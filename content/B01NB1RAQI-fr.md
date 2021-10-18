@@ -28,10 +28,10 @@ C'est en vente [Philips GC3920/20 Fer à repasser sans réglage - Bleu 2500 W](h
 
 ℹ️:
 
-- Avec la fonction arrêt automatique, le fer séteint automatiquement lorsquil nest pas utilisé.
-- Glisse facile sur tous les tissus grâce à la semelle haut de gamme Steamglide New
-- Technologie sans réglages OptimalTemp : la combinaison idéale entre vapeur et température
-- 2500 W pour une utilisation et une montée en température plus rapide et de hautes performances
 - Effet pressing 185 g favorisant lélimination des faux plis persistants
+- Avec la fonction arrêt automatique, le fer séteint automatiquement lorsquil nest pas utilisé.
+- Technologie sans réglages OptimalTemp : la combinaison idéale entre vapeur et température
+- Glisse facile sur tous les tissus grâce à la semelle haut de gamme Steamglide New
+- 2500 W pour une utilisation et une montée en température plus rapide et de hautes performances
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NB1RAQI/?tag=tolees0d-21)
