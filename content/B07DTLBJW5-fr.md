@@ -29,10 +29,10 @@ C'est en vente [GROHE Colonne de Douche Thermostatique Euphoria Smartcontrol Sys
 ℹ️:
 
 - GROHE CoolTouch Minimise les risques de brûlures
-- Bouton poussoir SmartControl pour ON-OFF, tourner pour régler le débit
-- Flexible Silverflex 1750 mm (28388000)
 - Bras de douche horizontal 450 mm
 - GROHE TurboStat Régulation thermostatique quasi-instantanée
+- Flexible Silverflex 1750 mm (28388000)
+- Bouton poussoir SmartControl pour ON-OFF, tourner pour régler le débit
 - Douche de tête Rainshower 310 SmartActive Cube et douchette Euphoria Cube (27698000)
 - Procédé anti-calcaire SpeedClean
 
