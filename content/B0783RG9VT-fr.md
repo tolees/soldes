@@ -28,10 +28,10 @@ C'est en vente [PUMA Smash V2  Baskets Mixte  Black White Silver  37 EU](https:/
 
 ℹ️:
 
-- Idéales pour l’entraînement, les tennis Puma allient qualité et allure branchée Très tendance, ces sneakers sont un incontournable pour la mode quotidienne
 - Agrémentées de l’emblématique bande Puma et du logo sur les côtés et la languette, ces chaussures de ville unisexes affichent le style moderne tendance de la marque
 - Portés comme chaussures basses, chaussures de sport ou chaussures de ville décontractées, les sneakers de Puma conjuguent un style unique avec un confort inégalable
 - Équipées d’une semelle extérieure en caoutchouc, les baskets sont antidérapantes et agréables à porter Le laçage continu des tennis assure un maintien ferme du pied
 - La Puma Smash v2 unisexe revisite la légendaire Puma Smash Avec une silhouette inspirée de l’univers du tennis et une empeigne en daim, ce sneaker affiche un look sportif chic
+- Idéales pour l’entraînement, les tennis Puma allient qualité et allure branchée Très tendance, ces sneakers sont un incontournable pour la mode quotidienne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0783RG9VT/?tag=tolees0d-21)

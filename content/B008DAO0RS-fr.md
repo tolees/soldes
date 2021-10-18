@@ -28,8 +28,8 @@ Vous avez [Kesper Planches à Découper en Verre Multicolore pour les Plaques Ch
 
 ℹ️:
 
-- Grande résistance aux coupures
 - Dimension: 52 x 30 x 0.8 cm
 - Matériel: Verre
+- Grande résistance aux coupures
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008DAO0RS/?tag=tolees0d-21)

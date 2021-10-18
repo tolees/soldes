@@ -28,12 +28,12 @@ Vous avez [Oral-B Pure Clean Lot de 3 brossettes à charbon actif](https://www.a
 
 ℹ️:
 
-- Pour un nettoyage optimal, les dentistes recommandent de changer la brosse à dents tous les 3 mois
-- Conçu en Allemagne
 - Contenu de la livraison : 3 pièces (emballées individuellement pour des raisons dhygiène)
-- Produit de qualité de la marque Oral-B - Utilisé par les dentistes du monde entier
-- Aide à réduire la gingivite et élimine jusquà 100 % de plaque dentaire en plus quune brosse à dents manuelle
-- Technologie Pro : poils au charbon actif
+- Pour un nettoyage optimal, les dentistes recommandent de changer la brosse à dents tous les 3 mois
 - Compatible avec toutes les brosses à dents électriques Oral-B Braun sauf Pulsonic & iO
+- Conçu en Allemagne
+- Produit de qualité de la marque Oral-B - Utilisé par les dentistes du monde entier
+- Technologie Pro : poils au charbon actif
+- Aide à réduire la gingivite et élimine jusquà 100 % de plaque dentaire en plus quune brosse à dents manuelle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B097K5VX2K/?tag=tolees0d-21)
