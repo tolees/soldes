@@ -28,10 +28,10 @@ C'est en vente [Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en Rési
 
 ℹ️:
 
-- Chronomètre 1/100 s - 24 heures
 - Fonctionnement solaire
-- Fonction dheure universelle
-- Full Auto Illuminator
 - Mise à lheure automatique via réception de signaux de radio-pilotage (EU, USA, JPN, CHN)
+- Chronomètre 1/100 s - 24 heures
+- Full Auto Illuminator
+- Fonction dheure universelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GBKDXNV/?tag=tolees0d-21)
