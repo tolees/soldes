@@ -28,9 +28,9 @@ Vous avez [OSRAM Lot de 10 x LED LINE R7S | Tube Crayon LED culot R7s  8W = 75W 
 
 ℹ️:
 
-- Consommation dénergie 8 kWh/1000h à 1055 lm
 - Faible émission de chaleur (comparé aux produits standards de référence).
-- Longue durée de vie – jusquà 15000 heures et 100000 cycles de commutation. Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
+- Consommation dénergie 8 kWh/1000h à 1055 lm
 - Allumage instantané, pas de temps de préchauffage . Succède aux ampoules classiques, se substitue à une ampoule de 75 W (utilisation en extérieur uniquement avec des luminaires appropriés)
+- Longue durée de vie – jusquà 15000 heures et 100000 cycles de commutation. Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CBHMW2J/?tag=tolees0d-21)

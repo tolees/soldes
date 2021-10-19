@@ -28,8 +28,8 @@ Vous avez [Metronic Touchbox HD 3 441374 Tuner Oui  Mpeg4 HD ](https://www.amazo
 
 ℹ️:
 
-- TERMINAL Free To Air
-- Terminal SAT HD3
 - Noir
+- Terminal SAT HD3
+- TERMINAL Free To Air
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LZG6SYL/?tag=tolees0d-21)
