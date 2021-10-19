@@ -28,10 +28,10 @@ C'est en vente [Redken Shampoing Color Extend Brownlights Shampoing | Neutralisa
 
 ℹ️:
 
+- Le shampoing Color Extend Brownlight nettoie en douceur, corrige les reflets chauds indésirables et préserve la couleur froide des cheveux bruns grâce à des pigments bleus à dépôt progressif
 - Testés dermatologiquement
 - Convient aux cheveux bruns colorés, méchés et naturels
-- Ce shampoing est idéal pour un usage quotidien
 - Grâce à une approche basée sur la science, les produits sont élaborés pour apporter hydratation et protéines en respectant le pH du cheveu
-- Le shampoing Color Extend Brownlight nettoie en douceur, corrige les reflets chauds indésirables et préserve la couleur froide des cheveux bruns grâce à des pigments bleus à dépôt progressif
+- Ce shampoing est idéal pour un usage quotidien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08ZT9RLC7/?tag=tolees0d-21)
