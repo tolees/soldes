@@ -28,8 +28,8 @@ Vous avez [Panasonic Professional Chargeur pour ER-GP80 Type WERGP80K7664](https
 
 ℹ️:
 
-- Type WERGP80K7664
 - Accessoires pour Panasonic ER-GP80
+- Type WERGP80K7664
 - Chargeur de rechange pour la tondeuse à cheveux Panasonic ER-GP80
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00QREK2Y2/?tag=tolees0d-21)
