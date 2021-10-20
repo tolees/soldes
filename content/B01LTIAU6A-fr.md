@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.42 % rabais sur Cantu crème bouclante à la noix de coco '
-date: 2021-09-25 01:17:54
+date: 2021-10-20 05:33:31
 image: 'https://m.media-amazon.com/images/I/41crMq7X+SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Cantu crème bouclante à la noix de coco 340g](https://www.amazon.fr
 
 ℹ️:
 
-- Adoptez vos cheveux bouclés, frisés ou ondulés avec Cantu
 - Lemballage peut varier .
-- À base de beurre de karité pur, Cantu restaure votre beauté naturelle et originelle
-- Définit, hydrate et aide à renforcer les cheveux
 - Définit, conditionne et apporte de la souplesse pour des boucles douces et allongées
+- À base de beurre de karité pur, Cantu restaure votre beauté naturelle et originelle
+- Adoptez vos cheveux bouclés, frisés ou ondulés avec Cantu
+- Définit, hydrate et aide à renforcer les cheveux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LTIAU6A/?tag=tolees0d-21)
