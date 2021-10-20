@@ -28,10 +28,10 @@ C'est en vente [Bourjois Healty Mix Fond de Teint Sérum 53 Light Beige 30 ml](h
 
 ℹ️:
 
-- Adapté à tous les types de peau, y compris aux peaux mixtes
-- Un fond de teint gel à couvrance moyenne, créant un résultat naturel et éclatant pendant 16 heures
 - Gomme les imperfections de la peau et les signes de fatigue
 - Enrichi en extraits de litchi survitaminé, de grenade et de goji, qui ravivent instantanément votre teint.
 - La texture gel se fond instantanément sur votre peau, pour un fini naturel et unifié, sans sur-épaisseur
+- Un fond de teint gel à couvrance moyenne, créant un résultat naturel et éclatant pendant 16 heures
+- Adapté à tous les types de peau, y compris aux peaux mixtes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005IEH67I/?tag=tolees0d-21)

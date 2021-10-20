@@ -28,8 +28,8 @@ C'est en vente [Woox R5024 Connectée Mini WiFi Prises Intelligentes Smart Plug 
 
 ℹ️:
 
-- Commande vocale: la prise Woox Smart est compatible avec lalexa (Echo et Echo Dot) et Google Assistant, vous pouvez donc facilement contrôler les appareils par la voix. Woox vous rend la vie plus facile et plus intelligente.
 - Télécommande: contrôlez vos appareils électroménagers de nimporte où et nimporte quand avec Woox Home App sur votre tablette ou smartphone.
+- Commande vocale: la prise Woox Smart est compatible avec lalexa (Echo et Echo Dot) et Google Assistant, vous pouvez donc facilement contrôler les appareils par la voix. Woox vous rend la vie plus facile et plus intelligente.
 - Fonction de programmation et de minuterie: établissez un calendrier pour que votre appareil électroménager allume et éteignez automatiquement votre appareil électronique au besoin.
 - Facile à installer: vous navez besoin que de moins de cinq minutes pour le mettre en œuvre. Téléchargez lApp Woox Home, créez un compte et suivez les étapes simples pour louvrir et le faire fonctionner.
 - Service professionnel et garantie de 2 ans: si vous Rencontrez un problème avec un produit Woox, veuillez nous contacter. Notre service à la clientèle professionnel est disponible 24 heures sur 24. Nous offrons également une garantie de 2 ans sur la prise Woox Smart.

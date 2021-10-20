@@ -28,10 +28,10 @@ Vous avez [REVLON PROFESSIONAL Equave Soin Démêlant Instantané sans Rinçage 
 
 ℹ️:
 
-- Produit pour Unisexe
-- Démêle instantanément et facilite le coiffage
-- Apporte une sensation de légèreté, laisse les cheveux soyeux
-- Marque - Revlon
 - Volume - 200 ml
+- Marque - Revlon
+- Apporte une sensation de légèreté, laisse les cheveux soyeux
+- Démêle instantanément et facilite le coiffage
+- Produit pour Unisexe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01L2FIUO4/?tag=tolees0d-21)

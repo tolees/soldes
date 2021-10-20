@@ -28,10 +28,10 @@ Vous avez [Cantu crème bouclante à la noix de coco 340g](https://www.amazon.fr
 
 ℹ️:
 
-- Lemballage peut varier .
+- Définit, hydrate et aide à renforcer les cheveux
 - Définit, conditionne et apporte de la souplesse pour des boucles douces et allongées
 - À base de beurre de karité pur, Cantu restaure votre beauté naturelle et originelle
 - Adoptez vos cheveux bouclés, frisés ou ondulés avec Cantu
-- Définit, hydrate et aide à renforcer les cheveux
+- Lemballage peut varier .
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LTIAU6A/?tag=tolees0d-21)
