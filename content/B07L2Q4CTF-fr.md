@@ -29,9 +29,9 @@ Vous avez [Corsair Ironclaw RGB Optisch FPS/MOBA Gaming Maus  18.000DPI Optische
 ℹ️:
 
 - Sept boutons entièrement programmables: Personnalisez votre façon de jouer avec des macros puissantes ou des remappages de touches vous donner lavantage pendant le jeu
+- Le capteur gaming optique le plus avancé de CORSAIR: La résolution native de 18 000 DPI avec des paliers de résolution de 1 DPI vous permet de personnaliser entièrement la sensibilité et vous offre un déplacement de souris ultraprécis
+- Parfaitement adapté aux grandes mains et paumes: Avec un poids léger de 105 g et une forme profilée, elle est spécialement conçue pour épouser la forme de la paume et les grandes mains
 - Switchs Omron haute résistance: Prévus pour plus de 50 millions de clics.
 - Rétroéclairage RGB dynamique deux zones: Découvrez des dizaines de préréglages et deffets personnalisables pour harmoniser parfaitement l’aspect de votre configuration
-- Parfaitement adapté aux grandes mains et paumes: Avec un poids léger de 105 g et une forme profilée, elle est spécialement conçue pour épouser la forme de la paume et les grandes mains
-- Le capteur gaming optique le plus avancé de CORSAIR: La résolution native de 18 000 DPI avec des paliers de résolution de 1 DPI vous permet de personnaliser entièrement la sensibilité et vous offre un déplacement de souris ultraprécis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L2Q4CTF/?tag=tolees0d-21)
