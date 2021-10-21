@@ -28,10 +28,10 @@ Vous avez [SCHOTT NYC PLLANCE2 Pullover Sweater Homme  Gris  Anthracite   L](htt
 
 ℹ️:
 
-- Finitions col, taille et poignets en bord côte Logo brodé poitrine ton sur ton
-- Pull camionneur, col zippé
-- 70% lambswool/30% nylon
 - Entretien: lavage machine
+- Finitions col, taille et poignets en bord côte Logo brodé poitrine ton sur ton
 - Coupe : confort
+- 70% lambswool/30% nylon
+- Pull camionneur, col zippé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084ZH58LG/?tag=tolees0d-21)

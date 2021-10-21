@@ -29,9 +29,9 @@ C'est en vente [Schott nyc Idaho Jacket Homme  Noir  S](https://www.amazon.fr/dp
 ℹ️:
 
 - Coupe : standard
+- Doudoune unisexe
 - Entretien: nettoyage à sec
 - Capuche sous col Cordon de resserrage en bas de vêtement Logo brodé poitrine 2 poches latérales & 2 poches intérieures Finitions poignets en bord côte
-- Doudoune unisexe
 - 100% nylon ripstop, rembourrage polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084N4FHL9/?tag=tolees0d-21)
