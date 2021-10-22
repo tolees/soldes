@@ -28,10 +28,10 @@ Vous avez [Osram LED STAR Ampoule LED  Forme Classique  Culot E27  19W Equivalen
 
 ℹ️:
 
-- Allumage instantané, pas de temps de préchauffage
-- Consommation dénergie 19 kWh/1000h à 2451 lm. Fréquence de fonctionnement: 50-60 Hz
+- Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
 - Longue durée de vie – jusquà 15000 heures et 100000 cycles de commutation
 - Succède aux ampoules classiques, se substitue à une ampoule de 150 W (utilisation en extérieur uniquement avec des luminaires appropriés)
-- Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
+- Consommation dénergie 19 kWh/1000h à 2451 lm. Fréquence de fonctionnement: 50-60 Hz
+- Allumage instantané, pas de temps de préchauffage
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HD54OP6/?tag=tolees0d-21)
