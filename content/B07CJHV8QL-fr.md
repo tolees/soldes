@@ -28,7 +28,7 @@ Vous avez [Only NOS Onlbrilliant 3/4 Dress JRS Noos Robe  Noir  Black   38  Tail
 
 ℹ️:
 
-- Dress with 3/4 SLEEVES
 - Short dress with straight FIT
+- Dress with 3/4 SLEEVES
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CJHV8QL/?tag=tolees0d-21)
