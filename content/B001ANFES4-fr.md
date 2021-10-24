@@ -28,10 +28,10 @@ Vous avez [Guzzini  Ménagère 24 Pièces  15 8 x 7 5 x h25 5 cm](https://www.am
 
 ℹ️:
 
-- Lavable au lave-vaisselle à max. 55°C - Sécher immédiatement après le lavage avec un chiffon doux
 - Dimension: 15,8 x 7,5 x h25,5 cm
 - Ce set de couverts allie acier et plastique à la perfection. Lacier inox de qualité supérieur parcourt toute la longueur des couverts sur le manche desquels sont appliqués de précieux éléments en plastique bicolore. Ils sont conçus pour résister à des milliers de lavages au lave-vaisselle.
-- Collection: Feeling - Designer: Robin Levien
 - Official Guzzini Product - Made in Italy since 1912
+- Lavable au lave-vaisselle à max. 55°C - Sécher immédiatement après le lavage avec un chiffon doux
+- Collection: Feeling - Designer: Robin Levien
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001ANFES4/?tag=tolees0d-21)
