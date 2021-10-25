@@ -28,7 +28,7 @@ C'est en vente [Crocs Crocband Flip U Tongs  Mixte  Bleu  Navy   46/47 EU](https
 
 ℹ️:
 
-- À enfiler
 - Non Doublé
+- À enfiler
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002SNA89A/?tag=tolees0d-21)

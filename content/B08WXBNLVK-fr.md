@@ -28,10 +28,10 @@ Vous avez [LEGO 10956 Duplo Town Le Parc d’Attractions Jouet Enfant 2+ Ans ave
 
 ℹ️:
 
-- Conçu pour renforcer les capacités motrices, ce jeu de construction éducatif détaillé et coloré est le cadeau idéal pour un bambin
-- Avec 7 personnages DUPLO : 2 femmes, 1 homme et 4 enfants pour encourager la créativité, l’imagination et le développement des aptitudes sociales
-- Inclut un train Duplo à pousser et des accessoires comme des hot-dogs, une glace, un appareil photo, des gâteaux, un balai et un ours en peluche
 - Même une lumière arc-en-ciel aux couleurs changeantes (3 piles LR44 inclues) est incluse dans cette fête foraine LEGO !
+- Avec 7 personnages DUPLO : 2 femmes, 1 homme et 4 enfants pour encourager la créativité, l’imagination et le développement des aptitudes sociales
+- Conçu pour renforcer les capacités motrices, ce jeu de construction éducatif détaillé et coloré est le cadeau idéal pour un bambin
+- Inclut un train Duplo à pousser et des accessoires comme des hot-dogs, une glace, un appareil photo, des gâteaux, un balai et un ours en peluche
 - En plus d’un carrousel mécanique, ce jouet pour enfant de 2+ ans LEGO comprend 2 toboggans et une grande roue avec 3 cabines colorées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WXBNLVK/?tag=tolees0d-21)
