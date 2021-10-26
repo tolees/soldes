@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.44 % rabais sur Makita DCG180ZX'
-date: 2021-10-24 22:54:01
+date: 2021-10-26 00:46:52
 image: 'https://m.media-amazon.com/images/I/41KM8xjizuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [Makita DCG180ZX](https://www.amazon.fr/dp/B00MUUEPAE/?tag=tolees0d-21
 
 ℹ️:
 
-- Poids : 2,2 kg
 - Longeur : 411 mm
+- Poids : 2,2 kg
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MUUEPAE/?tag=tolees0d-21)
