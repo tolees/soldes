@@ -28,10 +28,10 @@ Vous avez [Le Petit Marseillais Douche Crème Hydratante à Rose Provence 250 ml
 
 ℹ️:
 
-- Son parfum délicat apporteront douceur et poésie à votre douche
-- Découvrez la douche crème hydratante à la rose cueillie à la main en provence
-- Chaque jour, il est essentiel de soffrir sa petite touche de bonne humeur
-- Sa mousse voluptueuse
 - Sans paraben
+- Son parfum délicat apporteront douceur et poésie à votre douche
+- Sa mousse voluptueuse
+- Chaque jour, il est essentiel de soffrir sa petite touche de bonne humeur
+- Découvrez la douche crème hydratante à la rose cueillie à la main en provence
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01G8QV44A/?tag=tolees0d-21)

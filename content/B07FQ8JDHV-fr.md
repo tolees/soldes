@@ -28,9 +28,9 @@ Vous avez [Fanola Poudre Bleu 500 g](https://www.amazon.fr/dp/B07FQ8JDHV/?tag=to
 
 ℹ️:
 
-- Poudre décolorante, éclaircit jusquà 7 tons
-- Sa composition spécifique permet de réduire les phénomènes de réaction et sensibilité dus à la volatilité du produit
 - Adaptée à toutes les techniques de décoloration
+- Sa composition spécifique permet de réduire les phénomènes de réaction et sensibilité dus à la volatilité du produit
+- Poudre décolorante, éclaircit jusquà 7 tons
 - Poudre décolorante compacte bleue dust-free pour cheveux méchés et décolorés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FQ8JDHV/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [U&I Entertainment - Godfall Deluxe Edition  PS5 ](https://www.amazon.
 
 ℹ️:
 
-- Aperion est au bord de la ruine. Vous êtes le dernier des chevaliers Valorian, des guerriers divins et maîtres imparables du combat au corps à corps
 - Libérez la puissance de votre PlayStation 5 avec des temps de chargement presque nuls. Ressentez le choc des épées et le frisson de la bataille grâce à la manette PS5 DualSense
+- Aperion est au bord de la ruine. Vous êtes le dernier des chevaliers Valorian, des guerriers divins et maîtres imparables du combat au corps à corps
+- Maîtrisez les cinq classes darmes, chacune avec des styles de jeu uniques et une variété dépées longues, darmes polaires, de marteaux de guerre, de grandes épées et de doubles lames
 - Aventurez-vous à travers des panoramas exotiques, des récifs aériens du royaume de leau aux forêts souterraines pourpres du royaume de la Terre
 - Godfall Deluxe Edition (PS5)
-- Maîtrisez les cinq classes darmes, chacune avec des styles de jeu uniques et une variété dépées longues, darmes polaires, de marteaux de guerre, de grandes épées et de doubles lames
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JLM25C6/?tag=tolees0d-21)

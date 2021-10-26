@@ -28,10 +28,10 @@ Vous avez [CMT Orange Tools - CMT 271.165.24H Ultra fine lame D-165 B-20 Kerf 24
 
 ℹ️:
 
+- Kerf: 1,5 mm
+- Nombre de dents 24T
 - Alésage: 20 mm (15,87)
 - Diametre: 165 mm
-- Nombre de dents 24T
 - Broches): 1932/02/06
-- Kerf: 1,5 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JBJA1D2/?tag=tolees0d-21)

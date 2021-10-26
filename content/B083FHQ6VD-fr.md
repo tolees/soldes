@@ -28,10 +28,10 @@ Vous avez [Lacoste Ceinture  Homme  RC4002  Eclipse  90 cm](https://www.amazon.f
 
 ℹ️:
 
+- Largeur 35 mm
 - Réversible et ajustable
 - Extérieur cuir
 - Boucle ardillon gravée Lacoste
 - Crocodile métal à la pointe
-- Largeur 35 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083FHQ6VD/?tag=tolees0d-21)
