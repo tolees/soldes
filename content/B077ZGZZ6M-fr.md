@@ -28,10 +28,10 @@ Vous avez [Kärcher SP5 Dual pompe d évacuation 2 en 1 eau claire et eau charg�
 
 ℹ️:
 
-- Moteur de 500 W, débit de 9 500 L/h, 0.70 bar
 - profondeur d’immersion max 7 m
+- Moteur de 500 W, débit de 9 500 L/h, 0.70 bar
 - Hauteur de refoulement max 7 m
-- Taille des particules max 20 mm
 - Hauteur de liquide résiduel 25 mm.
+- Taille des particules max 20 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077ZGZZ6M/?tag=tolees0d-21)

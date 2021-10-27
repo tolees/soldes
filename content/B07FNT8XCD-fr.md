@@ -29,9 +29,9 @@ Vous avez [LEGO Friends - Le spectacle d Andréa - 41368 - Jeu de construction](
 ℹ️:
 
 - 492 pièces pour les filles et les garçons à partir de 7 ans.
-- Inclut 2 mini-poupées : Andrea et Chloé LEGO Friends, plus une figurine de lapin.
-- Mesure plus de 21 cm de haut, 25 cm de large et 14 cm de profondeur.
 - Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Construisez lensemble de spectacle dAndréa, préparez-la dans sa loge, puis sur la scène, aidez-la à chanter, à jouer de la batterie ou faire de la magie.
+- Inclut 2 mini-poupées : Andrea et Chloé LEGO Friends, plus une figurine de lapin.
+- Mesure plus de 21 cm de haut, 25 cm de large et 14 cm de profondeur.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNT8XCD/?tag=tolees0d-21)
