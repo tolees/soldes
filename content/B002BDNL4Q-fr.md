@@ -28,10 +28,10 @@ Vous avez [Jokari T20050 Pince a dénuder automatique](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Fils monoconducteurs
-- Concue pour les fils pleins et toronnés
 - Coupe-fils intégré
 - Capacité: 0.2 - 6.0mm2
 - Règlage automatique à la dimension du fil pour le confort de lutilisation
+- Fils monoconducteurs
+- Concue pour les fils pleins et toronnés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002BDNL4Q/?tag=tolees0d-21)

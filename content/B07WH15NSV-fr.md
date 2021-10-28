@@ -28,11 +28,11 @@ C'est en vente [Einhell Agrafeuse pneumatique TC-PN 50  appareil 2-en-1 combinan
 
 ℹ️:
 
+- L’agrafeuse pneumatique Einhell tc-pn 50 est un outil polyvalent pour une utilisation dans l’atelier, dans la maison et au garage. Cet appareil 2-en-1 combinant une agrafeuse et un cloueuse pneumatique est idéal pour les travaux de réfection et de rénovation.
+- Sont vendus avec l’appareil 500 agrafes de chaque longueur 16/25/40 mm, 1 000 clous de chaque longueur 25/40 mm, 1 burette dhuile, 1 Raccord et 2 clés 6 pans creux. Loutil est vendu dans son coffret de transport et de rangement pratique.
+- L’agrafeuse utilise des agrafes d’une largeur de 5, 7 mm, pour une longueur comprise entre 13 mm au minimum et 40 mm au maximum. La longueur des clous d’épaisseur 1 mm peut varier entre 10 mm et 50 mm.
+- La poignée antidérapante permet de travailler confortablement et en toute sécurité. L’agrafeuse offre une performance optimale à partir d’un diamètre Intérieur de tuyau de 9 mm.
 - Indicateur du niveau de la réserve montre le nombre agrafes/de clous restants. Une fonction ajustement de profondeur permet un réglage précis de la profondeur d’enfoncement pour des travaux parfaits.
 - La pression de service maximale est de 8, 3 bars. Le nez de sécurité prévient tout démarrage intempestif de l’appareil.
-- L’agrafeuse utilise des agrafes d’une largeur de 5, 7 mm, pour une longueur comprise entre 13 mm au minimum et 40 mm au maximum. La longueur des clous d’épaisseur 1 mm peut varier entre 10 mm et 50 mm.
-- L’agrafeuse pneumatique Einhell tc-pn 50 est un outil polyvalent pour une utilisation dans l’atelier, dans la maison et au garage. Cet appareil 2-en-1 combinant une agrafeuse et un cloueuse pneumatique est idéal pour les travaux de réfection et de rénovation.
-- La poignée antidérapante permet de travailler confortablement et en toute sécurité. L’agrafeuse offre une performance optimale à partir d’un diamètre Intérieur de tuyau de 9 mm.
-- Sont vendus avec l’appareil 500 agrafes de chaque longueur 16/25/40 mm, 1 000 clous de chaque longueur 25/40 mm, 1 burette dhuile, 1 Raccord et 2 clés 6 pans creux. Loutil est vendu dans son coffret de transport et de rangement pratique.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WH15NSV/?tag=tolees0d-21)
