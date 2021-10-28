@@ -28,8 +28,8 @@ C'est en vente [Monster Hunter Stories 2 : Wings of Ruin  Nintendo Switch ](http
 
 ℹ️:
 
-- Une nouvelle aventure vous attend dans le monde de Monster Hunter !
 - Incarnez un Rider et tissez des liens avec daffectueux monstres Monsties
+- Une nouvelle aventure vous attend dans le monde de Monster Hunter !
 - Votre personnage est le descendant dun Rider de renom, Red.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B091LN3MCP/?tag=tolees0d-21)
