@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman Mini 60% Optical Gaming K avec 38.46 % rabais '
-date: 2021-10-22 21:27:45
+date: 2021-10-31 20:03:36
 image: 'https://m.media-amazon.com/images/I/41mxFQlw9ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
