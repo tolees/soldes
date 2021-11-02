@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.98 % rabais sur LEGO 43111 VIDIYO Candy Castle Stage Bea'
-date: 2021-10-31 07:25:38
+date: 2021-11-02 15:19:04
 image: 'https://m.media-amazon.com/images/I/51Pyeq4ht+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08WWR754G/?tag=tolees0d-21'
 descuento: '49.98'
-average: '14.0394117647059'
+average: '14.1405263157895'
 ---
 
 Vous avez [LEGO 43111 VIDIYO Candy Castle Stage Beatbox Music Video Maker  Jouet Musical et Application de Réalité Augmentée pour Enfants](https://www.amazon.fr/dp/B08WWR754G/?tag=tolees0d-21)  à  49.98 % de réduction, prix final  15.0 EUR (original: 29.99 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [LEGO 43111 VIDIYO Candy Castle Stage Beatbox Music Video Maker  Jouet
 
 ℹ️:
 
-- Inclut 2 figurines avec accessoires, 14 BeatBits aléatoires et 2 BeatBits spéciaux qui donnent vie au modèle et aux figurines dans l’application
-- Inspirez les enfants avec le set LEGO VIDIYO music video maker Candy Castle Stage, qui leur permet de faire leurs propres shows dans une application de réalité augmentée
-- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
-- Scannez les BeatBits dans l’application pour débloquer des effets spéciaux, tels que celui qui fait apparaître des chevaux de carrousel dans les clips de musique
 - Vérifiez la compatibilité de votre appareil en téléchargeant l’application gratuite et en enregistrant votre premier clip vidéo avec les personnages numériques Bandmate
-- La BeatBox se ferme et permet d’emporter ce « jouet musical pour enfants » de partout, avec de l’espace à l’intérieur pour ranger la scène à scanner en briques
+- Scannez les BeatBits dans l’application pour débloquer des effets spéciaux, tels que celui qui fait apparaître des chevaux de carrousel dans les clips de musique
 - Les enfants vont adorer faire des changements dans leurs clips, comme créer une forêt de crème glacée numérique ou un canyon en chocolat
+- Inspirez les enfants avec le set LEGO VIDIYO music video maker Candy Castle Stage, qui leur permet de faire leurs propres shows dans une application de réalité augmentée
+- La BeatBox se ferme et permet d’emporter ce « jouet musical pour enfants » de partout, avec de l’espace à l’intérieur pour ranger la scène à scanner en briques
+- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
+- Inclut 2 figurines avec accessoires, 14 BeatBits aléatoires et 2 BeatBits spéciaux qui donnent vie au modèle et aux figurines dans l’application
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WWR754G/?tag=tolees0d-21)
