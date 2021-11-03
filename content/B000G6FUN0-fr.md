@@ -28,10 +28,10 @@ Vous avez [Karcher Ensemble de casseroles Jasmin  Acier Inoxydable  20 pièces  
 
 ℹ️:
 
-- Propriétés : convient à tous les types de cuisinières (y compris les plaques à induction), lavable au lave-vaisselle, résistant à la chaleur jusqu’à 240 °C, fond à capsule avec protection thermique
-- Composition : 1 casserole à manche avec couvercle en verre (14 cm) ; 4 faitouts avec couvercles en verre (16 cm, 18 cm, 20 cm, 22 cm) ; 1 braisière avec couvercle en verre (22 cm) ; 4 saladiers avec couvercles (20 cm, 18 cm, 15 cm, 13 cm)
-- Contenu de la livraison : Batterie de cuisine Jasmin en inox de Karcher, mode d’emploi
 - Matériau : en inox de haute qualité (indéformable, insipide, facile à nettoyer)
+- Contenu de la livraison : Batterie de cuisine Jasmin en inox de Karcher, mode d’emploi
+- Composition : 1 casserole à manche avec couvercle en verre (14 cm) ; 4 faitouts avec couvercles en verre (16 cm, 18 cm, 20 cm, 22 cm) ; 1 braisière avec couvercle en verre (22 cm) ; 4 saladiers avec couvercles (20 cm, 18 cm, 15 cm, 13 cm)
+- Propriétés : convient à tous les types de cuisinières (y compris les plaques à induction), lavable au lave-vaisselle, résistant à la chaleur jusqu’à 240 °C, fond à capsule avec protection thermique
 - Type : Batterie de cuisine à 20 pièces en inox. La batterie pratique et complète pour votre cuisine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000G6FUN0/?tag=tolees0d-21)
