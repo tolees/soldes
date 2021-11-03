@@ -28,10 +28,10 @@ Vous avez [Philips Lighting - Philips 8718696175767 Spot  Aluminium  10 W  Blanc
 
 ℹ️:
 
-- Contrôle facile et sans fil grâce à l’interrupteur avec variateur
-- Le bon éclairage pour chaque moment de la journée Énergie Concentration Lecture Détente Contrôle facile et sans fil grâce à l’interrupteur avec variateur
-- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
-- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires
 - IP44, parfaitement adapté à votre salle de bains
+- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
+- Le bon éclairage pour chaque moment de la journée Énergie Concentration Lecture Détente Contrôle facile et sans fil grâce à l’interrupteur avec variateur
+- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires
+- Contrôle facile et sans fil grâce à l’interrupteur avec variateur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088RZS6RP/?tag=tolees0d-21)
