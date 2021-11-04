@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabais sur Warner Bros Games - Lego City: Undercove'
-date: 2021-11-01 19:33:32
+date: 2021-11-04 17:36:01
 image: 'https://m.media-amazon.com/images/I/51ODknVAgcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Warner Bros Games'
 buyurl: 'https://www.amazon.fr/dp/B06X91CF2Q/?tag=tolees0d-21'
 descuento: '50.01'
-average: '28.7605882352941'
+average: '28.8288888888889'
 ---
 
 Vous avez [Warner Bros Games - Lego City: Undercover](https://www.amazon.fr/dp/B06X91CF2Q/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  29.99 EUR (original: 59.99 EUR) ici:
