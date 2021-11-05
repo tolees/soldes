@@ -30,8 +30,8 @@ C'est en vente [PROPEL - Drone Quadricoptère de combat Tie Advanced X1 Star War
 
 - BATTERIE RECHARGEABLE: La batterie de vol du Drone Tie Advanced X1 vous permet de voler votre drone pendant 8 minutes grâce aux batteries lithium-ion.
 - À PROPOS DE PROPEL: Une entreprise fondée aux États-Unis, Propel fabrique des produits de haute qualité dans la catégorie des appareils de vol et de radiocommande depuis 2006.
-- COLLECTOR ÉDITION SPÉCIALE: En commandant le drone de combat Tie Advanced X1, vous recevrez un coffret de présentation collector édition spéciale numérotée.
 - 3-RÉGLAGES DE VITESSE: Choisissez parmi trois réglages de vitesse adaptés à vos compétences de pilote débutant à avancé. Atteignez une vitesse en vol de 56 km/h avec ce drone.
 - LAPP GRATUITE: Téléchargez lapp de Propel sur votre iPhone ou iPad pour apprendre à voler en toute sécurité et combattre vos ennemis avec votre quadricoptère Tie Advanced X1.
+- COLLECTOR ÉDITION SPÉCIALE: En commandant le drone de combat Tie Advanced X1, vous recevrez un coffret de présentation collector édition spéciale numérotée.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N07MNPD/?tag=tolees0d-21)

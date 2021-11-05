@@ -28,8 +28,8 @@ C'est en vente [Goodies - Harry Potter Baguette Magique Boîte Ollivander Voldem
 
 ℹ️:
 
+- Accessoires
 - Ps4 switch xbox one
 - Goodies
-- Accessoires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D82JDM3/?tag=tolees0d-21)

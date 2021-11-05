@@ -28,10 +28,10 @@ C'est en vente [Idea Factory International - Neptunia x Senran Kagura Ninja Wars
 
 ℹ️:
 
-- Les deux nations en guerre des séries Neptunia et SENRAN KAGURA ont maintenant uni leurs forces dans un RPG bourré daction !
-- Choisissez deux personnages parmi 10 possibles, dont les nouveaux Yuuki et Goh, et lancez vous dans laventure. Basculez rapidement entre les deux pendant les combats !
-- Chaque personnage possède un ensemble unique de compétences, connues sous le nom de Ninja Art, enchaînez les pour laisser vos ennemis dans la poussière
 - Testez votre équilibre avec la manette de mouvement PS4 dans le mini-jeu Peaches & Cream Meditationou ou votre puissance avec le contenu daprès-match, Yomi-Training !
+- Chaque personnage possède un ensemble unique de compétences, connues sous le nom de Ninja Art, enchaînez les pour laisser vos ennemis dans la poussière
 - Restez stylé avec Spirit Gems, collectez les pour améliorer vos statistiques ! La légende dit que les organiser dans certaines combinaisons peut ajouter des améliorations encore plus importantes
+- Choisissez deux personnages parmi 10 possibles, dont les nouveaux Yuuki et Goh, et lancez vous dans laventure. Basculez rapidement entre les deux pendant les combats !
+- Les deux nations en guerre des séries Neptunia et SENRAN KAGURA ont maintenant uni leurs forces dans un RPG bourré daction !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B09C9CFTCQ/?tag=tolees0d-21)

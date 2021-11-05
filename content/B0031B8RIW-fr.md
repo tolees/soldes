@@ -28,18 +28,18 @@ Vous avez [Bosch 2608595049 Foret à métaux HSS-G standard DIN 338 Ø 5 mm  10 
 
 ℹ️:
 
-- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
+- Le foret de précision HSS-G offre des résultats rapides
+- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
 - Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
 - Le foret de précision HSS-G offre des résultats rapides
-- Conviennent pour les aciers alliés et non alliés d’une résistance à la traction maximale de 900 N/mm228
+- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
+- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
 - Contenu: 10 Pièces
-- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
 - Conviennent pour les aciers alliés et non alliés d’une résistance à la traction maximale de 900 N/mm228
+- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
+- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
 - Le foret de précision HSS-G offre des résultats rapides
 - Contenu: 10 Pièces
-- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
-- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
-- Le foret de précision HSS-G offre des résultats rapides
-- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
+- Conviennent pour les aciers alliés et non alliés d’une résistance à la traction maximale de 900 N/mm228
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0031B8RIW/?tag=tolees0d-21)
