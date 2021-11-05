@@ -1,34 +1,36 @@
 ---
 layout: post
-title: '49.14 % rabais sur Salomon Alphacross 3 GTX Chaussures Impe'
-date: 2021-10-09 08:07:24
-image: 'https://m.media-amazon.com/images/I/31Ia2pk4lnL._SL500_._SL400_.jpg'
+title: '53.29 % rabais sur Salomon Alphacross 3 GTX Chaussures Impe'
+date: 2021-11-05 01:16:44
+image: 'https://m.media-amazon.com/images/I/41yQ9InOfaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08P26YC2L-fr Salomon Alphacross 3 GTX Chaussures Imperméables Trail...'
 sku: 'B08P26YC2L-fr'
 tags: [ 'Baskets et chaussures de sport femme','Chaussures','Chaussures de running femme','Chaussures de sport femme','Chaussures de trail femme','Chaussures et Sacs','Chaussures femme','salomon', ]
-actualPrice: 55.95 EUR
+actualPrice: 51.38 EUR
 currency: EUR
-price: 55.95
+price: 51.38
 comparePrice: 110.0 EUR
 prodname: 'Salomon Alphacross 3 GTX Chaussures Imperméables Trail Femme - Marron  Sirocco/Rainy Day/Mocha Mousse  - 37 1/3 EU'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21'
-descuento: '49.14'
-average: '55.95'
+descuento: '53.29'
+average: '53.665'
 ---
 
-Vous avez [Salomon Alphacross 3 GTX Chaussures Imperméables Trail Femme - Marron  Sirocco/Rainy Day/Mocha Mousse  - 37 1/3 EU](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)  à  49.14 % de réduction, prix final  55.95 EUR (original: 110.0 EUR) ici:
+Vous avez [Salomon Alphacross 3 GTX Chaussures Imperméables Trail Femme - Marron  Sirocco/Rainy Day/Mocha Mousse  - 37 1/3 EU](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)  à  53.29 % de réduction, prix final  51.38 EUR (original: 110.0 EUR) ici:
 
-[![Salomon Alphacross 3 GTX Chaussures Impe](https://m.media-amazon.com/images/I/31Ia2pk4lnL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)
+[![Salomon Alphacross 3 GTX Chaussures Impe](https://m.media-amazon.com/images/I/41yQ9InOfaL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)
 
 ℹ️:
 
-- Article number: 414476
-- ALPHACROSS 3 GTX W Sirocco/Rainy Day/Mocha Mousse
+- Dessus: Synthétique
+- Type de talons: Plateforme
+- Matériau de semelle: Caoutchouc
+- Doublure: Synthetic
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08P26YC2L/?tag=tolees0d-21)
