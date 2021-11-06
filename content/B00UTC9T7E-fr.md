@@ -28,9 +28,9 @@ C'est en vente [SONGMICS Chaise fauteuil de bureau hauteur réglable PU OBG24B](
 
 ℹ️:
 
+- Hauteur totale: 114-124 cm, Hauteur du dossier: 76 cm, Diamètre de la base: 70 cm, Assise: largeur 55 cm - profondeur 50 cm, Hauteur de laccoudoir au sol: 68-78 cm
 - Design ingénieux - Mécanisme d’inclinaison réglable, hauteur réglable de 114 cm à 124 cm, vis anti-desserrage
 - Pièces de rechange - Les vis et les roulettes supplémentaires sont fournies pour rechanger. Toutes les vis sont bien emballées et numérotées, La charge statique maximale est de 150 kg
-- Hauteur totale: 114-124 cm, Hauteur du dossier: 76 cm, Diamètre de la base: 70 cm, Assise: largeur 55 cm - profondeur 50 cm, Hauteur de laccoudoir au sol: 68-78 cm
 - Stabilité et sécurité - Ce modèle de fauteuil de bureau a été testé par SGS selon la norme EN12520, le numéro de rapport est AJHL 1706002799FT; la stabilité du piètement étoile a une excellente stabilité, la charge maximale du produit est de 150 kg
 - Matériels de haute qualité - Housse en PU, confortable, nettoyage facile ; Rembourrage en éponge de haute densité, bonne élasticité ; Roulette en PU, faire moins de bruits
 
