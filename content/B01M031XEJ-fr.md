@@ -28,9 +28,9 @@ C'est en vente [Nintendo - Amiibo "The Legend of Zelda : The Wind Waker" - Link 
 
 ℹ️:
 
-- Made for Play! Discover New Characters, Explore New Game Modes, and So Much More!
 - Compatible with the upcoming title The Legend of Zelda: Breath of the Wild
-- You can use amiibo on your Wii U by tapping them to the NFC touchpoint on the Wii U GamePad.You can also use amiibo on your New Nintendo 3DS and New Nintendo 3DS XL by tapping them to the NFC area on the bottom screen. Alternatively, using the NFC Reader/Writer Accessory you can use amiibo on your Nintendo 2DS, Nintendo 3DS and Nintendo 3DS XL
 - This amiibo figure shows Link in his toon-shaded incarnation from The Legend of Zelda: The Wind Waker game. Link holds the Wind Waker itself, a wand that allowed him to control the winds
+- You can use amiibo on your Wii U by tapping them to the NFC touchpoint on the Wii U GamePad.You can also use amiibo on your New Nintendo 3DS and New Nintendo 3DS XL by tapping them to the NFC area on the bottom screen. Alternatively, using the NFC Reader/Writer Accessory you can use amiibo on your Nintendo 2DS, Nintendo 3DS and Nintendo 3DS XL
+- Made for Play! Discover New Characters, Explore New Game Modes, and So Much More!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M031XEJ/?tag=tolees0d-21)
