@@ -28,9 +28,9 @@ Vous avez [Patagonia M Down Sweater À Capuche Blouson Homme  Blk  FR : L  Taill
 
 ℹ️:
 
-- Tops isolation
-- M Down sweater à capuche
 - Sportif et des vêtements résistants
 - Patagonie
+- Tops isolation
+- M Down sweater à capuche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GOAOLQY/?tag=tolees0d-21)
