@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.03 % rabais sur Hazet Clé à Chocs Extra-Courte 9012M ∙ C'
-date: 2021-10-10 14:49:15
+date: 2021-11-07 00:00:46
 image: 'https://m.media-amazon.com/images/I/41VCHJhM9BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [Hazet Clé à Chocs Extra-Courte 9012M ∙ Couple de desserrage Maxim
 
 ℹ️:
 
-- Couple de desserrage maximal : 1100 Nm
 - Échappement dair par le bas de la poignée Vibrations réduites Maniement simple
 - Couple de desserrage maximal : 1100 Nm.
+- Couple de desserrage maximal : 1100 Nm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J04N8PG/?tag=tolees0d-21)
