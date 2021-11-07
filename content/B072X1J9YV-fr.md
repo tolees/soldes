@@ -28,10 +28,10 @@ C'est en vente [Columbia Pike Lake  Veste Homme  Noir  Black   XL](https://www.a
 
 ℹ️:
 
-- Veste dhiver pour homme, Idéal pour les balades en ville ou pour découvrir de nouveaux parcours de randonnée
 - Tissu résistant à leau qui vous protège des légères averses et du brouillard
-- Doublure thermo-réfléchissante pour réguler la température corporelle et éviter la surchauffe
 - Contenu : 1 x Columbia Pike Lake veste homme, Extérieur : Storm-Lite Dp II 100% Polyester, Doublure : Omni-Heat Réfléchissant Microtex Light 100% polyester, Isolation : Thermarator 100% polyester, Couleur : Black, Taille : XL, Art, No : 1738022
 - Les poches zippées vous offrent plus de polyvalence, Gardez vos mains au chaud quand vous en avez besoin ou rangez votre téléphone et autres accessoires sans craindre de les faire tomber
+- Veste dhiver pour homme, Idéal pour les balades en ville ou pour découvrir de nouveaux parcours de randonnée
+- Doublure thermo-réfléchissante pour réguler la température corporelle et éviter la surchauffe
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072X1J9YV/?tag=tolees0d-21)
