@@ -28,8 +28,8 @@ Vous avez [Burt s Bees Crème pour les mains à l huile d amande et au lait - Le
 
 ℹ️:
 
-- Texture : Riche et épaisse, elle est absorbée en quelques minutes.
-- Cette crème ultra riche, réconforte les mains surmenées.
 - Ingrédients naturels : L’huile d’Amande douce, l’Aloe Vera et la vitamine E : aident à conserver des mains douces et lisses. Amande douce : Parfum.
+- Cette crème ultra riche, réconforte les mains surmenées.
+- Texture : Riche et épaisse, elle est absorbée en quelques minutes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002PK0ROM/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [Philips Sonicare HX6034/33 Pack Têtes de brosse For Kids 3+  X4
 ℹ️:
 
 - Conçues pour optimiser le mouvement sonique
-- A remplacer tous les 3 mois pour une hygiène optimale
 - Spécialement conçues pour les enfants (3+)
 - Clipsables et compatibles à tous manches de brosses à dents Philips Sonicare
 - Compatibles avec les manches for Kids
+- A remplacer tous les 3 mois pour une hygiène optimale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00I97OW5U/?tag=tolees0d-21)

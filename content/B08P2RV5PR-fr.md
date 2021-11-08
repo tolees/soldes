@@ -28,9 +28,9 @@ C'est en vente [Nerf B-AR Pistolet Fortnite Converge Wrap  motorisées  Clips  1
 
 ℹ️:
 
+- Réplique du blaster de la Fortnite : ce blaster Nerf Fortnite B-AR est inspiré de léquipement utilisé dans Fortnite et est livré dans le Converge Wrap du célèbre jeu vidéo
 - Clip de 10 fléchettes et 10 fléchettes Nerf : comprend un clip amovible de 10 fléchettes et 10 fléchettes en mousse officielles Nerf Elite qui sont fabriquées en mousse, de sorte quelles sont parfaites pour jouer en intérieur et en extérieur
 - 10 fléchettes motorisées : alimentez le moteur et explosez 10 fléchettes dans une rangée. Maintenez le bouton daccélération enfoncé et appuyez sur la gâchette pour allumer (nécessite 4 piles alcalines 1,5 V C, non fournies)
 - Emballage durable : expédié dans un emballage simple et recyclable, facile à ouvrir et sans frustration
-- Réplique du blaster de la Fortnite : ce blaster Nerf Fortnite B-AR est inspiré de léquipement utilisé dans Fortnite et est livré dans le Converge Wrap du célèbre jeu vidéo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P2RV5PR/?tag=tolees0d-21)

@@ -30,8 +30,8 @@ Vous avez [ZWILLING Set de 3 Couteaux  3 pièces: Couteau à Larder/Garnir  Cout
 
 - Set de 3 couteaux pour les cuisiniers professionnels et amateurs : Couteau à larder/garnir (Lame : 10 cm) pour la préparation des fruits et légumes, Couteau à viande (16 cm) pour les pièces de viande plus larges, Couteau de chef multifonction (20 cm)
 - Finition de haute qualité : Lame FRIODUR plus aiguisée, flexible et stable grâce à son durcissement à froid, Acier estampé de haute qualité, Rivets plats apparents de haute qualité sur manche solide
-- Fabriqué en Allemagne - Acier spécial inoxydable estampé, Manche robuste avec design trois rivets, Durable, Résistant à la corrosion, Nettoyage à la main recommandé
 - Contenu : 1 x Set de 3 couteaux ZWILLING, Twin Pollux, 1x couteau à larder/garnir (10 cm/46 g), 1x couteau à viande (16 cm/79 g), 1x couteau de chef multifonction (20,1 cm/196 g); Matériaux : acier spécial/manche plastique, 30763-000-0
 - Manipulation sûre et agréable : Manche ergonomique et antidérapant, Répartition équilibrée du poids de la lame et du manche pour une coupe sans difficulté, Mitre avec protège-doigts intégré
+- Fabriqué en Allemagne - Acier spécial inoxydable estampé, Manche robuste avec design trois rivets, Durable, Résistant à la corrosion, Nettoyage à la main recommandé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0000E0ZLP/?tag=tolees0d-21)

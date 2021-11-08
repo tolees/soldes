@@ -28,8 +28,8 @@ Vous avez [Velamp Batterie au Plomb 12 V 7 AH 2 02 kg](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Type: 12V 7Ah. Tension: 12V. Connecteurs Faston
-- Correctement recyclées, les batteries au plomb-acide ne polluent pas
 - Batterie étanche au plomb, rechargeable, 12V 7Ah
+- Correctement recyclées, les batteries au plomb-acide ne polluent pas
+- Type: 12V 7Ah. Tension: 12V. Connecteurs Faston
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PVJJOSY/?tag=tolees0d-21)

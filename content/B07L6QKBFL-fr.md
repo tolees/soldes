@@ -28,10 +28,10 @@ Vous avez [Fortnite- Battle Bus Display Set  63512  Multicolore](https://www.ama
 
 ℹ️:
 
-- Jouet Fortnite authentique fabriqué avec du vinyle de qualité
 - Mettez en scène un combat ou exposez vos figurines battle royale
 - Bus de combat Fortnite de 33 cm
-- Des détails et un style authentiques
 - On ne sait jamais qui sera le prochain à tomber !
+- Des détails et un style authentiques
+- Jouet Fortnite authentique fabriqué avec du vinyle de qualité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L6QKBFL/?tag=tolees0d-21)
