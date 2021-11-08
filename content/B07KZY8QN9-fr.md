@@ -28,10 +28,10 @@ C'est en vente [Warner Bros. Interactive Entertainment - Mortal Kombat 11: Premi
 
 ℹ️:
 
-- Mortal Kombat est de retour dans un nouvel épisode de la série emblématique, plus explosif que jamais !
-- Mortal Kombat est de retour dans un nouvel épisode de la série emblématique, plus explosif que jamais ! Découvrez les toutes nouvelles variantes de personnages qui vous permettront de modifier vos Kombattants comme jamais auparavant, afin quils soient en
 - Vivez une expérience époustouflante et criante de réalisme grâce au nouveau moteur graphique qui vous plonge au cœur du kombat !
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Mortal Kombat est de retour dans un nouvel épisode de la série emblématique, plus explosif que jamais ! Découvrez les toutes nouvelles variantes de personnages qui vous permettront de modifier vos Kombattants comme jamais auparavant, afin quils soient en
 - 406 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Mortal Kombat est de retour dans un nouvel épisode de la série emblématique, plus explosif que jamais !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KZY8QN9/?tag=tolees0d-21)
