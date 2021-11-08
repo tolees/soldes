@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blink Home Security - Blink Outdoor  Cam avec 45.00 % rabais '
-date: 2021-11-03 16:14:05
+date: 2021-11-08 13:55:02
 image: 'https://m.media-amazon.com/images/I/31aHLW-D7JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Blink Home Security'
 buyurl: 'https://www.amazon.fr/dp/B086DKVS1P/?tag=tolees0d-21'
 descuento: '45.00'
-average: '88.6011111111112'
+average: '86.832105263158'
 ---
 
 C'est en vente [Blink Home Security - Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Kit 1 caméra](https://www.amazon.fr/dp/B086DKVS1P/?tag=tolees0d-21)  à  45.00 % de réduction, prix final  54.99 EUR (original: 99.99 EUR) ici:
@@ -28,13 +28,13 @@ C'est en vente [Blink Home Security - Blink Outdoor  Caméra de surveillance HD 
 
 ℹ️:
 
-- Fonctionne avec Alexa : utilisez votre voix pour surveiller votre domicile via des appareils avec Alexa intégré compatibles.
+- Configuration facile en quelques minutes. Aucun raccordement ni aucune installation professionnelle requis.
 - Blink Outdoor est une caméra de surveillance HD sans fil alimentée par piles, qui vous permet de surveiller votre domicile jour et nuit grâce à la vision nocturne infrarouge.
+- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
+- Fonctionne avec Alexa : utilisez votre voix pour surveiller votre domicile via des appareils avec Alexa intégré compatibles.
+- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
 - Obtenez des notifications de mouvements sur votre téléphone grâce à loption vous permettant de personnaliser des zones de détection de mouvements dans lapplication Blink Home Monitor. Recevez une notification uniquement lorsquil le faut.
 - Stockez des clips vidéo dans le Cloud avec labonnement Blink et sauvegardez-les localement sur votre Blink Sync Module 2 (inclus) via une clé USB (vendue séparément). Aucuns frais mensuels ne sappliquent lors de lutilisation de la fonctionnalité Stockage vidéo local.
-- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
 - Voyez et entendez vos visiteurs, et parlez-leur en temps réel sur votre application Blink Home Monitor grâce à la fonctionnalité Vidéo en direct et à laudio bidirectionnel (la fonctionnalité Vidéo en direct nest pas activée en continu).
-- Configuration facile en quelques minutes. Aucun raccordement ni aucune installation professionnelle requis.
-- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086DKVS1P/?tag=tolees0d-21)
