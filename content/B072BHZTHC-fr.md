@@ -28,11 +28,11 @@ Vous avez [Stanley FMST1–80107 Tour Tstak/PRO-STACK Gamme FatMax - Modulable -
 
 ℹ️:
 
+- TSTAK chariot – Charge maximale 100 kg - Dimensions : 550 x 460 x 810 mm
 - La gamme TSTAK fait peau neuve et devient PROSTAK. Ces 2 gammes sont compatibles entre elles.
 - Un des éléments du système de stockage modulaire PRO-STACK qui semboîte. Construisez une solution de stockage polyvalente et pratique, adaptée à vos besoins et à votre métier, avec de multiples modules et options de transport. La Tour STANLEY FATMAX PRO-STACK est idéale pour le rangement intelligent de tous vos outils aussi bien léléctroportatif, que les niveaux, tournevis, fixations, chevilles ou encore quincaillerie.
-- Choix de coffre de transport pour outils électriques ou portable équipé de tiroirs pour rangement de petites pièces telles que les forets, embouts en toute sécurité ou vis - Des loquets latéraux durables permettent de connecter les modules PRO-STACK
 - FMST1-71970 Organiseur 7 compartiments + FMST1-71968 Mallette grand tiroir 6 casiers + FMST1-71966 Mallette 13,5L + FMST1-71971 Mallette grand volume 23L + FMST1-71972 Module à roulette
-- TSTAK chariot – Charge maximale 100 kg - Dimensions : 550 x 460 x 810 mm
 - Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
+- Choix de coffre de transport pour outils électriques ou portable équipé de tiroirs pour rangement de petites pièces telles que les forets, embouts en toute sécurité ou vis - Des loquets latéraux durables permettent de connecter les modules PRO-STACK
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072BHZTHC/?tag=tolees0d-21)

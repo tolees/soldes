@@ -28,10 +28,10 @@ C'est en vente [Philips Lighting - Philips ampoule LED Standard E27 100W Blanc C
 
 ℹ️:
 
-- Ampoule LED longue durée de vie
-- Meilleur pour votre portefeuille et pour la planète
-- Éclairage instantané, dès lallumage
-- Retrouvez la lumière blanche et chaude des ampoules à incandescence
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
+- Ampoule LED longue durée de vie
+- Retrouvez la lumière blanche et chaude des ampoules à incandescence
+- Éclairage instantané, dès lallumage
+- Meilleur pour votre portefeuille et pour la planète
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KHILTLI/?tag=tolees0d-21)

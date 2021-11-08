@@ -28,11 +28,11 @@ Vous avez [Philips Lighting - Philips ampoule LED Spot GU10 50W Blanc Chaud Comp
 
 ℹ️:
 
+- Ampoule LED longue durée de vie
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 - Retrouvez la lumière blanche et chaude des ampoules à incandescence
-- Fréquence: 50-60 Hz
-- Ampoule LED longue durée de vie
-- Meilleur pour votre portefeuille et pour la planète
 - Éclairage instantané, dès lallumage
+- Fréquence: 50-60 Hz
+- Meilleur pour votre portefeuille et pour la planète
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073FT1QT2/?tag=tolees0d-21)
