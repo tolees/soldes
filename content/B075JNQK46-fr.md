@@ -28,10 +28,10 @@ Vous avez [Philips MG3720/15 Tondeuse Multi-Styles Series 3000 7-en-1 Barbe  Che
 
 ℹ️:
 
+- 1 sabots cheveux (9 mm), 2 sabots barbe de 3 jours (1 et 2 mm), 2 sabots barbe (3 et 5 mm), Accessoire Tondeuse nez-oreilles
+- Accessoires rinçables pour un nettoyage rapide
 - Tondeuse multifonctions 7 en 1 pour cheveux, barbe, nez-oreilles
 - Lame large de 32mm avec lames en acier auto-affûtées respectueuses de votre peau
-- Accessoires rinçables pour un nettoyage rapide
-- 1 sabots cheveux (9 mm), 2 sabots barbe de 3 jours (1 et 2 mm), 2 sabots barbe (3 et 5 mm), Accessoire Tondeuse nez-oreilles
 - Autonomie de 60 min pour 16 h de charge
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075JNQK46/?tag=tolees0d-21)
