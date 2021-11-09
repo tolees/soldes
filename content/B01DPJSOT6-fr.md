@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '74.28 % rabais sur medisana BS 444 Pèse Personne Impédancem'
-date: 2021-11-08 04:21:25
+date: 2021-11-09 04:40:44
 image: 'https://m.media-amazon.com/images/I/412v9ZQlt9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [medisana BS 444 Pèse Personne Impédancemètre jusqu à 180 kg  Bala
 
 ℹ️:
 
-- Analyse corporelle : l’appareil mesure poids, graisse corporelle, masse hydrique, masse musculaire et osseuse, calcule l’IMC et offre une analyse intégrée des besoins en calories
-- Design moderne grâce à sa surface blanche et brillante et à ses électrodes en acier inoxydable de haute qualité. Le grand écran LCD assure une bonne lisibilité
 - Remarque : marcher uniquement pieds nus et sur les 4 électrodes. S’utilise uniquement sur sol plat et dur. Les premiers résultats peuvent varier car la balance doit s’auto-calibrer
+- Design moderne grâce à sa surface blanche et brillante et à ses électrodes en acier inoxydable de haute qualité. Le grand écran LCD assure une bonne lisibilité
 - De nombreuses fonctions : possibilité de peser en kg, lb et st. Le pèse-personne reconnaît automatiquement jusqu’à 8 utilisateurs dès quils montent pieds nus dessus
+- Analyse corporelle : l’appareil mesure poids, graisse corporelle, masse hydrique, masse musculaire et osseuse, calcule l’IMC et offre une analyse intégrée des besoins en calories
 - Application VitaDock+ : pour réaliser un contrôle sur la durée, les valeurs mesurées peuvent être transférées à l’application VitaDock+ via le Bluetooth, puis stockées et analysées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPJSOT6/?tag=tolees0d-21)
