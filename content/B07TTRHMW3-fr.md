@@ -30,8 +30,8 @@ C'est en vente [LEDVANCE Projecteur à LED  luminaire pour applications extérie
 
 - très lumineux et fonctionnel, les lumières led pour léclairage extérieur. indice de protection : ip65 boîtier en aluminium moulé sous pression longueur du câble de raccordement : 1 m, câblage requis.
 - Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
-- De lAllemagne, pour le monde.
 - Depuis plus de 100 ans.
 - Nous avançons la lumière
+- De lAllemagne, pour le monde.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TTRHMW3/?tag=tolees0d-21)

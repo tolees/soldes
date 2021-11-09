@@ -28,10 +28,10 @@ Vous avez [LEDVANCE Lampe LED intelligente avec technologie WiFi  douille E27  d
 
 ℹ️:
 
-- longue durée de vie jusquà 15000 heures et 100000 cycles de commutation. lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
 - contenu de la livraison: 4 x lampe led e27, 9 w, 230 v, rgbw, 27006500 k, gradable, 100% sans mercure - le meilleur de la qualité ledvance.
 - faible émission de chaleur (comparé aux produits standards de référence).
 - allumage instantané, pas de temps de préchauffage . succède aux ampoules classiques, se substitue à une ampoule de 60 w (utilisation en extérieur uniquement avec des luminaires appropriés)
+- longue durée de vie jusquà 15000 heures et 100000 cycles de commutation. lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
 - consommation dénergie 9 kwh/1000h à 806 lm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KYBFBSZ/?tag=tolees0d-21)

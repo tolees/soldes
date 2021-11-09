@@ -28,10 +28,10 @@ Vous avez [LEDVANCE Smart + prise commutable pour WiFi  avec mesure de puissance
 
 ℹ️:
 
-- Contrôlable avec lapplication LEDVANCE SMART + WiFi (avec Android 6.0 ou version ultérieure et iOS 10 ou version ultérieure); non compatible avec la télécommande WiFi LEDVANCE
-- Intègre léquipement électrique conventionnel dans les systèmes domestiques intelligents compatibles
+- Connexion simple dappareils électriques via une prise standard
 - Permet la commutation de sources lumineuses conventionnelles et dautres appareils électriques
 - Contrôlable via la commande vocale disponible: Assistant Google ou Amazon Alexa
-- Connexion simple dappareils électriques via une prise standard
+- Intègre léquipement électrique conventionnel dans les systèmes domestiques intelligents compatibles
+- Contrôlable avec lapplication LEDVANCE SMART + WiFi (avec Android 6.0 ou version ultérieure et iOS 10 ou version ultérieure); non compatible avec la télécommande WiFi LEDVANCE
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DVFJB4R/?tag=tolees0d-21)
