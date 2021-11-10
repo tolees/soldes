@@ -28,10 +28,10 @@ C'est en vente [Amazon Basics Rubans correcteurs - 4.2 mm x 6 m  Lot de 10](http
 
 ℹ️:
 
-- Lot de 10 rubans correcteurs miniature, idéal pour une utilisation quotidienne
+- Chaque dévidoir transparent renferme un ruban correcteur de 4,2 mm x 6 m
 - Application par bobine d’enroulement, fenêtre d’enroulement pour resserrer le ruban
+- Lot de 10 rubans correcteurs miniature, idéal pour une utilisation quotidienne
 - Fixation instantanée, pas de temps de séchage nécessaire, écrivez dessus avec un crayon papier, un stylo ou un marqueur
 - Chaque ruban de dévidoir mesure 4,2 mm x 6 m
-- Chaque dévidoir transparent renferme un ruban correcteur de 4,2 mm x 6 m
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DX3FF13/?tag=tolees0d-21)

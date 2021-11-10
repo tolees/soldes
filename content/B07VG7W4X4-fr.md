@@ -30,8 +30,8 @@ Vous avez [SANEX - Gel Douche Corps & Visage Dermo Sensitive Peaux Sensibles - G
 
 - GEL DOUCHE POUR PEAU SENSIBLE : Le gel douche pour hommes Sanex Dermo Sensitive contient des ingrédients minutieusement sélectionnés pour prendre soin des peaux sensibles et les nettoyer en douceur
 - EXPERTS EN PEAU SAINE : La marque Sanex vous aide à garder une peau saine grâce à sa large gamme de produits dhygiène aux formulations non agressives qui contribuent à prendre soin de votre peau au quotidien
-- RENFORCE LES DÉFENSES NATURELLES DE LA PEAU : La formule de ce gel douche aide à renforcer les défenses cutanées naturelles et à maintenir la barrière protectrice physiologique de la peau
 - MODE DEMPLOI : Utilisez ce gel douche selon vos habitudes, comme nimporte quel produit lavant classique. Rincez abondamment à leau claire après votre toilette et évitez le contact avec les yeux
 - RESPECTUEUX DE LA PEAU : Ce gel douche hydratant préserve léquilibre naturel de la peau ainsi que son pH physiologique
+- RENFORCE LES DÉFENSES NATURELLES DE LA PEAU : La formule de ce gel douche aide à renforcer les défenses cutanées naturelles et à maintenir la barrière protectrice physiologique de la peau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VG7W4X4/?tag=tolees0d-21)

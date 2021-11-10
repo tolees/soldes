@@ -28,8 +28,8 @@ Vous avez [TOPEAK CageMount Fixation pour Porte-bidon Mixte Adulte  Noir](https:
 
 ℹ️:
 
-- Convient aux diamètres de 22 à 38 mm
 - Monter sur le guidon ou la tige de selle
+- Convient aux diamètres de 22 à 38 mm
 - Matériel: plastique de qualité technique et acier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002YC02BO/?tag=tolees0d-21)

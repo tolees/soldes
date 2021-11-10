@@ -28,10 +28,10 @@ C'est en vente [HoMedics Sac Désinfectant anti-bactérien UV-C nettoyant pour t
 
 ℹ️:
 
-- STERILISATION OPTIMALE ET TOTALE : Les clips maintiennent en place les objets et votre smartphone pour assurer une exposition optimale aux UV et un nettoyage complet. Ses 4 LED UV-C anti-bactérien offrent 18 cycles par recharge.
 - STERILISATION SANS DANGER : Sans mercure ni produits chimiques et avec une fermeture verrouillee pour vous protéger des UV. Désinfectez les deux cotes de vos objets en une minute grace à ses LEDs rechargeables et efficaces des milliers d’utilisations.
-- MULTI-FONCTIONS : Conçu pour nettoyer une variété d’objets tels que des clés, des bijoux, lunettes de soleil, télécommandes, pinceaux de maquillage et bien plus.
+- STERILISATION OPTIMALE ET TOTALE : Les clips maintiennent en place les objets et votre smartphone pour assurer une exposition optimale aux UV et un nettoyage complet. Ses 4 LED UV-C anti-bactérien offrent 18 cycles par recharge.
 - CONTENU DU COFFRET : (1) Sac de transport du Stérilisateur portable UV-Clean HoMedics (2) Accessoires
+- MULTI-FONCTIONS : Conçu pour nettoyer une variété d’objets tels que des clés, des bijoux, lunettes de soleil, télécommandes, pinceaux de maquillage et bien plus.
 - PROTECTION PORTABLE : Gardez vos objets les plus utilisés, propres et stérilisés à la maison ou partout ailleurs grâce à la technologie LED UV-C. Transportez le dans votre sac et neutralisez jusqu’à 99.9% des bactéries.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZQKVBPP/?tag=tolees0d-21)

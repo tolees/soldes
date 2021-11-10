@@ -28,10 +28,10 @@ C'est en vente [Trust Gaming GXT 144 Rexx Souris Gamer de Jeu  Verticale  Ergono
 
 ℹ️:
 
-- Souris verticale gamer avec un repose-pouce confortable pour une prise en main parfaite, prévenant le syndrome de la souris, de lépicondylite et les douleurs au niveau du canal carpien
-- Souris gamer ergonomique avec 6 boutons programmables facilitant son utilisation pendant les sessions de jeu ou au quotidien
-- Logiciel avancé compris pour la programmation des 6 boutons et la personnalisation des lumières RBG (RVB) pour que la souris de gamer soit adaptée à votre usage
 - Vitesse max. : 100 pouces par seconde, accélération de 20 G pour plus de précision et réactivité
+- Logiciel avancé compris pour la programmation des 6 boutons et la personnalisation des lumières RBG (RVB) pour que la souris de gamer soit adaptée à votre usage
+- Souris gamer ergonomique avec 6 boutons programmables facilitant son utilisation pendant les sessions de jeu ou au quotidien
+- Souris verticale gamer avec un repose-pouce confortable pour une prise en main parfaite, prévenant le syndrome de la souris, de lépicondylite et les douleurs au niveau du canal carpien
 - Souris de haute performance grâce son capteur optique de haute précision pouvant atteindre une sensibilité jusquà 10 000 DPI (PPP)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLMK5T3/?tag=tolees0d-21)
