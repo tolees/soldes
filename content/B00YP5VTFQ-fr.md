@@ -28,15 +28,15 @@ C'est en vente [Corsair CMFSS3B-16GB Flash Survivor Stealth v2 16GB USB 3.0  Eta
 
 ℹ️:
 
-- Protection contre les chocs et vibrations
-- Boitier en aluminium qualité aviation
-- Unité hautes performances avec la norme USB 3.0 ou USB 2.0
-- Protection contre les vibrations et les impacts grâce à un collier amortisseur moulé
 - Etanche jusquà 200 mètres
-- Compatibilité Plug-n-Play
-- Boîtier extrêmement robuste en aluminium anodisé de classe aviation usiné CNC
+- Protection contre les vibrations et les impacts grâce à un collier amortisseur moulé
+- Boitier en aluminium qualité aviation
 - USB 30 haute performance
-- Garantie 5 ans
+- Unité hautes performances avec la norme USB 3.0 ou USB 2.0
 - Étanche à 200 mètres grâce à un joint EPDM
+- Protection contre les chocs et vibrations
+- Garantie 5 ans
+- Boîtier extrêmement robuste en aluminium anodisé de classe aviation usiné CNC
+- Compatibilité Plug-n-Play
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00YP5VTFQ/?tag=tolees0d-21)

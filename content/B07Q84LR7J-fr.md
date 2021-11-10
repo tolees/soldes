@@ -29,8 +29,8 @@ C'est en vente [Polar Pro Filtre ND Variable 77 mm  6 à 9 arrêts  – Peter Mc
 ℹ️:
 
 - Le quartz fusible pur offre une clarté optique supérieure sur nimporte quel verre sur le marché.
+- Zéro vignettage jusquà 16 mm lentilles focales
 - La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
 - Disponible en variantes 2-5 et 6-9.
-- Zéro vignettage jusquà 16 mm lentilles focales
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q84LR7J/?tag=tolees0d-21)
