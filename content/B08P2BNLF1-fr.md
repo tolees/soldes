@@ -28,9 +28,9 @@ C'est en vente [Salomon Alphacross 3 GTX Chaussures Imperméables Trail Femme - 
 
 ℹ️:
 
-- Type de talons: Plateforme
 - Doublure: Synthetic
 - Dessus: Synthétique
 - Matériau de semelle: Caoutchouc
+- Type de talons: Plateforme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P2BNLF1/?tag=tolees0d-21)
