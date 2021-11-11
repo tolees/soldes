@@ -28,10 +28,10 @@ Vous avez [Bosch Professional 12V System Perceuse-Visseuse à Percussion sans Fi
 
 ℹ️:
 
-- Mandrin de perceuse de 10 mm à verrouillage automatique
-- Contenu de la livraison Amazon Exclusive: GSB 12V-15, 2x20 Ah batterie, chargeur, 1x tournevis Bosch 25 pièces
 - Avec sa conception extrêmement courte de 169 mm pour une manipulation optimale, en particulier pour les applications de perçage et de vissage au-dessus de la tête et dans les endroits étroits
 - Professional 12V System Performances compactes Liberté totale Toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de tension
 - Performances professionnelles : la boîte de vitesses à 2 vitesses fournit une puissance de 15 Nm (vissage doux) lors du perçage (jusquà 19 mm) et du vissage (jusquà 7 mm)
+- Contenu de la livraison Amazon Exclusive: GSB 12V-15, 2x20 Ah batterie, chargeur, 1x tournevis Bosch 25 pièces
+- Mandrin de perceuse de 10 mm à verrouillage automatique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YYBBUBY/?tag=tolees0d-21)
