@@ -28,10 +28,10 @@ C'est en vente [Oral-B PRO 3 3000 Brosse à Dents Électrique Rechargeable avec 
 
 ℹ️:
 
-- Vous aide à vous brosser les dents plus longtemps avec le minuteur intégré de 2 minutes
-- Nettoyage intense pour des gencives plus saines avec la technologie de contrôle de la pression sur les gencives à 360° qui vous signale visiblement lorsque vous brossez trop vigoureusement
-- Combine la Brossette ronde unique d’Oral-B avec des micro-vibrations douces pour une sensation de fraîcheur et de propreté en bouche, et des gencives 100% plus saines en une semaine
 - Pour un nettoyage éblouissant, elle purifie en éliminant 100 % de plaque dentaire en plus par rapport à une brosse à dents manuelle
+- Combine la Brossette ronde unique d’Oral-B avec des micro-vibrations douces pour une sensation de fraîcheur et de propreté en bouche, et des gencives 100% plus saines en une semaine
+- Nettoyage intense pour des gencives plus saines avec la technologie de contrôle de la pression sur les gencives à 360° qui vous signale visiblement lorsque vous brossez trop vigoureusement
+- Vous aide à vous brosser les dents plus longtemps avec le minuteur intégré de 2 minutes
 - La batterie dure plus de 2 semaines avec 1 recharge grâce à la batterie au lithium-ion
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B094HNRZT9/?tag=tolees0d-21)
