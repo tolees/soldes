@@ -28,11 +28,11 @@ C'est en vente [SAINT ALGUE Fer à Lisser Demeliss ONE - Titanium Cuivré - Prê
 
 ℹ️:
 
-- Etui premium rigide thermorésistante
-- Garantie 2 ans
 - Revêtement plaques flottantes GLISS Intense - Titanium Cuivré ==> Glisse et lisse en 1 seul passage
-- Lisseur à température stable immédiate ==> Ne surchauffe pas la fibre capillaire
+- Etui premium rigide thermorésistante
 - Pratique également pour réaliser des boucles et des effets wavy
 - Prêt à Lisser en 10 secondes ==> Le plus rapide du marché
+- Lisseur à température stable immédiate ==> Ne surchauffe pas la fibre capillaire
+- Garantie 2 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081HH9DYH/?tag=tolees0d-21)

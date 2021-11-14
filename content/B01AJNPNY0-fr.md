@@ -30,8 +30,8 @@ Vous avez [Schleich - 42346 - Pick-up avec Remorque Pour Cheval -](https://www.a
 
 - Peut contenir une selle et un harnais
 - Toit amovible
-- Pour stocker nourriture et boisson
 - Les chevaux sont souvent agités lorsquon les transporte dans la remorque. Mais si on soccupe bien deux, ils se calment généralement
+- Pour stocker nourriture et boisson
 - Deux chevaux peuvent entrer dans le van
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AJNPNY0/?tag=tolees0d-21)
