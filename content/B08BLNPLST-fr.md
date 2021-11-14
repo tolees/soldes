@@ -28,9 +28,9 @@ Vous avez [Geox J POSEIDO Boy A J15BCA0CLBU  Basket Garçon  Navy Green  27](htt
 
 ℹ️:
 
-- Scratch
+- Cuir
 - Respirant
 - Caoutchouc
-- Cuir
+- Scratch
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BLNPLST/?tag=tolees0d-21)

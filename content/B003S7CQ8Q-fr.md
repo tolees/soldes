@@ -28,9 +28,9 @@ Vous avez [Perel Caisse plastique 41 x 21 x 18 cm](https://www.amazon.fr/dp/B003
 
 ℹ️:
 
-- loquets métalliques
 - 3 organisateurs intégrés dans le couvercle supérieur
-- plateau amovible
 - Dimensions (L x P x H): 413 x 212 x 186 mm
+- loquets métalliques
+- plateau amovible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003S7CQ8Q/?tag=tolees0d-21)

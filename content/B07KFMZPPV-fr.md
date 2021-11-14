@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Défonceuse Bosch - POF 1400 ACE  Livré
 
 ℹ️:
 
-- produit 1: La régulation électronique constante Bosch maintient constante la vitesse sélectionnée et assure une qualité de coupe optimale
-- produit 1: Réglage micrométrique de la profondeur de fraisage – idéal pour les travaux exigeants jusquà une précision de 1/10 mm
-- produit 2: 8 mm
-- produit 1: Moteur dune puissance de 1.400 W pour des tâches exigeantes à réaliser dans tous types de bois
 - produit 1: Changement de fraise aisé et rapide grâce au blocage de broche intégré
+- produit 1: Réglage micrométrique de la profondeur de fraisage – idéal pour les travaux exigeants jusquà une précision de 1/10 mm
+- produit 1: Moteur dune puissance de 1.400 W pour des tâches exigeantes à réaliser dans tous types de bois
+- produit 1: La régulation électronique constante Bosch maintient constante la vitesse sélectionnée et assure une qualité de coupe optimale
+- produit 2: 8 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KFMZPPV/?tag=tolees0d-21)
