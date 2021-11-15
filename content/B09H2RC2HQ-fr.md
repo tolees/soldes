@@ -28,10 +28,10 @@ Vous avez [Facebook Portal Go - des Appels Vidéo sur Écran Tactile 10" portabl
 
 ℹ️:
 
-- Son haute-fidélité
-- Écran 10"
-- Appareil d’appel vidéo dédié
-- Smart Camera avec suivi
 - Compatible avec WhatsApp, Messenger et Zoom.
+- Son haute-fidélité
+- Smart Camera avec suivi
+- Appareil d’appel vidéo dédié
+- Écran 10"
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B09H2RC2HQ/?tag=tolees0d-21)

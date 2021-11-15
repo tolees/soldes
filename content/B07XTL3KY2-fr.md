@@ -28,13 +28,13 @@ Vous avez [Facebook Portal TV - des Appels Vidéo Groupés en Grand sur vo
 
 ℹ️:
 
-- Restez proches grâce à Superframe - Portal TV peut afficher vos images préférées issues de Facebook, Instagram et de la pellicule de votre téléphone. Et vous pouvez choisir d’actualiser vos photos automatiquement ou de les ajouter à partir de l’app mobile de Portal.
-- Confidentialité - des réglages clairs et simples vous donnent le contrôle en toutes situations. Vous pouvez désactiver facilement la caméra et le micro, et les appels vidéo sont toujours cryptés.
-- Connexion avec Messenger et WhatsApp - passez un appel vidéo en toute simplicité avec vos amis et votre famille sur un smartphone ou une tablette avec Messenger ou WhatsApp.* Ajoutez jusqu’à trois personnes à un appel de groupe avec WhatsApp, ou sept avec Messenger.
-- Smart Camera et Smart Sound - Smart Camera suit, zoome et s’élargit automatiquement, de sorte que vous pouvez vous déplacer et parler librement sans jamais sortir du cadre. Quant à Smart Sound, elle améliore les voix tout en réduisant les bruits de fond.
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 - Story Time et Effets AR - avec la fonctionnalité Raconte-moi une histoire, vous pouvez donner vie aux histoires préférées de vos enfants avec de la musique, des animations et des effets de réalité augmentée. Et rendez vos appels encore plus vivants grâce aux masques de réalité augmentée et bien plus encore.
 - Assistant Alexa intégré - votre voix donne le « la » : écoutez vos morceaux préférés, regardez les infos, contrôlez votre maison connectée, consultez la météo, réglez une minuterie et bien plus encore. Il suffit de demander.
+- Connexion avec Messenger et WhatsApp - passez un appel vidéo en toute simplicité avec vos amis et votre famille sur un smartphone ou une tablette avec Messenger ou WhatsApp.* Ajoutez jusqu’à trois personnes à un appel de groupe avec WhatsApp, ou sept avec Messenger.
+- Smart Camera et Smart Sound - Smart Camera suit, zoome et s’élargit automatiquement, de sorte que vous pouvez vous déplacer et parler librement sans jamais sortir du cadre. Quant à Smart Sound, elle améliore les voix tout en réduisant les bruits de fond.
 - Regarder Ensemble - désormais, vous et vos amis pouvez visionner du contenu Facebook Watch lors d’un appel vidéo comme si vous étiez dans la même pièce.
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Confidentialité - des réglages clairs et simples vous donnent le contrôle en toutes situations. Vous pouvez désactiver facilement la caméra et le micro, et les appels vidéo sont toujours cryptés.
+- Restez proches grâce à Superframe - Portal TV peut afficher vos images préférées issues de Facebook, Instagram et de la pellicule de votre téléphone. Et vous pouvez choisir d’actualiser vos photos automatiquement ou de les ajouter à partir de l’app mobile de Portal.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XTL3KY2/?tag=tolees0d-21)
