@@ -28,11 +28,11 @@ C'est en vente [ABUS EC-SNP 30/40 Cylindre Débrayable pour Portes Extérieures/
 
 ℹ️:
 
-- 5 clés réversibles brevetées + carte de propriété (indispensable à toute reproduction de clé)
-- Portes extérieures ou portes dentrée dappartement
-- Protégé par un brevet européen jusquen 2020
-- Boîtier laiton nickelé poli, large tête de clé pour une meilleure prise en mains
 - Débrayable (ouverture du cylindre même si une clé est de lautre côté)
+- Boîtier laiton nickelé poli, large tête de clé pour une meilleure prise en mains
+- 5 clés réversibles brevetées + carte de propriété (indispensable à toute reproduction de clé)
+- Protégé par un brevet européen jusquen 2020
 - Protection contre le perçage par tiges et goupilles en acier cémenté. système complexe qui rend le crochetage très difficile
+- Portes extérieures ou portes dentrée dappartement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00S4TEU7I/?tag=tolees0d-21)

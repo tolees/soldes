@@ -28,11 +28,11 @@ Vous avez [BRITAX RÖMER Siège Auto EVOLVA 1-2-3 SL SICT  Évolutif avec Protec
 
 ℹ️:
 
-- Repose-tête et harnais facilement réglables
 - Protection renforcée grâce au dossier
-- Une housse rapidement déhoussable
+- Repose-tête et harnais facilement réglables
 - Harnais de sécurité à 5 points
-- Fabriqué en Allemagne
 - Protection en cas de choc latéral (SICT)
+- Fabriqué en Allemagne
+- Une housse rapidement déhoussable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076CRNNWM/?tag=tolees0d-21)

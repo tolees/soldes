@@ -28,12 +28,12 @@ Vous avez [Bosch Professional Polisseuse GPO 14 CE  1400 W  Régime à vide 750 
 
 ℹ️:
 
-- Puissance de sortie: 800 W
-- Hauteur: 185 mm
-- Poids: 2.5 kg
 - Description du produit: Bosch GPO 14 CE Professional
+- Poids: 2.5 kg
+- Hauteur: 185 mm
 - Source dénergie: mains
-- Largeur: 440 mm
+- Puissance de sortie: 800 W
 - Puissance dentrée: 1400 W
+- Largeur: 440 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005P9AD4E/?tag=tolees0d-21)

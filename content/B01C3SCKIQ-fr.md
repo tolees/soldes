@@ -28,10 +28,10 @@ C'est en vente [Sigma Objectif 50-100mm F1 8 DC HSM ART - Monture Nikon](https:/
 
 ℹ️:
 
-- Longueur du produit: 17,1 cm
-- Sigma A 50-100 F1.8 DC HSM. composant pour: MILC
-- Type dobjectif: Telephoto zoom lens. compatibilité entre marques de caméras: Nikon F. Couleur du produit: Noir. Diamètre: 9,35 cm
 - Taille de filtre: 8,2 cm
+- Longueur du produit: 17,1 cm
+- Type dobjectif: Telephoto zoom lens. compatibilité entre marques de caméras: Nikon F. Couleur du produit: Noir. Diamètre: 9,35 cm
+- Sigma A 50-100 F1.8 DC HSM. composant pour: MILC
 - Structure de lobjectif (éléments/groupes): 21/15
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01C3SCKIQ/?tag=tolees0d-21)

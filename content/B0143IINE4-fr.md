@@ -28,9 +28,9 @@ Vous avez [Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10
 
 ℹ️:
 
-- De 16 Go à 64 Go pour stocker des tonnes dimages et des vitesses de transfert rapides jusquà 48 Mo / s
-- Des performances denregistrement vidéo exceptionnelles de Classe 10 pour des vidéos Full HD (1080p)
 - De 16 Go à 64 Go pour stocker des tonnes de photos et des vitesses de transfert élevées allant jusquà 48 Mo/s
+- De 16 Go à 64 Go pour stocker des tonnes dimages et des vitesses de transfert rapides jusquà 48 Mo / s
 - Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
+- Des performances denregistrement vidéo exceptionnelles de Classe 10 pour des vidéos Full HD (1080p)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21)

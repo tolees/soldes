@@ -28,11 +28,11 @@ C'est en vente [Panasonic Pro for Professionals ER-GP21 Tondeuse de Finition](ht
 
 ℹ️:
 
-- Nouvelle lame ultra-précise, rase jusquà 0,3 mm ; 2 contre-peignes 3mm et 6mm
-- Capacité de coupe 11700 cheveux/secondes
+- Tondeuse professionnelle de finition
+- Revêtement antidérapant soft Touch pour une prise en main tout confort
 - Remarque: Il est recommandé de toujours remettre la tondeuse sur sa base immédiatement lorsquelle nest pas utilisée afin quelle puisse se recharger
 - Ergonomie de travail assurée grâce à son seuil de vibration minimal et à son poids ultraléger, seulement 115g
-- Revêtement antidérapant soft Touch pour une prise en main tout confort
-- Tondeuse professionnelle de finition
+- Nouvelle lame ultra-précise, rase jusquà 0,3 mm ; 2 contre-peignes 3mm et 6mm
+- Capacité de coupe 11700 cheveux/secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01G5BIGUS/?tag=tolees0d-21)
