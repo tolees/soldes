@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '50.00 % rabais sur Columbia Fairbanks  Bottes Hiver Omni-He'
-date: 2021-11-05 15:34:16
-image: 'https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL500_._SL400_.jpg'
+date: 2021-11-15 22:58:09
+image: 'https://m.media-amazon.com/images/I/41wlO-D6VsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,17 +24,17 @@ average: '64.99'
 
 Vous avez [Columbia Fairbanks  Bottes Hiver Omni-Heat Homme](https://www.amazon.fr/dp/B01N6HBYI6/?tag=tolees0d-21)  à  50.00 % de réduction, prix final  64.99 EUR (original: 129.99 EUR) ici:
 
-[![Columbia Fairbanks  Bottes Hiver Omni-He](https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01N6HBYI6/?tag=tolees0d-21)
+[![Columbia Fairbanks  Bottes Hiver Omni-He](https://m.media-amazon.com/images/I/41wlO-D6VsL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01N6HBYI6/?tag=tolees0d-21)
 
 ℹ️:
 
-- Membrane imperméable et respirante Omni-Tech.
-- Doublure réfléchissante Omni-Heat.
-- Semelle extérieure : caoutchouc Omni-Grip.
-- Caoutchouc de traction Omni-Grip.
-- Semelle intermédiaire légère en Techlite pour un confort durable, un bon amorti et un haut retour dénergie.
-- Dessus en tissu Cordura
 - Semelle intermédiaire : EVA Techlite
+- Membrane imperméable et respirante Omni-Tech.
+- Semelle extérieure : caoutchouc Omni-Grip.
+- Semelle intermédiaire légère en Techlite pour un confort durable, un bon amorti et un haut retour dénergie.
+- Doublure réfléchissante Omni-Heat.
+- Dessus en tissu Cordura
 - Matériaux : Cordura
+- Caoutchouc de traction Omni-Grip.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N6HBYI6/?tag=tolees0d-21)
