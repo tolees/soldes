@@ -28,10 +28,10 @@ Vous avez [Purificateur d air Leitz TruSens Z-3000 avec capteur SensorPod et lam
 
 ℹ️:
 
-- Le purificateur dair Z-3000 distribue un air plus pur pour des pièces jusquà 70 m², et propose la filtration 360 degrés, le contrôle à distance Sensorpod, une lampe UV-C, un écran LCD daffichage de la qualité de lair et la technologie PureDirect. Recommandé par lAFPRAL (Association Française pour la Prévention des Allergies)
-- Commandes tactiles faciles à utiliser, avec quatre vitesses de ventilateur et fonctionnement silencieux (32 dB), mode AUTO, mode minuterie, mode nuit et indicateurs de remplacement des filtres, un disque lumineux communique la qualité dair.
 - Un SensorPod unique contrôle la qualité de lair et le double flux dair PureDirect distribue lair pur de façon optimale, avec un débit dair pur de 338m3 / heure, le Z-3000 purifie des pièces jusquà 70m² (168m3) une fois toutes les 30 minutes
-- Le filtre HEPA à 360 degrés capture 99,97% des particules de 0,3 micron, y compris les allergènes, le pollen, les bactéries, les virus, la poussière, les squames et les odeurs, filtre HEPA anti-viral et anti allergènes également disponible
+- Le purificateur dair Z-3000 distribue un air plus pur pour des pièces jusquà 70 m², et propose la filtration 360 degrés, le contrôle à distance Sensorpod, une lampe UV-C, un écran LCD daffichage de la qualité de lair et la technologie PureDirect. Recommandé par lAFPRAL (Association Française pour la Prévention des Allergies)
 - La lumière UV-C réduit la croissance des germes et des bactéries piégés dans le filtre, lors des tests de laboratoire la lampe UV-C a tué plus de 98% des bactéries Staphylococcus aureus et Psuedomonas aeruginosa
+- Le filtre HEPA à 360 degrés capture 99,97% des particules de 0,3 micron, y compris les allergènes, le pollen, les bactéries, les virus, la poussière, les squames et les odeurs, filtre HEPA anti-viral et anti allergènes également disponible
+- Commandes tactiles faciles à utiliser, avec quatre vitesses de ventilateur et fonctionnement silencieux (32 dB), mode AUTO, mode minuterie, mode nuit et indicateurs de remplacement des filtres, un disque lumineux communique la qualité dair.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W3NJ8X8/?tag=tolees0d-21)

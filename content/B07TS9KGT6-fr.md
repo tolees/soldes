@@ -29,9 +29,9 @@ Vous avez [Lexon MINO L Enceinte Bluetooth Aluminium/Bleu Foncé LA121MDB](https
 ℹ️:
 
 - Pairable.
-- Haut-parleur Bluetooth 5 W.
 - Alimenté par une prise USB C (incluse)
-- Matériau : aluminium.
 - Rechargeable
+- Matériau : aluminium.
+- Haut-parleur Bluetooth 5 W.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TS9KGT6/?tag=tolees0d-21)

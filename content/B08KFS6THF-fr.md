@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD BLACK SN850 1 To Disque SSD NVMe interne pour le
 
 ℹ️:
 
-- Logiciel du tableau de bord WD_BLACK téléchargeable pour personnaliser et contrôler votre expérience de jeu
-- Jusquà 2 To de capacité pour accueillir vos jeux de combat préférés
 - Technologie PCIe Gén4 de nouvelle génération optimisée pour les jeux de haut niveau (non destinée aux NAS ou aux environnements de serveurs)
-- Des vitesses de lecture/écriture incroyablement rapides jusquà 7 000/5300Mo/s (modèle 1 To) et jusquà 1 000 000 IOPS (modèles 1 To et 2 To)
 - Optimisé pour les jeux de haut niveau
+- Jusquà 2 To de capacité pour accueillir vos jeux de combat préférés
+- Des vitesses de lecture/écriture incroyablement rapides jusquà 7 000/5300Mo/s (modèle 1 To) et jusquà 1 000 000 IOPS (modèles 1 To et 2 To)
+- Logiciel du tableau de bord WD_BLACK téléchargeable pour personnaliser et contrôler votre expérience de jeu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KFS6THF/?tag=tolees0d-21)

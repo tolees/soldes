@@ -30,7 +30,7 @@ C'est en vente [MORA Companion Heavy Duty MG Poignard Mixte Adulte  Noir  Lame :
 
 - Manche gomme Noir
 - Etui rigide vert kaki
-- Poignard MORA Companion heavy duty mg
 - Lame 10, 5 cm acier carbone
+- Poignard MORA Companion heavy duty mg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MQY05I3/?tag=tolees0d-21)
