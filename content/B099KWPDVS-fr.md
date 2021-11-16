@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NBA 2K22 Exclusivité Amazon  PlayStation avec 22.42 % rabais '
-date: 2021-10-18 10:41:53
+date: 2021-11-16 08:48:50
 image: 'https://m.media-amazon.com/images/I/51zbYRrTVqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [NBA 2K22 Exclusivité Amazon  PlayStation 5 ](https://www.amazon
 
 ℹ️:
 
+- Nba 2K22 est le dernier opus de la série développée par visual concepts et éditée par 2K
 - Contenu édition std: - jeu - bonus préco (digital) - 5K vc - 6 boosts ma carrière - 1 maillot luka dončić - 5K points myteam - 10 packs promo myteam - 1 carte myteam de luka dončić (95)
 - Contenu supplémentaitre exclusif amazon 2 000 vc et 1 pack promo myteam.
-- Nba 2K22 est le dernier opus de la série développée par visual concepts et éditée par 2K
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B099KWPDVS/?tag=tolees0d-21)

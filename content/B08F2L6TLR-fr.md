@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '47.34 % rabais sur Western Digital - WD My Passport SSD 500'
-date: 2021-10-27 12:38:06
+date: 2021-11-16 08:49:12
 image: 'https://m.media-amazon.com/images/I/41j1FyZho0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Vous avez [Western Digital - WD My Passport SSD 500 Go - Disque SSD externe avec
 
 - Sauvegarde facile
 - Technologie NVMe rapide comme léclair avec des vitesses pouvant atteindre 1050 Mo/s en lecture et 1000 Mo/s en écriture
+- Design élégant et compact
 - Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
 - Cryptage matériel AES 256 bits par mot de passe
-- Design élégant et compact
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F2L6TLR/?tag=tolees0d-21)
