@@ -28,10 +28,10 @@ C'est en vente [Lamy 3514864781 M66  Noir  4 unidades](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Couleur : noir.
-- Largeur de tracé: M
-- Recharge pour stylo à bille Lamy.
 - Lot de 8.
+- Largeur de tracé: M
 - Remplace les recharges M61 et M62.
+- Couleur : noir.
+- Recharge pour stylo à bille Lamy.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00BG5SVEU/?tag=tolees0d-21)
