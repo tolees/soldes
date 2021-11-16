@@ -30,9 +30,9 @@ C'est en vente [Ring Video Doorbell Wired par Amazon  Vidéo HD  détection de m
 
 - Grâce à son design élégant et compact, Ring Video Doorbell Wired se fond parfaitement dans son environnement, quel que soit le style de votre habitation.
 - Les fonctionnalités standards telles que les notifications instantanées, la vidéo en direct et le système audio bidirectionnel sont disponibles gratuitement dès la mise en service de tous vos appareils Ring. Souscrivez un abonnement Ring Protect (abonnement vendu séparément) pour enregistrer, voir et partager les moments que vous avez manqués (essai gratuit de 30 jours inclus avec votre achat).
-- Recevez des notifications instantanées directement sur votre téléphone, votre appareil Alexa ou votre Ring Chime lorsquun visiteur appuie sur votre sonnette ou déclenche les détecteurs de mouvements : soyez informé(e) de toutes les visites.
 - Sonnette vidéo raccordée HD 1080p avec système audio bidirectionnel, détection de mouvements avancée, connectivité 2,4 GHz standard et paramètres de confidentialité personnalisables.
 - La vision nocturne haute définition offre un contraste net pour quaucun détail ne vous échappe, même après la tombée de la nuit.
+- Recevez des notifications instantanées directement sur votre téléphone, votre appareil Alexa ou votre Ring Chime lorsquun visiteur appuie sur votre sonnette ou déclenche les détecteurs de mouvements : soyez informé(e) de toutes les visites.
 - Pour une alimentation continue, raccordez-la au câblage de votre sonnette existante compatible ou optez pour un kit dadaptateur secteur et branchez-la à une prise électrique standard.
 - Pour entendre les notifications audio dans votre domicile, jumelez un Ring Chime ou un appareil avec Alexa intégré compatible, ou sélectionnez loffre groupée Ring Video Doorbell Wired + Ring Chime. Une fois Ring Video Doorbell Wired installée, votre carillon de sonnette existant ne sonnera plus.
 
