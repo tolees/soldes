@@ -28,10 +28,10 @@ Vous avez [PetSafe Fontaine à eau en Céramique pour Chats et Chiens avec filtr
 
 ℹ️:
 
-- GARANTIE : La Fontaine pour animaux de compagnie Drinkwell Pagoda en Bleu de PetSafe bénéficie dune Garantie constructeur de 2 ans
 - ANTI-ODEUR / ANTI-DEBRIS: Son filtre à charbon élimine mauvais goûts et mauvaises odeurs. Le filtre en mousse retient les débris et poils afin que leau reste plus fraîche, plus longtemps
-- ENTRETIEN FACILE: Simple à assembler et démonter. Seules les parties en céramique sont lavables au lave-vaisselle (bac du haut). Dimension du produit : 31,2 L x 21,3 l x 26,9 H cm
-- DESIGN INTELLIGENT: Avec une contenance de 2 l, chiens et chats pourront boire dans le bol deau, de la cascade ou du haut de la tour, idéale pour les animaux plus âgés
 - ENCOURAGE LES ANIMAUX À BOIRE PLUS: La douce cascade encourage les animaux à boire plus et prévient les maladies de la vessie et des reins grâce à une meilleure hydratation
+- GARANTIE : La Fontaine pour animaux de compagnie Drinkwell Pagoda en Bleu de PetSafe bénéficie dune Garantie constructeur de 2 ans
+- DESIGN INTELLIGENT: Avec une contenance de 2 l, chiens et chats pourront boire dans le bol deau, de la cascade ou du haut de la tour, idéale pour les animaux plus âgés
+- ENTRETIEN FACILE: Simple à assembler et démonter. Seules les parties en céramique sont lavables au lave-vaisselle (bac du haut). Dimension du produit : 31,2 L x 21,3 l x 26,9 H cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N6R4WA4/?tag=tolees0d-21)
