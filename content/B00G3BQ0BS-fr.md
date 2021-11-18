@@ -29,9 +29,9 @@ Vous avez [GROHE Douchette à main Vitalio Comfort 100  4 jets  chromé  2609200
 ℹ️:
 
 - Cornat - haute qualité pour un bon départ dans la matinée dans la salle de bains
-- Pièce de rechange dorigine
-- Trois types de jet
 - Système de montage universel : sassocie avec tous les flexibles de douche
+- Trois types de jet
 - Chrome éclatant et durable
+- Pièce de rechange dorigine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00G3BQ0BS/?tag=tolees0d-21)

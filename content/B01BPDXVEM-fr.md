@@ -28,11 +28,11 @@ C'est en vente [Joseph Joseph - SinkBase Plus - Rangement d Evier 3 Pièces - Gr
 
 ℹ️:
 
-- Compact, fonctionnel et design
+- Récipient permettant de stocker votre éponge et votre brosse à vaisselle
 - Très étroit pour tenir entre votre évier et la crédence
 - Dimensions du produit (L x l x h) : 27 x 6 x 16,5 cm
 - Démonter pour nettoyer facilement
-- Récipient permettant de stocker votre éponge et votre brosse à vaisselle
+- Compact, fonctionnel et design
 - Distributeur de savon liquide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BPDXVEM/?tag=tolees0d-21)

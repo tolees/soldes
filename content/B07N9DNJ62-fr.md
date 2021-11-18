@@ -29,9 +29,9 @@ Vous avez [JBL LIVE 650BTNC – Casque audio circum-auriculaire sans fil – Éc
 ℹ️:
 
 - Avec une simple pression sur une touche sur les écouteurs, il est possible daccéder à Amazon Alexa et Google Now - lapplication JBL permet de gérer le service vocal
-- Un casque audio performant : avec les haut-parleurs de 40 mm et le mode Noise Cancelling, plongez vous dans votre monde musical préféré sans être dérangé par les bruits extérieurs
-- Livraison : 1 x casque audio JBL LIVE 650BTNC sans fil / 1 x câble dalimentation / 1 x trousse de transport / 1 x guide de démarrage rapide / Noir
-- Grâce à une autonomie de 30 heures sans le noise cancelling et 20h avec, profitez de votre musique et téléphonie durant toute la journée - le mode Bluetooth est parfait pour vos déplacements
 - Grâce à la technologie Active Noise Cancelling, restez concentré et laissez vous transporter par votre musique - plus aucun bruit extérieur ne vous perturbera
+- Livraison : 1 x casque audio JBL LIVE 650BTNC sans fil / 1 x câble dalimentation / 1 x trousse de transport / 1 x guide de démarrage rapide / Noir
+- Un casque audio performant : avec les haut-parleurs de 40 mm et le mode Noise Cancelling, plongez vous dans votre monde musical préféré sans être dérangé par les bruits extérieurs
+- Grâce à une autonomie de 30 heures sans le noise cancelling et 20h avec, profitez de votre musique et téléphonie durant toute la journée - le mode Bluetooth est parfait pour vos déplacements
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N9DNJ62/?tag=tolees0d-21)

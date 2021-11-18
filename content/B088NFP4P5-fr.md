@@ -28,11 +28,11 @@ C'est en vente [Oral-B iO Gentle Care Brossettes de Recharge pour Brosse à Dent
 
 ℹ️:
 
-- Gentle Care s’adapte précisément à la courbure de la dent et de la ligne gingivale pour un nettoyage doux et efficace
-- Conçue exclusivement et garantie pour votre Oral-B iO
-- Les poils sont soigneusement disposés sur la tête ronde typique d’Oral-B pour mieux entourer chaque dent afin d’obtenir un nettoyage optimal
-- Les dentistes recommandent de changer la brossette tous les 3 mois pour un nettoyage optimal
 - Pour un nettoyage doux et efficace sur les zones sensibles et les gencives
 - Nombre de brossettes incluses dans ce lot : 2
+- Les poils sont soigneusement disposés sur la tête ronde typique d’Oral-B pour mieux entourer chaque dent afin d’obtenir un nettoyage optimal
+- Gentle Care s’adapte précisément à la courbure de la dent et de la ligne gingivale pour un nettoyage doux et efficace
+- Conçue exclusivement et garantie pour votre Oral-B iO
+- Les dentistes recommandent de changer la brossette tous les 3 mois pour un nettoyage optimal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088NFP4P5/?tag=tolees0d-21)
