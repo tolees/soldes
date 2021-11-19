@@ -28,8 +28,8 @@ Vous avez [Ubisoft - Far Cry 6 Édition Limitée  Xbox Series X ](https://www.am
 
 ℹ️:
 
-- DEVENEZ UN VRAI GUÉRILLERO.
-- YARA, UNE NATION DÉCHIRÉE.
 - MENEZ LE COMBAT POUR LA LIBERTÉ.
+- YARA, UNE NATION DÉCHIRÉE.
+- DEVENEZ UN VRAI GUÉRILLERO.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B09B4KNY4H/?tag=tolees0d-21)
