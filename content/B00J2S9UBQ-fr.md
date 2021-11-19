@@ -28,10 +28,10 @@ C'est en vente [Lexar Professional - LCF256CRBEU1066 - Carte Mémoire CompactFla
 
 ℹ️:
 
+- Capture des images de qualité élevée et des vidéos longue durée full HD 1080p, 3D et 4K grâce à votre reflex numérique, votre caméscope HD ou votre appareil 3D
 - Transfert de fichiers de la carte à lordinateur ultra rapide, permettant d’accélérer le workflow de manière considérable
 - Compatible avec Video Performance Guarantee pour une qualité de vidéo professionnelle (VPG-65).
 - Carte à vitesse élevée qui exploite la technologie UDMA 7 pour une vitesse de transfert pouvant aller jusquà 1066x (160 Mo/s)
 - Comprend le logiciel téléchargeable Image Rescue, qui vous permet de récupérer la plupart des photos et certaines vidéos
-- Capture des images de qualité élevée et des vidéos longue durée full HD 1080p, 3D et 4K grâce à votre reflex numérique, votre caméscope HD ou votre appareil 3D
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J2S9UBQ/?tag=tolees0d-21)
