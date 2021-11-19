@@ -29,8 +29,8 @@ Vous avez [Crucial Ballistix BL2K16G32C16U4R 3200 MHz  DDR4  DRAM  Mémoire Kit 
 ℹ️:
 
 - Dissipateur thermique moderne en aluminium disponible en trois coloris pour s’accorder à votre machine ou à votre style
+- Idéale pour les gamers et les amateurs de performance
 - Prise en charge XMP 2.0 pour un overclocking automatique, ou aux vitesses JEDEC standard
 - Conçue pour les dernières plateformes AMD et Intel
-- Idéale pour les gamers et les amateurs de performance
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083TSH22R/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Crucial Ballistix BL2K8G32C16U4R 3200 MHz  DDR4  DRAM  Mémoire Kit p
 
 ℹ️:
 
-- Conçue pour les dernières plateformes AMD et Intel
 - Idéale pour les gamers et les amateurs de performance. Horaires prolongés : 16-18-18-36
 - Dissipateur thermique moderne en aluminium disponible en trois coloris pour s’accorder à votre machine ou à votre style
+- Conçue pour les dernières plateformes AMD et Intel
 - Tension: 1,35 V
 - Prise en charge XMP 2.0 pour un overclocking automatique, ou aux vitesses JEDEC standard . Type de DIMM : Unbuffered
 
