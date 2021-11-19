@@ -28,10 +28,10 @@ Vous avez [Drill Doctor 52201 Affûteur de forets 750 X](https://www.amazon.fr/d
 
 ℹ️:
 
-- Fonctionne aussi avec les forets de maçonnerie
-- Diamètre : entre 2,5 et 19 mm
-- Résultat en quelques secondes
 - Réglage de la pointe et de l’angle
+- Résultat en quelques secondes
+- Diamètre : entre 2,5 et 19 mm
+- Fonctionne aussi avec les forets de maçonnerie
 - Fonctionne comme un taille-crayon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000BKTA00/?tag=tolees0d-21)

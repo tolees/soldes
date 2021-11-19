@@ -28,13 +28,13 @@ Vous avez [Danfoss - Tête Thermostatique pour Anciens Corps Danfoss RA/VL 26mm]
 
 ℹ️:
 
+- Diamètre: 26mm ; La mesure a été faite sur la tête à lextérieur (diamètre total) et non à lintérieur. Conception du capteur : RA/VL 2000
+- Intérieur dimension= 26mm, Extérieur dimension= 28mm. Type de connexion au capteur : Anneau de serrage. Type de connexion à la valve : RAVL
+- Température minimale de réglage du capteur: 7°C | Température maximale de réglage du capteur: 26°C
+- Convient aux anciennes valves Danfoss RA/VL de 26 mm
 - Tête avec bulbe incorporé pour ancien corps type RAVL
 - Point de consigne de 7° C à 26 ° C
-- Diamètre: 26mm ; La mesure a été faite sur la tête à lextérieur (diamètre total) et non à lintérieur. Conception du capteur : RA/VL 2000
-- DANFOSS : 013G2950
 - RAV 2950 ; Tete thermostatique de remplacement
-- Intérieur dimension= 26mm, Extérieur dimension= 28mm. Type de connexion au capteur : Anneau de serrage. Type de connexion à la valve : RAVL
-- Convient aux anciennes valves Danfoss RA/VL de 26 mm
-- Température minimale de réglage du capteur: 7°C | Température maximale de réglage du capteur: 26°C
+- DANFOSS : 013G2950
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000VT4GJQ/?tag=tolees0d-21)

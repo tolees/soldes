@@ -28,10 +28,10 @@ Vous avez [Deutsche Grammophon - Richard Wagner: Der Ring des Nibelungen  l anne
 
 ℹ️:
 
-- Record Label: Deutsche Grammophon
 - Country Of Release: NLD
-- Notes: Ntsc/ Allregions /Pierre Boulez
-- Year Of Release: 2005
 - Catalog#: 00440 0734057
+- Record Label: Deutsche Grammophon
+- Year Of Release: 2005
+- Notes: Ntsc/ Allregions /Pierre Boulez
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0009F2EPU/?tag=tolees0d-21)

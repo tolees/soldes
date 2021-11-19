@@ -29,9 +29,9 @@ C'est en vente [Joseph Joseph 70502 Porte Savon Compact  Plastique  Blanc/Bleu C
 ℹ️:
 
 - Sec et économique: le savon incliné laisse leau couler dans un trou, leau ne stagne pas, le savon ne se consomme pas
-- Laver et sécher à la main
-- Ultra compact: base inclinée pour occuper moins despace autour du lavabo
 - Se démonte pour un nettoyage rapide
 - Hygiénique: leau sécoule dans la partie basse, le trou daération permet un séchage rapide
+- Ultra compact: base inclinée pour occuper moins despace autour du lavabo
+- Laver et sécher à la main
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071KGGKXJ/?tag=tolees0d-21)

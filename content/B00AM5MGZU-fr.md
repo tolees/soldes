@@ -28,9 +28,9 @@ C'est en vente [BLACK+DECKER - FACOM 200C.28 Manche pour Marteau d ajusteur �
 
 ℹ️:
 
+- Les dimensions du colis de larticle ( L x B x H) en cm : 32.4 x 32.4 x 34.02
 - Nombre de pièces : 1
 - Le poids du colis de larticle: 380 g
-- Les dimensions du colis de larticle ( L x B x H) en cm : 32.4 x 32.4 x 34.02
 - Manche en graphite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00AM5MGZU/?tag=tolees0d-21)
