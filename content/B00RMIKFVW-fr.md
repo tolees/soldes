@@ -28,11 +28,11 @@ Vous avez [Gillette Fusion 5 Proglide Power Lames de Rasoir Homme  Pack de 8 Lam
 
 ℹ️:
 
-- Le Micro-peigne aide à guider la barbe vers les lames
-- 1 recharge de lame de rasoir correspond à un mois de rasage
-- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
-- La bande Lubrastrip améliorée présente davantage d’agents lubrifiants (par rapport au Fusion5)
-- Compatibles avec tous les rasoirs Fusion5 et Fusion5 Power
 - Lames de rasoir Gillette dotées de 5 lames anti-friction, pour un rasage comme une caresse
+- Compatibles avec tous les rasoirs Fusion5 et Fusion5 Power
+- 1 recharge de lame de rasoir correspond à un mois de rasage
+- La bande Lubrastrip améliorée présente davantage d’agents lubrifiants (par rapport au Fusion5)
+- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
+- Le Micro-peigne aide à guider la barbe vers les lames
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RMIKFVW/?tag=tolees0d-21)
