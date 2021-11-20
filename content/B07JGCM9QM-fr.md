@@ -28,11 +28,11 @@ C'est en vente [Logitech G Saitek Ensemble pour Engins Agricoles  Volant à 900 
 
 ℹ️:
 
-- Compatibilité : Logitech G Saitek Farm Sim Controller est compatible avec Windows 10, 8.1 et 7 et MAC OS X 10.10 et nécessite un port USB 2.0
-- Compatibilité : Logitech G Saitek Farm Sim Controller est compatible avec Windows 10, 8.1 et 7 et MAC OS X 10.10 et nécessite un port USB 2.0
 - Récoltez les Fruits de votre Exploitation Agricole : l‘ensemble pour engins agricoles comprend un volant pour véhicule lourd, des pédales daccélération et de frein, un panneau de contrôle latéral
+- Retroussez vos Manches : le simulateur de ferme est équipé de sticks analogiques doubles intégrés avec boutons poussoirs pour une meilleure expérience de simulation
 - Commande du Chargeur pour tous les Axes : un panneau de contrôle latéral avec stick de chargeur et boutons programmables qui facilite lutilisation
 - Passez aux Choses Sérieuses : le volant à ressort du Logitech G Saitek Farm Simulator effectue des rotations à 900 degrés et permet de conduire toute machine agricole lourde
-- Retroussez vos Manches : le simulateur de ferme est équipé de sticks analogiques doubles intégrés avec boutons poussoirs pour une meilleure expérience de simulation
+- Compatibilité : Logitech G Saitek Farm Sim Controller est compatible avec Windows 10, 8.1 et 7 et MAC OS X 10.10 et nécessite un port USB 2.0
+- Compatibilité : Logitech G Saitek Farm Sim Controller est compatible avec Windows 10, 8.1 et 7 et MAC OS X 10.10 et nécessite un port USB 2.0
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JGCM9QM/?tag=tolees0d-21)
