@@ -28,13 +28,13 @@ Vous avez [Rowenta Brush Activ Premium Care Brosse soufflante rotative avec poil
 
 ℹ️:
 
-- POUR TOUTES LES LONGUEURS DE CHEVEUX : 2 brosses en céramique (50 mm et 40 mm) qui sadaptent aux types de cheveux : longs et épais ou mi-longs à courts
-- Réparabilité 10 ans, Garantie 2 ans
 - BRILLANCE ABSOLUE : revêtement Cashmere Keratin et huile dargan associé au générateur dions pour une chevelure lisse et brillante
-- DES CHEVEUX DOUX : lors du brushing, les poils naturels de la brosse rendent les cheveux doux et brillants
-- Température réglable: 25°C - 80°C
-- UN RESULTAT COMME CHEZ LE COIFFEUR : la brosse rotative reproduit les techniques professionnelles tout en séchant les cheveux pour un résultat digne dun salon de coiffure, chez soi
-- FACILE A UTILISER : la brosse tourne dans les deux sens pour un confort absolu lors du séchage et de la mise en forme
+- Réparabilité 10 ans, Garantie 2 ans
 - DES CHEVEUX LISSES ET SOUPLES : brosse soufflante rotative avec deux boosters dions optimisant la production dions pour réduire lélectricité statique
+- Température réglable: 25°C - 80°C
+- POUR TOUTES LES LONGUEURS DE CHEVEUX : 2 brosses en céramique (50 mm et 40 mm) qui sadaptent aux types de cheveux : longs et épais ou mi-longs à courts
+- DES CHEVEUX DOUX : lors du brushing, les poils naturels de la brosse rendent les cheveux doux et brillants
+- FACILE A UTILISER : la brosse tourne dans les deux sens pour un confort absolu lors du séchage et de la mise en forme
+- UN RESULTAT COMME CHEZ LE COIFFEUR : la brosse rotative reproduit les techniques professionnelles tout en séchant les cheveux pour un résultat digne dun salon de coiffure, chez soi
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XXGZRHF/?tag=tolees0d-21)

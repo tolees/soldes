@@ -28,9 +28,9 @@ Vous avez [Panasonic - Personalcare ER-GC63-H503 | Tondeuse cheveux - 40 hauteur
 
 ℹ️:
 
-- Deux accessoires de peigne (1-10mm) et (11-20mm)
 - Cette tondeuse cheveux a une tête entièrement lavable pour un entretien en toute simplicité.
-- Molette de réglage dès 0.5 mm : pour une coupe facile des cheveux à la longueur souhaitée, ajustez la hauteur de coupe à intervalle de 0.5 mm grâce à la molette centrale
 - Ajustement précis de la longueur : avec ses 40 hauteurs de coupe de 0.5 à 20 mm, la tondeuse ER-GC63 vous garantit une coupe précise et raffinée
+- Deux accessoires de peigne (1-10mm) et (11-20mm)
+- Molette de réglage dès 0.5 mm : pour une coupe facile des cheveux à la longueur souhaitée, ajustez la hauteur de coupe à intervalle de 0.5 mm grâce à la molette centrale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081HGFM6F/?tag=tolees0d-21)

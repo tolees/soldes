@@ -28,11 +28,11 @@ Vous avez [Warner Bros. Interactive Entertainment - Mortal Kombat 11: Standard E
 
 ℹ️:
 
-- Incarnez de nouveaux kombattants et retrouvez vos personnages klassiques préférés !
 - Vivez une expérience époustouflante et criante de réalisme grâce au nouveau moteur graphique qui vous plonge au cœur du kombat !
-- Les codes daccès à la BETA seront envoyés quelques heures avant le début de cette dernière
-- Personnalisez vos personnages à l’infini avec leurs nouvelles variantes et customisations
 - Mortal Kombat est de retour dans un nouvel épisode de la série emblématique, plus explosif que jamais !
 - Jouez au mode histoire inédit, qui fait suite à l’univers de la saga épique, commencée il y a plus de 25 ans !
+- Incarnez de nouveaux kombattants et retrouvez vos personnages klassiques préférés !
+- Les codes daccès à la BETA seront envoyés quelques heures avant le début de cette dernière
+- Personnalisez vos personnages à l’infini avec leurs nouvelles variantes et customisations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KZ4H8B6/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [PUMA Basic Men s Trunks  2 Pack  Boxer Court  True Blue  M  Lot 
 
 ℹ️:
 
+- Tissu doux au toucher
 - Ceinture élastique ultra-douce
 - Ceinture avec logo PUMA emblématique
-- Tissu doux au toucher
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089QMLJG9/?tag=tolees0d-21)

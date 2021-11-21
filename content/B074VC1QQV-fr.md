@@ -28,10 +28,10 @@ C'est en vente [SanDisk SDSQUAR-256G-GZFMN Carte mémoire micro SDHC/SDXC Class 
 
 ℹ️:
 
-- Idéale pour les smartphones et tablettes Android
+- Classe de vitesse UHS U1 et Classe 10 pour lenregistrement et la lecture vidéo Full HD
 - Une capacité pouvant atteindre 256 Go
 - Chargez les applications plus rapidement avec une classe de performance A1
-- Classe de vitesse UHS U1 et Classe 10 pour lenregistrement et la lecture vidéo Full HD
+- Idéale pour les smartphones et tablettes Android
 - Des vitesses de transfert allant jusquà 95 Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074VC1QQV/?tag=tolees0d-21)

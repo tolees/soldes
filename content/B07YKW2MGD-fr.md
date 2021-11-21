@@ -29,8 +29,8 @@ Vous avez [Esprit 990ee2k316 Polo  Bleu  Navy 400   Medium Homme](https://www.am
 ℹ️:
 
 - Piqué texturé en pur coton avec coton biologique
-- Col polo doux et contrasté avec bande intérieure rayée
 - De petits contrastes, ce polo basique en coton piqué apporte des effets particuliers.
+- Col polo doux et contrasté avec bande intérieure rayée
 - Coton biologique : coton issu de lagriculture biologique contrôlée
 - Barre à deux boutons
 

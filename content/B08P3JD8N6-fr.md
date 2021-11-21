@@ -29,7 +29,7 @@ Vous avez [MILESTONE - Monster Energy Supercross - The Official Videogame 4  Xbo
 ℹ️:
 
 - Inspiré par les paysages magnifiques des îles du maine, ce nouveau complexe est un endroit à explorer en solo ou avec 3 autres amis.
-- Libérez votre imagination et obtenez de meilleurs résultats en personnalisant les motos et les pilotes avec plus de 100 marques officielles !
 - Créez la piste parfaite avec le nouvel éditeur révolutionnaire. De nouvelle possibilités et une interface repensée sont les principales nouveautés
+- Libérez votre imagination et obtenez de meilleurs résultats en personnalisant les motos et les pilotes avec plus de 100 marques officielles !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08P3JD8N6/?tag=tolees0d-21)

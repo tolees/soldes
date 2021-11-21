@@ -28,8 +28,8 @@ Vous avez [Kenwood 26538A Bol Kenlyte Pour Robot Major 6 7 L](https://www.amazon
 
 ℹ️:
 
-- Permet denchaîner les préparations
 - Capacité : 6,7 l
 - Poids : 599 g
+- Permet denchaîner les préparations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0000BVBC2/?tag=tolees0d-21)

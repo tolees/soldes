@@ -28,10 +28,10 @@ C'est en vente [BaByliss Lisseur Pure Metal 2 in 1 avec technologie Ionique et p
 
 ℹ️:
 
+- Lisseur 2 in 1 avec des plaques incurvées pour des boucles ou un lissage facile
+- Système Advanced Ceramics pour une chauffe rapide et une chaleur constante sur chaque mèche
 - Les accessoires comprennent des repose-pouces amovibles et un tapis thermorésistant
 - 5 températures digitales de 150°C à 230°C pour renforcer la protection des cheveux
 - Plaques en diamant-céramique et technologie ionique anti-frisottis pour un résultat brillant
-- Système Advanced Ceramics pour une chauffe rapide et une chaleur constante sur chaque mèche
-- Lisseur 2 in 1 avec des plaques incurvées pour des boucles ou un lissage facile
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01L2K7SCY/?tag=tolees0d-21)

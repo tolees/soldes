@@ -28,9 +28,9 @@ C'est en vente [BLACK+DECKER - FACOM-200C.26 installateur Marteau graphite poign
 
 ℹ️:
 
-- Marteau dingénieur avec manche en graphite, forme française, 345g
 - Contenu : 1 pièce
 - matière absorbante
 - Un confort absolu
+- Marteau dingénieur avec manche en graphite, forme française, 345g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B008EQUC3W/?tag=tolees0d-21)

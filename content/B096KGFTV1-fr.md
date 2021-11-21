@@ -28,10 +28,10 @@ C'est en vente [Iam8bit - Spiritfarer  Nintendo Switch ](https://www.amazon.fr/d
 
 ℹ️:
 
-- la Navigatrice, une passeuse d’âmes, prend soin desprits en route vers lau-delà et se lient damitié avec eux et partage des instants privilégiés pendant la traversée
 - Vous pouvez également incarner Daffodil le chat pour une aventure en mode coopératif à deux joueurs, le tout dans de superbes animations et graphismes réalisés à la main
-- Explorez un monde imaginaire fantastique. Trouvez et collectez des ressources pour améliorer votre bateau et fabriquer des cadeaux pour vos passagers
-- Spiritfarer est un original et sublime jeu indé ayant pour thématique la mort, traitée de façon chaleureuse et positive, dans lequel les joueurs incarnent Stella, capitaine de navire pour les défunts
 - Construisez, gérez et améliorez votre bateau, cultivez, prospectez, pêchez, récoltez, cuisinez, tissez et fabriquez ce dont vous avez besoin
+- Spiritfarer est un original et sublime jeu indé ayant pour thématique la mort, traitée de façon chaleureuse et positive, dans lequel les joueurs incarnent Stella, capitaine de navire pour les défunts
+- Explorez un monde imaginaire fantastique. Trouvez et collectez des ressources pour améliorer votre bateau et fabriquer des cadeaux pour vos passagers
+- la Navigatrice, une passeuse d’âmes, prend soin desprits en route vers lau-delà et se lient damitié avec eux et partage des instants privilégiés pendant la traversée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B096KGFTV1/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Philips BEARDTRIMMER Series 7000 Barbier avec système d aspirat
 
 ℹ️:
 
-- Débit dair optimisé pour une coupe sans tracas
-- Jusquà 75 minutes dutilisation avec 1 heure de charge ou branchez-le
 - Tondeuse de précision à montage simple pour perfectionner les bords et les détails
 - 20 positions de longueur avec verrouillage de 0,5 à 10 mm, avec une précision de 0,5 mm
 - Lames métalliques auto-affûtables, précises même sans lubrification
+- Jusquà 75 minutes dutilisation avec 1 heure de charge ou branchez-le
+- Débit dair optimisé pour une coupe sans tracas
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GKM231R/?tag=tolees0d-21)

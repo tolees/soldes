@@ -28,8 +28,8 @@ C'est en vente [Séga - Sonic Mania Plus - PlayStation 4](https://www.amazon.fr/
 
 ℹ️:
 
-- Artbook de 32 pages
 - Jeu dans un fourreau holographique
 - Jaquette réversible SEGA Megadrive
+- Artbook de 32 pages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BQFVWKY/?tag=tolees0d-21)
