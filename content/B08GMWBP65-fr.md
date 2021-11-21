@@ -28,9 +28,9 @@ C'est en vente [Séga - PUYO PUYO TETRIS 2 Launch edition](https://www.amazon.fr
 
 ℹ️:
 
-- Une histoire de puzzle : Jouez en solo dans le mode aventure où vous attendent des personnages attachants et une toute nouvelle histoire
 - Des parties renversantes : Le nouveau mode combat de talents vous permet de choisir des personnages possédant des capacités uniques qui peuvent vous permettre de changer le cours d’une partie
-- Prêt pour la compétition ? Jouez jusqu’à quatre joueurs sur un même écran en local pour des parties de folies et mesurez-vous aux plus forts avec le jeu en ligne.
 - Survivez jusqu’au bout ! Défiez-vous en local ou en ligne dans des parties sans fin de Puyo Puyo ou de Tetris où la cadence s’accélèrera diaboliquement jusqu’à votre perte.
+- Une histoire de puzzle : Jouez en solo dans le mode aventure où vous attendent des personnages attachants et une toute nouvelle histoire
+- Prêt pour la compétition ? Jouez jusqu’à quatre joueurs sur un même écran en local pour des parties de folies et mesurez-vous aux plus forts avec le jeu en ligne.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GMWBP65/?tag=tolees0d-21)

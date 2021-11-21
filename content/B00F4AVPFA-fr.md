@@ -28,9 +28,9 @@ Vous avez [Calvin Klein CAROUSEL BIKINI  Sous-Vêtements Femme  Blanc  white 100
 
 ℹ️:
 
-- Séchage en machine à basse température
 - Lavage en machine, 30° max
 - Coton élastique
+- Séchage en machine à basse température
 - 90% coton, 10% élasthanne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F4AVPFA/?tag=tolees0d-21)

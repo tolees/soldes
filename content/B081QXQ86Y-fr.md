@@ -29,10 +29,10 @@ Vous avez [Razer Viper Ultimate - Souris de Jeu Esports  Souris Gamer ambidextre
 ℹ️:
 
 - Vitesse maximale: 650 IPS
-- Poids de 74 g - Conçue pour lsport
+- Durée de vie de la batterie de 70 heures pour jouer non-stop
 - Boutons optiques de souris Razer pour une activation à la vitesse de la lumière
+- Poids de 74 g - Conçue pour lsport
 - Technologie sans fil ultra rapide Razer hyper Speed plus rapide que les souris de jeu cblées
 - Capteur optique 20 K Razer Focus+ pour une précision hors norme
-- Durée de vie de la batterie de 70 heures pour jouer non-stop
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081QXQ86Y/?tag=tolees0d-21)

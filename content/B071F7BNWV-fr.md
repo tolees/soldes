@@ -28,9 +28,9 @@ C'est en vente [Star Wars - Assaut sur l Empire - Extension : Leia Organa - Asmo
 
 ℹ️:
 
-- Nombre de joueurs: 2 à 5 joueurs
-- Durée de jeu: 1 à 2 heures
 - Couleur: Multicolore
 - Age: a partir de 14 ans
+- Nombre de joueurs: 2 à 5 joueurs
+- Durée de jeu: 1 à 2 heures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071F7BNWV/?tag=tolees0d-21)

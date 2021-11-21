@@ -28,10 +28,10 @@ C'est en vente [Maximum Games - Mutant Year Zero Road to Eden Deluxe edition SWI
 
 ℹ️:
 
-- Maîtrisez l’approche d’infiltration : L’infiltration en temps réel vous permet de vous faufiler dans les camps des ennemis pour organiser des embuscades.
-- Contrôlez une équipe de mutants : Des animaux et autres mutants, ce ne sont pas des héros typiques !
 - Tactique de stratégie évoluée : Passez à volonté de l’exploration en temps réel à un système de combat puissant et tactique.
+- Contrôlez une équipe de mutants : Des animaux et autres mutants, ce ne sont pas des héros typiques !
 - Débloquez des mutations : Modelez vos personnages en leur donnant des mutations uniques comme de la peau pierre, des ailes de papillon, un corps de zombie…
+- Maîtrisez l’approche d’infiltration : L’infiltration en temps réel vous permet de vous faufiler dans les camps des ennemis pour organiser des embuscades.
 - Explorez une Terre post-humaine : Parcourez un monde de villes abandonnées et une campagne broussailleuse alors que vous démêlez l’histoire de ce qui vient de se passer sur terre.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q7QYRJJ/?tag=tolees0d-21)

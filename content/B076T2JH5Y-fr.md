@@ -28,10 +28,10 @@ C'est en vente [Amefa Carlton - Ménagère 24 pièces](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Acier Inox 18/0, manche forgé
-- 6 fourchettes de table, 6 couteaux de table, 6 cuillères de table et 6 cuillères à café
 - Couverts Inox
+- Acier Inox 18/0, manche forgé
 - Finition brillante
+- 6 fourchettes de table, 6 couteaux de table, 6 cuillères de table et 6 cuillères à café
 - Fourchette table : 19.7 cm ; Cuillère table : 19.6 cm ; Cuillère café : 14.2 cm ; Couteau table : 20.8 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076T2JH5Y/?tag=tolees0d-21)

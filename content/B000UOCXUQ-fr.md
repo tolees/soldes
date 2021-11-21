@@ -28,17 +28,17 @@ Vous avez [Pyrex 1040909 Bake & Enjoy Moule à Tarte en verre Ø 31 cm](https://
 
 ℹ️:
 
-- Verre borosilicate : résistant aux chocs thermiques : de -40° jusquà 300° + idéal cuisson homogène
 - Vous pouvez déposer votre plat au congélateur, four, lave-vaisselle ainsi quau micro-onde
+- Les rebords sont ondulés pour maintenir au mieux les bords de la tarte : on adore !
+- Découvrez le plaisir de la transparence avec ce plat à pâtisserie adaptée à toutes les gourmandises
 - Matériau hygiénique résistant aux rayures - Dimensions : 31x31 cm - Contenance : 1.8 L
 - Verre borosilicate : résistant aux chocs thermiques : de -40° jusquà 300° + idéal cuisson homogène
+- Verre borosilicate : résistant aux chocs thermiques : de -40° jusquà 300° + idéal cuisson homogène
+- Matériau hygiénique résistant aux rayures - Dimensions : 31x31 cm - Contenance : 1.8 L
+- Les rebords sont ondulés pour maintenir au mieux les bords de la tarte : on adore !
+- Découvrez le plaisir de la transparence avec ce plat à pâtisserie adaptée à toutes les gourmandises
 - Revêtement de surface: Antiadhésif
-- Vous pouvez déposer votre plat au congélateur, four, lave-vaisselle ainsi quau micro-onde
-- Les rebords sont ondulés pour maintenir au mieux les bords de la tarte : on adore !
-- Découvrez le plaisir de la transparence avec ce plat à pâtisserie adaptée à toutes les gourmandises
-- Matériau hygiénique résistant aux rayures - Dimensions : 31x31 cm - Contenance : 1.8 L
-- Les rebords sont ondulés pour maintenir au mieux les bords de la tarte : on adore !
-- Découvrez le plaisir de la transparence avec ce plat à pâtisserie adaptée à toutes les gourmandises
 - Choc thermique : 220° C
+- Vous pouvez déposer votre plat au congélateur, four, lave-vaisselle ainsi quau micro-onde
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000UOCXUQ/?tag=tolees0d-21)
