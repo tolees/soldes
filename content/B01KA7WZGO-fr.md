@@ -28,10 +28,10 @@ C'est en vente [Humidificateur d Air Eva par Stadler Form  Humidificateur d Air 
 
 ℹ️:
 
-- MANIPULATION PRATIQUE : grâce à la technologie ultrasonique, lappareil souffle la brume haut dans la pièce et utilise un capteur externe pour une humidification précise. Le capteur sert également de télécommande et rend la manipulation très pratique
 - HUMIDIFICATEUR SENSIBLE : Eva dispose dune fonction spéciale, car en mode Auto, grâce à la technologie Adaptive Humidity Technology, elle ajuste automatiquement le niveau dhumidification pour atteindre et maintenir le niveau dhumidité souhaité de manière silencieuse et efficace
-- EVA EST SILENCIEUSE ET DIFFUSE VOTRE PARFUM PRÉFÉRÉ : en mode nuit, les LEDs peuvent être éteintes ou tamisées et pour parfaire la sensation de bien-être, Eva peut diffuser un agréable parfum dambiance avec une huile parfumée de votre choix
 - LA PUISSANCE ABSOLUE : lhumidificateur dair à ultrasons dispose dun système de préchauffage de leau réglable qui non seulement augmente la puissance dhumidification, mais émet également une agréable brume chaude ou froide - cinq niveaux dhumidification et une humidité réglable de 30 à 75% permettent un réglage flexible de lhumidité de la pièce
+- MANIPULATION PRATIQUE : grâce à la technologie ultrasonique, lappareil souffle la brume haut dans la pièce et utilise un capteur externe pour une humidification précise. Le capteur sert également de télécommande et rend la manipulation très pratique
 - CONTENU DE LA LIVRAISON : 1 x humidificateur Eva en noir avec mode demploi, 1x Water Cube, 1x cartouche anti-calcaire, 1x des bandelettes de test de dureté de leau et une télécommande Stadler Form.
+- EVA EST SILENCIEUSE ET DIFFUSE VOTRE PARFUM PRÉFÉRÉ : en mode nuit, les LEDs peuvent être éteintes ou tamisées et pour parfaire la sensation de bien-être, Eva peut diffuser un agréable parfum dambiance avec une huile parfumée de votre choix
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KA7WZGO/?tag=tolees0d-21)
