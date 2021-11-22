@@ -28,8 +28,8 @@ C'est en vente [Liqui Moly 3312 Graisse au silicone 100g transparent](https://ww
 
 ℹ️:
 
-- Agent de démoulage, lubrifiant et auxiliaire de traitement et de protection
-- Pour les plastiques, le caoutchouc, le métal et le bois
 - Contenu: 100g
+- Pour les plastiques, le caoutchouc, le métal et le bois
+- Agent de démoulage, lubrifiant et auxiliaire de traitement et de protection
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00295DBQE/?tag=tolees0d-21)

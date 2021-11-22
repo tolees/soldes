@@ -28,10 +28,10 @@ C'est en vente [THQ NORDIC - Chicken Police: Paint it Red!  Nintendo Switch ](ht
 
 ℹ️:
 
-- Sonny featherland et marty macchicken étaient autrefois un duo de détectives légendaire, appelé chicken police. Mais cétait il y a presque 10 ans et le temps les a impitoyablement marqués
-- Chicken police a un style visuel époustouflant réalisé avec lutilisation de vraies photos et darrière-plans 3D photo-réalistes, inspiré des films noirs classiques !
-- Collectez des tonnes dindices, de preuves et des informations personnelles très sensibles auprès des personnages louches de clawville pour les utiliser impitoyablement contre eux !
-- Maintenant, sonny et marty sont obligés de travailler ensemble sur un cas plus étrange que tout ce qu’ils n’ont jamais rencontré auparavant !
 - Chicken police est un jeu riche en histoires et en dialogues combinant des éléments de visual novel et de jeux daventure classiques.
+- Chicken police a un style visuel époustouflant réalisé avec lutilisation de vraies photos et darrière-plans 3D photo-réalistes, inspiré des films noirs classiques !
+- Sonny featherland et marty macchicken étaient autrefois un duo de détectives légendaire, appelé chicken police. Mais cétait il y a presque 10 ans et le temps les a impitoyablement marqués
+- Maintenant, sonny et marty sont obligés de travailler ensemble sur un cas plus étrange que tout ce qu’ils n’ont jamais rencontré auparavant !
+- Collectez des tonnes dindices, de preuves et des informations personnelles très sensibles auprès des personnages louches de clawville pour les utiliser impitoyablement contre eux !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B092F6FZ5R/?tag=tolees0d-21)
