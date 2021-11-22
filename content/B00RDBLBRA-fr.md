@@ -28,10 +28,10 @@ Vous avez [ECCO Soft 7 M Black Droid  Baskets Basse Homme  Noir  1001   39 EU](h
 
 ℹ️:
 
-- Semelle : caoutchouc
+- Intérieur : textile
 - Matériau extérieur : cuir
 - Talon plat
 - Fermeture : lacets
-- Intérieur : textile
+- Semelle : caoutchouc
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RDBLBRA/?tag=tolees0d-21)

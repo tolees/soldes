@@ -28,17 +28,17 @@ Vous avez [Steinel Gluematic 3002 - Pistolet à colle chaude avec température d
 
 ℹ️:
 
-- Commande électronique de la température
-- 7 min durée de préchauffage, température de fusion de 206 ºC et 16 g/min débit de colle
-- Avantages du produit: Débit de colle élevé de 16 g/min et buses interchangeables
 - Buse interchangeable
+- Niveau de fusion élevé
+- Commande électronique de la température
+- Le pistolet à colle chaude à réglage électronique Gluematic 3002 est idéal pour les travaux ménagers, pour les loisirs et lartisanat en offrant une forte puissance de fusion à un prix avantageux
+- Commande électronique de la température grâce à la technique de chauffe PTC moderne.
+- Dosage parfait de la colle par avance mécanique
+- Avantages du produit: Débit de colle élevé de 16 g/min et buses interchangeables
 - Puissance : phase de repos 16 W, phase de chauffage 200 W, phase de travail 45 W
-- Débit de fusion très élevé
 - La simplicité dutilisation fait de cet appareil le choix idéal pour toute la famille et pour maîtriser de nombreuses tâches ménagères
 - Boîte carton comprenant 3 bâtons de colle inclus
-- Niveau de fusion élevé
-- Dosage parfait de la colle par avance mécanique
-- Commande électronique de la température grâce à la technique de chauffe PTC moderne.
-- Le pistolet à colle chaude à réglage électronique Gluematic 3002 est idéal pour les travaux ménagers, pour les loisirs et lartisanat en offrant une forte puissance de fusion à un prix avantageux
+- 7 min durée de préchauffage, température de fusion de 206 ºC et 16 g/min débit de colle
+- Débit de fusion très élevé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000UXBMZ4/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Gran Turismo Sport - PlayStation Hits  Version physique  En français
 
 ℹ️:
 
-- Deux modes principaux : un mode jeu pour des compétitions en ligne avec des joueurs du même niveau et des championnants reconnus par la FIA et un mode campagne solo palpitant pour une série de coupes classiques et des courses dendurance dans les tournois populaires comme la Sunday Cup, la Clubman Cup et le Défi FF
+- Contenu de la livraison : 1 x Jeu Gran Turismo Sport sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français, Art. : 9965701
 - Caractéristiques : Entrée du jeu Gran Turismo Sport dans la gamme PS Hits, Version physique, 1 à 2 joueurs, Version audio et sous-titrée français et anglais
 - Compatible avec les consoles PS4, PS4 Pro pour une expérience de jeu plus intense et optimisée, PS VR et avec PlayStation Camera pour une immersion dans un jeu de course unique, Mise à jour constante du jeu pour pleins de nouveautés
+- Deux modes principaux : un mode jeu pour des compétitions en ligne avec des joueurs du même niveau et des championnants reconnus par la FIA et un mode campagne solo palpitant pour une série de coupes classiques et des courses dendurance dans les tournois populaires comme la Sunday Cup, la Clubman Cup et le Défi FF
 - Jeu de simulation automobile Gran Turismo Sport sur PlayStation 4, Pour des courses exceptionnelles au volant des plus belles voitures reconnu par la FIA, Pour les fans de jeux de courses et de sport auto
-- Contenu de la livraison : 1 x Jeu Gran Turismo Sport sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français, Art. : 9965701
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21)

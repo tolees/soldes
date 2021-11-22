@@ -28,10 +28,10 @@ Vous avez [Garmin - Swim 2 Blanche](https://www.amazon.fr/dp/B07W2YQ4LN/?tag=tol
 
 ℹ️:
 
-- Fonctions natation dédiées
-- Multisports
 - Ecran couleur 1 HD
 - Cardio poignet Garmin Elevate TM (fonctionne dans leau)
 - Accéléromètre et vibrations intégrés
+- Multisports
+- Fonctions natation dédiées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W2YQ4LN/?tag=tolees0d-21)

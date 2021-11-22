@@ -28,10 +28,10 @@ C'est en vente [Neato Robotics Neato Performance Lot de 4 filtres Ultra Normal  
 
 ℹ️:
 
-- Avec un nouveau design de loquet, le filtre est facile à installer et à enlever, il suffit de le mettre et de le retirer - Nous vous recommandons de nettoyer régulièrement les filtres daspirateur et de les remplacer tous les 1 à 2 mois, selon la fréquence de nettoyage du robot et la quantité de sol quil couvre
 - Le design plissé permet une plus grande surface de filtrage sans sacrifier laspiration sous vide
-- Couleur : noir
 - Le filtre HEPA utilise un matériau HEPA E12
 - Filtre HEPA pour aspirateur jusquà 99. 5 % de particules atmosphériques 0. 3 microns de diamètre
+- Couleur : noir
+- Avec un nouveau design de loquet, le filtre est facile à installer et à enlever, il suffit de le mettre et de le retirer - Nous vous recommandons de nettoyer régulièrement les filtres daspirateur et de les remplacer tous les 1 à 2 mois, selon la fréquence de nettoyage du robot et la quantité de sol quil couvre
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WP6BN1Q/?tag=tolees0d-21)

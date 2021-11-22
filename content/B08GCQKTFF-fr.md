@@ -29,9 +29,9 @@ Vous avez [Razer™ BlackWidow V3 Pro Mechanical Gaming Keyboard Green Switch Fr
 ℹ️:
 
 - Logement de switch transparent pour un éclairage Razer Chroma RGB plus vif: Sa conception totalement transparente souligne la luminosité et les capacités de Razer Chroma RGB, des personnalisations d’éclairage intense à une meilleure immersion, car il réagit dynamiquement avec plus de 150 jeux intégrés.
-- Touches en ABS à double injection pour une meilleure résistance à un usage intensif: Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent jamais, les touches ont également des parois extra épaisses qui les rendent extrêmement résistants aux pressions répétées.
-- SWITCHS MECANIQUES VERTS RAZER POUR UNE EXECUTION PRECISE ET UNE SENSATION TACTILE ET SONORE: Entendez et ressentez le retour satisfaisant de chaque frappe grâce à une mécanique optimisée pour le jeu : les touches classiques, pleine hauteur, ne compromettent pas l’expérience de la frappe.
 - Bouton numérique multifonction et 4 touches multimédias pour un contrôle pratique: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant.
 - TECHNOLOGIE RAZER HYPERSPEED WIRELESS POUR JOUER SANS FIL ET SANS LATENCE: Optez pour une performance sans fil parfaite pour les jeux, ou connectez jusqu’à trois appareils en Bluetooth, et passez facilement de l’un à l’autre avec un seul bouton. Comprend un câble USB-C amovible pour le chargement en cours d’utilisation.
+- SWITCHS MECANIQUES VERTS RAZER POUR UNE EXECUTION PRECISE ET UNE SENSATION TACTILE ET SONORE: Entendez et ressentez le retour satisfaisant de chaque frappe grâce à une mécanique optimisée pour le jeu : les touches classiques, pleine hauteur, ne compromettent pas l’expérience de la frappe.
+- Touches en ABS à double injection pour une meilleure résistance à un usage intensif: Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent jamais, les touches ont également des parois extra épaisses qui les rendent extrêmement résistants aux pressions répétées.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GCQKTFF/?tag=tolees0d-21)
