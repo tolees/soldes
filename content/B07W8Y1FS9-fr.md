@@ -28,15 +28,15 @@ C'est en vente [LEGO 60242 City La Course-Poursuite sur l autoroute  2 Jouets Vo
 
 ℹ️:
 
-- Lorsquelle est construite, la voiture de police de Duke mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large, tandis que la voiture décapotable de Vito mesure plus de 3 cm de haut, 11 cm de long et 5 cm de large.
-- Offrez aux jeunes lexcitation des courses-poursuites LEGO City pleines d’action avec ce passionnant set de police (60242) conçu pour inspirer le jeu de rôle imaginatif infini à partir de scénarios réalistes.
-- Ce set de police est fourni avec un guide de construction imprimé et Instructions PLUS, un guide de construction interactif qui aide les constructeurs en herbe à devenir des maîtres constructeurs ! Disponible dans lappli gratuite LEGO Life pour les appareils intelligents.
 - Les enfants peuvent combiner les personnages et les voitures de ce set à dautres sets de jeu LEGO originaux afin de réaliser leurs propres créations uniques pour y jouer ou les exposer.
-- Au sein du groupe LEGO, nous laissons tomber, pressons, tordons, chauffons, rayons et étirons les briques de construction LEGO City pour nous assurer que chaque set respecte les normes de qualité et de sécurité les plus élevées au monde.
 - Ce jouet de construction plein daction constitue un formidable cadeau de Noël, danniversaire ou autre pour les garçons et les filles âgés de 5 ans et plus qui adorent le jeu dimagination. Nécessite uniquement des compétences très élémentaires en construction.
-- Tous les sets de jeu LEGO City sont conformes aux normes industrielles les plus élevées, ce qui garantit que ces jouets amusants pour enfants s’assemblent et se séparent toujours facilement.
+- Ce set de police est fourni avec un guide de construction imprimé et Instructions PLUS, un guide de construction interactif qui aide les constructeurs en herbe à devenir des maîtres constructeurs ! Disponible dans lappli gratuite LEGO Life pour les appareils intelligents.
+- Offrez aux jeunes lexcitation des courses-poursuites LEGO City pleines d’action avec ce passionnant set de police (60242) conçu pour inspirer le jeu de rôle imaginatif infini à partir de scénarios réalistes.
 - Pas besoin de piles ! Ce jouet fascinant fonctionne grâce à limagination des enfants, donc le jeu peut commencer immédiatement !
+- Tous les sets de jeu LEGO City sont conformes aux normes industrielles les plus élevées, ce qui garantit que ces jouets amusants pour enfants s’assemblent et se séparent toujours facilement.
 - Avec les figurines Vito, le voleur, et Duke DeTain, le chef de la police et héros télévisé de LEGO City, une voiture de police fascinante, une voiture de sport dévasion, ainsi quun coffre-fort volé et une caisse de poissons, le décor est planté pour une course-poursuite amusante et délirante !
 - Les sets LEGO City Police sont fournis avec des constructions riches en fonctionnalités, des véhicules fascinants et des personnages amusants qui stimulent le jeu de rôle imaginatif, les enfants créant des aventures infinies dans des décors urbains réalistes.
+- Au sein du groupe LEGO, nous laissons tomber, pressons, tordons, chauffons, rayons et étirons les briques de construction LEGO City pour nous assurer que chaque set respecte les normes de qualité et de sécurité les plus élevées au monde.
+- Lorsquelle est construite, la voiture de police de Duke mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large, tandis que la voiture décapotable de Vito mesure plus de 3 cm de haut, 11 cm de long et 5 cm de large.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W8Y1FS9/?tag=tolees0d-21)

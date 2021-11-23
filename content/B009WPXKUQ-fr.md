@@ -30,7 +30,7 @@ C'est en vente [Trixie Cat Activity Chargeur de Tunnel  pour Chats  Multicolore 
 
 - Peut également être utilisé pour lalimentation quotidienne avec de la nourriture sèche
 - La nourriture tombe du récipient dans 6 tubes différents -ø 28 cm / 14 cm
-- sortie réglable
 - Exercice physique et stimulation mentale
+- sortie réglable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009WPXKUQ/?tag=tolees0d-21)

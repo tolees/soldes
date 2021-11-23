@@ -28,7 +28,7 @@ C'est en vente [Electronic Arts - Sims 4](https://www.amazon.fr/dp/B0749TBKFJ/?t
 
 ℹ️:
 
-- Electronic Arts
 - 2 ans
+- Electronic Arts
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0749TBKFJ/?tag=tolees0d-21)
