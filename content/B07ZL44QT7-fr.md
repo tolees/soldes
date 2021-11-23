@@ -28,11 +28,11 @@ C'est en vente [Maxi-Cosi AxissFix i-Size  Siège Auto Pivotant pour Petit  ISOF
 
 ℹ️:
 
-- Siège auto rotatif ultra sécuritaire conforme aux normes i-Size (R129) permettant d’installer votre enfant en position dos à route plus longtemps, tout en offrant une protection accrue en cas de collision latérale
+- L’indicateur de hauteur vous informe quand il est lâge de passer de la position dos à la route en position face à la route, pas derreur possible
+- Siège auto pivotant à 360° pour installer et sortir facilement l’enfant de la voiture
 - Housse lavable
 - Siège auto évolutif, réglage simultané du harnais et de l’appuie-tête pour un parfait confort à chaque trajet jusqu’à 4 ans
+- Siège auto rotatif ultra sécuritaire conforme aux normes i-Size (R129) permettant d’installer votre enfant en position dos à route plus longtemps, tout en offrant une protection accrue en cas de collision latérale
 - Axissfix est un siège auto Isofix , convient pour utilisation de 4 mois à 4 ans environ (de 61 à 105 cm)
-- Siège auto pivotant à 360° pour installer et sortir facilement l’enfant de la voiture
-- L’indicateur de hauteur vous informe quand il est lâge de passer de la position dos à la route en position face à la route, pas derreur possible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZL44QT7/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ C'est en vente [Bormioli 128756-V42 Kaleido Verre A Eau 24 CL Set 6  Autre  Tran
 
 ℹ️:
 
-- Couleur : Transparent
 - Matière : Autre
+- Couleur : Transparent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AFRSO9Q/?tag=tolees0d-21)

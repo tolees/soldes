@@ -28,13 +28,13 @@ C'est en vente [Thrustmaster T300RS GT  Volant de Course et 3 Pédales  PS4 et P
 
 ℹ️:
 
-- Compatible avec les leviers de vitesses et freins à mains Thrustmaster TH8A et TSS Handbrake vendus séparément
-- Technologie Magnétique propriétaire (H.E.A.R.T) pour durée de vie illimitée et une précision optimale
-- Système de Changement de Volant simple et rapide pour exploiter différents univers de course
 - Système de Double Courroie pour des sessions de jeux fluides et sans zones mortes
 - Inclut un pédalier 3 pédales T3PAGT et est compatible avec le pédalier T-LCM Pedals vendu séparément
-- Sous licence officielle PlayStation et Gran Turismo, compatible PS4 et PC
-- Moteur Sans Balais Véloce d’une puissance de 25 Watts pour un retour de force réactif et réaliste
 - Fonctionne avec les jeux PS5
+- Compatible avec les leviers de vitesses et freins à mains Thrustmaster TH8A et TSS Handbrake vendus séparément
+- Moteur Sans Balais Véloce d’une puissance de 25 Watts pour un retour de force réactif et réaliste
+- Système de Changement de Volant simple et rapide pour exploiter différents univers de course
+- Sous licence officielle PlayStation et Gran Turismo, compatible PS4 et PC
+- Technologie Magnétique propriétaire (H.E.A.R.T) pour durée de vie illimitée et une précision optimale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HRYFODO/?tag=tolees0d-21)
