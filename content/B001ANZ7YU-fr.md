@@ -28,11 +28,11 @@ C'est en vente [Pentel Maxiflo Brosse + 4 Marqueurs à pointe conique moyenne No
 
 ℹ️:
 
-- Encre liquide aux couleurs intenses
-- Marqueurs effaçable à sec sur tableau blanc, sans laisser de trace
 - Pointe conique moyenne de 4mm
-- Sans xylène ni toluène
 - Bouton poussoir pour réencrer la pointe à tout moment
+- Encre liquide aux couleurs intenses
 - Brosse pour tableau blanc équipée de 4 marqueurs Maxiflo
+- Marqueurs effaçable à sec sur tableau blanc, sans laisser de trace
+- Sans xylène ni toluène
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001ANZ7YU/?tag=tolees0d-21)
