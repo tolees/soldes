@@ -30,8 +30,8 @@ Vous avez [Western Digital - WD My Passport SSD 2 To - Disque SSD externe avec t
 
 - Design élégant et compact, Compatibilité croisée avec USB 3.2 Gén. 2 et USB-C (USB-A pour les systèmes plus anciens)
 - Technologie NVMe rapide comme léclair avec des vitesses pouvant atteindre 1050 Mo/s en lecture et 1000 Mo/s en écriture
-- Cryptage matériel AES 256 bits par mot de passe
-- Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
 - Sauvegarde facile
+- Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
+- Cryptage matériel AES 256 bits par mot de passe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HDLYM8P/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Playstation - InFamous: Second Son HITS](https://www.amazon.fr/d
 
 ℹ️:
 
-- Une fidèle reproduction de Seattle : explorez des environnements hautement détaillés (lumières, ombres, météo etc.)
-- Incarnez un nouveau héros doté d’une panoplie de superpouvoirs (feu, électricité etc.)
-- Des animations bien plus riches et des graphismes bien plus détaillés
 - Karma reboot : vos décisions auront un impact sur le destin des personnes que vous rencontrerez et sur l’histoire du jeu
 - Un nouveau système de contrôle et de navigation grâce à la DS4
+- Incarnez un nouveau héros doté d’une panoplie de superpouvoirs (feu, électricité etc.)
+- Une fidèle reproduction de Seattle : explorez des environnements hautement détaillés (lumières, ombres, météo etc.)
+- Des animations bien plus riches et des graphismes bien plus détaillés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21)

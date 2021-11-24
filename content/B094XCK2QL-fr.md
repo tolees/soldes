@@ -28,8 +28,8 @@ Vous avez [Electronic Arts - Star Wars Jedi Fallen Order  PlayStation 5 ](https:
 
 ℹ️:
 
-- Ancien padawan fuyant l’empire, vous devrez terminer votre entraînement avant que les inquisiteurs impériaux ne découvrent vos plans pour rétablir l’ordre jedi
 - Forêts séculaires, falaises balayées par les vents ou encore jungles surnaturelles sont autant d’écosystèmes uniques en leur genre que vous pourrez explorer sans limites dans jedi: fallen order
+- Ancien padawan fuyant l’empire, vous devrez terminer votre entraînement avant que les inquisiteurs impériaux ne découvrent vos plans pour rétablir l’ordre jedi
 - Devenir un jedi n’est plus un rêve inaccessible avec jedi fallen order.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B094XCK2QL/?tag=tolees0d-21)

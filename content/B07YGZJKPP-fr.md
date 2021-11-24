@@ -29,9 +29,9 @@ C'est en vente [Joseph Joseph 10537 Piece Knife Set with Ceramic Sharpener-Black
 ℹ️:
 
 - La technologie Elevate permet davoir une cuisine plus propre et mieux rangée
-- Aiguiseur en céramique à 2 modules amovible, logé dans la base
-- Lames en inox japonais
-- Les manches lestés avec reposoir intégré permettent aux lames de ne pas toucher le plan de travail lorsquon pose les couteaux
 - Bloc compact avec fentes pour ranger et extraire facilement les couteaux
+- Aiguiseur en céramique à 2 modules amovible, logé dans la base
+- Les manches lestés avec reposoir intégré permettent aux lames de ne pas toucher le plan de travail lorsquon pose les couteaux
+- Lames en inox japonais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YGZJKPP/?tag=tolees0d-21)

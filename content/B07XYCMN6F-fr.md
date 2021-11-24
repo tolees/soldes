@@ -28,11 +28,11 @@ Vous avez [LG Electronics - LG UltraGear 27GL63T-B  Moniteur Gaming IPS Full HD 
 
 ℹ️:
 
-- Temps de réponse 1ms, Fréquence 144Hz
 - Luminosité: 320cd (typ) / 400cd (Min)
-- Moniteur 16:9 Full HD IPS 27 (1920x1080)
+- Temps de réponse 1ms, Fréquence 144Hz
 - Connectiques HDMI et Display Port
 - AMD FreeSync, NVIDIA Gsync Compatible
 - HDR 10, Ajustable Hauteur et Pivotable
+- Moniteur 16:9 Full HD IPS 27 (1920x1080)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XYCMN6F/?tag=tolees0d-21)

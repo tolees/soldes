@@ -28,10 +28,10 @@ C'est en vente [Crucial RAM CT8G4SFRA32A 8Go DDR4 3200MHz CL22  ou 2933MHz ou 26
 
 ℹ️:
 
-- Type ECC=Non-ECC, Facteur de forme=SODIMM, Nombre de broches=260 broches, Vitesse PC=PC4-25600, Tension=1,2V, Rang et Configuration=1Rx16, 1Rx8 ou 2Rx8
-- Installation facile: aucune compétence informatique requise. Guides pratiques disponibles sur le site de Crucial
+- La qualité et la fiabilité de Micron reposent sur des tests avancés au niveau du composant et du module, mais également sur 42 années d’expertise en matière de mémoire
 - La RAM à 3200MHz peut être downclockée à 2933MHz ou 2666MHz si les spécifications du système ne prennent en charge que 2933MHz ou 2666MHz
 - Améliorez la réactivité de votre système, lancez vos applications plus rapidement et faites du multi-tâche en toute simplicité
-- La qualité et la fiabilité de Micron reposent sur des tests avancés au niveau du composant et du module, mais également sur 42 années d’expertise en matière de mémoire
+- Type ECC=Non-ECC, Facteur de forme=SODIMM, Nombre de broches=260 broches, Vitesse PC=PC4-25600, Tension=1,2V, Rang et Configuration=1Rx16, 1Rx8 ou 2Rx8
+- Installation facile: aucune compétence informatique requise. Guides pratiques disponibles sur le site de Crucial
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C4Z69LN/?tag=tolees0d-21)

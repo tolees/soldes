@@ -28,10 +28,10 @@ Vous avez [BED HEAD by TIGI - Tigi Bed Head - Duo Soin du Cheveux - Shampooing +
 
 ℹ️:
 
-- L’après-shampooing hydrate, revitalise, lisse et adoucit les cheveux.
-- Ce shampooing nettoyant et hydratant élimine la saleté et les impuretés des cheveux tout en les hydratant.
 - Shampooing hydratant et après-shampooing professionnel pour cheveux secs
+- L’après-shampooing hydrate, revitalise, lisse et adoucit les cheveux.
 - Le pack shampooing et après-shampooing Tigi Bed Head Urban Antidotes Recovery contient un shampooing de 750 ml et un après-shampooing de 750 ml.
+- Ce shampooing nettoyant et hydratant élimine la saleté et les impuretés des cheveux tout en les hydratant.
 - Idéal pour les cheveux secs et endommagés, sans danger pour les colorations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AYXV5W0/?tag=tolees0d-21)
