@@ -28,10 +28,10 @@ Vous avez [Sony PlayStation Plus  Carte d’abonnement de 12 mois  Code jeu à t
 
 ℹ️:
 
-- Accès prioritaire au lancement de démos et versions bêta publiques, Autres avantages à découvrir sur votre espace abonné Hubs PS Plus
-- Contenu : 1 Carte dabonnement de 12 mois à PlayStation Plus, 1 Code à télécharger, Compte France, Disponible également en abonnement de 1 et 3 mois
 - 2 jeux PS4 à télécharger sans frais chaque mois, Option Share Play pour partager vos parties en cours, 100 Go de stockage sur cloud disponible sur chaque système
 - 12 mois d’abonnement à PS Plus, Service d’abonnement premium de PlayStation pour booster votre système PS4 et votre compte PlayStation Network
 - Pour profiter du mode multijoueur en ligne et bénéficier en exclusivité des meilleures remises disponibles sur le PlayStation Store
+- Contenu : 1 Carte dabonnement de 12 mois à PlayStation Plus, 1 Code à télécharger, Compte France, Disponible également en abonnement de 1 et 3 mois
+- Accès prioritaire au lancement de démos et versions bêta publiques, Autres avantages à découvrir sur votre espace abonné Hubs PS Plus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00I3P3AL0/?tag=tolees0d-21)
