@@ -28,10 +28,10 @@ Vous avez [Skybound Games - Sayonara Wild Hearts  Nintendo Switch ](https://www.
 
 ℹ️:
 
-- Sayonara wild hearts est le "jeu vidéo d’album pop" Ultime, vainqueur des british academy game awards pour la réalisation artistique et raconté par queen latifah en personne
-- Foncez sur une bande-son pop incroyable, relevez des défis et restaurez lharmonie de lunivers, cachée dans le cœur de little death et de ses sbires
-- Un jeu d’arcade onirique mêlant courses de motos au rythme effréné, battles de danse baignées de fluorescence, tirs laser, maniement de l’épée et cœurs brisés à 300 km/h
 - Une jeune femme au cœur brisé met en péril léquilibre de lunivers. Lancée sur lautoroute céleste, lattend son double: une bikeuse masquée nommée the fool
 - Vous êtes la star de votre propre clip vidéo, il faudra restaurer lharmonie dans lunivers lors de votre voyage vers le ciel
+- Sayonara wild hearts est le "jeu vidéo d’album pop" Ultime, vainqueur des british academy game awards pour la réalisation artistique et raconté par queen latifah en personne
+- Un jeu d’arcade onirique mêlant courses de motos au rythme effréné, battles de danse baignées de fluorescence, tirs laser, maniement de l’épée et cœurs brisés à 300 km/h
+- Foncez sur une bande-son pop incroyable, relevez des défis et restaurez lharmonie de lunivers, cachée dans le cœur de little death et de ses sbires
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CYKPMXY/?tag=tolees0d-21)
