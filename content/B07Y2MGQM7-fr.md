@@ -28,12 +28,12 @@ C'est en vente [Corsair HS70 PRO Wireless Casque de Gaming Son surround 7.1  San
 
 ℹ️:
 
-- Léger et durable : Le poids léger et la conception durable du HS70 PRO avec une armature en aluminium confèrent au casque une longévité de plusieurs années
-- Élaboré pour le confort : Les oreillettes ajustables rembourrées de mousse à mémoire de forme offrent un confort idéal pendant des heures de gameplay Sensibilité du casque: 111dB (+/3dB)
-- Liberté du sans-fil : Portée pouvant atteindre 12 mètres et jusqu’à 16 heures d’autonomie ; n’interrompez jamais votre gaming grâce à la capacité de brancher
-- Microphone unidirectionnel antibruit : Un microphone entièrement amovible réduit le bruit ambiant pour garantir une excellente clarté vocale
-- Idéale qualité sonore : Les transducteurs audio en néodyme de 50 mm personnalisés ont une gamme couvrant tous les sons à ne pas manquer sur le champ de bataille
 - Son surround 71 immersif : Crée une expérience audio multicanale sur l’ordinateur qui vous place au coeur de l’action
+- Microphone unidirectionnel antibruit : Un microphone entièrement amovible réduit le bruit ambiant pour garantir une excellente clarté vocale
+- Léger et durable : Le poids léger et la conception durable du HS70 PRO avec une armature en aluminium confèrent au casque une longévité de plusieurs années
 - Sans-fil 2,4 GHz à faible latence : Connectez-vous sans fil à votre PC ou PS4 via l’adaptateur USB inclus ; son surround 71 uniquement disponible sur PC
+- Liberté du sans-fil : Portée pouvant atteindre 12 mètres et jusqu’à 16 heures d’autonomie ; n’interrompez jamais votre gaming grâce à la capacité de brancher
+- Élaboré pour le confort : Les oreillettes ajustables rembourrées de mousse à mémoire de forme offrent un confort idéal pendant des heures de gameplay Sensibilité du casque: 111dB (+/3dB)
+- Idéale qualité sonore : Les transducteurs audio en néodyme de 50 mm personnalisés ont une gamme couvrant tous les sons à ne pas manquer sur le champ de bataille
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y2MGQM7/?tag=tolees0d-21)

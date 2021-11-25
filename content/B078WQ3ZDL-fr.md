@@ -28,8 +28,8 @@ C'est en vente [Fila Disruptor WMN  Sneaker Femme  Blanc  36 EU](https://www.ama
 
 ℹ️:
 
-- Dessus : Synthétique
 - Matériau de semelle : Éthylène-acétate de vinyle
+- Dessus : Synthétique
 - Doublure : Synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078WQ3ZDL/?tag=tolees0d-21)
