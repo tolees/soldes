@@ -28,11 +28,11 @@ Vous avez [Jabra Elite 85t True Wireless - Écouteurs Sans Fil à Réduction de 
 
 ℹ️:
 
-- Un confort exceptionnel : Taille compacte avec trois tailles doreillettes ovales et events de décompression pour un confort maximal tout au long de la journée
-- Appels et musique sans interruptions : la technologie Jabra Advanced Active Noise Cancellation permet un contrôle total du son grâce au curseur ANC réglable, combiné à 6 microphones intégrés pour des appels au son cristallin
-- Contenu de la boîte : Écouteurs Jabra Elite 85t, étui de chargement sans fil, câble de chargement USB-C, 3 embouts ovales en silicone - Oreillettes 7 g chacune, étui de chargement 45,1 g - Beige dore
 - Garantie 2 ans - enregistrement requis
-- Batterie rechargeable longue autonomie : Jusquà 5,5 heures dautonomie avec lANC activée, et jusquà 25 heures avec le boîtier de chargement - Jusquà 31 h sans lANC
+- Un confort exceptionnel : Taille compacte avec trois tailles doreillettes ovales et events de décompression pour un confort maximal tout au long de la journée
+- Contenu de la boîte : Écouteurs Jabra Elite 85t, étui de chargement sans fil, câble de chargement USB-C, 3 embouts ovales en silicone - Oreillettes 7 g chacune, étui de chargement 45,1 g - Beige dore
+- Appels et musique sans interruptions : la technologie Jabra Advanced Active Noise Cancellation permet un contrôle total du son grâce au curseur ANC réglable, combiné à 6 microphones intégrés pour des appels au son cristallin
 - Écouteurs puissants et assistant vocal : Haut-parleurs de 12 mm pour un son clair et des basses puissantes et une expérience musicale impressionnante - Compatible avec Amazon Alexa, Siri et Google Assistant
+- Batterie rechargeable longue autonomie : Jusquà 5,5 heures dautonomie avec lANC activée, et jusquà 25 heures avec le boîtier de chargement - Jusquà 31 h sans lANC
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MT1LJR6/?tag=tolees0d-21)
