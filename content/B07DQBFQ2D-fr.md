@@ -28,10 +28,10 @@ Vous avez [Seagate Desktop Drive  8 To  Disque dur externe pour PC/Xbox One/Play
 
 ℹ️:
 
-- Configuration requise : système dexploitation Windows 10, Windows 8, Windows 7 Port USB 3.0 SuperSpeed (requis pour les vitesses de transfert USB 3.0 ou rétrocompatible avec les ports USB 2.0 aux vitesses de transfert USB 2.0)
-- Un espace de stockage supplémentaire idéal pour votre PC, votre Xbox One ou votre PS4.
+- Profitez dune tranquillité desprit à long terme avec la garantie limitée de deux ans et les services de récupération de données Rescue de deux ans inclus.
 - Sauvegarde des fichiers par glisser-déposer, dès la sortie de la boîte.
 - Vendue uniquement sur Amazon
-- Profitez dune tranquillité desprit à long terme avec la garantie limitée de deux ans et les services de récupération de données Rescue de deux ans inclus.
+- Un espace de stockage supplémentaire idéal pour votre PC, votre Xbox One ou votre PS4.
+- Configuration requise : système dexploitation Windows 10, Windows 8, Windows 7 Port USB 3.0 SuperSpeed (requis pour les vitesses de transfert USB 3.0 ou rétrocompatible avec les ports USB 2.0 aux vitesses de transfert USB 2.0)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DQBFQ2D/?tag=tolees0d-21)
