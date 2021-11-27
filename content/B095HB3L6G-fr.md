@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD BLACK SN750 SE 1 To PCIe Gén4 Disque SSD NVMe  
 
 ℹ️:
 
-- Jouez plus longtemps avant votre prochaine recharge avec 30 % de consommation dénergie en moins par rapport à la version précédente
-- Le tableau de bord WD_BLACK vous aide à maintenir létat de votre disque et permet le mode de jeu afin de soutenir une performance maximale
 - Disponible dans des capacités allant de 250 Go à 1 To pour stocker les derniers jeux et les futures mises à jour
+- Le tableau de bord WD_BLACK vous aide à maintenir létat de votre disque et permet le mode de jeu afin de soutenir une performance maximale
 - Plongez dans laction rapidement avec des vitesses de lecture séquentielles allant jusquà 3 600 Mo/s (modèle 1 To) pour booster votre système, votre jeu et les délais de chargement des niveaux
 - Éliminez vos concurrents avec le stockage PCIe Gén4 (rétrocompatible avec PCIe Gén3)
+- Jouez plus longtemps avant votre prochaine recharge avec 30 % de consommation dénergie en moins par rapport à la version précédente
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B095HB3L6G/?tag=tolees0d-21)
