@@ -28,10 +28,10 @@ C'est en vente [SanDisk Ultra Luxe 256Go  Clé USB USB 3.1 jusqu à 150 Mo/s](ht
 
 ℹ️:
 
-- Inclut la protection par mot de passe SanDisk SecureAccess
-- USB 3.1 (Gén. 1) avec des vitesses allant jusquà 150 Mo/s
-- Transférez un film entier sur la clé en moins de 30 secondes
-- Jusquà 256 Go de stockage
 - Conception élégante, tout en métal moulé
+- Jusquà 256 Go de stockage
+- Inclut la protection par mot de passe SanDisk SecureAccess
+- Transférez un film entier sur la clé en moins de 30 secondes
+- USB 3.1 (Gén. 1) avec des vitesses allant jusquà 150 Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SYRW97F/?tag=tolees0d-21)
