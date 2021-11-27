@@ -28,13 +28,13 @@ Vous avez [LEGO 42126 Technic Kit Ford F-150 Raptor  Maquette de Voiture à Cons
 
 ℹ️:
 
-- Le modèle mesure plus de 13 cm de haut, 48 cm de long et 21 cm de large.
 - Les sets LEGO Technic, avec leurs designs élégants et leurs fonctions réalistes, proposent une expérience de construction enrichissante et des modèles aux caractéristiques impressionnantes pour toute personne passionnée d’ingénierie et de technologie.
-- Projet de construction gratifiant pour adultes, cadeau inspiré à offrir pour un anniversaire ou une occasion spéciale à tous les passionnés de course d’endurance, de Ferrari et de sports mécaniques.
+- Le modèle mesure plus de 13 cm de haut, 48 cm de long et 21 cm de large.
 - Le capot et les portes s’ouvrent, permettant de découvrir les nombreux détails à l’intérieur.
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
-- Ce set s’accompagne d’un livret d’instructions spécial au contenu exclusif, dont des détails sur la voiture et l’équipe AF Corse 51.
 - Avec des autocollants de course et des couleurs fidèles à l’original, la LEGO Technic Ferrari 488 GTE « AF Corse #51 » (42125) occupera une place d’honneur dans la maison ou le bureau de tout fan de sports mécaniques.
+- Ce set s’accompagne d’un livret d’instructions spécial au contenu exclusif, dont des détails sur la voiture et l’équipe AF Corse 51.
+- Projet de construction gratifiant pour adultes, cadeau inspiré à offrir pour un anniversaire ou une occasion spéciale à tous les passionnés de course d’endurance, de Ferrari et de sports mécaniques.
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - Les fonctions authentiques incluent des suspensions avant et arrière, des portes qui s’ouvrent, un moteur V8 avec pistons mobiles et un volant qui fonctionne.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B09842RJVW/?tag=tolees0d-21)

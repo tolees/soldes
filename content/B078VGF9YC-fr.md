@@ -28,11 +28,11 @@ C'est en vente [Sony WH-L600 Casque TV Sans Fil](https://www.amazon.fr/dp/B078VG
 
 ℹ️:
 
-- Son surround immersif avec le mode Cinéma
-- Temps de chargement de la batterie: à peu près 6.0 hrs
-- Quatre modes de son pour des films, des jeux, du dialogue et du sport améliorés
 - Jusquà 17 heures dautonomie de batterie pour une écoute longue durée
+- Quatre modes de son pour des films, des jeux, du dialogue et du sport améliorés
 - Jusquà 30 m de portée découte sans fil pour une grande liberté découte et de visionnage
+- Temps de chargement de la batterie: à peu près 6.0 hrs
+- Son surround immersif avec le mode Cinéma
 - Modèle ultraléger pour un bon confort découte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078VGF9YC/?tag=tolees0d-21)
