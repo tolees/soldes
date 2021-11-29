@@ -28,9 +28,9 @@ C'est en vente [AEG AEF150 Filtre pour CX7 Cellulose](https://www.amazon.fr/dp/B
 
 ℹ️:
 
+- Compatible avec les aspirateurs : cx7-2-30bp, cx7-2-30db, cx7-2-30gm, cx7-2-30ho, cx7-2-30ho2, cx7-2-35ff, cx7-2-35ö, cx7-2-35rm, cx7-2-35rm, cx7-35555555rm, cx7-2-3555555 Tm, cx7 -2-35wr, cx7-2-45an, cx7-2-45bm, cx7-2-45im, cx7-2-45wm, cx7-2-b360, cx7-2-flex, cx7-2-i360 cx7-2-s360, mx7-70000000000
+- Filtres originaux lavables
 - Filtres conçus spécifiquement pour les aspirateurs balai CX7
 - Contenu : 2 filtres internes
-- Filtres originaux lavables
-- Compatible avec les aspirateurs : cx7-2-30bp, cx7-2-30db, cx7-2-30gm, cx7-2-30ho, cx7-2-30ho2, cx7-2-35ff, cx7-2-35ö, cx7-2-35rm, cx7-2-35rm, cx7-35555555rm, cx7-2-3555555 Tm, cx7 -2-35wr, cx7-2-45an, cx7-2-45bm, cx7-2-45im, cx7-2-45wm, cx7-2-b360, cx7-2-flex, cx7-2-i360 cx7-2-s360, mx7-70000000000
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0769KSXM7/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Wouapy - Tapis Griffoir pour Chat - Tapis Rectangle en Sisal - T
 
 ℹ️:
 
-- UN TAPIS GRIFFOIR RESISTANT : il est confectionné à partir d’un sisal résistant. Votre chat va prendre plaisir à le griffer pendant de longues heures.
 - TAILLE UNIQUE : parfait pour calmer les chats, ses dimensions sont de 60 x 38 x 1 cm
-- UN TAPIS GRIFFOIR APPESANT : il va calmer le besoin naturel des félins de faire leurs griffes. C’est la solution pour éviter que les chats ne s’attaquent aux murs et aux meubles.
 - UN TAPIS GRIFFOIR PRATIQUE : antidérapant et souple, il se glisse n’importe où et il se range très facilement dans un placard ou une commode.
+- UN TAPIS GRIFFOIR RESISTANT : il est confectionné à partir d’un sisal résistant. Votre chat va prendre plaisir à le griffer pendant de longues heures.
 - UN TAPIS GRIFFOIR ORIGINAL : avec son inscription « Keep Calm and Scratch », il ne laisse personne indifférent.
+- UN TAPIS GRIFFOIR APPESANT : il va calmer le besoin naturel des félins de faire leurs griffes. C’est la solution pour éviter que les chats ne s’attaquent aux murs et aux meubles.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DM5L11B/?tag=tolees0d-21)

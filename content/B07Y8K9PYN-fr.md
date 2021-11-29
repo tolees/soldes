@@ -29,10 +29,10 @@ C'est en vente [Netatmo Sirène intérieure Intelligente  sans Fil  110 DB  Acti
 ℹ️:
 
 - Installation facile : téléchargez simplement lapplication netatmo security et placez la sirène intérieure où vous voulez près de la caméra intérieure
-- Joue des bruits préenregistrés pour que vous soyez à la maison lorsque vous nêtes pas en déplacement
-- Protection totale : votre sirène intérieure intelligente NETTOMO émet automatiquement une alarme de 110 décibels lorsque la caméra intérieure intelligente détecte un intrus
 - Accessoire de caméra intérieure intelligente Netatmo, vendu séparément
+- Protection totale : votre sirène intérieure intelligente NETTOMO émet automatiquement une alarme de 110 décibels lorsque la caméra intérieure intelligente détecte un intrus
 - Désengagement automatique et désactivation : le système dalarme intelligent sactive et se désactive automatiquement lorsque vous partez ou rentrez à la maison
+- Joue des bruits préenregistrés pour que vous soyez à la maison lorsque vous nêtes pas en déplacement
 - Assistance Netatmo : si vous avez besoin daide pour installer/utiliser votre produit, visitez notre assistance sur helpcenter.netatmo.com/es ou écrivez-nous : contact-amazon@netatmo.com
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y8K9PYN/?tag=tolees0d-21)

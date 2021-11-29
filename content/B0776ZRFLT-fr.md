@@ -28,9 +28,9 @@ Vous avez [Naturé moi - BIONaturé Moi – Crème douche à l extrait d amande 
 
 ℹ️:
 
-- Un produit aux ingrédients doux pour lenvironnement : la crème de douche à lamande douce bio a un impact minime sur la faune et la flore aquatiques / Il est à 98% biodégradable !
-- Une douche hydratante avec une formule à la composition douce : cette crème de douche nourrit votre épiderme profondément avec des ingrédients qui respectent en particulier les peaux sèches
 - Ce produit Naturé Moi est fabriqué en France, avec 96% dingrédients dorigine naturelle - prenez soin de la planète, prenez soin de votre peau
+- Une douche hydratante avec une formule à la composition douce : cette crème de douche nourrit votre épiderme profondément avec des ingrédients qui respectent en particulier les peaux sèches
+- Un produit aux ingrédients doux pour lenvironnement : la crème de douche à lamande douce bio a un impact minime sur la faune et la flore aquatiques / Il est à 98% biodégradable !
 - Contenant de lamande douce de Provence 100% bio qui possède des propriétés nourrissantes, cette crème de douche procure un moment de douceur à votre peau - avec un parfum aux notes fleuries
 - Livraison : flacons de crème de douche à lamande douce de Provence de 200ml Naturé Moi / Avec parfum aux notes fleuries et fruitées / Jusquà 98% biodégradable pour une éthique animale et planétaire
 
