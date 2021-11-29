@@ -30,9 +30,9 @@ Vous avez [LEGO 71739 Ninjago Le Tout-Terrain ultrasonique - Jouet Moto  Jeu de 
 
 - Dispose d’un véhicule ninja 4-en-1 unique qui se transforme en avion à réaction, un jouet moto et 2 véhicules tout-terrain pour encore plus de fun
 - Inclut 7 figurines NINJAGO : Kai, Cole, Zane, Jay & Zane Legacy qui se battent contre les soldats serpents Rattla et Mezmo de la saison 1 de la série télévisée NINJAGO
-- La figurine de collection dorée Zane Legacy est livrée avec un petit support pour célébrer le 10e anniversaire des jouets NINJAGO pour enfants
 - Découvrez le Tournoi des Éléments (71735), le jet multi-missiles (71736), l’attaque du dragon de feu (71753) et chargeur Ninja X-1 (71737)
-- Retrouvez nos figurines dorées exclusives dans 5 autres sets NINJAGO pour obtenir les 6 figurines NINJAGO Legacy en édition limitée
 - Les enfants peuvent piloter l’avion à réaction avec des lame dorées et des tireurs à ressort pour montrer leur pouvoir de ninja
+- La figurine de collection dorée Zane Legacy est livrée avec un petit support pour célébrer le 10e anniversaire des jouets NINJAGO pour enfants
+- Retrouvez nos figurines dorées exclusives dans 5 autres sets NINJAGO pour obtenir les 6 figurines NINJAGO Legacy en édition limitée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WWZ5Y4V/?tag=tolees0d-21)

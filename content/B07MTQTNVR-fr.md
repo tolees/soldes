@@ -28,10 +28,10 @@ C'est en vente [Sabrent SSD Interne Rocket NVMe PCIe M.2 2280 de 2TB. Solid Stat
 
 ℹ️:
 
-- Tous les disques SSD Sabrent viennent avec FREE Sabrent Acronis True Image pour le logiciel Sabrent pour le clonage facile. Pour ceux qui ont besoin dune taille de secteur spécifique pour cloner leurs disques SSD existants: Une nouvelle version utilitaire Sabrent permet aux utilisateurs de reformater le lecteur de Rocket et choisissez la taille du secteur de leur goût, soit 512 octets ou 4K octets.
 - M.2 PCIe Gen3 x 4 Interface.
-- Power Management Support pour APST / ASPM / L1.2.
 - PCIe 3.1 Conforme / Conforme NVMe 1.3.
+- Tous les disques SSD Sabrent viennent avec FREE Sabrent Acronis True Image pour le logiciel Sabrent pour le clonage facile. Pour ceux qui ont besoin dune taille de secteur spécifique pour cloner leurs disques SSD existants: Une nouvelle version utilitaire Sabrent permet aux utilisateurs de reformater le lecteur de Rocket et choisissez la taille du secteur de leur goût, soit 512 octets ou 4K octets.
+- Power Management Support pour APST / ASPM / L1.2.
 - Prise en charge des commandes SMART et TRIM. Prise en charge ONFi 2.3, 3.0 ONFi, ONFi 3.2 et 4.0 ONFi interface.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MTQTNVR/?tag=tolees0d-21)
