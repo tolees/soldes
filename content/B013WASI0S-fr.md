@@ -29,9 +29,9 @@ Vous avez [Mesureur d angle et niveau électronique GAM 270 MFL Bosch Profession
 ℹ️:
 
 - CALCUL DONGLET : calcul automatique donglet simples et doubles sans aucun autre outil
+- LIVRÉE AVEC : GAM 270 MFL, 4 piles AA, bras extensible et housse de protection
 - PORTÉE LASER : avec laide du laser, les mesures dinclinaison peuvent être prises et transférées jusquà 30 m
 - DEUX EN UN : mesureur dangle et niveau électronique avec transfert précis du laser
 - UTILISATION PROFESSIONNELLE : mesure précise des angles jusquà 270º avec une précision de +/- 0,1º. Très robuste avec une protection IP54 contre la poussière et les projections deau
-- LIVRÉE AVEC : GAM 270 MFL, 4 piles AA, bras extensible et housse de protection
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013WASI0S/?tag=tolees0d-21)

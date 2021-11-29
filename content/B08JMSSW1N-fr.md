@@ -28,8 +28,8 @@ C'est en vente [Séga - Yakuza: Like A Dragon - Day Ichi Steelbook Edition  PS4 
 
 ℹ️:
 
-- Une refonte du système de combat: ecrasez vos adversaires dans des combats dynamiques au tour par tour, alternez entre plus de 19 classes différentes allant de garde du corps à musicien
-- Faites la connaissance d’alliés hors normes: recrutez jusqu’à 7 membres dans votre équipe constituée des rejetés de la société et développez vos liens avec eux pour débloquer de nouvelles capacités
 - Un nouveau héros habité par une grande rancœur: incarnez ichiban kasuga, un yakuza trahi par l’homme qu’il admirait autrefois
+- Faites la connaissance d’alliés hors normes: recrutez jusqu’à 7 membres dans votre équipe constituée des rejetés de la société et développez vos liens avec eux pour débloquer de nouvelles capacités
+- Une refonte du système de combat: ecrasez vos adversaires dans des combats dynamiques au tour par tour, alternez entre plus de 19 classes différentes allant de garde du corps à musicien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JMSSW1N/?tag=tolees0d-21)

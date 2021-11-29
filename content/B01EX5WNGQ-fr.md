@@ -29,8 +29,8 @@ C'est en vente [THERMOS Bouteille Isotherme Everyday TC en Acier Inoxydable  Aci
 ℹ️:
 
 - inoxydable
-- Incassable
 - Double paroi
 - En acier inoxydable
+- Incassable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EX5WNGQ/?tag=tolees0d-21)

@@ -28,15 +28,15 @@ Vous avez [TP-Link Nano Routeur 300 Mbps Wi-Fi N  Support mode Répéteur/ mode 
 
 ℹ️:
 
-- Débit de données sans fil 300Mbps idéal pour le streaming de vidéos, jeux en ligne et les appels par Internet
-- Supporte le mode AP (par défaut), Client, Routeur, Répéteur et Pont
-- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
+- Tout petit – Idéal pour la maison et le voyage
 - Alimenté via un port micro USB par un adaptateur d’alimentation externe ou par une connexion USB à un ordinateur
 - Supporte le mode AP (par défaut), client, routeur, répéteur et pont
 - Tout petit – Idéal pour la maison et le voyage
-- Alimenté via un port micro USB par un adaptateur d’alimentation externe ou par une connexion USB à un ordinateur
-- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
 - Débit de données sans fil 300 Mbps idéal pour le streaming de vidéos, jeux en ligne et les appels par Internet
-- Tout petit – Idéal pour la maison et le voyage
+- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
+- Alimenté via un port micro USB par un adaptateur d’alimentation externe ou par une connexion USB à un ordinateur
+- Supporte le mode AP (par défaut), Client, Routeur, Répéteur et Pont
+- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
+- Débit de données sans fil 300Mbps idéal pour le streaming de vidéos, jeux en ligne et les appels par Internet
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TQEX8BO/?tag=tolees0d-21)

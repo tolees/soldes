@@ -28,10 +28,10 @@ C'est en vente [Bosch Professional 18V System projecteur de chantier à LED sans
 
 ℹ️:
 
-- Grande autonomie du projecteur : grâce aux 2 niveaux d’éclairement réglables
-- Professional 18V System ; performances extrêmes ; liberté maximale ; Toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de voltage
 - Utilisation simple : l’application Toolbox pour smartphone montre toutes les combinaisons possibles
-- Grande robustesse grâce au couvre-batterie et à l’enduit protecteur rendant étanche aux poussières et projections d’eau (IP 64)
 - Livré avec : GLI 18V-2200 C, boîte à carton
+- Professional 18V System ; performances extrêmes ; liberté maximale ; Toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de voltage
+- Grande robustesse grâce au couvre-batterie et à l’enduit protecteur rendant étanche aux poussières et projections d’eau (IP 64)
+- Grande autonomie du projecteur : grâce aux 2 niveaux d’éclairement réglables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FWZYSNX/?tag=tolees0d-21)

@@ -29,8 +29,8 @@ Vous avez [BOSS - Hugo Matrix Lowp na  Sneakers Basses Homme  Noir  Black 001   
 ℹ️:
 
 - Lacets
-- Semelle : mélange de matériaux
 - Avec doublure intérieure
 - Emballage : boîte
+- Semelle : mélange de matériaux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N8H8QYK/?tag=tolees0d-21)

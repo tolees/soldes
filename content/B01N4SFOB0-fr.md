@@ -28,10 +28,10 @@ Vous avez [Festool 201301 Sweat à Capuche Multicolore Taille M](https://www.ama
 
 ℹ️:
 
-- Avec un logo de fan Festool à lavant et à larrière du sweat à capuche
-- Poches kangourou
 - Poignets tricotés à la taille et aux manches
 - En coton et polyester
+- Avec un logo de fan Festool à lavant et à larrière du sweat à capuche
+- Poches kangourou
 - Le sweat à capuche est idéal pour tous ceux qui aiment les produits Festool
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N4SFOB0/?tag=tolees0d-21)

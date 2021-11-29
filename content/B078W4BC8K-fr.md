@@ -30,8 +30,8 @@ Vous avez [Bosch Professional - Bosch Professionnal Outil Multi fonction GOP 12V
 
 - Contenu de la livraison : GOP 12 V 28, 2 x 3, 0 Ah Batterie, chargeur rapide gal 1230 CV, plateau de ponçage Delta de ponçage, 5 feuilles, 5 x lame de scie plongeante, scie segment L-BOXX (3165140943819)
 - Changement rapide et facile des accessoires
-- Grâce à la star Lock porte-outils, le accessoires reste toujours parfait
 - Grâce à linterface 3D est permet une transmission verlustarme Puissance de appareil pour accessoires
+- Grâce à la star Lock porte-outils, le accessoires reste toujours parfait
 - La batterie GOP 12 V – 28 Professional multi Cutter – Solution compact de la famille Star Lock
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078W4BC8K/?tag=tolees0d-21)

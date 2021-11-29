@@ -28,10 +28,10 @@ C'est en vente [SanDisk Extreme PRO 256 Go : clé USB 3.1 SSD avec vitesses de l
 
 ℹ️:
 
-- Produit dorigine qualité premium
-- Couleur: Noire
 - Température de stockage : -10 °C à 70 °C
+- Produit dorigine qualité premium
 - clé usb 256 gb
 - clé usb 3.1 extrême pro 256gb 420mb
+- Couleur: Noire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N7QDO7M/?tag=tolees0d-21)

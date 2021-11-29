@@ -28,9 +28,9 @@ C'est en vente [Kelo-Cote Gel pour Cicatrices 15 g](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- cicatrice
 - gel
 - guerissant
+- cicatrice
 - Package dimensions (H x L x W 11.0 centimeters x 2.8 centimeters x 2.8 centimeters
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004Q1QKGW/?tag=tolees0d-21)

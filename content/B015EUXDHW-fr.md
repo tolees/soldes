@@ -28,10 +28,10 @@ C'est en vente [Motorola Baby - Motorola MBP161TIMER - Moniteur Audio pour béb�
 
 ℹ️:
 
-- Qualité de son optimale : Technologie sans interférences DECT et microphone haute sensibilité
-- Minutierie de soins bébé pour de vous rappeler des tâches importantes ou de vous prévenir lorsqu’il est l’heure de nourrir votre bébé, changer sa couche, ou l’endormir pour sa sieste
-- Portée jusquà 300 mètres
 - Branchement sur secteur pour lunité bébé et piles rechargeables pour lunité parents. (Les piles sont fournies avec le produit)
+- Portée jusquà 300 mètres
+- Minutierie de soins bébé pour de vous rappeler des tâches importantes ou de vous prévenir lorsqu’il est l’heure de nourrir votre bébé, changer sa couche, ou l’endormir pour sa sieste
+- Qualité de son optimale : Technologie sans interférences DECT et microphone haute sensibilité
 - Mode ECO : réduction de la puissance démission des ondes et économie dénergie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015EUXDHW/?tag=tolees0d-21)

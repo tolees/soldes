@@ -28,11 +28,11 @@ C'est en vente [Kit Chauffage Connecté Bosch Smart Home  Centrale Domotique ave
 
 ℹ️:
 
-- Liaison radio bidirectionnelle entre les composants et le contrôleur Smart Home - La détection douverture de fenêtre empêche le gaspillage dénergie lors du chauffage
-- Lapplication Bosch Smart Home garantit un accès permanent à votre système Smart Home – depuis votre domicile via le réseau local sans fil et en déplacement
-- Le kit de démarrage simple pour réguler la température dune pièce via lapplication Bosch Smart Home avec une tête thermostatique programmable pour chaque chauffage
-- Lapplication Bosch Smart Home permet la planification à des instants précis de la température pour toutes les pièces
-- Le thermostat de chauffage permet une régulation de température individuelle pour chaque pièce
 - Bosch Smart Home App disponible en français
+- Le thermostat de chauffage permet une régulation de température individuelle pour chaque pièce
+- Le kit de démarrage simple pour réguler la température dune pièce via lapplication Bosch Smart Home avec une tête thermostatique programmable pour chaque chauffage
+- Lapplication Bosch Smart Home garantit un accès permanent à votre système Smart Home – depuis votre domicile via le réseau local sans fil et en déplacement
+- Liaison radio bidirectionnelle entre les composants et le contrôleur Smart Home - La détection douverture de fenêtre empêche le gaspillage dénergie lors du chauffage
+- Lapplication Bosch Smart Home permet la planification à des instants précis de la température pour toutes les pièces
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MTSTCB5/?tag=tolees0d-21)
