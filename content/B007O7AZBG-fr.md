@@ -28,10 +28,10 @@ C'est en vente [Real Techniques - Pinceau d’expert pour le visage](https://www
 
 ℹ️:
 
+- Précision fiable et couvrance adaptable
 - Mis au point par Sam Chapman, maquilleur et blogueur beauté
 - Un maquillage élégant commence par un fond de teint impeccable
 - Réalisés avec des poils en taklon, les pinceaux Real Techniques sont ultra doux, lisses et 100 % sans cruauté
-- Précision fiable et couvrance adaptable
 - Ce pinceau ultra ferme et de forme large est idéal pour appliquer et estomper un fond de teint crème ou liquide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007O7AZBG/?tag=tolees0d-21)

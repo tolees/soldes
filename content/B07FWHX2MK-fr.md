@@ -28,10 +28,10 @@ Vous avez [Mattel Games - Blokus Puzzle  jeu de stratégie  édition de voyage i
 
 ℹ️:
 
-- ​Blokus puzzle est un jeu de stratégie individuel qui se transporte facilement et garantit des heures de réflexion en s’amusant
 - Ce jeu inclut 21 pièces blokus qui se fixent sur le plateau, plateau de jeu transparent et cartes avec des objectifs à compléter. Idéal pour les adultes et les enfants de plus de 7 ans
-- Blokus puzzle comprend un plateau et des pièces encastrables pour mieux transporter le jeu et en profiter en voyage
 - Ce jeu de stratégie individuel a des règles simples, compréhensibles en moins d’une minute, mais assure des heures de jeu passionnant, tant pour les débutants que pour les experts de blokus
+- ​Blokus puzzle est un jeu de stratégie individuel qui se transporte facilement et garantit des heures de réflexion en s’amusant
+- Blokus puzzle comprend un plateau et des pièces encastrables pour mieux transporter le jeu et en profiter en voyage
 - Le jeu comprend 3 types de puzzles et 48 cartes objectifs, offrant une infinité de défis amusants et stimulants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FWHX2MK/?tag=tolees0d-21)

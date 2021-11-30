@@ -30,7 +30,7 @@ Vous avez [Vallejo Peinture acrylique pour modélisme 17 ml Dark Sea Blue](https
 
 - Spécialement conçu pour la peinture au pinceau
 - Dimensions de lemballage : 8 x 2.5 x 2.5 cm
-- Ininflammable
 - Non toxique
+- Ininflammable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000PHCNKS/?tag=tolees0d-21)

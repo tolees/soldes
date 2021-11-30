@@ -28,10 +28,10 @@ C'est en vente [PELI 1560 valise de protection à roulettes  étanche à l eau e
 
 ℹ️:
 
-- Température de fonctionnement entre -40 ⁰C et 99 ⁰C, Flottabilité : 52,16 kg
-- Intérieur à cellules ouvertes avec paroi solide - résistant et léger. Matériel en acier inoxydable. Conception empilable.
 - Dimensions extérieures : 56,06 x 45,52 x 26,47 cm, Dimensions intérieures : 50,6 x 38,05 x 22,86 cm, Profondeur couvercle : 5,08 cm, Profondeur fond : 17,78 cm, Volume intérieur : 44L, Poids (vide) : 7,71 kg
-- Étanche à leau, résistante aux chocs et à lépreuve de la poussière. Certifications : IP67 / Def Stan 81-41 / STANAG 4280
+- Température de fonctionnement entre -40 ⁰C et 99 ⁰C, Flottabilité : 52,16 kg
 - Verrous double tour ouverture facile, joint torique, valve dequilibrage automatique de pression dair, poignées confortables en caoutchouc surmoulé, poignée dextension rétractable, roulettes polyuréthane solides avec roulements billes en acier inoxydable
+- Intérieur à cellules ouvertes avec paroi solide - résistant et léger. Matériel en acier inoxydable. Conception empilable.
+- Étanche à leau, résistante aux chocs et à lépreuve de la poussière. Certifications : IP67 / Def Stan 81-41 / STANAG 4280
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000UAEM9K/?tag=tolees0d-21)
