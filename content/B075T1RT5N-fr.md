@@ -28,9 +28,9 @@ C'est en vente [LEGO Marvel Super Heroes - La bataille pour la protection du Sai
 
 ℹ️:
 
-- Inclut 4 figurines : Iron Spider, Iron Man, Dr Strange et Ebony Maw, ainsi quune grande figurine de Cull Obsidian
 - Construisez un bâtiment de New York City à 3 étages repliable, y compris le Saint des Saints de Dr Strange, un mur qui explose et un élément caché représentant la Gemme de linfini, une pizzeria et lappartement de Peter Parker, tous deux dotés de fenêtres qui explosent
-- Les ensembles LEGO Marvel Super Heroes sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Ce jeu de construction est adapté aux enfants âgés de 8 à 14 ans
+- Inclut 4 figurines : Iron Spider, Iron Man, Dr Strange et Ebony Maw, ainsi quune grande figurine de Cull Obsidian
+- Les ensembles LEGO Marvel Super Heroes sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075T1RT5N/?tag=tolees0d-21)
