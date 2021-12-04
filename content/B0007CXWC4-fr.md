@@ -28,8 +28,8 @@ Vous avez [AMERICAN CREW Cire Fixation Forte Effet Très Mat  85 g](https://www.
 
 ℹ️:
 
+- Contenu : 85g
 - Apporte une tenue forte en souplesse avec un fini mat
 - Protège contre le manque d’hydratation tout en apportant un maximum de tenue
-- Contenu : 85g
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0007CXWC4/?tag=tolees0d-21)
