@@ -28,10 +28,10 @@ C'est en vente [Philips BT5502/15 Series 5000 Tondeuse à  barbe avec système 
 
 ℹ️:
 
-- Contenu de la livraison : tondeuse à barbe, 2 sabots à barbe, sac de voyage
 - 40 longueurs différentes (0, 4 mm - 20 mm), réglage précis pour tous les styles de barbe
 - Entièrement lavable
 - Lames métalliques auto-affûtées pour une longue durée de vie
+- Contenu de la livraison : tondeuse à barbe, 2 sabots à barbe, sac de voyage
 - Coupe uniforme en un seul passage grâce au système innovant Lift & Trim par système
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MTW33JW/?tag=tolees0d-21)

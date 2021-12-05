@@ -29,8 +29,8 @@ Vous avez [Geox U RAVEX A  Basket Homme  Gris  40 EU](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Caoutchouc
+- Synthétique
 - Lacets
 - Respirant
-- Synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BLD5QM6/?tag=tolees0d-21)

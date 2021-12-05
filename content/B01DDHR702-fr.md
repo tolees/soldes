@@ -28,8 +28,8 @@ Vous avez [Wilton 2105-0801 Moule Chiffres et Lettres célébrations  Aluminum  
 
 ℹ️:
 
-- dimension du moule 38 x 23 x 5cm
-- contient 1 moule rectangulaire avec 9 inserts
 - passe au lave vaisselle
+- contient 1 moule rectangulaire avec 9 inserts
+- dimension du moule 38 x 23 x 5cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DDHR702/?tag=tolees0d-21)
