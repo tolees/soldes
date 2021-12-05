@@ -28,12 +28,12 @@ C'est en vente [Bosch Automotive - Bosch H4 Maxibox coffret de lampes - 12 V](ht
 
 ℹ️:
 
-- Lampe principale (H1, H4, H7 ou H1+H7) + P21W + PY21W + P21/5W + C5W + R5W + W5W + T4W + 2x fusible 10A + 1x fusible 15A + 1x fusible 20A
 - Son petit format est optimisé pour un rangement dans la boîte à gants, dans le coffre ou sous le siège
 - Idéal lors de longs déplacements
+- Lampe principale (H1, H4, H7 ou H1+H7) + P21W + PY21W + P21/5W + C5W + R5W + W5W + T4W + 2x fusible 10A + 1x fusible 15A + 1x fusible 20A
 - Pour ne jamais tomber en panne d’ampoules et s’assurer de sa sécurité
 - Homologuée ECE
-- Disponible en H1, H4, H7, H1/H7 Box
 - Sélection des principales ampoules nécessaires dans un véhicule
+- Disponible en H1, H4, H7, H1/H7 Box
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FZWG9RG/?tag=tolees0d-21)

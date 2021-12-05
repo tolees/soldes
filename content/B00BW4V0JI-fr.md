@@ -28,8 +28,8 @@ Vous avez [Inconnu - Adaptateur M 6A en F 16A Blanc](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Sécurité enfant
-- Permet de passer dune prise mâle 6A à une prise femelle 16A
 - Se transporte facilement grâce à sa conception compact
+- Permet de passer dune prise mâle 6A à une prise femelle 16A
+- Sécurité enfant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BW4V0JI/?tag=tolees0d-21)
