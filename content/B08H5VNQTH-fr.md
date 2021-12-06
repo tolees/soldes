@@ -28,10 +28,10 @@ C'est en vente [Corsair CX650F RGB  Bloc d’alimentation ATX Entièrement Modul
 
 ℹ️:
 
-- Certifié 80 PLUS Bronze : Fournit jusqu’à 88 % de rendement, générant ainsi moins de chaleur pour une facture d’électricité allégée
-- Optimisé pour une discrétion absolue : Une courbe de ventilation dédiée est spécialement calculée pour garantir des niveaux sonores faibles
 - Boîtier et câbles blancs éclatant : Complètent le design clair et épuré des autres composants Corsair blancs de votre configuration
-- Ventilateur RGB 120 mm : Contrôlez les huit LED RGB paramétrables individuellement à laide dune simple pression de bouton, avec 9 modes déclairage prédéfinis
 - iCUE et carte mère compatibles RGB : Connectez-la à un contrôleur déclairage Corsair iCUE RGB (vendu séparément) ou une carte mère compatible pour un contrôle de léclairage RGB
+- Ventilateur RGB 120 mm : Contrôlez les huit LED RGB paramétrables individuellement à laide dune simple pression de bouton, avec 9 modes déclairage prédéfinis
+- Optimisé pour une discrétion absolue : Une courbe de ventilation dédiée est spécialement calculée pour garantir des niveaux sonores faibles
+- Certifié 80 PLUS Bronze : Fournit jusqu’à 88 % de rendement, générant ainsi moins de chaleur pour une facture d’électricité allégée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08H5VNQTH/?tag=tolees0d-21)
