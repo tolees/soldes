@@ -28,10 +28,10 @@ C'est en vente [Crayon de couleur - STABILO woody 3in1 - Étui carton x6 crayons
 
 ℹ️:
 
-- Ecrit sur toutes les surfaces : ardoise, tableau blanc, verre, carton, plastique
-- STABILO woody 3in1 est un crayon tout-terrain pour écrire, dessiner, colorier sur toutes les sufaces. Avec sa mine riche en pigments (jusqu’à 8 fois plus qu’un crayon de couleur classique), il est à la fois crayon aquarellable, crayon de couleur, craie gr
 - Crayon multi-usage : crayon, aquarelle, craie grasse et marqueur. Pochette de 10 crayons STABILO Woody avec décor ARTY
+- Ecrit sur toutes les surfaces : ardoise, tableau blanc, verre, carton, plastique
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 1035 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- STABILO woody 3in1 est un crayon tout-terrain pour écrire, dessiner, colorier sur toutes les sufaces. Avec sa mine riche en pigments (jusqu’à 8 fois plus qu’un crayon de couleur classique), il est à la fois crayon aquarellable, crayon de couleur, craie gr
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081NS97BB/?tag=tolees0d-21)

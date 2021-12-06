@@ -30,8 +30,8 @@ Vous avez [Bosch Professional 060179H003 Meuleuse Angulaire GWS 17-125 CIE  1700
 
 - Sécurité maximale grâce au dispositif d’arrêt KickBack Stop, à la protection anti-redémarrage, au capot de protection indéformable et à la réduction des vibrations
 - Progression de travail rapide grâce au puissant moteur de 1700 W avec constante électronique
-- Longévité accrue grâce au refroidissement moteur direct, à la protection contre les surcharges et aux charbons extrêmement endurants
-- Très bonne maniabilité grâce au boîtier fin avec revêtement softgrip assurant une prise en main parfaite
 - Livré avec : GWS 17-125 CIE, flasque de serrage, capot de protection, écrou de serrage, poignée supplémentaire Vibration Control, clé à ergots, coffret de transport (3165140820462)
+- Très bonne maniabilité grâce au boîtier fin avec revêtement softgrip assurant une prise en main parfaite
+- Longévité accrue grâce au refroidissement moteur direct, à la protection contre les surcharges et aux charbons extrêmement endurants
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00S8FUJBO/?tag=tolees0d-21)

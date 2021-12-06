@@ -28,12 +28,12 @@ C'est en vente [Xiaomi 23853 / FJY4031GL Mi Air Purificateur 3H Blanc  Unique](h
 
 ℹ️:
 
-- Tension nominale AC100-240V
-- Contrôle intelligent contrôlez à distance en utilisant lapplication Mi Home pour créer une maison intelligente avec dautres produits Mi Smart
-- Longueur du cordon dalimentation: 1,5 m
 - Compatible avec alexa et google assistance
-- Surface efficace recommandée: 28,4 m² ~ 48,7 m²
-- Écran tactile OLED
+- Longueur du cordon dalimentation: 1,5 m
+- Contrôle intelligent contrôlez à distance en utilisant lapplication Mi Home pour créer une maison intelligente avec dautres produits Mi Smart
 - Équipé dun filtre HEPA pour éliminer 99 % de particules jusquà 0 3 microns
+- Écran tactile OLED
+- Surface efficace recommandée: 28,4 m² ~ 48,7 m²
+- Tension nominale AC100-240V
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZV7BDXZ/?tag=tolees0d-21)

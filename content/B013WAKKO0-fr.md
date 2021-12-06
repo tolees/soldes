@@ -31,7 +31,7 @@ Vous avez [Niveau électronique GIM 60 L Bosch Professional  précision du laser
 - AIMANTS : aimants puissants et deux sangles pour sécuriser rapidement loutil lors de linstallation
 - FACILE À UTILISER : flèches directionnelles et signaux sonores à 0 et 90 pour un alignement facile. Et un mécanisme dinclinaison pour des réglages fins sur des surfaces inégales
 - USAGE PROFESSIONNEL : mesure des inclinaisons précises en degrés, pourcentages ou millimètres/mètres avec une précision de +/- 0,05º. Très robuste avec un indice de protection IP54 contre la poussière et les projections deau
-- LIVRÉE AVEC : GIM 60 L, 4 piles AA et housse de protection
 - PRÉCISION DU LASER : laser intégré pour mesurer linclinaison jusquà une distance de 30 m
+- LIVRÉE AVEC : GIM 60 L, 4 piles AA et housse de protection
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013WAKKO0/?tag=tolees0d-21)

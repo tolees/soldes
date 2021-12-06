@@ -28,9 +28,9 @@ Vous avez [Panasonic - Personalcare ER-SC40-K803 | Tondeuse cheveux - Premium 38
 
 ℹ️:
 
-- Lame avancée avec extrémité plus large
-- 1x Sabot de taille de coupe (1mm a 10mm)
 - La molette de réglage de cette tondeuse cheveux est utilisable d’une seule main et permet de naviguer entre 38 hauteurs de coupe de 0, 5 à 10 mm par pas de 0, 5 mm.
+- Lame avancée avec extrémité plus large
 - Nettoyage facile : la tête de la tondeuse est entièrement lavable pour un entretien en toute simplicité
+- 1x Sabot de taille de coupe (1mm a 10mm)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074F2TGTP/?tag=tolees0d-21)

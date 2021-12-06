@@ -28,7 +28,7 @@ Vous avez [KS Tools - 150.4217 Enrouleur électrique mural  3x1 5mm² - 15m](htt
 
 ℹ️:
 
-- Ressort de rappel support mural orientable à 180° disjoncteur thermique intégré
 - Poids du colis : 6. 02 kilograms
+- Ressort de rappel support mural orientable à 180° disjoncteur thermique intégré
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y3V6QSX/?tag=tolees0d-21)

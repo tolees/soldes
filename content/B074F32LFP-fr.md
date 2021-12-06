@@ -28,10 +28,10 @@ Vous avez [Panasonic - Personalcare ER-SB40-K803 | Tondeuse barbe - Premium 20 R
 
 ℹ️:
 
+- 1x Lame 1x Sabot de taille de coupe 1x Adaptateur CA 1x Brosse de nettoyage 1x Huile 1x Pochette de rangement
 - La molette de réglage de cette tondeuse permet dajuster facilement la longueur de coupe de 1,0 à 10 mm à intervalles de 0,5 mm pour une coupe parfaite à la longueur souhaitée
-- Nouveau moteur linéaire pour une coupe rapide
 - Tondeuse haut de gamme avec les nouvelles lames aux extrémités plus larges : La nouvelle lame saisit efficacement tous les poils, plus rapidement.
 - Utilisation pratique : fonctionnement avec/sans fil, étanche, indicateur de batterie à 3 LED avec fonction verrouillage pour éviter qu’elle ne s’allume lors d’un voyage (appuyez sur le bouton marche/arrêt pendant 3 secondes).
-- 1x Lame 1x Sabot de taille de coupe 1x Adaptateur CA 1x Brosse de nettoyage 1x Huile 1x Pochette de rangement
+- Nouveau moteur linéaire pour une coupe rapide
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074F32LFP/?tag=tolees0d-21)

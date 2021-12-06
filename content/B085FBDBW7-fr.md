@@ -28,11 +28,11 @@ C'est en vente [Panasonic - ER-GB80-H503 | Tondeuse Multi 3 en 1 - Barbe / Cheve
 
 ℹ️:
 
-- Tondeuse cheveux, barbe et corps: Il vous suffit de changer accessoires pour prendre soin de votre barbe, de vos cheveux ou de votre corps avec un seul appareil
-- 3 peignes: cheveux: 11-20mm, barbe: 1-10mm, corps: 1, 5mm
-- Tondeuse rétractable afin de dessiner les contours, couper les petites zones et faire une finition parfaite
-- Tondeuse de précision rétractable: idéale pour un rasage très précis, la tondeuse rétractable vous permet de dessiner les contours, tailler la moustache ou le bouc
-- Autonomie de 50 minutes et une charge complète en 1 heure
 - 40 positions de coupe allant de 0.5 à 20 mm (0.5 mm sans sabot) et par intervalles de 0.5mm
+- Autonomie de 50 minutes et une charge complète en 1 heure
+- Tondeuse rétractable afin de dessiner les contours, couper les petites zones et faire une finition parfaite
+- 3 peignes: cheveux: 11-20mm, barbe: 1-10mm, corps: 1, 5mm
+- Tondeuse de précision rétractable: idéale pour un rasage très précis, la tondeuse rétractable vous permet de dessiner les contours, tailler la moustache ou le bouc
+- Tondeuse cheveux, barbe et corps: Il vous suffit de changer accessoires pour prendre soin de votre barbe, de vos cheveux ou de votre corps avec un seul appareil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085FBDBW7/?tag=tolees0d-21)

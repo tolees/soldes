@@ -28,10 +28,10 @@ Vous avez [nonda Adaptateur USB C vers USB  Paquet de 2   Adaptateur USB-C vers 
 
 ℹ️:
 
-- [Super Durable] Le corps en alliage de zinc évite les rayures Le connecteur USB C haut de gamme passe le test Push/Pull de 10 000+.
-- [USB 3.0 SuperSpeed] Vitesse de transfert de données jusquà 5 Gbps. Adaptateur rapide USB C vers USB
-- [Garantie 1 an] Vous pouvez passer à une garantie de 3 ans en vous inscrivant au programme dadaptateur USB-C nonda
 - [Plug & Play] Adaptateur OTG Aucun pilote/logiciel supplémentaire requis Adaptateur simple Thunderbolt 3 vers USB
+- [Garantie 1 an] Vous pouvez passer à une garantie de 3 ans en vous inscrivant au programme dadaptateur USB-C nonda
+- [USB 3.0 SuperSpeed] Vitesse de transfert de données jusquà 5 Gbps. Adaptateur rapide USB C vers USB
 - [Compatibilité universelle] Compatible avec les ordinateurs portables/tablettes/téléphones intelligents dotés dun port USB de type C, y compris les MacBook Pro 2019/2018/2017 MacBook Air 2018 Nintendo Switch Samsung Galaxy S8/S9
+- [Super Durable] Le corps en alliage de zinc évite les rayures Le connecteur USB C haut de gamme passe le test Push/Pull de 10 000+.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088R8LQZX/?tag=tolees0d-21)

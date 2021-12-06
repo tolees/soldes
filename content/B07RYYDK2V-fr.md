@@ -28,11 +28,11 @@ Vous avez [Bosch Professional Télémètre laser GLM 500  portée : 0 05 m - 50 
 
 ℹ️:
 
-- USAGE PROFESSIONNEL : télémètre avec précision de mesure garantie par certification ISO. Différents modes de mesure: longueur, surface, volume et mesure continue
-- MESURE DANGLES FACILE : la fonction inclinaison permet de mesurer facilement des angles jusqu’à 360°
-- LIVRÉ AVEC : lasermètre GLM 500 Bosch Professional, 2 piles AAA
-- MISES À NIVEAU PRÉCISES : avec la fonction niveau à bulle pour mettre à niveau des objets avec précision
 - Plage de mesure: jusquà 50 m
+- MESURE DANGLES FACILE : la fonction inclinaison permet de mesurer facilement des angles jusqu’à 360°
+- MISES À NIVEAU PRÉCISES : avec la fonction niveau à bulle pour mettre à niveau des objets avec précision
+- USAGE PROFESSIONNEL : télémètre avec précision de mesure garantie par certification ISO. Différents modes de mesure: longueur, surface, volume et mesure continue
+- LIVRÉ AVEC : lasermètre GLM 500 Bosch Professional, 2 piles AAA
 - CARACTÉRISTIQUES TECHNIQUES : IP 54, portée maxi de 50 m, classe laser 2, précision de mesure ± 1,5 mm et ± 0,2°
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RYYDK2V/?tag=tolees0d-21)

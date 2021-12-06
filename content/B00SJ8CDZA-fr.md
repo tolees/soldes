@@ -28,11 +28,11 @@ Vous avez [Bosch Professional Meuleuse Angulaire GWS 13-125  1300 W  Régime à 
 
 ℹ️:
 
-- La productivité élevée que permet d’atteindre la meuleuse angulaire est garantie par le puissant moteur, le refroidissement direct et la fonction démarrage progressif
-- Niveau de pression acoustique:91 dB(A).Niveau de puissance acoustique: 102 dB(A).Incertitude K: 3 dB
-- Livré avec : GWS 13-125 CIE, flasque de serrage, capot de protection, écrou de serrage, poignée supplémentaire Vibration Control, clé à ergots, carton (3165140820264)
 - La grande durée de vie des charbons, le refroidissement direct et la protection du moteur contre les surcharges confèrent à la GWS 13-125 CIE une longévité élevée
+- Livré avec : GWS 13-125 CIE, flasque de serrage, capot de protection, écrou de serrage, poignée supplémentaire Vibration Control, clé à ergots, carton (3165140820264)
 - La fonction KickBack Stop facilite le maniement et le rend plus sûr
 - La meuleuse angulaire GWS 13-125 CIE de Bosch Professional : pour une productivité élevée
+- Niveau de pression acoustique:91 dB(A).Niveau de puissance acoustique: 102 dB(A).Incertitude K: 3 dB
+- La productivité élevée que permet d’atteindre la meuleuse angulaire est garantie par le puissant moteur, le refroidissement direct et la fonction démarrage progressif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00SJ8CDZA/?tag=tolees0d-21)
