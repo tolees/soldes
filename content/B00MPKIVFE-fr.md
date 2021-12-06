@@ -28,9 +28,9 @@ Vous avez [DEWALT - Jeu de 3 Burins SDS-PLUS - DT60330-QZ - 2 Burins Plats et 1 
 
 ℹ️:
 
-- Jeu de burins adaptés au travail du béton
 - 3 burins 25 cm : 2 plats et 1 pointu
-- Burins compatibles avec des interfaces SDS-PLUS
 - DEWALT, Robustesse garantie : Depuis plus de 90 ans, DEWALT conçoit, fabrique et commercialise des machines particulièrement robustes, durables et puissantes pour les professionnels et les bricoleurs experts : qualité, puissance, solidité et fiabilité se retrouvent dans chacune d’entre elles
+- Burins compatibles avec des interfaces SDS-PLUS
+- Jeu de burins adaptés au travail du béton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MPKIVFE/?tag=tolees0d-21)

@@ -28,15 +28,15 @@ C'est en vente [Bosch Professional Marteau Piqueur Filaire GSH 11 E  1 500W  10 
 
 ℹ️:
 
-- Interrupteur large : actionnement aisé
-- Vibrations réduites à pleine charge et à vide
-- Puissance de frappe extrême de 16,8 J pour une capacité d’enlèvement élevée
-- Pression à exercer relativement faible : travail peu pénible
-- Pression à exercer relativement faible : travail peu pénible
-- Interrupteur large : actionnement aisé
 - Puissance de frappe extrême de 16,8 joules assurant une capacité denlèvement rapide
-- Burin verrouillable dans 12 positions
-- Burin verrouillable dans 12 positions
 - Vibrations réduites à pleine charge et à vide
+- Burin verrouillable dans 12 positions
+- Pression à exercer relativement faible : travail peu pénible
+- Puissance de frappe extrême de 16,8 J pour une capacité d’enlèvement élevée
+- Burin verrouillable dans 12 positions
+- Interrupteur large : actionnement aisé
+- Vibrations réduites à pleine charge et à vide
+- Interrupteur large : actionnement aisé
+- Pression à exercer relativement faible : travail peu pénible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0001D1QOK/?tag=tolees0d-21)
