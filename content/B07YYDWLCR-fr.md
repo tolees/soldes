@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley Stmt82672-0 Coffret De Douilles  avec 58.68 % rabais '
-date: 2021-12-06 05:58:22
+date: 2021-12-07 06:21:40
 image: 'https://m.media-amazon.com/images/I/41cvEcYLk2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Stanley Stmt82672-0 Coffret De Douilles Compact ¼’’ + Cliqu
 
 ℹ️:
 
-- 1 Porte embout - 22 Embouts : PZ1 - PZ2 - PZ3 – PH1 - PH2 - PH3 - Hexagonal 3 - 4 - 5 - 6 - 7 – Torx 10 - 15 - 20 – 25 - 27 - 30 - 40 – Fente 4 - 5 - 6 - 7
 - Cliquet 72 dents ¼’ pour un angle de reprise de 5°
+- 1 Porte embout - 22 Embouts : PZ1 - PZ2 - PZ3 – PH1 - PH2 - PH3 - Hexagonal 3 - 4 - 5 - 6 - 7 – Torx 10 - 15 - 20 – 25 - 27 - 30 - 40 – Fente 4 - 5 - 6 - 7
 - 12 Douilles ¼’’ (12 pans) : 4-4,5-5-6-7-8-9-10-11-12-13-14
-- 1 Rallonge 75 mm
 - Pratique : coffret compact et résistant
+- 1 Rallonge 75 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YYDWLCR/?tag=tolees0d-21)
