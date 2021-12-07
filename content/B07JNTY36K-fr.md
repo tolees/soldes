@@ -29,9 +29,9 @@ Vous avez [Les Tropéziennes par M. Belarbi HAMAT  Sandales Bride Arriere Femmes
 ℹ️:
 
 - LES TROPEZIENNES
-- Femme
 - Cuir
 - Ces Sandales et nu-pieds en Cuir se composent dune tige en Cuir et dune hauteur de talon de 2 cm
+- Femme
 - P-E 2021
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JNTY36K/?tag=tolees0d-21)

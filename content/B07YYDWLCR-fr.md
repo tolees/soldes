@@ -28,10 +28,10 @@ C'est en vente [Stanley Stmt82672-0 Coffret De Douilles Compact ¼’’ + Cliqu
 
 ℹ️:
 
+- 1 Rallonge 75 mm
 - Cliquet 72 dents ¼’ pour un angle de reprise de 5°
+- Pratique : coffret compact et résistant
 - 1 Porte embout - 22 Embouts : PZ1 - PZ2 - PZ3 – PH1 - PH2 - PH3 - Hexagonal 3 - 4 - 5 - 6 - 7 – Torx 10 - 15 - 20 – 25 - 27 - 30 - 40 – Fente 4 - 5 - 6 - 7
 - 12 Douilles ¼’’ (12 pans) : 4-4,5-5-6-7-8-9-10-11-12-13-14
-- Pratique : coffret compact et résistant
-- 1 Rallonge 75 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YYDWLCR/?tag=tolees0d-21)
