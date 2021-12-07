@@ -28,10 +28,10 @@ Vous avez [LEGO Olaf](https://www.amazon.fr/dp/B07P2GRNTM/?tag=tolees0d-21)  à 
 
 ℹ️:
 
-- Comprend un personnage Olaf de La Reine des neiges II à construire, avec bras et cou articulés.
-- À exposer à la maison ou au bureau pour illuminer chaque journée.
 - Les accessoires incluent un nœud papillon bleu, le journal d’Olaf et un crayon.
-- Les enfants vont adorer construire et reconstruire leur personnage préféré de La Reine des neiges de Disney.
+- À exposer à la maison ou au bureau pour illuminer chaque journée.
 - Olaf mesure plus de 14 cm de haut, 10 cm de large et 5 cm de profondeur.
+- Comprend un personnage Olaf de La Reine des neiges II à construire, avec bras et cou articulés.
+- Les enfants vont adorer construire et reconstruire leur personnage préféré de La Reine des neiges de Disney.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P2GRNTM/?tag=tolees0d-21)
