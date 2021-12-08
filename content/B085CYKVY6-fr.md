@@ -30,8 +30,8 @@ Vous avez [Braun Series 6 Rasoir Électrique Homme À Grille Sans Fil Gris  Bas
 
 - Les lames SensoFoil sont spécialement conçues pour le rasage de près et le confort de la peau
 - Rasoir électrique homme 100 % étanche pour une utilisation Wet & Dry
-- Comprend : base de recharge, accessoire tondeuse de précision, accessoire tondeuse à barbe de 3 jours
 - La batterie Li-Ion offre jusqu’à 3 semaines de rasage (50 min). Une charge rapide de 5 minutes suffit pour un rasage complet
+- Comprend : base de recharge, accessoire tondeuse de précision, accessoire tondeuse à barbe de 3 jours
 - Rasoir électrique avec SensoFlex : la tête pivotante testée dermatologiquement s’adapte pour minimiser la pression sur la peau pour les peaux sensibles
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085CYKVY6/?tag=tolees0d-21)

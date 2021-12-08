@@ -28,13 +28,13 @@ Vous avez [Rotring Rapid PRO Stylo-bille  pointe moyenne  encre bleue  1904292 ]
 
 ℹ️:
 
-- Type de pointe : Moyenne
 - Couleur de lencre: Bleu
 - Zone de préhension métallique anti-glisse.
-- Stylo-bille rechargeable haut de gamme avec corps métallique
-- Dureté de la mine :
-- Garantie : 2
-- Rétractable : oui
 - Pointe bille retractable, durable et précise
+- Rétractable : oui
+- Stylo-bille rechargeable haut de gamme avec corps métallique
+- Type de pointe : Moyenne
+- Garantie : 2
+- Dureté de la mine :
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JEV99J4/?tag=tolees0d-21)

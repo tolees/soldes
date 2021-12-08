@@ -28,11 +28,11 @@ C'est en vente [BLACK+DECKER Balai vapeur avec Nettoyeur à main  1300W  9 Acces
 
 ℹ️:
 
-- Design compact et léger
-- 99,9% des bactéries sont tuées
-- Simple à utiliser, maniable et prêt à l’emploi en 15 secondes
-- Accessoires : 1 patin en microfibre, 1 tuyau vapeur flexible 1,2M, 1 raclette, 1 housse microfibre pour raclette, 1 cadre adaptateur pour moquettes et tapis, 1 buse réglable – jet vapeur, 1 brosse ronde en cuivre, 1 brosse ronde, 1 brosse spéciale joints
-- Pédale pour activer le jet de vapeur et désincruster les salissures. Longueur du câble: 6 m
 - Remplissage facile du réservoir
+- 99,9% des bactéries sont tuées
+- Design compact et léger
+- Accessoires : 1 patin en microfibre, 1 tuyau vapeur flexible 1,2M, 1 raclette, 1 housse microfibre pour raclette, 1 cadre adaptateur pour moquettes et tapis, 1 buse réglable – jet vapeur, 1 brosse ronde en cuivre, 1 brosse ronde, 1 brosse spéciale joints
+- Simple à utiliser, maniable et prêt à l’emploi en 15 secondes
+- Pédale pour activer le jet de vapeur et désincruster les salissures. Longueur du câble: 6 m
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NBVYJ57/?tag=tolees0d-21)

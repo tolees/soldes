@@ -30,8 +30,8 @@ Vous avez [Trust Gaming GXT 608 Tytan Enceinte PC Gamer 2.0 pour Ordinateur  36 
 
 - Alimentation USB : prise murale inutile
 - Éclairage clignotant à diodes réagissant au rythme de la musique (désactivable)
-- Puissance de crête de 36 W
 - Bouton de réglage du volume et des basses sur la façade de l’enceinte
+- Puissance de crête de 36 W
 - Connexion casque 3,5 mm accessible directement (connexion audio 3,5 mm supplémentaire pour brancher un smartphone ou une tablette)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FJN12FE/?tag=tolees0d-21)

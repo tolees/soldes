@@ -28,11 +28,11 @@ C'est en vente [Bosch Home and Garden - Perceuse-visseuse sans fil Bosch - EasyD
 
 ℹ️:
 
-- Les outils de la gamme « Easy » Bosch sont des aides pratiques pour vos projets du quotidien
 - Usage polyvalent dans une grande variété de matériaux : Cette perceuse-visseuse sans fil permet de réaliser des travaux nécessitant de visser ou de percer dans le bois, le métal et le plastique
-- Travailler dans des conditions de faible éclairage : Grâce à sa diode LED intégrée, cette perceuse assure une bonne visibilité, même dans les coins sombres et les pièces mal éclairées
 - Puissance et vitesse optimales : vissages puissants et perçages rapides grâce à l’engrenage de vitesses avec 20 positions de présélection de couple
-- Power for ALL 12V : La batterie incluse est compatible avec tous les produits du système 12 V de la gamme Home & Garden Bosch
+- Travailler dans des conditions de faible éclairage : Grâce à sa diode LED intégrée, cette perceuse assure une bonne visibilité, même dans les coins sombres et les pièces mal éclairées
 - Contenu de la livraison Edition Amazon : EasyDrill 1200, 1 batterie 2,0 Ah , 1 chargeur, Set d’embouts 32 pièces, 6 pcs jeu de forets métaux, 5 pcs jeu de forets bois, dans un sac souple
+- Power for ALL 12V : La batterie incluse est compatible avec tous les produits du système 12 V de la gamme Home & Garden Bosch
+- Les outils de la gamme « Easy » Bosch sont des aides pratiques pour vos projets du quotidien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CVT3QKL/?tag=tolees0d-21)

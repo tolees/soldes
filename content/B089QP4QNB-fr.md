@@ -28,10 +28,10 @@ Vous avez [Razer Huntsman Mini Gaming Keyboard Clicky Optical Switch US Layout B
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 98 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Touches en PBT à double injection avec des fonctions secondaires imprimées sur le côté: Conçues pour durer plus longtemps, elles ne se dégraderont jamais en une finition brillante. En outre, leurs marquages ne seffaceront pas, même en cas dutilisation i
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - DOMINATE ON A DIFFERENT SCALE. Enter a new dimension of deadly with the Razer Huntsman Mini—a 60% gaming keyboard with cutting-edge Razer Optical Switches. Highly portable and ideal for streamlined setups, it’s time to experience lightning-fast actuation
+- Touches en PBT à double injection avec des fonctions secondaires imprimées sur le côté: Conçues pour durer plus longtemps, elles ne se dégraderont jamais en une finition brillante. En outre, leurs marquages ne seffaceront pas, même en cas dutilisation i
 - Switchs optiques Razer: Permet des activations plus rapides, plus légères et plus fluides que les switches mécaniques. En outre, le clavier dure plus longtemps : ses pièces mobiles sont moins nombreuses et elles fonctionnent avec moins de friction. Dispon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089QP4QNB/?tag=tolees0d-21)
