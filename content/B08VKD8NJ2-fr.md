@@ -28,11 +28,11 @@ Vous avez [Head & Shoulders  Anti-Démangeaisons 2en1 Shampoing et Après-shampo
 
 ℹ️:
 
-- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
 - La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
-- Le shampoing Anti-Démangeaisons 2 en 1 à l’eucalyptus apaise le cuir chevelu et soulage les démangeaisons causées par les pellicules
 - Pour une combinaison parfaite, il est à utiliser avec un après-shampoing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
+- Le shampoing Anti-Démangeaisons 2 en 1 à l’eucalyptus apaise le cuir chevelu et soulage les démangeaisons causées par les pellicules
 - Cible la cause première des pellicules pour éliminer jusqu’à 100 % des pellicules (avec une utilisation régulière)
+- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
 - Protection contre les démangeaisons jusqu’à 72 h (pellicules visibles, avec utilisation régulière) (démangeaisons liées aux pellicules)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VKD8NJ2/?tag=tolees0d-21)

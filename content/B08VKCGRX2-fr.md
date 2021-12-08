@@ -29,10 +29,10 @@ Vous avez [Head & Shoulders  Sensitive 2 en 1 Shampoing et Après-shampoing Anti
 ℹ️:
 
 - Protection contre les démangeaisons jusqu’à 72 h (pellicules visibles, avec utilisation régulière) (démangeaisons liées aux pellicules)
-- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
-- Le shampoing antipelliculaire Sensitive 2 en 1, à lAloe Vera, apaise le cuir chevelu tout en le nettoyant doucement
-- La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
-- Pour une combinaison parfaite, il est à utiliser avec un après-shampoing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
 - Cible la cause première des pellicules pour éliminer jusqu’à 100 % des pellicules (avec une utilisation régulière)
+- La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
+- Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
+- Pour une combinaison parfaite, il est à utiliser avec un après-shampoing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
+- Le shampoing antipelliculaire Sensitive 2 en 1, à lAloe Vera, apaise le cuir chevelu tout en le nettoyant doucement
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VKCGRX2/?tag=tolees0d-21)

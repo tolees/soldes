@@ -28,11 +28,11 @@ C'est en vente [Head & Shoulders  Apple Fresh 2en1 Shampoing et Après-shampoing
 
 ℹ️:
 
-- La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
-- Cible la cause première des pellicules pour éliminer jusqu’à 100 % des pellicules (avec une utilisation régulière)
 - Protection contre les démangeaisons jusqu’à 72 h (pellicules visibles, avec utilisation régulière) (démangeaisons dues aux pellicules)
 - Pour une combinaison parfaite, il est à utiliser avec un après-shampoing H&S qui hydrate profondément les cheveux et le cuir chevelu pour de beaux cheveux
-- Le shampoing Apple Fresh 2 en 1 nettoie efficacement les cheveux pour une sensation de fraîcheur et un parfum de pomme qui dure longtemps
 - Testé sous contrôle dermatologique, au pH équilibré et riche en antioxydants pour prendre soin de la chevelure et du cuir chevelu en douceur
+- Le shampoing Apple Fresh 2 en 1 nettoie efficacement les cheveux pour une sensation de fraîcheur et un parfum de pomme qui dure longtemps
+- Cible la cause première des pellicules pour éliminer jusqu’à 100 % des pellicules (avec une utilisation régulière)
+- La marque de shampoing numéro 1 au monde (calcul P&G basé sur les ventes de shampoing)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08VK5SYWS/?tag=tolees0d-21)
