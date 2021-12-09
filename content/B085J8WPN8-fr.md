@@ -28,10 +28,10 @@ Vous avez [Marque Amazon - Solimo Gel douche - Lot de 6  2 x Beurre de karité 4
 
 ℹ️:
 
-- 6 flacons de 400 ml chacun
+- Déposer du gel sur les mains ou une éponge humides, savonner puis rincer
 - 2 x Beurre de karité, 2 x Extraits dorange et damande, 2 x Sel marin et extrait de menthe
 - Convient à tous le types de peau et pour lusage quotidien
-- Déposer du gel sur les mains ou une éponge humides, savonner puis rincer
 - Testé sous contrôle dermatologique
+- 6 flacons de 400 ml chacun
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085J8WPN8/?tag=tolees0d-21)
