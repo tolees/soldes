@@ -28,11 +28,11 @@ C'est en vente [Amazfit STRATOS3 Smartwatch Unisex-Adult  Black  Normal](https:/
 
 ℹ️:
 
-- Stockage de musique (environ 400 chansons) et lecteur de musique indépendant pour une formation gratuite sur le téléphone
-- GPS continu de 70 heures avec modes sportifs réglables. En ajustant la précision GPS, votre itinéraire peut être suivi en continu de 35 à 70 heures.
-- 19 modes sportifs La série Stratos 3 offre une multitude de modes sportifs pour répondre à tous vos besoins, des activités quotidiennes aux sports professionnels.
 - Firstbeat Professional Workout Analysis offre diverses données de performance pour améliorer votre condition physique et éviter les blessures dues à un exercice excessif.
-- Écran MIP transflectif complet de 1,34 pouces spécifique au client, zone de visualisation plus grande et facile à lire même en plein soleil
+- GPS continu de 70 heures avec modes sportifs réglables. En ajustant la précision GPS, votre itinéraire peut être suivi en continu de 35 à 70 heures.
+- Stockage de musique (environ 400 chansons) et lecteur de musique indépendant pour une formation gratuite sur le téléphone
 - included_components: watch, charger, instruction book
+- 19 modes sportifs La série Stratos 3 offre une multitude de modes sportifs pour répondre à tous vos besoins, des activités quotidiennes aux sports professionnels.
+- Écran MIP transflectif complet de 1,34 pouces spécifique au client, zone de visualisation plus grande et facile à lire même en plein soleil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZJ525WQ/?tag=tolees0d-21)

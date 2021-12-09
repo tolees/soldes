@@ -28,10 +28,10 @@ Vous avez [Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large - Traitement
 
 ℹ️:
 
-- Boitier ergonomique bi matière confortable et résistant face aux chocs
-- Portée du ruban sans décrochage jusqu’à 3.50m
 - Lecture facile grâce au large ruban : 32mm - Traitement du ruban Mylar sur toute la longueur et Blade Armor sur les 8 premiers centimètres
+- Portée du ruban sans décrochage jusqu’à 3.50m
 - Crochet avec position du zéro réel pour mesures intérieures et extérieures - précision de Classe II - Crochet 3 rivets pour plus de solidité
 - Possibilité d’insérer une dragonne
+- Boitier ergonomique bi matière confortable et résistant face aux chocs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OAFBJFQ/?tag=tolees0d-21)
