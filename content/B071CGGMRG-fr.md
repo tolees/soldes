@@ -28,9 +28,9 @@ C'est en vente [Bialetti 0004943 Cafetière Italienne  Aluminium  Rouge  6 Tasse
 
 ℹ️:
 
-- Une tradition toute italienne: idéale pour la préparation du vrai café italien
+- Une qualité bon: une poignée ergonomique, un réservoir en aluminium qui facilite la diffusion de la chaleur et une soupape de sécurité brevetée
 - Tous feux sauf induction
 - Qualité et sécurité made in Italy: soupape de sécurité exclusive, facile à inspecter et à nettoyer, brevetée Bialetti
-- Une qualité bon: une poignée ergonomique, un réservoir en aluminium qui facilite la diffusion de la chaleur et une soupape de sécurité brevetée
+- Une tradition toute italienne: idéale pour la préparation du vrai café italien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071CGGMRG/?tag=tolees0d-21)

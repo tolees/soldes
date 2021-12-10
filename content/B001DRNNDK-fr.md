@@ -29,9 +29,9 @@ C'est en vente [Original MANN-FILTER Filtre à air C 35 154 - Pour véhicules pa
 ℹ️:
 
 - Trouvez le bon filtre : pièce de rechange en sélectionnant la marque, le modèle, le type de véhicule et le moteur dans la zone supérieure ou également via les numéros de clé (HSN/TSN) des documents du véhicule
-- La grande capacité de rétention des saletés et son efficacité de séparation, la faible résistance à lécoulement et la grande stabilité des plis garantissent le fonctionnement fiable pendant la durée dentretien
+- MANN-FILTER Filtre à air C 35 154 / Dimensions (mm): H = 70 ; A = 345 ; B = 136 / Filtre Premium en qualité dorigine
 - Filtres à air MANN-FILTER - Pour un air d’aspiration pur - Protection du moteur / débitmètre massique / autres composants sensibles - Conformes aux exigences de la technologie moderne de moteurs
 - MANN-FILTER se conforme aux exigences du règlement REACH et sengage à respecter la protection de lenvironnement lors du développement, de la fabrication et du recyclage de ses produits
-- MANN-FILTER Filtre à air C 35 154 / Dimensions (mm): H = 70 ; A = 345 ; B = 136 / Filtre Premium en qualité dorigine
+- La grande capacité de rétention des saletés et son efficacité de séparation, la faible résistance à lécoulement et la grande stabilité des plis garantissent le fonctionnement fiable pendant la durée dentretien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001DRNNDK/?tag=tolees0d-21)

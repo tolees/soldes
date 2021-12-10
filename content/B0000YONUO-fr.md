@@ -28,15 +28,15 @@ Vous avez [RÖSLE Chinois  passoire de qualité supérieure pour passer des sauc
 
 ℹ️:
 
-- Longueur 41 cm - Largeur 19,5 cm - Hauteur 16 cm - Longueur du manche 10,8 cm - Diamètre du fond 2,9 cm - Diamètre de la partie fonctionnelle 18 cm - Contenance 1,5 l - Acier inoxydable 18/10 ultra-brillant
-- La passoire esthétique est formée dune seule pièce et intégralement fabriquée dans une même dureté de matériau
+- Les fines perforations sur toute la surface permettent de passer efficacement - le manche robuste et la large surface dappui offrent une stabilité parfaite lors de lutilisation
+- Entretien facile : hygiénique, neutre en goût et en odeur grâce à lacier inoxydable - le chinois peut être nettoyé sans effort au lave-vaisselle
 - Les fines perforations sur toute la surface permettent de passer efficacement - le manche robuste et la large surface dappui offrent une stabilité parfaite lors de lutilisation
 - La passoire esthétique est formée dune seule pièce et intégralement fabriquée dans une même dureté de matériau
-- RÖSLE Chinois : passoire de qualité supérieure de RÖSLE pour passer des sauces et des soupes, ainsi que pour refroidir ou réchauffer rapidement. Une passoire de cuisine qui séduit grâce à sa fonction et à sa qualité, et qui sait également convaincre sur le plan esthétique
-- Les fines perforations sur toute la surface permettent de passer efficacement - le manche robuste et la large surface dappui offrent une stabilité parfaite lors de lutilisation
-- RÖSLE Chinois : passoire de qualité supérieure de RÖSLE pour passer des sauces et des soupes, ainsi que pour refroidir ou réchauffer rapidement. Une passoire de cuisine qui séduit grâce à sa fonction et à sa qualité, et qui sait également convaincre sur le plan esthétique
+- La passoire esthétique est formée dune seule pièce et intégralement fabriquée dans une même dureté de matériau
 - Entretien facile : hygiénique, neutre en goût et en odeur grâce à lacier inoxydable - le chinois peut être nettoyé sans effort au lave-vaisselle
 - Longueur 41 cm - Largeur 19,5 cm - Hauteur 16 cm - Longueur du manche 10,8 cm - Diamètre du fond 2,9 cm - Diamètre de la partie fonctionnelle 18 cm - Contenance 1,5 l - Acier inoxydable 18/10 ultra-brillant
-- Entretien facile : hygiénique, neutre en goût et en odeur grâce à lacier inoxydable - le chinois peut être nettoyé sans effort au lave-vaisselle
+- Longueur 41 cm - Largeur 19,5 cm - Hauteur 16 cm - Longueur du manche 10,8 cm - Diamètre du fond 2,9 cm - Diamètre de la partie fonctionnelle 18 cm - Contenance 1,5 l - Acier inoxydable 18/10 ultra-brillant
+- RÖSLE Chinois : passoire de qualité supérieure de RÖSLE pour passer des sauces et des soupes, ainsi que pour refroidir ou réchauffer rapidement. Une passoire de cuisine qui séduit grâce à sa fonction et à sa qualité, et qui sait également convaincre sur le plan esthétique
+- RÖSLE Chinois : passoire de qualité supérieure de RÖSLE pour passer des sauces et des soupes, ainsi que pour refroidir ou réchauffer rapidement. Une passoire de cuisine qui séduit grâce à sa fonction et à sa qualité, et qui sait également convaincre sur le plan esthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0000YONUO/?tag=tolees0d-21)

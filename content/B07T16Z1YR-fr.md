@@ -29,9 +29,9 @@ C'est en vente [Carte Lexar Professional 1667x 256 Go SDXC UHS-II](https://www.a
 ℹ️:
 
 - Bénéficiez de performances à haute vitesse avec la technologie UHS-II (U3) pour une vitesse de transfert en lecture allant jusquà 250 Mo/s (1667x). Température de fonctionnement: 0 ° à 70 ° C (32 ° F à 158 ° F)
+- Rétro-compatible avec les appareils UHS-I et limitée à vie
 - Capture des images haute qualité et des vidéos 1080p Full HD, 3D et 4K plus longues et incomparables, avec un appareil photo reflex, un caméscope HD ou une caméra 3D
 - Assure des transferts de fichiers ultra-rapides de la carte à l’ordinateur, accélérant considérablement les flux de travail
-- Rétro-compatible avec les appareils UHS-I et limitée à vie
 - Offre des options de capacité étendues, pouvant atteindre 256 Go, afin que vous puissiez filmer davantage de vidéos plus longues, sans avoir à changer de carte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07T16Z1YR/?tag=tolees0d-21)

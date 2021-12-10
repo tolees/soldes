@@ -28,10 +28,10 @@ Vous avez [Sika Stop Tout en 1  Traitement algicide et fongicide  prêt à l emp
 
 ℹ️:
 
-- APPLICATION: Prêt à lemploi et application au pulvérisateur sans rinçage. 1 fois appliqué, le produit ne laisse aucune trace ni aucune pellicule sur les matériaux. Peut-être peint ou recouvert par un enduit une fois les traces éliminées. Vérifier labsence de pluie, vent et gel 48h avant et après application. Ne pas appliquer sur trop forte chaleur supérieur à 30°C.
-- CONSOMMATION: un bidon de 5L = 35 à 50m². Fabriqué en France.
-- ACTION CURATIVE ET PREVENTIVE: Sika Stop Tout en 1 agit dans la durée et permet un traitement préventif contre la repousse
 - MULTI-SUPPORTS: Ardoise, pierre, brique, mortier, tuiles, fibre-ciment, plâtre, faïence, zinc, shingle. Idéal pour toiture, terrasse, mur de façade, mur de clôture, dallage, balcon, escalier extrérieur, équipement de loisirs, statues, bassin non poissonneux, bois, pignon, enduit
+- ACTION CURATIVE ET PREVENTIVE: Sika Stop Tout en 1 agit dans la durée et permet un traitement préventif contre la repousse
+- CONSOMMATION: un bidon de 5L = 35 à 50m². Fabriqué en France.
 - Nettoyer et protéger sa maison cest de lui redonner de la valeur! Nettoyant désincrustant de surfaces extérieures. Formule complète qui agit contre les algues vertes, rouges, lichens et traces noires
+- APPLICATION: Prêt à lemploi et application au pulvérisateur sans rinçage. 1 fois appliqué, le produit ne laisse aucune trace ni aucune pellicule sur les matériaux. Peut-être peint ou recouvert par un enduit une fois les traces éliminées. Vérifier labsence de pluie, vent et gel 48h avant et après application. Ne pas appliquer sur trop forte chaleur supérieur à 30°C.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084N4PKR8/?tag=tolees0d-21)

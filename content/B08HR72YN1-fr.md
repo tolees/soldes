@@ -29,9 +29,9 @@ C'est en vente [Aarke Carbonator 3  Machine à Soda avec Bouteille d eau  Finiti
 ℹ️:
 
 - Son utilisation est simple : remplissez simplement la bouteille en PET Aarke fournie avec de leau propre et vissez-la dans la machine ; Appuyez sur le levier et maintenez-le jusquà ce que vous entendiez un bourdonnement, puis relâchez et dévissez la bouteille de la machine à eau pétillante
-- Troisième génération de lemblématique Carbonator Aarke, ce modèle comporte plusieurs mises à jour, notamment un système de soupape de sécurité unique et une nouvelle buse de précision en acier inoxydable usinée CNC
-- Le Carbonator 3 Aarke est lun des machines d’eau gazeuse les plus élégants et les plus compacts; Oubliez les machines de soda en plastique du passé - quand il sagit de performance et de qualité, le boîtier en acier inoxydable sans soudure est conçu pour résister à lépreuve du temps
 - Bouteille de CO2 non incluse ; Compatible avec la plupart des bouteilles de gaz CO2 standard
+- Le Carbonator 3 Aarke est lun des machines d’eau gazeuse les plus élégants et les plus compacts; Oubliez les machines de soda en plastique du passé - quand il sagit de performance et de qualité, le boîtier en acier inoxydable sans soudure est conçu pour résister à lépreuve du temps
+- Troisième génération de lemblématique Carbonator Aarke, ce modèle comporte plusieurs mises à jour, notamment un système de soupape de sécurité unique et une nouvelle buse de précision en acier inoxydable usinée CNC
 - Machine à soda de qualité supérieure avec un design compact et une ingénierie haut de gamme pour une utilisation optimale; Disponible dans une gamme de finitions classiques pour rehausser nimporte quel comptoir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HR72YN1/?tag=tolees0d-21)

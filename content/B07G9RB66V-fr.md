@@ -28,12 +28,12 @@ Vous avez [SCHLEICH- Playset Horse Club Chevaux invités d’Hannah avec Chienne
 
 ℹ️:
 
-- Le portail peut être ouvert et refermé
-- La couverture protège le jeune poulain des températures basses
-- Âge recommandé 5-12 ans
-- Couverture et licol amovibles
-- Dimensions 40,0 x 30,0 x 20,0 cm (L x P x H)
 - Éléments de clôture emboîtables à volonté sur les deux côtés
+- Dimensions 40,0 x 30,0 x 20,0 cm (L x P x H)
 - Les paddocks se combinent avec la grande ferme équestre et les box
+- Couverture et licol amovibles
+- Le portail peut être ouvert et refermé
+- Âge recommandé 5-12 ans
+- La couverture protège le jeune poulain des températures basses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G9RB66V/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [PGA Tour 2K21  Nintendo Switch ](https://www.amazon.fr/dp/B08F51
 
 ℹ️:
 
-- Faites un parcours entre amis grâce aux parties locales et en ligne, avec les modes de jeu Coups alternés, Stroke Play, Skin et Scramble à 4 joueurs.
-- Les débutants pourront profiter de didacticiels en temps réel, dastuces et de suggestions de coups. Vous êtes déjà un vrai champion ? Peaufinez votre jeu avec le contrôle de la distance
 - SWINGUEZ AVEC CLASSE Composez et personnalisez votre MyPlayer avec des vêtements et du matériel appartenant aux marques que vous aimez
-- Prouvez que vous avez létoffe pour devenir le champion de la FedExCup. Défiez les pros du PGA TOUR au cours de votre carrière pour remporter des récompenses, du matériel et des vêtements
 - DE NOUVEAUX PARCOURS, DE NOUVEAUX PROS Jouez contre Justin Thomas et 11 autres pros sur de vrais parcours époustouflants, dont TPC Sawgrass, East Lake Golf Club, etc.
+- Prouvez que vous avez létoffe pour devenir le champion de la FedExCup. Défiez les pros du PGA TOUR au cours de votre carrière pour remporter des récompenses, du matériel et des vêtements
+- Les débutants pourront profiter de didacticiels en temps réel, dastuces et de suggestions de coups. Vous êtes déjà un vrai champion ? Peaufinez votre jeu avec le contrôle de la distance
+- Faites un parcours entre amis grâce aux parties locales et en ligne, avec les modes de jeu Coups alternés, Stroke Play, Skin et Scramble à 4 joueurs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08F51V9PQ/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ C'est en vente [Nanoleaf Canvas Pack d Extension - 4 Carrés Lumineux Additionne
 
 ℹ️:
 
-- Se connecte directement au réseau Wifi de votre maison: ni hub ni pont requis
+- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
 - Requiert le NANOLEAF Canevas smarte kit pour fonctionner
+- Se connecte directement au réseau Wifi de votre maison: ni hub ni pont requis
+- Gamme de tension: 100 VAC - 240 VAC
 - Panneaux tactiles! Les panneaux lumineux carrés NANOLEAF Canevas sont Pilotables simplement avec le toucher. Allumez ou éteignez votre installation NANOLEAF Canevas, changez les couleurs ou passez à une autre scène simplement en touchant un ou plusieurs panneaux
 - Pack dextension NANOLEAF Canevas: 4 panneaux intelligents carrés LED RGB
-- Gamme de tension: 100 VAC - 240 VAC
 - Fonctionne avec Alexa, Apple Home Kit, Google Assistant et IFTTT. Pilotable également via lappli NANOLEAF OU via la NANOLEAF remonte (connexion native)
-- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HRGX7MN/?tag=tolees0d-21)

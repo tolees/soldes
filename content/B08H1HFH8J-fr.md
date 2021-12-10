@@ -29,9 +29,9 @@ Vous avez [Carte UHS-II Lexar Professional 2000x 64 Go SDXC sans Lecteur  Jusqu 
 ℹ️:
 
 - Conçues pour durer
-- Rétrocompatible avec les appareils UHS-I
+- Performances à haute vitesse—Tire parti de la technologie UHS-II (U3) pour une vitesse de transfert en lecture allant jusquà 300 Mo/s (2000x)
 - Capture des images de haute qualité et des vidéos de longue durée en Full-HD et des vidéos 4K de qualité cinématographique
 - Assistance produit limitée à vie
-- Performances à haute vitesse—Tire parti de la technologie UHS-II (U3) pour une vitesse de transfert en lecture allant jusquà 300 Mo/s (2000x)
+- Rétrocompatible avec les appareils UHS-I
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H1HFH8J/?tag=tolees0d-21)

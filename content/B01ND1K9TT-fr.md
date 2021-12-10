@@ -28,11 +28,11 @@ C'est en vente [Amazon Basics Lot de 30 souris USB filaires à 3 boutons  Noir](
 
 ℹ️:
 
-- Capteur optique haute définition (1000 dpi) permettant une excellente réactivité du curseur pour un mouvement précis et une sélection de texte facile.
 - Lot de 30. Produit certifié Déballer sans sénerver (FFP).
-- La souris filaire à 3 boutons mesure 10,9 x 6,09 x 3,4 cm - Longueur du câble : 1,5 m.
-- Installation facile.
-- Souris optique USB à 3 boutons fluide, précise et abordable.
 - Compatible avec Windows et Mac OS.
+- La souris filaire à 3 boutons mesure 10,9 x 6,09 x 3,4 cm - Longueur du câble : 1,5 m.
+- Souris optique USB à 3 boutons fluide, précise et abordable.
+- Installation facile.
+- Capteur optique haute définition (1000 dpi) permettant une excellente réactivité du curseur pour un mouvement précis et une sélection de texte facile.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ND1K9TT/?tag=tolees0d-21)
