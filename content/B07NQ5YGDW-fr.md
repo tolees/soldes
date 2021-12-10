@@ -29,11 +29,11 @@ C'est en vente [TP-Link Clé Bluetooth UB400  adaptateur bluetooth 4.0  dongle b
 ℹ️:
 
 - 【Version Bluetooth 4.0】Cet adaptateur Bluetooth est compatible avec la version 4 Low Energy de la norme Bluetooth ainsi qu’avec les versions précédentes : V3/2.1/2.0/1.1.
-- Température de fonctionnement : 0°C ~ 40°C (32°F ~ 104°F)
 - 【Large compatibilité】Exclusivement compatible avec Microsoft Windows : 10/ 8.1/ 8 (installation automatique) 7 et XP (pilotes à télécharger sur notre site web)
 - 【Conception compacte】Son format vous permet de l’insérer dans nimporte quel port USB et de l’y laisser sans devoir l’ôter quand vous vous déplacez.
 - 【Adaptateur audio Bluetooth】Si vous recherchez un adaptateur audio Bluetooth pour Autoradio, Chaine Hi-Fi, Casque ou Enceintes amplifiées, l’adaptateur TP-Link HA100 est le produit Bluetooth adapté
-- 【Longue portée】Profitez de la musique via votre casque Bluetooth jusquà 10 m.
+- Température de fonctionnement : 0°C ~ 40°C (32°F ~ 104°F)
 - 【Reliez votre PC au bluetooth】Clé Bluetooth UB400 TP-Link ajoute la fonctionnalité Bluetooth à un ordinateur qui en est dépourvu, et permet à cet ordinateur de communiquer avec des appareils Bluetooth, tels que les : casques audio, haut-parleurs, claviers, souris, smartphones, tablettes, imprimantes, projecteurs, manettes de jeu etc …
+- 【Longue portée】Profitez de la musique via votre casque Bluetooth jusquà 10 m.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NQ5YGDW/?tag=tolees0d-21)

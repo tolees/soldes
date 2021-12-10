@@ -28,8 +28,8 @@ Vous avez [BLACK+DECKER Batterie Lithium 18V 2 Ah  Compatible avec Tous Les Outi
 
 ℹ️:
 
+- Cette batterie 18V est interchangeable avec tous les outils sans fil black&decker, aussi bien en bricolage quen jardin. un vrai plus !
 - Technologie lithium pas deffet mémoire et faible autodécharge
 - Une batterie au poids plume qui garantit une compacité et une légèreté hors du commun
-- Cette batterie 18V est interchangeable avec tous les outils sans fil black&decker, aussi bien en bricolage quen jardin. un vrai plus !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HVZ7P82/?tag=tolees0d-21)
