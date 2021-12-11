@@ -28,10 +28,10 @@ C'est en vente [HABA-004686 HABA société-Mon Premier trésor Grande sélection
 
 ℹ️:
 
-- Cette collection de jeux pour 2-6 joueurs de 3 à 12 ans rassemble les plus beaux trésors du jeu : Jeux de mémo, de course et de couleur
 - Avec du matériel de jeu conçu avec amour et adapté aux enfants, des plans de jeu imprimés recto-verso et 34 figurines en bois.
+- Cette collection de jeux pour 2-6 joueurs de 3 à 12 ans rassemble les plus beaux trésors du jeu : Jeux de mémo, de course et de couleur
 - Qui aide au mieux lagriculteur Bernt ? Qui achète les fruits les plus savoureux sur le marché ? Et qui sait où les animaux effrontés se sont cachés dans le pâturage ?
-- La collection de jeux favorise la compréhension et la mémoire des règles initiales, la reconnaissance et la dénomination des couleurs et donne aux enfants un grand sentiment dunité dans le jeu.
 - Le pack contient 10 jeux de plateau, de mémos et de cartes passionnants avec des règles simples et un temps de jeu court pour beaucoup de plaisir.
+- La collection de jeux favorise la compréhension et la mémoire des règles initiales, la reconnaissance et la dénomination des couleurs et donne aux enfants un grand sentiment dunité dans le jeu.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0057WTLNS/?tag=tolees0d-21)
