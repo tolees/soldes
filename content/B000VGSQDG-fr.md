@@ -22,14 +22,14 @@ descuento: '40.45'
 average: '7.61'
 ---
 
-Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
+- Country Of Release: EU
 - Record Label: Not Now
 - Year Of Release: 2010
-- Country Of Release: EU
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

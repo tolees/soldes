@@ -22,16 +22,16 @@ descuento: '47.11'
 average: '376.99'
 ---
 
-Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- 7 jeux de 3 tarauds (ébauche, 1/2 finition, finition) : m3 - 4 - 5 - 6 - 8 - 10 - 12.
-- 2 tourne à gauche, 5 porte filières, 7 forets, 1 tournevis, 1 jauge à filet
-- Utilisation manuelle.
 - Coffret métallique.
+- 7 jeux de 3 tarauds (ébauche, 1/2 finition, finition) : m3 - 4 - 5 - 6 - 8 - 10 - 12.
 - 7 filières avec cage : m3 - 4 - 5 - 6 - 8 - 10 - 12.
+- Utilisation manuelle.
+- 2 tourne à gauche, 5 porte filières, 7 forets, 1 tournevis, 1 jauge à filet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

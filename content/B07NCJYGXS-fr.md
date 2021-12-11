@@ -22,7 +22,7 @@ descuento: '29.61'
 average: '80.95'
 ---
 
-C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

@@ -22,15 +22,15 @@ descuento: '26.40'
 average: '22.36'
 ---
 
-C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Résistant à des centaines de cycles
-- Pré-chargées à lénergie solaire
-- Bonnes performances de décharge profonde
 - Haute récupération
+- Pré-chargées à lénergie solaire
+- Résistant à des centaines de cycles
+- Bonnes performances de décharge profonde
 
 [🛒 Achète-le!!]({{< param buyurl >}})

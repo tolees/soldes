@@ -22,16 +22,16 @@ descuento: '53.86'
 average: '7.0'
 ---
 
-Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Record Label: Wea
-- Catalog#: 2564654178
-- Notes: Ntsc All Region
 - Country Of Release: NLD
 - Year Of Release: 2012
+- Catalog#: 2564654178
+- Notes: Ntsc All Region
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

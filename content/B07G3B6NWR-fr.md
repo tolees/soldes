@@ -22,14 +22,14 @@ descuento: '74.96'
 average: '15.0'
 ---
 
-Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Emplacement S PEN
 - Fonction stand 2 positions
+- Emplacement S PEN
 - Protection des angles renforcée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

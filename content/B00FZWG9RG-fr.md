@@ -22,18 +22,18 @@ descuento: '70.58'
 average: '5.055'
 ---
 
-C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Disponible en H1, H4, H7, H1/H7 Box
 - Sélection des principales ampoules nécessaires dans un véhicule
-- Son petit format est optimisé pour un rangement dans la boîte à gants, dans le coffre ou sous le siège
-- Homologuée ECE
+- Disponible en H1, H4, H7, H1/H7 Box
 - Pour ne jamais tomber en panne d’ampoules et s’assurer de sa sécurité
-- Lampe principale (H1, H4, H7 ou H1+H7) + P21W + PY21W + P21/5W + C5W + R5W + W5W + T4W + 2x fusible 10A + 1x fusible 15A + 1x fusible 20A
 - Idéal lors de longs déplacements
+- Homologuée ECE
+- Son petit format est optimisé pour un rangement dans la boîte à gants, dans le coffre ou sous le siège
+- Lampe principale (H1, H4, H7 ou H1+H7) + P21W + PY21W + P21/5W + C5W + R5W + W5W + T4W + 2x fusible 10A + 1x fusible 15A + 1x fusible 20A
 
 [🛒 Achète-le!!]({{< param buyurl >}})

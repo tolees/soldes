@@ -22,16 +22,16 @@ descuento: '33.52'
 average: '44.935'
 ---
 
-Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Les différentes formes darts martiaux que maîtrise yagami lui permettent tout aussi bien de se sortir dembuscades tendues par un groupe dennemis que de combats singuliers.
-- Langues: doublage japonais/ anglais, textes français
 - Menez des enquêtes trépidantes: yagami étend son arsenal de détective grce à de nouveaux gadgets, de nouvelles techniques de filature et des méthodes dinfiltration toujours plus ingénieuses.
-- Entre ordre et chaos: dans lost judgment, incarnez une nouvelle fois takayuki yagami, un ancien avocat devenu détective qui nhésite jamais à en découdre.
 - Plongez dans un environnement exceptionnel
+- Langues: doublage japonais/ anglais, textes français
+- Les différentes formes darts martiaux que maîtrise yagami lui permettent tout aussi bien de se sortir dembuscades tendues par un groupe dennemis que de combats singuliers.
+- Entre ordre et chaos: dans lost judgment, incarnez une nouvelle fois takayuki yagami, un ancien avocat devenu détective qui nhésite jamais à en découdre.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

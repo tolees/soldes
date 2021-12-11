@@ -22,17 +22,17 @@ descuento: '25.06'
 average: '12.47'
 ---
 
-C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Nouveau look, même produit ! Le visuel des piles que vous recevez peut différer
 - Piles pré-chargées et prêtes à l’emploi ; peuvent être intégralement rechargées et atteindre 100 % de capacité, même après trois ans : peuvent être rechargées des centaines de fois avec une perte de puissance ou de capacité minimale
-- Piles AA rechargeables haute capacité (lot de 8, 2400 mAh) ; idéales pour une utilisation professionnelle ou quotidienne
+- Nouveau look, même produit ! Le visuel des piles que vous recevez peut différer
 - Pile longue durée ; la décharge graduelle permet de conserver 70 % de la capacité de la pile pendant six mois puis 50 % pendant 12 mois
 - Les piles peuvent être recyclées lorsqu’elles ne tiennent plus la charge
+- Piles AA rechargeables haute capacité (lot de 8, 2400 mAh) ; idéales pour une utilisation professionnelle ou quotidienne
 - Expédié dans un emballage « Déballer sans s’énerver » ; recyclable ;
 
 [🛒 Achète-le!!]({{< param buyurl >}})

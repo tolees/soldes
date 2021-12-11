@@ -22,14 +22,14 @@ descuento: '50.01'
 average: '29.99'
 ---
 
-C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
+- Jeux en français avec voix japonaises
 - Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
 - Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
-- Jeux en français avec voix japonaises
 
 [🛒 Achète-le!!]({{< param buyurl >}})
