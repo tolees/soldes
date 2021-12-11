@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Euroclinic Source de lumière LED avec 30.00 % rabais '
+title: 'Euroclinic Source de lumière LED'
 date: 2020-08-04 05:27:18
 image: 'https://m.media-amazon.com/images/I/41dlD+Fiv6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '992.6433333333333'
 ---
 
-C'est en vente [Euroclinic Source de lumière LED](https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  883.35 EUR (original: 1261.93 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Euroclinic Source de lumière LED](https://m.media-amazon.com/images/I/41dlD+Fiv6L._SL400_.jpg)](https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

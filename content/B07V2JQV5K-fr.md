@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DENTAVIE Dentifrice Soin Blancheur Bicar avec 29.09 % rabais '
+title: 'DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de Menthol Bio'
 date: 2020-10-10 06:26:31
 image: 'https://m.media-amazon.com/images/I/41pfWniM90L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.09'
 average: '2.34'
 ---
 
-C'est en vente [DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de Menthol Bio](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21)  à  29.09 % de réduction, prix final  2.34 EUR (original: 3.3 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![DENTAVIE Dentifrice Soin Blancheur Bicar](https://m.media-amazon.com/images/I/41pfWniM90L._SL400_.jpg)](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

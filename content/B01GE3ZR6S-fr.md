@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.77 % rabais sur Le Monde de Dory [Blu-Ray]'
+title: 'Le Monde de Dory [Blu-Ray]'
 date: 2020-09-14 06:29:42
 image: 'https://m.media-amazon.com/images/I/51Q6M7mvaRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.77'
 average: '12.44'
 ---
 
-Vous avez [Le Monde de Dory [Blu-Ray]](https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21)  à  37.77 % de réduction, prix final  12.44 EUR (original: 19.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Le Monde de Dory [Blu-Ray]](https://m.media-amazon.com/images/I/51Q6M7mvaRL._SL400_.jpg)](https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

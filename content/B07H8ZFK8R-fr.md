@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '65.01 % rabais sur Nero Standard 2019'
+title: 'Nero Standard 2019'
 date: 2020-10-07 05:05:07
 image: 'https://m.media-amazon.com/images/I/41nRRbSfZzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.01'
 average: '27.99'
 ---
 
-Vous avez [Nero Standard 2019](https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21)  à  65.01 % de réduction, prix final  27.99 EUR (original: 79.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Nero Standard 2019](https://m.media-amazon.com/images/I/41nRRbSfZzL._SL400_.jpg)](https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

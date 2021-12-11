@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meller - Bio Banna Minor Olive - Lunette avec 44.00 % rabais '
+title: 'Meller - Bio Banna Minor Olive - Lunettes de Soleil pour homme et femme'
 date: 2020-09-13 06:51:34
 image: 'https://m.media-amazon.com/images/I/31E-AhqiteL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.00'
 average: '25.2'
 ---
 
-C'est en vente [Meller - Bio Banna Minor Olive - Lunettes de Soleil pour homme et femme](https://www.amazon.fr/dp/B089MD9LCB/?tag=tolees0d-21)  à  44.00 % de réduction, prix final  25.2 EUR (original: 45.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Meller - Bio Banna Minor Olive - Lunette](https://m.media-amazon.com/images/I/31E-AhqiteL._SL400_.jpg)](https://www.amazon.fr/dp/B089MD9LCB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B089MD9LCB/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

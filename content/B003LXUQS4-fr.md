@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.91 % rabais sur Pradel Excellence - 31123 - Valise Cuisi'
+title: 'Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces - 15 Ustensiles et 7 Couteaux de Cuisine'
 date: 2020-06-05 02:35:57
 image: 'https://m.media-amazon.com/images/I/5138p4EG7KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.91'
 average: '57.99'
 ---
 
-Vous avez [Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces - 15 Ustensiles et 7 Couteaux de Cuisine](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21)  à  39.91 % de réduction, prix final  57.99 EUR (original: 96.5 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Pradel Excellence - 31123 - Valise Cuisi](https://m.media-amazon.com/images/I/5138p4EG7KL._SL400_.jpg)](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

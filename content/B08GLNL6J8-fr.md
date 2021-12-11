@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.03 % rabais sur UniqueMe [2 pièces Protection écran pour'
+title: 'UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10 et [3 pièces] Caméra Arrière Protecteur pour Xiaomi Mi Note 10 Caméra  [sans Bulles] TPU Film Protection écran'
 date: 2020-09-25 08:19:37
 image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '7.99'
 ---
 
-Vous avez [UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10 et [3 pièces] Caméra Arrière Protecteur pour Xiaomi Mi Note 10 Caméra  [sans Bulles] TPU Film Protection écran](https://www.amazon.fr/dp/B08GLNL6J8/?tag=tolees0d-21)  à  50.03 % de réduction, prix final  7.99 EUR (original: 15.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![UniqueMe [2 pièces Protection écran pour](https://m.media-amazon.com/images/I/51PIVGdk7hL._SL400_.jpg)](https://www.amazon.fr/dp/B08GLNL6J8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GLNL6J8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

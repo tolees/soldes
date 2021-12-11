@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Klamath Range II Polaire Demi-z avec 59.89 % rabais '
+title: 'Columbia Klamath Range II Polaire Demi-zippée Homme'
 date: 2020-09-16 09:17:32
 image: 'https://m.media-amazon.com/images/I/41IHo0CQlfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.89'
 average: '12.03'
 ---
 
-C'est en vente [Columbia Klamath Range II Polaire Demi-zippée Homme](https://www.amazon.fr/dp/B0817GH5XQ/?tag=tolees0d-21)  à  59.89 % de réduction, prix final  12.03 EUR (original: 29.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Columbia Klamath Range II Polaire Demi-z](https://m.media-amazon.com/images/I/41IHo0CQlfL._SL400_.jpg)](https://www.amazon.fr/dp/B0817GH5XQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B0817GH5XQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

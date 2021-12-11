@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.72 % rabais sur Tommy Jeans TJM Logo Pocket Tee T-Shirt '
+title: 'Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme'
 date: 2020-08-15 16:44:55
 image: 'https://m.media-amazon.com/images/I/41VJfAGJrzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.72'
 average: '23.83'
 ---
 
-Vous avez [Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21)  à  31.72 % de réduction, prix final  23.83 EUR (original: 34.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Tommy Jeans TJM Logo Pocket Tee T-Shirt ](https://m.media-amazon.com/images/I/41VJfAGJrzL._SL400_.jpg)](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.31 % rabais sur Disque Dur Externe 2to USB3.0 SATA  Stoc'
+title: 'Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Bleu '
 date: 2020-08-15 06:19:46
 image: 'https://m.media-amazon.com/images/I/41XtxD7NKZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.31'
 average: '63.99'
 ---
 
-Vous avez [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Bleu ](https://www.amazon.fr/dp/B08CZFDFKY/?tag=tolees0d-21)  à  52.31 % de réduction, prix final  63.99 EUR (original: 134.18 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Disque Dur Externe 2to USB3.0 SATA  Stoc](https://m.media-amazon.com/images/I/41XtxD7NKZL._SL400_.jpg)](https://www.amazon.fr/dp/B08CZFDFKY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CZFDFKY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avidsen 127003 Camera IP motorisée  Blan avec 21.22 % rabais '
+title: 'Avidsen 127003 Camera IP motorisée  Blanc'
 date: 2020-09-12 21:14:14
 image: 'https://m.media-amazon.com/images/I/31SJQpz31-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.22'
 average: '47.19'
 ---
 
-C'est en vente [Avidsen 127003 Camera IP motorisée  Blanc](https://www.amazon.fr/dp/B081N7YDVR/?tag=tolees0d-21)  à  21.22 % de réduction, prix final  47.19 EUR (original: 59.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Avidsen 127003 Camera IP motorisée  Blan](https://m.media-amazon.com/images/I/31SJQpz31-L._SL400_.jpg)](https://www.amazon.fr/dp/B081N7YDVR/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B081N7YDVR/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

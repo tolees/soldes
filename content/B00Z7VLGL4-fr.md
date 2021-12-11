@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.01 % rabais sur EXZACT Balance de Cuisine Électronique à'
+title: 'EXZACT Balance de Cuisine Électronique à Grand Écran avec Bol à Mélanger en Inox - 5 kg / 11lb  EX4350 '
 date: 2020-09-12 14:28:50
 image: 'https://m.media-amazon.com/images/I/41TxwZCqcIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.01'
 average: '23.99'
 ---
 
-Vous avez [EXZACT Balance de Cuisine Électronique à Grand Écran avec Bol à Mélanger en Inox - 5 kg / 11lb  EX4350 ](https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  23.99 EUR (original: 39.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![EXZACT Balance de Cuisine Électronique à](https://m.media-amazon.com/images/I/41TxwZCqcIL._SL400_.jpg)](https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

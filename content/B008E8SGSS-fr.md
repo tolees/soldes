@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.44 % rabais sur Lacoste - Polo - L1230-00 - Sport - Homm'
+title: 'Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 '
 date: 2020-09-18 07:11:15
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.44'
 average: '46.85'
 ---
 
-Vous avez [Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 ](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)  à  41.44 % de réduction, prix final  46.85 EUR (original: 80.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lacoste - Polo - L1230-00 - Sport - Homm](https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg)](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.47 % rabais sur Still on the Run - the Jeff Beck Story ['
+title: 'Still on the Run - the Jeff Beck Story [Blu-ray]'
 date: 2020-10-12 08:20:51
 image: 'https://m.media-amazon.com/images/I/41vxdPVuCgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-Vous avez [Still on the Run - the Jeff Beck Story [Blu-ray]](https://www.amazon.fr/dp/B07BF248HC/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Still on the Run - the Jeff Beck Story [](https://m.media-amazon.com/images/I/41vxdPVuCgL._SL400_.jpg)](https://www.amazon.fr/dp/B07BF248HC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BF248HC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

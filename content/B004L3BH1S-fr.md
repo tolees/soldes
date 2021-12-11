@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Rugged 6 inch Plain Toe Water avec 30.49 % rabais '
+title: 'Timberland Rugged 6 inch Plain Toe Waterproof  Bottes Homme Marron  Medium Brown  42 EU'
 date: 2020-05-22 20:07:13
 image: 'https://m.media-amazon.com/images/I/41FF4UXFsgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.49'
 average: '145.98'
 ---
 
-C'est en vente [Timberland Rugged 6 inch Plain Toe Waterproof  Bottes Homme Marron  Medium Brown  42 EU](https://www.amazon.fr/dp/B004L3BH1S/?tag=tolees0d-21)  à  30.49 % de réduction, prix final  145.98 EUR (original: 210.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Timberland Rugged 6 inch Plain Toe Water](https://m.media-amazon.com/images/I/41FF4UXFsgL._SL400_.jpg)](https://www.amazon.fr/dp/B004L3BH1S/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B004L3BH1S/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

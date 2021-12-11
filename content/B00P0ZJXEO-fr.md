@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '91.18 % rabais sur Italia Independent 0090CV-009-000 Lunett'
+title: 'Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50'
 date: 2020-05-25 15:16:05
 image: 'https://m.media-amazon.com/images/I/31VST+2dgYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '91.18'
 average: '30.87'
 ---
 
-Vous avez [Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50](https://www.amazon.fr/dp/B00P0ZJXEO/?tag=tolees0d-21)  à  91.18 % de réduction, prix final  30.87 EUR (original: 350.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Italia Independent 0090CV-009-000 Lunett](https://m.media-amazon.com/images/I/31VST+2dgYL._SL400_.jpg)](https://www.amazon.fr/dp/B00P0ZJXEO/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P0ZJXEO/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

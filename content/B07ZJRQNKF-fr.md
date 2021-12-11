@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartable 41 Tann s Les Chinés Teddy  Gri avec 46.41 % rabais '
+title: 'Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge'
 date: 2020-10-01 16:39:12
 image: 'https://m.media-amazon.com/images/I/51elpqmDrzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.41'
 average: '46.89'
 ---
 
-C'est en vente [Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)  à  46.41 % de réduction, prix final  46.89 EUR (original: 87.5 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cartable 41 Tann s Les Chinés Teddy  Gri](https://m.media-amazon.com/images/I/51elpqmDrzL._SL400_.jpg)](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Scrimmage 2.0 Sac à Dos Mix avec 56.65 % rabais '
+title: 'Under Armour Scrimmage 2.0 Sac à Dos Mixte  Rouge  Taille unique'
 date: 2020-09-19 08:09:12
 image: 'https://m.media-amazon.com/images/I/41KW0JU5JXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.65'
 average: '17.34'
 ---
 
-C'est en vente [Under Armour Scrimmage 2.0 Sac à Dos Mixte  Rouge  Taille unique](https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21)  à  56.65 % de réduction, prix final  17.34 EUR (original: 40.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour Scrimmage 2.0 Sac à Dos Mix](https://m.media-amazon.com/images/I/41KW0JU5JXL._SL400_.jpg)](https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

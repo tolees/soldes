@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.93 % rabais sur Calor EP2850C0 Épilateur Flower Love'
+title: 'Calor EP2850C0 Épilateur Flower Love'
 date: 2020-05-22 21:52:41
 image: 'https://m.media-amazon.com/images/I/41m5bkImGEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.93'
 average: '42.95'
 ---
 
-Vous avez [Calor EP2850C0 Épilateur Flower Love](https://www.amazon.fr/dp/B00U6QA7V0/?tag=tolees0d-21)  à  18.93 % de réduction, prix final  42.95 EUR (original: 52.98 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Calor EP2850C0 Épilateur Flower Love](https://m.media-amazon.com/images/I/41m5bkImGEL._SL400_.jpg)](https://www.amazon.fr/dp/B00U6QA7V0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00U6QA7V0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.70 % rabais sur Spark - Miniature Voiture Red Bull Tag H'
+title: 'Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp 2017 Echelle 1/18  18S305  Bleu/ Rouge/ Jaune'
 date: 2020-08-10 09:05:13
 image: 'https://m.media-amazon.com/images/I/41Scyern4ZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.70'
 average: '97.44'
 ---
 
-Vous avez [Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp 2017 Echelle 1/18  18S305  Bleu/ Rouge/ Jaune](https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21)  à  38.70 % de réduction, prix final  97.44 EUR (original: 158.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Spark - Miniature Voiture Red Bull Tag H](https://m.media-amazon.com/images/I/41Scyern4ZL._SL400_.jpg)](https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

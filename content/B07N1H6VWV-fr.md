@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.83 % rabais sur Kipling Youri Spin 68 Luggage 71 L Black'
+title: 'Kipling Youri Spin 68 Luggage 71 L Black Indigo'
 date: 2020-05-22 23:42:06
 image: 'https://m.media-amazon.com/images/I/41Lxcx9oq2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.83'
 average: '169.64'
 ---
 
-Vous avez [Kipling Youri Spin 68 Luggage 71 L Black Indigo](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)  à  18.83 % de réduction, prix final  169.64 EUR (original: 209.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kipling Youri Spin 68 Luggage 71 L Black](https://m.media-amazon.com/images/I/41Lxcx9oq2L._SL400_.jpg)](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

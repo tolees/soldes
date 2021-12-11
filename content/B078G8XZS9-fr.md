@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe 34712000 Pack Encastré Mécanique 3 avec 57.63 % rabais '
+title: 'Grohe 34712000 Pack Encastré Mécanique 3 Sorties  Smartcontrol  Chromé  Import Allemagne '
 date: 2020-05-23 00:13:45
 image: 'https://m.media-amazon.com/images/I/41DV0KU9qDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.63'
 average: '757.0'
 ---
 
-C'est en vente [Grohe 34712000 Pack Encastré Mécanique 3 Sorties  Smartcontrol  Chromé  Import Allemagne ](https://www.amazon.fr/dp/B078G8XZS9/?tag=tolees0d-21)  à  57.63 % de réduction, prix final  757.0 EUR (original: 1786.8 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Grohe 34712000 Pack Encastré Mécanique 3](https://m.media-amazon.com/images/I/41DV0KU9qDL._SL400_.jpg)](https://www.amazon.fr/dp/B078G8XZS9/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B078G8XZS9/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AutoStyle IA 78040 Ressorts d abaissemen avec 21.07 % rabais '
+title: 'AutoStyle IA 78040 Ressorts d abaissement pour'
 date: 2020-05-22 22:05:13
 image: 'https://m.media-amazon.com/images/I/51xLsxfKB5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.07'
 average: '106.56'
 ---
 
-C'est en vente [AutoStyle IA 78040 Ressorts d abaissement pour](https://www.amazon.fr/dp/B00DP3STGG/?tag=tolees0d-21)  à  21.07 % de réduction, prix final  106.56 EUR (original: 135.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![AutoStyle IA 78040 Ressorts d abaissemen](https://m.media-amazon.com/images/I/51xLsxfKB5L._SL400_.jpg)](https://www.amazon.fr/dp/B00DP3STGG/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00DP3STGG/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VTechKidizoom Smartwatch Connect DX2 – F avec 17.60 % rabais '
+title: 'VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre Connectée Pour Enfants'
 date: 2020-09-26 07:41:09
 image: 'https://m.media-amazon.com/images/I/51O5jirOpML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.60'
 average: '61.79'
 ---
 
-C'est en vente [VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre Connectée Pour Enfants](https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21)  à  17.60 % de réduction, prix final  61.79 EUR (original: 74.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![VTechKidizoom Smartwatch Connect DX2 – F](https://m.media-amazon.com/images/I/51O5jirOpML._SL400_.jpg)](https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kai DM.0701 Couteau Universel avec 24.48 % rabais '
+title: 'Kai DM.0701 Couteau Universel'
 date: 2020-05-22 22:08:41
 image: 'https://m.media-amazon.com/images/I/31KaEzaJlUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.48'
 average: '86.92'
 ---
 
-C'est en vente [Kai DM.0701 Couteau Universel](https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21)  à  24.48 % de réduction, prix final  86.92 EUR (original: 115.1 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kai DM.0701 Couteau Universel](https://m.media-amazon.com/images/I/31KaEzaJlUL._SL400_.jpg)](https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

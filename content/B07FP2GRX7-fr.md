@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO® DUPLO® Mes 1ers pas Mon premier pu avec 20.01 % rabais '
+title: 'LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu 18 Mois et Plus  15 Pièces 10885'
 date: 2020-08-11 14:10:29
 image: 'https://m.media-amazon.com/images/I/51+lI87uMiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.01'
 average: '15.99'
 ---
 
-C'est en vente [LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu 18 Mois et Plus  15 Pièces 10885](https://www.amazon.fr/dp/B07FP2GRX7/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO® DUPLO® Mes 1ers pas Mon premier pu](https://m.media-amazon.com/images/I/51+lI87uMiL._SL400_.jpg)](https://www.amazon.fr/dp/B07FP2GRX7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FP2GRX7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

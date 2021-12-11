@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Qualifier Storm Packable avec 70.25 % rabais '
+title: 'Under Armour UA Qualifier Storm Packable Jacket Veste Homme  Bleu  S'
 date: 2020-09-20 20:27:54
 image: 'https://m.media-amazon.com/images/I/41FgPf4ouzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '70.25'
 average: '29.75'
 ---
 
-C'est en vente [Under Armour UA Qualifier Storm Packable Jacket Veste Homme  Bleu  S](https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21)  à  70.25 % de réduction, prix final  29.75 EUR (original: 100.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour UA Qualifier Storm Packable](https://m.media-amazon.com/images/I/41FgPf4ouzL._SL400_.jpg)](https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

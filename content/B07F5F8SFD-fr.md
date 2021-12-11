@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.49 % rabais sur Kaamelott : L intégrale des Six livres ['
+title: 'Kaamelott : L intégrale des Six livres [DVD]'
 date: 2020-06-04 00:57:28
 image: 'https://m.media-amazon.com/images/I/51DrU8cdGBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.49'
 average: '69.99'
 ---
 
-Vous avez [Kaamelott : L intégrale des Six livres [DVD]](https://www.amazon.fr/dp/B07F5F8SFD/?tag=tolees0d-21)  à  22.49 % de réduction, prix final  69.99 EUR (original: 90.3 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kaamelott : L intégrale des Six livres [](https://m.media-amazon.com/images/I/51DrU8cdGBL._SL400_.jpg)](https://www.amazon.fr/dp/B07F5F8SFD/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07F5F8SFD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

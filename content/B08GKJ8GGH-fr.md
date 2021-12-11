@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.63 % rabais sur RIIMUHIR Verre Trempé pour Xiaomi Mi Not'
+title: 'RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite/cc9 Pro [2 pièce]  Films et Protections d Écran [Couverture Complète 9D] [HD et Transparent] [sans Bulles] [Anti Rayures]'
 date: 2020-08-31 05:08:56
 image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.63'
 average: '9.59'
 ---
 
-Vous avez [RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite/cc9 Pro [2 pièce]  Films et Protections d Écran [Couverture Complète 9D] [HD et Transparent] [sans Bulles] [Anti Rayures]](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)  à  26.63 % de réduction, prix final  9.59 EUR (original: 13.07 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![RIIMUHIR Verre Trempé pour Xiaomi Mi Not](https://m.media-amazon.com/images/I/41ukwSSmHCL._SL400_.jpg)](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

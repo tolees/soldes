@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kenwood Hachoir à Viande Electrique MG70 avec 37.70 % rabais '
+title: 'Kenwood Hachoir à Viande Electrique MG700  Semi- Pro  Puissance 2000 W  Inox Brossé'
 date: 2020-08-12 07:16:25
 image: 'https://m.media-amazon.com/images/I/41w81lj8scL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.70'
 average: '167.89'
 ---
 
-C'est en vente [Kenwood Hachoir à Viande Electrique MG700  Semi- Pro  Puissance 2000 W  Inox Brossé](https://www.amazon.fr/dp/B002PCZ1VE/?tag=tolees0d-21)  à  37.70 % de réduction, prix final  167.89 EUR (original: 269.5 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kenwood Hachoir à Viande Electrique MG70](https://m.media-amazon.com/images/I/41w81lj8scL._SL400_.jpg)](https://www.amazon.fr/dp/B002PCZ1VE/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B002PCZ1VE/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOBOO Mini RC Drone pour Enfants  Quadco avec 43.40 % rabais '
+title: 'BOBOO Mini RC Drone pour Enfants  Quadcopter RC Pliable avec Mode de Maintien d altitude  décollage et atterrissage à Une Touche  Flips 3D et Mode sans tête  Facile à Piloter pour Les débutants'
 date: 2020-08-29 11:14:53
 image: 'https://m.media-amazon.com/images/I/51iOTo1aztL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.40'
 average: '29.99'
 ---
 
-C'est en vente [BOBOO Mini RC Drone pour Enfants  Quadcopter RC Pliable avec Mode de Maintien d altitude  décollage et atterrissage à Une Touche  Flips 3D et Mode sans tête  Facile à Piloter pour Les débutants](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21)  à  43.40 % de réduction, prix final  29.99 EUR (original: 52.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BOBOO Mini RC Drone pour Enfants  Quadco](https://m.media-amazon.com/images/I/51iOTo1aztL._SL400_.jpg)](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.32 % rabais sur Star 898-43 Décoration pour le Mur 16 Lu'
+title: 'Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 date: 2020-05-22 23:28:01
 image: 'https://m.media-amazon.com/images/I/51rMd3OhdLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.32'
 average: '64.09'
 ---
 
-Vous avez [Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert](https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21)  à  51.32 % de réduction, prix final  64.09 EUR (original: 131.65 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Star 898-43 Décoration pour le Mur 16 Lu](https://m.media-amazon.com/images/I/51rMd3OhdLL._SL400_.jpg)](https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate Coques Avant et Grips Poigné avec 34.49 % rabais '
+title: 'eXtremeRate Coques Avant et Grips Poignée Boîtier Housse de Remplacement pour Xbox One X/One S Manette Contrôleur Modèle 1708 -Grain de Bois'
 date: 2020-09-30 03:33:30
 image: 'https://m.media-amazon.com/images/I/41s+xdz5ScL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.49'
 average: '18.99'
 ---
 
-C'est en vente [eXtremeRate Coques Avant et Grips Poignée Boîtier Housse de Remplacement pour Xbox One X/One S Manette Contrôleur Modèle 1708 -Grain de Bois](https://www.amazon.fr/dp/B08JQGPLV1/?tag=tolees0d-21)  à  34.49 % de réduction, prix final  18.99 EUR (original: 28.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![eXtremeRate Coques Avant et Grips Poigné](https://m.media-amazon.com/images/I/41s+xdz5ScL._SL400_.jpg)](https://www.amazon.fr/dp/B08JQGPLV1/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQGPLV1/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

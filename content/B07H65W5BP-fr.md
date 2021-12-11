@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emsa M5262000 Click & Grow Smart Garden  avec 19.92 % rabais '
+title: 'Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d intérieur Gris Potager d intérieur'
 date: 2020-05-22 21:59:46
 image: 'https://m.media-amazon.com/images/I/41RIuEtmMeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.92'
 average: '159.99'
 ---
 
-C'est en vente [Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d intérieur Gris Potager d intérieur](https://www.amazon.fr/dp/B07H65W5BP/?tag=tolees0d-21)  à  19.92 % de réduction, prix final  159.99 EUR (original: 199.8 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Emsa M5262000 Click & Grow Smart Garden ](https://m.media-amazon.com/images/I/41RIuEtmMeL._SL400_.jpg)](https://www.amazon.fr/dp/B07H65W5BP/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07H65W5BP/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

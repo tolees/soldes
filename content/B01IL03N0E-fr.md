@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60.00 % rabais sur Swiftpak Pro-loc 305 x 406 mm Heavy Duty'
+title: 'Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable Sacs  lot de 500 '
 date: 2020-08-08 16:27:18
 image: 'https://m.media-amazon.com/images/I/31Q4+xcRn9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '8.64'
 ---
 
-Vous avez [Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable Sacs  lot de 500 ](https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  8.64 EUR (original: 21.6 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Swiftpak Pro-loc 305 x 406 mm Heavy Duty](https://m.media-amazon.com/images/I/31Q4+xcRn9L._SL400_.jpg)](https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

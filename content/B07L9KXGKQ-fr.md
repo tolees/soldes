@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Accelerate Terrace II Veste avec 66.58 % rabais '
+title: 'Under Armour Accelerate Terrace II Veste Homme  Noir  L'
 date: 2020-09-21 08:29:44
 image: 'https://m.media-amazon.com/images/I/31wKfsBzekL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.58'
 average: '40.11'
 ---
 
-C'est en vente [Under Armour Accelerate Terrace II Veste Homme  Noir  L](https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21)  à  66.58 % de réduction, prix final  40.11 EUR (original: 120.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour Accelerate Terrace II Veste](https://m.media-amazon.com/images/I/31wKfsBzekL._SL400_.jpg)](https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

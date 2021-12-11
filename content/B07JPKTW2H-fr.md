@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '54.72 % rabais sur Amazon Essentials Half-Zip Active Jacket'
+title: 'Amazon Essentials Half-Zip Active Jacket Outerwear  Rose  Large'
 date: 2020-09-29 09:44:52
 image: 'https://m.media-amazon.com/images/I/417PvUXXrmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.72'
 average: '6.24'
 ---
 
-Vous avez [Amazon Essentials Half-Zip Active Jacket Outerwear  Rose  Large](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21)  à  54.72 % de réduction, prix final  6.24 EUR (original: 13.78 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Amazon Essentials Half-Zip Active Jacket](https://m.media-amazon.com/images/I/417PvUXXrmL._SL400_.jpg)](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

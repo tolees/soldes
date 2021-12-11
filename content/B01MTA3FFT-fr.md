@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony FDR-X3000R + AKA-FGP1 Camera d acti avec 20.36 % rabais '
+title: 'Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-stabilisée/4K | Travel Kit | Blanc'
 date: 2020-09-26 08:44:44
 image: 'https://m.media-amazon.com/images/I/51+QIzYOl2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.36'
 average: '477.85'
 ---
 
-C'est en vente [Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-stabilisée/4K | Travel Kit | Blanc](https://www.amazon.fr/dp/B01MTA3FFT/?tag=tolees0d-21)  à  20.36 % de réduction, prix final  477.85 EUR (original: 600.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Sony FDR-X3000R + AKA-FGP1 Camera d acti](https://m.media-amazon.com/images/I/51+QIzYOl2L._SL400_.jpg)](https://www.amazon.fr/dp/B01MTA3FFT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MTA3FFT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

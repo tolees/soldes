@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Extech SL510 Sonomètre  Vert avec 29.42 % rabais '
+title: 'Extech SL510 Sonomètre  Vert'
 date: 2020-10-02 13:08:33
 image: 'https://m.media-amazon.com/images/I/41rkTLbPybL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.42'
 average: '127.01'
 ---
 
-C'est en vente [Extech SL510 Sonomètre  Vert](https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21)  à  29.42 % de réduction, prix final  127.01 EUR (original: 179.94 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Extech SL510 Sonomètre  Vert](https://m.media-amazon.com/images/I/41rkTLbPybL._SL400_.jpg)](https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda R´Belle 2-in-1 Style: Long avec 25.19 % rabais '
+title: 'Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee with Inner Tank T-Shirt  Multicolore  Combo A 217   128 Fille'
 date: 2020-05-22 22:21:39
 image: 'https://m.media-amazon.com/images/I/51e6iI2fNqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.19'
 average: '51.62'
 ---
 
-C'est en vente [Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee with Inner Tank T-Shirt  Multicolore  Combo A 217   128 Fille](https://www.amazon.fr/dp/B07CNRFWGX/?tag=tolees0d-21)  à  25.19 % de réduction, prix final  51.62 EUR (original: 69.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Scotch & Soda R´Belle 2-in-1 Style: Long](https://m.media-amazon.com/images/I/51e6iI2fNqL._SL400_.jpg)](https://www.amazon.fr/dp/B07CNRFWGX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CNRFWGX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

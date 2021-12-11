@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.63 % rabais sur Thule EuroRide 2 13-pin  Porte-vélos sur'
+title: 'Thule EuroRide 2 13-pin  Porte-vélos sur boule d attelage fonctionnel répondant à tous vos besoins de base  pour 2 vélos .'
 date: 2020-10-09 20:27:47
 image: 'https://m.media-amazon.com/images/I/41a6k72rmmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.63'
 average: '243.41'
 ---
 
-Vous avez [Thule EuroRide 2 13-pin  Porte-vélos sur boule d attelage fonctionnel répondant à tous vos besoins de base  pour 2 vélos .](https://www.amazon.fr/dp/B003DTL84C/?tag=tolees0d-21)  à  40.63 % de réduction, prix final  243.41 EUR (original: 409.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Thule EuroRide 2 13-pin  Porte-vélos sur](https://m.media-amazon.com/images/I/41a6k72rmmL._SL400_.jpg)](https://www.amazon.fr/dp/B003DTL84C/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003DTL84C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

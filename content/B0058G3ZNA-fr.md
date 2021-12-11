@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Objectif Olympus M.Zuiko Digital 14-42mm avec 48.57 % rabais '
+title: 'Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R  zoom standard  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir'
 date: 2020-05-29 17:56:41
 image: 'https://m.media-amazon.com/images/I/41DaFsS3WPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.57'
 average: '179.99'
 ---
 
-C'est en vente [Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R  zoom standard  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir](https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21)  à  48.57 % de réduction, prix final  179.99 EUR (original: 349.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Objectif Olympus M.Zuiko Digital 14-42mm](https://m.media-amazon.com/images/I/41DaFsS3WPL._SL400_.jpg)](https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

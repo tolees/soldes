@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'F1 2018 - Edition Headline avec 61.22 % rabais '
+title: 'F1 2018 - Edition Headline'
 date: 2020-10-10 06:27:42
 image: 'https://m.media-amazon.com/images/I/51gTZqqZdDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.22'
 average: '27.14'
 ---
 
-C'est en vente [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)  à  61.22 % de réduction, prix final  27.14 EUR (original: 69.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![F1 2018 - Edition Headline](https://m.media-amazon.com/images/I/51gTZqqZdDL._SL400_.jpg)](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

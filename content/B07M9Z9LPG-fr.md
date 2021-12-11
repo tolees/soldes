@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le Tanneur Gaspard TGAS4000  Hommes  Noi avec 56.21 % rabais '
+title: 'Le Tanneur Gaspard TGAS4000  Hommes  Noir  Noir   7.5x30.5x38.5 cm  W x H x L '
 date: 2020-08-06 19:43:33
 image: 'https://m.media-amazon.com/images/I/41RT1R71LuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.21'
 average: '113.42'
 ---
 
-C'est en vente [Le Tanneur Gaspard TGAS4000  Hommes  Noir  Noir   7.5x30.5x38.5 cm  W x H x L ](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21)  à  56.21 % de réduction, prix final  113.42 EUR (original: 259.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Le Tanneur Gaspard TGAS4000  Hommes  Noi](https://m.media-amazon.com/images/I/41RT1R71LuL._SL400_.jpg)](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

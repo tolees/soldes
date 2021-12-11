@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smith Network MIPS Casque de vélo Adulte avec 29.69 % rabais '
+title: 'Smith Network MIPS Casque de vélo Adulte Unisexe  Mike Giant  l'
 date: 2020-05-22 21:11:27
 image: 'https://m.media-amazon.com/images/I/51d8kAi2vCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.69'
 average: '112.5'
 ---
 
-C'est en vente [Smith Network MIPS Casque de vélo Adulte Unisexe  Mike Giant  l](https://www.amazon.fr/dp/B07GLKK8P7/?tag=tolees0d-21)  à  29.69 % de réduction, prix final  112.5 EUR (original: 160.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Smith Network MIPS Casque de vélo Adulte](https://m.media-amazon.com/images/I/51d8kAi2vCL._SL400_.jpg)](https://www.amazon.fr/dp/B07GLKK8P7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GLKK8P7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

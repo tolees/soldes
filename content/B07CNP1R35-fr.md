@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YAMAHA RX-V485 – Amplificateur Home Cine avec 32.55 % rabais '
+title: 'YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système Bluetooth  Wifi  Airplay  Multiroom – Compatible avec smartphones et ordinateurs – Noir'
 date: 2020-08-28 11:23:53
 image: 'https://m.media-amazon.com/images/I/417Ly7nf6QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.55'
 average: '323.09'
 ---
 
-C'est en vente [YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système Bluetooth  Wifi  Airplay  Multiroom – Compatible avec smartphones et ordinateurs – Noir](https://www.amazon.fr/dp/B07CNP1R35/?tag=tolees0d-21)  à  32.55 % de réduction, prix final  323.09 EUR (original: 479.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![YAMAHA RX-V485 – Amplificateur Home Cine](https://m.media-amazon.com/images/I/417Ly7nf6QL._SL400_.jpg)](https://www.amazon.fr/dp/B07CNP1R35/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CNP1R35/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '71.05 % rabais sur Safavieh Tapis Intérieur et Extérieur  T'
+title: 'Safavieh Tapis Intérieur et Extérieur  Tissé Polypropylène Tapis en Gris Clair / Ivoire  120 X 180 cm'
 date: 2020-05-25 11:19:37
 image: 'https://m.media-amazon.com/images/I/51QM0nvza+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.05'
 average: '71.21'
 ---
 
-Vous avez [Safavieh Tapis Intérieur et Extérieur  Tissé Polypropylène Tapis en Gris Clair / Ivoire  120 X 180 cm](https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21)  à  71.05 % de réduction, prix final  71.21 EUR (original: 245.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Safavieh Tapis Intérieur et Extérieur  T](https://m.media-amazon.com/images/I/51QM0nvza+L._SL400_.jpg)](https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

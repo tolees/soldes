@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '74.96 % rabais sur Samsung EF-BT830PJEGWW Etui à Rabat pour'
+title: 'Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris'
 date: 2021-02-10 06:43:43
 image: 'https://m.media-amazon.com/images/I/21h6OzWIA+L._SL400_.jpg'
 comments: true
@@ -22,14 +22,14 @@ descuento: '74.96'
 average: '15.0'
 ---
 
-Vous avez [Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris](https://www.amazon.fr/dp/B07G3B6NWR/?tag=tolees0d-21)  à  74.96 % de réduction, prix final  15.0 EUR (original: 59.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsung EF-BT830PJEGWW Etui à Rabat pour](https://m.media-amazon.com/images/I/21h6OzWIA+L._SL400_.jpg)](https://www.amazon.fr/dp/B07G3B6NWR/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Emplacement S PEN
-- Protection des angles renforcée
 - Fonction stand 2 positions
+- Protection des angles renforcée
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G3B6NWR/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '54.54 % rabais sur find. Suede Kitten Heel Escarpins  Rouge'
+title: 'find. Suede Kitten Heel Escarpins  Rouge Red   40 EU'
 date: 2020-08-03 22:38:37
 image: 'https://m.media-amazon.com/images/I/41x-HlSMQVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.54'
 average: '26.32'
 ---
 
-Vous avez [find. Suede Kitten Heel Escarpins  Rouge Red   40 EU](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21)  à  54.54 % de réduction, prix final  26.32 EUR (original: 57.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![find. Suede Kitten Heel Escarpins  Rouge](https://m.media-amazon.com/images/I/41x-HlSMQVL._SL400_.jpg)](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

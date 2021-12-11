@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.00 % rabais sur ELTEN 78671-43 Rigger Boot Chaussures de'
+title: 'ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3 CI Taille 43'
 date: 2020-08-07 14:27:24
 image: 'https://m.media-amazon.com/images/I/41HOFXZnQdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '60.52'
 ---
 
-Vous avez [ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3 CI Taille 43](https://www.amazon.fr/dp/B00GAK3PR4/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  60.52 EUR (original: 75.65 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![ELTEN 78671-43 Rigger Boot Chaussures de](https://m.media-amazon.com/images/I/41HOFXZnQdL._SL400_.jpg)](https://www.amazon.fr/dp/B00GAK3PR4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GAK3PR4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

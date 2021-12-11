@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XIFAN Coque pour Xiaomi Poco X3 NFC Nouv avec 33.36 % rabais '
+title: 'XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau Support [Fonctionne avec Support De Voiture Magnétique] Étui Housse  Rouge + 2 Pack Verre Trempé Écran Protecteur'
 date: 2020-09-18 09:46:46
 image: 'https://m.media-amazon.com/images/I/51efv1zNySL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.36'
 average: '7.99'
 ---
 
-C'est en vente [XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau Support [Fonctionne avec Support De Voiture Magnétique] Étui Housse  Rouge + 2 Pack Verre Trempé Écran Protecteur](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21)  à  33.36 % de réduction, prix final  7.99 EUR (original: 11.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![XIFAN Coque pour Xiaomi Poco X3 NFC Nouv](https://m.media-amazon.com/images/I/51efv1zNySL._SL400_.jpg)](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

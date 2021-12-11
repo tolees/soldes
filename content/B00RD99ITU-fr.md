@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Crocband  Sabots Mixte Adulte  Ros avec 49.99 % rabais '
+title: 'Crocs Crocband  Sabots Mixte Adulte  Rose  Pearl Pink/Wild Orchid   39/40 EU'
 date: 2020-08-16 18:45:19
 image: 'https://m.media-amazon.com/images/I/31RQxWZR3SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '22.5'
 ---
 
-C'est en vente [Crocs Crocband  Sabots Mixte Adulte  Rose  Pearl Pink/Wild Orchid   39/40 EU](https://www.amazon.fr/dp/B00RD99ITU/?tag=tolees0d-21)  à  49.99 % de réduction, prix final  22.5 EUR (original: 44.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Crocs Crocband  Sabots Mixte Adulte  Ros](https://m.media-amazon.com/images/I/31RQxWZR3SL._SL400_.jpg)](https://www.amazon.fr/dp/B00RD99ITU/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00RD99ITU/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

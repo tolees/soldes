@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.10 % rabais sur TomTom GPS Voiture GO 6200 - 6 Pouces  C'
+title: 'TomTom GPS Voiture GO 6200 - 6 Pouces  Cartographie Monde  Trafic  Zones de Danger via Carte SIM Incluse  Appel Mains-Libres'
 date: 2020-05-25 11:19:36
 image: 'https://m.media-amazon.com/images/I/51AIKJo1AcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.10'
 average: '245.99666666666667'
 ---
 
-Vous avez [TomTom GPS Voiture GO 6200 - 6 Pouces  Cartographie Monde  Trafic  Zones de Danger via Carte SIM Incluse  Appel Mains-Libres](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21)  à  37.10 % de réduction, prix final  239.0 EUR (original: 379.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TomTom GPS Voiture GO 6200 - 6 Pouces  C](https://m.media-amazon.com/images/I/51AIKJo1AcL._SL400_.jpg)](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

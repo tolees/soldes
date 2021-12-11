@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '34.64 % rabais sur Sandisk - SDCFXPS-128G-X46 - Carte Mémoi'
+title: 'Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir'
 date: 2020-09-14 11:57:21
 image: 'https://m.media-amazon.com/images/I/51A7M2WORVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.64'
 average: '103.92'
 ---
 
-Vous avez [Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir](https://www.amazon.fr/dp/B00ECEVGN0/?tag=tolees0d-21)  à  34.64 % de réduction, prix final  103.92 EUR (original: 158.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Sandisk - SDCFXPS-128G-X46 - Carte Mémoi](https://m.media-amazon.com/images/I/51A7M2WORVL._SL400_.jpg)](https://www.amazon.fr/dp/B00ECEVGN0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ECEVGN0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

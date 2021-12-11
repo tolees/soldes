@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.53 % rabais sur Philips Hue White & Color Ambiance Spot '
+title: 'Philips Hue White & Color Ambiance Spot Fugato x2 Noir Compatible Bluetooth  Fonctionne avec Alexa'
 date: 2020-05-28 15:42:00
 image: 'https://m.media-amazon.com/images/I/41aeTjo3wEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.53'
 average: '129.99'
 ---
 
-Vous avez [Philips Hue White & Color Ambiance Spot Fugato x2 Noir Compatible Bluetooth  Fonctionne avec Alexa](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)  à  23.53 % de réduction, prix final  129.99 EUR (original: 169.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Philips Hue White & Color Ambiance Spot ](https://m.media-amazon.com/images/I/41aeTjo3wEL._SL400_.jpg)](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

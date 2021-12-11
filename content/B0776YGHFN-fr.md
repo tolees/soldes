@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.36 % rabais sur OSRAM Smart+ Prise Extérieure Connectée '
+title: 'OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche IP65 - Zigbee - Compatible Android & Amazon Alexa [Classe énergétique A+]'
 date: 2020-10-07 13:53:08
 image: 'https://m.media-amazon.com/images/I/41x2Vfq5UQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.36'
 average: '19.4'
 ---
 
-Vous avez [OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche IP65 - Zigbee - Compatible Android & Amazon Alexa [Classe énergétique A+]](https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21)  à  39.36 % de réduction, prix final  19.4 EUR (original: 31.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![OSRAM Smart+ Prise Extérieure Connectée ](https://m.media-amazon.com/images/I/41x2Vfq5UQL._SL400_.jpg)](https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Slendertone Biceps et Triceps Brassards  avec 47.20 % rabais '
+title: 'Slendertone Biceps et Triceps Brassards H/F tonifiants Unisex-Adult  Noir  25 a 45 cm'
 date: 2020-08-11 13:03:51
 image: 'https://m.media-amazon.com/images/I/41-bVXeJCrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.20'
 average: '68.63'
 ---
 
-C'est en vente [Slendertone Biceps et Triceps Brassards H/F tonifiants Unisex-Adult  Noir  25 a 45 cm](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)  à  47.20 % de réduction, prix final  68.63 EUR (original: 129.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Slendertone Biceps et Triceps Brassards ](https://m.media-amazon.com/images/I/41-bVXeJCrL._SL400_.jpg)](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

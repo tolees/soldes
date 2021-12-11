@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mon pays c est l amour  édition collecto avec 44.47 % rabais '
+title: 'Mon pays c est l amour  édition collector '
 date: 2020-10-07 13:50:43
 image: 'https://m.media-amazon.com/images/I/51Wst3+3g7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-C'est en vente [Mon pays c est l amour  édition collector ](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Mon pays c est l amour  édition collecto](https://m.media-amazon.com/images/I/51Wst3+3g7L._SL400_.jpg)](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

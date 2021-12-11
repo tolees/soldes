@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Echo Dot  3ème génération   Enceinte con avec 16.67 % rabais '
+title: 'Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu sable'
 date: 2020-10-12 20:08:44
 image: 'https://m.media-amazon.com/images/I/410NAOZ6TML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.67'
 average: '37.489999999999995'
 ---
 
-C'est en vente [Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu sable](https://www.amazon.fr/dp/B07PDHSPXT/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Echo Dot  3ème génération   Enceinte con](https://m.media-amazon.com/images/I/410NAOZ6TML._SL400_.jpg)](https://www.amazon.fr/dp/B07PDHSPXT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PDHSPXT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

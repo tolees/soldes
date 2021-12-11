@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Inox Robinet mitigeur douche en acier in avec 60.00 % rabais '
+title: 'Inox Robinet mitigeur douche en acier inoxydable haut de gamme satinée neuf'
 date: 2020-08-04 19:28:27
 image: 'https://m.media-amazon.com/images/I/41Z+Q8264VL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '68.96'
 ---
 
-C'est en vente [Inox Robinet mitigeur douche en acier inoxydable haut de gamme satinée neuf](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  68.96 EUR (original: 172.39 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Inox Robinet mitigeur douche en acier in](https://m.media-amazon.com/images/I/41Z+Q8264VL._SL400_.jpg)](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

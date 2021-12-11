@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.26 % rabais sur Furreal Friends - Tyler Le Tigre Joueur '
+title: 'Furreal Friends - Tyler Le Tigre Joueur - Peluche Interactive'
 date: 2020-05-28 16:33:47
 image: 'https://m.media-amazon.com/images/I/61MRy2EeFgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.26'
 average: '89.23'
 ---
 
-Vous avez [Furreal Friends - Tyler Le Tigre Joueur - Peluche Interactive](https://www.amazon.fr/dp/B06VXNWDQF/?tag=tolees0d-21)  à  36.26 % de réduction, prix final  89.23 EUR (original: 139.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Furreal Friends - Tyler Le Tigre Joueur ](https://m.media-amazon.com/images/I/61MRy2EeFgL._SL400_.jpg)](https://www.amazon.fr/dp/B06VXNWDQF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06VXNWDQF/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.39 % rabais sur Thetford 92814 Potti Potti 345 Toilette '
+title: 'Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm'
 date: 2020-09-10 19:40:43
 image: 'https://m.media-amazon.com/images/I/31ZMR-1HNCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.39'
 average: '67.84'
 ---
 
-Vous avez [Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21)  à  35.39 % de réduction, prix final  67.84 EUR (original: 105.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Thetford 92814 Potti Potti 345 Toilette ](https://m.media-amazon.com/images/I/31ZMR-1HNCL._SL400_.jpg)](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

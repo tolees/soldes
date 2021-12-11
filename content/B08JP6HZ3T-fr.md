@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ActivHawks Correcteur De Posture Dos Épa avec 50.01 % rabais '
+title: 'ActivHawks Correcteur De Posture Dos Épaules Avachies - Ceinture Dorsale Pour Hommes Et Femmes Lavable et Ajustable - Idéal Pour Soulager Les Douleurs Dorsales  Cou et Épaules - eBook d Exercices'
 date: 2020-10-08 05:43:11
 image: 'https://m.media-amazon.com/images/I/41CWPWhuiOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '19.99'
 ---
 
-C'est en vente [ActivHawks Correcteur De Posture Dos Épaules Avachies - Ceinture Dorsale Pour Hommes Et Femmes Lavable et Ajustable - Idéal Pour Soulager Les Douleurs Dorsales  Cou et Épaules - eBook d Exercices](https://www.amazon.fr/dp/B08JP6HZ3T/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  19.99 EUR (original: 39.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![ActivHawks Correcteur De Posture Dos Épa](https://m.media-amazon.com/images/I/41CWPWhuiOL._SL400_.jpg)](https://www.amazon.fr/dp/B08JP6HZ3T/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08JP6HZ3T/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

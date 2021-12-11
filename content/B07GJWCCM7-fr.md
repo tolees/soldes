@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips HR2382/10 Machine à Pâtes Automa avec 42.86 % rabais '
+title: 'Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir'
 date: 2020-08-31 14:15:52
 image: 'https://m.media-amazon.com/images/I/41bFY6yBgIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.86'
 average: '187.27'
 ---
 
-C'est en vente [Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21)  à  42.86 % de réduction, prix final  159.99 EUR (original: 279.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Philips HR2382/10 Machine à Pâtes Automa](https://m.media-amazon.com/images/I/41bFY6yBgIL._SL400_.jpg)](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

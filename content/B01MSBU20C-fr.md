@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.34 % rabais sur foodspring L-carnitine  120 gélules  Per'
+title: 'foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine'
 date: 2020-09-08 08:12:46
 image: 'https://m.media-amazon.com/images/I/41O-YaQa7bL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '19.99'
 ---
 
-Vous avez [foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine](https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21)  à  33.34 % de réduction, prix final  19.99 EUR (original: 29.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![foodspring L-carnitine  120 gélules  Per](https://m.media-amazon.com/images/I/41O-YaQa7bL._SL400_.jpg)](https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

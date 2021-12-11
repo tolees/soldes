@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity Balance Wifi  Balance Connectée avec 49.10 % rabais '
+title: 'Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg'
 date: 2020-09-15 06:49:35
 image: 'https://m.media-amazon.com/images/I/315dmSJf4rL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.10'
 average: '55.99'
 ---
 
-C'est en vente [Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)  à  49.10 % de réduction, prix final  55.99 EUR (original: 109.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Etekcity Balance Wifi  Balance Connectée](https://m.media-amazon.com/images/I/315dmSJf4rL._SL400_.jpg)](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

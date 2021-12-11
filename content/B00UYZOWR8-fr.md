@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.39 % rabais sur Kit d’apprentissage scientifique OSOYOO '
+title: 'Kit d’apprentissage scientifique OSOYOO  Ensemble d’expériences électricité et magnétisme  circuits de construction  pour élèves de la 3e à la 9e année'
 date: 2020-07-21 12:07:17
 image: 'https://m.media-amazon.com/images/I/51s7EZOJ+HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.39'
 average: '29.97'
 ---
 
-Vous avez [Kit d’apprentissage scientifique OSOYOO  Ensemble d’expériences électricité et magnétisme  circuits de construction  pour élèves de la 3e à la 9e année](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)  à  42.39 % de réduction, prix final  29.97 EUR (original: 52.02 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kit d’apprentissage scientifique OSOYOO ](https://m.media-amazon.com/images/I/51s7EZOJ+HL._SL400_.jpg)](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

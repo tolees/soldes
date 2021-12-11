@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IK Multimedia IP-IRIG-ACOSTG-IN Système  avec 40.97 % rabais '
+title: 'IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro pour guitare acoustique'
 date: 2020-09-12 17:09:05
 image: 'https://m.media-amazon.com/images/I/41XjP3yUNQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.97'
 average: '72.01'
 ---
 
-C'est en vente [IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro pour guitare acoustique](https://www.amazon.fr/dp/B01N5OQUUC/?tag=tolees0d-21)  à  40.97 % de réduction, prix final  72.01 EUR (original: 121.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![IK Multimedia IP-IRIG-ACOSTG-IN Système ](https://m.media-amazon.com/images/I/41XjP3yUNQL._SL400_.jpg)](https://www.amazon.fr/dp/B01N5OQUUC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01N5OQUUC/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

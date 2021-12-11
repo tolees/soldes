@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.68 % rabais sur LEGO Unikitty - La voiture dans les nuag'
+title: 'LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de construction'
 date: 2020-06-09 04:01:34
 image: 'https://m.media-amazon.com/images/I/51BX1T6ZcnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.68'
 average: '10.99'
 ---
 
-Vous avez [LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de construction](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21)  à  26.68 % de réduction, prix final  10.99 EUR (original: 14.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO Unikitty - La voiture dans les nuag](https://m.media-amazon.com/images/I/51BX1T6ZcnL._SL400_.jpg)](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

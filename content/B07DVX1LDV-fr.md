@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chaussures de Trail Running avec 45.09 % rabais '
+title: 'Chaussures de Trail Running'
 date: 2020-05-28 14:06:17
 image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.09'
 average: '65.89'
 ---
 
-C'est en vente [Chaussures de Trail Running](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)  à  45.09 % de réduction, prix final  65.89 EUR (original: 119.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Chaussures de Trail Running](https://m.media-amazon.com/images/I/41AcN+GSaKL._SL400_.jpg)](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

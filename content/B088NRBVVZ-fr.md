@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.01 % rabais sur EasySMX Manettes Switch  Manette pour Ni'
+title: 'EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Ciel Étoilé'
 date: 2020-09-16 22:02:14
 image: 'https://m.media-amazon.com/images/I/51CG6NW578L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '30.080909090909092'
 ---
 
-Vous avez [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Ciel Étoilé](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  34.99 EUR (original: 69.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![EasySMX Manettes Switch  Manette pour Ni](https://m.media-amazon.com/images/I/51CG6NW578L._SL400_.jpg)](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

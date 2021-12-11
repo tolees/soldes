@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.13 % rabais sur Neato Robotics D6 Aspirateur Robot Intel'
+title: 'Neato Robotics D6 Aspirateur Robot Intelligent - Compatible avec Alexa - Robot aspirateur avec station de charge  Wi-Fi & App'
 date: 2020-05-22 23:10:29
 image: 'https://m.media-amazon.com/images/I/41hMkCqq0uL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.13'
 average: '399.99'
 ---
 
-Vous avez [Neato Robotics D6 Aspirateur Robot Intelligent - Compatible avec Alexa - Robot aspirateur avec station de charge  Wi-Fi & App](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21)  à  45.13 % de réduction, prix final  399.99 EUR (original: 729.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Neato Robotics D6 Aspirateur Robot Intel](https://m.media-amazon.com/images/I/41hMkCqq0uL._SL400_.jpg)](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Jeans Homme  Ble avec 39.11 % rabais '
+title: 'Levi s 501 Original Fit Jeans Homme  Bleu  Snoot   32W / 32L'
 date: 2020-09-23 01:39:52
 image: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.11'
 average: '66.98'
 ---
 
-C'est en vente [Levi s 501 Original Fit Jeans Homme  Bleu  Snoot   32W / 32L](https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21)  à  39.11 % de réduction, prix final  66.98 EUR (original: 110.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Levi s 501 Original Fit Jeans Homme  Ble](https://m.media-amazon.com/images/I/41prtsJ61sL._SL400_.jpg)](https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

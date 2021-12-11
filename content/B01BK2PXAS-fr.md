@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.00 % rabais sur LEGO®-DUPLO® Les animaux du monde Jouet '
+title: 'LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907'
 date: 2020-10-03 05:59:35
 image: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '67.13333333333333'
 ---
 
-Vous avez [LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907](https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  74.99 EUR (original: 99.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO®-DUPLO® Les animaux du monde Jouet ](https://m.media-amazon.com/images/I/51PhBRZru+L._SL400_.jpg)](https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

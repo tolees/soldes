@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link TL-SG1024 Switch 24 Ports Gigabi avec 23.46 % rabais '
+title: 'TP-Link TL-SG1024 Switch 24 Ports Gigabit  Rackable  Boîtier Métal    Noir'
 date: 2020-07-10 01:20:24
 image: 'https://m.media-amazon.com/images/I/31zlBn4dx5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.46'
 average: '84.96'
 ---
 
-C'est en vente [TP-Link TL-SG1024 Switch 24 Ports Gigabit  Rackable  Boîtier Métal    Noir](https://www.amazon.fr/dp/B000RSTX9O/?tag=tolees0d-21)  à  23.46 % de réduction, prix final  84.96 EUR (original: 111.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TP-Link TL-SG1024 Switch 24 Ports Gigabi](https://m.media-amazon.com/images/I/31zlBn4dx5L._SL400_.jpg)](https://www.amazon.fr/dp/B000RSTX9O/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B000RSTX9O/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

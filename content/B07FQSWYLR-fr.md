@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Christian Lacroix Femme Analogique Quart avec 47.38 % rabais '
+title: 'Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE56'
 date: 2020-05-22 23:50:28
 image: 'https://m.media-amazon.com/images/I/41a7yS12EhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.38'
 average: '57.36'
 ---
 
-C'est en vente [Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE56](https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21)  à  47.38 % de réduction, prix final  57.36 EUR (original: 109.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Christian Lacroix Femme Analogique Quart](https://m.media-amazon.com/images/I/41a7yS12EhL._SL400_.jpg)](https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

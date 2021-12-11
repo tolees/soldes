@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.00 % rabais sur Degré7 Touring Veste de Ski Homme  White'
+title: 'Degré7 Touring Veste de Ski Homme  White  FR : L  Taille Fabricant : 52 '
 date: 2020-05-22 22:25:55
 image: 'https://m.media-amazon.com/images/I/41EkR73LsFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '359.99'
 ---
 
-Vous avez [Degré7 Touring Veste de Ski Homme  White  FR : L  Taille Fabricant : 52 ](https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  359.99 EUR (original: 600.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Degré7 Touring Veste de Ski Homme  White](https://m.media-amazon.com/images/I/41EkR73LsFL._SL400_.jpg)](https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

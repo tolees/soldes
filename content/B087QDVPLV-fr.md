@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ORICO H100 3D SSD 2.5"/7mm-SATA III - Di avec 20.00 % rabais '
+title: 'ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6 Gbit/s-1To pour Ordinateur de Bureau'
 date: 2020-08-24 04:45:48
 image: 'https://m.media-amazon.com/images/I/31xyzfINx1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '199.99'
 ---
 
-C'est en vente [ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6 Gbit/s-1To pour Ordinateur de Bureau](https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  199.99 EUR (original: 249.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![ORICO H100 3D SSD 2.5"/7mm-SATA III - Di](https://m.media-amazon.com/images/I/31xyzfINx1L._SL400_.jpg)](https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

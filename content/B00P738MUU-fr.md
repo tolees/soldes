@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.76 % rabais sur Samsung SSD 850 EVO   1 To  - SSD Intern'
+title: 'Samsung SSD 850 EVO   1 To  - SSD Interne SATA III 2.5" - MZ-75E1T0B/EU'
 date: 2020-05-22 21:45:07
 image: 'https://m.media-amazon.com/images/I/41fw65-8tpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.76'
 average: '296.8'
 ---
 
-Vous avez [Samsung SSD 850 EVO   1 To  - SSD Interne SATA III 2.5" - MZ-75E1T0B/EU](https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21)  à  19.76 % de réduction, prix final  296.8 EUR (original: 369.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsung SSD 850 EVO   1 To  - SSD Intern](https://m.media-amazon.com/images/I/41fw65-8tpL._SL400_.jpg)](https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

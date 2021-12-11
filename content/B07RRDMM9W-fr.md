@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSI Pack Loot Box GE-GS RTX Gaming avec 66.74 % rabais '
+title: 'MSI Pack Loot Box GE-GS RTX Gaming'
 date: 2020-08-06 15:05:06
 image: 'https://m.media-amazon.com/images/I/41IxGExbr1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.74'
 average: '70.36'
 ---
 
-C'est en vente [MSI Pack Loot Box GE-GS RTX Gaming](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21)  à  66.74 % de réduction, prix final  70.36 EUR (original: 211.57 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![MSI Pack Loot Box GE-GS RTX Gaming](https://m.media-amazon.com/images/I/41IxGExbr1L._SL400_.jpg)](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

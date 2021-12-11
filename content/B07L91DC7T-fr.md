@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Replay W7525 .000.83534 Manteau  Beige 1 avec 58.63 % rabais '
+title: 'Replay W7525 .000.83534 Manteau  Beige 10  Large Femme'
 date: 2020-08-09 12:01:24
 image: 'https://m.media-amazon.com/images/I/31pZQQqeY+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.63'
 average: '123.7'
 ---
 
-C'est en vente [Replay W7525 .000.83534 Manteau  Beige 10  Large Femme](https://www.amazon.fr/dp/B07L91DC7T/?tag=tolees0d-21)  à  58.63 % de réduction, prix final  123.7 EUR (original: 299.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Replay W7525 .000.83534 Manteau  Beige 1](https://m.media-amazon.com/images/I/31pZQQqeY+L._SL400_.jpg)](https://www.amazon.fr/dp/B07L91DC7T/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07L91DC7T/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

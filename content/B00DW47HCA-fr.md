@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger - New Chiara Str Pq Polo  avec 15.66 % rabais '
+title: 'Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme - Blanc  100 Classic White  - FR : 36  Taille fabricant : S '
 date: 2020-05-22 22:25:57
 image: 'https://m.media-amazon.com/images/I/41XsfK833UL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.66'
 average: '50.52'
 ---
 
-C'est en vente [Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme - Blanc  100 Classic White  - FR : 36  Taille fabricant : S ](https://www.amazon.fr/dp/B00DW47HCA/?tag=tolees0d-21)  à  15.66 % de réduction, prix final  50.52 EUR (original: 59.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Tommy Hilfiger - New Chiara Str Pq Polo ](https://m.media-amazon.com/images/I/41XsfK833UL._SL400_.jpg)](https://www.amazon.fr/dp/B00DW47HCA/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00DW47HCA/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.97 % rabais sur Office 365 Famille  maintenant Microsoft'
+title: 'Office 365 Famille  maintenant Microsoft 365 Famille  | jusqu’à 6 utilisateurs | 1 an | PC ou Mac | téléchargement  envoi par la poste '
 date: 2020-05-27 10:06:13
 image: 'https://m.media-amazon.com/images/I/41gc5SHRlFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.97'
 average: '53.49'
 ---
 
-Vous avez [Office 365 Famille  maintenant Microsoft 365 Famille  | jusqu’à 6 utilisateurs | 1 an | PC ou Mac | téléchargement  envoi par la poste ](https://www.amazon.fr/dp/B07FY31XK2/?tag=tolees0d-21)  à  45.97 % de réduction, prix final  53.49 EUR (original: 99.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Office 365 Famille  maintenant Microsoft](https://m.media-amazon.com/images/I/41gc5SHRlFL._SL400_.jpg)](https://www.amazon.fr/dp/B07FY31XK2/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FY31XK2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

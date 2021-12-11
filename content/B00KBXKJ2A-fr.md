@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.96 % rabais sur EDISION HDMI MODULATOR single DVB-T  Ful'
+title: 'EDISION HDMI MODULATOR single DVB-T  Full HD MPEG4  RF-IN  HDTV  USB  OLED 4-line display  noir'
 date: 2020-08-26 06:27:33
 image: 'https://m.media-amazon.com/images/I/31LM8FqiwhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.96'
 average: '92.39'
 ---
 
-Vous avez [EDISION HDMI MODULATOR single DVB-T  Full HD MPEG4  RF-IN  HDTV  USB  OLED 4-line display  noir](https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21)  à  33.96 % de réduction, prix final  92.39 EUR (original: 139.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![EDISION HDMI MODULATOR single DVB-T  Ful](https://m.media-amazon.com/images/I/31LM8FqiwhL._SL400_.jpg)](https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

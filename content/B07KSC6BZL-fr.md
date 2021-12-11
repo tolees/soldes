@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '53.60 % rabais sur Marc Cain Collections T- Shirt  Multicol'
+title: 'Marc Cain Collections T- Shirt  Multicolore  Scarlet 272   40  Taille Fabricant: 3  Femme'
 date: 2020-05-22 22:19:01
 image: 'https://m.media-amazon.com/images/I/41UfmpBpNHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.60'
 average: '78.84'
 ---
 
-Vous avez [Marc Cain Collections T- Shirt  Multicolore  Scarlet 272   40  Taille Fabricant: 3  Femme](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21)  à  53.60 % de réduction, prix final  78.84 EUR (original: 169.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Marc Cain Collections T- Shirt  Multicol](https://m.media-amazon.com/images/I/41UfmpBpNHL._SL400_.jpg)](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

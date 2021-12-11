@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FUNLAB Premium Étui de jeux pour Nintend avec 45.02 % rabais '
+title: 'FUNLAB Premium Étui de jeux pour Nintendo Switch  Portable et Mince  Aluminum Rangement de jeux en Cartouche pour 6 Jeux -- Rouge'
 date: 2020-07-20 12:25:06
 image: 'https://m.media-amazon.com/images/I/41x860tqHIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.02'
 average: '10.99'
 ---
 
-C'est en vente [FUNLAB Premium Étui de jeux pour Nintendo Switch  Portable et Mince  Aluminum Rangement de jeux en Cartouche pour 6 Jeux -- Rouge](https://www.amazon.fr/dp/B07L3VQ1RL/?tag=tolees0d-21)  à  45.02 % de réduction, prix final  10.99 EUR (original: 19.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![FUNLAB Premium Étui de jeux pour Nintend](https://m.media-amazon.com/images/I/41x860tqHIL._SL400_.jpg)](https://www.amazon.fr/dp/B07L3VQ1RL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07L3VQ1RL/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

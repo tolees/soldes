@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Petzl E095BA00 Lampe Frontale Swift RL N avec 19.54 % rabais '
+title: 'Petzl E095BA00 Lampe Frontale Swift RL Noir  7.8 W'
 date: 2020-09-24 09:49:48
 image: 'https://m.media-amazon.com/images/I/417KDkLy0WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.54'
 average: '80.46'
 ---
 
-C'est en vente [Petzl E095BA00 Lampe Frontale Swift RL Noir  7.8 W](https://www.amazon.fr/dp/B07S8Y7YMV/?tag=tolees0d-21)  à  19.54 % de réduction, prix final  80.46 EUR (original: 100.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Petzl E095BA00 Lampe Frontale Swift RL N](https://m.media-amazon.com/images/I/417KDkLy0WL._SL400_.jpg)](https://www.amazon.fr/dp/B07S8Y7YMV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07S8Y7YMV/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

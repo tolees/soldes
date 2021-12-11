@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.03 % rabais sur Collection Velocity Bleu bleu nuit Carry'
+title: 'Collection Velocity Bleu bleu nuit Carry On'
 date: 2020-08-09 08:44:32
 image: 'https://m.media-amazon.com/images/I/41kD4tz6NxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.03'
 average: '32.95'
 ---
 
-Vous avez [Collection Velocity Bleu bleu nuit Carry On](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21)  à  25.03 % de réduction, prix final  32.95 EUR (original: 43.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Collection Velocity Bleu bleu nuit Carry](https://m.media-amazon.com/images/I/41kD4tz6NxL._SL400_.jpg)](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

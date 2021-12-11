@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.00 % rabais sur MILLET Vector Grid JKT  Polaire Alpinism'
+title: 'MILLET Vector Grid JKT  Polaire Alpinisme  Homme'
 date: 2020-05-22 23:41:45
 image: 'https://m.media-amazon.com/images/I/41cCi0KcdBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.00'
 average: '67.23'
 ---
 
-Vous avez [MILLET Vector Grid JKT  Polaire Alpinisme  Homme](https://www.amazon.fr/dp/B0781ZSSM2/?tag=tolees0d-21)  à  35.00 % de réduction, prix final  67.23 EUR (original: 103.43 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![MILLET Vector Grid JKT  Polaire Alpinism](https://m.media-amazon.com/images/I/41cCi0KcdBL._SL400_.jpg)](https://www.amazon.fr/dp/B0781ZSSM2/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0781ZSSM2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

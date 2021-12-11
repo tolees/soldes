@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.57 % rabais sur Samsonite Lite-Shock - Spinner S Bagage '
+title: 'Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Bleu  Petrol Blue '
 date: 2020-05-22 23:24:13
 image: 'https://m.media-amazon.com/images/I/41E1fpqeB7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.57'
 average: '249.0'
 ---
 
-Vous avez [Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Bleu  Petrol Blue ](https://www.amazon.fr/dp/B00VFQRXSK/?tag=tolees0d-21)  à  40.57 % de réduction, prix final  249.0 EUR (original: 419.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsonite Lite-Shock - Spinner S Bagage ](https://m.media-amazon.com/images/I/41E1fpqeB7L._SL400_.jpg)](https://www.amazon.fr/dp/B00VFQRXSK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VFQRXSK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

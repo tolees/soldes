@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.01 % rabais sur tomtoc Nintendo Switch Lite Case  Étui d'
+title: 'tomtoc Nintendo Switch Lite Case  Étui de Protection Rigide Hardshell Housse de Transport pour Console Nintendo Switch Lite et Accessoires  avec Poignée  24 Cartouches de Jeu'
 date: 2020-07-08 03:12:59
 image: 'https://m.media-amazon.com/images/I/51kjxoW6axL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.01'
 average: '19.54'
 ---
 
-Vous avez [tomtoc Nintendo Switch Lite Case  Étui de Protection Rigide Hardshell Housse de Transport pour Console Nintendo Switch Lite et Accessoires  avec Poignée  24 Cartouches de Jeu](https://www.amazon.fr/dp/B07YZD4L28/?tag=tolees0d-21)  à  15.01 % de réduction, prix final  19.54 EUR (original: 22.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![tomtoc Nintendo Switch Lite Case  Étui d](https://m.media-amazon.com/images/I/51kjxoW6axL._SL400_.jpg)](https://www.amazon.fr/dp/B07YZD4L28/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YZD4L28/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

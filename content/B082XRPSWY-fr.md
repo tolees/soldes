@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60.02 % rabais sur Tiges de son mâles lisses et durables en'
+title: 'Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation'
 date: 2020-05-30 16:58:30
 image: 'https://m.media-amazon.com/images/I/41H4HBNIFXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.02'
 average: '9.99'
 ---
 
-Vous avez [Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation](https://www.amazon.fr/dp/B082XRPSWY/?tag=tolees0d-21)  à  60.02 % de réduction, prix final  9.99 EUR (original: 24.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Tiges de son mâles lisses et durables en](https://m.media-amazon.com/images/I/41H4HBNIFXL._SL400_.jpg)](https://www.amazon.fr/dp/B082XRPSWY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082XRPSWY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

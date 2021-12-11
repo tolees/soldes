@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMSONITE Orfeo - Spinner 69/25 Bagage c avec 30.14 % rabais '
+title: 'SAMSONITE Orfeo - Spinner 69/25 Bagage cabine  69 cm  72 liters  Noir  Ink Black '
 date: 2020-05-22 21:02:00
 image: 'https://m.media-amazon.com/images/I/41fnDlA5XCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.14'
 average: '153.0'
 ---
 
-C'est en vente [SAMSONITE Orfeo - Spinner 69/25 Bagage cabine  69 cm  72 liters  Noir  Ink Black ](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21)  à  30.14 % de réduction, prix final  153.0 EUR (original: 219.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![SAMSONITE Orfeo - Spinner 69/25 Bagage c](https://m.media-amazon.com/images/I/41fnDlA5XCL._SL400_.jpg)](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

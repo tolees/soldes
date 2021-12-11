@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.42 % rabais sur Geox U Taiki B ABX C  Baskets Hautes Hom'
+title: 'Geox U Taiki B ABX C  Baskets Hautes Homme  Noir  Black C9999   44 EU'
 date: 2020-05-22 20:04:04
 image: 'https://m.media-amazon.com/images/I/41yHyZ-y8vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.42'
 average: '112.81'
 ---
 
-Vous avez [Geox U Taiki B ABX C  Baskets Hautes Homme  Noir  Black C9999   44 EU](https://www.amazon.fr/dp/B0792TNMBT/?tag=tolees0d-21)  à  19.42 % de réduction, prix final  112.81 EUR (original: 140.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Geox U Taiki B ABX C  Baskets Hautes Hom](https://m.media-amazon.com/images/I/41yHyZ-y8vL._SL400_.jpg)](https://www.amazon.fr/dp/B0792TNMBT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792TNMBT/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.48 % rabais sur Yamaha - FX310AII - Guitare Folk'
+title: 'Yamaha - FX310AII - Guitare Folk'
 date: 2020-05-22 23:01:32
 image: 'https://m.media-amazon.com/images/I/31vfkH36uRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.48'
 average: '186.87'
 ---
 
-Vous avez [Yamaha - FX310AII - Guitare Folk](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21)  à  29.48 % de réduction, prix final  186.87 EUR (original: 265.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Yamaha - FX310AII - Guitare Folk](https://m.media-amazon.com/images/I/31vfkH36uRL._SL400_.jpg)](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

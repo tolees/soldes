@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.04 % rabais sur Cristel - M24M - Marmite inox 24cm + cou'
+title: 'Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine'
 date: 2020-05-23 00:01:06
 image: 'https://m.media-amazon.com/images/I/41wLZlohFaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.04'
 average: '94.27'
 ---
 
-Vous avez [Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine](https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21)  à  41.04 % de réduction, prix final  94.27 EUR (original: 159.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cristel - M24M - Marmite inox 24cm + cou](https://m.media-amazon.com/images/I/41wLZlohFaL._SL400_.jpg)](https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

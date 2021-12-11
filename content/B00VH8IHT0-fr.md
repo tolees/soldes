@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.51 % rabais sur Skull Shaver Butterfly Pro Rasoir Électr'
+title: 'Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.'
 date: 2020-05-22 23:33:28
 image: 'https://m.media-amazon.com/images/I/3163TW+0yeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.51'
 average: '49.99'
 ---
 
-Vous avez [Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)  à  58.51 % de réduction, prix final  49.99 EUR (original: 120.5 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Skull Shaver Butterfly Pro Rasoir Électr](https://m.media-amazon.com/images/I/3163TW+0yeL._SL400_.jpg)](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

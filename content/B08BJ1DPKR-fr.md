@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vidéoprojecteur WiFi Full HD 1080P  WiMi avec 63.87 % rabais '
+title: 'Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV'
 date: 2020-08-22 11:20:41
 image: 'https://m.media-amazon.com/images/I/51UWop4RxmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.87'
 average: '289.1033333333334'
 ---
 
-C'est en vente [Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV](https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21)  à  63.87 % de réduction, prix final  288.66 EUR (original: 799.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Vidéoprojecteur WiFi Full HD 1080P  WiMi](https://m.media-amazon.com/images/I/51UWop4RxmL._SL400_.jpg)](https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

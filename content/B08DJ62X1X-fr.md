@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disque Dur Externe 1to USB3.1 pour PC  M avec 52.01 % rabais '
+title: 'Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Argent '
 date: 2020-08-25 11:11:19
 image: 'https://m.media-amazon.com/images/I/31AMIeeru9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.01'
 average: '47.99'
 ---
 
-C'est en vente [Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Argent ](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21)  à  52.01 % de réduction, prix final  47.99 EUR (original: 99.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Disque Dur Externe 1to USB3.1 pour PC  M](https://m.media-amazon.com/images/I/31AMIeeru9L._SL400_.jpg)](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

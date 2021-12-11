@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '57.98 % rabais sur Clarks Street Spark Y  Mocassins bébé ga'
+title: 'Clarks Street Spark Y  Mocassins bébé garçon  Noir  Black Leather-   41.5 EU'
 date: 2020-05-22 23:53:40
 image: 'https://m.media-amazon.com/images/I/31cEM5+cZgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.98'
 average: '29.39'
 ---
 
-Vous avez [Clarks Street Spark Y  Mocassins bébé garçon  Noir  Black Leather-   41.5 EU](https://www.amazon.fr/dp/B07FR3S86H/?tag=tolees0d-21)  à  57.98 % de réduction, prix final  29.39 EUR (original: 69.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Clarks Street Spark Y  Mocassins bébé ga](https://m.media-amazon.com/images/I/31cEM5+cZgL._SL400_.jpg)](https://www.amazon.fr/dp/B07FR3S86H/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FR3S86H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

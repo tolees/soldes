@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP 25MX Moniteur  62  23 cm  24  5"  FHD avec 44.24 % rabais '
+title: 'HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir'
 date: 2020-09-25 10:03:45
 image: 'https://m.media-amazon.com/images/I/41QLdbpW-4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.24'
 average: '149.99'
 ---
 
-C'est en vente [HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21)  à  44.24 % de réduction, prix final  149.99 EUR (original: 269.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![HP 25MX Moniteur  62  23 cm  24  5"  FHD](https://m.media-amazon.com/images/I/41QLdbpW-4L._SL400_.jpg)](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

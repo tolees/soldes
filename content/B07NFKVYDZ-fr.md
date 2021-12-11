@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling LICIA Cartable  49 cm  20 liters avec 45.85 % rabais '
+title: 'Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met '
 date: 2020-05-22 23:38:56
 image: 'https://m.media-amazon.com/images/I/41dzAPtmCLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.85'
 average: '91.51'
 ---
 
-C'est en vente [Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met ](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)  à  45.85 % de réduction, prix final  91.51 EUR (original: 169.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kipling LICIA Cartable  49 cm  20 liters](https://m.media-amazon.com/images/I/41dzAPtmCLL._SL400_.jpg)](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

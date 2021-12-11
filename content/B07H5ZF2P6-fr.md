@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.63 % rabais sur Maison Lejaby Wings Soutien-Gorge à Arma'
+title: 'Maison Lejaby Wings Soutien-Gorge à Armature  Écru  Lys 801    Taille Fabricant:95D  Femme'
 date: 2020-05-22 21:41:32
 image: 'https://m.media-amazon.com/images/I/41SqxnK1o-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.63'
 average: '79.94'
 ---
 
-Vous avez [Maison Lejaby Wings Soutien-Gorge à Armature  Écru  Lys 801    Taille Fabricant:95D  Femme](https://www.amazon.fr/dp/B07H5ZF2P6/?tag=tolees0d-21)  à  21.63 % de réduction, prix final  79.94 EUR (original: 102.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Maison Lejaby Wings Soutien-Gorge à Arma](https://m.media-amazon.com/images/I/41SqxnK1o-L._SL400_.jpg)](https://www.amazon.fr/dp/B07H5ZF2P6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H5ZF2P6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

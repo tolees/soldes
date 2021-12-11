@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cube lumineux enceinte bluetooth sans fi avec 54.22 % rabais '
+title: 'Cube lumineux enceinte bluetooth sans fil LED blanc/multicolore dimmable CARRY PLAY 40cm avec télécommande'
 date: 2020-10-08 17:42:00
 image: 'https://m.media-amazon.com/images/I/31VtwjCBfQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.22'
 average: '113.99'
 ---
 
-C'est en vente [Cube lumineux enceinte bluetooth sans fil LED blanc/multicolore dimmable CARRY PLAY 40cm avec télécommande](https://www.amazon.fr/dp/B07BHSGYMF/?tag=tolees0d-21)  à  54.22 % de réduction, prix final  113.99 EUR (original: 249.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cube lumineux enceinte bluetooth sans fi](https://m.media-amazon.com/images/I/31VtwjCBfQL._SL400_.jpg)](https://www.amazon.fr/dp/B07BHSGYMF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07BHSGYMF/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

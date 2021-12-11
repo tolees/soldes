@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Redmi Note8 4+64Gb Black EU avec 39.66 % rabais '
+title: 'Redmi Note8 4+64Gb Black EU'
 date: 2020-09-25 20:12:08
 image: 'https://m.media-amazon.com/images/I/41B4HlPKEVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.66'
 average: '153.48745762711863'
 ---
 
-C'est en vente [Redmi Note8 4+64Gb Black EU](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)  à  39.66 % de réduction, prix final  154.4 EUR (original: 255.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Redmi Note8 4+64Gb Black EU](https://m.media-amazon.com/images/I/41B4HlPKEVL._SL400_.jpg)](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

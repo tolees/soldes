@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BÉABA  Transat Up & Down I  Transat Régl avec 40.23 % rabais '
+title: 'BÉABA  Transat Up & Down I  Transat Réglable par simple pression  4 hauteurs  3 Inclinaisons  Unisexe pour Bébé et Enfants  Réducteur de naissance  Ultra confortable  Noir/gris'
 date: 2020-05-22 22:07:19
 image: 'https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.23'
 average: '106.99'
 ---
 
-C'est en vente [BÉABA  Transat Up & Down I  Transat Réglable par simple pression  4 hauteurs  3 Inclinaisons  Unisexe pour Bébé et Enfants  Réducteur de naissance  Ultra confortable  Noir/gris](https://www.amazon.fr/dp/B002DJB9GA/?tag=tolees0d-21)  à  40.23 % de réduction, prix final  106.99 EUR (original: 179.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BÉABA  Transat Up & Down I  Transat Régl](https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg)](https://www.amazon.fr/dp/B002DJB9GA/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B002DJB9GA/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

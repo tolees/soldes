@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GORE WEAR C3 GORE WINDSTOPPER PHANTOM Ve avec 58.72 % rabais '
+title: 'GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste zip-off Homme red/black FR: XL  Taille Fabricant: XL '
 date: 2020-05-30 20:57:03
 image: 'https://m.media-amazon.com/images/I/41HmtZd9YbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.72'
 average: '78.42'
 ---
 
-C'est en vente [GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste zip-off Homme red/black FR: XL  Taille Fabricant: XL ](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21)  à  58.72 % de réduction, prix final  78.42 EUR (original: 189.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![GORE WEAR C3 GORE WINDSTOPPER PHANTOM Ve](https://m.media-amazon.com/images/I/41HmtZd9YbL._SL400_.jpg)](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

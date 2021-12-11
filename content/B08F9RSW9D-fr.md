@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REDSTORM Manette PC/PS3  Manette Switch  avec 50.01 % rabais '
+title: 'REDSTORM Manette PC/PS3  Manette Switch  5 Niveaux de LED Réglables et Double Rétroaction Vibratoire  Rafale Automatique TURBO  Manette pour Téléphone Android/PS3/OTG/PC/Android TV/TV Box'
 date: 2020-08-24 11:02:17
 image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '22.99'
 ---
 
-C'est en vente [REDSTORM Manette PC/PS3  Manette Switch  5 Niveaux de LED Réglables et Double Rétroaction Vibratoire  Rafale Automatique TURBO  Manette pour Téléphone Android/PS3/OTG/PC/Android TV/TV Box](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  22.99 EUR (original: 45.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![REDSTORM Manette PC/PS3  Manette Switch ](https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg)](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

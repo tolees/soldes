@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TV Box Android 10.0  QPLOVE Q8 TV Box 【4 avec 30.00 % rabais '
+title: 'TV Box Android 10.0  QPLOVE Q8 TV Box 【4G+128G】 Android  RK3318 Quad-Core 64bit Cortex-A53/ Wi-FI 2.4G/5Ghz LAN 100M  4K Boitier Android TV'
 date: 2020-07-31 17:44:36
 image: 'https://m.media-amazon.com/images/I/51ILCKMMVDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '55.99'
 ---
 
-C'est en vente [TV Box Android 10.0  QPLOVE Q8 TV Box 【4G+128G】 Android  RK3318 Quad-Core 64bit Cortex-A53/ Wi-FI 2.4G/5Ghz LAN 100M  4K Boitier Android TV](https://www.amazon.fr/dp/B083DT67LD/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  55.99 EUR (original: 79.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TV Box Android 10.0  QPLOVE Q8 TV Box 【4](https://m.media-amazon.com/images/I/51ILCKMMVDL._SL400_.jpg)](https://www.amazon.fr/dp/B083DT67LD/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B083DT67LD/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

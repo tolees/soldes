@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.76 % rabais sur Hozelock 2216 1240 Programmateur d Arros'
+title: 'Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm'
 date: 2020-09-11 09:16:14
 image: 'https://m.media-amazon.com/images/I/31EcAonWJSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.76'
 average: '82.9'
 ---
 
-Vous avez [Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21)  à  49.76 % de réduction, prix final  82.9 EUR (original: 165.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Hozelock 2216 1240 Programmateur d Arros](https://m.media-amazon.com/images/I/31EcAonWJSL._SL400_.jpg)](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K-Way K004BD0 - veste imperméable - Homm avec 29.34 % rabais '
+title: 'K-Way K004BD0 - veste imperméable - Homme - Noir  Black  - Small'
 date: 2020-09-11 08:24:49
 image: 'https://m.media-amazon.com/images/I/41Wm3ti+doL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.34'
 average: '69.95'
 ---
 
-C'est en vente [K-Way K004BD0 - veste imperméable - Homme - Noir  Black  - Small](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21)  à  29.34 % de réduction, prix final  69.95 EUR (original: 99.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![K-Way K004BD0 - veste imperméable - Homm](https://m.media-amazon.com/images/I/41Wm3ti+doL._SL400_.jpg)](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sika Firestop profilé HD  Profilé pour c avec 41.77 % rabais '
+title: 'Sika Firestop profilé HD  Profilé pour calfeutrer des joints coupe-feu  40m  Gris'
 date: 2020-05-22 21:14:40
 image: 'https://m.media-amazon.com/images/I/412IF5H5VaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.77'
 average: '456.52'
 ---
 
-C'est en vente [Sika Firestop profilé HD  Profilé pour calfeutrer des joints coupe-feu  40m  Gris](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21)  à  41.77 % de réduction, prix final  456.52 EUR (original: 784.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Sika Firestop profilé HD  Profilé pour c](https://m.media-amazon.com/images/I/412IF5H5VaL._SL400_.jpg)](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

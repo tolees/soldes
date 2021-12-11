@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.72 % rabais sur Diablo III : Eternal Collection pour Nin'
+title: 'Diablo III : Eternal Collection pour Nintendo Switch'
 date: 2020-08-24 07:27:41
 image: 'https://m.media-amazon.com/images/I/514kGDi5QOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.72'
 average: '44.9'
 ---
 
-Vous avez [Diablo III : Eternal Collection pour Nintendo Switch](https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21)  à  23.72 % de réduction, prix final  45.76 EUR (original: 59.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Diablo III : Eternal Collection pour Nin](https://m.media-amazon.com/images/I/514kGDi5QOL._SL400_.jpg)](https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

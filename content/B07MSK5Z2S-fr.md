@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '62.54 % rabais sur Clarks Ronnie Limit  Brogues Homme  Cuir'
+title: 'Clarks Ronnie Limit  Brogues Homme  Cuir Brun  43 EU'
 date: 2020-05-26 21:54:26
 image: 'https://m.media-amazon.com/images/I/31EUEo2uDZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.54'
 average: '37.44'
 ---
 
-Vous avez [Clarks Ronnie Limit  Brogues Homme  Cuir Brun  43 EU](https://www.amazon.fr/dp/B07MSK5Z2S/?tag=tolees0d-21)  à  62.54 % de réduction, prix final  37.44 EUR (original: 99.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Clarks Ronnie Limit  Brogues Homme  Cuir](https://m.media-amazon.com/images/I/31EUEo2uDZL._SL400_.jpg)](https://www.amazon.fr/dp/B07MSK5Z2S/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MSK5Z2S/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

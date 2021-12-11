@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UMtrade Mode Acier Inoxydable Hommes Chr avec 80.01 % rabais '
+title: 'UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm'
 date: 2020-10-03 03:00:42
 image: 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '80.01'
 average: '5.99'
 ---
 
-C'est en vente [UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm](https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21)  à  80.01 % de réduction, prix final  5.99 EUR (original: 29.97 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![UMtrade Mode Acier Inoxydable Hommes Chr](https://m.media-amazon.com/images/I/31GBLbBiyYL._SL400_.jpg)](https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

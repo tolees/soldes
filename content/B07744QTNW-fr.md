@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.94 % rabais sur adidas NMD r1 Stlt PK  Chaussures de Fit'
+title: 'adidas NMD r1 Stlt PK  Chaussures de Fitness Homme  Gris  Gridos/Griuno/Negbas 000   42 EU'
 date: 2020-05-22 20:55:12
 image: 'https://m.media-amazon.com/images/I/51JU0j-IHiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.94'
 average: '149.46'
 ---
 
-Vous avez [adidas NMD r1 Stlt PK  Chaussures de Fitness Homme  Gris  Gridos/Griuno/Negbas 000   42 EU](https://www.amazon.fr/dp/B07744QTNW/?tag=tolees0d-21)  à  16.94 % de réduction, prix final  149.46 EUR (original: 179.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![adidas NMD r1 Stlt PK  Chaussures de Fit](https://m.media-amazon.com/images/I/51JU0j-IHiL._SL400_.jpg)](https://www.amazon.fr/dp/B07744QTNW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07744QTNW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

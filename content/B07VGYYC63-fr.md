@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Hooded Blocking Nylon avec 56.60 % rabais '
+title: 'Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste Bomber  Rouge  Fiery Red/CK Black Xa7   Medium Homme'
 date: 2020-05-22 20:28:48
 image: 'https://m.media-amazon.com/images/I/41mIeHSV4lL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.60'
 average: '65.05'
 ---
 
-C'est en vente [Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste Bomber  Rouge  Fiery Red/CK Black Xa7   Medium Homme](https://www.amazon.fr/dp/B07VGYYC63/?tag=tolees0d-21)  à  56.60 % de réduction, prix final  65.05 EUR (original: 149.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Calvin Klein Jeans Hooded Blocking Nylon](https://m.media-amazon.com/images/I/41mIeHSV4lL._SL400_.jpg)](https://www.amazon.fr/dp/B07VGYYC63/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VGYYC63/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

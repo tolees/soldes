@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO Town La pâtisserie avec camio avec 15.65 % rabais '
+title: 'LEGO DUPLO Town La pâtisserie avec camionette à café  gâteaux et cupcakes  grandes briques pour les tout-petits de 2 ans et plus  114 pièces 10928'
 date: 2020-09-04 14:15:45
 image: 'https://m.media-amazon.com/images/I/51jDFYyOsYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.65'
 average: '31.959999999999997'
 ---
 
-C'est en vente [LEGO DUPLO Town La pâtisserie avec camionette à café  gâteaux et cupcakes  grandes briques pour les tout-petits de 2 ans et plus  114 pièces 10928](https://www.amazon.fr/dp/B00DPM09IS/?tag=tolees0d-21)  à  15.65 % de réduction, prix final  33.73 EUR (original: 39.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO DUPLO Town La pâtisserie avec camio](https://m.media-amazon.com/images/I/51jDFYyOsYL._SL400_.jpg)](https://www.amazon.fr/dp/B00DPM09IS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00DPM09IS/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZD-O Wired Gaming Controller 6 Remappabl avec 27.60 % rabais '
+title: 'ZD-O Wired Gaming Controller 6 Remappable Multi-Function Buttons for Steam Nintendo Switch Lapto/PC Win7-Win10  Android Smartphone Tablet VR TV Box'
 date: 2020-08-05 12:13:52
 image: 'https://m.media-amazon.com/images/I/41cDSK5XABL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.60'
 average: '20.99'
 ---
 
-C'est en vente [ZD-O Wired Gaming Controller 6 Remappable Multi-Function Buttons for Steam Nintendo Switch Lapto/PC Win7-Win10  Android Smartphone Tablet VR TV Box](https://www.amazon.fr/dp/B082VHMQ3K/?tag=tolees0d-21)  à  27.60 % de réduction, prix final  20.99 EUR (original: 28.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![ZD-O Wired Gaming Controller 6 Remappabl](https://m.media-amazon.com/images/I/41cDSK5XABL._SL400_.jpg)](https://www.amazon.fr/dp/B082VHMQ3K/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B082VHMQ3K/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

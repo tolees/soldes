@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.19 % rabais sur Beurer UB 86 Chauffe-lit Surmatelas Chau'
+title: 'Beurer UB 86 Chauffe-lit Surmatelas Chauffant 2 Places Confort'
 date: 2020-05-22 23:46:18
 image: 'https://m.media-amazon.com/images/I/41GqH4OsB9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.19'
 average: '139.0'
 ---
 
-Vous avez [Beurer UB 86 Chauffe-lit Surmatelas Chauffant 2 Places Confort](https://www.amazon.fr/dp/B00GSQJQWS/?tag=tolees0d-21)  à  32.19 % de réduction, prix final  139.0 EUR (original: 204.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Beurer UB 86 Chauffe-lit Surmatelas Chau](https://m.media-amazon.com/images/I/41GqH4OsB9L._SL400_.jpg)](https://www.amazon.fr/dp/B00GSQJQWS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GSQJQWS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

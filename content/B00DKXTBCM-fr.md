@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.81 % rabais sur Lavazza A Modo Mio Café Espresso Passion'
+title: 'Lavazza A Modo Mio Café Espresso Passionale Capsules  100% Arabica  Paquet de 36 capsules monodoses de café moulu'
 date: 2020-08-28 00:07:08
 image: 'https://m.media-amazon.com/images/I/51ShdRsnbkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.81'
 average: '9.9'
 ---
 
-Vous avez [Lavazza A Modo Mio Café Espresso Passionale Capsules  100% Arabica  Paquet de 36 capsules monodoses de café moulu](https://www.amazon.fr/dp/B00DKXTBCM/?tag=tolees0d-21)  à  16.81 % de réduction, prix final  9.9 EUR (original: 11.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lavazza A Modo Mio Café Espresso Passion](https://m.media-amazon.com/images/I/51ShdRsnbkL._SL400_.jpg)](https://www.amazon.fr/dp/B00DKXTBCM/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DKXTBCM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

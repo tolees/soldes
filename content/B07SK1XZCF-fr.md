@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GGMM D3 Base de Batterie Portable pour E avec 36.76 % rabais '
+title: 'GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus '
 date: 2020-05-25 12:52:05
 image: 'https://m.media-amazon.com/images/I/51irhAK21eL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.76'
 average: '30.99'
 ---
 
-C'est en vente [GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus ](https://www.amazon.fr/dp/B07SK1XZCF/?tag=tolees0d-21)  à  36.76 % de réduction, prix final  30.99 EUR (original: 49.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![GGMM D3 Base de Batterie Portable pour E](https://m.media-amazon.com/images/I/51irhAK21eL._SL400_.jpg)](https://www.amazon.fr/dp/B07SK1XZCF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07SK1XZCF/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

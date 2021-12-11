@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.18 % rabais sur Seb YG660100 Yaourtière Multi Délices Ex'
+title: 'Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W Rouge et Blanc'
 date: 2020-08-09 05:28:22
 image: 'https://m.media-amazon.com/images/I/41ZRQ9vzGML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.18'
 average: '79.0'
 ---
 
-Vous avez [Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W Rouge et Blanc](https://www.amazon.fr/dp/B078WT24HD/?tag=tolees0d-21)  à  28.18 % de réduction, prix final  79.0 EUR (original: 109.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Seb YG660100 Yaourtière Multi Délices Ex](https://m.media-amazon.com/images/I/41ZRQ9vzGML._SL400_.jpg)](https://www.amazon.fr/dp/B078WT24HD/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WT24HD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

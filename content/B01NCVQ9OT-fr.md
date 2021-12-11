@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Naturalista S.A N097 Soft Grain Yggdr avec 55.52 % rabais '
+title: 'El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU'
 date: 2020-08-12 13:27:28
 image: 'https://m.media-amazon.com/images/I/51ckXk0DiTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.52'
 average: '64.5'
 ---
 
-C'est en vente [El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU](https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21)  à  55.52 % de réduction, prix final  64.5 EUR (original: 145.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![El Naturalista S.A N097 Soft Grain Yggdr](https://m.media-amazon.com/images/I/51ckXk0DiTL._SL400_.jpg)](https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

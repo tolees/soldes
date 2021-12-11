@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'camel active Womenswear Jacke Jacket  Ve avec 63.28 % rabais '
+title: 'camel active Womenswear Jacke Jacket  Vert  Menthe poivrée 39   46 Femme'
 date: 2020-08-08 21:43:43
 image: 'https://m.media-amazon.com/images/I/41OZDgR5wVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.28'
 average: '58.73'
 ---
 
-C'est en vente [camel active Womenswear Jacke Jacket  Vert  Menthe poivrée 39   46 Femme](https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21)  à  63.28 % de réduction, prix final  58.73 EUR (original: 159.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![camel active Womenswear Jacke Jacket  Ve](https://m.media-amazon.com/images/I/41OZDgR5wVL._SL400_.jpg)](https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

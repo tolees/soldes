@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marque Amazon – Goodthreads Pantalon car avec 45.00 % rabais '
+title: 'Marque Amazon – Goodthreads Pantalon cargo extensible vintage à coupe athlétique et confortable pour homme  camouflage  30W x 28L'
 date: 2020-05-22 23:35:46
 image: 'https://m.media-amazon.com/images/I/416UF63DkpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.00'
 average: '16.22'
 ---
 
-C'est en vente [Marque Amazon – Goodthreads Pantalon cargo extensible vintage à coupe athlétique et confortable pour homme  camouflage  30W x 28L](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21)  à  45.00 % de réduction, prix final  16.22 EUR (original: 29.49 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Marque Amazon – Goodthreads Pantalon car](https://m.media-amazon.com/images/I/416UF63DkpL._SL400_.jpg)](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

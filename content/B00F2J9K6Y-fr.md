@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.71 % rabais sur Stanley STST1-71983 Organiseur Click & C'
+title: 'Stanley STST1-71983 Organiseur Click & Connect 50 cm'
 date: 2020-10-04 03:24:46
 image: 'https://m.media-amazon.com/images/I/41IuPZZUeuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.71'
 average: '9.59'
 ---
 
-Vous avez [Stanley STST1-71983 Organiseur Click & Connect 50 cm](https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21)  à  47.71 % de réduction, prix final  8.89 EUR (original: 17.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Stanley STST1-71983 Organiseur Click & C](https://m.media-amazon.com/images/I/41IuPZZUeuL._SL400_.jpg)](https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

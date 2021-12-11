@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.77 % rabais sur Garmin - Dash Cam 56 - Caméra de conduit'
+title: 'Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie'
 date: 2020-09-18 11:35:14
 image: 'https://m.media-amazon.com/images/I/31Z4B13BkUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.77'
 average: '149.71'
 ---
 
-Vous avez [Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie](https://www.amazon.fr/dp/B07RB4XTCP/?tag=tolees0d-21)  à  24.77 % de réduction, prix final  150.46 EUR (original: 199.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Garmin - Dash Cam 56 - Caméra de conduit](https://m.media-amazon.com/images/I/31Z4B13BkUL._SL400_.jpg)](https://www.amazon.fr/dp/B07RB4XTCP/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RB4XTCP/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

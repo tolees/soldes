@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundSport Écouteurs sans Fil Bluet avec 19.97 % rabais '
+title: 'Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu'
 date: 2020-08-25 04:54:05
 image: 'https://m.media-amazon.com/images/I/41zMJvZc00L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.97'
 average: '120.0'
 ---
 
-C'est en vente [Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu](https://www.amazon.fr/dp/B01E3SNNGW/?tag=tolees0d-21)  à  19.97 % de réduction, prix final  120.0 EUR (original: 149.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Bose SoundSport Écouteurs sans Fil Bluet](https://m.media-amazon.com/images/I/41zMJvZc00L._SL400_.jpg)](https://www.amazon.fr/dp/B01E3SNNGW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01E3SNNGW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.76 % rabais sur Fanny Fouks Mousse EVA thermoformable 40'
+title: 'Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune - APLI AGIPA'
 date: 2020-09-18 03:41:05
 image: 'https://m.media-amazon.com/images/I/31IvAmn0BzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.76'
 average: '27.74'
 ---
 
-Vous avez [Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune - APLI AGIPA](https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21)  à  19.76 % de réduction, prix final  27.74 EUR (original: 34.57 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Fanny Fouks Mousse EVA thermoformable 40](https://m.media-amazon.com/images/I/31IvAmn0BzL._SL400_.jpg)](https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

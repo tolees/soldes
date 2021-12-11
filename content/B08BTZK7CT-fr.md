@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cultivea Mini – Kit Prêt à Pousser Bonsa avec 20.08 % rabais '
+title: 'Cultivea Mini – Kit Prêt à Pousser Bonsaï – Graines Françaises 100% Écologiques - Jardinez et décorez - Idée Cadeau  Red Mapple  Chinese Cercis  Juniperus  Liquidambar  Norway Spruce '
 date: 2020-08-23 17:23:04
 image: 'https://m.media-amazon.com/images/I/51M4U5RMrEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.08'
 average: '19.9'
 ---
 
-C'est en vente [Cultivea Mini – Kit Prêt à Pousser Bonsaï – Graines Françaises 100% Écologiques - Jardinez et décorez - Idée Cadeau  Red Mapple  Chinese Cercis  Juniperus  Liquidambar  Norway Spruce ](https://www.amazon.fr/dp/B08BTZK7CT/?tag=tolees0d-21)  à  20.08 % de réduction, prix final  19.9 EUR (original: 24.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cultivea Mini – Kit Prêt à Pousser Bonsa](https://m.media-amazon.com/images/I/51M4U5RMrEL._SL400_.jpg)](https://www.amazon.fr/dp/B08BTZK7CT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BTZK7CT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

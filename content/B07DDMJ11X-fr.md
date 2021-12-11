@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DOMOOVA DBV60 One - Aspirateur Balais Cy avec 59.09 % rabais '
+title: 'DOMOOVA DBV60 One - Aspirateur Balais Cyclonique'
 date: 2020-08-07 06:27:40
 image: 'https://m.media-amazon.com/images/I/31qJCnxSe7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.09'
 average: '89.99'
 ---
 
-C'est en vente [DOMOOVA DBV60 One - Aspirateur Balais Cyclonique](https://www.amazon.fr/dp/B07DDMJ11X/?tag=tolees0d-21)  à  59.09 % de réduction, prix final  89.99 EUR (original: 219.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![DOMOOVA DBV60 One - Aspirateur Balais Cy](https://m.media-amazon.com/images/I/31qJCnxSe7L._SL400_.jpg)](https://www.amazon.fr/dp/B07DDMJ11X/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DDMJ11X/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

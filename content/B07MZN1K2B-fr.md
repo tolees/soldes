@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.37 % rabais sur Pepe Jeans London Maddox Ess  Bottes Mot'
+title: 'Pepe Jeans London Maddox Ess  Bottes Motardes Femme   Black 999   39 EU'
 date: 2020-05-22 22:57:13
 image: 'https://m.media-amazon.com/images/I/41dfnEeZU8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.37'
 average: '94.68'
 ---
 
-Vous avez [Pepe Jeans London Maddox Ess  Bottes Motardes Femme   Black 999   39 EU](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21)  à  32.37 % de réduction, prix final  94.68 EUR (original: 140.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Pepe Jeans London Maddox Ess  Bottes Mot](https://m.media-amazon.com/images/I/41dfnEeZU8L._SL400_.jpg)](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

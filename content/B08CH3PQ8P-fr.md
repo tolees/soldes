@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.01 % rabais sur Immortal Realms : Vampire Wars  Nintendo'
+title: 'Immortal Realms : Vampire Wars  Nintendo Switch '
 date: 2020-08-04 06:27:16
 image: 'https://m.media-amazon.com/images/I/41k5y8N0rdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '29.99'
 ---
 
-Vous avez [Immortal Realms : Vampire Wars  Nintendo Switch ](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21)  à  25.01 % de réduction, prix final  29.99 EUR (original: 39.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Immortal Realms : Vampire Wars  Nintendo](https://m.media-amazon.com/images/I/41k5y8N0rdL._SL400_.jpg)](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

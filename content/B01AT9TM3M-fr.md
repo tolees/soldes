@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity Thermomètre Infrarouge sans Con avec 32.13 % rabais '
+title: 'Etekcity Thermomètre Infrarouge sans Contact Laser de -50°C à 380°C  Précision Haute  Lecture Instantanée  Arrêt Automatique  Ecran LCD Rétroéclairé  Impossible de mesurer la température corporelle'
 date: 2020-09-17 07:09:46
 image: 'https://m.media-amazon.com/images/I/41ioZvU751L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.13'
 average: '18.99'
 ---
 
-C'est en vente [Etekcity Thermomètre Infrarouge sans Contact Laser de -50°C à 380°C  Précision Haute  Lecture Instantanée  Arrêt Automatique  Ecran LCD Rétroéclairé  Impossible de mesurer la température corporelle](https://www.amazon.fr/dp/B01AT9TM3M/?tag=tolees0d-21)  à  32.13 % de réduction, prix final  18.99 EUR (original: 27.98 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Etekcity Thermomètre Infrarouge sans Con](https://m.media-amazon.com/images/I/41ioZvU751L._SL400_.jpg)](https://www.amazon.fr/dp/B01AT9TM3M/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01AT9TM3M/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

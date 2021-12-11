@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.57 % rabais sur Royal Walk Parapluie de golf automatique'
+title: 'Royal Walk Parapluie de golf automatique pour homme et femme résistant aux tempêtes  coupe-vent  léger  classique pour 2 personnes  poignée en bois  imperméable  16 baleines unisexe  noir 120 cm'
 date: 2020-10-08 11:41:09
 image: 'https://m.media-amazon.com/images/I/51HmsPPtUuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.57'
 average: '28.085'
 ---
 
-Vous avez [Royal Walk Parapluie de golf automatique pour homme et femme résistant aux tempêtes  coupe-vent  léger  classique pour 2 personnes  poignée en bois  imperméable  16 baleines unisexe  noir 120 cm](https://www.amazon.fr/dp/B06WGN5X92/?tag=tolees0d-21)  à  38.57 % de réduction, prix final  28.08 EUR (original: 45.71 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Royal Walk Parapluie de golf automatique](https://m.media-amazon.com/images/I/51HmsPPtUuL._SL400_.jpg)](https://www.amazon.fr/dp/B06WGN5X92/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WGN5X92/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.40 % rabais sur Love Moschino Logo Box Short Sleeve Polo'
+title: 'Love Moschino Logo Box Short Sleeve Polo   Black C74   Small Homme'
 date: 2020-05-22 22:40:58
 image: 'https://m.media-amazon.com/images/I/311xtFAOg8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.40'
 average: '90.58'
 ---
 
-Vous avez [Love Moschino Logo Box Short Sleeve Polo   Black C74   Small Homme](https://www.amazon.fr/dp/B07KSY6FHW/?tag=tolees0d-21)  à  18.40 % de réduction, prix final  90.58 EUR (original: 111.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Love Moschino Logo Box Short Sleeve Polo](https://m.media-amazon.com/images/I/311xtFAOg8L._SL400_.jpg)](https://www.amazon.fr/dp/B07KSY6FHW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KSY6FHW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

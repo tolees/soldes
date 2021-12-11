@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.71 % rabais sur Levi s 501 Crop Jean Droit  Bleu  Montgo'
+title: 'Levi s 501 Crop Jean Droit  Bleu  Montgomery Baked 0074   W26/L26 Femme'
 date: 2020-05-22 22:53:25
 image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.71'
 average: '91.62'
 ---
 
-Vous avez [Levi s 501 Crop Jean Droit  Bleu  Montgomery Baked 0074   W26/L26 Femme](https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21)  à  16.71 % de réduction, prix final  91.62 EUR (original: 110.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Levi s 501 Crop Jean Droit  Bleu  Montgo](https://m.media-amazon.com/images/I/41CZMe9RQiL._SL400_.jpg)](https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.70 % rabais sur Columbia Powder Lite Hooded Veste à capu'
+title: 'Columbia Powder Lite Hooded Veste à capuche-Homme Bleu  Dark Mountain  M'
 date: 2020-10-11 14:27:32
 image: 'https://m.media-amazon.com/images/I/41Mx-uzWmNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.70'
 average: '71.89'
 ---
 
-Vous avez [Columbia Powder Lite Hooded Veste à capuche-Homme Bleu  Dark Mountain  M](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21)  à  44.70 % de réduction, prix final  71.89 EUR (original: 129.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Columbia Powder Lite Hooded Veste à capu](https://m.media-amazon.com/images/I/41Mx-uzWmNL._SL400_.jpg)](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

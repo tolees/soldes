@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.88 % rabais sur Playmobil - Porsche 911 GT3 Cup - 9225'
+title: 'Playmobil - Porsche 911 GT3 Cup - 9225'
 date: 2020-08-05 00:09:20
 image: 'https://m.media-amazon.com/images/I/61qoMdqJ+wL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.88'
 average: '41.05'
 ---
 
-Vous avez [Playmobil - Porsche 911 GT3 Cup - 9225](https://www.amazon.fr/dp/B01LYFR96U/?tag=tolees0d-21)  à  17.88 % de réduction, prix final  41.05 EUR (original: 49.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Playmobil - Porsche 911 GT3 Cup - 9225](https://m.media-amazon.com/images/I/61qoMdqJ+wL._SL400_.jpg)](https://www.amazon.fr/dp/B01LYFR96U/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LYFR96U/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

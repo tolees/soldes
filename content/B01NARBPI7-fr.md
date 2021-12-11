@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clé USB 3.1 Sandisk Extreme Go - 64 Go a avec 36.68 % rabais '
+title: 'Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de lecture allant jusqu à 200 Mo/s'
 date: 2020-09-15 11:29:40
 image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.68'
 average: '18.99'
 ---
 
-C'est en vente [Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de lecture allant jusqu à 200 Mo/s](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21)  à  36.68 % de réduction, prix final  18.99 EUR (original: 29.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Clé USB 3.1 Sandisk Extreme Go - 64 Go a](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg)](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safavieh Tapis Moderne  Tissé Fibre de V avec 71.75 % rabais '
+title: 'Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de couloir en Gris Pierre / Anthracite  62 X 240 cm'
 date: 2020-08-04 12:06:43
 image: 'https://m.media-amazon.com/images/I/41gkrOeaRUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.75'
 average: '72.6'
 ---
 
-C'est en vente [Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de couloir en Gris Pierre / Anthracite  62 X 240 cm](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)  à  71.75 % de réduction, prix final  72.6 EUR (original: 256.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Safavieh Tapis Moderne  Tissé Fibre de V](https://m.media-amazon.com/images/I/41gkrOeaRUL._SL400_.jpg)](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

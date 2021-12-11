@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Stormcyclone Sweat à Cap avec 68.72 % rabais '
+title: 'Under Armour UA Stormcyclone Sweat à Capuche Homme  Artillery Green/Black  357   FR : S  Taille Fabricant : SM '
 date: 2020-06-03 15:24:26
 image: 'https://m.media-amazon.com/images/I/41NNB4U22+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.72'
 average: '31.28'
 ---
 
-C'est en vente [Under Armour UA Stormcyclone Sweat à Capuche Homme  Artillery Green/Black  357   FR : S  Taille Fabricant : SM ](https://www.amazon.fr/dp/B077XMYDJ7/?tag=tolees0d-21)  à  68.72 % de réduction, prix final  31.28 EUR (original: 100.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour UA Stormcyclone Sweat à Cap](https://m.media-amazon.com/images/I/41NNB4U22+L._SL400_.jpg)](https://www.amazon.fr/dp/B077XMYDJ7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B077XMYDJ7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

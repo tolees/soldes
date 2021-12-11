@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cajoline Adoucissant Concentré Doux Pur  avec 46.56 % rabais '
+title: 'Cajoline Adoucissant Concentré Doux Pur Hypoallergénique 750ml'
 date: 2020-06-11 16:06:08
 image: 'https://m.media-amazon.com/images/I/41RFzOT9waL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.56'
 average: '1.63'
 ---
 
-C'est en vente [Cajoline Adoucissant Concentré Doux Pur Hypoallergénique 750ml](https://www.amazon.fr/dp/B01N27VBW9/?tag=tolees0d-21)  à  46.56 % de réduction, prix final  1.63 EUR (original: 3.05 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cajoline Adoucissant Concentré Doux Pur ](https://m.media-amazon.com/images/I/41RFzOT9waL._SL400_.jpg)](https://www.amazon.fr/dp/B01N27VBW9/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01N27VBW9/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

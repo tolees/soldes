@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.37 % rabais sur HUION New Kamvas 20 2019 Tablette Graphi'
+title: 'HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Améliorée du Moniteur de Dessin Kamvas GT-191 V2  120% sRGB Inclinaison de ± 60 °  sans Batterie PW507 Kamvas GT-191 V3'
 date: 2020-05-27 05:16:13
 image: 'https://m.media-amazon.com/images/I/51LBuenYoML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.37'
 average: '379.2'
 ---
 
-Vous avez [HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Améliorée du Moniteur de Dessin Kamvas GT-191 V2  120% sRGB Inclinaison de ± 60 °  sans Batterie PW507 Kamvas GT-191 V3](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)  à  26.37 % de réduction, prix final  379.2 EUR (original: 515.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![HUION New Kamvas 20 2019 Tablette Graphi](https://m.media-amazon.com/images/I/51LBuenYoML._SL400_.jpg)](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

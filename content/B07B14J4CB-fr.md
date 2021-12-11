@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.55 % rabais sur LEGO Unikitty - La fête - 41453 - Jeu de'
+title: 'LEGO Unikitty - La fête - 41453 - Jeu de construction'
 date: 2020-09-28 14:52:17
 image: 'https://m.media-amazon.com/images/I/51cUESeDU2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.55'
 average: '24.55666666666667'
 ---
 
-Vous avez [LEGO Unikitty - La fête - 41453 - Jeu de construction](https://www.amazon.fr/dp/B07B14J4CB/?tag=tolees0d-21)  à  24.55 % de réduction, prix final  24.89 EUR (original: 32.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO Unikitty - La fête - 41453 - Jeu de](https://m.media-amazon.com/images/I/51cUESeDU2L._SL400_.jpg)](https://www.amazon.fr/dp/B07B14J4CB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B14J4CB/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

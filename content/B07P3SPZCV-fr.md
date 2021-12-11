@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Subliminal Mode - Chemise Homme Bicolore avec 33.56 % rabais '
+title: 'Subliminal Mode - Chemise Homme Bicolore uni Manches Longues Coupe Slim Business RN44  -  L  -  Rose Fushia'
 date: 2020-09-14 09:12:58
 image: 'https://m.media-amazon.com/images/I/418wM-EXAzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.56'
 average: '19.9'
 ---
 
-C'est en vente [Subliminal Mode - Chemise Homme Bicolore uni Manches Longues Coupe Slim Business RN44  -  L  -  Rose Fushia](https://www.amazon.fr/dp/B07P3SPZCV/?tag=tolees0d-21)  à  33.56 % de réduction, prix final  19.9 EUR (original: 29.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Subliminal Mode - Chemise Homme Bicolore](https://m.media-amazon.com/images/I/418wM-EXAzL._SL400_.jpg)](https://www.amazon.fr/dp/B07P3SPZCV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07P3SPZCV/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

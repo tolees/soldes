@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LLOYD Villod Gore-tex  Bottes & Bottines avec 23.71 % rabais '
+title: 'LLOYD Villod Gore-tex  Bottes & Bottines Classiques Homme  Noir  Schwarz 0   43 EU'
 date: 2020-05-22 20:46:05
 image: 'https://m.media-amazon.com/images/I/41rP3gTKJIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.71'
 average: '152.51'
 ---
 
-C'est en vente [LLOYD Villod Gore-tex  Bottes & Bottines Classiques Homme  Noir  Schwarz 0   43 EU](https://www.amazon.fr/dp/B07NR97BXT/?tag=tolees0d-21)  à  23.71 % de réduction, prix final  152.51 EUR (original: 199.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LLOYD Villod Gore-tex  Bottes & Bottines](https://m.media-amazon.com/images/I/41rP3gTKJIL._SL400_.jpg)](https://www.amazon.fr/dp/B07NR97BXT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NR97BXT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

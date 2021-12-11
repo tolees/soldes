@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.30 % rabais sur BIC Cristal Fun Stylos-Bille Pointe Larg'
+title: 'BIC Cristal Fun Stylos-Bille Pointe Large  1 6 mm  - Violet  Boîte de 20'
 date: 2020-10-12 00:37:20
 image: 'https://m.media-amazon.com/images/I/41NGlI6VgXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.30'
 average: '7.97'
 ---
 
-Vous avez [BIC Cristal Fun Stylos-Bille Pointe Large  1 6 mm  - Violet  Boîte de 20](https://www.amazon.fr/dp/B00PB044EW/?tag=tolees0d-21)  à  20.30 % de réduction, prix final  7.97 EUR (original: 10.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BIC Cristal Fun Stylos-Bille Pointe Larg](https://m.media-amazon.com/images/I/41NGlI6VgXL._SL400_.jpg)](https://www.amazon.fr/dp/B00PB044EW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PB044EW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

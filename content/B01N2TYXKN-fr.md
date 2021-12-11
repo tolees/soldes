@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.15 % rabais sur LES FILLES DE CALEB: ÉMILIE et BLANCHE'
+title: 'LES FILLES DE CALEB: ÉMILIE et BLANCHE'
 date: 2020-05-22 22:50:43
 image: 'https://m.media-amazon.com/images/I/61muztD4TVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.15'
 average: '34.3'
 ---
 
-Vous avez [LES FILLES DE CALEB: ÉMILIE et BLANCHE](https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21)  à  51.15 % de réduction, prix final  34.3 EUR (original: 70.22 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LES FILLES DE CALEB: ÉMILIE et BLANCHE](https://m.media-amazon.com/images/I/61muztD4TVL._SL400_.jpg)](https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

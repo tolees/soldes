@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.08 % rabais sur August DA100D Télévision Portable 10" 25'
+title: 'August DA100D Télévision Portable 10" 25 4cm  TNT HD - Téléviseur Enregistreur Écran LCD HDMI et AV Lecteur clé USB Multimédia - TV Analogique Alimentation Secteur piles AA Rechargeables ou Allume-Cigare'
 date: 2020-08-06 15:06:22
 image: 'https://m.media-amazon.com/images/I/51wJkre7erL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.08'
 average: '97.02'
 ---
 
-Vous avez [August DA100D Télévision Portable 10" 25 4cm  TNT HD - Téléviseur Enregistreur Écran LCD HDMI et AV Lecteur clé USB Multimédia - TV Analogique Alimentation Secteur piles AA Rechargeables ou Allume-Cigare](https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21)  à  25.08 % de réduction, prix final  97.02 EUR (original: 129.5 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![August DA100D Télévision Portable 10" 25](https://m.media-amazon.com/images/I/51wJkre7erL._SL400_.jpg)](https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

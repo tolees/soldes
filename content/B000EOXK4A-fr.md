@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.86 % rabais sur Cat Footwear HAYCOX  Baskets Homme  Marr'
+title: 'Cat Footwear HAYCOX  Baskets Homme  Marron  Bistro 0   44 EU'
 date: 2020-05-22 23:04:06
 image: 'https://m.media-amazon.com/images/I/31DH9DHHWyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.86'
 average: '71.55'
 ---
 
-Vous avez [Cat Footwear HAYCOX  Baskets Homme  Marron  Bistro 0   44 EU](https://www.amazon.fr/dp/B000EOXK4A/?tag=tolees0d-21)  à  31.86 % de réduction, prix final  71.55 EUR (original: 105.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cat Footwear HAYCOX  Baskets Homme  Marr](https://m.media-amazon.com/images/I/31DH9DHHWyL._SL400_.jpg)](https://www.amazon.fr/dp/B000EOXK4A/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000EOXK4A/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

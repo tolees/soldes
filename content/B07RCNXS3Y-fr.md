@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Lake 22  Doudoune à Capuche  Ho avec 45.79 % rabais '
+title: 'Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L'
 date: 2020-08-19 08:27:52
 image: 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.79'
 average: '75.89'
 ---
 
-C'est en vente [Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L](https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21)  à  45.79 % de réduction, prix final  75.89 EUR (original: 139.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Columbia Lake 22  Doudoune à Capuche  Ho](https://m.media-amazon.com/images/I/41i+t+slHpL._SL400_.jpg)](https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

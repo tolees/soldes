@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.49 % rabais sur Staub 1313906 Wok Cerise avec Couvercle '
+title: 'Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm'
 date: 2020-05-22 22:22:18
 image: 'https://m.media-amazon.com/images/I/417yS+IEGYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.49'
 average: '188.95'
 ---
 
-Vous avez [Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm](https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21)  à  17.49 % de réduction, prix final  188.95 EUR (original: 229.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Staub 1313906 Wok Cerise avec Couvercle ](https://m.media-amazon.com/images/I/417yS+IEGYL._SL400_.jpg)](https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

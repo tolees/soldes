@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Louis Cottier - Montre Supersize Automat avec 68.91 % rabais '
+title: 'Louis Cottier - Montre Supersize Automatique Bracelet Cuir - Boitier Acier 47 mm - HA3401C1BC1'
 date: 2020-10-12 09:43:34
 image: 'https://m.media-amazon.com/images/I/51cESdu4wJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.91'
 average: '199.0'
 ---
 
-C'est en vente [Louis Cottier - Montre Supersize Automatique Bracelet Cuir - Boitier Acier 47 mm - HA3401C1BC1](https://www.amazon.fr/dp/B07PJ1KNZG/?tag=tolees0d-21)  à  68.91 % de réduction, prix final  199.0 EUR (original: 640.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Louis Cottier - Montre Supersize Automat](https://m.media-amazon.com/images/I/51cESdu4wJL._SL400_.jpg)](https://www.amazon.fr/dp/B07PJ1KNZG/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PJ1KNZG/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

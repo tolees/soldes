@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.20 % rabais sur Better Call Saul-Saisons 1 à 4'
+title: 'Better Call Saul-Saisons 1 à 4'
 date: 2020-08-20 18:43:43
 image: 'https://m.media-amazon.com/images/I/51mUWJ7wbuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.20'
 average: '27.99'
 ---
 
-Vous avez [Better Call Saul-Saisons 1 à 4](https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21)  à  44.20 % de réduction, prix final  27.99 EUR (original: 50.16 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Better Call Saul-Saisons 1 à 4](https://m.media-amazon.com/images/I/51mUWJ7wbuL._SL400_.jpg)](https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

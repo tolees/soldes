@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.63 % rabais sur Souris de jeu sans fil Razer Basilisk X '
+title: 'Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu sans fil  avec technologie Razer HyperSpeed  capteur optique 5G avancé et 6 boutons configurables '
 date: 2020-09-12 15:02:58
 image: 'https://m.media-amazon.com/images/I/21Od1qglIjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.63'
 average: '49.95'
 ---
 
-Vous avez [Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu sans fil  avec technologie Razer HyperSpeed  capteur optique 5G avancé et 6 boutons configurables ](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21)  à  28.63 % de réduction, prix final  49.95 EUR (original: 69.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Souris de jeu sans fil Razer Basilisk X ](https://m.media-amazon.com/images/I/21Od1qglIjL._SL400_.jpg)](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

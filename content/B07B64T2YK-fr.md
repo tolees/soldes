@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.47 % rabais sur Norah Jones - Live At Ronnie Scott s [Bl'
+title: 'Norah Jones - Live At Ronnie Scott s [Blu-ray]'
 date: 2020-10-12 04:15:40
 image: 'https://m.media-amazon.com/images/I/51Xgy3haDIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-Vous avez [Norah Jones - Live At Ronnie Scott s [Blu-ray]](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Norah Jones - Live At Ronnie Scott s [Bl](https://m.media-amazon.com/images/I/51Xgy3haDIL._SL400_.jpg)](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

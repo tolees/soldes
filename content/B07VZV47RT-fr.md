@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOHAI Parure de lit 3 pièces Marilyn Mon avec 68.64 % rabais '
+title: 'HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King'
 date: 2020-05-22 22:34:50
 image: 'https://m.media-amazon.com/images/I/51Asmu9idPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.64'
 average: '34.5'
 ---
 
-C'est en vente [HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21)  à  68.64 % de réduction, prix final  34.5 EUR (original: 110.03 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![HOHAI Parure de lit 3 pièces Marilyn Mon](https://m.media-amazon.com/images/I/51Asmu9idPL._SL400_.jpg)](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

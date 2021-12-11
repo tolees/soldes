@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.68 % rabais sur eXtremeRate Coques avec ABXY Boutons de '
+title: 'eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo Switch NS JoyCons Manette Contrôleur DIY Housse de Remplacement Pas de Coque de Console -Corail'
 date: 2020-07-11 00:21:12
 image: 'https://m.media-amazon.com/images/I/41FiVUGDLJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.68'
 average: '18.99'
 ---
 
-Vous avez [eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo Switch NS JoyCons Manette Contrôleur DIY Housse de Remplacement Pas de Coque de Console -Corail](https://www.amazon.fr/dp/B08B5T2ZRB/?tag=tolees0d-21)  à  36.68 % de réduction, prix final  18.99 EUR (original: 29.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![eXtremeRate Coques avec ABXY Boutons de ](https://m.media-amazon.com/images/I/41FiVUGDLJL._SL400_.jpg)](https://www.amazon.fr/dp/B08B5T2ZRB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B5T2ZRB/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

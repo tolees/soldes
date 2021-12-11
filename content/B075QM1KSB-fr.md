@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GORE WEAR C5 Active Veste Femme  Noir  F avec 33.79 % rabais '
+title: 'GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 '
 date: 2020-05-22 22:34:35
 image: 'https://m.media-amazon.com/images/I/41qnFgM2wwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.79'
 average: '139.01'
 ---
 
-C'est en vente [GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 ](https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21)  à  33.79 % de réduction, prix final  139.01 EUR (original: 209.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![GORE WEAR C5 Active Veste Femme  Noir  F](https://m.media-amazon.com/images/I/41qnFgM2wwL._SL400_.jpg)](https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

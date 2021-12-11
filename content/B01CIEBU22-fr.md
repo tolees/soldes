@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.76 % rabais sur SanDisk iXpand 32 Go - Clé USB double co'
+title: 'SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad'
 date: 2020-09-15 11:29:39
 image: 'https://m.media-amazon.com/images/I/41XRcfD13EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.76'
 average: '23.29'
 ---
 
-Vous avez [SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21)  à  41.76 % de réduction, prix final  23.29 EUR (original: 39.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![SanDisk iXpand 32 Go - Clé USB double co](https://m.media-amazon.com/images/I/41XRcfD13EL._SL400_.jpg)](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

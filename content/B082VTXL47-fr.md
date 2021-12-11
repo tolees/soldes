@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Veet Men - Crème Dépilatoire Homme - Pea avec 29.28 % rabais '
+title: 'Veet Men - Crème Dépilatoire Homme - Peaux Normales - 200 ml'
 date: 2021-03-03 18:03:44
 image: 'https://m.media-amazon.com/images/I/31bjps0osvL._SL400_.jpg'
 comments: true
@@ -22,9 +22,9 @@ descuento: '29.28'
 average: '4.59'
 ---
 
-C'est en vente [Veet Men - Crème Dépilatoire Homme - Peaux Normales - 200 ml](https://www.amazon.fr/dp/B082VTXL47/?tag=tolees0d-21)  à  29.28 % de réduction, prix final  4.59 EUR (original: 6.49 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Veet Men - Crème Dépilatoire Homme - Pea](https://m.media-amazon.com/images/I/31bjps0osvL._SL400_.jpg)](https://www.amazon.fr/dp/B082VTXL47/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
@@ -34,4 +34,4 @@ C'est en vente [Veet Men - Crème Dépilatoire Homme - Peaux Normales - 200 ml](
 - Une douceur parfaite
 - Utilisée pour le torse et le corps
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B082VTXL47/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

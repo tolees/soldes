@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Ornata Chroma Clavier de Jeu avec  avec 31.82 % rabais '
+title: 'Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane Mecha  Rétroéclairage Rvb Chroma  Design Ergonomique  Fr-Layout'
 date: 2020-05-22 23:10:35
 image: 'https://m.media-amazon.com/images/I/41jBP2FpzEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.82'
 average: '74.99'
 ---
 
-C'est en vente [Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane Mecha  Rétroéclairage Rvb Chroma  Design Ergonomique  Fr-Layout](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21)  à  31.82 % de réduction, prix final  74.99 EUR (original: 109.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Razer Ornata Chroma Clavier de Jeu avec ](https://m.media-amazon.com/images/I/41jBP2FpzEL._SL400_.jpg)](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

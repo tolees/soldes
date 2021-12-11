@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TIMACO Robinet de cuisine avec douchette avec 42.28 % rabais '
+title: 'TIMACO Robinet de cuisine avec douchette à ressort en acier inoxydable brossé Robinet de cuisine pivotant à 360 ° en acier inoxydable'
 date: 2020-05-26 21:54:27
 image: 'https://m.media-amazon.com/images/I/51jOMNddNsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.28'
 average: '86.58'
 ---
 
-C'est en vente [TIMACO Robinet de cuisine avec douchette à ressort en acier inoxydable brossé Robinet de cuisine pivotant à 360 ° en acier inoxydable](https://www.amazon.fr/dp/B07HF2JSK7/?tag=tolees0d-21)  à  42.28 % de réduction, prix final  86.58 EUR (original: 150.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TIMACO Robinet de cuisine avec douchette](https://m.media-amazon.com/images/I/51jOMNddNsL._SL400_.jpg)](https://www.amazon.fr/dp/B07HF2JSK7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07HF2JSK7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

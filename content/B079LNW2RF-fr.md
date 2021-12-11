@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '55.13 % rabais sur cbx Poussette Yoki  Ultra-Compacte  Habi'
+title: 'cbx Poussette Yoki  Ultra-Compacte  Habillage pluie inclus  Dès la Naissance jusqu à 15 kg  Smoky Anthracite'
 date: 2020-08-06 10:04:22
 image: 'https://m.media-amazon.com/images/I/41hZhOm4isL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.13'
 average: '80.74'
 ---
 
-Vous avez [cbx Poussette Yoki  Ultra-Compacte  Habillage pluie inclus  Dès la Naissance jusqu à 15 kg  Smoky Anthracite](https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21)  à  55.13 % de réduction, prix final  80.74 EUR (original: 179.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![cbx Poussette Yoki  Ultra-Compacte  Habi](https://m.media-amazon.com/images/I/41hZhOm4isL._SL400_.jpg)](https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

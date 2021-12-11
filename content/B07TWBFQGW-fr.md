@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee T-Shirt - Femme-R avec 25.77 % rabais '
+title: 'Levi s The Perfect Tee T-Shirt - Femme-Rouge  Bw T2 Tomato 0792 -Medium'
 date: 2020-08-11 00:11:04
 image: 'https://m.media-amazon.com/images/I/41OZLbdP6hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.77'
 average: '22.27'
 ---
 
-C'est en vente [Levi s The Perfect Tee T-Shirt - Femme-Rouge  Bw T2 Tomato 0792 -Medium](https://www.amazon.fr/dp/B07TWBFQGW/?tag=tolees0d-21)  à  25.77 % de réduction, prix final  22.27 EUR (original: 30.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Levi s The Perfect Tee T-Shirt - Femme-R](https://m.media-amazon.com/images/I/41OZLbdP6hL._SL400_.jpg)](https://www.amazon.fr/dp/B07TWBFQGW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TWBFQGW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

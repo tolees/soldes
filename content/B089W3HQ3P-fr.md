@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELUTENG Ventilateur 120mm DC Puissant et avec 16.67 % rabais '
+title: 'ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double Ventilateurs 120 mm 12V 1A 3 Vitesses Réglables avec Contrôleur 12CM Cooling Fan pour PC Ordinateur Xbox One Playstation PS4 PS3  Noir'
 date: 2020-08-21 04:59:00
 image: 'https://m.media-amazon.com/images/I/51uym8K+29L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.67'
 average: '29.99'
 ---
 
-C'est en vente [ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double Ventilateurs 120 mm 12V 1A 3 Vitesses Réglables avec Contrôleur 12CM Cooling Fan pour PC Ordinateur Xbox One Playstation PS4 PS3  Noir](https://www.amazon.fr/dp/B089W3HQ3P/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  29.99 EUR (original: 35.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![ELUTENG Ventilateur 120mm DC Puissant et](https://m.media-amazon.com/images/I/51uym8K+29L._SL400_.jpg)](https://www.amazon.fr/dp/B089W3HQ3P/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B089W3HQ3P/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

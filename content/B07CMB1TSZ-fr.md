@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel Legends - Edition Collector - Cas avec 39.40 % rabais '
+title: 'Marvel Legends - Edition Collector - Casque Electronique Black Panther'
 date: 2020-05-22 22:03:54
 image: 'https://m.media-amazon.com/images/I/51NZbptia7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.40'
 average: '95.74'
 ---
 
-C'est en vente [Marvel Legends - Edition Collector - Casque Electronique Black Panther](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21)  à  39.40 % de réduction, prix final  95.74 EUR (original: 157.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Marvel Legends - Edition Collector - Cas](https://m.media-amazon.com/images/I/51NZbptia7L._SL400_.jpg)](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

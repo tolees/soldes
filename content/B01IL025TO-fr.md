@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Swiftpak 230 x 325 mm SelfSeal clair Pol avec 60.01 % rabais '
+title: 'Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot de 1000 '
 date: 2020-08-08 16:27:42
 image: 'https://m.media-amazon.com/images/I/31cml8k2bXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.01'
 average: '27.52'
 ---
 
-C'est en vente [Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot de 1000 ](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21)  à  60.01 % de réduction, prix final  27.52 EUR (original: 68.81 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Swiftpak 230 x 325 mm SelfSeal clair Pol](https://m.media-amazon.com/images/I/31cml8k2bXL._SL400_.jpg)](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

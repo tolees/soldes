@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.80 % rabais sur Pepe Jeans SOHO Pants  10OZ Dark Used Wo'
+title: 'Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme'
 date: 2020-08-14 00:28:27
 image: 'https://m.media-amazon.com/images/I/31dzDbEu0KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.80'
 average: '45.98'
 ---
 
-Vous avez [Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme](https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21)  à  41.80 % de réduction, prix final  45.98 EUR (original: 79.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Pepe Jeans SOHO Pants  10OZ Dark Used Wo](https://m.media-amazon.com/images/I/31dzDbEu0KL._SL400_.jpg)](https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Audio-Technica ATH-ADG1X Casque Gaming O avec 66.58 % rabais '
+title: 'Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-Fidélité  Noir/Argent'
 date: 2020-08-26 19:44:55
 image: 'https://m.media-amazon.com/images/I/512QUJFXYtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.58'
 average: '154.37333333333333'
 ---
 
-C'est en vente [Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-Fidélité  Noir/Argent](https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21)  à  66.58 % de réduction, prix final  119.99 EUR (original: 359.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Audio-Technica ATH-ADG1X Casque Gaming O](https://m.media-amazon.com/images/I/512QUJFXYtL._SL400_.jpg)](https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

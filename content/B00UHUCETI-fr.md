@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % rabais sur Wüsthof TR9867-2 Gourmet Bloc Couteaux 6'
+title: 'Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces'
 date: 2020-05-22 22:29:35
 image: 'https://m.media-amazon.com/images/I/31-QKQT6S4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '104.93'
 ---
 
-Vous avez [Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  104.93 EUR (original: 149.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Wüsthof TR9867-2 Gourmet Bloc Couteaux 6](https://m.media-amazon.com/images/I/31-QKQT6S4L._SL400_.jpg)](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

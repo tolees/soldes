@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kaporal - Doudoune à Capuche Amovible  C avec 26.68 % rabais '
+title: 'Kaporal - Doudoune à Capuche Amovible  Coupe Droite - Meter - Homme - M - Bleu'
 date: 2020-05-22 23:56:38
 image: 'https://m.media-amazon.com/images/I/41CtWpnjgrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.68'
 average: '65.99'
 ---
 
-C'est en vente [Kaporal - Doudoune à Capuche Amovible  Coupe Droite - Meter - Homme - M - Bleu](https://www.amazon.fr/dp/B07N27X5JM/?tag=tolees0d-21)  à  26.68 % de réduction, prix final  65.99 EUR (original: 90.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kaporal - Doudoune à Capuche Amovible  C](https://m.media-amazon.com/images/I/41CtWpnjgrL._SL400_.jpg)](https://www.amazon.fr/dp/B07N27X5JM/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N27X5JM/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

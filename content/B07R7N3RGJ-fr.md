@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YUCUN 2 5 Pouces SATA III Disque Flash 1 avec 19.76 % rabais '
+title: 'YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne Solid State Drive R570 1To'
 date: 2020-09-23 01:46:40
 image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.76'
 average: '85.59'
 ---
 
-C'est en vente [YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne Solid State Drive R570 1To](https://www.amazon.fr/dp/B07R7N3RGJ/?tag=tolees0d-21)  à  19.76 % de réduction, prix final  85.59 EUR (original: 106.67 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![YUCUN 2 5 Pouces SATA III Disque Flash 1](https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg)](https://www.amazon.fr/dp/B07R7N3RGJ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07R7N3RGJ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

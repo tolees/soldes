@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '62.98 % rabais sur Napapijri Axstral Blouson  Noir  Black 0'
+title: 'Napapijri Axstral Blouson  Noir  Black 041   X-Large Homme'
 date: 2020-08-09 12:38:37
 image: 'https://m.media-amazon.com/images/I/41cU+f6IKzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.98'
 average: '84.78'
 ---
 
-Vous avez [Napapijri Axstral Blouson  Noir  Black 041   X-Large Homme](https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21)  à  62.98 % de réduction, prix final  84.78 EUR (original: 229.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Napapijri Axstral Blouson  Noir  Black 0](https://m.media-amazon.com/images/I/41cU+f6IKzL._SL400_.jpg)](https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

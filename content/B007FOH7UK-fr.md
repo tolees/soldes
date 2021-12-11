@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Secret World [Blu-ray] avec 44.47 % rabais '
+title: 'Secret World [Blu-ray]'
 date: 2020-10-12 07:37:01
 image: 'https://m.media-amazon.com/images/I/51g24SRuftL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-C'est en vente [Secret World [Blu-ray]](https://www.amazon.fr/dp/B007FOH7UK/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Secret World [Blu-ray]](https://m.media-amazon.com/images/I/51g24SRuftL._SL400_.jpg)](https://www.amazon.fr/dp/B007FOH7UK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B007FOH7UK/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

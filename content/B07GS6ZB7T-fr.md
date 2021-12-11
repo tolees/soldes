@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G502 HERO Souris Gamer Filaire  avec 37.43 % rabais '
+title: 'Logitech G502 HERO Souris Gamer Filaire Haute Performance  Capteur Gaming HERO 16K  16000 PPP  RVB  Poids Ajustable  11 Boutons Programmables  Mémoire Intégrée  Compatible avecPC/Mac - Noire'
 date: 2020-08-13 00:10:57
 image: 'https://m.media-amazon.com/images/I/41bAGtQpALL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.43'
 average: '56.37'
 ---
 
-C'est en vente [Logitech G502 HERO Souris Gamer Filaire Haute Performance  Capteur Gaming HERO 16K  16000 PPP  RVB  Poids Ajustable  11 Boutons Programmables  Mémoire Intégrée  Compatible avecPC/Mac - Noire](https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21)  à  37.43 % de réduction, prix final  56.31 EUR (original: 89.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Logitech G502 HERO Souris Gamer Filaire ](https://m.media-amazon.com/images/I/41bAGtQpALL._SL400_.jpg)](https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

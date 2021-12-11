@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diaper Champ Poubelle a couche - Large - avec 33.10 % rabais '
+title: 'Diaper Champ Poubelle a couche - Large - capacite +/- 75 couches'
 date: 2020-08-05 18:09:34
 image: 'https://m.media-amazon.com/images/I/21-JRRSOK4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.10'
 average: '90.28'
 ---
 
-C'est en vente [Diaper Champ Poubelle a couche - Large - capacite +/- 75 couches](https://www.amazon.fr/dp/B00307PJFQ/?tag=tolees0d-21)  à  33.10 % de réduction, prix final  90.28 EUR (original: 134.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Diaper Champ Poubelle a couche - Large -](https://m.media-amazon.com/images/I/21-JRRSOK4L._SL400_.jpg)](https://www.amazon.fr/dp/B00307PJFQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00307PJFQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

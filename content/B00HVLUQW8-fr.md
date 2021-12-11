@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.74 % rabais sur Audio-Technica ATH-M30X Casque audio pro'
+title: 'Audio-Technica ATH-M30X Casque audio professionnel Noir'
 date: 2020-09-22 02:29:19
 image: 'https://m.media-amazon.com/images/I/21iRpcx0DZL._SL500_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.74'
 average: '54.0'
 ---
 
-Vous avez [Audio-Technica ATH-M30X Casque audio professionnel Noir](https://www.amazon.fr/dp/B00HVLUQW8/?tag=tolees0d-21)  à  21.74 % de réduction, prix final  54.0 EUR (original: 69.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Audio-Technica ATH-M30X Casque audio pro](https://m.media-amazon.com/images/I/21iRpcx0DZL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B00HVLUQW8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HVLUQW8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

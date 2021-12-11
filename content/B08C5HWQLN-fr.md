@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP avec 27.84 % rabais '
+title: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray '
 date: 2020-08-15 12:22:29
 image: 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.84'
 average: '28.85'
 ---
 
-C'est en vente [Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray ](https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21)  à  27.84 % de réduction, prix final  28.85 EUR (original: 39.98 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lecteur DVD pour TV  DVD / CD / MP3 / MP](https://m.media-amazon.com/images/I/51RBOB+lMFL._SL400_.jpg)](https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

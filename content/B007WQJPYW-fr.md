@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite S Cure - Spinner M Valise  69  avec 60.00 % rabais '
+title: 'Samsonite S Cure - Spinner M Valise  69 cm  79 L  Crimson Rouge  Red '
 date: 2020-09-25 11:03:57
 image: 'https://m.media-amazon.com/images/I/31p9fYUYNEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '79.6'
 ---
 
-C'est en vente [Samsonite S Cure - Spinner M Valise  69 cm  79 L  Crimson Rouge  Red ](https://www.amazon.fr/dp/B007WQJPYW/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  79.6 EUR (original: 199.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsonite S Cure - Spinner M Valise  69 ](https://m.media-amazon.com/images/I/31p9fYUYNEL._SL400_.jpg)](https://www.amazon.fr/dp/B007WQJPYW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B007WQJPYW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

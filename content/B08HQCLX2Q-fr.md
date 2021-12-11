@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.77 % rabais sur eXtremeRate Coque Avant Housse Boîtier d'
+title: 'eXtremeRate Coque Avant Housse Boîtier de Remplacement pour Xbox One S/X Manette Contrôleur Modèle 1708 -Nouvel Espoir Gris'
 date: 2020-09-22 01:36:24
 image: 'https://m.media-amazon.com/images/I/31PN-7fHbYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.77'
 average: '13.49'
 ---
 
-Vous avez [eXtremeRate Coque Avant Housse Boîtier de Remplacement pour Xbox One S/X Manette Contrôleur Modèle 1708 -Nouvel Espoir Gris](https://www.amazon.fr/dp/B08HQCLX2Q/?tag=tolees0d-21)  à  43.77 % de réduction, prix final  13.49 EUR (original: 23.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![eXtremeRate Coque Avant Housse Boîtier d](https://m.media-amazon.com/images/I/31PN-7fHbYL._SL400_.jpg)](https://www.amazon.fr/dp/B08HQCLX2Q/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HQCLX2Q/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

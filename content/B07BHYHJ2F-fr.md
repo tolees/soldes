@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.50 % rabais sur Jabra Elite 65t Écouteurs - Écouteurs Bl'
+title: 'Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Noir Cuivre'
 date: 2020-09-16 16:40:41
 image: 'https://m.media-amazon.com/images/I/41qzXE0i76L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.50'
 average: '99.99'
 ---
 
-Vous avez [Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Noir Cuivre](https://www.amazon.fr/dp/B07BHYHJ2F/?tag=tolees0d-21)  à  37.50 % de réduction, prix final  99.99 EUR (original: 159.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Jabra Elite 65t Écouteurs - Écouteurs Bl](https://m.media-amazon.com/images/I/41qzXE0i76L._SL400_.jpg)](https://www.amazon.fr/dp/B07BHYHJ2F/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BHYHJ2F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

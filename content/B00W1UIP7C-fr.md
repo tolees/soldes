@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bikers Gear UK Veste de Moto Couleur Bla avec 20.00 % rabais '
+title: 'Bikers Gear UK Veste de Moto Couleur Black & Oxblood en Cuir Travaille Blouson modèle Café Racer Hybrid avec Protection approuvées CE TALLE 3XL'
 date: 2020-08-06 09:27:34
 image: 'https://m.media-amazon.com/images/I/51d+mRbZNsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '67.63'
 ---
 
-C'est en vente [Bikers Gear UK Veste de Moto Couleur Black & Oxblood en Cuir Travaille Blouson modèle Café Racer Hybrid avec Protection approuvées CE TALLE 3XL](https://www.amazon.fr/dp/B00W1UIP7C/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  67.63 EUR (original: 84.54 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Bikers Gear UK Veste de Moto Couleur Bla](https://m.media-amazon.com/images/I/51d+mRbZNsL._SL400_.jpg)](https://www.amazon.fr/dp/B00W1UIP7C/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00W1UIP7C/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

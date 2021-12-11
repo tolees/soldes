@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TUTUO Manette pour Nintendo Switch  Swit avec 35.01 % rabais '
+title: 'TUTUO Manette pour Nintendo Switch  Switch Pro sans Fil Contrôleur Bluetooth Gamepad Joystick  Remplacement pour JOYCON Switch - Rouge  R  et Bleu  L '
 date: 2020-08-07 00:15:59
 image: 'https://m.media-amazon.com/images/I/41XfQbXFQ3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.01'
 average: '39.82333333333334'
 ---
 
-C'est en vente [TUTUO Manette pour Nintendo Switch  Switch Pro sans Fil Contrôleur Bluetooth Gamepad Joystick  Remplacement pour JOYCON Switch - Rouge  R  et Bleu  L ](https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21)  à  35.01 % de réduction, prix final  38.99 EUR (original: 59.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TUTUO Manette pour Nintendo Switch  Swit](https://m.media-amazon.com/images/I/41XfQbXFQ3L._SL400_.jpg)](https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

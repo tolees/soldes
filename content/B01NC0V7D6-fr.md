@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '54.76 % rabais sur Russell Hobbs Toaster Grille-Pain  Cuiss'
+title: 'Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniforme - 23311-56 Victory'
 date: 2020-09-28 10:02:27
 image: 'https://m.media-amazon.com/images/I/41f8GzC++oL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.76'
 average: '19.9'
 ---
 
-Vous avez [Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniforme - 23311-56 Victory](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21)  à  54.76 % de réduction, prix final  19.9 EUR (original: 43.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Russell Hobbs Toaster Grille-Pain  Cuiss](https://m.media-amazon.com/images/I/41f8GzC++oL._SL400_.jpg)](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

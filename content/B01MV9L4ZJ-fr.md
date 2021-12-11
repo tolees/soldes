@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.36 % rabais sur Lacoste TH6709 T-Shirt Homme  Bleu  Mari'
+title: 'Lacoste TH6709 T-Shirt Homme  Bleu  Marine 166   S'
 date: 2020-08-29 23:14:24
 image: 'https://m.media-amazon.com/images/I/31o1-zNdmjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.36'
 average: '39.95'
 ---
 
-Vous avez [Lacoste TH6709 T-Shirt Homme  Bleu  Marine 166   S](https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21)  à  27.36 % de réduction, prix final  39.95 EUR (original: 55.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lacoste TH6709 T-Shirt Homme  Bleu  Mari](https://m.media-amazon.com/images/I/31o1-zNdmjL._SL400_.jpg)](https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

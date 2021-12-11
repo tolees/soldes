@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B Pro 2 2900 Brosses À Dents Électr avec 46.23 % rabais '
+title: 'Oral-B Pro 2 2900 Brosses À Dents Électriques'
 date: 2020-05-22 19:51:09
 image: 'https://m.media-amazon.com/images/I/51Hxmd6n8qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.23'
 average: '63.99'
 ---
 
-C'est en vente [Oral-B Pro 2 2900 Brosses À Dents Électriques](https://www.amazon.fr/dp/B07RQV3HQ5/?tag=tolees0d-21)  à  46.23 % de réduction, prix final  63.99 EUR (original: 119.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Oral-B Pro 2 2900 Brosses À Dents Électr](https://m.media-amazon.com/images/I/51Hxmd6n8qL._SL400_.jpg)](https://www.amazon.fr/dp/B07RQV3HQ5/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RQV3HQ5/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

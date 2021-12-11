@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRANSFORMERS Robots In Disguise - Robot  avec 82.69 % rabais '
+title: 'TRANSFORMERS Robots In Disguise - Robot électronique Bumblebee 30cm - Jouet transformable 2 en 1'
 date: 2020-08-21 17:44:05
 image: 'https://m.media-amazon.com/images/I/51Zn4zFqxoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '82.69'
 average: '7.79'
 ---
 
-C'est en vente [TRANSFORMERS Robots In Disguise - Robot électronique Bumblebee 30cm - Jouet transformable 2 en 1](https://www.amazon.fr/dp/B01C47BS9I/?tag=tolees0d-21)  à  82.69 % de réduction, prix final  7.79 EUR (original: 44.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TRANSFORMERS Robots In Disguise - Robot ](https://m.media-amazon.com/images/I/51Zn4zFqxoL._SL400_.jpg)](https://www.amazon.fr/dp/B01C47BS9I/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01C47BS9I/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

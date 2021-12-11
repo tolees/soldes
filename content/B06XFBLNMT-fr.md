@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.35 % rabais sur Seb Clipsominut  Easy Cocotte-Minute 6 L'
+title: 'Seb Clipsominut  Easy Cocotte-Minute 6 L Induction + Livre 100 Recettes Autocuiseur Inox Fabriqué en France Facile à Utiliser Bleue P4620716'
 date: 2020-10-04 05:27:21
 image: 'https://m.media-amazon.com/images/I/41KGgRqhbNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.35'
 average: '80.47'
 ---
 
-Vous avez [Seb Clipsominut  Easy Cocotte-Minute 6 L Induction + Livre 100 Recettes Autocuiseur Inox Fabriqué en France Facile à Utiliser Bleue P4620716](https://www.amazon.fr/dp/B06XFBLNMT/?tag=tolees0d-21)  à  23.35 % de réduction, prix final  80.47 EUR (original: 104.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Seb Clipsominut  Easy Cocotte-Minute 6 L](https://m.media-amazon.com/images/I/41KGgRqhbNL._SL400_.jpg)](https://www.amazon.fr/dp/B06XFBLNMT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFBLNMT/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

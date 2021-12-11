@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.13 % rabais sur TV LED Full HD 80 cm Philips 32PFS5603 T'
+title: 'TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32 pouces Tuner TNT/CÃ¢ble/Satellite'
 date: 2020-08-24 23:44:43
 image: 'https://m.media-amazon.com/images/I/51pmiK0SOML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.13'
 average: '219.99'
 ---
 
-Vous avez [TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32 pouces Tuner TNT/CÃ¢ble/Satellite](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21)  à  35.13 % de réduction, prix final  219.99 EUR (original: 339.15 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TV LED Full HD 80 cm Philips 32PFS5603 T](https://m.media-amazon.com/images/I/51pmiK0SOML._SL400_.jpg)](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

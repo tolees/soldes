@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.15 % rabais sur havit Clavier Gaming et Souris Filaire  '
+title: 'havit Clavier Gaming et Souris Filaire  avec LED lumière  4 Niveaux DPI  8 Touches Multimédia et 19 Touches Anti-ghosting Clavier AZERTY'
 date: 2020-08-06 05:05:15
 image: 'https://m.media-amazon.com/images/I/51cc8xmNMLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.15'
 average: '28.99'
 ---
 
-Vous avez [havit Clavier Gaming et Souris Filaire  avec LED lumière  4 Niveaux DPI  8 Touches Multimédia et 19 Touches Anti-ghosting Clavier AZERTY](https://www.amazon.fr/dp/B07B7JRM6R/?tag=tolees0d-21)  à  17.15 % de réduction, prix final  28.99 EUR (original: 34.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![havit Clavier Gaming et Souris Filaire  ](https://m.media-amazon.com/images/I/51cc8xmNMLL._SL400_.jpg)](https://www.amazon.fr/dp/B07B7JRM6R/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B7JRM6R/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

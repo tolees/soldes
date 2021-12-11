@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rocksmith 2014 + Câble avec 27.78 % rabais '
+title: 'Rocksmith 2014 + Câble'
 date: 2020-08-28 07:43:20
 image: 'https://m.media-amazon.com/images/I/51M8x-lopAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.78'
 average: '64.99'
 ---
 
-C'est en vente [Rocksmith 2014 + Câble](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21)  à  27.78 % de réduction, prix final  64.99 EUR (original: 89.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Rocksmith 2014 + Câble](https://m.media-amazon.com/images/I/51M8x-lopAL._SL400_.jpg)](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

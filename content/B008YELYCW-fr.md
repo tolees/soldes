@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.19 % rabais sur OSRAM LEDriving PX-5 feux diurnes LEDDRL'
+title: 'OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots 5200K 1 paire'
 date: 2020-05-22 23:14:56
 image: 'https://m.media-amazon.com/images/I/51bBUJTtssL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.19'
 average: '76.78'
 ---
 
-Vous avez [OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots 5200K 1 paire](https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21)  à  30.19 % de réduction, prix final  76.78 EUR (original: 109.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![OSRAM LEDriving PX-5 feux diurnes LEDDRL](https://m.media-amazon.com/images/I/51bBUJTtssL._SL400_.jpg)](https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

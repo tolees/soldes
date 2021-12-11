@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.48 % rabais sur POP! Marvel: Black Widow – Taskmaster w/'
+title: 'POP! Marvel: Black Widow – Taskmaster w/ bow'
 date: 2020-10-09 18:37:50
 image: 'https://m.media-amazon.com/images/I/41kn-4uBlvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.48'
 average: '6.46'
 ---
 
-Vous avez [POP! Marvel: Black Widow – Taskmaster w/ bow](https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21)  à  36.48 % de réduction, prix final  6.46 EUR (original: 10.17 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![POP! Marvel: Black Widow – Taskmaster w/](https://m.media-amazon.com/images/I/41kn-4uBlvL._SL400_.jpg)](https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

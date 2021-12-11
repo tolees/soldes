@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.01 % rabais sur YIWENTEC DP vers 2*DP Bi-direction haute'
+title: 'YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8K 4K DP Switch 1.4 Splitter 8 K.'
 date: 2020-08-05 18:07:46
 image: 'https://m.media-amazon.com/images/I/41H9jGHus-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.01'
 average: '29.99'
 ---
 
-Vous avez [YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8K 4K DP Switch 1.4 Splitter 8 K.](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)  à  43.01 % de réduction, prix final  29.99 EUR (original: 52.62 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![YIWENTEC DP vers 2*DP Bi-direction haute](https://m.media-amazon.com/images/I/41H9jGHus-L._SL400_.jpg)](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

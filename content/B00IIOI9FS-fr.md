@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON M3 Tensiomètre Électronique Compac avec 25.02 % rabais '
+title: 'OMRON M3 Tensiomètre Électronique Compact  Détection de Pulsations Cardiaques Irrégulières  Technologie IntelliSense  Validé Cliniquement'
 date: 2020-05-22 21:21:03
 image: 'https://m.media-amazon.com/images/I/41vZ-jY2caL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.02'
 average: '52.41'
 ---
 
-C'est en vente [OMRON M3 Tensiomètre Électronique Compact  Détection de Pulsations Cardiaques Irrégulières  Technologie IntelliSense  Validé Cliniquement](https://www.amazon.fr/dp/B00IIOI9FS/?tag=tolees0d-21)  à  25.02 % de réduction, prix final  52.41 EUR (original: 69.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![OMRON M3 Tensiomètre Électronique Compac](https://m.media-amazon.com/images/I/41vZ-jY2caL._SL400_.jpg)](https://www.amazon.fr/dp/B00IIOI9FS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00IIOI9FS/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

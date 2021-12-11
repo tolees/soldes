@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FURBO Dog CAMÉRA: Caméra Wi-FI HD avec L avec 20.08 % rabais '
+title: 'FURBO Dog CAMÉRA: Caméra Wi-FI HD avec Lanceur de friandises  Audio bidirectionnel  Vision Nocturne et Alerte d’Aboiement  Conçu pour Les Chiens'
 date: 2020-05-27 20:49:05
 image: 'https://m.media-amazon.com/images/I/418zueeZSQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.08'
 average: '199.0'
 ---
 
-C'est en vente [FURBO Dog CAMÉRA: Caméra Wi-FI HD avec Lanceur de friandises  Audio bidirectionnel  Vision Nocturne et Alerte d’Aboiement  Conçu pour Les Chiens](https://www.amazon.fr/dp/B01FXC7JWQ/?tag=tolees0d-21)  à  20.08 % de réduction, prix final  199.0 EUR (original: 249.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![FURBO Dog CAMÉRA: Caméra Wi-FI HD avec L](https://m.media-amazon.com/images/I/418zueeZSQL._SL400_.jpg)](https://www.amazon.fr/dp/B01FXC7JWQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01FXC7JWQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

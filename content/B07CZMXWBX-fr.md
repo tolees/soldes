@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Qualifier SPEEDPOCKET 2- avec 67.60 % rabais '
+title: 'Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme  Gris  XL'
 date: 2020-08-06 14:28:15
 image: 'https://m.media-amazon.com/images/I/318WKWgZxKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.60'
 average: '19.44'
 ---
 
-C'est en vente [Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme  Gris  XL](https://www.amazon.fr/dp/B07CZMXWBX/?tag=tolees0d-21)  à  67.60 % de réduction, prix final  19.44 EUR (original: 60.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour UA Qualifier SPEEDPOCKET 2-](https://m.media-amazon.com/images/I/318WKWgZxKL._SL400_.jpg)](https://www.amazon.fr/dp/B07CZMXWBX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CZMXWBX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disque Dur Externe  Disque Dur Externe 2 avec 28.89 % rabais '
+title: 'Disque Dur Externe  Disque Dur Externe 2to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  2to Bleu '
 date: 2020-08-07 12:19:29
 image: 'https://m.media-amazon.com/images/I/41aWa0inhrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.89'
 average: '63.99'
 ---
 
-C'est en vente [Disque Dur Externe  Disque Dur Externe 2to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  2to Bleu ](https://www.amazon.fr/dp/B08CVGGSP5/?tag=tolees0d-21)  à  28.89 % de réduction, prix final  63.99 EUR (original: 89.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Disque Dur Externe  Disque Dur Externe 2](https://m.media-amazon.com/images/I/41aWa0inhrL._SL400_.jpg)](https://www.amazon.fr/dp/B08CVGGSP5/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CVGGSP5/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

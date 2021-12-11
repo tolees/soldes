@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.36 % rabais sur Coque de Protection pour Switch en TPU S'
+title: 'Coque de Protection pour Switch en TPU Souple et 8 X Couvre Pouce pour Switch Joy-Con Noir '
 date: 2020-09-18 10:02:12
 image: 'https://m.media-amazon.com/images/I/41rwgEiEMYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.36'
 average: '9.69'
 ---
 
-Vous avez [Coque de Protection pour Switch en TPU Souple et 8 X Couvre Pouce pour Switch Joy-Con Noir ](https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21)  à  35.36 % de réduction, prix final  9.69 EUR (original: 14.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Coque de Protection pour Switch en TPU S](https://m.media-amazon.com/images/I/41rwgEiEMYL._SL400_.jpg)](https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

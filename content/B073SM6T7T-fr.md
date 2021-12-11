@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Snow avec 49.20 % rabais '
+title: 'Snow'
 date: 2020-10-12 08:21:11
 image: 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.20'
 average: '6.99'
 ---
 
-C'est en vente [Snow](https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21)  à  49.20 % de réduction, prix final  6.99 EUR (original: 13.76 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Snow](https://m.media-amazon.com/images/I/51NFQqhA2NL._SL400_.jpg)](https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '59.46 % rabais sur Ardes - ARD.M240 - Masseur - Anti-Cellul'
+title: 'Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 4 en 1'
 date: 2020-09-25 09:47:45
 image: 'https://m.media-amazon.com/images/I/411OPvoHWCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.46'
 average: '31.99'
 ---
 
-Vous avez [Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 4 en 1](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)  à  59.46 % de réduction, prix final  31.99 EUR (original: 78.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Ardes - ARD.M240 - Masseur - Anti-Cellul](https://m.media-amazon.com/images/I/411OPvoHWCL._SL400_.jpg)](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

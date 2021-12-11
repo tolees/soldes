@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Classic 2-Eye  Chaussures Bat avec 39.29 % rabais '
+title: 'Timberland Classic 2-Eye  Chaussures Bateau Femme  Bleu  MD Blue Full Grain   42 EU'
 date: 2020-08-21 09:10:52
 image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.29'
 average: '85.0'
 ---
 
-C'est en vente [Timberland Classic 2-Eye  Chaussures Bateau Femme  Bleu  MD Blue Full Grain   42 EU](https://www.amazon.fr/dp/B0010YVK1I/?tag=tolees0d-21)  à  39.29 % de réduction, prix final  85.0 EUR (original: 140.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Timberland Classic 2-Eye  Chaussures Bat](https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg)](https://www.amazon.fr/dp/B0010YVK1I/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B0010YVK1I/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

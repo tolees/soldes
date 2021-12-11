@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma ESS Logo Tee T-Shirt Femme  Noir  C avec 39.90 % rabais '
+title: 'Puma ESS Logo Tee T-Shirt Femme  Noir  Cotton Black   L'
 date: 2020-09-03 19:47:54
 image: 'https://m.media-amazon.com/images/I/4168yqv0ncL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.90'
 average: '11.99'
 ---
 
-C'est en vente [Puma ESS Logo Tee T-Shirt Femme  Noir  Cotton Black   L](https://www.amazon.fr/dp/B07DDCCPYX/?tag=tolees0d-21)  à  39.90 % de réduction, prix final  11.99 EUR (original: 19.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Puma ESS Logo Tee T-Shirt Femme  Noir  C](https://m.media-amazon.com/images/I/4168yqv0ncL._SL400_.jpg)](https://www.amazon.fr/dp/B07DDCCPYX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DDCCPYX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

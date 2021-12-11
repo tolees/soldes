@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coolskins Cool008 Chapka  Noir  Negro 08 avec 23.95 % rabais '
+title: 'Coolskins Cool008 Chapka  Noir  Negro 08   Taille Unique Mixte'
 date: 2020-05-23 00:03:40
 image: 'https://m.media-amazon.com/images/I/31zaHJUsA5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.95'
 average: '128.52'
 ---
 
-C'est en vente [Coolskins Cool008 Chapka  Noir  Negro 08   Taille Unique Mixte](https://www.amazon.fr/dp/B07GZJ6GG7/?tag=tolees0d-21)  à  23.95 % de réduction, prix final  128.52 EUR (original: 169.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Coolskins Cool008 Chapka  Noir  Negro 08](https://m.media-amazon.com/images/I/31zaHJUsA5L._SL400_.jpg)](https://www.amazon.fr/dp/B07GZJ6GG7/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GZJ6GG7/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

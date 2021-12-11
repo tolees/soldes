@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '69.54 % rabais sur Interbaby Set de 3 Pièces - Couette + To'
+title: 'Interbaby Set de 3 Pièces - Couette + Tour de Lit + Coussin pour Lit - Rose - 60x120 cm'
 date: 2020-08-29 12:03:39
 image: 'https://m.media-amazon.com/images/I/41u-rhXwMNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.54'
 average: '30.16'
 ---
 
-Vous avez [Interbaby Set de 3 Pièces - Couette + Tour de Lit + Coussin pour Lit - Rose - 60x120 cm](https://www.amazon.fr/dp/B00DZLRA40/?tag=tolees0d-21)  à  69.54 % de réduction, prix final  30.16 EUR (original: 99.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Interbaby Set de 3 Pièces - Couette + To](https://m.media-amazon.com/images/I/41u-rhXwMNL._SL400_.jpg)](https://www.amazon.fr/dp/B00DZLRA40/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DZLRA40/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.37 % rabais sur El Naturalista N5282 Lux Suede El Viajer'
+title: 'El Naturalista N5282 Lux Suede El Viajero  Bottes & Bottines Classiques Mixte Adulte  Bleu  Ocean Ocean   39 EU'
 date: 2020-05-22 23:59:57
 image: 'https://m.media-amazon.com/images/I/31hEHGnpdNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.37'
 average: '88.65'
 ---
 
-Vous avez [El Naturalista N5282 Lux Suede El Viajero  Bottes & Bottines Classiques Mixte Adulte  Bleu  Ocean Ocean   39 EU](https://www.amazon.fr/dp/B07KJZ1R94/?tag=tolees0d-21)  à  19.37 % de réduction, prix final  88.65 EUR (original: 109.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![El Naturalista N5282 Lux Suede El Viajer](https://m.media-amazon.com/images/I/31hEHGnpdNL._SL400_.jpg)](https://www.amazon.fr/dp/B07KJZ1R94/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KJZ1R94/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

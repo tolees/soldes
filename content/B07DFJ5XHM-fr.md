@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Figurines Pop! Vinyl: LOTR/Hobbit: Galad avec 21.90 % rabais '
+title: 'Figurines Pop! Vinyl: LOTR/Hobbit: Galadriel'
 date: 2020-10-04 23:29:58
 image: 'https://m.media-amazon.com/images/I/41x4WWUrqrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.90'
 average: '7.99'
 ---
 
-C'est en vente [Figurines Pop! Vinyl: LOTR/Hobbit: Galadriel](https://www.amazon.fr/dp/B07DFJ5XHM/?tag=tolees0d-21)  à  21.90 % de réduction, prix final  7.99 EUR (original: 10.23 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Figurines Pop! Vinyl: LOTR/Hobbit: Galad](https://m.media-amazon.com/images/I/41x4WWUrqrL._SL400_.jpg)](https://www.amazon.fr/dp/B07DFJ5XHM/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DFJ5XHM/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

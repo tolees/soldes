@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '71.82 % rabais sur NEWYES NYWT850 Tablette d Ecriture LCD  '
+title: 'NEWYES NYWT850 Tablette d Ecriture LCD  8.5 Pouces de Longueur - Différentes Couleurs（Noir）'
 date: 2020-06-11 19:48:50
 image: 'https://m.media-amazon.com/images/I/41CjOTg01GL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.82'
 average: '10.24'
 ---
 
-Vous avez [NEWYES NYWT850 Tablette d Ecriture LCD  8.5 Pouces de Longueur - Différentes Couleurs（Noir）](https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21)  à  71.82 % de réduction, prix final  10.99 EUR (original: 39.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![NEWYES NYWT850 Tablette d Ecriture LCD  ](https://m.media-amazon.com/images/I/41CjOTg01GL._SL400_.jpg)](https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

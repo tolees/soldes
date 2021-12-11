@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOM TAILOR MY TRUE ME Plussize T-shirt   avec 21.48 % rabais '
+title: 'TOM TAILOR MY TRUE ME Plussize T-shirt  Femme  Multicolor  48'
 date: 2020-05-22 21:38:04
 image: 'https://m.media-amazon.com/images/I/518hLtYeOXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.48'
 average: '117.74'
 ---
 
-C'est en vente [TOM TAILOR MY TRUE ME Plussize T-shirt  Femme  Multicolor  48](https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21)  à  21.48 % de réduction, prix final  117.74 EUR (original: 149.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TOM TAILOR MY TRUE ME Plussize T-shirt  ](https://m.media-amazon.com/images/I/518hLtYeOXL._SL400_.jpg)](https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

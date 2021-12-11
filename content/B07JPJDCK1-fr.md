@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda Maison Club Nomade Basic S avec 17.75 % rabais '
+title: 'Scotch & Soda Maison Club Nomade Basic Sweat Shirt  Red 3127  X-Small Femme'
 date: 2020-05-23 00:04:16
 image: 'https://m.media-amazon.com/images/I/319mxucy9vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.75'
 average: '65.76'
 ---
 
-C'est en vente [Scotch & Soda Maison Club Nomade Basic Sweat Shirt  Red 3127  X-Small Femme](https://www.amazon.fr/dp/B07JPJDCK1/?tag=tolees0d-21)  à  17.75 % de réduction, prix final  65.76 EUR (original: 79.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Scotch & Soda Maison Club Nomade Basic S](https://m.media-amazon.com/images/I/319mxucy9vL._SL400_.jpg)](https://www.amazon.fr/dp/B07JPJDCK1/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JPJDCK1/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

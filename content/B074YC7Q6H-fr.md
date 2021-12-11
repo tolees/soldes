@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60.00 % rabais sur Saint Honoré Femme Analogique Quartz Mon'
+title: 'Saint Honoré Femme Analogique Quartz Montre avec Bracelet en Cuir 7210238YADR'
 date: 2020-08-07 19:27:42
 image: 'https://m.media-amazon.com/images/I/51Jd5JoJbZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '241.92'
 ---
 
-Vous avez [Saint Honoré Femme Analogique Quartz Montre avec Bracelet en Cuir 7210238YADR](https://www.amazon.fr/dp/B074YC7Q6H/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  241.92 EUR (original: 604.8 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Saint Honoré Femme Analogique Quartz Mon](https://m.media-amazon.com/images/I/51Jd5JoJbZL._SL400_.jpg)](https://www.amazon.fr/dp/B074YC7Q6H/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074YC7Q6H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

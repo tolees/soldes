@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % rabais sur Cuisinox C61400WX13W09 Eclipse Faitout 2'
+title: 'Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec couvercle'
 date: 2020-05-22 21:25:59
 image: 'https://m.media-amazon.com/images/I/31PEsUg51CL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '103.6'
 ---
 
-Vous avez [Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec couvercle](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  103.6 EUR (original: 148.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cuisinox C61400WX13W09 Eclipse Faitout 2](https://m.media-amazon.com/images/I/31PEsUg51CL._SL400_.jpg)](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

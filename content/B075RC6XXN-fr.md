@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.30 % rabais sur GROHE 26381001 Tempesta System 210 Colon'
+title: 'GROHE 26381001 Tempesta System 210 Colonne de Douche avec Inverseur Manuel  Argent'
 date: 2020-08-06 06:32:16
 image: 'https://m.media-amazon.com/images/I/21TBzDYw8+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.30'
 average: '142.9'
 ---
 
-Vous avez [GROHE 26381001 Tempesta System 210 Colonne de Douche avec Inverseur Manuel  Argent](https://www.amazon.fr/dp/B075RC6XXN/?tag=tolees0d-21)  à  56.30 % de réduction, prix final  142.9 EUR (original: 327.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![GROHE 26381001 Tempesta System 210 Colon](https://m.media-amazon.com/images/I/21TBzDYw8+L._SL400_.jpg)](https://www.amazon.fr/dp/B075RC6XXN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075RC6XXN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

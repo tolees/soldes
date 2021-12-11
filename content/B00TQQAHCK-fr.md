@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.44 % rabais sur Alessi Mw28 Dressed in Wood Centre de Ta'
+title: 'Alessi Mw28 Dressed in Wood Centre de Table en Bois de Hêtre avec Décoration en Relief  Ø 39 Cm'
 date: 2020-08-04 10:03:42
 image: 'https://m.media-amazon.com/images/I/41khXfuLx8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.44'
 average: '63.89'
 ---
 
-Vous avez [Alessi Mw28 Dressed in Wood Centre de Table en Bois de Hêtre avec Décoration en Relief  Ø 39 Cm](https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21)  à  44.44 % de réduction, prix final  63.89 EUR (original: 115.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Alessi Mw28 Dressed in Wood Centre de Ta](https://m.media-amazon.com/images/I/41khXfuLx8L._SL400_.jpg)](https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

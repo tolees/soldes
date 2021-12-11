@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Osprey Hikelite 18 Unisex Hiking Pack -  avec 20.70 % rabais '
+title: 'Osprey Hikelite 18 Unisex Hiking Pack - Black  O/S '
 date: 2020-05-22 20:55:08
 image: 'https://m.media-amazon.com/images/I/41Ckkh4Wx1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.70'
 average: '63.44'
 ---
 
-C'est en vente [Osprey Hikelite 18 Unisex Hiking Pack - Black  O/S ](https://www.amazon.fr/dp/B074P7R3SM/?tag=tolees0d-21)  à  20.70 % de réduction, prix final  63.44 EUR (original: 80.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Osprey Hikelite 18 Unisex Hiking Pack - ](https://m.media-amazon.com/images/I/41Ckkh4Wx1L._SL400_.jpg)](https://www.amazon.fr/dp/B074P7R3SM/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B074P7R3SM/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

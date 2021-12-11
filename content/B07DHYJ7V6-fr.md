@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.37 % rabais sur Dujardin Jeux - Burger Quiz'
+title: 'Dujardin Jeux - Burger Quiz'
 date: 2020-10-04 21:12:06
 image: 'https://m.media-amazon.com/images/I/51wYy0xQYqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.37'
 average: '18.9'
 ---
 
-Vous avez [Dujardin Jeux - Burger Quiz](https://www.amazon.fr/dp/B07DHYJ7V6/?tag=tolees0d-21)  à  24.37 % de réduction, prix final  18.9 EUR (original: 24.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Dujardin Jeux - Burger Quiz](https://m.media-amazon.com/images/I/51wYy0xQYqL._SL400_.jpg)](https://www.amazon.fr/dp/B07DHYJ7V6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DHYJ7V6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '34.80 % rabais sur Bombes de Bain Coffret Cadeau Anjou 6 x '
+title: 'Bombes de Bain Coffret Cadeau Anjou 6 x 115g  Boules Effervescentes pour Femmes  Jeunes filles  Anniversaires  Fêtes  etc'
 date: 2020-08-18 16:47:37
 image: 'https://m.media-amazon.com/images/I/51WZextIXNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.80'
 average: '14.99'
 ---
 
-Vous avez [Bombes de Bain Coffret Cadeau Anjou 6 x 115g  Boules Effervescentes pour Femmes  Jeunes filles  Anniversaires  Fêtes  etc](https://www.amazon.fr/dp/B07VKBS8GD/?tag=tolees0d-21)  à  34.80 % de réduction, prix final  14.99 EUR (original: 22.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Bombes de Bain Coffret Cadeau Anjou 6 x ](https://m.media-amazon.com/images/I/51WZextIXNL._SL400_.jpg)](https://www.amazon.fr/dp/B07VKBS8GD/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VKBS8GD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas W E 3S Short Femme Noir/Blanc FR  avec 28.58 % rabais '
+title: 'Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS '
 date: 2020-08-17 10:40:39
 image: 'https://m.media-amazon.com/images/I/41DRMcysH7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.58'
 average: '19.99'
 ---
 
-C'est en vente [Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS ](https://www.amazon.fr/dp/B07KMQZKY9/?tag=tolees0d-21)  à  28.58 % de réduction, prix final  19.99 EUR (original: 27.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Adidas W E 3S Short Femme Noir/Blanc FR ](https://m.media-amazon.com/images/I/41DRMcysH7L._SL400_.jpg)](https://www.amazon.fr/dp/B07KMQZKY9/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KMQZKY9/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

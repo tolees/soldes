@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.12 % rabais sur BODY WRAP - Body Retro Sculptant avec Ar'
+title: 'BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustables - Affine Rehausse et Galbe - Invisible sans Couture - Femme - Beige 38-40'
 date: 2020-08-04 08:06:58
 image: 'https://m.media-amazon.com/images/I/41r60sk0XNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.12'
 average: '36.02'
 ---
 
-Vous avez [BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustables - Affine Rehausse et Galbe - Invisible sans Couture - Femme - Beige 38-40](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21)  à  58.12 % de réduction, prix final  36.02 EUR (original: 86.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BODY WRAP - Body Retro Sculptant avec Ar](https://m.media-amazon.com/images/I/41r60sk0XNL._SL400_.jpg)](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

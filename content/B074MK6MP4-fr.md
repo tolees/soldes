@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.12 % rabais sur Havaianas Slim Brasil Logo Tongs-Femme  '
+title: 'Havaianas Slim Brasil Logo Tongs-Femme  Bleu  Bleu Marin   39/40 EU'
 date: 2020-08-12 12:31:45
 image: 'https://m.media-amazon.com/images/I/41YHI2eNA+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.12'
 average: '18.95'
 ---
 
-Vous avez [Havaianas Slim Brasil Logo Tongs-Femme  Bleu  Bleu Marin   39/40 EU](https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21)  à  27.12 % de réduction, prix final  18.95 EUR (original: 26.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Havaianas Slim Brasil Logo Tongs-Femme  ](https://m.media-amazon.com/images/I/41YHI2eNA+L._SL400_.jpg)](https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

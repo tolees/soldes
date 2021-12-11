@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher 6.295-941.0 Nettoyant pour sols  avec 44.76 % rabais '
+title: 'Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5'
 date: 2020-09-27 03:14:50
 image: 'https://m.media-amazon.com/images/I/41TyAnymDjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.76'
 average: '6.96'
 ---
 
-C'est en vente [Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)  à  44.76 % de réduction, prix final  6.96 EUR (original: 12.6 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Kärcher 6.295-941.0 Nettoyant pour sols ](https://m.media-amazon.com/images/I/41TyAnymDjL._SL400_.jpg)](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

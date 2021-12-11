@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'vo7 Golazo Burgundy  Basket Homme Chic e avec 66.72 % rabais '
+title: 'vo7 Golazo Burgundy  Basket Homme Chic et élégante - Rouge - 44 EU'
 date: 2020-05-22 21:44:30
 image: 'https://m.media-amazon.com/images/I/31y7YgtGORL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.72'
 average: '39.9'
 ---
 
-C'est en vente [vo7 Golazo Burgundy  Basket Homme Chic et élégante - Rouge - 44 EU](https://www.amazon.fr/dp/B07Q5SBLZC/?tag=tolees0d-21)  à  66.72 % de réduction, prix final  39.9 EUR (original: 119.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![vo7 Golazo Burgundy  Basket Homme Chic e](https://m.media-amazon.com/images/I/31y7YgtGORL._SL400_.jpg)](https://www.amazon.fr/dp/B07Q5SBLZC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q5SBLZC/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

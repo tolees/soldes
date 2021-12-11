@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bang & Olufsen Beoplay H8i Casque sans F avec 38.77 % rabais '
+title: 'Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir'
 date: 2020-10-04 09:02:30
 image: 'https://m.media-amazon.com/images/I/41H8psDe8BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.77'
 average: '244.93'
 ---
 
-C'est en vente [Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21)  à  38.77 % de réduction, prix final  244.93 EUR (original: 400.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Bang & Olufsen Beoplay H8i Casque sans F](https://m.media-amazon.com/images/I/41H8psDe8BL._SL400_.jpg)](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

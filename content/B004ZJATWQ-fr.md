@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.33 % rabais sur Weber 1331004 Bar B Kettle Barbecue à Ch'
+title: 'Weber 1331004 Bar B Kettle Barbecue à Charbon Noir 57 cm'
 date: 2020-05-28 09:52:01
 image: 'https://m.media-amazon.com/images/I/41qPQFi-xLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.33'
 average: '126.0'
 ---
 
-Vous avez [Weber 1331004 Bar B Kettle Barbecue à Charbon Noir 57 cm](https://www.amazon.fr/dp/B004ZJATWQ/?tag=tolees0d-21)  à  33.33 % de réduction, prix final  126.0 EUR (original: 189.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Weber 1331004 Bar B Kettle Barbecue à Ch](https://m.media-amazon.com/images/I/41qPQFi-xLL._SL400_.jpg)](https://www.amazon.fr/dp/B004ZJATWQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004ZJATWQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

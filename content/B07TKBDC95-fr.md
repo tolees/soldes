@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP EliteBook 840 G2 - PC Portable - 14   avec 57.06 % rabais '
+title: 'HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné '
 date: 2020-06-12 01:08:42
 image: 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.06'
 average: '429.0'
 ---
 
-C'est en vente [HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné ](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)  à  57.06 % de réduction, prix final  429.0 EUR (original: 999.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![HP EliteBook 840 G2 - PC Portable - 14  ](https://m.media-amazon.com/images/I/41wPLJM-2GL._SL400_.jpg)](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

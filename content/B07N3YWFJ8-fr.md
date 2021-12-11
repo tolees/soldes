@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.75 % rabais sur Hackett Solid Volley Short  Bleu  Atlant'
+title: 'Hackett Solid Volley Short  Bleu  Atlantic 5PO   Small Homme'
 date: 2020-05-23 00:14:08
 image: 'https://m.media-amazon.com/images/I/41BgdNQzqbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.75'
 average: '66.6'
 ---
 
-Vous avez [Hackett Solid Volley Short  Bleu  Atlantic 5PO   Small Homme](https://www.amazon.fr/dp/B07N3YWFJ8/?tag=tolees0d-21)  à  16.75 % de réduction, prix final  66.6 EUR (original: 80.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Hackett Solid Volley Short  Bleu  Atlant](https://m.media-amazon.com/images/I/41BgdNQzqbL._SL400_.jpg)](https://www.amazon.fr/dp/B07N3YWFJ8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N3YWFJ8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

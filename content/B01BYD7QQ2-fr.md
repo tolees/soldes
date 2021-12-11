@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.57 % rabais sur Oral-B Genius Brosse À Dents Électrique '
+title: 'Oral-B Genius Brosse À Dents Électrique Par Braun'
 date: 2020-05-22 22:48:17
 image: 'https://m.media-amazon.com/images/I/41Inw11DCaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.57'
 average: '145.3'
 ---
 
-Vous avez [Oral-B Genius Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21)  à  51.57 % de réduction, prix final  145.3 EUR (original: 300.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Oral-B Genius Brosse À Dents Électrique ](https://m.media-amazon.com/images/I/41Inw11DCaL._SL400_.jpg)](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

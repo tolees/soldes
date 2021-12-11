@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.93 % rabais sur LEGO-DUPLO L’île tropicale Pour Tout Pet'
+title: 'LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906'
 date: 2020-08-27 06:23:23
 image: 'https://m.media-amazon.com/images/I/51CoHBCU9fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.93'
 average: '48.96'
 ---
 
-Vous avez [LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906](https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21)  à  36.93 % de réduction, prix final  40.99 EUR (original: 64.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO-DUPLO L’île tropicale Pour Tout Pet](https://m.media-amazon.com/images/I/51CoHBCU9fL._SL400_.jpg)](https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BÉABA  Babycook Solo  Robot Bébé 4 en 1  avec 25.01 % rabais '
+title: 'BÉABA  Babycook Solo  Robot Bébé 4 en 1 Mixeur-Cuiseur  Cuisson Vapeur  Diversification alimentaire  Petits pots bébé maison  Matcha'
 date: 2020-05-22 23:28:17
 image: 'https://m.media-amazon.com/images/I/41o3IwgyEIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '119.99'
 ---
 
-C'est en vente [BÉABA  Babycook Solo  Robot Bébé 4 en 1 Mixeur-Cuiseur  Cuisson Vapeur  Diversification alimentaire  Petits pots bébé maison  Matcha](https://www.amazon.fr/dp/B07TQNLLPD/?tag=tolees0d-21)  à  25.01 % de réduction, prix final  119.99 EUR (original: 160.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BÉABA  Babycook Solo  Robot Bébé 4 en 1 ](https://m.media-amazon.com/images/I/41o3IwgyEIL._SL400_.jpg)](https://www.amazon.fr/dp/B07TQNLLPD/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TQNLLPD/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

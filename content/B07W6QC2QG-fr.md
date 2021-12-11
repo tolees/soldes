@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.22 % rabais sur LEGO Figurines Série DC Super Héros avec'
+title: 'LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou Méchants  Set de collection  22 pièces  71026'
 date: 2020-09-18 15:32:19
 image: 'https://m.media-amazon.com/images/I/51alNrT-xAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.22'
 average: '6.2'
 ---
 
-Vous avez [LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou Méchants  Set de collection  22 pièces  71026](https://www.amazon.fr/dp/B07W6QC2QG/?tag=tolees0d-21)  à  21.22 % de réduction, prix final  6.2 EUR (original: 7.87 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LEGO Figurines Série DC Super Héros avec](https://m.media-amazon.com/images/I/51alNrT-xAL._SL400_.jpg)](https://www.amazon.fr/dp/B07W6QC2QG/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W6QC2QG/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

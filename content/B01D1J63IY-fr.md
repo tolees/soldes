@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite XBR Laptop Sac à Dos 17 3 Pouc avec 31.10 % rabais '
+title: 'Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable  51 cm  29 L  Noir'
 date: 2020-10-05 19:20:32
 image: 'https://m.media-amazon.com/images/I/41hJfK-rnDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.10'
 average: '99.9'
 ---
 
-C'est en vente [Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable  51 cm  29 L  Noir](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21)  à  31.10 % de réduction, prix final  99.9 EUR (original: 145.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsonite XBR Laptop Sac à Dos 17 3 Pouc](https://m.media-amazon.com/images/I/41hJfK-rnDL._SL400_.jpg)](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

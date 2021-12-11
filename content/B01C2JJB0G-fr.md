@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.62 % rabais sur EmtecECSSD480GX150 - Disque SSDInterne -'
+title: 'EmtecECSSD480GX150 - Disque SSDInterne - 2.5   - SATA - Collection X150 Power Plus - 3D NAND - 480 GB'
 date: 2020-07-24 18:16:28
 image: 'https://m.media-amazon.com/images/I/41VKejs69WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.62'
 average: '55.115'
 ---
 
-Vous avez [EmtecECSSD480GX150 - Disque SSDInterne - 2.5   - SATA - Collection X150 Power Plus - 3D NAND - 480 GB](https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21)  à  22.62 % de réduction, prix final  51.77 EUR (original: 66.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![EmtecECSSD480GX150 - Disque SSDInterne -](https://m.media-amazon.com/images/I/41VKejs69WL._SL400_.jpg)](https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

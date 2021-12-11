@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.82 % rabais sur PUMA Viz Runner  Chaussures de Running C'
+title: 'PUMA Viz Runner  Chaussures de Running Compétition Homme  Black White  43 EU'
 date: 2020-06-10 10:38:11
 image: 'https://m.media-amazon.com/images/I/417Hszw2UbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.82'
 average: '48.11'
 ---
 
-Vous avez [PUMA Viz Runner  Chaussures de Running Compétition Homme  Black White  43 EU](https://www.amazon.fr/dp/B077MKVLX6/?tag=tolees0d-21)  à  19.82 % de réduction, prix final  48.11 EUR (original: 60.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![PUMA Viz Runner  Chaussures de Running C](https://m.media-amazon.com/images/I/417Hszw2UbL._SL400_.jpg)](https://www.amazon.fr/dp/B077MKVLX6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077MKVLX6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

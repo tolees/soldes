@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YUES Manette pour PS4 DUALSHOCK 4 pour P avec 46.22 % rabais '
+title: 'YUES Manette pour PS4 DUALSHOCK 4 pour Playstation 4/Pro/Slim/3/PC et Ordinateur Portable. Sans Fil Contrôleur de jeu avec Ecran Tactile à Double Vibration et Fonction Audio et Barre Lumineuse  Rouge'
 date: 2020-10-04 23:17:18
 image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.22'
 average: '29.99'
 ---
 
-C'est en vente [YUES Manette pour PS4 DUALSHOCK 4 pour Playstation 4/Pro/Slim/3/PC et Ordinateur Portable. Sans Fil Contrôleur de jeu avec Ecran Tactile à Double Vibration et Fonction Audio et Barre Lumineuse  Rouge](https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21)  à  46.22 % de réduction, prix final  29.99 EUR (original: 55.76 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![YUES Manette pour PS4 DUALSHOCK 4 pour P](https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg)](https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

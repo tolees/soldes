@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Bronson Slim Chino Pantalon  Bleu avec 29.98 % rabais '
+title: 'G-Star Bronson Slim Chino Pantalon  Bleu  Mazarine Blue 5126-4213   32W / 30L Homme'
 date: 2020-05-22 21:26:01
 image: 'https://m.media-amazon.com/images/I/31GeKzySh1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.98'
 average: '69.98'
 ---
 
-C'est en vente [G-Star Bronson Slim Chino Pantalon  Bleu  Mazarine Blue 5126-4213   32W / 30L Homme](https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21)  à  29.98 % de réduction, prix final  69.98 EUR (original: 99.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![G-Star Bronson Slim Chino Pantalon  Bleu](https://m.media-amazon.com/images/I/31GeKzySh1L._SL400_.jpg)](https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

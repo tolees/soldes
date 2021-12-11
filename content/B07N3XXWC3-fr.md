@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Audio Technica ATH-ANC500BTBK Bluetooth  avec 29.30 % rabais '
+title: 'Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active Noise-Cancelling Over-Ear Headphones with Microphone  Black '
 date: 2020-10-12 19:45:00
 image: 'https://m.media-amazon.com/images/I/31CCVQnWc8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.30'
 average: '69.99'
 ---
 
-C'est en vente [Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active Noise-Cancelling Over-Ear Headphones with Microphone  Black ](https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21)  à  29.30 % de réduction, prix final  69.99 EUR (original: 99.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Audio Technica ATH-ANC500BTBK Bluetooth ](https://m.media-amazon.com/images/I/31CCVQnWc8L._SL400_.jpg)](https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

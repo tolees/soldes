@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.94 % rabais sur Ahava Deadsea Salt Body Firming Duo  Bod'
+title: 'Ahava Deadsea Salt Body Firming Duo  Body Shaper  200 ml + Crème pour le corps  200 ml '
 date: 2020-08-06 17:40:52
 image: 'https://m.media-amazon.com/images/I/415JqhuTZKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.94'
 average: '27.28'
 ---
 
-Vous avez [Ahava Deadsea Salt Body Firming Duo  Body Shaper  200 ml + Crème pour le corps  200 ml ](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21)  à  30.94 % de réduction, prix final  27.28 EUR (original: 39.5 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Ahava Deadsea Salt Body Firming Duo  Bod](https://m.media-amazon.com/images/I/415JqhuTZKL._SL400_.jpg)](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

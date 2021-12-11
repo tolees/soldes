@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett AMR MLT Wings Polo  Multicolore  avec 18.45 % rabais '
+title: 'Hackett AMR MLT Wings Polo  Multicolore  Navy/White 5DJ   Large Homme'
 date: 2020-05-23 00:14:24
 image: 'https://m.media-amazon.com/images/I/41JV9y51qjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.45'
 average: '97.86'
 ---
 
-C'est en vente [Hackett AMR MLT Wings Polo  Multicolore  Navy/White 5DJ   Large Homme](https://www.amazon.fr/dp/B07N3YBGRB/?tag=tolees0d-21)  à  18.45 % de réduction, prix final  97.86 EUR (original: 120.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Hackett AMR MLT Wings Polo  Multicolore ](https://m.media-amazon.com/images/I/41JV9y51qjL._SL400_.jpg)](https://www.amazon.fr/dp/B07N3YBGRB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N3YBGRB/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

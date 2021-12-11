@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Les PEPITES avec 40.00 % rabais '
+title: 'Les PEPITES'
 date: 2020-10-03 07:02:59
 image: 'https://m.media-amazon.com/images/I/51Or5HXEGUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '6.0'
 ---
 
-C'est en vente [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  6.0 EUR (original: 10.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Les PEPITES](https://m.media-amazon.com/images/I/51Or5HXEGUL._SL400_.jpg)](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

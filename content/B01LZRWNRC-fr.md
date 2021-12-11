@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lunii  Fabrique à Histoires avec 16.54 % rabais '
+title: 'Lunii  Fabrique à Histoires'
 date: 2020-09-12 14:50:55
 image: 'https://m.media-amazon.com/images/I/31N5xRl3BqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.54'
 average: '58.248333333333335'
 ---
 
-C'est en vente [Lunii  Fabrique à Histoires](https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21)  à  16.54 % de réduction, prix final  49.99 EUR (original: 59.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lunii  Fabrique à Histoires](https://m.media-amazon.com/images/I/31N5xRl3BqL._SL400_.jpg)](https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

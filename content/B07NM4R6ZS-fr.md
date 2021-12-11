@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.12 % rabais sur AVIC-Z820DAB'
+title: 'AVIC-Z820DAB'
 date: 2020-09-16 05:14:19
 image: 'https://m.media-amazon.com/images/I/41pDMEX7HfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.12'
 average: '665.0'
 ---
 
-Vous avez [AVIC-Z820DAB](https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21)  à  42.12 % de réduction, prix final  665.0 EUR (original: 1149.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![AVIC-Z820DAB](https://m.media-amazon.com/images/I/41pDMEX7HfL._SL400_.jpg)](https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.17 % rabais sur TP-Link TL-SG1024D Switch 24 Ports Gigab'
+title: 'TP-Link TL-SG1024D Switch 24 Ports Gigabit  Bureau/Rackable  Boîtier Métal    Noir'
 date: 2020-08-10 18:35:35
 image: 'https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.17'
 average: '72.67'
 ---
 
-Vous avez [TP-Link TL-SG1024D Switch 24 Ports Gigabit  Bureau/Rackable  Boîtier Métal    Noir](https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21)  à  19.17 % de réduction, prix final  72.67 EUR (original: 89.9 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![TP-Link TL-SG1024D Switch 24 Ports Gigab](https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL400_.jpg)](https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

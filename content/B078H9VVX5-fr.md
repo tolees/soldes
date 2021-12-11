@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Regular Jacket  Homme   Bleu  M avec 36.90 % rabais '
+title: 'Wrangler Regular Jacket  Homme   Bleu  Midstone 091   Small'
 date: 2020-05-23 00:16:38
 image: 'https://m.media-amazon.com/images/I/41Ca9heV0xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.90'
 average: '63.1'
 ---
 
-C'est en vente [Wrangler Regular Jacket  Homme   Bleu  Midstone 091   Small](https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21)  à  36.90 % de réduction, prix final  63.1 EUR (original: 100.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Wrangler Regular Jacket  Homme   Bleu  M](https://m.media-amazon.com/images/I/41Ca9heV0xL._SL400_.jpg)](https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

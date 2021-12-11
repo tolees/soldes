@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.50 % rabais sur Thrustmaster T-16000M FCS FLIGHT PACK jo'
+title: 'Thrustmaster T-16000M FCS FLIGHT PACK joystick  manette des gaz et palonnier joystick  manette des gaz et palonnier compatible PC'
 date: 2020-09-18 10:23:18
 image: 'https://m.media-amazon.com/images/I/41AYvwZA6zL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.50'
 average: '172.69'
 ---
 
-Vous avez [Thrustmaster T-16000M FCS FLIGHT PACK joystick  manette des gaz et palonnier joystick  manette des gaz et palonnier compatible PC](https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21)  à  21.50 % de réduction, prix final  172.69 EUR (original: 219.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Thrustmaster T-16000M FCS FLIGHT PACK jo](https://m.media-amazon.com/images/I/41AYvwZA6zL._SL400_.jpg)](https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

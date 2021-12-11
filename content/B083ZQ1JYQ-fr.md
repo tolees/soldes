@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corolle- Lilou Poupon  130190  Rose avec 24.96 % rabais '
+title: 'Corolle- Lilou Poupon  130190  Rose'
 date: 2020-09-20 21:04:19
 image: 'https://m.media-amazon.com/images/I/418mFTlqL-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.96'
 average: '37.52'
 ---
 
-C'est en vente [Corolle- Lilou Poupon  130190  Rose](https://www.amazon.fr/dp/B083ZQ1JYQ/?tag=tolees0d-21)  à  24.96 % de réduction, prix final  37.52 EUR (original: 50.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Corolle- Lilou Poupon  130190  Rose](https://m.media-amazon.com/images/I/418mFTlqL-L._SL400_.jpg)](https://www.amazon.fr/dp/B083ZQ1JYQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B083ZQ1JYQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

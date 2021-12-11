@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.29 % rabais sur Playmobil - 4X4 avec Coffre de Toit - 92'
+title: 'Playmobil - 4X4 avec Coffre de Toit - 9281'
 date: 2020-10-08 05:57:59
 image: 'https://m.media-amazon.com/images/I/51HLoqRvq7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.29'
 average: '15.99'
 ---
 
-Vous avez [Playmobil - 4X4 avec Coffre de Toit - 9281](https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21)  à  27.29 % de réduction, prix final  15.99 EUR (original: 21.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Playmobil - 4X4 avec Coffre de Toit - 92](https://m.media-amazon.com/images/I/51HLoqRvq7L._SL400_.jpg)](https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.96 % rabais sur Simm Jouets 50410 – Standard GS Moteur p'
+title: 'Simm Jouets 50410 – Standard GS Moteur pour remplacer'
 date: 2020-09-23 21:15:36
 image: 'https://m.media-amazon.com/images/I/51i4F+m-SxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.96'
 average: '7.68'
 ---
 
-Vous avez [Simm Jouets 50410 – Standard GS Moteur pour remplacer](https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21)  à  37.96 % de réduction, prix final  7.68 EUR (original: 12.38 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Simm Jouets 50410 – Standard GS Moteur p](https://m.media-amazon.com/images/I/51i4F+m-SxL._SL400_.jpg)](https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.22 % rabais sur Replay M8006 .000.83406 Blouson  Noir  B'
+title: 'Replay M8006 .000.83406 Blouson  Noir  Black 98   Large Homme'
 date: 2020-05-22 19:59:17
 image: 'https://m.media-amazon.com/images/I/41IWficp05L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.22'
 average: '80.98'
 ---
 
-Vous avez [Replay M8006 .000.83406 Blouson  Noir  Black 98   Large Homme](https://www.amazon.fr/dp/B07L8ZRTCF/?tag=tolees0d-21)  à  37.22 % de réduction, prix final  80.98 EUR (original: 129.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Replay M8006 .000.83406 Blouson  Noir  B](https://m.media-amazon.com/images/I/41IWficp05L._SL400_.jpg)](https://www.amazon.fr/dp/B07L8ZRTCF/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L8ZRTCF/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

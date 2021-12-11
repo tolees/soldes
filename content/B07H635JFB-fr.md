@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Valise  106745/7084  Graphite/ avec 19.09 % rabais '
+title: 'Samsonite Valise  106745/7084  Graphite/Gunmetal  Gris  - 106745/7083'
 date: 2020-05-22 21:55:49
 image: 'https://m.media-amazon.com/images/I/41hGGpdrBzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.09'
 average: '185.28'
 ---
 
-C'est en vente [Samsonite Valise  106745/7084  Graphite/Gunmetal  Gris  - 106745/7083](https://www.amazon.fr/dp/B07H635JFB/?tag=tolees0d-21)  à  19.09 % de réduction, prix final  185.28 EUR (original: 229.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Samsonite Valise  106745/7084  Graphite/](https://m.media-amazon.com/images/I/41hGGpdrBzL._SL400_.jpg)](https://www.amazon.fr/dp/B07H635JFB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07H635JFB/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My time at Portia - Nintendo Switch avec 50.01 % rabais '
+title: 'My time at Portia - Nintendo Switch'
 date: 2020-09-25 08:57:01
 image: 'https://m.media-amazon.com/images/I/41cvStapSnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '19.99'
 ---
 
-C'est en vente [My time at Portia - Nintendo Switch](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  19.99 EUR (original: 39.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![My time at Portia - Nintendo Switch](https://m.media-amazon.com/images/I/41cvStapSnL._SL400_.jpg)](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.89 % rabais sur COLAB Shampooing Sec Licorne'
+title: 'COLAB Shampooing Sec Licorne'
 date: 2021-03-16 18:59:27
 image: 'https://m.media-amazon.com/images/I/31Wi4gU4bTL._SL400_.jpg'
 comments: true
@@ -22,9 +22,9 @@ descuento: '45.89'
 average: '2.7'
 ---
 
-Vous avez [COLAB Shampooing Sec Licorne](https://www.amazon.fr/dp/B078GVF1T6/?tag=tolees0d-21)  à  45.89 % de réduction, prix final  2.7 EUR (original: 4.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![COLAB Shampooing Sec Licorne](https://m.media-amazon.com/images/I/31Wi4gU4bTL._SL400_.jpg)](https://www.amazon.fr/dp/B078GVF1T6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
@@ -32,4 +32,4 @@ Vous avez [COLAB Shampooing Sec Licorne](https://www.amazon.fr/dp/B078GVF1T6/?ta
 - Elimine lexcès de sébum
 - Senteur Licorne
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078GVF1T6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIVOO DOP142N Robot culinaire Chauffant avec 45.75 % rabais '
+title: 'LIVOO DOP142N Robot culinaire Chauffant'
 date: 2020-05-22 19:49:13
 image: 'https://m.media-amazon.com/images/I/418gWdkXGxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.75'
 average: '216.44'
 ---
 
-C'est en vente [LIVOO DOP142N Robot culinaire Chauffant](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)  à  45.75 % de réduction, prix final  216.44 EUR (original: 399.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LIVOO DOP142N Robot culinaire Chauffant](https://m.media-amazon.com/images/I/418gWdkXGxL._SL400_.jpg)](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

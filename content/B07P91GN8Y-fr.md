@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '59.64 % rabais sur Frock and Frill Godiva Mandarin Collar E'
+title: 'Frock and Frill Godiva Mandarin Collar Embellied Maxi Dress Robe de soirée  Bleu  Navy #000080   36  Taille Fabricant: 8  Femme'
 date: 2020-08-06 12:53:07
 image: 'https://m.media-amazon.com/images/I/41ZzUQ+DAfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.64'
 average: '77.64'
 ---
 
-Vous avez [Frock and Frill Godiva Mandarin Collar Embellied Maxi Dress Robe de soirée  Bleu  Navy #000080   36  Taille Fabricant: 8  Femme](https://www.amazon.fr/dp/B07P91GN8Y/?tag=tolees0d-21)  à  59.64 % de réduction, prix final  77.64 EUR (original: 192.36 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Frock and Frill Godiva Mandarin Collar E](https://m.media-amazon.com/images/I/41ZzUQ+DAfL._SL400_.jpg)](https://www.amazon.fr/dp/B07P91GN8Y/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P91GN8Y/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

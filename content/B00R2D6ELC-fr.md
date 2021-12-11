@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.64 % rabais sur La Bonne Paye – Jeu de societe familial '
+title: 'La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française'
 date: 2020-06-10 15:18:45
 image: 'https://m.media-amazon.com/images/I/61r5PXrKmRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.64'
 average: '19.9'
 ---
 
-Vous avez [La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)  à  33.64 % de réduction, prix final  19.9 EUR (original: 29.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![La Bonne Paye – Jeu de societe familial ](https://m.media-amazon.com/images/I/61r5PXrKmRL._SL400_.jpg)](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

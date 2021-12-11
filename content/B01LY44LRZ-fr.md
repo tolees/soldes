@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.26 % rabais sur Playmobil - Bouffe-Tout avec Stand de Ho'
+title: 'Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222'
 date: 2020-09-28 11:09:07
 image: 'https://m.media-amazon.com/images/I/51kiNMU+BsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.26'
 average: '12.99'
 ---
 
-Vous avez [Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222](https://www.amazon.fr/dp/B01LY44LRZ/?tag=tolees0d-21)  à  24.26 % de réduction, prix final  12.99 EUR (original: 17.15 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Playmobil - Bouffe-Tout avec Stand de Ho](https://m.media-amazon.com/images/I/51kiNMU+BsL._SL400_.jpg)](https://www.amazon.fr/dp/B01LY44LRZ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LY44LRZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

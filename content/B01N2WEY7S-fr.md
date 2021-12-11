@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Club C 85  Sneakers Basses Homme  avec 30.02 % rabais '
+title: 'Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 0  - 42.5 EU'
 date: 2020-09-15 21:30:13
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.02'
 average: '49.43333333333333'
 ---
 
-C'est en vente [Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 0  - 42.5 EU](https://www.amazon.fr/dp/B01N2WEY7S/?tag=tolees0d-21)  à  30.02 % de réduction, prix final  55.95 EUR (original: 79.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Reebok Club C 85  Sneakers Basses Homme ](https://m.media-amazon.com/images/I/41L+YIox+cL._SL400_.jpg)](https://www.amazon.fr/dp/B01N2WEY7S/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01N2WEY7S/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

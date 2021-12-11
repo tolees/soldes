@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.45 % rabais sur Disque Dur Externe 1 to  Disque Dur Exte'
+title: 'Disque Dur Externe 1 to  Disque Dur Externe Portable pour PC  Mac  MacBook  Xbox One  1To Bleu '
 date: 2020-08-18 16:47:32
 image: 'https://m.media-amazon.com/images/I/41gkg3cH5fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.45'
 average: '47.99'
 ---
 
-Vous avez [Disque Dur Externe 1 to  Disque Dur Externe Portable pour PC  Mac  MacBook  Xbox One  1To Bleu ](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21)  à  30.45 % de réduction, prix final  47.99 EUR (original: 69.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Disque Dur Externe 1 to  Disque Dur Exte](https://m.media-amazon.com/images/I/41gkg3cH5fL._SL400_.jpg)](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.34 % rabais sur UGG Female Mini Bailey Button II Classic'
+title: 'UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK '
 date: 2020-05-22 20:07:25
 image: 'https://m.media-amazon.com/images/I/41OJ8O9kKPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.34'
 average: '100.03'
 ---
 
-Vous avez [UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK ](https://www.amazon.fr/dp/B01AY6CHA0/?tag=tolees0d-21)  à  47.34 % de réduction, prix final  100.03 EUR (original: 189.95 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![UGG Female Mini Bailey Button II Classic](https://m.media-amazon.com/images/I/41OJ8O9kKPL._SL400_.jpg)](https://www.amazon.fr/dp/B01AY6CHA0/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AY6CHA0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

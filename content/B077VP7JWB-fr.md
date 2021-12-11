@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss Paris - C1500E - Boucleur autom avec 44.14 % rabais '
+title: 'BaByliss Paris - C1500E - Boucleur automatique Curl Secret Digital Sensor'
 date: 2020-05-22 22:23:11
 image: 'https://m.media-amazon.com/images/I/31r1WLpJwJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.14'
 average: '80.99'
 ---
 
-C'est en vente [BaByliss Paris - C1500E - Boucleur automatique Curl Secret Digital Sensor](https://www.amazon.fr/dp/B077VP7JWB/?tag=tolees0d-21)  à  44.14 % de réduction, prix final  80.99 EUR (original: 145.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BaByliss Paris - C1500E - Boucleur autom](https://m.media-amazon.com/images/I/31r1WLpJwJL._SL400_.jpg)](https://www.amazon.fr/dp/B077VP7JWB/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B077VP7JWB/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

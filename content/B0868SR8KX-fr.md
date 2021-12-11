@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.17 % rabais sur DishyKooker M65 RC Drone avec Caméra 4K '
+title: 'DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi Altitude Hold Pliable Réglable RC Quadcopter Selife Drone RC Avion pour Adultes Débutants Jouets'
 date: 2020-06-04 00:34:28
 image: 'https://m.media-amazon.com/images/I/41QiLHyxYSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.17'
 average: '42.69'
 ---
 
-Vous avez [DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi Altitude Hold Pliable Réglable RC Quadcopter Selife Drone RC Avion pour Adultes Débutants Jouets](https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21)  à  33.17 % de réduction, prix final  42.69 EUR (original: 63.88 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![DishyKooker M65 RC Drone avec Caméra 4K ](https://m.media-amazon.com/images/I/41QiLHyxYSL._SL400_.jpg)](https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

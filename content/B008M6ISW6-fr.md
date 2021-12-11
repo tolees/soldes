@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.76 % rabais sur Aigle - Parcours 2 Iso- Chaussure de cha'
+title: 'Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Bronze - 40 EU  6.5 UK '
 date: 2020-05-25 20:09:24
 image: 'https://m.media-amazon.com/images/I/21HRcSbD2RL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.76'
 average: '95.2'
 ---
 
-Vous avez [Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Bronze - 40 EU  6.5 UK ](https://www.amazon.fr/dp/B008M6ISW6/?tag=tolees0d-21)  à  51.76 % de réduction, prix final  89.25 EUR (original: 185.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Aigle - Parcours 2 Iso- Chaussure de cha](https://m.media-amazon.com/images/I/21HRcSbD2RL._SL400_.jpg)](https://www.amazon.fr/dp/B008M6ISW6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008M6ISW6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

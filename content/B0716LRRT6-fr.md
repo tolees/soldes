@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.50 % rabais sur Levi s The Perfect Tee T-Shirt - Femme-G'
+title: 'Levi s The Perfect Tee T-Shirt - Femme-Gris  Better Batwing Smokestack Smokestack Htr 263 -Large'
 date: 2020-09-18 07:45:27
 image: 'https://m.media-amazon.com/images/I/41bhoO5hsBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.50'
 average: '12.5'
 ---
 
-Vous avez [Levi s The Perfect Tee T-Shirt - Femme-Gris  Better Batwing Smokestack Smokestack Htr 263 -Large](https://www.amazon.fr/dp/B0716LRRT6/?tag=tolees0d-21)  à  37.50 % de réduction, prix final  12.5 EUR (original: 20.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Levi s The Perfect Tee T-Shirt - Femme-G](https://m.media-amazon.com/images/I/41bhoO5hsBL._SL400_.jpg)](https://www.amazon.fr/dp/B0716LRRT6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0716LRRT6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

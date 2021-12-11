@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.00 % rabais sur VTech - Kidicom Advance noir - le portab'
+title: 'VTech - Kidicom Advance noir - le portable sécurisé et sans forfait dès 6 ans  186605 '
 date: 2020-10-03 10:06:30
 image: 'https://m.media-amazon.com/images/I/51VSswFxjAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '104.99'
 ---
 
-Vous avez [VTech - Kidicom Advance noir - le portable sécurisé et sans forfait dès 6 ans  186605 ](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  104.99 EUR (original: 139.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![VTech - Kidicom Advance noir - le portab](https://m.media-amazon.com/images/I/51VSswFxjAL._SL400_.jpg)](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

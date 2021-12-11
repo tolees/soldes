@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.88 % rabais sur Makita UH 5570 Taille-haies'
+title: 'Makita UH 5570 Taille-haies'
 date: 2020-08-06 16:28:10
 image: 'https://m.media-amazon.com/images/I/31WQuDp7aFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.88'
 average: '95.94'
 ---
 
-Vous avez [Makita UH 5570 Taille-haies](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21)  à  36.88 % de réduction, prix final  95.94 EUR (original: 152.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Makita UH 5570 Taille-haies](https://m.media-amazon.com/images/I/31WQuDp7aFL._SL400_.jpg)](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

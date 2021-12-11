@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.94 % rabais sur Cuiseur à riz Tristar RK-6129 – 2 2 litr'
+title: 'Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de maintien au chaud'
 date: 2020-08-21 13:44:41
 image: 'https://m.media-amazon.com/images/I/41ft1UP8WML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.94'
 average: '29.94'
 ---
 
-Vous avez [Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de maintien au chaud](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21)  à  31.94 % de réduction, prix final  29.94 EUR (original: 43.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cuiseur à riz Tristar RK-6129 – 2 2 litr](https://m.media-amazon.com/images/I/41ft1UP8WML._SL400_.jpg)](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

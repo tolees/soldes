@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LINDY Switch de Présentation Pro avec Ex avec 19.68 % rabais '
+title: 'LINDY Switch de Présentation Pro avec Extender HDBaseT'
 date: 2020-05-22 22:13:09
 image: 'https://m.media-amazon.com/images/I/31XlXlZzagL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.68'
 average: '1010.39'
 ---
 
-C'est en vente [LINDY Switch de Présentation Pro avec Extender HDBaseT](https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21)  à  19.68 % de réduction, prix final  1010.39 EUR (original: 1257.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LINDY Switch de Présentation Pro avec Ex](https://m.media-amazon.com/images/I/31XlXlZzagL._SL400_.jpg)](https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Men s Cyclist Softshell Jacket Ves avec 40.00 % rabais '
+title: 'VAUDE Men s Cyclist Softshell Jacket Veste Homme  Black  FR : 2XL  Taille Fabricant : XXL '
 date: 2020-09-24 16:48:22
 image: 'https://m.media-amazon.com/images/I/318wOVv2ePL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '84.0'
 ---
 
-C'est en vente [VAUDE Men s Cyclist Softshell Jacket Veste Homme  Black  FR : 2XL  Taille Fabricant : XXL ](https://www.amazon.fr/dp/B07WQ569PT/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  84.0 EUR (original: 140.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![VAUDE Men s Cyclist Softshell Jacket Ves](https://m.media-amazon.com/images/I/318wOVv2ePL._SL400_.jpg)](https://www.amazon.fr/dp/B07WQ569PT/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07WQ569PT/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

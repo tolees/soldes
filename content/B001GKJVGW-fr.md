@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolce&Gabbana - Collier - Acier Inoxydab avec 52.26 % rabais '
+title: 'Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 date: 2020-05-23 12:28:16
 image: 'https://m.media-amazon.com/images/I/41w3Zb4aOPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.26'
 average: '68.74'
 ---
 
-C'est en vente [Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)  à  52.26 % de réduction, prix final  68.74 EUR (original: 144.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Dolce&Gabbana - Collier - Acier Inoxydab](https://m.media-amazon.com/images/I/41w3Zb4aOPL._SL400_.jpg)](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

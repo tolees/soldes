@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BAITITON 128GB MSATA III Disque Flash SS avec 51.12 % rabais '
+title: 'BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne Solid State Drive'
 date: 2020-08-15 12:16:50
 image: 'https://m.media-amazon.com/images/I/41dcXBAPdaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.12'
 average: '21.99'
 ---
 
-C'est en vente [BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne Solid State Drive](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)  à  51.12 % de réduction, prix final  21.99 EUR (original: 44.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![BAITITON 128GB MSATA III Disque Flash SS](https://m.media-amazon.com/images/I/41dcXBAPdaL._SL400_.jpg)](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

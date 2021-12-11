@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mixa BIO - La Crème Visage des Peaux Sen avec 43.46 % rabais '
+title: 'Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml'
 date: 2020-10-02 13:08:45
 image: 'https://m.media-amazon.com/images/I/41JyhgfZJ4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.46'
 average: '4.41'
 ---
 
-C'est en vente [Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml](https://www.amazon.fr/dp/B082VVB4T9/?tag=tolees0d-21)  à  43.46 % de réduction, prix final  4.41 EUR (original: 7.8 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Mixa BIO - La Crème Visage des Peaux Sen](https://m.media-amazon.com/images/I/41JyhgfZJ4L._SL400_.jpg)](https://www.amazon.fr/dp/B082VVB4T9/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B082VVB4T9/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

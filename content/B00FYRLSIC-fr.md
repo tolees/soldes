@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.10 % rabais sur Sony Objectif Zeiss SEL-2470Z Monture E '
+title: 'Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70 mm F4.0'
 date: 2020-05-22 23:09:55
 image: 'https://m.media-amazon.com/images/I/41NkthxLEXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.10'
 average: '799.0'
 ---
 
-Vous avez [Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70 mm F4.0](https://www.amazon.fr/dp/B00FYRLSIC/?tag=tolees0d-21)  à  20.10 % de réduction, prix final  799.0 EUR (original: 1000.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Sony Objectif Zeiss SEL-2470Z Monture E ](https://m.media-amazon.com/images/I/41NkthxLEXL._SL400_.jpg)](https://www.amazon.fr/dp/B00FYRLSIC/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FYRLSIC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

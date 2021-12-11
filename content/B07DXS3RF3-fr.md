@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le Cercle littéraire de Guernesey avec 30.24 % rabais '
+title: 'Le Cercle littéraire de Guernesey'
 date: 2020-10-02 13:08:28
 image: 'https://m.media-amazon.com/images/I/51zuPGc95EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.24'
 average: '6.99'
 ---
 
-C'est en vente [Le Cercle littéraire de Guernesey](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21)  à  30.24 % de réduction, prix final  6.99 EUR (original: 10.02 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Le Cercle littéraire de Guernesey](https://m.media-amazon.com/images/I/51zuPGc95EL._SL400_.jpg)](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

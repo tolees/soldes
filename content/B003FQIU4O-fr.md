@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.68 % rabais sur Cuisinart CH4DCE Mini-Préparateur Double'
+title: 'Cuisinart CH4DCE Mini-Préparateur Double sens Rotation  Hacher  Mixer  Fouetter  Émulsionner  Moudre'
 date: 2020-05-22 23:39:44
 image: 'https://m.media-amazon.com/images/I/31BYypFZy0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.68'
 average: '62.78'
 ---
 
-Vous avez [Cuisinart CH4DCE Mini-Préparateur Double sens Rotation  Hacher  Mixer  Fouetter  Émulsionner  Moudre](https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21)  à  20.68 % de réduction, prix final  62.78 EUR (original: 79.15 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Cuisinart CH4DCE Mini-Préparateur Double](https://m.media-amazon.com/images/I/31BYypFZy0L._SL400_.jpg)](https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

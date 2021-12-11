@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAGOSTINA SALVASPAZIO 012135031016 Casse avec 28.77 % rabais '
+title: 'LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment '
 date: 2020-05-22 23:05:56
 image: 'https://m.media-amazon.com/images/I/318wiLobOcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.77'
 average: '46.3'
 ---
 
-C'est en vente [LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment ](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21)  à  28.77 % de réduction, prix final  46.3 EUR (original: 65.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![LAGOSTINA SALVASPAZIO 012135031016 Casse](https://m.media-amazon.com/images/I/318wiLobOcL._SL400_.jpg)](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

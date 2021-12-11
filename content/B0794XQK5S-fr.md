@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Echo Plus  2ème génération   Son de qual avec 33.34 % rabais '
+title: 'Echo Plus  2ème génération   Son de qualité premium avec un hub maison connectée intégré  Tissu anthracite'
 date: 2020-05-24 08:57:30
 image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '99.99'
 ---
 
-C'est en vente [Echo Plus  2ème génération   Son de qualité premium avec un hub maison connectée intégré  Tissu anthracite](https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21)  à  33.34 % de réduction, prix final  99.99 EUR (original: 149.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Echo Plus  2ème génération   Son de qual](https://m.media-amazon.com/images/I/51yQS0FmRfL._SL400_.jpg)](https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

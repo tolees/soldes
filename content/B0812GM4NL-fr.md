@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.79 % rabais sur Asics Gel-Nimbus 22 Lite-Show  Running S'
+title: 'Asics Gel-Nimbus 22 Lite-Show  Running Shoe Womens  Sheet Rock/Sheet Rock  40 EU'
 date: 2020-08-25 14:28:26
 image: 'https://m.media-amazon.com/images/I/413odfWNXGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.79'
 average: '131.5'
 ---
 
-Vous avez [Asics Gel-Nimbus 22 Lite-Show  Running Shoe Womens  Sheet Rock/Sheet Rock  40 EU](https://www.amazon.fr/dp/B0812GM4NL/?tag=tolees0d-21)  à  30.79 % de réduction, prix final  131.5 EUR (original: 190.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Asics Gel-Nimbus 22 Lite-Show  Running S](https://m.media-amazon.com/images/I/413odfWNXGL._SL400_.jpg)](https://www.amazon.fr/dp/B0812GM4NL/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0812GM4NL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

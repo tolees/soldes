@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safavieh Tapis Moderne  Tissé Fibre de V avec 69.57 % rabais '
+title: 'Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis en Gris Pierre / Anthracite  120 X 180 cm'
 date: 2020-08-04 12:08:29
 image: 'https://m.media-amazon.com/images/I/61ph+vnP0vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.57'
 average: '98.89'
 ---
 
-C'est en vente [Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis en Gris Pierre / Anthracite  120 X 180 cm](https://www.amazon.fr/dp/B00JXL1T3O/?tag=tolees0d-21)  à  69.57 % de réduction, prix final  98.89 EUR (original: 324.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Safavieh Tapis Moderne  Tissé Fibre de V](https://m.media-amazon.com/images/I/61ph+vnP0vL._SL400_.jpg)](https://www.amazon.fr/dp/B00JXL1T3O/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B00JXL1T3O/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

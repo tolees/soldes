@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans TJM Tommy Classics Sweatshor avec 17.34 % rabais '
+title: 'Tommy Jeans TJM Tommy Classics Sweatshort  Short Homme - Noir  Tommy 078 L'
 date: 2020-05-22 22:15:22
 image: 'https://m.media-amazon.com/images/I/31-Zk1Gn1kL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.34'
 average: '57.78'
 ---
 
-C'est en vente [Tommy Jeans TJM Tommy Classics Sweatshort  Short Homme - Noir  Tommy 078 L](https://www.amazon.fr/dp/B07LBB899Y/?tag=tolees0d-21)  à  17.34 % de réduction, prix final  57.78 EUR (original: 69.9 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Tommy Jeans TJM Tommy Classics Sweatshor](https://m.media-amazon.com/images/I/31-Zk1Gn1kL._SL400_.jpg)](https://www.amazon.fr/dp/B07LBB899Y/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07LBB899Y/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

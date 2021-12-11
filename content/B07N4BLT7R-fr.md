@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Catimini CP44005 Manteau  Noir  Black 02 avec 25.47 % rabais '
+title: 'Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille'
 date: 2020-05-22 20:22:13
 image: 'https://m.media-amazon.com/images/I/51eA5ouUIBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.47'
 average: '96.14'
 ---
 
-C'est en vente [Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21)  à  25.47 % de réduction, prix final  96.14 EUR (original: 129.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Catimini CP44005 Manteau  Noir  Black 02](https://m.media-amazon.com/images/I/51eA5ouUIBL._SL400_.jpg)](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

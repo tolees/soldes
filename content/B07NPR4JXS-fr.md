@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '61.46 % rabais sur Pierre Cardin Smart Casual Sakko Michel2'
+title: 'Pierre Cardin Smart Casual Sakko Michel2 Washed Denim Academy Blazer  Bleu Grenat  3050   50 Homme'
 date: 2020-08-04 21:27:52
 image: 'https://m.media-amazon.com/images/I/41sJ94D3PkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.46'
 average: '88.64'
 ---
 
-Vous avez [Pierre Cardin Smart Casual Sakko Michel2 Washed Denim Academy Blazer  Bleu Grenat  3050   50 Homme](https://www.amazon.fr/dp/B07NPR4JXS/?tag=tolees0d-21)  à  61.46 % de réduction, prix final  88.64 EUR (original: 229.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Pierre Cardin Smart Casual Sakko Michel2](https://m.media-amazon.com/images/I/41sJ94D3PkL._SL400_.jpg)](https://www.amazon.fr/dp/B07NPR4JXS/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NPR4JXS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

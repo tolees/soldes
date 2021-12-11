@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.10 % rabais sur Timberland Adventure 2.0 Cupsole  Basket'
+title: 'Timberland Adventure 2.0 Cupsole  Baskets Montantes Homme  Marron  Glazed Ginger Roughcut   41 EU'
 date: 2020-09-24 09:50:01
 image: 'https://m.media-amazon.com/images/I/317pWXJ4bPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.10'
 average: '83.95'
 ---
 
-Vous avez [Timberland Adventure 2.0 Cupsole  Baskets Montantes Homme  Marron  Glazed Ginger Roughcut   41 EU](https://www.amazon.fr/dp/B01NAHE2RJ/?tag=tolees0d-21)  à  42.10 % de réduction, prix final  83.95 EUR (original: 145.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Timberland Adventure 2.0 Cupsole  Basket](https://m.media-amazon.com/images/I/317pWXJ4bPL._SL400_.jpg)](https://www.amazon.fr/dp/B01NAHE2RJ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NAHE2RJ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

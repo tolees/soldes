@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.29 % rabais sur Lacoste BJ8097 Blouson  Bleu  Sinople/Ma'
+title: 'Lacoste BJ8097 Blouson  Bleu  Sinople/Marine Dq5   14 Ans  Taille Fabricant:14A  Garçon'
 date: 2020-05-22 22:21:30
 image: 'https://m.media-amazon.com/images/I/413Pll-7fCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.29'
 average: '159.0'
 ---
 
-Vous avez [Lacoste BJ8097 Blouson  Bleu  Sinople/Marine Dq5   14 Ans  Taille Fabricant:14A  Garçon](https://www.amazon.fr/dp/B07MDKFB2X/?tag=tolees0d-21)  à  19.29 % de réduction, prix final  159.0 EUR (original: 197.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Lacoste BJ8097 Blouson  Bleu  Sinople/Ma](https://m.media-amazon.com/images/I/413Pll-7fCL._SL400_.jpg)](https://www.amazon.fr/dp/B07MDKFB2X/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MDKFB2X/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

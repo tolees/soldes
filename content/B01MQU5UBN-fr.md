@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elgato Thunderbolt 3 Dock - Avec câble d avec 16.66 % rabais '
+title: 'Elgato Thunderbolt 3 Dock - Avec câble de 50 cm  40 Gbit/s  2 ports Thunderbolt 3  USB-C   3 ports USB 3.0  entrée et sortie audio  Gigabit Ethernet'
 date: 2020-05-22 22:58:16
 image: 'https://m.media-amazon.com/images/I/215hBdVh35L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.66'
 average: '249.99'
 ---
 
-C'est en vente [Elgato Thunderbolt 3 Dock - Avec câble de 50 cm  40 Gbit/s  2 ports Thunderbolt 3  USB-C   3 ports USB 3.0  entrée et sortie audio  Gigabit Ethernet](https://www.amazon.fr/dp/B01MQU5UBN/?tag=tolees0d-21)  à  16.66 % de réduction, prix final  249.99 EUR (original: 299.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Elgato Thunderbolt 3 Dock - Avec câble d](https://m.media-amazon.com/images/I/215hBdVh35L._SL400_.jpg)](https://www.amazon.fr/dp/B01MQU5UBN/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MQU5UBN/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

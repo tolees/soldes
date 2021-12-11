@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.06 % rabais sur Learning Resources Kit pour la Classe de'
+title: 'Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932'
 date: 2020-05-22 23:05:17
 image: 'https://m.media-amazon.com/images/I/51MO5SymqAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.06'
 average: '91.9'
 ---
 
-Vous avez [Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)  à  27.06 % de réduction, prix final  91.9 EUR (original: 126.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Learning Resources Kit pour la Classe de](https://m.media-amazon.com/images/I/51MO5SymqAL._SL400_.jpg)](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

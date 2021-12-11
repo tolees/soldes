@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.18 % rabais sur 10 FILMS CULTES DVD'
+title: '10 FILMS CULTES DVD'
 date: 2020-08-14 14:27:48
 image: 'https://m.media-amazon.com/images/I/51WcL5KPsxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.18'
 average: '24.99'
 ---
 
-Vous avez [10 FILMS CULTES DVD](https://www.amazon.fr/dp/B07D4ZLGLX/?tag=tolees0d-21)  à  50.18 % de réduction, prix final  24.99 EUR (original: 50.16 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![10 FILMS CULTES DVD](https://m.media-amazon.com/images/I/51WcL5KPsxL._SL400_.jpg)](https://www.amazon.fr/dp/B07D4ZLGLX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D4ZLGLX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

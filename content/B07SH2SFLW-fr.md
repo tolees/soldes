@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.59 % rabais sur Honeycomb Aeronautical Alpha Flight Cont'
+title: 'Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch Panel'
 date: 2020-08-10 00:40:05
 image: 'https://m.media-amazon.com/images/I/41qCVk9l+pL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.59'
 average: '238.23'
 ---
 
-Vous avez [Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch Panel](https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21)  à  20.59 % de réduction, prix final  238.23 EUR (original: 299.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Honeycomb Aeronautical Alpha Flight Cont](https://m.media-amazon.com/images/I/41qCVk9l+pL._SL400_.jpg)](https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IKOHS Pro Wellness - Pèse Personne  Blan avec 27.54 % rabais '
+title: 'IKOHS Pro Wellness - Pèse Personne  Blanc '
 date: 2020-08-27 06:05:23
 image: 'https://m.media-amazon.com/images/I/31bPUPNs5QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.54'
 average: '27.5'
 ---
 
-C'est en vente [IKOHS Pro Wellness - Pèse Personne  Blanc ](https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21)  à  27.54 % de réduction, prix final  27.5 EUR (original: 37.95 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![IKOHS Pro Wellness - Pèse Personne  Blan](https://m.media-amazon.com/images/I/31bPUPNs5QL._SL400_.jpg)](https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

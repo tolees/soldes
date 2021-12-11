@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.57 % rabais sur Amazon Essentials Full-Zip High-Pile Pol'
+title: 'Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear  Bleu Marine délavé  X-Small'
 date: 2020-09-28 16:08:57
 image: 'https://m.media-amazon.com/images/I/51kdFqH-TGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.57'
 average: '15.04'
 ---
 
-Vous avez [Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear  Bleu Marine délavé  X-Small](https://www.amazon.fr/dp/B07PZ8LFXK/?tag=tolees0d-21)  à  18.57 % de réduction, prix final  15.04 EUR (original: 18.47 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Amazon Essentials Full-Zip High-Pile Pol](https://m.media-amazon.com/images/I/51kdFqH-TGL._SL400_.jpg)](https://www.amazon.fr/dp/B07PZ8LFXK/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PZ8LFXK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

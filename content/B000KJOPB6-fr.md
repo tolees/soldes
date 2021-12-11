@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.27 % rabais sur HERMA Rouleau de film adhésif de protect'
+title: 'HERMA Rouleau de film adhésif de protection pour livre  3 m x 40 cm  autocollant  brillant  transparent  7003'
 date: 2020-09-27 03:14:12
 image: 'https://m.media-amazon.com/images/I/31Yz0ltwxgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.27'
 average: '4.92'
 ---
 
-Vous avez [HERMA Rouleau de film adhésif de protection pour livre  3 m x 40 cm  autocollant  brillant  transparent  7003](https://www.amazon.fr/dp/B000KJOPB6/?tag=tolees0d-21)  à  45.27 % de réduction, prix final  4.92 EUR (original: 8.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![HERMA Rouleau de film adhésif de protect](https://m.media-amazon.com/images/I/31Yz0ltwxgL._SL400_.jpg)](https://www.amazon.fr/dp/B000KJOPB6/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000KJOPB6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

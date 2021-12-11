@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.80 % rabais sur OUPOD Manette sans fil  Bluetooth  pour '
+title: 'OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connectée à l hôte du commutateur prend en charge les fonctions NFC  l induction de caractères Amiibo et la fonction de réveil.  Cyan '
 date: 2020-08-10 00:31:41
 image: 'https://m.media-amazon.com/images/I/41gMbJF1A3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.80'
 average: '29.99'
 ---
 
-Vous avez [OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connectée à l hôte du commutateur prend en charge les fonctions NFC  l induction de caractères Amiibo et la fonction de réveil.  Cyan ](https://www.amazon.fr/dp/B08BMSLHG4/?tag=tolees0d-21)  à  38.80 % de réduction, prix final  29.99 EUR (original: 49.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![OUPOD Manette sans fil  Bluetooth  pour ](https://m.media-amazon.com/images/I/41gMbJF1A3L._SL400_.jpg)](https://www.amazon.fr/dp/B08BMSLHG4/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BMSLHG4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

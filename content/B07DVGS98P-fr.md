@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.20 % rabais sur Coffret Films issus de Jeux Vidéo : Ramp'
+title: 'Coffret Films issus de Jeux Vidéo : Rampage-Hors de contrôle + Tomb Raider + Ready Player One + Resident Evil + Need for Speed [Blu-Ray]'
 date: 2020-08-18 08:06:21
 image: 'https://m.media-amazon.com/images/I/51P4noGuwqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.20'
 average: '21.99'
 ---
 
-Vous avez [Coffret Films issus de Jeux Vidéo : Rampage-Hors de contrôle + Tomb Raider + Ready Player One + Resident Evil + Need for Speed [Blu-Ray]](https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21)  à  45.20 % de réduction, prix final  21.99 EUR (original: 40.13 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Coffret Films issus de Jeux Vidéo : Ramp](https://m.media-amazon.com/images/I/51P4noGuwqL._SL400_.jpg)](https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

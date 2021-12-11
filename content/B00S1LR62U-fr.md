@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.28 % rabais sur Older'
+title: 'Older'
 date: 2020-10-01 07:02:05
 image: 'https://m.media-amazon.com/images/I/31zMd62JpyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.28'
 average: '7.950000000000001'
 ---
 
-Vous avez [Older](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)  à  45.28 % de réduction, prix final  7.65 EUR (original: 13.98 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Older](https://m.media-amazon.com/images/I/31zMd62JpyL._SL400_.jpg)](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

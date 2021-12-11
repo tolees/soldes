@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.38 % rabais sur Chargeur Secteur Usb Rapide pour Samsung'
+title: 'Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E A42 5G S9 S8 Plus Xiaomi Mi 9T 10 Lite Pro Redmi Note 9 Pro 10 8 8T Poco F2 Pro/X3 Zenfone 3 4 5 6 18W Quick Charge 3.0+2M 2M Cable Type C'
 date: 2020-09-13 08:47:45
 image: 'https://m.media-amazon.com/images/I/516HOUn9zJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.38'
 average: '13.99'
 ---
 
-Vous avez [Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E A42 5G S9 S8 Plus Xiaomi Mi 9T 10 Lite Pro Redmi Note 9 Pro 10 8 8T Poco F2 Pro/X3 Zenfone 3 4 5 6 18W Quick Charge 3.0+2M 2M Cable Type C](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)  à  36.38 % de réduction, prix final  13.99 EUR (original: 21.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Chargeur Secteur Usb Rapide pour Samsung](https://m.media-amazon.com/images/I/516HOUn9zJL._SL400_.jpg)](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

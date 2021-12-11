@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joseph Joseph 30091 Totem Pop 60L Unité  avec 41.18 % rabais '
+title: 'Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif des déchets-Pierre  60 L'
 date: 2020-09-19 13:28:26
 image: 'https://m.media-amazon.com/images/I/21yOaKxDPQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.18'
 average: '99.99'
 ---
 
-C'est en vente [Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif des déchets-Pierre  60 L](https://www.amazon.fr/dp/B07YGKP63D/?tag=tolees0d-21)  à  41.18 % de réduction, prix final  99.99 EUR (original: 169.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Joseph Joseph 30091 Totem Pop 60L Unité ](https://m.media-amazon.com/images/I/21yOaKxDPQL._SL400_.jpg)](https://www.amazon.fr/dp/B07YGKP63D/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07YGKP63D/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

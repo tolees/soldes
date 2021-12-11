@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.31 % rabais sur FOLLOW UP Cruiser Skateboard Electrique '
+title: 'FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir'
 date: 2020-08-21 13:28:11
 image: 'https://m.media-amazon.com/images/I/315JEYBGrgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.31'
 average: '121.24'
 ---
 
-Vous avez [FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)  à  51.31 % de réduction, prix final  121.24 EUR (original: 249.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![FOLLOW UP Cruiser Skateboard Electrique ](https://m.media-amazon.com/images/I/315JEYBGrgL._SL400_.jpg)](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

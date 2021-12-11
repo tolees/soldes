@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.77 % rabais sur PKparis K 1 Clé USB 3.0 64 Go Blanc'
+title: 'PKparis K 1 Clé USB 3.0 64 Go Blanc'
 date: 2020-05-22 23:57:50
 image: 'https://m.media-amazon.com/images/I/516zEivcuNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.77'
 average: '30.73'
 ---
 
-Vous avez [PKparis K 1 Clé USB 3.0 64 Go Blanc](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21)  à  48.77 % de réduction, prix final  30.73 EUR (original: 59.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![PKparis K 1 Clé USB 3.0 64 Go Blanc](https://m.media-amazon.com/images/I/516zEivcuNL._SL400_.jpg)](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

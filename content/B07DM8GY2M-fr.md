@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.78 % rabais sur Olivia s Little World- Maison de poupées'
+title: 'Olivia s Little World- Maison de poupées  TD-12641C  Rose'
 date: 2020-08-18 09:35:34
 image: 'https://m.media-amazon.com/images/I/51A3zlEGiML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.78'
 average: '53.03'
 ---
 
-Vous avez [Olivia s Little World- Maison de poupées  TD-12641C  Rose](https://www.amazon.fr/dp/B07DM8GY2M/?tag=tolees0d-21)  à  15.78 % de réduction, prix final  64.42 EUR (original: 76.49 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Olivia s Little World- Maison de poupées](https://m.media-amazon.com/images/I/51A3zlEGiML._SL400_.jpg)](https://www.amazon.fr/dp/B07DM8GY2M/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DM8GY2M/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

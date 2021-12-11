@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Storm Launch Pant Pantal avec 64.99 % rabais '
+title: 'Under Armour UA Storm Launch Pant Pantalon Homme  Bleu  S'
 date: 2020-08-16 10:27:48
 image: 'https://m.media-amazon.com/images/I/31cuaT0xM9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.99'
 average: '24.51'
 ---
 
-C'est en vente [Under Armour UA Storm Launch Pant Pantalon Homme  Bleu  S](https://www.amazon.fr/dp/B07KR7D1JW/?tag=tolees0d-21)  à  64.99 % de réduction, prix final  24.51 EUR (original: 70.0 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Under Armour UA Storm Launch Pant Pantal](https://m.media-amazon.com/images/I/31cuaT0xM9L._SL400_.jpg)](https://www.amazon.fr/dp/B07KR7D1JW/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KR7D1JW/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

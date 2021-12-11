@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.18 % rabais sur Microsoft Surface Laptop 3 – PC Ultra-Po'
+title: 'Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 13 pouces  Intel Core i5  8Go de RAM  256Go de stockage SSD  – Bleu Cobalt  finition Alcantara '
 date: 2020-06-11 09:32:31
 image: 'https://m.media-amazon.com/images/I/31+NR0TP3GL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.18'
 average: '1229.0'
 ---
 
-Vous avez [Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 13 pouces  Intel Core i5  8Go de RAM  256Go de stockage SSD  – Bleu Cobalt  finition Alcantara ](https://www.amazon.fr/dp/B07XFVZB6H/?tag=tolees0d-21)  à  15.18 % de réduction, prix final  1229.0 EUR (original: 1449.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Microsoft Surface Laptop 3 – PC Ultra-Po](https://m.media-amazon.com/images/I/31+NR0TP3GL._SL400_.jpg)](https://www.amazon.fr/dp/B07XFVZB6H/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XFVZB6H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

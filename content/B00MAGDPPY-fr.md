@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '34.46 % rabais sur Maisonnerie 1316-503-91 Campus Armoire M'
+title: 'Maisonnerie 1316-503-91 Campus Armoire Murale Miroir Meuble Salle de Bain Chêne de San Remo Claire/Blanc LxHxP 60 x 80 x 15 cm'
 date: 2020-05-29 05:49:38
 image: 'https://m.media-amazon.com/images/I/31yeMN9wQOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.46'
 average: '43.97'
 ---
 
-Vous avez [Maisonnerie 1316-503-91 Campus Armoire Murale Miroir Meuble Salle de Bain Chêne de San Remo Claire/Blanc LxHxP 60 x 80 x 15 cm](https://www.amazon.fr/dp/B00MAGDPPY/?tag=tolees0d-21)  à  34.46 % de réduction, prix final  42.6 EUR (original: 65.0 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Maisonnerie 1316-503-91 Campus Armoire M](https://m.media-amazon.com/images/I/31yeMN9wQOL._SL400_.jpg)](https://www.amazon.fr/dp/B00MAGDPPY/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MAGDPPY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

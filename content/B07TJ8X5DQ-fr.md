@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FM London Fitted Boxer Shorty  Multicolo avec 20.01 % rabais '
+title: 'FM London Fitted Boxer Shorty  Multicolore  Classic Mix 10   Small  Lot de 8  Homme'
 date: 2020-09-16 16:40:20
 image: 'https://m.media-amazon.com/images/I/41DET9saYaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.01'
 average: '19.99'
 ---
 
-C'est en vente [FM London Fitted Boxer Shorty  Multicolore  Classic Mix 10   Small  Lot de 8  Homme](https://www.amazon.fr/dp/B07TJ8X5DQ/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  19.99 EUR (original: 24.99 EUR) ici:
+C'est en vente [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![FM London Fitted Boxer Shorty  Multicolo](https://m.media-amazon.com/images/I/41DET9saYaL._SL400_.jpg)](https://www.amazon.fr/dp/B07TJ8X5DQ/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TJ8X5DQ/?tag=tolees0d-21)
+[🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.68 % rabais sur Playmobil - Tour d Attaque Mobile des Na'
+title: 'Playmobil - Tour d Attaque Mobile des Nains - 9340'
 date: 2020-08-13 00:14:34
 image: 'https://m.media-amazon.com/images/I/51JIJICo1+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.68'
 average: '55.12636363636363'
 ---
 
-Vous avez [Playmobil - Tour d Attaque Mobile des Nains - 9340](https://www.amazon.fr/dp/B0766DJPQV/?tag=tolees0d-21)  à  22.68 % de réduction, prix final  55.99 EUR (original: 72.41 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Playmobil - Tour d Attaque Mobile des Na](https://m.media-amazon.com/images/I/51JIJICo1+L._SL400_.jpg)](https://www.amazon.fr/dp/B0766DJPQV/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0766DJPQV/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})

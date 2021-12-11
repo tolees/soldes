@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.74 % rabais sur Garmin vívosmart 3 - Bracelet de Fitness'
+title: 'Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir'
 date: 2020-08-16 19:03:15
 image: 'https://m.media-amazon.com/images/I/41mWLUnRmKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.74'
 average: '50.6'
 ---
 
-Vous avez [Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)  à  36.74 % de réduction, prix final  50.6 EUR (original: 79.99 EUR) ici:
+Vous avez [{{< param title >}}]({{< param buyurl >}})  à  {{< param descuento >}} % de réduction, prix final  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ici:
 
-[![Garmin vívosmart 3 - Bracelet de Fitness](https://m.media-amazon.com/images/I/41mWLUnRmKL._SL400_.jpg)](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
