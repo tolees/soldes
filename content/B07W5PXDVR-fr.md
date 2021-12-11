@@ -28,14 +28,14 @@ C'est en vente [LEGO Friends 41391 Le Salon de Coiffure de Heartlake City avec M
 
 ℹ️:
 
-- Le salon de coiffure de Heartlake City (41391), composé de 235 pièces, est un cadeau idéal pour les enfants qui ont un peu dexpérience en construction et beaucoup dimagination. Formidable cadeau danniversaire, de Noël ou en toute occasion, pour les enfants de 6 ans et plus.
-- Les enfants vont adorer voir la mini-poupée se transformer au fur et à mesure quelle progresse à travers les différents postes du salon. Et pour prolonger leur jeu, ils peuvent également relooker les figurines de leurs autres sets LEGO !
-- Les petits constructeurs découvrent le monde de Heartlake City, où les amies LEGO Friends les attendent pour vivre les aventures les plus passionnantes qu’ils puissent imaginer !
-- Le set déborde de fonctionnalités pour enflammer limagination. Inclut 2 mini-poupées, 2 fauteuils de coiffure, un bac à shampoing et de nombreux accessoires, tels que des brosses et des perruques, pour créer une expérience de salon réaliste.
-- Ce salon de coiffure, qui mesure un peu plus de 11 cm de haut et 17 cm de long, est suffisamment compact pour être exposé en permanence. Les enfants peuvent également le combiner à dautres sets LEGO pour un jeu encore plus créatif.
-- Les sets LEGO sont conformes aux normes industrielles les plus élevées. Ils sont compatibles entre eux, et sassemblent et se démontent toujours facilement, et cela depuis 1958.
 - Pas besoin de piles pour faire fonctionner le salon de coiffure de Heartlake City. Lamusement créatif prend vie avec des instructions simples, une petite expérience de construction et limagination active des enfants.
-- Les stylistes en herbe vont pouvoir jouer et créer pendant des heures avec le set LEGO Friends Le salon de coiffure de Heartlake City. Ils peuvent faire semblant de couper et de coiffer les cheveux de leurs amis ou imaginer quils sont un client qui va au salon de coiffure pour soffrir un nouveau look !
+- Les sets LEGO sont conformes aux normes industrielles les plus élevées. Ils sont compatibles entre eux, et sassemblent et se démontent toujours facilement, et cela depuis 1958.
+- Les enfants vont adorer voir la mini-poupée se transformer au fur et à mesure quelle progresse à travers les différents postes du salon. Et pour prolonger leur jeu, ils peuvent également relooker les figurines de leurs autres sets LEGO !
 - Le groupe LEGO soumet toutes ses briques et accessoires LEGO Friends à des tests poussés afin de vérifier que chaque set de jeu est conforme aux normes les plus élevées au monde en matière de sécurité et de qualité.
+- Ce salon de coiffure, qui mesure un peu plus de 11 cm de haut et 17 cm de long, est suffisamment compact pour être exposé en permanence. Les enfants peuvent également le combiner à dautres sets LEGO pour un jeu encore plus créatif.
+- Le salon de coiffure de Heartlake City (41391), composé de 235 pièces, est un cadeau idéal pour les enfants qui ont un peu dexpérience en construction et beaucoup dimagination. Formidable cadeau danniversaire, de Noël ou en toute occasion, pour les enfants de 6 ans et plus.
+- Les petits constructeurs découvrent le monde de Heartlake City, où les amies LEGO Friends les attendent pour vivre les aventures les plus passionnantes qu’ils puissent imaginer !
+- Les stylistes en herbe vont pouvoir jouer et créer pendant des heures avec le set LEGO Friends Le salon de coiffure de Heartlake City. Ils peuvent faire semblant de couper et de coiffer les cheveux de leurs amis ou imaginer quils sont un client qui va au salon de coiffure pour soffrir un nouveau look !
+- Le set déborde de fonctionnalités pour enflammer limagination. Inclut 2 mini-poupées, 2 fauteuils de coiffure, un bac à shampoing et de nombreux accessoires, tels que des brosses et des perruques, pour créer une expérience de salon réaliste.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5PXDVR/?tag=tolees0d-21)

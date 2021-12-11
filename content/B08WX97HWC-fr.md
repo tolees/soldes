@@ -28,12 +28,12 @@ C'est en vente [LEGO 71753 Ninjago L’Attaque du Dragon de feu avec Mini Figuri
 
 ℹ️:
 
-- Ce jouet inclut 4 figurines NINJAGO : Nya, Kai et Zane, ainsi que le général squelettique Wyplash, tous armés
 - Comprend une figurine de collection dorée Nya Legacy avec un support pour célébrer le 10e anniversaire des sets LEGO NINJAGO pour enfants
-- Les sets Le chargeur Ninja X-1 (71737) et Le tout-terrain ultrasonique (71739) font partie de la série limitée des LEGO de collection
-- Repérez les figurines de collection dorées dans 5 autres jouets NINJAGO dont le tournoi des éléments (71735) et le jet multi-missiles (71736)
-- Construit à partir de briques, ce jouet dragon LEGO articulé peut voler dans les airs et combattre le méchant Wyplash de la saison 1 de la série NINJAGO
 - Ce dragon volant détaillé possède une mâchoire, une queue, des pattes et des ailes articulées, ainsi qu’une selle pour que les figurines ninjas puissent monter dessus
+- Construit à partir de briques, ce jouet dragon LEGO articulé peut voler dans les airs et combattre le méchant Wyplash de la saison 1 de la série NINJAGO
 - Ce set de jeu dragon de 563 pièces offre une tâche de construction gratifiante et fait un bon jouet pour enfants âgés de 8 ans et plus, idéal en cadeau d’anniversaire
+- Repérez les figurines de collection dorées dans 5 autres jouets NINJAGO dont le tournoi des éléments (71735) et le jet multi-missiles (71736)
+- Ce jouet inclut 4 figurines NINJAGO : Nya, Kai et Zane, ainsi que le général squelettique Wyplash, tous armés
+- Les sets Le chargeur Ninja X-1 (71737) et Le tout-terrain ultrasonique (71739) font partie de la série limitée des LEGO de collection
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WX97HWC/?tag=tolees0d-21)
