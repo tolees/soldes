@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rendement de couleur élevé (CRI > 80), pour une lumière naturelle vive
-- Température de couleur de 4000 K produisant une lumière de couleur blanc froid, pour une atmosphère lumineuse dans tout espace
+- Compatible avec la plupart des luminaires existants. Version plus moderne des douilles GU10 traditionnelles.
 - Lampe dune durée de vie de 25 000 heures, soit 12 années de service (équivalant à 8 heures dutilisation par jour et 260 jours)
 - Idéale pour les magasins, les restaurants, les bars, les chambres dhôtel, les salles de réception et tout autre espace commercial ou hôtelier
 - Lumière de 260 lumens et pas de temps dattente : sillumine immédiatement
-- Compatible avec la plupart des luminaires existants. Version plus moderne des douilles GU10 traditionnelles.
+- Rendement de couleur élevé (CRI > 80), pour une lumière naturelle vive
+- Température de couleur de 4000 K produisant une lumière de couleur blanc froid, pour une atmosphère lumineuse dans tout espace
 
 [🛒 Achète-le!!]({{< param buyurl >}})

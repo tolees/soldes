@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plusieurs coloris et motifs disponibles.
+- Laver en machine à froid sur cycle délicat avec des coloris similaires. Utiliser un détergent doux ; ne pas blanchir. Sécher à la machine à basse température, ou repasser sur réglage pressage permanent si nécessaire.
 - Hydrofuge, avec un ourlet lesté pour empêcher les fuites.
 - Haut renforcé avec œillets en laiton résistant à la rouille.
 - Dimensions : 183 x 183 cm.
-- Laver en machine à froid sur cycle délicat avec des coloris similaires. Utiliser un détergent doux ; ne pas blanchir. Sécher à la machine à basse température, ou repasser sur réglage pressage permanent si nécessaire.
 - Matériaux : 100 % polyester (haut), PEVA (ourlet inférieur).
+- Plusieurs coloris et motifs disponibles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

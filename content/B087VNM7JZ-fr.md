@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un train avec la locomotive et ses wagons avec lesquels les enfants peuvent jouer et explorer.
-- Les enfants peuvent découvrir les surfaces en relief, les différentes formes et ressentir la douceur du matériau Clemmy, tout en profitant dune expérience sensorielle qui leur permettra de perfectionner leur sens du toucher et leurs compétences manuelles.
-- Contient de nombreuses briques souples colorées à insérer dans la locomotive et les wagons, ou à empiler, pour créer des tours à renverser puis à reconstruire encore et encore.
-- Les roues permettent au train de se déplacer et permettent aux enfants dinventer de nombreuses histoires et de voyager tout en douceur.
 - Les wagons peuvent être facilement détachés et assemblés.
+- Les enfants peuvent découvrir les surfaces en relief, les différentes formes et ressentir la douceur du matériau Clemmy, tout en profitant dune expérience sensorielle qui leur permettra de perfectionner leur sens du toucher et leurs compétences manuelles.
+- Les roues permettent au train de se déplacer et permettent aux enfants dinventer de nombreuses histoires et de voyager tout en douceur.
+- Contient de nombreuses briques souples colorées à insérer dans la locomotive et les wagons, ou à empiler, pour créer des tours à renverser puis à reconstruire encore et encore.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

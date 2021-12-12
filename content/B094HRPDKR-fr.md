@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Menez des enquêtes trépidantes: yagami étend son arsenal de détective grce à de nouveaux gadgets, de nouvelles techniques de filature et des méthodes dinfiltration toujours plus ingénieuses.
+- Plongez dans un environnement exceptionnel
 - Les différentes formes darts martiaux que maîtrise yagami lui permettent tout aussi bien de se sortir dembuscades tendues par un groupe dennemis que de combats singuliers.
 - Langues: doublage japonais/ anglais, textes français
 - Entre ordre et chaos: dans lost judgment, incarnez une nouvelle fois takayuki yagami, un ancien avocat devenu détective qui nhésite jamais à en découdre.
-- Plongez dans un environnement exceptionnel
+- Menez des enquêtes trépidantes: yagami étend son arsenal de détective grce à de nouveaux gadgets, de nouvelles techniques de filature et des méthodes dinfiltration toujours plus ingénieuses.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plateforme de Support: Windows 7+, Mac OS X 10.9+
-- Impédance: 2200 ohm.Réponse de fréquence de microphone: 100–10,000 Hz
 - L’Arctis Pro + GameDAC est le premier système de casque Gaming à inclure le légendaire ESS Sabre DAC et amplificateur pour une qualité audio incomparable avec 121 dB de plage dynamique et -115 dB THD+N
-- Le convertisseur numérique analogique (CNA) dédié et amplificateur de casque GameDAC transforme n’importe quel système PS5, PS4 ou PC en source audio haute performance en contournant les CNA de faible fidélité et de mauvaise qualité que l’on trouve dans les manettes de console, les casques USB et les cartes son PC classiques ; Sensibilité du microphone: -38 dBV / Pa
+- Dotées d’aimants au néodyme haute densité, les enceintes haute résolution premium reproduisent un large spectre de fréquences de 10 à 40 000 Hz avec un réalisme et une clarté époustouflants
 - Ce premier système audio haute résolution de gaming vous assure d’entendre un audio haute fidélité 96 kHz/24 bits à sa pleine résolution la plus pure, sans sous-échantillonnage
 - La finition luxueuse associant acier poli et alliage d’aluminium offre une durabilité maximale et une tenue irréprochable
-- Dotées d’aimants au néodyme haute densité, les enceintes haute résolution premium reproduisent un large spectre de fréquences de 10 à 40 000 Hz avec un réalisme et une clarté époustouflants
+- Impédance: 2200 ohm.Réponse de fréquence de microphone: 100–10,000 Hz
+- Plateforme de Support: Windows 7+, Mac OS X 10.9+
+- Le convertisseur numérique analogique (CNA) dédié et amplificateur de casque GameDAC transforme n’importe quel système PS5, PS4 ou PC en source audio haute performance en contournant les CNA de faible fidélité et de mauvaise qualité que l’on trouve dans les manettes de console, les casques USB et les cartes son PC classiques ; Sensibilité du microphone: -38 dBV / Pa
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étui chevalet de 8 couleurs intenses (jaune, rouge, bleu, orange, vert, violet, marron et noir) pour un effet lumineux longue durée
-- Encre permanente à base d’alcool quasi inodore, résistante à l’eau et aux frottements sur la plupart des surfaces
 - Encre DRY SAFE : le feutre peut rester ouvert plusieurs jours sans sécher (test ISO 554)
-- Feutres universels permanents à pointe ogive fine 0.6 mm, pour une écriture nette et lisible
+- Encre permanente à base d’alcool quasi inodore, résistante à l’eau et aux frottements sur la plupart des surfaces
 - Compatible avec la plupart des surfaces : papier, carton, verre, film de rétroprojection, porcelaine, métal, inox, bois, cuir, pierre, ainsi que les CD, DVD et Blu-ray
+- Étui chevalet de 8 couleurs intenses (jaune, rouge, bleu, orange, vert, violet, marron et noir) pour un effet lumineux longue durée
+- Feutres universels permanents à pointe ogive fine 0.6 mm, pour une écriture nette et lisible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

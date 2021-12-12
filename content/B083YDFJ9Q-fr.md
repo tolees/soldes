@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hydrofuge
-- 35 Hauteur x 49 Largeur x 15 Profondeur cm
 - 0.4kg Poids x 20L Volume
 - Grand Sac Fourre-Tout avec Compartiments Intérieurs
 - 100% Polyamide
+- 35 Hauteur x 49 Largeur x 15 Profondeur cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

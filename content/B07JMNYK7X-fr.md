@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bec verseur pratique
 - Idéal pour contenir une mousse de lait lisse et créer un cappuccino idéal
+- Bec verseur pratique
 - Carafe en acier inoxydable brossé, fabriquée en Italie. Capacité : 400 ml
 - Lavable au lave-vaisselle
 

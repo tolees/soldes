@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Triple appareil photo de 64 MP. Une résolution dappareil photo de pointe vous permet de tout capturer, de la très haute résolution à la faible luminosité nette et de lultra grand angle à lultra-zoom
 - Batterie jusqu’à 2 jours d’autonomie. Plus besoin de prises de courant grâce à une batterie 4 500 mAh à la pointe de la technologie, et rechargez rapidement votre smartphone grâce au chargeur TurboPower.
-- Des performances 5G exceptionnelles. . Découvrez la vitesse pure avec le réseau sans fil de nouvelle génération, plus un processeur incroyablement rapide, 6 Go de mémoire et 128 Go de stockage
-- Écran immersif sans fin incurvé à 90°. Obtenez une qualité dimage HDR10 à couper le souffle sur un magnifique écran OLED de 6,7 pouces avec bords incurvés à 90°.
 - Le son stéréo le plus puissant sur le marché. La sortie audio la plus élevée sur smartphone* et la technologie de syntonisation audio primée** offrent des performances sonores de qualité studio
+- Des performances 5G exceptionnelles. . Découvrez la vitesse pure avec le réseau sans fil de nouvelle génération, plus un processeur incroyablement rapide, 6 Go de mémoire et 128 Go de stockage
 - Le meilleur du système dexploitation Android. Exécutez une version simplifiée du système dexploitation le plus populaire au monde, sans logiciel inutile et avec une intégration étroite aux services Google
+- Écran immersif sans fin incurvé à 90°. Obtenez une qualité dimage HDR10 à couper le souffle sur un magnifique écran OLED de 6,7 pouces avec bords incurvés à 90°.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
