@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Caractéristiques : Entrée du jeu The Last of Us Remastered dans la gamme PS Hits, Version physique, 1 Joueur, Mode multijoueur disponible, Version audio et sous-titrée français et anglais
-- Contenu de la livraison : 1 x Jeu The Last of Us Remastered sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français, 1 x Extension Left Behind, 2 x DLC de map packs, Art. : 19LASUSP2
 - Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée grâce à la résolution 4k de la console
-- Jeu daction et de survie The Last of Us Remastered sur PS4, Retrouvez Joel et Ellie à travers leur périple dans les États-Unis dans cette version retravaillée, Pour les fans de Naughty Dog et de TLOU
 - Nouveautés : des graphismes améliorés pour un jeu optimisé sur la PS4 en 1080p, Un mode Extra Difficile qui ajoute un niveau de difficulté absent sur les autres versions du jeu
+- Contenu de la livraison : 1 x Jeu The Last of Us Remastered sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français, 1 x Extension Left Behind, 2 x DLC de map packs, Art. : 19LASUSP2
+- Jeu daction et de survie The Last of Us Remastered sur PS4, Retrouvez Joel et Ellie à travers leur périple dans les États-Unis dans cette version retravaillée, Pour les fans de Naughty Dog et de TLOU
 
 [🛒 Achète-le!!]({{< param buyurl >}})

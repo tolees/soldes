@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puce S3 avec processeur bicœur
-- Capteur optique de fréquence cardiaque
-- L’Apple Watch nécessite un iPhone 6s (ou modèle ultérieur) avec iOS 14 (ou version ultérieure)
+- Étanchéité jusqu’à 50 mètres
 - Le modèle GPS vous permet de prendre des appels et de répondre à des messages directement de votre poignet
 - Écran Retina
-- Boîtier en aluminium
+- Puce S3 avec processeur bicœur
 - Mesure de l’altitude
 - Appeld’urgence
-- Étanchéité jusqu’à 50 mètres
+- Capteur optique de fréquence cardiaque
+- L’Apple Watch nécessite un iPhone 6s (ou modèle ultérieur) avec iOS 14 (ou version ultérieure)
 - watchOS: tendances Activité, suivi de cycle, innovations pour la santé et l’audition, et App Store à votre poignet
+- Boîtier en aluminium
 
 [🛒 Achète-le!!]({{< param buyurl >}})
