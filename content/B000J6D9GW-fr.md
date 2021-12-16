@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler Lumocolor 318  Feutres permanents à pointe fine pour toutes les surfaces  Sans xylène ni toluène  Set de 8 couleurs lumineuses  Pointe ogive de 0.6 mm  318 WP8'
-date: 2021-12-12 20:10:59
+date: 2021-12-16 09:35:39
 image: 'https://m.media-amazon.com/images/I/51ULueDei+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Encre DRY SAFE : le feutre peut rester ouvert plusieurs jours sans sécher (test ISO 554)
 - Encre permanente à base d’alcool quasi inodore, résistante à l’eau et aux frottements sur la plupart des surfaces
 - Compatible avec la plupart des surfaces : papier, carton, verre, film de rétroprojection, porcelaine, métal, inox, bois, cuir, pierre, ainsi que les CD, DVD et Blu-ray
-- Étui chevalet de 8 couleurs intenses (jaune, rouge, bleu, orange, vert, violet, marron et noir) pour un effet lumineux longue durée
 - Feutres universels permanents à pointe ogive fine 0.6 mm, pour une écriture nette et lisible
+- Étui chevalet de 8 couleurs intenses (jaune, rouge, bleu, orange, vert, violet, marron et noir) pour un effet lumineux longue durée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
