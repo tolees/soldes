@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vivez votre rêve de pilote Star Wars - Décollez pour des modes multijoueurs passionnants et un scénario Star Wars solo unique, dans une campagne capitale alors que la Guerre Civile Galactique touche à sa fin.
-- Maîtrisez des chasseurs légendaires – Prenez les commandes des différentes classes de chasseurs de la Nouvelle République et de l’Empire– dont l’agile A-Wing et le bombardier TIE dévastateur.
 - Une mission claire - Star Wars : Squadrons est une expérience entièrement indépendante dès le premier jour, où vous obtiendrez des récompenses en jouant.
 - Tous les pilotes au rapport – Planifiez des escarmouches avec votre escadron dans la salle de briefing avant de décoller pour des champs de bataille en constante évolution à travers la galaxie.
+- Maîtrisez des chasseurs légendaires – Prenez les commandes des différentes classes de chasseurs de la Nouvelle République et de l’Empire– dont l’agile A-Wing et le bombardier TIE dévastateur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

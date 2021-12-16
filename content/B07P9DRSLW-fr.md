@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plusieurs mains disponibles pour recréer toutes les scènes de la série
-- Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
-- Personnage : Super Saiyan quatre Goku
 - Figurine 17 cm
 - Collectionnez toutes les figurines Dragon Stars de Bandai
+- Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
+- Personnage : Super Saiyan quatre Goku
+- Plusieurs mains disponibles pour recréer toutes les scènes de la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})

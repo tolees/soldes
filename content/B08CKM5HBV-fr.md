@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception ergonomique: Conçue pour les longues sessions de jeu, la manette est agréable à prendre en main. Le placement idéal de ses boutons rend chaque pression naturelle et intuitive.
-- Sadapte à la plupart des appareils iOS: La conception flexible de la manette permet de l’étirer et de la fixer sur de nombreux.
-- Port Lightning: Si la batterie de votre téléphone diminue pendant que vous jouez avec la manette encore fixée, branchez un câble de chargement à la manette pour charger l’appareil.
 - Sticks analogiques cliquables: Améliorez votre exécution grâce à une manette ressemblant à celles pour console, dotée de boutons avant, de gâchettes et dune croix directionnelle pour plus de contrôle.
 - Jeu sans latence: À la différence des manettes Bluetooth sans fil qui souffrent de décalage, cette manette ne présente aucune latence, car elle se connecte directement au port Lightning de votre appareil : vos boutons répondent instantanément.
+- Conception ergonomique: Conçue pour les longues sessions de jeu, la manette est agréable à prendre en main. Le placement idéal de ses boutons rend chaque pression naturelle et intuitive.
+- Port Lightning: Si la batterie de votre téléphone diminue pendant que vous jouez avec la manette encore fixée, branchez un câble de chargement à la manette pour charger l’appareil.
+- Sadapte à la plupart des appareils iOS: La conception flexible de la manette permet de l’étirer et de la fixer sur de nombreux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

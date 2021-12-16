@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le luminaire dintérieur est formé dun corps en verre opale blanc soufflé à la bouche qui assure une répartition uniforme et douce de la lumière dans votre chambre, entrée ou garage
-- Lampe optimale pour un montage mural et au plafond dans les entrées, les couloirs, les cages descalier ou les salles de bains pour ne pas avoir à se soucier dinstaller un bouton
-- Il est possible de régler la durée dallumage et le seuil dobscurité par un simple bouton rotatif - châssis en plastique de haute qualité résistant aux UV (classe de protection IP 44)
 - La lampe à détecteur haute fréquence RS 16 L dispose dune prise E27 pour ampoules jusquà maximum 60 W (non fournie) - la détection de présence jusquà 360° a une portée de 3 à 8 m
 - Le montage de lapplique murale est très simple, car la lampe et le capteur partagent la même connexion : 2 câbles et cest prêt à lemploi
+- Le luminaire dintérieur est formé dun corps en verre opale blanc soufflé à la bouche qui assure une répartition uniforme et douce de la lumière dans votre chambre, entrée ou garage
+- Il est possible de régler la durée dallumage et le seuil dobscurité par un simple bouton rotatif - châssis en plastique de haute qualité résistant aux UV (classe de protection IP 44)
+- Lampe optimale pour un montage mural et au plafond dans les entrées, les couloirs, les cages descalier ou les salles de bains pour ne pas avoir à se soucier dinstaller un bouton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
