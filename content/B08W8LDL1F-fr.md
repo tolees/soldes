@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une figurine dorée exclusive d’Hermione Granger est incluse dans ce set pour célébrer les 20 ans de de magie
-- Les pattes de Touffu, le chien à 3 têtes, peuvent être placés dans différentes positions et chacune des 3 têtes articulées affiche une expression différente
-- Cet ensemble de bâtiments Harry Potter Poudlard dispose de 5 modules distincts qui s’emboîtent de différentes façons, et d’un chien géant à 3 têtes articulé
-- Les options de reconfiguration de ce jouet pour enfants de 8 ans filles et garçons incluent une pièce avec une trappe, une salle d’entraînement, un toit et autres
 - Inclut les figurines Harry Potter, Hermione Granger et Ron Weasley, et 2 tuiles aléatoires de cartes de sorciers que les enfants peuvent collecter (sur 16 au total)
+- Une figurine dorée exclusive d’Hermione Granger est incluse dans ce set pour célébrer les 20 ans de de magie
 - Ce jouet Harry Potter fait partie dune série de sets modulaires détaillés pouvant être construits et combinés pour créer leur propre modèle du château de Poudlard
+- Cet ensemble de bâtiments Harry Potter Poudlard dispose de 5 modules distincts qui s’emboîtent de différentes façons, et d’un chien géant à 3 têtes articulé
+- Les pattes de Touffu, le chien à 3 têtes, peuvent être placés dans différentes positions et chacune des 3 têtes articulées affiche une expression différente
+- Les options de reconfiguration de ce jouet pour enfants de 8 ans filles et garçons incluent une pièce avec une trappe, une salle d’entraînement, un toit et autres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
