@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【 Autonomie jusqu’à 32 heures】Autonomie jusqu’à 32 heures et charge rapide : les HONOR Earbuds 2 Lite possèdent une autonomie jusqu’à 32 heures avec le boîtier de chargement, et 10 heures par écouteur hors du boîtier. Grâce à la charge rapide, rechargez entièrement le boîtier et les écouteurs en une heure seulement (et 4 heures d’autonomie avec seulement 10 minutes de charge)
 - 【 Des écouteurs légers dans un boîtier compact】Les HONOR Earbuds 2 Lite offrent un design léger et ergonomique qui permet un meilleur confort. Ils sont fournis avec trois adaptateurs pour une meilleur adaptation aux différentes tailles d’oreille
+- 【 Réduction active de bruit】Les HONOR Earbuds 2 Lite intègrent deux micros MEMC qui permettent une réduction active de bruit pour vous isoler des bruits environnants. Les micros permettent également de réduire les bruits alentours pendant vos appels pour une meilleure qualité d’appel
 - 【 Qualité d’écoute pour la musique et les appels】Son cristallin et puissant grâce au design intra-auriculaire qui s’adapte à votre conduit auditif, et au driver intégré de 10 mm
 - 【 Mode Transparence sonore】Le mode Transparence sonore permet d’amplifier les sons environnants pour mieux entendre les personnes autour de vous sans avoir à retirer les écouteurs
-- 【 Réduction active de bruit】Les HONOR Earbuds 2 Lite intègrent deux micros MEMC qui permettent une réduction active de bruit pour vous isoler des bruits environnants. Les micros permettent également de réduire les bruits alentours pendant vos appels pour une meilleure qualité d’appel
+- 【 Autonomie jusqu’à 32 heures】Autonomie jusqu’à 32 heures et charge rapide : les HONOR Earbuds 2 Lite possèdent une autonomie jusqu’à 32 heures avec le boîtier de chargement, et 10 heures par écouteur hors du boîtier. Grâce à la charge rapide, rechargez entièrement le boîtier et les écouteurs en une heure seulement (et 4 heures d’autonomie avec seulement 10 minutes de charge)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

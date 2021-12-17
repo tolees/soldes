@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combinez les formes ! Conçu avec Connect+ pour travailler avec dautres formes de la ligne Nanoleaf Shapes afin de créer de superbes designs déclairage.
 - Créez votre propre design ! Une expérience déclairage modulaire qui vous permet de disposer les panneaux selon votre propre disposition.
-- Détection de la disposition des panneaux ! Une technologie exclusive qui permet des animations de couleurs intelligentes basées sur la disposition de votre panneau.
-- 16M+ Couleurs ! Créez la bonne ambiance pour toute occasion avec vos couleurs préférées ou toutes les nuances de blanc.
 - Synchronisation avec la musique! Avec la fonction Rhythm, votre chef-dœuvre danse sur votre musique ou vos sons préférés.
+- 16M+ Couleurs ! Créez la bonne ambiance pour toute occasion avec vos couleurs préférées ou toutes les nuances de blanc.
+- Détection de la disposition des panneaux ! Une technologie exclusive qui permet des animations de couleurs intelligentes basées sur la disposition de votre panneau.
+- Combinez les formes ! Conçu avec Connect+ pour travailler avec dautres formes de la ligne Nanoleaf Shapes afin de créer de superbes designs déclairage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
