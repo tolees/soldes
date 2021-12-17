@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- cuir
 - lacets
+- cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
