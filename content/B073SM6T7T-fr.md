@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Snow'
-date: 2020-10-12 08:21:11
-image: 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL400_.jpg'
+title: '[Pias] le Label - Snow'
+date: 2021-12-17 21:39:13
+image: 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B073SM6T7T-fr Snow'
+slug: 'B073SM6T7T-fr [Pias] le Label - Snow'
 sku: 'B073SM6T7T-fr'
-tags: [  ]
+tags: [ 'Alternatif et Musique Indé','CD et Vinyles','Genres','Rock alternatif','[pias] le label', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
-comparePrice: 13.76 EUR
-prodname: 'Snow'
+comparePrice: 16.99 EUR
+prodname: '[Pias] le Label - Snow'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: '[Pias] le Label'
 buyurl: 'https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21'
-descuento: '49.20'
+descuento: '58.86'
 average: '6.99'
 ---
 
