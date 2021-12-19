@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Agréées par des laboratoires de test indépendants, nos formules concentrées et naturelles sont un élixir de douceur et defficacité pour la peau.
-- Vegan, BIO, Nature - 100 % sans silicones, paraffines & huiles minérales - développé et produit au sein dun site unique en Allemagne.
 - La crème hydratante teintée, formulée avec un complexe d’actifs Q10 naturel, associe l’hydratation au soin de la peau tout en sublimant le teint d’un voile de couleur – en un seul produit.
+- Vegan, BIO, Nature - 100 % sans silicones, paraffines & huiles minérales - développé et produit au sein dun site unique en Allemagne.
+- Agréées par des laboratoires de test indépendants, nos formules concentrées et naturelles sont un élixir de douceur et defficacité pour la peau.
 - Les tendres couleurs déclinées en différentes nuances conviennent à toutes les carnations. De plus, cette crème contient de nombreux ingrédients minéraux et de la vitamine E.
 - 100% cosmétiques naturels certifiés, formulés à base dingrédients végétaux naturels et dextraits de plantes bio ou dhuiles végétales bio.
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Utilisation manuelle.
+- 2 tourne à gauche, 5 porte filières, 7 forets, 1 tournevis, 1 jauge à filet
 - 7 filières avec cage : m3 - 4 - 5 - 6 - 8 - 10 - 12.
 - 7 jeux de 3 tarauds (ébauche, 1/2 finition, finition) : m3 - 4 - 5 - 6 - 8 - 10 - 12.
-- 2 tourne à gauche, 5 porte filières, 7 forets, 1 tournevis, 1 jauge à filet
-- Utilisation manuelle.
 - Coffret métallique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
