@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design contrasté
 - Coupe confortable.
 - Construction durable et durable.
+- Design contrasté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
