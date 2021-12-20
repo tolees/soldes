@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 4 ans
+- 2 joueurs
 - Le phénomène qui a marqué la génération 90 est de retour en 2021 ! Avec sa mécanique simple et inchangée, ses packs où les contenus sont aléatoires, venez (re)découvrir le plaisir de jouer et de collectionner ces petites pièces en cartons (sans oublier les célèbres kinis !).
 - Chaque booster contient 5 Pog (contenu alétaoire).
-- Collectionne tous les POG de la série 1 qui contient 42 POG communs, 5 POG rares, 3 POG super rares et 6 KINI.
+- A partir de 4 ans
 - Avec sa célèbre mascotte Pogman, ces célèbres rondelles intemporelles ne manqueront pas de gagner le cœur des nouvelles générations à travers la nostalgie de leurs parents.
 - POG, lidole des cours de récréation entre 1995 et 1997, revient en force dans son édition Vintage !
-- 2 joueurs
+- Collectionne tous les POG de la série 1 qui contient 42 POG communs, 5 POG rares, 3 POG super rares et 6 KINI.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
