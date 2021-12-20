@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détendez-vous en jardinant, en pêchant, en faisant de la décoration ou encore en nouant des relations avec dadorables personnages !
-- Huit joueurs peuvent jouer ensemble sur lîle de lun des joueurs grâce au multijoueur en ligne ou au multijoueur local sans fil !
 - Jusquà huit joueurs peuvent vivre sur une île; quatre résidents dune même île peuvent jouer ensemble simultanément sur une seule console Nintendo switch.
 - Le jeu propose un tout nouveau système dartisanat : collectez des matériaux sur votre île pour tout construire, des meubles jusquaux outils !
 - Taille du fichier du jeu : 7 Go
+- Détendez-vous en jardinant, en pêchant, en faisant de la décoration ou encore en nouant des relations avec dadorables personnages !
+- Huit joueurs peuvent jouer ensemble sur lîle de lun des joueurs grâce au multijoueur en ligne ou au multijoueur local sans fil !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
