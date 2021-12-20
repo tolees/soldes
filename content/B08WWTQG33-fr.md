@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set du château de princesse Disney est rempli daccessoires, dont un portrait déchiré du Prince et une rose enchantée
+- 10 personnages pour jouer : 3 figurines la Belle et la Bête (2 versions de Belle et une de la Bête avec tête différente pour le Prince), Philippe le cheval et 6 autres figurines
 - Livré avec des instructions PLUS supplémentaires sur l’application : même les plus jeunes peuvent zoomer et visualiser les modèles qu’ils construisent
 - Parcoure laire de jeux à cheval, conduit un chariot ou organise une fête enchantée dans la cuisine du château
-- 10 personnages pour jouer : 3 figurines la Belle et la Bête (2 versions de Belle et une de la Bête avec tête différente pour le Prince), Philippe le cheval et 6 autres figurines
+- Ce set du château de princesse Disney est rempli daccessoires, dont un portrait déchiré du Prince et une rose enchantée
 - Créé un bâtiment de 2 étages avec une piste de danse et un placard qui tournent, une bibliothèque et une salle à manger avec ce jouet Disney
 
 [🛒 Achète-le!!]({{< param buyurl >}})
