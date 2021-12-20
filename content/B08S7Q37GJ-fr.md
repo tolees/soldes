@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Healthy lifestyle- Set timer to close at night and open by Light Sensor, get better sleep and wake naturally to sunshine. Light sensor help save energy by reducing the workload on air-conditioning and heating.
-- Multiple Control - Offer SwitchBot App control for iOS and Android, open and close the curtain at your fingertip. Enjoy Touch & Go when giving a little pull. Check via app and remotely close the curtains for anti-theft when traveling (With SwitchBot Hub Plus/Mini control remotely from anywhere).
-- Install in 31 seconds - make your curtains smart in seconds without any screws, nuts or bolts.
 - Even better with home automation - With the SwitchBot Hub Plus/Mini, the Curtain works with Amazon Alexa, Google Assistant, Siri, IFTTT for home automation. For example, you can just say it "Alexa/Ok Google/Hey Siri, give me sunlight" to open the curtains.
+- Install in 31 seconds - make your curtains smart in seconds without any screws, nuts or bolts.
+- Multiple Control - Offer SwitchBot App control for iOS and Android, open and close the curtain at your fingertip. Enjoy Touch & Go when giving a little pull. Check via app and remotely close the curtains for anti-theft when traveling (With SwitchBot Hub Plus/Mini control remotely from anywhere).
 - Tiny Body with Big Power - The power of the SwitchBot Curtain can even push up to 8 kg (17 pounds) of curtain. Chargeable with solar panel (purchase separated) instead of a wired system.
+- Healthy lifestyle- Set timer to close at night and open by Light Sensor, get better sleep and wake naturally to sunshine. Light sensor help save energy by reducing the workload on air-conditioning and heating.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

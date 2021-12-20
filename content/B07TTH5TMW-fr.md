@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Facile à utiliser - Le Hub Mini est facile à configurer dans le SwitchBot App. Avec le mode « Apprentissage Intelligent », il peut imiter votre télécommande actuelle en 5s. Alimenté par USB et portable, vous pouvez le porter et le placer partout. (*SwitchBot Hub Mini est compatible uniquement avec Wi-Fi 2,4 GHz.)
 - Votre « Mini » pas vers une maison intelligente - Cest la passerelle de lécosystème SwitchBot. Connectez tous les appareils SwitchBot et appareils ménagers à Internet, activez le service Cloud de vos appareils SwitchBot. Commencez à créer votre propre maison intelligente avec SwitchBot !
-- Profitez du contrôle vocal. Fonctionne avec Alexa, Google Assistant, Siri et IFTTT. Contrôlez vos appareils SwitchBot et vos appareils ménagers à laide dune simple commande vocale.
 - Économisez de lénergie et de largent - Vous n’êtes pas sûr si vous avez éteint la climatisation de la chambre ? Il suffit de léteindre avec la SwitchBot App ou de définir un programme convenable, vous noublierez JAMAIS déteindre les appareils.
 - Une télécommande pour tous vos appareils - Associez votre climatiseur, téléviseur et dautres appareils infrarouges au Hub Mini. Tous les appareils dans une application. Profitez de la commodité à portée de main.
-- Facile à utiliser - Le Hub Mini est facile à configurer dans le SwitchBot App. Avec le mode « Apprentissage Intelligent », il peut imiter votre télécommande actuelle en 5s. Alimenté par USB et portable, vous pouvez le porter et le placer partout. (*SwitchBot Hub Mini est compatible uniquement avec Wi-Fi 2,4 GHz.)
+- Profitez du contrôle vocal. Fonctionne avec Alexa, Google Assistant, Siri et IFTTT. Contrôlez vos appareils SwitchBot et vos appareils ménagers à laide dune simple commande vocale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
