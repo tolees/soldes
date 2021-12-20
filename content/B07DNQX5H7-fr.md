@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pilotez seul ou faites équipe. Jouez solo ou en coopération. Rejoignez une équipe multijoueur en mode libre ou en mode compétitif pour devenir le meilleur pilote du monde
-- Les saisons bouleversent tout. Maîtrisez votre bolide tout au long des saisons. Explorez un monde où la météo varie de manière dynamique pour offrir des conditions ensoleillées, orageuses, nuageuses, enneigées ou encore glaciales
 - Courses, cascades, victoires. Dans ce nouveau monde ouvert, tout ce que vous faites fait progresser votre partie
-- Explorez létonnant héritage britannique. La Grande Bretagne comme vous ne lavez jamais vue. Découvrez lacs, vallées, châteaux, ainsi que des paysages à couper le souffle, le tout en 4K native et avec le HDR sur Xbox One X et Windows 10
 - Réunissez, modifiez et pilotez plus de 450 voitures. Profitez du plus grand choix de voitures jamais proposé incluant des voitures de plus de 100 constructeurs licenciés
+- Les saisons bouleversent tout. Maîtrisez votre bolide tout au long des saisons. Explorez un monde où la météo varie de manière dynamique pour offrir des conditions ensoleillées, orageuses, nuageuses, enneigées ou encore glaciales
+- Pilotez seul ou faites équipe. Jouez solo ou en coopération. Rejoignez une équipe multijoueur en mode libre ou en mode compétitif pour devenir le meilleur pilote du monde
+- Explorez létonnant héritage britannique. La Grande Bretagne comme vous ne lavez jamais vue. Découvrez lacs, vallées, châteaux, ainsi que des paysages à couper le souffle, le tout en 4K native et avec le HDR sur Xbox One X et Windows 10
 
 [🛒 Achète-le!!]({{< param buyurl >}})
