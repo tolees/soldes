@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un sapin dépicéa (nouveauté janvier 2019) en plastique durable à base de plantes.
-- Cet ensemble de moulin à vent Lego Creator Expert Vestas comprend également des pales de rotor réglables, une tour fidèle aux détails, une maison de machine mobile avec voyants davertissement pour le trafic aérien, un chariot de service Vestas, une maison avec jardin, des fleurs, une clôture à lattes, une terrasse avec 2 chaises, une table et un parasol.
-- Comprend un moteur Lego Power Functions de taille moyenne, un boîtier de batterie et 2 rallonges de 50 cm de long.
 - Comprend 3 figurines : une femme et 2 techniciens de service Vestas avec impression en V et une figurine de chien.
+- Cet ensemble de moulin à vent Lego Creator Expert Vestas comprend également des pales de rotor réglables, une tour fidèle aux détails, une maison de machine mobile avec voyants davertissement pour le trafic aérien, un chariot de service Vestas, une maison avec jardin, des fleurs, une clôture à lattes, une terrasse avec 2 chaises, une table et un parasol.
 - Tournez la machine vers la droite et la gauche et allumez le moteur Power Functions inclus pour tourner les pales de rotor réglables de la roue éolienne et faire briller la lumière de terrasse qui fonctionne.
+- Comprend un moteur Lego Power Functions de taille moyenne, un boîtier de batterie et 2 rallonges de 50 cm de long.
+- Un sapin dépicéa (nouveauté janvier 2019) en plastique durable à base de plantes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
