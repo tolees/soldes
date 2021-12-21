@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibles de raccordement souples, sertis d’usine - Pression minimale 1 bar
 - GROHE Zero conduit deau isolé - sans plomb ni nickel - Bec avec mousseur
-- Bec haut - Monotrou sur plage - Hauteur sous bec : 207 mm
 - Bec tube pivotant - Zone de rotation à 360°
 - GROHE Longlife cartouche en céramique 28 mm - GROHE StarLight Chrome éclatant et durable
+- Flexibles de raccordement souples, sertis d’usine - Pression minimale 1 bar
+- Bec haut - Monotrou sur plage - Hauteur sous bec : 207 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

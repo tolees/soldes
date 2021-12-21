@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisation totale : Personnalisez les boutons (mapping) de votre manette avec lapplication Xbox Accessories​ et brancher un casque compatible grâce à la prise jack 3.5mm
-- *selon la mise à jour du système d’exploitation. Plus d’informations sur xbox.com/controller-compatibility
-- Bouton de partage dédié : Grace au nouveau bouton de partage Xbox, capturez et partagez vos meilleurs captures & vidéos avec vos amis
-- Confort de jeu accru : Surface antidérapante sur les gâchettes et l’arrière de la manette et nouvelle croix multidirectionnelle pour une prise en main précise
-- Compatible avec tous vos appareils vos appareils – Xbox Series X|S, Xbox One, PC Windows10 , téléphones & tablettes iOS et Android*
 - Jouez sur tous vos appareils: Jouez sans fil ou utilisez le câble USB-C inclus.
+- Confort de jeu accru : Surface antidérapante sur les gâchettes et l’arrière de la manette et nouvelle croix multidirectionnelle pour une prise en main précise
+- Personnalisation totale : Personnalisez les boutons (mapping) de votre manette avec lapplication Xbox Accessories​ et brancher un casque compatible grâce à la prise jack 3.5mm
+- Bouton de partage dédié : Grace au nouveau bouton de partage Xbox, capturez et partagez vos meilleurs captures & vidéos avec vos amis
+- *selon la mise à jour du système d’exploitation. Plus d’informations sur xbox.com/controller-compatibility
+- Compatible avec tous vos appareils vos appareils – Xbox Series X|S, Xbox One, PC Windows10 , téléphones & tablettes iOS et Android*
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

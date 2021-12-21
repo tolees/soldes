@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Weitere Informationen: Crocs At Work
-- Type: Sabots avec bride cheville
-- Material: Croslite
 - Hersteller Artikelnummer: 204590-100
+- Type: Sabots avec bride cheville
 - Farbe: blanc
+- Weitere Informationen: Crocs At Work
+- Material: Croslite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tête extractible pratique avec deux types de jet différents
+- GROHE EasyDock : pommeau de douche automatique autorétractable jusquau bec verseur. Assure un retour en douceur du flexo à la position initiale
 - Idéal pour toutes les tâches de la cuisine. Facilite le remplissage des pots.
 - Bec pivotant pour une manipulation facile
 - Système dinstallation facile : vous pouvez installer le robinet en un clin dœil
-- GROHE EasyDock : pommeau de douche automatique autorétractable jusquau bec verseur. Assure un retour en douceur du flexo à la position initiale
+- Tête extractible pratique avec deux types de jet différents
 
 [🛒 Achète-le!!]({{< param buyurl >}})

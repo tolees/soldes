@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie Accu-ND pour images et des couleurs neutres
-- Utilisable en photo comme en vidéo
 - Les filtres PRO-ND HOYA enfin réunis dans un kit !
 - Jusque 7 possibilités de densités en superposant les filtres
+- Utilisable en photo comme en vidéo
 - Inclus 3 filtres PRO-ND ND8 ND64 ND1000 + étui
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

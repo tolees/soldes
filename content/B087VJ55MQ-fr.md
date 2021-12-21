@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La technologie Omni-Tech et ses coutures étanches combinent une haute imperméabilité et une haute respirabilité, Peu importe les conditions, vous restez au frais et au sec
-- Veste doublée de polaire pour femme avec double curseur, Restez au chaud durant les froids mois dhiver
-- Contenu : 1x Columbia South Canyon veste doublée de polaire pour femme, Extérieur : Faille Omni-Tech 100 % polyester, Isolation : Microtemp XF II 80 g 85% polyester recyclé, 15% polyester, Couleur : Dark Nocturnal, Taille : XS, Art, No 1859842
-- Les poches zippées vous offrent plus de polyvalence, Gardez vos mains au chaud quand vous en avez besoin ou rangez votre téléphone et autres accessoires sans craindre de les faire tomber, Poche de sécurité intérieur
 - Ajustement et confort optimal grâce à lourlet et à la taille réglables par cordon
+- La technologie Omni-Tech et ses coutures étanches combinent une haute imperméabilité et une haute respirabilité, Peu importe les conditions, vous restez au frais et au sec
+- Contenu : 1x Columbia South Canyon veste doublée de polaire pour femme, Extérieur : Faille Omni-Tech 100 % polyester, Isolation : Microtemp XF II 80 g 85% polyester recyclé, 15% polyester, Couleur : Dark Nocturnal, Taille : XS, Art, No 1859842
+- Veste doublée de polaire pour femme avec double curseur, Restez au chaud durant les froids mois dhiver
+- Les poches zippées vous offrent plus de polyvalence, Gardez vos mains au chaud quand vous en avez besoin ou rangez votre téléphone et autres accessoires sans craindre de les faire tomber, Poche de sécurité intérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

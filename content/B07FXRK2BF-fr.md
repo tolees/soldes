@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indicateur LED de fonctionnement et de température
-- Réglage ultra précis de la température
 - Chauffage AquaEl Ultra Heater, corps incassable
+- Réglage ultra précis de la température
+- Indicateur LED de fonctionnement et de température
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

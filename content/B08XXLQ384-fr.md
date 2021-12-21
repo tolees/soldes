@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LE JEU PEUT ÊTRE RANGÉ DANS SA BOÎTE AU STYLE ÉPURÉ : impressionnez vos amis avec cette version collector du célèbre jeu Cluedo
-- VERSION FRANÇAISE : profitez de la version française de cette pièce de collection
-- LES RÈGLES CLASSIQUES DU CLUEDO : déplacez-vous sur le plateau, menez lenquête grâce aux indices et découvrez qui a assassiné M. Lenoir
 - DES PIONS ET DES ARMES EN BOIS : Inclut des pions et des armes en bois, et une vraie corde
+- VERSION FRANÇAISE : profitez de la version française de cette pièce de collection
 - UNE VÉRITABLE PIÈCE DE COLLECTION : Retrouvez le célèbre jeu Cluedo dans une version rustique en bois avec un aspect vintage et une production limitée
+- LES RÈGLES CLASSIQUES DU CLUEDO : déplacez-vous sur le plateau, menez lenquête grâce aux indices et découvrez qui a assassiné M. Lenoir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

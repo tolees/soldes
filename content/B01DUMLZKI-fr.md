@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande précision grâce à sa pointe de centrage et faible effort de perçage
-- Contrôle de profondeur de forage : la foret dispose de plusieurs marcajes laser pour que le trou fait sentir exactement de la profondeur requise pour le bloc ou le collier arrière.
-- Plus de sécurité par son manche trilobular avec trois faces plates à 120 ° ce qui élimine le risque de rotation dans le mandrin
 - Grande durée de vie et rapidité de perçage
+- Contrôle de profondeur de forage : la foret dispose de plusieurs marcajes laser pour que le trou fait sentir exactement de la profondeur requise pour le bloc ou le collier arrière.
 - Application : béton, pierre et brique.
+- Plus de sécurité par son manche trilobular avec trois faces plates à 120 ° ce qui élimine le risque de rotation dans le mandrin
+- Grande précision grâce à sa pointe de centrage et faible effort de perçage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

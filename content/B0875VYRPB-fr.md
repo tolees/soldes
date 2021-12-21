@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compatible avec le Mac Pro (génération actuelle)
 - Offre une plus grande mobilité à votre Mac Pro
 - Ajoutez des roulettes à votre Mac Pro avec le Kit de roulettes pour Mac Pro.
-- Les roulettes sur mesure en acier inoxydable et caoutchouc permettent de déplacer plus facilement votre Mac Pro, que vous souhaitiez le faire glisser sous votre bureau ou le déplacer dans la pièce.
-- Compatible avec le Mac Pro (génération actuelle)
 - Installation requise. Une clé hexagonale de 4 à 6,35 mm est incluse, mais des outils supplémentaires sont nécessaires. Remplacer les pieds du Mac Pro par des roulettes ajoute environ 25 mm à la hauteur du châssis.
+- Les roulettes sur mesure en acier inoxydable et caoutchouc permettent de déplacer plus facilement votre Mac Pro, que vous souhaitiez le faire glisser sous votre bureau ou le déplacer dans la pièce.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

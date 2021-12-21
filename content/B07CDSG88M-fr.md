@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cuir lisse couleur chameau avec détail dattache sur lextrémité
+- Épaisseur du boîtier 9,9mm
+- Mouvement multi-yeux
 - Résistance à leau 5 ATM (50m)
 - Cadran noir avec logo emblématique à 3 heures, et aiguille des minutes en or rose
-- Mouvement multi-yeux
-- Épaisseur du boîtier 9,9mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

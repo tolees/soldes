@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Switchs de jeu mécaniques garantis 50 millions de frappes
 - Lécran OLED Smart Display affiche les profils, informations de jeu, messages Discord et plus encore
+- Une personnalisation inégalée avec 16,8 millions de couleurs déclairage par touche
 - Lagencement du clavier est disponible en Français AZERTY. Les images promotionnelles sont elles en Américain QWERTY
 - Alliage daluminium de qualité aéronautique, conçu pour durer tout la vie
-- Switchs de jeu mécaniques garantis 50 millions de frappes
-- Une personnalisation inégalée avec 16,8 millions de couleurs déclairage par touche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclus un médiator + 1 corde de rechange
-- A partir de 3 ans
 - Une guitare en bois originale, qui initiera les enfants à la musique
 - Six cordes
+- Inclus un médiator + 1 corde de rechange
+- A partir de 3 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

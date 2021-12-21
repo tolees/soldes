@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le siège étanche Flexvent est protégé de la contamination car la chambre de protection est placée sur le flotteur. Comme garantie de qualité, chaque buse Flamco est testée avant de quitter nos chaînes de production.
 - Lentrée dair Flexvent Top dispose dun raccord fileté femelle 1/2" pour un montage facile.
+- Grâce à sa forme compacte, le conduit dentrée dair Flexvent Top peut être facilement installé dans tout système fonctionnant à une température inférieure à 120°C et à une pression allant jusquà 10 bars.
 - T-Plus est la solution idéale pour créer des succursales ou apporter dautres modifications aux structures opérationnelles.
 - Vanne de purge dair automatique avec corps très compact en laiton nickelé et connecteur mâle 1/2".
-- Le siège étanche Flexvent est protégé de la contamination car la chambre de protection est placée sur le flotteur. Comme garantie de qualité, chaque buse Flamco est testée avant de quitter nos chaînes de production.
-- Grâce à sa forme compacte, le conduit dentrée dair Flexvent Top peut être facilement installé dans tout système fonctionnant à une température inférieure à 120°C et à une pression allant jusquà 10 bars.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

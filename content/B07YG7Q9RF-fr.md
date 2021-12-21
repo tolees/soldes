@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jeu Pillars of Eternity II: Deadfire - Ultimate Edition (jeu + 3 DLC)
-- Le porte-clés « Spacepig »
-- Pillars of Eternity II: Deadfire - Ultimate Collectors Edition
 - Un packaging de qualité premium
+- Le jeu Pillars of Eternity II: Deadfire - Ultimate Edition (jeu + 3 DLC)
+- Pillars of Eternity II: Deadfire - Ultimate Collectors Edition
 - La statue « Od Nua » (25 cm)
+- Le porte-clés « Spacepig »
 
 [🛒 Achète-le!!]({{< param buyurl >}})
