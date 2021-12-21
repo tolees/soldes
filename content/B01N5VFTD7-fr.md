@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige robuste pour la durabilité.
-- Assise plantaire en résine Croslite(TM) offrant confort et légèreté.
 - Chaussure respirante et personnalisable grâce à des trous de ventilation pouvant accueillir des clips Jibbitz(TM).
-- Semelle extérieure non marquante en Croslite(TM).
 - Modèle facile à enfiler.
+- Assise plantaire en résine Croslite(TM) offrant confort et légèreté.
+- Semelle extérieure non marquante en Croslite(TM).
+- Tige robuste pour la durabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

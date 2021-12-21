@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- "Control Clean" : Réglage débit réservoir H2O
 - Compatible avec les assistants vocaux Google Home et Alexa en Français
-- Programmation quotidienne variable
 - Connecté APP mobile iOS et Android
 - Gyroscope intégré & Surfaces jusquà 200m²
+- Programmation quotidienne variable
+- "Control Clean" : Réglage débit réservoir H2O
 
 [🛒 Achète-le!!]({{< param buyurl >}})

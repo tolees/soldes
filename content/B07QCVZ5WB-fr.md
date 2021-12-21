@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A partir de 14 ans
-- Dans la lignée des Demeures de l’Épouvante, Voyages en Terre du Milieu se place dans un genre connu, le dungeon-crawler. Il y apporte cependant ses propres ingrédients, qui en font un jeu unique : 2 niveaux daventure, un système de "brouillard de guerre", la disparition des jets de dés en faveur dun système de cartes.
 - Le Seigneur des Anneaux : voyages en Terre du Milieu, c’est le jeu coopératif événement, attendu par toute une communauté de joueurs.
+- Dans la lignée des Demeures de l’Épouvante, Voyages en Terre du Milieu se place dans un genre connu, le dungeon-crawler. Il y apporte cependant ses propres ingrédients, qui en font un jeu unique : 2 niveaux daventure, un système de "brouillard de guerre", la disparition des jets de dés en faveur dun système de cartes.
 - Durée de jeu : 60 min
 - Le Seigneur des Anneaux : voyages en Terre du Milieu promet une rejouabilité inédite. Chaque scénario est généré par l’application. Les joueurs auront en commun uniquement le premier.
 
