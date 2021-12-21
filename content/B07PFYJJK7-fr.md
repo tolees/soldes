@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Topi Games- One Piece Adventure Island'
-date: 2021-12-19 18:30:11
+date: 2021-12-20 22:34:24
 image: 'https://m.media-amazon.com/images/I/51bfT4c5vtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 modes de jeu (un mode enfant, un mode histoire et un mode de jeu combat entre équipages)
-- Revivez les aventures du célèbre équipage des pirates du chapeau de paille et affrontez les nombreux ennemis qui se trouveront sur votre route pour trouver les trésors éparpillés sur grand line.
 - 2 à 8 joueurs
+- Revivez les aventures du célèbre équipage des pirates du chapeau de paille et affrontez les nombreux ennemis qui se trouveront sur votre route pour trouver les trésors éparpillés sur grand line.
+- 3 modes de jeu (un mode enfant, un mode histoire et un mode de jeu combat entre équipages)
 - Partez à la conquête des Îles. ONE PIECE Adventure Island
 - A partir de 8 ans
 
