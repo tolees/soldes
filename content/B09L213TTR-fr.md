@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Console Nintendo Switch Mario Kart 8 Deluxe  Code de telechargement du jeu & Abonnement de 3 mois Nintendo Switch Online '
-date: 2021-12-20 22:34:50
+date: 2021-12-23 16:39:00
 image: 'https://m.media-amazon.com/images/I/41tbGWIsNjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B09L213TTR/?tag=tolees0d-21'
 descuento: '23.68'
-average: '272.935'
+average: '276.346'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
