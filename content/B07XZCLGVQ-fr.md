@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- légére et portable
 - écran digital
-- Charge via USB
 - Charge complète de 41 ballons / 8 pneus de vélo
+- Charge via USB
+- légére et portable
 - multi-tâches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
