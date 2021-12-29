@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- We Create Stuff, léquipe derrière lun des mods les plus appréciés de tous les temps, revient avec une vision inhabituelle du genre horreur
-- LÉdition Deluxe comprend le jeu complet, lartbook numérique pour plongez dans les coulisses du jeu avec de nombreux croquis, illustrations, concepts et la bande-son de The Living Tombstone
-- Surmontez un ensemble de frayeurs. Confrontez ceux qui vous suivent dans une série de combats de boss redoutables et apprenez comment les vaincre en résolvant des énigmes hallucinantes
 - Découvrez des souvenirs obsédants. Voyagez à travers plusieurs histoires troublantes, chacune avec son lot dénigmes, de mécaniques, darmes et de combats de boss uniques
+- LÉdition Deluxe comprend le jeu complet, lartbook numérique pour plongez dans les coulisses du jeu avec de nombreux croquis, illustrations, concepts et la bande-son de The Living Tombstone
 - Par les créateurs du célèbre Nightmare House 2, découvrez un jeu original dhorreur psychologique qui défiera vos attentes et vous guidera dans les profonds méandres de votre esprit
+- Surmontez un ensemble de frayeurs. Confrontez ceux qui vous suivent dans une série de combats de boss redoutables et apprenez comment les vaincre en résolvant des énigmes hallucinantes
+- We Create Stuff, léquipe derrière lun des mods les plus appréciés de tous les temps, revient avec une vision inhabituelle du genre horreur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

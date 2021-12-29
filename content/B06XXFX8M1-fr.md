@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : regular
-- Doublure : synthétique
 - Matériau de semelle : synthétique
+- Largeur de la chaussure : regular
 - Semelle intérieure : synthétique
-- Dessus : en tissu
 - Type de talons : plat
+- Dessus : en tissu
+- Doublure : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passez du temps avec les membres de la fête pour développer leurs capacités et déverrouiller de puissantes compétences combinées
-- Grunt trisé par lhomme quil a fait le plus confiance
-- Recrutez jusquà 7 membres de la périphérie de la société
-- Crânes en combat dynamique RPG
-- Le champ de bataille est votre arme utilisez des chauves-souris, un parapluie, des vélos, des panneaux de rue, et tout le reste à votre disposition pour enlever vos ennemis
-- 50 substances optionnelles pour donner vie à la ville de Yokohama, au Japon
 - Trouver, forger et mettre à niveau léquipement pour affronter les ennemis les plus forts
+- Grunt trisé par lhomme quil a fait le plus confiance
+- Le champ de bataille est votre arme utilisez des chauves-souris, un parapluie, des vélos, des panneaux de rue, et tout le reste à votre disposition pour enlever vos ennemis
+- Crânes en combat dynamique RPG
+- 50 substances optionnelles pour donner vie à la ville de Yokohama, au Japon
+- Passez du temps avec les membres de la fête pour développer leurs capacités et déverrouiller de puissantes compétences combinées
+- Recrutez jusquà 7 membres de la périphérie de la société
 
 [🛒 Achète-le!!]({{< param buyurl >}})

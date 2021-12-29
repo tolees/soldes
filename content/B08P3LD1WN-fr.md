@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Créez la piste parfaite avec le nouvel éditeur révolutionnaire. De nouvelle possibilités et une interface repensée sont les principales nouveautés
 - Le jeu vidéo officiel du Championnat AMA (American Motorcyclist Association) Supercross est de retour avec Monster Energy Supercross - The Official Videogame 4 ! Le monde du Supercross revient avec plus de contenu officiel que jamais grâce à cette nouvell
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Inspiré par les paysages magnifiques des îles du maine, ce nouveau complexe est un endroit à explorer en solo ou avec 3 autres amis.
 - 88 unité(s) de cet article soldée(s) à partir du 30 juin 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Inspiré par les paysages magnifiques des îles du maine, ce nouveau complexe est un endroit à explorer en solo ou avec 3 autres amis.
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

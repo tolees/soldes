@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce kit de jeu complet fait partie du monde du cheval Horse Club de Schleich
-- Lorsque Tom a du temps après son travail au café, il fait quelques démonstrations acrobatiques avec son cheval Pino
-- Lensemble comprend en plus du bâtiment du café, une figurine de cheval et deux figurines humaines, ainsi que de nombreux accessoires
-- Avec les jouets de Schleich les enfants sont encouragés à imaginer des histoires créatives
-- Les figurines Schleich sont très détaillées, peintes avec amour et sont conçues pour des jeux éducatifs et imaginatifs
 - Le kit de jeu convient aux enfants à partir de 5 ans
+- Avec les jouets de Schleich les enfants sont encouragés à imaginer des histoires créatives
+- Ce kit de jeu complet fait partie du monde du cheval Horse Club de Schleich
+- Lensemble comprend en plus du bâtiment du café, une figurine de cheval et deux figurines humaines, ainsi que de nombreux accessoires
+- Lorsque Tom a du temps après son travail au café, il fait quelques démonstrations acrobatiques avec son cheval Pino
+- Les figurines Schleich sont très détaillées, peintes avec amour et sont conçues pour des jeux éducatifs et imaginatifs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

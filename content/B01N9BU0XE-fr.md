@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 cartouche MAXTRA+ = 11 packs deau en bouteille*****
 - Clapet fonctionnel facilitant le remplissage
-- Environ 380€ déconomies par an****
-- Réduit* chlore, plomb et tartre pour une eau du robinet plus pure**
 - 1 an deau filtrée = 800 bouteilles plastiques évitées***
+- 1 cartouche MAXTRA+ = 11 packs deau en bouteille*****
+- Réduit* chlore, plomb et tartre pour une eau du robinet plus pure**
+- Environ 380€ déconomies par an****
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
