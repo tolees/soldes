@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La salle de classe de défense contre les forces du Mal comprend une table, une chaise, des potions, une vitrine, un livre, un bureau avec un encrier et une plume, une lampe à construire et un tableau.
-- Comprend un mécanisme dhorloge permettant aux enfants dimaginer des aventures avec le Retourneur de Temps, et une fonction « danse » pour animer vraiment le bal de Noël !
-- Cet ensemble de jeu LEGO Harry Potter comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets, le bureau de Dumbledore et des décorations glacées pour le bal de Noël.
 - La salle de bains des préfets comprend un vitrail orné dune sirène.
-- La scène du bal de Noël comprend 2 tables glacées avec 2 verres, une sculpture de glace à construire et un sapin de Noël.
+- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël.
+- La salle de classe de défense contre les forces du Mal comprend une table, une chaise, des potions, une vitrine, un livre, un bureau avec un encrier et une plume, une lampe à construire et un tableau.
 - Le bureau de Dumbledore comprend un fauteuil et un bureau avec un encrier et une plume, la Pensine et lépée de Gryffondor.
 - Linfirmerie comprend 2 lits et 2 lampes à construire.
-- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël.
-- Le hall dentrée comprend un coffre et la Coupe de Feu.
 - Inclut 8 figurines Harry Potter (nouveautés de juin 2019) : Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore et Madame Maxime.
+- Le hall dentrée comprend un coffre et la Coupe de Feu.
+- Cet ensemble de jeu LEGO Harry Potter comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets, le bureau de Dumbledore et des décorations glacées pour le bal de Noël.
+- La scène du bal de Noël comprend 2 tables glacées avec 2 verres, une sculpture de glace à construire et un sapin de Noël.
+- Comprend un mécanisme dhorloge permettant aux enfants dimaginer des aventures avec le Retourneur de Temps, et une fonction « danse » pour animer vraiment le bal de Noël !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
