@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Un poupon interactif pour accompagner lenfant à lheure du bain !
 - Valentin peut aller dans leau et prendre son bain comme un vrai bébé, il reconnaît lorsquon le met dans leau grâce à un capteur.
-- Son petit coeur sillumine au rythme des sons. Son bouton sur le ventre permet de déclencher plein dinteractions amusantes.
 - Lenfant peut larroser et le laver avec la douchette.
 - Version française
+- Son petit coeur sillumine au rythme des sons. Son bouton sur le ventre permet de déclencher plein dinteractions amusantes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
