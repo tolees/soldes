@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sortie de cable à vis gencod
 - Lébénoïd
 - Plaque 75mm x 75mm avec serre câble
 - Pour câble diamètre 6 à diamètre 11mm - 10/20 A
+- Sortie de cable à vis gencod
 
 [🛒 Achète-le!!]({{< param buyurl >}})

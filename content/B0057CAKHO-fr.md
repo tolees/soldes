@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel : Polystyrène
-- 16 compartiments
 - Rangement transparent pour maquillage
+- 16 compartiments
+- Matériel : Polystyrène
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Anticalcaire et antitartre
-- Pour recharger les circuits de refroidissement. Pour remplir les réservoirs des lave-glaces automobiles.
 - Pour remplir les réservoirs des fers à vapeur, des décolleuses à papier peint. Pour laver les objets fragiles. Pour entretenir les plantes vertes d’intérieur.
+- Pour recharger les circuits de refroidissement. Pour remplir les réservoirs des lave-glaces automobiles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

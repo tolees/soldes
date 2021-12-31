@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huile moteur Castrol EDGE 0W30 pour moteur essence, diesel et hybride. Castrol EDGE avec Fluid TITANIUM se transforme pour réduire de 20 % les frictions impactant la performance.
 - Castrol EDGE avec Fluid TITANIUM transforme sa structure physique, se durcissant aux points d’extrême pression, pour réduire les contacts métal contre métal et les frictions. Quand la pression retombe, le lubrifiant reprend un écoulement fluide.
+- Spécifications: ACEA C3, API SN, BMW Longlife-04, dexos2*, MB-Approval 229.31/ 229.51, Renault RN 0700 / RN 0710, VW 502 00 / 505 00
 - Lorsque vous choisissez un lubrifiant, veuillez vous reporter au manuel dentretien de votre véhicule et aux spécifications de produit prescrites.
 - Pouvoir lubrifiant constant à toutes températures
-- Spécifications: ACEA C3, API SN, BMW Longlife-04, dexos2*, MB-Approval 229.31/ 229.51, Renault RN 0700 / RN 0710, VW 502 00 / 505 00
+- Huile moteur Castrol EDGE 0W30 pour moteur essence, diesel et hybride. Castrol EDGE avec Fluid TITANIUM se transforme pour réduire de 20 % les frictions impactant la performance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

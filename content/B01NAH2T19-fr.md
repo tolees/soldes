@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un petit investissement. Une grande différence
-- Votre rasoir Braun est conçu pour durer 7 ans
-- Améliorez vos performances de rasage avec la nouvelle tondeuse centrale double et son revêtement unique en titane
-- Tous les 18 mois, remplacez facilement les pièces de votre rasoir Braun pour conserver une performance optimale
 - Compatible avec tous les rasoirs électriques Séries 9
+- Tous les 18 mois, remplacez facilement les pièces de votre rasoir Braun pour conserver une performance optimale
+- Un petit investissement. Une grande différence
+- Améliorez vos performances de rasage avec la nouvelle tondeuse centrale double et son revêtement unique en titane
+- Votre rasoir Braun est conçu pour durer 7 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

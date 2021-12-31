@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les notes luxueuses et apaisantes du bois de santal et du patchouli vous transportent dans une infinie douceur
-- Temps de combustion : 110 à 150 heures – Poids : 623 g
-- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
 - Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
+- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
+- Temps de combustion : 110 à 150 heures – Poids : 623 g
+- Les notes luxueuses et apaisantes du bois de santal et du patchouli vous transportent dans une infinie douceur
 - Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

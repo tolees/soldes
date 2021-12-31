@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fonctionne comme un taille-crayon
 - Réglage de la pointe et de l’angle
-- Résultat en quelques secondes
 - Diamètre : entre 2,5 et 19 mm
+- Résultat en quelques secondes
 - Fonctionne aussi avec les forets de maçonnerie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
