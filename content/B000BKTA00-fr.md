@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Drill Doctor 52201 Affûteur de forets 750 X'
-date: 2021-12-30 17:24:27
+date: 2021-12-31 18:40:37
 image: 'https://m.media-amazon.com/images/I/41USB+WvutL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Drill Doctor'
 buyurl: 'https://www.amazon.fr/dp/B000BKTA00/?tag=tolees0d-21'
 descuento: '20.84'
-average: '260.91'
+average: '258.113333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultat en quelques secondes
 - Fonctionne comme un taille-crayon
-- Fonctionne aussi avec les forets de maçonnerie
-- Diamètre : entre 2,5 et 19 mm
 - Réglage de la pointe et de l’angle
+- Résultat en quelques secondes
+- Diamètre : entre 2,5 et 19 mm
+- Fonctionne aussi avec les forets de maçonnerie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

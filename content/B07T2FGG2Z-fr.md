@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôlez la réduction de bruit, prenez vos appels et choisissez votre musique grâce aux commandes tacticles
-- Réponse en fréquence (communication Bluetooth):20 Hz à 20 000 Hz (échantillonnage de 44,1 kHz)
-- Sony vous recommande de toujours mettre à jour vos appareils avec les derniers logiciels disponibles Les notifications de mise à jour logicielle du WF-1000XM3, ainsi que les mises à jour elles-mêmes, sont diffusées via lapplication Sony Headphones Connect, disponible gratuitement sur Google Play et Apple App Store
-- Jusquà 24 heures dautonomie grâce à son boîtier de rechargement
-- Fonction Quick Attention permettant de réduire votre musique et damplifier les sons environnants afin de ne pas manquer ce quil se passe autour de vous
 - Une réduction de bruit exceptionnelle grâce au processeur HD QN1e sadaptant parfaitement à lactivité de lutilisateur
 - Fonctions Bluetooth et NFC intégrées
+- Jusquà 24 heures dautonomie grâce à son boîtier de rechargement
+- Contrôlez la réduction de bruit, prenez vos appels et choisissez votre musique grâce aux commandes tacticles
+- Réponse en fréquence (communication Bluetooth):20 Hz à 20 000 Hz (échantillonnage de 44,1 kHz)
+- Fonction Quick Attention permettant de réduire votre musique et damplifier les sons environnants afin de ne pas manquer ce quil se passe autour de vous
+- Sony vous recommande de toujours mettre à jour vos appareils avec les derniers logiciels disponibles Les notifications de mise à jour logicielle du WF-1000XM3, ainsi que les mises à jour elles-mêmes, sont diffusées via lapplication Sony Headphones Connect, disponible gratuitement sur Google Play et Apple App Store
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

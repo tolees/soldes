@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
-- Fonctions Bluetooth et NFC intégrées
-- Fonction Quick Attention permettant de réduire votre musique et damplifier les sons environnants afin de ne pas manquer ce quil se passe autour de vous
-- Compatibles Alexa
-- Une réduction de bruit exceptionnelle grâce au processeur HD QN1e sadaptant parfaitement à lactivité de lutilisateur
-- Contrôlez la réduction de bruit, prenez vos appels et choisissez votre musique grâce aux commandes tacticles
-- Sony vous recommande de toujours mettre à jour vos appareils avec les derniers logiciels disponibles. Les notifications de mise à jour logicielle du WF-1000XM3, ainsi que les mises à jour elles-mêmes, sont diffusées via lapplication Sony Headphones Connect, disponible gratuitement sur Google Play et Apple App Store.
 - Temps de charge de la batterie:Environ. 1h30
-- Jusquà 24 heures dautonomie grâce à son boîtier de rechargement
+- Contrôlez la réduction de bruit, prenez vos appels et choisissez votre musique grâce aux commandes tacticles
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Une réduction de bruit exceptionnelle grâce au processeur HD QN1e sadaptant parfaitement à lactivité de lutilisateur
 - Temps de charge de la batterie: Environ 1,5 h
+- Fonctions Bluetooth et NFC intégrées
+- Sony vous recommande de toujours mettre à jour vos appareils avec les derniers logiciels disponibles. Les notifications de mise à jour logicielle du WF-1000XM3, ainsi que les mises à jour elles-mêmes, sont diffusées via lapplication Sony Headphones Connect, disponible gratuitement sur Google Play et Apple App Store.
+- Compatibles Alexa
+- Jusquà 24 heures dautonomie grâce à son boîtier de rechargement
+- Fonction Quick Attention permettant de réduire votre musique et damplifier les sons environnants afin de ne pas manquer ce quil se passe autour de vous
 
 [🛒 Achète-le!!]({{< param buyurl >}})
