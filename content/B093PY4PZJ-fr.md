@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chris Redfield est généralement un héros dans la série des Resident Evil, mais son apparition et ses intentions dans Resident Evil Village semblent quelque peu sinistres
-- Les joueurs reprendront le rôle dEthan Winters et vivront des combats rapprochés et de terrifiantes poursuites à la première personne.
 - Plus quun simple décor qui accueille les terribles événements se déroulant dans le jeu, le village est un personnage à part entière, dont Ethan devra découvrir les mystères et tenter dy échapper.
 - De nouveaux adversaires habitant cet énigmatique village pourchasseront Ethan sans cesse et lui barreront la route, alors quil tente de comprendre ce nouveau cauchemar dans lequel il se retrouve
+- Chris Redfield est généralement un héros dans la série des Resident Evil, mais son apparition et ses intentions dans Resident Evil Village semblent quelque peu sinistres
+- Les joueurs reprendront le rôle dEthan Winters et vivront des combats rapprochés et de terrifiantes poursuites à la première personne.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
