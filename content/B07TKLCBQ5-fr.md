@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un globe interactif avec écran vidéo pour découvrir le monde en images ! Plus de 5h de vidéos incluses fournies par la BBC.
 - 3 modes de jeu : “Le tour du monde” : découverte des différentes catégories (continents, pays, capitale, etc.) av ec questions pour valider les acquis, “Super quiz” : trois niveaux de difficulté à débloquer, “Vrai ou Faux” : trois niveaux de difficulté à débloquer.
 - Jusqu’à deux joueurs pour les deux quiz pour défier ses parents ou ses amis ! L’enfant répond en utilisant le stylet pour ou avec les boutons A, B ou C.
-- Version française
 - Un contenu très riche : plus de 3 000 informations documentées, 600 vidéos soit 5h de contenu et plus de 250 questions.
+- Version française
+- Un globe interactif avec écran vidéo pour découvrir le monde en images ! Plus de 5h de vidéos incluses fournies par la BBC.
 - Grâce aux 11 catégories votre enfant découvre : les continents, les pays, les capitales, les animaux, la géologie, les monuments, les langues, les monnaies, les drapeaux et les habitants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

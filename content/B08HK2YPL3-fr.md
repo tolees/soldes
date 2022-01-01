@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vérin à gaz de classe 4 de haute qualité pour le réglage de la hauteur
-- Comprend un coussin lombaire et un coussin cervical confortables
 - Accoudoirs 4D à réglage maximal
+- Comprend un coussin lombaire et un coussin cervical confortables
+- Vérin à gaz de classe 4 de haute qualité pour le réglage de la hauteur
+- Assise inclinable avec fonction de verrouillage à tous les angles
 - Chaise de jeu spacieuse, très confortable et réglable en hauteur
-- Assise pivotant entièrement sur 360 °
 - Châssis construit en métal robuste avec roulettes de 65 mm
-- Dossier réglable sur 90-180°
 - Conception ergonomique avec rembourrage haute densité dans l’assise et le dossier
 - Look élégant avec similicuir PU végan, des coutures élégantes et des détails aspect daim
-- Assise inclinable avec fonction de verrouillage à tous les angles
+- Assise pivotant entièrement sur 360 °
+- Dossier réglable sur 90-180°
 
 [🛒 Achète-le!!]({{< param buyurl >}})
