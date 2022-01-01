@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chargez le Sandtrooper et volez avec eux dans la galaxie pour les amener là où vous en avez besoin
 - Comprend 4 figurines : Obi-Wan Kenobi, un shuttlepilote impérial, un robot de sable et un guide de sable ainsi que R2-D2!
 - Léquipement comprend un pistolet blaster, 2 blasters et un sabre laser Obi-Wan
-- Le rail datterrissage impérial dispose de ailes pivotantes pour le mode avion/pays, 2 shooters, un train, une mini-figurines de cockpit rabattable et des panneaux de toit rabattables avec rampe extensible et beaucoup despace pour placer ou poser vos figurines dans le coffre
 - À associer avec le kit Mos Eisley Cantina (75205) pour vivre des aventures passionnantes sur Tatooine
+- Le rail datterrissage impérial dispose de ailes pivotantes pour le mode avion/pays, 2 shooters, un train, une mini-figurines de cockpit rabattable et des panneaux de toit rabattables avec rampe extensible et beaucoup despace pour placer ou poser vos figurines dans le coffre
+- Chargez le Sandtrooper et volez avec eux dans la galaxie pour les amener là où vous en avez besoin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
