@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Ensemble de Construction  modèle à Collectionner avec présentoir  Collection L attaque des Clones'
-date: 2021-12-30 10:08:20
+date: 2022-01-01 09:39:49
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '18.33'
-average: '90.065442176871'
+average: '90.0833710407242'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce modèle à collectionner inspiré de Star Wars : LAttaque des clones constitue un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
+- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 - Le personnage de Yoda LEGO Star Wars avec son sabre laser mesure plus de 41 cm de haut.
 - Comprend de nombreux détails : une tête et des sourcils mobiles, des doigts et des orteils articulés, le sabre laser vert de Yoda, ainsi qu’une plaque descriptive avec des informations sur le Maître Jedi et un présentoir pour la figurine de Yoda incluse.
-- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
