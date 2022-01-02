@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Catalog#: 06007 5334636
-- Year Of Release: 2011
 - Record Label: Mercury
 - Country Of Release: NLD
+- Catalog#: 06007 5334636
+- Year Of Release: 2011
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

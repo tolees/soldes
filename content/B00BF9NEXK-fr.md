@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions :: 2.6 centimeters
 - Contenu halogène optimal pour des températures élevées
-- Consommation d’énergie – 40 kWh/1000h (consommation énergétique moyenne pour une année) / Durée de vie — jusqu’à 2.000 heures pour 50.000 cycles d’allumage.
+- Dimensions :: 2.6 centimeters
 - Ampoule pour le four, dimmable, jusqu’à 200°C.
 - Dimensions : 150 x 2,6 x 2,6 cm
 - Inclus dans la livraison : 1 x ampoule four 40W / culot G9 / Lampe de four avec culot à broches — 100% sans mercure – de haute qualité OSRAM
-- Dimensions :; 2.6 centimeters
 - Diamètre de 14,0 mm / Longueur 43,0 mm / Forme de l’ébauche T13,3
+- Consommation d’énergie – 40 kWh/1000h (consommation énergétique moyenne pour une année) / Durée de vie — jusqu’à 2.000 heures pour 50.000 cycles d’allumage.
+- Dimensions :; 2.6 centimeters
 
 [🛒 Achète-le!!]({{< param buyurl >}})

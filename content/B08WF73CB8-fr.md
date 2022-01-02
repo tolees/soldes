@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robe: Vive, d’un rouge profond
 - Le dernier de la lignée Lestac avec une AOC Haut-Médoc élaboré dans la tradition et le respect de ce vignoble centenaire
-- Region: vin rouge de Bordeaux, Appellation: Haut Médoc
-- Bouche : Attaque soyeuse et un corps souple; Les tanins affirment leur origine médocaine dans une harmonie faite de puissance et de rondeur;
+- Robe: Vive, d’un rouge profond
 - Nez: Belle intensité; Il révèle de jolis parfums de fruits rouges et noirs pleins de maturité et agréablement nuancés par des notes boisées
+- Bouche : Attaque soyeuse et un corps souple; Les tanins affirment leur origine médocaine dans une harmonie faite de puissance et de rondeur;
+- Region: vin rouge de Bordeaux, Appellation: Haut Médoc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
