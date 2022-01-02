@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUIVI AVANCÉ DU SOMMEIL - cycles de sommeil, Score de sommeil et détection des ronflements
 - MAISON CONNECTÉE - sleep Analyzer peut être utilisé pour interagir avec vos objets connectés, contrôlez la lumière, la température, votre téléphone et bien plus encore
+- SUIVI AVANCÉ DU SOMMEIL - cycles de sommeil, Score de sommeil et détection des ronflements
+- Dispositif validé lors dune étude clinique à lHôpital Béclère (J Clin Sleep Med. 2021;17(6):1217–1227
 - RAPPORT SANTÉ PARTAGEABLE - partagez facilement votre rapport santé en format PDF avec votre médecin grâce à votre application
-- DÉTECTION DE LAPNÉE DU SOMMEIL - détecte lapnée du sommeil avec une précision de grade médical et détermine sa gravité. Wi-Fi: 2.4 GHz b/g/n WEP/WPA/WPA2
 - RÉSULTATS IMMÉDIATS AU RÉVEIL - synchronisation automatique des données par Wi-Fi au saut du lit
 - UN LABORATOIRE DE SOMMEIL À DOMICILE - développé avec des médecins du sommeil et validé cliniquement
-- FRÉQUENCE CARDIAQUE DE NUIT - suivez votre cœur en continu toute la nuit
 - ALEXA, DEMANDE À WITHINGS - utilisez la Skill Alexa liée à Health Mate pour gérer votre sommeil
 - RIEN À PORTER - glissez-le sous votre matelas une bonne fois pour toute, compatible avec tous les matelas
-- Dispositif validé lors dune étude clinique à lHôpital Béclère (J Clin Sleep Med. 2021;17(6):1217–1227
+- DÉTECTION DE LAPNÉE DU SOMMEIL - détecte lapnée du sommeil avec une précision de grade médical et détermine sa gravité. Wi-Fi: 2.4 GHz b/g/n WEP/WPA/WPA2
+- FRÉQUENCE CARDIAQUE DE NUIT - suivez votre cœur en continu toute la nuit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Funko POP! Est le jouet de lannée Peoples Choice 2018
 - 24 surprises tous les jours jusquau jour de Noël
-- Calendrier de lAvent Funko Pocket POP Dragon Ball Z
 - Do you collect them all?
+- Calendrier de lAvent Funko Pocket POP Dragon Ball Z
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
