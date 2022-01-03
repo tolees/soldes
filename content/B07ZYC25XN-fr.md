@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SW VIN PLAYSET
-- Valeur éducative : imaginer des histoires.
 - Le cadeau parfait pour les fans, filles et garçons de Star Wars.
+- Valeur éducative : imaginer des histoires.
+- SW VIN PLAYSET
 
 [🛒 Achète-le!!]({{< param buyurl >}})

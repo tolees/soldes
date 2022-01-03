@@ -31,7 +31,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Pas d’huile requise, affûtage à sec ou avec de l’eau, construction solide pour une performance sur de nombreuses années et un service fiable.
 - Affûtage plus rapide qu’avec les pierres habituelles grâce à la surface en diamant micronisée monocristalline.
 - et grossière pour l’affûtage dune lame émoussée, ainsi qu’une lime pour les lames dentelées
-- Un cadeau parfait. L’affûteur idéal pour l’utilisation à la maison où à l’atelier, il propose une surface d’affûtage qui remplit les exigences de nombreuses lames.
 - Trois pierres diamant différentes : extra fine pour le polissage et le lustrage d’une lame, fine pour l’affûtage d’une lame tranchante comme un rasoir,
+- Un cadeau parfait. L’affûteur idéal pour l’utilisation à la maison où à l’atelier, il propose une surface d’affûtage qui remplit les exigences de nombreuses lames.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

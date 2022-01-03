@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran 6, 39" Amoled FHD+ lecteur dempreinte sous lécran
-- Qualcomm Snapdragon 710 compatible NFC
-- Batterie haute capacité 4030mAh Chargeur 18W inclut
 - Triple caméra 48 MP boosté pas IA. Caméra Selfie 32 MP boosté par IA
+- Qualcomm Snapdragon 710 compatible NFC
+- Écran 6, 39" Amoled FHD+ lecteur dempreinte sous lécran
+- Batterie haute capacité 4030mAh Chargeur 18W inclut
 
 [🛒 Achète-le!!]({{< param buyurl >}})
