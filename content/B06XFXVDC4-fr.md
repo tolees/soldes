@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yankee Candle bougie jarre parfumée | grande taille | Cachemire délicat | jusqu’à 150 heures de combustion'
-date: 2021-12-31 18:44:51
+date: 2022-01-04 02:24:25
 image: 'https://m.media-amazon.com/images/I/41jopY5Z6wS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B06XFXVDC4-fr Yankee Candle bougie jarre parfumée | grande taille |...'
 sku: 'B06XFXVDC4-fr'
 tags: [ 'Ameublement et décoration','Bougies','Bougies en pot','Bougies et bougeoirs','Cuisine et Maison','Décoration de la maison','yankee candle', ]
-actualPrice: 23.5 EUR
+actualPrice: 19.97 EUR
 currency: EUR
-price: 23.5
+price: 19.97
 comparePrice: 29.9 EUR
 prodname: 'Yankee Candle bougie jarre parfumée | grande taille | Cachemire délicat | jusqu’à 150 heures de combustion'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'YANKEE CANDLE'
 buyurl: 'https://www.amazon.fr/dp/B06XFXVDC4/?tag=tolees0d-21'
-descuento: '21.40'
-average: '24.7'
+descuento: '33.21'
+average: '23.1233333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
-- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
 - Temps de combustion : 110 à 150 heures – Poids : 623 g
-- Les notes luxueuses et apaisantes du bois de santal et du patchouli vous transportent dans une infinie douceur
 - Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
+- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
+- Les notes luxueuses et apaisantes du bois de santal et du patchouli vous transportent dans une infinie douceur
+- Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
