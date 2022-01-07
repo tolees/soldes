@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 150mm largeur
 - longueur 270mm
+- 150mm largeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

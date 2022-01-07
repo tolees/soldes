@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trouvez linspiration grâce à des recommandations personnalisées et sauvegardez les morceaux que vous préférez !
-- Votre jeu + un paire de grip pour joystick de joycon exclusifs, à limage des coachs de Just Dance 2022 ! !
-- Les modes Just Dance préférés des joueurs sont de retour cette année ! Just Dance offre des fonctionnalités pour tous les besoins ; laquelle choisirez-vous ?
-- JUST DANCE 2022 - Édition Amazon pour Nintendo Switch
 - Rejoignez le World Dance Floor et montrez au monde ce dont vous êtes capable !
+- Trouvez linspiration grâce à des recommandations personnalisées et sauvegardez les morceaux que vous préférez !
+- Les modes Just Dance préférés des joueurs sont de retour cette année ! Just Dance offre des fonctionnalités pour tous les besoins ; laquelle choisirez-vous ?
+- Votre jeu + un paire de grip pour joystick de joycon exclusifs, à limage des coachs de Just Dance 2022 ! !
+- JUST DANCE 2022 - Édition Amazon pour Nintendo Switch
 
 [🛒 Achète-le!!]({{< param buyurl >}})
