@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft - Just Dance 2022 - Édition Amazon  Nintendo Switch '
-date: 2022-01-06 23:16:00
+date: 2022-01-08 03:33:55
 image: 'https://m.media-amazon.com/images/I/51Ub92vO90L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rejoignez le World Dance Floor et montrez au monde ce dont vous êtes capable !
+- JUST DANCE 2022 - Édition Amazon pour Nintendo Switch
 - Trouvez linspiration grâce à des recommandations personnalisées et sauvegardez les morceaux que vous préférez !
+- Rejoignez le World Dance Floor et montrez au monde ce dont vous êtes capable !
 - Les modes Just Dance préférés des joueurs sont de retour cette année ! Just Dance offre des fonctionnalités pour tous les besoins ; laquelle choisirez-vous ?
 - Votre jeu + un paire de grip pour joystick de joycon exclusifs, à limage des coachs de Just Dance 2022 ! !
-- JUST DANCE 2022 - Édition Amazon pour Nintendo Switch
 
 [🛒 Achète-le!!]({{< param buyurl >}})
