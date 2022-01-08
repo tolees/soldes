@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Une reconstitution en briques LEGO de lemblématique Gant de l’infini avec ses pierres d’infinité, et un stand robuste avec une tablette descriptive
 - Cet hommage impressionnant à Marvel met en vedette le Gant de Thanos avec des doigts mobiles et des couleurs vibrantes : une vraie pièce décorative intemporelle
 - Les objets de collection Marvel pour adultes sont des cadeaux LEGO Avengers pour tous les amateurs de construction
-- Le gant de Thanos doré capture à jamais le style des films Avengers : Infinity War et Avengers : Endgame des Studios Marvel
 - Affichée dans votre bureau ou à la maison, cette construction LEGO pour adultes sera le centre de lattention et vous vaudra de nombreux commentaires d’admiration
+- Le gant de Thanos doré capture à jamais le style des films Avengers : Infinity War et Avengers : Endgame des Studios Marvel
 
 [🛒 Achète-le!!]({{< param buyurl >}})

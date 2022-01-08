@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kickers MEETICKZIP  Chaussure à Talon Femme  Noir SEM Noir  37 EU'
-date: 2022-01-06 23:15:41
+date: 2022-01-07 23:54:36
 image: 'https://m.media-amazon.com/images/I/41Wt7KMmvuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Kickers'
 buyurl: 'https://www.amazon.fr/dp/B08WJG7LFK/?tag=tolees0d-21'
 descuento: '40.00'
-average: '98.9'
+average: '95.7333333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 814384-50-82
-- MEETICKZIP
 - NOIR SEM NOIR
+- MEETICKZIP
+- 814384-50-82
 
 [🛒 Achète-le!!]({{< param buyurl >}})

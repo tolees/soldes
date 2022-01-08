@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans PM501594 T- Shirt Homme - Gris  Grey Marl  - XXL'
-date: 2022-01-06 23:10:07
+date: 2022-01-07 23:47:13
 image: 'https://m.media-amazon.com/images/I/312Y8XMt0GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches courtes.
 - T-shirt basique pour homme.
-- Logo imprimé devant
 - SLIM
 - Col rond.
+- Logo imprimé devant
+- Manches courtes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
