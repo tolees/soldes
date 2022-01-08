@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 tapis de découpe réutilisable , 30,5 cm x 61 cm (12" x 24")
-- Découpez tous les éléments essentiels, du papier délicat aux matériaux spécialisés plus lourds
 - Pour les machines Cricut Maker et Cricut Explore
+- Découpez tous les éléments essentiels, du papier délicat aux matériaux spécialisés plus lourds
 - Formulé pour la meilleure adhésion et la plus longue durée de vie possibles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

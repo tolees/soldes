@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- T-shirt basique pour homme.
-- SLIM
 - Col rond.
-- Logo imprimé devant
 - Manches courtes.
+- SLIM
+- Logo imprimé devant
+- T-shirt basique pour homme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

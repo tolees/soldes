@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOIR SEM NOIR
-- MEETICKZIP
 - 814384-50-82
+- MEETICKZIP
+- NOIR SEM NOIR
 
 [🛒 Achète-le!!]({{< param buyurl >}})

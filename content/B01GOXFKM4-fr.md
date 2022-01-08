@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le colonel Steve Austin est un astronaute dont la capsule sécrase apres le décollage. Grievement blessé, certaines parties de son corps, dont le bras droit, les jambes et loeil gauche, sont remplacés par des protheses électroniques qui améliorent considérablement ses performances physiques
 - filtre
+- Le colonel Steve Austin est un astronaute dont la capsule sécrase apres le décollage. Grievement blessé, certaines parties de son corps, dont le bras droit, les jambes et loeil gauche, sont remplacés par des protheses électroniques qui améliorent considérablement ses performances physiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

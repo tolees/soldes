@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système audio ASTRO : les casques ASTRO sont spécialement conçus pour le gaming. Ce système audio offre un large spectre de fréquences naturelles & fluides pour une sensation précise & immersive
 - Compatibilité multiplateforme : un seul casque pour tous vos jeux et besoins audio. Cet accessoire de gaming est compatible avec les consoles PS4, Xbox One, Switch, les PC, Mac et smartphones
-- Confort longue durée : conçu pour les sessions marathon de gaming, le casque filaire A10 sadapte confortablement à tous les casques VR
-- Compatible avec la Xbox Series X|S en utilisant le port 3.5mm situé sur la manette de jeu
-- Compatible avec la Xbox Series X|S en utilisant le port 3.5mm situé sur la manette de jeu
-- Microphone avec fonction sourdine : le micro unidirectionnel avec fonction sourdine Flip-up vous permet de communiquer clairement avec les membres de votre équipe
 - Conception durable : le casque gamer A10 résiste à toutes les situations, grâce à sa conception légère et solide avec des matériaux de qualité supérieure pour un maintien & un port confortable
+- Microphone avec fonction sourdine : le micro unidirectionnel avec fonction sourdine Flip-up vous permet de communiquer clairement avec les membres de votre équipe
+- Compatible avec la Xbox Series X|S en utilisant le port 3.5mm situé sur la manette de jeu
+- Compatible avec la Xbox Series X|S en utilisant le port 3.5mm situé sur la manette de jeu
+- Confort longue durée : conçu pour les sessions marathon de gaming, le casque filaire A10 sadapte confortablement à tous les casques VR
+- Système audio ASTRO : les casques ASTRO sont spécialement conçus pour le gaming. Ce système audio offre un large spectre de fréquences naturelles & fluides pour une sensation précise & immersive
 
 [🛒 Achète-le!!]({{< param buyurl >}})

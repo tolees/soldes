@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Surface polie
-- Étriers fixes forgés spécialement pour les écrous 12 x 8 mm
 - Poignée en bois à forme ergonomique
+- Étriers fixes forgés spécialement pour les écrous 12 x 8 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

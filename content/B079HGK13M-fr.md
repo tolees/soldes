@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Elément filtrant en fibres de verre – élimine bactéries, giardia et cryptosporidium
 - Nouveau boitier transparent pour une meilleure visibilité
 - Raccords de branchement rapide – mise en place facile des tuyaux d‘entrée et de sortie
 - Protection de filtre nettoyable – prolonge la durée de vie de la cartouche
+- Elément filtrant en fibres de verre – élimine bactéries, giardia et cryptosporidium
 - Cartouche granulés de charbon actif – réduit le goût désagréable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
