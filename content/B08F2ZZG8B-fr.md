@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microïds - Agatha Christie ABC Murder  Nintendo Switch '
-date: 2021-12-31 13:39:43
+date: 2022-01-09 20:17:59
 image: 'https://m.media-amazon.com/images/I/41XBJ3Y5qfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Vous devrez collecter des informations en examinant les suspects et en analysant leur témoignage et leur attitude
 - Vous devrez résoudre des énigmes pour obtenir plus dindices, en fonction des indices collectés, vous pourrez faire déductions et en savoir plus sur le meurtrier
-- Agatha Christie ABC Murder : Une aventure où votre intelligence est votre meilleure arme pour surmonter tous les défis qui vous font face
 - Au cours de votre progression dans lhistoire et au fil de vos conclusions, vous pourrez utiliser la chronologie de Poirot construite avec tous les événements pertinents révélée lors de lenquête
+- Agatha Christie ABC Murder : Une aventure où votre intelligence est votre meilleure arme pour surmonter tous les défis qui vous font face
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
