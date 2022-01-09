@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bessey GTR30B6 Étau de table tout en acier GTR  Gris/Rouge 300/60 mm'
-date: 2022-01-07 23:47:56
+date: 2022-01-08 23:51:10
 image: 'https://m.media-amazon.com/images/I/41x2fItvMlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Surface polie
 - Poignée en bois à forme ergonomique
 - Étriers fixes forgés spécialement pour les écrous 12 x 8 mm
+- Surface polie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
