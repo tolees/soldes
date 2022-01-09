@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ventilateur colonne couleur noire mat tendance- format compact
-- Puissance 40 w
 - Débit dair 240 m3/h-oscillation-3 vitesses
-- Hauteur 75 cm
+- Puissance 40 w
+- Ventilateur colonne couleur noire mat tendance- format compact
 - Fonctionnement silencieux:44 db
+- Hauteur 75 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

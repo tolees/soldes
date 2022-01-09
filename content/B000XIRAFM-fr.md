@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignées dérivant lélectricité statique – dissipative
 - Pinces de précision pour les travaux de montage très précis, par ex., dans les domaines de lélectronique et de la mécanique de précision
-- Charnière vissée: mouvement de la pince précis et sans jeu
+- Poignées dérivant lélectricité statique – dissipative
 - Pour saisir, tenir et plier
 - Une gamme pour les exigences les plus strictes en termes de performance et de résultat
+- Charnière vissée: mouvement de la pince précis et sans jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

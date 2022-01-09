@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultat : le peigne glisse facilement, même sur les cheveux les plus longs
 - Lamande douce est un ingrédient dorigine naturelle connu pour ses vertus adoucissantes et nourrissantes
 - Appliquer sur cheveux humides, faire mousser puis rincer abondamment
+- Résultat : le peigne glisse facilement, même sur les cheveux les plus longs
 - Shampooing très doux 2-en-1 à lamande douce pour démêler et protéger tous types de cheveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

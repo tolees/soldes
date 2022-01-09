@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecran PC Gaming Incurvé 1000R 49
-- Taux de rafraichissement : 240Hz
 - Temps de réponse: 1 ms
 - Résolution DWQHD : 5120 x 1440 pixels
 - Technologies GSYNC Compatible / AMD FreeSync Premium Pro
+- Ecran PC Gaming Incurvé 1000R 49
+- Taux de rafraichissement : 240Hz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

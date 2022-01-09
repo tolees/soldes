@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour conduire REMS en appuyant sur les pinces/pressage sonne et pressage adapté pinces/pressage bagues provenant dautres fabricants.
-- Pince à pression Locator avec verrouillage automatique.
-- Électrique radiale Appuyez sur la touche pour la production dinterférences sadapte Ø 10-108 mm.
-- Transmission électro-mécanique éprouvée moteur universel 230 V, 50-60 Hz, 450 W, transmission sans entretien avec pochette de sécurité et système dalimentation avec vis trapézoïdale, interrupteur de Conseil de sécurité.
 - Le boîtier métallique REMS en acier
+- Transmission électro-mécanique éprouvée moteur universel 230 V, 50-60 Hz, 450 W, transmission sans entretien avec pochette de sécurité et système dalimentation avec vis trapézoïdale, interrupteur de Conseil de sécurité.
+- Pince à pression Locator avec verrouillage automatique.
+- Pour conduire REMS en appuyant sur les pinces/pressage sonne et pressage adapté pinces/pressage bagues provenant dautres fabricants.
+- Électrique radiale Appuyez sur la touche pour la production dinterférences sadapte Ø 10-108 mm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Item Package Quantity: 1
-- Model Number: 5026555360036
 - Package Weight: 110 grams
 - Package Dimensions (L x B x H) in cm: 1.5 x 13.6 x 17.2
+- Model Number: 5026555360036
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

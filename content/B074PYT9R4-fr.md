@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Zigbee : boutons personnalisables via une passerelle compatible (non incluse) ; chaque touche a deux fonctions configurables (pression courte ou pression longue)
-- Associez jusquà 10 ampoules OSRAM Smart+ (en direct) sur une seule télécommande, Passerelle et smartphone non obligatoires,
 - Télécommande nomade ou interrupteur mural facile à installer grâce à sa fixation aimantée
+- Associez jusquà 10 ampoules OSRAM Smart+ (en direct) sur une seule télécommande, Passerelle et smartphone non obligatoires,
+- Technologie Zigbee : boutons personnalisables via une passerelle compatible (non incluse) ; chaque touche a deux fonctions configurables (pression courte ou pression longue)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
