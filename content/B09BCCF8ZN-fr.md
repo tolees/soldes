@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kalypso Media - DISCIPLES LIBERATION DELUXE EDITION'
-date: 2022-01-02 18:17:18
+date: 2022-01-11 00:42:46
 image: 'https://m.media-amazon.com/images/I/51gokd0zW8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une campagne solo de plus de 80 heures: vivez une histoire épique de dark fantasy en trois actes, avec plus de 270 quêtes et cinq fins uniques
 - Défiez des boss redoutables: mettez votre courage à lépreuve contre des monstres et des bêtes horribles, chacun nécessitant une stratégie unique
-- Tout est une question de choix: laissez vos décisions guider votre destin et influencer directement le leader que vous deviendrez
-- La Deluxe Edition comprend tout ce dont vous avez besoin pour approfondir votre voyage. Celle-ci contient deux ensembles darmure uniques, deux armes, un fragment démotion pour Avyanna, fonds décran, un compendium numérique, la bande originale et deux packs : Pack de ressources de Yilian : obtenez des ressources supplémentaires pour bâtir votre base, Pack avec 5 points de compétence supplémentaires : obtenez des points de compétence supplémentaires pour Avyanna
 - Affrontez vos amis: relevez le défi ultime et luttez pour la suprématie dans des escarmouches en ligne à deux joueurs
+- La Deluxe Edition comprend tout ce dont vous avez besoin pour approfondir votre voyage. Celle-ci contient deux ensembles darmure uniques, deux armes, un fragment démotion pour Avyanna, fonds décran, un compendium numérique, la bande originale et deux packs : Pack de ressources de Yilian : obtenez des ressources supplémentaires pour bâtir votre base, Pack avec 5 points de compétence supplémentaires : obtenez des points de compétence supplémentaires pour Avyanna
+- Une campagne solo de plus de 80 heures: vivez une histoire épique de dark fantasy en trois actes, avec plus de 270 quêtes et cinq fins uniques
+- Tout est une question de choix: laissez vos décisions guider votre destin et influencer directement le leader que vous deviendrez
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD BLACK D50 NVMe SSD Game Dock  2 To. 2 x ports Thunderbolt 3  2 x ports USB-C  3 x ports USB-A    jusqu à 3 000 Mo/s en lecture et 2 500 Mo/s en écriture'
-date: 2022-01-06 23:15:15
+date: 2022-01-11 00:42:49
 image: 'https://m.media-amazon.com/images/I/51vF6AbIt8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 87 watts de chargement pass-through pour votre ordinateur portable compatible Thunderbolt 3 via le câble inclus pour rester dans le jeu en permanence
-- Une capacité allant jusquà 2 To, pouvant contenir jusquà 50 jeux
+- Disque SSD NVMe ultra-rapide avec des vitesses de lecture/écriture allant jusquà 3 000/2 500 Mo/s
 - Éclairage RVB personnalisable avec 13 effets de motifs LED programmables grâce à notre tableau de bord WD_BLACK (Windows uniquement)
 - Connectivité avancée avec un seul câble Thunderbolt 3 pour une station rationalisée : 2 x ports Thunderbolt 3, DisplayPort 1.4, 2x ports USB-C 10 Gb/s, 3 x ports USB-A 10 Gb/s, entrée/sortie audio et Gigabit Ethernet
-- Disque SSD NVMe ultra-rapide avec des vitesses de lecture/écriture allant jusquà 3 000/2 500 Mo/s
+- Une capacité allant jusquà 2 To, pouvant contenir jusquà 50 jeux
+- Jusquà 87 watts de chargement pass-through pour votre ordinateur portable compatible Thunderbolt 3 via le câble inclus pour rester dans le jeu en permanence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
