@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SOIN NETTOYANT RELAXANT - LUNA mini 2 nettoie et élimine jusquà 99,5% des impuretés et de l’excès de sébum pendant chaque routine de nettoyage relaxante. Révélez une peau plus nette, plus douce et plus saine en seulement trois jours, le tout depuis chez vous.
-- GARANTIE DE 2 ANS – FOREO garantit cet appareil pour une période de DEUX (2) ANS à partir de la date d’achat contre les défauts de fabrication ou matériaux survenant au cours d’une utilisation normale de l’appareil.
-- PAS DE REMPLACEMENT DES TÊTES DE BROSSE – Pourquoi gaspiller de l’argent dans des têtes de brosse de remplacement hors de prix ? Avec LUNA mini 2, il ny a absolument aucun coûts cachés. Son design suédois élégant est 100% étanche et permet 300 utilisations avec une seule charge. C’est l’investissement le plus intelligent pour prendre soin de votre peau.
 - DOUCE ET ULTRA-HYGIÉNIQUE - Avec des picots en silicone incroyablement doux, lappareil est hypoallergénique, non poreux pour résister à laccumulation de bactéries et 35 fois plus hygiénique que les brosses de nettoyage en nylon classique.
+- PAS DE REMPLACEMENT DES TÊTES DE BROSSE – Pourquoi gaspiller de l’argent dans des têtes de brosse de remplacement hors de prix ? Avec LUNA mini 2, il ny a absolument aucun coûts cachés. Son design suédois élégant est 100% étanche et permet 300 utilisations avec une seule charge. C’est l’investissement le plus intelligent pour prendre soin de votre peau.
+- GARANTIE DE 2 ANS – FOREO garantit cet appareil pour une période de DEUX (2) ANS à partir de la date d’achat contre les défauts de fabrication ou matériaux survenant au cours d’une utilisation normale de l’appareil.
+- SOIN NETTOYANT RELAXANT - LUNA mini 2 nettoie et élimine jusquà 99,5% des impuretés et de l’excès de sébum pendant chaque routine de nettoyage relaxante. Révélez une peau plus nette, plus douce et plus saine en seulement trois jours, le tout depuis chez vous.
 - RITUEL SPA DANS VOTRE MAIN - LUNA mini 2 utilise la puissance des pulsations T-Sonic pour nettoyer efficacement en profondeur la peau. Avec 8 intensités réglables et 3 types de picots, elle convient à tous les types de peau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

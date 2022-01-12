@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lenfant compose 90 mots différents en complétant les planches à laide des jetons lettres. Une seule lettre simbrique : cest la bonne!
+- Avec japprends à lire, lenfant apprend rapidement à lire et écrire des mots simples de 5 lettres maximum.
+- Lautocorrection permet à lenfant de jouer de façon autonome : chaque lettre présente une couleur, un revers différents et ne simbrique quà 1 place
 - Un jeu dapprentissage pour la lecture très facilement abordable dès lâge de 5 ans, pour les filles et les garçons.
 - Une mallette pratique : le jeu peut être emporté partout facilement et tous les jetons sont rangés.
-- Lautocorrection permet à lenfant de jouer de façon autonome : chaque lettre présente une couleur, un revers différents et ne simbrique quà 1 place
-- Avec japprends à lire, lenfant apprend rapidement à lire et écrire des mots simples de 5 lettres maximum.
-- Lenfant compose 90 mots différents en complétant les planches à laide des jetons lettres. Une seule lettre simbrique : cest la bonne!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
