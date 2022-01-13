@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légèreté compétitive de 85 g et durabilité accrue
 - Disposition ergonomique programmable à 9 boutons avec 5 boutons latéraux à action rapide
+- Légèreté compétitive de 85 g et durabilité accrue
+- ideal pour tous les jeux de type Battle Royale, FPS, MOBA, MMO et autres jeux à action rapide
 - Capteur optique gaming de précision TrueMove Air avec un vrai suivi 1 à 1
 - Interrupteurs Golden Micro IP54 de ideale génération
-- ideal pour tous les jeux de type Battle Royale, FPS, MOBA, MMO et autres jeux à action rapide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le micro intégré permet de bénéficier d’une fonctionnalité mains-libres et d’une portée sans fil d’environ 9 m pour les appels personnels ou les conférences téléphoniques
-- Le micro intégré permet de bénéficier d’une fonctionnalité mains-libres et d’accéder aux assistants numériques tels que Siri ou l’Assistant Google
-- Enceinte Bluetooth SoundLink Color II
 - Avec son revêtement en silicone doux au toucher, cette enceinte robuste se transporte facilement et vous suit partout
-- Grâce à sa technologie innovante, Bose propose une petite enceinte résistante aux projections d’eau et capable de diffuser un son exceptionnel
-- L’appairage Bluetooth n’a jamais été aussi simple et rapide grâce aux invites vocales et à la fonctionnalité NFC
 - La batterie lithium-ion rechargeable via un port USB offre jusqu’à 8 heures d’autonomie
+- Grâce à sa technologie innovante, Bose propose une petite enceinte résistante aux projections d’eau et capable de diffuser un son exceptionnel
+- Le micro intégré permet de bénéficier d’une fonctionnalité mains-libres et d’accéder aux assistants numériques tels que Siri ou l’Assistant Google
+- L’appairage Bluetooth n’a jamais été aussi simple et rapide grâce aux invites vocales et à la fonctionnalité NFC
+- Enceinte Bluetooth SoundLink Color II
 
 [🛒 Achète-le!!]({{< param buyurl >}})
