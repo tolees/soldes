@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisez le suivi continu de la fréquence cardiaque pour mieux mesurer vos calories brulées, ajuster votre effort pendant le sport, observer lévolution de votre fréquence cardiaque au repos
-- Utilisez amazon alexa intégré pour suivre l’actualité, consulter la météo, définir des invitations à aller vous coucher et des alarmes, contrôler vos appareils domestiques connectés
-- Découvrez vos stat dexercice en temps réel et consultez lheure même quand vous avez les mains prises Désactivez le mode Affichage permanent pour plus de discrétion
-- Contrôlez votre app spotify et ajoutez des playlists deezer Stockez également plus de 300 morceaux de musique ? ?Couter directement au poignet Abonnements requis
-- Restez connecté à lessentiel en choisissant vos notifications: appel, sms, calendrier, réseaux sociaux (fonctionne lorsque votre smartphone est à proximité)
-- Découvrez la qualité de chaque nuit de sommeil en mesurant fréquence cardiaque, durée du sommeil et des phases déveil, temps passé en sommeil lèger, profond, paradoxal et agitation
 - Compatibilité iOS et Android
+- Restez connecté à lessentiel en choisissant vos notifications: appel, sms, calendrier, réseaux sociaux (fonctionne lorsque votre smartphone est à proximité)
+- Découvrez vos stat dexercice en temps réel et consultez lheure même quand vous avez les mains prises Désactivez le mode Affichage permanent pour plus de discrétion
+- Utilisez le suivi continu de la fréquence cardiaque pour mieux mesurer vos calories brulées, ajuster votre effort pendant le sport, observer lévolution de votre fréquence cardiaque au repos
+- Découvrez la qualité de chaque nuit de sommeil en mesurant fréquence cardiaque, durée du sommeil et des phases déveil, temps passé en sommeil lèger, profond, paradoxal et agitation
+- Contrôlez votre app spotify et ajoutez des playlists deezer Stockez également plus de 300 morceaux de musique ? ?Couter directement au poignet Abonnements requis
+- Utilisez amazon alexa intégré pour suivre l’actualité, consulter la météo, définir des invitations à aller vous coucher et des alarmes, contrôler vos appareils domestiques connectés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

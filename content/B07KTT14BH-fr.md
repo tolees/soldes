@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage de larticle: 9.7 L x 27.4 H x 21.0 W (centimeters)
-- H.264 - Microphone intégré
 - Enregistrez des vidéos dans votre stockage cloud personnel ou avec le logement intégré pour cartes microSD
-- Périphérique gaming
-- Couleur: Blanc
+- H.264 - Microphone intégré
 - Norme IEEE sans fil: 802.11b/g/n
+- Dimensions de lemballage de larticle: 9.7 L x 27.4 H x 21.0 W (centimeters)
+- Couleur: Blanc
+- Périphérique gaming
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

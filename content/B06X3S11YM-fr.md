@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Elle ausculte lanimal à laide dun appareil de radiographie mobile quelle transporte dans le grand coffre de son véhicule.
 - Avec son véhicule, la vétérinaire file à toute allure pour intervenir lors dune urgence : un poulain hanovrien est blessé !
 - Pour que le poulain guérisse rapidement, elle lui injecte un médicament quelle avait dans sa trousse de médecin et enregistre le diagnostic sur son ordinateur portable.
 - Avec son appareil de radiographie moderne, la vétérinaire peut vérifier si le cheval sest cassé un os.
 - 1x voiture 1x femme vétérinaire 1x poulain hanovrien 1x trousse de médecin 1x stéthoscope 1x seringue 1x bouteille de médicament 1x ordinateur portable
-- Elle ausculte lanimal à laide dun appareil de radiographie mobile quelle transporte dans le grand coffre de son véhicule.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

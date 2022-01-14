@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Instantanés et clips vidéo - lemplacement pour carte microSD intégré et labonnement gratuit / payant au cloud mydlink vous permettent de stocker des vidéos et des instantanés localement ou à distance sur un stockage Cloud
-- Audio bidirectionnel - vous permettant découter et de parler via votre appareil mobile
 - Panoramique et inclinaison motorisés - fournissent un angle de vue horizontal de 340 ° et vertical de 100 ° pour couvrir une pièce entière en Full HD 1080p
 - Détection intelligente des personnes - distinguez les personnes des autres objets en mouvement pour réduire considérablement les fausses alarmes
+- Audio bidirectionnel - vous permettant découter et de parler via votre appareil mobile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

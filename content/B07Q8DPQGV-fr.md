@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Expérience la plus immersive à ce jour pour découvrir la nouvelle approche de la célèbre série de golf, En exclusivité sur PlayStation
 - 12 unité(s) de cet article soldée(s) à partir du 12 janvier 2022 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Jeu de sport Everybodys Golf sur PS VR, Pour de parties de golf sous un angle nouveau et de façon immersive grâce à léxpérience VR, Pour les fans de jeux de sports et de réalité virtuelle
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Compatibilités : consoles PS4, PS4 Pro et PSVR, Accessoires PSVR obligatoires : PlayStation Casque VR, PlayStation Camera et manette sans fil DUALSHOCK4 ou manettes PlayStation Move pour une expérience de réalité virtuelle à son maximum
+- Jeu de sport Everybodys Golf sur PS VR, Pour de parties de golf sous un angle nouveau et de façon immersive grâce à léxpérience VR, Pour les fans de jeux de sports et de réalité virtuelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

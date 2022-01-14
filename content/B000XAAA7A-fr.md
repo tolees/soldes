@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Toutes les fonctions de base sont réunies pour des prises de vue au quotidien. Objectif grand angle avec zoom 14x à forte puissance et une distance focale équivalente de 27-375 mm
-- Objectif zoom à fort agrandissement
 - Lentille asphérique avec verre ED
 - Type A, APS-C
+- Objectif zoom à fort agrandissement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
