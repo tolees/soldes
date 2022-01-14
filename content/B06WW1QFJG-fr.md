@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Collector’s Edition contient : Le jeu original dans une boîte avec un fourreau cartonné. Des cartes de 4 personnages. Un sticker du Fulgor. Un code pour la bande son du jeu
-- Lorsque vous trouvez un équipement compatible avec chacun de vos personnages, vous pouvez débloquer et améliorer de nouvelles compétences
-- Voyagez entre enclaves militaires et donjons médiévaux. Vous pourrez y chercher Fulgor, un nouvel équipement pour vos personnages, des informations sur le monde dans lequel vous vous trouvez
-- Combattez contre 3 factions, chacune avec ses unités, ses stratégies et ses avantages uniques et spécifiques. Soldats, tireurs d’élite, bandits instables, chevaliers immunisés contre le froid…
 - Utilisez tout le Fulgor que vous pouvez trouver pour geler vos points de vie, diminuer les temps de recharge et réanimer vos unités tombées
+- Voyagez entre enclaves militaires et donjons médiévaux. Vous pourrez y chercher Fulgor, un nouvel équipement pour vos personnages, des informations sur le monde dans lequel vous vous trouvez
+- Lorsque vous trouvez un équipement compatible avec chacun de vos personnages, vous pouvez débloquer et améliorer de nouvelles compétences
+- La Collector’s Edition contient : Le jeu original dans une boîte avec un fourreau cartonné. Des cartes de 4 personnages. Un sticker du Fulgor. Un code pour la bande son du jeu
+- Combattez contre 3 factions, chacune avec ses unités, ses stratégies et ses avantages uniques et spécifiques. Soldats, tireurs d’élite, bandits instables, chevaliers immunisés contre le froid…
 
 [🛒 Achète-le!!]({{< param buyurl >}})

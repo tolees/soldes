@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Remplacez la brosse tous les 3 mois afin de garantir des performances et une hygiène maximales
+- La brosse exfoliante Braun Face débarrasse délicatement l’épiderme de ses cellules mortes pour un grain de peau affiné
 - Spécialement conçue pour une utilisation avec la brosse Braun Face, elle complétera parfaitement votre rituel de soin du visage
 - Adaptée à un usage hebdomadaire des peaux normales ou à tendance grasse
-- La brosse exfoliante Braun Face débarrasse délicatement l’épiderme de ses cellules mortes pour un grain de peau affiné
-- Remplacez la brosse tous les 3 mois afin de garantir des performances et une hygiène maximales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

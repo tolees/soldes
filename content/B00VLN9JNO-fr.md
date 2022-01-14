@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 % coton
-- Coupe Regular
 - Manches courtes
-- Logo imprimé sérigraphié sur l’avant
+- Coupe Regular
 - Col rond
+- 100 % coton
+- Logo imprimé sérigraphié sur l’avant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

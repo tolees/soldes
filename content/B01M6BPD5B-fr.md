@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le capteur infrarouge est lui aussi pivotable de 180° à la verticale et de 90° à la horizontale et peut atteindre une portée de 10 m
-- Le système de refroidisssement integré en HCMC (High Conductive Magnesium Composite) prolonge la durée du vie des LED à 50.000 h
 - Avec une consommation de seulement 19,3 W et une luminosité de 2124 lm le projecteur éclaire des voies daccess, des cours, des jardins et des terasses
+- Le système de refroidisssement integré en HCMC (High Conductive Magnesium Composite) prolonge la durée du vie des LED à 50.000 h
 - Nouveau: Le panneau LED pivotant du projecteur est orientable à 180°, il est ainsi possible de lajuster dans tous les sens
 - Réglage facile et rapide de la minuterie (8 sec. - 35 min.) et de la luminosité de déclenchement (2-2000 lx) en bas du détecteur
 

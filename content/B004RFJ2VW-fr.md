@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Principes actifs dorigine végétale, aux huiles essentielles
-- Nettoyant Ecrans LCD / Plasma Biodégradable
-- Sans Phosphate, sans Phtalate, sans éther de glycol, sans Formaldéhyde
 - Ne laisse pas de traces
+- Principes actifs dorigine végétale, aux huiles essentielles
 - Bouteille 500 mL
+- Sans Phosphate, sans Phtalate, sans éther de glycol, sans Formaldéhyde
+- Nettoyant Ecrans LCD / Plasma Biodégradable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
