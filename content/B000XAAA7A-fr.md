@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Objectif SAL-18250 Monture A APS-C 18-250 mm F3.5-6.3'
-date: 2022-01-13 21:23:16
+date: 2022-01-15 14:20:54
 image: 'https://m.media-amazon.com/images/I/41Sc0097XGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B000XAAA7A/?tag=tolees0d-21'
 descuento: '50.83'
-average: '387.105'
+average: '372.81'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -30,7 +30,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Toutes les fonctions de base sont réunies pour des prises de vue au quotidien. Objectif grand angle avec zoom 14x à forte puissance et une distance focale équivalente de 27-375 mm
 - Lentille asphérique avec verre ED
-- Type A, APS-C
 - Objectif zoom à fort agrandissement
+- Type A, APS-C
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars - Assaut sur l Empire - Extension : Leia Organa - Asmodee - Jeu de société - Jeu d aventures - Jeu de figurines'
-date: 2022-01-14 01:18:49
+date: 2022-01-15 14:23:05
 image: 'https://m.media-amazon.com/images/I/51yatDYfv6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Multicolore
-- Nombre de joueurs: 2 à 5 joueurs
-- Durée de jeu: 1 à 2 heures
 - Age: a partir de 14 ans
+- Couleur: Multicolore
+- Durée de jeu: 1 à 2 heures
+- Nombre de joueurs: 2 à 5 joueurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
