@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 35h découte sans fil en Bluetooth. Recharge rapide (10mn pour 1h découte) via USB-C
 - Prise dappels et commandes de la musique sur loreillette tactile ou via lapplication.
-- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
-- Nouvelle fonction "Auto Power off" via lapplication
 - Le plaisir de la musique sans fil et sans bruit extérieur grâce aux technologies intégrées Bluetooth et Réduction de bruit active
+- Jusquà 35h découte sans fil en Bluetooth. Recharge rapide (10mn pour 1h découte) via USB-C
 - Fonction Quick Attention pour réduire le volume de votre musique et amplifier les sons environnants
+- Nouvelle fonction "Auto Power off" via lapplication
+- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

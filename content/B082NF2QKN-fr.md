@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une escouade à votre image: créez, personnalisez et contrôlez jusqu’à 6 rangers du désert
-- Une histoire immersive : les décisions que vous prenez en jeu influent sur le cours de l’histoire ! découvrez un scénario complexe et travaillé intégralement doublé en français.
 - Prenez les armes seul ou accompagné : pour la première fois dans l’histoire de la franchise, jouez seul ou en coopération avec un ami !
+- Une histoire immersive : les décisions que vous prenez en jeu influent sur le cours de l’histoire ! découvrez un scénario complexe et travaillé intégralement doublé en français.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

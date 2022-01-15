@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age: a partir de 14 ans
 - Couleur: Multicolore
 - Durée de jeu: 1 à 2 heures
 - Nombre de joueurs: 2 à 5 joueurs
+- Age: a partir de 14 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

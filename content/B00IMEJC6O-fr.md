@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du produit seul : 251 mm x 167 mm x 305 mm
 - Technologie T DISC unique et brevetée. Le système ajuste automatiquement le volume deau, la température, le temps de préparation et sarrête automatiquement lorsque la boisson est prête.
 - SmartStart : permet de lancer la préparation de la boisson en appuyant avec sa tasse sur le fond de la machine
-- Dimensions du produit seul : 251 mm x 167 mm x 305 mm
 - Support de tasses amovible et ajustable en hauteur
 - Réservoir deau grande capacité : 0.8 l
 

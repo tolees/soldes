@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intérieure amovible : true
-- Doublure : mesh
-- Semelle intérieure : cuir
-- Dessus : cuir - daim
 - Matériau de semelle : caoutchouc gomme
+- Dessus : cuir - daim
 - Type de talons : plat
+- Semelle intérieure : cuir
+- Doublure : mesh
 
 [🛒 Achète-le!!]({{< param buyurl >}})
