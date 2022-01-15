@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une ardoise magique parlante et musicale !
+- 26 touches pour découvrir les lettres
 - Lenfant apprend à tracer les lettres majuscules et minuscules en suivant les instructions données à voix haute
 - Ecran interactif affichant des animations amusantes et le tracé des lettres
 - 25 mélodies et des sons amusants
-- 26 touches pour découvrir les lettres
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jouez en équipe : une équipe cache le trésor, lautre doit le retrouver munie de son détecteur !
-- Une fois que le coffre a été trouvé, Clipse le diamant sur le détecteur, avant quil ne soit trop tard
-- Un jeu daction : embarque avec tes amis pour la plus grande chasse au trésor des temps modernes
 - Contenu : 1 détecteur électronique, 2 clés, 1 trésor et son diamant, 20 défis, 1 règle du jeu
-- Un jeu daction : embarque avec tes amis pour la plus grande chasse au trésor des temps modernes !
-- Jouez en équipe : une équipe cache les 2 clés et le trésor. L’autre équipe part à leur recherche grâce au détecteur
+- Un jeu daction : embarque avec tes amis pour la plus grande chasse au trésor des temps modernes
 - Une fois que le coffre a été trouvé, clipsez le diamant sur le détecteur avant la fin du compte à rebours : c’est gagné !
+- Un jeu daction : embarque avec tes amis pour la plus grande chasse au trésor des temps modernes !
 - Un jeu daction : embarque avec tes amis pour la plus grande chasse au trésor des temps modernes
 - Retrouvez dabord les clés : une fois assemblées sur le détecteur, elles activent la recherche du trésor !
+- Une fois que le coffre a été trouvé, Clipse le diamant sur le détecteur, avant quil ne soit trop tard
 - Retrouvez dabord les clés : une fois assemblées au détecteur, elles activent la recherche du diamant
+- Jouez en équipe : une équipe cache les 2 clés et le trésor. L’autre équipe part à leur recherche grâce au détecteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

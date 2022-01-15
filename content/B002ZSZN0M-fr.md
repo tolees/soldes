@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur de trait F approx. 0.6 mm and M pointe ogive 1.5 mm
-- Couleurs intenses, quasi inodore
+- Séchage rapide sur le support, idéal pour les gauchers
 - Encre noire résistant aux U.V et aux intempéries
 - Encre sans xylène ni toluène
-- Séchage rapide sur le support, idéal pour les gauchers
+- Couleurs intenses, quasi inodore
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

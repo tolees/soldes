@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Partez au combat aux côtés de vos loyaux compagnons et essayez de sauver Planimalis de la diabolique SlimeCo.
-- 72 unité(s) de cet article soldée(s) à partir du 12 janvier 2022 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Des compagnons Planimaux à collectionner ! Certains slimes font muter vos plants en Planimaux ! Confectionnez des dizaines dobjets pour votre ferme et votre maison
-- Travaillez à la ferme avec des mutants ! Utilisez des slimes magiques pour faire muter les plants de votre ferme.
+- 72 unité(s) de cet article soldée(s) à partir du 12 janvier 2022 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Travaillez à la ferme avec des mutants ! Utilisez des slimes magiques pour faire muter les plants de votre ferme.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
