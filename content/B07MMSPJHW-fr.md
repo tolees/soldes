@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - POUR FAIRE RÉGNER LA LOI : Un véritable poste de police grand format avec ses véhicules et son hélicoptère pour partir dans les rues à la poursuite des voyous et des cambrioleurs.
-- JOUER POUR MIEUX GRANDIR  : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
-- LE POSTE ET SES OCCUPANTS : Ce kit contient 1 poste de police avec porte basculante, héliport et route, 1 caméra de surveillance, des barrières de sécurité, 2 policiers, 1 cambrioleur, 2 véhicules et 1 hélicoptère.
 - DÉVELOPPER LIMAGINATION : La gamme Abrick se compose de jouets destinés aux enfants à partir de 18 mois pour les aider à développer leur capacité à inventer des histoires et construire lunivers qui va avec.
+- LE POSTE ET SES OCCUPANTS : Ce kit contient 1 poste de police avec porte basculante, héliport et route, 1 caméra de surveillance, des barrières de sécurité, 2 policiers, 1 cambrioleur, 2 véhicules et 1 hélicoptère.
+- JOUER POUR MIEUX GRANDIR  : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
 - DES JOUETS ORIGINE FRANCE GARANTIE : Jouets Ecoiffier fabrique ses produits à Oyonnax dans lAin grâce à linvestissement des 350 personnes que lentreprise familiale emploie directement et indirectement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

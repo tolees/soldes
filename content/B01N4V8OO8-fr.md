@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aide les souris à regagner leur lit avant que le chat nait mangé tous les poissons. Un jeu coopératif où tous les joueurs jouent ensembles contre le chat.
-- Un temps de jeu (5-10mn) adapté à lâge de destination pour les solliciter seulement sur une courte période. Attendre son tour et jouer ensemble.
-- Une course simple pour apprendre aux plus jeunes les règles du jeu et à se concentrer
-- Dès personnages et un dé de taille ergonomique, adaptés aux mains des tous petits.
 - Un très joli jeu aux règles très simples et aux matériaux de qualité (bois et carton). Les enfants adorent donner à manger au chat..
+- Aide les souris à regagner leur lit avant que le chat nait mangé tous les poissons. Un jeu coopératif où tous les joueurs jouent ensembles contre le chat.
+- Dès personnages et un dé de taille ergonomique, adaptés aux mains des tous petits.
+- Une course simple pour apprendre aux plus jeunes les règles du jeu et à se concentrer
+- Un temps de jeu (5-10mn) adapté à lâge de destination pour les solliciter seulement sur une courte période. Attendre son tour et jouer ensemble.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

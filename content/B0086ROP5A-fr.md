@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous connaissez tous le téléphone arabe, mais que se passerait-il si la parole était remplacée par du dessin ? La réponse en image avec Esquissé, Gare aux crampes du maxillaire… Jamais on a autant ri
 - Dimension du produit: 26.7x7.5x26.7 cm
+- Vous connaissez tous le téléphone arabe, mais que se passerait-il si la parole était remplacée par du dessin ? La réponse en image avec Esquissé, Gare aux crampes du maxillaire… Jamais on a autant ri
 - 6 livrets, 1 sablier, 1 dé, 6 stylos effaçables, 70 cartes recto-verso , 6 petits chiffons.
 - Nécessite des piles: Non
 

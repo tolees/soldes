@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle: Caoutchouc
 - Dessus: Cuir
-- Doublure: Cuir
-- Hauteur de la tige : Mollet haut
+- Type de talons: Plat
 - Fermeture: Lacé
 - Largeur de la chaussure: Moyen
-- Type de talons: Plat
+- Hauteur de la tige : Mollet haut
+- Doublure: Cuir
+- Matériau de semelle: Caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

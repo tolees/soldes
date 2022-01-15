@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ​La figurine Taureau Carnotaurus Contrôler et Conquérir possède également un corps, des articulations, une couleur et une texture réalistes et fidèles au film. Elle s’accompagne d’un plan et d’un livret décor avec des autocollants de dinosaures réutilisables
-- ​Attrapez figurines et accessoires en utilisant le bouton pour que les mâchoires s’ouvrent et se ferment
-- ​La figurine Taureau Carnotaurus Contrôler et Conquérir est inspirée de la série d’animation Jurassic World : La Colo du Crétacé
 - ​C’est un cadeau idéal pour les enfants à partir de 4 ans, surtout s’ils sont fans de Jurassic World, de dinosaures et de jeux d’action
+- ​Attrapez figurines et accessoires en utilisant le bouton pour que les mâchoires s’ouvrent et se ferment
 - Pour aller plus loin, téléchargez l’application Jurassic World Facts (pour Android et iOS). L’application permet de scanner votre dinosaure et de le regarder prendre vie en l’observant de plus près, en écoutant ses rugissements, en découvrant des informations intéressantes sur lui et plus encore
+- ​La figurine Taureau Carnotaurus Contrôler et Conquérir est inspirée de la série d’animation Jurassic World : La Colo du Crétacé
+- ​La figurine Taureau Carnotaurus Contrôler et Conquérir possède également un corps, des articulations, une couleur et une texture réalistes et fidèles au film. Elle s’accompagne d’un plan et d’un livret décor avec des autocollants de dinosaures réutilisables
 - ​Grande figurine avec fonctionnalité d’attaque permettant de contrôler entièrement le dinosaure en levant la queue pour qu’il bouge la tête et se tourne en frétillant.  Levez la queue du Carnotaurus ou appuyez sur le bouton à l’arrière de la queue pour entendre un terrible rugissement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

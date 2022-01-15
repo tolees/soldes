@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec la plateforme éducative MagiBook et le Stylet interactif MagiPen vendus séparément
 - Des autocollants inclus que l’enfant colle dans son tableau des récompenses au fur et à mesure qu’il progresse dans le livre et dans ses apprentissages.
-- Livre de 32 pages illustrées pour faire le plein de découvertes avec les héros de Toy Story 4.
-- Contenu audio et/ou vidéo à télécharger en connectant les plateformes MagiBook à l’ordinateur (plateforme Explore@ Park).
-- Compatible avec tous les lecteurs Magibook (Magibook et MagiPen).
 - Version française
+- Compatible avec tous les lecteurs Magibook (Magibook et MagiPen).
+- Contenu audio et/ou vidéo à télécharger en connectant les plateformes MagiBook à l’ordinateur (plateforme Explore@ Park).
+- Livre de 32 pages illustrées pour faire le plein de découvertes avec les héros de Toy Story 4.
+- Compatible avec la plateforme éducative MagiBook et le Stylet interactif MagiPen vendus séparément
 
 [🛒 Achète-le!!]({{< param buyurl >}})

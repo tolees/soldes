@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRG DNF MORPHER ELECTRONIQUE
 - 2 piles AA nécessaires, piles de démonstration incluses.
+- PRG DNF MORPHER ELECTRONIQUE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
