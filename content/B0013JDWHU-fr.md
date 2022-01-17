@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1 x adaptateur carré femelle 12,5 mm (1/2") - carré mâle 10 mm (3/8"), capacité de charge max. 200 Nm
+- Traitement de surface: chromage mat
 - 1 x adaptateur carré femelle 20 mm (3/4") - carré mâle 12,5 mm (1/2"), capacité de charge max. 500 Nm
 - 1 x adaptateur carré femelle 12,5 mm (1/2") - carré mâle 20 mm (3/4"), capacité de charge max. 500 Nm
-- Traitement de surface: chromage mat
-- 1 x adaptateur carré femelle 10 mm (3/8") - carré mâle 6,3 mm (1/4"), capacité de charge max. 60 Nm
 - En acier au chrome-vanadium
-- 1 x adaptateur carré femelle 12,5 mm (1/2") - carré mâle 10 mm (3/8"), capacité de charge max. 200 Nm
-- 1 x adaptateur carré femelle 10 mm (3/8") - carré mâle 12,5 mm (1/2"), capacité de charge max. 200 Nm
 - 1 x adaptateur carré femelle 6,3 mm (1/4") - carré mâle 10 mm (3/8"), capacité de charge max. 60 Nm
+- 1 x adaptateur carré femelle 10 mm (3/8") - carré mâle 6,3 mm (1/4"), capacité de charge max. 60 Nm
+- 1 x adaptateur carré femelle 10 mm (3/8") - carré mâle 12,5 mm (1/2"), capacité de charge max. 200 Nm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

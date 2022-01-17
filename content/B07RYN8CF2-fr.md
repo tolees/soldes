@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EPS12V Version: v2.92
 - Compatible avec Microsoft Modern Standby : Délais de passage, de la veille au fonctionnement, extrêmement rapides et une efficacité à faible charge
+- EPS12V Version: v2.92
 - Spécialement conçu pour un fonctionnement silencieux : Ventilateur à roulement hydrodynamique de 135 mm doté d’une courbe de ventilation définie permettant de réduire le bruit du ventilateur
-- Mode de ventilation Zero RPM : à basse et moyenne charge, le ventilateur de refroidissement séteint complètement pour un fonctionnement
 - Certification 80 PLUS Gold : fonctionnement très efficace garantissant une réduction de la consommation, du bruit et des températures
+- Mode de ventilation Zero RPM : à basse et moyenne charge, le ventilateur de refroidissement séteint complètement pour un fonctionnement
 - Condensateurs certifiés 105 °C : Condensateurs de qualité industrielle pour offrir de solides performances électriques et une grande fiabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
