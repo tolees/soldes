@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- L’appli gratuite LEGO Super Mario contient des instructions et des idées pour construire et s’amuser différemment. Pour obtenir la liste des appareils Android et iOS compatibles, consulter LEGO.com/devicecheck.
+- Les éléments LEGO sont soumis à des tests de chute, d’écrasement, de torsion et de chaleur, puis analysés afin de s’assurer qu’ils sont conformes aux normes de sécurité les plus strictes au monde.
+- Comprend les personnages LEGO de 4 ennemis de Super Mario, Larry, un Goomba, un Bob-omb et un Paratroopa, pour une expérience de jeu inimitable.
+- Les sets à collectionner LEGO Super Mario font entrer dans le monde réel un personnage apprécié de toute la famille et offrent d’innombrables possibilités d’extension, de transformation et personnalisation, pour jouer en groupe ou en solo.
+- Ce set de construction LEGO de 366 éléments constitue un formidable cadeau d’anniversaire ou de Noël pour les enfants créatifs de 6 ans et plus, qui possèdent déjà le Pack de Démarrage Les Aventures de Mario (71360), requis pour le jeu interactif.
+- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées, afin de garantir qu’elles s’assemblent et se séparent toujours facilement.
 - Inclut une machine de personnalisation, une brique daction Temps et 2 briques daction Objet personnalisables pour que les joueurs puissent choisir leurs propres récompenses, ainsi qu’un tuyau spécial « 30 », pour encore plus de jeu interactif.
 - Le kit comprend une plateforme coulissante et de nombreux éléments LEGO pour créer de nouveaux défis et déclencher différentes réactions chez LEGO Mario (personnage non inclus).
-- Comprend les personnages LEGO de 4 ennemis de Super Mario, Larry, un Goomba, un Bob-omb et un Paratroopa, pour une expérience de jeu inimitable.
-- Les éléments LEGO sont soumis à des tests de chute, d’écrasement, de torsion et de chaleur, puis analysés afin de s’assurer qu’ils sont conformes aux normes de sécurité les plus strictes au monde.
-- L’appli gratuite LEGO Super Mario contient des instructions et des idées pour construire et s’amuser différemment. Pour obtenir la liste des appareils Android et iOS compatibles, consulter LEGO.com/devicecheck.
-- Ce set de construction LEGO de 366 éléments constitue un formidable cadeau d’anniversaire ou de Noël pour les enfants créatifs de 6 ans et plus, qui possèdent déjà le Pack de Démarrage Les Aventures de Mario (71360), requis pour le jeu interactif.
-- Les sets à collectionner LEGO Super Mario font entrer dans le monde réel un personnage apprécié de toute la famille et offrent d’innombrables possibilités d’extension, de transformation et personnalisation, pour jouer en groupe ou en solo.
-- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées, afin de garantir qu’elles s’assemblent et se séparent toujours facilement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet déquitation pour les filles et les garçons inclut 7 mini poupées LEGO Friends : Mia et Savannah, Kevin et Goldie le chien
 - Les enfants peuvent explorer la nature, prendre soin des animaux, nettoyer les écuries, mettre le chien dans son panier, puis faire griller des guimauves sur le feu de camp
-- Avec son ranch sur 3 étages, ce set animaux LEGO Friends dispose d’une écurie, d’un jouet cheval, d’une cuisine, d’une chambre et d’une salle à manger
 - Les accessoires incluent des casques déquitation, des selles, des brides, une fourche, une brosse, un balai, des ustensiles de cuisine, des guimauves et une canne pour Savannah
 - Comprend 2 figurines de cheval pour les filles, avec des têtes articulées, et un jouet poney pour le jeune Kevin, offrant des aventures immersives de jeu de rôle
+- Avec son ranch sur 3 étages, ce set animaux LEGO Friends dispose d’une écurie, d’un jouet cheval, d’une cuisine, d’une chambre et d’une salle à manger
 - Un très beau cadeau de Noël ou danniversaire pour les enfants âgés de 7 ans et plus qui aiment les animaux, idéal pour jouer en solo ou avec des amis
+- Le jouet déquitation pour les filles et les garçons inclut 7 mini poupées LEGO Friends : Mia et Savannah, Kevin et Goldie le chien
 - Découvrez dautres jeux d’aventure LEGO Friends : La cascade dans la forêt (41677), La maison dans la forêt (41679) ou Le camping-car et le voilier de la forêt (41681)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
