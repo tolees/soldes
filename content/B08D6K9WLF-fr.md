@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Finition effet pierre intérieur/ extérieur
 - Aluminium forgé
 - couvercles avec bords silicone
-- compatibles tous feux dont induction
 - revêtement soft touch
+- compatibles tous feux dont induction
 
 [🛒 Achète-le!!]({{< param buyurl >}})

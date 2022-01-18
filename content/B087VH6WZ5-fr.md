@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un monde ouvert situé dans les âges obscurs du Moyen Âge
-- Faites grandir votre colonie
 - Menez des raids épiques
 - Un système de combat viscéral
+- Un monde ouvert situé dans les âges obscurs du Moyen Âge
+- Faites grandir votre colonie
 - Écrivez votre propre saga viking
 
 [🛒 Achète-le!!]({{< param buyurl >}})

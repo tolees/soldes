@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hélices pliables
-- Compatible avec les drones suivants : ANAFI, ANAFI Thermal et ANAFI Work
-- Hélices ultralégères pour un vol silencieux
 - Matière souple
+- Hélices pliables
+- Hélices ultralégères pour un vol silencieux
+- Compatible avec les drones suivants : ANAFI, ANAFI Thermal et ANAFI Work
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Disjoncteur de courant de courant résiduel LEGRAND TX3, de type A, pour les courants de défaut CC et pulsatifs à la pulsation selon VDE 0664-10, EN 61008-1, non chiné, à 2 pôles, courant nominal en 40 a, courant de défaut nominal IDN 30 mA, Voltage nominal UN 230 VAC, fréquence nominale 50 Hz, résistant aux chocs jusquà 2 50 A, courant de court-circuit nominal 10 ka avec pré-fusible approprié, accessoire au chapeau de profilé ferroviaire FR 60715 en verrouillant des pièces jointes rapides, des informations claires sur le devant de chaque périphérique, Indicateur de position de commutation claire Rouge / Vert sur le levier de décalage, avec une fenêtre détiquetage, avec une protection de courant pour une insertion sûre du conducteur dans la pince dascenseur, la fixation de léquipement auxiliaire possible
 - Garantie du Grand Legrand
 - Facile à utiliser
-- Disjoncteur de courant de courant résiduel LEGRAND TX3, de type A, pour les courants de défaut CC et pulsatifs à la pulsation selon VDE 0664-10, EN 61008-1, non chiné, à 2 pôles, courant nominal en 40 a, courant de défaut nominal IDN 30 mA, Voltage nominal UN 230 VAC, fréquence nominale 50 Hz, résistant aux chocs jusquà 2 50 A, courant de court-circuit nominal 10 ka avec pré-fusible approprié, accessoire au chapeau de profilé ferroviaire FR 60715 en verrouillant des pièces jointes rapides, des informations claires sur le devant de chaque périphérique, Indicateur de position de commutation claire Rouge / Vert sur le levier de décalage, avec une fenêtre détiquetage, avec une protection de courant pour une insertion sûre du conducteur dans la pince dascenseur, la fixation de léquipement auxiliaire possible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en toile robuste
 - Design minimaliste
 - Semelle caractéristique en caoutchouc gaufré
+- Tige en toile robuste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tension: 5 - 12 V
-- Type: Ventilateur
 - be quiet! Pure Wings 2 120mm high-speed. convient pour: Boitier PC
 - Certification: CE
 - TÜV
-- Tension nominale: 12 V. Poids: 130 g
 - UL. Alimentation dénergie: 3,6 W
+- Tension nominale: 12 V. Poids: 130 g
 - Dimensions de ventilateur (l x p x h): 120 x 120 x 25 mm
+- Type: Ventilateur
+- Tension: 5 - 12 V
 - Diamètre du ventilateur: 12 cm. Longueur de câble: 0,46 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})

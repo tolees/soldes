@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : textile
+- Matériau de semelle : caoutchouc
 - Dessus : toile
 - Type de talons : plat
+- Doublure : textile
 - Fermeture : lacets
-- Matériau de semelle : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
