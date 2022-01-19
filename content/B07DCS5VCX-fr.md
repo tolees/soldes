@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parrot Anafi – Hélices pour Drone  Couleur Gris'
-date: 2022-01-18 10:40:27
+date: 2022-01-19 11:09:21
 image: 'https://m.media-amazon.com/images/I/41YjKXot3qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matière souple
-- Hélices pliables
-- Hélices ultralégères pour un vol silencieux
 - Compatible avec les drones suivants : ANAFI, ANAFI Thermal et ANAFI Work
+- Hélices ultralégères pour un vol silencieux
+- Hélices pliables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
