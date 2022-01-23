@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- The leading pliers specialist
-- Acier à outils de qualité spéciale, forgé, trempé à l?huile
+- Tranchants trempés par induction, dureté denv. 60 hrc
 - Acier à outils de qualité spéciale, forgé, trempé à l’huile en plusieurs phases
 - Convient pour les travaux de préhension et de coupe dans la mécanique de précision
 - Becs plats et longs effilés
+- The leading pliers specialist
 - Convient pour les travaux nécessitant une prise et une coupe de précision
-- Tranchants trempés par induction, dureté denv. 60 hrc
+- Acier à outils de qualité spéciale, forgé, trempé à l?huile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
