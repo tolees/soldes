@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut
-- Funko- Pop Movies: Minions-Mu Mystery Minisy Stuart MuMystery Figurine
-- Issue de la gamme Minions, la figurine Mu Mystery Minisy Stuart rejoint la collection Funko POP
 - Collectionnez-les tous
+- Funko- Pop Movies: Minions-Mu Mystery Minisy Stuart MuMystery Figurine
+- Chaque personnage mesure environ 9 cm de haut
+- Issue de la gamme Minions, la figurine Mu Mystery Minisy Stuart rejoint la collection Funko POP
 
 [🛒 Achète-le!!]({{< param buyurl >}})

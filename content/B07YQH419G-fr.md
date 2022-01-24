@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Découvrez tous les autres produits Funko dédiés à lunivers Cyberpunk 2077! Collectionnez-les tous!
 - Issue de la gamme Cyberpunk 2077, la figurine Takemura rejoint la collection Funko POP!
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

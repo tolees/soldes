@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ne convient pas aux enfants de moins de 3 ans
-- Inspiré de Star Wars : Swep9, Rey avec sabre jaune, en vinyle stylisé de Funko
 - La figurine mesure 9 cm
 - Couleur : multicolore
+- Inspiré de Star Wars : Swep9, Rey avec sabre jaune, en vinyle stylisé de Funko
 
 [🛒 Achète-le!!]({{< param buyurl >}})

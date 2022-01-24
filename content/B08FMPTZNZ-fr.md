@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Item package quantity: 1.0
 - Couleur: Multicolour
 - De Marvel Zombies , Thor, en vinyle POP ! stylisé de Funko
 - Description de la tranche dâge : Ne convient pas aux enfants de moins de 3 ans
-- Item package quantity: 1.0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
