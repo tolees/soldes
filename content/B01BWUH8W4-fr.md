@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec 95 % des systèmes de chauffage, y compris le chauffage au sol hydraulique ; vous avez besoin du Thermostat Connecté filaire si vous avez un thermostat d’ambiance câblé conventionnel pour contrôler la chaudière
-- Contrôlez toutes les pièces à partir d’une seule application. Maximisez votre confort et vos économies d’énergie
-- Produit supplémentaire aux Kits de Démarrage tado° : ajoutez des Thermostats Intelligents supplémentaires à votre configuration pour contrôler plusieurs pièces ou zones individuellement
-- Fonctionne exclusivement avec un Kit de Démarrage tado° (V2, V3, V3+), disponible séparément
 - La boîte contient : 1x Thermostat Intelligent, 3x piles AAA, plaquettes adhésives, matériel de montage
+- Contrôlez toutes les pièces à partir d’une seule application. Maximisez votre confort et vos économies d’énergie
+- Compatible avec 95 % des systèmes de chauffage, y compris le chauffage au sol hydraulique ; vous avez besoin du Thermostat Connecté filaire si vous avez un thermostat d’ambiance câblé conventionnel pour contrôler la chaudière
+- Fonctionne exclusivement avec un Kit de Démarrage tado° (V2, V3, V3+), disponible séparément
+- Produit supplémentaire aux Kits de Démarrage tado° : ajoutez des Thermostats Intelligents supplémentaires à votre configuration pour contrôler plusieurs pièces ou zones individuellement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

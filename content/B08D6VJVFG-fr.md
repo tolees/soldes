@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire pour Tête Thermostatique Connectée tado°; la Sonde de température sans fil contrôle la ou les Têtes Thermostatiques Connectées dune pièce pour atteindre la température idéale
-- La boîte contient : 1x Sonde de température sans fil, 3x piles AAA, des patins collants, du matériel de montage
 - L’appareil peut être fixé au mur ou placé sur une table, une étagère, etc. (aucun perçage nécessaire); Support disponible en option
 - La Sonde de température sans fil tado° mesure la température à l’endroit le plus important pour vous et règle avec précision la température ambiante selon vos préférences
+- Accessoire pour Tête Thermostatique Connectée tado°; la Sonde de température sans fil contrôle la ou les Têtes Thermostatiques Connectées dune pièce pour atteindre la température idéale
+- La boîte contient : 1x Sonde de température sans fil, 3x piles AAA, des patins collants, du matériel de montage
 - Fonctionne avec un Kit de Démarrage (V2, V3, V3+) disponible séparément
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
