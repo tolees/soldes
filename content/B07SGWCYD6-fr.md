@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUJOURS AUSSI BEAU: Son design sobre et moderne, sa célèbre barre de gestion des câbles et son panneau latéral en verre trempé mettent en valeur votre conﬁguration
-- CARTE MÈRE PRISE EN CHARGE: Mini-ITX
 - GESTION DES CÂBLES: Notre kit de routage de câbles breveté avec des canaux et des sangles préinstallés rend le câblage facile et intuitif
-- NOUVELLES CARACTÉRISTIQUES: Ports E/S frontaux USB Type C de type I avec entrée / sortie frontale et panneau latéral en verre trempé avec installation à une vis
+- CARTE MÈRE PRISE EN CHARGE: Mini-ITX
 - REFROIDISSEMENT RATIONALISÉ: Deux ventilateurs Aer F de 120 mm* sont intégrés pour un ﬂux dair interne optimisé. Les entrées dair en façade et sur le bloc dalimentation sont dotées de ﬁltres amovibles.Le support amovible conçu pour les radiateurs dune taille maximale de 240 mm simpliﬁe linstallation dun système de watercooling à boucle fermée ou ouverte
+- NOUVELLES CARACTÉRISTIQUES: Ports E/S frontaux USB Type C de type I avec entrée / sortie frontale et panneau latéral en verre trempé avec installation à une vis
+- TOUJOURS AUSSI BEAU: Son design sobre et moderne, sa célèbre barre de gestion des câbles et son panneau latéral en verre trempé mettent en valeur votre conﬁguration
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

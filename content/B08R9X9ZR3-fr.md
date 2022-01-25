@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kit thermostat connecté pour les systèmes de chauffage avec chaudière seule, poêle à granulés ou pompe à chaleur
 - Le kit thermostat connecté pour chaudière regroupe 2 équipements Wiser
 - Une passerelle / actionneur de chaudière qui pilote votre chaudière et fait la laision sans fil entre le système Wiser et la box internet du logement,- et un thermostat dambiance qui vous permet de choisir et de visualiser la température ambiante
-- La gamme Wiser regroupe des équipements qui permettent de commander et programmer le chauffage de votre logement
+- Kit thermostat connecté pour les systèmes de chauffage avec chaudière seule, poêle à granulés ou pompe à chaleur
 - Elle est compatible avec la plupart des sources de chaleur
+- La gamme Wiser regroupe des équipements qui permettent de commander et programmer le chauffage de votre logement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
