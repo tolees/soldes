@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contagrip MD
+- Le GORE-TEX garde vos pieds au sec de l’extérieur comme de l’intérieur.
 - Le Contagrip MD est conçu pour résister à l’usure. Composé d’une gomme extrêmement résistante, il possède un profil de crampons aussi efficace sur les surfaces dures et souples que sur les terrains meubles et instables.
+- Contagrip MD
 - GORE-TEX
 - Tige soudée
-- Le GORE-TEX garde vos pieds au sec de l’extérieur comme de l’intérieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

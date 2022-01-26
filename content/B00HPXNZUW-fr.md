@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette radio renforcée spéciale "chantiers" est conçue pour résister aux conditions extrêmes et vous accompagner partout où vous allez
-- Elle permet de recevoir la radio analogique et digitale avec son Tuner AM/FM et DAB
-- Vous pourrez connecter les batteries Lithium-Ion XR 10,8 ; 14,4 et 18V de vos outils DeWalt sur votre radio de chantier
 - Elle dispose dune connexion auxiliaire pour branchement d’appareil MP3, téléphone etc…
+- Elle permet de recevoir la radio analogique et digitale avec son Tuner AM/FM et DAB
+- Cette radio renforcée spéciale "chantiers" est conçue pour résister aux conditions extrêmes et vous accompagner partout où vous allez
 - Bien pensée, elle intègre un enrouleur de câble électrique, 1,8M de câble fourni
+- Vous pourrez connecter les batteries Lithium-Ion XR 10,8 ; 14,4 et 18V de vos outils DeWalt sur votre radio de chantier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pression dair max. 6,2 bar
-- BGS cliquet à air comprimé, 34 Nm, 6.3 mm carré, 175 mm longueur.
 - Moment de couple max. 34 Nm
-- Carré 6,3 mm (1/4")
+- BGS cliquet à air comprimé, 34 Nm, 6.3 mm carré, 175 mm longueur.
 - Consommation dair moyenne 113 l/min
+- Carré 6,3 mm (1/4")
+- Pression dair max. 6,2 bar
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour les plastiques, le caoutchouc, le métal et le bois
 - Agent de démoulage, lubrifiant et auxiliaire de traitement et de protection
+- Pour les plastiques, le caoutchouc, le métal et le bois
 - Contenu: 100g
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Battez-vous dun bout à lautre du japon au cours dun voyage épique
 - Plongez dans le monde stylisé de persona avec une histoire totalement inédite
 - Contrôlez votre équipe de manière dynamique au fil de combats explosifs
-- Battez-vous dun bout à lautre du japon au cours dun voyage épique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
