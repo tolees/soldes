@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robuste : Perceuse percussion et légère grâce à son moteur sans charbon compact et robuste
 - Grande facilité d’utilisation : Passez du vissage/dévissage, au perçage ou au perçage à percussion en déplaçant la bague de réglage dicône
-- Les outils de la gamme « Advanced » Bosch – puissants, pour vos grands projets en bricolage ou en jardinage
 - Power for ALL 18 V : la batterie (fournie) est compatible avec les produits 18 V de la gamme Home & Garden Bosch et les aspirateurs Unlimited Bosch
+- Les outils de la gamme « Advanced » Bosch – puissants, pour vos grands projets en bricolage ou en jardinage
 - Changement de sens de rotation facile : Le sens de rotation est indiqué par une LED après un simple clic sur le bouton
+- Robuste : Perceuse percussion et légère grâce à son moteur sans charbon compact et robuste
 
 [🛒 Achète-le!!]({{< param buyurl >}})

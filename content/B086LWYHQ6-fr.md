@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 3 boxers en coton issu de lagriculture biologique, coton cultivé sans engrais ni pesticides chimiques pour garantir une matière douce et confortable. Ainsi les boxers COTON BIO conviennent à tous les types de peaux, même les plus sensibles. Nouvelle coupe qui sadapte à la morphologie de chacun, pour un confort au quotidien.
 - Produits certifiés par les labels Gots et Oeko-Tex standard 100.
+- Lot de 3 boxers en coton issu de lagriculture biologique, coton cultivé sans engrais ni pesticides chimiques pour garantir une matière douce et confortable. Ainsi les boxers COTON BIO conviennent à tous les types de peaux, même les plus sensibles. Nouvelle coupe qui sadapte à la morphologie de chacun, pour un confort au quotidien.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

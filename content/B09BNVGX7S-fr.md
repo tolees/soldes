@@ -31,9 +31,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - La station de sauvetage à 2 étages est dotée de jouets pour démarrer le jeu, comme une salle des commandes avec station de travail, un télescope et un haut-parleur.
 - Les enfants peuvent acheter une glace auprès du marchand dans sa tenue amusante ou revêtir un gilet de sauvetage et essayer la planche de paddle
 - Les sets LEGO City regorgent de fonctionnalités permettant des heures de jeu d’imagination et constituent une belle surprise ou cadeau d’anniversaire pour les enfants dès 5 ans
-- Ce set de sauveteur LEGO inclut une station de sauvetage à 2 étages, un quad, un marchand de glaces et un décor de plage avec des palmiers et des briques LEGO sable
-- Connectez cet ensemble aux autres sets LEGO grâce à la plaque de route LEGO pour agrandir votre ville à votre guise !
 - Elle inclut des accessoires amusants pour stimuler le jeu, comme une pique à déchets, une bouteille, une bouée de sauvetage, un portable, des jumelles et des planches de paddle
 - Il inclut aussi 4 figurines LEGO City, dont un sauveteur et des personnages allant à la plage, une tortue avec des œufs et des figurines crabes
+- Ce set de sauveteur LEGO inclut une station de sauvetage à 2 étages, un quad, un marchand de glaces et un décor de plage avec des palmiers et des briques LEGO sable
+- Connectez cet ensemble aux autres sets LEGO grâce à la plaque de route LEGO pour agrandir votre ville à votre guise !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

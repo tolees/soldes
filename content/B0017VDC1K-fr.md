@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rotule
-- 2 jets: normal, Jet
 - Débit minimum de 4,5 l / min
-- GROHE SpeedClean – buses anticalcaires pour une fonctionnalité durable
 - Facile à nettoyer grâce au revêtement chromé GROHE StarLight
+- 2 jets: normal, Jet
+- GROHE SpeedClean – buses anticalcaires pour une fonctionnalité durable
+- Rotule
 
 [🛒 Achète-le!!]({{< param buyurl >}})
