@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Près du corps du genou à lourlet
 - Poches à empiècement avec bord renforcé en ruban tissé
 - Taille mi-haute
 - Poches cargo profondes sur les cuisses et poche zippée supplémentaire sous lune delles
-- Près du corps du genou à lourlet
 - Chevilles réglables au moyen dun ruban tissé à lintérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

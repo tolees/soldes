@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisable avec les laits dorigine animale (y compris sans lactose) et les boissons végétales. Compatible lait en poudre, cacao en poudre, café soluble.
-- Programmes automatiques avec arrêt auto dès atteinte de la température idéale et possibilité darrêt manuel avec bouton stop dédié.
-- Capacité maxi : 600ml pour chocolat chaud et lait chaud ; 300ml pour émulsion de lait chaude et émulsion de lait froide.
-- Lait chaud pour lait nature ou aromatisé, Caffè Latte, ...
 - Capacité mini : 200ml
-- Pot à lait, fouet mousseur et couvercle compatibles lave-vaisselle.
 - Fonction chocolat chaud à partir de copeaux, pépites, pistoles, carrés de chocolat (y compris chocolat patissier), ...
-- Emulsion de lait chaude pour Chaï Tea Latte, Latte macchiato, Cappuccino, Expresso macchiato, ...
+- Utilisable avec les laits dorigine animale (y compris sans lactose) et les boissons végétales. Compatible lait en poudre, cacao en poudre, café soluble.
+- Lait chaud pour lait nature ou aromatisé, Caffè Latte, ...
+- Pot à lait, fouet mousseur et couvercle compatibles lave-vaisselle.
 - Chauffe induction latérale 3D pour des performances inégalées : préparations prêtes en quelques minutes, fonctionnement silencieux, zéro accrochage de lait
 - Emulsion de lait froide pour Café glacé, Cappuccino frappé, chocolat mousseux froid, ...
+- Emulsion de lait chaude pour Chaï Tea Latte, Latte macchiato, Cappuccino, Expresso macchiato, ...
+- Capacité maxi : 600ml pour chocolat chaud et lait chaud ; 300ml pour émulsion de lait chaude et émulsion de lait froide.
+- Programmes automatiques avec arrêt auto dès atteinte de la température idéale et possibilité darrêt manuel avec bouton stop dédié.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

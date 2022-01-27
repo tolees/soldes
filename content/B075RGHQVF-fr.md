@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Volume du colis: 3.3 fluid_ounces
-- Formule évitant la desquamation.
-- Très efficace.
 - S’utilise sur cheveux courts ou mi-longs.
+- Très efficace.
+- Formule évitant la desquamation.
+- Volume du colis: 3.3 fluid_ounces
 - Fixation souple, effet mat.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

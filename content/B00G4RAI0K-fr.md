@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAKITA B-20644 - Disco HM de 100 mm para engalletadora modelo 3901
 - B-20644
+- MAKITA B-20644 - Disco HM de 100 mm para engalletadora modelo 3901
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

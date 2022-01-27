@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une couleur riche, profonde et éclatante
 - Avec une mousse anti-fragilisation sans ammoniaque
 - Coloration permanente Mousse sans ammoniaque pour cheveux
 - Dimensions: 8,1 x 16,8 x 8,1 cm
-- Une couleur riche, profonde et éclatante
-- Couverture parfaite des cheveux blancs (si <70%) et texture mousse
 - Cette nuance convient si votre couleur naturelle est comprise entre le blond foncé et le châtain
+- Couverture parfaite des cheveux blancs (si <70%) et texture mousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

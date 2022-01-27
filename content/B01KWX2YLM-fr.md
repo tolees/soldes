@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Noir. Type dentrée à café: Café en grains
 - Senseo HD7865/60
-- Type de produit: Cafetière à dosette
 - Dosette de café. Fréquence dentrée AC: 50/60 Hz. Pays dorigine: Pologne
 - Quadrante. type de produit: Autonome
+- Couleur: Noir. Type dentrée à café: Café en grains
+- Type de produit: Cafetière à dosette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
