@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MODE COMPETITION: Avoid unintended inputs during tournament play by disabling extra buttons you don’t need with a built-in button lock function
+- RAZER MECHANICAL SWITCH FACE BUTTONS: Profitez de l’actionnement ultra-rapide avec les touches jaunes Razer qui ont un incroyable cycle de vie de 80 millions de frappes : il sagit de la même caractéristique à la pointe de l’industrie que l’on trouve dans nos fameux claviers
+- PAVE DIRECTIONNEL A 8 DIRECTIONS MECA-TACTILE RAZER: Doté dun touché agréable, il est hyper-réactif et conçu pour présenter avec précision le véritable potentiel de votre esprit combatif
 - PORT AUDIO ANALOGIQUE DE 3,5 MM: Ideal for tournament play, enjoy the ease and convenience of plugging your 3.5mm audio device straight to the Razer Raion instead of the console;Audio does not function in PC mode
 - CONFIGURATION A 6 BOUTONS EN FAÇADE: Comme trait unique aux aires de combat, le Razer Raion arbore deux rangées de 3 boutons, une disposition de style arcade qui offre des options de saisie supérieures pour les jeux de combat
-- MODE COMPETITION: Avoid unintended inputs during tournament play by disabling extra buttons you don’t need with a built-in button lock function
-- PAVE DIRECTIONNEL A 8 DIRECTIONS MECA-TACTILE RAZER: Doté dun touché agréable, il est hyper-réactif et conçu pour présenter avec précision le véritable potentiel de votre esprit combatif
-- RAZER MECHANICAL SWITCH FACE BUTTONS: Profitez de l’actionnement ultra-rapide avec les touches jaunes Razer qui ont un incroyable cycle de vie de 80 millions de frappes : il sagit de la même caractéristique à la pointe de l’industrie que l’on trouve dans nos fameux claviers
 
 [🛒 Achète-le!!]({{< param buyurl >}})

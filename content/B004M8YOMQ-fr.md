@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le design offre plus de précision et des touches sensibles à la vélocité
-- Clavier USB MIDI 25 touches
 - Logiciel gratuit inclus, à télécharger
-- Alimentation USB
 - Compatible avec iPad via le kit caméra
+- Alimentation USB
+- Clavier USB MIDI 25 touches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

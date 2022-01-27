@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle emblématique Dr. Martens
 - Avec deux paires de lacets, y compris une en satin
 - Œillets extra grands
-- Semelle emblématique Dr. Martens
 
 [🛒 Achète-le!!]({{< param buyurl >}})

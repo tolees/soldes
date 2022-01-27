@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre : 3/4/5/6/7/8/10/11/12 mm
-- Avec la fente déjection matérielle
-- Livré dans un étui en plastique
-- Diamètre : 3 / 4 / 5 / 6 / 7 / 8 / 10 / 11 / 12 mm
-- En cassette de plastique
 - Pointeaux 3-4-5-6-7-8-10-11-12 mm
+- Avec la fente déjection matérielle
+- Diamètre : 3 / 4 / 5 / 6 / 7 / 8 / 10 / 11 / 12 mm
+- Livré dans un étui en plastique
+- Diamètre : 3/4/5/6/7/8/10/11/12 mm
+- En cassette de plastique
 - Avec fente déjection
 
 [🛒 Achète-le!!]({{< param buyurl >}})

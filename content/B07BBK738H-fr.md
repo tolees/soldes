@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en Chine
 - Texte statique valide pour tous les produits
+- Fabriqué en Chine
 - Dimensions de lemballage de larticle ( L x B x H) en mm : 330 x 240 x 200
 - Doté dun système X sans fil 2,4 GHz avec une portée allant jusquà 100 m, le flash externe All-in-One ad600pro de Godox WITSTRO est un outil polyvalent.
 

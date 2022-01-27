@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Modèle fini, numéroté et peint à la main
-- Figurine de spyro the dragon modèle sous licence officielle
-- En PVC, elle mesure environ 20cm
 - Statuette spyro the dragon en résine
+- En PVC, elle mesure environ 20cm
 - Détails soignés et bien travaillés
+- Figurine de spyro the dragon modèle sous licence officielle
+- Modèle fini, numéroté et peint à la main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
