@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les puces mémoire sélectionnées à la main et rigoureusement testées garantissent des performances haute fréquence et des temps de réponse rapides, le tout avec un gros potentiel d’overclocking
-- L’alliance du moulage de précision par injection et de l’anodisation fait naître une mémoire haut de gamme conçue pour durer
 - Un dissipateur thermique intégré directement dans le circuit imprimé éloigne la chaleur des modules et permet ainsi à la mémoire Dominator Platinum RGB de garder la tête froide, même dans les situations les plus stressantes
-- Voltage SPD: 1.2V.Tension testée: 1.35V
 - Illuminez votre PC avec un éclairage personnalisé spectaculaire permis par 12 LED RGB paramétrables individuellement
+- Voltage SPD: 1.2V.Tension testée: 1.35V
+- L’alliance du moulage de précision par injection et de l’anodisation fait naître une mémoire haut de gamme conçue pour durer
 - Le design Corsair Dominator Platinum emblématique se marie parfaitement aux meilleurs PC du monde pour créer des systèmes haut de gamme inimitables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

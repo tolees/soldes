@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Espresso (40 ml), café long (110 ml)
-- MODE ECO: la machine bascule automatiquement en veille au bout de 3 minutes dinutilisation
-- LONGUEUR DE TASSE PERSONNALISABLE
 - ESSENZA MINI, le modèle ultra compacte de la gamme des machines Nespresso, avec la même technologie lui permettant de révéler la qualité exceptionnelle des grands crus Nespresso
-- PRE CHAUFFAGE RAPIDE : 25 secondes
 - 19 BARS DE PRESSION : la garantie d un espresso de qualité professionnelle
+- LONGUEUR DE TASSE PERSONNALISABLE
 - 2 BOUTONS AVEC ARRET AUTOMATIQUE DU CAFE
+- Espresso (40 ml), café long (110 ml)
+- PRE CHAUFFAGE RAPIDE : 25 secondes
+- MODE ECO: la machine bascule automatiquement en veille au bout de 3 minutes dinutilisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

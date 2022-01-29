@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construire un spectaculaire gratte-ciel de cartes en 3D
-- Une tension fragile pour des héros d’action super cool.
-- Le nouveau jeu du célèbre Rhino Héro
 - De nombreuses actions marketing à venir pour cette nouveauté
+- Une tension fragile pour des héros d’action super cool.
+- Construire un spectaculaire gratte-ciel de cartes en 3D
+- Le nouveau jeu du célèbre Rhino Héro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

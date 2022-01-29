@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient aux enfants de plus de 4 ans.
-- Alors qu’ils vont remplir leur choppe, le petit dragon en profite pour chiper un poisson de plus, quel gourmand !
-- Harold, Astrid et le bébé dragon se régalent en mangeant le poisson fraichement pêché qu’ils font griller au feu de bois.
 - Comprend un feu de camp et des bâtons pour faire griller les poissons.
+- Harold, Astrid et le bébé dragon se régalent en mangeant le poisson fraichement pêché qu’ils font griller au feu de bois.
+- Alors qu’ils vont remplir leur choppe, le petit dragon en profite pour chiper un poisson de plus, quel gourmand !
+- Convient aux enfants de plus de 4 ans.
 - Rejoins les dragons et les vikings dans leurs aventures !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

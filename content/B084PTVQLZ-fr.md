@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPARENCE FIDÈLE À LA SÉRIE DE DISNEY PLUS : La figurine Star Wars LEnfant, édition Animatronique est inspirée du personnage chouchou des fans de la série The Mandalorian et est vendue avec un pendentif amovible et une tunique de qualité
-- SIESTE DE FORCE : canaliser la Force demande beaucoup dénergie. Pour que LEnfant se repose, il faut le coucher : il fermera alors les yeux et fera une sieste
 - SONS INSPIRÉS DE LA SÉRIE : On touche la tête de LEnfant pour activer des sons inspirés du personnage dans The Mandalorian : rires, babillements, bruits de joie, dexcitation, de fatigue et de sommeil, et bruits deffets de La Force
-- JOUET ANIMATRONIQUE : Inclut des mouvements motorisés, dont la tête qui bouge de haut en bas, les oreilles qui remuent davant en arrière, et des yeux qui souvrent et se ferment
+- APPARENCE FIDÈLE À LA SÉRIE DE DISNEY PLUS : La figurine Star Wars LEnfant, édition Animatronique est inspirée du personnage chouchou des fans de la série The Mandalorian et est vendue avec un pendentif amovible et une tunique de qualité
 - ACTIVATION DE LA FORCE : Les enfants devront caresser 3 fois la tête de LEnfant pour activer la Force. Il lève les bras, ferme les yeux et soupire comme sil utilisait la Force. À partir de 4 ans
+- SIESTE DE FORCE : canaliser la Force demande beaucoup dénergie. Pour que LEnfant se repose, il faut le coucher : il fermera alors les yeux et fera une sieste
+- JOUET ANIMATRONIQUE : Inclut des mouvements motorisés, dont la tête qui bouge de haut en bas, les oreilles qui remuent davant en arrière, et des yeux qui souvrent et se ferment
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
