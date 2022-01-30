@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Humidity and sweat resistant
 - Buildable, medium to full coverage
 - Contains Hyaluronic acid to hydrate your skin
 - This oil-free foundation formula gives you a natural finish
 - 24 Hour Wear
+- Humidity and sweat resistant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
-- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
-- Vitesses de capture allant jusquà 70 Mo/s, vitesse de transfert jusquà 150 Mo/s
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Vitesses de lecture/écriture: 80Mb/s / 30MB/s
+- Vitesses de capture allant jusquà 70 Mo/s, vitesse de transfert jusquà 150 Mo/s
+- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
+- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

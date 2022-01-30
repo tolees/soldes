@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage hautes performances homologué pour une utilisation sur la voie publique, homologuées par lECE
 - Les nouvelles techniques de revêtement des lampes optimisent la luminosité
-- Nouvelle technologie de verre quartz, pour un flux lumineux ultra-précis
-- Franchissez un palier en termes de visibilité et de sensations de conduite
 - Léclairage jusquà 200 % plus lumineux projeté à plus de 80 mètres plus loin*
+- Nouvelle technologie de verre quartz, pour un flux lumineux ultra-précis
+- Éclairage hautes performances homologué pour une utilisation sur la voie publique, homologuées par lECE
+- Franchissez un palier en termes de visibilité et de sensations de conduite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

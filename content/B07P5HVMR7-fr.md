@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Installation facile
-- Agréable et efficace
-- Fonction stand deux positions
 - Design fin
+- Agréable et efficace
 - Ecran allumé / éteint automatiquement
+- Installation facile
+- Fonction stand deux positions
 
 [🛒 Achète-le!!]({{< param buyurl >}})

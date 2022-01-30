@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bluetooth 5.0
 - Résistant à leau
 - Compatible QI
+- Bluetooth 5.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
