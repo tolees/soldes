@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MagMod MagBox 24 Octa Kit de démarrage multicolore'
-date: 2022-01-29 00:10:12
+date: 2022-02-04 03:50:34
 image: 'https://m.media-amazon.com/images/I/41XEeumWggL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
