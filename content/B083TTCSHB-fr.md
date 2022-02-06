@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial Ballistix BL2K8G30C15U4R 3000 MHz  DDR4  DRAM  Mémoire Kit pour PC de Gamer  16Go  8Go x2   CL15  Rouge'
-date: 2022-02-05 16:34:41
+date: 2022-02-06 19:44:09
 image: 'https://m.media-amazon.com/images/I/413ED10EozL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Idéale pour les gamers et les amateurs de performance
 - Prise en charge XMP 2.0 pour un overclocking automatique, ou aux vitesses JEDEC standard
 - Conçue pour les dernières plateformes AMD et Intel
-- Idéale pour les gamers et les amateurs de performance
 - Dissipateur thermique moderne en aluminium disponible en trois coloris pour s’accorder à votre machine ou à votre style
 
 [🛒 Achète-le!!]({{< param buyurl >}})

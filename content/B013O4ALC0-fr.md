@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOTT Nic Down Jacket Nico with Long Sleeve  Noir  M para Hombre'
-date: 2022-02-05 16:33:05
+date: 2022-02-06 19:41:21
 image: 'https://m.media-amazon.com/images/I/41zoQoSkZaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'JOTT'
 buyurl: 'https://www.amazon.fr/dp/B013O4ALC0/?tag=tolees0d-21'
 descuento: '33.15'
-average: '135.63'
+average: '130.97'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
