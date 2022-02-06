@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Icebreaker Women s 100% Merino Wool Everyday Manches Longues avec Fermeture Éclair - 175 Ultralight Fabric - Noir  S'
-date: 2022-02-04 18:02:31
+date: 2022-02-06 10:09:18
 image: 'https://m.media-amazon.com/images/I/31eWnBrxE9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% laine mérinos
-- Coupe près du corps
 - Ne pas passer au sèche-linge
-- Résistance aux odeurs
+- Coupe près du corps
+- 100% laine mérinos
 - Laver en machine à l’eau tiède
+- Résistance aux odeurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
