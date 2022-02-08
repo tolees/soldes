@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OSRAM Lampe spéciale four halogène G9 jusqu’à 200 degrés Special Oven T / Ampoule pour four 40 Watt / culot à broches / blanc chaud — 2700K'
-date: 2022-01-29 06:08:15
+date: 2022-02-07 22:02:48
 image: 'https://m.media-amazon.com/images/I/31YfeDfcyvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Ampoules','Ampoules halogènes','Luminaires et Éclairage','Luminaires 
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98
-comparePrice: 5.22 EUR
+comparePrice: 4.91 EUR
 prodname: 'OSRAM Lampe spéciale four halogène G9 jusqu’à 200 degrés Special Oven T / Ampoule pour four 40 Watt / culot à broches / blanc chaud — 2700K'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Osram'
 buyurl: 'https://www.amazon.fr/dp/B00BF9NEXK/?tag=tolees0d-21'
-descuento: '62.07'
+descuento: '59.67'
 average: '1.98'
 ---
 
@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu halogène optimal pour des températures élevées
-- Dimensions : 150 x 2,6 x 2,6 cm
+- Diamètre de 14,0 mm / Longueur 43,0 mm / Forme de l’ébauche T13,3
+- Consommation d’énergie – 40 kWh/1000h (consommation énergétique moyenne pour une année) / Durée de vie — jusqu’à 2.000 heures pour 50.000 cycles d’allumage.
 - Dimensions :; 2.6 centimeters
 - Inclus dans la livraison : 1 x ampoule four 40W / culot G9 / Lampe de four avec culot à broches — 100% sans mercure – de haute qualité OSRAM
-- Ampoule pour le four, dimmable, jusqu’à 200°C.
-- Consommation d’énergie – 40 kWh/1000h (consommation énergétique moyenne pour une année) / Durée de vie — jusqu’à 2.000 heures pour 50.000 cycles d’allumage.
-- Diamètre de 14,0 mm / Longueur 43,0 mm / Forme de l’ébauche T13,3
+- Contenu halogène optimal pour des températures élevées
 - Dimensions :: 2.6 centimeters
+- Dimensions : 150 x 2,6 x 2,6 cm
+- Ampoule pour le four, dimmable, jusqu’à 200°C.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G.SKILL RipV K2 Mémoire RAM D4 2133 C15 8 Go  2x 4GB '
-date: 2022-02-06 19:40:22
+date: 2022-02-07 22:04:43
 image: 'https://m.media-amazon.com/images/I/51HCavXJgkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'G.Skill'
 buyurl: 'https://www.amazon.fr/dp/B013J7PF5K/?tag=tolees0d-21'
 descuento: '39.60'
-average: '33.035'
+average: '31.51'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse SPD : 2133MHz
-- ddr4 (pc4-17000)
 - latence :15-15-15-35-2n
+- ddr4 (pc4-17000)
+- Vitesse SPD : 2133MHz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
