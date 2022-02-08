@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial RAM CT32G4SFD8266 32Go DDR4 2666 MHz CL19 Mémoire d’ordinateur Portable'
-date: 2022-02-07 09:39:23
+date: 2022-02-08 10:11:57
 image: 'https://m.media-amazon.com/images/I/41v+FUwO-8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type ECC = Non-ECC, Facteur de forme = SODIMM, Nombre de broches = 260 broches, Vitesse PC = PC4-21300, Tension = 1,2V, Rang et Configuration = 2Rx8
 - Compatibilité garantie lorsque vous utilisez le Scanner Système ou l’outil Crucial Advisor
 - Installation facile : aucune compétence informatique requise. Guides pratiques disponibles sur le site de Crucial
-- Améliorez la réactivité de votre système, lancez vos applications plus rapidement et faites du multi-tâche en toute simplicité
 - La qualité et la fiabilité de Micron reposent sur des tests avancés au niveau du composant et du module, mais également sur 42 années d’expertise en matière de mémoire
-- Type ECC = Non-ECC, Facteur de forme = SODIMM, Nombre de broches = 260 broches, Vitesse PC = PC4-21300, Tension = 1,2V, Rang et Configuration = 2Rx8
+- Améliorez la réactivité de votre système, lancez vos applications plus rapidement et faites du multi-tâche en toute simplicité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
