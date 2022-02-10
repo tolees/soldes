@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon CLI-42 Cartouche PC Photo Cyan  Emballage carton '
-date: 2022-02-08 19:13:22
+date: 2022-02-10 02:25:57
 image: 'https://m.media-amazon.com/images/I/410M081wLjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lencre canon offre toujours des impressions de qualité
 - Compatible devices: CANON PIXMA PRO-100,
 - Couleur: Cyan Photo
-- Lencre canon offre toujours des impressions de qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

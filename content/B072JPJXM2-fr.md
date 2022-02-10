@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Räder Maison Lumineuse à pignon r 12958 Blanc H: 16 5 cm'
-date: 2022-01-28 10:17:01
+date: 2022-02-10 02:27:16
 image: 'https://m.media-amazon.com/images/I/31cCXyS9QcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Räder'
 buyurl: 'https://www.amazon.fr/dp/B072JPJXM2/?tag=tolees0d-21'
 descuento: '35.90'
-average: '17.58'
+average: '16.395'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
