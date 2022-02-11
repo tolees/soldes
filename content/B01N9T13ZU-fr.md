@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONCORD - Live from The Fox Oakland'
-date: 2022-02-10 14:37:58
+date: 2022-02-11 14:49:12
 image: 'https://m.media-amazon.com/images/I/51cNsImxzOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'CONCORD'
 buyurl: 'https://www.amazon.fr/dp/B01N9T13ZU/?tag=tolees0d-21'
 descuento: '31.47'
-average: '15.4833333333333'
+average: '15.0425'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
