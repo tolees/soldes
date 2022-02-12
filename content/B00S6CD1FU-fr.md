@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prêt-à-poser Green up Access prise pour véhicule électrique + patère + disj diff - Pap Green Up - 90476 Legrand'
-date: 2022-02-10 22:43:46
+date: 2022-02-11 22:55:20
 image: 'https://m.media-amazon.com/images/I/41KmNHIDKuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise Greenup Access, capacité de raccordement 6mm², conforme aux normes IEC 60884-1, NF C 61-314, VDE 620-1
-- Convient aux lieux de vie type maison individuelle et lieux de travail
 - Raccordement à partir du tableau électrique par 1 ligne dédiée 3x2,5mm² minimum (1 ligne par prise) avec protection par disjoncteur différentiel fourni
 - Satisfaction et garantie à 100% : La raison de notre existence c’est de vous offrir des produits de qualité avec un service client adapté à votre besoin !
+- Convient aux lieux de vie type maison individuelle et lieux de travail
+- Prise Greenup Access, capacité de raccordement 6mm², conforme aux normes IEC 60884-1, NF C 61-314, VDE 620-1
 
 [🛒 Achète-le!!]({{< param buyurl >}})
