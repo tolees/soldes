@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre pour femme Michael Kors DARCI  taille du boîtier 39 mm  mouvement à trois aiguilles  bracelet en acier inoxydable'
-date: 2022-02-16 05:00:42
+date: 2022-02-19 10:33:11
 image: 'https://m.media-amazon.com/images/I/41L-gvVk8wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.fr/dp/B01EI7QHWU/?tag=tolees0d-21'
 descuento: '71.33'
-average: '93.9275'
+average: '91.142'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
