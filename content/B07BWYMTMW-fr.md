@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kaze - Dragon Ball Z-Golden Box : Battle of Gods + La résurrection de F [Édition Collector]'
-date: 2022-02-18 01:26:40
+date: 2022-02-19 01:41:30
 image: 'https://m.media-amazon.com/images/I/51vj6LLUeXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
