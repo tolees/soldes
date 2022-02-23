@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microids - Oddworld Soulstorm Collector Edition  PlayStation 5 '
-date: 2022-02-17 06:07:58
+date: 2022-02-23 18:40:04
 image: 'https://m.media-amazon.com/images/I/51J1KYTKNgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Microids'
 buyurl: 'https://www.amazon.fr/dp/B0916MVHCM/?tag=tolees0d-21'
 descuento: '33.34'
-average: '133.323333333333'
+average: '124.99'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisez les ressources récupérées et les produits obtenus via les distributeurs pour créer des objets
-- Plus vous sauvez de mudokons, plus votre révolte devient puissante.
 - Un scénario sombre à l’humour grinçant, plein
+- Plus vous sauvez de mudokons, plus votre révolte devient puissante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
