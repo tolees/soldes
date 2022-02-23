@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GROHE Mitigeur thermostatique douche Precision Flow  montage mural  double protection anti-brûlure  indicateur de température  filtres intégrés  chromé  34840000  Import Allemagne '
-date: 2022-02-21 20:19:21
+date: 2022-02-23 01:40:09
 image: 'https://m.media-amazon.com/images/I/31g1TJeQTtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie fabricant : 5 ans
 - Montage mural apparent
+- Protégé contre les retours deau
 - Poignée de débit avec touche éco et butée éco réglable
-- Clapets anti-retour intégrés
+- GROHE SafeStop (Plus) - Double protection contre les brûlures de la peau à 38°C et 43°C
 - Cartouche thermostatique GROHE
+- Départ de douche 1/2" par le dessous
+- Garantie fabricant : 5 ans
+- Clapets anti-retour intégrés
 - Filtres intégrés, raccords en S et rosaces en métal incluses
 - Robinet darrêt intégré
-- Protégé contre les retours deau
-- Départ de douche 1/2" par le dessous
-- GROHE SafeStop (Plus) - Double protection contre les brûlures de la peau à 38°C et 43°C
 
 [🛒 Achète-le!!]({{< param buyurl >}})
