@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keter Coffre de Rangement extérieur Borneo - 416 litres'
-date: 2022-02-19 20:43:09
+date: 2022-02-23 06:04:18
 image: 'https://m.media-amazon.com/images/I/41RRkDwx2-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité 416 litres
 - Sans entretien
-- Etanche
+- Capacité 416 litres
 - Verrouillable
+- Etanche
 - Traité anti UV
 
 [🛒 Achète-le!!]({{< param buyurl >}})
