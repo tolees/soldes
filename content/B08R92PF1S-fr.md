@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand écran 6,7’’ Dynamic AMOLED 120Hz
 - Compatible très haut débit 5G
-- Eligible (hors marketplace) à l’offre "jusquà -100€ - Samsung S21", voir Offres spéciales
-- Photos ultra nettes : 64 Mégapixels
 - Single Take : Un clic, tous les modes photo/vidéo
+- Photos ultra nettes : 64 Mégapixels
+- Eligible (hors marketplace) à l’offre "jusquà -100€ - Samsung S21", voir Offres spéciales
+- Grand écran 6,7’’ Dynamic AMOLED 120Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
