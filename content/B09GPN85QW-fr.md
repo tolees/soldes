@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montage mural apparent
-- Protégé contre les retours deau
-- Poignée de débit avec touche éco et butée éco réglable
 - GROHE SafeStop (Plus) - Double protection contre les brûlures de la peau à 38°C et 43°C
-- Cartouche thermostatique GROHE
 - Départ de douche 1/2" par le dessous
+- Poignée de débit avec touche éco et butée éco réglable
+- Montage mural apparent
 - Garantie fabricant : 5 ans
-- Clapets anti-retour intégrés
+- Cartouche thermostatique GROHE
 - Filtres intégrés, raccords en S et rosaces en métal incluses
+- Clapets anti-retour intégrés
 - Robinet darrêt intégré
+- Protégé contre les retours deau
 
 [🛒 Achète-le!!]({{< param buyurl >}})

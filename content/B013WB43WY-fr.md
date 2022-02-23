@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Chargeur rapide multi voltage pour toutes les batteries Lithium-Ion de 14,4 – 18 V
 - Professional 18 V System. Performances maximales. Liberté totale. Toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de tension
 - Mode charge rapide: une batterie de 5,0 Ah retrouve 80 % de sa capacité en seulement 35 minutes
+- Active Air refroidissement pour une plus longue durée de vie des batteries
 - Enrouleur de câble pratique
 - Chargement de batterie 50 % plus rapide (par rapport à AL 1860 CV)
-- Active Air refroidissement pour une plus longue durée de vie des batteries
 
 [🛒 Achète-le!!]({{< param buyurl >}})

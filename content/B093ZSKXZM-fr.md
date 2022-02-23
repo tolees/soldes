@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception ergonomique : La longueur de tête compacte de 126 mm permet de travailler dans des espaces réduits
-- Excellent contrôle de loutil : Gâchette daccélérateur pour un meilleur contrôle de la vitesse et du couple ; couple de serrage de 200 Nm, couple de décollement de 350 Nm
+- Autonomie et durée de vie prolongées de la batterie : excellente autonomie de la batterie et longue durée de vie de loutil grâce au moteur sans charbon
 - Livrée avec : GDR 18V-200, carton
 - Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les anciens et nouveaux outils Bosch Professional de la même catégorie de tension.
-- Autonomie et durée de vie prolongées de la batterie : excellente autonomie de la batterie et longue durée de vie de loutil grâce au moteur sans charbon
+- Excellent contrôle de loutil : Gâchette daccélérateur pour un meilleur contrôle de la vitesse et du couple ; couple de serrage de 200 Nm, couple de décollement de 350 Nm
+- Conception ergonomique : La longueur de tête compacte de 126 mm permet de travailler dans des espaces réduits
 
 [🛒 Achète-le!!]({{< param buyurl >}})

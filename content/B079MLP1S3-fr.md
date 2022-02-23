@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La station spatiale mars a été développée pendant de nombreuses années de préparation pour cette mission afin dêtre préparé au mieux à la reconnaissance de cette planète.
+- Rejoins notre équipe dastronautes, techniciens et robots !
 - Avec deux astronautes, un robot, un lance-missile mobile, Ainsi que de nombreux effets lumineux et sonores. Dimensions: 50 x 28 x 20 cm (L x P x h).
 - Après différentes recherches, les astronautes Playmobil sont désormais en route pour explorer la planète mars au cours dune passionnante mission spatiale.
 - Convient aux enfants de plus de 6 ans.
-- Rejoins notre équipe dastronautes, techniciens et robots !
-- La station spatiale mars a été développée pendant de nombreuses années de préparation pour cette mission afin dêtre préparé au mieux à la reconnaissance de cette planète.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

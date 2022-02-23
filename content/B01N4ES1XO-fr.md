@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réseau tri-bande
-- Routeur compatible HomeKit d’Apple pour offrir une protection avancée à vos accessoires HomeKit et pour gérer facilement leurs communications, dans la maison comme sur Internet
 - Technologie MU-MIMO
 - Réseau maillé Wi-Fi intelligent
+- Routeur compatible HomeKit d’Apple pour offrir une protection avancée à vos accessoires HomeKit et pour gérer facilement leurs communications, dans la maison comme sur Internet
+- Réseau tri-bande
 
 [🛒 Achète-le!!]({{< param buyurl >}})

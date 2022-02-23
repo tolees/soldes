@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - En plus des câbles préinstallés, les E/S de la carte mère orientées vers le bas
-- Poids du colis: 7.9 kilograms
-- La conception verticale compacte offre un faible encombrement tout en autorisant la prise en charge de la plupart des cartes graphiques sur le marché, tout format confondu
-- Le bloc dalimentation et le refroidissement liquide AIO intégrés
 - Dimensions de lemballage de larticle: 24.6 L x 48.2 H x 27.8 W (centimeters)
+- Le bloc dalimentation et le refroidissement liquide AIO intégrés
+- La conception verticale compacte offre un faible encombrement tout en autorisant la prise en charge de la plupart des cartes graphiques sur le marché, tout format confondu
+- Poids du colis: 7.9 kilograms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
