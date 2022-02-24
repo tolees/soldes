@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Voyagez à travers le système solaire en quelques secondes avec cet ensemble très détaillés contenant le soleil et les huit planètes.
-- Même les plus petits détails comme les tempêtes de Jupiter, la glace polaire de la Terre et le motif de l’anneau de Saturne sont visibles dans cette collection.
 - Ces 9 figurines peuvent être utilisées séparément ou placées dans un support en acétate qui montre en orbite par rapport au soleil.
-- Les différences de tailles entre les planètes sont reconnaissables pour plus de valeur éducative.
 - Du soleil de 2,5 cm aussi gros qu’une balle de golf à la minuscule planète Mercure, ce système solaire offre des détails et des couleurs très fidèles.
+- Les différences de tailles entre les planètes sont reconnaissables pour plus de valeur éducative.
+- Même les plus petits détails comme les tempêtes de Jupiter, la glace polaire de la Terre et le motif de l’anneau de Saturne sont visibles dans cette collection.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
