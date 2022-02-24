@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les chaussures Crocs affichent les tailles américaines.
-- Les picots de circulation sur la semelle plantaire stimulent la circulation sanguine.
-- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
-- Semelles légères.
 - Les tailles de semelles sont américaines. Létiquette indique lEU. M = Hommes W = Femmes
+- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
+- Les chaussures Crocs affichent les tailles américaines.
+- Semelles légères.
+- Les picots de circulation sur la semelle plantaire stimulent la circulation sanguine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
