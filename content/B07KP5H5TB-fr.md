@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Veste : manches longues à poignets côtelés
 - Veste : coupe standard, silhouette droite, plus large au niveau du haut du corps
 - Short : coupe slim, ajustée
-- Veste : col montant
 - Veste et pantalon : maille 100 % polyester recyclé
+- Veste : col montant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
