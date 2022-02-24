@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Console Nintendo Switch  Modèle OLED  avec Station d Accueil/Manettes Joy-Con Blanches'
-date: 2022-02-22 17:53:58
+date: 2022-02-24 13:40:18
 image: 'https://m.media-amazon.com/images/I/41jovqNfLQS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098RJXBTY-fr Console Nintendo Switch Modèle OLED avec Station d...'
 sku: 'B098RJXBTY-fr'
 tags: [ 'Consoles pour Nintendo Switch','Jeux vidéo','Nintendo Switch:  Consoles, jeux et accessoires','nintendo', ]
-actualPrice: 310.5 EUR
+actualPrice: 339.9 EUR
 currency: EUR
-price: 310.5
+price: 339.9
 comparePrice: 459.0 EUR
 prodname: 'Console Nintendo Switch  Modèle OLED  avec Station d Accueil/Manettes Joy-Con Blanches'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B098RJXBTY/?tag=tolees0d-21'
-descuento: '32.35'
-average: '332.934736842105'
+descuento: '25.95'
+average: '333.283'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
