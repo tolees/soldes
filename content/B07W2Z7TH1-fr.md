@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prend en charge la charge rapide jusquà 45 W (1)
-- Couleur gris
+- Connexion USB A 3.1 polyvalente
 - Sortie HDMI pour un deuxième écran (jusquà 4K UHD 30 Hz)
+- Prend en charge la charge rapide jusquà 45 W (1)
+- Connexion USB Type-C pour léchange de données
+- Couleur gris
 - REMARQUE : Le P3200 a besoin dun port USB 3.1, il nest donc pas compatible avec Tab A7, Tab S6 Lite.
 - Peut être utilisé sans source dalimentation externe
-- Connexion USB A 3.1 polyvalente
-- Connexion USB Type-C pour léchange de données
 - Nombre darticles 1.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
