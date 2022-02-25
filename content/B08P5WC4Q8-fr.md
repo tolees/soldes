@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Garantie : Wispeed est toujours au plus près de ses clients. Si toutefois, vous nêtes pas satisfait de notre produit. Nhésitez pas à contacter notre Service Après Vente, nous vous trouverons la solution adaptée
-- Parfait pour les jeunes : Limitée à 12 km/h, elle offre une sécurité optimale et une vitesse adéquate aux enfants de 8 à 14 ans désireux de samuser ou de se déplacer en toute liberté
 - Spécificités : Frein au pied à larrière Sonnette - IPx4 Protégé contre les projections deau de toutes directions - 8 kg - Charge max : 55 kg - Puissance 150 Watts - Autonomie de 8Km/h - 3 réflecteurs de chaque côté - Autonomie de 8 Heures
-- Idéale pour les enfants : Conçue spécialement pour la sécurité, la T650 Kids est adaptée aux enfants de 8 à 14 ans. Un démarrage par points de pression, une vitesse limitée à 12 km/h, en plus de son faible poids et dune maniabilité extrème, toutes les conditions sont réunis pour samuser avec sa trottinette électrique
 - Roues et Freins : Ses roues 6 pouces solides, elle ne risquera pas la crevaison. Parfaite pour les jeunes, elle est pourvue de 2 points de pression pour les pieds. Ces points garantissent un équilibre idéal et une capacité daccélération sécurisée
+- La Garantie : Wispeed est toujours au plus près de ses clients. Si toutefois, vous nêtes pas satisfait de notre produit. Nhésitez pas à contacter notre Service Après Vente, nous vous trouverons la solution adaptée
+- Idéale pour les enfants : Conçue spécialement pour la sécurité, la T650 Kids est adaptée aux enfants de 8 à 14 ans. Un démarrage par points de pression, une vitesse limitée à 12 km/h, en plus de son faible poids et dune maniabilité extrème, toutes les conditions sont réunis pour samuser avec sa trottinette électrique
+- Parfait pour les jeunes : Limitée à 12 km/h, elle offre une sécurité optimale et une vitesse adéquate aux enfants de 8 à 14 ans désireux de samuser ou de se déplacer en toute liberté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

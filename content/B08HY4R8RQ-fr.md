@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Nouveaux mini-sticks nouvelle génération (NXG) plus résistants et plus précis
 - - Verrouillage des gâchettes physique et réassignation manuelle des boutons arrières
 - - Modules et boutons d’action de très haute précision avec un temps de réponse minimal
+- - Nouveaux mini-sticks nouvelle génération (NXG) plus résistants et plus précis
 - - Ecosystème de modules illimité (vendus séparément) pour un maximum de polyvalence et un confort de jeu continuellement amélioré
-- - Technologie T-MOD et fonction Hot-Swap pour permuter un module avec un autre à n’importe quel moment
 - - Manette professionnelle entièrement modulaire
 - - Logiciel gratuit pour joueurs Xbox et PC Windows 10, pour configurer tous les réglages essentiels (profils de jeu, reprogrammation, sensibilité, vibrations, etc.)
+- - Technologie T-MOD et fonction Hot-Swap pour permuter un module avec un autre à n’importe quel moment
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
