@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ecologique, le surligneur STABILO BOSS est rechargeable. Le set de bureau est fabriqué en plastique recyclé.
+- Chaque surligneur STABILO BOSS ORIGINAL offre jusquà 350 mètres de surlignage
 - Le surligneur STABILO BOSS ORIGINAL peut rester ouvert 4h sans sécher. Son encre à base deau offre une couleur de surlignage intense et résistante à la lumière sur tous papiers.
 - 23 Surligneurs STABILO BOSS ORIGINAL (9 fluo et 14 pastel) dans un set de bureau collector
 - Le surligneur BOSS ORIGINAL possède une pointe biseautée qui permet 2 largeurs de traits ( 2 et 5 mm), pour surligner, souligner ou colorier !
 - Le set de bureau vous permet de ranger 23 surligneurs STABILO BOSS et ainsi toujours à porter de main, sur votre bureau
-- Ecologique, le surligneur STABILO BOSS est rechargeable. Le set de bureau est fabriqué en plastique recyclé.
-- Chaque surligneur STABILO BOSS ORIGINAL offre jusquà 350 mètres de surlignage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

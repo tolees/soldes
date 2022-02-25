@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Les textiles avec revêtement en cuir allient résistance et sensation rétro.
 - Grâce aux lacets élastiques, la chaussure est facile à mettre et à enlever.
-- Lélément Max Air et le rembourrage en mousse souple assurent un confort léger.
 - La semelle en caoutchouc garantit une traction durable.
+- Lélément Max Air et le rembourrage en mousse souple assurent un confort léger.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

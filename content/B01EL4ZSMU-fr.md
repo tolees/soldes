@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Épaisseur: 0,3mm
-- Espacement entre les dents: 1,00 mm
 - Longueur de la lame: 240mm
+- Espacement entre les dents: 1,00 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
