@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. - DC Extended Universe - Collection 7 films [4K Ultra HD + Blu-ray]'
-date: 2022-02-16 20:42:29
+date: 2022-02-25 08:27:51
 image: 'https://m.media-amazon.com/images/I/518VQioR19L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.fr/dp/B07T3KFF4N/?tag=tolees0d-21'
 descuento: '38.76'
-average: '62.9028571428571'
+average: '62.3753333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
