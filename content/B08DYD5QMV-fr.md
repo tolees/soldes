@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur: Noir
-- Poids du colis: 300.0 g
 - Fabriqué en France
 - Casque Gaming avec intelligence artificielle
+- Poids du colis: 300.0 g
 
 [🛒 Achète-le!!]({{< param buyurl >}})
