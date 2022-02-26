@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 bocaux à gobelet
-- Relié à lappli "healthy drinks" pour plus de 40 délicieuses recettes de jus et défis
-- Des millions de nutriments extrait grâce au puissant moteur de 1400W et la technologie ProBlend 3D
-- Affichage LED
-- Notre bol de 2 L en verre a une capacité de 1,8 L vous permettant de préparer des smoothies pour toute la famille
 - 3 fonctions préenregistrées (pulse/ glace pilée / smoothie) pour une multitude de recettes
+- Des millions de nutriments extrait grâce au puissant moteur de 1400W et la technologie ProBlend 3D
+- Notre bol de 2 L en verre a une capacité de 1,8 L vous permettant de préparer des smoothies pour toute la famille
+- Relié à lappli "healthy drinks" pour plus de 40 délicieuses recettes de jus et défis
+- Affichage LED
+- 2 bocaux à gobelet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
