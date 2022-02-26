@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arrow-L intégrale [Blu-Ray]'
-date: 2022-02-19 10:54:18
+date: 2022-02-26 19:05:45
 image: 'https://m.media-amazon.com/images/I/51NGPh8w59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
