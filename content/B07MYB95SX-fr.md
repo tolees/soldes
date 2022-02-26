@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La technologie brevetée Dynamic Mesh Communication fournit des connexions Intercom transparentes et à longue portée avec une facilité et une stabilité inégalées pour les grands et les petits groupes. Meilleure réduction du bruit du vent de sa catégorie
-- Activation vocale « Hey Siri » / « OK Google ». La commande vocale naturelle de Cardo facilite son utilisation et renforce la sécurité en réduisant le besoin d’interface avec un bouton ou une roue spécifique. Plus de 20 commandes embarquées dans plusieurs langues permettent de contrôler de nombreux aspects de l’appareil
-- Le son JBL – une qualité sonore et des performances vraiment incomparables à toutes les vitesses. La clarté audio de qualité supérieure a été optimisée pour une utilisation dans un casque. La diffusion de musique,, les appels téléphoniques, l’interphone et la navigation GPS n’ont jamais été aussi bons
 - L’application Cardo Connect sous iOS et Android offre une commande à distance complète et la maîtrise totale des paramètres/présélections de l’appareil
 - Adaptation universelle : compatible avec toutes les marques et tous les modèles de casques. Pour une utilisation avec un demi-casque, le kit demi-casque Cardo est nécessaire
+- Le son JBL – une qualité sonore et des performances vraiment incomparables à toutes les vitesses. La clarté audio de qualité supérieure a été optimisée pour une utilisation dans un casque. La diffusion de musique,, les appels téléphoniques, l’interphone et la navigation GPS n’ont jamais été aussi bons
+- Activation vocale « Hey Siri » / « OK Google ». La commande vocale naturelle de Cardo facilite son utilisation et renforce la sécurité en réduisant le besoin d’interface avec un bouton ou une roue spécifique. Plus de 20 commandes embarquées dans plusieurs langues permettent de contrôler de nombreux aspects de l’appareil
+- La technologie brevetée Dynamic Mesh Communication fournit des connexions Intercom transparentes et à longue portée avec une facilité et une stabilité inégalées pour les grands et les petits groupes. Meilleure réduction du bruit du vent de sa catégorie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

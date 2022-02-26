@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étui à rabat avec fenêtre transparente sur le côté pour afficher les informations importantes
-- La fenêtre latérale permet de répondre et de rejeter des appels ou dutiliser le lecteur de musique
 - Protection de lécran, du cadre et de larrière contre les rayures et les chocs
+- La fenêtre latérale permet de répondre et de rejeter des appels ou dutiliser le lecteur de musique
 - Contrôle facile des différentes fonctions possible lorsque létui est fermé
 - Dimensions de lemballage de larticle: 3.9 L x 20.2 H x 11.7 W (centimeters)
+- Étui à rabat avec fenêtre transparente sur le côté pour afficher les informations importantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

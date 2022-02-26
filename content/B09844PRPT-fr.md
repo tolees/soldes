@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lapplication gratuite LEGO Super Mario contient des instructions pour la construction, des idées créatives et un forum où les enfants peuvent partager leurs idées, entre autres !
-- Il constituera un excellent cadeau danniversaire pour les enfants âgés de 8 ans et plus qui possèdent le pack de démarrage LEGO Super Mario (71360 or 71387), requis pour jouer
+- Les ensembles à collectionner LEGO Super Mario font entrer dans le monde réel des personnages de Super Mario et proposent des défis créatifs illimités grâce à de nombreuses possibilités d’extension, de reconstruction et de jeu interactif.
+- Elle comprend 3 figurines LEGO Super Mario : Kamek, une Tori Taupe et un Goomba, ainsi qu’un bloc POW et un tuyau canon de démarrage pour commencer le niveau
 - Cet ensemble est formidable pour jouer seul ou se connecter à une figurine LEGO Mario ou LEGO Luigi (non incluse) avec Bluetooth pour jouer en équipe de deux
 - Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - L’extension de la forteresse volante peut se combiner avec dautres ensemble Super Mario de nombreuses manières différentes et se déplie pour révéler un intérieur détaillé
-- Les ensembles à collectionner LEGO Super Mario font entrer dans le monde réel des personnages de Super Mario et proposent des défis créatifs illimités grâce à de nombreuses possibilités d’extension, de reconstruction et de jeu interactif.
-- Elle comprend 3 figurines LEGO Super Mario : Kamek, une Tori Taupe et un Goomba, ainsi qu’un bloc POW et un tuyau canon de démarrage pour commencer le niveau
+- Il constituera un excellent cadeau danniversaire pour les enfants âgés de 8 ans et plus qui possèdent le pack de démarrage LEGO Super Mario (71360 or 71387), requis pour jouer
 - Elle contient de nombreux défis pour les joueurs, y compris utiliser le balai de Kamek pour abattre la main mécanique de Bowser et une planche pour renverser le mat
+- Lapplication gratuite LEGO Super Mario contient des instructions pour la construction, des idées créatives et un forum où les enfants peuvent partager leurs idées, entre autres !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
