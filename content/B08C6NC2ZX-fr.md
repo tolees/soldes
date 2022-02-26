@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Famille Pierrafeu-L intégrale [Blu-Ray]'
-date: 2022-02-20 06:04:34
+date: 2022-02-26 02:13:15
 image: 'https://m.media-amazon.com/images/I/517NtNBJb7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C6NC2ZX/?tag=tolees0d-21'
 descuento: '35.43'
-average: '32.74'
+average: '31.99'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

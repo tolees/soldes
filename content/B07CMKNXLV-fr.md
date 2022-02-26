@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yissvic 12 Pièces Outils de Jardinage Sac de Rangement Outils de Jardin Arrosoir Gants de Jardinage Cadeau Les Personnes âgées'
-date: 2022-02-18 13:01:06
+date: 2022-02-26 02:03:43
 image: 'https://m.media-amazon.com/images/I/51HhJU7zkjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'YISSVIC'
 buyurl: 'https://www.amazon.fr/dp/B07CMKNXLV/?tag=tolees0d-21'
 descuento: '16.67'
-average: '29.352'
+average: '29.4583333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
