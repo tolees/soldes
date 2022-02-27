@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fartools DWS 710E Ponceuse murale à placoplâtre télescopique 710 W Diamètre de l abrasif 225 mm Vitesse de rotation 600-1500 tr/min Noir  Gris  Jaune'
-date: 2022-02-16 15:47:53
+date: 2022-02-27 16:52:29
 image: 'https://m.media-amazon.com/images/I/41-Wq+lRmHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de collecte et dévacuation des poussières à très haut niveau détanchéité. Adaptable à laspirateur à décolmatage Plaster 35.
+- Manche télescopique de 1100mm à 1650mm.
 - Tête haute ultra-orientable pour de marquer les plaques. Diamètre 225mm, blocage darbre et vitesse variable électroniquement.
 - Indispensable pour poncer le plâtre en hauteur (murs, sous-pente, plafonds) sans détériorer le moteur de la ponceuse.
 - Ponceuse murale télescopique et inclinable 710W pour poncer le plâtre et les plaques de plâtre en limitant la poussière à son minimum.
-- Manche télescopique de 1100mm à 1650mm.
+- Système de collecte et dévacuation des poussières à très haut niveau détanchéité. Adaptable à laspirateur à décolmatage Plaster 35.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
