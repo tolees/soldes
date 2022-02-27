@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le coffret comprend quatre chevaliers et une citadelle avec pont-levis, catapultes, une trappe... Dimensions : 43,5 x 38,5 x 45,5 cm (LxPxH)
-- Prêts pour le combat !
-- Convient aux enfants à partir de 5 ans.
 - Rejoins les aventures des courageux chevaliers !
+- Le coffret comprend quatre chevaliers et une citadelle avec pont-levis, catapultes, une trappe... Dimensions : 43,5 x 38,5 x 45,5 cm (LxPxH)
+- Convient aux enfants à partir de 5 ans.
 - Les chevaliers de Novelmore sont prêts pour défendre la citadelle !
+- Prêts pour le combat !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

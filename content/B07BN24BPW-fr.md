@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voir la description du produit ci-dessous pour plus dinformations.
-- Produit neuf et dorigine. Nous sommes un vendeur autorisé de Vans.
 - Vans Filmore Suede Baskets en toile Noir
+- Produit neuf et dorigine. Nous sommes un vendeur autorisé de Vans.
+- Voir la description du produit ci-dessous pour plus dinformations.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

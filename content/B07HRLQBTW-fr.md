@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A cutting-edge processor gives you lightning fast downloads and uploads
 - Immerse yourself in Samsung largest infinity display ever - ideal for binging on boxsets or giving presentations
-- Introducing Samsung most powerful battery yet that’ll keep you going as long as you need
 - Enhanced face recognition, iris scanner and fingerprint scanner make accessing your phone quick, convenient and secure
+- A cutting-edge processor gives you lightning fast downloads and uploads
+- Introducing Samsung most powerful battery yet that’ll keep you going as long as you need
 
 [🛒 Achète-le!!]({{< param buyurl >}})

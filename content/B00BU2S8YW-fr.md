@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Concu pour une utilisation de plusieurs heures dans le Home Office, Préconisé pour un utilisateur de max. 100 kg
-- Accoudoirs réglable en hauteur, Verin à gaz certifié par l organisme qualité allemand TÜV, Hauteur dassise réglable en continu de 42-51 cm
-- Chaise ergonomique, réglable en hauteur en continu, dossier inclinable jusquà 135° et mécanisme basculant pour une position dassise optimale
-- Recouvrement tissu haute résistance avec sigle brodé DX Racer
-- Livré démonté, Montage facile grâce à la notice de montage détaillée
-- Stabilité maximale grâce au piètement étoile 5 branches super stable
-- Fauteuil de direction sport look Racer avec accoudoirs et coussins inclus. Taille Conseillée : 1m55 - 1m75
 - Les coussins cales reins et appui tête sont réglables manuellement et vous assurent un confort et soutien parfait
+- Recouvrement tissu haute résistance avec sigle brodé DX Racer
+- Fauteuil de direction sport look Racer avec accoudoirs et coussins inclus. Taille Conseillée : 1m55 - 1m75
+- Stabilité maximale grâce au piètement étoile 5 branches super stable
+- Chaise ergonomique, réglable en hauteur en continu, dossier inclinable jusquà 135° et mécanisme basculant pour une position dassise optimale
+- Accoudoirs réglable en hauteur, Verin à gaz certifié par l organisme qualité allemand TÜV, Hauteur dassise réglable en continu de 42-51 cm
+- Livré démonté, Montage facile grâce à la notice de montage détaillée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

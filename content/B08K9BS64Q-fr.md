@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 216 unité(s) de cet article soldée(s) à partir du 12 janvier 2022 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - notre sunday box remplira vos grands-parents de bonheur : envoyez des photos, vidéos et mots doux directement sur la tv de vos grands-parents. des grands-parents au coeur de la famille sont des grands-parents heureux !
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - le cadeau idéal : à la recherche d’un super cadeau pour vos grands-parents, nous vous recommandons notre sunday box. cest un cadeau rempli d’amour prêt à l’emploi !
 - vos photos et vidéos sur la tv : vos grands-parents profitent de toutes vos nouvelles sur grand écran ! convivial et pratique, ils ont l’habitude de la tv. ils profitent alors des belles aventures partagées par toute la famille.
 
