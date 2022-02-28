@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - Falling Skies - L intégrale de la Série - Coffret DVD'
-date: 2022-02-20 13:07:18
+date: 2022-02-28 14:45:18
 image: 'https://m.media-amazon.com/images/I/51Y169wwh-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.fr/dp/B01LZ8GWJC/?tag=tolees0d-21'
 descuento: '33.18'
-average: '28.56'
+average: '28.74'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
