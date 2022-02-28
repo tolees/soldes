@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HBO - Game of Thrones  Le Trône de Fer  -L intégrale des Saisons 1 à 8 [Blu-Ray]'
-date: 2022-02-24 18:11:51
+date: 2022-02-28 22:26:56
 image: 'https://m.media-amazon.com/images/I/51NDX1OEhsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'HBO'
 buyurl: 'https://www.amazon.fr/dp/B07SZBK3WR/?tag=tolees0d-21'
 descuento: '30.77'
-average: '83.5289333333334'
+average: '83.3531788079471'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
