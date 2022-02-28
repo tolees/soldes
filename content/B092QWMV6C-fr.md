@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Chssis métal en z ultra résistant (peut supporter jusquà 80Kg). hauteur 75 cms (ajustable).
+- Tapis imprimé anti-derappant perlé (nabsorbe pas leau) recouvrant intégralement le plateau.
+- Bureau gamer dbz dragon ball z incurvé avec rebords biseautés pour un confort de jeu maximum.
 - Plateau ergonomique ne pvc finition carbone (110 cms x 60 cms ) pour accueillir facilement 2 écrans et emplacement à larrière pour faire passer les cbles.
 - Accessoires de rangements fournis: support pour casque gaming et porte-gobelet.
-- Bureau gamer dbz dragon ball z incurvé avec rebords biseautés pour un confort de jeu maximum.
-- Tapis imprimé anti-derappant perlé (nabsorbe pas leau) recouvrant intégralement le plateau.
-- Chssis métal en z ultra résistant (peut supporter jusquà 80Kg). hauteur 75 cms (ajustable).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

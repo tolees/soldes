@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La surface de travail est de laluminium composé cobond; facilite la poussée des pièces de travail
 - Idéal pour les modèles darchitecture, designers, décorateurs, artistes, enseignement aussi, des prototypes ainsi que chemin de fer classique, plan et construction de modèles de bateaux
-- Une grille imprimée et rapporteur sont appliqués à la base.
 - clôture de la fonction double avec barre dalimentation fermant à clé
+- La surface de travail est de laluminium composé cobond; facilite la poussée des pièces de travail
+- Une grille imprimée et rapporteur sont appliqués à la base.
 - Coupes transversales sont réalisées au moyen dune solution simple et efficace: sécurisé dessin broches à table au moyen de ruban adhésif, il sert de centre fixe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

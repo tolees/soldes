@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nouveau design, plus plat, plus tendance
-- 1 platine de rue poste extérieur
 - Nouvelle finition aluminium ik 07 - ip 44
 - Caméra grand angle 95 degrés
+- 1 platine de rue poste extérieur
 - Protection pluie aluminium ou acier inox
+- Nouveau design, plus plat, plus tendance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

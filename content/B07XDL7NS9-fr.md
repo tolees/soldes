@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Singer M2105 Machine à Coudre  Métal  Blanc'
-date: 2022-02-19 06:44:11
+date: 2022-02-28 08:06:46
 image: 'https://m.media-amazon.com/images/I/31weH8oJfYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Singer'
 buyurl: 'https://www.amazon.fr/dp/B07XDL7NS9/?tag=tolees0d-21'
 descuento: '38.47'
-average: '126.99'
+average: '119.323333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

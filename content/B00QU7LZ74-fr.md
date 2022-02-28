@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet article n est plus en solde !
-- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
-- KS TOOLS sefforce de vous fournir des produits pratiques pour personnaliser votre espace de travail selon vos désirs et vos besoins.
 - Module indispensable pour la mécanique, cela reste une panoplie doutils basique nécessaire à tous les bricoleurs amateurs ou professionels.
+- KS TOOLS sefforce de vous fournir des produits pratiques pour personnaliser votre espace de travail selon vos désirs et vos besoins.
+- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
+- Cet article n est plus en solde !
 - Module en mousse taille 1/3" - Pour servantes et établis - Empreinte des outils découpée au laser - Mousse imputrescible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
