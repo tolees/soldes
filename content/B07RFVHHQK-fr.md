@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - 2 têtes de compression (sans huile) = sans entretien
 - Compact et transportable : idéal gonflage, nettoyage, agrafage, clouage
 - Nouvelle technologie Silent Tech : - 20 Db vs compresseur classique
-- Moteur central induction usage intensif
 - Compresseur silencieux - cuve 6L 8 bar - Moteur 0,75HP - référence : 425513.
+- Moteur central induction usage intensif
 
 [🛒 Achète-le!!]({{< param buyurl >}})
