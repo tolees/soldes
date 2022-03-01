@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les quatre méthodes pour indiquer la présence de tension (voyant LED, écran LCD, tonalité sonore ou retour tactile) permettent de savoir à tout moment si une tension dangereuse est présente (affichage numérique sur T130 et T150, indicateur vibrant sur T110, T130 et T150)
 - Conçu selon la norme CEI EN 61243-3:2014 pour vérifier l´absence de tension, même lorsque les piles sont déchargées.
 - Niveau de sécurité CAT IV 600 V et CAT III 690 V
+- Les quatre méthodes pour indiquer la présence de tension (voyant LED, écran LCD, tonalité sonore ou retour tactile) permettent de savoir à tout moment si une tension dangereuse est présente (affichage numérique sur T130 et T150, indicateur vibrant sur T110, T130 et T150)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

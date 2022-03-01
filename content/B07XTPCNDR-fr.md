@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance maximale 3500W
-- Rallonge Prolongateur électrique IP44 Profesionnelle Outdoor 5M Câble en Caoutchouc H07RN-F, Section 3G2.5 mm², avec prise Français Electralock, fiche Français. Convient pour les alimentations, les transformateurs et tout type de prise
-- Prise Français 2P+T 16A Electralock équipée dun mécanisme de verrouillage breveté qui une fois activé (en tournant lanneau) vous permet de travailler de manière agile et confortable, évitant les déconnexions accidentelles de lappareil connecté lors de son utilisation
 - Comment ça marche: Insérez la fiche (en statut non verrouillé). Tournez le système de verrouillage (Statut verrouillé). La fiche est maintenant verrouillée er ne peut plus être retirée
 - Avec Electralock, les prises ne se déconnecteront plus accidentellement; en fait Elctralock soulève un poids égal à 12Kg
+- Prise Français 2P+T 16A Electralock équipée dun mécanisme de verrouillage breveté qui une fois activé (en tournant lanneau) vous permet de travailler de manière agile et confortable, évitant les déconnexions accidentelles de lappareil connecté lors de son utilisation
+- Puissance maximale 3500W
+- Rallonge Prolongateur électrique IP44 Profesionnelle Outdoor 5M Câble en Caoutchouc H07RN-F, Section 3G2.5 mm², avec prise Français Electralock, fiche Français. Convient pour les alimentations, les transformateurs et tout type de prise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

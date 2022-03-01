@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Boîte de rangement avec couvercle amovible pour accéder facilement aux crayons sans encombrer lespace
+- Testés dans les conditions les plus exigeantes pour obtenir une formulation 100% résistante à la lumière : les couleurs restent stables pendant plus de 100 ans dans des conditions de musée
 - Ces crayons de couleurs à lhuile ont une texture crémeuse aux teintes riches, leur mine épaisse permet une application dense pour un résultat éclatant
 - Contient : 1 set de 36 crayons de couleurs Derwent LightFast dans leur boîte, noms et références de couleurs inscrits en bleu en relief, forme ronde compatible avec les taille-crayons classiques
-- Testés dans les conditions les plus exigeantes pour obtenir une formulation 100% résistante à la lumière : les couleurs restent stables pendant plus de 100 ans dans des conditions de musée
 - Crayons de couleurs de qualité professionnelle dans une large gamme de teintes riches qui ne se décolorent pas avec le temps, idéals pour les artistes professionnels et les expositions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

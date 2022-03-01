@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faible résistance respiratoire
-- Extrêmement léger
-- Le système de fixation baïonnette permet aux filtres dêtre clipsés pour une plus grande facilité de fixation et dutilisation
 - 49 unité(s) de cet article soldée(s) à partir du 12 janvier 2022 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Extrêmement léger
+- Le système de fixation baïonnette permet aux filtres dêtre clipsés pour une plus grande facilité de fixation et dutilisation
+- Faible résistance respiratoire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

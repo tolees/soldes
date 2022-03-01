@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coque ultralégère Roccat Bionic Shell seulement 75 g
-- Interrupteurs optiques Titan rapide et tactile
 - Stellar Wireless + Bluetooth, avec charge rapide (Câble de chargement USB-C)
-- Cet article n est plus en solde !
+- Interrupteurs optiques Titan rapide et tactile
 - Patins PTFE thermo traités et préajustés
+- Cet article n est plus en solde !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
