@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups XN304T Espresso Machine  1260 W  0.7 liters  Titane'
-date: 2022-02-26 13:50:13
+date: 2022-03-01 18:07:18
 image: 'https://m.media-amazon.com/images/I/41ySWUFwtNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'KRUPS'
 buyurl: 'https://www.amazon.fr/dp/B07P6YDT5Z/?tag=tolees0d-21'
 descuento: '21.75'
-average: '119.7475'
+average: '117.796'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
