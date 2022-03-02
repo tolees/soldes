@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre pour femme Michael Kors MINI DARCI  taille de boîtier de 33 mm  mouvement à trois aiguilles  bracelet en acier inoxydable'
-date: 2022-03-01 11:29:07
+date: 2022-03-02 17:41:25
 image: 'https://m.media-amazon.com/images/I/31PCnInoJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00TISTGKA-fr Montre pour femme Michael Kors MINI DARCI taille de...'
 sku: 'B00TISTGKA-fr'
 tags: [ 'Montres','Montres bracelet pour femme','Montres et accessoires','Montres femme','michael kors', ]
-actualPrice: 85.0 EUR
+actualPrice: 97.0 EUR
 currency: EUR
-price: 85.0
+price: 97.0
 comparePrice: 279.0 EUR
 prodname: 'Montre pour femme Michael Kors MINI DARCI  taille de boîtier de 33 mm  mouvement à trois aiguilles  bracelet en acier inoxydable'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.fr/dp/B00TISTGKA/?tag=tolees0d-21'
-descuento: '69.53'
-average: '85.0'
+descuento: '65.23'
+average: '91.0'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

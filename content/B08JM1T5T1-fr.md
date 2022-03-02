@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autonomie dune journée entière avec recharge rapide
-- Processeur Intel Core i5 de 10ème Génération
-- Windows Hello : authentification biométrique par capteur dempreintes digitales
+- Écran tactile PixelSense 12.45
 - Indice de réparabilité: 3.6/10
 - Connectique : USB-A, USB-C, prise audio 3.5, Surface Connect
-- Écran tactile PixelSense 12.45
+- Windows Hello : authentification biométrique par capteur dempreintes digitales
+- Autonomie dune journée entière avec recharge rapide
+- Processeur Intel Core i5 de 10ème Génération
 
 [🛒 Achète-le!!]({{< param buyurl >}})

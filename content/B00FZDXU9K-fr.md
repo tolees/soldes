@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cadran argenté avec index dorés et luminescents et chiffre arabe à 12h - Mouvement chronographe avec date et affichage 24h - Aiguilles dorées et luminescentes - Verre minéral
 - Bracelet en acier inoxydable, finition polie et brossée avec maillons dorés au centre - Boucle déployante invisible avec bouton poussoir
+- Livré dans une boîte cadeau MICHAEL KORS
 - Le design des boîtes à montres Michael Kors se renouvelle à chaque saison
 - Montre MICHAEL KORS homme- Boîtier rond (diam. 45 mm) en acier inoxydable, finition polie - 2 bouton-poussoirs et 1 tige-couronne dorés- Etanche 10 ATM - Lunette crantée en acier inoxydable doré, finition polie
-- Livré dans une boîte cadeau MICHAEL KORS
 
 [🛒 Achète-le!!]({{< param buyurl >}})

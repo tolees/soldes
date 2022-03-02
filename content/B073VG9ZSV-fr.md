@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie sans fil Bluetooth Smart 4.0
-- Batterie: 2 piles alcalines AAA (incluses)
-- Ultrafine et légère
-- Technologie Bluetrack
-- Utilisation confortable et ambidextre
-- Compatible Windows et Mac
-- Non compatible : Mac OS 10.10.5, Mac OS 10.11.1, Mac OS 10.11.4. Android : Android 5.0, Nexus 9, Android 4.4.4, Nexus 5, Android 4.2.iOS : iOS 9, iOS 8
 - S’aplatit pour être transportée facilement
 - Pavé tactile pour défilements verticaux et horizontaux
+- Batterie: 2 piles alcalines AAA (incluses)
+- Non compatible : Mac OS 10.10.5, Mac OS 10.11.1, Mac OS 10.11.4. Android : Android 5.0, Nexus 9, Android 4.4.4, Nexus 5, Android 4.2.iOS : iOS 9, iOS 8
+- Compatible Windows et Mac
+- Technologie Bluetrack
+- Technologie sans fil Bluetooth Smart 4.0
 - Autonomie : jusqu’à 6 mois
+- Utilisation confortable et ambidextre
+- Ultrafine et légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
