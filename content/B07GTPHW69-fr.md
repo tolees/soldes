@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tient chaud longtemps : Grands éléments chauffants en fibre de carbone pour rester au chaud longtemps avec la batterie Bosch de 12 V GAA 12V (fournie) ou la batterie Bosch de 18 V GAA 18V-24 (disponible en tant qu’accessoire)
 - Utilisation de lénergie de la batterie de manière polyvalente : pour charger un portable, écouter de la musique, – grâce à la prise USB de l’adaptateur de batterie
+- Livré avec : GHJ 12+18V Unisex, adaptateur USB GAA 12 V-21, batterie 2,0 Ah, chargeur GAL 12V-40,dans boîte à carton - taille L
+- Tient chaud longtemps : Grands éléments chauffants en fibre de carbone pour rester au chaud longtemps avec la batterie Bosch de 12 V GAA 12V (fournie) ou la batterie Bosch de 18 V GAA 18V-24 (disponible en tant qu’accessoire)
 - Confort et fonctionnalité : 3 niveaux de chauffage pour un réglage personnalisé, grande liberté de mouvement grâce à la forme optimisée et à la matière softshell résistante, coupe-vent et déperlante
 - Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les anciens et nouveaux outils Bosch Professional de la même catégorie de voltage.
-- Livré avec : GHJ 12+18V Unisex, adaptateur USB GAA 12 V-21, batterie 2,0 Ah, chargeur GAL 12V-40,dans boîte à carton - taille L
 
 [🛒 Achète-le!!]({{< param buyurl >}})

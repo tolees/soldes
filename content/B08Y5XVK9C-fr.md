@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception résistante à la poussière et aux éclaboussures : Dotée d’une protection IP42 afin d’éviter que des accidents ne viennent interrompre votre gameplay.
 - Logiciel CORSAIR iCUE : Permet de contrôler l’éclairage RGB dynamique, de programmer des macros de manière sophistiquée, de synchroniser l’éclairage sur l’ensemble du système et bien plus encore.
-- Touches volume et multimédia dédiées : Utilisez-les pour régler vos paramètres audios et commander votre lecture média à la volée sans interrompre votre partie.
 - Repose-poignet amovible : Doté d’une surface texturée anti-glissement, le repose-poignet en caoutchouc souple diminue la contrainte sur vos mains pour que vous puissiez jouer confortablement.
+- Conception résistante à la poussière et aux éclaboussures : Dotée d’une protection IP42 afin d’éviter que des accidents ne viennent interrompre votre gameplay.
 - Rétroéclairage RGB dynamique par touche: Illuminez votre bureau en choisissant parmi les dix effets lumineux intégrés ou en créant vos propres effets avec le logiciel CORSAIR iCUE.
 - Six touches de macro dédiées : Activez les fonctions, raccourcis en un instant avec six touches de macro avec le logiciel CORSAIR iCUE ou utilisez des commandes streaming grâce au logiciel Elgato.
+- Touches volume et multimédia dédiées : Utilisez-les pour régler vos paramètres audios et commander votre lecture média à la volée sans interrompre votre partie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
