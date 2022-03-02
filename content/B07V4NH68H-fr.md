@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Riviera-et-Bar PCJ670 Centrifugeuse Digitale  Noir'
-date: 2022-02-27 19:33:37
+date: 2022-03-02 12:27:44
 image: 'https://m.media-amazon.com/images/I/31pgUBi2kPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtre et disque à jus avec râpe tout en Titane pour une longévité accrue de leffet centrifuge.
-- 5 vitesses pour une extraction optimisée selon la texture des aliments
-- Moteur ultra puissant 1300 W
-- Capacité 1,20 L | Vitesse maxi 13500 tr/mn
 - Garantie 2 ans pièces et main dœuvre
+- Capacité 1,20 L | Vitesse maxi 13500 tr/mn
+- 5 vitesses pour une extraction optimisée selon la texture des aliments
 - Ecran LCD avec affichage de la vitesse et guide de sélection des fruits et légumes
+- Filtre et disque à jus avec râpe tout en Titane pour une longévité accrue de leffet centrifuge.
 - Tube dalimentation ultra-large de 84 mm pour un confort dutilisation maximal
+- Moteur ultra puissant 1300 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
