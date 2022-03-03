@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Water resistant
-- Blue dial
 - Invisible clasp
 - Quartz movement
 - Stainless steel case and strap
+- Blue dial
+- Water resistant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
