@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur de la chaussure : normale.
-- Matériau extérieur : cuir.
 - Matériau de semelle externe: Caoutchouc
-- Fermeture : fermeture éclair.
-- Diamètre de laxe : normal.
-- Type de talon : Plateau.
-- Revêtement : cuir.
 - Hauteur du talon : 5,7 cm.
+- Fermeture : fermeture éclair.
+- Type de talon : Plateau.
+- Diamètre de laxe : normal.
+- Revêtement : cuir.
+- Matériau extérieur : cuir.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
