@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Krups XN304T Espresso Machine  1260 W  0.7 liters  Titane'
-date: 2022-03-01 18:07:18
+date: 2022-03-04 18:53:38
 image: 'https://m.media-amazon.com/images/I/41ySWUFwtNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07P6YDT5Z-fr Krups XN304T Espresso Machine 1260 W 0.7 liters Titane'
 sku: 'B07P6YDT5Z-fr'
-tags: [ 'Cafetières à capsules','Cafetières, Machines à café et machines à expresso','Café, thé et expresso','Cuisine et Maison','krups', ]
+tags: [ 'Cafetières, Machines à café et machines à expresso','Café, thé et expresso','Cuisine et Maison','Machines à café 1 tasse','krups', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'KRUPS'
 buyurl: 'https://www.amazon.fr/dp/B07P6YDT5Z/?tag=tolees0d-21'
 descuento: '21.75'
-average: '117.796'
+average: '116.495'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
