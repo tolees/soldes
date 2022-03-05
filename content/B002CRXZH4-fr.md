@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué - Coffret Vapeur avec filtre 3-4 person rouge'
-date: 2022-02-28 07:54:57
+date: 2022-03-05 08:10:34
 image: 'https://m.media-amazon.com/images/I/31dk4wIZ7NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenance : 1400 ml
 - Cuisson au four et micro-ondes, lavable au lave vaisselle
-- Dimensions: 27,5 x 8 x 21 cm
+- Contenance : 1400 ml
 - Matière : 100% Silicone Platinium
+- Dimensions: 27,5 x 8 x 21 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

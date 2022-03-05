@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture : lacets
 - Semelle : basse
 - Matériau de semelle : synthétique
-- Semelle intérieure : synthétique
-- Dessus : cuir - synthétique/PU
-- Doublure : synthétique
-- Fermeture : lacets
-- Largeur de la chaussure : normal
 - Type de talons : plat
+- Semelle intérieure : synthétique
+- Largeur de la chaussure : normal
+- Doublure : synthétique
+- Dessus : cuir - synthétique/PU
 
 [🛒 Achète-le!!]({{< param buyurl >}})
