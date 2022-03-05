@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fit type: Universal
+- Capacité de levage: 1.5T
 - Cric losange. Pieds extra larges pour une meilleure stabilité
 - Matériel: caoutchouc
-- Capacité de levage: 1.5T
 - Hauteur de levage: 115mm à 390mm
-- Fit type: Universal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
