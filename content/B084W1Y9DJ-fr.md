@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 75 x 100 cm
 - Couverture en veloudoux beige et écru des collections amy & zoé aston & jack
+- 75 x 100 cm
 - Lavage recommandé à 30°c
 - 100% polyester
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mouvement chronographe à quartz
 - Cadran noir
 - Épaisseur du boîtier 10,5mm/Diamètre du boîtier 44 mm
-- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
+- Mouvement chronographe à quartz
 - Bracelet en acier inoxydable
+- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

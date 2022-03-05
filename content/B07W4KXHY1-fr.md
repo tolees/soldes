@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Moulin à grains intégré pour vous offrir l’intégralité des arômes d’un café fraichement moulu. Réservoir à grains 250Gr, amovible pour un nettoyage facile
-- 3 niveaux de broyage. Programmable jusqu’à 24h à l’avance avec un écran LCD rétroéclairé en bleu
 - Verseuse isotherme de 1L, soit environ 10 tasses. Plaque de maintien au chaud avec arrêt de sécurité au bout de 40 min
-- Fonction auto nettoyage – détartrage automatique. Porte-filtre amovible et lavable. 1 cuillère dosette incluse.
 - Design premium en inox brossé associé à des touches d’inox brillant et de noir
+- Fonction auto nettoyage – détartrage automatique. Porte-filtre amovible et lavable. 1 cuillère dosette incluse.
+- 3 niveaux de broyage. Programmable jusqu’à 24h à l’avance avec un écran LCD rétroéclairé en bleu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
