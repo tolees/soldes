@@ -30,11 +30,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Switches Allemand Cherry MX Red - Lisses et rapides avec des caractéristiques de frappe linéaires sans clic audible;Joueur daction ou écrivain rapide ? La caractéristique linéaire combinée à la faible résistance du ressort permet une réponse incroyablement rapide et un déclenchement en douceur. Matrice: 105 touches
 - Rétroéclairage dynamique : le rétroéclairage brillant rouge améliore lexpérience avec des réglages déclairage pratiquement illimités
-- Commandes dédiées au volume et au multimédia : réglez votre son à la volée sans interrompre votre partie
-- Entièrement programmable avec CUE : le logiciel intuitif et puissant Corsair Utility Engine (CUE) permet de programmer des macros sophistiquées et des effets lumineux dynamiques
-- Description du clavier : clavier AZERTY Français
-- Résistant à la poussière et aux éclaboussures : le clavier est protégé contre les accidents;votre partie ne sarrête jamais;Taux de rapport du clavier HID: 1000Hz
-- 100 % anti-ghosting avec rollover complet : quelle que soit la vitesse des actions de votre jeu, chaque frappe est enregistrée correctement
 - AZERTY Français
+- Résistant à la poussière et aux éclaboussures : le clavier est protégé contre les accidents;votre partie ne sarrête jamais;Taux de rapport du clavier HID: 1000Hz
+- Description du clavier : clavier AZERTY Français
+- Entièrement programmable avec CUE : le logiciel intuitif et puissant Corsair Utility Engine (CUE) permet de programmer des macros sophistiquées et des effets lumineux dynamiques
+- Commandes dédiées au volume et au multimédia : réglez votre son à la volée sans interrompre votre partie
+- 100 % anti-ghosting avec rollover complet : quelle que soit la vitesse des actions de votre jeu, chaque frappe est enregistrée correctement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
