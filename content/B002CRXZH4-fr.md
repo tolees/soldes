@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuisson au four et micro-ondes, lavable au lave vaisselle
-- Contenance : 1400 ml
 - Matière : 100% Silicone Platinium
+- Cuisson au four et micro-ondes, lavable au lave vaisselle
 - Dimensions: 27,5 x 8 x 21 cm
+- Contenance : 1400 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
