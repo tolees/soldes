@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Mode ECO et avec Batterie 1200 mAh】 En mode ECO, lorsque le bébé émet un son, lécran se rallume pour rappeler aux parents; la batterie peut être utilisée pendant 12 heures. Note: la camera doit être toujours branchée au secteur pour fonctionner.
-- 【Supporte de 4 Caméras】 Un seul moniteur connecte jusquà 4 caméras. Note : le paquet contient 1 moniteur, 1 caméra.
-- 【Grand Angle de la Caméra Ajusté】 Une rotation horizontale de 350° et une rotation verticale de 90° pour constituer une couverture complète à 360°.
-- 【Connexion Stable et Sûre】 Portée de transmission de 300 mètres, via la technologie sans fil 2,4 GHz, ce qui vous permet de toujours garder votre bébé en vue lorsque vous êtes dans le salon ou la cuisine.
 - 【Grossissement 2 fois 】Lécran peut être agrandi 2 fois pour vous permettre de voir plus clairement les activités du bébé. Service de client 2 ans, ainsi quune assistance client de qualité et personnalisés.
+- 【Connexion Stable et Sûre】 Portée de transmission de 300 mètres, via la technologie sans fil 2,4 GHz, ce qui vous permet de toujours garder votre bébé en vue lorsque vous êtes dans le salon ou la cuisine.
+- 【Supporte de 4 Caméras】 Un seul moniteur connecte jusquà 4 caméras. Note : le paquet contient 1 moniteur, 1 caméra.
+- 【Mode ECO et avec Batterie 1200 mAh】 En mode ECO, lorsque le bébé émet un son, lécran se rallume pour rappeler aux parents; la batterie peut être utilisée pendant 12 heures. Note: la camera doit être toujours branchée au secteur pour fonctionner.
+- 【Grand Angle de la Caméra Ajusté】 Une rotation horizontale de 350° et une rotation verticale de 90° pour constituer une couverture complète à 360°.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

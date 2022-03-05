@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Microphone Mic+ 6 mm Clair et Distinct : profitez de communications vocales claires et précises grâce au Mic+ doté dune fonction de sourdine Flip-up, ainsi que dun témoin lumineux rouge de sourdine
+- Plus Rien ne vous Retient : un casque sans fil puissant 2,4 GHz pour jouer pendant 12 heures avec une liberté de mouvement totale et un câble 3,5 mm inclus pour une source audio supplémentaire . Sensibilité : 93 +/-3 dB
 - Son surround DTS Headphone:X 2.0 Immersif : entendez les ennemis se faufiler derrière vous, les indices de pouvoirs spéciaux, ainsi que les environnements immersifs à laide de la clarté de position
 - LIGHTSYNC sur Spectre RVB Complet : profitez dun éclairage RVB réactif et entièrement programmable à laide du logiciel G HUB en fonction de votre pièce, de votre équipement et de votre style
 - Transducteurs Pro-G 50 mm : les transducteurs audio Pro-G 50 mm sont fabriqués à partir dun maillage hybride propriétaire pour une expérience sonore de gaming incroyable
-- Plus Rien ne vous Retient : un casque sans fil puissant 2,4 GHz pour jouer pendant 12 heures avec une liberté de mouvement totale et un câble 3,5 mm inclus pour une source audio supplémentaire . Sensibilité : 93 +/-3 dB
-- Microphone Mic+ 6 mm Clair et Distinct : profitez de communications vocales claires et précises grâce au Mic+ doté dune fonction de sourdine Flip-up, ainsi que dun témoin lumineux rouge de sourdine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
