@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Numéro de modèle : 6000-0983
 - Puzzle de qualité
 - Convient pour toute la famille
+- Numéro de modèle : 6000-0983
 - Boîtes en carton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lumineux et coloré.
-- Puzzle de haute qualité.
 - Convient pour toute la famille.
+- Lumineux et coloré.
 - En carton recyclé.
+- Puzzle de haute qualité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
