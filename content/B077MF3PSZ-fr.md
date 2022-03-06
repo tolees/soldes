@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Une semelle intérieure enlevable SoftFoam combinée à une semelle extérieure en caoutchouc procurent à ce modèle un très grand confort Ces baskets s’affichent en plus dans une multitude de coloris à la mode
 - Agrémentées de l’emblématique bande Puma et du logo sur les côtés et la languette, ces chaussures de ville féminines se présentent dans la plus pure élégance sportive signée Puma
-- Le design sportif et rafraîchissant du sneaker Puma Smash Wns v2 L tire son inspiration de l’univers du tennis Avec son dessus en cuir souple, ce modèle unisexe est une chaussure de sport performante et stylée
 - Idéales pour l’entraînement, les tennis Puma allient qualité et allure branchée Très tendance, ces sneakers sont un incontournable pour la mode quotidienne
 - Portés comme chaussures basses, chaussures de sport ou chaussures de ville décontractées, les sneakers de Puma conjuguent un style unique avec un confort inégalable
+- Le design sportif et rafraîchissant du sneaker Puma Smash Wns v2 L tire son inspiration de l’univers du tennis Avec son dessus en cuir souple, ce modèle unisexe est une chaussure de sport performante et stylée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
