@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadenas à code TSA. Système Trolley multipositions. Porte-adresse. Poignée supérieure avec finition effet cuir ultra-confortable. Poignée latérale avec finition effet cuir ultra-confortable. 4 doubles roues pour une rotation et une stabilité optimum. Ouverture Zip SECURITECH brevetée améliorée : ZST 2.
-- Doublure ajustée pour davantage despace et une bonne organisation visuelle. Toucher peau de pêche. Sac pour linge sale. Sac à chaussures. 1 poche en filet. Poche plate zippée.
 - Garantie : 5 ans
 - 55 cm x 40 cm x 20 cm - 34.63 L
+- Cadenas à code TSA. Système Trolley multipositions. Porte-adresse. Poignée supérieure avec finition effet cuir ultra-confortable. Poignée latérale avec finition effet cuir ultra-confortable. 4 doubles roues pour une rotation et une stabilité optimum. Ouverture Zip SECURITECH brevetée améliorée : ZST 2.
+- Doublure ajustée pour davantage despace et une bonne organisation visuelle. Toucher peau de pêche. Sac pour linge sale. Sac à chaussures. 1 poche en filet. Poche plate zippée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
