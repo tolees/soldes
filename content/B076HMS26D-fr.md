@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Base et poignets côtelés
 - Poche kangourou
 - Coupe standard : silhouette droite, plus large au niveau du haut du corps
-- Manches raglan
 - Capuche à cordon de serrage réglable
-- Base et poignets côtelés
+- Manches raglan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
