@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POLAR M600 Bracelet d activit? Noir'
-date: 2022-02-28 22:59:41
+date: 2022-03-06 08:35:30
 image: 'https://m.media-amazon.com/images/I/41VCvyBYnDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Polar'
 buyurl: 'https://www.amazon.fr/dp/B01K28RNVS/?tag=tolees0d-21'
 descuento: '32.84'
-average: '257.286666666667'
+average: '251.71'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre connectée Android wear : notification et gestion des messages, réseaux sociaux, cartographie et navigation, commande vocale "OK Google", musique, écrans montre personnalisables
-- Ecran tactile couleur
-- 20 profils sportifs et fonctions smart coaching
 - Tracker dactivité avec GPS et cardio 6 LED intégré
+- Montre connectée Android wear : notification et gestion des messages, réseaux sociaux, cartographie et navigation, commande vocale "OK Google", musique, écrans montre personnalisables
+- 20 profils sportifs et fonctions smart coaching
+- Ecran tactile couleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
