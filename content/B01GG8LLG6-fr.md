@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le n° 1 mondial des périphériques gaming : daprès des données de ventes agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
+- Touches G Programmables : les 9 touches G programmables permettent de créer des macros de jeux personnalisées pour exécuter des commandes et combo complexes rapidement sur votre clavier gaming RVB
+- Second Ecran Arx : ce clavier gaming dispose de l’application Arx Control pour smartphone pour accéder aux données de jeu sur l’écran du smartphone ou de la tablette sans interrompre la partie
+- Clavier RGB avec Commandes Multimédia Dédiées : le panneau de contrôle à commande direct permet de lire un morceau, le mettre en pause, régler le volume tout en restant concentré sur le jeu
 - Switchs Romer-G Tactiles : le clavier mécanique G910 Orion Spectrum conçu par Logitech est lun des claviers gaming mécaniques RVB les plus rapides au monde avec switchs mécaniques Romer-G
 - Le n° 1 mondial des périphériques gaming : daprès des données de ventes agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
-- Clavier RGB avec Commandes Multimédia Dédiées : le panneau de contrôle à commande direct permet de lire un morceau, le mettre en pause, régler le volume tout en restant concentré sur le jeu
-- Second Ecran Arx : ce clavier gaming dispose de l’application Arx Control pour smartphone pour accéder aux données de jeu sur l’écran du smartphone ou de la tablette sans interrompre la partie
 - Éclairage RVB Personnalisable : personnalisez léclairage des touches du clavier filaire USB Logitech G910 à partir dune palette de 16 millions de couleurs
-- Touches G Programmables : les 9 touches G programmables permettent de créer des macros de jeux personnalisées pour exécuter des commandes et combo complexes rapidement sur votre clavier gaming RVB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
