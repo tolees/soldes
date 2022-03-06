@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en cuir synthétique épouse parfaitement le pied et assure un confort de port élevé
-- Semelle extérieure antidérapante en caoutchouc assure une bonne durabilité
 - Semelle intermédiaire Cloudfoam offre un amorti idéal à chaque pas
+- Semelle extérieure antidérapante en caoutchouc assure une bonne durabilité
+- Tige en cuir synthétique épouse parfaitement le pied et assure un confort de port élevé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

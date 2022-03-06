@@ -31,7 +31,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Semelle en caoutchouc Vibram TC5+
 - Tige en cuir doux
 - Doublure en mesh 100 % recyclé
-- Lacets et toile 100 % recyclés
 - Doublure respirante en mesh
+- Lacets et toile 100 % recyclés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
