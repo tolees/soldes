@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tracker dactivité avec GPS et cardio 6 LED intégré
-- Montre connectée Android wear : notification et gestion des messages, réseaux sociaux, cartographie et navigation, commande vocale "OK Google", musique, écrans montre personnalisables
 - 20 profils sportifs et fonctions smart coaching
 - Ecran tactile couleur
+- Tracker dactivité avec GPS et cardio 6 LED intégré
+- Montre connectée Android wear : notification et gestion des messages, réseaux sociaux, cartographie et navigation, commande vocale "OK Google", musique, écrans montre personnalisables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

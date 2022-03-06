@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durabilité, résistance aux chocs et fiabilité à long terme
-- Libérez de lespace sur votre disque dur interne en transférant des fichiers vers votre solution de stockage de bureau WD Elements
 - Grande capacité dans un design compact
+- Libérez de lespace sur votre disque dur interne en transférant des fichiers vers votre solution de stockage de bureau WD Elements
 - Formaté NTFS et compatible avec Windows 10, 8.1 et Windows 7
+- Durabilité, résistance aux chocs et fiabilité à long terme
 - Compatible avec les nouveaux appareils USB 3.0 et rétrocompatible avec ceux équipés du format USB 2.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
