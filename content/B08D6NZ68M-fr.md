@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hike Up Gtx M
 - Couleur: Ebony
 - Numéro darticle: MIG1857_3220_8.5
+- Hike Up Gtx M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
