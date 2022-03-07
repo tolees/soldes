@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Nettoyage doux et efficace grâce à la technologie Sonicare avec 62 000 mouvements de la tête de brosse par minute
 - Pour un nettoyage en douceur, la brosse à dents vous alerte lorsque vous appuyez trop fort grâce à une légère vibration
-- Elimine jusquà 7 fois plus de plaque dentaire quune brosse à dent manuelle
 - Afin de garantir une efficacité optimale, la technologie BrushSync vous alerte lorsque votre tête de brosse doit être remplacée
+- Elimine jusquà 7 fois plus de plaque dentaire quune brosse à dent manuelle
 - Utilisation sûre et douce sur les zones sensibles, appareils orthodontiques et couronnes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
