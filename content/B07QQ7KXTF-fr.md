@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Centrale vapeur Silence Steam Pro Noir/Vert, Garantie : 2 ans (Pièces détachées réparables 10 ans), Poids : 5,4 kg, Dim. : 44,0 x 25,0 x 23,0 cm, Puissance : 2800 W
+- Autonomie : Illimitée
 - Réservoir amovible (1,3 L) même en cours d’utilisation, Stockage et transport faciles grâce à l’arceau de maintien Lock System, Collecteur de calcaire exclusif, Cordon électrique de 1,98 m
 - Centrale vapeur ultra-silencieuse avec cuve haute pression (8 bars) et débit vapeur en continu jusqu’à 150 g/min pour une performance optimale sur tous les textiles et contre les plis difficiles
 - Réglage manuel de la température, Mode Eco disponible, Fonction défroissage vertical, Effet assainissant éliminant jusquà 99,99% des bactéries, Fonction pressing (580 g/min)
-- Autonomie : Illimitée
+- Contenu : 1x Centrale vapeur Silence Steam Pro Noir/Vert, Garantie : 2 ans (Pièces détachées réparables 10 ans), Poids : 5,4 kg, Dim. : 44,0 x 25,0 x 23,0 cm, Puissance : 2800 W
 - Semelle brevetée MicroSteam 400 3De en inox dotée de 400 micro-trous pour une glisse et une diffusion de la vapeur incomparables, Pointe précision pratique pour les coutures et boutonnières
 
 [🛒 Achète-le!!]({{< param buyurl >}})
