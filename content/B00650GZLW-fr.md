@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce pantalon en polyester élastique dans les 2 sens offre 5 couches de matériaux de protection contre lessence, lhuile et la chaleur
 - Léger, confortable et résistant à lusure, ce pantalon de protection est idéal pour les bûcherons, paysagistes et arboriculteurs professionnels et pour réaliser de gros travaux en extérieur
 - Certification KWF ; Sécurité EN ISO 11393-2 Classe 1 ; recommandé par des bûcherons professionnels
-- Taille XL (EU 50-52) ; protection de lavant et des côtés des jambes uniquement
+- Ce pantalon en polyester élastique dans les 2 sens offre 5 couches de matériaux de protection contre lessence, lhuile et la chaleur
 - Poches pratiques pour ranger les outils : 2 grandes poches avant et une poche arrière avec fermeture à scratch
+- Taille XL (EU 50-52) ; protection de lavant et des côtés des jambes uniquement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La CPU de Snapdragon 778G 5G: Proceso de 6 nm, contiene un núcleo principal Cortex-A78 con una velocidad de reloj de 2,4 GHz, lo que aumenta el rendimiento en un 40 %.
 - L’appareil photo principal de 64 MP peut prendre des photos haute résolution de 9248x6936 qui répondent aux exigences des publicités à l’extérieur et des couvertures de magazines en HD.
-- Système de refroidissement avec chambre à vapeur: est doté d’une grande chambre à vapeur d’une surface, associée à un dissipateur extra-large d’une surface qui couvre la totalité des sources de chaleur du cœur. Cela réduit de manière significative la température et permet au téléphone de continuer de fonctionner avec des performances élevées.
-- Moteur tactile, ressentez le choc: Le moteur tactile de realme est développé sur les bases d’un moteur linéaire entièrement adapté à l’ensemble des aspects du système, vous procurant un retour de vibration tridimensionnel.
-- 5 Go de RAM virtuelle supplémentaires*
 - Mode Photographie de rue exclusif: Pour la première fois, le realme GT Master Edition dispose du mode Photographie de rue préréglé sur le smartphone, qui inclut les fonctionnalités d’instantané DIS, de mise au point instantanée et de zoom rapide avec un ensemble de filtres de photographie de rue exclusifs.
-- Plein écran AMOLED Samsung de 120 Hz: Il peut afficher des couleurs riches, telles que vous les voyez dans la réalité.Vous en tomberiez amoureux dès le premier regard.
+- La CPU de Snapdragon 778G 5G: Proceso de 6 nm, contiene un núcleo principal Cortex-A78 con una velocidad de reloj de 2,4 GHz, lo que aumenta el rendimiento en un 40 %.
+- Moteur tactile, ressentez le choc: Le moteur tactile de realme est développé sur les bases d’un moteur linéaire entièrement adapté à l’ensemble des aspects du système, vous procurant un retour de vibration tridimensionnel.
+- Système de refroidissement avec chambre à vapeur: est doté d’une grande chambre à vapeur d’une surface, associée à un dissipateur extra-large d’une surface qui couvre la totalité des sources de chaleur du cœur. Cela réduit de manière significative la température et permet au téléphone de continuer de fonctionner avec des performances élevées.
 - Charge SuperDart 65 W: peut recharger entièrement votre téléphone en 33 minutes.
+- 5 Go de RAM virtuelle supplémentaires*
+- Plein écran AMOLED Samsung de 120 Hz: Il peut afficher des couleurs riches, telles que vous les voyez dans la réalité.Vous en tomberiez amoureux dès le premier regard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
