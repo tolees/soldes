@@ -28,18 +28,18 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Storage: 16GB, 3GB RAM
-- Display: IPS LCD 5.2 inches 1080x1920
-- (Remarque) Paramètres double SIM : Lorsque deux cartes SIM sont insérées, une seule carte SIM peut être définie comme SIM 4G/3G/2G. Lautre emplacement de carte SIM prend uniquement en charge les réseaux 2G.
-- Batterie 3000 mAh avec la technologie déconomie dénergie intelligente
-- Appareil frontal 8 Mpx, appareil photo principal 13 Mpx
-- SIM : Double sim ( Vous pouvez insérer 2 cartes nano-SIM, ou 1 carte nano-SIM et 1 carte microSD)
-- Modèle : Huawei P9 Lite
-- Connectivité: Wi-Fi 2.4 GHz 802.11b/g/n, Wi-Fi direct
+- Réseaux : VNS-L31&L21 / 4G: FDD B1/B3/B7/B8/B20 / 3G: UMTS B1/B2/B8
 - Capteur dempreintes digitales plus précis
+- (Remarque) Paramètres double SIM : Lorsque deux cartes SIM sont insérées, une seule carte SIM peut être définie comme SIM 4G/3G/2G. Lautre emplacement de carte SIM prend uniquement en charge les réseaux 2G.
+- Display: IPS LCD 5.2 inches 1080x1920
+- Mémoire : RAM de 3Go / ROM Flash EMMC de 16Go / Port Micro-SD, jusqu’à 128Go
+- Storage: 16GB, 3GB RAM
+- SIM : Double sim ( Vous pouvez insérer 2 cartes nano-SIM, ou 1 carte nano-SIM et 1 carte microSD)
+- Batterie 3000 mAh avec la technologie déconomie dénergie intelligente
 - Main camera 13MP, Secon camera 8MP
 - Processor: HiSilicon Kirin 650
-- Réseaux : VNS-L31&L21 / 4G: FDD B1/B3/B7/B8/B20 / 3G: UMTS B1/B2/B8
-- Mémoire : RAM de 3Go / ROM Flash EMMC de 16Go / Port Micro-SD, jusqu’à 128Go
+- Connectivité: Wi-Fi 2.4 GHz 802.11b/g/n, Wi-Fi direct
+- Modèle : Huawei P9 Lite
+- Appareil frontal 8 Mpx, appareil photo principal 13 Mpx
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
