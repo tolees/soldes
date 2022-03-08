@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie Trim Shave : jusqu’à 0.2 mm près pour un rasage impeccable sans irritation
-- Sur peau sèche ou humide / sous la douche, avec système exclusif de nettoyage pour un entretien facile et optimal
 - Batterie Lithium, pour une performance longue durée, jusqu’à 60 minutes
-- Lames Comfort tip en acier inoxydable pour éviter les coupures
+- Sur peau sèche ou humide / sous la douche, avec système exclusif de nettoyage pour un entretien facile et optimal
 - 3 guides de coupe fixes (2, 4 et 6 mm)
+- Lames Comfort tip en acier inoxydable pour éviter les coupures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
