@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mouvement chronographe / Fonction date
-- Cadran bleu
 - Bracelet avec placage ionique (IP) bleu
-- Épaisseur du boîtier 12,3mm, Diamètre du boîtier 43 mm
+- Mouvement chronographe / Fonction date
 - Résistance à leau 5 ATM
+- Épaisseur du boîtier 12,3mm, Diamètre du boîtier 43 mm
+- Cadran bleu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

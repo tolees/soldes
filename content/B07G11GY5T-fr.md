@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cadran Sunray brossé en argent blanc
 - Bracelet en acier inoxydable avec placage ionique (IP) or jaune
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
-- Mouvement chronographe à quartz
 - Épaisseur du boîtier 11,75 mm / Diamètre du boîtier 44 mm
+- Mouvement chronographe à quartz
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
