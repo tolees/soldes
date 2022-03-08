@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mecafer 425513 Compresseur Silencieux 59 dB 6L/0 75HP/8 bar'
-date: 2022-03-04 15:28:06
+date: 2022-03-08 15:28:00
 image: 'https://m.media-amazon.com/images/I/416PL5AukyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nouvelle technologie Silent Tech : - 20 Db vs compresseur classique
-- 2 têtes de compression (sans huile) = sans entretien
 - Compresseur silencieux - cuve 6L 8 bar - Moteur 0,75HP - référence : 425513.
-- Compact et transportable : idéal gonflage, nettoyage, agrafage, clouage
 - Moteur central induction usage intensif
+- 2 têtes de compression (sans huile) = sans entretien
+- Compact et transportable : idéal gonflage, nettoyage, agrafage, clouage
+- Nouvelle technologie Silent Tech : - 20 Db vs compresseur classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

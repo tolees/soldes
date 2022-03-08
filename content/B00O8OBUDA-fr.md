@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTALLATION: À encastrer
-- TYPE: 2 sorties
-- STYLE: Basic
 - VARIATION: Levier traditionnel
+- STYLE: Basic
+- INSTALLATION: À encastrer
 - COLLECTION: Bauedge
+- TYPE: 2 sorties
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
