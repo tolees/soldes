@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande emblématique à lintérieur du col
-- Logo Tommy Hilfiger à lavant
-- 100 % coton bio
 - Col ras-du-cou
+- Bande emblématique à lintérieur du col
+- 100 % coton bio
+- Logo Tommy Hilfiger à lavant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
