@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 100% Coton
-- Fermeture: bouton
-- Lavage en machine, 30° max.
-- moyenne
-- Le jean classique Levis: le pantalon en denim est le compagnon idéal de ceux qui aiment le style sans sacrifier le confort
-- 100% Coton
 - Lavage en machine
+- moyenne
+- 100% Coton
+- Lavage en machine, 30° max.
+- Fermeture: bouton
 - Adapté à une tenue aussi décontractée quélégante, le jean classique sublime la silhouette du porteur et laisse en même temps une grande liberté de mouvement
+- Le jean classique Levis: le pantalon en denim est le compagnon idéal de ceux qui aiment le style sans sacrifier le confort
 - Fermeture : fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
