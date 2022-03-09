@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur du bracelet : or jaune
-- Type de fermoir : à bouton-poussoir
-- Matière du bracelet : acier inoxydable
-- Forme : rond
 - Couleur du cadran : noir
+- Type de fermoir : à bouton-poussoir
+- Couleur du bracelet : or jaune
+- Forme : rond
+- Matière du bracelet : acier inoxydable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
