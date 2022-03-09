@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Taille élastique
+- 95% Coton, 5% Élasthanne
 - Lavage en machine
 - Regular
-- 95% Coton, 5% Élasthanne
+- Fermeture: Taille élastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En cuir synthétique.
 - Qualité Jack & Jones.
-- Différentes longueurs.
 - Jack & Jones Ceinture pour homme
+- En cuir synthétique.
+- Différentes longueurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
