@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mode Eco-turbo : variateur pour régler la puissance selon le type dherbes à couper et optimiser lautonomie de la batterie
+- Temps de charge : 1,5 - 2 heures
+- Pression sonore : 80 dB (A)
+- Surface de coupe : 2500 m²
+- Batterie interchangeable avec la totalité des produits 36V BLACK+DECKER Jardinage
 - Technologie E-drive : transmission bi-étagée procurant plus de couple pour une coupe sans effort
 - 2 Outils en 1 : la tête pivotante permet de passer rapidement des coupes aux finitions
-- Temps de charge : 1,5 - 2 heures
-- Surface de coupe : 2500 m²
-- Pression sonore : 80 dB (A)
-- Batterie interchangeable avec la totalité des produits 36V BLACK+DECKER Jardinage
 - Vibrations : 3 m/s²
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
