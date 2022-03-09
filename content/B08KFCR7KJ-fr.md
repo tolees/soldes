@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synchronisation de l’éclairage des périphériques, refroidisseurs, ventilateurs et autres produits
-- Réagit dynamiquement aux actions et événements du jeu en temps réel
-- Doté d’un châssis en aluminium brossé et anodisé en noir, le clavier allie un look moderne et une durabilité prolongée
-- Contrôle de l’éclairage RGB dynamique intense . Matrice : 105 clés
 - Programmation sophistiquée des macros
+- Contrôle de l’éclairage RGB dynamique intense . Matrice : 105 clés
+- Réagit dynamiquement aux actions et événements du jeu en temps réel
+- Synchronisation de l’éclairage des périphériques, refroidisseurs, ventilateurs et autres produits
+- Doté d’un châssis en aluminium brossé et anodisé en noir, le clavier allie un look moderne et une durabilité prolongée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
