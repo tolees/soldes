@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR - 650VA  4 prises FR '
-date: 2022-03-01 18:29:43
+date: 2022-03-09 13:28:06
 image: 'https://m.media-amazon.com/images/I/31KDPHegU6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Eaton'
 buyurl: 'https://www.amazon.fr/dp/B0052JCHGE/?tag=tolees0d-21'
 descuento: '20.93'
-average: '83.166'
+average: '82.47'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ellipse ECO 650 VA / 400 watts
 - 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
-- Fiable
-- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
 - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
+- Ellipse ECO 650 VA / 400 watts
+- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
+- Fiable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
