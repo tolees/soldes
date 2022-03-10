@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bluetooth
-- Différentes couleurs et effets lumineux
-- Puissance maximale : 15 W.
 - Batterie au lithium pour 8 heures découte
+- Puissance maximale : 15 W.
+- Différentes couleurs et effets lumineux
+- Bluetooth
 - Entrée USB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
