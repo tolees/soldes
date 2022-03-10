@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le tout dernier capteur CMOS Exmor HD APS 24,3 mégapixels de Sony ; Mise au point automatique Fast Hybride avancée ; SVGA Tru-Finder.
-- Objectif SEL1650 - Batterie NP-FW50 – Adaptateur secteur AC-UB10 - Courroie de cou – Câble Micro USB - CD-Rom
-- Viseur OLED SVGA Tru-Finder net
-- Mise au point auto Fast Hybride avancée
 - Capteur CMOS Exmor HD APS 24,3 mégapixels
+- Mise au point auto Fast Hybride avancée
+- Viseur OLED SVGA Tru-Finder net
+- Objectif SEL1650 - Batterie NP-FW50 – Adaptateur secteur AC-UB10 - Courroie de cou – Câble Micro USB - CD-Rom
+- Le tout dernier capteur CMOS Exmor HD APS 24,3 mégapixels de Sony ; Mise au point automatique Fast Hybride avancée ; SVGA Tru-Finder.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

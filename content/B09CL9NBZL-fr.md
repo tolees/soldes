@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un son à 360°
 - Lumière omnidirectionnelle
+- Une conception haut de gamme
 - Une enceinte Design & Portable
 - Jusqu’à 10h d’autonomie
-- Une conception haut de gamme
-- Un son à 360°
 
 [🛒 Achète-le!!]({{< param buyurl >}})
