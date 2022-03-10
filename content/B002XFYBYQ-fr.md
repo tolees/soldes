@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makita Rail de Guidage Makita 1400 mm pour sp6000k'
-date: 2022-03-06 11:52:18
+date: 2022-03-10 21:24:38
 image: 'https://m.media-amazon.com/images/I/31HwD+74S8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation alternative avec certaines défonceuses et scies circulaires, doit être utilisé avec ladaptateur pour rail de guidage de défonceuse (194579-2) et ladaptateur pour rail de guidage de scie (196953-0)
 - Rail de guidage de 55 pouce à utiliser avec les modèles de scie plongeante Makita XPS01, XPS02 et SP6000J
 - Interagit avec la base de la scie et est conçu pour offrir une coupe droite ou en biseau, sans à-coups
 - Idéal pour déchirer des feuilles
+- Utilisation alternative avec certaines défonceuses et scies circulaires, doit être utilisé avec ladaptateur pour rail de guidage de défonceuse (194579-2) et ladaptateur pour rail de guidage de scie (196953-0)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

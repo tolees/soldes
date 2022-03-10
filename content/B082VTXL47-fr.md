@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une douceur parfaite
-- Rapide & simple : élimine les poils en seulement 3 minutes
 - Utilisée pour le torse et le corps
+- Rapide & simple : élimine les poils en seulement 3 minutes
 - Hydrate la peau jusquà 24h
 - Efficace : Agit proche de la racine pour retirer même les poils les plus courts
 
