@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabrication avec du coton biologique,qui est cultivé sans produits chimiques artificiels, ce qui permet de préserver les sols, de réduire de 60 à 90 % la consommation deau et de protéger la santé des agriculteurs
 - Le vêtement Superdry est fabriqué avec un bon équilibre entre style et confort. Nous vous recommandons une taille plus grande que vos marques habituelles pour une expérience de Superdry
 - Original & vintage
-- Fabrication avec du coton biologique,qui est cultivé sans produits chimiques artificiels, ce qui permet de préserver les sols, de réduire de 60 à 90 % la consommation deau et de protéger la santé des agriculteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
