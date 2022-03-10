@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamiya - 74064 - Accessoire pour Maquette - Etabli De Modélisme'
-date: 2022-03-06 15:28:54
+date: 2022-03-10 06:03:27
 image: 'https://m.media-amazon.com/images/I/41yv-xbh3JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Descriptif produit: Outillage pour le maquettisme
 - Age minimum : 14 ans
+- Descriptif produit: Outillage pour le maquettisme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
