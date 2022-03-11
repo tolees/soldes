@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indique le poids jusquà 150 kg (avec précision aux 100g près) et le niveau de graisse pour les utilisateurs de 18 à 80 ans ainsi que lindice de masse corporelle.
 - Cet article n est plus en solde !
-- 8 capteurs pour une analyse corporelle complète
-- Impédancemètre Validé Cliniquement
 - Calcule et classifie le niveau de graisse viscérale (nocive pour la santé) pour les utiliateurs de 18 ans et plus
+- 8 capteurs pour une analyse corporelle complète
+- Indique le poids jusquà 150 kg (avec précision aux 100g près) et le niveau de graisse pour les utilisateurs de 18 à 80 ans ainsi que lindice de masse corporelle.
+- Impédancemètre Validé Cliniquement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
