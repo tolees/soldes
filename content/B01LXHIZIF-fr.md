@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur modèle classique avec matériau extérieur résistant de 1000 g
 - Sport type: Camping & Outdoor
+- Longueur modèle classique avec matériau extérieur résistant de 1000 g
 - Garnissage en duvet entièrement traçable de haute qualité
-- Spacieux, capuche réglable avec passepoil amovible en cuir synthétique
 - Particulièrement robuste G-1000 sur les épaules et les fessiers
+- Spacieux, capuche réglable avec passepoil amovible en cuir synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
