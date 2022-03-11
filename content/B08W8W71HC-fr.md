@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce modèle de collection de voiture pour enfant LEGO est livré avec un châssis plus large de 8 tenons offrant de l’espace pour un cockpit 2 places et pour 2 figurines
-- Les jouets de course LEGO Speed Champions donnent aux enfants la chance de collectionner et de construire les mini-versions de célèbres automobiles
-- Les enfants peuvent explorer l’une des premières voitures de course dépassant les 300 mph au monde avec leur propre modèle de voiture de sport LEGO Speed Champions Koenigsegg Jesko
-- La figurine de pilote de course LEGO koenigsegg incluse de ce jouet voiture est complétée par une combinaison de course, un casque de sécurité et une clé
-- La voiture de course LEGO Koenigsegg Jesko est disponible en blanc et noir avec des détails verts, un aileron noir et des protège-roues
 - Les enfants pourront explorer la mécanique en construisant, avant d’exposer la voiture de course en décoration, c’est une cadeau LEGO idéal pour les garçons et les filles
+- La figurine de pilote de course LEGO koenigsegg incluse de ce jouet voiture est complétée par une combinaison de course, un casque de sécurité et une clé
+- Les enfants peuvent explorer l’une des premières voitures de course dépassant les 300 mph au monde avec leur propre modèle de voiture de sport LEGO Speed Champions Koenigsegg Jesko
+- Ce modèle de collection de voiture pour enfant LEGO est livré avec un châssis plus large de 8 tenons offrant de l’espace pour un cockpit 2 places et pour 2 figurines
+- La voiture de course LEGO Koenigsegg Jesko est disponible en blanc et noir avec des détails verts, un aileron noir et des protège-roues
+- Les jouets de course LEGO Speed Champions donnent aux enfants la chance de collectionner et de construire les mini-versions de célèbres automobiles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
