@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 4. Norme mondiale en matière de sécurité : Maclaren a trouvé un équilibre entre sécurité et qualité. Toutes les poussettes sont fabriquées pour durer pendant des années et sont conçues pour répondre aux normes mondiales les plus élevées en matière de sécurité.
-- 1. Légère et confortable : poussette à une poignée d’un poids de 7,61 kg. Choix idéal pour les parents qui veulent une poussette légère, compacte et sûre avec un siège inclinable dans 4 positions, un harnais de sécurité à 5 points et une suspension à 4 roues
-- 2. Dès la naissance : de la naissance jusqu’à 25 kg. Vous pouvez plier, déplier, pousser, régler le siège, le repose-pieds et le verrou de sécurité avant à une seule main
 - 5. Pièces de rechange : vous pouvez personnaliser votre poussette ou remplacer toutes les pièces fréquemment utilisées. Les articles, tels que la capote, le siège, les roues et le harnais sont disponibles à l’achat
+- 2. Dès la naissance : de la naissance jusqu’à 25 kg. Vous pouvez plier, déplier, pousser, régler le siège, le repose-pieds et le verrou de sécurité avant à une seule main
+- 1. Légère et confortable : poussette à une poignée d’un poids de 7,61 kg. Choix idéal pour les parents qui veulent une poussette légère, compacte et sûre avec un siège inclinable dans 4 positions, un harnais de sécurité à 5 points et une suspension à 4 roues
 - 3. Contenu : housse de protection contre la pluie résistante au vent pour protéger l’enfant, appui-tête et rembourrages aux épaules, capote imperméable UPF 50+ pour protection contre les éléments
 
 [🛒 Achète-le!!]({{< param buyurl >}})

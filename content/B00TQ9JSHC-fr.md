@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de chauffe : Chaleur douce
-- Corps de chauffe : sans fluide
-- Type dinstallation: Electrique
 - Sèche-serviettes électrique 750W
 - Affichage digital
+- Corps de chauffe : sans fluide
+- Type dinstallation: Electrique
+- Type de chauffe : Chaleur douce
 
 [🛒 Achète-le!!]({{< param buyurl >}})

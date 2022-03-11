@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Greenworks Tools - Greenworks Taille-Haie à Batterie G40HT61K2  Li-Ion 40 V 61 cm Longueur de Coupe 27 mm Espacement des dents 3000 Coupes/Min Poignée Supplémentaire Réglable avec Batterie 2ah et Chargeur '
-date: 2022-03-08 10:44:09
+date: 2022-03-11 17:05:25
 image: 'https://m.media-amazon.com/images/I/41KDYLAKVmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Greenworks Tools'
 buyurl: 'https://www.amazon.fr/dp/B0797J6CJG/?tag=tolees0d-21'
 descuento: '54.66'
-average: '121.435'
+average: '118.546'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COUPE EFFICACE - les lames en acier de 61 cm de longueur et de 27 mm despacement de notre taille-haie offrent une longueur et une puissance suffisantes pour une coupe en douceur de vos haies
-- TECHNOLOGIE MODERNE - les lames à double action de notre taille-haie avec une vitesse de coupe de 3000 coupes/min réduisent les vibrations et convainquent également par leur faible niveau sonore
 - FACILE À DÉMARRER - Insérez une batterie de 40V et démarrez: avec le taille-haie à batterie, vous pouvez immédiatement mettre votre haie en forme librement et sans câble dans votre jardin - la batterie de 2 Ah et le chargeur sont inclus
-- CONFORTABLE ET LÉGER - grâce à la poignée pivotante à 90° et au faible poids de 2,8 kg, vous bénéficiez dun soutien confortable lors des travaux de jardinage pour un travail efficace, rapide et facile
+- TECHNOLOGIE MODERNE - les lames à double action de notre taille-haie avec une vitesse de coupe de 3000 coupes/min réduisent les vibrations et convainquent également par leur faible niveau sonore
 - UNE BATTERIE POUR TOUS - les batteries 40V de Greenworks de 2Ah à 4Ah sont polyvalentes et compatibles avec de nombreux produits Greenworks dans le secteur des jardins et des ateliers
+- CONFORTABLE ET LÉGER - grâce à la poignée pivotante à 90° et au faible poids de 2,8 kg, vous bénéficiez dun soutien confortable lors des travaux de jardinage pour un travail efficace, rapide et facile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

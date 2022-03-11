@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pratique et robuste
+- Pour un transport sûr de lanimal
 - À accrocher au vélo
 - En osier aux bords tressés
-- Pour un transport sûr de lanimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
