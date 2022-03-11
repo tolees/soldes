@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kaspersky Total Security 2022  5 Postes / 1 An '
-date: 2022-03-07 06:09:00
+date: 2022-03-11 06:28:57
 image: 'https://m.media-amazon.com/images/I/41JBd7v2pUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Kaspersky'
 buyurl: 'https://www.amazon.fr/dp/B07VP5JQ9K/?tag=tolees0d-21'
 descuento: '71.37'
-average: '30.258'
+average: '29.5890909090909'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
