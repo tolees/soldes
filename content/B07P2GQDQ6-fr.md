@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
 - The LEGO car model building kits make an ideal Christmas or birthday gift for Land Rover enthusiasts and fans of collectable toys
 - The cabin features a detailed dashboard, working steering wheel and forward-folding rear seats that reveal the 4-speed sequential gearbox
-- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
-- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
 - This collectable car model kit for kids 11+ and adults with its clean, modern lines is a great display piece for the home or office
+- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
 - Features authentically designed bodywork with Land Rover emblems, original-design rims with ground-gripping tyres, plus a detailed cabin
+- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
+- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
