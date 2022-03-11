@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plus vous sauvez de mudokons, plus votre révolte devient puissante.
 - Un scénario sombre à l’humour grinçant, plein
 - Utilisez les ressources récupérées et les produits obtenus via les distributeurs pour créer des objets
-- Plus vous sauvez de mudokons, plus votre révolte devient puissante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
