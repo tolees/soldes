@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Arôme: caractéristique, avec des saveurs de pêche fraîche et de fraise
-- Cépin: Pinot grigio
 - Volume du colis: 4500.0 millilitres
 - Accouplement: idéal à lapéritif, parfait avec le poisson, les ptes et les fromages doux, polyvalent avec une combinaison alimentaire
 - Couleur: rose ple avec des teintes cuivrées
+- Cépin: Pinot grigio
 - Saveur: frais, doux et délicat avec une bonne sapidité
+- Arôme: caractéristique, avec des saveurs de pêche fraîche et de fraise
 
 [🛒 Achète-le!!]({{< param buyurl >}})
