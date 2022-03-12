@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il cligne des yeux et appelle pour que tu t’occupes de lui!
-- Mon poney Toffee, on dirait un vrai! Il a besoin que tu toccupes de lui…
-- Quand il entend un bruit, il ferme les yeux et bouge les oreilles!
-- Une peluche toute douce avec des fonctions hyper réalistes !
 - Si tu ne joues pas avec lui, il sappelle en bougeant les yeux et les oreilles!
+- Mon poney Toffee, on dirait un vrai! Il a besoin que tu toccupes de lui…
+- Une peluche toute douce avec des fonctions hyper réalistes !
+- Quand il entend un bruit, il ferme les yeux et bouge les oreilles!
+- Il cligne des yeux et appelle pour que tu t’occupes de lui!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

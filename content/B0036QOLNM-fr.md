@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière de la semelle : caoutchouc
 - Type de talons : plat
-- Fermeture: A enfiler
-- Largeur chaussure : standard
+- Matière de la semelle : caoutchouc
+- ATTENTION Havaianas indique deux types de pointures sur ses semelles : Cest la taille brésilienne (et non EU) qui correspond à la taille française !
 - Avantages : solides, légères, résistantes à la chaleur et à leau, et antidérapantes
 - Doublure : non doublé
-- ATTENTION Havaianas indique deux types de pointures sur ses semelles : Cest la taille brésilienne (et non EU) qui correspond à la taille française !
+- Fermeture: A enfiler
+- Largeur chaussure : standard
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
