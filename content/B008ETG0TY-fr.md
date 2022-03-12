@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolution Air 425028 Super Squirrel Compresseur 6L /2 HP / 8 bar'
-date: 2022-03-02 15:59:48
+date: 2022-03-12 14:32:23
 image: 'https://m.media-amazon.com/images/I/510+vQib9OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
