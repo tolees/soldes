@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haut-parleurs doubles Turtle Beach 60 mm Eclipse - Nos tout nouveaux haut-parleurs doubles brevetés séparent les fréquences hautes et basses pour vous faire plonger dans le son ultra-détaillé dune scène sonore impressionnante.
 - Communication niveau pro - Développé pour les joueurs professionnels, le microphone antibruit amovible TruSpeak vous aide à communiquer clairement et de manière fiable.
+- Haut-parleurs doubles Turtle Beach 60 mm Eclipse - Nos tout nouveaux haut-parleurs doubles brevetés séparent les fréquences hautes et basses pour vous faire plonger dans le son ultra-détaillé dune scène sonore impressionnante.
 - Système spécial lunettes ProSpecs - Le design unique de ProSpecs de Turtle Beach met laccent sur le confort et nexerce pas de pression sur vos lunettes pendant que vous jouez.
 - Précision Turtle Beach AccuTune - Des coussinets doreilles conçus avec précision, injectés dun composite de pulpe de bois, vous offrent une acoustique améliorée pour un environnement sonore réaliste.
 - Commandes sur le casque - Réglez le volume et coupez le micro directement depuis loreillette.

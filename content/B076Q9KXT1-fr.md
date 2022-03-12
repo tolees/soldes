@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec sa couleur de lumière blanche neutre (4 000 K), le projecteur est idéal pour éclairer de plus grandes surfaces autour du bâtiment selon les besoins, telles que les allées, les abris dauto et les cours
+- Montage dangle en option possible. Le capteur 240° peut ainsi surveiller les deux côtés de la maison
 - Le projecteur robuste éclaire de grandes surfaces avec 1 375 lm à une puissance économique de 14,7 W
 - Capteur infrarouge avec un grand angle de détection de 240° et une portée de 12 m. Peut être réglé si nécessaire à laide des plaques de recouvrement fournies
-- Montage dangle en option possible. Le capteur 240° peut ainsi surveiller les deux côtés de la maison
+- Avec sa couleur de lumière blanche neutre (4 000 K), le projecteur est idéal pour éclairer de plus grandes surfaces autour du bâtiment selon les besoins, telles que les allées, les abris dauto et les cours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
