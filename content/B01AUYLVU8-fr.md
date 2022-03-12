@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilise 3 piles AA (non incluses)
-- La minuterie de 4 jours facilement réglée permet une sélection gratuite des temps dalimentation (pas dintervalles fixes)
-- indicateur détat de la batterie Deux batteries de refroidissement et un couvercle fermé gardent lalimentation fraîche
-- couvercle et bol amovibles, faciles à nettoyer (également lavable au lave-vaisselle)
 - sert jusquà 5 portions daliments à des heures normales dalimentation
+- La minuterie de 4 jours facilement réglée permet une sélection gratuite des temps dalimentation (pas dintervalles fixes)
+- couvercle et bol amovibles, faciles à nettoyer (également lavable au lave-vaisselle)
+- Utilise 3 piles AA (non incluses)
+- indicateur détat de la batterie Deux batteries de refroidissement et un couvercle fermé gardent lalimentation fraîche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

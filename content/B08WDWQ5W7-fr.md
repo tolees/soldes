@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette bague fait partie de la famille Gema et a été pensée par la directrice de création Giovanna Engelbert pour la Collection I
-- Depuis 1895, le savoir-faire du fondateur Daniel Swarovski en matière de taille du cristal a défini la société. Sa passion inébranlable pour l’innovation et le design en a fait la première marque mondiale de bijoux et d’accessoires en cristal taillé.
+- Les tailles classiques des cristaux sassocient à une palette de couleurs vives et riches pour une expression de style éclatant
 - À porter selon vos envies, seule, sur un gant de soirée ou avec dautres bagues de la Collection I
 - Pensée pour donner lapparence de cristaux qui fleurissent sur vos doigts, cette bague a été créée avec un anneau sculptural en placage de ton or
-- Les tailles classiques des cristaux sassocient à une palette de couleurs vives et riches pour une expression de style éclatant
+- Cette bague fait partie de la famille Gema et a été pensée par la directrice de création Giovanna Engelbert pour la Collection I
+- Depuis 1895, le savoir-faire du fondateur Daniel Swarovski en matière de taille du cristal a défini la société. Sa passion inébranlable pour l’innovation et le design en a fait la première marque mondiale de bijoux et d’accessoires en cristal taillé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

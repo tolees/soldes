@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Giannini a toujours créé et recherché des accessoires pour la maison, la table et la cuisine et des compléments pour la maison, combinant différents styles et formes dans un seul but: rendre notre vie quotidienne plus pratique, amusante, élégante.
 - Réalisant des objets pour tous, investissant sereinement et avec sérieux dans des produits nouveaux en matière de design et dutilisation, Giannini pense à vous, à vos valeurs, aux objets qui les représentent: émotion, joie, beauté et fonctionnalité.
 - Nous sommes des gens qui créent pour les gens, qui donnent une touche personnelle à leur travail, qui deviennent émotifs et donnent des émotions.
-- Giannini a toujours créé et recherché des accessoires pour la maison, la table et la cuisine et des compléments pour la maison, combinant différents styles et formes dans un seul but: rendre notre vie quotidienne plus pratique, amusante, élégante.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière interne : None
-- Type de fermeture : None
-- Semelle externe : None
-- Semelle interne : None
 - Matière externe : None
+- Semelle interne : None
+- Semelle externe : None
+- Type de fermeture : None
+- Matière interne : None
 
 [🛒 Achète-le!!]({{< param buyurl >}})
