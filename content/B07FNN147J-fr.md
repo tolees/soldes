@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cette maquette à construire pour adultes et enfants a été conçue pour fournir une expérience de construction gratifiante et reposante et formera une magnifique pièce d’exposition
-- Chaque modèle de l’ensemble est à l’échelle pour donner une idée précise de la taille comparative de chaque structure et utilise des couleurs réalistes
 - Le livret inclus contient des informations sur le concepteur, l’architecture et l’histoire de chaque structure
+- Chaque modèle de l’ensemble est à l’échelle pour donner une idée précise de la taille comparative de chaque structure et utilise des couleurs réalistes
 - Les modèles LEGO Architecture sont compatibles avec les autres sets de construction créative LEGO et constitueront un cadeau d’anniversaire ou de Noël idéal
+- Les sets LEGO Architecture célèbrent le monde de l’architecture grâce aux briques LEGO et sont développés pour les passionnés de voyage, de design, d’architecture et d’histoire
 - Mesure plus de 22 cm de haut, 28 cm de large et 11 cm de profondeur
 - Ce set LEGO des monuments de Paris contient l’Arc de Triomphe, les Champs-Élysées, la Tour Montparnasse, le Grand Palais, la Tour Eiffel et le Louvre, ainsi que de la verdure et des arbres
-- Les sets LEGO Architecture célèbrent le monde de l’architecture grâce aux briques LEGO et sont développés pour les passionnés de voyage, de design, d’architecture et d’histoire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
