@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Double hauteur 800 et 620 mm
-- Serrage vertical
-- Structure en acier et mâchoires en bambou très résistantes
-- Plan de travail 740 x 562 mm
 - Ouverture des mâchoires jusquà 205 mm
 - Charge maximale : 250 kg
+- Structure en acier et mâchoires en bambou très résistantes
+- Plan de travail 740 x 562 mm
+- Serrage vertical
 
 [🛒 Achète-le!!]({{< param buyurl >}})
