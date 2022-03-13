@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- KRE60-2K
 - Le grand spécialiste des pinces
 - Bessey
+- Durable
+- KRE60-2K
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

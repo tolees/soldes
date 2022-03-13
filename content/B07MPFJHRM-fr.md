@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le pistolet à peinture PFS 5000 E - Le concentré de puissance pour peintures non diluées
-- Livré avec : PFS 5000 E, 2 godets de 1000 ml avec couvercle, buse pour peinture murale (blanche) / lasures (grise)  / vernis (noire), filtre à peinture, brosse de nettoyage, carton (3165140731140)
-- Conçu pour les peintures murales et tous les projets bois (vernis, laques, lasures) grâce à la technologie ALLPaint
 - Régulation possible de l’application de peinture par réglage en continu du débit d’air
+- Le pistolet à peinture PFS 5000 E - Le concentré de puissance pour peintures non diluées
 - Alimentation en peinture homogène et constante lors des travaux en hauteur ou près du sol grâce à la technologie ConstantFeed
+- Conçu pour les peintures murales et tous les projets bois (vernis, laques, lasures) grâce à la technologie ALLPaint
+- Livré avec : PFS 5000 E, 2 godets de 1000 ml avec couvercle, buse pour peinture murale (blanche) / lasures (grise)  / vernis (noire), filtre à peinture, brosse de nettoyage, carton (3165140731140)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
