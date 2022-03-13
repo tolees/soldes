@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Légèrement incurvé pour une adaptation parfaite
+- Pieds télescopiques (50 mm/côté ) pour une fixation polyvalente
 - Thule 9595B Point De Fixation Du Bord De La Barre D’Arrêt/Flushrail, Aluminium, L
 - WindDiffuser(TM) détourne les courants dair
-- Pieds télescopiques (50 mm/côté ) pour une fixation polyvalente
-- Légèrement incurvé pour une adaptation parfaite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

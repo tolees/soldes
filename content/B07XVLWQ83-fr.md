@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temporisation au démarrage
-- Réglages de volume encastrés
 - Potentiomètres à crans
-- Refroidissement par ventilateurs
 - Protections électroniques contre les courts circuits, offset DC, les surcharges et thermiques
+- Refroidissement par ventilateurs
+- Réglages de volume encastrés
+- Temporisation au démarrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

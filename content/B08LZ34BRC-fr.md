@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mini PC Élégant de petite taille. Facile à configurer, facile à mettre à jour et facile à installer. Scénarios à usages multiples: jeux, bureau, centre médiatique, mini serveur, éducation, signalisation.
-- Certifications et support: FCC, CE, ROSH. Garantie deux ans et assistance 24 heures sur 24 et 7 jours sur 7. Caractéristiques : RTC WakeUp / Wake-On-Lan / Auto Power On (BIOS configurable) / Network boot.
-- orts et connecteurs multiples: USB-C, USB 3.1, HDMI, DisplayPort, 1 Gigabit Ethernet, Dual-Band WiFi, Bluetooth , connecteur audio 3,5 mm. Connexion simultanée à 3 écrans UHD 4K/60Hz.
 - AMD RYZEN 5 3550H CPU haute performance avec graphiques Radeon Vega 8. 16 Go de RAM DDR4 double canal (2 x 8 Go) et 512 Go de PCle SSD M.2. Préinstallé avec Windows 10 pro 64-Bit.
+- Certifications et support: FCC, CE, ROSH. Garantie deux ans et assistance 24 heures sur 24 et 7 jours sur 7. Caractéristiques : RTC WakeUp / Wake-On-Lan / Auto Power On (BIOS configurable) / Network boot.
+- Mini PC Élégant de petite taille. Facile à configurer, facile à mettre à jour et facile à installer. Scénarios à usages multiples: jeux, bureau, centre médiatique, mini serveur, éducation, signalisation.
 - Efficacité énergétique et ergonomie. Permet déconomiser de lespace de bureau et consomme moins dénergie que les équipements équivalents. Fonctionne presque silencieusement grâce à un ventilateur de qualité et à une conception intelligente du flux dair. Dessin avec des cadres métalliques.
+- orts et connecteurs multiples: USB-C, USB 3.1, HDMI, DisplayPort, 1 Gigabit Ethernet, Dual-Band WiFi, Bluetooth , connecteur audio 3,5 mm. Connexion simultanée à 3 écrans UHD 4K/60Hz.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
