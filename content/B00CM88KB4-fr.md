@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GARANTIE : Cette Chatière de luxe à verrouillage magnétique 4 positions PetSafe Staywell bénéficie dune Garantie limitée de 3 ans.
 - PORTE POUR CHATS ET CHATONS : Cette chatière magnétique convient aux chats de 7 kg au maximum et dune Largeur dépaules maximale de 15,2 cm. (Dimensions de la chatière : 252 mm x 241 mm)
-- SYSTÈME DE VERROUILLAGE POUR PLUS DE FLEXIBILITE : 4 Positions de verrouillage peuvent être choisies 1) Entrée uniquement 2) Sortie uniquement 3) Ouvert totalement (entrée et sortie possibles) 4) Fermé (entrée et sortie impossibles).
 - SOLUTION CONTRE LES CHATS ERRANTS : La Clé du Collier Magnétique est idéale pour empêcher les animaux errants dentrer chez vous. Possibilité dajouter des colliers magnétiques supplémentaires (Réf. 980ML/480ML).
+- SYSTÈME DE VERROUILLAGE POUR PLUS DE FLEXIBILITE : 4 Positions de verrouillage peuvent être choisies 1) Entrée uniquement 2) Sortie uniquement 3) Ouvert totalement (entrée et sortie possibles) 4) Fermé (entrée et sortie impossibles).
 - FACILE A INSTALLER : Cette porte Magnétique pour animaux est adaptée aux Fenêtres, portes en verre, murs en brique, portes en PVC, uPVC et métalliques. Compatible avec les tunnels dextension Staywell des séries 300, 400 et 500.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

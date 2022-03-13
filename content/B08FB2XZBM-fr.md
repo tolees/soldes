@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL TUNE 225TWS – Couleur : or'
-date: 2022-03-07 20:07:48
+date: 2022-03-13 14:14:59
 image: 'https://m.media-amazon.com/images/I/31XRv9IuSoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble de recharge USB type C
 - Pure Bass de JBL
-- Dual Connect
 - écoute prolongée de jusqu’à 25 hrs
 - compatibles avec appareils Android et iOS
+- Dual Connect
+- Câble de recharge USB type C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
