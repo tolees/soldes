@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils dentretien : ne pas nettoyer à sec, repassage à basse température, ne pas utiliser deau de Javel.
-- Composition : 98 % coton, 2 % élasthanne
 - Parties dorigine animale : contient des éléments non-textiles dorigine animale.
+- Composition : 98 % coton, 2 % élasthanne
+- Conseils dentretien : ne pas nettoyer à sec, repassage à basse température, ne pas utiliser deau de Javel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
