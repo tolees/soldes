@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écouteurs-micros de haute qualité pour enregistrement 3D immersif. Niveau de pression acoustique maximum: 112dB
 - Fonction découte transparente (« Transparent Hearing ») qui vous permet d’entendre ce qui se passe autour de vous
-- Sintègre de manière transparente aux appareils iOS (iOS version 10.3.3 ou plus récente)
 - Gestion facile de la musique et des appels
 - La commande « Situational Awareness » permet de choisir sa perception de l’environnement entre écoute transparente, annulation active du bruit (ANC), et désactivation de toute correction
+- Écouteurs-micros de haute qualité pour enregistrement 3D immersif. Niveau de pression acoustique maximum: 112dB
+- Sintègre de manière transparente aux appareils iOS (iOS version 10.3.3 ou plus récente)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
