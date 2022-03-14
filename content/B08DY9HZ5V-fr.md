@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution 2K : en matière de sécurité, limportance réside dans les détails. Voyez clairement ce qui se passe dans et autour de votre maison en 2K.
 - Six mois de sécurité avec une seule charge : évitez les manipulations fréquentes pour charger la batterie et profitez dune autonomie de 180 jours avec une seule charge.
+- Résolution 2K : en matière de sécurité, limportance réside dans les détails. Voyez clairement ce qui se passe dans et autour de votre maison en 2K.
 - Des alertes pertinentes : la technologie de détection des humains permet à la caméra de détecter intelligemment la forme du corps et des visages. Cette technologie garantit que vous ne serez alerté que lorsquune personne, et non un chat errant, approche votre porte.
 - Résistante aux intempéries : avec un indice détanchéité IP67, leufyCam 2C Pro est conçue pour résister aux éléments.
 - Vision nocturne détaillée : visionnez les enregistrements ou les séquences en direct en toute clarté, même la nuit, afin de voir clairement qui est là.
