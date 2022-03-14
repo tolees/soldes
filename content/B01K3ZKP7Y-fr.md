@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Buches rougissantes très réaliste
-- Effet flammes LED chemin Arte
+- Cordon dalimentation de 180cm
+- Les flammes peuvent fonctionner sans le chauffage
 - Mobile: sinstalle et se déplace en un instant. Peux également être posé au sol dans nimporte quelle pièce
 - Foyer A effet flammes + chauffage 2000W avec thermostat dambiance
-- Les flammes peuvent fonctionner sans le chauffage
-- Cordon dalimentation de 180cm
 - Ambiance romantique tous les jours de lannée (sutilise en toute saison)
+- Buches rougissantes très réaliste
+- Effet flammes LED chemin Arte
 
 [🛒 Achète-le!!]({{< param buyurl >}})
