@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du boîtier: 43 mm, Épaisseur du boîtier: 13 mm, Couleur du boîtier: Argent et Couleur du cadran: Bleu
 - Résistant à leau: 5 bar -Poids: 169 g
+- Diamètre du boîtier: 43 mm, Épaisseur du boîtier: 13 mm, Couleur du boîtier: Argent et Couleur du cadran: Bleu
 - Design sportif à la mode, parfait pour tous les types de sports, activités intérieures et extérieures ou usage quotidien - La montre dispose d’une fonction calendrier: Date, affichage 24H, aiguilles lumineuses, Lumineux index, Chronographe
 - La montre est livrée dans une belle boîte cadeau avec une de 2 ans
 - Bracelet de Haute qualité en Acier inoxydable Bicolore 21 cm de longueur et 21 mm de largeur avec un Fermoir Boucle déployant avec poussoir

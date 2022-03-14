@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 121 x 33 x (20-35,5) cm (L x l x H)
-- Design pliable
-- Couleur : noir
 - Matériau : plastique
+- Couleur : noir
+- Design pliable
 - Réglable à 3 angles différents
+- Dimensions : 121 x 33 x (20-35,5) cm (L x l x H)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

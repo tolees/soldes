@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lames puissantes durables pour la coupe parfaite
-- La tondeuse à cheveux Braun s’adapte automatiquement à toute tension entre 100V et 240V. Cela en fait un compagnon de voyage idéal
 - Le système de mémoire SafetyLock verrouille et mémorise le dernier paramètre utilisé
 - La double batterie puissante offre une alimentation constante pour une coupe parfaitement égalisée
 - 17 longueurs de coupe : deux accessoires de coupe intelligents vous permettent de personnaliser vos coupes, en vous offrant jusqu’à 16 longueurs différentes ; plus un réglage spécial extracourt à utiliser sans le sabot
 - Entièrement lavable, pour un nettoyage facile à l’eau courante
+- Lames puissantes durables pour la coupe parfaite
+- La tondeuse à cheveux Braun s’adapte automatiquement à toute tension entre 100V et 240V. Cela en fait un compagnon de voyage idéal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
