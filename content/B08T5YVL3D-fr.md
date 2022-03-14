@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MODELE: Masque de protection respiratoire FFP2 de couleur noire. Demi-masque filtrant contre les particules.
+- COMPOSITION: 5 couches filtrantes. Barrette nasale métallique. Elastique fixation auriculaire.
+- CONDITIONNEMENT: 1 boîte de 50 pièces emballés individuellement. Packaging et notice en Français.
 - NORME CE: Testé, certifié et conforme à la norme européenne EN149:2001+A1:2009 FFP2 NR. Masque non réutilisable à usage unique. Haute filtration.
 - LIVRAISON RAPIDE: Stock disponible en France.
-- CONDITIONNEMENT: 1 boîte de 50 pièces emballés individuellement. Packaging et notice en Français.
-- COMPOSITION: 5 couches filtrantes. Barrette nasale métallique. Elastique fixation auriculaire.
-- MODELE: Masque de protection respiratoire FFP2 de couleur noire. Demi-masque filtrant contre les particules.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe 29079000 Bau Edge Grifo Empotrado Para Ducha  Chrome'
-date: 2022-03-11 08:34:27
+date: 2022-03-14 12:14:00
 image: 'https://m.media-amazon.com/images/I/419NXW50H0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COLLECTION: Bauedge
-- INSTALLATION: À encastrer
-- VARIATION: Levier traditionnel
 - STYLE: Basic
+- VARIATION: Levier traditionnel
 - TYPE: 2 sorties
+- INSTALLATION: À encastrer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

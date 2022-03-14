@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Horizon - Forbidden West  PlayStation 5 '
-date: 2022-03-10 15:04:24
+date: 2022-03-14 13:05:39
 image: 'https://m.media-amazon.com/images/I/51MyFIjhHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09FF5FD99-fr Horizon - Forbidden West PlayStation 5'
 sku: 'B09FF5FD99-fr'
-tags: [ 'Informatique','Jeux pour PlayStation 5','Jeux vidéo','PlayStation 5: Consoles, jeux et accessoires','playstation', ]
+tags: [ 'Jeux pour PlayStation 5','Jeux vidéo','PlayStation 5: Consoles, jeux et accessoires','playstation', ]
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49
