@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en acier inoxydable avec placage ionique (IP) noir
-- Cadran noir
 - Mouvement chronographe à quartz
-- Épaisseur du boîtier 10,5mm/Diamètre du boîtier 44 mm
+- Cadran noir
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
+- Bracelet en acier inoxydable avec placage ionique (IP) noir
+- Épaisseur du boîtier 10,5mm/Diamètre du boîtier 44 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

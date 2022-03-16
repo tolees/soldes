@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran Argenté
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Bracelet bleu en silicone
 - Épaisseur du boîtier 9,0mm
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Mouvement à 3 yeux
+- Cadran Argenté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

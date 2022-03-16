@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nom du modèle: Athlete recovery knit warm up B
-- Couleur: Noir
 - Taille: M
+- Couleur: Noir
+- Nom du modèle: Athlete recovery knit warm up B
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
