@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capteur optique Roccat Owl-Eye 16 000 DPI
-- Une forme iconique à l’ergonomie exceptionnelle | revêtement durable, résistant à la saleté et agrippant tout en étant doux au toucher
 - Illumination AIMO: rétroéclairage RGBA et effets lumineux LED
-- Technologie de duplication de boutons via Easy-Shift[+] pour un total de 24 fonctions
+- Une forme iconique à l’ergonomie exceptionnelle | revêtement durable, résistant à la saleté et agrippant tout en étant doux au toucher
 - Cinq zones lumineuses indépendantes et configurables
+- Technologie de duplication de boutons via Easy-Shift[+] pour un total de 24 fonctions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
