@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construit avec des matériaux hyper-résistants et avec 60 millions de commutateurs mécaniques à clic (6 fois la norme)
 - Capteur optique TrueMove Air pour des performances inégalées dans les deux modes sans fil
-- Technologie sans fil à très faible latence avec optimisation automatique des canaux pour des performances similaires à celles des connexions filaires
-- Durée de vie de la batterie dun an, pour plus de 400 heures dutilisation ininterrompue grâce à une technologie écoénergétique révolutionnaire Taux de vote : 1000 Hz / 1 ms
 - Quantum 20 Dual Wireless offre la flexibilité dun sans fil ultra-rapide de qualité gaming via la connexion 2,4 GHz et le Bluetooth 50 pratique pour un couplage instantané à des PC, Mac, ordinateurs portables et autres appareils
 - Systèmes dexploitation compatibles: Windows, Mac, Xbox, PlayStation 4, PlayStation 5 et Linux Port USB requis Configuration logicielle requise: SteelSeries Engine 3184+, pour Windows (7 ou plus récent) et Mac OSX (1012 ou plus récent)
+- Technologie sans fil à très faible latence avec optimisation automatique des canaux pour des performances similaires à celles des connexions filaires
+- Construit avec des matériaux hyper-résistants et avec 60 millions de commutateurs mécaniques à clic (6 fois la norme)
+- Durée de vie de la batterie dun an, pour plus de 400 heures dutilisation ininterrompue grâce à une technologie écoénergétique révolutionnaire Taux de vote : 1000 Hz / 1 ms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
