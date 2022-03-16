@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Replay Anbass Jean Slim  Noir  098 Black   28W / 30L Homme'
-date: 2022-03-06 06:08:03
+date: 2022-03-15 22:11:45
 image: 'https://m.media-amazon.com/images/I/3137pd5exqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- standard
 - Dimensions de lemballage : 5,79 x 34,6 x 27,39 cm (L x H x l)
+- standard
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
