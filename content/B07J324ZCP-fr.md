@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 12 heures de lecture sans fil avec fonctionnalité de charge rapide.
 - Contrôlez vos écouteurs et votre appareil avec un seul bouton.
-- Temps de chargement: 2 heures.Sensibilité: 117 dB SPL (179 mV à 1 kHz)
-- Minor II Bluetooth dispose de pilotes de 14, 2 mm personnalisés pour une expérience d’écoute améliorée.
 - Bluetooth 5.0 avec aptX vous offre la liberté et la commodité dun casque intra-auriculaire sans fil.
+- Minor II Bluetooth dispose de pilotes de 14, 2 mm personnalisés pour une expérience d’écoute améliorée.
+- Temps de chargement: 2 heures.Sensibilité: 117 dB SPL (179 mV à 1 kHz)
 - Minor II Bluetooth est doté d’un système innovant d’ajustement auriculaire avec boucle ajustable pour une coupe ergonomique.
+- 12 heures de lecture sans fil avec fonctionnalité de charge rapide.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

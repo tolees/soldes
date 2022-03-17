@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il sagit dun produit authentique et original de Tommy Jeans
 - Ce produit a été fabriqué de manière durable avec des matériaux durables
+- Il sagit dun produit authentique et original de Tommy Jeans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

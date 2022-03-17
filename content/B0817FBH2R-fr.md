@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Barbie reste élégante en toutes circonstances avec ses cheveux blonds joliment ondulés, son maillot de bain rose à imprimé cactus et son paréo transparent à rayures.
-- Placez Barbie sur la bouée et regardez-la flotter paisiblement !
 - Plongez dans des aventures amusantes avec Barbie et son coffret d’accessoires sur le thème de la piscine incluant une bouée qui flotte vraiment !
-- La table avec seau à glace permet d’y fixer une carafe et un verre pour encore plus de réalisme !
+- Barbie reste élégante en toutes circonstances avec ses cheveux blonds joliment ondulés, son maillot de bain rose à imprimé cactus et son paréo transparent à rayures.
 - Une serviette de plage est aussi fournie.
+- La table avec seau à glace permet d’y fixer une carafe et un verre pour encore plus de réalisme !
+- Placez Barbie sur la bouée et regardez-la flotter paisiblement !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

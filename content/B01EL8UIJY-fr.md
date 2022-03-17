@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tenez un Ronin-M ou Ronin-MX plus facilement et penchez-le contre des surfaces verticales lorsquil nest pas utilisé
-- Il deviendra vite lindispensable de vos tournages.
-- Il sinstalle très rapidement avec son système "Quick release".
 - Améliorez le confort et la maniabilité de votre DJI Ronin M ou MX avec ce grip spécialement étudié pour les professionnels.
+- Il sinstalle très rapidement avec son système "Quick release".
+- Il deviendra vite lindispensable de vos tournages.
+- Tenez un Ronin-M ou Ronin-MX plus facilement et penchez-le contre des surfaces verticales lorsquil nest pas utilisé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
