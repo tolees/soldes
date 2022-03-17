@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie de synchronisation adaptative
 - Temps de réponse MPRT 1ms
 - Vx2758-2kp-mhd
-- Technologie de synchronisation adaptative
 
 [🛒 Achète-le!!]({{< param buyurl >}})
