@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleurs : Spa (extérieur) : bleu marine - Spa (intérieur) : blanc
-- À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
 - Dimensions : Spa (extérieur) : L 158 x l 158 x H 68cm - (intérieur) : L 118 × l 118cm
-- Le spa gonflable carré LITE, le partenaire idéal pour des moments de détente absolus !
+- À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
 - Matières : Spa : PVC renforcé avec technologie 6 couches
+- Le spa gonflable carré LITE, le partenaire idéal pour des moments de détente absolus !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
