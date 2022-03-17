@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Triple coup d’accélérateur à vos jeux : Booste la connexion entre votre PC et le serveur, de trois manières différentes
-- Support AiMesh: Se connecte aux autres routeurs ASUS compatibles pour créer un système Wi-Fi domestique puissant et flexible
-- Éclairage ASUS Aura : multiples effets lumineux pouvant notamment être paramétrés pour vous notifier de l’état de votre réseau
-- Programme GeForce Now : Offre une expérience de Cloud Gaming sans aucune latence
 - Sécurité maximale : Garantie à vie grâce au logiciel AiProtection Pro par Trend Micro, protège tous les appareils connectés contre les cyber-menaces
+- Programme GeForce Now : Offre une expérience de Cloud Gaming sans aucune latence
+- Support AiMesh: Se connecte aux autres routeurs ASUS compatibles pour créer un système Wi-Fi domestique puissant et flexible
+- Triple coup d’accélérateur à vos jeux : Booste la connexion entre votre PC et le serveur, de trois manières différentes
+- Éclairage ASUS Aura : multiples effets lumineux pouvant notamment être paramétrés pour vous notifier de l’état de votre réseau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
