@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- convient dans une pièce de vie : déco contemporaine
 - Horloge tendance par son verre fumé façon miroir
-- fonctionne sur 220 V
-- Affichage à LED blanche : bonne lisibilité
 - Dee 0,09€ht
+- Affichage à LED blanche : bonne lisibilité
+- fonctionne sur 220 V
+- convient dans une pièce de vie : déco contemporaine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
