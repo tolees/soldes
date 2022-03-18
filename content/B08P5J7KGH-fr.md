@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Léger, seulement 32 g
-- Temps de charge de 2 heures
+- 6 bracelets
 - Autonomie accrue de 16 jours en utilisation normale et 22 jours en mode économie de batterie
+- Temps de charge de 2 heures
 - Langue du système: anglais / chinois simplifié / espagnol / russe / italien / français / allemand / portugais / ukrainien / polonais / turc / tchèque / thaï / indonésien / grec / vietnamien / roumain / néerlandais / chinois traditionnel / coréen / japonais
 - Grand écran AMOLED de 1,39" avec Corning Gorilla Glass 3
-- 6 bracelets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
