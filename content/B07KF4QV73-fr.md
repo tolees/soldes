@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rise style: Haute
 - Type de tissu: 97% Coton, 2% Polyester, 1% Élasthanne
-- Dimensions de lemballage de larticle: 4.4 L x 34.2 H x 24.0 W (centimeters)
 - Special size type: Standard
+- Rise style: Haute
 - Short original 501
 - Care instructions: Lavage en machine
+- Dimensions de lemballage de larticle: 4.4 L x 34.2 H x 24.0 W (centimeters)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
