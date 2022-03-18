@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assez grande pour que plusieurs enfants puissent jouer ensemble.
-- Le réfrigérateur a deux portes, un thermomètre et une ardoise. Le téléphone sans fil est inclus pour encourager l’imagination et les jeux de rôles.
+- Fabriquée en panneaux MDF éco-responsable (conforme aux normes « CARB Phase 2 ») en métal et plastique.
 - La cuisinière a une horloge, trois fours, deux plaques de cuisson, un évier amovible en acier inoxydable et trois boutons qui tournent et cliquent.
 - Le montage par un adulte est nécessaire. Cuisine enfant recommandée à partir de l’âge de 3 ans et plus.
-- Fabriquée en panneaux MDF éco-responsable (conforme aux normes « CARB Phase 2 ») en métal et plastique.
+- Assez grande pour que plusieurs enfants puissent jouer ensemble.
+- Le réfrigérateur a deux portes, un thermomètre et une ardoise. Le téléphone sans fil est inclus pour encourager l’imagination et les jeux de rôles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
