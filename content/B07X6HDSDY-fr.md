@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Balance audio jeu/ chat
-- Technologie de connectivité: Filaire
-- Haut-parleurs à chambre double HyperX
-- Son surround HyperX 7.1. Avec mise au point personnalisée. Sensibilité -38 dBV (0 dB = 1 V / Pa à 1 kHz)
 - Impédance: 65 ohms
+- Haut-parleurs à chambre double HyperX
 - Glissières de réglage des basses. Niveau de pression acoustique: 99dBSPL / mW à 1 kHz
+- Son surround HyperX 7.1. Avec mise au point personnalisée. Sensibilité -38 dBV (0 dB = 1 V / Pa à 1 kHz)
 - Veuillez insérer complètement le câble audio en ligne dans loreillette
 - Confort HyperX Signature
+- Technologie de connectivité: Filaire
+- Balance audio jeu/ chat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
