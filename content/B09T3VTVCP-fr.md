@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Xiaomi Watch S1 Active Noir montre connectée santé sport  appel bluetooth  GPS  étanche  suivi santé  100modes d’exercices longue autonomie compatible STRAVA et APPLE HEALTH  alexa  version française'
+date: 2022-03-18 14:04:21
+image: 'https://m.media-amazon.com/images/I/316bo1LMyfL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09T3VTVCP-fr Xiaomi Watch S1 Active Noir montre connectée santé sport...'
+sku: 'B09T3VTVCP-fr'
+tags: [ 'High-Tech','Montres connectées','Téléphones portables et accessoires','xiaomi', ]
+actualPrice: 169.0 EUR
+currency: EUR
+price: 169.0
+comparePrice: 199.99 EUR
+prodname: 'Xiaomi Watch S1 Active Noir montre connectée santé sport  appel bluetooth  GPS  étanche  suivi santé  100modes d’exercices longue autonomie compatible STRAVA et APPLE HEALTH  alexa  version française'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Xiaomi'
+buyurl: 'https://www.amazon.fr/dp/B09T3VTVCP/?tag=tolees0d-21'
+descuento: '15.50'
+average: '169.0'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Autonomie de 12 jours Grande autonomie en utilisation normale 200+ thèmes (TBD) Plus de 200 thèmes, tous les styles disponibles Fond d’écran MIUI
+- Alexa intégrée Demandez la météo, programmez vos alarmes,contrôlez vos appareils IoT...
+- Etanchéité 5ATM Peut être utilisé pour la natation Appels Bluetooth Répondez à vos appels en un clic, simple comme bonjour NFC
+- Ecran AMOLED HD de 1.43‘’ pouces Haute résolution, couleurs étincelantes et plus de détails. Cadran dynamique et de qualité 117 modes de sport 19 modes professionnels, dont HIIT et elliptique Près de 100 autres modes d’exercice, vous offrant toutes les options imaginables
+- GPS double bande Technologie à double bande pour une localisation et un guidage plus précis Surveillance de la santé en continu Fréquence cardiaque, SpO2 et suivi du sommeil afin de prendre soin de vous tout le temps
+
+[🛒 Achète-le!!]({{< param buyurl >}})
