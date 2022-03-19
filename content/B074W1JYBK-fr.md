@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction mémoire pour 4 personnes
-- Design innovant des 6 tubes UV-A bleus et roses durables
 - Tubes roses luminothérapie avec effet activateur et tubes bleus luminothérapie avec effet relaxant
+- Design innovant des 6 tubes UV-A bleus et roses durables
 - Temps de bronzage maximum 30 min, arrêt automatique
+- Fonction mémoire pour 4 personnes
 - Pour un bronzage parfait du haut du corps et une source de vitamine D naturelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
