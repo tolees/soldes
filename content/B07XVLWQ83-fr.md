@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AMP600-MKII - Ibiza Sound - AMPLIFICATEUR DE SONORISATION 2 X 480W'
-date: 2022-03-13 21:08:06
+date: 2022-03-19 11:52:18
 image: 'https://m.media-amazon.com/images/I/31O-Cp6oSPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Potentiomètres à crans
+- Temporisation au démarrage
+- Réglages de volume encastrés
 - Protections électroniques contre les courts circuits, offset DC, les surcharges et thermiques
 - Refroidissement par ventilateurs
-- Réglages de volume encastrés
-- Temporisation au démarrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
