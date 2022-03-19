@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de haute qualité
-- Durable
 - Dimensions : 19 x 16 x 28 cm
+- Durable
 - Efficace
+- Produit de haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

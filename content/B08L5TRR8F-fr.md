@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caméra avant TrueDepth 12 Mpx avec mode Nuit, enregistrement vidéo 4K HDR en Dolby Vision
-- Meilleure résistance à l’eau du marché (IP68)
-- Écran Super Retina XDR 6,1 pouces
-- iOS et son lot de nouveautés, telles que les widgets repensés sur l’écran d’accueil, la toute nouvelle Bibliothèque d’apps et les extraits d’app
-- Ceramic Shield, plus résistant que le verre de n’importe quel smartphone
 - Compatibilité 5G
-- Puce A14 Bionic, la plus rapide des puces de smartphone
 - Prise en charge des accessoires MagSafe pour une fixation facile et une recharge sans fil plus rapide
+- iOS et son lot de nouveautés, telles que les widgets repensés sur l’écran d’accueil, la toute nouvelle Bibliothèque d’apps et les extraits d’app
 - Double appareil photo sophistiqué avec ultra grand-angle et grand-angle 12 Mpx ; mode Nuit, Deep Fusion, Smart HDR 3 et enregistrement vidéo 4K HDR en Dolby Vision
+- Ceramic Shield, plus résistant que le verre de n’importe quel smartphone
+- Puce A14 Bionic, la plus rapide des puces de smartphone
+- Écran Super Retina XDR 6,1 pouces
+- Meilleure résistance à l’eau du marché (IP68)
+- Caméra avant TrueDepth 12 Mpx avec mode Nuit, enregistrement vidéo 4K HDR en Dolby Vision
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Permet de recevoir les chaînes satellite étrangères gratuites en HD
-- Possibilité denregistrer sur un disdur externe (non fourni)
 - Lecture de contenu multimédias avec une clé USB
+- Possibilité denregistrer sur un disdur externe (non fourni)
 - Mise en pause dune émission pour la reprendre à tout moment
 - Résolutions: 576i/p, 720i/p, 1080i/p
+- Permet de recevoir les chaînes satellite étrangères gratuites en HD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

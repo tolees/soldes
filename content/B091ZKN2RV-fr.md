@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mémoire : 12 Go GDDR6 AMD RDNA 2 architecture élève et unifie le jeu
 - Chipset : AMD RX 6700 XT
+- Mémoire : 12 Go GDDR6 AMD RDNA 2 architecture élève et unifie le jeu
 - Boost horloge : jusquà 2622 MHz
 - Refroidissement : ventilateur triple XFX Speedster QICK319
 

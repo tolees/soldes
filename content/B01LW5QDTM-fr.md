@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tapis de bain 70 x 120 cm
-- Microfibre tapis de bain en diverses couleurs uni
-- Compatible avec un chauffage au sol
 - 30 ° cycle délicat
+- Microfibre tapis de bain en diverses couleurs uni
+- Tapis de bain 70 x 120 cm
+- Compatible avec un chauffage au sol
 
 [🛒 Achète-le!!]({{< param buyurl >}})

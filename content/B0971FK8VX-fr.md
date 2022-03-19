@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nouveaux multiprocesseurs de streaming NVIDIA Ampere : Indispensables pour la création du GPU le plus rapide et le plus performant au monde, ils multiplient par deux le débit en FP32 et améliorent l’efficience énergétique du GPU
-- Slot de 2,9’’ : agrandit la surface de refroidissement en comparaison avec la génération précédente, afin que la dissipation de chaleur soit plus efficace
-- GPU Tweak II : réglages intuitifs des performances, contrôle des températures et suivi de l’état du système
-- Cœurs RT de deuxième génération : Les nouveaux cœurs RT offrent un rendement multiplié par deux en comparaison avec ceux de la 1e génération, ainsi que des fonctions simultanées de ray tracing et de shading pour des performances inédites
-- Cœurs Tensor de troisième génération : Les nouveaux cœurs Tensor offrent un rendement multiplié par deux avec l’aide d’une matrice dite clairsemée et d’algorithmes avancés d’Intelligence Artificielle tels que la technologie DLSS. Ces cœurs boostent considérablement les performances gaming tout en proposant des technologies d’IA inédites
-- Super Alloy Power II : bobines en alliage spécial, condensateurs polymères et phases d’alimentation à haute intensité
 - Ventilateurs axiaux : plus de pales schéma rotationnel inverse pour le ventilateur central
+- Cœurs Tensor de troisième génération : Les nouveaux cœurs Tensor offrent un rendement multiplié par deux avec l’aide d’une matrice dite clairsemée et d’algorithmes avancés d’Intelligence Artificielle tels que la technologie DLSS. Ces cœurs boostent considérablement les performances gaming tout en proposant des technologies d’IA inédites
+- Cœurs RT de deuxième génération : Les nouveaux cœurs RT offrent un rendement multiplié par deux en comparaison avec ceux de la 1e génération, ainsi que des fonctions simultanées de ray tracing et de shading pour des performances inédites
+- Super Alloy Power II : bobines en alliage spécial, condensateurs polymères et phases d’alimentation à haute intensité
+- Nouveaux multiprocesseurs de streaming NVIDIA Ampere : Indispensables pour la création du GPU le plus rapide et le plus performant au monde, ils multiplient par deux le débit en FP32 et améliorent l’efficience énergétique du GPU
+- GPU Tweak II : réglages intuitifs des performances, contrôle des températures et suivi de l’état du système
+- Slot de 2,9’’ : agrandit la surface de refroidissement en comparaison avec la génération précédente, afin que la dissipation de chaleur soit plus efficace
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

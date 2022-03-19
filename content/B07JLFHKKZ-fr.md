@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 2 traitements lumineux : le stylo de luminothérapie DC 300 est doté d’une lumière rouge et d’une lumière bleue permettant de réaliser les différents soins sur la peau du visage
-- Thérapie par la lumière rouge : réduit l’inflammation cutanée et contribue au rajeunissement de la peau. Guider le faisceau lumineux, par exemple, sur les zones enflammées
 - Efficacité : une utilisation de deux fois cinq minutes par jour s’avère déjà efficace. Les boutons d’acné isolés peuvent être traités rapidement et spécifiquement
-- Thérapie par la lumière bleue : luminothérapie pour améliorer l’acné. Guider le faisceau lumineux sur les zones couvertes d’acné
 - Pour les déplacements : le stylo de luminothérapie fonctionne à piles et peut également être utilisé hors de chez vous
+- Thérapie par la lumière rouge : réduit l’inflammation cutanée et contribue au rajeunissement de la peau. Guider le faisceau lumineux, par exemple, sur les zones enflammées
+- Thérapie par la lumière bleue : luminothérapie pour améliorer l’acné. Guider le faisceau lumineux sur les zones couvertes d’acné
 
 [🛒 Achète-le!!]({{< param buyurl >}})

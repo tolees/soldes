@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution WQHD : 2560 x 1440 pixels
-- Temps de réponse: 1 ms
-- Taux de rafraichissement : 240Hz
 - Ecran PC Gaming Incurvé 1000R 32
 - Technologies GSYNC Compatible / AMD FreeSync Premium Pro
+- Temps de réponse: 1 ms
+- Résolution WQHD : 2560 x 1440 pixels
+- Taux de rafraichissement : 240Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
