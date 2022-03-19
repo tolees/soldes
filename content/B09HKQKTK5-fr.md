@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manteau femme casual
-- Manteau femme casual
 - Doublure
+- Manteau femme casual
+- Manteau femme casual
 - Manteau femme casual
 - Manteau femme casual
 

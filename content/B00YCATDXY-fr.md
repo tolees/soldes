@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fonction maintien au chaud automatique / Fonction mélange automatique - Témoins lumineux de fonctionnement
 - Repas préparé pendant que vous travaillez ou vous détendez - Pas besoin de surveiller ou de mélanger; Recettes mijoteuse incluses dans la notice
 - Récipient amovible en grès compatible au four, micro-ondes, réfrigérateur et lave-vaisselle - Couvercle en verre compatible au lave-vaisselle - Range-cordon - Accessoires inclus : 2 bras mélangeurs
-- Écran de commande digital - Temps de cuisson programmable jusqu’à 20H - Économie d’énergie : 240W
-- Fonction maintien au chaud automatique / Fonction mélange automatique - Témoins lumineux de fonctionnement
 - Mijoteuse électrique finition inox brossé Capacité 5,7L -idéal pour 5 à 6 personnes - 2 réglages de température Puissance 240 W
+- Écran de commande digital - Temps de cuisson programmable jusqu’à 20H - Économie d’énergie : 240W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
