@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance : 600 VA
+- Type de produit : Onduleur (technologie off line)
+- Tension : 220/230/240 VAC
 - Dimensions : 86,7 x 161 x 166 mm - Poids : 2,52 kg - Garantie du fabricant : 2 ans
 - Onduleur Infosec - 66073 - avec 3 prises compatibles FR secourues
-- Tension : 220/230/240 VAC
-- Type de produit : Onduleur (technologie off line)
+- Puissance : 600 VA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

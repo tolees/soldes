@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur du produit: Cyan
-- Quantité 1
 - CAPACITÉ MAXIMUM PAR CONSOMMABLE: Impressions 3500 pages compatible avec ISO/IEC 19798
+- Quantité 1
+- Couleur du produit: Cyan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Garantie : 24 mois
+- Description du produit: Pour 4 sandwichs, paninis, croque-monsieur ou 4 gaufres en une seule cuisson !
 - Poids du produit :3.4kilograms
 - 2 jeux de plaques - croque-monsieur ou gaufre. 4 pièces par plaque. Corps en métal. Plaques anti-adhérente et amovibles pour un nettoyage facile. Dimensions des plaques : 260 x 225 mm. Parois ‘cool touch’.
-- Description du produit: Pour 4 sandwichs, paninis, croque-monsieur ou 4 gaufres en une seule cuisson !
-- Garantie : 24 mois
 
 [🛒 Achète-le!!]({{< param buyurl >}})
