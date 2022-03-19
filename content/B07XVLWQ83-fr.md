@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Potentiomètres à crans
-- Temporisation au démarrage
 - Réglages de volume encastrés
-- Protections électroniques contre les courts circuits, offset DC, les surcharges et thermiques
 - Refroidissement par ventilateurs
+- Temporisation au démarrage
+- Protections électroniques contre les courts circuits, offset DC, les surcharges et thermiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
