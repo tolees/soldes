@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le rembourrage de cette veste est composé à 100 % de polyester recyclé et chaque veste représente jusquà 30 bouteilles recyclées, ce qui évite que ces bouteilles soient envoyées à la décharge ou polluent nos océans
 - Le vêtement Superdry est fabriqué avec un bon équilibre entre style et confort. Nous vous recommandons une taille plus grande que vos marques habituelles pour une expérience de Superdry
+- Le rembourrage de cette veste est composé à 100 % de polyester recyclé et chaque veste représente jusquà 30 bouteilles recyclées, ce qui évite que ces bouteilles soient envoyées à la décharge ou polluent nos océans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

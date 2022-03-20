@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fréquence dentrée AC: 50/60 Hz
-- Types de boisson: Cappucino, Espresso
 - Capacité du réservoir deau: 1,4L; Cet appareil peut être utilisé avec du café moulu (1 ou 2 tasses)
+- Design de la caisse: Autonome
+- Technologie de préparation de café: Goutte
 - Tension dentrée AC: 220-240V
 - Type dentrée à café: Café moulu, Cosse
-- Description du produit: DeLonghi ECOV 311.BK
-- Technologie de préparation de café: Goutte
-- Design de la caisse: Autonome
-- Charge connectée: 1100W
 - Couleur: Noir. Hauteur maximale de la coupe (cm): 7,7
+- Charge connectée: 1100W
+- Fréquence dentrée AC: 50/60 Hz
+- Types de boisson: Cappucino, Espresso
+- Description du produit: DeLonghi ECOV 311.BK
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
