@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tricot étroit.
 - En coton agréable.
 - Petite étiquette au look denim sur le côté.
 - Composition : 100 % coton.
-- Tricot étroit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
