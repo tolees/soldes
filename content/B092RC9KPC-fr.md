@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patins PTFE thermo traités et préajustés
-- Coque ultralégère Roccat Bionic Shell seulement 75 g
-- Cet article n est plus en solde !
 - Stellar Wireless + Bluetooth, avec charge rapide (Câble de chargement USB-C)
+- Coque ultralégère Roccat Bionic Shell seulement 75 g
 - Interrupteurs optiques Titan rapide et tactile
+- Cet article n est plus en solde !
+- Patins PTFE thermo traités et préajustés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

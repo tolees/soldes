@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Volume sonore réglable
-- Portée auditive du collier : 200 m; Portée radio de la télécommande : jusquà 300 m
-- 4 sons distincts au choix sur un même collier; 12 modes de fonctionnement : modes 1 à 4 : le collier fonctionne uniquement lorsque le chien est à l’arrêt modes 5 à 8 : le collier fonctionne lorsque le chien est en mouvement puis à l’arrêt modes 9 à 12 : le collier émet un bip sonore uniquement lorsque vous appuyez sur une touche de la télécommande
 - Sensibilité de détection du mouvement réglable
+- 4 sons distincts au choix sur un même collier; 12 modes de fonctionnement : modes 1 à 4 : le collier fonctionne uniquement lorsque le chien est à l’arrêt modes 5 à 8 : le collier fonctionne lorsque le chien est en mouvement puis à l’arrêt modes 9 à 12 : le collier émet un bip sonore uniquement lorsque vous appuyez sur une touche de la télécommande
+- Volume sonore réglable
 - Grâce à la télécommande, vous pouvez à distance : déclencher un signal sonore à tout moment pour localiser votre chien; arrêter temporairement le son du collier
+- Portée auditive du collier : 200 m; Portée radio de la télécommande : jusquà 300 m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
