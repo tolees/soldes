@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeLonghi ECOV311.BK Machine à Expresso  Noir/Brun Foncé'
-date: 2022-03-16 17:14:55
+date: 2022-03-20 18:51:27
 image: 'https://m.media-amazon.com/images/I/417Mt1OmacL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Charge connectée: 1100W
-- Description du produit: DeLonghi ECOV 311.BK
-- Couleur: Noir. Hauteur maximale de la coupe (cm): 7,7
 - Fréquence dentrée AC: 50/60 Hz
+- Types de boisson: Cappucino, Espresso
+- Capacité du réservoir deau: 1,4L; Cet appareil peut être utilisé avec du café moulu (1 ou 2 tasses)
 - Tension dentrée AC: 220-240V
 - Type dentrée à café: Café moulu, Cosse
+- Description du produit: DeLonghi ECOV 311.BK
 - Technologie de préparation de café: Goutte
 - Design de la caisse: Autonome
-- Capacité du réservoir deau: 1,4L; Cet appareil peut être utilisé avec du café moulu (1 ou 2 tasses)
-- Types de boisson: Cappucino, Espresso
+- Charge connectée: 1100W
+- Couleur: Noir. Hauteur maximale de la coupe (cm): 7,7
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
