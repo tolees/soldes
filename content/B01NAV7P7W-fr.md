@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4 tampons amovibles (sur les pieds)
-- Evacuation trop plein deau par les pieds
 - Zone de rétention deau : optimisant lirrigation
 - Fabriqué en France
+- 4 tampons amovibles (sur les pieds)
+- Evacuation trop plein deau par les pieds
 
 [🛒 Achète-le!!]({{< param buyurl >}})
