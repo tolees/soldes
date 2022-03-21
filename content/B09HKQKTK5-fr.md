@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Naf Naf Femme ACHAMI  Camel  42 EU'
-date: 2022-03-18 22:27:47
+date: 2022-03-21 06:04:06
 image: 'https://m.media-amazon.com/images/I/41yFjQ3dFrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure
 - Manteau femme casual
+- Doublure
 - Manteau femme casual
 - Manteau femme casual
 - Manteau femme casual
