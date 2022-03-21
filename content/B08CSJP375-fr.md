@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft - Far Cry 6 Gold Xbox One & Xbox Series X'
-date: 2022-03-16 12:08:45
+date: 2022-03-21 20:28:14
 image: 'https://m.media-amazon.com/images/I/51WfVMiCL+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bonus de précommande: pack Libertad
+- Combattez pour la liberté
 - Guérilla et puissance de feu
 - Inclut le saison pass, 3 contenus additionnels et plus encore
-- Combattez pour la liberté
 - Yara, une nation déchirée
-- Bonus de précommande: pack Libertad
 
 [🛒 Achète-le!!]({{< param buyurl >}})
