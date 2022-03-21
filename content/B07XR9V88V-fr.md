@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous pouvez également le connecter à votre neo geo mini pour jouer à ses jeux à l’aide de votre arcade stick pro
-- Neo Geo Arcade Stick Pro
-- L’arcade stick pro possède des ports manettes pour y brancher des manettes neo geo mini ou un autre arcade stick pro pour jouer à plusieurs
 - Jouez directement via le stick sur votre écran aux jeux cultes de la marque comme samurai shodown, the king of fighters et bien plus encore
+- L’arcade stick pro possède des ports manettes pour y brancher des manettes neo geo mini ou un autre arcade stick pro pour jouer à plusieurs
+- Neo Geo Arcade Stick Pro
 - 20 jeux d’anthologie – le line-up de jeux du neo geo arcade stick pro propose les meilleurs titres de versus fighting de la console phare de snk
+- Vous pouvez également le connecter à votre neo geo mini pour jouer à ses jeux à l’aide de votre arcade stick pro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
