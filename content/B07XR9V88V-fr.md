@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNK - Neo Geo Arcade Stick Pro'
-date: 2022-03-18 10:16:48
+date: 2022-03-21 10:34:53
 image: 'https://m.media-amazon.com/images/I/41CdXj8aHsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SNK'
 buyurl: 'https://www.amazon.fr/dp/B07XR9V88V/?tag=tolees0d-21'
 descuento: '33.34'
-average: '107.49'
+average: '105.99'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez directement via le stick sur votre écran aux jeux cultes de la marque comme samurai shodown, the king of fighters et bien plus encore
-- L’arcade stick pro possède des ports manettes pour y brancher des manettes neo geo mini ou un autre arcade stick pro pour jouer à plusieurs
-- Neo Geo Arcade Stick Pro
-- 20 jeux d’anthologie – le line-up de jeux du neo geo arcade stick pro propose les meilleurs titres de versus fighting de la console phare de snk
 - Vous pouvez également le connecter à votre neo geo mini pour jouer à ses jeux à l’aide de votre arcade stick pro
+- Neo Geo Arcade Stick Pro
+- L’arcade stick pro possède des ports manettes pour y brancher des manettes neo geo mini ou un autre arcade stick pro pour jouer à plusieurs
+- Jouez directement via le stick sur votre écran aux jeux cultes de la marque comme samurai shodown, the king of fighters et bien plus encore
+- 20 jeux d’anthologie – le line-up de jeux du neo geo arcade stick pro propose les meilleurs titres de versus fighting de la console phare de snk
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
