@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- caisson du bois pour un son naturel
-- bluetooth inclus, écoutez de la musique depuis votre smartphone, tablette ou pc.
 - Type de connecteur: Stereo Audio
+- bluetooth inclus, écoutez de la musique depuis votre smartphone, tablette ou pc.
 - les alarmes fonctionnent à partir de la batterie et du ac, ne manquez jamais une alarme!
-- Composants inclus: Owner s Manual
 - chargez votre smartphone avec le chargeur usb intégré
+- Composants inclus: Owner s Manual
+- caisson du bois pour un son naturel
 - radio-réveil compacte avec fm/dab+ et bluetooth. profitez de la nouvelle radio numérique terrestre!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
