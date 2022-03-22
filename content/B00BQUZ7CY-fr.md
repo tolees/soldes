@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie 1 GHz évolutive
-- Distorsion interstage fixe 3 dB
 - Bouton rotatif pour le réglage de lamortissement
+- Distorsion interstage fixe 3 dB
+- Technologie 1 GHz évolutive
 
 [🛒 Achète-le!!]({{< param buyurl >}})
