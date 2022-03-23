@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière du bracelet : acier inoxydable
-- Type de fermoir : replier avec fermoir à bouton-poussoir
-- Couleur du bracelet : multicolore
-- Forme : rond
 - Couleur du cadran : noir
+- Matière du bracelet : acier inoxydable
+- Couleur du bracelet : multicolore
+- Type de fermoir : replier avec fermoir à bouton-poussoir
+- Forme : rond
 
 [🛒 Achète-le!!]({{< param buyurl >}})
