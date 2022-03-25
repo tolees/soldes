@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOMETIC CoolFun CK 40D Hybrid Glacière-Conservateur Hybride portable  38 l  12 V et 230 V pour voiture  camion  bateau  camping-car et prise de courant'
-date: 2022-03-14 10:51:50
+date: 2022-03-25 09:52:43
 image: 'https://m.media-amazon.com/images/I/41zEej-Gl6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement hybride, électrique et compression
-- Poignées de transport intégrées
-- Contient des gaz à effet de serre fluorés
-- Affichage numérique de la température en mode compression
-- Réglage continu de la température en fonctionnement compression
 - Réfrigération jusquà 20°C en dessous de la température ambiante
-- 12 V et 230 V permet la non interruption de la chaîne du froid
 - Caisson idéal en tôle dacier
 - Hauteur suffisante pour bouteilles de 2 litres
+- Fonctionnement hybride, électrique et compression
+- Réglage continu de la température en fonctionnement compression
+- Poignées de transport intégrées
+- Affichage numérique de la température en mode compression
+- Contient des gaz à effet de serre fluorés
+- 12 V et 230 V permet la non interruption de la chaîne du froid
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

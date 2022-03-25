@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- FONCTIONS SONORES: Il adore rigoler avec toi! Ecoute comme il est content!
+- ACCESSOIRES: Contient 1 tétine et 1 petit ballon.
+- IL FAIT SES PREMIERS PAS: Tiens-lui les mains comme un vrai bébé et il avance avec toi!
 - PILES REQUISES : Fonctionne avec 3 piles AAA non incluses.
 - IL VEUT JOUER: Allonge ton Cicciobello et bouge-lui les jambes, il remuera les bras joyeusement pour jouer avec toi!
-- ACCESSOIRES: Contient 1 tétine et 1 petit ballon.
-- FONCTIONS SONORES: Il adore rigoler avec toi! Ecoute comme il est content!
-- IL FAIT SES PREMIERS PAS: Tiens-lui les mains comme un vrai bébé et il avance avec toi!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
