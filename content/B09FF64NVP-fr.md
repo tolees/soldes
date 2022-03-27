@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- De nouveaux dangers – participez à des combats stratégiques contre dénormes machines ou vos semblables à laide darmes, déquipement et de pièges fabriqués à partir de pièces récupérées.
+- Rejoignez Aloy tandis quelle saventure dans lOuest prohibé, un territoire dangereux qui abrite de mystérieuses nouvelles menaces.
 - Des mystères étonnants – découvrez ce qui se cache derrière leffondrement imminent de la Terre et débloquez un chapitre secret des temps anciens… un chapitre qui va bouleverser Aloy à jamais.
 - Un endroit majestueux – explorez les forêts verdoyantes, les villes submergées et les montagnes titanesques dune Amérique futuriste.
 - Un immense monde ouvert – découvrez des terres lointaines, de nouveaux ennemis, des cultures riches et des personnages saisissants.
-- Rejoignez Aloy tandis quelle saventure dans lOuest prohibé, un territoire dangereux qui abrite de mystérieuses nouvelles menaces.
-- De nouveaux dangers – participez à des combats stratégiques contre dénormes machines ou vos semblables à laide darmes, déquipement et de pièges fabriqués à partir de pièces récupérées.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
