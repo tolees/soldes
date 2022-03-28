@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabrication UE
-- Matière : plastique
 - Résistance étagère : 15 kg/étagère
-- Conforme à TUV Sud GS
-- 8 étagères ajustables
-- Verrouillable
 - Étanche (certifié IPX)
+- 8 étagères ajustables
+- Fabrication UE
+- Verrouillable
 - Charnières métalliques
+- Matière : plastique
+- Conforme à TUV Sud GS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
