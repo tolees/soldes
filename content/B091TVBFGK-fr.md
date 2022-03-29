@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prend en charge linitiative Better Cotton
 - 100 % coton
+- Prend en charge linitiative Better Cotton
 
 [🛒 Achète-le!!]({{< param buyurl >}})

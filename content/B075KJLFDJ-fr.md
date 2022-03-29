@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gris
-- Métal/plastique
 - Zolux
+- Métal/plastique
+- Gris
 - Cage Neo muky pour grands rongeurs 58 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
