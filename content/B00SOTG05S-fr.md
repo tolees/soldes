@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vesper Arbre à chat Haute  Noyer'
-date: 2022-03-22 17:47:34
+date: 2022-03-29 17:27:59
 image: 'https://m.media-amazon.com/images/I/41ETa7uXwJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'VESPER'
 buyurl: 'https://www.amazon.fr/dp/B00SOTG05S/?tag=tolees0d-21'
 descuento: '48.70'
-average: '100.33'
+average: '100.023333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
