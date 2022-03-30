@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Style cinq poches
 - Taille basse
 - Braguette zippée
 - 99 % coton, 1 % élasthanne
-- Style cinq poches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
