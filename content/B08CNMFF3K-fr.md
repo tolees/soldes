@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 2 réservoirs indépendants pour un nettoyage hygiénique et garanti : avec réservoir pour la collecte des solides (0,35 l) et réservoir dédié à leau et au détergent pour sols (0,15 l).
-- Sauvez les obstacles et prenez soin de vos meubles grâce à la technologie gyroscopique avancée, aux capteurs anti-chute et aux capteurs anti-chocs : le robot aspirateur réduit sa vitesse et change de direction de manière automatique pour éviter les chocs et les accidents.
-- Confort maximal pour vos sessions de nettoyage, avec contrôle par Wi-Fi, Alexa, Google Home ou télécommande : téléchargez lapplication « H-GO300 » et contrôlez et programmez les sessions de nettoyage sur mesure, selon les horaires qui vous intéressent.
 - Robot aspirateur avec 4 fonctions : aspirez, balayez, nettoyez et passez la serpillère en un seul passage. Élimine facilement la poussière et la saleté sur les sols en céramique, en bois, en stratifié et en pierre.
-- Puissance daspiration constante et efficace : avec moteur inverter silencieux et puissant, rouleau à poils souples et brosses latérales et avant pour capturer la saleté, la poussière et les poils danimaux des sols, tapis et recoins.
+- Sauvez les obstacles et prenez soin de vos meubles grâce à la technologie gyroscopique avancée, aux capteurs anti-chute et aux capteurs anti-chocs : le robot aspirateur réduit sa vitesse et change de direction de manière automatique pour éviter les chocs et les accidents.
 - Composants inclus : chargeur, station de charge, manuel dinstructions (français non garanti), télécommande.
+- Confort maximal pour vos sessions de nettoyage, avec contrôle par Wi-Fi, Alexa, Google Home ou télécommande : téléchargez lapplication « H-GO300 » et contrôlez et programmez les sessions de nettoyage sur mesure, selon les horaires qui vous intéressent.
+- Puissance daspiration constante et efficace : avec moteur inverter silencieux et puissant, rouleau à poils souples et brosses latérales et avant pour capturer la saleté, la poussière et les poils danimaux des sols, tapis et recoins.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
