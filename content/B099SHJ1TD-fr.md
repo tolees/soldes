@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Charge rapide : 40 min de lecture / 3 min de charge (filaire, sans fil, D2D) | 60 min de lecture / 5 min de charge (filaire, sans fil, D2D) | 150 min de jeu / 10 min de charge (filaire, sans fil)
 - Design ergonomique - Pesant à peine 5 grammes chacune, ces écouteurs Bluetooth sans fil tiennent bien en place, même si vous êtes très actifs. Avec trois tailles dembouts en silicone, vous trouverez facilement le confort tout en profitant de l’ANC
+- Deux microphones détectent les bruits ambiants qui sont instantanément bloqués grâce à la technologie ANC de suppression active de bruit
+- Autonomie longue durée - Ecoutez sans compter, où que vous soyez. Les Galaxy Buds2 vous offrent jusqu’à 5h d’écoute avec la réduction active de bruit et 15h de plus avec un étui complètement chargé
+- Réduction active de bruit (ANC)
 - Son immersif - Profitez de basses puissantes et profondes et daigus clairs grâce à deux haut-parleurs dynamiques
 - Appels clairs et nets - Trois microphones et une unité de prise de voix intégrée vous assurent des appels clairs, tandis que les bruits ambiants sont filtrés automatiquement pour un meilleur confort d’écoute
-- Personnalisation du son - Avec six réglages dégaliseur différents, vous trouverez le son qui vous convient pour rester immergé dans votre univers
 - Du 1er décembre 2021 au 8 février 2022, Samsung vous rembourse jusqu’à 30€ pour l’achat d’une paire de Galaxy Buds2, Buds Live ou Buds Pro (tous modèles, tous coloris, hors Marketplace). Voir conditions sur samsung.com/fr/offer
-- Charge rapide : 40 min de lecture / 3 min de charge (filaire, sans fil, D2D) | 60 min de lecture / 5 min de charge (filaire, sans fil, D2D) | 150 min de jeu / 10 min de charge (filaire, sans fil)
-- Réduction active de bruit (ANC)
-- Autonomie longue durée - Ecoutez sans compter, où que vous soyez. Les Galaxy Buds2 vous offrent jusqu’à 5h d’écoute avec la réduction active de bruit et 15h de plus avec un étui complètement chargé
-- Deux microphones détectent les bruits ambiants qui sont instantanément bloqués grâce à la technologie ANC de suppression active de bruit
+- Personnalisation du son - Avec six réglages dégaliseur différents, vous trouverez le son qui vous convient pour rester immergé dans votre univers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
