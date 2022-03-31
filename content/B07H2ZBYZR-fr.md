@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair K70 RGB MK.2 Clavier Mécanique Gaming  Cherry MX Blue: Précis et Audible  Rétro-Éclairage RGB Multicolore  AZERTY FR Layout  - Noir [Exclusif Amazon]'
-date: 2022-03-27 14:43:32
+date: 2022-03-31 11:43:27
 image: 'https://m.media-amazon.com/images/I/41rSlCD7B1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alliant un poids plume à une robustesse longue durée, il est construit pour tenir pendant des milliers d’heures de gameplay
-- Port passe-câble USB : Fournit un accès pratique à un port USB supplémentaire pour votre souris ou votre casque
-- Châssis en aluminium brossé anodisé de qualité aéronautique : Conçu pour supporter la longue carrière d’un joueur
 - Rétroéclairage multicolore dynamique par touche : Le rétroéclairage RGB multicolore dynamique et intense par touche offre des possibilités presque illimitées de personnalisation et de contrôle
 - Switches Allemand Cherry MX Blue - Précis et audible avec une résistance perceptible et un clic acoustique ; Optimisé pour le jeu et lécriture avec une précision absolue. Matrice : 105 touches
+- Châssis en aluminium brossé anodisé de qualité aéronautique : Conçu pour supporter la longue carrière d’un joueur
+- Port passe-câble USB : Fournit un accès pratique à un port USB supplémentaire pour votre souris ou votre casque
+- Alliant un poids plume à une robustesse longue durée, il est construit pour tenir pendant des milliers d’heures de gameplay
 - Espace de stockage de profils de 8 Mo avec lecture matérielle : Permet d’accéder partout à trois profils enregistrés maximum, indépendamment de tout logiciel extérieur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
