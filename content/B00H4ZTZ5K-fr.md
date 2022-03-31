@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel du bol: Plastique
-- Couleur: Blanc. Vitesse de rotation min/max. : 900/1750, Longueur du cordon (cm) : 61
-- Profondeur: 26 cm
-- Description du produit: KitchenAid 5KFP1325
 - Matériel: Plastique
-- Matériau des lames: Acier inoxydable
-- Largeur: 28 cm
-- Poids: 5,8 kg
 - Fréquence dentrée AC: 50/60 Hz
+- Matériel du bol: Plastique
+- Largeur: 28 cm
+- Profondeur: 26 cm
+- Poids: 5,8 kg
+- Description du produit: KitchenAid 5KFP1325
+- Matériau des lames: Acier inoxydable
+- Couleur: Blanc. Vitesse de rotation min/max. : 900/1750, Longueur du cordon (cm) : 61
 
 [🛒 Achète-le!!]({{< param buyurl >}})
