@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROJECTEUR DETOILES : Créé un merveilleux ciel étoilé qui bouge doucement pour apaiser bébé et laider à sendormir
-- VEILLEUSE MUSICALE : Une berceuse toute douce ou sons de la nature apaisants qui évoluent en fonction de la phase dendormissement, afin daider bébé à mieux sendormir
 - INTELLIGENT : Cette veilleuse séteint toute seule et peut se rallumer delle-même si l’enfant pleure
-- PELUCHE LAVABLE : La peluche se lave directement en machine à laver
+- VEILLEUSE MUSICALE : Une berceuse toute douce ou sons de la nature apaisants qui évoluent en fonction de la phase dendormissement, afin daider bébé à mieux sendormir
 - PRATIQUE : Ce projecteur propose plusieurs cycles dendormissement se décomposants en plusieurs phases (capter lattention, apaiser, endormir)
+- PROJECTEUR DETOILES : Créé un merveilleux ciel étoilé qui bouge doucement pour apaiser bébé et laider à sendormir
+- PELUCHE LAVABLE : La peluche se lave directement en machine à laver
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
