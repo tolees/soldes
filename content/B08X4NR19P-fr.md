@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bracelet milanais en acier inoxydable
+- Épaisseur du boîtier 10,2mm, diamètre du boîtier 44 mm
 - Résistance à leau 5 ATM
 - Mouvement multifonction
-- Bracelet milanais en acier inoxydable
 - Cadran Sunray en bleu
-- Épaisseur du boîtier 10,2mm, diamètre du boîtier 44 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

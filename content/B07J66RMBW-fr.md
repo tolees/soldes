@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
 - Taille Normal
+- Fermeture éclair
 - Lavage en machine, 30° max.
 - 97 % Coton, 3 % Élasthanne
 

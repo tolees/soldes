@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Taille Normal
 - 98% Coton, 2% Élasthanne
 - Hauteur du modèle: 189 cm
-- Fermeture éclair
-- Taille Normal
 - Délavé stone
+- Fermeture éclair
 - Lavage en machine, 30° max.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

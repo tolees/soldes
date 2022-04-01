@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
 - 98% Coton, 2% Élasthanne
-- Hauteur du modèle: 189 cm
-- Délavé stone
-- Lavage en machine, 30° max.
 - Taille Normal
+- Fermeture éclair
+- Hauteur du modèle: 189 cm
+- Lavage en machine, 30° max.
+- Délavé stone
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

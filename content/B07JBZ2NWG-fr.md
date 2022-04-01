@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture éclair
-- Lavage en machine, 30° max.
-- Taille Normal
 - 97 % Coton, 3 % Élasthanne
+- Taille Normal
+- Lavage en machine, 30° max.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
