@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de stratégie pour deux joueurs, à partir de 7 ans. Eveillez le tacticien qui sommeille en vous, développez votre réflexion afin détablir les meilleures stratégies et remporter la partie !
-- Découvrez tous les jeux de société, dambiance ou de stratégie, de Bandai !
+- Othello, le jeu de stratégie classique, incontournable depuis plus de 40 ans ! Une minute pour lapprendre, une vie pour le maitriser.
 - Des parties rapides : entre 15 et 20 minutes
 - Ne perdez plus vos pions grâce aux tiroirs de rangement.
-- Contenu : 1 Othellier carré + 64 pions bicolores noirs et blanc + 1 notice
 - Pour jouer cest facile, à tour de rôle déposez vos pions sur lothellier et tentez de retourner les pions de votre adversaire. Le joueur avec le plus de pions de sa couleur sur lothellier lemporte!
-- Othello, le jeu de stratégie classique, incontournable depuis plus de 40 ans ! Une minute pour lapprendre, une vie pour le maitriser.
+- Jeu de stratégie pour deux joueurs, à partir de 7 ans. Eveillez le tacticien qui sommeille en vous, développez votre réflexion afin détablir les meilleures stratégies et remporter la partie !
+- Contenu : 1 Othellier carré + 64 pions bicolores noirs et blanc + 1 notice
+- Découvrez tous les jeux de société, dambiance ou de stratégie, de Bandai !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
