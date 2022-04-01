@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériel: Plastique
+- Matériau des lames: Acier inoxydable
 - Fréquence dentrée AC: 50/60 Hz
-- Matériel du bol: Plastique
 - Largeur: 28 cm
-- Profondeur: 26 cm
 - Poids: 5,8 kg
 - Description du produit: KitchenAid 5KFP1325
-- Matériau des lames: Acier inoxydable
+- Matériel du bol: Plastique
+- Profondeur: 26 cm
 - Couleur: Blanc. Vitesse de rotation min/max. : 900/1750, Longueur du cordon (cm) : 61
 
 [🛒 Achète-le!!]({{< param buyurl >}})
