@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Notes de tête: Citron, Bergamote sicilienne, Fleur de Lavande
+- Contenance: 100 ml
+- Concentration: Eau de Toilette
+- Dunhill Edition, un parfum moderne et profondément Anglais qui fait appel aux sens des quatre coins du monde.
 - Notes de coeur: Coriandre, Noix de Muscat, Feuilles de Basilic
 - Format: Vaporisateur
-- Notes de fond: Bois de Santal, Bois de Cèdre, Ambre, Musc
-- Notes de tête: Citron, Bergamote sicilienne, Fleur de Lavande
-- Concentration: Eau de Toilette
-- Nom: Dunhill Edition
 - Genre: Homme
-- Contenance: 100 ml
+- Nom: Dunhill Edition
+- Notes de fond: Bois de Santal, Bois de Cèdre, Ambre, Musc
 - Famille olfactive: Boisé
-- Dunhill Edition, un parfum moderne et profondément Anglais qui fait appel aux sens des quatre coins du monde.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
