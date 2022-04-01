@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La compatibilité avec G-SYNC supprime les déchirures décran et minimise les saccades pour une expérience de jeu plus fluide et plus rapide
 - Le HDR10 offre un contraste dynamique et une reproduction des couleurs avec une fidélité extrême pour une immersion profonde
 - Angle de vision (CR≥10) : 178/178
-- Le taux de rafraîchissement de 144 Hz permet aux joueurs de voir limage suivante plus rapidement et pour un rendu plus fluide
 - Le MBR de 1 ms assure une meilleure fluidité de jeu, en réduisant l’effet de flou et le ghosting
+- Le taux de rafraîchissement de 144 Hz permet aux joueurs de voir limage suivante plus rapidement et pour un rendu plus fluide
+- La compatibilité avec G-SYNC supprime les déchirures décran et minimise les saccades pour une expérience de jeu plus fluide et plus rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

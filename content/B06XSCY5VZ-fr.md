@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Although the watch is embedded with many features, it keeps a refined and elegant look & feel.
 - Navigator family is inspired by the classical compass design- allowing you to navigate in all conditions.
 - Date indicator at 4 oclock
 - Sleek sunray dial finish
 - Elegance, fineness, grace, luxuriousness; this watch has it all.
-- Although the watch is embedded with many features, it keeps a refined and elegant look & feel.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
