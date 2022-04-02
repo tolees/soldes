@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Le son à létat pur】Avec son design intra-auriculaire, les écouteurs bluetooth HUAWEI FreeBuds 4i offrent un son authentique puissant et de qualité à vos oreilles. Ecoutez ainsi votre musique en immersion totale et passez vos appels en tout confort
 - 【Réduction de bruit】Les capteurs intégrés aux HUAWEI FreeBuds 4i sans fil détectent et réduisent activement le bruit ambiant pour un confort découte. Faites ainsi le silence autour de vous pour profiter pleinement de vos titres préférés, dans les transports ou lors de votre séance de sport . Capacité de la batterie: Par écouteur : 55 mAh (min.) et Boîtier de charge : 215 mAh (min.)
+- 【Le son à létat pur】Avec son design intra-auriculaire, les écouteurs bluetooth HUAWEI FreeBuds 4i offrent un son authentique puissant et de qualité à vos oreilles. Ecoutez ainsi votre musique en immersion totale et passez vos appels en tout confort
 - 【Un appairage rapide et facile】Ouvrez le boitier de chargement des HUAWEI FreeBuds 4i pour voir safficher une notification de connexion sur votre portable. Connectez alors vos écouteurs à votre appareil en bluetooth en une seule étape, pour une connexion automatique à chaque ouverture de létui. Simple comme bonjour
 - 【Mode Perception embarqué 】Nul besoin denlever vos écouteurs pour entendre ce quil se passe autour de vous. Appuyez et maintenez une pression sur un écouteur pour activer et utiliser le mode Perception, et ainsi communiquer facilement avec votre entourage
 - 【10 heures de musique en continu et charge rapide】Lautonomie des HUAWEI FreeBuds 4i atteint jusquà 10 heures en lecture musicale continue sur une seule charge. Embarquant également un technologie de charge rapide, les écouteurs vous offriront 4 heures découte en seulement 10 minutes de chargement. Idéal pour les plus presses
