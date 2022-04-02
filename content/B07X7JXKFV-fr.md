@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capot de protection, brosse de nettoyage, pochette de rangement, serviette de toilette Manchester United
+- Entièrement lavable
 - Produit officiel Manchester United. Design inspiration Héritage avec finition chromée premium
 - Batterie Lithium - Autonomie 60min pour un temps de charge de 2H - utilisation avec ou sans fil. Indicateur de charge LED
 - Grilles flottantes et tondeuse intercepte Hybrid: Epouse parfaitement les courbes du visage pour un rasage ultra précis en un seul passage
-- Entièrement lavable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
