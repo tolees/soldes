@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HD7767/00 Machine à café Grind & Brew - Broyeur intégré'
-date: 2022-03-28 13:22:35
+date: 2022-04-02 08:10:12
 image: 'https://m.media-amazon.com/images/I/41+snXEl3NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sélecteur dintensité (léger, moyen, fort)
-- Broyeur intégré: 9 options de moutures différentes
+- Système de maintien au chaud du café réglable de 30 min à 2h
 - Mélangeur darômes pour un arôme optimal et homogène.
 - Système stop-gouttes pour se servir une tasse de café avant la fin du cycle
-- Système de maintien au chaud du café réglable de 30 min à 2h
+- Broyeur intégré: 9 options de moutures différentes
+- Sélecteur dintensité (léger, moyen, fort)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
