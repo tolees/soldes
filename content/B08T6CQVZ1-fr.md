@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À manches courtes
+- Nombre de boutons: 3
 - Regular fit
 - Longueur standard
-- Nombre de boutons: 3
 - Col en maille plate
+- À manches courtes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

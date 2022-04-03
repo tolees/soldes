@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Desigual Chaussures de running rétro pour femme avec imprimé Monsieur Christian Lacroix
-- Baskets au look rétro avec semelle moderne en caoutchouc intégré et imprimé par Monsieur Christian Lacroix. Nouvelle collection de chaussures Desigual HW21.
-- Motif floral Monsieur Christian Lacroix
 - Ne pas laver à la machine
+- Baskets au look rétro avec semelle moderne en caoutchouc intégré et imprimé par Monsieur Christian Lacroix. Nouvelle collection de chaussures Desigual HW21.
 - Couche de tissu en maille
+- Motif floral Monsieur Christian Lacroix
+- Desigual Chaussures de running rétro pour femme avec imprimé Monsieur Christian Lacroix
 
 [🛒 Achète-le!!]({{< param buyurl >}})
