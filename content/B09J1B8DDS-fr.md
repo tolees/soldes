@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement : entièrement automatique.
-- Méthode de transmission : transmission par courroie.
-- Tourne-disque avec transmission par courroie AT-LP60X - Noir
-- Options dalimentation : secteur.
-- Vitesse de lecture : - 45 tr/min ; 33 1/3 tr/min.
 - Cartouches : aimant mobile.
+- Fonctionnement : entièrement automatique.
+- Tourne-disque avec transmission par courroie AT-LP60X - Noir
+- Méthode de transmission : transmission par courroie.
+- Vitesse de lecture : - 45 tr/min ; 33 1/3 tr/min.
 - Stylet : aiguille à pointe diamant remplaçable.
+- Options dalimentation : secteur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

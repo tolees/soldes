@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- la fermeture pointe
 - Ripstop et mesh
 - GORE-TEX imperméable, doublure respirante
+- la fermeture pointe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
