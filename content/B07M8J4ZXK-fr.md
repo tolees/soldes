@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 19 bars de pression afin de savourer le goût dun véritable Espresso/café
-- Préparez 2 tasses de café ou un café double dans 1 seule tasse grâce au système exclusif LOR Barista
 - Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
-- Avec LOR Barista, dégustez votre café préféré: Ristretto, Espresso, Lungo en simple ou double ainsi que votre Grand Café Filtre!
+- Préparez 2 tasses de café ou un café double dans 1 seule tasse grâce au système exclusif LOR Barista
 - Système de reconnaissance automatique de la capsule
+- Avec LOR Barista, dégustez votre café préféré: Ristretto, Espresso, Lungo en simple ou double ainsi que votre Grand Café Filtre!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
