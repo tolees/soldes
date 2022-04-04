@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set LEGO Creator 3 en 1 inclut 3 jouets d’animaux à construire pour les enfants : un tigre, un panda rouge et une carpe accompagnés par un plus petit modèle
 - Les enfants peuvent choisir leurs aventures avec ces 3 jouets animaux LEGO Creator ou donner libre cours à leur imagination et créer leur propre animal
-- Le jouet à construire LEGO en forme de poisson possède un corps, des nageoires et une queue articulés pour imaginer d’incroyables aventures sous l’eau
+- Ce set LEGO Creator 3 en 1 inclut 3 jouets d’animaux à construire pour les enfants : un tigre, un panda rouge et une carpe accompagnés par un plus petit modèle
+- Ce passionnant set au royaume des animaux LEGO Creator 3 en 1 avec sa majesté le tigre constitue un cadeau d’anniversaire ou un cadeau de pâques inspirant pour les enfants
 - Le tigre LEGO peut bouger son corps, sa tête, sa mâchoire, sa queue, ses jambes et ses épaules et le panda peut bouger sa tête, sa queue, ses jambes, ses pieds et ses oreilles
 - Il peut se transformer en un tigre avec un oiseau rouge et un décor de jungle, en un panda rouge avec un bonsaï et du bambou, et en une carpe avec des nénuphars
-- Ce passionnant set au royaume des animaux LEGO Creator 3 en 1 avec sa majesté le tigre constitue un cadeau d’anniversaire ou un cadeau de pâques inspirant pour les enfants
+- Le jouet à construire LEGO en forme de poisson possède un corps, des nageoires et une queue articulés pour imaginer d’incroyables aventures sous l’eau
 
 [🛒 Achète-le!!]({{< param buyurl >}})

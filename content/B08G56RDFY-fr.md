@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il comprend 3 modèles en 1 : une maison de plage, un phare et une cabane avec piscine, ainsi que 2 minifigures LEGO garçon et fille à inclure dans les aventures à la plage
-- Ce jouet de construction pour enfants dès 8 ans est un cadeau de Noël, danniversaire idéal ou pour toute autre occasion
 - D’autres sets LEGO Creator 3-en-1 sont à découvrir dès janvier 2021 : Le cyber drone (31111), Le lion sauvage (31112), Le transporteur de voitures de course (31113) et La super moto (31114).
+- Ce jouet de construction pour enfants dès 8 ans est un cadeau de Noël, danniversaire idéal ou pour toute autre occasion
 - Avec les sets LEGO Creator 3-en-1, les enfants laissent libre cours à leur imagination et inventent des histoires débordantes d’action avec les 3 modèles différents inclus dans chaque boîte.
-- Découvrez les autres nouveautés LEGO Creator 3 en 1 : Le cyber drone 31111 Le lion sauvage 31112 Le transporteur de voitures de course 31113 La super-moto 31114
-- Les deux jouets pour enfants, la maison sur la plage et la cabane avec piscine se configurent de différentes manières ce qui donne plus doptions de jeu
+- Il comprend 3 modèles en 1 : une maison de plage, un phare et une cabane avec piscine, ainsi que 2 minifigures LEGO garçon et fille à inclure dans les aventures à la plage
 - La maison sur la plage du surfeur LEGO a 2 étages avec charnières pour la déplier tandis que la cabane avec piscine est dotée de planches de surf et dune piscine en briques
+- Les deux jouets pour enfants, la maison sur la plage et la cabane avec piscine se configurent de différentes manières ce qui donne plus doptions de jeu
+- Découvrez les autres nouveautés LEGO Creator 3 en 1 : Le cyber drone 31111 Le lion sauvage 31112 Le transporteur de voitures de course 31113 La super-moto 31114
 - Ce jouet de construction inclut aussi 3 animaux marins en briques : un dauphin, une tortue de mer et un crabe. Le phare inclut aussi un petit bateau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

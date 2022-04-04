@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set LEGO Seinfeld pour adultes reproduisant l’appartement de Jerry permet de revivre des scènes de la série classique des années 1990
-- Il inclut aussi une estrade à construire et des accessoires : une statue, un haut de muffin, une cassette de Prognosis Negative, un climatiseur Commando 8 et un poteau de Festivus
-- Le salon est doté dun canapé, d’un fauteuil et de tables ainsi que dun espace bureau avec de nombreux détails authentiques inspirés de la série
-- L’appartement de Seinfeld comprend une cuisine avec un comptoir à construire, un réfrigérateur avec un autocollant Superman, un micro-ondes, un four, une théière et un bretzel !
-- Il contient 5 minifigures LEGO : Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes et Newman pour donner vie à la construction
 - Ce modèle de construction pour adultes fait partie d’une collection de superbes sets LEGO Ideas, créés par des fans de LEGO, élus par des milliers de passionnés de LEGO et produits par le Groupe LEGO.
+- Le salon est doté dun canapé, d’un fauteuil et de tables ainsi que dun espace bureau avec de nombreux détails authentiques inspirés de la série
+- Il inclut aussi une estrade à construire et des accessoires : une statue, un haut de muffin, une cassette de Prognosis Negative, un climatiseur Commando 8 et un poteau de Festivus
+- Il contient 5 minifigures LEGO : Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes et Newman pour donner vie à la construction
 - Ce set de 1 326 pièces inclut un livret illustré avec des informations sur Seinfeld. Il offre une expérience de construction amusante, à découvrir en solo, en famille ou entre amis
+- L’appartement de Seinfeld comprend une cuisine avec un comptoir à construire, un réfrigérateur avec un autocollant Superman, un micro-ondes, un four, une théière et un bretzel !
 - _x000D_ _x000D_ Ce modèle de construction LEGO pour adultes constituera une pièce d’exposition ou de décoration idéale ainsi quune superbe idée de cadeau pour les fans de Seinfeld et de LEGO
+- Ce set LEGO Seinfeld pour adultes reproduisant l’appartement de Jerry permet de revivre des scènes de la série classique des années 1990
 
 [🛒 Achète-le!!]({{< param buyurl >}})
