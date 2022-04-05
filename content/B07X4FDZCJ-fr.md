@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Materials: résine thermoplastique
 - Couleurs disponibles: noir, rouge, gris et blanc
-- Dimensions: hauteur 20 cm, longueur 21 cm, largeur 16 cm
-- Designer: Michele de Lucchi
 - Boulloire design pour thè et infuses avec câble
+- Designer: Michele de Lucchi
+- Dimensions: hauteur 20 cm, longueur 21 cm, largeur 16 cm
+- Materials: résine thermoplastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
