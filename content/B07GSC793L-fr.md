@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PUISSANCE : 1100 W, 8 vitesses et une fonction pulse
-- KIT PÂTISSIER INCLUS : petit fouet Flex breveté pour les petites préparations, batteur en fonte pour les pâtes à pâtisserie et pétrin en fonte pour les pâtes épaisses
-- GRANDE CAPACITÉ : bol en inox de 4,6L et couvercle de protection
 - Réparabilité 10 ans, Garantie 2 ans
 - ROBOT MULTIFONCTION : avec mouvement planétaire pour un mélange optimal et une technologie brevetée de fouet Flex pour des émulsions parfaitement homogènes
+- GRANDE CAPACITÉ : bol en inox de 4,6L et couvercle de protection
+- KIT PÂTISSIER INCLUS : petit fouet Flex breveté pour les petites préparations, batteur en fonte pour les pâtes à pâtisserie et pétrin en fonte pour les pâtes épaisses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
