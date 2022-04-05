@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sherlock Holmes sur le fil: Au centre dune enquête policière des plus étranges, le détective le plus connu de la littérature anglaise fait appel à vos services pour essayer de résoudre cette situation enlisée
+- À la Poursuite du Lapin Blanc : Replongez dans lunivers si particulier dAlice au Pays des Merveilles Côtoyez ce monde féerique et ses étranges personnages et faites de votre mieux pour aider Alice à senfuir avant le décompte final
+- Application à télécharger gratuitement (via Apple Store ou Android) pour jouer et vivre une expérience immersive
 - Après avoir pris connaissance du contexte du scénario, vous commencez votre aventure dans une pièce (une carte de lieu qui indique divers numéros) Fouillez-la pour trouver des objets ! À vous de coopérer avec vos partenaires pour avancer et terminer dans les temps !
 - Élu jeu de lannée 2017 à Cannes, le jeu Unlock ! vous propose de revivre lambiance des escape rooms chez vous !
-- À la Poursuite du Lapin Blanc : Replongez dans lunivers si particulier dAlice au Pays des Merveilles Côtoyez ce monde féerique et ses étranges personnages et faites de votre mieux pour aider Alice à senfuir avant le décompte final
 - Venez à bout des énigmes et découvrez les secrets de 3 nouvelles épreuves
-- Application à télécharger gratuitement (via Apple Store ou Android) pour jouer et vivre une expérience immersive
 - Insert Coin : Vous êtes au cœur dune aventure virtuelle où vous devrez passer tous les niveaux les uns après les autres pour vous échapper Attention au Game Over !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
