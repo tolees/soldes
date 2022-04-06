@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est normal que la pompe vibre lorsquelle nest pas remplie de savon.
 - Facile à nettoyer - passe au lave-vaisselle et est livré avec une garantie du fabricant de 5 ans
-- Distributeur de savon anti-goutte (250 ml) - peut être utilisé dune seule main
-- Aucun résidu deau - fond ouvert et bac dégouttage antidérapant
 - Surface de travail bien rangée - le distributeur de savon sadapte à lorganiseur de
+- Distributeur de savon anti-goutte (250 ml) - peut être utilisé dune seule main
+- Il est normal que la pompe vibre lorsquelle nest pas remplie de savon.
+- Aucun résidu deau - fond ouvert et bac dégouttage antidérapant
 - Gain de place : gardez vos éponges, chiffons, brosses et distributeur de savon en un seul endroit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

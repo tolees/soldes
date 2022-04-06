@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Mini Crew Portefeuille  7.5 cm  Black Denim  Gris '
-date: 2022-04-02 09:26:39
+date: 2022-04-06 16:03:49
 image: 'https://m.media-amazon.com/images/I/416OYGH8EUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Porte-clés attaché
-- Hauteur : 7,5 cm, Largeur : 11,5 cm
+- 60 % nylon et 40 % polyester
 - In our Black Denim colourway
 - Fentes pour cartes, poche porte-monnaie zippée et fente en maille pour la carte didentité
-- 60 % nylon et 40 % polyester
+- Porte-clés attaché
 - Intérieur à compartiments multiples avec fermeture velcro
+- Hauteur : 7,5 cm, Largeur : 11,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
