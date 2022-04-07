@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À portée de main à l’immédiat.
-- Bloc à couteaux magnétique élégant.
-- Marque : Zassenhaus.
 - Poids : 3,02 kg.
+- Marque : Zassenhaus.
+- Bloc à couteaux magnétique élégant.
+- À portée de main à l’immédiat.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
