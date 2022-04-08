@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interrupteurs optiques Titan : rapide et tactile
-- Coque ultralégère Roccat Bionic Shell : seulement 75 g
-- Patins PTFE thermo traités et préajustés
-- Stellar Wireless + Bluetooth, avec charge rapide (Câble de chargement USB-C)
 - Capteur optique Roccat Owl-Eye 19 000 DPI
+- Patins PTFE thermo traités et préajustés
+- Coque ultralégère Roccat Bionic Shell : seulement 75 g
+- Stellar Wireless + Bluetooth, avec charge rapide (Câble de chargement USB-C)
+- Interrupteurs optiques Titan : rapide et tactile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

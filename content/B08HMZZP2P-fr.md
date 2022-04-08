@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ROC-12-574
-- Package dimensions (L x W x H) 20.0 x 20.0 x 11.0 cm
 - Poids du colis 1,0 kg
+- Package dimensions (L x W x H) 20.0 x 20.0 x 11.0 cm
 - Pays dorigine Chine
 - Layout français
 
