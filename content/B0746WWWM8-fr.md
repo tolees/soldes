@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter-L intégrale des 8 Films [4K Ultra HD + Blu-Ray]'
-date: 2022-04-03 17:00:45
+date: 2022-04-08 18:15:38
 image: 'https://m.media-amazon.com/images/I/513KRwKIbmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0746WWWM8/?tag=tolees0d-21'
 descuento: '27.27'
-average: '135.192'
+average: '131.325'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
