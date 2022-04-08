@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mocabu - Tente arrière sans armature - Compatible avec VW T4 T5 T6 - Avec kit de fixation'
-date: 2022-04-03 16:26:32
+date: 2022-04-08 05:03:33
 image: 'https://m.media-amazon.com/images/I/51DnyqUzWuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids : environ 2,4 kg
-- Dimensions du produit : environ L 135 cm x l 170/112 cm x H 195 cm
+- Avec boutons-pression pour fixer au bois ou à la tôle
 - 100 % polyester Ripstop 190D avec revêtement en polyuréthane
 - Résistant au feu - Coutures scellées - Revêtement UV
-- Avec boutons-pression pour fixer au bois ou à la tôle
+- Dimensions du produit : environ L 135 cm x l 170/112 cm x H 195 cm
+- Poids : environ 2,4 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
