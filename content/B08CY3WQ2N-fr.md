@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUCHES OPTO-LINEAIRES RAZER POUR DES FRAPPES PLUS RAPIDES ET PLUS REACTIVES: Profitez d’une réponse instantanée grâce à une activation optique de 1,0 mm. Chaque frappe est enregistrée grâce à la lumière, pour que vous ayez un avantage immédiat sur tous vos concurrents. Ultrapolling : 1000 Hz
-- Câble Type-C amovible Pour une installation et un rangement plus faciles: Déballez vos affaires, branchez-le, et jouez sans souci lorsque vous passez dun tournoi à un autre. Le loquet de sécurité permet au câble de rester branché en permanence durant vos parties.
+- Mémoire intégrée Pour importer vos paramètres où vous voulez: Soyez prêts à jouer sans attendre grâce à l’activation de jusqu’à 5 configurations de profils depuis la mémoire intégrée, ou à vos paramètres personnalisés enregistrés sur le cloud.
 - Touches en PBT à double injection Pour une finition mate robuste et texturée: Grâce à la double couche de PBT offrant une plus grande résistance, ces touches sont conçues pour conserver leur texture malgré leur utilisation intensive lors de vos entraînements ou de vos compétitions.
 - FORME COMPACTE Pour un transport pratique: Le design compact et sans pavé numérique permet de positionner le clavier et de le déplacer de manière plus facile pour créer la configuration idéale.
-- Mémoire intégrée Pour importer vos paramètres où vous voulez: Soyez prêts à jouer sans attendre grâce à l’activation de jusqu’à 5 configurations de profils depuis la mémoire intégrée, ou à vos paramètres personnalisés enregistrés sur le cloud.
+- Câble Type-C amovible Pour une installation et un rangement plus faciles: Déballez vos affaires, branchez-le, et jouez sans souci lorsque vous passez dun tournoi à un autre. Le loquet de sécurité permet au câble de rester branché en permanence durant vos parties.
+- TOUCHES OPTO-LINEAIRES RAZER POUR DES FRAPPES PLUS RAPIDES ET PLUS REACTIVES: Profitez d’une réponse instantanée grâce à une activation optique de 1,0 mm. Chaque frappe est enregistrée grâce à la lumière, pour que vous ayez un avantage immédiat sur tous vos concurrents. Ultrapolling : 1000 Hz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
