@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AtGames - Legends Gamer Mini Stick Arcade sans Fil 100 Jeux Inclus'
-date: 2022-04-04 21:27:41
+date: 2022-04-09 19:05:05
 image: 'https://m.media-amazon.com/images/I/51RjmrQJIWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'AtGames'
 buyurl: 'https://www.amazon.fr/dp/B08KQ5PRN2/?tag=tolees0d-21'
 descuento: '51.18'
-average: '108.826'
+average: '106.477272727273'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Marvel s Spider-Man pour PS4 - Edition Game Of The Year  GOTY '
-date: 2022-04-02 13:43:49
+date: 2022-04-09 18:47:34
 image: 'https://m.media-amazon.com/images/I/51snAm2xSmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W61NPP2-fr Playstation - Marvel s Spider-Man pour PS4 - Edition Game...'
 sku: 'B07W61NPP2-fr'
 tags: [ 'Informatique','Jeux vidéo','PlayStation 4: Consoles, jeux et accessoires','playstation', ]
-actualPrice: 39.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 39.99
+price: 29.99
 comparePrice: 49.99 EUR
 prodname: 'Playstation - Marvel s Spider-Man pour PS4 - Edition Game Of The Year  GOTY '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.fr/dp/B07W61NPP2/?tag=tolees0d-21'
-descuento: '20.00'
-average: '39.99'
+descuento: '40.01'
+average: '34.99'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
