@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis : 20.4 kg
+- CA-1L1-00F1WN-00
 - Couleur : Noir
 - Fabriqué en Chine
-- CA-1L1-00F1WN-00
+- Poids du colis : 20.4 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})

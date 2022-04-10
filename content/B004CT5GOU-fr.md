@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Avec un design moderne rose et noir, notre Maison de poupée Amelia est un best seller !
 - Imaginer votre propre intérieur avec un ensemble de 15 meubles et accessoires, votre enfant samusera à décorer cette charmante maison pour ses poupées 30 cm
 - Sa créativité prendra place dans les différents espaces de vie proposés : salon, cuisine, salle de bain, chambre
-- Un pavillon rose et noir cette maison de poupées, offre à votre enfant un espace de jeu de trois étages, quatre pièces et un balcon
 - Cette habitation de 120,90 cm est construite en bois résistant, de qualité supérieure
+- Un pavillon rose et noir cette maison de poupées, offre à votre enfant un espace de jeu de trois étages, quatre pièces et un balcon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
