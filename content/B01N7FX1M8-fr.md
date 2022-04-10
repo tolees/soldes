@@ -31,7 +31,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - LE CADEAU PARFAIT dès 3 ans - pour toutes les occasions. Donnez aux enfants lenvie de samuser pendant lété et laissez-les poursuivre leurs aventures après les vacances. Poupées non incluses
 - CE COFFRET COMPREND une salle de bain et une cuisine entièrement équipées un brasero pour faire griller des chamallows ainsi que deux lits et deux hamacs pouvant accueillir quatre poupées au camping
 - DÉVOILEZ LA PISCINE. Ouvrez le côté du véhicule pour révéler la piscine équipée dun toboggan et dun escalier pliant. et ses amis vont vraiment samuser pendant leurs vacances
-- LE CAMPING-CAR SE TRANSFORME EN ESPACE DE JEU. Les enfants peuvent le faire rouler avant de presser un bouton pour louvrir et révéler ainsi un terrain de camping de 60 cm avec différentes activités
 - DE LAMITIÉ ET DES AVENTURES. Les enfants peuvent utiliser jusquà quatre poupées (non incluses) et plus de 35 accessoires pour créer leurs propres histoires. Idéal pour exercer leur imagination
+- LE CAMPING-CAR SE TRANSFORME EN ESPACE DE JEU. Les enfants peuvent le faire rouler avant de presser un bouton pour louvrir et révéler ainsi un terrain de camping de 60 cm avec différentes activités
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

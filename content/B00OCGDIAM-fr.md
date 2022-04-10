@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g)
 - UNE MACHINE TOUJOURS PROPRE : un nettoyage complet et automatique de la machine ultra simple, sans intervention humaine : insérez une pastille et lancez le programme, la machine soccupe de tout
-- Distance maximale entre la buse de café et le bac de récupération: 10,5 cm
 - UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle, contrôle du broyage et de la température, 2 tasses simultané
+- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g)
 - UN SAVOIR FAIRE TOUJOURS FRANCAIS : machine fabriquée en France, à Mayenne, garantie 2 ans, produit réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus
 - UNE MACHINE TOUJOURS PRETE : personnalisez et enregistrez vos boissons préférées grâce au mode memo
+- Distance maximale entre la buse de café et le bac de récupération: 10,5 cm
 - UNE UTILISATION ULTRA FACILE grâce à lécran LCD intuitif ; buse vapeur intégrée pour réaliser des cappuccinos en toute simplicité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

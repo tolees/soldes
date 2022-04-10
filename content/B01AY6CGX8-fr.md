@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : Sans Fermeture
 - Largeur chaussure : large
+- Matériau extérieur : Cuir
 - Matériau de semelle : Caoutchouc
 - Doublure : Laine
-- Matériau extérieur : Cuir
+- Fermeture : Sans Fermeture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
