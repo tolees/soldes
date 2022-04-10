@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran vert
 - Épaisseur du boîtier 8,5mm, Diamètre du boîtier 44 mm
-- Mouvement à 3 yeux
+- Cadran vert
 - Résistance à leau 5 ATM
+- Mouvement à 3 yeux
 - Bracelet en cuir vert
 
 [🛒 Achète-le!!]({{< param buyurl >}})
