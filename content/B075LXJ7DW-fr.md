@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maitrisez votre consommation : grâce au programme de coaching énergétique personnalisé et faites des économies.
-- Augmentez votre confort : grâce à la régulation auto-apprenante qui tient compte de la température et du taux dhumidité.
-- Application didactique : récompensée dun award au CES de Las Vegas.
-- Compatible avec la plupart des systèmes de chauffage : les chaudières au gaz, au fioul, au bois, les pompes à chaleur, et les poêles à granules.
-- Contrôlez à la voix : votre thermostat est compatible avec les assistants vocaux Google Home et Amazon Alexa.
-- Programmation sur mesure : à réaliser à laide du questionnaire à linstallation.
 - Contrôlez à distance avec lapplication : augmentez ou baissez la température de votre logement depuis votre travail, votre lieu de vacances ou les transports en commun.
+- Programmation sur mesure : à réaliser à laide du questionnaire à linstallation.
+- Contrôlez à la voix : votre thermostat est compatible avec les assistants vocaux Google Home et Amazon Alexa.
+- Compatible avec la plupart des systèmes de chauffage : les chaudières au gaz, au fioul, au bois, les pompes à chaleur, et les poêles à granules.
+- Maitrisez votre consommation : grâce au programme de coaching énergétique personnalisé et faites des économies.
+- Application didactique : récompensée dun award au CES de Las Vegas.
+- Augmentez votre confort : grâce à la régulation auto-apprenante qui tient compte de la température et du taux dhumidité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
