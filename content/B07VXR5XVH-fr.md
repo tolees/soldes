@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GPS (satellite): oui
 - Autonomie: 192, 6 . Résolution daffichage : 260 x 260 pixels
 - Matériau de la montre: acier inoxydable
-- Écran tactile: oui
+- GPS (satellite): oui
 - Matériel de bande: silicone
+- Écran tactile: oui
 
 [🛒 Achète-le!!]({{< param buyurl >}})
