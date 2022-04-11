@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
 - UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
-- Réparabilité 15 ans, Garantie 2 ans
-- RESERVOIR DEAU AMOVIBLE
 - EJECTION AUTOMATIQUE des capsules
-- OUVERTURE ET FERMETURE AUTOMATIQUES
+- Réparabilité 15 ans, Garantie 2 ans
 - Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
+- OUVERTURE ET FERMETURE AUTOMATIQUES
 - 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso à l’Alto, en passant par le Mug
 - ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
-- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
+- RESERVOIR DEAU AMOVIBLE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
