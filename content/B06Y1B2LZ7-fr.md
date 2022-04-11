@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Règle : à chaque tour, il faut déplacer un ouvrier puis construire un étage ou un dôme. Le premier ouvrier à monter au 3ème étage dun bâtiment a gagné
-- Thème : on incarne un jeune Dieu (ou Déesse) grec en compétition pour aider les citoyens de lîle dans la construction d’un village au milieu de la mer Egée
-- Durée dune partie : 30 minutes environ
 - Un pur jeu de stratégie de placement aux règles simples et très abordables
+- Thème : on incarne un jeune Dieu (ou Déesse) grec en compétition pour aider les citoyens de lîle dans la construction d’un village au milieu de la mer Egée
 - Contenu : 1 socle "falaise" et un plateau de jeu, 6 ouvriers, 54 blocs étages, 18 dômes et 30 cartes de divinités, 1 livret de règles
+- Durée dune partie : 30 minutes environ
 
 [🛒 Achète-le!!]({{< param buyurl >}})
