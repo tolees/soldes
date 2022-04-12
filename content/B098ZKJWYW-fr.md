@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIBERTE - Rien de mieux que de découvrir la glisse et léquiblire à bord de cette draisienne au look rétro !
+- FONCTIONNALITES - Guidon et tige en acier, Guidon aujustable (51/58 cm) en TPR, Selle ajustable 30/42 cm, Roues gonflables 12", Double cadre renforcé, Truck en Acier et Sacoche en simili cuir.
 - CARACTERISTIQUES - Dimensions : 55 x 85 x 41 cm. Poids max : 35 Kgs.
 - AGE : Dès 3 ans. FABRICANT : DArpèje France spécialiste des jeux, jouets et équipements pour activités dextérieur depuis 30 ans. SAV à votre disposition.
-- FONCTIONNALITES - Guidon et tige en acier, Guidon aujustable (51/58 cm) en TPR, Selle ajustable 30/42 cm, Roues gonflables 12", Double cadre renforcé, Truck en Acier et Sacoche en simili cuir.
+- LIBERTE - Rien de mieux que de découvrir la glisse et léquiblire à bord de cette draisienne au look rétro !
 - PRATIQUE ET RESISTANTE - Tu peux partis à laventure avec sa sacoche amovible effet cuir, son cadre renforcé ultra résistant et ses cales pieds pour se laisser glisser en toute liberté et en toute sécurité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

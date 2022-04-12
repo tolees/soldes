@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Si l’on approche le microphone de la bouche de Barbie, une musique se déclenche et la robe de la poupée s’illumine alors qu’elle se met à « chanter » l’une des deux chansons originales
+- Prête à monter sur scène, cette poupée Barbie Big City, Big Dreams enchantera les enfants de 3 à 7 ans, surtout s’ils aiment chanter et écouter de la musique
+- Inspirée de la tenue de scène vue dans le film, cette poupée Barbie porte une robe pailletée, un collier et des chaussures. Aidez-la à conquérir le public avec des accessoires comme une guitare, un micro-casque, un microphone sur pied et d’autres encore
 - Si l’on baisse le bras de Barbie, la musique continue mais Barbie arrête de « chanter » jusqu’à ce que le microphone soit à nouveau devant sa bouche
 - Revivez une performance live inoubliable avec la poupée Barbie « Malibu » inspirée du film « Barbie : Big City, Big Dreams »
-- Inspirée de la tenue de scène vue dans le film, cette poupée Barbie porte une robe pailletée, un collier et des chaussures. Aidez-la à conquérir le public avec des accessoires comme une guitare, un micro-casque, un microphone sur pied et d’autres encore
-- Prête à monter sur scène, cette poupée Barbie Big City, Big Dreams enchantera les enfants de 3 à 7 ans, surtout s’ils aiment chanter et écouter de la musique
+- Si l’on approche le microphone de la bouche de Barbie, une musique se déclenche et la robe de la poupée s’illumine alors qu’elle se met à « chanter » l’une des deux chansons originales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

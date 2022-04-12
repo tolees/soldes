@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Neuf et authentique. Nous sommes un vendeur autorisé de Tommy Hilfiger.
-- Voir la description de produit ci-dessous pour plus dinformations.
 - Tommy Hilfiger Bleu Baskets en daim emblématiques en cuir
+- Voir la description de produit ci-dessous pour plus dinformations.
+- Neuf et authentique. Nous sommes un vendeur autorisé de Tommy Hilfiger.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de tissu: 100% coton
+- Le thé original
 - Fit type: Regular
+- Type de tissu: 100% coton
+- Special size type: Standard
 - Care instructions: Lavage en machine
 - Dimensions de lemballage de larticle: 3.32 L x 28.16 H x 17.22 W (centimeters)
-- Special size type: Standard
-- Le thé original
 
 [🛒 Achète-le!!]({{< param buyurl >}})
