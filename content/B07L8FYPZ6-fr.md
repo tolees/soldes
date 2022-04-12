@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand angle 28mm
-- Taille de lécran LCD: 6.8cm
-- Zoom optique: 5X
 - Compatible SD/SDHC
 - Stabilisation numérique
+- Zoom optique: 5X
+- Grand angle 28mm
+- Taille de lécran LCD: 6.8cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
