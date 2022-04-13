@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLFVN88-fr MOONESS Coque Xiaomi Redmi 9 + Verre Trempé Housse en Cuir...'
 sku: 'B08BLFVN88-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

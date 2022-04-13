@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9JF9LD-fr LUDI – Tapis de sol épais pour l’éveil de bébé – 10006 -...'
 sku: 'B06W9JF9LD-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

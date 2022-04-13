@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVJBN35-fr Disque Dur Externe 2to Disque Dur Externe USB3.1/Type C...'
 sku: 'B08CVJBN35-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

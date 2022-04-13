@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFGCDT6-fr Collection Velocity Bleu bleu nuit Carry On'
 sku: 'B08DFGCDT6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

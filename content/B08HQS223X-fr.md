@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQS223X-fr Coque Xiaomi Note 10 Double Couche Renforcée Défense...'
 sku: 'B08HQS223X-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

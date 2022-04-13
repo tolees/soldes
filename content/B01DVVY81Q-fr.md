@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DVVY81Q-fr Arlo | Caméra de surveillance 100% Sans Fils Pack de 4 HD...'
 sku: 'B01DVVY81Q-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 335.95 EUR
 currency: EUR
 price: 335.95

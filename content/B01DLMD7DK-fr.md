@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DLMD7DK-fr Sony SEL70300G zoom FE 70-300 mm F4 5-5 6 G'
 sku: 'B01DLMD7DK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 988.79 EUR
 currency: EUR
 price: 988.79

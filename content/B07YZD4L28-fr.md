@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZD4L28-fr tomtoc Nintendo Switch Lite Case Étui de Protection Rigide...'
 sku: 'B07YZD4L28-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

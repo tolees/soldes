@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2RKTPK-fr AUBADE Soutien-gorge triangle Bretelles réglables THE BOW...'
 sku: 'B07Q2RKTPK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

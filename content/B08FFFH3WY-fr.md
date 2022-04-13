@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFFH3WY-fr UniqueMe [6 pièces Protection écran pour Xiaomi Mi Band 5...'
 sku: 'B08FFFH3WY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

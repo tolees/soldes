@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PLNNPS-fr CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 sku: 'B086PLNNPS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

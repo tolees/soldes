@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVGS98P-fr Coffret Films issus de Jeux Vidéo : Rampage-Hors de...'
 sku: 'B07DVGS98P-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQM30C5-fr Puma Basket Heart Patent Baskets Basses Femme Noir Black-...'
 sku: 'B01MQM30C5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFSDPP-fr Eveil Lumière avec LED Radio Réveil Lumineux Lampe de...'
 sku: 'B07YCFSDPP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

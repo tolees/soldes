@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DQZHL4D-fr NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
 sku: 'B08DQZHL4D-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

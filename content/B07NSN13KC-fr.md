@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSN13KC-fr LIVOO DOC208 Barbecue Gaz Gril et Plancha'
 sku: 'B07NSN13KC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 247.9 EUR
 currency: EUR
 price: 247.9

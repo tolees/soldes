@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K1P3JBK-fr St Marc Lingettes Nettoyantes Désinfectantes et...'
 sku: 'B01K1P3JBK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

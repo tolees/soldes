@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K16WJ2D-fr adidas Tiro Dufflebag M Sac en toile Black/White FR :...'
 sku: 'B07K16WJ2D-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

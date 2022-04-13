@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H239JQC-fr Disque Dur Externe 1to USB3.0 SATA Disque Dur Externe pour...'
 sku: 'B08H239JQC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

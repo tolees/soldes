@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08726HHHW-fr Montre Connectée Intelligente Femmes Homme Enfant...'
 sku: 'B08726HHHW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

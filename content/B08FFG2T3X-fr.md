@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFG2T3X-fr 2 Pièces Jouet Chien Corde pour Chiens Grands et Forts...'
 sku: 'B08FFG2T3X-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

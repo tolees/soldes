@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9BCCCL-fr ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne...'
 sku: 'B07L9BCCCL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

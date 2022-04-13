@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8HV6VY-fr Nike Air Zoom Wildhorse 5 Chaussures de Running Homme Noir...'
 sku: 'B07H8HV6VY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

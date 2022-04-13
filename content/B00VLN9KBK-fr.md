@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
 sku: 'B00VLN9KBK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

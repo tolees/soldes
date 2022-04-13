@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRNZFHM-fr FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo...'
 sku: 'B07VRNZFHM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

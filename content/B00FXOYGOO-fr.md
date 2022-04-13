@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FXOYGOO-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne Bagage...'
 sku: 'B00FXOYGOO-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 52.44 EUR
 currency: EUR
 price: 52.44

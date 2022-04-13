@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFVGH32-fr Hommie Montre Connectée Femme Tracker d Activité Cardio...'
 sku: 'B08BFVGH32-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

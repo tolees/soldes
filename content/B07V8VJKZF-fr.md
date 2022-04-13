@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8VJKZF-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreNoir Black...'
 sku: 'B07V8VJKZF-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 100.36 EUR
 currency: EUR
 price: 100.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHSGYMF-fr Cube lumineux enceinte bluetooth sans fil LED...'
 sku: 'B07BHSGYMF-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 113.99 EUR
 currency: EUR
 price: 113.99

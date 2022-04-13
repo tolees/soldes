@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N1FJL9-fr Séga - Sakura Wars'
 sku: 'B084N1FJL9-fr'
-tags: [ 'Jeux pour PlayStation 4','Jeux vidéo','PlayStation 4: Consoles, jeux et accessoires','fr','séga', ]
+tags: [ 'Jeux pour PlayStation 4','Jeux vidéo','PlayStation 4: Consoles, jeux et accessoires','séga','🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
 - Jeux en français avec voix japonaises
 - Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
+- Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

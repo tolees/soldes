@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7GKRR-fr Sunflair Pure Ocean Maillot Une pièce Multicolore Blau 26...'
 sku: 'B07JW7GKRR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 44.56 EUR
 currency: EUR
 price: 44.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W863RWN-fr BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec...'
 sku: 'B07W863RWN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

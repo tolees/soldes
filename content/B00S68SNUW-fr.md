@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S68SNUW-fr Sylvanian Families - 5210 - Le bateau chasse au trésor'
 sku: 'B00S68SNUW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

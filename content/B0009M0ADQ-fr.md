@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009M0ADQ-fr Canon CA-570 Chargeur de batterie pour caméscope Canon'
 sku: 'B0009M0ADQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

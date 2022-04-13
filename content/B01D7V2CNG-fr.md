@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D7V2CNG-fr GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué...'
 sku: 'B01D7V2CNG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 224.79 EUR
 currency: EUR
 price: 224.79

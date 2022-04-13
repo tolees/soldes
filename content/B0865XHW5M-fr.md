@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865XHW5M-fr MMCRRX M.2 NVMe SSD Ultra adpater Karte Pcie 3.0 X4 GEN3 M...'
 sku: 'B0865XHW5M-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

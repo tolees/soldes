@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018LLIXB2-fr Tommy Hilfiger Core Hilfiger Regular Polo Noir Flag Black...'
 sku: 'B018LLIXB2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.36 EUR
 currency: EUR
 price: 49.36

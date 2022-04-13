@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011A4SPAG-fr Tumble Forms Support Universal Petite Cale Accessoire pour...'
 sku: 'B011A4SPAG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

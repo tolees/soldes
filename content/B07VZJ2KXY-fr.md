@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZJ2KXY-fr Little Live Pets Kissing Rollie LP000 Multicolore'
 sku: 'B07VZJ2KXY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

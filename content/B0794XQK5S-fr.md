@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794XQK5S-fr Echo Plus 2ème génération Son de qualité premium avec un...'
 sku: 'B0794XQK5S-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

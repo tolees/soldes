@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFBLNMT-fr Seb Clipsominut Easy Cocotte-Minute 6 L Induction + Livre...'
 sku: 'B06XFBLNMT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 80.47 EUR
 currency: EUR
 price: 80.47

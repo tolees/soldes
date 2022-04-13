@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRSN2ZM-fr Sveltus Set Plyobox'
 sku: 'B01HRSN2ZM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 129.64 EUR
 currency: EUR
 price: 129.64

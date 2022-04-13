@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNZZS3W-fr EasySMX Manette Switch Manette Switch Pro pour Nintendo...'
 sku: 'B08DNZZS3W-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

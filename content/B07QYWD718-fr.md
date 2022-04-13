@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYWD718-fr Sony WI-C200 Ecouteurs intra-auriculaires sans fil type...'
 sku: 'B07QYWD718-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLXFBFE-fr Remington Fer à lisser Lisseur Glide Céramique Glisse...'
 sku: 'B01KLXFBFE-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

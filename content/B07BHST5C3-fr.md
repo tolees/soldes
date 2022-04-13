@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHST5C3-fr Kipling College Up Cartable 42 cm 32 liters Turquoise...'
 sku: 'B07BHST5C3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 99.72 EUR
 currency: EUR
 price: 99.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1P8NQP-fr Samsung Galaxy Note 10+ - Smartphone Portable débloqué 4G...'
 sku: 'B07X1P8NQP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

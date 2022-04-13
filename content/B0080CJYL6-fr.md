@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0080CJYL6-fr Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou...'
 sku: 'B0080CJYL6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

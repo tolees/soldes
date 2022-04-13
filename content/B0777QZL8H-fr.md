@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777QZL8H-fr SEC24 CWL401S - Qualité WiFi Système de Surveillance et de...'
 sku: 'B0777QZL8H-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

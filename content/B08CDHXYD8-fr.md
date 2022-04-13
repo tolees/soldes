@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDHXYD8-fr Kit Soins Barbe pour Hommes Derma Roller+Sérum Activateur...'
 sku: 'B08CDHXYD8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

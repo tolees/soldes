@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L1IICR2-fr Sennheiser HD Casque à Arceau fermé avec Microphone et...'
 sku: 'B01L1IICR2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 145.49 EUR
 currency: EUR
 price: 145.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YG9Z8P-fr adidas CV4694 Polo Homme Vert Sefrye FR : S Taille...'
 sku: 'B078YG9Z8P-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.17 EUR
 currency: EUR
 price: 15.17

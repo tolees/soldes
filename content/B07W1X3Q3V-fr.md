@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1X3Q3V-fr REVENT HD Blue'
 sku: 'B07W1X3Q3V-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 106.44 EUR
 currency: EUR
 price: 106.44

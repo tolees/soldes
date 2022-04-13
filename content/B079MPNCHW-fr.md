@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MPNCHW-fr Playmobil - Véhicule de Reconnaissance Spatiale - 9489'
 sku: 'B079MPNCHW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

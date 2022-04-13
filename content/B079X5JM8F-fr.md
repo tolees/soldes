@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079X5JM8F-fr Yard Force - Nettoyeur Haute Pression pour usage intensif...'
 sku: 'B079X5JM8F-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 101.13 EUR
 currency: EUR
 price: 101.13

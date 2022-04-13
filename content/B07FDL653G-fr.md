@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDL653G-fr OSRAM - Applique extérieure LED ENDURA STYLE Wall Wide -...'
 sku: 'B07FDL653G-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPMX8-fr Napapijri Rainforest Pocket Blouson Homme Rot High Risk...'
 sku: 'B07MCSPMX8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98

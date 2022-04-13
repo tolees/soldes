@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQU5UBN-fr Elgato Thunderbolt 3 Dock - Avec câble de 50 cm 40 Gbit/s...'
 sku: 'B01MQU5UBN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

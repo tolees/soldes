@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSZ11BY-fr Lenovo ThinkPad Helix Gen 2 11.6 pouces Full HD...'
 sku: 'B07CSZ11BY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 461.48 EUR
 currency: EUR
 price: 461.48

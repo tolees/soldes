@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKGWN2Y-fr Kimberfeel RACE Chaussure de Trail running pour Homme de...'
 sku: 'B07QKGWN2Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 45.94 EUR
 currency: EUR
 price: 45.94

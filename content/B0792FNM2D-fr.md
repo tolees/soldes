@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FNM2D-fr Philips QP620/50 OneBlade Kit Lames Visage + Corps 2 Lames...'
 sku: 'B0792FNM2D-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

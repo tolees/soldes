@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8FZVCV-fr eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement...'
 sku: 'B08K8FZVCV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

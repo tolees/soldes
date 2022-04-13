@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY78KJY-fr Mini Modèle de Voiture Ensemble de Jouets de camions avec...'
 sku: 'B07JY78KJY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

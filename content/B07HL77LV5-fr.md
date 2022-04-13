@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL77LV5-fr Nautica Competition Short Sport Rouge Fire Red 6ey 36...'
 sku: 'B07HL77LV5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

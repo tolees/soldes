@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E8K9ZJ4-fr Ayotu Étui pour Kindle Paperwhite 2018 - Étui de...'
 sku: 'B01E8K9ZJ4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

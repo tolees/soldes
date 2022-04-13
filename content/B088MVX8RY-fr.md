@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MVX8RY-fr Deadly Premonition 2 : A Blessing in Disguise'
 sku: 'B088MVX8RY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

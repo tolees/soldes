@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections...'
 sku: 'B016NSFTIK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

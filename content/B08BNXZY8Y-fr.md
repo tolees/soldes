@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNXZY8Y-fr RAMPOW Câble USB C vers USB C 1m - Câble USB Type C Charge...'
 sku: 'B08BNXZY8Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

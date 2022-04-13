@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868SR8KX-fr DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi...'
 sku: 'B0868SR8KX-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 42.69 EUR
 currency: EUR
 price: 42.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDP5XQ7-fr G-STAR RAW Stem Round Neck T-Shirt Bleu Imperial Blue 1305...'
 sku: 'B07NDP5XQ7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

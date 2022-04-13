@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVGMPV4-fr Disque Dur Externe Disque Dur Externe 1to USB3.0 pour Mac...'
 sku: 'B08CVGMPV4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

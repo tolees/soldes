@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRF34DL-fr Final Fantasy VII: Remake - Edition Deluxe'
 sku: 'B07SRF34DL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

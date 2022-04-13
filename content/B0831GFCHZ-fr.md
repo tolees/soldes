@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831GFCHZ-fr Montre Connectée Homme Montre Intelligente Sport Moniteur...'
 sku: 'B0831GFCHZ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

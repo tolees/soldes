@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGKZPYL-fr Thomas Sabo montre CODE TS unisexe Acier inoxydable...'
 sku: 'B07NGKZPYL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 114.92 EUR
 currency: EUR
 price: 114.92

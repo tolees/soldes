@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ697NB-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
 sku: 'B08DJ697NB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

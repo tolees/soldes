@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKT88ZT-fr Under Armour UA Roland Backpack Hydrofuge Pratique Sac à...'
 sku: 'B07JKT88ZT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

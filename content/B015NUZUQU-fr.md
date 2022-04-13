@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015NUZUQU-fr Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector...'
 sku: 'B015NUZUQU-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

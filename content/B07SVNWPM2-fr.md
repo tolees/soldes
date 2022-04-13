@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNWPM2-fr ROCCAT Kain 102 AIMO Souris Gaming RGB capteur Pro-Optic...'
 sku: 'B07SVNWPM2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

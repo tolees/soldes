@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYDB4VK-fr The Rolling Stones-Bridges to Buenos Aires Blu-Ray SD...'
 sku: 'B07XYDB4VK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

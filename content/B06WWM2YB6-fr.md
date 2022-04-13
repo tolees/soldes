@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWM2YB6-fr Ice-Watch - ICE lo White turquoise - Montre blanche pour...'
 sku: 'B06WWM2YB6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

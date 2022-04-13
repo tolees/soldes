@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZSNK9Q-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
 sku: 'B089ZSNK9Q-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

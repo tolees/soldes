@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077W3S6FL-fr ASICS Gel-Kayano 24 Chaussures de Running Homme Bleu Smoke...'
 sku: 'B077W3S6FL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 130.56 EUR
 currency: EUR
 price: 130.56

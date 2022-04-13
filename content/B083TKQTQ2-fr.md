@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TKQTQ2-fr yobola Ecouteur Bluetooth Écouteur sans Fil 5.0 24h de...'
 sku: 'B083TKQTQ2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

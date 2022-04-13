@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JS5B6R-fr Casque de jeu avec micro pour Xbox One PS4 PC Switch...'
 sku: 'B087JS5B6R-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

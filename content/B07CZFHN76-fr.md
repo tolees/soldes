@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZFHN76-fr Brosse nettoyante sonique pour le visage en silicone...'
 sku: 'B07CZFHN76-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

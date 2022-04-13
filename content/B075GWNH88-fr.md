@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GWNH88-fr LEGO Classic - La plaque de base bleue - 10714 - Jeu de...'
 sku: 'B075GWNH88-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

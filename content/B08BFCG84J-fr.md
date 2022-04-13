@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFCG84J-fr Elyco Grips cahoutchoutés Kit e-Sport avec Grips Mousses...'
 sku: 'B08BFCG84J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

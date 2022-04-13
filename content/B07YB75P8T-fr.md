@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB75P8T-fr FUNINGEEK Micro Casque Gaming PS4 Casque Gaming Switch...'
 sku: 'B07YB75P8T-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

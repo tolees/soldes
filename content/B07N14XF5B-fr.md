@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N14XF5B-fr Guess W1231L1 Montre Femme'
 sku: 'B07N14XF5B-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

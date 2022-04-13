@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6X2SXW-fr Tommy Hilfiger Cosy High Heel Leather Bootie Botines Femme...'
 sku: 'B07N6X2SXW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 76.9 EUR
 currency: EUR
 price: 76.9

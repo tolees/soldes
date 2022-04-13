@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4SW3F-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08DJ4SW3F-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

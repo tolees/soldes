@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XBPRM1-fr Fruitman stylo multifonction idee cadeau homme original...'
 sku: 'B077XBPRM1-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZP7SP7-fr jolidon – Prelude – Maillot de Bain Une Pièce 100%...'
 sku: 'B07DZP7SP7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N14HG6J-fr Skechers Go Run Steady Baskets Femme Noir Black...'
 sku: 'B07N14HG6J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

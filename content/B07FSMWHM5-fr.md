@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSMWHM5-fr Philips SH90/70 Têtes de Rasoir pour Series 9000'
 sku: 'B07FSMWHM5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

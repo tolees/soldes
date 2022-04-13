@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS12LTL-fr HUION New Kamvas 20 2019 Tablette Graphique avec écran...'
 sku: 'B07RS12LTL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 379.2 EUR
 currency: EUR
 price: 379.2

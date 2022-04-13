@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BTJQRMC-fr Caffè Carracci 100 Capsules Compatibles Lavazza A Modo Mio...'
 sku: 'B07BTJQRMC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

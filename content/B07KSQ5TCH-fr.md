@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQ5TCH-fr Love Moschino Logo Box Short Sleeve T-Shirt Black C74 40...'
 sku: 'B07KSQ5TCH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 88.53 EUR
 currency: EUR
 price: 88.53

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute...'
 sku: 'B00XH75EFE-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 813.7 EUR
 currency: EUR
 price: 813.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4ZLGLX-fr 10 FILMS CULTES DVD'
 sku: 'B07D4ZLGLX-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073SWC3Y8-fr BODY WRAP - Body Retro Sculptant avec Armatures et...'
 sku: 'B073SWC3Y8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

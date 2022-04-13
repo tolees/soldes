@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPRYRRC-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W29/L34 Taille...'
 sku: 'B07KPRYRRC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 144.95 EUR
 currency: EUR
 price: 144.95

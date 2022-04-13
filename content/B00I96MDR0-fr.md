@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I96MDR0-fr Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove...'
 sku: 'B00I96MDR0-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

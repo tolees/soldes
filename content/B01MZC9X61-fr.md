@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZC9X61-fr Dimplex 206831 Cheminée electrique avec Télécommande 1200...'
 sku: 'B01MZC9X61-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 175.22 EUR
 currency: EUR
 price: 175.22

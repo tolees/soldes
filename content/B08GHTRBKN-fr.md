@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GHTRBKN-fr Coque de Protection pour Switch en TPU Souple et 8 X...'
 sku: 'B08GHTRBKN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

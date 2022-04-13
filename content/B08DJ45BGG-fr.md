@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ45BGG-fr Disque Dur Externe 1to Disque Dur Externe USB3.1/Type C...'
 sku: 'B08DJ45BGG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

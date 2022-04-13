@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus 200 W Rouge'
 sku: 'B07CW7VZWP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

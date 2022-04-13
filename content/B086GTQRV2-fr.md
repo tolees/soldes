@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GTQRV2-fr Montre Connectée Femmes Homme Smartwatch Etanche Bracelet...'
 sku: 'B086GTQRV2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

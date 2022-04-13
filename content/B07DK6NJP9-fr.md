@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK6NJP9-fr Samyang AF 24mm F2.8 FE - Grand Angle compact - Objectif...'
 sku: 'B07DK6NJP9-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 249.13 EUR
 currency: EUR
 price: 249.13

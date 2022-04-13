@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H8BPMTH-fr Galaxy S9 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08H8BPMTH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

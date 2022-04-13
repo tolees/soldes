@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM8KW7C-fr CIVO Montre Femme Montre Bracelets de Etanche Analogique...'
 sku: 'B07QM8KW7C-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

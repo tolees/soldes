@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPJ3W91-fr Pierre Cardin Steppjacke Airtouch Techno Daune Blouson...'
 sku: 'B07GPJ3W91-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 71.35 EUR
 currency: EUR
 price: 71.35

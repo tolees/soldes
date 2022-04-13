@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0064MLPNO-fr Mottez Porte-vélos rabattable 3 vélos Noir'
 sku: 'B0064MLPNO-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

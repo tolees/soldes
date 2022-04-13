@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJ327LW-fr 100PCS Clips Câbles Adhésif 3M Durables Rangement de...'
 sku: 'B08FJ327LW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

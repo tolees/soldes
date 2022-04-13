@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8V9T3W-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreÉcru Ivory...'
 sku: 'B07V8V9T3W-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 83.38 EUR
 currency: EUR
 price: 83.38

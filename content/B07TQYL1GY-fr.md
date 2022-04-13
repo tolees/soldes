@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQYL1GY-fr NIMASO Câble USB C vers USB C[Lot de 3:0.3M+1M+2M] Câble...'
 sku: 'B07TQYL1GY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

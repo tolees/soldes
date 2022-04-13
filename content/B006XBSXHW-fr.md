@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006XBSXHW-fr DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 sku: 'B006XBSXHW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 84.6 EUR
 currency: EUR
 price: 84.6

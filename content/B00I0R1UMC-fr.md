@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I0R1UMC-fr Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc'
 sku: 'B00I0R1UMC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGYYC63-fr Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste...'
 sku: 'B07VGYYC63-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 65.05 EUR
 currency: EUR
 price: 65.05

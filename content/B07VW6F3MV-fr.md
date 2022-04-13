@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VW6F3MV-fr 【Nouvelle Version】 AIKELA Ecouteur Bluetooth sans Fil...'
 sku: 'B07VW6F3MV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

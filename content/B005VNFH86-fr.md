@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium -...'
 sku: 'B005VNFH86-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 70.43 EUR
 currency: EUR
 price: 70.43

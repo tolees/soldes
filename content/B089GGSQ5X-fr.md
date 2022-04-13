@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GGSQ5X-fr OCDAY Voiture Telecommandé Voiture Telecommandé Tout...'
 sku: 'B089GGSQ5X-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

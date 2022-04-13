@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758NXNQ8-fr Josef Seibel Fiona 04 Femme Bleu Blue 971 500 41 EU'
 sku: 'B0758NXNQ8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 56.96 EUR
 currency: EUR
 price: 56.96

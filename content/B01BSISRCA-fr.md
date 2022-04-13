@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSISRCA-fr Tots by Smart Rike 240–109 Parure de lit classic gris de...'
 sku: 'B01BSISRCA-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 32.05 EUR
 currency: EUR
 price: 32.05

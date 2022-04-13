@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC41VGL-fr Tommy Hilfiger Homme Strght Denton Sstr Elgin Blue Loose...'
 sku: 'B07WC41VGL-fr'
-tags: [ 'Jeans homme','Vêtements','Vêtements homme','fr','tommy hilfiger', ]
+tags: [ 'Jeans homme','Vêtements','Vêtements homme','tommy hilfiger','🇫🇷', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

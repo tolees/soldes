@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSW666H-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
 sku: 'B07GSW666H-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

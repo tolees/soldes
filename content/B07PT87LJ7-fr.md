@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT87LJ7-fr Unité de Séparation des Déchets et de Recyclage Joseph...'
 sku: 'B07PT87LJ7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

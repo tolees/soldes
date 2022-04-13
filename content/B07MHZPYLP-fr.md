@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHZPYLP-fr MEGIR Montres Hommes étanche Chronographe Sport Analogique...'
 sku: 'B07MHZPYLP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

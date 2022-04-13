@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY7BJ3W-fr Fer à lisser ionique - pour boucler et lisser'
 sku: 'B07PY7BJ3W-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 124.0 EUR
 currency: EUR
 price: 124.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ28JBW-fr Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’...'
 sku: 'B08DJ28JBW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

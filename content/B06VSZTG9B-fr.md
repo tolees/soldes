@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VSZTG9B-fr EIVOTOR Localisateur d objets Localisateur de Clé Key...'
 sku: 'B06VSZTG9B-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P91GN8Y-fr Frock and Frill Godiva Mandarin Collar Embellied Maxi...'
 sku: 'B07P91GN8Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 77.64 EUR
 currency: EUR
 price: 77.64

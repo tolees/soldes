@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1Q9Q2L-fr Newbestyle Femme Hoodies Sweatshirt Manches Longues à...'
 sku: 'B07B1Q9Q2L-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

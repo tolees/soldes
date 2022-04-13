@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFQGSMM-fr Fossil Homme Bracelet JF02934040'
 sku: 'B07FFQGSMM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.26 EUR
 currency: EUR
 price: 38.26

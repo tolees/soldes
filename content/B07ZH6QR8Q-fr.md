@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH6QR8Q-fr Silicon Power PCIe M.2 NVMe SSD 256GB Gen3x4 R/W up to 2...'
 sku: 'B07ZH6QR8Q-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

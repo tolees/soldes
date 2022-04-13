@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXRJG88-fr ehua® Roue Arrière Complète avec Disque Pneu Plein Xiaomi...'
 sku: 'B08FXRJG88-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

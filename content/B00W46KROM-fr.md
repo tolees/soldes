@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W46KROM-fr Sony DSCWX500B Appareils Photo Numérique Capteur CMOS...'
 sku: 'B00W46KROM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 256.99 EUR
 currency: EUR
 price: 256.99

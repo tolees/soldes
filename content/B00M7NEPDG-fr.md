@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
 sku: 'B00M7NEPDG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 125.3 EUR
 currency: EUR
 price: 125.3

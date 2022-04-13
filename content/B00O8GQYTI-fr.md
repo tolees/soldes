@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8GQYTI-fr Dim Coton Plus Stretch Feminine - Lot de 2 Slips Midi -...'
 sku: 'B00O8GQYTI-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

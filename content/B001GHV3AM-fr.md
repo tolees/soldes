@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GHV3AM-fr Fiskars Aiguiseur à ciseaux Pour ciseaux de droitier...'
 sku: 'B001GHV3AM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

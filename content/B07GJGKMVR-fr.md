@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJGKMVR-fr Chicco - Lit Cododo Next2Me Dream - Berceau bébé - Luna'
 sku: 'B07GJGKMVR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 185.88 EUR
 currency: EUR
 price: 185.88

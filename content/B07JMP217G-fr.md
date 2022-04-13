@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMP217G-fr Marque Amazon – Goodthreads Pantalon cargo extensible...'
 sku: 'B07JMP217G-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

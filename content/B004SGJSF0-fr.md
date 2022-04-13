@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004SGJSF0-fr Puma - Suede Classic+ - Baskets mode - Mixte Adulte -...'
 sku: 'B004SGJSF0-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

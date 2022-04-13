@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLOWUIG-fr Bosch Professional Défonceuse Filaire GOF 1250 CE 1250 W...'
 sku: 'B00JLOWUIG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 372.0 EUR
 currency: EUR
 price: 372.0

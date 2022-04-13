@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BWK745H-fr eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action...'
 sku: 'B08BWK745H-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo NOUVELLE GENERATION - Type: 72 UNC...'
 sku: 'B00W2B4XY4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 190.48 EUR
 currency: EUR
 price: 190.48

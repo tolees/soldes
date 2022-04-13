@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6JJ8Y4-fr Castaner Carina/8/ss20033 Espadrille Carina Femme Natural...'
 sku: 'B07X6JJ8Y4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 66.12 EUR
 currency: EUR
 price: 66.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport Blanc...'
 sku: 'B008CBSNB2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

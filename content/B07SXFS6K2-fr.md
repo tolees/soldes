@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXFS6K2-fr Perceuse Visseuse à Percussion Professionnel sans Fil 18V...'
 sku: 'B07SXFS6K2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 46.41 EUR
 currency: EUR
 price: 46.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRVR3KL-fr Microsoft Surface Laptop 2 13.5" tactile Core i5 RAM 8 Go...'
 sku: 'B07MRVR3KL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

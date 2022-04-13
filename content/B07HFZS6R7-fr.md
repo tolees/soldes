@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZS6R7-fr Collier argent et perles de culture Blanches et...'
 sku: 'B07HFZS6R7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

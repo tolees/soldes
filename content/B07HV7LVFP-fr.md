@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HV7LVFP-fr Mini Camera Espion WiFi NIYPS Full HD 1080P Étanche sans...'
 sku: 'B07HV7LVFP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

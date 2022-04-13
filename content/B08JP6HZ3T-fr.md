@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JP6HZ3T-fr ActivHawks Correcteur De Posture Dos Épaules Avachies -...'
 sku: 'B08JP6HZ3T-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JN95HHT-fr Buffalo Cali Sneakers Basses Femme Multicolore Pink/White...'
 sku: 'B07JN95HHT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.51 EUR
 currency: EUR
 price: 49.51

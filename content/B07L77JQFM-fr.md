@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L77JQFM-fr Funko Pocket Pop! Fortnite: Drift - Vinyl Figure Keychain...'
 sku: 'B07L77JQFM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

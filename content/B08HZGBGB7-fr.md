@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HZGBGB7-fr EMPEER ▪ Lot de 2 Sacs Rangement Bouteilles Toile de Jute...'
 sku: 'B08HZGBGB7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

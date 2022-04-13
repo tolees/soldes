@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP2KS4F-fr LEGO® Movie L atelier « Construire et réparer » d Emmet et...'
 sku: 'B07FP2KS4F-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

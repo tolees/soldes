@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DC96YF3-fr Torche Lampe de Poche LED Rechargeable JUNKER Lampe Torche...'
 sku: 'B08DC96YF3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009A9ENT6-fr Brothers in Bamako [Import Allemand]'
 sku: 'B009A9ENT6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

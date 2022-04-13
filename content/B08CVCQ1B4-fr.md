@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVCQ1B4-fr eXtremeRate ABXY Boutons de Remplacement Colorés DIY...'
 sku: 'B08CVCQ1B4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

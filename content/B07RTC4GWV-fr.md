@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTC4GWV-fr Poopsie - Rainbow Surprise - Asst.'
 sku: 'B07RTC4GWV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.29 EUR
 currency: EUR
 price: 59.29

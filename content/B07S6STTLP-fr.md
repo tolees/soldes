@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6STTLP-fr Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm'
 sku: 'B07S6STTLP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

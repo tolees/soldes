@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXYPNZK-fr Millet – Ubic 40 – Sac à Dos de Montagne Unisexe –...'
 sku: 'B07KXYPNZK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 82.79 EUR
 currency: EUR
 price: 82.79

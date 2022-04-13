@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVD92LQ-fr WORKPRO Mallette Outils 160 Pièces avec Boîte de Rangement...'
 sku: 'B07NVD92LQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF67L2Z-fr Levi s Housemark Polo Noir Mineral Black 0080 Small Homme'
 sku: 'B07KF67L2Z-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 26.64 EUR
 currency: EUR
 price: 26.64

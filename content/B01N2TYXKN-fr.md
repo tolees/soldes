@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2TYXKN-fr LES FILLES DE CALEB: ÉMILIE et BLANCHE'
 sku: 'B01N2TYXKN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

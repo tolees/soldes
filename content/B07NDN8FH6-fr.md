@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDN8FH6-fr Brooks Brothers Ni Oxford Solid Milano Chemise Casual Bleu...'
 sku: 'B07NDN8FH6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 71.21 EUR
 currency: EUR
 price: 71.21

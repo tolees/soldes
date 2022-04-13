@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757SD9CX-fr Game of Thrones Le Trône de Fer - L intégrale des saisons...'
 sku: 'B0757SD9CX-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

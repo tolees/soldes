@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNJJW18-fr YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps...'
 sku: 'B08BNJJW18-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

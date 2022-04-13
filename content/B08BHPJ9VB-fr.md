@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHPJ9VB-fr Disque Dur Externe 2to Portable USB3.1 Type-C Disque Dur...'
 sku: 'B08BHPJ9VB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

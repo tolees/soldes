@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TTMG8M-fr eXtremeRate 3D Joysticks de Remplacement Bicolores Stick...'
 sku: 'B088TTMG8M-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

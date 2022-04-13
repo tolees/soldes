@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VCNH3J-fr Extech SL510 Sonomètre Vert'
 sku: 'B075VCNH3J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 127.01 EUR
 currency: EUR
 price: 127.01

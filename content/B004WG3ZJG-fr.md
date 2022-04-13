@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WG3ZJG-fr Bionaire - BT19 - colonne ventilateur - modèle à...'
 sku: 'B004WG3ZJG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

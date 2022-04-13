@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQNJ1FH-fr Ready Player One - DVD'
 sku: 'B07BQNJ1FH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

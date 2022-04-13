@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6R81KT-fr Love Moschino Scarpadonna Cassetta Chaussures de...'
 sku: 'B07N6R81KT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

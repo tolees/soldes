@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DX6BNCG-fr Disque Dur Externe 2to USB3.1 pour PC Mac Ordinateur de...'
 sku: 'B08DX6BNCG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

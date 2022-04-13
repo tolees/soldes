@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2M2G7-fr New Balance 1500v5 Running Femme Blanc White/Green...'
 sku: 'B07BL2M2G7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

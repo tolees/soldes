@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8S7JN4-fr Hauck/ Sit N Relax/ Chaise Haute Bébé 3 en 1/ Transat Bébé...'
 sku: 'B07C8S7JN4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

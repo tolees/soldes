@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XMYDJ7-fr Under Armour UA Stormcyclone Sweat à Capuche Homme...'
 sku: 'B077XMYDJ7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

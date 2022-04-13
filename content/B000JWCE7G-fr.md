@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JWCE7G-fr Online USV Kit de rails pour armoire'
 sku: 'B000JWCE7G-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 70.64 EUR
 currency: EUR
 price: 70.64

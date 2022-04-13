@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GDJG2B-fr KERBHOLZ Montre en Bois – Collection Masterpieces Franz...'
 sku: 'B071GDJG2B-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 98.02 EUR
 currency: EUR
 price: 98.02

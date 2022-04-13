@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DCN9KB-fr Carl Victor - Poêle Grill en Fonte 28 cm Poignée en Bois...'
 sku: 'B076DCN9KB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

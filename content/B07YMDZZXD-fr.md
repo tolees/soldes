@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMDZZXD-fr Joker'
 sku: 'B07YMDZZXD-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

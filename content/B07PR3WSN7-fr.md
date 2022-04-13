@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR3WSN7-fr Legging anti Cellulite Pantalon de Sudation Legging Femmes...'
 sku: 'B07PR3WSN7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

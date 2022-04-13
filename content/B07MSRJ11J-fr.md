@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSRJ11J-fr HP 27fwa – moniteur de 27 " FHD enceintes intégrés .1920 X...'
 sku: 'B07MSRJ11J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQTK3VL-fr eXtremeRate LED Kit DTFS Lumineuses Multicolores D-Pad...'
 sku: 'B08FQTK3VL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

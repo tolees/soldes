@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK12MT3-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines...'
 sku: 'B07KK12MT3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

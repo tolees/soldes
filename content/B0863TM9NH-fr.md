@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0863TM9NH-fr Birds of Prey et la fantabuleuse Histoire de Harley Quinn'
 sku: 'B0863TM9NH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8DZG6J-fr BOSS Hyper holdall Sac porté main homme Noir Black...'
 sku: 'B07N8DZG6J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 114.48 EUR
 currency: EUR
 price: 114.48

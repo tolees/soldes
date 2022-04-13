@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4KHYNR-fr TUTUO Manette Switch Manette Pro sans Fil pour Nintendo...'
 sku: 'B08G4KHYNR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

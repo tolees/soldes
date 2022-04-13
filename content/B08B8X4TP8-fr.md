@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8X4TP8-fr Bricolage Bracelet Magnetique Cadeau Homme - Meilleurs...'
 sku: 'B08B8X4TP8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

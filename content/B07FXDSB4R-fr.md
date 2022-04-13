@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXDSB4R-fr Levi s 724 High Rise Straight Jean droit Femme Bleu Two...'
 sku: 'B07FXDSB4R-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

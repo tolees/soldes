@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ3PMQ4-fr Smartphone Portable CUBOT. P40 Ecran 6 2 Pouces 4 Go RAM...'
 sku: 'B08BJ3PMQ4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

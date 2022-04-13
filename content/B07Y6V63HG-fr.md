@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y6V63HG-fr Louis Cottier - Montre Tradition Skelette Automatique -...'
 sku: 'B07Y6V63HG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

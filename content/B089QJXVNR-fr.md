@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QJXVNR-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
 sku: 'B089QJXVNR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

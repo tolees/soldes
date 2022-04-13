@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNP1R35-fr YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système...'
 sku: 'B07CNP1R35-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 323.09 EUR
 currency: EUR
 price: 323.09

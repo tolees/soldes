@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FPRG-fr Clarks Desert Boot Bottes Classiques pour Homme - Marron -...'
 sku: 'B07MJ7FPRG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

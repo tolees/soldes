@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KZLA8M-fr Puressentiel - Respiratoire - Huiles Essentielles pour...'
 sku: 'B004KZLA8M-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

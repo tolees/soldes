@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0093ZNDKW-fr Arena Vortex Evolution Hand Paddle Équipement...'
 sku: 'B0093ZNDKW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

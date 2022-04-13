@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WQJXND-fr Samsung SSD Interne 860 PRO 256 Go - MZ-76P256B/EU'
 sku: 'B078WQJXND-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 86.49 EUR
 currency: EUR
 price: 86.49

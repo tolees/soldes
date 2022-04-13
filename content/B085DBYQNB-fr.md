@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DBYQNB-fr Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires 2...'
 sku: 'B085DBYQNB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

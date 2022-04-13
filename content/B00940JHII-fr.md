@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00940JHII-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert...'
 sku: 'B00940JHII-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

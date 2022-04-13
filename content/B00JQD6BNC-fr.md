@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JQD6BNC-fr Dé géant aux changements de couleurs - Tora'
 sku: 'B00JQD6BNC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 95.15 EUR
 currency: EUR
 price: 95.15

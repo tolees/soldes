@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYYNRF3-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en...'
 sku: 'B01MYYNRF3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

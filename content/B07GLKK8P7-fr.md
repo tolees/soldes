@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLKK8P7-fr Smith Network MIPS Casque de vélo Adulte Unisexe Mike Giant l'
 sku: 'B07GLKK8P7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 112.5 EUR
 currency: EUR
 price: 112.5

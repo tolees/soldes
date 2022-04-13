@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV7NFPY-fr Levi s Graphic Tee Maillot Une pièce Noir Feminine Logo...'
 sku: 'B07TV7NFPY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

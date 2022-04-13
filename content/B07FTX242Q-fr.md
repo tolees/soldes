@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTX242Q-fr Millet - High Route GTX M - Chaussures Hautes de Randonnée...'
 sku: 'B07FTX242Q-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 97.74 EUR
 currency: EUR
 price: 97.74

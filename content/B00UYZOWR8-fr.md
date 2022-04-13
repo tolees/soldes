@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UYZOWR8-fr Kit d’apprentissage scientifique OSOYOO Ensemble...'
 sku: 'B00UYZOWR8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

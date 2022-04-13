@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MBDTBWW-fr L Oréal Men Expert - Bille Anti-Cernes & Anti-Poches pour...'
 sku: 'B00MBDTBWW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

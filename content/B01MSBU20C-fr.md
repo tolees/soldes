@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSBU20C-fr foodspring L-carnitine 120 gélules Perdre du poids avec la...'
 sku: 'B01MSBU20C-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

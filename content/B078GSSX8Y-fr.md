@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GSSX8Y-fr Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte Dark...'
 sku: 'B078GSSX8Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

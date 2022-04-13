@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVS91VM-fr Playmobil - Calèche avec Attelage - 6932'
 sku: 'B06WVS91VM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

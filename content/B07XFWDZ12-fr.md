@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFWDZ12-fr Microsoft Surface Laptop 3 “ PC UltraPortable écran 13...'
 sku: 'B07XFWDZ12-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 969.0 EUR
 currency: EUR
 price: 969.0

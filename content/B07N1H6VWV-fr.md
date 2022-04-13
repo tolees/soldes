@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1H6VWV-fr Kipling Youri Spin 68 Luggage 71 L Black Indigo'
 sku: 'B07N1H6VWV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 169.64 EUR
 currency: EUR
 price: 169.64

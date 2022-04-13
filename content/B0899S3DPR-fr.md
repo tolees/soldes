@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance...'
 sku: 'B0899S3DPR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

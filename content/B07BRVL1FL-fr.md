@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRVL1FL-fr Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL...'
 sku: 'B07BRVL1FL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 193.88 EUR
 currency: EUR
 price: 193.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2LF22M-fr Under Armour UA SC 3ZER0 III Chaussures de Basketball...'
 sku: 'B07K2LF22M-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

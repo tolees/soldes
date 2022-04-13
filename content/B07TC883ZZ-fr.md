@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TC883ZZ-fr Bracelet Femme Orné de Cristaux de Swarovski...'
 sku: 'B07TC883ZZ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

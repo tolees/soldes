@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IIOI9QC-fr OMRON M6 Comfort Tensiomètre Bras Électronique Technologie...'
 sku: 'B00IIOI9QC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

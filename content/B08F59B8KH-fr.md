@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F59B8KH-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 128 Go...'
 sku: 'B08F59B8KH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

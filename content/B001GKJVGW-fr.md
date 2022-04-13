@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GKJVGW-fr Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 sku: 'B001GKJVGW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 68.74 EUR
 currency: EUR
 price: 68.74

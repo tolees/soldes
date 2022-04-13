@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CH3PQ8P-fr Immortal Realms : Vampire Wars Nintendo Switch'
 sku: 'B08CH3PQ8P-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NSZC4F-fr Manette Switch sans Fil Manette Bluetooth pour Nintendo...'
 sku: 'B088NSZC4F-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

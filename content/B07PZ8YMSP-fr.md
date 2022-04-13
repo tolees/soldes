@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZ8YMSP-fr AUBADE Soutien-gorge push-up coussinet Bretelles réglables...'
 sku: 'B07PZ8YMSP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 44.22 EUR
 currency: EUR
 price: 44.22

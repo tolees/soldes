@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U6QA7V0-fr Calor EP2850C0 Épilateur Flower Love'
 sku: 'B00U6QA7V0-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

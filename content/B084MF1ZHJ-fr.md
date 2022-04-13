@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MF1ZHJ-fr 2020 Casque Bluetooth sans BYil avec Suppression du Bruit...'
 sku: 'B084MF1ZHJ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

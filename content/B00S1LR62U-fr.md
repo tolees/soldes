@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S1LR62U-fr Older'
 sku: 'B00S1LR62U-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

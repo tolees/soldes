@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6QKXFC-fr PROACC Tapis de Jeu pour Piano Jouet de Tapis de Musique...'
 sku: 'B07J6QKXFC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

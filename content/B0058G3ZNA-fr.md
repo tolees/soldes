@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058G3ZNA-fr Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R...'
 sku: 'B0058G3ZNA-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

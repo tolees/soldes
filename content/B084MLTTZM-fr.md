@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MLTTZM-fr Kiano Elegance 6.1 Pro 4/64GB LTE 6" Smartphone [Android...'
 sku: 'B084MLTTZM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 64.75 EUR
 currency: EUR
 price: 64.75

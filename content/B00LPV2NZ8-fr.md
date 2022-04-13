@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPV2NZ8-fr Accessoire iRobot Roomba - Batterie Xlife NiMH'
 sku: 'B00LPV2NZ8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

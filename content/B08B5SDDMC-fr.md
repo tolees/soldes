@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5SDDMC-fr alvorog Miroir de Maquillage avec 3 Modes de Couleur 5X...'
 sku: 'B08B5SDDMC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

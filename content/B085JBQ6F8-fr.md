@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JBQ6F8-fr Téfal Gourmet crêpière Deux plaques amovibles...'
 sku: 'B085JBQ6F8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

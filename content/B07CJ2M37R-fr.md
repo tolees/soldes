@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJ2M37R-fr El Naturalista Rice Field Bottes Classiques Femme Marron...'
 sku: 'B07CJ2M37R-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 61.54 EUR
 currency: EUR
 price: 61.54

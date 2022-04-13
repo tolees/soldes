@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHYG43N-fr Amazon Essentials Pantalon extensible pour homme Coupe...'
 sku: 'B07JHYG43N-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

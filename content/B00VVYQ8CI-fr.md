@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VVYQ8CI-fr G-STAR RAW 3301 Slim Jeans DK Aged 5245-89 28W / 32L Homme'
 sku: 'B00VVYQ8CI-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.55 EUR
 currency: EUR
 price: 49.55

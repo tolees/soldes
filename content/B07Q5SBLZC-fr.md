@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q5SBLZC-fr vo7 Golazo Burgundy Basket Homme Chic et élégante - Rouge...'
 sku: 'B07Q5SBLZC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

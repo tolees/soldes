@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
 sku: 'B06XVRX81R-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil...'
 sku: 'B015G1ERYW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.91 EUR
 currency: EUR
 price: 49.91

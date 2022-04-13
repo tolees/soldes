@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8ZZ8BP-fr Replay New Luz Jean Skinny Bleu Dark Blue 007 L30 Taille...'
 sku: 'B07L8ZZ8BP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 41.23 EUR
 currency: EUR
 price: 41.23

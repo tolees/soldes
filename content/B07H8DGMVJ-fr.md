@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8DGMVJ-fr iPosible Écouteurs Bluetooth 5.0 Écouteur sans Fil 3500mAh...'
 sku: 'B07H8DGMVJ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYQLXJZ-fr Nike WMNS Air Force 1 High Chaussures de Fitness Femme...'
 sku: 'B07HYQLXJZ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.11 EUR
 currency: EUR
 price: 59.11

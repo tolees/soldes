@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBFQGW-fr Levi s The Perfect Tee T-Shirt - Femme-Rouge Bw T2 Tomato...'
 sku: 'B07TWBFQGW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

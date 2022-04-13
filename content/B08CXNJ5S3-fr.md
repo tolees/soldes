@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXNJ5S3-fr Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra...'
 sku: 'B08CXNJ5S3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

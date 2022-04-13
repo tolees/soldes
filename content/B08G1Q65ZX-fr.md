@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1Q65ZX-fr OUPOD Paire de manettes pour Nintendo Switch remplacement...'
 sku: 'B08G1Q65ZX-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

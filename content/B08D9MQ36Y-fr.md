@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9MQ36Y-fr Manette sans Fil pour Nintendo Switch REDSTORM Manette...'
 sku: 'B08D9MQ36Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

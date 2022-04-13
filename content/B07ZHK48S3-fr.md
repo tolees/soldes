@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHK48S3-fr DJI RoboMaster S1 Support Éducatif Construire Soit-Même IA...'
 sku: 'B07ZHK48S3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQFZB84-fr Hansaplast Antiseptiques Alcool 70% Volume'
 sku: 'B07YQFZB84-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

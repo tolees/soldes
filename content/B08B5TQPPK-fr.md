@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5TQPPK-fr eXtremeRate Kit de Coques avec Kit de Boutons pour...'
 sku: 'B08B5TQPPK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WW3JKQ-fr Shifu Orboot : Le globe éducatif basé sur la réalité...'
 sku: 'B075WW3JKQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

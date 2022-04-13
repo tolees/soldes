@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LNW2RF-fr cbx Poussette Yoki Ultra-Compacte Habillage pluie inclus...'
 sku: 'B079LNW2RF-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 80.74 EUR
 currency: EUR
 price: 80.74

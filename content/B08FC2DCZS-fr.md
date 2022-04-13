@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FC2DCZS-fr Batterie de remplacement Antank HAC-003 pour console de...'
 sku: 'B08FC2DCZS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

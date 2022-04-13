@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSSCY4V-fr Axcone Homme Femme Air Running Baskets Chaussures Outdoor...'
 sku: 'B07RSSCY4V-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

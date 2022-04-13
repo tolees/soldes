@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBN9M8-fr Lenor Unstoppables Parfum de Linge en Perles Parfum Aérien...'
 sku: 'B07DFBN9M8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

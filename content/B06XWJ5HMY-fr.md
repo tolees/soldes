@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWJ5HMY-fr HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris 16...'
 sku: 'B06XWJ5HMY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 129.58 EUR
 currency: EUR
 price: 129.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXSVP6V-fr Masseur Sans Fil con 10 Modes de Vitesses Différentes...'
 sku: 'B08DXSVP6V-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

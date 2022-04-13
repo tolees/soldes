@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN6YQG4-fr Lottusse T2470 Brogues Homme Noir Duca Negro Duca Negro 40 EU'
 sku: 'B07YN6YQG4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 114.82 EUR
 currency: EUR
 price: 114.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011SDBCBI-fr Schott NYC Tornado Blouson Noir Black S Homme'
 sku: 'B011SDBCBI-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 81.6 EUR
 currency: EUR
 price: 81.6

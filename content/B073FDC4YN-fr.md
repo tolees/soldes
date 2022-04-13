@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FDC4YN-fr Ponceuse à Bande 75 mm Ryobi 18V Oneplus sans Batterie Ni...'
 sku: 'B073FDC4YN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 67.19 EUR
 currency: EUR
 price: 67.19

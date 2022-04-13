@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PMYXQ1-fr OfficeWorld 502 XL Multipack Cartouche d encre compatible...'
 sku: 'B082PMYXQ1-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

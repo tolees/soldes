@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9FK7LB-fr Levi s 501 Original Fit – Jean - Homme - Bleu Bleu Sponge...'
 sku: 'B07D9FK7LB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

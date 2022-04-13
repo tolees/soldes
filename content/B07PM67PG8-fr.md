@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM67PG8-fr CALVET Vin Mousseux Rose Celebration 75 cl'
 sku: 'B07PM67PG8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

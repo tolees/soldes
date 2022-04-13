@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008E8SGSS-fr Lacoste - Polo - L1230-00 - Sport - Homme - Noir Noir -...'
 sku: 'B008E8SGSS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 46.85 EUR
 currency: EUR
 price: 46.85

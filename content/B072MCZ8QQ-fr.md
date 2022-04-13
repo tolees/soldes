@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MCZ8QQ-fr Microsoft Clavier Type Cover pour Surface Pro Bleu Cobalt...'
 sku: 'B072MCZ8QQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 130.39 EUR
 currency: EUR
 price: 130.39

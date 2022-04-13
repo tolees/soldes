@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZF5N9M-fr Enchantimals Mini-poupée Tamika Grenouille et Figurine...'
 sku: 'B07MZF5N9M-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

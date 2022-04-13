@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRDMM9W-fr MSI Pack Loot Box GE-GS RTX Gaming'
 sku: 'B07RRDMM9W-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 70.36 EUR
 currency: EUR
 price: 70.36

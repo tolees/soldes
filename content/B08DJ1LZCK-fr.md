@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ1LZCK-fr Disque Dur Externe 2to Disque Dur Externe Portable HDD...'
 sku: 'B08DJ1LZCK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

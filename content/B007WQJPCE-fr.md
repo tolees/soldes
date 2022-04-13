@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WQJPCE-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Noir Black'
 sku: 'B007WQJPCE-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

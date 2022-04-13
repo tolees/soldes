@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F8VBCI-fr Learning Resources Kit pour la Classe de Base 10 en...'
 sku: 'B000F8VBCI-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9

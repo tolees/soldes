@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5ZTKYL-fr MOONESS Coque Xiaomi Redmi Note 9s + Verre Trempé Housse...'
 sku: 'B08B5ZTKYL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

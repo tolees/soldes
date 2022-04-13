@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHTMTS4-fr Tommy Jeans TJM Logo Pocket Tee T-Shirt Bleu Blue Cbk...'
 sku: 'B07RHTMTS4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K73PXWB-fr Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée...'
 sku: 'B07K73PXWB-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MK6MP4-fr Havaianas Slim Brasil Logo Tongs-Femme Bleu Bleu Marin...'
 sku: 'B074MK6MP4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

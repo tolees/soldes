@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3KC8HH-fr Samsung Original Advanced Écouteurs Intra-Auriculaires...'
 sku: 'B06Y3KC8HH-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.31 EUR
 currency: EUR
 price: 59.31

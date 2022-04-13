@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSPMXP-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W27/L30 Taille...'
 sku: 'B07SWSPMXP-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 66.07 EUR
 currency: EUR
 price: 66.07

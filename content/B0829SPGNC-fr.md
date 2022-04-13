@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829SPGNC-fr Mafiti Tablette d écriture LCD 8.5 Pouces d écriture...'
 sku: 'B0829SPGNC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

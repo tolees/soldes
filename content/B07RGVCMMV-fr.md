@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGVCMMV-fr ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging...'
 sku: 'B07RGVCMMV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

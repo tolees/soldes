@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2XRVC8-fr Under Armour Forefront Rain Veste Homme Bleu XL'
 sku: 'B07R2XRVC8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 43.08 EUR
 currency: EUR
 price: 43.08

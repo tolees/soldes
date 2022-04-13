@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTJCVG-fr G-Star 3301 Straight Tapered Jeans Bleu lt Aged 7607-424...'
 sku: 'B01BGTJCVG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 82.98 EUR
 currency: EUR
 price: 82.98

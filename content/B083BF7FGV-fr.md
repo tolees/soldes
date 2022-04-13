@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BF7FGV-fr TUTUO Manette pour Nintendo Switch Switch Pro sans Fil...'
 sku: 'B083BF7FGV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

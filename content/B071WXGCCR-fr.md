@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WXGCCR-fr L Echelle de Jacob [Blu-Ray]'
 sku: 'B071WXGCCR-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

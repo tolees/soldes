@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TDPM73G-fr Versa - Tabouret de chamdre avec Romantic Patchwork'
 sku: 'B00TDPM73G-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

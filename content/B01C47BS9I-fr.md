@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C47BS9I-fr TRANSFORMERS Robots In Disguise - Robot électronique...'
 sku: 'B01C47BS9I-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

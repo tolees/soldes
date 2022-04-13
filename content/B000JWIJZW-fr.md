@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JWIJZW-fr Simm Jouets 50410 – Standard GS Moteur pour remplacer'
 sku: 'B000JWIJZW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

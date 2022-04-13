@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF6TVRJ-fr Jacob Delafon Mitigeur lavabo haut Léonie'
 sku: 'B07VF6TVRJ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

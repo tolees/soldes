@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HVLUQW8-fr Audio-Technica ATH-M30X Casque audio professionnel Noir'
 sku: 'B00HVLUQW8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDTVK5B-fr Projecteur Ciel Etoile Lampe Projecteur Télécommande...'
 sku: 'B08CDTVK5B-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

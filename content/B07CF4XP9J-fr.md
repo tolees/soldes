@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CF4XP9J-fr Highness Pantalon Homme Chino Un incontournable de Tout...'
 sku: 'B07CF4XP9J-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

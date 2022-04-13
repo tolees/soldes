@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWKN6VM-fr Redskins Doudoune North Mountain Homme'
 sku: 'B07RWKN6VM-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 121.77 EUR
 currency: EUR
 price: 121.77

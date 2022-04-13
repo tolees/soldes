@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HMRP9ZD-fr Jouet Chat Jouet Poisson Electronique Jouet Pour Chat...'
 sku: 'B08HMRP9ZD-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

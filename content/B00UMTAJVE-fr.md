@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMTAJVE-fr little tikes Tricycle 5-in-1 Deluxe Ride & Relax Rouge'
 sku: 'B00UMTAJVE-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 61.4 EUR
 currency: EUR
 price: 61.4

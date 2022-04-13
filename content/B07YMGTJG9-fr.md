@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMGTJG9-fr Chie Mihara abra Sandales Bride Cheville Femmes Noir Ante...'
 sku: 'B07YMGTJG9-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 139.05 EUR
 currency: EUR
 price: 139.05

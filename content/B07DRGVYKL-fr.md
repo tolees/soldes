@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRGVYKL-fr Tiffany Rose Maternity Eden Maxi Robe Rose poudré 46 Femme'
 sku: 'B07DRGVYKL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

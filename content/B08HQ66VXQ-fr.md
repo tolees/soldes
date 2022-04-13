@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQ66VXQ-fr Ruban LED Sylvwin Bande LED 5m RGB avec Télécommande 5050...'
 sku: 'B08HQ66VXQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

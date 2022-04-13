@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHC394C-fr Astérix & Obélix XXL 3 : le Menhir de Cristal Edition...'
 sku: 'B07WHC394C-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.75 EUR
 currency: EUR
 price: 31.75

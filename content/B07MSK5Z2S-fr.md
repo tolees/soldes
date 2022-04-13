@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK5Z2S-fr Clarks Ronnie Limit Brogues Homme Cuir Brun 43 EU'
 sku: 'B07MSK5Z2S-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

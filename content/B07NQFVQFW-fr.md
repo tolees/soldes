@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQFVQFW-fr Lagostina 12143040122 Poêle à frire'
 sku: 'B07NQFVQFW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 45.82 EUR
 currency: EUR
 price: 45.82

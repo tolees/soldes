@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JVXIBY-fr Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu...'
 sku: 'B013JVXIBY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

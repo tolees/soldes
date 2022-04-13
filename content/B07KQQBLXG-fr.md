@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQQBLXG-fr Diesel ODERZO Sac à dos Homme Noir Black 5x22x18 cm W x H x L'
 sku: 'B07KQQBLXG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

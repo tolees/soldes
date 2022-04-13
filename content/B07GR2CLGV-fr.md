@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GR2CLGV-fr Oakwood Connecting Blouson Marron Vison 0559 XX-Large...'
 sku: 'B07GR2CLGV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

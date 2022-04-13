@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WQJPYW-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Crimson...'
 sku: 'B007WQJPYW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

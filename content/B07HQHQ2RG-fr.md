@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQHQ2RG-fr LIGHTAILING Jeu De Lumières pour Architecture La Tour...'
 sku: 'B07HQHQ2RG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

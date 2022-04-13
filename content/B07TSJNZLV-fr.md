@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSJNZLV-fr Only Onlally Boucle Wool Coat CC OTW Manteau Rouge Merlot...'
 sku: 'B07TSJNZLV-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

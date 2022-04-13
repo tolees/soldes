@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP696NK-fr Lacoste femme NF2731CE Chantaco Sac porte epaule Rose...'
 sku: 'B07TP696NK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 121.0 EUR
 currency: EUR
 price: 121.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCJYGXS-fr HÖGL Gently Escarpins Femme Noir Schwarz 0100 41 EU'
 sku: 'B07NCJYGXS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 80.95 EUR
 currency: EUR
 price: 80.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMYXW1V-fr Anita Clara Art Soutien-Gorge sans Armatures Noir Schwarz...'
 sku: 'B07BMYXW1V-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

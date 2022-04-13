@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCC2SY7-fr KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X...'
 sku: 'B08BCC2SY7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 199.98 EUR
 currency: EUR
 price: 199.98

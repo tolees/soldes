@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3RGV9C-fr NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo...'
 sku: 'B07X3RGV9C-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

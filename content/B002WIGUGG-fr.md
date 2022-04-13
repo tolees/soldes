@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002WIGUGG-fr BIC Cristal Boîte en forme de stylo à bille avec 20 stylos...'
 sku: 'B002WIGUGG-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

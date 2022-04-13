@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZFXQW2-fr PLDM by Palladium Caramba SUD Bottes & Bottines Souples...'
 sku: 'B07MZFXQW2-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

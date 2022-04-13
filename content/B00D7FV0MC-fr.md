@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D7FV0MC-fr Kickers - KICK COL - Bottes Classiques - Mixte Enfant -...'
 sku: 'B00D7FV0MC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9UVP8I-fr Geox Uomo Symbol B Sneakers Basses Homme Noir Black 39 EU'
 sku: 'B01N9UVP8I-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 44.8 EUR
 currency: EUR
 price: 44.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C4X2BJ-fr Di4 Jet Pressing – Centrale Vapeur Double système de...'
 sku: 'B072C4X2BJ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 67.61 EUR
 currency: EUR
 price: 67.61

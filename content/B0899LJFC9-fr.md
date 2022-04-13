@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899LJFC9-fr 【2020 dernière】 Barre de Son 2.1 Canaux avec Subwoofer 190...'
 sku: 'B0899LJFC9-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

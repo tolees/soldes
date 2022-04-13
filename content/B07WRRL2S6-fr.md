@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRRL2S6-fr Chumian Gilet de Sudation pour Femme Sauna Sport Gaine...'
 sku: 'B07WRRL2S6-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

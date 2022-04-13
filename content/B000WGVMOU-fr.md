@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WGVMOU-fr Staedtler Mars Comfort 552 Compass Rapide'
 sku: 'B000WGVMOU-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDK1LB4-fr Polarduck Support Mural TV pour écrans 23-55 Pouces 58-140...'
 sku: 'B07XDK1LB4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

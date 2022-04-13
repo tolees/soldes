@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71GPR5-fr Levi s 501 Coupe Originale - Jean - Homme - Bleu Snoot...'
 sku: 'B07K71GPR5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXMSRGW-fr Boules de Bain Bombe de Bain Cadeau Femme 8 Bombe de Bain...'
 sku: 'B08CXMSRGW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

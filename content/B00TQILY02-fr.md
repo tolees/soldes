@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQILY02-fr Moulinex Cookeo Multicuiseur Intelligent 100 Recettes...'
 sku: 'B00TQILY02-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

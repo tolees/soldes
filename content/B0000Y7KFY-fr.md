@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000Y7KFY-fr Kai DM.0701 Couteau Universel'
 sku: 'B0000Y7KFY-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 86.92 EUR
 currency: EUR
 price: 86.92

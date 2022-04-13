@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HH1GTGL-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A71...'
 sku: 'B08HH1GTGL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

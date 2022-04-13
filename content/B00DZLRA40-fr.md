@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DZLRA40-fr Interbaby Set de 3 Pièces - Couette + Tour de Lit +...'
 sku: 'B00DZLRA40-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 30.16 EUR
 currency: EUR
 price: 30.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001C9T7KC-fr Hazet 1952-28 Massette en Plastique longueur 269 mm'
 sku: 'B001C9T7KC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

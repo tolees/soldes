@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDQJFJS-fr Slendertone Biceps et Triceps Brassards H/F tonifiants...'
 sku: 'B07RDQJFJS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 68.63 EUR
 currency: EUR
 price: 68.63

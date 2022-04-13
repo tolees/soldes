@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYW4HS4-fr INFOSEC- Onduleur Z1 Zenergy Cube EX 400 VA 3 prises...'
 sku: 'B07KYW4HS4-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 65.09 EUR
 currency: EUR
 price: 65.09

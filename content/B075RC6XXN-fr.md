@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RC6XXN-fr GROHE 26381001 Tempesta System 210 Colonne de Douche avec...'
 sku: 'B075RC6XXN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 142.9 EUR
 currency: EUR
 price: 142.9

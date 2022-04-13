@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HDBZGDE-fr Live at Montreux 1991 [Blu-ray]'
 sku: 'B01HDBZGDE-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

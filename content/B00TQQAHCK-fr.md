@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQQAHCK-fr Alessi Mw28 Dressed in Wood Centre de Table en Bois de...'
 sku: 'B00TQQAHCK-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

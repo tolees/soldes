@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSBXR3-fr Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba...'
 sku: 'B07KPSBXR3-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

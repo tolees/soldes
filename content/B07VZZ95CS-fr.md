@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZZ95CS-fr Philips Sonicare HX9601/03 Brosse à dents électrique...'
 sku: 'B07VZZ95CS-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

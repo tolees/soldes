@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ4B91T-fr G-STAR RAW 3301 Ripped Mid Waist Boyfriend Jeans Bleu lt...'
 sku: 'B07JJ4B91T-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

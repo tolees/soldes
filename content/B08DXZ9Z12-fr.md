@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXZ9Z12-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08DXZ9Z12-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

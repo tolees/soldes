@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F37J5OW-fr Euroclinic Source de lumière LED'
 sku: 'B00F37J5OW-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 883.35 EUR
 currency: EUR
 price: 883.35

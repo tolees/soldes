@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZZ9ZFZ-fr Tommy Jeans Femma Nora Mr Skinny Ankle Zip Rnl Straight...'
 sku: 'B07VZZ9ZFZ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

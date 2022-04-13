@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8MD64Y-fr BOSS Raio 1 Pull Bleu Bright Blue Large Homme'
 sku: 'B07N8MD64Y-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 92.84 EUR
 currency: EUR
 price: 92.84

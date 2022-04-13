@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHBHJHC-fr Qts Italy mi-to Distributeur de papier toilette Jumbo en...'
 sku: 'B01GHBHJHC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 36.72 EUR
 currency: EUR
 price: 36.72

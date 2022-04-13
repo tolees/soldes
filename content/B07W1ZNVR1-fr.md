@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1ZNVR1-fr Rowenta Ultimate Experience Sèche-cheveux Moteur Digital...'
 sku: 'B07W1ZNVR1-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

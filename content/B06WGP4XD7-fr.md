@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGP4XD7-fr PlayStation 2 Console de Jeux Noir Portefeuille'
 sku: 'B06WGP4XD7-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

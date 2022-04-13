@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KP6YGC-fr Sophie la Girafe- tuyaux Folies 523425'
 sku: 'B075KP6YGC-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

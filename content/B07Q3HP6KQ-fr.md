@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3HP6KQ-fr Belkin Hub Multimédia USB-C avec Câble USB-C Intégré Dock...'
 sku: 'B07Q3HP6KQ-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 69.61 EUR
 currency: EUR
 price: 69.61

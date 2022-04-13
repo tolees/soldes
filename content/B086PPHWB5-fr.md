@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PPHWB5-fr F1 2020 - Seventy Edition'
 sku: 'B086PPHWB5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

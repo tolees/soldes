@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRJ49N5-fr LLOYD Galvan Desert Boots Homme Gris Graphit/Future Grey 1...'
 sku: 'B07NRJ49N5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 92.41 EUR
 currency: EUR
 price: 92.41

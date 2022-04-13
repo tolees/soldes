@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY5XVM5-fr Galuchon - Sac à Dos Lumineux Clignotants et GPS connecté...'
 sku: 'B07HY5XVM5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

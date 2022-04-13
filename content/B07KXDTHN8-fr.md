@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXDTHN8-fr Love Moschino Embroidered Allover Ladybirds Chambray...'
 sku: 'B07KXDTHN8-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 138.91 EUR
 currency: EUR
 price: 138.91

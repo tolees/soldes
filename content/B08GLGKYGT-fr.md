@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLGKYGT-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
 sku: 'B08GLGKYGT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

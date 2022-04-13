@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZG89F1-fr ENJOHOS Lampe Loupe d Atelier Esthetique à pince...'
 sku: 'B07TZG89F1-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

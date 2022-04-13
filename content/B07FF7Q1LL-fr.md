@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF7Q1LL-fr Huawei 55030207 Creative Capacity Pen pour Mediapad M5...'
 sku: 'B07FF7Q1LL-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

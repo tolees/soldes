@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTVF52Q-fr LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille...'
 sku: 'B07KTVF52Q-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 41.19 EUR
 currency: EUR
 price: 41.19

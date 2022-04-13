@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45...'
 sku: 'B07XKCTBVN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

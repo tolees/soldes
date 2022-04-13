@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique Caffeo Solo Noir Pure...'
 sku: 'B00I3YL5T0-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 257.99 EUR
 currency: EUR
 price: 257.99

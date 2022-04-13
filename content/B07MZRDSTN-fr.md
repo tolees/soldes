@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZRDSTN-fr Pepe Jeans London Koko Archi Baskets Hautes Femme Black...'
 sku: 'B07MZRDSTN-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

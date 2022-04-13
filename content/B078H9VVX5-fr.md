@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078H9VVX5-fr Wrangler Regular Jacket Homme Bleu Midstone 091 Small'
 sku: 'B078H9VVX5-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 63.1 EUR
 currency: EUR
 price: 63.1

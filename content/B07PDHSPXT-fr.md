@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDHSPXT-fr Echo Dot 3ème génération Enceinte connectée avec Alexa...'
 sku: 'B07PDHSPXT-fr'
-tags: [ 'fr', ]
+tags: [ '🇫🇷', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
