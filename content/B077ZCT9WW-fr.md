@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - débit de vapeur max 80g/min, vapeur en continu : 35gr/min
 - temps de chauffe 3 min
-- Performance surfacique par remplissage de cuve (environ) : 20 m²
-- Puissance 1200 W
-- pression max 3 bars
 - câble électrique 4 m, capacité de cuve 0.2 l
+- Performance surfacique par remplissage de cuve (environ) : 20 m²
+- pression max 3 bars
+- Puissance 1200 W
 
 [🛒 Achète-le!!]({{< param buyurl >}})

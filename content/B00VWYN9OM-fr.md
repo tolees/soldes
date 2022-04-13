@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pantalon de léquipe
+- Couleur: Noir
 - Modèle skinny
 - Idéal comme équipement pour les Clubs sportifs
-- Couleur: Noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
