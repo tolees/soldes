@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E4RTERE-fr Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140...'
 sku: 'B01E4RTERE-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 78.71 EUR
 currency: EUR
 price: 78.71

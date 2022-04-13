@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZSM77G-fr Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g...'
 sku: 'B089ZSM77G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

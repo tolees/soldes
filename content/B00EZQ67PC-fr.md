@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EZQ67PC-fr Geox D Mendi Stivali Bottes femme - Noir - Schwarz...'
 sku: 'B00EZQ67PC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 70.61 EUR
 currency: EUR
 price: 70.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLBCS8C-fr s.Oliver BLACK LABEL 01.899.82.6408 Robe Noir Black AOP...'
 sku: 'B07YLBCS8C-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3QFDKJ-fr AUBADE Soutien-gorge Push-Up Coussinets Amovibles FIEVRE...'
 sku: 'B07H3QFDKJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

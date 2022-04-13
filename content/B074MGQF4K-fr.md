@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MGQF4K-fr Philips MG3740/15 Tondeuse cheveux et Multi-Styles -...'
 sku: 'B074MGQF4K-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

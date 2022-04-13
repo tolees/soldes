@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNZFYWJ-fr EasySMX Manettes pour Switch/Switch Lite Manette sans Fil...'
 sku: 'B08DNZFYWJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

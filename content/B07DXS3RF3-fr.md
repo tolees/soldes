@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXS3RF3-fr Le Cercle littéraire de Guernesey'
 sku: 'B07DXS3RF3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

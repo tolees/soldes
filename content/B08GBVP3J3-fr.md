@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBVP3J3-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
 sku: 'B08GBVP3J3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

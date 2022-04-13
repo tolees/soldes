@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013D1BBBY-fr Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 sku: 'B013D1BBBY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 594.0 EUR
 currency: EUR
 price: 594.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR7XX7N-fr Clarks Edward Plain Derbys Homme Marron Tan Leather- 45 EU'
 sku: 'B07FR7XX7N-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 74.89 EUR
 currency: EUR
 price: 74.89

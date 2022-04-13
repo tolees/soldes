@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGZ5NKS-fr TOZO T6 Ecouteur Bluetooth sans Fil TWS avec contrôle...'
 sku: 'B07RGZ5NKS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

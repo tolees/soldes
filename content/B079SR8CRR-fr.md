@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés Paquet de 6...'
 sku: 'B079SR8CRR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

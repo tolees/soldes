@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824V6ZCR-fr Ecouteur Bluetooth Écouteur sans Fil 150h de Lecture...'
 sku: 'B0824V6ZCR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

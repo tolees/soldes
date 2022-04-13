@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYRF6DD-fr Diesel Boxers UMBX-KORYTHREEPACK Homme NOIR...'
 sku: 'B01LYRF6DD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYTSB2P-fr Tommy Hilfiger Straight Denton Chino Gmd Flex Pantalon...'
 sku: 'B07JYTSB2P-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

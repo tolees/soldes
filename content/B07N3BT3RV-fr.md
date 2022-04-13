@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3BT3RV-fr ECCO Shape 55 Western Santiags Femme Noir Black 1001 37 EU'
 sku: 'B07N3BT3RV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 76.74 EUR
 currency: EUR
 price: 76.74

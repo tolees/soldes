@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4 6 pans...'
 sku: 'B006MSR3CC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

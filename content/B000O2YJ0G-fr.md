@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O2YJ0G-fr Clatronic Presse Agrumes Automatique Zp3066'
 sku: 'B000O2YJ0G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

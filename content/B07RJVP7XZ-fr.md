@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJVP7XZ-fr Etekcity Balance Wifi Balance Connectée Bluetooth...'
 sku: 'B07RJVP7XZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

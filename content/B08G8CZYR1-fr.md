@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G8CZYR1-fr Maegoo Manette PS4 sans Fil Bluetooth Dualshock 4 Manette...'
 sku: 'B08G8CZYR1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNRFWGX-fr Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee...'
 sku: 'B07CNRFWGX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 51.62 EUR
 currency: EUR
 price: 51.62

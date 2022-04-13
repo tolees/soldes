@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTJR48G-fr ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD...'
 sku: 'B07TTJR48G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 391.95 EUR
 currency: EUR
 price: 391.95

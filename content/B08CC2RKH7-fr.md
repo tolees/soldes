@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CC2RKH7-fr RUNACC Gants de Course Écran Tactile pour Hommes et Femmes...'
 sku: 'B08CC2RKH7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

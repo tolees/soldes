@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL7CDSJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne...'
 sku: 'B08BL7CDSJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZGM9SU-fr Smiffys Perruque de pirate brune avec bandana perles et...'
 sku: 'B00AZGM9SU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

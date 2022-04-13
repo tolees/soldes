@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RJURDK-fr Cat Footwear Colorado Bottes Homme Beige Honey 42 EU'
 sku: 'B009RJURDK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 101.48 EUR
 currency: EUR
 price: 101.48

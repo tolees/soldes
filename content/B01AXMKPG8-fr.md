@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXMKPG8-fr Philips QP6510/30 OneBlade Pro avec sabot réglable 12...'
 sku: 'B01AXMKPG8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF5FCNV-fr Levi s Type 3 Veste en Jean Bleu Palmer Sherpa Trucker...'
 sku: 'B07KF5FCNV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.98 EUR
 currency: EUR
 price: 63.98

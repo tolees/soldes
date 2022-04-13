@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPVCDN2-fr Kyocera KTN-180-HIP KIZUNA Couteau du chef Céramique Noir'
 sku: 'B01DPVCDN2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 257.16 EUR
 currency: EUR
 price: 257.16

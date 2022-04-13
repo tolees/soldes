@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005NGH1A8-fr Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8'
 sku: 'B005NGH1A8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 570.83 EUR
 currency: EUR
 price: 570.83

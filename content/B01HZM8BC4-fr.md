@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZM8BC4-fr Montre Hommes - Pulsar - PQ2055X1'
 sku: 'B01HZM8BC4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 111.3 EUR
 currency: EUR
 price: 111.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWL91W3-fr Swiffer Duster Lingettes Poussière X 10'
 sku: 'B01LWL91W3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

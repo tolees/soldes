@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLN1F45-fr LIVOO DOP142N Robot culinaire Chauffant'
 sku: 'B07WLN1F45-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 216.44 EUR
 currency: EUR
 price: 216.44

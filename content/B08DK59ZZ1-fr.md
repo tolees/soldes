@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DK59ZZ1-fr LiNKFOR Antenne TV Intérieure Numérique avec Signal...'
 sku: 'B08DK59ZZ1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

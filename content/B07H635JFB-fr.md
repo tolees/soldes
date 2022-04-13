@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H635JFB-fr Samsonite Valise 106745/7084 Graphite/Gunmetal Gris -...'
 sku: 'B07H635JFB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 185.28 EUR
 currency: EUR
 price: 185.28

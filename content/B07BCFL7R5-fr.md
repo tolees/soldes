@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCFL7R5-fr Marque Amazon – BUTTONED DOWN Pull en coton supima léger...'
 sku: 'B07BCFL7R5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

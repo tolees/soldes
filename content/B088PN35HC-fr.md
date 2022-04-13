@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088PN35HC-fr PHOINIKAS Casque de Jeu PS4 Casque Gaming Filaire pour...'
 sku: 'B088PN35HC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

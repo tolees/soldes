@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089B5TGYS-fr Lampe Frontale Super Brillante Lampe à 8 Del de 18000...'
 sku: 'B089B5TGYS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F21TZM6-fr Blue Star Madrid Vanity 31 cm 12 L Champagne'
 sku: 'B07F21TZM6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

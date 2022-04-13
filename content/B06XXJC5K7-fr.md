@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXJC5K7-fr Astone Helmets - Casque de moto MINI CROSS monocolor -...'
 sku: 'B06XXJC5K7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

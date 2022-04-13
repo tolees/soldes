@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L5FBYVI-fr Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts...'
 sku: 'B00L5FBYVI-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

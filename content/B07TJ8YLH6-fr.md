@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ8YLH6-fr FM London Fitted Boxer Shorty Noir Black 01 Small Lot de 8...'
 sku: 'B07TJ8YLH6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

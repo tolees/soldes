@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZFM3SW-fr jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de...'
 sku: 'B07DZFM3SW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

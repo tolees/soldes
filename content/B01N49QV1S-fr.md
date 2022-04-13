@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N49QV1S-fr Aicok Ensemble de couteaux Couteaux de chef avec bloc en...'
 sku: 'B01N49QV1S-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

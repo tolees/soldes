@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CN5G2X9-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note...'
 sku: 'B08CN5G2X9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089W3HQ3P-fr ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double...'
 sku: 'B089W3HQ3P-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

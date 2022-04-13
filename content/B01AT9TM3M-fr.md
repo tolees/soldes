@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT9TM3M-fr Etekcity Thermomètre Infrarouge sans Contact Laser de...'
 sku: 'B01AT9TM3M-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

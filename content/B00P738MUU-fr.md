@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P738MUU-fr Samsung SSD 850 EVO 1 To - SSD Interne SATA III 2.5" -...'
 sku: 'B00P738MUU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 296.8 EUR
 currency: EUR
 price: 296.8

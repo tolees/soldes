@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCMBQYH-fr Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro...'
 sku: 'B08GCMBQYH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

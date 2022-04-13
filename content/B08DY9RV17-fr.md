@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DY9RV17-fr Hikole 2 en 1 Trottinette pour Enfants Scooter avec Siège...'
 sku: 'B08DY9RV17-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

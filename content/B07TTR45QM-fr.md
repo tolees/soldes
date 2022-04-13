@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTR45QM-fr JSVER Cube Multiprise USB 3 Prises avec 3 Ports USB...'
 sku: 'B07TTR45QM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

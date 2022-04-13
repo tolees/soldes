@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016E66ZJS-fr Le Grand jour'
 sku: 'B016E66ZJS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4BV7LB-fr Comma 8t.002.85.1022 Combinaison Rosa Powder Rose 8022 42...'
 sku: 'B07Z4BV7LB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 74.28 EUR
 currency: EUR
 price: 74.28

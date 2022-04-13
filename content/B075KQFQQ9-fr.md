@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KQFQQ9-fr Boucles d oreilles or tricolore"Trianon"'
 sku: 'B075KQFQQ9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

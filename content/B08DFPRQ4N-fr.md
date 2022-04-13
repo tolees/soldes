@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFPRQ4N-fr jpantech Montre Connectée Smartwatch Femmes Homme Montre...'
 sku: 'B08DFPRQ4N-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

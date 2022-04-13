@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School...'
 sku: 'B086RLQRNX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

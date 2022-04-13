@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JY26PD-fr SEELOK Masques de Super-héros à Gratter Scratch Art 24...'
 sku: 'B086JY26PD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

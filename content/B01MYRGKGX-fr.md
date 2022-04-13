@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYRGKGX-fr New Balance ML373BN Baskets Homme Rouge Burgundy/Silver...'
 sku: 'B01MYRGKGX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

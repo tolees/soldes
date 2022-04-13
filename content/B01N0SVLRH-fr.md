@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0SVLRH-fr Réparer Les Vivants [DVD + Copie Digitale]'
 sku: 'B01N0SVLRH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CD3NLY8-fr ELKATECH | Garde Boue pour Trottinette Electrique Xiaomi...'
 sku: 'B08CD3NLY8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

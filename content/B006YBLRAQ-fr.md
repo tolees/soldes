@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006YBLRAQ-fr sloggi Basic+ Maxi 3P Culotte Gainante Femme Paquet de 3...'
 sku: 'B006YBLRAQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

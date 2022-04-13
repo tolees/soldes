@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5DDPXX-fr Microsoft – Modern Mobile Mouse – Souris Bluetooth pour PC...'
 sku: 'B07L5DDPXX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

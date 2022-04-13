@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY3DC5T-fr Redskins Blouson Cuir Melrose Wonder Homme'
 sku: 'B07RY3DC5T-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 245.39 EUR
 currency: EUR
 price: 245.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZZVQK8-fr yuehu Cotton Cotton Square Decorative Throw Pillowcase...'
 sku: 'B07VZZVQK8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

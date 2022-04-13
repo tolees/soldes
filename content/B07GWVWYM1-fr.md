@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWVWYM1-fr FREEGUN Lot 5 DE Boxers Flag Homme Taille M …'
 sku: 'B07GWVWYM1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

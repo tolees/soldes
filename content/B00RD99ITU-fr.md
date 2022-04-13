@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RD99ITU-fr Crocs Crocband Sabots Mixte Adulte Rose Pearl Pink/Wild...'
 sku: 'B00RD99ITU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

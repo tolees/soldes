@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HD8WZHV-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A51...'
 sku: 'B08HD8WZHV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

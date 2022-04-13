@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D64P2YK-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D64P2YK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

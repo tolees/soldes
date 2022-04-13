@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKZY63L-fr Les Tropéziennes par M. Belarbi HIRONDEL Sandales Bride...'
 sku: 'B07BKZY63L-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

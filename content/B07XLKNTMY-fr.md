@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLKNTMY-fr SAIAOBO Mandoline Coupe-Légumes 13 en 1 Trancheur de...'
 sku: 'B07XLKNTMY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

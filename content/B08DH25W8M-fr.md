@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DH25W8M-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
 sku: 'B08DH25W8M-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

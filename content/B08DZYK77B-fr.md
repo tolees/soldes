@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DZYK77B-fr XIDISO Basket de Homme Chaussures de Sport Running Course...'
 sku: 'B08DZYK77B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

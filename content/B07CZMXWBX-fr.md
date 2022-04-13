@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZMXWBX-fr Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme...'
 sku: 'B07CZMXWBX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

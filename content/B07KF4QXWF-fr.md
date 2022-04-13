@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4QXWF-fr Levi s unbasic Hoodie Sweat-Shirt À Capuche Gris...'
 sku: 'B07KF4QXWF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2G2TK2-fr Levi s Perfect V Neck T-Shirt Blanc White + 0002 Large Femme'
 sku: 'B07S2G2TK2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

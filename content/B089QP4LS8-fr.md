@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QP4LS8-fr RAMPOW Câble USB C vers USB C 3m [Garantie à Vie] Câble...'
 sku: 'B089QP4LS8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

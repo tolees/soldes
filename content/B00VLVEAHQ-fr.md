@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLVEAHQ-fr Playmobil - 5303 - Maison Traditionnelle'
 sku: 'B00VLVEAHQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

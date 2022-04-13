@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de...'
 sku: 'B07FQF64TF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

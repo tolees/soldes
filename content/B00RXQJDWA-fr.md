@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RXQJDWA-fr Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de...'
 sku: 'B00RXQJDWA-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

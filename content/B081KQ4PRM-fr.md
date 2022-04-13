@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KQ4PRM-fr Roman Porno 1971-2016-Une Histoire érotique du Japon'
 sku: 'B081KQ4PRM-fr'
-tags: [ 'Cinéma asiatique','Comédie','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Romance','Thriller', ]
+tags: [ 'Cinéma asiatique','Comédie','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Romance','Thriller','fr', ]
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

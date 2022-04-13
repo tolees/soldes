@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJNYZKW-fr Purflux L358A filtre à huile'
 sku: 'B00CJNYZKW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

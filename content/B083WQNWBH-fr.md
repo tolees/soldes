@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WQNWBH-fr IKOHS AIRCALM DC - Ventilateur de Plafond Fonction...'
 sku: 'B083WQNWBH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 180.95 EUR
 currency: EUR
 price: 180.95

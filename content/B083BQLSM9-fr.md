@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BQLSM9-fr Toozey Jouets Chat 24 Pièces Jouet Chat Jouet à Plumes...'
 sku: 'B083BQLSM9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

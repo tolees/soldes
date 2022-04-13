@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013YL0ROK-fr Golden Eagle brand new Superbe sculpture de décoration en...'
 sku: 'B013YL0ROK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 66.34 EUR
 currency: EUR
 price: 66.34

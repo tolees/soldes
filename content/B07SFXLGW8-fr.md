@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFXLGW8-fr Spyro Reignited Trilogy Switch'
 sku: 'B07SFXLGW8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

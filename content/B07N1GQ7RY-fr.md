@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GQ7RY-fr Tigex Baignoire pour Bébé Pliable Ultra Compacte 0-12 Mois...'
 sku: 'B07N1GQ7RY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

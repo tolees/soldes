@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LS9HHVW-fr K-Way K004BD0 - veste imperméable - Homme - Noir Black -...'
 sku: 'B00LS9HHVW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

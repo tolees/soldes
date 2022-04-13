@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JHX2N3F-fr Ruban LED REDSTORM Bande LED TV Rétroéclairage Lumière...'
 sku: 'B08JHX2N3F-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

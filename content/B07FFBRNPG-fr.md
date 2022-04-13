@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFBRNPG-fr CYBEX Gold Sac à Langer Scuderia Ferrari Victory Black'
 sku: 'B07FFBRNPG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 72.48 EUR
 currency: EUR
 price: 72.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K5LQCQX-fr Levi s 501 Original Fit Jeans Homme Bleu Snoot 32W / 32L'
 sku: 'B07K5LQCQX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

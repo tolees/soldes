@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4C28X-fr POP! Marvel: Black Widow – Taskmaster w/ Shield'
 sku: 'B07XH4C28X-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

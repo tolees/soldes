@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMGV7Q9-fr Chie Mihara balis Sandales Bride Cheville Femmes Rouge...'
 sku: 'B07YMGV7Q9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 132.64 EUR
 currency: EUR
 price: 132.64

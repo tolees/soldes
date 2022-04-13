@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9ZHLXW-fr Redmi Note8 4+64Gb Black EU'
 sku: 'B07Y9ZHLXW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 154.4 EUR
 currency: EUR
 price: 154.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RLK1MY-fr Ecouteurs Bluetooth 5.0 Écouteur sans Fil avec Anti-Bruit...'
 sku: 'B087RLK1MY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

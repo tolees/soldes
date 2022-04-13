@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004CREO0Y-fr GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J...'
 sku: 'B004CREO0Y-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

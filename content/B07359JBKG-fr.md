@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07359JBKG-fr RIDER-TEC – Blouson Moto Urban Girly SoftShell Black –...'
 sku: 'B07359JBKG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

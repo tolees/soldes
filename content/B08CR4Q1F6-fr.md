@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR4Q1F6-fr Elyco Étui pour Nintendo Switch Protection Housse Switch...'
 sku: 'B08CR4Q1F6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

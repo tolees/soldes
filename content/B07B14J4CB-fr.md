@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B14J4CB-fr LEGO Unikitty - La fête - 41453 - Jeu de construction'
 sku: 'B07B14J4CB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

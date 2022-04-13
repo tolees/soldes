@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQW7QJ1-fr Aigle Parfield W Mtd Bottes & Bottines Cavalieres Femme...'
 sku: 'B07CQW7QJ1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 89.53 EUR
 currency: EUR
 price: 89.53

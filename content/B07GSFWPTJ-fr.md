@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSFWPTJ-fr Neato Robotics D4 Aspirateur Robot Intelligent -...'
 sku: 'B07GSFWPTJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 355.99 EUR
 currency: EUR
 price: 355.99

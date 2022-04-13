@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLRK7Y8-fr OMRON VIVA : Pèse-personne intelligent Bluetooth avec...'
 sku: 'B07CLRK7Y8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KGAOLJK-fr Cristel - M24M - Marmite inox 24cm + couvercle -...'
 sku: 'B00KGAOLJK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 94.27 EUR
 currency: EUR
 price: 94.27

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763FFNNL-fr NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit...'
 sku: 'B0763FFNNL-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

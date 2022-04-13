@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH3TGD7-fr Strellson Premium Allen2.0 Amf2 12 Veste De Costume Bleu...'
 sku: 'B07NH3TGD7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 86.96 EUR
 currency: EUR
 price: 86.96

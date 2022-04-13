@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XMYGTGQ-fr Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme...'
 sku: 'B06XMYGTGQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 72.6 EUR
 currency: EUR
 price: 72.6

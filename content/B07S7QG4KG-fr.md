@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7QG4KG-fr PUMA NRGY Rupture Running Mixte Adulte Black-High Rise...'
 sku: 'B07S7QG4KG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP1BNG9-fr Figurine - Ghost Recon: Breakpoint - Nomad'
 sku: 'B07RP1BNG9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

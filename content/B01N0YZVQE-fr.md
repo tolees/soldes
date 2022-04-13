@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0YZVQE-fr Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse...'
 sku: 'B01N0YZVQE-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

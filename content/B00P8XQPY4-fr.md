@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P8XQPY4-fr Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de...'
 sku: 'B00P8XQPY4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

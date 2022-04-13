@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N59LZY-fr Toozey Jouets pour Chiens - 6 PCS Jouets Chiot Jouet Chien...'
 sku: 'B089N59LZY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

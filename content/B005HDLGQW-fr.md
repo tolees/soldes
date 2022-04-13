@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HDLGQW-fr Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux -...'
 sku: 'B005HDLGQW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

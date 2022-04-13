@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SVFJ5K-fr Telephone Portable 4G Blackview A80 Pro 2020 Smartphone...'
 sku: 'B081SVFJ5K-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

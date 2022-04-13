@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BGK38Y-fr LK Verre Trempé pour Xiaomi Redmi Note 9S / Note 9...'
 sku: 'B088BGK38Y-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

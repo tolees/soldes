@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087V4MV7G-fr Pin’s Guitare Geepins | Magnifique Broche Miniature Fender...'
 sku: 'B087V4MV7G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

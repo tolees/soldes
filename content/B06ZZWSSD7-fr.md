@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZWSSD7-fr Morphy Richards Supervac Deluxe 32 V'
 sku: 'B06ZZWSSD7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 143.9 EUR
 currency: EUR
 price: 143.9

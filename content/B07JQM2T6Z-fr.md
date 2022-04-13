@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQM2T6Z-fr Under Armour Men s Official Tour Cap 3.0 Casquette Homme...'
 sku: 'B07JQM2T6Z-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B2V16CD-fr FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau...'
 sku: 'B07B2V16CD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 379.99 EUR
 currency: EUR
 price: 379.99

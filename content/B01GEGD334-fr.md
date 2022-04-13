@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GEGD334-fr Paco Home Tapis De Créateur Décorations Modernes Motif...'
 sku: 'B01GEGD334-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

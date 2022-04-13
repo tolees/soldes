@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8T29SN-fr Tommy Hilfiger Essential Computer Bag Sacs pour ordinateur...'
 sku: 'B07N8T29SN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 100.91 EUR
 currency: EUR
 price: 100.91

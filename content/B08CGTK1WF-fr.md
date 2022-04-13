@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGTK1WF-fr NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule...'
 sku: 'B08CGTK1WF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

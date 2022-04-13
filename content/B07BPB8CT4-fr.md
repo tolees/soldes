@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPB8CT4-fr Wrangler Slider Jeans Homme Bleu Blue Charm 24Z 32W / 34L'
 sku: 'B07BPB8CT4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

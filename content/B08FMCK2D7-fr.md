@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMCK2D7-fr GRDE Montre Connectée Smartwatch Bluetooth Montre Sport...'
 sku: 'B08FMCK2D7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

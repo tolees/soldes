@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H23NKSF-fr Disque Dur Externe 2to USB3.0 SATA Disque Dur Externe pour...'
 sku: 'B08H23NKSF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

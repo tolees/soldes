@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0149QBQE4-fr Corsair MM200 Tapis de Souris Gaming Extended Tissu Noir'
 sku: 'B0149QBQE4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

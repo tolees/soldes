@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSDZCZ-fr LEGO® DUPLO® Movie Les visiteurs de la planète DUPLO® d...'
 sku: 'B07FNSDZCZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

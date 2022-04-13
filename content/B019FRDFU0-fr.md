@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FRDFU0-fr Crucial CT4G4DFS824A 4Go DDR4 2400 MT/s PC4-19200 Single...'
 sku: 'B019FRDFU0-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

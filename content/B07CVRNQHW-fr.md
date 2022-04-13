@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVRNQHW-fr Columbia Homme BottesCasual Imperméable CAMDEN OUTDRY...'
 sku: 'B07CVRNQHW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.91 EUR
 currency: EUR
 price: 65.91

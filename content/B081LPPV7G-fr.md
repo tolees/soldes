@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081LPPV7G-fr Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna...'
 sku: 'B081LPPV7G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

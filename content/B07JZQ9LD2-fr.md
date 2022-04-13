@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZQ9LD2-fr Apple Watch Series 4 GPS + Cellular Boîtier en Acier...'
 sku: 'B07JZQ9LD2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

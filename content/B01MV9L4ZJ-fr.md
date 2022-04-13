@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme Bleu Marine 166 S'
 sku: 'B01MV9L4ZJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

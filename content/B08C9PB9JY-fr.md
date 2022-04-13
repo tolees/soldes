@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9PB9JY-fr BOBOO Mini RC Drone pour Enfants Quadcopter RC Pliable...'
 sku: 'B08C9PB9JY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

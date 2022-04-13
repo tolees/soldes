@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BEQWQ78-fr MagiDeal Coussinet Casque Coussin Remplacement pour Sony...'
 sku: 'B01BEQWQ78-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

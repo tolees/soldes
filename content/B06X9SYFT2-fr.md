@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SYFT2-fr Perfection - Jeu de Societe - Jeu de rapidité - Version...'
 sku: 'B06X9SYFT2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

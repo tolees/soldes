@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe Derbys Homme Marron Cognac 003...'
 sku: 'B07FSVKSW7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

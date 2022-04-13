@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBIC3HS-fr Lacoste Homme Analogique Classique Quartz Montres bracelet...'
 sku: 'B01NBIC3HS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

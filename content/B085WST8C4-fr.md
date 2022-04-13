@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WST8C4-fr PHOINIKAS Casque de Jeu PS4 Casque Gaming Filaire pour...'
 sku: 'B085WST8C4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVX1LDV-fr Chaussures de Trail Running'
 sku: 'B07DVX1LDV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

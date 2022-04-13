@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P0ZJXEO-fr Italia Independent 0090CV-009-000 Lunettes de Soleil...'
 sku: 'B00P0ZJXEO-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 30.87 EUR
 currency: EUR
 price: 30.87

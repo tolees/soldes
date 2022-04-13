@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDNHWSC-fr Disque Dur Externe 2to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CDNHWSC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

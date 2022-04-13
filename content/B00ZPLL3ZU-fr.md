@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZPLL3ZU-fr Siméo PF200 Sorbetière'
 sku: 'B00ZPLL3ZU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

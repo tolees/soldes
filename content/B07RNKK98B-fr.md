@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNKK98B-fr Multifonctionnelle Histoire Projecteur Enfant Histoire...'
 sku: 'B07RNKK98B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

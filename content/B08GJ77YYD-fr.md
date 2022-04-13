@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GJ77YYD-fr Coque Samsung S10 Cover Samsung Galaxy S10 Housse Double...'
 sku: 'B08GJ77YYD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

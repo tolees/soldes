@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GA2ABU0-fr KLIM Voice Microphone à Pied USB pour Ordinateur - Micro...'
 sku: 'B01GA2ABU0-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

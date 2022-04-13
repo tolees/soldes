@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GTTKX-fr Merrell Moab 2 GTX Chaussures de Randonnée Basses Femme...'
 sku: 'B07D9GTTKX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

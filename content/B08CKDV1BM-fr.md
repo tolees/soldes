@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKDV1BM-fr LeaderPro Talkies-Walkies pour Enfants Jouets pour Enfants...'
 sku: 'B08CKDV1BM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

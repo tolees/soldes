@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L167FDP-fr Trussardi Jeans Sophie Cross Body Md Ecoleathe femme Gris...'
 sku: 'B07L167FDP-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

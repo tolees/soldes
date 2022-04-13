@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 sku: 'B07NM4R6ZS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

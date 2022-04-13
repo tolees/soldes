@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVGH8LF-fr Disque Dur Externe Disque Dur Externe 1to USB3.0 pour Mac...'
 sku: 'B08CVGH8LF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

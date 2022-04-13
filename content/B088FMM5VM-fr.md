@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FMM5VM-fr lenbest Jouet Bebe - 3D Puzzles en Bois Fond Vif Animaux...'
 sku: 'B088FMM5VM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008BGNFWA-fr Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
 sku: 'B008BGNFWA-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

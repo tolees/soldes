@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLDKHPT-fr CYBEX Gold Siège Auto Évolutif Pallas S-Fix Adapté aux...'
 sku: 'B07GLDKHPT-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLRK4ZQ-fr David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout...'
 sku: 'B07FLRK4ZQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

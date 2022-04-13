@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFWYHBY-fr Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression...'
 sku: 'B06XFWYHBY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

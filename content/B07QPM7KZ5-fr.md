@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPM7KZ5-fr NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule...'
 sku: 'B07QPM7KZ5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

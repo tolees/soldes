@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4MPIG3-fr Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme...'
 sku: 'B01N4MPIG3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

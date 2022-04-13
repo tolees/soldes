@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXXBP6F-fr Globe Fusion Chaussures de Skateboard Hommes Marron...'
 sku: 'B07MXXBP6F-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

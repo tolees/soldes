@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ9BYGY-fr Vansuny Disque Dur Externe SSD 250Go SSD Portable USB 3.1...'
 sku: 'B08BZ9BYGY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

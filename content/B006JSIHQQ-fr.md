@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JSIHQQ-fr Thetford 92814 Potti Potti 345 Toilette Portable Blanc-...'
 sku: 'B006JSIHQQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 67.84 EUR
 currency: EUR
 price: 67.84

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWMH6LH-fr ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016...'
 sku: 'B07VWMH6LH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

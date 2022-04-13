@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABIPJ3Y-fr Arrête-Moi si tu Peux [Blu-Ray]'
 sku: 'B00ABIPJ3Y-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

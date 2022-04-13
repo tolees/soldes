@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S6F1UBY-fr Sylvanian Families - 5206 - Le bateau de croisière'
 sku: 'B00S6F1UBY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

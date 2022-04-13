@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BG4RJD-fr eXtremeRate Support Vertical Noir pour Xbox One X Console'
 sku: 'B078BG4RJD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

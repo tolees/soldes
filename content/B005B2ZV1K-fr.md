@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005B2ZV1K-fr Cat Footwear HAYCOX Baskets Homme Marron Haricot 0 43 EU'
 sku: 'B005B2ZV1K-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

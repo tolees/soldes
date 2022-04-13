@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K12FQFH-fr RACER Paire de gants chauffants moto Femme HEAT 3 noir...'
 sku: 'B07K12FQFH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

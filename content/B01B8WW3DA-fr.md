@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B8WW3DA-fr Rubie s-déguisement officiel - Rubie s-Costume Miraculous...'
 sku: 'B01B8WW3DA-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

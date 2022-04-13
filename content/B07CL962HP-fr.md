@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL962HP-fr Giochi Preziosi – LOL Bigger Surprise multicolore llu46000...'
 sku: 'B07CL962HP-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

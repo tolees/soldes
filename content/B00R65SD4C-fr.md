@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R65SD4C-fr VAHDAM Feuilles de Thé Vert de l Himalaya 50+ Tasses |...'
 sku: 'B00R65SD4C-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

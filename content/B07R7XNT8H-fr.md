@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7XNT8H-fr Columbia Lake 22 Doudoune Longue à Capuche Femme'
 sku: 'B07R7XNT8H-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0OVJJO-fr Ahava Deadsea Salt Body Firming Duo Body Shaper 200 ml +...'
 sku: 'B01N0OVJJO-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 27.28 EUR
 currency: EUR
 price: 27.28

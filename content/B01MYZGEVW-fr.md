@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYZGEVW-fr Les PEPITES'
 sku: 'B01MYZGEVW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

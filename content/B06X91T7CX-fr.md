@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X91T7CX-fr GreedFall'
 sku: 'B06X91T7CX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43

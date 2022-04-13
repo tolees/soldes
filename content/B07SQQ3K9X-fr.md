@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQQ3K9X-fr ARCORA Robinet de Cuisine avec Douchette Extensible...'
 sku: 'B07SQQ3K9X-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

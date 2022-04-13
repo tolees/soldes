@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NFYD29-fr THE NORTH FACE Nuptse III Gilet Homme TNF Black FR : M...'
 sku: 'B074NFYD29-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 94.18 EUR
 currency: EUR
 price: 94.18

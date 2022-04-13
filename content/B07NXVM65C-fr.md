@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXVM65C-fr Hairdorables Poupée Serie 2 avec 11 Accessoires Surprises...'
 sku: 'B07NXVM65C-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

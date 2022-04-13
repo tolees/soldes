@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9C2PVL-fr JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil –...'
 sku: 'B07N9C2PVL-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 78.89 EUR
 currency: EUR
 price: 78.89

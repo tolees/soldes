@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KKLXDS-fr Eastpak The One Sac Bandoulière 21 cm 2.5 L Noir Black'
 sku: 'B000KKLXDS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

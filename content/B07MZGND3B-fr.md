@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZGND3B-fr PLDM by Palladium Ranch SUD Bottes & Bottines Souples...'
 sku: 'B07MZGND3B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 57.36 EUR
 currency: EUR
 price: 57.36

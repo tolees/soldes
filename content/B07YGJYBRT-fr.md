@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGJYBRT-fr Chie Mihara Janis Escarpins Bride Cheville Femmes Rose...'
 sku: 'B07YGJYBRT-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 144.02 EUR
 currency: EUR
 price: 144.02

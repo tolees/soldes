@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUX4KWK-fr Reebok Deck'
 sku: 'B01KUX4KWK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 121.17 EUR
 currency: EUR
 price: 121.17

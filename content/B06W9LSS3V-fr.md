@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9LSS3V-fr Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et...'
 sku: 'B06W9LSS3V-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

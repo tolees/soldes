@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZMSH3Y-fr Michael Kors Montre Connectée MKT5052'
 sku: 'B07GZMSH3Y-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 212.92 EUR
 currency: EUR
 price: 212.92

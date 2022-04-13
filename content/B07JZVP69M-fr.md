@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZVP69M-fr Feral roots'
 sku: 'B07JZVP69M-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

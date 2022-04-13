@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8MHW71-fr Logitech iPad Air Étui Clavier 3e Génération | Slim Folio...'
 sku: 'B07W8MHW71-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

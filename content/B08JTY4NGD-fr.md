@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JTY4NGD-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
 sku: 'B08JTY4NGD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

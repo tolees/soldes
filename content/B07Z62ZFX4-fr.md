@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z62ZFX4-fr Herefun Bocs de Construction en Bois Tour Empilables Jeu à...'
 sku: 'B07Z62ZFX4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

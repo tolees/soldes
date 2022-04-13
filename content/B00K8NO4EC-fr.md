@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8NO4EC-fr Hudson Houghton 2 Bottes Chukka Homme Marron Calf Tan 44 EU'
 sku: 'B00K8NO4EC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 53.53 EUR
 currency: EUR
 price: 53.53

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYQMTMJ-fr Jojoin Instruments de Musique pour Enfants 25Pcs Set en...'
 sku: 'B07TYQMTMJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

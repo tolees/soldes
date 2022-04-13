@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3MPM49-fr Xiaomi band 5 bracelet Montre Connectée Trackers d...'
 sku: 'B08D3MPM49-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

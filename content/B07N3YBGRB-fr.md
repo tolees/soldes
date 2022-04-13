@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YBGRB-fr Hackett AMR MLT Wings Polo Multicolore Navy/White 5DJ...'
 sku: 'B07N3YBGRB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 97.86 EUR
 currency: EUR
 price: 97.86

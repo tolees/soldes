@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJN4VJT-fr Casque LVL50 sans Fil pour Sony Playstation - noir'
 sku: 'B07NJN4VJT-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

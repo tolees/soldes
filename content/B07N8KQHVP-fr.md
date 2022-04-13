@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KQHVP-fr Hugo Uptown Bootie55-s Botines Femme Noir Black 001 39 EU'
 sku: 'B07N8KQHVP-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 259.95 EUR
 currency: EUR
 price: 259.95

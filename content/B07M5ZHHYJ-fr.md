@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5ZHHYJ-fr Supra Vaider Chaussures de Skateboard Mixte Adulte Rouge...'
 sku: 'B07M5ZHHYJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.86 EUR
 currency: EUR
 price: 63.86

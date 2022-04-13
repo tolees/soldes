@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit Bleu Medium Blue 9...'
 sku: 'B07L8WHN32-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

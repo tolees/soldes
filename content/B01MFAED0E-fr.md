@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFAED0E-fr Babymoov - Nutribaby + Robot Multifonctions 5 en 1 Grande...'
 sku: 'B01MFAED0E-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8XSZDH-fr Rockport Westbrook Oxford Richelieus Homme Marron Cocoa...'
 sku: 'B07N8XSZDH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

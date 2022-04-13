@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2WSKVK-fr Echo Plus 2ème génération Tissu anthracite + Ampoule...'
 sku: 'B07H2WSKVK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

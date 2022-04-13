@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec...'
 sku: 'B07G5XDVP6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 485.69 EUR
 currency: EUR
 price: 485.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRS928D-fr Art 1330 Memphis Güell Sandales Bout Ouvert Femme Marron...'
 sku: 'B07KRS928D-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 67.12 EUR
 currency: EUR
 price: 67.12

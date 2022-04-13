@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH4JHTC-fr Fluval 307 External Filter'
 sku: 'B07JH4JHTC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

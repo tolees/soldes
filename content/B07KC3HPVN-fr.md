@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KC3HPVN-fr ACCUWEIGHT Balance de Cuisine Électronique Balance...'
 sku: 'B07KC3HPVN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

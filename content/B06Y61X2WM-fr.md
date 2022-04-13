@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y61X2WM-fr Vladimir Ashkenazy: The Complete Piano Concerto Recordings'
 sku: 'B06Y61X2WM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 70.22 EUR
 currency: EUR
 price: 70.22

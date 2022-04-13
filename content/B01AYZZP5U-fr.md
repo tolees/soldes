@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-...'
 sku: 'B01AYZZP5U-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

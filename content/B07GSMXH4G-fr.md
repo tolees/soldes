@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSMXH4G-fr Neato Robotics D6 Aspirateur Robot Intelligent -...'
 sku: 'B07GSMXH4G-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGV3R3R-fr Derhy DAGADGET Parka Bleu Marine 300 40 Taille Fabricant:M...'
 sku: 'B07NGV3R3R-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 85.09 EUR
 currency: EUR
 price: 85.09

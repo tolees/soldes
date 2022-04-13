@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7VORFU-fr Zéfal Z Traveler sacoche de porte-bagage'
 sku: 'B01K7VORFU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011BRKPLE-fr HUAWEI Surfstick Clé USB E3372H-320 LTE jusqu à 150 Mbit/s...'
 sku: 'B011BRKPLE-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

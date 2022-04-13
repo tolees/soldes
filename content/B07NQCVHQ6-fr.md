@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQCVHQ6-fr Echo Dot 3ème génération Enceinte connectée avec horloge...'
 sku: 'B07NQCVHQ6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

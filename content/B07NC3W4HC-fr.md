@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC3W4HC-fr TomTom GPS Voiture GO Premium 5 Pouces Info Trafic Alertes...'
 sku: 'B07NC3W4HC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

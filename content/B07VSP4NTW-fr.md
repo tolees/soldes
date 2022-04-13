@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10...'
 sku: 'B07VSP4NTW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

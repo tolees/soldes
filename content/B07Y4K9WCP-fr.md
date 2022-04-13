@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4K9WCP-fr Dragon Ball Super-L intégrale-Épisodes 1-131'
 sku: 'B07Y4K9WCP-fr'
-tags: [ 'Animation japonaise','DVD et Blu-ray','Featured Categories','Séries TV', ]
+tags: [ 'Animation japonaise','DVD et Blu-ray','Featured Categories','Séries TV','fr', ]
 actualPrice: 82.49 EUR
 currency: EUR
 price: 82.49

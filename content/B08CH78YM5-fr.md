@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CH78YM5-fr Thermometre Frontal Adulte KKmier Thermometre sans Contact...'
 sku: 'B08CH78YM5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

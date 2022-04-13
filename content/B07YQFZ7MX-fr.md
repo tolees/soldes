@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQFZ7MX-fr Régilait Lait en Poudre Écrémé Vitalité 300 g'
 sku: 'B07YQFZ7MX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

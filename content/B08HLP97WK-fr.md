@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLP97WK-fr Dittzz Tank Militaire Jouet Char Jeu de Construction 508...'
 sku: 'B08HLP97WK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

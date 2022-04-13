@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWNGHN7-fr Trio Leuchten 305100161 Jacob Suspension en métal pour 1...'
 sku: 'B06XWNGHN7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

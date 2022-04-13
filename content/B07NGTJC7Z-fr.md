@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGTJC7Z-fr Derhy ARALIA Top à Manches Longues Multicolore Couleurs...'
 sku: 'B07NGTJC7Z-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 51.63 EUR
 currency: EUR
 price: 51.63

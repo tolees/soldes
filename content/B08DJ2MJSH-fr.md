@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ2MJSH-fr Disque Dur Externe 2to Type C USB3.1 pour PC Mac...'
 sku: 'B08DJ2MJSH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

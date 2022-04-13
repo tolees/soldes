@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0010YVK1I-fr Timberland Classic 2-Eye Chaussures Bateau Femme Bleu MD...'
 sku: 'B0010YVK1I-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFR6RPY-fr AIMOS Commutateur KVM DVI 2 Ports KVM Switch Boîtier De...'
 sku: 'B08GFR6RPY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

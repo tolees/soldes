@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D13B7YW-fr Romanticist 28Pcs Kit d accessoires pour Barbecue à...'
 sku: 'B07D13B7YW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

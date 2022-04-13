@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6P15GS-fr Adidas NMD R1 Basket Mode Homme - Noir Core Black/Core...'
 sku: 'B07D6P15GS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

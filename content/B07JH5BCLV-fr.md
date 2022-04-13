@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH5BCLV-fr Newton Gravity 8 Chaussure De Course à Pied - 41'
 sku: 'B07JH5BCLV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 78.39 EUR
 currency: EUR
 price: 78.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDG2TK2-fr OSRAM - Applique extérieure LED ENDURA STYLE UpDoWn Flex -...'
 sku: 'B07FDG2TK2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

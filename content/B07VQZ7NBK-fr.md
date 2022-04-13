@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQZ7NBK-fr Selonis Piscine À Balles 90X30cm/200 Balles Ronde en...'
 sku: 'B07VQZ7NBK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

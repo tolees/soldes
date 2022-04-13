@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCJMFC-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Surf...'
 sku: 'B07NFCJMFC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 75.37 EUR
 currency: EUR
 price: 75.37

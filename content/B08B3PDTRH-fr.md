@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3PDTRH-fr Rasoir électrique pour hommes rasoir électrique rotatif...'
 sku: 'B08B3PDTRH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

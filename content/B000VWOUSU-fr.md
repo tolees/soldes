@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VWOUSU-fr Queen - Rock Montreal & Live Aid [Blu-ray]'
 sku: 'B000VWOUSU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

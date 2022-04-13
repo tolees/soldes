@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJCD6QV-fr Funko- Figurines Pop Vinyl: Harry Potter S5: Hermione as...'
 sku: 'B07HJCD6QV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

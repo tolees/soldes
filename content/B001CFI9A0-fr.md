@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CFI9A0-fr DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
 sku: 'B001CFI9A0-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

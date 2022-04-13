@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015YP7AXK-fr Beurer MP 100 Ensemble de Manucure Pédicure Blanc'
 sku: 'B015YP7AXK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

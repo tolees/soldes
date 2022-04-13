@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W9JKJJW-fr Balance Pèse Personne iTeknic Pèse Personne Impédancemètre...'
 sku: 'B07W9JKJJW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

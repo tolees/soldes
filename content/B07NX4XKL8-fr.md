@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2...'
 sku: 'B07NX4XKL8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

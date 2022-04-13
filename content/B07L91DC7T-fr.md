@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L91DC7T-fr Replay W7525 .000.83534 Manteau Beige 10 Large Femme'
 sku: 'B07L91DC7T-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 123.7 EUR
 currency: EUR
 price: 123.7

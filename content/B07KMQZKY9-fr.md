@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMQZKY9-fr Adidas W E 3S Short Femme Noir/Blanc FR Taille Fabricant : XS'
 sku: 'B07KMQZKY9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

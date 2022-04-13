@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JFTL73-fr Barbie Métiers Coffret poupée cheffe avec kit cuisine...'
 sku: 'B079JFTL73-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

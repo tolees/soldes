@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTEMGN4-fr SONAX 02465000 ProfiLine cutmax 5 l'
 sku: 'B01GTEMGN4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 79.23 EUR
 currency: EUR
 price: 79.23

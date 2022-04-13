@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6B3MSX-fr FR Femme Montre-Bracelet parlante française Montre-...'
 sku: 'B07J6B3MSX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

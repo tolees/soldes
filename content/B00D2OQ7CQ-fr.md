@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D2OQ7CQ-fr Cressi HY788051 Sub S.p.A. Ac2 Compact Détendeur DIN'
 sku: 'B00D2OQ7CQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 124.94 EUR
 currency: EUR
 price: 124.94

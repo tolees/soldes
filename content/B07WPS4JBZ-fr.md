@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPS4JBZ-fr Recepteur Bluetooth Jack DUTISON récepteur Bluetooth...'
 sku: 'B07WPS4JBZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

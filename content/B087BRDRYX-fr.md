@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BRDRYX-fr MENEEA Poignée de boxe pour Nintendo Switch Joy-Con...'
 sku: 'B087BRDRYX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

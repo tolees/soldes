@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet...'
 sku: 'B009RP47US-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 92.3 EUR
 currency: EUR
 price: 92.3

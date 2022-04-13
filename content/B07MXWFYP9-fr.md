@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXWFYP9-fr Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs...'
 sku: 'B07MXWFYP9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 174.95 EUR
 currency: EUR
 price: 174.95

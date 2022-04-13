@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JWJD9-fr Clarks Un Venturehi Botines Femme Noir Black Combi Black...'
 sku: 'B07N1JWJD9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

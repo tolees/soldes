@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGC6YDF-fr Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch'
 sku: 'B08HGC6YDF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

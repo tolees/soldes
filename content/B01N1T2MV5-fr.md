@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1T2MV5-fr Casque Bluetooth sans Fil avec ANC - August EP750 - Casque...'
 sku: 'B01N1T2MV5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

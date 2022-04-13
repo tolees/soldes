@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TN5PSXF-fr UMtrade Mode Acier Inoxydable Hommes Christian Sideway...'
 sku: 'B07TN5PSXF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

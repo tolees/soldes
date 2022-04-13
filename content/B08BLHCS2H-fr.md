@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLHCS2H-fr LIGHTAILING Jeu De Lumières pour Architecture Dubaï Modèle...'
 sku: 'B08BLHCS2H-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

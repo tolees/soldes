@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ALQGFK-fr Ardes - ARD.M240 - Masseur - Anti-Cellulite -...'
 sku: 'B002ALQGFK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

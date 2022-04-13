@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8ZRTCF-fr Replay M8006 .000.83406 Blouson Noir Black 98 Large Homme'
 sku: 'B07L8ZRTCF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

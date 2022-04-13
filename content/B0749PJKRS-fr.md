@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749PJKRS-fr CRAZYCHIC - Bague Elastique Taille Réglable Ajustable...'
 sku: 'B0749PJKRS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

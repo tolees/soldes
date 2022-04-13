@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6CNGF1-fr Manettes pour Switch/Switch Lite Manette sans Fil pour...'
 sku: 'B07Z6CNGF1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

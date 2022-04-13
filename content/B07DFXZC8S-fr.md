@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFXZC8S-fr Puma Active Leggings Pantalon de Sport Femme Black XL'
 sku: 'B07DFXZC8S-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

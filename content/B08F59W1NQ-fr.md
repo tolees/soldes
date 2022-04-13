@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F59W1NQ-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio sans Fil...'
 sku: 'B08F59W1NQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SY9CWC-fr Timberland Gateway Pier Casual Chaussures Oxford Homme...'
 sku: 'B078SY9CWC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MF3V88L-fr Hoover HF18MB Aspirateur balai sans fil multifonction...'
 sku: 'B07MF3V88L-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBWB4SZ-fr Rafraîchisseur d air compact avec télécommande et écran...'
 sku: 'B07PBWB4SZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

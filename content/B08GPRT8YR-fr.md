@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPRT8YR-fr QSSTECH Écouteurs Intra-Auriculaires avec Microphone...'
 sku: 'B08GPRT8YR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

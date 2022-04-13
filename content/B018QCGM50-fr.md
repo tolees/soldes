@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018QCGM50-fr Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune -...'
 sku: 'B018QCGM50-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 27.74 EUR
 currency: EUR
 price: 27.74

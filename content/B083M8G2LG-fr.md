@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083M8G2LG-fr Ecouteur Bluetooth Ecouteurs sans Fil IP8 Etanche 3500mAh...'
 sku: 'B083M8G2LG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

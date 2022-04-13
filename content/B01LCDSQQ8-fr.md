@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCDSQQ8-fr Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg'
 sku: 'B01LCDSQQ8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 2.44 EUR
 currency: EUR
 price: 2.44

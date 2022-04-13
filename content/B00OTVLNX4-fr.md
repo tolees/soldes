@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OTVLNX4-fr Beurer UB 68 XXL Chauffe-lit Surmatelas Chauffant pour 2...'
 sku: 'B00OTVLNX4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

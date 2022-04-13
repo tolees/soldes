@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6T8VX1-fr Siméo PLC410 Plancha électrique'
 sku: 'B07J6T8VX1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7L15PG-fr Dreamon Coffrets de Bijoux et Cosmétiques pour Enfants...'
 sku: 'B07P7L15PG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

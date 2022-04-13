@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKZYHP3-fr find. Fur Lined Hiker Chaussures de Randonnée Basses...'
 sku: 'B07FKZYHP3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 37.92 EUR
 currency: EUR
 price: 37.92

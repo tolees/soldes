@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLKBBXM-fr RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie]...'
 sku: 'B08BLKBBXM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

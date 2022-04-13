@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSISQR6-fr Tots by Smart Rike 240–108 Parure de lit classic rose de...'
 sku: 'B01BSISQR6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

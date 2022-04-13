@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à...'
 sku: 'B0746P6FQC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 149.93 EUR
 currency: EUR
 price: 149.93

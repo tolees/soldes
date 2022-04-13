@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LNL7KG-fr Sine Mora EX'
 sku: 'B071LNL7KG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

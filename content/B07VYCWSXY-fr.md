@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYCWSXY-fr AUBADE Haut de Maillot de Bain Triangle avec Coques...'
 sku: 'B07VYCWSXY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

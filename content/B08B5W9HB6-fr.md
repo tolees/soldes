@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5W9HB6-fr ORICO Boîtier Disque Dur 2.5 Adaptateur de Lecteur Externe...'
 sku: 'B08B5W9HB6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NA9J2FK-fr Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre...'
 sku: 'B01NA9J2FK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

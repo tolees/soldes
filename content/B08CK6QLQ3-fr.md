@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
 sku: 'B08CK6QLQ3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

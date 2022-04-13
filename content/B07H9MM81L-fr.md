@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9MM81L-fr Projecteur multimédia LCD 1080p Full HD Nebula Prizm by...'
 sku: 'B07H9MM81L-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

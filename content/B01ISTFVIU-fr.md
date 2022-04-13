@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ISTFVIU-fr Bosch MUZ9VL1 Accessoire optimum robot culinaire'
 sku: 'B01ISTFVIU-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

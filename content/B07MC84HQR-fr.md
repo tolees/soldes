@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC84HQR-fr Liu Jo Shoes Asia 06 Sneaker Sneakers Basses Femme Blanc...'
 sku: 'B07MC84HQR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 86.19 EUR
 currency: EUR
 price: 86.19

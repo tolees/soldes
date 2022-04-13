@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
 sku: 'B07RS84LHJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XP8FMM2-fr Keten Tournevis triwing pour Nintendo Kit Professionnel...'
 sku: 'B06XP8FMM2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

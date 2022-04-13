@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPDS3KC-fr R Roncato Flight Set Da 3 Trolley Mallette Ordinateur à...'
 sku: 'B07SPDS3KC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 193.64 EUR
 currency: EUR
 price: 193.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles Jouets...'
 sku: 'B085RDYFPH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

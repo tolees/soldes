@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8ZNHNX-fr Replay Anbass Jean Slim Bleu Super Light Blue 11 W30/L34...'
 sku: 'B07L8ZNHNX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

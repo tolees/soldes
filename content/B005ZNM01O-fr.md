@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005ZNM01O-fr Queen-Days of Our Lives [Blu-Ray]'
 sku: 'B005ZNM01O-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

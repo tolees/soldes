@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDJZ1Y5-fr Christian Lacroix Femme Analogique Quartz Montre avec...'
 sku: 'B07FDJZ1Y5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 60.74 EUR
 currency: EUR
 price: 60.74

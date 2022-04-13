@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6GMCGR-fr Inspire for homes Déshumidificateur & Purificateur d air 2...'
 sku: 'B07Q6GMCGR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 81.03 EUR
 currency: EUR
 price: 81.03

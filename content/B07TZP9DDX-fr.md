@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZP9DDX-fr Disney Enfants Coco Sac à Dos'
 sku: 'B07TZP9DDX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJWXJ6H-fr El Naturalista N5353 Vaquetilla Aqua Sandales Bride...'
 sku: 'B07KJWXJ6H-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

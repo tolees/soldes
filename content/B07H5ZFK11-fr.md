@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5ZFK11-fr Maison Lejaby Sin Soutien-Gorge à Armature Noir Noir 04...'
 sku: 'B07H5ZFK11-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

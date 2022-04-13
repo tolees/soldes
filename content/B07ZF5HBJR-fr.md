@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF5HBJR-fr Aribest Lot de 2 Films de Protection en Verre trempé pour...'
 sku: 'B07ZF5HBJR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

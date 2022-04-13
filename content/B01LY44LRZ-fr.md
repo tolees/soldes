@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY44LRZ-fr Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222'
 sku: 'B01LY44LRZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

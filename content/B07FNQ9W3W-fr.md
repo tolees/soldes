@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNQ9W3W-fr Seafolly Water Garden Twist Halter Singlet Haut De Maillot...'
 sku: 'B07FNQ9W3W-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 82.67 EUR
 currency: EUR
 price: 82.67

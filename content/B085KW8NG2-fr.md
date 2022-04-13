@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KW8NG2-fr TOPERSUN Distributeur Savon Mousse Automatique...'
 sku: 'B085KW8NG2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

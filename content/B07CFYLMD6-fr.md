@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFYLMD6-fr Maison Lejaby Mandala Cerclé Soutien-Gorge à Armature Rose...'
 sku: 'B07CFYLMD6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

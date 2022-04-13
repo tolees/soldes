@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P8BLYP-fr MICHELIN 008317 Easy Grip Evolution Chaîne à Neige...'
 sku: 'B074P8BLYP-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

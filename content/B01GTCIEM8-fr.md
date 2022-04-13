@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTCIEM8-fr Montre CHRONOWATCH Automatique - Affichage Bracelet Métal...'
 sku: 'B01GTCIEM8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 162.0 EUR
 currency: EUR
 price: 162.0

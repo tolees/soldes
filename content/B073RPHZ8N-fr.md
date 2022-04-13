@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPHZ8N-fr Columbia Drainmaker IV Chaussures de Randonnée Basses...'
 sku: 'B073RPHZ8N-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 48.38 EUR
 currency: EUR
 price: 48.38

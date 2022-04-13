@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDNXG54-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CDNXG54-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

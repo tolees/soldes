@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AZHELKM-fr New Balance 500 Core Baskets Homme Bleu Navy/Grey Navy 43 EU'
 sku: 'B01AZHELKM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.36 EUR
 currency: EUR
 price: 45.36

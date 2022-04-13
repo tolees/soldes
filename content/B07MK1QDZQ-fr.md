@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QDZQ-fr Napapijri BAUNT FZ Maillot de survêtement Bleu Marine 176...'
 sku: 'B07MK1QDZQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 62.54 EUR
 currency: EUR
 price: 62.54

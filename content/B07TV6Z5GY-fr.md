@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV6Z5GY-fr Levi s 510 Skinny Fit Jeans Noce Cool 1051 34W / 30L Homme'
 sku: 'B07TV6Z5GY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

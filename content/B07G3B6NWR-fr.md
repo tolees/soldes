@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3B6NWR-fr Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris'
 sku: 'B07G3B6NWR-fr'
-tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Informatique','samsung', ]
+tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Informatique','fr','samsung', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Emplacement S PEN
-- Fonction stand 2 positions
 - Protection des angles renforcée
+- Fonction stand 2 positions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

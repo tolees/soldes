@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ8X5DQ-fr FM London Fitted Boxer Shorty Multicolore Classic Mix 10...'
 sku: 'B07TJ8X5DQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

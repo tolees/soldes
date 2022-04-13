@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSD5MT8-fr Rockport Style Purpose 3 Plain Toe Derbys Homme Marron...'
 sku: 'B07FSD5MT8-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 70.03 EUR
 currency: EUR
 price: 70.03

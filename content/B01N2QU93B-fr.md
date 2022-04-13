@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2QU93B-fr Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7...'
 sku: 'B01N2QU93B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 148.9 EUR
 currency: EUR
 price: 148.9

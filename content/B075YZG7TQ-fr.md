@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YZG7TQ-fr Trangoworld Bomio IP Chaussures de Randonnée Basses Mixte...'
 sku: 'B075YZG7TQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 62.15 EUR
 currency: EUR
 price: 62.15

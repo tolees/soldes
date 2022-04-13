@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQPX24-fr Pepe Jeans London Slate Pro Boot Baskets Hautes Homme Dark...'
 sku: 'B07MZQPX24-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.83 EUR
 currency: EUR
 price: 69.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M08BFBH-fr LUCIEN ROCHAT Horloge R0473604002'
 sku: 'B01M08BFBH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 271.2 EUR
 currency: EUR
 price: 271.2

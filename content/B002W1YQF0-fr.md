@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002W1YQF0-fr La Crosse Technology WS9611 Station Météo Mister Météo -...'
 sku: 'B002W1YQF0-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 37.85 EUR
 currency: EUR
 price: 37.85

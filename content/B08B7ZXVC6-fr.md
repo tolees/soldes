@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B7ZXVC6-fr Clips de Câble en Silicone Adhésif Gestion de câbles...'
 sku: 'B08B7ZXVC6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

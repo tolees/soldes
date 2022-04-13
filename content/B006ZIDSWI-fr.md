@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZIDSWI-fr sloggi Basic+ Midi 3P Culotte Femme Blanc Taille 46 Lot de 3'
 sku: 'B006ZIDSWI-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

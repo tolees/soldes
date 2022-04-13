@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N43MYZZ-fr Tommy Hilfiger Tommy Hooded Bomber Blouson Bleu Navy...'
 sku: 'B07N43MYZZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 136.29 EUR
 currency: EUR
 price: 136.29

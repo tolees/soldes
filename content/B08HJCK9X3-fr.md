@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJCK9X3-fr Montre Connectée Femmes Homme Bracelet Connecté...'
 sku: 'B08HJCK9X3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

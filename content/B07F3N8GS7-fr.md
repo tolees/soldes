@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3N8GS7-fr HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe...'
 sku: 'B07F3N8GS7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

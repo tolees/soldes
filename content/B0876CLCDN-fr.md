@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876CLCDN-fr Wëasy Mannequin Automatique Magic Pressing Séchage et...'
 sku: 'B0876CLCDN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

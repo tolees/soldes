@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTVWRS-fr G-Star Rovic Zip 3D Straight Tapered Pantalon Beige Dune...'
 sku: 'B01BGTVWRS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

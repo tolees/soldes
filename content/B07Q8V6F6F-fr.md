@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8V6F6F-fr Dockers by Gerli 43lu001 Bottes Rangers Homme Noir Schwarz...'
 sku: 'B07Q8V6F6F-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

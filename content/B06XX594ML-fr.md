@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX594ML-fr New Balance WL574 Baskets Femme Bleu Navy 40 EU'
 sku: 'B06XX594ML-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

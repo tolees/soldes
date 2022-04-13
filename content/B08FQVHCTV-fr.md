@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQVHCTV-fr / Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-...'
 sku: 'B08FQVHCTV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

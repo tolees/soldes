@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTTHRR7-fr Baby on board 103210 018 Sac à Langer Week End Team Smoke...'
 sku: 'B07CTTHRR7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

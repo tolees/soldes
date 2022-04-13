@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMJZSPQ-fr Chie Mihara Edit Sandales Bride Cheville Femmes Or Dias...'
 sku: 'B07YMJZSPQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 120.7 EUR
 currency: EUR
 price: 120.7

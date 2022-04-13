@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GQBMMZ-fr LEGO DUPLO - Les animaux de la ferme - 10870 - Jeu de...'
 sku: 'B075GQBMMZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWXVMB3-fr AUBADE Haut de maillot push-up coque Attache au cou DIVINE...'
 sku: 'B07JWXVMB3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

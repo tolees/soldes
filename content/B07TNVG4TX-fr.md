@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVG4TX-fr VTech - Kidicom Advance noir - le portable sécurisé et...'
 sku: 'B07TNVG4TX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019WCXL1Q-fr Pampers Premium Protection Taille 4 168 Couches 9kg-14kg'
 sku: 'B019WCXL1Q-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 61.24 EUR
 currency: EUR
 price: 61.24

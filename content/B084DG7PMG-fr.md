@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DG7PMG-fr Jumanji : Next Level'
 sku: 'B084DG7PMG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

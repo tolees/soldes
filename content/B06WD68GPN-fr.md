@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD68GPN-fr Marvel Legends - Edition Collector Avengers - Marteau...'
 sku: 'B06WD68GPN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

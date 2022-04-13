@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DK81WC2-fr Disque Dur Externe 2to USB3.0 pour PC Mac Ordinateur de...'
 sku: 'B08DK81WC2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

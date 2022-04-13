@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5PZT43-fr Chartres Basket Métropole Chartres Métropole Basket Short...'
 sku: 'B07J5PZT43-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

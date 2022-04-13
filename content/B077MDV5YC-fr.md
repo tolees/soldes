@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MDV5YC-fr Puma Smash Wns V2 L Baskets Basses Femme Noir Puma Black-...'
 sku: 'B077MDV5YC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBGRKYB-fr Crocs Crocband Flip Tongs Mixte Adulte Bleu Bright...'
 sku: 'B07KBGRKYB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

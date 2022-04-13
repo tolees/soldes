@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2ZHTQZ-fr Chemise Femme Manche Longue Basic Casual - éLéGant Bureau...'
 sku: 'B07L2ZHTQZ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

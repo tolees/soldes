@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN9TP7J-fr Tommy Hilfiger Watch 1782143'
 sku: 'B07YN9TP7J-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

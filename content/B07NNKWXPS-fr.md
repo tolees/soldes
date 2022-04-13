@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNKWXPS-fr O bag Borsa Completa Glam 54 Sac à bandoulière Femme Noir...'
 sku: 'B07NNKWXPS-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

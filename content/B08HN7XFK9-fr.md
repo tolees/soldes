@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HN7XFK9-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch Film...'
 sku: 'B08HN7XFK9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

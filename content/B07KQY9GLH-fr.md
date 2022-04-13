@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQY9GLH-fr RenFox Flambé brûleur de Cuisine brûleur à gaz Butane...'
 sku: 'B07KQY9GLH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

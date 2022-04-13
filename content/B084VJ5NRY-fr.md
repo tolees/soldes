@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VJ5NRY-fr Enceinte Bluetooth Portable 20W Haut-Parleur Bluetooth...'
 sku: 'B084VJ5NRY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

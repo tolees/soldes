@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSPWN2W-fr TOMALL 4 pcs unique tête Tire Valve Stem Core Remover...'
 sku: 'B07CSPWN2W-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

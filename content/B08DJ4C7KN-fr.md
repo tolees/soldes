@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4C7KN-fr Disque Dur Externe 1to USB3.0 pour PC Mac MacBook Xbox One...'
 sku: 'B08DJ4C7KN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

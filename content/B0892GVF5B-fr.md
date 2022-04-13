@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892GVF5B-fr Zamkol Enceinte Bluetooth Protable 30 W Enceinte sans Fil...'
 sku: 'B0892GVF5B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

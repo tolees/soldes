@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3C3HZV-fr Catapult PLAYR Smart Football Tracker - Veste GPS et...'
 sku: 'B07F3C3HZV-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

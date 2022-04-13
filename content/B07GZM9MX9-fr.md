@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZM9MX9-fr GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en...'
 sku: 'B07GZM9MX9-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

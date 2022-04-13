@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00307PJFQ-fr Diaper Champ Poubelle a couche - Large - capacite +/- 75...'
 sku: 'B00307PJFQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 90.28 EUR
 currency: EUR
 price: 90.28

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2JQV5K-fr DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de...'
 sku: 'B07V2JQV5K-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1J5CN3-fr Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M...'
 sku: 'B07W1J5CN3-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

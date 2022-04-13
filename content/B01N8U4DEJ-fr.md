@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8U4DEJ-fr Duronic VC8 /BK- Aspirateur Balai et à Main sans Sac...'
 sku: 'B01N8U4DEJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

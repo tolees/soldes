@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00942HVIE-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
 sku: 'B00942HVIE-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

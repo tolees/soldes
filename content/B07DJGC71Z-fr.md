@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJGC71Z-fr Fujifilm 70100138933 Pack Découverte Instax Mini 9 avec...'
 sku: 'B07DJGC71Z-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

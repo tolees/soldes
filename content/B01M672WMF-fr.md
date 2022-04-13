@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M672WMF-fr Jouets Ecoiffier – 2644 - Pack Drive 100 % Chef –...'
 sku: 'B01M672WMF-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

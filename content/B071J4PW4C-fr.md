@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J4PW4C-fr NEWYES NYWT850 Tablette d Ecriture LCD 8.5 Pouces de...'
 sku: 'B071J4PW4C-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

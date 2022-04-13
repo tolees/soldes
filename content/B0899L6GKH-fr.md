@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899L6GKH-fr 2 X 1200mAh Batteries pour Manette Xbox One / S / X /...'
 sku: 'B0899L6GKH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

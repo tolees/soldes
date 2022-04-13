@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3C7MKT-fr Under Armour Scrimmage 2.0 Sac à Dos Mixte Rouge Taille...'
 sku: 'B07J3C7MKT-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

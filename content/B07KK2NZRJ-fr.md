@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK2NZRJ-fr Columbia Peakfreak Venture S II Mid WP Chaussures...'
 sku: 'B07KK2NZRJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 106.41 EUR
 currency: EUR
 price: 106.41

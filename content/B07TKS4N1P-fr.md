@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKS4N1P-fr Clarks Kaylin Cara Escarpins Femme Gris Stone Stone 38 EU'
 sku: 'B07TKS4N1P-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

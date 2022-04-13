@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GOY1V0Y-fr Singleton of dufftown Réserve Collection Trinité avec...'
 sku: 'B00GOY1V0Y-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 45.92 EUR
 currency: EUR
 price: 45.92

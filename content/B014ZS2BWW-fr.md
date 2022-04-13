@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014ZS2BWW-fr Safavieh Tapis Shag Tufté à la main Fibre de Polyester...'
 sku: 'B014ZS2BWW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 102.88 EUR
 currency: EUR
 price: 102.88

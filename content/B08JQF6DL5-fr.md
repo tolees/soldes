@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JQF6DL5-fr eXtremeRate Kit de Coques avec Boutons Colorés pour...'
 sku: 'B08JQF6DL5-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1FB1JX-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
 sku: 'B01M1FB1JX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 79.42 EUR
 currency: EUR
 price: 79.42

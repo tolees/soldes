@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F9XB9C-fr Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 sku: 'B076F9XB9C-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869HC1KX-fr Manette sans Fil pour Nintendo Switch Manettes pour Switch...'
 sku: 'B0869HC1KX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMRN2FJ-fr Marmot Riverfront Parka Manteau isolé Veste d extérieur...'
 sku: 'B07VMRN2FJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 210.77 EUR
 currency: EUR
 price: 210.77

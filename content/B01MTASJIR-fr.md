@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTASJIR-fr Trilobite Jean de Moto'
 sku: 'B01MTASJIR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 90.63 EUR
 currency: EUR
 price: 90.63

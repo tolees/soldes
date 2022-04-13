@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088DB8FBC-fr EgoIggo Tapis de Yoga Mat en TPE Matériaux Tapis de Sport...'
 sku: 'B088DB8FBC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
 sku: 'B073S3SW9R-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

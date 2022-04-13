@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYHTCDJ-fr Tommy Hilfiger Gramercy Tapered Hw A Jean Droit Bleu Tana...'
 sku: 'B07JYHTCDJ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

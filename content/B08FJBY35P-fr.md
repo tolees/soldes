@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJBY35P-fr OUPOD Manette sans fil Bluetooth pour Nintendo Switch Pro...'
 sku: 'B08FJBY35P-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

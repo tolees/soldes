@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EOXK4A-fr Cat Footwear HAYCOX Baskets Homme Marron Bistro 0 44 EU'
 sku: 'B000EOXK4A-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 71.55 EUR
 currency: EUR
 price: 71.55

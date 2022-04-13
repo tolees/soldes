@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CWB4CLI-fr Vans Atwood Total Baskets Basses Homme Noir Canvas...'
 sku: 'B00CWB4CLI-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

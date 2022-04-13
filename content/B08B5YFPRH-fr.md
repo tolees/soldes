@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YFPRH-fr eXtremeRate D-Pad Boutons SR SL L R ZR ZL Trigger Touches...'
 sku: 'B08B5YFPRH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

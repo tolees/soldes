@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0887WZPWD-fr Teakpeak Maquette Architecture 1167pièces Fleur de...'
 sku: 'B0887WZPWD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

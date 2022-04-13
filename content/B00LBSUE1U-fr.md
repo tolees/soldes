@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBSUE1U-fr Rocksmith 2014 + Câble'
 sku: 'B00LBSUE1U-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

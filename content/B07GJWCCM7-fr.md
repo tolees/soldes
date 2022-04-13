@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique Balance...'
 sku: 'B07GJWCCM7-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

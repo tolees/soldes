@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3MBQY-fr Replay Anbass Jean Slim Beige Sand 10 W33/L34 Taille...'
 sku: 'B07KK3MBQY-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

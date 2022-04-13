@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZMTKY6-fr Masseur Personnel p-l-Ṻ-g ḁ-n-ḁ-le fémmḔ dḔbṺtànt ÇṌffrḔt...'
 sku: 'B089ZMTKY6-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKG5M4S-fr RenFox Chalumeau de Cuisine Torche de Cuisine Butane...'
 sku: 'B07SKG5M4S-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

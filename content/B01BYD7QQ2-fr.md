@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYD7QQ2-fr Oral-B Genius Brosse À Dents Électrique Par Braun'
 sku: 'B01BYD7QQ2-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 145.3 EUR
 currency: EUR
 price: 145.3

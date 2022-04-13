@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTH9WQ4-fr SGILE RC Voiture Télécommandée - 4WD Stunt Car avec...'
 sku: 'B08BTH9WQ4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

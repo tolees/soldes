@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M98TLCK-fr Blink XT2 | Caméra de sécurité connectée...'
 sku: 'B07M98TLCK-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

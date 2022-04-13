@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DYRSYIG-fr Helly Hansen 76493 369-C44 Bridgewater Pantalon de pirate...'
 sku: 'B00DYRSYIG-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

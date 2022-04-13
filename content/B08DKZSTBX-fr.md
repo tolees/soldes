@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKZSTBX-fr Montre Connectée Fitness Tracker étanche IP68 avec...'
 sku: 'B08DKZSTBX-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

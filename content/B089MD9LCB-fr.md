@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089MD9LCB-fr Meller - Bio Banna Minor Olive - Lunettes de Soleil pour...'
 sku: 'B089MD9LCB-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

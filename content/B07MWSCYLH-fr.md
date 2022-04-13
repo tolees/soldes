@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWSCYLH-fr Buyger 35 pièces Déguisement de Docteur Jouet Costume...'
 sku: 'B07MWSCYLH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

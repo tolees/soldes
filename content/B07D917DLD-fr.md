@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D917DLD-fr Curvy Kate Sheer Class Maillot Une Pièce Noir Black Black...'
 sku: 'B07D917DLD-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.74 EUR
 currency: EUR
 price: 59.74

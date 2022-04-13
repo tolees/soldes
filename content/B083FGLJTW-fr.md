@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FGLJTW-fr Lacoste BH1966 Veste Noir 50 Homme'
 sku: 'B083FGLJTW-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 230.98 EUR
 currency: EUR
 price: 230.98

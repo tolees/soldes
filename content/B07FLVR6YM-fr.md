@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLVR6YM-fr RoWrite Royole Smart Digital Véritable Papier Notepad...'
 sku: 'B07FLVR6YM-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

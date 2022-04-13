@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XPR6MC-fr VOYOR Appareil de Massage Anti Cellulite Electrique...'
 sku: 'B073XPR6MC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

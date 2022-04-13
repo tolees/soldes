@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756RRT7J-fr KKmoon Oscilloscope de Signal 2CH Oscilloscope de Stockage...'
 sku: 'B0756RRT7J-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

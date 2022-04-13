@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNPG8K1-fr No Tourists'
 sku: 'B07FNPG8K1-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

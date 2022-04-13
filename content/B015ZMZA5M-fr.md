@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZMZA5M-fr SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de...'
 sku: 'B015ZMZA5M-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

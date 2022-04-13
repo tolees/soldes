@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB1WM2V-fr find. Suede Kitten Heel Escarpins Rouge Red 40 EU'
 sku: 'B07JB1WM2V-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

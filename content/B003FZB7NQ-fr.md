@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003FZB7NQ-fr Lexibook D800FR Dictionnaire électronique Larousse'
 sku: 'B003FZB7NQ-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7JRM6R-fr havit Clavier Gaming et Souris Filaire avec LED lumière 4...'
 sku: 'B07B7JRM6R-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

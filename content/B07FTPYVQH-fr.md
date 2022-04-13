@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTPYVQH-fr TBS GALAIS Mokassins Hommes Gris Ebene E8015 43 EU'
 sku: 'B07FTPYVQH-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

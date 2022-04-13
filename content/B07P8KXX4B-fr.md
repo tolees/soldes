@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8KXX4B-fr Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à...'
 sku: 'B07P8KXX4B-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

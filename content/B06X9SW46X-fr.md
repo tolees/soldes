@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SW46X-fr Sylvanian Families - 5257 - Les amies ballerines'
 sku: 'B06X9SW46X-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

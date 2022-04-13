@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ2P7T-fr Geox U Nebula 4 X 4 B ABX A Bottes Chukka Homme Marron...'
 sku: 'B07LFZ2P7T-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

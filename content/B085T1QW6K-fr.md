@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T1QW6K-fr QITAYO Verre Trempé pour Xiaomi Mi 10 / Xiaomi Mi 10 Pro...'
 sku: 'B085T1QW6K-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

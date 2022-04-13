@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WYD99J-fr HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de...'
 sku: 'B083WYD99J-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

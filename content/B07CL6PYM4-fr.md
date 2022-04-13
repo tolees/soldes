@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL6PYM4-fr Only NOS Onlroyal Reg SK DNM Jeans Bj312 Noos Dark Grey...'
 sku: 'B07CL6PYM4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

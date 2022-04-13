@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082M7PXT4-fr Victure Babyphone Video Camera 2.4" LCD Couleur Video Bebe...'
 sku: 'B082M7PXT4-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

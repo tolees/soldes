@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZRWNRC-fr Lunii Fabrique à Histoires'
 sku: 'B01LZRWNRC-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

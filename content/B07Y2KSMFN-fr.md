@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2KSMFN-fr Nero Platinum Unlimited'
 sku: 'B07Y2KSMFN-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

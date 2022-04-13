@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ8SG25-fr Under Armour UA Qualifier Storm Packable Jacket Veste...'
 sku: 'B07CZ8SG25-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

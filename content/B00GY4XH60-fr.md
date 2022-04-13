@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GY4XH60-fr PKparis K 1 Clé USB 3.0 64 Go Blanc'
 sku: 'B00GY4XH60-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

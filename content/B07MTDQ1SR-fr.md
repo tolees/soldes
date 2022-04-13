@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTDQ1SR-fr Zamkol Enceinte Bluetooth Portable Waterproof Haut-Parleur...'
 sku: 'B07MTDQ1SR-fr'
-tags: [  ]
+tags: [ 'fr', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
