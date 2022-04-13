@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ces baskets compensées disposent d’un design classique et d’une semelle large offrant un style caractéristique convenant aux looks rétro comme contemporains
 - Semelle extérieure en caoutchouc injecté
 - Dessus en toile
+- Ces baskets compensées disposent d’un design classique et d’une semelle large offrant un style caractéristique convenant aux looks rétro comme contemporains
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

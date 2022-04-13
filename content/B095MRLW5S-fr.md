@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col légèrement relevable avec bouton, boutons-pression à larrière au niveau de lourlet, coupe droite
 - Veste pour homme avec détails classiques de motard en simili cuir 3 poches zippées sur le devant
+- Col légèrement relevable avec bouton, boutons-pression à larrière au niveau de lourlet, coupe droite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

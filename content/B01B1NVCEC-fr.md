@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie électrique OneBlade unique: efficacité sans irritation ni coupure
 - 4 sabots barbe : 1, 2, 3 & 5 mm
+- 60 mn dautonomie pour 4h de charge
+- Technologie électrique OneBlade unique: efficacité sans irritation ni coupure
 - OneBlade pour tailler, définir les contours et raser votre barbe, même longue
 - A utiliser avec ou sans sabot, à sec ou avec de la mousse
-- 60 mn dautonomie pour 4h de charge
 
 [🛒 Achète-le!!]({{< param buyurl >}})

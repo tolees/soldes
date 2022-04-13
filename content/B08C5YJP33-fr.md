@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle grâce à la technologie Quattro Force
+- UN SAVOIR-FAIRE TOUJOURS FRANÇAIS : fabriqué en France
 - UNE MACHINE TOUJOURS FACILE A UTILISER : écran couleur tactile slider 3,5" et voyants lumineux intuitifs, 8 favoris enregistrables
 - UNE MACHINE TOUJOURS PROPRE : grâce au système automatique de nettoyage, au bac à marc de café accessible à lavant, au bac récolte-goutte anti-débordement
 - Réparabilité 15 ans, Garantie 2 ans
-- UN SAVOIR-FAIRE TOUJOURS FRANÇAIS : fabriqué en France
-- Capacité du récipient de café grains: 250 g
 - UNE MACHINE TOUJOURS PRETE : 11 boissons préenregistrées (Espresso, cappuccino, latte, thé...) et système de lait intégré avec fonction One Touch Cappuccino pour des boissons lactées onctueuses
+- UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle grâce à la technologie Quattro Force
 - UNE MACHINE TOUJOURS ADAPTÉE : personnalisation de la boisson en changeant la taille de la tasse à chaque café, contrôle du broyage et de la température, 2 tasses en simultané possibles
+- Capacité du récipient de café grains: 250 g
 
 [🛒 Achète-le!!]({{< param buyurl >}})

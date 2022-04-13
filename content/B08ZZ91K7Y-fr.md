@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un bac à sable médiéval: jouez à votre rythme. Effectuez des quêtes et amusez-vous à semer la zizanie partout où vous allez !
-- Grand theft horse: semez la pagaille dans un univers médiéval inspiré des premiers gta. Battez-vous à coups dépée, de lance, de bouse... Tout ce qui vous tombera sous la main !
+- Faites-les tourner en bourrique: lancez des vaches avec des catapultes, traînez vos voisins dans la boue, faites sauter des saintes grenades ou faites des dessins dans les champs avec une charrue
 - Effectuez des quêtes de folie, tuez des héros, volez des chevaux, affrontez des gardes, dépouillez des paysans et devenez un vrai truand dans ce jeu en monde ouvert bourré de références
 - Décrochez la couronne: en tant que pauvre paysan, vous devrez faire preuve de créativité pour remporter le grand tournoi, alliances incongrues, coups fourrés et autres joyeusetés
-- Faites-les tourner en bourrique: lancez des vaches avec des catapultes, traînez vos voisins dans la boue, faites sauter des saintes grenades ou faites des dessins dans les champs avec une charrue
+- Grand theft horse: semez la pagaille dans un univers médiéval inspiré des premiers gta. Battez-vous à coups dépée, de lance, de bouse... Tout ce qui vous tombera sous la main !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
