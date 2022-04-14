@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure : Synthétique
+- Foulée : Neutre
 - Hauteur de talons : 1 centimètres
+- Largeur de la chaussure : Moyen
+- Dessus : Synthétique
 - Type de talons : Plat
 - Type de surface : Sentier
-- Dessus : Synthétique
-- Foulée : Neutre
 - Matériau de semelle : Synthétique
-- Largeur de la chaussure : Moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
