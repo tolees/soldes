@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lapplication gratuite Steinel "Smart Remote" Est disponible dans Google Play et Apple App Store
-- Le détecteur de mouvement détecte chaque mouvement jusquà 5 m sous un angle de 160°, indépendamment de la température
 - Dautres points forts sont lallumage en douceur de la lumière, La fonction déclairage de base de 10 % et léclairage permanent de 4 heures
-- Le up-/Downlight avec des LED puissantes de 9,8 W, fournit une luminosité de 679 lm avec une température blanc chaud de 3000K
 - Léclairage extérieur LED dispose dun capteur HF totalement invisible et peut être commandé via Bluetooth et application
+- Le détecteur de mouvement détecte chaque mouvement jusquà 5 m sous un angle de 160°, indépendamment de la température
+- Le up-/Downlight avec des LED puissantes de 9,8 W, fournit une luminosité de 679 lm avec une température blanc chaud de 3000K
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
