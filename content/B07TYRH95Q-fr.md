@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Collectionnez-les tous!
-- Figurine POP! Vinyl
-- Produit sous licence officielle.
 - Doctor Who - Thirteenth Doctor
+- Figurine POP! Vinyl
+- Collectionnez-les tous!
+- Produit sous licence officielle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

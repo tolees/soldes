@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Issue de la gamme Ghostbusters, la figurine Winston Zeddemore rejoint la collection Funko 5 Star!
-- Fabriqué en Chine
 - Découvrez tous les autres produits Funko dédiés à lunivers Ghostbusters! Collectionnez-les tous!
+- Issue de la gamme Ghostbusters, la figurine Winston Zeddemore rejoint la collection Funko 5 Star!
 - Chaque personnage mesure environ 15 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
+- Fabriqué en Chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

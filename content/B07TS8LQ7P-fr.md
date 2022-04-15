@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko
-- Durable
 - 41231
+- Durable
 - Funko- Pop Rocks Duran-John Taylor Collectible Toy, 41231, Multicolour
+- Funko
 
 [🛒 Achète-le!!]({{< param buyurl >}})

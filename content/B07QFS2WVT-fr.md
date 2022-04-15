@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
+- Découvrez tous les autres produits Funko dédiés à lunivers NHL Collectionnez-les tous
 - Issue de la gamme NHL, la figurine Lightning - Nikita Kucherov   rejoint la collection Funko POP
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Découvrez tous les autres produits Funko dédiés à lunivers NHL Collectionnez-les tous
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

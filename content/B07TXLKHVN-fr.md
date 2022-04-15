@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La figure se 9cm et vient dans une zone daffichage de la fenêtre
+- Découvrez les autres chiffres Miami Vice de Funko recueillir tous
 - Funko- POP TV: Miami Vice S2 - Crockett Collectible Toy, 41051, Multicolour
 - Fabriqué en : Chine
-- Découvrez les autres chiffres Miami Vice de Funko recueillir tous
+- La figure se 9cm et vient dans une zone daffichage de la fenêtre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

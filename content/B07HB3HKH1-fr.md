@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vault Boy (Nerd Rage)
 - Jeux : Fallout S2
+- Vault Boy (Nerd Rage)
 - POP! Vinyle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

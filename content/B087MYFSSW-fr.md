@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme The Mandalorian, la figurine The Mythrol rejoint la collection Funko POP
 - Découvrez tous les autres produits Funko dédiés à lunivers Star Wars! Collectionnez-les tous!
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
-- Issue de la gamme The Mandalorian, la figurine The Mythrol rejoint la collection Funko POP
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

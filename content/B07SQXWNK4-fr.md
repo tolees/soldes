@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko Pop ! est le gagnant du prix du jouet de lannée 2018.
 - De Bogeyman, POP 1, comme un vinyle POP stylisé de Funko
-- La figurine mesure 9 cm et est livrée dans une vitrine.
 - Découvrez les autres figurines Bogeyman de Funko Collect them All
+- Funko Pop ! est le gagnant du prix du jouet de lannée 2018.
+- La figurine mesure 9 cm et est livrée dans une vitrine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

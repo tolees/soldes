@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers James Bond
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Issue de la gamme James Bond la figurine Safin rejoint la collection Funko POP
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

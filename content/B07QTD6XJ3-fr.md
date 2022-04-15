@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- D-0
+- Les Funko Pop! Sont le jeux de lannée 2018
 - Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
 - Disney Star Wars
-- Les Funko Pop! Sont le jeux de lannée 2018
-- D-0
 - Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 33 rejoint la collection Funko Pop!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

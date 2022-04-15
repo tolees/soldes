@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sombra
-- Games: overwatch
 - Figurines POP! vinyle
+- Games: overwatch
+- Sombra
 
 [🛒 Achète-le!!]({{< param buyurl >}})

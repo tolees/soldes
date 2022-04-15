@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age range description: Not appropriate for children under the age of 3
-- Dimensions de lemballage de larticle: 8.8 L x 16.2 H x 12.0 W (centimeters)
-- Couleur: Multicolour
 - - Figurine Speed Racer - Racer X Pop- Matière vinyl- Vendu sous window box- Taille 10cm
+- Age range description: Not appropriate for children under the age of 3
+- Couleur: Multicolour
+- Dimensions de lemballage de larticle: 8.8 L x 16.2 H x 12.0 W (centimeters)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

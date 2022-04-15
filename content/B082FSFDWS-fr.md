@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko conçoit et vend des objets de collection, des accessoires et des jouets uniques de la culture pop.
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers The Boys
 - Collectionnez-les tous
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers The Boys
 - Issue de la gamme The Boys, la figurine A-Train rejoint la collection Funko POP
+- Funko conçoit et vend des objets de collection, des accessoires et des jouets uniques de la culture pop.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

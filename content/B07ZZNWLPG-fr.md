@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Funko conçoit et vend des objets de collection, des accessoires et des jouets uniques de la culture pop.
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Run-DMC
 - Issue de la gamme Run-DMC, la figurine DMC rejoint la collection Funko POP
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Run-DMC
 - Collectionnez-les tous
 
 [🛒 Achète-le!!]({{< param buyurl >}})

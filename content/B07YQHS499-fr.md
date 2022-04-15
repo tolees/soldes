@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Issue de la gamme Monster Hunter, la figurine Lute w/Navirou rejoint la collection Funko POP!
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Monster Hunter! Collectionnez-les tous!
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
+- Issue de la gamme Monster Hunter, la figurine Lute w/Navirou rejoint la collection Funko POP!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

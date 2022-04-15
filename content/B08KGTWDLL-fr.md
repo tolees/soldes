@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko conçoit et vend des objets de collection, des accessoires et des jouets uniques de la culture pop.
 - Collectez les tous
 - POP Marvel: WandaVision – Monica Rambeau - POP Vinyle de luxe de Funko
+- Funko conçoit et vend des objets de collection, des accessoires et des jouets uniques de la culture pop.
 - La figurine mesure 15 cm et est livrée dans une boîte de vitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

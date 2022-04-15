@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 13 rejoint la collection Funko Pop!
-- Disney Star Wars
-- Les Funko Pop! Sont le jeux de lannée 2018
-- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
 - Poe Dameron
+- Disney Star Wars
+- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
+- Les Funko Pop! Sont le jeux de lannée 2018
+- Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 13 rejoint la collection Funko Pop!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

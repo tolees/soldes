@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La figurine mesure 9 cm et est livrée dans une boîte de présentation
-- Collectez les tous
-- POP! vinyle de Funko
 - Découvrez les autres figurines Funko dédiées à cette collection
+- La figurine mesure 9 cm et est livrée dans une boîte de présentation
+- POP! vinyle de Funko
 - Funko POP! est le jouet populaire de lannée 2018
+- Collectez les tous
 
 [🛒 Achète-le!!]({{< param buyurl >}})

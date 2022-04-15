@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La collection stylisée mesure 9,5 cm de haut
-- Liverpool Football Club – Virgil Van Dijk
 - Parfait pour tout fan de football
-- Ne convient pas aux enfants de moins de 3 ans.
+- La collection stylisée mesure 9,5 cm de haut
 - Collectionnez et affichez tous les ballons de football. Vinyles
+- Liverpool Football Club – Virgil Van Dijk
+- Ne convient pas aux enfants de moins de 3 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

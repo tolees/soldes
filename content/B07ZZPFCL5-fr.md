@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Issue de la gamme Soul, la figurine Joe
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Soul
 - 4 rejoint la collection Funko POP
 - Collectionnez-les tous
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Soul
+- Issue de la gamme Soul, la figurine Joe
 
 [🛒 Achète-le!!]({{< param buyurl >}})

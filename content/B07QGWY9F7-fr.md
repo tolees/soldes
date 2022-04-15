@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
-- Issue de la gamme Iggy Pop, la figurine Iggy rejoint la collection Funko POP
 - Découvrez tous les autres produits Funko dédiés à lunivers Iggy Pop Collectionnez-les tous
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme Iggy Pop, la figurine Iggy rejoint la collection Funko POP
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

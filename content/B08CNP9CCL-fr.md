@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
-- Issue de la gamme Marvel Luchadoresla figurine El Heroe Invicto
+- Découvrez tous les autres produits Funko dédiés à lunivers Marvel Luchadores Collectionnez-les tous
 - Issue de la gamme Marvel Luchadoresla figurine El Heroe Invicto rejoint la collection Funko POP! Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Marvel Luchadores Collectionnez-les tous!
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Découvrez tous les autres produits Funko dédiés à lunivers Marvel Luchadores Collectionnez-les tous
+- Issue de la gamme Marvel Luchadoresla figurine El Heroe Invicto
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

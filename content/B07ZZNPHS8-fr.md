@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Issue de la gamme Soul, la figurine 22
-- Collectionnez-les tous
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Soul
 - 1 rejoint la collection Funko POP
+- Issue de la gamme Soul, la figurine 22
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Soul
+- Collectionnez-les tous
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
