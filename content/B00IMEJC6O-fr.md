@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SmartStart : permet de lancer la préparation de la boisson en appuyant avec sa tasse sur le fond de la machine
+- Réservoir deau grande capacité : 0.8 l
 - Support de tasses amovible et ajustable en hauteur
 - Dimensions du produit seul : 251 mm x 167 mm x 305 mm
-- Réservoir deau grande capacité : 0.8 l
+- SmartStart : permet de lancer la préparation de la boisson en appuyant avec sa tasse sur le fond de la machine
 - Technologie T DISC unique et brevetée. Le système ajuste automatiquement le volume deau, la température, le temps de préparation et sarrête automatiquement lorsque la boisson est prête.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
