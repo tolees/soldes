@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour peintures murales à base d’eau et de solvants, peintures sur plafonds, bois et métal
 - Turbine X-Boost puissante pour une application rapide de la peinture
+- Pour peintures murales à base d’eau et de solvants, peintures sur plafonds, bois et métal
 - Buse brevetée I-Spray pour une pulvérisation extra-fine
 - Pour projets de petite à moyenne taille
 - Technologie de flexion, couverture unique
