@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour femme
 - Nike Winflo 8 de Wmns
+- Pour femme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
