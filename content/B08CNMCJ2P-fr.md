@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dual Connect
-- Pure Bass de JBL
-- Câble de recharge USB type C
 - écoute prolongée de jusqu’à 25 hrs
+- Pure Bass de JBL
+- Dual Connect
+- Câble de recharge USB type C
 - compatibles avec appareils Android et iOS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
