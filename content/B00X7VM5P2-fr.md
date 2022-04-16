@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 5 poches
 - Passants de ceinture
 - Pantalon enduit
-- 5 poches
 - Composition : 77 % viscose, 20 % nylon, 3 % élasthanne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
