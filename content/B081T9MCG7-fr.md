@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Figurines
-- plastique
 - Dimensions de lemballage : 4,902 L x 20,497 H x 18,110 W (centimètres)
+- plastique
 - Multicolore
+- Figurines
 
 [🛒 Achète-le!!]({{< param buyurl >}})
