@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LInvicta 8932 a un boîtier en acier inoxydable de 37 millimètres avec un cadran noir.
-- Résistance à leau de 20 bars
-- Modèle issu de la collection Invicta Pro Diver
-- LInvicta 8932 a un boîtier en acier inoxydable de 375 millimètres avec un cadran noir
 - Mouvement électronique à quartz précis
+- Modèle issu de la collection Invicta Pro Diver
+- Résistance à leau de 20 bars
 - 2 ans de garantie Invicta
+- LInvicta 8932 a un boîtier en acier inoxydable de 375 millimètres avec un cadran noir
+- LInvicta 8932 a un boîtier en acier inoxydable de 37 millimètres avec un cadran noir.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
