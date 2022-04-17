@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'BOSS Horloge 1513280'
-date: 2022-04-07 14:04:00
+date: 2022-04-17 13:04:02
 image: 'https://m.media-amazon.com/images/I/41oMIb9MgTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B013PIDH44-fr BOSS Horloge 1513280'
 sku: 'B013PIDH44-fr'
-tags: [ 'boss', ]
+tags: [ 'boss','🇫🇷', ]
 actualPrice: 174.9 EUR
 currency: EUR
 price: 174.9
@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du cadran : 42 millimètres
+- Montre, Boite de présentation, Coussin, Garantie
+- Type daffichage : Analogique
+- Montre, Boite de présentation, Coussin, Garantie
 - Montre pour Homme à mouvement Quartz - Bracelet en
 - Hugo Boss
-- Montre, Boite de présentation, Coussin, Garantie
-- Montre, Boite de présentation, Coussin, Garantie
 - Chronographe;;
-- Type daffichage : Analogique
+- Diamètre du cadran : 42 millimètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
