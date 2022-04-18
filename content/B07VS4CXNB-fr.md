@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Une combinaison noire intégrale imprimée avec couvre-bottes
 - Déguisement sous licence officielle Marvel
+- Taille M, 5 à 6 ans, pour les enfants mesurant entre 105 à 116 cm
 - Un masque 1/2 en PVC avec attaches velcro
 - Chaussures non incluses
-- Taille M, 5 à 6 ans, pour les enfants mesurant entre 105 à 116 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
