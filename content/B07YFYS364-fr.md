@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Machine à expresso en acier inoxydable conçu d’un design élégant et compact. Puissance maximale de 1350 W
 - Le système de chauffage rapide de Thermoblock et sa puissante pompe à pression de 20 bars permettent dobtenir la meilleure crème et le meilleur arôme dans chaque café.
 - Cuvette dégouttage amovible pour un nettoyage rapide. Système déconomie dénergie avec arrêt et stand-by automatiques. Indicateurs lumineux de chaque fonction
-- Émet de leau chaude pour les infusions. Double bras porte-filtre et deux filtres pour préparer le café automatiquement. Réservoir deau amovible dune capacité de 1,2 litres.
-- Machine à expresso en acier inoxydable conçu d’un design élégant et compact. Puissance maximale de 1350 W
 - Inclut un vaporisateur réglable avec protection pour texturiser le lait à vos goûts et réussir la meilleure mousse pour votre café.
+- Émet de leau chaude pour les infusions. Double bras porte-filtre et deux filtres pour préparer le café automatiquement. Réservoir deau amovible dune capacité de 1,2 litres.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

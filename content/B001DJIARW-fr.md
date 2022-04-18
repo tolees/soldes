@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériau : 65% polyamide, 35% polyester
 - Poids : 21,5 kg
-- Longueur : 72 cm
 - Hauteur du siège ajustable
+- Longueur : 72 cm
 - Dossier ajustable au poids de l´utilisateur grâce au mécanisme synchrone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
