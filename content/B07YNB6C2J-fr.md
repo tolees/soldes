@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du boîtier 35 mm
-- Cadran Sunray en bleu
-- Résistance à leau 3 ATM
-- Mouvement à 2 yeux
 - Bracelet milanais en acier inoxydable
+- Résistance à leau 3 ATM
+- Cadran Sunray en bleu
+- Diamètre du boîtier 35 mm
+- Mouvement à 2 yeux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
