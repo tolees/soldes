@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussures non incluses
+- Taille L, 7 à 8 ans, pour les enfants mesurant entre 117 à 128 cm
 - Une combinaison noire intégrale imprimée avec couvre-bottes
 - Déguisement sous licence officielle Marvel
-- Taille L, 7 à 8 ans, pour les enfants mesurant entre 117 à 128 cm
 - Un masque 1/2 en PVC avec attaches velcro
 
 [🛒 Achète-le!!]({{< param buyurl >}})
