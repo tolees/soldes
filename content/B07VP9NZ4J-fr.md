@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caméra VGA avec vision nocturne jusquà 2 mètres
-- Portée en champ libre: 200 mètres
 - Moniteur nomade de 4,3 pouces permettant de dialoguer avec les visiteurs et d’ouvrir une porte à distance
 - Enregistrez le passage de vos visiteurs avec la fonction photo/vidéo de la sonnette (carte mémoire non incluse)
+- Portée en champ libre: 200 mètres
+- Caméra VGA avec vision nocturne jusquà 2 mètres
 - Moniteur Intérieur et platine extérieure sans fil (batteries rechargeables)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
