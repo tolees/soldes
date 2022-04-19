@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit dorigine qualité premium
-- Vous bénéficiez dun contrôle réactif et fluide du pointeur, avec un suivi précis et une sélection de texte aisée, grâce au suivi optique haute définition (1 000 ppp).
-- Compatible avec les jeux PC, PS3 et PS4 tel que Drive Club, The Crew et Project Cars
 - Ecosystème pensé pour assurer la compatibilité avec tous les add-ons et boîtes de vitesses actuellement disponibles
+- Vous bénéficiez dun contrôle réactif et fluide du pointeur, avec un suivi précis et une sélection de texte aisée, grâce au suivi optique haute définition (1 000 ppp).
+- Produit dorigine qualité premium
+- Compatible avec les jeux PC, PS3 et PS4 tel que Drive Club, The Crew et Project Cars
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
