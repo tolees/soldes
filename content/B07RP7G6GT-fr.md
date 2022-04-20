@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspire et lave en 1 passage
-- Équipé dune caméra/microphone
-- Contrôle automatique du débit deau
-- Silencieux
 - Connecté via application
+- Contrôle automatique du débit deau
+- Aspire et lave en 1 passage
+- Silencieux
+- Équipé dune caméra/microphone
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

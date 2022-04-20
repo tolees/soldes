@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - REGLAGE AUTOMATIQUE OU MANUEL DU TAUX DHUMIDITE : avec son écran tactile, il affiche et permet le réglage du taux dhumidité souhaité en manuel (5 niveaux de débits vapeur) ou automatique (30 à 90% hygrométrie)
+- JUSQU’À 22H AUTONOMIE : avec sa capacité de 2,5 litres, lhumidificateur Hygro(+) possède jusquà 22h dautonomie (pour une pièce de 20m2) et intègre une fonction arrêt automatique (niveau deau insuffisant)
 - PRATIQUE : son écran tactile rétro éclairé, la sortie vapeur orientable à 360 degrés et la fonction arrêt automatique rendent cet humificateur dair simple dutilisation.
 - APAISANT : une veilleuse multicolore (7 couleurs) et un diffuseur dhuiles essentielles sont intégrés pour créer une ambiance apaisante dans la chambre de bébé. Vous choisissez une couleur ou vous enclenchez le mode arc-en-ciel pour faire défiler les 7 couleurs !
-- JUSQU’À 22H AUTONOMIE : avec sa capacité de 2,5 litres, lhumidificateur Hygro(+) possède jusquà 22h dautonomie (pour une pièce de 20m2) et intègre une fonction arrêt automatique (niveau deau insuffisant)
 - SILENCIEUX : avec sa technologie ultrasonique silencieuse (25dB) à vapeur froide, lHygro(+) humidifie et rafraichit lair en continu pour aider votre bébé à mieux respirer pendant son sommeil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
