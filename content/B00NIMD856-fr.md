@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans vernis, sans colorant
-- Etagère composée de 6 casiers de 36.2 x 36.2 x 33 cm
 - Pin massif certifié FSC
+- Etagère composée de 6 casiers de 36.2 x 36.2 x 33 cm
+- Sans vernis, sans colorant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
