@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 2
-- coton
-- Imprimé
 - T-shirt
+- Lot de 2
+- Imprimé
+- coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
