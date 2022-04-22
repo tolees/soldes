@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mécanisme de levier coulissant, pour une coupe efficace, 50 % de gains énergétiques
-- Ebrancheur démultiplié
-- Longueur: 800mm
 - Poignées en aluminium légères, solides et longues offrant une accessibilité accrue et facilitant les travaux de coupe en hauteur
+- Longueur: 800mm
+- Ebrancheur démultiplié
+- Mécanisme de levier coulissant, pour une coupe efficace, 50 % de gains énergétiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
