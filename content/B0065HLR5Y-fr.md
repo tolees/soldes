@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Steinel luminaire extérieur L 20 argent  applique à détecteur 180°  portée max. 10 m  résistant aux chocs  E27  60W max.'
-date: 2022-04-17 09:42:08
+date: 2022-04-22 05:07:21
 image: 'https://m.media-amazon.com/images/I/31QpagKMZYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La minuterie et la luminosité de déclenchement sont réglables avec les commandes rotatives facilement accessibles
-- Embellissez vos façades grace au design moderne et à léclairage homogène avec une lumière dambiance
-- Grace à lespace de raccordement clairement conçu le luminaire à détecteur L 20 est facilement raccordé
-- La douille E27 est compatible avec des ampoules incandescentes de 60 W max. aussi que des ampoules économiques ou des ampoules LED de 20 W max.
 - La lentille du détecteur est orientable à 90° à la verticale pour un ajustement précis de la portée
 - Le détecteur de mouvement et la cache sont fabriqués en polycarbonat résistant aux chocs (IP44 et IK07)
+- Embellissez vos façades grace au design moderne et à léclairage homogène avec une lumière dambiance
+- La minuterie et la luminosité de déclenchement sont réglables avec les commandes rotatives facilement accessibles
 - Le détecteur de mouvement a un angle de détection de 180° et une portée pouvant atteindre 10 m
+- Grace à lespace de raccordement clairement conçu le luminaire à détecteur L 20 est facilement raccordé
+- La douille E27 est compatible avec des ampoules incandescentes de 60 W max. aussi que des ampoules économiques ou des ampoules LED de 20 W max.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
