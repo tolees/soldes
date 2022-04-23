@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style classique / élégant
-- Analogique en cuir véritable pour homme
 - Cadran blanc et bracelet marron
-- Mouvement automatique
+- Style classique / élégant
 - Étanche
+- Analogique en cuir véritable pour homme
+- Mouvement automatique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

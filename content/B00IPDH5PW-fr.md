@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compresseur à pistons avec huile
-- Compresseur robuste et puissant pour applications industrielles simples
-- Pression de service réglable facilement grâce au détendeur avec manomètre
 - Manomètre additionnel pour afficher la pression de la cuve
+- Poignée de traction caoutchoutée pour une prise en main confortable
+- Compresseur à pistons avec huile
+- Pression de service réglable facilement grâce au détendeur avec manomètre
 - Protection contre la surcharge : protège le moteur contre la surchauffe
+- Cuve garantie 10 ans contre la rouille
 - Roues caoutchoutées stables pour une utilisation mobile
 - Pour courant alternatif monophasé
-- Cuve garantie 10 ans contre la rouille
 - Bon démarrage à froid grâce à linterrupteur manométrique avec vanne de décharge
-- Poignée de traction caoutchoutée pour une prise en main confortable
+- Compresseur robuste et puissant pour applications industrielles simples
 
 [🛒 Achète-le!!]({{< param buyurl >}})
