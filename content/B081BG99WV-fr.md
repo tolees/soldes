@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de surface : Sentier
-- Matériau de semelle : Synthétique
-- Largeur de la chaussure : Moyen
-- Foulée : Neutre
+- Hauteur de talons : 1 centimètres
 - Type de talons : Plat
 - Doublure : Synthétique
+- Matériau de semelle : Synthétique
+- Type de surface : Sentier
+- Foulée : Neutre
+- Largeur de la chaussure : Moyen
 - Dessus : Synthétique
-- Hauteur de talons : 1 centimètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
