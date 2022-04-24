@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Asics Gel-Quantum 180 5  Running Shoe Mens  Noir - Taille 8 1/2'
-date: 2022-04-17 21:03:58
+title: 'ASICS Homme Gel-quantum 180 5 Running Shoe  Noir  42 EU'
+date: 2022-04-24 16:31:09
 image: 'https://m.media-amazon.com/images/I/31ue8pFzh1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B081BG99WV-fr Asics Gel-Quantum 180 5 Running Shoe Mens Noir - Taille 8 1/2'
+slug: 'B081BG99WV-fr ASICS Homme Gel-quantum 180 5 Running Shoe Noir 42 EU'
 sku: 'B081BG99WV-fr'
 tags: [ 'Baskets et chaussures de sport homme','Boutiques','Chaussures','Chaussures de running homme','Chaussures de running sur route homme','Chaussures de sport homme','Chaussures et Sacs','Chaussures homme','Custom Stores','asics','🇫🇷', ]
-actualPrice: 70.47 EUR
+actualPrice: 70.34 EUR
 currency: EUR
-price: 70.47
+price: 70.34
 comparePrice: 140.0 EUR
-prodname: 'Asics Gel-Quantum 180 5  Running Shoe Mens  Noir - Taille 8 1/2'
+prodname: 'ASICS Homme Gel-quantum 180 5 Running Shoe  Noir  42 EU'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.fr/dp/B081BG99WV/?tag=tolees0d-21'
-descuento: '49.66'
-average: '70.415'
+descuento: '49.76'
+average: '70.39'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur de talons : 1 centimètres
+- Type de surface : Sentier
 - Matériau de semelle : Synthétique
 - Largeur de la chaussure : Moyen
-- Dessus : Synthétique
-- Type de talons : Plat
 - Foulée : Neutre
-- Type de surface : Sentier
+- Type de talons : Plat
 - Doublure : Synthétique
+- Dessus : Synthétique
+- Hauteur de talons : 1 centimètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
