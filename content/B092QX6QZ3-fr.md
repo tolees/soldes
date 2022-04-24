@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Subsonic - Harry Potter Siège Gamer Junior/Chaise de Bureau'
-date: 2022-04-13 17:53:45
+date: 2022-04-24 20:04:01
 image: 'https://m.media-amazon.com/images/I/41+VyOR5CsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accoudoirs rembourrés : Les accoudoirs en PU finition piano black sont rembourrés en mousse afin d’optimiser le confort pour le repos des bras. Idéal pour jouer pendant des heures.
 - Une assise ultra confortable et résistante : Sa mousse à haute densité, épaisse de 5 cms a été conçue pour supporter une assise prolongée et optimisée pour une longue durée de vie de la chaise.
 - Une structure robuste : Fabriqué en PU (léger et solide), le fauteuil gaming e-sport est prévu pour résister dans le temps, son mécanisme de réglage « Gas lift » est optimisé pour un usage quotidien.
 - Une finition de haute qualité : Son revêtement en polyuréthane est très facile à nettoyer, et orné de surpiqures et d’un logo entièrement brodé. Sous licence officielle Harry Potter.
 - Prévient contre les douleurs de dos : Son dossier ergonomique épouse parfaitement la forme du dos grâce à son renfort au niveau des lombaires et prémuni contre les douleurs et la fatigue du dos.
+- Accoudoirs rembourrés : Les accoudoirs en PU finition piano black sont rembourrés en mousse afin d’optimiser le confort pour le repos des bras. Idéal pour jouer pendant des heures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
