@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique : pied rabattable et plateau repliable
-- Matière du plateau: Plastique - Résine | Matière de la structure: Résine de synthèse
 - Facile dentretien
-- Grande stabilité du plateau. Pieds réglables pour une planéité parfaite
+- Matière du plateau: Plastique - Résine | Matière de la structure: Résine de synthèse
+- Pratique : pied rabattable et plateau repliable
 - Résistance au soleil et aux intempéries
+- Grande stabilité du plateau. Pieds réglables pour une planéité parfaite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
