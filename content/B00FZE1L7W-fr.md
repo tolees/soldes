@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Femme Analogique Quartz Montre avec Bracelet en Acier Inoxydable MK5865'
-date: 2022-04-20 19:28:25
+date: 2022-04-24 13:28:11
 image: 'https://m.media-amazon.com/images/I/41iYvKsCivL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.fr/dp/B00FZE1L7W/?tag=tolees0d-21'
 descuento: '69.18'
-average: '86.586'
+average: '86.5327272727273'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
