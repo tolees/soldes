@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yale YSEM/520/EG1 Coffre-Fort Haute Sécurité à Serrure Electronique 100 000 Combinaisons  Certifié SKG   A Poser et Sceller | Format 52 x 35 x 36 cm  49 8L   Anthracite'
-date: 2022-04-16 18:43:40
+date: 2022-04-24 11:51:32
 image: 'https://m.media-amazon.com/images/I/31NSJt9twCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Serrure électronique : ouverture du coffre par code PIN (100 000 combinaisons possibles)
-- Haute sécurité : coffre-fort en acier blindé avec plaques anti-perçages, porte découpée au laser et pênes anti-sciage de Ø22 mm
+- Haute résistance aux attaques à effet de levier : kit de fixation inclus pour montage au mur ou au sol
 - Ouverture de secours par clé et alimentation de secours par pile 9V
 - Verrouillage motorisé : ouverture automatique de la porte
-- Haute résistance aux attaques à effet de levier : kit de fixation inclus pour montage au mur ou au sol
-- Certifié Sold Secure Silver et SKG 2*: Protection maximale contre l’effraction
+- Serrure électronique : ouverture du coffre par code PIN (100 000 combinaisons possibles)
 - Intérieur du coffre : doublure textile, éclairage LED, étagère amovible et crochets pour optimiser le rangement et protéger le contenu
+- Certifié Sold Secure Silver et SKG 2*: Protection maximale contre l’effraction
+- Haute sécurité : coffre-fort en acier blindé avec plaques anti-perçages, porte découpée au laser et pênes anti-sciage de Ø22 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
