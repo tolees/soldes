@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type daffichage : Analogique
-- Fonction: Jour et date
 - Energie Solaire
-- Type de fermoir: Boucle déployante
+- Fonction: Jour et date
 - Diamètre du cadran : 37 millimètres
+- Type de fermoir: Boucle déployante
 - Montre pour Homme à mouvement Quartz - Bracelet en Acier inoxydable Argent
 - Etanchéité : Résiste à une pression maximale de 10 ATM
 
