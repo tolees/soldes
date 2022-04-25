@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 500 W
 - Débit vapeur jusquà 50 g/min
-- Quick Calc Release
 - Semelle SteamGlide Plus
 - Effet pressing jusquà 210 g
+- Quick Calc Release
+- 2 500 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
