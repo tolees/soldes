@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Azur Fer vapeur  débit de vapeur continu 50 g/min'
-date: 2022-04-21 11:40:53
+date: 2022-04-25 10:00:11
 image: 'https://m.media-amazon.com/images/I/41hBcvRMBHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle SteamGlide Plus
+- 2 500 W
 - Débit vapeur jusquà 50 g/min
 - Quick Calc Release
+- Semelle SteamGlide Plus
 - Effet pressing jusquà 210 g
-- 2 500 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
