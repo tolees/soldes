@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pompe centrifuge à un étage, à amorçage automatique, conçue pour être utilisée
-- Pour équiper un filtre de 500 mm diamètre
-- Comprend un préfiltre avec couvercle transparent pour retenir les grosses particules
 - Pour piscine jusquà 65 m3 de capacité
+- Pour équiper un filtre de 500 mm diamètre
+- Pompe centrifuge à un étage, à amorçage automatique, conçue pour être utilisée
 - Puissance de la pompe 0,75 CV, débit 9,5 m3 / h, volume maximal 65 m3
 - Avec un système de filtration de piscine avec une capacité de filtrage de 17 000 litres par heure à une puissance de 550 W
+- Comprend un préfiltre avec couvercle transparent pour retenir les grosses particules
 
 [🛒 Achète-le!!]({{< param buyurl >}})
