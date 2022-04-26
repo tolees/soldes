@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction arrêt automatique
-- Design compact
-- Porte-filtre amovible compatible lave vaisselle
-- Porte-filtre pivotant et amovible et dispositif anti-goutte
-- Couvercle de la verseuse avec fonction Easy Click
-- Réservoir d’eau transparent avec graduations
 - Facile à utiliser dune seule main
+- Porte-filtre amovible compatible lave vaisselle
+- Design compact
+- Fonction arrêt automatique
+- Couvercle de la verseuse avec fonction Easy Click
+- Porte-filtre pivotant et amovible et dispositif anti-goutte
+- Réservoir d’eau transparent avec graduations
 
 [🛒 Achète-le!!]({{< param buyurl >}})
