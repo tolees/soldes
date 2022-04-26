@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussant standard
-- Tige en mesh
 - Semelle extérieure en caoutchouc
+- Tige en mesh
 
 [🛒 Achète-le!!]({{< param buyurl >}})
