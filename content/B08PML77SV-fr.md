@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- détecteur de mouvement : lexposition aux uv-c peuvent être nocive pour les yeux et la peau, nous avons donc ajouté une protection supplémentaire grâce aux capteurs intégrés et aux minuteurs
-- efficace : les lampes uv-c philips peuvent efficacement inactiver les virus, les bactéries et les spores, en quelques minutes. toutes les bactéries et tous les virus testés à ce jour réagissent à la désinfection par uv-c.²
 - lexposition au rayonnement uv-c peut être nocive pour les humains et les animaux. veuillez suivre toutes les consignes de sécurité figurant dans le manuel du produit avant de lutiliser
 - produit est actuellement une exclusivité amazon
+- efficace : les lampes uv-c philips peuvent efficacement inactiver les virus, les bactéries et les spores, en quelques minutes. toutes les bactéries et tous les virus testés à ce jour réagissent à la désinfection par uv-c.²
+- détecteur de mouvement : lexposition aux uv-c peuvent être nocive pour les yeux et la peau, nous avons donc ajouté une protection supplémentaire grâce aux capteurs intégrés et aux minuteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

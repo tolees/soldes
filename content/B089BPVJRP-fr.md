@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dosage automatique de la boisson: Oui
-- CONNECTIVITE via Bluetooth et Wi-Fi pour une utilisation optimale
-- UN SEUL BOUTON pour réaliser un café quelle que soit la taille de capsule choisie
-- 1 machine, 5 TAILLES DE TASSES pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à Alto, en passant par le Mug
-- EJECTION AUTOMATIQUE des capsules
 - Mode autonomie d’énergie après 2 minutes d’inutilisation
-- Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
-- Réparabilité 15 ans, Garantie 2 ans
+- CONNECTIVITE via Bluetooth et Wi-Fi pour une utilisation optimale
 - CONCUE avec 54% de plastique recyclé
+- EJECTION AUTOMATIQUE des capsules
+- Réparabilité 15 ans, Garantie 2 ans
+- UN SEUL BOUTON pour réaliser un café quelle que soit la taille de capsule choisie
+- Dosage automatique de la boisson: Oui
+- Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
+- 1 machine, 5 TAILLES DE TASSES pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à Alto, en passant par le Mug
 
 [🛒 Achète-le!!]({{< param buyurl >}})
