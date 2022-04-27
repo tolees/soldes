@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Repose-paume detachable - design ergonomique confortable pour les longues sessions de jeu
-- Touches Membranical - point dactivation précis à mi-course
-- Macros à déclenchement rapide - touches macros discrètes pour éviter les activations accidentelles
 - Système anti-ghosting amélioré - vous assure que chaque frappe de touche est bien enregistrée
 - Système dexploitation: Windows 10, Windows 7, Windows 8
-- Éclairage RGB - éclairage multicolore configurable à zones multiples
-- Système déclairage AIMO - éclairage intelligent pour une harmonie parfaite entre appareils
-- ROCCAT Swarm - suite logicielle et drivers complète
 - Disposition précise des touches - Disposition précise des touches pour améliorer leur différenciation et leur résistance à la poussière
+- Repose-paume detachable - design ergonomique confortable pour les longues sessions de jeu
+- Macros à déclenchement rapide - touches macros discrètes pour éviter les activations accidentelles
+- Éclairage RGB - éclairage multicolore configurable à zones multiples
 - Molettes et boutons configurables - contrôle à la volée pour le multimédia, léclairage et plus
+- ROCCAT Swarm - suite logicielle et drivers complète
+- Touches Membranical - point dactivation précis à mi-course
+- Système déclairage AIMO - éclairage intelligent pour une harmonie parfaite entre appareils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
