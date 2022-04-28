@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Nespresso - Krups Inissia rouge  Machine à café Nespresso  Cafetière expresso à dosettes  Compacte Automatique  Pression 19 bars YY1531FD'
-date: 2022-04-23 16:48:29
+date: 2022-04-28 10:48:54
 image: 'https://m.media-amazon.com/images/I/41TPW1-mR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Krups Nespresso'
 buyurl: 'https://www.amazon.fr/dp/B00IRWKB70/?tag=tolees0d-21'
 descuento: '20.09'
-average: '72.2219999999999'
+average: '72.5876190476189'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
-- Réparabilité 15 ans, Garantie 2 ans
-- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
 - 19 BARS DE PRESSION : la garantie dun espresso de qualité professionnelle
-- Fréquence: 50/60 Hz
-- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
 - MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
+- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
+- Fréquence: 50/60 Hz
+- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
 - PRE-CHAUFFAGE RAPIDE : 25 secondes
+- Réparabilité 15 ans, Garantie 2 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
