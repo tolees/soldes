@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La Nintendo Switch (modèle OLED) possède des dimensions proches de celles de la Nintendo Switch
-- Elle dispose d’un écran OLED plus grand aux couleurs intenses et aux contrastes élevés
 - Elle dispose aussi d’un large support ajustable pour le jeu en mode sur table, d’une nouvelle station d’accueil.
+- Elle dispose d’un écran OLED plus grand aux couleurs intenses et aux contrastes élevés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

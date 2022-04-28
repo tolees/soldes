@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour tous les types de véhicules - quil sagisse de modèles existants ou de nouveaux projets de construction - lémetteur et le récepteur 2,4 GHz peuvent être utilisés pour contrôler et contrôler de manière fiable presque tous les types de véhicules.
-- Qualité dorigine Carson - En tant que spécialiste des véhicules télécommandés, Carson est la garantie dune qualité exceptionnelle, dune sécurité maximale des produits et bien sûr dun grand plaisir de conduire depuis 25 ans !
-- Télécommande universelle - La FS Reflex Stick II est la télécommande RC idéale pour tous les débutants et utilisateurs avancés. Linstallation est décrite en détail dans notre vidéo produit et dans le mode demploi.
 - Détails techniques - Compatible avec toutes les unités TAMIYA MFC et DND, réglage par curseur, tension de fonctionnement 4,8 à 6V (4 cellules Mignon - non incluses), système FHSS 2,4 GHz, indicateur détat de la batterie à LED, servo inverse pour tous les canaux, Graupner-J / Prise de charge R (pôle positif à lintérieur).
+- Télécommande universelle - La FS Reflex Stick II est la télécommande RC idéale pour tous les débutants et utilisateurs avancés. Linstallation est décrite en détail dans notre vidéo produit et dans le mode demploi.
 - 6 canaux - Les deux manettes de commande antidérapantes peuvent être utilisées pour contrôler par ex. B. Direction de direction et moteur assez intuitifs, des fonctions supplémentaires peuvent être contrôlées via le bouton et linterrupteur (par exemple, lumière allumée / éteinte).
+- Qualité dorigine Carson - En tant que spécialiste des véhicules télécommandés, Carson est la garantie dune qualité exceptionnelle, dune sécurité maximale des produits et bien sûr dun grand plaisir de conduire depuis 25 ans !
+- Pour tous les types de véhicules - quil sagisse de modèles existants ou de nouveaux projets de construction - lémetteur et le récepteur 2,4 GHz peuvent être utilisés pour contrôler et contrôler de manière fiable presque tous les types de véhicules.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
