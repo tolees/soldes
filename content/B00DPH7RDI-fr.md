@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Souris pour droitiers, repose-poignets intégré et bouton "Windows"
-- Durée de vie des piles du clavier : 18 mois et durée de vie des piles de la souris : 10 mois
 - Ensemble clavier AZERTY et souris sans fil
-- Microsoft Windows 10, 8.1, Windows 8, Windows RT 8.1, Windows RT 8 et Windows 7; Macintosh OS X v10.7-10.9; Android 3.2 - 4.2
+- Durée de vie des piles du clavier : 18 mois et durée de vie des piles de la souris : 10 mois
 - Dimensions du clavier (Lxl) : 45,3 x 21,3 cm et dimensions de la souris (Lxl): 11,1 x 6,85 cm
+- Souris pour droitiers, repose-poignets intégré et bouton "Windows"
+- Microsoft Windows 10, 8.1, Windows 8, Windows RT 8.1, Windows RT 8 et Windows 7; Macintosh OS X v10.7-10.9; Android 3.2 - 4.2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec Profil Power-Grip: Le profilage spécial facilite lenroulement et assure une force de maintien optimale et une connexion sécurisée entre le tuyau et la pièce à tubes
-- Haute qualité et robuste: le flexible de comfort en spirale en PVC peut être utilisé jusquà une pression deau de 25 bars, Gardena accorde une garantie de 20 ans pour une utilisation appropriée
+- Utilisation polyvalente: Le tuyau de Gardena Comfort Flex peut être complété avec les pièces dorigine du système Gardena et les appareils de connexion, pour une utilisation facile et polyvalente dans le jardin.
 - Sans polluants et résistant aux UV: le tuyau de flexible Gardena Comfort de Compressive et dimensionnellement stable est résistant aux UV et exempt de plastifiants toxiques (phtalates) et de métaux lourds
 - La livraison comprend: 1x Gardena Comfort Flex Flex Tuyau 13 mm (1/2 Pouce) 50 m, 20 ans Garantie Gardena
-- Utilisation polyvalente: Le tuyau de Gardena Comfort Flex peut être complété avec les pièces dorigine du système Gardena et les appareils de connexion, pour une utilisation facile et polyvalente dans le jardin.
+- Haute qualité et robuste: le flexible de comfort en spirale en PVC peut être utilisé jusquà une pression deau de 25 bars, Gardena accorde une garantie de 20 ans pour une utilisation appropriée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
