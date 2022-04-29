@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecran tactile de 7’’ HD 1080p
 - Possibilité pour votre visiteur de laisser un message en cas d’absence & enregistrement photo de chaque visite sur la mémoire interne du moniteur
+- Visualiser qui sonne à votre entrée ou répondre aux appels vidéo via le moniteur intérieur ou à distance sur votre smartphone avec une image de qualité supérieure
+- Ecran tactile de 7’’ HD 1080p
 - Ouverture de gâche et portail à distance (installation filaire avec une serrure électrique de 12V ou contact sec)
 - Ce produit est autonome et par conséquent nest pas compatible avec léco-système DiO 1.0.
-- Visualiser qui sonne à votre entrée ou répondre aux appels vidéo via le moniteur intérieur ou à distance sur votre smartphone avec une image de qualité supérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
