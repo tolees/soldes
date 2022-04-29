@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vue parfaite sur la pièce à travailler grâce à la fonction de soufflage
-- Lattache rapide permet de changer facilement la lame de scie
-- Table de travail en métal réglable jusquà 45°
-- Lappareil peut être fixé directement sur létabli
-- 1 lame de scie de rechange supplémentaire est incluse dans lemballage
-- Une base solide garantit une position stable même pendant le travail
 - Le maintien de la pièce à travailler permet des coupes précises et un travail en toute sécurité
+- Une base solide garantit une position stable même pendant le travail
 - Fonctionne avec les lames de scie à arbre en T et les lames de scie à chantourner
+- Table de travail en métal réglable jusquà 45°
+- Vue parfaite sur la pièce à travailler grâce à la fonction de soufflage
 - Raccordement dun aspirateur de poussière pour un atelier bien rangé
+- 1 lame de scie de rechange supplémentaire est incluse dans lemballage
+- Lattache rapide permet de changer facilement la lame de scie
+- Lappareil peut être fixé directement sur létabli
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

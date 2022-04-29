@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection contre la chaleur Poignées
-- Echelle
-- Echelle
-- Compatible avec Cooking Chef Gourmet
 - Généreuse capacité 6,7 L
 - Passe au lave-vaisselle
 - Acier inoxydable, poli.Pour une manipulation plus facile, il est doté de 2 becs verseurs
+- Protection contre la chaleur Poignées
+- Compatible avec Cooking Chef Gourmet
+- Echelle
+- Echelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

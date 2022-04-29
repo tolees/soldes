@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hyperflex Re-Used XLite
-- Matériaux recyclés
-- Coton recyclé
+- Jean stretch Hyperflex de 200 g
 - Qualité super extensible
 - Polyester recyclé à partir de bouteilles en PET
-- Jean stretch Hyperflex de 200 g
+- Coton recyclé
+- Matériaux recyclés
+- Hyperflex Re-Used XLite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
