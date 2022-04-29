@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dos long pour une protection contre les éclaboussures, Poche zippée à larrière, Compatible avec sac à dos
-- GORE C5 GORE-TEX Active Jacket, Taille: S, Couleur: Noir/Rouge, 100193
 - Coupe slim/Coupe spécialement conçue pour le cyclisme
+- GORE C5 GORE-TEX Active Jacket, Taille: S, Couleur: Noir/Rouge, 100193
+- Dos long pour une protection contre les éclaboussures, Poche zippée à larrière, Compatible avec sac à dos
 - Technologie GORE-TEX Active: Imperméable, coupe-vent et extrêmement respirant
 - Veste homme polyvalente pour le cycliste par temps frais
 
