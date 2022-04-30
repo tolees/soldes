@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 Cadran modulaire dinformation et 1 cadran modulaire analogique avec respectivement 5 et 7 modules (widgets) réglables au choix parmi un maximum de 17 options
-- Huami-PAI (PERSONAL ACTIVITY INTELLIGENCE) Transforme les données relatives à la fréquence cardiaque en un score personnel unique, indiquant aux utilisateurs la quantité dactivité nécessaire pour rester en bonne santé
-- 9,4 mm dépaisseur et 24,8 g de poids, avec un corps en alliage daluminium de qualité aéronautique, ce qui le rend super robuste et léger. Il est confortable à porter et élégant
 - Conçue pour résister à toutes vos activités, cette montre est certifiée 5 ATM, ce qui équivaut à environ 80 PSI, soit 164 pieds ou 50 mètres de profondeur deau
+- 1 Cadran modulaire dinformation et 1 cadran modulaire analogique avec respectivement 5 et 7 modules (widgets) réglables au choix parmi un maximum de 17 options
+- 9,4 mm dépaisseur et 24,8 g de poids, avec un corps en alliage daluminium de qualité aéronautique, ce qui le rend super robuste et léger. Il est confortable à porter et élégant
 - Jusquà 14 jours dautonomie de la pile en mode dutilisation quotidienne et 46 jours en mode de montre de base
+- Huami-PAI (PERSONAL ACTIVITY INTELLIGENCE) Transforme les données relatives à la fréquence cardiaque en un score personnel unique, indiquant aux utilisateurs la quantité dactivité nécessaire pour rester en bonne santé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
