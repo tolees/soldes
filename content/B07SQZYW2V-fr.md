@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Performances de stockage exceptionnelles PCIe Gen4 : un contrôleur PCIe Gen4 x4 offre jusqu’à 4 950 Mo/s de lecture séquentielle et 4 250 Mo/s d’écriture séquentielle pour des temps de lecture. Température de fonctionnement SSD: 0°C - +70°C
-- 3D TLC NAND haute densité : offre une combinaison idéale entre performances, endurance et rapport qualité/prix pour permettre à votre SSD de fonctionner au maximum de ses capacités pendant des
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- Une bonne endurance : garantie pour jusqu’à 1 800 To, la longévité du MP600 assure qu’il stockera vos données en toute fiabilité pendant de nombreuses années
 - Équipé dun dissipateur thermique en aluminium
 - Logiciel CORSAIR SSD Toolbox : offre un contrôle du disque avancé depuis votre ordinateur, avec l’effacement sécurisé et les mises à jour du micrologiciel
+- Une bonne endurance : garantie pour jusqu’à 1 800 To, la longévité du MP600 assure qu’il stockera vos données en toute fiabilité pendant de nombreuses années
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- 3D TLC NAND haute densité : offre une combinaison idéale entre performances, endurance et rapport qualité/prix pour permettre à votre SSD de fonctionner au maximum de ses capacités pendant des
 - Interface M.2 NVMe PCIe Gen4 x4 haut débit : utilisant la technologie PCIe Gen4 pour une bande passante maximale, le MP600 offre des performances de stockage incroyables
 - Format M.2 2280 : s’intègre directement dans votre carte mère
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction amplificateur de basse et de voix
 - Vous pouvez sélectionner l’effet lumineux que vous désirez en parfaite synchronisation avec l’ambiance de la fête
-- Jusqu’à 20H d’autonomie et 4h de temps de rechargement
-- Votre musique vous suit partout, ne craignez pas d’emmener votre enceinte en déplacement, elle résiste aux éclaboussures (IPX5)
 - Profitez d’une expérience sonore exceptionnelle
+- Votre musique vous suit partout, ne craignez pas d’emmener votre enceinte en déplacement, elle résiste aux éclaboussures (IPX5)
+- Jusqu’à 20H d’autonomie et 4h de temps de rechargement
+- Fonction amplificateur de basse et de voix
 
 [🛒 Achète-le!!]({{< param buyurl >}})

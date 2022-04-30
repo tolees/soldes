@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Greenworks Tools - Tronçonneuse à batterie Greenworks G40CS30  Li-Ion 40V  vitesse de chaîne 4 2 m/s  longueur de coupe 30 cm  volume du réservoir d huile 120 ml  poignée intégrale  sans batterie ni chargeur '
-date: 2022-04-16 10:33:59
+date: 2022-04-30 21:32:09
 image: 'https://m.media-amazon.com/images/I/41+lkA+B-LS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR VOTRE SÉCURITÉ – Le démarreur électrique et le protège-mains supplémentaire offrent plus de sécurité pendant les travaux - en outre, la chaîne peut être changée et tendue sans outil
-- BATTERIE UNIVERSELLE - les batteries 40V de Greenworks de 2Ah à 6Ah sont polyvalentes et compatibles avec de nombreux articles Greenworks dans le domaine du jardinage et du bricolage
 - CONFORT - La tronçonneuse est équipée dune poignée étrier pour différentes positions de prise ainsi que dune poignée souple ergonomique caoutchoutée pour un travail confortable et sécurisé
-- FACILE À DÉMARRER - Insérez la batterie 40V et démarrez : avec la tronçonneuse sans fil, vous pouvez immédiatement couper des branches et des petits arbres librement - sans batterie ni chargeur
+- BATTERIE UNIVERSELLE - les batteries 40V de Greenworks de 2Ah à 6Ah sont polyvalentes et compatibles avec de nombreux articles Greenworks dans le domaine du jardinage et du bricolage
+- POUR VOTRE SÉCURITÉ – Le démarreur électrique et le protège-mains supplémentaire offrent plus de sécurité pendant les travaux - en outre, la chaîne peut être changée et tendue sans outil
 - FIABLE - La scie à batterie a une vitesse de chaîne de 4,2 m/s, une longueur de coupe de 30 cm et une lubrification automatique de la chaîne – ainsi, le jardinage ne sera plus un problème
+- FACILE À DÉMARRER - Insérez la batterie 40V et démarrez : avec la tronçonneuse sans fil, vous pouvez immédiatement couper des branches et des petits arbres librement - sans batterie ni chargeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
