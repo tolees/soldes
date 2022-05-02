@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BATTERIE UNIVERSELLE - les batteries 40V de Greenworks de 2Ah à 6Ah sont polyvalentes et compatibles avec de nombreux articles Greenworks dans le domaine du jardinage et du bricolage
-- POUR VOTRE SÉCURITÉ – Le démarreur électrique et le protège-mains supplémentaire offrent plus de sécurité pendant les travaux - en outre, la chaîne peut être changée et tendue sans outil
 - CONFORT - La tronçonneuse est équipée dune poignée étrier pour différentes positions de prise ainsi que dune poignée souple ergonomique caoutchoutée pour un travail confortable et sécurisé
 - FIABLE - La scie à batterie a une vitesse de chaîne de 4,2 m/s, une longueur de coupe de 30 cm et une lubrification automatique de la chaîne – ainsi, le jardinage ne sera plus un problème
 - FACILE À DÉMARRER - Insérez la batterie 40V et démarrez : avec la tronçonneuse sans fil, vous pouvez immédiatement couper des branches et des petits arbres librement - sans batterie ni chargeur
+- POUR VOTRE SÉCURITÉ – Le démarreur électrique et le protège-mains supplémentaire offrent plus de sécurité pendant les travaux - en outre, la chaîne peut être changée et tendue sans outil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
