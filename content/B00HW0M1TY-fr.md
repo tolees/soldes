@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légèrement parfumé, il contient des ingrédients hydratants et relipidants qui prennent soin de la peau
 - Hygiénique : Recharge scellée avec pompe à usage unique réduisant le risque de contamination croisée ; Entretien certifié sans effort et remplissage intuitif en moins de 10 secondes
+- Légèrement parfumé, il contient des ingrédients hydratants et relipidants qui prennent soin de la peau
 - Bouteille rétractable pour réduire la quantité de déchets
-- Testé dermatologiquement, il est doux pour la peau.
 - Contenu de la livraison : 6 x 1000 ml - Pour les distributeurs de savons liquides et en spray Tork S1/S11 - Parfum frais - Couleur : jaune clair - Testé dermatologiquement, qualité Premium - Convient aux salles de bains très fréquentées
+- Testé dermatologiquement, il est doux pour la peau.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
