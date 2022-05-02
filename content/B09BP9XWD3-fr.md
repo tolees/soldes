@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il comprend un récif corallien et une structure à construire et des figurines Minecraft : un plongeur, un poulpe luisant, un gardien, un grand gardien et 3 axolotls
-- Les enfants doivent se servir du trident et des 3 axolotls domptés pour repousser les mobs hostiles quand le grand gardien se sert de sa queue pour lancer un missile laser
 - Les personnages, les scènes et les éléments du jeu prennent vie brique par brique avec les sets LEGO Minecraft, qui permettent aux joueurs de profiter du jeu dans la vie réelle
 - Les personnages, les scènes et les éléments du jeu prennent vie brique par brique avec les sets LEGO Minecraft, qui permettent aux joueurs de profiter du jeu dans la vie réelle
 - Le set LEGO Minecraft Le combat des gardiens plonge les joueurs dans une mission sous-marine regorgeant de personnages et d’éléments inspirés du jeu
+- Les enfants doivent se servir du trident et des 3 axolotls domptés pour repousser les mobs hostiles quand le grand gardien se sert de sa queue pour lancer un missile laser
 - Il y a un trésor caché à retrouver, mais 2 figurines de mobs Minecraft iconiques, un gardien et un grand gardien, sont déterminées à arrêter les enfants
+- Il comprend un récif corallien et une structure à construire et des figurines Minecraft : un plongeur, un poulpe luisant, un gardien, un grand gardien et 3 axolotls
 
 [🛒 Achète-le!!]({{< param buyurl >}})

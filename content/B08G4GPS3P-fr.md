@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les joueurs de Minecraft laisseront libre cours à leur passion pour leur jeu préféré avec le modèle LEGO Minecraft La Maison Cochon (21170). Toute la fantaisie, la créativité et l’aventure de Minecraft, plus la polyvalence des briques LEGO à manipuler.
+- Pour les enfants de 8 ans et plus. Le cadeau idéal pour les enfants qui veulent donner une nouvelle dimension à leur jeu Minecraft.
+- La large gamme de sets LEGO Minecraft donne vie à l’univers en ligne de Minecraft avec des personnages, des décors et des fonctions recréés avec un assortiment de briques LEGO durables.
 - Mesurant plus de 14 cm de haut, 20 cm de large et 19 cm de profondeur, ce set stimule la créativité physique et constitue une superbe pièce à exposer dans la chambre d’un fan de Minecraft.
 - Les enfants utilisent leurs compétences Minecraft pour construire une maison en forme de cochon, puis ouvrent le côté et soulèvent le toit pour explorer des pièces cachées, se cachent du Creeper, s’occupent des cochons – et déclenchent une explosion !
 - Ce set LEGO Minecraft est conçu pour durer. Reconfigurable à l’infini, il se combine facilement avec les autres sets LEGO Minecraft.
 - Les éléments LEGO sont conformes aux normes de qualité industrielles les plus rigoureuses ; ils sont compatiblesentre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
-- La large gamme de sets LEGO Minecraft donne vie à l’univers en ligne de Minecraft avec des personnages, des décors et des fonctions recréés avec un assortiment de briques LEGO durables.
-- Les joueurs de Minecraft laisseront libre cours à leur passion pour leur jeu préféré avec le modèle LEGO Minecraft La Maison Cochon (21170). Toute la fantaisie, la créativité et l’aventure de Minecraft, plus la polyvalence des briques LEGO à manipuler.
 - Un set de construction LEGO Minecraft authentique incluant Alex, le célèbre personnage du jeu, un Creeper iconique, 2 cochons, des accessoires pour Alex et des carottes pour les cochons.
-- Pour les enfants de 8 ans et plus. Le cadeau idéal pour les enfants qui veulent donner une nouvelle dimension à leur jeu Minecraft.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
