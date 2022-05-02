@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- température de service : la cave à vin de mise à température double zone ls100.2z offre deux compartiments de stockage indépendant. la zone supérieure permet de conserver jusquà 54 bouteilles à une température comprise entre 5°c et 12°c ; la zone inférieure permet de conserver jusquà 44 bouteilles à une température comprise entre 12°c et 18°c
 - produit de haute qualité
 - conservation idéale : le système anti-vibration protège le vin des chocs et la porte vitrée des uv ! vos grands crus sont d’autre part conservés à un taux d’hygrométrie géré entre 50 et 80°c. le froid brassé produit du froid et entraîne un brassage d’air préservant des écarts de températures en parties supérieure et inférieure.
+- température de service : la cave à vin de mise à température double zone ls100.2z offre deux compartiments de stockage indépendant. la zone supérieure permet de conserver jusquà 54 bouteilles à une température comprise entre 5°c et 12°c ; la zone inférieure permet de conserver jusquà 44 bouteilles à une température comprise entre 12°c et 18°c
 - dégustation à juste température : les amateurs de grands crus le savent : un bon vin ne suffit pas à garantir une bonne dégustation. il faut en effet s’assurer que le vin est à température de service avec la cave à vin de mise à température ls100.2z !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
