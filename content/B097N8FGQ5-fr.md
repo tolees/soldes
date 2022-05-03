@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Department: femme
-- Legging 3/4
-- Lavage en machine
 - 87 % polyester, 13 % élasthanne
 - Puma black
+- Lavage en machine
+- Department: femme
+- Legging 3/4
 
 [🛒 Achète-le!!]({{< param buyurl >}})

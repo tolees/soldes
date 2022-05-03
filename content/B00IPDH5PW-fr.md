@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metabo Compresseur Basic 250-50 W  50 l'
-date: 2022-04-23 18:35:29
+date: 2022-05-03 18:05:00
 image: 'https://m.media-amazon.com/images/I/4147MrtJKNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'metabo'
 buyurl: 'https://www.amazon.fr/dp/B00IPDH5PW/?tag=tolees0d-21'
 descuento: '50.67'
-average: '125.373333333333'
+average: '127.01'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Roues caoutchoutées stables pour une utilisation mobile
+- Protection contre la surcharge : protège le moteur contre la surchauffe
 - Manomètre additionnel pour afficher la pression de la cuve
+- Pression de service réglable facilement grâce au détendeur avec manomètre
 - Poignée de traction caoutchoutée pour une prise en main confortable
 - Compresseur à pistons avec huile
-- Pression de service réglable facilement grâce au détendeur avec manomètre
-- Protection contre la surcharge : protège le moteur contre la surchauffe
 - Cuve garantie 10 ans contre la rouille
-- Roues caoutchoutées stables pour une utilisation mobile
-- Pour courant alternatif monophasé
-- Bon démarrage à froid grâce à linterrupteur manométrique avec vanne de décharge
 - Compresseur robuste et puissant pour applications industrielles simples
+- Bon démarrage à froid grâce à linterrupteur manométrique avec vanne de décharge
+- Pour courant alternatif monophasé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
