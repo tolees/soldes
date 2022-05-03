@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Fabriquées en fonte dacier, qui garantit une rétention de chaleur optimale les plats mijotés et la cuisson douce
 - Revêtement email noir mat à lintérieur et à lextérieur, garantissant une caramélisation parfaite
 - Cocotte élégante conçue avec pierre gagnaire, chef triplement étoilé renommé, pour une cuisson authentique et savoureuse
-- Désignée en france par tefal, n°1 mondial* des articles culinaires
 - Compatible tous feux dont induction + four
+- Désignée en france par tefal, n°1 mondial* des articles culinaires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
