@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couvercle à charnière (avec vérins à gaz) et 2 portes avant verrouillables (cadenas non inclus)
 - Offre de la place pour 2 poubelles de 120 l chacune ou de nombreux ustensiles de jardin
-- Couleur : corps beige, couvercle marron
-- Dimensions (L x l x h) : extérieur : 132 x 71,5 x 113,5 cm / intérieur : 122 x 61 x 108,8 cm
 - En polypropylène (plastique) de qualité supérieure résistant aux UV et aux intempéries
+- Dimensions (L x l x h) : extérieur : 132 x 71,5 x 113,5 cm / intérieur : 122 x 61 x 108,8 cm
+- Couleur : corps beige, couvercle marron
+- Couvercle à charnière (avec vérins à gaz) et 2 portes avant verrouillables (cadenas non inclus)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
