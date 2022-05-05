@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mini rampe double portable, moulée
 - Dimensions de la double rampe : 39,4 cm (Lg) x 81,28 cm (L) x 15,24 cm (H)
+- Mini rampe double Rampage
+- Mini rampe double portable, moulée
 - Convient à partir de 5 ans, poids maximum supporté de 90 kg
 - Prêt à lusage, pas de montage
-- Mini rampe double Rampage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

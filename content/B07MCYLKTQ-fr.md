@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie et chargeur non inclus
+- Options de raccords multiples : le nettoyeur haute pression Kärcher peut être raccordé à leau via ladaptateur A3/4" et un tuyau darrosage supplémentaire. Un tuyau daspiration est aussi disponible
 - Poignée haute pression : trois niveaux de pression différents sont disponibles en fonction des besoins. Le niveau de pression est facile à régler sur la poignée-pistolet du karcher
 - Composants inclus : le nettoyeur haute pression K 2 Battery avec filtre à eau intégré, lance simple, rotabuse et adaptateur A3/4". La batterie Kärcher 36 V est disponible séparément
-- Options de raccords multiples : le nettoyeur haute pression Kärcher peut être raccordé à leau via ladaptateur A3/4" et un tuyau darrosage supplémentaire. Un tuyau daspiration est aussi disponible
+- Batterie et chargeur non inclus
 - Nettoyage mobile puissant : le K 2 Battery sans fil ne pèse que 4,5 kg et est facile à transporter. Avec la batterie 36 V/2,5 Ah disponible séparément, il offre une autonomie de 14 minutes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
