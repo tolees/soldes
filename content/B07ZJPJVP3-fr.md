@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable
 - Pratique
+- Confortable
 - Chic Design
 
 [🛒 Achète-le!!]({{< param buyurl >}})
