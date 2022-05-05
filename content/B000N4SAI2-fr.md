@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rampage Rampe de Skateboard Mini Double Kicker  Mixte Adulte  Noir  89 x 39 x 15 cm'
-date: 2022-05-02 18:28:12
+date: 2022-05-05 11:27:39
 image: 'https://m.media-amazon.com/images/I/41tSPK8BJYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prêt à lusage, pas de montage
-- Mini rampe double Rampage
-- Convient à partir de 5 ans, poids maximum supporté de 90 kg
 - Mini rampe double portable, moulée
 - Dimensions de la double rampe : 39,4 cm (Lg) x 81,28 cm (L) x 15,24 cm (H)
+- Convient à partir de 5 ans, poids maximum supporté de 90 kg
+- Prêt à lusage, pas de montage
+- Mini rampe double Rampage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
