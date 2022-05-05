@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie longue durée – jusqu "à 25 jours dautonomie (charges en 2 heures), plus de 20 jours de plus sur la réserve dénergie en mode (suivi de lactivité et heure uniquement)
-- Surveillance du sommeil – Analyse du cycle de sommeil (léger et profond sommeil) plus silencieux alarme vibrante avec Smart réveil qui vous aide à vous réveiller au meilleur point de votre cycle de sommeil.
-- Suivi de lactivité – Suivre automatiquement la marcher, courir, nager, la distance et les calories brûlées et profiter de plus de 10 activités qui peuvent être reconnus
 - Alertes de smartphone – Recevez des notifications pour les messages texte, les appels, et les événements sur lécran de la montre
+- Batterie longue durée – jusqu "à 25 jours dautonomie (charges en 2 heures), plus de 20 jours de plus sur la réserve dénergie en mode (suivi de lactivité et heure uniquement)
+- Suivi de lactivité – Suivre automatiquement la marcher, courir, nager, la distance et les calories brûlées et profiter de plus de 10 activités qui peuvent être reconnus
 - Le suivi de la fréquence cardiaque en continu – Suivi de la fréquence cardiaque en mode entraînement pour optimiser la formation, et de surveiller quotidiennement et pendant la nuit du rythme cardiaque pour améliorer la santé au fil du temps.
+- Surveillance du sommeil – Analyse du cycle de sommeil (léger et profond sommeil) plus silencieux alarme vibrante avec Smart réveil qui vous aide à vous réveiller au meilleur point de votre cycle de sommeil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
