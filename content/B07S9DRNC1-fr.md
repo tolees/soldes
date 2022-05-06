@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pack de trois paires
 - Design anatomique formation spécifique pour le pied droit et gauche
 - Climacool
+- Pack de trois paires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
