@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mise à niveau vers Windows 11 dès sa disponibilité
+- Lenovo
 - Écran: 15.6" FHD (1920x1080) IPS 250nits Anti-éblouissement
 - Taille du disque dur: 512.0 Go
+- Mise à niveau vers Windows 11 dès sa disponibilité
 - Taille de mémoire RAM installée (GB): 16.0 Go
-- Lenovo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

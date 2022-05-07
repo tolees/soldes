@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plongez dans le chaos des combats de guérilla intenses au cœur de la révolution. Restez dans lombre avant de frapper des points stratégiques, tout en rassemblant des soldats et des ressources qui vous aideront à mettre un terme au régime dAntón.
-- Plongez dans une expérience de haute volée et incarnez Dani Rojas, pour laider à défendre son pays contre loppression. Choisissez dincarner Dani sous les traits dune femme ou dun homme, et suivez son parcours, de sa désertion de larmée de Yara à son combat en tant que leader révolutionnaire.
 - Pour la première fois dans Far Cry, vous évoluez sur une île entière, dont la capitale, Esperanza, est bouclée par larmée. Renversez la dictature en restant dans lombre ou en affrontant les soldats dAntón dans des fusillades de rue acharnées.
 - Parce quun guérillero accompagné en vaut deux, faites équipe avec de tout nouveaux compagnons animaliers, tel que Chorizo, ladorable teckel auquel personne ne peut résister, ou bien Guapo, le crocodile de compagnie de Juan qui ne fera quune bouchée des soldats dAntón.
+- Plongez dans le chaos des combats de guérilla intenses au cœur de la révolution. Restez dans lombre avant de frapper des points stratégiques, tout en rassemblant des soldats et des ressources qui vous aideront à mettre un terme au régime dAntón.
+- Plongez dans une expérience de haute volée et incarnez Dani Rojas, pour laider à défendre son pays contre loppression. Choisissez dincarner Dani sous les traits dune femme ou dun homme, et suivez son parcours, de sa désertion de larmée de Yara à son combat en tant que leader révolutionnaire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
