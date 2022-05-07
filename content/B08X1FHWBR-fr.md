@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DiO Connected Home - Visiophone Filaire 2 fils + écran 7″ sans fil  Notification par Wifi sur Smartphone et vision nocturne  – DIOVDP-IP01'
-date: 2022-04-29 20:28:31
+date: 2022-05-07 09:27:27
 image: 'https://m.media-amazon.com/images/I/41UQMKbS33L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Possibilité pour votre visiteur de laisser un message en cas d’absence & enregistrement photo de chaque visite sur la mémoire interne du moniteur
-- Visualiser qui sonne à votre entrée ou répondre aux appels vidéo via le moniteur intérieur ou à distance sur votre smartphone avec une image de qualité supérieure
-- Ecran tactile de 7’’ HD 1080p
 - Ouverture de gâche et portail à distance (installation filaire avec une serrure électrique de 12V ou contact sec)
+- Possibilité pour votre visiteur de laisser un message en cas d’absence & enregistrement photo de chaque visite sur la mémoire interne du moniteur
+- Ecran tactile de 7’’ HD 1080p
 - Ce produit est autonome et par conséquent nest pas compatible avec léco-système DiO 1.0.
+- Visualiser qui sonne à votre entrée ou répondre aux appels vidéo via le moniteur intérieur ou à distance sur votre smartphone avec une image de qualité supérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
