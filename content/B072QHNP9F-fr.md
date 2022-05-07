@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les LEDs ont une durée de vie de 50.000h ce qui est équivalent à environs 20 ans dutilisation
-- Le détecteur hyper fréquence est intégré dans la face inférieure de la lampe dentrée de manière complètement invisible
-- Ce luminaire extérieur design est équipé des LEDs dune puissance de 9,1 W et dun panneau numéroté rétroéclairé en verre dépoli
 - Cette applique murale fournit une luminosité de 679 lm avec une température de la lumière de 3.000K
 - Le détecteur de mouvement capte tout mouvement dans un rayon de 5 m et sur un angle de 160° avec précision et indépendamment de la température
+- Ce luminaire extérieur design est équipé des LEDs dune puissance de 9,1 W et dun panneau numéroté rétroéclairé en verre dépoli
+- Le détecteur hyper fréquence est intégré dans la face inférieure de la lampe dentrée de manière complètement invisible
+- Les LEDs ont une durée de vie de 50.000h ce qui est équivalent à environs 20 ans dutilisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})

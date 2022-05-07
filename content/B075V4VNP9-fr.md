@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Moniteur de fréquence cardiaque sur le guidon pour recevoir des informations sur la fréquence cardiaque
-- Tapis de course pliant pour un exercice modéré à domicile avec une vitesse réglable jusquà 14km/h
-- Surface de course de 40x110cm pour un confort maximal pendant lentraînement
 - Il est équipé dun moteur de 1500w pour une performance maximale à la maison
 - Il dispose de 12 programmes de formation
+- Tapis de course pliant pour un exercice modéré à domicile avec une vitesse réglable jusquà 14km/h
+- Surface de course de 40x110cm pour un confort maximal pendant lentraînement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

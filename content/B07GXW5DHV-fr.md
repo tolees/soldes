@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉTANCHE JUSQUÀ 50M cette montre connectée hybride qui vous accompagne dans leau, à la piscine, à la mer ou prendre une douche
+- SUIVI AUTOMATIQUE DU SOMMEIL score de Sommeil au réveil basé sur vos cycles de sommeil léger et profond, les interruptions de votre nuit, sa profondeur et votre régularité
+- NOTIFICATIONS DU SMARTPHONE personnalisation des notifications dappels, de messages, dévénements et dapplications depuis votre smartphone, directement sur lécran de veille
 - BATTERIE À DURÉE DE VIE RECORD passez plus de temps à vous déplacer et moins de temps à recharger avec sa batterie rechargeable qui dure jusquà 25 jours
 - SUIVI MULTISPORT indice de forme physique via VO2 max, suivi de plus de 30 sports et compte-rendu présentant la carte de votre trajet, la distance parcourue, votre élévation et la vitesse de votre session via le GPS connecté
-- SUIVI AUTOMATIQUE DU SOMMEIL score de Sommeil au réveil basé sur vos cycles de sommeil léger et profond, les interruptions de votre nuit, sa profondeur et votre régularité
-- SUIVI DACTIVITÉ QUOTIDIEN décompte automatique des pas, des calories et des distances
 - FRÉQUENCE CARDIAQUE EN CONTINU suivi de la fréquence cardiaque jour et nuit et en continu pendant les séances dentraînement
-- NOTIFICATIONS DU SMARTPHONE personnalisation des notifications dappels, de messages, dévénements et dapplications depuis votre smartphone, directement sur lécran de veille
+- SUIVI DACTIVITÉ QUOTIDIEN décompte automatique des pas, des calories et des distances
+- ÉTANCHE JUSQUÀ 50M cette montre connectée hybride qui vous accompagne dans leau, à la piscine, à la mer ou prendre une douche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
