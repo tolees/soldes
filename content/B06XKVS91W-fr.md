@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 Cafetière à filtre avec moulin Melitta Aromafresh, Noir/Inox, 1021-01, 5 filtres 1x4 inclus, Brosse de nettoyage incluse, Poids: 0,65 kg, Dimensions (lxHxP) : 30,2 x 31,2 x 51,5 cm
-- Longueur du cordon: 1 m
-- Lancez votre café à l’heure souhaitée grâce à la fonction Timer, Système anti-goutte, Compatible avec les filtres 1x4, Écran LCD avec affichage de lheure, Éléments en acier inoxydable
-- Goût exceptionnel : la température de préparation optimale, Temps de maintien au chaud programmable (30, 60 ou 90 min), Niveau de mouture et intensité de café réglables, Verseuse en verre borosilicate
-- Préservez votre cafetière et le goût du café : Programme de détartrage, Indicateur d’entartrage, Réglage de la dureté de l’eau, Porte-filtre, réservoir à grains et tête du moulin lavables au lave-vaisselle, Arrêt automatique, 1000 W, Garantie 3 ans
 - Réveillez-vous avec une tasse de café riche en arôme à base de grains fraichement moulus ou de café pré-moulu, Réservoir deau transparent gradué pour 10 tasses (150 ml)
+- Longueur du cordon: 1 m
+- Préservez votre cafetière et le goût du café : Programme de détartrage, Indicateur d’entartrage, Réglage de la dureté de l’eau, Porte-filtre, réservoir à grains et tête du moulin lavables au lave-vaisselle, Arrêt automatique, 1000 W, Garantie 3 ans
+- Goût exceptionnel : la température de préparation optimale, Temps de maintien au chaud programmable (30, 60 ou 90 min), Niveau de mouture et intensité de café réglables, Verseuse en verre borosilicate
+- Lancez votre café à l’heure souhaitée grâce à la fonction Timer, Système anti-goutte, Compatible avec les filtres 1x4, Écran LCD avec affichage de lheure, Éléments en acier inoxydable
+- Contenu : 1 Cafetière à filtre avec moulin Melitta Aromafresh, Noir/Inox, 1021-01, 5 filtres 1x4 inclus, Brosse de nettoyage incluse, Poids: 0,65 kg, Dimensions (lxHxP) : 30,2 x 31,2 x 51,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
