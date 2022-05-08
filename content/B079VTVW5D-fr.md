@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le robot nettoie grâce à sa brosse et filtre leau, ce qui permet de collecter les débris en suspension. Longueur du câble : 12 mètres
-- Nettoie le fond de la piscine, Particulièrement adapté aux piscines à fond plat, ou dont la pente est inférieure à 35°
 - Le filtre dune porosité de 180 microns permet de collecter les impuretés les plus fines
+- Nettoie le fond de la piscine, Particulièrement adapté aux piscines à fond plat, ou dont la pente est inférieure à 35°
 - Capacité de filtration denviron 20 m3 par heure
 - Cycles programmables de 1 h, 1 h 30 et 2 heures
+- Le robot nettoie grâce à sa brosse et filtre leau, ce qui permet de collecter les débris en suspension. Longueur du câble : 12 mètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
