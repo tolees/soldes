@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21174 Minecraft La cabane Moderne dans l’Arbre – Jouet Maison de Poupée pour Filles et Garçons  Modèle de Collection avec Figurine Creeper'
-date: 2022-05-05 06:09:01
+date: 2022-05-08 06:48:49
 image: 'https://m.media-amazon.com/images/I/51HLEX-KL2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08WWSXGC3/?tag=tolees0d-21'
 descuento: '27.50'
-average: '100.06'
+average: '97.446'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les 4 pièces très différentes de cette maison jouet, la cuisine, la bibliothèque, le bureau et la chambre n’ont même pas à être rattachées à l’arbre !
-- Doté de 4 pièces reconfigurables, ce jouet Minecraft LEGO La cabane moderne dans l’arbre est détaillé et extrêmement polyvalent
-- Inclut une figurine Minecraft de Creeper chargé et un skin panda, un skin ocelot, un zombie, un chat et un poulet provenant du jeu en ligne
 - Les accessoires incluent pleins d’éléments amusants provenant du jeu vidéo, des meubles au lit en passant par les outils et la TNT
+- Doté de 4 pièces reconfigurables, ce jouet Minecraft LEGO La cabane moderne dans l’arbre est détaillé et extrêmement polyvalent
+- Les 4 pièces très différentes de cette maison jouet, la cuisine, la bibliothèque, le bureau et la chambre n’ont même pas à être rattachées à l’arbre !
 - Cette maison LEGO à construire est le jouet Minecraft idéal pour les fans du jeu ou de maquettes âgés de 9 ans et plus, c’est également un excellent cadeau d’anniversaire
+- Inclut une figurine Minecraft de Creeper chargé et un skin panda, un skin ocelot, un zombie, un chat et un poulet provenant du jeu en ligne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
