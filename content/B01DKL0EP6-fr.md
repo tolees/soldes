@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Prise d’alimentation intégrée] – Grâce à sa prise en façade , vous pourrez connecter d’autres appareils dessus
-- [Port Ethernet] - Avec son port Ethernet 10/100, l’EX6130 peut recevoir des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
-- [Compatibilité universelle] - Compatible avec toutes les box Internet et routeurs Wi-Fi.
 - [Sécurité] - Prend en charge les Protocoles de sécurité sans fil WEP et WPA/WPA2
-- [Installation simple] - Appuyez juste sur le bouton WPS pour vous connecter à votre routeur ou BOX
-- [Étendez votre couverture] - Les 2 antennes de l’EX6130 augmentent la couverture Wi-Fi jusquà 90 m² et connectent jusquà 20 appareils tels que des smartphones, des tablettes, des PC, etc.
 - [Bien choisir un répéteur Wi-Fi] - Le répéteur se calera sur le débit de Box Internet.
+- [Étendez votre couverture] - Les 2 antennes de l’EX6130 augmentent la couverture Wi-Fi jusquà 90 m² et connectent jusquà 20 appareils tels que des smartphones, des tablettes, des PC, etc.
+- [Prise d’alimentation intégrée] – Grâce à sa prise en façade , vous pourrez connecter d’autres appareils dessus
+- [Compatibilité universelle] - Compatible avec toutes les box Internet et routeurs Wi-Fi.
+- [Port Ethernet] - Avec son port Ethernet 10/100, l’EX6130 peut recevoir des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
+- [Installation simple] - Appuyez juste sur le bouton WPS pour vous connecter à votre routeur ou BOX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
