@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Audio-Technica AT-LP60X Tourne-disque avec transmission par courroie Noir'
-date: 2022-05-04 20:43:54
+date: 2022-05-09 10:19:43
 image: 'https://m.media-amazon.com/images/I/41rs4kfNDWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse de lecture : - 45 tr/min ; 33 1/3 tr/min.
-- Méthode de transmission : transmission par courroie.
-- Tourne-disque avec transmission par courroie AT-LP60X - Noir
 - Fonctionnement : entièrement automatique.
-- Cartouches : aimant mobile.
-- Stylet : aiguille à pointe diamant remplaçable.
 - Options dalimentation : secteur.
+- Cartouches : aimant mobile.
+- Tourne-disque avec transmission par courroie AT-LP60X - Noir
+- Méthode de transmission : transmission par courroie.
+- Vitesse de lecture : - 45 tr/min ; 33 1/3 tr/min.
+- Stylet : aiguille à pointe diamant remplaçable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
