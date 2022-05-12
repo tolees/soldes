@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La cafetière idéale pour un café doux et riche en arômes, Réservoir deau transparent 1,25 L, Indicateur de niveau deau facile à lire sur le devant pour 10 grandes tasses (125 ml) ou 15 petites tasses (85 ml)
+- Nettoyage facile grâce au couvercle EasyClick, Porte-filtre pivotant lavable au lave-vaisselle, Arrêt automatique, Interrupteur on/off lumineux, 1050 W, Design de qualité allemande
+- Verseuse utilisable d’une seule main, Couvercle et porte-filtre anti-gouttes amovibles, Compatible avec les filtres 1x4, Design compact, Rangement du câble ajustable dans le socle
 - Maintien du café au chaud pendant 2 heures, Verseuse isotherme résistante avec double paroi intérieure en verre, Panneaux en acier inoxydable sur le filtre amovible et la poignée de la verseuse, Verseuse en acier inoxydable incassable
 - Contenu : 1 x Melitta 1 x Cafetière Filtre avec Verseuse en Acier Inoxydable, Easy Top Therm Steel II, 1023-10, Noir/Acier Inoxydable, Poids : 1,76 kg, Dimensions (H x l x P) : 350 x 173 x 238 mm, Longueur du câble : 70 cm, Filtres à Café Melitta Original, 6764913
-- Verseuse utilisable d’une seule main, Couvercle et porte-filtre anti-gouttes amovibles, Compatible avec les filtres 1x4, Design compact, Rangement du câble ajustable dans le socle
-- Nettoyage facile grâce au couvercle EasyClick, Porte-filtre pivotant lavable au lave-vaisselle, Arrêt automatique, Interrupteur on/off lumineux, 1050 W, Design de qualité allemande
-- La cafetière idéale pour un café doux et riche en arômes, Réservoir deau transparent 1,25 L, Indicateur de niveau deau facile à lire sur le devant pour 10 grandes tasses (125 ml) ou 15 petites tasses (85 ml)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
