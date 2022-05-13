@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 21g de protéine par portion
-- Produit de haute qualité
-- 4.5g de BCAA dont 2g de leucine par portion
 - Note A obtenu par LabDoor
+- 4.5g de BCAA dont 2g de leucine par portion
+- Produit de haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
