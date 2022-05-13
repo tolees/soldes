@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOVACS Deebot T8+ Robot Aspirateur Laveur  2En1  avec Station d Auto-Vidage : Fonction de Balayage  Navigation Intelligente'
-date: 2022-05-09 21:32:40
+date: 2022-05-12 23:23:14
 image: 'https://m.media-amazon.com/images/I/31dzW94nO2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'ECOVACS'
 buyurl: 'https://www.amazon.fr/dp/B08FCQ1Z6Y/?tag=tolees0d-21'
 descuento: '22.14'
-average: '671.993333333333'
+average: '678.9925'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
