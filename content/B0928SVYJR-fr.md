@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad Gaming 3 15ACH6 Ordinateur Portable 15.6   FHD Noir  AMD Ryzen 5 5600H  RAM 16Go  SSD 512Go  NVIDIA GeForce RTX 3050Ti  Windows 10  - Clavier AZERTY rétroéclairé'
-date: 2022-05-07 19:44:02
+date: 2022-05-14 12:28:27
 image: 'https://m.media-amazon.com/images/I/413aeXcC6zS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lenovo
 - Écran: 15.6" FHD (1920x1080) IPS 250nits Anti-éblouissement
+- Taille de mémoire RAM installée (GB): 16.0 Go
+- Lenovo
 - Taille du disque dur: 512.0 Go
 - Mise à niveau vers Windows 11 dès sa disponibilité
-- Taille de mémoire RAM installée (GB): 16.0 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
