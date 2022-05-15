@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brunner 0406091N Accelerate Table roulante'
-date: 2022-05-10 21:26:40
+date: 2022-05-15 12:19:09
 image: 'https://m.media-amazon.com/images/I/313YYBYTxRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions (P x H) : 80 x 70 cm
 - Facile à utiliser.
 - Largeur : 121,5 cm
+- Dimensions (P x H) : 80 x 70 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG PK5 Enceinte portable Noir'
-date: 2022-05-03 10:06:10
+date: 2022-05-15 12:12:43
 image: 'https://m.media-amazon.com/images/I/415Ut5CCisL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Votre musique vous suit partout, ne craignez pas d’emmener votre enceinte en déplacement, elle résiste aux éclaboussures (IPX5)
-- Vous pouvez sélectionner l’effet lumineux que vous désirez en parfaite synchronisation avec l’ambiance de la fête
-- Fonction amplificateur de basse et de voix
 - Profitez d’une expérience sonore exceptionnelle
 - Jusqu’à 20H d’autonomie et 4h de temps de rechargement
+- Fonction amplificateur de basse et de voix
+- Vous pouvez sélectionner l’effet lumineux que vous désirez en parfaite synchronisation avec l’ambiance de la fête
+- Votre musique vous suit partout, ne craignez pas d’emmener votre enceinte en déplacement, elle résiste aux éclaboussures (IPX5)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
