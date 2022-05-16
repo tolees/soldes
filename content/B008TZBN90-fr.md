@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette lampe de luminothérapie d’une intensité lumineuse de 10 000 lux (à env. 15 cm de distance) apporte une nouvelle énergie et un vrai bien-être en hiver grâce à son champ lumineux intense.
-- Température de couleur: 6500 K
-- Vous pouvez adapter la position de la lampe pour votre bain de lumière afin de combattre la mélatonine, hormone de la fatigue, et de faire le plein de sérotonine, hormone du bonheur.
-- Une commande pratique à un seul bouton vous permet d’activer une surface lumineuse particulièrement grande (env. 51 x 34 cm). Sa lumière sans UV ne scintille pas, et elle s’allume immédiatement.
 - La lampe à lumière du jour TL 90 affiche sa durée dutilisation actuelle à laide de huit LED. Toutes les 15 minutes, une LED sallume.
+- Vous pouvez adapter la position de la lampe pour votre bain de lumière afin de combattre la mélatonine, hormone de la fatigue, et de faire le plein de sérotonine, hormone du bonheur.
+- Température de couleur: 6500 K
+- Cette lampe de luminothérapie d’une intensité lumineuse de 10 000 lux (à env. 15 cm de distance) apporte une nouvelle énergie et un vrai bien-être en hiver grâce à son champ lumineux intense.
 - Son pied stable vous permet une utilisation sans danger. Utilisez ce dispositif médical grâce à des sources lumineuses à économie dénergie (2 x tubes de 36 watts).
+- Une commande pratique à un seul bouton vous permet d’activer une surface lumineuse particulièrement grande (env. 51 x 34 cm). Sa lumière sans UV ne scintille pas, et elle s’allume immédiatement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

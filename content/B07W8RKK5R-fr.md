@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capteur Hero 16K – Notre capteur gaming le plus avancé avec un suivi 1:1 précis et une efficacité énergétique leader de son secteur. Le capteur HERO 16K atteint 16 000 PPP maximum, sans aucun lissage, filtrage ou accélération
-- Roulette de Défilement Ultra-rapide Double Mode – Basculez entre les modes de défilement à la volée via des menus, utilisez les crans pour sélectionner vos armes ou sorts, et appliquez des combinaisons de touches pour faire défiler vers le haut ou vers le bas
-- 240 Heures avec Une Pile AA – Jouez jusquà 240 heures en mode Lightspeed ou jusquà 5 mois et demi en mode Bluetooth avec une seule pile AA grâce à lefficacité énergétique révolutionnaire
+- 15 Commandes Programmables, jusquà 240 Heures de Longévité des Piles, Modes Double Connectivité sans Fil, Roulette de Défilement Hyper Rapide et Capteur Hero 16K Hautes Performances - Black. Maîtrisez votre arsenal dans les jeux tactiques tels que les Battle Royale, les MMO et les MOBA avec 15 commandes positionnées de façon tactique, dont six boutons sur le pouce
 - Taux de rapport sans fil LIGHTSPEED : 1000 Hz (1 ms)
 - Double Connectivité Avec Lightspeed – Basculez entre le confort du Bluetooth et lextrême rapidité de 1 ms de la technologie sans fil avancée Lightspeed
-- 15 Commandes Programmables, jusquà 240 Heures de Longévité des Piles, Modes Double Connectivité sans Fil, Roulette de Défilement Hyper Rapide et Capteur Hero 16K Hautes Performances - Black. Maîtrisez votre arsenal dans les jeux tactiques tels que les Battle Royale, les MMO et les MOBA avec 15 commandes positionnées de façon tactique, dont six boutons sur le pouce
+- 240 Heures avec Une Pile AA – Jouez jusquà 240 heures en mode Lightspeed ou jusquà 5 mois et demi en mode Bluetooth avec une seule pile AA grâce à lefficacité énergétique révolutionnaire
+- Roulette de Défilement Ultra-rapide Double Mode – Basculez entre les modes de défilement à la volée via des menus, utilisez les crans pour sélectionner vos armes ou sorts, et appliquez des combinaisons de touches pour faire défiler vers le haut ou vers le bas
 
 [🛒 Achète-le!!]({{< param buyurl >}})

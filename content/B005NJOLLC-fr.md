@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Silhouette généreuse pour un style professionnel haut de gamme et un confort décriture suprême
 - Une plume lisse en acier inoxydable et or fin 23 karats au débit régulier, confectionnée dans les règles de lart et ornée de lemblème de Waterman
 - Présenté dans un coffret cadeau bleu foncé haut de gamme Waterman ; cadeau idéal pour célébrer un diplôme, une promotion ou un nouvel emploi
-- Corps sophistiqué laqué noir brillant avec clip et attributs dorés à lor fin 23 karats et large bague arborant le nom de la marque
+- Silhouette généreuse pour un style professionnel haut de gamme et un confort décriture suprême
 - Confectionné en France avec le plus grand soin pour sublimer votre écriture
+- Corps sophistiqué laqué noir brillant avec clip et attributs dorés à lor fin 23 karats et large bague arborant le nom de la marque
 
 [🛒 Achète-le!!]({{< param buyurl >}})
