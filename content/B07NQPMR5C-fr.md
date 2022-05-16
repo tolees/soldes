@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOUTON STRENGTH (INTENSITÉ) Déterminez lintensité de votre boisson : douce, moyenne ou forte en appuyant simplement sur un bouton.
 - TOUS LES TYPES DE THÉ Les fonctions préprogrammées une touche et les réglages personnalisables offrent des conditions de préparation idéales pour les thés noirs, verts, blancs et Oolong ainsi que pour les infusions.
-- CHAUFFE-EAU Vous avez besoin de faire bouillir de leau pour une toute autre raison ? Pas de souci, la machine the Tea Maker Compact fera bouillir de leau pour dautres boissons.
 - BOUTON KEEP WARM (MAINTIEN AU CHAUD) La fonction maintient votre boisson préférée à la température idéale pendant 60 minutes et peut être activée avant, pendant ou après le cycle de chauffe de leau.
-- CAPACITÉ COMPACTE Capacité 4 tasses. Réalisez la tasse de thé parfaite, pour vous ou plusieurs personnes.
 - INFUSION PARFAITE Le filtre à thé entièrement automatisé descend et remonte à des températures deau parfaites, agitant doucement les feuilles et infusant avec précision votre thé pour bénéficier de tous ses arômes. Il faut le voir pour le croire.
+- CHAUFFE-EAU Vous avez besoin de faire bouillir de leau pour une toute autre raison ? Pas de souci, la machine the Tea Maker Compact fera bouillir de leau pour dautres boissons.
+- CAPACITÉ COMPACTE Capacité 4 tasses. Réalisez la tasse de thé parfaite, pour vous ou plusieurs personnes.
+- BOUTON STRENGTH (INTENSITÉ) Déterminez lintensité de votre boisson : douce, moyenne ou forte en appuyant simplement sur un bouton.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
