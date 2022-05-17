@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonction stand 2 positions
-- Emplacement S PEN
 - Protection des angles renforcée
+- Emplacement S PEN
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
