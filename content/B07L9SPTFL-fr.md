@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Lunité-parents est dotée dun écran lcd couleur de 3.5", dune vision infrarouge, dun zoom x2 et un capteur de température
 - Très longue portée: jusquà 300m en extérieur, 50m en intérieur
-- Technologie adaptive fhss (étalement de spectre par saut de fréquence): pour des interférences minimes et une connexion privée/sécurisée à votre bébé
 - Jusquà 10 heures dautonomie, 5 berceuses et veilleuses incluses
 - Mode éco: une consommation dénergie optimisée lorsque le bébé est calme tout en restant connecté.
+- Technologie adaptive fhss (étalement de spectre par saut de fréquence): pour des interférences minimes et une connexion privée/sécurisée à votre bébé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
