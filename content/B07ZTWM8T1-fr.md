@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Attaches rapides en acier
-- Disponible en plusieurs couleurs
 - Les produits Withings sur Amazon doivent être "expédiés et vendus par" Amazon ou Withings pour être éligibles à la garantie/remplacement par Withings
-- Bracelet Premium en acier inoxydable
-- Convient aux montres Withings 36 et 38 mm
+- Disponible en plusieurs couleurs
 - Coloris disponible uniquement sur Amazon
+- Convient aux montres Withings 36 et 38 mm
+- Attaches rapides en acier
+- Bracelet Premium en acier inoxydable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

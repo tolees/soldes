@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 19 BARS DE PRESSION : la garantie dun espresso de qualité professionnelle
-- MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
+- BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
+- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
 - PRE-CHAUFFAGE RAPIDE : 25 secondes
 - Réparabilité 15 ans, Garantie 2 ans
-- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
 - Fréquence: 50/60 Hz
-- BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
 - RÉSERVOIR DEAU AMOVIBLE : 0,7 L
+- MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
