@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière du bracelet : acier inoxydable
-- Épaisseur du boîtier : 8 mm ; taille du boîtier : 43 mm
-- Présenté dans un coffret cadeau Emporio Armani
 - Largeur du bracelet : 22 mm ; longueur du bracelet : 200+/- 5 mm
+- Épaisseur du boîtier : 8 mm ; taille du boîtier : 43 mm
+- Matière du bracelet : acier inoxydable
 - Étanchéité : 5 ATM
+- Présenté dans un coffret cadeau Emporio Armani
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE EXPÉRIENCE DE LECTURE PERSONNALISÉE : des fonctionnalités facilement personnalisables vous aident à lire comme vous le souhaitez. Choisissez parmi plus de 50 tailles de police et 12 types de police ; avec des marges réglables, la possibilité de mettre en évidence des passages, d’écrire des notes et un dictionnaire intégré d’un simple toucher du doigt, les possibilités sont infinies.
-- ÉCRAN TACTILE ANTI-REFLET : similaire au livre papier avec son écran haute définition de 6’’ et 300PPI ; contrairement à votre tablette ou smartphone, cette liseuse dispose d’un écran anti-reflet pour que vous puissiez lire en plein soleil, tout comme le papier.
 - LUMINOSITÉ ET LA LUMIÈRE BLEUE RÉGLABLES : la Kobo Clara HD dispose de ComfortLight PRO pour ajuster la luminosité et la température de couleur de votre écran, pour réduire progressivement l’exposition à la lumière bleue, ce qui facilite la lecture en limitant la fatigue oculaire, afin que vous puissiez lire confortablement avant de vous coucher.
+- UNE EXPÉRIENCE DE LECTURE PERSONNALISÉE : des fonctionnalités facilement personnalisables vous aident à lire comme vous le souhaitez. Choisissez parmi plus de 50 tailles de police et 12 types de police ; avec des marges réglables, la possibilité de mettre en évidence des passages, d’écrire des notes et un dictionnaire intégré d’un simple toucher du doigt, les possibilités sont infinies.
 - TRANSPORTEZ JUSQU’À 6000 LIVRES : avec 8 Go de stockage, emportez toute votre collection de livres partout où vous allez ; accédez à plus de 6 millions de titres à tout moment, sur la librairie Kobo intégrée.
+- ÉCRAN TACTILE ANTI-REFLET : similaire au livre papier avec son écran haute définition de 6’’ et 300PPI ; contrairement à votre tablette ou smartphone, cette liseuse dispose d’un écran anti-reflet pour que vous puissiez lire en plein soleil, tout comme le papier.
 - LONGUE AUTONOMIE DE LA BATTERIE : la Kobo Clara HD a une autonomie de batterie qui dure des semaines, ce qui vous permet de profiter d’une lecture ininterrompue sur une seule charge ; dépend de l’utilisation individuelle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

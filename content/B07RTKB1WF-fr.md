@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Personnalisez le manche de la brosse avec 4 autocollants sur le thème de disney-pixar cars
+- Spécialement conçue pour un bross
 - Âge en douceur pour les enfants
 - Les poils ultra-souples sont doux sur les gencives fragiles
-- Brossette ronde pour petites bouches
 - Convient aux enfants de 3 ans et plus
-- Spécialement conçue pour un bross
+- Brossette ronde pour petites bouches
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Intérieur 1 poche zippée
 - Petit sac cabas zippé L.12.12 Concept uni
+- Intérieur 1 poche zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

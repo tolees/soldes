@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Console Nintendo Switch  Modèle OLED  avec Station d Accueil/Manettes Joy-Con Blanches'
-date: 2022-05-16 16:12:03
+date: 2022-05-18 16:30:34
 image: 'https://m.media-amazon.com/images/I/412H48W-S7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B098RJXBTY/?tag=tolees0d-21'
 descuento: '32.35'
-average: '329.648181818183'
+average: '329.085000000001'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
