@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
 - Le bon éclairage pour chaque moment de la journée Énergie Concentration Lecture Détente Contrôle facile et sans fil grâce à l’interrupteur avec variateur
-- IP44, parfaitement adapté à votre salle de bains
 - Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires
+- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
 - Contrôle facile et sans fil grâce à l’interrupteur avec variateur
+- IP44, parfaitement adapté à votre salle de bains
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

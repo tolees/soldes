@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut 3 mini poupées LEGO avec qui jouer : Olivia, le nouvel élève Julian et une figurine de professeur pour un jeu de rôle LEGO en classe
-- Accessoires supplémentaires : un vélo avec un casque, une balle, un ordinateur portable et un stylo, ainsi que des aliments et des tables de cantine
-- Dispose dune école sur 2 étages avec 3 salles de classe à construire et à explorer, ainsi quune cantine, des casiers, des toilettes et une aire de jeux extérieure
-- La salle de classe dart, de théâtre et de musique LEGO contient un coffre d’habillage créatif, une sélection dinstruments, des pinceaux, des peintures et un chevalet
+- Attaché à son support de base robuste, ce jouet pour enfants de 6 ans filles et garçons représente le cadeau d’anniversaire ou de Noël idéal
 - Faites découvrir le monde des jouets Heartlake City aux enfants qui aiment les scénarios réalistes et les héros de tous les jours
 - Avec son laboratoire scientifique doté d’un microscope et d’une coccinelle à étudier, ce jeu de construction permet de recréer la journée décole idéale
-- Attaché à son support de base robuste, ce jouet pour enfants de 6 ans filles et garçons représente le cadeau d’anniversaire ou de Noël idéal
+- Dispose dune école sur 2 étages avec 3 salles de classe à construire et à explorer, ainsi quune cantine, des casiers, des toilettes et une aire de jeux extérieure
+- La salle de classe dart, de théâtre et de musique LEGO contient un coffre d’habillage créatif, une sélection dinstruments, des pinceaux, des peintures et un chevalet
+- Accessoires supplémentaires : un vélo avec un casque, une balle, un ordinateur portable et un stylo, ainsi que des aliments et des tables de cantine
+- Inclut 3 mini poupées LEGO avec qui jouer : Olivia, le nouvel élève Julian et une figurine de professeur pour un jeu de rôle LEGO en classe
 
 [🛒 Achète-le!!]({{< param buyurl >}})

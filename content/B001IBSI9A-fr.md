@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIVRÉE AVEC: tige télescopique BT 350, support et équerre métallique
-- POSITIONNEMENT DE L’INSTRUMENT TRÈS SIMPLE : grande souplesse d’utilisation grâce au support à équerre métallique ; réglage grossier en poussant le bouton rouge, réglage fin en vissant la bride.
 - TRANSPORT FACILE : facile à transporter grâce à sa structure en aluminium légère
 - GRANDE STABILITɠ: grande stabilité sur tous les sols grâce à sa conception en aluminium robuste et ses surfaces antidérapantes au niveau du pied et de la tête.
+- LIVRÉE AVEC: tige télescopique BT 350, support et équerre métallique
 - MONTAGE RAPIDE : montage simple et rapide grâce au réglage télescopique de la tige
+- POSITIONNEMENT DE L’INSTRUMENT TRÈS SIMPLE : grande souplesse d’utilisation grâce au support à équerre métallique ; réglage grossier en poussant le bouton rouge, réglage fin en vissant la bride.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

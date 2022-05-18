@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIVRÉ AVEC : GCL 2-15 G support rotatif RM 1 Professional, 3 piles 1,5 V LR6 (AA), cible laser, coffret de transport, calage
 - USAGE PROFESSIONNEL : laser combiné en croix avec points d’aplomb, endurant et idéal pour les mises à niveau par forte luminosité ambiante
-- BON VISIBILITÉ : laser ligne vert pour une visibilité quatre fois meilleure et points d’aplomb rouges pour des reports et équerrages précis
-- CARACTÉRISTIQUES TECHNIQUES : classe laser 2, IP 54, plage d’auto-nivellement ± 4°, précision de mise à niveau ± 0,3 mm/m
+- LIVRÉ AVEC : GCL 2-15 G support rotatif RM 1 Professional, 3 piles 1,5 V LR6 (AA), cible laser, coffret de transport, calage
 - ALIGNEMENT RAPIDE : alignement facile des lignes laser autour des points d’aplomb grâce au support multifonctions rotatif RM 1 Professional
+- CARACTÉRISTIQUES TECHNIQUES : classe laser 2, IP 54, plage d’auto-nivellement ± 4°, précision de mise à niveau ± 0,3 mm/m
+- BON VISIBILITÉ : laser ligne vert pour une visibilité quatre fois meilleure et points d’aplomb rouges pour des reports et équerrages précis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
