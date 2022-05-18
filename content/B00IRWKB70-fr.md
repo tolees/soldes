@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Nespresso - Krups Inissia rouge  Machine à café Nespresso  Cafetière expresso à dosettes  Compacte Automatique  Pression 19 bars YY1531FD'
-date: 2022-05-17 07:32:14
+date: 2022-05-18 19:31:52
 image: 'https://m.media-amazon.com/images/I/41TPW1-mR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Krups Nespresso'
 buyurl: 'https://www.amazon.fr/dp/B00IRWKB70/?tag=tolees0d-21'
 descuento: '20.09'
-average: '73.5016666666666'
+average: '73.7575999999999'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réparabilité 15 ans, Garantie 2 ans
-- Fréquence: 50/60 Hz
-- MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
-- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
-- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
-- PRE-CHAUFFAGE RAPIDE : 25 secondes
 - 19 BARS DE PRESSION : la garantie dun espresso de qualité professionnelle
+- MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
+- PRE-CHAUFFAGE RAPIDE : 25 secondes
+- Réparabilité 15 ans, Garantie 2 ans
+- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
+- Fréquence: 50/60 Hz
 - BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
+- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
