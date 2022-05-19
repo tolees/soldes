@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Habitdesign - Table de bureau 3 tiroirs  Table d écriture  Modèle Stylus  Finition Blanc Artik  Dimensions : 138  L  x 60 cm  P  x 74  H '
-date: 2022-05-15 12:45:38
+date: 2022-05-19 20:15:58
 image: 'https://m.media-amazon.com/images/I/31eI3UbQ00L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 138 x 60 x 74 cm.
 - Couleur : blanc mat.
 - Commode avec 3 tiroirs intégrés dans le bureau
-- Bureau avec caisson
+- Dimensions : 138 x 60 x 74 cm.
 - Matériau : mélamine.
+- Bureau avec caisson
 
 [🛒 Achète-le!!]({{< param buyurl >}})

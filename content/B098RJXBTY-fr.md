@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Console Nintendo Switch  Modèle OLED  avec Station d Accueil/Manettes Joy-Con Blanches'
-date: 2022-05-18 16:30:34
+date: 2022-05-19 21:00:46
 image: 'https://m.media-amazon.com/images/I/412H48W-S7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B098RJXBTY/?tag=tolees0d-21'
 descuento: '32.35'
-average: '329.085000000001'
+average: '328.554000000001'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Elle dispose d’un écran OLED plus grand aux couleurs intenses et aux contrastes élevés
 - La Nintendo Switch (modèle OLED) possède des dimensions proches de celles de la Nintendo Switch
+- Elle dispose d’un écran OLED plus grand aux couleurs intenses et aux contrastes élevés
 - Elle dispose aussi d’un large support ajustable pour le jeu en mode sur table, d’une nouvelle station d’accueil.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
