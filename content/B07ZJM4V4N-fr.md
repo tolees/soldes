@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu en coton doux et confortable
-- Pantalon de survêtement avec poignets côtelés
 - Fermeture : cordon de serrage
-- Composition : 100 % coton
-- Collection : continue
-- Modèle : JJIGORDON JJSHARK SWEAT PANTS VIY NOOS
-- 100 % coton
+- Pantalon de survêtement avec poignets côtelés
+- Tissu en coton doux et confortable
 - Ceinture élastique et cordon de serrage
+- Modèle : JJIGORDON JJSHARK SWEAT PANTS VIY NOOS
+- Collection : continue
+- Composition : 100 % coton
+- 100 % coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

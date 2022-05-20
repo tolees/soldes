@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Polo Lacoste regular fit en coton chiné avec bandes siglées
 - Mini piqué de coton stretch chiné
+- Polo Lacoste regular fit en coton chiné avec bandes siglées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
