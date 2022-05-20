@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VISION NOCTURNE EN COULEUR: Projecteur intégré pour une vision de nuit en couleur ou en noir et blanc
-- ETANCHE: Construit pour résister à la pluie, neige, au froid et au soleil pour une protection fiable
-- INTEGRATION SMART HOME: Contrôlez votre caméra Arlo Essential security avec Amazon Alexa, Google assistant et Apple Homekit quand connecté à un, Arlo Smarthub (VMB5000)
-- SERVICE ARLO : Souscrivez au service Arlo Secure et débloquez des fonctionnalités avancées pour votre caméra et personnalisez votre sécurité. Essai gratuit de 90 jours inclus
 - 360 SECURITE: Utilisez les caméras Arlo essential en complément dautres caméras de surveillance WiFi, sonnette de porte avec vidéo et projecteur pour délivrer une protection complète de votre propriété
-- AUDIO BIDIRECTIONNEL: ecoutez et parlez à qui que se soit dans votre maison depuis votre smartphone à travers le haut parleur et micro intégré, une alarme intégrée qui peut se déclencher automatiquement.
-- NOTIFICATION INSTANTANEES: Connectez vous à lapplication Arlo et recevez les alertes instantanées lors de la détection de movement
-- SIMPLE DUTILISATIOIN: 100 % sans fil, le Arlo essential est facile à installer à tout endroit
+- INTEGRATION SMART HOME: Contrôlez votre caméra Arlo Essential security avec Amazon Alexa, Google assistant et Apple Homekit quand connecté à un, Arlo Smarthub (VMB5000)
 - 365 jours de protection avec une charge. La batterie longue durée de notre vous offre un an de surveillance sans avoir à recharger
+- VISION NOCTURNE EN COULEUR: Projecteur intégré pour une vision de nuit en couleur ou en noir et blanc
+- NOTIFICATION INSTANTANEES: Connectez vous à lapplication Arlo et recevez les alertes instantanées lors de la détection de movement
 - QUALITE VIDEO: 1080p HD vidéo en diffusion directe de votre autonome caméra de surveillance WiFi en clair haute résolution 1080p HD vidéo
+- AUDIO BIDIRECTIONNEL: ecoutez et parlez à qui que se soit dans votre maison depuis votre smartphone à travers le haut parleur et micro intégré, une alarme intégrée qui peut se déclencher automatiquement.
+- SIMPLE DUTILISATIOIN: 100 % sans fil, le Arlo essential est facile à installer à tout endroit
+- SERVICE ARLO : Souscrivez au service Arlo Secure et débloquez des fonctionnalités avancées pour votre caméra et personnalisez votre sécurité. Essai gratuit de 90 jours inclus
+- ETANCHE: Construit pour résister à la pluie, neige, au froid et au soleil pour une protection fiable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

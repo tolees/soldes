@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- grille repliable
 - écart entre les grilles : 2,2 mm
+- grille repliable
 - made in Italy
 - avec râtelier
 
