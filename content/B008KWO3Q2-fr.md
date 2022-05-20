@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour le haut du bras : le manchon est adapté aux circonférences du haut du bras de 22 à 36 cm. Il possède un grand écran qui affiche les valeurs de systole, de diastole et de pouls ainsi que la date et lheure.
+- À la maison ou en déplacement : le tensiomètre BU 510 est livré avec un sac de rangement supplémentaire pratique pour un transport facile et sûr.
 - Dispositif médical : pour un contrôle autonome de la tension artérielle avec une échelle de couleurs à feux tricolores pour une classification simple des résultats de mesure. En plus de la mesure de la pression artérielle proprement dite, une mesure du pouls est également effectuée.
 - Fonction mémoire : Le tensiomètre à bras est équipé dune mémoire interne qui vous permet denregistrer 90 résultats de mesure pour 2 utilisateurs.
-- À la maison ou en déplacement : le tensiomètre BU 510 est livré avec un sac de rangement supplémentaire pratique pour un transport facile et sûr.
-- Pour le haut du bras : le manchon est adapté aux circonférences du haut du bras de 22 à 36 cm. Il possède un grand écran qui affiche les valeurs de systole, de diastole et de pouls ainsi que la date et lheure.
 - Rythme cardiaque irrégulier : le BU 510 peut indiquer déventuelles arythmies du pouls. Seul votre médecin peut évaluer le type et la gravité dune arythmie.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

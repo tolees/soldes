@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 5th Avenue NYC eau de parfum spray
 - Ingredients: Alcohol Denat., Parfum (Fragrance)
 - Note de cœur : Cassis, Jasmin, Pivoine et prunier
-- Laissez-vous transporter par une fragrance élégante pour une célébration parfumée de la femme dynamique
-- 5th Avenue NYC eau de parfum spray
 - Number of items: 1.0
-- Note de tête : bergamote, pêche et pomme
+- Laissez-vous transporter par une fragrance élégante pour une célébration parfumée de la femme dynamique
 - Note de fond : ambre, vanille, tonka, musc et bois de santal
+- Note de tête : bergamote, pêche et pomme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

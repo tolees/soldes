@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Du 1er avril au 15 mai 2022 inclus, Samsung vous rembourse jusqu’à 100€ pour l’achat d’une Galaxy Tab S7 FE (tous modèles, tous coloris). Voir conditions sur samsung.com/fr/offer ou dans la brochure dans la section "Guides produits et documents"
-- Tournez la caméra à votre avantage
 - Une immersion totale
-- Une batterie adaptée à vos journées chargées
 - Passez au niveau supérieur
+- Du 1er avril au 15 mai 2022 inclus, Samsung vous rembourse jusqu’à 100€ pour l’achat d’une Galaxy Tab S7 FE (tous modèles, tous coloris). Voir conditions sur samsung.com/fr/offer ou dans la brochure dans la section "Guides produits et documents"
+- Une batterie adaptée à vos journées chargées
+- Tournez la caméra à votre avantage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
