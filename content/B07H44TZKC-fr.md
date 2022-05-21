@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement sans fil grâce à la batterie au lithium-ion. Température de fonctionnement: 5 à 35 ° C (42 à 95 ° F)
 - Pouvez scanner deux ou plusieurs documents plus petits, comme cartes de visite, en même temps
 - Vous permet de choisir deux alimentations papier, selon le type de document
+- Fonctionnement sans fil grâce à la batterie au lithium-ion. Température de fonctionnement: 5 à 35 ° C (42 à 95 ° F)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
