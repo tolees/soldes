@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détection d’obstacle : TrueDetect 3D
 - Cartographie optimisée : TrueMapping
+- Détection d’obstacle : TrueDetect 3D
 - Station de vidage automatique : jusqu’à 30 jours de tranquillité
 - Système de nettoyage pression : OZMO Pro
 
