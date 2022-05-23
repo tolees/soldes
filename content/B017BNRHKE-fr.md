@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pour les systèmes numériques Connecteur USB
-- Fonctions des pédales configurables pour un style de transcription personnalisé
 - Logiciel de configuration Philips SpeechControl
-- USB
 - Contrôle de diffusion rapide et efficace pour des transcriptions plus rapides et plus précises
+- USB
+- Fonctions des pédales configurables pour un style de transcription personnalisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

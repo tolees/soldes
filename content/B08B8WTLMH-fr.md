@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CM MSI MAG B550M Mortar  911-7C94-006  7697 Carte mère 7C94-006R'
-date: 2022-05-16 20:10:07
+date: 2022-05-23 20:49:32
 image: 'https://m.media-amazon.com/images/I/51IcDXEthIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Remarque - Le BIOS de la carte mère a besoin dune mise à jour pour les processeurs plus récents
 - Le réseau LAN 2,5 G avec MSI LAN Manager assure une excellente performance de réseau et une expérience de jeu en ligne
 - Alimenté par AMD Ryzen 9, Ryzen7, Ryzen 5 AM4 de 3e génération pour maximiser la connectivité et la vitesse avec double M2, PCIe 40, USB 32 Gen2 et jusquà 128 Go de DDR4 (4400 MHz)
-- Remarque - Le BIOS de la carte mère a besoin dune mise à jour pour les processeurs plus récents
 - Avec les processeurs Ryzen de 3e génération, cette carte mère dispose de la dernière solution Lightning Gen 4 sur les ports PCI-E et M2
 - Amplificateur audio qui récompense vos oreilles avec un son de qualité studio pour une expérience de jeu la plus immersive
 

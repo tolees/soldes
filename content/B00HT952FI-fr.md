@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capots de protection sur les deux côtés
-- Bande de ponçage
-- Pare-étincelles réglable avec une grande vitre de protection
-- Porte-outils réglables
 - Meule de ponçage à gros grains
+- Bande de ponçage
+- Porte-outils réglables
+- Capots de protection sur les deux côtés
+- Pare-étincelles réglable avec une grande vitre de protection
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

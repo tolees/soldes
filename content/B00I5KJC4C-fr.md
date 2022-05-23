@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Six boissons chaudes pré-programmé et fonction eau chaude
-- Contenu de la livraison : Delonghi Nespresso en 750. MB Lattissima Pro
-- Quantité de café et de lait programmable individuellement
 - Réservoir à lait amovible (0,5 l) avec panneau de commande tactile avec capteur auto Clean intégré selbsterklärendem
+- Contenu de la livraison : Delonghi Nespresso en 750. MB Lattissima Pro
 - Temps de préchauffage rapide : prêt à lemploi en seulement 25 secondes
+- Quantité de café et de lait programmable individuellement
+- Six boissons chaudes pré-programmé et fonction eau chaude
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
