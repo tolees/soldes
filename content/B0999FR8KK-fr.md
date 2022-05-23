@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond
 - T-shirt Mickey Mouse
-- Coupe classique
 - Imprimé Mickey Mouse en relief
 - Manches courtes
+- Coupe classique
+- Col rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

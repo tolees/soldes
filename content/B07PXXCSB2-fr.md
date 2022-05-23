@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions du colis en cm : H 67 | P 50 | L 55
+- Fixation sur le véhicule avec harnais à trois points fourni au véhicule
 - Siège anatomique homologué pour les groupes 1, 2 et 3 (de 9 à 36 kg)
 - Dimensions ouvert : H 64/76 | P 54,5/66 | L 50
-- Fixation sur le véhicule avec harnais à trois points fourni au véhicule
-- Housse amovible et lavable, appuie-tête réglable à plusieurs hauteurs, inclinaison du dossier multi-positions
 - Ceinture de sécurité à 5 points
+- Housse amovible et lavable, appuie-tête réglable à plusieurs hauteurs, inclinaison du dossier multi-positions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
