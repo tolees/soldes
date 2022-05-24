@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Switchs Omron haute durabilité : prévus pour plus de 50 millions de clics
+- Trois moyens de jouer : Technologie Slipstream Corsair Wireless ultrarapide et inférieure à 1 ms, Bluetooth à faible latence ou câble USB. Taux de rapport Sélectionnable: 1000 Hz / 500 Hz / 250 Hz / 125 Hz
+- Le confort quand ça compte : forme profilée spécialement conçue pour épouser la forme de la paume et s’adapter aux grandes mains. Type de jeu : FPS, MOBA
+- Capteur optique gaming puissamment précis : capteur natif personnalisé Pixart PMW3391 de 18 000 DPI réglable par paliers de résolution d’1 DPI offrant une personnalisation complète de la sensibilité pour un suivi ultraprécis
+- Dix boutons entièrement programmables : vous permettent de personnaliser votre style de jeu, avec des macros et des remappages de touche vous donnant l’avantage
 - Câble: Fibre tressée de 1,8 m . Boutons de programmation : 10
 - Autonomie de la batterie : 2,4 GHz SLIPSTREAM : jusquà 16 heures avec éclairage standard ou 24 heures avec éclairage éteint. Bluetooth : jusquà 30 heures avec éclairage standard ou 50 heures avec éclairage éteint
-- Dix boutons entièrement programmables : vous permettent de personnaliser votre style de jeu, avec des macros et des remappages de touche vous donnant l’avantage
-- Trois moyens de jouer : Technologie Slipstream Corsair Wireless ultrarapide et inférieure à 1 ms, Bluetooth à faible latence ou câble USB. Taux de rapport Sélectionnable: 1000 Hz / 500 Hz / 250 Hz / 125 Hz
-- Capteur optique gaming puissamment précis : capteur natif personnalisé Pixart PMW3391 de 18 000 DPI réglable par paliers de résolution d’1 DPI offrant une personnalisation complète de la sensibilité pour un suivi ultraprécis
-- Le confort quand ça compte : forme profilée spécialement conçue pour épouser la forme de la paume et s’adapter aux grandes mains. Type de jeu : FPS, MOBA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
