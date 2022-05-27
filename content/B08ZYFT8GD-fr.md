@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thomas Earnshaw Montre Automatique ES-8134-11'
-date: 2022-05-19 20:29:19
+date: 2022-05-27 06:28:42
 image: 'https://m.media-amazon.com/images/I/41bVM9nMj5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mouvement automatique double rétrograde avec jours
 - Cadran noir ouvert
 - Bracelet argenté en acier inoxydable
+- Mouvement automatique double rétrograde avec jours
 - Boitier rond en acier inoxydable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
