@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Xperia 5 III | Smartphone Android  Téléphone Portable 5G  Ecran 6.1" 21:9 CinemaWide™ HDR OLED 120Hz  4 objectifs ZEISS T*  8Go RAM  IP65/68 - Noir'
-date: 2022-05-29 02:08:04
+date: 2022-05-30 03:49:30
 image: 'https://m.media-amazon.com/images/I/318-LHNeNmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Xperia 5 III délivre une puissance et des performances irréprochables tout en tenant parfaitement dans votre main ou votre poche.
-- Étendez vos possibilités créatives grâce à 4 objectifs polyvalents intégrés à un appareil photo triple capteur et associés à une mise au point automatique rapide et précise
-- Du 18 mars au 24 avril 2022, une carte cadeau de 50€ PlaystationTM Store et un Casque bluetooth WH-CH710 Offerts
 - Ecran 21:9 CinemaWide 120Hz avec réduction de flou cinétique jusquà 240Hz pour une expérience de jeu inédite.
-- Le suivi des objets - une technologie professionnelle issue de notre gamme dappareil photo Alpha - assure la netteté des sujets se déplaçant rapidement
 - Le Xperia 5 III a été conçu pour offrir une expérience découte véritablement authentique, que vous utilisiez un casque ou bien les haut-parleurs stéréo qui permettent dapprécier une gamme de son complète.
+- Le Xperia 5 III délivre une puissance et des performances irréprochables tout en tenant parfaitement dans votre main ou votre poche.
+- Le suivi des objets - une technologie professionnelle issue de notre gamme dappareil photo Alpha - assure la netteté des sujets se déplaçant rapidement
+- Du 18 mars au 24 avril 2022, une carte cadeau de 50€ PlaystationTM Store et un Casque bluetooth WH-CH710 Offerts
+- Étendez vos possibilités créatives grâce à 4 objectifs polyvalents intégrés à un appareil photo triple capteur et associés à une mise au point automatique rapide et précise
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
