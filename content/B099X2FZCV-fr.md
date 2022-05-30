@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSTRUCTION D’UNE TOUR : à tour de rôle, les joueurs doivent lancer le dé et placer ou enlever le nombre de pièces indiqué
 - UN JEU UNIQUE DE STRATÉGIE ET DE DEXTÉRITÉ pour toute la famille : construire une tour et d’être le 1er joueur à placer toutes ses pièces sans la faire tomber
-- UN JEU DRÔLE ET EDUCATIF où les enfants devront comprendre et maitriser la gravité en utilisant leur motricité fine et leurs compétences stratégiques pour gagner
-- 48 PIÈCES DE DIFFÉRENTES TAILLES ET FORMES: il y a 4 couleurs au total ; chaque joueur aura 12 pièces avec 4 formes différentes
 - UNE BASE FLOTTANTE ET INSTABLE : la base flotte par effet de gravité. Chaque fois qu’un joueur place une pièce, la base bouge. Si la tour s’écroule, le joueur perd
+- CONSTRUCTION D’UNE TOUR : à tour de rôle, les joueurs doivent lancer le dé et placer ou enlever le nombre de pièces indiqué
+- 48 PIÈCES DE DIFFÉRENTES TAILLES ET FORMES: il y a 4 couleurs au total ; chaque joueur aura 12 pièces avec 4 formes différentes
+- UN JEU DRÔLE ET EDUCATIF où les enfants devront comprendre et maitriser la gravité en utilisant leur motricité fine et leurs compétences stratégiques pour gagner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
