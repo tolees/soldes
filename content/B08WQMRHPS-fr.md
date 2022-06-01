@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les technologies Dynamic 4K et HDR nécessitent un téléviseur ou un écran compatible 4K et HDR.
+- Téléportez-vous pour traverser les champs de bataille et prendre lavantage au combat. Réparez les failles planétaires en résolvant des puzzles dimensionnels
 - Survolez les mégalopoles et traversez les dimensions avec de nouveau gadgets qui défient les lois de la physique.
 - Rencontrez des personnages connus de la licence et de nouveaux alliés à l’image d’une nouvelle résistante lombax
-- Téléportez-vous pour traverser les champs de bataille et prendre lavantage au combat. Réparez les failles planétaires en résolvant des puzzles dimensionnels
-- Les technologies Dynamic 4K et HDR nécessitent un téléviseur ou un écran compatible 4K et HDR.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
