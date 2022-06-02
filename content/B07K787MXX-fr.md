@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Memory slots available: 12
-- Produit destiné aux joueurs exigeants
-- Immersion exceptionnelle
-- Windows 7 64 bits
 - Qualité de fabrication irréprochable
-- Dimensions de lemballage de larticle: 5.4 L x 26.6 H x 24.2 W (centimeters)
-- CARTE MERE GIGABYTE
 - Matériel de haute qualité
+- Memory slots available: 12
+- Dimensions de lemballage de larticle: 5.4 L x 26.6 H x 24.2 W (centimeters)
 - Système dexploitation: Windows 10 64 bits
+- Windows 7 64 bits
+- Produit destiné aux joueurs exigeants
+- CARTE MERE GIGABYTE
+- Immersion exceptionnelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
