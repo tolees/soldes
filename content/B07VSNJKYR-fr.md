@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cafetière système de capsules de 15 bars de pression et système auto off à 5 minutes dinactivité, capable de faire du café de qualité professionnelle, chaud dès la première tasse grâce à son système Thermoblock
-- Durable
 - KRUPS
-- KP1A08
 - Cafetière système de capsules de 15 bars de pression et système auto off à 5 minutes dinactivité, capable de faire du café de qualité professionnelle, chaud dès la première tasse grâce à son système Thermoblock
+- Cafetière système de capsules de 15 bars de pression et système auto off à 5 minutes dinactivité, capable de faire du café de qualité professionnelle, chaud dès la première tasse grâce à son système Thermoblock
+- KP1A08
+- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
