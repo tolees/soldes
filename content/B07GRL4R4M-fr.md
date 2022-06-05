@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Confortable: peut être portée horizontalement ou verticalement.
 - Personnalisation: personnalisation possible, grâce aux différents outils et boîtes daccessoires.
 - Contenu de la livraison: Boîtier vide taille S, carton
-- Confortable: peut être portée horizontalement ou verticalement.
 - Peu encombrant et pratique: grâce à son empilabilité et ses dimensions de 390 x 121 x 343 (en mm)
 - Polyvalent: aussi bien dans le domaine du bricolage pour organiser des outils que pour le loisir (pour les équipements de pêche par exemple).
 

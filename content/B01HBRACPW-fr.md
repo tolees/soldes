@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Apaise et purifie le cuir chevelu pour une sensation relaxante immédiate.
-- Combat les causes du cuir chevelu sensible et Traite les cheveux en les laissant doux et souples.
-- Nourrit les longueurs et apporte souplesse pour une douceur inégalée.
-- CONSEILS DAPPLICATION : Répartir sur cheveux mouillés, masser et rincer.
 - BENEFICES: Hydrate et apaise les cuirs chevelus sensibles. Conçu pour les cheveux secs.
+- Apaise et purifie le cuir chevelu pour une sensation relaxante immédiate.
+- Nourrit les longueurs et apporte souplesse pour une douceur inégalée.
+- Combat les causes du cuir chevelu sensible et Traite les cheveux en les laissant doux et souples.
+- CONSEILS DAPPLICATION : Répartir sur cheveux mouillés, masser et rincer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appuyer sur le capot permet de lancer le scanner de K.I.T.T.
+- Le toit est amovible et lintérieur fidèle à la série.
 - Effets lumineux et sonores originaux (nécessite 2 piles 1,5V AAA non fournies).
 - Contient trois personnages et des accessoires.
-- Le toit est amovible et lintérieur fidèle à la série.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
