@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT1000P5PSSD8 SSD Interne P5 Plus 1To  PCIe 4.0  3D NAND  NVMe  M.2  jusqu à 6600Mo/s'
-date: 2022-06-03 07:01:58
+date: 2022-06-05 19:32:24
 image: 'https://m.media-amazon.com/images/I/318XTrj0rhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu avec notre propre NAND Micron 3D de pointe et notre technologie de contrôleur innovante de premier plan
-- Conçu pour les joueurs hardcore, les professionnels, les créatifs qui exigent le calcul haute performance; fonctionne bien avec PS5 et a une compatibilité avec les dissipateurs thermiques
-- Technologie PCIe 4.0 NVMe avec des vitesses de lecture séquentielle pouvant atteindre 6600 Mo/s
-- Bénéficie d’une garantie limitée de 5 ans ou d’un score d’endurance maximale de 600 TBW
-- Un MTTF de plus de 2 millions d’heures pour une longévité et une fiabilité supérieures
+- 5-year limited warranty or up to the max endurance rating of 600TBW
+- Built on our own leading Micron Advanced 3D NAND and innovative controller technology
+- PCIe 4.0 NVMe technology with up to 6600MB/s sequential reads, random read/write 630K/700K IOPS
+- Engineered for hardcore gamers, professionals, creatives who demand high-performance computing, works well with PS5 and has Heatsink compatibility
+- Rated at MTTF greater than 2 million hours for extended longevity and reliability
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
