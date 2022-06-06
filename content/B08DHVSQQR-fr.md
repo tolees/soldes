@@ -31,7 +31,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Fonction de nettoyage avec réglage variable de la quantité deau
 - 13 capteurs de distance laser (LDS) pour une couverture à 360°.
 - Fonction de nettoyage et daspiration avec une grande puissance daspiration de 2000 Pa.
-- Planification intelligente avec cartes de lespace en temps réel et planification sélective des pièces individuelles avec zones de verrouillage virtuel et de nettoyage
 - Réservoir deau de 180 ml pour une surface de nettoyage allant jusquà 75 m².
+- Planification intelligente avec cartes de lespace en temps réel et planification sélective des pièces individuelles avec zones de verrouillage virtuel et de nettoyage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
