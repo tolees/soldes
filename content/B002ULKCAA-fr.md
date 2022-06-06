@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bloc de pile dorigine pour sirène extérieure SEFRX Delta Dore.
-- Lorsque la batterie doit être remplacée vous êtes averti par une alerte de la centrale dalarme Tyxal.
 - Le remplacement du bloc de pile se fait en mode maintenance sur la centrale dalarme
-- Les blocs de piles usagées sont à déposer dans un point de recyclage.
 - Entre le retrait de lancienne batterie et linsertion de la nouvelle, il est préconisé dattendre deux minutes
+- Les blocs de piles usagées sont à déposer dans un point de recyclage.
+- Lorsque la batterie doit être remplacée vous êtes averti par une alerte de la centrale dalarme Tyxal.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
