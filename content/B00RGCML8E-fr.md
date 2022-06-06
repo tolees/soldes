@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le siège-auto Affix a été soumis à des crash-tests rigoureux de façon à surpasser les normes de sécurité standard
-- Porte-gobelets intégrés
-- Connections Isocatch réglables d’une main, permettant de garder le booster attaché de façon sécurisé au siège du véhicule
 - Dossier ajustable facilement et d’une seule main
+- Porte-gobelets intégrés
+- Le siège-auto Affix a été soumis à des crash-tests rigoureux de façon à surpasser les normes de sécurité standard
 - Protections latérales renforcées incluses dans le dossier pour plus de sécurité
+- Connections Isocatch réglables d’une main, permettant de garder le booster attaché de façon sécurisé au siège du véhicule
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
