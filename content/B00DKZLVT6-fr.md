@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 39 x 39 x 107 cm
-- Tube dacier chromé
-- Gain de place
 - Verre trempé de 5 mm
+- Gain de place
+- Tube dacier chromé
 - Montage facile
+- 39 x 39 x 107 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

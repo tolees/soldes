@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Age minimum : 10 ans
 - Perles à repasser de petite taille : diamètre 2,5 mm
 - Quantité : environ 2000
-- Age minimum : 10 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
