@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FM London Fitted Boxer Shorty  Noir  Medium  Lot de 12  Homme'
-date: 2022-06-04 17:46:06
+date: 2022-06-07 17:09:48
 image: 'https://m.media-amazon.com/images/I/41h-XYdzB8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 12 boxers hipster pour homme
 - Mélange 95 % coton, 5 % élasthanne de qualité supérieure
+- Lot de 12 boxers hipster pour homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
