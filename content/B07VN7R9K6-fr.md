@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 100 % lin
 - Forme du col : Kent
 - Manches longues
-- 100 % lin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
