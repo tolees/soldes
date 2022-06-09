@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boucle ardillon gravée Lacoste
 - Ceinture réversible en cuir piqué à boucle gravée Lacoste
+- Boucle ardillon gravée Lacoste
 
 [🛒 Achète-le!!]({{< param buyurl >}})
