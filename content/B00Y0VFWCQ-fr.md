@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kikigagne? - Jeu de réflexion Kikigagne Black Stories Mort de Rire 2'
-date: 2022-06-08 00:59:52
+date: 2022-06-10 08:20:00
 image: 'https://m.media-amazon.com/images/I/41G4gaTS3mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jeu coopératif pour 2 à 20 enquêteurs.
 - Jeu en Français.
 - Joueurs : 2 à 20, Age : 14 ans +, Durée : 2 à 30 mins.
+- Un jeu coopératif pour 2 à 20 enquêteurs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

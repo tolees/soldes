@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SMARTMAX - SMX 404 - Click and Roll'
-date: 2022-06-06 15:48:58
+date: 2022-06-10 08:55:48
 image: 'https://m.media-amazon.com/images/I/51mCMPyOxfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

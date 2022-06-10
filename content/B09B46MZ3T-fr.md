@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équivalence de puissance minimale : 650 W - Alimentation recommandée : 750 W
-- Sorties : 3 x DisplayPort (1.4 avec DSC) ; 1 x HDMI (HDMI 2.1 VRR et FRL)
 - Puissance externe : 1 x 8 broches
 - Fréquence : horloge de base jusquà 2188 MHz ; horloge de jeu jusquà 2428 MHz ; augmentation de lhorloge jusquà 2607 MHz
+- Équivalence de puissance minimale : 650 W - Alimentation recommandée : 750 W
+- Sorties : 3 x DisplayPort (1.4 avec DSC) ; 1 x HDMI (HDMI 2.1 VRR et FRL)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
