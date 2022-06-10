@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - La structure en plastique traité anti-UV garantit la stabilité et la solidité du produit, ainsi que la durabilité des couleurs au fil du temps.
 - Ils pourront ainsi imiter leur sportif préféré en utilisant le panier ou bien la cage ! Ils auront aussi la possibilité de s’initier à l’escalade grâce au mur réversible qui sert aussi d’échelle.
 - Fun Center est une maison pleine de surprises sportives ! Ils passeront des journées entières à faire du toboggan, ou bien à s’affronter lors de matchs de basket ou de football.
-- Fabrication française.
 - Heureusement la maison avec le coin repas (table pique-nique) est un espace parfait pour que vos enfants puissent reprendre des forces en avalant leur goûter !
+- Fabrication française.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
