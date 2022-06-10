@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La voiture pour enfants LEGO dragster dispose d’un design aérodynamique impressionnant avec un pare-brise style jet, souligné d’un aileron et d’un motif nid d’abeille
-- Le modèle historique de voiture de course LEGO Dodge Challenger est doté d’un style élégant et unique avec une prise d’air sur le capot, un aileron et pot d’échappement latéral
-- Inclut 2 figurines de pilote de course LEGO avec des tenues Dodge et des casques de course pour se mettre en piste juste après la construction
 - Ce set de jeu LEGO Speed Champions de 627 pièces est un jouet pour enfants de 8 ans et plus, idéal en cadeau d’anniversaire ou toute autre occasion
 - Dispose de 2 jouets voitures de course LEGO pour enfants : la Mopar Dodge//SRT Top Fuel Dragster et la 1970 Dodge Challenger T/A
+- La voiture pour enfants LEGO dragster dispose d’un design aérodynamique impressionnant avec un pare-brise style jet, souligné d’un aileron et d’un motif nid d’abeille
+- Inclut 2 figurines de pilote de course LEGO avec des tenues Dodge et des casques de course pour se mettre en piste juste après la construction
+- Le modèle historique de voiture de course LEGO Dodge Challenger est doté d’un style élégant et unique avec une prise d’air sur le capot, un aileron et pot d’échappement latéral
 
 [🛒 Achète-le!!]({{< param buyurl >}})
