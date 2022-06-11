@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Greenworks Tools - Greenworks Coupe-bordures 40V 30cm sans Batterie et Chargeur  Alimentation Automatique du Fil  Contrôle de Vitesse Variable  Protège-Fleur G40LT'
-date: 2022-06-02 13:02:43
+date: 2022-06-10 22:28:45
 image: 'https://m.media-amazon.com/images/I/31EmZw89u2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Greenworks Tools'
 buyurl: 'https://www.amazon.fr/dp/B06WW7DPQ3/?tag=tolees0d-21'
 descuento: '17.99'
-average: '82.4'
+average: '82.3333333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
