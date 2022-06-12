@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabrication française
+- Grand miroir inclus
 - Etagères et charnières réglables
 - Bac à linge en tissu lavable
-- Grand miroir inclus
+- Fabrication française
 - Compartiment fermant à clé pour la sécurité des enfants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
