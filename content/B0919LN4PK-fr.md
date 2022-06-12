@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅AVEC ACCESSOIRES: la poussette est vendue avec une chancelière qui protègera les pieds contre le froid, une housse de pluie et un porte-gobelet pratique
-- ✅SURE: la poussette est équipée de ceintures 5 points avec coussinets et d’un arceau amovible des deux côtés. Elle a aussi une fonction AUTO LOCK, qui l’empêche de se déplier de façon involontaire lors du transport
 - ✅PRATIQUE: la capote est imperméable et a un filtre UPF 50+. Les roues avant sont pivotantes à 360 degrés et disposent d’une fonction de blocage pour la conduite tout droit. Toutes les roues sont amorties et fabriquées en mousse robuste, résistante aux crevaisons
+- ✅Ce produit bénéficie dune extension de garantie optionnelle de 10 ans. Veuillez vous référer au fichier PDF des conditions de garantie ci-dessous. Vous pouvez également trouver des informations sur la garantie sur le site Web du fabricant.
 - ✅FONCTIONNELLE: la poussette canne VESTO est destinée aux enfants dès la naissance jusqu’à 15 kg. Le siège peut être fixé dos ou face à la route. Le dossier s’incline dans une position couchée, et le repose-pieds dispose de 4 niveaux de réglage – ce qui crée un espace confortable pour dormir
 - ✅ERGONOMIQUE: le mécanisme CLICK & FOLD qui se trouve dans la poignée permet de plier la poussette avec une seule main. La capote extensible est équipée d’un tissu filet pour la ventilation et d’une fenêtre avec fermeture magnétique pour assurer le contact avec l’enfant. La poignée du parent peut être réglée sur 5 hauteurs, et le frein STOP & RIDE s’actionne par le haut (il n’abîme pas les chaussures)
-- ✅Ce produit bénéficie dune extension de garantie optionnelle de 10 ans. Veuillez vous référer au fichier PDF des conditions de garantie ci-dessous. Vous pouvez également trouver des informations sur la garantie sur le site Web du fabricant.
+- ✅SURE: la poussette est équipée de ceintures 5 points avec coussinets et d’un arceau amovible des deux côtés. Elle a aussi une fonction AUTO LOCK, qui l’empêche de se déplier de façon involontaire lors du transport
+- ✅AVEC ACCESSOIRES: la poussette est vendue avec une chancelière qui protègera les pieds contre le froid, une housse de pluie et un porte-gobelet pratique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
