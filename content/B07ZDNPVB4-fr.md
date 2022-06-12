@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Siège auto Cosi compatible avec toutes les poussettes Maxi-Cosi afin de les transformer en poussette 2 en 1 ou 3 en 1 si vous ajoutez une nacelle
-- Siège auto enfant équipé dun système de protections latérales qui absorbe les impacts latéraux
-- Le siège auto bébé Cabriofix peut sinstaller en un seul clic sur la Base FamilyFix ISOFIX (vendue séparément) pour une sécurité optimale ou tout simplement avec la ceinture de sécurité de la voiture
-- Siège auto Cosi Groupe 0+ utilisable de la naissance à 12 mois (13 kg environ)
-- Le réducteur molletonné apporte un confort parfait pour votre bébé
 - Siège auto ultra léger, Cabriofix vous accompagne dans tous vos déplacements, de la sortie de la maternité aux balades avec bébé
+- Siège auto Cosi Groupe 0+ utilisable de la naissance à 12 mois (13 kg environ)
+- Siège auto enfant équipé dun système de protections latérales qui absorbe les impacts latéraux
+- Siège auto Cosi compatible avec toutes les poussettes Maxi-Cosi afin de les transformer en poussette 2 en 1 ou 3 en 1 si vous ajoutez une nacelle
+- Le réducteur molletonné apporte un confort parfait pour votre bébé
+- Le siège auto bébé Cabriofix peut sinstaller en un seul clic sur la Base FamilyFix ISOFIX (vendue séparément) pour une sécurité optimale ou tout simplement avec la ceinture de sécurité de la voiture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

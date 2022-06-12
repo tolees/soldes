@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Huawei Share】 Travaillez sur deux projets en même temps et déplacez facilement les fichiers entre les écrans. Ou dupliquez lécran de votre ordinateur portable sur MatePad et utilisez le Huawei M-Pencil pour avoir le contrôle total de vos projets de design.
 - 【Multi-Finestre】 Multipliez vos possibilités avec la fonction multi-en-tête sur Huawei MatePad 11 tablette. Ouvrez jusquà 4 applications dans une sonde blindée, et personnalisez à tout le tour votre façon de travailler et de vivre.
-- Fréquence de mise à jour à 120 Hz, gamme chromatique DCI-P3 : Huawei MatePad 11 a une fréquence de mise à jour à 120 Hz pour une expérience de vision plus fluide. La gamme de couleurs DCI-P3 rend lécran couleur plus riche et plus vif lorsque vous regardez des vidéos.
 - 【 Certifié TÜV Rheinland Dual 】 La tablette Huawei MatePad 11 a obtenu la certification TÜV Rheinland Dual. Profitez de tous les avantages de la réduction de la lumière bleue sans changer les modes daffichage et sans dominants de couleur. Et vos yeux ne devront pas résister au scintillement.
 - Son Histen 7.0 : le système audio à quatre haut-parleurs et quatre canaux crée un monde sonore fantastique. Les basses puissantes et les aigus cristallins sont réglés par Harmon Kardon pour reproduire vos sons préférés exactement comme ils devraient être. 【Huawei M-Pencil de deuxième génération】Avec 4096 niveaux de sensibilité à la pression et à linclinaison, le Huawei M-Pencil de deuxième génération parvient à détecter tout mouvement minimum avec une latence de 2 ms presque imperceptible.
+- Fréquence de mise à jour à 120 Hz, gamme chromatique DCI-P3 : Huawei MatePad 11 a une fréquence de mise à jour à 120 Hz pour une expérience de vision plus fluide. La gamme de couleurs DCI-P3 rend lécran couleur plus riche et plus vif lorsque vous regardez des vidéos.
+- 【Huawei Share】 Travaillez sur deux projets en même temps et déplacez facilement les fichiers entre les écrans. Ou dupliquez lécran de votre ordinateur portable sur MatePad et utilisez le Huawei M-Pencil pour avoir le contrôle total de vos projets de design.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne vous souciez plus de votre batterie : le casque bénéficie de 44 heures dautonomie et se recharge en moins de 2 heures / Branchez le câble amovible pour une écoute illimitée
-- Livraison : 1 x JBL Tune 660 casque Bluetooth sans fil / 1 x housse de transport, 1 x câble de recharge, 1 x câble amovible et 1x mode demploi / Couleur : Blanc
 - Écoutez votre musique, et rien dautre : grâce à sa réduction active du bruit, oubliez le monde qui vous entoure et vibrez au rythme de vos morceaux favoris, délivrés par le son JBL Pure Bass
-- Profitez de votre musique quand vous le voulez, où que vous soyez : le JBL Tune 660, pliable et sans fil, vous fait profiter du son JBL Pure Bass pendant des heures sans que rien ne vous retienne
+- Livraison : 1 x JBL Tune 660 casque Bluetooth sans fil / 1 x housse de transport, 1 x câble de recharge, 1 x câble amovible et 1x mode demploi / Couleur : Blanc
 - Bénéficiez dune expérience mains-libres totale : grâce aux boutons situés directement sur loreillette, passez des appels ou choisissez votre musique facilement et intuitivement
+- Profitez de votre musique quand vous le voulez, où que vous soyez : le JBL Tune 660, pliable et sans fil, vous fait profiter du son JBL Pure Bass pendant des heures sans que rien ne vous retienne
+- Ne vous souciez plus de votre batterie : le casque bénéficie de 44 heures dautonomie et se recharge en moins de 2 heures / Branchez le câble amovible pour une écoute illimitée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
