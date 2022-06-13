@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Court externe: Piqué, 100% polyester; intime interne: fil double, 100% polyester
 - Ceinture élastique avec cordon de serrage
-- Sous interne
-- Adidas logo brodé
 - Climalite humidité Tissu
+- Adidas logo brodé
+- Sous interne
+- Court externe: Piqué, 100% polyester; intime interne: fil double, 100% polyester
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

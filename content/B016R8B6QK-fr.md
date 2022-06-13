@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le tissu Climalite élimine la transpiration de votre peau
 - Marque Adidas brodée
-- Short extérieur: piqué 100% polyester; Culotte intérieure: 100% polyester double tricot
-- Cordon de serrage à la taille élastique
 - Bref intérieur
+- Cordon de serrage à la taille élastique
+- Short extérieur: piqué 100% polyester; Culotte intérieure: 100% polyester double tricot
+- Le tissu Climalite élimine la transpiration de votre peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
