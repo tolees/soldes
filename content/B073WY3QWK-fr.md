@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Playstation 4
-- Pochette italienne - jeu entièrement jouable en anglais
 - Playstation 4
+- Pochette italienne - jeu entièrement jouable en anglais
 
 [🛒 Achète-le!!]({{< param buyurl >}})
