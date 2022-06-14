@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La prise en charge de lHDR 600 offre un contraste dynamique et un rendu des couleurs haute fidélité pour une meilleure immersion.
-- La technologie Nano IPS 1ms offre une vitesse ultra élevée avec une qualité graphique exceptionnelle pour une immersion totale.
 - Profitez du système déclairage Sphere Lighting 2.0 pour renforcer votre immersion dans le jeu, notamment grâce aux modes de Synchronisation Audio et Vidéo.
-- Avec un taux de rafraîchissement de 160 Hz (Overclock), les joueurs peuvent voir les actions senchaîner rapidement et de manière fluide.
+- La prise en charge de lHDR 600 offre un contraste dynamique et un rendu des couleurs haute fidélité pour une meilleure immersion.
 - La compatibilité avec G-SYNC supprime les déchirures décran et minimise les saccades pour une expérience de jeu plus fluide et plus rapide.
+- La technologie Nano IPS 1ms offre une vitesse ultra élevée avec une qualité graphique exceptionnelle pour une immersion totale.
+- Avec un taux de rafraîchissement de 160 Hz (Overclock), les joueurs peuvent voir les actions senchaîner rapidement et de manière fluide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

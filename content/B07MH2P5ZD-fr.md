@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des vitesses de transfert allant jusquà 3 430 Mo/s pour des temps de chargement améliorés
-- Disponible dans des capacités allant de 250 Go à 2 To
-- Un design élégant pour personnaliser votre plate-forme de jeu
 - Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
+- Un design élégant pour personnaliser votre plate-forme de jeu
+- Disponible dans des capacités allant de 250 Go à 2 To
 
 [🛒 Achète-le!!]({{< param buyurl >}})

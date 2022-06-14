@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Démarrage progressif
 - Fixe-câble
-- Conception ergonomique
-- Variateur électronique
 - Softgrip
+- Conception ergonomique
+- Démarrage progressif
+- Variateur électronique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3200 dpi
 - SOURIS ZOWIE S2
+- 3200 dpi
 
 [🛒 Achète-le!!]({{< param buyurl >}})
