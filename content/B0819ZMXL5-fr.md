@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un moteur électrique de 750 watts génère jusquà 207 bar et assure ainsi un débit allant jusquà 1,1 L/min, en fonction de la viscosité du liquide respectif
-- Un tuyau de pulvérisation extra long de 7,60 m pour un grand rayon de travail et un pistolet de pulvérisation léger avec gâchette à 4 doigts rendent le travail confortable
-- Aspiration directe avec tamis filtrant et buse de 517 mm pour un rendement élevé
-- Avec seulement 8 kg et la poignée pratique, le système de pulvérisation de peinture ACS3000 est très facile à transporter
 - Convient pour diverses peintures et liquides à base deau ou synthétique sans composants solides tels que peinture murale, vernis, teinture et sous-couches
+- Un tuyau de pulvérisation extra long de 7,60 m pour un grand rayon de travail et un pistolet de pulvérisation léger avec gâchette à 4 doigts rendent le travail confortable
+- Avec seulement 8 kg et la poignée pratique, le système de pulvérisation de peinture ACS3000 est très facile à transporter
+- Aspiration directe avec tamis filtrant et buse de 517 mm pour un rendement élevé
+- Un moteur électrique de 750 watts génère jusquà 207 bar et assure ainsi un débit allant jusquà 1,1 L/min, en fonction de la viscosité du liquide respectif
 
 [🛒 Achète-le!!]({{< param buyurl >}})

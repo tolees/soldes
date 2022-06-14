@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XFX RX-66XT8LBDQ Carte Graphique AMD Radeon RX 6600 XT 8 Go GDDR6 Noir'
-date: 2022-06-10 07:55:44
+date: 2022-06-14 21:11:04
 image: 'https://m.media-amazon.com/images/I/31n6nIhwIfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance externe : 1 x 8 broches
 - Fréquence : horloge de base jusquà 2188 MHz ; horloge de jeu jusquà 2428 MHz ; augmentation de lhorloge jusquà 2607 MHz
 - Équivalence de puissance minimale : 650 W - Alimentation recommandée : 750 W
 - Sorties : 3 x DisplayPort (1.4 avec DSC) ; 1 x HDMI (HDMI 2.1 VRR et FRL)
+- Puissance externe : 1 x 8 broches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
