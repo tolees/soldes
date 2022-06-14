@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Soutien souple sous le pied.
-- Dessus en daim.
-- Semelle intermédiaire en mousse EVA et talon pour amortissement.
 - Semelle extérieure en caoutchouc.
+- Semelle intermédiaire en mousse EVA et talon pour amortissement.
+- Dessus en daim.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

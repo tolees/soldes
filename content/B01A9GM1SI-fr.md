@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec éclairage LED pour une bonne visibilité de la zone de travail
 - Moteur puissant et engrenage métallique pour un couple élevé
-- Livré sans batterie, ni chargeur (disponible séparément)
+- Avec éclairage LED pour une bonne visibilité de la zone de travail
 - Mécanisme de frappe pneumatique pour des perçages très faciles dans le béton
 - 3 fonctions: vissage, perçage, perçage à percussion même dans le béton
+- Livré sans batterie, ni chargeur (disponible séparément)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

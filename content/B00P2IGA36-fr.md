@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Design raffiné avec parements en acier inoxydable, Matériau résistant aux acides, Nettoyage en profondeur recommandé avant la première utilisation pour éviter labrasion
 - Mortier massif avec pilon en granite poli non poreux pour le broyage et la trituration sans effort des ingrédients secs et humides selon la méthode traditionnelle
+- Transfert optimal de la force du pilon au mortier en pierre, Dimensions idéales (ø: 11 cm) et surface lisse adaptée au mélange direct des ingrédients, ex : pour la pâte de curry
 - Grande stabilité et protection du mobilier grâce aux pieds en caoutchouc antidérapants sous la base du mortier à épices, Entretien facile et sans résidus
 - Contenu : 1x Mortier avec pilon ZWILLING, Dimensions (LxlxH) : 15 x 15 x 10,2 cm, Diamètre : 11 cm (intérieur), Poids : 3,26 kg, Matériaux : Granite/Acier inoxydable, Couleur : Noir/Argent, 39500-024-0
-- Transfert optimal de la force du pilon au mortier en pierre, Dimensions idéales (ø: 11 cm) et surface lisse adaptée au mélange direct des ingrédients, ex : pour la pâte de curry
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
