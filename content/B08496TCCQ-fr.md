@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : 3 thermomètres/hygros, 3 piles CR2032, mode demploi
-- Dimensions : 45 x 58 x 13 mm - Poids : 31 g - Fonctionne avec 3 piles CR2032 (1 par capteur) (incluses dans la livraison)
-- Ce lot pratique de 3 pièces permet de contrôler plusieurs pièces et donc de les protéger contre la formation excessive dhumidité
-- Le lot de 3 indicateurs est à la fois thermomètre et hygromètre. Il sert à contrôler le climat intérieur et à prévenir la formation de moisissures. Les thermomètres/hygromètre peuvent être posés ou suspendus grâce au pied intégré.
 - Le niveau climatique de la pièce est représenté en plus des valeurs de température intérieure et dhumidité par un symbole smiley. La température est indiquée en °C.
+- Dimensions : 45 x 58 x 13 mm - Poids : 31 g - Fonctionne avec 3 piles CR2032 (1 par capteur) (incluses dans la livraison)
+- Le lot de 3 indicateurs est à la fois thermomètre et hygromètre. Il sert à contrôler le climat intérieur et à prévenir la formation de moisissures. Les thermomètres/hygromètre peuvent être posés ou suspendus grâce au pied intégré.
+- Ce lot pratique de 3 pièces permet de contrôler plusieurs pièces et donc de les protéger contre la formation excessive dhumidité
+- Contenu de la livraison : 3 thermomètres/hygros, 3 piles CR2032, mode demploi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
