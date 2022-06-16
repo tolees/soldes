@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adaptateur de pied inclus
-- Sélection entre quatre diagrammes polaires
-- Capteur de fonction mute par pression et témoin LED
 - Compatibilité multi-dispositif et chat
-- Pied amortisseur contre les vibrations
 - Filtre anti-pop interne
 - Molette de réglage du contrôle de gain pratique
+- Sélection entre quatre diagrammes polaires
+- Adaptateur de pied inclus
+- Capteur de fonction mute par pression et témoin LED
 - Prise casque intégrée
+- Pied amortisseur contre les vibrations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux poches passepoilées au niveau des hanches
-- Taille avec bandes Tommy à lintérieur
-- Panneau avec bandes Tommy au niveau de la taille
 - Deux poches arrière boutonnées
+- Taille avec bandes Tommy à lintérieur
 - Drapeau Tommy Hilfiger brodé sur les poches arrière
+- Panneau avec bandes Tommy au niveau de la taille
+- Deux poches passepoilées au niveau des hanches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
