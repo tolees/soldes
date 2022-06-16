@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Au cours des tests produits, cette mèche a démontré pouvoir percer 10 fois plus vite qu’une mèche plate standard
+- Type de source dalimentation: Manuel
+- Convient pour acier allié et non allié dune résistance maximale à la traction de 1000 N/mm²
 - Élimination rapide des copeaux et longévité des forets grâce aux deux taillants et à lhélice double
 - Alliage de cobalt et foret en acier rapide (HSS) pour une résistance à l’usure et une protection contre la chaleur
-- Convient pour acier allié et non allié dune résistance maximale à la traction de 1000 N/mm²
-- Type de source dalimentation: Manuel
-- Au cours des tests produits, cette mèche a démontré pouvoir percer 10 fois plus vite qu’une mèche plate standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})

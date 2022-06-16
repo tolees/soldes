@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tranchants trempés, dureté denv. 60 hrc
-- Dureté des tranchants env. 60 hrc
-- Acier à outils spécial, forgé, trempé à l?huile
-- Acier à outils spécial, forgé, trempé à l’huile
 - Tenaille à surface de frappe pour enfoncer des clous
+- Acier à outils spécial, forgé, trempé à l’huile
 - The leading pliers specialist
+- Acier à outils spécial, forgé, trempé à l?huile
+- Dureté des tranchants env. 60 hrc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
