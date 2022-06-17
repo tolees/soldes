@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GROSFILLEX 52149181 Table Vega 118 x 77  Taupe  118 x 77 x 72 cm'
-date: 2022-06-13 19:12:05
+date: 2022-06-17 17:22:46
 image: 'https://m.media-amazon.com/images/I/31amEdyn8IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'GROSFILLEX'
 buyurl: 'https://www.amazon.fr/dp/B00E0L5QRC/?tag=tolees0d-21'
 descuento: '17.86'
-average: '68.9600000000001'
+average: '68.9636363636365'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique : pied rabattable et plateau repliable
 - Matière du plateau: Plastique - Résine | Matière de la structure: Résine de synthèse
-- Grande stabilité du plateau. Pieds réglables pour une planéité parfaite
-- Facile dentretien
 - Résistance au soleil et aux intempéries
+- Grande stabilité du plateau. Pieds réglables pour une planéité parfaite
+- Pratique : pied rabattable et plateau repliable
+- Facile dentretien
 
 [🛒 Achète-le!!]({{< param buyurl >}})
