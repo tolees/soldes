@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Slim Core
-- Bracelet en acier
 - Boîtier en acier inoxydable
 - Garantie en boîte
 - Resistance a leau 3 ATM
+- Bracelet en acier
+- Slim Core
 
 [🛒 Achète-le!!]({{< param buyurl >}})
