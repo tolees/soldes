@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique et résistante, votre maison pourra servir des années comme espace de jeu grâce à son traitement anti-UV et ses matériaux solides ! Dimensions : 145 x 110 x 127cm. Facile à monter
 - A partir de 2 ans - Fabrication française
+- Pratique et résistante, votre maison pourra servir des années comme espace de jeu grâce à son traitement anti-UV et ses matériaux solides ! Dimensions : 145 x 110 x 127cm. Facile à monter
 - La cabane est très lumineuse grâce à son portillon et ses 2 fenêtres, mais si vos petits ont besoin dun peu dombre, ils nauront quà faire coulisser les 2 volets
-- Complète et design, la maison Pretty + cuisine été offre à vos enfants un grand espace pour jouer entre copains dans le jardin
 - Vos enfants pourront facilement se projeter avec la maison Pretty et sa cuisine dété ! Avec leurs petits copains, ils pourront imiter tous vos faits et gestes ! Ils cuisineront de bons petits plats grâce à la plaque "grill" et ses nombreux accessoires : saucisses, verres, assiettes, couverts, ... De quoi passer de bonnes journées au soleil
+- Complète et design, la maison Pretty + cuisine été offre à vos enfants un grand espace pour jouer entre copains dans le jardin
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Equipements : Cette maisonnette pour enfants comprend 2 portillons (situés à lavant et larrière de la maison), 2 fenêtres avec volets battants, 1 fente pour insérer le courrier ainsi quune véritable mangeoire à oiseaux.
-- Résistante : La cabane a une structure très robuste alliant façades en plastique soufflé et murs latéraux injectés ainsi quun traitement anti-UV.
 - Fabrication Française. À partir de 2 ans.
-- Personnalisable : Cette cabane peut être personnalisée avec de nombreux accessoires Smoby comme la cuisine dété, la grande porte, le récupérateur deau, lespace jardin,…
 - Design : La Maison Neo Jura Lodge a un design charmant et unique avec des couleurs qui sintégrent facilement dans votre jardin. Avec cette maisonnette, vos enfants pourront passer des journées entières avec leurs copains, simaginer de nombreuses histoires !
+- Personnalisable : Cette cabane peut être personnalisée avec de nombreux accessoires Smoby comme la cuisine dété, la grande porte, le récupérateur deau, lespace jardin,…
+- Résistante : La cabane a une structure très robuste alliant façades en plastique soufflé et murs latéraux injectés ainsi quun traitement anti-UV.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
