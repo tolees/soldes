@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KNIPEX Cobra QuickSet Pince multiprise de pointe  250 mm  87 22 250 SB  carte LS/blister '
-date: 2022-06-18 12:45:43
+date: 2022-06-19 13:07:16
 image: 'https://m.media-amazon.com/images/I/31bRLYFR-tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ouvrir intégralement, faire coulisser, serrer !
 - Allie l’enclenchement éprouvé et sûr de l’axe d’articulation à une fonction additionnelle de coulissement facilitant le travail en espaces très restreints et inaccessibles
 - carte LS/blister
 - Réglage rapide additionnel à même la pièce par coulissement
 - Le réglage à même la pièce s’opère par simple coulissement
+- Ouvrir intégralement, faire coulisser, serrer !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
