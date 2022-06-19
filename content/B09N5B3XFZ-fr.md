@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Grid Legends  Xbox One '
-date: 2022-06-16 16:15:14
+date: 2022-06-19 20:04:01
 image: 'https://m.media-amazon.com/images/I/519i5xFL5dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une histoire de pilotage incroyablement immersive
 - Des courses variées et palpitantes
+- Une histoire de pilotage incroyablement immersive
 - Bienvenue dans GRID Legends : Une histoire de sport auto épique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
