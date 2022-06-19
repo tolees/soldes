@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- NVIDIA GeForce Experience - Capturez et partagez des vidéos, des captures décran et des diffusions en direct avec des amis. Maintenez vos pilotes à jour et optimisez vos paramètres de jeu. Cest le compagnon indispensable de votre carte graphique GeForce.
 - Architecture NVIDIA Ampere, avec une fréquence du chipset de 1440 MHz et une fréquence boostée de 1710 MHz pour répondre aux besoins des jeux exigeants.
 - Cette carte graphique GeForce RTX 3080 avec LHR (lite hash rate) offre un taux de hachage ETH de 43 MH/s (est.).
-- NVIDIA GeForce Experience - Capturez et partagez des vidéos, des captures décran et des diffusions en direct avec des amis. Maintenez vos pilotes à jour et optimisez vos paramètres de jeu. Cest le compagnon indispensable de votre carte graphique GeForce.
 - Interface PCI Express 4.0 offrant une compatibilité avec une gamme de systèmes. Comprend également des sorties DisplayPort et HDMI pour une connectivité étendue.
 - 10Go de mémoire GDDR6X (320 bits), 8704 coeurs NVIDIA CUDA et jusquà 760Go/s de bande passante mémoire fournissent la mémoire nécessaire pour créer un réalisme visuel saisissant.
 

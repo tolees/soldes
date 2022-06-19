@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les trois titres ont été mis à jour : nouvel éclairage, environnements optimisés, textures hd, distance daffichage améliorée, commetes et visée inspirées de GTA V) et bien plus encore
-- GTA III : Tout commence à Liberty City. GTA III vous offre une liberté daction totale et vous sert le cœur du monde criminel sur un plateau. Aurez-vous assez de cran pour accepter cette offre
 - GTA : Vice City : Bienvenue dans les années 80. En plein dans la décennie des coiffures excentriques et costumes pastel, voici lhistoire dun homme qui va gravir tous les échelons criminels
+- Les trois titres ont été mis à jour : nouvel éclairage, environnements optimisés, textures hd, distance daffichage améliorée, commetes et visée inspirées de GTA V) et bien plus encore
 - GTA : San Andreas : Dans les années 90, Carl « CJ” Johnson revient à Los Santos - San Andreas après 5 ans d ’absence. Il va replonger dans un univers de guerres de gangs, drogue et corruption
+- GTA III : Tout commence à Liberty City. GTA III vous offre une liberté daction totale et vous sert le cœur du monde criminel sur un plateau. Aurez-vous assez de cran pour accepter cette offre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
