@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Culot : GU10
+- Technologie Zigbee : nécessite une passerelle compatible (non incluse) comme AMAZON Echo Plus / Echo Show (2G) ou PHILIPS Hue
 - Fonctions disponibles par défaut ; allumage On/Off ; réduire/augmenter la luminosité ; changement de couleur ; création de groupes de périphériques ; mise en place des scénarios
 - Compatible avec la commande vocale "Alexa" de AMAZON via Echos Plus ou Echo Show (2G), Non compatible avec la commande vocale "Dis Siri" de APPLE
 - Puissance : 6 Watts, équivalent à 50 Watts (300 Lumens)
-- Technologie Zigbee : nécessite une passerelle compatible (non incluse) comme AMAZON Echo Plus / Echo Show (2G) ou PHILIPS Hue
+- Culot : GU10
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
