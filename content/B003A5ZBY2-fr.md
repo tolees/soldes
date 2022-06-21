@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER ASI300-QS Gonfleur-Compresseur filaire - 11 Bars - 160 PSI - 220 V ou allume-cigare 12V - Fourni avec 1 aiguille et 2 embouts'
-date: 2022-06-17 20:08:12
+date: 2022-06-21 15:12:52
 image: 'https://m.media-amazon.com/images/I/51JfjUPXdkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour les pneus, les équipements de sport/loisirs et les activités nautiques
-- Réglage digital de la pression désirée et arrêt automatique en fin de gonflage
-- Adaptateur de courant alternatif 220 -230 Volts Adaptateur de courant continu 12 Volts
-- cadran lumineux pour une visibilité optimale de nuit
 - Puissant pour sadapter aux tâches de gonflage les plus exigeantes
+- cadran lumineux pour une visibilité optimale de nuit
+- Adaptateur de courant alternatif 220 -230 Volts Adaptateur de courant continu 12 Volts
+- Idéal pour les pneus, les équipements de sport/loisirs et les activités nautiques
 - Peut être branché sur une prise domestique AC (220V) ou sur une prise allume-cigare (12V), pour une utilisation au domicile ou ailleur
+- Réglage digital de la pression désirée et arrêt automatique en fin de gonflage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
