@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pack de personnalisation de visage Main de la Mort Bannières Empereur des morts Statue de joueur en qwartz
 - Edition jeu Playstation optimisé Next-Gen + pack Seigneur Dragon Contenu pack Seigneur Dragon : - Arme légendaire Apex - Sort légendaire Skullantir - Armure prédéfinie Tenue de tyran
 - Personnalisez votre propre héros multiclasse, puis tirez, pillez et lancez des sorts pour combattre et explorer détranges monstres et donjons remplis de trésors et arrêter le Seigneur Dragon
 - Bonus precommande : pack armure héroïque en or
-- Pack de personnalisation de visage Main de la Mort Bannières Empereur des morts Statue de joueur en qwartz
 
 [🛒 Achète-le!!]({{< param buyurl >}})

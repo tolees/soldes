@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une crème délicieusement onctueuse : les paniers à filtre à double parois génèrent une pression supplémentaire pour une aération subtile, garantissant un expresso velouté avec une couche distinctive de crème dorée
 - Bien plus quun expresso : la buse vapeur dotée dun capot froid en silicone crée une fine mousse veloutée, notamment pour les lattes, cafés au lait et cappuccinos
-- Le café parfait, à chaque fois : le cycle de pré-infusion permet une extraction améliorée du café, complétée par une fonction de dosage manuel qui vous laisse toute liberté de personnaliser la force de votre boisson
 - Une pression optimale : la pompe de 15 bars contribue à fournir une pression précise pour une extraction complète des huiles, des tanins et des arômes du café
 - Un délicieux café en toute simplicité : grâce à cette machine à expresso facile à utiliser, dégustez un délicieux expresso, tout aussi savoureux que dans votre café préféré
+- Une crème délicieusement onctueuse : les paniers à filtre à double parois génèrent une pression supplémentaire pour une aération subtile, garantissant un expresso velouté avec une couche distinctive de crème dorée
+- Le café parfait, à chaque fois : le cycle de pré-infusion permet une extraction améliorée du café, complétée par une fonction de dosage manuel qui vous laisse toute liberté de personnaliser la force de votre boisson
 
 [🛒 Achète-le!!]({{< param buyurl >}})

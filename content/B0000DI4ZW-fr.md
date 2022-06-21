@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Acier inoxydable résistant facile à nettoyer.
 - La position élevée de la poignée vous permet de garder les mains à distance des aliments.
 - Conçu pour accélérer la préparation de la purée de pommes de terre ou de tout autre type de légume.
+- Acier inoxydable résistant facile à nettoyer.
 - La grande poignée permet une prise confortable et un travail sans effort.
 - Trous conçus pour écraser les pommes de terre de façon efficace et sans créer de mottes.
 
