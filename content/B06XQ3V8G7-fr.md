@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G413 Clavier Gaming Mécanique  Rétroéclairage Rouge  Switchs Romer-G Tactiles  Aluminium 5052  Personnalisable  Relais USB  Clavier Français AZERTY - Noir'
-date: 2022-06-10 10:32:08
+date: 2022-06-21 17:54:29
 image: 'https://m.media-amazon.com/images/I/41D9V1RyF+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B06XQ3V8G7-fr Logitech G413 Clavier Gaming Mécanique Rétroéclairage...'
 sku: 'B06XQ3V8G7-fr'
 tags: [ 'Accessoires pour PC','Claviers gaming pour PC','Contrôleurs de jeu pour PC','Jeux vidéo','PC: Jeux et accessoires','logitech g','🇫🇷', ]
-actualPrice: 64.99 EUR
+actualPrice: 61.16 EUR
 currency: EUR
-price: 64.99
+price: 61.16
 comparePrice: 99.99 EUR
 prodname: 'Logitech G413 Clavier Gaming Mécanique  Rétroéclairage Rouge  Switchs Romer-G Tactiles  Aluminium 5052  Personnalisable  Relais USB  Clavier Français AZERTY - Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.fr/dp/B06XQ3V8G7/?tag=tolees0d-21'
-descuento: '35.00'
-average: '63.74'
+descuento: '38.83'
+average: '63.3714285714286'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -32,8 +32,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Mécanique Avancée : les switchs mécaniques Romer-G du clavier gaming RGB offrent réactivité, durabilité et performances de qualité professionnelle pour tous les gamers
 - Touches Gaming : le clavier mécanique Logitech est doté de 12 touches à facettes que vous pouvez adapter à votre jeu/personnage préféré
 - Alliage Aluminium : Logitech G413 dispose d’un ensemble complet de fonctionnalités et une conception minimaliste aux finitions haut de gamme
+- Touches Gaming : le clavier mécanique Logitech est doté de 12 touches à facettes que vous pouvez adapter à votre jeu/personnage préféré
 - Éclairage Précis des Touches : les touches du clavier pour gamer rétroéclairé Logitech offrent un éclairage précis pour des sessions de jeu nocturnes
 - Relais USB : le câble USB supplémentaire du clavier gaming Logitech offre une puissance de débit et une vitesse de transmission des données optimales et facilite le branchement d’une souris
-- Touches Gaming : le clavier mécanique Logitech est doté de 12 touches à facettes que vous pouvez adapter à votre jeu/personnage préféré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
