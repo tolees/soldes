@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SAGE SES875 The Barista Express
 - Machine à Expresso avec Broyeur
 - Acier Inoxydable Brossé
-- SAGE SES875 The Barista Express
 
 [🛒 Achète-le!!]({{< param buyurl >}})

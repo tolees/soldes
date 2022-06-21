@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 93% Coton, 4% Polyester, 2% Polyéthylène, 1% Élasthanne
 - Dimensions de lemballage de larticle: 6.0 L x 29.5 H x 26.0 W (centimeters)
-- Fermeture: Fermeture éclair
+- 93% Coton, 4% Polyester, 2% Polyéthylène, 1% Élasthanne
 - Lavable en machine
+- Fermeture: Fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

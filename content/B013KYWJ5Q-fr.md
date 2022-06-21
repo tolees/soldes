@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une poche de jambe à fermeture à glissière et une boutonnée, ce dernier avec une poche de téléphone intérieure.
 - Deux poches à main, deux poches arrière avec des rabats boutonnés.
-- Coupe conçue avec des jambes articulées et des genoux préformés.
 - Pantalon de trekking durable en G-1000 silencieux.
+- Coupe conçue avec des jambes articulées et des genoux préformés.
+- Une poche de jambe à fermeture à glissière et une boutonnée, ce dernier avec une poche de téléphone intérieure.
 - Poche multi-outils.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
