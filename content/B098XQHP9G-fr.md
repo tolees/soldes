@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe slim
+- Poche à monnaie décalée vers le centre, poche dissimulée ajoutée à la taille
 - Grandes poches passepoilées à lavant et à larrière
+- Coupe slim
 - Taille mi-haute
 - Jambes slim
-- Poche à monnaie décalée vers le centre, poche dissimulée ajoutée à la taille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

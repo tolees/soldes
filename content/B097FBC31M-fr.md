@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille : taille moyenne
-- Emballage : boîte
 - Taille : élastique visible
+- Emballage : boîte
+- Taille : taille moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
