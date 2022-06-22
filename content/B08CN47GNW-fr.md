@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ ZOWIE FK2-B Souris Esports  Taille moyenne  design symétrique  édition noire mate '
-date: 2022-06-13 21:47:59
+date: 2022-06-21 22:07:39
 image: 'https://m.media-amazon.com/images/I/31GVXfS9WhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
