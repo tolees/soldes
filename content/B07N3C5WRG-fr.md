@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Transmission des données de fréquence cardiaque en temps réel
 - Etanchéité 1 ATM
 - Le produit est compatible avec tous les appareils Garmin
-- Connectivité ANT + et technologie sans fil BLUETOOTH 5.0
 - Autonomie : Jusqu’à 3 ans et demi (Pile CR2032 3volt)
+- Connectivité ANT + et technologie sans fil BLUETOOTH 5.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})

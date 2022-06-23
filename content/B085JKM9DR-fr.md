@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Running Dynamics – Analyse de la foulée
-- Autonomie de 1 an
 - Physio True-Up, partage les données physio sur tous les appareils Garmin connectés
-- Double technologie de transmission : ANT+ et Bluetooth
 - Sangle souple et confortable utilisable dans et hors de l’eau
+- Double technologie de transmission : ANT+ et Bluetooth
+- Autonomie de 1 an
+- Running Dynamics – Analyse de la foulée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
