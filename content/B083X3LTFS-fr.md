@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livraison: 1x Boombox 2 JBL avec câble dalimentation / Dimensions: 484 x 201 x 256 mm / Jusquà 80W / Étanchéité IPX7 / 1x adaptateur secteur / 1x câble – Noir
-- Plus besoin de craindre les intempéries avec la Boombox 2 JBL : étanche selon la norme IPX7, cette enceinte est prête à faire la fête à la piscine ou à la plage
+- Faites décoller lambiance : la technologie PartyBoost permet de connecter plusieurs enceintes JBL compatible avec le mode PartyBoost via bluetooth - avec chargeur portable intégré
 - Un son grandieux et ultra puissant combiné aux basses les plus puissantes et profondes : la Boombox 2 JBL est conçue pour être l’enceinte bluetooth portable la plus puissante qui existe !
 - Profiter de 24 heures de musique sans en perdre une note ? Cette enceinte est dotée dune incroyable batterie rechargeable de 10 000mAh et de deux ports USB pour recharger les smartphones
-- Faites décoller lambiance : la technologie PartyBoost permet de connecter plusieurs enceintes JBL compatible avec le mode PartyBoost via bluetooth - avec chargeur portable intégré
+- Livraison: 1x Boombox 2 JBL avec câble dalimentation / Dimensions: 484 x 201 x 256 mm / Jusquà 80W / Étanchéité IPX7 / 1x adaptateur secteur / 1x câble – Noir
+- Plus besoin de craindre les intempéries avec la Boombox 2 JBL : étanche selon la norme IPX7, cette enceinte est prête à faire la fête à la piscine ou à la plage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

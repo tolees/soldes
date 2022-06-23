@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Douche de tête rectangulaire (46x30cm): 3 jets généreux et confortables, sensation denveloppement du corps.
+- Picots anticalcaires: le calcaire sélimine dun simple passage du doigt pour des jets irréprochables et pour longtemps.
+- Douchette 3 jets avec pommeau de 12cm de diamètre. Changez de jet en 1 clic: bouton Select facilement accessible et 100% mécanique.
 - Mitigeur thermostatique ultra-précis: température stable au degré près et 1 butée de confort à 40°. Design tablette pour un espace supplémentaire pour vos affaires de douche.
 - Flexible de douche de 1m60 avec écrou tournant qui évite de lentortiller. Porte-douchette à fixer au mur.
-- Douchette 3 jets avec pommeau de 12cm de diamètre. Changez de jet en 1 clic: bouton Select facilement accessible et 100% mécanique.
-- Picots anticalcaires: le calcaire sélimine dun simple passage du doigt pour des jets irréprochables et pour longtemps.
+- Douche de tête rectangulaire (46x30cm): 3 jets généreux et confortables, sensation denveloppement du corps.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de stylo: 3
 - Type de produit: Stylos de nettoyage LP1N + Micro Pro + FilterKlear
+- Nombre de stylo: 3
 - Lemballage peut varier
 - Garantie du fabricant: 1 an
 - Description du produit: Lenspen - L-DSLRK1N - DSLR Pro Kit

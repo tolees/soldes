@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette petite tablette fonctionne à laide dun câble USB relié à votre ordinateur. Elle est compatible avec Windows 7 (ou supérieur) ainsi que OS X 10.11 (ou supérieur)
-- Intuos est également une solution clé en main pour enseigner à distance ou apprendre en ligne grâce à nos nouveaux logiciels pédagogiques en essai gratuit pendant trois mois.
 - Livraison : 1 x Tablette graphique à stylet Intuos S, noir. Guide de mise en route, câble USB, choisissez 1 sur 2 : Corel Painter Essentials 7, Corel Aftershot Pro 3 (licence de 90 jours)
+- Dune épaisseur de seulement 8,8 mm, la tablette est aussi fine et élégante quun smartphone
+- Cette petite tablette fonctionne à laide dun câble USB relié à votre ordinateur. Elle est compatible avec Windows 7 (ou supérieur) ainsi que OS X 10.11 (ou supérieur)
 - Grâce à son stylet paramétrable contenant 4096 niveaux de pression, Intuos offre une très grande précision. Elle comporte 4 boutons ExpressKey personnalisables et une résolution de 2540 lpi
 - Compacte et intuitive : grâce à la nouvelle tablette Intuos de Wacom, sessayer au dessin graphique est un jeu denfant. Intuos est fournie avec un logiciel au choix à télécharger gratuitement
-- Dune épaisseur de seulement 8,8 mm, la tablette est aussi fine et élégante quun smartphone
+- Intuos est également une solution clé en main pour enseigner à distance ou apprendre en ligne grâce à nos nouveaux logiciels pédagogiques en essai gratuit pendant trois mois.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

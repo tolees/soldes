@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Consommation électrique (Ecriture): 4,4 W. Largeur: 101,6 mm
 - Western Digital 2TB Network NAS. Capacité disque dur: 2000 Go
-- Profondeur: 147 mm. Taux de transfert des données: 6 Gbit/s
 - Vitesse de rotation du disque dur: Variable. Consommation dénergie (mode veille): 0,6 W
 - Hauteur: 26,1 mm
 - Consommation électrique (Lecture): 4,4 W
+- Consommation électrique (Ecriture): 4,4 W. Largeur: 101,6 mm
+- Profondeur: 147 mm. Taux de transfert des données: 6 Gbit/s
 - Interface du disque dur: Série ATA III
 
 [🛒 Achète-le!!]({{< param buyurl >}})

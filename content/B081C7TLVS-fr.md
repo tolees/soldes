@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Clip pour jeu mobile conçu pour les manettes sans fil Bluetooth de Xbox
-- Les deux points darticulation de verrouillage sajustent afin de placer le téléphone ergonomiquement
-- Fabriqué avec des matériaux de qualité pour profiter des jeux mobiles et du Xbox game streaming
-- Maintenez et sécurisez votre téléphone grâce aux éléments en caoutchouc
 - Le clip Moga convient à la plupart des téléphones portables: largeur maximale 79 mm (3,12 pouces)
+- Maintenez et sécurisez votre téléphone grâce aux éléments en caoutchouc
+- Fabriqué avec des matériaux de qualité pour profiter des jeux mobiles et du Xbox game streaming
+- Les deux points darticulation de verrouillage sajustent afin de placer le téléphone ergonomiquement
 - Sous licence officielle pour Xbox avec garantie de deux ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

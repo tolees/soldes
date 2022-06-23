@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Record Label: Sony
 - Notes: Bandwagonesque / Thirteen / Grand Prix / ..
-- Country Of Release: NLD
+- Record Label: Sony
 - Catalog#: 88691 967812
 - Year Of Release: 2012
+- Country Of Release: NLD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

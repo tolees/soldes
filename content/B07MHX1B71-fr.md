@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - En jouant il découvre les formes, les couleurs, les aliments, la politesse et le partage.
-- En manipulant les objets et en encastrant les aliments dans le couvercle, lenfant développe sa motricité.
 - Un panier pique-nique magique qui reconnaît les formes insérées !
-- Version française
+- En manipulant les objets et en encastrant les aliments dans le couvercle, lenfant développe sa motricité.
 - Tout est inclus pour préparer le pique-nique parfait, de la nappe aux fouchettes !
+- Version française
 
 [🛒 Achète-le!!]({{< param buyurl >}})

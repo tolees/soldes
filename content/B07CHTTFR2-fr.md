@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manches courtes
+- Col rond
+- Col rond
 - 100 % coton
 - Jersey
-- Col rond
-- Col rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
