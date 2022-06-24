@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Braguette à boutons
 - Composition : 100 % coton
-- Short en jean
 - Longueur genou
+- Short en jean
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
