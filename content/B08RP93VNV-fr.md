@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Material: Croslite
 - Farbe: blanc
-- Hersteller Artikelnummer: 10001-160
 - Type: Sabots avec bride cheville
 - Weitere Informationen: Crocs Crocsone
-- Material: Croslite
+- Hersteller Artikelnummer: 10001-160
 
 [🛒 Achète-le!!]({{< param buyurl >}})

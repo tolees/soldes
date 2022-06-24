@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Navigation optimisée : gyroscope et capteur visuel
 - APP AMIBOT HOME sur iOS et Android
 - Réservoir à poussière cyclonique
 - Filtration ultra fine et complète
+- Navigation optimisée : gyroscope et capteur visuel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
