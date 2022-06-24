@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 palettes de vitesse, 6 boutons d’action, 1 Manettino à 3 positions avec fonction « push » en position centrale, 1 D-Pad multi-direction
-- Plastron et palettes en métal brossé. Texture gomme renforcée
 - Compatible avec l’ensemble des bases Thrustmaster T-Series: TX et T300 servo bases, T-GT, TS-XW ou encore TS-PC Racer. (Vendues séparément)
+- 2 palettes de vitesse, 6 boutons d’action, 1 Manettino à 3 positions avec fonction « push » en position centrale, 1 D-Pad multi-direction
 - Detachable FERRARI 458 CHALLENGE replica wheel for the Thrustmaster T500 RS (PS3 & PC) and TX Wheel (Xbox One)
+- Plastron et palettes en métal brossé. Texture gomme renforcée
 - Plastron et palettes en métal brossé. Texture gomme renforcée; system_ram_type: ddr3_sdram
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
