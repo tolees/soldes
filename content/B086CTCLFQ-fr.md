@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Témoin des niveaux de puissance
-- Lumière d’ambiance LED
-- Bouton de réglage des niveaux de puissance
 - Grille de ventilation oscillante ou fixe
+- Lumière d’ambiance LED
 - Réservoir d’eau de 1,2L facile à remplir
+- Témoin des niveaux de puissance
+- Bouton de réglage des niveaux de puissance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
