@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Scratch et les lacets élastiques
 - Chaussures légères
+- Chaussures avec lumières avec bouton marche/arrêt.
+- Scratch et les lacets élastiques
 - Respirabilité de la semelle extérieure
 - Amorti optimal
-- Chaussures avec lumières avec bouton marche/arrêt.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Toile
+- Largeur : 4 cm
 - Boucle plaque monochrome
 - Boucle Calvin Klein monogramme emblématique
-- Largeur : 4 cm
 - 100 % polyester
+- Toile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

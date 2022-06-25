@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des courses variées et palpitantes
 - Une histoire de pilotage incroyablement immersive
 - Bienvenue dans GRID Legends : Une histoire de sport auto épique
+- Des courses variées et palpitantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
