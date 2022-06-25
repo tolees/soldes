@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La UX avec collerette convient pour le montage en attente, la UX sans collerette pour le montage traversant
 - Lors du vissage, la UX sexpanse dans les matériaux pleins et forme un nœud dans les matériaux creux
 - La longueur requise de la vis se détermine comme suit : longueur de la cheville + épaisseur à fixer + 1 x diamètre de la vis
+- La UX avec collerette convient pour le montage en attente, la UX sans collerette pour le montage traversant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

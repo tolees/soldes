@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues
-- Lavage en machine, 30° max.
 - Taille normale
-- Type de col : Col polo
 - 100% Polyamides
+- Lavage en machine, 30° max.
+- Type de col : Col polo
+- Manches longues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
