@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La série Speedster présente un style aérodynamique moderne avec un design épuré et élégant. Son design bien pensé permet doptimiser le flux dair pour améliorer le refroidissement et la performance.
-- Une nouvelle architecture de mémoire révolutionnaire qui met en place des niveaux plus élevés de performance et defficacité pour le jeu 4K. Larchitecture AMD RDNA 2 optimise et unifie le jeu.
-- Les puissants accélérateurs qui traitent les intersections des rayons permettent un raytracing accéléré.
 - Larchitecture AMD RDNA 2 optimise et unifie lexpérience de jeu, de la performance aux visuels, sur les consoles et PC.
+- Une nouvelle architecture de mémoire révolutionnaire qui met en place des niveaux plus élevés de performance et defficacité pour le jeu 4K. Larchitecture AMD RDNA 2 optimise et unifie le jeu.
+- La série Speedster présente un style aérodynamique moderne avec un design épuré et élégant. Son design bien pensé permet doptimiser le flux dair pour améliorer le refroidissement et la performance.
+- Les puissants accélérateurs qui traitent les intersections des rayons permettent un raytracing accéléré.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

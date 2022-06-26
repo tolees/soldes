@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hansgrohe 71405000 7848850 Logis Mélangeur de bac encastré Kit final Chromé'
-date: 2022-06-15 21:23:03
+date: 2022-06-26 13:07:26
 image: 'https://m.media-amazon.com/images/I/31PuYhiAHeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Bricolage','Cuisines et salles de bain','Douches et composants de douch
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9
-comparePrice: 99.37 EUR
+comparePrice: 94.96 EUR
 prodname: 'Hansgrohe 71405000 7848850 Logis Mélangeur de bac encastré Kit final Chromé'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Hansgrohe'
 buyurl: 'https://www.amazon.fr/dp/B00KQQ7LEG/?tag=tolees0d-21'
-descuento: '19.59'
-average: '81.65'
+descuento: '15.86'
+average: '81.3'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
