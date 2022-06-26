@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sadapte idéalement aux les poitrines généreuses
 - Soutien-gorge avec armatures et bonnets moulés non paddés
+- Sadapte idéalement aux les poitrines généreuses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
