@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe : Slim
 - Longueur : cheville
+- Coupe : Slim
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
