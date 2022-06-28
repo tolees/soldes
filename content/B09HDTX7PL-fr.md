@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2K - Tiny Tina s Wonderlands Ed Next-Level  PlayStation 5 '
-date: 2022-06-25 05:28:43
+date: 2022-06-28 12:36:00
 image: 'https://m.media-amazon.com/images/I/51rCCvgRwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre propre héros multiclasse, puis tirez, pillez et lancez des sorts pour combattre et explorer détranges monstres et donjons remplis de trésors et arrêter le Seigneur Dragon
+- Edition jeu Playstation optimisé Next-Gen + pack Seigneur Dragon Contenu pack Seigneur Dragon : - Arme légendaire Apex - Sort légendaire Skullantir - Armure prédéfinie Tenue de tyran
 - Pack de personnalisation de visage Main de la Mort Bannières Empereur des morts Statue de joueur en qwartz
 - Bonus precommande : pack armure héroïque en or
-- Edition jeu Playstation optimisé Next-Gen + pack Seigneur Dragon Contenu pack Seigneur Dragon : - Arme légendaire Apex - Sort légendaire Skullantir - Armure prédéfinie Tenue de tyran
+- Personnalisez votre propre héros multiclasse, puis tirez, pillez et lancez des sorts pour combattre et explorer détranges monstres et donjons remplis de trésors et arrêter le Seigneur Dragon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
