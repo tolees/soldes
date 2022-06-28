@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en Chine
-- dimensions de lemballage de larticle : 35.0x27.0x28.0cm
 - matériel : Polycarbonate injecté
 - Couleur : Bleu mat logo gris
+- Fabriqué en Chine
+- dimensions de lemballage de larticle : 35.0x27.0x28.0cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
