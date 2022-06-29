@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Épaisseur du boîtier 7,6 mm / Diamètre du boîtier 40 mm
-- Bracelet en cuir marron
-- Mouvement multifonction à quartz à 3 aiguilles
-- Cadran bleu
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
+- Bracelet en cuir marron
+- Épaisseur du boîtier 7,6 mm / Diamètre du boîtier 40 mm
+- Cadran bleu
+- Mouvement multifonction à quartz à 3 aiguilles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
