@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-S40R - Barre de Son 5.1ch Home Cinéma avec Enceintes Satellites sans Fil  Noir'
-date: 2022-06-21 03:37:02
+date: 2022-06-29 17:06:31
 image: 'https://m.media-amazon.com/images/I/317P1tmau8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08Z4H7L2L-fr Sony HT-S40R - Barre de Son 5.1ch Home Cinéma avec...'
 sku: 'B08Z4H7L2L-fr'
 tags: [ 'Barres de son','Enceintes','High-Tech','Univers Hi-Fi','sony','🇫🇷', ]
-actualPrice: 347.0 EUR
+actualPrice: 349.0 EUR
 currency: EUR
-price: 347.0
+price: 349.0
 comparePrice: 500.0 EUR
 prodname: 'Sony HT-S40R - Barre de Son 5.1ch Home Cinéma avec Enceintes Satellites sans Fil  Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B08Z4H7L2L/?tag=tolees0d-21'
-descuento: '30.60'
-average: '347.0'
+descuento: '30.20'
+average: '348.0'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

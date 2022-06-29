@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Version française
 - Nécessite des piles: Non
 - Age minimum: 3 ans
-- Version française
-- Description du produit: Nouvelle sacoche de transport et de protection Kidizoom.Pour transporter son appareil photo ou son caméscope partout!Permet de ranger l’appareil et ses accessoires.Compatible avec tous les modèles d’appareils photo ou de caméscopes de marque Kidizoom.
 - Dimensions du produit: 22 x 11,5 x 15 cm
+- Description du produit: Nouvelle sacoche de transport et de protection Kidizoom.Pour transporter son appareil photo ou son caméscope partout!Permet de ranger l’appareil et ses accessoires.Compatible avec tous les modèles d’appareils photo ou de caméscopes de marque Kidizoom.
 - Contenu du packaging:1 Sacoche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
