@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile et simple à assembler
+- Traitement anti-ultraviolets
 - Inclus: le plancher, une porte verrouillable, une ventilation
-- Dimensions intérieures : 111 x 177 x 190 cm
-- Garantie : 5 an(s)
-- Abri de jardin en PVC gris 2,5m²
 - Parfaitement étanche
+- Abri de jardin en PVC gris 2,5m²
+- Garantie : 5 an(s)
+- Dimensions intérieures : 111 x 177 x 190 cm
+- Facile et simple à assembler
 - Dimensions extérieures hors tout : 130 x 192 x 198 cm
 - Garantie de 5 ans
-- Traitement anti-ultraviolets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

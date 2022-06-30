@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il na pas dimperfections esthétiques visibles en tenant le produit à une distance de 30 centimètres
-- Ce produit usagé a été professionnellement inspecté, testé et nettoyé par des fournisseurs qualifiés Amazon
+- Les produits avec batteries ont une capacité de plus de 80% par rapport aux nouveaux
 - Les accessoires peuvent ne pas être dorigine, mais ils sont compatibles et entièrement fonctionnels. Le produit peut être fourni dans une boîte générique
-- Produits compatibles: HP Elitebook; HP ProBook; HP ZBook
-- Si ce produit napparaît pas comme neuf ou ne fonctionne pas comme prévu, il peut être remplacé ou remboursé dans un délai dun an à compter de sa réception
 - Station daccueil UltraSlim HP 2013
 - Le produit fonctionne et a lair neuf. Bénéficie de la garantie Amazon Renewed dun an
-- Les produits avec batteries ont une capacité de plus de 80% par rapport aux nouveaux
+- Ce produit usagé a été professionnellement inspecté, testé et nettoyé par des fournisseurs qualifiés Amazon
+- Si ce produit napparaît pas comme neuf ou ne fonctionne pas comme prévu, il peut être remplacé ou remboursé dans un délai dun an à compter de sa réception
+- Produits compatibles: HP Elitebook; HP ProBook; HP ZBook
+- Il na pas dimperfections esthétiques visibles en tenant le produit à une distance de 30 centimètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})

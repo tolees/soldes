@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mise à niveau gratuite vers Windows 11* dès le lancement (voir ci-dessous).
-- Écran tactile PixelSense 12.45
-- Autonomie dune journée entière avec recharge rapide
-- Indice de réparabilité : 3.6/10
-- Windows Hello : authentification biométrique par capteur dempreintes digitales
-- Processeur Intel Core i5 de 10ème Génération
 - *Le plan de déploiement de la mise à niveau est en cours de finalisation et devrait commencer à la fin de l’année 2021 et se poursuivre jusqu’en 2022. Les dates précises varieront en fonction des appareils.
 - Connectique : USB-A, USB-C, prise audio 3.5, Surface Connect
+- Mise à niveau gratuite vers Windows 11* dès le lancement (voir ci-dessous).
+- Indice de réparabilité : 3.6/10
+- Processeur Intel Core i5 de 10ème Génération
+- Autonomie dune journée entière avec recharge rapide
+- Écran tactile PixelSense 12.45
+- Windows Hello : authentification biométrique par capteur dempreintes digitales
 
 [🛒 Achète-le!!]({{< param buyurl >}})
