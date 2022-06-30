@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Composez votre équipe : Trouvez et recueillez les Rots pour obtenir de puissantes capacités, faire des découvertes et transformer lenvironnement
-- Explorez un village oublié et une étrange malédiction. Faites appel au pouvoir du royaume des esprits pour restaurer ce monde autrefois majestueux. À chaque tournant, Kena est mise au défi
 - Un jeu daction-aventure narratif combiné à de lexploration et des combats effrénés Incarnez Kena et rassemblez une équipe de compagnons-esprits charmants appelés les Rots
-- Lédition Deluxe physique comprend la BO Digitale, bâton de Kena édition spéciale, apparence de Rot doré et chapeaux de célébration uniques pour les Rots, une planche de stickers exclusifs !
 - Trouvez les Rots : Ce sont des esprits timides et fuyants dispersés dans la forêt. Ils maintiennent léquilibre en décomposant les éléments morts et pourrissants
+- Lédition Deluxe physique comprend la BO Digitale, bâton de Kena édition spéciale, apparence de Rot doré et chapeaux de célébration uniques pour les Rots, une planche de stickers exclusifs !
+- Explorez un village oublié et une étrange malédiction. Faites appel au pouvoir du royaume des esprits pour restaurer ce monde autrefois majestueux. À chaque tournant, Kena est mise au défi
 
 [🛒 Achète-le!!]({{< param buyurl >}})

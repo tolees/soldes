@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les enfants vont adorer imaginer des histoires sur le lien d’amitié si spécial qui unit ces personnages Enchantimals
-- Passez prendre d’autres amis Enchantimals (vendus séparément) pour improviser un pique-nique dans les jardins du palais avant d’aller au bal
-- La poupée Peola Poney porte une couronne surmontée d’une fleur, une robe et des chaussures, toutes amovibles. Contient de petits accessoires comme un panier et des desserts pour stimuler l’imagination
-- Les amis Enchantimals peuvent s’installer à l’avant, à l’arrière et même sur le toit
 - En route pour de belles aventures avec Peola Poney et Petite à bord de ce carrosse royal ! Royal jusqu’au bout des roues, ce carrosse (environ 20 cm) comprend des roues dorées fonctionnelles et des décorations raffinées
+- Passez prendre d’autres amis Enchantimals (vendus séparément) pour improviser un pique-nique dans les jardins du palais avant d’aller au bal
+- Les amis Enchantimals peuvent s’installer à l’avant, à l’arrière et même sur le toit
+- La poupée Peola Poney porte une couronne surmontée d’une fleur, une robe et des chaussures, toutes amovibles. Contient de petits accessoires comme un panier et des desserts pour stimuler l’imagination
 
 [🛒 Achète-le!!]({{< param buyurl >}})

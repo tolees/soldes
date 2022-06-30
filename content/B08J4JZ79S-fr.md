@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Et comme depuis 50 ans, dès que vous n’avez plus qu’une carte en main, n’oubliez pas de crier « UNO » !
-- Fêtez le 50ème anniversaire du jeu UNO avec ce magnifique coffret premium collector.
-- Dans cette version, les célèbres cartes noires arborent une apparence et une texture encore plus soignées. La carte 50/50 exclusive et la pièce commémorative dorée font leur entrée dans le jeu avec une règle spéciale.
 - Véritable star de vos soirées en famille ou entre amis, le jeu d’associations incontournable peut réunir de 2 à 10 joueurs dans une même partie !
+- Dans cette version, les célèbres cartes noires arborent une apparence et une texture encore plus soignées. La carte 50/50 exclusive et la pièce commémorative dorée font leur entrée dans le jeu avec une règle spéciale.
+- Fêtez le 50ème anniversaire du jeu UNO avec ce magnifique coffret premium collector.
 - Excellente idée de cadeau pour les fans du jeu UNO et les collectionneurs de 7 ans et plus.
+- Et comme depuis 50 ans, dès que vous n’avez plus qu’une carte en main, n’oubliez pas de crier « UNO » !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

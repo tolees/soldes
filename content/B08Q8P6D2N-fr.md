@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 joueurs
 - Avec sa célèbre mascotte Pogman, ces célèbres rondelles intemporelles ne manqueront pas de gagner le cœur des nouvelles générations à travers la nostalgie de leurs parents.
-- Le phénomène qui a marqué la génération 90 est de retour en 2021 ! Avec sa mécanique simple et inchangée, ses pack où les contenus sont aléatoires, venez (re)découvrir le plaisir de jouer et de collectionner ces petites pièces en cartons (sans oublier les célèbres kinis !).
-- A partir de 4 ans
-- Chaque starter contient 8 Pog dont 1 brillant + 1 kini (contenu alétaoire).
 - Collectionne tous les POG de la série 1 qui contient 42 POG communs, 5 POG rares, 3 POG super rares et 6 KINI.
 - POG, lidole des cours de récréation entre 1995 et 1997, revient en force dans son édition Vintage !
+- 2 joueurs
+- Chaque starter contient 8 Pog dont 1 brillant + 1 kini (contenu alétaoire).
+- A partir de 4 ans
+- Le phénomène qui a marqué la génération 90 est de retour en 2021 ! Avec sa mécanique simple et inchangée, ses pack où les contenus sont aléatoires, venez (re)découvrir le plaisir de jouer et de collectionner ces petites pièces en cartons (sans oublier les célèbres kinis !).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ENTRADA FOOTBALL MENS JERSEY
 - Adidas
+- ENTRADA FOOTBALL MENS JERSEY
 
 [🛒 Achète-le!!]({{< param buyurl >}})

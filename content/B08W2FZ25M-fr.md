@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Yofinity est disponible en 3 couleurs : bleu, vert et orange. Envoi aléatoire
 - Apprenez à faire des figures incroyables avec le yo-yo et surprenez tous vos amis. Super résistant et durable pour pouvoir jouer à linfini
+- Yofinity est disponible en 3 couleurs : bleu, vert et orange. Envoi aléatoire
 - Cest le premier à moi avec un miroir infini. Avec des effets de lumière incroyables. Voyez comment elle sallume lorsque vous la tournez.
 - Jouer avec le yafinity améliore la coordination et les réflexes, et encourage le désir de dépasser, lacceptation de léchec et lagilité et travaille la patience. Un jouet très complet avec lequel vous pourrez profiter tout en développant de nombreuses compétences.
 

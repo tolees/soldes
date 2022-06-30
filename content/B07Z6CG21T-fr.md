@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protège des saletés et de lhumidité
 - Qualité professionnelle: effet perlant immédiat pour tous liquides. Empêche y compris la poussière de sincruster.
+- Protège des saletés et de lhumidité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

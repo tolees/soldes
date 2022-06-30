@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contient 1 fée, 2 animaux, 1 arbre magique aux paupières mobiles & au feuillage brillant dans l’obscurité.
+- Découvrez l’univers féerique d’Ayuma. Au fond de la forêt, se cache le mystérieux arbre de la sagesse qui donne de précieux conseils aux fées.
 - Lorsqu’il ouvre enfin les yeux, le cube sortira de la bouche de l’arbre en fournissant la réponse à la question posée. Le petit dragon aidera les fées à déchiffrer les symboles de la réponse.
 - Cet arbre enchanté est toujours fatigué ! Pour le réveiller, les fées doivent jeter au sommet de son crâne le dé magique et tourner une branche.
-- Contient 1 fée, 2 animaux, 1 arbre magique aux paupières mobiles & au feuillage brillant dans l’obscurité.
 - Convient aux enfants à partir de 7 ans.
-- Découvrez l’univers féerique d’Ayuma. Au fond de la forêt, se cache le mystérieux arbre de la sagesse qui donne de précieux conseils aux fées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

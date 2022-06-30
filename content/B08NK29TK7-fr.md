@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cartable équipé de 2 compartiments pouvant accueillir des cahiers 24x32cm et documents au format A4. Poche avant zippée
-- Cartable 38 cm adapté aux classes de CP au CE2. Très résistant et conçu pour durer. Matière éco-responsable : polyester de haute qualité issu de bouteilles plastiques recyclées. Matière résistante à l’eau. Etoiles embossées et porte-clef sneakers
-- Dos et bretelles ergonomiques et confortables
 - Léger, moins de 1 kg ; en moyenne 860 g
+- Cartable 38 cm adapté aux classes de CP au CE2. Très résistant et conçu pour durer. Matière éco-responsable : polyester de haute qualité issu de bouteilles plastiques recyclées. Matière résistante à l’eau. Etoiles embossées et porte-clef sneakers
+- Cartable équipé de 2 compartiments pouvant accueillir des cahiers 24x32cm et documents au format A4. Poche avant zippée
 - Réfléchissants sur le devant, les côtés et au dos du cartable
+- Dos et bretelles ergonomiques et confortables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

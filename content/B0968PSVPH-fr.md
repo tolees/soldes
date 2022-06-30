@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 12 Go de mémoire GDDR6X (384 bits), 10240 coeurs NVIDIA CUDA et jusquà 912 Go/s de bande passante mémoire fournissent la mémoire nécessaire pour créer un réalisme visuel saisissant.
 - Interface PCI Express 4.0 offrant une compatibilité avec une gamme de systèmes. Comprend également des sorties DisplayPort et HDMI pour une connectivité étendue.
 - Architecture NVIDIA Ampere, avec une fréquence du chipset de 1365 MHz et une fréquence boostée de 1665 MHz pour répondre aux besoins des jeux exigeants.
 - NVIDIA GeForce Experience - Capturez et partagez des vidéos, des captures décran et des diffusions en direct avec des amis. Maintenez vos pilotes à jour et optimisez vos paramètres de jeu. Cest le compagnon indispensable de votre carte graphique GeForce.
-- 12 Go de mémoire GDDR6X (384 bits), 10240 coeurs NVIDIA CUDA et jusquà 912 Go/s de bande passante mémoire fournissent la mémoire nécessaire pour créer un réalisme visuel saisissant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
