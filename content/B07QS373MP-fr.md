@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Qualité de son: Puissance 40W, 2 Haut parleurs large bande. Les haut-parleurs sont en outre équipés dun port acoustique torsadé dont la forme unique permet daugmenter la résonnance.
 - Connectivité: Bluetooth Re master pour une meilleure écoute de votre musique sans fil, AUX in Autoplay pour vos périphériques audio et streaming, Panasonic Music App
 - Space Tune optimise le son selon les différents emplacements, cette fonction ajuste la fréquence et offre des préréglages optimisés pour 3 différents emplacements: près du mur, sur un mur, dans un coin dune pièce.
 - Design: Design sobre et élégant avec des matériaux de haute qualité (aluminium, tissus). Fixation Murale
-- Qualité de son: Puissance 40W, 2 Haut parleurs large bande. Les haut-parleurs sont en outre équipés dun port acoustique torsadé dont la forme unique permet daugmenter la résonnance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
