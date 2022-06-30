@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: En les associant à la cheminée dallumage, vous obtenez un moyen rapide et EFFI caque dallumer votre barbecue
 - produit 2: Les cubes allume-feux sont inodores et non toxiques
-- produit 2: Ils constituent donc un excellent moyen dembraser votre charbon
+- produit 2: En les associant à la cheminée dallumage, vous obtenez un moyen rapide et EFFI caque dallumer votre barbecue
 - produit 2: En les associant à la cheminée dallumage Weber, vous obtenez un moyen rapide
+- produit 2: Ils constituent donc un excellent moyen dembraser votre charbon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

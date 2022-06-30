@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Rétroéclairage RGB par touche dynamique : Renforcé pas une lueur sous touche respectant le standard bottom row,, il vous permet d’illuminer votre bureau et de créer une quasi-infinité de couleurs.
 - Châssis en aluminium anodisé : Fabriqué en aluminium brossé et anodisé noir, il allie un look moderne et élégant et une durabilité prolongée.
-- Intégrations de jeu iCUE : Expérimentez un niveau inédit d’immersion lorsque vous jouez à des jeux compatibles iCUE grâce à l’éclairage RGB qui réagit dynamiquement aux actions.
-- Switchs mécaniques 100 % CHERRY MV : Offrent un déplacement linéaire souple et des entrées précises et rapides.
 - Logiciel CORSAIR iCUE: Permet de contrôler l’éclairage RGB dynamique, de programmer des macros personnalisées, de remapper les touches et de synchroniser l’éclairage sur l’ensemble du système.
+- Switchs mécaniques 100 % CHERRY MV : Offrent un déplacement linéaire souple et des entrées précises et rapides.
+- Intégrations de jeu iCUE : Expérimentez un niveau inédit d’immersion lorsque vous jouez à des jeux compatibles iCUE grâce à l’éclairage RGB qui réagit dynamiquement aux actions.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
