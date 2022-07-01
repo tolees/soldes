@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légèrement parfumée pour rafraîchir
 - Hydrate pendant le rasage
+- Légèrement parfumée pour rafraîchir
 - Apaise la peau pour un rasage frais et confortable
 - Une mousse à raser à la texture onctueuse qui aide à protéger la peau pendant le rasage
 - Formule à l’aloe vera

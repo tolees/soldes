@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jean classique à 5 poches avec confort extensible dans différents lavages
-- Effet délavé et ondulé
-- Coupe ajustée
 - Taille avec passants, bouton et fermeture éclair dissimulée
 - Nouvelles versions avec coton issu de lagriculture biologique contrôlée
+- Effet délavé et ondulé
+- Jean classique à 5 poches avec confort extensible dans différents lavages
+- Coupe ajustée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

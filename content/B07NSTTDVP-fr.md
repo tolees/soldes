@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remplis ton super chariot Kindi Kids et fais le tour de Rainbow Kindi !
+- Je suis fourni avec 2 Shopkins exclusifs !
 - Mes oreilles et mes pattes bougent lorsque je roule !
+- Remplis ton super chariot Kindi Kids et fais le tour de Rainbow Kindi !
 - Les Kindi Kids adorent le chevaucher et le faire rouler !
 - Fais-moi rouler à toute vitesse sur le tapis de jeu du supermarché Kindi Kids !
-- Je suis fourni avec 2 Shopkins exclusifs !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

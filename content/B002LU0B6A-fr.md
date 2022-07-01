@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Polo classique Lacoste L.12.12 à manches longues
 - Bord-côte sur le col et les manches
+- Polo classique Lacoste L.12.12 à manches longues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

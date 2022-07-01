@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Un seul nom de WiFi】Avec la technologie de MESH TP-Link, il est facile de former un réseau WiFi Mesh avec un seul nom WiFi pour une couverture sans faille dans toute la maison
 - 【Étendez votre couverture】Répéteur WiFi RE300 augmentent la couverture WiFi jusquà 120 m² et connectent jusquà 18 appareils tels que des smartphones, des tablettes, des PC, etc
-- 【Configuration facile en une seule touche】Appuyez sur le bouton WPS de votre Box Internet ( routeur) et sur le bouton WPS de votre répéteur pour étendre votre couverture WiFi en quelques secondes
+- 【Un seul nom de WiFi】Avec la technologie de MESH TP-Link, il est facile de former un réseau WiFi Mesh avec un seul nom WiFi pour une couverture sans faille dans toute la maison
 - 【Mode point daccès】Connectez votre connexion Internet filaire au RE330 via un câble Ethernet pour le transformer en un point daccès WiFi double bande
 - 【Répéteur WiFi haut débit】Profitez dun WiFi rapide jusquà 1200 Mbps (867 Mbps sur 5 GHz, 300 Mbps sur 2,4 GHz), idéal pour le streaming 4K et les jeux en ligne
+- 【Configuration facile en une seule touche】Appuyez sur le bouton WPS de votre Box Internet ( routeur) et sur le bouton WPS de votre répéteur pour étendre votre couverture WiFi en quelques secondes
 - 【Compatibilité universelle & installation simple】Compatible avec tous les box Internet et routeurs WiFi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

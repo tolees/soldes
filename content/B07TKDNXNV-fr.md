@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction mains-libres avec son haute définition pour un confort découte augmenté
+- Répondeur avec écran intégré
+- Répertoire jusquà 100 contacts
 - Conçu et fabriqué en Allemagne
 - Affichage ultra lisible
-- Répertoire jusquà 100 contacts
-- Répondeur avec écran intégré
+- Fonction mains-libres avec son haute définition pour un confort découte augmenté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

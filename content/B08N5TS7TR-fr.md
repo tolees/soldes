@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux ports Thunderbolt/USB 4, un port HDMI 2.0, deux ports USB‐A et Gigabit Ethernet
-- Un stockage SSD ultra‐rapide qui lance les apps et ouvre les fichiers en un instant
-- 8 Go de mémoire unifiée, pour tout faire de façon fluide et rapide
-- CPU 8 cœurs jusqu’à 3 fois plus rapide pour s’acquitter plus vite que jamais des tâches les plus complexes
-- Neural Engine 16 cœurs, pour un apprentissage automatique avancé
-- macOS, avec un design réinventé et des mises à jour majeures pour Safari, Messages et Plans
-- Wi‐Fi 6 nouvelle génération pour une connectivité plus rapide
 - Un système de refroidissement avancé qui permet d’assurer des performances exceptionnelles
-- GPU 8 cœurs avec des performances jusqu’à 6 fois plus rapides dans les apps et les jeux aux graphismes sophistiqués
+- 8 Go de mémoire unifiée, pour tout faire de façon fluide et rapide
+- Un stockage SSD ultra‐rapide qui lance les apps et ouvre les fichiers en un instant
+- Deux ports Thunderbolt/USB 4, un port HDMI 2.0, deux ports USB‐A et Gigabit Ethernet
+- CPU 8 cœurs jusqu’à 3 fois plus rapide pour s’acquitter plus vite que jamais des tâches les plus complexes
+- macOS, avec un design réinventé et des mises à jour majeures pour Safari, Messages et Plans
+- Neural Engine 16 cœurs, pour un apprentissage automatique avancé
+- Wi‐Fi 6 nouvelle génération pour une connectivité plus rapide
 - Puce M1 conçue par Apple offrant un gain de performances spectaculaire au niveau du processeur central, du processeur graphique et de l’apprentissage automatique
+- GPU 8 cœurs avec des performances jusqu’à 6 fois plus rapides dans les apps et les jeux aux graphismes sophistiqués
 
 [🛒 Achète-le!!]({{< param buyurl >}})

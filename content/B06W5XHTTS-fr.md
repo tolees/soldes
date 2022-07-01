@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La selle de voltige offre les possibilités suivantes à lacrobate : Position assise vers lavant et larrière
 - Contient 2 personnages, 1 cheval et des accessoires (selle, harnais, fouet)
-- Race fournie : Sang bavarois
+- La selle de voltige offre les possibilités suivantes à lacrobate : Position assise vers lavant et larrière
 - Appui tendu en se tenant aux poignées Position debout en bloquant les pieds à lextrémité de la selle
+- Race fournie : Sang bavarois
 
 [🛒 Achète-le!!]({{< param buyurl >}})

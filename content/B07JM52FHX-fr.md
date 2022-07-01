@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient aux enfants à partir de 4 ans.
-- Participe à la vie de la ferme avec tous ces animaux !
-- Les œufs fraîchement pondus peuvent être ramassés dans le poulailler via un tiroir.
 - Ces poules élevées en liberté ont pondu plein dœufs !
 - Dimensions (LxPxH) cm: 27 x 13 x 13
+- Participe à la vie de la ferme avec tous ces animaux !
+- Les œufs fraîchement pondus peuvent être ramassés dans le poulailler via un tiroir.
+- Convient aux enfants à partir de 4 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

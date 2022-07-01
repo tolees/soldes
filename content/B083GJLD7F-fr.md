@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous aimez les jeux de société et partager un moment en famille ou entre amis ? Cluedo Junior est le jeu parfait à offrir en cadeau pour les enfants, filles et garçons de 5 ans, 6 ans, 7 ans et plus. Valeur éducative : apprendre, partager, samuser.
-- QUI, QUOI ET OÙ : Les joueurs doivent tenter de résoudre le mystère du jouet cassé. Ils doivent découvrir quel était le jouet, qui la brisé et à quelle heure.
-- CLUEDO POUR JEUNES ENFANTS : Idéal pour offrir aux enfants (à partir de 5 ans) une première expérience du jeu denquête emblématique, le jeu Cluedo Junior se déroule comme le Cluedo classique, mais avec pour thème le mystère dun jouet cassé
 - ZUT ! NOTRE JOUET PRÉFÉRÉ EST CASSÉ : Oh non ! Quelquun a cassé un jouet. Dans Cluedo Junior, les joueurs doivent user de stratégie et procéder par élimination pour résoudre le mystère
+- Vous aimez les jeux de société et partager un moment en famille ou entre amis ? Cluedo Junior est le jeu parfait à offrir en cadeau pour les enfants, filles et garçons de 5 ans, 6 ans, 7 ans et plus. Valeur éducative : apprendre, partager, samuser.
+- CLUEDO POUR JEUNES ENFANTS : Idéal pour offrir aux enfants (à partir de 5 ans) une première expérience du jeu denquête emblématique, le jeu Cluedo Junior se déroule comme le Cluedo classique, mais avec pour thème le mystère dun jouet cassé
 - JEU FAMILIAL AMUSANT : Cluedo Junior est un jeu de société amusant pour les réunions entre amis ou pour les jours de pluie. À partir de 5 ans
+- QUI, QUOI ET OÙ : Les joueurs doivent tenter de résoudre le mystère du jouet cassé. Ils doivent découvrir quel était le jouet, qui la brisé et à quelle heure.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

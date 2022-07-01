@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient trois personnages et de très nombreux accessoires
-- Retrouve les autres figurines de la gamme Playmobil sur Amazon
-- La valisette peut être transportée partout
-- Il ny a que des bonnes choses à manger, la journée va être bonne !
-- Age range description : 4 ans to 18 ans
 - Aujourdhui, Maman emmène Lola et son petit frère en pique-nique
+- Retrouve les autres figurines de la gamme Playmobil sur Amazon
+- Contient trois personnages et de très nombreux accessoires
+- Age range description : 4 ans to 18 ans
+- Il ny a que des bonnes choses à manger, la journée va être bonne !
+- La valisette peut être transportée partout
 
 [🛒 Achète-le!!]({{< param buyurl >}})

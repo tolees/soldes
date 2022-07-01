@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contrôle lair, réagit et purifie automatiquement jusquà 104 m2
+- Triple filtration grâce à la technologie VitaShield: filtre HEPA et filtre charbon actif contre les gazs nocifs et odeurs
 - Affichage numérique des particules fines en temps réel et anneau coloré indiquant la qualité de lair
 - Purifie 99,97% des particules fines <0,003 um: virus, bactéries, pollen, poussières
-- Triple filtration grâce à la technologie VitaShield: filtre HEPA et filtre charbon actif contre les gazs nocifs et odeurs
 - Contrôlez votre purificateur à distance via lapplication Air Matters
-- Contrôle lair, réagit et purifie automatiquement jusquà 104 m2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

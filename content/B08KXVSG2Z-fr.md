@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- T-shirt
-- Confortable
 - coton
+- Confortable
+- T-shirt
 - Imprimé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

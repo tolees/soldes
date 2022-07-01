@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bretelles : Bandoulières ergonomiques
 - Poches extérieures : Une poche frontale
+- Bretelles : Bandoulières ergonomiques
 - Protection dorsale : Panneau dorsal matelassé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
