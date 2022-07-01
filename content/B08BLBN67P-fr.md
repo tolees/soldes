@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure: Synthétique
-- Matériau de semelle: Synthétique
 - Largeur de la chaussure: Schmal
-- Type de talons: Bloc
 - Doublure: Synthétique
+- Semelle intérieure: Synthétique
 - Hauteur de talons: 5 centimètres
 - Dessus: Synthétique
+- Matériau de semelle: Synthétique
+- Type de talons: Bloc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

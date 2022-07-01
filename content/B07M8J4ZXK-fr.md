@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
-- La nouvelle machine à café LOR BARISTA, élue produit de l’année 2020 par les consommateurs
 - 19 bars de pression afin de savourer le goût dun véritable Espresso/Café
-- Avec LOR Barista, dégustez votre café préféré : Ristretto, Espresso, Lungo en simple ou double ainsi que votre Grand Café Filtre !
+- Compatibles avec toutes les capsules classiques et capsules doubles XXL exclusives à LOR Barista
 - Système de reconnaissance automatique de la capsule
+- Avec LOR Barista, dégustez votre café préféré : Ristretto, Espresso, Lungo en simple ou double ainsi que votre Grand Café Filtre !
+- La nouvelle machine à café LOR BARISTA, élue produit de l’année 2020 par les consommateurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
