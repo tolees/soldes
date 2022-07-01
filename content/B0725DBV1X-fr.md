@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tommy Hilfiger Shirt: For added detail, this crew neck is lined with their signature tape inside the neckline
-- Mens Designer T shirts: This T-shirt is slim fit, perfect for everyday life or for the use of gym or sports wear
-- Tommy Hilfiger Style: Tommys men and women clothes collection is designed for those who appreciate style and comfort
-- Plain T Shirt: Simple but stylish design, with a V-neck, this mens clothing contains 95% cotton and 5% elastane Machine Wash
 - Cotton T Shirts Men: Tommy Hilfiger T shirt sizes run from small to XXXL and are crafted using a stretchy cotton for your comfort
 - Casual Shirt Men: This t-shirt is the perfect summer top, its slim fitting and light fabric Alternatively, it would look classy under a blazer, or bomber jackets
+- Mens Designer T shirts: This T-shirt is slim fit, perfect for everyday life or for the use of gym or sports wear
+- Plain T Shirt: Simple but stylish design, with a V-neck, this mens clothing contains 95% cotton and 5% elastane Machine Wash
 - White T shirt: Tommy Hilfiger white comfy short sleeved shirts for men with Tommy Hilfiger flag embroidered onto chest
+- Tommy Hilfiger Style: Tommys men and women clothes collection is designed for those who appreciate style and comfort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
