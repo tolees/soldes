@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille du produit: 80(l) x 94(l) x 100(hauteur) cm
-- Le Happy Feber a 2 entrées, avant et arrière, avec porte avec poignée et fente pour la clé et la boîte aux lettres
 - 2 balcons latéraux et une façade plein de détails recréent une maison de jouets dont rêvent nos petits
 - Les maisons Feber ont un système anti-UV pour prévenir la perte de couleur et augmenter la résistance du plastique
+- Le Happy Feber a 2 entrées, avant et arrière, avec porte avec poignée et fente pour la clé et la boîte aux lettres
 - De grande résistance et son montage est très facile
+- Taille du produit: 80(l) x 94(l) x 100(hauteur) cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
