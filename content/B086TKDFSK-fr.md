@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alimenté par Razer Chroma RGB: Grâce aux 16,8 millions de couleurs et à une suite deffets, personnalisez le clavier et profitez d’une immersion accrue avec des effets d’éclairage dynamiques qui se déclenchent pendant que vous jouez à des titres disposant de l’intégration Chroma.
-- Touches multimédias et molette multifonctions: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant.
+- TECHNOLOGIE MECA-MEMBRANE HYBRIDE RAZER: Fusionnant le retour sonore d’un switch mécanique à la sensation familière que procure un clavier conventionnel, chaque frappe est aussi satisfaisante que précise.
 - Repose-poignet ergonomique en similicuir moelleux: Magnétique, le support doux et moelleux se place à lavant du clavier. Parfaitement aligné, il permet de réduire la pression sur votre poignet. Ainsi, vous ressentez moins de fatigue, même lorsque vous jouez sur de longues périodes.
 - Touches entièrement programmables: Rendez votre exécution et votre gameplay plus efficace en associant les fonctions souhaitées via Razer Synapse 3, et modifiez le clavier pour qu’il soit adapté à votre style de jeu, en créant et en sauvegardant des profils et des macros uniques.
-- TECHNOLOGIE MECA-MEMBRANE HYBRIDE RAZER: Fusionnant le retour sonore d’un switch mécanique à la sensation familière que procure un clavier conventionnel, chaque frappe est aussi satisfaisante que précise.
+- Touches multimédias et molette multifonctions: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant.
+- Alimenté par Razer Chroma RGB: Grâce aux 16,8 millions de couleurs et à une suite deffets, personnalisez le clavier et profitez d’une immersion accrue avec des effets d’éclairage dynamiques qui se déclenchent pendant que vous jouez à des titres disposant de l’intégration Chroma.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

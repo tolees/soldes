@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie ASUS Extreme Low Motion Blur Sync (ELMB SYNC) fonctionnant en synergie avec la technologie G-SYNC Compatible pour éliminer les effets de ghosting et de déchirement, offrant ainsi des images ultra nettes.
-- Garantie 3 ans
 - Technologie ASUS FastIPS technology avec temps de réponse gris-à-gris de 1 ms pour des images ultra-nettes avec des fréquences de rafraîchissement élevées.
-- Technologie High Dynamic Range (HDR) avec couleurs et contrastes d’une qualité exceptionnelle qui répondent aux exigences de la colorimétrie DCI-P3 95 % et de la certification DisplayHDR 400
+- Garantie 3 ans
 - Moniteur de jeu de 27’’ avec résolution WQHD (2560 x 1440), technologie FastIPS, fréquence de rafraîchissement ultrarapide de 170 Hz (overclocking) pour les professionnels et amateurs de gameplay ultra immersif
 - Compatible G-SYNC pour une expérience de jeu fluide sans déchirement d’image grâce à la fonctionnalité VRR (fréquence de rafraîchissement variable) activée par défaut.
+- Technologie ASUS Extreme Low Motion Blur Sync (ELMB SYNC) fonctionnant en synergie avec la technologie G-SYNC Compatible pour éliminer les effets de ghosting et de déchirement, offrant ainsi des images ultra nettes.
+- Technologie High Dynamic Range (HDR) avec couleurs et contrastes d’une qualité exceptionnelle qui répondent aux exigences de la colorimétrie DCI-P3 95 % et de la certification DisplayHDR 400
 
 [🛒 Achète-le!!]({{< param buyurl >}})
