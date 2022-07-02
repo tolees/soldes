@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAD CATZ - R.A.T. PRO X3 Supreme Edition Souris Gamer Filaire 16 000 DPI RGB Programmable Switch Omron 50 Millions 3000 Hz avec 108 Configuration Possible'
-date: 2022-06-27 13:04:59
+date: 2022-07-02 08:27:15
 image: 'https://m.media-amazon.com/images/I/316MHTD6-6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fourni avec 1 Module PMW3389, 2x repose main, 2x repose petit doigt, 1 repose pouce, 1 set de patins additionnel, 3 molettes, 1x outil dajustement, 1x brosse de nettoyage et 1x sac de rangement
-- Molette révolutionnaire utilisant la technologie optique et la capacité d’axe analogique
 - En plus dajuster leur longueur et leur hauteur, vous pouvez faire pivoter vos repose-mains - de 0 à 15 degrés - Le long de laxe principal.
 - 2700 configurations physiques possibles pour parfaitement ajuster la RAT Pro x3 à votre main et style de jeu
 - Capteur pixart PMW3389 (16000dpi max), taux de rapport USB (Polling rate) très élevé: jusquà 3000 Hz
+- Molette révolutionnaire utilisant la technologie optique et la capacité d’axe analogique
+- Fourni avec 1 Module PMW3389, 2x repose main, 2x repose petit doigt, 1 repose pouce, 1 set de patins additionnel, 3 molettes, 1x outil dajustement, 1x brosse de nettoyage et 1x sac de rangement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
