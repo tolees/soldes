@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La crinière dun lion met cinq ans à se développer complètement
 - Peint à la main
 - Reproduction détaillée
+- La crinière dun lion met cinq ans à se développer complètement
 - Dimensions: 5,1 x 12,2 x 7,6 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

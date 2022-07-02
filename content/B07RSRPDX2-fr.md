@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU DE SOCIETE : TRIVIAL PURSUIT - FRIENDS - Testez vos connaissances sur lunivers tout entier de FRIENDS en jouant avec cette édition du Trivial Pursuit regroupant 600 questions ! Avec son format voyage, plus besoin de plateau pour jouer ! Lancez le dé, répondez à la question et soyez le premier joueur à rassembler 6 cartes pour gagner ! 6 CATEGORIES DE QUESTIONS: Saison 1 & 2, saison 3 & 4, saison 4 & 5, saison 6 & 7, saison 8 & 9, saison 10.
 - DUREE DE LA PARTIE : 30 minutes environ.
 - JEU DE PLATEAU : un dé de couleur, des cartes questions et un étui de voyage pour tout ranger à l’intérieur et transporter le Trivial Pursuit FRIENDS partout.
-- JEU ENFANT : A partir de 12 ans, A partir de 2 joueurs.
 - JEU DE VOYAGE : Trivial Pursuit FRIENDS. Version voyage. Ne nécessite pas de plateau. Ne nécessite aucun autre produit pour jouer.
+- JEU DE SOCIETE : TRIVIAL PURSUIT - FRIENDS - Testez vos connaissances sur lunivers tout entier de FRIENDS en jouant avec cette édition du Trivial Pursuit regroupant 600 questions ! Avec son format voyage, plus besoin de plateau pour jouer ! Lancez le dé, répondez à la question et soyez le premier joueur à rassembler 6 cartes pour gagner ! 6 CATEGORIES DE QUESTIONS: Saison 1 & 2, saison 3 & 4, saison 4 & 5, saison 6 & 7, saison 8 & 9, saison 10.
+- JEU ENFANT : A partir de 12 ans, A partir de 2 joueurs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

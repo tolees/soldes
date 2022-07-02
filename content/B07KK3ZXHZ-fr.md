@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adhérence Omni-Grip non marquante
 - Tige en textile avec renforts synthétiques soudés
 - Construction imperméable et respirante OutDry
 - Semelle intercalaire Techlite légère pour plus de souplesse et de confort
+- Adhérence Omni-Grip non marquante
 
 [🛒 Achète-le!!]({{< param buyurl >}})

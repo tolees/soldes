@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comme lamour inestimable entre les parents et les enfants, il symbolise un lien infini profond pour toute éternité
 - La cerise sur le « I » est gravée avec les mots « I love you to infinity & beyond ».
-- Bague à paillettes Infinity Hearts & Stars
-- Ce double pendentif avec cristaux violets et roses et zircons cubiques transparents est peint à la main avec un émail rose poudré, bleu lavande et argent.
 - Larticle nest pas livré dans un emballage ou une boîte. Celle-ci doit être achetée séparément.
+- Bague à paillettes Infinity Hearts & Stars
+- Comme lamour inestimable entre les parents et les enfants, il symbolise un lien infini profond pour toute éternité
+- Ce double pendentif avec cristaux violets et roses et zircons cubiques transparents est peint à la main avec un émail rose poudré, bleu lavande et argent.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

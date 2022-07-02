@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 24 couleurs vives !
-- Des feutres à pointe fine pouvant également tracer de larges traits.
 - Idéal pour encourager la créativité des jeunes artistes dans leurs premiers dessins
+- Des feutres à pointe fine pouvant également tracer de larges traits.
+- 24 couleurs vives !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

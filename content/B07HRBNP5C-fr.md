@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Antennes externes : émetteur-récepteur et câble de connexion positionnables à souhait pour obtenir une meilleure réception du signal
 - Bluetooth 5.0 : transferts de données jusqu’à deux fois plus rapides, portée de signal multipliée par 4
+- Garantie 3 ans
+- Antennes externes : émetteur-récepteur et câble de connexion positionnables à souhait pour obtenir une meilleure réception du signal
 - Wi-Fi jusqu’à 5x plus rapide : largeur de bandes à 160 MHz pour fournir un débit sans fil allant jusqu’à 1,73 Gb/s sur la bande 5 GHz
 - Technologie MU-MIMO : tous les appareils connectés fonctionnent à l’aide du meilleur débit possible
-- Garantie 3 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

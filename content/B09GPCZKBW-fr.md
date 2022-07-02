@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le nec plus ultra des appareils photo . Capturez davantage de détails et des couleurs plus riches avec lappareil photo arrière avancé de 50 mégapixels qui capte jusquà 150 % de lumière en plus[2]
-- La puissance 100% Google sans compromis. La première puce entièrement conçue par Google spécialement pour le Pixel vous offre un téléphone rapide et des expériences de jeux enrichies, tout en protégeant vos informations personnelles
 - Changez de téléphone en toute simplicité. Le transfert de vos messages, de vos contacts et de vos photos depuis votre ancien smartphone vers votre nouveau Pixel ne nécessite que quelques étapes[4]
+- Le nec plus ultra des appareils photo . Capturez davantage de détails et des couleurs plus riches avec lappareil photo arrière avancé de 50 mégapixels qui capte jusquà 150 % de lumière en plus[2]
 - Votre sécurité intégrée au Pixel. La puce de sécurité Titan M2 nouvelle génération et cinq ans de mises à jour de sécurité contribuent à protéger vos données et votre vie privée[3]
 - La batterie qui ne vous laisse pas tomber. Sa batterie se recharge rapidement et sadapte à vous en privilégiant vos applications préférées pour vous offrir jusquà une journée dautonomie[1]
+- La puissance 100% Google sans compromis. La première puce entièrement conçue par Google spécialement pour le Pixel vous offre un téléphone rapide et des expériences de jeux enrichies, tout en protégeant vos informations personnelles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

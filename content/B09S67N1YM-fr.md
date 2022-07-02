@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Inspiré par le papier, conçu par un maître] Après 12 mois de recherche et de développement et plus de 1 000 heures de tests de couleurs, nous avons créé cette conception saisissante reproduisant l’aspect du papier
 - Le Snapdragon 888 5G emploie la technologie de gravure sur 5 nm pour une augmentation de 25 % des performances du processeur, et de 35 % des performances du processeur graphique par rapport aux générations précédentes
-- Passez en 30, 60, 90 ou 120 Hz selon l’activité en cours
+- [Inspiré par le papier, conçu par un maître] Après 12 mois de recherche et de développement et plus de 1 000 heures de tests de couleurs, nous avons créé cette conception saisissante reproduisant l’aspect du papier
 - [Nouveau Sony IMX 766] 4 pixels sont regroupés en un seul, puis transformés en super pixels de 2 µm pour une captation de la lumière 63,8 % supérieure à celle du Sony IMX 586
+- Passez en 30, 60, 90 ou 120 Hz selon l’activité en cours
 
 [🛒 Achète-le!!]({{< param buyurl >}})

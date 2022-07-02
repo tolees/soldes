@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soft cushioning
 - Injected EVA outsole for additional softness
+- Soft cushioning
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

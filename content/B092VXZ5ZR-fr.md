@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design fin et élégant : le corps unibody en métal est élégant et permet à Huawei MediaPad T5 10 de se distinguer ; légère et confortable à tenir en main, cest la tablette à avoir toujours avec vous.
 - Haut-parleurs stéréo : les deux haut-parleurs stéréo sont renforcés par la technologie Huawei Histen 5.0 qui offre un son profond et stratifié, pour une expérience 3D pénétrante.
-- Processeur octa-core : le processeur octa-core a une fréquence maximale de 2,36 GHz pour des performances élevées, lorsque plusieurs applications fonctionnent simultanément.
+- Design fin et élégant : le corps unibody en métal est élégant et permet à Huawei MediaPad T5 10 de se distinguer ; légère et confortable à tenir en main, cest la tablette à avoir toujours avec vous.
 - Écran 10,1" 1080P Full HD : Huawei MediaPad T5 10 a un écran de 10,1" en 16:10 avec une résolution de 1920 x 1200 et 224 PPI qui offre un spectacle pour les yeux à chaque utilisation.
+- Processeur octa-core : le processeur octa-core a une fréquence maximale de 2,36 GHz pour des performances élevées, lorsque plusieurs applications fonctionnent simultanément.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

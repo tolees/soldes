@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imprimantes compatibles : HP Officejet 6950 / 6951, HP Officejet Pro 6960 / 6970 / 6974
-- Eligible Instant Ink : Le forfait d’impression qui vous fait économiser sur l’encre. Vos cartouches HP livrées chez vous sans avoir à y penser, avant de tomber à court d’encre. En plus, Instant Ink est modulable et sans engagement (voir vidéo après les infographies)
-- Couleur : Noir (XL)
-- Cartouches dEncre HP Authentiques : la qualité professionnelle, de la première à la dernière page
-- Rendement : 750 pages (norme ISO/CEI 24711)
-- Modèle : T6M15AE
 - Protégez la planète : Les cartouches dencre HP authentiques sont fabriquées à partir de matériaux recyclés. Recyclez vos cartouches gratuitement avec le programme HP Planet Partners.
+- Rendement : 750 pages (norme ISO/CEI 24711)
+- Imprimantes compatibles : HP Officejet 6950 / 6951, HP Officejet Pro 6960 / 6970 / 6974
+- Modèle : T6M15AE
+- Cartouches dEncre HP Authentiques : la qualité professionnelle, de la première à la dernière page
+- Couleur : Noir (XL)
+- Eligible Instant Ink : Le forfait d’impression qui vous fait économiser sur l’encre. Vos cartouches HP livrées chez vous sans avoir à y penser, avant de tomber à court d’encre. En plus, Instant Ink est modulable et sans engagement (voir vidéo après les infographies)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

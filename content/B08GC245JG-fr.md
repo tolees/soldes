@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Piégez les allergènes. Respirez librement. Le filtre HEPA ultra performant piège les substances allergisantes, captant jusqu’à 99 % des allergènes et des fines poussières.
-- Nettoyez avec une brosse combinée à spirale jusqu’à 70 % plus large que celle des robots ronds. Efficace sur toute surface (bois, tapis, carrelage), elle convient à toute maison. Le grand bac à poussière de 0,7 L doit être vidé moins souvent.
 - Avec son design en D, les aspirateurs robot Neato atteignent la saleté là où les robots ronds ne peuvent pas, notamment dans les coins et le long des murs. Son design en Dse combine avec la technologie LasersMart pour mapper, naviguer et nettoyer votre maison avec une précision au millimètre, même dans le noir (et sous le mobilier).
 - La D8 a une autonomie de 100 minutes de temps dexécution, mais si votre robot mais si votre robot a besoin de plus de temps, il peut se recharger juste assez pour finir le travail et reprendre son nettoyage là où il en était. Il nettoie intelligemment et rapidement vos sols. Nous appelons cela la Charge rapide.
+- Nettoyez avec une brosse combinée à spirale jusqu’à 70 % plus large que celle des robots ronds. Efficace sur toute surface (bois, tapis, carrelage), elle convient à toute maison. Le grand bac à poussière de 0,7 L doit être vidé moins souvent.
+- Piégez les allergènes. Respirez librement. Le filtre HEPA ultra performant piège les substances allergisantes, captant jusqu’à 99 % des allergènes et des fines poussières.
 - Contrôlez votre robot via lapplication myNeato. Planifiez un nettoyage pour toute la maison ou des zones ciblées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
