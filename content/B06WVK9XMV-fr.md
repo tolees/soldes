@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Equipée dun protège-doigts pour éviter le contact avec laiguille lors de la couture, pour jeunes débutants créatifs avec protection pour les doigts (14 points)
 - Longueur & largeur des points préréglées, canette horizontale, réglage manuelle de la tension, livrée avec DVD dinitiation aux manipulations de base
 - 14 fonctions de couture utilitaires & décoratifs, dont 1 boutonnière en 4 étapes, pour les coutures basiques (ourlet, assemblage,...) sur différents types de tissu (fin, moyen, élastique,...)
 - Bras libre pour coudre les pièces tubulaires (bas de pantalon, manches,...)
 - Eclairage puissant du plan de travail par diode LED "lumière du jour"
-- Equipée dun protège-doigts pour éviter le contact avec laiguille lors de la couture, pour jeunes débutants créatifs avec protection pour les doigts (14 points)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
