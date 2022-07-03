@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hansgrohe 71405000 7848850 Logis Mélangeur de bac encastré Kit final Chromé'
-date: 2022-06-30 08:58:11
+date: 2022-07-03 07:31:30
 image: 'https://m.media-amazon.com/images/I/31PuYhiAHeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Hansgrohe'
 buyurl: 'https://www.amazon.fr/dp/B00KQQ7LEG/?tag=tolees0d-21'
 descuento: '15.86'
-average: '81.0666666666667'
+average: '80.9'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de marque
 - Original Hansgrohe
+- Produit de marque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

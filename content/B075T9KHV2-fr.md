@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Armor Lux Femme Marinière "Cancale" Femme T shirt  Blanc/Braise  XX - Large  Taille 5  EU'
-date: 2022-06-30 08:12:15
+date: 2022-07-03 07:27:27
 image: 'https://m.media-amazon.com/images/I/41Tv0K5xPZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La marque de qualité
 - Depuis 1938
+- La marque de qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
