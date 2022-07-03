@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Modèle : standard Crew
 - standard
+- Modèle : standard Crew
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

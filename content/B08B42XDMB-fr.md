@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quantité de colis darticles : 1
-- Poids du colis de larticle : 940 g
 - Dimensions de lemballage darticles (L x B x H) : 11.4 x 25.8 x 26.8 cm
 - Fabriqué en Chine
+- Quantité de colis darticles : 1
+- Poids du colis de larticle : 940 g
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

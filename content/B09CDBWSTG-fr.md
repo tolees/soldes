@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 15 blasters Nerf authentiques dans les gammes Mega, Ultra et Elite ! Plus des avantages et des skins évolutifs pour les personnaliser !
-- Campagne solo sur 19 niveaux avec 10 types de robots ennemis et boss différents à travers une série de défis intenses, jeu multiplateforme en ligne à 4 contre 4, ou chacun pour soi à 8 joueurs
-- Collectez des bonus de fléchettes tels que la poussée magnétique, la traction magnétique, les fléchettes chercheuses ou au gel pour changer le cours des batailles !
 - Nerf Legends vous plonge dans un monde de science-fiction futuriste où vous vous retrouverez face à des légions dandroïdes ennemis et boss ultimes dans une série denvironnements uniques et immersifs
+- Campagne solo sur 19 niveaux avec 10 types de robots ennemis et boss différents à travers une série de défis intenses, jeu multiplateforme en ligne à 4 contre 4, ou chacun pour soi à 8 joueurs
 - Utilisez le créateur de personnage personnalisé pour personnaliser votre avatar ! Vos compétences Nerf sont-elles à la hauteur du défi de devenir la légende Nerf ultime ?
+- Collectez des bonus de fléchettes tels que la poussée magnétique, la traction magnétique, les fléchettes chercheuses ou au gel pour changer le cours des batailles !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

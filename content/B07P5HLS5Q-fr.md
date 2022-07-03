@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En proposant deux positions de tenues différentes, la Book Cover vous permet de profiter au maximum de votre Galaxy Tab A en bénéficiant dun confort de visionnage, lecture et écriture amélioré
 - Étui pour tab A 10.1 2019
+- En proposant deux positions de tenues différentes, la Book Cover vous permet de profiter au maximum de votre Galaxy Tab A en bénéficiant dun confort de visionnage, lecture et écriture amélioré
 
 [🛒 Achète-le!!]({{< param buyurl >}})

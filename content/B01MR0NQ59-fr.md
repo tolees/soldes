@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Geomag est un jeu éducatif qui stimule et développe l’imagination, la créativité, la logique et les aptitudes manuelles, tout en facilitant la compréhension des notions complexes de la physique, comme la création de champs magnétiques et les forces d’attraction et de répulsion. Notre ligne Geomag Panels vous offre toutes les couleurs dont votre imagination a besoin
+- Geomag est le jeu de construction magnétique le plus célèbre au monde, composé de barrettes aimantées et de sphères métalliques
+- Grâce aux aimants placés à leurs deux extrémités, les barrettes se connectent aux sphères, vous permettant de construire tout ce qui vous passe par la tête
 - La boîte Panels comprend 14 sphères, 16 barrettes jaunes, 10 panneaux triangulaires, huit carrés et deux pentagonaux
 - Les produits Geomag sont classés dans la catégorie STEM (acronyme de Science, Technology, Engineering and Mathematics), qui indique une approche interdisciplinaire de lapprentissage
-- Geomag est le jeu de construction magnétique le plus célèbre au monde, composé de barrettes aimantées et de sphères métalliques
-- Geomag est un jeu éducatif qui stimule et développe l’imagination, la créativité, la logique et les aptitudes manuelles, tout en facilitant la compréhension des notions complexes de la physique, comme la création de champs magnétiques et les forces d’attraction et de répulsion. Notre ligne Geomag Panels vous offre toutes les couleurs dont votre imagination a besoin
-- Grâce aux aimants placés à leurs deux extrémités, les barrettes se connectent aux sphères, vous permettant de construire tout ce qui vous passe par la tête
 
 [🛒 Achète-le!!]({{< param buyurl >}})

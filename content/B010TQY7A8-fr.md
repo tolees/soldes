@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu ayant reçu le plus dinvestisseurs de lhistoire sur Kickstarter, illustrations des cartes réalisées par The Oatmeal.
-- Contient : 56 cartes (6,3 cm x 9 cm), boîte et instructions de jeu.
 - En famille ou entre amis, jeu de carte pour 2-5 joueurs (jusquà 9 joueurs si vous ajoutez un autre jeu).
 - Cette boîte, comme 99.99% des boîtes, ne miaule pas. Cochez la case pour un hologramme pour assurer lauthenticité.
+- Jeu ayant reçu le plus dinvestisseurs de lhistoire sur Kickstarter, illustrations des cartes réalisées par The Oatmeal.
+- Contient : 56 cartes (6,3 cm x 9 cm), boîte et instructions de jeu.
 - Exploding Kittens est un jeu de cartes pour les gens qui sont branchés chatons et explosions. et faisceaux laser et parfois chèvres.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

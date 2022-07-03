@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure offrant une absorption des chocs, un ajustement et un confort supplémentaire.
 - Lacets sur le devant avec col et languette rembourrés.
 - Dessus en nylon/daim pour une utilisation longue durée.
-- Semelle extérieure en caoutchouc durable.
+- Semelle intérieure offrant une absorption des chocs, un ajustement et un confort supplémentaire.
 - Semelle intermédiaire à rayures en EVA absorbant les chocs.
+- Semelle extérieure en caoutchouc durable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage à la main
 - Coton biologique (98 %), élasthanne (2 %)
 - Fermeture: Sans fermeture
+- Lavage à la main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

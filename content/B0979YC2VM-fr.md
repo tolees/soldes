@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Visitez cinq villes peuplées de créatures uniques et aventurez-vous dans plus de vingt donjons remplis de dangers. Préparez-vous pour au moins une cinquantaine dheures de jeu passionantes
-- Créé par une équipe de développeurs ayant travaillé sur Final Fantasy, NieR: Automata et Bravely Default, Astria Ascending propose des dialogues doublés en japonais et en anglais
-- Plongez dans un fascinant récit riche en trahisons, sacrifices et terreurs et mettant laccent sur des personnages adultes qui offre une expérience mature avec des dialogues passionnants
-- Faites votre choix parmi huit personnages personnalisables appartenant à des races fantastiques et dotés daptitudes diverses, puis formez une équipe qui devra tout sacrifier pour sauver Orcanon.
 - Explorez un vaste monde menacé par le chaos dans un JRPG mature et riche en émotions. Découvrez une histoire épique parfaitement servie par de magnifiques graphismes en 4K
+- Faites votre choix parmi huit personnages personnalisables appartenant à des races fantastiques et dotés daptitudes diverses, puis formez une équipe qui devra tout sacrifier pour sauver Orcanon.
+- Plongez dans un fascinant récit riche en trahisons, sacrifices et terreurs et mettant laccent sur des personnages adultes qui offre une expérience mature avec des dialogues passionnants
+- Créé par une équipe de développeurs ayant travaillé sur Final Fantasy, NieR: Automata et Bravely Default, Astria Ascending propose des dialogues doublés en japonais et en anglais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

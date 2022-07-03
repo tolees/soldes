@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’encas idéal et riche en protéines
-- Sans lactose et végétalien
-- 30 % de protéines
-- Sensation de satiété agréable et durable
 - Consistance croustillante en alternative aux barres chocolatées moelleuses
+- Sensation de satiété agréable et durable
+- Sans lactose et végétalien
+- L’encas idéal et riche en protéines
+- 30 % de protéines
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

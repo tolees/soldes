@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: À la fabrication climatiquement neutre en Allemagne
 - produit 2: À la fabrication écologique et équitable
-- produit 1: Matière bâche sans PVC
-- produit 1: Composition : 100% Polyamide
+- produit 1: À la fabrication climatiquement neutre en Allemagne
 - produit 1: Soudage étanche
+- produit 1: Matière bâche sans PVC
 - produit 2: Pour la carte et les appareils électroniques
 - produit 2: Accessoires pour sacoche Vaude pour le guidon
+- produit 1: Composition : 100% Polyamide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

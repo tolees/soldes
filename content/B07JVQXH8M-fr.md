@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur: Noir
-- Niveau sonore maximal: 29, 7 dBA
-- Niveau sonore maximal: 29,7 dBA
 - Produit destiné aux joueurs exigeants
+- Niveau sonore maximal: 29,7 dBA
+- Niveau sonore maximal: 29, 7 dBA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

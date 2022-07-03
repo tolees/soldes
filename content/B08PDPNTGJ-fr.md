@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo instantané pour enfants - Impression sur rouleau de papier thermique..
+- Lot de 12 feutres à colorier dans vos images préférées, vous recevrez également 3 rouleaux de ruban de masquage coloré. pour coller vos photos autour de la maison.
 - Ce paquet comprend un album de scrapbooking pour avoir vos photos préférées en un seul endroit.
 - Creacam Blu : améliore la créativité et la motricité fine.
+- Appareil photo instantané pour enfants - Impression sur rouleau de papier thermique..
 - Contenu de lemballage : 1 x Creacam Instant Cam 2 x rouleaux de papier (environ 80 impressions chacune).
-- Lot de 12 feutres à colorier dans vos images préférées, vous recevrez également 3 rouleaux de ruban de masquage coloré. pour coller vos photos autour de la maison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
