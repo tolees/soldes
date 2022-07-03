@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un monde de nature peint avec le "shader atmosphérique"
+- De laction et des combats époustouflants
 - Explorez un monde vivant
 - Découvrez lhistoire des peuples divisés de rena et de dahna
-- Un monde de nature peint avec le "shader atmosphérique"
 - Libérez-vous des chaînes du destin
-- De laction et des combats époustouflants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
