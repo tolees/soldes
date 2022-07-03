@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Processeur Intel Core i9-11900 Rocket Lake  2 5Ghz '
-date: 2022-06-28 07:56:11
+date: 2022-07-03 16:15:23
 image: 'https://m.media-amazon.com/images/I/312tjsSjBuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08TX4VNPK-fr Processeur Intel Core i9-11900 Rocket Lake 2 5Ghz'
 sku: 'B08TX4VNPK-fr'
 tags: [ 'Composants et pièces de remplacement','Composants internes','Informatique','Processeurs','intel','🇫🇷', ]
-actualPrice: 362.07 EUR
+actualPrice: 328.1 EUR
 currency: EUR
-price: 362.07
+price: 328.1
 comparePrice: 446.58 EUR
 prodname: 'Processeur Intel Core i9-11900 Rocket Lake  2 5Ghz '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Intel'
 buyurl: 'https://www.amazon.fr/dp/B08TX4VNPK/?tag=tolees0d-21'
-descuento: '18.92'
-average: '362.07'
+descuento: '26.53'
+average: '345.085'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

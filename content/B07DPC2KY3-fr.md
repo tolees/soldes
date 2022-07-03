@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOMO Design 001017-19 Casque Moto  Bleu Mat/Gris  M'
-date: 2022-06-28 16:57:16
+date: 2022-07-03 16:28:27
 image: 'https://m.media-amazon.com/images/I/317BoFlQFjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabriqué en Chine
 - matériel : Polycarbonate injecté
 - Couleur : Bleu mat logo gris
-- Fabriqué en Chine
 - dimensions de lemballage de larticle : 35.0x27.0x28.0cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

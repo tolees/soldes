@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epos Casque Audio Gaming GSP 500 1000243'
-date: 2022-07-02 15:30:59
+date: 2022-07-03 16:12:08
 image: 'https://m.media-amazon.com/images/I/416TaGG-XXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Quantité de colis darticles : 1
-- Dimensions de lemballage darticles (L x B x H) : 11.4 x 25.8 x 26.8 cm
 - Poids du colis de larticle : 940 g
+- Dimensions de lemballage darticles (L x B x H) : 11.4 x 25.8 x 26.8 cm
 - Fabriqué en Chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
