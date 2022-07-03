@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COUVERTURE CONTRE LES DÉGÂTS CAUSÉS PAR L’EAU : Le remplacement de votre appareil est possible si les dégâts ont eu lieu pendant un usage normal
-- DÉCOLLAGE EXPRESS : Le centre de services DJI envoie immédiatement une unité de remplacement dès la réception du drone endommagé. Retournez dans les airs en un rien de temps
 - FRAIS DE PORT GRATUITS : Si vous trouvez dans la région où vous avez acheté votre appareil, les frais de ports sont couverts par DJI
-- DEUX REMPLACEMENTS, UNE TRANQUILLITÉ D’ESPRIT TOTALE : DJI Care Refresh propose jusqu’à deux unités de replacement sur une période d’un an
+- COUVERTURE CONTRE LES DÉGÂTS CAUSÉS PAR L’EAU : Le remplacement de votre appareil est possible si les dégâts ont eu lieu pendant un usage normal
 - Cet article n est plus en solde !
+- DÉCOLLAGE EXPRESS : Le centre de services DJI envoie immédiatement une unité de remplacement dès la réception du drone endommagé. Retournez dans les airs en un rien de temps
+- DEUX REMPLACEMENTS, UNE TRANQUILLITÉ D’ESPRIT TOTALE : DJI Care Refresh propose jusqu’à deux unités de replacement sur une période d’un an
 
 [🛒 Achète-le!!]({{< param buyurl >}})

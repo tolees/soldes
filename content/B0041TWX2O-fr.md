@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions hors tout avec pieds de support fermés : L 68 x H 20 x P 80 cm
-- Table à langer pouvant être utilisée sur la table, sur le lit de bébé ou sur la baignoire : elle est équipée de pieds pliables et réglables pour se positionner sur la baignoire. Équipé de compartiments de rangement latéraux.
-- Utilisation du plat sur la baignoire : dimension intérieure minimum de la baignoire 56 cm, maximum 74 cm Remarque : Cette table à langer ne peut pas être placée sur des baignoires de toutes formes. La table à langer peut être placée sur des baignoires rectangulaires qui ont de longs côtés parallèles et une bordure dau moins 4 cm.
-- Norme de référence : EN 12221-1 : 2008 + A1 : 2013. Poids maximum de lenfant : 11 kg.
 - Pour une utilisation sur le lit : mesure extérieure entre les côtés de 63 cm à 73,5 cm. Pour une utilisation sur la baignoire : dimension interne maximum 74 cm Pour une utilisation sur la table : dimension minimum requise pour un bon support 67 cm x 85 cm
+- Utilisation du plat sur la baignoire : dimension intérieure minimum de la baignoire 56 cm, maximum 74 cm Remarque : Cette table à langer ne peut pas être placée sur des baignoires de toutes formes. La table à langer peut être placée sur des baignoires rectangulaires qui ont de longs côtés parallèles et une bordure dau moins 4 cm.
+- Dimensions hors tout avec pieds de support fermés : L 68 x H 20 x P 80 cm
+- Norme de référence : EN 12221-1 : 2008 + A1 : 2013. Poids maximum de lenfant : 11 kg.
+- Table à langer pouvant être utilisée sur la table, sur le lit de bébé ou sur la baignoire : elle est équipée de pieds pliables et réglables pour se positionner sur la baignoire. Équipé de compartiments de rangement latéraux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

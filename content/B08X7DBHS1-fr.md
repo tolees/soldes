@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectez-vous – Dispose dune connectivité réseau LAN 2,5 G ; les ports fixes incluent USB 3.2 Gen 2 (10 Go/s), HDMI 2.0b 4K/60 Hz (Intel Core 11e génération uniquement) et DP 1.4, et 7.1 HD Audio avec Audio Boost
-- Refroidissement passif et AI : dissipateurs de chaleur étendus en concert avec des coussinets thermiques de 7 W/mK maximisent le refroidissement VRM
 - SSD M.2 GEN4 avec interrupteur automatique
-- Fente GPU GEN4, DDR4 Boost – Un port PCIe 4.0 x16 (avec cadre en acier) prend en charge les cartes graphiques de pointe
+- Refroidissement passif et AI : dissipateurs de chaleur étendus en concert avec des coussinets thermiques de 7 W/mK maximisent le refroidissement VRM
+- Connectez-vous – Dispose dune connectivité réseau LAN 2,5 G ; les ports fixes incluent USB 3.2 Gen 2 (10 Go/s), HDMI 2.0b 4K/60 Hz (Intel Core 11e génération uniquement) et DP 1.4, et 7.1 HD Audio avec Audio Boost
 - La MAG B560M BAZOOKA est une carte mère de jeu micro-ATX compacte équipée du dernier chipset Intel B560
+- Fente GPU GEN4, DDR4 Boost – Un port PCIe 4.0 x16 (avec cadre en acier) prend en charge les cartes graphiques de pointe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
