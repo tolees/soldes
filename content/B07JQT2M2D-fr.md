@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Double SIM : Non
-- Batterie : Li-Ion 1000 mAh
+- Taille de lécran : 2,8 Pouces couleur QVGA - Résolution de lécran : 240 x 320 pixels
 - Photo/Vidéo : 2 MP
 - Quadri bande 2 G : 850/900/1800/1900 MHz - 3G : W850/W2100
-- Taille de lécran : 2,8 Pouces couleur QVGA - Résolution de lécran : 240 x 320 pixels
+- Batterie : Li-Ion 1000 mAh
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

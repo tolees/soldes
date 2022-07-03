@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double plateau Polibox pour tout type de nourriture à conserver idéalement dans une boîte pratique.
-- Associe esthétisme, fonctionnalité et design
 - Facilement nettoyable, passe au lave-vaisselle
-- 45x31,5x40 cm
+- Associe esthétisme, fonctionnalité et design
 - Boîte polyvalente, double pour conserver et présenter tous types de nourriture, fromage, pain, etc.
+- 45x31,5x40 cm
+- Double plateau Polibox pour tout type de nourriture à conserver idéalement dans une boîte pratique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design ergonomique exclusif, 9 Sabots (1,5 à 15mm)
 - Prise secteur, pochette de rangement, brosse de nettoyage et huile
 - Utilisation avec ou sans fil Entièrement lavable avec système de nettoyage intégré
+- Design ergonomique exclusif, 9 Sabots (1,5 à 15mm)
 - Batterie lithium, autonomie de 40min pour 4h de charge Option charge rapide : 10min
 - Lames acier inoxydable avec technologie CurveCut ; lame incurvée pour plus de précision
 

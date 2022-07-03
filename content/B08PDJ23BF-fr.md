@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Optez pour une taille au-dessus pour un style confortable en toute simplicité ou optez pour votre taille habituelle pour un look classique
+- Logo discret sur la poitrine
 - En piqué léger et respirant
 - Un polo élégant et facile à porter, loin d’être étouffant
-- Logo discret sur la poitrine
-- Optez pour une taille au-dessus pour un style confortable en toute simplicité ou optez pour votre taille habituelle pour un look classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

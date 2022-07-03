@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Imprimé G-Star Originals sur la poitrine
 - Ourlet droit
 - Col rond côtelé
-- Imprimé G-Star Originals sur la poitrine
 - Manches courtes
 - Coupe classique
 
