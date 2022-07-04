@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG RYUJIN 360  Kit de watercooling CPU All-in-One ROG  avec Interface OLED et avec LEDs Adressables RGB  revêtement Pompe NCVM et Ventilateur du radiateur Noctua NF-F12 3*120 mm'
-date: 2022-07-03 15:48:26
+date: 2022-07-04 16:34:15
 image: 'https://m.media-amazon.com/images/I/319PY4daF0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Noir
+- Niveau sonore maximal: 29, 7 dBA
 - Produit destiné aux joueurs exigeants
 - Niveau sonore maximal: 29,7 dBA
-- Niveau sonore maximal: 29, 7 dBA
+- Couleur: Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

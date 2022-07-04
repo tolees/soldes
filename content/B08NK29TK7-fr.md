@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cartable 38 Tann s'
-date: 2022-06-30 14:44:37
+date: 2022-07-04 18:27:43
 image: 'https://m.media-amazon.com/images/I/51i3MeEL4wS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Tanns'
 buyurl: 'https://www.amazon.fr/dp/B08NK29TK7/?tag=tolees0d-21'
 descuento: '20.00'
-average: '60.5714285714286'
+average: '60.65'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Réfléchissants sur le devant, les côtés et au dos du cartable
 - Léger, moins de 1 kg ; en moyenne 860 g
 - Cartable 38 cm adapté aux classes de CP au CE2. Très résistant et conçu pour durer. Matière éco-responsable : polyester de haute qualité issu de bouteilles plastiques recyclées. Matière résistante à l’eau. Etoiles embossées et porte-clef sneakers
-- Cartable équipé de 2 compartiments pouvant accueillir des cahiers 24x32cm et documents au format A4. Poche avant zippée
-- Réfléchissants sur le devant, les côtés et au dos du cartable
 - Dos et bretelles ergonomiques et confortables
+- Cartable équipé de 2 compartiments pouvant accueillir des cahiers 24x32cm et documents au format A4. Poche avant zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
