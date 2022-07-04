@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Utilisez les ressources récupérées et les produits obtenus via les distributeurs pour créer des objets
 - Plus vous sauvez de mudokons, plus votre révolte devient puissante.
 - Un scénario sombre à l’humour grinçant, plein
-- Utilisez les ressources récupérées et les produits obtenus via les distributeurs pour créer des objets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
