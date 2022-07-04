@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pantoufles pour homme
-- Numéro darticle : 510 809 010
-- Forme du talon : plat
 - Hauteur du talon : 2
 - Groupe dâge : adulte
+- Forme du talon : plat
+- Numéro darticle : 510 809 010
 
 [🛒 Achète-le!!]({{< param buyurl >}})
