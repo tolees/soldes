@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il permet d’augmenter la température de l’eau d’environ 3 ºC
-- Il est possible de connecter plusieurs appareils de chauffage en série les uns aux autres
-- Système de chauffage solaire pour chauffer l’eau des piscines
-- Recommandé pour les piscines de 7,5 à 10 mètres cubes
 - Système de chauffage solaire
+- Recommandé pour les piscines de 7,5 à 10 mètres cubes
+- Système de chauffage solaire pour chauffer l’eau des piscines
+- Il est possible de connecter plusieurs appareils de chauffage en série les uns aux autres
+- Il permet d’augmenter la température de l’eau d’environ 3 ºC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

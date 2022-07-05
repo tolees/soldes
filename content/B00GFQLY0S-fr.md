@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Temps de charge courts et pas d’autodécharge grâce à la technologie Li-Ion
+- Multifonctions : une série de lames « Multi-Click » rend l’Isio encore plus polyvalent.
 - Accessoires compatibles avec lISIO : Lame 80 mm (F 016 800 326), Lame 120 mm (F 016 800 327) toutes deux fournies dans le Set & le Manche télescopique (F 016 800 329) qui est à acheter séparément.
+- Livrée avec: Cisaille sculpte-haies et taille-herbes Isio Set, chargeur, lame de taille-herbes Multi-Click de 8 cm, lame de sculpte-haies Multi-Click de 12 cm (3165140630627)
+- Cisaille sculpte-haies et taille-herbes sans-fil Isio Set : une aide précieuse pour les travaux de jardin quotidiens
 - Travail détendu sans interruptions grâce au système Anti-blocage
 - Distance entre couteaux: 0,8 cm
-- Multifonctions : une série de lames « Multi-Click » rend l’Isio encore plus polyvalent.
-- Cisaille sculpte-haies et taille-herbes sans-fil Isio Set : une aide précieuse pour les travaux de jardin quotidiens
 - Type de fonctionnement: batterie rechargeable
-- Livrée avec: Cisaille sculpte-haies et taille-herbes Isio Set, chargeur, lame de taille-herbes Multi-Click de 8 cm, lame de sculpte-haies Multi-Click de 12 cm (3165140630627)
-- Temps de charge courts et pas d’autodécharge grâce à la technologie Li-Ion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
