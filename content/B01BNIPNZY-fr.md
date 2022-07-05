@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tête pivotante à 180°en mode dresse bordures
-- Tube aluminium télescopique réglable et 2eme poignée orientable : pour une meilleure ergonomie
 - 2 vitesses eco-turbo : choix entre 2 vitesses pour ajuster la puissance et lautonomie : mode eco pour les herbes fines et mode turbo pour les herbes denses
 - Roue de guidage pour longer efficacement murs et clôtures et pour une utilisation facilité en mode dresse-bordures
-- Déroulement du fil 100% automatique reflex. Surface de coupe : 2500 m
+- Tête pivotante à 180°en mode dresse bordures
+- Tube aluminium télescopique réglable et 2eme poignée orientable : pour une meilleure ergonomie
 - Distance télescopique: 315 mm
 - Transmission bi-étagée e-drive : une efficacité constante quel que soit le type dherbe à couper
 - Batterie interchangeable avec la totalité des produits 18V BLACK+DECKER Bricolage et Jardinage
+- Déroulement du fil 100% automatique reflex. Surface de coupe : 2500 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
