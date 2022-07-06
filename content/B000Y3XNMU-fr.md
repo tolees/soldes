@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- droit
+- jean
+- Le plus célèbre modèle Wrangler
 - Fermeture Éclair
 - homme
-- Le plus célèbre modèle Wrangler
-- jean
+- droit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair RM750  2021   RM Series  750 Watts 80 Plus Gold Alimentations ATX Entièrement Modulaires  Trois Connecteurs EPS12V  Fonctionnement Silencieux  Mode Zero RPM  Condensateurs 105 °C  Noir'
-date: 2022-07-05 17:03:45
+date: 2022-07-06 19:04:09
 image: 'https://m.media-amazon.com/images/I/416aqwap0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Câbles entièrement modulaires : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné.
 - Trois connecteurs EPS12V : Pour une compatibilité complète avec les cartes graphiques et cartes mères modernes.
-- Condensateurs certifiés 105 °C : Condensateurs de qualité industrielle qui délivrent de solides performances électriques et une grande fiabilité.
+- Certification 80 PLUS Gold : Une efficacité allant jusqu’à 90 % qui garantit une réduction de la consommation, du bruit et de la température.
 - Mode de ventilation Zero RPM : À basse et moyenne charge, le ventilateur de refroidissement s’éteint complètement pour un fonctionnement silencieux.
 - Fonctionnement silencieux : Ventilateur à roulement hydrodynamique de 140 mm doté d’une courbe de ventilation spécialement définie permettant de réduire le bruit du ventilateur au strict minimum.
-- Certification 80 PLUS Gold : Une efficacité allant jusqu’à 90 % qui garantit une réduction de la consommation, du bruit et de la température.
-- Câbles entièrement modulaires : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné.
+- Condensateurs certifiés 105 °C : Condensateurs de qualité industrielle qui délivrent de solides performances électriques et une grande fiabilité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure intérieure résistante
 - Daim sur le dessus
 - Laçage sur le devant et les côtés
+- Doublure intérieure résistante
 - Semelles en crêpe et bord adhérant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
