@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution daffichage: 64 x 132 pixels
 - Matériau de la lunette: acier inoxydable | Matériau du bracelet: silicone
+- Résolution daffichage: 64 x 132 pixels
 
 [🛒 Achète-le!!]({{< param buyurl >}})
