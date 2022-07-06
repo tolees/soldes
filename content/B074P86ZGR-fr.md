@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- le SHARK-X3 remonte à la surface en cas d’immersion
-- Résolution 5MP+ Flash intégré+ Sifflet intégré
 - Étanche
-- Résistant
+- le SHARK-X3 remonte à la surface en cas d’immersion
 - Flottant
+- Résolution 5MP+ Flash intégré+ Sifflet intégré
+- Résistant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

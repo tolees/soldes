@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Résistant à des centaines de cycles
+- Pré-chargées à lénergie solaire
 - Haute récupération
 - Bonnes performances de décharge profonde
-- Pré-chargées à lénergie solaire
-- Résistant à des centaines de cycles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
