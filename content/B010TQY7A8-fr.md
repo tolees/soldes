@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens Edition Originale - Jeu de Cartes - Version Anglaise EKG-ORG1-1 One Size'
-date: 2022-07-03 15:34:56
+date: 2022-07-06 15:26:33
 image: 'https://m.media-amazon.com/images/I/41ItKaFBWtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B010TQY7A8-fr Exploding Kittens Edition Originale - Jeu de Cartes -...'
 sku: 'B010TQY7A8-fr'
 tags: [ 'Jeux de cartes','Jeux de cartes stratégiques à collectionner','Jeux de société','Jeux et Jouets','Jeux et jouets','exploding kittens','🇫🇷', ]
-actualPrice: 14.75 EUR
+actualPrice: 14.01 EUR
 currency: EUR
-price: 14.75
+price: 14.01
 comparePrice: 24.99 EUR
 prodname: 'Exploding Kittens Edition Originale - Jeu de Cartes - Version Anglaise EKG-ORG1-1 One Size'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Exploding Kittens'
 buyurl: 'https://www.amazon.fr/dp/B010TQY7A8/?tag=tolees0d-21'
-descuento: '40.98'
-average: '17.056'
+descuento: '43.94'
+average: '16.5483333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contient : 56 cartes (6,3 cm x 9 cm), boîte et instructions de jeu.
+- Exploding Kittens est un jeu de cartes pour les gens qui sont branchés chatons et explosions. et faisceaux laser et parfois chèvres.
 - En famille ou entre amis, jeu de carte pour 2-5 joueurs (jusquà 9 joueurs si vous ajoutez un autre jeu).
 - Cette boîte, comme 99.99% des boîtes, ne miaule pas. Cochez la case pour un hologramme pour assurer lauthenticité.
 - Jeu ayant reçu le plus dinvestisseurs de lhistoire sur Kickstarter, illustrations des cartes réalisées par The Oatmeal.
-- Contient : 56 cartes (6,3 cm x 9 cm), boîte et instructions de jeu.
-- Exploding Kittens est un jeu de cartes pour les gens qui sont branchés chatons et explosions. et faisceaux laser et parfois chèvres.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
