@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
-date: 2022-06-30 14:09:43
+date: 2022-07-07 06:04:06
 image: 'https://m.media-amazon.com/images/I/41Sekt4XtjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'AEG'
 buyurl: 'https://www.amazon.fr/dp/B077YDLH3T/?tag=tolees0d-21'
 descuento: '19.61'
-average: '51.49'
+average: '47.99'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lecture et effacement denviron 20 000 codes défauts directement depuis lappareil.
-- Informations sur le véhicules et tests démissions
-- Pour véhicules avec prise standard OBD II (essence à partir de 2000 et diesel à partir de 2003)
-- Détecte lorigine des pannes et affiche la description du défaut + code
 - Effacement rapide des défauts et du voyant lumineux
+- Pour véhicules avec prise standard OBD II (essence à partir de 2000 et diesel à partir de 2003)
+- Lecture et effacement denviron 20 000 codes défauts directement depuis lappareil.
+- Détecte lorigine des pannes et affiche la description du défaut + code
+- Informations sur le véhicules et tests démissions
 
 [🛒 Achète-le!!]({{< param buyurl >}})
