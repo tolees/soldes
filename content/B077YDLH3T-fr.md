@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effacement rapide des défauts et du voyant lumineux
-- Pour véhicules avec prise standard OBD II (essence à partir de 2000 et diesel à partir de 2003)
 - Lecture et effacement denviron 20 000 codes défauts directement depuis lappareil.
-- Détecte lorigine des pannes et affiche la description du défaut + code
 - Informations sur le véhicules et tests démissions
+- Détecte lorigine des pannes et affiche la description du défaut + code
+- Pour véhicules avec prise standard OBD II (essence à partir de 2000 et diesel à partir de 2003)
+- Effacement rapide des défauts et du voyant lumineux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
