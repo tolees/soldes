@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Red 3 To NAS 3 5” Disque dur interne - Classe 5400 RPM  SATA 6 Gb/s  SMR  256 Mo Cache'
-date: 2022-06-24 14:04:48
+date: 2022-07-07 08:07:54
 image: 'https://m.media-amazon.com/images/I/41xmZfkFXVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

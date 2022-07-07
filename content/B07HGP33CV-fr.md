@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éprouvé pour vous aider à combattre le SAD/blues hivernal, dispositif médical certifié (classe I), 3 ans de garantie.
-- Reproduction authentique des couleurs (aube/crépuscule) par mix de LED. Éclairage par variateur. Affichage nocturne. Radio FM, 5 stations préréglées. 14 mélodies de réveil/sommeil, dont bruit blanc.
+- Réveil naturel avec la lumière. Réglage de l’intensité maximale de la lumière ou de l’aube entre 15 et 90 minutes. Radio ou mélodies de réveil comme alarme sonore. Arrêt momentané par tapotement. Matériau: Polycarbonate, Textile.
 - Détendez-vous et endormez-vous aisément avec le crépuscule entre 15 et 90 minutes. Mélodies d’endormissement. Baisse progressive de la lumière jusqu’à extinction ou passage en mode veilleuse.
 - Fabriqué par Lumie, le spécialiste de luminothérapie qui a mis au point les simulateurs d’aube.
-- Réveil naturel avec la lumière. Réglage de l’intensité maximale de la lumière ou de l’aube entre 15 et 90 minutes. Radio ou mélodies de réveil comme alarme sonore. Arrêt momentané par tapotement. Matériau: Polycarbonate, Textile.
+- Éprouvé pour vous aider à combattre le SAD/blues hivernal, dispositif médical certifié (classe I), 3 ans de garantie.
+- Reproduction authentique des couleurs (aube/crépuscule) par mix de LED. Éclairage par variateur. Affichage nocturne. Radio FM, 5 stations préréglées. 14 mélodies de réveil/sommeil, dont bruit blanc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

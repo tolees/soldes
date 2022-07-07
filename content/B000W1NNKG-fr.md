@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Al Buje Pro 26" - Pro
-- Support de vélo - PRO
 - Support de vélo -Référence PR100399
+- Support de vélo - PRO
 
 [🛒 Achète-le!!]({{< param buyurl >}})

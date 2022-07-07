@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran noir ouvert
 - Bracelet argenté en acier inoxydable
-- Boitier rond en acier inoxydable
 - Mouvement automatique double rétrograde avec jours
+- Boitier rond en acier inoxydable
+- Cadran noir ouvert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Eclairage LED
+- Poignée à revêtement tendre "Softgrip"
 - Arrêt rapide "Quick Stop“
 - Mandrin amovible, l’embout de visage se fixe directement sans mandrin, conception compacte et légère
 - Mandrin monobloc auto-serrant
-- Poignée à revêtement tendre "Softgrip"
-- Eclairage LED
 
 [🛒 Achète-le!!]({{< param buyurl >}})
