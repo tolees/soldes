@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- M-ATX GAMING, 11TH GEN CORE - The MAG B560M BAZOOKA is a compact micro-ATX gaming motherboard outfitted with the latest Intel B560 chipset (LGA 1200, 11th Gen Core ready); The VRM 5 Duet Rail Power System is supported by MSI Core Boost technology
-- GEN4 GPU SLOT, DDR4 BOOST - A PCIe 4.0 x16 slot (with steel frame) supports state-of-the-art graphics cards; Quad DIMM’s with dual-channel DDR4 architecture support SDRAM overclocking (5066MHz/OC) via XMP
-- PASSIVE & AI COOLING - Extended heatsinks in concert with 7W/mK thermal pads maximize VRM cooling; a 6-layer PCB base with thickened copper helps dissipate heat; Frozr AI cooling automatically adjusts system fan settings based on CPU & GPU temperatures
 - GET CONNECTED - Features 2.5G LAN network connectivity; Fixed ports include USB 3.2 Gen 2 (10Gb/s), 4K/60Hz HDMI 2.0b (Intel Core 11th Gen only) & DP 1.4, and 7.1 HD Audio with Audio Boost
 - GEN4 M.2 SSD WITH AUTO-SWITCH - The M.2 Gen4 x4 64Gb/s slot automatically synchronises to either 10th or 11th Gen CPUs and includes Shield Frozr to prevent thermal throttling; Both the Gen4 and Gen3 M.2 SSD slots support Intel Optane memory modules
+- M-ATX GAMING, 11TH GEN CORE - The MAG B560M BAZOOKA is a compact micro-ATX gaming motherboard outfitted with the latest Intel B560 chipset (LGA 1200, 11th Gen Core ready); The VRM 5 Duet Rail Power System is supported by MSI Core Boost technology
+- PASSIVE & AI COOLING - Extended heatsinks in concert with 7W/mK thermal pads maximize VRM cooling; a 6-layer PCB base with thickened copper helps dissipate heat; Frozr AI cooling automatically adjusts system fan settings based on CPU & GPU temperatures
+- GEN4 GPU SLOT, DDR4 BOOST - A PCIe 4.0 x16 slot (with steel frame) supports state-of-the-art graphics cards; Quad DIMM’s with dual-channel DDR4 architecture support SDRAM overclocking (5066MHz/OC) via XMP
 
 [🛒 Achète-le!!]({{< param buyurl >}})
