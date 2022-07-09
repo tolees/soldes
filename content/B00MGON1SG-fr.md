@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Padded Pak r Sac à Dos  40 cm  24 L  Gris  Black Denim '
-date: 2022-07-08 03:46:07
+date: 2022-07-09 15:10:30
 image: 'https://m.media-amazon.com/images/I/41B9lQEd8RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bretelles et dos rembourrés pour un port confortable où que vous alliez
-- Hauteur : 40 cm, largeur : 30 cm, profondeur : 18 cm
 - Large compartiment principal avec notre poche frontale signature
 - Fabriqué dans un mélange 60% nylon 40% polyester
+- Hauteur : 40 cm, largeur : 30 cm, profondeur : 18 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate FireCuda 530  1 To  SSD interne  M.2 PCIe 4e génération ×4 NVMe 1.4  7 300 Mo/s  NAND TLC 3D  1 275 TBW  1 8 million d heures MTBF  pour PS5/PC  3 ans Rescue Services  ZP1000GM3A013 '
-date: 2022-07-08 03:57:32
+date: 2022-07-09 15:09:32
 image: 'https://m.media-amazon.com/images/I/41OgX4Rz0jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Seagate'
 buyurl: 'https://www.amazon.fr/dp/B0971FN5MV/?tag=tolees0d-21'
 descuento: '25.20'
-average: '163.49'
+average: '162.323333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le FireCuda 530 est compatible avec les consoles PS5 pour une extension de stockage M.2 SSD ultrarapide.
+- Il est doté dun contrôleur E18 validé par Seagate et de la dernière technologie NAND TLC 3D, affichant ainsi les niveaux de vitesse et de fiabilité les plus avancés.
 - Notre FireCuda, conçu pour offrir le meilleur aux professionnels qui sollicitent fortement leur système : des vitesses de transfert jusquà 2 fois supérieures à celles dun SSD NVMe PCIe 3e génération et jusquà 12 fois plus rapides quavec un SSD SATA.
 - Des performances exaltantes avec des vitesses pouvant atteindre 7 300 Mo/s : exploitez pleinement la vitesse du PCIe 4e génération et régnez en maître sur les jeux et applications de nouvelle génération.
 - Le triomphe de la vitesse : le FireCuda 530 de Seagate règne en maître sur le marché des SSD, offrant des performances optimales, une puissance exceptionnelle, des composants avancés et une endurance sans précédent.
-- Le FireCuda 530 est compatible avec les consoles PS5 pour une extension de stockage M.2 SSD ultrarapide.
-- Il est doté dun contrôleur E18 validé par Seagate et de la dernière technologie NAND TLC 3D, affichant ainsi les niveaux de vitesse et de fiabilité les plus avancés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

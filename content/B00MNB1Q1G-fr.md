@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sultane de Saba - Eau de parfum Ambre Vanille Patchouli  100ml - Voyage sur la route des Épices - Traitement ayurvédique'
-date: 2022-07-08 03:53:05
+date: 2022-07-09 15:22:29
 image: 'https://m.media-amazon.com/images/I/41uRui78PsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'La Sultane de Saba'
 buyurl: 'https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21'
 descuento: '19.81'
-average: '50.3270588235295'
+average: '50.4344927536233'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
