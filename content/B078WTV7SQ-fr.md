@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo Quiksilver et logo Mountain and Wave
-- Lignes étroites sur le côté
 - Semelle extérieure en caoutchouc avec logo multi-angles pour une meilleure adhérence
 - Bande élastique synthétique flexible fixée à 3 points
+- Lignes étroites sur le côté
+- Logo Quiksilver et logo Mountain and Wave
 - Semelle intérieure antidérapante texturée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

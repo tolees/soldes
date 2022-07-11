@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP V22e Écran 21 5" FHD TN  HDMI/VGA  1920 x 1080  16:9  5ms  Faible lumière bleue '
-date: 2022-07-06 14:01:10
+date: 2022-07-11 13:03:21
 image: 'https://m.media-amazon.com/images/I/51LYElOJzAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille de lécran : 54,6 cm (21,5 pouces)
-- Temps de réponse : 5 ms gris à gris (avec surcharge)
-- Réglez votre affichage : inclinaison de 5 degrés vers l’avant ou de 20 degrés vers l’arrière
-- Type dentrée daffichage : 1 port VGA; 1 port HDMI 1.4
-- Résolution : Full HD (1920 x 1080)
 - Panneau antiereflets et mode faible lumière bleue pour un meilleur confort oculaire
+- Type dentrée daffichage : 1 port VGA; 1 port HDMI 1.4
+- Temps de réponse : 5 ms gris à gris (avec surcharge)
+- Taille de lécran : 54,6 cm (21,5 pouces)
+- Résolution : Full HD (1920 x 1080)
+- Réglez votre affichage : inclinaison de 5 degrés vers l’avant ou de 20 degrés vers l’arrière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

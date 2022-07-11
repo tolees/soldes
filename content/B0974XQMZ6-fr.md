@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonctionnement silencieux : Ventilateur à roulement hydrodynamique de 140 mm doté d’une courbe de ventilation spécialement définie permettant de réduire le bruit du ventilateur au strict minimum.
-- Câbles entièrement modulaires : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné.
-- Condensateurs certifiés 105 °C : Condensateurs de qualité industrielle qui délivrent de solides performances électriques et une grande fiabilité.
 - Mode de ventilation Zero RPM : À basse et moyenne charge, le ventilateur de refroidissement s’éteint complètement pour un fonctionnement silencieux.
 - Trois connecteurs EPS12V : Pour une compatibilité complète avec les cartes graphiques et cartes mères modernes.
+- Câbles entièrement modulaires : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné.
 - Certification 80 PLUS Gold : Une efficacité allant jusqu’à 90 % qui garantit une réduction de la consommation, du bruit et de la température.
+- Condensateurs certifiés 105 °C : Condensateurs de qualité industrielle qui délivrent de solides performances électriques et une grande fiabilité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
