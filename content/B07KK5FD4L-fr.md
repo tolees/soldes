@@ -28,7 +28,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Authorised Stockist
 - Produit authentique
+- Authorised Stockist
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
