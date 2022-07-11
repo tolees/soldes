@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions de lemballage de larticle: 10.6 L x 42.0 H x 20.2 W (centimeters)
-- Quantité darticles: 1
 - Poids du colis: 2.74 kilograms
+- Quantité darticles: 1
 - 2 enceintes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

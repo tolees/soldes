@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amortissement ciblé
-- Pack de trois paires
 - Tissu doux
+- Pack de trois paires
+- Amortissement ciblé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
