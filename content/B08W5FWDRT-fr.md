@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les sets de cascadeurs LEGO City Stuntz comprennent des jeux de construction avec des personnages célèbres à collectionner et combiner pour toujours plus de cascades
-- Les enfants peuvent pousser la moto jouet à rétrofriction pour activer la roue à rétrofriction et effectuer de spectaculaires manœuvres aériennes
-- Le set LEGO cascadeurs La moto de cascade Fusée inclut la figurine de Rocket Racer qui apparaît régulièrement dans l’histoire de LEGO City
 - Les connaisseurs se souviendront peut-être de lui comme le gars de la voiture de course des figurines à collectionner Série 18 ou du jeu vidéo LEGO Racers des années 90
 - Les enfants peuvent s’envoler des rampes pour battre des records avec ce set LEGO cascadeurs comprenant une moto jouet à rétrofriction
+- Le set LEGO cascadeurs La moto de cascade Fusée inclut la figurine de Rocket Racer qui apparaît régulièrement dans l’histoire de LEGO City
+- Les enfants peuvent pousser la moto jouet à rétrofriction pour activer la roue à rétrofriction et effectuer de spectaculaires manœuvres aériennes
 - Les jouets pour filles et garçons dès 5 ans LEGO cascadeurs miniatures et modulables constitueront un cadeau de Noël ou d’anniversaire LEGO idéal
+- Les sets de cascadeurs LEGO City Stuntz comprennent des jeux de construction avec des personnages célèbres à collectionner et combiner pour toujours plus de cascades
 - Il inclut un guide papier et Instructions PLUS, disponible dans l’appli gratuite LEGO Instructions de montage pour smartphones et tablettes qui aide les enfants à construire le set
 
 [🛒 Achète-le!!]({{< param buyurl >}})

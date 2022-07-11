@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est accompagné de détails mignons : un four, un mixeur, une machine à café, une étagère à sandwiches et de nombreux éléments de nourriture pour donner vie à la cafétéria
-- Les enfants de 6 ans peuvent faire semblant de cultiver des fruits, faire du pain, préparer des sandwiches, servir les clients, trier les déchets et livrer des boissons sur le vélo
 - Le jeu educatif comprend 3 mini-poupées LEGO : Mia (nouveauté janvier 2021), le grand-père Marcel et la micro poupée de la petite-fille Ava pour un jeu familial complet
+- Les enfants de 6 ans peuvent faire semblant de cultiver des fruits, faire du pain, préparer des sandwiches, servir les clients, trier les déchets et livrer des boissons sur le vélo
 - Ce set propose un café-jouet avec cuisine, jardin et vélo de livraison de jus pour les garçons et les filles qui veulent construire une meilleure planète, brique par brique
+- Il est accompagné de détails mignons : un four, un mixeur, une machine à café, une étagère à sandwiches et de nombreux éléments de nourriture pour donner vie à la cafétéria
 
 [🛒 Achète-le!!]({{< param buyurl >}})
