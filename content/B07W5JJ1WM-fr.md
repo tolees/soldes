@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Glissement en douceur : les grands patins PTFE sans additif de la souris gaming Logitech G assurent son glissement en douceur pour rester connecté avec le jeu de manière pure et fluide
+- Technologie sans fil LIGHTSPEED : la technologie sans fil de qualité professionnelle LIGHTSPEED offre une connexion USB très fiable et un taux de rapport super rapide de 1 ms, sans fils encombrants
+- Conception ultra légère : cette souris pèse moins de 63 g; Grâce à son idéal design épuré, elle pèse 25% de moins que la souris PRO sans fil
+- Disponible en 2 couleurs : la souris gaming sans fil Logitech G PRO X SUPERLIGHT est disponible en noir et en blanc
 - Capteur HERO 25K : cette souris est équipée de la dernière version du capteur HERO, le capteur le plus précis, performant et efficient, excédant les 400 ips et avec un suivi de 25600 PPP
 - Conçue avec et pour les Gamers Pro : conçue en collaboration avec les meilleurs professionnels du gaming au monde, cette souris Logitech G est faite pour atteindre le plus haut niveau de performance
-- Technologie sans fil LIGHTSPEED : la technologie sans fil de qualité professionnelle LIGHTSPEED offre une connexion USB très fiable et un taux de rapport super rapide de 1 ms, sans fils encombrants
-- Disponible en 2 couleurs : la souris gaming sans fil Logitech G PRO X SUPERLIGHT est disponible en noir et en blanc
-- Conception ultra légère : cette souris pèse moins de 63 g; Grâce à son idéal design épuré, elle pèse 25% de moins que la souris PRO sans fil
-- Glissement en douceur : les grands patins PTFE sans additif de la souris gaming Logitech G assurent son glissement en douceur pour rester connecté avec le jeu de manière pure et fluide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
