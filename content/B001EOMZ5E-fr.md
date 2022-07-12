@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité du produit :1.8 litres. Capacité du conteneur de haricots: 200
+- Tension/Fréquence: (V~Hz): 220/240~50/60
 - Il se nettoie simple sous leau et limite ainsi les résidus
 - Puissance: 1450 watts
-- Tension/Fréquence: (V~Hz): 220/240~50/60
 
 [🛒 Achète-le!!]({{< param buyurl >}})

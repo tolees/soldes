@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hautes performance optiques : revêtement BBAR (antireflet)
-- Compatibles avec les technologies Sony : Eye AF, etc
 - Construction tout temps : joints d’étanchéité et traitement au fluor
-- Rapport de grossissement de 1:2
 - Taille de filtre de 67mm pour toute la gamme
-- Compact (64 mm) et léger (210g)
+- Compatibles avec les technologies Sony : Eye AF, etc
+- Hautes performance optiques : revêtement BBAR (antireflet)
 - Angle de vue : (diagonale) 84°04 (pour le format sans miroir plein format)
-- Mise au point minimale de 0,15m
 - EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
+- Mise au point minimale de 0,15m
+- Compact (64 mm) et léger (210g)
+- Rapport de grossissement de 1:2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
