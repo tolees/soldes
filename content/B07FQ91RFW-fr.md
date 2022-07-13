@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thermaltake Level 20 VT Noir  Argent'
-date: 2022-07-11 19:27:43
+date: 2022-07-12 22:13:33
 image: 'https://m.media-amazon.com/images/I/41S6RcMfrKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Thermaltake'
 buyurl: 'https://www.amazon.fr/dp/B07FQ91RFW/?tag=tolees0d-21'
 descuento: '38.64'
-average: '68.225'
+average: '67.1433333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier THERMALTAKE Level 20 VT CA-1L2-00S1WN-00
 - Matériau: Verre Trempé, Acier
 - system_ram_type; pc_1066
 - Format: Micro-ATX, Mini-ITX
+- Boîtier THERMALTAKE Level 20 VT CA-1L2-00S1WN-00
 
 [🛒 Achète-le!!]({{< param buyurl >}})
