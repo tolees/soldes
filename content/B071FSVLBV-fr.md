@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure profilée amovible Kinetic Fit Advanced avec rembourrage renforcé au talon pour un soutien moyen
-- La languette à soufflet empêche les débris dentrer
+- Tige en nylon moulé
+- Fermeture en dentelle traditionnelle
+- Le coussin dair Merrell dans le talon absorbe les chocs et ajoute de la stabilité
 - Embout de protection
 - Doublure en maille respirante
-- Fermeture en dentelle traditionnelle
-- Cuir de porc et dessus en maille
-- Le coussin dair Merrell dans le talon absorbe les chocs et ajoute de la stabilité
-- Semelle en caoutchouc Vibram TC5+
-- Tige en nylon moulé
+- La languette à soufflet empêche les débris dentrer
 - Semelle intermédiaire en mousse EVA légère pour plus de stabilité et de confort
+- Semelle en caoutchouc Vibram TC5+
+- Cuir de porc et dessus en maille
+- Semelle intérieure profilée amovible Kinetic Fit Advanced avec rembourrage renforcé au talon pour un soutien moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
