@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Robe Naf Naf pour femme chic, casual
 - Robe Naf Naf pour femme chic, casual
 - Robe Naf Naf pour femme chic, casual
-- Doublure
 - Robe Naf Naf pour femme chic, casual
+- Doublure
 
 [🛒 Achète-le!!]({{< param buyurl >}})

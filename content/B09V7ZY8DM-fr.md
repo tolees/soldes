@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Robe Naf Naf pour femme chic, casual
 - Robe Naf Naf pour femme chic, casual
-- Robe Naf Naf pour femme chic, casual
-- Robe Naf Naf pour femme chic, casual
 - Doublure
+- Robe Naf Naf pour femme chic, casual
+- Robe Naf Naf pour femme chic, casual
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
