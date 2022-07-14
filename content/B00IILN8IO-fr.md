@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weber Q1000 Barbecue Gaz  43 x 32 cm  Titanium  50060053 '
-date: 2022-07-04 11:27:28
+date: 2022-07-14 03:16:24
 image: 'https://m.media-amazon.com/images/I/31G1X5bP2rS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
