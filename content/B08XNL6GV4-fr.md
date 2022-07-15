@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASRock Z590M Phantom Gaming 4 Intel Z590 LGA 1200  Socket H5  ATX Noir'
-date: 2022-07-13 07:18:46
+date: 2022-07-15 18:33:47
 image: 'https://m.media-amazon.com/images/I/41FuXYtPkXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASRock
-- Z590M PHANTOM GAMING 4
 - Durable
+- ASRock
 - ASROCK Z590M Phantom Gaming 4 MATX Intel Z590M DDR4 S1200 ret
+- Z590M PHANTOM GAMING 4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
