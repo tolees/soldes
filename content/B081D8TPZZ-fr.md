@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Impedance: 65 Ω
-- Confort HyperX Signature, Cadre aluminium durable
-- Son surround 7.1 HyperX*
+- Glissières de réglage des basses, Balance audio jeu / chat, Mélangeur audio avancé; Niveau de pression sonore: 99 dBSPL / mW à 1 kHz.
 - Compatible avec PC et PS4
 - Haut-parleurs à double chambre HyperX. Sensibilité: -38 dBV (0 dB = 1 V / Pa à 1 kHz)
-- Glissières de réglage des basses, Balance audio jeu / chat, Mélangeur audio avancé; Niveau de pression sonore: 99 dBSPL / mW à 1 kHz.
+- Impedance: 65 Ω
+- Son surround 7.1 HyperX*
+- Confort HyperX Signature, Cadre aluminium durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : Cuir
 - Matériau de semelle: Synthétique
 - Semelle intérieure: Cuir
 - Doublure: Non doublé
+- Dessus : Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
