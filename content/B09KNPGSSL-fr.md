@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le produit est livré avec une garantie de 2 ans - enregistrement requis
-- Contrôle du bruit : 4 micros pour des appels clairs en tous lieux. Gardez une oreille attentive avec la technologie HearThrough réglable, supprimez les bruits ambiants avec lANC pour rester concentré
 - Bluetooth 5.2 - connexion à votre smartphone Android via Google Fast Pair, lecture musicale avec Spotify Tap ou accès à Alexa (Android 6.0 ou +), Siri ou Google Assistant, où que vous soyez
+- Contrôle du bruit : 4 micros pour des appels clairs en tous lieux. Gardez une oreille attentive avec la technologie HearThrough réglable, supprimez les bruits ambiants avec lANC pour rester concentré
 - Confort et sécurité : Ces écouteurs résistants bénéficient dun design ergonomique sans ailettes très stable adapté aux modes de vie actifs - Résistent à leau et à la transpiration (norme IP57)
-- Performance optimale : Égaliseur réglable et amplificateur des basses pour un son puissant. Mode mono avec un seul écouteur. Jusquà 7 h dautonomie (28 h avec létui) par écouteur et recharge rapide
 - Contenu : écouteurs Bluetooth Jabra Elite 4 Active, étui de recharge, 3 paires dEarGels (3 tailles), câble USB-C vers USB-A. Poids des écouteurs : 5 g. Coloris : menthe. Emballage zéro frustration
+- Le produit est livré avec une garantie de 2 ans - enregistrement requis
+- Performance optimale : Égaliseur réglable et amplificateur des basses pour un son puissant. Mode mono avec un seul écouteur. Jusquà 7 h dautonomie (28 h avec létui) par écouteur et recharge rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
