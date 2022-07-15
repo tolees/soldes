@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Mavic 2 - Care Refresh  VIP plan de service Mavic 2 Pro  Mavic 2 Zoom  Jusqu à deux remplacements en 12 mois  Couverture des accidents et des dégâts des eaux  Activé dans les 48 heures'
-date: 2022-07-03 10:05:45
+date: 2022-07-15 13:45:31
 image: 'https://m.media-amazon.com/images/I/31N1pPRtgeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FRAIS DE PORT GRATUITS : Si vous trouvez dans la région où vous avez acheté votre appareil, les frais de ports sont couverts par DJI
 - COUVERTURE CONTRE LES DÉGÂTS CAUSÉS PAR L’EAU : Le remplacement de votre appareil est possible si les dégâts ont eu lieu pendant un usage normal
 - Cet article n est plus en solde !
-- DÉCOLLAGE EXPRESS : Le centre de services DJI envoie immédiatement une unité de remplacement dès la réception du drone endommagé. Retournez dans les airs en un rien de temps
+- FRAIS DE PORT GRATUITS : Si vous trouvez dans la région où vous avez acheté votre appareil, les frais de ports sont couverts par DJI
 - DEUX REMPLACEMENTS, UNE TRANQUILLITÉ D’ESPRIT TOTALE : DJI Care Refresh propose jusqu’à deux unités de replacement sur une période d’un an
+- DÉCOLLAGE EXPRESS : Le centre de services DJI envoie immédiatement une unité de remplacement dès la réception du drone endommagé. Retournez dans les airs en un rien de temps
 
 [🛒 Achète-le!!]({{< param buyurl >}})
