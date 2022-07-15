@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart TV P1E 55"  UHD  HDR 10  MEMC  Triple Tuner  Android  Prime Video  Netflix  Assistant Google  Bluetooth  HDMI 2.0  USB  [Modèle 2021]'
-date: 2022-07-08 04:11:58
+date: 2022-07-15 08:20:43
 image: 'https://m.media-amazon.com/images/I/41MYN-Q-6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Triple tuner HD pour DVB-S2, DVB-C et DVB-T2 avec HEVC. Angle de vision de 178 ° pour une expérience visuelle immersive et plus agréable.
-- Image (HDR 10, MEMC) : La technologie HDR (High Dynamic Range) offre une large gamme de couleurs en améliorant la netteté, le contraste et la couleur des images pour un rendu visuel plus vrai que nature. La technologie Xiaomi MEMC 60Hz (Motion Estimation and Motion Compensation) consiste à ajouter artificiellement des images à une vidéo dont la fréquence dimages est faible afin que votre téléviseur ait une fréquence dimages plus élevée et vous donne cet effet de fluidité.
+- Android intelligent : TV Android avec Google Assistant et accès au Google Play Store, 2 Go de RAM, 8 Go de mémoire interne. Simplifiez votre expérience de divertissement avec Android TV. Accédez à plus de 400 000 films et séries et téléchargez plus de 7 000 applications, le tout au même endroit.
 - Services de streaming : Prime Video, Netflix, YouTube, Chromcast, et bien dautres encore. Il est également livré avec les applications populaires Netflix, Amazon Prime et YouTube préinstallées. Avec Chromecast intégré, lappareil permet également aux utilisateurs de diffuser des vidéos, de la musique et des jeux à partir de leurs autres appareils en toute simplicité.
 - Type : UHD LED TV - 55 inches (139cm), Flat, 3,840 x 2160 pixels. La résolution 4K UHD permet dobtenir des images vibrantes, plus réalistes et plus détaillées.
-- Android intelligent : TV Android avec Google Assistant et accès au Google Play Store, 2 Go de RAM, 8 Go de mémoire interne. Simplifiez votre expérience de divertissement avec Android TV. Accédez à plus de 400 000 films et séries et téléchargez plus de 7 000 applications, le tout au même endroit.
+- Image (HDR 10, MEMC) : La technologie HDR (High Dynamic Range) offre une large gamme de couleurs en améliorant la netteté, le contraste et la couleur des images pour un rendu visuel plus vrai que nature. La technologie Xiaomi MEMC 60Hz (Motion Estimation and Motion Compensation) consiste à ajouter artificiellement des images à une vidéo dont la fréquence dimages est faible afin que votre téléviseur ait une fréquence dimages plus élevée et vous donne cet effet de fluidité.
+- Triple tuner HD pour DVB-S2, DVB-C et DVB-T2 avec HEVC. Angle de vision de 178 ° pour une expérience visuelle immersive et plus agréable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
