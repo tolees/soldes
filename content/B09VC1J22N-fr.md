@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HUAWEI MateBook D15 PC 15.6 pouces FHD  Processeur AMD Ryzen 5 5500U  RAM 8Go SSD 512Go  Design Premium en Métal  Capteur D empreinte Digitale  Clavier Français AZERTY  Wifi 6  Argent'
-date: 2022-07-11 19:30:19
+title: 'HUAWEI MateBook D15 PC 15.6 pouces FHD  Processeur AMD Ryzen 5 5500U  RAM 8Go SSD 512Go  Design Premium en Métal  Capteur D empreinte Digitale  Un Port USB-C   Clavier Français AZERTY  Wifi 6 Argent'
+date: 2022-07-15 16:47:44
 image: 'https://m.media-amazon.com/images/I/31x1BUcr2hS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09VC1J22N-fr HUAWEI MateBook D15 PC 15.6 pouces FHD Processeur AMD...'
 sku: 'B09VC1J22N-fr'
 tags: [ 'Informatique','Ordinateurs portables','huawei','🇫🇷', ]
-actualPrice: 599.99 EUR
+actualPrice: 599.0 EUR
 currency: EUR
-price: 599.99
+price: 599.0
 comparePrice: 849.99 EUR
-prodname: 'HUAWEI MateBook D15 PC 15.6 pouces FHD  Processeur AMD Ryzen 5 5500U  RAM 8Go SSD 512Go  Design Premium en Métal  Capteur D empreinte Digitale  Clavier Français AZERTY  Wifi 6  Argent'
+prodname: 'HUAWEI MateBook D15 PC 15.6 pouces FHD  Processeur AMD Ryzen 5 5500U  RAM 8Go SSD 512Go  Design Premium en Métal  Capteur D empreinte Digitale  Un Port USB-C   Clavier Français AZERTY  Wifi 6 Argent'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.fr/dp/B09VC1J22N/?tag=tolees0d-21'
-descuento: '29.41'
-average: '649.99'
+descuento: '29.53'
+average: '639.792'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gardez le contrôle de la batterie : Léger et compact, le chargeur USB-C de 65 W du HUAWEI MateBook D 15 se glisse facilement dans votre poche, tout en étant suffisamment puissant pour vous offrir deux heures dutilisation du MateBook avec une charge rapide de 15 minutes
-- Processeur ‎AMD Ryzen 5 5500U: Le processeur AMD Ryzen 5 5500U permet de tout accélérer, pour que vous passiez moins de temps à attendre et plus de temps à agir
 - HUAWEI Share : Huawei Share vous offre de nouvelles connexions entre vos appareils. Synchronisez lécran de votre téléphone avec celui du MateBook dune simple pression sur le pavé tactile
 - WIFI 6 : Rejoignez la révolution du Wi-Fi 6 pour profiter de vitesses réseau jusquà 2,7 fois plus rapides que la génération précédente. Cela signifie que vous pouvez charger et télécharger des fichiers à un débit incroyable de 2,4 Go/s
-- Écran HUAWEI FullView : Lécran IPS HUAWEI FullView Display de 15,6 pouces et le format dimage 16:9 repoussent les limites du visible, tandis que la résolution Full-HD 1920 x 1080 révèle chaque détail pour une image dune clarté exceptionnelle
 - Design Premium en Métal : Le HUAWEI MateBook D 15 est un spécialiste de la portabilité avec son design fin et profilé de 16,9 mm dépaisseur et son poids de seulement 1,56 kg
+- Écran HUAWEI FullView : Lécran IPS HUAWEI FullView Display de 15,6 pouces et le format dimage 16:9 repoussent les limites du visible, tandis que la résolution Full-HD 1920 x 1080 révèle chaque détail pour une image dune clarté exceptionnelle
+- Gardez le contrôle de la batterie : Léger et compact, le chargeur USB-C de 65 W du HUAWEI MateBook D 15 se glisse facilement dans votre poche, tout en étant suffisamment puissant pour vous offrir deux heures dutilisation du MateBook avec une charge rapide de 15 minutes
+- Processeur ‎AMD Ryzen 5 5500U: Le processeur AMD Ryzen 5 5500U permet de tout accélérer, pour que vous passiez moins de temps à attendre et plus de temps à agir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
