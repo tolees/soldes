@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonus préco Undertaker Immortal - Cartes EVO Lord of Darkness Undertaker / Boneyard Match Undertaker / Phantom Mask Undertaker Survivor Series - Logo / Bannière / Carte nominative Undertaker MyFaction
 - Contenu de lédition jeu + bonus de précommande « Undertaker »
 - AFFRONTEZ The Rock, Sasha Banks, Goldberg, Brock Lesnar… COUPS DE 619: moments clés de la carrière de Rey Mysterio MODE Mon MG: Prenez les rênes de Raw, SmackDown, NXT ou NXT UK et gérez votre équipe
+- Bonus préco Undertaker Immortal - Cartes EVO Lord of Darkness Undertaker / Boneyard Match Undertaker / Phantom Mask Undertaker Survivor Series - Logo / Bannière / Carte nominative Undertaker MyFaction
 - Mon ASCENSION: deux aventures homme ou femme Ma FACTION: tout nouveau mode pour construire une faction rivale de la nWo (événements hebdo) MUSIQUE: Machine Gun Kelly JOUEURS: 1-4 local / 2-8 en ligne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

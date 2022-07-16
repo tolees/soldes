@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voyagez à travers une version visuellement époustouflante et terrifiante du nord-ouest du Pacifique, avec une fidélité visuelle nouvellement remastérisée qui apporte un jeu classique à de nouvelles plateformes et à de nouveaux joueurs
-- Utiliser les lumières dans lenvironnement comme des îlots de sécurité dans un monde où lobscurité est mortelle
 - Trouver des pages manuscrites dun roman que Wake ne se souvient pas avoir écrit
 - Des combats intenses, où il faut plus que des balles pour bannir les ténèbres
 - Affaiblir les "Taken" avec de la lumière avant de les achever pour de bon
+- Voyagez à travers une version visuellement époustouflante et terrifiante du nord-ouest du Pacifique, avec une fidélité visuelle nouvellement remastérisée qui apporte un jeu classique à de nouvelles plateformes et à de nouveaux joueurs
+- Utiliser les lumières dans lenvironnement comme des îlots de sécurité dans un monde où lobscurité est mortelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Vívomove 3 : Montre Connectée à Aiguilles Mécaniques et Écran Tactile avec Suivi GPS– Slate/ Black – Cadran 44mm'
-date: 2022-07-05 22:00:39
+date: 2022-07-16 15:38:07
 image: 'https://m.media-amazon.com/images/I/41jr94+K0BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Garmin'
 buyurl: 'https://www.amazon.fr/dp/B07VVLQPZQ/?tag=tolees0d-21'
 descuento: '36.00'
-average: '151.485'
+average: '154.32'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

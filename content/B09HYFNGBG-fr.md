@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACTIVISION
 - ACBA19.SC.22ST
 - Durable
+- ACTIVISION
 - Produit de haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

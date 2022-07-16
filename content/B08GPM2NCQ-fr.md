@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec sa surface de cuisson de 28,5 x 15,2 cm, vous pourrez faire jusquà 15 gaufres par session, en quelques minutes seulement. À vous de choisir ce qui va les accompagner : chocolat fondu, crème chantilly ou tout simplement du sucre glace ?
-- Pour le goûter ou le petit-déjeûner, ce gaufrier frites Tristar WF-1171 vous permettra de réaliser des gaufres en forme de frites, pour le plus grand plaisir de vos enfants ou à la surprise de vos invités.
 - Les voyants lumineux vont vous indiquer que lappareil est en marche. Lorsque le voyant vert séteint, il est prêt à à recevoir votre pâte. Le revêtement anti-adhésif de la plaque de cuisson rend son nettoyage facile car la pâte ne colle pas.
 - Il répond aux nouvelles normes de sécurité européennes et peut être utilisé sans risque par toute la famille. Il est en effet protégé contre la surchauffe et son couvercle est doté dun système de verrouillage de sécurité et de poignées "Cool Touch" qui ne chauffent pas. De plus, il ne risque pas de glisser avec ses pieds anti-dérapants.
+- Avec sa surface de cuisson de 28,5 x 15,2 cm, vous pourrez faire jusquà 15 gaufres par session, en quelques minutes seulement. À vous de choisir ce qui va les accompagner : chocolat fondu, crème chantilly ou tout simplement du sucre glace ?
+- Pour le goûter ou le petit-déjeûner, ce gaufrier frites Tristar WF-1171 vous permettra de réaliser des gaufres en forme de frites, pour le plus grand plaisir de vos enfants ou à la surprise de vos invités.
 - Il prend très peu de place : un espace dédié vous permet de ranger son cordon et vous pouvez le poser à la verticale ou à lhorizontale selon la place que vous avez.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Arpentez les rues hautes en couleur de Shibuya pleines de style, de musique et de monstres.
-- Explorez le monde du jeu et remportez le « Jeu des Reapers » pour survivre.
 - Obtenez et utilisez des centaines de compétences psychiques pour affronter des menaces surréalistes.
+- Explorez le monde du jeu et remportez le « Jeu des Reapers » pour survivre.
+- Arpentez les rues hautes en couleur de Shibuya pleines de style, de musique et de monstres.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

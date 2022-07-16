@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette bague fait partie de la famille Curiosa et a été pensée par la directrice de création Giovanna Engelbert pour la Collection I
-- Exemple éclatant du design « mathémagique », cette bague cocktail en cristal capte la lumière sous tous les angles
 - Avec ses cristaux étincelants taille baguette et son large anneau irisé, cette bague apportera une touche de couleur prismatique à tous vos looks
 - À porter seule ou combinée à dautres bagues pour marquer les esprits
+- Exemple éclatant du design « mathémagique », cette bague cocktail en cristal capte la lumière sous tous les angles
+- Cette bague fait partie de la famille Curiosa et a été pensée par la directrice de création Giovanna Engelbert pour la Collection I
 
 [🛒 Achète-le!!]({{< param buyurl >}})
