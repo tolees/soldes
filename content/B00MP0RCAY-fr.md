@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution vidéo maximale: 1920 x 1080 pixels
-- Résolution dimage maximale: 3264 x 3264 pixels
 - JPEG XR
-- Résolution de la capture Photo: 3264 x 3264
-- 1920 x 1080. Balance des blancs: Auto
-- Résolutions vidéo: 848 x 480,1280 x 720,1280 x 960,1920 x 1080 pixels. Type de capteur: MOS
-- 2592 x 1944
-- Kodak PixPro SP360. Type HD: Full HD
-- Taille du capteur optique: 25,4 / 2,33 mm (1 / 2.33"). Formats dimage supportés: EXIF
 - Total des megapixels: 17,52 MP
+- Taille du capteur optique: 25,4 / 2,33 mm (1 / 2.33"). Formats dimage supportés: EXIF
+- Kodak PixPro SP360. Type HD: Full HD
+- 1920 x 1080. Balance des blancs: Auto
+- Résolution vidéo maximale: 1920 x 1080 pixels
+- Résolutions vidéo: 848 x 480,1280 x 720,1280 x 960,1920 x 1080 pixels. Type de capteur: MOS
+- Résolution de la capture Photo: 3264 x 3264
+- 2592 x 1944
+- Résolution dimage maximale: 3264 x 3264 pixels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
