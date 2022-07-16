@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enceinte active pour ordinateurs de bureau et portables. Alimentation via un port USB (alimentée par bus). Interrupteur marche/arrêt.
-- Contenu : 2x enceintes, 1x Jack 3,5 mm, 1x USB-A mâle et 1x mode demploi.
-- Bouton de réglage du volume. Bande passante : 200 Hz - 16 kHz.
-- Sortie audio (jack 3,5mm) pour la connexion d’un casque. Réglage individuel du volume en continu.
 - Puissance sinusoïdale : 2x 120 mW (taux de distorsion <8%). Dimensions : 7 x 6,7 x 14,5 cm. Connexion : fiche jack 3,5 mm.
+- Enceinte active pour ordinateurs de bureau et portables. Alimentation via un port USB (alimentée par bus). Interrupteur marche/arrêt.
+- Sortie audio (jack 3,5mm) pour la connexion d’un casque. Réglage individuel du volume en continu.
+- Bouton de réglage du volume. Bande passante : 200 Hz - 16 kHz.
+- Contenu : 2x enceintes, 1x Jack 3,5 mm, 1x USB-A mâle et 1x mode demploi.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
