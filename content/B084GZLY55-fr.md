@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taux de rafraîchissement de 144Hz pour offrir aux gamers une latence minimale et l’expérience visuelle fluide qu’ils adorent
-- Son temps de réponse de l’image en mouvement (MPRT) de 1ms donne un avantage considérable, en particulier dans les jeux rapides, car il élimine les effets de flou et les ralentissements de limage
-- Réglage en inclinaison (-5° / 22°), hauteur (130mm) afin que les utilisateurs bénéficient d’un confort de visualisation optimal. Lécran est équipé dun support VESA standard (100 mm x 100 mm) pour le fixer au mur
 - AMD FreeSync: la technologie FreeSync offre un rendu vidéo clair et fluide sans saccades pour une excellente expérience de jeu
-- 350 nits: pour la bonne luminosité de votre écran
-- TÜV Rheinland Low Blue Light & Flicker Free: la technologie Low Blue Light & Flicker Free de l’écran élimine la lumière bleue nocive et la fatigue oculaire sans nuire à la précision des couleurs
-- Rapport daspect 16:9 et rapport de contraste 3000:1
-- Ports HDMI et DP: les ports DP, HDMI et Audio Out vous permettent de répondre à tous vos besoins, que ce soit pour le travail ou pour votre divertissement. Le cable HDMI est inclus
+- Réglage en inclinaison (-5° / 22°), hauteur (130mm) afin que les utilisateurs bénéficient d’un confort de visualisation optimal. Lécran est équipé dun support VESA standard (100 mm x 100 mm) pour le fixer au mur
 - Écran 31.5 2K QHD incurvé: cet écran 31.5 pouces 2K QHD (1920x1080) VA vous permet de profiter de détails cristallins et de couleurs vives sous tous les angles, avec un espace couleur 72% NTSC pour une reproduction éclatante des couleurs
+- Rapport daspect 16:9 et rapport de contraste 3000:1
+- Son temps de réponse de l’image en mouvement (MPRT) de 1ms donne un avantage considérable, en particulier dans les jeux rapides, car il élimine les effets de flou et les ralentissements de limage
+- TÜV Rheinland Low Blue Light & Flicker Free: la technologie Low Blue Light & Flicker Free de l’écran élimine la lumière bleue nocive et la fatigue oculaire sans nuire à la précision des couleurs
+- Taux de rafraîchissement de 144Hz pour offrir aux gamers une latence minimale et l’expérience visuelle fluide qu’ils adorent
+- Ports HDMI et DP: les ports DP, HDMI et Audio Out vous permettent de répondre à tous vos besoins, que ce soit pour le travail ou pour votre divertissement. Le cable HDMI est inclus
+- 350 nits: pour la bonne luminosité de votre écran
 
 [🛒 Achète-le!!]({{< param buyurl >}})

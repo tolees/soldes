@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode économie dénergie avec fonction de réveil automatique
-- Système demboîtement facile à monter pour onduleur et support
 - Large plage de tension dentrée CC – Idéal pour les véhicules conformes à la norme Euro 6
-- La tension de sortie sinusoïdale pure de 230 V CA est adaptée aux appareils électriques sensibles
+- Mode économie dénergie avec fonction de réveil automatique
 - Redémarrage automatique après surcharge, surtension ou sous-tension
+- Système demboîtement facile à monter pour onduleur et support
+- La tension de sortie sinusoïdale pure de 230 V CA est adaptée aux appareils électriques sensibles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

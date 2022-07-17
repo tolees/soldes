@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Correspondance : CR2025 - ECR2025 - DL2025 - GPCR2025
-- Blister de 2 piles
 - Gamme Professional Electronics
 - Pile lithium CR2025 3V BL2 VARTA
+- Blister de 2 piles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

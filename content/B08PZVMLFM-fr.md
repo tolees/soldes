@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un monde ouvert gigantesque a explorer
-- Une histoire sans égale, digne dun roman, offrant plus de 150 heures de jeu
 - Désormais sur switch: jouez chez vous et en deplacement.
+- Une histoire sans égale, digne dun roman, offrant plus de 150 heures de jeu
+- Un monde ouvert gigantesque a explorer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

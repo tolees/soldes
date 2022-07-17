@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU PLEIN AIR : Tire jusquà 25 mètres
-- PISTOLET ENFANT : Livré avec 8 flèchettes en mousse pour un max de Fun !
-- PISTOLET X-SHOT : XSHOT MICRO Pistolet à flèches 1 coup
 - FONCTIONNE A AIR COMPRIME.
 - IDEE CADEAU : A partir de 8 ans
+- PISTOLET X-SHOT : XSHOT MICRO Pistolet à flèches 1 coup
+- PISTOLET ENFANT : Livré avec 8 flèchettes en mousse pour un max de Fun !
+- JEU PLEIN AIR : Tire jusquà 25 mètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
