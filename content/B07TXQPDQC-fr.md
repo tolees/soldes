@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ ZOWIE S2 Souris Esports  Petite taille  design symétrique  édition noire mate '
-date: 2022-07-03 15:08:05
+date: 2022-07-16 22:06:47
 image: 'https://m.media-amazon.com/images/I/31PUG2Q5FRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
