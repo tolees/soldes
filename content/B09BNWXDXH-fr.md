@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le premier véhicule RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
-- Le jouet voiture transformable télécommandée à retournement est une excellente idée de cadeau pour les enfants intéressés par lingénierie.
-- 2 amortisseurs actionnent la fonction "pop-up" qui modifie la forme de la voiture à bascule télécommandée lorsquelle se retourne
-- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
-- Utilisez lapplication CONTROL+ pour diriger le modèle 2 en 1 - lapplication change automatiquement décran pour correspondre au véhicule lorsque le modèle se retourne
-- Les modèles sont dotés de suspensions, de cockpits et de chenilles, de 2 moteurs, dun moyeu et dun plateau sur le camion dexploration pour que les enfants puissent explorer tout en jouant
 - Les deux voitures transformables télécommandées à retournement sont équipées dune suspension, ce qui permet aux chenilles de sadapter aux surfaces irrégulières
+- Le premier véhicule RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
+- 2 amortisseurs actionnent la fonction "pop-up" qui modifie la forme de la voiture à bascule télécommandée lorsquelle se retourne
+- Les modèles sont dotés de suspensions, de cockpits et de chenilles, de 2 moteurs, dun moyeu et dun plateau sur le camion dexploration pour que les enfants puissent explorer tout en jouant
+- Utilisez lapplication CONTROL+ pour diriger le modèle 2 en 1 - lapplication change automatiquement décran pour correspondre au véhicule lorsque le modèle se retourne
+- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
+- Le jouet voiture transformable télécommandée à retournement est une excellente idée de cadeau pour les enfants intéressés par lingénierie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
