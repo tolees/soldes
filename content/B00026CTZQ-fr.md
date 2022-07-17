@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weber Compact Kettle Barbecue Charbon  Ø 47 cm  Noir  1221004 '
-date: 2022-07-12 05:43:54
+date: 2022-07-17 14:17:52
 image: 'https://m.media-amazon.com/images/I/31WyrQHjqTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Weber'
 buyurl: 'https://www.amazon.fr/dp/B00026CTZQ/?tag=tolees0d-21'
 descuento: '44.80'
-average: '74.45'
+average: '72.6333333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
