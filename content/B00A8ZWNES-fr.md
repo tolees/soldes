@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samyang 8 mm / F 3 5 ASPH IF CS2 Objectifs'
-date: 2022-07-13 10:28:24
+date: 2022-07-18 21:38:59
 image: 'https://m.media-amazon.com/images/I/41YZ4Ce8BvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
