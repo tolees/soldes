@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PLUS DE DÉTAILS AVEC LE PROCESSEUR SONY X1Découvrez des images précises et réalistes avec le puissant processeur dimage X1 de Sony qui analyse chaque objet de limage pour en optimiser la couleur et le contraste.
-- DES COULEURS NATURELLES AVEC LA TECHNOLOGIE SONY TRILUMINOS La technologie Sony Triluminos reproduit une très large palette de couleurs. Retrouvez ainsi des couleurs riches et éclatantes pour des images et un rendu encore plus naturel.
 - LES MEILLEURS FORMATS VIDÉO DANS VOTRE SALONCompatible Dolby vision pour des images plus colorées et contrastées.Compatible dolby ATMOS pour un son plus enveloppant et plus immersif
-- RETROUVEZ VOS CONTENUS PRÉFÉRÉS AVEC LAIDE DE GOOGLEAppuyez sur le bouton micro de la télécommande et poser une question pour trouver facilement vos contenus préférés " affiche des comédies", "vidéos drôles sur youtube", "Méteo à Toulouse", ...Votre TV vous propose aussi des recommendations afin de vous faire découvrir de nouveaux contenus.
+- DES COULEURS NATURELLES AVEC LA TECHNOLOGIE SONY TRILUMINOS La technologie Sony Triluminos reproduit une très large palette de couleurs. Retrouvez ainsi des couleurs riches et éclatantes pour des images et un rendu encore plus naturel.
 - UNE NOUVELLE FAÇON DE REGARDER LA TV AVEC SONY GOOGLE TVDécouvrez le meilleur de la TV connectée avec Sony Google TV* et lassistant Google. Une toute nouvelle interface pour regrouper vos films ou séries préférés dès la page daccueil pour un usage encore plus convivial.Des milliers dapplications disponibles, la puissante recherche vocale Google Assistant intégrée, la fonction Chromecast pour afficher le contenu de son smartphone sur sa TV... vous ne regarderez plus la télévision comme avant.
+- RETROUVEZ VOS CONTENUS PRÉFÉRÉS AVEC LAIDE DE GOOGLEAppuyez sur le bouton micro de la télécommande et poser une question pour trouver facilement vos contenus préférés " affiche des comédies", "vidéos drôles sur youtube", "Méteo à Toulouse", ...Votre TV vous propose aussi des recommendations afin de vous faire découvrir de nouveaux contenus.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
