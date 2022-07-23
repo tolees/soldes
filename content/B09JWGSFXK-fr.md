@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend 7 minifigures LEGO Star Wars : Boba Fett, Fennec Shand, Bib Fortuna, un danseur Theelin, un garde Weequay, un garde Gamorréen et un Quarren
-- Le modèle à construire Star Wars du palais de Jabba comporte également des marches tremblantes pour faire tomber les gardes, une porte qui souvre et bien plus encore
-- Les fans de Star Wars : Le Livre de Boba Fett peuvent recréer les détails de la salle du trône et dautres parties du palais de Jabba avec ce set LEGO Star Wars
 - Ce jouet pour enfants de 9 ans et plus est un excellent cadeau danniversaire pour les enfants qui aiment Star Wars : Le Livre de Boba Fett
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
-- Déployez lavant du modèle à construire et ouvrez larrière pour révéler un espace cuisine et barbecue avec une rôtisserie, ainsi que des éléments amusants
+- Comprend 7 minifigures LEGO Star Wars : Boba Fett, Fennec Shand, Bib Fortuna, un danseur Theelin, un garde Weequay, un garde Gamorréen et un Quarren
 - Les jouets à construire LEGO Star Wars pour enfants leur permettent de recréer des scènes mémorables, dinventer de nouvelles aventures et dexposer les jouets de construction
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
+- Les fans de Star Wars : Le Livre de Boba Fett peuvent recréer les détails de la salle du trône et dautres parties du palais de Jabba avec ce set LEGO Star Wars
+- Déployez lavant du modèle à construire et ouvrez larrière pour révéler un espace cuisine et barbecue avec une rôtisserie, ainsi que des éléments amusants
+- Le modèle à construire Star Wars du palais de Jabba comporte également des marches tremblantes pour faire tomber les gardes, une porte qui souvre et bien plus encore
 - Le trône est doté dune fonction pop-up permettant déjecter Bib Fortuna dune chambre secrète contenant des armes et des éléments du lingot beskar
 
 [🛒 Achète-le!!]({{< param buyurl >}})
