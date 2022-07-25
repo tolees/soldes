@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Bayonetta 3'
-date: 2022-07-22 11:30:32
+date: 2022-07-25 09:36:56
 image: 'https://m.media-amazon.com/images/I/51VmGuGpccL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
