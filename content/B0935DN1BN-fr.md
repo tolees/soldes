@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour remettre la main sur un objet plus éloigné, vous pouvez compter sur les centaines de millions d’appareils Apple qui composent le réseau Localiser
 - Faites retentir un son via le haut-parleur intégré pour retrouver vos affaires, ou demandez un coup de main à Siri
+- Pour remettre la main sur un objet plus éloigné, vous pouvez compter sur les centaines de millions d’appareils Apple qui composent le réseau Localiser
 - La fonction Localisation précise avec la technologie Ultra Wideband vous dirige droit vers votre AirTag s’il est à proximité (sur certains modèles d’iPhone)
 - Repérez puis retrouvez vos objets, et localisez vos proches ou vos appareils dans l’app Localiser
 - L’AirTag se configure d’un simple geste, qui le connecte instantanément à votre iPhone ou iPad
