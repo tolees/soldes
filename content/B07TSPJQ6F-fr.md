@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composants inclus : 1 figurine
-- Livré avec un Câble micro-USB de 2M
 - 20 cm de hauteur
+- Composants inclus : 1 figurine
 - Collectionnez-les tous !
+- Livré avec un Câble micro-USB de 2M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transmission sans fil de pointe de série IV, pour une transmission stable et sécurisée jusquà 200 m, même dans les environnements RF denses
 - Les émetteurs disposent de plus de 40 heures de fonction denregistrement intégrée garantissant un son impeccable dans tous les contextes ; plus besoin de se soucier des coupures de connexion sans fil.
-- Sorties USB analogiques et numériques compatibles avec les caméras, les ordinateurs Windows et MacOS, les téléphones iOS et Android, permettant une utilisation polyvalente dans de nombreux contextes (un câble supplémentaire peut être nécessaire pour certains appareils)
+- Transmission sans fil de pointe de série IV, pour une transmission stable et sécurisée jusquà 200 m, même dans les environnements RF denses
 - Système de microphone sans fil à deux canaux ultra-compact et facile à utiliser pour la réalisation de films, le vlog, TikTok, le streaming, les podcasts et les appels vidéo (Zoom, Teams etc.)
-- Il offre jusquà 7 heures dautonomie grâce aux batteries Li-Ion intégrées, ou fonctionne en continu via le connecteur USB-C.
+- Sorties USB analogiques et numériques compatibles avec les caméras, les ordinateurs Windows et MacOS, les téléphones iOS et Android, permettant une utilisation polyvalente dans de nombreux contextes (un câble supplémentaire peut être nécessaire pour certains appareils)
 - Grâce à sa petite taille et à ses microphones intégrés, les émetteurs peuvent être directement fixés sur le corps de lartiste ou être utilisés comme émetteur ceinture traditionnel avec micro-cravate
+- Il offre jusquà 7 heures dautonomie grâce aux batteries Li-Ion intégrées, ou fonctionne en continu via le connecteur USB-C.
 - Entièrement compatible avec le logiciel gratuit de podcasting et de streaming RØDE Connect, il offre ainsi une plus grande flexibilité lors de la captation du son, du streaming ou des appels vidéo depuis un ordinateur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

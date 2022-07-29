@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec un cble micro-usb de 3 m
-- 20 cm de hauteur
-- Figurine de votre personnage préféré pour maintenir et charger votre manette ou smartphone
 - Collectionnez-les tous !
+- 20 cm de hauteur
+- Livré avec un cble micro-usb de 3 m
+- Figurine de votre personnage préféré pour maintenir et charger votre manette ou smartphone
 
 [🛒 Achète-le!!]({{< param buyurl >}})

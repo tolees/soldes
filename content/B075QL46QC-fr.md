@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation: pour configurer les contrôleurs et les téléphones mobiles
-- Groupe de produits: contrôleur, téléphone portable, tablette PC
-- Informations: y compris le câble de charge, microUSB
 - Informations complémentaires: sans contrôleur de jeu et téléphone portable
+- Informations: y compris le câble de charge, microUSB
+- Groupe de produits: contrôleur, téléphone portable, tablette PC
+- Utilisation: pour configurer les contrôleurs et les téléphones mobiles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
