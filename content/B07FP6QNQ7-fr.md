@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR  Set Voiture de Course Détaillée à Construire  Modèle de Collection pour Adultes'
-date: 2022-07-29 19:41:50
+date: 2022-07-30 20:05:13
 image: 'https://m.media-amazon.com/images/I/51JDBJGNdlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21'
 descuento: '27.31'
-average: '125.431682847897'
+average: '125.405137318256'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
