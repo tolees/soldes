@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super Alloy Power II : technologie comprenant des bobines en alliage spécial, des condensateurs solides fabriqués à partir de polymère et phases d’alimentation haute tension
-- Slot de 2,9’’ : agrandissement de la surface de refroidissement par rapport à la génération précédente ; dissipation thermique renforcée
-- Nouveaux multiprocesseurs de streaming : Indispensables pour la création du GPU le plus rapide et le plus performant au monde, ils multiplient par deux le débit en FP32 et améliorent l’efficience énergétique du GPU
 - Cœurs Tensor de troisième génération : Les nouveaux cœurs Tensor offrent un rendement multiplié par deux avec l’aide d’une matrice dite clairsemée et d’algorithmes avancés d’Intelligence Artificielle tels que la technologie DLSS. Désormais compatibles avec les résolutions 8K, ces cœurs boostent considérablement les performances gaming tout en proposant des technologies d’IA inédites
 - Cœurs RT de deuxième génération : Les nouveaux cœurs RT offrent un rendement multiplié par deux en comparaison avec ceux de la 1e génération, ainsi que des fonctions simultanées de ray tracing et de shading pour des performances inédites
+- Super Alloy Power II : technologie comprenant des bobines en alliage spécial, des condensateurs solides fabriqués à partir de polymère et phases d’alimentation haute tension
+- Nouveaux multiprocesseurs de streaming : Indispensables pour la création du GPU le plus rapide et le plus performant au monde, ils multiplient par deux le débit en FP32 et améliorent l’efficience énergétique du GPU
 - Ventilateurs axiaux : optimisés pour y insérer davantage de pales ; comprenant un mécanisme de rotation inversée pour le ventilateur central
+- Slot de 2,9’’ : agrandissement de la surface de refroidissement par rapport à la génération précédente ; dissipation thermique renforcée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
