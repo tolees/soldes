@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cette seconde édition du jeu apporte de nombreuses améliorations. Elle intègre des éléments des précédentes extensions comme les ports, les garnisons, les cartes sauvageons et les engins de siège. Elle propose aussi des nouveautés comme les écrans pour cacher ses programmations, tandis que les cartes cours de la bataille apportent de lincertitude en combat
+- Plongez dans un jeu de luttes dinfluence, de conquêtes de territoires et de diplomatie dans le monde de westeros
 - Nombre de joueur : 3 à 6 joueurs
 - De 3 à 6 joueurs
-- Durée de je : 3 heures et +
-- Plongez dans un jeu de luttes dinfluence, de conquêtes de territoires et de diplomatie dans le monde de westeros
-- Cette seconde édition du jeu apporte de nombreuses améliorations. Elle intègre des éléments des précédentes extensions comme les ports, les garnisons, les cartes sauvageons et les engins de siège. Elle propose aussi des nouveautés comme les écrans pour cacher ses programmations, tandis que les cartes cours de la bataille apportent de lincertitude en combat
 - Durée de je : 2 à 4 heures
+- Durée de je : 3 heures et +
 - A partir de 14 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Remarque : marcher uniquement pieds nus et sur les 4 électrodes. S’utilise uniquement sur sol plat et dur. Les premiers résultats peuvent varier car la balance doit s’auto-calibrer
 - De nombreuses fonctions : possibilité de peser en kg, lb et st. Le pèse-personne reconnaît automatiquement jusqu’à 8 utilisateurs dès quils montent pieds nus dessus
-- Analyse corporelle : l’appareil mesure poids, graisse corporelle, masse hydrique, masse musculaire et osseuse, calcule l’IMC et offre une analyse intégrée des besoins en calories
-- Design moderne: sa surface blanche et brillante, son écran LCD, ses chiffres lumineux blancs et son rétro-éclairage bleu assurent une lisibilité optimale du pèse-personne
 - Application VitaDock+ : pour réaliser un contrôle sur la durée, les valeurs mesurées peuvent être transférées à l’application VitaDock+ via le Bluetooth, puis stockées et analysées
+- Design moderne: sa surface blanche et brillante, son écran LCD, ses chiffres lumineux blancs et son rétro-éclairage bleu assurent une lisibilité optimale du pèse-personne
+- Analyse corporelle : l’appareil mesure poids, graisse corporelle, masse hydrique, masse musculaire et osseuse, calcule l’IMC et offre une analyse intégrée des besoins en calories
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
