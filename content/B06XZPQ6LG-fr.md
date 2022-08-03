@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur variable de 2 à 3 mètres
-- Temps dinstallation : 15 minutes
 - poids : 28kg
 - largeur de la sangle : 5 cm
+- Longueur variable de 2 à 3 mètres
 - slackline à boucle cousue de 4 mètres 50
-- care_instructions Afin de garder votre matériel en bon état de fonctionnement, stockez le dans un endroit sec, à labri de lhumidité et du froid
-- structure métallique renforcée ultra solide
 - inclus : cliquet de serrage sécurisé, pieds en caoutchouc, manuel dutilisation, illustration de montage
+- care_instructions Afin de garder votre matériel en bon état de fonctionnement, stockez le dans un endroit sec, à labri de lhumidité et du froid
+- Temps dinstallation : 15 minutes
+- structure métallique renforcée ultra solide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
