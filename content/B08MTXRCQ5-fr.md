@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sangle de poitrine avec boucle magnétique
-- Poche latérale anti-griffures zippée
 - Poche verticale zippée
 - Panneau arrière AirScape avec bords en mousse pour le confort et le maintien
+- Poche latérale anti-griffures zippée
+- Sangle de poitrine avec boucle magnétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

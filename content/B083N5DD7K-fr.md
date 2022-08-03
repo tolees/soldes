@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spider web gravé à lintérieur pour absorber le choc
-- Découpe précise pour laccès aux autres fonctions
 - Air cushion technologie appliquée à chaque coin
-- Rebords surélevés pour protéger lécran et la caméra de la surface plane
+- Découpe précise pour laccès aux autres fonctions
 - Matériel polyuréthane thermoplastique avec design fibre de carbone à lextérieur
+- Rebords surélevés pour protéger lécran et la caméra de la surface plane
+- Spider web gravé à lintérieur pour absorber le choc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

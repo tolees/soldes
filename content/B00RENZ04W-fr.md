@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ⭐ Super garage TOTAL avec station-service complète
 - ⭐ Dimensions : 102 x 101 x 44cm
-- ⭐ Conception Française 🇫🇷 & fabrication Européenne 🇪🇺
 - ⭐ Idéal pour samuser pendant des heures et faire le plein dessence avant de partir vers de nouvelles aventures
 - ⭐ Ce coffret comprend 1 parking de 4 niveaux, 1 parking de 3 niveaux, deux stations de lavage, deux ateliers de réparation, deux ascenseurs, des panneaux et autocollants, 2 mètres de piste (voitures non comprises)
+- ⭐ Conception Française 🇫🇷 & fabrication Européenne 🇪🇺
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

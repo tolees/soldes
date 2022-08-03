@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - produit 1: Les technologies Dynamic 4K et HDR nécessitent un téléviseur ou un écran compatible 4K et HDR.
-- produit 2: Expérience immersive : plongez au cœur du New-York enneigé de Marvel grâce à la technologie audio 3D Tempest avec des graphismes à couper le souffle
-- produit 2: Compatibilité : console PS5 et manette DualSense
-- produit 1: Survolez les mégalopoles et traversez les dimensions avec de nouveau gadgets qui défient les lois de la physique.
+- produit 1: Téléportez-vous pour traverser les champs de bataille et prendre lavantage au combat. Réparez les failles planétaires en résolvant des puzzles dimensionnels
 - produit 2: Jeu daction sur PS5 : Miles Morales, nouveau héros, apprend à maîtriser ses nouveaux pouvoirs explosifs pour devenir un nouveau Spider-Man
 - produit 1: Rencontrez des personnages connus de la licence et de nouveaux alliés à l’image d’une nouvelle résistante lombax
 - produit 2: Caractéristiques du jeu : 1 joueur, Version physique, Qualité dimage 4K, Disponible en français et en anglais
-- produit 1: Téléportez-vous pour traverser les champs de bataille et prendre lavantage au combat. Réparez les failles planétaires en résolvant des puzzles dimensionnels
+- produit 2: Expérience immersive : plongez au cœur du New-York enneigé de Marvel grâce à la technologie audio 3D Tempest avec des graphismes à couper le souffle
+- produit 1: Survolez les mégalopoles et traversez les dimensions avec de nouveau gadgets qui défient les lois de la physique.
+- produit 2: Compatibilité : console PS5 et manette DualSense
 
 [🛒 Achète-le!!]({{< param buyurl >}})

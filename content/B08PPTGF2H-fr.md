@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Repensé pour avoir plus de puissance à portée de main - Il suit vos mouvements, écrit, dessine et contrôle plus longtemps - Le contrôle à distance transforme vos clics en action - Un clic suffit pour parcourir une présentation, lire et mettre en pause des vidéos ou prendre une photo - Les actions aériennes dun simple geste de la main
 - Pointe du stylo : 0,7 mm
 - Le S Pen vous permet de contrôler votre téléphone grâce à quelques gestes simples, daugmentez ou baissez le son, de modifier langle ou le cadrage de lappareil photo frontal ou encore parcourir la galerie - Repensé pour laisser libre cours à votre créativité - Lexportation de texte transforme instantanément votre écriture manuscrite en texte - Aussi naturel quun stylo sur du papier
+- Repensé pour avoir plus de puissance à portée de main - Il suit vos mouvements, écrit, dessine et contrôle plus longtemps - Le contrôle à distance transforme vos clics en action - Un clic suffit pour parcourir une présentation, lire et mettre en pause des vidéos ou prendre une photo - Les actions aériennes dun simple geste de la main
 - Repensé pour être personnalisable, Samsung Notes vous permet de régler les paramètres de votre S Pen, tels que la couleur et lépaisseur du trait puis de les enregistrer dans vos favoris - Le Screen off memo est prêt quand vous en avez besoin - Ecrivez et dessinez dans plusieurs couleurs, enregistrez vos mémo ou épinglez-les sur le Always On Display - AR Doodle pour dessiner en 3D - Vos créations peuvent repérer et suivre votre visage et lespace alentour pour des vidéos irrésistibles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

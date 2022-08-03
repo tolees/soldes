@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Respirant
 - Lacets
 - Caoutchouc
 - Synthétique
-- Respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

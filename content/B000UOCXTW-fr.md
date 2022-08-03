@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions idéales pour une cuisine quotidienne et familiale en particulier pour les lasagnes
 - Plat en verre borosilicate léger : résistant aux chocs thermiques : de -40° jusquà 300°
 - Ce plat est fabriqué à partir de matériau hygiénique qui permet de résister aux rayures
-- Dimensions idéales pour une cuisine quotidienne et familiale en particulier pour les lasagnes
 - Plat à four en verre ultra-résistant qui se nettoie facilement au lave-vaisselle, on adore !
 - Les plats de la gamme Essentials sont garantis pendant 10 ans - Dimension: 21x13 cm
 
