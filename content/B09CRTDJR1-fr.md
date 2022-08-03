@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Studio Canal - Le Journal de Bridget Jones [4K Ultra-HD + Blu-Ray-Édition boîtier SteelBook]'
-date: 2022-08-02 15:10:36
+date: 2022-08-03 17:23:06
 image: 'https://m.media-amazon.com/images/I/41yIivUb1WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
