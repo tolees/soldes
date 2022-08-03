@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le kit de construction de robot LEGO BOOST pour les enfants de 7 à 12 ans est une merveilleuse idée de cadeau danniversaire ou de Noël pour les futurs ingénieurs !
-- Avec ce jouet éducatif, les enfants peuvent construire des robots de codage 5 en 1 et les contrôler avec nos blocs de code faciles sur tablette pour apprendre le codage pour enfants
 - Cet ensemble LEGO robot comprend un Move Hub LEGO avec connexion Bluetooth, moteur interactif et capteur de distance et couleurs pour donner vie au modèle
 - Ils peuvent choisir entre un jouet de robot pour enfants qui bouge/parle, un rover versatile, un instrument de musique, un robot chat interactif ou la ligne de production AutoConstructeur
+- Avec ce jouet éducatif, les enfants peuvent construire des robots de codage 5 en 1 et les contrôler avec nos blocs de code faciles sur tablette pour apprendre le codage pour enfants
+- Le kit de construction de robot LEGO BOOST pour les enfants de 7 à 12 ans est une merveilleuse idée de cadeau danniversaire ou de Noël pour les futurs ingénieurs !
 - Ce kit de construction de robot rend la programmation accessible aux enfants grâce à son interface intuitive et facile à utiliser, et stimule leurs compétences en ingénierie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
