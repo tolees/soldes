@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent jouer le rôle dAndrea ou dAmelia, et la salle de projection VIP offre des places exclusives pour 5 de leurs amis les plus fabuleux
-- Ce jeu créatif pour fille et garçon de 7 ans et plus comprend 3 mini-poupées : Andrea, Amelia et Julian, une billetterie et un tapis rouge pour les enfants qui visionnent la première
-- Le décor souvre pour révéler un écran de cinéma et des sièges, on peut mettre un smartphone ou une tablette contre lécran pour des projections de films du monde réel
-- Ce cinéma de style art déco regorge de détails authentiques : un espace VIP, un kiosque de pop-corn, des tasses à smoothie et un jouet projecteur à faire fonctionner
 - Un jouet créatif : Le cinéma Heartlake City permet aux enfants de projeter leurs "propres" films pour les mini-poupées, ce qui permet un jeu dynamique pendant des heures
+- Le décor souvre pour révéler un écran de cinéma et des sièges, on peut mettre un smartphone ou une tablette contre lécran pour des projections de films du monde réel
+- Ce jeu créatif pour fille et garçon de 7 ans et plus comprend 3 mini-poupées : Andrea, Amelia et Julian, une billetterie et un tapis rouge pour les enfants qui visionnent la première
+- Les enfants peuvent jouer le rôle dAndrea ou dAmelia, et la salle de projection VIP offre des places exclusives pour 5 de leurs amis les plus fabuleux
+- Ce cinéma de style art déco regorge de détails authentiques : un espace VIP, un kiosque de pop-corn, des tasses à smoothie et un jouet projecteur à faire fonctionner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

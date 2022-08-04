@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set de 1 326 pièces inclut un livret illustré avec des informations sur Seinfeld Il offre une expérience de construction amusante, à découvrir en solo, en famille ou entre amis
+- Cette construction LEGO pour adultes contient 5 minifigurines LEGO : Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes et Newman pour donner vie à la construction
+- Ce maquette de construction LEGO pour adultes constituera une pièce d’exposition ou de décoration dintérieur idéale ainsi quune superbe idée de cadeau pour les hommes et femmes fans de Seinfeld et de LEGO
+- L’appartement de Seinfeld comprend une cuisine avec un comptoir à construire, un réfrigérateur avec un autocollant Superman, un micro-ondes, un four, une théière et un bretzel !
+- Cette maquette de modelisme pour adultes fait partie d’une collection de superbes sets LEGO Ideas, créés par des fans de LEGO, élus par des milliers de passionnés de LEGO et produits par le Groupe LEGO
 - Ce set LEGO Seinfeld pour adultes reproduisant l’appartement de Jerry permet de revivre des scènes de la série classique des années 1990
 - Cette maquette à construire pour adultes est doté dun canapé, d’un fauteuil et de tables ainsi que dun espace bureau avec de nombreux détails authentiques inspirés de la série
-- Ce maquette de construction LEGO pour adultes constituera une pièce d’exposition ou de décoration dintérieur idéale ainsi quune superbe idée de cadeau pour les hommes et femmes fans de Seinfeld et de LEGO
-- Cette maquette de modelisme pour adultes fait partie d’une collection de superbes sets LEGO Ideas, créés par des fans de LEGO, élus par des milliers de passionnés de LEGO et produits par le Groupe LEGO
+- Ce set de 1 326 pièces inclut un livret illustré avec des informations sur Seinfeld Il offre une expérience de construction amusante, à découvrir en solo, en famille ou entre amis
 - Il inclut aussi une estrade à construire et des accessoires : une statue, un haut de muffin, une cassette de Prognosis Negative, un climatiseur Commando 8 et un poteau de Festivus
-- L’appartement de Seinfeld comprend une cuisine avec un comptoir à construire, un réfrigérateur avec un autocollant Superman, un micro-ondes, un four, une théière et un bretzel !
-- Cette construction LEGO pour adultes contient 5 minifigurines LEGO : Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes et Newman pour donner vie à la construction
 
 [🛒 Achète-le!!]({{< param buyurl >}})

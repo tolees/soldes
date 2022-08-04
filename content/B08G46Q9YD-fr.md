@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faites-vous plaisir et offrez un cadeau idéal à tout fan de Star Wars, à tout constructeur LEGO expérimenté - ou non - ou à tout amateur
-- Mesurant plus de 27 cm de haut, cet ensemble de construction fait partie dune série de modèles LEGO Star Wars à collectionner, à construire et à exposer
-- Le modèle de droïde a des jambes à orienter dans les positions les plus fantaisistes et est livré avec un poteau transparent en briques pour le "suspendre" au-dessus dune scène enneigée à construire
 - Comprend un ensemble LEGO Star Wars détaillé pour adultes - le modèle de présentation du droïde sonde impérial, complété par une plaque dinformation
-- Excellente idée de cadeau Star Wars, ce modèle à construire na pas besoin de beaucoup despace pour être exposé, mais il est sûr dattirer lattention dans une maison ou un bureau
+- Mesurant plus de 27 cm de haut, cet ensemble de construction fait partie dune série de modèles LEGO Star Wars à collectionner, à construire et à exposer
 - Revivez les scènes de Star Wars : LEmpire contre-attaque sur la planète glacée Hoth avec ce jeu de construction de 683 pièces de qualité supérieure pour adultes
+- Le modèle de droïde a des jambes à orienter dans les positions les plus fantaisistes et est livré avec un poteau transparent en briques pour le "suspendre" au-dessus dune scène enneigée à construire
+- Excellente idée de cadeau Star Wars, ce modèle à construire na pas besoin de beaucoup despace pour être exposé, mais il est sûr dattirer lattention dans une maison ou un bureau
+- Faites-vous plaisir et offrez un cadeau idéal à tout fan de Star Wars, à tout constructeur LEGO expérimenté - ou non - ou à tout amateur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
