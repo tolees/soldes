@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Graphismes époustouflants, Gameplay immersif grâce aux combats réalistes et aux fonctionnalités uniques de la manette DualSense et à la technologie audio 3D Tempest
 - Compatibilité : console PS5 avec manettes DualSense, Exclusivité PS5
-- Caractéristiques du jeu : 1 joueur, Version physique, Mode Multijoueur en ligne jusqu’à 6 joueurs, Qualité d’images 4K, Disponible en français et en anglais
+- Graphismes époustouflants, Gameplay immersif grâce aux combats réalistes et aux fonctionnalités uniques de la manette DualSense et à la technologie audio 3D Tempest
 - Jeu d’Action-RPG sur PS5 : incarnez un guerrier solitaire tentant d’affronter les horreurs du royaume de Boletaria afin de bannir l’Ancien et devenir le Fléau des Démons
+- Caractéristiques du jeu : 1 joueur, Version physique, Mode Multijoueur en ligne jusqu’à 6 joueurs, Qualité d’images 4K, Disponible en français et en anglais
 - Contenu de la livraison : 1 x Jeu Demon’s Souls sur PlayStation 5, Version physique, Jaquette en français, Bonus de précommande : Faux mortifère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
