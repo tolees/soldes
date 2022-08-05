@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LÉGÈRE ET COMPACTE : Fabriquée en aluminium, elle est à la fois portative et solide, de plus sa structure permet de lutiliser facilement dans toutes les configurations
 - Avec le Safety Payload de UNI, la sécurité de léquipement est maximale. Nous avons mis à jour notre façon de mesurer la charge admissible. Les données de cette page sont celles à prendre en compte
-- ROTULE PHOTO : pour tous les photographes à la recherche dune petite rotule performante, la 496 permet de positionner lappareil photo avec plus de précision
-- POLYVALENTE : Trois fonctions (bouton de verrouillage de la tête, friction et panoramique) lui permettent de sadapter à tout type de situation, rendant ainsi possible tous les plans et angles
 - FIABLE : supporte jusquà 12 kg et convient à tous les types dappareils photo sans reflet avec zoom et même aux reflex numériques moyen format
+- ROTULE PHOTO : pour tous les photographes à la recherche dune petite rotule performante, la 496 permet de positionner lappareil photo avec plus de précision
+- LÉGÈRE ET COMPACTE : Fabriquée en aluminium, elle est à la fois portative et solide, de plus sa structure permet de lutiliser facilement dans toutes les configurations
+- POLYVALENTE : Trois fonctions (bouton de verrouillage de la tête, friction et panoramique) lui permettent de sadapter à tout type de situation, rendant ainsi possible tous les plans et angles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

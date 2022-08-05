@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 clayettes
-- Froid statique
-- Classe énergétique G
 - Dimensions 84,5 x 49 x 55 cm
+- Classe énergétique G
+- Froid statique
 - 41 bouteilles
+- 8 clayettes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
