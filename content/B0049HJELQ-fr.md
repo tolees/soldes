@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage : 5.6 L x 36.4 H x 25.4 W
 - Lavage en machine, 30° max.
-- 100% Coton
 - Fermeture : fermeture éclair
+- 100% Coton
+- Dimensions de lemballage : 5.6 L x 36.4 H x 25.4 W
 - Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : Écran AOC CU34G2/BK 86 cm (34 pouces) noir/rouge, câble d’alimentation, câble HDMI, câble DisplayPort, CD d’installation, fiche de garantie
-- Écran PC rapide QHD 34 pouces incurvé à 1500R, sans scintillement, technologie Low Blue Light, pour un plaisir de jeu sans limite, taux de rafraîchissement de 100 Hz
-- Garantie constructeur : 3 ans Retrouvez les conditions de garantie sous « Informations techniques complémentaires ». Vos droits de garantie légale restent inchangés
-- Dalle VA, QHD, écran mat, réglable en hauteur jusqu’à 130 mm, sortie casque, VESA 100 x 100, pied amovible, cadre fin, hub USB (3.0)
 - Luminosité/contraste : 300 cd/m², 1000:1, ports : 2 x HDMI 1.4, 1 x DisplayPort 1.2, hub USB 4 ports, format 21:9
+- Dalle VA, QHD, écran mat, réglable en hauteur jusqu’à 130 mm, sortie casque, VESA 100 x 100, pied amovible, cadre fin, hub USB (3.0)
+- Garantie constructeur : 3 ans Retrouvez les conditions de garantie sous « Informations techniques complémentaires ». Vos droits de garantie légale restent inchangés
+- Écran PC rapide QHD 34 pouces incurvé à 1500R, sans scintillement, technologie Low Blue Light, pour un plaisir de jeu sans limite, taux de rafraîchissement de 100 Hz
+- Contenu de la livraison : Écran AOC CU34G2/BK 86 cm (34 pouces) noir/rouge, câble d’alimentation, câble HDMI, câble DisplayPort, CD d’installation, fiche de garantie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

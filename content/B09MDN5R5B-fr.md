@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Recevez vos fonds rapidement par virement, aussitôt que le jour ouvrable suivant.
+- Commencez à en profiter en moins de cinq minutes. Encaissez des paiements sur-le-champ, sans formation supplémentaire.
 - Économisez de l’argent avec un taux personnalisé. Si votre entreprise traite plus de 200 000 de ventes annuelles par cartes, discutons de nos tarifs personnalisés.
 - Traitez les paiements où que vous soyez : au comptoir, à l‘extérieur ou même à distance. Saisissez les numéros de cartes manuellement ou envoyez des factures numériques, à partir du même appareil.
 - Il n‘y a pas de frais cachés ni de contrats à long terme. Payez seulement 1,65 % par transaction, quelle que soit la marque de la carte bancaire.
-- Recevez vos fonds rapidement par virement, aussitôt que le jour ouvrable suivant.
-- Commencez à en profiter en moins de cinq minutes. Encaissez des paiements sur-le-champ, sans formation supplémentaire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

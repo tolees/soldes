@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- De Alexandre Astier et Louis Clichy
-- Astérix - Le Secret de la Potion Magique, 1 Blu-ray, 85 minutes
 - Contenu additionnel : Commentaire audio dAlexandre Astier et Louis Clichy ; Making of (2018, 2352") ; "Albert Uderzo, les ingrédients de la potion magique" : documentaire dAlain Duchêne, Laurent Boyer, Jean-Marie Pasquier et Frédéric Provost (2019, 7219") ; Interview dépoque de René Goscinny (1704") ; Bande-annonce (208")
+- Astérix - Le Secret de la Potion Magique, 1 Blu-ray, 85 minutes
 - À la suite d’une chute lors de la cueillette du gui, le druide Panoramix décide qu’il est temps d’assurer l’avenir du village. Accompagné d’Astérix et Obélix, il entreprend de parcourir la Gaule à la recherche d’un jeune druide talentueux à qui transmettre le secret de la potion magique…
+- De Alexandre Astier et Louis Clichy
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

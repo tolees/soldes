@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Design tactile ludique et sûr
 - Relevé précis de la température dans le bain et la chambre
-- Afficheur numérique vertical
 - Etanche et conçu pour flotter
+- Afficheur numérique vertical
 - Amusant et sans danger, conçu et testé comme jouet de bain
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

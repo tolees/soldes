@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garanti 2 An Uniquement Chez Lights4fun
-- Chaque Bougie Nécessite 2 x Piles LR6/AA (non incluses)
 - Hauteur 10cm, 12,5cm et 15cm ; Diamètre 7,5cm
+- Garanti 2 An Uniquement Chez Lights4fun
 - Lumière Vacillante des LED Imite Une Vraie Flamme
 - Faites en Cire Véritable - Programmateur Pratique de 6h
+- Chaque Bougie Nécessite 2 x Piles LR6/AA (non incluses)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

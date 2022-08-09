@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simple et rapide à installer
+- Pour des résultats optimaux, il est conseillé de changer le filtre régulièrement (au moins tous les 2 mois)
 - Il aide à prolonger la vie de la machine
+- Simple et rapide à installer
 - Une eau plus propre permet dobtenir une meilleure qualité de café
 - Il prévient la formation du calcaire
-- Pour des résultats optimaux, il est conseillé de changer le filtre régulièrement (au moins tous les 2 mois)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

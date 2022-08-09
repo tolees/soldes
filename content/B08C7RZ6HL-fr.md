@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temps de réponse: 1 ms
-- Technologie AMD FreeSync
-- Ecran PC Incurvé 1000R 34
-- Résolution UHD ultra-large : 3440 x 1440 pixels
 - Taux de rafraichissement : 165Hz . Source de courant: AC 100 ~ 240V
+- Résolution UHD ultra-large : 3440 x 1440 pixels
+- Temps de réponse: 1 ms
+- Ecran PC Incurvé 1000R 34
+- Technologie AMD FreeSync
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
