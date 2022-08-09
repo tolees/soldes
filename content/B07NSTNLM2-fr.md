@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 2 fiches RJ45
+- 4 x 2 Cu 100 % cuivre AWG26/7 conducteurs
+- Certificat UL – blindé – Sachet en plastique avec code EAN – Longueur : 3 m.
 - 1 : 1 plaque.
 - Câble patch STP Level 5e
-- Certificat UL – blindé – Sachet en plastique avec code EAN – Longueur : 3 m.
-- 4 x 2 Cu 100 % cuivre AWG26/7 conducteurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

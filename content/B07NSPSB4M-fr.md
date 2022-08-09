@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- USB-A mâle <=> USB-Micro B mâle
-- Câble à 4 brins double blindage AWG28 - UL2725 - Couleur : blanc
 - Câble de connexion USB, USB A/Micro USB B
-- CU AWG28, 2 x blindé, M/M, UL, longueur : 5 m.
+- Câble à 4 brins double blindage AWG28 - UL2725 - Couleur : blanc
 - Boîtier moulé
+- USB-A mâle <=> USB-Micro B mâle
+- CU AWG28, 2 x blindé, M/M, UL, longueur : 5 m.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

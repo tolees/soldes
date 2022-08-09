@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dédiée aux hybrides APS-C et Micro 4/3
-- Optique compacte lumineuse
-- Haute qualité optique
 - Diaphragme 9 lamelles
-- Optique compacte lumineuse . Dédiée aux hybrides APS-C et Micro 4/3 . Haute qualité optique . Diaphragme 9 lamelles . Mise au point manuelle .
 - Mise au point manuelle
+- Haute qualité optique
+- Optique compacte lumineuse . Dédiée aux hybrides APS-C et Micro 4/3 . Haute qualité optique . Diaphragme 9 lamelles . Mise au point manuelle .
+- Optique compacte lumineuse
+- Dédiée aux hybrides APS-C et Micro 4/3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
