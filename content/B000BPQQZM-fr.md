@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Modèle B5
 - 5 litres
-- De la marque Scepter
 - Bidon essence
+- De la marque Scepter
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
