@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Inspiré par le monstre marin mythique des Caraïbes, ce jouet de voiture de course « lusca » combine un requin et un calmar pour créer un véhicule redoutable
-- Il comprend un jouet monster truck à rétrofriction LEGO Technic 2 en 1 Monster Jam Megalodon qui peut se transformer en voiture jouet Low Racer basse « lusca »
-- Après d’impressionnants tours avec ce jouet monster truck, vous pouvez le transformer en une voiture de course basse avec fonction de rétrofriction pour un jeu rapide
-- Inspiré du légendaire monstre marin, ce set LEGO Technic inclut des dents de requins caractéristiques et des nageoires qui bougent quand le véhicule prend de la vitesse
 - Les enfants peuvent effectuer des sauts impressionnants et utiliser la rétrofriction pour envoyer leur camion sur un terrain accidenté, tout comme un vrai monster truck
+- Il comprend un jouet monster truck à rétrofriction LEGO Technic 2 en 1 Monster Jam Megalodon qui peut se transformer en voiture jouet Low Racer basse « lusca »
+- Inspiré du légendaire monstre marin, ce set LEGO Technic inclut des dents de requins caractéristiques et des nageoires qui bougent quand le véhicule prend de la vitesse
+- Après d’impressionnants tours avec ce jouet monster truck, vous pouvez le transformer en une voiture de course basse avec fonction de rétrofriction pour un jeu rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
