@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Manette D-Pad G Pokémon: Pikachu Noir/Doré pour Nintendo Switch'
-date: 2022-08-04 12:16:26
+date: 2022-08-11 16:46:38
 image: 'https://m.media-amazon.com/images/I/51Vp3M1u6AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Hori'
 buyurl: 'https://www.amazon.fr/dp/B08KT73SYM/?tag=tolees0d-21'
 descuento: '16.01'
-average: '23.7677777777778'
+average: '23.49'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,5 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Add a D-pad to your Nintendo Switch!
-- Officially licensed by Nintendo and the Pokemon Company international
-- sleek Pikachu Black & Gold design and artwork
-- perfect for D-pad intensive titles
-- for handheld/portable mode only
 
 [🛒 Achète-le!!]({{< param buyurl >}})
