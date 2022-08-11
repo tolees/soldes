@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facteur de forme : M.2 2280
-- Vitesse décriture séquentielle : jusquà 6850 Mo/s.
 - Vitesse de lecture séquentielle : jusquà 7000 Mo/s.
+- Facteur de forme : M.2 2280
 - Interface : PCI-Express 4.0 x4, NVMe 1.4.
+- Vitesse décriture séquentielle : jusquà 6850 Mo/s.
 - Dissipateur thermique en aluminium revêtu de nanocarbone
 
 [🛒 Achète-le!!]({{< param buyurl >}})

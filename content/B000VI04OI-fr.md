@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Record Label: Polydor
 - Catalog#: 06007 5302809
-- Year Of Release: 2007
 - Country Of Release: NLD
+- Record Label: Polydor
+- Year Of Release: 2007
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

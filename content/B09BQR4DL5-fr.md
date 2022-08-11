@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du talon : 7,5 cm
-- Semelle intérieure rembourrée TOUCH-IT
-- Boucle réglable pour un confort optimal
-- Type de talon : talon compensé
 - Doublure textile agréablement adaptable
+- Type de talon : talon compensé
+- Hauteur du talon : 7,5 cm
+- Boucle réglable pour un confort optimal
+- Semelle intérieure rembourrée TOUCH-IT
 
 [🛒 Achète-le!!]({{< param buyurl >}})

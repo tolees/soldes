@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PRISE INTÉGRÉE - Prise gigogne permettant de brancher dautres appareils situés dans votre salon ou bureau, veuillez brancher directement dans une prise murale pour le débit plus puissant. Configuration requise : Windows 2000/XP/2003/Vista, Windows 7/8/8.1, Mac, Linux
-- PORT ETHERNET GIGABIT - Le port Gigabit fournit le réseau filaire sécurisé pour votre PC, votre TV connecté ou votre console de jeux
-- Température de fonctionnement : 0°C à 40°C (32°F à 104°F)
-- CPL HAUT DÉBIT - Débit CPL jusquà 1 Gbit/s, cest idéal pour le streaming 4K et les jeux en ligne sans latence, le débit 1 Gbit/s est les débits physiques selon la norme HomePlug AV, des conditions du réseau, des limitations du client et des facteurs environnementaux influenceront les débits actuels
 - LARGE COMPATIBILITÉ - Compatible toutes les box internet. Mode veille breveté réduisant automatiquement la consommation électrique de près de 85 %. Si vous avez plus de questions, recherchez «TP-Link France Zoho Desk» sur Navigateur Web pour ouvrir votre Ticket
+- CPL HAUT DÉBIT - Débit CPL jusquà 1 Gbit/s, cest idéal pour le streaming 4K et les jeux en ligne sans latence, le débit 1 Gbit/s est les débits physiques selon la norme HomePlug AV, des conditions du réseau, des limitations du client et des facteurs environnementaux influenceront les débits actuels
+- PORT ETHERNET GIGABIT - Le port Gigabit fournit le réseau filaire sécurisé pour votre PC, votre TV connecté ou votre console de jeux
 - INSTALLATION FACILE - Plug and Play. Aucune configuration requise ! Déplacez CPL dans une prise murale sans appareils électriques dotés dun moteur et adaptateur secteur autour des CPL pour éviter les interférences
+- Température de fonctionnement : 0°C à 40°C (32°F à 104°F)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
