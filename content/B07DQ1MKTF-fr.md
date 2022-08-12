@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connexion sans fil à la barre de son
 - Couleur : noir
+- Connexion sans fil à la barre de son
 
 [🛒 Achète-le!!]({{< param buyurl >}})
