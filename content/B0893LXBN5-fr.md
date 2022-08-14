@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair VOID ELITE Stereo Casque Gaming  Maille Microfibre Respirante  Mousse à Mémoire Coussinets  Microphone Omnidirectionnel Optimisé  Compatibilité Multiplateforme  Noir'
-date: 2022-07-30 12:56:02
+date: 2022-08-14 11:42:02
 image: 'https://m.media-amazon.com/images/I/41yqAfmd-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception robuste avec armature en aluminium : Permet de résister à des années de gaming
-- Microphone omnidirectionnel optimisé : Capte votre voix avec une clarté exceptionnelle et est doté d’une fonction sourdine flip-up pratique
-- Compatibilité multiplateforme : Utilisez le casque sur PC, PS4, Xbox One, Switch et sur les appareils mobiles via un connecteur universel 3,5 mm et un câble séparateur Y inclus
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - Confort durable : Les coussinets en maille microfibre respirante et en mousse à mémoire de forme garantissent un confort durable, même pendant de longues sessions de gaming
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - Un son époustouflant : Transducteurs audio haut de gamme en néodyme de 50 mm personnalisés avec une vaste gamme de fréquences allant de 20 Hz à 30 000 Hz
+- Compatibilité multiplateforme : Utilisez le casque sur PC, PS4, Xbox One, Switch et sur les appareils mobiles via un connecteur universel 3,5 mm et un câble séparateur Y inclus
+- Microphone omnidirectionnel optimisé : Capte votre voix avec une clarté exceptionnelle et est doté d’une fonction sourdine flip-up pratique
+- Conception robuste avec armature en aluminium : Permet de résister à des années de gaming
 
 [🛒 Achète-le!!]({{< param buyurl >}})
