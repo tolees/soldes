@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Electro Kids  Sabots Mixte Enfant  Bleu  Navy/Electric Blue  24/25 EU'
-date: 2022-08-13 16:58:36
+date: 2022-08-15 11:26:40
 image: 'https://m.media-amazon.com/images/I/312YhN8wj0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001KR0C4G-fr Crocs Electro Kids Sabots Mixte Enfant Bleu Navy/Electric...'
 sku: 'B001KR0C4G-fr'
 tags: [ 'Boutiques','Chaussures','Chaussures et Sacs','Chaussures et sacs','Chaussures garçon','Custom Stores','Mules et sabots garçon','crocs','🇫🇷', ]
-actualPrice: 18.0 EUR
+actualPrice: 14.4 EUR
 currency: EUR
-price: 18.0
+price: 14.4
 comparePrice: 39.99 EUR
 prodname: 'Crocs Electro Kids  Sabots Mixte Enfant  Bleu  Navy/Electric Blue  24/25 EU'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.fr/dp/B001KR0C4G/?tag=tolees0d-21'
-descuento: '54.99'
-average: '22.745'
+descuento: '63.99'
+average: '19.9633333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure: Non doublé
-- Dessus: Caoutchouc
 - Matériau de semelle: Éthylène-acétate de vinyle
+- Doublure: Non doublé
 - Semelle intérieure: Non doublé
+- Dessus: Caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
