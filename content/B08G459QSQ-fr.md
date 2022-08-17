@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 31201 Art Harry Potter Les blasons de Poudlard Cadre et décor Mural  Ensemble de Bricolage pour Adultes'
-date: 2022-08-04 17:31:30
+title: 'LEGO 31201 Art Harry Potter Les blasons de Poudlard  Tableau de décoration Mural  Loisir créatif pour Adultes'
+date: 2022-08-17 02:26:37
 image: 'https://m.media-amazon.com/images/I/51yhYY9RNBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08G459QSQ-fr LEGO 31201 Art Harry Potter Les blasons de Poudlard Cadre...'
+slug: 'B08G459QSQ-fr LEGO 31201 Art Harry Potter Les blasons de Poudlard...'
 sku: 'B08G459QSQ-fr'
 tags: [ 'Boîtes empilables','Jeux de construction','Jeux et Jouets','Jeux et jouets','lego','🇫🇷', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
 comparePrice: 119.99 EUR
-prodname: 'LEGO 31201 Art Harry Potter Les blasons de Poudlard Cadre et décor Mural  Ensemble de Bricolage pour Adultes'
+prodname: 'LEGO 31201 Art Harry Potter Les blasons de Poudlard  Tableau de décoration Mural  Loisir créatif pour Adultes'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08G459QSQ/?tag=tolees0d-21'
 descuento: '25.00'
-average: '86.10175'
+average: '86.1965853658537'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En créant et exposant cette décoration murale unique en mosaïques, les constructeurs rendent hommage à la magie et à l’aventure. Pour prolonger la détente, ils peuvent combiner 4 sets pour créer le blason ultime de Poudlard.
-- Ce set LEGO Art Harry Potter Les blasons de Poudlard (31201) permet d’exprimer sa passion pour l’univers du jeune sorcier, tout en construisant et en exposant l’un des 4 blasons détaillés des maisons de Poudlard.
-- Ce set LEGO de 4 249 pièces, qui contient 9 plaques support pour décoration murale, une tuile exclusive avec le logo Harry Potter, un cadre en briques, un élément de suspension unique et un outil à tuiles, est idéal pour se détendre.
-- Cette pièce de plus de 40 cm² propose 4 options de construction et constitue une activité relaxante pour tous les passionnés de Harry Potter qui aiment les projets de loisirs créatifs.
-- Superbes pièces à exposer sur un mur ou une étagère, les modèles LEGO Art offrent une expérience de construction gratifiante permettant aux adultes amateurs de loisirs créatifs de s’adonner à leur passion.
-- Les instructions de qualité guident les constructeurs tout au long du projet et leur permettent de s’immerger dans l’univers de l’art, tout en se détendant grâce à une relaxation créative LEGO.
-- Le set permet aux constructeurs de s’adonner à leur passion pour l’art, les loisirs créatifs et la saga Harry Potter, tout en se détendant. La bande-son incluse permet d’en apprendre plus sur les maisons tout en construisant.
+- Construisez et exposez l’un des 4 blasons détaillés de Poudlard possibles (un à la fois) pour créer une décoration pour la maison Harry Potter en mosaïque impressionnante
+- 1 image, 4 options, les modèles indiqués ne peuvent pas être construits simultanément ; cette œuvre d’art LEGO mesure plus de 40 cm carrés
+- Combinez les 4 sets d’activité manuelle pour créer une décoration Harry Potter ultime avec tous les blasons de Poudlard que vous pourrez accrocher au mur ou exposer sur une étagère
+- Ce set de 4 249 pièces inclut 9 plaques de support pour décoration murale, une tuile avec le logo Harry Potter, un cadre en briques de construction et un élément de suspension
+- Les kits de loisirs créatifs pour adulte LEGO Art offrent une expérience de construction gratifiante et constituent de superbes cadeaux pour les adolescents et les adultes
+- Grâce à la bande-son incluse, vous pourrez en apprendre plus sur les maisons (Gryffondor, Serpentard, Poufsouffle et Serdaigle) et sur Poudlard en général
 
 [🛒 Achète-le!!]({{< param buyurl >}})
