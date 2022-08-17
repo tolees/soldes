@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- band_width: 20.0
 - case_diameter: 42.0 millimeters; water_resistance_depth: 200.0 meters
 - department_name: homme
-- band_width: 20.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les détails perforés ajoutent de la texture au look décontracté
-- Fabriqué à partir de cuir pleine graine, fabriqué dans nos propres taneries, ou suède de calf doux, avec détails textiles
+- La semelle légère offre un rembourrage et une flexibilité grâce à la technologie innovante ECCO FluidFORM Direct Comfort
 - Doublure textile offrant douceur et respirabilité
 - Les lacets en tissu sont facilement ajustés pour un ajustement sûr
-- La semelle légère offre un rembourrage et une flexibilité grâce à la technologie innovante ECCO FluidFORM Direct Comfort
+- Les détails perforés ajoutent de la texture au look décontracté
+- Fabriqué à partir de cuir pleine graine, fabriqué dans nos propres taneries, ou suède de calf doux, avec détails textiles
 - Semelle intérieure amovible recouverte de textile pour plus de confort et un ajustement personnalisable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

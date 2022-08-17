@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La construction du village comprend une cellule de prison à lintérieur dune tête de dragon, un piège dangereux déguisé en feuille, des lanceurs cachés et un pilier de pierre
-- Comprend 5 minifigurines NINJAGO : Cole de lîle, Jay de lîle, Kai de lîle, Chef Mammatus et Gardien du Tonnerre, qui brandissent tous des armes cool
-- Le pilier de pierre peut se séparer en 3 personnages à lallure féroce, ce qui permet de jouer de nombreuses histoires avec plusieurs ninjas copains
-- Comprend un repaire de jungle insulaire hautement détaillé et interactif pour que les enfants puissent reconstituer dincroyables scènes de combat de la série télévisée LEGO NINJAGO
 - Ce jouet LEGO NINJAGO est amusant à construire pour les enfants de 8 ans et plus, un cadeau danniversaire ou de vacances très apprécié des amoureux des ninjas
+- Comprend un repaire de jungle insulaire hautement détaillé et interactif pour que les enfants puissent reconstituer dincroyables scènes de combat de la série télévisée LEGO NINJAGO
+- Le pilier de pierre peut se séparer en 3 personnages à lallure féroce, ce qui permet de jouer de nombreuses histoires avec plusieurs ninjas copains
+- Comprend 5 minifigurines NINJAGO : Cole de lîle, Jay de lîle, Kai de lîle, Chef Mammatus et Gardien du Tonnerre, qui brandissent tous des armes cool
+- La construction du village comprend une cellule de prison à lintérieur dune tête de dragon, un piège dangereux déguisé en feuille, des lanceurs cachés et un pilier de pierre
 - Découvrez dautres sets NINJAGO, dont La Moto de la Jungle de Lloyd (71745), Le Dragon de la Jungle (71746) et La bataille de catamarans (71748)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
