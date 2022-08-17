@@ -30,7 +30,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Déverrouillage de sécurité de linterrupteur
 - Dernière génération doutils XR Li-ion
-- Nouvelle batterie XR 4Ah
 - Moteur hautes performances refroidi par ventilateur
+- Nouvelle batterie XR 4Ah
 
 [🛒 Achète-le!!]({{< param buyurl >}})
