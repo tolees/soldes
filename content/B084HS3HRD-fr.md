@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Configuration requise: Sleep Analyzer peut être installé sur un smartphone ou une tablette via lapp Health Mate, disponible gratuitement sur iOS (14+) et Android (8+)
-- RÉSULTATS IMMÉDIATS AU RÉVEIL - synchronisation automatique des données par Wi-Fi au saut du lit
-- UN LABORATOIRE DE SOMMEIL À DOMICILE - développé avec des médecins du sommeil et validé cliniquement
 - FRÉQUENCE CARDIAQUE DE NUIT - suivez votre cœur en continu toute la nuit
-- SUIVI AVANCÉ DU SOMMEIL - cycles de sommeil, Score de sommeil et détection des ronflements
-- DÉTECTION DE LAPNÉE DU SOMMEIL - détecte lapnée du sommeil avec une précision de grade médical et détermine sa gravité. Wi-Fi: 2.4 GHz b/g/n WEP/WPA/WPA2
 - AGENDA DU SOMMEIL PARTAGEABLE - Obtenez des conseils médicaux sur votre sommeil en partageant avec votre médecin un agenda du sommeil généré automatiquement
+- UN LABORATOIRE DE SOMMEIL À DOMICILE - développé avec des médecins du sommeil et validé cliniquement
+- Configuration requise: Sleep Analyzer peut être installé sur un smartphone ou une tablette via lapp Health Mate, disponible gratuitement sur iOS (14+) et Android (8+)
+- SUIVI AVANCÉ DU SOMMEIL - cycles de sommeil, Score de sommeil et détection des ronflements
+- RÉSULTATS IMMÉDIATS AU RÉVEIL - synchronisation automatique des données par Wi-Fi au saut du lit
+- DÉTECTION DE LAPNÉE DU SOMMEIL - détecte lapnée du sommeil avec une précision de grade médical et détermine sa gravité. Wi-Fi: 2.4 GHz b/g/n WEP/WPA/WPA2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
