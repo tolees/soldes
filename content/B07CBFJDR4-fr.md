@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La source lumineuse nest pas remplaçable, la lampe doit être remplacée.
-- peut être combiné avec tous les accessoires de la série Plug&Shine
-- Ampoules LED (installées en permanence) incluses
-- Ce produit est un produit environnant. Les produits environnants sont des luminaires qui peuvent être démontés pour une inspection séparée de la ou des sources lumineuses incluses
-- lumière dirigée
 - Lampe de plante 24V avec piquet
 - Température de couleur : 3 000 K - blanc chaud
+- peut être combiné avec tous les accessoires de la série Plug&Shine
+- lumière dirigée
+- Ce produit est un produit environnant. Les produits environnants sont des luminaires qui peuvent être démontés pour une inspection séparée de la ou des sources lumineuses incluses
+- Ampoules LED (installées en permanence) incluses
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
