@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HABA - Mes Premiers Jeux – Une cuillère pour Martin - Jeux de mémoire et d adresse - 2 Ans et Plus - Réf 301076'
-date: 2022-08-14 11:39:32
+date: 2022-08-19 12:33:30
 image: 'https://m.media-amazon.com/images/I/51jE4VKbhsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en:- Chine
+- avec jeu de mémoire, jeu d’adresse et jeu stimulant le langage
 - Dimensions de lemballage : 23.5 x 15.5 x 7 cm
 - avec un ourson adorable qui attend qu’on lui donne à manger
-- avec jeu de mémoire, jeu d’adresse et jeu stimulant le langage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
