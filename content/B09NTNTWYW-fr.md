@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design en métal
-- Du 1er mars au 15 avril 2022 inclus, Samsung vous rembourse jusqu’à 30€ pour l’achat d’une Galaxy Tab A8 (tous modèles, tous coloris). Voir conditions sur samsung.com/fr/offer.
-- Ecran et son immersifs
-- Interface simple et intuitive
 - Autonomie longue durée
+- Ecran et son immersifs
+- Du 1er mars au 15 avril 2022 inclus, Samsung vous rembourse jusqu’à 30€ pour l’achat d’une Galaxy Tab A8 (tous modèles, tous coloris). Voir conditions sur samsung.com/fr/offer.
+- Design en métal
+- Interface simple et intuitive
 
 [🛒 Achète-le!!]({{< param buyurl >}})
