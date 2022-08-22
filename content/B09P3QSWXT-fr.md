@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants.
 - Le bébé et le papa portent des vêtements assortis.
 - À partir de 3 ans.
-- La famille Chèvre est composée de 4 personnages : la maman, le papa, la fille et le bébé.
 - Ils sont tous articulés et habillés avec soin. Leurs vêtements peuvent être enlevés et remis à loisir.
+- La famille Chèvre est composée de 4 personnages : la maman, le papa, la fille et le bébé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

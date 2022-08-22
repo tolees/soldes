@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- la couleur Platinum Silver de votre ordinateur portable est à la fois classique et contemporaine avec un extérieur époustouflant et un intérieur subtil pour un contraste saisissant.
-- Processeur Intel Evo i5-1135G7 (8Mo Cache), 8Go LPDDR4x-SDRAM, 512Go SSD, 33.8 cm (13.3") Full HD 1920 x 1080 WVA Touch, Intel Iris Xe Graphics, WLAN, Webcam, Windows 10 Home 64-bit
-- Écran 33.8 cm (13.3") Full HD 1920 x 1080 WVA, clavier rétroéclairé LED, lecteur de carte SD, lecteur dempreintes digitales
 - Avec le protocole WiFi 6, améliorez comme jamais les vitesses de transfert, la portée et la fiabilité Wi-Fi de votre Inspiron, dans les lieux fréquentés et les zones enregistrant un fort trafic.
+- la couleur Platinum Silver de votre ordinateur portable est à la fois classique et contemporaine avec un extérieur époustouflant et un intérieur subtil pour un contraste saisissant.
+- Écran 33.8 cm (13.3") Full HD 1920 x 1080 WVA, clavier rétroéclairé LED, lecteur de carte SD, lecteur dempreintes digitales
+- Processeur Intel Evo i5-1135G7 (8Mo Cache), 8Go LPDDR4x-SDRAM, 512Go SSD, 33.8 cm (13.3") Full HD 1920 x 1080 WVA Touch, Intel Iris Xe Graphics, WLAN, Webcam, Windows 10 Home 64-bit
 - Connectivité: 1 sortie HDMI 2.0, 1 prise USB 3.2 Gen 1 Type-A, 1 Thunderbolt 4.0 (PowerDelivery &DisplayPort), 1 prise jack combinée casque/microphone de 3,5 mm, 1 port d’alimentation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

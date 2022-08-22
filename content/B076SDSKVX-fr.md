@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Système dexploitation requis Windows 7 ou supérieur Mac OS 10.9 ou supérieur
+- Appareil qui relie les objectifs AF Samyang avec lordinateur pour la mise à jour du firmware ou mise au point et louverture
 - Consommation électrique: 500mA (max)
 - La station de recharge est uniquement compatible avec les objectifs AF Samyang
-- Appareil qui relie les objectifs AF Samyang avec lordinateur pour la mise à jour du firmware ou mise au point et louverture
-- Système dexploitation requis Windows 7 ou supérieur Mac OS 10.9 ou supérieur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

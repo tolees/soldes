@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Explorez la ville de Planimalis - Découvrez les gens et les créatures qui peuplent la ville, et créez des amitiés pour bénéficier de réductions dans les boutiques.
 - Partez au combat aux côtés de vos loyaux compagnons et essayez de sauver Planimalis de la diabolique SlimeCo.
-- Des compagnons Planimaux à collectionner ! Certains slimes font muter vos plants en Planimaux ! Confectionnez des dizaines dobjets pour votre ferme et votre maison
 - Trois saisons uniques : saison sèche, humide ou sombre - Létrange météo et les saisons changent ce que vous pouvez faire pousser.
+- Des compagnons Planimaux à collectionner ! Certains slimes font muter vos plants en Planimaux ! Confectionnez des dizaines dobjets pour votre ferme et votre maison
 - Travaillez à la ferme avec des mutants ! Utilisez des slimes magiques pour faire muter les plants de votre ferme.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
