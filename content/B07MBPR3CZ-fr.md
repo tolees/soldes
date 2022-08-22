@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un joli mobile de voyage 4 en 1 avec bras rotatif pour aider Bébé à s’endormir !
-- Capteur sonore : des berceuses se déclenchent automatiquement aux pleurs de Bébé.
 - Version française
-- Minuterie de 10, 20 ou 30 minutes
 - Le mobile tourne doucement en musique tandis que les variations de lumière apaisent Bébé.
 - Le globe lumineux est détachable et peut s’utiliser comme projecteur ou simple veilleuse.
+- Un joli mobile de voyage 4 en 1 avec bras rotatif pour aider Bébé à s’endormir !
+- Capteur sonore : des berceuses se déclenchent automatiquement aux pleurs de Bébé.
+- Minuterie de 10, 20 ou 30 minutes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

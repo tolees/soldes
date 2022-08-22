@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivité : 2 Ports de type A USB 3.2 Gen 1 (3.1 Gen 1), 1 Port de type C USB 3.2 Gen 2 (3.1 Gen 2), HDMI, Combo casque / microphone Port. Garantie 2 ans constructeur
-- Avec le protocole WiFi 6, améliorez comme jamais les vitesses de transfert, la portée et la fiabilité Wi-Fi de votre Inspiron, dans les lieux fréquentés et les zones enregistrant un fort trafic.
-- La couleur Platinum Silver de votre ordinateur portable est à la fois classique et contemporaine avec un extérieur époustouflant et un intérieur subtil pour un contraste saisissant.
 - Lecteur d’empreintes digitales.Écran antireflet Full HD 15,6" 1920 x 1080 pixels. Clavier Rétro-Eclairé.
+- Avec le protocole WiFi 6, améliorez comme jamais les vitesses de transfert, la portée et la fiabilité Wi-Fi de votre Inspiron, dans les lieux fréquentés et les zones enregistrant un fort trafic.
+- Connectivité : 2 Ports de type A USB 3.2 Gen 1 (3.1 Gen 1), 1 Port de type C USB 3.2 Gen 2 (3.1 Gen 2), HDMI, Combo casque / microphone Port. Garantie 2 ans constructeur
+- La couleur Platinum Silver de votre ordinateur portable est à la fois classique et contemporaine avec un extérieur époustouflant et un intérieur subtil pour un contraste saisissant.
 - Processeur Intel Core i7-10750H (12Mo Cache, 2.6GHz), 8Go DDR4-SDRAM, 512Go SSD, 15.6" Full HD 1920 x 1080 WVA, Intel UHD Graphics, NVIDIA GeForce GTX 1650 Ti, WLAN, Webcam, Windows 10 Home 64-bit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

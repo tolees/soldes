@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Laventure enchanteresse dEirudy, qui déterminera le destin des divinités et des humains, offre un scénario passionnant et captivant, que les joueurs ne voudront pas lâcher.
 - Des batailles tactiques au tour par tour avec un système unique dinvocations de poupées et un menu de combat évolutif
 - Witch Spring 3 vous emmène dans une forêt brumeuse, où la sorcière Eirudy vit isolée du reste du monde, accompagnée seulement de ses marionnettes enchantées
-- Le jeu est un titre autonome dans lunivers de Witch Spring, avec doublage japonais et textes en anglais, il est doté de nouvelles illustrations, de nouveaux sons dans un magnifique style artistique
 - Une histoire intrigante peuplée de personnages adorables et colorés où vous devrez choisir entre la voie de lombre et celle de la lumière
+- Le jeu est un titre autonome dans lunivers de Witch Spring, avec doublage japonais et textes en anglais, il est doté de nouvelles illustrations, de nouveaux sons dans un magnifique style artistique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

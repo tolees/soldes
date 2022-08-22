@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les kits de loisirs créatifs pour adulte LEGO Art offrent une expérience de construction gratifiante et constituent de superbes cadeaux pour les adolescents et les adultes
-- Ce set de 4 249 pièces inclut 9 plaques de support pour décoration murale, une tuile avec le logo Harry Potter, un cadre en briques de construction et un élément de suspension
-- Combinez les 4 sets d’activité manuelle pour créer une décoration Harry Potter ultime avec tous les blasons de Poudlard que vous pourrez accrocher au mur ou exposer sur une étagère
 - Construisez et exposez l’un des 4 blasons détaillés de Poudlard possibles (un à la fois) pour créer une décoration pour la maison Harry Potter en mosaïque impressionnante
+- Les kits de loisirs créatifs pour adulte LEGO Art offrent une expérience de construction gratifiante et constituent de superbes cadeaux pour les adolescents et les adultes
+- Combinez les 4 sets d’activité manuelle pour créer une décoration Harry Potter ultime avec tous les blasons de Poudlard que vous pourrez accrocher au mur ou exposer sur une étagère
 - Grâce à la bande-son incluse, vous pourrez en apprendre plus sur les maisons (Gryffondor, Serpentard, Poufsouffle et Serdaigle) et sur Poudlard en général
 - 1 image, 4 options, les modèles indiqués ne peuvent pas être construits simultanément ; cette œuvre d’art LEGO mesure plus de 40 cm carrés
+- Ce set de 4 249 pièces inclut 9 plaques de support pour décoration murale, une tuile avec le logo Harry Potter, un cadre en briques de construction et un élément de suspension
 
 [🛒 Achète-le!!]({{< param buyurl >}})

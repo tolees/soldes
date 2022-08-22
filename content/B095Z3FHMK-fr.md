@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Colors Quest : un nouveau mode de jeu créatif, dans lequel vous passez un peu de temps à peindre chaque jour pour progresser et passer au niveau supérieur.
-- Stylo de détection de pression inclus : sensible à la pression, une sensation de peinture naturelle et une épaisseur de trait, une opacité ou les deux entièrement personnalisables.
 - Peignez avec un ami : les joueurs peuvent utiliser une toile partagée et collaborer sur une peinture dans le confort de leur foyer via Nintendo Online. Mge minimum - 3+
+- Stylo de détection de pression inclus : sensible à la pression, une sensation de peinture naturelle et une épaisseur de trait, une opacité ou les deux entièrement personnalisables.
 - Colors Live propose également une intégration avec la très populaire galerie de couleurs, suivez vos amis et artistes talentueux et partagez vos créations avec le monde.
 - Basé sur des techniques de peinture modernes développées à lorigine pour les tablettes de dessin professionnelles, Colors Live est conçu pour la Nintendo Switch et sadresse à tous les artistes
 

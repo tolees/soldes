@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lexar RAM DDR4 prend en charge toute la gamme RVB - personnalisez vos couleurs et vos effets avec une barre lumineuse RVB vibrante;
 - Lexar DRAM dispose dun dissipateur de chaleur en aluminium et dune conception daile pour une dissipation optimale de la chaleur. Personnalisez votre RGB avec Lexar RGB Sync pour correspondre parfaitement à votre construction;
 - Lexar ARES RGB RAM DDR4 offre des performances doverclocking DDR4 ultra-rapides pour améliorer votre expérience de jeu;
-- Lexar RAM DDR4 prend en charge toute la gamme RVB - personnalisez vos couleurs et vos effets avec une barre lumineuse RVB vibrante;
 - Lexar DDR4 est conçu pour la dernière plate-forme Intel XMP 2.0 et AMD Ryzen;
 
 [🛒 Achète-le!!]({{< param buyurl >}})

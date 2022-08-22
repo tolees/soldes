@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une aventure classique non linéaire, explorez un monde tentaculaire qui se dévoile progressivement, à la manière des Metroidvania d’époque, à vous de gagner de nouvelles capacités et de nouveaux équipements permettant d’aller toujours plus loin
+- Rencontres mortelles, contrer les boss monstreux ainsi que leurs sbires redoutables lors de quêtes principales périlleuses et effectuez de petits boulots optionnels pour les habitants de Lumen
 - Profondeur tactique, débloquez des capacités magiques et des attaques toujours plus puissantes en combinant d’immenses pouvoirs pour éliminer les ennemis en quelques secondes
 - Un immense royaume à explorer, aventurez-vous dans les forêts, les mers, les grottes et les temples anciens tout en cherchant à découvrir les éléments magiques nécessaires à la sauvegarde du monde avant lanéantissement total
 - Superbe pixelart, oubliez lart moderne, Aggelos propose des conceptions et des animations de personnages et décors remarquables en restant fièrement fidèle au style 16 bits, ainsi q’une bande-son dinspiration rétro qui inonde de vie le Royaume de Lumen
-- Rencontres mortelles, contrer les boss monstreux ainsi que leurs sbires redoutables lors de quêtes principales périlleuses et effectuez de petits boulots optionnels pour les habitants de Lumen
+- Une aventure classique non linéaire, explorez un monde tentaculaire qui se dévoile progressivement, à la manière des Metroidvania d’époque, à vous de gagner de nouvelles capacités et de nouveaux équipements permettant d’aller toujours plus loin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
