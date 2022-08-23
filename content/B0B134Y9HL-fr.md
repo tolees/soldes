@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉDITION CUIVRE EXCLUSIVE AMAZON : Une plaque de grill avec résistance de chauffe intégrée pour des résultats de cuisson grillés et juteux avec de magnifiques marques de saisie, interchangeable avec une plancha pour cuisiner les aliments délicats. Pour 4 à 6 personnes
 - 7 MODES DE CUISSON PERSONNALISABLES : Griller, cuire à la plancha, frire sans huile, rôtir, cuire au four, réchauffer, déshydrater. Et pour encore plus de flexibilité dans vos recettes, cuisinez avec le couvercle fermé ou ouvert.
-- FRITURE SANS HUILE : jusqu’à 75 % de matières grasses en moins que les méthodes de friture traditionnelles* (* testé et comparé aux frites coupées à la main avec cuisson en friture traditionnelle). PAS BESOIN DE RETOURNER LES ALIMENTS : Une cuisson rapide et uniforme et des aliments parfaitement saisis
+- ÉDITION CUIVRE EXCLUSIVE AMAZON : Une plaque de grill avec résistance de chauffe intégrée pour des résultats de cuisson grillés et juteux avec de magnifiques marques de saisie, interchangeable avec une plancha pour cuisiner les aliments délicats. Pour 4 à 6 personnes
 - COMPREND : Une plaque de grill avec résistance de chauffe intégrée, une plancha, un panier Crousti de 3,8L et un livret de recettes créé par un Chef. Accessoires au revêtement antiadhésif, lavables au lave-vaisselle.
 - SYSTÈME SMART COOK : De bleu à bien cuit, sélectionnez votre résultat de cuisson à coeur préféré : la thermosonde numérique vous avertit quand vos aliments sont cuits
+- FRITURE SANS HUILE : jusqu’à 75 % de matières grasses en moins que les méthodes de friture traditionnelles* (* testé et comparé aux frites coupées à la main avec cuisson en friture traditionnelle). PAS BESOIN DE RETOURNER LES ALIMENTS : Une cuisson rapide et uniforme et des aliments parfaitement saisis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
