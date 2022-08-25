@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçues pour éviter la contamination et transfert de bactéries entre les différents aliments
 - Facile à nettoyer : les planches passent au lave-vaisselle surfaces qui nabîment pas les lames de vos couteaux
+- Conçues pour éviter la contamination et transfert de bactéries entre les différents aliments
 - Codage couleur par aliment, système dintercalaires pour une sélection facile
-- Matériau polypropylène qui nabime pas les lames de vos couteaux
 - 4 planches à découper avec base antidérapante et leur casier pour de rangement vertical
+- Matériau polypropylène qui nabime pas les lames de vos couteaux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
