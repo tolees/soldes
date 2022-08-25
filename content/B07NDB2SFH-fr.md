@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Jeu de Construction  Figurine du Maître  Collection  avec Sabre Laser  et Présentoir  Réplique du Film L Attaque des Clones'
-date: 2022-08-22 15:23:49
+date: 2022-08-25 10:04:47
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '17.43'
-average: '91.4386354775829'
+average: '91.4534824902724'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend des détails complexes, une tête et des sourcils à orienter pour plus ou moins de fantaisie, des doigts et des orteils mobiles et larme préférée de Yoda, le sabre laser vert
-- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
 - Le modèle à construire Star Wars du puissant maître Jedi Yoda a fière allure sur un présentoir à la maison ou au bureau, impressionnant tout fan de Star Wars !
-- Comprend également une plaque dinformation sur le maître Jedi et un support pour la minifigurine Yoda et le sabre laser inclus, pour impressionner tous les fans
-- Cet objet de collection Star Wars : Attack of the Clones est un excellent cadeau danniversaire, de Noël ou simplement un cadeau Star Wars pour toute occasion
 - Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
+- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
+- Cet objet de collection Star Wars : Attack of the Clones est un excellent cadeau danniversaire, de Noël ou simplement un cadeau Star Wars pour toute occasion
+- Comprend également une plaque dinformation sur le maître Jedi et un support pour la minifigurine Yoda et le sabre laser inclus, pour impressionner tous les fans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
