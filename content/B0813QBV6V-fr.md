@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combinez-les avec la Grande salle de Poudlard 75954, le saule fouisseur de Poudlard 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard !
-- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
-- Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
-- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
 - Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
+- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
+- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
+- Combinez-les avec la Grande salle de Poudlard 75954, le saule fouisseur de Poudlard 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard !
+- Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
