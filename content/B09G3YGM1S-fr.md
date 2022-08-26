@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce pack inclut un Echo Dot (4e génération) et la Philips Hue White ampoule connectée (E27) : tout ce dont vous avez besoin pour commencer votre maison connectée.
-- Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et bien plus. Lancez la lecture de musiques, livres audio et podcasts dans toute votre maison grâce au Multiroom pour votre musique.
 - Restez en contact avec vos proches : passez des appels mains-libres à presque tous vos contacts, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
 - Contrôlez votre maison connectée : utilisez votre voix pour allumer les lumières, régler le thermostat et verrouiller les portes avec des appareils compatibles.
-- Découvrez Echo Dot, notre enceinte connectée avec Alexa la plus populaire. Son design élégant et compact livre un son riche aux voix nettes et aux basses équilibrées.
+- Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et bien plus. Lancez la lecture de musiques, livres audio et podcasts dans toute votre maison grâce au Multiroom pour votre musique.
 - Prête à rendre service : demandez à Alexa de raconter une blague, jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes et bien plus.
-- Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
 - Prend en charge laudio HD sans perte disponible sur les services de streaming compatibles comme Amazon Music HD.
+- Découvrez Echo Dot, notre enceinte connectée avec Alexa la plus populaire. Son design élégant et compact livre un son riche aux voix nettes et aux basses équilibrées.
+- Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
+- Ce pack inclut un Echo Dot (4e génération) et la Philips Hue White ampoule connectée (E27) : tout ce dont vous avez besoin pour commencer votre maison connectée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
