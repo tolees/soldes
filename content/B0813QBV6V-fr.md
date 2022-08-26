@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Harry Potter  Hermione  Ron  Drago Malefoy  Jouet de Château'
-date: 2022-08-25 09:43:16
+date: 2022-08-26 19:48:32
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21'
 descuento: '20.00'
-average: '86.3105015673981'
+average: '86.3006103286385'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
-- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
-- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 - Combinez-les avec la Grande salle de Poudlard 75954, le saule fouisseur de Poudlard 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard !
 - Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
+- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
+- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
+- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
