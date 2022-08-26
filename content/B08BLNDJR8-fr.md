@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respirant
-- Synthétique
-- Cuir
 - Scratch
+- Respirant
+- Cuir
+- Synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

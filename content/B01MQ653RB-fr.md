@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 98% Coton, 2% Elastane
+- Taille basse
 - Fermeture: Button et zip
 - Lavage en machine, 30°C
-- Taille basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour les loisirs créatifs : masques, bracelets, colliers, déguisements, etc
-- Bobine de corde élastique plate 5 mm x 100 m en blanc.
-- Qualité et performance
 - Matériau durable, flexible et facile à couper et à nouer. Très élastique, il permet facilement à sa longueur dorigine sans se déformer.
+- Idéal pour les loisirs créatifs : masques, bracelets, colliers, déguisements, etc
+- Qualité et performance
+- Bobine de corde élastique plate 5 mm x 100 m en blanc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

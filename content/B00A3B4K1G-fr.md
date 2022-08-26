@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un cocktail à la pêche qui met l’eau à la bouche. Une explosion de couleur !
-- Dépôt homogène
 - Glissage facile
+- Dépôt homogène
+- Un cocktail à la pêche qui met l’eau à la bouche. Une explosion de couleur !
 - Couche parfaite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

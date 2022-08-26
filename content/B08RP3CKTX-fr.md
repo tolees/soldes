@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détection de Voix Automatique
 - Bascule auto des écouteurs galaxy buds pro, détection
 - Contrôle actif intelligent du bruit, bascule aisée entre écouteurs antibruit
+- Détection de Voix Automatique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

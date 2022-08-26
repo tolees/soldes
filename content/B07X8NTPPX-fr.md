@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col sans étiquette pour un port confortable
+- Fabriqué en tissu jersey doux pour un confort au quotidien
 - Col ras du cou et poignets côtelés pour un ajustement confortable
 - Un t-shirt classique à manches longues avec le logo emblématique de la maison sur la poitrine
-- Fabriqué en tissu jersey doux pour un confort au quotidien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

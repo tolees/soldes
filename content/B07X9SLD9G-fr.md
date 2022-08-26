@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col ras du cou et poignets côtelés pour un ajustement confortable
-- Fabriqué en tissu jersey doux pour un confort au quotidien
 - Un t-shirt classique à manches longues avec le logo emblématique de la maison sur la poitrine
+- Col ras du cou et poignets côtelés pour un ajustement confortable
 - Col sans étiquette pour un port confortable
+- Fabriqué en tissu jersey doux pour un confort au quotidien
 
 [🛒 Achète-le!!]({{< param buyurl >}})

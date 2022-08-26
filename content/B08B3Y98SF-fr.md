@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis: 0.286 kilogrammes
-- Fabriqués en France
 - Sans silicone
 - 96% d’ingrédients d’origine naturelle
+- Poids du colis: 0.286 kilogrammes
 - Pack 100% recyclable
+- Fabriqués en France
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
