@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo arrière 12 Mpx, caméra avant FaceTime HD 7 Mpx
 - Puce A14 Bionic avec Neural Engine
-- Superbe écran Liquid Retina de 10,9 pouces avec True Tone et large gamme de couleurs P3
 - Disponible en argent, gris sidéral, or rose, vert et bleu ciel
+- Superbe écran Liquid Retina de 10,9 pouces avec True Tone et large gamme de couleurs P3
+- Appareil photo arrière 12 Mpx, caméra avant FaceTime HD 7 Mpx
 - Touch ID pour l’authentification sécurisée et Apple Pay
 
 [🛒 Achète-le!!]({{< param buyurl >}})

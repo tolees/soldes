@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design pratique qui rend les verres confortables à tenir dans la main, sans condensation
-- Passe au lave-vaisselle
 - Capacité : 400 ml
 - Lot de 2 verres en verre borosilicate, verres soufflés à la main
+- Passe au lave-vaisselle
 - Les propriétés thermiques vous aident à garder vos boissons chaudes ou froides plus longtemps
+- Design pratique qui rend les verres confortables à tenir dans la main, sans condensation
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entre occulte et science-fiction : Découvrez un RPG surnaturel aux invocations époustouflantes et de sombres dangers rodant sous les lumières néon d’un Japon Cyberpunk.
-- Un désastre en approche : Incarnez Ringo, l’un des agents d’Aion, une entité ayant pour but de sauver l’humanité de l’apocalypse, et enquêtez sur une possible fin du monde.
 - Un pouvoir de grande envergure : Recrutez des démons et débloquez des combinaisons de fusions pour en créer de nouveaux encore plus redoutables. Utilisez leurs capacités meurtrières afin de défaire vos ennemis dans d’incroyables séquences d’attaques.
+- Un désastre en approche : Incarnez Ringo, l’un des agents d’Aion, une entité ayant pour but de sauver l’humanité de l’apocalypse, et enquêtez sur une possible fin du monde.
+- Entre occulte et science-fiction : Découvrez un RPG surnaturel aux invocations époustouflantes et de sombres dangers rodant sous les lumières néon d’un Japon Cyberpunk.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
