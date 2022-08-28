@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type d’ECC=Non ECC, Format=UDIMM, Nombre de broches=288 broches, vitesse du PC=PC5-38400, tension=1,1 V
 - Maîtrisez des vitesses extrêmes de 4800MHz, 1,5 plus rapides que la DDR4
-- Jouez à des fréquences d’images plus élevées et exécutez des logiciels exigeants avec près de 2 fois la bande passante de la DDR4
 - Optimisez l’efficacité énergétique grâce à la gestion de l’alimentation embarquée de la DDR5
 - Dynamisez votre système avec les performances adaptées aux processeurs multi-coeurs next-gen
+- Jouez à des fréquences d’images plus élevées et exécutez des logiciels exigeants avec près de 2 fois la bande passante de la DDR4
+- Type d’ECC=Non ECC, Format=UDIMM, Nombre de broches=288 broches, vitesse du PC=PC5-38400, tension=1,1 V
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

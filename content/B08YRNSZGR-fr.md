@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Enregistrez les signaux d’appareils photo reflex, d’ordinateurs, de tablettes, etc.
+- Carte d’acquisition PCIe avec 4 entrées HDMI
+- Diffusez en direct ou enregistrez en qualité 1080p60 ou 4K30
 - Ajoutez quatre caméras dans Zoom, Slack et Microsoft Teams
 - Contrôlez les flux vidéo séparément dans OBS, vMix et d’autres logiciels
-- Diffusez en direct ou enregistrez en qualité 1080p60 ou 4K30
-- Enregistrez les signaux d’appareils photo reflex, d’ordinateurs, de tablettes, etc.
 - Configurez des modes d’incrustation d’image avec Elgato Multiview
-- Carte d’acquisition PCIe avec 4 entrées HDMI
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
