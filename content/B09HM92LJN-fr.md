@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son poids et son centre de gravité bas vous assurent une parfaire stabilité pendant les phases de jeu.
-- Dimensions: 35*12*24cm - poids: 3Kg; cable de 1.8 mêtre; connecteur USB
-- Retrouvez les sensations authentiques des sticks à 6 boutons des bornes des salles d’arcade !
-- L’Astro City mini arcade stick a été pensé pour tirer le meilleur des jeux de la console sega astro city mini, cet arcade stick vous garantit une finition de très haute qualité !
 - Réalisé à partir de composants sanwa denshi, l’un des plus célèbres fabricants japonais de joystick et boutons pour les bornes d’arcade
+- Retrouvez les sensations authentiques des sticks à 6 boutons des bornes des salles d’arcade !
+- Dimensions: 35*12*24cm - poids: 3Kg; cable de 1.8 mêtre; connecteur USB
+- Son poids et son centre de gravité bas vous assurent une parfaire stabilité pendant les phases de jeu.
+- L’Astro City mini arcade stick a été pensé pour tirer le meilleur des jeux de la console sega astro city mini, cet arcade stick vous garantit une finition de très haute qualité !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

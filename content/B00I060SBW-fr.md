@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logos Brodés
-- Élastique avec zip au bas du pantalon
-- Veste et pantalon avec Poches latérales
 - 100% Polyester
+- Veste et pantalon avec Poches latérales
+- Élastique avec zip au bas du pantalon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
