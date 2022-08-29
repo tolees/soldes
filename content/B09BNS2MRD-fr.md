@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de Buzz l’Éclair  Jouet de l espace avec Robot et Vaisseau Spatial  pour Enfants de 2 Ans'
-date: 2022-08-28 00:49:29
+date: 2022-08-29 15:01:44
 image: 'https://m.media-amazon.com/images/I/51Nb0o+UngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNS2MRD/?tag=tolees0d-21'
 descuento: '33.31'
-average: '20.157'
+average: '20.1495238095238'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
