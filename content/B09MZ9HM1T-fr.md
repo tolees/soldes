@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A partir de 2 ans - Fabrication française
-- Lumineuse, vos petits auront aussi la possibilité davoir un peu plus dintimité grâce aux 2 volets coulissants ! Avec sa structure stable et traitée Anti-UV, votre maison est faite pour durer dans le temps
-- Résistante et design, la maison Pretty offre la possibilité à vos enfants de simaginer de nombreuses histoires
-- Grâce à la maisonnette Pretty vos enfants pourront passer des journées entières avec leurs petits copains
 - Pour jouer à cache-cache, ou pour faire comme papa et maman : ils trouveront nimporte quel prétexte pour venir y jouer ! La cabane comprend notamment 1 portillon, et 2 fenêtres avec persiennes
+- Lumineuse, vos petits auront aussi la possibilité davoir un peu plus dintimité grâce aux 2 volets coulissants ! Avec sa structure stable et traitée Anti-UV, votre maison est faite pour durer dans le temps
+- Grâce à la maisonnette Pretty vos enfants pourront passer des journées entières avec leurs petits copains
+- Résistante et design, la maison Pretty offre la possibilité à vos enfants de simaginer de nombreuses histoires
 
 [🛒 Achète-le!!]({{< param buyurl >}})

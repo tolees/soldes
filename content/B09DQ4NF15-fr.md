@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Switchs mécaniques de souris Razer de 2e génération Pour une durabilité et une cohérence des clics améliorées: Grâce aux nouveaux points de contact plaqués or, ces switchs sont moins susceptibles de se dégrader et ont une durée de vie plus longue (jusqu’à 60 millions de clics), ce qui vous permet de profiter d’une exécution nette et tout aussi constante.
 - Capteur optique avancé 5G 14 K DPI Razer Pour une précision de pointe: Profitez d’une visée réactive et précise au pixel près grâce à un capteur amélioré qui suit parfaitement vos mouvements, sans aucune dérive.
-- Technologie Razer HyperSpeed Wireless ultra-rapide Pour une performance sans fil hors du commun: Grâce à la même technologie Razer Hyperspeed Wireless utilisée dans nos souris gaming haut de gamme, libérez votre véritable potentiel avec une connexion sans fil à latence ultra-faible.
 - Une conception ergonomique primée Pour un maximum de confort: Reconnue par plus de 13 millions de fans dans le monde entier, la forme emblématique de la DeathAdder a procuré des victoires à d’innombrables pros, plus que n’importe quelle autre souris du marché, notamment au triple champion du monde de League of Legends, Faker.
+- Technologie Razer HyperSpeed Wireless ultra-rapide Pour une performance sans fil hors du commun: Grâce à la même technologie Razer Hyperspeed Wireless utilisée dans nos souris gaming haut de gamme, libérez votre véritable potentiel avec une connexion sans fil à latence ultra-faible.
+- Switchs mécaniques de souris Razer de 2e génération Pour une durabilité et une cohérence des clics améliorées: Grâce aux nouveaux points de contact plaqués or, ces switchs sont moins susceptibles de se dégrader et ont une durée de vie plus longue (jusqu’à 60 millions de clics), ce qui vous permet de profiter d’une exécution nette et tout aussi constante.
 - 240 heures d’autonomie de la batterie (2,4 GHz) Pour des performances de longue durée: Offrant jusqu’à 240* heures de jeu sans interruption et une faible latence grâce à la technologie Razer HyperSpeed Wireless, et jusqu’à 580 heures d’autonomie via Bluetooth, cette souris peut durer des lustres avant que sa batterie ne vous lâche. *mesuré avec une pile alcaline AA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

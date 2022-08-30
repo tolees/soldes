@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jean Midge Saddle est conçu dans un ajustement droit et montre une construction de 5 poches.
-- Cette coupe droite est très esthétique. Un jeu darticle arrière réglable et un travail de point lourd ajoutent des détails au jean.
-- Mid waist
 - Ceinture normale
 - Coupe droite des cuisses à lourlet
+- Mid waist
+- Cette coupe droite est très esthétique. Un jeu darticle arrière réglable et un travail de point lourd ajoutent des détails au jean.
+- Jean Midge Saddle est conçu dans un ajustement droit et montre une construction de 5 poches.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
