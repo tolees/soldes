@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Image par image
 - Rapport daspect : 16:9. Luminosité (typique) : 270cd/m2
-- Ultra haute définition sublimée
 - Images et textes en UHD ; Poids réglé sans support : 5,5 kg
+- Ultra haute définition sublimée
+- Image par image
 
 [🛒 Achète-le!!]({{< param buyurl >}})

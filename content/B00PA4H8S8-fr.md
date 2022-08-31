@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protective Case Included
-- Model: Polaroid Pld 1015/s D28/Y2 SHINY BLACK 53
-- Brand: Polaroid
 - Colour: D28/Y2 SHINY BLACK
 - Calibre: 53 Millimeters
+- Model: Polaroid Pld 1015/s D28/Y2 SHINY BLACK 53
+- Protective Case Included
+- Brand: Polaroid
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

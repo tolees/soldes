@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cet ensemble comprend également un filet, une douche cascade, une pieuvre arroseuse, des canons à eau, un stand de glaces et une grotte avec un aquarium
-- Changez la tête dOlivia pour une version portant des lunettes lorsquelle se prépare à nager, faites tourner le modèle de pieuvre et ouvrez les casiers pour ranger les accessoires
-- Les enfants vont vivre des aventures incroyables avec ce jouet de piscine LEGO Friends, cest un ensemble comprenant une piscine, 2 toboggans aquatiques, une douche et un vestiaire
 - Comprend 2 mini-poupées LEGO Friends Olivia et Nandi et une micro-poupée Santiago, plus de nombreux jouets, un gilet de sauvetage et de la crème solaire, et Olivia peut changer de look en portant des lunettes
 - Les enfants peuvent donner une douche à leurs mini-poupées dans le vestiaire, ils peuvent aussi aider Santiago à monter sur le filet, et dans la tour, ils peuvent mouiller Nandi avec le canon à eau, et acheter un esquimau au stand
+- Les enfants vont vivre des aventures incroyables avec ce jouet de piscine LEGO Friends, cest un ensemble comprenant une piscine, 2 toboggans aquatiques, une douche et un vestiaire
+- Changez la tête dOlivia pour une version portant des lunettes lorsquelle se prépare à nager, faites tourner le modèle de pieuvre et ouvrez les casiers pour ranger les accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
