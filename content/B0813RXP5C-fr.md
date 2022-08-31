@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’héliporteur est équipé d’hélices, de canons à sphères et d’un cockpit pouvant accueillir 3 figurines. Inclut les figurines de Captain Marvel, Thor, Black Widow, War Machine, Nick Fury et un agent de lA.I.M. ainsi que M.O.D.O.K.
-- Les fans de Marvel Avengers peuvent recréer des scènes passionnantes ou inventer leurs propres histoires. Aux côtés de leurs super-héros préférés, ils embarquent à bord de l’incroyable héliporteur pour affronter M.O.D.O.K, le super-vilain.
-- Lhéliporteur des Avengers
 - Nombre de pièces: 1244
 - Âge recommandé par le fabricant: 9+
+- Les fans de Marvel Avengers peuvent recréer des scènes passionnantes ou inventer leurs propres histoires. Aux côtés de leurs super-héros préférés, ils embarquent à bord de l’incroyable héliporteur pour affronter M.O.D.O.K, le super-vilain.
+- L’héliporteur est équipé d’hélices, de canons à sphères et d’un cockpit pouvant accueillir 3 figurines. Inclut les figurines de Captain Marvel, Thor, Black Widow, War Machine, Nick Fury et un agent de lA.I.M. ainsi que M.O.D.O.K.
+- Lhéliporteur des Avengers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
