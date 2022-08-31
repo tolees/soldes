@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Véritable suite, ce deuxième épisode réussit à garder le feeling de son prédécesseur tout en y ajoutant de nombreuses subtilités !
-- Conçu pour le multijoueur, Windjammers 2 vous permet de jouer en local, mais aussi en ligne avec la présence du "netcode rollback", rendant le jeu passionnant à plusieurs !
 - Avec des graphismes incroyables, de nouveaux mouvements fous, des mécanismes de jeu et de nouveaux personnages et étapes impressionnants, Windjammers 2 est la suite dont vous rêviez.
-- La légende Windjammers est de retour, plus de 25 ans après le succès planétaire du premier épisode, dans un tout nouveau jeu signé Dotemu !
+- Véritable suite, ce deuxième épisode réussit à garder le feeling de son prédécesseur tout en y ajoutant de nombreuses subtilités !
 - Plus addictif que jamais, Windjammers 2 offre larcade ultime une expérience transcendée par une production de grande qualité.
+- Conçu pour le multijoueur, Windjammers 2 vous permet de jouer en local, mais aussi en ligne avec la présence du "netcode rollback", rendant le jeu passionnant à plusieurs !
+- La légende Windjammers est de retour, plus de 25 ans après le succès planétaire du premier épisode, dans un tout nouveau jeu signé Dotemu !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

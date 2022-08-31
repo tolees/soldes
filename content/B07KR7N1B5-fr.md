@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: lacet
+- Doublure: textile
+- Largeur de la chaussure: moyen
 - Dessus: cuir Souple
 - Type de talons: plat
-- Largeur de la chaussure: moyen
+- Fermeture: lacet
 - Hauteur de talons: 2 centimètres
-- Doublure: textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

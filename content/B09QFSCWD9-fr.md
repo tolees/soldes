@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce kit de modélisme de voiture LEGO pour adultes comprend également une plaque de présentation décorée et un numéro de série unique pour débloquer des récompenses et du contenu en ligne
-- Les amateurs de voitures peuvent recréer tous les détails de la voiture de sport ultime avec ce kit de construction de modèles réduits de voitures LEGO Technic Ferrari Daytona SP3 de collection
 - La maquette de voiture de course LEGO possède de nombreuses caractéristiques authentiques, telles que : des portes papillon qui souvrent, un toit amovible et des amortisseurs
-- Conçu en collaboration avec Ferrari et comportant de nombreux détails authentiques : direction, moteur V12 et boîte de vitesses séquentielle à 8 rapports avec changement de vitesse à palettes
 - Le 4e ajout à la série LEGO Technic Ultimate Car Concept : une gamme de modèles inspirés par certaines des voitures les plus luxueuses du monde
+- Les amateurs de voitures peuvent recréer tous les détails de la voiture de sport ultime avec ce kit de construction de modèles réduits de voitures LEGO Technic Ferrari Daytona SP3 de collection
+- Conçu en collaboration avec Ferrari et comportant de nombreux détails authentiques : direction, moteur V12 et boîte de vitesses séquentielle à 8 rapports avec changement de vitesse à palettes
+- Ce kit de modélisme de voiture LEGO pour adultes comprend également une plaque de présentation décorée et un numéro de série unique pour débloquer des récompenses et du contenu en ligne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

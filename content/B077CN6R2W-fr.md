@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Température de fonctionnement: -25-40 °C
-- Fiable
-- Température ambiante pour le stockage: -40-80 °C
-- Qualité
 - Humidité relative: 95 % à 55 °C
+- Fiable
+- Température de fonctionnement: -25-40 °C
+- Qualité
+- Température ambiante pour le stockage: -40-80 °C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

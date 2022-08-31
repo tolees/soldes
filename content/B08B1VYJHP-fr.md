@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage de larticle: 8.4 L x 26.0 H x 17.2 W (centimeters)
-- 100 minutes d’autonomie. Charge rapide : 1 minute de temps de charge pour 3 minutes dautonomie.
-- Lindicateur de charge LED sallume, vous signalant que votre batterie est pleine ou faible.
 - La lame de coupe entièrement en métal taillée au diamant
-- Voltage: 5.0
+- 100 minutes d’autonomie. Charge rapide : 1 minute de temps de charge pour 3 minutes dautonomie.
 - Le jeu de lames de précision entièrement en métal Diamond-ground (fabriquées en Allemagne) vous offre une performance de coupe optimale
+- Voltage: 5.0
+- Dimensions de lemballage de larticle: 8.4 L x 26.0 H x 17.2 W (centimeters)
 - Le Wahl trendcut a été développé comme un best-seller dans le domaine de lépilation professionnelle et est idéal pour les coupes de cheveux et de barbe grâce à sa lame de 40 mm de large.
+- Lindicateur de charge LED sallume, vous signalant que votre batterie est pleine ou faible.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feeric Christmas - Sapin de Noël artificiel Vert qualité Premium H 150 cm
 - Ce sapin artificiel de qualité premium se compose de 24 branches et 366 brins, il est livré avec un pied en métal - Dimensions : Envergure 100 cm et Hauteur du sapin 150 cm -Matière : Branches en PVC et tiges en métal -Ouverture automatique des branches -Usage intérieur uniquement -Pratique, il se range facilement pour être réutilisé chaque année.
+- Feeric Christmas - Sapin de Noël artificiel Vert qualité Premium H 150 cm
 - Modèle : Vert
 
 [🛒 Achète-le!!]({{< param buyurl >}})
