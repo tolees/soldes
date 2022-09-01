@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent activer la fonction de pont qui s’effondre, utiliser le tout-terrain ou profiter de leur temps libre sur le site du camp
-- Accessoires LEGO inclus : œuf de serpent, attrape-serpents, 2 caisses, jumelles, talkie-walkie, appareil photo, os, bouteille, saucisse et brosse à cheveux
 - Des instructions PLUS faisant partie de l’application gratuite Instructions de montage LEGO sont disponibles incluant des outils de visualisation avec zoom et rotation
-- Conçu pour les amateurs de sauvetage d’animaux, ce jouet voiture tout-terrain LEGO City Wildlife dispose d’un 4x4, d’un jet-ski et d’un décor de savane réaliste
 - Les enfants peuvent également combiner ce set de construction de jouets avec d’autres sets LEGO City Wildlife pour encore plus d’action et d’aventure
+- Accessoires LEGO inclus : œuf de serpent, attrape-serpents, 2 caisses, jumelles, talkie-walkie, appareil photo, os, bouteille, saucisse et brosse à cheveux
 - Ce jouet pour enfants de 4 ans et plus est livré avec un guide de construction simplifié et une brique de démarrage pour aider les petits à construire en toute confiance
+- Les enfants peuvent activer la fonction de pont qui s’effondre, utiliser le tout-terrain ou profiter de leur temps libre sur le site du camp
 - Inclut le personnage de la série TV LEGO City Adventures Jessica Sharpe, une figurine de ranger et d’explorateur, ainsi que lion, un lionceau et un serpent
+- Conçu pour les amateurs de sauvetage d’animaux, ce jouet voiture tout-terrain LEGO City Wildlife dispose d’un 4x4, d’un jet-ski et d’un décor de savane réaliste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
