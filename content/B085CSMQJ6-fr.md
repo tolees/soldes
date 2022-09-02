@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le faible angle de reprise de la fourche « agrippe » la vis tous les 15°
+- Côté œil fin coudé à 15°
+- Particulièrement bien adapté aux espaces exigus
 - Convient pour être accrochée aux éléments du système Wera 2go
 - La forme spéciale de la fourche élargit les possibilités d’ancrage de l’outil
-- Particulièrement bien adapté aux espaces exigus
-- Côté œil fin coudé à 15°
-- Le faible angle de reprise de la fourche « agrippe » la vis tous les 15°
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Biker Jacket
 - Season Jacket
+- Biker Jacket
 
 [🛒 Achète-le!!]({{< param buyurl >}})

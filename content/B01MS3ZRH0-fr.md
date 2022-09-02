@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les joueurs doivent collaborer pour relever les défis proposés par l’application mobile nécessaire pour jouer.
-- A partir de 14 ans
-- Les Demeures de l’Épouvante est un jeu coopératif d’enquête et d’horreur inspiré de l’œuvre de H. P. Lovecraft.
 - Les Demeures de l’Épouvante inclut aussi un kit de conversion qui permettra aux fans de la première édition d’utiliser leurs investigateurs, monstres et tuiles avec cette nouvelle version.
 - Les joueurs incarnent des investigateurs qui s’aventurent dans les salles sombres des demeures hantées d’Arkham et autres endroits sinistres pour y découvrir d’étranges secrets, élucider des énigmes sournoises et affronter des dangers surnaturels.
+- Les Demeures de l’Épouvante est un jeu coopératif d’enquête et d’horreur inspiré de l’œuvre de H. P. Lovecraft.
+- Les joueurs doivent collaborer pour relever les défis proposés par l’application mobile nécessaire pour jouer.
+- A partir de 14 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
