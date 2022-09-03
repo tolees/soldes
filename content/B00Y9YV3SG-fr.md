@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Raccords universels dont 1 automatique
 - Pression maxi 20 bars
-- Dimensions : diamètre 10 mm x 17 mm - Longueur : 15 mètres
 - Pression déclatement 60 bars
+- Raccords universels dont 1 automatique
 - Tuyau à air pour compresseur en PVC avec raccords automatiques universels
+- Dimensions : diamètre 10 mm x 17 mm - Longueur : 15 mètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})

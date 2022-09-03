@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- included_components ; conteneur de recharge sans fil
 - Profil Bluetooth compatible (*2) A2DP/AVRCP/HFP/HSP
+- included_components ; conteneur de recharge sans fil
 - spécification du système de communication Bluetooth version 5.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
