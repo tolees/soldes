@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interrupteur blocable
-- Système de démarrage rapide (starter à retour automatique)
 - Lames de sécurité à double action, découpées au laser, en acier spécial, affûtage de précision
+- Interrupteur blocable
 - Poignée supplémentaire anti-vibrations
 - Moteur 2 temps à vibrations atténuées
+- Système de démarrage rapide (starter à retour automatique)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
