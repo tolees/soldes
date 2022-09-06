@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11019 Classic Briques et Fonctionnalités  7 Mini-Modèles à Engrenage  avec Ballerine Dansante et Hélicoptère à Rotors Tournants  Jouets de Construction'
-date: 2022-09-02 23:51:53
+date: 2022-09-06 08:27:32
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux d
 actualPrice: 20.91 EUR
 currency: EUR
 price: 20.91
-comparePrice: 24.6 EUR
+comparePrice: 34.99 EUR
 prodname: 'LEGO 11019 Classic Briques et Fonctionnalités  7 Mini-Modèles à Engrenage  avec Ballerine Dansante et Hélicoptère à Rotors Tournants  Jouets de Construction'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVKVSL/?tag=tolees0d-21'
-descuento: '15.00'
+descuento: '40.24'
 average: '20.91'
 ---
 
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque modèle est accompagné dinstructions de construction faciles à suivre, de sorte que même les constructeurs débutants puissent découvrir le plaisir de construire des jouets LEGO
 - Les enfants peuvent construire une ballerine qui danse, un hélicoptère LEGO avec des rotors qui tournent, une pomme avec un ver qui apparaît et plus encore
 - Avec ses 500 pièces LEGO, le jeu de construction LEGO Classic permet aux aux futurs ingénieurs de construire des jouets entièrement fonctionnels
 - Le jeu LEGO Classic Briques et Fonctionnalités est un complément idéal à tout jeu LEGO et constitue un cadeau idéal pour les enfants de 5 ans et plus
+- Chaque modèle est accompagné dinstructions de construction faciles à suivre, de sorte que même les constructeurs débutants puissent découvrir le plaisir de construire des jouets LEGO
 - Comprend un ensemble LEGO Classic avec des engrenages et des briques LEGO et 7 mini-constructions avec des fonctions dengrenage pour commencer à samuser
 
 [🛒 Achète-le!!]({{< param buyurl >}})
