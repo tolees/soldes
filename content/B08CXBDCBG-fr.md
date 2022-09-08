@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Denim stretch
 - Short régulier
+- Denim stretch
 - Coton organique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
