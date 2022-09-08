@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Grâce à la technologie de lencre thermosensible : Ecrivez, Frixionnez, Recommencez !
+- produit 2: Préservez l’environnement : grâce aux cartouches FriXion, adaptées aux stylos-bille rechargeables de la gamme, vous changez l’encre, pas le stylo, et réduisez ainsi votre impact écologique tout en faisant des économies.
 - produit 1: Il affiche un style jeune avec son corps fuselé et son décor tatoo proposé en sept coloris.
+- produit 2: Effacez et recommencez : l’encre thermosensible des recharges effaçables FriXion disparaît sous l’effet de la chaleur générée par la gomme de votre stylo-bille effaçable. Plus besoin de raturer pour modifier vos écrits.
 - produit 2: Praticité et fluidité : la pointe moyenne de 0,7 mm des stylos-bille effaçables s’adapte aux FriXion Ball et FriXion Ball Clicker. Effacez vos erreurs avec la gomme du stylo et réécrivez immédiatement, sans endommager le papier. Ne pas utiliser sur des documents officiels.
+- produit 2: Encre effaçable, ultra douce : proposée en set de 3 ou de 6 recharges. Les cartouches FriXion offrent une écriture souple et sans effort à tous vos stylos Pilot FriXion.
 - produit 1:Ne pas utiliser sur les documents officiels
 - produit 1:Produit rechargeable plus économique et plus respectueux de lenvironnement.
-- produit 2: Encre effaçable, ultra douce : proposée en set de 3 ou de 6 recharges. Les cartouches FriXion offrent une écriture souple et sans effort à tous vos stylos Pilot FriXion.
-- produit 2: Préservez l’environnement : grâce aux cartouches FriXion, adaptées aux stylos-bille rechargeables de la gamme, vous changez l’encre, pas le stylo, et réduisez ainsi votre impact écologique tout en faisant des économies.
-- produit 2: Effacez et recommencez : l’encre thermosensible des recharges effaçables FriXion disparaît sous l’effet de la chaleur générée par la gomme de votre stylo-bille effaçable. Plus besoin de raturer pour modifier vos écrits.
+- produit 1: Grâce à la technologie de lencre thermosensible : Ecrivez, Frixionnez, Recommencez !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
