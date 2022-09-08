@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La matière idéale pour exprimer votre personnalité
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
+- Lavage en machine, 30° max.
 - Le blue-jean original depuis 1873
 - Fermeture : fermeture éclair
-- Le jean à la coupe droite originale
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
-- La matière idéale pour exprimer votre personnalité
-- Lavage en machine, 30° max.
 - Un style américain
+- Le jean à la coupe droite originale
 - 100% Coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
