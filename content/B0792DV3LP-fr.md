@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : synthétique
-- Semelle intérieure : synthétique
 - Semelle intérieure amovible : false
-- Matériau de semelle : synthétique
-- Dessus : cuir
 - Type de talons : plat
+- Semelle intérieure : synthétique
+- Dessus : cuir
+- Doublure : synthétique
+- Matériau de semelle : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

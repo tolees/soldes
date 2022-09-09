@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Country Of Release: NLD
-- Catalog#: 06024 9821837
-- Year Of Release: 2005
 - Record Label: Polydor
+- Catalog#: 06024 9821837
 - Notes: Ft. Prev. Unrel. DemoS & Live Tracks + 20Page Booklet
+- Year Of Release: 2005
+- Country Of Release: NLD
 
 [🛒 Achète-le!!]({{< param buyurl >}})
