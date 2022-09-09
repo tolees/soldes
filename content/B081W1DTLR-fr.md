@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INCLUT DES ACCESSOIRES DE CHASSE AUX FANTÔMES : Jouet vendu avec un blaster, un projectile et un piège à fantômes mobile. Le blaster sattache au siège et lance un projectile
-- LA VOITURE DE S.O.S. FANTÔMES : La fidèle voiture Ecto-1 accompagne S.O.S fantômes dans toutes sortes de situations. Les chasseurs lutilisent pour se déplacer et transporter leur équipement chaque fois quils partent à la chasse aux fantômes
-- IL NE FAUT PAS CROISER LES EFFLUVES : SOS Fantômes fait fuir les fantômes depuis 1984. Laventure se poursuit maintenant avec les jouets, accessoires de déguisement et articles de collection de Hasbro
 - COMPATIBLE AVEC LES FIGURINES SOS Fantômes : Les figurines Ghostbusters Grand frisson sont compatibles avec lEcto-1. Vendues séparément, dans la limite des stocks
+- INCLUT DES ACCESSOIRES DE CHASSE AUX FANTÔMES : Jouet vendu avec un blaster, un projectile et un piège à fantômes mobile. Le blaster sattache au siège et lance un projectile
 - ECTO-1 : Avec les roues libres et les portes pivotantes avec siège à protons de lEcto-1, les enfants peuvent imaginer les chasseurs de fantômes foncer dans laction
+- IL NE FAUT PAS CROISER LES EFFLUVES : SOS Fantômes fait fuir les fantômes depuis 1984. Laventure se poursuit maintenant avec les jouets, accessoires de déguisement et articles de collection de Hasbro
+- LA VOITURE DE S.O.S. FANTÔMES : La fidèle voiture Ecto-1 accompagne S.O.S fantômes dans toutes sortes de situations. Les chasseurs lutilisent pour se déplacer et transporter leur équipement chaque fois quils partent à la chasse aux fantômes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

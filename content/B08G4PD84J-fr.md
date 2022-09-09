@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Que dire des détails ? Avec son pare-brise incurvé, son volant modulaire et sa brique décorée SOS Fantômes, ce set formidablement détaillé aura fière allure à la maison ou au bureau.
-- Le kit de construction ECTO-1 ultime pour les fans de briques LEGO et de SOS Fantômes qui souhaitent construire un nouveau modèle de voiture ou simplement se détendre avec un projet de loisir créatif immersif.
-- Idéal pour les fans de SOS Fantômes et les passionnés de LEGO, ce modèle ECTO-1 propose des heures de plaisir et une expérience de construction enrichissante pour les adultes. Un formidable cadeau de pâques pour tous ceux qui rêvent de construire un modèle réduit de voiture. Le véhicule ECTO-1, qui mesure plus de 22,5 cm de haut, 47 cm de long et 16,5 cm de large, déborde de détails authentiques à exposer avec fierté
 - En plus d’un guide de construction étape par étape, les instructions de qualité incluent des détails de conception et l’histoire du véhicule ECTO-1 (en anglais uniquement, d’autres langues peuvent être téléchargées sur LEGO.com/ecto-1-book)
+- Le kit de construction ECTO-1 ultime pour les fans de briques LEGO et de SOS Fantômes qui souhaitent construire un nouveau modèle de voiture ou simplement se détendre avec un projet de loisir créatif immersif.
 - Aucune pile n’est nécessaire pour profiter de ce modèle à construire – il carbure à l’ectoplasme pur (c’est une blague)
 - Ceci n’est pas un jouet SOS Fantômes. Il s’agit d’un modèle de véhicule pour adultes comprenant une direction qui fonctionne, une trappe pour piéger les fantômes, un siège arrière mitrailleur, un renifleur de fantômes mobile et d’autres équipements de détection de phénomènes paranormaux.
+- Idéal pour les fans de SOS Fantômes et les passionnés de LEGO, ce modèle ECTO-1 propose des heures de plaisir et une expérience de construction enrichissante pour les adultes. Un formidable cadeau de pâques pour tous ceux qui rêvent de construire un modèle réduit de voiture. Le véhicule ECTO-1, qui mesure plus de 22,5 cm de haut, 47 cm de long et 16,5 cm de large, déborde de détails authentiques à exposer avec fierté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
