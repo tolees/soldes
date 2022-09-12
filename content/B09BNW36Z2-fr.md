@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il inclut différents véhicules d’urgence : un camion de pompier avec un drone, une moto jouet, la voiture du bandit et un décor en feu avec des feux de signalisation
-- Les enfants peuvent lancer des éléments d’eau avec le drone, activer les feux de signalisation et changer la position des flammes LEGO sur le décor du feu
-- Les éléments de ce set LEGO incluent un poisson, des menottes, 2 talkies-walkies, 3 billets de banque et le sac du bandit
-- Rejoignez le pompier Bob de la série LEGO City à bord du camion de pompiers LEGO, rendez-vous sur place et envoyez l’incroyable drone éteindre les flammes
 - Ce jouet de pompiers et policiers inclut 3 minifigures LEGO issues de la série LEGO City, Bob et une figurine de chat pour des heures de jeu de rôle
+- Rejoignez le pompier Bob de la série LEGO City à bord du camion de pompiers LEGO, rendez-vous sur place et envoyez l’incroyable drone éteindre les flammes
+- Il inclut différents véhicules d’urgence : un camion de pompier avec un drone, une moto jouet, la voiture du bandit et un décor en feu avec des feux de signalisation
+- Les éléments de ce set LEGO incluent un poisson, des menottes, 2 talkies-walkies, 3 billets de banque et le sac du bandit
+- Les enfants peuvent lancer des éléments d’eau avec le drone, activer les feux de signalisation et changer la position des flammes LEGO sur le décor du feu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

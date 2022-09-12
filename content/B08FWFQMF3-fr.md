@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dans une usine neutre en carbone
-- Flacon en plastique 100% recyclé* et recyclable
-- Ravive et prend soin des cheveux fatigués grâce à sa formule enrichie en vitamines e + pp + b5
-- Appliquez sur cheveux mouillés, massez soigneusement sur lensemble du cuir chevelu pour activer la microcirculation puis rincez. pensez à couper leau sous la douche
 - Shampoing revitalisant pour cheveux normaux enrichi en vitamines e + pp + b5
-- Fabriqué en France
-- Protection solaire: Non sun_protection_factor
+- Ravive et prend soin des cheveux fatigués grâce à sa formule enrichie en vitamines e + pp + b5
 - Des cheveux vigoureux, brillants et pleins de santé
+- Protection solaire: Non sun_protection_factor
+- Dans une usine neutre en carbone
+- Fabriqué en France
+- Appliquez sur cheveux mouillés, massez soigneusement sur lensemble du cuir chevelu pour activer la microcirculation puis rincez. pensez à couper leau sous la douche
+- Flacon en plastique 100% recyclé* et recyclable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
