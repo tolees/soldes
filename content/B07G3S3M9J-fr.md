@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet de château de Poulard LEGO comprend un mécanisme de changement dhorloge pour créer des aventures de voyage dans le temps et une fonction "danse" pour faire bouger réellement la boule de Noël !
-- Ce jouet de château Harry Potter est un merveilleux cadeau LEGO danniversaire ou de Noël pour les filles et les garçons de 9 ans et plus, fans du monde des sorciers
-- Construisez le jouet LEGO Tour de lhorloge du château de Poudlard à 3 niveaux avec des lieux emblématiques et 8 minifigurines des films Harry Potter
 - Ce jouet LEGO Harry Potter à construire comprend 8 minifigurines : Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore et Madame Maxime
+- Ce jouet de château Harry Potter est un merveilleux cadeau LEGO danniversaire ou de Noël pour les filles et les garçons de 9 ans et plus, fans du monde des sorciers
 - Ce kit de maquette de Poudlard comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets et le bureau de Dumbledore
 - Toutes les figurines sont fournies avec des baguettes et leurs costumes de bal de Noël avec une scène comprenant 2 tables, une sculpture à construire et un arbre de Noël en jouet
+- Construisez le jouet LEGO Tour de lhorloge du château de Poudlard à 3 niveaux avec des lieux emblématiques et 8 minifigurines des films Harry Potter
+- Ce jouet de château de Poulard LEGO comprend un mécanisme de changement dhorloge pour créer des aventures de voyage dans le temps et une fonction "danse" pour faire bouger réellement la boule de Noël !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
