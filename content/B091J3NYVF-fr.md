@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabricant de processeur: AMD
 - Modèle de processeur: 5700g
-- Cache de processeur: 16 Mo
+- Fabricant de processeur: AMD
 - Lithographie du processeur: 7 nm
+- Cache de processeur: 16 Mo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
