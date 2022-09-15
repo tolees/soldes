@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Homme Core Straight Chino Gmd Flex Pantalon  Batique Kaki  31W / 32L EU'
-date: 2022-09-06 08:26:16
+date: 2022-09-15 11:51:00
 image: 'https://m.media-amazon.com/images/I/31hOG8NN5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Sans fermeture
-- Coton biologique (98 %), élasthanne (2 %)
-- Lavage à la main
+- Straight
+- Collection: Chino
 
 [🛒 Achète-le!!]({{< param buyurl >}})
