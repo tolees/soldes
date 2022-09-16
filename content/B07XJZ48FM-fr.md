@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le couple de serrage est réglable entre 100 Nm-350 Nm afin déviter dendommager la jante.
-- Max. Couple : 500 Nm. Puissance : 1050 W
 - Idéal pour les vis coincées et rouillées.
+- Max. Couple : 500 Nm. Puissance : 1050 W
 - Interrupteur à bascule pour basculer rapidement entre la rotation droite et la rotation gauche.
+- Le couple de serrage est réglable entre 100 Nm-350 Nm afin déviter dendommager la jante.
 - Visseuse à percussion puissante de 230 V avec 4 douilles (SW17, SW19, SW21, SW22) dans un coffret de rangement solide avec une longueur de câble de 1,90 m.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
