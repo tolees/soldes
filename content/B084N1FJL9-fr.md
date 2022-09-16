@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jeux en français avec voix japonaises
 - Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
 - Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
-- Jeux en français avec voix japonaises
 
 [🛒 Achète-le!!]({{< param buyurl >}})
