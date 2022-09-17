@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 ports DisplayPort 1.4a, 1 HDMI 2.1
 - Triple Fan
+- 3 ports DisplayPort 1.4a, 1 HDMI 2.1
 - Zotac GAMING GEFORCE RTX 3090 Trinity 24 Go
 - Carte graphique RTX 3090 TRINITY 24 Go GDDR6X 384 bit
 - Vitesse : 19 500 MHz

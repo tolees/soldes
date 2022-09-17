@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EVGA iCX3 Cooling
-- Built for EVGA Precision X1
-- Adjustable ARGB LED
 - PCI Express Gen 4
+- Built for EVGA Precision X1
+- EVGA iCX3 Cooling
 - 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores
+- Adjustable ARGB LED
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

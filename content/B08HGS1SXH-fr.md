@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adjustable ARGB LED
-- EVGA iCX3 Technology
 - DisplayPort 1.4a, HDMI 2.1
+- EVGA iCX3 Technology
 - PCI Express Gen 4
-- Game Ready Drivers, VR Ready
 - Microsoft DirectX 12 Ultimate, GDDR6X Graphics Memory
-- 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores
-- Built for EVGA Precision X1
-- Vulkan RT API, OpenGL 4.6
+- Adjustable ARGB LED
+- Game Ready Drivers, VR Ready
 - NVIDIA GeForce Experience
+- Vulkan RT API, OpenGL 4.6
+- Built for EVGA Precision X1
+- 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores
 
 [🛒 Achète-le!!]({{< param buyurl >}})
