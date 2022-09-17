@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 28 x 22 x 15 cm
+- Un jouet en bois sur le thème de lespace qui aidera lenfant à se développer sa motricité.
 - Une toupie intergalactique, un martien, un astronaute, une fusée, des galaxies à empiler et à dénombrer, des étoiles à guider sur un fil !
 - A partir de 18 mois.
-- Un jouet en bois sur le thème de lespace qui aidera lenfant à se développer sa motricité.
+- 28 x 22 x 15 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

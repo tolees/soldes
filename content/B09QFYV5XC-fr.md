@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Les accessoires comprennent également un distributeur automatique de canettes, une zone avec 3 jeux darcade différents tels quune table dair-hockey, un jeu de danse et un croiseur de cabine
 - Lensemble comprend 3 mini-poupées LEGO Friends plus divers accessoires, notamment des patins à roulettes, des quilles de bowling, un téléphone portable, un sac de bowling, un sandwich, un microphone et un fauteuil roulant
 - Les enfants peuvent décider où jouer, sils veulent construire la mini-poupée LEGO Friends Andrea pour quelle chante dans la discothèque, défier leurs amis au air-hockey ou faire un strike sur la piste de bowling LEGO
-- Ce set de jeu 3-en-1 souvre pour créer 3 zones différentes, une discothèque avec un plancher tournant, une piste de bowling LEGO et une zone darcade, il comprend un support de téléphone portable et 3 mini-poupées
 - En tournant la roue, les enfants peuvent faire danser les mini-poupées. Avec le téléphone portable dans le support, ils peuvent devenir de véritables DJ et choisir leurs chansons préférées
+- Ce set de jeu 3-en-1 souvre pour créer 3 zones différentes, une discothèque avec un plancher tournant, une piste de bowling LEGO et une zone darcade, il comprend un support de téléphone portable et 3 mini-poupées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

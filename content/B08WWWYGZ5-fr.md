@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le sous-marin possède 2 tireurs à ressort, 2 ailes pliantes, un cockpit qui s’ouvre, un méca détachable, et transporte 2 mini-sous-marins
-- Le véhicule sous-marin LEGO offre un jouet robot entièrement constructible qui se détache pour que les fans puissent mettre en scène des histoires sous-marines captivantes
-- N’oubliez pas d’aller voir le bolide ninja sous-marin (71752) et le temple de la Mer sans fin (71755)
 - Ce set LEGO de 1159 pièces est un jeu de construction pour enfants de 9 ans et plus, c’est le cadeau danniversaire ou de vacances idéal
-- Inclut 10 figurines NINJAGO: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane et Scuba Nya
+- N’oubliez pas d’aller voir le bolide ninja sous-marin (71752) et le temple de la Mer sans fin (71755)
+- Le véhicule sous-marin LEGO offre un jouet robot entièrement constructible qui se détache pour que les fans puissent mettre en scène des histoires sous-marines captivantes
+- Le sous-marin possède 2 tireurs à ressort, 2 ailes pliantes, un cockpit qui s’ouvre, un méca détachable, et transporte 2 mini-sous-marins
 - Découvrez dautres jouets NINJAGO : Seabound, dont le dragon de l’eau (71754) et le robot Hydro de Lloyd (71750)
+- Inclut 10 figurines NINJAGO: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane et Scuba Nya
 - Comprend également le prince Kalmaar et une figurine de Garde Maaray, ainsi que 2 Wu Bots ; le char du Prince est tiré par une raie Manta géante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
