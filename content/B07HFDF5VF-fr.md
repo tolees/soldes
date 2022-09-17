@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Siège auto inclinable : le siège-auto Bébé Confort Axiss offre 8 positions inclinables pour le confort de votre enfant
 - Système de réglage simultané du harnais et de l’appuie-tête qui s’actionne d’une seule main
+- Siège auto rotatif : Axiss pivote à 90° degrés pour faciliter laccès direct à l’avant du siège et vous permettre d’installer et de sortir votre enfant de la voiture plus facilement
+- Siège auto inclinable : le siège-auto Bébé Confort Axiss offre 8 positions inclinables pour le confort de votre enfant
 - Siège auto pivotant Groupe 1, utilisable de 9 mois jusquà 4 ans (de 9 à 18 kg)
 - Très sûr, ce siège auto enfant s’installe à l’aide de la ceinture de sécurité de la voiture et du tensionneur de ceinture intégré pour un maintien parfait
-- Siège auto rotatif : Axiss pivote à 90° degrés pour faciliter laccès direct à l’avant du siège et vous permettre d’installer et de sortir votre enfant de la voiture plus facilement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
