@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Avec ses 500 pièces LEGO, le jeu de construction LEGO Classic permet aux aux futurs ingénieurs de construire des jouets entièrement fonctionnels
 - Comprend un ensemble LEGO Classic avec des engrenages et des briques LEGO et 7 mini-constructions avec des fonctions dengrenage pour commencer à samuser
-- Le jeu LEGO Classic Briques et Fonctionnalités est un complément idéal à tout jeu LEGO et constitue un cadeau idéal pour les enfants de 5 ans et plus
 - Chaque modèle est accompagné dinstructions de construction faciles à suivre, de sorte que même les constructeurs débutants puissent découvrir le plaisir de construire des jouets LEGO
+- Le jeu LEGO Classic Briques et Fonctionnalités est un complément idéal à tout jeu LEGO et constitue un cadeau idéal pour les enfants de 5 ans et plus
 - Les enfants peuvent construire une ballerine qui danse, un hélicoptère LEGO avec des rotors qui tournent, une pomme avec un ver qui apparaît et plus encore
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONNECTIVITÉ HYBRIDE - Le clavier peut être connecté avec fil (USB type-C) ou sans fil (Bluetooth 4.0 jusquà 3 appareils) et est compatible avec les plateformes Mac OS, iOS, Android et Windows 8 (ou ultérieur)
+- RÉTROÉCLAIRAGE RGB & ALUMINIUM BROSSÉ - Le design minimaliste du SK622 est agrémenté par un rétroéclairage RGB par touche et une barre lumineuse (16.7 millions de couleurs) complétant les touches flottantes au-dessus du plateau en aluminium brossé
 - COMPOSANTS FONCTIONNELS - Le SK622 possède un Cortex M0 MCU ARM a 32-bit avec un polling rate de 125Hz / 6-key rollover (sans fil) et un polling rate de 1000Hz / N-key rollover (avec fil) et héberge une batterie compacte de 4000mAh (poids total: 446g)
 - PERSONNALISATION AVANCÉE - Le micrologiciel embarqué permet une personnalisation à la volée de léclairage (18 effets prédéfinis) et un changement MacOS/Windows - logiciel MasterPlus+ (PC uniquement) pour des personnalisations de macros plus avancées
-- RÉTROÉCLAIRAGE RGB & ALUMINIUM BROSSÉ - Le design minimaliste du SK622 est agrémenté par un rétroéclairage RGB par touche et une barre lumineuse (16.7 millions de couleurs) complétant les touches flottantes au-dessus du plateau en aluminium brossé
 - LOW-PROFILE & ULTRA-COMPACT - Le SK622 possède des interrupteurs mécaniques low-profile (pression 3.2mm, actionnement 1.2mm, 50 millions de frappes) alignés dans une configuration simple à 60% avec des touches ergonomiques pour une excellente portabilité
-- CONNECTIVITÉ HYBRIDE - Le clavier peut être connecté avec fil (USB type-C) ou sans fil (Bluetooth 4.0 jusquà 3 appareils) et est compatible avec les plateformes Mac OS, iOS, Android et Windows 8 (ou ultérieur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
