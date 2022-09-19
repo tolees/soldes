@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des séquences de combat réalistes en dioramas
-- Un RPG stratégique inédit ancré dans une épopée mêlant guerre et honneur
 - Des combats sophistiqués et stratégiques en temps réel
+- Un RPG stratégique inédit ancré dans une épopée mêlant guerre et honneur
+- Des séquences de combat réalistes en dioramas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

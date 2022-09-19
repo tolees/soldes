@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une Sécurité Avancée
 - Résistant aux chocs et chutes jusqu’à 3m IPS 65 (eau & poussière)
+- Compatible Windows, MacOS, Android
 - Jusqu’à 1050 Mo/s (technologie NVMe) USB 3.2 Gen.2 (10 Gbps)
 - USB 3.2 Gen 2
-- Compatible Windows, MacOS, Android
-- Une Sécurité Avancée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
