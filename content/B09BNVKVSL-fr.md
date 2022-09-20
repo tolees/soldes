@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO 11019 Classic Briques et Fonctionnalités  7 Mini-Modèles à Engrenage  avec Ballerine Dansante et Hélicoptère à Rotors Tournants  Jouets de Construction'
-date: 2022-09-19 00:02:12
+title: 'LEGO 11019 - Briques fonctionnalités'
+date: 2022-09-20 06:18:18
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09BNVKVSL-fr LEGO 11019 Classic Briques et Fonctionnalités 7 Mini-...'
+slug: 'B09BNVKVSL-fr LEGO 11019 - Briques fonctionnalités'
 sku: 'B09BNVKVSL-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
 actualPrice: 20.91 EUR
 currency: EUR
 price: 20.91
 comparePrice: 34.99 EUR
-prodname: 'LEGO 11019 Classic Briques et Fonctionnalités  7 Mini-Modèles à Engrenage  avec Ballerine Dansante et Hélicoptère à Rotors Tournants  Jouets de Construction'
+prodname: 'LEGO 11019 - Briques fonctionnalités'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
@@ -28,10 +28,6 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent construire une ballerine qui danse, un hélicoptère LEGO avec des rotors qui tournent, une pomme avec un ver qui apparaît et plus encore
-- Le jeu LEGO Classic Briques et Fonctionnalités est un complément idéal à tout jeu LEGO et constitue un cadeau idéal pour les enfants de 5 ans et plus
-- Comprend un ensemble LEGO Classic avec des engrenages et des briques LEGO et 7 mini-constructions avec des fonctions dengrenage pour commencer à samuser
-- Avec ses 500 pièces LEGO, le jeu de construction LEGO Classic permet aux aux futurs ingénieurs de construire des jouets entièrement fonctionnels
-- Chaque modèle est accompagné dinstructions de construction faciles à suivre, de sorte que même les constructeurs débutants puissent découvrir le plaisir de construire des jouets LEGO
+- Découvrez lunivers des jeux de construction LEGO et inventez vos propres aventures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
