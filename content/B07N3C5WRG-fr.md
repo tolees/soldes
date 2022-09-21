@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plus doptions dentraînement pour recevoir des données de fréquence cardiaque toujours précises sur un appareil Garmin, dans des applications dentraînement en ligne ou sur des appareils de fitness compatibles pendant les entraînements en salle
+- La ceinture pectorale de fréquence cardiaque Garmin Premium transmet les données de fréquence cardiaque en temps réel via Bluetooth Low Energy et ANT+
 - Sangle de poitrine réglable et confortable pour la fréquence cardiaque en matériau souple avec module de fréquence cardiaque amovible
 - Autonomie de la batterie denv. 3,5 ans (avec une utilisation moyenne de 1 heure par jour)
-- La ceinture pectorale de fréquence cardiaque Garmin Premium transmet les données de fréquence cardiaque en temps réel via Bluetooth Low Energy et ANT+
 - La longueur de la sangle est réglable de 25" à 52" (63,5 cm à 132 cm).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sallume et séteint automatiquement
+- Compact : il pèse moins de 14 grammes
 - Les appareils compatibles se connectent à lapplication Garmin Connect Mobile pour synchroniser automatiquement vos données et communiquer avec dautres
 - Autonomie de la batterie : la pile remplaçable a une autonomie dun an (pour une utilisation dune heure par jour)
-- Calcule et envoie 6 données de Running Dynamics (analyse de la foulée) à votre appareil compatible. Type de batterie: CR1632 (remplaçable par lutilisateur)
 - Water rating: 1 ATM
-- Compact : il pèse moins de 14 grammes
+- Calcule et envoie 6 données de Running Dynamics (analyse de la foulée) à votre appareil compatible. Type de batterie: CR1632 (remplaçable par lutilisateur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

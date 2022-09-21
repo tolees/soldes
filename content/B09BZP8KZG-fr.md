@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Minimum Power Supply Requirement: 850W; Recommended Power Supply Requirement: 850W
-- Outputs: 3 x Display Port (1.4 with DSC);1 x HDMI (HDMI 2.1 VRR and FRL)
-- External Power: 2 x 8-pins
 - Frequencies: Base Clock Up to 1950 MHz; Game Clock Up to 2135 MHz; Boost Clock Up to 2365 MHz
+- Minimum Power Supply Requirement: 850W; Recommended Power Supply Requirement: 850W
+- External Power: 2 x 8-pins
+- Outputs: 3 x Display Port (1.4 with DSC);1 x HDMI (HDMI 2.1 VRR and FRL)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
