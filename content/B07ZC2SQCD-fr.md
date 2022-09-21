@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design vif et contemporain avec détails de couleur
 - Spinner 78 extensible (Grande valise: séjours de deux semaines): 48 x 31 x 78 cm - 105 L - 3,30 kg
 - Doubles roulettes sur les modèles Spinner, pour des déplacements tout en douceur
+- Design vif et contemporain avec détails de couleur
 - Serrure TSA intégré. Le code initial pour ouvrir votre bagage est : 0-0-0. Les instructions pour verrouiller votre valise avec votre propre code se trouvent à l’intérieur de celle-ci
 - Extensibilité sur les modèles de soute pour optimiser le volume de rangement
 
