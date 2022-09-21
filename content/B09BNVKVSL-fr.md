@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11019 - Briques fonctionnalités'
-date: 2022-09-20 06:18:18
+date: 2022-09-21 07:06:40
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

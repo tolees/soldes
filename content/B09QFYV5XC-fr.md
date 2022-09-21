@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41708 - Confidentiel Roller Disco Arcade'
-date: 2022-09-20 06:18:50
+date: 2022-09-21 07:07:10
 image: 'https://m.media-amazon.com/images/I/51vEwIZv6EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09QFYV5XC/?tag=tolees0d-21'
 descuento: '32.74'
-average: '40.4611111111112'
+average: '40.4552631578948'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 642 pièces pour les 7 ans et plus.
 - Construisez ce set LEGO.
+- 642 pièces pour les 7 ans et plus.
 - Toutes les gammes sont compatibles avec les autres ensembles de construction LEGO pour une expérience de construction sans limite.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
