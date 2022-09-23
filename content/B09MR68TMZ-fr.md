@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- À mettre à jour
 - Housse fine, adhérente et élégante
 - Housse en silicone souple au design mat et fonctionnel
-- À mettre à jour
 - Maintien confortable et sûr avec la bande
 - Retirez le ruban en toute sécurité et facilement à tout moment
 

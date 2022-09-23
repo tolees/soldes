@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Braguette zippée
 - Style cinq poches
+- Taille basse
+- Braguette zippée
 - 99 % coton, 1 % élasthanne
 - Remarque : les variantes détiquettes et les variantes de létiquette Levis se trouvent dans la description de chaque article Levis sur Amazon
-- Taille basse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

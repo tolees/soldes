@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Buse de sol motorisée à LED
-- Mode boost
-- Extrêmement compact avec rangement pratique avec support mural
 - Technologie sans sac
 - Sans fil, fonctionne sur batterie Li Ion
+- Buse de sol motorisée à LED
+- Extrêmement compact avec rangement pratique avec support mural
+- Mode boost
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

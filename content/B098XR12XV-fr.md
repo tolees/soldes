@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le premier écran 4K HDR OLED au monde avec taux de rafraichissement de 120 Hz
-- Le suivi en temps réel - une technologie professionnelle issue de notre gamme dappareil photo Alpha - assure la netteté des sujets se déplaçant rapidement
 - Étendez vos possibilités créatives grâce à 4 objectifs polyvalents intégrés à un appareil photo triple capteur et associés à une mise au point automatique rapide et précise
-- Du 17 Juillet au 3 Août pour tout achat du Xperia 1 III, un casque Bluetooth WH-CH710N OFFERT – voir conditions sur nos-offres-promotionnelles.fr
 - Ecran 21:9 CinemaWide 120Hz avec réduction de flou cinétique jusquà 240Hz pour une expérience de jeu inédite.
+- Le suivi en temps réel - une technologie professionnelle issue de notre gamme dappareil photo Alpha - assure la netteté des sujets se déplaçant rapidement
 - Avec 360 Reality Audio, la musique est plus immersive et authentique que jamais. Grâce au Xperia 1 III, profitez de lexpérience avec un casque filaire ou sans fil
+- Du 17 Juillet au 3 Août pour tout achat du Xperia 1 III, un casque Bluetooth WH-CH710N OFFERT – voir conditions sur nos-offres-promotionnelles.fr
+- Le premier écran 4K HDR OLED au monde avec taux de rafraichissement de 120 Hz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
