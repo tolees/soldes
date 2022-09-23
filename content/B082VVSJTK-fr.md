@@ -30,7 +30,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Design aluminium
 - Transferts ultra rapide avec des taux de 1050 Mo/s
-- Protection des données par empreinte digitale et/ou mot de passe
 - Compatible Windows, MacOS, Android
+- Protection des données par empreinte digitale et/ou mot de passe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nerf
-- TIR DE FLÉCHETTES STYLE DINO : Pour utiliser ce blaster, on insère 1 fléchette par le devant du blaster, on tire la poignée damorçage et on appuie sur la détente pour tirer une fléchette (aucune pile requise)
 - BLASTER NERF DINOSQUAD STEGOS-MASH : Ce blaster axé sur la défense a un design et une déco de stégosaure
 - 5 FLÉCHETTES NERF ET RANGEMENT DE FLÉCHETTES : Inclut 5 fléchettes Nerf Elite officielles. Le blaster a un rangement pour 4 fléchettes permettant davoir des fléchettes sous la main pour recharger
+- TIR DE FLÉCHETTES STYLE DINO : Pour utiliser ce blaster, on insère 1 fléchette par le devant du blaster, on tire la poignée damorçage et on appuie sur la détente pour tirer une fléchette (aucune pile requise)
+- Nerf
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

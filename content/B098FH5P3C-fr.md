@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Casque supra-aural : ce casque sans fil convient parfaitement pour une utilisation du matin au soir. Confectionné en cuir synthétique doux et en nylon résistant aux chocs, et doté d’un design qui exerce une faible pression, ce casque est aussi élégant que durable.
-- Modes Quiet et Aware : choisissez le mode Quiet pour une réduction de bruit totale ou le mode Aware pour laisser filtrer votre environnement dans votre casque circum-aural et écouter votre musique et les bruits qui vous entourent en même temps.
-- Casque sans fil à réduction de bruit : le parfait équilibre entre silence, confort et son. Bose utilise des microphones miniatures pour mesurer, comparer et traiter le bruit ambiant pour l’annuler en émettant un signal opposé.
-- Un son haute qualité : l’architecture acoustique TriPort vous permet d’obtenir un son profond et riche. Sa technologie d’égalisation active optimisée en fonction du volume sert à équilibrer les basses pour offrir le meilleur son possible, quel que soit le réglage choisi.
 - Jusqu’à 24 heures d’autonomie : profitez de 24 heures d’autonomie avec une seule charge. En 15 minutes de charge rapide, vous disposez de 3 h d’autonomie lorsque vous êtes en déplacement. Vous pouvez également brancher le câble audio inclus pour prolonger votre écoute en mode filaire. Personnalisez votre audio. Légaliseur réglable vous permet de régler les niveaux des basses, des moyennes et des aigus selon vos préférences personnelles ou de sélectionner lune des nombreuses options prédéfinies.
+- Un son haute qualité : l’architecture acoustique TriPort vous permet d’obtenir un son profond et riche. Sa technologie d’égalisation active optimisée en fonction du volume sert à équilibrer les basses pour offrir le meilleur son possible, quel que soit le réglage choisi.
+- Modes Quiet et Aware : choisissez le mode Quiet pour une réduction de bruit totale ou le mode Aware pour laisser filtrer votre environnement dans votre casque circum-aural et écouter votre musique et les bruits qui vous entourent en même temps.
+- Casque supra-aural : ce casque sans fil convient parfaitement pour une utilisation du matin au soir. Confectionné en cuir synthétique doux et en nylon résistant aux chocs, et doté d’un design qui exerce une faible pression, ce casque est aussi élégant que durable.
+- Casque sans fil à réduction de bruit : le parfait équilibre entre silence, confort et son. Bose utilise des microphones miniatures pour mesurer, comparer et traiter le bruit ambiant pour l’annuler en émettant un signal opposé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
