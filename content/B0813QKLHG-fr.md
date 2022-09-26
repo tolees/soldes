@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31200 Art Star Wars™ Les Sith™'
-date: 2022-09-25 06:49:52
+date: 2022-09-26 06:58:38
 image: 'https://m.media-amazon.com/images/I/51aDi-db5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QKLHG/?tag=tolees0d-21'
 descuento: '17.19'
-average: '110.423424437301'
+average: '110.43878009631'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de pièces: 3406
+- La création d’un portrait LEGO unique permet de réinventer ces légendaires Seigneurs Sith et d’évacuer le stress. La bande son complémentaire favorise l’immersion dans la construction grâce aux histoires amusantes et aux interviews dans l’univers de Star Wars.
 - Star Wars Les Sith
 - Âge recommandé par le fabricant: 18+
 - Ce set LEGO de 3 395 pièces inclut 9 plaques support pour décoration murale, une plaque signature Star Wars, un cadre LEGO en briques, un nouvel élément de suspension unique et un séparateur de pièces et permet à chaque constructeur d’explorer son « côté obscur » créatif.
-- La création d’un portrait LEGO unique permet de réinventer ces légendaires Seigneurs Sith et d’évacuer le stress. La bande son complémentaire favorise l’immersion dans la construction grâce aux histoires amusantes et aux interviews dans l’univers de Star Wars.
+- Nombre de pièces: 3406
 
 [🛒 Achète-le!!]({{< param buyurl >}})
