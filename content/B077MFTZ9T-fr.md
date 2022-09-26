@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Homme > Chaussures > Sneakers
 - Couleur : noir
 - Référence : 365215-06-44
+- Homme > Chaussures > Sneakers
 - Marque : Puma
 
 [🛒 Achète-le!!]({{< param buyurl >}})

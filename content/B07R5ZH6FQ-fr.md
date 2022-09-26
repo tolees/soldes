@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de joueurs : 2 à 4, Age conseillé : 12 ans et plus, Durée en minutes : 60-100.
-- Jeu en français, anglais, allemand.
-- Un jeu de stratégie passionnant !
 - Découvrez ou redécouvrez ce grand classique du jeu de gestion dans une toute nouvelle édition incluant 10 extensions !
 - Contenu : 164 tuiles hexagonales, 42 tuiles Marchandises, 24 Pièces de monnaie, 26 tuiles Ouvrier, 12 tuiles Bonus, 4 tuiles PV, 8 pions, 9 dés, 1 plateau de jeu, 16 plateaux individuels, 4 aides de jeu, 4 nouvelles tuiles hexagonales, 6 plateaux Postes frontière, 9 tuiles Château blanc, 5 tuiles Auberge, 12 cartes Routes commerciales, 18 tuiles Bouclier, 2x4 plateaux individuels pour jouer en équipes, 2 plateaux individuels pour jouer en solo et 1 livret de règles.
+- Un jeu de stratégie passionnant !
+- Nombre de joueurs : 2 à 4, Age conseillé : 12 ans et plus, Durée en minutes : 60-100.
+- Jeu en français, anglais, allemand.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

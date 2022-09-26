@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend des clés.
-- Ryobi - Boulonneuse à chocs à batterie 18V 2Ah LithiumPlus
 - Mécanisme dimpact conçu pour résister au couple élevé avec un faible niveau de recul.
+- Comprend des clés.
 - Triple LED pour éclairer la zone de travail.
 - 3 vitesses pour plus de contrôle et de polyvalence.
+- Ryobi - Boulonneuse à chocs à batterie 18V 2Ah LithiumPlus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
