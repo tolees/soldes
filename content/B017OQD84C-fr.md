@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- indice de masse corporelle
-- la masse graisseuse (%)
-- la masse hydrique (%)
-- mémoires illimitées
-- Connexion Bluetooth 4.0 au Smartphone (compatible avec dispositifs iOS et Android) avec App Laica bodytouch gratuite. capacité de pesage : 180 kg - 396 lb Fonctions : calcule le poids
-- poids du squelette. Plateau en verre trempé ép. 6 mm
 - allumage-arrêt automatiques
-- métabolisme de base
+- mémoires illimitées
 - musculature squelettique (%)
+- Connexion Bluetooth 4.0 au Smartphone (compatible avec dispositifs iOS et Android) avec App Laica bodytouch gratuite. capacité de pesage : 180 kg - 396 lb Fonctions : calcule le poids
+- indice de masse corporelle
+- poids du squelette. Plateau en verre trempé ép. 6 mm
+- métabolisme de base
+- la masse hydrique (%)
+- la masse graisseuse (%)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

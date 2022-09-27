@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 5 niveaux de réglage de la finesse de mouture
+- Fonction Café préféré, intensité et longueur du café pré réglée selon votre goût
 - Melitta Companion app : l’application intelligente sur l’entretien de vos machines
 - Design compact : largeur de 20 cm
 - Broyeur ultra-silencieux
-- Fonction Café préféré, intensité et longueur du café pré réglée selon votre goût
 
 [🛒 Achète-le!!]({{< param buyurl >}})

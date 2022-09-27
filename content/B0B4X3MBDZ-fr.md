@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design ergonomique : le design des écouteurs a été repensé pour qu’ils soient 15 % plus petits que les Galaxy Buds Pro afin qu’ils s’adaptent parfaitement à votre oreille.
-- Qualité du son : chaque son ressemble à l’original avec votre appareil Samsung Galaxy préféré. Profitez d’une expérience audio sans fil ultime grâce au son Hi-Fi 24 bits.
-- Technologie Audio 360 : le son est plus réaliste et immersif, comme si vous étiez au cinéma.
 - Des couleurs qui donnent le ton : les écouteurs et le boitier sont disponibles dans une gamme de couleurs premium avec un fini mat (Anthracite, Blanc et Lavande).
+- Technologie Audio 360 : le son est plus réaliste et immersif, comme si vous étiez au cinéma.
+- Qualité du son : chaque son ressemble à l’original avec votre appareil Samsung Galaxy préféré. Profitez d’une expérience audio sans fil ultime grâce au son Hi-Fi 24 bits.
 - Réduction active de bruit optimisée : avec 3 microphones ultra-sensibles, les Galaxy Buds2 Pro suivent et éliminent plus de son extérieur que leurs prédécesseurs, même les sons légers comme le vent.
+- Design ergonomique : le design des écouteurs a été repensé pour qu’ils soient 15 % plus petits que les Galaxy Buds Pro afin qu’ils s’adaptent parfaitement à votre oreille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué à partir dun jersey doux fait de coton BCI issu de ressources durables
-- Grand logo de la marque Levis sur le devant
 - Manches courtes et col rond classique
-- Perfectionné avec une coupe droite et courte
 - Démarquez-vous avec notre t-shirt court classique
+- Perfectionné avec une coupe droite et courte
+- Grand logo de la marque Levis sur le devant
+- Fabriqué à partir dun jersey doux fait de coton BCI issu de ressources durables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

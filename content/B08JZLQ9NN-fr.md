@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- VOLEZ PLUS LOIN: OcuSync 2.0 permet de transmettre le signal vidéo à une distance de 6 km. Vous pouvez diffuser en direct avec une résolution Full HD de 1080p
 - VOLEZ PLUS LONGTEMPS: La grande capacité de la batterie permet au drone de voler durant 34 minutes. À lavant, à larrière et en bas, des capteurs détectent les obstacles pour prévenir les accidents
 - DJI CARE: DJI Care Refresh est un forfait de services complet qui vous offre 2 unités de remplacement en 1 an, vous permettant de profiter de votre produit DJI avec une quiétude partout où vous allez
-- DEVENEZ EXPERT AVEC LA PANOPLIE : De nombreux accessoires pour le Mavic Air 2 sont disponibles. Découvrez les hélices à bruit réduit, les batteries de vol intelligentes, la protection de lhélice … !
-- VOLEZ PLUS LOIN: OcuSync 2.0 permet de transmettre le signal vidéo à une distance de 6 km. Vous pouvez diffuser en direct avec une résolution Full HD de 1080p
-- PRISE CINÉMATOGRAPHIQUE: Mavic Air 2 permet de faire des hyperlapses en 8K. Créez des films fascinants en déformant le temps et lespace
-- CARACTÉRISTIQUES : Ces filtres ND sont de haute qualité. Ils permettent de contrôler au mieux louverture du diaphragme, le temps dexposition et les paramètres de sensibilité du capteur
-- PRISES DE VUE SOUS TOUS TYPES DE LUMIÈRES : Avec ces filtres, le réglage de la vitesse dobturation devient précis. Pour des prises de vue à exposition prolongée, hyperlapses, toutes photos/vidéos !
 - INCLUS : Filtre ND4 × 1, filtre ND8 × 1, filtre ND32 × 1. Compatible avec le drone Mavic Air 2
+- PRISES DE VUE SOUS TOUS TYPES DE LUMIÈRES : Avec ces filtres, le réglage de la vitesse dobturation devient précis. Pour des prises de vue à exposition prolongée, hyperlapses, toutes photos/vidéos !
+- CARACTÉRISTIQUES : Ces filtres ND sont de haute qualité. Ils permettent de contrôler au mieux louverture du diaphragme, le temps dexposition et les paramètres de sensibilité du capteur
+- PRISE CINÉMATOGRAPHIQUE: Mavic Air 2 permet de faire des hyperlapses en 8K. Créez des films fascinants en déformant le temps et lespace
+- DEVENEZ EXPERT AVEC LA PANOPLIE : De nombreux accessoires pour le Mavic Air 2 sont disponibles. Découvrez les hélices à bruit réduit, les batteries de vol intelligentes, la protection de lhélice … !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
