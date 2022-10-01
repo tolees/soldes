@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noos Pull  Rubber  M Homme'
-date: 2022-09-30 15:19:23
+date: 2022-10-01 16:08:10
 image: 'https://m.media-amazon.com/images/I/318b3VopP8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
