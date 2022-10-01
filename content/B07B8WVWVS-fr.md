@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 80 % coton, 20 % soie
-- Col poignets et ourlet côtelés
-- Coton et soie mélangés
 - Col en V
+- Coton et soie mélangés
+- Col poignets et ourlet côtelés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
