@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11019 - Briques fonctionnalités'
-date: 2022-10-03 22:38:43
+date: 2022-10-05 01:17:14
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVKVSL/?tag=tolees0d-21'
 descuento: '38.15'
-average: '21.1090909090909'
+average: '21.1321739130435'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

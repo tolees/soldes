@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de Buzz l’Éclair  Jouet de l espace avec Robot et Vaisseau Spatial  pour Enfants de 2 Ans'
-date: 2022-10-03 22:37:56
+date: 2022-10-05 01:17:28
 image: 'https://m.media-amazon.com/images/I/51Nb0o+UngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNS2MRD-fr LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de...'
 sku: 'B09BNS2MRD-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
-actualPrice: 22.08 EUR
+actualPrice: 22.99 EUR
 currency: EUR
-price: 22.08
+price: 22.99
 comparePrice: 34.99 EUR
 prodname: 'LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de Buzz l’Éclair  Jouet de l espace avec Robot et Vaisseau Spatial  pour Enfants de 2 Ans'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNS2MRD/?tag=tolees0d-21'
-descuento: '36.90'
-average: '20.9486842105264'
+descuento: '34.30'
+average: '21.0010256410257'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Includes Sox the robot cat, Ivan the computer and Eric the triangular droid to recreate endless space adventures in fascinating locations
-- The 4 friends search the cave, explore the jungle and check out the radar station to find the fuel cell and blast off in Buzz’s spaceship
-- LEGO DUPLO Disney space toy features a spaceship, Pixars Buzz Lightyear, the iconic space ranger figure, with 3 friends and fun accessories
-- LEGO DUPLO Disney building toys are designed with fascinating details & captivating colours to give your little learner a BIG start in life
-- This space & robot toy for toddlers 2 years old brings engaging narratives and diverse characters to help build key life skills
-- The cave has an open-and-shut function, the jungle area has a climbable vine, and the radar station comes with a turntable dish
+- La grotte peut souvrir et se fermer, la zone de la jungle a une liane, la station radar a une antenne tournante et le vaisseau spatial permet demmener les enfants dans des aventures imaginaires
+- Ce jouet pour enfant de 2 ans et plus constitue un excellent cadeau danniversaire ou un cadeau pour toute autre occasion
+- Comprend une figurine Buzz lÉclair LEGO DUPLO, Sox le chat robot, Ivan lordinateur, Eric le droïde triangulaire et un jouet vaisseau spatial
+- Ce jouet Buzz lÉclair est facile à construire, il comporte des briques LEGO DUPLO spécialement conçues pour les petits doigts des enfants
+- Ce jouet de construction Buzz lÉclair LEGO DUPLO pour les tout-petits de 2 ans et plus comprend 2 jouets robots, un jouet vaisseau spatial à construire et des accessoires
+- Le jeu de construction LEGO Disney comprend également des lieux comme une grotte, une jungle et une station radar avec des accessoires amusants pour un jeu créatif
+- Ce jouet éducatif sur lespace pour les tout-petits encourage lapprentissage par le biais de jeux de rôle et le développement de la motricité fine, du langage, et des compétences sociales et émotionnelles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
