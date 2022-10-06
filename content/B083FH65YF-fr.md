@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sweatshirt  Homme  SH1927  Marine  L'
-date: 2022-10-05 01:21:59
+date: 2022-10-06 02:25:20
 image: 'https://m.media-amazon.com/images/I/31u4hIQP2bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classic fit : coupe droite
-- Col montant bord-côte zippé
-- Finitions bord-côte ton sur ton bas de vêtement et poignets
-- Crocodile vert brodé poitrine
 - Interlock de coton côtelé
+- Crocodile vert brodé poitrine
+- Classic fit : coupe droite
+- Finitions bord-côte ton sur ton bas de vêtement et poignets
+- Col montant bord-côte zippé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
