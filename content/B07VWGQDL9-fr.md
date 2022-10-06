@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Perp Games - The Angry Birds Movie 2 : Under Pressure VR pour PS4'
-date: 2022-10-04 11:39:07
+date: 2022-10-06 14:12:28
 image: 'https://m.media-amazon.com/images/I/51Jjo4qw8aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
