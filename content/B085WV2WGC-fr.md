@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75318 Star Wars L’Enfant  Kit de Construction  Figurine Bébé Yoda  Décoration  Collection  Le Mandalorien  Idée Cadeau pour Enfants 10 Ans et Plus'
-date: 2022-09-23 22:51:32
+date: 2022-10-06 22:13:54
 image: 'https://m.media-amazon.com/images/I/31QCSFY7GzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lensemble comprend également un pommeau de levier de vitesse du vaisseau spatial Razor Crest - le jouet préféré de lEnfant - qui peut être placé dans sa main
-- Le modèle à collectionner et à construire de la figurine Mandalorian LEnfant ajoute une charmante touche de style Star Wars au décor de nimporte quelle maison
-- Les instructions faciles à suivre décrivent des étapes de construction multidirectionnelles, avec un cadre et des sections clippées sur le côté à laide de la technique SNOT
-- Un panneau dinformation et la Minifigurine LEGO Enfant viennent compléter un modèle de construction et dexposition saisissant pour les fans de 10 ans et plus
-- Le personnage le plus mignon de la galaxie a une tête, une bouche et des oreilles mobiles pour une gamme dexpressions adorables, ce qui lui donne vie en jouant !
-- Comprend une charmante figurine du Mandalorien LEnfant, alias Bébé Yoda, jouet à construire, tiré de Star Wars : Le Mandalorien, avec toutes ses adorables caractéristiques
+- The set also includes a gearshift knob from the Razor Crest spaceship – the Child’s favorite toy – which can be placed in its hand
+- Features a charming, brick-built toy model of The Child, aka Baby Yoda, from Star Wars: The Mandalorian, with all of its cute features
+- Easy-to-follow instructions depict multi-directional building steps, with a frame and sections clipped to the side using the SNOT technique
+- The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!
+- Alse features an information sign and the Child LEGO minifigure to complete a striking build-and-display model for 10+ years old fans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
