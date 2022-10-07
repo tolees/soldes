@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21054 Architecture La Maison Blanche  Ensemble de Construction Landmark  Modèle de Collection et d Exposition pour Adultes'
-date: 2022-09-26 06:57:41
+date: 2022-10-07 16:04:48
 image: 'https://m.media-amazon.com/images/I/51Wxge38ykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0813QBV6M-fr LEGO 21054 Architecture La Maison Blanche Ensemble de...'
 sku: 'B0813QBV6M-fr'
 tags: [ 'Boîtes empilables','Jeux de construction','Jeux et Jouets','Jeux et jouets','lego','🇫🇷', ]
-actualPrice: 79.99 EUR
+actualPrice: 74.19 EUR
 currency: EUR
-price: 79.99
+price: 74.19
 comparePrice: 99.99 EUR
 prodname: 'LEGO 21054 Architecture La Maison Blanche  Ensemble de Construction Landmark  Modèle de Collection et d Exposition pour Adultes'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6M/?tag=tolees0d-21'
-descuento: '20.00'
-average: '85.4250788091063'
+descuento: '25.80'
+average: '85.5022452504313'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,13 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set de construction pour adultes fait partie d’une collection de modèles LEGO passionnants, conçus pour les constructeurs exigeants à la recherche de nouveaux projets créatifs
-- Cette maquette de construction LEGO destiné aux adultes comprend des détails tels que la résidence exécutive, l’aile Ouest, l’aile Est et les colonnades de la Maison Blanche, mais également la Roseraie et le jardin Jacqueline Kennedy
-- Le modèle à construire LEGO Architecture La Maison Blanche (21054) à exposer reproduit magnifiquement le style néoclassique et la splendeur de ce bâtiment connu dans le monde entier pour être la résidence du Président des États-Unis depuis 1800
-- Mesurant 11 cm de haut, 47 cm de large et 20 cm de profondeur, ce modèle LEGO Architecture est une superbe pièce à exposer à la maison ou au bureau Il constitue également un magnifique cadeau à offrir à ses amis
-- Ce set de construction créatif est idéal pour tous ceux qui ont visité ou rêvent de visiter le bâtiment du 1600 Pennsylvania Avenue, Washington DC, ainsi que pour les passionnés de voyage, d’architecture, d’histoire et de design
-- Le modèle se sépare facilement en 3 parties pour observer de plus près les détails architecturaux La brique LEGO portant l’inscription « White House » (la Maison Blanche en anglais) ajoute la touche finale à cette pièce d’exposition qui ne manquera pas de faire parler d’elle
-- Pas besoin de piles – les briques LEGO sont à l’honneur dans ce modèle sophistiqué de la Maison Blanche ; les constructeurs passionnés peuvent ainsi se plonger dans une activité immersive et se sentir détendus et pleins d’énergie une fois le modèle terminé
-- Inclut des instructions de montage, pour que même les constructeurs LEGO débutants puissent créer en toute confiance, ainsi qu’un superbe livret illustré relatant l’histoire de la Maison Blanche (en anglais uniquement, d’autres langues peuvent être téléchargées sur LEGO com/architecture)
+- Les enfants peuvent combiner ce jeu avec dautres de la gamme LEGO Classic pour un plaisir encore plus riche
+- Cet ensemble de construction LEGO Classic Jeux créatifs dans l’océan est livré avec de nombreuses pièces LEGO colorées et 6 idées de modèles sur le thème de locéan pour commencer à samuser
+- Consultez les LEGO DUPLO Monstres Créatifs 11017, et les LEGO DUPLO La plaque de construction verte 10980
+- Il constitue un excellent cadeau danniversaire ou une super surprise pour les nouveaux constructeurs de LEGO et les enfants qui souhaitent élargir leur collection de briques LEGO
+- Comprend toutes les briques LEGO dont les enfants ont besoin pour construire une baleine, un hippocampe, une tortue, un sous-marin, un bateau Viking miniature et un drone sous-marin LEGO
+- Ce jeu de construction pour enfants comprend également 2 sacs de pièces LEGO pour une construction créative pour quils trouvent des moyens imaginatifs de créer leurs propres jouets LEGO
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
