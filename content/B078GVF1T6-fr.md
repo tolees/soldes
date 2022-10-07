@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Senteur Licorne
 - Shampooing sec
 - Elimine lexcès de sébum
+- Senteur Licorne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
