@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Puma Smash v2 L Baskets Mixte  Puma Noir Puma Noir  44 EU'
-date: 2022-09-26 13:30:03
+date: 2022-10-08 03:50:53
 image: 'https://m.media-amazon.com/images/I/31j4BkxgB4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.fr/dp/B077MFTZ9T/?tag=tolees0d-21'
 descuento: '43.94'
-average: '36.745'
+average: '33.83'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : noir
+- Marque : Puma
 - Référence : 365215-06-44
 - Homme > Chaussures > Sneakers
-- Marque : Puma
 
 [🛒 Achète-le!!]({{< param buyurl >}})
