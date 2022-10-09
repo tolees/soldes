@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 71763 Ninjago L’Évolution Voiture De Course de Lloyd  Jouet pour Enfants dès 6 Ans avec Figurines Quad et Serpents avec bannière de Mission à Collectionner'
-date: 2022-10-08 10:22:36
+date: 2022-10-09 16:35:45
 image: 'https://m.media-amazon.com/images/I/51iuvG6RBoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNTJMND/?tag=tolees0d-21'
 descuento: '33.64'
-average: '20.1225'
+average: '20.078'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet ensemble LEGO City Stuntz contient une piste de stunt avec un looping, un jouet de rampe, un tremplin, des accessoires et un chimpanzé cogneur, ainsi quune moto de stunt à rétro-friction
-- Comporte des accessoires amusants tels quune tribune pour les spectateurs, des flammes LEGO, des plantes, un appareil photo, un hot-dog et une crème glacée
-- Les enfants poussent le jouet de moto cross pour activer la rétro-friction, puis le lâchent pour filer dans le looping, sauter sur le tremplin et franchir le chimpanzé mécanique et son amusante fonction fracassante
-- Ce jeu de construction comprend également 3 minifigurines LEGO : le Pilote d’élite aérien Stuntz de la série City Stuntz et 2 spectateurs pour animer le spectacle
-- Cest un cadeau idéal pour les garçons et les filles de 7 ans qui aiment les jeux daction et les jouets de moto
-- Combinez cet ensemble avec dautres ensembles de la gamme LEGO City Stuntz et créez des tournois et des spectacles passionnants : L’Arène de Cascade avec Double Looping (60339) et La Moto de Cascade Baignoire (60333)
+- Il inclut le NINJAGO Lloyd armé d’une épée, Cobra mécanique assis sur un quad avec un lance-flammes, et Python dynamite avec un pistolet et un bâton de dynamite
+- Transformez le véhicule LEGO NINJAGO de base, un buggy, en une voiture rapide blindée avec des panneaux dorés, 2 fusils à tenons et des ailerons avec lames
+- Cet incroyable jouet LEGO NINJAGO pour enfants dès 6 ans permet de construire la voiture de Lloyd en 3 étapes rapide et constitue un fabuleux cadeau d’anniversaire
+- Les enfants peuvent construire la voiture de Lloyd LEGO NINJAGO en 3 étapes, en passant d’un buggy a un véhicule blindé prêt pour le combat contre les horribles guerriers serpents
+- Il inclut une voiture de course LEGO NINJAGO 3 en 1 qui peut être transformée en 3 modèles différents et 3 incroyables minifigures LEGO NINJAGO armées
+- Lorsque les enfants terminent leurs missions et battent les serpents, ils reçoivent une bannière Adaptabilité à placer sur la voiture jouet
+- Trouvez des bannières dans 7 autres sets, dont L’évolution Dragon de Tonnerre de Jay 71760, L’Évolution robot de Puissance de Zane 71761 et L’évolution Dragon de feu de Kai 71762
 
 [🛒 Achète-le!!]({{< param buyurl >}})

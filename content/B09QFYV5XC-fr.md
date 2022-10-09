@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 41708 Friends La Salle d’Arcade Roller Disco  Jouet avec Bowling à Heartlake City avec Mini-Poupées  pour Garçons et Filles de 7 Ans et Plus'
-date: 2022-10-08 10:23:10
+date: 2022-10-09 16:36:50
 image: 'https://m.media-amazon.com/images/I/51vEwIZv6EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09QFYV5XC/?tag=tolees0d-21'
 descuento: '32.74'
-average: '40.4189655172415'
+average: '40.4166666666668'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet voiture de course a un siège abaissé, et le jouet voiture Hot Rod rouge et jaune a un gros moteur pour une action de course sans fin
-- Les kits de voitures miniatures LEGO Creator offrent une infinité doptions de course et constituent dexcellents cadeaux pour les garçons et filles de 7 ans et plus qui aiment la modélisation de voitures
-- Les enfants peuvent traverser les villes avec la voiture de sport, foncer sur la piste avec la voiture de course ou construire leur propre voiture de course
-- Les voitures LEGO à construire sont dotées de détails réalistes - la voiture de sport a des tuyaux latéraux, un aileron, un compresseur et un toit amovible
-- Lensemble de construction de voitures de course LEGO Creator 3 en 1 Le Bolide de rue comprend 3 modèles en 1 : une voiture de sport, une voiture de course et un Hot Rod
-- Découvrez dautres nouveaux ensembles 3 en 1 LEGO Creator pour le mois de mars 2022 : Le Super Robot 31124, L’avion supersonique 31126 et Fabuleuses Créatures de la Forêt 31125
-- Jouez en voyage - Le Bolide de rue est dune taille compacte pour que les enfants puissent lemporter avec eux dès quils quittent la maison
+- Cette discothèque amusante est une excellente idée de cadeau pour les anniversaires, Noël ou une autre occasion, pour les enfants, garçons et filles, de 7 ans et plus qui aiment les jeux créatifs et être avec leurs amis
+- Les enfants peuvent décider où jouer, sils veulent construire la mini-poupée LEGO Friends Andrea pour quelle chante dans la discothèque, défier leurs amis au air-hockey ou faire un strike sur la piste de bowling LEGO
+- Les accessoires comprennent également un distributeur automatique de canettes, une zone avec 3 jeux darcade différents tels quune table dair-hockey, un jeu de danse et un croiseur de cabine
+- Ce set de jeu 3-en-1 souvre pour créer 3 zones différentes, une discothèque avec un plancher tournant, une piste de bowling LEGO et une zone darcade, il comprend un support de téléphone portable et 3 mini-poupées
+- Ce jeu amusant et riche en fonctionnalités peut être exposé dans la chambre dun enfant et se combine parfaitement avec les autres jouets de Heartlake City pour étendre le monde fantastique des LEGO Friends
+- En tournant la roue, les enfants peuvent faire danser les mini-poupées. Avec le téléphone portable dans le support, ils peuvent devenir de véritables DJ et choisir leurs chansons préférées
+- Lensemble comprend 3 mini-poupées LEGO Friends plus divers accessoires, notamment des patins à roulettes, des quilles de bowling, un téléphone portable, un sac de bowling, un sandwich, un microphone et un fauteuil roulant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
