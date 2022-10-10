@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les coques Slim Series garantissent la compatibilité MagSafe grâce à des aimants avec ;alignés pour que la charge sans fil soit plus rapide et plus facile que jamais Fixez et retirez en douceur les accessoires MagSafe grâce à des aimants intégrés
 - Cette coque ultra-mince facile à glisser dans une poche comprend des pare-chocs d’écran surélevés pour aider à protéger votre écran tactile
+- Les coques Slim Series garantissent la compatibilité MagSafe grâce à des aimants avec ;alignés pour que la charge sans fil soit plus rapide et plus facile que jamais Fixez et retirez en douceur les accessoires MagSafe grâce à des aimants intégrés
 - Compatible avec ;iPhone 12 / iPhone 12 Pro
 - Combinez votre coque à un protège-écran OtterBox résistant aux égratignures et durable pour une protection intégrale à 360°
 - Protégez votre smartphone avec ;la gamme Slim ultra-mince, la coque iPhone 12 / iPhone 12 Pro qui est facile à installer et offrant une protection durable contre les chutes, les chocs et les rayures
