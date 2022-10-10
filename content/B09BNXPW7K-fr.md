@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 42127 Technic La Batmobile de Batman Maquette de Voiture  Jouet de Construction pour Enfants avec Briques Lumineuses'
-date: 2022-10-09 16:36:42
+date: 2022-10-10 16:39:42
 image: 'https://m.media-amazon.com/images/I/51f5ZMnG07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNXPW7K/?tag=tolees0d-21'
 descuento: '35.09'
-average: '72.945'
+average: '71.336'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet pour enfants de 6 ans LEGO Friends comprend une boutique de mode mobile à construire, un scooter électrique pour remorquer la boutique et de nombreux accessoires amusants
-- Lensemble comprend de nombreux éléments de salon de coiffure, tels quun sèche-cheveux, des ciseaux, une brosse, du rouge à lèvres, du parfum, des accessoires de coiffure et un tabouret pour stimuler limagination des enfants
-- Les petits stylistes peuvent samuser à relooker leurs mini-poupées et vendre des accessoires de mode à tous les habitants de Heartlake City depuis le salon de beauté mobile
-- Comprend les mini-poupées LEGO Friends Stephanie et Camila, une scooter électrique détachable et un casque pour se protéger
-- En plus dun guide sur papier, cet ensemble est livré avec les Instructions PLUS sur lapplication Instructions de montage LEGO, il comprend des outils de zoom et de rotation pour aider à comprendre le processus de construction
-- Ce jouet LEGO Friends est un cadeau pour filles et garçons de 6 ans et plus qui aiment le shopping et la coiffure
+- Il comprend une maquette de voiture à construire LEGO Technic, fidèle réplique de la voiture de super-héros emblématique : la Batmobile vue dans le film de 2022
+- Les sets LEGO Technic sont parfaits pour initier les enfants au monde de l’ingénierie et constituent un cadeau d’anniversaire ou pour toute autre occasion idéal pour les enfants
+- Les enfants peuvent recréer l’icône du film grâce à ce jouet de construction LEGO Technic La Batmobile de Batman
+- Ce set LEGO mythique avec de nombreuses fonctionnalités à explorer inclut 2 briques lumineuses, un moteur à 8 cylindres avec des pistons mobiles et une flamme qui tourne
+- Les autres fonctionnalités de cette voiture Batman incluent une direction avant, un différentiel sur les roues arrière et des portières et un capot qui s’ouvrent
+- 2 briques lumineuses donnent vie au modèle : la lumière rouge ajoute une lueur sur le moteur transparent et la lumière jaune illumine la grille avant
+- Explorez toutes les fonctionnalités cette voiture jouet Batman tendance puis exposez-la pour l’admirer à votre guise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

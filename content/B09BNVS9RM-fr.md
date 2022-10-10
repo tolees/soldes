@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 42138 Technic La Ford Mustang Shelby GT500  Maquette de Voiture de Course à Construire à Rétrofriction  Jouet avec Appli RA'
-date: 2022-10-09 16:37:10
+date: 2022-10-10 16:38:43
 image: 'https://m.media-amazon.com/images/I/51R96Yeei5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVS9RM/?tag=tolees0d-21'
 descuento: '34.19'
-average: '38.892'
+average: '37.8933333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent créer des motifs à linfini sur le dessus et les côtés du couvercle, en imaginant des motifs ou en décorant avec des messages pour rendre la boîte unique
-- Cet ensemble de rangement de bureau créatif comprend une boîte de rangement personnalisable avec un couvercle noir amovible prêt à être utilisé, ainsi quune mosaïque de briques courbes et carrées de couleur fluo et pastel
-- Pour encore plus de créativité, les enfants peuvent également utiliser nimporte lequel des sachets ou boîtes LEGO DOTS supplémentaires (vendus séparément) pour sublimer leurs designs
-- Lorsque les enfants ont envie de changer de style et transformer la boîte, ils peuvent enlever les briques actuelles et recommencer une toute nouvelle création
-- Cette activité manuelle pour enfants de 6 ans constitue une superbe décoration pour la chambre des enfants, et peut être utilisée comme boîte à bijoux denfants, organisateur de bureau ou simple boîte de rangement pour stocker leurs objets
-- Surprenez les enfants de 6 ans et plus fans dart et de création avec ce cadeau personnalisable qui développe la confiance en samusant
+- Après avoir mis la voiture à l’épreuve, fixez le couvercle arrière pour créer une pièce élégante à exposer avec fierté
+- Les enfants découvriront des expériences passionnantes dans l’appli LEGO AR+ avec cette maquette de voiture à construire qui filera dans la réalité augmentée comme aucune autre !
+- Ce modèle de voiture Ford Mustang fera vivre à la maison le frisson du circuit : les enfants pourront faire filer la voiture à grande vitesse à l’aide de ses 2 moteurs à rétrofriction
+- Ce jouet de construction réaliste recrée fidèlement l’apparence emblématique de la vraie voiture de course de dragsters Ford Mustang Shelby GT500
+- Utilisez l’application LEGO Technic AR+ pour découvrir de nouveaux défis amusants à relever et explorer tous les détails de votre voiture de course LEGO
+- Téléchargez l’application LEGO AR+, scannez le modèle puis lancez la voiture en utilisant votre pied et regardez-la prendre vie dans des courses captivantes
+- Avec ses pneus larges et son aileron arrière surélevé, cette voiture de course de dragster vert et blanc constitue un cadeau d’anniversaire idéal pour les enfants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
