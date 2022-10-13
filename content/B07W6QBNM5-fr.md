@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60258 City Nitro Wheels L’Atelier de Tuning'
-date: 2022-10-03 04:10:07
+date: 2022-10-13 11:52:17
 image: 'https://m.media-amazon.com/images/I/514gEO2t-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21'
 descuento: '15.00'
-average: '81.1340893470786'
+average: '81.4091370558371'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Âge recommandé par le fabricant: 6+
 - Nombre de pièces: 897
+- Les enfants peuvent faire fonctionner le treuil à moteur, la dépanneuse et bien plus encore dans latelier de Tread
+- Âge recommandé par le fabricant: 6+
 - Les personnages de la série télévisée LEGO City et les véhicules fascinants plantent le décor pour un jeu créatif
 - L’atelier de tuning
-- Les enfants peuvent faire fonctionner le treuil à moteur, la dépanneuse et bien plus encore dans latelier de Tread
 
 [🛒 Achète-le!!]({{< param buyurl >}})
