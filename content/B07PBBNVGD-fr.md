@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis: 771.6 g
-- Fabriqué en Allemagne
 - -Lumières clignotantes et effets sonores (nécessite 1 pile 1,5V AAA non fournie) -Le toit est amovible -Les phares et le tableau de bord silluminent
 - Dimensions de lemballage de larticle ( L x B x H) en cm : 34.8 x 9.5 x 24.8
+- Fabriqué en Allemagne
+- Poids du colis: 771.6 g
 
 [🛒 Achète-le!!]({{< param buyurl >}})
