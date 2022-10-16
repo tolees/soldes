@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60329 City Une Journée d École  Jouet de Construction Bus  2 Classes et Plaques de Route  Set pour Enfants 6 Ans'
-date: 2022-10-11 00:32:21
+date: 2022-10-16 08:19:50
 image: 'https://m.media-amazon.com/images/I/51Y1xQcRG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set de construction LEGO City Adventures contient une école avec une cour et des classes, un jouet vélo, un jouet bus et un arrêt de bus
 - Le jouet bus inclut aussi une minifigure avec une chaise roulante et une minifigure de femme faisant la circulation !
-- Il inclut 7 minifigures LEGO, y compris 2 personnages de la série TV LEGO City, Billy et Maddy, ainsi qu’une figurine d’écureuil, une guitare, une batterie et un micro
 - L’école a 2 classes qui regorgent d’équipement pour inspirer des heures de jeu, y compris un bec Bunsen, un squelette, des bureaux et un tableau noir
+- Il inclut 7 minifigures LEGO, y compris 2 personnages de la série TV LEGO City, Billy et Maddy, ainsi qu’une figurine d’écureuil, une guitare, une batterie et un micro
+- Ce set de construction LEGO City Adventures contient une école avec une cour et des classes, un jouet vélo, un jouet bus et un arrêt de bus
 - Les plaques de route LEGO avec des feux de signalisation, un passage piéton et une piste cyclable permettent de connecter cet ensemble à d’autres sets LEGO pour agrandir la ville
 
 [🛒 Achète-le!!]({{< param buyurl >}})
