@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GPU Tweak II : réglages intuitifs des performances, contrôle des températures et suivi de l’état du système"
 - Double roulement à billes : durée de vie multipliée par deux en comparaison avec les rouleurs à palier lisse
-- Plaque arrière avec aérations : empêche l’air chaud de continuer à circuler dans la zone de refroidissement
-- MaxContact : un dissipateur de chaleur avec surface ultra-lisse pour améliorer les transferts de thermiques
-- Durabilité : structure renforcée en aluminium et protection arrière en métal
 - Ventilateurs axiaux : design optimisé, plus de pales et nouveau schéma de rotation
+- Durabilité : structure renforcée en aluminium et protection arrière en métal
+- GPU Tweak II : réglages intuitifs des performances, contrôle des températures et suivi de l’état du système"
+- MaxContact : un dissipateur de chaleur avec surface ultra-lisse pour améliorer les transferts de thermiques
+- Plaque arrière avec aérations : empêche l’air chaud de continuer à circuler dans la zone de refroidissement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
