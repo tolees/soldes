@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 42138 Technic La Ford Mustang Shelby GT500  Maquette de Voiture de Course à Construire à Rétrofriction  Jouet avec Appli RA'
-date: 2022-10-16 08:20:26
+date: 2022-10-18 14:28:31
 image: 'https://m.media-amazon.com/images/I/51R96Yeei5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVS9RM/?tag=tolees0d-21'
 descuento: '34.19'
-average: '35.896'
+average: '35.3966666666667'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Après avoir mis la voiture à l’épreuve, fixez le couvercle arrière pour créer une pièce élégante à exposer avec fierté
+- Les enfants découvriront des expériences passionnantes dans l’appli LEGO AR+ avec cette maquette de voiture à construire qui filera dans la réalité augmentée comme aucune autre !
+- Avec ses pneus larges et son aileron arrière surélevé, cette voiture de course de dragster vert et blanc constitue un cadeau d’anniversaire idéal pour les enfants
+- Utilisez l’application LEGO Technic AR+ pour découvrir de nouveaux défis amusants à relever et explorer tous les détails de votre voiture de course LEGO
 - Ce jouet de construction réaliste recrée fidèlement l’apparence emblématique de la vraie voiture de course de dragsters Ford Mustang Shelby GT500
 - Téléchargez l’application LEGO AR+, scannez le modèle puis lancez la voiture en utilisant votre pied et regardez-la prendre vie dans des courses captivantes
 - Ce modèle de voiture Ford Mustang fera vivre à la maison le frisson du circuit : les enfants pourront faire filer la voiture à grande vitesse à l’aide de ses 2 moteurs à rétrofriction
-- Utilisez l’application LEGO Technic AR+ pour découvrir de nouveaux défis amusants à relever et explorer tous les détails de votre voiture de course LEGO
-- Avec ses pneus larges et son aileron arrière surélevé, cette voiture de course de dragster vert et blanc constitue un cadeau d’anniversaire idéal pour les enfants
-- Les enfants découvriront des expériences passionnantes dans l’appli LEGO AR+ avec cette maquette de voiture à construire qui filera dans la réalité augmentée comme aucune autre !
+- Après avoir mis la voiture à l’épreuve, fixez le couvercle arrière pour créer une pièce élégante à exposer avec fierté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
