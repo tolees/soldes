@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5 ports Gigabit Ethernet
 - Garantie matérielle de 3 ans leader du marché
-- Le logiciel PLUS doté dune interface facile à utiliser offre des fonctions dadministration de base pour configurer, sécuriser et surveiller votre réseau
 - Peut se positionner sur un bureau ou au mur
 - Conception écoénergétique conforme à la norme IEEE802.3az
+- 5 ports Gigabit Ethernet
+- Le logiciel PLUS doté dune interface facile à utiliser offre des fonctions dadministration de base pour configurer, sécuriser et surveiller votre réseau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
