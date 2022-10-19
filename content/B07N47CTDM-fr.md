@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vans
+- Flying V Ls Raglan
 - VN0A3Z79YB21
 - 2019
 - femme
-- Flying V Ls Raglan
+- Vans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

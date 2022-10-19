@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Si installé en entrée de réseau, le pacer après le réducteur de pression - Pression max dutilisation : 4 barss
-- Porte-filtre simple (vendu sans cartouche) est un système multisolutions acceptant tous types de cartouches (hauteur 9" 3/4) pour un montage en série - Selon lapplication, ce système double filtre peut être équipé de : d’une cartouche filtrante pour filtrer l’eau ; d’une cartouche de charbon actif pour retirer le goût et l’odeur de l’eau ; d’une cartouche de polyphosphate ou de silicophosphate pour protéger les installations contre la formation de tartre et/ou de la corrosion.
 - A installer sous un évier ou en entrée d’installation - Au choix, il peut accueillir : une cartouche de filtration (20 microns, 5 microns) pour éliminer les éléments en suspension présents dans leau ; une cartouche pour améliorer la qualité de leau de consommation (traitement contre le calcaire, la corrosion, les mauvaises odeurs, les nitrates, les pesticides, les métaux lourds, ...)
-- La clé de déserrage permet uniquement le démontage du porte-filtre ; son serrage seffectue exclusivement à la main
+- Si installé en entrée de réseau, le pacer après le réducteur de pression - Pression max dutilisation : 4 barss
 - Compatible avec des cartouches de 68mm de diamètre - Accepte les cartouches de hauteur 9" 3/4
+- La clé de déserrage permet uniquement le démontage du porte-filtre ; son serrage seffectue exclusivement à la main
+- Porte-filtre simple (vendu sans cartouche) est un système multisolutions acceptant tous types de cartouches (hauteur 9" 3/4) pour un montage en série - Selon lapplication, ce système double filtre peut être équipé de : d’une cartouche filtrante pour filtrer l’eau ; d’une cartouche de charbon actif pour retirer le goût et l’odeur de l’eau ; d’une cartouche de polyphosphate ou de silicophosphate pour protéger les installations contre la formation de tartre et/ou de la corrosion.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
