@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SABLIER DES DRAGONS DE LA PORTE DE LA MORT comprend quatre dragons intrépides qui montent la garde alors que les grains de noir débène passent en silence à travers le sablier vers la mort.
-- TRAVAIL DÉCORATIF DART GOTHIQUE se vide en 5 minutes, mais ne placez pas cette statue aux restrictions du temps de Greenwich !
 - CHAQUE DRAGON EST MOULÉ EN RÉSINE DESIGNER DE QUALITÉ ancre la minuterie en verre transparent qui retient le sable.
 - DISPONIBLES UNIQUEMENT CHEZ DESIGN TOSCANO, ces figurines fantastiques qui décomptent lheure garderont les visiteurs à laffût à votre bureau et feront un cadeau créatif
+- TRAVAIL DÉCORATIF DART GOTHIQUE se vide en 5 minutes, mais ne placez pas cette statue aux restrictions du temps de Greenwich !
 - Nos statues de dragon gothique mesurent 11,5 x 6,5 x 15 cm 0,5 kg.
+- SABLIER DES DRAGONS DE LA PORTE DE LA MORT comprend quatre dragons intrépides qui montent la garde alors que les grains de noir débène passent en silence à travers le sablier vers la mort.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

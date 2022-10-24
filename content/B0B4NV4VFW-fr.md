@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une histoire originale sur lobsession, la manipulation et la folie, librement inspirée du chef-dœuvre Vertigo dAlfred Hitchcock.
-- Enquêtez à travers les yeux de trois personnages : chacun a une histoire différente à raconter.
 - Vivez une expérience narrative rendant hommage aux techniques visuelles et narratives du genre thriller.
+- Enquêtez à travers les yeux de trois personnages : chacun a une histoire différente à raconter.
 - Explorez plusieurs chronologies pour recouper les événements et distinguer la réalité des souvenirs trompeurs.
+- Une histoire originale sur lobsession, la manipulation et la folie, librement inspirée du chef-dœuvre Vertigo dAlfred Hitchcock.
 - Développé par le très récompensé studio de jeux daventure Pendulo Studios (Yesterday, Runaway, Blacksad…)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
