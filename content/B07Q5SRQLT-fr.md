@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD BLACK Disque dur interne 3 5   haute performance 6 To - Classe 7200 RPM  SATA 6 Gb/s  cache de 256 Mo'
-date: 2022-10-16 20:19:17
+date: 2022-10-24 22:41:43
 image: 'https://m.media-amazon.com/images/I/41zghd1y7ZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.fr/dp/B07Q5SRQLT/?tag=tolees0d-21'
 descuento: '21.01'
-average: '263.995'
+average: '253.663333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité massive allant jusquà 6 To
-- Des performances maximales pour les applications exigeantes
 - Une fiabilité élevée et une technologie de pointe
+- Capacité massive allant jusquà 6 To
 - Logiciel de clonage Acronis True Image WD Edition gratuit
+- Des performances maximales pour les applications exigeantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
