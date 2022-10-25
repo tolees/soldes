@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très fin, le facteur de forme M.2 2280 est idéal pour les ordinateurs dotés dun emplacement NVMe
-- Les disques SSD offrent une résistance contre les chocs et chutes accidentels
-- Bénéficiez dune totale tranquillité desprit avec une garantie limitée Western Digital de 3 ans
-- Des performances NVMe rapides pour répondre aux besoins informatiques du quotidien, jusquà 2 400 Mo/s
 - Le tableau de bord pour SSD Western Digital téléchargeable surveille létat et lutilisation de votre disque
+- Bénéficiez dune totale tranquillité desprit avec une garantie limitée Western Digital de 3 ans
+- Les disques SSD offrent une résistance contre les chocs et chutes accidentels
+- Très fin, le facteur de forme M.2 2280 est idéal pour les ordinateurs dotés dun emplacement NVMe
+- Des performances NVMe rapides pour répondre aux besoins informatiques du quotidien, jusquà 2 400 Mo/s
 
 [🛒 Achète-le!!]({{< param buyurl >}})
