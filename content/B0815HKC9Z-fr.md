@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les cartes de sorts de Harry Potter ajoutent du plaisir et de lexcitation à un jeu classique; en outre, le plateau dispose dun dé pop-up
-- Courez à travers le labyrinthe pour obtenir la coupe du tournoi des trois mages
 - En outre, dans ce parchis, tout ne dépend pas du nombre qui vous sort dans le dé, les cartes de sorts magiques peuvent vous amener à la victoire ou vous pouvez vous faire perdre
+- Courez à travers le labyrinthe pour obtenir la coupe du tournoi des trois mages
 - Mais faites attention car si vous tombez dans un espace daction, vous devez prendre une carte de sort magique, qui vous aidera à aller plus vite ou vous pouvez lenvoyer de retour au départ
 
 [🛒 Achète-le!!]({{< param buyurl >}})
