@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trois ventilateurs LL120 RVB inclus : illuminez votre système avec un total de 48 LED RVB personnalisables
 - Trois fenêtres en verre trempé transparentes : la face avant, le dessus et le côté amovible offrent une vue époustouflante des composants de votre PC
 - Contrôle intelligent, possibilités illimitées : le CORSAIR Lighting Node PRO inclus transforme votre 680X RGB en boîtier intelligent grâce au logiciel CORSAIR iCUE de votre 680X RGB grâce à un contrôle dynamique de léclairage RVB avec iCUE
 - Disposition à deux chambres : le design distinctif à deux chambres facilite linstallation de votre système, tout en permettant de disposer de câbles disgracieux de manière ordonnée et cachée
+- Trois ventilateurs LL120 RVB inclus : illuminez votre système avec un total de 48 LED RVB personnalisables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
