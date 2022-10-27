@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Eslabones 9 mm, avec fermeture autobloquant et tendeur caoutchouc
-- Contient jgo 2 unités, gants, kit de eslabones pour réparation
 - Traitement zinc
+- Contient jgo 2 unités, gants, kit de eslabones pour réparation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
