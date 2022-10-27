@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41703 Friends La Cabane de l’Amitié dans l’Arbre  Jouet Maison  Set avec Mini-Poupées Mia  avec Toboggan et Balançoire  Idée Cadeau Filles et Garçons'
-date: 2022-10-25 17:35:52
+date: 2022-10-27 00:42:54
 image: 'https://m.media-amazon.com/images/I/512TOpFaLHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNTMYR8/?tag=tolees0d-21'
 descuento: '37.62'
-average: '54.3872727272727'
+average: '54.0133333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
