@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Lego 71765 Ninjago Le Robot Ultra Combo Ninja 4 en 1  Jouet Voiture  Jet  Tank et 7 Minifigures pour Enfants +9 Ans avec bannière de Mission à Collectionner'
-date: 2022-10-19 14:52:39
+title: 'LEGO 71765 Ninjago Le Robot Ultra Combo Ninja 4-en-1  Jouet Voiture et 7 Minifigurines  Bannière de Mission à Collectionner  Idée Cadeau Enfants 9 Ans'
+date: 2022-10-29 10:46:44
 image: 'https://m.media-amazon.com/images/I/51OyeBh5kUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09BP6XRMC-fr Lego 71765 Ninjago Le Robot Ultra Combo Ninja 4 en 1 Jouet...'
+slug: 'B09BP6XRMC-fr LEGO 71765 Ninjago Le Robot Ultra Combo Ninja 4-en-1 Jouet...'
 sku: 'B09BP6XRMC-fr'
 tags: [ 'Figurines-jouet de construction','Jeux de construction','Jeux et Jouets','Jeux et jouets','lego','🇫🇷', ]
-actualPrice: 62.9 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 62.9
+price: 59.99
 comparePrice: 99.99 EUR
-prodname: 'Lego 71765 Ninjago Le Robot Ultra Combo Ninja 4 en 1  Jouet Voiture  Jet  Tank et 7 Minifigures pour Enfants +9 Ans avec bannière de Mission à Collectionner'
+prodname: 'LEGO 71765 Ninjago Le Robot Ultra Combo Ninja 4-en-1  Jouet Voiture et 7 Minifigurines  Bannière de Mission à Collectionner  Idée Cadeau Enfants 9 Ans'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BP6XRMC/?tag=tolees0d-21'
-descuento: '37.09'
-average: '63.8975'
+descuento: '40.00'
+average: '63.4633333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le robot ultra combo ninja, composé de 4 véhicules différents, constitue l’arme de combat ultime pour rejouer des aventures de ninjas qui mettent en scène les héros des enfants
-- Les jouets et figurines set de voitures LEGO NINJAGO constituent un fabuleux cadeau d’anniversaire pour les enfants dès 9 ans fans de batailles ninja et de véhicules
-- Vous trouverez des bannières dans 7 autres sets, y compris Le dragon légendaire de Lloyd 71766, L’évolution Voiture de course de Jay et Nya 71776 et le Temple dojo ninja 71767
-- Ce set de véhicules LEGO NINJAGO 4 en 1 inclut une figurine LEGO composée d’un robot, d’une voiture, d’un tank et d’un jet avec lesquels il est possible de jouer séparément
-- Il comprend 7 minifigures LEGO NINJAGO : Kai, Jay, Zane et Cole, le duo de serpents guerriers Cobra mécanique et Boa destructeur, ainsi que Wu Bot
-- Seuls, les ninjas ne peuvent pas combattre Cobra mécanique et Boa destructeur, mais en faisant équipe, ils le dominent et réussissent à l’emporter !
-- Après avoir terminé la mission, les enfants recevront la bannière de Travail d’équipe en récompense
+- Le jeu de construction contient également de nombreuses briques LEGO supplémentaires pour construire des créations uniques, ce qui permet aux enfants de développer leur imaginaire et leur capacité à résoudre des problèmes pendant quils construisent
+- Recréez les jouets LEGO Classic emblématiques de toutes les années, notamment le canard de 1932, le secret du sphinx de 1998, le LEGO BIONICLE Tahu de 2001 et le LEGO NINJAGO Golden Dragon de 2013
+- Cet ensemble de briques LEGO Classic célèbre 90 ans de plaisir de construction LEGO et comprend un arc-en-ciel de briques pour construire 15 mini-constructions des ensembles LEGO les plus populaires au fil des années
+- Chacune des 15 mini-constructions est accompagnée dun guide de construction étape par étape, afin que même les constructeurs débutants puissent profiter de leur expérience de construction avec leur boîte LEGO Classic
+- Cette boîte de 1 100 pièces LEGO Classic contient toutes les pièces nécessaires pour construire le jouet château fort, lemblématique jouet de train, léléphant et plus encore !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
