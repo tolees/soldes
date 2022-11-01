@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double connectivité via la technologie de jeu 2,4 GHz et le Bluetooth 5.0 polyvalent
-- AquaBarrier pour la résistance à l’eau, la protection contre la poussière et plus encore.
 - Patins de glisse en PTFE de qualité vierge à 100 % pour des mouvements de souris d’une douceur soyeuse
 - Capteur optique de jeu TrueMove Air à la précision au pixel près
-- Autonomie optimisée de 200 heures et recharge rapide via USB-C
-- Conception ultra légère de 68 g pour un gameplay rapide et sans effort
+- AquaBarrier pour la résistance à l’eau, la protection contre la poussière et plus encore.
 - Taux dinterrogation : 1000 Hz / 1 ms
+- Autonomie optimisée de 200 heures et recharge rapide via USB-C
+- Double connectivité via la technologie de jeu 2,4 GHz et le Bluetooth 5.0 polyvalent
+- Conception ultra légère de 68 g pour un gameplay rapide et sans effort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
