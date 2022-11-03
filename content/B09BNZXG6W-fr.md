@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Clear, illustrated building instructions are included so even LEGO beginners can build this LEGO Star Wars building toy with confidence
-- Includes a LEGO The Mandalorian minifigure with jet pack and darksaber accessories, Peli Motto minifigure with a wrench and a BD Droid figure
-- With this LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set, youngsters can relive The Book of Boba Fett stories on Tatooine
-- The LEGO Mandalorian buildable toy features a minifigure cockpit, cargo compartment and a spring loaded shooter to protect the crew
-- This LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set makes a great Christmas gift for 9 plus year old boys and girls
 - Kids can place the included Baby Yoda LEGO figure in the starfighters passenger space to experience epic The Book of Boba Fett adventures
+- The LEGO Mandalorian buildable toy features a minifigure cockpit, cargo compartment and a spring loaded shooter to protect the crew
+- With this LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set, youngsters can relive The Book of Boba Fett stories on Tatooine
+- Includes a LEGO The Mandalorian minifigure with jet pack and darksaber accessories, Peli Motto minifigure with a wrench and a BD Droid figure
+- This LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set makes a great Christmas gift for 9 plus year old boys and girls
+- Clear, illustrated building instructions are included so even LEGO beginners can build this LEGO Star Wars building toy with confidence
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

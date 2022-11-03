@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les enfants découvriront des expériences passionnantes dans l’appli LEGO AR+ avec cette maquette de voiture à construire qui filera dans la réalité augmentée comme aucune autre !
 - Ce jouet de construction réaliste recrée fidèlement l’apparence emblématique de la vraie voiture de course de dragsters Ford Mustang Shelby GT500
 - Ce modèle de voiture Ford Mustang fera vivre à la maison le frisson du circuit : les enfants pourront faire filer la voiture à grande vitesse à l’aide de ses 2 moteurs à rétrofriction
-- Les enfants découvriront des expériences passionnantes dans l’appli LEGO AR+ avec cette maquette de voiture à construire qui filera dans la réalité augmentée comme aucune autre !
 - Téléchargez l’application LEGO AR+, scannez le modèle puis lancez la voiture en utilisant votre pied et regardez-la prendre vie dans des courses captivantes
 - Utilisez l’application LEGO Technic AR+ pour découvrir de nouveaux défis amusants à relever et explorer tous les détails de votre voiture de course LEGO
 
