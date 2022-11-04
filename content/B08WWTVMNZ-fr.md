@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un cadeau de Noël ou danniversaire idéal pour les adultes et enfants âgés de plus de 12 ans qui fournira une expérience de construction stimulante pour les fans de LEGO
 - Ce camion télécomandé Mercedes LEGO fonctionne avec un centre Bluetooth, 3 grands moteurs et 1 moteur moyen
+- Il inclut des autocollants sur le thème des courses, 2 extincteurs et des drapeaux pour créer une course dobstacles testant les compétences du camion sur différents terrains
 - Cette maquette de camion télécommandées comprend un moteur détaillé avec un ventilateur de radiateur qui tourne, des suspensions sur les 4 roues qui fonctionnent et une boîte à vitesses détaillée
 - Le Camion d’essai 4x4 Mercedes-Benz Zetros fait partie de la série des camions télécommandées contrôlées par application et est rempli de détails authentiques
-- 6 piles AA sont nécessaires (non incluses). Le boîtier des piles se déconnecte facilement pour permettre de les remplacer en toute simplicité
-- Un cadeau de Noël ou danniversaire idéal pour les adultes et enfants âgés de plus de 12 ans qui fournira une expérience de construction stimulante pour les fans de LEGO
-- Il inclut des autocollants sur le thème des courses, 2 extincteurs et des drapeaux pour créer une course dobstacles testant les compétences du camion sur différents terrains
 - C’est une première pour un modèle LEGO Technic, il est doté d’un système de verrouillage du différentiel contrôlé via lapplication LEGO gratuite pour les terrains difficiles
+- 6 piles AA sont nécessaires (non incluses). Le boîtier des piles se déconnecte facilement pour permettre de les remplacer en toute simplicité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
