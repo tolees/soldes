@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Zinc treatment
-- Chain 9 mm, closure with autoblocante and rubber tensioners
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Chain 9 mm, closure with autoblocante and rubber tensioners
 
 [🛒 Achète-le!!]({{< param buyurl >}})

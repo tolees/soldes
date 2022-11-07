@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce camion LEGO Technic permet aux jeunes constructeurs LEGO de découvrir les bases de lingénierie.
-- Le pont sabaisse, la voiture monte, le système de blocage sactive pour le transport – et cest parti !
-- La voiture bleue mesure plus de 8 cm de haut, 27 cm de long et 12 cm de large.
-- Le transporteur de voitures inclut des ponts et une rampe arrière réglables pour charger et décharger les véhicules, un dispositif de blocage pour sécuriser les véhicules pendant le transport et une cabine basculante qui révèle un moteur V6 détaillé avec pistons mobiles.
-- Le transporteur de voitures affiche des coloris rouge, gris et noir classiques rehaussés dautocollants.
 - Les détails et fonctions réalistes garantissent des heures de jeu et de découverte.
-- Le camion avec les voitures de spectacle LEGO Technic mesure plus de 14 cm de haut, 87 cm de long et 15 cm de large.
-- Le transporteur de voitures mesure plus de 22 cm de haut, 86 cm de long et 13 cm de large.
-- Léchelle du transporteur de voitures est compatible avec la Corvette Chevrolet ZR1 LEGO Technic 42093, pour des possibilités de jeu étendues.
 - Comprend également une voiture bleue avec direction fonctionnelle et moteur V8 détaillé.
+- La voiture bleue mesure plus de 8 cm de haut, 27 cm de long et 12 cm de large.
+- Ce camion LEGO Technic permet aux jeunes constructeurs LEGO de découvrir les bases de lingénierie.
+- Léchelle du transporteur de voitures est compatible avec la Corvette Chevrolet ZR1 LEGO Technic 42093, pour des possibilités de jeu étendues.
+- Le pont sabaisse, la voiture monte, le système de blocage sactive pour le transport – et cest parti !
+- Le transporteur de voitures affiche des coloris rouge, gris et noir classiques rehaussés dautocollants.
+- Le transporteur de voitures mesure plus de 22 cm de haut, 86 cm de long et 13 cm de large.
+- Le transporteur de voitures inclut des ponts et une rampe arrière réglables pour charger et décharger les véhicules, un dispositif de blocage pour sécuriser les véhicules pendant le transport et une cabine basculante qui révèle un moteur V6 détaillé avec pistons mobiles.
+- Le camion avec les voitures de spectacle LEGO Technic mesure plus de 14 cm de haut, 87 cm de long et 15 cm de large.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
