@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants 9 Ans'
-date: 2022-11-06 19:11:24
+date: 2022-11-07 20:08:58
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combinez-les avec la Grande salle de Poudlard 75954, le saule fouisseur de Poudlard 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard !
-- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
-- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
-- Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
-- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
+- Build the intricate multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the movies
+- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
+- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical addition to birthday or Christmas gifts for 9 plus year old girls and boys
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
