@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60315 City Le Camion de Commandement Mobile de la Police  Jouet de Remorque avec Tracteur  Figurines Policiers  Idée Cadeau Enfants Dès 6 Ans'
-date: 2022-10-31 12:06:27
+date: 2022-11-08 07:27:09
 image: 'https://m.media-amazon.com/images/I/51rhtNU4VWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVM6JF-fr LEGO 60315 City Le Camion de Commandement Mobile de la...'
 sku: 'B09BNVM6JF-fr'
 tags: [ 'Coffrets de véhicules pour enfants','Coffrets de véhicules à moteur pour enfants','Jeux et Jouets','Jeux et jouets','Véhicules pour enfants','lego','🇫🇷', ]
-actualPrice: 29.35 EUR
+actualPrice: 28.58 EUR
 currency: EUR
-price: 29.35
+price: 28.58
 comparePrice: 44.99 EUR
 prodname: 'LEGO 60315 City Le Camion de Commandement Mobile de la Police  Jouet de Remorque avec Tracteur  Figurines Policiers  Idée Cadeau Enfants Dès 6 Ans'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVM6JF/?tag=tolees0d-21'
-descuento: '34.76'
-average: '28.99'
+descuento: '36.47'
+average: '28.9858333333334'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce set de police LEGO inclut 3 personnages de la série LEGO City : Duke DeTain, Gracie Goodhart et Snake Rattler, ainsi qu’une minifigurine de bandit
 - Ce camion jouet permet d’imaginer des histoires amusantes, comme lorsqu’un œuf recouvre le pare-brise alors que le mur est arraché de la prison mobile
 - Les enfants peuvent lancer des éléments d’œufs à partir de la remorque du tracteur, activer la fonction d’évasion de prison et faire pencher le quad pour le diriger
-- Il regorge d’accessoires amusants stimulant le jeu d’imagination, y compris un drone jouet télécommandé, des menottes et des éléments d’œufs
-- Ce set de police LEGO inclut 3 personnages de la série LEGO City : Duke DeTain, Gracie Goodhart et Snake Rattler, ainsi qu’une minifigurine de bandit
 - Il comprend un jouet camion de police avec un policier et une cellule de prison sur la remorque, un drone jouet, un quad et un tracteur jouet avec un lanceur d’œufs sur la remorque
+- Il regorge d’accessoires amusants stimulant le jeu d’imagination, y compris un drone jouet télécommandé, des menottes et des éléments d’œufs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
