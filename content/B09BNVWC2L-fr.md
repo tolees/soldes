@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60348 City Le Véhicule D’Exploration Lunaire  Découvrir l espace Jouets  Inspiré de la NASA  Enfants de 6 Ans et Plus  3 Minifigurines Astronautes'
-date: 2022-11-08 07:27:08
+date: 2022-11-09 07:36:19
 image: 'https://m.media-amazon.com/images/I/512xSEgdMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNVWC2L/?tag=tolees0d-21'
 descuento: '38.15'
-average: '21.4341176470588'
+average: '21.4455555555555'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une fois construit, le modèle de rover lunaire LEGO est suffisamment compact pour que les enfants puissent lemporter partout où ils saventurent
-- Comprend un guide de construction illustré imprimé et des instructions de construction numériques, disponibles dans lapplication gratuite Instructions de montage Lego
 - Ce jouet de rover lunaire est livré avec des accessoires amusants pour créer un jeu imaginatif, y compris une scie, une pelle, un scanner pour les surfaces de planètes et des casques
 - Comprend un modèle de rover spatial inspiré de LEGO NASA, un décor dimpact de météorite et 3 minifigures LEGO astronautes
 - Ce buggy lunaire LEGO est équipé de 12 roues pour une direction omnidirectionnelle, plus de nombreuses fonctions basées sur celles dun vrai rover lunaire
+- Comprend un guide de construction illustré imprimé et des instructions de construction numériques, disponibles dans lapplication gratuite Instructions de montage Lego
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
