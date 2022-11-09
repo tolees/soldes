@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - S Pen intégré Pour écrire vos plus belles histoires
-- Plus de détail dans la distance Avec zoom optique 10x et Space Zoom 100x
 - Nouveau mode nuit Pour voir dans la pénombre avec des photos & vidéos plus claires en basse lumière
+- Plus de détail dans la distance Avec zoom optique 10x et Space Zoom 100x
 - Capteur principal de 108MP Pour des photos & vidéos à couper le souffle
 - Un écosystème riche Avec des interactions ultra fluides entre vos tous appareils Galaxy
 
