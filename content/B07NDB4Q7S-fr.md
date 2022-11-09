@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Faucon Millenium Maquette à Construire et Figurines Finn  Chewbacca  Lando  C-3PO  R2-D2  Collection de L Ascension de Skywalker'
-date: 2022-11-07 20:26:07
+date: 2022-11-09 03:09:04
 image: 'https://m.media-amazon.com/images/I/51phuzu1hyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les détails intérieurs comprennent une zone de chargement avec 2 conteneurs, un ordinateur de navigation avec une chaise rotative, un compartiment de contrebande caché et une hyperpropulsion
-- Ce vaisseau LEGO Star Wars corellien comprend également un canapé et une table hologame Dejarik, une cuisine, une couchette et les outils de réparation de lhyperdrive
-- Comprend une tourelle à canon rotative en haut et en bas (celle du bas peut accueillir 2 minifigurines), 2 lanceurs à ressort, une rampe dabaissement et un cockpit qui souvre
-- Avec 1 351 pièces, ce super kit de construction Star Wars LEGO renferme tellement de détails sous sa forme de plus de 14 cm de haut, 44 cm de long et 32 cm de large
-- Fourni avec 7 minifigurines : Chewbacca, Finn, Lando Calrissian, C-3PO et Boolio, plus les figurines R2-D2 et D-O LEGO
+- With 1,351 pieces, this cool LEGO building toy packs so much detail into its over 5” (14cm) high, 17” (44cm) long and 12” (32cm) wide form.
+- This Corellian freighter model also includes a couch and Dejarik hologame table, galley, bunk, and the hyperdrives repair tools
+- Comes with 7 characters: Finn, Chewbacca, Lando Calrissian, C-3PO and Boolio minifigures, plus fan-favorite D-O and R2-D2 LEGO figures.
+- Interior details include a cargo area with 2 containers, navigation computer with rotating chair, hidden smuggling compartment and a hyperdrive
+- Features a rotating topbottom gun turrets (bottom one fits 2 minifigures), 2 spring-loaded shooters, a lowering ramp and an opening cockpit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
