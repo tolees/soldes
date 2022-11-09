@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Memory Speed 14 Gbps
+- Interface PCI Express Gen 4
 - Cores 5888 Units
 - Core Clocks 1755 MHz
 - RTX 3070 VENTUS 3X 8G OC LHR
-- Interface PCI Express Gen 4
+- Memory Speed 14 Gbps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

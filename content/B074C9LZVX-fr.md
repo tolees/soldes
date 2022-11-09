@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Touches G programmables – Six touches G programmables offrent des séquences macros personnalisées et des commandes intégrées à lapplication à portée de main. Personnalisez des profils de touches G individuels pour chaque application
-- Multi-utilisateurs 2,4 GHz + Bluetooth – Connectez-vous à plusieurs dispositifs via la technologie LIGHTSPEED pour un taux de rapport extrêmement rapide dune milliseconde, ou via Bluetooth pour plus de flexibilité
-- Romer-G – Les switchs mécaniques Romer-G offrent des performances mécaniques précises et silencieuses et peuvent endurer 70 millions de frappes pour une sensation et une durabilité incroyables
 - LIGHTSPEED – Découvrez la technologie sans fil LIGHTSPEED et bénéficiez dun taux de rapport extrêmement rapide dune milliseconde
+- Romer-G – Les switchs mécaniques Romer-G offrent des performances mécaniques précises et silencieuses et peuvent endurer 70 millions de frappes pour une sensation et une durabilité incroyables
+- Multi-utilisateurs 2,4 GHz + Bluetooth – Connectez-vous à plusieurs dispositifs via la technologie LIGHTSPEED pour un taux de rapport extrêmement rapide dune milliseconde, ou via Bluetooth pour plus de flexibilité
+- Touches G programmables – Six touches G programmables offrent des séquences macros personnalisées et des commandes intégrées à lapplication à portée de main. Personnalisez des profils de touches G individuels pour chaque application
 
 [🛒 Achète-le!!]({{< param buyurl >}})
