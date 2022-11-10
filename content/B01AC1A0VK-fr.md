@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 41130 - Les Montagnes Russes du Parc d Attractions'
-date: 2022-11-09 02:55:59
+date: 2022-11-10 03:13:42
 image: 'https://m.media-amazon.com/images/I/61MZAwqpRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B01AC1A0VK/?tag=tolees0d-21'
 descuento: '20.27'
-average: '246.57564516129'
+average: '246.18696'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fais un tour dans les montagnes russes avec une lumière qui fonctionne, ou dans la grande roue, ou tombe depuis les hauteurs vertigineuses de la tour qui chute. Inclut 4 mini-poupées.
+- Fais un tour dans les montagnes russes avec une lumière qui fonctionne, ou dans la grande roue, ou tombe depuis les hauteurs vertigineuses de la tour qui chute. Inclut 4 mini-poupées.
 - Amuse-toi sur tous les manèges au parc dattractions !
-- Fais un tour dans les montagnes russes avec une lumière qui fonctionne, ou dans la grande roue, ou tombe depuis les hauteurs vertigineuses de la tour qui chute. Inclut 4 mini-poupées.
-- Fais un tour dans les montagnes russes avec une lumière qui fonctionne, ou dans la grande roue, ou tombe depuis les hauteurs vertigineuses de la tour qui chute. Inclut 4 mini-poupées.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
