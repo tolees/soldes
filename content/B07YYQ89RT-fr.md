@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Fast & Furious La Dodge Charger de Dom  Modèle Réduit de Voiture de Couse à Construire  Idée de Cadeau'
-date: 2022-11-10 03:31:56
+date: 2022-11-16 01:45:01
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez le moteur V8 et les réserves de nitro Si les choses se gâtent, il y a un extincteur dans le cockpit
-- Cette maquette de voiture à construire constitue une idée de cadeau idéale pour tout fan de Fast & Furious ou de voiture ; sa taille est parfaite pour être exposée
-- Reproduisez les cascades de Dominic Toretto dans les films Fast and Furious puis exposez la voiture de course LEGO dans sa position en roues arrière
-- La voiture de course LEGO La Dodge Charger de Dom est une superbe réplique de la muscle car classique, inspirée par la Dodge Charger R/T 1970 originale
-- Les détails de ce set LEGO Technic permettent de recréer les sensations de l’original avec les pistons mobiles, la suspension, le système de direction et la ventilation
+- Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger RT
+- Makes the ideal gift for any car or Fast & Furious enthusiast; perfectly sized to create an awesome display piece to show off
+- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
+- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
 
 [🛒 Achète-le!!]({{< param buyurl >}})
