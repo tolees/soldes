@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Partez pour une aventure inoubliable lors de laquelle la frontière entre film d’animation et jeu vidéo est de plus en plus fine
-- Dépossédé de son trône, le jeune roi Evan embarque pour un voyage extraordinaire dans le but de fonder un nouveau royaume et de protéger ses habitants des forces du mal
 - Redécouvrez un monde féérique et vivez une histoire passionnante, à emmener partout avec vous, dans une édition qui inclut tout le contenu disponible à ce jour
+- Dépossédé de son trône, le jeune roi Evan embarque pour un voyage extraordinaire dans le but de fonder un nouveau royaume et de protéger ses habitants des forces du mal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
