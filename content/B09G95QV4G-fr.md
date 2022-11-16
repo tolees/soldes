@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo arrière grand‑angle 12 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Écran Liquid Retina de 8,3 pouces avec True Tone et large gamme de couleurs
 - Connecteur USB-C pour la recharge et les accessoires
 - Compatible avec l’Apple Pencil (2ᵉ génération)
-- Touch ID for secure authentication
-- Disponible en mauve, lumière stellaire, rose et gris sidéral
 - Jusqu’à 10 heures d’autonomie
-- Écran Liquid Retina de 8,3 pouces avec True Tone et large gamme de couleurs
-- Haut‑parleurs stéréo panoramiques
+- Touch ID for secure authentication
 - Puce A15 Bionic avec Neural Engine
+- Disponible en mauve, lumière stellaire, rose et gris sidéral
 - Gardez le contact grâce au Wi-Fi 6 ultra‑rapide
+- Appareil photo arrière grand‑angle 12 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Haut‑parleurs stéréo panoramiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

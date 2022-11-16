@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
-- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
 - Blink Outdoor est une caméra de surveillance HD sans fil alimentée par piles, qui vous permet de surveiller votre domicile jour et nuit grâce à la vision nocturne infrarouge.
 - Ce pack inclut 1 appareil Blink Outdoor Caméra, 1 appareil Blink Sync Module 2, et 1 Blink Mini Caméra dintérieur
-- Voyez et entendez les personnes et animaux de compagnie présents à votre domicile, et parlez-leur depuis votre smartphone grâce à la fonctionnalité Vidéo en direct et laudio bidirectionnel de Blink Mini.
-- Fonctionne avec Alexa : jumelez Blink Mini avec un appareil avec Alexa intégré et utilisez votre voix pour lancer la vidéo en direct, armer ou désarmer votre caméra, et bien plus.
-- Configuration en quelques minutes : branchez la caméra, connectez-la au Wi-Fi et suivez les instructions dans lapplication Blink Home Monitor gratuite.
 - Obtenez des notifications de mouvements sur votre téléphone grâce à loption vous permettant de personnaliser des zones de détection de mouvements dans lapplication Blink Home Monitor. Recevez une notification uniquement lorsquil le faut.
+- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
+- Configuration en quelques minutes : branchez la caméra, connectez-la au Wi-Fi et suivez les instructions dans lapplication Blink Home Monitor gratuite.
+- Fonctionne avec Alexa : jumelez Blink Mini avec un appareil avec Alexa intégré et utilisez votre voix pour lancer la vidéo en direct, armer ou désarmer votre caméra, et bien plus.
+- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
+- Voyez et entendez les personnes et animaux de compagnie présents à votre domicile, et parlez-leur depuis votre smartphone grâce à la fonctionnalité Vidéo en direct et laudio bidirectionnel de Blink Mini.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

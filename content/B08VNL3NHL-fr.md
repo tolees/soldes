@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Enregistrement vidéo gratuit dans le cloud - stockez des vidéos déclenchées par le mouvement et le son pendant 24 heures avec des forfaits denregistrement payants en option qui stockent des vidéos jusquà 30 jours.
 - Contrôle en un seul clic - les scènes dapplication mydlink vous permettent dactiver / désactiver facilement plusieurs appareils ainsi que des alertes de détection lorsque vous êtes chez vous, absent ou endormi.
 - Audio bidirectionnel - vous permettant découter et de parler via votre appareil mobile.
 - Panoramique et inclinaison motorisés - offrent une plage de panoramique et dinclinaison horizontale de 340 ° et verticale de 90 ° pour couvrir une pièce entière en Full HD 1080p.
-- Enregistrement vidéo gratuit dans le cloud - stockez des vidéos déclenchées par le mouvement et le son pendant 24 heures avec des forfaits denregistrement payants en option qui stockent des vidéos jusquà 30 jours.
 - Instantanés et clips vidéo - enregistrez des images sur votre smartphone via lapplication mydlink ou enregistrez des vidéos localement ou sur le cloud grâce à lemplacement pour carte microSD intégré et à labonnement gratuit / payant au cloud mydlink .
 
 [🛒 Achète-le!!]({{< param buyurl >}})
