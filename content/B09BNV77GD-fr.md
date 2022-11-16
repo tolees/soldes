@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76907 Speed Champions Lotus Evija Voiture de Course  Jouet Réduit avec Minifigure de Pilote de Course  Jouet pour Enfants'
-date: 2022-11-09 07:35:45
+date: 2022-11-16 15:51:07
 image: 'https://m.media-amazon.com/images/I/51n+secql8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNV77GD/?tag=tolees0d-21'
 descuento: '35.29'
-average: '16.94375'
+average: '16.8577777777778'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Explorez-la pièce par pièce en recréant lune des formes aérodynamiques les plus inédites au monde
 - Pendant que vous construisez avec lapplication Instructions de montage Lego disponible pour les smartphones et les tablettes, zoomez, tournez et regardez les modèles sous tous les angles
 - Recréez la première hypercar entièrement électrique de Grande-Bretagne avec cette réplique de voiture Lotus Evija et admirez le design innovant de la voiture de sport
-- Explorez-la pièce par pièce en recréant lune des formes aérodynamiques les plus inédites au monde
-- Ce modèle réduit de voiture pour enfants a suffisamment de place pour un cockpit à deux places et de nombreux détails authentiques
 - Elle est livré avec une Minifigure de pilote de course LEGO avec une combinaison de course Lotus, un casque de crash, une perruque et une clé à molette
+- Ce modèle réduit de voiture pour enfants a suffisamment de place pour un cockpit à deux places et de nombreux détails authentiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
