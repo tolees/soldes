@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il y a également un cockpit pour la minifigure Obi-Wan et un point de fixation sur laile pour la tête de la figurine LEGO Star Wars, le droïde R4-P17
-- Les enfants peuvent apprendre tout en construisant grâce à lapplication gratuite Instructions de montage LEGO qui permet aux utilisateurs de visualiser, zoomer et faire pivoter le modèle pendant quils construisent
-- Pour les fans de la saga Skywalker LEGO Star Wars, âgés de 7 ans et plus, ce jeu de construction Star Wars est un excellent cadeau danniversaire ou de Noël
-- Faites plaisir aux fans du film, LAttaque des Clones avec un jouet de construction Star Wars, le Chasseur Jedi d’Obi-Wan Kenobi avec des minifigurines et des accessoires emblématiques
 - Les enfants simaginent voyager à Kamino avec Obi-Wan et son fidèle droïde astromécano R4-P17, pour une rencontre avec Taun We qui pourrait changer le cours de la Guerre des Clones
+- Faites plaisir aux fans du film, LAttaque des Clones avec un jouet de construction Star Wars, le Chasseur Jedi d’Obi-Wan Kenobi avec des minifigurines et des accessoires emblématiques
+- Il y a également un cockpit pour la minifigure Obi-Wan et un point de fixation sur laile pour la tête de la figurine LEGO Star Wars, le droïde R4-P17
+- Pour les fans de la saga Skywalker LEGO Star Wars, âgés de 7 ans et plus, ce jeu de construction Star Wars est un excellent cadeau danniversaire ou de Noël
+- Les enfants peuvent apprendre tout en construisant grâce à lapplication gratuite Instructions de montage LEGO qui permet aux utilisateurs de visualiser, zoomer et faire pivoter le modèle pendant quils construisent
 - Le jouet de vaisseau spatial à construire de Star Wars comprend 2 lanceurs de tenons, un train datterrissage rétractable et des attaches de rangement pour sabre laser
 - Comprend 2 minifigurines LEGO Star Wars : Obi-Wan Kenobi avec un sabre laser et, pour la première fois, Taun We, plus une figurine de droïde R4-P17 astromécano
 

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend une maquette à construire du casque de Luke Skywalker de la collection LEGO Star Wars, le premier de la collection de casques LEGO Star Wars pour adultes
-- Cette réplique de casque de Luke Skywalker à collectionner, qui fait partie de la gamme de collections de Star Wars, est livrée avec des instructions claires et illustrées
 - Reproduisez avec des briques LEGO tous les détails du casque Red 5 Star Wars de Luke Skywalker, et exposez-le sur le support intégré avec une plaque didentification
-- Les modèles dexposition LEGO Star Wars de qualité ont un grand intérêt esthétique à la maison ou au bureau en tant que décorations
 - Les ensembles LEGO Star Wars pour adultes, de qualité supérieure, sont conçus pour vous, les amateurs éclairés qui apprécient les projets créatifs concrets
+- Les modèles dexposition LEGO Star Wars de qualité ont un grand intérêt esthétique à la maison ou au bureau en tant que décorations
+- Cette réplique de casque de Luke Skywalker à collectionner, qui fait partie de la gamme de collections de Star Wars, est livrée avec des instructions claires et illustrées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
