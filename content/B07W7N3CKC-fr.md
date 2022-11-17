@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un support ajustable : bénéficiez des modes d’Affichage et de Dessin ainsi que dun clavier pliable pour un support offrant une inclinaison de 40º
-- Pavé tactile de haute précision : utilisez toutes les commandes tactiles que vous aimez tant telles que glisser, pincer ou balayer, et naviguez encore plus vite sur votre iPad Pro
 - Alimentation et couplage en un seul clic : le Folio Touch se connecte instantanément à l’iPad via le Smart Connector et salimente directement depuis liPad. Il na jamais besoin dêtre rechargé
 - Protection de niveau militaire: l’étui robuste, conforme à la norme MIL STD 810G, protège l’iPad Pro contre les chocs et les rayures. La fermeture aimantée sécurisée maintient l’étui fermé lorsque vous êtes en déplacement
-- Compatibilité: Pour iPad Pro 11 pouces (1re, 2e, 3e et 4e générations): A1980, A2013, A1934, A1979, A2228, A2068, A2230, A2231, A2377, A2459, A2301, A2460
-- Quatre modes d’utilisation : choisissez parmi les quatre modes dont Saisie, Dessin, Affichage et Lecture et accomplissez touches les tâches que vous voulez sur votre Apple iPad Pro
-- Rangez votre crayon digital : le Folio Touch comporte un support qui vous permet de ranger votre Logitech Crayon ou de charger votre Apple Pencil (2ème génération)
 - Clavier rétroéclairé type ordinateur portable : touches rétroéclairées, 16 niveaux de luminosité, des raccourcis iPadOS pour accéder rapidement aux commandes de volume et plus encore
+- Un support ajustable : bénéficiez des modes d’Affichage et de Dessin ainsi que dun clavier pliable pour un support offrant une inclinaison de 40º
+- Quatre modes d’utilisation : choisissez parmi les quatre modes dont Saisie, Dessin, Affichage et Lecture et accomplissez touches les tâches que vous voulez sur votre Apple iPad Pro
+- Pavé tactile de haute précision : utilisez toutes les commandes tactiles que vous aimez tant telles que glisser, pincer ou balayer, et naviguez encore plus vite sur votre iPad Pro
+- Compatibilité: Pour iPad Pro 11 pouces (1re, 2e, 3e et 4e générations): A1980, A2013, A1934, A1979, A2228, A2068, A2230, A2231, A2377, A2459, A2301, A2460
+- Rangez votre crayon digital : le Folio Touch comporte un support qui vous permet de ranger votre Logitech Crayon ou de charger votre Apple Pencil (2ème génération)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
