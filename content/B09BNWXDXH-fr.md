@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42140 Technic Le Véhicule Transformable Télécommandé  Jouet Voiture RC d Exploration  Buggy Radiocommandé Tout-Terrain  Idée Cadeau Enfants 9 Ans'
-date: 2022-11-17 15:29:00
+date: 2022-11-18 15:40:45
 image: 'https://m.media-amazon.com/images/I/51sjqHp9qtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNWXDXH/?tag=tolees0d-21'
 descuento: '33.40'
-average: '99.8990476190476'
+average: '99.8990909090909'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La première voiture RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
 - Les deux voitures transformables télécommandées à retournement sont équipées dune suspension, ce qui permet aux chenilles de sadapter aux surfaces irrégulières
-- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
 - Les modèles sont dotés de suspensions, de cockpits et de chenilles, de 2 moteurs, dun moyeu et dun plateau sur le camion dexploration pour que les enfants puissent explorer tout en jouant
+- La première voiture RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
 - Utilisez lapplication CONTROL+ pour diriger la voiture télécommandée 2 en 1 - lapplication change automatiquement décran pour correspondre au véhicule lorsque le modèle se retourne
+- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
