@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE AMD & INTEL - Un système intuitif de bracket twist & lock facilite linstallation avec les sockets AMD (AM4, AM3+, AM3, AM2+, AM2, FM2+, FM2, FM1, TRX4, sTRX4, SP3) & Intel (LGA 1700, 1200, 1156 , 1155, 1151, 1150, 2011, 2011-3, 2066)
-- PERFORMANCES ULTRA-SILENCIEUSES – Radiateur en Aluminium de 394x120x27mm refroidi par 3 ventilateurs MEG Silent Gale P12 (22.7dBA, 2.21mmH2O, 56.2CFM) à roulement hydrodynamique (HDB) & pads anti-vibrations; Tubes de pompe à eau anti-évaporation de 400mm
 - BLOC DE POMPE INTELLIGENT - Pompe Asetek 7ème gén avec plaque froide en cuivre & composé thermique pré-appliqué; Ventilateur dissimulé de 60mm pour le VRM; Écran IPS 2.4" (320x240 pixels) pour vidéos/images personnalisées et surveillance des performances
+- COMPATIBLE AMD & INTEL - Un système intuitif de bracket twist & lock facilite linstallation avec les sockets AMD (AM4, AM3+, AM3, AM2+, AM2, FM2+, FM2, FM1, TRX4, sTRX4, SP3) & Intel (LGA 1700, 1200, 1156 , 1155, 1151, 1150, 2011, 2011-3, 2066)
 - REFROIDISSEMENT ÉLITE POUR PROCESSEURS AMD & INTEL - La crème des CPU coolers AIO 360mm avec: benchmarks thermiques élite, ventilateurs de radiateur ultra-silencieux, performances réglables par ventilateur & capacités daffichage en temps réel inégalées
+- PERFORMANCES ULTRA-SILENCIEUSES – Radiateur en Aluminium de 394x120x27mm refroidi par 3 ventilateurs MEG Silent Gale P12 (22.7dBA, 2.21mmH2O, 56.2CFM) à roulement hydrodynamique (HDB) & pads anti-vibrations; Tubes de pompe à eau anti-évaporation de 400mm
 - PARAMÈTRES AVANCÉS – Via le logiciel MSI Center: personnalisation de lécran LCD, vidéos/images (BMP/JPG, MP4, GIF), horloge & météo; Options de ventilateur PWM avec modes Game, Balance & Silent ou customisations individuelles (y compris mode 0 TPM)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

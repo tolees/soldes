@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Polyamide Ripstop
+- et spacieuse pour 3 personnes, unisexe, 3 personnes, alpinisme, randonnée, camping
 - taffetas en polyester
 - Tente dôme de camping durable
-- et spacieuse pour 3 personnes, unisexe, 3 personnes, alpinisme, randonnée, camping
-- Polyamide Ripstop
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

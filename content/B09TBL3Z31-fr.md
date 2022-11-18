@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [ÉTANCHE] CERTIFICATION IP68 ET REVÊTEMENT CÉRAMIQUE Une excellente résistance à l’eau et aux rayures grâce à la certification IP68 et un revêtement céramique
 - [ÉCRAN] 6.7 AMOLED WQHD+, 120Hz 10Bit LTPO E4, Calibrage multiple de la luminosité. Une qualité d’image améliorée grâce à un niveau de détail et une fluidité exceptionnelle
-- [PHOTO] 2 x 50 MP Sony IMX766 appareil photo arrière, f/1.8, profondeur de couleur 10-bit, Capteur spectral à 13 canaux, Caméra frontale 32MP Sony IMX709. 1ÈRE STABILISATION OPTIQUE 5-AXES SUR MOBILE Le stabilisateur d’image le plus avancé sur smartphone pour des images ultra nettes même en mouvement
-- [ÉCRAN] 6.7 AMOLED WQHD+, 120Hz 10Bit LTPO E4, Calibrage multiple de la luminosité. Une qualité d’image améliorée grâce à un niveau de détail et une fluidité exceptionnelle
-- [PERFORMANT] Processeur Qualcomm 5G 8 Gen 1 , Procédé de gravure en 4nm. Chaque application se charge en un instant. Regardez un film ou jouez en ligne à la vitesse de léclair en 5G
 - [BATTERIE] 5000 mAh, 80W Supervooc & 50W Airvooc . LONGUE DURÉE Profitez d’une grande batterie conçue pour durer longtemps et qui se recharge à 50% en seulement 12 min
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- [PERFORMANT] Processeur Qualcomm 5G 8 Gen 1 , Procédé de gravure en 4nm. Chaque application se charge en un instant. Regardez un film ou jouez en ligne à la vitesse de léclair en 5G
 - [PHOTO] 2 x 50 MP Sony IMX766 appareil photo arrière, f/1.8, profondeur de couleur 10-bit, Capteur spectral à 13 canaux, Caméra frontale 32MP Sony IMX709. 1ÈRE STABILISATION OPTIQUE 5-AXES SUR MOBILE Le stabilisateur d’image le plus avancé sur smartphone pour des images ultra nettes même en mouvement
+- [ÉTANCHE] CERTIFICATION IP68 ET REVÊTEMENT CÉRAMIQUE Une excellente résistance à l’eau et aux rayures grâce à la certification IP68 et un revêtement céramique
+- [PHOTO] 2 x 50 MP Sony IMX766 appareil photo arrière, f/1.8, profondeur de couleur 10-bit, Capteur spectral à 13 canaux, Caméra frontale 32MP Sony IMX709. 1ÈRE STABILISATION OPTIQUE 5-AXES SUR MOBILE Le stabilisateur d’image le plus avancé sur smartphone pour des images ultra nettes même en mouvement
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- [ÉCRAN] 6.7 AMOLED WQHD+, 120Hz 10Bit LTPO E4, Calibrage multiple de la luminosité. Une qualité d’image améliorée grâce à un niveau de détail et une fluidité exceptionnelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

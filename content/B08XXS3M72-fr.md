@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Radeon FreeSync 2 HDR pour un gameplay fluide, une latence faible ainsi que des contrastes et une luminosité de meilleure qualité
-- 4 K à 120 Hz via HDMI 2.1 : exploiter les performances des consoles nouvelles générations
-- Supporte la technologie Display Stream Compression (DSC) capable de compresser puis décompresser chaque image afin de faire passer les connexions ultra-haute définition sur une seule interface à des débits ultrarapides sans aucune perte de qualité visuelle perceptible.
 - Technologie High dynamic range (HDR) avec certification DisplayHDR 1000 et espace de couleurs 90% DCI-P3 pour des couleurs et contrastes exceptionnels
-- Comprend ELMB (1 ms MPRT) et est compatible avec la technologie FreeSync Premium Pro pour éviter que limage ne sentrecoupe et éliminer les problèmes de synchronisation FPS
 - Garantie 3 ans
+- Comprend ELMB (1 ms MPRT) et est compatible avec la technologie FreeSync Premium Pro pour éviter que limage ne sentrecoupe et éliminer les problèmes de synchronisation FPS
 - Moniteur de jeu avec dalle 4K de 43’’, anti-reflet, fréquence de rafraîchissement de 144 Hz pour afficher chaque image avec une fluidité incomparable
+- Technologie Radeon FreeSync 2 HDR pour un gameplay fluide, une latence faible ainsi que des contrastes et une luminosité de meilleure qualité
+- Supporte la technologie Display Stream Compression (DSC) capable de compresser puis décompresser chaque image afin de faire passer les connexions ultra-haute définition sur une seule interface à des débits ultrarapides sans aucune perte de qualité visuelle perceptible.
+- 4 K à 120 Hz via HDMI 2.1 : exploiter les performances des consoles nouvelles générations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

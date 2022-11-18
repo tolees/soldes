@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La zone de préhension métallique et moletée antidérapante est confortable pour écrire et dessiner fréquemment.
+- Stylo rechargeable précis, durable et doté dune encre bleue de haute qualité pour une écriture fluide
+- Le corps entièrement métallique assure un équilibre idéal entre le poids et les sensations pour vous permettre décrire et de dessiner sans fatigue.
 - Sa forme hexagonale permet déviter que le stylo ne roule pour un meilleur contrôle.
 - La mine se rétracte en un clic pour un transport facile, dans vos poches comme en avion.
-- Stylo rechargeable précis, durable et doté dune encre bleue de haute qualité pour une écriture fluide
-- La zone de préhension métallique et moletée antidérapante est confortable pour écrire et dessiner fréquemment.
-- Le corps entièrement métallique assure un équilibre idéal entre le poids et les sensations pour vous permettre décrire et de dessiner sans fatigue.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

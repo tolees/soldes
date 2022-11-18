@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : il est recommandé de mettre à jour régulièrement le microprogramme avec SteelSeries Mettez à jour le moteur et faites preuve de prudence lors de lutilisation/du nettoyage du contrôleur
-- Vérifiez la compatibilité (ci-dessous) !
-- Grand choix de jeux - compatibles avec des milliers de titres de lApp Store et dApple Arcade
-- Licence officielle dApple - fonctionne avec tous les produits Apple, y compris les appareils iOS, iPadOS et tvOS
-- Batterie rechargeable intégrée - jusquà 30 heures de jeu sur une seule charge
 - Boutons du BMD avec un clic notable - Les touches fléchées fournissent désormais un retour rapide et clair avec un clic visible
-- Batterie : lithium-ion
-- Lorsque vous achetez une manette Nimbus+, vous bénéficiez dun abonnement gratuit à Apple Arcade pendant 4 mois
 - Boutons du joystick cliquables - les boutons du joystick L3/R3 cliquables offrent plus doptions de saisie dans de nombreux jeux
+- Vérifiez la compatibilité (ci-dessous) !
+- Remarque : il est recommandé de mettre à jour régulièrement le microprogramme avec SteelSeries Mettez à jour le moteur et faites preuve de prudence lors de lutilisation/du nettoyage du contrôleur
+- Batterie rechargeable intégrée - jusquà 30 heures de jeu sur une seule charge
+- Licence officielle dApple - fonctionne avec tous les produits Apple, y compris les appareils iOS, iPadOS et tvOS
+- Grand choix de jeux - compatibles avec des milliers de titres de lApp Store et dApple Arcade
+- Lorsque vous achetez une manette Nimbus+, vous bénéficiez dun abonnement gratuit à Apple Arcade pendant 4 mois
+- Batterie : lithium-ion
 
 [🛒 Achète-le!!]({{< param buyurl >}})

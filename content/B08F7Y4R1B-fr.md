@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse de lecture jusquà 100MB/s, Vitesse décriture jusquà 90MB/s
+- Idéale pour les smartphones, les tablettes, les caméras daction, les drones, les reflex numériques, les caméras vidéo 4K Ultra HD et bien dautres
 - Classe V30: idéale pour lenregistrement de vidéos 4K Ultra HD à une résolution de 4096x3072 (pixels) et 60/120 fps. U3 pour des images haute résolution et du contenu numérique
 - 256GB, classe 10, UHS-I, U3, V30, A2 app performance + Adaptateur SD inclus
+- Vitesse de lecture jusquà 100MB/s, Vitesse décriture jusquà 90MB/s
 - A2 App Performance : permet aux smartphones et aux tablettes dexécuter des applications beaucoup plus rapidement et directement à partir de la carte microSD et déconomiser de lespace sur le stockage interne de lappareil
-- Idéale pour les smartphones, les tablettes, les caméras daction, les drones, les reflex numériques, les caméras vidéo 4K Ultra HD et bien dautres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
