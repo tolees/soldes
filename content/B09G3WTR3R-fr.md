@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce pack inclut un Echo (4e génération) et la Philips Hue Ampoule Connectée (E27) : tout ce dont vous avez besoin pour commencer votre maison connectée.
-- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
-- Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et plus encore. Vous pouvez également écouter des stations de radio, podcasts ou livres audio Audible.
-- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
-- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
 - Son de qualité premium : Echo livre des aigus clairs, des médiums dynamiques et des basses profondes pour un son riche et détaillé qui sadapte automatiquement à nimporte quelle pièce.
+- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
+- Ce pack inclut un Echo (4e génération) et la Philips Hue Ampoule Connectée (E27) : tout ce dont vous avez besoin pour commencer votre maison connectée.
 - Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
-- Prend en charge laudio HD sans perte disponible sur les services de streaming compatibles comme Amazon Music HD.
 - La maison connectée en toute simplicité : avec le hub intégré, configurez facilement les appareils Zigbee compatibles afin de contrôler les lumières, serrures et capteurs.
+- Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et plus encore. Vous pouvez également écouter des stations de radio, podcasts ou livres audio Audible.
+- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
+- Prend en charge laudio HD sans perte disponible sur les services de streaming compatibles comme Amazon Music HD.
+- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
