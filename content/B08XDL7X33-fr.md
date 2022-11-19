@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des aventures à emporter. Grâce à sa « porte » ouvrante mesurant 7 cm de haut, 22 cm de large et 12 cm de profondeur, ce set s’emporte facilement chez des amis et constitue un superbe objet de décoration.
-- Invitez la magie du film ou le jeu créatif chez vous avec ce set LEGO ǀ Disney La porte magique d’Antonio (43200). Il suffit d’ouvrir la porte pour commencer à jouer !
-- Ce set, qui inclut les personnages LEGO d’Antonio et de Mirabel ainsi queChispi et Parce, entraîne les enfants dans des aventures trépidantes, qu’il soit utilisé seul ou associé à d’autres sets Encanto ou Disney (vendus séparément).
-- Les fans d’Encanto : La fantastique famille Madrigal de Disney de 5 ans et plus vont adorer ce cadeau unique. La « porte » s’ouvre sur un micro-monde, avec un hamac qui se soulève, le repaire d’un jaguar et des détails et accessoires amusants.
 - Qu’y a-t-il derrière la porte ? Ce jouet de 99 pièces inclut une « porte » qui s’ouvre avec un verrou fonctionnel, une clé sur un porte-clés, une construction centrale, une feuille d’autocollants et des accessoires pour inventer plein d’histoires.
+- Invitez la magie du film ou le jeu créatif chez vous avec ce set LEGO ǀ Disney La porte magique d’Antonio (43200). Il suffit d’ouvrir la porte pour commencer à jouer !
+- Des aventures à emporter. Grâce à sa « porte » ouvrante mesurant 7 cm de haut, 22 cm de large et 12 cm de profondeur, ce set s’emporte facilement chez des amis et constitue un superbe objet de décoration.
+- Les fans d’Encanto : La fantastique famille Madrigal de Disney de 5 ans et plus vont adorer ce cadeau unique. La « porte » s’ouvre sur un micro-monde, avec un hamac qui se soulève, le repaire d’un jaguar et des détails et accessoires amusants.
+- Ce set, qui inclut les personnages LEGO d’Antonio et de Mirabel ainsi queChispi et Parce, entraîne les enfants dans des aventures trépidantes, qu’il soit utilisé seul ou associé à d’autres sets Encanto ou Disney (vendus séparément).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

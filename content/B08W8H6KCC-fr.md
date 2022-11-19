@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce modèle de collection de voiture pour enfant LEGO est livré avec un châssis plus large de 8 tenons offrant de l’espace pour un cockpit 2 places et pour 2 figurines
+- Dispose d’une maquette LEGO magnifiquement détaillée de la McLaren Elva ultra-exclusive, une voiture de course et une voiture de sport ultra-aérodynamique
 - Les jouets pour enfants de 7 ans et plus LEGO Speed Champions leur donnent la chance de collectionner et de construire les mini-versions de célèbres automobiles innovantes
 - La voiture de course LEGO arbore le nom McLaren Elva à l’arrière, 2 pots d’échappements, les phares d’origine et est livré avec des protecteurs de jantes
-- Dispose d’une maquette LEGO magnifiquement détaillée de la McLaren Elva ultra-exclusive, une voiture de course et une voiture de sport ultra-aérodynamique
 - Inclut une figurine de pilote de course McLaren LEGO, complétée par sa combinaison de course, son casque de course et sa clé
+- Ce modèle de collection de voiture pour enfant LEGO est livré avec un châssis plus large de 8 tenons offrant de l’espace pour un cockpit 2 places et pour 2 figurines
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

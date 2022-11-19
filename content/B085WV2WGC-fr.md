@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les instructions faciles à suivre décrivent des étapes de construction multidirectionnelles, avec un cadre et des sections clippées sur le côté à laide de la technique SNOT
 - Comprend une charmante figurine du Mandalorien LEnfant, alias Bébé Yoda, jouet à construire, tiré de Star Wars : Le Mandalorien, avec toutes ses adorables caractéristiques
-- Le modèle à collectionner et à construire de la figurine Mandalorian LEnfant ajoute une charmante touche de style Star Wars au décor de nimporte quelle maison
-- Lensemble comprend également un pommeau de levier de vitesse du vaisseau spatial Razor Crest - le jouet préféré de lEnfant - qui peut être placé dans sa main
 - Le personnage le plus mignon de la galaxie a une tête, une bouche et des oreilles mobiles pour une gamme dexpressions adorables, ce qui lui donne vie en jouant !
+- Lensemble comprend également un pommeau de levier de vitesse du vaisseau spatial Razor Crest - le jouet préféré de lEnfant - qui peut être placé dans sa main
+- Le modèle à collectionner et à construire de la figurine Mandalorian LEnfant ajoute une charmante touche de style Star Wars au décor de nimporte quelle maison
 - Un panneau dinformation et la Minifigurine LEGO Enfant viennent compléter un modèle de construction et dexposition saisissant pour les fans de 10 ans et plus
+- Les instructions faciles à suivre décrivent des étapes de construction multidirectionnelles, avec un cadre et des sections clippées sur le côté à laide de la technique SNOT
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

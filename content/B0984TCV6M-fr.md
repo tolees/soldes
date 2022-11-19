@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez l’excellence de lingénierie de ce jouet de construction comprenant des fonctions mécaniques comme une grue pivotante, un treuil et des stabilisateurs qui fonctionnent
+- Cet ensemble LEGO Technic constitue un cadeau danniversaire ou de Noël idéal pour les enfants de 11 ans et plus et un set idéal à découvrir entre adultes
 - Cet ensemble comprend un camion jouet avec une grue jouet doté de nombreuses fonctionnalités : une introduction idéale à lingénierie pour les enfants fans de jouets mécaniques
-- Dirigez le camion LEGO Technic grâce à une molette située sur le toit ou ouvrez le capot pour admirer le moteur à 6 cylindres en ligne et pistons mobiles
+- Tout comme un vrai camion de remorquage, il comprend un essieu relevable pour faire descendre des roues supplémentaires et répartir les charges, une première pour un LEGO Technic !
+- Découvrez l’excellence de lingénierie de ce jouet de construction comprenant des fonctions mécaniques comme une grue pivotante, un treuil et des stabilisateurs qui fonctionnent
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - Le design de ce camion de remorquage inclut une grille authentique, des filtres à air et des couleurs originales
 - Ce modèle de camion LEGO comprend des fonctionnalités pneumatiques, notamment une flèche, une grue de levage et une flèche de grue extensible
-- Cet ensemble LEGO Technic constitue un cadeau danniversaire ou de Noël idéal pour les enfants de 11 ans et plus et un set idéal à découvrir entre adultes
-- Tout comme un vrai camion de remorquage, il comprend un essieu relevable pour faire descendre des roues supplémentaires et répartir les charges, une première pour un LEGO Technic !
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
+- Dirigez le camion LEGO Technic grâce à une molette située sur le toit ou ouvrez le capot pour admirer le moteur à 6 cylindres en ligne et pistons mobiles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

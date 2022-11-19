@@ -28,7 +28,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- WEBCAM, TRINO HD VIDEO, TRUST
 - Manufacturer Part Number: 18679
+- WEBCAM, TRINO HD VIDEO, TRUST
 
 [🛒 Achète-le!!]({{< param buyurl >}})
