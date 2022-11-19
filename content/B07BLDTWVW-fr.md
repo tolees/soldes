@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet LEGO Harry Potter pour adolescents et adultes dès 16 ans impressionnera à coup sûr lorsquil sera exposé, et il constitue une fantastique idée de cadeau Harry Potter pour un anniversaire ou Noël
-- Les accessoires incluent lépée Gryffondor, la tasse Helga Poufsouffle, des baguettes, des potions, les bannières de maison, des flammes, un chaudron et 2 loupes
 - Construisez la maquette du château Harry Potter, avec en plus la cabane de Hagrid, le mythique saule pleureur et 5 jouets de bateaux pour que les mini-figurines puissent rejoindre le château
-- Avec ce maquette Poudlard LEGO il est possible de sasseoir dans la Grande Salle et de festoyer avec les professeurs et les élèves de Poudlard ! Mais aussi de sinfiltrer dans la Chambre des Secrets par lentrée secrète et affronter le Basilic !
-- Le jouet de château Pourdlard LEGO Harry Potter comprend le Grand Hall avec des vitraux à construire, des bannières de maison, des bancs, des tables, des torches enflammées et des escaliers qui bougent
 - La cabane de Hagrid contient Aragog laraignée et des citrouilles à assembler, et le saule cogneur renferme le jouet de voiture Ford Anglia bleue à assembler dans ses branches tournoyantes
+- Le jouet de château Pourdlard LEGO Harry Potter comprend le Grand Hall avec des vitraux à construire, des bannières de maison, des bancs, des tables, des torches enflammées et des escaliers qui bougent
+- Les accessoires incluent lépée Gryffondor, la tasse Helga Poufsouffle, des baguettes, des potions, les bannières de maison, des flammes, un chaudron et 2 loupes
+- Ce jouet LEGO Harry Potter pour adolescents et adultes dès 16 ans impressionnera à coup sûr lorsquil sera exposé, et il constitue une fantastique idée de cadeau Harry Potter pour un anniversaire ou Noël
+- Avec ce maquette Poudlard LEGO il est possible de sasseoir dans la Grande Salle et de festoyer avec les professeurs et les élèves de Poudlard ! Mais aussi de sinfiltrer dans la Chambre des Secrets par lentrée secrète et affronter le Basilic !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Âge : 9 - 14 ans
 - Confidentiel lego na pas dinfos à communiquer à ce jour
 - Confidentiel pas dinfos Embargo jusquau 15/07/2017
+- Âge : 9 - 14 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
