@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stimulez la passion des enfants pour Avatar avec ce jouet LEGO Avatar à construire, comprenant un jouet hélicoptère, le laboratoire du Site 26, 5 minifigurines, une figurine danimal Equidius et une scène avec des éléments phosphorescents
-- Le set comprend 2 Minifigurines Jake Sully (en forme de Navi et dhumain), portant une arbalète et une lance, ainsi que 3 autres minifigurines du Dr Grace, de Norm et de Trudy
+- Ce jouet peut être combiné avec dautres jouets LEGO Avatar pour élargir le plaisir de jouer ; il comprend 3 livrets dinstructions de construction, conçus pour que les amis ou la famille puissent construire différentes parties de lensemble en même temps
 - Le jouet hélicoptère pour enfants a des rotors qui tournent et le laboratoire du Site 26 a un toit amovible pour accéder facilement à lintérieur, où les enfants peuvent placer la figurine Jake Sully dans son lit de liaison pour réveiller son Avatar
+- Le set comprend 2 Minifigurines Jake Sully (en forme de Navi et dhumain), portant une arbalète et une lance, ainsi que 3 autres minifigurines du Dr Grace, de Norm et de Trudy
+- Surprenez les enfants amoureux de la nature avec ce merveilleux jouets à offrir comme cadeau danniversaire, de Noël pour les garçons et les filles âgés de 9 ans et plus
 - Les fans dAvatar peuvent jouer des scènes dexploration de la région avec Jake et Norm à larrière dun Equidius ; lorsquils ont rassemblé toutes les informations dont ils ont besoin, il est temps de faire un rapport au Dr Grace !
 - Avec cet ensemble polyvalent, les enfants peuvent recréer une scène du film, raconter une nouvelle histoire ou mettre en place une exposition qui sera superbe comme décoration dans nimporte quelle chambre denfant
-- Ce jouet peut être combiné avec dautres jouets LEGO Avatar pour élargir le plaisir de jouer ; il comprend 3 livrets dinstructions de construction, conçus pour que les amis ou la famille puissent construire différentes parties de lensemble en même temps
-- Surprenez les enfants amoureux de la nature avec ce merveilleux jouets à offrir comme cadeau danniversaire, de Noël pour les garçons et les filles âgés de 9 ans et plus
+- Stimulez la passion des enfants pour Avatar avec ce jouet LEGO Avatar à construire, comprenant un jouet hélicoptère, le laboratoire du Site 26, 5 minifigurines, une figurine danimal Equidius et une scène avec des éléments phosphorescents
 
 [🛒 Achète-le!!]({{< param buyurl >}})

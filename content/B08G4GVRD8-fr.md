@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce set 2-en-1 comprend un jouet de moto chopper avec 2 lanceurs et un flyer déchachable à utiliser comme une planche de surf pour que Nya puisse rejoindre la bataille
 - Ce jouet de construction ninja offre aux enfants de 7 ans et plus une tâche de construction amusante et constitue un excellent cadeau danniversaire
-- Ces personnages peuvent organiser des batailles entre eux pour voir qui remportera la précieuse amulette de tempête qui est également fournie avec ce set
-- Comprend 3 minifigurines : Lloyd de l’île et Nya de l’île, chacun doté dune arme, pour affronter le Gardien du Grondement, qui dispose dune lance et dun bouclier très cool
-- Découvrez dautres sets NINJAGO, notamment Le dragon de la jungle (71746), Le village des Gardiens (71747) et La bataille de catamarans (71748)
 - Le jouet moto de la jungle est doté dune suspension fonctionnelle et dun cockpit qui souvre pour y placer Lloyd de l’île, tandis que Nya de l’île surfe à proximité
+- Comprend 3 minifigurines : Lloyd de l’île et Nya de l’île, chacun doté dune arme, pour affronter le Gardien du Grondement, qui dispose dune lance et dun bouclier très cool
+- Ce set 2-en-1 comprend un jouet de moto chopper avec 2 lanceurs et un flyer déchachable à utiliser comme une planche de surf pour que Nya puisse rejoindre la bataille
+- Ces personnages peuvent organiser des batailles entre eux pour voir qui remportera la précieuse amulette de tempête qui est également fournie avec ce set
+- Découvrez dautres sets NINJAGO, notamment Le dragon de la jungle (71746), Le village des Gardiens (71747) et La bataille de catamarans (71748)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
