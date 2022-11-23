@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42130 Technic BMW M 1000 RR Modèle Réduit de Moto pour Adulte  Maquette pour Construction et Exposition  Idée de Cadeau Motard'
-date: 2022-11-18 15:42:50
+date: 2022-11-23 10:56:38
 image: 'https://m.media-amazon.com/images/I/51zqn7Obk9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09JW8R73R/?tag=tolees0d-21'
 descuento: '34.40'
-average: '174.74'
+average: '172.59'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des pneus au pare-brise, aucun détail na été négligé - admirez la palette de couleurs rouge, blanc et bleu de la marque emblématique de BMW
-- Lensemble comprend à la fois un support de présentation et un support de course, de sorte que vous pouvez créer un véritable sujet de conversation avec cet impressionnant modèle de moto
 - Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - Examinez les détails authentiques - la boîte de vitesses à 3 rapports (comprenant la vitesse neutre), la direction, la suspension avant et arrière, la transmission par chaîne et le moteur à 4 pistons
 - Cet ensemble LEGO pour adultes comprend un modèle de moto Technic BMW M 1000 RR à léchelle 1:5 - une première pour lunivers LEGO Technic
+- Lensemble comprend à la fois un support de présentation et un support de course, de sorte que vous pouvez créer un véritable sujet de conversation avec cet impressionnant modèle de moto
+- Des pneus au pare-brise, aucun détail na été négligé - admirez la palette de couleurs rouge, blanc et bleu de la marque emblématique de BMW
 
 [🛒 Achète-le!!]({{< param buyurl >}})
