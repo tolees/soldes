@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21028 Architecture New York  Kit de Construction  Maquette Miniature  Décoration  Empire State Building  Statue de la Liberté  pour Adultes'
-date: 2022-11-18 15:47:24
+date: 2022-11-23 11:42:32
 image: 'https://m.media-amazon.com/images/I/41n8YYn3a8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B012NOGGHQ/?tag=tolees0d-21'
 descuento: '20.00'
-average: '41.1650813008133'
+average: '41.16032388664'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Comprend un livret à collectionner contenant des informations sur la conception, larchitecture et lhistoire des bâtiments
 - Capturez lessence architecturale de la ville de New York avec ce magnifique ensemble qui réunit des bâtiments emblématiques dans un décor de skyline inspirant
 - Le modèle comprend les bâtiments Flatiron, Chrysler, Empire State et One World Trade Center et mesure 10"/26 cm de haut, 9"/25 cm de large et 1"/4 cm de profondeur
-- Comprend un livret à collectionner contenant des informations sur la conception, larchitecture et lhistoire des bâtiments
-- Ce merveilleux modèle met laccent sur létonnante diversité architecturale de lune des villes les plus dynamiques du monde
 - Construisez un modèle détaillé de la ligne dhorizon de la ville de New York, y compris la Statue de la Liberté miniature, et une base en briques de 4x32 avec une plaque de nom décorative
+- Ce merveilleux modèle met laccent sur létonnante diversité architecturale de lune des villes les plus dynamiques du monde
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
