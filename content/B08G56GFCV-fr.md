@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le camion-grue pivote à 360 degrés et soulève la cargaison de haut en bas, tandis que le mini-remorqueur est également doté dune grue fonctionnelle
-- Comprend 3 modèles en 1 : un jouet camion transporteur, un camion-grue et un remorqueur avec grue, dune taille portable parfaite à emporter chez un ami
 - Découvrez dautres nouveaux ensembles LEGO Creator 3-en-1 : Cyber Drone 31111, Lion sauvage 31112, Superbike 31114 et Surfer Beach House 31118
+- Le camion-grue pivote à 360 degrés et soulève la cargaison de haut en bas, tandis que le mini-remorqueur est également doté dune grue fonctionnelle
+- Action de course ! Le cadeau parfait pour les amateurs de sensations fortes qui découvrent des heures daction palpitante avec 3 véhicules daventure, sur terre et sur mer
 - Le camion porteur avec une remorque détachable transporte 2 voitures qui peuvent être chargées et déchargées grâce à ses 2 rampes ; une béquille permet à la remorque de tenir debout toute seule
 - Cet ensemble de construction de véhicules LEGO est un cadeau danniversaire impressionnant, un cadeau de Noël ou un cadeau de tous les instants pour les enfants de 7 ans et plus
-- Action de course ! Le cadeau parfait pour les amateurs de sensations fortes qui découvrent des heures daction palpitante avec 3 véhicules daventure, sur terre et sur mer
+- Comprend 3 modèles en 1 : un jouet camion transporteur, un camion-grue et un remorqueur avec grue, dune taille portable parfaite à emporter chez un ami
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éléments bonus : tuile de jeu de société, gilets de sauvetage, table de pique-nique, et une poêle avec un œuf au plat pour inspirer le jeu créatif
 - Inclut une scène de pique-nique en montagne, un jouet bateau, un jouet camping-car et un lac avec une jetée
 - Livré avec les mini poupées de Stéphanie, Emma et Ethan, ce jouet bateau LEGO Friends offre également une figurine de raton laveur
 - Idéal en cadeau de Noël ou d’anniversaire, ce jouet pour filles et garçons de 7 ans et plus ravira les enfants qui rêvent d’aventures
+- Le toit du camping-car est articulé pour un accès facile à la cuisine, tandis que le jouet bateau se détache de la remorque et dispose dune voile mobile et d’un gouvernail
 - Découvrez dautres jeux d’aventure LEGO Friends : La cascade dans la forêt (41677), La maison dans la forêt (41679) ou Le centre équestre de la forêt (41683)
 - Les accessoires comprennent des bagages, 3 matelas, une bouteille deau, un skateboard, un casque, un téléphone, un GPS, un appareil photo et une valise
-- Le toit du camping-car est articulé pour un accès facile à la cuisine, tandis que le jouet bateau se détache de la remorque et dispose dune voile mobile et d’un gouvernail
+- Éléments bonus : tuile de jeu de société, gilets de sauvetage, table de pique-nique, et une poêle avec un œuf au plat pour inspirer le jeu créatif
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet vaisseau spatial comprend 4 mini-poupées LEGO Friends dOlivia et ses 4 amis que vos enfants connaissent sûrement déjà
 - Ce jouet éducatif sur lespace LEGO Friends pour les enfants de 8 ans et plus comprend un jouet de navette spatiale, un bâtiment de lacadémie, un télescope et 4 mini-poupées
 - Les enfants imaginent jouer un rôle en participant à lentraînement des astronautes, simuler un vol dans le jouet fusée, effectuer une sortie dans lespace et rechercher de nouvelles galaxies dans le ciel
 - Comprend une académie spatiale avec une salle de classe et un contrôle de mission, un modèle réduit de vaisseau spatial avec un bras robotique, un observatoire, une galerie spatiale
 - Les mini-poupées peuvent faire un tour dans le simulateur multiaxes inclus dans ce jouet éducatif, qui contient de nombreux éléments scientifiquement exacts pour aider les enfants à se familiariser avec lespace et la formation des astronautes
+- Ce jouet vaisseau spatial comprend 4 mini-poupées LEGO Friends dOlivia et ses 4 amis que vos enfants connaissent sûrement déjà
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
