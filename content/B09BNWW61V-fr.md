@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
-- Ce jouet LEGO Super Mario inclut aussi un lanceur pour jeter des carapaces vertes à au crabe LEGO, ainsi qu’un château de sable, une fontaine et un arbre à construire
-- Cet ensemble d’extension LEGO Super Mario Le bord de mer de Dorrie ajoute un niveau de plage au pack de démarrage LEGO Mario ou Luigi (non inclus)
 - Chaque élément inclut des fonctionnalités incroyables que le joueur doit activer pour accéder aux blocs 1, 2, 3 et collecter des pièces numériques et gagner !
+- Cet ensemble d’extension LEGO Super Mario Le bord de mer de Dorrie ajoute un niveau de plage au pack de démarrage LEGO Mario ou Luigi (non inclus)
+- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 - Il inclut la figurine LEGO Super Mario de Dorrie, que les figurines LEGO Mario ou Luigi (non incluses) peuvent utiliser pour collecter des pièces, et un crabe Pincemi à combattre
+- Ce jouet LEGO Super Mario inclut aussi un lanceur pour jeter des carapaces vertes à au crabe LEGO, ainsi qu’un château de sable, une fontaine et un arbre à construire
 
 [🛒 Achète-le!!]({{< param buyurl >}})

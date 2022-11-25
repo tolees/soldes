@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les 2 murs de la Batcave, l’un affichant une grande carte de GOTHAM CITY et l’autre avec une étagère à outils, peuvent être pivotés pour configurer différents espaces de jeu
-- Il inclut 3 éléments avec des messages codés du Sphinx qui ne peuvent être lus qu’à l’aide d’une loupe spéciale pour révéler les indices qu’ils cachent
 - Ce set de super-héros LEGO inclut 6 minifigures : Batman, son alter ego le Drifter, Selina Kyle, Alfred, le commissaire Gordon et le Sphinx
 - Batman peut se déguiser en Drifter, partir à l’aventure avec sa moto, capturer le méchant et le ramener dans la prison de la Batcave !
 - Il comprend une Batcave– le QG de Batman – à construire, qui est équipée d’accessoires et d’une cellule de prison ainsi que d’une moto jouet pour imaginer de nombreuses aventures
+- Les 2 murs de la Batcave, l’un affichant une grande carte de GOTHAM CITY et l’autre avec une étagère à outils, peuvent être pivotés pour configurer différents espaces de jeu
+- Il inclut 3 éléments avec des messages codés du Sphinx qui ne peuvent être lus qu’à l’aide d’une loupe spéciale pour révéler les indices qu’ils cachent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

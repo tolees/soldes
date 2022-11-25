@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonus édition D1 : - La bande originale du jeu - Un petit artbook contenant une sélection dart du jeu - Le livre original Cyberpunk 2020 - Des arrière-plans pour ordinateur et mobile
+- Le jeu sera également jouable sur PlayStation 5 une fois la console disponible. Une mise à jour de Cyberpunk 2077 sera offerte à une date ultérieure, afin de profiter pleinement des consoles de nouvelle génération, pour tous les possesseurs de la version PlayStation 4 du jeu.
 - MERCENAIRE ET HORS-LA-LOI Devenez un cyberpunk, sorte de mercenaire urbain doté d’améliorations cybernétiques, et forgez votre légende dans les rues de Night City.
-- EN QUÊTE DE LA VIE ÉTERNELLE Acceptez le boulot le plus dangereux de votre vie et partez à la recherche d’un prototype d’implant qui serait la clé de la vie éternelle.
+- Le jeu est fourni avec les objets physiques suivants : - Un boîtier contenant les disques du jeu - Un Compendium de lunivers et du lore du jeu - Des cartes postales de Night City - Une carte de Night City - Des autocollants
+- Bonus édition D1 : - La bande originale du jeu - Un petit artbook contenant une sélection dart du jeu - Le livre original Cyberpunk 2020 - Des arrière-plans pour ordinateur et mobile
 - Remarque: si vous utilisez PS4 FAT "quils peuvent rencontrer des problèmes de performances
 - DANS LA VILLE DU FUTUR Découvrez la démesure du monde ouvert de Night City, qui établit de nouvelles normes en termes de visuels, de complexité et de profondeur.
-- Le jeu sera également jouable sur PlayStation 5 une fois la console disponible. Une mise à jour de Cyberpunk 2077 sera offerte à une date ultérieure, afin de profiter pleinement des consoles de nouvelle génération, pour tous les possesseurs de la version PlayStation 4 du jeu.
-- Le jeu est fourni avec les objets physiques suivants : - Un boîtier contenant les disques du jeu - Un Compendium de lunivers et du lore du jeu - Des cartes postales de Night City - Une carte de Night City - Des autocollants
+- EN QUÊTE DE LA VIE ÉTERNELLE Acceptez le boulot le plus dangereux de votre vie et partez à la recherche d’un prototype d’implant qui serait la clé de la vie éternelle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

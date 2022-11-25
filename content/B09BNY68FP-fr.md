@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
-- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
-- Les enfants peuvent ajouter un défi aérien de collecte de pièces à leur univers LEGO Super Mario avec cet ensemble d’extension La voiture de clown de Bowser Junior
-- Les sets de construction à collectionner LEGO Super Mario avec des figurines d’ennemis offrent des possibilités infinies pour agrandir, transformer et créer des niveaux uniques
 - Il est l’heure du décollage ! Les enfants peuvent faire voler la voiture clown de Bowser Junior pour collecter autant de pièces que possible et battre leur ennemi, Bob-omb
+- Les enfants peuvent ajouter un défi aérien de collecte de pièces à leur univers LEGO Super Mario avec cet ensemble d’extension La voiture de clown de Bowser Junior
+- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
+- Les sets de construction à collectionner LEGO Super Mario avec des figurines d’ennemis offrent des possibilités infinies pour agrandir, transformer et créer des niveaux uniques
+- Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

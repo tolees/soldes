@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le diabolique guerrier serpent Viper Flyer est doté d’un jetpack et d’une épée et Python dynamite est muni d’un bâton de dynamite et d’un jouet lanceur de missiles
-- Vous trouverez des bannières dans 7 autres sets, y compris L’évolution Dragon de feu de Kai 71762, Le Centre de formation ninja 71764 et Le robot ultra combo ninja 71765
-- Le jouet LEGO NINJAGO Le dragon légendaire de Lloyd contient une figurine dragon articulée avec des ailes qui peuvent être bougées d’avant en arrière
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
-- Il comprend 4 minifigurines LEGO NINJAGO : Lloyd avec une épée et qui peut être amélioré avec une cagoule, Nya avec une lance et 2 guerriers serpent LEGO NINJAGO
-- La figurine de dragon est doté d’une tête, d’une mâchoire, d’une queue, de jambes et de bras articulés et peut être amélioré avec une selle et des ailes pour des combats aériens
-- Ce jouet dragon pour garçons et filles LEGO de 747 pièces constitue un superbe cadeau d’anniversaire pour les enfants dès 8 ans et leur permettra de rejouer des aventures dans la ville de NINJAGO
 - Lorsque les enfants terminent leurs missions et battent les serpents, ils reçoivent une bannière Surprise à placer avec un bâton sur le dragon jouet
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
+- Vous trouverez des bannières dans 7 autres sets, y compris L’évolution Dragon de feu de Kai 71762, Le Centre de formation ninja 71764 et Le robot ultra combo ninja 71765
+- Ce jouet dragon pour garçons et filles LEGO de 747 pièces constitue un superbe cadeau d’anniversaire pour les enfants dès 8 ans et leur permettra de rejouer des aventures dans la ville de NINJAGO
+- La figurine de dragon est doté d’une tête, d’une mâchoire, d’une queue, de jambes et de bras articulés et peut être amélioré avec une selle et des ailes pour des combats aériens
+- Le jouet LEGO NINJAGO Le dragon légendaire de Lloyd contient une figurine dragon articulée avec des ailes qui peuvent être bougées d’avant en arrière
+- Le diabolique guerrier serpent Viper Flyer est doté d’un jetpack et d’une épée et Python dynamite est muni d’un bâton de dynamite et d’un jouet lanceur de missiles
+- Il comprend 4 minifigurines LEGO NINJAGO : Lloyd avec une épée et qui peut être amélioré avec une cagoule, Nya avec une lance et 2 guerriers serpent LEGO NINJAGO
 
 [🛒 Achète-le!!]({{< param buyurl >}})
