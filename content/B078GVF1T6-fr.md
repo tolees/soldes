@@ -29,7 +29,7 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Senteur Licorne
-- Elimine lexcès de sébum
 - Shampooing sec
+- Elimine lexcès de sébum
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
