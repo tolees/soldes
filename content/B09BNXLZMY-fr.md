@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent activer la chasse aux fantômes en appuyant sur le bouton de la salopette et déclencher des musiques de fond en utilisant la plaque de démarrage incluse.
-- Il inclut les figurines LEGO Super Mario du professeur K. Tastroff et une figurine de Terreur dorée pour donner vie au jeu de construction LEGO Super Mario
-- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 - Ce jouet Super Mario inclut un Ectoblast pour la figurine LEGO Luigi (non incluse) auquel il est possible d’attacher un embout normal ou le Spectroflash
+- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
+- Les enfants peuvent activer la chasse aux fantômes en appuyant sur le bouton de la salopette et déclencher des musiques de fond en utilisant la plaque de démarrage incluse.
 - Avec l’ensemble d’extension Labo et Ectoblast de Luigi’s Mansion, les enfants peuvent intégrer un défi de chasse aux fantômes dans leur pack de démarrage LEGO Super Mario
+- Il inclut les figurines LEGO Super Mario du professeur K. Tastroff et une figurine de Terreur dorée pour donner vie au jeu de construction LEGO Super Mario
 
 [🛒 Achète-le!!]({{< param buyurl >}})

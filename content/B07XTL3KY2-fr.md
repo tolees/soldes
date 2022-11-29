@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - De la place pour tout le monde. Parfait pour les appels à plusieurs, Portal TV donne de l’espace à chaque participant en cadrant toute la pièce
-- Appelez qui vous voulez. Utilisez WhatsApp, Messenger, Zoom et plus pour passer du temps avec vos amis et votre famille, même sils nont pas Portal
-- Des connexions plus naturelles. Smart Camera sajuste automatiquement pour que vous puissiez vous déplacer librement et rester dans le cadre, tandis que Smart Sound vous permet dêtre toujours entendu
 - Regardez ensemble, de n’importe où. Regardez votre contenu Facebook Watch préféré avec vos amis et famille pendant vos appels, comme s’ils étaient avec vous dans la pièce
-- Vos conversations sur gret écran. Passez des appels vidéo intelligents sur votre TV et retrouvez vos visages préférés en gret, dans votre salon
+- Appelez qui vous voulez. Utilisez WhatsApp, Messenger, Zoom et plus pour passer du temps avec vos amis et votre famille, même sils nont pas Portal
 - Plus de TV pour votre TV. Regardez des films et des séries avec Netflix, Prime Video, Facebook Watch et plus encore, d’un simple geste
+- Vos conversations sur gret écran. Passez des appels vidéo intelligents sur votre TV et retrouvez vos visages préférés en gret, dans votre salon
+- Des connexions plus naturelles. Smart Camera sajuste automatiquement pour que vous puissiez vous déplacer librement et rester dans le cadre, tandis que Smart Sound vous permet dêtre toujours entendu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
