@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le contenu comprend : 1 plateau de jeu, 1 cerisier, 1 corbeau, 5 paires de cerises, 1 petit panier, 1 dé de couleur, 15 cartes de fleurs, 1 jeu dinstructions avec deux variantes de jeu.
-- Les enfants apprennent le travail déquipe et la coopération alors quils se précipitent pour battre le corbeau avide.
 - Fabriqué en Europe - Allemagne
-- Favorise la mémoire, l’esprit d’équipe, la reconnaissance et la désignation des couleurs
 - Le but : cueillir les fruits avant que le corbeau natteigne larbre
 - Un jeu coopératif de dés à mémoire et couleur pour 1-4 joueurs âgés de 3-8 ans. Durée du jeu : environ 10 minutes.
+- Les enfants apprennent le travail déquipe et la coopération alors quils se précipitent pour battre le corbeau avide.
+- Le contenu comprend : 1 plateau de jeu, 1 cerisier, 1 corbeau, 5 paires de cerises, 1 petit panier, 1 dé de couleur, 15 cartes de fleurs, 1 jeu dinstructions avec deux variantes de jeu.
+- Favorise la mémoire, l’esprit d’équipe, la reconnaissance et la désignation des couleurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
