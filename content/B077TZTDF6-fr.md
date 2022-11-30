@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les éléments spéciaux incluent 6 plaques de base bleues de 16 x 32 cm, 1 pierre blanche de 5 x 4 avec arches, de nombreux éléments transparents et des pierres précieuses, ainsi que 1 x 2 bandes avec picots.
-- Il peut être dié en 7 modules pour être transporté plus facilement.
-- LEGO interprétation dune véritable merveille architecturale le Taj Mahal.
 - Essayez vos compétences en tant que maître du bâtiment Lego avec lun des plus grands modèles Lego de tous les temps.
+- Il peut être dié en 7 modules pour être transporté plus facilement.
 - Nouvelle version du modèle sorti en 2008 avec 4 façades avec élévations et fenêtres rondes, un dôme principal, 4 chambres secondaires bombées et 4 minarets, qui ont tous de magnifiques ornements. Une plate-forme surélevée est entourée délévations et la base par des carreaux élaborés. Lensemble du modèle convainc par ses nombreux détails.
+- LEGO interprétation dune véritable merveille architecturale le Taj Mahal.
+- Les éléments spéciaux incluent 6 plaques de base bleues de 16 x 32 cm, 1 pierre blanche de 5 x 4 avec arches, de nombreux éléments transparents et des pierres précieuses, ainsi que 1 x 2 bandes avec picots.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
