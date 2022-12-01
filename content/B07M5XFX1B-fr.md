@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU DU JEU : Retrouve dans ta boite : 36 cartes ainsi qu1 règle de jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
-- CADEAU IDÉAL : Vous souhaitez faire plaisir à votre enfant, à celui d’un couple d’amis... pour noël ou un anniversaire ? Eh bien, n’attendez plus ! Ce coffret est ce qu’il lui faut ! Il convient aux enfants à partir de 7 ans
 - PARTAGE : Ce jeu est super cool et ludique pour samuser en famille ou entre amis. Il se joue de 2 à 6 joueurs. La durée dune partie est de 20 minutes environ. Alors nattendez plus pour le tester !
 - COMPETITION : Défis Nature vous emmène à la rencontre des rapaces les plus surprenants de notre planète. Découvrez les espèces à préserver, puis pariez sur les points forts de vos animaux pour collecter toutes les cartes du jeu et remporter la partie. Alors, prêts à relever le défi ?
+- CONTENU DU JEU : Retrouve dans ta boite : 36 cartes ainsi qu1 règle de jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
+- CADEAU IDÉAL : Vous souhaitez faire plaisir à votre enfant, à celui d’un couple d’amis... pour noël ou un anniversaire ? Eh bien, n’attendez plus ! Ce coffret est ce qu’il lui faut ! Il convient aux enfants à partir de 7 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

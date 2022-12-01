@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU DU JEU : Retrouve dans ta boite : 34 cartes, 1 toise à déplier recto / verso ainsi que 2 règles du jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
 - PARTAGE : Ce jeu est super cool seul mais il peut aussi se jouer en famille ou entre amis. Il se joue de 1 à 4 joueurs. La durée dune partie est de 15 minutes environ. Il est fabriqué en France et est éco-conçu. Alors nattendez plus pour le tester !
 - COMPETITION : Ce jeu est parfait pour découvrir les animaux de la mer mais aussi pour commencer l’apprentissage des nombres grâce aux deux niveaux de jeu de la toise
+- CONTENU DU JEU : Retrouve dans ta boite : 34 cartes, 1 toise à déplier recto / verso ainsi que 2 règles du jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
 - CADEAU IDÉAL : Vous souhaitez faire plaisir à votre enfant, à celui d’un couple d’amis... pour noël ou un anniversaire ? Eh bien, n’attendez plus ! Il convient aux enfants à partir de 5 ans
 - LUDIQUE : Les enfants parient sur la vitesse ou la longévité des animaux. Celui qui possède la plus forte caractéristique remporte les cartes des autres joueurs. Le joueur ayant collectionné le plus de cartes à la fin de la partie, l’emporte
 

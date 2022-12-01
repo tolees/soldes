@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CADEAU IDÉAL : Vous souhaitez faire plaisir à votre enfant, à celui d’un couple d’amis... pour noël ou un anniversaire ? Eh bien, n’attendez plus ! Ce coffret est ce qu’il lui faut ! Il convient aux enfants à partir de 9 ans
-- COMPETITION : Vous disposerez de 5 indices pour deviner aussi vite que possible ce qui se cache derrière les cartes mises en jeu et gagner la partie. Attention ! Il vous faudra aussi faire preuve dadresse en lançant votre jeton sur le plateau pour gagner (ou non) plus de cartes...
-- APPRENTISSAGE : Les énigmes sur les nouvelles technologies permettent aux enfants de développer leurs capacités d’observation et de déduction. Ils vont samuser avec ce jeu ludique, éducatif et riche en connaissances. Alors qui sera le plus malin ?
-- CONTENU DU JEU : Retrouve dans ta boite : 80 énigmes illustrées, 1 plateau de jeu, 1 jeton en bois ainsi que la règle du jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
 - PARTAGE : Ce jeu est super cool pour samuser en famille ou entre amis. Il se joue de 2 à 6 joueurs. La durée dune partie est de 20 minutes environ. Alors nattendez plus pour le tester !
+- COMPETITION : Vous disposerez de 5 indices pour deviner aussi vite que possible ce qui se cache derrière les cartes mises en jeu et gagner la partie. Attention ! Il vous faudra aussi faire preuve dadresse en lançant votre jeton sur le plateau pour gagner (ou non) plus de cartes...
+- CONTENU DU JEU : Retrouve dans ta boite : 80 énigmes illustrées, 1 plateau de jeu, 1 jeton en bois ainsi que la règle du jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
+- APPRENTISSAGE : Les énigmes sur les nouvelles technologies permettent aux enfants de développer leurs capacités d’observation et de déduction. Ils vont samuser avec ce jeu ludique, éducatif et riche en connaissances. Alors qui sera le plus malin ?
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

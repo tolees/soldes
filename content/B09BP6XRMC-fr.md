@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Après avoir terminé la mission, les enfants recevront la bannière de Travail d’équipe en récompense
-- Le robot ultra combo ninja, composé de 4 véhicules différents, constitue l’arme de combat ultime pour rejouer des aventures de ninjas qui mettent en scène les héros des enfants
-- Seuls, les ninjas ne peuvent pas combattre Cobra mécanique et Boa destructeur, mais en faisant équipe, ils le dominent et réussissent à l’emporter !
-- Les jouets et figurines set de voitures LEGO NINJAGO constituent une fabuleuse idée cadeau d’anniversaire pour les enfants dès 9 ans fans de batailles ninja et de véhicules
 - Il comprend 7 Minifigurines LEGO NINJAGO : Kai, Jay, Zane et Cole, le duo de serpents guerriers Cobra mécanique et Boa destructeur, ainsi que Wu Bot
-- Vous trouverez des bannières dans 7 autres sets, y compris Le dragon légendaire de Lloyd 71766, L’évolution Voiture de course de Jay et Nya 71776 et le Temple dojo ninja 71767
+- Seuls, les ninjas ne peuvent pas combattre Cobra mécanique et Boa destructeur, mais en faisant équipe, ils le dominent et réussissent à l’emporter !
+- Le robot ultra combo ninja, composé de 4 véhicules différents, constitue l’arme de combat ultime pour rejouer des aventures de ninjas qui mettent en scène les héros des enfants
+- Les jouets et figurines set de voitures LEGO NINJAGO constituent une fabuleuse idée cadeau d’anniversaire pour les enfants dès 9 ans fans de batailles ninja et de véhicules
 - Ce set de véhicules LEGO NINJAGO 4 en 1 inclut une figurine LEGO composée d’un robot, d’une voiture, d’un tank et d’un jet avec lesquels il est possible de jouer séparément
+- Vous trouverez des bannières dans 7 autres sets, y compris Le dragon légendaire de Lloyd 71766, L’évolution Voiture de course de Jay et Nya 71776 et le Temple dojo ninja 71767
+- Après avoir terminé la mission, les enfants recevront la bannière de Travail d’équipe en récompense
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
