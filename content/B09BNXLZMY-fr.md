@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71397 Super Mario Set d’Extension Labo et Ectoblast de Luigi’s Mansion  Jeu de Construction pour Enfants 6 Ans'
-date: 2022-12-02 03:18:47
+date: 2022-12-03 03:36:17
 image: 'https://m.media-amazon.com/images/I/51Rpzh9xY8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNXLZMY/?tag=tolees0d-21'
 descuento: '34.89'
-average: '16.6453846153846'
+average: '16.6185714285714'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
