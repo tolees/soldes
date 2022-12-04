@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des couleurs intensément brillantes créent de belles impressions pastel
-- Extrêmement polyvalente, la pointe fine permet des marquages incroyablement détaillés et audacieux
-- Comprend 4 marqueurs permanents Sharpie: rose pastel, vert pastel, orange pastel et bleu pastel
-- Remarquablement résistante, lencre sèche rapidement et résiste à la décoloration et à leau
 - Lencre permanente se dépose fièrement sur le papier, le plastique, le métal et la plupart des surfaces
+- Remarquablement résistante, lencre sèche rapidement et résiste à la décoloration et à leau
+- Des couleurs intensément brillantes créent de belles impressions pastel
+- Comprend 4 marqueurs permanents Sharpie: rose pastel, vert pastel, orange pastel et bleu pastel
+- Extrêmement polyvalente, la pointe fine permet des marquages incroyablement détaillés et audacieux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Harry Potter
 - Ron Weasley
 - Figurines POP Moves
+- Harry Potter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
