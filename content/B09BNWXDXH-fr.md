@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
-- Les deux voitures transformables télécommandées à retournement sont équipées dune suspension, ce qui permet aux chenilles de sadapter aux surfaces irrégulières
 - Utilisez lapplication CONTROL+ pour diriger la voiture télécommandée 2 en 1 - lapplication change automatiquement décran pour correspondre au véhicule lorsque le modèle se retourne
-- La première voiture RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
+- Les deux voitures transformables télécommandées à retournement sont équipées dune suspension, ce qui permet aux chenilles de sadapter aux surfaces irrégulières
 - Les modèles sont dotés de suspensions, de cockpits et de chenilles, de 2 moteurs, dun moyeu et dun plateau sur le camion dexploration pour que les enfants puissent explorer tout en jouant
+- Comprend un véhicule de transformation contrôlé par lapplication LEGO Technic, le premier ensemble LEGO Technic à se retourner lorsque le véhicule heurte un mur
+- La première voiture RC LEGO Technic à deux faces qui peut être retourné à la main pour dévoiler une voiture de course sur chenilles dun côté et un camion dexploration de lautre côté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

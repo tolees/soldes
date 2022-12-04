@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
+- NASA - Lensemble de la station spatiale lunaire LEGO City inspiré de la NASA comprend des pièces séparées, une capsule spatiale damarrage et 5 minifigures dastronautes LEGO
 - Les accessoires des minifigures des astronautes LEGO dans ce jeu de station spatiale comprennent un appareil photo, une clé à molette, une perceuse, des casques et des plantes
 - Ce jouet de station spatiale comprend des laboratoires de science et de botanique, une cabine de couchage et une capsule spatiale damarrage
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - Les enfants peuvent zoomer, pivoter et voir les modèles sous tous les angles pendant quils construisent avec lapplication Instructions de montage Lego pour smartphones et tablettes
-- NASA - Lensemble de la station spatiale lunaire LEGO City inspiré de la NASA comprend des pièces séparées, une capsule spatiale damarrage et 5 minifigures dastronautes LEGO
 
 [🛒 Achète-le!!]({{< param buyurl >}})

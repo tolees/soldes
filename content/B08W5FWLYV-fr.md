@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Combinez La moto de cascade Démolition avec d’autres jouets pour enfants LEGO City Stuntz pour encore plus de spectacles acrobatiques grandioses
-- Le héros téméraire et cascadeur LEGO Wallop s’élancera sur des obstacles, s’envolera des rampes et réalisera d’incroyables cascades dans les airs
-- Les enfants peuvent pousser la moto de cascade pour activer la roue à rétrofriction puis la lancer pour effectuer des cascades et manœuvres aériennes fracassantes
-- Instructions PLUS, un guide de construction interactif pour enfants est disponible dans l’appli gratuite LEGO Instructions de montage pour smartphones et tablettes
-- Le set LEGO City La moto de cascade Démolition comprend une moto jouet à rétrofriction et un personnage de la série TV LEGO City Adventures : Wallop
 - Les jouets pour fille et garçon dès 5 ans LEGO cascadeurs miniatures et modulables constitueront un cadeau de Noël ou d’anniversaire LEGO idéal
+- Le héros téméraire et cascadeur LEGO Wallop s’élancera sur des obstacles, s’envolera des rampes et réalisera d’incroyables cascades dans les airs
+- Le set LEGO City La moto de cascade Démolition comprend une moto jouet à rétrofriction et un personnage de la série TV LEGO City Adventures : Wallop
+- Instructions PLUS, un guide de construction interactif pour enfants est disponible dans l’appli gratuite LEGO Instructions de montage pour smartphones et tablettes
+- Les enfants peuvent pousser la moto de cascade pour activer la roue à rétrofriction puis la lancer pour effectuer des cascades et manœuvres aériennes fracassantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Largeur de la chaussure: Moyen
+- Fermeture: Lacet
+- Matériau de semelle: Caoutchouc
+- Dessus: Synthétique
 - Doublure: Synthétique
 - Type de talons: Plat
 - Semelle intérieure: Synthétique
-- Matériau de semelle: Caoutchouc
-- Dessus: Synthétique
-- Largeur de la chaussure: Moyen
-- Fermeture: Lacet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
