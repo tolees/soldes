@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusqu’à 12h bien au sec
-- Fabriquées à partir de coton de haute qualité et de fibres douces d’origine végétale(15% de coton dans le voile extérieur)
+- Certifiées par le label indépendant Standard 100 d’Oeko-Tex
 - Les couches Pampers Harmonie sont testées dermatologiquement et sont hypoallergéniques (*conçues pour minimiser le risque d’allergies)
+- Jusqu’à 12h bien au sec
+- L’emballage contient des matières d’origine végétale
+- Fabriquées à partir de coton de haute qualité et de fibres douces d’origine végétale(15% de coton dans le voile extérieur)
 - Sans lotion, parfum, ni aucun des 26 allergènes listés par l’U.E.
 - Cellulose issue de sources gérées de façon responsable
-- L’emballage contient des matières d’origine végétale
-- Certifiées par le label indépendant Standard 100 d’Oeko-Tex
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

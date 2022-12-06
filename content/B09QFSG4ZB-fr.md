@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent trouver la magie dans chaque coin de ce jouet de château fort LEGO Harry Potter à 4 étages avec le bureau de Dumbledore et la section interdite de la bibliothèque de Poudlard pleine daccessoires
-- Fait partie dune large gamme de sets modulaires qui, une fois combinés, créent le château de Poudlard complet.
 - Les accessoires comprennent également la cape d’invisibilité de Harry, la Pensine, la légendaire épée de Gryffondor, le Choixpeau magique et bébé Fumseck
-- Lensemble comprend 6 minifigurines : Harry Potter, Hermione Granger, Albus Dumbledore, Severus Rogue, Argus Rusard et Irma Pince, plus une figurine de chat
+- Fait partie dune large gamme de sets modulaires qui, une fois combinés, créent le château de Poudlard complet.
+- Ce jouet Harry Potter pour enfant est une excellente idée de cadeau pour les fêtes, les enfants samuseront beaucoup à construire avec lapplication gratuite Instructions de montage LEGO !
+- Les enfants peuvent trouver la magie dans chaque coin de ce jouet de château fort LEGO Harry Potter à 4 étages avec le bureau de Dumbledore et la section interdite de la bibliothèque de Poudlard pleine daccessoires
 - Chaque section de ce château LEGO Poudlard présente des éléments importants des films, tels que la cape dinvisibilité de Harry, lépée de Gryffondor et le fameux choixpeau
 - Cet ensemble LEGO Harry Potter combine plusieurs zones, chacune remplie de magie et dhistoires inspirantes, et comprend également 3 cartes de sorciers aléatoires (16 au total) à collectionner !
-- Ce jouet Harry Potter pour enfant est une excellente idée de cadeau pour les fêtes, les enfants samuseront beaucoup à construire avec lapplication gratuite Instructions de montage LEGO !
+- Lensemble comprend 6 minifigurines : Harry Potter, Hermione Granger, Albus Dumbledore, Severus Rogue, Argus Rusard et Irma Pince, plus une figurine de chat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

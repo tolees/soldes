@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lexpansion "Delicious Last Course"
 - Lédition Physique de Cuphead contient
+- Lexpansion "Delicious Last Course"
 - Une Carte de membre du Club Cuphead
-- Un visuel exclusif du studio MDHR qui varie selon la plateforme
 - 6 cartes à collectionner Cuphead Funnies
+- Un visuel exclusif du studio MDHR qui varie selon la plateforme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
