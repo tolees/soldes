@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les ensembles LEGO Star Wars sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Inclut les figurines LEGO des pilotes Luke Skywalker et Biggs Darklighter, ainsi que les droïdes R2-D2 et R2-Q2
 - 730 pièces pour les filles et garçons entre 8 et 14 ans
-- Le Chasseur stellaire X-Wing Starfighter en mode dattaque mesure plus de 11 cm de haut, 34 cm de long et 30 cm de large
 - Construisez  le Chasseur stellaire X-Wing Starfighter LEGO Star Wars
+- Le Chasseur stellaire X-Wing Starfighter en mode dattaque mesure plus de 11 cm de haut, 34 cm de long et 30 cm de large
 - Issu de lunivers des films Star Wars
+- Inclut les figurines LEGO des pilotes Luke Skywalker et Biggs Darklighter, ainsi que les droïdes R2-D2 et R2-Q2
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

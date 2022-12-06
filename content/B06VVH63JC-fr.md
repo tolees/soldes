@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fais équipe avec les héros ninjas pour partir à la recherche du temple de l’ultime arme ultime. Tu peux repérer ce bâtiment effrayant au signal lumineux qui se trouve à son sommet.
 - Les ninjas vont sinfiltrer dans le temple de l’arme ultime suprême issu de lego ninjago le film.
+- Fais équipe avec les héros ninjas pour partir à la recherche du temple de l’ultime arme ultime. Tu peux repérer ce bâtiment effrayant au signal lumineux qui se trouve à son sommet.
 - De nombreux pièges à éviter à lintérieur du temple de larme ultime suprême !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

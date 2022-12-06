@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manufacturer recommended age: 11-16
-- Activate the LEGO Power Functions and use the remote control to maneuver the vehicle into position, extend the outriggers, rotate, raise and lower the crane or raise and lower the winch
 - 6x6 All Terrain Tow Truck
 - Number of pieces: 1862
+- Manufacturer recommended age: 11-16
+- Activate the LEGO Power Functions and use the remote control to maneuver the vehicle into position, extend the outriggers, rotate, raise and lower the crane or raise and lower the winch
 - This 2-in-1 model rebuilds into a Research Explorer Toy Vehicle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
