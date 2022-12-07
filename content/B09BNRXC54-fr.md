@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il inclut 7 mini-poupées, 1 micro-poupée, 4 figurines d’animaux et un camion mobile afin que les enfants puissent jouer à accueillir une nouvelle famille dans la communauté
-- Le salon de coiffure et café de Heartlake City LEGO Friends sont des endroits où se rencontrer pour profiter d’heures de jeu créatif avec des amis de tous les horizons
-- Grâce à ce set de construction LEGO Friends, le jeu ne finit jamais car les enfants peuvent toujours changer l’organisation de la rue
 - Les enfants peuvent faire leur course à l’épicerie, se rendre au salon pour se faire relooker, travailler à domicile ou passer du temps avec leurs amis au skatepark
+- Le salon de coiffure et café de Heartlake City LEGO Friends sont des endroits où se rencontrer pour profiter d’heures de jeu créatif avec des amis de tous les horizons
+- Il inclut 7 mini-poupées, 1 micro-poupée, 4 figurines d’animaux et un camion mobile afin que les enfants puissent jouer à accueillir une nouvelle famille dans la communauté
+- Grâce à ce set de construction LEGO Friends, le jeu ne finit jamais car les enfants peuvent toujours changer l’organisation de la rue
 - La maison de poupée contient 3 étages avec 3 bâtiments à connecter pour former un quartier avec des boutiques, des services et des appartements LEGO
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

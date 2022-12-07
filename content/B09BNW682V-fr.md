@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Comprend 2 répliques de voitures pour les enfants et les amateurs de modélisme automobile - lAston Martin Valkyrie AMR Pro et lAston Martin Vantage GT3
 - Comprend 2 minifigures LEGO de pilote de course, chacune avec une combinaison de course, un casque, une perruque et une clé à molette pour saffronter
+- Il sagit dun ensemble à collectionner, à jouer et à exposer pour les enfants et les amateurs de voitures passionnés par les voitures de course et linnovation automobile
 - Limagination des enfants alimente les modèles de voitures de course de cet ensemble de jeu, de sorte que laction de course ne sarrête jamais
 - Construisez avec lapplication Instructions de montage Lego pour smartphones et tablettes qui permet de zoomer, de tourner et de voir les modèles sous tous les angles pendant que vous construisez
-- Il sagit dun ensemble à collectionner, à jouer et à exposer pour les enfants et les amateurs de voitures passionnés par les voitures de course et linnovation automobile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

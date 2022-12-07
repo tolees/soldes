@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Du contenu prêt à partager en un clic - Lapplication DJI Mimo utilise la fonction Éditeur IA pour sélectionner et combiner automatiquement des moments épiques avec des transitions idéales et une musique rythmée
 - Des images qui parlent delles-mêmes - Enregistrez des vidéos incroyablement fluides en avec encore plus de détails que jamais; Le FOV ultra large de DJI Action 2 capture encore plus de votre environnement tout au long de votre exploration
 - Étui de protection magnétique - Protège des impacts, des rayures ou des abrasions. Résistant à la chaleur pour une durée d’enregistrement allongée en conditions normales
+- Partagez la vie depuis votre perspective - Libérez vos mains, filmez à la première personne et partagez le monde tel que vous le voyez.
 - L’action sur demande - DJI Action 2 est ultra compact et ne prend presque pas de place dans votre sac de voyage; Avec le cordon magnétique et le bandeau magnétique, vous pouvez porter cette caméra légère en toute simplicité sur votre front ou votre poitrine, tout en capturant le monde qui vous entoure
 - Appropriez-vous votre environnement - Le design magnétique innovant de DJI Action 2 permet de changer daccessoires sans effort tout en immortalisant votre quotidien; Clipsez nimporte quel accessoire de DJI Action 2 et explorez des manières créatives de filmer vos aventures
-- Partagez la vie depuis votre perspective - Libérez vos mains, filmez à la première personne et partagez le monde tel que vous le voyez.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
