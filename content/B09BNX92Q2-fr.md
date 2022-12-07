@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76398 Harry Potter L’Infirmerie De Poudlard  Château et Tour de l horloge  Jouet à Construire Prisonnier d Azkaban  avec Minifigure Ron Weasley'
-date: 2022-12-06 18:23:55
+date: 2022-12-07 18:46:33
 image: 'https://m.media-amazon.com/images/I/51-WOzX7YOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNX92Q2/?tag=tolees0d-21'
 descuento: '34.19'
-average: '33.8068749999999'
+average: '33.7793939393938'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce jouet à construire Harry Potter pour les enfants de 8 ans et plus fait partie dune série densembles modulaires qui se combinent pour créer un jouet LEGO complet du château de Poudlard
-- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
+- Les apprentis sorciers peuvent moduler la tour de lhorloge et voyager dans le temps avec le retourneur de Temps pour une autre aventure toute autant magique !
 - Les enfants peuvent recréer la scène emblématique du voyage dans le temps de laile de lhôpital et soigner les blessures à linfirmerie afin de créer leurs propres histoires
 - Comprend les minifigures LEGO Harry Potter, Hermione Granger, Ron Weasley et Madame Pomfrey, et 2 briques de cartes de sorciers aléatoires à collectionner (16 au total)
-- Les apprentis sorciers peuvent moduler la tour de lhorloge et voyager dans le temps avec le retourneur de Temps pour une autre aventure toute autant magique !
+- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
