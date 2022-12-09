@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71397 Super Mario Set d’Extension Labo et Ectoblast de Luigi’s Mansion  Jeu de Construction pour Enfants 6 Ans'
-date: 2022-12-07 18:46:29
+date: 2022-12-08 22:32:49
 image: 'https://m.media-amazon.com/images/I/51Rpzh9xY8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNXLZMY/?tag=tolees0d-21'
 descuento: '34.89'
-average: '16.5411111111111'
+average: '16.5268421052631'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 - Il inclut les figurines LEGO Super Mario du professeur K. Tastroff et une figurine de Terreur dorée pour donner vie au jeu de construction LEGO Super Mario
 - Les enfants peuvent activer la chasse aux fantômes en appuyant sur le bouton de la salopette et déclencher des musiques de fond en utilisant la plaque de démarrage incluse.
 - Ce jouet Super Mario inclut un Ectoblast pour la figurine LEGO Luigi (non incluse) auquel il est possible d’attacher un embout normal ou le Spectroflash
 - Avec l’ensemble d’extension Labo et Ectoblast de Luigi’s Mansion, les enfants peuvent intégrer un défi de chasse aux fantômes dans leur pack de démarrage LEGO Super Mario
-- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
