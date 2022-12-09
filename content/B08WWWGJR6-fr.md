@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doté d’un portail constructible, ce jouet pour filles et garçons de 8 ans et plus permet d’activer à la main la passerelle interdimensionnelle
-- L’ancien portail, l’un des éléments les plus important du jeu, offre aux utilisateurs du jouet Minecraft des heures de divertissement et d’aventure
-- Inclut les célèbres figurines Minecraft de Steve, d’un bébé mouton, d’un bébé hoglin et d’un wither squelette à combattre dans ce jeu de construction
-- Les jeux de construction LEGO sont conformes aux normes de qualité les plus exigeantes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958
 - Steve a besoin dun nouveau set darmure en néthites, il faudra donc miner de lor pour la forge, et fabriquer le nouveau casque, armure et épée de Steve
 - l’obsidienne et passer le Nether où un Wither squelette et un hoglin les attendent
+- L’ancien portail, l’un des éléments les plus important du jeu, offre aux utilisateurs du jouet Minecraft des heures de divertissement et d’aventure
+- Doté d’un portail constructible, ce jouet pour filles et garçons de 8 ans et plus permet d’activer à la main la passerelle interdimensionnelle
+- Inclut les célèbres figurines Minecraft de Steve, d’un bébé mouton, d’un bébé hoglin et d’un wither squelette à combattre dans ce jeu de construction
+- Les jeux de construction LEGO sont conformes aux normes de qualité les plus exigeantes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

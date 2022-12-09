@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cet ensemble de jouets LEGO Creator 3-en-1 de 224 pièces constitue une mission de construction amusante pour les enfants de 7 ans et plus et représente une excellente récompense pour les jeunes créatifs
-- Comprend une brique de 3 modèles danimaux en 1 : une figurine de lion sauvage, dautruche et de phacochère, plus un vautour et des os pour inspirer des histoires amusantes
 - Le phacochère peut également bouger ses jambes, sa tête et sa mâchoire, et le vautour peut être utilisé avec les 3 modèles pour que les enfants samusent encore plus lors de leurs aventures dans la savane
 - Découvrez dautres nouveaux ensembles LEGO Creator 3-en-1 : Le cyber drone (31111), Le transporteur de voitures de course (31113), La super moto (31114) et La maison sur la plage du surfeur (31118)
+- Comprend une brique de 3 modèles danimaux en 1 : une figurine de lion sauvage, dautruche et de phacochère, plus un vautour et des os pour inspirer des histoires amusantes
 - Les 3 jouets animaux sont tous très faciles à poser : le lion peut bouger ses jambes, sa queue, sa tête et sa mâchoire, et lautruche peut bouger son cou et ses jambes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent mettre en scène différentes histoires, en faisant la course à travers les forêts ou sur les dunes de sable avec des voitures miniatures, ou en soulevant des objets lourds avec la chargeuse
 - Jouez en voyage - le buggy tout-terrain est dune taille suffisamment compacte pour que les enfants puissent lemporter avec eux dès quils quittent la maison
-- Le buggy tout-terrain est équipé de gros pneus, dune cage de sécurité, dun pare-buffle et dun aileron, tandis que la nacelle de la chargeuse-pelleteuse peut monter et descendre
 - Lensemble de véhicules LEGO Creator comprend 3 modèles en 1 : une voiture-jouet buggy tout-terrain, une chargeuse/déchargeuse et un Véhicule tout-terrain
+- Les enfants peuvent mettre en scène différentes histoires, en faisant la course à travers les forêts ou sur les dunes de sable avec des voitures miniatures, ou en soulevant des objets lourds avec la chargeuse
+- Le buggy tout-terrain est équipé de gros pneus, dune cage de sécurité, dun pare-buffle et dun aileron, tandis que la nacelle de la chargeuse-pelleteuse peut monter et descendre
 - Le jouet LEGO ATV / véhicule tout terrain est équipé dun guidon et dun siège pour simuler des aventures délirantes en véhicule
 
 [🛒 Achète-le!!]({{< param buyurl >}})

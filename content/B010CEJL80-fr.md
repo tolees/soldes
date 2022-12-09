@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durée de la partie: 20 minutes
-- Améliorez votre puissance militaire grâce au commerce et envoyez votre armada de vaisseaux de guerre protéger ce qui vous appartient et conquérir ce qui ne vous appartient pas encore !
 - 2 joueurs
+- Améliorez votre puissance militaire grâce au commerce et envoyez votre armada de vaisseaux de guerre protéger ce qui vous appartient et conquérir ce qui ne vous appartient pas encore !
 - Idéal pour: ado/ adulte
 - Récompense: as dor cannes 2017 - Golden geek 2014 (version Française)
+- Durée de la partie: 20 minutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

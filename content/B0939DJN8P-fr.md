@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque Pack dExtension comprend 3 hexagones avec des connecteurs et des bandes adhésives
-- Produit de haute qualité
 - Cest facile que dinstaller un cadre photo
 - Fixez facilement les panneaux au mur à laide des adhésifs fournsi
-- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
-- Étendez votre installation Nanoleaf Elements avec les 3 panneaux lumineux supplémentaires du Pack dExtension
 - Ce pack nécessite le contrôleur et le bloc dalimentation vendus avec le Kit de Démarrage Nanoleaf Elements
+- Étendez votre installation Nanoleaf Elements avec les 3 panneaux lumineux supplémentaires du Pack dExtension
+- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
+- Produit de haute qualité
+- Chaque Pack dExtension comprend 3 hexagones avec des connecteurs et des bandes adhésives
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
