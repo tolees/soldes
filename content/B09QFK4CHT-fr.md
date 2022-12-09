@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 42144 Technic La Grue de Manutention  Jeu de Construction Éducatif  Engin de Chantier Jouet  Maquette Pneumatique  pour Enfants 10 Ans et Plus'
-date: 2022-12-01 09:06:47
+date: 2022-12-09 03:35:28
 image: 'https://m.media-amazon.com/images/I/51dCBT54HYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09QFK4CHT/?tag=tolees0d-21'
 descuento: '28.40'
-average: '85.0925'
+average: '85.256'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les fonctions du manuel : un bras supérieur qui pivote à 360 degrés, une cabine de commande qui sélève, un système de châssis mobile avec direction et 4 stabilisateurs
-- Les fonctions pneumatiques LEGO comprennent un bras mobile avec une portée denviron 13 pouces, ainsi quun grappin fonctionnel de type « peau dorange »
 - Les jouets de construction LEGO Technic présentent des mouvements et des mécanismes réalistes qui initient les jeunes bâtisseurs à lunivers de lingénierie
 - Ce jouet de grue LEGO Technic La Grue de Manutention comporte des fonctions manuelles et pneumatiques pour que les enfants apprennent comment fonctionne ce puissant véhicule
+- Les fonctions du manuel : un bras supérieur qui pivote à 360 degrés, une cabine de commande qui sélève, un système de châssis mobile avec direction et 4 stabilisateurs
+- Les fonctions pneumatiques LEGO comprennent un bras mobile avec une portée denviron 13 pouces, ainsi quun grappin fonctionnel de type « peau dorange »
 - Ce jouet dengin de chantier avec une gamme de fonctions est un excellent cadeau pour les fans de LEGO Technic et pour tous ceux qui cherchent une construction LEGO plus difficile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
