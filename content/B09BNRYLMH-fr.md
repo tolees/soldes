@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque sac de briques contient un personnage et un modèle, les enfants peuvent donc commencer rapidement à imaginer des aventures de super-héros
-- Les enfants peuvent se joindre à Spider-Man et Ghost-Spider pour délivrer Trace-E du labo du Doc Octopus, qui comprend un robot et une cellule de prison
 - Le jouet Spider-Man pour enfants dès 4 ans inclut 3 minifigures LEGO Marvel, un robot-araignée, un décor de labo, un jouet camion à construire et un robot d’action
 - Les super-héros peuvent escalader l’échafaudage et lancer une toile tandis que le bras du robot attrape les bonbonnes d’énergie du Doc Octopus ou un lanceur de toile peu méfiant
+- Chaque sac de briques contient un personnage et un modèle, les enfants peuvent donc commencer rapidement à imaginer des aventures de super-héros
+- Les enfants peuvent se joindre à Spider-Man et Ghost-Spider pour délivrer Trace-E du labo du Doc Octopus, qui comprend un robot et une cellule de prison
 - Ce jouet de construction LEGO Spidey et ses amis extraordinaires inclut une voiture Spider-Man et un robot d’action permettant d’imaginer de nombreuses aventures !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
