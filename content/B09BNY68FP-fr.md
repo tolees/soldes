@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71396 Super Mario Ensemble d’Extension La Junior-Mobile de Bowser Jr.  Jeu de Construction pour Enfants 6 Ans'
-date: 2022-12-14 18:31:33
+date: 2022-12-15 19:27:06
 image: 'https://m.media-amazon.com/images/I/41+f3tMBsxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNY68FP/?tag=tolees0d-21'
 descuento: '50.05'
-average: '5.82333333333333'
+average: '5.70428571428571'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
+- Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
 - Les enfants peuvent ajouter un défi aérien de collecte de pièces à leur univers LEGO Super Mario avec cet ensemble d’extension La voiture de clown de Bowser Junior
 - Il est l’heure du décollage ! Les enfants peuvent faire voler la voiture clown de Bowser Junior pour collecter autant de pièces que possible et battre leur ennemi, Bob-omb
 - Les sets de construction à collectionner LEGO Super Mario avec des figurines d’ennemis offrent des possibilités infinies pour agrandir, transformer et créer des niveaux uniques
-- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
-- Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
