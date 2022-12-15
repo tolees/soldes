@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet à construire Super Mario est également doté dun haut-parleur qui diffuse les sons et la musique emblématiques du jeu vidéo
-- Mario collecte des pièces virtuelles en courant et en sautant du tuyau de départ au poteau darrivée, en touchant 7 briques daction pour différentes interactions
-- La figurine LEGO Mario est équipée de capteurs de couleurs, ainsi que décrans LCD dans ses yeux, sa bouche et son ventre pour afficher plus de 100 réactions instantanées différentes en fonction des mouvements
 - Le jeu à construire LEGO Super Mario est un fantastique cadeau danniversaire ou de Noël pour tous les enfants qui aiment le jeu et les sets LEGO Mario !
-- La figurine LEGO Super Mario est alimentée par 2 piles AAA (non incluses) et offre une expérience de jeu très interactive
+- Ce jouet à construire Super Mario est également doté dun haut-parleur qui diffuse les sons et la musique emblématiques du jeu vidéo
 - Téléchargez lapplication gratuite LEGO Super Mario pour des façons amusantes de jouer et plus encore. Visitez LEGOcom/devicecheck pour obtenir la liste des appareils compatibles
+- La figurine LEGO Mario est équipée de capteurs de couleurs, ainsi que décrans LCD dans ses yeux, sa bouche et son ventre pour afficher plus de 100 réactions instantanées différentes en fonction des mouvements
+- La figurine LEGO Super Mario est alimentée par 2 piles AAA (non incluses) et offre une expérience de jeu très interactive
+- Mario collecte des pièces virtuelles en courant et en sautant du tuyau de départ au poteau darrivée, en touchant 7 briques daction pour différentes interactions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

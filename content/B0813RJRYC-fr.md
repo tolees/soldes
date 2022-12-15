@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend un livret pour collectionneurs avec des instructions de montage, une plaque décorative pour l’exposition et un numéro de série unique
-- Avec ce modèle réduit de voiture à l’échelle 1:8 LEGO Technic contenant 3 696 pièces, vous serez plus proche que jamais de la véritable Lamborghini Sián FKP 37
 - Avec son design élégant et les superbes détails des éléments décorés, cette maquette de voiture à construire LEGO pour adultes est une représentation réaliste de la voiture de sport originale
 - Admirez la transmission séquentielle à 8 rapports, le capot et coffre qui s’ouvrent, les détails des freins à disque, les jantes dorées et la couleur vert citron de cette construction LEGO pour adultes
 - Cette voiture de course LEGO Technic inclut des détails authentiques : moteur V12 avec pistons mobiles, direction, suspensions avant et arrière, spoiler arrière et portes en ciseaux
+- Comprend un livret pour collectionneurs avec des instructions de montage, une plaque décorative pour l’exposition et un numéro de série unique
+- Avec ce modèle réduit de voiture à l’échelle 1:8 LEGO Technic contenant 3 696 pièces, vous serez plus proche que jamais de la véritable Lamborghini Sián FKP 37
 
 [🛒 Achète-le!!]({{< param buyurl >}})

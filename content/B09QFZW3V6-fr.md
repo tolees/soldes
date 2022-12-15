@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lapplication compagnon LEGO Super Mario offre des instructions et plus didées : visitez LEGO.comdevicecheck pour une liste des appareils Android et iOS compatibles
 - Cet ensemble constitue un cadeau amusant danniversaire, de Noël ou pour toute autre occasion pour les enfants branchés de 8 ans et plus et les fans des jouets LEGO Super Mario
 - Comprend une brique d’action Temps, un vitrail Peach, une peinture Bob-omb avec un Action Tag caché, un gâteau avec un Goomba caché à lintérieur et plus encore
-- Les enfants peuvent étendre leur univers LEGO Super Mario avec cet ensemble dextension du château de la princesse Peach, qui comprend un jouet de château et 5 figurines Super Mario
-- Ce jouet pour enfants de 8 ans est compatible avec les autres ensembles LEGO Super Mario, nécessite un parcours dinitiation LEGO Super Mario (71360, 71387 ou 71403) pour jouer
-- Les enfants aident LEGO Mario, LEGO Luigi ou LEGO Peach (figurines non incluses) à activer la plateforme coulissante pour faire tourner le mur et révéler Bowser
 - Comprend également un tuyau spécial : Le jouet de château de Peach, le pont « cassé » et 5 figurines LEGO Super Mario - Bowser, Ludwig, Toadette, un Goomba et un Bob-omb
+- Ce jouet pour enfants de 8 ans est compatible avec les autres ensembles LEGO Super Mario, nécessite un parcours dinitiation LEGO Super Mario (71360, 71387 ou 71403) pour jouer
+- Lapplication compagnon LEGO Super Mario offre des instructions et plus didées : visitez LEGO.comdevicecheck pour une liste des appareils Android et iOS compatibles
+- Les enfants aident LEGO Mario, LEGO Luigi ou LEGO Peach (figurines non incluses) à activer la plateforme coulissante pour faire tourner le mur et révéler Bowser
+- Les enfants peuvent étendre leur univers LEGO Super Mario avec cet ensemble dextension du château de la princesse Peach, qui comprend un jouet de château et 5 figurines Super Mario
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

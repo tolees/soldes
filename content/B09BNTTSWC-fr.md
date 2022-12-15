@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il comprend 3 figurines LEGO Star Wars : Chewbacca avec une décoration neige, le pilote Hoth de l’AT-ST et un soldat rebelle de Hoth, chacun doté d’armes
-- Il inclut le premier set de construction en briques LEGO de l’AT-ST de la Bataille de Hoth de Star Wars : L’empire contre-attaque pour recréer les détails du combat
-- L’AT-ST Raider est doté d’une trappe pour accéder au cockpit, d’un toit ouvrant, d’une tête qui pivote avec des roues, de 2 fusils à tenons et de jambes articulées
-- Des instructions sont fournies. Avec l’application LEGO Instructions de montage, les constructeurs peuvent zoomer, faire pivoter et visualiser une version numérique de leur modèle
 - Il inclut aussi une minifigure LEGO d’un droïde impérial pour recréer des scènes célèbres de Star Wars : L’empire contre-attaque
+- Il comprend 3 figurines LEGO Star Wars : Chewbacca avec une décoration neige, le pilote Hoth de l’AT-ST et un soldat rebelle de Hoth, chacun doté d’armes
+- L’AT-ST Raider est doté d’une trappe pour accéder au cockpit, d’un toit ouvrant, d’une tête qui pivote avec des roues, de 2 fusils à tenons et de jambes articulées
+- Il inclut le premier set de construction en briques LEGO de l’AT-ST de la Bataille de Hoth de Star Wars : L’empire contre-attaque pour recréer les détails du combat
+- Des instructions sont fournies. Avec l’application LEGO Instructions de montage, les constructeurs peuvent zoomer, faire pivoter et visualiser une version numérique de leur modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

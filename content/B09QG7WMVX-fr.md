@@ -31,7 +31,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Ce jouet de collection Super Mario est un cadeau amusant pour les enfants qui possèdent le jeu LEGO Super Mario Pack de Démarrage (71360, 71387 ou 71403) - nécessaire pour jouer
 - Les jouets LEGO Super Mario sont parfaits pour jouer en solo ou en groupe, avec des amis ayant leur propre figurine LEGO Super Mario, afin de relever ce défi ensemble
 - Les enfants aident LEGO Mario, LEGO Luigi ou LEGO Peach (ces 3 figurines ne sont pas incluses) à piétiner chaque extrémité des 2 palmes pour retourner les Fuzzies
-- Les enfants peuvent étendre leur Pack de Démarrage LEGO Super Mario avec cet ensemble dextension Fuzzy Flippers : un niveau dans le ciel construit en briques et 2 figurines LEGO Super Mario Fuzzy
 - Comprend une scène dans le ciel, un bloc de temps et un trampoline champignon orange avec un effet rebondissant pour quune figurine interactive puisse sauter sur les nageoires
+- Les enfants peuvent étendre leur Pack de Démarrage LEGO Super Mario avec cet ensemble dextension Fuzzy Flippers : un niveau dans le ciel construit en briques et 2 figurines LEGO Super Mario Fuzzy
 
 [🛒 Achète-le!!]({{< param buyurl >}})

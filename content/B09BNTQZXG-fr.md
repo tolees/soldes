@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet de construction Iron Man permet aux enfants de se mettre dans la peau de Tony Stark et de construire une figurine d’action avec armure pour jouer avec et l’exposer
-- Il inclut une figurine Iron Man mesurant 24 cm de haut, une réplique réaliste de la vedette métallique des films Avengers des studios Marvel
-- Cette figurine Iron Man constituera une superbe pièce d’exposition et inclut une plaque amovible contenant des informations sur l’Avenger en armure iconique
 - Toutes les parties de l’Iron Man à construire sont articulées et les enfants peuvent s’amuser à déplacer et faire prendre à l’armure des poses similaires à celles du vrai modèle
 - Une brique lumineuse actionnée par un bouton ajoute une touche de réalisme en plus en illuminant le réacteur à arc situé dans la poitrine d’Iron Man
+- Il inclut une figurine Iron Man mesurant 24 cm de haut, une réplique réaliste de la vedette métallique des films Avengers des studios Marvel
+- Ce jouet de construction Iron Man permet aux enfants de se mettre dans la peau de Tony Stark et de construire une figurine d’action avec armure pour jouer avec et l’exposer
+- Cette figurine Iron Man constituera une superbe pièce d’exposition et inclut une plaque amovible contenant des informations sur l’Avenger en armure iconique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

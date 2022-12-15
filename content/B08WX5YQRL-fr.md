@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce camion LEGO avec remorque se transforme en bassin pour les cascades avec des tuyaux d’échappement, des flammes et des calandres à dents
+- Combinez ce set avec d’autres sets de l’univers LEGO City Stuntz (vendus séparément) pour plus d’action de personnages et de cascadeurs LEGO
+- Il comprend 4 minifigures, dont 3 personnages de la série TV LEGO City Adventures, tout ce qu’il faut pour que les enfants commencent à s’amuser !
 - Instructions PLUS disponible dans l’appli gratuite LEGO Instructions de montage permet de zoomer, pivoter et visualiser le jouet pour enfants +6 ans pendant la construction
 - Avec 420 pièces, Le Camion de Spectacle des Cascadeurs fait partie des sets de construction amusants LEGO City Stuntz, le sous-thème captivant sur les spectacles d’acrobatie
 - Les enfants peuvent activer la moto de cascade à rétrofriction et la lancer sur la rampe pour atteindre la cible ou faire tomber le clown dans le bassin
-- Combinez ce set avec d’autres sets de l’univers LEGO City Stuntz (vendus séparément) pour plus d’action de personnages et de cascadeurs LEGO
-- Il comprend 4 minifigures, dont 3 personnages de la série TV LEGO City Adventures, tout ce qu’il faut pour que les enfants commencent à s’amuser !
-- Ce camion LEGO avec remorque se transforme en bassin pour les cascades avec des tuyaux d’échappement, des flammes et des calandres à dents
 - Le set LEGO City Le Camion de Spectacle des Cascadeurs est doté d’un camion jouet avec rampes de lancement et d’atterrissage, une moto cascade jouet et d’autres accessoires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
