@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie de contrôle des jeux: Analogique/Numérique. Technologie de connectivité: Avec fil. Couleur du produit: Bleu
+- Profondeur du colis: 170 mm
+- NACON Manette filaire compacte lumineuse pour Playstation 4. Type dappareil: Manette de jeu
 - Hauteur: 65 mm. Largeur du colis: 65 mm
 - Longueur de câble: 3 m. Largeur: 170 mm
-- Profondeur du colis: 170 mm
-- Plates-formes de jeux prises en charge: PlayStation 4
 - Profondeur: 205 mm
-- Technologie de contrôle des jeux: Analogique/Numérique. Technologie de connectivité: Avec fil. Couleur du produit: Bleu
-- Hauteur du colis: 220 mm
 - Transparent
-- NACON Manette filaire compacte lumineuse pour Playstation 4. Type dappareil: Manette de jeu
+- Hauteur du colis: 220 mm
+- Plates-formes de jeux prises en charge: PlayStation 4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
