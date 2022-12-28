@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
-- Ce jouet à construire Harry Potter pour les enfants de 8 ans et plus fait partie dune série densembles modulaires qui se combinent pour créer un jouet LEGO complet du château de Poudlard
+- Les enfants peuvent recréer la scène emblématique du voyage dans le temps de laile de lhôpital et soigner les blessures à linfirmerie afin de créer leurs propres histoires
 - Les apprentis sorciers peuvent moduler la tour de lhorloge et voyager dans le temps avec le retourneur de Temps pour une autre aventure toute autant magique !
 - Comprend les minifigures LEGO Harry Potter, Hermione Granger, Ron Weasley et Madame Pomfrey, et 2 briques de cartes de sorciers aléatoires à collectionner (16 au total)
-- Les enfants peuvent recréer la scène emblématique du voyage dans le temps de laile de lhôpital et soigner les blessures à linfirmerie afin de créer leurs propres histoires
+- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
+- Ce jouet à construire Harry Potter pour les enfants de 8 ans et plus fait partie dune série densembles modulaires qui se combinent pour créer un jouet LEGO complet du château de Poudlard
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

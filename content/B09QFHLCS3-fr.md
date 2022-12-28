@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La figurine LEGO Peach nécessite 2 piles AAA (non incluses) et se connecte via Bluetooth avec les figurines Mario ou Luigi LEGO (non inclus) pour un jeu à 2 joueurs
+- Lapplication LEGO Super Mario qui laccompagne comprend des façons amusantes de jouer et plus encore. Visitez LEGO.comdevicecheck pour obtenir la liste des appareils compatibles
+- La figurine interactive Peach est équipée dun capteur de couleurs, dun écran LCD pour afficher les réactions instantanées et dun haut-parleur pour diffuser les sons des jeux vidéo
 - Les enfants gagnent des récompenses avec le bloc volant et des pièces numériques pour aider le jouet LEGO Mario Peach à samuser sur la balançoire et pour les interactions avec le Toad jaune
 - Le Pack de Démarrage LEGO Super Mario Les Aventures de Peach comprend des figurines interactives de la princesse Peach, de Lemmy et de Toad jaune et un parcours à construire
 - Les enfants donnent à manger à la princesse Peach LEGO le fruit rouge pour déclencher des réactions heureuses et gagner des pièces supplémentaires, ou offrent le fruit à la figurine du Toad jaune
-- La figurine interactive Peach est équipée dun capteur de couleurs, dun écran LCD pour afficher les réactions instantanées et dun haut-parleur pour diffuser les sons des jeux vidéo
 - Ce jeu comprend un tuyau de départ, un poteau de but, une balançoire, un défi de lancement de bulles de lave et se combine avec dautres jouets LEGO Super Mario à construire
-- Lapplication LEGO Super Mario qui laccompagne comprend des façons amusantes de jouer et plus encore. Visitez LEGO.comdevicecheck pour obtenir la liste des appareils compatibles
-- La figurine LEGO Peach nécessite 2 piles AAA (non incluses) et se connecte via Bluetooth avec les figurines Mario ou Luigi LEGO (non inclus) pour un jeu à 2 joueurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

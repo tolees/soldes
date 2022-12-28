@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet LEGO Mandalorian à construire comprend un cockpit à minifigure, une soute et un lanceur à ressort pour protéger léquipage
-- Avec ce jouet de construction Star Wars The Mandalorian Le Chasseur N-1 Mandalorien, les enfants peuvent revivre les aventures du Livre de Boba Fett sur Tatooine
 - Les enfants peuvent placer la figurine LEGO bébé Yoda incluse dans lespace passager pour vivre des aventures épiques dans Le Livre de Boba Fett
+- Le jouet LEGO Mandalorian à construire comprend un cockpit à minifigure, une soute et un lanceur à ressort pour protéger léquipage
 - Inclus les figurines LEGO The Mandalorian, avec un jet pack et un sabre laser noir, et Peli Motto avec une clé à molette, ainsi que des figurines LEGO Bébé Yoda et dun droïde BD
+- Avec ce jouet de construction Star Wars The Mandalorian Le Chasseur N-1 Mandalorien, les enfants peuvent revivre les aventures du Livre de Boba Fett sur Tatooine
 - Utilisez l’application Instructions de Montage LEGO, qui propose des outils de visualisation numérique pour enrichir lexpérience créative et amusante des jeux de construction Star Wars pour tous les âges
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
