@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60319 City Fire Le Sauvetage des Pompiers et La Course-Poursuite de La Police  Jouet Voiture  Camion et Moto  pour Garçons et Filles de 5 Ans'
-date: 2022-12-28 11:52:37
+date: 2022-12-29 12:34:24
 image: 'https://m.media-amazon.com/images/I/51v3MXauxSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNW36Z2/?tag=tolees0d-21'
 descuento: '33.64'
-average: '20.1415384615384'
+average: '20.1325925925925'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
