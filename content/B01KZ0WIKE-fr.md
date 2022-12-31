@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur: argent
-- Longueur: 304mm
 - Renvoi dangle flexible 304mm
+- Longueur: 304mm
 - Dangle flexible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
