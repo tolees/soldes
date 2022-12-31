@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cet ensemble de bricolage DIY pour enfants comprend 5 porte-clés pour cartables, avec accroches, de différentes couleurs et de deux tailles différentes
-- Lensemble est idéal pour les loisirs créatifs de groupe pour enfants ou pour jouer seul, avec des pièces à revêtir et à échanger une fois quelles sont confectionnées
-- Comprend de nombreuses pièces colorées, iridescentes et décorées, ainsi que des lettres pour réaliser des étiquettes de sac personnalisées
 - Les enfants peuvent également y associer le sac LEGO DOTS Extra DOTS - Série 6 (vendu séparément) ou nimporte quelle pièce DOTS pour continuer à samuser
+- Comprend de nombreuses pièces colorées, iridescentes et décorées, ainsi que des lettres pour réaliser des étiquettes de sac personnalisées
 - Ce matériel de bricolage peut être utilisé seul, ou bien les enfants peuvent trouver des inspirations sur lemballage et la brochure comprise
+- Lensemble est idéal pour les loisirs créatifs de groupe pour enfants ou pour jouer seul, avec des pièces à revêtir et à échanger une fois quelles sont confectionnées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
