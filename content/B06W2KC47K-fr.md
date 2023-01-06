@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut 7 figurines : Wu, Kai, Lloyd, Zane, Nya, Jay et Cole
-- Construisez le QG des ninjas, avec 3 étages modulaires, une figure de proue représentant un dragon à deux têtes, des voiles décorées et des ancres à actionner
 - 2295 pièces pour les garçons et les filles de 9 à 14 ans
-- Mesure plus de 45 cm de haut, 55 cm de long et 17 cm de large
-- Les ensembles LEGO Ninjago sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Construisez le QG des ninjas, avec 3 étages modulaires, une figure de proue représentant un dragon à deux têtes, des voiles décorées et des ancres à actionner
 - Issu du film LEGO NINJAGO
+- Mesure plus de 45 cm de haut, 55 cm de long et 17 cm de large
+- Inclut 7 figurines : Wu, Kai, Lloyd, Zane, Nya, Jay et Cole
+- Les ensembles LEGO Ninjago sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
