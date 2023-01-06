@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Hot Air Tension ; 5 niveaux de température
+- Minuteur jusquà 180 min
 - Facile à ranger ; Protection contre la surchauffe
 - Accessoires : tige ajustable télescopique, cintre, housse en nylon, 4 pinces à poids ; Puissance : 1200 W
-- Minuteur jusquà 180 min
+- Technologie Hot Air Tension ; 5 niveaux de température
 - Garantie 2ans- Atelier SAV en France
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
