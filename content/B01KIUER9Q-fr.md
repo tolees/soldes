@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
-- Garantie 3 ans par le SAV PNY situé en France
-- Format Slim 7 mm
-- Capacité de 480 Go
-- Interface Serial ATA III/6 GBPs
 - Idéal pour booster le système et les applications de tous les types dordinateur
+- Garantie 3 ans par le SAV PNY situé en France
+- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
+- Capacité de 480 Go
+- Format Slim 7 mm
+- Interface Serial ATA III/6 GBPs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
