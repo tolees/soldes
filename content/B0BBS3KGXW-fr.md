@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet LEGO NINJAGO de 794 pièces permet aux enfants de 9 ans et plus de jouer des histoires de ninja et constitue un cadeau danniversaire ou de tous les jours pour les enfants qui aiment laventure
 - Comprend un pixal bot avec 2 pinces pour tenir les épées des ninjas, et les guerriers dos LEGO verts ont une arbalète à tir rapide chargée de 4 fléchettes
 - Les jambes et les bras de la figurine sont articulées pour que les enfants puissent jouer des jeux de rôle et exposer le jouet de construction dans leur chambre
-- Ce jouet de combat ninja pour les enfants de 9 ans et plus comprend les minifigurines Jay et Nya pour que les enfants puissent combattre le Roi squelette, les Guerriers squelettes et le Chasseur squelette
 - Ce jouet LEGO NINJAGO comprend une figurine géante de robot avec des armes de ninja, 5 minifigurines NINJAGO et une arbalète à tenons sur un chariot
 - Cette figurine géante NINJAGO avec un cockpit pour Jay a une grande lame de dragon, 2 épées katana et 2 lanceurs montés sur ses épaules
+- Le jouet LEGO NINJAGO de 794 pièces permet aux enfants de 9 ans et plus de jouer des histoires de ninja et constitue un cadeau danniversaire ou de tous les jours pour les enfants qui aiment laventure
+- Ce jouet de combat ninja pour les enfants de 9 ans et plus comprend les minifigurines Jay et Nya pour que les enfants puissent combattre le Roi squelette, les Guerriers squelettes et le Chasseur squelette
 
 [🛒 Achète-le!!]({{< param buyurl >}})
