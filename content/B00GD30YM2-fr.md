@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SET DE 100 PIÈCES : le grand circuit à billes comprend 20 billes en verre et 80 blocs de construction en bois colorés, imprimés et en finition naturelle qui sont faciles à combiner
-- SÛR ET CERTIFIÉ : ce grand toboggan à billes porte le label EPH et il est conforme à la dernière norme de sécurité EN71-1:2014 - Tous les matériaux utilisés sont testés contre les substances nocives et certifiés
 - PEINTURE ÉCOLOGIQUE : la laque utilisée pour ce jeu de construction nest pas toxique et résiste à la salive
-- MATIÈRES : bois massif, verre et métal - Convient aux enfants à partir de 3 ans
+- SÛR ET CERTIFIÉ : ce grand toboggan à billes porte le label EPH et il est conforme à la dernière norme de sécurité EN71-1:2014 - Tous les matériaux utilisés sont testés contre les substances nocives et certifiés
 - APPORT ÉDUCATIF : le circuit à billes favorise la créativité, la patience, la concentration et la motricité de lenfant grâce à ses pièces diverses comprenant des éléments sonores tel que les cloches réglables en hauteur et lescalier sonore
+- MATIÈRES : bois massif, verre et métal - Convient aux enfants à partir de 3 ans
+- SET DE 100 PIÈCES : le grand circuit à billes comprend 20 billes en verre et 80 blocs de construction en bois colorés, imprimés et en finition naturelle qui sont faciles à combiner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
