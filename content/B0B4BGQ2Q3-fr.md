@@ -29,7 +29,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Enquêtez sur l’étrange histoire de l’île et battez-vous pour votre survie face à un éventail d’adeptes et de créatures prismatiques.
-- Inspiré par lhorreur psychédélique des années 1970, découvrez des paysages hauts en couleur ainsi qu’une bande son électro-rock composée par le primé Paul Ruskay.
 - Ramassez des objets, fabriquez-en et gérez vos ressources afin daméliorer vos chances en combat rapproché, ou succombez à la panique et prenez la fuite.
+- Inspiré par lhorreur psychédélique des années 1970, découvrez des paysages hauts en couleur ainsi qu’une bande son électro-rock composée par le primé Paul Ruskay.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
