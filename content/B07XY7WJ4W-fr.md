@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONCTION AVEC TV BOX - Ajouter un routeur entre votre Box & son Player TV peut poser des problèmes. Vous pouvez soit ne pas connecter le Player TV via Deco, soit utiliser le mode point daccès de Deco
-- TECHNOLOGIES AVANCÉES - Un seul nom de réseau, WPA2, MU-MIMO, Beamforming, Firewall, IPV6, et plus encore
-- GARANTIE 3 ANS
 - FACILE À INSTALLER ET À GÉRER - Deco APP, suivi GDPR (Règlement général sur la protection des données), vous aide à configurer le WiFi en quelques minute et gérer tous les appareils sur votre smartphone facilement par les services et technologies: contrôle parental (surveiller et contrôler), QoS (gestion des priorités réseau pour vos appareils), etc.
-- 100% COUVERTURE AVEC WIFI MESH - Le pack de 2 boitiers Deco P9 offre une grande couverture jusquà 400㎡, avec la vitesse 1200 Mbit/s, possibilité de connecter plus de 100 appareils en simultané. Restez connecté lorsque vous vous déplacez dans votre maison avec un nom de réseau unique et un seul mot de passe
 - COMPATIBILITE AVEC TOUTES LES BOX INTERNET DU MARCHE - Remplacez votre WiFi existant, Deco est compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (fibre optique, DSL, etc.), adaptée aux débits＞500 Mbit/s box internet, 2+2+2 ports Gigabit
+- FONCTION AVEC TV BOX - Ajouter un routeur entre votre Box & son Player TV peut poser des problèmes. Vous pouvez soit ne pas connecter le Player TV via Deco, soit utiliser le mode point daccès de Deco
+- GARANTIE 3 ANS
 - RAPIDE ET STABLE MESH-ROAMING - Les nouvelles technologies TP-Link offrent des connexions WiFi Mesh en utilisant un seul réseau, ultra-rapides et stables lorsque vous vous déplacez nimporte où dans votre maison, donc sans interrompre votre partie en ligne, votre série ou votre appels vidéo, même pour streaming 4K et gaming.
+- TECHNOLOGIES AVANCÉES - Un seul nom de réseau, WPA2, MU-MIMO, Beamforming, Firewall, IPV6, et plus encore
+- 100% COUVERTURE AVEC WIFI MESH - Le pack de 2 boitiers Deco P9 offre une grande couverture jusquà 400㎡, avec la vitesse 1200 Mbit/s, possibilité de connecter plus de 100 appareils en simultané. Restez connecté lorsque vous vous déplacez dans votre maison avec un nom de réseau unique et un seul mot de passe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
