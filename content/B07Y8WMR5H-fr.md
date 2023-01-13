@@ -30,7 +30,7 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Éclairage des bords sur tout le pourtour pour une expérience de jeu immersive
 - Powered by Razer Chroma pour un éclairage RVB sans limites
-- Surface microtexturée pour un suivi précis au pixel près, calibré pour tous les capteurs de souris
 - Support de câble intégré pour une résistance minimale aux mouvements
+- Surface microtexturée pour un suivi précis au pixel près, calibré pour tous les capteurs de souris
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Condition physique - Évaluation de votre niveau de forme lors de la course, grâce à lestimation de la VO2 max
-- Smart notifications - Recevez SMS, appels, e-mails, alertes du calendrier et notifications de vos applications préférées sur lécran de votre montre
-- Mode entraînement avec GPS connecté via smartphone - Retrouvez litinéraire de vos sessions avec la distance, laltitude et lallure
 - Suivi du sommeil - Recevez votre score de sommeil chaque jour avec les cycles de sommeil, les interruptions, la profondeur et la régularité
+- Mode entraînement avec GPS connecté via smartphone - Retrouvez litinéraire de vos sessions avec la distance, laltitude et lallure
 - Toujours plus loin - Étanche jusquà 50 m, 25 jours dautonomie, boîtier en acier inoxydable
+- Smart notifications - Recevez SMS, appels, e-mails, alertes du calendrier et notifications de vos applications préférées sur lécran de votre montre
+- Condition physique - Évaluation de votre niveau de forme lors de la course, grâce à lestimation de la VO2 max
 - Suivi du rythme cardiaque - Optimisez vos entrainements sportifs avec le suivi du rythme cardiaque en continu, et son analyse détaillée en journée et pendant la nuit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
