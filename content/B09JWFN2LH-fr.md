@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend 3 figurines miniatures LEGO Disney de la sirène Ariel, dArista et du roi Triton pour épater les fans des princesses Disney
-- Les enfants peuvent écouter Sebastian jouer dans la partie musicale, danser sur la pieuvre avec Flounder et Arista ou découvrir le trésor dAriel
-- Descendez le toboggan doré et rejoignez le roi Triton dans son carrosse à dauphins ou jouez avec les figurines danimaux marins
 - Comprend un jouet LEGO Disney Princesse château à construire avec un toboggan, des meubles mobiles et de grands et petits carrosses à dauphins, ainsi que différents accessoires
+- Descendez le toboggan doré et rejoignez le roi Triton dans son carrosse à dauphins ou jouez avec les figurines danimaux marins
+- Les enfants peuvent écouter Sebastian jouer dans la partie musicale, danser sur la pieuvre avec Flounder et Arista ou découvrir le trésor dAriel
 - Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
