@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Performances fiables - XPG CASTER RVB intègre le système ECC sur puce pour la correction des erreurs en temps réel ainsi que des circuits PMIC pour améliorer la stabilité et la fiabilité.
-- Performances à haute vitesse DDR5 - Fonctionnant à 6000 MT/s, XPG CASTER RGB est une nouvelle génération de mémoire DDR5
-- Style futuriste - Avec son dissipateur thermique en acier gris, son éclairage RGB triangulaire audacieux et sa forme épurée
 - Prend en charge Intel XMP 3.0 pour faciliter l’overclocking
+- Style futuriste - Avec son dissipateur thermique en acier gris, son éclairage RGB triangulaire audacieux et sa forme épurée
+- Performances fiables - XPG CASTER RVB intègre le système ECC sur puce pour la correction des erreurs en temps réel ainsi que des circuits PMIC pour améliorer la stabilité et la fiabilité.
 - Le RGB à votre façon - Configurer l’éclairage RGB de la manière que vous désirez. Choisissez parmi différents effets
+- Performances à haute vitesse DDR5 - Fonctionnant à 6000 MT/s, XPG CASTER RGB est une nouvelle génération de mémoire DDR5
 
 [🛒 Achète-le!!]({{< param buyurl >}})
