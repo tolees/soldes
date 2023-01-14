@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants ouvrent le couvercle de lensemble pour entrer dans la leçon de transfiguration du professeur McGonagall - découvrez que Ron a besoin daide lorsque son rat de compagnie se transforme en gobelet !
-- Comprend un tableau noir, un coffre à trésor, une armoire de rangement, un gobelet, un livre de sorts, 2 bureaux, 2 chaises et de nombreuses fournitures magiques pour sexercer
-- Pour une expérience complète, combinez tous les ensembles LEGO Harry Potter Hogwarts Moment : Classe de potions 76383, Classe dherboristerie 76384, et Classe de charmes 76385
-- Les minifigurines Harry Potter comprennent Hermione Granger, Ron Weasley et le professeur McGonagall, ainsi que Scabbers, le rat de compagnie de Ron, et une grenouille pour la pratique de la magie
-- Ce jouet LEGO Harry Potter avec 3 figurines comprend un livre construit en briques qui souvre pour révéler 1 des 4 salles de classe de Poudlard prêtes à être rejointes
 - Collectionne tous les sets Poudlard qui semboîtent pour créer un espace de jeu innovant à 360 degrés conçu pour recréer différents moments de classe
+- Les enfants ouvrent le couvercle de lensemble pour entrer dans la leçon de transfiguration du professeur McGonagall - découvrez que Ron a besoin daide lorsque son rat de compagnie se transforme en gobelet !
+- Ce jouet LEGO Harry Potter avec 3 figurines comprend un livre construit en briques qui souvre pour révéler 1 des 4 salles de classe de Poudlard prêtes à être rejointes
+- Pour une expérience complète, combinez tous les ensembles LEGO Harry Potter Hogwarts Moment : Classe de potions 76383, Classe dherboristerie 76384, et Classe de charmes 76385
+- Comprend un tableau noir, un coffre à trésor, une armoire de rangement, un gobelet, un livre de sorts, 2 bureaux, 2 chaises et de nombreuses fournitures magiques pour sexercer
+- Les minifigurines Harry Potter comprennent Hermione Granger, Ron Weasley et le professeur McGonagall, ainsi que Scabbers, le rat de compagnie de Ron, et une grenouille pour la pratique de la magie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
