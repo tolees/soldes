@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DESIGN LÉGER & PORTABLE: La conception légère du Osmo Mobile vous permez de prendre des photos et des vidéos quand vous partez en vacances.
 - BATTERIE LONGUE DURÉE: Les batteries haute capacité et leur rendement à haute énergie confèrent a lOsmo Mobile une durée de vie de 4.5 heures.
 - À PROPOS DE DJI: En tant quentreprise technologique chinoise basée à Shenzhen, DJI est un leader dans le domaine des drones pour la photographie aérienne et la vidéographie.
 - STABLE: LOsmo Mobile est une nacelle portable pour les smartphones, idéal pour les iPhones. Prenez des photos et des vidéos partout où vous allez.
-- DESIGN LÉGER & PORTABLE: La conception légère du Osmo Mobile vous permez de prendre des photos et des vidéos quand vous partez en vacances.
 - FONCTIONS INTELLIGENTES: Les fonctions intelligentes de lOsmo Mobile vous permet de prendre des photos et des vidéos de très bonne qualité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
