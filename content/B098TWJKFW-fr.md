@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec sa baston urbaine débridée et ses rythmiques détonantes dignes des années 90, cet opus inédit rend hommage à la saga cultissime tout en lui insufflant une vie nouvelle.
 - Le Dr. Zan a développé un programme d’IA utilisant des fragments du cerveau de Mister X qui simule tous les types de danger qu’ils pourraient rencontrer.
-- Après les événements de Streets of Rage 4, nos héros ont voulu se préparer à de futures menaces. Axel, Blaze et leurs camarades vont participer à un entraînement démentiel très spécial
 - 3 nouveaux personnages jouables, nouveau mode Survie et défis hebdomadaires, nouvelles armes et ennemis, personnalisation de personnage : inventez votre propre style de combat avec de nouveaux coups
 - Le combat continue dans Streets of Rage 4 Anniversary Edition, figurant parmi les meilleurs beatem up de tous les temps, la série mythique fait un retour fracassant sur le devant de la scène
+- Après les événements de Streets of Rage 4, nos héros ont voulu se préparer à de futures menaces. Axel, Blaze et leurs camarades vont participer à un entraînement démentiel très spécial
+- Avec sa baston urbaine débridée et ses rythmiques détonantes dignes des années 90, cet opus inédit rend hommage à la saga cultissime tout en lui insufflant une vie nouvelle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
