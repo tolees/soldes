@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roba Baumann Gmbh - roba Grand Circuit de Billes en Bois - Toboggan à Billes - Jeu de Construction - 100 Éléments à Assemblage - Multicolore'
-date: 2023-01-08 13:58:28
+date: 2023-01-14 21:51:03
 image: 'https://m.media-amazon.com/images/I/41TGdApul9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PEINTURE ÉCOLOGIQUE : la laque utilisée pour ce jeu de construction nest pas toxique et résiste à la salive
-- SÛR ET CERTIFIÉ : ce grand toboggan à billes porte le label EPH et il est conforme à la dernière norme de sécurité EN71-1:2014 - Tous les matériaux utilisés sont testés contre les substances nocives et certifiés
-- APPORT ÉDUCATIF : le circuit à billes favorise la créativité, la patience, la concentration et la motricité de lenfant grâce à ses pièces diverses comprenant des éléments sonores tel que les cloches réglables en hauteur et lescalier sonore
-- MATIÈRES : bois massif, verre et métal - Convient aux enfants à partir de 3 ans
-- SET DE 100 PIÈCES : le grand circuit à billes comprend 20 billes en verre et 80 blocs de construction en bois colorés, imprimés et en finition naturelle qui sont faciles à combiner
+- This large marble run set was developed in Germany according to the European Safety Standard for Toys EN 71. All materials used are tested and certified for harmful substances
+- The 100-pc marbel run set includes 20 glas marbles and 80 bulding blocks so the fun can start right away! Colourful, printed and natural finish wooden blocks can easily be combined
+- The marble run set includes parts with sound elements as well as height adjustable bells and a sound staircase. These elements promote creativity, patience, concentration and motor skills
+- The wooden roba marble run can be set up countless different ways and provides little builders colourful construction fun and endless possibilites to build a new exciting marble run
+- The extensive assembly options and the associated play and learning effect make the marble run a particularly valuable educational construction toy for children from the age of 3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
