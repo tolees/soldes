@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Âge recommandé par le fabricant: 8-14
+- Les voitures de course Ferrari 250 GTO, 488 GTE et la mythique 312 T4 à construire sont prêtes pour la course et elles comprennent chacune un habitacle pour figurine, des roues avec des pneus en caoutchouc, des détails authentiques, des couleurs sportives et des autocollants de course
 - Le stand Ferrari
 - Comprend 3 voitures de course Ferrari emblématiques, un atelier/musée et une portion de piste rattachable
 - Nombre de pièces: 841
-- Âge recommandé par le fabricant: 8-14
-- Les voitures de course Ferrari 250 GTO, 488 GTE et la mythique 312 T4 à construire sont prêtes pour la course et elles comprennent chacune un habitacle pour figurine, des roues avec des pneus en caoutchouc, des détails authentiques, des couleurs sportives et des autocollants de course
 
 [🛒 Achète-le!!]({{< param buyurl >}})
