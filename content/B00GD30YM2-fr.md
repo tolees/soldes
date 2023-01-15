@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- This large marble run set was developed in Germany according to the European Safety Standard for Toys EN 71. All materials used are tested and certified for harmful substances
-- The 100-pc marbel run set includes 20 glas marbles and 80 bulding blocks so the fun can start right away! Colourful, printed and natural finish wooden blocks can easily be combined
 - The marble run set includes parts with sound elements as well as height adjustable bells and a sound staircase. These elements promote creativity, patience, concentration and motor skills
 - The wooden roba marble run can be set up countless different ways and provides little builders colourful construction fun and endless possibilites to build a new exciting marble run
+- This large marble run set was developed in Germany according to the European Safety Standard for Toys EN 71. All materials used are tested and certified for harmful substances
+- The 100-pc marbel run set includes 20 glas marbles and 80 bulding blocks so the fun can start right away! Colourful, printed and natural finish wooden blocks can easily be combined
 - The extensive assembly options and the associated play and learning effect make the marble run a particularly valuable educational construction toy for children from the age of 3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
