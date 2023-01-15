@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise en charge de plusieurs niveaux rai : le tr-002 prend en charge une grande variété de configurations raid
-- Prend en charge jusquà deux lecteurs sata
-- Extension de stockage efficace avec prise en charge rai : le tr-002 est une solution idéale pour étendre le stockage des pc, en particulier pour les ordinateurs portables où les disques de capacité supérieure ne peuvent pas être installés
-- Commutateur dip pour le mode disque pour changer les configurations de contrôle matériel et logiciel pour définir le groupe raid
 - Configuration et gestion flexibles du stockag : comparé à dautres boîtiers raid
+- Prend en charge jusquà deux lecteurs sata
 - Usb 3. 1 gen. 2 ports type-c pour un transfert plus rapide des données
+- Extension de stockage efficace avec prise en charge rai : le tr-002 est une solution idéale pour étendre le stockage des pc, en particulier pour les ordinateurs portables où les disques de capacité supérieure ne peuvent pas être installés
+- Prise en charge de plusieurs niveaux rai : le tr-002 prend en charge une grande variété de configurations raid
+- Commutateur dip pour le mode disque pour changer les configurations de contrôle matériel et logiciel pour définir le groupe raid
 
 [🛒 Achète-le!!]({{< param buyurl >}})
