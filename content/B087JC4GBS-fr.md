@@ -30,3 +30,4 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B087JC4GBS{{</world>}}

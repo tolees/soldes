@@ -30,3 +30,4 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 
 [🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B07N3B8CM3{{</world>}}
