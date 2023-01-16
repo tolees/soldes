@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec 1 351 pièces, ce super kit de construction Star Wars LEGO renferme tellement de détails sous sa forme de plus de 14 cm de haut, 44 cm de long et 32 cm de large
 - Fourni avec 7 minifigurines : Chewbacca, Finn, Lando Calrissian, C-3PO et Boolio, plus les figurines R2-D2 et D-O LEGO
+- Avec 1 351 pièces, ce super kit de construction Star Wars LEGO renferme tellement de détails sous sa forme de plus de 14 cm de haut, 44 cm de long et 32 cm de large
 - Les détails intérieurs comprennent une zone de chargement avec 2 conteneurs, un ordinateur de navigation avec une chaise rotative, un compartiment de contrebande caché et une hyperpropulsion
 - Comprend une tourelle à canon rotative en haut et en bas (celle du bas peut accueillir 2 minifigurines), 2 lanceurs à ressort, une rampe dabaissement et un cockpit qui souvre
 - Ce vaisseau LEGO Star Wars corellien comprend également un canapé et une table hologame Dejarik, une cuisine, une couchette et les outils de réparation de lhyperdrive
