@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Reproduisez les cascades de Dominic Toretto dans les films Fast and Furious puis exposez la voiture de course LEGO dans sa position en roues arrière
-- Cette maquette de voiture à construire constitue une idée de cadeau idéale pour tout fan de Fast & Furious ou de voiture ; sa taille est parfaite pour être exposée
-- Les détails de ce set LEGO Technic permettent de recréer les sensations de l’original avec les pistons mobiles, la suspension, le système de direction et la ventilation
 - Découvrez le moteur V8 et les réserves de nitro Si les choses se gâtent, il y a un extincteur dans le cockpit
+- Les détails de ce set LEGO Technic permettent de recréer les sensations de l’original avec les pistons mobiles, la suspension, le système de direction et la ventilation
+- Reproduisez les cascades de Dominic Toretto dans les films Fast and Furious puis exposez la voiture de course LEGO dans sa position en roues arrière
 - La voiture de course LEGO La Dodge Charger de Dom est une superbe réplique de la muscle car classique, inspirée par la Dodge Charger R/T 1970 originale
+- Cette maquette de voiture à construire constitue une idée de cadeau idéale pour tout fan de Fast & Furious ou de voiture ; sa taille est parfaite pour être exposée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YYQ89RT{{</world>}}
