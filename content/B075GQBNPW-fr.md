@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75889 Speed Champions Le stand Ferrari'
-date: 2023-01-14 23:37:34
+date: 2023-01-17 00:12:58
 image: 'https://m.media-amazon.com/images/I/613UjzJFEEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B075GQBNPW/?tag=tolees0d-21'
 descuento: '15.48'
-average: '177.098357030018'
+average: '177.110897637798'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le stand Ferrari
-- Les voitures de course Ferrari 250 GTO, 488 GTE et la mythique 312 T4 à construire sont prêtes pour la course et elles comprennent chacune un habitacle pour figurine, des roues avec des pneus en caoutchouc, des détails authentiques, des couleurs sportives et des autocollants de course
 - Nombre de pièces: 841
 - Comprend 3 voitures de course Ferrari emblématiques, un atelier/musée et une portion de piste rattachable
+- Les voitures de course Ferrari 250 GTO, 488 GTE et la mythique 312 T4 à construire sont prêtes pour la course et elles comprennent chacune un habitacle pour figurine, des roues avec des pneus en caoutchouc, des détails authentiques, des couleurs sportives et des autocollants de course
+- Le stand Ferrari
 - Âge recommandé par le fabricant: 8-14
 
 [🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B075GQBNPW{{</world>}}

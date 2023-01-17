@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des combats sophistiqués et stratégiques en temps réel
-- Un RPG stratégique inédit ancré dans une épopée mêlant guerre et honneur
 - Des séquences de combat réalistes en dioramas
+- Un RPG stratégique inédit ancré dans une épopée mêlant guerre et honneur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B61FQ2L5{{</world>}}
