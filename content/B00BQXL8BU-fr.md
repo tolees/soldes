@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lentilles asphériques pour des photos contrastées et piquées dès la pleine ouverture
-- Pare-soleil et étui.Diamètre de filtre (en mm): 62
-- Très grande ouverture de 1.4 pour une utilisation en lumière naturelle
 - Compact et discret
+- Lentilles asphériques pour des photos contrastées et piquées dès la pleine ouverture
+- Très grande ouverture de 1.4 pour une utilisation en lumière naturelle
+- Pare-soleil et étui.Diamètre de filtre (en mm): 62
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BQXL8BU{{</world>}}
