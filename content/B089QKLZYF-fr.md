@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTENU : 100 cartes, 1 sonnette, un carnet à croquis, 8 crayons, 1 porte cartes, 1 plateau de jeu, la règle du jeu
+- JEU DE SOCIETE : Ce jeu convient aux enfants à partir de 10 ans. Il se joue de 3 à 8 joueurs pour une durée de partie denviron 20 minutes
 - JEU EDUCATIF : Avec Picto Rush, met ta concentration et ta mémoire à lépreuve !
 - JEU DE DESSIN : Saurez-vous vous souvenir de ce que vous avez si maladroitement tenté de dessiner quand viendra votre tour ?
 - JEU DE RAPIDITE : 20 secondes, 20 dessins, Top cest fini, Levez les mains !
-- JEU DE SOCIETE : Ce jeu convient aux enfants à partir de 10 ans. Il se joue de 3 à 8 joueurs pour une durée de partie denviron 20 minutes
-- CONTENU : 100 cartes, 1 sonnette, un carnet à croquis, 8 crayons, 1 porte cartes, 1 plateau de jeu, la règle du jeu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089QKLZYF{{</world>}}
