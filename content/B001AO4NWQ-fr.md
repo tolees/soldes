@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clairefontaine 2136C - Paquet de 25 Cartes Doubles - Format Carré 16x16cm - 210g/m² - Coloris Blanc - Cartons d Invitation Evènements et Correspondance - Gamme Pollen - Papier Premium Lisse'
-date: 2023-01-22 02:13:39
+date: 2023-01-23 02:18:17
 image: 'https://m.media-amazon.com/images/I/21DI4H46jDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coloré et tendance, il trouve sa place en toute circonstance : mariage, naissance, anniversaire, correspondance...
+- La certification FSC du papier garantit lutilisation de produits provenant de ressources contrôlées et prélevées de manière responsable pour une gestion adaptée des forêts.
+- Dun excellent aplat, le papier est lisse, compatible pour lécriture et limpression jet dencre ou laser. Il peut aussi être gaufré (imprimé en relief), perforé, tamponné, découpé… pour répondre à tous vos besoins.
 - Les cartes pliées Pollen sont haut de gamme, personnalisables et pratiques. Elles peuvent contenir les menus de cérémonies et tenir à la verticale. La belle surface décriture des cartes pliées Pollen est idéale pour un texte fourni ou pour coller photos, stickers ou décorations.
+- Sans acide (pH neutre), le papier permet dêtre conservé plus longtemps.
+- Le papier est fabriqué en France dans nos ateliers à Etival-Clairefontaine dans les Vosges, avec un savoir-faire inégalé depuis 1880.
+- Le papier Pollen est teinté dans la masse (autrement dit coloré dans toute son épaisseur, masse + surface). Déchiré ou découpé, le papier conserve une couleur uniforme.
 - Clairefontaine Rhodia est une société française qui propose des produits de correspondance et de loisirs créatifs de très grande qualité. Au plus près de vos besoins et de vos exigences, nos produits innovants et respectueux de lenvironnement sont au service de votre imagination et de votre créativité !
 - Résistant et dune qualité incomparable, le papier Pollen répond au mieux à tous vos besoins et envies de création.
-- Le papier est fabriqué en France dans nos ateliers à Etival-Clairefontaine dans les Vosges, avec un savoir-faire inégalé depuis 1880.
-- Sans acide (pH neutre), le papier permet dêtre conservé plus longtemps.
-- Le papier Pollen est teinté dans la masse (autrement dit coloré dans toute son épaisseur, masse + surface). Déchiré ou découpé, le papier conserve une couleur uniforme.
-- Coloré et tendance, il trouve sa place en toute circonstance : mariage, naissance, anniversaire, correspondance...
-- Dun excellent aplat, le papier est lisse, compatible pour lécriture et limpression jet dencre ou laser. Il peut aussi être gaufré (imprimé en relief), perforé, tamponné, découpé… pour répondre à tous vos besoins.
-- La certification FSC du papier garantit lutilisation de produits provenant de ressources contrôlées et prélevées de manière responsable pour une gestion adaptée des forêts.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001AO4NWQ{{</world>}}
