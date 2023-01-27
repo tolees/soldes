@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient quatre personnages avec boucliers et lances.
 - Haute qualité
-- Playmobil
 - Les légionnaires peuvent se grouper en position tortue.
+- Playmobil
+- Contient quatre personnages avec boucliers et lances.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JSKR3F5{{</world>}}

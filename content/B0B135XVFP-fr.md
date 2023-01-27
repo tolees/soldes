@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PLAYMOBIL 71101 Tobi
-- Contient un personnage
 - Un personnage exclusif du manga Naruto
-- ne arme de combat et dautres accessoires exclusifs fidèles à la série
 - e nombreux détails en rapport avec lunivers du manga japonais
+- Contient un personnage
+- ne arme de combat et dautres accessoires exclusifs fidèles à la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B135XVFP{{</world>}}

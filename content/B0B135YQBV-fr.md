@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PLAYMOBIL 71096 Naruto
-- Un shuriken et dautres accessoires exclusifs fidèles à la série
 - Un poignard
-- De nombreux détails en rapport avec lunivers du manga japonais
+- Un shuriken et dautres accessoires exclusifs fidèles à la série
 - Le personnage principal du manga Naruto
+- PLAYMOBIL 71096 Naruto
+- De nombreux détails en rapport avec lunivers du manga japonais
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B135YQBV{{</world>}}

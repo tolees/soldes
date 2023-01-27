@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - De nombreux détails en rapport avec lunivers du manga japonais
-- Une arme de combat et dautres accessoires exclusifs fidèles à la série
+- PLAYMOBIL 71117 Kisame
 - Contient un personnage
 - Un personnage exclusif du manga Naruto
-- PLAYMOBIL 71117 Kisame
+- Une arme de combat et dautres accessoires exclusifs fidèles à la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B134Q1HQ{{</world>}}
