@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vivez une aventure narrative enrichie et découvrez les sombres secrets derrière les événements de l’USG Ishimura grâce aux derniers rapports de l’équipage au destin tragique et vos rencontres avec les rares survivants toujours présents
 - Ce qui a commencé comme une mission de réparation de routine pour l’ingénieur Isaac Clarke et l’équipage de l’USG Kellion se transforme rapidement en une lutte pour la survie tandis que la vérité sur les horreurs à bord commence à se dévoiler
-- Jeu Xbox SX classique du genre « survival horror » de science-fiction fait son grand retour
+- Vivez une aventure narrative enrichie et découvrez les sombres secrets derrière les événements de l’USG Ishimura grâce aux derniers rapports de l’équipage au destin tragique et vos rencontres avec les rares survivants toujours présents
 - Ce remake sublime l’expérience tout en restant fidèle à la vision captivante du jeu original
+- Jeu Xbox SX classique du genre « survival horror » de science-fiction fait son grand retour
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGPNMRWH{{</world>}}
