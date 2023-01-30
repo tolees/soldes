@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ddr4 sans tampon double canal non ecc, 4 dimm
-- Lan rapide 25gbe avec gestion de la bande passante
-- 4719331830328
 - 621 phase hybrid digital vrm avec mos heatsink
+- Lan rapide 25gbe avec gestion de la bande passante
 - 1815584
+- Ddr4 sans tampon double canal non ecc, 4 dimm
+- 4719331830328
 - Compatible avec les processeurs intel core series de 12e génération
 
 [🛒 Achète-le!!]({{< param buyurl >}})
