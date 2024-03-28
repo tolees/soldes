@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'TP-Link Clé WiFi AC600 Mbps Archer T2U Nano  adaptateur USB wifi  dongle wifi  compatible avec Windows 11/10/8.1/8/7/XP  Mac OS X 10.9-10.13   Noir'
+date: 2024-02-18 16:38:29
+image: 'https://m.media-amazon.com/images/I/31F5j06GGtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07KRCW6LZ-fr TP-Link Clé WiFi AC600 Mbps Archer T2U Nano adaptateur USB...'
+sku: 'B07KRCW6LZ-fr'
+tags: [ 'Adaptateurs USB wifi','Adaptateurs réseau informatique','Informatique','Réseaux','tp-link','🇫🇷', ]
+actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
+comparePrice: 13.9 EUR
+prodname: 'TP-Link Clé WiFi AC600 Mbps Archer T2U Nano  adaptateur USB wifi  dongle wifi  compatible avec Windows 11/10/8.1/8/7/XP  Mac OS X 10.9-10.13   Noir'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'TP-Link'
+buyurl: 'https://www.amazon.fr/dp/B07KRCW6LZ/?tag=tolees0d-21'
+descuento: '28.78'
+average: '9.97424999999996'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 【WiFi bi-bande】Les bandes 2,4 GHz et 5 GHz pour une connectivité flexible, permet à vos périphériques de fonctionner avec le dernier routeur WiFi bi-bande pour une vitesse plus rapide et une portée étendue.
+- 【WiFi haut débit】Débit total jusquà 600 Mbps, avec 200 Mbps sur 2,4 GHz et 433 Mbps sur 5 GHz. Idéal pour la diffusion de vidéos HD en haute définition et les jeux en ligne sans décalage.
+- Température de fonctionnement: 0℃ ~ 40℃
+- 【Design compact miniature】Conception discrète vous permet de la brancher et doublier. Une fois branchée, elle peut être laissée dans le port USB d’un ordinateur portable. Profitez du Wifi stable partout où vous en avez besoin.
+- 【Sécurité avancée】Prise charge des normes de chiffrement WEP, WPA / WPA2 et WPA-PSK / WPA2-PSK de 64/12 bits
+- 【Large compatibilité et Installation facile】Prise en charge Windows 11/10/8.1/8/7/XP, Mac OS X 10.9-10.13. Une interface utilisateur conviviale sur un CD pour une installation simple.
+- Garantie 3 ans
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B07KRCW6LZ{{</world>}}
