@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Samsung SSD Externe T5 EVO Portable  2 To  Vitesses de lecture/écriture Jusqu à 460 Mo/s  USB 3.2 Gen1  Compatible MacOs  PC  appareils Android  consoles de jeux  Noir  MU-PH2T0S/EU'
+date: 2024-08-05 19:53:52
+image: 'https://m.media-amazon.com/images/I/31PWBsB37dL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CKL772B6-fr Samsung SSD Externe T5 EVO Portable 2 To Vitesses de...'
+sku: 'B0CKL772B6-fr'
+tags: [ 'Arborist Merchandising Root','Informatique','Mémoire','Mémoire externe','PC Gaming components','SSD externes','Self Service','Special Features Stores','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_0','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_4301','samsung','🇫🇷', ]
+actualPrice: 147.24 EUR
+currency: EUR
+price: 147.24
+comparePrice: 229.99 EUR
+prodname: 'Samsung SSD Externe T5 EVO Portable  2 To  Vitesses de lecture/écriture Jusqu à 460 Mo/s  USB 3.2 Gen1  Compatible MacOs  PC  appareils Android  consoles de jeux  Noir  MU-PH2T0S/EU'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Samsung'
+buyurl: 'https://www.amazon.fr/dp/B0CKL772B6/?tag=tolees0d-21'
+descuento: '35.98'
+average: '152.092857142856'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Performance maximale grâce à son logiciel de pointe Samsung Magician⁸
+- Robustesse: résiste aux chutes jusquà 2 mètres⁵, bonne tenue en main grâce à son design ergonomique et sécurité supplémentaire avec la garantie de 3 ans
+- 1 x Samsung Disque SSD Externe Portable T5 EVO, 2 To ⁴, Noir, MU-PH2T0S/EU, câble UBS-C vers C, notice dutilisation
+- Transfert de données jusquà 3,8 fois plus rapide quun disque dur externe, avec des vitesses de lecture/écriture séquentielle jusquà 460 Mo/s pour booster votre efficacité
+- Compatibilité polyvalente pour être multitâche: Windows, MacOS, PC, appareils Android, consoles de jeux, et bien plus encore
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0CKL772B6{{</world>}}

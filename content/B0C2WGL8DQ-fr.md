@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Crucial P3 1To M.2 PCIe Gen3 NVMe SSD interne - Jusqu’à 3500Mo/s - CT1000P3SSD801  Édition Acronis '
+date: 2024-08-05 19:53:52
+image: 'https://m.media-amazon.com/images/I/318lV0rfJoL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0C2WGL8DQ-fr Crucial P3 1To M.2 PCIe Gen3 NVMe SSD interne - Jusqu’à...'
+sku: 'B0C2WGL8DQ-fr'
+tags: [ 'Arborist Merchandising Root','Informatique','Mémoire','Mémoire interne','PC Gaming components','SSD internes','Self Service','Special Features Stores','crucial','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_0','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_4301','🇫🇷', ]
+actualPrice: 66.99 EUR
+currency: EUR
+price: 66.99
+comparePrice: 82.99 EUR
+prodname: 'Crucial P3 1To M.2 PCIe Gen3 NVMe SSD interne - Jusqu’à 3500Mo/s - CT1000P3SSD801  Édition Acronis '
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Crucial'
+buyurl: 'https://www.amazon.fr/dp/B0C2WGL8DQ/?tag=tolees0d-21'
+descuento: '19.28'
+average: '50.5025641025641'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Espace de stockage généreux jusqu’à 4To, performances Gen3 solides
+- Évalué à MTTF supérieur à 1,5 million d’heures pour une longévité et une fiabilité prolongées, Crucial garantie limitée de 5 ans
+- Jusquà 80 % déconomies sur Acronis Cyber Protect Home - Protégez vos photos, vos fichiers, vos applications, votre système dexploitation et vos appareils
+- Endurance SSD (TBW) : 220 To
+- Technologie NVMe (PCIe Gen3 x4) avec jusqu’à 3500 Mo/s de lectures séquentielles, lecture/écriture aléatoire 650K/700K IOPS
+- Jusqu’à 45% plus rapide que les SSD NVMe Gen3 les plus performants
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0C2WGL8DQ{{</world>}}
