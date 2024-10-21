@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'realme 9 Pro 5G Smartphone Debloqué etMéga batterie de 5 000 mAh  Processeur Qualcomm Snapdragon 695 5G  Charge Dart 33 W  Écran 120 Hz ultra fluide  Dual Sim  8 + 128 GB Midnight Black'
+date: 2024-10-20 16:34:53
+image: 'https://m.media-amazon.com/images/I/31uywMlISiL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09PBVW599-fr realme 9 Pro 5G Smartphone Debloqué etMéga batterie de 5...'
+sku: 'B09PBVW599-fr'
+tags: [ '99febcdd-8e39-4093-b93f-17933dab1062_0','99febcdd-8e39-4093-b93f-17933dab1062_5801','99febcdd-8e39-4093-b93f-17933dab1062_9601','99febcdd-8e39-4093-b93f-17933dab1062_9701','Arborist Merchandising Root','High-Tech','Offre de reprise','Samsung, Garmin, OnePlus: sélection de smartphones et accessoires','Self Service','Smartphones et téléphones portables débloqués','Special Features Stores','Sélection de smartphones et téléphones pour les ventes flash de printemps','Téléphones portables et accessoires','realme','🇫🇷', ]
+actualPrice: 229.0 EUR
+currency: EUR
+price: 229.0
+comparePrice: 349.99 EUR
+prodname: 'realme 9 Pro 5G Smartphone Debloqué etMéga batterie de 5 000 mAh  Processeur Qualcomm Snapdragon 695 5G  Charge Dart 33 W  Écran 120 Hz ultra fluide  Dual Sim  8 + 128 GB Midnight Black'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'realme'
+buyurl: 'https://www.amazon.fr/dp/B09PBVW599/?tag=tolees0d-21'
+descuento: '34.57'
+average: '240.441111111111'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Le realme 9 Pro vous permet de faire fonctionner deux cartes SIM 5G en même temps.
+- Batterie massive de 5 000 mAh & Charge Dart 33 W
+- rafraîchissement de 120 Hz et une fréquence déchantillonnage tactile de 240 Hz
+- Processeur Qualcomm Snapdragon 695 5G & Procédé de gravure en 6 nm
+- Appareil photo Nightscape de 64 MP & Appareil photo Selfie de 16 MP
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B09PBVW599{{</world>}}
