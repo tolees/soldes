@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel R56-D Lot de 12 Feutres à bille pointe 0 6 mm Vert'
-date: 2024-10-23 00:13:01
+date: 2024-10-24 20:15:53
 image: 'https://m.media-amazon.com/images/I/21p0FQjAL6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pointe en plastique de 0,6mm
 - Feutre à bille Pentel R56
-- Ecriture douce, grand confort décriture
 - Encre verte
+- Pointe en plastique de 0,6mm
+- Ecriture douce, grand confort décriture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000KT9BKQ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Kerry P1035 Porte-mines 0 5 mm Vert olive'
-date: 2024-10-13 01:38:54
+date: 2024-10-24 20:16:04
 image: 'https://m.media-amazon.com/images/I/31x0RwFFQpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B0013NE3VU/?tag=tolees0d-21'
 descuento: '79.39'
-average: '11.6257894736841'
+average: '11.0090476190475'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de produit: Porte-Mines Kerry
-- Description du produit: Pentel - Kerry - P1035 vert olive
-- Diamètre: 0,5 mm
-- Couleur: Corps Vert Olive
 - Poids: 0.022 kg
+- Diamètre: 0,5 mm
+- Type de produit: Porte-Mines Kerry
+- Couleur: Corps Vert Olive
+- Description du produit: Pentel - Kerry - P1035 vert olive
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0013NE3VU{{</world>}}

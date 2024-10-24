@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox - STAR WARS Episode I - LA MENACE FANTOME  2019  - Blu-ray 4K [4K Ultra-HD + Blu-ray + Blu-ray Bonus]'
-date: 2024-09-25 15:42:53
+date: 2024-10-24 20:24:02
 image: 'https://m.media-amazon.com/images/I/5182C34eylL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: '20th Century Fox'
 buyurl: 'https://www.amazon.fr/dp/B082YRWWCJ/?tag=tolees0d-21'
 descuento: '16.53'
-average: '14.3307142857143'
+average: '14.2853571428571'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

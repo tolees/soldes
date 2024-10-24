@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The G-Lab K-Stand Radon Support pour Casque/Micro-Casque Gaming - Rétro-éclairage RGB  Hub USB 2 x 2.0  Base antidérapante - Support Universel pour Casques Gamer PC PS5 Xbox Nintendo Switch – New'
-date: 2024-10-23 00:21:01
+date: 2024-10-24 20:22:20
 image: 'https://m.media-amazon.com/images/I/41zifz37ixL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'The G-Lab'
 buyurl: 'https://www.amazon.fr/dp/B07XVQVYPT/?tag=tolees0d-21'
 descuento: '16.81'
-average: '23.5962962962963'
+average: '23.6446428571429'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

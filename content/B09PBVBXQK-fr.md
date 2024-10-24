@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 9 Pro+ 5G Smartphone Display SuperAMOLED 90Hz  Camera AI 50MP Sony IMX766 OIS+EIS  MTK Dimensity 920 6nm  Charge SuperDart 60 W Dual Sim NFC 6+128 GB  +5GB Extra DRE  Midnight Black'
-date: 2024-10-20 16:33:52
+date: 2024-10-24 20:43:28
 image: 'https://m.media-amazon.com/images/I/31o3sv9E4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'realme'
 buyurl: 'https://www.amazon.fr/dp/B09PBVBXQK/?tag=tolees0d-21'
 descuento: '23.42'
-average: '287.556999999999'
+average: '287.86909090909'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- [Appareil photo de qualité supérieure Sony IMX766] Stabilisation d’image optique et électronique
+- [Processeur MediaTek Dimensity 920 5G] Processeur graphique 9 % plus rapide et processeur dimage 35% plus puissant
+- [Charge SuperDart 60 W] Atteignez 50% de charge en 15 min environ
 - [Écran super AMOLED 90 Hz] chaque touche, balayage ou défilement est instantané.
 - [Ce système de refroidissement avec chambre à vapeur] Le système de refroidissement à 5 couches comporte l’une des plus grandes chambres à vapeur de lindustrie.
-- [Appareil photo de qualité supérieure Sony IMX766] Stabilisation d’image optique et électronique
-- [Charge SuperDart 60 W] Atteignez 50% de charge en 15 min environ
-- [Processeur MediaTek Dimensity 920 5G] Processeur graphique 9 % plus rapide et processeur dimage 35% plus puissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09PBVBXQK{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raspberry Pi® Microcontrôleur RP-PICO'
-date: 2024-10-16 20:53:29
+date: 2024-10-24 20:34:03
 image: 'https://m.media-amazon.com/images/I/4100spfTJtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Raspberry Pi'
 buyurl: 'https://www.amazon.fr/dp/B08TZX8X9V/?tag=tolees0d-21'
 descuento: '60.62'
-average: '7.37714285714286'
+average: '7.31750000000001'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 264 K multi-banque haute performance SRAM
-- Tension IO de 1,8 à 3,3 V (la tension Pico IO est fixe à 3,3 V)
 - Flash externe Quad-SPI avec eXecute In Place (XIP) (2 Mo)
 - 30 broches General Purpose IO (GPIO), dont 4 peuvent être utilisées comme ADC
 - Dual-Core Cortex M0+ jusquà 133 MHz (PLL intégré permet une fréquence cardiaque réglable)
+- Tension IO de 1,8 à 3,3 V (la tension Pico IO est fixe à 3,3 V)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TZX8X9V{{</world>}}
