@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Horus X ® • Lunette Gaming • Lunette Anti Lumiere Bleue Lunettes Ecran PC | Anti Fatigue & Migraine Oculaire | One Amber'
+date: 2024-10-24 01:28:15
+image: 'https://m.media-amazon.com/images/I/313IxsRnACL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B077QDGWX8-fr Horus X ® • Lunette Gaming • Lunette Anti Lumiere Bleue...'
+sku: 'B077QDGWX8-fr'
+tags: [ 'Arborist Merchandising Root','Hygiène et Santé','Lunettes de protection contre la lumière bleue','Optique et lentilles','Personal Care','Self Service','Special Features Stores','bcd9888d-97cd-480d-881f-95610e25636b_0','bcd9888d-97cd-480d-881f-95610e25636b_2101','horus x','🇫🇷', ]
+actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
+comparePrice: 49.9 EUR
+prodname: 'Horus X ® • Lunette Gaming • Lunette Anti Lumiere Bleue Lunettes Ecran PC | Anti Fatigue & Migraine Oculaire | One Amber'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Horus X'
+buyurl: 'https://www.amazon.fr/dp/B077QDGWX8/?tag=tolees0d-21'
+descuento: '20.04'
+average: '39.9'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 🛡️ Techno brevetée PLASMA (Amber) : Filtre 100% de la lumière bleue de 380 à 400nm // 86% sur le spectre [380nm à 450nm]. Lunettes anti lumiere bleue avec protection 100% UV.
+- 💎 Qualité PRO : Verres avec traitements anti reflets, UV400, Monture hyper légère (27g) en polycarbonate, matériaux ultra-légers pour un confort optimal lors du port dun casque de gaming. NosePad confortable. Normes EPI 2016/425 & ANZI Z80.3 alléguées par un laboratoire accrédité.
+- 🖥️Fatigue Oculaire & SOMMEIL : La lumière bleue des écrans est scientifiquement reconnue pour perturber la sécrétion de mélatonine, affecter le rythme circadien et le sommeil. Il est conseillé de réduire lexposition aux sources de lumière bleue, surtout en soirée et pendant la nuit.
+- 🎮Conçues pour les Gamers : Horus X est une marque française professionnelle, spécialisée eSport & Lunette Gaming. Technos brevetées. Plus de 400 000 clients gamers. Nos lunettes sont conçues pour durer et bénéficient d’une garantie à vie.
+- ✨Package complet : 1 paire de lunette anti lumiere bleue homme et femme + 1 étui léger en microfibre + 1 chiffon microfibre 80% recyclé qualité 190g pour lunette.
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B077QDGWX8{{</world>}}
