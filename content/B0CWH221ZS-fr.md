@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Set LEGO Star Wars : The Mandalorian à construire pour enfants – Les jeunes constructeurs pourront revivre un affrontement culte de la saison 3 de Star Wars : The Mandalorian avec le set Le combat de Paz Vizsla et Moff Gideon
 - Construire et connecter – La base mandalorienne de ce set LEGO Star Wars : The Mandalorian peut être connectée à la formation rocheuse/grotte du set Pack de combat de l’embuscade sur Mandalore (75373, vendu séparément)
-- Aide à la construction – Avec l’application LEGO Builder, les enfants peuvent zoomer, faire pivoter et visualiser une version numérique de leur modèle pendant la construction, suivre leur progression et sauvegarder leurs sets
 - Accessoires amusants – Le set inclut un blaster en briques pour Paz Vizsla, un jetpack pour Moff Gideon, des armes pour les gardes prétoriens, ainsi qu’une boîte de rangement contenant un détonateur thermique pour rendre le jeu encore plus réaliste
 - Jouet de construction Star Wars pour enfants, garçons et filles – La base mandalorienne de ce set comprend une porte blindée avec un déclencheur et des panneaux de commande, ainsi qu’une tourelle rotative qui lance des tenons
+- Set LEGO Star Wars : The Mandalorian à construire pour enfants – Les jeunes constructeurs pourront revivre un affrontement culte de la saison 3 de Star Wars : The Mandalorian avec le set Le combat de Paz Vizsla et Moff Gideon
 - Idée de cadeau Star Wars : The Mandalorian pleine de fantaisie pour les enfants dès 7 ans – Offrez ce jouet LEGO à des garçons et des filles créatifs et à tous les jeunes fans de Star Wars : The Mandalorian, pour un anniversaire ou pour les fêtes
+- Aide à la construction – Avec l’application LEGO Builder, les enfants peuvent zoomer, faire pivoter et visualiser une version numérique de leur modèle pendant la construction, suivre leur progression et sauvegarder leurs sets
 - 4 minifigurines LEGO Star Wars : The Mandalorian à collectionner – Paz Vizsla, Moff Gideon et 2 gardes prétoriens impériaux, des personnages clés de la saison 3 de Star Wars pour que les enfants puissent retrouver leurs héros tout en samusant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

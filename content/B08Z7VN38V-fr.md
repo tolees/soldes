@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : blanc.
+- Type : Baskets moyennes.
 - Matériau : textile.
 - Référence fabricant : D15NUA-0006K/C1000.
-- Type : Baskets moyennes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Z7VN38V{{</world>}}

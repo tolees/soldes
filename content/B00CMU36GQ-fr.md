@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BRILLANT À LÈVRES LÉGER ET NON COLLANT : Vous pouvez avoir un brillant à lèvres ultra brillant sans sensation collante ou collante. La formule légère comme lair dépose une couleur brillante et une hydratation décadente, tout en donnant à vos lèvres un aspect plus pulpeux
 - Formule hydratante : Nous avons créé le brillant à lèvres Super Lustrous avec de lagave, de lhuile de moringa et du beurre de cupuaçu pour hydrater les lèvres tout en leur donnant un éclat brillant
+- BRILLANT À LÈVRES LÉGER ET NON COLLANT : Vous pouvez avoir un brillant à lèvres ultra brillant sans sensation collante ou collante. La formule légère comme lair dépose une couleur brillante et une hydratation décadente, tout en donnant à vos lèvres un aspect plus pulpeux
 - VOTRE MAQUILLAGE POUR LES LÈVRES PRÉFÉRɠ: Notre brillant emblématique offre toute la couleur luxuriante et la brillance rosée que vous aimez
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

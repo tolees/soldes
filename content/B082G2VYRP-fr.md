@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Size: 100 ml Lot de 1
-- Ameerat Al Arab Unisex Eau De Parfum 100ml Oriental Exotic Attractive Citrus Bergamot White Musk Aloe Vera Jasmine Wood Musk and Oud by Asdaaf
-- Brand: MAKJUNS
 - Product type: PERSONAL FRAGRANCE
+- Brand: MAKJUNS
+- Ameerat Al Arab Unisex Eau De Parfum 100ml Oriental Exotic Attractive Citrus Bergamot White Musk Aloe Vera Jasmine Wood Musk and Oud by Asdaaf
+- Size: 100 ml Lot de 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082G2VYRP{{</world>}}

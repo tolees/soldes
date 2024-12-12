@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Rainwater Smart Touch] Reliable touch interaction, even with wet hands or a wet screen. Unlock your phone, answer your calls, and enter your password in the rain, without needing to wipe off your screen.
+- [30s charge for 43min call; 28.7 days standby] The fastest 45W fast charge in the segment, opening up next-level fast charge speeds. Charge for minutes, call for hours. 5000mAh Massive Battery, Enjoy all your favorite entertainment, from gaming to movies to music, with plenty of power left at the end of the day.
 - [realme’s First AI Boost] Smooth meets smoother. The realme C65 is equipped with AI Boost, a cutting-edge feature made to reduce lag and improve high frame rate gaming performance. Combining Smooth Boost and Game Boost, you get a comprehensive phone experience made for advanced multi-tasking and seamless gameplay.
 - [4 years of lag-free use] TÜV SÜD Fluency Rating-A. Keep that "new phone feel” for years. With expertly optimized hardware and software, the realme C65 meets the TÜV SÜD 48-month Fluency Certification, the highest quality standard at this price segment.
 - [Flagship Camera Design] The first high-end vertical lens module in its class, capturing the same design language as top flagships. And to make the design more outstanding, a vacuum-plated high-gloss process lets you show your unique taste.
-- [30s charge for 43min call; 28.7 days standby] The fastest 45W fast charge in the segment, opening up next-level fast charge speeds. Charge for minutes, call for hours. 5000mAh Massive Battery, Enjoy all your favorite entertainment, from gaming to movies to music, with plenty of power left at the end of the day.
+- [Rainwater Smart Touch] Reliable touch interaction, even with wet hands or a wet screen. Unlock your phone, answer your calls, and enter your password in the rain, without needing to wipe off your screen.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYHMJ9B9{{</world>}}

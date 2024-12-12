@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 31 tenues pour votre schtroumpfs à débloquer
 - 19 Schtroumpfs emblématiques jouables
 - 50 mini-jeux
-- Jeu en français
 - Multijoueurs local (2-4) joueurs
-- 31 tenues pour votre schtroumpfs à débloquer
+- Jeu en français
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXQ4LKNG{{</world>}}

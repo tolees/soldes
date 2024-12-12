@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne laisse pas de trace
-- Sans PVC
-- Système davance et de blocage de la gomme par curseur
-- Format compact, correction précise
 - Gomme blanche, douce, arrondie, de 6,8 mm de diamètre
+- Système davance et de blocage de la gomme par curseur
+- Ne laisse pas de trace
+- Format compact, correction précise
+- Sans PVC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00O8H7ZYA{{</world>}}

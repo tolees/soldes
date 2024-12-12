@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un boîtier en métal élégant et resistant.
-- La clé USB 3.0 SanDisk Ultra Flair est rétrocompatible, vous pouvez donc linsérer dans nimporte quel port USB 3.0
 - .Transférez un film entier en moins de 30 secondes.
-- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s.
 - Une protection par mot de passe simple demploi pour vos fichiers personnels.
+- La clé USB 3.0 SanDisk Ultra Flair est rétrocompatible, vous pouvez donc linsérer dans nimporte quel port USB 3.0
+- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s.
 - Transférez sur la clé jusquà 15 fois vite quavec une clé USB 2.0 standard.
+- Un boîtier en métal élégant et resistant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B015CH1PJU{{</world>}}

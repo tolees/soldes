@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feutre à bille Pentel R56
 - Pointe en plastique de 0,6mm
+- Feutre à bille Pentel R56
 - Encre verte
 - Ecriture douce, grand confort décriture
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACCESSOIRES COMPLETS : pare-soleil (installé en permanence), capuchon dobjectif, capuchon de protection à baïonnette, sac de rangement, mode demploi
-- SPÉCIALEMENT DÉVELOPPÉ POUR NIKON F : Compatible avec tous les appareils photo Nikon SLR plein format et APS-C actuellement disponibles tels que Nikon D5600, D850, D750, D7500, D3500, D500, D780, D5300, D7200, D5100
-- Qualité dimage la plus élevée : mise au point automatique rapide et silencieuse avec commutateur AF/MF pour une netteté précise, 15 lentilles de haute qualité pour une distorsion minimale, des couleurs vives et des contrastes élevés, revêtement UMC (Ultra Multi Coating) contre les reflets de lobjectif et 7 lames douverture pour un bokeh harmonieux.
 - COMPACT et ULTRA WIDE : Pesant seulement 474g, un vrai poids plume dans sa catégorie : lobjectif ultra grand angle 14 mm rapide (F2.8) avec un angle de vue plein format de 116,6° (sur un capteur APS-C : 92,8°) et un diamètre dobjectif extra-large (90,5 mm). Un objectif de haute qualité avec un corps métallique robuste et résistant aux intempéries
+- SPÉCIALEMENT DÉVELOPPÉ POUR NIKON F : Compatible avec tous les appareils photo Nikon SLR plein format et APS-C actuellement disponibles tels que Nikon D5600, D850, D750, D7500, D3500, D500, D780, D5300, D7200, D5100
+- ACCESSOIRES COMPLETS : pare-soleil (installé en permanence), capuchon dobjectif, capuchon de protection à baïonnette, sac de rangement, mode demploi
+- Qualité dimage la plus élevée : mise au point automatique rapide et silencieuse avec commutateur AF/MF pour une netteté précise, 15 lentilles de haute qualité pour une distorsion minimale, des couleurs vives et des contrastes élevés, revêtement UMC (Ultra Multi Coating) contre les reflets de lobjectif et 7 lames douverture pour un bokeh harmonieux.
 - DOMAINES DAPPLICATION : idéal pour lastrophotographie, le portrait, le paysage, la photographie de nature et de nuit. Avec la faible limite de gros plan de seulement 20 cm, il est idéal pour des instantanés et des gros plans plus vivants - même à une courte distance (par exemple pour la nourriture)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

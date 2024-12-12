@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LARBRE VERT privilégie dans ses compositions lorigine végétale de ses matières premières. Aucun des produits LARBRE VERT ne comporte de phrase de risque, ni de symbole de danger. Composition sans phosphates, sans éthers de glycol et sans phtalates. Produit sans allergènes, conçu pour minimiser les risques dallergies. Tests dhypoallergénicité effectués sur peau sensible. Emballage recyclable. Formule non testée sur les animaux. Compatible fosses septiques.
-- Un dosage correct permet de réaliser des économies et de réduire lincidence du produit sur lenvironnement.
+- Garantie: 720 jours
+- Fabriqué en France
 - Elimine la saleté et les résidus de graisse rapidement et de manière écologique. Parfum Amande sans allergènes reconnus (au sens du règlement européen 648/2004/CE). Hypoallergénique. pH neutre.
 - Le liquide vaisselle écologique Amande certifié par lEcolabel Européen est un produit élaboré pour laver le plus efficacement possible à la main toute vaisselle.
 - Dimensions: 4,8 x 19,1 x 9,2 cm
-- Fabriqué en France
+- Un dosage correct permet de réaliser des économies et de réduire lincidence du produit sur lenvironnement.
 - Ce liquide vaisselle permet deffectuer 100 bains de lavage de 5 litres pour vaisselle sale.
-- Garantie: 720 jours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005HTCUJI{{</world>}}

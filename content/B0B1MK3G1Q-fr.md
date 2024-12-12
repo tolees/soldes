@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 modes de jeu : Création en 2d pour créer des dessins à platcréation en 3d pour créer des dessins en volume et leur donner plus de profondeur
 - Âge : Dès 5 ans, un nouveau concept artistique pour créer de fabuleux dessins lumineux en 2d ou 3d
+- 2 modes de jeu : Création en 2d pour créer des dessins à platcréation en 3d pour créer des dessins en volume et leur donner plus de profondeur
 - Creativité : Le support tableau magic lights 3d permet grce à ses 8 boutons de commande et ses 16 leds incluses de créer des tableaux colorés et lumineux à l’infini. Le guide de création inclus permet à l’enfant de suivre des modèles prédéfinis, mais il peut également laisser parler son imagination pour créer ses propres tableaux lumineux
 - Version : Française
 - Modèles de créations : 16 modèles (dessins plus séquence lumineuse), des modèles additionnels sont téléchargeables en ligne sur le site vtech

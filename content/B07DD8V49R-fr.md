@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec de nombreux petits accessoires
-- Il mesure 10 cm de haut, 11, 5 cm de large et 5 cm de profondeur
 - La voiture de police de Pinypon Action est un véhicule multi-composant mix S max
 - La voiture de police inclut sa moto et le personnage de police mix est max
 - Vous pouvez combiner avec dautres véhicules en mélangeant les différentes pièces
+- Avec de nombreux petits accessoires
+- Il mesure 10 cm de haut, 11, 5 cm de large et 5 cm de profondeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DD8V49R{{</world>}}

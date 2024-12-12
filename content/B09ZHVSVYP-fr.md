@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Classe énergétique E
-- HD+
-- 2 x HDMI + 1 x USB - 2 pieds
 - LED 50 Hz - 80 cm (32 pouces)
 - Son Incredible Surround
+- HD+
+- 2 x HDMI + 1 x USB - 2 pieds
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZHVSVYP{{</world>}}

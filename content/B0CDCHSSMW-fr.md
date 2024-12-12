@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Explorez le manoir de Derceto dans cette revisite dAlone in the Dark, véritable lettre damour au classique dhorreur des années 90
 - Collectors Edition strictement limitée à 5,000 exemplaires dans le monde
-- Revenez aux racines de lhorreur psychologique et vivez une aventure atmosphérique à la hauteur du jeu qui a fondé le genre
 - CE comprend : Statue The Dark Man 26 cm, miniature Ostadte 10 cm, ensemble dautocollants muraux Derceto 1930 , accroche-porte Ne pas déranger , Steelbook Glow Alone in the Dark , pack de costumes Derceto 1992 DLC, commentaire du réalisateur modus et le pack de filtres Vintage Horror
+- Revenez aux racines de lhorreur psychologique et vivez une aventure atmosphérique à la hauteur du jeu qui a fondé le genre
 - Allez au-delà de limaginable à travers une histoire psychologique complexe écrite par le scénariste culte Mikael Hedberg, auteur de SOMA et dAmnesia
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

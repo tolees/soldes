@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système requis: iOS 10+, Android 5.0+
 - 【Alarme sonore et lumineuse & Audio Bidirectionnel】Déclenchez des sonores pour effrayer les visiteurs indésirables, communiquez à distance et créez une conversation fluide et claire avec votre bébé ou votre animal de compagnie grâce au microphone et au haut-parleur intégré
 - 【1080P & Pan/Tilt 360° Couverture】Caméra surveillance WiFi capturez chaque détail avec une définition 1080P, mouvement horizontal jusquà 360° et vertical jusquà 114°, une large couverture pour capturer chaque instant, (La caméra wifi ne prend en charge que le WiFi 2.4GHz)
+- 【Vision nocturne avancée】Même la nuit, la caméra surveillance wifi peut visionner une distance visuelle allant jusqu’à 10 mètres
 - 【Détection de personne】Détection de personne inclus gratuitement, recevez des alertes en temps réel lorsque des personnes entrent dans le champ de vision de votre caméra, personnalisez la détection de personne pour éviter les fausses alertes, comme celles déclenchées par les mouvements de vos animaux de compagnie, bon à savoir : pour éviter les notifications inutiles quand lactivation de la détection humaine est activée, veuillez désactiver la détection de mouvement
 - 【Stockage sécurisé et Flexible】Enregistre localement jusquà 512 Go sur une carte microSD, (non incluse) ou sur le Cloud (30 jours dessai gratuit avec Historique des clips vidéo sur 30 jours) pour pour que vous puissiez y accéder à votre convenance, quel que soit létat de la caméra
 - 【Audio Bidirectionnel】Communiquez à distance et créez une conversation fluide et claire avec votre bébé ou votre animal de compagnie grâce au microphone et au haut-parleur intégré
-- 【Vision nocturne avancée】Même la nuit, la caméra surveillance wifi peut visionner une distance visuelle allant jusqu’à 10 mètres
+- Système requis: iOS 10+, Android 5.0+
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07XLML2YS{{</world>}}

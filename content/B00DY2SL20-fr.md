@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Description Sur mesure : Choisir votre taille
 - Taille : Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Dessus : Synthétique
 - Semelle intérieure : Textile
 - Doublure : Textile
+- Dessus : Synthétique
+- Description Sur mesure : Choisir votre taille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DY2SL20{{</world>}}

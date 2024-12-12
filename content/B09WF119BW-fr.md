@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
-- Carrosserie stylisée
 - Deux personnages en tenues vintage
+- Carrosserie stylisée
 - Un véhicule authentique
+- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 - Larges pneus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

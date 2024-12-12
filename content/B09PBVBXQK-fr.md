@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Écran super AMOLED 90 Hz] chaque touche, balayage ou défilement est instantané.
-- [Ce système de refroidissement avec chambre à vapeur] Le système de refroidissement à 5 couches comporte l’une des plus grandes chambres à vapeur de lindustrie.
-- [Appareil photo de qualité supérieure Sony IMX766] Stabilisation d’image optique et électronique
 - [Processeur MediaTek Dimensity 920 5G] Processeur graphique 9 % plus rapide et processeur dimage 35% plus puissant
+- [Appareil photo de qualité supérieure Sony IMX766] Stabilisation d’image optique et électronique
+- [Ce système de refroidissement avec chambre à vapeur] Le système de refroidissement à 5 couches comporte l’une des plus grandes chambres à vapeur de lindustrie.
+- [Écran super AMOLED 90 Hz] chaque touche, balayage ou défilement est instantané.
 - [Charge SuperDart 60 W] Atteignez 50% de charge en 15 min environ
 
 [🛒 Achète-le!!]({{< param buyurl >}})

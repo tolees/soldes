@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- mots-clés génériques: Nintendo 10002199 Nintendo Switch Konsole Grau V2 2019 Console de jeu console jeu console console jeux commande mouvement console nintendo
 - Brand: Nintendo
+- mots-clés génériques: Nintendo 10002199 Nintendo Switch Konsole Grau V2 2019 Console de jeu console jeu console console jeux commande mouvement console nintendo
 - Nom de larticle: Nintendo Switch with Joy-Con - Grey (New Revised Model) Switch V2, W125895517 ((New Revised Model) Switch V2 2019, Nintendo Switch, Grey, Analogue Digital, D-Pad, LCD, 15.8 cm (6.2))
 
 [🛒 Achète-le!!]({{< param buyurl >}})

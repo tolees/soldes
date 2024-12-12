@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtration innovante avec les filtres MAXTRA PRO All-In-1: réduit PFAS*,certains pesticides, herbicides et résidus médicamenteux, le chlore, le tartre et certains métaux si présents dans leau du robinet *Tels que les PFOS/PFOA Testés selon JWPAS B210 et/ou NSF/ANSI 53
-- Performances de filtration améliorées : maillage ultra fin supplémentaire pour une réduction des particules fines (≥ 30 µm) jusquà 4 fois plus efficace vs MAXTRA+
-- Découvrez la carafe filtrante à eau en verre BRITA: un design élégant, des matériaux durables et une fabrication allemande
 - Durable : carafe filtrante en verre fabriquée à partir de 60% de verre borosilicate recyclé et filtre MAXTRA PRO à partir de 50% de plastique biosourcé - emballage composé de 100% de carton recyclé
+- Filtration innovante avec les filtres MAXTRA PRO All-In-1: réduit PFAS*,certains pesticides, herbicides et résidus médicamenteux, le chlore, le tartre et certains métaux si présents dans leau du robinet *Tels que les PFOS/PFOA Testés selon JWPAS B210 et/ou NSF/ANSI 53
 - Pratique: La carafe filtrante en verre BRITA se remplit facilement grâce à son couvercle rabattable, lindicateur BRITA Smart Light vous indique quand remplacer le filtre à eau MAXTRA PRO
+- Découvrez la carafe filtrante à eau en verre BRITA: un design élégant, des matériaux durables et une fabrication allemande
+- Performances de filtration améliorées : maillage ultra fin supplémentaire pour une réduction des particules fines (≥ 30 µm) jusquà 4 fois plus efficace vs MAXTRA+
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT1F2PQN{{</world>}}

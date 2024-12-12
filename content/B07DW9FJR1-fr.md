@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Salud, bienestar, cuidado, perfumes, lociones, gel lolita lempicka mon premier eau de perfume spray 100ml
-- Lolita Lempicka Mon Premier Parfum EDP 100ml
 - Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
+- Lolita Lempicka Mon Premier Parfum EDP 100ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DW9FJR1{{</world>}}

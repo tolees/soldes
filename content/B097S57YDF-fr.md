@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un kit fantastique pour créer un écosystème miniature personnel avec un cadre vraiment magique, dans un style Harry Potter parfait
 - Un jeu qui permet aux enfants de samuser tout en apprenant limportance de prendre soin de leurs plantes.
+- Un kit fantastique pour créer un écosystème miniature personnel avec un cadre vraiment magique, dans un style Harry Potter parfait
 - Contient du plâtre de Paris, des moules et des couleurs détrempées pour créer la fantastique cabane de Hagrid avec ses citrouilles typiques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

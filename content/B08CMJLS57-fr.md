@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste utilisable tout au long de lannée: Tissu imperméable, Capuche tempête ajustable, Poignets réglables
 - Très imperméable et respirante grâce à la technologie Omni-Tech avec coutures étanches
 - Veste à capuche imperméable pour homme, Adaptée à toutes les saisons, Idéale à tout moment de la journée et pour les activités de plein air
-- Contenu: 1x Columbia Veste Imperméable Pouring Adventure II pour Homme, Couleur: Collegiate Navy (Bleu), Taille: S, Art.: 1760061
+- Veste utilisable tout au long de lannée: Tissu imperméable, Capuche tempête ajustable, Poignets réglables
 - Zip sur toute la longueur, 2 poches avant, Facilement pliable dans sa propre poche avant pour un rangement plus pratique
+- Contenu: 1x Columbia Veste Imperméable Pouring Adventure II pour Homme, Couleur: Collegiate Navy (Bleu), Taille: S, Art.: 1760061
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08CMJLS57{{</world>}}

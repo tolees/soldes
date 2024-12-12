@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Code couleur des embouts : rouge et jaune
-- Jeu de tournevis Phillips et à tête fendue
 - Manche ergonomique bi-matière confortable et efficace
-- Embouts sablés
+- Jeu de tournevis Phillips et à tête fendue
 - Lame ronde en acier chrome vanadium plaquée chrome
+- Embouts sablés
+- Code couleur des embouts : rouge et jaune
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004ZFCU68{{</world>}}

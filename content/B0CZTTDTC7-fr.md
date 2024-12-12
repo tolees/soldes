@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- [Appareil photo Sony LYT-600 avec OIS] La puissance de Sony à votre service. SuperOIS, Ouverture : ƒ/1.8, Distance focale : 26 mm
+- La combinaison gagnante. Batterie puissante de 5 000 mAh. Charge SUPERVOOC 67 W
 - NFC sur 360° | Doubles haut-parleurs | Matrice d’antennes réseau | Étanchéité IP54 | Protection contre les chutes
 - [Écran AMOLED 120 Hz ultra fluide] Une expérience de visionnage supérieure. Grand écran de 6,7 pouces, Écran E4, Ratio écran/corps de 93 %, Résolution de 2400*1800
 - [Processeur Dimensity 7050 5G] Grâce au chipset 5G en 6 nm, votre puissance potentielle est énorme et votre consommation d’énergie est réduite : résultat, une utilisation fiable, fluide et efficace de l’appareil.
-- [Appareil photo Sony LYT-600 avec OIS] La puissance de Sony à votre service. SuperOIS, Ouverture : ƒ/1.8, Distance focale : 26 mm
-- La combinaison gagnante. Batterie puissante de 5 000 mAh. Charge SUPERVOOC 67 W
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZTTDTC7{{</world>}}

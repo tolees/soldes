@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure: Textile
-- Semelle intérieure amovible: false
 - Matériau de semelle: Caoutchouc
+- Semelle intérieure amovible: false
 - Taille: Les chaussures Geox taillent grand
 - Semelle intérieure: Cuir
 

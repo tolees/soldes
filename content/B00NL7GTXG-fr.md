@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie Fabricant: 24 mois
 - Couleur :noir
+- Garantie Fabricant: 24 mois
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00NL7GTXG{{</world>}}

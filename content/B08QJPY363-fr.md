@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Marron (Ancient Fossil/Black), XXL, Art. 1352472
-- Polaire douce pour atténuer les frissons du matin et du soir, Coupe classique moderne pour répondre à toutes les exigences de multicouches par temps frais
-- Protection supplémentaire contre le vent et le froid avec col montant et demi-zip
 - Particulièrement chaude et douillette grâce à la polaire de grande qualité, Technologie Omni-Shade avec protection solaire UPF 61
+- Contenu : 1x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Marron (Ancient Fossil/Black), XXL, Art. 1352472
+- Protection supplémentaire contre le vent et le froid avec col montant et demi-zip
+- Polaire douce pour atténuer les frissons du matin et du soir, Coupe classique moderne pour répondre à toutes les exigences de multicouches par temps frais
 - Style fonctionnel et chaleur en combinaison avec dautres produits Columbia
 
 [🛒 Achète-le!!]({{< param buyurl >}})

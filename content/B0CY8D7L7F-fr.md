@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de 1,5 litre
-- Avec affichage
 - Produit résistant
+- Avec affichage
+- Capacité de 1,5 litre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CY8D7L7F{{</world>}}

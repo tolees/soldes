@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - <b>Garantie du fabricant</b>: 2 ans
 - <b>Type de produit</b>: Clés USB
-- Intenso Rainbow Clé USB Drive 2.0 16 Go Noir
 - <b>Description du produit</b>: Intenso - 3502470
+- Intenso Rainbow Clé USB Drive 2.0 16 Go Noir
 - <b>Mémoire</b>: 16 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

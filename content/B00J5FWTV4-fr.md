@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gommages
 - Marque ureadin
+- Gommages
 - Produits de beauté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

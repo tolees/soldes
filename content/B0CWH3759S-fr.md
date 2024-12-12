@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Minecraft devient réel – Les sets LEGO Minecraft proposent aux fans une nouvelle façon d’apprécier le célèbre jeu vidéo et donnent vie à des créatures, des lieux et des fonctions bien connus grâce à l’univers créatif des briques LEGO
-- Set d’aventure LEGO Minecraft pour enfants – Les garçons et les filles dès 8 ans passionnés des jeux vidéo Minecraft peuvent explorer une forteresse et une forêt avec le jouet de construction créative La forteresse du loup
 - Modèle de forteresse créatif – Le jouet inclut un établi, un haut-fourneau, une enclume et une table de forgeron, ainsi qu’un dresseur de loups LEGO Minecraft, 2 squelettes et 2 loups, pour un jeu de rôle réaliste, pour jouer seul ou entre amis
+- Set d’aventure LEGO Minecraft pour enfants – Les garçons et les filles dès 8 ans passionnés des jeux vidéo Minecraft peuvent explorer une forteresse et une forêt avec le jouet de construction créative La forteresse du loup
 - Instructions de montage 3D – Les enfants peuvent télécharger l’application LEGO Builder pour une expérience de construction immersive, avec des outils pour zoomer, faire pivoter les modèles en 3D, enregistrer les sets et suivre leur progression
 - Jouet LEGO Minecraft sur le thème des loups – L’entrée de la base du dresseur de loups arbore une grande tête de loup à construire dont l’expression peut être modifiée : elle peut être tour à tour amicale et colérique, ce qui offrira un jeu varié
 - Jouet de construction et set d’action – Les enfants apprivoisent un loup sauvage, combattent des squelettes et utilisent un ensemble d’outils dans ce jouet d’exploration de la forêt pour les aider à prendre conscience de la nature qui les entoure

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité: PlayStation 5,4,3 | Port USB alimenté | Windows 11, Windows 10, Windows 8.1, Windows 8, Windows 7
-- Retour de Force Réaliste: Volant Logitech Driving Force doté d’un retour de force à deux moteurs pour ressentir la conduite au maximum
-- Volant en Cuir: le volant revêtu de cuir cousu à la main confère un certain luxe à tous les véhicules
-- Expérience de Conduite Parfaite: le volant de course Logitech G29. Fourni avec des pédales. Rendu réaliste du pilotage
-- Pédales Réglables: Maintenez une position de conduite plus vraie que nature grâce à lunité de pédales séparée intégrant commande des gaz, pédales dembrayage et de frein
 - Rotation du Volant à 900° : avec la rotation de blocage à 900° du volant Driving Force, vous pouvez faire tourner le volant jusquà deux fois et demi
+- Retour de Force Réaliste: Volant Logitech Driving Force doté d’un retour de force à deux moteurs pour ressentir la conduite au maximum
+- Pédales Réglables: Maintenez une position de conduite plus vraie que nature grâce à lunité de pédales séparée intégrant commande des gaz, pédales dembrayage et de frein
+- Expérience de Conduite Parfaite: le volant de course Logitech G29. Fourni avec des pédales. Rendu réaliste du pilotage
+- Compatibilité: PlayStation 5,4,3 | Port USB alimenté | Windows 11, Windows 10, Windows 8.1, Windows 8, Windows 7
+- Volant en Cuir: le volant revêtu de cuir cousu à la main confère un certain luxe à tous les véhicules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00YUIM2J0{{</world>}}

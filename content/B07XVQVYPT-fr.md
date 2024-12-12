@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DURABLE + 2 ANS. Chez The G-LAB, nous prenons à cœur de tester tous nos produits afin de vous assurer la meilleure qualité possible. Si jamais le produit ne vous convient pas, vous permet de le retourner sous 30 jours, sans frais et contenir un remboursement intégral. Ce modèle est garanti 2 ans, cest un investissement sans risque pour vous. Très attentif à l’avis de nos clients, notre SAV français sera toujours là pour vous aider si nécessaire et répond en -24H.
 - PS: Il nest pas possible de choisir une seul couleur de retroeclairage sur le support de casque.
+- DURABLE + 2 ANS. Chez The G-LAB, nous prenons à cœur de tester tous nos produits afin de vous assurer la meilleure qualité possible. Si jamais le produit ne vous convient pas, vous permet de le retourner sous 30 jours, sans frais et contenir un remboursement intégral. Ce modèle est garanti 2 ans, cest un investissement sans risque pour vous. Très attentif à l’avis de nos clients, notre SAV français sera toujours là pour vous aider si nécessaire et répond en -24H.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XVQVYPT{{</world>}}

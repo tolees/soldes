@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - 5G Network: 1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA
+- - Type: Smartphone
+- - 3G Network: HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 - - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66
 - - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
-- - 3G Network: HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
-- - Type: Smartphone
+- - 5G Network: 1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CWLC692C{{</world>}}

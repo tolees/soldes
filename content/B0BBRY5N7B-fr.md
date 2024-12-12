@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce set LEGO City Stuntz est une excellente idée de cadeau danniversaire pour les enfants âgés de 5 ans et plus qui aiment les spectacles de cascades à moto et les jouets daction
-- Les enfants peuvent effectuer des cascades de différentes manières : horizontalement pour réaliser le défi du cercle de flammes, et verticalement pour le défi du cercle détoiles
-- Combinez ce set avec dautres jouets de construction LEGO City Stuntz, comme Le Défi de Cascade : les Cercles Rotatifs (60360), ou Le Défi Ultime des Motards Cascadeurs (60361)
-- Les jeunes fans daction peuvent choisir leur cascade, propulser la moto jouet pour activer le volant, se lancer de la rampe et faire un magnifique dunk
 - Ce jouet pour les enfants de 5 ans et plus comprend une superbe moto de cascades sur le thème des dinosaures, ainsi quun trophée que les enfants pourront gagner
+- Les enfants peuvent effectuer des cascades de différentes manières : horizontalement pour réaliser le défi du cercle de flammes, et verticalement pour le défi du cercle détoiles
+- Les jeunes fans daction peuvent choisir leur cascade, propulser la moto jouet pour activer le volant, se lancer de la rampe et faire un magnifique dunk
 - Ce jouet LEGO City Stuntz 2-en-1 Le Défi de Cascade : le Tremplin comprend un jouet de moto à rétrofriction, une rampe de lancement et une minifigurine de cascadeur Stuntz
+- Combinez ce set avec dautres jouets de construction LEGO City Stuntz, comme Le Défi de Cascade : les Cercles Rotatifs (60360), ou Le Défi Ultime des Motards Cascadeurs (60361)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRY5N7B{{</world>}}

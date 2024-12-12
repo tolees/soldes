@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Expérience de jeu intense grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense PS5 : ressentez les hautes herbes en infiltration, la tension des cordes sur votre arc, la résistance des gâchettes sur les armes…
+- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
+- Contenu de la livraison : 1x Jeu PS5 Horizon Forbidden West, Édition Standard, Version Physique avec CD, Langue : Français, Nombre de joueurs : 1 joueur, PEGI : 16+, Genre : RPG/Action-aventure, Développeur : Guerrilla Games
 - Jeu PS5 de rôle et daction-aventure dans un immense monde ouvert aussi sublime que menaçant, avec des personnages éclectiques et saisissants au coeur dune histoire riche en émotions
 - Un univers fait de forêts verdoyantes et de villes subermgées réhaussé par des graphismes éblouissants en 4K et en HDR : un souci du détail incroyable des brins dherbe jusquau sommet des montagnes
-- Contenu de la livraison : 1x Jeu PS5 Horizon Forbidden West, Édition Standard, Version Physique avec CD, Langue : Français, Nombre de joueurs : 1 joueur, PEGI : 16+, Genre : RPG/Action-aventure, Développeur : Guerrilla Games
-- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
+- Expérience de jeu intense grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense PS5 : ressentez les hautes herbes en infiltration, la tension des cordes sur votre arc, la résistance des gâchettes sur les armes…
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09FF5FD99{{</world>}}

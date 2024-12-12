@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poussière minimisée
 - Papier de type thermo chromique avec bisphénol A change de couleur au contact de la chaleur
+- Poussière minimisée
 - Forte luminosité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

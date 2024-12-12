@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez de scénarios lumineux adaptés à chaque moment de votre journée pour une atmosphère optimale
-- Contrôlez jusquà 10 lumières avec une simplicité absolue via lapplication Bluetooth dédiée, pour une ambiance lumineuse sur mesure dans chaque pièce.
 - Libérez votre créativité en créant des configurations lumineuses personnalisées pour chaque moment de votre journée, offrant ainsi une atmosphère unique à chaque instant.
 - Maîtrisez votre éclairage avec la voix! Compatible avec les assistants vocaux comme Amazon Alexa, Apple HomeKit (via le pont Hue), Assistant Google, et Microsoft Cortana (via le pont Hue)
+- Contrôlez jusquà 10 lumières avec une simplicité absolue via lapplication Bluetooth dédiée, pour une ambiance lumineuse sur mesure dans chaque pièce.
+- Profitez de scénarios lumineux adaptés à chaque moment de votre journée pour une atmosphère optimale
 - Maximisez le potentiel de votre éclairage intelligent en connectant vos appareils au pont Hue, déverrouillant ainsi une multitude de fonctionnalités avancées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
