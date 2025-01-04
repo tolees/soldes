@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HP03219
 - Poids de l’article : G
+- HP03219
 - Numéro de modèle : SM-A145RZKUEUB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le toit est amovible.
 - Découvrez comment la haute qualité et le design robuste de nos jouets assurent des aventures durables. Le nettoyage des pièces (sans autocollants) se fait simplement sous l’eau courante, sans recours à des agents chimiques. La notice permet de monter facilement les jouets avec l’aide des parents.
 - Le capot du moteur souvre.
-- Le toit est amovible.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JSK6K1Y{{</world>}}

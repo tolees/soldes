@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enrichi à base dacide salicylique et dhuile essentielle darbre à thé
-- Jusquà 6 applications par jour. À partir de 3 ans.
-- Film invisible, permet de maquillage
+- Triple action : purifie la peau, agit contre la bactérie p. acnes* (bactérie à lorigine des imperfections) et accélère lélimination des grains1
 - Solution rapide et discrète contre les grains
 - CLINIQUEMENT TESTɲ
-- Triple action : purifie la peau, agit contre la bactérie p. acnes* (bactérie à lorigine des imperfections) et accélère lélimination des grains1
+- Jusquà 6 applications par jour. À partir de 3 ans.
+- Film invisible, permet de maquillage
+- Enrichi à base dacide salicylique et dhuile essentielle darbre à thé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00WTGQ4Z8{{</world>}}

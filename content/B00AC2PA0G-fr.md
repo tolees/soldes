@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Genre : Femme
 - Familles Olfactives: Boisées, Florales, Fruitées
 - 5 unité(s) de cet article soldée(s) à partir du 9 janvier 2019 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Date de lancement: 1993
+- Genre : Femme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AC2PA0G{{</world>}}

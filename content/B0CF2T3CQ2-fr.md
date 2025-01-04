@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adaptez-vous ou mourrez dans un combat contre la menace ultime
 - Retrouvez les meilleurs cartes multijoueur modernisées avec de nouveaux modes et fonctionnalités de jeu
+- Adaptez-vous ou mourrez dans un combat contre la menace ultime
 - Découvrez un tout nouveau mode zombie en monde ouvert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

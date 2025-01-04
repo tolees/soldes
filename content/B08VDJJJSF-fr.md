@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec une simple pression du bouton sur les écouteurs, il est possible daccéder à Amazon Alexa et Google Now - lapplication JBL permet de gérer lassistant vocal
-- A laide de la technologie Ambient Aware et TalkThru, vous ne manquerez rien : écouter votre musique, téléphoner avec vos amis et écouter lenvironnement - tout est possible en même temps
 - Le casque JBL Live 460NC sans fil reproduit le son signature de JBL et réduit le bruit grâce à la réduction de bruit adaptive - immergez-vous dans la musique tout en restant connecté
+- A laide de la technologie Ambient Aware et TalkThru, vous ne manquerez rien : écouter votre musique, téléphoner avec vos amis et écouter lenvironnement - tout est possible en même temps
+- Avec une simple pression du bouton sur les écouteurs, il est possible daccéder à Amazon Alexa et Google Now - lapplication JBL permet de gérer lassistant vocal
 - Profitez dune autonomie jusquà 50 heures avec réduction de bruit désactivée et 40 heures avec réduction de bruit activée - chargez seulement 10 minutes pour une autonomie de 4 heures
 - Livraison : 1 x casque audio JBL Live 460NC sans fil / 1 x câble détachable / 1 x câble dalimentation type C / 1 x garantie/avertissements / 1 x guide de démarrage rapide / Bleu
 

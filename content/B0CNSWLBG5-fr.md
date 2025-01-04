@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de stockage : 64,0 GO
 - Fabricant : Samsung.
+- Capacité de stockage : 64,0 GO
 - Taille de lécran : 0,0 pouces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

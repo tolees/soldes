@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet housse a été conçu exclusivement pour la Nintendo Switch. Pour découvrir notre gamme d’accessoires pour la Nintendo Switch, merci de chercher avec les mots clefs “ORZLY SWITCH” dans la barre de recherche d’Amazon
 - Conçue pour être emportée en toutes occasions ou pour simplement ranger votre nouvelle console Nintendo Switch
+- Cet housse a été conçu exclusivement pour la Nintendo Switch. Pour découvrir notre gamme d’accessoires pour la Nintendo Switch, merci de chercher avec les mots clefs “ORZLY SWITCH” dans la barre de recherche d’Amazon
 - Matériau en EVA rigide qui va protéger votre console de manière optimale. Intérieur doublé pour la protéger des rayures
 - Rangez votre tablette Nintendo Switch + les 2 manettes Joy-Con + 1 compartiment pour les câbles, les jeux et autres accessoires essentiels
 - Housse Idéal pour transporter ou ranger de manière sûre votre nintendo switch et vos jeux nitntendo switch

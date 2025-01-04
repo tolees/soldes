@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonne qualité
 - Bonne performance
 - Bon produit à utiliser
+- Bonne qualité
 - Facile à utiliser
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque - Nivea
 - Contenu - 50 ml
+- Marque - Nivea
 - Réf. - 4005900079640
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

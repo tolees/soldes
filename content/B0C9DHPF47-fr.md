@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Partage le fun entre amis : Toute l’histoire du jeu est jouable en coopération jusqu’à 4 joueurs en local.
 - Utilise le pouvoir des Chaos Emeralds : De nouveaux pouvoirs vous permettent de vous cloner, de gravir les chutes d’eau, de changer de forme, et bien plus encore.
 - Incarne tes personnages préférés : choisis entre Sonic, Tails, Knuckles et Amy Rose
 - Un nouveau standard : Une aventure Sonic classique conçue pour les plateformes modernes.
-- Partage le fun entre amis : Toute l’histoire du jeu est jouable en coopération jusqu’à 4 joueurs en local.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9DHPF47{{</world>}}
