@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bien agiter avant utilisation. Vaporisez à 15cm des aisselles. En cas de bouchage, rincez le diffuseur à leau chaude.
-- Bénéficiez dune protection efficace et dun parfum frais pendant 48h.
-- Bénéficiez dune protection et dune fraicheur intense pendant 48h, anti-odeurs, anti-traces, et 0% alcool dans le respect optimal de votre peau.
 - Ushuaia engagée par nature depuis plus de 25 ans vous propose un moment dévasion et de fraîcheur intense avec ses déodorants efficaces 48h pour hommes.
+- Bénéficiez dune protection et dune fraicheur intense pendant 48h, anti-odeurs, anti-traces, et 0% alcool dans le respect optimal de votre peau.
+- Bénéficiez dune protection efficace et dun parfum frais pendant 48h.
+- Bien agiter avant utilisation. Vaporisez à 15cm des aisselles. En cas de bouchage, rincez le diffuseur à leau chaude.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TTQ7MVP{{</world>}}

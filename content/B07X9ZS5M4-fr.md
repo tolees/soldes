@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 ans de prise en charge
 - Miroir double face
 - Eclairage doux
 - Ampoules LED à longue durée de vie
-- Fonctionne sur piles - nécessite 3 piles AA (non incluses)
 - Grossissant x1 / x10
-- 2 ans de prise en charge
+- Fonctionne sur piles - nécessite 3 piles AA (non incluses)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07X9ZS5M4{{</world>}}

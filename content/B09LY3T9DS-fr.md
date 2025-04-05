@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HJC vous propose son casque moto modulable le I100 : Sécurité : En polycarbonate avancé pour un poids de 1900+/-50 Fermeture de jugulaire par boucle micrométrique rapide et efficace Modularité : Basculement de la mentonnière à 180° système "flip-up"
 - Homologué ECE 22.06 "P/J"
+- HJC vous propose son casque moto modulable le I100 : Sécurité : En polycarbonate avancé pour un poids de 1900+/-50 Fermeture de jugulaire par boucle micrométrique rapide et efficace Modularité : Basculement de la mentonnière à 180° système "flip-up"
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LY3T9DS{{</world>}}

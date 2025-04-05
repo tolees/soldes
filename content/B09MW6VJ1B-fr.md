@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUIVI DE LA CONSOMMATION ⭐ Le compteur de consommation intégré permet de visualiser la consommation instantanée et de suivre un historique sur un an. Le compteur permet également de connaitre le statut dun appareil, par exemple si la machine à laver ne consomme plus, cest quelle à terminé son cycle de lavage. Vous pouvez identifier les appareils énergivores de votre domicile et faire des économies en prenant conscience de la consommation de vos appareils.
-- GAIN DE PLACE ⭐ Vous manquez despace et de prises murales ? La Priska Duo est la prise double quil vous faut. Elle rend vos appareils connectés sans encombrer votre espace intérieur.
-- CONTRÔLE VOCAL OU VIA SMARTPHONE ⭐ avec Alexa, Google Home ou les raccourcis Siri vous pilotez la prise depuis votre canapé dune simple commande vocale. Par exemple «Alexa, allume laquarium". Que vous soyez à la maison ou nimporte où dans le monde Il suffit que vous ayez accès à Internet, en Wifi comme en 4G et vous pouvez piloter vos appareils, vérifier leur statut ou encore programmer les scénarios ou les horaires de fonctionnement
 - SCÉNARIOS ET AUTOMATISATIONS ⭐ Lapplication Konyks permet de créer très facilement des scénarios et des automatisations, par exemple allumer la prise au lever du soleil, allumer le ventilateur si la température extérieure dépasse 25° ou allumer les appareils quand je quitte la maison. Les informations concernant la météo, lhumidité et les heures de lever et coucher du soleil sont récupérées grâce à votre position, nul besoin de capteurs supplémentaires.
+- SUIVI DE LA CONSOMMATION ⭐ Le compteur de consommation intégré permet de visualiser la consommation instantanée et de suivre un historique sur un an. Le compteur permet également de connaitre le statut dun appareil, par exemple si la machine à laver ne consomme plus, cest quelle à terminé son cycle de lavage. Vous pouvez identifier les appareils énergivores de votre domicile et faire des économies en prenant conscience de la consommation de vos appareils.
 - ⭐ NOUVEAU GAMME EASY Installation Ultra-Facile et très rapide; contrôle local en Bluetooth
+- CONTRÔLE VOCAL OU VIA SMARTPHONE ⭐ avec Alexa, Google Home ou les raccourcis Siri vous pilotez la prise depuis votre canapé dune simple commande vocale. Par exemple «Alexa, allume laquarium". Que vous soyez à la maison ou nimporte où dans le monde Il suffit que vous ayez accès à Internet, en Wifi comme en 4G et vous pouvez piloter vos appareils, vérifier leur statut ou encore programmer les scénarios ou les horaires de fonctionnement
+- GAIN DE PLACE ⭐ Vous manquez despace et de prises murales ? La Priska Duo est la prise double quil vous faut. Elle rend vos appareils connectés sans encombrer votre espace intérieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MW6VJ1B{{</world>}}

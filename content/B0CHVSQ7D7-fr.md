@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour la toute première fois, explore des lieux iconiques tels que la maison des Heeler, le terrain de jeu, la crique, et une plage en bonus.
-- Viens tamuser avec Bluey et sa famille dans Bluey: Le Jeu Vidéo ! Découvre une toute nouvelle histoire dans 4 aventures interactives.
 - Et ce nest pas tout ! Ce jeu ne sera pas trifficile, mais très amusant. Profite des merveilles amusantes du monde de Bluey, grâce au multijoueur en local, tu peux jouer avec tes amis et ta famille en mode histoire et en jeu libre !
 - Explore et collecte des objets pour ton livre dautocollants, débloque des tenues et découvre les nombreux secrets et références cachés dans chaque lieu. Recrée des scènes emblématiques ou crée tes propres aventures et jeux inspirés de Bluey.
+- Viens tamuser avec Bluey et sa famille dans Bluey: Le Jeu Vidéo ! Découvre une toute nouvelle histoire dans 4 aventures interactives.
+- Pour la toute première fois, explore des lieux iconiques tels que la maison des Heeler, le terrain de jeu, la crique, et une plage en bonus.
 - Joue à tes jeux favoris de la série télé, dont Reste en lair, Pourchasser Max le Bavard et bien dautres !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

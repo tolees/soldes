@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Certifications: CE, BSMI, KC, VCCI, C-tick, FCC, IC, UL, TUV, CB, EAC
+- Transferts ultra rapide avec des taux de 1050 Mo/s
 - Compatible Windows MacOS Android
 - Design aluminium
-- Transferts ultra rapide avec des taux de 1050 Mo/s
-- Certifications: CE, BSMI, KC, VCCI, C-tick, FCC, IC, UL, TUV, CB, EAC
 - Protection des données par empreinte digitale et/ou mot de passe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crochet de retenue avec tige filetée M20 x 2,5
-- Pour montage et démontage de moteur et d’engrenage
 - En tube carré stable
 - Trou long pour le réglage flexible de la largeur
-- Avec deux chaînes de longueur 900 mm
 - Avec protection en caoutchouc de laile
+- Avec deux chaînes de longueur 900 mm
+- Crochet de retenue avec tige filetée M20 x 2,5
+- Pour montage et démontage de moteur et d’engrenage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003V2CZMA{{</world>}}

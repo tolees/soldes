@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Confortable – Télécommande infrarouge multifonction et réglage du volume, des basses et des aigus sur le satellite.
 - Puissance totale - Puissance de sortie RMS 150 W pour un son puissant.
 - Basses puissantes - Caisson de basses de 21 cm (8") pour des basses riches et profondes.
-- Confortable – Télécommande infrarouge multifonction et réglage du volume, des basses et des aigus sur le satellite.
 - Polyvalent - Connecteurs numériques et analogiques pour une flexibilité maximale
 - Bluetooth 5. 0 (aptX) – pour un streaming audio parfait de smartphone, tablette, etc.
 

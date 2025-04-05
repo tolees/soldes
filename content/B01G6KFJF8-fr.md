@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage : 5 x 10,8 x 8,4 cm
-- Coque réglable
-- Matériau : métal
-- Position de préhension optimale
 - Remarque : La cloche convient à tous les guidons courants et a un diamètre de 22 mm
+- Matériau : métal
+- Coque réglable
+- Dimensions de lemballage : 5 x 10,8 x 8,4 cm
+- Position de préhension optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01G6KFJF8{{</world>}}

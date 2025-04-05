@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour maîtriser l’art du kung-fu, affûtez votre corps et votre esprit. Apprenez de vos erreurs, débloquez des compétences exclusives et concentrez-vous pour dominer les techniques dévastatrices du kung-fu Pak Mei.
 - La traque de vos ennemis vous emmènera dans les recoins secrets de la ville : des banlieues gangrénées par les gangs aux couloirs austères des tours du grand capital. En une seule journée, il vous faudra affronter d’innombrables ennemis. Et à chaque erreur, le temps sera le prix à payer.
+- Pour maîtriser l’art du kung-fu, affûtez votre corps et votre esprit. Apprenez de vos erreurs, débloquez des compétences exclusives et concentrez-vous pour dominer les techniques dévastatrices du kung-fu Pak Mei.
 - Si vous voulez survivre, vous avez intérêt à bien vous positionner et à utiliser l’environnement à bon escient. Exploitez les ressources disponibles : objets à lancer, armes improvisées, fenêtres, rebords... On ne donne pas cher de votre peau, et vos adversaires ne vous feront aucun cadeau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

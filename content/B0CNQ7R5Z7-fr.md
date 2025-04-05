@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Reconstruire et remodeler Moria : Redonnez à l’ancien royaume de Khazad-dûm, perdu depuis longtemps, sa gloire d’antan, en récupérant les monuments nains au fil de l’histoire
-- Entrez dans la Communauté : Découvrez la Communauté des Nains comme jamais auparavant, où la riche histoire du monde fantastique emblématique de J.R.R. Tolkien est intégré au tissu même du Seigneur des Anneaux : Retour en Moria
-- Créer son QG : Trouvez du réconfort dans les ténèbres
 - Survivre à l’obscurité: Pour survivre dans les perfides Mines de la Moria, les joueurs doivent conserver leurs ressources, chasser et se rassembler pour se nourrir et gérer leur sommeil, leur température et leurs niveaux de bruit
+- Créer son QG : Trouvez du réconfort dans les ténèbres
+- Entrez dans la Communauté : Découvrez la Communauté des Nains comme jamais auparavant, où la riche histoire du monde fantastique emblématique de J.R.R. Tolkien est intégré au tissu même du Seigneur des Anneaux : Retour en Moria
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNQ7R5Z7{{</world>}}

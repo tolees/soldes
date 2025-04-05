@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable et robuste - 2 304 tenons alignés pour donner la bonne prise à toutes les créations de construction LEGO à partir de briques de construction LEGO
 - La plaque de base LEGO maintient fermement les briques à nimporte quel angle (même à lenvers ) tout en permettant de les retirer facilement
 - Un monde de possibilités créatrices - des scènes de rue aux châteaux et aux paysages de montagne, les enfants peuvent construire sur cette base LEGO tout ce quils imaginent
+- Durable et robuste - 2 304 tenons alignés pour donner la bonne prise à toutes les créations de construction LEGO à partir de briques de construction LEGO
 - La plaque de construction LEGO grise peut être offerte comme cadeau danniversaire ou comme cadeau de tout autre jour aux enfants de 4 ans et plus pour les projets de construction et dexpositions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

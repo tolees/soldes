@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance au vent de 38 km/h (niveau 5) et nacelle à 3 axes pour la stabilité - Sa résistance au vent de niveau 5 et sa nacelle mécanique à 3 axes permettent à Mini 3 de capturer des images 4K fluides et constantes. Les moteurs sans balais améliorent la puissance pour un décollage jusqu’à 4 000 m d’altitude.
-- Capturez l’altitude et partagez : Avec Prise verticale réelle, vous pouvez facilement capturer des monuments hauts comme les gratte-ciels et les chutes d’eau. Et après la capture, c’est l’orientation parfaite pour publier sur Instagram ou TikTok.
-- Transmission vidéo HD max. sur 10 km – Portée de transmission vidéo HD pouvant atteindre 10 km[5] avec d’excellentes capacités anti-interférences, vous permettant d’explorer librement de vastes paysages et d’obtenir une meilleure vision.
-- QuickTransfert via Wi-Fi – Aucune radiocommande nécessaire ; vous pouvez activer le téléchargement Wi-Fi après avoir appairé le drone à proximité de votre téléphone. La vitesse de téléchargement peut atteindre 25 Mo/s, ce qui est simple et rapide.
-- Mini 3 est autorisé à voler dans les catégories A1 et A3. Aucun test n’est donc exigé pour les opérateurs. Notes : Pour votre sécurité, veuillez vérifier et respecter les lois et réglementations locales en vigueur avant tout vol.
-- Moins de 249 g, certification de classe C0 – Grâce à son poids ultra-léger, Mini 4K est autorisé à voler dans les catégories A1 et A3. Aucune formation n’est requise pour les opérateurs. Profitez du plaisir de voler sans longues attentes[1].
-- Des vidéos verticales saisissantes prêtes au partage : Avec Prise verticale réelle, vous pouvez facilement capturer des monuments hauts comme les gratte-ciels et les chutes d’eau. Et après la capture, c’est l’orientation parfaite pour publier sur Instagram ou TikTok.
-- Idéal pour débutants et sûr – Conçu pour les débutants, le Retour au point de départ (RTH) par GPS, le vol stationnaire précis, le décollage et l’atterrissage auto garantissent une confiance en vol accrue. Des ressources d’apprentissage supplémentaires intégrées à l’appli facilitent la maîtrise rapide du pilotage.
 - Qualité d’image saisissante en 4K UHD – Filmez en vidéo 4K HDR pour des prises aériennes cristallines. Grâce à la fusion ISO double natif, Mini 3 permet de capturer des détails dans les zones d’ombre et de haute lumière, de jour comme de nuit[3].
+- Moins de 249 g, certification de classe C0 – Grâce à son poids ultra-léger, Mini 4K est autorisé à voler dans les catégories A1 et A3. Aucune formation n’est requise pour les opérateurs. Profitez du plaisir de voler sans longues attentes[1].
+- Idéal pour débutants et sûr – Conçu pour les débutants, le Retour au point de départ (RTH) par GPS, le vol stationnaire précis, le décollage et l’atterrissage auto garantissent une confiance en vol accrue. Des ressources d’apprentissage supplémentaires intégrées à l’appli facilitent la maîtrise rapide du pilotage.
+- Résistance au vent de 38 km/h (niveau 5) et nacelle à 3 axes pour la stabilité - Sa résistance au vent de niveau 5 et sa nacelle mécanique à 3 axes permettent à Mini 3 de capturer des images 4K fluides et constantes. Les moteurs sans balais améliorent la puissance pour un décollage jusqu’à 4 000 m d’altitude.
+- Transmission vidéo HD max. sur 10 km – Portée de transmission vidéo HD pouvant atteindre 10 km[5] avec d’excellentes capacités anti-interférences, vous permettant d’explorer librement de vastes paysages et d’obtenir une meilleure vision.
+- Des vidéos verticales saisissantes prêtes au partage : Avec Prise verticale réelle, vous pouvez facilement capturer des monuments hauts comme les gratte-ciels et les chutes d’eau. Et après la capture, c’est l’orientation parfaite pour publier sur Instagram ou TikTok.
+- Mini 3 est autorisé à voler dans les catégories A1 et A3. Aucun test n’est donc exigé pour les opérateurs. Notes : Pour votre sécurité, veuillez vérifier et respecter les lois et réglementations locales en vigueur avant tout vol.
 - Autonomie de la batterie prolongée de 38 minutes – Avec une autonomie pouvant atteindre 38 min, vous pouvez emporter Mini 3 à chaque étape de votre voyage ou effectuer de longs vols sans vous soucier de la batterie[2].
+- Capturez l’altitude et partagez : Avec Prise verticale réelle, vous pouvez facilement capturer des monuments hauts comme les gratte-ciels et les chutes d’eau. Et après la capture, c’est l’orientation parfaite pour publier sur Instagram ou TikTok.
+- QuickTransfert via Wi-Fi – Aucune radiocommande nécessaire ; vous pouvez activer le téléchargement Wi-Fi après avoir appairé le drone à proximité de votre téléphone. La vitesse de téléchargement peut atteindre 25 Mo/s, ce qui est simple et rapide.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CQ84W4XV{{</world>}}

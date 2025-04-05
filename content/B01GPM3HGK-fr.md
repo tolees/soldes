@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pointe moyenne pour une écriture au quotidien
+- Recharge dencre conçue pour les stylos roller Parker
 - Lencre joliment pigmentée capture vos pensées
 - Lencre QUINK de PARKER crée des tracés fluides et fiables
+- Pointe moyenne pour une écriture au quotidien
 - Inclut 12 recharges dencre noire
-- Recharge dencre conçue pour les stylos roller Parker
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01GPM3HGK{{</world>}}

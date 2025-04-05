@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur douille: 55 millimètres.
-- Matière corps culot: plastiques.
 - Avec bague
-- Douille E27 noire
+- Matière corps culot: plastiques.
+- Longueur douille: 55 millimètres.
 - Chemise 1/2 filetée
+- Douille E27 noire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KTDFJNG{{</world>}}

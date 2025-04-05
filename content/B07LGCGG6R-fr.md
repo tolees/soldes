@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec effet calmant et SPF25.
-- Avec effet calmant et SPF25 pour prévenir les taches de pigmentation.
 - Pour les rougeurs et linconfort de la peau.
+- Avec effet calmant et SPF25 pour prévenir les taches de pigmentation.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07LGCGG6R{{</world>}}

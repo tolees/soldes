@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du bac : 19 x 19 cm
 - Un accessoire parfait pour tous les puzzles et ne ratez plus une pièce de puzzle !
 - 6 bacs en forme de carte pour ramasser toutes les pièces et les commander lors de lassemblage de vos puzzles préférés
-- Dimensions du bac : 19 x 19 cm
-- Couleur: Multicolore
 - Les bacs en forme de cheville sont empilables
+- Couleur: Multicolore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MXXLQSM{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Éligible au programme Intel Stable IT Platform Intel SIPP à partir de la disponibilité de la plateforme commerciale Raptor Lake-S.
 - Les processeurs Intel Core i9 de 13e génération pour PC de bureau, les processeurs Intel Core i7 de 13e génération pour PC de bureau et les processeurs Intel Core i5K de 13e génération peuvent prendre en charge jusquà la DDR5-5600 MT/s. DDR5 - 5600 MT/s supportée sur 1DPC UDIMM 1Rx8 et 1Rx16. Une capacité de mémoire maximale de 128 Go est réalisable avec les configurations 2DPC.
 - Les fonctionnalités débloquées pour loverclocking sont présentes lorsquelles sont associées au SKU de chipset Intel série 600/700 éligible.
-- Éligible au programme Intel Stable IT Platform Intel SIPP à partir de la disponibilité de la plateforme commerciale Raptor Lake-S.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BG67ZG5R{{</world>}}

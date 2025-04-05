@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 12 filtres originaux, plus la fonction Graffiti et texte sur limpression, plus la possibilité de recadrer limage, de modifier le contraste et la saturation, de faire des collages et dimprimer des images vidéo.
-- Utilise le format de film instax iconic SQUARE 86 x 72 mm, taille de limpression 62 x 62 mm, un film ISO 800 avec reproduction des couleurs vibrantes vendu séparément.
-- Produisez des photos SQUARE instantanées à partir de votre smartphone via une connexion Bluetooth et une application e dédiée.
 - Envoyez des images personnalisées via instax connect, special FX, Reprint et Remote printing et ajoutez lun des 1 600 autocollants de lapplication.
+- 12 filtres originaux, plus la fonction Graffiti et texte sur limpression, plus la possibilité de recadrer limage, de modifier le contraste et la saturation, de faire des collages et dimprimer des images vidéo.
+- Produisez des photos SQUARE instantanées à partir de votre smartphone via une connexion Bluetooth et une application e dédiée.
 - AR Print permet aux utilisateurs de créer du contenu AR et de lintégrer à limpression. Lorsque les utilisateurs lisent le code QR intégré, le contenu AR apparaît, y compris la messagerie vocale.
+- Utilise le format de film instax iconic SQUARE 86 x 72 mm, taille de limpression 62 x 62 mm, un film ISO 800 avec reproduction des couleurs vibrantes vendu séparément.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGY52ZF4{{</world>}}

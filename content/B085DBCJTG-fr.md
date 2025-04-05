@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La carte mémoire CFexpress de Type B est rétro-compatible avec les appareils photo équipés de carte XQD et dun micrologiciel compatible Cfexpress.
-- Dotée de capacités de lecture et décriture pouvant atteindre respectivement 1700 Mo/s et 1400 Mo/s, cette carte mémoire offre une latence faible lors des enregistrements à grande vitesse et une efficacité accrue des flux de travail, bien supérieure aux générations précédentes de cartes mémoire SanDisk.
 - Permet de filmer en 4K RAW avec une qualité dimage parfaite.
 - Logiciel de récupération de fichiers RescuePRO Deluxe Recovery inclus (téléchargement requis)
+- Dotée de capacités de lecture et décriture pouvant atteindre respectivement 1700 Mo/s et 1400 Mo/s, cette carte mémoire offre une latence faible lors des enregistrements à grande vitesse et une efficacité accrue des flux de travail, bien supérieure aux générations précédentes de cartes mémoire SanDisk.
+- La carte mémoire CFexpress de Type B est rétro-compatible avec les appareils photo équipés de carte XQD et dun micrologiciel compatible Cfexpress.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B085DBCJTG{{</world>}}

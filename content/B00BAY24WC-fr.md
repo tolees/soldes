@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoie tous les surfaces lisses sans rayer
-- Dégraissante, anticalcaire, polit, lustre
 - Laisse une fine couche protectrice
+- Dégraissante, anticalcaire, polit, lustre
+- Nettoie tous les surfaces lisses sans rayer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BAY24WC{{</world>}}

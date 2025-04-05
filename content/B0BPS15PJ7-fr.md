@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Présente à gauche une page avec les jours pour les rendez-vous de la semaine et une page lignée à droite pour prendre des notes et organiser des idées
 - Lagenda comprend les coins arrondis emblématiques, une fermeture élastique, un marque-page en ruban et un avertissement "en cas de perte" sur la couverture. Papier ivoire sans acide de 70 g/m136
-- Le paquet comprend un agenda hebdomadaire avec couverture souple disponible en format Large 13x21, couleur Noir
 - Outils utiles : calendrier, planificateur de voyages, idées et objectifs, pages lignées pour les notes. Inclut des autocollants pour personnaliser vos plans et des autocollants annuels pour le dos.
+- Le paquet comprend un agenda hebdomadaire avec couverture souple disponible en format Large 13x21, couleur Noir
 - Débutez lannée avec votre agenda hebdomadaire de 12 mois couvrant toute lannée, de janvier à décembre 2024
+- Présente à gauche une page avec les jours pour les rendez-vous de la semaine et une page lignée à droite pour prendre des notes et organiser des idées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPS15PJ7{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand sac à langer (avec matelas à langer)
+- 100 % polyester recyclé
 - 27,5 x 43,5 x 28 cm (H x l x P)
 - Hydrofuge
-- 100 % polyester recyclé
 - Poids : 0,96 kg - Volume : 22 l
+- Grand sac à langer (avec matelas à langer)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QDZD1Y5{{</world>}}

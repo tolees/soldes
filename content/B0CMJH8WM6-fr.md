@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capturez vos meilleurs moments avec une triple caméra de 64MP révolutionnaire équipée de lOIS
-- Zone étendue de dissipation de chaleur grâce au graphite haute performance pour réduire efficacement la température interne, même en cas dutilisation intense
-- Le POCO X6 Pro est alimenté par le MediaTek Dimensity 8100 Ultra pour une expérience de jeu fantastique avec une batterie durable
 - Design élégant pour une expérience audiovisuelle confortable et agréable
+- Le POCO X6 Pro est alimenté par le MediaTek Dimensity 8100 Ultra pour une expérience de jeu fantastique avec une batterie durable
+- Zone étendue de dissipation de chaleur grâce au graphite haute performance pour réduire efficacement la température interne, même en cas dutilisation intense
 - Profitez dun affichage immersif de 6,67 pouces capable dafficher 16,7 millions de couleurs. Vos contenus préférés prennent vie avec des noirs profonds et une reproduction vibrante des couleurs.
+- Capturez vos meilleurs moments avec une triple caméra de 64MP révolutionnaire équipée de lOIS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CMJH8WM6{{</world>}}

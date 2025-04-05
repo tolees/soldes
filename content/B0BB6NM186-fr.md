@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lancez la synchronisation avec lapplication de bureau Hue Sync pour voir laction sur votre écran se refléter dans la lumière.
-- Nécessite un Pont Hue (non fourni)
 - Obtenez un dégradé de lumière réactive et colorée pour votre configuration de jeu !
+- Nécessite un Pont Hue (non fourni)
 - Fixez le Hue Play gradient lightstrip à larrière de votre moniteur 32 à 34" grâce aux supports inclus
+- Lancez la synchronisation avec lapplication de bureau Hue Sync pour voir laction sur votre écran se refléter dans la lumière.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BB6NM186{{</world>}}

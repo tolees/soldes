@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ourlet avec cordon de serrage réglable
 - 2 poches inférieures zippées
 - 1 face brossée, 1 face anti-bouloches
 - Polaire 100 % polyester 220 g/m²
+- Ourlet avec cordon de serrage réglable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W4SXQ6Z{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sécurité renforcée grâce au KickBack Control, à la protection anti-redémarrage et à la poignée latérale Vibration Control
 - Productivité maximale et protection améliorée contre les poussières grâce aux ouïes daération placées au dos de loutil
 - Livré avec : GWS 14-125 , poignée supplém. Vibration Control, capot protection, capot protection spécial tronçonnage clipsable en plastique, clé à ergots, flasque serrage, écrou serrage, boîte carton
+- Sécurité renforcée grâce au KickBack Control, à la protection anti-redémarrage et à la poignée latérale Vibration Control
 - Confort amélioré grâce à une poignée nettement plus fine
 - Meilleur rapport puissance/circonférence de préhension
 

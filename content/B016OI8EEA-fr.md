@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 01, mode demploi (français non garanti)
 - Contenu de la livraison : objectif, étui, couverture arrière, couverture avant LC907
+- Utilisation prévue : Voyages, paysages, mariages et événements, nature et faune
 - Catégorie A
+- 4 au monde pour reflex numérique plein format
+- Premier objectif ultra grand angle F1
+- Plus grande échelle dimage 1:7
+- Art
 - 1
 - Limite de réglage la plus proche : 27,6 cm
-- 4 au monde pour reflex numérique plein format
-- Art
-- Plus grande échelle dimage 1:7
-- 01, mode demploi (français non garanti)
-- Utilisation prévue : Voyages, paysages, mariages et événements, nature et faune
-- Premier objectif ultra grand angle F1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B016OI8EEA{{</world>}}

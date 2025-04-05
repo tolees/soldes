@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu: 10 pcs
 - Longueur: 150mm
+- Contenu: 10 pcs
 - Diamètre: 7mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

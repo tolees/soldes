@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Écran incurvé AMOLED ultra-fluide de 120Hz Résolution ultra-détaillée 1.5K
-- Appareil photo 200MP avec stabilisateur Des photos et vidéos stables et ultra-détaillées
 - Charge à 100% en 19 min1 avec chargeur HyperCharge 120W inclus Batterie longue autonomie de 5000 mAh (typ)
+- Appareil photo 200MP avec stabilisateur Des photos et vidéos stables et ultra-détaillées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR3MQW15{{</world>}}

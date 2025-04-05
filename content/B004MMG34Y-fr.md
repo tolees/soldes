@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Noir
-- Sony Mini Ecouteurs Noir
-- mini écouteurs
 - Couplage possible avec un lecteur de musique : utilisez vos écouteurs avec un WALKMAN, un iPod ou un lecteur mp3
+- Sony Mini Ecouteurs Noir
+- Noir
+- mini écouteurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004MMG34Y{{</world>}}

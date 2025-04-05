@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les outils de la gamme « Universal » Bosch – polyvalents et solides avec des solutions intelligentes pour de plus grands projets
-- Éléments fournis : UniversalSaw 18V-100, 2 lames T144D, capot de protection, dispositif pare-éclats, cut control, patin de protection, emballage en carton
-- Sciage maîtrisé en toutes circonstances grâce au variateur de vitesse et au démarrage progressif
 - Le mouvement pendulaire à 4 positions permet de scier rapidement le bois, jusquà 100mm dépaisseur (soit 25% de plus que le modèle précédent)
 - Une scie sauteuse puissante et polyvalente qui convient même aux gros travaux de bricolage, comme la pose de parquets ou de plans de travail
+- Éléments fournis : UniversalSaw 18V-100, 2 lames T144D, capot de protection, dispositif pare-éclats, cut control, patin de protection, emballage en carton
 - Le système SDS amélioré et encore plus intuitif permet de changer la lame de scie rapidement et sans clé
+- Sciage maîtrisé en toutes circonstances grâce au variateur de vitesse et au démarrage progressif
+- Les outils de la gamme « Universal » Bosch – polyvalents et solides avec des solutions intelligentes pour de plus grands projets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BJXZF46{{</world>}}

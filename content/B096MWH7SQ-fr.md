@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du colis de larticle: 95 mm
 - Largeur du colis de larticle: 160 mm
 - Amorti optimal qui offre protection et absorption des impacts et des sollicitations
 - Chaussures légères pour une marche toujours synonyme de confort, tout au long de la journée
-- Longueur du colis de larticle: 295 mm
 - Les systèmes brevetés Geox sent la respirabilité de la semelle extérieure, assurant au pied une sensation de bien-être
+- Longueur du colis de larticle: 295 mm
+- Hauteur du colis de larticle: 95 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096MWH7SQ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 20 chansons originales avec des centaines de façons de les réarranger. Attirez 45 adorables superfans grâce aux battles de danse
+- Jouez au mode histoire avec Nimmy et Smudge, gérant le groupe de votre choix, ou jouez en mode jeu libre pour un amusement sans-fin
 - Défiez vos amis en mode 2 joueurs local utilisation le contrôle par mouvements de Joy-Con
 - Collectionnez 10 animaux musiciens du monde entier et formez votre propre groupe de musique à succès. Plus de 30 instruments de musique à maîtriser
+- 20 chansons originales avec des centaines de façons de les réarranger. Attirez 45 adorables superfans grâce aux battles de danse
 - Construisez et personnalisez votre manoir avec des centaines dobjets décoratifs avec lesquels interagir dans chaque pièce
-- Jouez au mode histoire avec Nimmy et Smudge, gérant le groupe de votre choix, ou jouez en mode jeu libre pour un amusement sans-fin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B091BQVVKQ{{</world>}}

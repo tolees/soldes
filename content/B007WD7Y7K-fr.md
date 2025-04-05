@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doseur universel pour savon liquide, gel douche, shampoing, après-shampoing, lait corporel etc.
-- Accessoire pratique pour une salle de bain ordonnée, pas de traces collantes de savon et de bouteilles pour savon inesthétiques!
-- Distributeur de savon liquide mural, capacité jusquà 380 ml, dimensions : env. 8,5 x 19 x 8,5 cm
 - Conçu en plastique robuste et très facile à entretenir, le réservoir transparent laisse voir la quantité restante de liquide
 - Porte-savon liquide facile à monter, fixation au mur à laide des vis (fournies) ou bandes adhésives (non fournies)
+- Distributeur de savon liquide mural, capacité jusquà 380 ml, dimensions : env. 8,5 x 19 x 8,5 cm
+- Accessoire pratique pour une salle de bain ordonnée, pas de traces collantes de savon et de bouteilles pour savon inesthétiques!
+- Doseur universel pour savon liquide, gel douche, shampoing, après-shampoing, lait corporel etc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007WD7Y7K{{</world>}}

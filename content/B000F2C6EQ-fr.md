@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imprimé avec une imprimante jet dencre spécialement
 - Insensible à lenvironnement comme la lumière, la température, lhumidité)
+- Imprimé avec une imprimante jet dencre spécialement
 - semblable à la pierre brevetée couche denregistrement pour longue durée de vie
 - 1000 années archives à vie pour une protection des données
 

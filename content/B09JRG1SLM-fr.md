@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusqu’à 8 To de stockage SSD ultra‐rapide, pour lancer les apps et ouvrir les fichiers en un instant
-- Autonomie améliorée pouvant atteindre 21 heures
-- GPU jusqu’à 32 cœurs livrant des performances graphiques jusqu’à 4 fois plus rapides pour les apps et les jeux aux graphismes sophistiqués
+- Neural Engine 16 cœurs livrant des performances d’apprentissage automatique jusqu’à 5 fois plus rapides
 - CPU jusqu’à 10 cœurs livrant des performances jusqu’à 2 fois plus rapides, pour s’acquitter plus vite que jamais des tâches les plus complexes
-- Sublime écran Liquid Retina XDR 16 pouces avec gamme dynamique extrême et rapport de contraste de pointe
-- Système audio à six haut‐parleurs avec woofers à annulation de force
 - Puce Apple M1 Pro ou M1 Max pour une augmentation spectaculaire des performances du CPU, du GPU et de l’apprentissage automatique
 - Jusqu’à 64 Go de mémoire unifiée, pour tout faire de façon fluide et rapide
-- Neural Engine 16 cœurs livrant des performances d’apprentissage automatique jusqu’à 5 fois plus rapides
+- GPU jusqu’à 32 cœurs livrant des performances graphiques jusqu’à 4 fois plus rapides pour les apps et les jeux aux graphismes sophistiqués
+- Jusqu’à 8 To de stockage SSD ultra‐rapide, pour lancer les apps et ouvrir les fichiers en un instant
 - Caméra FaceTime HD 1080p avec processeur de signal d’image avancé, pour des appels vidéo plus clairs et plus nets
+- Système audio à six haut‐parleurs avec woofers à annulation de force
+- Sublime écran Liquid Retina XDR 16 pouces avec gamme dynamique extrême et rapport de contraste de pointe
+- Autonomie améliorée pouvant atteindre 21 heures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JRG1SLM{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stylo-Feutre POINT 88 Pointe Fine 0,4 mm bleu nuit </li><li>Stylo feutre à pointe gainée métal pour une écriture Fine et Précise</li><li>Idéal pour les tracés de précision, les graphiques, la cartographie et les prises de notes tout en couleurs</li><li>Longueur décriture = 1000 mètres</li><li>Forme Héxagonale</li><li>Capuchon ventilé</li><li>Largeur de tracé 0,4 mm</li><li>Disponible en 30 couleurs dont 5 Fluo
 - STABILO - 88/22
+- Stylo-Feutre POINT 88 Pointe Fine 0,4 mm bleu nuit </li><li>Stylo feutre à pointe gainée métal pour une écriture Fine et Précise</li><li>Idéal pour les tracés de précision, les graphiques, la cartographie et les prises de notes tout en couleurs</li><li>Longueur décriture = 1000 mètres</li><li>Forme Héxagonale</li><li>Capuchon ventilé</li><li>Largeur de tracé 0,4 mm</li><li>Disponible en 30 couleurs dont 5 Fluo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0075M5MWC{{</world>}}

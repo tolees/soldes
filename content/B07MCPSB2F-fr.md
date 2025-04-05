@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Branded Gift box
-- Designed by Jim Shore
-- Handmade and hand painted
-- Disney Traditions figurine
 - Folk art inspired patterns with bold colours
+- Disney Traditions figurine
+- Handmade and hand painted
+- Designed by Jim Shore
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07MCPSB2F{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Replongez dans l’univers du film Barbie avec cette poupée Ken ! Vêtu d’une tenue de surf décontractée, il s’amuse comme un fou dans le monde de Barbie où tout est parfait !
 - La poupée Ken porte une chemise rayée rose et vert pastel. Son short assorti possède même de vraies poches !
-- Son corps articulé et son emballage de présentation font de cette poupée Ken une excellente idée de cadeau pour les fans et les collectionneurs !
 - Ken affiche un style aussi décontracté que son personnage à l’écran, avec sa planche de surf, sa chevelure blond platine, sa chemise déboutonnée et ses baskets blanches.
+- Son corps articulé et son emballage de présentation font de cette poupée Ken une excellente idée de cadeau pour les fans et les collectionneurs !
+- Replongez dans l’univers du film Barbie avec cette poupée Ken ! Vêtu d’une tenue de surf décontractée, il s’amuse comme un fou dans le monde de Barbie où tout est parfait !
 - Découvrez toute la collection pour encore plus d’idées de cadeaux extraordinaires ! Articles vendus séparément. Certains produits peuvent ne pas être commercialisés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

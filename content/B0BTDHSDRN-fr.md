@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finaliste IGF « Excellence in Audio », avec plus de 2 heures de musique originale dirigée par un piano en direct éblouissant et des rythmes de synthé accrocheurs
-- Une aventure narrative en solo comme maman avait lhabitude de faire, avec un charmant casting de personnages et une histoire touchante de découverte de soi
 - Une montagne massive grouillant de plus de 700 écrans de défis de plateforme hardcore et de secrets sournois
-- Lédition physique comprend : un mini-guide et un mini-poster
+- Finaliste IGF « Excellence in Audio », avec plus de 2 heures de musique originale dirigée par un piano en direct éblouissant et des rythmes de synthé accrocheurs
 - Chapitres brutaux face B à déverrouiller, conçus uniquement pour les alpinistes les plus courageux
+- Lédition physique comprend : un mini-guide et un mini-poster
+- Une aventure narrative en solo comme maman avait lhabitude de faire, avec un charmant casting de personnages et une histoire touchante de découverte de soi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BTDHSDRN{{</world>}}

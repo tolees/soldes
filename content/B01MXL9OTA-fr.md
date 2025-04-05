@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en : Japon
-- matériel authentique
 - produits de haute qualité
+- Fabriqué en : Japon
 - Leffet brillant reste dans le papier
+- matériel authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MXL9OTA{{</world>}}

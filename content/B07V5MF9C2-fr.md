@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- démaquille toutes traces de maquillage et nettoie la peau en douceur
 - Parfaitement hydratée, la peau parait plus fraîche et nette
+- démaquille toutes traces de maquillage et nettoie la peau en douceur
 - Eau micellaire hydratante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

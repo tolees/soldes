@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système photo avancé pour des photos brillantes, quel que soit l’éclairage
-- Puce A15 Bionic avec GPU 5 cœurs, pour des performances fulgurantes. Connectivité 5G ultra-rapide
-- Autonomie d’une journée entière et jusqu’à 26 heures de lecture vidéo
-- Écran Super Retina XDR 6,7 pouces
 - Design conçu pour durer avec Ceramic Shield et résistance à l’eau
-- SOS d’urgence par satellite et Détection des accidents, des fonctionnalités de sécurité essentielles
-- iOS 16, qui offre encore plus d’options de personnalisation et multiplie les moyens de communiquer et de partager
+- Autonomie d’une journée entière et jusqu’à 26 heures de lecture vidéo
 - Mode Cinématique désormais en 4K Dolby Vision jusqu’à 30 i/s
+- iOS 16, qui offre encore plus d’options de personnalisation et multiplie les moyens de communiquer et de partager
+- Système photo avancé pour des photos brillantes, quel que soit l’éclairage
+- Écran Super Retina XDR 6,7 pouces
+- Puce A15 Bionic avec GPU 5 cœurs, pour des performances fulgurantes. Connectivité 5G ultra-rapide
 - Mode Action, pour des vidéos stables et fluides lorsque vous êtes en mouvement
+- SOS d’urgence par satellite et Détection des accidents, des fonctionnalités de sécurité essentielles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDHX6YS8{{</world>}}

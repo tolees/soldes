@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durée : 10 min par côté.
 - Plusieurs couleurs au choix.
-- À poser.
-- Les boules se déplacent du bas vers le haut.
 - Idéal comme décoration ou cadeau.
+- Les boules se déplacent du bas vers le haut.
+- À poser.
+- Durée : 10 min par côté.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008AVQXDO{{</world>}}

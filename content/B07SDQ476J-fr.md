@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Charge rapide des batteries rechargeables WORX avec 20V : 2000mAh en 60min / 2500mAh en 80min / 4000mAh en 125min / 5000mAh en 150min
-- Station de charge de batterie pratique pour toutes les batteries WORX PowerShare 20V
-- La station de charge de batterie parfaite : légère et compacte avec protection contre les surcharges et indicateur de niveau de charge intégré
 - Contenu de la livraison : 1x station de charge de batterie WORX 20V WA3880 / chargeur rapide pour toutes les batteries WORX 20V
 - Sécurité WORX : La station de charge de batterie est conforme aux normes de sécurité EU
+- Station de charge de batterie pratique pour toutes les batteries WORX PowerShare 20V
+- La station de charge de batterie parfaite : légère et compacte avec protection contre les surcharges et indicateur de niveau de charge intégré
+- Charge rapide des batteries rechargeables WORX avec 20V : 2000mAh en 60min / 2500mAh en 80min / 4000mAh en 125min / 5000mAh en 150min
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SDQ476J{{</world>}}

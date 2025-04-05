@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimension (L x l x h ) : 3 centimètres x 2.4 centimètres x 0.2 centimètres. Température de fonctionnement: -25 ° C (-13 ° F) ~ 85 ° C (185 ° F) (Standard)
-- Vitesse : 400X
 - Taux de transfert maximal: 90 MB / s
+- Vitesse : 400X
+- Dimension (L x l x h ) : 3 centimètres x 2.4 centimètres x 0.2 centimètres. Température de fonctionnement: -25 ° C (-13 ° F) ~ 85 ° C (185 ° F) (Standard)
 - Poids :0.02 kilogrammes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

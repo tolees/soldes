@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu pour les champions : les produits corsair champion series sont conçus et testés par les meilleurs professionnels de le-sport. ils vous aident à remporter la victoire avec une souris adaptée aux tournois
 - Ultraléger, ultrarapide : pesant seulement 69 g pour supporter les mouvements rapides et les réflexes de contraction, la conception robuste du sabre pro résiste aux matchs les plus longs
+- Conçu pour les champions : les produits corsair champion series sont conçus et testés par les meilleurs professionnels de le-sport. ils vous aident à remporter la victoire avec une souris adaptée aux tournois
 - Boutons corsair quickstrike : la conception à ressort ne laisse aucun espace entre les boutons principaux de la souris et leurs commutateurs, de sorte que les clics, les tirs et les sorts sont plus rapides que jamais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

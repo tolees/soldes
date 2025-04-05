@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rétroéclairage LCD automatique.
 - Angle de coupe précis de la lame de scie biseauté, fonctionne parfaitement pour les scies à onglet et les scies de table.
 - Inversion automatique des chiffres pour les mesures au-dessus de la tête.
-- Rétroéclairage LCD automatique.
 - CMT DAG-001 - Medidor de angulos digital
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rubber outsole
-- Soft leather upper
-- Inspired by tennis. Stylish comfort for every day
-- PUMA Smash sneakers
 - Removeable soft foam insert
+- Rubber outsole
+- PUMA Smash sneakers
+- Inspired by tennis. Stylish comfort for every day
+- Soft leather upper
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B077MTLKQ6{{</world>}}

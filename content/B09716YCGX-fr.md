@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les cheveux sont plus forts, plus brillants, visiblement plus sains. La couleur dure plus longtemps. -87% de casse*. *Test instrumental
-- Appliquer sur cheveux lavés et essorés. Bien répartir. Laisser poser 1 minute. Rincer. Pour des résultats optimaux, à appliquer après la crème lavante Metal Detox.
 - Enrichi en Glicoamine, masque cheveux protecteur pour empêcher la casse & la couleur de virer. Sa texture fondante renforce, hydrate et protège instantanément la fibre capillaire du dépôt de particules en la rendant moins perméable.
+- Appliquer sur cheveux lavés et essorés. Bien répartir. Laisser poser 1 minute. Rincer. Pour des résultats optimaux, à appliquer après la crème lavante Metal Detox.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09716YCGX{{</world>}}

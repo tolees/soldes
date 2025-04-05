@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UF-SLIN120-1W
-- UF-SLIN120-1W
-- Durable
-- Haute qualité
 - Blanc
+- Durable
+- UF-SLIN120-1W
+- UF-SLIN120-1W
+- Haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4SJVQKY{{</world>}}

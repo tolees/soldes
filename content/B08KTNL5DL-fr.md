@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- le prince arwynn et les chevaliers de novelmore réussiront
-- Bienvenue à novelmore, chevaliers ! la ville médiévale de novelmore est devenue célèbre suite à la création de larmure "invicibus".
 - le dirigeable rigide peut non seulement transporter des personnes ou des objets avec rapidité, mais également attaquer depuis le ciel grâce à ses canons intégrés,
+- Bienvenue à novelmore, chevaliers ! la ville médiévale de novelmore est devenue célèbre suite à la création de larmure "invicibus".
+- le prince arwynn et les chevaliers de novelmore réussiront
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KTNL5DL{{</world>}}

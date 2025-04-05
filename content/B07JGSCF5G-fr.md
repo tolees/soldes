@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ★ PEUT ETRE UTILISE SANS LE JEU DE BASE ★ Cette extension de 300 cartes peut être utilisée sans le jeu de base Limite Limite. L’idée c’est justement de ne pas vous limiter. Garanti 100 % trash.
-- ★ 300 CARTES EN + POUR UN MAX DE COMBINAISONS ★ Doublez la taille de vos jeux Limite Limite avec 300 nouvelles cartes + scandaleuses les unes que les autres. Ames sensibles s’abstenir.
-- ★ JEU PARFAIT POUR LES SOIREES ENTRE AMIS ★ Pimentez vos soirées, week-ends, anniversaires entre amis avec un jeu scandaleux qui apportera de l’ambiance à coup sûr. Et c’est vous qui décidez de la durée du jeu.
-- ★ REGLES DU JEU ★ Chacun pioche 7 cartes rouges. Un boss est désigné et lit 1 carte bleue à haute voix. Chacun doit compléter sa citation avec 1 des phrases de ses cartes. Le + drôle devient boss.
 - ★ TESTEZ VOS LIMITES D’HUMOUR ENTRE AMIS ★ Limite Limite Gold, c’est un jeu pour adultes dont le but est de créer des associations de cartes + drôles les unes que les autres. Fous rires garantis.
+- ★ REGLES DU JEU ★ Chacun pioche 7 cartes rouges. Un boss est désigné et lit 1 carte bleue à haute voix. Chacun doit compléter sa citation avec 1 des phrases de ses cartes. Le + drôle devient boss.
+- ★ PEUT ETRE UTILISE SANS LE JEU DE BASE ★ Cette extension de 300 cartes peut être utilisée sans le jeu de base Limite Limite. L’idée c’est justement de ne pas vous limiter. Garanti 100 % trash.
+- ★ JEU PARFAIT POUR LES SOIREES ENTRE AMIS ★ Pimentez vos soirées, week-ends, anniversaires entre amis avec un jeu scandaleux qui apportera de l’ambiance à coup sûr. Et c’est vous qui décidez de la durée du jeu.
+- ★ 300 CARTES EN + POUR UN MAX DE COMBINAISONS ★ Doublez la taille de vos jeux Limite Limite avec 300 nouvelles cartes + scandaleuses les unes que les autres. Ames sensibles s’abstenir.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JGSCF5G{{</world>}}

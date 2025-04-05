@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
-- Matériau intérieur : synthétique
-- Fermoir : caoutchouc
 - Largeur de chaussure: Medium
+- Matériau extérieur : synthétique
+- Fermoir : caoutchouc
+- Matériau intérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N7J5SGL{{</world>}}

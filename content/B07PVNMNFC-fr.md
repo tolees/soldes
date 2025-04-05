@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACCESSOIRES COMPLETS : pare-soleil, capuchon dobjectif, capuchon de protection à baïonnette, sac de rangement, mode demploi
 - POUR LES EXIGENCES LES PLUS ÉLEVÉES : Deux moteurs à ultrasons DLSM déplacent lautofocus rapidement, précisément et silencieusement. La construction de lentille spécialement développée (11 éléments en 8 groupes) comprenant 4 lentilles HR et 1 lentille ED garantit des images cristallines. Avec revêtement UMC (Ultra Multi Coating) contre les reflets et les images fantômes
 - LE COMPACT PORTRAIT PRO : Louverture particulièrement grande de F1.4 rend lobjectif de haute qualité à monture E de 85 mm exceptionnellement lumineux. 9 lames douverture arrondies assurent un bokeh particulièrement harmonieux. Angle de vue : 28,9° en plein format (19,1° en APS-C). Agréablement léger et compact à seulement 568g
 - Nouvellement développé pour le support SONY E/FE : spécialement conçu pour les appareils photo Sony sans miroir : Sony A7C, A7 III, A6000, A6400, A6300, A6600, A6100, A7R III, A5100.
 - DOMAINES DAPPLICATION : idéal pour les portraits. Grâce à sa protection contre les intempéries et à son boîtier en aluminium léger et robuste, cest le téléobjectif idéal pour les voyages et les déplacements en ville. Également excellent pour les enregistrements vidéo
+- ACCESSOIRES COMPLETS : pare-soleil, capuchon dobjectif, capuchon de protection à baïonnette, sac de rangement, mode demploi
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PVNMNFC{{</world>}}

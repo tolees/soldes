@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compartiment isotherme pour la fontaine pour une performance optimale en refroidissement. Fenêtre latérale en acrylique. Compatible avec les graphiques de grande taille
 - Excellent choix pour les systèmes de refroidissement liquide – Excellent système de gestion des câbles
+- Compartiment isotherme pour la fontaine pour une performance optimale en refroidissement. Fenêtre latérale en acrylique. Compatible avec les graphiques de grande taille
 - Éclairage ARGB - Différents modes déclairage LED - ATX ; Micro ATX
 - Contrôleur de vitesse pour jusquà 5 ventilateurs – 2 ventilateurs ARGB 120 mm inclus – Filtres anti-poussière – Port USB 3.0 haute vitesse
 - Compartiment PSU: 2 x 120 mm (non inclus) – Contrôle de vitesse pour 4 ventilateurs

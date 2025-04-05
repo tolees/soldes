@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grâce à un système unique, les joueurs peuvent agrandir la ville qui leur sert de port dattache, en ouvrant de nouveaux magasins et en gérant les guildes de la ville.
+- Dans ce jeu, des personnages dynamiques en pixel-art 2D se fondent parfaitement dans un monde 3DCG, créant un nouveau look pour le genre qui pousse les visuels au-delà de la 2.5D.
 - Le combat au tour par tour permet aux joueurs de contrôler jusquà 6 combattants, offrant des batailles immersives et rapides qui varient la formation des personnages et suivent laction avec une caméra dynamique.
 - Eiyuden Chronicles Hundred Heroes est un jeu JRPG Aventure qui se déroule sur un continent déchiré par la guerre, et avec plus de 100 personnages uniques et charmants.
-- Dans ce jeu, des personnages dynamiques en pixel-art 2D se fondent parfaitement dans un monde 3DCG, créant un nouveau look pour le genre qui pousse les visuels au-delà de la 2.5D.
+- Grâce à un système unique, les joueurs peuvent agrandir la ville qui leur sert de port dattache, en ouvrant de nouveaux magasins et en gérant les guildes de la ville.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJP7MRXW{{</world>}}

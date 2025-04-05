@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche ergonomique bi-matière confortable et efficace
 - Jeu de tournevis Phillips et à tête fendue
 - Code couleur des embouts : rouge et jaune
+- Manche ergonomique bi-matière confortable et efficace
 - Lame ronde en acier chrome vanadium plaquée chrome
 - Embouts sablés
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facilement échangeable
-- Résistant aux rayures
 - Grande visière de la plus haute qualité pour la meilleure vue possible
 - Anti-buée
+- Résistant aux rayures
+- Facilement échangeable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003HDWH80{{</world>}}

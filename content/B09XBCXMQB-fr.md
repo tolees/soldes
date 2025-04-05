@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU DE CARTES : Ce jeu inclut de nouvelles cartes avec des illustrations et des actions basées sur des aliments, apportant ainsi de la variété et de la stratégie au jeu. Certaines peuvent vous aider, tandis que dautres peuvent mener à la catastrophe
 - MODE DE JEU AVANCE : Cette extension ajoute une nouvelle couche de complexité au jeu original, le rendant plus stimulant et divertissant, que vous soyez un joueur expérimenté ou un débutant
-- JEU DE COMPETITION AMUSANT : Recettes Chatastrophiques conserve lesprit humoristique et compétitif du jeu Exploding Kittens tout en introduisant de nouvelles dynamiques inspirées par la nourriture et les recettes
 - JOUER À PLUSIEURS : Ce jeu permet de réunir plusieurs personnes, 2 à 5 joueurs. Vous pourrez passer de bonnes soirées en famille ou entre amis. Il convient aux enfants à partir de 7 ans
+- JEU DE CARTES : Ce jeu inclut de nouvelles cartes avec des illustrations et des actions basées sur des aliments, apportant ainsi de la variété et de la stratégie au jeu. Certaines peuvent vous aider, tandis que dautres peuvent mener à la catastrophe
+- JEU DE COMPETITION AMUSANT : Recettes Chatastrophiques conserve lesprit humoristique et compétitif du jeu Exploding Kittens tout en introduisant de nouvelles dynamiques inspirées par la nourriture et les recettes
 - EXTENSION : Recettes Chatastrophiques est une extension thématique du célèbre jeu de cartes Exploding Kittens. Elle introduit de nouveaux éléments de jeu et des twists liés à la cuisine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

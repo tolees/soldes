@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interface: USB 2.0. Gamme de fréquences: 2,4 - 2,4835 GHz. Vitesse de transfert. 11n: jusquà 100 Mbps. 11g: jusquà 54 Mbps. 11b: jusquà 11 Mbps. Nombre de canaux: 13. Compatible: Windows (10 / 8 / 7 / Vista).
 - Ce recepteur WIFI avec vitesse jusquà 100Mbps 2, 4GHz en performance parfait pour les multiples flux vidéo HD et jeux en ligne sans gel et sans retards en streaming et gaming. Vous pouvez connecter l’adaptateur à un PC ou à un ordinateur portable via USB et le connecter en tant que client à votre réseau Wi-Fi. Conception compacte pour un transport facile. Flux de données bidirectionnel. Normes: IEEE 801.11n, IEEE 802.11g, IEEE 802.11b. Sécurité: WEP 64 / 128, WPA, WPA 2.
+- Interface: USB 2.0. Gamme de fréquences: 2,4 - 2,4835 GHz. Vitesse de transfert. 11n: jusquà 100 Mbps. 11g: jusquà 54 Mbps. 11b: jusquà 11 Mbps. Nombre de canaux: 13. Compatible: Windows (10 / 8 / 7 / Vista).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B019ISX9DO{{</world>}}

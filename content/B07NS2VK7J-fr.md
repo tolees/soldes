@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le logiciel facile à utiliser offre des fonctions complètes de gestion de l’ASI à partir de votre ordinateur. Envoyez des notifications, programmez des temps de fonctionnement de secours, analysez des graphiques en temps réel, et plus encore.
-- Grâce à une technologie de pointe, nous avons atteint un temps de commutation minimale de 2 à 6 millisecondes pour les ASI Green Cell en mode batterie, et les temps sauvegarde de lappareil jusquà 35 min en fonction de la charge.
-- Lalimentation de secours d’une puissance totale 900W et d’une puissance apparente de 1500VA est équipée de batteries AGM Green Cell qui fournissent des paramètres stables et sûrs pour vos appareils.
-- Londuleur Green Cell fournit une protection complète pour tout équipement connecté pendant les pannes de courant et les surtensions. Grâce à lUPS nous aurons le temps de sauvegarder les effets de notre travail.
 - La forme de la tension: Onde sinusoïdale modifiée | Douilles: 4x Schuko + IEC | Batterie: 2 x 12V/9Ah | Puissance apparente: 1000VA-1999VA | Puissance: 900W
+- Le logiciel facile à utiliser offre des fonctions complètes de gestion de l’ASI à partir de votre ordinateur. Envoyez des notifications, programmez des temps de fonctionnement de secours, analysez des graphiques en temps réel, et plus encore.
+- Londuleur Green Cell fournit une protection complète pour tout équipement connecté pendant les pannes de courant et les surtensions. Grâce à lUPS nous aurons le temps de sauvegarder les effets de notre travail.
+- Lalimentation de secours d’une puissance totale 900W et d’une puissance apparente de 1500VA est équipée de batteries AGM Green Cell qui fournissent des paramètres stables et sûrs pour vos appareils.
+- Grâce à une technologie de pointe, nous avons atteint un temps de commutation minimale de 2 à 6 millisecondes pour les ASI Green Cell en mode batterie, et les temps sauvegarde de lappareil jusquà 35 min en fonction de la charge.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NS2VK7J{{</world>}}

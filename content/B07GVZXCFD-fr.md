@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une formule revitalisante en profondeur qui fortifie les mèches faibles, lutte contre la casse et les pointes fourchues.
-- Laisse les cheveux lisses et sains.
 - Laisse les cheveux doux, souples et irrésistiblement touchables.
+- Laisse les cheveux lisses et sains.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GVZXCFD{{</world>}}

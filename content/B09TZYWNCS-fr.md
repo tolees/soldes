@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Améliorez vos capacités, armes et équipement de chasseur de monstres
-- Des mythes et légendes revisités dans une campagne narrative à la sauce Far West
-- Combattez seul ou avec un ami dans des combats explosifs
 - Défendez l’humanité contre les vampires et sauvez l’Amérique !
+- Des mythes et légendes revisités dans une campagne narrative à la sauce Far West
+- Améliorez vos capacités, armes et équipement de chasseur de monstres
+- Combattez seul ou avec un ami dans des combats explosifs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TZYWNCS{{</world>}}

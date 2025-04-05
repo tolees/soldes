@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En nylon, résistant
 - Porte clés 15.5 cm
+- En nylon, résistant
 - Couleur Rouge 2035 C
 
 [🛒 Achète-le!!]({{< param buyurl >}})

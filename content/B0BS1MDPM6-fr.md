@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A lintérieur on peut trouver : · 1 planche dautocollants en relief · 1 stylo · 1 carnet avec reliure spirale · 3 mini signets magnétiques
-- Matériaux : PP + papier + PVC
-- Avec fermeture éclair.
 - cas de maille
+- Matériaux : PP + papier + PVC
+- A lintérieur on peut trouver : · 1 planche dautocollants en relief · 1 stylo · 1 carnet avec reliure spirale · 3 mini signets magnétiques
+- Avec fermeture éclair.
 - Dimensions : 24 x 0,5 x 18 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

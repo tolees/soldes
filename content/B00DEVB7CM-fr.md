@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Manipulation facile grâce à l’œillet de préhension, Extérieur et intérieur plastique, Certifié FSC
+- Porte-étiquette avec étiquette interchangeable, Créez et imprimez vos propres étiquettes avec EasyPrint sur la page d’accueil du site Esselte
+- 10x Classeurs à Levier assortis, Principalement pour l’archivage et l’utilisation au bureau, Couverture plastique, Dos 7,5cm, Capacité : 550 feuilles (80g/m²)
 - Remarque : Ce produit provient du fabricant sous la forme dun assortiment varié de modèles et / ou de couleurs. Il nous est impossible de vous proposer lun de ces modèles et / ou couleurs spécifiques, vous recevrez donc lun dentre eux au hasard (selon disponibilité).
 - Mécanisme à levier standard, Maintien du classeur fermé et debout sur l’étagère grâce aux griffes de blocage
 - Contenu : 10x Classeur à Levier assortis Esselte Standard, Couleurs assorties, 624177, lxhxp 72x318x290mm, 4.56 kg, A4, Pour perforation à 2 trous
-- Porte-étiquette avec étiquette interchangeable, Créez et imprimez vos propres étiquettes avec EasyPrint sur la page d’accueil du site Esselte
-- Manipulation facile grâce à l’œillet de préhension, Extérieur et intérieur plastique, Certifié FSC
-- 10x Classeurs à Levier assortis, Principalement pour l’archivage et l’utilisation au bureau, Couverture plastique, Dos 7,5cm, Capacité : 550 feuilles (80g/m²)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00DEVB7CM{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LAN (Ethernet) Terminal: Oui (pour DLNA, BD-LiveTM * 9, apps Internet * 7 et firmware mise à jour)
-- Syst?me de format du signal analogique : NTSC, PAL
 - Formats dimage support?s : JPG
-- Formats audio pris en charge : AAC, ALAC, FLAC, MP3, WAV, WMA
-- Couleur : Noir
 - Type dappareil : Lecteur Blu-Ray
+- Syst?me de format du signal analogique : NTSC, PAL
+- Couleur : Noir
+- LAN (Ethernet) Terminal: Oui (pour DLNA, BD-LiveTM * 9, apps Internet * 7 et firmware mise à jour)
+- Formats audio pris en charge : AAC, ALAC, FLAC, MP3, WAV, WMA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BH4GWYA{{</world>}}

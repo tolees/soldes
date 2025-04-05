@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 tailles de glaçons ; Couvercle transparent
 - Capacité de production journalière : 12 kg ; Capacité du réservoir d’eau : 2,1 L ; Cycle de production : 10 à 13 min
 - Garantie 2ans- Atelier SAV en France
-- Bac à glaçons amovible; Ecran LCD ; Indicateur du niveau d’eau
 - Corps en acier inoxydable ; Accessoire : pelle à glaçons ; Puissance : 120 W
+- 2 tailles de glaçons ; Couvercle transparent
+- Bac à glaçons amovible; Ecran LCD ; Indicateur du niveau d’eau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RSRQ5NP{{</world>}}

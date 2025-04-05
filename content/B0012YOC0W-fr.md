@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stabilisez et surélevez votre pièce à travailler avec le serre-joint à tube Style H, 1,27 cm de Bessey.
 - Poids du colis: 2.1 pounds
 - Les longs pieds soulèvent votre projet au-dessus du plan de travail, rendant le serrage plus facile.
+- Stabilisez et surélevez votre pièce à travailler avec le serre-joint à tube Style H, 1,27 cm de Bessey.
 - La conception particulière du pied offre une stabilité à deux axes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette poupée Bellatrix Lestrange de collection porte la même robe noire que son personnage à l’écran, avec un imprimé mystique, une surjupe noire et des détails de corset.
-- Les poupées Harry Potter sont un cadeau parfait pour les collectionneurs et les enfants à partir de 6 ans. Ils peuvent les collectionner pour recréer le monde fantastique des sorciers et inventer leurs propres histoires magiques !
-- La poupée Bellatrix Lestrange a les cheveux bouclés avec une grande mèche blanche et porte un collier et une baguette personnalisée semblable à celle qu’elle utilise dans la saga !
 - La poupée Bellatrix Lestrange est articulée au niveau du cou, des épaules, des coudes, des poignets, des hanches et des genoux pour pouvoir reproduire les postures et les actions du personnage.
+- Cette poupée Bellatrix Lestrange de collection porte la même robe noire que son personnage à l’écran, avec un imprimé mystique, une surjupe noire et des détails de corset.
+- La poupée Bellatrix Lestrange a les cheveux bouclés avec une grande mèche blanche et porte un collier et une baguette personnalisée semblable à celle qu’elle utilise dans la saga !
+- Les poupées Harry Potter sont un cadeau parfait pour les collectionneurs et les enfants à partir de 6 ans. Ils peuvent les collectionner pour recréer le monde fantastique des sorciers et inventer leurs propres histoires magiques !
 - Revivez les scènes cultes de la saga ou imaginez vos propres sortilèges avec les poupées Harry Potter !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

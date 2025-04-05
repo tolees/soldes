@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- park iii short nb
 - Type de sport: Football
 - short
 - 100% polyester
+- park iii short nb
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WC82J3T{{</world>}}

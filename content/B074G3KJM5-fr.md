@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : pour afficher deux contenus différents sur les écrans DisplayPort connectés, lappareil source (par ex. ordinateur portable) doit prendre en charge MST (Multi-Stream-Transport) - Non compatible avec les appareils équipés du système dexploitation macOS
-- Remarque : le répartiteur DisplayPort supporte la version DisplayPort 1.2a et HDCP 1.3 - La compatibilité avec le périphérique source et le périphérique de sortie doit être vérifiée avant lachat.
-- Distribue un signal DisplayPort à deux périphériques de sortie DisplayPort tels que des moniteurs externes, des téléviseurs, des projecteurs, etc
-- Exemples dapplications : Extension des postes de travail avec un deuxième moniteur / Installation dune solution de présentation par mur dimages dans les espaces de vente et les établissements de restauration
 - Support graphique : résolution Ultra HD (30Hz) jusquà 4096 x 2160p, Deep Color (16 bit
+- Remarque : pour afficher deux contenus différents sur les écrans DisplayPort connectés, lappareil source (par ex. ordinateur portable) doit prendre en charge MST (Multi-Stream-Transport) - Non compatible avec les appareils équipés du système dexploitation macOS
+- Exemples dapplications : Extension des postes de travail avec un deuxième moniteur / Installation dune solution de présentation par mur dimages dans les espaces de vente et les établissements de restauration
+- Distribue un signal DisplayPort à deux périphériques de sortie DisplayPort tels que des moniteurs externes, des téléviseurs, des projecteurs, etc
+- Remarque : le répartiteur DisplayPort supporte la version DisplayPort 1.2a et HDCP 1.3 - La compatibilité avec le périphérique source et le périphérique de sortie doit être vérifiée avant lachat.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B074G3KJM5{{</world>}}

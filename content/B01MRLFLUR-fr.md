@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Démontage et réutilisation des raccords possibles; facile à appliquer, durcissement rapide
-- Idéal pour piscines, équipements de balnéo et réseaux d’arrosage, pour les diamètres jusquà 3 pouces
-- Produit à base de silicone pour étanchéité des filetages en matière plastique et plastique sur métal
 - Supports plastiques : PVC rigide, PE, PP, ABS . Métaux : acier, inox, cuivre, bronze, laiton
+- Produit à base de silicone pour étanchéité des filetages en matière plastique et plastique sur métal
+- Idéal pour piscines, équipements de balnéo et réseaux d’arrosage, pour les diamètres jusquà 3 pouces
 - Bonne tolérance à l’humidité des surfaces; n’exsude aucun constituant après réticulation
+- Démontage et réutilisation des raccords possibles; facile à appliquer, durcissement rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MRLFLUR{{</world>}}

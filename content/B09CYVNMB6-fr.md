@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incarnez un adorable navet antisystème ! Incapable de payer votre taxe dhabitation, vous vous retrouvez expulsé de chez vous et devez travailler pour rembourser votre dette auprès du maire Oignon.
 - Découvrez quel mal ronge le jardin, mangez cinq fruits et légumes par jour et renversez une administration corrompue !
-- Une aventure palpitante en solo pleine dévasion fiscale, de petits délits, de donjons remplis dénigmes, dennemis et de trésors rares pour rembourser votre dette
 - Des tonnes de documents fiscaux à déchirer, vous permettant deffacer votre trace papier et potentiellement de détruire le gouvernement
+- Une aventure palpitante en solo pleine dévasion fiscale, de petits délits, de donjons remplis dénigmes, dennemis et de trésors rares pour rembourser votre dette
+- Incarnez un adorable navet antisystème ! Incapable de payer votre taxe dhabitation, vous vous retrouvez expulsé de chez vous et devez travailler pour rembourser votre dette auprès du maire Oignon.
 - Équipez-vous doutils de jardinage pour résoudre des énigmes, rencontrez des fruits et les légumes truculents et affrontez de terribles animaux sauvages
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

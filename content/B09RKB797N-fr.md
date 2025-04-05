@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez de la puissance et de toutes les fonctionnalités de la Playstation5
 - Plongez dans linconnu, découvrez la vérité et sauvez la ville
+- Profitez de la puissance et de toutes les fonctionnalités de la Playstation5
 - Maniez des compétences paranormales et combattez une menace surnaturelle
 - Découvrez et explorez un Tokyo aussi mystique que magnifique et ses lieux iconiques comme le carrefour de Shibuya et biens dautres
 - "Metal Plate Edition" exclsuive Amazon

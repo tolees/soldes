@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Homme
 - Imperméable jusquà 5000mm, respirable jusquà 5000mvp
+- Veste tient dans une pochette
 - Deux poches zippées, arrière de la veste ventilé
 - Type de tissu: 100% polyamide
-- Homme
-- Veste tient dans une pochette
 - Sport type: camping et randonnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

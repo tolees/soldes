@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respect des critères haute qualité de lhomologation ECE
-- Type: W21/5W, Base: W3x16q
-- Feux de position avant, Feux stop
 - Large choix dampoules 12 V répondant à toutes les fonctions de léclairage automobile
 - Lampes de signalisation Philips, conduisez en toute tranquillité
+- Feux de position avant, Feux stop
+- Respect des critères haute qualité de lhomologation ECE
+- Type: W21/5W, Base: W3x16q
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005NY0QQ6{{</world>}}

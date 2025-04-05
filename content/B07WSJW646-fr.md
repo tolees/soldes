@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ventilateur de 13,5 cm
+- Ventilateur hybride premium
+- 80 PLUS Titanium
 - entièrement modulaire
 - ATX 12V/ Output 62A
-- 80 PLUS Titanium
-- Ventilateur hybride premium
-- Ventilateur de 13,5 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WSJW646{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Modèle automne 2017.
-- Protection anti-éraflures. Astuce : les mesures du corps pour les hanches et la taille se produisent en deux tailles différentes suggérées, il est recommandé de suivre la mesure des hanches.
-- Genoux articulé. Poches arrière avec fermeture Velcro.
 - Coutures soudées
+- Genoux articulé. Poches arrière avec fermeture Velcro.
+- Protection anti-éraflures. Astuce : les mesures du corps pour les hanches et la taille se produisent en deux tailles différentes suggérées, il est recommandé de suivre la mesure des hanches.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MVVZCKM{{</world>}}

@@ -28,25 +28,25 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Included components: 1 x Redmi Pad Pro, 1 x câble USB Type-C, 1 guide de démarrage rapide, 1 x carte Warranty
-- Ram memory installed size: 128.0 GB
-- Display resolution maximum: 8 megapixels
-- Cpu model speed: 120.0 hertz
-- Graphics processor manufacturer: Qualcomm
-- Display size: 12.1
 - Cellular technology: 4G
-- Memory storage capacity: 6.0 GB
-- Hardware interface: bluetooth
-- Video capture resolution: FHD 1080p
 - Item length width thickness: 0.75 centimeters
+- Display type: LED
+- Xiaomi Redmi Pad Pro 6+128 12,1" Bleu
+- Video capture resolution: FHD 1080p
+- Operating system: Android 14
+- Wireless communication technology: Wi-Fi
+- Battery cell composition: lithium_ion
+- Included components: 1 x Redmi Pad Pro, 1 x câble USB Type-C, 1 guide de démarrage rapide, 1 x carte Warranty
+- Graphics description: Dédié
+- Ram memory installed size: 128.0 GB
+- Memory storage capacity: 6.0 GB
+- Cpu model speed: 120.0 hertz
+- Hardware interface: bluetooth
+- Display size: 12.1
+- Graphics processor manufacturer: Qualcomm
+- Display resolution maximum: 8 megapixels
 - Item dimensions: 7.16 inches
 - Model year: 2024
-- Xiaomi Redmi Pad Pro 6+128 12,1" Bleu
-- Graphics description: Dédié
-- Wireless communication technology: Wi-Fi
-- Display type: LED
-- Battery cell composition: lithium_ion
-- Operating system: Android 14
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D4X2RKYP{{</world>}}

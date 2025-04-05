@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Exclusive QcK micro-woven cloth for maximum control
+- Never-fray stitched edges for durability
+- Durable and washable for easy cleaning
 - Non-slip rubber base eliminates unwanted movement
 - Optimized for low and high DPI tracking movements
-- Exclusive QcK micro-woven cloth for maximum control
-- Durable and washable for easy cleaning
-- Never-fray stitched edges for durability
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KJ53QDW{{</world>}}

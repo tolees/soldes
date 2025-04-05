@@ -28,22 +28,22 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier de luxe en aluminium
-- Processeur dual-core Intel Atom 1,6 GHz: rapide et efficace
+- 1 GB DE MEMOIRE RAM Disque 2GB SLC
 - Fonction de géolocalisation
+- progammation rapide du planning de fonctionnement de tous les appareils en fonction de l’heure de la journée et du jour de la semaine
+- Dimension: W 225 mm x L 185 mm x H 42 mm
+- Connectivité (Remarque ) : Le Home Center 2 est un système de gestion de bâtiments accessible via une interface graphique basée sur le navigateur ou via lapplication mobile dédiée. Il gère les appareils Z-Wave de FIBARO et dautres produits certifiés Z-Wave. Une vaste bibliothèque de plugins pour Smart-TV , caméras, thermostats, systèmes dalarme, lecteurs multimédia et systèmes de contrôle est préinstallée
+- Type de source dalimentation: plastic
+- VoIP compatible
+- Interface simple et conviviale
+- Processeur dual-core Intel Atom 1,6 GHz: rapide et efficace
 - Fréquence du processeur: 1, 6 GHz
 - Central home center 2
-- 1 GB DE MEMOIRE RAM Disque 2GB SLC
-- Connectivité (Remarque ) : Le Home Center 2 est un système de gestion de bâtiments accessible via une interface graphique basée sur le navigateur ou via lapplication mobile dédiée. Il gère les appareils Z-Wave de FIBARO et dautres produits certifiés Z-Wave. Une vaste bibliothèque de plugins pour Smart-TV , caméras, thermostats, systèmes dalarme, lecteurs multimédia et systèmes de contrôle est préinstallée
-- Dimension: W 225 mm x L 185 mm x H 42 mm
-- VoIP compatible
-- Boîtier de luxe en aluminium
-- progammation rapide du planning de fonctionnement de tous les appareils en fonction de l’heure de la journée et du jour de la semaine
-- équipée de son propre disque RECOVERY qui garde une copie de sécurité d’un système concerné
-- Type de source dalimentation: plastic
-- La nouvelle interface permet une commande commode de plusieurs appareils réalisant la même fonction – chauffage, climatisation, arrosage
-- Interface simple et conviviale
 - Fabricant : Fibaro
+- Boîtier de luxe en aluminium
+- La nouvelle interface permet une commande commode de plusieurs appareils réalisant la même fonction – chauffage, climatisation, arrosage
+- équipée de son propre disque RECOVERY qui garde une copie de sécurité d’un système concerné
+- Boîtier de luxe en aluminium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AUFV7N4{{</world>}}

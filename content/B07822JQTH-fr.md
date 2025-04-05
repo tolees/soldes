@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dune douceur incomparable, son encre gel fluide et lumineuse glisse sur le papier
 - Pratique, sa pointe rétractable sactionne en un clic
-- Disponible ici en boîte de 12 stylos à encre noire uniquement, couleur classique indispensable à lécriture
 - Ce stylo gel à pointe moyenne possède une encre à séchage ultra-rapide : ne bave pas, ne fuit pas, idéal pour les gauchers
+- Disponible ici en boîte de 12 stylos à encre noire uniquement, couleur classique indispensable à lécriture
 - Son corps entièrement caoutchouté garantit une bonne prise en main et un confort optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

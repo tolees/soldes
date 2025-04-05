@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 100% made in france : avec ses 3 ateliers de production et son laboratoire de recherche intégré, corine de farme est un fleuron de la cosmétique made in france. cette entreprise familiale basée dans le nord de la france innove et investit dans la production locale, 100% made in france.
+- toilette intime 100% confort : hypoallergénique et sans parfum, ce gel intime peut être utilisé au quotidien. il contient notamment de l’acide lactique pour préserver l’équilibre de la flore. un nettoyage tout en douceur. produit formulé sous contrôle pharmaceutique, testé sous contrôle dermatologique et gynécologique
+- formulation bio : 10% du total des ingrédients sont issus de lagriculture bio, 98% du total est dorigine naturelle. nous suivons le référentiel ecocert, référence mondiale en matière de cosmétiques bio. notre charte de formulation interne va plus loin : pas de sulfates, de paraben, de phenoxyetanol, de colorant ou de parfum de synthèse. ce qui donne ici un gel intime neutre haute : tolérance
 - fleur d’amandier, alliee des peaux sensibles : l’amandier est répandu dans tout le bassin méditerranéen. sa floraison est symbolique : c’est la première de l’année, elle annonce le renouveau du printemps. l’extraction de ses fleurs se fait par macération dans un solvant exclusivement naturel pour extraire les principales molécules actives. un actif prodigieux pour peaux sèches et sensibles
 - hygiene intime, les bons reflexes : pour en finir avec ces petits désagréments qui gâchent le quotidien, suivez nos conseils. pas de gant, véritable nid à microbes. pas de trempette prolongée dans le bain, privilégiez la douche. rinçage et séchage complets obligatoires. pas de vêtements trop serrés pour éviter les frottements répétés, donc irritants
-- 100% made in france : avec ses 3 ateliers de production et son laboratoire de recherche intégré, corine de farme est un fleuron de la cosmétique made in france. cette entreprise familiale basée dans le nord de la france innove et investit dans la production locale, 100% made in france.
-- formulation bio : 10% du total des ingrédients sont issus de lagriculture bio, 98% du total est dorigine naturelle. nous suivons le référentiel ecocert, référence mondiale en matière de cosmétiques bio. notre charte de formulation interne va plus loin : pas de sulfates, de paraben, de phenoxyetanol, de colorant ou de parfum de synthèse. ce qui donne ici un gel intime neutre haute : tolérance
-- toilette intime 100% confort : hypoallergénique et sans parfum, ce gel intime peut être utilisé au quotidien. il contient notamment de l’acide lactique pour préserver l’équilibre de la flore. un nettoyage tout en douceur. produit formulé sous contrôle pharmaceutique, testé sous contrôle dermatologique et gynécologique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082VVXMP3{{</world>}}

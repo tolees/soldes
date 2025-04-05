@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le meilleur de la TV connectée avec la nouvelle interface Google TV : des milliers dapplications disponibles, Chromecast intégré, recherche vocale avec Google assistant... et pour les Fans dApple compatible Airplay2 et Apple TV intégré !
+- Un son enveloppant pour une immersion plus intense Deux haut-parleurs supplémentaires en haut de lécran et un caisson de basse pour des effets surround plus intenses. Compatible avec les standards Dolby ATMOS et DTS pour un son plus enveloppant
 - "Une TV conçue pour les Fans de cinéma ! Compatible Dolby Vision, Dolby ATMOS, IMAX, DTS et Netflix calibrated Mode pour vivre les sensations du cinéma. Un an dabonnement au service video Sony BRAVIA CORE est inclus avec le téléviseur ! "
 - Des images plus lumineuses pour plus de réalisme Nouveau processeur révolutionnaire de Sony associé à un écran Full Array Led pour des pics lumineux 10 fois plus intenses, plus de détails et des images plus naturelles.
 - Une TV pour les Fans de jeux Deux ports HDMI2.1, compatible 4K/120, VRR* et ALLM *, réactivité extrême (input lag) et un mode jeu optimisé avec PlayStation pour des images fluides et ultra réalistes.
-- Le meilleur de la TV connectée avec la nouvelle interface Google TV : des milliers dapplications disponibles, Chromecast intégré, recherche vocale avec Google assistant... et pour les Fans dApple compatible Airplay2 et Apple TV intégré !
-- Un son enveloppant pour une immersion plus intense Deux haut-parleurs supplémentaires en haut de lécran et un caisson de basse pour des effets surround plus intenses. Compatible avec les standards Dolby ATMOS et DTS pour un son plus enveloppant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BG34NYY{{</world>}}

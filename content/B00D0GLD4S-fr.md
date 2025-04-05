@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau de commande avec affichage numérique, affichage de létat de fonctionnement et des erreurs, fonction mémoire
-- Excellents résultats de réfrigération même par des températures extérieures extrêmement élevées, congélation jusquà -22 °C
 - Fonctionnement possible sur tension alternative de 100V à 240V ainsi que sur tension continue de 12V ou 24V dans la voiture, le camion ou sur la prise de courant. Contrôleur de batterie à 3 niveaux pour surveiller la batterie de la voiture.
-- Mini-réfrigérateur mobile pour le camping, les vacances, les loisirs et le travail. Fonctionnement économique et silencieux
 - Capacité utile de 46 litres. Boîtier robuste et résistant avec renforts dangle, charnières en acier inoxydable et revêtement du couvercle.
+- Mini-réfrigérateur mobile pour le camping, les vacances, les loisirs et le travail. Fonctionnement économique et silencieux
+- Excellents résultats de réfrigération même par des températures extérieures extrêmement élevées, congélation jusquà -22 °C
+- Panneau de commande avec affichage numérique, affichage de létat de fonctionnement et des erreurs, fonction mémoire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00D0GLD4S{{</world>}}

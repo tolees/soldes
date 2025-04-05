@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Réglage mécanique.
-- Grilles en fonte.
 - 1 triple brûleur.
 - Plan de travail au gaz avec 3 zones.
+- Grilles en fonte.
 - Brûleurs à gaz sur plaque en verre.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

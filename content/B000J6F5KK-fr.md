@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poignée ergonomique pour une utilisation confortable
+- Compatible avec les agrafes 26/6-8 et 24/6 mm Extra Strong et les 24/8 mm Hard Wire
+- Pièces mobiles solides en métal pour un agrafage fiable, consistant et durable
 - Fabriquée avec un haut pourcentage de plastique recyclé
 - Chargeur dagrafes coulissant avec chargement frontal pour un chargement facile et capacité de 45 feuilles (80 g/m²)
-- Pièces mobiles solides en métal pour un agrafage fiable, consistant et durable
-- Compatible avec les agrafes 26/6-8 et 24/6 mm Extra Strong et les 24/8 mm Hard Wire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000J6F5KK{{</world>}}

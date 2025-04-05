@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 spray de peinture acrylique : peindre, décorer, rénover bois, pierre, papier peint, métal, verre, osier, plastique, béton, etc - en intérieur et extérieur
-- Pour les matériaux absorbants (par exemple le plastique à peindre), utiliser le primaire universel edding ou le primaire pour plastique
-- Les spray permanent edding 52 existent en 27 coloris mats et 3 coloris brillants et dans les couleurs tendance actuelles Buses de rechange
 - Peinture aérosol à séchage rapide ; sec hors poussière 1-3 min, sec au toucher 10 min, sec à cœur 30 min (suivant température ambiante et épaisseur de couche)
 - Peinture en spray ; couvre immédiatement, fort rendement : résiste aux intempéries, rayures, chocs et coups, ne jaunit pas ; 200 ml pour environ,7-1 m²
+- Pour les matériaux absorbants (par exemple le plastique à peindre), utiliser le primaire universel edding ou le primaire pour plastique
+- Les spray permanent edding 52 existent en 27 coloris mats et 3 coloris brillants et dans les couleurs tendance actuelles Buses de rechange
+- 1 spray de peinture acrylique : peindre, décorer, rénover bois, pierre, papier peint, métal, verre, osier, plastique, béton, etc - en intérieur et extérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00CSLL1NE{{</world>}}

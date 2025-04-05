@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faites toute la lumière sur des complots ténébreux et tenez en échec un ennemi redoutable
 - Un monde dynamique foisonnant de personnages opinitres
 - Ssu de lesprit du dessinateur légendaire dave gibbons, le monde fourmille de détails fascinants et prend toute sa dimension grce à un style résolument bd
+- Faites toute la lumière sur des complots ténébreux et tenez en échec un ennemi redoutable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YNT6W85{{</world>}}

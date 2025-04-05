@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brand: Xiaomi
 - Taille: 4+128
 - Meilleure performance MediaTek Dimension 810 adopte un processus supérieur de 6 nm et dispose dun processeur octa-core avec une vitesse allant jusquà 2,4 GHz. Le chipset, en tant que cœur dun smartphone, démarre sensiblement ses performances, son efficacité et sa vitesse. Le chipset Redmi Note 11S 5G permet de se connecter au monde de manière plus proche et plus intelligente.
+- Brand: Xiaomi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VNRF588{{</world>}}

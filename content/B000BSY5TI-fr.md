@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimension: 15,8 x 7,5 x h25,5 cm
-- Collection: Feeling - Designer: Robin Levien
-- Lavable au lave-vaisselle à max. 55°C - Sécher immédiatement après le lavage avec un chiffon doux
 - Official Guzzini Product - Made in Italy since 1912
+- Collection: Feeling - Designer: Robin Levien
+- Dimension: 15,8 x 7,5 x h25,5 cm
+- Lavable au lave-vaisselle à max. 55°C - Sécher immédiatement après le lavage avec un chiffon doux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000BSY5TI{{</world>}}

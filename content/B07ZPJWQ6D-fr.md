@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisable uniquement avec la caméra embarquée Kenwood DRV-A501W.
-- Câble de connexion USB de 8 m de long pour connecter le Kenwood DRV-A501W
 - Caméra arrière Full HD (1980 x 1080 pixels) - Capteur CMOS 2 mégapixels - Objectif grand angle 161° - Pivote à 180°.
+- Câble de connexion USB de 8 m de long pour connecter le Kenwood DRV-A501W
 - Support adhésif pour disque pour montage discret.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

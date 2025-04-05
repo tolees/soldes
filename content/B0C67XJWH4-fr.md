@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design discret, idéal pour les situations les plus délicates
-- 32 Go de mémoire de stockage interne pour de très longues heures d’enregistrement
 - Conversion automatique de vos enregistrements en texte, jusqu’à trois fois plus vite qu’en les tapant
+- 32 Go de mémoire de stockage interne pour de très longues heures d’enregistrement
+- Design discret, idéal pour les situations les plus délicates
 - Interface USB intégrée pour transférer facilement les fichiers
 - Microphone 360° haute qualité pour une excellente qualité audio
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sous license officielle de Nintendo et Pokémon International Company
-- Attachez le Split Pad Compact à ladaptateur pour lutiliser comme manette filaire
 - Ladaptateur Split Pad Compact comprend une prise micro et la fonctionnalité de chat vocal
+- Attachez le Split Pad Compact à ladaptateur pour lutiliser comme manette filaire
 - Expérience de manette pleine grandeur en mode portable
 - Le Split Pad Compact comprend des gâchettes arrière assignables et une fonctionnalité Turbo
 

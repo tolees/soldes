@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ramasse miettes
-- Parois tempérées / Corps en métal
-- 2 fentes
 - 6 niveaux de dorage
+- Parois tempérées / Corps en métal
 - 3 fonctions : cuisson, décongélation, stop
+- Ramasse miettes
+- 2 fentes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N8QC1SX{{</world>}}

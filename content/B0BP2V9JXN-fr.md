@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une véritable fantaisie sombre : découvrez un récit granuleux et mature imprégné de réalisme.
 - Titanic Clashes – Lorsque les domits rivaux saffrontent, des batailles épiques entre leurs Eikons sensuivent
 - Explorez le royaume de Valisthea – Un monde époustouflant plongé dans un conflit par des nations en guerre les unes avec les autres.
 - Action eikonic : Clive utilise les pouvoirs de plusieurs Eikons dans une bataille effrénée pour offrir un combat daction dynamique.
+- Une véritable fantaisie sombre : découvrez un récit granuleux et mature imprégné de réalisme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BP2V9JXN{{</world>}}

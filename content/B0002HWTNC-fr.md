@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 30 CARTES-DEFIS avec plusieurs niveaux de difficulté et la solution au dos. Chaque carte-défi vous indique comment placer le bloc de départ et le bloc darrivée. Retrouvez ensuite des éléments de construction imposés, et utilisez-les tous pour construire un circuit de billes GraviTrax qui permette à la bille de rejoindre larrivée !
 - UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour tous les amateurs de casse-tête ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu. Une idée cadeau parfaite pour un anniversaire ou pour Noël.
 - CONTENU : 1 guide de jeu, 30 cartes-défis, 2 plaques en carton hexagonales, 1 petite plateforme transparente, 1 bloc de départ, 1 bille, 2 FlexTubes, 11 blocs de construction épais, 1 bloc de construction fin, 7 virages, 1 croisement, 1 rail long, 2 rails moyens, 3 rails courts, 1 tourbillon, 2 blocs à insert (1 arrivée, 1 receveur)
+- 30 CARTES-DEFIS avec plusieurs niveaux de difficulté et la solution au dos. Chaque carte-défi vous indique comment placer le bloc de départ et le bloc darrivée. Retrouvez ensuite des éléments de construction imposés, et utilisez-les tous pour construire un circuit de billes GraviTrax qui permette à la bille de rejoindre larrivée !
 - JEU DE LOGIQUE : Un jeu de casse-tête pour ceux qui aiment se creuser les méninges ! Construisez des petits circuits de billes GraviTrax qui répondent aux contraintes imposées par les cartes-défis. A jouer seul ou à plusieurs, débutant ou expert, dès 8 ans !
 - GRAVITRAX : Retrouvez les éléments de construction iconiques de lunivers GraviTrax, le célèbre jeu de construction de circuits de billes. Ce jeu de casse-tête "Challenge Impact" peut se jouer seul (sans starter set), mais les éléments quil contient peuvent aussi se combiner à tous les produits de la gamme GraviTrax.
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Perforations au niveau des orteils
-- Languette en cuir velours au niveau du talon
 - Matière supérieure en cuir synthétique
+- Languette en cuir velours au niveau du talon
 - Coupe basse
+- Perforations au niveau des orteils
 - Laçage classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

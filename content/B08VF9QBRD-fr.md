@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temps de réponse: 5 ms
 - Type HD: Full HD
 - Type décran: TN
 - Mode Eco - Sans scintillement - Filtre à lumière bleue VESA - Possibilité de montage des haut-parleurs
 - Couleur: Noir
+- Temps de réponse: 5 ms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08VF9QBRD{{</world>}}

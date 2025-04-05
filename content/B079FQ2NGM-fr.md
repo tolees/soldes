@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CARACTÉRISTIQUES : Ce t-shirt est conforme à la norme RIS 3279-TOM pour lindustrie ferroviaire (orange uniquement) et à la norme EN ISO 20471. Il est doté dun tissu qui évacue lhumidité qui aide à garder le corps au chaud, au frais et au sec et de fentes latérales pour plus de confort. Ce t-shirt est fabriqué dans un tissu classé UPF 35+ qui bloque 97 % des rayons UV et possède une poche de rangement sécurisée.
 - Puissant Générateur de son AiX
+- CARACTÉRISTIQUES : Ce t-shirt est conforme à la norme RIS 3279-TOM pour lindustrie ferroviaire (orange uniquement) et à la norme EN ISO 20471. Il est doté dun tissu qui évacue lhumidité qui aide à garder le corps au chaud, au frais et au sec et de fentes latérales pour plus de confort. Ce t-shirt est fabriqué dans un tissu classé UPF 35+ qui bloque 97 % des rayons UV et possède une poche de rangement sécurisée.
 - 310 musiques pré-enregistrées, 195 Pré-sélections
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

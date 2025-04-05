@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SÉCURITÉ : Guidon réglable en hauteur. Harnais cinq points
 - CARACTERISTIQUES : Dimensions pliée avec roues (h x l x L) : Six9 x Six2,5 x 34 cm. Dimensions dépliée guidon haut (h x l x L) : 10Six x Six2,5 x 115 cm
-- DES LA NAISSANCE : Utilisation dès la naissance et jusquaux 15 kg de chaque enfant
-- ACCESSOIRES : Cet article comprend un châssis, deux assises capote amovible, deux habillages pluie indépendants et deux jeux dadaptateurs pour les sièges RC2
-- CONFORT : Repose pieds réglable en trois hauteurs
+- SÉCURITÉ : Guidon réglable en hauteur. Harnais cinq points
 - DOSSIER INCLINABLE : Dossier inclinable 3 positions (position homologuée naissance)
-- MULTIPLES CONFIGURATIONS : possibles en changeant la position et lorientation des sièges
-- FONCTIONELLE : Peut être utilisée en poussette simple ou double, convient aux enfants dâge rapproché comme aux jumeaux
 - AVERTISSEMENT : Ce produit ne convient pas pour faire du jogging ou des promenades en rollers
+- CONFORT : Repose pieds réglable en trois hauteurs
+- FONCTIONELLE : Peut être utilisée en poussette simple ou double, convient aux enfants dâge rapproché comme aux jumeaux
+- MULTIPLES CONFIGURATIONS : possibles en changeant la position et lorientation des sièges
+- ACCESSOIRES : Cet article comprend un châssis, deux assises capote amovible, deux habillages pluie indépendants et deux jeux dadaptateurs pour les sièges RC2
+- DES LA NAISSANCE : Utilisation dès la naissance et jusquaux 15 kg de chaque enfant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00F5Q6P3U{{</world>}}

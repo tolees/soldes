@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ULTRA SLIM DESIGN: Mobile Phone Thickness Design, Flexible Material Frame and Very Light Like a Normal Sunglasses Weight. Exclusive US Style Design,Neat,Unisex and Very Comfortable to Wear while Relaxing and Exercising
 - POLARIZED LENS COATING TECHNOLOGY: UV400 Polarized Full Protection Lens for Great Color, Clarity and Contrast.
 - OPEN EAR SPEAKER STYLE: Bluetooth Sunglasses with Open Ear Speaker System Allows You to Listen to Your Favorite Music and Everything around you. HD Microphone Offers High Quality Sound While on Calls
-- VOLUMN UP AND DOWN DESIGN: Smart Speaker Sunglasses is with Volumn Up and Down Feature as Well as Forwarder and Backware, Battery Playing Lead Time is up to 10 Hours
+- ULTRA SLIM DESIGN: Mobile Phone Thickness Design, Flexible Material Frame and Very Light Like a Normal Sunglasses Weight. Exclusive US Style Design,Neat,Unisex and Very Comfortable to Wear while Relaxing and Exercising
 - VOICE CONTROL FEATURE: Wireless Speaker with Smart Assistant Technology Like Hand Free Phone Calling and Answering, Easily Speak Siri,Cortana and Google Now to Connect to Your Favorite Music Stations (Pandora,iTunes,Spotify and more),Easily Speak for Directions, Weather and Traffic Updates
+- VOLUMN UP AND DOWN DESIGN: Smart Speaker Sunglasses is with Volumn Up and Down Feature as Well as Forwarder and Backware, Battery Playing Lead Time is up to 10 Hours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08FDB3LVR{{</world>}}

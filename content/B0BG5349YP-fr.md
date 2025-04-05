@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- AX1500 Mesh Wi-Fi 6 - la vitesse peut atteindre 1 501 Mbps (5 GHz : 1 201 Mbps 2,4 GHz : 300 Mbps), 38 % plus rapide que lAC1200
 - Réduction de la latence - Grâce aux technologies MU-MIMO et OFDMA, des performances Wi-Fi efficaces et une réduction de la latence sont activées, Profitez simplement dune expérience plus rapide et plus fluide des jeux en ligne multijoueurs et de la vidéo Ultra HD grâce au Wi-Fi mesh 6 MX3
 - Dépannage intelligent : grâce à la fonction de diagnostic intelligent des pannes de réseau intégrée du maillage Wi-Fi 6, il peut facilement résoudre les pannes de réseau courantes
-- AX1500 Mesh Wi-Fi 6 - la vitesse peut atteindre 1 501 Mbps (5 GHz : 1 201 Mbps 2,4 GHz : 300 Mbps), 38 % plus rapide que lAC1200
 - Configuration facile et contrôle de lapplication - Utilisez lapplication Tenda pour configurer et gérer rapidement votre Wi-Fi, Vous pouvez désormais également surveiller le temps et lutilisation en ligne de vos enfants
 - Couverture de 200 m² dans toute la maison – Wi-Fi Mesh MX3 est doté dantennes à gain élevé et de 6 modules damélioration du signal, il peut couvrir jusquà 2 500 pi² avec 2 nœuds
 

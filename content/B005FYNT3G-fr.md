@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Taille du disque dur : 32 Go
+- Permet de tenir dans votre poche
 - Contenir vos données les plus importantes
 - Sa conception compacte
-- Permet de tenir dans votre poche
 - Transportez vos vidéos, musiques et fichiers personnels importants
-- Taille du disque dur : 32 Go
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005FYNT3G{{</world>}}

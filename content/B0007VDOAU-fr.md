@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Valeurs éducatives: Imaginer, inventer, créer
 - Descriptif Produit:Vive Les Mariés ! Coffret composé dun Carosse tiré par deux chevaux, deux mariés, quatre serviteurs et divers accessoires ...
-- Age Minimum: 4 ans
+- Valeurs éducatives: Imaginer, inventer, créer
 - Valeur éducative: Imaginer, inventer, créer
+- Age Minimum: 4 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0007VDOAU{{</world>}}

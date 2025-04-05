@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière: Cromargan inox 18/10, brillant / mat
 - Presser, Ecraser & Frapper
+- Matière: Cromargan inox 18/10, brillant / mat
 - Longueur du produit: 28,5 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

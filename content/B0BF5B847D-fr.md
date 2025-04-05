@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 90MB1BA0-M0EAY0
-- AsUS
-- Socket Am5 pour processeurs de bureau AMD Ryzen série 7000
 - Contrôle intelligent : outils exclusifs à Asus tels que lAI Cooling II, la mise en réseau AI et la suppression bidirectionnelle du bruit AI pour une configuration facile.
+- Socket Am5 pour processeurs de bureau AMD Ryzen série 7000
+- AsUS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BF5B847D{{</world>}}

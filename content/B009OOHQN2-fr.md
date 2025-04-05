@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Testé par des toxicologues indépendants, conforme à la norme CE
 - Conservation pendant 24 mois à température ambiante (entre 15°C et 28°C)
 - Pour des usages multiples : bijoux, accessoires et objets décoratifs pour la maison
-- Matériau extrêmement souple et spécialement conçu pour les débutants et artistes en loisirs créatifs
-- Testé par des toxicologues indépendants, conforme à la norme CE
 - Pain de pâte à modeler FIMO de 57 grammes, à cuire au four (110°C pendant 30min)
+- Matériau extrêmement souple et spécialement conçu pour les débutants et artistes en loisirs créatifs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B009OOHQN2{{</world>}}

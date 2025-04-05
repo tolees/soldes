@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisation avancée à laide du logiciel HyperX NGENUITY
-- Corps entier en aluminium destiné à laviation
-- Effets lumineux RGB remarquable avec effets dynamiques
-- Interrupteurs mécaniques HyperX
 - Conception compacte et portable avec c ble USB Type-C amovible
+- Interrupteurs mécaniques HyperX
+- Corps entier en aluminium destiné à laviation
+- Personnalisation avancée à laide du logiciel HyperX NGENUITY
+- Effets lumineux RGB remarquable avec effets dynamiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W86N3JV{{</world>}}

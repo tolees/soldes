@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Arrêt automatique après 10 minutes de nettoyage UV
 - Conçu pour nettoyer les têtes de brosse Sonicare
 - Chargeur intégré pour brosse à dents Philips Sonicare
+- Arrêt automatique après 10 minutes de nettoyage UV
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08N69W3RF{{</world>}}

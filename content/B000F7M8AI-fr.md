@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Year Of Release: 2010
-- Country Of Release: EU
 - Record Label: Virgin
+- Country Of Release: EU
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000F7M8AI{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stimule le renouvellement cellulaire
 - Minimise également les cicatrices anciennes
+- Stimule le renouvellement cellulaire
 - Réduit les taches pigmentaires
 - Crème à la gelée royale qui éclaircit le teint de façon naturelle
 

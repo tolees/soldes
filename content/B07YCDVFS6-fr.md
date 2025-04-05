@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Capteur optique Roccat Owl-Eye jusqu’à 16 000 DPI
 - Technologie de clic Titan Click exceptionnellement précise
 - Forme ergonomique ultra confortable
 - Illumination AIMO: LED RGB et effets lumineux
-- Capteur optique Roccat Owl-Eye jusqu’à 16 000 DPI
 - Interrupteurs Omron exclusifs: 50 millions de clics
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2800 tr/mn, débit maxi 2400 l/h. hauteur daspiration : 6 mètres
-- Pompe à gas-oil électrique 370 watts 230 volts
 - Poids du colis: 6.7 Kg
+- Pompe à gas-oil électrique 370 watts 230 volts
+- 2800 tr/mn, débit maxi 2400 l/h. hauteur daspiration : 6 mètres
 - Couleur: Multicolore
 
 [🛒 Achète-le!!]({{< param buyurl >}})

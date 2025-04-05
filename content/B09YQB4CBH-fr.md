@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualite
-- Liberte de mouvements
 - Sechage rapide
+- Haute qualite
 - Marque: Adidas
+- Liberte de mouvements
 - Tres confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

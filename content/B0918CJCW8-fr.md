@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPLICATION : Répartir 1 à 2 noisettes dans la main, appliquer mèche par mèche sur cheveux lavés et essorés, Ne pas rincer ; Pour des résultats optimaux, à utiliser après le Shampoing de la gamme
 - BÉNÉFICES : Multi-bénéfice, cette crème pénètre au cœur de la fibre pour renforcer la structure interne, rénover les longueurs et protéger contre la casse et les fourches
+- APPLICATION : Répartir 1 à 2 noisettes dans la main, appliquer mèche par mèche sur cheveux lavés et essorés, Ne pas rincer ; Pour des résultats optimaux, à utiliser après le Shampoing de la gamme
 - CREME 10-EN-1 RENOVATRICE : Soin professionnel aux 10 bénéfices en 1 action apportant à vos cheveux tout ce dont ils ont besoin dont une protection thermique, une action anti-casse et anti-fourches
 - UNE EXPERIENCE UNIQUE : Un soin professionnel à la texture crémeuse alliant Filler A-100, technologie brevetée par LOréal Professionnel et Acide Aminé qui rénovent les longueurs et épaissit la fibre
 - TYPE DE CHEVEUX : Soin pour cheveux longs, cheveux secs, cheveux cassants et abîmés, avec fourches et pointes sèches ; Sutilise sur cheveux colorés, décolorés, naturels

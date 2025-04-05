@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GARANTIE DOUDOU PERDU : Ce doudou est un cadeau idéal pour les bébés filles et garçons. Il est présenté dans une jolie boîte, prêt à être offert lors dune baby shower, dune naissance ou dun baptême. Garantie Doudou : Grâce à son numéro unique, Doudou perdu est vite retrouvé ! Enregistrez votre Doudou et découvrez toutes les garanties sur le site doudouetcompagnie.com
 - POUR LES ENFANTS : Facile à manipuler avec son corps souple et ses grandes oreilles, il promet de grands instants de tendresse et de complicité dès la naissance.
-- DOUDOU : Ce Doudou Lapin Bonbon, tout doux, tout tendre avec son pelage soyeux est craquant avec ses petits nouettes taupe
-- LAVAGE : Ce doudou est lavable dans un bain à 30° afin quil conserve sa douceur. Nous vous conseillons de procéder à un premier lavage, avant toute utilisation.
 - IDÉE CADEAU DE NAISSANCE : Ce doudou est une excellente idée cadeau pour les bébés filles et garçons. Présenté avec soin, il fera un cadeau de naissance apprécié lors dune baby shower ou dans le cadre dune naissance.
+- LAVAGE : Ce doudou est lavable dans un bain à 30° afin quil conserve sa douceur. Nous vous conseillons de procéder à un premier lavage, avant toute utilisation.
+- DOUDOU : Ce Doudou Lapin Bonbon, tout doux, tout tendre avec son pelage soyeux est craquant avec ses petits nouettes taupe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002BZRC6C{{</world>}}

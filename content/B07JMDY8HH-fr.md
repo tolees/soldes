@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- articulations fonctionnelles , stickers ou décals au choix
 - A partir de 13 ans, Taille une fois montée : L=16 cm
 - Maquette Star Wars à constuire au 1/144ème, 161 pièces pour des finitions impressionnantes
-- Avec portes mobiles, support de présentation, effets laser
+- articulations fonctionnelles , stickers ou décals au choix
 - Notice de montage détaillée multilingue
+- Avec portes mobiles, support de présentation, effets laser
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07JMDY8HH{{</world>}}

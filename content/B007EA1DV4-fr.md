@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Garantie à vie limitée
+- SÉCURITÉ MAXIMALE : en acier cémenté résiste à la coupe, au sciage et à leffet de levier ; anse à double verrouillage pour résister à une force de traction de 2 tonnes
 - APPLICATION DU CADENAS : recommandé pour une utilisation en intérieur ou extérieur avec son revêtement de protection en vinyle ; adapté à tous les types de vélos
 - CARACTÉRISTIQUES : dimensions du U (A x B x C) : 1,3 x 21 x 11 cm ; support vélo inclus ; quatre clés ; protection coulissante de la serrure pour protéger de la poussière et de lhumidité
-- SÉCURITÉ MAXIMALE : en acier cémenté résiste à la coupe, au sciage et à leffet de levier ; anse à double verrouillage pour résister à une force de traction de 2 tonnes
-- Garantie à vie limitée
 - FACILE À TRANSPORTER ET IDENTIFIABLE : support universel pour lattacher au cadre du vélo ; léger 1,26 kg ; gaine réfléchissante pour plus de sécurité lors des trajets nocturnes
 - CERTIFICATIONS : Sold Secure Gold (Royaume Uni), Police Approved - Secure by Design (RU), VDS Klasse A+ (Allemagne), SBSC (Suède)
 

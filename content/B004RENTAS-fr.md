@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants aiment particulièrement la petite Ixolino avec ses embouts interchangeables, ses effets sonores et lumineux très réalistes et la rotation de sa mèche dans les deux sens
 - Marteau, scie, clé , 2 clous, 2 lattes, 4 vis et écrous sont les accessoires de ce magnifique set outils
+- Les enfants aiment particulièrement la petite Ixolino avec ses embouts interchangeables, ses effets sonores et lumineux très réalistes et la rotation de sa mèche dans les deux sens
 - Avec cette mallette Bosch à léquipement de haute qualité, les enfants entraînent leur motricité tout en apprenant à manipuler les outils en toute sécurité
 - Tous les outils trouveront leur place, même la visseuse-dévisseuse Bosch, dans cette robuste mallette à poignée ergonomique
 

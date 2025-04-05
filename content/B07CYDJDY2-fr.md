@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Palmer Pwt 08 - Alimentation universelle 8 Sorties 9 Volt pour Pédaliers
 - Protection contre les courts-circuits et les surcharges pour chaque sortie, huit sorties 9 V CC, 300 mA chacune
-- Câble CC et adaptateur secteur inclus, quatre sorties avec tension variable de 6 à 18 V, 500 mA chacune
 - Le PWT 12 est équipé dune LED dalimentation
+- Câble CC et adaptateur secteur inclus, quatre sorties avec tension variable de 6 à 18 V, 500 mA chacune
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CYDJDY2{{</world>}}

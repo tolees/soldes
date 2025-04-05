@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cartes à collectionner et accessoires
-- Jeux
 - Jeu de cartes
+- Jeux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01NAG6W60{{</world>}}

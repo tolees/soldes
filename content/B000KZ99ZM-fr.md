@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre: 1 mm
 - Couleur: Argent
-- Description du produit: Pentel - Hybrid Gel Grip DX - K230-Z
+- Diamètre: 1 mm
 - Poids: 0.015 kg
+- Description du produit: Pentel - Hybrid Gel Grip DX - K230-Z
 - Type de produit: Roller gel encre métallisée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

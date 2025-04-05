@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le calibrage sonore YPAO ajuste le son à la taille de votre salon pour créer une acoustique optimale / Lamplificateur peut être connecté avec des enceintes de streaming sans fil
-- Lamplificateur Yamaha compact audio vidéo convainc par son design élégant, par le son Surround ainsi que par les fonctions de streaming de musique et par le mode "gaming" intégré
 - Un son de haute qualité grâce au mode Cinema DSP 3D - tout comme dans une salle de concert / Lamplificateur dispose de 4 entrées HDMI et dune sortie HDMI
 - Livraison : RX-V4A Amplificateur audio & vidéo de Yamaha, noir / Microphone de calibrage inclus / Ampli supportant HDR10+, 8K et fonctions Gaming / Installation facile via application
+- Le calibrage sonore YPAO ajuste le son à la taille de votre salon pour créer une acoustique optimale / Lamplificateur peut être connecté avec des enceintes de streaming sans fil
+- Lamplificateur Yamaha compact audio vidéo convainc par son design élégant, par le son Surround ainsi que par les fonctions de streaming de musique et par le mode "gaming" intégré
 - Avec MusicCast, laudio multiroom devient un jeu denfant - il suffit de raccorder tous vos appareils MusicCast à un même réseau afin de diffuser votre musique dans différentes pièces !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

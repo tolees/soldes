@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HOT WHEELS UNLEASHED 2 - Speed Kings Pack, qui inclut deux véhicules : Impavido 1 et Electro Silhouette
-- Collectionnez plus de 130 véhicules, un tas de nouveaux bolides vous attendent !
-- Attachez votre ceinture sur de tous nouveaux environnements tous plus dingues les uns que les autres !
 - Pour la première fois, un mode campagne inédit avec une histoire unique !
 - Mettez un coup de boost à votre fun avec la Pure Fire Edition comprenant un modèle réduit et 6 voitures exclusives en jeu !
+- HOT WHEELS UNLEASHED 2 - Speed Kings Pack, qui inclut deux véhicules : Impavido 1 et Electro Silhouette
+- Attachez votre ceinture sur de tous nouveaux environnements tous plus dingues les uns que les autres !
+- Collectionnez plus de 130 véhicules, un tas de nouveaux bolides vous attendent !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6QZR244{{</world>}}

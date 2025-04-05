@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LARGE CHOIX DE RECETTES : Profitez de 4 recettes café (expresso, lungo, café, Doppio+) en accès direct et réalisez toutes vos boissons lactées grâce la buse vapeur
-- SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile
+- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
 - DU GRAIN A LA TASSE : Lexpresso broyeur vous ouvre les portes du monde du café. Choisissez votre café en grains chez votre torréfacteur et découvrez de nouveaux terroirs et nouveaux arômes
 - CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
-- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
+- SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FOAFWLW{{</world>}}

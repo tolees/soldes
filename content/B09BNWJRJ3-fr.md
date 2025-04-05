@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce set avec jouet dragon LEGO NINJAGO inclut une figurine de dragon articulée avec des jambes, une tête, une mâchoire, des ailes mobiles et une queue qui peut servir d’arme
-- Lorsque les enfants terminent leurs missions et battent le guerrier serpent, ils reçoivent une bannière Vitesse à placer sur le dragon jouet
-- Il inclut la minifigure LEGO NINJAGO de Jay avec des nunchakus, à laquelle une cagoule et une épée peuvent être ajoutées, ainsi que Viper Flyer, un serpent avec épée et jetpack
-- Améliorez la figurine de Jay en l’équipant de sa cagoule et de son épée, puis agrandissez les ailes de son dragon afin qu’ils s’élancent dans les airs pour un combat périlleux !
 - Le jouet du dragon du tonnerre est doté d’une selle où placer Jay quand il combat le serpent LEGO NINJAGO et son jetpack au cours de batailles épiques
+- Lorsque les enfants terminent leurs missions et battent le guerrier serpent, ils reçoivent une bannière Vitesse à placer sur le dragon jouet
+- Améliorez la figurine de Jay en l’équipant de sa cagoule et de son épée, puis agrandissez les ailes de son dragon afin qu’ils s’élancent dans les airs pour un combat périlleux !
+- Il inclut la minifigure LEGO NINJAGO de Jay avec des nunchakus, à laquelle une cagoule et une épée peuvent être ajoutées, ainsi que Viper Flyer, un serpent avec épée et jetpack
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BNWJRJ3{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Corrections multiples de l’image : configuration et utilisation en un rien de temps grâce aux fonctions de rotation, de correction du trapèze et des 4 coins, de zoom numérique et d’inversion de l’image qui vous permettront d’obtenir une image carrée dans n’importe quelle position (au plafond, sur une table, etc.).
+- Choix d’applications : clé Android TV intégrée offrant toutes vos applications préférées (Chromecast et OK Google). Accès rapide à Netflix, Amazon Prime, Hulu, Disney+ et de nombreux autres services directement depuis votre projecteur.
 - Très silencieux : la nouvelle technologie de refroidissement réduit le niveau de bruit de 25 %, offrant ainsi une expérience de visionnement inégalée par rapport aux ensembles de projecteurs et d’écrans récents.
 - Affichage intense : Image projetée 120" max. à une résolution True Full HD 1080p, 1 920 x 1 080 pixels. Le moteur de lumière scellé et modernisé garantit un contraste incroyable et des couleurs vives, sans aucune perte du signal REC709. Le projecteur est également équipé d’une source de lumière LED qui vous assure 30 000 heures de divertissement.
-- Choix d’applications : clé Android TV intégrée offrant toutes vos applications préférées (Chromecast et OK Google). Accès rapide à Netflix, Amazon Prime, Hulu, Disney+ et de nombreux autres services directement depuis votre projecteur.
-- Corrections multiples de l’image : configuration et utilisation en un rien de temps grâce aux fonctions de rotation, de correction du trapèze et des 4 coins, de zoom numérique et d’inversion de l’image qui vous permettront d’obtenir une image carrée dans n’importe quelle position (au plafond, sur une table, etc.).
 - Son retentissant : Laissez-vous emporter par les 2 haut-parleurs 10 W, le son d’ambiance et le renforcement des basses produits par le DSP avec une puissance maximale. Vous vivrez une expérience audiovisuelle étonnante avec une qualité sonore exceptionnelle dès le départ. Ce projecteur est également équipé d’une sortie SPDIF et d’une prise 3,5 mm qui vous permettent de connecter des haut-parleurs externes ou un système de cinéma de salon.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

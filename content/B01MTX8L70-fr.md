@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
-- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
 - Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
+- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
 - Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

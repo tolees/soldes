@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cet article n est plus en solde !
-- Cale à poncer avec blocage papier Kstools
 - Cale à poncer
+- Cale à poncer avec blocage papier Kstools
 - Cale à poncer kstools
 - avec blocage papier
 

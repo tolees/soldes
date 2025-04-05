@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 chambre en Polyester respirant avec moustiquaire
+- Dimensions tente : L 396 x l 429 x H 225 cm (15,7 m)
+- Poids : 20,7 kg
 - Porte de la chambre rigide, la rendant ainsi plus proche de la forme dune maison. Plus besoin douvrir ou de fermer à laide des fermetures à glissière
-- Arceaux en acier et Tapis de sol en Polyéthylène
-- Dimensions surface de couchage : L 385 x l 418 x H 215 cm (15,7 m)
-- Double-toit en Polyester enduit PU 2000 mm, coutures étanchées et traitement retardateur de feu
 - Sac de transport inclus
 - Fenêtres moustiquaires avec rideaux
-- Poids : 20,7 kg
-- Dimensions tente : L 396 x l 429 x H 225 cm (15,7 m)
+- 1 chambre en Polyester respirant avec moustiquaire
+- Arceaux en acier et Tapis de sol en Polyéthylène
 - Tente Chapiteau Octogonale 8 personnes - coloris Orange
+- Double-toit en Polyester enduit PU 2000 mm, coutures étanchées et traitement retardateur de feu
+- Dimensions surface de couchage : L 385 x l 418 x H 215 cm (15,7 m)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00R1FJ7WO{{</world>}}

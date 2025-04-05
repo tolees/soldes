@@ -29,17 +29,17 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Batteries included: False
-- Connectivity technology: Wi-Fi
-- Item dimensions: 0.0 inches
+- Wireless provider: all_carriers
 - Battery capacity: 5030.0 milliamp_hours
-- Operating system: Android
-- Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/6j1wo9cKPbNxXabdskg/9HrhR64Ue7NxXa9xOKXdskhAFAAAAAAAALNxNKNxX+NxMw==}}}
-- Cellular technology: 4G
+- Midnight black
 - Memory storage capacity: 256.0 GB
 - Included components: Mobile, câble USB, extracteur SIM et guide
-- Wireless provider: all_carriers
-- Midnight black
 - Display size: 6.79 inches
+- Connectivity technology: Wi-Fi
+- Item dimensions: 0.0 inches
+- Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/6j1wo9cKPbNxXabdskg/9HrhR64Ue7NxXa9xOKXdskhAFAAAAAAAALNxNKNxX+NxMw==}}}
+- Operating system: Android
+- Cellular technology: 4G
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D4SMFD94{{</world>}}

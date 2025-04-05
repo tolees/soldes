@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à installer
-- LIGHTWEIGHT
-- RECYCLED
 - ETRA DURABLE INTERDIENTS
+- RECYCLED
 - GOOD GRIP
+- LIGHTWEIGHT
+- Facile à installer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098PCF24J{{</world>}}

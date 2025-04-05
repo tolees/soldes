@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Italian Box , English Playable
 - Zelda Breath of the Wild
 - Pegi 12
+- Italian Box , English Playable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N7QUSQ3{{</world>}}

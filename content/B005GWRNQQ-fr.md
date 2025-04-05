@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Loverdose by Diesel est le parfum longue durée pour femme qui représente un amour addictif et amusant. Loverdose est une Eau de Parfum Boisée Florientale aux notes de mandarine, de vanille et de liqueur de réglisse qui créent un parfum entièrement féminin pour une femme séduisante et irrésistible.
 - Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
+- Loverdose by Diesel est le parfum longue durée pour femme qui représente un amour addictif et amusant. Loverdose est une Eau de Parfum Boisée Florientale aux notes de mandarine, de vanille et de liqueur de réglisse qui créent un parfum entièrement féminin pour une femme séduisante et irrésistible.
 - Parfum addictif qui tient longtemps sans être entêtant, aux notes séduisantes, idéal pour un usage quotidien.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design compact
+- Contrôle avec la télécommande TV
 - Caisson de basses sans fil
 - Mode veille Bluetooth
-- Contrôle avec la télécommande TV
+- Design compact
 - Connectivité Bluetooth
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Testé par des toxicologues indépendants, conforme à la norme CE
+- Pour des usages multiples : bijoux, accessoires et objets décoratifs pour la maison
+- Pain de pâte à modeler FIMO de 42 grammes, à cuire au four (110°C pendant 30min)
 - Matériau ultra-doux, ultra-souple et facilement malléable conçu spécialement pour les enfants
 - Conservation pendant 24 mois à température ambiante (entre 15°C et 28°C)
-- Pain de pâte à modeler FIMO de 42 grammes, à cuire au four (110°C pendant 30min)
-- Pour des usages multiples : bijoux, accessoires et objets décoratifs pour la maison
-- Testé par des toxicologues indépendants, conforme à la norme CE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00URH3TDG{{</world>}}

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Il possède également toutes les caractéristiques du MultiGrid, avec un système anti-îlotage intégré et une liste de plus en plus longue dapprobations nationales
 - Le MultiPlus-II peut être utilisé dans des systèmes photovoltaïques hors réseau ou connectés au réseau, ainsi que dans dautres systèmes dénergie alternative. Il est compatible avec les régulateurs de chargeurs solaires et les convertisseurs connectés au réseau
 - Le MultiPlus-II est idéal pour des installations marines professionnelles, avec des voiliers, des véhicules et des systèmes hors-réseau terrestres
-- Le Victron Energy MultiPlus-II 5000 VA 48 Volt 70 amp 230 V combine les fonctions du MultiPlus et du MultiGrid
 - Il présente toutes les fonctions du MultiPlus, avec une option de transformateur de courant externe pour les fonctions de PowerControl et PowerAssist, et pour optimiser lautoconsommation avec une sonde de courant externe (32 A max.)
+- Le Victron Energy MultiPlus-II 5000 VA 48 Volt 70 amp 230 V combine les fonctions du MultiPlus et du MultiGrid
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QZ1CMST{{</world>}}

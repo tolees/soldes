@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Decide the fate of Aphes. Every decision you make in Asterigos matters and will affect the story
-- Combine and change your weapons on the go. Equip two different types of weapon at once and become unpredictable in combat
-- The Collector´s Edition includes: Physical “Asterigos: Curse of the Stars - Deluxe Edition” game, A stunning exclusive 260-page 17 cm x 15 cm Premium Artbook, The Official Complete Soundtrack of the game in 2 CDs, A Collector´s Tuck-in Box housing all the contents
 - Battle more than 60 different enemies and encounter 22 bosses in the main story and side quests
 - Explore the magnificent city of Aphes inspired by classical Greek designs and unveil the truth behind the city’s curse
+- Combine and change your weapons on the go. Equip two different types of weapon at once and become unpredictable in combat
+- The Collector´s Edition includes: Physical “Asterigos: Curse of the Stars - Deluxe Edition” game, A stunning exclusive 260-page 17 cm x 15 cm Premium Artbook, The Official Complete Soundtrack of the game in 2 CDs, A Collector´s Tuck-in Box housing all the contents
+- Decide the fate of Aphes. Every decision you make in Asterigos matters and will affect the story
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3XLRY3V{{</world>}}

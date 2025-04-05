@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prenez le contrôle total de la direction des courses de vos coéquipiers en appuyant sur le joystick droit après avoir déclenché une course
 - Ce jeu est une version importée, Il nest pas garanti que le français soit disponible dans les options de jeu
+- Prenez le contrôle total de la direction des courses de vos coéquipiers en appuyant sur le joystick droit après avoir déclenché une course
 - Une compréhension plus perceptive de lespace et du positionnement de lopposition permet aux joueurs de jouer à un jeu de passes plus intelligent
 - Décidez où votre coéquipier effectue sa course après une passe en appuyant immédiatement sur le joystick droit dans la direction souhaitée
 

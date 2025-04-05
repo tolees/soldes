@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Rapide à déployer : cette échelle de secours est rapide et facile à déployer, vous donnant plus de temps pour sortir en toute sécurité du feu. Un design simple et pliable et des instructions claires fournies dans la boîte facilitent lévacuation dun feu.
 - Profondeur du seuil de fenêtre de 340 mm : cette échelle est conçue pour sadapter à de nombreux types de fenêtres, avec une profondeur maximale de rebord de fenêtre de 340 mm.
 - Boîte de rangement compacte : léchelle Firechief est emballée dans une boîte de rangement ultra compacte, conçue pour tenir facilement dans une armoire ou sous un lit. La boîte dispose également dune poignée pour la déplacer rapidement et facilement vers la fenêtre dévacuation.
-- Résistant aux flammes : cette échelle a été conçue et fabriquée à partir de matériaux durables et ignifuges. Cela vous donne la confiance quil est plus sûr à utiliser et a une capacité de charge supérieure grâce à sa durabilité.
 - Marches déchelle extra larges : cette échelle est livrée avec des échelons extra larges de 300 mm pour une utilisation plus sûre et plus facile.
+- Résistant aux flammes : cette échelle a été conçue et fabriquée à partir de matériaux durables et ignifuges. Cela vous donne la confiance quil est plus sûr à utiliser et a une capacité de charge supérieure grâce à sa durabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08W25J3WW{{</world>}}

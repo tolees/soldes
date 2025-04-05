@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éponge française en coton doux
 - Tissu éponge de coton doux
-- Capuche doublée en jersey
 - Logo Helly Hansen sur la poitrine
+- Capuche doublée en jersey
 - Cordon de serrage réglable sur la capuche
+- Éponge française en coton doux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07S8Y8W8F{{</world>}}

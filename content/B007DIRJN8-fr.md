@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Renforcé dans le dos et aux genoux.
-- Pantalon résistant en G1000.
-- Poches pour les mains, poche pouvant contenir une carte, poche multi-outils, poche intérieure pour téléphone.
 - Poche pour genouillère.
+- Renforcé dans le dos et aux genoux.
+- Poches pour les mains, poche pouvant contenir une carte, poche multi-outils, poche intérieure pour téléphone.
 - Taille mi- haute et coupe classique avec les genoux préformés.
+- Pantalon résistant en G1000.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007DIRJN8{{</world>}}

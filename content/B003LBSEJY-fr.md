@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure : semelle extérieure en EVA pour un poids léger
-- Semelle intérieure : semelle EVA amovible avec système damortissement
 - Matériau extérieur : cuir (cuir de vache)
 - Couleur : marron foncé
+- Semelle intérieure : semelle EVA amovible avec système damortissement
 - Doublure :
+- Semelle extérieure : semelle extérieure en EVA pour un poids léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003LBSEJY{{</world>}}

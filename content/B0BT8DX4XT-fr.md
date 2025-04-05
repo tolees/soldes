@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une bande-son sélectionnée pour renforcer l’esthétique du jeu. Appréciez la musique de compositeurs tels que Vivaldi, Bach ou encore George Frideric Handel
+- Des tableaux de Rembrandt, Botticelli, Michel-Ange et bien d’autres réunis dans un seul et même monde
 - Tuez qui vous voulez sur votre route et passez les énigmes qui ne vous inspirent pas. Mais prudence : vos actions pourraient revenir vous hanter...
 - Une interface de point and click traditionnelle avec un menu d’interactions verbales et un inventaire simple pour accéder aux précieux objets glanés
 - Hourra ! La guerre sainte est terminée ! Vos oppresseurs ont été repoussés, les églises de l’Ancien dieu sont en ruines et des milliers d’innocents ont été tués ! Mais tout n’est pas rose : le tyran Pierre le divin vous a échappé et on vous a chargée de le débusquer...
-- Des tableaux de Rembrandt, Botticelli, Michel-Ange et bien d’autres réunis dans un seul et même monde
+- Une bande-son sélectionnée pour renforcer l’esthétique du jeu. Appréciez la musique de compositeurs tels que Vivaldi, Bach ou encore George Frideric Handel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT8DX4XT{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le laser intégré montre avec précision l’arête de coupe et permet donc une coupe précise
-- avec la fonction de traction, la scie circulaire à balancier scie sans effort les pièces à usiner jusquà 340 mm de large et 90 mm de haut et grâce au guidage à double colonne stable, la lame de scie peut être guidée avec précision à travers la pièce usinée
 - Les extensions de table des deux côtés avec étau pour fixer la pièce usinée, une butée longitudinale, un plateau rotatif pivotant avec blocage rapide et la lame de scie inclinable pour des coupes à onglet de 45° permettent une multitude d’applications avec la HM254
+- avec la fonction de traction, la scie circulaire à balancier scie sans effort les pièces à usiner jusquà 340 mm de large et 90 mm de haut et grâce au guidage à double colonne stable, la lame de scie peut être guidée avec précision à travers la pièce usinée
 - La HM254 est adaptée au bois dur et tendre ainsi qu’à tous les plastiques courants. Les deux lames de scie fournies en métal dur, une avec 48 dents et l’autre avec 60 dents, ont un diamètre de 255 mm. Grâce à la protection de la lame de scie entièrement fermée, une sécurité de travail maximale est garantie
 - La scie à onglet radiale stable et compacte HM254 dispose dun bâti léger en aluminium moulé sous pression et est ainsi bien adaptée à une utilisation mobile et aux petits ateliers
+- Le laser intégré montre avec précision l’arête de coupe et permet donc une coupe précise
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B089ZL6SNS{{</world>}}

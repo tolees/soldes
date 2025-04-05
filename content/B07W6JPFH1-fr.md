@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Switchs mécaniques ultra-plats – Les nouveaux switchs gaming hautes performances offrent la vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit. Le switch GL Sonore présente un retour sonore et tactile distinctif. Trois options disponibles: GL Tactile, GL Linear ou GL Clicky
-- LIGHTSYNC RVB – Léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB
-- Touches G programmables – Cinq touches G dédiées peuvent être programmées avec des commandes et des macros personnalisées en fonction des jeux ou des profils dapplication. Nécessite lutilisation de Logitech G HUB pour configurer et gérer facilement les profils, les commandes et plus encore
 - Construction premium Al-Mg - Le clavier gamer G815 présente une conception exceptionnelle avec un alliage daluminium de qualité aéronautique pour offrir une conception incroyablement compacte tout en restant robuste et durable
+- LIGHTSYNC RVB – Léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB
+- Switchs mécaniques ultra-plats – Les nouveaux switchs gaming hautes performances offrent la vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit. Le switch GL Sonore présente un retour sonore et tactile distinctif. Trois options disponibles: GL Tactile, GL Linear ou GL Clicky
+- Touches G programmables – Cinq touches G dédiées peuvent être programmées avec des commandes et des macros personnalisées en fonction des jeux ou des profils dapplication. Nécessite lutilisation de Logitech G HUB pour configurer et gérer facilement les profils, les commandes et plus encore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6JPFH1{{</world>}}

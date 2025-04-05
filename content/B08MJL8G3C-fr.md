@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Un Corps Miniature, une Puissance énorme】Quel que soit le type de boîte de jonction que vous utilisez, linterrupteur peut y être installé pour rendre votre interrupteur mural plus intelligent.
 - 【Protocole ZigBee 3.0】Le commutateur intelligent SONOFF ZBMINI zigbee doit fonctionner avec ZigBee Hub (Obligatoire). Compatible avec SONOFF ZBBridge, Amazon Echo, Samsung SmartThings Hub . Le protocole ZigBee3.0 avec cryptage AES-128 maintient la sécurité des données de lappareil.
-- 【Réaliser un Contrôle à Double Sens】En plus de la commande APP, linterrupteur MINI zigbee peut également connecter une paire dinterrupteurs à bascule bidirectionnels pour allumer/éteindre la lumière du bas depuis létage.
+- 【Un Corps Miniature, une Puissance énorme】Quel que soit le type de boîte de jonction que vous utilisez, linterrupteur peut y être installé pour rendre votre interrupteur mural plus intelligent.
 - 【Fonctionne Comme une Station de Transfert de Signaux】Est-il souvent hors ligne en raison de la distance entre votre appareil et le routeur ? ZBMINI peut être un routeur ZigBee pour transmettre le signal entre les appareils.
+- 【Réaliser un Contrôle à Double Sens】En plus de la commande APP, linterrupteur MINI zigbee peut également connecter une paire dinterrupteurs à bascule bidirectionnels pour allumer/éteindre la lumière du bas depuis létage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08MJL8G3C{{</world>}}

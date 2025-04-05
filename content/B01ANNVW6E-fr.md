@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ouverture : 76 mm; Longeur focale : 350 mm
-- Mise en place rapide - Facile à utiliser
 - Mag.: 18x-175x; Filtre solaire certifié CE
-- Incl.: Télescope, Mont+Trépied, Filtre solaire, Accessoires
+- Ouverture : 76 mm; Longeur focale : 350 mm
 - Télescope Newton + Filtre pour les observations solaires
+- Mise en place rapide - Facile à utiliser
+- Incl.: Télescope, Mont+Trépied, Filtre solaire, Accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01ANNVW6E{{</world>}}

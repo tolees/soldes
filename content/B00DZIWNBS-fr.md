@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 10 meules sur tige diamant
 - Hitachi Hikoki Coffret Assortiment 389 Outils Rotatifs
+- 42 bandes abrasives
 - 6 meules sur tige en oxyde daluminium
 - 9 meules en oxyde daluminium
-- 10 meules sur tige diamant
-- 42 bandes abrasives
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DZIWNBS{{</world>}}

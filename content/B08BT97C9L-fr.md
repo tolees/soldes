@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients actifs – Ce soin hydratant homme est enrichi en Camomille et Vitamine E, des ingrédients naturels qui hydratent & apaisent les peaux sensibles.
 - Apaise la peau – Ce soin cutané apaise les 5 signes dirritation : rougeurs, sècheresse, sensations déchauffement, de tiraillement et de démangeaison.
+- Ingrédients actifs – Ce soin hydratant homme est enrichi en Camomille et Vitamine E, des ingrédients naturels qui hydratent & apaisent les peaux sensibles.
 - Conseils d’application – Chaque jour, appliquez la crème apaisante sur le visage et le cou soigneusement nettoyés tout en évitant le contact avec les yeux.
 - Emballage – NIVEA MEN Crème hydratation intense Peau Sensible, crème de nuit enrichie en Camomille et Vitamine E, soin apaisant les peaux sensibles et irritées, 1 x 50 ml, numéro d’article : 82570.
 - Hydratation intense – Ce soin NIVEA nourrit les peaux sensibles en profondeur pendant 48 h et assure un confort optimal car il ne laisse pas de résidu gras.

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec chargeur, câble USB et coque de protection
-- Stockage haute capacité 256 Go / RAM 12 Go
-- Batterie longue durée avec charge rapide 30W
-- Ecran OLED 6,5’’ 120Hz
 - Double capteur 50MP avec stabilisation optique
+- Ecran OLED 6,5’’ 120Hz
+- Batterie longue durée avec charge rapide 30W
+- Stockage haute capacité 256 Go / RAM 12 Go
+- Livré avec chargeur, câble USB et coque de protection
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJCF1QQS{{</world>}}

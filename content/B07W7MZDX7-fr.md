@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur blanche
-- Taille de lemballage : 5,2 L x 39,2 H x 16,8 L (cm)
-- Disposition : États-Unis International (QWERTY)
 - Poids du colis : 1,34 kg
+- Disposition : États-Unis International (QWERTY)
 - Pays dorigine : - Chine
+- Taille de lemballage : 5,2 L x 39,2 H x 16,8 L (cm)
+- Couleur blanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W7MZDX7{{</world>}}

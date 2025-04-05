@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intercalaire légère TECHLITE offrant une excellente restitution de l’énergie
 - Ouvertures dans la semelle intercalaire pour optimiser la circulation de l’air et le refroidissement
+- Semelle intercalaire légère TECHLITE offrant une excellente restitution de l’énergie
 - Caoutchouc Omni-GRIP non marquant et adhérent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

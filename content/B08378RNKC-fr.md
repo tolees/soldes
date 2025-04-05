@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dès 8 ans
-- Qui a ensorcelé la cloche ? Qui a jeté un mauvais sort au marchand ? Il faut rendre visite aux témoins pour récolter des indices et retrouver le coupable
+- Jeu de société Les Mystères de Pékin en version jeu de cartes
 - 40 x mystères à résoudre avec ce jeu de cartes familial en format pocket De 2 à 4 joueurs
 - Contient : 100 cartes, 1 décodeur, 6 tombrones
-- Jeu de société Les Mystères de Pékin en version jeu de cartes
+- Qui a ensorcelé la cloche ? Qui a jeté un mauvais sort au marchand ? Il faut rendre visite aux témoins pour récolter des indices et retrouver le coupable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08378RNKC{{</world>}}

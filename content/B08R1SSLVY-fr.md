@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La technologie IPL sûre, Testée sous contrôle clinique et dermatologique comme étant sûre pour la peau par un organisme international de santé de la peau (Skin Health Alliance)
 - Réduction visible de la pilosité jusquà 6 mois
 - Capteur de teint de peau SensoAdapt (protection contre les rayons UV) : s’adapte automatiquement et en continu à votre teint de peau
+- La technologie IPL sûre, Testée sous contrôle clinique et dermatologique comme étant sûre pour la peau par un organisme international de santé de la peau (Skin Health Alliance)
 - Rapide : traitez les 2 jambes en moins de 5 minutes au niveau d’énergie le plus bas
 
 [🛒 Achète-le!!]({{< param buyurl >}})

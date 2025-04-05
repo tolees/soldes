@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Explorez le monde des sorciers pour révéler une vérité cachée de son passé.
 - Découvrez votre maison, forgez des relations et maîtrisez les compétences pour devenir la sorcière ou le sorcier que vous rêvez dêtre.
 - Parcourez librement Poudlard, Pré-au-Lard, la forêt interdite et la région environnante.
-- Explorez le monde des sorciers pour révéler une vérité cachée de son passé.
 - Apprenez des sortilèges, préparez des potions, faites pousser des plantes et soignez des créatures magiques tout au long de votre voyage.
 - Combattez des trolls, des mages noirs, des gobelins et plus encore, alors que vous affrontez une dangereuse menace pour le destin du monde des sorciers.
 

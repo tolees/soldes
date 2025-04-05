@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONFORT POUR LE PORTEUR – Soutien lombaire et bretelles rembourrées réglables et entrecroisables pour un ajustement et un confort de portage longue durée
 - RECONNU comme produit « sain pour les hanches » par l’Institut International de la Dysplasie de la Hanche, et porteur du label de l’Association allemande pour la santé du dos (AGR)
-- ERGONOMIE – 4 positions de portage : face au porteur, face au monde, sur la hanche, sur le dos. Du nouveau-né au bambin (3,2 à 20,4 kg), l’espace réglable entre les ouvertures des jambes favorise une position « grenouille » naturelle et ergonomique (en « M »)
 - TENDRESSE ET DOUCEUR – Le coton peigné offre une surface douce et adaptée à la peau sensible des bébés
+- ERGONOMIE – 4 positions de portage : face au porteur, face au monde, sur la hanche, sur le dos. Du nouveau-né au bambin (3,2 à 20,4 kg), l’espace réglable entre les ouvertures des jambes favorise une position « grenouille » naturelle et ergonomique (en « M »)
+- CONFORT POUR LE PORTEUR – Soutien lombaire et bretelles rembourrées réglables et entrecroisables pour un ajustement et un confort de portage longue durée
 - PROTECTION QUOTIDIENNE – Appuie-tête repliable pour la tête et la nuque, capuche repliable pour protéger votre enfant des regards et du soleil (pendant l’allaitement), touches réfléchissantes pour plus de visibilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 températures de lumière: créez une ambiance relaxante ou concentrée ent passant du blanc chaud au blanc froid.
 - Spécialement conçu pour le bureau
 - EyeComfort: un éclairage agréable pour vos yeux.
+- 3 températures de lumière: créez une ambiance relaxante ou concentrée ent passant du blanc chaud au blanc froid.
 - Variation dintensité lumineuse progressive
 
 [🛒 Achète-le!!]({{< param buyurl >}})

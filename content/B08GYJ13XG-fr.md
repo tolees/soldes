@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonctionnement silencieux avec une conception sans ventilateur
-- 16 ports Gigabit
 - Design fin et peu encombrant pour une installation sur le bureau ou au mur
 - Simplicité du Plug-and-Play pour une installation facile
+- 16 ports Gigabit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08GYJ13XG{{</world>}}

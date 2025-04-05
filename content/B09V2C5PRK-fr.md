@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Se connecte à lapplication Cricut Heat via une connexion Bluetooth
-- Compatible avec les principales marques de thermocollant (HTV), Infusible Ink et matériaux de sublimation
-- Contrôle précis des températures jusqu’à 205 °C (400 °F)
 - Plaque chauffante de conception avancée avec surface à revêtement céramique
+- Compatible avec les principales marques de thermocollant (HTV), Infusible Ink et matériaux de sublimation
 - Sa taille de 30 cm x 25 cm (12 po x 10 po) est idéale pour les sweat-shirts, les bannières, les couvertures et plus encore
+- Se connecte à lapplication Cricut Heat via une connexion Bluetooth
+- Contrôle précis des températures jusqu’à 205 °C (400 °F)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09V2C5PRK{{</world>}}

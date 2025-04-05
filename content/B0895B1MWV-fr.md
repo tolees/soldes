@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Inspiré par des classiques du genre comme Spyro the Dragon et Jak & Daxter, le duo Clive et Wrench saute, roule, plane et tourne à travers une multitude de mondes loufoques
+- Des années ont été consacrées à perfectionner la sensation et lanimation de chaque mouvement, un jeu conçu pour les joueurs expérimentés comme pour les nouveaux venus
 - Clive ‘N’ Wrench est une aventure en 3D avec Clive le lapin et Wrench, le singe son dos qui vous emmènera à travers le temps et lespace dans un réfrigérateur magique des années 1950
 - Votre aventure vous mènera à Iceceratops en pleine ère glaciaire préhistorique, en passant par lEgypte ancienne dans les tombes de Tempus et même jusquau Far West
-- Des années ont été consacrées à perfectionner la sensation et lanimation de chaque mouvement, un jeu conçu pour les joueurs expérimentés comme pour les nouveaux venus
 - Explorez 11 niveaux distincts chacun avec son propre boss à défier. Un petit paradis de plateformes brillamment conçu, pleins de défis, dobjets de collection et de personnages charismatiques
-- Inspiré par des classiques du genre comme Spyro the Dragon et Jak & Daxter, le duo Clive et Wrench saute, roule, plane et tourne à travers une multitude de mondes loufoques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0895B1MWV{{</world>}}

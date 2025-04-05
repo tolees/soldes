@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie : 4500 mAh
 - Processeur : Snapdragon 888 2,84 GHz
 - Caméra : Triple, 64MP + 8MP + 2MP
+- Batterie : 4500 mAh
 - Affichage : 6,43 ", 1080 x 2400 pixels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

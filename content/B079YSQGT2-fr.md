@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise en charge PoE après 802.af et Passif PoE (adaptateur inclus)
-- Grâce à sa certification IP65
 - Prend en charge la double bande Wi-Fi simultanée jusquà 1200 Mbit . Température de fonctionnement : 0–40 ℃ (32–104 ℉)
 - Avec une puissance démission élevée
+- Prise en charge PoE après 802.af et Passif PoE (adaptateur inclus)
+- Grâce à sa certification IP65
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079YSQGT2{{</world>}}

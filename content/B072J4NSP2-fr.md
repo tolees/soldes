@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dès 4 ans.
-- 8 thèmes pour samuser tout en travaillant les capacités de raisonnement.
 - Lindémodable jeu de questions-réponses.
 - Suites, que manque-til?, additions, soustractions, intrus… de quoi développer ton sens logique.
 - 8 fiches illustrées et 242 questions.
+- 8 thèmes pour samuser tout en travaillant les capacités de raisonnement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B072J4NSP2{{</world>}}

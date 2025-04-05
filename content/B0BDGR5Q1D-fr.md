@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ARTICULATIONS ET DESIGN PREMIUM : Fans et collectionneurs de Star Wars pourront exposer cette figurine (15 cm) au design premium hautement articulée (tête, bras et jambes) dans leur collection
-- STAR WARS: REBELS : Inspirée du dessin animé Star Wars : Rebels sur Disney+, cette figurine Chopper (C1-10P) de 15 cm est un super cadeau pour tout fan ou collectionneur. À partir de 4 ans
-- ACCESSOIRES INSPIRÉS DU PERSONNAGE : Cette figurine de collection Star Wars The Black Series inclut 4 accessoires, dont un socle de vol
 - CHOPPER (C1-10P) : Chopper est le droïde résidant du Ghost. Il assiste léquipage dans toutes ses tâches, de lentretien du vaisseau au combat, et ce, même sil nen a pas toujours envie.
+- ACCESSOIRES INSPIRÉS DU PERSONNAGE : Cette figurine de collection Star Wars The Black Series inclut 4 accessoires, dont un socle de vol
 - UNE GALAXIE À COLLECTIONNER : Dautres figurines Star Wars The Black Series (vendues séparément ; dans la limite des stocks) inspirées de lunivers Star Wars sont aussi disponibles (vendues séparément, dans la limite des stocks)
+- STAR WARS: REBELS : Inspirée du dessin animé Star Wars : Rebels sur Disney+, cette figurine Chopper (C1-10P) de 15 cm est un super cadeau pour tout fan ou collectionneur. À partir de 4 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDGR5Q1D{{</world>}}

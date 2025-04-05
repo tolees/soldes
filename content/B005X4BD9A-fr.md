@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de sécurité arrêt automatique
-- Puissance : 1300 W
 - Capacité de 12 litres
+- Puissance : 1300 W
+- Système de sécurité arrêt automatique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005X4BD9A{{</world>}}

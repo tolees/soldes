@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QOS - Switch gigabit Support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
-- BOITIER PLASTIQUE - Switch ehternet LS1005G conçu pour être installé sur un bureau ou accroché à un mur
-- FONCTIONNEMENT SILENCIEUX - Avec la conception sans ventilateur, switch ethernet LS1005G convient à tout type denvironnement
-- INSTALLATION FACILE - Plug and Play, Installation de switch ethernet LS1005G demande aucune configuration
-- TP-LINK GREEN TECHNOLOGIE - La technologie Green Ethernet économise de lénergie
-- SWITCH GIGABIT - 5 ports RJ45 de négociation automatique à 10/100 / 1000Mbps prenant en charge Auto-MDI / MDIX
 - ARCHITECTURE NON BLOQUANTE - Plein débit simultané sur tous les ports
+- SWITCH GIGABIT - 5 ports RJ45 de négociation automatique à 10/100 / 1000Mbps prenant en charge Auto-MDI / MDIX
+- TP-LINK GREEN TECHNOLOGIE - La technologie Green Ethernet économise de lénergie
+- QOS - Switch gigabit Support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
+- FONCTIONNEMENT SILENCIEUX - Avec la conception sans ventilateur, switch ethernet LS1005G convient à tout type denvironnement
+- BOITIER PLASTIQUE - Switch ehternet LS1005G conçu pour être installé sur un bureau ou accroché à un mur
+- INSTALLATION FACILE - Plug and Play, Installation de switch ethernet LS1005G demande aucune configuration
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VC68RW1{{</world>}}

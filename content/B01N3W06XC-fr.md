@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Application Cook-in : grâce à lapplication gratuite Cook-In APP dédiée aux micro-ondes Candy, bénéficiez de conseils pour utiliser votre micro-ondes, mais aussi dun choix de recette pour cuisiner tous types de plats au micro-ondes - Trucs & Astuces / Idées de recettes / Aide à lutilisation et à lentretien.
 - Capacité : 20 L
 - Programmateur digital : Les micro-ondes Candy sont équipés dun bandeau de commande intuitif pour une programmation facile et rapide.
 - Puissance du micro-onde : 700W / Puissance du grill : 1000W
-- Application Cook-in : grâce à lapplication gratuite Cook-In APP dédiée aux micro-ondes Candy, bénéficiez de conseils pour utiliser votre micro-ondes, mais aussi dun choix de recette pour cuisiner tous types de plats au micro-ondes - Trucs & Astuces / Idées de recettes / Aide à lutilisation et à lentretien.
 - Four à micro-ondes Grill Candy CMXG20DS Silver
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

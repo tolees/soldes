@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Satisfaction et garantie à 100% : Chez VOSHUILES, nous nous engageons à vous satisfaire à 100% en vous offrant des produits de qualité avec un service client adapté à votre besoin. Si vous avez des questions concernant nos produits, nhésitez pas à nous contacter
+- Un parfum riche en menthol : originaire de la Grande-Bretagne elle est aussi appelée « Peppermint ». L’huile essentielle bio de menthe poivrée possède un parfum mentholé frais avec un gout légèrement sucré et astringent
 - Biologique et réponds aux critères de qualité : nos huiles essentielles BIO sont certifiées par lorganisme de certification ECOCERT en agriculture biologique FR-BIO 01, afin de garantir qualité et traçabilité. Toutes nos huiles essentielles bio sont classées sous la législation des arômes alimentaires et sont H.E.B.B.D.
 - Une huile indispensable : la menthe poivrée est réputée pour ses nombreuses propriétés. Certifiée biologique, profitez de son délicieux parfum. Nous vous recommandons de conserver le flacon dhuile essentielle fermé, à labri de la lumière
-- Un parfum riche en menthol : originaire de la Grande-Bretagne elle est aussi appelée « Peppermint ». L’huile essentielle bio de menthe poivrée possède un parfum mentholé frais avec un gout légèrement sucré et astringent
-- Satisfaction et garantie à 100% : Chez VOSHUILES, nous nous engageons à vous satisfaire à 100% en vous offrant des produits de qualité avec un service client adapté à votre besoin. Si vous avez des questions concernant nos produits, nhésitez pas à nous contacter
 - 100% pure et naturelle : lhuile essentielle de menthe poivrée bio est sélectionnée dans le respect de lidentification botanique de la plante et de son organe producteur, sa chromatographie vérifiée fait delle une huile essentielle de menthe poivrée bio chémotypée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : éthylène-acétate de vinyle
 - Non étanche
+- Semelle : éthylène-acétate de vinyle
 - Matériau extérieur : tissu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

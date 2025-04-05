@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- mots-clés génériques: jeux daction nintendo
 - 5056208803252
 - Brand: Sold Out
-- mots-clés génériques: jeux daction nintendo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PDM45JR{{</world>}}

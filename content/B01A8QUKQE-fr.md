@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅ Le Rollei Compact Traveler No.1 convient à la photographie en extérieur et a une capacité de charge de 5 kg pour les appareils reflex numériques
-- ✅ Contenu de la livraison : Rollei Compact Traveler No.1 Aluminium avec tête sphérique, plaque Arca Swiss, sac trépied et mode demploi
 - ✅ Le Rollei Compact Traveler No.1 est le trépied idéal de voyage. Avec une taille de seulement 31,5cm il tient dans presque tous les sacs
-- ✅ Poids de 1170g y compris la tête sphérique Panorama avec plaque de fixation rapide compatible Arca Swiss, idéale pour être présent à chaque voyage
+- ✅ Contenu de la livraison : Rollei Compact Traveler No.1 Aluminium avec tête sphérique, plaque Arca Swiss, sac trépied et mode demploi
+- ✅ Le Rollei Compact Traveler No.1 convient à la photographie en extérieur et a une capacité de charge de 5 kg pour les appareils reflex numériques
 - ✅ Avec une hauteur maximale de 134cm et une hauteur minimale de 32cm, la photographie de paysage est aussi simple que la macro photographie
+- ✅ Poids de 1170g y compris la tête sphérique Panorama avec plaque de fixation rapide compatible Arca Swiss, idéale pour être présent à chaque voyage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01A8QUKQE{{</world>}}

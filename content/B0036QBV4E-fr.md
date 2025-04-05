@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Forets multifonctions
 - Contenu: 5 Pièces.
 - Dimensions: 4-5-6-8-10mm
-- Forets multifonctions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0036QBV4E{{</world>}}

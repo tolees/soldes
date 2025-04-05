@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poids 055556 kg
-- Peint à la main
 - Taille : 19 cm
 - Tête de mort gothique magnifiquement imprimée
+- Peint à la main
 - Moulé dans la résine la plus fine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

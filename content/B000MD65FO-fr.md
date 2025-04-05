@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Marque - Paul Mitchell
 - Produit pour Unisexe
 - Volume - 1000 ml
-- Marque - Paul Mitchell
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000MD65FO{{</world>}}

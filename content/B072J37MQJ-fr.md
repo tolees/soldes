@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Léger, facile à nettoyer et à transporter
+- Fabriqué en polypropylène moulé pour une fermeté optimale
 - Dimensions approximatives (L x l x H) : 90 x 15 x 15 cm
 - Garde sa forme après une utilisation modérée à intensive et convient parfaitement à toutes les morphologies
-- Fabriqué aux États-Unis
-- Fabriqué en polypropylène moulé pour une fermeté optimale
 - Idéal pour les exercices déquilibre, de renforcement, de souplesse et de rééducation
 - Rouleau en mousse haute densité bleu tacheté avec bords moulés : Extrêmement ferme, parfait pour les niveaux intermédiaires et supérieurs. Polypropylène expansé haute densité (EPP) conçu pour un massage plus profond que les rouleaux en mousse classiques
-- Léger, facile à nettoyer et à transporter
+- Fabriqué aux États-Unis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B072J37MQJ{{</world>}}

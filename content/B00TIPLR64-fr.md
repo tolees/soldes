@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de feu : tous feux + induction
-- Matière : aluminium - équipement bakélite - Revêtement Bekadur Essential sans PFOA
 - Finition : extérieure anthracite
+- Type de feu : tous feux + induction
 - Capacité : pour 2 personnes
+- Matière : aluminium - équipement bakélite - Revêtement Bekadur Essential sans PFOA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TIPLR64{{</world>}}

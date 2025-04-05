@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La fête partout! Dôtée dune poignée rétractable, la SRS-XG300 est étanche à leau et à la poussière (IP67) et offre une finition en maille hydrofuge résistante. Avec 25h dautonomie et une recharge rapide, écoutez votre musique toute la journée.
-- Lenceinte SRS-XG300 offre un son puissant, clair et de haute qualité avec des basses profondes grâce aux haut-parleurs X-Balanced, aux tweeters et aux radiateurs passifs. Et pour booster les basses, il suffit dappuyer sur le bouton MEGA BASS !
-- Donnez encore plus dampleur à votre fête grâce à Party Connect via Bluetooth. Connectez jusquà 100 enceintes Bluetooth Sony compatibles pour profiter dun son et dun éclairage synchronisés.
 - Utilisez la SRS-XG300 pour téléphoner avec vos amis ou collègues. Grâce à lannulation de lécho, deux personnes peuvent parler en même temps sans être coupées. Et avec la connexion multipoint, deux appareils peuvent être couplés en même temps.
 - Ajoutez de lambiance grâce aux jeux de lumières multicolores des radiateurs passifs qui changent au rythme de votre musique. Léclairage est personnalisable dans lapp Sony Music Center, où vous pouvez également contrôler vos paramètres audio.
+- Donnez encore plus dampleur à votre fête grâce à Party Connect via Bluetooth. Connectez jusquà 100 enceintes Bluetooth Sony compatibles pour profiter dun son et dun éclairage synchronisés.
+- Lenceinte SRS-XG300 offre un son puissant, clair et de haute qualité avec des basses profondes grâce aux haut-parleurs X-Balanced, aux tweeters et aux radiateurs passifs. Et pour booster les basses, il suffit dappuyer sur le bouton MEGA BASS !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1JCXRLX{{</world>}}

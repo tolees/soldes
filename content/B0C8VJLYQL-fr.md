@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Combinez & créez pour élaborer votre stratégie
 - Dressez des myriades de monstres
 - Un monde merveilleux vous attend
-- Combinez & créez pour élaborer votre stratégie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8VJLYQL{{</world>}}

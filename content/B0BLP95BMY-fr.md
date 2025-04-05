@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réduire les irritations dues au rasage : rasoir à 3 lames doté d’une bande lubrifiante améliorée pour une glisse optimale* (* par rapport à l’ancien Mach3)
-- Un rasage de près classique : un rasage de près sans effort
 - 1 recharge de lame = 15 rasages : jusqu’à 15 rasages par recharge de lame Gillette Mach3
+- Un rasage de près classique : un rasage de près sans effort
+- Réduire les irritations dues au rasage : rasoir à 3 lames doté d’une bande lubrifiante améliorée pour une glisse optimale* (* par rapport à l’ancien Mach3)
 - S’associe parfaitement au gel à raser Series de Gillette pour une meilleure protection contre les irritations dues au rasage* (* par rapport à une utilisation sans gel à raser)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

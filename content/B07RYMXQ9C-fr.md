@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inspirée des rituels de beauté de Polynésie, la Recherche Ushuaiaa sélectionné les huiles traditionnelles utilisées par les Vahinéspour leurs vertus bienfaisantes et les a intégrées dans sa nouvellegamme de déodorants soin, idéale pour les peaux épilées.SANS ALCOOL – SANS SELS D’ALUMINIUM
 - Accessoires
+- Inspirée des rituels de beauté de Polynésie, la Recherche Ushuaiaa sélectionné les huiles traditionnelles utilisées par les Vahinéspour leurs vertus bienfaisantes et les a intégrées dans sa nouvellegamme de déodorants soin, idéale pour les peaux épilées.SANS ALCOOL – SANS SELS D’ALUMINIUM
 - Sans arômes ajoutés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

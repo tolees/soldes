@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ses performances vidéo haute qualité permettent la lecture et lenregistrement de vidéos 4K UHD et Full HD
-- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 170 Mo/s, optimisées par la technologie SanDisk QuickFlow
 - Vitesses décriture pouvant aller jusquà 80 Mo/s
+- Ses performances vidéo haute qualité permettent la lecture et lenregistrement de vidéos 4K UHD et Full HD
 - Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin datteindre des vitesses maximales (cartes vendues séparément)
+- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 170 Mo/s, optimisées par la technologie SanDisk QuickFlow
 - Une mémoire extrême pour optimiser les performances de votre caméra daction ou de votre drone
 
 [🛒 Achète-le!!]({{< param buyurl >}})

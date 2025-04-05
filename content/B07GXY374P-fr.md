@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couvercle multifonction étanche et hermétique à lair et aux liquides grâce aux 4 rabats et à son joint en silicone
-- Base en verre borosilicate : résistant aux températures extrêmes, de -40°C à +300°C, et aux chocs thermiques jusqu’à 220°C, permettant de cuire au four (sans le couvercle), conserver au réfrigérateur et au congélateur et de réchauffer au micro-ondes (sans le couvercle)
 - Espace dédié sur le couvercle pour écrire le contenu du plat ou le prénom avec un crayon à papier
 - Plat forme HAUTE en verre léger : matériau sain et hygiénique, ne retient ni les tâches ni les odeurs
+- Couvercle multifonction étanche et hermétique à lair et aux liquides grâce aux 4 rabats et à son joint en silicone
+- Base en verre borosilicate : résistant aux températures extrêmes, de -40°C à +300°C, et aux chocs thermiques jusqu’à 220°C, permettant de cuire au four (sans le couvercle), conserver au réfrigérateur et au congélateur et de réchauffer au micro-ondes (sans le couvercle)
 - Dimensions: 12x12 cm / Contenance 0.8L
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Configuration facile - branchez puis configurez facilement en appuyant sur le bouton WPS ou via lapplication Tether
-- Bande passante de canal de 160 MHz - Étend la bande passante pour doubler la vitesse du réseau de 80 MHz traditionnels
-- Compatible EasyMesh - crée de manière flexible un réseau maillé en se connectant à un routeur compatible EasyMesh pour une couverture homogène de toute la maison
 - Itinérance transparente - Marchez dune pièce à lautre et restez connecté avec les vitesses les plus rapides possibles
 - Capacité améliorée, moins de décalage - découvrez des flux sans faille sur plus décrans dans toute votre maison
+- Compatible EasyMesh - crée de manière flexible un réseau maillé en se connectant à un routeur compatible EasyMesh pour une couverture homogène de toute la maison
+- Bande passante de canal de 160 MHz - Étend la bande passante pour doubler la vitesse du réseau de 80 MHz traditionnels
 - Bande 6 GHz dédiée - Fournit une bande plus claire pour éviter les interférences et la congestion WiFi
+- Configuration facile - branchez puis configurez facilement en appuyant sur le bouton WPS ou via lapplication Tether
 - Capacité améliorée, moins de décalage - Découvrez des flux sans faille sur plus décrans dans toute votre maison
 - WiFi AXE5400 Tri-Bande - Augmente les vitesses globales jusquà un incroyable 5400 Mbps
 

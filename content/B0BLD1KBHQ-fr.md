@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatibilité étendue - Moteurs à couple élevé : RS 3 Mini a une capacité de charge de 2 kg max, pour des combinaisons d’objectifs et caméras variées
-- Algorithme de stabilisation RS 3ème génération - Stabilisation d’image niveau professionnel en pleine course, avec un angle faible, ou en mode lampe torche
 - Écran tactile couleur 1,4 po - La nacelle caméra compacte a un écran tactile couleur de 1,4 po et une nouvelle interface utilisateur intuitive. Les paramètres fréquemment utilisés sont à portée de main
-- 795 g Léger et portable - RS 3 Mini est un stabilisateur de caméra de voyage ultra compact. Avec un poids de seulement 795 g, RS 3 Mini est facile à tenir lors de longues prises de vue
+- Algorithme de stabilisation RS 3ème génération - Stabilisation d’image niveau professionnel en pleine course, avec un angle faible, ou en mode lampe torche
 - Prise de vue verticale native - Pour les contenus de réseaux sociaux, il suffit de monter le support à démontage rapide sur le bras vertical et le tour est joué
+- 795 g Léger et portable - RS 3 Mini est un stabilisateur de caméra de voyage ultra compact. Avec un poids de seulement 795 g, RS 3 Mini est facile à tenir lors de longues prises de vue
 - Contrôle obturateur par Bluetooth - La caméra se reconnecte automatiquement après l’appairage initial. Contrôlez facilement la prise photo et vidéo via la nacelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

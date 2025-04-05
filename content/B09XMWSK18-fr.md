@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quel ennemi est sur le point de trouver une boule de cristal Qui a la meilleure chance de larrêter Où se déroulera la bataille Commencez le jeu et trouvez les réponses dont vous avez tant en
 - Cluedo Dragon Ball Z, il est temps de jouer comme lun des héros de manga les plus emblématiques de lunivers ! Entrez dans ce fantastique jeu de société dintrigue et laissez-vous surprendre
 - Âge recommandé : à partir de 8 ans ans RPA2 0232023De 2 à 6 joueurs.Pas besoin de piles pour jouer
 - Le jeu de société contient : 1 plateau de jeu personnalisé, 6 jetons de héros, 6 cartes de personnage, 21 cartes dintrigue, 25 cartes de tracé, 1 bloc-notes détective, 1 étui confidentiel, 6 jetons ennemis, 2 dés et règles de jeu
+- Quel ennemi est sur le point de trouver une boule de cristal Qui a la meilleure chance de larrêter Où se déroulera la bataille Commencez le jeu et trouvez les réponses dont vous avez tant en
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09XMWSK18{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Herlitz
 - 1610880
+- Herlitz
 - Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

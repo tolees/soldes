@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez via un mode multijoueur disponible en mode gratuit.
-- Et enfin découvrir tous les mystères de lanneau.
-- Prenez un nouveau départ et enfilez l’armure du plus grand héros de l’humanité pour vivre une aventure épique.
 - Lorsque tout espoir est perdu et que le destin de l’humanité est en jeu, le MasterChief est prêt à affronter l’ennemi le plus impitoyable qu’il ait jamais affronté.
+- Prenez un nouveau départ et enfilez l’armure du plus grand héros de l’humanité pour vivre une aventure épique.
 - Jusqu’au 8 décembre 2021 pour tout achat du jeu Halo Infinite, recevez trois bonus de précommande : une armure exclusive, un emblème et une plaque d’identification.
+- Et enfin découvrir tous les mystères de lanneau.
+- Jouez via un mode multijoueur disponible en mode gratuit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B099KV6V8H{{</world>}}

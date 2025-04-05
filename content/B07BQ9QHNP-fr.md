@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boggle : Jeu de société où le but du jeu est de trouver le maximum de mots de 3 lettres minimums en 90 secondes. Jeu qui se joue seul ou à plusieurs. Version française
 - 1 joueur et plus. Temps de la partie : environ 5 minutes. Âge recommandé : à partir de 8 ans
-- Accessoires inclus : une grille Boggle et couvercle, 16 dés alphabétiques, 1 sablier et les règles du jeu en française. Aucune pile n’est nécessaire
-- Principe du jeu : Secouer la grille pour mélanger les dés alphabétiques. La partie débute lorsque le sablier est retourné. Les joueurs disposent alors de 90 secondes pour découvrir le plus de mots. Le joueur avec le plus haut score remporte la partie
 - Vous aimez les jeux de société et partager un moment en famille ou entre amis ? Boggle est le jeu parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus. Valeur éducative : apprendre, partager, samuser
+- Principe du jeu : Secouer la grille pour mélanger les dés alphabétiques. La partie débute lorsque le sablier est retourné. Les joueurs disposent alors de 90 secondes pour découvrir le plus de mots. Le joueur avec le plus haut score remporte la partie
+- Accessoires inclus : une grille Boggle et couvercle, 16 dés alphabétiques, 1 sablier et les règles du jeu en française. Aucune pile n’est nécessaire
+- Boggle : Jeu de société où le but du jeu est de trouver le maximum de mots de 3 lettres minimums en 90 secondes. Jeu qui se joue seul ou à plusieurs. Version française
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BQ9QHNP{{</world>}}

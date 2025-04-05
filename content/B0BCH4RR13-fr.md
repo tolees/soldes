@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vissage flexible : avec des adaptateurs de renvoi dangle et déporté pour les vis sur les bords et même autour des coins
 - LIXO – 7e génération de la visseuse à succès
-- Plus grande autonomie : visse jusquà 190 vis avec une charge grâce à la batterie 2,0 Ah Lithium-Ion améliorée
-- Accessoires fournis : IXO 7, 1 adaptateur de renvoi dangle IXO, 1 adaptateur déporté IXO, 10 embouts de vissage standard, câble micro-USB, boîte de rangement
 - 20 Percentage de couple en plus par rapport à la précédente génération grâce à un moteur plus performant
+- Plus grande autonomie : visse jusquà 190 vis avec une charge grâce à la batterie 2,0 Ah Lithium-Ion améliorée
+- Vissage flexible : avec des adaptateurs de renvoi dangle et déporté pour les vis sur les bords et même autour des coins
+- Accessoires fournis : IXO 7, 1 adaptateur de renvoi dangle IXO, 1 adaptateur déporté IXO, 10 embouts de vissage standard, câble micro-USB, boîte de rangement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BCH4RR13{{</world>}}

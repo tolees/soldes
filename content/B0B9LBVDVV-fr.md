@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logiciels Serato DJ Lite et DJUCED inclus et compatible avec Serato DJ Pro
-- Maitrisez les bases du Djing grâce à la Hercules DJ Academy
 - Avec DJUCED, l’IMA (Intelligent Music Assistant) vous permet de préparer facilement vos mixes en suggérant des morceaux tendances
+- Maitrisez les bases du Djing grâce à la Hercules DJ Academy
 - Le Beatmatch Guide vous permettra d’ajuster manuellement les morceaux grâce aux aides lumineuses intégrées.
-- Perfectionnez vos mixes à l’aide des effets, des modes et des 16 pads
 - Des jogwheels améliorés pour scratcher plus facilement : meilleure rotation et élargissement de la zone de détection
+- Perfectionnez vos mixes à l’aide des effets, des modes et des 16 pads
+- Logiciels Serato DJ Lite et DJUCED inclus et compatible avec Serato DJ Pro
 - Mixez des musiques stockées dans l’ordinateur ou provenant de services de streaming (Beatport ADVANCED, Beatsource, Soundcloud GO+ ou TIDAL)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

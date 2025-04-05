@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans la permission de son supérieur ou le soutien de ses remplaçants, redfern se prépare à lancer le nouveau millénaire en grand.
 - Franchissez les portes, évitez les balles, transformez les armes des morts en votre arsenal personnel et faites tout ce quil faut pour atteindre le sommet.
-- Linspecteur-détective redfern se retrouve sur les lieux dun commerce darmes naissant au pied dune tour de grande hauteur
 - Rico london est un jeu de tir explosif et explosif qui brise les gangs. Frayez-vous un chemin jusquà la tour de grande hauteur empilée avec des gangsters east end en solo ou avec un partenaire.
+- Linspecteur-détective redfern se retrouve sur les lieux dun commerce darmes naissant au pied dune tour de grande hauteur
+- Sans la permission de son supérieur ou le soutien de ses remplaçants, redfern se prépare à lancer le nouveau millénaire en grand.
 - Londres, nouvel an 1999 - alors que tout le monde se prépare à faire la fête, la police métropolitaine fait des heures supplémentaires.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : moyenne
-- Matériau intérieur : synthétique
-- Fermeture : caoutchouc
 - Forme du talon : plat
+- Fermeture : caoutchouc
+- Largeur de la chaussure : moyenne
 - Matériau extérieur : synthétique
+- Matériau intérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096MXB1QY{{</world>}}

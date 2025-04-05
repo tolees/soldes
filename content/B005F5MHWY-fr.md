@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soin de jour anti-âge spécialement conçu pour les peaux matures dénutries, Soin réparateur pour une peau défroissée et raffermie
 - Application : Appliquer quotidiennement sur le visage et le cou bien nettoyés, par mouvements circulaires pour une meilleure absorption, Éviter le contour des yeux
-- Résultats : Fonction barrière de la peau réparée, peau intensément nourrie, plus douce au matin et plus lisse jour après jour, Tonifiée et raffermie avec consistance retrouvée au bout de 4 semaines
+- Soin de jour anti-âge spécialement conçu pour les peaux matures dénutries, Soin réparateur pour une peau défroissée et raffermie
 - Contenu : 1x Soin Jour Réparateur LOréal Paris Age Perfect Nutrition Intense, 50 mL
 - Texture onctueuse et délicatement parfumée, Formule concentrée en Miel de Manuka, issu de Nouvelle-Zélande et reconnu pour ses propriétés réparatrices et en Calcium B5 pour ses propriétés fortifiantes
+- Résultats : Fonction barrière de la peau réparée, peau intensément nourrie, plus douce au matin et plus lisse jour après jour, Tonifiée et raffermie avec consistance retrouvée au bout de 4 semaines
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005F5MHWY{{</world>}}

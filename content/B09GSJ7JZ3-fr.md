@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre île avec des bâtiments, des cultures et des animaux délevage, plus de 25 personnages avec lesquels tisser des liens
-- Prenez soin de votre île et explorez locéan dans Summer in Mara, un jeu dagriculture et daventure. Découvrez lhistoire de Koa dans ce jeu qui mêle agriculture, artisanat et exploration
-- Mais aussi un Diorama Acrylique, un Pins Napopo et le jeu Summer in Mara "Region Free" sur PS4 ou Switch
 - Cette édition inclut dans un coffret collector au design exclusif, Artbook 160 pages, une planche de stickers, un poster double face, la bande originale
+- Personnalisez votre île avec des bâtiments, des cultures et des animaux délevage, plus de 25 personnages avec lesquels tisser des liens
+- Mais aussi un Diorama Acrylique, un Pins Napopo et le jeu Summer in Mara "Region Free" sur PS4 ou Switch
 - Un océan ouvert avec plus de 20 îles à explorer dans le cadre dun archipel tropical au style coloré et rempli de surprises
+- Prenez soin de votre île et explorez locéan dans Summer in Mara, un jeu dagriculture et daventure. Découvrez lhistoire de Koa dans ce jeu qui mêle agriculture, artisanat et exploration
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GSJ7JZ3{{</world>}}

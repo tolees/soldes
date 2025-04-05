@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Transférez un film entier en moins de 40 secondes
-- Protégez par mot de passe et cryptez les fichiers avec le logiciel SanDisk secure access
-- Compatible avec Windows Vista, Windows 7, Windows 8 et Mac OS X v10.6+ (téléchargement logiciel requis pour Mac)
 - Température de fonctionnement : 0 °C à 45 °C; Température de stockage: 50 ° - 158 ° F (–10 ° - 70 ° C )
+- Compatible avec Windows Vista, Windows 7, Windows 8 et Mac OS X v10.6+ (téléchargement logiciel requis pour Mac)
+- Protégez par mot de passe et cryptez les fichiers avec le logiciel SanDisk secure access
 - Disponible en capacités de 16 Go, 32 Go, 64 Go, 128 Go et 256 Go
 - Jusquà 10 fois plus rapide que les clés USB 2.0 stetard
 

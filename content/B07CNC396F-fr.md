@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Package Weight: 110 grams
-- Item Package Quantity: 1
-- Package Dimensions (L x B x H) in cm: 1.5 x 13.6 x 17.2
 - Model Number: 5026555360036
+- Package Dimensions (L x B x H) in cm: 1.5 x 13.6 x 17.2
+- Item Package Quantity: 1
+- Package Weight: 110 grams
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CNC396F{{</world>}}

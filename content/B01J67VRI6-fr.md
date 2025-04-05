@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Permet de créer des marquages élégants sur les surfaces lisses
-- Différentes couleurs et pointes
 - Adaptée pour les travaux créatifs ou les activités professionnelles
 - La pointe libère une craie liquide très couvrante
+- Différentes couleurs et pointes
+- Permet de créer des marquages élégants sur les surfaces lisses
 - Convient aux tableaux noirs, miroirs et le verre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

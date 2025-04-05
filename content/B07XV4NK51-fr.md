@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lécran OLED Smart Display affiche les profils, informations de jeu, messages Discord, pistes Spotify et plus encore
-- Une personnalisation inégalée avec 16,8 millions de couleurs déclairage par touche
-- Remarque: Il est recommandé de mettre à jour régulièrement le firmware à laide de SteelSeries Engine
-- Switchs de jeu mécaniques garantis 50 millions de frappes
 - Alliage daluminium de qualité aéronautique, conçu pour durer tout la vie
 - Lagencement du clavier est disponible en Anglais QWERTY Les images promotionnelles sont elles en Américain QWERTY
+- Lécran OLED Smart Display affiche les profils, informations de jeu, messages Discord, pistes Spotify et plus encore
+- Switchs de jeu mécaniques garantis 50 millions de frappes
 - Repose poignet magnétique haut de gamme pour un soutien de la paume entière et une sensation de confort
+- Une personnalisation inégalée avec 16,8 millions de couleurs déclairage par touche
+- Remarque: Il est recommandé de mettre à jour régulièrement le firmware à laide de SteelSeries Engine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XV4NK51{{</world>}}

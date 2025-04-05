@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de col: sweatshirt
-- Lavage à la main seulement
-- Regular
 - Fermeture: Pull On
-- Manche longue
+- Regular
+- Lavage à la main seulement
 - 80% Coton, 20% Polyester
+- Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QYY5P7V{{</world>}}

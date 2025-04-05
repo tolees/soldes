@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour plantes ou crevettes
-- Terre volcanique riche en minéraux
-- Idéal pour les crevettes nouveau-nées
 - Favorise un pH neutre à légèrement acide
+- Pour plantes ou crevettes
 - Stimule la croissance de plantes vigoureuses
+- Idéal pour les crevettes nouveau-nées
+- Terre volcanique riche en minéraux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JGQIY48{{</world>}}

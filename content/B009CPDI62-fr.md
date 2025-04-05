@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Capacité disque dur</b>: 2 To
 - <b>Description du produit</b>: Toshiba - DT01ACA200
-- <b>Vitesse de rotation du disque dur</b>: 7200 tr/min
-- <b>Type de produit</b>: Disque dur interne
 - <b>Forme de facteur</b>: 3,5 pouces
+- <b>Capacité disque dur</b>: 2 To
+- <b>Type de produit</b>: Disque dur interne
 - <b>Interface</b>: SATA III
+- <b>Vitesse de rotation du disque dur</b>: 7200 tr/min
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B009CPDI62{{</world>}}

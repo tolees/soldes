@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Puissance du processeur : 65 W
 - Culot LGA1700
+- Acte de base : 3 GHz
 - Prise en charge PCIe 5.0 et 4.0
 - Processeur Intel de la 12ème génération
-- Acte de base : 3 GHz
-- Puissance du processeur : 65 W
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MDDBYXZ{{</world>}}

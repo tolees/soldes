@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La DS-1 est la pédale compacte BOSS la plus vendue à ce jour.
-- Les deux modes procurent une polyvalence accrue lorsque la pédale est utilisée en booster de gain.
-- Un bouton Tone polyvalent permet un contrôle précis, pour chaque mode, dune large gamme de fréquences.
-- Un mode Standard, procurant le son légendaire de la DS-1 originale.
 - Sortie en 1978 avec les premiers modèles de la gamme compacte BOSS, la DS-1 orange redéfinissait le son de distorsion, et reste très influente de nos jours.
-- Un Buffer premium pour obtenir un son propre et clair en Bypass.
-- La DS-1W constitue la nouvelle version de la légendaire DS-1, améliorée et assemblée à la main au Japon, à laide du savoir-faire Waza, pour procurer lexpérience sonore BOSS ultime.
-- Plus de timbres et de polyvalence, sans perdre le look et les caractéristiques de la DS-1.
-- Un nouveau circuit de gain à deux étages, avec composants analogiques discrets.
 - Un mode Custom procurant des timbres plus gras, avec des médiums resserrés et une réponse au toucher améliorée.
+- Un nouveau circuit de gain à deux étages, avec composants analogiques discrets.
+- Un bouton Tone polyvalent permet un contrôle précis, pour chaque mode, dune large gamme de fréquences.
+- Plus de timbres et de polyvalence, sans perdre le look et les caractéristiques de la DS-1.
+- La DS-1W constitue la nouvelle version de la légendaire DS-1, améliorée et assemblée à la main au Japon, à laide du savoir-faire Waza, pour procurer lexpérience sonore BOSS ultime.
+- Un Buffer premium pour obtenir un son propre et clair en Bypass.
+- Les deux modes procurent une polyvalence accrue lorsque la pédale est utilisée en booster de gain.
+- La DS-1 est la pédale compacte BOSS la plus vendue à ce jour.
+- Un mode Standard, procurant le son légendaire de la DS-1 originale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BH8NDRH7{{</world>}}

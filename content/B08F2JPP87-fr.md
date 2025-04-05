@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection extrêmement élevée contre la poussière et leau (indice de protection IP67) grâce à la technologie Flex Sealing
-- Variable en continu et focalisable grâce à notre système breveté³ Advanced Focus System.
-- Parfait pour travailler : rendu élevé des couleurs, lumière blanche neutre, constante et sans scintillement
-- Contenu de livraison étendu, pour une installation et une utilisation polyvalentes
 - Éléments de protection sur le verre avant et la batterie pour une grande résistance aux chocs
+- Variable en continu et focalisable grâce à notre système breveté³ Advanced Focus System.
+- Protection extrêmement élevée contre la poussière et leau (indice de protection IP67) grâce à la technologie Flex Sealing
+- Contenu de livraison étendu, pour une installation et une utilisation polyvalentes
+- Parfait pour travailler : rendu élevé des couleurs, lumière blanche neutre, constante et sans scintillement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08F2JPP87{{</world>}}

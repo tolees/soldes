@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ks tools fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-uvre du btiment
 - Compteur spécialement développé pour les ateliers automobiles
-- 4 cbles de mesure pour le courant avec embouts dessaibornes crocodiles interrupteur rotatif central
+- Ks tools fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-uvre du btiment
 - Grand écran lcd avec écran numérique 3 ¾
+- 4 cbles de mesure pour le courant avec embouts dessaibornes crocodiles interrupteur rotatif central
 - avec protection anti-courant intégrée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

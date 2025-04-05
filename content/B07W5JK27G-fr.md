@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DOUBLE CONNECTIVITÉ - connectez la télécommande R500s à votre ordinateur via récepteur USB ou la technologie Bluetooth. Lorsquil nest pas utilisé, le récepteur USB compact peut être placé sur un dock pratique intégré à la télécommande.
-- PERSONNALISATION** - La télécommande R500s sassocie à lapplication Logitech Presentation pour que vous puissiez personnaliser la fonction des boutons, surveiller la longévité de la batterie et configurer un chronomètre à lécran pour votre présentation. **Nécessite linstallation du logiciel Logitech Presentation (disponible au téléchargement sur logitech.com).
-- PORTÉE DE FONCTIONNEMENT DE 20 MÈTRES* - Déplacez-vous et faites votre présentation librement dans un rayon de 20 mètres. Une solution idéale pour les salles moyennes à grandes. *Dépend de lenvironnement et du mode dutilisation.
-- COMPATIBILITÉ UNIVERSELLE - La télécommande laser R500s de classe 1 est optimisée pour fonctionner sous Windows, macOS, iOS, Android, ainsi quavec les principaux logiciels de présentation tels que PowerPoint, Keynote, PDF, Google Slides et Prezi.
 - GESTION INTELLIGENTE DE LA BATTERIE - la télécommande R500s fonctionne pendant 12 mois* sur une seule pile AAA. Lorsque votre batterie est faible, la télécommande R500s passe en mode déconomie dénergie, désactivant le laser pour prolonger la longévité de la pile afin que vous puissiez continuer à présenter pendant une semaine supplémentaire. *Dépend de lenvironnement et du mode dutilisation.
+- COMPATIBILITÉ UNIVERSELLE - La télécommande laser R500s de classe 1 est optimisée pour fonctionner sous Windows, macOS, iOS, Android, ainsi quavec les principaux logiciels de présentation tels que PowerPoint, Keynote, PDF, Google Slides et Prezi.
+- PORTÉE DE FONCTIONNEMENT DE 20 MÈTRES* - Déplacez-vous et faites votre présentation librement dans un rayon de 20 mètres. Une solution idéale pour les salles moyennes à grandes. *Dépend de lenvironnement et du mode dutilisation.
+- PERSONNALISATION** - La télécommande R500s sassocie à lapplication Logitech Presentation pour que vous puissiez personnaliser la fonction des boutons, surveiller la longévité de la batterie et configurer un chronomètre à lécran pour votre présentation. **Nécessite linstallation du logiciel Logitech Presentation (disponible au téléchargement sur logitech.com).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W5JK27G{{</world>}}

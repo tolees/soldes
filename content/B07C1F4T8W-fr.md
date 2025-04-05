@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
 - Présenté dans un superbe coffret cadeau Parker
 - Un corps en acier inoxydable au design élégant et raffiné
+- Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
 - Le design emblématique du Jotter désormais en version stylo plume
 - Pointe moyenne ; inclut 2 petites cartouches d’encre bleue à base d’eau
 

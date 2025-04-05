@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Afin de sauver leur école après quelle se soit transformée en un énorme château démoniaque, deux sœurs chasseuses de démons se fraient un chemin de force dans ce jeu daction-aventure en 2D.
 - Battez les boss pour obtenir de nouvelles sous-armes et accéder à de toutes nouvelles options dexploration ! Vaincre les boss permet dobtenir de nouvelles armes secondaires, offrant aux sœurs de nouvelles capacités impressionnantes. Ces armes secondaires ouvrent également de nouvelles voies et de nouveaux moyens dexplorer les lieux.
-- Si lune des sœurs tombe au combat, vous pouvez la réanimer librement grâce à la fonction « Sauvetage sororal »... pour peu que vous réussissiez à retourner à lendroit où elle est tombée.
 - Les joueurs peuvent passer dun personnage à lautre à la volée, chacun ayant des compétences totalement différentes. Avancez dans le château tout en affrontant les boss démoniaques qui vous y attendent ; chacun offre de nouvelles armes à manier, permettant une exploration plus variée et ouvrant de nouvelles voies.
 - Prenez le contrôle dune des sœurs Kamizono. Tirez parti des qualités respectives de Shinobu, douée pour les tirs à longue distance, et de Maya Kamizono, bagarreuse de mêlée, pour vous frayer un chemin dans le château. Chaque sœur dispose dun ensemble darmes secondaires uniques, ce qui vous offre une multitude doptions pour changer de stratégie lorsque le moment est venu. Nhésitez pas à les utiliser tant que vous avez des points darme en réserve !
+- Si lune des sœurs tombe au combat, vous pouvez la réanimer librement grâce à la fonction « Sauvetage sororal »... pour peu que vous réussissiez à retourner à lendroit où elle est tombée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BTJ6QWM7{{</world>}}

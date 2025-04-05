@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Graphismes HD complètement retravaillés
 - Bande originale remastérisée
-- Système de combat amélioré
-- Interface réinventée
 - La remastérisation de CRISIS CORE –FINAL FANTASY VII
+- Système de combat amélioré
+- Graphismes HD complètement retravaillés
+- Interface réinventée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5DTXFN9{{</world>}}

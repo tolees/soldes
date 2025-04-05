@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel: Autre
-- Couteau Coldsteel Kobun Serrated
 - Lame 140mm et manche en Kray-Ex noir
+- Couteau Coldsteel Kobun Serrated
 - Livré avec son étui
+- Matériel: Autre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083VSHT59{{</world>}}

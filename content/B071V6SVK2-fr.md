@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériel de haute qualité
 - Capacité de stockage: 6000 go
-- Vitesse de lecture: 5400 tr/min
 - Traitement à double cœur
+- Vitesse de lecture: 5400 tr/min
 - Matériel spécial gaming
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

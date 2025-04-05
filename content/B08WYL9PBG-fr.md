@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Code à telecharger, cartouche nos incluse dans la boite
-- Réfléchissez vite, roulez encore plus vite : lorsque vous pouvez contrôler tous les aspects de votre course, chaque décision compte !
-- Motogp à son apogée : vivez la saison 2021 de motogp, Moto2, Moto3, red bull motogp rookies cup et motoe avec les écuries et les circuits officiels.
+- Votre carrière, vos règles : votre voyage vers le championnat commence par la carrière de manager. Créez l’équipe de vos rêves
+- Jeu à récupérer sur le store Nintendo directement depuis la console
 - Gagnez avec style : qu’il s’agisse de votre façon de piloter ou de votre apparence de pilote, le style est clé dans Motogp21.
 - Remarque : Il n’ y a pas de cartouche mai seulement un code
-- Jeu à récupérer sur le store Nintendo directement depuis la console
-- Votre carrière, vos règles : votre voyage vers le championnat commence par la carrière de manager. Créez l’équipe de vos rêves
+- Motogp à son apogée : vivez la saison 2021 de motogp, Moto2, Moto3, red bull motogp rookies cup et motoe avec les écuries et les circuits officiels.
+- Réfléchissez vite, roulez encore plus vite : lorsque vous pouvez contrôler tous les aspects de votre course, chaque décision compte !
 - Amusez-vous à un tout nouveau niveau en défiant d’autres joueurs en ligne ou créez votre propre événement en mode directeur de course
+- Code à telecharger, cartouche nos incluse dans la boite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WYL9PBG{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dbit max : 842 m/h
+- 601205000
 - METABO 601205000 - Aspirador de virutas SPA 1200 - monofásica
 - Surface filtre : 2 m
-- Dbit max : 842 m/h
 - Capacit du sac : 60 l
-- 601205000
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008BGUVOA{{</world>}}

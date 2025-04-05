@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spécialement conçue pour être insérée dans le port SD de votre MacBook Pro.
-- Compatible avec MacBook Pro (Retina) 15" (Mi 2012 ~ Début 2013)
-- Jusquà 95 Mo/s de lecture; 55 Mo/s écriture
 - ECC intégré (Error Correction Code)
+- Spécialement conçue pour être insérée dans le port SD de votre MacBook Pro.
 - Capacités disponibles: 128 Go et 256 Go
+- Jusquà 95 Mo/s de lecture; 55 Mo/s écriture
+- Compatible avec MacBook Pro (Retina) 15" (Mi 2012 ~ Début 2013)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00WGARJG0{{</world>}}

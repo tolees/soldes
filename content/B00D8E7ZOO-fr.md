@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dégage les voies respiratoires, réduit la fatigue, calme les démangeaisons, aide à la digestion, calme les règles douloureuses
 - Soulage les articulations, anti-stress, aide à la concentration, répare les cheveux secs, parfum dambiance
+- Dégage les voies respiratoires, réduit la fatigue, calme les démangeaisons, aide à la digestion, calme les règles douloureuses
 - Agriculture raisonnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

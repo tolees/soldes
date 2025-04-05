@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- OPPO Summer 2022 Find & Reno Series, du 20 juillet au 31 aout 2022, jusqu’à 100€ remboursés
-- [PHOTOGRAPHIE] 64MP capteur principal + 8MP ultra grand-angle + 2MP Macro, Caméra frontale 32MP avec Sony IMX615 et MODE PORTRAIT PRO : 25 niveaux de focale, créez sur mesure un portrait de qualité professionnelle
 - [PERFOMANCE] Processeur : MTK Dimensity 900 5G, processus de gravure en 6 nm à la pointe de lindustrie et SoC 5G octa-core et une fluidité certifiée rang A par TÜV SÜD après 36 mois. Un smartphone qui reste fluide dans la durée grâce a HyperBoost un Booster système intelligent pour une expérience gaming améliorée
 - [AUTONOMIE] Jusquà 2 jours dutilisation, une batterie de 4500 mAh pour une utilisation sans stress de votre mobile. CHARGE SÉCURISÉE DE 0 À 100% EN 34 MIN. SUPERVOOC 65W : une charge basse tension ultra rapide et sécurisée
+- [PHOTOGRAPHIE] 64MP capteur principal + 8MP ultra grand-angle + 2MP Macro, Caméra frontale 32MP avec Sony IMX615 et MODE PORTRAIT PRO : 25 niveaux de focale, créez sur mesure un portrait de qualité professionnelle
 - [STOCKAGE] 8 Go RAM + 256 Go ROM, avec extension de la RAM, Possibilité d’ajouter jusqu’à 1 To de stockage et 5 Go de RAM virtuelle
 - [ÉCRAN] écran ULTRA FLUIDE de 6.43""AMOLED 90HZ, Certification SGS Eye Care. Un meilleur confort des yeux grâce à un affichage ultra fluide
+- OPPO Summer 2022 Find & Reno Series, du 20 juillet au 31 aout 2022, jusqu’à 100€ remboursés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TBKPRT3{{</world>}}

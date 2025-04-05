@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pale de ventilateur de 120 mm faible bruit : Pale de ventilateur semi-transparente conçue pour fonctionner silencieusement tout en permettant de laisser passer votre éclairage RGB.
-- Contrôleur de liCUE Lighting Node CORE inclus : Contrôlez votre éclairage RGB via le logiciel CORSAIR iCUE avec ce contrôleur d’éclairage iCUE extrêmement compact.
-- 102 LED RGB paramétrables individuellement : Quatre zones d’éclairage et 34 LED par ventilateur diffusant des couleurs envoûtantes et offrant des effets impressionnants sous tous les angles.
-- Refroidissement de votre système : Vitesses de rotation impressionnantes allant jusqu’à 1 500 tr/min et flux d’air pouvant atteindre 41,8 CFM.
 - Contrôle intelligent, possibilités infinies : Créez des effets de lumière animés saisissants via le logiciel CORSAIR iCUE pour donner vie à votre système grâce à un éclairage RGB dynamique.
+- Refroidissement de votre système : Vitesses de rotation impressionnantes allant jusqu’à 1 500 tr/min et flux d’air pouvant atteindre 41,8 CFM.
+- Contrôleur de liCUE Lighting Node CORE inclus : Contrôlez votre éclairage RGB via le logiciel CORSAIR iCUE avec ce contrôleur d’éclairage iCUE extrêmement compact.
 - Boîtier blanc éclatant : Réfléchit la lumière pour amplifier l’éclairage tout en complétant élégamment le design clair et épuré des autres composants CORSAIR blancs de votre configuration.
+- 102 LED RGB paramétrables individuellement : Quatre zones d’éclairage et 34 LED par ventilateur diffusant des couleurs envoûtantes et offrant des effets impressionnants sous tous les angles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083X4VCLB{{</world>}}

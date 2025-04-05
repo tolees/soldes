@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour parfaire votre routine de soins, découvrez dans la même gamme laprès-shampooing Beurre de Karité Brut de Shea Moisture
-- Le shampooing femme Beurre de Karité Brut Shea Moisture fortifie et revitalise les cheveux endommagés
-- Idéal pour les cheveux de type 3A à 4C, il convient aux cheveux secs, sur-traités, en transition ou naturels
-- Enrichi en beurre de karité issu du commerce équitable, en huile dargan et en varech, ce shampooing hydratant nourrit en profondeur les cheveux abîmés
-- Formulé sans sulfate pour un nettoyage plus doux pour vos cheveux et sans silicone pour un volume naturel
 - Tous les produits pour cheveux Shea Moisture sont fabriqués de manière durable avec du beurre de karité issu du commerce équitable et ne contiennent aucun ingrédient ayant été testé sur les animaux
+- Enrichi en beurre de karité issu du commerce équitable, en huile dargan et en varech, ce shampooing hydratant nourrit en profondeur les cheveux abîmés
+- Pour parfaire votre routine de soins, découvrez dans la même gamme laprès-shampooing Beurre de Karité Brut de Shea Moisture
+- Idéal pour les cheveux de type 3A à 4C, il convient aux cheveux secs, sur-traités, en transition ou naturels
+- Formulé sans sulfate pour un nettoyage plus doux pour vos cheveux et sans silicone pour un volume naturel
+- Le shampooing femme Beurre de Karité Brut Shea Moisture fortifie et revitalise les cheveux endommagés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01HOD3W8C{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Qualité dimage HDR : scènes plus sombres et plus lumineuses pour suivre laction jusque dans les moindres détails, optimisateur de contraste pour optimiser la profondeur et les couleurs, Motion Xcelerator pour une expérience de jeu extraordinaire avec des images fluides
 - Smart TV 43 pouces, processeur Crystal 4K avec résolution 4K pour des nuances de couleurs vives et réalistes, technologie Dynamic Crystal Color pour des couleurs pures et scintillantes comme les cristaux, design AirSlim élégant et fin, support ajustable.
 - ^Contenu : 1 téléviseur Samsung Smart TV 43" série CU8070, Crystal UHD 4K, classe defficacité énergétique G, comprend SolarCell télécommande, câble dalimentation et mode demploi, Dimensions avec socle (LxHxP) : 96,55 x 60,01 x 19,51 cm, poids avec socle : 8,7 kg, couleur : noir
-- Qualité dimage HDR : scènes plus sombres et plus lumineuses pour suivre laction jusque dans les moindres détails, optimisateur de contraste pour optimiser la profondeur et les couleurs, Motion Xcelerator pour une expérience de jeu extraordinaire avec des images fluides
 - ^Gaming Hub pour un accès facile et rapide aux jeux, Smart Hub pour organiser votre contenu et réunir vos films, jeux et programmes préférés en un seul endroit, fonctionnalité SmartThings pour contrôler tous les appareils intelligents directement depuis le téléviseur
 - ^OTS Lite : son surround 3D synchronisé avec laction pour un son expérience pour une expérience sonore totalement immersive, Q- Symphony pour une harmonie parfaite entre la barre de son et les haut-parleurs du téléviseur, Adaptive Sound pour un son calibré en fonction du contenu
 

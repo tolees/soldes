@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONTENU : Un plan de jeu, onze pièces de jeu, un livret de 60 défis et toutes les solutions.
-- JEU DE SOCIETE : Un virus sest introduit dans lune de vos cellules. Pourrez-vous vous en débarrasser avant quil ne se soit multiplié ?
 - JEU EDUCATIF : Ce jeu stimule les compétences cognitives suivantes : concentration, intelligence spatiale, logique, planification et résolution de problèmes.
 - JEU DE LOGIQUE : Positionnant les seules pièces de départ comme demandé dans le défi choisi, vous devrez programmer dans le bon ordre les mouvements de vos éléments pour libérer le seul espace par lequel faire sortir l’intrus.
+- JEU DE SOCIETE : Un virus sest introduit dans lune de vos cellules. Pourrez-vous vous en débarrasser avant quil ne se soit multiplié ?
 - JEU DE REFLEXION : Alors que la cellule (le plateau de jeu) contient peu de place, vous allez devoir gérer le déplacement des molécules (pièces de couleur) qui se gênent pour en extraire le virus (pièce rouge).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

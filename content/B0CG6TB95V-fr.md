@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 15 outils adaptés à tous vos besoins : rasage de la barbe, entretien des poils du corps, coupe des cheveux, taille des poils du nez/des oreilles. 26 hauteurs de coupe (de 0,5 à 16 mm) adaptées à tous les styles de barbes.
+- Batterie lithium-ion puissante : profitez de 120 minutes dautonomie ainsi que dune option de charge rapide de 5 minutes grâce au câble de recharge USB-A (adaptateur secteur non inclus).
 - Coupe et taille 30 % plus rapide* : la tondeuse extra-large en acier inoxydable de 41 mm coupe plus de poils et de cheveux à chaque passage que nimporte quel autre modèle.
 - Sabot de précision : profitez des 11 hauteurs de coupe (de 1 à 3 mm) par pas de 0,2 mm pour une coupe uniforme à la longueur de votre choix
-- Batterie lithium-ion puissante : profitez de 120 minutes dautonomie ainsi que dune option de charge rapide de 5 minutes grâce au câble de recharge USB-A (adaptateur secteur non inclus).
 - Lames en acier inoxydable auto-affûtées : vos lames restent affûtées comme au premier jour pour des performances durables. Pas besoin de lubrifier la lame.
+- 15 outils adaptés à tous vos besoins : rasage de la barbe, entretien des poils du corps, coupe des cheveux, taille des poils du nez/des oreilles. 26 hauteurs de coupe (de 0,5 à 16 mm) adaptées à tous les styles de barbes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CG6TB95V{{</world>}}

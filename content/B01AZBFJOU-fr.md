@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LEJK1000 Ibanez permet de régler rapidement et facilement lintonation grâce à sa simplicité dinstallation et de fonctionnement.
-- Matériau : acier inoxydable (corps), Duralumin (griffe) ; pas besoin de desserrer les mécaniques ou de retirer les cordes ; pour chevalets vibratos Ibanez Edge, Lo-Pro Edge et Edge-Pro
 - Ajusteur dintonation
+- Matériau : acier inoxydable (corps), Duralumin (griffe) ; pas besoin de desserrer les mécaniques ou de retirer les cordes ; pour chevalets vibratos Ibanez Edge, Lo-Pro Edge et Edge-Pro
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01AZBFJOU{{</world>}}

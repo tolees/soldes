@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfum rafraîchissant et stimulant longue durée pour un usage quotidien.
 - Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
+- Parfum rafraîchissant et stimulant longue durée pour un usage quotidien.
 - LEau de Toilette Azzaro Chrome est un parfum rafraîchissant et durable inspiré de la Méditerranée et de son éclat vivifiant. Elle allie les notes aquatiques et dagrumes du musc transparent et de la bergamotte, avec les notes boisées du santal et de lambre.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

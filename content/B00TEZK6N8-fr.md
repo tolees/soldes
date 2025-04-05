@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un premier jeu de 2 ans pour apprendre à trouver les oppositions pour les associer
 - Développez son vocabulaire en apprenant à nommer et à décrire les images
+- Lenfant joue à associer un élément à son opposé
+- Un premier jeu de 2 ans pour apprendre à trouver les oppositions pour les associer
 - Au total 6 jeux progressifs pour découvrir les contraires en jouant seul ou à plus
 - Images affectives aux couleurs vives
-- Lenfant joue à associer un élément à son opposé
 - Grandes pièces en carton solide pour une manipulation facile par un enfant autour de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

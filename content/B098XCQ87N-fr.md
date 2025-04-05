@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les produits de sport Puma sont conçus pour vous permettre de profiter de votre sport préféré sans vous soucier de rien dautre que de vous rendre au maximum
-- Vêtement de sport multicolore de la marque Puma
-- Vêtement de sport fabriqué avec des matériaux de première qualité qui sadaptent à toutes les activités sportives
 - Survêtement Poly Suit cl B Peacoat
+- Vêtement de sport fabriqué avec des matériaux de première qualité qui sadaptent à toutes les activités sportives
+- Vêtement de sport multicolore de la marque Puma
 - Survêtement pour enfant, idéal pour les loisirs et le sport
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GRANDE CAPACITɠ: ce coffre isotherme à roulettes offre une capacité de 56 l pour les aliments et les boissons et peut contenir 96 canettes de 33 cl et même des bouteilles de 1,5 l debout
-- EFFICACE PENDANT DES JOURS : cette glacière passive à parois pleines en mousse PU dotée d’un couvercle hermétique maintient les denrées au frais pendant 4 jours
+- BIEN ÉQUIPÉE : deux roulettes solides et une poignée télescopique ; poignées facilitant le transport ; couvercle rabattable avec poignée en creux ; quatre porte-gobelets moulés pour verres ou canettes
 - POLYVALENTE : grande glacière résistante avec 2 roulettes et une poignée solide ; grande efficacité ; idéale pour tente, camping, festival, excursion, partie de pêche, barbecue, pique-nique ou plage
 - Dimensions int./ext. : 49 x 34 x 35/57 x 44 x 45 cm ; poids : 5,6 kg ; capacité : 56 l ; maintient au frais pendant 4 jours ; surface lisse facile à nettoyer ; sans BPA ; isolation en mousse PU
-- BIEN ÉQUIPÉE : deux roulettes solides et une poignée télescopique ; poignées facilitant le transport ; couvercle rabattable avec poignée en creux ; quatre porte-gobelets moulés pour verres ou canettes
+- GRANDE CAPACITɠ: ce coffre isotherme à roulettes offre une capacité de 56 l pour les aliments et les boissons et peut contenir 96 canettes de 33 cl et même des bouteilles de 1,5 l debout
+- EFFICACE PENDANT DES JOURS : cette glacière passive à parois pleines en mousse PU dotée d’un couvercle hermétique maintient les denrées au frais pendant 4 jours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084ZNZV3S{{</world>}}

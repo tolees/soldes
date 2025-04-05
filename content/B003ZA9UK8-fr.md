@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble dalimentation pour connecter divers appareils tels que BlueRay, lecteurs CD et DVD, téléviseurs, écrans plats, magnétophones à cassettes, ordinateurs portables, radios, radio-cassette, rasoirs et bien plus encore
 - Raccordement 1 : Fiche Euro (type C, CEE 7/16); Raccordement 2 : Prise C7; Tension éléctrique 250 V (AC)
-- Longueur: 3 m; types de câble en abrégé: H03-VV-VV-H2-F2-F2; conducteur intérieur, section des conducteurs 0,75mm²; conducteur intérieur, nombre de conducteurs: 2; intensité maximale admissible 2,5 A
 - Convient également pour les consoles de jeux modernes comme PlayStation (PS2, PS3, PS4) et Xbox
+- Longueur: 3 m; types de câble en abrégé: H03-VV-VV-H2-F2-F2; conducteur intérieur, section des conducteurs 0,75mm²; conducteur intérieur, nombre de conducteurs: 2; intensité maximale admissible 2,5 A
+- Câble dalimentation pour connecter divers appareils tels que BlueRay, lecteurs CD et DVD, téléviseurs, écrans plats, magnétophones à cassettes, ordinateurs portables, radios, radio-cassette, rasoirs et bien plus encore
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003ZA9UK8{{</world>}}

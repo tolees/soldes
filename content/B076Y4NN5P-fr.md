@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pression (bar) max. 150 ; Puissance absorbée (kW) 2,2 ; Débit (l/h) max. 440 ; Température eau dalimentation (°C) max. 50
+- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
+- Nettoyeur haute pression idéal pour éliminer la saleté tenace sur les surfaces domestiques extérieures, les grilles, les bancs, les meubles et outils de jardin, les motos, les voitures, les escaliers et les piscines
 - Fonction auto-amorçante : si le raccordement au réseau d’eau est impossible, le nettoyeur haute pression peut aspirer l’eau dans un réservoir extérieur
 - 6 accessoires à accrocher après emploi sur larrière du nettoyeur et pratique enrouleur intégré avec système de blocage
-- Nettoyeur haute pression idéal pour éliminer la saleté tenace sur les surfaces domestiques extérieures, les grilles, les bancs, les meubles et outils de jardin, les motos, les voitures, les escaliers et les piscines
-- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076Y4NN5P{{</world>}}

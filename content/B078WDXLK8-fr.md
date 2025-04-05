@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu léger
 - Logo PUMA Cat ultra-brillant sur la jambe gauche
 - 100 % polyester
+- Tissu léger
 - Taille élastique avec lettrages PUMA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

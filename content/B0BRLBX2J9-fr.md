@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec un taux de rafraichissement de 240Hz et un temps de réponse de 1ms pour une réaction proche de linstantanée
-- Une station de jeu sophistiqué au design coloré avec léclairage Infinity Core et un pied ergonomique réglable pour votre confort
-- Technologies AMD FreeSync Premium pour la stabilité et la fluidité des scènes rapides et complexes de vos jeux
 - Contenu: 1x Samsung Moniteur Gaming Odyssey G9, Écran PC 49" Incurvé Résolution DWQHD 5120x1440, Noir, LC49G93TSSPXEN
+- Technologies AMD FreeSync Premium pour la stabilité et la fluidité des scènes rapides et complexes de vos jeux
+- Une station de jeu sophistiqué au design coloré avec léclairage Infinity Core et un pied ergonomique réglable pour votre confort
 - Écran PC de 49 pouces Incurvé 1000R, doté dune dalle VA associée à la résolution DWQHD pour des images analysées et optimisées dans les moindres détails
 
 [🛒 Achète-le!!]({{< param buyurl >}})

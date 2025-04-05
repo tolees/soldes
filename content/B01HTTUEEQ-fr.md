@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN NETTOYAGE DE CHAÎNE COMPLET : Le PACK CHAINE ROUTE est conçu pour l’entretien complet de votre chaîne. Il contient un dégraissant chaîne efficace contre les graisses les plus tenaces, accompagné de sa brosse, et une graisse de chaîne route high tech longue tenue - 800 km - dans des conditions extrêmes.
-- GRAISSE DE CHAÎNE : X-TREM CHAIN ROAD est LA graisse de chaine ultime pour moto de route avec une tenue longue durée, 800km, dans des conditions extrêmes. Elle garantit une adhérence optimale sur la chaîne et sèche rapidement afin d’éviter les projections sur la jante.
-- BROSSE CHAÎNE : Fournie dans ce pack, la brosse de chaîne permet un nettoyage optimal de la chaîne et du pignon. Grâce à sa tête à trois faces, elle désincruste toutes les graisses et autres salissures même les plus tenaces. La partie pinceau quant à elle permet d’atteindre chaque petit recoin. Avec la brosse, nettoyez votre chaîne, rapidement, confortablement et proprement tout en réduisant votre consommation de dégraissant !
 - DIFFUSEUR MULTI-POSITIONS : CHAIN CLEANER et X-TREM CHAIN ROAD sont dotés d’un diffuseur multi-positions qui permet une pulvérisation large ou bien une application précise. Sa tige est pratique pour atteindre et traiter les zones les plus difficiles d’accès. Fixée sur le spray, elle se plie et se déplie en un geste. Fini la tige que l’on perd dans l’atelier après 2 utilisations !
+- BROSSE CHAÎNE : Fournie dans ce pack, la brosse de chaîne permet un nettoyage optimal de la chaîne et du pignon. Grâce à sa tête à trois faces, elle désincruste toutes les graisses et autres salissures même les plus tenaces. La partie pinceau quant à elle permet d’atteindre chaque petit recoin. Avec la brosse, nettoyez votre chaîne, rapidement, confortablement et proprement tout en réduisant votre consommation de dégraissant !
+- UN NETTOYAGE DE CHAÎNE COMPLET : Le PACK CHAINE ROUTE est conçu pour l’entretien complet de votre chaîne. Il contient un dégraissant chaîne efficace contre les graisses les plus tenaces, accompagné de sa brosse, et une graisse de chaîne route high tech longue tenue - 800 km - dans des conditions extrêmes.
 - NETTOYANT CHAÎNE : CHAIN CLEANER élimine efficacement les graisses et les saletés incrustées entre les maillons.
+- GRAISSE DE CHAÎNE : X-TREM CHAIN ROAD est LA graisse de chaine ultime pour moto de route avec une tenue longue durée, 800km, dans des conditions extrêmes. Elle garantit une adhérence optimale sur la chaîne et sèche rapidement afin d’éviter les projections sur la jante.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01HTTUEEQ{{</world>}}

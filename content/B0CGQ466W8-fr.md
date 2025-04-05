@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Robustesse: résiste aux chutes jusquà 3 mètres³, bonne tenue en main grâce à sa surface antidérapante et sécurité supplémentaire avec la garantie de 5 ans
 - Transfert de données ultra-rapide avec des vitesses de lecture/écriture séquentielles allant jusquà 2.000 Mo/s¹ pour booster votre efficacité
-- 1 x Samsung SSD Externe T9 Portable, 1 To, Noir, MU-PG1T0B/EU, Câble USB C vers C, Câble USC vers A, notice dutilisation
 - Compatibilité polyvalente pour être multitâche: Windows, MacOS, PC, appareils Android, consoles de jeux, Caméras 12K et bien plus encore
+- 1 x Samsung SSD Externe T9 Portable, 1 To, Noir, MU-PG1T0B/EU, Câble USB C vers C, Câble USC vers A, notice dutilisation
 - Performance maximale grâce à son logiciel de pointe Samsung Magician⁸
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

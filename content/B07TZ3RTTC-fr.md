@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très longue durée de vie avec 25 000 heures
-- Alimentation électrique par câble de 1 m de long avec connexions ouvertes
-- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
-- Utilisation en extérieur irréprochable grâce à la classe de protection IP44
 - Matériau du boîtier en aluminium de haute qualité
 - Technologie LED la plus récente et durable ; aucune ampoule ordinaire nest incluse
 - Capteur de lumière du jour et de mouvement personnalisable avec circuit de détection de 2 à 9 m
+- Alimentation électrique par câble de 1 m de long avec connexions ouvertes
+- Très longue durée de vie avec 25 000 heures
+- Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
+- Utilisation en extérieur irréprochable grâce à la classe de protection IP44
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TZ3RTTC{{</world>}}

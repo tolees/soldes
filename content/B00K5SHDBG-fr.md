@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mèche de défonceuse : Fraise à chanfreiner avec roulement 2 tranchants 45° D. 45 mm x Lu. 18 x Q. 12 mm - 936.920.11 - CMT
-- Type : Mèche à chanfreiner - Matière : HM - Carbure - Longueur : ..@18 mm
 - CMT 936.920.11 - Fresa para biselar c/rodam. 45 grados hm s=12 d=45
+- Type : Mèche à chanfreiner - Matière : HM - Carbure - Longueur : ..@18 mm
 - Diamètres : .@45 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

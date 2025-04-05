@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Espace de stockage généreux jusqu’à 4To
+- Technologie NVMe (PCIe Gen4 x4) avec jusqu’à 5000 Mo/s de lectures séquentielles, lecture/écriture aléatoire 650K/800K IOPS
 - Évalué à MTTF supérieur à 1,5 million d’heures pour une longévité et une fiabilité prolongées
 - Endurance : 220 Nombre total d’octets écrits (TBW)
-- Rétrocompatibilité avec Gen3
 - Jusqu’à 43% plus rapide que les SSD NVMe Gen3 les plus performants
-- Technologie NVMe (PCIe Gen4 x4) avec jusqu’à 5000 Mo/s de lectures séquentielles, lecture/écriture aléatoire 650K/800K IOPS
+- Rétrocompatibilité avec Gen3
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B25NXWC7{{</world>}}

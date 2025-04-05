@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- Avec des obstacles modulables
-- Dimensions : 50 x 42 x 19 cm (L x P x H)
 - Produit de bon qualité
+- Dimensions : 50 x 42 x 19 cm (L x P x H)
 - Sofia et Lisa franchissent les nombreux obstacles avec bravoure et reçoivent une pluie d’applaudissements sur le podium
+- Avec des obstacles modulables
 - Figurine/selle/bride amovibles
+- Durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08W4M6FWK{{</world>}}

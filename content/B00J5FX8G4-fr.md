@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Calme les irritations locales grâce au bisabolol
 - Hydratation et nutrition en profondeur pour des lèvres douces et soignées
-- Protège et répare les lèvres, le nez et la zone périorale
-- Réparateur à lèvres avec texture fluide avec acide hyaluronique
 - Aide à la régénération de la peau et rétablit la fonction barrière
+- Réparateur à lèvres avec texture fluide avec acide hyaluronique
+- Protège et répare les lèvres, le nez et la zone périorale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00J5FX8G4{{</world>}}

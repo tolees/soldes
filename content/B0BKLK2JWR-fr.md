@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - The story begins seven years before the events of FINAL FANTASY VII (1997) and follows Zack Fair, a young and ambitious Shinra SOLDIER operative. Zack is tasked with tracking down a missing SOLDIER 1st Class operative named Genesis Rhapsodos.
-- Remaster of the original CRISIS CORE –FINAL FANTASY VII-, featuring a complete HD graphics overhaul, a remastered soundtrack, a reimagined UI, and an updated combat system.
 - But as his adventure unfolds, he discovers the dark secrets of Shinra’s experiments and the monsters they create. The game features a number of characters from the FINAL FANTASY VII franchise such as Cloud, Sephiroth, Aerith and others.
+- Remaster of the original CRISIS CORE –FINAL FANTASY VII-, featuring a complete HD graphics overhaul, a remastered soundtrack, a reimagined UI, and an updated combat system.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKLK2JWR{{</world>}}

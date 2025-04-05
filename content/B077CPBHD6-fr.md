@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Température de fonctionnement: -25-40 °C
-- Température ambiante pour le stockage: -40-80 °C
 - Humidité relative: 95 % à 55 °C
+- Température ambiante pour le stockage: -40-80 °C
 - Schneider : spécialiste de la gestion de lénergie et de lautomatisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Détection IA gratuite pour les personnes/animaux/véhicules】 Grâce à la technologie IA, la caméra fournit des alertes (lorsquelle est activée) lorsquelle identifie les personnes, les animaux domestiques et les véhicules, réduisant ainsi les fausses alertes et les notifications inutiles, le tout gratuitement
 - 【Gardez toujours un œil sur ce qui compte】 Vision nocturne en couleur : améliore votre sécurité en révélant des images plus lumineuses et des détails éclatants, même dans des conditions de faible luminosité, grâce aux projecteurs intégrés et au capteur StarLight, zones dactivité : configurez une détection personnalisée pour que seuls les éléments importants vous alertent
 - 【Sans fil, sinstalle presque partout】 Utilisation en extérieur : cette caméra WiFi alimentée par batterie offre une installation 100% sans fil grâce à sa base magnétique, Réglages et accès faciles à la batterie, des fortes pluies à la poussière, la Tapo C425 est conçue pour lextérieur grâce à son étanchéité IP66 à toute épreuve
+- 【2K QHD et champ de vision super large de 150°】 Capturez des vidéos et des détails plus nets tels que les plaques dimmatriculation et les petits objets avec 1,7 fois plus de pixels par rapport au Full HD 1080p, voyez plus large et plus loin avec un champ de vision ultra large de 150°
 - 【Un pouvoir durable】 Réduisez les tracas liés à la recharge des batteries grâce à sa batterie de 10 000 mAh garantissant jusquà 300 jours de performances ininterrompues, alimentation continue via lénergie solaire (en option) — Le panneau solaire Tapo A200 élimine ainsi le besoin de charger complètement la batterie
 - 【Alarmes sonores et lumineuses personnalisables et aucun Hub de connexion requis】 Réglez la caméra pour quelle déclenche une alarme lorsquun mouvement est détecté à certains moments, vous pouvez même enregistrer votre propre audio comme alarme et régler la luminosité des deux projecteurs pour des alertes personnalisées, cConnectez la caméra à votre réseau sans fil avec WiFi pour une installation plus flexible
-- 【2K QHD et champ de vision super large de 150°】 Capturez des vidéos et des détails plus nets tels que les plaques dimmatriculation et les petits objets avec 1,7 fois plus de pixels par rapport au Full HD 1080p, voyez plus large et plus loin avec un champ de vision ultra large de 150°
+- 【Détection IA gratuite pour les personnes/animaux/véhicules】 Grâce à la technologie IA, la caméra fournit des alertes (lorsquelle est activée) lorsquelle identifie les personnes, les animaux domestiques et les véhicules, réduisant ainsi les fausses alertes et les notifications inutiles, le tout gratuitement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CMCWXPFX{{</world>}}

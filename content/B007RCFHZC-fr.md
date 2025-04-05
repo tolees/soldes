@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CMT 272.165.36H - Sierra circular (ultra itk) 165x1.5x20 z=36
-- Trou 20 (+ 15.87) mm
 - 36 dents
 - Epaisseur du corps de la lame 1.7 mm
+- CMT 272.165.36H - Sierra circular (ultra itk) 165x1.5x20 z=36
+- Trou 20 (+ 15.87) mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007RCFHZC{{</world>}}

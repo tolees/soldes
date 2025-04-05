@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Better Leather
-- Matériau extérieur : 100 % cuir de vachette
 - Semelle : 80 % TPU - 20 % TPU recyclé
 - Couleur : noir
+- Matériau extérieur : 100 % cuir de vachette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM4ZZ982{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grace à la technologie Target Wake, le système se connecte uniquement lorsquun signal de transmission est reçu, sinon il reste en veille pour réduire efficacement la consommation dénergie
 - Possibilité de connecter jusquà 254 appareils simultanément
-- Prise en charge du contrôle intelligent via lapplication Xiaomi Home/Mi Home
 - Système Mesh Wi-Fi 6 ultra rapide, jusquà 2976 Mbits/s
+- Prise en charge du contrôle intelligent via lapplication Xiaomi Home/Mi Home
+- Grace à la technologie Target Wake, le système se connecte uniquement lorsquun signal de transmission est reçu, sinon il reste en veille pour réduire efficacement la consommation dénergie
 - Transmission OFDMA haute efficacité permettant de traiter simultanément les flux de données provenant de plusieurs appareils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

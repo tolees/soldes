@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans souvenirs après vous être réveillé à l’Auberge du Dragon, devenez un chasseur de primes en utilisant le Demon Gaze, un œil qui contrôle les Démons. Croisez le fer avec les Démons qui rôdent dans les labyrinthes ténébreux de la région.
-- Parviendrez-vous à dompter les démons en furie ? Un petit bijou vidéoludique qui garantit de captiver les anciens contemplateurs de démons, ainsi que les nouveaux fans de donjon-RPG !
 - Guidée par l’enfant céleste, une nouvelle destinée prend forme… Aventurez vous dans la région de Misrid, ancienne contrée paisible du monde de Demon Gaze, aujourdhui dévastée par une malédiction à la suite d’une anicienn et terrible tragédie.
+- Parviendrez-vous à dompter les démons en furie ? Un petit bijou vidéoludique qui garantit de captiver les anciens contemplateurs de démons, ainsi que les nouveaux fans de donjon-RPG !
 - Donjon-RPG au succès déjà phénoménal au Japon, avec son système novateur, son intrigue palpitante, des défis stimulants et des visuels qui subliment le gameplay, DEMON GAZE EXTRA possède tous les éléments qui donnent au genre ses lettres de noblesse.
 - Lédition Day One comprend une couverture réversible, un bâton de guérison et un coffret cadeau de gemmes darmure. Versions Européennes jouables en Anglais
+- Sans souvenirs après vous être réveillé à l’Auberge du Dragon, devenez un chasseur de primes en utilisant le Demon Gaze, un œil qui contrôle les Démons. Croisez le fer avec les Démons qui rôdent dans les labyrinthes ténébreux de la région.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BK7B74QS{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Part number: ABU10KS200
 - ABUS contribue de manière responsable à la protection des personnes et des objets de valeur, en prenant soin, dans de nombreux domaines de la vie, de ce plus en matière de sécurité
 - Couleur: Noir
+- Part number: ABU10KS200
 - Composants inclus: chaîne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

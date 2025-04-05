@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coffret de construction Signature MEGA au design authentique, présentant des détails soignés et des décorations fidèles à l’univers de la franchise !
-- 6 mini-figurines articulées richement détaillées sont incluses : Musclor Tonnerre, Dragon Blaster Skeletor avec son dragon et Screeech, Démonia, Dentos, Webstor et Bélios Elles s’accompagnent de présentoirs et d’armes interchangeables telles que le bâton du Havoc, les glaives magiques jaune et violet transparents, ou encore le sac à dos araignée doté d’un grappin fonctionnel
 - Le coffret contient des éléments mobiles tels qu’une tête de démon avec mâchoire articulée, une trappe au sommet qui s’ouvre sur une fosse aux monstres, un pont suspendu, un mur destructible, un totem à tête de loup amovible et un serpent articulé au niveau de la tête et du corps
-- Montagne du Serpent à construire, se replie entièrement pour jouer à l’intérieur comme à l’extérieur ou pour l’exposer (la montagne s’ouvre horizontalement)
 - Expérience collaborative : la Montagne du Serpent a été conçue pour être assemblée avec un ami, mais les amateurs de défis corsés peuvent également l’assembler seuls
+- Montagne du Serpent à construire, se replie entièrement pour jouer à l’intérieur comme à l’extérieur ou pour l’exposer (la montagne s’ouvre horizontalement)
+- 6 mini-figurines articulées richement détaillées sont incluses : Musclor Tonnerre, Dragon Blaster Skeletor avec son dragon et Screeech, Démonia, Dentos, Webstor et Bélios Elles s’accompagnent de présentoirs et d’armes interchangeables telles que le bâton du Havoc, les glaives magiques jaune et violet transparents, ou encore le sac à dos araignée doté d’un grappin fonctionnel
+- Coffret de construction Signature MEGA au design authentique, présentant des détails soignés et des décorations fidèles à l’univers de la franchise !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NZBVS1N{{</world>}}

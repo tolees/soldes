@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matelas à ressorts ensachés avec carénage périmétral | Garnissage en mousse à mémoire de forme pour une parfaite ergonomie | Tissu ignifugé
-- Le matelas Orsay Spring de Kuo Dream s’adapte à toutes les saisons. Le garnissage de la face hiver du matelas est composé de ViscoGel, ce qui apporte plus de confort. La face été avec tissu maille 3D offre une sensation de fraîcheur et de respirabilité
 - Fabriqué 100 % en Espagne, chez Kuo Dream nous respectons la norme 100 STANDARD by OEKO-TEX, un système de contrôle des produits liés au textile, textiles bruts et finis certifiés à chaque étape de traitement, y compris de fabrication
 - Excellente indépendance de couchage | Le matelas est envoyé sous format compressé roulé et emballé sous vide. | Nous conseillons de laisser le matelas pendant au moins 24 heures pour reprendre sa forme initiale
 - Dimensions 160 x 200 | Épaisseur 26cm | Fermeté Moyenne
+- Le matelas Orsay Spring de Kuo Dream s’adapte à toutes les saisons. Le garnissage de la face hiver du matelas est composé de ViscoGel, ce qui apporte plus de confort. La face été avec tissu maille 3D offre une sensation de fraîcheur et de respirabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0914VRYM3{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU DE REFLEXION : Place judicieusement les pièces nécessaires à la construction de chemins et de ponts pour te rendre d’une pagode à l’autre !
-- JEU EDUCATIF : Ce jeu stimule les compétences cognitives suivantes : adaptabilité, concentration, intelligence spatiale, planification et résolution de problèmes.
-- JEU DE CONCENTRATION : Quels étages de chaque pagode relieras-tu ensemble pour trouver la solution ?
 - CONTENU : Un plan de jeu, trois pagodes, sept pièces de jeu et un livret de 80 défis et toutes les solutions.
+- JEU DE REFLEXION : Place judicieusement les pièces nécessaires à la construction de chemins et de ponts pour te rendre d’une pagode à l’autre !
 - NIVEAUX DE JEU : Découvre 80 défis de niveau de difficulté croissant.
+- JEU DE CONCENTRATION : Quels étages de chaque pagode relieras-tu ensemble pour trouver la solution ?
+- JEU EDUCATIF : Ce jeu stimule les compétences cognitives suivantes : adaptabilité, concentration, intelligence spatiale, planification et résolution de problèmes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B071XTT4NF{{</world>}}

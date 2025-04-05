@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 joueur
 - 8 feutres lavables à colorier à pointe sécurisée. Utilisables dès 1 anLa pointe arrondie de ces feutres est idéale : quelle que soit lâ€inclinaison du feutre, le tracé est parfait. Pointe bloquée : ne sâ€enfonce pas. Encre lavable à lâ€eau sur la peau, sans savon, sans frotter
-- Age minimun: 1 an et plus
+- 1 joueur
 - Adaptés aux tout-petits Pointe arrondie sécurisée Ne senfonce pas Encre ultra-lavable à leau Pointe et culot solidaire du corps du feutre Capuchon ventilé Dès 1 an
+- Age minimun: 1 an et plus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0002HYYBW{{</world>}}

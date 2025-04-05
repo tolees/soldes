@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sechage rapide
-- Liberte de mouvements
-- Tres confortable
 - Haute qualite
+- Sechage rapide
+- Tres confortable
+- Liberte de mouvements
 - Marque: Adidas
 
 [🛒 Achète-le!!]({{< param buyurl >}})

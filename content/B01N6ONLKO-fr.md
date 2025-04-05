@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame inox
-- Monture polyamide renforcée de fibre de verre = léger et résistant
 - Manche bi-matière
+- Monture polyamide renforcée de fibre de verre = léger et résistant
+- Lame inox
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N6ONLKO{{</world>}}

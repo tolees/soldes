@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nitidissimo, antiriflesso, vetro reale resistente agli urti e antiabbagliamento
-- Morsetto in alluminio Ø 22,2 mm
 - Regolabile tridimensionalmente
+- Morsetto in alluminio Ø 22,2 mm
+- Nitidissimo, antiriflesso, vetro reale resistente agli urti e antiabbagliamento
 - Alloggiamento molto resistente fibre di nylon
 
 [🛒 Achète-le!!]({{< param buyurl >}})

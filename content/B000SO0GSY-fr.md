@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleurs vives
 - Pointe acrylique moyenne de 2mm résistante
 - Encre bleue, soluble à leau
 - Feutre décriture et de dessin
-- Couleurs vives
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SO0GSY{{</world>}}

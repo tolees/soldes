@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sur cheveux lavés et essorés, appliquer sur les longueurs, puis procéder au brushing sans rincer. Sutilise aussi en finition sur cheveux secs pour dompter les frisottis. Pour une routine capillaire complète, utiliser après le Bain Hydra-Fortifiant et le Masque Reconstituant Genesis.
 - Le spray thermoprotecteur Genesis protège les cheveux fragilisés par le brushing. Enrichi en cellules natives dedelweiss et racine de gingembre, il renforce le cheveu et diminue le risque de chute et de casse lié à la chaleur. Idéal post partum ou pour les changements de saison.
 - Il réduit le risque de chute des cheveux en renforçant la fibre, protège de la chaleur jusquà 220°C et les sublime avec délicatesse en leur redonnant brillance et souplesse.
+- Sur cheveux lavés et essorés, appliquer sur les longueurs, puis procéder au brushing sans rincer. Sutilise aussi en finition sur cheveux secs pour dompter les frisottis. Pour une routine capillaire complète, utiliser après le Bain Hydra-Fortifiant et le Masque Reconstituant Genesis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083JLYQCY{{</world>}}

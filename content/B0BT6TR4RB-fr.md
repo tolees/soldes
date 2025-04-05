@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poids maximum supporté : 120 kg
-- Portée jusquà 55 km, norme détanchéité IPx4
 - Batterie 12400 mAh
+- Portée jusquà 55 km, norme détanchéité IPx4
 - Vitesse maximale de 25 km/h
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

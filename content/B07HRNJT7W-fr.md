@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec une taille de pores de 0,1 micron (0,0001 mm), le filtre Katadyn BeFree élimine efficacement les bactéries, les zystes et les sédiments.
-- Puissance : jusquà 2 l/min - Durée de vie : jusquà 1000 l en fonction de la qualité de leau
 - Grâce à la poignée pratique, le Katadyn BeFreeTM 3.0 L peut être facilement transporté une fois rempli, ou suspendu à un arbre voisin.
 - La membrane EZ-Clean peut être nettoyée facilement en secouant ou en faisant pivoter. Pas besoin de rinçage ni doutils.
+- Avec une taille de pores de 0,1 micron (0,0001 mm), le filtre Katadyn BeFree élimine efficacement les bactéries, les zystes et les sédiments.
+- Puissance : jusquà 2 l/min - Durée de vie : jusquà 1000 l en fonction de la qualité de leau
 - Filtre à fibres creuses ultra léger et compact avec un poids de seulement 100 g.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

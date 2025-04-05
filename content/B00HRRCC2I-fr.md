@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bienvenue dans le monde merveilleux des Sylvanian Families. Les familles Sylvanian sont composées de toutes sortes danimaux vivant dans une forêt imaginaire
-- De quoi transporter les bébés Sylvanian en toute tranquillité.
 - Ce set comprend une poussette double.
+- De quoi transporter les bébés Sylvanian en toute tranquillité.
 - Ainsi quun pare-soleil.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

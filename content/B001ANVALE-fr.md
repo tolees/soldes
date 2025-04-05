@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ces crayons de couleur éco-responsables de la gamme BIC Kids se déclinent en 18 couleurs lumineuses. En avant les beaux dessins
 - Leur corps hexagonal est facile à prendre en main et ne roule pas sur la table : ils sont parfaitement adaptés aux enfants dès 5 ans
+- Ils sont en résine de synthèse et sans bois. Pour un corps résistant mieux au mordillage et sans écharde en cas de casse
 - Leur mine est extra résistante, facile à tailler, fortement pigmentée et dotée dun grand pouvoir couvrant
 - Fabriqués avec 35% de matière recyclée, ces 18 crayons BIC Kids Evolution ECOlutions ont été récompensés par le label NF Environnement
-- Ils sont en résine de synthèse et sans bois. Pour un corps résistant mieux au mordillage et sans écharde en cas de casse
-- Ces crayons de couleur éco-responsables de la gamme BIC Kids se déclinent en 18 couleurs lumineuses. En avant les beaux dessins
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001ANVALE{{</world>}}

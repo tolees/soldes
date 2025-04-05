@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 3 ans
 - Gouache couvrante de qualité, facile à utiliser, séchage rapide, application agréable
 - Lavable en machine à partir de 40°C
-- Couleur onctueuse et couvrante, rendu opaque, idéal pour décorer les objets. Existe en 27 couleurs
 - Norme CE, fabriqué en France, certifié ISO, norme jouets EN 87
+- Couleur onctueuse et couvrante, rendu opaque, idéal pour décorer les objets. Existe en 27 couleurs
+- A partir de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0010YTNB2{{</world>}}

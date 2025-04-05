@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tête de tondeuse 26 mm pour tailler facilement les poils sur toutes les petites zones du corps
-- Tête de tondeuse 8 mm pour tailler facilement les poils sur le visage
-- Pince à épiler, pour une épilation de précision
 - Sabot pour sourcils de 2 et 4 mm, pour une longueur uniforme
 - Suffisamment compacte pour vous accompagner partout
+- Tête de tondeuse 8 mm pour tailler facilement les poils sur le visage
+- Tête de tondeuse 26 mm pour tailler facilement les poils sur toutes les petites zones du corps
+- Pince à épiler, pour une épilation de précision
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00M469EQY{{</world>}}

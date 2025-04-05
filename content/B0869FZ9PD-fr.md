@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Support produit limité de 3 ans
 - Les brevets/demandes de brevets sont concédés sous licence par lITMA, Intelligent Terminal Memory Association
 - Taille ultra-compacte à partager avec lemplacement pour carte Nano SIM
-- Capture, lit et transfère rapidement des fichiers multimédias, y compris des vidéos 1080p Full-HD et 4K
 - Exploite le protocole eMMC 5.1 avec une vitesse de lecture jusquà 90 Mo/s et une vitesse décriture jusquà 70 Mo/s
+- Support produit limité de 3 ans
+- Capture, lit et transfère rapidement des fichiers multimédias, y compris des vidéos 1080p Full-HD et 4K
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0869FZ9PD{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille: 48, 3 cm (19"). Elément de format: 1U
-- Capacité de charge maximale: 50 kg
-- Convient aux profondeurs d’armoire: 800 mm
 - Digitus DN-19 TRAY-1-400-SW. Couleur du produit: Noir
+- Capacité de charge maximale: 50 kg
+- Taille: 48, 3 cm (19"). Elément de format: 1U
+- Convient aux profondeurs d’armoire: 800 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002BALYP2{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 36 mois de garantie constructeur
+- Prise Jack 3,5 mm ajustée pour les coque de smartphones
 - KabelDirekt Rallonge pour câble Jack - Idéal pour rallonger les connexions 3,5 mm déjà existantes (écouteurs, smartphones etc.)
 - Production certifiée avec contrôle de qualité consécutif.
-- Prise Jack 3,5 mm ajustée pour les coque de smartphones
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SWYU7P4{{</world>}}

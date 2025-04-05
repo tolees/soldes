@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids: 2, 5 kg - longue durée de vie
 - 3 poignées pour une bonne adhérence, faciliter le changement de poids et permettre de multiplier les exercices
 - Compatible avec la barre olympique
-- Poids: 2, 5 kg - longue durée de vie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07D7H3QX2{{</world>}}

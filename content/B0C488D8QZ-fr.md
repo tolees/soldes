@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encolure : col rond
 - Composition : 100 % coton
+- Encolure : col rond
 - Type de détail : t-shirt
 - Coupe : standard
 

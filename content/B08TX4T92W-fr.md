@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Canal de mémoire double canal
 - 6 centres de processeur
+- Canal de mémoire double canal
 - Mémoire interne maximale prenant en charge le processeur 128 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

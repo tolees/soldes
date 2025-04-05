@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- capuchons standard et sans polarité pour un remplacement rapide et facile
 - Prêt à lemploi
 - Technologie LED haut de gamme, longue durée de vie jusquà 5 000 heures, technologie HeatShield
-- capuchons standard et sans polarité pour un remplacement rapide et facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09H3M5QQF{{</world>}}

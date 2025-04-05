@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Broderie unique de patch "gem" avec le nom de la marque et mention de la ville phare de Columbia quest Portland en Oregon
-- Contenu: 1 x Columbia Chapeau unisexe, ROC II, Matière : 60% coton / 40% polyester, Couleur : Noir, Blanc, Taille : O/S, Art.No. 1766611
 - Une casquette de base-ball en coton mélangé ajustable à larrière
-- Idéal pour un look décontracté associé à un jean ou un short
 - Conception de casquette classique avec visière légèrement incurvée et bouton sur le dessus, 60% coton et 40% polyester
+- Idéal pour un look décontracté associé à un jean ou un short
+- Contenu: 1 x Columbia Chapeau unisexe, ROC II, Matière : 60% coton / 40% polyester, Couleur : Noir, Blanc, Taille : O/S, Art.No. 1766611
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084LZS53T{{</world>}}

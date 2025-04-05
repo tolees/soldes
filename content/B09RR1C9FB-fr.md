@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Machine expresso ellevier
-- Accessoires
 - DeLonghi EC 9155.MB La Specialista Arte
+- Accessoires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RR1C9FB{{</world>}}

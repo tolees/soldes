@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis: 0.05 kilogrammes
-- A highly pigmented black gel eyeliner thats designed to last all day
-- Végétalien et sans cruauté. Ne contient aucun ingrédient dorigine animale. Approuvé par PETA comme Animal Test Free.
-- Includes an angled liner brush for the sharpest flicked liner
 - Un eye-liner en gel noir hautement pigmenté conçu pour durer toute la journée
 - Fomulated to not crack or crumble!
 - Comprend une brosse à doublure inclinée pour la doublure la plus nette
-- Formulé pour ne pas se fissurer ou seffriter !
+- A highly pigmented black gel eyeliner thats designed to last all day
+- Végétalien et sans cruauté. Ne contient aucun ingrédient dorigine animale. Approuvé par PETA comme Animal Test Free.
+- Poids du colis: 0.05 kilogrammes
+- Includes an angled liner brush for the sharpest flicked liner
 - Vegan and Cruelty Free. Does not contain any animal derived ingredients. Approved by PETA as Animal Test Free.
+- Formulé pour ne pas se fissurer ou seffriter !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087S8LC5J{{</world>}}

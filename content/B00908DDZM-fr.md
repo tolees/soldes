@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Year Of Release: 2013
 - Notes: Ft.Ken Bridwell/Allen Stone/Schoolboy Q/Ab-Soul
-- Country Of Release: NLD
 - Catalog#: 754152229
 - Record Label: Warner Brothers
+- Year Of Release: 2013
+- Country Of Release: NLD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00908DDZM{{</world>}}

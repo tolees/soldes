@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dit LEGO Super Mario bouwbaar spel is een leuk verjaardagscadeau voor kinderen, jongens en meisjes vanaf 7 jaar, die houden van creatieve spellen en Super Mario figuren
-- Download de LEGO Super Mario App voor digitale bouwinstructies, ideeën en meer om de creatieve ervaring voor kinderen een boost te geven
-- Deze LEGO Super Mario speelgoed set wordt geleverd met gitaar- en microfoonelementen plus bouwbare bongos en een versterker; er wacht fans een geweldig muzikaal avontuur in het junglehuis van Donkey Kong!
-- Fans van de LEGO Super Mario wereld kunnen de Dixie Kongs Jungleshow uitbreidingsset toevoegen aan een startset voor nog meer plezier, inclusief 2 figuren waarmee kinderen muziek kunnen spelen op een bouwbaar podium
 - Kinderen kunnen een jungle podium bouwen met instrumenten en apparatuur, de LEGO Luigi, LEGO Peach of LEGO Mario poppetjes (figuren niet inbegrepen) op het podium plaatsen en de platforms draaien om geluiden te activeren en munten te verdienen
+- Download de LEGO Super Mario App voor digitale bouwinstructies, ideeën en meer om de creatieve ervaring voor kinderen een boost te geven
+- Fans van de LEGO Super Mario wereld kunnen de Dixie Kongs Jungleshow uitbreidingsset toevoegen aan een startset voor nog meer plezier, inclusief 2 figuren waarmee kinderen muziek kunnen spelen op een bouwbaar podium
+- Deze LEGO Super Mario speelgoed set wordt geleverd met gitaar- en microfoonelementen plus bouwbare bongos en een versterker; er wacht fans een geweldig muzikaal avontuur in het junglehuis van Donkey Kong!
 - Deze uitbreidingsset bevat 2 LEGO Super Mario figuren: Dixie Kong en Squawks, en vereist een startset (71360, 71387 of 71403) voor interactief spelen
+- Dit LEGO Super Mario bouwbaar spel is een leuk verjaardagscadeau voor kinderen, jongens en meisjes vanaf 7 jaar, die houden van creatieve spellen en Super Mario figuren
 - Dit creatieve LEGO Super Mario speelgoed is een leuk verjaardagscadeau, kerstcadeau of zomaar cadeau voor kinderen, jongens en meisjes die in het bezit zijn van een LEGO Super Mario startset
 
 [🛒 Achète-le!!]({{< param buyurl >}})

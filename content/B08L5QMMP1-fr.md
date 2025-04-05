@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des pâtes fabriquées à partir dingrédients de qualité supérieure pour une cuisson "al dente" parfaite. Temps de cuisson : 7 minutes seulement.
-- Fondée à Parme en 1877 et dirigée par la même famille depuis 4 générations, la marque Barilla vous fait retrouver le vrai goût des pâtes
 - Savourez les pâtes préférées des Français, les Barilla Coquillettes n. 32
-- Barilla vous aide à dire "je taime" en préparant un délicieux plat de pâtes aux personnes qui vous sont le plus chères
 - Une recette plus que centenaire avec seulement deux ingrédients : du blé dur de qualité supérieure et de leau. Des pâtes qui se marient parfaitement avec vos sauces et ingrédients préférés pour créer de délicieux repas.
+- Fondée à Parme en 1877 et dirigée par la même famille depuis 4 générations, la marque Barilla vous fait retrouver le vrai goût des pâtes
+- Des pâtes fabriquées à partir dingrédients de qualité supérieure pour une cuisson "al dente" parfaite. Temps de cuisson : 7 minutes seulement.
+- Barilla vous aide à dire "je taime" en préparant un délicieux plat de pâtes aux personnes qui vous sont le plus chères
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L5QMMP1{{</world>}}

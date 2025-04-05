@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marabu - 11900080
 - blister de 3 (embout rond 3mm) lavable 40°
+- Marabu - 11900080
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007KIZDK2{{</world>}}

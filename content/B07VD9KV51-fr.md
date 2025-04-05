@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Variante désopilante du jeu de dessin classique, Pictionary Air vous fera bouger comme jamais
 - Ajustez la durée d’une manche et le nombre de manches pour accorder plus de temps aux débutants ou aux enfants En mode selfie, dessinez sans limite de temps ni de nombre de manches
 - Téléchargez l’appli gratuite Pictionary Air et pointez la caméra intégrée vers le dessinateur pour le faire apparaître, ainsi que son dessin, sur l’écran de votre appareil
-- Facile à utiliser, l’appli​enregistre vos performances et vous permet de les visionner pour encore plus de fous rires entre chaque manche, ou bien de les conserver pour les partager avec vos amis
 - Dessinez dans l’air à tour de rôle tandis que vos coéquipiers tentent de deviner ce que représentent les images à l’écran L’équipe comptant le plus de points gagne
+- Facile à utiliser, l’appli​enregistre vos performances et vous permet de les visionner pour encore plus de fous rires entre chaque manche, ou bien de les conserver pour les partager avec vos amis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VD9KV51{{</world>}}

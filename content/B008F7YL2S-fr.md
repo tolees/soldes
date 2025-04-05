@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hautement résistant – Ce produit Rubson est prêt à l’emploi, il résiste aux UV, aux températures extrêmes (-20°C à +80°C) et à l’eau de pluie. Adhère sur support humide et ancien.
-- Emballage – Rubson Anti-Infiltration, Imperméabilisant pour toitures et réparations, Revêtement de toit résistant, coloris gris, 1 seau de 1 kg. Consommation : 1 kg / m² par couche de 1 mm.
-- Application facile – Sans solvant ni odeur, cette résine anti-infiltrations s’applique au rouleau aussi facilement qu’une peinture. Pratique, sa formule visqueuse ne coule pas !
-- Anti-fuites et anti-fissures – Ce Revêtement imperméable est idéal pour protéger ou réparer toutes les toitures ainsi que les gouttières, chenaux, bac à fleurs, microfissures etc.
 - Protection élastique – Cette protection toiture forme un film imperméable et élastique pour protéger, en une seule couche* toitures, bas de murs, tuiles, joints de liaison, etc.
+- Emballage – Rubson Anti-Infiltration, Imperméabilisant pour toitures et réparations, Revêtement de toit résistant, coloris gris, 1 seau de 1 kg. Consommation : 1 kg / m² par couche de 1 mm.
+- Hautement résistant – Ce produit Rubson est prêt à l’emploi, il résiste aux UV, aux températures extrêmes (-20°C à +80°C) et à l’eau de pluie. Adhère sur support humide et ancien.
+- Anti-fuites et anti-fissures – Ce Revêtement imperméable est idéal pour protéger ou réparer toutes les toitures ainsi que les gouttières, chenaux, bac à fleurs, microfissures etc.
+- Application facile – Sans solvant ni odeur, cette résine anti-infiltrations s’applique au rouleau aussi facilement qu’une peinture. Pratique, sa formule visqueuse ne coule pas !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008F7YL2S{{</world>}}

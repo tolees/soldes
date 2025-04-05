@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hummel est une marque de vêtements de sport scandinaves de qualité supérieure et se caractérise par des designs sportifs eaux lignes droites dans des looks extravagants avec des combinaisons de couleurs audacieuses
-- Textile
 - 100 Percentage polyester
+- Textile
+- Hummel est une marque de vêtements de sport scandinaves de qualité supérieure et se caractérise par des designs sportifs eaux lignes droites dans des looks extravagants avec des combinaisons de couleurs audacieuses
 - Unisexe
 
 [🛒 Achète-le!!]({{< param buyurl >}})

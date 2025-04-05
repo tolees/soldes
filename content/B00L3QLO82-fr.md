@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Filtres jetables à changer tous les 6 à 8 mois
 - en coton
 - Compatible avec les séries 800 et 900 uniquement
-- Filtres jetables à changer tous les 6 à 8 mois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00L3QLO82{{</world>}}

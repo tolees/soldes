@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’alignement magnétique permet la recharge sans fil rapide sans retirer les accessoires
 - Compatible avec les iPhone 12 mini, iPhone 12, iPhone 12 Pro et iPhone 12 Pro Max
+- L’alignement magnétique permet la recharge sans fil rapide sans retirer les accessoires
 - Terres rares 100 % recyclées dans les aimants
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

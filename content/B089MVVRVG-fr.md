@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rencontrez munch, le héros de la plus étrange de toutes les odyssées. Sa chance est sur le point de tourner... Pour le pire.
-- N’oublie pas de boire des sodas pour libérer le vrai potentiel de tes pouvoirs
-- Rencontre une douzaine de races excentriques à rallier à ta cause
 - Utilise des capacités uniques et des pouvoirs psychiques pour que les autres fassent le sale boulot à ta place.
 - Alterne entre munch et abe pour explorer les royaumes d’ oddworld.
+- N’oublie pas de boire des sodas pour libérer le vrai potentiel de tes pouvoirs
+- Rencontrez munch, le héros de la plus étrange de toutes les odyssées. Sa chance est sur le point de tourner... Pour le pire.
+- Rencontre une douzaine de races excentriques à rallier à ta cause
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089MVVRVG{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comptes familiaux individuels, mode Google Hkids Space Safe Kids
-- Haut-parleurs stéréo avec Dolby Atmos
-- Batterie : Li-polymère 5100 mAh, jusquà 10 heures dautonomie (lecture vidéo)
-- Le forfait comprend : Lenovo Tab M10 (3e génération), Storm Grey, adaptateur secteur, câble USB Type-C 2.0, documentation
 - Écran WUXGA Full HD IPS (1920 x 1200) avec couverture de la gamme de couleurs sRGB à 100 % pour des images nettes et des couleurs vives
+- Batterie : Li-polymère 5100 mAh, jusquà 10 heures dautonomie (lecture vidéo)
+- Haut-parleurs stéréo avec Dolby Atmos
+- Comptes familiaux individuels, mode Google Hkids Space Safe Kids
+- Le forfait comprend : Lenovo Tab M10 (3e génération), Storm Grey, adaptateur secteur, câble USB Type-C 2.0, documentation
 - Processeur : Unisoc T610 (octa-core, 1,8 GHz)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

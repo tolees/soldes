@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie : 1 an de garantie du fabricant. Notre équipe de soutien basée aux États-Unis est disponible pour y remédier.
-- Chargeur solaire : batterie interne au lithium de 5200 mAh avec une sortie USB, assez de puissance pour charger les téléphones, les phares, les tablettes, les lampes de poche LED et tous vos autres équipements de camping ou de survie.
-- Lanterne de camping : lumière LED directionnelle et réglable, jusquà 600 lumens. Rechargez la batterie interne à partir de nimporte quel port USB, du soleil avec un panneau solaire Goal Zero ou utilisez la manivelle intégrée pour charger en cas durgence. Charge de manivelle à 1 W (démarrage à 130 tr/min). 1 minute de manivelle peut alimenter la lumière pendant 10 minutes sur un réglage faible.
 - Lampes solaires dextérieur portables : les pieds pliables offrent un support pour une dispersion maximale de la lumière et se replient pour un rangement pratique. Une poignée intégrée permet un transport et une suspension faciles. Lorsquelle est ouverte, cette lanterne mesure 11,4 x 12,7 x 16,5 cm et ne pèse que 0,5 kg.
 - Conçu aux États-Unis : développé par notre équipe basée aux États-Unis en Utah, combinant plus de 50 ans dexpérience dans lénergie solaire et les innovations solaires.
+- Lanterne de camping : lumière LED directionnelle et réglable, jusquà 600 lumens. Rechargez la batterie interne à partir de nimporte quel port USB, du soleil avec un panneau solaire Goal Zero ou utilisez la manivelle intégrée pour charger en cas durgence. Charge de manivelle à 1 W (démarrage à 130 tr/min). 1 minute de manivelle peut alimenter la lumière pendant 10 minutes sur un réglage faible.
+- Garantie : 1 an de garantie du fabricant. Notre équipe de soutien basée aux États-Unis est disponible pour y remédier.
+- Chargeur solaire : batterie interne au lithium de 5200 mAh avec une sortie USB, assez de puissance pour charger les téléphones, les phares, les tablettes, les lampes de poche LED et tous vos autres équipements de camping ou de survie.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HRM4J8Y{{</world>}}

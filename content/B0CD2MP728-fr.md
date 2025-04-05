@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plus de 150 modes dentraînement pour relever votre fréquence cardiaque et les calories brûlées. 10 programmes de course à pied embarqués, qui émettent des vibrations et éclairent lécran pour vous rappeler datteindre vos objectifs de fréquence cardiaque et dallure.
+- Surveillance continue du sommeil, surveillance de la fréquence cardiaque pendant 24 heures et surveillance de la respiration pendant le sommeil.
 - Le capteur de lumière ambiante permet dajuster automatiquement la luminosité de lécran en fonction de vos yeux. Le nouveau chipset prend en charge un taux de rafraîchissement élevé de 60 Hz, pour une utilisation fluide.
 - Finition métallique NCVM élégante et stylée. Bracelet à dégagement rapide, changer de bracelet selon votre humeur.
 - Jusqu’à 16 jours d’autonomie en usage normal. Compatible charge rapide 2C, charge complete en 1 heure
-- Surveillance continue du sommeil, surveillance de la fréquence cardiaque pendant 24 heures et surveillance de la respiration pendant le sommeil.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CD2MP728{{</world>}}

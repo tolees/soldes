@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Instructions dans huit langues
-- Etamine: 100% coton
 - Confectionné
+- Etamine: 100% coton
 - Dos avec fermeture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique : coffret compact et résistant avec attaches en métal
 - 1 Poignée tournevis ¼’’
-- 2 Rallonges 3/8’’ : 75 – 130 mm - 1 Cardan universel 3/8’’
 - Cliquet 72 dents 3/8" pour un angle de reprise de 5°
+- Pratique : coffret compact et résistant avec attaches en métal
 - 1 Porte-embouts 3/8’’ pour embouts de vissage ¼’’ - 2 Douilles pour bougie : 16-21 mm - 1 Porte-embouts ¼" - 22 Embouts de vissage ¼’’: PZ1-PZ2-PZ3–PH1-PH2-PH3–HEX 3-4-5-6-7–Torx 10-15-20-25-27-30-40–Fente 4-5-6-7
+- 2 Rallonges 3/8’’ : 75 – 130 mm - 1 Cardan universel 3/8’’
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07YYGD4DM{{</world>}}

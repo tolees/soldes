@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1
 - 2
+- 1
 - 3
 
 [🛒 Achète-le!!]({{< param buyurl >}})

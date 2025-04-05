@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les acides gras essentiels nourrissent la peau.
 - Élimine les huiles sans obstruer les pores.
+- Les acides gras essentiels nourrissent la peau.
 - Permet à votre nettoyant Dermalogica prescrit de fonctionner plus efficacement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
 - DU GRAIN A LA TASSE : Lexpresso broyeur vous ouvre les portes du monde du café. Choisissez votre café en grains chez votre torréfacteur et découvrez de nouveaux terroirs et nouveaux arômes
-- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
+- CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
 - SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande
+- PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température)
 - CHOIX DE RECETTES : Profitez de 2 recettes café (expresso, double expresso) en accès direct et réalisez toutes vos boissons lactées et une mousse de lait onctueuse grâce la buse vapeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

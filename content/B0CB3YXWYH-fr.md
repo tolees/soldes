@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PICO 4 Carrying Case
 - Poignée élégante: poignée souple et respirante en cuir microfibre. Légère et résistante aux frottements
-- Super léger pour jouer plus longtemps. La conception de lobjectif pancake a rendu la PICO 4 beaucoup plus légère. Avec un poids inférieur à 300 g, vous pouvez jouer confortablement encore plus longtemps
 - Format compact: pratique et légère afin de faciliter les déplacements
+- PICO 4 Carrying Case
+- Super léger pour jouer plus longtemps. La conception de lobjectif pancake a rendu la PICO 4 beaucoup plus légère. Avec un poids inférieur à 300 g, vous pouvez jouer confortablement encore plus longtemps
 - Design équilibré, agréable à porter. Grâce à son design équilibré, le poids du PICO 4 est réparti de manière égale sur lavant et larrière. Il en résulte une excellente sensation de port
 
 [🛒 Achète-le!!]({{< param buyurl >}})

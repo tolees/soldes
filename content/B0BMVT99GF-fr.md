@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sécurité maximale des données : pas de cloud Eve, pas dinscription et pas de traçage, pour éviter toute divulgation de donnée, et intelligence locale avec communication directe entre les accessoires Eve et votre iPhone, iPad ou concentrateur, sans passerelle ni dépendance au cloud
-- Eve Outdoor Cam nécessite un iPhone ou iPad avec la dernière version d’iOS/iPadOS
-- Protégez votre confidentialité : Eve Outdoor Cam a été conçue exclusivement pour Apple HomeKit Secure Video et créée dès le départ pour protéger vos données, grâce au chiffrement de bout en bout de la vidéo en direct et des enregistrements
-- Gardez un œil sur votre logement 24 h/24 et recevez des notifications détaillées sur votre iPhone, iPad ou Apple Watch en cas dactivité
-- Nécessite un concentrateur (HomePod ou Apple TV avec tvOS 15) et un forfait iCloud+ (non inclus)
 - Historique vidéo de 10 jours : enregistrez tous les mouvements ou uniquement quand des personnes, des animaux, des véhicules ou des colis sont détectés
+- Eve Outdoor Cam nécessite un iPhone ou iPad avec la dernière version d’iOS/iPadOS
+- Nécessite un concentrateur (HomePod ou Apple TV avec tvOS 15) et un forfait iCloud+ (non inclus)
+- Protégez votre confidentialité : Eve Outdoor Cam a été conçue exclusivement pour Apple HomeKit Secure Video et créée dès le départ pour protéger vos données, grâce au chiffrement de bout en bout de la vidéo en direct et des enregistrements
+- Sécurité maximale des données : pas de cloud Eve, pas dinscription et pas de traçage, pour éviter toute divulgation de donnée, et intelligence locale avec communication directe entre les accessoires Eve et votre iPhone, iPad ou concentrateur, sans passerelle ni dépendance au cloud
+- Gardez un œil sur votre logement 24 h/24 et recevez des notifications détaillées sur votre iPhone, iPad ou Apple Watch en cas dactivité
 - Projecteur puissant avec variateur dintensité, mode haute luminosité et détecteur de mouvements infrarouge, champ de vision de 157° avec vision nocturne et vidéo HD (1080p/24 fps) et communication bidirectionnelle grâce au micro et au haut-parleur intégrés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

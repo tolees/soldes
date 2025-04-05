@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Figurine de 17 cm, très détaillée avec 16 points darticulation
 - Plusieurs mains disponibles pour recréer toutes les scènes de la série
 - Personnage : Master Roshi, que lon connait aussi sous le nom de Tortue Géniale, lun des maîtres de Son Goku.
 - Collectionnez toutes les figurines Dragon Stars de Bandai. Recréez les combats mythiques de la série grâce à larène Tenkaichi Budokai (référence 36790 - vendue séparément).
 - Figurine collector issue de la série Dragon Ball
+- Figurine de 17 cm, très détaillée avec 16 points darticulation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SXT42G9{{</world>}}

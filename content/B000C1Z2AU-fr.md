@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
 - Parfum délicat de longue durée avec une tenue idéal pour un usage quotidien sans être entêtant et apportant un léger bien-être.
+- Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
 - Cacharel Noa est un parfum floral boisé et musqué de longue durée pour femme créé en 1998. Elle présente une composition harmonieuse de fleurs, dépices délicates, de nuances fruitées veloutées avec le pouvoir énergique des grains de café. Parfum subtile, tendre, féminin et léger.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

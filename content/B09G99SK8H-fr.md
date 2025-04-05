@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusqu’à 256 Go de stockage
-- Superbe écran Retina de 10,2 pouces avec True Tone
-- Appareil photo arrière grand-angle 8 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
-- Connecteur Lightning pour la recharge et les accessoires
-- Jusqu’à 10 heures d’autonomie
-- Touch ID pour l’authentification sécurisée
-- Puce A13 Bionic avec Neural Engine
-- Wi‑Fi 802.11ac
-- Compatible avec l’Apple Pencil (1ʳᵉ génération) et le Smart Keyboard
 - Haut‑parleurs stéréo
+- Jusqu’à 256 Go de stockage
+- Jusqu’à 10 heures d’autonomie
+- Superbe écran Retina de 10,2 pouces avec True Tone
+- Compatible avec l’Apple Pencil (1ʳᵉ génération) et le Smart Keyboard
+- Touch ID pour l’authentification sécurisée
+- Wi‑Fi 802.11ac
+- Connecteur Lightning pour la recharge et les accessoires
+- Puce A13 Bionic avec Neural Engine
+- Appareil photo arrière grand-angle 8 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09G99SK8H{{</world>}}

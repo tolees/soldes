@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour vous assurer de la compatibilité
 - De ce produit avec votre modèle
 - Durable
 - Produit
+- Pour vous assurer de la compatibilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DF4YD29{{</world>}}

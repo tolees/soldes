@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [DANS LA BOITE] Votre OPPO A77 - Adaptateur secteur SUPERVOOC 33W - Câble de charge USB type-C - Outil SIM - Carte de garantie 3 ans. Tous les éléments font vous avez besoin pour profiter pleinement de votre nouveau smartphone
 - [ÉCRAN 90HZ] Un écran AMOLED, un écran immersif, fluide et réactif au toucher. Taille 6,56 pouces / 16,66 cm. 1212 x 720 pixels | 269 PPI
 - [CHARGE RAPIDE SÉCURISÉE] Batterie longue durée 5000mAh + SUPERVOOC 33W. Une charge rapide qui vous permet de recharger le smartphone à 100% en 1 heure
+- [DANS LA BOITE] Votre OPPO A77 - Adaptateur secteur SUPERVOOC 33W - Câble de charge USB type-C - Outil SIM - Carte de garantie 3 ans. Tous les éléments font vous avez besoin pour profiter pleinement de votre nouveau smartphone
 - [64 Go + 4 Go de RAM] Un espace de stockage de 64 Go extensible via Micro SD (Max : 1 To) et 4 Go de RAM extensible virtuellement
 - [DESIGN] Grâce au design OPPO Glow vous avez le choix de plonger dans le bleu étoilé de locéan ou dopter pour un noir brillant sophistiqué, quel que soit votre style, lOPPO A77 a une couleur qui vous convient
 

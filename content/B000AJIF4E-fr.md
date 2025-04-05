@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bande passante: 10 - 20.000 Hz
-- Impédance: 63 Ohm
 - Fiches mini jack stéréo 3.5mm et jack stéréo 6.3mm
-- Produits compatibles : PDW-850, PMW-100, PMW-150, PMW-320L
+- Impédance: 63 Ohm
 - Casque studio fermé
+- Produits compatibles : PDW-850, PMW-100, PMW-150, PMW-320L
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000AJIF4E{{</world>}}

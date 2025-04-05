@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RAPIDE & PRECIS : Stabilisateur dimage optique SteadyShot intégré, et système RSSM pour assurer vitesse et précision en prise de vue photo et vidéo
-- GRANDE ERGONOMIE : Design résistant à la poussière et à lhumidité, pour une protection et une fiabilité maximale dans tous les environnements
-- CAPTUREZ TOUS LES DETAILS : Revêtement Nano antireflet Sony pour éliminer les reflets et leffet de « flare »
-- Distance focale équivalente 35 mm (APS-C): 127,5 millimètre
-- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 11 lamelles, qui permet de beaux effets de bokeh
 - INCROYABLEMENT NET : Lentille asphérique extrême (XA) combinée a 3 éléments asphériques, pour une résolution, une clarté et un contraste exceptionnels
+- Distance focale équivalente 35 mm (APS-C): 127,5 millimètre
+- CAPTUREZ TOUS LES DETAILS : Revêtement Nano antireflet Sony pour éliminer les reflets et leffet de « flare »
+- RAPIDE & PRECIS : Stabilisateur dimage optique SteadyShot intégré, et système RSSM pour assurer vitesse et précision en prise de vue photo et vidéo
+- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 11 lamelles, qui permet de beaux effets de bokeh
+- GRANDE ERGONOMIE : Design résistant à la poussière et à lhumidité, pour une protection et une fiabilité maximale dans tous les environnements
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01BUAVL7E{{</world>}}

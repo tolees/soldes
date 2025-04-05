@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emballé sous blister - Pression minimum recommendée 0.2 bar
-- Connexion universelle
 - avec gachette de controle - GROHE StarLight Chrome éclatant et durable
 - Procédé anti-calcaire SpeedClean - Inner WaterGuide, longévité maximale
+- Emballé sous blister - Pression minimum recommendée 0.2 bar
+- Connexion universelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XXZ9SY7{{</world>}}

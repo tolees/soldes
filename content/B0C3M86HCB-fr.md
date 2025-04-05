@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ATX 3.0 ENTIÈREMENT MODULAIRE - Avec ATX 3.0, la PSU peut gérer une excursion de puissance totale x2 et de GPU x3 pour supporter même les GPU les plus exigeants; Format totalement modulaire avec câbles noirs plats (sac de rangement inclus)
-- DESIGN DURABLE - LLC Full Bridge avec convertisseur DC-DC et conception PFC active pour assurer une sortie robuste (protections OCP, OVP, OPP, OTP, SCP, UVP); Comprend une garantie limitée de 7 ans
 - FORMAT COMPACT - Ventilateur de 120mm à roulement hydrodynamique (FDB) pour des performances de refroidissement fiables; Format ATX compact de seulement 140mm de long, laissant un espace supplémentaire pour la circulation de lair et la gestion des câbles
+- DESIGN DURABLE - LLC Full Bridge avec convertisseur DC-DC et conception PFC active pour assurer une sortie robuste (protections OCP, OVP, OPP, OTP, SCP, UVP); Comprend une garantie limitée de 7 ans
 - CERTIFIÉ 80 PLUS GOLD - Une alimentation électrique efficace réduit la consommation dénergie et la charge thermique du système; 80 PLUS Gold (jusquà 90%) est idéal pour le matériel à forte consommation dénergie comme les GPU et CPU haut de gamme
 - GPU PCI-E 5.0 SUPPORTÉ - Peut délivrer jusquà 450W de puissance à un GPU PCIe 5.0 (NVIDIA et AMD) via le connecteur PCIe 16-pin natif (12V2x6) à embout jaune pour visualiser le branchement; Design monorail qui délivre une puissance précise au système
+- ATX 3.0 ENTIÈREMENT MODULAIRE - Avec ATX 3.0, la PSU peut gérer une excursion de puissance totale x2 et de GPU x3 pour supporter même les GPU les plus exigeants; Format totalement modulaire avec câbles noirs plats (sac de rangement inclus)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C3M86HCB{{</world>}}

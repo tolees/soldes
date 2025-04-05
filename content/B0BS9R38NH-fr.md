@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibilité élevée : Transforme la perceuse-visseuse FlexiClick en un véritable perforateur SDS plus
-- Compatible avec les perceuses-visseuses 12V FlexiClick GSR 12V-35 FC et GSR 12V-15 FC. Pour une progression de travail très rapide, utilisez la GSR 12V-35 FC.
 - Livré avec : GFA 12-H, poignée auxiliaire, butée de profondeur, boîte en carton.
-- Le GFA 12-H est conçu pour la perforation dans le béton jusqu’à un diamètre de 10 mm et dans la maçonnerie et la pierre jusqu’à un diamètre de 16 mm.
 - Force de frappe de 0,9 J pour un travail sans effort
+- Flexibilité élevée : Transforme la perceuse-visseuse FlexiClick en un véritable perforateur SDS plus
+- Le GFA 12-H est conçu pour la perforation dans le béton jusqu’à un diamètre de 10 mm et dans la maçonnerie et la pierre jusqu’à un diamètre de 16 mm.
+- Compatible avec les perceuses-visseuses 12V FlexiClick GSR 12V-35 FC et GSR 12V-15 FC. Pour une progression de travail très rapide, utilisez la GSR 12V-35 FC.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BS9R38NH{{</world>}}

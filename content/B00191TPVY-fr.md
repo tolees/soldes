@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Papier sans bois, 65 g/m²
-- Papier calque A3
 - 25 feuilles
-- 1 motif
 - Blanc
+- Papier calque A3
+- 1 motif
+- Papier sans bois, 65 g/m²
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00191TPVY{{</world>}}

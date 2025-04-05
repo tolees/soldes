@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double logements pour cartes SD (les cartes SD UHS-II) et écran tactile inclinable
-- Stabilisation du capteur sur 5 axes : les photos restent nettes et les vidéos (4K 30p) sont stables.
-- Très large monture Nikon Z, processeur EXPEED 6, capteur CMOS plein format de 24,3 millions de pixelse et plage de sensibilités de 100 à 51 200 ISO
 - Viseur électronique ultra-précis de 3 690 000 pixels et auto-focus à 273 points (comme sur Z 6 et Z 7)
+- Double logements pour cartes SD (les cartes SD UHS-II) et écran tactile inclinable
+- Très large monture Nikon Z, processeur EXPEED 6, capteur CMOS plein format de 24,3 millions de pixelse et plage de sensibilités de 100 à 51 200 ISO
+- Stabilisation du capteur sur 5 axes : les photos restent nettes et les vidéos (4K 30p) sont stables.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HVQ33W1{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La suite du grand classique créé par le légendaire Tim Schafer , que lon attendait depuis plus de 15 ans
-- Dans « Psychonauts 2 – The Motherlobe Edition », les aventures de Raz continuent. Rendez hommage à la série que vous adorez avec des objets de collection que vous pourrez exposer fièrement sur votre étagère. La version physique est accompagnée dobjets exclusifs et dun code numérique qui vous donnera accès aux coulisses avec du contenu que vous ne trouverez nulle part ailleurs. Lidéal pour enrichir nimporte quelle collection de jeux vidéo !
-- Débordant de missions farfelues et de conspirations mystérieuses, Psychonauts 2 est un jeu de plateformes et daventure au style cinématique proposant toutes sortes de pouvoirs psychiques personnalisables. Découvrez la suite tant attendue du titre culte dans une édition qui ravira tous les fans.
 - Présenté dans une boîte holographique unique avec des objets de collection exclusifs, une couverture réversible, un jeu de 6 cartes double-face avec des illustrations des personnages et leur biographie, 6 autocollants holographiques psychédéliques, ainsi quun code pour télécharger du contenu exclusif qui vous fera découvrir les coulisses du jeu. Une édition physique indispensable à conserver dans votre collection !
+- Dans « Psychonauts 2 – The Motherlobe Edition », les aventures de Raz continuent. Rendez hommage à la série que vous adorez avec des objets de collection que vous pourrez exposer fièrement sur votre étagère. La version physique est accompagnée dobjets exclusifs et dun code numérique qui vous donnera accès aux coulisses avec du contenu que vous ne trouverez nulle part ailleurs. Lidéal pour enrichir nimporte quelle collection de jeux vidéo !
+- La suite du grand classique créé par le légendaire Tim Schafer , que lon attendait depuis plus de 15 ans
 - Razputin Aquato, acrobate de formation et jeune psychique puissant, a réalisé le rêve de sa vie en rejoignant lorganisation internationale despionnage psychique connue sous le nom de Psychonautes ! Mais ces espions psychiques ont des ennuis.
+- Débordant de missions farfelues et de conspirations mystérieuses, Psychonauts 2 est un jeu de plateformes et daventure au style cinématique proposant toutes sortes de pouvoirs psychiques personnalisables. Découvrez la suite tant attendue du titre culte dans une édition qui ravira tous les fans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5HK43CS{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Surface de repassage : H90 x L33cm (H35½ x L13 pouces)
-- Fermé : H45,5 x L34 x P15,5 cm (H18 x L13½ x P6¼ pouces)
-- Un support, des vis et des prises murales sont fournis pour monter Pocket sur une surface appropriée
 - Fer non inclus
+- Surface de repassage : H90 x L33cm (H35½ x L13 pouces)
 - Une fois ouverte, la surface de repassage est à 11cm (4½ pouces) du dessus de table
+- Un support, des vis et des prises murales sont fournis pour monter Pocket sur une surface appropriée
+- Fermé : H45,5 x L34 x P15,5 cm (H18 x L13½ x P6¼ pouces)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QNBGL6Q{{</world>}}

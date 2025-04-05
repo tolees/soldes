@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dit LEGO Sonic the Hedgehog bouwbare spel is een leuk verjaardagscadeau, kerstcadeau of zomaar cadeau voor kinderen, jongens en meisjes vanaf 8 jaar die van Sonic personages en fantasierijk spel houden
+- De LEGO Builder app begeleidt je kind op een intuïtief bouwavontuur met tools om in te zoomen en modellen in 3D te draaien, sets op te slaan en de voortgang bij te houden
 - De LEGO Sonic set wordt geleverd met 6 figuren, waaronder Sonic en Dr. Eggman figuren, plus Sonics bol en lanceerder om over de helling en steeksels te vliegen, en veel accessoires voor creatief spel
 - De eirobot heeft een afneembare capsule waarin Dr. Eggman de dieren plaatst; de speelgoed dieren worden naar buiten geduwd en kunnen worden gered wanneer Sonic een voltreffer scoort op Dr. Eggman met behulp van de snelheidsbol
-- Kinderen kunnen genieten van snel actiespel terwijl ze strijden tegen Dr. Eggman of hun eigen fantasierijke verhalen verzinnen en zorgen voor Sonics dierenvriendjes
 - Inspireer kinderen vanaf 8 jaar om samen te werken met de Blauwe Waas met deze LEGO Sonic the Hedgehog Sonic vs. Dr. Eggmans eirobot speelgoed set, met een gigantische robot figuur, plus Sonics snelheidsbol en lanceerder
-- De LEGO Builder app begeleidt je kind op een intuïtief bouwavontuur met tools om in te zoomen en modellen in 3D te draaien, sets op te slaan en de voortgang bij te houden
+- Kinderen kunnen genieten van snel actiespel terwijl ze strijden tegen Dr. Eggman of hun eigen fantasierijke verhalen verzinnen en zorgen voor Sonics dierenvriendjes
+- Dit LEGO Sonic the Hedgehog bouwbare spel is een leuk verjaardagscadeau, kerstcadeau of zomaar cadeau voor kinderen, jongens en meisjes vanaf 8 jaar die van Sonic personages en fantasierijk spel houden
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7B5V9K{{</world>}}

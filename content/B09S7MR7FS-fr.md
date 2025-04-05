@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Visitez la rubrique Assistance Clementoni pour bénéficier du service « Pièces manquantes »
 - Depuis toujours sensible au problème de l’écologie, Clementoni utilise beaucoup de matériaux recyclés, évitant l’emploi de composants polluants. Made in Italy.
 - Les images les plus attrayantes, une grande variété de formats et une qualité signée Clementoni pour une gamme qui est devenue une référence pour les férus de puzzles du monde entier.
-- Visitez la rubrique Assistance Clementoni pour bénéficier du service « Pièces manquantes »
-- Dimensions du puzzle terminé : 69 x 50 cm
 - Puzzle pour adultes 1000 pièces
+- Dimensions du puzzle terminé : 69 x 50 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09S7MR7FS{{</world>}}

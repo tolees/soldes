@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sous licence officielle de The Pokémon Company International
-- Coffret de construction contenant une figurine Pikachu et un environnement de plage qui se connecte à d’autres ensembles
 - Peut être combiné à d’autres coffrets Adventure Builder (vendus séparément) afin de créer un vaste univers Pokémon
+- Sous licence officielle de The Pokémon Company International
 - Les 79 briques et pièces de ce coffret sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres grandes marques
+- Coffret de construction contenant une figurine Pikachu et un environnement de plage qui se connecte à d’autres ensembles
 - Idéal à partir de 7 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

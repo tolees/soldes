@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec les contrôleurs Xbox Series X et Xbox One - comprend 2 x couvertures Xbox Series X et 2 x couvertures Xbox One pour sadapter à votre contrôleur spécifique
+- Batteries rechargeables de 850mAh puissantes et efficaces offrant une charge rapide et efficace pour des heures de jeu avec une seule charge complète par batterie
 - Station de charge double pour contrôleurs avec deux batteries rechargeables
 - Conçu pour compléter esthétiquement votre console et dispose dindicateurs de charge LED à lavant
 - Design drop-and-go qui supprime le besoin de connecter des fils compliqués et comprend un câble USB détachable de 2 mètres pour permettre un placement flexible
-- Batteries rechargeables de 850mAh puissantes et efficaces offrant une charge rapide et efficace pour des heures de jeu avec une seule charge complète par batterie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08K9XTNPK{{</world>}}

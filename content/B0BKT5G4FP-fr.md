@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des hordes écrasantes - Affrontez des hordes dennemis enragés qui menacent de submerger Leon avec des méthodes dattaque encore plus variées que dans la version originale.
 - Le retour d’un jeu iconique - Resident Evil 4 préserve lessence du jeu original, entièrement recréé à laide du moteur de Capcom, le RE Engine, proposant des graphismes réalistes et prolonge lhistoire dune manière impossible à réaliser à lépoque du lancement initial.
 - Gameplay modernisé - Engagez des combats frénétiques avec les villageois de Ganados, résolvez des énigmes et collectez des objets utiles à la lutte de Leon et Ashley pour survivre.
+- Des hordes écrasantes - Affrontez des hordes dennemis enragés qui menacent de submerger Leon avec des méthodes dattaque encore plus variées que dans la version originale.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKT5G4FP{{</world>}}

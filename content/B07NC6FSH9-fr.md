@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À la mode et à lallure sûre
-- Passe au lave-vaisselle et au micro-ondes.
-- poterie de grès
-- Service de table en faïence 18 pièces
 - Explosion de couleurs.
+- poterie de grès
+- Passe au lave-vaisselle et au micro-ondes.
+- Service de table en faïence 18 pièces
+- À la mode et à lallure sûre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NC6FSH9{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Différentes dimensions réglables sur le guide
 - Réglable sur largeur de planches jusquà 235 mm
 - Permet de reporter vite et avec précision le tracé du mur et dadapter ainsi avec précision la dernière lame à ce tracé
-- Fabrication européenne
-- Différentes dimensions réglables sur le guide
 - Crayon en bois éco-certifié
+- Fabrication européenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CSYWSGZ{{</world>}}

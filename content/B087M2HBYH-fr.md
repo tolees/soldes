@@ -30,10 +30,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - produit 2: Peindre sans dépasser
 - produit 1: Kit complet
-- produit 1: Sertissage de papier vélin
-- produit 2: Kit complet
 - produit 2: Sertissage de papier vélin
+- produit 2: Kit complet
 - produit 1: Peindre sans dépasser
+- produit 1: Sertissage de papier vélin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B087M2HBYH{{</world>}}

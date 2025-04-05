@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UN HOMMAGE À L’OPUS ORIGINAL
-- UNE VILLE DYNAMIQUE ET IMMERSIVE
 - CONTENU ADDITIONNEL : LÉdition Launch dAssassins Creed Mirage comprend le jeu complet ainsi que 3 lithographies.
-- L’ASSASSIN ULTIME
-- Une connexion Internet est nécessaire. Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
 - UN PUISSANT RÉCIT INITIATIQUE
+- Une connexion Internet est nécessaire. Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
+- UNE VILLE DYNAMIQUE ET IMMERSIVE
+- L’ASSASSIN ULTIME
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C698YX5W{{</world>}}

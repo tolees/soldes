@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en:- Italie
-- Plus de 130 composants sont inclus: boîte de vitesses, engrenages, jantes, pneus, élastiques, barres, poulies, etc.
 - Un coffret scientifique innovant pour découvrir les secrets de ces 2 véhicules surpuissants.
+- Plus de 130 composants sont inclus: boîte de vitesses, engrenages, jantes, pneus, élastiques, barres, poulies, etc.
+- Fabriqué en:- Italie
 - Lenfant construit lui-même un Roadster et un dragster en intégrant leur système de transmission.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

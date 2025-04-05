@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haut à manches courtes pour homme, Idéal toute lannée
 - Logo Columbia tendance
-- Disponible en différentes couleurs
 - Confort optimal grâce au tissu 100 Percentage jersey de coton
+- Disponible en différentes couleurs
+- Haut à manches courtes pour homme, Idéal toute lannée
 - Contenu : 1x Columbia CSC Basic Logo tee-shirt manches courtes homme, Couleur : Noir, Taille: S, 1680053
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

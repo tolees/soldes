@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Patins PTFE thermo traités et préajustés
-- Câble PhantomFlex ultra flexible
+- Capteur optique Roccat Owl-Eye 19 000 DPI
 - Coque ultralégère Roccat Bionic Shell : seulement 66 g
 - Interrupteurs optiques Titan : rapide et tactile
-- Capteur optique Roccat Owl-Eye 19 000 DPI
+- Câble PhantomFlex ultra flexible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B092RDWD3W{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compartiment deau pour recueillir la graisse
 - Parfait pour tous les modes de cuisson
 - Équipé dun allumage piezo qui rend inutile les allumettes, convient pour les cartouches à gaz CV-300 Plus et CV-470 Plu
 - Gril compact et polyvalent pour fêtes
-- Compartiment deau pour recueillir la graisse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01B4WOJWC{{</world>}}

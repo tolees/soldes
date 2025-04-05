@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trois types de râpes sur la semelle
 - Pour cloisons sèches Tetra Teeth anti-bourre et double action
+- Trois types de râpes sur la semelle
 - Récupération de la poussière dans la poignée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

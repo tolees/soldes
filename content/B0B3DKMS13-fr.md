@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnalité Turbo adaptable (entrée D)
-- Commutateur de mode
 - Vibration Rumpel
+- Commutateur de mode
 - Contrôle des mouvements
+- Fonctionnalité Turbo adaptable (entrée D)
 - Contrôleur sans fil pour Switch, Android et Raspberry Pi
 
 [🛒 Achète-le!!]({{< param buyurl >}})

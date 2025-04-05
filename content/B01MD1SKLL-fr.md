@@ -31,11 +31,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - 【Configuration facile en une seule touche】Appuyez sur le bouton WPS de votre Box Internet ( routeur) et sur le bouton WPS de votre répéteur pour étendre votre couverture WiFi en quelques secondes
 - 【Compatibilité universelle & installation simple】Compatible avec tous les box Internet et routeurs WiFi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
 - 【Mode point daccès】Connectez votre connexion Internet filaire au RE305 via un câble Ethernet pour le transformer en un point daccès WiFi double bande
-- 【Étendez votre couverture】Répéteur WiFi RE305 augmentent la couverture WiFi jusquà 120 m² et connectent jusquà 18 appareils tels que des smartphones, des tablettes, des PC, etc
 - Remarque : Le prolongateur ne parvient pas à se connecter aux réseaux hôtes. Veuillez aller dans Paramètres > Sans fil > Connexion au réseau pour vérifier les mots de passe des réseaux hôtes
-- 【Répéteur WiFi haut débit】Profitez dun WiFi rapide jusquà 1200 Mbps (867 Mbps sur 5 GHz, 300 Mbps sur 2,4 GHz), idéal pour le streaming 4K et les jeux en ligne
 - Système requis : Microsoft Windows 98SE, NT, 2000, XP, Vista or Windows 7, 8, 10, Mac OS, NetWare, UNIX or Linux
 - 【Port Ethernet】Avec son port Ethernet 10/100M, le RE305 peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc
+- 【Répéteur WiFi haut débit】Profitez dun WiFi rapide jusquà 1200 Mbps (867 Mbps sur 5 GHz, 300 Mbps sur 2,4 GHz), idéal pour le streaming 4K et les jeux en ligne
+- 【Étendez votre couverture】Répéteur WiFi RE305 augmentent la couverture WiFi jusquà 120 m² et connectent jusquà 18 appareils tels que des smartphones, des tablettes, des PC, etc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MD1SKLL{{</world>}}

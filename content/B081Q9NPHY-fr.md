@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Inclus: 1 PZ1, 2 PZ2, 1 PZ3, 1 PH1, 2 PH2, 1 PH3, 1 T15, 1 T20, 1 T25, 1 T30, 1 SL4, 1 SL5.5, 1 SL5.5, 1 SL6.5, 1 H3, 1 H4, 1 H5, 1 H6
+- Porte-embouts magnétique: il maintient les embouts solidement pendant lutilisation
 - Universels : Ces embouts ont des queues hexagonales 1/4" et ils sont compatibles avec les perceuses et les tournevis manuels ou électriques de toutes marques (DeWalt, Makita, Black + Decker, Festool, Metabo, Skil, etc)
 - Accès rapide aux embouts: Grâce à un mousqueton solide, lassortiment d’embouts peut être fixé sur un vêtement, permettant de garder les embouts à portée de main
-- Porte-embouts magnétique: il maintient les embouts solidement pendant lutilisation
-- Inclus: 1 PZ1, 2 PZ2, 1 PZ3, 1 PH1, 2 PH2, 1 PH3, 1 T15, 1 T20, 1 T25, 1 T30, 1 SL4, 1 SL5.5, 1 SL5.5, 1 SL6.5, 1 H3, 1 H4, 1 H5, 1 H6
 - Nombreuses applications: Lassortiment contient des embouts pour le vissage des vis les plus couramment utilisées à empreinte cruciforme, tête Pozidriv, Torx, fendue et hexagonale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

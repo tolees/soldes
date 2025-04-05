@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Centrum Logistyczne MLP, Lakowa 23, 55-095 Mirkow, Poland
 - Zero calorie, sirop sans sucre de Bulk Idéal pour ceux qui suivent un régime hypocalorique ou pour ceux qui cherchent à mener une vie saine Idéal avec des aliments tels que le porridge, le yaourt, les crêpes de café Livré dans une bouteille de 400 ml pour une utilisation facile Disponible dans une gamme de saveurs délicieuses Volume du colis: 400.0 millilitres Poids du colis: 0.7 kilogrammes
+- Centrum Logistyczne MLP, Lakowa 23, 55-095 Mirkow, Poland
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093CS73GN{{</world>}}

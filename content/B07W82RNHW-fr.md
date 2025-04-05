@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Department: Homme
-- Ajustement régulier
 - Tissu Nike dry
+- Ajustement régulier
+- Department: Homme
 - Ras du cou côtelé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: Nacon
-- RIG 500 Pro HA ATMOS
-- Quels composants sont inclus dans la livraison: Casque Dolby Atmos Code dactivation prépayé
 - Pays dorigine: CN
+- Marque: Nacon
+- Quels composants sont inclus dans la livraison: Casque Dolby Atmos Code dactivation prépayé
+- RIG 500 Pro HA ATMOS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZKH5WGX{{</world>}}

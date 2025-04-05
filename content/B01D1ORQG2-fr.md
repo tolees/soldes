@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPLICATION SIMPLE ET RAPIDE : Très facile à appliquer, il suffit de retirer le papier protecteur, coller la bande sur un support propre et sec et presser fermement à laide dun rouleau adapté (type rouleau maroufleur). Peux-être appliqué à basse température. Pour les joinctions un recouvrement de 5cm est nécessaire
-- MULTI-SUPPORTS : La bande Sika Mutiseal auto-adhérente présente une bonne adhérence sur de nombreux supports : béton, brique, plaque fibre-ciment, tuiles, métal, tuyaux plastique, pierre, bois, verre et y compris les supports bitumineux
 - FONCTIONNALITES : Sutilise en neuf et en réparation pour traiter les fissures, les joints et raccords et peut être peint
+- MULTI-SUPPORTS : La bande Sika Mutiseal auto-adhérente présente une bonne adhérence sur de nombreux supports : béton, brique, plaque fibre-ciment, tuiles, métal, tuyaux plastique, pierre, bois, verre et y compris les supports bitumineux
 - MULTIFONCTION : Bande auto-adhésive à froid utilisé pour de nombreux travaux d’étanchéité en toiture, éléments de construction et étanchéité de camping-car et caravane
 - UTILITES : Idéal pour létanchéité et/ou la réparation des solins, raccordements de toitures, gouttières, souches de cheminées, lanterneaux,verrières, chénaux acrotères, toit de camping-car
+- APPLICATION SIMPLE ET RAPIDE : Très facile à appliquer, il suffit de retirer le papier protecteur, coller la bande sur un support propre et sec et presser fermement à laide dun rouleau adapté (type rouleau maroufleur). Peux-être appliqué à basse température. Pour les joinctions un recouvrement de 5cm est nécessaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01D1ORQG2{{</world>}}

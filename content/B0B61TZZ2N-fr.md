@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La référence du Jeu de basketball est de retour avec NBA 2K23
 - Labonnement LEAGUE PASS vous donne accès à toute la saison à venir. Plus de renseignements sur nba.2k.com/2k23/fr-FR/league-pass/
 - Bonus de précommande : 5 000 VC (monnaie virtuelle)- 5 000 points MyTEAM-10 packs promo MyTEAM (un pack par semaine)-Un boost pour chaque catégorie de compétences Ma CARRIÈRE-Un Boost pour chaque catégorie de Boost Gatorade-Maillot Mon JOUEUR Devin Booker-Carte agent libre Devin Booker MyTEAM, notée 95
+- La référence du Jeu de basketball est de retour avec NBA 2K23
 - Contient : Le jeu de base - 100 000 VC (monnaie virtuelle)- 1 accès Dual-Gen (dans la même famille de console) - 12 mois d’abonnement NBA LEAGUE PASS - Du contenu bonus Ma CARRIÈRE et MyTEAM
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

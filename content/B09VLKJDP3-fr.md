@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A partir de 10 ans
-- 2 joueurs
-- Retrouvez Splendor, le jeu rapide et addictif, pour deux joueurs !
 - Bâtissez votre empire commercial plus vite que votre adversaire !
+- 2 joueurs
 - Durée de jeu : 30 min
 - Durée de jeu : 30 min
+- Retrouvez Splendor, le jeu rapide et addictif, pour deux joueurs !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VLKJDP3{{</world>}}

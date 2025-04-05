@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lenceinte SRS-XE300 respecte lenvironnement. Du plastique recyclé est utilisé dans les composants internes de la SRS-XE300. De même, lemballage individuel de la SRS-XE300 ne contient pas plus de 5 % de matériaux plastiques.
 - Lenceinte SRS-XE300 diffuse un son plus large, plus clair et plus puissant grâce à la technologie unique du Diffuseur Line-Shape, à ses haut-parleurs X-Balanced et ses deux radiateurs passifs.
+- Emportez votre musique à la plage, à la piscine, au parc. Lenceinte SRS-XE300 est étanche à leau et à la poussière (IP67), résistante à leau salée et aux chocs. Avec 24h dautonomie, faîte la fête non stop sans interruption!
+- Lenceinte SRS-XE300 respecte lenvironnement. Du plastique recyclé est utilisé dans les composants internes de la SRS-XE300. De même, lemballage individuel de la SRS-XE300 ne contient pas plus de 5 % de matériaux plastiques.
 - Donnez encore plus dampleur à votre fête grâce à Party Connect via Bluetooth. Connectez jusquà 100 enceintes Bluetooth Sony compatibles pour profiter dun son synchronisé.
 - Utilisez lenceinte SRS-XE300 pour téléphoner avec vos amis ou collègues. Grâce à lannulation de lécho, deux personnes peuvent parler en même temps sans coupure. Et avec la connexion multipoint, deux appareils peuvent être appairés en même temps.
-- Emportez votre musique à la plage, à la piscine, au parc. Lenceinte SRS-XE300 est étanche à leau et à la poussière (IP67), résistante à leau salée et aux chocs. Avec 24h dautonomie, faîte la fête non stop sans interruption!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B1JC9N2Z{{</world>}}

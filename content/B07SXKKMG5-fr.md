@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design sophistiqué avec des finitions en acier inoxydable avec un panier et un filtre qui conviennent au lave-vaisselle. Le couvercle intègre un filtre anti-odeurs pour éviter odeurs désagréables dans la cuisine et une fenêtre pour faciliter le contrôle du processus de friture.
-- Friteuse de haute gamme avec 1,5 litres de capacité. Idéal pour faire frire de petites quantités de pomme de terres, poulet ou poisson. Inclut un filtre OilCleaner pour maintenir lhuile propre après chaque utilisation et une cuve avec un revêtement anti-adhérente pour assurer une cuisson uniforme, empêcher les aliments de sadhérer et faciliter le nettoyage.
 - Compte avec une protection contre la surchauffe et un voyant lumineux de fonctionnement.
 - Le panier est amovible et avec un manche longue pour contrôler la friture et éviter toute brûlure.
+- Design sophistiqué avec des finitions en acier inoxydable avec un panier et un filtre qui conviennent au lave-vaisselle. Le couvercle intègre un filtre anti-odeurs pour éviter odeurs désagréables dans la cuisine et une fenêtre pour faciliter le contrôle du processus de friture.
+- Friteuse de haute gamme avec 1,5 litres de capacité. Idéal pour faire frire de petites quantités de pomme de terres, poulet ou poisson. Inclut un filtre OilCleaner pour maintenir lhuile propre après chaque utilisation et une cuve avec un revêtement anti-adhérente pour assurer une cuisson uniforme, empêcher les aliments de sadhérer et faciliter le nettoyage.
 - Dispose de 900 W de puissance pour plus de vitesse et atteindre une friture parfaite, sa température est réglable jusquà 190 º C pour de meilleurs résultats et il est facile à transporter et stocker grâce à sa taille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

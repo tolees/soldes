@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le contenu de lEjected + un tour de cou, une peluche coéquipier, un Pins en émail « Tournoyer dans lespace » dans un boîtier Édition Impostor en édition limitée
 - La vie de coéquipier : Pour gagner, accomplissez toutes vos tâches, mais attention aux imposteurs ! Signalez les cadavres et convoquez des réunions durgence pour désigner les imposteurs par un vote
 - Rejoignez vos coéquipiers dans un jeu de coopération et de trahison ! Jouez en ligne, de 4 à 15 joueurs en multi-plateformes, sur PlayStation, Xbox, Nintendo Switch, PC, Android ou iOS !
-- Le contenu de lEjected + un tour de cou, une peluche coéquipier, un Pins en émail « Tournoyer dans lespace » dans un boîtier Édition Impostor en édition limitée
 - Jouer un imposteur : Semez le chaos, faites-vous discret et faites porter le chapeau à des innocents ! Pour gagner, vous devez tuer tous vos coéquipiers. Pensez-vous être un maître du sabotage ?
 - Lédition Crewmate comprend le jeu de base Among Us et tous ses DLC: Packs de skins Airship, Polus et MIRA HQ; packs de bestioles Hamster, Krabouille, Poulpe, Stickmin et pack Mini-coéquipier
 

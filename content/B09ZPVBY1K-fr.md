@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Écran tactile de 12,4 pouces PixelSense, avec bordures fines au format 3:2 vous offrant plus despace vertical par rapport aux autres ordinateurs portables pour plus de confort de lecture
+- Équipé de Windows 11
 - Utilisez toutes vos applications quotidiennes, naviguez sur le web et visionnez du contenu en streaming où que vous soyez grâce à un processeur Intel Core i5 rapide de 11e génération et à une autonomie prévue pour tenir toute la journée
 - Connectez les accessoires que vous utilisez grâce aux ports USB-C et USB-A intégrés, au port Surface Connect et à la prise casque
-- Bouton dalimentation intégrant un lecteur dempreintes digitales pour déverrouiller votre ordinateur rapidement et en toute sécurité
-- Équipé de Windows 11
 - Écrivez confortablement sur le clavier complet doté dun pavé tactile grand et précis qui vous permet de naviguer, de faire défiler et de sélectionner des éléments facilement
 - Écran tactile de 12,4 pouces PixelSense, avec bordures fines au format 3:2 vous offrant plus despace vertical par rapport aux autres ordinateurs portables pour plus de confort de lecture
-- Écran tactile de 12,4 pouces PixelSense, avec bordures fines au format 3:2 vous offrant plus despace vertical par rapport aux autres ordinateurs portables pour plus de confort de lecture
+- Bouton dalimentation intégrant un lecteur dempreintes digitales pour déverrouiller votre ordinateur rapidement et en toute sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZPVBY1K{{</world>}}

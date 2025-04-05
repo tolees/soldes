@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Works without a cutting mat – just load & go!
-- 1 roll 33cm x 0.9m (13in x 3ft)
 - Dishwasher friendly
-- For Cricut Explore 3 & Cricut Maker 3
+- 1 roll 33cm x 0.9m (13in x 3ft)
 - Weather-resistant, ideal for outdoor projects
+- For Cricut Explore 3 & Cricut Maker 3
+- Works without a cutting mat – just load & go!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095X85ZSN{{</world>}}

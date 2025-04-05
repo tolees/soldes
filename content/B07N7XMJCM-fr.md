@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEUX DE CARTES : Avec Waddingtons Number 1, retrouvez les héros de vos univers préférez dans les classiques jeux de 54 cartes.
-- HARRY POTTER : Harry, Ron, Hermione et les autres sinvitent sur votre jeu de 54 cartes !
-- CONTENU : 54 cartes sur le thème dHarry Potter (52 cartes assorties + 2 jokers).
 - FORMAT : Taille des cartes : 58mm x 88mm.
+- CONTENU : 54 cartes sur le thème dHarry Potter (52 cartes assorties + 2 jokers).
 - JEU DE SOCIETE : A partir de 1 joueurs. A partir de 4 ans.
+- HARRY POTTER : Harry, Ron, Hermione et les autres sinvitent sur votre jeu de 54 cartes !
+- JEUX DE CARTES : Avec Waddingtons Number 1, retrouvez les héros de vos univers préférez dans les classiques jeux de 54 cartes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N7XMJCM{{</world>}}

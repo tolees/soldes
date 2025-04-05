@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Low Blue Light, luminosité/constraste : 450 cd/m², 3000:1, ports : 1x DP 1.4, 2x HDMI 2.0, 1x USB-C 3.1 Gen 2, 1x USB (port amont), 3x USB (port aval), RJ45 Ethernet LAN, webcam
 - Écran Philips LCD incurvé SuperWide au format 32:9 avec USB-C et webcam rétractable avec fonction Windows Hello
-- Dalle VA, incurvé à 1800K, écran mat, réglable en hauteur jusqu’à 130 mm, 2x haut-parleurs 5 W, sortie casque, VESA 100x100, pied amovible, anti-scintillement
 - Contenu de la livraison : Écran incurvé Philips 499P9H/00 124 cm (49 pouces), câble d’alimentation, câble HDMI, câble DP, câble USB-A vers B, câble USB-C vers C, CD d’installation, fiche de garantie
+- Technologie Low Blue Light, luminosité/constraste : 450 cd/m², 3000:1, ports : 1x DP 1.4, 2x HDMI 2.0, 1x USB-C 3.1 Gen 2, 1x USB (port amont), 3x USB (port aval), RJ45 Ethernet LAN, webcam
+- Dalle VA, incurvé à 1800K, écran mat, réglable en hauteur jusqu’à 130 mm, 2x haut-parleurs 5 W, sortie casque, VESA 100x100, pied amovible, anti-scintillement
 - Garantie constructeur : 2 ans. Retrouvez les conditions de garantie sous « Informations techniques complémentaires ». Vos droits de garantie légale restent inchangés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

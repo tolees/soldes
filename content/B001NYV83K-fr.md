@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
 - La clé extra-plate est 3 fois moins haute quun système traditionnel cliquet + douille. Mécanisme à cliquet compact et réversible par retournement de la clé.
 - Les clés polygonales à cliquets permettent un gain de temps pour une manoeuvre très rapide de l’écrou.
 - Système FlankTraction Forme droite Cliquet précis 72 dents - 4 tailles de clés différentes - Cliquet réversible - Finition satinée - Chrome Vanadium
+- KS Tools a pour ambition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marché de loutillage à main professionnel et cela grâce à vous !
 - Outillage alliant qualité, robustesse, esthétique, performance, technologie de pointe et confort de travail, avec les outils KStools, le meilleur rapport qualité/prix.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

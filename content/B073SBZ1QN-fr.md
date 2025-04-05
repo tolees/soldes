@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un classeur pour papiers de 12" x 12" ou 30 x 30 cm, appelé transfer folder, qui protège de la chaleur le papier auquel vous appliquez la finition folio.
-- Une pièce de 6 "x12" (15 x 30 cm) de feuille dorée.
 - 3 tags ou étiquettes imprimées au laser pour tester la machine.
+- Une pièce de 6 "x12" (15 x 30 cm) de feuille dorée.
+- Un classeur pour papiers de 12" x 12" ou 30 x 30 cm, appelé transfer folder, qui protège de la chaleur le papier auquel vous appliquez la finition folio.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073SBZ1QN{{</world>}}

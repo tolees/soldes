@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception compacte : réchaud à allumage manuel à gaz facile à utiliser and repliable ; panneaux latéraux munis de poignées de transport intégrées et couvercle à serrure en acier sécurisée
-- Disponibilité dans le monde entier : fonctionne avec les bouteilles de gaz Campingaz R907/R904 (autonomie : 9h 30 m/6 h 10 m), disponible dans 50 Plus pays ; liste de revendeurs sur campingaz/gasfinder
-- Puissant : 2 brûleurs performants en inox 2 kW réglables ; boutons poussoirs et tournants pour un contrôle total de la flamme ; supports lavables au lave-vaisselle pour 2 poêles ⌀ ≤ 24 cm
 - Conception améliorée : le couvercle recouvre la plaque de cuisson pour la protéger et sert de pare-vent lorsquelle est ouverte
+- Disponibilité dans le monde entier : fonctionne avec les bouteilles de gaz Campingaz R907/R904 (autonomie : 9h 30 m/6 h 10 m), disponible dans 50 Plus pays ; liste de revendeurs sur campingaz/gasfinder
+- Conception compacte : réchaud à allumage manuel à gaz facile à utiliser and repliable ; panneaux latéraux munis de poignées de transport intégrées et couvercle à serrure en acier sécurisée
 - Taille (ouvert/fermé) : 49 x 45 x 33 / 49 x 35 x 10 cm, consommation de gaz : 291 g/h ; poids : 3,5 kg ; ne pas utiliser de réchauds à gaz à lintérieur ; tuyau et régulateur vendus séparément
+- Puissant : 2 brûleurs performants en inox 2 kW réglables ; boutons poussoirs et tournants pour un contrôle total de la flamme ; supports lavables au lave-vaisselle pour 2 poêles ⌀ ≤ 24 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08145SDBQ{{</world>}}

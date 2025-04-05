@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une marque Amazon
 - Confectionné en coton doux, respirant et hypoallergénique conçu pour un confort durable
+- Une marque Amazon
 - Garni de dentelle adhérant confortablement à la peau et offrant une finition lisse
 - Offre une couverture moyenne et de coupe taille basse pour être invisible sous un pantalon de taille moyenne
 

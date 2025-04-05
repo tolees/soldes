@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche longue
 - Type de col: Button Down
-- Lavage en machine
-- Slim
-- Fermeture: Enfiler
 - 100% Polyester
+- Fermeture: Enfiler
+- Lavage en machine
+- Manche longue
+- Slim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089LY29WZ{{</world>}}

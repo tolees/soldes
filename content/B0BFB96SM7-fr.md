@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Profitez de la musique et des vidéos à votre guise
 - Multijoueur en ligne jusquà 4 joueurs
 - Abandonnez-vous dans le rythme
-- Les musiques de FINAL FANTASY réunies au sein dun même jeu
 - Constituez léquipe de vos rêves avec un total de 104 personnages à choisir
+- Les musiques de FINAL FANTASY réunies au sein dun même jeu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFB96SM7{{</world>}}

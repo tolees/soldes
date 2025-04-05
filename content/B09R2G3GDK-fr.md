@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cordon extensible
-- Fouet, presse-purée, verre doseur
 - Fonction turbo
 - Puissance 1000 Watts
+- Fouet, presse-purée, verre doseur
+- Cordon extensible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09R2G3GDK{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les notes de tête de baies rose souvrent sur un cœur de jasmin exquis & le confort des muscs.
 - Un parfum qui vous donne le sourire !
-- Les notes de fond de musc et de bois de cachemire assurent un sillage longue tenue.
-- Une eau de parfum florale musquée, espiègle et lumineuse.
 - Une dose de bonheur immédiate.
+- Une eau de parfum florale musquée, espiègle et lumineuse.
+- Les notes de fond de musc et de bois de cachemire assurent un sillage longue tenue.
+- Les notes de tête de baies rose souvrent sur un cœur de jasmin exquis & le confort des muscs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XF2Z9SJ{{</world>}}

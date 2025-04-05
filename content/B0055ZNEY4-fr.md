@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Deux niveaux de puissance : 600 - 1200 W
-- Installation facile
 - Deux tiges de quartz et un réflecteur protégé haute luminosité
+- Installation facile
 - Panneau orientable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

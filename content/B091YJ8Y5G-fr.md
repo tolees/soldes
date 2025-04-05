@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POELE EN FONTE DACIER : idéale pour griller et saisir
-- BECS VERSEURS : pour un service facilité
 - COMPATIBLE TOUS FEUX y compris induction
 - TAILLE : diamètre 28 cm
+- BECS VERSEURS : pour un service facilité
+- POELE EN FONTE DACIER : idéale pour griller et saisir
 - CUISSON AU FOUR : jusquà 250°C pour une utilisation de multiples façons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

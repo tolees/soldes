@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4 figurines LEGO Super Mario de l’univers Donkey Kong – Funky Kong et Diddy Kong ainsi qu’un Squalus à renverser et une Taupe minière à vaincre
-- Jouet LEGO Super Maio à Collectionner - Comprend également 4 personnages LEGO Super Mario de lunivers de Donkey Kong : Funky Kong et Diddy Kong, ainsi quun Squalus à écarter et une Taupe minière à vaincre pour enrichir le jeu de rôle
-- Les joueurs peuvent réparer les sections de rails, renverser le Squalus, terrasser la Taupe minière et « pulvériser » le rocher pour découvrir des bananes à offrir aux figurines LEGO Super Mario
-- Recréez les défis du chariot de mine de Donkey Kong avec cet Ensemble dExtension Course de Chariot de Mine de Diddy Kong LEGO Super Mario pour les enfants dès 8 ans
-- Ce set modulaire est reconstructible et se combine avec dautres jouets LEGO Super Mario ; à retrouver également dans lapplication LEGO Super Mario, qui contient des instructions de construction
-- Lensemble comprend également 4 personnages LEGO Super Mario de lunivers de Donkey Kong : Funky Kong et Diddy Kong, ainsi quun Squalus à écarter et une Taupe minière à vaincre
-- Ce jeu à construire Super Mario est un cadeau danniversaire ou de Noël amusant pour garçons, filles et tous les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360, 71387 ou 71403)
 - Ensemble dextension Course de chariot de mine de Diddy Kong (71425) – Avec ce set LEGO Super Mario pour enfants, recréez des défis Donkey Kong avec une course en chariot de mine, un vol en avion ou un rocher à pulvériser
+- 4 figurines LEGO Super Mario de l’univers Donkey Kong – Funky Kong et Diddy Kong ainsi qu’un Squalus à renverser et une Taupe minière à vaincre
+- Ce jeu à construire Super Mario est un cadeau danniversaire ou de Noël amusant pour garçons, filles et tous les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360, 71387 ou 71403)
+- Recréez les défis du chariot de mine de Donkey Kong avec cet Ensemble dExtension Course de Chariot de Mine de Diddy Kong LEGO Super Mario pour les enfants dès 8 ans
+- Lensemble comprend également 4 personnages LEGO Super Mario de lunivers de Donkey Kong : Funky Kong et Diddy Kong, ainsi quun Squalus à écarter et une Taupe minière à vaincre
+- Les joueurs peuvent réparer les sections de rails, renverser le Squalus, terrasser la Taupe minière et « pulvériser » le rocher pour découvrir des bananes à offrir aux figurines LEGO Super Mario
+- Jouet LEGO Super Maio à Collectionner - Comprend également 4 personnages LEGO Super Mario de lunivers de Donkey Kong : Funky Kong et Diddy Kong, ainsi quun Squalus à écarter et une Taupe minière à vaincre pour enrichir le jeu de rôle
+- Ce set modulaire est reconstructible et se combine avec dautres jouets LEGO Super Mario ; à retrouver également dans lapplication LEGO Super Mario, qui contient des instructions de construction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7GSJKC{{</world>}}

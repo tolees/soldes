@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notre carte mémoire SD UHS-I la plus puissante à ce jour avec des vitesses de prise allant jusquà 90 Mo/s et des vitesses de transfert jusquà 95 Mo/s
 - Garantie à vie. Température de fonctionnement: -13 ºF à 185 F (-25 ºC à 85 ºC)
-- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
-- Conçue pour capturer des vidéos 4K UHD et des photographies en mode rafale séquentiel
+- Notre carte mémoire SD UHS-I la plus puissante à ce jour avec des vitesses de prise allant jusquà 90 Mo/s et des vitesses de transfert jusquà 95 Mo/s
 - Compatibles avec tous les périphériques hôte compatibles SDXC et SDXC UHS-I
 - Conçue et testée en conditions extrêmes : résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Conçue pour capturer des vidéos 4K UHD et des photographies en mode rafale séquentiel
+- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01J5RHBQ4{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AX-Alpha Advanced Alpha Extra Cord.
 - Le Semi Slick Plus dispose dun tout nouveau motif de bande de roulement composé dun motif diamant lisse au centre avec des pattes latérales plus agressives.
-- Compatible sans chambre à air (jusquà 60 psi).
-- Dimensions : 27,5 x 1,90 cm
 - Boîtier plat.
+- AX-Alpha Advanced Alpha Extra Cord.
+- Dimensions : 27,5 x 1,90 cm
+- Compatible sans chambre à air (jusquà 60 psi).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09D3XQ3YC{{</world>}}

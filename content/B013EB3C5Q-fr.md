@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tunique imprimée avec capuche et masque P.V.C.
 - Déguisement sous licence officielle Star Wars
 - Déguisement classique Kylo Ren Star Wars VII
-- Tunique imprimée avec capuche et masque P.V.C.
 - Taille M 5 à 6 ans, pour les enfants mesurant entre 105 et 116 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

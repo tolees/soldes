@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU AVENTURES : Unlock Kids est un jeu daventures plein dénigmes pour les enfants à partir de 6 ans. Plongez dans de multiples univers entre enquêtes, objets cachés, étoiles et rencontres insolite
-- JEU ESCAPE GAME : Le célèbre jeu descape game Unlock revient dans une troisième édition adaptée aux enfants !
 - JEU SANS APPLICATION : Dans cette version dUnlock adaptée aux enfants, il ny pas besoin d’application. Les enfants restent éloignés des écrans
-- NOUVELLES ENIGMES : Chaque boîte propose 3 univers différents contenant chacun 2 aventures
 - JEU ENFANT : Cette version du jeu de société Unlock est totalement pensée et conçue pour les enfants à partir de 6 ans : ni calculs, ni textes, elle fait la part belle au plaisir et à la réflexion
+- JEU ESCAPE GAME : Le célèbre jeu descape game Unlock revient dans une troisième édition adaptée aux enfants !
+- JEU AVENTURES : Unlock Kids est un jeu daventures plein dénigmes pour les enfants à partir de 6 ans. Plongez dans de multiples univers entre enquêtes, objets cachés, étoiles et rencontres insolite
+- NOUVELLES ENIGMES : Chaque boîte propose 3 univers différents contenant chacun 2 aventures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6V4Z8H9{{</world>}}

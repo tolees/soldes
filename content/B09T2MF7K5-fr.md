@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - la mousse auto-bronzante
-- Global #1 Self Tan brand
 - un bronzage australien
+- Global #1 Self Tan brand
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09T2MF7K5{{</world>}}

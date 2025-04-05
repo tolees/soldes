@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EA SPORTS FC 24 marque une nouvelle ère dans The Worlds Game (le jeu Universel) : plus de 19 000 joueurs sous licence, plus de 700 équipes et plus de 30 compétitions forment le jeu de football le plus réaliste jamais créé
-- Créez des légendes de clubs et faites progresser votre effectif avec les nouvelles Évolutions Ultimate Team et alignez des joueuses sur le terrain aux côtés des hommes pour créer votre équipe de rêve
-- Carte cadeau à utiliser sur le PlayStation Store, notre boutique numérique proposant la plus grande bibliothèque de contenus et jeux PlayStation au monde
-- Réception du code de téléchargement par email et utilisable dans la boutique numérique de votre console PlayStation ou via votre navigateur web. Valable pendant 12 mois après date dachat
-- Écrivez votre propre histoire dans des carrières de joueur et de manager, et rejoignez vos amis sur le terrain grâce aux fonctions Cross-Play dans Clubs et VOLTA FOOTBALL
 - La meilleure idée de cadeau pour les joueurs : une sélection de milliers de jeux PS5, PS4, PS3 et PS Vita, dextensions, de monnaie en jeu, dabonnements, de films et bien plus encore
+- Carte cadeau à utiliser sur le PlayStation Store, notre boutique numérique proposant la plus grande bibliothèque de contenus et jeux PlayStation au monde
+- Écrivez votre propre histoire dans des carrières de joueur et de manager, et rejoignez vos amis sur le terrain grâce aux fonctions Cross-Play dans Clubs et VOLTA FOOTBALL
+- Créez des légendes de clubs et faites progresser votre effectif avec les nouvelles Évolutions Ultimate Team et alignez des joueuses sur le terrain aux côtés des hommes pour créer votre équipe de rêve
+- Réception du code de téléchargement par email et utilisable dans la boutique numérique de votre console PlayStation ou via votre navigateur web. Valable pendant 12 mois après date dachat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFFRWM9Y{{</world>}}

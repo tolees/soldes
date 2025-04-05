@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie limitée dun an
-- Taille de lécran : 68,6 cm (27 pouces)
-- AMD Freesync ; Antireflet ; Mode faible lumière bleue ; Certification HP Eye Ease ; HP Display Center
 - Type dentrée daffichage : 1 entrée DisplayPort 1.2 ; 2 ports HDMI 1.4
-- Résolution : QHD (2560 x 1440)
+- Garantie limitée dun an
+- AMD Freesync ; Antireflet ; Mode faible lumière bleue ; Certification HP Eye Ease ; HP Display Center
 - Temps de réponse : 5ms gris à gris
+- Résolution : QHD (2560 x 1440)
+- Taille de lécran : 68,6 cm (27 pouces)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094CRCGZL{{</world>}}

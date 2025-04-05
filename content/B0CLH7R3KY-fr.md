@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Positionnez-vous ainsi que le moniteur de la manière la plus ergonomique possible grâce au support LTPS (Lift, Tilt, Pivot, Pivot) pour pouvoir jouer longtemps.
 - Découvrez le jeu dans toute sa splendeur colorée sur le moniteur avec son rapport despace colorimétrique 99 % sRGB et 90 % DCI-P3. Donnez vie à vos jeux avec de superbes détails déclairage et dombre sur lécran HDR 400 certifié VESA.
+- Positionnez-vous ainsi que le moniteur de la manière la plus ergonomique possible grâce au support LTPS (Lift, Tilt, Pivot, Pivot) pour pouvoir jouer longtemps.
+- Jouez à une fréquence douce de 165 Hz sur le moniteur Legion R25i-30. Soyez toujours rapide dans les jeux compétitifs avec des temps de réponse MPRT ultra-rapides de 0,5 ms.
 - Explorez vos jeux avec une clarté exceptionnelle en résolution FHD sur lécran In-Plane Switching de 24,5 pouces ;
 - AMD FreeSync Premium et la certification ClearMR 7000 garantissent que le jeu est toujours sans saccades et sans flou de mouvement.
-- Jouez à une fréquence douce de 165 Hz sur le moniteur Legion R25i-30. Soyez toujours rapide dans les jeux compétitifs avec des temps de réponse MPRT ultra-rapides de 0,5 ms.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLH7R3KY{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- OENOBIOL, COMPLEMENTAIRES ALIMENTAIRES BEAUTE : Marque dorigine Française, Pionnière en Nutri-cosmétique depuis 35 ans, la plus connue par les Françaises(1). Des Formules sûres, inspirées par la Nature et potentialisées par la Science, avec des actifs puissants qui agissent de l’intérieur pour démultiplier et renforcer le capital beauté propre à chaque personne.
-- FORMULE EXCLUSIVE : Composée de 5 pigments d’origine naturelle - Lycopène, Lutéine, Curcuma, Zéaxanthine, Astaxanthine - et de Cuivre. Spécifiquement développée pour les Peaux Claires et Sensibles, elle contient de la Vitamine E, puissant antioxydant qui favorise la protection des cellules et lutte contre le stress oxydatif. Sans Béta-Carotène ajouté, sans traces ni d’effet orangé.
-- COMPLEMENT ALIMENTAIRE AUTOBRONZANT PEAU CLAIRE ET SENSIBLE : Assure un Teint Hâlé Naturel et une peau dorée de la tête aux pieds, même sans soleil. Pour Peaux Claires et Sensibles.
 - RESULTATS : 1er Complément Alimentaire Autobronzant du marché formulé pour les Peaux Claires et Sensibles, est une association exclusive d’ingrédients qui agit de l’intérieur pour un hâle parfait et homogène sans soleil. Arborer progressivement un joli hâle doré et homogène sur tout le corps, en un simple geste, sans exposer sa peau aux UV… Sans trace ni tache.
 - UTILISATION : 1 capsule par jour au cours du repas. Durée conseillée : 2 à 3 mois, selon les résultats souhaités. Recommandation : en complément dune protection solaire adaptée, ne protège pas des coups de soleil. Réservé à ladulte.
+- COMPLEMENT ALIMENTAIRE AUTOBRONZANT PEAU CLAIRE ET SENSIBLE : Assure un Teint Hâlé Naturel et une peau dorée de la tête aux pieds, même sans soleil. Pour Peaux Claires et Sensibles.
+- OENOBIOL, COMPLEMENTAIRES ALIMENTAIRES BEAUTE : Marque dorigine Française, Pionnière en Nutri-cosmétique depuis 35 ans, la plus connue par les Françaises(1). Des Formules sûres, inspirées par la Nature et potentialisées par la Science, avec des actifs puissants qui agissent de l’intérieur pour démultiplier et renforcer le capital beauté propre à chaque personne.
+- FORMULE EXCLUSIVE : Composée de 5 pigments d’origine naturelle - Lycopène, Lutéine, Curcuma, Zéaxanthine, Astaxanthine - et de Cuivre. Spécifiquement développée pour les Peaux Claires et Sensibles, elle contient de la Vitamine E, puissant antioxydant qui favorise la protection des cellules et lutte contre le stress oxydatif. Sans Béta-Carotène ajouté, sans traces ni d’effet orangé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089KP3LFG{{</world>}}

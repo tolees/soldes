@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une aventure en 2.5D alliant plateformes et énigmes
 - Un monde fantastique aux paysages époustouflants
 - Jusquà 4 joueurs avec le mode solo, la coop locale ou en ligne
-- Une aventure en 2.5D alliant plateformes et énigmes
 - Une accessibilité et une rejouabilité hors pair grâce au système de difficulté adaptative pour les combats et énigmes
 - Un nouveau système de combat avec des boss redoutables
 

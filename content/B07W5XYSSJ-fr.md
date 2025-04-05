@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Slim Fit pour une mesure de style; sangle cachée
-- La technologie Dri-FIT qui assure le confort et la peau sèche.
 - Le tricot est souple et élastique.
 - coutures coudés sur les côtés qui vous donnent la liberté de mouvement.
+- La technologie Dri-FIT qui assure le confort et la peau sèche.
 - taille élastique doublée poignée Mesh et respirabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

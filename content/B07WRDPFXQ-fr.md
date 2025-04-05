@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effectuez des prises de vue en toute confiance et dans toutes les conditions grce à la qualité de fabrication de la série L
 - RF 15-35mm F/2.8L IS USMPare-soleil EW-88FÉtui dobjectif LP1222Bouchon antipoussière de lobjectif RFBouchon dobjectif E-82 II
+- Effectuez des prises de vue en toute confiance et dans toutes les conditions grce à la qualité de fabrication de la série L
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WRDPFXQ{{</world>}}

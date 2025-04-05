@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - PAIR ET IMPAIR : Une nouvelle aventure explosive et drôle au système de combat amélioré. Nos héros sont maintenant améliorés et ont des capacités spéciales.
 - INCLUS : un mini artbook et une affiche de film. Ainsi quune jaquette réversible de Renato Casaro, le créateur des affiches de Bud Spencer.
-- DEUX SUPER-FLICS : Tout peut être une arme ! En plus de vos capacités spéciales, vous pouvez utiliser des objets de lenvironnement pour mettre des raclées aux ennemis. Et ce ne sont pas les haricots qui manquent (ni les bananes) !
 - LES QUATRE DE LAVE MARIA : Ouvrez grand vos oreilles. Ce jeu inclut un doublage en anglais, italien, allemand et espagnol. Et profitez de nouveaux titres dOliver Onions, compositeurs de la musique des films, qui embelliront le bruit des baffes.
 - ATTENTION LES DÉGÂTS : Faites équipe avec un pote pour profiter de lhistoire en coop 2 joueurs en local. Des tas de mini-jeux compétitifs vous attendent, ajoutant à lhistoire des mécaniques amusantes.
 - SALUT LAMI, ADIEU LE TRÉSOR : Le mode party game dédié (mini-jeux uniquement), qui peut réunir jusquà 4 joueurs, vous permet de vous affronter pour obtenir le meilleur score. Du pixel art dessiné à la main pour des baffes distribuées au pixel près.
+- DEUX SUPER-FLICS : Tout peut être une arme ! En plus de vos capacités spéciales, vous pouvez utiliser des objets de lenvironnement pour mettre des raclées aux ennemis. Et ce ne sont pas les haricots qui manquent (ni les bananes) !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C46R9WXG{{</world>}}

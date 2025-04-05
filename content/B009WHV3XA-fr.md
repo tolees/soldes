@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’Adaptateur pour appareil photo Lightning vers USB prend en charge les formats photo standard, notamment JPEG et RAW, ainsi que les formats vidéo SD et HD, notamment H.264 et MPEG-4. Nécessite iOS 9.2 ou version ultérieure, ou iPadOS.
+- Compatibilité modèles d’iPod iPod touch (7ᵉ génération) iPod touch (6ᵉ génération)
 - Compatibilité modèles d’iPhone: iPhone 5 - iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max
+- Lorsque vous synchronisez un iPad ou un iPhone avec votre PC ou votre Mac, les photos et les vidéos importées sur l’iPad ou l’iPhone sont ajoutées à la photothèque de votre ordinateur.
+- L’Adaptateur pour appareil photo Lightning vers USB prend en charge les formats photo standard, notamment JPEG et RAW, ainsi que les formats vidéo SD et HD, notamment H.264 et MPEG-4. Nécessite iOS 9.2 ou version ultérieure, ou iPadOS.
+- Configuration requise: modèles d’iPhone et d’iPod touch exécutant iOS 9 ou version ultérieure et modèles d’iPad exécutant iPadOS.
 - Avec l’Adaptateur pour appareil photo Lightning vers USB, rien de plus simple que de télécharger des photos et vidéos de votre appareil photo numérique sur votre iPad ou iPhone avec connecteur Lightning. Vous pouvez ainsi les visionner sur le magnifique écran Retina et les faire admirer à vos proches.
 - Compatibilité modèles d’iPad: iPad Pro 12,9 pouces (1re et 2e générations), iPad Pro 10,5 pouces, iPad Pro 9,7 pouces, iPad (5e, 6e, 7e, 8e et 9e générations), iPad Air (3e, 2e et 1re génération), iPad mini (5e, 4e, 3e, 2e et 1re génération)
-- Configuration requise: modèles d’iPhone et d’iPod touch exécutant iOS 9 ou version ultérieure et modèles d’iPad exécutant iPadOS.
-- Compatibilité modèles d’iPod iPod touch (7ᵉ génération) iPod touch (6ᵉ génération)
-- Lorsque vous synchronisez un iPad ou un iPhone avec votre PC ou votre Mac, les photos et les vidéos importées sur l’iPad ou l’iPhone sont ajoutées à la photothèque de votre ordinateur.
 - Une fois que l’Adaptateur pour appareil photo Lightning vers USB est connecté, votre iPad ou iPhone ouvre automatiquement l’app Photos pour que vous puissiez choisir les photos et vidéos à importer, puis les classer dans des albums.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

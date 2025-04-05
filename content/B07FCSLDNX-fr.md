@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une réalisation au top – Développé pour la première fois sur le moteur propriétaire de Capcom
 - Un arsenal démoniaque - Des prothèses offensives multifonctions de Néro aux armes toujours plus improbables de Dante
+- Le retour de la série de jeux d’action légendaires – La saga aux 16 millions d’unités vendues revient après dix ans d’attente par tous les fans d’action à grand spectacle.
 - 3 personnages jouables : Dante, le personnage culte de la série. Nero, le héros de Devil May Cry 4 et V, le nouveau chasseur de démons.
 - Le style avant tout : Toujours à la recherche du style le plus pur, les joueurs devront se surpasser pour obtenir le rang SSS et être le chasseur de démons le plus classe
-- Le retour de la série de jeux d’action légendaires – La saga aux 16 millions d’unités vendues revient après dix ans d’attente par tous les fans d’action à grand spectacle.
-- Une réalisation au top – Développé pour la première fois sur le moteur propriétaire de Capcom
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FCSLDNX{{</world>}}

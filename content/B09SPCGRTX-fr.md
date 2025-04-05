@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La sécurité enfants empêche le démarrage du robot-aspirateur par les enfants ou les animaux domestiques
-- Fonction daspiration avec une puissance daspiration élevée de 4200Pa & fonction dessuyage avec 30 niveaux de débit deau pour un dosage optimal de leau en fonction du type de sol et une pression uniforme de 300g sur la serpillière pour un nettoyage sans compromis
-- Reconnaît automatiquement jusquà quatre étages différents avec la fonction de carte multi-niveaux
-- Langlebige Vollgummi-Bürste für einen noch engeren Bodenkontakt ohne Verheddern von Haaren für eine noch effektivere Reinigung
-- Station de vidage automatique avec sac à poussière de 2,5 l pour un vidage automatique du réservoir à poussière et un nettoyage jusquà 7 semaines sans vidage
-- Batterie de 5200mAh avec une autonomie de 3 heures pour un nettoyage non-stop de 300 m² max
-- Navigation PreciSense à distance laser précise (LiDAR) pour la planification intelligente de trajets avec cartes spatiales en temps réel, cartographie 3D et planification sélective de pièces individuelles avec zones dexclusion virtuelles daspiration et de balayage et routines de nettoyage définies par lutilisateur
-- Franchissement dobstacles jusquà 20 mm (par ex plinthes, tapis)
 - Contrôlable par smartphone & assistants vocaux (p ex Alexa, Google Home et raccourcis Siri dApple)
+- Reconnaît automatiquement jusquà quatre étages différents avec la fonction de carte multi-niveaux
+- Station de vidage automatique avec sac à poussière de 2,5 l pour un vidage automatique du réservoir à poussière et un nettoyage jusquà 7 semaines sans vidage
+- Langlebige Vollgummi-Bürste für einen noch engeren Bodenkontakt ohne Verheddern von Haaren für eine noch effektivere Reinigung
+- La sécurité enfants empêche le démarrage du robot-aspirateur par les enfants ou les animaux domestiques
 - Bac à poussière et réservoir deau 2en1 avec une capacité de 470ml de collecteur de saleté & 350ml de réservoir deau
+- Fonction daspiration avec une puissance daspiration élevée de 4200Pa & fonction dessuyage avec 30 niveaux de débit deau pour un dosage optimal de leau en fonction du type de sol et une pression uniforme de 300g sur la serpillière pour un nettoyage sans compromis
+- Franchissement dobstacles jusquà 20 mm (par ex plinthes, tapis)
+- Navigation PreciSense à distance laser précise (LiDAR) pour la planification intelligente de trajets avec cartes spatiales en temps réel, cartographie 3D et planification sélective de pièces individuelles avec zones dexclusion virtuelles daspiration et de balayage et routines de nettoyage définies par lutilisateur
+- Batterie de 5200mAh avec une autonomie de 3 heures pour un nettoyage non-stop de 300 m² max
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SPCGRTX{{</world>}}

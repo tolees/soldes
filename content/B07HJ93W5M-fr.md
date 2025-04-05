@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Garantie 5 ans (dont 2 ans dextension après inscription du produit sur ASUS.fr
-- Dalle IPS de 24 pouces avec résolution WUXGA 1920 x 1200 et design sans bords
 - Ports E/S I/O ports: DP sur USB-C avec 60 W (norme Power Delivery), DisplayPort, HDMI et USB 3.0
 - Espace de couleurs 100% sRGB pré-calibré pour une excellente précision des couleurs (ΔE < 2)
 - Support HDR-10 pour des performances puissantes en imagerie à grande gamme dynamique
 - Technologie ASUS ProArt Calibration offrant des réglages avancés dont une table de correspondances internes de 14 bits pour des couleurs plus réalistes et une matrice de compensation d’uniformité 5x5
+- Dalle IPS de 24 pouces avec résolution WUXGA 1920 x 1200 et design sans bords
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HJ93W5M{{</world>}}

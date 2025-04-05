@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Réglage pratique de la force de frappe pour des résultats parfaits
+- Pour la pose parfaite d’agrafes (jusqu’à 14 mm) et clous dans les bois tendres et durs
 - Agrafeuse sans fil offrant un confort et une polyvalence inédites pour les travaux de fixation et d’assemblage à l’aide d’agrafes à fil fin et clous
 - Tir par contact avec jusqu’à 30 tirs/min pour une progression rapide lors des travaux de fixation
-- Pour la pose parfaite d’agrafes (jusqu’à 14 mm) et clous dans les bois tendres et durs
 - Livré avec : UniversalTacker 18V-14, 1000 agrafes type 53/10 mm, dans un carton
 
 [🛒 Achète-le!!]({{< param buyurl >}})

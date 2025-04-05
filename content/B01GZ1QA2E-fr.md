@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wifi et Ethernet & Airprint
 - Écran tactile de 8,8 cm
-- Grande vitesse dimpression = impression à 24 ipm en Noir et 15,5 ipm en couleur
 - Numérisation recto/verso
 - Imprimante multifonction performante 4 en 1 ( Imprime , scan , copy , Fax )
+- Wifi et Ethernet & Airprint
+- Grande vitesse dimpression = impression à 24 ipm en Noir et 15,5 ipm en couleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01GZ1QA2E{{</world>}}

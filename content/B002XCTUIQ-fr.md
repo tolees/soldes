@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trois cônes supplémentaires
 - Tour avec 3 compartiments
+- Trois cônes supplémentaires
 - Pieds en caoutchouc antidérapants
 - Avec Instructions avec conseils et astuces pour un entraînement optimal
 

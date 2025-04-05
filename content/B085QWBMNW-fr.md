@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Compatible avec Ninja OP300EU, OP500EU, AG301EU
 - Revêtement céramique anti-adhésif, compatible lave-vaisselle
-- Set 3 pièces : 1 x moule à cake 21,5 cm, 1 x moule à pâtisserie rond 21,5 cm, 1 plateau à croustilles 22 cm
 - Accessoires Shark dorigine
+- Set 3 pièces : 1 x moule à cake 21,5 cm, 1 x moule à pâtisserie rond 21,5 cm, 1 plateau à croustilles 22 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B085QWBMNW{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NORMES : EN 361:2002;
 - MATÉRIAUX : Sangle en polyester; acier allié; traité thermiquement;
-- CONCEPTION ET FONCTIONNALITÉ : Les harnais Portwest sont nécessaires pour garantir une protection lors des travaux en hauteur;
 - UTILISATION DU PRODUIT : Harnais léger avec un anneau dorsal D coulissant; Il dispose de deux boucles de poitrine et dune sangle de poitrine à libération rapide réglable;
+- NORMES : EN 361:2002;
 - CARACTÉRISTIQUES : Boucles de poitrine; Anneau dorsal D; Points dajustement au niveau de la poitrine et des jambes;
+- CONCEPTION ET FONCTIONNALITÉ : Les harnais Portwest sont nécessaires pour garantir une protection lors des travaux en hauteur;
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00LA5BX9Q{{</world>}}

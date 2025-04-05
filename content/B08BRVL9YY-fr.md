@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 5. Favorable à lenvironnement, favorable à lenvironnement peut être utilisé en toute confiance.
-- 1.1kg bobine 1.75mm filament pla emballage sous vide
 - 2. Lenroulement est précis, la stabilité est élevée, la rondeur est parfaite et il ny aura pas de collision ou de rupture pendant limpression.
+- 1.1kg bobine 1.75mm filament pla emballage sous vide
 - 3. Température de pression: 180 - 210 ° c. Tolérance de diamètre: + / - 0,02 mm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

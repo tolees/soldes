@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Park20 Rain jacket
-- 100% polyester
 - Veste
+- 100% polyester
 - Nike propose des produits, des expériences et des services innovants pour inspirer les athlètes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

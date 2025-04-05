@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Capteur principal 50MP avec stabilisation optique : capturez de superbes photos avec le capteur principal haute résolution de 50 MP OIS. Avec le Super HDR, vos photos et vidéos seront riches en couleurs et nettes quelle que soit la luminosité. Grâce à lOIS et au VDIS, filmez sans trembler, même en mouvement ¹ ²
 - Débloquez la puissance : libérez la puissance du processeur Octa-core avec un GPU amélioré, un NPU et un système de refroidissement à grande chambre à vapeur pour faciliter le multitâche, les jeux et le streaming. Stockage interne de 128/256 Go extensible jusquà 1 To avec une carte microSD ¹¹ ⁹ ³
 - Écran fluide et lumineux même en plein soleil: découvrez lécran immesif de 6,6 pouces FHD+ Super AMOLED Infinity-O avec 1 000 nits et un taux de rafraîchissement jusquà 120 Hz. La fonctionnalité Vision Booster vous garantit une visibilité optimale, même en plein soleil ! ⁷ ¹⁵
 - Jusqu’à 2 jours d’autonomie et charge rapide 25W : vivez vos aventures à fond avec la batterie de 5 000 mAh (typique) qui vous offre jusquà 2 jours dautonomie ! Et lorsque vous avez besoin dénergie, la charge super rapide est là pour vous remettre sur pied en un clin dœil ¹² ¹³
 - Résistant à l’eau et à la poussière (IP67) : doté de la certification IP67, le Galaxy A35 5G est protégé efficacement contre la poussière et leau. Son écran en Corning Gorilla Glass Victus+ est conçu pour le rendre plus résistant aux chocs et rayures du quotidien ¹⁴
-- Capteur principal 50MP avec stabilisation optique : capturez de superbes photos avec le capteur principal haute résolution de 50 MP OIS. Avec le Super HDR, vos photos et vidéos seront riches en couleurs et nettes quelle que soit la luminosité. Grâce à lOIS et au VDIS, filmez sans trembler, même en mouvement ¹ ²
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV4HLFPX{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction Turbo Boost pour augmenter la vitesse et la résistance sur cheveux épais, résultats proches de la peau (0,2 mm), chambre de collecte des cheveux pour un nettoyage facile
-- 5 têtes de rasage : permet de raser toute la tête en moins de 2 minutes (* Après deux jours de pousse des poils (1 mm)), cou souple et têtes de rasage
 - Jusquà 60 minutes dautonomie sans fil, plus dun mois dutilisation sans recharge (***sur la base de 3 minutes dutilisation, tous les 2 jours), système de découpe à double voie : 2 anneaux de cisaillement pour des résultats plus rapides
 - 30 % de flexibilité** pour un contact et une couverture maximaux (** par rapport au XR1500), 100 % étanche
+- Fonction Turbo Boost pour augmenter la vitesse et la résistance sur cheveux épais, résultats proches de la peau (0,2 mm), chambre de collecte des cheveux pour un nettoyage facile
+- 5 têtes de rasage : permet de raser toute la tête en moins de 2 minutes (* Après deux jours de pousse des poils (1 mm)), cou souple et têtes de rasage
 - Tondeuse escamotable améliorée (23 mm), temps de charge de 4 heures, indicateur de charge LED à trois niveaux, sac de rangement haut de gamme, chargement USB, câble USB inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteur dempreintes digitales sécuris
-- Expérience immersive avec ses bordures ultra-fines
-- Un processeur Snapdragon puissant
 - Charge rapide 33 W disponible et une batterie de 5 000 mAh
-- Écran FHD+ AMOLED de 120 Hz
+- Expérience immersive avec ses bordures ultra-fines
+- Capteur dempreintes digitales sécuris
 - Triple appareil photo de 108 MP
+- Écran FHD+ AMOLED de 120 Hz
+- Un processeur Snapdragon puissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR5PRBVW{{</world>}}

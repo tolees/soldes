@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifiée Classe 10
-- Vitesse décriture minimum de 10MB/s
 - Idéale pour les smartphones et tablettes
+- Vitesse décriture minimum de 10MB/s
+- Certifiée Classe 10
 - Carte microSD de 32 Go + adaptateur SD inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

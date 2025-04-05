@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- New Store Stock
 - Brand: Warner Music
 - Live At Rome Olympic Stadium (CD w/Blu-Ray)
+- New Store Stock
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00G6MW68K{{</world>}}

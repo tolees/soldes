@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
 - CANON
 - Accessoire image & son
+- Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
 - Voir ci-dessous pour specs & informations complémentaires
 
 [🛒 Achète-le!!]({{< param buyurl >}})

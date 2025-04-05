@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Suivi des pas, du sommeil et des 60 minutes dactivité quotidienne recommandée
-- Jusquà 1 an dautonomie (pile remplaçable par lutilisateur)
-- Etanche 50 mètres, confortable et résistant
-- Motive les enfants à atteindre des objectifs de minutes actives grâce à une expérience dapplication interactive (Carte et récit daventure, jeu de réflexes, conseils pour être en forme, icônes)
-- Grand écran couleur, toujours allumé, avec plusieurs cadrans au choix (affichage digital ou aiguilles de lheure, personnages...)
-- Les parents peuvent utiliser lapplication pour gérer les missions quotidiennes et récompenser leurs enfants
 - Configuration des contacts d’urgence (ICE)
+- Suivi des pas, du sommeil et des 60 minutes dactivité quotidienne recommandée
+- Les parents peuvent utiliser lapplication pour gérer les missions quotidiennes et récompenser leurs enfants
+- Grand écran couleur, toujours allumé, avec plusieurs cadrans au choix (affichage digital ou aiguilles de lheure, personnages...)
+- Etanche 50 mètres, confortable et résistant
+- Jusquà 1 an dautonomie (pile remplaçable par lutilisateur)
+- Motive les enfants à atteindre des objectifs de minutes actives grâce à une expérience dapplication interactive (Carte et récit daventure, jeu de réflexes, conseils pour être en forme, icônes)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08H2K3JJ9{{</world>}}

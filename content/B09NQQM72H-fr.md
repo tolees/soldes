@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonne prise en main
 - Rembourrage :
+- Bonne prise en main
 - Légères
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

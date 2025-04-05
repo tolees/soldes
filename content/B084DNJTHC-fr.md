@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 9 ports de connectivité pour tous vos appareils : 2 ports USB-C et 2 ports USB-A 3.1 pour transférer des données et charger votre ordinateur portable, 1 port HDMI pour profiter de vidéos 4K, 1 port VGA pour utiliser un projecteur ou un téléviseur, 1 port RJ45 pour connecter votre câble Ethernet, 1 port SD et microSD pour profiter de tous vos souvenirs
+- Adapté à la charge Power Delivery: fournit jusquà 100 W pour charger votre ordinateur portable
 - Idéal pour les ordinateurs portables Mac et Windows compatibles USB-C
 - Design compact (13,5x9x2cm) : Mini hub portable avec finition soft touch et câble USB-C intégré pliable, idéal pour les réunions daffaires ou les voyages
-- Adapté à la charge Power Delivery: fournit jusquà 100 W pour charger votre ordinateur portable
-- 9 ports de connectivité pour tous vos appareils : 2 ports USB-C et 2 ports USB-A 3.1 pour transférer des données et charger votre ordinateur portable, 1 port HDMI pour profiter de vidéos 4K, 1 port VGA pour utiliser un projecteur ou un téléviseur, 1 port RJ45 pour connecter votre câble Ethernet, 1 port SD et microSD pour profiter de tous vos souvenirs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084DNJTHC{{</world>}}

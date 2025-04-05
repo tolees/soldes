@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives.
 - Prenez le volant d’une tonne de véhicules avec chacun leur propre style et des niveaux de rareté différents.
+- Faites la course face au monde entier: préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
 - Conduisez les voitures de vos rêves: les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
 - Obtenez le DLC « HOT WHEELS - BEEFED UP PACK » en précommandant le jeu Hot Wheels Unleashed chez votre revendeur. Les éléments à récupérer en jeu (2 véhicules supplémentaires) seront disponibles le jour du lancement (30/09/2021)
-- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives.
-- Faites la course face au monde entier: préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
 - Dérapez comme un pro, chargez votre boost et foncez à toute allure sur les circuits pour battre le chrono, vos rivaux et même la gravité !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

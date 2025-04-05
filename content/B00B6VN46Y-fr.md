@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bruit (DIN60704-1 & 60704-2-14) 36.00 dB(A)
-- Caisson extérieur en aluminium élégant.
-- Remarque : Pour obtenir un bon effet de refroidissement, le niveau le plus élevé doit être activé, la performance de refroidissement nest pas comme un vrai réfrigérateur.
-- Fréquence dentrée : 50/60 Hz.
-- Réfrigération jusquà 20°C en dessous de la température ambiante.
 - Logement câble dans le couvercle.
-- Peut accueillir des bouteilles de 2 l en position verticale.
 - Stockage important et organisé.
-- Utilisation en voiture ou en intérieur grâce au système à tension double (12 / 230 V)
 - Poignées latérales rabattables pour un transport facile.
+- Caisson extérieur en aluminium élégant.
+- Réfrigération jusquà 20°C en dessous de la température ambiante.
+- Utilisation en voiture ou en intérieur grâce au système à tension double (12 / 230 V)
+- Peut accueillir des bouteilles de 2 l en position verticale.
+- Fréquence dentrée : 50/60 Hz.
+- Remarque : Pour obtenir un bon effet de refroidissement, le niveau le plus élevé doit être activé, la performance de refroidissement nest pas comme un vrai réfrigérateur.
+- Bruit (DIN60704-1 & 60704-2-14) 36.00 dB(A)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B6VN46Y{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stabilisateur dimage VC
-- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
 - Mise au point minimale de 0,3 m (à 70 mm)
+- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
 - Compatible avec le logiciel Tamron Lens Utility
+- Stabilisateur dimage VC
 - Mise au point automatique VXD
 
 [🛒 Achète-le!!]({{< param buyurl >}})

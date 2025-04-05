@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design premium avec finition cuir sur la partie extérieur de volant
-- Retour de force dynamique : réglage du niveau de retour de force à la volée (3 modes presets inclus) via l’écran et compatibles dans tous les jeux
-- Jusqu’à 25 boutons d’actions incluant 2 encodeurs à double activation sur PC
-- Sous licence officielle Xbox et compatible PC
-- Tableau de bord interactif incluant une sélection de plus de 20 affichages différents sur l’écran du volant
-- Forme de la roue polyvalente, adaptée à tous les styles de jeux
-- 9 modes de pression distincts sur la pédale centrale pour un freinage optimisé selon la configuration et le setup de jeu (bureau, cockpit, stand, etc.)
 - Palettes de vitesses magnétiques (technologie breveté H.E.A.R.T) pour une réactivité instantanée avec des passages de rapports clairs
+- Retour de force dynamique : réglage du niveau de retour de force à la volée (3 modes presets inclus) via l’écran et compatibles dans tous les jeux
+- Tableau de bord interactif incluant une sélection de plus de 20 affichages différents sur l’écran du volant
+- 9 modes de pression distincts sur la pédale centrale pour un freinage optimisé selon la configuration et le setup de jeu (bureau, cockpit, stand, etc.)
+- Sous licence officielle Xbox et compatible PC
 - Système HYBRID DRIVE nouvelle génération permettant un gain de puissance de 70% par rapport aux autres volants hybrides Thrustmaster (Séries TMX)
+- Jusqu’à 25 boutons d’actions incluant 2 encodeurs à double activation sur PC
+- Design premium avec finition cuir sur la partie extérieur de volant
 - Pédalier magnétique (technologie breveté H.E.A.R.T) pour une précision 12 bits qui ne faiblit pas dans le temps
+- Forme de la roue polyvalente, adaptée à tous les styles de jeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LMTBXGG{{</world>}}

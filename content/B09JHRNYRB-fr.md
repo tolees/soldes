@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE MOUVEMENT ACTIVE DES SONS ET LUMIÈRES ÉLÉMENTAIRES : On pointe le Dino Knight Morpher dans 1 des 3 directions pour activer des sons différents. On le pointe vers le bas, le haut ou droit devant pour activer respectivement les modes éclair, feu et glace
 - LE DINO KNIGHT MORPHER EST GRAND : Go Go Power Rangers ! Le Dino Knight Morpher géant est inspiré de la saison 2 de Power Rangers Dino Fury, et permet aux enfants dimaginer des combats améliorés
+- LE MOUVEMENT ACTIVE DES SONS ET LUMIÈRES ÉLÉMENTAIRES : On pointe le Dino Knight Morpher dans 1 des 3 directions pour activer des sons différents. On le pointe vers le bas, le haut ou droit devant pour activer respectivement les modes éclair, feu et glace
 - INCLUT UNE CLÉ POUR DÉVERROUILLER DES SONS : La clé permet dactiver des sons dans le Morpher. Également compatible avec les clés incluses avec les figurines articulées Dino Fury de 15 cm. Figurines vendues séparément, dans la limite des stocks
 
 [🛒 Achète-le!!]({{< param buyurl >}})
