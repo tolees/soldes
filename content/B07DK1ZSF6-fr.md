@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Textile, synthétique, caoutchouc, 179, sandales sportives
-- Plat
 - Cuir
+- Plat
+- Textile, synthétique, caoutchouc, 179, sandales sportives
 - Caoutchouc
 - Scratch
 

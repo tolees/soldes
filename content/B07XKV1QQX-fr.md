@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions de lemballage de larticle: 300.0 L x 100.0 H x 250.0 W (millimeters)
-- Poids du colis: 800.0 grams
 - 0
 - Ekspres do Kawy delonghi ecam22.110.w biay
+- Poids du colis: 800.0 grams
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XKV1QQX{{</world>}}

@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compact et Endurant : robuste et résistant à l’eau IPX7 et dispose de la norme MIL-STD-810-F pour les chocs et la température
-- Fonction TrackBack : vous ramène à votre point de départ en retraçant votre itinéraire, directement sur votre appareil
-- Compas électronique & Boussole numérique
-- Communication : échangez des SMS avec vos proches, publiez des messages sur les réseaux ou communiquez avec dautres appareils inReach sur le terrain
-- Autonomie : jusqu’à 14 jours d’autonomie de batterie avec suivi toutes les 10 min
 - Partage de position : via MapShare
 - Abonnement satellite nécessaire
 - Fonction SOS : en cas durgence, envoyez un SOS interactif à lIERCC de Garmin, un centre de coordination des interventions durgence 24 h/24 et 7 j/7
+- Communication : échangez des SMS avec vos proches, publiez des messages sur les réseaux ou communiquez avec dautres appareils inReach sur le terrain
+- Fonction TrackBack : vous ramène à votre point de départ en retraçant votre itinéraire, directement sur votre appareil
+- Autonomie : jusqu’à 14 jours d’autonomie de batterie avec suivi toutes les 10 min
+- Compas électronique & Boussole numérique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RQZPQ1T{{</world>}}

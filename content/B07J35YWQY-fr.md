@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement (température signalée par le variateur, ° C): 65
 - Puissance d’exploitation moyenne (W): 7.8 W
+- Fonctionnement (température signalée par le variateur, ° C): 65
+- Capacité disque dur: 10000 Go
 - Vitesse de rotation du disque dur: 7200 tr/min
 - Seagate NAS HDD IronWolf. Taille du disque dur: 3.5"
-- Capacité disque dur: 10000 Go
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07J35YWQY{{</world>}}

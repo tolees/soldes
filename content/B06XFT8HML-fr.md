@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SACHETS REFERMABLES : Ces biscuits gourmands bio sont conditionnés dans des sachets refermables pour une conservation optimale.
-- BISCUITS CARRÉS : Ces délicieux biscuits bio pour bébés à base de farine de riz, pois chiches, quinoa et sarrasin sont sans sucres ajoutés* pour faire découvrir les saveurs à votre enfant sans lhabituer au trop sucré.
-- DES BISCUITS BIO : Sans additifs, sans conservateurs et sans sucres ajoutés*, ces biscuits sans gluten contiennent des ingrédients issus de l’agriculture biologique, et sont sans OGM, pesticides ou engrais chimiques**.
 - REMETTRE DU GOÛT DANS LASSIETTE DE BÉBÉ : Militant pour une alimentation simple et pleine de saveur, Good Goût propose des recettes bio, goûteuses, variées et équilibrées pour le bien-être de vos enfants.
+- DES BISCUITS BIO : Sans additifs, sans conservateurs et sans sucres ajoutés*, ces biscuits sans gluten contiennent des ingrédients issus de l’agriculture biologique, et sont sans OGM, pesticides ou engrais chimiques**.
+- BISCUITS CARRÉS : Ces délicieux biscuits bio pour bébés à base de farine de riz, pois chiches, quinoa et sarrasin sont sans sucres ajoutés* pour faire découvrir les saveurs à votre enfant sans lhabituer au trop sucré.
 - DÈS 8 MOIS : Les biscuits Good Goût carrés banane sont à déguster en bouillie dès lâge de 8 mois et peuvent être croqués dès 10 mois.
+- SACHETS REFERMABLES : Ces biscuits gourmands bio sont conditionnés dans des sachets refermables pour une conservation optimale.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XFT8HML{{</world>}}

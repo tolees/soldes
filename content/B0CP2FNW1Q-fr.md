@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode lecture: Le mode lecture de la tablette Tab P11 Gen 2 rend la lecture des titres de votre choix plus immersive et plus agréable pour les yeux avec les modes mono et niveaux de gris. Basculez entre ces modes vous donne l’impression de lire un véritable livre en papier, plutôt qu’un écran
-- Double écran sans fil: Travaillez plus efficacement en transformant votre Lenovo Tab P11 2e génération en un écran tactile sans fil pour votre PC Windows avec Lenovo Freestyle
 - Moins de ralentissements, plus de dégâts: Profitez d’un gameplay incroyablement réactif avec un processeur octa-core et un taux de rafraîchissement de 120Hz. Et grâce au Wi-Fi 6E, bénéficiez de connexions plus rapides, de latences plus faibles et de meilleures performances pour faire passer votre jeu au niveau supérieur
-- Mode multi-écran: Travaillez sur deux applications à la fois avec le mode multi-écran disponible sur Android 12L. De plus, avec un taux de rafraîchissement fluide, vous pouvez passer de façon fluide d’une application à l’autre. Parcourez une page sur un écran, tout en annotant un document ou en prenant des notes sur l’autre avec le Precision Pen 2 (vendu séparément)
+- Mode lecture: Le mode lecture de la tablette Tab P11 Gen 2 rend la lecture des titres de votre choix plus immersive et plus agréable pour les yeux avec les modes mono et niveaux de gris. Basculez entre ces modes vous donne l’impression de lire un véritable livre en papier, plutôt qu’un écran
 - Découvrez une expérience immersive: Plongez au coeur de laction sur Netflix et Disney+ avec un écran large de 11,5 2K de qualité cinéma et laissez-vous emporter par un son dynamique grâce à un ensemble de quatre enceintes à la technologie Dobly Atmos
+- Double écran sans fil: Travaillez plus efficacement en transformant votre Lenovo Tab P11 2e génération en un écran tactile sans fil pour votre PC Windows avec Lenovo Freestyle
+- Mode multi-écran: Travaillez sur deux applications à la fois avec le mode multi-écran disponible sur Android 12L. De plus, avec un taux de rafraîchissement fluide, vous pouvez passer de façon fluide d’une application à l’autre. Parcourez une page sur un écran, tout en annotant un document ou en prenant des notes sur l’autre avec le Precision Pen 2 (vendu séparément)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CP2FNW1Q{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classe de protection (points) : IP66
 - Degré de protection (alimentation) : IP44
 - Ce produit est un produit environnant. Les produits environnants sont des luminaires qui peuvent être démontés pour vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique G
+- Classe de protection (points) : IP66
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08KGDCBKL{{</world>}}

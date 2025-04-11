@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flash externe Quad-SPI avec eXecute In Place (XIP) (2 Mo)
-- 30 broches General Purpose IO (GPIO), dont 4 peuvent être utilisées comme ADC
-- 264 K multi-banque haute performance SRAM
 - Dual-Core Cortex M0+ jusquà 133 MHz (PLL intégré permet une fréquence cardiaque réglable)
+- 30 broches General Purpose IO (GPIO), dont 4 peuvent être utilisées comme ADC
 - Tension IO de 1,8 à 3,3 V (la tension Pico IO est fixe à 3,3 V)
+- Flash externe Quad-SPI avec eXecute In Place (XIP) (2 Mo)
+- 264 K multi-banque haute performance SRAM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TZX8X9V{{</world>}}

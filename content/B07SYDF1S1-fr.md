@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CHARGE PLEINE: grâce à Power Delivery, les appareils connectés via un chargeur USB-C disponible en option sont chargés avec une puissance allant jusquà 100 W; Vous disposez ainsi toujours de suffisamment dénergie
 - RAPIDE: les ports USB 3.0 de la station daccueil permettent des taux de transfert de données allant jusquà 5 Gbit/s; Linterface LAN (RJ45) vous permet en outre de surfer rapidement sur Internet
 - PLUS DE CONNECTIVITÉS: la station daccueil 10 en 1 USB Type-C ajoute lUSB-C, 3x USB-A 3.0, HDMI, VGA, lecteur de cartes SD/microSD, prise audio combo 3,5 mm et Gigabit LAN à votre ordinateur portable ou PC
-- TRAVAIL EFFICACE: reflète ton écran sur deux autres moniteurs; Résolution possible en cas de connexion via HDMI jusquà 3840x2160/30 Hz, en cas de VGA jusquà 1920x1080@60 Hz
 - UN BON SON: la prise audio combo de 3,5 mm permet de brancher des écouteurs, un casque ou un microphone; Un bon son est ainsi garanti en toutes circonstances
+- CHARGE PLEINE: grâce à Power Delivery, les appareils connectés via un chargeur USB-C disponible en option sont chargés avec une puissance allant jusquà 100 W; Vous disposez ainsi toujours de suffisamment dénergie
+- TRAVAIL EFFICACE: reflète ton écran sur deux autres moniteurs; Résolution possible en cas de connexion via HDMI jusquà 3840x2160/30 Hz, en cas de VGA jusquà 1920x1080@60 Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SYDF1S1{{</world>}}

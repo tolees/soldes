@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mémoire RGB hautes performances raffinée: La conception emblématique de CORSAIR DOMINATOR PLATINUM complète parfaitement les meilleurs PC du monde, pour des systèmes inégalés de systèmes haut de gamme
-- Voltage SPD: 1.2V Latence SPD 15-15-15-36
-- Conçu pour loverclocking haute performance: chaque module VENGEANCE LPX est construit avec un dissipateur de chaleur en aluminium pur pour une dissipation de chaleur plus rapide et un fonctionnement plus froid; et la carte de performance personnalisée aide à gérer la chaleur et fournit une marge doverclocking supérieure. Chaque circuit intégré est examiné individuellement pour son potentiel de performance
-- Compatibilité : série Intel 300, série Intel 400, série Intel 500, Intel X299, série AMD 300, série AMD 400, série AMD 500, AMD X570
 - Optimisé pour les plateformes Intel
+- Compatibilité : série Intel 300, série Intel 400, série Intel 500, Intel X299, série AMD 300, série AMD 400, série AMD 500, AMD X570
+- Conçu pour loverclocking haute performance: chaque module VENGEANCE LPX est construit avec un dissipateur de chaleur en aluminium pur pour une dissipation de chaleur plus rapide et un fonctionnement plus froid; et la carte de performance personnalisée aide à gérer la chaleur et fournit une marge doverclocking supérieure. Chaque circuit intégré est examiné individuellement pour son potentiel de performance
 - Latence testée: 18-22-22-42
+- Voltage SPD: 1.2V Latence SPD 15-15-15-36
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TB3R9JB{{</world>}}

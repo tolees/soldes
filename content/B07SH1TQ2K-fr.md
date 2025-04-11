@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en EVA
 - Doublure en maille recyclée
+- Semelle extérieure en EVA
 - Dessus en polyuréthane
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

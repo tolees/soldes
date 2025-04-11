@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfumez vos produits de bain et vos produits corporels
 - Qualité cosmétique
 - Huile Parfumée Fleur Doranger
 - Idéal pour la fabrication de savons et de bougies
+- Parfumez vos produits de bain et vos produits corporels
 - 100ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

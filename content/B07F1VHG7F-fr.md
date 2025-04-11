@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du colis de larticle: 56.6 x 31.8 x 47.8 centimeters
 - Fabriqué en Chine
 - Couleur: Mixtes
-- Dimensions du colis de larticle: 56.6 x 31.8 x 47.8 centimeters
 - Tenir loin du feu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon Nike Sportswear Club Fleece pour Homme
-- Coupe sportive décontractée
-- Pantalon Nike Sportswear Club Fleece pour Homme
 - Tissu doux
 - Taille élastiquée avec cordon de serrage
+- Coupe sportive décontractée
+- Pantalon Nike Sportswear Club Fleece pour Homme
+- Pantalon Nike Sportswear Club Fleece pour Homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L7RPX27{{</world>}}

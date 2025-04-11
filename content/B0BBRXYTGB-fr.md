@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Si la mission de sauvetage devient trop chaude, les enfants peuvent envoyer le drone terrestre avec son bras robotique ou abaisser le crochet pour transporter les objets en toute sécurité
 - Avec plein de bâtiments détaillés, de véhicules réalistes et de personnages amusants, les ensembles LEGO City constituent dexcellents cadeaux pour les enfants qui aiment les aventures de la vie réelle
 - Le jouet de la voiture de pompiers a un treuil et un extincteur qui fonctionnent, et le drone de pompiers peut lancer des éléments deau et de mousse pour une action de lutte contre les incendies amusante
-- Cet ensemble de véhicules durgence LEGO City comprend un camion de pompiers jouet ultramoderne avec une centrale de commande détachable, un drone de pompiers et un drone terrestre
-- Si la mission de sauvetage devient trop chaude, les enfants peuvent envoyer le drone terrestre avec son bras robotique ou abaisser le crochet pour transporter les objets en toute sécurité
 - Comprend des scènes dincendie en forêt et en ville, 3 minifigurines LEGO de pompier, une figurine de lapin, une radio, une hache de pompier, une scie circulaire, une clé et des accessoires pour les tasses
+- Cet ensemble de véhicules durgence LEGO City comprend un camion de pompiers jouet ultramoderne avec une centrale de commande détachable, un drone de pompiers et un drone terrestre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BBRXYTGB{{</world>}}

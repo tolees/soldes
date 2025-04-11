@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Gamme de fréquence : 100Hz - 20kHz
+- Corps de microphone tout en métal
 - Taille compacte et légère - seulement 80 mm (3) de long et 42 g (1,5 oz)
 - Pare-brise en fourrure de luxe inclus
 - Support antichoc Rycote Lyre inclus
 - Conçu et fabriqué en Australie
 - Niveau de pression acoustique maximum: 140 dB
-- Corps de microphone tout en métal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B015R0IQGW{{</world>}}

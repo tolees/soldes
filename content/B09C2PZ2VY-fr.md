@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ventilateur double
 - 8 Go Gddr6x
 - Vitesse : 1725/14000 MHz
 - ZOTAC GAMING GEFORCE RTX 3070 Twin Edge LHR 8 Go GDDR6, 256 bit, 1725/14000, HDCP, Three DP, HDMI, Premium Pack
+- Ventilateur double
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09C2PZ2VY{{</world>}}

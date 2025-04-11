@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mel Cloud est compatible avec les climatiseurs Mitsubishi Electric
-- En utilisant lappui du « Cloud » pour transmettre et recevoir des informations et cette interface Wi-Fi dédiée (MAC-587IF-E), vous pourrez facilement contrôler votre installation via PC, tablette ou smartphone
 - Mel Cloud se commande également par la voix, grâce à la compatibilité avec les assistants vocaux Google Home et Amazon Alexa
+- En utilisant lappui du « Cloud » pour transmettre et recevoir des informations et cette interface Wi-Fi dédiée (MAC-587IF-E), vous pourrez facilement contrôler votre installation via PC, tablette ou smartphone
 - Contrôlez votre climatisation via Wi-Fi avec lapplication Mel Cloud de Mitsubishi Electric
+- Mel Cloud est compatible avec les climatiseurs Mitsubishi Electric
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WH99JTL{{</world>}}

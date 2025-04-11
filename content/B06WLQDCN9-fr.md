@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Après avoir pris connaissance du contexte du scénario, vous commencez votre aventure dans une pièce (une carte de lieu qui indique divers numéros) Fouillez-la pour trouver des objets ! À vous de coopérer avec vos partenaires pour avancer et terminer dans les temps !
+- La Formule : Entrez dans un laboratoire secret pour récupérer un mystérieux sérum élaboré par un scientifique
+- Application à télécharger gratuitement (via Apple Store ou Android) pour jouer et vivre une expérience immersive
+- Lîle du docteur Goorse : Visitez lîle dun milliardaire excentrique collectionneur dantiquités et triomphez de ses pièges
 - Squeek & Sausage : Déjouez les plans de linfâme professeur Noside dans cette aventure cartoonesque
 - Élu jeu de lannée 2017 à Cannes, le jeu Unlock ! vous propose de revivre lambiance des escape rooms chez vous ! Unlock! est un système de jeu de cartes coopératif inspiré des escape rooms, des salles dont vous devez vous échapper en moins de 60 minutes Unlock! vous fait vivre ces expériences chez vous, autour dune table
-- La Formule : Entrez dans un laboratoire secret pour récupérer un mystérieux sérum élaboré par un scientifique
 - Venez à bout des énigmes et découvrez les secrets de 3 aventures !
-- Lîle du docteur Goorse : Visitez lîle dun milliardaire excentrique collectionneur dantiquités et triomphez de ses pièges
-- Application à télécharger gratuitement (via Apple Store ou Android) pour jouer et vivre une expérience immersive
+- Après avoir pris connaissance du contexte du scénario, vous commencez votre aventure dans une pièce (une carte de lieu qui indique divers numéros) Fouillez-la pour trouver des objets ! À vous de coopérer avec vos partenaires pour avancer et terminer dans les temps !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06WLQDCN9{{</world>}}

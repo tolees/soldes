@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection anti-ternissement, anti-décoloration et anti-corrosion (patine) pour les surfaces métalliques brillantes
 - Pour l’intérieur et l’extérieur
-- Spray de vernis de protection brillant à base de résine synthétique pour métaux
-- Sèche rapidement
 - Pour de nombreux supports ornés d’une feuille de métal, comme le béton, le plâtre, la terre cuite
+- Sèche rapidement
+- Protection anti-ternissement, anti-décoloration et anti-corrosion (patine) pour les surfaces métalliques brillantes
+- Spray de vernis de protection brillant à base de résine synthétique pour métaux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005OU5OMA{{</world>}}

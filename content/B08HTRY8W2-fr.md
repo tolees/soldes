@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mortal Shell est un Action-RPG impitoyable qui met votre raison et votre force morale à lépreuve dans un monde totalement dévasté
+- Vous êtes libre de découvrir et utiliser les restes égarés des guerriers morts. Éveillez ces Mortal Shells et prenez possession de leur corps afin délargir considérablement votre maîtrise du combat
 - Votre parcours est semé dadversaires qui vénèrent des dieux énigmatiques. Faites face à des créatures à la fois pitoyables et monstrueuses, rassemblez vos forces et votre courage pour les abattre
 - Tandis que les vestiges de lhumanité retournent à la possière, des adversaires enragés et en décomposition errent dans les ruines et ils népargnent personne
 - Un système de combat stratégique, méthodique et impitoyable. Engagez le combat uniquement lorsquune ouverture se présente
-- Vous êtes libre de découvrir et utiliser les restes égarés des guerriers morts. Éveillez ces Mortal Shells et prenez possession de leur corps afin délargir considérablement votre maîtrise du combat
+- Mortal Shell est un Action-RPG impitoyable qui met votre raison et votre force morale à lépreuve dans un monde totalement dévasté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HTRY8W2{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Came bloquante en acier, produite avec technologie qui en impose la résistance à lusure, dotée de denture qui préserve lusure de la corde.
 - Antivol ventral droit en alliage léger pour les remontées sur corde.
 - Profil extérieur du levier douverture, ce qui rend plus fluide et efficace la remontée - Profil du trou du levier douverture, ce qui facilite lutilisation même avec les gants.
-- Came bloquante en acier, produite avec technologie qui en impose la résistance à lusure, dotée de denture qui préserve lusure de la corde.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077FRBQ5M{{</world>}}

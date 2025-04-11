@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pilotez des véhicules mythiques dans un terrain de jeu immense aux environnements riches et diversifiés
-- Créez votre Club, managez-le et recrutez les meilleurs joueurs qui croiseront votre route
 - Seul ou accompagné : le jeu fait la part belle au multijoueur avec la possibilité de jouer en local à 4 en écran splitté
+- Créez votre Club, managez-le et recrutez les meilleurs joueurs qui croiseront votre route
+- Pilotez des véhicules mythiques dans un terrain de jeu immense aux environnements riches et diversifiés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GPJCR15{{</world>}}

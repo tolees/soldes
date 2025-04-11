@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En métal avec revêtement Polytherme couleur Silvère
-- Dimensions: 23x7x42 cm
-- Garantie : 3 ans
 - garantie 3 ans
 - Pour les couvercles en inox supérieur ou égal à 30cm, nous vous conseillons le porte couvercles à poser KIWI réf 36 28 06
+- Garantie : 3 ans
+- Dimensions: 23x7x42 cm
+- En métal avec revêtement Polytherme couleur Silvère
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004LTBJLU{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le grand spécialiste des pinces
-- 19164
 - Durable
+- 19164
+- Le grand spécialiste des pinces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07H1P2N6M{{</world>}}

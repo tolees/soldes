@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec numéro de suivi de JP Post
 - Green Bell Coupe-ongles Takumi No Waza
+- avec numéro de suivi de JP Post
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000FQS9AC{{</world>}}

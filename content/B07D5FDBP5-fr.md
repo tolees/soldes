@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doux et souple
+- Doux, souple et facile à utiliser
 - Le porte-bébé idéal pour nouveau-nés
 - Petit et pratique à mettre et à enlever
-- Doux, souple et facile à utiliser
 - Facile à mettre et à enlever
 
 [🛒 Achète-le!!]({{< param buyurl >}})

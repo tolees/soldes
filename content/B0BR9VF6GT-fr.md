@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- produit 1: Permet de rétablir le fonctionnement optimal du moteur.
 - produit 2: Rétablit le débit, la pression et la qualité de pulvérisation des injecteurs
-- produit 2: Nettoyant injection diesel, spécial contrôle technique
-- produit 1: Elimine rapidement la calamine des ailettes du turbo
-- produit 1: A utiliser en curatif tous les 20 000Kms, ou 1 fois par an.
+- produit 2: Nettoie complètement et très rapidement le circuit dalimentation, les composants du système dinjection, et les injecteurs diesel
 - produit 1: Additif concentré pour le nettoyage du turbo, moteur diesel
 - produit 2: Plus de performances, moins de consommation & moins de fumées noires
-- produit 2: Nettoie complètement et très rapidement le circuit dalimentation, les composants du système dinjection, et les injecteurs diesel
-- produit 1: Permet de rétablir le fonctionnement optimal du moteur.
+- produit 1: A utiliser en curatif tous les 20 000Kms, ou 1 fois par an.
+- produit 2: Nettoyant injection diesel, spécial contrôle technique
+- produit 1: Elimine rapidement la calamine des ailettes du turbo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BR9VF6GT{{</world>}}

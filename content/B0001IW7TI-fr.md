@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Différentes tailles: de 1,5 à 10 mm
-- 10 pièces: 2-2,5-3-4-5-6-7-8-9-10
-- Acier au silicium
 - Finition : phosphate noir
+- Acier au silicium
+- 10 pièces: 2-2,5-3-4-5-6-7-8-9-10
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0001IW7TI{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions (H x l x P) : 30 x 7,5 x 7,5 cm
 - Figurine ludique et ludique avec corps souple et visage en vinyle
-- À partir de 3 ans
+- Dimensions (H x l x P) : 30 x 7,5 x 7,5 cm
 - Créez un peu de magie de Noël avec le petit lutin de Noël coquin
 - Poignées avec crochet et look pour faire des malicieux dans la maison
+- À partir de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HDGLR6N{{</world>}}

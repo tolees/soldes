@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 7 500 Mo/s en lecture ; 6 700 Mo/s en écriture
-- Utilise linterface PCIE Gen4 x4 et répond à la norme NVME 1.4
 - Mémoire flash 3D NAND, contrôleur 8 canaux et cache DRAM DDR4
+- Utilise linterface PCIE Gen4 x4 et répond à la norme NVME 1.4
+- Jusquà 7 500 Mo/s en lecture ; 6 700 Mo/s en écriture
 - Dissipateur thermique en aluminium et mécanisme de régulation thermique dynamique pour une plus grande stabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

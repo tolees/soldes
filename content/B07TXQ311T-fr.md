@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mains libres pour l’action: déplacez-vous en utilisant vos pieds et gardez les mains libres pour tirer, frapper, attraper les objets…
-- Déplacement libre: le 3dRudder vous permet d’avancer/reculer, aller à gauche/droite, tourner/faire des orbites, combiner les directions et de contrôler votre vitesse
 - Le 3dRudder est un contrôleur de jeu conçu pour le déplacement. Asseyez-vous, posez vos pieds sur le 3dRudder et partez à la conquête des jeux compatibles. Bougez en toute liberté - avant, arrière, strafe rotation - pour explorer de nouveaux territoires o
+- Déplacement libre: le 3dRudder vous permet d’avancer/reculer, aller à gauche/droite, tourner/faire des orbites, combiner les directions et de contrôler votre vitesse
 - Cet article n est plus en solde !
+- Mains libres pour l’action: déplacez-vous en utilisant vos pieds et gardez les mains libres pour tirer, frapper, attraper les objets…
 - Il se contrôle avec les pieds en position assise et sutilise en combinaison avec les PS Move, l’Aim contrôleur ou la manette DualShock 4 selon les jeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LHéritage de Poudlard est un RPG daction-aventure immersif en monde ouvert qui se déroule dans lunivers des livres Harry Potter
 - Explorez le monde des sorciers pour révéler une vérité cachée de son passé
+- LHéritage de Poudlard est un RPG daction-aventure immersif en monde ouvert qui se déroule dans lunivers des livres Harry Potter
 - Exclusivité Amazon : Obtenez un chapeau d’astronome. Le bonus se trouve à linterieur du produit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

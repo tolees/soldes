@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spécialement développée pour les domaines dans lesquels une haute résistance est nécessaire
-- Classe 10 pour un enregistrement et une lecture vidéo Full HD (1080p)
 - Peut contenir jusquà 10 000 heures denregistrement vidéo Full HD1 (pour la carte de 64 Go) ; jusquà 5 000 heures denregistrement vidéo Full HD1 (pour la carte de 32 Go)
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau et aux chocs
+- Classe 10 pour un enregistrement et une lecture vidéo Full HD (1080p)
+- Spécialement développée pour les domaines dans lesquels une haute résistance est nécessaire
 - Idéale pour les caméras embarquées et la vidéosurveillance à domicile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

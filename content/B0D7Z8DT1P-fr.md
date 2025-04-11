@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Memoire interne: 128 Go - RAM: 8 Go
 - Ecran de 6.79" - 4G: Oui
-- Smartphone sous systeme HyperOS 14
+- Memoire interne: 128 Go - RAM: 8 Go
 - Appareil photo de 108 + 2 Mégapixels
+- Smartphone sous systeme HyperOS 14
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7Z8DT1P{{</world>}}

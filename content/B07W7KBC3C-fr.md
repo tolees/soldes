@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HERO 25K gaming sensor: Incredibly precise down to the sub-micron for high-precision accuracy with zero smoothing/filtering/acceleration for high gaming performance every time on the computer
-- Redesigned DPI-shift button: This optical gaming mouse features a reversible and removable DPI-shift button for precise customisation depending on your grip and preference
-- POWERPLAY compatible: G502 X LIGHTSPEED computer mouse stays charged, at rest and at play, with our unique wireless charging solution (sold separately)
-- Icon reinvented: From the legacy of Logitechs most popular G502 design, G502 X LIGHTSPEED wireless gaming mouse is reimagined and redesigned with the latest innovations in gaming technology
+- Make your choice: Available in black and white colourways
 - Redesigned dual-mode scroll wheel: Switch between hyper-fast free spin and precise ratcheting mode, and tilt left and right for two additional personalisable controls
 - LIGHTSPEED wireless: This cordless mouse features pro-grade connectivity, with an updated protocol achieving a 68 per cent faster response rate than the previous generation and improved reliability
+- Icon reinvented: From the legacy of Logitechs most popular G502 design, G502 X LIGHTSPEED wireless gaming mouse is reimagined and redesigned with the latest innovations in gaming technology
+- Redesigned DPI-shift button: This optical gaming mouse features a reversible and removable DPI-shift button for precise customisation depending on your grip and preference
+- HERO 25K gaming sensor: Incredibly precise down to the sub-micron for high-precision accuracy with zero smoothing/filtering/acceleration for high gaming performance every time on the computer
+- POWERPLAY compatible: G502 X LIGHTSPEED computer mouse stays charged, at rest and at play, with our unique wireless charging solution (sold separately)
 - LIGHTFORCE switches: All-new hybrid optical-mechanical switch technology for incredible speed and reliability, as well as precise actuation with crisp response, for hours of performance gaming
-- Make your choice: Available in black and white colourways
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W7KBC3C{{</world>}}

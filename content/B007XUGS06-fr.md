@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Carré dentraînement interne conforme à DIN 3120ISO 1174 avec réception à bille
 - Conforme à la norme DIN 7422
 - Longue exécution
-- Carré dentraînement interne conforme à DIN 3120ISO 1174 avec réception à bille
 - Douille hexagonale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

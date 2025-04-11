@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application : 1. Gel nettoyant booster d’éclat : Appliquer deux fois par jour sur une peau humidifiée à leau tiède, Masser délicatement la peau pendant 1 à 2 minutes, Rincer à leau claire 2. Sérum anti-taches brunes : Appliquez 1 pipette matin et soir sur visage propre, Faire pénétrer dans la peau 3. Fluide Anti-UV : Appliquer chaque matin en tant quhydratant ou en complément de votre crème habituelle avant votre routine de maquillage
-- Contenu : 1x Routine anti-taches et éclat quotidien enrichie en Vitamine C de Garnier, Inclus : 1x Gel nettoyant booster d’éclat (250 ml) 1x Sérum Anti-Taches Brunes, Garnier SkinActive (30 ml), 1x Fluide Anti-UV & Anti-Taches Quotidien Glow, Garnier SkinActive (40 ml)
 - Formules : 1. Gel nettoyant : Formule enrichie en vitamine C et en essence de citron pure, Ph neutre adapté à tous types de peaux, Recommandé aux peaux mixtes, grasses et à imperfections 2. Sérum : Formule enrichie en Vitamine C, Niacinamide et Acide Salicylique, Aucun ingrédient ou dérivé d’origine animale, Non-testé sur les animaux, Testé dermatologiquement 3. Fluide Anti-UV : Formule enrichie en Vitamine Cg, Peptides et Acide Hyaluronique, Aucun ingrédient ou dérivé d’origine animale
-- Résultats : La peau est nettoyée, les taches brunes sont visiblement réduites, la peau est efficacement protégée de tous les types dUV et paraît plus lisse, Le teint est hydraté, illuminé, éclatant et plus uniforme
 - Routine contenant 3 produits enrichis en vitamine C pour booster léclat de la peau au quotidien, réduire les taches brunes et protéger de tous types d’UV tout au long de la journée : 1 gel nettoyant, 1 sérum visage, 1 Fluide anti-UV haute protection SPF50+
+- Contenu : 1x Routine anti-taches et éclat quotidien enrichie en Vitamine C de Garnier, Inclus : 1x Gel nettoyant booster d’éclat (250 ml) 1x Sérum Anti-Taches Brunes, Garnier SkinActive (30 ml), 1x Fluide Anti-UV & Anti-Taches Quotidien Glow, Garnier SkinActive (40 ml)
+- Application : 1. Gel nettoyant booster d’éclat : Appliquer deux fois par jour sur une peau humidifiée à leau tiède, Masser délicatement la peau pendant 1 à 2 minutes, Rincer à leau claire 2. Sérum anti-taches brunes : Appliquez 1 pipette matin et soir sur visage propre, Faire pénétrer dans la peau 3. Fluide Anti-UV : Appliquer chaque matin en tant quhydratant ou en complément de votre crème habituelle avant votre routine de maquillage
+- Résultats : La peau est nettoyée, les taches brunes sont visiblement réduites, la peau est efficacement protégée de tous les types dUV et paraît plus lisse, Le teint est hydraté, illuminé, éclatant et plus uniforme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYQ5YM3Z{{</world>}}

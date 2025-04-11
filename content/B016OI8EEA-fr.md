@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 01, mode demploi (français non garanti)
-- Premier objectif ultra grand angle F1
 - Catégorie A
-- Utilisation prévue : Voyages, paysages, mariages et événements, nature et faune
 - Art
+- Utilisation prévue : Voyages, paysages, mariages et événements, nature et faune
+- 4 au monde pour reflex numérique plein format
+- 01, mode demploi (français non garanti)
 - Limite de réglage la plus proche : 27,6 cm
+- Premier objectif ultra grand angle F1
 - Plus grande échelle dimage 1:7
 - Contenu de la livraison : objectif, étui, couverture arrière, couverture avant LC907
 - 1
-- 4 au monde pour reflex numérique plein format
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B016OI8EEA{{</world>}}

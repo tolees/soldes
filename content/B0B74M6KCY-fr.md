@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La figurine est articulée et fabriquée en PVC et mesure environ 15 cm
 - Hasbro présente dans sa collection Star Wars The Black Series la figurine du Jawa Tekka telle quelle apparaît dans la série « Obi Wan Kenobi » de la saga Star Wars
-- Produit sous licence officielle
 - Haute qualité
+- Produit sous licence officielle
+- La figurine est articulée et fabriquée en PVC et mesure environ 15 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B74M6KCY{{</world>}}

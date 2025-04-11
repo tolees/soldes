@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pointe moyenne ; inclut 2 petites cartouches d’encre bleue à base d’eau
+- Le design emblématique du Jotter désormais en version stylo plume
+- Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
 - Un corps en acier inoxydable au design élégant et raffiné
 - Présenté dans un superbe coffret cadeau Parker
-- Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
-- Le design emblématique du Jotter désormais en version stylo plume
+- Pointe moyenne ; inclut 2 petites cartouches d’encre bleue à base d’eau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07C1F4T8W{{</world>}}

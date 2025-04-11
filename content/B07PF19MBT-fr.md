@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un hochet grenouille qui développe le toucher et stimule la motricité.
-- Version française
-- Un miroir en forme de fleur pour encourager la découverte de soi par le reflet.
-- Un hippo en peluche tout doux avec d différentes textures et des pattes en plastique souple pour apaiser les poussées dentaires de bébé.
 - Le cadeau de naissance idéal pour éveiller les sens de Bébé avec un doudou, un piano, un miroir et un hochet.
+- Un hochet grenouille qui développe le toucher et stimule la motricité.
+- Un hippo en peluche tout doux avec d différentes textures et des pattes en plastique souple pour apaiser les poussées dentaires de bébé.
+- Un miroir en forme de fleur pour encourager la découverte de soi par le reflet.
 - Un piano avec sons et lumières pour stimuler la motricité et l’ouïe de bébé tout en douceur
+- Version française
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PF19MBT{{</world>}}

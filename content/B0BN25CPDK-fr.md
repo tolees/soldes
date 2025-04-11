@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Show off your performance skills in singing and dancing in two separate rhythm games! Enjoy the special music videos and 3D characters dancing during the rhythm games too!
-- How you spend your time is entirely up to you! Participate in different classes to boost your performances in various areas. All of these efforts come together for the final performance!
 - A unique story that changes with every choice you make. Every choice brings countless possibilities. A unique adventure each time you play.
+- How you spend your time is entirely up to you! Participate in different classes to boost your performances in various areas. All of these efforts come together for the final performance!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN25CPDK{{</world>}}

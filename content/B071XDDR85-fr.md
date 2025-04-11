@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 802.11b: jusquà 11 Mbps
-- Mini Clé usb WIFI 300 Mpbs, très discrète, elle est idéale pour les pc portables mais aussi les pc de bureau
-- Normes: IEEE 802.11n, IEEE 802.11g, IEEE802.11b
 - Transférer des données:
+- Normes: IEEE 802.11n, IEEE 802.11g, IEEE802.11b
+- Mini Clé usb WIFI 300 Mpbs, très discrète, elle est idéale pour les pc portables mais aussi les pc de bureau
+- 802.11b: jusquà 11 Mbps
 - USB: Type A, 2.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie 12400 mAh
-- Poids maximum supporté : 120 kg
 - Vitesse maximale de 25 km/h
+- Batterie 12400 mAh
 - Portée jusquà 55 km, norme détanchéité IPx4
+- Poids maximum supporté : 120 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT6TR4RB{{</world>}}

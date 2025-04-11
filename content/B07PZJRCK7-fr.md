@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VEGAN : Le complément alimentaire Thé Vert Guarana des Laboratoires Juvamine convient aux régimes végétariens et végétaliens
 - ACTION MINCEUR : Le thé vert favorise lâ€élimination dâ€eau des tissus et la dégradation des graisses
-- ACTION TONUS : Le Guarana est reconnu pour ses vertus toniques et stimulantes. Ces propriétés sont intéressantes pour pallier les baisses de forme accompagnant généralement les régimes
-- EN PROGRAMME DE FOND : Prendre 1 gélule par jour
 - FORMULE A BASE DE THE VERT : Les Laboratoires Juvamine ont élaboré une formule à base de guarana et dextrait de thé vert, en complément de vos régimes minceur
+- VEGAN : Le complément alimentaire Thé Vert Guarana des Laboratoires Juvamine convient aux régimes végétariens et végétaliens
 - FABRICATION FRANCAISE : Ce complément alimentaire Thé Vert Guarana est fabriqué dans notre usine à Forbach en Lorraine
+- EN PROGRAMME DE FOND : Prendre 1 gélule par jour
+- ACTION TONUS : Le Guarana est reconnu pour ses vertus toniques et stimulantes. Ces propriétés sont intéressantes pour pallier les baisses de forme accompagnant généralement les régimes
 - EN PROGRAMME Dâ€ATTAQUE : Prendre 2 gélules par jour. Ce produit contribuera à votre programme minceur que dans le cadre dâ€un contrôle de lâ€apport total des calories
 
 [🛒 Achète-le!!]({{< param buyurl >}})

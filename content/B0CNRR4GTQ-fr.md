@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
 - - Type: Smartphone
+- - 4G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 - - 3G Network: HSDPA 850 / 900 / 2100
 - - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
-- - 4G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
+- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNRR4GTQ{{</world>}}

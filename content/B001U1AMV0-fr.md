@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Diamètre Bas : 153 mm
+- Bordé
 - Hauteur : 45 mm
 - Cet article n est plus en solde !
-- Bordé
 - Diamètre Haut : 180 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

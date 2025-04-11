@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Stabilisation FlowState ONE X2 : FlowState apporte un anti-tremblement très efficace pour une prise de vue ultra-claire, avec une conception unique de 4 microphones pour capter du son complet. La coque compacte de la caméra ne pèse que 149 g/5,26 onces.
-- Bullet Time invisible: connectez la perche à selfie invisible pour un enregistrement vidéo plein champ à 360 ° avec la poignée Bullet time (non incluse) pour lexplorer à la vue dune troisième personne.
-- Batterie rechargeable 1630 mAh : la batterie intégrée 1630 mAh offre une longue durée de travail, la conception amovible est pratique pour la station de charge.
 - Vidéo et photo 5.7K 30FPS: panoramique à 360° et vidéo grand angle 5.7K@30fps et photo 6080x3040, avec écran LCD rond tactile pour un aperçu et une utilisation facile.
 - Fonctions puissantes : HDR qui assure la lumière, Commande vocale, TimeShift, vidéo au ralenti cinématographique, 9 prises de vue en rafale, Night Shot et Prise de vue à intervalle, fonctions intégrées en une caméra.
+- Bullet Time invisible: connectez la perche à selfie invisible pour un enregistrement vidéo plein champ à 360 ° avec la poignée Bullet time (non incluse) pour lexplorer à la vue dune troisième personne.
+- Batterie rechargeable 1630 mAh : la batterie intégrée 1630 mAh offre une longue durée de travail, la conception amovible est pratique pour la station de charge.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08M3YN95M{{</world>}}

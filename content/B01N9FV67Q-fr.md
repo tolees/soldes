@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SANS SUCRE AJOUTÉ & FAIBLE EN GRAISSE : Ne contient pas de sucre ajouté, est faible
-- MÉLANGE PREMIUM DE PROTÉINES MULTI-SOURCES : Protéine Végane contient CINQ sources de protéines différentes - graine de courge, riz brun, tournesol, soja et pois.
-- HYPERPROTÉINE: Contient 25 g de protéines végétales par portion
 - 100% D’ORIGINE VEGETALES: Sans produits laitiers, sans lactose, sans gluten, sans blé et est disponible dans une gamme de saveurs délicieuses.
+- MÉLANGE PREMIUM DE PROTÉINES MULTI-SOURCES : Protéine Végane contient CINQ sources de protéines différentes - graine de courge, riz brun, tournesol, soja et pois.
+- SANS SUCRE AJOUTÉ & FAIBLE EN GRAISSE : Ne contient pas de sucre ajouté, est faible
+- HYPERPROTÉINE: Contient 25 g de protéines végétales par portion
 - GOÛT DÉLICIOUS ET CRÉMEUX: Nous nutilisons que des ingrédients sans OGM de première qualité pour créer des poudres protéinées végétaliennes qui se mélangent facilement pour obtenir un goût et une texture délicieuse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

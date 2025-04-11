@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Écran design QD OLED 49 pouces, incurvé 1800R avec une résolution DWQHD
 - Une palette de couleur intense et lumineuse grâce à la technologie OLED combinée au processeur Neo Quantum
-- Une station de jeu sophistiqué au design épuré avec Coresync et Core Lightning et un pied en aluminium aux bords ultra fins
 - Contenu: 1x Samsung Moniteur Gaming Odyssey OLED G95SC 49", couleur: Argenté, LS49CG934SUXEN
+- Une station de jeu sophistiqué au design épuré avec Coresync et Core Lightning et un pied en aluminium aux bords ultra fins
 - Avec technologie OLED et compatibilité G-Sync pour une réaction proche de linstantanée grâce à un temps de réponse de 0,03ms et à un taux de rafraichissement de 240Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})

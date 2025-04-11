@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions du produit: 37 x 5 cm
-- Couleur du produit: Blanc
 - Sac à Légumes
 - Garantie de 2 ans
+- Dimensions du produit: 37 x 5 cm
+- Couleur du produit: Blanc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007H5BB2W{{</world>}}

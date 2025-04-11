@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le stabilisateur dimage motorisé compense le mouvement des mains pour vous aider à identifier, suivre et observer votre sujet
-- Zoom numérique: 12.0 multiplier_x
-- Identifiez facilement et clairement vos sujets grâce à la technologie doptique de précision de Canon
-- Puissantes jumelles stabilisées à agrandissement 12x idéales pour les rencontres sportives ainsi que lobservation des oiseaux et de la faune
-- Zoom optique: 12.0 multiplier_x
-- Jumelles 12x32 IS - Étui -Bouchon doculaire - Piles alcalines (LR6)/1,5 V -Courroie - Brochure imprimée
 - Jumelles bien équilibrées avec prise en main facile et profilée, et revêtement en caoutchouc résistant
+- Jumelles 12x32 IS - Étui -Bouchon doculaire - Piles alcalines (LR6)/1,5 V -Courroie - Brochure imprimée
+- Puissantes jumelles stabilisées à agrandissement 12x idéales pour les rencontres sportives ainsi que lobservation des oiseaux et de la faune
+- Le stabilisateur dimage motorisé compense le mouvement des mains pour vous aider à identifier, suivre et observer votre sujet
+- Zoom optique: 12.0 multiplier_x
+- Identifiez facilement et clairement vos sujets grâce à la technologie doptique de précision de Canon
+- Zoom numérique: 12.0 multiplier_x
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B074N98VRP{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctions connectées : Smart Notifications, Garmin Pay et personnalisation avec Connect IQ
-- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
-- Tactical édition : Mode furtif et vision nocturne, Fonction Jumpmaster et suppression des données grâce à la fonction Kill Switch
-- Fonction de navigation** : suivi d’un tracé et création de parcours
-- Fonction jumpmaster : respect des lignes directrices militaires pour calculer le point de largage haute altitude (HARP). L’appareil détecte automatiquement quand vous avez sauté de l’aéronef, pour commencer la navigation vers le point d’impact souhaité (DIP)
-- Autonomie : prolongation de l’autonomie grâce à la technologie Power Glass - Autonomie infinie en mode montre connectée
 - Fonctions de sécurités : LiveTrack / Live Events, détection d’incidents et demande d’assistance
+- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
+- Fonction de navigation** : suivi d’un tracé et création de parcours
+- Fonctions connectées : Smart Notifications, Garmin Pay et personnalisation avec Connect IQ
+- Tactical édition : Mode furtif et vision nocturne, Fonction Jumpmaster et suppression des données grâce à la fonction Kill Switch
+- Autonomie : prolongation de l’autonomie grâce à la technologie Power Glass - Autonomie infinie en mode montre connectée
+- Fonction jumpmaster : respect des lignes directrices militaires pour calculer le point de largage haute altitude (HARP). L’appareil détecte automatiquement quand vous avez sauté de l’aéronef, pour commencer la navigation vers le point d’impact souhaité (DIP)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MTP69ZV{{</world>}}

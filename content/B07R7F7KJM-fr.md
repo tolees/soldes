@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- Ubiquiti Networks
 - UVC-G4-PRO
 - Caméra de sécurité IP
+- Durable
+- Ubiquiti Networks
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07R7F7KJM{{</world>}}

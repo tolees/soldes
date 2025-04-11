@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il crée un volume d’air suffisant et nécessaire à la dissipation de chaleur
-- Type disolation : isolation en rouleau
 - Sans Halogène
+- Type disolation : isolation en rouleau
+- Il crée un volume d’air suffisant et nécessaire à la dissipation de chaleur
 - Fabrication Française
 
 [🛒 Achète-le!!]({{< param buyurl >}})

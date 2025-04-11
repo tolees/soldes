@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Élégante et intemporelle assiette plate au design courbé, Idéale au quotidien comme aux grandes occasions
 - Convient également à la restauration grâce à sa forme simple, Portable à une main, Empilable, Lavable au lave-vaisselle
 - Taille idéale pour servir toutes sortes de plats avec garnitures, Parfaitement combinable avec la Collection New Cottage
-- Élégante et intemporelle assiette plate au design courbé, Idéale au quotidien comme aux grandes occasions
 - Lavable au lave-vaisselle et micro-ondable, Qualité supérieure : Porcelaine Premium allemande
 - Contenu : 1x Villeroy & Boch New Cottage Basic Assiette plate (27 cm), Matière : Porcelaine Premium, Couleur : Blanc
 

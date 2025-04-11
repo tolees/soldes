@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient aux enfants entre 2 et 4 ans
-- Assorted
 - Dimensions : 125 x 50 x 75 cm
+- Assorted
+- Convient aux enfants entre 2 et 4 ans
 - Smoby XS Slide (Multi-Colour)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis: 6.7 Kg
 - 2800 tr/mn, débit maxi 2400 l/h. hauteur daspiration : 6 mètres
 - Pompe à gas-oil électrique 370 watts 230 volts
 - Couleur: Multicolore
-- Poids du colis: 6.7 Kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003JBRQRM{{</world>}}

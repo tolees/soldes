@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez de nouvelles façons de chasser et de vous déplacer grce aux filoptères qui permettent de se propulser dans les airs ou encore de prendre le contrôle des monstres
-- La réapparition dune bête légendaire signe le retour dune catastrophe qui menace le village kamura
 - Avec laide de lancien du village et de tous ses habitants, vous allez devoir perfectionner votre art de la chasse et protéger le village dune nouvelle invasion de monstres
+- La réapparition dune bête légendaire signe le retour dune catastrophe qui menace le village kamura
+- Découvrez de nouvelles façons de chasser et de vous déplacer grce aux filoptères qui permettent de se propulser dans les airs ou encore de prendre le contrôle des monstres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KX8NF29{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en Italie
-- Idéal pour votre vélo
-- 28,0 x 16,0 cm
-- Année modèle : 2015
-- Couleur : Noir
 - SMP4Bike masculin TRK Saddle-Black, 28,0 x 16,0 cm
+- Couleur : Noir
+- Idéal pour votre vélo
+- Année modèle : 2015
+- 28,0 x 16,0 cm
 - Dimensions des colis darticles : 30.8 x 20.8 x 8 cm
+- Fabriqué en Italie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0069HRSQ2{{</world>}}

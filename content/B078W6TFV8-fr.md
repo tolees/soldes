@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son tissu éponge non brossé combine la douceur du coton avec la respirabilité et la résistance aux odeurs naturelles du mérinos, tandis que les coutures avancées améliorent le confort. Les poches latérales permettent de ranger vos petits effets personnels
 - La laine mérinos est une fibre qui se renouvelle chaque année, qui résiste naturellement aux odeurs et qui offre une régulation thermique et un confort naturels, permettant à votre peau de respirer au quotidien
-- Inspirée par la nature, icebreaker est une marque qui s’appuie sur les performances des fibres naturelles pour proposer une alternative aux vêtements utilisant des matières synthétiques pétrochimiques
 - 100% naturel : un mélange de fibres naturelles éthique, sans maltraitance animale
+- Son tissu éponge non brossé combine la douceur du coton avec la respirabilité et la résistance aux odeurs naturelles du mérinos, tandis que les coutures avancées améliorent le confort. Les poches latérales permettent de ranger vos petits effets personnels
+- Inspirée par la nature, icebreaker est une marque qui s’appuie sur les performances des fibres naturelles pour proposer une alternative aux vêtements utilisant des matières synthétiques pétrochimiques
 - Votre haut à zip favori, composé d’un mélange haut de gamme de coton biologique et de laine mérinos. La veste zippée manches longues Central est un incontournable du quotidien, à la fois décontractée et confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CODEM IV haut de gamme Accordeur de ceinture haut de gamme
-- MP2, MP3, WMA, FLAC, M4A/ AAC, WAV Prise en charge de liPod Apple
-- Faible profondeur de montage
-- Streaming audio avec affichage des titres ID3
-- Multi Colour (7 couleurs), fonction DIM, mémoire permanente
 - FM, AM, DAB, DAB+ Tuner mit PS, AF, REG, EON, RT, CT, PTY, TA, Service following, DLS
-- USB avant, AUX arrière (Cinch/RCA)
-- Préréglages sonores, Loudness, sortie préamplifiée 4 canaux + 2 sub-out, 4 x 50 watts
-- Téléphonie via microphone int. ou ext.
+- MP2, MP3, WMA, FLAC, M4A/ AAC, WAV Prise en charge de liPod Apple
+- CODEM IV haut de gamme Accordeur de ceinture haut de gamme
+- Streaming audio avec affichage des titres ID3
 - Accès aux assistants vocaux (Siri, Google, Alexa), Wake-up on call, accès au répertoire téléphonique
+- Multi Colour (7 couleurs), fonction DIM, mémoire permanente
+- Préréglages sonores, Loudness, sortie préamplifiée 4 canaux + 2 sub-out, 4 x 50 watts
+- Faible profondeur de montage
+- USB avant, AUX arrière (Cinch/RCA)
+- Téléphonie via microphone int. ou ext.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3JTWF5M{{</world>}}

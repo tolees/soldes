@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Editeur : Warner Home Vidéo France
 - Durée : 186 min
-- Type dédition : Version longue
+- Editeur : Warner Home Vidéo France
 - Référence EAN : 5051889518310
+- Type dédition : Version longue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00MGVTHBY{{</world>}}

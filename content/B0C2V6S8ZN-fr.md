@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jeu inclut deux packs de contenu spécial gratuits proposant des cartes de deux des lieux les plus emblématiques de lhistoire du jeu vidéo : le Manoir des Croft et la ville de Midgar .
 - Relâchez la pression avec PowerWash Simulator ! Éliminez vos soucis grâce aux sons apaisants de leau sous haute pression, allumez votre nettoyeur haute pression et éliminez toute la saleté et la crasse que vous pouvez trouver. Profitez du plaisir simple et satisfaisant que procure le nettoyage à haute pression.
 - Détendez vous et reposez vous en mode solo, ou jouez avec vos amis dans le mode coopératif en ligne ; dans un cas ou dans lautre, un jeu propre vous attend.
+- Le jeu inclut deux packs de contenu spécial gratuits proposant des cartes de deux des lieux les plus emblématiques de lhistoire du jeu vidéo : le Manoir des Croft et la ville de Midgar .
 - Montez votre entreprise de nettoyage haute pression en mode carrière et débloquez des outils, des améliorations, et plein dautres éléments dans les autres modes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

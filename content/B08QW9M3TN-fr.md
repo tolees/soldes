@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 82 % Coton, 18 % Polyester
 - Lavage en machine
 - Fermeture: Cordon de serrage
-- 82 % Coton, 18 % Polyester
 - Taille normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

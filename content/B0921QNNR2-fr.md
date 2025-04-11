@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🥇VAINQUEUR du GRAND PRIX 2023 du Cocorico du Jouet.
-- 🏆DÉFIEZ-VOUS avec 480 cartes pour enfants et parents, dont des cartes mimes, des challenges et des défis hilarants, réalisables aussi bien en intérieur quen extérieur. Créez des souvenirs mémorables avec le meilleur jeu de société famille !
-- 🌲UN JEU TOUT PROPRE : Imaginé en France, imprimé en Europe & ECOFRIENDLY. Papier écoresponsable et 1% des bénéfices reversé à des associations caritatives.
 - 💡SIMPLE À JOUER : Chacun votre tour, tirez une carte et posez la question au joueur à votre gauche. Répondez en moins de 8 secondes pour gagner un point. La première équipe à 7 points remporte la partie !
 - 🎁UN CADEAU POUR TOUTE LA FAMILLE : Notre jeu de société pour enfant et parents est le cadeau idéal pour Noël, les anniversaires, animer les repas de famille, ou simplement pour tous ceux qui aiment les jeux en famille.
+- 🥇VAINQUEUR du GRAND PRIX 2023 du Cocorico du Jouet.
 - 👨‍👩‍👧‍👦LE JEU IDEAL : Constituez deux équipes, parents et enfants, et répondez à des questions pour en apprendre plus sur votre famille tout en samusant. Passez un bon moment en famille et échangez sur des sujets intéressants et drôles.
+- 🏆DÉFIEZ-VOUS avec 480 cartes pour enfants et parents, dont des cartes mimes, des challenges et des défis hilarants, réalisables aussi bien en intérieur quen extérieur. Créez des souvenirs mémorables avec le meilleur jeu de société famille !
+- 🌲UN JEU TOUT PROPRE : Imaginé en France, imprimé en Europe & ECOFRIENDLY. Papier écoresponsable et 1% des bénéfices reversé à des associations caritatives.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0921QNNR2{{</world>}}

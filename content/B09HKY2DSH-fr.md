@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - GRAND CONFORT : En forme de vasque avec des bords arrondis pour le confort de bébé, cette baignoire bébé est linnovation qui vous permettra de donner le bain sans devoir vous plier en 4. Peut accueillir un transat de bain.
 - PRATIQUE & SIMPLE À RANGER : Les pieds sont pliables pour un rangement simple au sein de petits espaces et un véritable gain de place ! Quant au tuyau de vidange, il permet de vider le bain de bébé sans effort.
 - INNOVATION BREVETÉE POUR LA SÉCURITÉ BÉBÉ : Grâce à un système daccroche en croix innovant et breveté, la baignoire est solidement maintenue et stable pour éviter les risques de chute. Sécurité garantie pour lenfant !
-- KIT BAIN COMPLET : Le kit pour bébé de Thermobaby vous facilitera la vie. Il est composé de la baignoire VASCO, accompagné de son pied en bois pliable et son tuyau de vidange. Son design est moderne et épuré.
 - THERMOBABY, LINNOVATION FRANÇAISE : Ancrée en Bretagne depuis sa création en 1949, Thermobaby fabrique des produits de puériculture. La société prône le made in France, un véritable gage de qualité.
+- KIT BAIN COMPLET : Le kit pour bébé de Thermobaby vous facilitera la vie. Il est composé de la baignoire VASCO, accompagné de son pied en bois pliable et son tuyau de vidange. Son design est moderne et épuré.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HKY2DSH{{</world>}}

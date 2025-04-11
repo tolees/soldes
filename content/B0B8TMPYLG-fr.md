@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- L’application Shelly Smart Control vous aide à contrôler vos dispositifs Shelly à distance et vous envoie des notifications pour tous les évènements automatisés chez vous ; Vous pouvez facilement configurer vos dispositifs et gérer leurs paramètres individuellement ou bien créer des scènes personnalisées en combinant les dispositifs Shelly pour déclencher des actions prédéfinies dans votre système domotique
+- Service client Shelly : Shelly est lune des marques de Smart Home dont la croissance est très rapide ; Les dispositifs fournissent des solutions dautomatisation des maisons, bâtiments et entreprises ; Nous offrons à nos clients une assistance professionnelle et une garantie de 2 ans pour les dispositifs
 - Fonctionne avec piles et alimentation USB : Grâce son écran à faible consommation, Shelly Plus H&T bénéficie d’une autonomie de plus d’un an ; Pour une connexion plus rapide, vous pouvez également utiliser un câble USB
 - Shelly Plus H&T est un capteur de température & humidité connecté qui vous permet de garder un œil sur les moindres changements ambiants au sein de votre foyer ; Vous seriez toujours au courant, lorsque votre environnement devient trop sec ou trop humide ; Il suffit de connecter votre appareil Shelly Plus H&T à votre réseau Wi-Fi, et vous prenez tout de suite contrôle de vos conditions de vie
-- Service client Shelly : Shelly est lune des marques de Smart Home dont la croissance est très rapide ; Les dispositifs fournissent des solutions dautomatisation des maisons, bâtiments et entreprises ; Nous offrons à nos clients une assistance professionnelle et une garantie de 2 ans pour les dispositifs
-- L’application Shelly Smart Control vous aide à contrôler vos dispositifs Shelly à distance et vous envoie des notifications pour tous les évènements automatisés chez vous ; Vous pouvez facilement configurer vos dispositifs et gérer leurs paramètres individuellement ou bien créer des scènes personnalisées en combinant les dispositifs Shelly pour déclencher des actions prédéfinies dans votre système domotique
 - Capteur de température et dhumidité : Surveillez les changements du taux dhumidité, afin déviter que votre environnement ne devienne sec, comme la formation de moisissures ; Pour un confort thermique optimal, créez une scène intelligente avec un autre dispositif Shelly pour branchez le chauffage ou la climatisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

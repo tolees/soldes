@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le shampoing déjaunissant professionnel Silver allie des pigments violets au magnésium acétate pour neutraliser les reflets jaunes indésirables et mèches argentées, redonner éclat, douceur et souplesse aux cheveux gris, blonds polaires et cheveux blancs grâce à sa technologie Gloss Protect.
 - Appliquer sur cheveux mouillés. Masser le cuire chevelu avec délicatesse en faisant de petits cercles. Rincer longuement, puis quelques secondes à leau froide pour révéler léclat de vos jolies mèches argentées.
 - Un soin qui élimine les reflet cuivrés et jaunes non voulus, nourrit et protège la fibre capillaire des cheveux blancs et gris. Les cheveux sont souples et brillant.
+- Le shampoing déjaunissant professionnel Silver allie des pigments violets au magnésium acétate pour neutraliser les reflets jaunes indésirables et mèches argentées, redonner éclat, douceur et souplesse aux cheveux gris, blonds polaires et cheveux blancs grâce à sa technologie Gloss Protect.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0959QJFD3{{</world>}}

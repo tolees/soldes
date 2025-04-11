@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITATIF ET DURABLE - Touches avec revêtement anti UV, offrant un cycle de vie de 10.000.000 pressions. Le clavier est conçu avec du matériel ABS de haute qualité et ses touches à membranes sont résistantes. C’est la solution idéale pour le bureau et les petits espaces de travail à la maison.
-- SYSTEMES REQUIS - Win XP, Vista, 7, 8, 10 et versions ultérieures. Le colis contient : 1 Clavier, son Manuel dutilisation. 24 mois de garantie.
 - CONNEXION FACILE – Clavier prêt à l’emploi Plug-and-Play. Branchez votre Periboard-409U à votre ordinateur avec le câble USB est c’est parti vous pouvez vous lancer !
-- MINI CLAVIER - Clavier 60%. Le Periboard-409U est un mini clavier avec touches chiclet noir. Son câble de 1,8 mètre permet une connexion fiable via un port USB libre de votre ordinateur. Dimensions : 31.4 x 14.6 x 2 cm
+- QUALITATIF ET DURABLE - Touches avec revêtement anti UV, offrant un cycle de vie de 10.000.000 pressions. Le clavier est conçu avec du matériel ABS de haute qualité et ses touches à membranes sont résistantes. C’est la solution idéale pour le bureau et les petits espaces de travail à la maison.
 - SIMPLEMENT BRILLANT - Ce mini clavier sadapte à vos besoins, travaillez ou jouez où vous voulez. C’est un mini clavier, il n’y a donc pas de pavé numérique intégré.
+- MINI CLAVIER - Clavier 60%. Le Periboard-409U est un mini clavier avec touches chiclet noir. Son câble de 1,8 mètre permet une connexion fiable via un port USB libre de votre ordinateur. Dimensions : 31.4 x 14.6 x 2 cm
+- SYSTEMES REQUIS - Win XP, Vista, 7, 8, 10 et versions ultérieures. Le colis contient : 1 Clavier, son Manuel dutilisation. 24 mois de garantie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008HF5HSU{{</world>}}

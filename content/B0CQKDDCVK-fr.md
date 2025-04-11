@@ -28,18 +28,18 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivity technology: USB
-- Wireless provider: 3
+- Batteries included: False
 - Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/8PXCj1wo9rNxXabdskg/8PXCj1wo9rNxXa9xOqXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- 2 ans
-- Camera description: Frontal
 - Display size: 6.67 inches
-- Xiaomi
-- Item dimensions: 1.97 inches
-- Included components: Mobile, câble USB, extracteur SIM et guide
 - Memory storage capacity: 256.0 GB
 - Cellular technology: 4G
-- Batteries included: False
+- Connectivity technology: USB
+- Wireless provider: 3
+- Included components: Mobile, câble USB, extracteur SIM et guide
+- Camera description: Frontal
+- Item dimensions: 1.97 inches
+- 2 ans
+- Xiaomi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CQKDDCVK{{</world>}}

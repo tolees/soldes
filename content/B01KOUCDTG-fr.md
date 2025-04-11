@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Galbe Entièrement Les Jambes Grâce À Sa Maille En Lycra,
 - Collant Semi-Opaque À Effet Galbant Pour Des Jambes Affinées
+- Galbe Entièrement Les Jambes Grâce À Sa Maille En Lycra,
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01KOUCDTG{{</world>}}

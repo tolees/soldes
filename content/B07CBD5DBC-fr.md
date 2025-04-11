@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Créez vos propres configurations de lumières intelligentes et obtenez des scénarios lumineux parfaitement adaptés à vos besoins et vos envies
-- Ce luminaire est facile à intégrer dans un système Philips Hue existant, Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison,
-- Classe de protection IP44 (optimisé pour lextérieur) : grâce à son boîtier de qualité supérieure, la lampe de jardin est protégée contre lhumidité et la poussière, Réglez les itinéraires personnalisés pour allumer et éteindre automatiquement la lumière
 - Température de couleur : 2700 K, Embellissez votre jardin avec la lumière blanche,
+- Classe de protection IP44 (optimisé pour lextérieur) : grâce à son boîtier de qualité supérieure, la lampe de jardin est protégée contre lhumidité et la poussière, Réglez les itinéraires personnalisés pour allumer et éteindre automatiquement la lumière
 - Fonctionne avec Amazon Alexa, Google Home et Apple HomeKit
+- Ce luminaire est facile à intégrer dans un système Philips Hue existant, Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison,
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CBD5DBC{{</world>}}

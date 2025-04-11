@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Product description: Rubber Stamp on wood frame made in France.
 - Colour: Beige
+- Product description: Rubber Stamp on wood frame made in France.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00U3WGC4I{{</world>}}

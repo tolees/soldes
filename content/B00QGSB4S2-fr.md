@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Activer/ désactiver la charge à distance
 - Signaler la consommation dénergie en watts ou en kWh.
 - Technologie sans fil cryptée sécurisée et répète z-wave.
-- Portez jusquà 40 ampères de courant de charge de résistance.
 - Compatible avec les passerelles z-wave certifiées, y compris smartthings, verra, Universal devices ISY994Zw, wink-hub, zipabox, telldus, qolsys IQ Panneau, Open z-wave, jeedom, indigo 7, in Control, homeseer, Home assistant, eedomus, alarmecom. Certifié z-wave plus. Numéro de certification zc10-14090016.
+- Portez jusquà 40 ampères de courant de charge de résistance.
+- Activer/ désactiver la charge à distance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00QGSB4S2{{</world>}}

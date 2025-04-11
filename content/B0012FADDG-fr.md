@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confectionné
-- Etamine: 100% coton
-- Dos avec fermeture
 - Instructions dans huit langues
+- Dos avec fermeture
+- Etamine: 100% coton
+- Confectionné
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0012FADDG{{</world>}}

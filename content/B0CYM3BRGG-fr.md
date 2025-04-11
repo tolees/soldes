@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - 5G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
-- - Type: Smartphone
 - - 3G Network: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
-- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+- - Type: Smartphone
 - - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66
+- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+- - 5G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYM3BRGG{{</world>}}

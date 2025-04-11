@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des effets lumineux à l’écran attirent l’œil de Bébé et l’incitent à jouer
 - Version française
 - Poignée adaptée aux petites mains pour transporter l’ordi partout
+- Des effets lumineux à l’écran attirent l’œil de Bébé et l’incitent à jouer
 - Avec une souris directionnelle pour découvrir les chiffres et les notes de musique et déclencher des sons rigolos
 - Un super ordinateur avec 9 touches interactives pour découvrir les formes, les animaux et les couleurs
 - 20 mélodies et 3 chansons

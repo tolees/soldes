@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Villeroy & Boch Cellini Bol (750 ml), Matière : Porcelaine Premium, Couleur : Blanc
 - Convient aussi pour la restauration grâce à la forme ergonomique, Empilable, Bord particulièrement résistant aux chocs
 - Taille optimale pour les petites portions, Utilisation polyvalente, Combinaison idéale avec le reste de la collection Cellini
 - Bol rond avec relief classique pour servir avec élégance soupes, amuse-gueules, céréales et desserts, Idéal pour le quotidien
+- Contenu : 1x Villeroy & Boch Cellini Bol (750 ml), Matière : Porcelaine Premium, Couleur : Blanc
 - Adapté au lave-vaisselle et au four à micro-ondes, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

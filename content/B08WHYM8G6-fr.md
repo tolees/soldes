@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Longueur : 27 cm - Largeur : 11,5 cm - Hauteur : 9 cm - Acier inoxydable 18/10 mat, ABS lisse noir
 - Hygiénique, neutre au goût et facile à entretenir, le coupe-ananas peut être nettoyé dans le lave-vaisselle - c’est loutil de cuisine spécial parfait pour les amateurs dananas
 - Pratique : Avec échelle graduée pour déterminer la profondeur dincision - la pulpe peut être prélevée même partiellement, fraîchement coupée chaque jour
 - RÖSLE Tranche-ananas PRO : Léplucheur dananas de qualité supérieure est idéal pour épépiner et trancher facilement les fruits tropicaux : il est propre, rapide et c’est un jeu denfant
 - Ergonomique : La poignée de forme optimale facilite linsertion du coupeur dans le fruit ainsi que lextraction de la pulpe - le tronc est automatiquement coupé et peut être expulsé par la fente déjection
-- Longueur : 27 cm - Largeur : 11,5 cm - Hauteur : 9 cm - Acier inoxydable 18/10 mat, ABS lisse noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WHYM8G6{{</world>}}

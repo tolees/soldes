@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Luttez pour préserver les vestiges de votre humanité tout en essayant de contrôler votre désir de vous nourrir ou la Bête qui bat en vous ; vous finirez par prendre le contrôle. Selon le choix de votre personnage et de votre clan, vous disposerez de différentes Disciplines (pouvoirs) qui vous aideront en combat et dans certains dialogues, mais attention car plus vous les utiliserez, plus votre soif de sang sera grande.
 - Lun des RPG les plus acclamés de tous les temps prend vie dans un roman interactif dans lequel vos décisions marqueront votre destin. Deux aventures passionnantes se déroulant dans un univers unique, où la mort nest que le début de chaque histoire.
-- Shadows of New York est une aventure totalement indépendante dans laquelle vous incarnerez un membre du clan Lasombra, chargé denquêter sur la mort du leader des Anarchs de New York.
-- Dans Coteries of New York, vous redécouvrirez New York du point de vue dun vampire nouveau-né, pris entre les luttes de pouvoir de 2 clans de vampires : Camarilla et Anarchs. Choisissez votre personnage parmi 3 clans différents (Ventrue, Toreador et Brujah) et faites face à des décisions qui marqueront le destin de lintrigue et votre relation avec les autres personnages.
 - Essayez de maintenir la neutralité dans une ville sur le point dexploser tout en interagissant avec des vampires dautres clans, des humains et dautres créatures.
+- Dans Coteries of New York, vous redécouvrirez New York du point de vue dun vampire nouveau-né, pris entre les luttes de pouvoir de 2 clans de vampires : Camarilla et Anarchs. Choisissez votre personnage parmi 3 clans différents (Ventrue, Toreador et Brujah) et faites face à des décisions qui marqueront le destin de lintrigue et votre relation avec les autres personnages.
+- Shadows of New York est une aventure totalement indépendante dans laquelle vous incarnerez un membre du clan Lasombra, chargé denquêter sur la mort du leader des Anarchs de New York.
+- Luttez pour préserver les vestiges de votre humanité tout en essayant de contrôler votre désir de vous nourrir ou la Bête qui bat en vous ; vous finirez par prendre le contrôle. Selon le choix de votre personnage et de votre clan, vous disposerez de différentes Disciplines (pouvoirs) qui vous aideront en combat et dans certains dialogues, mais attention car plus vous les utiliserez, plus votre soif de sang sera grande.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B2WXBMYL{{</world>}}

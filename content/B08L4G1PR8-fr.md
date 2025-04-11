@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 x Coloration Casting Crème Gloss LOréal Paris, Nuance : Noir Ebène (200), Inclus : 1 crème colorante (48 ml), 1 lait révélateur (72 ml), 1 soin enrichi à la Coco (60 ml), 1 paire de gants, 1 notice dutilisation
+- Coloration non permanente à la nuance dun brun naturel, Convient aux cheveux bruns, Tenue jusquà 28 shampooings
 - Une couleur ultra-glossy et naturelle, pleine de nuances grâce à des reflets gourmands et une brillance exceptionnelle, Couverture des cheveux blancs jusqu à 70%
 - Conseils dutilisation : Réaliser un test d’allergie au préalable 48h avant application, Lire attentivement la notice avant toute application, Quantité recommandée : 1 boîte (cheveux mi-longs), 2 boîtes (cheveux longs)
-- Coloration non permanente à la nuance dun brun naturel, Convient aux cheveux bruns, Tenue jusquà 28 shampooings
+- Contenu : 1 x Coloration Casting Crème Gloss LOréal Paris, Nuance : Noir Ebène (200), Inclus : 1 crème colorante (48 ml), 1 lait révélateur (72 ml), 1 soin enrichi à la Coco (60 ml), 1 paire de gants, 1 notice dutilisation
 - Formule sans ammoniaque à la texture crème, Soin nourrissant inclus pour sublimer la couleur et assouplir la chevelure, Flacon applicateur ultra-pratique pour une grande précision
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Barre despace unique sur le thème du ROG : Barre despacement revêtue dUV avec marquage spécial ROG et trois LED RGB en dessous.
-- Commandes intuitives : Bouton multifonction et bouton à trois directions pour la lecture multimédia, le volume et léclairage du clavier
-- Mousse dinsonorisation : La mousse intégrée absorbe les bruits dimpact et les échos pour une meilleure acoustique.
-- Design ergonomique : Trois positions dinclinaison et un repose-poignet amovible
-- Switches optiques ROG RX : Les switches RX Red pré-lubrifiés sont dotés dun éclairage centralisé et offrent des frappes régulières et sans tremblement avec un délai dattente proche de zéro.
-- Capuchons de touches en ABS : Les capuchons de touches durables ROG PBT à double frappe ou les capuchons de touches ABS revêtus dUV offrent une sensation de qualité supérieure et une résistance à la brillance.
-- Touches de raccourci : Les touches F1 à F5 sont préprogrammées comme touches de raccourci pour la barre de jeu Xbox et lenregistrement.
 - Classé IP57 : Résistant à leau et à la poussière pour une durabilité à long terme
+- Switches optiques ROG RX : Les switches RX Red pré-lubrifiés sont dotés dun éclairage centralisé et offrent des frappes régulières et sans tremblement avec un délai dattente proche de zéro.
+- Mousse dinsonorisation : La mousse intégrée absorbe les bruits dimpact et les échos pour une meilleure acoustique.
+- Touches de raccourci : Les touches F1 à F5 sont préprogrammées comme touches de raccourci pour la barre de jeu Xbox et lenregistrement.
+- Barre despace unique sur le thème du ROG : Barre despacement revêtue dUV avec marquage spécial ROG et trois LED RGB en dessous.
+- Design ergonomique : Trois positions dinclinaison et un repose-poignet amovible
+- Commandes intuitives : Bouton multifonction et bouton à trois directions pour la lecture multimédia, le volume et léclairage du clavier
+- Capuchons de touches en ABS : Les capuchons de touches durables ROG PBT à double frappe ou les capuchons de touches ABS revêtus dUV offrent une sensation de qualité supérieure et une résistance à la brillance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJYC4Y49{{</world>}}

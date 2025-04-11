@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les deux héros Nintendo, le célèbre plombier Mario et son frère Luigi, sont de retour sur la piste pour une course effrénée et tous les coups sont permis ! Que le meilleur gagne
-- La manette avec bouton turbo rend les courses encore plus folles / Ne convient pas aux enfants de moins de 3 ans / Âge recommandé : 6 ans et +
 - Jouez avec une voiture pour perfectionner votre conduite ou deux simultanément pour un plaisir partagé / Dimensions du circuit : 158 x 68 cm / Longueur totale de la piste : 4,9 m
+- La manette avec bouton turbo rend les courses encore plus folles / Ne convient pas aux enfants de moins de 3 ans / Âge recommandé : 6 ans et +
 - Un circuit plein de défis : looping, lignes droites à grande vitesse, virages serrés ou relevés, rétrécissement et croisement garantissent une course palpitante
+- Les deux héros Nintendo, le célèbre plombier Mario et son frère Luigi, sont de retour sur la piste pour une course effrénée et tous les coups sont permis ! Que le meilleur gagne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PP9BPVN{{</world>}}

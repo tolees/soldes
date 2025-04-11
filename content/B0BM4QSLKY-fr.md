@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Améliore léclat sans provoquer de déshydratation
 - Le rouge à lèvres a une couvrance moyenne et une finition chatoyante
+- Améliore léclat sans provoquer de déshydratation
 - Convient à tous les types de peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

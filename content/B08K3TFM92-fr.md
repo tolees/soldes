@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Classe de performance 7200 RPM
 - Une fiabilité accrue grâce à la technologie 3D Active Balance Plus et des contrôles de reprise sur erreur grâce à la technologie NASware 3.2
 - Disponible dans des capacités allant de 2 à 22 To avec un support pour un maximum de 24 baies
-- Classe de performance 7200 RPM
 - Supporte un taux de charge de travail allant jusquà 300 To/an
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

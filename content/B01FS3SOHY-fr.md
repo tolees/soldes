@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Prise casque
-- Lecteur CD sur l’avant de l’appareil
-- Touche bis
-- 2 micros pour chanter sur tes musiques préférées !
-- Pour chanter à 2 sur tes musiques préférées !
 - Affichage LED
-- Fonctionne sur pile :4 x LR14/C (non fournies)
-- Pratique : une poignée pour le transporter partout avec toi !
+- Lecteur CD sur l’avant de l’appareil
 - Un lecteur CD avec 2 micros et 1 prise pour casque !
+- 2 micros pour chanter sur tes musiques préférées !
+- Pratique : une poignée pour le transporter partout avec toi !
+- Touche bis
+- Pour chanter à 2 sur tes musiques préférées !
+- Fonctionne sur pile :4 x LR14/C (non fournies)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FS3SOHY{{</world>}}

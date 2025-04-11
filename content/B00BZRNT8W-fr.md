@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu: 1x Villeroy & Boch Entrée Carafe (1,5 l), Matière: Cristallin, Couleur: Transparent
+- design épuré et harmonieux pour toutes les occasions
 - Utilisable en restauration: Cristallin qualité supérieure lavable au lave-vaisselle pour une grande longévité et une brillance longue durée
 - Élégante carafe à eau en Cristallin pour servir leau, le thé glacé ou le jus avec style
-- design épuré et harmonieux pour toutes les occasions
+- Contenu: 1x Villeroy & Boch Entrée Carafe (1,5 l), Matière: Cristallin, Couleur: Transparent
 - Verre brillant pour mettre en valeur le contenu de la carafe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

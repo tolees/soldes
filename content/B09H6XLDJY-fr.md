@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe Relaxed fit
-- Respirant
 - Coupe droite
+- Respirant
 - Col rond
+- Coupe Relaxed fit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09H6XLDJY{{</world>}}

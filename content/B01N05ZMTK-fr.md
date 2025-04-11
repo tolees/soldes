@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour s’amuser, se détendre ou simplement en décoration dans votre piscine ou votre jardin
 - 2 Chambres à air
 - 2 Poignées de maintien
-- Pour s’amuser, se détendre ou simplement en décoration dans votre piscine ou votre jardin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N05ZMTK{{</world>}}

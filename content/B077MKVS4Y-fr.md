@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière supérieure en cuir souple
-- Semelle intérieure amovible SoftFoam
-- Inspirée du tennis. Confort et style pour tous les jours
 - Mise à jour de la PUMA smash
+- Inspirée du tennis. Confort et style pour tous les jours
+- Semelle intérieure amovible SoftFoam
+- Matière supérieure en cuir souple
 - Semelle extérieure en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

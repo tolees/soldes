@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige : Nubuck (Cuir de vachette)
 - Coutures à 360° pour une meilleure durabilité
-- Semelle extérieure / Caracteristiques : TPU avec technologie Contact Earth pour une meilleure résistance à labrasion
+- Tige : Nubuck (Cuir de vachette)
 - Couleur : marron foncé
 - Brides élastiques pour un bon ajustement
+- Semelle extérieure / Caracteristiques : TPU avec technologie Contact Earth pour une meilleure résistance à labrasion
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00123WBGA{{</world>}}

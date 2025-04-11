@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : multicolore
-- Référence : S7830090
 - Si vous voulez la qualité au meilleur prix, ne cherchez plus !
+- Couleur : multicolore
 - Dimensions : 10,5 x 16,8 x 1,2 centimètres
+- Référence : S7830090
 - Jeu vidéo pour Switch de la marque Warner Games
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

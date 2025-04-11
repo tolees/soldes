@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maintient au chaud
 - Composition : 100 % polyester
+- Maintient au chaud
 - Toucher doux
 - Évacuation optimisée de l’humidité
 

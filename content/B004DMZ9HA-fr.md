@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roulettes pivotantes
 - Dimensions : 41 x 23 x 63 cm
-- Tube et fil métal plastifié
-- Garantie : 1 an(s)
 - Système dassemblage breveté : rapide, facile et robuste
+- Roulettes pivotantes
+- Garantie : 1 an(s)
+- Tube et fil métal plastifié
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004DMZ9HA{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LAVENTURE CONTINUE : Il faut sauver la princesse et le Royaume des griffes du mal. Les cartes et le Livres des quêtes de cette extension de jeu fantastique HeroQuest inclut des illustrations qui plongent les joueurs dans une aventure périlleuse
-- EXTENSION DE JEU : Le Pack de quête Le mage du miroir est une extension du système de jeu daventure HeroQuest. (Système de jeu HeroQuest requis pour jouer. Vendu séparément.) Pour 2 à 5 joueurs, à partir de 14 ans
-- SE REJOUE À LINFINI : Les joueurs plongent dans lunivers dHeroQuest avec cette extension qui ajoute à la rejouabilité du jeu Les joueurs peuvent aussi créer leurs propres histoires et leurs propres quêtes
 - AGRANDIR SA COLLECTION DE FIGURINES : Cette extension de jeu inclut 33 figurines détaillées (non peintes) :  mobilier elfique, héros elfe, archimage maléfique, ogres, loups géants et autres
+- SE REJOUE À LINFINI : Les joueurs plongent dans lunivers dHeroQuest avec cette extension qui ajoute à la rejouabilité du jeu Les joueurs peuvent aussi créer leurs propres histoires et leurs propres quêtes
+- EXTENSION DE JEU : Le Pack de quête Le mage du miroir est une extension du système de jeu daventure HeroQuest. (Système de jeu HeroQuest requis pour jouer. Vendu séparément.) Pour 2 à 5 joueurs, à partir de 14 ans
 - INCLUT 10 QUÊTES PASSIONNANTES : Lextension de jeu Le mage du miroir inclut 10 quêtes, ainsi que des tuiles colorées et 35 cartes de jeu, le tout dans un monde elfique rempli de monstres, de pièges et de sorts altérant lesprit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

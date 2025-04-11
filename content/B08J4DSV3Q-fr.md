@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Finition noire épurée
 - Disque dur externe de 2,5”
+- exFAT formaté pour : Playstation/Xbox (Vous trouverez la liste des compatibilités ici), Windows 10 , Windows 8.1, macOS 10.15, 10.14, 10.13
 - Stockage de plus de 25 jeux par To (taille moyenne d’un jeu : 36 Go)
 - Compatible avec PlayStation / Xbox / PC
-- Finition noire épurée
-- exFAT formaté pour : Playstation/Xbox (Vous trouverez la liste des compatibilités ici), Windows 10 , Windows 8.1, macOS 10.15, 10.14, 10.13
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08J4DSV3Q{{</world>}}

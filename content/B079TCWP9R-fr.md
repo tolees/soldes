@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une robe effet velours noir doublée d’une matière satinée rouge au niveau des revers et de la capuche intégrée.
+- Le blason de la maison Gryffondor est brodé sur la robe.
 - Lunettes, chaussures et baguettes non incluses.
 - Sous licence officielle Harry Potter
-- Le blason de la maison Gryffondor est brodé sur la robe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079TCWP9R{{</world>}}

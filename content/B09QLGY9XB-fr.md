@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants pulvérisent de l’eau froide (stockée dans la citerne bleue) sur leur voiture Color Shifters afin de révéler un nouveau design, puis aspergent le véhicule d’eau chaude (stockée dans la citerne rouge) pour lui faire retrouver sa couleur d’origine.
-- Profitez pleinement de la Méga Tour Station de Lavage de Hot Wheels City et de ses effets de changement de couleur (à activer grâce aux citernes d’eau chaude et d’eau froide) dans un superbe coffret qui évite les éclaboussures.
-- Un plateau situé à la base du coffret recueille l’excédent d’eau qui ruisselle sur les véhicules au cours de leurs déplacements, évitant ainsi les éclaboussures.
-- Le coffret contient une voiture Hot Wheels Color Shifters qui change de couleur au contact de l’eau froide et retrouve sa couleur d’origine avec de l’eau chaude. Vous aurez l’impression d’avoir 2 véhicules en 1 !
 - Placez 3 véhicules Color Shifters dans les espaces de stationnement au milieu de la station et changez leur aspect simultanément ! (Autres véhicules vendus séparément.)
+- Le coffret contient une voiture Hot Wheels Color Shifters qui change de couleur au contact de l’eau froide et retrouve sa couleur d’origine avec de l’eau chaude. Vous aurez l’impression d’avoir 2 véhicules en 1 !
+- Un plateau situé à la base du coffret recueille l’excédent d’eau qui ruisselle sur les véhicules au cours de leurs déplacements, évitant ainsi les éclaboussures.
+- Profitez pleinement de la Méga Tour Station de Lavage de Hot Wheels City et de ses effets de changement de couleur (à activer grâce aux citernes d’eau chaude et d’eau froide) dans un superbe coffret qui évite les éclaboussures.
+- Les enfants pulvérisent de l’eau froide (stockée dans la citerne bleue) sur leur voiture Color Shifters afin de révéler un nouveau design, puis aspergent le véhicule d’eau chaude (stockée dans la citerne rouge) pour lui faire retrouver sa couleur d’origine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QLGY9XB{{</world>}}

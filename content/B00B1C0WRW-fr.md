@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Précision dusine : +/- 2 Pourcentage
-- Modèle réversible
 - Clés entièrement métalliques avec manche moleté
+- Modèle réversible
+- Précision dusine : +/- 2 Pourcentage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B1C0WRW{{</world>}}

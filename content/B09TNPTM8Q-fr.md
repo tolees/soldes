@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vérifiez ce qui se passe à la maison ; soyez désormais toujours au courant de ce qui se passe à la porte, grâce à la diffusion en direct 24h/24 et 7j/7 de la caméra de la sonnette et aux notifications pour les événements importants tels que les visites ou les livraisons
 - Suivez les événements ; si vous avez oublié quelque chose, jetez un coup dœil au flux vidéo basé sur les événements : 3 h sont enregistrées gratuitement, pour en savoir plus, il y a Nest Aware
 - Sadapte à toutes les portes ; la sonnette Nest est une sonnette sans fil alimentée par batterie qui sadapte à presque toutes les portes, quil sagisse dune maison ou dun appartement, dune location ou dune propriété
+- Vérifiez ce qui se passe à la maison ; soyez désormais toujours au courant de ce qui se passe à la porte, grâce à la diffusion en direct 24h/24 et 7j/7 de la caméra de la sonnette et aux notifications pour les événements importants tels que les visites ou les livraisons
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09TNPTM8Q{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur: 550mm
 - Bahco
 - Poignée en plastique monopièce vissée, ergonomique
 - Denture HardPoint universelle, offrant une durabilité incomparable
+- Longueur: 550mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000CSSY62{{</world>}}

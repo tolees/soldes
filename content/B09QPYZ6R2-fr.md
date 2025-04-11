@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEntre-terre, un monde grandiose à explorer ELDEN RING propose dimmenses et prodigieux paysages, parsemés dobscurs et tortueux donjons reliés naturellement entre eux.
 - Un nouvel univers de fantasy conçu par Hidetaka Miyazaki, créateur de lincontournable série de jeux vidéo DARK SOULS, et George R. R. Martin, auteur de la série de romans de fantasy Le Trône de fer.
+- LEntre-terre, un monde grandiose à explorer ELDEN RING propose dimmenses et prodigieux paysages, parsemés dobscurs et tortueux donjons reliés naturellement entre eux.
 - Un Gameplay qui redéfinit tout un genre Créez votre personnage dans ce nouvel Action-RPG, définissez votre propre style de jeu en testant un vaste arsenal darmes, de sorts et de techniques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

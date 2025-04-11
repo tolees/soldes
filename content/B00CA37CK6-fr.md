@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Numéro darticle: 10-1380-2610
 - Twist white assiette plate
 - Villeroy & Boch
+- Numéro darticle: 10-1380-2610
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CA37CK6{{</world>}}

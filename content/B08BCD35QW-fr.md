@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Languette à soufflet et renfort à l’avant-pied
-- Semelle extérieure adhérente non marquante Omni-Grip
 - Semelle intercalaire Techlite pour un amorti confortable et une excellente restitution de l’énergie
 - Tige en maille et cuir suédé avec renforts en cuir synthétique
+- Semelle extérieure adhérente non marquante Omni-Grip
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08BCD35QW{{</world>}}

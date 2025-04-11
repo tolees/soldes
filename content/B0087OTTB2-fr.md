@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Perforation sans effort dans le béton et la maçonnerie, burinage, perçage et vissage avec une puissance de 600 W
-- Ergonomie poussée : faible poids (2,2 kg), design compact (Slimline) et poignée Softgrip pour un travail sans effort
 - Un outil polyvalent : fourni avec un mandrin pour forets et embouts classiques
-- Fonction de burinage intégrée avec Vario-Lock : position de travail du burin variable
+- Ergonomie poussée : faible poids (2,2 kg), design compact (Slimline) et poignée Softgrip pour un travail sans effort
 - Système SDS-plus Bosch : changement rapide et sans outil de laccessoire
 - Mécanisme de frappe pneumatique Bosch doté dune puissance de frappe de 1,9 J : puissance de frappe élevée dans les matériaux durs, indépendamment de la pression appliquée
+- Fonction de burinage intégrée avec Vario-Lock : position de travail du burin variable
+- Perforation sans effort dans le béton et la maçonnerie, burinage, perçage et vissage avec une puissance de 600 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0087OTTB2{{</world>}}

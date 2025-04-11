@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie de gestion dalimentation innovante pouvant générer jusquà 40 % déconomie d’énergie
-- Garantie à vie limitée
 - Boîtier en acier rackable standard 19 pouces
-- Type de connecteur: UK (Plug Type)
+- Technologie de gestion dalimentation innovante pouvant générer jusquà 40 % déconomie d’énergie
 - Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
-- 24 ports RJ45 10/100/1000 Mbps
 - Fonctions auto-apprentissage dadresse MAC et auto MDI/MDIX
+- 24 ports RJ45 10/100/1000 Mbps
+- Type de connecteur: UK (Plug Type)
+- Garantie à vie limitée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000RSTX9O{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : Sachez que les bulles dair libérées lors de la première immersion sont parfaitement normales et quil ny a pas lieu de sinquiéter. Les bulles sont simplement de lair normal libéré de la surface poreuse du produit. Seules les poches de gaz qui se sont accumulées au fil du temps en raison de la décomposition sont préoccupantes en raison du type de gaz.
 - Favorise une forte croissance des plantes - les racines pénètrent et sétalent facilement dans le substrat pour obtenir des nutriments
-- Fournit aux crevettes nouveau-nés un refuge contre les prédateurs jusquà ce quelles soient suffisamment grandes pour émerger
+- Ne décolore pas leau et aide à contrôler la décoloration organique en présence de bois flotté naturel
+- Remarque : Sachez que les bulles dair libérées lors de la première immersion sont parfaitement normales et quil ny a pas lieu de sinquiéter. Les bulles sont simplement de lair normal libéré de la surface poreuse du produit. Seules les poches de gaz qui se sont accumulées au fil du temps en raison de la décomposition sont préoccupantes en raison du type de gaz.
 - La structure poreuse permet la colonisation rapide de bactéries nitrifiantes bénéfiques
 - Aide à maintenir un pH neutre à légèrement acide - idéal pour la plupart des plantes, poissons tropicaux et crevettes normalement conservés dans des aquariums plantés
-- Ne décolore pas leau et aide à contrôler la décoloration organique en présence de bois flotté naturel
+- Fournit aux crevettes nouveau-nés un refuge contre les prédateurs jusquà ce quelles soient suffisamment grandes pour émerger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JMABYUO{{</world>}}

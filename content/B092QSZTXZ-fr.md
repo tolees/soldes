@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4 modes de jeu et de tout nouveaux scénarios exclusifs, des graphismes hd modernes et une bande-son unique qui vous met dans lambiance arcade.
-- Dariusburst: another chronicle ex+ est le dernier volet de limpressionnante série dariusburst, une référence du shoot arcade
 - Dans cette toute nouvelle édition de dariusburst, profitez de superbes graphismes améliorés en 3D, de fonctionnalités supplémentaires et dune action darcade authentique !
 - Détruisez les forces maléfiques de belsar dans le mode "event" Avec tous les nouveaux scénarios exclusifs à ex+ et envolez-vous à bord du silver-hawk murakumo dans tous les modes de jeu !
+- 4 modes de jeu et de tout nouveaux scénarios exclusifs, des graphismes hd modernes et une bande-son unique qui vous met dans lambiance arcade.
 - Une grande rejouabilité grce à un système de niveaux en embranchement et mode coopération en local jusquà 4 joueurs
+- Dariusburst: another chronicle ex+ est le dernier volet de limpressionnante série dariusburst, une référence du shoot arcade
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B092QSZTXZ{{</world>}}

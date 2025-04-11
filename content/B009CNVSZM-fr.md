@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incrément1/3 IL (19 valeurs)
 - Focale(s) (équiv. argentique)f=18-55 mm (27-84 mm)
-- Ouverture minimaleF22
-- Ouverture MaximaleF2.8 – F4.0
-- Type dobjectifZoom standard lumineux
-- Monture optiqueFujifilm X (Hybrides série X)
-- Type de diaphragme7 (diaphragme circulaire)
 - Construction optique14 lentilles en 10 groupes(dont 3 lentilles asphériques et 1 lentille à faible dispersion)
+- Ouverture minimaleF22
+- Type de diaphragme7 (diaphragme circulaire)
+- Ouverture MaximaleF2.8 – F4.0
+- Monture optiqueFujifilm X (Hybrides série X)
+- Type dobjectifZoom standard lumineux
+- Incrément1/3 IL (19 valeurs)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009CNVSZM{{</world>}}

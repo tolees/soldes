@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verrouillage de linterrupteur
-- Poignée latérale arrondie pour une meilleure prise en main dans les travaux à l‘horizontale
 - Idéal pour des opérations de démolition dans la brique, le béton et autres matériaux de construction
 - Réglage électronique de la vitesse et de l‘énergie de frappe
+- Verrouillage de linterrupteur
+- Poignée latérale arrondie pour une meilleure prise en main dans les travaux à l‘horizontale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DTGF1RG{{</world>}}

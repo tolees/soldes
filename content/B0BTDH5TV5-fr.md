@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU : Ce puzzle est composé de 1000 pièces et est au format panorama.
-- DIMENSIONS : Une fois terminé, ce puzzle est aux dimensions de 98 x 33 cm.
-- LES PUZZLES CLEMENTONI : Les images les plus attrayantes, une grande variété de formats et une qualité signée Clementoni pour une gamme qui est devenue une référence pour les férus de puzzles du monde entier.
 - ENVIRONNEMENT : Depuis toujours sensible au problème de l’écologie, Clementoni utilise beaucoup de matériaux recyclés, évitant l’emploi de composants polluants. Made in Italy.
+- DIMENSIONS : Une fois terminé, ce puzzle est aux dimensions de 98 x 33 cm.
+- CONTENU : Ce puzzle est composé de 1000 pièces et est au format panorama.
+- LES PUZZLES CLEMENTONI : Les images les plus attrayantes, une grande variété de formats et une qualité signée Clementoni pour une gamme qui est devenue une référence pour les férus de puzzles du monde entier.
 - VOYAGER : Evadez vous avec ce bureau dherboriste. Vous vous sentirez comme un professionnel !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

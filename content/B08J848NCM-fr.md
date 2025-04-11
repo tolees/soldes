@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des modes multijoueur et multiplateforme avec un chat vocal inclus. La file dattente étant partagée sur toutes les plateformes, vous serez vite en pleine action culinaire
+- Overcooked!, overcooked! 2 et tout leur contenu additionnel sont rassemblés et remasterisés dans cette délicieuse édition définitive !
 - Un mode multijoueur en ligne a été intégré dans overcooked! Pour la première fois ! revisitez vos cuisines favorites du premier jeu en superbe 4K et en ligne !
 - Un nouveau contenu délicieux ! de nouveaux environnements, de nouveaux chefs et une véritable pagaille vous attendent, exclusivement dans overcooked pour glouton !
 - Un festin pour les yeux ! avec dincroyables nouveaux graphismes 4K pour les deux jeux de la série, overcooked! Na jamais été aussi agréable à regarder.
-- Overcooked!, overcooked! 2 et tout leur contenu additionnel sont rassemblés et remasterisés dans cette délicieuse édition définitive !
+- Des modes multijoueur et multiplateforme avec un chat vocal inclus. La file dattente étant partagée sur toutes les plateformes, vous serez vite en pleine action culinaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08J848NCM{{</world>}}

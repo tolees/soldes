@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Machine à eau pétillante haut de gamme
 - Bouteille de CO2 non incluse ; Compatible avec la plupart des bouteilles de gaz CO2 standard
 - Bouteille en verre incluse - passe au lave-vaisselle
 - Le Carbonator Pro est composé de matériaux de haute qualité. Une machine robuste avec boîtier en acier inoxydable, minimisant lutilisation de plastiques et assurant une durée de vie plus longue.
-- Machine à eau pétillante haut de gamme
 - Le processus de gazéification se fait à une main avec la fonction unique Push-to-Lock. Préparez de leau pétillante fraîche en appuyant juste sur un bouton.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

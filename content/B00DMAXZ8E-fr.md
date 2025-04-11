@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimension du produit: 51x10x10
-- Couleur du produit: Assorties
 - Ruban adhésif économique spécial emballage haute adhérence 50 millimètrex66m
 - Matériau du produit: Plastique
+- Couleur du produit: Assorties
+- Dimension du produit: 51x10x10
 - Nom de la marque: Q-connect
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

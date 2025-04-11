@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dans la ville frontalière endormie de Rigbarth, un changement se produit. De mystérieux événements se déroulent, affectant les runes qui régissent léquilibre entre lhumanité et la nature
 - Sans aucun souvenir de votre passé et peu dexpérience, vous devez travaillez avec les habitants de Rigbarth pour aider la ville à prospérer, forger des amitiés et gagner vos galons.
-- En tant que nouvelle recrue de lorganisation de maintien de la paix SEED, vous jouez un rôle important dans le maintien de lharmonie dans le royaume menacé du Norad.
 - Lédition limitée inclut dans un pack premium : un boitier Steelbook, 13 costumes exclusifs, un Artbook exclusif sur Rune Factory 5, la Bande Originale sur CD "Melodies Of Norad" ! !
 - Alors que léquilibre de la paix commence à changer, il est temps de faire vos preuves. Avec vos nouveaux amis de Rigbarth à vos côtés, partez pour une grande aventure dans ce monde fantastique
+- Dans la ville frontalière endormie de Rigbarth, un changement se produit. De mystérieux événements se déroulent, affectant les runes qui régissent léquilibre entre lhumanité et la nature
+- En tant que nouvelle recrue de lorganisation de maintien de la paix SEED, vous jouez un rôle important dans le maintien de lharmonie dans le royaume menacé du Norad.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JK6WNKM{{</world>}}

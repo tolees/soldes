@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autonomie jusquà 70 km
 - Amortissement avant hydraulique et arrière à double ressort
-- Bluetooth et Fonction Localiser Apple Find My
 - Roues 10 tubeless autocicatrisants
+- Bluetooth et Fonction Localiser Apple Find My
+- Autonomie jusquà 70 km
 - TCS (Traction Control System)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

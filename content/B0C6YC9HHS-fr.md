@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Grand Stockage de 8 Go + 256 Go】Le HONOR 90 Lite telephone portable peut stocker 57 808 photos, 22 322 morceaux de musique ou 892 vidéos HD localement. Le smartphone HONOR est également équipé de la technologie HONOR RAM Turbo qui étend la RAM de 8 Go avec un généreux 5 Go supplémentaires pour exécuter les applications plus rapidement
 - 【Fin et Léger】Avec une épaisseur de 7,48 mm et un poids de 179 g, le HONOR 90 Lite téléphone portable est un appareil compact qui se glisse facilement dans votre poche ou votre sac et tient confortablement dans votre main
+- 【Grand Stockage de 8 Go + 256 Go】Le HONOR 90 Lite telephone portable peut stocker 57 808 photos, 22 322 morceaux de musique ou 892 vidéos HD localement. Le smartphone HONOR est également équipé de la technologie HONOR RAM Turbo qui étend la RAM de 8 Go avec un généreux 5 Go supplémentaires pour exécuter les applications plus rapidement
 - 【Écran FullView de 6,7"】Lécran HONOR FullView de 6,7 pouces et les bords ultra-fins de 1,1 mm du HONOR 90 Lite smartphone garantissent une expérience visuelle immersive pour le travail et le divertissement. Lécran à faible émission de lumière bleue certifié TÜV Rheinland aide à favoriser un sommeil plus sain et à soulager la fatigue oculaire
 - 【Google Mobile Services】Fonctionne sous le dernier MagicOS 7.1 basé sur Android 13, avec toutes les applications Google et Play Store, offrant une expérience de vie intelligente
 - 【Batterie Longue Durée 4 500 mAh】Le HONOR 90 Lite téléphone est doté dune batterie grande capacité de 4 500 mAh, offre jusquà 15 heures de musique en streaming, 14,4 heures de lecture vidéo ou 16 heures dutilisation des réseaux sociaux, gardant les utilisateurs en ligne et toujours divertis

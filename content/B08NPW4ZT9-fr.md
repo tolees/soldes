@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches latérales
-- Regular Fit
-- Contient des matières recyclées : fabriqué à partir de fibres recyclées. Lune des réponses de PUMA pour réduire son impact environnemental
 - Taille élastique avec cordon de serrage interne pour un confort sur mesure
+- Regular Fit
 - BCI : en achetant des produits PUMA en coton, vous soutenez la culture de coton durable par le biais de la Better Cotton Initiative. En savoir plus : bettercotton.org/francais
+- Poches latérales
+- Contient des matières recyclées : fabriqué à partir de fibres recyclées. Lune des réponses de PUMA pour réduire son impact environnemental
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08NPW4ZT9{{</world>}}

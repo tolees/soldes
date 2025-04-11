@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Microfibre très douce respirante permettant de maintenir une température corporelle constante pendant votre sommeil
-- Couverture lestée pour enfants de 4 à 15 ans, son poids devrait correspondre à 7 à 12 % du poids de l’utilisateur pour un confort optimal
-- Dimensions : 104 x 152 cm
 - Couleurs et motifs représentant divers personnages au choix qui plairont aux enfants
 - Doublure cousue maintenant les perles lestées en place, réparties équitablement dans toute la couverture
+- Dimensions : 104 x 152 cm
+- Microfibre très douce respirante permettant de maintenir une température corporelle constante pendant votre sommeil
+- Couverture lestée pour enfants de 4 à 15 ans, son poids devrait correspondre à 7 à 12 % du poids de l’utilisateur pour un confort optimal
 - Conception unique à 7 couches, avec un rembourrage en polyester et des billes en verre hypoallergéniques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

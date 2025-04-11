@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
-- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
 - Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
+- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
+- Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 - Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

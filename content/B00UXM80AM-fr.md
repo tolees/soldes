@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pochette de 385 pastilles Ø 8 mm.
 - Couleurs pastel assorties : jaune, blanc, violet, rose, bleu, vert, marron.
 - Adhésif permanent
 - Papier PEFC
+- Pochette de 385 pastilles Ø 8 mm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00UXM80AM{{</world>}}

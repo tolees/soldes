@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 x Jeu pour PlayStation 4 Dreams, Version physique, Jaquette en français, Dimensions du produit : 17,5 x 13,5 x 1,5 cm, Poids : 86,2 g, Art : 9352105
-- Compatibilités : consoles PS4 et PS4 Pro, PlayStation Camera, manettes DUALSHOCK 4 et PlayStation Move pour plus de précision
 - Jeu PS4 de création et d’aventure, Pour créer de superbes jeux et univers artistiques, mais aussi jouer aux créations des autres membres de la communauté
+- Compatibilités : consoles PS4 et PS4 Pro, PlayStation Camera, manettes DUALSHOCK 4 et PlayStation Move pour plus de précision
 - Deux modes : Création pour façonner tous vos rêves, Voyage onirique pour explorer les rêves des autres joueurs : jeux, films, musiques, scuptures et bien plus encore
+- Contenu : 1 x Jeu pour PlayStation 4 Dreams, Version physique, Jaquette en français, Dimensions du produit : 17,5 x 13,5 x 1,5 cm, Poids : 86,2 g, Art : 9352105
 - Caractéristiques du jeu : 1 à 2 joueurs, Mode solo, Disponible en version française intégrale, Exclusivité PS4, Par les créateurs de Tearaway et LittleBigPlanet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

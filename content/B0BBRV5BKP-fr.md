@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend une ruine en forme darche à construire qui peut créer leffet dHermione et Ron qui flotte avec 2 éléments LEGO flexibles, plus 2 grottes avec un trésor
-- Les enfants peuvent réaliser les tâches du Tournoi des sorciers au Lac Noir de Harry Potter et la Coupe de Feu avec ce jouet à construire LEGO Harry Potter
 - 5 minifigurines LEGO Harry Potter : Harry avec des nageoires, Viktor Krum avec une tête de requin, Hermione, Ron, une sirène plus des figurines de Strangulot et de crabe
-- Une expérience formidable pour tous les constructeurs - lapplication LEGO Builder guide les enfants dans une aventure de construction intuitive avec des outils qui apportent un coup de pouce
-- Les enfants peuvent œuvrer à sauver Hermione et Ron sous leau en trouvant la potion Branchiflore pour Harry et en plongeant du quai pour les sauver
 - Comprend également un jouet de bateau et un ponton avec une fonction de plongée des minifigurines, ainsi quune horloge rotative et des éléments accessoires, comme la potion Branchiflore
+- Les enfants peuvent œuvrer à sauver Hermione et Ron sous leau en trouvant la potion Branchiflore pour Harry et en plongeant du quai pour les sauver
+- Comprend une ruine en forme darche à construire qui peut créer leffet dHermione et Ron qui flotte avec 2 éléments LEGO flexibles, plus 2 grottes avec un trésor
+- Une expérience formidable pour tous les constructeurs - lapplication LEGO Builder guide les enfants dans une aventure de construction intuitive avec des outils qui apportent un coup de pouce
+- Les enfants peuvent réaliser les tâches du Tournoi des sorciers au Lac Noir de Harry Potter et la Coupe de Feu avec ce jouet à construire LEGO Harry Potter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRV5BKP{{</world>}}

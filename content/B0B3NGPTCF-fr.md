@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un porte-clé, une boite à musique, le script digital du prologue
 - Un artbook, un set de carte postal, une lithographie
-- Un set de figurines ajustable de Kate et Dana
+- Un porte-clé, une boite à musique, le script digital du prologue
 - Un boitier métal, une carte de Vaghen, la bande son digitale
+- Un set de figurines ajustable de Kate et Dana
 - Lédition collector contient :
 
 [🛒 Achète-le!!]({{< param buyurl >}})

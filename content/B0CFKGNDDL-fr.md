@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce profil D en caoutchouc très qualitatif résiste à pratiquement toutes les conditions climatiques.
+- Les informations ci-dessous sappliquent à chaque unité du pack
+- Joint portes & fenêtres
 - Joint de calfeutrage adhésif facile à appliquer sur fenêtres et portes. Comble les espaces importants.
 - tesa Calfeutrer
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Ce profil D en caoutchouc très qualitatif résiste à pratiquement toutes les conditions climatiques.
 - Comble espaces IMPORTANTS
-- Joint portes & fenêtres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFKGNDDL{{</world>}}

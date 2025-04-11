@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La hauteur Z de 15 mm peut accueillir des disques durs plus fins dans les ordinateurs de bureau tout-en-un tout en réduisant la chaleur et les vibrations du système.
 - Des vitesses de transfert de données rapides allant jusquà 140 Mo/s offrent une expérience PC haut de gamme pour les utilisateurs finaux et des temps de transfert de fichiers plus courts.
+- La hauteur Z de 15 mm peut accueillir des disques durs plus fins dans les ordinateurs de bureau tout-en-un tout en réduisant la chaleur et les vibrations du système.
 - Une gamme complète de disques durs de 2,5 pouces avec une capacité de stockage de 5 To et un format de 7 mm et 15 mm, convient pour une large gamme dapplications informatiques.
 - Température, fonctionnement (° C) : 0 °C à 60 °C, température, non prêt à fonctionner (° C) : -40 °C à 70 °C, choc, fonctionnement : 2 ms (Gs) : 400, choc - Pas de fonctionnement : 1 ms (Gs) : 1000, acoustique, ralenti, typique (Bels - puissance acoustique) : 2, acoustique, recherche. « Bels - Son» Puissance : 2,2
 

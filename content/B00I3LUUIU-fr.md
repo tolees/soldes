@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Câble de type Y, longueur 1,2 m
+- Micro et télécommande filaire compatibles smartphone pour le modèle EX110AP
 - display_size: 2.4 inches
 - écouteurs intra-auriculaires
-- Micro et télécommande filaire compatibles smartphone pour le modèle EX110AP
 - Garantie Fabricant: 1 an(s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

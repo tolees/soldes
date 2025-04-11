@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Evoluez dans une histoire originale supervisée par Akihito Tsukushi pour cet Action/RPG en 3D, avec les acteurs de lanime qui reprennent leurs rôles dans des cinématiques entièrement doublées !
+- Découvrez la puissance impressionnante de la malédiction des abysses, ainsi que les étonnantes entités légendaires connues sous le nom de créatures primitives.
 - La rencontre de Riko et Reg dans le premier épisode de la première saison est le début dune grande aventure, ensemble ils se rendent au Seeker Camp dans la deuxième couche des Abysses.
 - Les protagonistes sont hypnotisés par la puissance de lAbîme et ciblés par les enfers. Lhistoire sur le point dêtre racontée est celle dun pilleur de grottes dans les Abysses.
 - Vivez une toute nouvelle histoire qui se déroule plusieurs jours après le départ de Riko et Reg. Le seul gouffre non conquis du monde, lAbîme, est le théâtre de nombreuses aventures...
-- Découvrez la puissance impressionnante de la malédiction des abysses, ainsi que les étonnantes entités légendaires connues sous le nom de créatures primitives.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0957QQ6MC{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- samsung
 - Samsung The Premiere LSP7T B-Ware Gold
 - VIDÉOPROJECTEUR
+- samsung
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM4PKGJQ{{</world>}}

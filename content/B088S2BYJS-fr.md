@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contrôlez votre luminaire Hue facilement où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
-- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique...)
 - Alimentation électrique et connecteur inclus
+- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique...)
 - Colorez vos espaces intérieurs avec des millions de couleurs possibles. Détendez-vous avec une lumière blanche chaude ou froide Un éclairage spécial pour des occasions spéciale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

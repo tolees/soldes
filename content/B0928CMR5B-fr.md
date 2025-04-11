@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Utilisation multifonctionnelle】Mini lampe de poche a fonction de minuterie et indicateur de batterie tricolore. Idéal pour la patrouille, laventure,la lecture de nuit, le camping, les réparations de nuit.
-- 【Câble de charge magnétique rapide】Le câble de charge magnétique MCC 1A(inclus).Le talon magnétique permet à la lampe de se tenir tête vers le bas ou à l’horizontale en étant fixée sur des surfaces métalliques.
 - 【Autonomie prolongée】Grâce à la batterie adaptée, la batterie fiable Baton 3 dispose dune autonomie maximale de 20 jours et a une autonomie de 12 jours plus longue que le S1R/S2R Baton II.
+- 【Câble de charge magnétique rapide】Le câble de charge magnétique MCC 1A(inclus).Le talon magnétique permet à la lampe de se tenir tête vers le bas ou à l’horizontale en étant fixée sur des surfaces métalliques.
 - 【Petite lampe légère mais ultra puissante 】Puissance maximale de 1200 lumens, portée maximale de 166 mètres.5 modes déclairage et mode stroboscope.Torche a seul 53 grammes avec la pile.
+- 【Utilisation multifonctionnelle】Mini lampe de poche a fonction de minuterie et indicateur de batterie tricolore. Idéal pour la patrouille, laventure,la lecture de nuit, le camping, les réparations de nuit.
 - 【Texture et prise en main délicate et exquise】 La lampe torche est en alliage daluminium de qualité aéronautique, son corps est anodisé pour protéger la surface des rayures.Olight Baton 3 a létanchéité IPX8.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

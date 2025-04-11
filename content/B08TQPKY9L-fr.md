@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Se joue à 1 joueur
 - ~ Découvrez Baby electro, un jeu électronique pour permettre à l’enfant d’apprendre ses premiers mots tout en s’amusant !
+- Se joue à 1 joueur
 - Durée de jeu : 10 min
 - Un système de question-réponse sur les premières notions d’apprentissage adapté aux tout-petits dès 2 ans.
 - Relie la question à la réponse et le stylo s’allume ! Un jeu divertissant et ludique pour les plus jeunes.

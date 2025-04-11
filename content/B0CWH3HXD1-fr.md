@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cadeau de Noël NINJAGO pour enfants – Ce jouet de combat, qui offre une expérience de construction et de jeu amusante, est un beau cadeau à offrir pour Noël ou l’anniversaire d’un enfant garçon ou fille qui aime partir à l’aventure avec les ninjas
 - Dragon NINJAGO articulé – Le plus grand dragon NINJAGO de tous les temps est doté de pattes, d’une queue, de hanches, d’une mâchoire, d’une tête, d’un cou et de grandes ailes mobiles pour un jeu de rôle palpitant, seul ou entre amis
 - Une selle-trône – Sur le dos du dragon de ce jouet ninja repose une grande selle-trône où les enfants peuvent placer une minifigurine et rejouer des scènes aériennes de la série pour dinnombrables affrontements remplis daction
-- Aide à la construction – Découvrez les instructions de l’application LEGO Builder, où les constructeurs peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et enregistrer leurs sets
 - Tout un univers de jouets ninjas – Les robots, véhicules et temples inclus dans les sets LEGO NINJAGO permettent aux enfants de s’évader dans un univers fantastique débordant d’aventures aux côtés de leurs héros ninjas
-- Cadeau de Noël NINJAGO pour enfants – Ce jouet de combat, qui offre une expérience de construction et de jeu amusante, est un beau cadeau à offrir pour Noël ou l’anniversaire d’un enfant garçon ou fille qui aime partir à l’aventure avec les ninjas
 - 6 minifigurines NINJAGO pour Noël – Ce jouet de combat inclut les guerriers ninjas Kai, Braséra et Arin, ainsi que les méchants Lord Ras, Jordana et un Guerrier au masque de loup, tous équipés d’armes
+- Aide à la construction – Découvrez les instructions de l’application LEGO Builder, où les constructeurs peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et enregistrer leurs sets
 - Un dragon qui invite les enfants à partir à l’aventure – Les garçons et les filles dès 12 ans peuvent rejouer les scènes aériennes de la saison 2 de la série télévisée NINJAGO Le soulèvement des dragons avec ce dragon source du mouvement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

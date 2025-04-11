@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- HDMI 2.1 déverrouille une résolution 4K native ainsi quun taux de rafraîchissement fluide de 144 Hz pour les graphiques les plus exigeants pour les jeux sur PC et prend en charge à 120 Hz pour les consoles.
 - VESA DisplayHDR 600 et une large couverture de couleurs DCI-P3 95 % offrent aux joueurs des graphismes vraiment dynamiques et réalistes.
 - Le panneau Fast IPS permet un temps de réponse GTG de 1 ms et lAMD FreeSync Premium Pro offre une expérience de jeu HDR à faible latence.
-- HDMI 2.1 déverrouille une résolution 4K native ainsi quun taux de rafraîchissement fluide de 144 Hz pour les graphiques les plus exigeants pour les jeux sur PC et prend en charge à 120 Hz pour les consoles.
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

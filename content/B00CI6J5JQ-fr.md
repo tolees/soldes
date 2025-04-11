@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de haute qualité
 - CRAYOLA
 - Durable
+- Produit de haute qualité
 - La conception de lemballage peut varier
 
 [🛒 Achète-le!!]({{< param buyurl >}})

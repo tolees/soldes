@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de cartes
 - Jeux
+- Jeu de cartes
 - Cartes à collectionner et accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

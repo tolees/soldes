@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passe au lave-vaisselle.
-- Diamètre :0cm
-- Capacité :1.9Liters
 - Made in France
+- Capacité :1.9Liters
+- Diamètre :0cm
+- Passe au lave-vaisselle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001CFEXA0{{</world>}}

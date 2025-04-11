@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque lot comprend 200 pièces.
-- Couleur wengué.
 - La solution idéale pour dissimuler les têtes des vis ou tout autre type dimperfections.
+- Couleur wengué.
+- Chaque lot comprend 200 pièces.
 - Couvertures rondes auto-adhésives de Ø13mm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

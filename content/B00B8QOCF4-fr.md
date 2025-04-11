@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🧼 ENTRETIEN FACILE - Lavage à 40° - Séchage modéré - Repassage à 150°
-- 🗨️ INCLUS - Taie dOreiller (63 x 63 cm) Lina Gris Souris, 100% Coton
 - 🌱 100 % COTON - Le coton offre une sensation de douceur naturelle au toucher. Respirant, il permet à lair de circuler librement à travers les fibres en assurant un confort optimal pour une bonne nuit de sommeil.
+- 🗨️ INCLUS - Taie dOreiller (63 x 63 cm) Lina Gris Souris, 100% Coton
+- 🧼 ENTRETIEN FACILE - Lavage à 40° - Séchage modéré - Repassage à 150°
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B8QOCF4{{</world>}}

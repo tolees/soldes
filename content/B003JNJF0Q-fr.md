@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un paquet sous film de 25 enveloppes de visite gommées doublées 9x14 cm en Papier vergé de France, Blanc
-- TYPE DE FERMETURE : La fermeture des enveloppes se fait en humidifiant la bande gommée
-- Certifié PEFC : cette certification garantit la gestion durable des forêts
-- PAPIER VERGÉ : des stries appelées "vergeures" donnent un certain relief au papier
 - Lalo est la référence française en matière de belle correspondance et de papiers depuis 1920 Avec son savoir-faire inégalé, ses produits sont synonyme de grande qualité ! Produit MADE IN FRANCE
+- PAPIER VERGÉ : des stries appelées "vergeures" donnent un certain relief au papier
+- TYPE DE FERMETURE : La fermeture des enveloppes se fait en humidifiant la bande gommée
+- Un paquet sous film de 25 enveloppes de visite gommées doublées 9x14 cm en Papier vergé de France, Blanc
+- Certifié PEFC : cette certification garantit la gestion durable des forêts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003JNJF0Q{{</world>}}

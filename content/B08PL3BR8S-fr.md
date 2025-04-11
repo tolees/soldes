@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille élastique avec cordon de serrage
-- Poches latérales ouvertes
 - Un modèle intemporel en pur style Adidas.
+- Taille élastique avec cordon de serrage
 - Coupe droite
+- Poches latérales ouvertes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08PL3BR8S{{</world>}}

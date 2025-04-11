@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CAPTUREZ LINSTANT DANS LES MOINDRES DÉTAILS Immortalisez laction avec précision, même avec une faible luminosité, grâce au nouveau capteur Exmor R de 26 mégapixels BSI et au processeur BionZ XR hérité des appareils photo professionnels Alpha.
+- PARTAGEZ VOTRE CONTENU AUTOUR DE VOUS Libérez votre créativité avec lAlpha 6700. Profitez dune qualité dimage exceptionnelle et dun magnifique effet bokeh grâce au large choix dobjectifs et daccessoires adaptés à toutes les prises de vue.
 - SUIVEZ VOS SUJETS SANS EFFORT AVEC LA MISE AU POINT AF BASÉE SUR LIA Cette technologie unique permet de détecter le corps entier du sujet ainsi que son mouvement et ainsi de suivre les yeux humains, les animaux, oiseaux, trains, insectes…
 - UN DESIGN COMPACT SANS COMPROMIS Avec son design compact et ultra-léger, lAlpha 6700 est conçu pour vous accompagner dans toutes vos aventures. Avec son écran tactile orientable latéral, son viseur électronique amélioré et sa molette avant...
 - ENREGISTREZ VOS VIDÉOS EN 4K LAlpha 6700 hérite des meilleures fonctionnalités des caméras professionneles de la gamme Cinema Line. Enregistrez vos séquences vidéo en 4K (depuis la 6K) jusquà 60p en 4:2:2 10 bits, mais aussi en 4K 120p en mode S&Q.
-- PARTAGEZ VOTRE CONTENU AUTOUR DE VOUS Libérez votre créativité avec lAlpha 6700. Profitez dune qualité dimage exceptionnelle et dun magnifique effet bokeh grâce au large choix dobjectifs et daccessoires adaptés à toutes les prises de vue.
-- CAPTUREZ LINSTANT DANS LES MOINDRES DÉTAILS Immortalisez laction avec précision, même avec une faible luminosité, grâce au nouveau capteur Exmor R de 26 mégapixels BSI et au processeur BionZ XR hérité des appareils photo professionnels Alpha.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB8XJWLG{{</world>}}

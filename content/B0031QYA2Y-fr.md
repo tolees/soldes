@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conformité à la norme DIN 338, foret type N angle hélice avec pointe de perçage 135° et tolérance de diamètre h8
-- Longueur de travail: 39mm
-- Élimination rapide des copeaux et longévité des forets grâce aux deux taillants et à lhélice double
-- Foret hélicoïdal HSS avec cobalt garantissant des performances durables lors du perçage dans l’acier inoxydable
 - Alliage de cobalt et foret en acier rapide HSS pour une résistance à l’usure et une protection contre la chaleur
+- Élimination rapide des copeaux et longévité des forets grâce aux deux taillants et à lhélice double
+- Conformité à la norme DIN 338, foret type N angle hélice avec pointe de perçage 135° et tolérance de diamètre h8
+- Foret hélicoïdal HSS avec cobalt garantissant des performances durables lors du perçage dans l’acier inoxydable
+- Longueur de travail: 39mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0031QYA2Y{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Actions de jeu très variées : lancer le dé, tirer les feuilles du sac, deviner la couleur et déguiser son hérisson ...
-- Jeu coloré
-- Fabriqué en Europe (Allemagne)
-- Les hérissons se déguisent avec de grandes feuilles piquantes de leur couleur préférée ! Pourrez-vous les y aider en tirant les feuilles de la bonne couleur du sac ?
 - Favorise la mémoire et la concentration
+- Jeu coloré
+- Les hérissons se déguisent avec de grandes feuilles piquantes de leur couleur préférée ! Pourrez-vous les y aider en tirant les feuilles de la bonne couleur du sac ?
+- Actions de jeu très variées : lancer le dé, tirer les feuilles du sac, deviner la couleur et déguiser son hérisson ...
+- Fabriqué en Europe (Allemagne)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086XXW4GM{{</world>}}

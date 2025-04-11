@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur [cm]: 32
 - Surface: avec couche dapprêt
+- Longueur [cm]: 21
 - Véhicule avec direction à gauche ou à droite: pour direction à droite/à gauche
 - Rétroviseur extérieur/intérieur: avec capteur de température; chauffé; convexe
 - Qualité: Certified Quality
-- Longueur [cm]: 21
 - Largeur [cm]: 21
+- Hauteur [cm]: 32
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00D07IA0W{{</world>}}

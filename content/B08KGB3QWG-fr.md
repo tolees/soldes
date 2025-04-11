@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Galopez à toute vitesse et réalisez de superbes sauts sur les neuf parcours de course et en plein air
-- Dorlotez vos chevaux avec des étrilles, des massages, des douches et en nettoyant leurs sabots
-- Domaine étendu avec des écuries, un manège, une maison dhôte, un centre médical, une prairie et des itinéraires palpitants
 - Élevez de jolis poulains (plus de 100 combinaisons possibles), entraînez-les grce au travail à la longe et vendez-les à des amoureux des chevaux
+- Domaine étendu avec des écuries, un manège, une maison dhôte, un centre médical, une prairie et des itinéraires palpitants
+- Galopez à toute vitesse et réalisez de superbes sauts sur les neuf parcours de course et en plein air
 - Affichez vos aptitudes équestres lors de parcours stimulants dans une campagne époustouflante
+- Dorlotez vos chevaux avec des étrilles, des massages, des douches et en nettoyant leurs sabots
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KGB3QWG{{</world>}}

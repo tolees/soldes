@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: fabriqué et peint à la main - matériau : résine
-- produit 1: chaque pièce est livrée en coffret cadeau avec une étiquette pour un message personnel
-- produit 1: fabriqué et peint à la main - matériau : résine
 - produit 2: cette pièce nest pas un jouet
-- produit 2: Personnages willow tree - création originale de lartiste suzan lordi -
-- produit 1: Personnages willow tree - création originale de lartiste suzan lordi -
 - produit 1: cette pièce nest pas un jouet
 - produit 2: chaque pièce est livrée en coffret cadeau avec une étiquette pour un message personnel
+- produit 1: fabriqué et peint à la main - matériau : résine
+- produit 1: Personnages willow tree - création originale de lartiste suzan lordi -
+- produit 1: chaque pièce est livrée en coffret cadeau avec une étiquette pour un message personnel
+- produit 2: fabriqué et peint à la main - matériau : résine
+- produit 2: Personnages willow tree - création originale de lartiste suzan lordi -
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BP1K9Y4C{{</world>}}

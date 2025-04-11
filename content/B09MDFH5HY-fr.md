@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CPU Intel de la 12e génération.
 - Fréquence de base : 2,5 GHz.
+- Douille LGA1700
 - Puissance de base du processeur : 65 W.
 - Support PCIe 5.0 et 4.0
-- Douille LGA1700
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MDFH5HY{{</world>}}

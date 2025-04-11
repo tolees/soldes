@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 poches inférieures zippées
 - 1 face brossée, 1 face anti-bouloches
 - Polaire 100 % polyester 220 g/m²
-- 2 poches inférieures zippées
 - Ourlet avec cordon de serrage réglable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

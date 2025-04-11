@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 16 filtres de lentilles en verre optique multicouches à couches garantissent une clarté cristalline dans les images capturées
 - Le verre optique Sharp-Sharp utilisé pour assurer des images aériennes de qualité optimale
 - Freewell Gear Journée ensoleillée Le kit de filtre comprend les filtres ND8/PL, ND16/PL, ND32/PL et ND64/PL
 - Simple système SNAP-ON pour faciliter la fixation/le détachement, Compatible avec Mavic 2 Pro Drone
-- 16 filtres de lentilles en verre optique multicouches à couches garantissent une clarté cristalline dans les images capturées
 - La bague CNC ultralégère utilisée dans la construction empêche les effets indésirables sur le cardan
 
 [🛒 Achète-le!!]({{< param buyurl >}})

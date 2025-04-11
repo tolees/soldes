@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : synthétique
-- Largeur de chaussure: Medium
 - Fermoir : caoutchouc
+- Largeur de chaussure: Medium
 - Matériau intérieur : synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

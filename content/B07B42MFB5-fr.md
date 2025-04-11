@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La poudre transforme leau en noeud pailleté mauve, puis diluée avec de leau et laisseuse.
 - À partir de 3 ans.
 - Mauve paillettes.
-- La poudre transforme leau en noeud pailleté mauve, puis diluée avec de leau et laisseuse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07B42MFB5{{</world>}}

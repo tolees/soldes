@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACCESSOIRES INSPIRÉS DU PERSONNAGE DE LA SÉRIE : Cette figurine Star Wars The Black Series est vendue avec deux accessoires inspirés de la galaxie Star Wars et s’intègre parfaitement à toute collection
-- STAR WARS : OBI-WAN KENOBI : Les fans et les collectionneurs peuvent recréer des scènes de la galaxie Star Wars grâce à cette figurine premium de NED-B inspirée de la série Star Wars : Obi-Wan Kenobi sur Disney+
 - ARTICULATIONS ET DESIGN PREMIUM : Fans et collectionneurs de Star Wars pourront exposer cette figurine au design premium hautement articulée (tête, bras et jambes) dans leur collection
+- STAR WARS : OBI-WAN KENOBI : Les fans et les collectionneurs peuvent recréer des scènes de la galaxie Star Wars grâce à cette figurine premium de NED-B inspirée de la série Star Wars : Obi-Wan Kenobi sur Disney+
 - IL EXISTE DAUTRES FIGURINES DUNE GALAXIE LOINTAINE, TRÈS LOINTAINE : Dautres figurines Star Wars The Black Series (vendues séparément ; dans la limite des stocks) inspirées de la galaxie Star Wars sont aussi disponibles
+- ACCESSOIRES INSPIRÉS DU PERSONNAGE DE LA SÉRIE : Cette figurine Star Wars The Black Series est vendue avec deux accessoires inspirés de la galaxie Star Wars et s’intègre parfaitement à toute collection
 - NED-B : Obi-Wan Kenobi se déroule des années après les événements dramatiques de Star Wars : La revanche des Sith, où Kenobi a assisté à la corruption de son ami et apprenti Jedi Anakin Skywalker devenu le Seigneur Sith Dark Vador
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

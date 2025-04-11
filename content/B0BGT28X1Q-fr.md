@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ultra-fine et légère, il suffit de glisser Canon Zoemini dans votre poche ou dans un sac et vous serez prêt à capturer, personnaliser et imprimer les plus beaux moments de votre vie
 - Personnalisez vos photos avec lapplication Canon Mini Print, disponible gratuitement sur lApp Store et Google Play¹. Ajoutez des filtres tendance et des cadres, ou utilisez la réalité augmentée et les outils de dessin pour avoir une véritable photo personnalisée
-- Créez vos propres affiches magnifiques à laide de la fonction "mosaïque" de lapplication Canon Mini Print : associez de petits clichés pour réaliser une grande photo qui impressionnera vos amis
-- Utilisez vos photos pour ajouter une touche personnelle à votre téléphone portable, votre ordinateur portable, vos miroirs et vos murs. Le papier autocollant signifie que vous pouvez afficher vos photos où vous voulez
 - Obtenez une connexion rapide pour limpression instantanée à laide du Bluetooth
+- Ultra-fine et légère, il suffit de glisser Canon Zoemini dans votre poche ou dans un sac et vous serez prêt à capturer, personnaliser et imprimer les plus beaux moments de votre vie
+- Utilisez vos photos pour ajouter une touche personnelle à votre téléphone portable, votre ordinateur portable, vos miroirs et vos murs. Le papier autocollant signifie que vous pouvez afficher vos photos où vous voulez
+- Créez vos propres affiches magnifiques à laide de la fonction "mosaïque" de lapplication Canon Mini Print : associez de petits clichés pour réaliser une grande photo qui impressionnera vos amis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BGT28X1Q{{</world>}}

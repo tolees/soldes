@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Remarque】 Le routeur doit être 2,4GHz (5,0 GHz WiFi nest pas pris en charge), mais il ny pas de limitation pour le réseau de smart phone (le réseau 2G/3G/4G/WiFi est correct) .
 - 【Télécommande APP】 Contrôle à distance de vos appareils électroménagers et dispositifs via APP eWeLink sur smartphone ou tablette. Aucune limitation de distance / temps.
+- 【Remarque】 Le routeur doit être 2,4GHz (5,0 GHz WiFi nest pas pris en charge), mais il ny pas de limitation pour le réseau de smart phone (le réseau 2G/3G/4G/WiFi est correct) .
+- 【Facile A Utiliser】 Il suffit de brancher un appareil dans la prise intelligente et la connecter à votre réseau Wi-Fi.
 - 【Contrôle Vocal Mains Libres】SONOFF S26R2 est compatible avec Amazon Alexa ( Amazon Echo/Echo Dot/Amazon Tap) et Google
 - 【Tâche Synchronisé & Economie dEnergie】 Réglez les minuteries de compte à rebours / simple / répétitive pour activer / désactiver automatiquement la prise intelligente au besoin.
-- 【Facile A Utiliser】 Il suffit de brancher un appareil dans la prise intelligente et la connecter à votre réseau Wi-Fi.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B099NJKJVQ{{</world>}}

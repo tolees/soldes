@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Taille maximum recommandée : 2 m. Capacité maximale du vérin pneumatique : 150 kg.
 - Fauteuil gaming et de bureau primé, pensé pour le-sport avec priorité donnée à lergonomie
-- Accoudoirs 4D réglables, dossier inclinable, unité de contrôle multi-fonctions permettant la bascule, le verrouillage et linclinaison
 - Empattement en aliminium avec incrustation de couleur, cadre solide en acier, rembourrage respirant en mousse à froid avec revêtement en similicuir haut de gamme
 - Coussins lombaires et appuie-tête intégrés pour un confort optimal durant de longues heures devant le PC ou la console
-- Taille maximum recommandée : 2 m. Capacité maximale du vérin pneumatique : 150 kg.
+- Accoudoirs 4D réglables, dossier inclinable, unité de contrôle multi-fonctions permettant la bascule, le verrouillage et linclinaison
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B095WPSD64{{</world>}}

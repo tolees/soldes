@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur: 185mm
-- Mors usinés avec précision
 - Puissance de serrage réglable par mollette
 - 084808 pince-étau 18 cm
+- Mors usinés avec précision
+- Longueur: 185mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000X2GJE6{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construisez léquipe de vos rêves : Composez votre équipe avec plus de douze personnages emblématiques de la série AMC The Walking Dead, dont Rick, Shane Michonne Carol, Daryl et bien dautres encore
-- Survivez à lapocalypse : Gérez des ressources limitées cherchez des armes et des munitions et maximisez les capacités de votre groupe pour rester en vie
 - Tailladez, frappez et tirez sur les morts-vivants : Tuez des hordes de marcheurs à la troisième personne avec une variété darmes de mêlée et à distance, notamment des battes katanas revolvers fusils de chasse et arbalètes
-- Vivez la tension : Défendez votre camp, secourez les survivants et combattez avec furtivité et toutes armes dehors Donnez une dernière chance de survie dans un "état brisé" avant que la menace des zombies ne vous submerge
+- Survivez à lapocalypse : Gérez des ressources limitées cherchez des armes et des munitions et maximisez les capacités de votre groupe pour rester en vie
 - Brisez le Destin : Changez l’histoire de The Walking Dead d’AMC en traçant votre propre chemin au travers des événements de la série, Sauvez le méchant, tuez le héros… et vivez avec les conséquences
+- Construisez léquipe de vos rêves : Composez votre équipe avec plus de douze personnages emblématiques de la série AMC The Walking Dead, dont Rick, Shane Michonne Carol, Daryl et bien dautres encore
+- Vivez la tension : Défendez votre camp, secourez les survivants et combattez avec furtivité et toutes armes dehors Donnez une dernière chance de survie dans un "état brisé" avant que la menace des zombies ne vous submerge
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFM4WKMZ{{</world>}}

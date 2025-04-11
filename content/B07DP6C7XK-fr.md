@@ -28,20 +28,20 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le vaisseau Arwing
 - Un poster de Starlink Battle for Atlas
-- Deux armes : Lance-flammes et Barrage de givre
-- La version digitale du vaisseau Zenith et de l’arme Déchiqueteur
-- Un support joy con
-- Deux pilotes : Fox McCloud et Mason Rana
-- Un support joy con
-- Deux armes : Lance-flammes et Barrage de givre
-- Le jeu vidéo Starlink Battle for Atlas
-- La version digitale du vaisseau Zenith et de l’arme Déchiqueteur
-- Deux pilotes : Fox McCloud et Mason Rana
 - Le vaisseau Arwing
-- Le jeu vidéo Starlink Battle for Atlas
+- Deux pilotes : Fox McCloud et Mason Rana
 - Un poster de Starlink Battle for Atlas
+- Le jeu vidéo Starlink Battle for Atlas
+- Un support joy con
+- La version digitale du vaisseau Zenith et de l’arme Déchiqueteur
+- Deux armes : Lance-flammes et Barrage de givre
+- Le vaisseau Arwing
+- Deux pilotes : Fox McCloud et Mason Rana
+- Le jeu vidéo Starlink Battle for Atlas
+- Deux armes : Lance-flammes et Barrage de givre
+- Un support joy con
+- La version digitale du vaisseau Zenith et de l’arme Déchiqueteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DP6C7XK{{</world>}}

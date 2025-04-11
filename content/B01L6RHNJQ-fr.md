@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - metal / bois
-- GELCO DESIGN
-- panier à linge pm metal white
 - blanc / naturel
+- panier à linge pm metal white
+- GELCO DESIGN
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01L6RHNJQ{{</world>}}

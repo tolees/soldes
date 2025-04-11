@@ -30,11 +30,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GÉOLOCALISATION : le système intelligent tado° peut non seulement régler les thermostats connectés selon votre localisation, mais aussi contrôler la façon de chauffer durant votre absence ou allumer les radiateurs avant votre retour à la maison
 - COMPATIBILITÉ : le Thermostat Intelligent filaire remplace votre thermostat de chaudière ou de chauffage au sol hydraulique – Compatible avec la plupart des fabricants – Installez plusieurs Thermostats Intelligents pour contrôler plus de zones
-- EN TOUTE SIMPLICITÉ : Auto-Assist vous transmet des rapports détaillés de consommation dénergie, inclut une fonction Care & Protect, et la Géolocalisation et Détection de fenêtre ouverte sont automatiquement activées – Résiliation possible à tout moment
 - ÉCONOMIE DÉNERGIE : expert en chauffage connecté, tado° vous fait faire des économies dénergie maximum, grâce à ses thermostats intelligents filaires, pensés et conçus en Allemagne – Garantie de remboursement
 - QUALITÉ ET EXPERTISE : tado° est lexpert du chauffage domotique – Reconnu pour sa fiabilité, il a déjà été installé en Europe des millions de fois – Lappli est intelligente et la commande vocale peut être activée avec Alexa Amazon, Siri ou encore Google
-- INSTALLATION FACILE : installez vous-même le Thermostat Intelligent filaire – les instructions de lapp sont adaptées à votre système de chauffage et vous guident pas à pas
 - FONCTIONNALITÉS UNIQUES : contrôlez votre chauffage à distance avec lapp tado° – Découvrez ses fonctionnalités : Détection de fenêtre ouverte, Smart Schedules, Contrôle multipièces, détails de consommation dénergie et plus encore
+- INSTALLATION FACILE : installez vous-même le Thermostat Intelligent filaire – les instructions de lapp sont adaptées à votre système de chauffage et vous guident pas à pas
+- EN TOUTE SIMPLICITÉ : Auto-Assist vous transmet des rapports détaillés de consommation dénergie, inclut une fonction Care & Protect, et la Géolocalisation et Détection de fenêtre ouverte sont automatiquement activées – Résiliation possible à tout moment
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098B2W5GP{{</world>}}

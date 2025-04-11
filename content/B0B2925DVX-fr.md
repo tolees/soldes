@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : 80 % tissu textile, polyester, 20 % polyuréthane synthétique
-- Forme du talon : talon compensé
 - Fermeture : 60 % IPEVA - 40 % caoutchouc
 - Matériau extérieur : synthétique
+- Matériau intérieur : 80 % tissu textile, polyester, 20 % polyuréthane synthétique
+- Forme du talon : talon compensé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2925DVX{{</world>}}

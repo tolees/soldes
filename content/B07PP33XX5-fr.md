@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marqueur double pointes pour tracer des lignes épaisses ou fines
-- Encre à base deau qui ne traverse pas la plupart des papiers
 - Parfait pour les croquis, le dessin, le gribouillage, la calligraphie et bien plus encore
+- Encre à base deau qui ne traverse pas la plupart des papiers
 - Pointe ogive 0, 8 mm et pointe fine 0, 3 mm
 - Couleurs: 03 Yellow, 06 Yellow Green, 07 Green, 13 light blue, 17 prussian Blue, 19 violet, 25 Red, 28 orange, 45 french Blue, 58 pale rose, 80 fuchsia pink, 84 Turquoise Blue
+- Marqueur double pointes pour tracer des lignes épaisses ou fines
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PP33XX5{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 100% Polyester
 - Slim
 - Type de col: Button Down
-- 100% Polyester
-- Fermeture: Enfiler
 - Lavage en machine
+- Fermeture: Enfiler
 - Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

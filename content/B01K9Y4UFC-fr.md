@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- décontracté
-- casquette de baseball
-- Chic Design
-- Ppremière qualité
-- Matérie: 100% Coton
-- Casquette.
-- Pratique
 - Visière incurvée.
+- Pratique
+- Chic Design
+- Matérie: 100% Coton
+- casquette de baseball
+- Ppremière qualité
+- décontracté
+- Casquette.
 - Marque: New Era 1.0
 - MLB.
 

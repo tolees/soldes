@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéale pour les vacances à domicile, les bagages, le camping ou les loisirs nécessitant des mesures précises, cette mini-balance compacte est faite pour vous.
-- Conçue pour peser de petits objets précieux avec une précision optimale, la petite balance pèse jusquà 500 g par incréments précis de 0,05 g.
-- Malgré sa petite taille, lécran LCD facile à lire na pas été compromis, avec un capteur haute précision et des mesures en unités impériales ou métriques.
-- Le plateau de la micro-balance se fixe sur la balance pour une solution de rangement intelligente et se glisse facilement dans votre sac ou votre poche.
 - Ne cherchez plus une balance compacte et discrète : la balance électronique de précision de Salter mesure 8 x 2,5 x 13,2 cm, idéale pour vos déplacements.
+- Le plateau de la micro-balance se fixe sur la balance pour une solution de rangement intelligente et se glisse facilement dans votre sac ou votre poche.
+- Malgré sa petite taille, lécran LCD facile à lire na pas été compromis, avec un capteur haute précision et des mesures en unités impériales ou métriques.
+- Conçue pour peser de petits objets précieux avec une précision optimale, la petite balance pèse jusquà 500 g par incréments précis de 0,05 g.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00C73FXXM{{</world>}}

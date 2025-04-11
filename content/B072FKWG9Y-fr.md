@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le verrouillage de sécurité permet de bloquer le destructeur empêchant lactivation accidentelle
+- Corbeille de 11 litres avec fenêtre
 - Cycle de fonctionnement jusquà 3 minutes
 - Détruit 6 feuilles à la fois en morceaux de 4 x 35 mm, niveau de sécurité P-4
 - Accepte agrafes, trombones et cartes de crédit
-- Corbeille de 11 litres avec fenêtre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B072FKWG9Y{{</world>}}

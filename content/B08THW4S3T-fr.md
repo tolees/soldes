@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format compact M.2
-- Jusquà 6x plus rapique dun SSD SATA
-- Technologie NVMe PCIe 3.0 .Température de fonctionnement :0 - 70 ℃
 - Construit pour durer
+- Jusquà 6x plus rapique dun SSD SATA
+- Format compact M.2
 - Dynamic Thermal Guard
+- Technologie NVMe PCIe 3.0 .Température de fonctionnement :0 - 70 ℃
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08THW4S3T{{</world>}}

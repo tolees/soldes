@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pays dorigine : - Chine
-- Poids du colis : 1,34 kg
 - Disposition : États-Unis International (QWERTY)
 - Couleur blanche
+- Poids du colis : 1,34 kg
+- Pays dorigine : - Chine
 - Taille de lemballage : 5,2 L x 39,2 H x 16,8 L (cm)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dissipateur de chaleur à profil bas en aluminium-graphène
 - Format compact M.2 2280
 - Performance élevée NVMe PCIe 4.0
-- Dissipateur de chaleur à profil bas en aluminium-graphène
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09K7DHG1Z{{</world>}}

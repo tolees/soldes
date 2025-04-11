@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compatible : fonctionne avec toutes les batteries au plomb-acide de 12 V et avec les chargeurs CTEK jusquà 10 A
 - Indicateur LED de type « feu tricolore » monté sur panneau, affiche de manière simple et claire létat de charge de la batterie et indique lorsquil est temps de la charger
+- Affichage LED simple : Rouge : il est vraiment temps de charger la batterie, Jaune : il faut bientôt charger la batterie, Vert : OK ! Il est inutile de recharger
 - Durable : conçu et testé en Suède, avec des câbles résistants et flexibles conçus pour durer
 - Garantie de 2 ans
-- Compatible : fonctionne avec toutes les batteries au plomb-acide de 12 V et avec les chargeurs CTEK jusquà 10 A
-- Affichage LED simple : Rouge : il est vraiment temps de charger la batterie, Jaune : il faut bientôt charger la batterie, Vert : OK ! Il est inutile de recharger
 - Connexion : doté du système CONNECT unique de CTEK, il fournit un moyen simple, rapide et efficace de connecter votre chargeur CTEK à une batterie difficile à atteindre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

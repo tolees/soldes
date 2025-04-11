@@ -30,12 +30,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - produit 2: Tuyau 15 m
 - produit 2: Connection
-- produit 1: Réducteur de pression, manomètre et raccord rapide pour une pression de travail régulée
-- produit 1: Filtre d‘aspiration
 - produit 1: Interrupteur de pression
-- produit 2: Tuyau 15 m
-- produit 2: Raccord rapide
+- produit 1: Filtre d‘aspiration
 - produit 1: Pied amortisseur de vibrations
+- produit 2: Raccord rapide
+- produit 2: Tuyau 15 m
+- produit 1: Réducteur de pression, manomètre et raccord rapide pour une pression de travail régulée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VXJVMGF{{</world>}}

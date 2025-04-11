@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Normes NF et CE
 - Couleur: orange
 - Rallonge 25 m
+- Normes NF et CE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00CALE1RU{{</world>}}

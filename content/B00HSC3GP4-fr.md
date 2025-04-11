@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du packaging : 38.5 x 37.8 x 29.2 cm
+- Descriptif Produit : Grâce à la valisette Looky Pocket, crée à l’infini des tenues de mode. Son plus : un zoom malin qui permet de grossir tous les motifs et de combiner. Des tenues vestimentaires et des accessoires - comme une véritable styliste ! Le module est compact et pratique ; on peut y ranger l’intégralité du jeu.
 - Contenu du packaging : 1 valisette de dessin munie d’un zoom avec 3 crans, 1 pare-soleil 20 films imprimés, 10 feuilles de dessin, 1 stylo-feutre noir, 1 notice conseil.
 - Age minimum : 7 ans
-- Descriptif Produit : Grâce à la valisette Looky Pocket, crée à l’infini des tenues de mode. Son plus : un zoom malin qui permet de grossir tous les motifs et de combiner. Des tenues vestimentaires et des accessoires - comme une véritable styliste ! Le module est compact et pratique ; on peut y ranger l’intégralité du jeu.
-- Dimensions du packaging : 38.5 x 37.8 x 29.2 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HSC3GP4{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combats RPG trépidants : Maniez des épées, des lances, des marteaux et même la magie pour affronter des monstres puissants. Recrutez des citadins et des monstres et partez explorer des donjons regorgeant de dangers.
-- Semez les graines de votre nouvelle vie : Détendez-vous après une longue journée d’aventures en multipliant les activités telles que l’agriculture ou la pêche ! Découvrez les nombreuses variétés de graines magiques produisant des cultures étranges qui rendront votre aventure encore plus amusante et trépidante !
-- Installez-vous dans une superbe ville fantastique sous les traits d’un jeune aventurier portant un secret monstrueux dans Rune Factory 3, remastérisé pour la nouvelle génération sur Nintendo Switch.
 - Trouvez l’élue de votre cœur : 11 célibataires adorables vous attendent, un record dans l’histoire du jeu ! Apprenez à les connaître chaque jour en discutant et en effectuant des quêtes, tombez amoureux, faites votre demande en mariage et scellez votre union. Vous ne tarderez pas à avoir une belle famille pour vous accompagner dans vos aventures.
+- Installez-vous dans une superbe ville fantastique sous les traits d’un jeune aventurier portant un secret monstrueux dans Rune Factory 3, remastérisé pour la nouvelle génération sur Nintendo Switch.
+- Semez les graines de votre nouvelle vie : Détendez-vous après une longue journée d’aventures en multipliant les activités telles que l’agriculture ou la pêche ! Découvrez les nombreuses variétés de graines magiques produisant des cultures étranges qui rendront votre aventure encore plus amusante et trépidante !
+- Combats RPG trépidants : Maniez des épées, des lances, des marteaux et même la magie pour affronter des monstres puissants. Recrutez des citadins et des monstres et partez explorer des donjons regorgeant de dangers.
 - Une aventure se déroulant dans deux mondes : Incarnez Micah, un jeune homme frappé d’amnésie et capable de se transformer en monstre étrange aux airs de mouton, dans une quête pour faire coexister les humains et les monstres.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

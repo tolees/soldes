@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteur optique 26 000 DPI CORSAIR MARKSMAN : Affichant une résolution native exceptionnelle de 26 000 DPI, un suivi IPS de 650 IPS et une accélération allant jusqu’à 50 G, le capteur optique assure un suivi extrêmement précis avec une très grande plage de réglage de la sensibilité par paliers d’1 DPI
 - Technologie SLIPSTREAM WIRELESS : garantit des vitesses de transmission sans fil inférieures à 1 ms, transmet vos mouvements et clics jusqu’à deux fois plus rapidement avec un taux d’interrogation de 2 000 Hz et assure une qualité de signal exceptionnelle durant la compétition
-- Switchs optiques : les switchs pour les clics gauche et droit génèrent des réactions ultrarapides et précises et sont garantis pour 70 millions de clics
-- Châssis en aluminium emblématique : le châssis en aluminium anodisé de la M65 RGB ULTRA WIRELESS garantit une longue durée de vie avec une forme familière
 - Contrôle de fusion de capteurs : un gyroscope 6 axes est associé à un accéléromètre afin d’obtenir une distance de décollage ultrafaible pour un suivi plus précis lorsque vous repositionnez la souris. Le gyroscope est programmable avec des mouvements d’inclinaison afin que vous puissiez mapper vos commandes comme de simples mouvements de souris
+- Switchs optiques : les switchs pour les clics gauche et droit génèrent des réactions ultrarapides et précises et sont garantis pour 70 millions de clics
+- Capteur optique 26 000 DPI CORSAIR MARKSMAN : Affichant une résolution native exceptionnelle de 26 000 DPI, un suivi IPS de 650 IPS et une accélération allant jusqu’à 50 G, le capteur optique assure un suivi extrêmement précis avec une très grande plage de réglage de la sensibilité par paliers d’1 DPI
+- Châssis en aluminium emblématique : le châssis en aluminium anodisé de la M65 RGB ULTRA WIRELESS garantit une longue durée de vie avec une forme familière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JZTJ2VK{{</world>}}

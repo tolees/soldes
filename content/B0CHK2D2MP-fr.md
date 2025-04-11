@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ⚡️ PARTIES DYNAMIQUES ET ULTRA-RAPIDES : des manches tendues et pleines de rebondissements, jouable jusquà 7 : un jeu minimaliste, sans temps morts et qui se joue en simulatné."
-- 🧑‍🏫UN JEU DE SEIJI KANAI : par lauteur de Love Letter, Quickshot sinscrit dans sa lignée en plus dynamique, plus tendu, en simultané et des parties éclair.
 - 🎂 3 à 7 joueurs, 10 ans et +, 10 minutes de jeu environ (mais...revanche ?!)
 - ⚔️👑 UN JEU DE BATTLE ROYALE RAPIDE ET TENDU : chaque joueur tente de devenir le Leader ou de le rester tout en évitant les pièges tendus par les adversaires. Chaque décision compte et la moindre une erreur peut vous éliminer. La tension monte d’un cran à chaque carte jouée.
+- 🧑‍🏫UN JEU DE SEIJI KANAI : par lauteur de Love Letter, Quickshot sinscrit dans sa lignée en plus dynamique, plus tendu, en simultané et des parties éclair.
 - 🎯 VOTRE OBJECTIF : le but du jeu est de posséder la carte Leader à la fin de la quatrième manche… ou déliminer tou·tes ses adversaires avant ! Chaque manche se joue à la vitesse de l’éclair et ne fait pas de cadeau ! Le gagnant de la manche sempare de la carte Leader. Suivant les cartes jouées, un ou plusieurs joueurs peuvent être éliminées à chaque manche !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

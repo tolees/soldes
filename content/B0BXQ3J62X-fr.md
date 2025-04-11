@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TPU/Silicone,Etanchéité 5ATM*
-- Grand écran AMOLED 1,75" Always-on-display +200 fonds décran
 - Câble de charge magnétique, 12 jours dautonomie, Appels en bluetooth, haut parleur HD
 - Surveillance de la santé en continue. Fréquence cardiaque, SpO2 et suivi du sommeil. - Etanche à 50 mètres, peut être utilisé pour la natation.
 - Bracelet en TPU/ silicone
+- Grand écran AMOLED 1,75" Always-on-display +200 fonds décran
+- TPU/Silicone,Etanchéité 5ATM*
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BXQ3J62X{{</world>}}

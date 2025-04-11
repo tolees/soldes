@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roulement à lévitation magnétique : réduit considérablement la friction, pour un bruit moindre, des performances accrues et une grande durabilité.
 - Huit LED blanches ultralumineuses : créez un éclairage éclatant grâce aux huit LED du hub de ventilateur.
 - Technologie CORSAIR AirGuide : dotée de pales antivortex permettant de diriger le flux d’air de façon ciblée afin d’améliorer le refroidissement, qu’elle soit utilisée à des fins d’aspiration.
 - Bruit faible, hautes performances : les pales transparentes de 140 mm fonctionnent silencieusement même à pleine vitesse et génèrent un flux d’air élevé.
 - Refroidissez votre système : des vitesses de rotation impressionnantes contrôlées par PWM, de 400 jusqu’à 1 600 tr/min avec prise en charge du mode Zero RPM, propulsant jusqu’à 82,9 CFM d’air.
+- Roulement à lévitation magnétique : réduit considérablement la friction, pour un bruit moindre, des performances accrues et une grande durabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HF6JF3Y{{</world>}}

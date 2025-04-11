@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Affichage : 6,43 ", 1080 x 2400 pixels
-- Processeur : Snapdragon 888 2,84 GHz
 - Batterie : 4500 mAh
+- Processeur : Snapdragon 888 2,84 GHz
 - Caméra : Triple, 64MP + 8MP + 2MP
+- Affichage : 6,43 ", 1080 x 2400 pixels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09B15TR4B{{</world>}}

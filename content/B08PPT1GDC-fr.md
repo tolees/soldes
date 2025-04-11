@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 bandes le long des manches
-- Capuche avec cordon
 - coupe droite
+- Capuche avec cordon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08PPT1GDC{{</world>}}

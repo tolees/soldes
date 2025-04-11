@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kit dentretien universel portable conçu pour affûter vos chaines directement sur place
 - Facile à transporter, ce kit daffûtage pour chaîne de tronçonneuse est contenu dans une trousse enroulable avec poches intérieures et une boucle à scratch
-- Garantie
+- Kit dentretien universel portable conçu pour affûter vos chaines directement sur place
 - Ce kit daffûteur pour chaîne de tronçonneuse est livré avec un mode demploi rangé dans la poche pour un accès rapide
+- Garantie
 - Kit complet : 3 limes rondes (5/32" (4 mm), 3/16" (4,8 mm) et 7/32" (5,5 mm)), 1 lime plate de 6", 1 guide de lime, 1 manche pour lime universel et un mode demploi dans leur trousse de rangement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

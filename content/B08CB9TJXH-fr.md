@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sécurité du réseau : logiciel ASUS AiProtection Pro gratuit à vie, développé par l’entreprise Trend Micro, avec protocole WPA3 et contrôles parentaux avancés pour protéger toute la famille
-- Wi-Fi 6 nouvelle génération : vitesses de connexion jusqu’à 5400 Mb/s grâce à la norme 802.11ax et canaux de 160 Mhz
-- Mode Gaming Mobile : réduction des latences pour les jeux lancés sur les appareils mobiles via l’application ASUS Router. Système de fichiers: HFS +, NTFS, vFAT, ext2, ext3, ext4
 - Compatibilité ASUS AiMesh : création d’un réseau maillé aux connexions fluides avec plusieurs routeurs compatibles
+- Mode Gaming Mobile : réduction des latences pour les jeux lancés sur les appareils mobiles via l’application ASUS Router. Système de fichiers: HFS +, NTFS, vFAT, ext2, ext3, ext4
+- Wi-Fi 6 nouvelle génération : vitesses de connexion jusqu’à 5400 Mb/s grâce à la norme 802.11ax et canaux de 160 Mhz
 - Éclairage au choix : routeur compatible avec les effets lumineux ASUS Aura RGB qui peuvent être personnalisés en fonction du mode de jeu activé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

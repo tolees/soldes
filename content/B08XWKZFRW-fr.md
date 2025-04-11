@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 15 BARS DE PRESSION : pour réussir toutes les boissons, de lespresso aux boissons lactées, froides ou chaudes
-- RÃ‰SERVOIR TRANSPARENT ET AMOVIBLE : 0,8 L facile daccès avec couvercle entièrement amovible pour une facilité dentretien et de remplissage
-- Réparabilité 15 ans, Garantie 2 ans
-- PORTE CAPSULE INTUITIF : allume la machine dès sa manipulation (préchauffage rapide 30 secondes) et se nettoie au lave vaisselle
-- 3 POSITIONS DU PORTE TASSE : pour les petites tasses, les grandes tasses et les travel mug
-- MODE ECONOMIE DENERGIE : la machine se met en veille après 1 minute dinactivité
 - COMPACT ET COLORE : 14 cm de largeur, 28 cm de hauteur, 27 cm de profondeur
+- PORTE CAPSULE INTUITIF : allume la machine dès sa manipulation (préchauffage rapide 30 secondes) et se nettoie au lave vaisselle
+- Réparabilité 15 ans, Garantie 2 ans
+- RÃ‰SERVOIR TRANSPARENT ET AMOVIBLE : 0,8 L facile daccès avec couvercle entièrement amovible pour une facilité dentretien et de remplissage
+- MODE ECONOMIE DENERGIE : la machine se met en veille après 1 minute dinactivité
+- 3 POSITIONS DU PORTE TASSE : pour les petites tasses, les grandes tasses et les travel mug
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XWKZFRW{{</world>}}

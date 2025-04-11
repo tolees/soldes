@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à ajuster
-- Flexible
 - Doux au toucher
+- Flexible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQHYPTY{{</world>}}

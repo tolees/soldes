@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nikon Z f, boitier nu (livré avec cable USB-C)
 - DES SÉQUENCES VIDÉO DIGNES DU CINÉMA Enregistrez des vidéos au format 4K Ultra HD à 60p/30p/24p. Optez pour le ralenti extrême en Full-HD/120p.
 - CAPTEUR PLEIN FORMAT 24,5 MILLIONS DE PIXELS ET EXPEED 7 Obtenez des images nettes, même en cas de prise de vue à des valeurs ISO natives élevées pouvant atteindre 64 000 pour les photos et 51 200 pour les vidéos.
 - DOUBLE LOGEMENT POUR CARTES: une pour les cartes SD et l’autre pour les cartes micro SD.
 - PRISE DE VUE AVEC PRÉ-DÉCLENCHEMENT L’appareil peut enregistrer jusqu’à une seconde avant que vous n’appuyiez à fond sur le déclencheur
+- Nikon Z f, boitier nu (livré avec cable USB-C)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJF4FNYR{{</world>}}

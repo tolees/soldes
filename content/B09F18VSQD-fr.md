@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le mode Théorie du chaos te permet de revivre les moments phares de tes films préférés, vis des scénarios de simulation inspirés des films emblématiques Jurassic World et Jurassic Park
-- Prends le contrôle avec des outils de gestion approfondis et des options plus créatives. Construis, gère et personnalise de nouveaux bâtiments au sein de sites encore inexplorés
-- Jurassic World Evolution 2 est la suite très attendue du jeu de gestion immersif, révolutionnaire et hautement acclamé Jurassic World Evolution, édité par Frontier en 2018.
 - Cette suite introduit une nouvelle campagne narrative captivante, dincroyables nouvelles fonctionnalités et dimpressionnants dinosaures inédits, animés avec une authenticité à couper le souffle.
+- Prends le contrôle avec des outils de gestion approfondis et des options plus créatives. Construis, gère et personnalise de nouveaux bâtiments au sein de sites encore inexplorés
 - Crée par bio-ingénierie plus de 75 espèces préhistoriques comprenant des reptiles volants et marins et observe-les semparer de leur territoire, se battre et interagir avec un réalisme poignant.
+- Jurassic World Evolution 2 est la suite très attendue du jeu de gestion immersif, révolutionnaire et hautement acclamé Jurassic World Evolution, édité par Frontier en 2018.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09F18VSQD{{</world>}}

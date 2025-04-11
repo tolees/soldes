@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Better. Faster. Stronger. Witchier. – The castle is full of mighty monsters and even mightier bosses. As you progress, your adversaries will get stronger, so youll need to as well. Collect Soul Essences from defeated enemies and use them to strengthen your abilities and take down the Crafted Souls!
-- Magical Mystery Tour – On your journey you may find your path blocked. Use your mastery of elemental magics to solve puzzles and unlock new areas of the castle to explore. You may even find some hidden treasure lying around.
-- The Truth is in There – Collect items around the castle and learn more about Nobetas dark and mysterious world.
 - Get Crafty! – The bosses known as Crafted Souls will present a huge challenge, and they wont be easy to take down. Youll need to develop a strategy if you want to beat them. Dodge their attacks at just the right time to take control of the battle.
+- The Truth is in There – Collect items around the castle and learn more about Nobetas dark and mysterious world.
+- Magical Mystery Tour – On your journey you may find your path blocked. Use your mastery of elemental magics to solve puzzles and unlock new areas of the castle to explore. You may even find some hidden treasure lying around.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BMB5HM2W{{</world>}}

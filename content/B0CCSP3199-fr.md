@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous avez été guidés vers Tir na Balc, le pays des fées. Dans ce pays se trouvait la tour du roi dragon, Yggdran, qui abritait des trésors cachés susceptibles dapporter la paix. Mais un jour, les Sept Rois Diables ont volé tous les trésors, et ont utilisé leurs pouvoirs pour transformer la tour en un terrible donjon.
+- Trouvez des armes et des armures puissantes en traversant les donjons ! Augmentez le niveau de vos héros, de vos compétences de classe et de votre équipement, et battez les rois du diable, quel que soit le nombre de fois où vous mourrez !
 - Choisissez parmi huit classes différentes et une grande variété de portraits de personnages mignons pour constituer votre équipe de héros et défier la tour ! Portraits dautres titres EXPERIENCE également inclus -Undernauts : Labyrinthe de Yomi, Spirit Hunter : Death Mark, Spirit Hunter : NG Et plus encore... !
 - Trois styles de jeu différents - Insouciant, Standard & Défi - chacun avec une expérience de jeu unique et un accès aux cartes.
-- Trouvez des armes et des armures puissantes en traversant les donjons ! Augmentez le niveau de vos héros, de vos compétences de classe et de votre équipement, et battez les rois du diable, quel que soit le nombre de fois où vous mourrez !
+- Vous avez été guidés vers Tir na Balc, le pays des fées. Dans ce pays se trouvait la tour du roi dragon, Yggdran, qui abritait des trésors cachés susceptibles dapporter la paix. Mais un jour, les Sept Rois Diables ont volé tous les trésors, et ont utilisé leurs pouvoirs pour transformer la tour en un terrible donjon.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCSP3199{{</world>}}

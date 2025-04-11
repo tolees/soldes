@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Design compact ultra-portable : le design compact sans pavé numérique laisse de la place pour le mouvement de la souris
-- Les commutateurs Clicky GX Blue longue durée
 - Conçu avec et pour les athlètes eSport pour une performance, une vitesse et une précision de niveau compétitif
+- Les commutateurs Clicky GX Blue longue durée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W6JNQ82{{</world>}}

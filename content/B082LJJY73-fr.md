@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité 2 sacs 110 L (non fournis)
-- Matière Recyclée à 80%
-- Poignées soft touch
 - Ouverture one-touch des couvercles
+- Capacité 2 sacs 110 L (non fournis)
+- Poignées soft touch
 - Facile à monter
+- Matière Recyclée à 80%
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082LJJY73{{</world>}}

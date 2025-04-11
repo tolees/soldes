@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 12 ouvertures daération Wind Tunnel avec canalisation interne
-- Roc Loc Ville
 - enveloppante Hardbody
-- In-Mold coque en polycarbonate avec doublure EPS
+- 12 ouvertures daération Wind Tunnel avec canalisation interne
 - point de fixation de lampe frontale universelle
+- Roc Loc Ville
+- In-Mold coque en polycarbonate avec doublure EPS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07J5TGHJ4{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REFROIDISSEMENT SILENCIEUX - La série MasterFan Halo est équipée dune technologie puissante de réduction de bruit et de matériaux insonorisants pour assurer un régime de ventilateur plus constant et réduire les vibrations et clics gênants (6 à 30 dBA)
+- VENTILATEUR HYBRIDE - La conception des pales de ventilateur incurvées est inspirée par la technologie des moteurs à réaction davion & des pales dhélicoptère pour fournir une pression dair (1,6 mmH2O ± 10%) & un flux dair exceptionnels (47,2 CFM ± 10%)
 - COMPATIBILITÉ COMPLÈTE - Les MasterFan Halo sont certifiés entièrement compatibles avec les logiciels de cartes mère ARGB (ex: ASUS Aura, ASRock RGB et MSI RGB) et comprennent des clips de connecteur ARGB pour une connexion sécurisée
+- REFROIDISSEMENT SILENCIEUX - La série MasterFan Halo est équipée dune technologie puissante de réduction de bruit et de matériaux insonorisants pour assurer un régime de ventilateur plus constant et réduire les vibrations et clics gênants (6 à 30 dBA)
 - CAPTEUR INTELLIGENT ANTI-BOURRAGE - Équipé dun capteur intelligent pour aider à protéger contre les câbles & composants qui saccrochent ou sendommagent pendant le fonctionnement
 - ÉCLAIRAGE ARGB À DOUBLE BOUCLE - Le MF120 HALO utilise 24 LED RGB Adressables contrôlées individuellement divisées en deux boucles pour assurer un affichage des couleurs exceptionnellement dynamique
-- VENTILATEUR HYBRIDE - La conception des pales de ventilateur incurvées est inspirée par la technologie des moteurs à réaction davion & des pales dhélicoptère pour fournir une pression dair (1,6 mmH2O ± 10%) & un flux dair exceptionnels (47,2 CFM ± 10%)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B085ZZKZPX{{</world>}}

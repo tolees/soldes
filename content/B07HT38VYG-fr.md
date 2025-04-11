@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câblage astucieux et partage de contenu - Grâce au Display Hub et au Table Hub, qui permettent de ranger et dorganiser les câbles, les composants du Rallye et lordinateur de la salle de réunion restent discrets. Une entrée HDMI sur le Table Hub élimine le coût supplémentaire des prolongateurs de câble et facilite le partage de contenu câblé
-- Design épuré - Chaque composant du système Rallye présente un design industriel de qualité, adapté pour tous les environnements professionnels. Même si Rally permet à tout le monde davoir une bonne image et un bon son pendant les réunions vidéo
-- RightLight avec Wide Dynamic Range (WDR) - En donnant la priorité aux visages et aux figures humaines plutôt quaux objets et aux surfaces, cette technologie produit une image équilibrée qui restitue les participants sous une lumière flatteuse, avec des reflets réduits et des ombres plus douces, même dans des conditions de faible luminosité ou de contre-jour
 - Vidéo de qualité studio - Grâce à son système dimagerie Ultra-HD et à la technologie RightLight, Rallye offre des vidéos dune grande netteté et des couleurs exceptionnelles, tout en optimisant léquilibre de la lumière pour mettre en valeur les visages et rendre les tons chair naturels, même dans des conditions de faible éclairage ou de contre-jour
 - Balayage panoramique, inclinaison et zoom adaptatifs - La caméra se déplace automatiquement plus rapidement lors dun zoom arrière pour un cadrage rapide et plus lentement lors dun zoom avant pour un meilleur contrôle
-- Contrôle automatique - Le contrôle de la caméra Logitech RightSight déplace et ajuste automatiquement lobjectif pour cadrer confortablement les participants à la réunion dans des salles de toutes formes et tailles
-- Audio modulaire avancé - Un son pur est essentiel pour une vidéoconférence de classe mondiale, et Rallye excelle dans la production dun son naturel, net et hautement intelligible
+- RightLight avec Wide Dynamic Range (WDR) - En donnant la priorité aux visages et aux figures humaines plutôt quaux objets et aux surfaces, cette technologie produit une image équilibrée qui restitue les participants sous une lumière flatteuse, avec des reflets réduits et des ombres plus douces, même dans des conditions de faible luminosité ou de contre-jour
+- Câblage astucieux et partage de contenu - Grâce au Display Hub et au Table Hub, qui permettent de ranger et dorganiser les câbles, les composants du Rallye et lordinateur de la salle de réunion restent discrets. Une entrée HDMI sur le Table Hub élimine le coût supplémentaire des prolongateurs de câble et facilite le partage de contenu câblé
 - Une expérience utilisateur améliorée - Les technologies Logitech RightSense permettent à chacun de paraître et de sexprimer au mieux, rendant les vidéoconférences faciles, automatiques et plus naturelles
+- Contrôle automatique - Le contrôle de la caméra Logitech RightSight déplace et ajuste automatiquement lobjectif pour cadrer confortablement les participants à la réunion dans des salles de toutes formes et tailles
+- Design épuré - Chaque composant du système Rallye présente un design industriel de qualité, adapté pour tous les environnements professionnels. Même si Rally permet à tout le monde davoir une bonne image et un bon son pendant les réunions vidéo
+- Audio modulaire avancé - Un son pur est essentiel pour une vidéoconférence de classe mondiale, et Rallye excelle dans la production dun son naturel, net et hautement intelligible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HT38VYG{{</world>}}

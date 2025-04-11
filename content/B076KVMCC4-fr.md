@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellente résistance aux rayons UV
-- Durée de conservation des données : 100 ans
-- Vitesse décriture 1-52x pour graver un CD entier en moins de deux minutes
-- <b>La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
 - Taux derreur extrêmement faible, quel que soit le type de graveur CD
+- <b>La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
+- Excellente résistance aux rayons UV
+- Vitesse décriture 1-52x pour graver un CD entier en moins de deux minutes
+- Durée de conservation des données : 100 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B076KVMCC4{{</world>}}

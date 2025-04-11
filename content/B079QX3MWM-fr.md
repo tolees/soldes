@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un optique en entrée auxiliaire – viennent compléter les possibilités de raccordement à partir de
+- Slim barre 180 W Puissance totale
 - Vous pouvez également contrôler le périphérique via HDMI CEC de ACR
 - sperater caisson de basses
-- Slim barre 180 W Puissance totale
+- Un optique en entrée auxiliaire – viennent compléter les possibilités de raccordement à partir de
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079QX3MWM{{</world>}}

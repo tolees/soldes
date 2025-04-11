@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COLLECTIBLE TOY - This Harry Potter toy is also a collectible among the Wizarding World course playsets. Harry Potter, Ron, Hermione, Dumbledore, Luna and Hagrid characters are available
-- Donnez une pose à la poupée exclusive Luna de 8 cm, et utilisez le seau, des pommes, et un Botruc pour enrichir votre récit
-- IDEE CADEAU ENFANT - Ce coffret de cours de soins aux créatures magiques est une excellente idée pour un cadeau danniversaire ou à Noël
-- COURS DE SOINS CRÉATURES MAGIQUES HARRY POTTER - Retrouvez lunivers magique du film Harry Potter avec ce playset cours de soins aux créatures magiques
 - CONNECTEZ LE COFFRET AU CHÂTEAU DE POUDLARD - La salle de classe du cours de soins aux créatures magiques se connecte au Château de Poudlard (vendu séparément) grâce à la pièce dextension incluse
-- POUPÉE EXCLUSIVE LUNA ET 3 ACCESSOIRES - Les figurines Wizarding World sont dotées darticulations au niveau de la tête, des bras et des jambes du personnage
+- COLLECTIBLE TOY - This Harry Potter toy is also a collectible among the Wizarding World course playsets. Harry Potter, Ron, Hermione, Dumbledore, Luna and Hagrid characters are available
 - BOTRUC ACTIVÉ COMME PAR MAGIE - Luna participe à un cours de soins pour les créatures magiques. Placez votre figurine exclusive sur le point magique pour voir le bébé Sombral senvoler
+- COURS DE SOINS CRÉATURES MAGIQUES HARRY POTTER - Retrouvez lunivers magique du film Harry Potter avec ce playset cours de soins aux créatures magiques
+- IDEE CADEAU ENFANT - Ce coffret de cours de soins aux créatures magiques est une excellente idée pour un cadeau danniversaire ou à Noël
+- Donnez une pose à la poupée exclusive Luna de 8 cm, et utilisez le seau, des pommes, et un Botruc pour enrichir votre récit
+- POUPÉE EXCLUSIVE LUNA ET 3 ACCESSOIRES - Les figurines Wizarding World sont dotées darticulations au niveau de la tête, des bras et des jambes du personnage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T1FCP7K{{</world>}}

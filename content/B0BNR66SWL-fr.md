@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux protagonistes : Enquêtez avec le détective privé Doe sur les mystères de la ville, et combattez les démons avec l’exorciste Gram
 - Des affrontements stratégique : Mato Anomalies propose des combats passionnants où stratégie et réflexion prévalent
 - Une aventure sous le signe du mystère : Faites équipe avec des compagnons inattendus et percez les secrets troublants de cette histoire dont les thèmes sont lespoir et la justice
 - La face cachée d’une ville : Explorez une version néo-futuriste du vieux Shanghaï, et découvrez un tout autre monde qui se cache sous sa surface
+- Deux protagonistes : Enquêtez avec le détective privé Doe sur les mystères de la ville, et combattez les démons avec l’exorciste Gram
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNR66SWL{{</world>}}

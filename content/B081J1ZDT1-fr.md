@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respect de la peau et de la nature ph neutre pour la peau. Tolérance testée sous contrôle dermatologique. Formule facilement biodégradable
-- Fabriquée en France: groupe Panther est une PME familiale basée près de Bordeaux. Les formules et emballages de nos gels douche sont produits et assemblés en France. Cocorico !
 - Une formule d’origine naturelle* un maximum de douceur avec un minimum d’ingrédients. Avec 97% d’ingrédients d’origine naturelle* et facilement biodégradables, Cottage a privilégié une formule minimaliste respectueuse de votre peau et de la nature pour encore plus de douceur. * Norme ISO 16128
 - Un parfum Une note 100% gourmande qui nous replonge au cœur de notre enfance: l’éclat gourmand du caramel, agrémenté d’une perle de lait et d’une touche de vanille
+- Fabriquée en France: groupe Panther est une PME familiale basée près de Bordeaux. Les formules et emballages de nos gels douche sont produits et assemblés en France. Cocorico !
+- Respect de la peau et de la nature ph neutre pour la peau. Tolérance testée sous contrôle dermatologique. Formule facilement biodégradable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081J1ZDT1{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maquette réaliste de tracteur Claas télécommandé pour enfants ou adultes, Contrôlable par Bluetooth par application mobile,
 - Contenu: 1 x siku 6791 - Tracteur télécommandé Claas Xerion 5000 TRAC VC sans télécommande, Equipements et accessoires, Matériau: Métal/Plastique, Echelle: 1:32, Dimensions: 25,6 x 11,1 x 12,8 cm, Poids: 1,2 kg, Sans piles, Couleur: Vert, Série: SIKU CONTROL
+- Maquette réaliste de tracteur Claas télécommandé pour enfants ou adultes, Contrôlable par Bluetooth par application mobile,
 - Larges fonctions: 6 moteurs de transmission contrôlables, Attelage arrière contrôlable, Direction des roues par essieu avant, par toutes les roues motrices ou en latéral (marche en crabe), Cabine tournante, 22 LED déclairage
-- Haute stabilité: Jouet majoritairement en métal, Pneus en caoutchouc souple, Utilisable sur toutes surfaces : Carrelage, Parquet ou moquette, Sécurité maximale grâce à son système d’arrêt automatique, Limiteur de couple à friction
 - Commandes simples: Fonctions du jouet contrôlables par une seule télécommande, Possibilité de contrôle de plusieurs jouets avec une seule télécommande
+- Haute stabilité: Jouet majoritairement en métal, Pneus en caoutchouc souple, Utilisable sur toutes surfaces : Carrelage, Parquet ou moquette, Sécurité maximale grâce à son système d’arrêt automatique, Limiteur de couple à friction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07P9TYVST{{</world>}}

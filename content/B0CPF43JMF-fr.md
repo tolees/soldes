@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COMPOSITION : Les comprimés de vitamine C de Beaphar contiennent principalement de la Vitamine C permettant d’apporter la dose quotidienne pour un cochon d’Inde et lui éviter tout risque de carence.
-- NOS ANIMAUX SONT AUSSI NOTRE FAMILLE : Pour préserver le bien-être de nos compagnons, Beaphar donne accès à des soins et des produits de qualité à prix abordables à tous les propriétaires d’animaux.
-- UTILISATION : Chaque jour, ajouter à l’alimentation ou administrer dans la gueule de l’animal ½ comprimé pour un cochon d’Inde de moins d’1kg et 1 comprimé pour un cochon d’Inde de plus d’1 kg
-- Les informations ci-dessous sappliquent à chaque unité du pack
 - APPORTE VITALITÉ ET BIEN-ÊTRE : Les comprimés de vitamine C de Beaphar contiennent la bonne quantité quotidienne adaptée aux besoins de votre cochon d’Inde lui permettant une bonne santé.
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - REPOND A SON BESOIN : La vitamine C est indispensable pour les cochons d’Inde, leur organisme ne peut pas la synthétiser en raison d’une déficience, ils doivent donc la trouver dans leur alimentation.
+- UTILISATION : Chaque jour, ajouter à l’alimentation ou administrer dans la gueule de l’animal ½ comprimé pour un cochon d’Inde de moins d’1kg et 1 comprimé pour un cochon d’Inde de plus d’1 kg
+- NOS ANIMAUX SONT AUSSI NOTRE FAMILLE : Pour préserver le bien-être de nos compagnons, Beaphar donne accès à des soins et des produits de qualité à prix abordables à tous les propriétaires d’animaux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPF43JMF{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la boîte: 1 plateau de jeu, 3 marqueurs en bois, 92 cartes, 6 boules en bois, 1 sac en tissu, 1 règle du jeu
+- Boite, jeu et règles en français
+- Nombre de joueurs: de 3 à 12 joueurs
 - Durée dune partie: 30 minutes
 - Descriptif du produit: après le naufrage de votre bateau, votre groupe de survivants se retrouve sur une île déserte où l’eau et la nourriture se font rares. Seule solution pour échapper à ce cauchemar: construire ensemble un grand radeau pour embarquer les survivants, mais le temps presse car un ouragan pointe à l’horizon... A chaque tour les joueurs naufragés devront choisir une action parmi quatre: pêcher, recueillir de l’eau, chercher du bois ou fouiller l’épave du bateau. Faites équipe pour survivre mais soyez prêt à sacrifier vos camarades en cas de pénurie. Un jeu presque coopératif où vous devrez être aussi fourbe que diplomate pour vous garantir une place pour le voyage du retour !
-- Nombre de joueurs: de 3 à 12 joueurs
-- Boite, jeu et règles en français
+- Contenu de la boîte: 1 plateau de jeu, 3 marqueurs en bois, 92 cartes, 6 boules en bois, 1 sac en tissu, 1 règle du jeu
 - Âge Minimum: 10 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

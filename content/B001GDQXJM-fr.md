@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DIGITUS Distributeur mural 19" Dynamic Basic, 7 U, gris clairRAL 7035, tole dacier robuste de 0, 8-1, 2 mm, porte ver-rouillable en verre de sécurité, parties latérales amoviblestype de protection IP20, fente daération pour aération oupurge active ou passive, profondeur de montage: 360 mm,(DN-19 07-U-EC)
 - Angle d’ouverture de la porte à 210 degrés
 - DIGITUS - DN-1907-U-EC
+- DIGITUS Distributeur mural 19" Dynamic Basic, 7 U, gris clairRAL 7035, tole dacier robuste de 0, 8-1, 2 mm, porte ver-rouillable en verre de sécurité, parties latérales amoviblestype de protection IP20, fente daération pour aération oupurge active ou passive, profondeur de montage: 360 mm,(DN-19 07-U-EC)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001GDQXJM{{</world>}}

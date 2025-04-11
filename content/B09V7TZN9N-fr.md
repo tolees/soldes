@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ã‰cran couleur MIP et design ultra léger : expérience, netteté et contraste améliorés 24h24 ; Boîtier fin et léger avec boutons ergonomiques antidérapants pour une ergonomie améliorée
-- Processeur optimisé : performances et transitions décran plus rapides, fluides et efficaces ; Chargement et transfert de données rapides ; Jusquà 35 heures dentraînement avec GPS et FC (100 heures en modes économie dénergie)
-- Outils dentraînement et de récupération spécifiques : commentaires et conseils personnalisés avec suivi à court et long terme de la charge dentraînement et de la charge cardiaque
 - Polar Pacer fournit aux runners modernes toutes les données essentielles ainsi que des outils supplémentaires pour progresser en COURSE Ã€ PIED : temps, allure, distance, tours, chronomètre, GPS ultra fiable, mesure de la FC précise, fonctions dentraînement, sommeil et récupération spécifiques
+- Outils dentraînement et de récupération spécifiques : commentaires et conseils personnalisés avec suivi à court et long terme de la charge dentraînement et de la charge cardiaque
+- Processeur optimisé : performances et transitions décran plus rapides, fluides et efficaces ; Chargement et transfert de données rapides ; Jusquà 35 heures dentraînement avec GPS et FC (100 heures en modes économie dénergie)
 - Précision du GPS : nouvelle antenne intégrée pour un meilleur suivi de chaque mouvement et foulée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

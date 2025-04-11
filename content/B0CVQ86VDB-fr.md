@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transportation restrictions: {modes:["NONE"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7exLvdskg/8ZmZmZmZmrNxXabdskhAEaPXCj1wpLNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy43Ez}}}
-- Wireless network technology: wifi
+- Wireless provider: unlocked
 - Batteries included: True
+- Wireless network technology: wifi
+- Item dimensions: 1.97 inches
 - Memory storage capacity: 256.0 GB
 - SAMSUNG - SMARTPHONE
+- Transportation restrictions: {modes:["NONE"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7exLvdskg/8ZmZmZmZmrNxXabdskhAEaPXCj1wpLNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy43Ez}}}
 - Included components: 1 package
 - 2 ans
-- Wireless provider: unlocked
-- Item dimensions: 1.97 inches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVQ86VDB{{</world>}}

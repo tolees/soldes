@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mascara volumisant ultra noir, jusqu’à 16 heures de tenue
 - Avec un miroir grossissant intégré pour faciliter l’application
 - Les poils longs et courts permettent d’attraper tous les cils
-- Formule ultra noire améliorée pour un noir plus pur et plus concentré
-- Mascara volumisant ultra noir, jusqu’à 16 heures de tenue
 - Sans parabène et sans parfum
+- Formule ultra noire améliorée pour un noir plus pur et plus concentré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01JGFDLBY{{</world>}}

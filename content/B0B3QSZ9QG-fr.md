@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 16 Go de RAM et la fonction Always Alive offrent un multitâche sans compromis. Exécutez jusquà 30 applications en arrière-plan sans aucun ralentissement. Le moteur de jeu HyperBoost avec stabilisateur dimage et GLC (GPU Load Control) pour une expérience de jeu des plus convaincantes.
-- 150 W SUPERVOOC Endurance Edition - Lautonomie dune journée en 10 minutes8 et le double de la durée de vie de la batterie. Un algorithme dIA qui apprend intelligemment votre programme de charge individuel, afin de fournir la vitesse de charge la plus rapide.
-- Système triple caméra 50MP - Le capteur IMX766 haut de gamme avec OIS offre une clarté et une stabilité exceptionnelles + Nightscape 2.0 de nouvelle génération et des vitesses de capture photo ultra-rapides.
 - "OxygenOS 12.1 - concentrez-vous sur le travail, le repos et les loisirs et à passer aisément dun segment à lautre. Atteignez des performances rapides et fluides de niveau supérieur qui incarnent le principe du « Never Settle ». La prise en charge de la 5G peut varier selon lopérateur. Renseignez-vous auprès de votre opérateur pour plus dinformations."
+- 16 Go de RAM et la fonction Always Alive offrent un multitâche sans compromis. Exécutez jusquà 30 applications en arrière-plan sans aucun ralentissement. Le moteur de jeu HyperBoost avec stabilisateur dimage et GLC (GPU Load Control) pour une expérience de jeu des plus convaincantes.
+- Système triple caméra 50MP - Le capteur IMX766 haut de gamme avec OIS offre une clarté et une stabilité exceptionnelles + Nightscape 2.0 de nouvelle génération et des vitesses de capture photo ultra-rapides.
 - Plate-forme mobile haut de gamme Snapdragon 8+ Gen 1 - La plus rapide plate-forme mobile Snapdragon offre des performances ultimes à portée de main grâce à un processeur 10% plus puissant et à une vitesse dIA 4 fois plus rapide.
+- 150 W SUPERVOOC Endurance Edition - Lautonomie dune journée en 10 minutes8 et le double de la durée de vie de la batterie. Un algorithme dIA qui apprend intelligemment votre programme de charge individuel, afin de fournir la vitesse de charge la plus rapide.
 - Écran fluid FHD+ 6,7" 120 Hz - Avec une fréquence dimages adaptative allant jusquà 120 Hz, un HDR10+ toujours activé et une compatibilité couleurs 10 bits pour une luminosité et une précision des couleurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

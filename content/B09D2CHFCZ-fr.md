@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : synthétique
 - Semelle : caoutchouc
-- Forme du talon : plat
 - Matériau extérieur : synthétique
+- Matériau intérieur : synthétique
+- Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09D2CHFCZ{{</world>}}

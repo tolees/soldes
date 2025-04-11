@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur [mm]: 48,0
-- Longueur [mm]: 53
 - Nombre de connexions: 3
+- Longueur [mm]: 53
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B006DHSH2W{{</world>}}

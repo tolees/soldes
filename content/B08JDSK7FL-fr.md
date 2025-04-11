@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble USB détachable de 3 m
-- De boutons de jeu avancé mappables
 - Fonctionne sans piles
 - Dune prise audio de 3,5 mm
+- De boutons de jeu avancé mappables
 - Produit sous licence officielle de Nintendo avec garantie de deux ans (voir PowerA.com/Support)
+- Câble USB détachable de 3 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JDSK7FL{{</world>}}

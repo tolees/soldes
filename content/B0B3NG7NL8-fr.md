@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un porte-clé, une boite à musique, le script digital du prologue
-- Un artbook, un set de carte postal, une lithographie
 - Un set de figurines ajustable de Kate et Dana
 - Un boitier métal, une carte de Vaghen, la bande son digitale
 - Lédition collector contient :
+- Un porte-clé, une boite à musique, le script digital du prologue
+- Un artbook, un set de carte postal, une lithographie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B3NG7NL8{{</world>}}

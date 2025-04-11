@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adhésif permanent, coins arrondis
-- Format disponible dans notre logiciel gratuit Agipa Soft pro
 - Passage en imprimante jet dencre, laser et copieur
+- Format disponible dans notre logiciel gratuit Agipa Soft pro
+- Adhésif permanent, coins arrondis
 - Anti-bourrage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

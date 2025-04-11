@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A glittering and fanciful 3-ring circus adventure!
 - From the same character illustrator as Variable Barricade – Kagero Usuba.
+- A glittering and fanciful 3-ring circus adventure!
 - Music from ikasumicco, says and GENIC PALLET will highlight the game action.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

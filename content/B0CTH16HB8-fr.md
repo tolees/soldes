@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réseau 4G : 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 - Réseau 3G : HSDPA 850/900/2100
 - Réseau 2G : GSM 850/900/1800/1900 - SIM 1 et SIM 2
+- Réseau 4G : 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CTH16HB8{{</world>}}

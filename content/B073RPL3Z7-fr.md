@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coton piqué confortable, 230 g/m²
-- À lavant
-- Patte boutonnée
 - Fentes latérales
+- Patte boutonnée
+- À lavant
 - Col et manches côtelés
+- Coton piqué confortable, 230 g/m²
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073RPL3Z7{{</world>}}

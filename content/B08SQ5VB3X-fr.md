@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau respirant
 - Détails distinctifs de la marque
 - Ajustement régulier
-- Matériau respirant
 - Produit léger et confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

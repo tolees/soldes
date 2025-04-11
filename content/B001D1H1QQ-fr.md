@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Description du produit : Défis Nature vous emmène à la rencontre des animaux marins les plus surprenants de notre planète. Au travers de cartes superbement illustrées découvrez les particularités des espèces animales les plus répandues comme les plus menacées, puis pariez sur les points forts de vos animaux pour collecter toutes les cartes du jeu et remporter la partie. Alors, prêts à relever le défi ?
 - Fabriqué en France
-- À partir de 7 ans - De 2 à 6 joueurs
 - Durée dune partie : 20 min
+- À partir de 7 ans - De 2 à 6 joueurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001D1H1QQ{{</world>}}

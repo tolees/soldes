@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis de larticle :12.21 kg
-- Dimensions de lemballage : 8.39 x 5.77 x 4.89 cm
 - Nombre darticle : 1
+- Poids du colis de larticle :12.21 kg
 - Type dopération : électrique
+- Dimensions de lemballage : 8.39 x 5.77 x 4.89 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005KS61YQ{{</world>}}

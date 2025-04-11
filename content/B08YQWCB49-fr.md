@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Le centre d’attention】FocusTrack comprend Spotlight 2.0, ActiveTrack 4.0 et Point of Interest 3.0, DJI Air 2S suit et encercle votre sujet en toute légèreté.
 - 【Transmission vidéo max. 12 km (FCC)】DJI Air 2S est équipé de la technologie de transmission d’images O3 (OcuSync 3.0) la plus avancée de DJI, fournissant un flux d’image ultra fluide, clair et stable à chaque vol.
+- 【Un milliard de couleurs】Imprégnez-vous de toutes les nuances de votre environnement. Le profil de couleurs Dlog-M 10 bits enregistre jusqu’à un milliard de couleurs, captant les détails les plus infimes pour des prises éclatantes
+- 【Capteur CMOS 1 pouce】Équipé d’un capteur 1 pouce et de larges pixels 2,4μm, DJI Air 2S enregistre des vidéos de 5,4K/30 ips et 4K/60 ips
+- 【Le centre d’attention】FocusTrack comprend Spotlight 2.0, ActiveTrack 4.0 et Point of Interest 3.0, DJI Air 2S suit et encercle votre sujet en toute légèreté.
 - 【Détection d’environnement】DJI Air 2S perçoit son environnement dans quatre directions : vers le haut, le bas, vers l’avant et l’arrière. Les algorithmes du système APAS 4.0 ont été améliorés pour un évitement d’obstacles autonome en environnements plus complexes à grandes vitesses.
 - 【Mastershots】Évolution directe de QuickShots, MasterShots se présente comme une fonctionnalité autonome avancée fournissant aux utilisateurs les meilleures prises dans n’importe quel lieu en un seul clic.
-- 【Capteur CMOS 1 pouce】Équipé d’un capteur 1 pouce et de larges pixels 2,4μm, DJI Air 2S enregistre des vidéos de 5,4K/30 ips et 4K/60 ips
-- 【Un milliard de couleurs】Imprégnez-vous de toutes les nuances de votre environnement. Le profil de couleurs Dlog-M 10 bits enregistre jusqu’à un milliard de couleurs, captant les détails les plus infimes pour des prises éclatantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YQWCB49{{</world>}}

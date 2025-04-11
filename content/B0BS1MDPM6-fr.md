@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec fermeture éclair.
+- Dimensions : 24 x 0,5 x 18 cm
 - cas de maille
 - A lintérieur on peut trouver : · 1 planche dautocollants en relief · 1 stylo · 1 carnet avec reliure spirale · 3 mini signets magnétiques
+- Avec fermeture éclair.
 - Matériaux : PP + papier + PVC
-- Dimensions : 24 x 0,5 x 18 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BS1MDPM6{{</world>}}

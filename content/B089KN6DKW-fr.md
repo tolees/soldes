@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage ARGB - Différents modes déclairage LED - ATX ; Micro ATX
-- Contrôleur de vitesse pour jusquà 5 ventilateurs – 2 ventilateurs ARGB 120 mm inclus – Filtres anti-poussière – Port USB 3.0 haute vitesse
 - Excellent choix pour les systèmes de refroidissement liquide – Excellent système de gestion des câbles
+- Éclairage ARGB - Différents modes déclairage LED - ATX ; Micro ATX
 - Compartiment PSU: 2 x 120 mm (non inclus) – Contrôle de vitesse pour 4 ventilateurs
 - Compartiment isotherme pour la fontaine pour une performance optimale en refroidissement. Fenêtre latérale en acrylique. Compatible avec les graphiques de grande taille
+- Contrôleur de vitesse pour jusquà 5 ventilateurs – 2 ventilateurs ARGB 120 mm inclus – Filtres anti-poussière – Port USB 3.0 haute vitesse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B089KN6DKW{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - produits de haute qualité
-- matériel authentique
 - Pression 7 bar
 - Utilisation : liquides (interdit pour le gaz)
+- matériel authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00MTK91JA{{</world>}}

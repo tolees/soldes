@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Faible émission de chaleur (comparé aux produits standards de référence).
-- Consommation dénergie 9 kWh/1000h à 806 lm
-- Allumage instantané, pas de temps de préchauffage . Succède aux ampoules classiques, se substitue à une ampoule de 60 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Contenu de la livraison: 12 x lampe LED E27, 9 W, 230 V, Blanc chaud, 2700 K, Gradable, 100% Sans mercure - Le meilleur de la qualité LEDVANCE.
 - Longue durée de vie jusquà 15000 heures et 100000 cycles de commutation. Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres denfants
+- Consommation dénergie 9 kWh/1000h à 806 lm
+- Allumage instantané, pas de temps de préchauffage . Succède aux ampoules classiques, se substitue à une ampoule de 60 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08KY9RN8V{{</world>}}

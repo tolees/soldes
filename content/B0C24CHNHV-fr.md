@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Devenez un mage de combat: Rejoignez l’ordre des Immortels, protecteurs de Lucium, et incarnez Jak, un Magnus triarque d’élite
 - Déchaînez votre arsenal de sorts: Débloquez et améliorez plus de 25 sorts et 80 talents
-- Maîtrisez votre puissance magique: Des combats de sorts à la première personne rapides, fluides, simples et gratifiants où la magie joue un rôle crucial en attaque comme en défense
+- Devenez un mage de combat: Rejoignez l’ordre des Immortels, protecteurs de Lucium, et incarnez Jak, un Magnus triarque d’élite
 - Sauvez un monde au bord de l’abysse: Jak, un Instable, se retrouve projeté dans la Guerre Éternelle, une lutte sans fin entre Lucium et Rasharn pour le contrôle de la magie
+- Maîtrisez votre puissance magique: Des combats de sorts à la première personne rapides, fluides, simples et gratifiants où la magie joue un rôle crucial en attaque comme en défense
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C24CHNHV{{</world>}}

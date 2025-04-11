@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Technologie Avancée de lObjectif Logitech : Pour une qualité supérieure des vidéos avec une résolution, une vitesse, une fluidité, un équilibre des couleurs et un détail incomparables
-- Compatibilité: Windows 10 ou versions ultérieures, Windows 8, Windows 7, Mac OS X 10.10 ou versions ultérieures et Chrome OS. Compatible avec Skype, Google Hangouts, FaceTime for Mac, et plus encore
 - Volume réglable à 95 dB SPL à un pic de 1/2 mètre
+- Compatibilité: Windows 10 ou versions ultérieures, Windows 8, Windows 7, Mac OS X 10.10 ou versions ultérieures et Chrome OS. Compatible avec Skype, Google Hangouts, FaceTime for Mac, et plus encore
 - Solutions pour Salles : Le facteur de forme compact tout en un prend moins de place et réduit lencombrement causé par les câbles et attachez les points de fixation de la plaque VESA derrière lécran
-- Des Micros Antiparasites : Les trois microphones omnidirectionnels antiparasite avec annulation de lécho et dotés de la technologie Beamforming sont optimisés pour les petites salles de conférence
 - Optique de Caméra Haut de Gamme : La caméra prend en charge plusieurs niveaux de résolution, notamment 4K (Ultra HD), 1080p (Full HD) et 720p (HD)
 - Portée Etendue : En offrant le champ de vision le plus étendu de toutes les solutions de visioconférence Logitech, MeetUp permet à toutes les personnes présentes dêtre vues. Sensibilité : -27dB
+- Des Micros Antiparasites : Les trois microphones omnidirectionnels antiparasite avec annulation de lécho et dotés de la technologie Beamforming sont optimisés pour les petites salles de conférence
+- La Technologie Avancée de lObjectif Logitech : Pour une qualité supérieure des vidéos avec une résolution, une vitesse, une fluidité, un équilibre des couleurs et un détail incomparables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071KBDVV5{{</world>}}

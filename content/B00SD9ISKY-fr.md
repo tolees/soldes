@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 240 Go, 2,5 », 520 Mo/s, 6 Gbit/s
 - Capacité du disque dur (Go) : 1,0
 - Appareils compatibles : ordinateur de bureau
-- Capacité de stockage de la mémoire : 240,0
-- 240 Go, 2,5 », 520 Mo/s, 6 Gbit/s
 - Type de connectivité : SATA
+- Capacité de stockage de la mémoire : 240,0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00SD9ISKY{{</world>}}

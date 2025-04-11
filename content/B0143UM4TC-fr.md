@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité: Intel 200 Series, Intel 300 Series, Intel 400 Series, Intel 500 Series, Intel X299, AMD 300 Series, AMD 400 Series, AMD 500 Series, AMD X570
-- Chaque module LPX Vengeance est assemblé avec un dissipateur de chaleur en aluminium pour une dissipation plus rapide de la chaleur
+- Tension: 1,35 V
+- La hauteur du module Vengeance LPX est soigneusement conçue pour sadapter aux boîtiers de petite taille ou les systèmes dans lesquels lespace est compté
 - Vengeance LPX est optimisé et testé pour la compatibilité avec les dernières cartes mères Intel X99, 100 et 200 et offre des fréquences plus élevées, une plus grande bande passante et une faible consommation dénergie
-- Broche mémoire du paquet : 288
+- Chaque module LPX Vengeance est assemblé avec un dissipateur de chaleur en aluminium pour une dissipation plus rapide de la chaleur
 - Disponible en plusieurs couleurs pour correspondre à votre carte mère, à vos composants ou simplement à votre style
 - Type de mémoire : 16 Go (2 x 8 Go) DDR4 DRAM 3200MHz C16. Latence testée: 16-18-18-36. Latence du SPD: 15-15-15-36
-- Tension: 1,35 V
-- Vitesse SPD : 2133 MHz
-- La hauteur du module Vengeance LPX est soigneusement conçue pour sadapter aux boîtiers de petite taille ou les systèmes dans lesquels lespace est compté
+- Compatibilité: Intel 200 Series, Intel 300 Series, Intel 400 Series, Intel 500 Series, Intel X299, AMD 300 Series, AMD 400 Series, AMD 500 Series, AMD X570
+- Broche mémoire du paquet : 288
 - Prise en charge de XMP 2.0 pour un overclocking automatique et fluide
+- Vitesse SPD : 2133 MHz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0143UM4TC{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Comporte 2 poignées de maintien pour plus de sécurité
 - Dimensions géantes pour jouer ou se détendre
 - Poids du colis: 4.1 kilograms
-- Comporte 2 poignées de maintien pour plus de sécurité
 - Un design stylé et coloré
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nécessite un Pont Hue (non fourni)
 - Fixez le Hue Play gradient lightstrip à larrière de votre moniteur 32 à 34" grâce aux supports inclus
+- Nécessite un Pont Hue (non fourni)
 - Lancez la synchronisation avec lapplication de bureau Hue Sync pour voir laction sur votre écran se refléter dans la lumière.
 - Obtenez un dégradé de lumière réactive et colorée pour votre configuration de jeu !
 

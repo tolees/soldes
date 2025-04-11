@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - coussin de couchage ou toilette intégrable
+- Avec design meuble
 - avec design meuble
-- Hauteur de marche 9 cm
 - Coussin de couchage ou toilette intégrable
 - entrée : 20 x 15 cm
-- Avec design meuble
+- Hauteur de marche 9 cm
 - Coussin de couchage ou bac à litière intégrable
 - intérieur : 54 x 38 x 40 cm
 

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✅ Rechargeable: utilisez le câble USB pour recharger, même lors de son utilisation. Fonctionne avec Amazon Fire TV, Amazon Fire TV 4K et Amazon Fire Stick (nécessite une ligne OTG), PC, Ordinateur portable, Raspberry Pi2/3, Mac OS , Windows 8/10.
-- ✅ Clavier multimédia Ovegna Q9, sans fil Wireless (dongle USB inclus) avec souris à pavé tactile, rétroéclairé par LED. Contient batterie rechargeable intégrée.
 - ✅ Commande traitée et envoyé depuis la France. Suivi et support téléphonique.
-- ✅ Retirez le récepteur (dongle USB) du cache arrière, puis branchez le récepteur USB sur votre appareil.
+- ✅ Clavier multimédia Ovegna Q9, sans fil Wireless (dongle USB inclus) avec souris à pavé tactile, rétroéclairé par LED. Contient batterie rechargeable intégrée.
 - ✅ Après 3 minutes dinactivité, le clavier passe en mode veille. Dans ce cas, tous les voyants séteignent. En appuyant sur nimporte quelle touche, le touchpad se remet en marche. Idéal pour les appareils tels que les Smart TV, Raspberry Pi, ordinateurs portables Mac OS, Xbox 360, Xbox One, PS3, PS4, Google Android TV Box, HTPC IPTV et autres appareils ...
+- ✅ Retirez le récepteur (dongle USB) du cache arrière, puis branchez le récepteur USB sur votre appareil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N58D5NT{{</world>}}

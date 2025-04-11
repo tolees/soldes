@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les personnages peuvent tenir debout sur leur paddles
 - Le hamac peut être accroché sous la pagode
+- Les personnages peuvent tenir debout sur leur paddles
 - Partez à la rencontre des dauphins roses deau douce, à bord de vos paddles
 - Le bout de la queue des des dauphins peut se courber pour les maintenir debout
 

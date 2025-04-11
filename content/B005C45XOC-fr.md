@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plaque dextraction avec 8 rainures pour réception des bras extracteurs
-- Broche d’extraction 16 mm avec bille de centrage et entraînement 24 mm
-- Bras extracteurs 18 mm
 - Convient pour différents entraxes et écarts
 - Pour le montage non destructif de poulies de courroie crantée
+- Bras extracteurs 18 mm
+- Broche d’extraction 16 mm avec bille de centrage et entraînement 24 mm
+- Plaque dextraction avec 8 rainures pour réception des bras extracteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005C45XOC{{</world>}}

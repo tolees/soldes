@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pièces dans le set : huit pcs.
 - Poignée en T
+- Pièces dans le set : huit pcs.
+- Acier chrome vanadium extra-fin, satiné mat, chromé
 - Acier trempé
 - TX-TORX percé
-- Acier chrome vanadium extra-fin, satiné mat, chromé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007XUL1MQ{{</world>}}

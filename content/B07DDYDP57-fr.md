@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faible teneur en sucre, avec seulement 2 g par barre
 - Cet en-cas gourmand à faible teneur en sucre est parfait pour être dégusté à tout moment de la journée, en cas de petit creux ou comme récompense après le sport
 - Une sélection de nos dernières barres protéinées, notamment: Chocolate Chip Salted Caramel, Chocolate Chip Cookie Dough, Fudged Up, White Chocolate Salted Peanut, Dark Chocolate Mint, Dark Chocolate Raspberry, Cookies and Crème, Birthday Cake, Jaffa Quake, Caramel Chaos, White Chocolate Cookie and Peanut Nutter.
 - Certifié par le programme Informed Sport, il peut être consommé par les athlètes et le personnel militaire soumis à des tests de dépistage de produits stupéfiants
+- Faible teneur en sucre, avec seulement 2 g par barre
 - Riche en protéines, plus de 20 g par barre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

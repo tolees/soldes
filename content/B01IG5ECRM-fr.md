@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Extérieur : cuir et synthétique
+- Style : Beetle 18751
 - Baskets sportives Camper
 - Baskets classiques Camper Beetle
-- Style : Beetle 18751
+- Extérieur : cuir et synthétique
 - Type de fermeture : lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})

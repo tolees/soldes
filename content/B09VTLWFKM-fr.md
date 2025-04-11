@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOTRE HISTOIRE, LEUR DESTIN : Sauverez-vous vos amis ou vous-même ? Vos choix façonneront l’histoire et la différence entre la vie et la mort. EXPÉRIENCE CINÉMATOGRAPHIQUE SAISISSANTE : Motion capture, éclairages et jeu dacteurs stars dHollywood donnent vie aux horreurs de Hacketts Quarry.
+- Bonus préco/day-one : Pack de filtres Horreur à lancienne Trois filtres visuels cinématographiques reprenant chacun le style dune époque du cinéma dhorreur ! Grain de pellicule 8 mm (horreur indé), image VHS à lancienne (années 80) ou filtre cinématographique classique N&B (classique).
 - * La fonctionnalité multijoueur nest disponible quentre plateformes de même génération et de même constructeur.
 - ÉPOUVANTE PARTAGÉE : max 8 amis en ligne*, les invités votent les décisions critiques et participent à l’histoire ! En coop locale, contrôlez un(e) mono. EXPÉRIENCE SUR-MESURE : Difficulté réglable pour vivre une expérience horrifique adaptée. Mode Cinéma pour visionner un thriller haletant.
-- Bonus préco/day-one : Pack de filtres Horreur à lancienne Trois filtres visuels cinématographiques reprenant chacun le style dune époque du cinéma dhorreur ! Grain de pellicule 8 mm (horreur indé), image VHS à lancienne (années 80) ou filtre cinématographique classique N&B (classique).
+- VOTRE HISTOIRE, LEUR DESTIN : Sauverez-vous vos amis ou vous-même ? Vos choix façonneront l’histoire et la différence entre la vie et la mort. EXPÉRIENCE CINÉMATOGRAPHIQUE SAISISSANTE : Motion capture, éclairages et jeu dacteurs stars dHollywood donnent vie aux horreurs de Hacketts Quarry.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VTLWFKM{{</world>}}

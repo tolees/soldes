@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Totalement compatible avec le système t-stak
 - Pour transporter facilement tous vos accessoires, embouts de vissage et consommables
 - Poignée de transport intégrée
-- Totalement compatible avec le système t-stak
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07QK9NJ44{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le gel, enrichi à la provitamine B5 et testé dermatologiquement
 - Contient un réservoir de gel hydratant conçu pour offrir une protection optimale pour la peau
-- Une barrière protectrice pour un rasage confortable
+- Le gel, enrichi à la provitamine B5 et testé dermatologiquement
 - Rase confortablement grce à ses 5 lames
+- Une barrière protectrice pour un rasage confortable
 - Le réservoir de gel pivote pour plus de précision
 
 [🛒 Achète-le!!]({{< param buyurl >}})

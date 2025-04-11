@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autodécharge extrêmement progressive permettant de maintenir 80 % de la capacité
+- Lot de 16 piles AAA rechargeables 800 mAh pour appareils photo numériques, télécommandes, etc.
 - Produit livré dans un emballage "Déballer sans sénerver" par Amazon
 - Pré-chargées et prêtes à lemploi dès la sortie de l’emballage
-- Lot de 16 piles AAA rechargeables 800 mAh pour appareils photo numériques, télécommandes, etc.
+- Autodécharge extrêmement progressive permettant de maintenir 80 % de la capacité
 - Associe les avantages des piles alcalines AAA (prêtes à lemploi) à ceux des piles rechargeables (réutilisables)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

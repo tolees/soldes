@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - TOUTES LES PATOUNES SUR LE PONT – Un ou deux joueurs peuvent contrôler chaque chiot de la PatPatrouille, incluant Chase, Stella, Marcus et Everest, et faire usage de leurs compétences uniques
+- CHERCHE LES OBJETS À COLLECTIONNER – Utilise les friandises pour chiot pour débloquer des tenues de chiot, des timbres de carte postale, des émotes, des autocollants de véhicule et plus encore
 - TOUT UN MONDE À EXPLORER – Sauve le monde en effectuant des missions à la Grande Vallée, la montagne de Jake, la Jungle et Barkingburg
 - JOUE, SAUVE, EXPLORE – Découvre une toute nouvelle histoire de la PatPatrouille, des moments provenant du dessin animé et des missions bonus à trouver durant ton exploration
-- CHERCHE LES OBJETS À COLLECTIONNER – Utilise les friandises pour chiot pour débloquer des tenues de chiot, des timbres de carte postale, des émotes, des autocollants de véhicule et plus encore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9R1KQZK{{</world>}}

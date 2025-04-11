@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie de performance vidéo (VPG-20)1 pour des vidéos Full HD infaillibles
-- Testée pour une durabilité dans les conditions extrêmes (entre -25 ˚C et 85 ˚C, -13 ˚F et 185 ˚F)
-- Capacités de 16 Go, 32 Go, 64 Go et 128 Go**
 - Capacités de 16 Go, 32 Go, 64 Go et 128 Go**
 - Des vitesses de transferts élevées allant jusquà 120 Mo/s* pour une efficacité accrue des flux de travail
 - Des vitesses de transferts élevées allant jusquà 120 Mo/s* pour une efficacité accrue des flux de travail
+- Capacités de 16 Go, 32 Go, 64 Go et 128 Go**
+- Des vitesses de capture élevées allant jusquà 85 Mo/s* pour des prises plus rapides en mode rafale continue [32 Go-128 Go uniquement]
+- Testée pour une durabilité dans les conditions extrêmes (entre -25 ˚C et 85 ˚C, -13 ˚F et 185 ˚F)
 - Testée pour une durabilité dans les conditions extrêmes (entre -25 ˚C et 85 ˚C, -13 ˚F et 185 ˚F)
 - Des vitesses de capture élevées allant jusquà 85 Mo/s* pour des prises plus rapides en mode rafale continue [32 Go-128 Go uniquement]
 - Garantie de performance vidéo (VPG-20)1 pour des vidéos Full HD infaillibles
-- Des vitesses de capture élevées allant jusquà 85 Mo/s* pour des prises plus rapides en mode rafale continue [32 Go-128 Go uniquement]
+- Garantie de performance vidéo (VPG-20)1 pour des vidéos Full HD infaillibles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00NUB2TWI{{</world>}}

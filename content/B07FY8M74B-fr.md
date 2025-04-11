@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compact, discret et polyvalent : placez Hue Play sur le meuble près de votre TV ou cachez-le derrière ; vous pouvez même facilement le monter à l’arrière de votre TV (crosse et support de montage TV avec autocollant 3M inclus)
-- Contrôlez vos lumières avec votre voix : Compatible avec tous les assistants vocaux Echo et avec tous les assistants Google Nest. Le pont Hue est requis pour les appareils Amazon Echo (1ère génération) et Echo dot (1ère génération).
 - Il ny a pas dalimentation électrique incluse avec ce produit
 - Profitez de toutes les fonctionnalités Hue de loisirs (synchronisation avec les films, les jeux et la musique, scénarios lumineux personnalisables et intégration d’autres partenaires) ; pont Hue supplémentaire nécessaire (vendu séparément)
+- Contrôlez vos lumières avec votre voix : Compatible avec tous les assistants vocaux Echo et avec tous les assistants Google Nest. Le pont Hue est requis pour les appareils Amazon Echo (1ère génération) et Echo dot (1ère génération).
 - Extension pour Philips Hue Play
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

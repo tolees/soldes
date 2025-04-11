@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Apprends les bases du magnétisme et utilise-les pour créer des réactions magnétiques contrôlées; Stimule la créativité, limagination et lintellect
-- Créer un système de transmission de mouvement sans contact en utilisant les forces magnétiques dattraction et de répulsion
 - Construis des modèles mobiles entraînés par les forces invisibles dattraction et de répulsion magnétiques
+- Créer un système de transmission de mouvement sans contact en utilisant les forces magnétiques dattraction et de répulsion
+- La série Geomag, récompensée par de nombreux prix, a permis aux enfants de tous âges de développer leur imagination et leur curiosité grâce à la science des constructions magnétiques
+- Apprends les bases du magnétisme et utilise-les pour créer des réactions magnétiques contrôlées; Stimule la créativité, limagination et lintellect
 - Convient aux enfants âgés de 7 ans et plus; Composé de 160 pièces
 - Chaque jeu de construction peut être combiné avec le reste de la gamme Mechanics Gravity; Le système "Easy Combo" permet de construire plusieurs modèles et de les relier en seulement 3 mouvements
-- La série Geomag, récompensée par de nombreux prix, a permis aux enfants de tous âges de développer leur imagination et leur curiosité grâce à la science des constructions magnétiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B094N7GCRM{{</world>}}

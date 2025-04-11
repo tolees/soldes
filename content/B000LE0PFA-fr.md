@@ -29,14 +29,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un séchage rapide
-- Imprimez vous même vos étiquettes pour bouteilles !
 - Une finition professionnelle
-- Certification: FSC
-- Sa blancheur et son grammage garantissent un rendu des couleurs parfait et une impression sans bavure.
+- Une finition professionnelle
+- Imprimez vous même vos étiquettes pour bouteilles !
 - Un séchage rapide
 - Pochette de 20 feuilles (80 étiquettes) A4 jet dencre. Etiquettes adhésives qualité photo.
-- Une finition professionnelle
+- Certification: FSC
 - Formats disponibles dans notre logiciel gratuit Apli Agipa Soft Pro
+- Sa blancheur et son grammage garantissent un rendu des couleurs parfait et une impression sans bavure.
 - Formats disponibles dans notre logiciel gratuit Apli Agipa Soft Pro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

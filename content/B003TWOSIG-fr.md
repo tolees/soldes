@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élimination rapide des copeaux et longévité des forets grâce aux deux taillants et à lhélice double
+- Longueur de travail: 43mm
+- Alliage de cobalt et foret en acier rapide HSS pour une résistance à l’usure et une protection contre la chaleur
 - Conformité à la norme DIN 338, foret type N angle hélice avec pointe de perçage 135° et tolérance de diamètre h8
 - Foret hélicoïdal HSS avec cobalt garantissant des performances durables lors du perçage dans l’acier inoxydable
-- Alliage de cobalt et foret en acier rapide HSS pour une résistance à l’usure et une protection contre la chaleur
-- Longueur de travail: 43mm
+- Élimination rapide des copeaux et longévité des forets grâce aux deux taillants et à lhélice double
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003TWOSIG{{</world>}}

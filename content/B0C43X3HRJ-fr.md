@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- un système de combat stratégique basé sur la gestion de l’espace et du timing unique aux arts martiaux japonais.
+- Des boss redoutables qui plongent les joueurs dans le monde sublime de GetsuFumaDen
 - 8 magnifiques niveaux inspirés du style Ukiyo-e
 - Contenu : Cartouche de jeu (GetsuFumaDen: Undying Moon, Mini artbook numérique, Mini bande-son numérique, Jeu Famicom original de 1987), Artbook physique complet à couverture rigide, Bande-son physique complète (2 CD), 3 cartes illustrées
-- Des boss redoutables qui plongent les joueurs dans le monde sublime de GetsuFumaDen
 - Une gamme variée darmes qui peuvent être combinées pour sadapter à différents styles de jeu.
+- un système de combat stratégique basé sur la gestion de l’espace et du timing unique aux arts martiaux japonais.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C43X3HRJ{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les deux nations en guerre des séries Neptunia et SENRAN KAGURA ont maintenant uni leurs forces dans un RPG bourré daction !
+- Chaque personnage possède un ensemble unique de compétences, connues sous le nom de Ninja Art, enchaînez les pour laisser vos ennemis dans la poussière
+- Restez stylé avec Spirit Gems, collectez les pour améliorer vos statistiques ! La légende dit que les organiser dans certaines combinaisons peut ajouter des améliorations encore plus importantes
 - Choisissez deux personnages parmi 10 possibles, dont les nouveaux Yuuki et Goh, et lancez vous dans laventure. Basculez rapidement entre les deux pendant les combats !
 - Testez votre équilibre avec la manette de mouvement PS4 dans le mini-jeu Peaches & Cream Meditationou ou votre puissance avec le contenu daprès-match, Yomi-Training !
-- Restez stylé avec Spirit Gems, collectez les pour améliorer vos statistiques ! La légende dit que les organiser dans certaines combinaisons peut ajouter des améliorations encore plus importantes
-- Chaque personnage possède un ensemble unique de compétences, connues sous le nom de Ninja Art, enchaînez les pour laisser vos ennemis dans la poussière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09C9CFTCQ{{</world>}}

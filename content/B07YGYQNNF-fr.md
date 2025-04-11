@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Optimisée pour les dispositifs Android
 - Débits UHS-I Classe 10 jusqu’à 100Mo/s*
-- Durable
 - Capacités jusquà 512Go
+- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YGYQNNF{{</world>}}

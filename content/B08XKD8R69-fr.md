@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie d’hyper-traitement CORSAIR AXON : Transmet vos entrées jusqu’à 8x plus rapidement que les claviers gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- Format compact, grandes fonctionnalités : Le K65 RGB MINI fournit des fonctionnalités de pointe dans un format 60 % pour s’intégrer facilement dans les espaces réduits.
 - Switches mécaniques 100% CHERRY MX RGB Red : Offrent un déplacement linéaire avec une tension de ressort minimale afin de fournir une frappe de touche douce, idéale pour le gaming.
+- Technologie d’hyper-traitement CORSAIR AXON : Transmet vos entrées jusqu’à 8x plus rapidement que les claviers gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
+- Format compact, grandes fonctionnalités : Le K65 RGB MINI fournit des fonctionnalités de pointe dans un format 60 % pour s’intégrer facilement dans les espaces réduits.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08XKD8R69{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UniFi 6 Lite a un design compact et de taille nano, de sorte quil peut utiliser des coques et des accessoires de montage nanoHD.
-- Montez lUniFi 6 Lite horizontalement au plafond pour couvrir un environnement de haute densité, ou montez-le verticalement sur le mur pour étendre sa portée.
-- Gigabit Ethernet, alimenté avec 802.3af PoE
-- UniFi 6 Lite est un point daccès Wi-Fi 6 2 x 2 qui offre un taux de radio agrégé jusquà 1,5 Gbps avec 5 GHz (MU-MIMO et OFDMA) et 2,4 GHz (MIMO).
 - Point daccès Wi-Fi 6 avec MIMO double bande 2x2 dans un design compact pour un montage discret.
+- Montez lUniFi 6 Lite horizontalement au plafond pour couvrir un environnement de haute densité, ou montez-le verticalement sur le mur pour étendre sa portée.
+- UniFi 6 Lite est un point daccès Wi-Fi 6 2 x 2 qui offre un taux de radio agrégé jusquà 1,5 Gbps avec 5 GHz (MU-MIMO et OFDMA) et 2,4 GHz (MIMO).
+- Gigabit Ethernet, alimenté avec 802.3af PoE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T6CKG5B{{</world>}}

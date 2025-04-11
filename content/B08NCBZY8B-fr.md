@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Solution d’enregistrement complète : il ne vous manque plus qu’un ordinateur
-- Tous les câbles dinterconnexion nécessaires sont inclus
-- Moniteurs de studio actifs compacts 2 voies Eris E3.5
-- Casque découte de studio HD7
-- Interface audio/MIDI AudioBox USB 96
 - Logiciel denregistrement et de production (station de travail audio numérique) Studio One Artist et ensemble de plug-ins Studio Magic avec Ableton Live Lite
+- Tous les câbles dinterconnexion nécessaires sont inclus
+- Interface audio/MIDI AudioBox USB 96
+- Solution d’enregistrement complète : il ne vous manque plus qu’un ordinateur
+- Casque découte de studio HD7
 - Microphone électrostatique de studio M7 et trépied de bureau
+- Moniteurs de studio actifs compacts 2 voies Eris E3.5
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08NCBZY8B{{</world>}}

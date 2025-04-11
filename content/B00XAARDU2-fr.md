@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HC 500 acier carbone
 - Étui nylon
 - 2 clés
+- HC 500 acier carbone
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00XAARDU2{{</world>}}

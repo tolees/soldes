@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PLUG & PLAY: Insérer le RACING MODULE assigne automatiquement les activations de la croix directionnelle sur les quatre boutons arrières (configuration recommandée: Racing module à la place de la croix directionnelle)
-- VOTRE STYLE DE JEU : Technologie T-MOD permettant la possibilité de déplacer le RACING WHEELMODULE sur l’emplacement de votre choix sans outils, pour un confort de jeu et une capacité de remplacement inépuisable
 - IMMERSION UNIQUE : Module volant unique avec système de retour au centre, revêtement antidérapant et angle de rotation de 95° pour une simplee maîtrise des virages et drifts
 - EXPERIENCE DE JEU OPTIMALE : Logiciel THRSUSTMAPPERX gratuit pour joueurs Xbox et PC (Windows 10 & 11) pour configurer la sensibilité et les zones mortes directement accessibles via le menu XBOX
+- VOTRE STYLE DE JEU : Technologie T-MOD permettant la possibilité de déplacer le RACING WHEELMODULE sur l’emplacement de votre choix sans outils, pour un confort de jeu et une capacité de remplacement inépuisable
 - POUR LES FAN: Manette personnalisée aux couleurs de FORZA HORIZON 5 et sous licence officielle XBOX et FORZA HORIZON 9
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

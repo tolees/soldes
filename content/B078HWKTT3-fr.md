@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteur laser (résolution 1600 DPI) convenant à la plupart des surfaces, y compris le verre ; fonctionne avec 2 piles AA (incluses) ; voyant LED de batterie et bouton marche/arrêt pour une autonomie prolongée
+- Connexion sans fil 2,4 GHz ; fonctionne avec un petit récepteur USB pouvant rester brancher sur votre ordinateur sans gêner les autres ports
 - Souris sans fil de taille normale avec molette cliquable et boutons avant/arrière sous le pouce pour une navigation rapide et facile dans les grands documents et les pages internet
 - Conception ergonomique pour les droitiers ; profil lisse et légèrement courbé parfaitement adapté à la paume de la main pour un plus grand confort
 - Compatible avec Windows 7, 8 et 10
-- Connexion sans fil 2,4 GHz ; fonctionne avec un petit récepteur USB pouvant rester brancher sur votre ordinateur sans gêner les autres ports
+- Capteur laser (résolution 1600 DPI) convenant à la plupart des surfaces, y compris le verre ; fonctionne avec 2 piles AA (incluses) ; voyant LED de batterie et bouton marche/arrêt pour une autonomie prolongée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B078HWKTT3{{</world>}}

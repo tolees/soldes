@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MODE DEMPLOI : Brossez-vous minutieusement les dents, deux fois par jour, pendant au moins deux minutes ou conformément aux conseils dun professionnel de la santé bucco-dentaire.
-- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
 - NETTOYAGE ET PROTECTION EFFICACE DES DENTS : Ce dentifrice procure une excellente protection de toute la bouche, pour une hygiène buccale préservée.
+- MODE DEMPLOI : Brossez-vous minutieusement les dents, deux fois par jour, pendant au moins deux minutes ou conformément aux conseils dun professionnel de la santé bucco-dentaire.
 - HYGIÈNE BUCCO-DENTAIRE OPTIMALE : Grâce à sa formule unique, Colgate Triple Action offre un nettoyage complet dune efficacité optimale pour une bouche propre, fraîche et saine au quotidien.
+- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
 - TRIPLE ACTION : Cette pâte dentifrice aide à lutter contre les caries, à enlever les taches à la surface des dents et à lutter contre la mauvaise haleine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

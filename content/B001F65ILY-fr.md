@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Media Range
 - Cake Box
 - 10 pièces
-- Media Range
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001F65ILY{{</world>}}

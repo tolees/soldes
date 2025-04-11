@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ainsi quun pare-soleil.
 - Ce set comprend une poussette double.
+- Ainsi quun pare-soleil.
 - De quoi transporter les bébés Sylvanian en toute tranquillité.
 - Bienvenue dans le monde merveilleux des Sylvanian Families. Les familles Sylvanian sont composées de toutes sortes danimaux vivant dans une forêt imaginaire
 

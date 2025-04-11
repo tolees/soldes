@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande passante: 10 - 20.000 Hz
 - Fiches mini jack stéréo 3.5mm et jack stéréo 6.3mm
-- Casque studio fermé
 - Impédance: 63 Ohm
+- Bande passante: 10 - 20.000 Hz
+- Casque studio fermé
 - Produits compatibles : PDW-850, PMW-100, PMW-150, PMW-320L
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

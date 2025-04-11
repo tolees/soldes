@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme ergonomique ultra confortable
 - Illumination AIMO: LED RGB et effets lumineux
-- Technologie de clic Titan Click exceptionnellement précise
 - Interrupteurs Omron exclusifs: 50 millions de clics
+- Technologie de clic Titan Click exceptionnellement précise
+- Forme ergonomique ultra confortable
 - Capteur optique Roccat Owl-Eye jusqu’à 16 000 DPI
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

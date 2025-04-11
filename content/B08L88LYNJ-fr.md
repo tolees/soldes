@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 % nylon
 - Deux compartiments zippés
 - Dans notre coloris Black
+- 100 % nylon
 - Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
 - Aucun produit dorigine animale nest utilisé pour fabriquer ce produit 100 % végan
 

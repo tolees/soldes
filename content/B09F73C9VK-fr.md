@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Créez vos propres configurations de lumières colorées intelligentes
+- Contrôlez l’éclairage à l’aide de votre voix (Assistants vocaux: Amazon Alexa, Apple HomeKit (via pont Hue), Assistant Google, Microsoft Cortana (via pont Hue))
 - Contrôlez jusquà 10 éclairages grâce à lapplication bluetooth
 - Obtenez des scénarios lumineux parfaitement adaptés à vos activités quotidiennes
 - Débloquez toute létendue des fonctionnalités de léclairage intelligent grâce au pont Hue
-- Contrôlez l’éclairage à l’aide de votre voix (Assistants vocaux: Amazon Alexa, Apple HomeKit (via pont Hue), Assistant Google, Microsoft Cortana (via pont Hue))
+- Créez vos propres configurations de lumières colorées intelligentes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09F73C9VK{{</world>}}

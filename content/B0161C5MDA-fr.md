@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘𝗟: Convient à tous les fabricants et marques ainsi quaux écran incurvée - si la position et la taille de la norme VESA ainsi que le poids du moniteur sont supportés!
 - 𝗥𝗘𝗖𝗢𝗠𝗠𝗔𝗡𝗗É 𝗣𝗢𝗨𝗥: Montage au mur pour moniteur de 43cm/17" 48cm/19" 53cm/21" 56cm/22" 58cm/23" 61cm/24" 69cm/27" 76cm/30" 81cm/32" 84cm/33" pouces
-- 𝗡𝗢𝗥𝗠𝗘𝗦 𝗩𝗘𝗦𝗔 𝗦𝗨𝗣𝗣𝗢𝗥𝗧É𝗘𝗦: Capacité de charge jusquà 20kg. Adaptable avec monitor ordinateur ou moniteur de dimension VESA: 50x50 75x75 100x100
 - 𝗖𝗢𝗡𝗧𝗘𝗡𝗨 𝗗𝗘 𝗟𝗔 𝗟𝗜𝗩𝗥𝗔𝗜𝗦𝗢𝗡: Acroche moniteur pré-assemblé, chevilles seulement pour murs en béton, vis pour lécran télé, vis murales et accessoires.
 - 𝗙𝗢𝗡𝗖𝗧𝗜𝗢𝗡𝗦: Attache mural avec orientation de 180 degrés, quand le moniteur est de max 74cm de largeur. Accroche pour ecran moniteur avec inclinaison de +/-15 degré. Distance du mur de 60-430mm
+- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘𝗟: Convient à tous les fabricants et marques ainsi quaux écran incurvée - si la position et la taille de la norme VESA ainsi que le poids du moniteur sont supportés!
+- 𝗡𝗢𝗥𝗠𝗘𝗦 𝗩𝗘𝗦𝗔 𝗦𝗨𝗣𝗣𝗢𝗥𝗧É𝗘𝗦: Capacité de charge jusquà 20kg. Adaptable avec monitor ordinateur ou moniteur de dimension VESA: 50x50 75x75 100x100
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0161C5MDA{{</world>}}

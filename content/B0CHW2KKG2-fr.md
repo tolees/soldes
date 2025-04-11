@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SUBTILE : Un cachet de cire estampillé 1670 décore chaque flacon avec élégance et majesté
 - UTILISATION : Elle est spécialement formulée pour une utilisation au stylo-plume et au stylo roller Elle est en effet finement filtrée afin de ne pas boucher les stylos Convient aussi à la plume de verre, calame, plume doie, porte-plume etc
 - FUCHSIA DE MAGELLAN : Teinte tendance, alliant douceur et chaleur, dispose dun nuage de paillettes dorées Le fuchsia de Magellan a été découvert en Amérique du sud Il rend hommage à Fernand de Magellan
-- DETAIL : Flacon de 50 ml au design original et noble : le bouchon est recouvert de cire à cacheter qui rappelle la couleur de lencre Fabriqué en France
 - ANNIVERSAIRE : Les Encres 1670, de la Collection exclusive Jacques Herbin, commémorent lannée de la création de la maison Jacques Herbin en plein coeur de Paris Fabriqué en France
-- SUBTILE : Un cachet de cire estampillé 1670 décore chaque flacon avec élégance et majesté
+- DETAIL : Flacon de 50 ml au design original et noble : le bouchon est recouvert de cire à cacheter qui rappelle la couleur de lencre Fabriqué en France
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHW2KKG2{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pauvre en sucre, pauvre en calories, pauvre en graisse et pauvre en cholestérol
-- Seulement 1,5 g de glucides par shake
 - Chez TPW, notre protéine de Whey provient de vaches nourries à lherbe pour une qualité optimale
 - Un shake protéiné de première qualité, ultra pur, fabriqué simplement avec un concentré de protéines de Whey 100% pur
 - Texture ultra lisse, sans granulométrie et sans arrière-goût
+- Pauvre en sucre, pauvre en calories, pauvre en graisse et pauvre en cholestérol
 - Contient un taux massif de 82 % de protéines - jusquà 20 g par portion
+- Seulement 1,5 g de glucides par shake
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00G2AJ9JK{{</world>}}

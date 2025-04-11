@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Collectionnez toutes les figurines Dragon Stars de Bandai
+- Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
 - Personnage : Majin Boo forme finale
 - Figurine 17 cm
-- Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
+- Collectionnez toutes les figurines Dragon Stars de Bandai
 - Plusieurs mains disponibles pour recréer toutes les scènes de la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})

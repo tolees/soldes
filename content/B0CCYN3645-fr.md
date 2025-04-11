@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Centrale dalarme avec clavier : Portée en champ libre 80 m (accessoires) Volume de lalarme 85 dB Sirène anti-arrachement Alimentation 12V DC 1A Wi-Fi 802 11b/g/n
 - Secours GSM fréquence 4G(carte sim non fournie) Batterie de secours 3,7V DC 1000 mAh Dimensions 135 x 135 x 25 mm Détecteur de mouvement sans fil : Angle de vue 110° Distance de détection 8 m max.
+- Sirène anti-arrachement Alimentation 3V DC 2 piles AA 1,5V (fournies) Dimensions 90 x 52 x 36,5 mm Détecteur douverture sans fil : Sirène anti-arrachement Alimentation 1,5V DC 1 pile AA 1,5V (fournie) Dimensions 48 x 71 x 18 mm Sirène intérieure filaire : Volume de lalarme 105 dB Alimentation : 12V DC 1A
 - Alarme sans fil connectée Wi-Fi / GSM KitAlarm - Contrôle à distance via lapplication iSCS Sentinel - Contrôle par la voix (compatible avec Google Assistant et Amazon Alexa) - Réseau de secours 4G Kit composé dune centrale dalarme, une sirène intérieure filaire, un détecteur de mouvement, un détecteur douverture, 2 télécommandes et 2 badges RFID
 - Dimensions : 109 x 109 x 55 mm Garantie 2 ans
-- Centrale dalarme avec clavier : Portée en champ libre 80 m (accessoires) Volume de lalarme 85 dB Sirène anti-arrachement Alimentation 12V DC 1A Wi-Fi 802 11b/g/n
-- Sirène anti-arrachement Alimentation 3V DC 2 piles AA 1,5V (fournies) Dimensions 90 x 52 x 36,5 mm Détecteur douverture sans fil : Sirène anti-arrachement Alimentation 1,5V DC 1 pile AA 1,5V (fournie) Dimensions 48 x 71 x 18 mm Sirène intérieure filaire : Volume de lalarme 105 dB Alimentation : 12V DC 1A
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCYN3645{{</world>}}

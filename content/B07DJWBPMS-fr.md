@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec détecteur de mouvement : Bébé déclenche des mélodies et des sons rigolos en secouant le hochet.
-- Version française
 - 3 boutons pour déclencher de la musique, découvrir les animaux, les couleurs et différents objets
+- Version française
 - Un hochet parlant et musical pour faire comme les grands !
+- Avec détecteur de mouvement : Bébé déclenche des mélodies et des sons rigolos en secouant le hochet.
 - De nombreux éléments à manipuler pour développer la motricité fine : un rouleau, trois clefs, des billes, un miroir ...
 
 [🛒 Achète-le!!]({{< param buyurl >}})

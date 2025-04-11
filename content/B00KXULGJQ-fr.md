@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indicateur intelligent : la LED intelligente indique la force du signal que le RE200 reçoit du routeur source ; suivez les indications lumineuses pour trouver la meilleure position pour votre re200
 - WiFi bi-bande 2.4 GHz et 5 GHz : vitesse combinée double bande jusquà 750 Mbps ; prend en charge jusquà 32 appareils connectés (16 appareils sur chaque bande)
-- Adaptateur Ethernet : grâce au port Ethernet, le RE200 peut également connecter des appareils câblés tels que des PC, des consoles de jeux, des lecteurs blu-ray et des téléviseurs intelligents
 - Connexion en une seule touche : pour connecter votre prolongateur de portée au réseau WiFi en quelques secondes, appuyez sur le bouton wps de votre routeur et sur le bouton RE du RE200 ; une fois connecté au routeur, vous pouvez repositionner le re200 nimporte où dans votre maison pour tirer le meilleur parti de la force du signal
+- Indicateur intelligent : la LED intelligente indique la force du signal que le RE200 reçoit du routeur source ; suivez les indications lumineuses pour trouver la meilleure position pour votre re200
+- Adaptateur Ethernet : grâce au port Ethernet, le RE200 peut également connecter des appareils câblés tels que des PC, des consoles de jeux, des lecteurs blu-ray et des téléviseurs intelligents
 - Amplifiez le WiFi dans les zones difficiles daccès : que ce soit à la maison ou au bureau, étendez la couverture sans fil et éliminez les zones dombre grâce à RE200, pour profiter dune connexion sans fil extrêmement fiable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

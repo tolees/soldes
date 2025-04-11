@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Intimy, marque française de référence : créée en 1987, la marque de bien-être sexuel intimy conçoit des produits de qualité
 - Conseils dutilisatio : enlevez lopercule placé sous le bouchon, puis revissez le bouchon
 - A utiliser pendant les rapports intimes
+- Intimy, marque française de référence : créée en 1987, la marque de bien-être sexuel intimy conçoit des produits de qualité
 - Produit de qualit : formulé à base deau et sans parfum, ce gel est aussi incolore, inodore, non gras, ne tâche pas et sélimine facilement à leau
 - Produit de qualit : formulé à base deau et sans parfum, ce gel est aussi incolore, inodore, non gras, ne tâche pas et sélimine facilement à leau
 

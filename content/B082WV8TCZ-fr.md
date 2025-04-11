@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajoutez une pincée de plaisir à une fête de famille ou à une soirée avec ce jeu qui embrouille les joueurs
 - Jeux de société
+- Ajoutez une pincée de plaisir à une fête de famille ou à une soirée avec ce jeu qui embrouille les joueurs
 - Ne convient pas aux enfants de moins de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Refroidissement silencieux : le ventilateur thermorégulé de 120 mm discret ne tourne à pleine vitesse qu’en cas de forte charge, et ralentit de nouveau à bas régime
+- Format compact : la longueur de 125 mm permet une intégration facile dans presque tous les boîtiers de PC modernes
+- Version ATX12V : v2.31
 - Certifiée 80 PLUS Bronze : fournit jusqu’à 88 % de rendement, générant ainsi moins de chaleur pour une facture d’électricité allégée
 - Gainage et boîtier noirs : les câbles gainés noir et le boîtier noirconviendront parfaitement au style de votre PC
-- Format compact : la longueur de 125 mm permet une intégration facile dans presque tous les boîtiers de PC modernes
 - Pleine puissance continue : les alimentations CORSAIR CV Series garantissent de fournir en permanence la puissance maximale nécessaire à votre système
-- Version ATX12V : v2.31
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08NZ6BH6R{{</world>}}

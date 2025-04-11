@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet article n est plus en solde !
 - Le concept du jeu de course multijoueur révolutionnaire, un joueur conduit, lautre construit la route. En même temps !
-- Multijoueur en local de 1 à 4 (4 modes de jeu en écran partagé) multijoueur en ligne à 2
 - Faites la course avec votre véhicule pendant que votre ami construit la route. Si vous allez trop lentement, vous explosez !
 - Cest chaotique, dangereux et fun, surtout en écran partagé à quatre joueurs !
+- Cet article n est plus en solde !
+- Multijoueur en local de 1 à 4 (4 modes de jeu en écran partagé) multijoueur en ligne à 2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08XR3TKVG{{</world>}}

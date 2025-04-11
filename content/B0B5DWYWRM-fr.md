@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisez les compétences de vos héros, foncez sur vos ennemis, sautez en équipe sur vos alliés, dissimulez-vous derrières des abris mais restez stratégique.
+- Sauvez de mystérieux Sparks à travers la galaxie qui vous donneront des pouvoirs spéciaux pour vous aider dans vos combats.
 - Constituez votre équipe de rêve avec trois héros à choisir parmi neuf personnages éclectiques.
 - Affrontez de tout nouveaux boss ainsi que des ennemis bien connus, dans toute la galaxie.
-- Sauvez de mystérieux Sparks à travers la galaxie qui vous donneront des pouvoirs spéciaux pour vous aider dans vos combats.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5DWYWRM{{</world>}}

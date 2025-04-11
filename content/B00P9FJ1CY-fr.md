@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Qualité archive
-- Fabriqué en Chine
 - Protège et stocke les bandes dessinées jusqu "à 178 x 268 mm
+- Fabriqué en Chine
 - Très haute clarté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

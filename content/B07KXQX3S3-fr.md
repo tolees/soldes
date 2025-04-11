@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Carte mémoire sous licence Nintendo pour la console Nintendo Switch
-- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
-- Ajoutez instantanément jusquà 128 Go despace de stockage supplémentaire
-- Température de fonctionnement: -25ºC à 85ºC (-13ºF à 185ºF).Température de stockage -40°F à 185°F (-40°C à 85°C)
 - Stockez des jeux numériques et du contenu supplémentaire en un seul endroit pour y jouer nimporte où
+- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
+- Température de fonctionnement: -25ºC à 85ºC (-13ºF à 185ºF).Température de stockage -40°F à 185°F (-40°C à 85°C)
+- Ajoutez instantanément jusquà 128 Go despace de stockage supplémentaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KXQX3S3{{</world>}}

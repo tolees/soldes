@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Crayon en bois éco-certifié
 - Fabrication européenne
 - Permet de reporter vite et avec précision le tracé du mur et dadapter ainsi avec précision la dernière lame à ce tracé
 - Réglable sur largeur de planches jusquà 235 mm
-- Crayon en bois éco-certifié
 - Différentes dimensions réglables sur le guide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

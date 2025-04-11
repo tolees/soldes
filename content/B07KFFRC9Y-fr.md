@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col montant qui conserve la chaleur et protège des éléments
 - Confort et apport thermique optimal grâce à la matière polaire
-- Disponible dans plusieurs coloris, Idéal pour un usage au quotidien
 - Contenu : 1x Columbia Steens Moutain Polaire homme avec demi-patte pressionnée, Polaire à filaments MTR 100 % polyester, 250 g, Couleur : Black, Taille : M, ArtNo 1861681
+- Col montant qui conserve la chaleur et protège des éléments
+- Disponible dans plusieurs coloris, Idéal pour un usage au quotidien
 - Pull polaire homme avec demi-fermeture pressionnée qui apporte un confort durable en toutes saisons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

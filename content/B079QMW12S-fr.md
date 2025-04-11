@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Led
-- Technologie stylet et les performances
 - Bouton bouton dalimentation/Bluetooth
 - 4 Expresskeys pour un accès rapide sur les raccourcis clavier
 - Les ports comprennent USB Type A (pour PC) et micro USB (plateau) via le cble USB fourni
+- Led
+- Technologie stylet et les performances
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079QMW12S{{</world>}}

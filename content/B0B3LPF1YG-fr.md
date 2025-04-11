@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesses de transfert jusquà 2 000 Mo/s
+- Boîtier en caoutchouc de silicone robuste de couleur vert militaire.
+- Mémoire flash 3D NAND
 - Capacité jusquà 2 To
 - Interface USB 3.2 Gen 2x2 avec prise en charge de lUASP (USB Attached SCSI Protocol)
-- Mémoire flash 3D NAND
-- Boîtier en caoutchouc de silicone robuste de couleur vert militaire.
+- Vitesses de transfert jusquà 2 000 Mo/s
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3LPF1YG{{</world>}}

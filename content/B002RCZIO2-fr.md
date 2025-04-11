@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REM eau de Toilette de la marca Reminiscence
 - Un produit unique et exclusif de la marque Reminiscence
+- REM eau de Toilette de la marca Reminiscence
 - REM eau de Toilette pour femme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

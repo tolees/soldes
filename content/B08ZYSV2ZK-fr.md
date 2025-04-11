@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Condensateurs 105 °C 100 % japonais : L’utilisation de composants internes de qualité supérieure permet une alimentation stable et une fiabilité à long terme
-- Compatible avec Modern Standby : Délais de passage, de la veille au fonctionnement, extrêmement rapides et une efficacité à faible charge améliorée
-- Ventilateur à lévitation magnétique de 135 mm : Utilise un roulement à lévitation magnétique et des rotors conçus sur mesure pour des performances et une fiabilité inégalées et une discrétion absolue
-- Température nominale sortie continue : 50°C
-- Certification 80 PLUS Gold : Fonctionnement très efficace garantissant une réduction de la consommation, du bruit et des températures
-- Entièrement modulaire : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné
-- Connecteur EPS12V : Pour une grande compatibilité avec les cartes graphiques et cartes mères modernes
 - Compatibilité PSU (Bloc dalimentation): normes ATX12V v.2.4 et EPS 2.92
+- Certification 80 PLUS Gold : Fonctionnement très efficace garantissant une réduction de la consommation, du bruit et des températures
+- Compatible avec Modern Standby : Délais de passage, de la veille au fonctionnement, extrêmement rapides et une efficacité à faible charge améliorée
+- Entièrement modulaire : Raccordez uniquement les câbles dont votre système a besoin, facilitant la conception d’un système épuré et ordonné
+- Température nominale sortie continue : 50°C
+- Condensateurs 105 °C 100 % japonais : L’utilisation de composants internes de qualité supérieure permet une alimentation stable et une fiabilité à long terme
+- Connecteur EPS12V : Pour une grande compatibilité avec les cartes graphiques et cartes mères modernes
+- Ventilateur à lévitation magnétique de 135 mm : Utilise un roulement à lévitation magnétique et des rotors conçus sur mesure pour des performances et une fiabilité inégalées et une discrétion absolue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08ZYSV2ZK{{</world>}}

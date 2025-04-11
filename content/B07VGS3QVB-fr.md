@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- pour des résultats professionnels
 - Le sèche-cheveux Philips Pro est doté dun moteur professionnel AC produisant un flux dair pouvant atteindre 130 km/h*
+- pour des résultats professionnels
 - Un séchage rapide et puissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

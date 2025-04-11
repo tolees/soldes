@@ -28,22 +28,22 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La nouvelle interface permet une commande commode de plusieurs appareils réalisant la même fonction – chauffage, climatisation, arrosage
-- VoIP compatible
-- Fonction de géolocalisation
-- Boîtier de luxe en aluminium
-- équipée de son propre disque RECOVERY qui garde une copie de sécurité d’un système concerné
-- Interface simple et conviviale
-- Processeur dual-core Intel Atom 1,6 GHz: rapide et efficace
-- 1 GB DE MEMOIRE RAM Disque 2GB SLC
-- Fréquence du processeur: 1, 6 GHz
-- progammation rapide du planning de fonctionnement de tous les appareils en fonction de l’heure de la journée et du jour de la semaine
-- Connectivité (Remarque ) : Le Home Center 2 est un système de gestion de bâtiments accessible via une interface graphique basée sur le navigateur ou via lapplication mobile dédiée. Il gère les appareils Z-Wave de FIBARO et dautres produits certifiés Z-Wave. Une vaste bibliothèque de plugins pour Smart-TV , caméras, thermostats, systèmes dalarme, lecteurs multimédia et systèmes de contrôle est préinstallée
-- Dimension: W 225 mm x L 185 mm x H 42 mm
-- Fabricant : Fibaro
 - Type de source dalimentation: plastic
+- équipée de son propre disque RECOVERY qui garde une copie de sécurité d’un système concerné
+- La nouvelle interface permet une commande commode de plusieurs appareils réalisant la même fonction – chauffage, climatisation, arrosage
+- Processeur dual-core Intel Atom 1,6 GHz: rapide et efficace
+- Fréquence du processeur: 1, 6 GHz
+- Dimension: W 225 mm x L 185 mm x H 42 mm
 - Boîtier de luxe en aluminium
+- progammation rapide du planning de fonctionnement de tous les appareils en fonction de l’heure de la journée et du jour de la semaine
+- VoIP compatible
+- Boîtier de luxe en aluminium
+- 1 GB DE MEMOIRE RAM Disque 2GB SLC
+- Interface simple et conviviale
+- Fonction de géolocalisation
 - Central home center 2
+- Connectivité (Remarque ) : Le Home Center 2 est un système de gestion de bâtiments accessible via une interface graphique basée sur le navigateur ou via lapplication mobile dédiée. Il gère les appareils Z-Wave de FIBARO et dautres produits certifiés Z-Wave. Une vaste bibliothèque de plugins pour Smart-TV , caméras, thermostats, systèmes dalarme, lecteurs multimédia et systèmes de contrôle est préinstallée
+- Fabricant : Fibaro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AUFV7N4{{</world>}}

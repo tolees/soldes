@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cartouches dencre séparées : faites des économies en ne remplaçant que la couleur épuisée
-- Imprimante multifonction compacte : économisez du temps, de lespace et de largent
-- Contient : lappareil principal, 4 cartouches dencre séparées, logiciel (CD), instructions de montage, câble électrique, document de garantie
 - Impression mobile facile : imprimez facilement depuis votre smartphone ou votre tablette
-- Systèmes d’exploitation compatibles : Mac OS X 10.9.5 ou version ultérieure, Windows 10 (32/64 bits), Windows 11 ou version ultérieure, Windows 7 (32/64 bits), Windows 8 (32/64 bits), Windows 8.1 (32/64 bits), Windows Server 2003, Windows Vista (32 bits/64 bits), Windows XP SP3 ou version ultérieure (32 bits), XP Professional x64 Edition SP2, macOS 11 ou version ultérieure
 - Série associée : 604 Ananas
+- Imprimante multifonction compacte : économisez du temps, de lespace et de largent
+- Systèmes d’exploitation compatibles : Mac OS X 10.9.5 ou version ultérieure, Windows 10 (32/64 bits), Windows 11 ou version ultérieure, Windows 7 (32/64 bits), Windows 8 (32/64 bits), Windows 8.1 (32/64 bits), Windows Server 2003, Windows Vista (32 bits/64 bits), Windows XP SP3 ou version ultérieure (32 bits), XP Professional x64 Edition SP2, macOS 11 ou version ultérieure
+- Contient : lappareil principal, 4 cartouches dencre séparées, logiciel (CD), instructions de montage, câble électrique, document de garantie
+- Cartouches dencre séparées : faites des économies en ne remplaçant que la couleur épuisée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8X457PN{{</world>}}

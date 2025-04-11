@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure thermo-réfléchissante Omni-Heat
 - Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Construction type chausson Omni-Tech respirante et imperméable à coutures étanches
+- Doublure thermo-réfléchissante Omni-Heat
 - Tige en maille/cuir imperméable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

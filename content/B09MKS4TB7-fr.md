@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Installation simple et rapide sur 2 fils entre la platine de rue et le moniteur
-- produit 2: Badge RFID supplémentaire
-- produit 1: Plateforme bi-famille évolutive jusqu’à 3 écrans, 2 platines de rue et 1 caméra par famille - Double commande serrure ET portail - Vision nocturne couleur - Porte étiquette et bouton éclairé - Platine de rue et visière en aluminium - Fonction polarity protect pour protéger votre visiophone contre les erreurs de câblage
-- produit 1: Contrôle d’accès RFID intégré à la platine de rue pour ouvrir gâche et portail avec votre badge RFID (maxi 20 badges)
 - produit 2: Badges
-- produit 2: Lot de 2
 - produit 1: Très haute qualité d’image et très grand angle de vue (130°)
 - produit 2: Badge RFID
+- produit 2: Lot de 2
+- produit 1: Contrôle d’accès RFID intégré à la platine de rue pour ouvrir gâche et portail avec votre badge RFID (maxi 20 badges)
+- produit 2: Badge RFID supplémentaire
+- produit 1: Installation simple et rapide sur 2 fils entre la platine de rue et le moniteur
+- produit 1: Plateforme bi-famille évolutive jusqu’à 3 écrans, 2 platines de rue et 1 caméra par famille - Double commande serrure ET portail - Vision nocturne couleur - Porte étiquette et bouton éclairé - Platine de rue et visière en aluminium - Fonction polarity protect pour protéger votre visiophone contre les erreurs de câblage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MKS4TB7{{</world>}}

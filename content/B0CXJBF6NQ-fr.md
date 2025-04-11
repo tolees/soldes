@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vidéos 4K ultra-HD et nacelle à 3 axes pour des images cinématographiques - Capturez des moments saisissants dans toutes les conditions de luminosité, des levers de soleil aux scènes de nuit. La nacelle à 3 axes garantit une stabilité parfaite pour des séquences dignes du grand écran.
 - Boostez votre créativité avec des QuickShots intelligents - En quelques clics, Mini 4K réalise automatiquement des vidéos de niveau professionnel grâce aux modes Spirale, Dronie, Fusée, Cercle et Boomerang.
-- Résistance au vent de 38 km/h (niveau 5) - Les moteurs sans balais améliorent la puissance et permettent un décollage à des altitudes allant jusqu’à 4 000 mètres. En outre, la portée de transmission peut atteindre jusqu’à 10 km[2].
-- Simple d’utilisation et sûr - DJI Mini 4K prend en charge le décollage/atterrissage en un clic, le retour au point de départ (RTH) automatique par GPS, le vol stationnaire stable et un pilotage simplifié idéal pour les débutants. Des ressources d’apprentissage supplémentaires intégrées à l’application facilitent la maîtrise rapide du vol.
-- Moins de 249 g, certification de classe C0. Grâce à son poids ultra-léger, Mini 4K est autorisé à voler dans les catégories A1 et A3. Les opérateurs ne sont pas tenus de passer des tests.
-- Remarques : la réglementation relative aux drones peut varier en fonction de l’utilisation que vous en faites. Pour votre sécurité, veillez à consulter et à respecter scrupuleusement les lois et réglementations locales en vigueur avant de piloter votre drone.
 - Comprend DJI Mini 4K, trois batteries, une station de recharge bidirectionnelle, un sac à bandoulière et tout le nécessaire pour un vol prolongé. Deux batteries supplémentaires vous permettent d’immortaliser davantage de moments précieux, en famille ou entre ami(e)s.
 - Création continue grâce à une autonomie prolongée - Choisissez parmi trois packs : une batterie (31 min), deux batteries (62 min) ou trois batteries (93 min)[3]. Dites adieu à l’anxiété liée à la batterie.
+- Résistance au vent de 38 km/h (niveau 5) - Les moteurs sans balais améliorent la puissance et permettent un décollage à des altitudes allant jusqu’à 4 000 mètres. En outre, la portée de transmission peut atteindre jusqu’à 10 km[2].
+- Remarques : la réglementation relative aux drones peut varier en fonction de l’utilisation que vous en faites. Pour votre sécurité, veillez à consulter et à respecter scrupuleusement les lois et réglementations locales en vigueur avant de piloter votre drone.
+- Moins de 249 g, certification de classe C0. Grâce à son poids ultra-léger, Mini 4K est autorisé à voler dans les catégories A1 et A3. Les opérateurs ne sont pas tenus de passer des tests.
+- Vidéos 4K ultra-HD et nacelle à 3 axes pour des images cinématographiques - Capturez des moments saisissants dans toutes les conditions de luminosité, des levers de soleil aux scènes de nuit. La nacelle à 3 axes garantit une stabilité parfaite pour des séquences dignes du grand écran.
+- Simple d’utilisation et sûr - DJI Mini 4K prend en charge le décollage/atterrissage en un clic, le retour au point de départ (RTH) automatique par GPS, le vol stationnaire stable et un pilotage simplifié idéal pour les débutants. Des ressources d’apprentissage supplémentaires intégrées à l’application facilitent la maîtrise rapide du vol.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXJBF6NQ{{</world>}}

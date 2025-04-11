@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Friteuse diététique innovante avec un système de cuisson qui permet de cuisiner par le haut, par le bas ou simultanément en haut et en bas en entourant les aliments à 360° et en répartissant la chaleur de manière homogène.
-- Température réglable degré à degré de 100 à 240 ° avec une minuterie qui fonctionne de 5 à 90 minutes pour pouvoir cuisiner toutes les recettes possibles. Comprend un menu pour cuisiner du yaourt à une température prédéfinie de 60 °C configurable de 0 minutes à 16 heures et demie.
 - Friteuse automatique qui cuit sans peine dhuile avec 8 programmes préconfigurés pour faciliter son utilisation et sa compréhension : sauter, griller, frites, four, manuel, poêle, riz et yaourt. Comprend une pelle pour retirer automatiquement avec laquelle vous pouvez cuisiner sans effort et un manche, les deux amovibles.
 - Il a la possibilité de cuisiner deux plats à la fois à deux niveaux grâce à la grille, vous pouvez combiner plusieurs préparations à la fois en profitant du temps au maximum. Il dispose dune cuve avec revêtement céramique tricouche en pierre de 3 litres de capacité dans laquelle vous pouvez cuisiner jusquà 3,5 kg. de pommes de terre en évitant que les aliments ne collent au fond.
 - Comprend un manuel et un livre de recettes pour pouvoir cuisiner différents plats dune manière facile avec 40 recettes pour apprendre à cuisiner avec cet appareil révolutionnaire et 8 vidéocettes supplémentaires pour voir en format vidéo à quel point il est simple de cuisiner avec ce modèle de friteuse diététique. Il a une puissance de 1350 W pour cuisiner nimporte quel plat de manière efficace. Dimensions de la friteuse : 31 x 39 x (47 cm avec la poignée) x 23 cm.
+- Température réglable degré à degré de 100 à 240 ° avec une minuterie qui fonctionne de 5 à 90 minutes pour pouvoir cuisiner toutes les recettes possibles. Comprend un menu pour cuisiner du yaourt à une température prédéfinie de 60 °C configurable de 0 minutes à 16 heures et demie.
+- Friteuse diététique innovante avec un système de cuisson qui permet de cuisiner par le haut, par le bas ou simultanément en haut et en bas en entourant les aliments à 360° et en répartissant la chaleur de manière homogène.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YP577NC{{</world>}}

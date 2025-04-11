@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionne sur secteur
 - 2 ans de prise en charge
-- Miroir grossissant x1 avec miroir amovible x10 pour des détails précis
-- Le miroir est équipé dun éclairage LED à trois niveaux : faible, moyen, élevé
 - Avec 2 réglages dambiance lumineuse : mode statique et intermittente
+- Le miroir est équipé dun éclairage LED à trois niveaux : faible, moyen, élevé
+- Miroir grossissant x1 avec miroir amovible x10 pour des détails précis
+- Fonctionne sur secteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZHPY45C{{</world>}}

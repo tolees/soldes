@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - ASSISTANTS VOCAUX ⭐ compatible avec Alexa et Google Home, vous pouvez baisser ou monter le chauffage à la voix
 - PILOTEZ & PROGRAMMEZ ⭐ vos radiateurs électriques à distance
 - AUTOMATISEZ ⭐ par exemple allumer le chauffage quand la température extérieure est inférieure à 18 degrés mais couper le chauffage si une fenètre est ouverte
-- INTUITIF ⭐ Ecran rétro éclairé pour connaître à tout moment le mode de chauffe du radiateur. Boutons tactiles pour réglage manuel
 - ÉCONOMIES D’ÉNERGIE ⭐ En coupant les radiateurs inutiles, en programmant des horaires pertinents et en utilisant les automatisations vous faites des économies dénergie et donc des économies tout court
+- INTUITIF ⭐ Ecran rétro éclairé pour connaître à tout moment le mode de chauffe du radiateur. Boutons tactiles pour réglage manuel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HDBZRGK{{</world>}}

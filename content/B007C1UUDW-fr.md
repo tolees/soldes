@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Novap - Panneau de signalisation - Designation.Sens interdit -
 - Fabrication française
+- Rigide
 - Trous de au dos.
 - Stabilise aux UV
-- Rigide
-- Novap - Panneau de signalisation - Designation.Sens interdit -
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007C1UUDW{{</world>}}

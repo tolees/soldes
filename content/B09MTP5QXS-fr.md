@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctions connectées : Smart Notifications et la personnalisation avec Connect IQ
 - Suivi de l’activité quotidienne : de la forme physique et la santé avec les fonctions Body Battery, analyse du sommeil, respiration
-- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
 - Autonomie : jusqu’à 30h en mode GPS (+88%) et 28 jours en mode montre connectée (+100%) grâce à une nouvelle batterie
+- Fonctions connectées : Smart Notifications et la personnalisation avec Connect IQ
+- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
 - Deux tailles de montre 40 et 45mm avec un double écran monochrome haute définition de 1’
 
 [🛒 Achète-le!!]({{< param buyurl >}})

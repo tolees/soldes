@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DVB4314GL
+- Xiaomi Router AX3200 35756
 - Xiaomi Router AX3200 35756
 - Durable
+- DVB4314GL
 - Xiaomi
-- Xiaomi Router AX3200 35756
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QHFBCTX{{</world>}}

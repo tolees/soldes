@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le lubrifiant Just Glide est un lubrifiant à base deau de fabrication Allemande.
-- Le lubritiant our les connaisseurs
-- Just glide á base d‘eau assure une lubrifi cation de longue durée
 - Contenance : 200 ml
 - Totalement compatible avec les préservatifs
 - Il est idéal pour une utilisation anale
-- Formulation de haute qualité
+- Le lubritiant our les connaisseurs
+- Just glide á base d‘eau assure une lubrifi cation de longue durée
 - Testé dermatologiquement sur la peau et les muqueuses, soluble dans leau et non gras, incolore.
+- Formulation de haute qualité
+- Le lubrifiant Just Glide est un lubrifiant à base deau de fabrication Allemande.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AOGB66W{{</world>}}

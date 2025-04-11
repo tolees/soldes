@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Suspensions indépendantes, différentiels pour un bon contrôle de puissance
-- Batterie rechargeable et amovible avec chargeur fournis, temps de jeu 20 minutes
-- Taille 26, 5 x 18, 5 x 12 cm, notice multilingue
 - Coupure en fin de décharge pour éviter dendommager la batterie.
 - Voiture 4 roues motrices, roule jusquau 50 km/h à léchelle 1/18ème
+- Batterie rechargeable et amovible avec chargeur fournis, temps de jeu 20 minutes
+- Taille 26, 5 x 18, 5 x 12 cm, notice multilingue
+- Suspensions indépendantes, différentiels pour un bon contrôle de puissance
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SX1MQ1H{{</world>}}

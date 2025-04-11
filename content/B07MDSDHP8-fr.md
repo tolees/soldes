@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crocodile brodé ton sur ton
-- Portefeuille zippé L.12.12 Concept petit piqué uni 12 cartes
-- Dimensions 20 x 10,5 x 3,5 cm
-- Extérieur PVC petit piqué
 - Fermeture zippée
+- Dimensions 20 x 10,5 x 3,5 cm
+- Crocodile brodé ton sur ton
 - Intérieur 12 cartes, porte-monnaie et poches multiples
+- Portefeuille zippé L.12.12 Concept petit piqué uni 12 cartes
+- Extérieur PVC petit piqué
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07MDSDHP8{{</world>}}

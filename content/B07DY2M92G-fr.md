@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une expérience solo dans laquelle vous incarnerez Shadow Marshal
 - 9 heures de campagne solo et 10 maps
+- Une expérience solo dans laquelle vous incarnerez Shadow Marshal
 - Jusqu’à 24 joueurs en mode multi-joueurs, Intégrez les classes « Sniper », « Striker » ou « Support », des modes de jeux adaptés à tous types de joueurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

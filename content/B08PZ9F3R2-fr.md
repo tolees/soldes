@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 modes de jeu : Vocabulaire, Découvertes & Sons amusants
-- Version française
-- 2 chansons + effets sonores amusants. Réglage du volume sonore et arrêt automatique. Fonctionne avec 2 piles LR6/AA
 - Un imagier bilingue de 18 mois à 4 ans pour partir à la découverte de ses endroits préférés
 - 12 pages éducatives plastifiées et illustrées avec capteurs sensitifs
 - 100% bilingue : Bébé découvre les mots de vocabulaire en français et en anglais
+- Version française
+- 3 modes de jeu : Vocabulaire, Découvertes & Sons amusants
+- 2 chansons + effets sonores amusants. Réglage du volume sonore et arrêt automatique. Fonctionne avec 2 piles LR6/AA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08PZ9F3R2{{</world>}}

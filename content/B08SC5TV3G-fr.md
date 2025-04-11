@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
+- Contrôle des couleurs RVB, env. 16 millions doptions de couleurs réglables
+- Angle de faisceau : 110°
+- Température de couleur : 3 000 K (blanc chaud)
+- Gradable
+- Technologie LED la plus récente et durable ; aucune ampoule ordinaire nest incluse
 - Contrôlable via la commande vocale disponible sur Assistant Google ou Amazon Alexa
 - Contrôlable via lapplication LEDVANCE SMART+ WiFi (avec minimum Android 4.4 ou iOS 9.0)
-- Angle de faisceau : 110°
-- Technologie LED la plus récente et durable ; aucune ampoule ordinaire nest incluse
-- Température de couleur : 3 000 K (blanc chaud)
-- Contrôle des couleurs RVB, env. 16 millions doptions de couleurs réglables
-- Gradable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SC5TV3G{{</world>}}

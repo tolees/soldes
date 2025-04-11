@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
-- 1. Filament pour imprimante 3D (1,75 mm de diamètre, new gris, bobine de 1 kg), emballage sous vide PLA
 - 4. Température dimpression : 190-220℃
+- 2. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
 - 5. Tolérance de diamètre +/- 0,02 mm
+- 1. Filament pour imprimante 3D (1,75 mm de diamètre, new gris, bobine de 1 kg), emballage sous vide PLA
 - 3. Pas dimpuretés, pas de sabots
 
 [🛒 Achète-le!!]({{< param buyurl >}})

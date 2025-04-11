@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pieds en caoutchouc antidérapants
-- Avec Instructions avec conseils et astuces pour un entraînement optimal
-- Trois cônes supplémentaires
 - Tour avec 3 compartiments
+- Pieds en caoutchouc antidérapants
+- Trois cônes supplémentaires
+- Avec Instructions avec conseils et astuces pour un entraînement optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002XCTUIQ{{</world>}}

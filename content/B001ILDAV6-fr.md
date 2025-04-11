@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Traitement de surface: chromage mat
 - avec cannelure
-- En acier au chrome-vanadium
+- Traitement de surface: chromage mat
 - Douilles à embouts, Carré 12,5 mm (1/2") Profil T (pour Torx): T20 - T25 - T27 - T30 - T40 - T45 - T50 - T55 - T60 - T70
 - Douilles pour clé, Carré 12,5 mm (1/2"): Profil E E10 - E11 - E12 - E14 - E16 - E18 - E20 - E22 - E24
+- En acier au chrome-vanadium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001ILDAV6{{</world>}}

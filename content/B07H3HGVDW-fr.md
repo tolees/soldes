@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilise la technologie Apple Pencil pour que vous puissiez écrire et dessiner naturellement, sans craindre de manquer une seule ligne ou un seul détail, ou convertir votre écriture manuscrite en texte avec Scribble.
-- Logitech Crayon offre jusquà 7,5 heures décriture avec une seule charge.
-- Logitech Crayon se connecte instantanément à liPad. Dessinez en toute simplicité. Aucun couplage de dispositifs complexe requis ou autres retards imposés. Besoin dune ligne plus épaisse ou plus fine? Inclinez le crayon: la pointe intelligente ajuste automatiquement le tracé.
 - Pour iPad Pro 12,9 pouces (3e et 4e générations), iPad Pro 11 pouces (2e génération), iPad (6e, 7e, 8e et 9e générations), iPad Air (3e, 4e et 5e générations) et iPad Mini (5e génération), iOS mis à jour vers la version 12.2 et les versions ultérieures
+- Crayon offre une saisie précise et rapide avec des centaines dapplications indispensables prises en charge par Apple Pencil et la liste sallonge chaque jour.
 - Besoin dune ligne plus épaisse ou plus fine? Inclinez le crayon: la pointe intelligente ajuste automatiquement le tracé.
 - Logitech Crayon reste là où vous lavez posé. Dans un sac ou votre poche, Logitech Crayon est suffisamment résistant pour vous accompagner partout.
-- Crayon offre une saisie précise et rapide avec des centaines dapplications indispensables prises en charge par Apple Pencil et la liste sallonge chaque jour.
+- Logitech Crayon se connecte instantanément à liPad. Dessinez en toute simplicité. Aucun couplage de dispositifs complexe requis ou autres retards imposés. Besoin dune ligne plus épaisse ou plus fine? Inclinez le crayon: la pointe intelligente ajuste automatiquement le tracé.
+- Logitech Crayon offre jusquà 7,5 heures décriture avec une seule charge.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07H3HGVDW{{</world>}}

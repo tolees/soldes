@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à déplacer à la fois fermé et avec le linge suspendu grâce aux 4 roues pivotantes; dont deux avec frein; Taille ouverte H164 P80 L176 cm; fermé H164 P55 L18 cm
-- Dessus central avec tiges en aluminium peint, qui peuvent être positionnées au centre ou en haut pour étaler les feuilles
-- Corde à linge pliante avec structure en bois de hêtre massif verni
-- 33 mètres de fil utile pour suspendre le linge, fermé il se dresse tout seul en prenant très peu de place
 - Les ailes latérales indépendantes et inclinables ne peuvent être ouvertes que partiellement; robustes et légères, elles sont en polypropylène
+- Facile à déplacer à la fois fermé et avec le linge suspendu grâce aux 4 roues pivotantes; dont deux avec frein; Taille ouverte H164 P80 L176 cm; fermé H164 P55 L18 cm
+- Corde à linge pliante avec structure en bois de hêtre massif verni
+- Dessus central avec tiges en aluminium peint, qui peuvent être positionnées au centre ou en haut pour étaler les feuilles
+- 33 mètres de fil utile pour suspendre le linge, fermé il se dresse tout seul en prenant très peu de place
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008CM7JZC{{</world>}}

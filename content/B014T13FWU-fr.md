@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CONTENU DE LA LIVRAISON : 1 Villeroy & Boch Ovid ensemble de verres à vin rouge (se composant de 4 verres à vin rouge), capacité : 590 ml, matériau : cristallin, couleur : transparent (réf. art. 11-7209-8110)
 - LA PLUS HAUTE QUALITɠ: verre gourmet robuste en cristallin brillant, neutre au goût, résistant au lave-vaisselle et durable, avec la qualité connue de Villeroy & Boch.
-- MIX & MATCH : le design sobre de ces verres se combinent à la perfection avec d’autres collections de Villeroy & Boch, ils peuvent être complétés idéalement avec d’autres verres Ovid, et conviennent même pour la gastronomie.
-- SUGGESTION DE CADEAU : ces verres à vin rouge intemporels en cristallin de haute qualité conviennent à la perfection pour le quotidien, mais pas uniquement, ils sont également parfaits comme cadeaux à offrir pour une pendaison de crémaillère ou un mariage.
 - 4 VERRES À VIN ROUGE : ces verres à vin rouge à pied étroit empêchent la boisson de se réchauffer et allient design minimaliste et fonctionnalité. D’un volume de 590 ml, la forme intéressante de leur calice permet un contact parfait du vin avec l’air ce qui lui permet de libérer des arômes uniques.
+- SUGGESTION DE CADEAU : ces verres à vin rouge intemporels en cristallin de haute qualité conviennent à la perfection pour le quotidien, mais pas uniquement, ils sont également parfaits comme cadeaux à offrir pour une pendaison de crémaillère ou un mariage.
+- MIX & MATCH : le design sobre de ces verres se combinent à la perfection avec d’autres collections de Villeroy & Boch, ils peuvent être complétés idéalement avec d’autres verres Ovid, et conviennent même pour la gastronomie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B014T13FWU{{</world>}}

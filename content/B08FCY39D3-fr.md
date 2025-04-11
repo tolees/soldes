@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une folle aventure tactique
-- Un voyage épique avec huit héros
 - Mario + the lapins crétins kingdom battle code in box switch
+- Un voyage épique avec huit héros
 - Jeu à télécharger - code de téléchargement uniquement, ne contient pas de cartouche de jeu.
+- Une folle aventure tactique
 - Une toute nouvelle expérience mario
 
 [🛒 Achète-le!!]({{< param buyurl >}})

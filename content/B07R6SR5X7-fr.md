@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo
 - Swoosh
+- Logo
 - Poignets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Appareil photo de 50 Mégapixels
 - Ecran de 6.6 - 4G: Oui
 - Smartphone sous systeme Android 14
-- Appareil photo de 50 Mégapixels
 - Memoire interne: 128 Go - RAM: 6 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

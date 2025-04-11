@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAPACITÉ MAXIMUM PAR CONSOMMABLE: Impressions 4000 pages compatible avec ISO/IEC 19798
-- Imprimantes compatibles: HLL8260CDW
-- Nombre de pages imprimables: 4000
-- Quantité 1
 - Cartouche de toner
+- CAPACITÉ MAXIMUM PAR CONSOMMABLE: Impressions 4000 pages compatible avec ISO/IEC 19798
+- Quantité 1
+- Nombre de pages imprimables: 4000
+- Imprimantes compatibles: HLL8260CDW
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06VW3X7TY{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sur la base des instructions de montage, les pièces précises doivent être assemblées. La peinture des pièces peut être faite selon vos propres idées.
 - Le kit de construction de qualité supérieure de TAMIYA doit être monté par vous-même.
+- Kit de modélisation détaillé à léchelle 1:12.
 - Le montage indépendant est accompagné dun manuel dinstructions étape par étape ou illustré. Les instructions de montage sont incluses dans la livraison.
 - Les outils, la colle et les peintures ne sont pas inclus dans la livraison du kit en plastique. Ceux-ci doivent être achetés facultativement.
-- Sur la base des instructions de montage, les pièces précises doivent être assemblées. La peinture des pièces peut être faite selon vos propres idées.
-- Kit de modélisation détaillé à léchelle 1:12.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BCVD1R6W{{</world>}}

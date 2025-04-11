@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les joueurs pourront aussi profiter de lexpérience multijoueur emblématique de Call of Duty, ainsi que de lincroyable nouvelle expérience Zombies développée par Treyarch
+- Call of Duty: Vanguard, est développé par Sledgehammer Games, où les joueurs seront plongés dans la Seconde Guerre mondiale, au milieu de combats sanglants et, grande première, aux 4 coins du monde
 - Lédition Standard inclut le jeu Call of Duty: Vanguard (Inclut la version PS4 du jeu - Jouez sur PS5 grâce à la rétrocompatibilité)
 - Combattez sur tous les fronts: Combats aériens au-dessus du Pacifique, parachutage en terres françaises, défense de Stalingrad avec la précision dun sniper, et campagnes en Afrique du Nord
 - À travers une campagne solo captivante, un groupe de soldats délite venus de pays différents feront face à la grave menace qui pèse sur le monde
-- Call of Duty: Vanguard, est développé par Sledgehammer Games, où les joueurs seront plongés dans la Seconde Guerre mondiale, au milieu de combats sanglants et, grande première, aux 4 coins du monde
-- Les joueurs pourront aussi profiter de lexpérience multijoueur emblématique de Call of Duty, ainsi que de lincroyable nouvelle expérience Zombies développée par Treyarch
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HYGJQ45{{</world>}}

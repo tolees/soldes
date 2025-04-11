@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une installation incorrecte peut être dangereuse. Consultez un professionnel et respectez les normes électriques lors de linstallation
-- Si vous souhaitez utiliser les LED dindication de fusible sur le Lynx Distributor, il est également nécessaire de le connecter à un shunt Victron Energy Lynx.
 - Il dispose dun espace pour les fusibles CC individuels par groupe CC et, en option, dune LED pour chaque fusible afin dindiquer si le fusible est grillé.
-- Le Lynx Distributor contient une barre de bus positive et négative et fournit une connexion pour 4 circuits déquipement CC individuels, des charges ou des groupes CC.
+- Si vous souhaitez utiliser les LED dindication de fusible sur le Lynx Distributor, il est également nécessaire de le connecter à un shunt Victron Energy Lynx.
+- Une installation incorrecte peut être dangereuse. Consultez un professionnel et respectez les normes électriques lors de linstallation
 - Il surveillera létat de chaque fusible et indiquera son état avec une LED en façade.
+- Le Lynx Distributor contient une barre de bus positive et négative et fournit une connexion pour 4 circuits déquipement CC individuels, des charges ou des groupes CC.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FML8JHG{{</world>}}

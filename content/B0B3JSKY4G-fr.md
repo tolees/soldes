@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cachez-vous dans l’ombre pour échapper aux ennemis, ou pour les éliminer.
 - Utilisez un système d’inventaire enrichi par une mise à niveau des armes et différentes pièces d’ équipement
-- Parcourez 5 niveaux en monde semi-ouvert
 - Jeu de profil en 2,5D pour plus d’immersion
+- Parcourez 5 niveaux en monde semi-ouvert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B3JSKY4G{{</world>}}

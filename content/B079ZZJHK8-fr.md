@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- A partir de 2 ans.
+- 9 Cubes en bois illustrés et inspirés des plus grands contes.
 - Cubes en bois de 4,5 cm de côté.
 - La petite sirène, le chat botté, Boucle dor et les 3 ours … parmi les visuels à reconstituer.
-- 9 Cubes en bois illustrés et inspirés des plus grands contes.
-- A partir de 2 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079ZZJHK8{{</world>}}

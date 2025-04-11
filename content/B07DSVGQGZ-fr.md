@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vente interdite aux mineurs. Labus dalcool est dangereux pour la santé. A consommer avec modération
-- Plateau égouttoir amovible, compatible lave-vaisselle
-- Une grande variété de marques de bière propose des fûts de 6L compatibles avec PerfectDraft : Hoegaarden, Jupitel, Leffe Blonde, Stella Artois, Bavaria, Bavaria Hooghbock, Dommelsch, Grolsch, Hertog Jan, Diekirch Premium, Diekirch Grand Cru, Becks, Becks Gold, Diebels, Diebels Pils, Hasseröder, Franziskaner, Löwenbräu
 - Indications de température, de volume et de fraîcheur sur écran LCD
+- Une grande variété de marques de bière propose des fûts de 6L compatibles avec PerfectDraft : Hoegaarden, Jupitel, Leffe Blonde, Stella Artois, Bavaria, Bavaria Hooghbock, Dommelsch, Grolsch, Hertog Jan, Diekirch Premium, Diekirch Grand Cru, Becks, Becks Gold, Diebels, Diebels Pils, Hasseröder, Franziskaner, Löwenbräu
 - Ouverture en façade facilitant le changement de fût et poignée de tirage facilement amovible (avec sécurité enfant)
-- Fût non inclus
 - 30 jours de bière fraîche, à 3°
+- Fût non inclus
+- Plateau égouttoir amovible, compatible lave-vaisselle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DSVGQGZ{{</world>}}

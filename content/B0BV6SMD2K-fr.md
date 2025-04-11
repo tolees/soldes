@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Autofocus CMOS Dual Pixel II : reconnaît et suit les sujets, tout en conservant une mise au point nette
-- Wi-Fi et Bluetooth 2,4 GHz : transfert sans fil rapide, contrôle/déclenchement à distance de lappareil photo et GPS
-- Vidéos 4K 60p : clarté exceptionnelle des détails et des mouvements
 - Prise de vue en continu à 6/40 im./s : avec obturateur mécanique/électronique
+- Vidéos 4K 60p : clarté exceptionnelle des détails et des mouvements
+- Wi-Fi et Bluetooth 2,4 GHz : transfert sans fil rapide, contrôle/déclenchement à distance de lappareil photo et GPS
 - Capteur CMOS plein format 24,2 millions de pixels : léquilibre idéal entre définition et performances
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

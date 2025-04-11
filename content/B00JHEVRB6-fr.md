@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tweeter compensé de polyester imidique
+- Niveau de pression sonore : 91 dB/W.m
+- Capacité de puissance (puissance RMS), Puissance de crête de 250 W
+- Réponse de fréquence : 40-22 000 Hz
 - Alentour: Hybride (caoutchouc et tissu)
 - Impédance de 4 ohms
 - Aimant en ferrite
-- Tweeter compensé de polyester imidique
-- Capacité de puissance (puissance RMS), Puissance de crête de 250 W
-- Réponse de fréquence : 40-22 000 Hz
-- Niveau de pression sonore : 91 dB/W.m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JHEVRB6{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Permet deffectuer cinq cycles de détartrage. Convient à toutes les machines à café.
-- produit 1: LARGE CHOIX DE RECETTES: 18 boissons disponibles dont 1 inédite: la recette du Cortado (et expresso, LONG, Cappuccino, Latte Macchiato...)
-- produit 2: Delonghi SER3018 500ml
-- produit 2: Le flacon est 50% fait des plastiques recyclées. L’emballage est composé de matériaux recyclés et biodégradables.
 - produit 1: TECHNOLOGIE BEAN ADAPAT: Un système intuitif permettant d’ajuster la finesse de mouture idéale en fonction du café en grain utilisé. PrimaDonna Soul se règle automatiquement via l’application Coffee Link
-- produit 1: SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile
+- produit 2: Permet deffectuer cinq cycles de détartrage. Convient à toutes les machines à café.
+- produit 2: Le flacon est 50% fait des plastiques recyclées. L’emballage est composé de matériaux recyclés et biodégradables.
 - produit 1: CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
+- produit 2: Delonghi SER3018 500ml
+- produit 1: SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile
+- produit 1: LARGE CHOIX DE RECETTES: 18 boissons disponibles dont 1 inédite: la recette du Cortado (et expresso, LONG, Cappuccino, Latte Macchiato...)
 - produit 2: Le liquide détartrant est composé uniquement de matières premières végétales d’haute qualité et qui sont également biodégradables et respectueux de lenvironnement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

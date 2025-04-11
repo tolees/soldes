@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Shampooing protecteur de couleur Wella Professionals Colormotion+ 250 ml
 - 9. 94e+10
+- Shampooing protecteur de couleur Wella Professionals Colormotion+ 250 ml
 - Shampoo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

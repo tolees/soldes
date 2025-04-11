@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Imprime 4 000 pages en conformité avec les normes ISO/IEC 19798
-- Évite le gaspillage pour vous économiser du papier, du temps et de largent
 - Cartouche originale de haute qualité Brother
+- Évite le gaspillage pour vous économiser du papier, du temps et de largent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06W9KFD21{{</world>}}

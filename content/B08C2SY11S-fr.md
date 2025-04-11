@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les kits sont prêts à l’emploi et ne nécessitent aucune programmation particulière; distance maximale entre la plaque et le dernier moniteur: jusqu’à 100 m avec 1 mm2
-- Multilangues (italien, anglais, français, allemand, espagnol, portugais, grec, hollandais)
 - Appel intercommunicant entre postes intérieurs (de la même famille)
-- Extensibles: chaque bouton d’appel peut être associé à un maximum de 3 moniteurs
 - Instructions et tutoriels sur le site VIMAR
+- Multilangues (italien, anglais, français, allemand, espagnol, portugais, grec, hollandais)
+- Extensibles: chaque bouton d’appel peut être associé à un maximum de 3 moniteurs
+- Les kits sont prêts à l’emploi et ne nécessitent aucune programmation particulière; distance maximale entre la plaque et le dernier moniteur: jusqu’à 100 m avec 1 mm2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08C2SY11S{{</world>}}

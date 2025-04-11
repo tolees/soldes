@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour la première fois, un mode campagne inédit avec une histoire unique !
 - Attachez votre ceinture sur de tous nouveaux environnements tous plus dingues les uns que les autres !
 - Collectionnez plus de 130 véhicules, un tas de nouveaux bolides vous attendent !
+- Pour la première fois, un mode campagne inédit avec une histoire unique !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6R2QJVZ{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- 2502408001
 - XLC
 - Porte bidon AERO XLC
+- Durable
+- 2502408001
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08H82BF4G{{</world>}}

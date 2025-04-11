@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN LEVIER DE VITESSE A EFFET SONORE : Super ludique ! Un levier de vitesse mécanique (pas de pile) qui fait du bruit lorsquon lactionne et donne limpression à bébé de conduire comme un.e grand.e ! Cric-crac, en avant pour de nouvelles aventures !
 - MADE IN FRANCE DEPUIS… TOUJOURS ! : Depuis ses origines Falk relève le défi d’imaginer, concevoir et fabriquer ses jouets en France, dans nos ateliers situés à Oyonnax en région Rhône-Alpes, tout en travaillant avec des partenaires locaux dans le but de dynamiser l’activité économique de notre région et de limiter notre impact écologique.
+- DÉVELOPPE LA MOTRICITÉ ET LÉQUILIBRE DE LENFANT EN SAMUSANT : Au cours de ses 3 premières années, votre enfant va développer ses capacités psychomotrices. Dès leurs premiers pas, Falk accompagne vos petits bouts de choux dans le développement de leur équilibre et leur motricité ! Votre enfant bouge, trotte et explore son environnement, à la maison comme dans le jardin.
+- UN LEVIER DE VITESSE A EFFET SONORE : Super ludique ! Un levier de vitesse mécanique (pas de pile) qui fait du bruit lorsquon lactionne et donne limpression à bébé de conduire comme un.e grand.e ! Cric-crac, en avant pour de nouvelles aventures !
 - UN VOLANT DIRECTIONNEL POUR MANŒUVRER COMME LES GRANDS ! : Un tracteur qui se dirige comme un vrai. Idéal pour se faufiler dans les couloirs de la maison ou entre les arbres du jardin. Tuut Tuut ! Avec son klaxon, votre enfant vous avertit quil va falloir lui laisser la voie libre !
 - UN COFFRE DE RANGEMENT SOUS LASSISE : Malin, pour transporter doudou dans toutes ces aventures, ou y ranger tout le nécéssaire dun.e petit.e pompier en devenir, ce porteur dissimule un coffre de rangement placé juste sous lassise !
-- DÉVELOPPE LA MOTRICITÉ ET LÉQUILIBRE DE LENFANT EN SAMUSANT : Au cours de ses 3 premières années, votre enfant va développer ses capacités psychomotrices. Dès leurs premiers pas, Falk accompagne vos petits bouts de choux dans le développement de leur équilibre et leur motricité ! Votre enfant bouge, trotte et explore son environnement, à la maison comme dans le jardin.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YFK2Y17{{</world>}}

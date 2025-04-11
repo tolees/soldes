@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Forme du talon : plat
+- Largeur de la chaussure : moyenne
 - Matériau extérieur : synthétique
 - Fermeture : caoutchouc
-- Largeur de la chaussure : moyenne
 - Matériau intérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

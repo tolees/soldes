@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Etui Egoutte haute tasses et de verres
-- Touches Directes pour expresso et lungo
-- Fréquence de réception : 40 ml pour expresso et 110 ml pour lungo
 - Welcome Package avec 16 capsules individuelle de saveurs
+- Etui Egoutte haute tasses et de verres
 - Flow Stop : Quantité de café programmable
+- Fréquence de réception : 40 ml pour expresso et 110 ml pour lungo
+- Touches Directes pour expresso et lungo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01ITG2JEQ{{</world>}}

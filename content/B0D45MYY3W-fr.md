@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité supérieure.
 - Excellente idée cadeau
+- Qualité supérieure.
 - Support idéal pour le jeu et limagination
 
 [🛒 Achète-le!!]({{< param buyurl >}})

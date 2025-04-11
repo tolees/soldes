@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Test de câble conducteur
-- Essai de tension dinduction sans contact
 - identification automatique de la tension CA, tension CC, résistance
-- Multimètre solide avec fonctions de mesure de base
 - Grand écran LCD couleur 3,5"
+- Test de câble conducteur
+- Multimètre solide avec fonctions de mesure de base
+- Essai de tension dinduction sans contact
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFF5DHK7{{</world>}}

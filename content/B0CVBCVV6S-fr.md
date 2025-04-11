@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Performances : ultra-rapide et fluide avec des vitesses de transfert U3, classe 10² de jusquà 160 Mo/s¹
 - Contenu: 1x Samsung Carte MicroSD EVO Select, 64 Go, avec adaptateur SD, MB-ME64SA/EU
 - Résistance : protection contre leau, la température, les rayons X, les aimants, les chutes et lusure et garantie limitée de 10 ans⁵
 - Stockage : des grandes capacités de stockage pour tous vos fichiers
-- Performances : ultra-rapide et fluide avec des vitesses de transfert U3, classe 10² de jusquà 160 Mo/s¹
 - Compatibilité : polyvalente, utilisez la avec votre smartphone, tablette, PC, ou console de jeu portable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

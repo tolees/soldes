@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec notice de montage détaillée et multilingue - Niveau 4/5 pour maquettiste débutant à confirmé
 - A partir de 12 ans, 87 pièces à monter, échelle 1:87
+- Maquette plastique, à monter, à coller et à peindre de la locomotive Big Boy
 - La qualité Revell
 - Longueur une fois monté : 46,4 cm
-- Maquette plastique, à monter, à coller et à peindre de la locomotive Big Boy
+- Livré avec notice de montage détaillée et multilingue - Niveau 4/5 pour maquettiste débutant à confirmé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0000WPADK{{</world>}}

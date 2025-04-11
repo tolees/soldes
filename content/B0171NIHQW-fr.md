@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Commandes TouchSlider Plus
-- 2 foyers induction
 - 17 positions de réglage
+- 2 foyers induction
 - 2 boosters
 - Timer sur chaque foyer
+- Commandes TouchSlider Plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0171NIHQW{{</world>}}

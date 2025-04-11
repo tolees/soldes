@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Installation simple et rapide sur 2 fils entre la platine de rue et le moniteur
-- Enregistrement photo et vidéo des visiteurs sur mémoire interne
-- Fonction message d’absence pour informer vos visiteurs en cas d’indisponibilité
-- Visiophone connecté pour communiquer et ouvrir de chez vous ou à distance à vos visteurs
-- Contrôle d’accès RFID intégré à la platine de rue pour ouvrir gâche et portail avec votre badge RFID (maxi 20 badges)
-- Fonction intercommunication entre les moniteurs d’une même famille -
-- Plateforme bi-famille évolutive jusqu’à 3 écrans, 2 platines de rue et 1 caméra par famille - Double commande serrure ET portail - Vision nocturne couleur - Porte étiquette et bouton éclairé - Platine de rue et visière en aluminium - Fonction polarity protect pour protéger votre visiophone contre les erreurs de câblage
 - Très haute qualité d’image et très grand angle de vue (130°)
 - Fonction monitoring pour surveiller votre entrée facilement
+- Fonction intercommunication entre les moniteurs d’une même famille -
+- Enregistrement photo et vidéo des visiteurs sur mémoire interne
+- Fonction message d’absence pour informer vos visiteurs en cas d’indisponibilité
+- Contrôle d’accès RFID intégré à la platine de rue pour ouvrir gâche et portail avec votre badge RFID (maxi 20 badges)
+- Visiophone connecté pour communiquer et ouvrir de chez vous ou à distance à vos visteurs
+- Installation simple et rapide sur 2 fils entre la platine de rue et le moniteur
+- Plateforme bi-famille évolutive jusqu’à 3 écrans, 2 platines de rue et 1 caméra par famille - Double commande serrure ET portail - Vision nocturne couleur - Porte étiquette et bouton éclairé - Platine de rue et visière en aluminium - Fonction polarity protect pour protéger votre visiophone contre les erreurs de câblage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JCJ9JR5{{</world>}}

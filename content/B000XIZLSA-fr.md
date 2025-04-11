@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Charnière entrepassée : grande stabilité grâce au double guidage
 - Réglage à même la pièce par simple pression du bouton
-- Intérieur des mâchoires à dents spécialement trempées, dureté denv. 61 HRC: serrage sûr grâce à une grande résistance à lusure
-- Autobloquante sur tubes et écrous : ne glisse pas sur la pièce, travail nécessitant moins deffort
 - Knipex Cobra Pince multiprise de pointe chromée, avec gaines bi-matière minces 250 mm 87 05 250
 - Réglage précis pour un ajustage parfait à différentes tailles de pièces et poignées ergonomiques
+- Intérieur des mâchoires à dents spécialement trempées, dureté denv. 61 HRC: serrage sûr grâce à une grande résistance à lusure
+- Charnière entrepassée : grande stabilité grâce au double guidage
+- Autobloquante sur tubes et écrous : ne glisse pas sur la pièce, travail nécessitant moins deffort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000XIZLSA{{</world>}}

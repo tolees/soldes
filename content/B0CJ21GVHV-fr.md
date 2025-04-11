@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stabilisateur dimage VC
-- Mise au point automatique VXD
-- Compatible avec le logiciel Tamron Lens Utility
 - Mise au point minimale de 0,3 m (à 70 mm)
+- Mise au point automatique VXD
 - EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
+- Stabilisateur dimage VC
+- Compatible avec le logiciel Tamron Lens Utility
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ21GVHV{{</world>}}

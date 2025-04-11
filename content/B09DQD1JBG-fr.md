@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaos Theory mode lets you play through key moments of your favourite films - with a twist. Experience "what-if" scenarios from iconic Jurassic World and Jurassic Park films, with each level set across eras and locations from all five mos.
-- Take control with deeper management tools and creative options. Construct and customise new buildings and flex your managerial muscle across never-before-seen locations ranging from dense forests to rocky deserts.
 - Immerse yourself in a compelling and original Jurassic World narrative set after the Earth-shattering events of Jurassic World: Fallen Kingdom.
+- Take control with deeper management tools and creative options. Construct and customise new buildings and flex your managerial muscle across never-before-seen locations ranging from dense forests to rocky deserts.
 - Packaging may vary
 
 [🛒 Achète-le!!]({{< param buyurl >}})

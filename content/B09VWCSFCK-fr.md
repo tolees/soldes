@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble amovible
-- Casque DJ supra-aural fermé avec pilotes de 35 mm
 - Réponse en fréquence de 5 Hz à 30 kHz
 - Accessies - Noir
+- Casque DJ supra-aural fermé avec pilotes de 35 mm
+- Câble amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VWCSFCK{{</world>}}

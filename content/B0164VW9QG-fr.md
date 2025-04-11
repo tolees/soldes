@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sport type: camping et randonnée
-- Type de tissu: 100% polyamide
-- Deux poches zippées, arrière de la veste ventilé
-- Imperméable jusquà 5000mm, respirable jusquà 5000mvp
 - Homme
+- Type de tissu: 100% polyamide
+- Imperméable jusquà 5000mm, respirable jusquà 5000mvp
+- Deux poches zippées, arrière de la veste ventilé
 - Veste tient dans une pochette
+- Sport type: camping et randonnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0164VW9QG{{</world>}}

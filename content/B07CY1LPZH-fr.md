@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Conçue dans un souci de praticité et de style, la station daccueil peut également être utilisée pour surélever votre ordinateur portable.
 - Boîtier externe
-- Sandberg Station daccueil USB-C tout-en-1
 - SOURCE DE COURANT. Le connecteur dalimentation USB-C fournit jusquà 100 W dalimentation à votre appareil, vous navez donc pas à vous soucier de la recharge.
+- Sandberg Station daccueil USB-C tout-en-1
 - Dimensions : 27,5 x 7,3 x 2,1 cm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

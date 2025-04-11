@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vernis à ongles au coloris bleu pastel aux airs docéan
-- Résultats : Pour une manucure impeccable et sophistiquée jusque dans les moindres détails, Tenue longue durée et fini ultra-brillant
 - Conseils d’application : Appliquer la base sur un ongle propre puis laisser sécher, Appliquer ensuite deux couches de vernis à ongles puis le top coat en finition, Pinceaux pratiques et précis pour une pose du vernis facile sans débordements
-- Contenu : 1x Vernis à ongle Prune Essie, Teinte : Salt Water Happy (374), Contenance : 13,5 ml
+- Résultats : Pour une manucure impeccable et sophistiquée jusque dans les moindres détails, Tenue longue durée et fini ultra-brillant
 - Qualité professionnelle pour une couvrance parfaite, Une marque spécialiste de la couleur : Large gamme de vernis à ongles avec plus de 1000 teintes créées pour répondre à toutes les envies et tendances
+- Contenu : 1x Vernis à ongle Prune Essie, Teinte : Salt Water Happy (374), Contenance : 13,5 ml
+- Vernis à ongles au coloris bleu pastel aux airs docéan
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00WW4C5IW{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Suivez Kazuma et ses compagnons alors quils découvrent une mystérieusedalle noire qui les maudit en leur imposant des désirs contraires à leurs personnalités
-- Une fois les tenues mystiques créées, il est temps de passer à lhabillage, Préparez-vous à des rebondissements, car la personnalité de vos personnages préférés change avec chaque malédiction et chaque vêtement qui comble un désir
 - Soyez le témoin dune nouvelle histoire mettant en scène tous les personnages préférés des fans de la série; chaque héroïne a sa propre fin et des images spéciales, Choisissez bien vos mots, le choix vous appartient
-- Collectez des ressources pour créer des tenues en accomplissant des tâches et des quêtes; remplissez un planning hebdomadaire pour chaque personnage en fonction de ses points forts pour gagner des fonds et des ressources
+- Une fois les tenues mystiques créées, il est temps de passer à lhabillage, Préparez-vous à des rebondissements, car la personnalité de vos personnages préférés change avec chaque malédiction et chaque vêtement qui comble un désir
 - Le gang doit maintenant trouver et alimenter la dalle en ingrédients pour créer des tenues qui correspondent à leurs nouveaux désirs et les satisfont, et ainsi briser leur malédiction. Êtes-vous prêt à rencontrer Darkness en dominatrice impitoyable, Que diriez-vous dAqua en déesse bien élevée ? Ou Megumin en fière dirigeante de la Lolita League
+- Suivez Kazuma et ses compagnons alors quils découvrent une mystérieusedalle noire qui les maudit en leur imposant des désirs contraires à leurs personnalités
+- Collectez des ressources pour créer des tenues en accomplissant des tâches et des quêtes; remplissez un planning hebdomadaire pour chaque personnage en fonction de ses points forts pour gagner des fonds et des ressources
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CCSMDNBS{{</world>}}

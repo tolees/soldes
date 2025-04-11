@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Weird West: Definitive Edition Deluxe comprend : Le jeu physique Weird West: Definitive Edition, Le livre LArt du Weird West – 104 pages, Le CD officiel de la bande originale de Weird West, Une boîte Collectible Deluxe Edition contenant tout le contenu
-- Une simulation immersive : Weird West propose plusieurs manières dapprocher le jeu. Ce monde bac à sable prend en compte de nombreux facteurs. Les personnages, les factions et même les lieux sont sensibles aux décisions du joueur.
 - Des trajectoires entremêlées : Découvrez un univers unique à travers les destins croisés de différents personnages. Le joueur passe dun personnage à lautre, mais toute lintrigue converge dans le chapitre final.
-- Une expérience de jeu sur mesure : Chaque session de jeu est unique, car le jeu définit lhistoire via les actions du joueur et ses choix précédents, afin doffrir une intrigue passionnante et haletante.
 - Bienvenue dans le Weird West : Découvrez un univers sombre et alternatif qui sapproprie le mythe du Far West, où les hommes de loi et les as de la gâchette croisent quotidiennement des créatures fantastiques qui ont chacun des désirs et des buts différents.
+- Une expérience de jeu sur mesure : Chaque session de jeu est unique, car le jeu définit lhistoire via les actions du joueur et ses choix précédents, afin doffrir une intrigue passionnante et haletante.
+- Une simulation immersive : Weird West propose plusieurs manières dapprocher le jeu. Ce monde bac à sable prend en compte de nombreux facteurs. Les personnages, les factions et même les lieux sont sensibles aux décisions du joueur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C628WVJY{{</world>}}

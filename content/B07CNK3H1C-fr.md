@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une marque Amazon
 - Confectionné en coton doux, respirant et hypoallergénique conçu pour un confort durable
+- Une marque Amazon
 - Offre une couverture moyenne et de coupe taille basse pour être invisible sous un pantalon de taille moyenne
 - Élastique de bordure au niveau de la taille et des jambes pour un meilleur maintien et un ajustement flexible
 

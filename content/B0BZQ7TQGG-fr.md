@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CHOISISSEZ LA LIBERTÉ AVEC LE MODE BAC À SABLE
-- TROUVEZ ET SÉLECTIONNEZ LES BONNES INFOS POUR OPTIMISER VOTRE GESTION
 - SUIVEZ UNE CAMPAGNE SCÉNARISÉE POUR VIVRE LE RÊVE DE TOUT ARCHITECTE DE PARC
 - Repoussez les limites de votre imagination. IMPOSSIFIEZ
+- TROUVEZ ET SÉLECTIONNEZ LES BONNES INFOS POUR OPTIMISER VOTRE GESTION
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZQ7TQGG{{</world>}}

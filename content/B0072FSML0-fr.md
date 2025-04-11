@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poudre bronzante haute couvrance pour le visage et le corps, Idéal pour un effet bonne mine tout au long de lannée, Fini mat sans aucun reflet
-- Fini mat et velouté, Appliquer à laide dun large pinceau poudre sur le visage ou le corps
-- Utilisable seule ou en complément dun fond de teint, Réduit lapparence des pores, Formule vegan sans ingrédient d’origine animale ou dérivée à la texture douce et soyeuse
 - Couleur intense, Intensité modulable, Utilisable en tant que bronzer pour un contouring léger
+- Poudre bronzante haute couvrance pour le visage et le corps, Idéal pour un effet bonne mine tout au long de lannée, Fini mat sans aucun reflet
+- Utilisable seule ou en complément dun fond de teint, Réduit lapparence des pores, Formule vegan sans ingrédient d’origine animale ou dérivée à la texture douce et soyeuse
+- Fini mat et velouté, Appliquer à laide dun large pinceau poudre sur le visage ou le corps
 - Contenu : 1x Poudre bronzante NYX Professional Makeup, Teinte : Medium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

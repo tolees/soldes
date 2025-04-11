@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: blanc
+- Guzzini Set assiette pour 6 personnes gocce White
+- Sizes: 29, 3 x 28, 2 x H29 cm - gift Box
 - Designer: angeletti ruzza
 - Collection: gocce
-- Sizes: 29, 3 x 28, 2 x H29 cm - gift Box
-- Guzzini Set assiette pour 6 personnes gocce White
+- Couleur: blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071LBPW89{{</world>}}

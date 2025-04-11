@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Unissez-vous ou combattez en multijoueur en ligne
 - Explorez deux vastes mondes parallèles
 - Maîtrisez des combats tactiques fluides et fulgurants
 - La Deluxe Edition contient une classe de départ exclusive « Le Croisé Noir », la panoplie d’armes et d’armure du Croisé Noir, un artbook et une bande-son dématérialisés, ainsi qu’une visionneuse de modèles 3D.
+- Unissez-vous ou combattez en multijoueur en ligne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C62GSSWT{{</world>}}

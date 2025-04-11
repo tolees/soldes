@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CREATIVITE: Ce kit de mosaïque permet aux enfants de développer leur créativité à leur rythme et de gagner en autonomie. Fiers du résultat obtenu, ils seront ravis de les exposer dans leur chambre et de les montrer à tous ceux quils aiment !
-- DES MOSAIQUES A LINFINI: La mosaïque mousse une activité dont la simplicité de la technique donne un effet visuel très gratifiant ! Ce set créatif contient 8 tableaux à décorer, 1400 mosaïques de 12 couleurs différentes avec effet pailleté ou mat, 1 planche de strass, 4 attaches pour exposer les jolies oeuvres et un livret pour accompagner les enfants.
 - set loisir creatif mosaique strass paillette sticker autocollant dinosaure trex tyrannosaure brachiosaure decoration interieure idee cadeau fille garcon anniversaire kermesse noel paques
+- DES MOSAIQUES A LINFINI: La mosaïque mousse une activité dont la simplicité de la technique donne un effet visuel très gratifiant ! Ce set créatif contient 8 tableaux à décorer, 1400 mosaïques de 12 couleurs différentes avec effet pailleté ou mat, 1 planche de strass, 4 attaches pour exposer les jolies oeuvres et un livret pour accompagner les enfants.
+- CREATIVITE: Ce kit de mosaïque permet aux enfants de développer leur créativité à leur rythme et de gagner en autonomie. Fiers du résultat obtenu, ils seront ravis de les exposer dans leur chambre et de les montrer à tous ceux quils aiment !
 - POUR LES FANS DE DINOSAURES: Le Kit Créatif Mosaïques Dinosaures est le cadeau parfait pour les amoureux des dino ! Grâce aux 8 tableaux à décorer, votre enfant sera ravi de découvrir ou redécouvrir les espèces principales de lanimal disparu. Cette activité manuelle est accessible aux plus jeunes dès 4 ans qui développeront leur motricité fine et lapprentissage des formes et des couleurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

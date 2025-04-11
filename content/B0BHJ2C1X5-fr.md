@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Peu de montage requis
-- Moderne et épurée, idéale pour les loisirs
-- Fonction pivotante et assise à hauteur réglable à l’aide du vérin à gaz à commande manuelle
 - Dimensions : 103 x 45 x 58 cm (H x l x P). Hauteur de l’assise : 40 à 50 cm
+- Fonction pivotante et assise à hauteur réglable à l’aide du vérin à gaz à commande manuelle
+- Moderne et épurée, idéale pour les loisirs
 - Matières : Siège légèrement rembourré avec cuir synthétique vintage marron et coutures verticales. Base mobile en métal à revêtement poudré noir avec 5 roulettes dotées de frein
 
 [🛒 Achète-le!!]({{< param buyurl >}})

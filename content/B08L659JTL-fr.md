@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : MEDION LIFE Smart-TV P14093 MD30043, pieds avec vis, télécommande avec piles (AAA), mode demploi, carte de garantie
 - Extra net : avec le téléviseur Full HD, vivez votre programme TV dans une qualité dimage optimale !
 - Toujours prêt à recevoir : Profitez du câble, du satellite et de la nouvelle télévision numérique hertzienne DVB-T2 HD avec le triple tuner HD.
-- Smart TV FHD avec HDR, PVR ready, CI+, Wifi, Bluetooth, HbbTV, Netflix, Amazon Prime Video et autres services de Smart TV.
 - 100,3 cm (40") Android TV avec résolution Full HD, télécommande avec Google Assistant, Chromecast built-in.
+- Contenu de la livraison : MEDION LIFE Smart-TV P14093 MD30043, pieds avec vis, télécommande avec piles (AAA), mode demploi, carte de garantie
+- Smart TV FHD avec HDR, PVR ready, CI+, Wifi, Bluetooth, HbbTV, Netflix, Amazon Prime Video et autres services de Smart TV.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L659JTL{{</world>}}

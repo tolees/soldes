@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MADE IN France
 - VERRE : Vaisselle en verre, matière saine et hygiénique qui résiste aux rayures, ne retient ni les odeurs, ni les tâches
-- DESIGN : Formes ergonomiques pour aider bébé dans sa phase dapprentissage des repas, gamme évolutive, des premiers repas à 36m+
-- DURALEX : Partenariat avec Duralex, marque française historique connue pour sa grande qualité de verre trempé
 - VENTOUSE : Ventouse sous les assiettes et le bol: pour adhérer à la table et limiter les incidents
+- DURALEX : Partenariat avec Duralex, marque française historique connue pour sa grande qualité de verre trempé
+- DESIGN : Formes ergonomiques pour aider bébé dans sa phase dapprentissage des repas, gamme évolutive, des premiers repas à 36m+
+- MADE IN France
 - HAUTE QUALITE : Vaisselle saine, sûre et durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

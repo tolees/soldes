@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Crée de nombreux savons différents en suivant les instructions contenues dans le manuel illustré. limagination na pas de limite
-- Le manuel illustré accompagne les enfants lors des expériences afin de jouer en toute sécurité
 - Age conseillé: 8 ans et plus
-- La science des savons devient amusante avec ce nouveau coffret pour devenir expert en cosmétique
 - Le coffret contient tous les ingrédients et instruments nécessaires, y compris la spatule, les paillettes et les colorants pour créer des savons doux de différentes formes en quelques gestes simples
+- La science des savons devient amusante avec ce nouveau coffret pour devenir expert en cosmétique
+- Le manuel illustré accompagne les enfants lors des expériences afin de jouer en toute sécurité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QZFWB8W{{</world>}}

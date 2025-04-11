@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez les secrets du village, et aidez-le à retrouver sa gloire dantan; vous devrez gérer vos activités quotidiennes, vous acquitter de diverses tâches, accomplir des quêtes insolites et fabriquer des objets uniques pour le marché nocturne qui se tient chaque semaine
-- Des heures dexplorations et quatre saisons à découvrir sur la vaste île du Mont Fugu
 - Vous y incarnez Mineko, une jeune fille pleine de curiosité, qui vient demménager dans un village en crise situé au pied du Mont Fugu, sur une île dinspiration japonaise; les habitants superstitieux vénèrent le dieu du soleil, Nikko; on a longtemps cru que ce nétait quun mythe, mais ces derniers temps, il a été aperçu à plusieurs reprises, ce qui ne manque pas de semer la confusion
-- Minekos Night Market est un jeu qui rend hommage à la culture japonaise avec une histoire réconfortante qui aborde les thèmes de lamitié, de la tradition, et surtout des chats
 - Trouvez des ressources puis servez-vous-en pour fabriquer des objets insolites dans des mini-jeux
+- Découvrez les secrets du village, et aidez-le à retrouver sa gloire dantan; vous devrez gérer vos activités quotidiennes, vous acquitter de diverses tâches, accomplir des quêtes insolites et fabriquer des objets uniques pour le marché nocturne qui se tient chaque semaine
+- Minekos Night Market est un jeu qui rend hommage à la culture japonaise avec une histoire réconfortante qui aborde les thèmes de lamitié, de la tradition, et surtout des chats
+- Des heures dexplorations et quatre saisons à découvrir sur la vaste île du Mont Fugu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9QP9KZL{{</world>}}

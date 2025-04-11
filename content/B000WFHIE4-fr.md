@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- facile à fixer à la ceinture
 - très pratique
-- Poids du colis: 0.04 kilograms
 - Volume du colis: 1.0 liters
+- facile à fixer à la ceinture
+- Poids du colis: 0.04 kilograms
 - pour chien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

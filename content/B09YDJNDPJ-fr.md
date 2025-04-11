@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Soin professionnel sans rinçage pour cheveux bouclés à frisés : combine le soin intense d’une crème avec la légèreté d’une mousse qui fond uniformément. Concentrée en Glycérine d’origine végétale 1%, Urea H et extrait de graine d’Hibiscus, la mousse est mutli bénéfices et ne laisse pas de résidus.
-- Après avoir appliqué la crème-en-gelée sur cheveux essorés, appliquer en superposition la mousse par section en partant des pointes vers les longueurs et en froissant légèrement les boucles. Laisser sécher ou utiliser un diffuseur à air tiède. Astuce pro : appliquer en suivant la tecnique Wash&Go.
 - 10 bénéfices en 1 geste dont : Hydratation 2x + intense* 11x + de définition* Protection chaleur 230°C* Anti-frisottis 48h* Pas deffet carton
+- Après avoir appliqué la crème-en-gelée sur cheveux essorés, appliquer en superposition la mousse par section en partant des pointes vers les longueurs et en froissant légèrement les boucles. Laisser sécher ou utiliser un diffuseur à air tiède. Astuce pro : appliquer en suivant la tecnique Wash&Go.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09YDJNDPJ{{</world>}}

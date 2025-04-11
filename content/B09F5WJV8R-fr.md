@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format de poche compact
 - Certifié IP55⁴ avec étui en caoutchouc amovible
+- Format de poche compact
 - Vitesses maximales de 2 000Mo/s¹ avec USB 3.2 Gen 2x2
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

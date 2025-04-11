@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Blink Mini 2 est notre caméra de surveillance connectée à prise deuxième génération vous permettant de voir tout ce quil se passe à votre domicile, directement depuis votre smartphone.
+- Fonctionne avec Alexa : jumelez Blink Mini 2 à un appareil avec Alexa intégré et utilisez votre voix pour lancer la vidéo en direct, armer ou désarmer votre système, et bien plus.
 - Blink Outdoor est une caméra de surveillance HD sans fil alimentée par piles, qui vous permet de surveiller votre domicile jour et nuit grâce à la vision nocturne infrarouge.
-- Ce pack inclut 1 appareil Blink Outdoor Caméra, 1 appareil Blink Sync Module 2, et 1 appareil Blink Mini 2
-- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
+- Blink Mini 2 est notre caméra de surveillance connectée à prise deuxième génération vous permettant de voir tout ce quil se passe à votre domicile, directement depuis votre smartphone.
 - Utilisation extérieure : branchez Blink Mini 2 à lextérieur de votre domicile grâce à ladaptateur secteur Blink résistant aux intempéries (vendu séparément ou dans une offre groupée) et fixez-la à laide du kit fourni.
-- Regardez la vidéo et parlez à travers la caméra, depuis lapplication Blink : profitez de la vidéo HD 1080p en direct ainsi que de la vidéo nocturne en couleur avec projecteur intégré, champ de vision élargi et un système audio bidirectionnel au son clair. Regardez jusquà 90 minutes de vidéo en direct continue grâce à labonnement Blink (vendu séparément).
+- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
 - Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
 - Enregistrez et partagez des clips : enregistrez des événements dans le Cloud grâce à un essai gratuit de 30 jours à labonnement Blink ou localement via Blink Sync Module (vendus séparément).
-- Fonctionne avec Alexa : jumelez Blink Mini 2 à un appareil avec Alexa intégré et utilisez votre voix pour lancer la vidéo en direct, armer ou désarmer votre système, et bien plus.
+- Ce pack inclut 1 appareil Blink Outdoor Caméra, 1 appareil Blink Sync Module 2, et 1 appareil Blink Mini 2
+- Regardez la vidéo et parlez à travers la caméra, depuis lapplication Blink : profitez de la vidéo HD 1080p en direct ainsi que de la vidéo nocturne en couleur avec projecteur intégré, champ de vision élargi et un système audio bidirectionnel au son clair. Regardez jusquà 90 minutes de vidéo en direct continue grâce à labonnement Blink (vendu séparément).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D14ZK5TL{{</world>}}

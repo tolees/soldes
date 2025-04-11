@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOOLS
 - Longueur totale : 82.5 mm
+- TOOLS
 - Longueur de coupe 38.1 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

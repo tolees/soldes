@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Scratch
-- Plat
 - Cuir
+- Plat
+- Scratch
 - Textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

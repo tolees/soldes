@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivités Ethernet Gigabit, WiFi 5GHz et USB
+- Livré avec des toners de 2 6 00 page s en noir et 1400 feuilles en couleur
 - Impression jusquà 30 pages par minute
 - Mémoire interne de 512 Mo
-- Numérisation recto verso monopasse jusqu’à 56 images par minute
 - Écran tactile couleur de 8,8 cm
-- Impression recto verso, jusquà 12 faces par minute
+- Connectivités Ethernet Gigabit, WiFi 5GHz et USB
 - Lecteur de badge NFC embarqué
+- Numérisation recto verso monopasse jusqu’à 56 images par minute
 - Compatible avec les solutions Brother Fonction +, et les fonctions tiers
+- Impression recto verso, jusquà 12 faces par minute
 - Chargeur automatique de documents recto verso monopasse (ADF) de 50 feuilles, bac papier de 250 feuilles, extensible à 500 feuilles ( grâce au magasin papier supplémentaire : le LT 310CL)
-- Livré avec des toners de 2 6 00 page s en noir et 1400 feuilles en couleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHJRY36X{{</world>}}

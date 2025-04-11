@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HAUTE QUALITE : Revêtement caoutchouc, bonne prise en main et protection du télémètre
-- LISIBILITE : Ecran noir avec affichage des lettres en blanc, très bonne lisibilité même dans un environnement lumineux
-- PRECISION : +/-6mm à 10m
-- PRATIQUE : Alimentation par une batterie Li-ion 3,6V - jusquà 1000 mesures par charge
 - DESIG COMPACT : Tient dans la poche
+- LISIBILITE : Ecran noir avec affichage des lettres en blanc, très bonne lisibilité même dans un environnement lumineux
+- PRATIQUE : Alimentation par une batterie Li-ion 3,6V - jusquà 1000 mesures par charge
+- HAUTE QUALITE : Revêtement caoutchouc, bonne prise en main et protection du télémètre
+- PRECISION : +/-6mm à 10m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Y5BL6Z2{{</world>}}

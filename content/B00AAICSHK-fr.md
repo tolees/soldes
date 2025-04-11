@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Certifié NF
-- Couleur grise
-- Pratique: Outil de dénudage incorporé permettant de faciliter l?installation du produit
 - Sécurité enfant
+- Couleur grise
 - Permet de raccorder vos câbles électriques à une prise mâle 16A
+- Pratique: Outil de dénudage incorporé permettant de faciliter l?installation du produit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AAICSHK{{</world>}}

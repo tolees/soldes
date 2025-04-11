@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ❤ MADE IN FRANCE : Tous les produits de la marque Energie Fruit sont fabriqués en France avec des produits naturels et sont 100% traçables sur l’application B-Heart.
-- ❤ B CORP : En étant certifiée B Corp, la marque Energie Fruit a rejoint une communauté de marques qui respecte des normes sociales et environnementales très élevées.
-- ❤ LE TOP POUR LES CHEVEUX ONDULÉS ET BOUCLÉS : Riche en huile de coco BIO, cette gelée coiffante sans rinçage est idéale pour définir ses boucles sans effet carton. Sans silicone ni colorant, elle hydrate la fibre en profondeur jusqu’aux pointes sans l’alourdir et réactive les boucles sans les figer. En plus d’être délicieusement parfumées à la coco, tes boucles sont brillantes et rebondies !
 - ❤ 0 SUPERFLU : Testée dermatologiquement, sans silicone ni colorant, cette formule prend soin de tes cheveux, naturellement !
+- ❤ MADE IN FRANCE : Tous les produits de la marque Energie Fruit sont fabriqués en France avec des produits naturels et sont 100% traçables sur l’application B-Heart.
+- ❤ LE TOP POUR LES CHEVEUX ONDULÉS ET BOUCLÉS : Riche en huile de coco BIO, cette gelée coiffante sans rinçage est idéale pour définir ses boucles sans effet carton. Sans silicone ni colorant, elle hydrate la fibre en profondeur jusqu’aux pointes sans l’alourdir et réactive les boucles sans les figer. En plus d’être délicieusement parfumées à la coco, tes boucles sont brillantes et rebondies !
+- ❤ B CORP : En étant certifiée B Corp, la marque Energie Fruit a rejoint une communauté de marques qui respecte des normes sociales et environnementales très élevées.
 - ❤ VÉGAN ET FIERE DE LÊTRE : La marque Energie fruit est certifiée PETA, tous nos produits sont végans et non testés sur les animaux !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

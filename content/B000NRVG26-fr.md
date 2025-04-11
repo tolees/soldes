@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LISSANTE ET TONIFIANTE : La formule à base de romarin et petit houx de lhuile au bouleau Weleda agit en cas de peau dorange et de capitons tout en revitalisant, raffermissant et lissant la peau grâce à sa richesse en huiles végétales.
+- CERTIFICATIONS : Natrue* : Label certifiant la cosmétique Naturelle et Biologique. - Végan** : Ne contient pas dingrédients dorigine animale.
+- HUILE DE MASSAGE ANTICELLULITE : Conçue pour aider à affiner la silhouette, lhuile de massage anti-cellulite Weleda contribue à raffermir les tissus et à favoriser la réduction de la cellulite de manière naturelle.
 - UNE MARQUE PIONNIÈRE DE LA COSMÉTIQUE NATURELLE ET BIO : Depuis 1921, les laboratoires Weleda proposent des produits cosmétiques dorigine naturelle pour préserver la beauté et le bien-être de toute la famille.
 - LES VERTUS DU BOULEAU : Les feuilles de bouleau sont connues pour leur richesse en flavonoïdes antioxydants. Elles contribuent à faciliter les mécanismes délimination de lorganisme, pour une action anticellulite et détox naturelle.
 - CONSEILS DUTILISATION : Utiliser cette huile deux fois par jour, de préférence après la douche ou le bain, sur la peau sèche ou encore légèrement humide. Faire pénétrer en massant par mouvements circulaires en insistant sur les zones concernées. Idéale en association avec la Crème de Douche Gommante au Bouleau.
-- CERTIFICATIONS : Natrue* : Label certifiant la cosmétique Naturelle et Biologique. - Végan** : Ne contient pas dingrédients dorigine animale.
-- HUILE DE MASSAGE ANTICELLULITE : Conçue pour aider à affiner la silhouette, lhuile de massage anti-cellulite Weleda contribue à raffermir les tissus et à favoriser la réduction de la cellulite de manière naturelle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000NRVG26{{</world>}}

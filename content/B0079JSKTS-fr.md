@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions : 925 inches x 1575 inches x 1299 inches
 - Piles pas requises
 - Poids : 93 pounds
-- Dimensions : 925 inches x 1575 inches x 1299 inches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0079JSKTS{{</world>}}

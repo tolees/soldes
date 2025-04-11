@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - NATUREL ET RESPECTUEUX : Formulé avec 99% dingrédients naturels, ce shampooing est le "low poo" parfait. Sans silicones, PEG ni paraben, il nettoie en douceur sans agresser vos cheveux.
-- MODE DEMPLOI : Mouillez vos cheveux, appliquez une noix de produit en massant doucement le cuir chevelu. Rincez et appréciez la fraîcheur.
 - ANTI GASPI : Pulpe de Vie lutte contre le gaspillage en créant des soins aux fruits anti-gaspi. Nous utilisons des fruits déclassés (issus des invendus alimentaire), pour vous offrir des produits écoresponsables et certifiés BIO. Pulpe de Vie sengage pour votre bien-être et la planète !
 - FORMAT GÉANT : Un flacon grand format de 400ml en plastique recyclé et recyclable pour un soin durable et écologique.
 - CHEVEUX PURIFIÉS : Dites adieu aux cheveux qui regraissent trop vite. Le citron, le concombre BIO, et le zinc régulent le sébum pour des cheveux frais plus longtemps.
+- MODE DEMPLOI : Mouillez vos cheveux, appliquez une noix de produit en massant doucement le cuir chevelu. Rincez et appréciez la fraîcheur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNC8HQNX{{</world>}}

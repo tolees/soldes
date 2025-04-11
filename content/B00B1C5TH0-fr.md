@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fourni avec 2 broches de rechange
 - Goupille de cisaillement : la broche cisaille si la limite de couple est dépassée
-- Jeu de 3 broches de rechange u306-24j3
 - Accessoire extracteur adaptable: marteau à glissière u2
+- Jeu de 3 broches de rechange u306-24j3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B1C5TH0{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMBAT DYNAMIQUE : Renversez vos ennemis avec de puissants Personas, un vaste éventail darmes et éliminez-les avec panache.
-- CONSTITUEZ VOTRE ESCOUADE DE RÊVE: Constituez une équipe de héros adulés pour affronter des armées tyranniques lors de combats palpitants au tour par tour.
 - UNE RÉVOLUTION ÉMOTIONNELLE : Prenez la tête dune révolte populaire dans un tout nouveau scénario qui se déroule au cœur de lunivers emblématique de Persona.
+- CONSTITUEZ VOTRE ESCOUADE DE RÊVE: Constituez une équipe de héros adulés pour affronter des armées tyranniques lors de combats palpitants au tour par tour.
+- COMBAT DYNAMIQUE : Renversez vos ennemis avec de puissants Personas, un vaste éventail darmes et éliminez-les avec panache.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8ZN3B99{{</world>}}

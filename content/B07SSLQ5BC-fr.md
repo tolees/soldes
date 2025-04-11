@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayons de couleur Derwent Lightfast : un set de 100 crayons de haute qualité résistants à la décoloration dans une gamme de teintes éclatantes, idéals pour les artistes qui exposent leurs oeuvres
-- 100% résistants à la lumière : leur formule unique résiste aux effets des rayons UV, les couleurs restent stables pendant 100 ans dans des conditions de musée
+- Idéal à utiliser avec le papier à croquis Derwent Lightfast, parfait pour mélanger les couleurs : conçu pour le croquis, le dessin, le coloriage & les loisirs créatifs
 - Contient : coffret de 100 crayons de couleur Derwent Lightfast, forme ronde facile à manier, compatibles avec les taille-crayons standards, formulés pour combattre les effets des rayons UVA
 - Qualité professionnelle : ces crayons à base dhuile et à la texture onctueuse offrent un magnifique rendu de couleur. Leur mine épaisse permet une application dense
-- Idéal à utiliser avec le papier à croquis Derwent Lightfast, parfait pour mélanger les couleurs : conçu pour le croquis, le dessin, le coloriage & les loisirs créatifs
+- 100% résistants à la lumière : leur formule unique résiste aux effets des rayons UV, les couleurs restent stables pendant 100 ans dans des conditions de musée
+- Crayons de couleur Derwent Lightfast : un set de 100 crayons de haute qualité résistants à la décoloration dans une gamme de teintes éclatantes, idéals pour les artistes qui exposent leurs oeuvres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SSLQ5BC{{</world>}}

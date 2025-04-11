@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode Ambient Sound : personnalisable sur 20 niveaux pour rester à lécoute de votre environnement, Plus de réglages intelligents grâce à l’application gratuite Sony | Headphones Connect
-- Jusqu’à 30 heures d’autonomie avec la réduction de bruit active, Fonction charge rapide (15 minutes = 8 heures de lecture)
-- Accédez à votre assistant vocal d’une simple pression sur une touche pour écouter de la musique, demander un itinéraire, consulter la météo et bien plus
-- Bluetooth multipoint pour changer d’écoute facilement et rapidement entre votre smartphone, votre tablette et votre PC
 - Détection de port : met en pause automatiquement votre musique quand vous retirez votre casque pour économiser de la batterie
 - La meilleure réduction de bruit du marché avec intelligence artificielle pour une expérience sonore immersive exceptionnelle . Profil : A2DP, AVRCP, HFP, HSP
 - Compatible Hi-Res Audio Wireless pour un son Haute Résolution et 360 Reality Audio pour une expérience immersive comme si vous étiez en studio ou sur scène
+- Accédez à votre assistant vocal d’une simple pression sur une touche pour écouter de la musique, demander un itinéraire, consulter la météo et bien plus
+- Mode Ambient Sound : personnalisable sur 20 niveaux pour rester à lécoute de votre environnement, Plus de réglages intelligents grâce à l’application gratuite Sony | Headphones Connect
+- Jusqu’à 30 heures d’autonomie avec la réduction de bruit active, Fonction charge rapide (15 minutes = 8 heures de lecture)
+- Bluetooth multipoint pour changer d’écoute facilement et rapidement entre votre smartphone, votre tablette et votre PC
 - Diaphragme : 40 mm, dôme (bobine mobile CCAW)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

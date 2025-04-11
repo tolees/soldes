@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclus : 1 fraise gonflable et balles colorées
-- Matière : PVC
-- Capacité petit bassin : 57 litres
 - Hauteur deau : 20 cm
+- Matière : PVC
+- Inclus : 1 fraise gonflable et balles colorées
 - Capacité grand bassin : 493 litres
+- Capacité petit bassin : 57 litres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07VXTR34Z{{</world>}}

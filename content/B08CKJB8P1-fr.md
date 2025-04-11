@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Réseaux gaming: 802.11ac Wi-Fi, TUF LANGuard et TurboLAN
-- Socket AMD AM4 pour processeur Ryzen 5000 Series/ 4000 G-Series/ 3000 Series
 - Éclairage Aura Sync RGB : synchronisation des LED avec de nombreux périphériques compatibles
+- Socket AMD AM4 pour processeur Ryzen 5000 Series/ 4000 G-Series/ 3000 Series
 - Refroidissement complet : VRM heatsink, PCH heatsink, Fan Xpert 2+
 
 [🛒 Achète-le!!]({{< param buyurl >}})

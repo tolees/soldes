@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez avec des amis l’un contre l’autre ou en coopération avec la Nintendo switch
 - Catherine: full body contient plus de 500 puzzles, soit deux fois plus que le jeu original !
 - Explorez de nombreux embranchements narratif avec larrivée dune mystérieuse amnésique nommée rin et découvrez plus de 13 fins différentes
+- Jouez avec des amis l’un contre l’autre ou en coopération avec la Nintendo switch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086HBPXFX{{</world>}}

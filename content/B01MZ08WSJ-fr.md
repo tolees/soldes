@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Parure housse de couette 3D dessin placé 240X220 cm OURS, 100% coton 57 fils/cm2
-- Passe au sèche-linge
 - Lavable en machine
+- Passe au sèche-linge
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MZ08WSJ{{</world>}}

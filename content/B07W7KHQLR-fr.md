@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouton multi-fonction intelligent : Contrôlez votre son streaming; gain, coupure son, volume écouteurs, mixage, et passez facilement des modes cardioïde, bidirectionnel, omnidirectionnel, stéréo
 - Logiciel Blue VO!CE : Elevez vos streamings et enregistrements avec un son de voix claire et divertissez votre audience avec des effets améliorés, modulation avancée et extraits audio HD
-- Indicateur LED à haute résolution : Visualisez le niveau de votre voix en un coup doeil avec les 11 segments LED du micro Yeti X et ajustez pour une qualité de son de diffusion puissante
-- Quatre directivités polyvalentes : Capturez le son légendaire de diffusion Blue avec un plus grand focus et clarté quauparavant pour streaming pro, podcast, vidéos YouTube, voix off, Zoom, etc
+- Bouton multi-fonction intelligent : Contrôlez votre son streaming; gain, coupure son, volume écouteurs, mixage, et passez facilement des modes cardioïde, bidirectionnel, omnidirectionnel, stéréo
 - Eclairage LED personnalisable : Personnalisez léclairage LED du Yeti X pour aller avec votre stream et connectez-le à votre PC ou ordinateur portable via câble USB pour démarrer lenregistrement
-- Quatre diagrammes directionnels polyvalents: basculez entre le diagramme cardioïde pour lenregistrement et la diffusion en direct, lomnidirectionnel pour les conférences téléphoniques, le bidirectionnel pour les podcasts et le stéréo pour les expériences immersives telles que lASMR.
+- Indicateur LED à haute résolution : Visualisez le niveau de votre voix en un coup doeil avec les 11 segments LED du micro Yeti X et ajustez pour une qualité de son de diffusion puissante
 - Intégration Logitech G HUB : Gérez gain du micro, volume des écouteurs, préférences de monitoring et sélection de directivité directement depuis votre bureau
+- Quatre diagrammes directionnels polyvalents: basculez entre le diagramme cardioïde pour lenregistrement et la diffusion en direct, lomnidirectionnel pour les conférences téléphoniques, le bidirectionnel pour les podcasts et le stéréo pour les expériences immersives telles que lASMR.
+- Quatre directivités polyvalentes : Capturez le son légendaire de diffusion Blue avec un plus grand focus et clarté quauparavant pour streaming pro, podcast, vidéos YouTube, voix off, Zoom, etc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W7KHQLR{{</world>}}

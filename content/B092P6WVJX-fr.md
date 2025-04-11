@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec diplomatie, ruse ou force, influencez lhistoire du monde et façonnez votre légende.
 - Greedfall gold edition est le moyen le plus complet de découvrir le rpg acclamé par la critique, avec le jeu de base et lextension scénarisée « the de vespe conspiracy ».
+- Avec diplomatie, ruse ou force, influencez lhistoire du monde et façonnez votre légende.
 - Parcourez les terres inexplorées dune île imprégnée de magie, abritant trésors perdus, secrets ancestraux, et créatures fantastiques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

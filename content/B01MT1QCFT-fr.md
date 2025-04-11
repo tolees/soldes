@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- OVERSIZED DESIGN: Les montures surdimensionnées classiques avec des décorations luxueuses rendent ces lunettes de soleil élégantes et chics ! Les bords épaissis avec une bonne couverture peuvent bloquer la lumière latérale du soleil. Ces lunettes polarisées vous donnent à la fois un look élégant et une protection nécessaire
-- DIMENSION: Largeur de lobjectif : 61 mm, Hauteur de lobjectif : 50 mm, Longueur de la jambe : 126 mm, Largeur du nez : 20 mm. Toutes les mesures sont effectuées manuellement, il peut y avoir une erreur de 1 à 2 mm
-- PROTECTION UV400: Les lentilles sont classées 400UV, elles peuvent bloquer 100% des rayons UVA et UVB. Les lunettes de soleil pour dames sont essentielles pour protéger vos yeux contre les dommages à long terme causés par les UV et pour garder vos yeux en bonne santé et prévenir le vieillissement
-- LEMBALLAGE COMPREND: lunettes de soleil à grande monture x 1, sac demballage exquis x 1, tissu de verre x 1, carte de test polarisée x 1. Si vous avez des questions, veuillez nous en faire part immédiatement et nous résoudrons le problème à votre satisfaction
 - MATÉRIAUX LÉGERS: Nous avons choisi des matériaux ultra-légers pour les montures et les plaquettes de nez en une seule pièce. Grâce à la légèreté du matériau, vous ne ressentirez aucune fatigue, même après de longues heures de port. Porter des lunettes de soleil pour femmes na jamais été aussi facile, sûr et confortable
+- PROTECTION UV400: Les lentilles sont classées 400UV, elles peuvent bloquer 100% des rayons UVA et UVB. Les lunettes de soleil pour dames sont essentielles pour protéger vos yeux contre les dommages à long terme causés par les UV et pour garder vos yeux en bonne santé et prévenir le vieillissement
+- OVERSIZED DESIGN: Les montures surdimensionnées classiques avec des décorations luxueuses rendent ces lunettes de soleil élégantes et chics ! Les bords épaissis avec une bonne couverture peuvent bloquer la lumière latérale du soleil. Ces lunettes polarisées vous donnent à la fois un look élégant et une protection nécessaire
+- LEMBALLAGE COMPREND: lunettes de soleil à grande monture x 1, sac demballage exquis x 1, tissu de verre x 1, carte de test polarisée x 1. Si vous avez des questions, veuillez nous en faire part immédiatement et nous résoudrons le problème à votre satisfaction
+- DIMENSION: Largeur de lobjectif : 61 mm, Hauteur de lobjectif : 50 mm, Longueur de la jambe : 126 mm, Largeur du nez : 20 mm. Toutes les mesures sont effectuées manuellement, il peut y avoir une erreur de 1 à 2 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MT1QCFT{{</world>}}

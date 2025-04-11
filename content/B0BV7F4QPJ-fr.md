@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batman descend dans les rues de GOTHAM CITY dans son impressionnante Batwing où il voit le Joker ; avec 2 Batarangs et une paire de menottes, le puissant super-héros est équipé pour combattre
 - Lavion Batwing détaillé comprend 2 canons lance-tenons, un cockpit et une place pour les Batarangs et les menottes de Batman ; lorsquil nest pas en action, le Batwing peut également être exposé
 - Mettez laction classique du film Batman de 1989 entre les mains des enfants avec ce jouet Batwing : Batman Contre le Joker LEGO DC qui comprend un jouet davion pour des aventures aériennes
 - Ce jouet à construire LEGO Marvel Avengers aux multiples facettes est un excellent cadeau danniversaire pour les garçons, les filles et tous les fans de super-héros dès 10 ans
-- Les enfants peuvent télécharger lapplication LEGO Builder pour une expérience de construction immersive, avec des outils numériques pour zoomer et faire pivoter les modèles en 3D
+- Batman descend dans les rues de GOTHAM CITY dans son impressionnante Batwing où il voit le Joker ; avec 2 Batarangs et une paire de menottes, le puissant super-héros est équipé pour combattre
 - Le jouet LEGO Batman 1989 comprend une minifigurine LEGO Batman avec sa cape noire emblématique et son masque, ainsi que la minifigurine LEGO Le Joker avec son costume violet
+- Les enfants peuvent télécharger lapplication LEGO Builder pour une expérience de construction immersive, avec des outils numériques pour zoomer et faire pivoter les modèles en 3D
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BV7F4QPJ{{</world>}}

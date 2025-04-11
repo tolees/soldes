@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mini 3 est autorisé à voler dans les catégories A1 et A3. Aucun test n’est donc exigé pour les opérateurs.
-- Images époustouflantes : Filmez en vidéo 4K HDR pour des prises de vue aériennes d’une clarté cristalline. Capturez les détails, même dans les lumières fortes et les ombres, de jour comme de nuit.
-- Radiocommande vendue séparément. Cette option d’achat est idéale pour les pilotes chevronnés qui disposent déjà d’une radiocommande.
-- Concentrez-vous sur le moment : Des clichés épiques au bout de vos doigts. Utilisez QuickShots pour choisir des modèles de vol dynamiques ou capturer une vue époustouflante avec Panorama.
 - Conforme aux réglementations : les drones < 249 g ne sont soumis à aucun test dans la plupart des pays. Profitez du plaisir du vol sans la fastidieuse procédure de demande et les délais d’attente.
+- Concentrez-vous sur le moment : Des clichés épiques au bout de vos doigts. Utilisez QuickShots pour choisir des modèles de vol dynamiques ou capturer une vue époustouflante avec Panorama.
+- Images époustouflantes : Filmez en vidéo 4K HDR pour des prises de vue aériennes d’une clarté cristalline. Capturez les détails, même dans les lumières fortes et les ombres, de jour comme de nuit.
 - Capturez l’altitude et partagez : Avec Prise verticale réelle, vous pouvez facilement capturer des monuments hauts comme les gratte-ciels et les chutes d’eau. Et après la capture, c’est l’orientation parfaite pour publier sur Instagram ou TikTok.
-- Voler devient facile : Ne laissez pas un peu de vent vous gêner. Mini 3 résiste à des vents de 38 km/h (niveau 5), vous pouvez donc rester stable et capturer votre prise de vue.
 - Notes : Pour votre sécurité, veuillez vérifier et respecter les lois et réglementations locales en vigueur avant tout vol.
+- Voler devient facile : Ne laissez pas un peu de vent vous gêner. Mini 3 résiste à des vents de 38 km/h (niveau 5), vous pouvez donc rester stable et capturer votre prise de vue.
+- Radiocommande vendue séparément. Cette option d’achat est idéale pour les pilotes chevronnés qui disposent déjà d’une radiocommande.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CQ8NL72F{{</world>}}

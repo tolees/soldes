@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rapide et facile à monter et à démonter, létanchéité est assurée par joints prémontés. - Ce flexible possède lAttestation de Conformité Sanitaire (ACS) pour une utilisation sanitaire.
+- Interdit pour le gaz - Respecter les conseils de mise en œuvre indiqués sur lemballage.
 - Installation sanitaire / Pour eau potable - Compatible sur tous pas de vis standards en plomberie
 - Pression maxi. d’utilisation : 4 bars - T°C d’utilisation : de 5°C à 90°C
-- Interdit pour le gaz - Respecter les conseils de mise en œuvre indiqués sur lemballage.
-- Rapide et facile à monter et à démonter, létanchéité est assurée par joints prémontés. - Ce flexible possède lAttestation de Conformité Sanitaire (ACS) pour une utilisation sanitaire.
 - Flexible sanitaire tressé en acier inoxydable - Raccords en laiton. - Joint intégré en EPDM - Le flexible sanitaire permet de raccorder des appareils sanitaires à lalimentation générale deau chaude ou deau froide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CERTIFIÉ XBOX Compatible avec Xbox Series X, Xbox Series S et toutes les générations de consoles Xbox One
-- ILLUMINEZ VOTRE UNIVERS Créez une ambiance exceptionnelle lors de vos sessions de jeu grâce aux voyants LED RVB
 - DEUX PORTS À LAVANT Connectez et alimentez vos périphériques grâce aux ports USB-C et USB-A situés sur la face avant
+- ILLUMINEZ VOTRE UNIVERS Créez une ambiance exceptionnelle lors de vos sessions de jeu grâce aux voyants LED RVB
+- CERTIFIÉ XBOX Compatible avec Xbox Series X, Xbox Series S et toutes les générations de consoles Xbox One
 - GARANTIE Goûtez à la tranquillité desprit que procurent Rescue Data Recovery Services pour la récupération des données pendant trois ans et une garantie limitée dun an
 - CAPACITÉ ÉLEVÉE 8 To de stockage pour constituer la ludothèque idéale sans sacrifier aucun opus
 
