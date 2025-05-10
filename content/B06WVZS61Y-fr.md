@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉBROUSSAILLEUSE ROBUSTE, PUISSANTE ET BIEN ÉQUILIBRÉE - une puissance de 40 V et un moteur sans balai offrent une puissance et une durée de fonctionnement optimaux. Dispose d’un harnais et d’une poignée en D réglable pour un meilleur confort et contrôle
-- 3 ANS DE GARANTIE AVEC 2 ANS DE GARANTIE SUR LA BATTERIE - Achetez Greenworks, un leader mondial de l’outillage électrique et de la technologie des batteries, réputé pour ses conceptions intelligentes, ses hautes performances et son service client
 - CHANGEMENT FACILE DU FIL ET DE LA LAME - la débroussailleuse à double fil dun diamètre de 2 mm permet de couper les herbes hautes les plus rigides. Passez du fil à la lame en quelques secondes pour couper les mauvaises herbes difficiles
-- ALIMENTATION PAR À-COUPS POUR UN TIRAGE RAPIDE DU FIL - idéal pour les grands jardins où plus de fil est nécessaire. Il suffit de tapoter la tête de l’outil contre le sol pour prolonger le fil tout en continuant d’utiliser la débroussailleuse de jardin
 - BATTERIE LITHIUM NOUVELLE GENERATION DE 40V 2Ah - alimentée par une batterie avancée utilisable dans tout outil Greenworks 40V pour réduire les déchets et les coûts, et gagner de l’espace de rangement
+- ALIMENTATION PAR À-COUPS POUR UN TIRAGE RAPIDE DU FIL - idéal pour les grands jardins où plus de fil est nécessaire. Il suffit de tapoter la tête de l’outil contre le sol pour prolonger le fil tout en continuant d’utiliser la débroussailleuse de jardin
+- 3 ANS DE GARANTIE AVEC 2 ANS DE GARANTIE SUR LA BATTERIE - Achetez Greenworks, un leader mondial de l’outillage électrique et de la technologie des batteries, réputé pour ses conceptions intelligentes, ses hautes performances et son service client
+- DÉBROUSSAILLEUSE ROBUSTE, PUISSANTE ET BIEN ÉQUILIBRÉE - une puissance de 40 V et un moteur sans balai offrent une puissance et une durée de fonctionnement optimaux. Dispose d’un harnais et d’une poignée en D réglable pour un meilleur confort et contrôle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06WVZS61Y{{</world>}}

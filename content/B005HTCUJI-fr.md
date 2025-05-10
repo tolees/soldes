@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - L’Arbre Vert dispose de son propre site de production français, à Saint benoit (86) où 90% du volume de ses produits sont fabriqués
-- Demarche écologique
-- Priorité aux ingrédients d’origine naturelle
 - Fabriqué en France
+- Priorité aux ingrédients d’origine naturelle
+- Demarche écologique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005HTCUJI{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Longueur de câble: 1.2 mètres
 - Gamme de fréquences de 12 à 22 kHz
+- Diaphragmes de 30 mm en forme de dôme pour un son équilibré
 - Des aimants en néodyme offrent un son puissant
 - Oreillettes rembourrées pour un grand confort découte
-- Longueur de câble: 1.2 mètres
-- Diaphragmes de 30 mm en forme de dôme pour un son équilibré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00NBR70DO{{</world>}}
