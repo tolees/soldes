@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Batterie massive de 5000 mAh (typ)* Jusquà 23 heures de streaming vidéo
 - Puissant processeur octa-core Jusquà 1 To de stockage extensible*
-- Caméra triple AI de 50 MP
 - Écran fluide de 6,74 pouces à 90 Hz
-- Prise en charge de la charge rapide 18W* 5 minutes pour 5 heures de lecture de musique
+- Caméra triple AI de 50 MP
 - Jusquà 2,0 GHz Vitesse du processeur CPU
+- Prise en charge de la charge rapide 18W* 5 minutes pour 5 heures de lecture de musique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CP18P9W7{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quels composants sont inclus dans le produit : haut-parleurs, câble USB-C
-- Lenceinte SRS-NB10 est le compagnon de bureau idéal pour les appels mains libres et la multiconnexion permettant de connecter deux appareils en même temps.
-- Le haut-parleur est pointé précisément vers vos oreilles pour une expérience découte optimale. Grâce à la technologie de capture vocale précise, votre voix est capturée de manière claire et nette.
 - Lenceinte ultralégère SRS-NB10 est dotée dune bande en silicone souple à larrière pour un ajustement parfait lorsque vous vous détendez en écoutant de la musique, en regardant la télévision ou en regardant la télévision. Il est également résistant aux éclaboussures selon la norme IPX4 !
+- Quels composants sont inclus dans le produit : haut-parleurs, câble USB-C
+- Le haut-parleur est pointé précisément vers vos oreilles pour une expérience découte optimale. Grâce à la technologie de capture vocale précise, votre voix est capturée de manière claire et nette.
+- Lenceinte SRS-NB10 est le compagnon de bureau idéal pour les appels mains libres et la multiconnexion permettant de connecter deux appareils en même temps.
 - La fonction de désactivation du microphone intégrée à cette enceinte cervicale est facile à utiliser, tout comme les boutons de lecture/pause, les commandes de volume, etc.
 - Cette enceinte Bluetooth a une autonomie de batterie allant jusquà 20 heures. Si la batterie est faible, une charge rapide de 10 minutes vous donne jusquà une heure de lecture supplémentaire.
 

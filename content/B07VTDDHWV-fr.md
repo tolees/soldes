@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sous licence officielle de Nintendo
-- Construction légère (200 g) pour des sessions de jeu qui durent toute la journée
-- Microphone antibruit doux avec fonction de basculement pour désactiver le son
 - Haut-parleurs de 40 mm entourés doreillettes souples et rembourrées pour un confort maximal
+- Microphone antibruit doux avec fonction de basculement pour désactiver le son
+- Construction légère (200 g) pour des sessions de jeu qui durent toute la journée
 - Un son puissant et précis pour une expérience de jeu immersive
 
 [🛒 Achète-le!!]({{< param buyurl >}})

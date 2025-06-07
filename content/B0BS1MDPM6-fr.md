@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 24 x 0,5 x 18 cm
 - Matériaux : PP + papier + PVC
-- cas de maille
 - Avec fermeture éclair.
+- Dimensions : 24 x 0,5 x 18 cm
+- cas de maille
 - A lintérieur on peut trouver : · 1 planche dautocollants en relief · 1 stylo · 1 carnet avec reliure spirale · 3 mini signets magnétiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

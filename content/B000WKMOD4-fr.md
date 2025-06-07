@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur: Blanc
 - Type de produit: Paquet de 6 rouleaux de 1000 étiquettes rectangulaire
 - Description du produit: Agipa 100911
-- Couleur: Blanc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000WKMOD4{{</world>}}

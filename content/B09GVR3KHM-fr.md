@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incarnez vos personnages Disney préférés, Aladdin, Simba ou Mowgli, profitez des meilleurs graphismes de lère 16 bits et jouez à plusieurs versions de chaque jeu avec de nouvelles fonctionnalités
 - Disney Classic Games Collection est la plus grande compilation de jeux Disney basés sur certains des films les plus appréciés de tous les temps : Aladdin, Le Roi Lion et Le Livre de la Jungle !
 - Rembobinez instantanément et en temps réel pour réessayer les zones difficiles et enregistrez rapidement votre progression pour continuez votre aventure nimporte où et nimporte quand.
+- Incarnez vos personnages Disney préférés, Aladdin, Simba ou Mowgli, profitez des meilleurs graphismes de lère 16 bits et jouez à plusieurs versions de chaque jeu avec de nouvelles fonctionnalités
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GVR3KHM{{</world>}}

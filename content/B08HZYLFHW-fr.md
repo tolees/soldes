@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: REVLON PROFESSIONAL
 - Fiable
 - Durable
+- Marque: REVLON PROFESSIONAL
 - 7255439000
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

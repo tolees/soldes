@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet de construction 3-en-1 LEGO pour lespace comprend une navette spatiale, qui se reconstruit en une figurine dastronaute avec des jambes et des bras articulés ou un jouet de vaisseau spatial
-- Les enfants de 6 ans et plus peuvent choisir de construire cette navette spatiale super cool avec une trappe qui souvre et qui contient un satellite amovible et extensible à lintérieur
+- Grâce à lapplication LEGO Builder, les enfants peuvent zoomer, tourner et visualiser une version numérique de leur modèle sur leur smartphone ou leur tablette
 - Avec les ensembles LEGO Creator 3-en-1, les enfants bénéficient de 3 expériences de construction et de jeu différentes ; cest un cadeau danniversaire hors du commun ou un cadeau pour toute occasion destiné aux enfants de plus de 6 ans
 - Le set peut ensuite être transformé en un vaisseau spatial avec lequel les enfants peuvent senvoler en orbite, ou en une figurine dastronaute articulée avec un jetpack et un drapeau à « planter » sur un support
+- Les enfants de 6 ans et plus peuvent choisir de construire cette navette spatiale super cool avec une trappe qui souvre et qui contient un satellite amovible et extensible à lintérieur
 - Découvrez dautres ensembles LEGO 3-en-1, notamment les jeux de construction, La Moto Vintage (31135), Le Perroquet exotique (31136) et Adorables Chiens (31137)
-- Grâce à lapplication LEGO Builder, les enfants peuvent zoomer, tourner et visualiser une version numérique de leur modèle sur leur smartphone ou leur tablette
+- Ce jouet de construction 3-en-1 LEGO pour lespace comprend une navette spatiale, qui se reconstruit en une figurine dastronaute avec des jambes et des bras articulés ou un jouet de vaisseau spatial
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BBRYHTPS{{</world>}}

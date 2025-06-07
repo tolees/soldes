@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des graphismes fluides et mignons ainsi quune bande-son relaxante pour accompagner la routine quotidienne et de nombreux personnages à rencontrer et auxquels se lier damitié. Plus de 100 quêtes pour découvrir les secrets qui sont au cœur de ta planète.
-- Dans ANKORA LOST DAYS utilisez vos outils, le marteau pour construire des structures, la pelle pour creuser et modifier le terrain ou larc pour vous défendre ! Passez au niveau supérieur à chaque geste et apprenez de nouvelles recettes et compétences afin daméliorer vos chances de survie
 - Dans DEILAND POCKET PLANET, personnalisez votre planète avec des arbres, des plantes, des cultures, des fleurs ou des structures, et prenez soin de vos animaux de la ferme. Découvrez comment la planète entière change au printemps, en été, en automne et en hiver. Chaque récolte ne sera disponible quaux bonnes saisons
+- Dans ANKORA LOST DAYS utilisez vos outils, le marteau pour construire des structures, la pelle pour creuser et modifier le terrain ou larc pour vous défendre ! Passez au niveau supérieur à chaque geste et apprenez de nouvelles recettes et compétences afin daméliorer vos chances de survie
+- Des graphismes fluides et mignons ainsi quune bande-son relaxante pour accompagner la routine quotidienne et de nombreux personnages à rencontrer et auxquels se lier damitié. Plus de 100 quêtes pour découvrir les secrets qui sont au cœur de ta planète.
 - Explorez une grande variété de biomes, des déserts aux prairies en passant par les montagnes enneigées, chacun est rempli de secrets avec des visuels inspirés des films du Studio Ghibli comme Nausicaä de la vallée du vent. Un cadre moderne dans un univers fantastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

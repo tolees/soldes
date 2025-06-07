@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SKIL, UNE MARQUE PÉTILLANTE, FUN ET ORIGINALE : Des brumes qui vous accompagnent dans vos moments de folie grâce à des parfums envoûtants !
 - UNE DÉMARCHE RESPONSABLE : Nos flacons, capots et étiquettes sont fabriqués en France et sont en PET recyclable, pour découvrir de belles senteurs avec un minimum dimpact environnemental !
 - SKIL, tu connais ? Cest la brume parfumée magique qui te rend juste glamour et irrésistible !
+- SKIL, UNE MARQUE PÉTILLANTE, FUN ET ORIGINALE : Des brumes qui vous accompagnent dans vos moments de folie grâce à des parfums envoûtants !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSXHHNV5{{</world>}}
