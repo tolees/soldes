@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel : 57% coton - 43% polyester
-- 57 % coton, 43 % polyester
-- Sport type : Football
-- Department : Homme
 - Age range description : Adulte
+- 57 % coton, 43 % polyester
 - Fabriqué en tissu doux, respirant
 - Ras du cou
 - Conduite un maximum de confort pendant lentraînement ou la compétition
+- Department : Homme
+- Matériel : 57% coton - 43% polyester
+- Sport type : Football
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QW8LJ3L{{</world>}}

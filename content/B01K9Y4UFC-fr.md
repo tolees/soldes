@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chic Design
-- décontracté
+- Marque: New Era 1.0
 - Casquette.
+- Ppremière qualité
+- casquette de baseball
 - Visière incurvée.
+- Pratique
+- décontracté
+- Chic Design
 - MLB.
 - Matérie: 100% Coton
-- Pratique
-- casquette de baseball
-- Marque: New Era 1.0
-- Ppremière qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01K9Y4UFC{{</world>}}

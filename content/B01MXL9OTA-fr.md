@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en : Japon
 - Leffet brillant reste dans le papier
 - produits de haute qualité
+- Fabriqué en : Japon
 - matériel authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

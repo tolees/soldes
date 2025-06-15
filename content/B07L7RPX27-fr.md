@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coupe sportive décontractée
 - Taille élastiquée avec cordon de serrage
 - Pantalon Nike Sportswear Club Fleece pour Homme
-- Coupe sportive décontractée
 - Tissu doux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pikachu arbore des détails reproduisant une attaque électrique sur les joues
-- Les briques sont compatibles avec tous les coffrets de construction MEGA et d’autres marques de briques de construction
 - Idéal à partir de 7 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
+- Les briques sont compatibles avec tous les coffrets de construction MEGA et d’autres marques de briques de construction
 - Cette figurine de Pikachu à construire est articulée et mesure plus de 10 cm
+- Pikachu arbore des détails reproduisant une attaque électrique sur les joues
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YQNPP3T{{</world>}}

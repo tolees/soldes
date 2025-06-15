@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Aide à protéger les cheveux des effets nocifs
-- Article dorigine
 - Produit de qualité
+- Article dorigine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HZZ8TXS{{</world>}}

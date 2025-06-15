@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le capuchon mobile protège le connecte
 - Différentes options de couleur par capacitéur USB
+- Le capuchon mobile protège le connecte
 - Grand anneau pour l’accrocher à un porte-clés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
