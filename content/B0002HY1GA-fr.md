@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - 3209 - la Maison Moderne - Famille/Poussette'
-date: 2025-06-14 16:23:42
+date: 2025-06-15 22:29:50
 image: 'https://m.media-amazon.com/images/I/512v7WOZ3ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Figurines de personnages','Figurines pour enfants','Jeux et Jouets','Je
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
-comparePrice: 10.81 EUR
+comparePrice: 11.59 EUR
 prodname: 'Playmobil - 3209 - la Maison Moderne - Famille/Poussette'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B0002HY1GA/?tag=tolees0d-21'
-descuento: '35.34'
-average: '7.79471428571427'
+descuento: '39.69'
+average: '7.7723611111111'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

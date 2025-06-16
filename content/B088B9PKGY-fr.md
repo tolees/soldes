@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RÉGLAGE DU PROGRAMME ET DE LA MINUTERIE Vous pouvez programmer les appareils connectés pour quils sallument et séteignent automatiquement par Meross Alexa Prise Intelligente. Économisez de lénergie lorsque les lumières ne sont pas nécessaires ou laissées allumées par accident. Le réglage du lever et du coucher du soleil est pris en charge
-- 16A PRISE WIFI AVEC SIRI VOCAL ET CONTRÔLE À DISTANCE La prise connectée Meross fonctionne avec Apple HomeKit, iPhone iWatch (iOS 13 ou supérieur). Pour les appareils électroménagers, Siri peut allumer ou éteindre vos accessoires Apple HomeKit. Il suffit de dire "Dis Siri". Remarque iOS vous guidera dans la configuration et la gestion dApple HomeKit. Le contrôle à distance nécessite un appareil Apple supplémentaire, tel quun iPad, un HomePod ou une Apple TV
 - COMPATIBLE AVEC ALEXA ET GOOGLE HOME Contrôlez vos appareils ménagers en donnant des commandes vocales. Meross prise intelligente est compatible avec Amazon Alexa et Google Home. Lorsque vous nêtes pas chez vous, vous pouvez toujours contrôler les appareils via lapplication Meross
+- 16A PRISE WIFI AVEC SIRI VOCAL ET CONTRÔLE À DISTANCE La prise connectée Meross fonctionne avec Apple HomeKit, iPhone iWatch (iOS 13 ou supérieur). Pour les appareils électroménagers, Siri peut allumer ou éteindre vos accessoires Apple HomeKit. Il suffit de dire "Dis Siri". Remarque iOS vous guidera dans la configuration et la gestion dApple HomeKit. Le contrôle à distance nécessite un appareil Apple supplémentaire, tel quun iPad, un HomePod ou une Apple TV
+- RÉGLAGE DU PROGRAMME ET DE LA MINUTERIE Vous pouvez programmer les appareils connectés pour quils sallument et séteignent automatiquement par Meross Alexa Prise Intelligente. Économisez de lénergie lorsque les lumières ne sont pas nécessaires ou laissées allumées par accident. Le réglage du lever et du coucher du soleil est pris en charge
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B088B9PKGY{{</world>}}

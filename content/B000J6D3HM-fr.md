@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecriture douce, grand confort décriture
-- Pointe en plastique de 0,4mm
 - Encre verte
+- Pointe en plastique de 0,4mm
+- Ecriture douce, grand confort décriture
 - Feutre à bille Pentel R50
 
 [🛒 Achète-le!!]({{< param buyurl >}})

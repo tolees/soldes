@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autocollantes
 - Etiquettes pour pinces à étiqueter sinusoïdale
+- Autocollantes
 - En papier, adhésif permanent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

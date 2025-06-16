@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoire
-- Classique
 - Régulier
+- Classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B086TCGCS3{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Astérix & obélix xxl 3: le menhir de cristal: découvrez la dernière aventure d’astérix et obélix et maîtrisez les incroyables pouvoirs du menhir de cristal
-- Astérix & obélix xxl: romastered: aidez astérix et obélix à sauver les villageois kidnappés par césar et son armée
 - Astérix & obélix xxl 2: le druide panoramix a trahi le village et pactisé avec les romains ! découvrez la vérité sur cette mystérieuse trahison, et n’oubliez pas de baffer quelques romains au passage
+- Astérix & obélix xxl: romastered: aidez astérix et obélix à sauver les villageois kidnappés par césar et son armée
+- Astérix & obélix xxl 3: le menhir de cristal: découvrez la dernière aventure d’astérix et obélix et maîtrisez les incroyables pouvoirs du menhir de cristal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08ZF8YP6D{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huile de Coco, vitamines C et E
-- Teint unifié et lumineux
-- Crème teintée, composition simplifiée
-- Embellisseur
 - Texture fluide, embout précision
+- Crème teintée, composition simplifiée
+- Teint unifié et lumineux
 - Hydratation 24H en profondeur
+- Huile de Coco, vitamines C et E
+- Embellisseur
 - Amélioration de la qualité de la peau
 
 [🛒 Achète-le!!]({{< param buyurl >}})

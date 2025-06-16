@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effets lumineux RGB remarquable avec effets dynamiques
-- Interrupteurs mécaniques HyperX
-- Corps entier en aluminium destiné à laviation
 - Personnalisation avancée à laide du logiciel HyperX NGenuity
+- Interrupteurs mécaniques HyperX
+- Effets lumineux RGB remarquable avec effets dynamiques
+- Corps entier en aluminium destiné à laviation
 - Conception compacte et portable avec cble USB Type-C amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

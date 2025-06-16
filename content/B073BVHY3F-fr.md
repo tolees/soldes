@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rejoue aux classiques Street Fighter 2 Turbo, Donkey Kong Country et Super Mario World
-- Star Fox II en exclus après 20 ans dattente
-- 21 Jeux compris
-- Contact du support de Nintendo : 01 34 35 46 13
-- Fonction Replay jusquà 45 secondes et 4 sauvegardes par jeu
 - Console fournie avec 2 manettes avec câble de 1m 52 cm et un câble HDMI
+- 21 Jeux compris
+- Star Fox II en exclus après 20 ans dattente
+- Rejoue aux classiques Street Fighter 2 Turbo, Donkey Kong Country et Super Mario World
+- Fonction Replay jusquà 45 secondes et 4 sauvegardes par jeu
+- Contact du support de Nintendo : 01 34 35 46 13
 - Nintendo Classic Mini: Super Entertainment System Grey - game consoles (Grey, HDMI)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

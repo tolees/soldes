@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
-- Ceci est un authentique produit Levi’s
 - Petit logo de la marque Levis brodé sur la poitrine
+- Ceci est un authentique produit Levi’s
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 - Toucher jersey doux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

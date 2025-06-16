@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patins en caoutchouc antidérapants et réglage de langle: réglage de langle à trois crans pour un confort accru et des patins en caoutchouc pour une stabilité à toute épreuve lors des sessions de gaming intensives
 - Personnalisé pour les pros: conçu avec et pour les athlètes eSports recherchant des performances, une vitesse et une précision exceptionnelles
-- Switchs sonores GX Blue de qualité professionnelle: les switchs sonores GX Blue robustes offrent un clic audible et un retour de saisie tactile pour une pression solide et sécurisée sur la touche
-- La programmation de léclairage RVB nécessite le logiciel Logitech G HUB
-- Les macros du clavier ne sont généralement pas autorisées dans les tournois
-- Câble détachable: le câble micro-USB détachable possède une conception à trois dents pour une connexion facile et sécurisée, ainsi quun transport facile dans votre sac de voyage
-- 12 touches F offrant des macros programmables: exécutez un ensemble dactions complexes ou chronométrées en appuyant sur un bouton, La programmation et lutilisation des touches F (F1-F12) nécessitent le logiciel Logitech G HUB
-- Conception compacte ultra-portable: la conception compacte sans pavé numérique libère de lespace sur la table pour déplacer la souris, Il est également facile à emballer et à transporter pour les tournois
 - LIGHTSYNC RVB: utilisez LIGHTSYNC pour mettre les touches en valeur et programmer des motifs déclairage statique dans la mémoire intégrée pour les configurations de tournoi nautorisant pas linstallation de G HUB
+- Patins en caoutchouc antidérapants et réglage de langle: réglage de langle à trois crans pour un confort accru et des patins en caoutchouc pour une stabilité à toute épreuve lors des sessions de gaming intensives
+- La programmation de léclairage RVB nécessite le logiciel Logitech G HUB
+- 12 touches F offrant des macros programmables: exécutez un ensemble dactions complexes ou chronométrées en appuyant sur un bouton, La programmation et lutilisation des touches F (F1-F12) nécessitent le logiciel Logitech G HUB
+- Switchs sonores GX Blue de qualité professionnelle: les switchs sonores GX Blue robustes offrent un clic audible et un retour de saisie tactile pour une pression solide et sécurisée sur la touche
+- Les macros du clavier ne sont généralement pas autorisées dans les tournois
+- Conception compacte ultra-portable: la conception compacte sans pavé numérique libère de lespace sur la table pour déplacer la souris, Il est également facile à emballer et à transporter pour les tournois
+- Câble détachable: le câble micro-USB détachable possède une conception à trois dents pour une connexion facile et sécurisée, ainsi quun transport facile dans votre sac de voyage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W5JJ85P{{</world>}}
