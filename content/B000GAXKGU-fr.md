@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Porte-mines technique rechargeable pour mines 0,7mm
-- Idéal pour dessins techniques et utilisation quotidienne
 - Corps de haute qualité en métal gris argenté
 - Porte-mines avec canon rentrant et muni dune gomme
+- Idéal pour dessins techniques et utilisation quotidienne
+- Porte-mines technique rechargeable pour mines 0,7mm
 - Indicateur de dureté de la mine sur le corps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un véhicule jouet LEGO Star Wars collector pour les enfants – Grâces aux connecteurs, les constructeurs peuvent ajouter un second set 75387 (vendu séparément) pour agrandir le couloir
 - Une idée cadeau pour les fans de la saga Star Wars dès 8 ans – Offrez ce set de construction collector à un garçon ou une fille, fan de Star Wars, ou aux collectionneurs d’objets Star Wars
-- 7 minifigurines LEGO Star Wars – Dark Vador, 2 Stormtroopers, 2 soldats rebelles et le Capitaine Antilles, ainsi qu’une minifigurine de l’ARC Trooper Fives célébrant le 25e anniversaire de LEGO Star Wars
 - Jeu de construction du Tantive IV LEGO Star Wars pour enfants – Recréez la légendaire scène de l’abordage du Tantive IV dans Star Wars : Un nouvel espoir, où Dark Vador et ses Stormtroopers affrontent les soldats rebelles
 - Aide à la construction – Avec l’application LEGO Builder, les enfants peuvent zoomer, faire pivoter et visualiser une version numérique de leur maquette pendant la construction, suivre leur progression, sauvegarder leurs sets et plus encore
 - Un fantastique jouet de construction doté de fonctions amusantes – Actionnez les leviers pour « faire sauter » la porte d’entrée menant au couloir et faire tomber les minifigurines LEGO pendant les combats
+- Un véhicule jouet LEGO Star Wars collector pour les enfants – Grâces aux connecteurs, les constructeurs peuvent ajouter un second set 75387 (vendu séparément) pour agrandir le couloir
+- 7 minifigurines LEGO Star Wars – Dark Vador, 2 Stormtroopers, 2 soldats rebelles et le Capitaine Antilles, ainsi qu’une minifigurine de l’ARC Trooper Fives célébrant le 25e anniversaire de LEGO Star Wars
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFW28JMN{{</world>}}

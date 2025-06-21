@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Marque Garnier
-- Produits de beauté
 - BB et CC crèmes
+- Produits de beauté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007OWXTCI{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection contre les courts-circuits, les surintensités et les surtempératures.
 - Plage dentrée de fonctionnement: 96-264 V
+- Protection contre les courts-circuits, les surintensités et les surtempératures.
 - Sortie : 5,1 V.
 - Connecteur de sortie: USB-C
 

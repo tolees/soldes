@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 Coussins de fixation
-- 2 Coussins microfibres réutilisables
 - 10 lingettes humides jetables
+- 2 Coussins microfibres réutilisables
+- 2 Coussins de fixation
 - Compatible Bespoke Jet One
 - Double serpillière
 

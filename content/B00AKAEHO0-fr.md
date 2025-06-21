@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Très Bonne Visibilité Dans LObscurité
-- Jardinage Camping Loisirs Pêche
 - Corde Réfléchissante
+- Jardinage Camping Loisirs Pêche
 - Sécurité
 - Utilisation en Extérieur
 

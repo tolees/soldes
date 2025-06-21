@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîte Spéciale (ca. 19 x 19 x 8 cm) plastique, refermable
 - avec 6 Ferrero Kinder Spécialités différentes, 640g total
-- unique Cadeau Saint Valentin et Cadeau de Pâques
 - Compilation avec Kinder Maxi, Kinder Bueno, Kinder Country, Kinder Chocolat, Kinder Happy Hippo Snack et Kinder Minis
+- Boîte Spéciale (ca. 19 x 19 x 8 cm) plastique, refermable
+- unique Cadeau Saint Valentin et Cadeau de Pâques
 - boîte spéciale avec Ferrero Kinder spécialités pour le bureau, anniversaire ou comme cadeau spécial
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

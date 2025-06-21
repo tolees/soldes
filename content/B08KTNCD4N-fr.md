@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Il est toujours recommandé de consulter le manuel du téléviseur pour identifier le trou VESA, puis de choisir lun de nos supports compatibles.
-- Distance minimale du dessus : 85 mm.
 - Avant dacheter, vérifiez la distance entre les 4 trous (VESA) situés à larrière du téléviseur (LxH en mm)
 - Capacité maximale de 20 kg. Rotation verticale (& deg ;) & plusmn ; 25. Rotation horizontale (& degrés ;) -5 +20.
+- Distance minimale du dessus : 85 mm.
 - Compatible avec la plupart des téléviseurs à écran plat jusquà 25 pouces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : bleu foncé
 - Semelle : 100 % EVA
+- Couleur : bleu foncé
 - Matériau extérieur : polyester recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
