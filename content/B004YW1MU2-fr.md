@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimension: 30cm
 - La marque METALTEX fabrique et commercialise une collection très large de petits ustensiles de cuisine et de produits daide culinaire
 - Matériel: acier inoxydable
+- Dimension: 30cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004YW1MU2{{</world>}}

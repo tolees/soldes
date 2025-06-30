@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un design compact et original pour une performance maximale : Avec 10h dautonomie de batterie et un son audacieux à basses profondes partout où vous allez grâce au Son JBL Original Pro
+- Respect de l’environnement : Le Flip Essential 2 est emballé dans une boîte en papier recyclable, létiquette en plastique est 90% recyclée et lextérieur est imprimé avec de lencre de soja
 - Ne reculez devant rien grâce à létanchéité IPX7 : Une journée à la piscine ? Parfait. Une fête à la plage ? Pas de problème. Flip Essential 2 est étanche pour un divertissement sans crainte
 - Toutes vos musiques, où que vous soyez : Connecter jusquà 2 smartphones ou tablettes à lenceinte et profitez à tour de rôle du son JBL Original Pro grâce à la diffusion Bluetooth sans fil
-- Respect de l’environnement : Le Flip Essential 2 est emballé dans une boîte en papier recyclable, létiquette en plastique est 90% recyclée et lextérieur est imprimé avec de lencre de soja
 - Livraison : 1 x JBL Flip Essential 2 Enceinte Bluetooth portable / Dimensions : 175 x 68 x 70 mm / Poids : 0,52g / 1 x Câble USB Type C / 1 x Garantie / 1 x Guide de démarrage rapide - Noir
-- Un design compact et original pour une performance maximale : Avec 10h dautonomie de batterie et un son audacieux à basses profondes partout où vous allez grâce au Son JBL Original Pro
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3XX8P9C{{</world>}}

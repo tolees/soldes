@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Lacets
-- Matériau de semelle: Synthétique
+- Semelle intérieure: Cuir
 - Doublure: Synthétique
 - Type de talons: Plat
-- Semelle intérieure amovible: true
-- Largeur de la chaussure: Moyen
-- Semelle intérieure: Cuir
-- Dessus: Toile
 - Taille: Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Semelle intérieure amovible: true
+- Dessus: Toile
+- Fermeture: Lacets
+- Matériau de semelle: Synthétique
+- Largeur de la chaussure: Moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SXSLGKM{{</world>}}

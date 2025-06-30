@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LEVEIL DES TOUT-PETITS : cette gamme aux couleurs douces va accompagner votre enfant au développement de tous ces sens.
 - JOUER POUR MIEUX GRANDIR : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
 - DES JOUETS ORIGINE FRANCE GARANTIE : Jouets Ecoiffier est une entreprise familiale qui fabrique tous ses jouets en France.
 - SON PETIT MONDE : ce bac et son couvercle servant de base de jeu permettra à votre enfant de laisser libre cours à sa créativité en découvrant la multitude de combinaisons possibles avec ce lot de nombreuses briques.
-- LEVEIL DES TOUT-PETITS : cette gamme aux couleurs douces va accompagner votre enfant au développement de tous ces sens.
 - UN GRAND BAC PRATIQUE : Ce kit contient 1 bac de rangement transparent muni dun couvercle servant de base aux constructions et rempli de 70 briques à empiler de couleurs et de formes différentes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 10 lingettes humides jetables
-- Double serpillière
-- 2 Coussins microfibres réutilisables
 - 2 Coussins de fixation
+- 2 Coussins microfibres réutilisables
 - Compatible Bespoke Jet One
+- Double serpillière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZF8S58Q{{</world>}}

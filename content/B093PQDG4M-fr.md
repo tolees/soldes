@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : caoutchouc
 - Matériau intérieur : textile
-- Matériau extérieur : textile
+- Fermeture : caoutchouc
 - Forme du talon : plat
+- Matériau extérieur : textile
 - Largeur de la chaussure : moyenne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

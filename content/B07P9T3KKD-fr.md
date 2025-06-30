@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lampes fonctionnelles (Nécessite 3 piles de 1,5 V AAA non fournies)
 - Dans la nouvelle maison, elle a pu installer son propre coin couture dans la chambre.
 - Découvrez comment la haute qualité et le design robuste de nos jouets assurent des aventures durables. Le nettoyage des pièces (sans autocollants) se fait simplement sous l’eau courante, sans recours à des agents chimiques. La notice permet de monter facilement les jouets avec l’aide des parents.
-- Lampes fonctionnelles (Nécessite 3 piles de 1,5 V AAA non fournies)
 - Une belle et grande maison pour accueillir toute la famille et y faire plein dactivités !
 - La couture a toujours fait partie des passe-temps préférés de maman !
 

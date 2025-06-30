@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ANTI-CERNES COUVRANCE MOYENNE A FORTE: Revlon vous présente PhotoReady, un stick anti-cernes sous forme de crème. Cet anti-cernes offre une une couvrance moyenne à totale qui ne file pas dans les ridules. Ce correcteur offre une action complète: il floute, gomme et camoufle les cernes et imperfections.
-- CONSEILS DUTILISATION: Appliquer le correcteur Revlon sous les yeux, les imperfections et taches . Estompez le stick anti-cernes crème à laide du bout de vos doigts ou dune éponge en tapotant délicatement. Ce concealer se décline en 3 teintes.Trouvez la teinte danti-cernes qui couvrira vos imperfections pour un look zéro défaut.
 - POINTE BISEAUTÉE HAUTE PRÉCISION: Lanti-cernes correcteur haute précision PhotoReady est présenté sous format stick avec une pointe biseautée pour plus de praticité. La forme biseautée de ce stick concealer facilite lapplication de lanti-cernes pour une couvrance optimale.
-- ILLUMINE LE VISAGE: Le concealer PhotoReady de Revlon est riche en pigments qui réfléchissent et diffusent la lumière pour illuminer le visage. Ainsi, cet anti-cernes permet un teint zéro défaut. De plus, lanti-cernes correcteur Revlon est formulé avec une technologie de filtre haute définition qui couvre, camoufle les imperfections et capte la lumière.
+- ANTI-CERNES COUVRANCE MOYENNE A FORTE: Revlon vous présente PhotoReady, un stick anti-cernes sous forme de crème. Cet anti-cernes offre une une couvrance moyenne à totale qui ne file pas dans les ridules. Ce correcteur offre une action complète: il floute, gomme et camoufle les cernes et imperfections.
 - RESULTATS ATTENDUS: La formule crème de l’anti-cernes Revlon PhotoReady glisse naturellement sur la peau pour dissimuler les cernes et camoufler toutes les imperfections. Ce correcteur a été pensé pour une application précise. Ce stick anti-cernes utilise une technologie de haute performance pour flouter les imperfections, comme un filtre photo.
+- CONSEILS DUTILISATION: Appliquer le correcteur Revlon sous les yeux, les imperfections et taches . Estompez le stick anti-cernes crème à laide du bout de vos doigts ou dune éponge en tapotant délicatement. Ce concealer se décline en 3 teintes.Trouvez la teinte danti-cernes qui couvrira vos imperfections pour un look zéro défaut.
+- ILLUMINE LE VISAGE: Le concealer PhotoReady de Revlon est riche en pigments qui réfléchissent et diffusent la lumière pour illuminer le visage. Ainsi, cet anti-cernes permet un teint zéro défaut. De plus, lanti-cernes correcteur Revlon est formulé avec une technologie de filtre haute définition qui couvre, camoufle les imperfections et capte la lumière.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0049CR7UG{{</world>}}

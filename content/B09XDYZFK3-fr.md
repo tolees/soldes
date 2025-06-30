@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les notes de fond puissantes et riches du patchouli ajoutent de la profondeur et de lintensité.
+- Un parfum qui vous donne le sourire !
 - Une eau de parfum chyprée, chic & solaire.
 - Une dose de bonheur immédiate.
-- Un parfum qui vous donne le sourire !
 - Les notes de tête hespéridées de la bergamote introduisent une compilation de notes rayonnantes, solaires et florales.
-- Les notes de fond puissantes et riches du patchouli ajoutent de la profondeur et de lintensité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XDYZFK3{{</world>}}

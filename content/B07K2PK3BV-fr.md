@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité: iPad Pro 12,9 pouces (6ᵉ, 5ᵉ, 4ᵉ, 3ᵉ génération); iPad Pro 11 pouces (4ᵉ, 3ᵉ, 2ᵉ, 1ʳᵉ génération); iPad Air (5ᵉ, 4ᵉ génération), iPad mini (6ᵉ génération)
-- Vous pouvez changer d’outil tout simplement en le touchant deux fois du bout du doigt.
-- Le dernier Apple Pencil pour iPad Pro offre une expérience d’une qualité incomparable à tous ceux qui aiment dessiner, prendre des notes, crayonner ou annoter des documents.
 - Connexions: Bluetooth
+- Le dernier Apple Pencil pour iPad Pro offre une expérience d’une qualité incomparable à tous ceux qui aiment dessiner, prendre des notes, crayonner ou annoter des documents.
+- Vous pouvez changer d’outil tout simplement en le touchant deux fois du bout du doigt.
 - L’Apple Pencil se fixe de façon magnétique à l’iPad Pro et se recharge sans fil, pour être toujours prêt quand vous en avez besoin.
+- Compatibilité: iPad Pro 12,9 pouces (6ᵉ, 5ᵉ, 4ᵉ, 3ᵉ génération); iPad Pro 11 pouces (4ᵉ, 3ᵉ, 2ᵉ, 1ʳᵉ génération); iPad Air (5ᵉ, 4ᵉ génération), iPad mini (6ᵉ génération)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07K2PK3BV{{</world>}}

@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle de Bande Passante - Le contrôle de la bande passante basé sur IP alloue la vitesse requise de chaque appareil connecté pour assurer la fluidité du streaming multimédia.
-- Cryptage de Sécurité - Il est compatible avec IPv6 et prend en charge les mécanismes de sécurité WPA, WPA2, WPA-PSK / WPA2-PSK pour améliorer le niveau de sécurité de votre réseau.
-- Configuration Rapide et Facile - Configurez ce tenda routeur en 30 secondes via la page Web (192.168.0.1) ou lapplication Tenda et vous aide à accéder à Internet sans effort. Attention : Le routeur F3 nest pas un routeur LTE et na pas demplacement pour carte SIM.
-- 3*5dBi Antennes Externes - Les antennes 3*5dBi augmentent la couverture sans fil jusquà 50㎡, et la force du signal WiFi est affectée par la distance ou les obstacles entre le routeur et les terminaux.
-- Réseau Invité - Gérez un accès réseau séparé pour les invités et sécurisez votre réseau principal.
-- Routeur WiFi Rapide - Compatible IEEE 802.11b/g/n, vitesse sans fil 2,4 GHz jusquà 300 Mbps, il est optimal pour les besoins Internet de base comme le streaming vidéo, le téléchargement/téléchargement de fichiers, la navigation Web et le chat en ligne.
-- Contrôle Parental - Pour limiter laccès à Internet de vos enfants afin de garder une bonne habitude de surfer.
 - Service Après-Vente - Si vous rencontrez des problèmes avec les produits, nhésitez pas à nous envoyer un e-mail à support.fr@tenda.cn. Léquipe technique de Tenda vous fournira des solutions professionnelles. Garantie 3 ans.
+- Cryptage de Sécurité - Il est compatible avec IPv6 et prend en charge les mécanismes de sécurité WPA, WPA2, WPA-PSK / WPA2-PSK pour améliorer le niveau de sécurité de votre réseau.
+- 3*5dBi Antennes Externes - Les antennes 3*5dBi augmentent la couverture sans fil jusquà 50㎡, et la force du signal WiFi est affectée par la distance ou les obstacles entre le routeur et les terminaux.
+- Configuration Rapide et Facile - Configurez ce tenda routeur en 30 secondes via la page Web (192.168.0.1) ou lapplication Tenda et vous aide à accéder à Internet sans effort. Attention : Le routeur F3 nest pas un routeur LTE et na pas demplacement pour carte SIM.
 - Ports Fast Ethernet - 3 ports LAN et 1 port WAN avec 10/100 Mbps permettent au routeur wifi puissant de connecter des appareils câblés et daugmenter la stabilité de la connexion.
+- Contrôle de Bande Passante - Le contrôle de la bande passante basé sur IP alloue la vitesse requise de chaque appareil connecté pour assurer la fluidité du streaming multimédia.
+- Routeur WiFi Rapide - Compatible IEEE 802.11b/g/n, vitesse sans fil 2,4 GHz jusquà 300 Mbps, il est optimal pour les besoins Internet de base comme le streaming vidéo, le téléchargement/téléchargement de fichiers, la navigation Web et le chat en ligne.
+- Réseau Invité - Gérez un accès réseau séparé pour les invités et sécurisez votre réseau principal.
+- Contrôle Parental - Pour limiter laccès à Internet de vos enfants afin de garder une bonne habitude de surfer.
 - Plusieurs Modes de Fonctionnement : Mode routeur sans fil, mode repeteur, mode point daccès wifi, mode WISP, ne prend pas en charge le modem DSL.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
