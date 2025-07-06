@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Columbia
-- Poids: 0.21 kg
 - Nelson point
+- Poids: 0.21 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0771YK3GT{{</world>}}

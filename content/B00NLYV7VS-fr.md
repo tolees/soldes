@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 ports USB intégrés : Rechargez rapidement vos appareils mobiles tout en les protégeant contre les dommages électriques et les pertes de données grâce aux deux ports USB-A intégrés de 2,4 A.
-- 8 prises secteur sécurisées : Protégez votre bureau, votre ordinateur, votre foyer ou votre home cinéma contre les fluctuations ou pics de tension et surtensions jusquà 900 joules grâce à la protection complète des 3 câbles électriques
-- Cordon dalimentation de 2 m : Grâce à ce cordon dalimentation de 2 m de long, la multiprise parafoudre ne vous gêne pas et vos appareils bénéficient dune alimentation électrique optimale
 - Parafoudre sûr et intelligent : Solide, le boitier protège les circuits contre le feu, les impacts et la rouille. Lindicateur LED de mise à la terre vous prévient si votre prise secteur nest pas conforme. Linterrupteur intégré de la multiprise vous permet déviter lextinction par mégarde de vos appareils. Les clapets coulissants sécurisés vous permettent de protéger vos enfants contre les incidents.
+- 2 ports USB intégrés : Rechargez rapidement vos appareils mobiles tout en les protégeant contre les dommages électriques et les pertes de données grâce aux deux ports USB-A intégrés de 2,4 A.
+- Cordon dalimentation de 2 m : Grâce à ce cordon dalimentation de 2 m de long, la multiprise parafoudre ne vous gêne pas et vos appareils bénéficient dune alimentation électrique optimale
+- 8 prises secteur sécurisées : Protégez votre bureau, votre ordinateur, votre foyer ou votre home cinéma contre les fluctuations ou pics de tension et surtensions jusquà 900 joules grâce à la protection complète des 3 câbles électriques
 - Garantie sur les matériels connectés : Si votre dispositif est endommagé par une recharge électrique alors que la connexion au parafoudre est correcte, Belkin le réparera ou le remplacera à hauteur de 65 000 € (uniquement dans le cas où le chargeur a été expédié par Amazon / vendu directement sur le site de vente en ligne Amazon).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

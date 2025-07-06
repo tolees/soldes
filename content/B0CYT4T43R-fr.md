@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Au moins 20 % du matériau principal de la tige est composé de polyester recyclé
 - Tige en mesh
 - Amorti avec technologie EVA
+- Au moins 20 % du matériau principal de la tige est composé de polyester recyclé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYT4T43R{{</world>}}

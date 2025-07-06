@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec logo
 - Offre une grande liberté de mouvement
+- Avec logo
 - Idéal pour donner une touche décontractée
 - Garantit un confort optimal
 

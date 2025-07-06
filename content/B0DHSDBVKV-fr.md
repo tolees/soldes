@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fleurs LEGO – Le set inclut 15 tiges de fleurs, dont des marguerites, des bleuets, de l’eucalyptus, des fleurs de sureau, des roses, des renoncules, des orchidées cymbidium, une campanule et un dahlia nénuphar
-- Fleurs artificielles à construire – Laissez libre cours à votre créativité avec Le joli bouquet de fleurs roses LEGO Botanicals : un set de décoration d’intérieur pour adultes, inspiré de la nature
+- D’autres fleurs artificielles à construire – Ce bouquet en briques peut être associé à d’autres sets (vendus séparément) de la collection LEGO Botanicals
 - Application LEGO Builder – Ce set inclut des versions imprimées et numériques des instructions de montage, pour une expérience de construction immersive
 - Set de construction florale LEGO – Une fois achevé, ce bouquet LEGO devient un élément décoratif coloré pour la maison ou le bureau, à exposer dans un vase (non inclus)
-- D’autres fleurs artificielles à construire – Ce bouquet en briques peut être associé à d’autres sets (vendus séparément) de la collection LEGO Botanicals
+- Fleurs artificielles à construire – Laissez libre cours à votre créativité avec Le joli bouquet de fleurs roses LEGO Botanicals : un set de décoration d’intérieur pour adultes, inspiré de la nature
 - Cadeau sur le thème de la nature – Les fleurs sont un beau cadeau à offrir à une femme, un homme ou un amateur de fleurs pour un anniversaire ou toute occasion spéciale
+- Fleurs LEGO – Le set inclut 15 tiges de fleurs, dont des marguerites, des bleuets, de l’eucalyptus, des fleurs de sureau, des roses, des renoncules, des orchidées cymbidium, une campanule et un dahlia nénuphar
 - Un bouquet à composer – Chaque fleur LEGO ayant une tige réglable, les constructeurs peuvent créer un bouquet personnalisé en modulant leur création
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Materieu de semelle : caoutchouc
 - Dessus : synthétique
 - Fermeture : à enfiler
+- Materieu de semelle : caoutchouc
 - Type de Talons : plat
 - Semelle intérieure : cuir
 - Doublure : textil

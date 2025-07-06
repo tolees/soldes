@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interagissez avec l’environnement et faites preuve d’imagination pour atteindre votre but.
 - Une IA avancée qui apprend de vos actions Un gameplay haletant basé sur l’infiltration.
+- Interagissez avec l’environnement et faites preuve d’imagination pour atteindre votre but.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07F1XLCQ8{{</world>}}

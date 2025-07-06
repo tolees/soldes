@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les limes d’atelier PFERD satisfont aux exigences de qualité les plus élevées et se caractérisent par une longue durée de vie ainsi qu’un enlèvement de matière homogène de la pointe jusqu’à la soie
 - La lime plate, triangulaire et pointue, la lime carrée et pointue, la lime demi-ronde pointue et la lime ronde taille croisée H1 conviennent à l’enlèvement grossier de matière et au dégrossissage
-- Contenu de la livraison : 1 PFERD assortiment de limes d’atelier, comprenant : 5 limes, 250 mm taille croisée 1 (plate à main, triangulaire, carrée, demi-ronde pointue, ronde) 5 manches ergonomiques, 1 étui enroulable en PVC
-- Limes de qualité éprouvée à usage industriel ou artisanal, dans un étui enroulable protecteur en PVC résistant aux agressions extérieures, pour le rangement dans une boîte à outils ou sur l’établi
 - Chaque lime dispose d’un manche ergonomique assurant confort et sécurité d’utilisation – protège la main des bords et angles tranchants
+- Les limes d’atelier PFERD satisfont aux exigences de qualité les plus élevées et se caractérisent par une longue durée de vie ainsi qu’un enlèvement de matière homogène de la pointe jusqu’à la soie
+- Limes de qualité éprouvée à usage industriel ou artisanal, dans un étui enroulable protecteur en PVC résistant aux agressions extérieures, pour le rangement dans une boîte à outils ou sur l’établi
+- Contenu de la livraison : 1 PFERD assortiment de limes d’atelier, comprenant : 5 limes, 250 mm taille croisée 1 (plate à main, triangulaire, carrée, demi-ronde pointue, ronde) 5 manches ergonomiques, 1 étui enroulable en PVC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005DKN5SG{{</world>}}

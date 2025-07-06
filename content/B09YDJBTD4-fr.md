@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Masque hydratant intensif pour cheveux bouclés à crépus : texture fondante qui hydrate les cheveux sans alourdir et pré-démêle. Concentré en Glycérine végétale (2,5 %), Urea H et extrait de graine dHibiscus, il apporte brillance, douceur. Idéal pour cheveux sensibilisés & fragilisés.
 - Hydratation Intense* Préparation au démêlage* Douceur* & Souplesse *Test Instru. : Gelée Lavante Anti-Résidus + Masque Hydratant Intensif
 - Après le shampoing ou entre 2 shampoings (technique co-wash), sur cheveux essorés, appliquer le masque sur lensemble de la chevelure. Laisser poser 10 mn, idéalement sous un bonnet chauffant. Rincer abondamment à leau tiède. Suivre avec les Leave-In Curl de votre choix pour styler les boucles.
-- Masque hydratant intensif pour cheveux bouclés à crépus : texture fondante qui hydrate les cheveux sans alourdir et pré-démêle. Concentré en Glycérine végétale (2,5 %), Urea H et extrait de graine dHibiscus, il apporte brillance, douceur. Idéal pour cheveux sensibilisés & fragilisés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YDJBTD4{{</world>}}

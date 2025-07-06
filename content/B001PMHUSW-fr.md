@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rechargeable
 - Roller encre gel rétractable, pointe moyenne 0,7 mm
+- Elégance du corps entièrement métal avec embase striée
+- Rechargeable
 - Encre fluide et lumineuse, grand confort et douceur décriture
 - Séchage rapide de lencre, idéal pour gauchers
-- Elégance du corps entièrement métal avec embase striée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001PMHUSW{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SUPPORT DE REFROIDISSEMENT SPACIEUX: Support de radiateur mesurant jusqu’à 280 mm à lavant, 240 mm en hauteur et 120 mm à larrière. Peut accueillir jusquà 6 ventilateurs, y compris le ventilateur dédié au processeur.
+- DES PERFORMANCES EXCEPTIONNELLES: Compatible avec la plupart des cartes graphiques NVIDIA GeForce RTX de série 40 grâce à son espace libre de 400 mm. Dispose ta carte graphique à la verticale à laide du kit de montage vertical pour carte graphique NZXT.* *Vendu séparément. Réduit lespace libre à 384 mm.
+- AIRFLOW HAUTE PERFORMANCE: Les panneaux avant et supérieur redirigent lair filtré à travers le boîtier afin de refroidir les composants et daméliorer les performances générales.
+- ÉCLAIRAGE RGB BRILLANT: Comprend deux ventilateurs F140 RGB Core préinstallés qui se connectent à un connecteur ARGB 5V standard.
 - GESTION FACILE DES CÂBLES: Les larges canaux de gestion des câbles avec crochets, ponts et sangles évitent toute incertitude pour une gestion des câbles organisée.
 - VENTILATEUR DÉDIÉ AU PROCESSEUR: Un ventilateur de 120 mm incliné extrait lair depuis le dessous du boîtier afin dassurer un refroidissement direct pour ta carte graphique gourmande en énergie.
-- AIRFLOW HAUTE PERFORMANCE: Les panneaux avant et supérieur redirigent lair filtré à travers le boîtier afin de refroidir les composants et daméliorer les performances générales.
-- DES PERFORMANCES EXCEPTIONNELLES: Compatible avec la plupart des cartes graphiques NVIDIA GeForce RTX de série 40 grâce à son espace libre de 400 mm. Dispose ta carte graphique à la verticale à laide du kit de montage vertical pour carte graphique NZXT.* *Vendu séparément. Réduit lespace libre à 384 mm.
-- ÉCLAIRAGE RGB BRILLANT: Comprend deux ventilateurs F140 RGB Core préinstallés qui se connectent à un connecteur ARGB 5V standard.
-- SUPPORT DE REFROIDISSEMENT SPACIEUX: Support de radiateur mesurant jusqu’à 280 mm à lavant, 240 mm en hauteur et 120 mm à larrière. Peut accueillir jusquà 6 ventilateurs, y compris le ventilateur dédié au processeur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BW67YPH1{{</world>}}

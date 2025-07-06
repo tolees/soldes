@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Détendez-vous avec ces doux contes de créativité et de découverte ; Explorez deux mondes remplis d’énigmes à résoudre, de lieux à débloquer et d’habitants excentriques qui ont besoin d’aide
 - Jouez et créez dans les rééditions rétro de deux adorables jeux de MySims : Collection cosy. JOUABLE SUR NINTENDO SWITCH 2
 - Créez d’adorables Sims et personnalisez les mondes qui les entourent ; Débloquez des vêtements et des options de construction en terminant différentes tâches ; il y a une multitude d’options à découvrir et deux mondes uniques à développer
-- Détendez-vous avec ces doux contes de créativité et de découverte ; Explorez deux mondes remplis d’énigmes à résoudre, de lieux à débloquer et d’habitants excentriques qui ont besoin d’aide
 - Des personnages sympathiques vous accompagneront dès le début, et vous en rencontrerez encore plus au fur et à mesure que vous jouerez ; Vous ne construisez pas seulement des maisons, mais aussi des communautés dhabitants adorables et mémorables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

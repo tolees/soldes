@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité : console PS5 avec manettes DualSense, Exclusivité PS5
-- Graphismes à couper le souffle, Expérience immersive : compétition mêlant spectacle et démolition à bord de votre bolide aux capacités uniques, piloté par 16 Allstars charismatiques
-- Jeu d’Action sur PS5 : devenez maître de destruction à bord de bolides uniques ou en parkour et dévastez vos adversaires dans des arènes tout autour du monde
-- Caractéristiques du jeu : 1 joueur, Version physique, Mode Multijoueur en ligne jusqu’à 16 joueurs, Qualité d’images 4K, Disponible en français et en anglais
 - Contenu de la livraison : 1 x Jeu Destruction AllStars sur PlayStation 5, Version physique, Jaquette en français, Bonus de précommande : Art Book numérique
+- Caractéristiques du jeu : 1 joueur, Version physique, Mode Multijoueur en ligne jusqu’à 16 joueurs, Qualité d’images 4K, Disponible en français et en anglais
+- Graphismes à couper le souffle, Expérience immersive : compétition mêlant spectacle et démolition à bord de votre bolide aux capacités uniques, piloté par 16 Allstars charismatiques
+- Compatibilité : console PS5 avec manettes DualSense, Exclusivité PS5
+- Jeu d’Action sur PS5 : devenez maître de destruction à bord de bolides uniques ou en parkour et dévastez vos adversaires dans des arènes tout autour du monde
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089X8KWG7{{</world>}}

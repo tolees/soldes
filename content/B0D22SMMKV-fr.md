@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design flexible
 - Longue durée
+- Design flexible
 - robustesse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Swing : M621, M921
 - AGIPA : 101418, 151991, 151218, 101948
+- Swing : M621, M921
 - JOLLY : JH6, JH7, JH8, JH9
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

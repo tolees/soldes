@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Traqueur dobjet
-- Compact et facile à accrocher
-- Recherche grâce à la réalité augmentée (AR Find)
 - Autonomie
+- Recherche grâce à la réalité augmentée (AR Find)
 - Sécurité
+- Compact et facile à accrocher
+- Traqueur dobjet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CG7JHFKY{{</world>}}

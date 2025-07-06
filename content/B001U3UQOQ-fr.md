@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emballage recyclable : Lemballage contient au moins 30% de plastique recyclé et est entièrement recyclable, pour un soin efficace tout en respectant lenvironnement *Auto-évaluation sur 32 sujets, application biquotidienne
 - Développée avec des dermatologues : Conçue en collaboration avec des dermatologues pour garantir une efficacité optimale et une tolérance cutanée maximale, cette crème est cliniquement prouvée pour réparer visiblement les pieds et les talons en 7 jours*
+- Emballage recyclable : Lemballage contient au moins 30% de plastique recyclé et est entièrement recyclable, pour un soin efficace tout en respectant lenvironnement *Auto-évaluation sur 32 sujets, application biquotidienne
 - Hydratation longue durée : Offre une hydratation intense pendant 24 heures, même pour les peaux sensibles La crème aide à retenir leau et à prévenir la sécheresse, laissant vos pieds doux, lisses et confortables
 - Ultra nourrissante et apaisante : Formulée avec 40% de glycérine et du bisabolol, cette crème nourrit intensément et soulage immédiatement les pieds les plus secs et rugueux, aidant à prévenir les rugosités et les callosités
 - Absorption rapide : Sa texture non grasse pénètre rapidement sans laisser de résidu, permettant de porter vos chaussures immédiatement après application, idéale pour une utilisation quotidienne

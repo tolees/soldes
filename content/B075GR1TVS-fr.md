@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Âge : 8 - 14 ans
-- Combats les méchants avec Han Solo !
 - Han Solo
+- Combats les méchants avec Han Solo !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B075GR1TVS{{</world>}}

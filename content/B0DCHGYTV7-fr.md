@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pleine couleur : le Polaroid Now Generation 2 est disponible en 4 couleurs vives, y compris noir, panda, rouge et bleu. Cordon tour de cou et câble de charge USB inclus.
-- Double exposition : lappareil photo Now peut cadrer deux moments en un avec une double exposition, ou vous mettre dans limage avec le retardateur et un flash précis pour que tout le monde ait lair comme il le devrait.
-- Appareil photo instantané : capturez et conservez vos moments quotidiens pour toujours avec lappareil photo instantané Polaroid Now i-Type.
 - POINT. Tirez. Restez pour toujours : maintenant lappareil photo est compatible avec les films i-Type et 600. Film vendu séparément.
 - Nouveau et amélioré : notre nouvelle caméra analogique instantanée Now Generation 2 est maintenant fabriquée avec 40 % de matériaux recyclés et la batterie lithium-ion interne se charge via USB-C
+- Pleine couleur : le Polaroid Now Generation 2 est disponible en 4 couleurs vives, y compris noir, panda, rouge et bleu. Cordon tour de cou et câble de charge USB inclus.
+- Appareil photo instantané : capturez et conservez vos moments quotidiens pour toujours avec lappareil photo instantané Polaroid Now i-Type.
+- Double exposition : lappareil photo Now peut cadrer deux moments en un avec une double exposition, ou vous mettre dans limage avec le retardateur et un flash précis pour que tout le monde ait lair comme il le devrait.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DCHGYTV7{{</world>}}

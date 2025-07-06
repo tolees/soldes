@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires pour conduits
 - Classique
+- Accessoires pour conduits
 - Reguliere
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
