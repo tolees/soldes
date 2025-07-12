@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construisez votre propre Lamborghini Countach, montrez-la à vos amis et participez à des courses contre dautres véhicules de la gamme Speed Champions
-- La légendaire et emblématique super voiture de sport des années 1970 est vénérée par les fans du monde entier pour son design époustouflant et ses performances de haut niveau
-- Cette voiture de course emblématique pour les enfants de 8 ans et plus est un cadeau danniversaire ou de toute autre occasion parfait pour les garçons et les filles qui aiment les voitures de sport miniatures
-- Comprend un modèle de réplique de voiture Lamborghini Countach blanche avec une Minifigure de pilote de course de marque avec un casque de protection, une perruque et une clé
-- Les modèles de voitures de course LEGO Speed Champions donnent aux enfants la possibilité de construire, de jouer et dexposer certaines des répliques de véhicules les plus emblématiques du monde
-- Lapplication Instructions de montage Lego pour smartphones et tablettes permet de zoomer, de faire pivoter et de visualiser les modèles sous tous les angles pendant que vous construisez
 - Ce jouet de voiture de sport de course pour les enfants de 8 ans et plus est doté dun cockpit ouvert à deux places et de nombreux détails authentiques
+- Comprend un modèle de réplique de voiture Lamborghini Countach blanche avec une Minifigure de pilote de course de marque avec un casque de protection, une perruque et une clé
+- Lapplication Instructions de montage Lego pour smartphones et tablettes permet de zoomer, de faire pivoter et de visualiser les modèles sous tous les angles pendant que vous construisez
+- Cette voiture de course emblématique pour les enfants de 8 ans et plus est un cadeau danniversaire ou de toute autre occasion parfait pour les garçons et les filles qui aiment les voitures de sport miniatures
+- Les modèles de voitures de course LEGO Speed Champions donnent aux enfants la possibilité de construire, de jouer et dexposer certaines des répliques de véhicules les plus emblématiques du monde
+- La légendaire et emblématique super voiture de sport des années 1970 est vénérée par les fans du monde entier pour son design époustouflant et ses performances de haut niveau
+- Construisez votre propre Lamborghini Countach, montrez-la à vos amis et participez à des courses contre dautres véhicules de la gamme Speed Champions
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BNTTYDL{{</world>}}

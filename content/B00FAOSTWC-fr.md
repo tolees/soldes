@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Des ongles plus brillants
+- Des ongles plus résistants
+- Des ongles plus longs
 - Des ongles plus lisses
 - Des ongles plus hydratés
-- Des ongles plus résistants
-- Des ongles plus brillants
-- Des ongles plus longs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00FAOSTWC{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Airoheart est un jeu de role action-aventure en vue du dessus inspiré des grands classiques du genre. Embarquez dans un voyage épique pour sauver le monde du mal et tester la force de votre cœur dans ce récit émouvant teinté de trahison, de tragédie et de rédemption.
 - Notre histoire commence en terre d’Engard, où notre bien-aimé Airoheart se lance dans un grand périple pour mettre un terme au plan diabolique de son frère qui veut libérer un mal ancien scellé dans les ombres depuis des générations, et provoquer une guerre en déchaînant le pouvoir de la Pierre de Draoidh.
-- Vainquez des donjons et résolvez des énigmes : Acquérez de nouvelles armes et armures, et maîtrisez des capacités magiques pour dénouer de complexes énigmes et déverrouiller de nouvelles régions à explorer. Traversez de périlleux et obscurs donjons jalonnés de pièges mortels et d’ennemis féroces.
-- Vivez une épopée pour sauver le monde : Démêlez pièce par pièce un fabuleux et délicat conte de trahison, de tragédie et de rédemption. Lancez-vous dans une grande aventure pour empêcher votre frère de libérer un mal séculaire sur le monde.
 - Parcourez un envoûtant monde ouvert : Découvrez un superbe monde en pixel art d’inspiration rétro avec une perspective aérienne qui vous fera remonter dans le temps. Immergez-vous dans un monde vaste et captivant regorgeant de vie et de personnages uniques et pittoresques.
+- Vainquez des donjons et résolvez des énigmes : Acquérez de nouvelles armes et armures, et maîtrisez des capacités magiques pour dénouer de complexes énigmes et déverrouiller de nouvelles régions à explorer. Traversez de périlleux et obscurs donjons jalonnés de pièges mortels et d’ennemis féroces.
+- Airoheart est un jeu de role action-aventure en vue du dessus inspiré des grands classiques du genre. Embarquez dans un voyage épique pour sauver le monde du mal et tester la force de votre cœur dans ce récit émouvant teinté de trahison, de tragédie et de rédemption.
+- Vivez une épopée pour sauver le monde : Démêlez pièce par pièce un fabuleux et délicat conte de trahison, de tragédie et de rédemption. Lancez-vous dans une grande aventure pour empêcher votre frère de libérer un mal séculaire sur le monde.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1FM5JJP{{</world>}}

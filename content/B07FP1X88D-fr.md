@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cet ensemble LA GRANDE AVENTURE LEGO 2 inclut des instructions pour construire chaque modèle, ainsi que des idées pour transformer la Reine en plus de formes
+- La boîte à construire de la Reine aux mille visages !
 - La Reine aux mille visages ,sous forme de tas de briques mesure plus de 11 cm de haut, 7 cm de large et moins de 1 cm de profondeur
 - Âge recommandé par le fabricant: 6+
-- La boîte à construire de la Reine aux mille visages !
 - Nombre de pièces: 455
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

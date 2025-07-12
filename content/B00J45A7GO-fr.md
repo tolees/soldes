@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KIT CREATIF : Pour cela, il suffit de décoller les surfaces préencollées et de les saupoudrer avec les différents sables proposés.
-- IDEE CADEAU : Ce kit créatif sablimage sera parfait pour toutes les occasions. Anniversaire, Noël, goûter, activités du mercredi.
-- KIT SABLIMAGE : Épatant ! Cette gamme d’activité artistique a été conçue pour que de très jeunes enfants puissent réaliser de jolis tableaux naïfs sans se salir.
 - KIT ENFANT : Idéale pour développer la créativité, l’habileté manuelle et le sens des couleurs.
+- IDEE CADEAU : Ce kit créatif sablimage sera parfait pour toutes les occasions. Anniversaire, Noël, goûter, activités du mercredi.
 - LOISIR CREATIF : Une activité ludique et artistique.
+- KIT SABLIMAGE : Épatant ! Cette gamme d’activité artistique a été conçue pour que de très jeunes enfants puissent réaliser de jolis tableaux naïfs sans se salir.
+- KIT CREATIF : Pour cela, il suffit de décoller les surfaces préencollées et de les saupoudrer avec les différents sables proposés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00J45A7GO{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2.Plat
-- Moyenne
 - Les chaussures Geox taillent grand
 - Textile
+- Moyenne
+- 2.Plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KYMUL12{{</world>}}

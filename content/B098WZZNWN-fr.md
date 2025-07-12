@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jeu en open world avec des graphismes à couper le souffle, gameplay immersif: combat au corps à corps à larme blanche et à distance
+- Jeu daction et daventure réalisé par le studio sucker punch (infamous) avec une histoire inspirée de faits réels
 - Comprend l’île d’iki, une nouvelle extension scénarisée exclusive à ghost of tsushima director’s cut
 - 1-4 joueurs, version physique, disponible en français et en anglais, exclusivité playstation
-- Jeu daction et daventure réalisé par le studio sucker punch (infamous) avec une histoire inspirée de faits réels
-- Jeu en open world avec des graphismes à couper le souffle, gameplay immersif: combat au corps à corps à larme blanche et à distance
 - Vivez l’aventure ghost of tsushima comme jamais auparavant sur Ps5: graphismes en 4K jusqu’à 60 fps, retour haptique et gchettes adaptatives
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

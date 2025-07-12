@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Graduations en millimètres
 - Bords anti-taches pour éviter les bavures sur le papier
+- Graduations en millimètres
+- Fabriqué en Allemagne
 - Équerre géométrique avec rapporteur intégré en plastique transparent incassable
 - Contenu du produit : 1 équerre sous étui plastique
-- Fabriqué en Allemagne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06X9QRH9H{{</world>}}

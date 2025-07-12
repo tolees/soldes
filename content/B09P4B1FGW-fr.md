@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le toit du vaisseau est amovible
 - Les canons tirent des projectiles en appuyant sur le bouton
-- Les ailes peuvent être inclinées parallèlement dans trois positions différentes
 - Espace pour deux personnages dans le cockpit
+- Les ailes peuvent être inclinées parallèlement dans trois positions différentes
+- Le toit du vaisseau est amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09P4B1FGW{{</world>}}

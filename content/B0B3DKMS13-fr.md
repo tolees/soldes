@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contrôle des mouvements
+- Contrôleur sans fil pour Switch, Android et Raspberry Pi
 - Commutateur de mode
 - Fonctionnalité Turbo adaptable (entrée D)
-- Contrôle des mouvements
 - Vibration Rumpel
-- Contrôleur sans fil pour Switch, Android et Raspberry Pi
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3DKMS13{{</world>}}

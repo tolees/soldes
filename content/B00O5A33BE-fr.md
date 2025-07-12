@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le mélange de matériaux modernes, composé dacier noble couleur nickel mat, et labat-jour gris crée un look classique, chaleureux et moderne
-- Labat-jour gris en tissu de haute qualité donne à vos pièces une atmosphère chaleureuse, que ce soit dans le salon, la chambre, la salle à manger, le couloir ou la cuisine
 - Avec cette lampe suspendue, votre table à manger est suffisamment éclairée Combinez cette lampe de salon avec dautres lampes de la série PASTERI telles que le lampadaire, lapplique murale et la lampe de plafond
-- Les ampoules ne sont pas incluses à la livraison et est disponible séparément sous la référence EGLO 110053 ; Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 W ; Dimmable en fonction de lampoule utilisée
 - Dimensions : Hauteur : 110 cm max, Longueur : 100 cm, Largeur : 28 cm
+- Les ampoules ne sont pas incluses à la livraison et est disponible séparément sous la référence EGLO 110053 ; Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 W ; Dimmable en fonction de lampoule utilisée
+- Labat-jour gris en tissu de haute qualité donne à vos pièces une atmosphère chaleureuse, que ce soit dans le salon, la chambre, la salle à manger, le couloir ou la cuisine
+- Le mélange de matériaux modernes, composé dacier noble couleur nickel mat, et labat-jour gris crée un look classique, chaleureux et moderne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00O5A33BE{{</world>}}

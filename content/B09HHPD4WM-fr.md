@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le smartphone le plus durable de Fairphone à ce jour
 - Type de connecteur: usb type c
-- Fairphone
 - Durable
+- Fairphone
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HHPD4WM{{</world>}}

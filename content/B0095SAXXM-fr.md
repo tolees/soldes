@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tajima Mètre à ruban extra large en acier
-- Avec revêtement en nylon.
 - Échelle facile à lire.
 - Crochets magnétiques
+- Avec revêtement en nylon.
+- Tajima Mètre à ruban extra large en acier
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0095SAXXM{{</world>}}

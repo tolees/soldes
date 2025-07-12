@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2. Pas dimpuretés, pas de sabots
-- 3. Température dimpression : 190-220℃
-- 5. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
 - 4. Tolérance de diamètre +/- 0,02 mm
+- 3. Température dimpression : 190-220℃
 - 1. Bobine de 1 kg de filament PLA de 1,75 mm dans un emballage sous vide
+- 2. Pas dimpuretés, pas de sabots
+- 5. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

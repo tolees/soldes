@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Nettoyez et hydratez le cuir à laide de notre lotion nettoyante et de soin.
 - Protégez le cuir de la saleté et de lhumidité à laide de notre spray de protection et dentretien.
 - Enlevez dabord la saleté et la poussière avec un chiffon doux.
-- Nettoyez et hydratez le cuir à laide de notre lotion nettoyante et de soin.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZVM59VG{{</world>}}

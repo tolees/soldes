@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sécurité enfant
-- Certifié NF
-- Permet de raccorder vos câbles électriques à une prise mâle 16A
-- Pratique: Outil de dénudage incorporé permettant de faciliter l?installation du produit
 - Couleur grise
+- Certifié NF
+- Sécurité enfant
+- Pratique: Outil de dénudage incorporé permettant de faciliter l?installation du produit
+- Permet de raccorder vos câbles électriques à une prise mâle 16A
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AAICSHK{{</world>}}

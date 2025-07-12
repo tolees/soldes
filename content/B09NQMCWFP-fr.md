@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CUSHIONING
-- RECYCLED
 - GOOD GRIP
 - Facile à ajuster
+- RECYCLED
+- CUSHIONING
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQMCWFP{{</world>}}

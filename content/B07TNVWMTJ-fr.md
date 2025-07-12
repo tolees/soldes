@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un hommage aux JRPG classiques, inspiré par des RPG intemporels comme Chrono Trigger, Final Fantasy VI, Valkyrie Profile et des classiques modernes comme Bravely Default et Persona 5
-- Faites lexpérience simultanée du passé, de présent et du futur dans ce J-RPG indépendant magnifique qui rend hommage aux classiques du genre
 - Scrutez le passé et tirez-en des leçons, prenez des décisions dans le présent et changez le futur de façon à remodeler le mondede façon dynamique selon les choix que vous faites
-- Téléportez vos ennemis dans le passé ou dans le futur, synchronisez vos attaques et maîtrisez le timing parfait entre lattaque et la défense pour exploiter tout le potentiel de votre équipe
 - Montez à bord dun vaisseau ou dun bateau pour parcourir ce magnifique monde féérique en 2D réalisé à la main. Découvrez chaque lieu et changez le futur du royaume Crystallis
+- Un hommage aux JRPG classiques, inspiré par des RPG intemporels comme Chrono Trigger, Final Fantasy VI, Valkyrie Profile et des classiques modernes comme Bravely Default et Persona 5
+- Téléportez vos ennemis dans le passé ou dans le futur, synchronisez vos attaques et maîtrisez le timing parfait entre lattaque et la défense pour exploiter tout le potentiel de votre équipe
+- Faites lexpérience simultanée du passé, de présent et du futur dans ce J-RPG indépendant magnifique qui rend hommage aux classiques du genre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TNVWMTJ{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fondation Femme 7, 3 grammes
-- Contenu: 7, 3 grammes
 - Maquillage: Fondation
+- Contenu: 7, 3 grammes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N4CJ7MB{{</world>}}

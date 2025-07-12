@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture : caoutchouc
 - Logo découpé sur la feuille
 - Si la taille correspond à la taille, commandez votre pointure habituelle
-- Fermeture : caoutchouc
 - Geox Les chaussures ont un ajustement confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

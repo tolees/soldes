@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petite meuleuse angulaire avec puissant moteur de 900 W et présélection de vitesse (Speed Selection) pour une progression de travail rapide - avec X-LOCK
 - Complet : Grand choix de meuleuses angulaires X-LOCK et d’accessoires X-LOCK pouvant aussi être utilisés sur les meuleuses angulaires normales sans X-LOCK
+- Petite meuleuse angulaire avec puissant moteur de 900 W et présélection de vitesse (Speed Selection) pour une progression de travail rapide - avec X-LOCK
 - Pratique : Changement d’accessoire simple et rapide par simple clic : pas besoin d’outil supplémentaire, plus aucune pièce perdable
 - Changement d’accessoire facile en un seul geste : Le clic audible du mécanisme X-LOCK indique que l’accessoire est solidement fixé et ne risque plus de se détacher X-LOCK : le système révolutionnaire de changement d’accessoires pour meuleuses angulaires. Simple, rapide et sûr ! Un seul geste suffit. Changement d’accessoire facile, sans outil spécifique, sans flasque dentraînement ni flasque de serrage - jusqu’à 5 plus rapide que sur les autres meuleuses angulaires.
 - Livré avec : GWX 9-125 S, poignée antivibration, capot de protection, boîte carton

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Puissant moteur à induction pour un fonctionnement silencieux et un résultat de coupe précis
-- Butée longitudinale pour les coupes droites (avec fermeture rapide pour des réglages rapides et précis)
-- Table stable, pivotable de 0° à 45
 - 3 rubans de scie incl. (6 Z/Z, 10 Z/Z, 15 Z/Z)
+- Table stable, pivotable de 0° à 45
 - Grande hauteur de passage pour des pièces à usiner jusquà une hauteur de 80 mm, grande table de travail (300 x 380 – 520 mm) pour un travail polyvalent
+- Butée longitudinale pour les coupes droites (avec fermeture rapide pour des réglages rapides et précis)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0819TYZHB{{</world>}}

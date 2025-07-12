@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compatibilité universelle: Que vous apparteniez à la nouvelle génération, à la dernière génération ou à la vieille école, cette station de charge rapide universelle Razer pour Xbox fonctionne avec toutes les manettes, anciennes et nouvelles. *À l’exception de la manette Xbox Elite 2
 - Système de contact magnétique: Insérez facilement votre manette et ne craignez jamais les interruptions de la charge grâce à une conception magnétique qui la maintient toujours fixée à la station.
 - Chargement rapide: Capable de charger complètement votre manette en moins de 3 heures, cette station est également dotée d’une protection contre la surcharge pour éviter la surchauffe et les courts-circuits.
-- Assortie à votre manette Xbox: Pour s’adapter parfaitement à votre installation, cette station de charge utilise le même matériau durable et possède les mêmes couleurs remarquables que les manettes officielles des consoles Xbox Series X|S.
-- Compatibilité universelle: Que vous apparteniez à la nouvelle génération, à la dernière génération ou à la vieille école, cette station de charge rapide universelle Razer pour Xbox fonctionne avec toutes les manettes, anciennes et nouvelles. *À l’exception de la manette Xbox Elite 2
 - Navigation à une main: Cette station de charge a été conçue de manière ergonomique pour que vous puissiez utiliser confortablement la manette pour naviguer dans votre tableau de bord Xbox, même lorsqu’elle est branchée.
+- Assortie à votre manette Xbox: Pour s’adapter parfaitement à votre installation, cette station de charge utilise le même matériau durable et possède les mêmes couleurs remarquables que les manettes officielles des consoles Xbox Series X|S.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09B9WGPVZ{{</world>}}

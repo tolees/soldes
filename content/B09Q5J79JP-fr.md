@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez noter : la clé ne doit pas être portée comme insérée à lintérieur du cadenas
 - Chérissez ce lien unique qui vous unit aux êtres qui vous sont chers avec le Charm Pendant Cadenas & Clé
-- Composé de deux parties distinctes, la clé est également un charm
-- Compatible avec des colliers et des bracelets, ce charm peut être porté au cou en pendentif ou en charm à un bracelet et permettra à votre âme soeur de porter la clé de votre cadenas - et surtout, de votre cœur
-- Sinspirant des cadenas accrochés sur les ponts du monde entier par les amoureux, ce Charm Cadenas & Clé en métal doré à lor rose 585/1000e est le bijou idéal pour capturer votre amour
+- Veuillez noter : la clé ne doit pas être portée comme insérée à lintérieur du cadenas
 - Placez-la à côté du cadenas et portez les deux parties ensemble ou offrez-la à un être cher qui sera alors la seule personne à pouvoir ouvrir votre cadenas
+- Composé de deux parties distinctes, la clé est également un charm
+- Sinspirant des cadenas accrochés sur les ponts du monde entier par les amoureux, ce Charm Cadenas & Clé en métal doré à lor rose 585/1000e est le bijou idéal pour capturer votre amour
+- Compatible avec des colliers et des bracelets, ce charm peut être porté au cou en pendentif ou en charm à un bracelet et permettra à votre âme soeur de porter la clé de votre cadenas - et surtout, de votre cœur
 - Compatible avec : Bracelets Pandora Moments
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ajoutez le pont Hue (non fourni) et étendez votre écosystème en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique) - Contrôlez votre luminaire depuis un accessoire Hue, votre mobile ou via votre assistant vocal ( Alexa, Google Assistant, etc)
 - Déjà utilisateur Philips Hue: ce luminaire connecté compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre écosystème Hue existant
 - Elargissez votre expérience de la maison connectée en synchronisant le pont Hue (vendu séparément) et bénéficiez dune expérience déclairage connectée optimale
 - Une envie de simplement créer une ambiance - Commencez avec lapplication de contrôle Philips Hue Bluetooth et personnalisez votre ambiance grâce aux 16 millions de couleurs
 - Déjà utilisateur Philips Hue: cette Hue go connectée compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre écosystème Hue existant
-- Ajoutez le pont Hue (non fourni) et étendez votre écosystème en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique) - Contrôlez votre luminaire depuis un accessoire Hue, votre mobile ou via votre assistant vocal ( Alexa, Google Assistant, etc)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CXY4L36{{</world>}}

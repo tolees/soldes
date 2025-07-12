@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 190 Mo/s, optimisées par la technologie SanDisk QuickFlow
 - Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin datteindre des vitesses maximales (cartes vendues séparément)
-- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
-- Vitesses décriture pouvant aller jusquà 130 Mo/s pour une prise de photos rapide
+- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 190 Mo/s, optimisées par la technologie SanDisk QuickFlow
+- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Température de fonctionnement: -25°C to 85°C
 - Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Vitesses décriture pouvant aller jusquà 130 Mo/s pour une prise de photos rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09X7CRKRZ{{</world>}}

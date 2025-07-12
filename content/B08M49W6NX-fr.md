@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plateau de carte mère avec supports pour ventilateur : Permet d’installer latéralement jusqu’à 3 ventilateurs de 120 mm ou un radiateur de 360 mm
 - Deux ventilateurs de 120 mm inclus : les ventilateurs CORSAIR AirGuide sont dotés de pales antivortex qui concentrent le flux d’air et optimisent le refroidissement
 - Panneau avant en acier robuste : Confère une durabilité élevée et un design imposant à l’ensemble, avec des larges canaux de ventilation pour un flux d’air important
 - Épuré et refroidi : Le 5000D vous permet de concevoir très facilement un sublime PC et de le refroidir avec l’espace et la flexibilité nécessaires pour installer plusieurs radiateurs de 360 mm
+- Plateau de carte mère avec supports pour ventilateur : Permet d’installer latéralement jusqu’à 3 ventilateurs de 120 mm ou un radiateur de 360 mm
 - Système de gestion des câbles CORSAIR RapidRoute : Permet d’acheminer facilement et rapidement les câbles principaux via un seul canal caché, avec une trappe articulée facile d’accès
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

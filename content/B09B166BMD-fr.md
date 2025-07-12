@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Reconnaissance des capsules doubles, pour détecter automatiquement la taille des capsules
-- Jusquà 19 bars de pression pour un espresso parfait
-- Préparez 2 cafés à la fois ou 1 café double dans une seule tasse
 - Un grand choix de cafés : ristretto, espresso, lungo, etc
 - Personnalisez vos volumes de café de 20 ml à 270 ml
+- Jusquà 19 bars de pression pour un espresso parfait
+- Reconnaissance des capsules doubles, pour détecter automatiquement la taille des capsules
+- Préparez 2 cafés à la fois ou 1 café double dans une seule tasse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09B166BMD{{</world>}}

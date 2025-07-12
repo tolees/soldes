@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture: Pull On
-- Regular
 - 80% Coton, 20% Polyester
-- Type de col: sweatshirt
 - Lavage à la main seulement
+- Type de col: sweatshirt
+- Regular
 - Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

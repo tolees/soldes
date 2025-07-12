@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Demandez aux grenouilles si elles ont les objets quil vous faut, mais gardez à lesprit que chez elles, rien nest gratuit. Courez plus vite, sautez plus haut, tombez plus lentement : tout est possible si vous possédez lobjet adéquat.
 - Découvrez de nouveaux objets en pêchant et en cultivant, puis concoctez de simples breuvages qui changeront la manière dont vous vous déplacez.
 - Créez vos propres chemins sur cette île de type bac à sable : on ne sait jamais ce qui se cache dans les environs !
+- Demandez aux grenouilles si elles ont les objets quil vous faut, mais gardez à lesprit que chez elles, rien nest gratuit. Courez plus vite, sautez plus haut, tombez plus lentement : tout est possible si vous possédez lobjet adéquat.
 - Tentez de trouver de quoi réparer votre bateau en faisant de multiples échanges qui vous mèneront aux quatre coins de cette île hors du commun. Faites la rencontre de personnages sympathiques, résolvez des puzzles qui demandent de la réflexion, trouvez des trésors cachés, et découvrez bien dautres choses en explorant le monde de Time on Frog Island.
 - Laissez-vous emporter sur une île paradisiaque peuplée de sympathiques grenouilles ! Profitez de la vie sur une île dans ce jeu de type bac à sable, explorez-la à votre rythme tout en aidant vos nouveaux amis à résoudre de délicates situations et trouvez un moyen de réparer votre bateau !
 

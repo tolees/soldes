@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en France
-- COMPOSITION : Lencre est composée - deau, - dhumectant (qui permet de limiter le séchage au niveau de la plume), - de conservateur (qui préserve la qualité de lencre dans le temps)
-- COMPATIBILITÉ: Elle est spécialement formulée pour une utilisation au stylo-plume et au stylo roller Elle est en effet finement filtrée afin de ne pas boucher les stylos Convient aussi au plume de verre, calame, plume doie, porte-plume etc
 - QUALITÉ : Lencre "Bleu azur" est dune qualité exceptionnelle riche en couleur et dune texture incroyable. Cette encre offre une qualité décriture inégalée. Parfait pour les amateurs décriture et les amoureux des belles lettres
+- COMPOSITION : Lencre est composée - deau, - dhumectant (qui permet de limiter le séchage au niveau de la plume), - de conservateur (qui préserve la qualité de lencre dans le temps)
+- Fabriqué en France
+- COMPATIBILITÉ: Elle est spécialement formulée pour une utilisation au stylo-plume et au stylo roller Elle est en effet finement filtrée afin de ne pas boucher les stylos Convient aussi au plume de verre, calame, plume doie, porte-plume etc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00HJ6ZD7I{{</world>}}

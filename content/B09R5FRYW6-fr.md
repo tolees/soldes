@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUER POUR MIEUX GRANDIR : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
 - UN GRAND BAC PRATIQUE : Ce kit contient 1 bac de rangement transparent muni dun couvercle servant de base aux constructions et rempli de 150 briques à empiler de couleurs et de formes différentes, dont 4 dinosaures colorés à assembler.
-- UN MAXIMUM DE COMBINAISONS : Un coffre de rangement translucide rempli de 150 pièces dont 4 dinosaures très colorés et rigolos. Dès 18 mois. Origine France Garantie
 - DÉVELOPPER LIMAGINATION : La gamme Abrick se compose de jouets destinés aux enfants à partir de 18 mois pour les aider à développer leur capacité à inventer des histoires et construire lunivers qui va avec.
+- JOUER POUR MIEUX GRANDIR : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
+- UN MAXIMUM DE COMBINAISONS : Un coffre de rangement translucide rempli de 150 pièces dont 4 dinosaures très colorés et rigolos. Dès 18 mois. Origine France Garantie
 - DES JOUETS ORIGINE FRANCE GARANTIE : Jouets Ecoiffier est une entreprise familiale qui fabrique tous ses jouets en France.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robuste, étanche à leau et à la poussière avec un classement IP67, et prêt pour toutes vos aventures en plein air¹.
-- Chargez-le à laide du câble USB-C inclus ou en le plaçant sur un chargeur sans fil compatible⁵.
-- Ultra compact et léger, pour pouvoir emporter le son Sonos partout avec vous.
-- Les boutons tactiles vous facilitent le contrôle tout en évitant des appuis accidentels.
-- Un design polyvalent qui permet de le placer debout ou couché.
-- Conçus avec précision, les haut-parleurs offrent une clarté et des basses étonnantes pour une enceinte de cette taille.
-- Connectez votre enceinte au Wi-Fi pour profiter dautres fonctionnalités et dun son multiroom, en l’association avec dautres enceintes Sonos.
 - Le calibrage Trueplay automatique adapte le son à chaque nouvel environnement³.
 - La batterie vous offre jusquà 10 heures découte en continu².
+- Conçus avec précision, les haut-parleurs offrent une clarté et des basses étonnantes pour une enceinte de cette taille.
+- Les boutons tactiles vous facilitent le contrôle tout en évitant des appuis accidentels.
+- Connectez votre enceinte au Wi-Fi pour profiter dautres fonctionnalités et dun son multiroom, en l’association avec dautres enceintes Sonos.
+- Chargez-le à laide du câble USB-C inclus ou en le plaçant sur un chargeur sans fil compatible⁵.
+- Ultra compact et léger, pour pouvoir emporter le son Sonos partout avec vous.
 - Gardez les mains libres avec Sonos Voice Control et Amazon Alexa⁴.
+- Robuste, étanche à leau et à la poussière avec un classement IP67, et prêt pour toutes vos aventures en plein air¹.
+- Un design polyvalent qui permet de le placer debout ou couché.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D37BY6ZR{{</world>}}

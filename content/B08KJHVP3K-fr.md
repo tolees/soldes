@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Edition 2 doté du nouveau mécanisme de rétroaction haptique et nouvelle housse Defender360.
-- Mise à zéro du vignettage jusquaux objectifs de 16 mm de longueur focale.
-- 82 mm 2/5 (2 à 5 stops de la reduction de la lumière)
-- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
 - Le filtre le plus fiable parmi les créateurs de contenu du monde entier
+- Mise à zéro du vignettage jusquaux objectifs de 16 mm de longueur focale.
+- Edition 2 doté du nouveau mécanisme de rétroaction haptique et nouvelle housse Defender360.
+- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
+- 82 mm 2/5 (2 à 5 stops de la reduction de la lumière)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KJHVP3K{{</world>}}

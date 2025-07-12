@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jeu de construction de créatures marines pour enfants est un excellent rappel des vacances dété et des aventures pour les enfants qui aiment les animaux marins
-- Avec les ensembles LEGO Creator 3-en-1, les enfants ont 3 expériences de construction et de jeu différentes, ce sont un merveilleux cadeau danniversaire ou même de Noël
 - Le requin bleu foncé et blanc a une bouche qui souvre, des dents pointues, des nageoires positionnables dans tous les sens, des articulations mobiles et des yeux réfléchissants
 - Profitez dune construction supplémentaire avec cet ensemble : instructions de construction dune baleine - disponibles sur LEGO.com
+- Ce jeu de construction de créatures marines pour enfants est un excellent rappel des vacances dété et des aventures pour les enfants qui aiment les animaux marins
 - Ce jeu de construction de créatures marines comprend 3 figurines danimaux marins : un requin effrayant, un crabe mobile et orientable avec une boîte à trésor et un poisson pêcheur à grande bouche
+- Avec les ensembles LEGO Creator 3-en-1, les enfants ont 3 expériences de construction et de jeu différentes, ce sont un merveilleux cadeau danniversaire ou même de Noël
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FNS6J7R{{</world>}}

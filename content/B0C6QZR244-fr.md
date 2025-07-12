@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mettez un coup de boost à votre fun avec la Pure Fire Edition comprenant un modèle réduit et 6 voitures exclusives en jeu !
-- Attachez votre ceinture sur de tous nouveaux environnements tous plus dingues les uns que les autres !
-- HOT WHEELS UNLEASHED 2 - Speed Kings Pack, qui inclut deux véhicules : Impavido 1 et Electro Silhouette
-- Collectionnez plus de 130 véhicules, un tas de nouveaux bolides vous attendent !
 - Pour la première fois, un mode campagne inédit avec une histoire unique !
+- Attachez votre ceinture sur de tous nouveaux environnements tous plus dingues les uns que les autres !
+- Collectionnez plus de 130 véhicules, un tas de nouveaux bolides vous attendent !
+- HOT WHEELS UNLEASHED 2 - Speed Kings Pack, qui inclut deux véhicules : Impavido 1 et Electro Silhouette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6QZR244{{</world>}}

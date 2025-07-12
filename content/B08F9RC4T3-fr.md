@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ENDLESS BENEFITS: The advanced focus system focuses LED light as a spot or flood, without losing quality, the optional backup mode conserves light once you hit less than 25% battery
 - PREMIUM DESIGN: Ledlenser P4R Core ultra compact, lightweight penlight, omits a powerful 200 lumens & features a convenient end cap switch, popular in many tactical fields & ideal for nurses, police & medical professionals
+- LONG LASTING BATTERY LIFE: Ledlenser P4R Core super bright LED pen torch will produce up to 25 hours of lighting with one charge, keeping light strong while you focus on the task at hand
 - ADDITIONAL FEATURES: Ledlenser P4R torch light features a micro-USB charging port for safe, reliable charging & an energy saving mode to get you through the work day
 - 7 YEAR WARRANTY: Ledlenser P4R Core LED pen light rechargeable warranty covers defects in manufacturing, up to 7 years with registration, be confident that we stand behind the craftsmanship and quality of our products
-- LONG LASTING BATTERY LIFE: Ledlenser P4R Core super bright LED pen torch will produce up to 25 hours of lighting with one charge, keeping light strong while you focus on the task at hand
+- ENDLESS BENEFITS: The advanced focus system focuses LED light as a spot or flood, without losing quality, the optional backup mode conserves light once you hit less than 25% battery
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08F9RC4T3{{</world>}}

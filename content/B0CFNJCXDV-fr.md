@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Monitor & Recorder
-- HDMI 4K120
-- 1000nit Touchscreen
 - 1920x1080
+- 1000nit Touchscreen
+- HDMI 4K120
 - 5.2"
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

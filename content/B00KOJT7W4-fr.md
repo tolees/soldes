@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en maille/cuir imperméable
 - Construction type chausson Omni-Tech respirante et imperméable à coutures étanches
-- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Semelle intercalaire Techlite légère
+- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
+- Tige en maille/cuir imperméable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KOJT7W4{{</world>}}

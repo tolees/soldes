@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une gamme variée darmes qui peuvent être combinées pour sadapter à différents styles de jeu.
-- 8 magnifiques niveaux inspirés du style Ukiyo-e
 - Des boss redoutables qui plongent les joueurs dans le monde sublime de GetsuFumaDen
+- Une gamme variée darmes qui peuvent être combinées pour sadapter à différents styles de jeu.
 - un système de combat stratégique basé sur la gestion de l’espace et du timing unique aux arts martiaux japonais.
+- 8 magnifiques niveaux inspirés du style Ukiyo-e
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C43XFMC3{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Véhicule avec direction à gauche ou à droite: pour direction à droite/à gauche
+- Hauteur [cm]: 32
+- Qualité: Certified Quality
 - Longueur [cm]: 21
 - Rétroviseur extérieur/intérieur: avec capteur de température; chauffé; convexe
-- Qualité: Certified Quality
 - Surface: avec couche dapprêt
+- Véhicule avec direction à gauche ou à droite: pour direction à droite/à gauche
 - Largeur [cm]: 21
-- Hauteur [cm]: 32
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00D07IA0W{{</world>}}

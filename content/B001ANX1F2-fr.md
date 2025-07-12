@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Etiquettes Américaines avec fil de fer
 - Etiquettes très résistantes sur cardonette avec œillet renforcé
+- Etiquettes Américaines avec fil de fer
 - Idéal pour le marquage des pièces détaches, des bagages, des objets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

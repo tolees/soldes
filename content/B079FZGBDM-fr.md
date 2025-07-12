@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure/caractéristiques : EVA pour la légèreté
+- Semelle intérieure : OrthoLite pour amortir
 - Couleur : noir
 - XL extra léger pour plus de légèreté et dabsorption des chocs
-- Semelle intérieure : OrthoLite pour amortir
+- Semelle extérieure/caractéristiques : EVA pour la légèreté
 - Dessus : cuir (cuir de veau)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

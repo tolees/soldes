@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Elle a une base stable
 - Matériau - Résine
-- Hauteur -18 cm
 - Figurine de haute qualité
+- Hauteur -18 cm
 - Figurine pour gateau de mariage dun couple de mariés sembrassant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

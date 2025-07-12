@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Découvrez chaque détail avec la FHD : Comparé à un écran HD, lécran Full HD retranscrit une image deux fois plus réelle et détaillée. Restez assis et profitez des détails incroyables de limage, comme les cinéastes ont pu limaginer.
-- Un divertissement sans fin : Avec Fire TV intégrée, profitez dun divertissement sans fin sur des milliers dapplications et de chaînes, notamment Prime Video, Netflix, YouTube, Disney+, Molotov, france.tv, ARTE et bien dautres encore. (des frais dabonnement peuvent sappliquer)
+- Mira Cast & Airplay 2 : Smart Cast vous permet de bénéficier dun confort considérable en visionnant et en lisant les contenus multimédias de vos appareils Android, iOS et Mac via Miracast et AirPlay.
 - Commande vocale intelligente : Contrôlez la Smart TV facilement avec la télécommande vocale fonctionnant avec Alexa. Changez de chaîne, réglez le volume, ouvrez des applications et bien plus encore. Vous pouvez également faire fonctionner dautres appareils domestiques compatibles avec votre voix.
 - Un son comme au cinéma : Le décodeur Dolby intégré vous offre une expérience de visionnage mémorable avec un son surround pur, profond et percutant. DTS Virtual X /DTS-HD produit un son enveloppant qui semble émerger dau-dessus, de côté et de derrière vous, offrant une expérience immersive dans nimporte quel espace.
-- Mira Cast & Airplay 2 : Smart Cast vous permet de bénéficier dun confort considérable en visionnant et en lisant les contenus multimédias de vos appareils Android, iOS et Mac via Miracast et AirPlay.
+- Un divertissement sans fin : Avec Fire TV intégrée, profitez dun divertissement sans fin sur des milliers dapplications et de chaînes, notamment Prime Video, Netflix, YouTube, Disney+, Molotov, france.tv, ARTE et bien dautres encore. (des frais dabonnement peuvent sappliquer)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CF5ZQH7Y{{</world>}}

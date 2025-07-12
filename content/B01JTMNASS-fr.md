@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Système de protection contre les chocs à trois niveaux
 - Bouton de sauvegarde automatique One Touch
-- Inclus logiciel de gestion de données Transcend Elite et le logiciel de récupération de données RecoveRx
 - Jusquà 4 To de capacité de stockage
+- Inclus logiciel de gestion de données Transcend Elite et le logiciel de récupération de données RecoveRx
 - Interface USB 3.1 Gen 1 avec support UASP
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfait pour tous les modes de cuisson
-- Consommation de gaz : 145 g/h
-- Allumage piézo rendant les allumettes superflues
 - Compartiment deau pour recueillir la graisse
+- Parfait pour tous les modes de cuisson
 - Gril compact et polyvalent avec couvercle pour fêtes
+- Consommation de gaz : 145 g/h
 - Fonctionne sur les bouteilles Campingaz rechargeables
+- Allumage piézo rendant les allumettes superflues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01AT6LRQ0{{</world>}}

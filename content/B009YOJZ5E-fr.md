@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Laissez votre budget aller plus loin
-- Latence testée: 9-9-9-24
 - Idéal pour le surcadençage. Vitesse SPD: 1333 MHz
 - Indice de vitesse: PC3-12800 (1600 MHz)
-- Évaluations rigoureuses et tests exhaustifs
 - 16 GB de mémoire rapide 1600 Mhz DDR3. Broche mémoire du paquet: 240 . Compatibilité: Série AMD DDR3, Intel Z68, Intel Z77, Intel Z87, Intel X79
+- Évaluations rigoureuses et tests exhaustifs
+- Latence testée: 9-9-9-24
+- Laissez votre budget aller plus loin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009YOJZ5E{{</world>}}

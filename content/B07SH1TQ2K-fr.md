@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure en EVA
-- Dessus en polyuréthane
 - Doublure en maille recyclée
+- Dessus en polyuréthane
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SH1TQ2K{{</world>}}

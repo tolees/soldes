@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les 4 boutons permettent de commander jusquà 10 appareils différents grâce à des combinaisons de touches
 - Telecommande avidsen 104257
 - Compatible avec la plupart des motorisations avidsen
-- Les 4 boutons permettent de commander jusquà 10 appareils différents grâce à des combinaisons de touches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00G9XJDVE{{</world>}}

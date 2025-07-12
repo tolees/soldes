@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifié par le groupe de travail du cuir
 - Hauteur : 4,2 cm
-- Semelle extérieure XL EXTRALIGHT pour plus de légèreté et dabsorption des chocs
 - Système de fermeture Velcro
+- Semelle extérieure XL EXTRALIGHT pour plus de légèreté et dabsorption des chocs
+- Certifié par le groupe de travail du cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09SXW922G{{</world>}}

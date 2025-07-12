@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Version française
-- Caractéristiques techniques : 5 MPixels, objectif arrière pour selfies (2 MPixels), zoom x4, flash automatique, contrôle parental pour limiter le temps de jeu
-- Appareil Photo conseillé pour les enfants de 3 à 12 ans
-- 10 en 1 : Double objectif pour photos et vidéos, Détection de visage, Trucages, Musique, Enregistreur vocal, Déformation de la voix, Photos & Selfie, Vidéos, Filtres dynamiques, Jeux
 - Jeux : 5 jeux amusants pour jouer avec ses amis, dont 3 en Réalité Augmentée !§Inclus : prise casque et casque, dragonne, câble USB, emplacement carte microSD - Fonctionne avec 4 piles LR06 incluses
+- Appareil Photo conseillé pour les enfants de 3 à 12 ans
+- Version française
 - Inclus : prise casque et casque, dragonne, câble USB, emplacement carte microSD - Fonctionne avec 4 piles LR06 incluses
+- 10 en 1 : Double objectif pour photos et vidéos, Détection de visage, Trucages, Musique, Enregistreur vocal, Déformation de la voix, Photos & Selfie, Vidéos, Filtres dynamiques, Jeux
+- Caractéristiques techniques : 5 MPixels, objectif arrière pour selfies (2 MPixels), zoom x4, flash automatique, contrôle parental pour limiter le temps de jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086FBNJLM{{</world>}}

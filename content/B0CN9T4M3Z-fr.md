@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Expérience solo
 - Mode coopératif en ligne jusquà quatre joueurs
 - Incarnez la célèbre équipe de vilains de lunivers DC Comics
-- Expérience solo
 - Jeu de tir à la troisième personne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

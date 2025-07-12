@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de construction avec voiture de l’écurie de F1 Mercedes-AMG PETRONAS pour garçons et filles dès 10 ans – Les enfants peuvent construire, exposer et jouer à la course avec cette voiture LEGO Speed Champions de l’écurie de F1 Mercedes-AMG PETRONAS
-- Accessoires authentiques – La voiture de Formule 1 arbore des détails du vrai modèle de 2024, dont le cockpit, le halo de protection, laileron arrière, la suspension, les autocollants des sponsors et les larges pneus arrière marqués « Pirelli »
 - Une voiture de course à exposer – Lorsque les enfants ont fini de jouer à la course avec leur voiture LEGO de l’écurie de F1 Mercedes-AMG PETRONAS, ils peuvent exposer ce bel objet de décoration intérieure sur une étagère ou une table de chevet
+- Des voitures mythiques pour s’amuser et décorer – Les sets LEGO Speed Champions permettent aux enfants et aux amateurs de voitures de recréer des maquettes en briques LEGO de certains des véhicules les plus célèbres au monde
+- Accessoires authentiques – La voiture de Formule 1 arbore des détails du vrai modèle de 2024, dont le cockpit, le halo de protection, laileron arrière, la suspension, les autocollants des sponsors et les larges pneus arrière marqués « Pirelli »
 - Tout le bonheur de la F1 à partager en famille – Organisez des courses automobiles avec toute la famille pour voir s’agiter le drapeau à damier avec les autres sets de construction (vendus séparément) de la gamme LEGO F1
 - Une minifigurine LEGO collector de pilote de F1 – Ce jouet de construction comprend une minifigurine portant une tenue de l’écurie de F1 Mercedes-AMG PETRONAS et un casque pouvant se placer dans le cockpit pour mettre en scène des courses palpitantes
-- Des voitures mythiques pour s’amuser et décorer – Les sets LEGO Speed Champions permettent aux enfants et aux amateurs de voitures de recréer des maquettes en briques LEGO de certains des véhicules les plus célèbres au monde
+- Jeu de construction avec voiture de l’écurie de F1 Mercedes-AMG PETRONAS pour garçons et filles dès 10 ans – Les enfants peuvent construire, exposer et jouer à la course avec cette voiture LEGO Speed Champions de l’écurie de F1 Mercedes-AMG PETRONAS
 - Belle idée de cadeau pour garçons et filles dès 10 ans sur le thème de la Formule 1 – Cette superbe maquette de F1 constitue une belle idée de cadeau danniversaire pour les enfants dès 10 ans et les adultes collectionneurs de maquettes de voitures
 
 [🛒 Achète-le!!]({{< param buyurl >}})

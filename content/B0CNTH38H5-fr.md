@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vos choix dans le jeu de base et dans laventure de thriller et despionnage Phantom Liberty créent des toiles de conséquences qui sentremêlent, façonnant le destin des personnages qui vous entourent, et le vôtre.
 - Night City regorge de choses à faire, dendroits à voir et de gens à rencontrer. Et vous êtes libre daller où vous voulez, quand vous voulez, comme vous voulez.
 - Dans lÉdition Ultime, plongez dans chaque histoire que ce monde au futur sombre peut vous offrir, et retrouvez toutes les mises à jour de gameplay et de contenu dans un seul pack, comprenant lextension à succès façon thriller despionnage Phantom Liberty.
-- Devenez un hors-la-loi urbain équipé daméliorations cybernétiques et forgez votre légende dans les rues de Night City.
 - Lancez-vous dans des aventures risquées et nouez des relations avec des personnages inoubliables dont le sort dépendra de vos choix.
-- Vos choix dans le jeu de base et dans laventure de thriller et despionnage Phantom Liberty créent des toiles de conséquences qui sentremêlent, façonnant le destin des personnages qui vous entourent, et le vôtre.
+- Devenez un hors-la-loi urbain équipé daméliorations cybernétiques et forgez votre légende dans les rues de Night City.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNTH38H5{{</world>}}

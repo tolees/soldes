@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imprimante photo compacte
 - Se connecte sans fil via bluetooth aux smartphones
 - 1
+- Imprimante photo compacte
 - Utilise notre plus grand format de film, large, taille de film 108 (l) x 86 (h), taille dimage 99 (l) x 62 (h) mm, film vendu séparément
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

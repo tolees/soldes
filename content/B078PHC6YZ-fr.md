@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus en toile
-- Bout rond
-- Semelle intérieure rembourrée
 - Rayures signature
+- Semelle intérieure rembourrée
+- Bout rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B078PHC6YZ{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Columbia
-- Poids: 0.23 kg
 - Challenger
+- Poids: 0.23 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N4FF7UP{{</world>}}

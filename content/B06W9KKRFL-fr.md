@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Licence officielle.
-- Très résistante.
 - Haute qualité.
+- Très résistante.
+- Licence officielle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06W9KKRFL{{</world>}}

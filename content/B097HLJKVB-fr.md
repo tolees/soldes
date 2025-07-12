@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Répartir sur cheveux mouillés. Emulsionner. Rincer.
-- Le shampoing professionnel Pro Longer est enrichi en Filler A-100, une technologie brevetée par LOréal Professionnel, et en acide aminé pour renouveler les cheveux longs aux longueurs fragilisées et aux pointes fourchues. La fibre est rénovée, les cheveux sont plus forts et plus brillants.
 - Il répare la fibre, réduit les pointes fourchues et rend les cheveux longs plus forts et plus brillants sur toute la longueur.
+- Le shampoing professionnel Pro Longer est enrichi en Filler A-100, une technologie brevetée par LOréal Professionnel, et en acide aminé pour renouveler les cheveux longs aux longueurs fragilisées et aux pointes fourchues. La fibre est rénovée, les cheveux sont plus forts et plus brillants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097HLJKVB{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4. Composition : Bois MDF - Coloris : BLANC et BOIS façon chêne vieilli pour la porte.
-- 2. Dimensions : Longueur 36.5 cm -
-- 5. Astucieux il est monté sur pieds afin de faciliter lentretien de votre salle de bain. Indispensable dans votre salle de bain, vos toilettes ou votre cuisine, ce meuble bas vous permet un grand rangement dans un espace optimisé.
 - 1. Ce meuble colonne de salle de bain, de très belle qualité, comprend 1 tiroir avec poignée en métal puis 1 rangement 1 porte avec poignée en métal et 1 étagère à lintérieur.
 - 3. Profondeur 30 cm - Hauteur 83 cm - A monter soi-même (visserie fournie).
+- 2. Dimensions : Longueur 36.5 cm -
+- 5. Astucieux il est monté sur pieds afin de faciliter lentretien de votre salle de bain. Indispensable dans votre salle de bain, vos toilettes ou votre cuisine, ce meuble bas vous permet un grand rangement dans un espace optimisé.
+- 4. Composition : Bois MDF - Coloris : BLANC et BOIS façon chêne vieilli pour la porte.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00HDVM9EO{{</world>}}

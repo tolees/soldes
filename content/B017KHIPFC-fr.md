@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Approprié pour: gst 160 gst 140 gst 1400 18 v-li gst s gst 18 v-li b
 - Approprié pour : gst 160 gst 140 gst 1400 18 v-li gst s gst 18 v-li b
-- Adaptateur pour rail de guidage pour scie à chantourner
+- Approprié pour: gst 160 gst 140 gst 1400 18 v-li gst s gst 18 v-li b
 - Compatible avec les rails de guidage bosch fsn et les rails de guidage de mafell et festool
+- Adaptateur pour rail de guidage pour scie à chantourner
 - Coupes droites guidées avec la scie sauteuse sur le rail de guidage
 - Connexion et séparation faciles et sans outil de la scie sauteuse et de ladaptateur
 - Peut être utilisé avec gst 160, gst 140, gst 1400 et gst 18 v-li, gst 18 v-li s, gst 18 v-li b

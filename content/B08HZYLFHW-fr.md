@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
 - 7255439000
+- Durable
 - Marque: REVLON PROFESSIONAL
 - Fiable
 

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce soin global nuit ultra-riche agit contre les signes majeurs de lâge
 - Au reveil, votre peau est intensément nourrie et pleinement hydratée dès la 1ère application
+- Ce soin global nuit ultra-riche agit contre les signes majeurs de lâge
 - Pour un profond renouvellement cellulaire et une peau dapparence plus jeune
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dévoilez les mystères du ciel et retrouvez locéan perdu dans deux RPGs intemporels, remastérisés en HD.
 - « Baten Kaitos: Eternal Wings and the Lost Ocean » fait son grand retour sur la Nintendo Switch
+- Dévoilez les mystères du ciel et retrouvez locéan perdu dans deux RPGs intemporels, remastérisés en HD.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9R1KQZV{{</world>}}

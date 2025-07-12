@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran AMOLED 120Hz ultra-fluide Verre résistant Corning Gorilla
 - Processeur Snapdragon 5G puissant Gravure en 6nm, compatible 5G
+- Écran AMOLED 120Hz ultra-fluide Verre résistant Corning Gorilla
 - Charge rapide 33W Batterie longue autonomie de 5000 mAh (typ)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

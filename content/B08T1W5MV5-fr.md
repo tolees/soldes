@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 À 4 JOUEURS - La durée dune partie est denviron 30 minutes et se joue avec 2 à 4 joueurs ; relevez lensemble des défis trépidants Jumanji proposés et montrez à vos adversaires que vous êtes le plus fort
 - UNE MÉCANIQUE ORIGINALE - Mécanique de jeu originale qui mélange coopération et compétition entre les joueurs ; Doublez-croisez vos adversaires en plaçant stratégiquement le Rhino pour bloquer le chemin lorsque vous courez au centre du tableau ; Si vous êtes le premier à atteindre le centre avant que la grille du Jugement dernier ne se remplisse, criez Jumanji Et gagnez
-- RÉÉDITION - Ce Jeu Jumanji Rétro est une réédition pour être encore plus proche du design authentique du film Les graphismes plateau, la boîte et les éléments de jeu (pions, sabliers..) ont été modifiés pour ressembler encore plus à l’original
-- JOUET ENFANT 8 ANS - Le coffret du Jeu Jumanji Rétro Nouvelle Édition en Bois convient aux enfants de 8 ans et + ; jouet jeu défis en famille
+- CADEAU ENFANT ET FAMILLE - Pour un anniversaire ou Noël, offrez ce jeu de société Jumanji Rétro en Bois de Spin Master Games à vos enfants ou vos amis nostalgiques du film de 1995 ; Partagez un moment dexception avec vos enfants ou jouez entre adultes pour déterminer qui est le plus courageux des aventuriers
 - UN MONDE SAUVAGE - Pour survivre, vous devrez collaborer dans ce monde sauvage ; Utilisez votre décodeur pour découvrir le message secret et voir si une catastrophe se produit ; Vos compagnons de jeu Jumanji doivent courir contre le temps pour vous sauver
 - LE JEU JUMANJI - Jeu de société Jumanji en Bois pour revivre les aventures et les embûches en tout genre du film de 1995 ; Traquer les lions, charger les rhinocéros, capturer les crocodiles et autres créatures dangereuses, dans le monde sauvage de Jumanji, vous êtes à un jet de dé du danger Un seul objectif dans le jeu Jumanji : traverser la jungle sain et sauf et atteindre en premier le centre du plateau
-- CADEAU ENFANT ET FAMILLE - Pour un anniversaire ou Noël, offrez ce jeu de société Jumanji Rétro en Bois de Spin Master Games à vos enfants ou vos amis nostalgiques du film de 1995 ; Partagez un moment dexception avec vos enfants ou jouez entre adultes pour déterminer qui est le plus courageux des aventuriers
+- JOUET ENFANT 8 ANS - Le coffret du Jeu Jumanji Rétro Nouvelle Édition en Bois convient aux enfants de 8 ans et + ; jouet jeu défis en famille
+- RÉÉDITION - Ce Jeu Jumanji Rétro est une réédition pour être encore plus proche du design authentique du film Les graphismes plateau, la boîte et les éléments de jeu (pions, sabliers..) ont été modifiés pour ressembler encore plus à l’original
+- 2 À 4 JOUEURS - La durée dune partie est denviron 30 minutes et se joue avec 2 à 4 joueurs ; relevez lensemble des défis trépidants Jumanji proposés et montrez à vos adversaires que vous êtes le plus fort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T1W5MV5{{</world>}}

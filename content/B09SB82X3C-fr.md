@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Longueur du circuit: 6,3 m
-- Échelle: 1:43, Âge: 6+
 - Avec croisement, looping et fly-over
-- Mesures quand assemblé: 175 x 122 cm
 - F1 Mercedes 2022 "Hamilton, No.44" + F1 Red Bull 2022 "Verstappen, No.33"
+- Mesures quand assemblé: 175 x 122 cm
+- Échelle: 1:43, Âge: 6+
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SB82X3C{{</world>}}

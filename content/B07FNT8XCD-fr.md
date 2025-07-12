@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- 492 pièces pour les filles et les garçons à partir de 7 ans.
-- Mesure plus de 21 cm de haut, 25 cm de large et 14 cm de profondeur.
-- Inclut 2 mini-poupées : Andrea et Chloé LEGO Friends, plus une figurine de lapin.
 - Construisez lensemble de spectacle dAndréa, préparez-la dans sa loge, puis sur la scène, aidez-la à chanter, à jouer de la batterie ou faire de la magie.
+- Inclut 2 mini-poupées : Andrea et Chloé LEGO Friends, plus une figurine de lapin.
+- 492 pièces pour les filles et les garçons à partir de 7 ans.
+- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Mesure plus de 21 cm de haut, 25 cm de large et 14 cm de profondeur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FNT8XCD{{</world>}}

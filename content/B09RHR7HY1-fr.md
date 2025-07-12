@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Étui à crayon plat
 - Doublure intérieure
 - 3 compartiments et fermeture éclair
-- Étui à crayon plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RHR7HY1{{</world>}}

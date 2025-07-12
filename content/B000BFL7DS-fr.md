@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kärcher - 2.643-233.0 - Brosse triangulaire accessoire pour nettoyeur haute pression
-- Pad en caoutchouc pour les salissures tenaces
-- Application de détergent Poils doux et bague de protection qui protègent les surfaces des rayures
 - Description du produit : Karcher 2.640-590.0
-- Accessoire à combiner à un nettoyeur haute pression K2 à K7
 - Largeur : 248 mm
+- Application de détergent Poils doux et bague de protection qui protègent les surfaces des rayures
+- Pad en caoutchouc pour les salissures tenaces
+- Accessoire à combiner à un nettoyeur haute pression K2 à K7
+- Kärcher - 2.643-233.0 - Brosse triangulaire accessoire pour nettoyeur haute pression
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000BFL7DS{{</world>}}

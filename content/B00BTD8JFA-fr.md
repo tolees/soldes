@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Package dimensions (H x L x W 8.0 centimeters x 55.1 centimeters x 24.6 centimeters
 - Y compris petit sac pour guide dangle, pièce de raccordement, etc
 - Transport pratique pour les rails de guidage et les accessoires correspondants
-- Package dimensions (H x L x W 8.0 centimeters x 55.1 centimeters x 24.6 centimeters
 - Avec bandoulière pour garder les deux mains libres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

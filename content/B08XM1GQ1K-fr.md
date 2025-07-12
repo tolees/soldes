@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES RÈGLES SIMPLES pour un jeu palpitant ! À l’aide de Pikachu, Bulbizarre, Salamèche et Carapuce, faites glisser astucieusement les murs du labyrinthe pour vous frayer un chemin et tous les attraper. Une chasse aux Pokémon ludique dans un labyrinthe toujours en mouvement !
 - OBSERVATION, RÉFLEXION et STRATÉGIE: un jeu de plateau passionnant et plein de rebondissements, pour 2 à 4 joueurs. Ce jeu de société est un cadeau idéal pour les garçons et les filles à partir de 7 ans ! Passez un agréable moment de jeu en famille ou entre amis.
-- UN GRAND CLASSIQUE des jeux familiaux ! Depuis sa création en 1986, Labyrinthe enthousiasme petits et grands et a su simposer comme un grand classique du jeu de société ! Participez à une incroyable chasse aux trésors dans un labyrinthe en mouvement dans cette édition Pokémon !
-- CONTENU : 1 plateau de jeu, 34 plaques Couloir, 24 cartes Trésor, 4 pions, 1 règle du jeu. 20 à 30 minutes de jeu en moyenne. Découvrez également Labyrinthe dans sa version Junior à partir de 4 ans, pour une initiation ludique dans un labyrinthe magique ou encore avec les héros de la PatPatrouille.
 - PARTIES COURTES ET DIFFÉRENTES : le labyrinthe évolue sans cesse et ne demande qu’à être exploré ! Amusez-vous à créer des dédales toujours différents pour des parties à linfini ! Retrouvez également votre Labyrinthe en version Harry Potter, Disney Villains et vos autres personnages préférés !
+- UN GRAND CLASSIQUE des jeux familiaux ! Depuis sa création en 1986, Labyrinthe enthousiasme petits et grands et a su simposer comme un grand classique du jeu de société ! Participez à une incroyable chasse aux trésors dans un labyrinthe en mouvement dans cette édition Pokémon !
+- DES RÈGLES SIMPLES pour un jeu palpitant ! À l’aide de Pikachu, Bulbizarre, Salamèche et Carapuce, faites glisser astucieusement les murs du labyrinthe pour vous frayer un chemin et tous les attraper. Une chasse aux Pokémon ludique dans un labyrinthe toujours en mouvement !
+- CONTENU : 1 plateau de jeu, 34 plaques Couloir, 24 cartes Trésor, 4 pions, 1 règle du jeu. 20 à 30 minutes de jeu en moyenne. Découvrez également Labyrinthe dans sa version Junior à partir de 4 ans, pour une initiation ludique dans un labyrinthe magique ou encore avec les héros de la PatPatrouille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08XM1GQ1K{{</world>}}

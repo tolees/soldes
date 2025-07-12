@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Livraison facile : 8 Brossettes Oral-B Kids dans un format spécial boîte aux lettres
 - Douce pour les gencives avec des poils extra souples
-- Brossette ronde pour petites bouches
 - Convient aux enfants de 3 ans et plus
 - Spécialement conçue pour un brossage en douceur pour les enfants
+- Brossette ronde pour petites bouches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5HNGL83{{</world>}}

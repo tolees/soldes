@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en France
-- Ultra compact
-- Epilation jambes et corps
-- 24 pinces spécialement conçues pour une épilation ultra efficace, même des poils les plus courts
-- Billes de massage pour moins de sensibilité de la peau
 - Alimentation sur secteur
+- 24 pinces spécialement conçues pour une épilation ultra efficace, même des poils les plus courts
+- Epilation jambes et corps
 - Long cordon dalimentation : 2m
 - 2 vitesses pour une épilation adaptée aux différentes zones du corps
+- Ultra compact
+- Fabriqué en France
+- Billes de massage pour moins de sensibilité de la peau
 - Brossette de nettoyage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

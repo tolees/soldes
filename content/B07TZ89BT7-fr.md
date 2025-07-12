@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connecteur de sortie: USB-C
-- Plage dentrée de fonctionnement: 96-264 V
-- Protection contre les courts-circuits, les surintensités et les surtempératures.
 - Sortie : 5,1 V.
+- Plage dentrée de fonctionnement: 96-264 V
+- Connecteur de sortie: USB-C
+- Protection contre les courts-circuits, les surintensités et les surtempératures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TZ89BT7{{</world>}}

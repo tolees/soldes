@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robuste, résistant aux chocs et à lécrasement, le DiskAshur M2 est extrêmement robuste, supporte une chute allant jusquà 4 m sur une surface en béton. Lentraînement est également résistant à lécrasement, supporte le poids dun véhicule de 2,7 tonnes.
 - Design fin et élégant, léger et plus petit que la taille dun téléphone, ce qui le rend ultra portable. Poids : 86 g (avec manchon) - Poids : 65 g. (sans manchon).
-- Transférez vos fichiers en quelques secondes rapidement, rétrocompatible USB 3.2. Jusquà 370 Mo/s en lecture et 370 Mo/s en écriture.
-- Pas besoin de vous soucier des éclaboussures. Laccréditation IP68 signifie quil résistera à une immersion sous 1,5 m deau pendant 30 minutes et est considéré assez adapté pour résister à la poussière, la saleté et le sable.
 - Facile à utiliser, il suffit dentrer une broche de 7 à 15 chiffres pour authentifier et utiliser comme un SSD portable normal. Lorsque le lecteur est déconnecté, toutes les données sont cryptées en utilisant le cryptage matériel AES-XTS 256 bits (aucun logiciel nécessaire).
+- Transférez vos fichiers en quelques secondes rapidement, rétrocompatible USB 3.2. Jusquà 370 Mo/s en lecture et 370 Mo/s en écriture.
+- Robuste, résistant aux chocs et à lécrasement, le DiskAshur M2 est extrêmement robuste, supporte une chute allant jusquà 4 m sur une surface en béton. Lentraînement est également résistant à lécrasement, supporte le poids dun véhicule de 2,7 tonnes.
+- Pas besoin de vous soucier des éclaboussures. Laccréditation IP68 signifie quil résistera à une immersion sous 1,5 m deau pendant 30 minutes et est considéré assez adapté pour résister à la poussière, la saleté et le sable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08MKQWCG9{{</world>}}

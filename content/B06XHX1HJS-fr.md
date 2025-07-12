@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : cuir (cuir de veau)
 - Couleur : bleu marine
-- Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
 - Lacets élastiques et système de fermeture par sangle pour un ajustement facile
+- Dessus : cuir (cuir de veau)
+- Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
 - Coutures à 360° pour plus de durabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

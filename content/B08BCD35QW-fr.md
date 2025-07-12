@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intercalaire Techlite pour un amorti confortable et une excellente restitution de l’énergie
-- Tige en maille et cuir suédé avec renforts en cuir synthétique
 - Languette à soufflet et renfort à l’avant-pied
+- Tige en maille et cuir suédé avec renforts en cuir synthétique
+- Semelle intercalaire Techlite pour un amorti confortable et une excellente restitution de l’énergie
 - Semelle extérieure adhérente non marquante Omni-Grip
 
 [🛒 Achète-le!!]({{< param buyurl >}})

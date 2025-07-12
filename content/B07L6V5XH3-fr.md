@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour les plus jeunes
-- Boite, jeu et règles en français
-- Course contre le dragon
-- Jeu coopératif
 - Création dun itinéraire
 - De 2 à 4 joueurs
+- Jeu coopératif
+- Idéal pour les plus jeunes
+- Course contre le dragon
+- Boite, jeu et règles en français
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L6V5XH3{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec le levier de vitesse HORI 7-Speed Racing Shifter sur PC Windows. Le shifter se connecte directement au PC via USB.
-- Pince de fixation robuste
-- Angle de rotation de 270 degrés
-- Sous licence officielle Microsoft
 - Compatible avec xbox series x|s, xbox one et windows 10/11
+- Compatible avec le levier de vitesse HORI 7-Speed Racing Shifter sur PC Windows. Le shifter se connecte directement au PC via USB.
 - Volant et pédales de course à taille réelle optimisés pour une simulation de course authentique
+- Pince de fixation robuste
+- Sous licence officielle Microsoft
+- Angle de rotation de 270 degrés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08LGWJ219{{</world>}}

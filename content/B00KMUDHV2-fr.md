@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% polyester
 - Présenté dans sa housse de rangement à suspendre.
+- 100% polyester
 - Composé de la robe, de la ceinture et des couvre bottes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

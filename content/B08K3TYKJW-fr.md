@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques du jeu: 1 à 4 joueurs hors-lign ou en ligne, version physique, disponible en français et en anglais, compatibilités: console Ps4
-- Affrontez des défis palpitants et imprévisibles en explorant des niveaux « faits-main » uniques grce à des contrôles immersifs.
 - Une expérience plateforme périlleuse -explorez les moindres recoins avec la panoplie de mouvements cool et divers de sackboy.
 - Rembourré. Recousu. Rezippé. Sackboy revient avec des nouveaux mouvements et des gadgets inédits dans une toute nouvelle aventure en 3D
+- Affrontez des défis palpitants et imprévisibles en explorant des niveaux « faits-main » uniques grce à des contrôles immersifs.
+- Caractéristiques du jeu: 1 à 4 joueurs hors-lign ou en ligne, version physique, disponible en français et en anglais, compatibilités: console Ps4
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08K3TYKJW{{</world>}}

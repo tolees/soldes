@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- textile
 - Lacets
-- toile
-- Trois bandes sur le dessus
 - Semelle en caoutchouc
+- Trois bandes sur le dessus
 - Chaussures de sport
+- textile
+- toile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B293CCR4{{</world>}}

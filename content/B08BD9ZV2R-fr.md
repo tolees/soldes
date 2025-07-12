@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Need for Speed Hot Pursuit Remastered offre une expérience de course intemporelle mise à jour pour la génération de matériel daujourdhui avec des visuels améliorés
-- Boulonnez les routes sinueuses du comté de Seacrest tête la première dans une course socialement compétitive en son cœur
 - Obtenez tous les DLC principaux supplémentaires livrés au lancement, y compris six heures de jeu supplémentaires et plus de 30 défis
-- Affrontez des amis ou jouez en solo pour gagner des Bounty et débloquer de nouvelles voitures, armes et équipements
 - Conduisez les supercars les plus désirables du monde des deux côtés de la loi; Buste suspects dans des intercepteurs de flics suralimentés améliorés avec des armes tactiques, ou niveler le terrain de jeu avec des contre-attaques et des manœuvres défensives en tant que coureur délite; Stratégiez pour gagner un avantage sur la compétition, quel que soit le côté où vous vous trouvez
+- Boulonnez les routes sinueuses du comté de Seacrest tête la première dans une course socialement compétitive en son cœur
+- Affrontez des amis ou jouez en solo pour gagner des Bounty et débloquer de nouvelles voitures, armes et équipements
+- Need for Speed Hot Pursuit Remastered offre une expérience de course intemporelle mise à jour pour la génération de matériel daujourdhui avec des visuels améliorés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BD9ZV2R{{</world>}}

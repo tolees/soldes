@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Horloge de la puce : 1189 MHz, Boost : 1430 MHz
 - Puce : GP108 310 A1 "Pascal"
-- Mémoire : 2 Go DDR4, 1050 MHz, 64 bits, 16,8 Go/s
 - GEFORCE GT 1030 2GHD4 LP OC
+- Horloge de la puce : 1189 MHz, Boost : 1430 MHz
+- Mémoire : 2 Go DDR4, 1050 MHz, 64 bits, 16,8 Go/s
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CMH5F9R{{</world>}}

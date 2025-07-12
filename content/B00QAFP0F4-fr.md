@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - On appuie sur le bouton lumineux de la tête articulée
-- L’animal roule
-- Déclenchement de chansons, mélodies et sons amusants quand :
-- Un coffret de 3 animaux trop mignons qui roulent, parlent et chantent !
-- Version française
 - Coffret contenant Tire-bouchon, le cochon glouton, Frisette, le mouton à bouclettes et Chardon, l’âne à chansons.
+- Déclenchement de chansons, mélodies et sons amusants quand :
+- Version française
+- L’animal roule
+- Un coffret de 3 animaux trop mignons qui roulent, parlent et chantent !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00QAFP0F4{{</world>}}

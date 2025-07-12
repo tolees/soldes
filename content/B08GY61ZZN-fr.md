@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des vitesses de transfert élevées allant jusquà 120 Mo/s pour enregistrer ces moments
-- Des performances denregistrement vidéo exceptionnelles avec une classe de vitesse UHS1 (U1) et une classe 10 pour des vidéos Full HD (1080 p)
 - Compatible avec le lecteur de cartes SanDisk SD UHS-I pour des vitesses allant jusquà 120 Mo/s
+- Des performances denregistrement vidéo exceptionnelles avec une classe de vitesse UHS1 (U1) et une classe 10 pour des vidéos Full HD (1080 p)
+- Des vitesses de transfert élevées allant jusquà 120 Mo/s pour enregistrer ces moments
 - Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
 - Jusquà 256 Go pour stocker des tonnes de photos et encore plus de vidéos Full HD
 

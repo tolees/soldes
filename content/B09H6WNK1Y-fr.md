@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Conçu pour être porté au quotidien, ce sweat-shirt affiche un look décontracté simple mais audacieux.
 - Coupe standard.
 - Base et poignets côtelés.
-- Conçu pour être porté au quotidien, ce sweat-shirt affiche un look décontracté simple mais audacieux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09H6WNK1Y{{</world>}}

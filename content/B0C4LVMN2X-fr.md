@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort rembourré
-- Lacets élastiques
 - La tige en cuir de veau avec des coussinets en mousse souple vous permet de placer vos tirs avec précision
-- Une plaque redessinée et une tige raffinée font de la Legend 9 le plus léger Tiempo de tous les temps
+- Lacets élastiques
 - Pour une utilisation sur gazon court ou gazon artificiel
+- Une plaque redessinée et une tige raffinée font de la Legend 9 le plus léger Tiempo de tous les temps
+- Confort rembourré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C4LVMN2X{{</world>}}

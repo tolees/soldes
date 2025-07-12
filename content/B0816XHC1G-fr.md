@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La butée parallèle améliorée est très stable et permet de réaliser facilement des coupes longitudinales parfaites, tandis que la butée d’angle ( Plus/- 60°) et la lame de scie inclinable facilitent les coupes d’onglets
 - Les rallonges latérales, très stables, permettent d’étendre la surface portante : Des extensions sont prévues à gauche et à droite pour recevoir les pièces plus larges. Le piètement, très stable, assure une hauteur de travail confortable à 85 cm
 - La scie circulaire sur table est dotée d’une lame aux carbures de tungstène précise dont la hauteur et l’inclinaison peuvent être ajustées facilement à l’aide d’une poignée grâce au dispositif de réglage 2-en-1
-- Les dispositifs d’aspiration prévus au niveau du bâti de la machine et du protège-lame garantissent la propreté de l’espace de travail. Le bâti de la machine comprend un support pour enrouler le câble électrique
+- La butée parallèle améliorée est très stable et permet de réaliser facilement des coupes longitudinales parfaites, tandis que la butée d’angle ( Plus/- 60°) et la lame de scie inclinable facilitent les coupes d’onglets
 - Avec la scie circulaire sur table Einhell TC-TS 2025/2 U, le bricoleur expérimenté dispose d’un outil dont la puissance peut aller jusqu’à 2 000 W pour travailler le bois massif, les panneaux de fibres de bois et d’autres matériaux similaires
+- Les dispositifs d’aspiration prévus au niveau du bâti de la machine et du protège-lame garantissent la propreté de l’espace de travail. Le bâti de la machine comprend un support pour enrouler le câble électrique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0816XHC1G{{</world>}}

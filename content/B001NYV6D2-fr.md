@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Famille : equerre et rapporteur
 - Essai et surfaces latérales finement polies et ajustées
+- Selon din 8751
 - Pour un travail précis et un contrle dans la construction de machines de précision
 - Avec entrées
-- Selon din 8751
 - Bouton à angle droit, tolérances de parallélité et de précision finement polies et ajustées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

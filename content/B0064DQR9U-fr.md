@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une utilisation non conforme aux spécifications, avertissements, conceptions ou recommandations du fabricant entraînera une baisse des vitesses, une instabilité du système ou des dommages au système ou à ses composants
-- Ne mélangez pas les kits de mémoire. Les kits de mémoire sont vendus dans des kits assortis conçus pour fonctionner ensemble comme un ensemble. Le mélange de kits de mémoire entraînera des problèmes de stabilité ou une défaillance du système
+- Pour les kits de mémoire avec XMP, activez le profil XMP/DOCP/A-XMP dans le BIOS pour atteindre la vitesse doverclock XMP potentielle nominale du kit de mémoire, sous réserve de lutilisation dun matériel compatible
 - Atteindre la vitesse doverclock XMP nominale et la stabilité du système dépendra de la compatibilité et de la capacité de la carte mère et du processeur utilisés
 - Les kits de mémoire démarreront à la vitesse SPD avec les paramètres BIOS par défaut avec du matériel compatible
-- Pour les kits de mémoire avec XMP, activez le profil XMP/DOCP/A-XMP dans le BIOS pour atteindre la vitesse doverclock XMP potentielle nominale du kit de mémoire, sous réserve de lutilisation dun matériel compatible
+- Une utilisation non conforme aux spécifications, avertissements, conceptions ou recommandations du fabricant entraînera une baisse des vitesses, une instabilité du système ou des dommages au système ou à ses composants
+- Ne mélangez pas les kits de mémoire. Les kits de mémoire sont vendus dans des kits assortis conçus pour fonctionner ensemble comme un ensemble. Le mélange de kits de mémoire entraînera des problèmes de stabilité ou une défaillance du système
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0064DQR9U{{</world>}}

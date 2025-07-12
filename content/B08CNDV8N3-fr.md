@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu du colis: 1x Projecteur LED RUFUS 1500 MA rechargeable avec batterie Li-Ion intégrée, 1500 lm, 1m câble de raccordement USB, 1 étui de rangement - le meilleur de la qualité brennenstuhl
 - Spot de chantier résistant aux chocs et aux chutes jusquà 3m de hauteur, IK08. Boîtier moulé en aluminium sous pression avec protection des angles, support rabattable - idéal pour chantier, atelier
 - Phare de travail équipé de la fonction Powerbank (batterie externe/de secours) pour recharger les appareils comme les smartphones (prise-chargeur USB (1A) type A/C), 1m de câble de raccordement USB
-- Lampe de chantier LED avec batterie Li-lon 3,7V / 5Ah intégrée avec fonction Powerbank, 1 interrupteur pour éclairage et 1 interrupteur poussoir avec 5 témoins de charge (100% - 80% - 60% - 40% - 20%)
 - Boîtier en aluminium, protection des angles. Résistant aux chocs et aux chutes jusquà 3m de hauteur
+- Lampe de chantier LED avec batterie Li-lon 3,7V / 5Ah intégrée avec fonction Powerbank, 1 interrupteur pour éclairage et 1 interrupteur poussoir avec 5 témoins de charge (100% - 80% - 60% - 40% - 20%)
+- Contenu du colis: 1x Projecteur LED RUFUS 1500 MA rechargeable avec batterie Li-Ion intégrée, 1500 lm, 1m câble de raccordement USB, 1 étui de rangement - le meilleur de la qualité brennenstuhl
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08CNDV8N3{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Samsung Galaxy Buds2 Pro Graphite EU
 - Ecouteurs intra-auriculaires sans fil
+- Samsung Galaxy Buds2 Pro Graphite EU
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BCZZXDS9{{</world>}}

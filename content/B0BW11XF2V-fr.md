@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un porte-clé
 - Un Steelbook
+- Un porte-clé
 - Un poster
 - Contient : Edition Standard - Couverture Alternative
 - Un Lenticulaire

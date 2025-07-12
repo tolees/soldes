@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gamme de fréquences 5-24 000 Hz
 - Diaphragmes en néodyme de 9 mm pour un son dynamique
+- Gamme de fréquences 5-24 000 Hz
 - Câble de type Y, longueur 1,2 m
 - Micro et télécommande filaire compatibles smartphone pour le modèle EX110AP
 - Connectique:télécommande universelle

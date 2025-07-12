@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour installations chauffage, pour la climatisation et le refroidissement
 - Tube fileté dune longueur de 1 mètre, en fonte galvanisée
 - Létanchéité de ces raccords sera assurée à laide dune résine spécialement conçue pour cette utilisation
 - Pour la réalisation et la maintenance de réseaux dincendie armé
 - Compatible avec tous raccords galva avec un filetage correspondant
-- Pour installations chauffage, pour la climatisation et le refroidissement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MVX5W9F{{</world>}}

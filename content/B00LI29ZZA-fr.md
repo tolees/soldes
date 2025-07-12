@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Scie : 2,2 mm
-- Trous broches : 02/06/1932
 - CMT 292.165.56H - Sierra circular 165x2.2/1.6x20 z=56 15 grados atb
 - Alésage : 20 mm
 - Diamètre : 165 mm
+- Trous broches : 02/06/1932
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00LI29ZZA{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOUTEILLE RECYCLABLE: Notre bouteille est 100% recyclable
-- 6 INGREDIENTS MAXIMUM : Recettes composées de 6 ingrédients maximum et du bon lait français
-- FABRIQUE EN FRANCE: Nous travaillons avec des producteurs de lait partenaires qui sont présents sur l’ensemble du territoire français, et situés en moyenne dans un rayon de 60km autour de nos 3 laiteries
 - FORMAT PRATIQUE : Une bouteille pratique qui se consomme frais ou à température ambiante et semporte partout
+- FABRIQUE EN FRANCE: Nous travaillons avec des producteurs de lait partenaires qui sont présents sur l’ensemble du territoire français, et situés en moyenne dans un rayon de 60km autour de nos 3 laiteries
+- 6 INGREDIENTS MAXIMUM : Recettes composées de 6 ingrédients maximum et du bon lait français
+- BOUTEILLE RECYCLABLE: Notre bouteille est 100% recyclable
 - DANETTE MILKSHAKE : une boisson gourmande et onctueuse avec des parfums iconiques, à consommer partout pour un maximum de plaisir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

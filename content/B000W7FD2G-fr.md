@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot économique de 10 paquets de piles pour appareils auditifs.
-- Diamètre : 5,8 mm.
-- Numéro de référence : 10.
 - Hauteur : 3,6 mm.
+- Diamètre : 5,8 mm.
+- Lot économique de 10 paquets de piles pour appareils auditifs.
+- Numéro de référence : 10.
 - Code couleur : jaune.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

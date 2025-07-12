@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet qui tourne est également fourni avec un élément central dénergie de dragon doré à collectionner dans un bol, que Dragon Lloyd Pouvoir doit gagner, et 2 éléments dobstacle en forme de pics
-- Lloyd doit se déplacer avec vitesse et agilité pour éviter les obstacles en forme de pics, vaincre le dangereux droïde dImperium et saisir lélément central dénergie de dragon en or très prisé
-- Le jouet rotatif offre aux petits ninjas des options de jeu infinies pour sentraîner au Dragon Lloyd Pouvoir et constitue un excellent petit cadeau pour les enfants de plus de 6 ans
-- Les enfants placent la minifigurine NINJAGO Lloyd à lintérieur de la toupie ornée de 3 éléments exclusifs de pouvoir de dragon vert, la font tourner et la regardent tourner rapidement
+- Le jouet est livré avec une minifigurine Dragon Lloyd Pouvoir, ainsi quune figurine de droïde dImperium qui peut se déplacer et se retourner lorsquelle est touchée
 - Découvrez les 2 autres jouets daction NINJAGO : Le Salto Spinjitzu : le Pouvoir du Dragon de Kai (71777) et Le Dérapage Spinjitzu : le Pouvoir du Dragon de Nya (71778)
 - Les enfants dès 6 ans peuvent aider à entraîner Dragon Lloyd Pouvoir à trouver son chemin dans une course avec ce jouet ninja LEGO NINJAGO Le Tourbillon Spinjitzu : le Pouvoir du Dragon de Lloyd
-- Le jouet est livré avec une minifigurine Dragon Lloyd Pouvoir, ainsi quune figurine de droïde dImperium qui peut se déplacer et se retourner lorsquelle est touchée
+- Lloyd doit se déplacer avec vitesse et agilité pour éviter les obstacles en forme de pics, vaincre le dangereux droïde dImperium et saisir lélément central dénergie de dragon en or très prisé
+- Le jouet rotatif offre aux petits ninjas des options de jeu infinies pour sentraîner au Dragon Lloyd Pouvoir et constitue un excellent petit cadeau pour les enfants de plus de 6 ans
+- Le jouet qui tourne est également fourni avec un élément central dénergie de dragon doré à collectionner dans un bol, que Dragon Lloyd Pouvoir doit gagner, et 2 éléments dobstacle en forme de pics
+- Les enfants placent la minifigurine NINJAGO Lloyd à lintérieur de la toupie ornée de 3 éléments exclusifs de pouvoir de dragon vert, la font tourner et la regardent tourner rapidement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPC8N7DP{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Élimination des décolorations sur les cordons de soudure ; nettoyage de petites surfaces métalliques, bords ou rainures
 - Idéale pour l’enlèvement de coloration sur les cordons de soudure
-- Fils ondulés pour les travaux de nettoyage faciles à moyennement difficiles
 - Pour perceuses avec filetage de 6mm
+- Fils ondulés pour les travaux de nettoyage faciles à moyennement difficiles
 - En outre, convient pour lenlèvement de la rouille, le dépolissage, la matification et le décapage de peinture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

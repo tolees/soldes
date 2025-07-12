@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le Redmi Note 12S dispose d’un écran AMOLED de 6,43 pouces avec un taux de rafraîchissement de 90 Hz.
 - Il existe trois couleurs de noir onyx, bleu glace et vert perle
 - Combinaison de batterie 5000mAh et charge rapide 33W. Type de connecteur: USB Type-C 2.0
-- Equipé du processeur MediaTek Helio G96. Fabriqué en utilisant le processus 12nm.
 - Caméra grand angle 108MP. Caméra ultra grand angle 8MP. Objectif macro 2MP.
-- Le Redmi Note 12S dispose d’un écran AMOLED de 6,43 pouces avec un taux de rafraîchissement de 90 Hz.
+- Equipé du processeur MediaTek Helio G96. Fabriqué en utilisant le processus 12nm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5DG43KX{{</world>}}

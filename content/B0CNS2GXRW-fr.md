@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Recettes dalchimie : le grand nombre de recettes et le système dalchimie flexible vous permettent de transformer les objets trouvés dans les labyrinthes ou de personnaliser les attributs de vos armes actuelles.
-- Personnalisation des élèves : choisissez le nom, le sexe, lharmonie et la formation des élèves de cette année. Répartissez les points sur différentes capacités pour déterminer les forces de vos aventuriers davant-garde et darrière-garde.
-- Des monstres, des monstres et encore des monstres : Des ennemis traquent chacun de vos mouvements dans les donjons. Personnalisez les tactiques de votre équipe pour contrer les bêtes indésirables, mais noubliez pas de battre en retraite si vous nêtes pas suffisamment préparé !
 - Equipement des objets : Avec un large éventail doptions darmes, darmures et daccessoires conférant des capacités, vous ne manquerez jamais dune source de protection fiable à vos côtés. Noubliez pas que les aventuriers les plus habiles sont ceux qui sont prêts !
+- Personnalisation des élèves : choisissez le nom, le sexe, lharmonie et la formation des élèves de cette année. Répartissez les points sur différentes capacités pour déterminer les forces de vos aventuriers davant-garde et darrière-garde.
 - Des donjons dangereux : Les donjons sont remplis de chemins sinueux, de terrains variés et denvironnements que vos élèves doivent maîtriser. Ces expériences permettent de former de véritables aventuriers ! Lexploration est la clé !
+- Recettes dalchimie : le grand nombre de recettes et le système dalchimie flexible vous permettent de transformer les objets trouvés dans les labyrinthes ou de personnaliser les attributs de vos armes actuelles.
+- Des monstres, des monstres et encore des monstres : Des ennemis traquent chacun de vos mouvements dans les donjons. Personnalisez les tactiques de votre équipe pour contrer les bêtes indésirables, mais noubliez pas de battre en retraite si vous nêtes pas suffisamment préparé !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNS2GXRW{{</world>}}

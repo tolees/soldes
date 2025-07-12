@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système dIA basé sur le son 3D comme mécanisme de survie de base
+- Ré-imaginer les célèbres hymnes gallois calon LAN (un cœur pur), suo-gan (berceuse galloise) et AR hyd Y Nos (tout au long de la nuit) de la voix rafraîchissante de tia kalmaru
 - Visuels réalistes avec 4K non plafonné sur PC (1080p 60 fps minimum) et améliorations sur PS4 Pro et Xbox One X
 - Une histoire effrayante inspirée du folklore gallois fusionnant lhorreur psychologique, gothique et britannique
-- Ré-imaginer les célèbres hymnes gallois calon LAN (un cœur pur), suo-gan (berceuse galloise) et AR hyd Y Nos (tout au long de la nuit) de la voix rafraîchissante de tia kalmaru
+- Système dIA basé sur le son 3D comme mécanisme de survie de base
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087VMJWXR{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ruban de masquage à bords précis Tesa à usage extérieur pour créer de parfaits bords très nets à chaque fois
-- 1 rouleau de ruban de masquage de précision pour extérieur de 50 m x 38 mm
 - À utiliser pour des bords plats peints et précis et sur les surfaces délicates
+- 1 rouleau de ruban de masquage de précision pour extérieur de 50 m x 38 mm
+- Ruban de masquage à bords précis Tesa à usage extérieur pour créer de parfaits bords très nets à chaque fois
 - Peut rester sur une surface pendant 8 semaines sans laisser de résidus
 - Peut être utilisé à lintérieur et avec toutes les peintures même celles à base deau
 

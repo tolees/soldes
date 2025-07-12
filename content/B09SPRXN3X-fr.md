@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Centre de divertissement à domicile
 - Protection contre les snapshots contre les ransomwares
+- Centre de divertissement à domicile
 - Reconnaissance dimage basée sur lIA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

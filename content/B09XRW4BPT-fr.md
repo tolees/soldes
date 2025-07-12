@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sur cheveux essorés, appliquer la crème hydratante intensive comme une crème de jour puis démêler en remontant sur les longueurs. Répartir en superposition la gelée par section et coiffer selon la technique de son choix : Finger coil, Scrunching...Laisser sécher ou utiliser un diffuseur à air tiède
 - Soin professionnel sans rinçage pour cheveux frisés à crépus : crème onctueuse qui sapplique au quotidien pour hydrater intensément les boucles, mêmes les plus sèches et déshydratées. Concentrée en Glycérine d’origine végétale 2%, Urea H et extrait de graine d’Hibiscus, elle rend les cheveux doux et soyeux.
+- Sur cheveux essorés, appliquer la crème hydratante intensive comme une crème de jour puis démêler en remontant sur les longueurs. Répartir en superposition la gelée par section et coiffer selon la technique de son choix : Finger coil, Scrunching...Laisser sécher ou utiliser un diffuseur à air tiède
 - Chevelure 2x plus hydratée après 24h* Cheveux durablement doux & soyeux Pas deffet alourdissant. Action anti-frisottis. Protection chaleur 230°C*
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

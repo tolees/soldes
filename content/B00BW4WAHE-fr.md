@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec sécurité enfant
 - Cordon de qualité H03VVH2-F 2x0.75 mm² dune longeur de 2m
-- Rallonge électrique équipée dune prise sans terre
+- Avec sécurité enfant
 - Certifié conforme aux normes françaises NF
+- Rallonge électrique équipée dune prise sans terre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BW4WAHE{{</world>}}

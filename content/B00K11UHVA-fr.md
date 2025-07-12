@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 【Port Ethernet】- Avec son port Ethernet 10/100M, le TL-WA860RE peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
-- 【Prise de Courant Intégrée】- La prise gigogne garantit quaucune prise électrique nest perdue.
-- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. TL-WA860RE est recommandé pour les box ADSL.
+- 【Mode point daccès】- Ce mode vous permet dun emplacement libre (jusquà 100m de votre box). Grâce au mode AP, vous pouvez obtenir un débit max 300Mbps en 2.4GHz.
 - 【Étendez votre couverture】- Les 2 antennes externes de TL-WA860RE augmentent la couverture Wi-Fi jusquà 90 m² et connectent jusquà 10 appareils tels que des smartphones, des tablettes, des PC, etc.
+- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. TL-WA860RE est recommandé pour les box ADSL.
 - Configuration requise : Microsoft Windows 98SE, NT, 2000, XP, Vista ou Windows 7, 8, 10, Mac OS, NetWare, UNIX ou Linux
 - 【Compatibilité universelle & installation simple】- Compatible avec tous les box Internet et routeurs Wi-Fi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
-- 【Mode point daccès】- Ce mode vous permet dun emplacement libre (jusquà 100m de votre box). Grâce au mode AP, vous pouvez obtenir un débit max 300Mbps en 2.4GHz.
+- 【Prise de Courant Intégrée】- La prise gigogne garantit quaucune prise électrique nest perdue.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00K11UHVA{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu 3-en-1 – Les enfants peuvent mettre en scène des histoires passionnantes avec le set La grand-rue LEGO Creator 3-en-1 (31141) proposant 3 modèles en 1 : une rue de ville, un immeuble Art Déco et un passage commerçant
-- Une infinité de scénarios – Les fans de LEGO peuvent construire et transformer 3 scènes urbaines : une rue avec un hôtel, un magasin de musique, un magasin de disques et un café, un immeuble Art Déco de 4 étages ou un passage commerçant à arcade
-- Les enfants dès 9 ans peuvent vivre une aventure amusante dans une ville animée avec ces modèles de construction LEGO Creator 3-en-1 comprenant une rue de ville, un gratte-ciel et une rue commerçante
-- Chaque bâtiment est ouvert à larrière, ce qui permet aux enfants de les modifier et de samuser à créer leurs propres histoires, aussi les modèles LEGO peuvent être reliés pour former un tout
-- Comprend 6 figurines : un chanteur et un batteur se produisant sur le toit du magasin de musique, un serveur, un réceptionniste dhôtel, un homme en fauteuil roulant et un enfant
 - Avec lapplication LEGO Builder, les constructeurs peuvent zoomer, faire pivoter les ensembles en 3D et visualiser une version numérique de leurs modèles sur leurs smartphones et tablettes
 - Lélégant gratte-ciel art déco de 4 étages comprend un hall dentrée, une cuisine, un salon, un bureau et un parc, tandis que la rue du marché contient une arche, des appartements et un studio photo
+- Jeu 3-en-1 – Les enfants peuvent mettre en scène des histoires passionnantes avec le set La grand-rue LEGO Creator 3-en-1 (31141) proposant 3 modèles en 1 : une rue de ville, un immeuble Art Déco et un passage commerçant
+- Une infinité de scénarios – Les fans de LEGO peuvent construire et transformer 3 scènes urbaines : une rue avec un hôtel, un magasin de musique, un magasin de disques et un café, un immeuble Art Déco de 4 étages ou un passage commerçant à arcade
+- Comprend 6 figurines : un chanteur et un batteur se produisant sur le toit du magasin de musique, un serveur, un réceptionniste dhôtel, un homme en fauteuil roulant et un enfant
+- Chaque bâtiment est ouvert à larrière, ce qui permet aux enfants de les modifier et de samuser à créer leurs propres histoires, aussi les modèles LEGO peuvent être reliés pour former un tout
+- Les enfants dès 9 ans peuvent vivre une aventure amusante dans une ville animée avec ces modèles de construction LEGO Creator 3-en-1 comprenant une rue de ville, un gratte-ciel et une rue commerçante
 - Les fans de LEGO peuvent construire et reconstruire 3 environnements urbains différents : une rue avec hôtel, un magasin de musique, un magasin de disques et café ; un immeuble ; ou une rue de marché
 
 [🛒 Achète-le!!]({{< param buyurl >}})

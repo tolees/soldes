@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 160 Mo / s en lecture et 60 Mo / s en écriture pour des prises de vue et des transferts rapides
-- Classé A2 pour un chargement plus rapide et des performances intégrées à lapplication. Température de fonctionnement -13 ° F à 185 ° F (-25 ° C à 85 ° C)
 - Idéal pour les smartphones et tablettes Android, les caméras daction et les drones
+- Classé A2 pour un chargement plus rapide et des performances intégrées à lapplication. Température de fonctionnement -13 ° F à 185 ° F (-25 ° C à 85 ° C)
+- Jusquà 160 Mo / s en lecture et 60 Mo / s en écriture pour des prises de vue et des transferts rapides
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE MATIÈRE DE QUALITɠ: Cet article est composé à 100% de coton en transition.
 - UNE COUPE PARFAITE : Ce t-shirt à manches courtes intemporel et décontracté en coton bio doux affiche un style cool et épouse la silhouette avec souplesse.
-- LE STREETWEAR REVISITɠ: pour intégrer les grands classiques des années 1990 à la génération actuelle, Tommy Jeans s’inspire des icônes du hip-hop de l’époque. La marque privilégie ainsi des modèles simples et de qualité qui font la part belle au denim.
 - UN STYLE HAUT DE GAMME : Le style épuré de ce haut constitue la base de toute tenue. Ce t-shirt tendance constitue également un cadeau idéal.
+- LE STREETWEAR REVISITɠ: pour intégrer les grands classiques des années 1990 à la génération actuelle, Tommy Jeans s’inspire des icônes du hip-hop de l’époque. La marque privilégie ainsi des modèles simples et de qualité qui font la part belle au denim.
+- UNE MATIÈRE DE QUALITɠ: Cet article est composé à 100% de coton en transition.
 - SIMPLICITÉ & DÉTENTE : Ce t-shirt basique se distingue par son coton bio, agréable et confortable. Il est idéal comme t-shirt d’intérieur, haut de pyjama ou maillot de corps. Le drapeau Tommy Jeans sur la poitrine apporte la touche finale.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

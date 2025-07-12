@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette figurine LEGO Star Wars construite en briques a des mains, des bras, des jambes et des pieds articulés, un cockpit de minifigurine qui souvre, un fusil blaster et un jetpack
-- Cette figurine LEGO Star Wars à construire mesure plus de 13 cm et peut être exposée dans la chambre de lenfant entre les missions de jeu
-- Comprend également une minifigurine LEGO Boba Fett avec un fusil blaster et un jetpack ; le fusil blaster peut être accroché et Boba peut porter le jetpack dans le cockpit
-- Le jouet à construire LEGO Star Wars comprend une figurine de robot Boba Fett facile à construire pour que les jeunes enfants puissent jouer des batailles de la Guerre des étoiles
 - Fait partie dune série de robots LEGO Star Wars à collectionner, à combiné avec les ensembles 75368 Robot Dark Vador et 75370 Robot Stormtrooper (vendus séparément) pour des batailles amusantes
+- Cette figurine LEGO Star Wars à construire mesure plus de 13 cm et peut être exposée dans la chambre de lenfant entre les missions de jeu
+- Le jouet à construire LEGO Star Wars comprend une figurine de robot Boba Fett facile à construire pour que les jeunes enfants puissent jouer des batailles de la Guerre des étoiles
+- Cette figurine LEGO Star Wars construite en briques a des mains, des bras, des jambes et des pieds articulés, un cockpit de minifigurine qui souvre, un fusil blaster et un jetpack
+- Comprend également une minifigurine LEGO Boba Fett avec un fusil blaster et un jetpack ; le fusil blaster peut être accroché et Boba peut porter le jetpack dans le cockpit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7CDGCR{{</world>}}

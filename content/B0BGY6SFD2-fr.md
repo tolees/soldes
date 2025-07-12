@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équipez-Vous Pour Chasser, Chassez Pour Vous Équiper: Plus vous chassez, plus vous progressez. Créez votre personnage, puis récoltez des matériaux au cours de vos chasses pour fabriquer des armes et des armures capables de terrasser les créatures les plus monstrueuses.
 - Chassez En Meute Ou En Loup Solitaire: Dans WILD HEARTS, vous pouvez affronter les kemono en solo ou en recrutant jusqu’à deux proches (ou camarades de chasse) pour traquer votre proie.
+- Façonnez Votre Terrain De Chasse: À Azuma, personne dautre que vous ne sait manipuler les karakuri. Cette ancienne technologie vous permet de transformer votre environnement en un terrain de chasse créatif pour venir à bout des gigantesques kemono.
+- Équipez-Vous Pour Chasser, Chassez Pour Vous Équiper: Plus vous chassez, plus vous progressez. Créez votre personnage, puis récoltez des matériaux au cours de vos chasses pour fabriquer des armes et des armures capables de terrasser les créatures les plus monstrueuses.
 - Explorez Un Monde Fantastique Inspiré Du Japon Féodal: Découvrez un terrain de jeu qui change avec les saisons. Chaque région possède ses paysages et ses dangers.
 - Chassez Des Créatures Géantes Qui Ont Fusionné Avec La Nature: Survivez aux attaques des kemono, apprenez de leurs comportements, et utilisez vos karakuri et vos armes pour les terrasser.
-- Façonnez Votre Terrain De Chasse: À Azuma, personne dautre que vous ne sait manipuler les karakuri. Cette ancienne technologie vous permet de transformer votre environnement en un terrain de chasse créatif pour venir à bout des gigantesques kemono.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGY6SFD2{{</world>}}

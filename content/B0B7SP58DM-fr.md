@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - SCÉNARIOS ET AUTOMATISATIONS 💡 Possibilité de déclencher d’autres appareils en fonction de la détection de fumée ,Par exemple allumer des lumières, pratique si tout le monde est endormi au moment du départ de flamme.
 - SÉCURITÉ ET FIABILITÉ 🚨 Le détecteur de fumée est conforme à la norme européenne EN14604 et bénéficie dune garantie de 2 ans. Il dispose également dun bouton de test permettant de vérifier son fonctionnement à tout moment.
-- SIMPLICITE 📶 Utilise le Wi-Fi de la maison, installation facile, aucun Hub, passerelle, ou dispositifs supplémentaires nest nécessaire
-- NOTIFICATIONS SUR SMARTPHONE🔥 En cas d’alerte incendie, recevez une notification oû que vous soyez
 - AUTONOMIE 🔋 Jusquà 5 ans Grâce aux piles Lithium haute capacité fournies
+- NOTIFICATIONS SUR SMARTPHONE🔥 En cas d’alerte incendie, recevez une notification oû que vous soyez
+- SIMPLICITE 📶 Utilise le Wi-Fi de la maison, installation facile, aucun Hub, passerelle, ou dispositifs supplémentaires nest nécessaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B7SP58DM{{</world>}}

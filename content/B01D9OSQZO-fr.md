@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre DIESEL homme - Boîtier rond (diam. 53 mm) en acier inoxydable doré, finition polie et brossée - Etanche 5 ATM
 - Cadran doré et tramé avec index et chiffre arabe à 9h dorés - Mouvement 3 aiguilles - Aiguilles dorées et luminescentes - Verre minéral
+- Montre DIESEL homme - Boîtier rond (diam. 53 mm) en acier inoxydable doré, finition polie et brossée - Etanche 5 ATM
 - Livré dans une boîte cadeau Diesel
 - Bracelet en acier inoxydable doré, finition polie et brossée
 

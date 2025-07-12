@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Commande du contrôleur en toute facilité au moyen de lapplication
-- Contenu de la livraison : 1 contrôleur Bosch Smart Home, 1 bloc dalimentation, 1 câble réseau (RJ45), 1 support mural avec matériel de fixation, 1 notice dinstallation
-- Contrôleur Bosch Smart Home et application Smart Home, le cœur du système Bosch Smart Home
-- Enregistrement local par défaut pour un niveau de sécurité des données optimal
 - Organise automatiquement la communication entre tous les appareils Bosch Smart Home connectés et rassemble toutes les informations
+- Contrôleur Bosch Smart Home et application Smart Home, le cœur du système Bosch Smart Home
+- Contenu de la livraison : 1 contrôleur Bosch Smart Home, 1 bloc dalimentation, 1 câble réseau (RJ45), 1 support mural avec matériel de fixation, 1 notice dinstallation
 - Fonctionnement du système garanti en cas de coupure Internet à la maison
+- Enregistrement local par défaut pour un niveau de sécurité des données optimal
+- Commande du contrôleur en toute facilité au moyen de lapplication
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N7AE32J{{</world>}}

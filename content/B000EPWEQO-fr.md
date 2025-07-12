@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passe au lave-vaisselle
-- Idéal pour les entremets
 - Diamètre : 16 cm
+- Idéal pour les entremets
+- Passe au lave-vaisselle
 - Cercle à pâtisserie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

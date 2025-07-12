@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Défis cérébraux : progressez à travers le livret avec 120 défis, de facile à expert
-- Développement – Parfait pour les enfants et les adultes, nos jeux QI stimulent les compétences cognitives telles que la logique, la résolution de problèmes et plus encore
 - On the Go - Un excellent jeu de voyage qui comprend un étui portable À emporter en vacances et en voiture
+- Développement – Parfait pour les enfants et les adultes, nos jeux QI stimulent les compétences cognitives telles que la logique, la résolution de problèmes et plus encore
+- Défis cérébraux : progressez à travers le livret avec 120 défis, de facile à expert
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VXWMZDG{{</world>}}

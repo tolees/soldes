@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque : Vida Designs
-- Couleur : gris
-- Instructions d’entretien : nettoyer à l’aide d’un chiffon sec
 - Dimensions (H x l x P) : 81 x 152 x 19 cm environ Dimensions internes (H x l x P) : 80 x 141 x 16 cm environ
 - Matière : MDF
+- Marque : Vida Designs
+- Instructions d’entretien : nettoyer à l’aide d’un chiffon sec
+- Couleur : gris
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08627JQYY{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Traitement de surface: bruni, noir
-- Le profil en spirale novateur s’engage dans la tête de vis et permet le desserrage en toute sécurité du six pans bloqué
 - En acier chrome-molybdène
-- Douilles pour clé/tournevis, carré 12,5 mm (1/2"): 8 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 19 - 21 - 22 - 24 - 27
+- Le profil en spirale novateur s’engage dans la tête de vis et permet le desserrage en toute sécurité du six pans bloqué
 - Pour desserrer des écrous et têtes de vis défectueux
+- Douilles pour clé/tournevis, carré 12,5 mm (1/2"): 8 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 19 - 21 - 22 - 24 - 27
+- Traitement de surface: bruni, noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004VRNSKM{{</world>}}

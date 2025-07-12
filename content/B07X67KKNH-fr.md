@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids : 695 g
-- Station daccueil universelle HP USB-C/A
 - Alimentation 120W, externe ou alimentée par USB
+- Station daccueil universelle HP USB-C/A
+- Poids : 695 g
 - Pour ordinateur portable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

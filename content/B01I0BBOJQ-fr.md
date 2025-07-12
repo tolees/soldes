@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légères
-- Flexible
-- Ingrédients extra durables
 - Facile à installer
+- Ingrédients extra durables
+- Flexible
+- Légères
 - Bonne prise en main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

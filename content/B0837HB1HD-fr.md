@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couvre la plage focale polyvalente de 70 à 200 mm avec une ouverture maximale constante f/2,8
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- La netteté et le contraste sont exceptionnels dans tout le cadre
 - Objectif zoom téléobjectif à monture Z pro-grade
+- La netteté et le contraste sont exceptionnels dans tout le cadre
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0837HB1HD{{</world>}}

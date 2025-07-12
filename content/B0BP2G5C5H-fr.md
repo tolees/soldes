@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Affrontez des bêtes féroces et terrassez des créatures anciennes dans votre quête à travers le royaume et résolvez des mystères cachés pour éliminer le Sorcier et ramener la paix dans le royaume.
 - Beholgar est une aventure metroidvania en 2D au style classique où vous explorerez des cavernes, des forêts anciennes et des châteaux redoutables à la recherche de nouvelles armes, de sorts et de compétences pour éliminer la menace une fois pour toutes.
+- Affrontez des bêtes féroces et terrassez des créatures anciennes dans votre quête à travers le royaume et résolvez des mystères cachés pour éliminer le Sorcier et ramener la paix dans le royaume.
 - La Terre est en danger, un sorcier maléfique a lu un livre antique et a fait appel à un dieu maléfique pour semer le chaos et le désespoir. Lorsque tout espoir est perdu, le destin de la terre est entre les mains dun Barbare, prêt à tout affronter.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

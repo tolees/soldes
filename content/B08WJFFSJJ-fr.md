@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : Caoutchouc
-- Type de talons : Plat
 - Doublure : Cuir
+- Type de talons : Plat
+- Matériau de semelle : Caoutchouc
 - Dessus : Cuir Souple
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une multitude de gameplays différents
 - Un jeu riche en aventures
 - Une aventure fidèle à l’album et haute en couleurs
+- Une multitude de gameplays différents
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BB81BVGH{{</world>}}

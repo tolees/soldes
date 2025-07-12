@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Puzzle pour adultes 1000 pièces
 - Les images les plus attrayantes, une grande variété de formats et une qualité signée Clementoni pour une gamme qui est devenue une référence pour les férus de puzzles du monde entier.
 - Visitez la rubrique Assistance Clementoni pour bénéficier du service « Pièces manquantes »
-- Dimensions du puzzle terminé : 69 x 50 cm
 - Depuis toujours sensible au problème de l’écologie, Clementoni utilise beaucoup de matériaux recyclés, évitant l’emploi de composants polluants. Made in Italy.
+- Dimensions du puzzle terminé : 69 x 50 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09S7MR7FS{{</world>}}

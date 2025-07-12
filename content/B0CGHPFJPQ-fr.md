@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des nouveaux matchs nuls en ligne et hors ligne aux mises à jour réalistes des interventions de larbitre pour sauver un combattant à terre étouffé par trop de ground and pound, les façons de terminer un combat sont plus nombreuses et plus authentiques dans UFC 5
 - Le tout nouveau Ralenti cinématique des KO innove et reflète les importantes mises à jour de présentation de lUFC
 - Le nouveau système Seamless Submissions fonctionne comme une extension revisitée des systèmes de grappling existants, avec des animations plus rapides et la suppression des mini-jeux
-- UFC 5 est un véritable prolongement de lexpérience des fans de lUFC. Les tout nouveaux défis, fonctionnalités et contenus de la Semaine du combat les connecteront de manière inédite aux plus grandes cartes UFC
 - Les coupures, les contusions et les gonflements saccumulent à des endroits précis en fonction des dégâts que vous infligez et encaissez dans le jeu
+- UFC 5 est un véritable prolongement de lexpérience des fans de lUFC. Les tout nouveaux défis, fonctionnalités et contenus de la Semaine du combat les connecteront de manière inédite aux plus grandes cartes UFC
+- Des nouveaux matchs nuls en ligne et hors ligne aux mises à jour réalistes des interventions de larbitre pour sauver un combattant à terre étouffé par trop de ground and pound, les façons de terminer un combat sont plus nombreuses et plus authentiques dans UFC 5
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CGHPFJPQ{{</world>}}

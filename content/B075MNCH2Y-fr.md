@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AUTOFOCUS RAPIDE & PRECIS : Autofocus en 0,03s avec Suivi sur lœil en temps réel pour garder votre sujet cadré dans toutes les situations.
-- PLAGE FOCALE TRES ETENDUE : Objectif zoom ultra-rapide ZEISS Vario-Sonnar T* 24 – 600 mm F2.4 – 4 à grande ouverture et haute résolution
 - QUALITE DIMAGE A COUPER LE SOUFFLE : Capteur CMOS Exmor RS empilé de type 1.0 dune résolution de 20,1 mégapixels, et doté de la technologie de rétroéclairage pour atteindre une large couverture de sensibilités
 - NE MANQUEZ AUCUNE IMAGE : jusquà 24 images par secondes en mode rafale.
+- PLAGE FOCALE TRES ETENDUE : Objectif zoom ultra-rapide ZEISS Vario-Sonnar T* 24 – 600 mm F2.4 – 4 à grande ouverture et haute résolution
 - PARFAIT POUR LES VIDEASTES: Vidéo 4K en interne avec réglages pros et stabilisation dimage
+- AUTOFOCUS RAPIDE & PRECIS : Autofocus en 0,03s avec Suivi sur lœil en temps réel pour garder votre sujet cadré dans toutes les situations.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B075MNCH2Y{{</world>}}

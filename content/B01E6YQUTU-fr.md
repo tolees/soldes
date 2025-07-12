@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Communication parents/bébé permettant de parler à bébé et le rassurer à distance
-- Produit conforme à la norme nemo (zéro émission donde en veille)
-- VERSION : Française
 - Fonction veilleuse rassurer bébé lorsquil sendort/ Fonction VOX (ou ECO) qui ne sactive quaux pleurs de Bébé et se met en veille pour économiser la batterie et réduire lémission dondes
 - Un écoute-bébé utilisant la technologie numérique dect permettant une écoute dexcellente qualité
+- Produit conforme à la norme nemo (zéro émission donde en veille)
+- Communication parents/bébé permettant de parler à bébé et le rassurer à distance
+- VERSION : Française
 - Ecran rétroéclairé pour une utilisation optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

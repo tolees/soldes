@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce set pour les architectes en herbe comprend 42 briquess aimantées aux formes diverses. Idéal pour imaginer et créer dinnombrables constructions
-- Les briques sassemblent très facilement pour former des constructions stables grâce aux aimants intégrés
 - Dans cette mallette très pratique se trouvent 6 cartes avec des modèles de construction que les enfants pourront développer à leur gré selon leur imagination
+- Les briques sassemblent très facilement pour former des constructions stables grâce aux aimants intégrés
 - Ce jeu magnétique de haute qualité favorise la coordination il-main et stimule motricité fine et créativité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

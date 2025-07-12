@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Excellent pour réaliser des mortaises passantes sur le bois.
-- Fraise pour couper dans les situations les plus difficiles
-- D = 12,7 mm, longueur de coupe = 40 mm, raccord = 8 mm.
 - Recommandations de sécurité : la poussière et les copeaux de stratifié peuvent être nocifs pour votre santé et votre sécurité. Il est recommandé de toujours porter des masques de poussière et des dispositifs de protection visuelle lors du fraisage.
+- D = 12,7 mm, longueur de coupe = 40 mm, raccord = 8 mm.
+- Fraise pour couper dans les situations les plus difficiles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08136HBBR{{</world>}}

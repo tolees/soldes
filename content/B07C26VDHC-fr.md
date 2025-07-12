@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tricot slim
 - Fabriqué à partir de coton confortable
-- Petit étiquette de look denim sur le côté
 - Lavage de la machine, demi-charge, cycle de spin court à 40 ° C
+- Petit étiquette de look denim sur le côté
+- Tricot slim
 - 100% Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inspiré de la série Disney+ Le Mandalorien, cet adorable personnage avec une peau verte, de grandes oreilles et de grands yeux ressemble à un bébé Yoda, mais se fait appeler « L’Enfant ».
-- Cette figurine peluche « LEnfant » de 28 cm va conquérir le cœur des fans de Star Wars à travers toute la galaxie
 - Elle porte le même habit que dans la série.
+- Inspiré de la série Disney+ Le Mandalorien, cet adorable personnage avec une peau verte, de grandes oreilles et de grands yeux ressemble à un bébé Yoda, mais se fait appeler « L’Enfant ».
 - Cette figurine peluche au corps mou et à la base remplie de grains adorera être câlinée ou être exposée sur une étagère.
 - Les fans de Star Wars vont adorer se mettre dans la peau du célèbre chasseur de primes et s’occuper eux-mêmes de l’Enfant
+- Cette figurine peluche « LEnfant » de 28 cm va conquérir le cœur des fans de Star Wars à travers toute la galaxie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0825SNHP1{{</world>}}

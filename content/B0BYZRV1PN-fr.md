@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Arpentez le monde d’Olydri et faites-vous une place de choix parmi les plus grandes factions du MMORPG Horizon, là où se rencontrent les plus grands joueurs !
-- Incarnez une équipe de 4 joueurs invétérés et leurs avatars de jeu vidéo dans un RPG exigeant et coloré, hommage aux plus grands J-RPG
-- Personnalisez vos combattants avec le meilleur équipement que vous trouverez dans les donjons, les grottes, les coffres et bien sûr, les boutiques en ville !
 - Explorez un monde vaste et riche en multipliant les combats et les quêtes pour augmenter le niveau de votre équipe
 - Faites évoluer vos avatars et leurs compétences en gagnant de l’expérience : adaptez-les à votre style de combat ou aux ennemis que vous rencontrez sur la route
+- Arpentez le monde d’Olydri et faites-vous une place de choix parmi les plus grandes factions du MMORPG Horizon, là où se rencontrent les plus grands joueurs !
+- Personnalisez vos combattants avec le meilleur équipement que vous trouverez dans les donjons, les grottes, les coffres et bien sûr, les boutiques en ville !
+- Incarnez une équipe de 4 joueurs invétérés et leurs avatars de jeu vidéo dans un RPG exigeant et coloré, hommage aux plus grands J-RPG
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYZRV1PN{{</world>}}

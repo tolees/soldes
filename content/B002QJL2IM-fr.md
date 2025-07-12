@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau : Acier inoxydable
 - Poids : approx. 45 g
+- Matériau : Acier inoxydable
 - Entretien : Garanti lave-vaisselle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

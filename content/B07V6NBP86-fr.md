@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure: Synthetic
-- Matériau de semelle: Synthétique
 - Dessus: Smooth Leather
+- Matériau de semelle: Synthétique
 - Semelle intérieure: Synthetic
+- Doublure: Synthetic
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07V6NBP86{{</world>}}

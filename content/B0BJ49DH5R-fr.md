@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Montez votre propre culte dans un pays de faux prophètes, parcourez des régions étonnantes et mystérieuses pour faire croître une communauté de fidèles dans les bois et répandez la bonne parole pour devenir le seul culte véritable
-- RÉPANDEZ LA BONNE PAROLE - LA VÔTRE : Entraînez votre troupeau et embarquez-le dans une quête pour explorer et révéler les secrets de cinq régions mystérieuses. Purifiez les incrédules, répandez lillumination et effectuez des rituels mystiques. Ainsi peut-être deviendrez-vous le dieu-agneau tout-puissant
 - ÉLIMINEZ LES INCRÉDULES : Explorez un monde généré aléatoirement tentaculaire, repoussez des hordes dennemis et triomphez des chefs rivaux afin dabsorber leurs pouvoirs et affermir lhégémonie de votre culte
+- RÉPANDEZ LA BONNE PAROLE - LA VÔTRE : Entraînez votre troupeau et embarquez-le dans une quête pour explorer et révéler les secrets de cinq régions mystérieuses. Purifiez les incrédules, répandez lillumination et effectuez des rituels mystiques. Ainsi peut-être deviendrez-vous le dieu-agneau tout-puissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BJ49DH5R{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La tubulure gainée avec câblage dissimulé connecte à la pompe lalimentation et lARGB pour lensemble du système.
 - Le moyeu PWM compatible ARGB place toutes les connexions de ventilateur directement sur le radiateur pour une installation sans encombrement
 - Tournez la paroi frontale de la pompe pour passer du mode automatique au mode PWM pour un contrôle total de lutilisateur
 - Prise en charge dAsus AURA, Gigabyte Fusion, MSI Mystic Light, Razer Chroma et ASRock Polychrome
-- La tubulure gainée avec câblage dissimulé connecte à la pompe lalimentation et lARGB pour lensemble du système.
-- Paroi frontale de pompe en verre avec logo rétro-éclairé et effets LED ARGB
 - Le mode de contrôle automatique intelligent ajuste dynamiquement les vitesses du ventilateur et de la pompe pour un équilibre idéal entre silence et performances de refroidissement
+- Paroi frontale de pompe en verre avec logo rétro-éclairé et effets LED ARGB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0856LTWCY{{</world>}}

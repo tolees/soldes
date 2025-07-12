@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Performances améliorées de 15% (par rapport au précédent modèle)
+- Disponible jusquà 8 To
 - Seconde génération de la gamme QVO, plus performant et encore plus rapide
 - Garantie 3 ans
-- Disponible jusquà 8 To
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089RD13TX{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le hamac peut être accroché sous la pagode
-- Partez à la rencontre des dauphins roses deau douce, à bord de vos paddles
 - Le bout de la queue des des dauphins peut se courber pour les maintenir debout
+- Partez à la rencontre des dauphins roses deau douce, à bord de vos paddles
 - Les personnages peuvent tenir debout sur leur paddles
+- Le hamac peut être accroché sous la pagode
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BKQMVHC7{{</world>}}

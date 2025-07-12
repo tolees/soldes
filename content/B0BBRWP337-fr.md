@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un superbe cadeau à collectionner qui permet aux fans du jouet vidéo populaire Super Mario dagrandir et de reconstruire leurs niveaux pour des heures de jouet créatif
 - Les joueurs peuvent aider LEGO Mario, LEGO Luigi ou LEGO Peach (figurines non incluses) à passer ce niveau comprenant une vague de lave et des figurines de Super Mario
 - Les enfants font sauter un personnage Super Mario sur la vague de lave oscillante pour affronter les 2 bulles de lave à chaque extrémité, et peuvent gagner des pièces sils les vainquent
 - Pour un jouet interactif, un Pack de démarrage est nécessaire, avec la figurine LEGO Mario (71360), LEGO Luigi (71387) ou LEGO Peach (71403)
-- Ce jouet comprend 3 figurines LEGO Super Mario : un Frère Pyro et 2 Bulles de lave, et est idéal pour le jeu social avec 2 joueurs pour vaincre les personnages
+- Un superbe cadeau à collectionner qui permet aux fans du jouet vidéo populaire Super Mario dagrandir et de reconstruire leurs niveaux pour des heures de jouet créatif
 - Téléchargez lapplication LEGO Super Mario compagnon pour obtenir des instructions de construction numériques, des idées inspirantes et plus encore, qui amélioreront lexpérience créative LEGO
+- Ce jouet comprend 3 figurines LEGO Super Mario : un Frère Pyro et 2 Bulles de lave, et est idéal pour le jeu social avec 2 joueurs pour vaincre les personnages
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRWP337{{</world>}}

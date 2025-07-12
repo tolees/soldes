@@ -29,15 +29,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plusieurs modes déclairage
-- Dimensions : 97 x 20,9 x 40 mm
+- Batterie puissante et indicateur intuitif de la batterie
 - Étanchéité IPX7
 - Détection de freinage
-- La fixation incluse est compatible avec tige de selle de 27,2 mm, 30,9 mm, 31,6 mm, section D ou section aérienne.
-- Batterie puissante et indicateur intuitif de la batterie
-- Détecte les dangers potentiels jusquà 150 mètres
+- Utilisable également avec lapplication Bryton Gardia
 - Compatible avec les ordinateurs qui ont la prédisposition au rétroviseur
 - Connexion ANT+/BLE
-- Utilisable également avec lapplication Bryton Gardia
+- La fixation incluse est compatible avec tige de selle de 27,2 mm, 30,9 mm, 31,6 mm, section D ou section aérienne.
+- Dimensions : 97 x 20,9 x 40 mm
+- Détecte les dangers potentiels jusquà 150 mètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B012CHSD1G{{</world>}}

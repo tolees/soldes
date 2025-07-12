@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le flacon dencre de 23 ml contient des particules de pigment de haute densité assurant lopacité et la résistance à la lumière de lencre
-- Coffret de 3 stylos techniques de haute précision avec des pointes de 0,25 mm, 0,35 mm et 0,5 mm
-- Pointe fine plaquée chrome résistante à l’usure pour produire des travaux très détaillés
 - La gomme B20 efface sans laisser de marques ou de taches et lattache-compas permet une utilisation polyvalente
 - Le portemine mécanique 0,5 mm Tikky est léger pour écrire toute la journée et les mines hi-polymer sont solides et flexibles
+- Coffret de 3 stylos techniques de haute précision avec des pointes de 0,25 mm, 0,35 mm et 0,5 mm
+- Pointe fine plaquée chrome résistante à l’usure pour produire des travaux très détaillés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SHPZQY{{</world>}}

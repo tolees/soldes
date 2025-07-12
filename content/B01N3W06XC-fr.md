@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité : 20 L
 - Four à micro-ondes Grill Candy CMXG20DS Silver
-- Puissance du micro-onde : 700W / Puissance du grill : 1000W
 - Programmateur digital : Les micro-ondes Candy sont équipés dun bandeau de commande intuitif pour une programmation facile et rapide.
 - Application Cook-in : grâce à lapplication gratuite Cook-In APP dédiée aux micro-ondes Candy, bénéficiez de conseils pour utiliser votre micro-ondes, mais aussi dun choix de recette pour cuisiner tous types de plats au micro-ondes - Trucs & Astuces / Idées de recettes / Aide à lutilisation et à lentretien.
+- Puissance du micro-onde : 700W / Puissance du grill : 1000W
+- Capacité : 20 L
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N3W06XC{{</world>}}

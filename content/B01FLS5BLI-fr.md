@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Câble HO5 VV-F section 3G1 mm² longueur 1, 5 m
 - Puissance max: 3500W
-- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise
 - Bloc multiprise 3 prises 16A + interrupteur fiche plate
+- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FLS5BLI{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
-- Contenu : 1x Le Creuset Skillet Gril en Fonte Émaillée, Carré, 26 cm, Dimensions avec poignée : 44,3 x 29,9 x 5,3 cm, Poids : 2,86 kg, Couleur : Azure, 20183262200422
 - Skillet gril carré en fonte émaillée idéal pour griller vos viandes, poissons ou encore des légumes, Intérieur en émail Noir Mat,
+- Contenu : 1x Le Creuset Skillet Gril en Fonte Émaillée, Carré, 26 cm, Dimensions avec poignée : 44,3 x 29,9 x 5,3 cm, Poids : 2,86 kg, Couleur : Azure, 20183262200422
+- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
 - Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes sources de chaleur, y compris linduction
 - Parois hautes et bords incurvés pour mélanger aisément et limiter les projections, Becs verseurs permettant de drainer lexcès de graisse
 

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Passe au lave-vaisselle et au micro-ondes.
-- Service de table en faïence 18 pièces
 - poterie de grès
+- Service de table en faïence 18 pièces
 - Explosion de couleurs.
 - À la mode et à lallure sûre
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage à la main seulement
-- Fermeture: Enfiler
 - - Finition polaire / silicone / finition enzyme
 - Régulier
+- Lavage à la main seulement
+- Fermeture: Enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HKSKSXT{{</world>}}

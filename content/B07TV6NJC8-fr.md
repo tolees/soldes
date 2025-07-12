@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compact (149 mm), confortable et léger (815 g).
 - Compatible avec les fonctions spécifiques de lappareil photo Sony y compris Fast Hybrid AF et Eye AF
 - EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
-- Scellage spécial et revêtement fluorescent qui protège lobjectif pour profiter de la photographie en toutes conditions.
 - Des performances optiques optimales et une mise au point minimale de 0,85 m pour plus de polyvalence
-- Compact (149 mm), confortable et léger (815 g).
 - Moteur de mise au point VXD de dernière génération avec mécanisme linéaire extrêmement rapide et silencieux.
+- Scellage spécial et revêtement fluorescent qui protège lobjectif pour profiter de la photographie en toutes conditions.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07TV6NJC8{{</world>}}

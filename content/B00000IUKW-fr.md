@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR FAIRE MONTER ET DESCENDRE VOS TRAINS, idéal en complément des ponts et supports de ponts BRIO. Ce coffret est composé de 2 rails identiques dune longueur de 216 mm avec 1 embout mâle dun côté & 1 embout femelle de lautre. Rails double face pour encore plus de possibilités de jeu.
 - DEVELOPPE LIMAGINATION Plus de rails permet plus de possibilités de jeu ! Ce coffret permet aux garçons comme aux filles de développer leur habileté manuelle, leur créativité et leur imagination. Jouer au train comme dans la vraie vie aide les enfants à comprendre et découvrir leur environnement de façon ludique.
 - HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts.
+- POUR FAIRE MONTER ET DESCENDRE VOS TRAINS, idéal en complément des ponts et supports de ponts BRIO. Ce coffret est composé de 2 rails identiques dune longueur de 216 mm avec 1 embout mâle dun côté & 1 embout femelle de lautre. Rails double face pour encore plus de possibilités de jeu.
 - EXTENSIBLE A VOLONTE Agrandissez votre circuit en ajoutant des rails supplémentaires, des trains à pile ou des accessoires amusants (passage à niveau, gare, tunnel, pont) du BRIO World. Compatible avec les autres marques.
 - UN CADEAU INTEMPOREL qui fera des heureux pour des heures de jeu et d’amusement seul ou à plusieurs ! En bois de haute qualité : ultra solide, ne se déforme pas, sans écharde et qui résiste à l’humidité. Pour un anniversaire ou pour Noel ou une autre fête. Dès 3 ans
 

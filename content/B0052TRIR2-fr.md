@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour une utilisation avec la fontaine à boire 6L Dogit Fresh and Clear Absorbe les impuretés présentes dans leau du robinet
 - Numéro de la pièce: 91401
+- Pour une utilisation avec la fontaine à boire 6L Dogit Fresh and Clear Absorbe les impuretés présentes dans leau du robinet
 - Aide à collecter les débris, les aliments et les sédiment
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

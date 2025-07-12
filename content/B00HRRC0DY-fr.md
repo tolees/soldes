@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Batterie(s) / Pile(s) requise(s) : non
-- Produit à monter soi-même : non
 - Dimensions du produit (l x l x h) : 16,5 x 7,4 x 14,5 cm
+- Produit à monter soi-même : non
 - Langue(s) : espagnol
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

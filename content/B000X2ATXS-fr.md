@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manche en bois avec virole en laiton
-- Lame acier en forme de losange biseautée sur 2 faces
-- longueur:180 mm
 - Pour les coupes à ras suivant une règle et tous travaux de précision en marqueterie
+- longueur:180 mm
+- Lame acier en forme de losange biseautée sur 2 faces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000X2ATXS{{</world>}}

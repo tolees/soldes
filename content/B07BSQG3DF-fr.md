@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Duo de teintes assorties pour un effet ombré lips parfait
-- Application précise et rapide grâce à sa forme plate
-- Couleur riche et lumineuse pour un fini satiné
 - Pointe automatique et rétractable
+- Duo de teintes assorties pour un effet ombré lips parfait
+- Couleur riche et lumineuse pour un fini satiné
+- Application précise et rapide grâce à sa forme plate
 - Crayon et rouge à lèvres 2 en 1
 
 [🛒 Achète-le!!]({{< param buyurl >}})

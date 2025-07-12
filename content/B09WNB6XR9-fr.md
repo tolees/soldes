@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifié bio : Ce gel douche fait partie de la première gamme Le Petit Marseillais labellisée COSMOS ORGANIC. 10 % du total des ingrédients sont issus de l’Agriculture Biologique
-- Soin de la peau : La formule au pH neutre pour la peau et sans sulfates de ce gel douche nettoie tout en douceur. Produit testé sous contrôle dermatologique et noté Excellent sur Yuka
-- Feuille dolivier : Ce gel douche Le Petit Marseillais offre une mousse légère aux notes vertes et ensoleillées. Il libère un parfum délicat pour une sensation rafraîchissante
 - Détails pratiques : Lot de 6 flacons de 250 ml. Emballage entièrement recyclable et fabriqué avec au moins 21 % de matière recyclée. Vous pouvez le remplir à nouveau avec une recharge après utilisation
 - Origine naturelle : Ce gel douche bio est composé à 98 % dingrédients dorigine naturelle. Les 2 % restants sont consacrés à la bonne conservation de la formule et au parfum
+- Feuille dolivier : Ce gel douche Le Petit Marseillais offre une mousse légère aux notes vertes et ensoleillées. Il libère un parfum délicat pour une sensation rafraîchissante
+- Soin de la peau : La formule au pH neutre pour la peau et sans sulfates de ce gel douche nettoie tout en douceur. Produit testé sous contrôle dermatologique et noté Excellent sur Yuka
+- Certifié bio : Ce gel douche fait partie de la première gamme Le Petit Marseillais labellisée COSMOS ORGANIC. 10 % du total des ingrédients sont issus de l’Agriculture Biologique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WNB6XR9{{</world>}}

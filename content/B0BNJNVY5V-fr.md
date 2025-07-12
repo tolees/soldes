@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisant une combinaison de cuir, de cuir synthétique et de caoutchouc, la construction sinspire des chaussures de basket-ball du milieu des années 1980.
-- Durabilité améliorée
-- Marque: Nike
 - Une semelle cupsole en caoutchouc ajoute de la durabilité et de la traction.
+- Marque: Nike
+- Durabilité améliorée
 - Inspiration de cerceaux rétro
 
 [🛒 Achète-le!!]({{< param buyurl >}})

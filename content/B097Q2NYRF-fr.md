@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPOSANTS ULTRAMODERNES - Sous la coque, vous trouverez un microcontrôleur ARM 32 bits et le capteur Pixart 3389.
-- ULTRA LÉGER MAIS DURABLE - Le MZ1 est conçu pour fournir des performances constantes et de haut niveau pour les années à venir.
-- CONÇU PAR ROCKET JUMP NINJA - Considéré par beaucoup comme le meilleur critique de souris au monde, Zy « Rocket Jump Ninja » Rykoa est lun des experts les plus expérimentés et les plus fiables dans le domaine des souris de jeu.
 - Remarque : veuillez vérifier et nettoyer la connexion à lordinateur pour éliminer toute trace de poussière ou de débris afin déviter toute « coupure ».
+- COMPOSANTS ULTRAMODERNES - Sous la coque, vous trouverez un microcontrôleur ARM 32 bits et le capteur Pixart 3389.
 - RGB PERSONNALISABLE - Basculez entre de nombreux effets LED. Réglez la luminosité. Ou éteignez léclairage. Tous les réglages sont effectués directement sur la souris.
+- CONÇU PAR ROCKET JUMP NINJA - Considéré par beaucoup comme le meilleur critique de souris au monde, Zy « Rocket Jump Ninja » Rykoa est lun des experts les plus expérimentés et les plus fiables dans le domaine des souris de jeu.
+- ULTRA LÉGER MAIS DURABLE - Le MZ1 est conçu pour fournir des performances constantes et de haut niveau pour les années à venir.
 - GLISSE SANS EFFORT POUR DES JEUX RAPIDES - Le MZ1 est doté de patins 100 % PTFE avec des bords arrondis pour une glisse plus fluide, tandis que la forme et la structure des trous de la coque assurent une adhérence plus stable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

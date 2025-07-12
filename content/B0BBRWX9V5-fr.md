@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lun des Pack de Démarrage LEGO Super Mario (71360 avec LEGO Mario, 71387 avec LEGO Luigi ou 71403 avec LEGO Peach) est requis pour le jouet interactif
+- Cet ensemble modulaire est reconstructible et se combine avec dautres ensembles de jouets à collectionner LEGO Super Mario pour étendre le monde du de ce super cadeau à construire Super Mario
 - Patiner sur la plaque de glace constructible déclenche des sons de patinage de LEGO Mario ; un lanceur propulse le Pinglisse dans le bloc de glace pour révéler le Goomba
 - Les enfants qui possèdent un jouet de construction Super Mario adoreront cet Ensemble dExtension LEGO Super Mario, comprenant une tenue de Mario de glace, et les figurines Pinglisse et Goomba
 - Comprend lapplication LEGO Super Mario avec des instructions, des conseils créatifs et bien plus encore - chacun des ensembles LEGO Super Mario est conçu pour un jouet en solo ou en groupe
-- Cet ensemble modulaire est reconstructible et se combine avec dautres ensembles de jouets à collectionner LEGO Super Mario pour étendre le monde du de ce super cadeau à construire Super Mario
 - Les enfants peuvent mettre la figurine interactive LEGO Mario (non incluse) dans une tenue de glace qui permet dafficher une boule de glace sur son écran ventral pour plus de puissance
+- Lun des Pack de Démarrage LEGO Super Mario (71360 avec LEGO Mario, 71387 avec LEGO Luigi ou 71403 avec LEGO Peach) est requis pour le jouet interactif
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRWX9V5{{</world>}}

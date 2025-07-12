@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Toile 100 % polyester recyclé.
 - 0
 - 0
 - Poches avant zippées.
-- Toile 100 % polyester recyclé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7L8P9T{{</world>}}

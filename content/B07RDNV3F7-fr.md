@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coupe droite.
-- Tissu doux.
 - Ceinture élastique avec cordon de serrage.
+- Tissu doux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RDNV3F7{{</world>}}

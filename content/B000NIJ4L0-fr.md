@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRIOMINOS : Retrouvez ce grand classique qui reprend le principe des dominos, mais avec des pièces triangulaires !
 - FACILE A TRANSPORTER : Un coffret ultra compact et léger, à emmener partout avec soi
+- JEU DE STRATEGIE : Placez vos Triominos stratégiquement et essayez de réaliser des combinaisons pour gagner un maximum de points !
 - JEU EDUCATIF : Un jeu de tactique, de logique et de stratégie
 - JEU FAMILIAL : Un jeu de société pour toute la famille à partir de 6 ans. Nombre de joueurs : de 2 à 4 joueurs. Temps de partie : environ 30 min
-- JEU DE STRATEGIE : Placez vos Triominos stratégiquement et essayez de réaliser des combinaisons pour gagner un maximum de points !
+- TRIOMINOS : Retrouvez ce grand classique qui reprend le principe des dominos, mais avec des pièces triangulaires !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000NIJ4L0{{</world>}}

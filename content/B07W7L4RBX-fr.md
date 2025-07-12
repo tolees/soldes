@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Icône réinventée : De lhéritage du design G502 le plus populaire de Logitech, la G502 X souris gaming sans fil LIGHTSPEED repensée avec les dernières innovations technologiques gaming
-- Sans fil LIGHTSPEED : Souris sans fil avec connectivité de qualité pro, protocole mis à jour pour un taux de réponse 68 pour cent plus rapide que la génération davant et fiabilité améliorée
-- Bouton DPI-shift redessiné : Souris de jeu optique sans fil dotée dun bouton DPI-shift réversible et amovible pour une personnalisation précise en fonction de la prise en main et des préférences
-- Mollette Double Mode Re-designée : Passez du roulement hyper rapide au mode précis et aux boutons gauche et droit pour deux contrôles personnalisables additionnels
-- Boutons LIGHTFORCE : Technologie de boutons hybride optique-mécanique pour une vitesse incroyable et fiable, avec précision et temps de réponse idéale pour des heures de performance de gaming
 - Capteur Gaming HERO 25K : Précision idéal jusquau sub-micron pour une acuité haute-précision sans lissage/filtrage/accélération pour des hautes performances de gaming à chaque fois
+- Sans fil LIGHTSPEED : Souris sans fil avec connectivité de qualité pro, protocole mis à jour pour un taux de réponse 68 pour cent plus rapide que la génération davant et fiabilité améliorée
 - Faites votre choix : Disponible en noir et en blanc
+- Icône réinventée : De lhéritage du design G502 le plus populaire de Logitech, la G502 X souris gaming sans fil LIGHTSPEED repensée avec les dernières innovations technologiques gaming
+- Boutons LIGHTFORCE : Technologie de boutons hybride optique-mécanique pour une vitesse incroyable et fiable, avec précision et temps de réponse idéale pour des heures de performance de gaming
+- Mollette Double Mode Re-designée : Passez du roulement hyper rapide au mode précis et aux boutons gauche et droit pour deux contrôles personnalisables additionnels
+- Bouton DPI-shift redessiné : Souris de jeu optique sans fil dotée dun bouton DPI-shift réversible et amovible pour une personnalisation précise en fonction de la prise en main et des préférences
 - Compatible POWERPLAY : G502 X PLUS souris gaming PC sans fil reste chargée, au repos et lors du jeu, avec notre solution de chargement sans fil unique (vendu séparément)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

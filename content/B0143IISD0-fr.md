@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des performances denregistrement vidéo exceptionnelles avec une Classe de vitesse UHS 1 (U1) et une Classe 10 pour des vidéos Full HD (1080 p)
-- De 16 Go à 128 Go pour stocker des tonnes de photos et des vitesses de transfert élevées allant jusquà 80 Mo/s
 - Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
+- De 16 Go à 128 Go pour stocker des tonnes de photos et des vitesses de transfert élevées allant jusquà 80 Mo/s
+- Des performances denregistrement vidéo exceptionnelles avec une Classe de vitesse UHS 1 (U1) et une Classe 10 pour des vidéos Full HD (1080 p)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0143IISD0{{</world>}}

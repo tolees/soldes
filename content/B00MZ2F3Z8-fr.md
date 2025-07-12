@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Buse vapeur intégrée : Réalisez chez vous des cappuccinos onctueux avec une mousse parfaite. Facile à utiliser et à nettoyer.
-- Nettoyage 100% automatique, 0% deffort : une pastille 3x/an environ, sans rien à démonter dans la machine. Rinçage interne après chaque café.
-- De lespresso au café allongé, les meilleurs arômes de vos grains fraîchement moulus révélés à chaque tasse grace au contrôle du broyage et de la température de Krups
 - Interface intuitive : Commandes par boutons avec LED lumineuses pour un usage fluide, simple et rapide au quotidien.
 - Une des machines à café grains automatiques les plus compactes du marché (L 24,5 x P 33 x H 36,5 cm) : Réservoir d’eau 1,7 L, bac à grains 260 g
+- De lespresso au café allongé, les meilleurs arômes de vos grains fraîchement moulus révélés à chaque tasse grace au contrôle du broyage et de la température de Krups
+- Nettoyage 100% automatique, 0% deffort : une pastille 3x/an environ, sans rien à démonter dans la machine. Rinçage interne après chaque café.
+- Buse vapeur intégrée : Réalisez chez vous des cappuccinos onctueux avec une mousse parfaite. Facile à utiliser et à nettoyer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00MZ2F3Z8{{</world>}}

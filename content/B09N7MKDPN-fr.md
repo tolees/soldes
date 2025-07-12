@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : synthétique
 - Forme du talon : plat
+- Matériau intérieur : synthétique
 - Fermeture : fermeture Velcro
-- Semelle : caoutchouc
-- Matériau extérieur : synthétique
 - Largeur de la chaussure : moyenne
+- Matériau extérieur : synthétique
+- Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N7MKDPN{{</world>}}

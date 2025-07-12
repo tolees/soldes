@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Interrupteur de pression
 - produit 1: Pied amortisseur de vibrations
+- produit 2: Raccord rapide
+- produit 1: Interrupteur de pression
+- produit 2: Connection
+- produit 2: Tuyau 15 m
 - produit 1: Filtre d‘aspiration
 - produit 1: Réducteur de pression, manomètre et raccord rapide pour une pression de travail régulée
-- produit 2: Raccord rapide
-- produit 2: Tuyau 15 m
-- produit 2: Connection
 - produit 2: Tuyau 15 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})

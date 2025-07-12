@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids 058333 kg
+- Peint à la main
+- Tête de mort en fer soigneusement conçue
 - Moulé dans la résine la plus fine
 - Taille : 15,5 cm
-- Tête de mort en fer soigneusement conçue
-- Peint à la main
+- Poids 058333 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B075MWHMKF{{</world>}}

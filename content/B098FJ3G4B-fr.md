@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classe de sécurité Classe 2
-- Largeur de ligne 2,0 mm à 5 mètres
-- Porte/diamètre 35 à 70 mètres, portée/diamètre avec un récepteur de 70 à 140 mètres
-- Direction du faisceau/angle du ventilateur 2 x vertical à 360 degrés et 1 x horizontal à 360 degrés
-- Système de nivellement automatique verrouillable par pendule
-- 4 lignes verticales plus 4 lignes horizontales
-- 3 réglages de luminosité sélectionnables
-- 3 lignes laser complètes à 360 degrés
-- Mécanisme de rotation excentrique
 - Ligne laser verte pour une meilleure visibilité dans des conditions plus lumineuses
+- 3 lignes laser complètes à 360 degrés
+- Direction du faisceau/angle du ventilateur 2 x vertical à 360 degrés et 1 x horizontal à 360 degrés
+- 4 lignes verticales plus 4 lignes horizontales
+- Classe de sécurité Classe 2
+- Mécanisme de rotation excentrique
+- Système de nivellement automatique verrouillable par pendule
+- Porte/diamètre 35 à 70 mètres, portée/diamètre avec un récepteur de 70 à 140 mètres
+- Largeur de ligne 2,0 mm à 5 mètres
+- 3 réglages de luminosité sélectionnables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098FJ3G4B{{</world>}}

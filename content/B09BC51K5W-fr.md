@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coque externe robuste dotée dune poignée en caoutchouc et de deux languettes de fermeture éclair résistantes
 - Le rabat de protection décran rembourré intégré comprend une boîte de rangement pour neuf cartes de jeu
+- Coque externe robuste dotée dune poignée en caoutchouc et de deux languettes de fermeture éclair résistantes
 - Lintérieur moulé avec doublure en feutre et rangement en filet à fermeture éclair contient lune ou lautre des consoles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

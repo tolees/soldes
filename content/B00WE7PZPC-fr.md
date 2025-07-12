@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette assiette de présentation stylée décore votre table lors du diner avec des amis
 - La collection For Me séduit grâce aux lignes épurées, au design intemporel et au naturel et sassortit parfaitement avec les collections Colourful Life et Spring Awakening
+- Cette assiette de présentation stylée décore votre table lors du diner avec des amis
 - Villeroy & Boch 10-4153-0960 Sucrier/Boîte à Marmelade 0,3 L Porcelaine Blanc 12 x 11 x 9 cm 1 sucrier/boîte
 
 [🛒 Achète-le!!]({{< param buyurl >}})

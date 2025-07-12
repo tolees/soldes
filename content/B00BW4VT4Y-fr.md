@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme compacte pour optimiser le rangement
-- Certifié NF
 - Câble HO5VV-F 3G1mm² de longueur 1m
+- Certifié NF
+- Forme compacte pour optimiser le rangement
 - Multprise 5x 16A 2P+T pour brancher tous vos appareils électriques et luminaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

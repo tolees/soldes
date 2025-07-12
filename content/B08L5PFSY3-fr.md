@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Créez dans n’importe quelles conditions de luminosité : Laf en faible lumière fonctionne jusqu’à -6 il avec un objectif doté d’une ouverture f2 ou plus lumineuse
 - Double logement pour cartes : Vous pouvez utiliser des cartes sd uhs-ii dans un logement et des cartes xqd ou les toutes récentes cartes cfexpress ultra-rapides dans lautre
-- Large gamme dobjectifs : Objectifs nikkor à monture z et objectifs nikkor à monture f (via ladaptateur ftz)
-- Tellement plus rapide : Réalisez jusqu’à 14 vps en haute définition avec des performances afae optimales. Photographiez jusqu’à 200 images au format jpeg ou 124 images au format raw 12 bits sans compression en une seule rafale
 - Une construction robuste : Avec son boîtier en alliage de magnésium ultra-résistant et léger, cet appareil photo se transporte facilement et peut affronter nimporte quel endroit. Il est conçu pour résister au mieux à la poussière, à la saleté et à l’humidité
+- Tellement plus rapide : Réalisez jusqu’à 14 vps en haute définition avec des performances afae optimales. Photographiez jusqu’à 200 images au format jpeg ou 124 images au format raw 12 bits sans compression en une seule rafale
+- Large gamme dobjectifs : Objectifs nikkor à monture z et objectifs nikkor à monture f (via ladaptateur ftz)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L5PFSY3{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - À partir de 7 ans - De 2 à 6 joueurs
-- Durée dune partie : 20 min
-- Description du produit : Parier sur les points forts de vos monuments et gagner la bataille !
 - Fabriqué en France
+- Description du produit : Parier sur les points forts de vos monuments et gagner la bataille !
+- Durée dune partie : 20 min
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077TCZHVQ{{</world>}}

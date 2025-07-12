@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 niveaux de dorage
+- 3 fonctions : cuisson, décongélation, stop
 - Ramasse miettes
+- 6 niveaux de dorage
 - 2 fentes
 - Parois tempérées / Corps en métal
-- 3 fonctions : cuisson, décongélation, stop
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N8QC1SX{{</world>}}

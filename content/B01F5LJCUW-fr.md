@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas d’outil ni de colle nécessaire. Nous vous fournissons aussi un guide de pose illustré avec nos stickers.
+- Taille: H50 x L75 cm
+- Nous vous fournissons aussi un guide de pose illustré avec nos stickers.
 - La pose des stickers Ambiance-Live est très facile
 - Ils se retirent sans endommager les murs.
-- Nous vous fournissons aussi un guide de pose illustré avec nos stickers.
-- Taille: H50 x L75 cm
+- Pas d’outil ni de colle nécessaire. Nous vous fournissons aussi un guide de pose illustré avec nos stickers.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01F5LJCUW{{</world>}}

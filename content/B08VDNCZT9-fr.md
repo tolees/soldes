@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Etanche conformément à la norme IP67 : emportez la Charge 5 à la plage sans craindre leau ni la poussière. Aussi belle que le son quelle produit, elle est disponible en plusieurs couleurs
 - Livraison : 1 x JBL Charge 5, 1 x câble USB de type C, 1 x fiche de sécurité, 1 x guide de démarrage rapide / Dimensions (L x H x P) : 223 x 96,5 x 94 mm, couleur : noir
 - Diffusion sans fil par Bluetooth : connectez jusqu’à 2 smartphones ou tablettes grâce à la technologie Bluetooth et emportez votre musique où que vous alliez
-- Son Pro JBL : la Charge 5 est dotée d’un haut-parleur optimisé de longue portée, d’un haut-parleur haute fréquence et de deux radiateurs de basses pour un son puissant, riche et clair
+- Etanche conformément à la norme IP67 : emportez la Charge 5 à la plage sans craindre leau ni la poussière. Aussi belle que le son quelle produit, elle est disponible en plusieurs couleurs
 - 20 hrs d’autonomie et chargeur intégré : faites la fête du soir au matin et bénéficiez d’une autonomie de 20 hrs. Grâce au chargeur portable, rechargez vos appareils sans arrêter la musique
+- Son Pro JBL : la Charge 5 est dotée d’un haut-parleur optimisé de longue portée, d’un haut-parleur haute fréquence et de deux radiateurs de basses pour un son puissant, riche et clair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08VDNCZT9{{</world>}}

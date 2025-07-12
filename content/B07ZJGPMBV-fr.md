@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité optique éclatante
-- Compact et pratique
-- Une grande réactivité en toutes circonstances
-- Â€‹ Conception de série L avancée
 - Zoom professionnel pratique, très compact
+- Â€‹ Conception de série L avancée
+- Qualité optique éclatante
+- Une grande réactivité en toutes circonstances
+- Compact et pratique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZJGPMBV{{</world>}}

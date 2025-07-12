@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- De 2 à 4 joueurs
-- Les joueurs devront affronter des adversaires emblématiques qui seront de plus en plus nombreux en utilisant la magie, des artefacts et avec laide dalliés mythiques !
-- Durée de jeu : 30 min
-- Ce jeu vous transportera dans le célèbre château de Poudlard durant sept scénarios !
 - A partir de 11 ans
+- Les joueurs devront affronter des adversaires emblématiques qui seront de plus en plus nombreux en utilisant la magie, des artefacts et avec laide dalliés mythiques !
+- Ce jeu vous transportera dans le célèbre château de Poudlard durant sept scénarios !
 - Revivez les aventures de Harry, Hermione , Ron et Neville !
+- Durée de jeu : 30 min
+- De 2 à 4 joueurs
 - Accessible à tous les fans de la saga Harry Potter, plongez dans lunivers de J.K Rowling et combattez les forces de Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

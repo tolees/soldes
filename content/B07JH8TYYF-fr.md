@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Conçu pour un look casual confortable et polyvalent
 - Un col rond classique qui se porte avec tout
 - Ceci est un authentique produit Levi’s
-- Conçu pour un look casual confortable et polyvalent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07JH8TYYF{{</world>}}

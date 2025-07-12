@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sound Système audio 2 voies avec 4 haut-parleurs2 haut-parleurs de graves 8 pour des basses richesOptions déclairage dans lAPPFonctions karaoké et DJRéception radio ( DABplus et FM)
 - DIMENSIONSSize (W x H x D) :330 x 785 x 344mm / Poids Net : 16 (Kg)
 - Puissance 8 Woofer, 2 Unit, Lamplificateur de graves surpuissant (Double Super Bass Boost), le haut-parleur de basses lumineux X-Shiny
-- Wireless Party link Votre smartphone se met au rythme de la musique, DJ Gear, ous pouvez connecter jusqu’à trois smartphones en même temps et les tenir en l’air ou en placer un dans le socle pour voir les flash s’illuminer au rythme de la musique
 - Connectivité Doublez votre puissance sonore en appairant deux enceintes LG XBOOM RNC9 sans fil; un volume sonore encore plus élevé ne veut dire qu’une chose : une fête encore plus intense
+- Wireless Party link Votre smartphone se met au rythme de la musique, DJ Gear, ous pouvez connecter jusqu’à trois smartphones en même temps et les tenir en l’air ou en placer un dans le socle pour voir les flash s’illuminer au rythme de la musique
+- Sound Système audio 2 voies avec 4 haut-parleurs2 haut-parleurs de graves 8 pour des basses richesOptions déclairage dans lAPPFonctions karaoké et DJRéception radio ( DABplus et FM)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BXY26Q9Q{{</world>}}

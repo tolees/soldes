@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Contenu de la livraison : 1 x Villeroy & Boch Manufacture Rock, ensemble de flûtes à champagne, 4 pièces, 260 ml, poids : 640 g (réf. art. 11-3798-8131)
 - De l’originalité pour votre table : apportez un peu de fraîcheur à votre table avec ces flûtes noires et appréciez leur esthétique exceptionnelle
 - Verre en cristal de haute qualité : nettoyer les verres en cristal à la main, le lave-vaisselle nest pas recommandé.
-- Pour les connaisseurs de vin : le soir, dégustez un verre de champagne raffiné, servi avec style dans un cristallin au design sophistiqué
 - De magnifiques idées de cadeau : surprenez vos proches avec cet ensemble de quatre verres à vin blanc, tous les invités seront ravis
+- Pour les connaisseurs de vin : le soir, dégustez un verre de champagne raffiné, servi avec style dans un cristallin au design sophistiqué
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0873TBN7M{{</world>}}

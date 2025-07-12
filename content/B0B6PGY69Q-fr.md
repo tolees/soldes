@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Droite
+- Type de col: Bouton vers le bas
+- Lavage en machine
 - Fermeture: Clip
 - Extérieur : 65 % polyester recyclé, 35 % polypropylène
-- Droite
-- Lavage en machine
-- Type de col: Bouton vers le bas
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B6PGY69Q{{</world>}}

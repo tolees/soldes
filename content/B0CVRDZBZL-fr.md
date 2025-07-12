@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cuir supérieur
-- Semelle en caoutchouc
 - Fermeture en dentelle
+- Semelle en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVRDZBZL{{</world>}}

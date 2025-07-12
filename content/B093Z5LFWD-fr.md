@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La technologie de plateau stable de Toshiba
+- Garantie de 5 ans
 - Fonctionnement 24/7
 - Charge de travail de 550 TB/an
-- Garantie de 5 ans
-- La technologie de plateau stable de Toshiba
 - Disques durs 3,5 SATA ou SAS
 
 [🛒 Achète-le!!]({{< param buyurl >}})

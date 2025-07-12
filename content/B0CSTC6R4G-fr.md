@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plus quun simple lisseur, son articulation unique et son design ergonomique vous permettent de réaliser des coiffures sans limite: lissage, ondulations ou boucles
 - La technologie HD motion-responsive utilise un algorithme intelligent pour identifier la manière dont le lisseur est utilisé, afin doptimiser la chaleur et la puissance délivrées pour des performances optimales
 - Idéal pour tous types et longueurs de cheveux, Utilisation quotidienne
 - Des résultats de coiffage haute-définition : jusquà 85% de brillance en plus, 2x moins de frisottis, 3x plus de protection contre la casse
+- Plus quun simple lisseur, son articulation unique et son design ergonomique vous permettent de réaliser des coiffures sans limite: lissage, ondulations ou boucles
 - Le lisseur ghd le plus avancé pour un coiffage 3 fois plus rapide, des résultats haute définition 24h en un seul passage, sans aucun dommage causé par une chaleur extrême
 - Caractéristiques supplémentaires : chauffe en 20 secondes - mode veille automatique si inutilisé pendant 10 minutes - garantie 3 ans - cordon de 2,7m - voltage universel - embout de protection
 

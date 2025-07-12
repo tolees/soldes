@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zip entier
-- Couverture confortable en polaire douce
-- La capuche avec cordon de serrage vous permet dajuster votre couverture
 - Manche longue
+- Zip entier
+- La capuche avec cordon de serrage vous permet dajuster votre couverture
+- Couverture confortable en polaire douce
 - Une fermeture éclair intégrale vous permet de rester au chaud lorsque votre entraînement se réchauffe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

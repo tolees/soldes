@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emballage sous forme de téléphone portable.
-- Idéal pour cadeau.
-- Boîte distributrice avec 50 plans à faire entre amis.
-- Succès assuré.
 - Super original, en papier.
+- Idéal pour cadeau.
+- Succès assuré.
+- Boîte distributrice avec 50 plans à faire entre amis.
+- Emballage sous forme de téléphone portable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0933NTXQ3{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tailles réglables par molette dajustement ( 53 - 57 cm )
 - Casque Skate/Vélo/Rollers/trottinette
 - coque externe ABS - structure eps noir - aérations
-- Sangles Ajustables.
-- Tailles réglables par molette dajustement ( 53 - 57 cm )
 - Mousses interne pour un confort optimal.
+- Sangles Ajustables.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QT7HWVK{{</world>}}

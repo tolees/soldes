@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patins de souris en PTFE sans additif: les patins de souris en PTFE sans additif assurent une glisse fluide et une connexion fluide à votre jeu
-- Performances améliorées: notre souris sans fil conçue pour gagner, encore améliorée, avec un taux d’interrogation de 8 kHz, la charge USB-C, une autonomie de 95 heures (3) et une compatibilité POWERPLAY, le tout avec un poids de 60 g seulement
-- Souris gaming sans fil rapide et précise: une icône du gaming professionnel, désormais plus rapide et plus précise, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
-- Précision professionnelle: les switchs hybrides optiques-mécaniques LIGHTFORCE offrent une précision et une fiabilité professionnelles, ainsi qu’un actionnement optique à très faible latence avec des clics nets et tactiles
 - Capteur optique gaming le plus avancé: HERO 2 offre un suivi sur 888+ IPS, jusqu’à 44 000 PPP et un étalonnage précis du capteur sans lissage, accélération ni filtrage
+- Performances améliorées: notre souris sans fil conçue pour gagner, encore améliorée, avec un taux d’interrogation de 8 kHz, la charge USB-C, une autonomie de 95 heures (3) et une compatibilité POWERPLAY, le tout avec un poids de 60 g seulement
+- Précision professionnelle: les switchs hybrides optiques-mécaniques LIGHTFORCE offrent une précision et une fiabilité professionnelles, ainsi qu’un actionnement optique à très faible latence avec des clics nets et tactiles
+- Souris gaming sans fil rapide et précise: une icône du gaming professionnel, désormais plus rapide et plus précise, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
+- Patins de souris en PTFE sans additif: les patins de souris en PTFE sans additif assurent une glisse fluide et une connexion fluide à votre jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W5JKP66{{</world>}}
