@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de stockage jusquà 1 To
-- Conçu avec des flashs 3D NAND de haute qualité (flashs 2D NAND pour 16 Go et moins)
-- Conforme aux normes UHS Speed Class 3 (U3) et UHS Video Speed Class 30 (V30)
 - Parfait pour une capture vidéo 4K fluide et ininterrompue
+- Conçu avec des flashs 3D NAND de haute qualité (flashs 2D NAND pour 16 Go et moins)
 - Jusquà 100 Mo/s en lecture et 85 Mo/s en écriture
+- Conforme aux normes UHS Speed Class 3 (U3) et UHS Video Speed Class 30 (V30)
+- Capacité de stockage jusquà 1 To
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BSCXBTQ{{</world>}}

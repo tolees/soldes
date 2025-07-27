@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible ATX, MicroATX et MiniITX
-- Conception de la façade Mallado
 - Bandeau frontal A-RGB et ventilateur arrière
 - Panneau en verre trempé
+- Compatible ATX, MicroATX et MiniITX
+- Conception de la façade Mallado
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HRB62MH{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BÉNÉFICES : Les cheveux sont instantanément nourris et réparés ; la fibre est plus forte, brillante et souple, nettoyée des impuretés et protégée durablement
-- TYPE DE CHEVEUX : Soin capillaire développé spécialement pour les cheveux secs, cheveux abîmés, cheveux cassés, cheveux desséchés, nécessitant une hydratation intense et une nutrition adaptée
 - APPLICATION : Sur cheveux mouillés ; faire mousser, de la racine jusquaux pointes, rincer ; si contact avec les yeux, rincer immédiatement
 - SHAMPOING RÉPARATEUR : Soin des cheveux secs et abîmés ; Enrichi en protéine de blé, il agit au coeur de la fibre pour leur fournir ce dont ils ont besoin pour retrouver leur vitalité naturelle
+- TYPE DE CHEVEUX : Soin capillaire développé spécialement pour les cheveux secs, cheveux abîmés, cheveux cassés, cheveux desséchés, nécessitant une hydratation intense et une nutrition adaptée
 - UNE EXPÉRIENCE UNIQUE : Un soin professionnel à base de protéine de quinoa doré qui transforme vos cheveux sans les alourdir ; Les résultats perdurent au fil des lavages
 
 [🛒 Achète-le!!]({{< param buyurl >}})

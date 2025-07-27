@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1100-2400
 - Poids de larticle : 8,6 kg
 - Numéro de modèle : 1,100 à 240,0
+- 1100-2400
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BS13X4Z2{{</world>}}

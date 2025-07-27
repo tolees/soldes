@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lensemble comprend : 1x rasoir électrique sec et humide Philips Series 5000, 1x tondeuse escamotable intégrée, 1x support de chargement, 1x pochette rigide de voyage et 1x câble de chargement USB-A pour un chargement pratique en déplacement, compatible avec tous les adaptateurs dalimentation USB que vous possédez peut-être déjà, car chez Philips, nous prônons le développement durable dans tous les aspects de la création de produits et notre ambition est de réduire les déchets et de minimiser le nombre dadaptateurs USB que nous mettons sur le marché.
-- Contact optimal avec la peau : les têtes flexibles pivotent à 360° pour suivre les contours de votre visage, pour un rasage impeccable et confortable
-- Sadapte à votre barbe : le capteur intelligent Power Adapt détecte la densité des poils 250 fois par seconde et adapte automatiquement la puissance de coupe pour vous procurer un rasage en douceur et sans effort
 - Conçu pour durer : durée de vie moteur et batterie de 7 ans et durée de vie des lames en acier auto-affûtées de 2 ans, pour un rasoir qui ne perd pas en efficacité avec le temps
 - Coupe plus de poils à chaque passage* : les 45 lames SteelPrecision auto-affûtées permettent deffectuer jusquà 90 000 coupes par minute, pour un rasage de près efficace
+- Lensemble comprend : 1x rasoir électrique sec et humide Philips Series 5000, 1x tondeuse escamotable intégrée, 1x support de chargement, 1x pochette rigide de voyage et 1x câble de chargement USB-A pour un chargement pratique en déplacement, compatible avec tous les adaptateurs dalimentation USB que vous possédez peut-être déjà, car chez Philips, nous prônons le développement durable dans tous les aspects de la création de produits et notre ambition est de réduire les déchets et de minimiser le nombre dadaptateurs USB que nous mettons sur le marché.
+- Sadapte à votre barbe : le capteur intelligent Power Adapt détecte la densité des poils 250 fois par seconde et adapte automatiquement la puissance de coupe pour vous procurer un rasage en douceur et sans effort
+- Contact optimal avec la peau : les têtes flexibles pivotent à 360° pour suivre les contours de votre visage, pour un rasage impeccable et confortable
 - Un rasage précis : doux pour la peau grâce aux 45 lames SteelPrecision et à la technologie SkinIQ avec capteur Power Adapt, qui permettent de couper plus de poils par passage*
 
 [🛒 Achète-le!!]({{< param buyurl >}})

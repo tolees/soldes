@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dual Native ISO
-- 6048 x 4032 HDR
-- 6K Film Camera
 - 12bit Blackmagic RAW
+- 6K Film Camera
+- 6048 x 4032 HDR
+- Dual Native ISO
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ437JW7{{</world>}}

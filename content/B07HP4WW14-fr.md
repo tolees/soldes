@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Produits de beauté
-- Bases et primer
 - Marque Clinique
+- Bases et primer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HP4WW14{{</world>}}

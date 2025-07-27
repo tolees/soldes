@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Magnifique Art : un paysage de science-fiction luxueux dans le style unique et dessiné à la main de Dreams Uncorporated.
-- Personnalisation : Dinnombrables options de pilote, avec des personnages et des attributs générés de manière procédurale, quatre vaisseaux uniques et une douzaine de mises à niveau à équiper.
 - Ne devenez pas fou : Gardez votre sang-froid - le stress croissant entraînera des hallucinations et la folie spatiale!
 - Niveaux de difficulté : Quatre niveaux de difficulté, le plus élevé, dénommé "insensé", augmentant les enjeux avec la mort permanente.
+- Magnifique Art : un paysage de science-fiction luxueux dans le style unique et dessiné à la main de Dreams Uncorporated.
 - Campagne Approfondie : Affrontez 30 missions à travers cinq lunes et planètes : Nueva Luna, Mars, Vénus, Ganymède et la mystérieuse Etimus.
+- Personnalisation : Dinnombrables options de pilote, avec des personnages et des attributs générés de manière procédurale, quatre vaisseaux uniques et une douzaine de mises à niveau à équiper.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTCLDQ9J{{</world>}}

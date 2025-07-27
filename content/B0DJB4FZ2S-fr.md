@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appareil photo de 50 + 8 + 12 Mégapixels
+- Memoire interne: 128 Go - RAM: 8 Go
 - Ecran de 6.7 - 4G: Oui
 - Smartphone sous systeme Android 14
-- Memoire interne: 128 Go - RAM: 8 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJB4FZ2S{{</world>}}

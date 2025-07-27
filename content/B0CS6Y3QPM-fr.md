@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Votre monde, votre style : Incarnez Beelzébub et développez ses capacités de combat selon votre façon de jouer. Personnalisez vos véhicules avec différents éléments décoratifs pour créer des styles uniques.
 - Embarquez pour un voyage épique : Partez pour une aventure mouvementée écrite par le créateur de Dragon Ball, Akira Toriyama.
-- Des véhicules dépassant l’imagination : Débloquez des véhicules et faites-les monter de niveau grâce à diverses pièces mécaniques, y compris des armes, moteurs et suspensions. Améliorez et pilotez de nombreux véhicules dont des chars de combat, des motos et même des robots sauteurs pour vous aider à explorer chaque recoin du continent.
 - Devenez le sauveur dont le monde a besoin : Développez votre base dopérations dans la ville de Spino et tissez des liens avec ses habitants. Admirez la ville grandir et ses capacités sétoffer alors que vous guidez les exilés du désert jusquà celle-ci.
+- Des véhicules dépassant l’imagination : Débloquez des véhicules et faites-les monter de niveau grâce à diverses pièces mécaniques, y compris des armes, moteurs et suspensions. Améliorez et pilotez de nombreux véhicules dont des chars de combat, des motos et même des robots sauteurs pour vous aider à explorer chaque recoin du continent.
+- Votre monde, votre style : Incarnez Beelzébub et développez ses capacités de combat selon votre façon de jouer. Personnalisez vos véhicules avec différents éléments décoratifs pour créer des styles uniques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CS6Y3QPM{{</world>}}

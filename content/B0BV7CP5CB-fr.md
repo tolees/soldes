@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La maquette à construire pour adultes comprend 4 cerisiers, 2 avec un feuillage vert et 2 couverts de fleurs roses pour illustrer le printemps
+- Les amoureux de la culture japonaise seront ravis de pouvoir construire ce monument de la ville de Himeji, avec le ruisseau, des carpes koï, des fleurs LEGO, des lanternes en pierre et un pavillon
 - Transportez-vous dans la ville d’Himeji sans quitter la maison en recréant le Château dans le style LEGO avec des détails authentiques tels que les tourelles du château, ses remparts et ses murailles
 - La maquette LEGO Architecture comprend tout ce dont vous avez besoin pour construire ce château facilement, le set possède différentes configurations à exposer à la maison ou au bureau
-- Les amoureux de la culture japonaise seront ravis de pouvoir construire ce monument de la ville de Himeji, avec le ruisseau, des carpes koï, des fleurs LEGO, des lanternes en pierre et un pavillon
-- La maquette à construire pour adultes comprend 4 cerisiers, 2 avec un feuillage vert et 2 couverts de fleurs roses pour illustrer le printemps
-- Pour une expérience de construction encore plus gratifiante et relaxante, lapplication LEGO Builder propose des instructions numériques et un guide étape par étape
 - Kit de construction LEGO Architecture - Cette maquette adulte fait partie dune gamme de kits de construction de modèles réduits pour les adultes fans de construction et darchitecture, idéal comme idée cadeau danniversaire ou pour les fêtes
+- Pour une expérience de construction encore plus gratifiante et relaxante, lapplication LEGO Builder propose des instructions numériques et un guide étape par étape
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7CP5CB{{</world>}}

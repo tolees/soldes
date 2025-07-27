@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les montagnes russes ont un parcours sur lequel 3 wagons filent, entourés de planètes et d’étoiles filantes, tandis que la tour de chute libre monte jusqu’en haut avant de piquer vers le sol
-- Comprend 5 minifigurines : un astronaute, un père avec 2 enfants et un scientifique, plus un bébé astronaute que les enfants peuvent placer sur les manèges du parc dattractions
 - Les enfants peuvent profiter dun voyage hors du monde avec ce jouet de construction LEGO Creator 3-en-1 Les Montagnes Russes de l’Espace, comprenant 3 modèles de manèges à construire
-- 3 attractions différentes – Les fans de l’espace peuvent construire 3 attractions différentes : des montagnes russes de l’espace, une tour de chute libre et un manège
 - Le jouet LEGO parc dattractions comprend également une brique lumineuse LEGO qui peut être utilisée pour éclairer chaque modèle : le météore, les propulseurs de la navette et la cabine du manège
+- Les montagnes russes ont un parcours sur lequel 3 wagons filent, entourés de planètes et d’étoiles filantes, tandis que la tour de chute libre monte jusqu’en haut avant de piquer vers le sol
+- Un jeu 3-en-1 – Les enfants jouent dans l’espace avec le set Les montagnes russes de l’espace LEGO Creator 3-en-1 (31142) proposant 3 modèles dans 1 boîte, à construire et à transformer
+- 3 attractions différentes – Les fans de l’espace peuvent construire 3 attractions différentes : des montagnes russes de l’espace, une tour de chute libre et un manège
+- Comprend 5 minifigurines : un astronaute, un père avec 2 enfants et un scientifique, plus un bébé astronaute que les enfants peuvent placer sur les manèges du parc dattractions
 - Les fans de lespace peuvent construire 3 manèges de parc dattractions LEGO différents : construisez les montagnes russes de lespace, puis transformez-les en tour de chute ou un manège tournant
 - Pour poursuivre laventure intergalactique en accéléré, les jeunes explorateurs de lespace peuvent découvrir un manège avec une mini fusée spatiale et une navette spatiale qui tournent rapidement
-- Un jeu 3-en-1 – Les enfants jouent dans l’espace avec le set Les montagnes russes de l’espace LEGO Creator 3-en-1 (31142) proposant 3 modèles dans 1 boîte, à construire et à transformer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7F29QL{{</world>}}

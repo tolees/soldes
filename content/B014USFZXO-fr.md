@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité/Durabilité
-- Résistance :
 - Durable.
+- Résistance :
+- Qualité/Durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B014USFZXO{{</world>}}

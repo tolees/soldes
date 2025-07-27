@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les portes s’ouvrent également ! Même le volant fonctionne, il suffit de le tourner pour actionner les roues.
 - Foncez vers le monde de Barbie ! Ce cabriolet peut accueillir quatre poupées Barbie accompagnées de leurs accessoires, qui peuvent être rangés dans le coffre ! Poupées non incluses.
-- Dotée d’une silhouette vintage, cette Corvette étincelante aux finitions sport rétro, aux pneus à flancs blancs et aux jantes chromées, et... Quoi d’autre ? Deux plaques d’immatriculation Barbie.
 - L’intérieur rose est orné de rayures blanches sur les sièges. Le tableau de bord détaillé et les touches de rose métallisé et or donnent un aspect luxueux à la voiture.
+- Dotée d’une silhouette vintage, cette Corvette étincelante aux finitions sport rétro, aux pneus à flancs blancs et aux jantes chromées, et... Quoi d’autre ? Deux plaques d’immatriculation Barbie.
+- Les portes s’ouvrent également ! Même le volant fonctionne, il suffit de le tourner pour actionner les roues.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BS25FN3Z{{</world>}}

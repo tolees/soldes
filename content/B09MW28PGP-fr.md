@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ORIGINEL : Pour accentuer laspect vintage et originel du flacon, létiquette correspond à la toute première étiquette imprimée par Jacques Herbin au lancement du produit
+- QUALITE : Le flacon est ciré de la couleur de lencre pour une belle finition du produit. Ce bouchon crée une barrière de protection contre lhumidité et autres poussières. Parfaitement protégée, lencre Jacques Herbin conserve longtemps sa couleur et ses qualités décriture
 - HISTORIQUE : La couleur Bleu myosotis fait partie des 6 premières encres à écrire à avoir été lancées. Pour stylo-plume, stylo roller, plume de verre, porte-plume et pinceau
 - Fabriqué en France depuis lorigine de la marque
-- QUALITE : Le flacon est ciré de la couleur de lencre pour une belle finition du produit. Ce bouchon crée une barrière de protection contre lhumidité et autres poussières. Parfaitement protégée, lencre Jacques Herbin conserve longtemps sa couleur et ses qualités décriture
-- ORIGINEL : Pour accentuer laspect vintage et originel du flacon, létiquette correspond à la toute première étiquette imprimée par Jacques Herbin au lancement du produit
 - ANNIVERSAIRE : Ce magnifique flacon dencre vintage (100 ml) en édition limitée célèbre les 350 ans de la marque
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

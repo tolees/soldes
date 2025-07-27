@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- XL extra léger pour plus de légèreté et dabsorption des chocs
-- Couleur : noir
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
+- Couleur : noir
+- XL extra léger pour plus de légèreté et dabsorption des chocs
 - Dessus : cuir (cuir de veau)
 - Semelle intérieure : OrthoLite pour amortir
 

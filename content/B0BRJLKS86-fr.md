@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lensemble LEGO DREAMZzz Izzie et Bunchu le lapin comprend une figurine de lapin articulée à construire de 2 façons, ainsi que les minifigurines des personnages de la série télévisée
-- Comprend la minifigurine LEGO DREAMZzz Izzie avec son armure, son épée et ses accessoires en forme de sablier, ainsi que les figurines gnome et un petit lapin Bunchu
-- Avec les jouets imaginatifs LEGO DREAMZzz, les enfants peuvent se plonger dans laction et découvrir la gamme complète de jouets basés sur la série DREAMZzz
-- La grande version « vivante » de Bunchu a un cou, une queue, des bras et des jambes entièrement articulés ; il est facile pour les enfants de la faire poser et de recréer des scènes amusantes
 - Les enfants peuvent aider Izzie à créer une grande version de sa peluche préférée pour aider à sauver lanimal en peluche kidnappé par un Gnome de la nuit
+- Avec les jouets imaginatifs LEGO DREAMZzz, les enfants peuvent se plonger dans laction et découvrir la gamme complète de jouets basés sur la série DREAMZzz
+- Comprend la minifigurine LEGO DREAMZzz Izzie avec son armure, son épée et ses accessoires en forme de sablier, ainsi que les figurines gnome et un petit lapin Bunchu
+- Lensemble LEGO DREAMZzz Izzie et Bunchu le lapin comprend une figurine de lapin articulée à construire de 2 façons, ainsi que les minifigurines des personnages de la série télévisée
+- La grande version « vivante » de Bunchu a un cou, une queue, des bras et des jambes entièrement articulés ; il est facile pour les enfants de la faire poser et de recréer des scènes amusantes
 - Les jouets créatifs en forme danimaux sont conçus pour les enfants de 7 ans, garçons et filles, qui peuvent passer des heures à jouer de manière imaginative, seuls ou avec leurs amis
 - Grâce aux instructions de construction guidées par lhistoire, les enfants équipent Bunchu de patins à roulettes et de gants ou dailes dabeille et dun dard pour attraper lenfant maléfique
 

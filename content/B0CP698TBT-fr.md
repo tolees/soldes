@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle aisé multimédia : Quatre touches multimédias dédiées permettent de contrôler aisément le volume et la lecture, tandis que les commandes de verrouillage et de luminosité Win vous offrent encore plus d’options de réglages sur simple pression.
-- Rétroéclairage RGB sur dix zones : Dix zones RGB entièrement personnalisables illuminent votre bureau de leurs effets lumineux hypnotiques.
 - Commencez à enchaîner les victoires MAINTENANT : Un clavier qui réunit tout ce dont vous avez besoin pour gagner. Avec, en prime, des touches silencieuses et réactives ainsi qu’un éclairage RGB pour illuminer vos soirées.
 - 300 ml Résistance aux éclaboussures : Le K55 CORE survit aux boissons renversées, ce qui vous permet de jouer sans craindre les attaques des hydromanciens IRL !
+- Contrôle aisé multimédia : Quatre touches multimédias dédiées permettent de contrôler aisément le volume et la lecture, tandis que les commandes de verrouillage et de luminosité Win vous offrent encore plus d’options de réglages sur simple pression.
+- Rétroéclairage RGB sur dix zones : Dix zones RGB entièrement personnalisables illuminent votre bureau de leurs effets lumineux hypnotiques.
 - Rollover de 12 touches avec taux de rafraîchissement USB de 1 000 Hz : Un clavier qui réagit sans délai à vos ordres et vos actions les plus complexes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

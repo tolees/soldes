@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Saint Seiya
-- Matériau : Plastique
 - Un must pour les fans !
+- Matériau : Plastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT28BQZZ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une campagne solo haletante de 34 niveaux
 - Le remake du FPS culte de 2003 sorti initialement sur PC, PlayStation 2, Xbox et Nintendo Gamecube
+- Une campagne solo haletante de 34 niveaux
+- Une nouvelle direction artistique respectant lœuvre originale et son design iconique en cel-shading
 - Un gameplay varié aux phases d’action, dinfiltration et dexploration
 - Un scénario conspirationniste aux multiples rebondissements
-- Une nouvelle direction artistique respectant lœuvre originale et son design iconique en cel-shading
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WLFJJVP{{</world>}}

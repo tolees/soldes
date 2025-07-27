@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les joueurs peuvent ensuite faire tomber Kamek de la tour et faire sortir la figurine Toad de lenclos de glace (le Pack de Démarrage 71360, 71387 ou 71403 est requis pour jouer)
 - Ce jouet LEGO Super Mario Princesse Peach à construire comprend un château à 3 niveaux avec des éléments de glace, des fleurs, un bloc POW et des défis de collecte de pièces
-- Ce jouet comprend 3 figurines LEGO Super Mario - Cat Goomba, Kamek et Toad pour LEGO Peach (3 figurines non incluses) pour interagir avec
-- Retrouvez des instructions et des idées sur lapplication LEGO Super Mario companion ; pour une liste des appareils Android et iOS compatibles, rendez-vous sur LEGO.com/devicecheck
-- Les enfants peuvent libérer le bloc de pièces de la « glace », attraper le fruit jaune, faire tomber la « glace » de la tour et activer le bloc POW
-- Comprend un costume de chat que la figurine Lego Peach (non incluse) peut porter pour gagner des pièces numériques ; il déclenche également des réactions uniques
 - Cest un excellent cadeau danniversaire, de Noël ou autre pour les enfants de 7 ans et plus qui possèdent lun des pack de démarrage LEGO Super Mario, nécessaire pour jouer
+- Comprend un costume de chat que la figurine Lego Peach (non incluse) peut porter pour gagner des pièces numériques ; il déclenche également des réactions uniques
+- Les enfants peuvent libérer le bloc de pièces de la « glace », attraper le fruit jaune, faire tomber la « glace » de la tour et activer le bloc POW
+- Les joueurs peuvent ensuite faire tomber Kamek de la tour et faire sortir la figurine Toad de lenclos de glace (le Pack de Démarrage 71360, 71387 ou 71403 est requis pour jouer)
+- Retrouvez des instructions et des idées sur lapplication LEGO Super Mario companion ; pour une liste des appareils Android et iOS compatibles, rendez-vous sur LEGO.com/devicecheck
+- Ce jouet comprend 3 figurines LEGO Super Mario - Cat Goomba, Kamek et Toad pour LEGO Peach (3 figurines non incluses) pour interagir avec
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QFWZK31{{</world>}}

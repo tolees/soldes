@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA CHAÎNE EST FACILE À TENIR ET S’AUTO-HUILE - la chaîne se fixe sans outil, vous n’avez aucune manipulation à effectuer pour régler la tension et celle-ci reste lubrifiée grâce à un système de graissage automatique avec réservoir translucide de 50 ml
-- COUPE EFFICACE, SÉCURITAIRE ET RAPIDE - une vitesse de chaîne rapide de 4,2 m/s permet de réaliser des coupes rapides et nettes pour trancher le bois. Et, pour plus de sécurité, un dispositif à deux boutons empêche tout démarrage accidentel
-- TRONÇONNEUSE DE 30 CM PUISSANTE, LÉGÈRE ET COMPACTE - pesant seulement 2.6 kg, cette tronçonneuse électrique sans fil est dotée de poignées ergonomiques confortables et d’un guide-chaîne de 30 cm pour couper bûches et petits arbres sans effort
 - 3 ANS DE GARANTIE AVEC 2 ANS DE GARANTIE SUR LA BATTERIE - Achetez Greenworks, un leader mondial de l’outillage électrique et de la technologie des batteries, réputé pour ses conceptions intelligentes, ses hautes performances et son service client
+- TRONÇONNEUSE DE 30 CM PUISSANTE, LÉGÈRE ET COMPACTE - pesant seulement 2.6 kg, cette tronçonneuse électrique sans fil est dotée de poignées ergonomiques confortables et d’un guide-chaîne de 30 cm pour couper bûches et petits arbres sans effort
+- COUPE EFFICACE, SÉCURITAIRE ET RAPIDE - une vitesse de chaîne rapide de 4,2 m/s permet de réaliser des coupes rapides et nettes pour trancher le bois. Et, pour plus de sécurité, un dispositif à deux boutons empêche tout démarrage accidentel
+- LA CHAÎNE EST FACILE À TENIR ET S’AUTO-HUILE - la chaîne se fixe sans outil, vous n’avez aucune manipulation à effectuer pour régler la tension et celle-ci reste lubrifiée grâce à un système de graissage automatique avec réservoir translucide de 50 ml
 - BATTERIE LITHIUM 40V 2Ah NOUVELLE GÉNÉRATION - alimentée par une batterie de pointe que vous pouvez utiliser dans tout outil Greenworks 40V pour économiser de largent et de l’espace de rangement, et réduire les déchets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

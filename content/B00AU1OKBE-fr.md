@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille: 40 x 40 x 40 cm
 - Nécessite des piles: Non
+- Taille: 40 x 40 x 40 cm
 - Description du produit: Coffret comprenant 2 rollers réglables (taille 22 à 29) ainsi que 2 genouillères et 2 coudières pour apprendre le roller en toute sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

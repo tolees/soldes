@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Haut-parleur sans fil pour un son de grande qualité
+- Commande vocale : compatible avec Amazon Alexa, Google Assistant et Apple Siri
 - Options de diffusion étendues
 - Qualité Denon Sound
-- Commande vocale : compatible avec Amazon Alexa, Google Assistant et Apple Siri
 - 6 touches de sélection rapide pour vos stations préférées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

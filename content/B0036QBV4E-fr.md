@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu: 5 Pièces.
 - Dimensions: 4-5-6-8-10mm
+- Contenu: 5 Pièces.
 - Forets multifonctions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

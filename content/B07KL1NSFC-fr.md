@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La.tecnologia.dri-fit allontana il.sudore dal tuo corpo
-- Le maniche raglan consentono la massima libertà di movimento
 - Il lato interno liscio minimizza lattrito
 - La vestibilità slim abbraccia il corpo senza limitare i movimenti
+- Le maniche raglan consentono la massima libertà di movimento
+- La.tecnologia.dri-fit allontana il.sudore dal tuo corpo
 - Marca nike
 
 [🛒 Achète-le!!]({{< param buyurl >}})

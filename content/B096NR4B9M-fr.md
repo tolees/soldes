@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Geox Les chaussures ont un ajustement confortable
 - Fermeture : caoutchouc
-- Si la taille correspond à la taille, commandez votre pointure habituelle
 - Logo découpé sur la feuille
+- Si la taille correspond à la taille, commandez votre pointure habituelle
+- Geox Les chaussures ont un ajustement confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096NR4B9M{{</world>}}

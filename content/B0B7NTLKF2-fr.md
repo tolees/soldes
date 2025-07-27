@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Freins différentiels – Les pédales de frein montées sur ressorts assurent un contrôle précis sur le freinage sur piste ou encore la direction assistée quand vous enfoncez une pédale après lautre.
 - Axes précis et durables – Des capteurs à effet Hall sans contact sur tous les axes fournissent des données directionnelles haute résolution 10 bits et une durée de vie plus longue que les potentiomètres standards.
-- Fixations stables – Des fixations solides en métal accompagnées de cales et de crampons pour moquette assurent une base stable sur toutes sortes de surfaces. Des trous ont également été pré-perforés pour fixer définitivement léquipement sur les cockpits domestiques existants.
-- Axe de gouverne hyper fluide – L’axe unique avec retour au centre automatique fluidifie les mouvements avant-arrière pour des contrôles directionnels précis. Volez précisément, sans accroc ni effort grâce aux roulements antifriction. Atteignez des sensations parfaites grâce aux deux jeux de ressorts interchangeables sur laxe principal.
 - Pédale à largeur réglable – Grâce à sa largeur réglable, la pédale sadapte à de nombreux utilisateurs et appareils différents. De plus, lempreinte réglable peut porter divers objets quand vous ne vous en servez pas.
+- Axe de gouverne hyper fluide – L’axe unique avec retour au centre automatique fluidifie les mouvements avant-arrière pour des contrôles directionnels précis. Volez précisément, sans accroc ni effort grâce aux roulements antifriction. Atteignez des sensations parfaites grâce aux deux jeux de ressorts interchangeables sur laxe principal.
+- Freins différentiels – Les pédales de frein montées sur ressorts assurent un contrôle précis sur le freinage sur piste ou encore la direction assistée quand vous enfoncez une pédale après lautre.
+- Fixations stables – Des fixations solides en métal accompagnées de cales et de crampons pour moquette assurent une base stable sur toutes sortes de surfaces. Des trous ont également été pré-perforés pour fixer définitivement léquipement sur les cockpits domestiques existants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B7NTLKF2{{</world>}}

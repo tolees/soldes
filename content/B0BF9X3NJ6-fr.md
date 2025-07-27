@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez désormais de ce classique du genre JRPG nimporte où sur Nintendo Switch !
 - Explorez un monde riche et vivant peuplé de personnages inoubliables et vivez une histoire qui ne manquera pas de vous émouvoir.
 - Jouez avec un maximum de 3 amis en mode coop local et combattez ensemble des ennemis surpuissants. Combinez des centaines dattaques spéciales et de sortilèges !
+- Profitez désormais de ce classique du genre JRPG nimporte où sur Nintendo Switch !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BF9X3NJ6{{</world>}}

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Visibilité complet de batterie, létat de charge et de gestion des stocks
 - Alerte lutilisateur ou piles désactiver automatiquement lorsque vous êtes séparés
-- Sécurité pour votre batterie, activer et désactiver
-- Trouver les centres et manuel en sur
 - Sécurité, inventaire et la personnalisation de votre batterie par outil Apple et Android
+- Trouver les centres et manuel en sur
+- Sécurité pour votre batterie, activer et désactiver
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B012LB7NRI{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Offrez-vous un moment de pure détente avec un puzzle de qualité !
 - Un niveau de finition impeccable : du carton épais, un fini mat et anti-reflets, des outils de fabrication de haute précision pour un encastrement parfait et des contours moins marqués.
-- Une image fantastique à assembler sur le thème des contes et de la magie, idéale pour un pur moment de relaxation
 - 1 puzzle de 1500 pièces. Dimensions : 80 x 60 cm
+- Une image fantastique à assembler sur le thème des contes et de la magie, idéale pour un pur moment de relaxation
 - Fabriqué en Allemagne, ce puzzle est composé de matériaux issus de forêts bien gérées certifiées FSC, de matériaux recyclés et de matériaux issus d’autres sources contrôlées (FSC-C111262).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pilotez des véhicules des trois générations
-- Histoires passionnantes en solo, combats trépidants en multijoueur et batailles spatiales à plusieurs étapes
 - Star Wars : Battlefront 2 - Edition Standard sur PS4
+- Histoires passionnantes en solo, combats trépidants en multijoueur et batailles spatiales à plusieurs étapes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06Y6JY1K5{{</world>}}

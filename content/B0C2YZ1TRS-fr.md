@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poids de larticle : 5 kg
-- Numéro du modèle : 90LM08F0-B01170
 - 90LM08F0-B01170
+- Numéro du modèle : 90LM08F0-B01170
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C2YZ1TRS{{</world>}}

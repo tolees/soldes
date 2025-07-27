@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Denture XT, pour une coupe efficace des volumes de bois dur ou sec
-- Scie arboricole repliable 190mm 7 dents/pouce pour bois dur/sec
 - Longueur de lame: 190 mm
+- Scie arboricole repliable 190mm 7 dents/pouce pour bois dur/sec
+- Denture XT, pour une coupe efficace des volumes de bois dur ou sec
 - La poignée confortable bi-matière assure une excellente prise en main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

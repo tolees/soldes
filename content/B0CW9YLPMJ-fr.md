@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grandes capacités de stockage pour la bibliothèque de contenus numériques
 - Des vitesses optimales pour une utilisation professionnelle
+- Grandes capacités de stockage pour la bibliothèque de contenus numériques
 - Norme UHS-II hautes performances
 
 [🛒 Achète-le!!]({{< param buyurl >}})

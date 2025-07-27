@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie Li-polymère intégrée de 2100 mAh, vous pouvez utiliser ANBERNIC RG35XX pendant 5 heures, prendre en charge la charge rapide avec le câble USB Type-C.
-- Jeux pris en charge : PS1, DC, ARCAD, GBA, GBC, GB, SFC, FC, MAME, MD, GG, PCE, NGPC, SMS, WSC et autres formats de jeux.
 - Ce quil y a dans la boîte : Console de jeu ANBERNIC RG35XX, carte 64G, câble de chargement, protecteur décran, manuel dutilisation.
 - Plus de 5400 jeux classiques intégrés par défaut
 - Aide les utilisateurs à télécharger des jeux dans les formats appropriés
+- Jeux pris en charge : PS1, DC, ARCAD, GBA, GBC, GB, SFC, FC, MAME, MD, GG, PCE, NGPC, SMS, WSC et autres formats de jeux.
+- Batterie Li-polymère intégrée de 2100 mAh, vous pouvez utiliser ANBERNIC RG35XX pendant 5 heures, prendre en charge la charge rapide avec le câble USB Type-C.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BWRHQZZN{{</world>}}

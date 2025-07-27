@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Idéal pour lenregistrement des voix et des instruments. USB : entrée/sortie stéréo
 - Longueur : 184 mm. Poids : 520gr. Modèle: NT-USB
-- Plage dynamique: 96 dB
 - Réponse en fréquence : 20 Hz - 20 kHz
-- Accessoires fournis : Trépied / Filtre anti-pop / Pince pour micro / Pochette / Câble USB 6m
+- Compatible Mac & PC. SPL maximum: 110dB SPL
+- Compatible avec iPad ou iPhone à laide dun kit de connexion pour caméra optionnel. Compatible avec le pare-brise SMR shockmount & WS2 foam
 - Alimenté par le port USB. Couleur : noir mat
 - Microphone USB type : micro à Condensateur large membrane
-- Compatible avec iPad ou iPhone à laide dun kit de connexion pour caméra optionnel. Compatible avec le pare-brise SMR shockmount & WS2 foam
+- Accessoires fournis : Trépied / Filtre anti-pop / Pince pour micro / Pochette / Câble USB 6m
+- Plage dynamique: 96 dB
 - Son de haute qualité.Capsule: 1.27 cm
-- Compatible Mac & PC. SPL maximum: 110dB SPL
-- Idéal pour lenregistrement des voix et des instruments. USB : entrée/sortie stéréo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KQPGRRE{{</world>}}

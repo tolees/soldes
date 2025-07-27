@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez vérifier le symbole PAO (période après ouverture) qui indique lheure dexpiration du produit, après louverture de lemballage
 - Les pommettes sont rehaussées et le teint pétillant. Révélez un teint sublime!
 - NOUVELLE FORMULE : 78% dingrédients dorigine naturelle. Take your skin to paradise !
+- Veuillez vérifier le symbole PAO (période après ouverture) qui indique lheure dexpiration du produit, après louverture de lemballage
 - Ce blush colore délicatement les pommettes en y déposant un voile léger irisé pour un effet bonne mine naturel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

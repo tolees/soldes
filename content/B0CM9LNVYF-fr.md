@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cette montre a une technologie Eco-drive (rechargée par nimporte quelle source de lumière; na jamais besoin dune batterie). Cette montre Analogique - Digital a une function calendrier: Jour-Date , Energie Solaire , Radio Piloté , Chronographe , Heure Mondiale et Affichage 24h
 - Résistant à leau: 20 bar-Poids: 118 g
-- Bracelet de Haute qualité en Cuir Bleu 21 cm de longueur et 26 mm de largeur avec une Boucle Ardillon
 - Diamètre du boîtier: 46 mm, Épaisseur du boîtier: 14 mm, Couleur du boîtier: Argent et Couleur du cadran: Bleu
+- Bracelet de Haute qualité en Cuir Bleu 21 cm de longueur et 26 mm de largeur avec une Boucle Ardillon
 - La montre est livrée dans une boîte cadeau avec une garantie de 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

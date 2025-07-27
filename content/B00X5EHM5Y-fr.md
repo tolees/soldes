@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDÉAL POUR FÊTES ET JEUX DE RÔLE : Parfait pour les fêtes costumées, Carnaval, Halloween ou pour recréer les scènes épiques de Star Wars à la maison. Le petit Storm Trooper est prêt pour laction !
-- LE PETIT STORMTROOPER : Plonge dans lunivers intergalactique de Star Wars avec ce déguisement sous licence officielle. Deviens un Stormtrooper, le fidèle serviteur de lEmpire !
 - TAILLE 5-6 ans : conçu pour les enfants de 5 à 6 ans mesurant entre 105 à 116 cm. Un ajustement parfait pour une expérience de jeu confortable.
-- FACILE À PORTER : Conçu pour la facilité et le confort, ce déguisement senfile rapidement, permettant aux petits Storm Troopers de partir à laventure sans tracas.
+- LE PETIT STORMTROOPER : Plonge dans lunivers intergalactique de Star Wars avec ce déguisement sous licence officielle. Deviens un Stormtrooper, le fidèle serviteur de lEmpire !
+- IDÉAL POUR FÊTES ET JEUX DE RÔLE : Parfait pour les fêtes costumées, Carnaval, Halloween ou pour recréer les scènes épiques de Star Wars à la maison. Le petit Storm Trooper est prêt pour laction !
 - COSTUME COMPLET ET ACCESSOIRES : La combinaison à manches longues en jersey blanc et noir offre leffet « armure ». Comprend également un masque en PVC à leffigie du Stormtrooper pour une immersion totale dans lunivers Star Wars.
+- FACILE À PORTER : Conçu pour la facilité et le confort, ce déguisement senfile rapidement, permettant aux petits Storm Troopers de partir à laventure sans tracas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00X5EHM5Y{{</world>}}

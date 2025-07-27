@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis: 7.0 kilogrammes
 - Révolution sur le marché des couches: une cellulose non blanchie, contrairement à la quasi-totalité des marques de couches jetables qui utilisent des produits chimiques de blanchiment
 - Couches certifiées par ECOLABELLe label Européen écologique ECOLABEL distingue les produits qui ont un impact réduit sur lâ€environnement et qui répondent à des critères écologiques stricts
-- Compositionnaturelle avec des microbilles absorbantes dorigine naturelle (huiles végétales) et non issues de la pétrochimie (huiles minérales)
-- Poids du colis: 7.0 kilogrammes
-- Lemballage de la gamme Love and Green pure nature est 100 percent en papier donc 100 percent recyclable etUne grande première
 - Voile et barrières antifuites en contact peau dâ€origine naturellePas de contact avec du plastique mais avec un film dorigine naturelle (amidon de maïs, canne à sucre, betterave, pomme de terre)
+- Lemballage de la gamme Love and Green pure nature est 100 percent en papier donc 100 percent recyclable etUne grande première
+- Compositionnaturelle avec des microbilles absorbantes dorigine naturelle (huiles végétales) et non issues de la pétrochimie (huiles minérales)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B091D1RYBH{{</world>}}

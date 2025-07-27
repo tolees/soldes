@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rouge à lèvres
-- Formule légère
-- Fini mat sans défaut
 - 8 heures de tenue parfaite
+- Rouge à lèvres
+- Fini mat sans défaut
 - 3g - 0,106oz
+- Formule légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PSPR2F1{{</world>}}

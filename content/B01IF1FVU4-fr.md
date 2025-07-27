@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sony SEL-14TC<br>Front cap<br>Bayonet cap<br>Case<br>
 - Protected against dust and moisture
 - Compatible with the following objective: SEL-70-200 F2.8 GM
 - Lenses / groups: 6/5; Distance encoder
-- Sony SEL-14TC<br>Front cap<br>Bayonet cap<br>Case<br>
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01IF1FVU4{{</world>}}

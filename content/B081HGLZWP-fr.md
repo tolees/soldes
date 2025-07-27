@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
 - A partir de 3 ans.
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour.
-- Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
 - Contient les jumeaux, la poussette et 2 hochets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

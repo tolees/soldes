@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- coupe droite
 - Capuche avec cordon
+- coupe droite
 - 3 bandes le long des manches
 
 [🛒 Achète-le!!]({{< param buyurl >}})

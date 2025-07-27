@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Positionnez la voiture, la fusée ou lastronaute sur le lanceur, puis pompez pour gonfler le ballon. Appuyez sur le bouton du lanceur pour lâcher le jouet. Celui-ci avance tout seul !
-- LE CONTENU DU SET : Idéal pour un cadeau danniversaire ou de Noël pour les enfants de plus de 3 ans, ce kit comprend 1 pompe à air, 1 rampe de lancement, 1 voiture de course, 1 astronaute, 1 fusée et 12 ballons à gonfler.
 - UN JEU DE VOITURE QUI CHANGE : Balloon Zoom est un jeu original qui permet de propulser une voiture, une fusée ou un astronaute, sans pile, juste avec un système à air, pour des heures damusement et de découvertes en famille !
+- CONSEILS DUTILISATION : Positionnez la voiture, la fusée ou lastronaute sur le lanceur, puis pompez pour gonfler le ballon. Appuyez sur le bouton du lanceur pour lâcher le jouet. Celui-ci avance tout seul !
 - COMMENT ÇA MARCHE : Il suffit de gonfler le ballon fixé à lembouchure du jouet à propulser. Lorsque le ballon se relâche, la pression de lair propulse ce dernier en avant ou en lair, selon le jouet choisi.
 - POUR JOUER PARTOUT : Ce jeu pour enfant original et amusant peut être utilisé aussi bien à lintérieur quà lextérieur. Son petit plus ? Il brille dans le noir, pour une utilisation encore plus fun !
+- LE CONTENU DU SET : Idéal pour un cadeau danniversaire ou de Noël pour les enfants de plus de 3 ans, ce kit comprend 1 pompe à air, 1 rampe de lancement, 1 voiture de course, 1 astronaute, 1 fusée et 12 ballons à gonfler.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09CZ52F1W{{</world>}}

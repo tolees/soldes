@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
-- Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
 - Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
+- Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
 - Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
+- Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MTX8L70{{</world>}}

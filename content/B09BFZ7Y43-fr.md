@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Reflex argentiques
-- Appareils photo argentiques
 - Caméscopes
+- Appareils photo argentiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BFZ7Y43{{</world>}}

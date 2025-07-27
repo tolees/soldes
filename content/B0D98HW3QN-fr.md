@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emule les styles/regards de tir de Garrett King
-- Cadre en aluminium avec finition en vert mat subtil
-- Revêtement 15 couches - Anti-rayures / Anti-reflets / Anti-empreintes digitales
-- Le tout nouveau verre polarisant chromatique permet un changement de couleur nul et une clarté exceptionnelle.
 - Shortstache Signature Edition - Polarizer + Black Mist
+- Emule les styles/regards de tir de Garrett King
+- Revêtement 15 couches - Anti-rayures / Anti-reflets / Anti-empreintes digitales
+- Cadre en aluminium avec finition en vert mat subtil
+- Le tout nouveau verre polarisant chromatique permet un changement de couleur nul et une clarté exceptionnelle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D98HW3QN{{</world>}}

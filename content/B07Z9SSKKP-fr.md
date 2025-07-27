@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle intelligent, possibilités infinies : Créez des effets de lumière animés saisissants via le logiciel CORSAIR iCUE pour donner vie à votre système grâce à un éclairage RGB dynamique.
-- Refroidissement de votre système : Vitesses de rotation impressionnantes allant jusqu’à 1 250 tr/min.
+- Contrôleur de liCUE Lighting Node CORE inclus : Contrôlez votre éclairage RGB via le logiciel CORSAIR iCUE avec ce contrôleur d’éclairage iCUE extrêmement compact.
 - Contrôle, personnalisation et synchronisation : Le nœud déclairage Corsair CORE inclus permet des effets déclairage fantastiques avec les autres produits Corsair Link pris en charge. Extensible avec ventilateur QL140 RGB CO-9050099-WW
 - Pale de ventilateur de 140 mm faible bruit : Pale de ventilateur semi-transparente conçue pour fonctionner silencieusement tout en permettant de laisser passer votre éclairage RGB.
-- Contrôleur de liCUE Lighting Node CORE inclus : Contrôlez votre éclairage RGB via le logiciel CORSAIR iCUE avec ce contrôleur d’éclairage iCUE extrêmement compact.
+- Contrôle intelligent, possibilités infinies : Créez des effets de lumière animés saisissants via le logiciel CORSAIR iCUE pour donner vie à votre système grâce à un éclairage RGB dynamique.
+- Refroidissement de votre système : Vitesses de rotation impressionnantes allant jusqu’à 1 250 tr/min.
 - 68 LED RGB paramétrables individuellement : Quatre zones d’éclairage et 34 LED par ventilateur diffusant des couleurs envoûtantes et offrant des effets impressionnants sous tous les angles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

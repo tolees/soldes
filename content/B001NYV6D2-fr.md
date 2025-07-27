@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bouton à angle droit, tolérances de parallélité et de précision finement polies et ajustées
+- Famille : equerre et rapporteur
+- Selon din 8751
 - Avec entrées
 - Pour un travail précis et un contrle dans la construction de machines de précision
-- Selon din 8751
 - Essai et surfaces latérales finement polies et ajustées
-- Famille : equerre et rapporteur
-- Bouton à angle droit, tolérances de parallélité et de précision finement polies et ajustées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001NYV6D2{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - AMÉLIORE TES COMPÉTENCES – Débloque de nouvelles capacités incroyables et échange ton butin contre des bonus et des objets spéciaux.
-- AU-DELÀ DE LAVENTURE – Résous des énigmes complexes et affronte des ennemis mortels dans un monde vierge et hostile.
-- DÉCOUVRE DES SECRETS – Trouve des salles cachées, des trésors oubliés et des objets Jumanji à collectionner.
 - JOUE EN GROUPE – Accomplis les quêtes en solo ou en multijoueur local jusquà quatre joueurs.
+- DÉCOUVRE DES SECRETS – Trouve des salles cachées, des trésors oubliés et des objets Jumanji à collectionner.
+- AU-DELÀ DE LAVENTURE – Résous des énigmes complexes et affronte des ennemis mortels dans un monde vierge et hostile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C9QWYX6H{{</world>}}

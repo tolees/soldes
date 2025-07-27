@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Découvrez et explorez un Tokyo aussi mystique que magnifique et ses lieux iconiques comme le carrefour de Shibuya et biens dautres
 - Maniez des compétences paranormales et combattez une menace surnaturelle
 - Plongez dans linconnu, découvrez la vérité et sauvez la ville
-- "Metal Plate Edition" exclsuive Amazon
 - Profitez de la puissance et de toutes les fonctionnalités de la Playstation5
-- Découvrez et explorez un Tokyo aussi mystique que magnifique et ses lieux iconiques comme le carrefour de Shibuya et biens dautres
+- "Metal Plate Edition" exclsuive Amazon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RKB797N{{</world>}}

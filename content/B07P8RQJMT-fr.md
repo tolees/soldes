@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bretelles : sac à dos scolaire avec bretelles ajustables et rembourrées et une sangle de poitrine réglable avec ouverture rapide
-- Dimensions : 47 x 30 x 18 cm (volume : 25 litres)
 - Matière : 100 % polyester recyclé Matériau certifié Bluesign
-- Compartiments : sac à dos avec deux compartiments principaux, une petite poche frontale et une poche frontale plus petite, le tout avec fermeture éclair. Il dispose de deux poches latérales pour bouteille d’eau et d’une poche avec doublure polaire pour lunettes de soleil. Fond rembourré. La poche frontale est isotherme, pour garder la nourriture et les boissons au frais
+- Bretelles : sac à dos scolaire avec bretelles ajustables et rembourrées et une sangle de poitrine réglable avec ouverture rapide
 - Compartiment pour ordinateur portable : pochette rembourrée dans le grand compartiment (pour ordinateurs portables de 15 pouces maximum)
+- Dimensions : 47 x 30 x 18 cm (volume : 25 litres)
+- Compartiments : sac à dos avec deux compartiments principaux, une petite poche frontale et une poche frontale plus petite, le tout avec fermeture éclair. Il dispose de deux poches latérales pour bouteille d’eau et d’une poche avec doublure polaire pour lunettes de soleil. Fond rembourré. La poche frontale est isotherme, pour garder la nourriture et les boissons au frais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P8RQJMT{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition : 100 % polyester
 - Maintient au chaud
-- Évacuation optimisée de l’humidité
 - Toucher doux
+- Composition : 100 % polyester
+- Évacuation optimisée de l’humidité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CBLXDP2{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - NETTOYAGE EFFICACE DES DENTS : Ce dentifrice procure une excellente protection contre la plaque dentaire, préservant ainsi lhygiène buccale de manière optimale.
 - BLANCHEUR INSTANTANÉE : La pâte dentifrice Colgate Max White Optic combine des éclaircissants optiques et des particules nettoyantes qui éliminent la plaque et les taches dentaires, pour des dents visiblement plus blanches.
 - MODE DEMPLOI : Brossez-vous minutieusement les dents, deux fois par jour, pendant au moins deux minutes ou conformément aux recommandations dun professionnel de la santé bucco-dentaire. Ne convient pas à un enfant de moins de 7 ans.
 - UN SOURIRE ÉTINCELANT : Grâce à sa formule avancée aux effets cliniquement prouvés, Colgate Max White Optic nettoie efficacement les dents et les rend immédiatement plus blanches pour un sourire éclatant au quotidien.
-- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
-- Les informations ci-dessous sappliquent à chaque unité du pack
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJ2CN96Y{{</world>}}

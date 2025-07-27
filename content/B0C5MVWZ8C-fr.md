@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASSISTANT INTELLIGENT PAR LA VOIX : Contrôlez manuellement ou par la voix votre Arlo Pro 5 avec Alexa, Google Assistant, IFTTT et Samsung SmartThings (avec SmartHub); Gérez facilement les alertes depuis votre appareil connecté
-- ALARME DE PROTECTION: La caméra de surveillance Arlo PRO 5 vous alerte instantanément en cas de mouvements ou dévénements détectés; Vivez en toute confiance en sachant que vous serez averti et prêt pour toute éventualité à la maison
-- COMMUNICATION BIDIRECTIONNELLE: Parlez et écoutez en temps réel avec Arlo Pro 5; Surveillez et communiquez avec vos proches ou vos animaux de compagnie, et réagissez en cas de situations suspectes
-- BATTERIE DURÉE DE 8 MOIS : Une connexion 24/7 avec Arlo PRO 5 jusquà 8 mois avec une seule charge et sans besoin de câbles
-- ABONNEMENT ARLO SECURE : Stockage illimité dans le cloud jusquà 60 jours; Détection avancée : personnes, véhicules, animaux de compagnie et colis; Configuration et délimitation des zones dactivité pour moins de notifications; Comprend une protection contre le vol; Choisissez votre plan et annulez quand vous le souhaitez
 - VISION NOCTURNE EN COULEUR: La caméra de surveillance Wi-Fi sans fil PRO 5 dispose dune vision nocturne améliorée; Elle affiche des détails précis dans lobscurité totale, générant des images claires et en couleur pendant la nuit
+- ALARME DE PROTECTION: La caméra de surveillance Arlo PRO 5 vous alerte instantanément en cas de mouvements ou dévénements détectés; Vivez en toute confiance en sachant que vous serez averti et prêt pour toute éventualité à la maison
+- ABONNEMENT ARLO SECURE : Stockage illimité dans le cloud jusquà 60 jours; Détection avancée : personnes, véhicules, animaux de compagnie et colis; Configuration et délimitation des zones dactivité pour moins de notifications; Comprend une protection contre le vol; Choisissez votre plan et annulez quand vous le souhaitez
 - VIDÉO EN 2K ET HDR AVEC 160°: Caméra de surveillance avec une résolution vidéo élevée de 2K et une technologie HDR 100 fois meilleure que lœil humain; Large angle de 160° pour une couverture totale
-- SIRÈNE ET PROJECTEUR: Arlo PRO 5 est équipé dune sirène intégrée pour dissuader les intrus; Il dispose également dun projecteur qui éclaire jusquà 7 mètres de distance, activé par le mouvement ou manuellement
+- BATTERIE DURÉE DE 8 MOIS : Une connexion 24/7 avec Arlo PRO 5 jusquà 8 mois avec une seule charge et sans besoin de câbles
+- ASSISTANT INTELLIGENT PAR LA VOIX : Contrôlez manuellement ou par la voix votre Arlo Pro 5 avec Alexa, Google Assistant, IFTTT et Samsung SmartThings (avec SmartHub); Gérez facilement les alertes depuis votre appareil connecté
 - RÉSISTANCE ET DURABILITÉ : Une technologie avancée pour des performances optimales dans nimporte quel environnement; Résiste à la pluie, à la neige et à la chaleur intense
+- COMMUNICATION BIDIRECTIONNELLE: Parlez et écoutez en temps réel avec Arlo Pro 5; Surveillez et communiquez avec vos proches ou vos animaux de compagnie, et réagissez en cas de situations suspectes
+- SIRÈNE ET PROJECTEUR: Arlo PRO 5 est équipé dune sirène intégrée pour dissuader les intrus; Il dispose également dun projecteur qui éclaire jusquà 7 mètres de distance, activé par le mouvement ou manuellement
 - SANS ABONNEMENT Diffusion de la vidéo en direct de vos caméras, alertes de mouvement et conversation bidirectionnelle directement sur votre mobile. Associé à une station de base, le stockage local est également une option
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dimensions du produit : 43 x 26 x 7 cm ( L x l x H, étui de transport)
 - Comprend un coffret de 75 pièces contenant 7 outils d’entraînement, 17 tarauds (420 mm) intermédiaires (mesure impériale), 17 matrices hexagonales (mesure impériale), 17 tarauds (420 mm) intermédiaires (mesure métrique), 17 matrices hexagonales (mesure métrique) et un étui de rangement robuste
-- Les surfaces trempées, rectifiées avec précision et polies avec un fini satiné résistant à la rouille garantissent une résistance durable
 - Coffret de tarauds et forets ; idéal pour un filetage et un perçage rapides et faciles
+- Les surfaces trempées, rectifiées avec précision et polies avec un fini satiné résistant à la rouille garantissent une résistance durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JCNJBGV{{</world>}}

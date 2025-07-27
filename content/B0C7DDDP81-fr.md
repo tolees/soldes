@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Percez les secrets et mystères anciens d’un univers riche et mystique
-- Jouez à la fois Antea et Red, et utilisez magie, armes et pouvoirs spirituels pour combattre les forces surnaturelles
 - Caractéristique du studio réputé DON’T NOD, les choix moraux que vous prendrez affecteront de manière significative l’histoire, le monde et le destin de tous les personnages
 - Débloquez compétences et équipements afin de libérer toute la puissance des Banishers
+- Jouez à la fois Antea et Red, et utilisez magie, armes et pouvoirs spirituels pour combattre les forces surnaturelles
+- Percez les secrets et mystères anciens d’un univers riche et mystique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7DDDP81{{</world>}}

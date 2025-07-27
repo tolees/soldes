@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Forme de facteur</b>: 3,5 pouces
 - <b>Capacité disque dur</b>: 2 To
+- <b>Forme de facteur</b>: 3,5 pouces
 - <b>Interface</b>: SATA III
 - <b>Description du produit</b>: Toshiba - DT01ACA200
 - <b>Vitesse de rotation du disque dur</b>: 7200 tr/min

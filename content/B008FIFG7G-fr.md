@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Confection en nylon avec bandeau Omni-Wick respirant
-- Protection de nuque exceptionnellement étendue pour les longues journées sous un soleil de plomb
 - Chapeau qui évacue lhumidité et sèche rapidement, Couvre à la fois la tête et la nuque
 - Contenu : 1x Columbia Chapeau unisexe, Bora Bora Booney, Couleur : Collegiate Navy, Taille : O/S, Art. No.: 1447091
+- Protection de nuque exceptionnellement étendue pour les longues journées sous un soleil de plomb
 - Cordon de serrage ajustable et lien de réglage de tour de tête à larrière du chapeau pour permettre un ajustement parfait
 
 [🛒 Achète-le!!]({{< param buyurl >}})

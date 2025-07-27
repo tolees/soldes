@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilise linterface PCIE Gen4 x4 et répond à la norme NVME 1.4
 - Dissipateur thermique en aluminium et mécanisme de régulation thermique dynamique pour une plus grande stabilité
+- Utilise linterface PCIE Gen4 x4 et répond à la norme NVME 1.4
 - Jusquà 7 500 Mo/s en lecture ; 6 700 Mo/s en écriture
 - Mémoire flash 3D NAND, contrôleur 8 canaux et cache DRAM DDR4
 

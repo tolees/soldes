@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coffrets 5 forets verre technic
 - Queue hexa
+- Coffrets 5 forets verre technic
 - Ø3-4-5-6-8mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

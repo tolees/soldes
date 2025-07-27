@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajoutez une touche de fantaisie à votre intérieur grâce à cette lampe décorative inspirée du célèbre jeu Minecraft
 - Mesure environ 15x 15cm et fonctionne avec piles non incluses.
 - Contrairement aux Creepers du jeu, cette lampe nexplosera pas !
 - Idéal pour offrir un cadeau original aux fans de Minecraft
+- Ajoutez une touche de fantaisie à votre intérieur grâce à cette lampe décorative inspirée du célèbre jeu Minecraft
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084B4F1LZ{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise
+- Puissance max: 3500W
 - Câble HO5 VV-F section 3G1 mm² longueur 1, 5 m
 - Bloc multiprise 3 prises 16A + interrupteur fiche plate
-- Puissance max: 3500W
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FLS5BLI{{</world>}}

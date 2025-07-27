@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jusquà 140 160 heures denregistrement et de lecture 4K et Full HD (1080p) avec des capacités allant jusquà 256 Go
 - Jusquà 100 Mo/s en lecture et 40 Mo/s en écriture avec compatibilité de classe 10 et U3. La performance varie en fonction de la capacité.
 - Sécurise les données avec une garantie limitée jusquà 5 ans. La garantie varie en fonction de la capacité
 - Fiabilité conçue pour durer : imperméable, résistant aux chutes, aux températures, aux rayons X, aux aimants, à lusure
-- Jusquà 140 160 heures denregistrement et de lecture 4K et Full HD (1080p) avec des capacités allant jusquà 256 Go
 - Conçu spécifiquement pour les caméras de surveillance vidéo (caméras embarquées, caméras de surveillance et de sécurité, vidéosurveillance, caméras corporelles, etc.)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

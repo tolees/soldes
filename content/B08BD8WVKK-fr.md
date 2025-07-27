@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Convient aux yeux sensibles et aux porteurs de lentilles
+- Formule Waterproof
 - Application facile
 - Tracé et couleur intense
-- Formule Waterproof
 - Texture crémeuse enrichie en huile de jojoba et de coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

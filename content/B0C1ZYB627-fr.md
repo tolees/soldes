@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bon produit à utiliser
-- Bonne qualité
-- Bonne performance
 - Facile à utiliser
+- Bon produit à utiliser
+- Bonne performance
+- Bonne qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C1ZYB627{{</world>}}

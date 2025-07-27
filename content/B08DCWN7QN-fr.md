@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rangement pour le câble
-- Déplacement d’air jusqu ‘à 24 m / Flux dair puissant
-- Jusqu’à 80% d’économie d’énergie
+- Minuteur 1-12 heures
 - Télécommande
 - Circulation d’air dans toute la pièce
-- Minuteur 1-12 heures
+- Jusqu’à 80% d’économie d’énergie
+- Déplacement d’air jusqu ‘à 24 m / Flux dair puissant
+- Rangement pour le câble
 - Contrôle précis 99 vitesses / Contrôle tactile des vitesses
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sac à dos Pokémon, modèle evoli
-- Mini SAC à dos haute qualité sous licence officielle
 - Poches zippées, Bretelles réglables
+- Mini SAC à dos haute qualité sous licence officielle
+- Sac à dos Pokémon, modèle evoli
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JB99YTV{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boucle
-- Fermeture : Buckle
-- Fabriqué en Italie
 - 100% cuir bovin
-- Largeur bracelet 40 mm
+- Boucle
 - Instructions dEntretien: non lavable
+- Fabriqué en Italie
+- Largeur bracelet 40 mm
+- Fermeture : Buckle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XFNV2ZM{{</world>}}

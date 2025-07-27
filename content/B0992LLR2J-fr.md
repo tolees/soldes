@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plus dinformations prochainement
+- Plus dinformations prochainement
 - FIFA revient sur Nintendo Switch avec une version essentielle, incluant toutes les mises à jour des maillots, des joueurs et des clubs
-- Plus dinformations prochainement
-- Plus dinformations prochainement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0992LLR2J{{</world>}}

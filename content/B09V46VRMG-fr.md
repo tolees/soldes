@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puce Apple M1 avec Neural Engine
 - Haut-parleurs stéréo en mode paysage
+- Puce Apple M1 avec Neural Engine
+- Autonomie d’une journée
+- Touch ID pour l’authentification sécurisée et Apple Pay
 - Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
-- Disponible en bleu, mauve, rose, lumière stellaire et gris sidéral
+- Appareil photo grand‐angle 12 Mpx
+- Écran Liquid Retina 10,9 pouces1 avec True Tone, large gamme de couleurs P3 et revêtement antireflet
 - Jusqu’à 256 Go de stockage
 - Wi‐Fi 6 et réseaux de données cellulaires 5G
-- Appareil photo grand‐angle 12 Mpx
-- Touch ID pour l’authentification sécurisée et Apple Pay
-- Autonomie d’une journée
-- Écran Liquid Retina 10,9 pouces1 avec True Tone, large gamme de couleurs P3 et revêtement antireflet
+- Disponible en bleu, mauve, rose, lumière stellaire et gris sidéral
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09V46VRMG{{</world>}}

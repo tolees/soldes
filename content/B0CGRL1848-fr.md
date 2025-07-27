@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour la première fois, un doublage en Français !
 - Revivez la rivalité entre Naruto et Sasuke dans un seul jeu !
 - Le plus large choix de personnages jamais vu dans un jeu Naruto !
 - Profitez d’un mode histoire spécial développé exclusivement pour le jeu !
+- Pour la première fois, un doublage en Français !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CGRL1848{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ventilateur
 - Thermaltake Toughfan 14 2 Fan Pack
+- Ventilateur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QYRXD5T{{</world>}}

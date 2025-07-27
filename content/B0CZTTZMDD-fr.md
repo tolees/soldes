@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Keyboard inclus
 - Écran 3K ultra-clair Étalonnage professionnel des couleurs
 - Grand écran de 12,4 pouces
-- Taux de rafraîchissement fluide de 144Hz avec AdaptiveSync Plus fluide que jamais
+- Keyboard inclus
 - Écran 144Hz 3K 12,4" dune clarté exceptionnelle
+- Taux de rafraîchissement fluide de 144Hz avec AdaptiveSync Plus fluide que jamais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZTTZMDD{{</world>}}

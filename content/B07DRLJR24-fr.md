@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Numéros OE (à des fins de comparaison uniquement) : Audi : 5Q0 127 177, Seat : 5Q0 127 177, Skoda : 5Q0 127 177, VW : 5Q0 127 177.
 - Veuillez utiliser lidentification du véhicule en haut sur le côté pour confirmer la compatibilité avec votre véhicule. Toutes les restrictions doivent être respectées.
-- Longueur : 151 mm - Diamètre intérieur : 9,5 mm - Diamètre extérieur : 92,5 mm - Poids : 0,128 kg - Modèle de filtre : filtre - Modèle de filtre : sans séparateur deau.
 - Pièce de rechange originale Febi Bilstein – Solutions « Made in Germany ».
+- Longueur : 151 mm - Diamètre intérieur : 9,5 mm - Diamètre extérieur : 92,5 mm - Poids : 0,128 kg - Modèle de filtre : filtre - Modèle de filtre : sans séparateur deau.
 - Convient entre autres pour : Audi : A3 (8V), Seat : Leon (5F), Skoda : Octavia III (5E), VW : Golf 7 (5G), Golf 7 Variant (BA), Touran (5T), Tiguan 4motion (AD), Caddy 4 (SA), Golf 7 (BQ), Tiguan (AD).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entretien : Garanti lave-vaisselle
 - Matériau : Acier inoxydable
+- Entretien : Garanti lave-vaisselle
 - Poids : approx. 45 g
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

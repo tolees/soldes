@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finition Surjet
 - Nappe Ronde (0) 160 Cm Pvc Photoprint Marche Fermier
-- Lavage à 30° - Pas de séchage en machine - Pas de repassage
+- Finition Surjet
 - Dessus : 100% Polyamide Dessous : 100% Latex - Imprime
+- Lavage à 30° - Pas de séchage en machine - Pas de repassage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07MQZX8WR{{</world>}}

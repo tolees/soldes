@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En prime, un petit poster Matchbox !
-- Pourquoi cet article à moins d’emballage ? Nous avons longuement travaillé à réduire les espaces vides et les matériaux utilisés pour nos nouveaux emballages durables, minimisant le gaspillage et les émissions
-- Commencez votre collection de véhicules d’origine sous licence Matchbox en métal moulé en un instant !
-- Un superbe cadeau pour les enfants et les collectionneurs !
-- Magnifique pack de 20 véhicules Matchbox différents en métal !
 - Chaque véhicule est à l’échelle 1/64 et présente des détails réalistes, ainsi que des décorations authentiques.
+- Commencez votre collection de véhicules d’origine sous licence Matchbox en métal moulé en un instant !
+- Pourquoi cet article à moins d’emballage ? Nous avons longuement travaillé à réduire les espaces vides et les matériaux utilisés pour nos nouveaux emballages durables, minimisant le gaspillage et les émissions
+- Magnifique pack de 20 véhicules Matchbox différents en métal !
+- Un superbe cadeau pour les enfants et les collectionneurs !
+- En prime, un petit poster Matchbox !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NBHXEAV{{</world>}}

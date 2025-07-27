@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Pencil  2ème Génération '
-date: 2025-07-19 03:06:59
+date: 2025-07-26 22:45:48
 image: 'https://m.media-amazon.com/images/I/21UFKVTwngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Apple'
 buyurl: 'https://www.amazon.fr/dp/B07K2PK3BV/?tag=tolees0d-21'
 descuento: '20.13'
-average: '125.149999999999'
+average: '124.979166666666'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Connexions: Bluetooth
 - Compatibilité: iPad Pro 12,9 pouces (6ᵉ, 5ᵉ, 4ᵉ, 3ᵉ génération); iPad Pro 11 pouces (4ᵉ, 3ᵉ, 2ᵉ, 1ʳᵉ génération); iPad Air (5ᵉ, 4ᵉ génération), iPad mini (6ᵉ génération)
 - L’Apple Pencil se fixe de façon magnétique à l’iPad Pro et se recharge sans fil, pour être toujours prêt quand vous en avez besoin.
-- Connexions: Bluetooth
 - Le dernier Apple Pencil pour iPad Pro offre une expérience d’une qualité incomparable à tous ceux qui aiment dessiner, prendre des notes, crayonner ou annoter des documents.
 - Vous pouvez changer d’outil tout simplement en le touchant deux fois du bout du doigt.
 

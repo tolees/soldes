@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 7 bouteilles de potions : émerveillez vos amis en voyant les bouteilles de potions miniatures de différentes tailles et couleurs silluminent et brillent des couleurs des potions magiques quelles contiennent
 - 3 modes déclairage : une lumière chaude et constante, idéale pour une utilisation comme veilleuse dans une chambre à coucher ou comme lampe de table; des bouteilles aléatoires alternent avec une lueur légèrement croissante; un scintillement rapide qui produit un incroyable spectacle de lumière multicolore
 - Illuminez votre chambre et devenez un maître des potions. Inspiré par les nombreuses bouteilles de la classe de Severus Snape à Poudlard, chaque bouteille de potion est magnifiquement polie et étiquetée de manière unique (avec des délices tels que le « jus de bulbadox »)
+- 7 bouteilles de potions : émerveillez vos amis en voyant les bouteilles de potions miniatures de différentes tailles et couleurs silluminent et brillent des couleurs des potions magiques quelles contiennent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B085PS8RT9{{</world>}}

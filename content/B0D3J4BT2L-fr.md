@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A sophisticated unisex fragrance with floral and woody notes
-- A long-lasting and refined scent for everyday use
 - Rich and elegant, perfect for both men and women
+- A long-lasting and refined scent for everyday use
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D3J4BT2L{{</world>}}

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Baskets PUMA Smash
 - Semelle extérieure en caoutchouc
-- Tige en cuir souple
-- Inspiré du tennis. Un confort élégant pour tous les jours
 - Insert en mousse souple amovible
+- Inspiré du tennis. Un confort élégant pour tous les jours
+- Tige en cuir souple
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077M97VSW{{</world>}}

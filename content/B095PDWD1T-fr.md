@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise en charge de la technologie audio MQA et DSD64/128 natif:La technologie audio MQA est prise en charge par le convertisseur numérique/amplificateur équilibré portable DH80/DH80S de Hidizs, qui peut entièrement déplier le fichier MQA pour offrir un son exceptionnel.Résolution puissante, pour une haute fidélité à tout moment et en tout lieu
+- [Configuration Avancée] Avec 4 condensateurs, des oscillateurs à double cristal et des amplis op doubles RT6863C, le DH80S obtient plus de dynamique et une séparation plus agréable. Synchronisé avec le taux déchantillonnage de la piste en cours de lecture
 - ESS9281C PRO DAC Chip + Dual Op Amps RT6863C:Hidizs DH80/DH80S Portable Balanced DAC & AMP dispose dun ESS9281C PRO DAC chip avancé avec plus de gamme dynamique, une faible consommation dénergie, une distorsion ultra-faible, un bruit proche de 0, et supportant MQA. Les deux amplificateurs opérationnels internes indépendants RT6863C supportent jusquà 4 Vrms pour une sortie symétrique de 4,4 mm et jusquà 2 Vrms pour une sortie asymétrique de 3,5 mm.
 - Sélection de gain à 3 niveaux et puissance de sortie élevée : le DH80/DH80S Portable Balanced DAC & AMP dispose de trois réglages de gain (High, Medium, Low) pour une compatibilité élevée avec toutes sortes de casques HiFi. Le 4,4 mm symétrique peut alimenter facilement un casque supra-auriculaire de 150Ω avec sa sortie 210 mW+210 mW @32 Ω. Le DAC USB est compatible avec Windows 10, Mac OS, iPad OS, Android et iOS. Pour les utilisateurs iOS, le câble Lightning OTG doit être acheté séparément.
+- Prise en charge de la technologie audio MQA et DSD64/128 natif:La technologie audio MQA est prise en charge par le convertisseur numérique/amplificateur équilibré portable DH80/DH80S de Hidizs, qui peut entièrement déplier le fichier MQA pour offrir un son exceptionnel.Résolution puissante, pour une haute fidélité à tout moment et en tout lieu
 - Conception à adsorption magnétique et son inégalé avec un design minimaliste : Grâce à un aimant de haute qualité à lintérieur, la puissante adsorption magnétique permet au DH80/DH80S et à lAP80/AP80 Pro de se connecter de manière transparente et de se fixer en toute sécurité, avec une excellente unité. Les ports de connexion sont également bien protégés. Une plaque métallique adhésive est fournie.
-- [Configuration Avancée] Avec 4 condensateurs, des oscillateurs à double cristal et des amplis op doubles RT6863C, le DH80S obtient plus de dynamique et une séparation plus agréable. Synchronisé avec le taux déchantillonnage de la piste en cours de lecture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095PDWD1T{{</world>}}

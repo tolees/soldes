@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Met de LEGO Sonic the Hedgehog Sonics supersnelle uitdaging set kunnen kinderen vanaf 6 jaar een parcours bouwen om Sonic door hindernissen te sturen om de Badnik Moto bug te verslaan en Flicky te bevrijden
-- Deze LEGO Sonic the Hedgehog speelgoed set is een leuk verjaardagscadeau, kerstcadeau of zomaar cadeau voor kinderen, jongens en meisjes vanaf 6 jaar die van fantasierijk actiespel en games houden
-- Kinderen kunnen de bol laten draaien met Sonic erin om hem door het parcours te sturen, de obstakels omver te gooien, het schattige speelgoed dier te redden en de Chaosdiamant te verzamelen
-- De Sonic LEGO set bevat een snelheidsbol en een lanceerder om de Sonic the Hedgehog figuur over het parcours te laten racen, plus andere onderdelen zoals een DJ-set met luidsprekers en een relaxgedeelte met een ligstoel en parasol
-- Nadat kinderen Sonic door het parcours hebben gestuurd, kunnen ze doen alsof Sonic zich ontspant met zijn favoriete pittige hotdog en op zijn dj-set speelt
 - De set wordt geleverd met 3 Sonic the Hedgehog personages - Sonic, de iconische Badnik Moto Bug, Sonics vriend Flicky en veel accessoires voor rollenspel, waaronder ringen, een hotdog en een koelbox met een verfrissend drankje
+- Deze LEGO Sonic the Hedgehog speelgoed set is een leuk verjaardagscadeau, kerstcadeau of zomaar cadeau voor kinderen, jongens en meisjes vanaf 6 jaar die van fantasierijk actiespel en games houden
+- De Sonic LEGO set bevat een snelheidsbol en een lanceerder om de Sonic the Hedgehog figuur over het parcours te laten racen, plus andere onderdelen zoals een DJ-set met luidsprekers en een relaxgedeelte met een ligstoel en parasol
+- Met de LEGO Sonic the Hedgehog Sonics supersnelle uitdaging set kunnen kinderen vanaf 6 jaar een parcours bouwen om Sonic door hindernissen te sturen om de Badnik Moto bug te verslaan en Flicky te bevrijden
+- Kinderen kunnen de bol laten draaien met Sonic erin om hem door het parcours te sturen, de obstakels omver te gooien, het schattige speelgoed dier te redden en de Chaosdiamant te verzamelen
+- Nadat kinderen Sonic door het parcours hebben gestuurd, kunnen ze doen alsof Sonic zich ontspant met zijn favoriete pittige hotdog en op zijn dj-set speelt
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7CW1VW{{</world>}}

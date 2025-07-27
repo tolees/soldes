@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau : Plastique
+- Pour la gamme arbre à Chat Vesper
 - Les dimensions du colis de larticle ( L x B x H) en cm : 8.5 x 8.5 x 50.5
 - Tube sisal de remplacement
-- Pour la gamme arbre à Chat Vesper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CAFYYAE{{</world>}}

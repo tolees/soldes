@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Découvrez le tout nouveau mode Carrière Pilote et incarnez pour la première fois l’un des pilotes actuels de F1
 - Profitez d’un nouveau système de distinctions qui permet de suivre vos succès au fil des saisons, de réunions secrètes avec d’autres écuries, mais aussi de cinématiques et de répliques prononcées par les vrais pilotes lors des retransmissions de F1
 - Notre plus grande mise à jour de la physique et du comportement routier vous procure l’expérience de pilotage la plus authentique et immersive jamais ressentie dans un jeu F1, propulsée par le système de Comportement dynamique d’EA SPORTS
-- Découvrez le tout nouveau mode Carrière Pilote et incarnez pour la première fois l’un des pilotes actuels de F1
 - F1 24 intègre un tout nouveau système de suspensions cinétique, un modèle de pneus amélioré, une simulation aérodynamique plus détaillée, de nouveaux réglages moteur et des options de paramétrage étendues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

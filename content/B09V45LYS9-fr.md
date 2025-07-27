@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo grand‐angle 12 Mpx
-- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
-- Touch ID pour l’authentification sécurisée et Apple Pay
-- Jusqu’à 256 Go de stockage
-- Disponible en bleu, mauve, rose, lumière stellaire et gris sidéral
-- Puce Apple M1 avec Neural Engine
-- Haut-parleurs stéréo en mode paysage
 - Écran Liquid Retina 10,9 pouces1 avec True Tone, large gamme de couleurs P3 et revêtement antireflet
-- Wi‐Fi 6 et réseaux de données cellulaires 5G
+- Disponible en bleu, mauve, rose, lumière stellaire et gris sidéral
 - Autonomie d’une journée
+- Wi‐Fi 6 et réseaux de données cellulaires 5G
+- Haut-parleurs stéréo en mode paysage
+- Touch ID pour l’authentification sécurisée et Apple Pay
+- Puce Apple M1 avec Neural Engine
+- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Appareil photo grand‐angle 12 Mpx
+- Jusqu’à 256 Go de stockage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09V45LYS9{{</world>}}

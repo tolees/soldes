@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonnet pratique avec bord doux de largeur moyenne qui offre une bonne protection intégrale et peut également être replié pour que le chapeau tienne dans une poche lorsquil nest pas utilisé
 - Chapeau de soleil simple en G-1000 original, durable et résistant à leau
 - Logo Fjällräven en cuir sur le côté
+- Bonnet pratique avec bord doux de largeur moyenne qui offre une bonne protection intégrale et peut également être replié pour que le chapeau tienne dans une poche lorsquil nest pas utilisé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4KT9Y4M{{</world>}}

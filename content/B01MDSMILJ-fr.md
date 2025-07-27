@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col Rond
 - Couleur : Noir
-- Manche longue
 - Composition: 50%;Acrylique|50%;Polyester
+- Col Rond
+- Manche longue
 - Chaleur 3 (-5°C à 5°C)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DIMENSIONS : H35 x L39 x P33 cm. Poids : 9,9 kg
 - LAUTOCUISER QUI CROUSTILLE: Cuisez et croustillez avec la technologie TenderCrisp. Il suffit dalterner entre le couvercle à pression et le couvercle croustillant pour obtenir des plats parfaitement cuits et croustillant
-- 9 FONCTIONS DE CUISSON : Cuisson sous pression, Friture à lair, Cuisson lente, Vapeur, Cuisson au four/Rôtissage, Saisir/Sauter, Griller, Yaourt, Déshydrater
 - TAILLE DE LA FAMILLE : Avec une grande capacité de 7,5 litres, cuisinez facilement de délicieux repas, accompagnements, collations et desserts pour jusquà 6 personnes. Convient à un poulet rôti entier de 3 kg
 - CUISSON SOUS PRESSION : Jusquà 70% plus rapide que les méthodes de cuisson traditionnelles* (*Comparé à la cuisson lente, la cuisson à feu doux ou le braisage.)
-- DIMENSIONS : H35 x L39 x P33 cm. Poids : 9,9 kg
+- 9 FONCTIONS DE CUISSON : Cuisson sous pression, Friture à lair, Cuisson lente, Vapeur, Cuisson au four/Rôtissage, Saisir/Sauter, Griller, Yaourt, Déshydrater
 - COMPREND : Ninja Foodi MAX Multicuiseur (prise EU), Pot de cuisson antiadhésif de 7,5 L lavable au lave-vaisselle, Panier Cook & Crisp de 4,7 L, Guide de recettes créées par des chefs. Couleur : Acier brossé/Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stockage haute capacité jusquà 256 Go²
 - Design métallique ultra-compact et de qualité supérieure
+- Stockage haute capacité jusquà 256 Go²
 - Vitesses de transfert des données rapides, jusqu’à 200 Mo/s¹ en lecture
 
 [🛒 Achète-le!!]({{< param buyurl >}})

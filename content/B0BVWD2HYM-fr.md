@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étanchéité et résistance : Ces écouteurs sont conçus pour résister aux entraînements intenses en intérieur ou en extérieur, quelles que soient les conditions météo, grâce à la norme IPX5
-- Livraison: 1 x Écouteurs de sport sans fil JBL Endurance Run 2, 3 tailles d’embouts, 1 x 1 stabilisateur, 1 câble de recharge USB-C, 1 x guide de démarrage, couleur blanc
 - Agréable et esthétique : Le design ergonomique des Endurance Run 2 et leur technologie garantissent une grande sécurité tout en élégance, peu importe lintensité de votre entraînement
+- Livraison: 1 x Écouteurs de sport sans fil JBL Endurance Run 2, 3 tailles d’embouts, 1 x 1 stabilisateur, 1 câble de recharge USB-C, 1 x guide de démarrage, couleur blanc
+- Étanchéité et résistance : Ces écouteurs sont conçus pour résister aux entraînements intenses en intérieur ou en extérieur, quelles que soient les conditions météo, grâce à la norme IPX5
 - Pratique : Une télécommande à un bouton avec micro vous permet de passer des appels mains libres, pour rester concentré(e). Appuyez deux fois sur le bouton pour activer votre assistant vocal
 - Système FlipHook : Ce système de fixation des oreillettes vous permet de porter les écouteurs dans ou derrière l’oreille, pour un entraînement pratique et agréable
 

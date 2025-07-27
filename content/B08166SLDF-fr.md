@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nb de threads 12
+- Débridé Oui
+- Version PCI Express: PCIe 4.0
+- Fréquence de base 3.7GHz
 - Nb de cœurs du CPU 6 . Technologie de processeur pour les cœurs de processeur : FinFET TSMC 7 nm
 - Vitesse de mémoire maximale Up to 3200MHz DDR4
-- Débridé Oui
-- Fréquence de base 3.7GHz
-- Version PCI Express: PCIe 4.0
 - Prise en charge du système dexploitation: Windows 10 - Édition 64 bits, RHEL x86 64 bits, Ubuntu x86 64 bits
+- Nb de threads 12
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08166SLDF{{</world>}}

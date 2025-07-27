@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tweeter compensé de polyester imidique
-- Alentour: Hybride (caoutchouc et tissu)
+- Réponse de fréquence : 40-22 000 Hz
+- Aimant en ferrite
 - Capacité de puissance (puissance RMS), Puissance de crête de 250 W
 - Impédance de 4 ohms
-- Aimant en ferrite
-- Réponse de fréquence : 40-22 000 Hz
+- Alentour: Hybride (caoutchouc et tissu)
+- Tweeter compensé de polyester imidique
 - Niveau de pression sonore : 91 dB/W.m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

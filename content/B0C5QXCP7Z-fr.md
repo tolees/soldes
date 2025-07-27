@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RÉSISTANT AUX INTEMPÉRIES : la caméra extérieure sans fil Ring peut être placée sur une surface plane ou fixée au mur à lextérieur de votre maison.
-- ASSOCIEZ VOS APPAREILS: lapplication Ring vous permet de connecter lensemble de vos appareils, den régler les paramètres et dutiliser les modes pour activer ou désactiver vos appareils, que vous soyez à domicile ou à l’extérieur. Abonnement Ring Home requis, (vendu séparément).*
-- DESIGN POLYVALENT : conçue dans un souci de polyvalence, cette caméra de surveillance extérieure sans fil peut également être installée à lintérieur pour créer un système de surveillance adapté à vos besoins.
 - VIDÉO HD ET VISION NOCTURNE : créez votre propre système de surveillance avec la caméra extérieure sans fil (Stick Up Cam), une caméra de surveillance wifi qui peut être installée presque partout à lextérieur de votre maison.
-- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : sauvegardez vos vidéos enregistrées jusquà 180 jours pour les visionner à tout moment, recevez des alertes lorsque des personnes sont détectées et bien plus encore avec un abonnement Ring Home (vendu séparément)*.
-- VIDÉO EN DIRECT ET SYSTÈME AUDIO BIDIRECTIONNEL : voyez, entendez et parlez à vos visiteurs, suivez tout ce qui se passe à lextérieur et contrôlez votre système de surveillance à domicile depuis lapplication Ring.
-- INSTALLATION FACILE : caméra sur batterie rechargeable.
-- NOTIFICATIONS EN TEMPS RÉEL : avec la détection de mouvements réglable, recevez une notification directement sur votre smartphone, dès quun mouvement est détecté par votre caméra de surveillance extérieure.
 - ZONES DE DÉTECTION DE MOUVEMENTS PERSONNALISABLES : choisissez les lieux où votre caméra wifi détecte les mouvements à lextérieur, afin de ne recevoir que les notifications qui vous intéressent.
+- NOTIFICATIONS EN TEMPS RÉEL : avec la détection de mouvements réglable, recevez une notification directement sur votre smartphone, dès quun mouvement est détecté par votre caméra de surveillance extérieure.
+- DESIGN POLYVALENT : conçue dans un souci de polyvalence, cette caméra de surveillance extérieure sans fil peut également être installée à lintérieur pour créer un système de surveillance adapté à vos besoins.
+- RÉSISTANT AUX INTEMPÉRIES : la caméra extérieure sans fil Ring peut être placée sur une surface plane ou fixée au mur à lextérieur de votre maison.
+- VIDÉO EN DIRECT ET SYSTÈME AUDIO BIDIRECTIONNEL : voyez, entendez et parlez à vos visiteurs, suivez tout ce qui se passe à lextérieur et contrôlez votre système de surveillance à domicile depuis lapplication Ring.
+- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : sauvegardez vos vidéos enregistrées jusquà 180 jours pour les visionner à tout moment, recevez des alertes lorsque des personnes sont détectées et bien plus encore avec un abonnement Ring Home (vendu séparément)*.
+- ASSOCIEZ VOS APPAREILS: lapplication Ring vous permet de connecter lensemble de vos appareils, den régler les paramètres et dutiliser les modes pour activer ou désactiver vos appareils, que vous soyez à domicile ou à l’extérieur. Abonnement Ring Home requis, (vendu séparément).*
+- INSTALLATION FACILE : caméra sur batterie rechargeable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5QXCP7Z{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les appareils compatibles avec les cartes microSDXC. Format standard exFAT
 - Carte mémoire microSDXC avec adaptateur SD UHS-1 U3, A1, V30, 4K Ultra HD, classe 10 pour appareils photo, tablettes, smartphones et autres appareils
-- Parfait pour stocker des documents, des photos et des vidéos
+- Compatible avec les appareils compatibles avec les cartes microSDXC. Format standard exFAT
 - Remarque : vérifiez que le périphérique hôte peut accepter les cartes microSDXC et quil nest pas limité aux cartes microSDHC. La carte peut être formatée via PC/MAC.
 - Vitesse de lecture maximale de 90 Mo/s. Vitesse décriture maximale de 45 Mo/s. Les vitesses de transfert réelles dépendent de lenvironnement dutilisation, de léquipement informatique utilisé et dautres facteurs
+- Parfait pour stocker des documents, des photos et des vidéos
 - Fabriqué à Taiwan, imperméable, résistant aux chocs, aux rayons X et à la température
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

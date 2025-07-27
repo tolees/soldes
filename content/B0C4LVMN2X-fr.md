@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La tige en cuir de veau avec des coussinets en mousse souple vous permet de placer vos tirs avec précision
 - Pour une utilisation sur gazon court ou gazon artificiel
 - Confort rembourré
+- La tige en cuir de veau avec des coussinets en mousse souple vous permet de placer vos tirs avec précision
 - Une plaque redessinée et une tige raffinée font de la Legend 9 le plus léger Tiempo de tous les temps
 - Lacets élastiques
 

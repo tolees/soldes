@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UNE FORMULE EFFICACE : Ce dentifrice Elmex possède une formule à base de fluorure damines Olafluor qui renforce lémail dentaire et aide à reminéraliser les dents pour une prévention efficace des caries. Le tout sans colorants.
-- MODE DEMPLOI : Procédez à un brossage régulier, deux fois par jour, de préférence après les repas, pendant deux minutes. Pour plus defficacité, ce dentifrice peut être associé à la solution dentaire Elmex Sensitive Original.
-- DENTIFRICE ANTI-CARIES : Elmex dentifrice Anti-Caries Original possède une formule sans colorants spécialement conçue pour prévenir certains problèmes bucco-dentaires comme les caries, laccumulation de tartre, lirritation des gencives.
 - DES DENTS SAINES AVEC ELMEX : Marque N°1 recommandée par les dentistes, Elmex propose à ses consommateurs des produits dhygiène bucco-dentaire performants aux bienfaits scientifiquement prouvés.
 - MULTIACTION : Ce dentifrice Elmex lutte contre les caries et le tartre dentaire, reminéralise lémail, aide à protéger les dents contre la sensibilité dentaire et contribue à rétablir la blancheur naturelle des dents.
+- MODE DEMPLOI : Procédez à un brossage régulier, deux fois par jour, de préférence après les repas, pendant deux minutes. Pour plus defficacité, ce dentifrice peut être associé à la solution dentaire Elmex Sensitive Original.
+- DENTIFRICE ANTI-CARIES : Elmex dentifrice Anti-Caries Original possède une formule sans colorants spécialement conçue pour prévenir certains problèmes bucco-dentaires comme les caries, laccumulation de tartre, lirritation des gencives.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BFBPLGRN{{</world>}}

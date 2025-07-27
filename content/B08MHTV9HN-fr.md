@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- [Support] : Gigastone Limitée Garantie de 5 ans.
 - [Bonne Performance] : Exploite la technologie UHS-1 et Classe 10 qui est 2 fois plus vite que lordinaire carte SD en performance.
 - [Excellente Compatibilité] : Conforme aux normes SDHC (PC, Mac, etc).
-- [Support] : Gigastone Limitée Garantie de 5 ans.
 - [Haute Vitesse] : Vitesse de Transfert allant jusquà 80 Mo/s. parfaite pour les enregistrements vidéos Full HD, caméra, caméscope HD et DSLR.
 - [Environnement] : Imperméable, résistant aux chocs, à la température, aux rayons X et au magnétisme.
 

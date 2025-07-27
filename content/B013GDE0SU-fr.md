@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Reguliere
 - Classique
 - Accessoires pour conduits
+- Reguliere
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B013GDE0SU{{</world>}}

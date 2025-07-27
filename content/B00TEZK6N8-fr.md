@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Images affectives aux couleurs vives
-- Un premier jeu de 2 ans pour apprendre à trouver les oppositions pour les associer
-- Grandes pièces en carton solide pour une manipulation facile par un enfant autour de 3 ans
 - Au total 6 jeux progressifs pour découvrir les contraires en jouant seul ou à plus
 - Lenfant joue à associer un élément à son opposé
 - Développez son vocabulaire en apprenant à nommer et à décrire les images
+- Images affectives aux couleurs vives
+- Un premier jeu de 2 ans pour apprendre à trouver les oppositions pour les associer
+- Grandes pièces en carton solide pour une manipulation facile par un enfant autour de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TEZK6N8{{</world>}}

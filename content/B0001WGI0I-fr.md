@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC et de plastique de haute qualité. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts
 - DEVELOPPE LIMAGINATION Cet accessoire permet aux garçons comme aux filles de développer leur habileté manuelle, leur créativité et leur imagination. Pour plus dactions de jeu, connectez le garage aux rails et aux routes BRIO
 - UN CADEAU INTEMPOREL qui fera des heureux pour des heures de jeu et d’amusement seul ou à plusieurs ! Idéal pour compléter la collection BRIO World. Pour un anniversaire ou pour Noel ou une autre fête. Dès 3 ans
-- GARAGE A MULTIPLES NIVEAUX Ce garage dispose dun ascenseur pour accéder aux différents étages. Pour descendre, utilisez la rampe / toboggan ou bien descendez directement par la trappe en appuyant sur le bouton et observez comment la voiture tombe avec précision sur le wagon de transport de voiture
 - TOUT EST COMPATIBLE Agrandissez votre circuit de train en bois en ajoutant des rails supplémentaires, des trains à pile, des wagons à thème ou des accessoires amusants (passage à niveau, gare, tunnel, pont) du BRIO World. Compatible avec les autres marques
+- HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC et de plastique de haute qualité. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts
+- GARAGE A MULTIPLES NIVEAUX Ce garage dispose dun ascenseur pour accéder aux différents étages. Pour descendre, utilisez la rampe / toboggan ou bien descendez directement par la trappe en appuyant sur le bouton et observez comment la voiture tombe avec précision sur le wagon de transport de voiture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0001WGI0I{{</world>}}

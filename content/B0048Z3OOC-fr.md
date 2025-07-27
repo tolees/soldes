@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 x 17 ml lavages
-- À base deau peintures acryliques
 - Flacon pipette de 17 ml
+- À base deau peintures acryliques
+- 8 x 17 ml lavages
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0048Z3OOC{{</world>}}

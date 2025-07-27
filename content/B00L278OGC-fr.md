@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cuve 1.2L amovible en aluminium
-- Puissance 135W
 - Ecran électronique
 - Turbine à glace
+- Puissance 135W
 - Corps en plastique aves habillage inox
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

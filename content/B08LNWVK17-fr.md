@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Léger, dur et respirant
-- 100% Polyester
-- Tissu en tricot texturé
-- Les mèches matérielles transpirent et sèchent vraiment vite
 - Poches sécurisées et zippées
+- Léger, dur et respirant
+- Tissu en tricot texturé
+- 100% Polyester
+- Les mèches matérielles transpirent et sèchent vraiment vite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08LNWVK17{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Autonomie : prolongation de l’autonomie grâce à la technologie Power Glass - Autonomie infinie en mode montre connectée
-- Fonctions de sécurités : LiveTrack / Live Events, détection d’incidents et demande d’assistance
-- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
 - Fonctions connectées : Smart Notifications, Garmin Pay et personnalisation avec Connect IQ
+- Plus de 30 profils d’activités intégrés pour s’adapter à toutes les passions
+- Fonctions de sécurités : LiveTrack / Live Events, détection d’incidents et demande d’assistance
 - Fonction de navigation** : suivi d’un tracé et création de parcours
 
 [🛒 Achète-le!!]({{< param buyurl >}})

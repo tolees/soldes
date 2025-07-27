@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dès 8ans
-- Choisis une silhouette dessine les tenues avec les pochoirs et donne leur du volume
 - Nombreux accessoires inclus tissu adhésif plumes paillettes feutrine rubans feutres crayons de couleurs aquarella blés ciseaux taille-crayon
+- Choisis une silhouette dessine les tenues avec les pochoirs et donne leur du volume
 - Age range description: enfants
+- Dès 8ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DD3S3K5{{</world>}}

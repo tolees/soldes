@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pince à épiler, pour une épilation de précision
+- Suffisamment compacte pour vous accompagner partout
 - Sabot pour sourcils de 2 et 4 mm, pour une longueur uniforme
 - Tête de tondeuse 26 mm pour tailler facilement les poils sur toutes les petites zones du corps
-- Suffisamment compacte pour vous accompagner partout
-- Pince à épiler, pour une épilation de précision
 - Tête de tondeuse 8 mm pour tailler facilement les poils sur le visage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Chaque jeu de construction peut être combiné avec le reste de la gamme Mechanics Gravity; Le système "Easy Combo" permet de construire plusieurs modèles et de les relier en seulement 3 mouvements
 - Apprends les bases du magnétisme et utilise-les pour créer des réactions magnétiques contrôlées; Stimule la créativité, limagination et lintellect
-- Construis des modèles mobiles entraînés par les forces invisibles dattraction et de répulsion magnétiques
-- Convient aux enfants âgés de 7 ans et plus; Composé de 160 pièces
 - Créer un système de transmission de mouvement sans contact en utilisant les forces magnétiques dattraction et de répulsion
+- Construis des modèles mobiles entraînés par les forces invisibles dattraction et de répulsion magnétiques
 - La série Geomag, récompensée par de nombreux prix, a permis aux enfants de tous âges de développer leur imagination et leur curiosité grâce à la science des constructions magnétiques
+- Convient aux enfants âgés de 7 ans et plus; Composé de 160 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B094N7GCRM{{</world>}}

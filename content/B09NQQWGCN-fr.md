@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Primaloft
 - Rembourrage :
-- Bonne prise en main
 - Extra chaud
 - Légères
+- Bonne prise en main
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQQWGCN{{</world>}}

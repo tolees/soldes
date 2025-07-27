@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LA DERMO PROTECTION POUPINA : adapté à la peaux sensibles des enfants à partir de 10 ans Anti-odeurs & anti-humidité 48h + anti-taches jaunes & blanches
+- LA SÉCURITÉ POUPINA : certifié bio, 100% naturel, 0 alcool et 0 chlorohydrate d’alu Parfum gourmand de fleur doranger 100% naturel
 - Les laboratoires Poupina, experts du soin des bébés et des enfants, développent des produits de pharmacie depuis 1930 Nous soutenons lassociation le Rire médecin
 - Formule enrichie en pierre d’alun bio antibactérienne et astringente, en poudre de bambou bio qui absorbe l’humidité
-- LA SÉCURITÉ POUPINA : certifié bio, 100% naturel, 0 alcool et 0 chlorohydrate d’alu Parfum gourmand de fleur doranger 100% naturel
-- LA DERMO PROTECTION POUPINA : adapté à la peaux sensibles des enfants à partir de 10 ans Anti-odeurs & anti-humidité 48h + anti-taches jaunes & blanches
 - LECO RESPONSABILITÉ POUPINA : flacon 100% recyclable, formule biodégradable, vegan, cruelty free Fabriqué en France Entrepôt et usine green (médaille RSE EcoVadis)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

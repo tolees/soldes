@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Nord 2T dispose du même appareil photo avant de 32 MP que le OnePlus 10 Pro, avec un algorithme de correction de flou pour que les tremblements ne gâchent pas vos prises de vue.
-- OxygenOS 12.1 - une meilleure gestion des tâches simultanées, un lancement plus rapide des applis, une consommation dénergie améliorée et un affichage plus fluide de la galerie dès que vous allumez votre nouveau Nord 2T.
-- La prise en charge de la 5G peut varier selon lopérateur. Renseignez-vous auprès de votre opérateur pour plus dinformations.
 - La charge la plus rapide de tous les téléphones Nord - SUPERVOOC 80 W. Elle permet à la batterie de 4500 mAh datteindre une autonomie dune journée en 15 minutes, soit 120 % plus vite que le Nord original.
-- Processeur MediaTek Dimensity 1300 - Compatible 5G et améliore tout, du jeu aux performances graphiques et à la vitesse de lancement des applications, grâce au nouvel HyperEngine 5.0 de MediaTek.
 - Appareil photo premium Sony IMX766 de 50 MP + OIS, 120° Ultra grand angle 8 Mpx et Mono 2 Mpx - capte 56 % de lumière en plus pour des photos immaculées et colorées, même en cas de faible éclairage.
+- La prise en charge de la 5G peut varier selon lopérateur. Renseignez-vous auprès de votre opérateur pour plus dinformations.
+- Le Nord 2T dispose du même appareil photo avant de 32 MP que le OnePlus 10 Pro, avec un algorithme de correction de flou pour que les tremblements ne gâchent pas vos prises de vue.
 - Écran AMOLED FHD+ de 6,43 pouces à 90 Hz - Parfaitement fluide et prend en charge la technologie HDR10+ pour que vos séances de visionnage Amazon Prime, Hulu, et YouTube soient encore plus colorées.
+- Processeur MediaTek Dimensity 1300 - Compatible 5G et améliore tout, du jeu aux performances graphiques et à la vitesse de lancement des applications, grâce au nouvel HyperEngine 5.0 de MediaTek.
+- OxygenOS 12.1 - une meilleure gestion des tâches simultanées, un lancement plus rapide des applis, une consommation dénergie améliorée et un affichage plus fluide de la galerie dès que vous allumez votre nouveau Nord 2T.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07XXNMR8D{{</world>}}

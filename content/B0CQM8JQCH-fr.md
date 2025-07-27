@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DE LAMUSEMENT POUR CHAQUE HÉROS : Fonctionnalités accessibles : commandes simples et interactions facilitées.
 - Lunion de ces enfants extraordinaires fait leur force. Utilise leurs capacités uniques, de la super vitesse aux boules de neige, pour arrêter les méchants. Récupère des gemmes, découvre des secrets, débloque des masques cachés et plus encore.
 - CONDUIS ET DÉCOUVRE : Terre, ciel ou mer, le Pyjarpenteur saura y amener les Power Heroes.
-- SOIS EXTRAORDINAIRE : Utilise des capacités uniques, récupère des gemmes, découvre des secrets, débloque des masques cachés et plus encore.
 - COOPÈRE : Rejoins Yoyo, Bibou, Gluglu, Flamme rouge, Hector Étoile, Ourski, Lilifée et Bastet.
+- DE LAMUSEMENT POUR CHAQUE HÉROS : Fonctionnalités accessibles : commandes simples et interactions facilitées.
+- SOIS EXTRAORDINAIRE : Utilise des capacités uniques, récupère des gemmes, découvre des secrets, débloque des masques cachés et plus encore.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CQM8JQCH{{</world>}}

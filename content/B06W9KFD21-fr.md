@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cartouche originale de haute qualité Brother
 - Imprime 4 000 pages en conformité avec les normes ISO/IEC 19798
+- Cartouche originale de haute qualité Brother
 - Évite le gaspillage pour vous économiser du papier, du temps et de largent
 
 [🛒 Achète-le!!]({{< param buyurl >}})

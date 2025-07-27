@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROPRIETES L’HUILE ESSENTIELLE DE CITRONNELLE DE JAVA BIO: lhuile essentielle de citronnelle de Java est reconnaissable par sa odeur citronnée et légèrement poivrée. Elle est reconnue pour ses propriétés anti-moustiques et assainissantes, elle est principalement utilisée en saison estivale
-- CONSEILS D’UTILISATIONS* : Se référer à la notice ou demandez conseil à votre pharmacien; Cette huile essentielle ne peut être utilisée chez les enfants de moins de 7 ans, chez la femme enceinte ou allaitante, chez les personnes allergiques, asthmatiques ou Epileptiques sans avis d’un médecin
-- LE NATUREL AU CŒUR DUN VÉRITABLE SAVOIR-FAIRE: Notre engagement constant est garant de produits d’une qualité la plus pure et naturelle possible; Puressentiel propose une gamme de plus de 300 références à l’efficacité et la tolérance démontrées par 500 études et tests
-- *RETROUVEZ toute l’expertise et les conseils de la fondatrice Isabelle Pacchioni dans son dernier livre « Huiles essentielles, Huiles végétales & Hydrolats « mes indispensables » bien les connaître, bien les utiliser »
 - LADN DE PURESSENTIEL : Une gamme de 55 huiles essentielles indispensables pour le bien-être au quotidien de toute la famille; Elles sont HEBBD, 100% pures et 100% naturelles, 100% totales et 100% intégrales
+- CONSEILS D’UTILISATIONS* : Se référer à la notice ou demandez conseil à votre pharmacien; Cette huile essentielle ne peut être utilisée chez les enfants de moins de 7 ans, chez la femme enceinte ou allaitante, chez les personnes allergiques, asthmatiques ou Epileptiques sans avis d’un médecin
+- *RETROUVEZ toute l’expertise et les conseils de la fondatrice Isabelle Pacchioni dans son dernier livre « Huiles essentielles, Huiles végétales & Hydrolats « mes indispensables » bien les connaître, bien les utiliser »
+- PROPRIETES L’HUILE ESSENTIELLE DE CITRONNELLE DE JAVA BIO: lhuile essentielle de citronnelle de Java est reconnaissable par sa odeur citronnée et légèrement poivrée. Elle est reconnue pour ses propriétés anti-moustiques et assainissantes, elle est principalement utilisée en saison estivale
+- LE NATUREL AU CŒUR DUN VÉRITABLE SAVOIR-FAIRE: Notre engagement constant est garant de produits d’une qualité la plus pure et naturelle possible; Puressentiel propose une gamme de plus de 300 références à l’efficacité et la tolérance démontrées par 500 études et tests
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B006IFFOAM{{</world>}}

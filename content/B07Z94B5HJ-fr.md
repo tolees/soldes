@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MEMORIA DDR4 3600 16GB C16 GSKILL RIPV K2
+- MEMORIA DDR4 3600 16GB C16 GSKILL RIPV K2
 - 2 ans
-- MEMORIA DDR4 3600 16GB C16 GSKILL RIPV K2
 - G.Skill
-- MEMORIA DDR4 3600 16GB C16 GSKILL RIPV K2
 - MEMORIA DDR4 3600 16GB C16 GSKILL RIPV K2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

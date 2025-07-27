@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Combattez des ennemis épouvantables à laide dun mélange viscéral de combat à lépée et de magie personnalisable.
 - Découvrez la vérité qui se cache derrière le monde de nier et préparez-vous à tout remettre en question au cours de cette histoire sombre et sinueuse.
 - Une bande originale emblématique et fascinante réenregistrée par le compositeur de nier: automata, keiichi okabe.
 - Voyagez à travers un monde en ruine, ravagé par la maladie et de monstrueuses horreurs aux côtés dun groupe dalliés improbables.
-- Combattez des ennemis épouvantables à laide dun mélange viscéral de combat à lépée et de magie personnalisable.
 - Personnalisez les sorts, les compétences, et les armes de votre personnage grce au pouvoir des qualificatifs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

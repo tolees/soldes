@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions du toboggan : 13 x 8 x 9 cm (LxPxH). Dimensions du plateau : 12 x 6 x 10 cm (LxPxH)
 - Le toboggan ainsi que la plateforme de réception peuvent être fixés aux parois de la baignoire à laide des ventouses
-- Pêcher, attraper, samuserAvec le grand toboggan PLAYMOBIL et les animaux marins, une bonne dose de joie garantie
-- Mettez dabord les poissons dans la baignoire puis repêchez-les à laide de lépuisette. Une fois que toutes les créatures marines ont été attrapées, elles peuvent glisser dans le toboggan
+- Dimensions du toboggan : 13 x 8 x 9 cm (LxPxH). Dimensions du plateau : 12 x 6 x 10 cm (LxPxH)
 - Accompagnez votre enfant et faites-lui découvrir la pêche avec lépuisette
+- Mettez dabord les poissons dans la baignoire puis repêchez-les à laide de lépuisette. Une fois que toutes les créatures marines ont été attrapées, elles peuvent glisser dans le toboggan
+- Pêcher, attraper, samuserAvec le grand toboggan PLAYMOBIL et les animaux marins, une bonne dose de joie garantie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09WF4LHXT{{</world>}}

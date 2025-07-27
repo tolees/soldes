@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stockage local : permet de stocker jusquà 256 Go de vidéo QHD 2K localement sur une carte microSD (non incluse), offrant ainsi un accès pratique à vos vidéos
-- Polychrome - Vision nocturne - Diffusez une vidéo colorée même la nuit
-- Vision nocturne à la lumière des étoiles : offre une vision stable avec plus de détails, même à la lumière des étoiles
-- Réseau filaire ou sans fil : connectez votre caméra au réseau via Ethernet ou WiFi pour une installation plus flexible
 - Tapo Care est un service payant de stockage dans le cloud et de maison intelligente. Il est possible de tester gratuitement pendant 30 jours avant le début de labonnement payant. Vous pouvez choisir entre 2 options dabonnement : Basic : à partir de 3,49€ par mois et Premium : 10,49€ par mois
+- Vision nocturne à la lumière des étoiles : offre une vision stable avec plus de détails, même à la lumière des étoiles
 - Détection de mouvement et notifications : vous avertit lorsque la caméra détecte un mouvement
+- Polychrome - Vision nocturne - Diffusez une vidéo colorée même la nuit
+- Réseau filaire ou sans fil : connectez votre caméra au réseau via Ethernet ou WiFi pour une installation plus flexible
+- Stockage local : permet de stocker jusquà 256 Go de vidéo QHD 2K localement sur une carte microSD (non incluse), offrant ainsi un accès pratique à vos vidéos
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098TVZ6TS{{</world>}}

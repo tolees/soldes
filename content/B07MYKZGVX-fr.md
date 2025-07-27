@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vitesse de rotation du disque dur: 5400 tr/min
 - Capacité disque dur: 6000 Go
 - Western Digital Blue. Taille du disque dur: 3.5"
-- Vitesse de rotation du disque dur: 5400 tr/min
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MYKZGVX{{</world>}}

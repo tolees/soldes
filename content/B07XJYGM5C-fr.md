@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transfert multi-stream; Windows: 3 sorties simultanément, avec HDMI 4K 30 Hz, DisplayPort 4K - 30 Hz et VGA 1080p - 60 Hz; Macintosh: 3 sorties simultanément, avec HDMI 1080p 60 Hz, DisplayPort 1080p - 60 Hz et VGA 1080p - 60 Hz
-- Compatibilité HDMI: Résolution vidéo Ultra HD jusquà 4K et 30 Hz; Prend en charge HDMI 1.4 et DisplayPort Alternative Mode sur USB-C; HDCP 2.2 Compatible
-- Compatibilité VGA: Résolution vidéo Full HD jusquà 1080p à 60 Hz
 - Compatibilité DisplayPort: Résolution vidéo Ultra HD jusquà 4K et 60 Hz; DisplayPort 1.2 (en); Mode double DisplayPort (DPMD)
+- Compatibilité VGA: Résolution vidéo Full HD jusquà 1080p à 60 Hz
 - USB Type-C 3.0 avec Installation simple: Il suffit de brancher et de jouer, aucun logiciel requis; La conception petite et compacte le rend facile à emporter avec vous partout où vous allez
+- Compatibilité HDMI: Résolution vidéo Ultra HD jusquà 4K et 30 Hz; Prend en charge HDMI 1.4 et DisplayPort Alternative Mode sur USB-C; HDCP 2.2 Compatible
+- Transfert multi-stream; Windows: 3 sorties simultanément, avec HDMI 4K 30 Hz, DisplayPort 4K - 30 Hz et VGA 1080p - 60 Hz; Macintosh: 3 sorties simultanément, avec HDMI 1080p 60 Hz, DisplayPort 1080p - 60 Hz et VGA 1080p - 60 Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XJYGM5C{{</world>}}

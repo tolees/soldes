@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synthetic
 - Cuir
+- Synthetic
 - Plat
 - Enfiler
 

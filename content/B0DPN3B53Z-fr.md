@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce restaurant extérieur pourra rester des années entières dans votre jardin grâce à sa structure très résistante alliant murs latéraux en plastique soufflé et façades injectées, et son traitement anti-UV qui garantit une certaine solidité et une meilleure tenue des couleurs dans le temps !
-- Entrez dans lunivers de la S. Life Chef House avec Smoby ! Cette maison regroupant des fonctions liées à la cuisine et à la marchande permettra à votre enfant et ses amis de préparer les commandes de leurs clients, les servir, et encaisser largent comme un véritable restaurant extérieur !
-- A partir de 2 ans - Fabrication française. Contient du plastique recyclé.
-- La cabane est composée dun portillon, et de 2 fenêtres avec 4 volets battants : une fois la journée terminée votre petit pourra alors fermer les volets ! De nombreuses fonctions de jeu sont incluses : 1 frigo, 1 four, 1 gazinière avec des flammes rétractables, 1 évier avec 1 robinet, 1 caisse enregistreuse avec un tiroir-caisse et 1 lecteur de carte bancaire, et 2 étagères de rangement afin de ranger les accessoires. Des centaines dhistoires pourront être imaginées entre petits copains !
 - De nombreux accessoires sont inclus dont des aliments sucrés et salés, des boissons, des couverts, des ustensiles de cuisine, une carte bancaire et des tickets, une salière et un poivrier cric crac, une poêle pour faire sauter les crêpes, des sauces Ketchup et Moutarde, ... 2 ardoises amovibles sont également fournies afin que votre enfant puisse écrire le menu et les horaires douverture de la Chef House. Elles peuvent se fixer sur les volets de la devanture de la maison.
+- A partir de 2 ans - Fabrication française. Contient du plastique recyclé.
+- Ce restaurant extérieur pourra rester des années entières dans votre jardin grâce à sa structure très résistante alliant murs latéraux en plastique soufflé et façades injectées, et son traitement anti-UV qui garantit une certaine solidité et une meilleure tenue des couleurs dans le temps !
+- La cabane est composée dun portillon, et de 2 fenêtres avec 4 volets battants : une fois la journée terminée votre petit pourra alors fermer les volets ! De nombreuses fonctions de jeu sont incluses : 1 frigo, 1 four, 1 gazinière avec des flammes rétractables, 1 évier avec 1 robinet, 1 caisse enregistreuse avec un tiroir-caisse et 1 lecteur de carte bancaire, et 2 étagères de rangement afin de ranger les accessoires. Des centaines dhistoires pourront être imaginées entre petits copains !
+- Entrez dans lunivers de la S. Life Chef House avec Smoby ! Cette maison regroupant des fonctions liées à la cuisine et à la marchande permettra à votre enfant et ses amis de préparer les commandes de leurs clients, les servir, et encaisser largent comme un véritable restaurant extérieur !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPN3B53Z{{</world>}}

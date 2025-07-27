@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les systèmes brevetés Geox sent la respirabilité de la semelle extérieure, assurant au pied une sensation de bien-être
-- Chaussures légères pour une marche toujours synonyme de confort, tout au long de la journée
-- Largeur du colis de larticle: 160 mm
-- Amorti optimal qui offre protection et absorption des impacts et des sollicitations
-- Longueur du colis de larticle: 250 mm
 - Hauteur du colis de larticle: 100 mm
+- Chaussures légères pour une marche toujours synonyme de confort, tout au long de la journée
+- Amorti optimal qui offre protection et absorption des impacts et des sollicitations
+- Les systèmes brevetés Geox sent la respirabilité de la semelle extérieure, assurant au pied une sensation de bien-être
+- Largeur du colis de larticle: 160 mm
+- Longueur du colis de larticle: 250 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083RQD5GL{{</world>}}

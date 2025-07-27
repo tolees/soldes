@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 60 % coton, 40 % polyester
-- Logo classique de la marque sur le devant
-- Manches longues
-- Poche kangourou
-- Tissu polaire doux et confortable pour un porté ajusté et confortable au quotidien
-- Capuche
 - Poignets et ourlet côtelés
+- Logo classique de la marque sur le devant
+- 60 % coton, 40 % polyester
+- Poche kangourou
+- Capuche
+- Manches longues
+- Tissu polaire doux et confortable pour un porté ajusté et confortable au quotidien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086Y2GKKQ{{</world>}}

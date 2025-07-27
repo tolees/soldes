@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
-- Ampoule LED longue durée de vie
 - Meilleur pour votre portefeuille et pour la planète
+- Ampoule LED longue durée de vie
 - Retrouvez la lumière blanche et chaude des ampoules à incandescence
 - Éclairage instantané, dès lallumage
+- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HTWMQR7{{</world>}}

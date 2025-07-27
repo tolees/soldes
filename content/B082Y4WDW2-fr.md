@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lampe opératoire
-- Puissance: 1200W
-- Alimentation: AC 230V ~ 50 Hz
 - Minuterie 5 minutes avec signal acoustique
-- Thermostat réglable jusquà 400c
-- Double résistance au chauffage dans lacier blindé
-- Plaque en pierre réfractaire (ø 31 cm)
 - Palette en aluminium pour pizza et livres de recettes inclus
+- Alimentation: AC 230V ~ 50 Hz
+- Puissance: 1200W
+- Thermostat réglable jusquà 400c
+- Plaque en pierre réfractaire (ø 31 cm)
+- Lampe opératoire
+- Double résistance au chauffage dans lacier blindé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082Y4WDW2{{</world>}}

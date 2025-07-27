@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le 1er gel douche Men Expert Barber Club enrichi à lhuile essentielle de bois de cèdre pour nettoyer, hydrater et adoucir
 - Résultat : parfaitement propre de la tête aux pieds
+- Le 1er gel douche Men Expert Barber Club enrichi à lhuile essentielle de bois de cèdre pour nettoyer, hydrater et adoucir
 - Une formule à appliquer sur la barbe, le corps et les cheveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

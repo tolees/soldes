@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un grand coffre de rangement
-- Un sommier à lattes 180x200 inclus
 - Un revêtement en tissu gris clair sobre et tendance
+- Un sommier à lattes 180x200 inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLSQ9P7X{{</world>}}

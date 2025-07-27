@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU DENIGMES : Faites deviner les énigmes en utilisant les cartes transparentes. Vous pouvez les disposer comme vous le souhaitez, les assembler, les superposer et même des faire bouger. Mais attention ! Vous devez rester silencieux et vous ne pouvez pas mimer avec vos doigts.
 - IDEE CADEAU : Un jeu parfait pour les adultes et pour les enfants à partir de 12 ans !
 - JEU DAMBIANCE : Imagine est un jeu dambiance qui vous demandera dutiliser votre imagination !
-- REJOUABILITE : Plus de 1000 énigmes à faire deviner ! Des possibilités infinies ! Exprimez-vous, tout est permis !
 - JEU DIMAGINATION : 60 cartes transparentes sont au service de votre créativité pour faire deviner aux autres joueurs des films, lieux, objets, personnages… Superposez, assemblez et même animez les cartes !
+- JEU DENIGMES : Faites deviner les énigmes en utilisant les cartes transparentes. Vous pouvez les disposer comme vous le souhaitez, les assembler, les superposer et même des faire bouger. Mais attention ! Vous devez rester silencieux et vous ne pouvez pas mimer avec vos doigts.
+- REJOUABILITE : Plus de 1000 énigmes à faire deviner ! Des possibilités infinies ! Exprimez-vous, tout est permis !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DGLSPZZ{{</world>}}

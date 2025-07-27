@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec le polycarbonate et les gicleurs éventail
-- Pour le circuit lave-glace en été
 - Contenu: 250ml
+- Pour le circuit lave-glace en été
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00295CYNU{{</world>}}

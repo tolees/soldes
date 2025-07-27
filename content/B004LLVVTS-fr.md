@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le cadeau idéal pour les petits explorateurs !
+- En avant les voyages avec lautocar 1.2.3 PLAYMOBIL !
 - Les valises peuvent se glisser dans les compartiments de lautocar (jeu de formes)
 - Les PLAYMOBIL 1.2.3 constituent un excellent support pour aborder les premiers apprentissages
-- En avant les voyages avec lautocar 1.2.3 PLAYMOBIL !
-- Le cadeau idéal pour les petits explorateurs !
 - Quatre personnages et un autocar de voyage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

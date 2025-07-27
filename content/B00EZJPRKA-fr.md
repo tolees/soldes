@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- revêtement qui réduit le taux de réflexion du spectre visible de 50 % ou plus que le multirevêtement traditionnel
 - 2AL , capuchon dobjectif, étui
 - Idéal pour les lentilles grand angle et les photographies équivalentes à une longueur focale de 32 mm Revêtement en aluminium usiné de haute qualité
-- DA 1
-- HD TAX
 - Le diaphragme à iris rond est utilisé pour assurer la création dun effet arrondi doux (bokeh) pour léclairage, la brillance des surfaces deau et dautres sources de projection
-- 5 mm F3
 - Une nouvelle génération de multi
+- revêtement qui réduit le taux de réflexion du spectre visible de 50 % ou plus que le multirevêtement traditionnel
+- 5 mm F3
+- HD TAX
+- DA 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00EZJPRKA{{</world>}}

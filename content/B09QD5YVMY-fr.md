@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application : Etape 1. Shampooing solide : Appliquez sur cheveux mouillés pour faire mousser des racines jusquaux pointes puis rincez, Rangez dans une boîte après utilisation, Etape 2. Après-shampooing démêlant : Appliquez une noix sur cheveux mouillés puis séchez et coiffez
-- Résultat : Cheveux démêlés, nourris et réparés
 - Coffret éco-gestes Trésors de Miel pour cheveux fragiles et cassants composé dun shampooing solide nourrissant et dun après-shampooing sans rinçage démêlant
-- Contenu : 1x Routine éco-gestes Trésors de Miel Ultra Doux de Garnier, Inclus : 1x Shampooing Solide, 1x Après-Shampooing sans rinçage
+- Application : Etape 1. Shampooing solide : Appliquez sur cheveux mouillés pour faire mousser des racines jusquaux pointes puis rincez, Rangez dans une boîte après utilisation, Etape 2. Après-shampooing démêlant : Appliquez une noix sur cheveux mouillés puis séchez et coiffez
 - Shampooing solide composé à 94% dingrédients dorigine végétale, Après-shampooing composé à 98% dingrédients dorigine naturelle, Sans conservateur, Sans silicone
+- Contenu : 1x Routine éco-gestes Trésors de Miel Ultra Doux de Garnier, Inclus : 1x Shampooing Solide, 1x Après-Shampooing sans rinçage
+- Résultat : Cheveux démêlés, nourris et réparés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QD5YVMY{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Finition: 8 oeillets ronds en coloris argent avec un diamètre intérieur de 4 cm
+- Lavage à 30° en machine conseillé
+- Séchage en machine déconseillé
+- Coton imprime
 - 140 x 240 cm
 - 1x Rideau a œillets 140 x 240 cm
-- Finition: 8 oeillets ronds en coloris argent avec un diamètre intérieur de 4 cm
-- Coton imprime
-- Séchage en machine déconseillé
-- Lavage à 30° en machine conseillé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B074C59BVG{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Un modèle intemporel en pur style Adidas.
 - Poches latérales ouvertes
-- Coupe droite
 - Taille élastique avec cordon de serrage
+- Coupe droite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08PL3BR8S{{</world>}}

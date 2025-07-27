@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rétrocompatible avec les cartes SD et microSD UHS-I (jusquà 170 Mo/s)
 - Système pris en charge : Mac OS 10.8+, Windows 10/8/7Vista/XP, port USB 1.1+
 - Transférez simultanément les fichiers des emplacements SD et microSD à lordinateur
-- Rétrocompatible avec les cartes SD et microSD UHS-I (jusquà 170 Mo/s)
-- Conception compacte et portable
 - Garantie limitée de deux ans
+- Conception compacte et portable
 - Parfait pour le transfert de fichiers à haute vitesse lors de déplacements
 
 [🛒 Achète-le!!]({{< param buyurl >}})

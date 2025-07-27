@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASUS Off-Axis Contrast Optimization technology reduces halo effects by 80% and provides a 7X contrast ratio enhancement for dark parts of the image when viewing the screen off-center
 - True 10-bit color depth and Quantum Dot technology provides DCI-P3, Rec. 2020, Adobe RGB and sRGB color spaces as well as industry-leading Delta E < 1 for exceptional color fidelity
 - Seamless calibration via ProArt Calibration 2.0 software, Calman and Light Illusion ColourSpace CMS hardware calibration software
-- FreeSync Premium Pro 48~120 Hz Variable Refresh Rate (VRR) — ideal for game developers
 - 32-inch mini-LED backlit panel with 1152-zone local dimming for a 1,000,000:1 contrast ratio, with peak brightness of 1600 nits and full-screen sustained brightness of 1000 nits
-- Multiple HDR format support including Dolby Vision, HDR10 and Hybrid Log-Gamma (HLG)
 - Rich connectivity including dual Thunderbolt 3, DisplayPort1.4, HDMI(v2.1), two HDMI(v2.0) and a built-in USB hub
+- ASUS Off-Axis Contrast Optimization technology reduces halo effects by 80% and provides a 7X contrast ratio enhancement for dark parts of the image when viewing the screen off-center
+- Multiple HDR format support including Dolby Vision, HDR10 and Hybrid Log-Gamma (HLG)
+- FreeSync Premium Pro 48~120 Hz Variable Refresh Rate (VRR) — ideal for game developers
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BXKNDKC{{</world>}}

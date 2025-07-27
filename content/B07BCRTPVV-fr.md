@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 120X 100
 - Tissus polaire ultra doux
 - 2 choix de température
+- 120X 100
 - Batterie rechargeable
 - Plaid nomade chauffant sur batterie
 

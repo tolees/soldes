@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez de vitesses Wi-Fi combinées allant jusquà 1 200 Mbit/s grâce à la technologie sans fil AC bibande
 - Insérez simplement la 4G LTE : activez la carte SIM pour partager une connexion Internet mobile haut débit avec des vitesses de téléchargement allant jusquà 150 Mbps
+- Profitez de vitesses Wi-Fi combinées allant jusquà 1 200 Mbit/s grâce à la technologie sans fil AC bibande
 - 3 ports LAN Gigabit Ethernet et 1 port WAN/LAN Gigabit Ethernet fournissent une connectivité filaire en option
 
 [🛒 Achète-le!!]({{< param buyurl >}})

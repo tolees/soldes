@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière du tissu : Coton
-- Déhoussable : Non
-- Matière du rembourrage : Polyester
 - Dimensions : L. 40 x P. 10 x H. 40 cm
+- Déhoussable : Non
+- Matière du tissu : Coton
+- Matière du rembourrage : Polyester
 - Sous vide : Oui
 
 [🛒 Achète-le!!]({{< param buyurl >}})

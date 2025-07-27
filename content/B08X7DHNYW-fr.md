@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à utiliser
 - Fond de teint couvrant
-- Clinique
 - Produit de qualité supérieure
+- Facile à utiliser
+- Clinique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X7DHNYW{{</world>}}

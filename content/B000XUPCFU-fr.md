@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexible
-- orange
 - entonnoir
-- environ 160 mm
 - Bec en métal
+- Flexible
+- environ 160 mm
+- orange
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000XUPCFU{{</world>}}

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compact et léger
+- Distance focale équivalente 35 mm (APS-C) : 127,5
 - Auto Focus rapide avec double moteur linéaire
-- Compatibilité téléconvertisseur: (x2.0)
+- Angle de vue (APS-C): 19°
 - Ouverture circulaire jusquà F1.8 pour un superbe effet de bokeh
 - Spécifications du zoom: 0,13x
 - Résistant à la poussière et à lhumidité
-- Compact et léger
-- Distance focale équivalente 35 mm (APS-C) : 127,5
-- Angle de vue (APS-C): 19°
+- Compatibilité téléconvertisseur: (x2.0)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06VTFTZ17{{</world>}}

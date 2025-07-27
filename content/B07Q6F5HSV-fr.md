@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 puzzle de 1000 pièces. Dimensions : 70 x 50 cm
 - Fabriqué en Allemagne, ce puzzle est composé de matériaux issus de forêts bien gérées certifiées FSC, de matériaux recyclés et de matériaux issus d’autres sources contrôlées (FSC-C111262).
-- Un niveau de finition impeccable : du carton épais, un fini mat et anti-reflets, des outils de fabrication de haute précision pour un encastrement parfait et des contours moins marqués.
 - Retrouvez les célèbres personnages de la saga Star Wars au travers de ce puzzle inédit. Partez à laventure en compagnie de la princesse Leia, Obi-Wan Kenobi et Dark Vador.
+- Un niveau de finition impeccable : du carton épais, un fini mat et anti-reflets, des outils de fabrication de haute précision pour un encastrement parfait et des contours moins marqués.
+- 1 puzzle de 1000 pièces. Dimensions : 70 x 50 cm
 - Offrez-vous un moment de pure détente avec un puzzle de qualité !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

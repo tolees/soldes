@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimètre : 4,2mm
 - Faible risque de rupture grâce à sa robustesse et son élasticité maximale
 - Conforme à la norme din 338.
+- Dimètre : 4,2mm
 - Excellent centrage, démarrage de précision sans pré-percer, pénétration rapide sans effort.
 - Pour le perçage des aciers non alliés, métaux non ferreux, fontes et plastiques.
 - Affûtage en croix à 118°.

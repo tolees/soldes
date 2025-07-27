@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MusicCast
-- WI-FI, Airplay 2, Bluetooth
 - USB en façade
+- WI-FI, Airplay 2, Bluetooth
+- MusicCast
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJMN4K4M{{</world>}}

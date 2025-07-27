@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Espace pour des bouteilles d’un litre en position verticale
-- Compartiment aliments frais séparé
-- Compresseur puissant et entièrement hermétique avec commande électronique intégrée
-- Éclairage intérieur à LED pour pouvoir l’utiliser dans la pénombre
-- Température réglable : +10 °C à -10 °C avec affichage numérique
 - Le couvercle amovible permet d’accéder facilement aux provisions
+- Espace pour des bouteilles d’un litre en position verticale
+- Température réglable : +10 °C à -10 °C avec affichage numérique
+- Compresseur puissant et entièrement hermétique avec commande électronique intégrée
+- Compartiment aliments frais séparé
+- Éclairage intérieur à LED pour pouvoir l’utiliser dans la pénombre
 - Capacité de rangement de 31 l
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connecteur USB C avec prise en charge de Thunderbolt/USB 4
+- Autonomie d’une journée pour en faire toujours plus
 - Compatibilité avec l’Apple Pencil (2ᵉ génération), le Magic Keyboard et le Smart Keyboard Folio
+- Face ID pour une authentification sécurisée et Apple Pay
+- Wi-Fi 6E ultra rapide pour garder le contact
+- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Prise en charge du survol avec l’Apple Pencil pour des annotations et des coups de crayon plus précis
+- Puce M2 avec CPU 8 cœurs et GPU 10 cœurs
 - Spectaculaire écran Liquid Retina XDR de 12,9 pouces avec ProMotion, True Tone et large gamme de couleurs P3
 - Appareils photo grand angle 12 Mpx et ultra grand angle 10 Mpx, et scanner LiDAR pour une réalité augmentée immersive
-- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
-- Puce M2 avec CPU 8 cœurs et GPU 10 cœurs
-- Autonomie d’une journée pour en faire toujours plus
-- Wi-Fi 6E ultra rapide pour garder le contact
-- Prise en charge du survol avec l’Apple Pencil pour des annotations et des coups de crayon plus précis
-- Face ID pour une authentification sécurisée et Apple Pay
+- Connecteur USB C avec prise en charge de Thunderbolt/USB 4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BJM8QY6R{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une carte de membre du Club Cuphead
-- Contient le jeu Cuphead ainsi que
 - Une jaquette réversible dessinée par le studio MDHR
 - Une carte dépliante de l’île
+- Une carte de membre du Club Cuphead
 - 3 cartes postales vintage
+- Contient le jeu Cuphead ainsi que
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C3HGRGZ6{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis: 1.0 kilograms
 - 0
 - 0
 - 7D14-005R
-- Poids du colis: 1.0 kilograms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HQW95PP{{</world>}}

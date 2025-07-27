@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Créativité et Sécurité : Conception et matériel antichoc prolonge temps dutilisation. Équipé dun protège-hélice, Il protège les enfants des hélices en rotation.Avec la fonction dalarme de basse tension, lorsque vous voyez les lumières du drone passer de fixes à clignotantes, cest lavertissement de faible puissance,éviter de perdre votre drone.
 - Drone avec caméra HD 1080P: Mini drone équipé d’une caméra HD 1080P qui peut mieux prendre des photos claires et des vidéos aériennes. Ce drone vous permet de voir de beaux paysages à partir d’un flux vidéo en direct via un smartphone.
 - Vol avec diversité:Si vous dessinez une trajectoire de vol sur lécran de votre téléphone portable, le Q10 volera selon la ligne indiquée. Controlez votre drone avec des commandes vocales simples comme “fly", "land, "left", "right", "forward", "backward".Le contrôle des gestes vous permet de déclencher la prise de photo et lenregistrement de vidéo.Et grâce au Maintien daltitude, il permet de maintenir et survoler à certaine hauteur pour enregistrer superbes images et vidéos.
-- Pliable & Autonimie longue:La conception innovante permet au drone dêtre facilement plié, les lames pliables et flexibles rendent le drone petit et portable.
-- Créativité et Sécurité : Conception et matériel antichoc prolonge temps dutilisation. Équipé dun protège-hélice, Il protège les enfants des hélices en rotation.Avec la fonction dalarme de basse tension, lorsque vous voyez les lumières du drone passer de fixes à clignotantes, cest lavertissement de faible puissance,éviter de perdre votre drone.
 - Ldéal pour Les Débutants et Les Enfants:Opération simple juste par un seul bouton pour décoller et atterrir le drone,il est facile de voler.3 modes de vitesse différents pour choisir selon votre besoin. Mode Sans Tête , vous pouvez le piloter sans vous soucier de la direction et le contrôler plus facilement. Sur mesure pour les débutants et les enfants.
+- Pliable & Autonimie longue:La conception innovante permet au drone dêtre facilement plié, les lames pliables et flexibles rendent le drone petit et portable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LV87BDF{{</world>}}

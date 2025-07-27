@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en : Cambodge
 - Lavable en machine à 30 °C.
 - En peluche ultra douce
+- Fabriqué en : Cambodge
 - Couleur: gris
 
 [🛒 Achète-le!!]({{< param buyurl >}})

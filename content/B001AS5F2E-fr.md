@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adapté aux techniques sèches (pastel, fusain, sanguine, crayon et activités créatives, pliage, origami, découpage…)
-- Double face : grain fin et grain alvéolé nid-dabeilles
 - Papier teinté dans la masse
-- Teneur exceptionnelle en coton, bone tenue des couleurs
 - Fabriqué en France
+- Double face : grain fin et grain alvéolé nid-dabeilles
+- Teneur exceptionnelle en coton, bone tenue des couleurs
+- Adapté aux techniques sèches (pastel, fusain, sanguine, crayon et activités créatives, pliage, origami, découpage…)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001AS5F2E{{</world>}}

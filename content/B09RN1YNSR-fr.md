@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le nuage de Sophie la girafe, idéal pour amuser bébé au moment du bain.
-- Facile à saisir et à manipuler par les petites mains grâce à sa forme arrondie.
-- Décor recto/verso pour se raconter plein dhistoires.
 - Il suffit de plonger le nuage dans leau pour faire sortir Sophie de sa cachette.
+- Décor recto/verso pour se raconter plein dhistoires.
+- Facile à saisir et à manipuler par les petites mains grâce à sa forme arrondie.
 - Rigolo ! Une fois le nuage sorti de leau, il pleut comme par magie et Sophie retourne se cacher dans le nuage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Gremlins Blu-ray 4K Ultra HD
 - produit 1: Les Goonies Blu-ray 4K Ultra HD
+- produit 2: Gremlins Blu-ray 4K Ultra HD
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNL21ZYY{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclus deux codes DLC Bonus
 - Version sublimée : Graphismes de consoles moderne, nouvelles zones, démons, musiques et bien plus encore sont à découvrir dans cette version définitive du jeu.
+- Inclus deux codes DLC Bonus
 - Deux histoires complètes : L’histoire originelle de Shin Megami Tensei et la nouvelle trame inédite « Déesse vengeresse »
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

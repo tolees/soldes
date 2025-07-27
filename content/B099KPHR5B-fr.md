@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur: 5.0 nanometer
-- Longueur: 150.0 nanometer
 - Largeur: 5.0 nanometer
 - Type de tissu: coton.
+- Hauteur: 5.0 nanometer
+- Longueur: 150.0 nanometer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B099KPHR5B{{</world>}}

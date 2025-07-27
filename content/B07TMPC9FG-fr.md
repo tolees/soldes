@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Puissance de 15.3 Watts
 - Alimentation au format USB Type C
-- Conçue pour le Raspberry Pi 4 Modèle B
 - Couleur noire pour une installation discrète
+- Conçue pour le Raspberry Pi 4 Modèle B
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TMPC9FG{{</world>}}

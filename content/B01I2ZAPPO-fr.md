@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Nutriscore C, Sans gluten, Sans lactose, Sans huile de palme, Riche en fibres, À base de farine de soja
+- Contenu : 1 Gerblé Pain Burger Sans Gluten & Sans lactose, 4 pains, 300 g (4 x 75 g), 201332
 - Pain pour burger, Idéal pour les personnes intolérantes au gluten et au lactose
 - Pain à conserver dans un endroit frais après ouverture afin d’en garder tout le moelleux, Peut être congelé, Emballage pratique avec 4 compartiments fraîcheur (4 x 75 g)
-- Nutriscore C, Sans gluten, Sans lactose, Sans huile de palme, Riche en fibres, À base de farine de soja
 - Préparation rapide : à réchauffer 2 min au grille-pain ou 5 min au four
-- Contenu : 1 Gerblé Pain Burger Sans Gluten & Sans lactose, 4 pains, 300 g (4 x 75 g), 201332
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01I2ZAPPO{{</world>}}

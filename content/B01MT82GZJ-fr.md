@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Baladeur MP3
-- 4 Go de mémoire interne et slot micro SD
-- Enregistrez au format audio mp3 en haute qualité 192 Kbits/s
 - Longue autonomie des piles (57h denregistrement en mp3 128 Kbits/s)
+- Enregistrez au format audio mp3 en haute qualité 192 Kbits/s
+- 4 Go de mémoire interne et slot micro SD
 - Connecteur USB rétractable pour transfert facile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

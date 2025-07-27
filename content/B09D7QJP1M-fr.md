@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soin solaire 2 en 1 parfait toute lannée, il laisse la peau naturellement éclatante, hydratée et protégée grâce à son SPF élevé de 57,3 (±8,9) et un PFA de 19,70 (±2,5 PA++++).
-- Formule hybride incarnant à la fois lutilisation douce et sûre dun écran solaire physique et la texture lisse dun écran solaire chimique, elle est légère et ultra-hydratante sans aucun résidu.
 - Certifié végétalien après des tests méticuleux par le label italien V, hypoallergénique et résistant à la transpiration (par couverture), le ton rose brillant de la crème solaire illumine le teint, et le Trufferol fournit des antioxydants et des nutriments pour raffermir et éclaircir la peau pour un teint jeune.
-- Les truffes blanches de qualité supérieure soigneusement extraites du Piémont, en Italie, infusées de tocophérol (vitamine E), constituent lingrédient signature de dAlba, le Trufferol, riche en antioxydants.
 - Approuvé par lAssociation Végétarienne Italienne pour ses substances pures et 100% végétaliennes. Les ingrédients dorigine végétale permettent une application douce et délicate tout en éclaircissant le teint."
+- Formule hybride incarnant à la fois lutilisation douce et sûre dun écran solaire physique et la texture lisse dun écran solaire chimique, elle est légère et ultra-hydratante sans aucun résidu.
+- Soin solaire 2 en 1 parfait toute lannée, il laisse la peau naturellement éclatante, hydratée et protégée grâce à son SPF élevé de 57,3 (±8,9) et un PFA de 19,70 (±2,5 PA++++).
+- Les truffes blanches de qualité supérieure soigneusement extraites du Piémont, en Italie, infusées de tocophérol (vitamine E), constituent lingrédient signature de dAlba, le Trufferol, riche en antioxydants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09D7QJP1M{{</world>}}

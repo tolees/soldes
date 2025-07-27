@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: Xiaomi
 - Xiaomi Redmi 13C 5G 4GB 128GB Black Starlight Black Dual SIM
+- Marque: Xiaomi
 - Type de produit: CELLULAR PHONE
 
 [🛒 Achète-le!!]({{< param buyurl >}})

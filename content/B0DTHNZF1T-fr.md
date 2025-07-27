@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Type: Smartphone
-- - Network Technology: GSM / HSPA / LTE
-- - Weight: 180 g
-- - Displaytype: AMOLED
 - - Dimensions: 162.2 x 74.9 x 8.2 mm
+- - Weight: 180 g
+- - Network Technology: GSM / HSPA / LTE
+- - Displaytype: AMOLED
+- - Type: Smartphone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTHNZF1T{{</world>}}

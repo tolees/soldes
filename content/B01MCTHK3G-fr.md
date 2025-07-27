@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nom de larticle : Anthems Acoustic
-- Marque : FAMILY
 - Type de produit : ABIS MUSIC
+- Marque : FAMILY
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MCTHK3G{{</world>}}

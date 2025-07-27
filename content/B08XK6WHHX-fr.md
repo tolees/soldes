@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSOMMATION: 2L pour environ 10 à 20m² en fonction de la porosité du support. Fabriqué en France
-- Primaire daccrochage universel avant ragréage de sol ou colle à carrelage intérieur et extérieur sol et mur
 - PERFORMANCE: Séchage rapide (1h à 2h selon porosité du support), blanc à lapplication et devient transparent après séchage
 - APPLICATION: Facile à appliquer au rouleau ou à la brosse, prêt à lemploi. A savoir sur sol chauffant, arrêter le chauffage 48h avant lapplication du primaire et le mortier doit être appliqué dans les 24h après lapplication du primaire
 - MULTI-SUPPORTS: béton, chape, béton cellulaire, carrelage, dalle PVC, bois et pltre
+- CONSOMMATION: 2L pour environ 10 à 20m² en fonction de la porosité du support. Fabriqué en France
+- Primaire daccrochage universel avant ragréage de sol ou colle à carrelage intérieur et extérieur sol et mur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XK6WHHX{{</world>}}

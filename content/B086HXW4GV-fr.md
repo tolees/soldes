@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire
 - Classique
 - Régulier
+- Accessoire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086HXW4GV{{</world>}}

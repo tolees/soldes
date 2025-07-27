@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Design élégant et compact
 - Cryptage matériel AES 256 bits par mot de passe
-- Sauvegarde facile
 - Résistant aux chocs et aux vibrations. Résistant aux chutes jusquà 2 mètres
+- Sauvegarde facile
 - Technologie NVMe rapide comme léclair avec des vitesses pouvant atteindre 1050 Mos en lecture et 1000 Mos en écriture
 
 [🛒 Achète-le!!]({{< param buyurl >}})

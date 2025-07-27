@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Peut être utilisé comme flash prinicipal et comme flash TTL sans fil
-- Nombre Guide de 16 (ISO100)
 - Approprié au système de flash Nikon i-TTL
 - Possible de contrôler les deux parts du flash indépendant
+- Nombre Guide de 16 (ISO100)
+- Peut être utilisé comme flash prinicipal et comme flash TTL sans fil
 - Puissance réglable de 1/1 à 1/64 en étapes de 1/17
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

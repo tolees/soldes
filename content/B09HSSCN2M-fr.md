@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Évitement automatique dobstacles
 - Lapplication EBO est livrée avec des tonnes dédition et de fonctionnalités sociales pour vous aider à partager vos moments avec le monde.
-- détection de mouvement et vision nocturne infrarouge
+- Évitement automatique dobstacles
 - Capteur infrarouge x5 Capteur d’image CMOS Starlight GC2053
-- Caméra HD 1080p HD
-- retour automatique a sa station de re chargement
-- Votre caméra IP intérieure en mouvement
 - Enregistrement vidéo en un clic via une application, partage librement.
 - WiFi 2.4G (max 50m du routeur 802.11.b/g/n dans l’espace ouvert) WiFi 5.2G (max 80m de routeur 802.11.ac dans l’espace ouvert)
+- Votre caméra IP intérieure en mouvement
+- détection de mouvement et vision nocturne infrarouge
+- Caméra HD 1080p HD
+- retour automatique a sa station de re chargement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HSSCN2M{{</world>}}

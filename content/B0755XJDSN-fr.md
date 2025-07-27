@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TIMES UP PARTY : Ce jeu se joue en équipes, où les joueurs se relaient pour deviner les mots ou expressions figurant sur les cartes dans un laps de temps limité
-- JEU DE RAPIDITE : Le temps est essentiel dans Times Up! Party. Les joueurs ont un laps de temps limité pour deviner autant de cartes que possible. Le minuteur ajoute un sentiment durgence et dexcitation au jeu
-- JOUER À PLUSIEURS : Le jeu inclut une grande variété de mots et dexpressions sur les cartes, le rendant adapté à des joueurs de tous âges et horizons. Cette diversité maintient le jeu frais et divertissant
 - RÈGLES DU JEU : Le jeu se compose de trois manches, chacune ayant des règles et des défis différents. Dans la première manche, les joueurs peuvent utiliser autant de mots ou dexpressions quils le souhaitent pour décrire la carte. Dans la deuxième manche, seul un mot peut être utilisé comme indice. La troisième manche est une manche de mime, où aucun mot nest autorisé
 - JEU DAMBIANCE : Times est réputé pour créer des moments de rire et dexpériences partagées entre les joueurs. Cest un excellent jeu pour les fêtes, les rassemblements et les événements sociaux, car il encourage la communication, la créativité et un sentiment de camaraderie parmi les participants
+- TIMES UP PARTY : Ce jeu se joue en équipes, où les joueurs se relaient pour deviner les mots ou expressions figurant sur les cartes dans un laps de temps limité
 - CARTES SUPPLEMENTAIRES : Vous avez fait le tour des cartes et vous souhaitez en découvrir dautres ? Retrouvez-les dans la version Times Up boîte jaune !
+- JEU DE RAPIDITE : Le temps est essentiel dans Times Up! Party. Les joueurs ont un laps de temps limité pour deviner autant de cartes que possible. Le minuteur ajoute un sentiment durgence et dexcitation au jeu
+- JOUER À PLUSIEURS : Le jeu inclut une grande variété de mots et dexpressions sur les cartes, le rendant adapté à des joueurs de tous âges et horizons. Cette diversité maintient le jeu frais et divertissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0755XJDSN{{</world>}}

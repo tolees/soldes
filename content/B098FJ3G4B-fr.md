@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Système de nivellement automatique verrouillable par pendule
+- Direction du faisceau/angle du ventilateur 2 x vertical à 360 degrés et 1 x horizontal à 360 degrés
 - 3 réglages de luminosité sélectionnables
 - 4 lignes verticales plus 4 lignes horizontales
+- Classe de sécurité Classe 2
 - Largeur de ligne 2,0 mm à 5 mètres
 - Mécanisme de rotation excentrique
 - Ligne laser verte pour une meilleure visibilité dans des conditions plus lumineuses
 - Porte/diamètre 35 à 70 mètres, portée/diamètre avec un récepteur de 70 à 140 mètres
-- Système de nivellement automatique verrouillable par pendule
-- Direction du faisceau/angle du ventilateur 2 x vertical à 360 degrés et 1 x horizontal à 360 degrés
-- Classe de sécurité Classe 2
 - 3 lignes laser complètes à 360 degrés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

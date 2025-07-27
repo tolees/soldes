@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec toutes les box du marché, et routeurs/points daccès WiFi
-- Etend le réseau sans fil à 300 Mbps jusquaux zones dombres de votre domicile ou de votre bureau
 - Consommation électrique: en veille: 8,780 W (220 V / 50 Hz) Système requis: Windows 2000/XP/2003/Vista, Windows 7/8, Mac, Linux
-- Ce Kit contient un adaptateur TL-PA4010 et deux adaptateurs TL-WPA4220
+- Etend le réseau sans fil à 300 Mbps jusquaux zones dombres de votre domicile ou de votre bureau
 - Extension de portée dun simple appui sur le bouton Wi-Fi Clone, simplifie la configuration de votre réseau Wi-Fi et vous aide à construire un réseau domestique unifié sans difficultés. Type de prise: EU, UK
 - La norme Homeplug AV permet des débits théoriques jusquà 500 Mbps via un réseau électrique domestique, cest idéal pour diffuser des vidéos 3D ou HD fluides et les jeux en ligne
+- Ce Kit contient un adaptateur TL-PA4010 et deux adaptateurs TL-WPA4220
 - Certification: CE, FCC, RoHS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

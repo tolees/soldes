@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous êtes le ciment au sein de cette bande imprévisible, alors vous allez devoir devenir un chef digne de ce nom, et vite.
-- Avec vos nouveaux acolytes excentriques et légendaires, vous devrez sauver lunivers dans cette version revisitée mais néanmoins fidèle des Gardiens de la Galaxie.
-- Précommandez Marvels Guardians of the Galaxy pour obtenir le déblocage anticipé du pack de tenues de Gardiens Rétro.
 - Vous incarnez Star-Lord et tous les coups sont permis !
+- Précommandez Marvels Guardians of the Galaxy pour obtenir le déblocage anticipé du pack de tenues de Gardiens Rétro.
+- Avec vos nouveaux acolytes excentriques et légendaires, vous devrez sauver lunivers dans cette version revisitée mais néanmoins fidèle des Gardiens de la Galaxie.
+- Vous êtes le ciment au sein de cette bande imprévisible, alors vous allez devoir devenir un chef digne de ce nom, et vite.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0977PRVPP{{</world>}}

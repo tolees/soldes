@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tube et fil métal plastifié
-- Dimensions : 41 x 23 x 63 cm
 - Système dassemblage breveté : rapide, facile et robuste
+- Dimensions : 41 x 23 x 63 cm
 - Roulettes pivotantes
+- Tube et fil métal plastifié
 - Garantie : 1 an(s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

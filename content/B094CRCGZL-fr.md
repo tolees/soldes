@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution : QHD (2560 x 1440)
 - Taille de lécran : 68,6 cm (27 pouces)
-- Type dentrée daffichage : 1 entrée DisplayPort 1.2 ; 2 ports HDMI 1.4
-- AMD Freesync ; Antireflet ; Mode faible lumière bleue ; Certification HP Eye Ease ; HP Display Center
 - Garantie limitée dun an
+- Type dentrée daffichage : 1 entrée DisplayPort 1.2 ; 2 ports HDMI 1.4
 - Temps de réponse : 5ms gris à gris
+- AMD Freesync ; Antireflet ; Mode faible lumière bleue ; Certification HP Eye Ease ; HP Display Center
+- Résolution : QHD (2560 x 1440)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094CRCGZL{{</world>}}

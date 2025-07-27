@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age : 4 ans et plus
-- Age : 4 ans et plus
-- Dimensions : 20 x 5,5 x 17 cm
 - Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
 - Dimensions : 20 x 5,5 x 17 cm
+- Dimensions : 20 x 5,5 x 17 cm
+- Age : 4 ans et plus
+- Age : 4 ans et plus
 - Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
 
 [🛒 Achète-le!!]({{< param buyurl >}})

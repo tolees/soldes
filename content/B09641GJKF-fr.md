@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Assise plantaire en cuir suédé traité antimicrobien
 - Semelle extérieure AdaptTrax pour une adhérence exceptionnelle par temps sec et humide
-- Tige en cuir suédé et cuir avec 2 brides
 - Semelle intercalaire amortissante TechLite+ pour plus de stabilité et de confort
+- Tige en cuir suédé et cuir avec 2 brides
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09641GJKF{{</world>}}

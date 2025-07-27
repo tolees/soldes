@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOTRE ROUTINE 123 PERFECT : Appliquez ce fond de teint hydratant sur tout le visage en mettant laccent sur la zone T. Pour une finition parfaite, nhésitez pas à lassocier à une poudre matifiante et un blush Bourjois.
-- BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
 - FORMULE DOUCE ET HYDRATANTE : La formule anti-brillance de ce fond de teint intègre la fleur de coton pour une texture douce qui hydrate la peau pendant 24 heures. Il est non comédogène et testé sous contrôle dermatologique.
-- UN TEINT PARFAITEMENT UNIFIÉ : Le fond de teint 123 Perfect corrige et unifie le teint pour un fini seconde peau presque indétectable. Il convient à tout type de peau et promet une tenue jusquà 16h !
 - ANTI ROUGEURS, CERNES ET TEINT TERNE : Avec ses 3 pigments correcteurs, le fond de teint 123 Perfect permet un effet anti-rougeurs, anticerne, et anti-terne. Votre teint est unifié et éclatant. Il dispose aussi dune protection SPF 10.
+- BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
+- VOTRE ROUTINE 123 PERFECT : Appliquez ce fond de teint hydratant sur tout le visage en mettant laccent sur la zone T. Pour une finition parfaite, nhésitez pas à lassocier à une poudre matifiante et un blush Bourjois.
+- UN TEINT PARFAITEMENT UNIFIÉ : Le fond de teint 123 Perfect corrige et unifie le teint pour un fini seconde peau presque indétectable. Il convient à tout type de peau et promet une tenue jusquà 16h !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KG892OG{{</world>}}

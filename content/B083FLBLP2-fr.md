@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : Synthetic
-- Matériau de semelle : Synthetic
 - Doublure : Textile
 - Dessus : Smooth Leather
+- Matériau de semelle : Synthetic
+- Semelle intérieure : Synthetic
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083FLBLP2{{</world>}}

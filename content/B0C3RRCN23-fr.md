@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Des combats de boss palpitants – Mettez en place des stratégies offensives et défensives en privilégiant le combat rapproché ou à distance pour terrasser de redoutables boss.
 - Des batailles dynamiques et multidirectionnelles – Pilotez votre Mecha dans des batailles multidirectionnelles frénétiques et exploitez sa mobilité sur terre et dans les airs pour décrocher la victoire.
 - Votre Mecha, votre style de jeu – Personnalisez votre Mecha entre chaque mission pour expérimenter différents styles de jeu. Sélectionnez vos pièces préférées via un système de personnalisation élaboré qui affecte grandement votre stratégie, votre mobilité et votre manière de combattre dans des batailles toujours plus épiques.
-- Des combats de boss palpitants – Mettez en place des stratégies offensives et défensives en privilégiant le combat rapproché ou à distance pour terrasser de redoutables boss.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3RRCN23{{</world>}}

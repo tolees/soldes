@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- une poignée entièrement destinée au all mountain
-- maintien en place de la poignée avec le collier en aluminium
-- compatible cintre carbone
 - longueurde la paire de poignées adaptable à la plupart des shifters
+- une poignée entièrement destinée au all mountain
+- compatible cintre carbone
+- maintien en place de la poignée avec le collier en aluminium
 - structure aminci pour un poids contenu sans pour autant délaisser le confort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

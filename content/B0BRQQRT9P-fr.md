@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 3 ans
-- Son réalisme te permettra dimaginer plein daventures
 - Ce bus à roue libre de 27 cm possède des portes ouvrantes et les roues avant directionnelles
+- A partir de 3 ans
 - Plonge dans lunivers des transports publics avec Dickie
+- Son réalisme te permettra dimaginer plein daventures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BRQQRT9P{{</world>}}

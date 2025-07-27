@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE BOÎTE MUSICALE POUR RANGER SES TRESORS : Cette boîte à musique en forme de cube et disposant dun tiroir émerveillera lenfant qui y rangera ses trésors. Actionnez la manivelle et la figurine Sophie la Girafe s’anime comme par magie au son de la musique !
-- BRILLE DANS LA NUIT : Lorsqu’il est chargé de lumière, ce coffret musical brille dans la nuit pour accompagner la jeune fille dans le pays des rêves. Une petite lumière rassurante dans le secret de la chambre qui sendort.
 - UNE MARQUE FÉÉRIQUE : Plongez dans l’univers magique de TROUSSELIER avec leurs boites à musique et boites à bijoux, les veilleuses, doudous, mobiles musicaux, hochets & autres jouets qui berceront l’enfance de vos tout petits.
-- UN CADEAU INTEMPOREL : Une boîte à musique est un objet intemporel que l’on garde précieusement comme un symbole de lenfance. Sa mélodie et les souvenirs qui laccompagnent resteront longtemps gravés dans la mémoire de lenfant.
 - IDÉAL DÈS LA NAISSANCE : Ce coffret musical sera du plus bel effet pour décorer la chambre de lenfant. EVEILLEZ VOTRE ENFANT : initiez vos tout petits à la musique classique avec sa douce berceuse inspirée de "La Valse dAmélie Poulain" de Yann Thirsen. La figurine Sophie la Girafe tourne au son de la musique.
+- UNE BOÎTE MUSICALE POUR RANGER SES TRESORS : Cette boîte à musique en forme de cube et disposant dun tiroir émerveillera lenfant qui y rangera ses trésors. Actionnez la manivelle et la figurine Sophie la Girafe s’anime comme par magie au son de la musique !
+- UN CADEAU INTEMPOREL : Une boîte à musique est un objet intemporel que l’on garde précieusement comme un symbole de lenfance. Sa mélodie et les souvenirs qui laccompagnent resteront longtemps gravés dans la mémoire de lenfant.
+- BRILLE DANS LA NUIT : Lorsqu’il est chargé de lumière, ce coffret musical brille dans la nuit pour accompagner la jeune fille dans le pays des rêves. Une petite lumière rassurante dans le secret de la chambre qui sendort.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FSY8QC3{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesses USB 3.2 Gen 1
 - Grandes capacités
 - Boîtier métallique haut de gamme
+- Vitesses USB 3.2 Gen 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CT8YVWRK{{</world>}}

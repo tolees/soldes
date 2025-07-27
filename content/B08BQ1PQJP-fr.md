@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Shampooing à la menthe verte bio et aux 4 huiles essentielles issues de pays du Bassin Méditerranéen : le Thym, le Romarin, le Citron et la Camomille
-- Dès la première utilisation de ce shampooing bio antipelliculaire, les pellicules visibles sont éliminées et vos racines sont purifiées tout en respectant léquilibre naturel du cuir chevelu
 - Le Petit Marseillais est allé chercher au cœur de la nature des ingrédients gorgés de soleil pour développer une recette unique qui élimine durablement les pellicules
 - Sa texture gel légère se transforme en une mousse et elle libère un parfum aux notes fraîches et vivifiantes; sa formule est libre de silicone et lave les cheveux en douceur
+- Dès la première utilisation de ce shampooing bio antipelliculaire, les pellicules visibles sont éliminées et vos racines sont purifiées tout en respectant léquilibre naturel du cuir chevelu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08BQ1PQJP{{</world>}}

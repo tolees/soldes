@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Améliorez les performances de votre NAS en installant des SSD M.2 2280 NVME PCIE (vendus séparément) ou un Edge TPU
 - Les performances du système et le multitâche sont optimisés avec 8 Go de RAM.
 - Vitesse réseau 2,5 fois plus rapide avec les câbles Cat5e existants ; prend en charge lagrégation de ports pour fournir jusquà 5 Gbit/s
+- Améliorez les performances de votre NAS en installant des SSD M.2 2280 NVME PCIE (vendus séparément) ou un Edge TPU
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9YPJN7L{{</world>}}

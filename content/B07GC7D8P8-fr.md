@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La reconnaissance automatique de la capsule permet une adaptation optimale des paramètres dextraction pour une expérience de café personnalisée et inoubliable
-- Un assortiment de 12 capsules offert
 - Un unique bouton permettant de réaliser facilement un café parfait de la longueur de votre choix
 - La technologie dextraction par Centrifusion garantit une qualité de café supérieure
 - 4 tailles de tasse, allant de lEspresso au Mug pour sadapter à toutes vos envies
+- La reconnaissance automatique de la capsule permet une adaptation optimale des paramètres dextraction pour une expérience de café personnalisée et inoubliable
+- Un assortiment de 12 capsules offert
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GC7D8P8{{</world>}}

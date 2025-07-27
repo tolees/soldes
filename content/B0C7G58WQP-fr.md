@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【8GB+256GB Large Storage，8GB+5GB HONOR RAM Turbo】Lintelligent HONOR RAM Turbo peut réaliser un maximum de 13GB en équivalence, assurant une expérience fluide de fonctionnement et de stockage.
 - 【Mode haut volume, plus fort et plus clair】Le mode haut volume peut être activé pour la lecture de médias et les appels audio/vidéo, ce qui est plus fort et plus clair pour les oreilles. Avec la double certification Hi-Res, cest comme si vous emportiez un mini haut-parleur, vous ne manquerez jamais un mot dans les environnements bruyants.
-- 【100MP Triple Caméra Arrière + 5MP + 2MP】Ultra clear lens, beautiful moment retained. Le HONOR 90 LITE telephone portable est doté dun appareil photo principal de 100 Mpx, qui permet de rapprocher les images de loin et de montrer des détails précis en gros plan. Les nombreux modèles et bandes sonores peuvent être associés dun simple toucher, créant ainsi votre chef-dœuvre en quelques secondes.
 - 【6.7" Edgeless Display, 90Hz Refresh Rate】6.7" FullView display, large champ de vision, agréable pour les yeux. Le HONOR 90 LITE est doté dun corps mince de 7,48 mm, avec un poids de 179 g, offrant une expérience de prise en main légère et confortable. La surface lisse et délicate nattire ni les marques ni les empreintes digitales.
 - 【4500mAh batterie, 22.5W HONOR SuperCharge】HONOR 90 LITE téléphone portable avec le 22.5W HONOR SuperCharger, assurant une énergie suffisante à tout moment et nimporte où.
+- 【100MP Triple Caméra Arrière + 5MP + 2MP】Ultra clear lens, beautiful moment retained. Le HONOR 90 LITE telephone portable est doté dun appareil photo principal de 100 Mpx, qui permet de rapprocher les images de loin et de montrer des détails précis en gros plan. Les nombreux modèles et bandes sonores peuvent être associés dun simple toucher, créant ainsi votre chef-dœuvre en quelques secondes.
+- 【8GB+256GB Large Storage，8GB+5GB HONOR RAM Turbo】Lintelligent HONOR RAM Turbo peut réaliser un maximum de 13GB en équivalence, assurant une expérience fluide de fonctionnement et de stockage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C7G58WQP{{</world>}}

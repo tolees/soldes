@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONCEPTION UNIQUE : lames et de la coupelle en inox pour un résultat rapide et uniforme
+- PUISSANCE : moteur 200 W pour moudre rapidement sans échauffement ; forme en élipse qui permet de verser facilement la mouture
 - GRANDE CAPACITE : peut contenir jusquà 85 gr de café, soit 15 tasses de café frais
 - Réparabilité 15 ans, Garantie 2 ans
 - MOUTURE : la durée de la mouture dépend du degré de finesse souhaité ; à ajuster en fonction de vos gouts
 - POLYVALENT : moudre le café en grain mais aussi les graines, les épices, les fruits secs
-- PUISSANCE : moteur 200 W pour moudre rapidement sans échauffement ; forme en élipse qui permet de verser facilement la mouture
+- CONCEPTION UNIQUE : lames et de la coupelle en inox pour un résultat rapide et uniforme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00004SPEU{{</world>}}

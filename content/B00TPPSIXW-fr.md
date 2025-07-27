@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brume Huile
 - Résiste à leau
 - Application simple et uniforme
 - Parfum Coco Mangue
+- Brume Huile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TPPSIXW{{</world>}}

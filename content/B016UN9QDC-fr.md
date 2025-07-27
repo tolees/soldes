@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 👨‍👩‍👧‍👦 UN JEU CONVIVIAL EN FAMILLE OU ENTRE AMIS : avec le jeu de société Celestia, amusez-vous en famille ou entre amis. Laissez-vous envoûter par lunivers original du jeu et vivez des moments de bluff et de coups fourrés mémorables !
-- ⚡️ LA PARTIE : 2 à 6 joueurs, 30 minutes de jeu, à partir de 8 ans, pour toute la famille et entre amis
 - 🤓 JEU ACCESSIBLE ET FACILE À COMPRENDRE : chaque joueur est, à tour de rôle, le capitaine de l’aéronef. Il a pour mission d’emmener tous les passagers jusqu’à la cité suivante. Pour cela, il doit affronter tous les évènements qui se produiront lors de cette étape. De leur côté, les passagers décident de s’arrêter dans la cité actuelle pour y prendre un trésor ou de continuer le voyage, vers des trésors encore plus fabuleux. Si le capitaine est capable d’affronter les évènements (à l’aide de cartes), le voyage continue; sinon l’aéronef s’écrase. Après plusieurs voyages, un joueur est déclaré meilleur aventurier s’il cumule 50 points avec ses trésors.
-- ☁️ JEU DE BLUFF ET DE PRISE DE RISQUE DANS UN UNIVERS ONIRIQUE : embarquez dans un aéronef avec une équipe daventuriers pour effectuer de nombreux voyages dans les cités du monde aérien de Celestia. Gérez habillement votre chance pour triompher des dangers qui vous attendent aux commandes de laéronef (brouillard, foudre, oiseaux tueurs ou pirates de lair) et emparez-vous des trésors les plus précieux .
 - 🎯 VOTRE OBJECTIF : dans ce jeu de société, vous devez devenir l’aventurier le plus riche en collectionnant les trésors les plus précieux.
+- ⚡️ LA PARTIE : 2 à 6 joueurs, 30 minutes de jeu, à partir de 8 ans, pour toute la famille et entre amis
+- ☁️ JEU DE BLUFF ET DE PRISE DE RISQUE DANS UN UNIVERS ONIRIQUE : embarquez dans un aéronef avec une équipe daventuriers pour effectuer de nombreux voyages dans les cités du monde aérien de Celestia. Gérez habillement votre chance pour triompher des dangers qui vous attendent aux commandes de laéronef (brouillard, foudre, oiseaux tueurs ou pirates de lair) et emparez-vous des trésors les plus précieux .
+- 👨‍👩‍👧‍👦 UN JEU CONVIVIAL EN FAMILLE OU ENTRE AMIS : avec le jeu de société Celestia, amusez-vous en famille ou entre amis. Laissez-vous envoûter par lunivers original du jeu et vivez des moments de bluff et de coups fourrés mémorables !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B016UN9QDC{{</world>}}

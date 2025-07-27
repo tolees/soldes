@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifié IP55⁴ avec étui en caoutchouc amovible
 - Vitesses maximales de 2 000Mo/s¹ avec USB 3.2 Gen 2x2
+- Certifié IP55⁴ avec étui en caoutchouc amovible
 - Format de poche compact
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

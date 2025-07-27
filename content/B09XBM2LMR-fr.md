@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Connecteur dalimentation à 4 broches : dispose dun connecteur dalimentation à 4 broches pour une meilleure dissipation de la chaleur et une température réduite pendant le fonctionnement continu.
 - Matériaux de haute qualité : fabriqué en alliage daluminium de haute qualité + matériau ABS, le ventilateur du processeur est durable, difficile à endommager et a une longue durée de vie.
 - Modèles applicables : convient pour NUC8i7BEH NUC8i3BEH NUC8i5BEH NUC8i5BEK, remplacement pour les pièces endommagées de votre hôte.
-- Connecteur dalimentation à 4 broches : dispose dun connecteur dalimentation à 4 broches pour une meilleure dissipation de la chaleur et une température réduite pendant le fonctionnement continu.
 - Poids léger : de petite taille et léger, ce ventilateur de refroidissement peut aider à réduire la charge sur lordinateur hôte et à améliorer lefficacité de lordinateur.
 - Fonctionnement simple : ce ventilateur de refroidissement pour ordinateur est facile à connecter, facile à utiliser, facile à utiliser, facile à installer et à retirer.
 

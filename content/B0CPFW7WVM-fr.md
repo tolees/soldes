@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Last of Us Part II Remastered apporte toute une gamme de nouvelles fonctionnalités, de modes de jeu et d’améliorations techniques qui vous permettront de découvrir l’histoire poignante d’Ellie et Abby de la meilleure des manières
+- Cinq ans après leur voyage périlleux à travers une Amérique ravagée par une pandémie, Ellie et Joel ont trouvé refuge à Jackson, dans le Wyoming. Vivre parmi une communauté prospère de survivants leur a permis de trouver paix et stabilité, malgré la menace constante des infectés ainsi que des autres survivants
 - (Re)découvrez cette épopée dans les meilleures conditions. Jouez en 4K native grâce au mode Fidélité et profitez de diverses améliorations graphiques (textures, animations, ombres) ainsi que d’une amélioration de la vitesse d’affichage. Ressentez chaque instant de l’aventure d’Ellie et d’Abby grâce à la prise en charge de la manette sans fil DualSense avec son retour haptique et ses gâchettes adaptatives
 - Lorsquun violent évènement vient rompre cette paix, Ellie se lance dans une quête de justice pour enfin tourner la page. Alors quelle pourchasse les responsables un par un, elle est confrontée aux répercussions dévastatrices de ses actions aussi bien physiques qu’émotionnelles
-- Cinq ans après leur voyage périlleux à travers une Amérique ravagée par une pandémie, Ellie et Joel ont trouvé refuge à Jackson, dans le Wyoming. Vivre parmi une communauté prospère de survivants leur a permis de trouver paix et stabilité, malgré la menace constante des infectés ainsi que des autres survivants
-- Last of Us Part II Remastered apporte toute une gamme de nouvelles fonctionnalités, de modes de jeu et d’améliorations techniques qui vous permettront de découvrir l’histoire poignante d’Ellie et Abby de la meilleure des manières
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPFW7WVM{{</world>}}

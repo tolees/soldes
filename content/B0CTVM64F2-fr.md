@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA FORMULE PROTECTRICE DU MICROBIOME cible la principale cause de lapparition des pellicules, à travers le maintien dun bon équilibre du pH et du microbiome au niveau du cuir chevelu
+- TESTÉ DERMATOLOGIQUEMENT Idéal pour un usage quotidien, conçu pour les hommes et les femmes et convient à tous types de cheveux et de cuir chevelu
 - CHEVEUX DOUX ET BRILLANTS Cette formule contient 25% dagents nourrissants supplémentaires par rapport au shampoing Head and Shoulders classique, pour des cheveux doux et brillants
 - PROTECTION ET PRÉVENTION EFFICACES CONTRE LES PELLICULES. Jusquà 100% des Pellicules Éliminées*. Résultat cliniquement prouvé, *pellicules visibles, avec une utilisation régulière
-- TESTÉ DERMATOLOGIQUEMENT Idéal pour un usage quotidien, conçu pour les hommes et les femmes et convient à tous types de cheveux et de cuir chevelu
+- LA FORMULE PROTECTRICE DU MICROBIOME cible la principale cause de lapparition des pellicules, à travers le maintien dun bon équilibre du pH et du microbiome au niveau du cuir chevelu
 - À UTILISER QUOTIDIENNEMENT POUR DE MEILLEURS RÉSULTATS Shampoing après shampoing, il améliore lhydratation du cuir chevelu, tout en atténuant les problèmes du cuir chevelu, pour des cheveux et un cuir chevelu sans pellicules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le coussin dair Merrell dans le talon absorbe les chocs et ajoute de la stabilité
+- La membrane imperméable scelle leau et laisse lhumidité séchapper
+- Dessus en cuir pleine fleur
+- Doublure en microfibre recyclée X%
+- Semelle intermédiaire légère en mousse EVA pour plus de stabilité et de confort
+- Tige en nylon moulé
+- Semelle intérieure amovible en polyuréthane doublé de maille 100 % recyclée
 - Semelle en caoutchouc Vibram TC5+
 - Lacets et sangles 100 % recyclés
-- Tige en nylon moulé
-- Doublure en microfibre recyclée X%
-- Semelle intérieure amovible en polyuréthane doublé de maille 100 % recyclée
-- Dessus en cuir pleine fleur
-- La membrane imperméable scelle leau et laisse lhumidité séchapper
-- Semelle intermédiaire légère en mousse EVA pour plus de stabilité et de confort
+- Le coussin dair Merrell dans le talon absorbe les chocs et ajoute de la stabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094YKTXYC{{</world>}}
