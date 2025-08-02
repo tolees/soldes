@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chargeur pour accumulateur lithium-ion EN-EL15 Nikon
-- Chargeur pour accumulateur lithium-ion EN-EL15 Nikon
+- Compatible avec certains appareils photo Nikon
 - Téléchargez la notice en français <b><a href="http://downloadcenter.nikonimglib.com/fr/index.html">ici</a></b>
 - Compatible avec certains appareils photo Nikon
-- Compatible avec certains appareils photo Nikon
+- Chargeur pour accumulateur lithium-ion EN-EL15 Nikon
+- Chargeur pour accumulateur lithium-ion EN-EL15 Nikon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00MV519DE{{</world>}}

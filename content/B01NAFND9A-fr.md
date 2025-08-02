@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut 1 an d’abonnement GRATUIT NETGEAR Insight Premium pour administrer à distance vos réseaux depuis n’importe quel endroit
-- CONFIGURATION DES PORTS ETHERNET : 16 ports Gigabit
-- CONFIGURATION ET CONTROLE AVANCES : le logiciel dadministration doté dune interface GUI facile à utiliser offre un contrôle avancé pour une configuration et un accès sécurisés, ainsi quune administration SNMP (NMS 300). Inclus 1 an dabonnement à NETGEAR insight premium pour gérer vos réseaux à distance
-- EFFICACITE ENERGETIQUE : conçu pour optimiser lutilisation dénergie, ce qui réduit les coûts de fonctionnement. Compatible avec le mode Energy Efficient Ethernet IEEE802.3az
-- POWER-OVER-ETHERNET : 16 ports PoE+ avec 300W de budget total
-- FLEXIBILITE DES PORTS DE LIAISON MONTANTE : 2 ports SFP 1 Gigabit
 - PROTECTION A VIE PROSAFE : produit couvert par une garantie matérielle à vie limitée de premier plan, remplacement le jour ouvrable suivant et chat 24h/24 7j7 avec un expert NETGEAR
-- OPTIONS DE MONTAGE POLYVALENTES : Prise en charge du placement sur un bureau ou en rack
+- EFFICACITE ENERGETIQUE : conçu pour optimiser lutilisation dénergie, ce qui réduit les coûts de fonctionnement. Compatible avec le mode Energy Efficient Ethernet IEEE802.3az
+- FLEXIBILITE DES PORTS DE LIAISON MONTANTE : 2 ports SFP 1 Gigabit
 - CONÇU POUR DURER : chaque switch réseau NETGEAR est testé rigoureusement pour sa fiabilité, sa qualité et ses performances
 - DESIGN SILENCIEUX : réduit le bruit des ventilateurs pour protéger votre bureau personnel ou votre environnement professionnel
+- OPTIONS DE MONTAGE POLYVALENTES : Prise en charge du placement sur un bureau ou en rack
+- CONFIGURATION ET CONTROLE AVANCES : le logiciel dadministration doté dune interface GUI facile à utiliser offre un contrôle avancé pour une configuration et un accès sécurisés, ainsi quune administration SNMP (NMS 300). Inclus 1 an dabonnement à NETGEAR insight premium pour gérer vos réseaux à distance
+- POWER-OVER-ETHERNET : 16 ports PoE+ avec 300W de budget total
+- Inclut 1 an d’abonnement GRATUIT NETGEAR Insight Premium pour administrer à distance vos réseaux depuis n’importe quel endroit
+- CONFIGURATION DES PORTS ETHERNET : 16 ports Gigabit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NAFND9A{{</world>}}

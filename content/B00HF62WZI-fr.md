@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Isolat de Whey protéine de haute qualité dune grande marque de nutrition sportive
 - Parfait pour tous ceux qui cherchent à augmenter leur apport en protéines parallèlement à une alimentation saine et équilibrée
-- Fournit une quantité massive de 24g de protéines par portion de 30g. Faible en glucides, lipides et lactose
 - lEmballage Peut Varier
+- Fournit une quantité massive de 24g de protéines par portion de 30g. Faible en glucides, lipides et lactose
 - Disponible dans une large gamme de saveurs différentes
 - Poudre instantanée pour un mélange sans grumeaux. Convient aux végétariens
 

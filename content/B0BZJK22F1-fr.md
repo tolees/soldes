@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 15,6" Full HD (1920 x 1080), 144 Hz, dalle de niveau IPS
 - Support de 2 écrans externes avec Matrix Display en utilisant les ports USB-C et HDMI
 - Processeur Intel Core i5 de 12e génération
 - Carte graphique NVIDIA GeForce RTX 4060 Laptop GPU 6 Go GDDR6 Propulsée par NVIDIA DLSS 3, larchitecture Ada Lovelace et les technologies Max-Q
-- 15,6" Full HD (1920 x 1080), 144 Hz, dalle de niveau IPS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZJK22F1{{</world>}}

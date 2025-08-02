@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La couche en PVA vous donne une meilleure capacité dabsorption autant sur le sec que sur lhumide
-- Ne pas utiliser avec de leau de Javel ni dassouplissants
-- Le relief en forme de croix empêche la friction avec la surface pour réduire leffort à chaque passage
 - Chiffon 100 % microfibres pour une plus grande puissance de nettoyage
+- Le relief en forme de croix empêche la friction avec la surface pour réduire leffort à chaque passage
+- Ne pas utiliser avec de leau de Javel ni dassouplissants
+- La couche en PVA vous donne une meilleure capacité dabsorption autant sur le sec que sur lhumide
 - Laver avec couleurs similaires (jusquà 60 °C)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

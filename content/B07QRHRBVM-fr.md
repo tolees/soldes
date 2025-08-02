@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plus de 15 environnements et des tonnes d’objets à débloquer.
+- 6 sports : tennis, foot, bowling, baseball, rafting et course de haies.
 - 20 personnages à customiser (nom, tenue, accessoires, cheveux…)
 - Modes de jeu variés, en solo ou en multijoueur jusqu’à 8.
-- 6 sports : tennis, foot, bowling, baseball, rafting et course de haies.
-- Plus de 15 environnements et des tonnes d’objets à débloquer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QRHRBVM{{</world>}}

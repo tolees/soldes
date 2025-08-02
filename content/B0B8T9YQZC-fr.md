@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compartiment principal avec fermeture éclair
-- Dimensions: 31 x 26 x 11cm
-- Sac à dos préscolaire avec bord gaufrée 3D
 - 2 poches latérales en maille
 - Doublure intérieure
+- Dimensions: 31 x 26 x 11cm
+- Compartiment principal avec fermeture éclair
+- Sac à dos préscolaire avec bord gaufrée 3D
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8T9YQZC{{</world>}}

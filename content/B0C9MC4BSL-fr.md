@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incarnez le jeune Tim Goodman, accompagné de son partenaire de « haut volt » : un Pokémon… qui parle ?
-- ! Ce suspect reste vague dans ses réponses ? Prenez le relais, incarnez Détective Pikachu et interagissez directement avec les Pokémon pour débloquer les enquêtes !
-- Résolvez les affaires non-classées de Ryme City et tentez de découvrir le mystère qui enveloppe la disparition de l’ancien coéquipier de Détective Pikachu…
 - Après un opus sur Nintendo 3DS et un film au cinéma, le plus grand détective du monde des Pokémon reprend du service sur Nintendo Switch
+- ! Ce suspect reste vague dans ses réponses ? Prenez le relais, incarnez Détective Pikachu et interagissez directement avec les Pokémon pour débloquer les enquêtes !
+- Incarnez le jeune Tim Goodman, accompagné de son partenaire de « haut volt » : un Pokémon… qui parle ?
 - Ensemble, inspectez les lieux, collectez des indices, confrontez des témoins et démêlez de nombreuses affaires mystérieuses !
+- Résolvez les affaires non-classées de Ryme City et tentez de découvrir le mystère qui enveloppe la disparition de l’ancien coéquipier de Détective Pikachu…
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C9MC4BSL{{</world>}}

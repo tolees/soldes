@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 170 pièces à assembler, niveau de difficulté 5/5 pour les maquettistes expérimentés
 - Haut niveau de détaille, planche à décalcomanies incluse
 - Maquette plastique à construire à coller et à peindre à léchelle 1/24
-- Peintures, colle et accessoires non inclus
+- 170 pièces à assembler, niveau de difficulté 5/5 pour les maquettistes expérimentés
 - Notice multilingue et détaillée et en couleur type BD. Autres véhicules à collectionner
+- Peintures, colle et accessoires non inclus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083YN7Z4Z{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : GSR 18V-110 C, 2 batteries ProCore 0 Ah, chargeur GAL 18V-40, L-BOXX
-- Compatible avec TrackMyTools, le système intelligent de gestion de parc d’outils Bosch
 - Efficace : Le puissant moteur et le moteur brushless (sans charbon) assurent une progression de travail rapide
 - Professional 18V System. Performances maximales. Liberté totale. Toutes nos batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de tension
+- Compatible avec TrackMyTools, le système intelligent de gestion de parc d’outils Bosch
 - Sécurité améliorée : Grâce au KickBack Control, la perceuse-visseuse s’arrête automatiquement dès qu’’il y a blocage
+- Livré avec : GSR 18V-110 C, 2 batteries ProCore 0 Ah, chargeur GAL 18V-40, L-BOXX
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083MWZKKR{{</world>}}

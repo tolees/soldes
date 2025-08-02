@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Biodégradable : Le nettoyant professionnel Canzt est fabriqué à partir de matériaux naturels et biodégradables. Protège les baskets, les chaussures et lenvironnement.
 - Sneaker Cleaner en format XXL : Pour le nettoyage professionnel des chaussures et des baskets. Bouteille XXL dune contenance de 236 ml.
+- Biodégradable : Le nettoyant professionnel Canzt est fabriqué à partir de matériaux naturels et biodégradables. Protège les baskets, les chaussures et lenvironnement.
 - Il fait également briller à nouveau les chaussures blanches : Convient à toutes les couleurs. Renforce et met en valeur les couleurs de vos chaussures.
 - Nouvelle formule pour un nettoyage maximal. Version XXL du populaire nettoyeur de baskets Canzt Professional.
 - Nettoie et entretient en douceur : recommandé pour presque tous les matériaux tels que la maille, le daim, le nylon, le coton. Convient également aux semelles de boost.

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【4 modes de test】 : cloison sèche, maçonnerie, résineux et bois dur pour tester les matériaux. Cet instrument intelligent peut être basé sur vos matériaux sélectionnés en appliquant les facteurs de correction et vous fournit les mesures les plus précises
-- 【Multifonction】 : le réglage de lalarme dhumidité aide à trouver la moisissure dans le bois. La fonction darrêt automatique de 5 minutes peut vous aider à économiser de lénergie. Un indicateur de faible puissance vous rappelle de remplacer la batterie à temps
 - 【Test non destructif】 : Lhumidimètre ERICKHILL sadapte aux méthodes non invasives et inductives pour mesurer lhumidité. Protégez votre maison contre les dégâts deau avec notre détecteur de fuite deau mural
 - 【Inspection de la profondeur】: la profondeur maximale de détection est de 50 mm. Plage de mesure : bois tendre : 0 %- 60 % ; 0 %- 36 % bois dur ; 0 % - 96 % mur et 0 %-100 % maçonnerie. Précision de +/- 4 % (résineux et bois dur)
+- 【4 modes de test】 : cloison sèche, maçonnerie, résineux et bois dur pour tester les matériaux. Cet instrument intelligent peut être basé sur vos matériaux sélectionnés en appliquant les facteurs de correction et vous fournit les mesures les plus précises
+- 【Multifonction】 : le réglage de lalarme dhumidité aide à trouver la moisissure dans le bois. La fonction darrêt automatique de 5 minutes peut vous aider à économiser de lénergie. Un indicateur de faible puissance vous rappelle de remplacer la batterie à temps
 - Écran LCD rétroéclairé】 : il est équipé dune fonction de rétroéclairage LCD et dun indicateur de barre tricolore qui peut fonctionner dans des conditions sombresÉcran LCD rétroéclairé : il est équipé dune fonction de rétroéclairage LCD et dun indicateur de barre tricolore qui peut fonctionner dans des conditions sombres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

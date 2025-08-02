@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Convient aux crayons et crayons couleurs et aux copies carbone
+- Corps du crayon en bois
 - Set de 2 crayons gomme Perfection
 - Effacement précis
-- Corps du crayon en bois
 - Gomme en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

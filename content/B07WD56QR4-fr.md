@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cils démultipliés sans paquet
-- Résultat longue tenue
-- Formule enrichie en collagène et pigments noirs extrêmes
-- Mascara volume extrême sur-mesure
 - Brosse fibres en zigzag qui capte tous les cils
+- Mascara volume extrême sur-mesure
+- Formule enrichie en collagène et pigments noirs extrêmes
+- Résultat longue tenue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WD56QR4{{</world>}}

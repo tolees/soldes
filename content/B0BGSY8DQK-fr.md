@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Protège, hydrate et procure une sensation immédiate de fraîcheur
+- Convient également à la peau sensible
 - Sans sels daluminium
 - Gel douche pour unisexe avec huiles essentielles de menthe sauvage
-- Convient également à la peau sensible
-- Protège, hydrate et procure une sensation immédiate de fraîcheur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGSY8DQK{{</world>}}

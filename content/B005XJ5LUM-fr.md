@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- écran polycarbonate et interrupteur magnétique fonctionnel pour travailler en toute sécurité
 - Spécialement pour le décapage fort sur surfaces résistantes, il possède une meule à eau et un bac de refroidissement à forets
-- Livré avec Meule A60 et sa brosse laitonnée
 - Pour meuler, aiguiser et décaper tous types doutils métalliques. Vitesse de rotation 2950 TR/MIN Vitesse de rotation 2 2950 TR/MIN
+- écran polycarbonate et interrupteur magnétique fonctionnel pour travailler en toute sécurité
+- Livré avec Meule A60 et sa brosse laitonnée
 - Son moteur puisant en aluminium, lampe déclairage et support doutils en font une machine pratique, efficace et performant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

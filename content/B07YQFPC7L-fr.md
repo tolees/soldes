@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MULTI USAGES : Solide et absorbante notre éponge est idéale pour tous les nettoyages ménagers notamment pour la vaisselle
-- STOP GRAISSE : Grâce à son système exclusif Stop Graisse, les graisses et les saletés ne sont pas retenues dans les fibres vertes grattantes, votre éponge reste ainsi propre et efficace plus longtemps
 - PARTIE EPONGE VEGETALE : La partie éponge est fabriquée à partir de coton, de pâte de bois et de lin
 - FABRIQUE EN FRANCE : La partie absorbante de cette éponge est fabriquée dans nos usines de lOise ou du Doubs
+- MULTI USAGES : Solide et absorbante notre éponge est idéale pour tous les nettoyages ménagers notamment pour la vaisselle
+- STOP GRAISSE : Grâce à son système exclusif Stop Graisse, les graisses et les saletés ne sont pas retenues dans les fibres vertes grattantes, votre éponge reste ainsi propre et efficace plus longtemps
 - LAVABLE : Lavable en machine à laver ou au lave-vaisselle à 40°C
 
 [🛒 Achète-le!!]({{< param buyurl >}})

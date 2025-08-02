@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lacets élastiques et système de fermeture par sangle pour un ajustement facile
-- Dessus : cuir (cuir de veau)
 - Couleur : bleu marine
+- Dessus : cuir (cuir de veau)
 - Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
 - Coutures à 360° pour plus de durabilité
 

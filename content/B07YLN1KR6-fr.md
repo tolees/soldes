@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le système de chauffage rapide de Thermoblock et sa puissante pompe à pression de 20 bars permettent dobtenir la meilleure crème et le meilleur arôme dans chaque café.
 - Double bras porte-filtre et deux filtres pour préparer le café automatiquement. Réservoir deau amovible dune capacité de 1,2 litres.
-- Machine à café pour expressos et capuccinos, 1350 W et design vintage. Pompe à pression italienne de 20 bars permet d’obtenir la meilleure crème et l’arôme maximum.
 - Inclut un vaporisateur réglable avec protection pour mousser le lait, émettre de l’eau chaude pour les infusions et préparer des cappuccinos
+- Machine à café pour expressos et capuccinos, 1350 W et design vintage. Pompe à pression italienne de 20 bars permet d’obtenir la meilleure crème et l’arôme maximum.
+- Le système de chauffage rapide de Thermoblock et sa puissante pompe à pression de 20 bars permettent dobtenir la meilleure crème et le meilleur arôme dans chaque café.
 - Plateau dégouttage amovible pour un nettoyage rapide. Système déconomie dénergie avec arrêt et stand-by automatiques. Indicateurs lumineux de chaque fonction
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

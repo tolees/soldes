@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sonic classique remis au goût du jour : Jouez à 4 grands classiques remasterisés sur écran HD - Sonic the Hedgehog, Sonic 2, Sonic 3 & Knuckles, et Sonic CD en haute définition, avec de nouveaux générique d’intro et de fin pour chaque jeux !
-- 16 Jeux Sonic Classiques, 1 collection intemporelle : Avec 16 titres incontournable de Sonic dont 12 jeux issus de la Game Gear, de nouveaux personnages, modes, défis, contenu bonus… C’est LA meilleure manière de (re)découvrir ces grands classiques du jeu vidéo.
 - Pack tout-en-un : Inclut déjà l’intégralité des contenus additionnels déjà sortis
+- 16 Jeux Sonic Classiques, 1 collection intemporelle : Avec 16 titres incontournable de Sonic dont 12 jeux issus de la Game Gear, de nouveaux personnages, modes, défis, contenu bonus… C’est LA meilleure manière de (re)découvrir ces grands classiques du jeu vidéo.
 - Nouveaux personnages jouables : Incarnez au choix Sonic, Tails ou Knuckles dans Sonic the Hedgehog, Sonic the Hedgehog 2, Sonic 3 & Knuckles, et Sonic CD! Et jouez Amy Rose pour la toute première fois dans ces jeux iconiques !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

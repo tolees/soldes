@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
-- Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
 - Conçu pour la maquette Lego 21319,avec ce kit déclairage, vous pouvez faire passer votre LEGO Friends Central Perk de lobscurité à la lumière, lui donner vie.
-- Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
+- Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
 - Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
+- Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
+- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07ZNQ78FS{{</world>}}

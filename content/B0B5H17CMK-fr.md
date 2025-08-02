@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 26 broches GPIO multifonctions
-- 264 Ko de SRAM, et 2 Mo de mémoire flash intégrée
-- Puce microcontrôleur RP2040 conçue par Raspberry Pi au Royaume-Uni
 - Processeur ARM Cortex M0+, horloge flexible jusquà 133 MHz
 - Interfaces sans fil mono-bande intégrée 2,4 GHz (802.11n)
+- Puce microcontrôleur RP2040 conçue par Raspberry Pi au Royaume-Uni
+- 264 Ko de SRAM, et 2 Mo de mémoire flash intégrée
+- 26 broches GPIO multifonctions
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5H17CMK{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Deux princesses
+- Un cheval ailé et sa calèche
 - Un décor de cascade gelée
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
-- Un cheval ailé et sa calèche
 - Un nécessaire à pique-nique
-- Deux princesses
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKQN7V4M{{</world>}}

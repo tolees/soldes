@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTERACTIF : 5 jeux sont intégrés pour créer des mélodies, entraîner la mémoire, découvrir les idées du jour et bien plus encore !
 - Age : 6 à 12 ans, un journal à lencre invisible pour cacher tous les secrets
 - Magique : le carnet A6 de 30 pages et le stylo à encre invisible inclus permettent décrire tous les secrets et de les révéler à laide dune lampe UV. La poche située derrière le carnet permet de cacher des objets ou des souvenirs.
 - Version : française.
+- INTERACTIF : 5 jeux sont intégrés pour créer des mélodies, entraîner la mémoire, découvrir les idées du jour et bien plus encore !
 - INCLUS : contrôle du volume/stylo à encre invisible/lampe UV. Nécessite 3 piles LR6 AA (incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

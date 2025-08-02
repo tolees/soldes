@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité iPad, iPhone, Mac. Facile à appairer, ce clavier est compatible avec la plupart des appareils Apple mais aussi votre laptop ou tablette.
+- Raccourcis multimédia. Gagnez du temps et optimisez votre navigation à l’aide de ses 13 raccourcis multimédia : modifier le volume, accélérer une vidéo, ouvrir vos mails, etc.
 - Connexion Bluetooth 5.0. Facile à appairer, le clavier MINI-MAC se connecte rapidement avec une portée allant jusqu’à 10m pour une liberté de mouvement totale !
 - +1 mois d’autonomie. Le clavier MINI-MAC vous permet une utilisation longue durée et fonctionne à laide de 2 piles AAA 1,5V (incluses).
+- Compatibilité iPad, iPhone, Mac. Facile à appairer, ce clavier est compatible avec la plupart des appareils Apple mais aussi votre laptop ou tablette.
 - Design fin et épuré + frappe silencieuse et agréable. Le clavier MINI-MAC est pratique et peu encombrant. En plus de son poids léger de 190g, profitez d’une frappe agréable et précise grâce à ses touches concaves à membrane.
-- Raccourcis multimédia. Gagnez du temps et optimisez votre navigation à l’aide de ses 13 raccourcis multimédia : modifier le volume, accélérer une vidéo, ouvrir vos mails, etc.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JG8PZ28{{</world>}}

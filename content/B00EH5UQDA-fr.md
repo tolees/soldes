@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids :0.02 kilogrammes
-- Vitesse : 400X
-- Taux de transfert maximal: 90 MB / s
 - Dimension (L x l x h ) : 3 centimètres x 2.4 centimètres x 0.2 centimètres. Température de fonctionnement: -25 ° C (-13 ° F) ~ 85 ° C (185 ° F) (Standard)
+- Vitesse : 400X
+- Poids :0.02 kilogrammes
+- Taux de transfert maximal: 90 MB / s
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00EH5UQDA{{</world>}}

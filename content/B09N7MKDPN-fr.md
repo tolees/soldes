@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : synthétique
-- Largeur de la chaussure : moyenne
-- Fermeture : fermeture Velcro
-- Matériau extérieur : synthétique
 - Forme du talon : plat
+- Largeur de la chaussure : moyenne
+- Matériau extérieur : synthétique
+- Matériau intérieur : synthétique
+- Fermeture : fermeture Velcro
 - Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

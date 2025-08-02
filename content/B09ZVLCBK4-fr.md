@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en EVA pour un maintien léger et un meilleur maintien
 - Système de fermeture Velcro
+- Semelle extérieure en EVA pour un maintien léger et un meilleur maintien
 - Synthétique recyclée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

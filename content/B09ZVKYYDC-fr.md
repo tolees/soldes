@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure en EVA pour plus de légèreté et une meilleure adhérence
-- Composition supérieure en coton recyclé
 - Semelle intérieure OrthoLite pour lamorti et la respirabilité
+- Composition supérieure en coton recyclé
 - Semelle extérieure XL EXTRALIGHT pour plus de légèreté et dabsorption des chocs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

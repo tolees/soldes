@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rapport optimal Ca/P
-- Avec une teneur élevée en fibres brutes
 - La nourriture à deux composants pour les reptiles herbivores
+- Avec une teneur élevée en fibres brutes
+- Rapport optimal Ca/P
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DGYNONW{{</world>}}

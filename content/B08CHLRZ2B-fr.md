@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Options de routage de câbles pour une gestion facile des câbles: Le clavier dispose de rainures qui vous permettent de bloquer facilement le câble dans n’importe quelle direction. Profitez d’un bureau dégagé.
-- Alimenté par Razer Chroma RGB pour un éclairage personnalisable et une immersion accrue en jeu: Grâce aux 16,8 millions de couleurs et à une suite d’effets, personnalisez le clavier et profitez d’une immersion accrue avec des effets d’éclairage dynamiques qui se déclenchent pendant que vous jouez à des titres disposant de l’intégration Chroma.
-- Forme compacte pour une configuration épurée: La conception sans pavé numérique permet un placement facilité pour créer la configuration idéale pour les joueurs préférant avoir un bureau bien dégagé.
 - Switchs mécaniques verts Razer pour une exécution précise et une sensation tactile et sonore: Sentez et entendez ce retour agréable à chaque frappe grâce à sa conception classique centrée sur l’optimisation de l’activation et des points de réinitialisation afin de vous offrir plus de performances pendant vos sessions de jeu.
+- Forme compacte pour une configuration épurée: La conception sans pavé numérique permet un placement facilité pour créer la configuration idéale pour les joueurs préférant avoir un bureau bien dégagé.
 - Touches entièrement programmables pour personnaliser les profils, les associations de touches et les macros.: Rendez votre exécution et votre gameplay plus efficace en associant les fonctions souhaitées via Razer Synapse 3, et modifiez le clavier pour qu’il soit adapté à votre style de jeu, en créant et en sauvegardant des profils et des macros uniques.
+- Alimenté par Razer Chroma RGB pour un éclairage personnalisable et une immersion accrue en jeu: Grâce aux 16,8 millions de couleurs et à une suite d’effets, personnalisez le clavier et profitez d’une immersion accrue avec des effets d’éclairage dynamiques qui se déclenchent pendant que vous jouez à des titres disposant de l’intégration Chroma.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CHLRZ2B{{</world>}}

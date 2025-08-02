@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉPLUCHEUR UNIVERSEL : fruits et légumes, à la peau tendre comme à la peau dure… rien ne lui résiste ! Cet éplucheur universel est prêt à relever tous les défis et à faire de la cuisine un jeu d’enfant.
-- LA PLUS HAUTE QUALITÉ SUISSE : Victorinox est synonyme de savoir-faire artisanal et de design innovant. Nous nous appuyons sur 130 ans d’expérience pour produire des couteaux, des montres, des bagages et des parfums emblématiques et de grande qualité.
 - SPÉCIFICATIONS : Dimensions : 175 mm/6,9 po de long × 21 mm/0,8 po de large × 20 mm/0,8 po de haut. Poids : 21 g/0.7 oz. Matériau : polypropylène (PP). Couleur : Noir. Référence de l’article : 7.6075.
+- LA PLUS HAUTE QUALITÉ SUISSE : Victorinox est synonyme de savoir-faire artisanal et de design innovant. Nous nous appuyons sur 130 ans d’expérience pour produire des couteaux, des montres, des bagages et des parfums emblématiques et de grande qualité.
+- ÉPLUCHEUR UNIVERSEL : fruits et légumes, à la peau tendre comme à la peau dure… rien ne lui résiste ! Cet éplucheur universel est prêt à relever tous les défis et à faire de la cuisine un jeu d’enfant.
 - LES JOIES DE LA CUISINE : préparer un repas permet de laisser libre cours à sa créativité et quel meilleur outil qu’un éplucheur à légumes équipé d’un manche ergonomique pour suivre votre inspiration ?
 - SUPÉRIEUR : Nos lames en acier inoxydable léger de qualité supérieure offrent précision, stabilité et exactitude. Elles sont faciles à nettoyer, extrêmement tranchantes et constituent le cadeau idéal pour un usage quotidien ou pour les professionnels de la cuisine.
 

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Capacité de stockage jusquà 510 Go
 - Conforme aux normes UHS-II U3 et V30
 - Lecture max. 95 Mo ; Ecriture max. 55 Mo
-- Idéal pour un enregistrement quotidien des appareils photo numériques
-- Capacité de stockage jusquà 510 Go
-- Certificat : CE/FCC/RCM/EAC/UKCA
 - Parfait pour une capture vidéo 4K fluide et sans interruption
+- Idéal pour un enregistrement quotidien des appareils photo numériques
+- Certificat : CE/FCC/RCM/EAC/UKCA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RR7THPP{{</world>}}

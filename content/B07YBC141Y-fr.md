@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il contribue à réduire la fatigue
 - Pour les personnes qui se sentent fatiguées ou en situation de stress et souhaitant restaurer leur équilibre en magnésium ainsi qu’en vitamines B6, B2 et B1
+- Il contribue à réduire la fatigue
 - Les vitamines B6, B2 et B1 contribuent au bon fonctionnement du système nerveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

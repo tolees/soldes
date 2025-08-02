@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Explorez la ville et complétez quêtes et défis dans le mode aventure.
 - 24 mini-jeux plus délirants les uns que les autres, tout droit sortis de l’imagination des sisters: tir de licorne, usine à cupcakes, extrême ping-pong…
+- Explorez la ville et complétez quêtes et défis dans le mode aventure.
 - Découvrez le jeu vidéo adapté de la bande dessinée best-seller et plongez dans l’univers des sisters
 - Amusez-vous en famille ou entre amis dans l’un des 4 modes multijoueurs
 

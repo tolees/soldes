@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions géantes pour jouer ou se détendre
-- Poids du colis: 4.1 kilograms
 - Un design stylé et coloré
 - Comporte 2 poignées de maintien pour plus de sécurité
+- Poids du colis: 4.1 kilograms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W343FDR{{</world>}}

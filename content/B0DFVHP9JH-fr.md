@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- - 2G GSM 850 / 900 / 1800 / 1900
+- Type: Smartphone
+- - SIM 1 & SIM 2 (dual-SIM model only)
 - - 4G 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66
 - - 3G HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
-- Type: Smartphone
-- - 2G GSM 850 / 900 / 1800 / 1900
-- - SIM 1 & SIM 2 (dual-SIM model only)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DFVHP9JH{{</world>}}

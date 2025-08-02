@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglage DPI 400/800/1 600/3 200
-- Polling rate USB réglable 125/500/1 000 Hz
+- La conception sans fil avec récepteur optimisé offre aux joueurs une performance stable et de haute qualité, que ce soit en compétition, à la maison ou dans une arène.
 - Design ergonomique asymétrique offrant un placement naturel de la main droite, une option très répandue parmi les joueurs professionnels.
 - Pour les utilisateurs adeptes du palm grip, la coque supérieure offre une courbure naturelle qui s’adapte à la main, avec un soutien tout en douceur de la paume et des doigts.
-- La conception sans fil avec récepteur optimisé offre aux joueurs une performance stable et de haute qualité, que ce soit en compétition, à la maison ou dans une arène.
+- Polling rate USB réglable 125/500/1 000 Hz
+- Réglage DPI 400/800/1 600/3 200
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BXGZ9BDZ{{</world>}}

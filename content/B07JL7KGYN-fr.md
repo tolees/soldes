@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age range descriptio : enfants, adultes
 - Jeu coopératif
+- Age range descriptio : enfants, adultes
 - Tout le plaisir et l’interaction d’un jeu coopératif
 - 3 nouveaux défis, 7 nouveaux rôles
 

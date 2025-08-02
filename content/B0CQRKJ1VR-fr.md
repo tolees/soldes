@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de talon:Sans talon
-- Matériau de la semelle: Caoutchouc synthétique
-- Matériau intérieur: Cuir
 - Matériau extérieur:Cuir
+- Matériau de la semelle: Caoutchouc synthétique
+- Type de talon:Sans talon
+- Matériau intérieur: Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQRKJ1VR{{</world>}}

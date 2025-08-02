@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Yo joe! G.I. Joe et cobra sont de retour ! vivez laction des deux côtés en aidant g.I. Joe à rétablir lordre ou en menant cobra vers la domination mondiale
-- Jouez avec un ami en coopération locale ou participez à des matchs pvp à 4 joueurs dans 4 modes: capture du drapeau, assaut, king of the hill et deathmatch arena
-- Jouez avec 12 de vos personnages préférés à travers 17 missions épiques
-- G.I. Joe: operation blackout est un jeu de tir à la troisième personne où vous incarnez vos personnages préférés de léquipe g.I. Joe et de léquipe cobra à travers une campagne unique
 - 18 armes impressionnantes, 36 skins darmes, 12 skins de personnages alternatifs et une série de capacités dévastatrices ultimes & uniques.
+- G.I. Joe: operation blackout est un jeu de tir à la troisième personne où vous incarnez vos personnages préférés de léquipe g.I. Joe et de léquipe cobra à travers une campagne unique
+- Jouez avec 12 de vos personnages préférés à travers 17 missions épiques
+- Jouez avec un ami en coopération locale ou participez à des matchs pvp à 4 joueurs dans 4 modes: capture du drapeau, assaut, king of the hill et deathmatch arena
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08GN4FKH3{{</world>}}

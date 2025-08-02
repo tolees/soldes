@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- retour automatique a sa station de re chargement
-- Enregistrement vidéo en un clic via une application, partage librement.
+- Capteur infrarouge x5 Capteur d’image CMOS Starlight GC2053
 - Votre caméra IP intérieure en mouvement
-- Caméra HD 1080p HD
+- Évitement automatique dobstacles
 - WiFi 2.4G (max 50m du routeur 802.11.b/g/n dans l’espace ouvert) WiFi 5.2G (max 80m de routeur 802.11.ac dans l’espace ouvert)
 - Lapplication EBO est livrée avec des tonnes dédition et de fonctionnalités sociales pour vous aider à partager vos moments avec le monde.
-- Évitement automatique dobstacles
-- Capteur infrarouge x5 Capteur d’image CMOS Starlight GC2053
+- Caméra HD 1080p HD
+- retour automatique a sa station de re chargement
 - détection de mouvement et vision nocturne infrarouge
+- Enregistrement vidéo en un clic via une application, partage librement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HSSCN2M{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réversible
-- Tissu de haute qualité
-- Taille compacte
-- Facile à installer
 - Les produits Lastolite par Manfrotto ont tous été renommés Manfrotto. Vous pourriez recevoir tant bien la version Lastolite par Manfrotto que Manfrotto, le produit est exactement le même
+- Taille compacte
+- Réversible
+- Facile à installer
+- Tissu de haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07M64SH3H{{</world>}}

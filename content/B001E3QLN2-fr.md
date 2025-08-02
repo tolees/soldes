@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps de haute qualité en métal gris argenté
-- Indicateur de dureté de la mine sur le corps
 - Porte-mines technique rechargeable pour mines 0,9mm
+- Corps de haute qualité en métal gris argenté
 - Idéal pour dessins techniques et utilisation quotidienne
+- Indicateur de dureté de la mine sur le corps
 - Porte-mines avec canon rentrant et muni dune gomme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

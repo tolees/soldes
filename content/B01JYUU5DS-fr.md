@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Température de fonctionnement -13° F à 185° F (-25° C à 85° C
-- Maximisation de lefficacité du flux de travail avec des vitesses de transfert pouvant atteindre 300 Mo/s, vitesse extrême pour capturer chaque image
 - Performances vidéo disponibles permettant un enregistrement vidéo Full HD et 4K de qualité cinéma
+- Maximisation de lefficacité du flux de travail avec des vitesses de transfert pouvant atteindre 300 Mo/s, vitesse extrême pour capturer chaque image
+- Température de fonctionnement -13° F à 185° F (-25° C à 85° C
 - 32 Go à 128 Go pour des séances vidéo et photo plus longues et sans interruption, Reconnu par les professionnels
 - Sécurité: Le système de protection en écriture intégré empêche la perte de données accidentelle
 - Cartes mémoire ultra-rapides SDHC et SDXC UHS-II avec des vitesses de pointe allant jusquà 260 Mo/s

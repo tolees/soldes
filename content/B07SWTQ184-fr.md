@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur du colis de larticle: 195 mm
-- Longueur du colis de larticle: 340 mm
 - Poids du colis de larticle: 0.26 kg
+- Longueur du colis de larticle: 340 mm
 - Hauteur du colis de larticle: 130 mm
+- Largeur du colis de larticle: 195 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SWTQ184{{</world>}}

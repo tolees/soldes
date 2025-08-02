@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonus précommance / édition day-one : Pack "Adventure Capital"
 - Contenu : 2 jeux : jeu de base + jeu Tales from the Borderlands (2014) inclus en code
 - Pack Adventure Capital : Objets cosmétiques pour Anu, Octavio et Fran / 10.000 unités de la monnaie du jeu / Item collector FL4K Vaultlander
+- Bonus précommance / édition day-one : Pack "Adventure Capital"
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BBR5GP26{{</world>}}

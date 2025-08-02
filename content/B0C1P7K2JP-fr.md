@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enrichie en Glicoamine, crème cheveux sans rinçage pour empêcher la casse et la couleur de virer. Sa texture fondante est instantanément absorbée par la fibre et enrobe les cuticules pour une action anti-frisottis et un résultat en légèreté. Protège contre limpact des UV et la chaleur (230 °C).
 - Intensément hydratés et renforcés, les cheveux sont plus souples, plus faciles à coiffer et visiblement plus sains. 72h hydratation* 72h anti-frisottis * *Test instrumental
 - Appliquer sur cheveux humides. Procéder au brushing ou au séchage à lair libre. Pour des résultats optimaux, à appliquer après le shampooing et le masque Metal Detox.
+- Enrichie en Glicoamine, crème cheveux sans rinçage pour empêcher la casse et la couleur de virer. Sa texture fondante est instantanément absorbée par la fibre et enrobe les cuticules pour une action anti-frisottis et un résultat en légèreté. Protège contre limpact des UV et la chaleur (230 °C).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C1P7K2JP{{</world>}}

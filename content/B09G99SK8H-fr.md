@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wi‑Fi 802.11ac
-- Jusqu’à 10 heures d’autonomie
-- Appareil photo arrière grand-angle 8 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
 - Connecteur Lightning pour la recharge et les accessoires
-- Touch ID pour l’authentification sécurisée
 - Haut‑parleurs stéréo
-- Compatible avec l’Apple Pencil (1ʳᵉ génération) et le Smart Keyboard
 - Superbe écran Retina de 10,2 pouces avec True Tone
+- Touch ID pour l’authentification sécurisée
+- Jusqu’à 10 heures d’autonomie
 - Jusqu’à 256 Go de stockage
+- Appareil photo arrière grand-angle 8 Mpx, caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Wi‑Fi 802.11ac
+- Compatible avec l’Apple Pencil (1ʳᵉ génération) et le Smart Keyboard
 - Puce A13 Bionic avec Neural Engine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

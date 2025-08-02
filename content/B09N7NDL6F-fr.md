@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur de la chaussure : moyenne
+- Forme du talon : plat
 - Matériau intérieur : synthétique
 - Matériau extérieur : synthétique
-- Forme du talon : plat
 - Fermeture : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

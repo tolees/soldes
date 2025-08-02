@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à nettoyer (l’eau du robinet suffit) et facile à monter
-- Recommandé pour les chiens de très grande taille, comme les dogues allemands ou les bouviers bernois
 - Ce lit surélevé pour animaux de compagnie offre à vos animaux un espace de repos confortable et rafraîchissant favorisant une meilleure circulation de l’air et réduisant la pression au niveau des articulations
-- Dimensions du produit (L x l x H) : 153 x 94 x 23 cm ; Dimensions du tissu (L x l) : 133 x 95 cm
 - Comprend un lit pour animaux de compagnie de taille XL doté d’un cadre en fer durable et d’un tissu en maille perméable à l’air de couleur grise, et accompagné des vis et du tournevis nécessaires à son montage
+- Facile à nettoyer (l’eau du robinet suffit) et facile à monter
+- Dimensions du produit (L x l x H) : 153 x 94 x 23 cm ; Dimensions du tissu (L x l) : 133 x 95 cm
+- Recommandé pour les chiens de très grande taille, comme les dogues allemands ou les bouviers bernois
 - Permet une surélévation de plus de 23 cm par rapport au sol
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

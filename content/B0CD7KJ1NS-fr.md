@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jusquà 80 minutes dautonomie
+- Lames en métal inusables
 - Système de coupe SkinFirst conçu pour aider à réduire les irritations dues au rasage
 - Etanche, peut sutiliser sous la douche
-- Jusquà 80 minutes dautonomie
 - Tondeuse Gillette Intimate, Doux & facile pour la zone intime : pour tailler facilement et en toute sécurité
-- Lames en métal inusables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CD7KJ1NS{{</world>}}

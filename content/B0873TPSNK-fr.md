@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Charmante attention : Surprenez vos amis, votre famille ou vos collègues avec cette tasse à moka décorative originale
 - Idéal pour le bureau : Apportez une touche de luxe au bureau avec cette tasse de 100 ml, volume adapté à la plupart des machines à café courantes
 - Un vent de fraîcheur : Cette tasse en porcelaine effet ardoise apporte une touche de design originale à votre table et ravira vos convives
-- Charmante attention : Surprenez vos amis, votre famille ou vos collègues avec cette tasse à moka décorative originale
 - À tout moment de la journée : Cette tasse embellit votre journée dès le matin et se prête aussi à la dégustation d’un bon expresso après un bon repas
 - Contenu : 1x Villeroy & Boch Manufacture Rock Tasse à moka/expresso, contenance : 100 ml, poids : 92 g (réf. 10-4239-1420)
 

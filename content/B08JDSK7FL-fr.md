@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dune prise audio de 3,5 mm
-- Câble USB détachable de 3 m
 - De boutons de jeu avancé mappables
+- Câble USB détachable de 3 m
+- Dune prise audio de 3,5 mm
 - Produit sous licence officielle de Nintendo avec garantie de deux ans (voir PowerA.com/Support)
 - Fonctionne sans piles
 

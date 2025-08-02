@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultats : Le cuir chevelu reste propre et purifié, même après 72H*, *Test consommateur sur 59 utilisateurs, 72H après utilisation du sérum + shampooing
 - Formule : L’Acide Salicylique élimine l’excès de sébum et les impuretés du cuir chevelu, l’Acide Hyaluronique hydrate sans alourdir
-- Application : Avant le shampooing, appliquer le sérum sur cheveux secs section par section, directement sur le cuir chevelu, Masser pendant 5 minutes, laisser poser 15 minutes puis rincer
 - Racines grasses & longueurs déshydratées: Notre Sérum Purifiant enrichi à 6% de complexe exfoliant aux Acides Salicylique et Glycolique purifie le cuir chevelu sans lagresser
 - Contenu : 1x Elseve Hyaluron Pure, Sérum Purifiant Cuir Chevelu Gras, Tous types de cheveux, 102ml
+- Résultats : Le cuir chevelu reste propre et purifié, même après 72H*, *Test consommateur sur 59 utilisateurs, 72H après utilisation du sérum + shampooing
+- Application : Avant le shampooing, appliquer le sérum sur cheveux secs section par section, directement sur le cuir chevelu, Masser pendant 5 minutes, laisser poser 15 minutes puis rincer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK8NJYLN{{</world>}}

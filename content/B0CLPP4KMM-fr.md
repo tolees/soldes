@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection de nuque exceptionnellement étendue pour les longues journées sous un soleil de plomb
-- Chapeau qui évacue lhumidité et sèche rapidement, Couvre à la fois la tête et la nuque
 - Confection en nylon avec bandeau Omni-Wick respirant
-- Cordon de serrage réglable à larrière du chapeau pour un positionnement optimal
+- Chapeau qui évacue lhumidité et sèche rapidement, Couvre à la fois la tête et la nuque
 - Contents: 1x Columbia Bora Bora Booney, Chapeau Unisexe , Colour: Gris (Grill), Size: O/S, Article: 1447091
+- Protection de nuque exceptionnellement étendue pour les longues journées sous un soleil de plomb
+- Cordon de serrage réglable à larrière du chapeau pour un positionnement optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CLPP4KMM{{</world>}}

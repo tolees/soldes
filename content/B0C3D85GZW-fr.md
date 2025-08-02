@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Huile dargan, notre huile dargan dorée biologique, équitable et pressée à froid est une source naturelle de vitamine E qui sert dessence de cet ensemble dhuile dargan Orofluido pour cheveux et corps
-- Lotion hydratante pour le corps, la lotion corporelle végétalienne hydrate et adoucit la peau avec un effet radieux
 - Shampooing Radiance, shampooing hydratant qui lisse les cheveux en les laissant brillants et délicatement parfumés avec notre parfum signature
+- Lotion hydratante pour le corps, la lotion corporelle végétalienne hydrate et adoucit la peau avec un effet radieux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3D85GZW{{</world>}}

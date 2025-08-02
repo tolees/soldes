@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Se déchire facilement à la main
-- La gamme grizzly, la force sauvage
-- Monstrueusement fort pour une utilisation universelle
 - Offre une adhérence immédiate et puissante sur une variété de surfaces
-- Prise initiale très élevée
-- Résiste aux intempéries, à la température et aux UV
-- Étanche à leau
 - Ultra-épais
+- Prise initiale très élevée
+- Étanche à leau
+- Se déchire facilement à la main
+- Monstrueusement fort pour une utilisation universelle
 - UHU vous accompagne dans tous vos projets de loisirs créatifs, DIY et bricolage
+- La gamme grizzly, la force sauvage
+- Résiste aux intempéries, à la température et aux UV
 - Intérieur et extérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

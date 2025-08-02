@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - La batterie est compatible avec tous les outils 12 V Bosch Home Et Garden
 - Pas deffet mémoire en raison de décharges partielles fréquentes : la batterie garde sa capacité dorigine
-- Longue durée de vie grâce à la technologie Electronic Cell Protection (ECP) de Bosch, qui protège la batterie contre la surcharge, la surchauffe et la décharge totale
-- La batterie de rechange PBA 12 V est toujours prête à lemploi grâce à la technologie lithium-ion
 - Contenu de la livraison : 1x batterie 12 V / 2.0 Ah, livré dans un carton
+- La batterie de rechange PBA 12 V est toujours prête à lemploi grâce à la technologie lithium-ion
+- Longue durée de vie grâce à la technologie Electronic Cell Protection (ECP) de Bosch, qui protège la batterie contre la surcharge, la surchauffe et la décharge totale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNN7KYLL{{</world>}}

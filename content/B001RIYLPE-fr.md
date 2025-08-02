@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nécessite des piles : Non
 - Contenu du packaging : Jouet de bain
+- Nécessite des piles : Non
 - Dimensions : 12 x 12 x 18 cm
-- Age minimum : 6 mois
 - Valeur éducative : Manipuler, manier
+- Age minimum : 6 mois
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001RIYLPE{{</world>}}

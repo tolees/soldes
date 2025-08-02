@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisez le vaporisaschtroumpf pour libérer le passage
 - Soignez toutes les plantes sur votre chemin
+- Utilisez le vaporisaschtroumpf pour libérer le passage
 - Libérez vos camarades
 
 [🛒 Achète-le!!]({{< param buyurl >}})

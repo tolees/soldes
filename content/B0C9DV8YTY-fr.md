@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incarne tes personnages préférés : choisis entre Sonic, Tails, Knuckles et Amy Rose
-- Un nouveau standard : Une aventure Sonic classique conçue pour les plateformes modernes.
 - Partage le fun entre amis : Toute l’histoire du jeu est jouable en coopération jusqu’à 4 joueurs en local.
 - Utilise le pouvoir des Chaos Emeralds : De nouveaux pouvoirs vous permettent de vous cloner, de gravir les chutes d’eau, de changer de forme, et bien plus encore.
+- Un nouveau standard : Une aventure Sonic classique conçue pour les plateformes modernes.
+- Incarne tes personnages préférés : choisis entre Sonic, Tails, Knuckles et Amy Rose
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C9DV8YTY{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
 - Doublure :
+- Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
 - Semelle intérieure : OrthoLite pour plus damorti et de respirabilité
 - Couleur : noir
 - Tige : Cuir de vachette

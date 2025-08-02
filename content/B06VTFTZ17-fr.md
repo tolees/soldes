@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant à la poussière et à lhumidité
-- Spécifications du zoom: 0,13x
-- Angle de vue (APS-C): 19°
-- Ouverture circulaire jusquà F1.8 pour un superbe effet de bokeh
 - Distance focale équivalente 35 mm (APS-C) : 127,5
-- Compatibilité téléconvertisseur: (x2.0)
+- Résistant à la poussière et à lhumidité
 - Auto Focus rapide avec double moteur linéaire
+- Ouverture circulaire jusquà F1.8 pour un superbe effet de bokeh
+- Angle de vue (APS-C): 19°
+- Compatibilité téléconvertisseur: (x2.0)
+- Spécifications du zoom: 0,13x
 - Compact et léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forces de lordre - Marine
-- Petite
 - Remarque :Cet article est peu extensible.
+- Petite
+- Forces de lordre - Marine
 - Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Conseils dentretien: lavage en machine, ne pas utiliser dadoucissant
-- Matériel: 100% polyester (recyclé)
 - Cordon de serrage caché
+- Matériel: 100% polyester (recyclé)
 - Coupe standard pour une sensation détendue et facile
 - Empiècement en mesh contrasté des deux côtés
 

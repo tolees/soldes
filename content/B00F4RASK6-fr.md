@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Câble USB
 - Couleur : n/a
 - Garantie Fabricant: Pas de garantie
-- Câble USB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00F4RASK6{{</world>}}

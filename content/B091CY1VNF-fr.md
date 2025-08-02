@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Batterie interchangeable : ne vous souciez pas d’être à court d’autonomie, même sur le terrain ou dans un environnement de travail sans accès à un point de charge
-- Sensibilité accrue : travaillez dans des conditions difficiles sans avoir à retirer vos gants de protection grâce à une sensibilité accrue de l’écran tactile
 - Samsung Knox : où que vous alliez et quoi que vous fassiez, gardez la certitude que les données de votre entreprise restent sécurisées
+- Sensibilité accrue : travaillez dans des conditions difficiles sans avoir à retirer vos gants de protection grâce à une sensibilité accrue de l’écran tactile
 - Un téléphone professionnel robuste : avec une résistance à l’eau et à la poussière IP 681 et une garantie constructeur de 3 ans, le Samsung Galaxy Entreprise Edition est conçu pour résister aux environnements les plus extrêmes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

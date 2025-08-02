@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amortissement : un support de talon EVA offre un rembourrage et une absorption des chocs
 - Confort : une semelle intérieure SoftFoam assure une sensation particulièrement douce lors de la marche
+- Amortissement : un support de talon EVA offre un rembourrage et une absorption des chocs
 - Coupe : la tige dispose dun renfort spécial au milieu du pied pour un ajustement et un confort optimaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

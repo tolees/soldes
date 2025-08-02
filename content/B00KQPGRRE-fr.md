@@ -29,15 +29,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoires fournis : Trépied / Filtre anti-pop / Pince pour micro / Pochette / Câble USB 6m
-- Microphone USB type : micro à Condensateur large membrane
 - Plage dynamique: 96 dB
-- Compatible Mac & PC. SPL maximum: 110dB SPL
 - Réponse en fréquence : 20 Hz - 20 kHz
 - Longueur : 184 mm. Poids : 520gr. Modèle: NT-USB
+- Idéal pour lenregistrement des voix et des instruments. USB : entrée/sortie stéréo
+- Son de haute qualité.Capsule: 1.27 cm
+- Compatible Mac & PC. SPL maximum: 110dB SPL
+- Microphone USB type : micro à Condensateur large membrane
 - Alimenté par le port USB. Couleur : noir mat
 - Compatible avec iPad ou iPhone à laide dun kit de connexion pour caméra optionnel. Compatible avec le pare-brise SMR shockmount & WS2 foam
-- Son de haute qualité.Capsule: 1.27 cm
-- Idéal pour lenregistrement des voix et des instruments. USB : entrée/sortie stéréo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KQPGRRE{{</world>}}

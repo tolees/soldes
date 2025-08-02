@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produits de beauté
 - Accessoires pour colorations
 - Marque Garnier
+- Produits de beauté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00X9TV1DE{{</world>}}

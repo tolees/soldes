@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau du corps: 82% coton et 18% polyester
+- Poche avant
 - Le tissu polaire est doux et chaud
 - Avec la meilleure qualité
 - La capuche avec cordon de serrage vous permet dajuster votre couverture
-- Matériau du corps: 82% coton et 18% polyester
-- Poche avant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9VCJRS{{</world>}}

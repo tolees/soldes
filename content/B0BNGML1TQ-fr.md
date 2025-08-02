@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- REFRESH RATE 170Hz, MPRT 1MS - Taux de rafraichissement élevé 170Hz certifié AMD FreeSync Premium, protections contre la lumière bleue & anti-scintillement; Temps de réponse 1ms (MPRT) pour éliminer les déchirures & images saccadées
+- EXPÉRIENCE GAMING ULTIME - La gamme Optix offre un avantage concurrentiel avec la fonction intelligente Night Vision & des mises à jour du micrologiciel pour des performances optimales
 - 27" WQHD - Dalle VA 2560x1440 avec une précision de couleur extrême, 1,07 milliards de couleurs (91% DCI-P3, sRGB 114%); Luminosité 250 nits & contraste 3000:1 (100000000:1 dynamique)
 - CONNECTIVITÉ DE POINTE - Les options dinterface vidéo incluent DisplayPort 1.2a (FHD/144Hz) ainsi que ports HDMI 2.0b (avec CEC); Mais aussi: Sortie écouteurs, bouton de navigation 5 directions. Comprend un verrou Kensington
 - IMMERSION EXTRÊME - Les écrans incurvés MSI offrent une expérience gaming plus immersive avec une courbure 1500R à la distance de visualisation optimale & un design sans cadre pour se fondre encore plus dans limage
-- EXPÉRIENCE GAMING ULTIME - La gamme Optix offre un avantage concurrentiel avec la fonction intelligente Night Vision & des mises à jour du micrologiciel pour des performances optimales
-- REFRESH RATE 170Hz, MPRT 1MS - Taux de rafraichissement élevé 170Hz certifié AMD FreeSync Premium, protections contre la lumière bleue & anti-scintillement; Temps de réponse 1ms (MPRT) pour éliminer les déchirures & images saccadées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNGML1TQ{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Téléphone sans fil Philips D1602B/01
 - 4895229101029
 - D1602B/01
-- Téléphone sans fil Philips D1602B/01
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082L5ZPHL{{</world>}}

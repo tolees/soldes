@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Liberte de mouvement absolue
-- Haute qualite
-- Type de sport: Vêtements de sports athlétiques
 - Confort de port eleve
 - Marque: nike
+- Type de sport: Vêtements de sports athlétiques
+- Haute qualite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD7PF4H{{</world>}}

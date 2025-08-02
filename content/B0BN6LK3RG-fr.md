@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indice de résistance à leau : non étanche
 - Forme du talon : plat
+- Indice de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AOC Moniteur de jeu avec taux de rafraîchissement de 165 Hz, temps de réponse MPRT de 1 ms et FreeSync Premium Le 24G2SP/BK est notre modèle de 24" pour les joueurs qui ne veulent pas renoncer au confort pour des performances élevées. Il dispose non seulement dun pied ergonomique réglable en hauteur, mais il offre également une Full HD 1080p (FHD), un faible retard dentrée, AMD FreeSync Premium et une large gamme de couleurs
+- Garantie constructeur 3 ans Vous trouverez les conditions de garantie sous « Informations techniques supplémentaires ». Vos droits de garantie légaux restent intacts
 - Action décran plus rapide avec un temps de réponse de 1 ms et un taux de rafraîchissement de 165 Hz. La technologie Flicker Free et Low Blue Mode assure une réduction de la fatigue oculaire tout en augmentant le confort visuel
 - Panneau IPS à angle de vue stable, résolution Full HD, écran mat, hauteur réglable de 130 mm, sortie casque, compatible avec support mural Vesa 100 x 100, pied amovible, cadre fin
-- Contenu de la livraison : moniteur AOC 24G2SP/BK 60,45 cm (23,8") noir/rouge, câble dalimentation, HDMI, Displayport, CD pilote, carte de garantie
-- Luminosité/Contraste : 250 cd/m², 1000:1, Connexions : 1 x VGA, 2 x HDMI 1,4, 1 x DisplayPort 1,2
-- Garantie constructeur 3 ans Vous trouverez les conditions de garantie sous « Informations techniques supplémentaires ». Vos droits de garantie légaux restent intacts
 - Optimisez vos réflexes en passant au mode AOC « Low Input Lag» pour réduire le retard dentrée
+- Contenu de la livraison : moniteur AOC 24G2SP/BK 60,45 cm (23,8") noir/rouge, câble dalimentation, HDMI, Displayport, CD pilote, carte de garantie
+- AOC Moniteur de jeu avec taux de rafraîchissement de 165 Hz, temps de réponse MPRT de 1 ms et FreeSync Premium Le 24G2SP/BK est notre modèle de 24" pour les joueurs qui ne veulent pas renoncer au confort pour des performances élevées. Il dispose non seulement dun pied ergonomique réglable en hauteur, mais il offre également une Full HD 1080p (FHD), un faible retard dentrée, AMD FreeSync Premium et une large gamme de couleurs
+- Luminosité/Contraste : 250 cd/m², 1000:1, Connexions : 1 x VGA, 2 x HDMI 1,4, 1 x DisplayPort 1,2
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09WF96MFV{{</world>}}

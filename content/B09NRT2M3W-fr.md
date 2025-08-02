@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Samsung Galaxy S22 5G 256GB vert
 - Smartphone
+- Samsung Galaxy S22 5G 256GB vert
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NRT2M3W{{</world>}}

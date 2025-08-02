@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- "Metal Plate Edition" exclsuive Amazon
 - Plongez dans linconnu, découvrez la vérité et sauvez la ville
+- Profitez de la puissance et de toutes les fonctionnalités de la Playstation5
 - Maniez des compétences paranormales et combattez une menace surnaturelle
 - Découvrez et explorez un Tokyo aussi mystique que magnifique et ses lieux iconiques comme le carrefour de Shibuya et biens dautres
-- Profitez de la puissance et de toutes les fonctionnalités de la Playstation5
+- "Metal Plate Edition" exclsuive Amazon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RKB797N{{</world>}}

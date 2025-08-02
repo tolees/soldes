@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec pression de pompe de 19 bar, fonction économie dénergie, récipient de collecte de capsules pour 6 capsules usagées
 - Welcome Pack de 16 capsules de saveurs personnalisées, gain de place.
 - Mode éco 3 minutes et arrêt automatique 9 minutes après la distribution de la dernière tasse, réservoir deau amovible de 0,6 L.
+- Avec pression de pompe de 19 bar, fonction économie dénergie, récipient de collecte de capsules pour 6 capsules usagées
 - Trois touches de sélection directe pour expresso et lungo (volume de tasse programmable individuellement). Quantité préréglée : 40 ml pour expresso et 110 ml pour lungo
 - Disponible avec mousseur à lait Aeroccino séparé pour préparer facilement des cappuccino crémeux et latte macchiato
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schott NYC CABL1220 Blouson  Bleu  Navy   XL Homme'
-date: 2025-07-28 09:58:56
+date: 2025-08-02 11:19:22
 image: 'https://m.media-amazon.com/images/I/31aoOYO8VNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- entretien: lavage machine 30°
-- Schott Nyc Blouson Textile Homme mi-saison
 - Logo poitrine brodé 2 poches latérales & 2 poches intérieures Finitions poignets et taille en bord côte
-- 65% polyester/35% cotton
+- Schott Nyc Blouson Textile Homme mi-saison
 - Coupe : standard
+- 65% polyester/35% cotton
+- entretien: lavage machine 30°
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VMS77ZD{{</world>}}

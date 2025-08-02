@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - - 3G Network: HSDPA 850 / 900 / 2100
-- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
 - - 4G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 - - Type: Smartphone
+- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXJDSJJ4{{</world>}}

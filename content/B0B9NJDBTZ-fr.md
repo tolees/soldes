@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adaptateur de disque 45 tours
+- Platine vinyle système stéréo
 - Puissance 2 x 5 Watts
 - 2 enceintes intégrées
-- Platine vinyle système stéréo
+- Adaptateur de disque 45 tours
 - 33 / 45 / 78 tours
 
 [🛒 Achète-le!!]({{< param buyurl >}})

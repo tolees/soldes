@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lanneau de support en métal vous permet de lutiliser sous plusieurs angles.
-- Elle protège votre tablette des rayures et des chutes.
 - Elle est disponible dans plusieurs coloris afin de sadapter à votre style.
+- Elle protège votre tablette des rayures et des chutes.
+- Lanneau de support en métal vous permet de lutiliser sous plusieurs angles.
 - Vous navez pas besoin de lenlever pour recharger votre tablette.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

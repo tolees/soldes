@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- il permet de stocker et de séparer les piles usagées des piles neuves
 - Endurance VARTA: pour des applications simples avec un besoin dénergie faible mais constant
 - Des pictogrammes indiquent clairement lutilisation recommandée pour chaque type de pile
-- il permet de stocker et de séparer les piles usagées des piles neuves
 - Lemballage pack fraîcheur est pratique; avec son ouverture facile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - T-shirt à manches courtes en jersey doux
+- Lot de deux
 - Ceci est un authentique produit Levi’s
 - Logo Levis sur la poitrine
-- Lot de deux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07LFDMCLZ{{</world>}}

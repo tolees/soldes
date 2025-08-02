@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzles SCHMIDT SPIELE Premium – avec une qualité que vous pouvez saisir
+- taille du puzzle: 96,8 x 69,2 cm
 - Puzzle de 2000 pièces
 - Âge recommandé : à partir de 12 ans
-- taille du puzzle: 96,8 x 69,2 cm
+- Puzzles SCHMIDT SPIELE Premium – avec une qualité que vous pouvez saisir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FYYQDWH{{</world>}}

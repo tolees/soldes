@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lecteur CD sur l’avant de l’appareil
-- Prise casque
+- Touche bis
 - Un lecteur CD avec 2 micros et 1 prise pour casque !
+- Affichage LED
 - Pour chanter à 2 sur tes musiques préférées !
+- Prise casque
 - Fonctionne sur pile :4 x LR14/C (non fournies)
+- Lecteur CD sur l’avant de l’appareil
 - Pratique : une poignée pour le transporter partout avec toi !
 - 2 micros pour chanter sur tes musiques préférées !
-- Affichage LED
-- Touche bis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FS3SOHY{{</world>}}

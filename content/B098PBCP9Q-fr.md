@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - GOOD GRIP
-- ETRA DURABLE INTERDIENTS
-- LIGHTWEIGHT
 - RECYCLED
+- LIGHTWEIGHT
 - Facile à installer
+- ETRA DURABLE INTERDIENTS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098PBCP9Q{{</world>}}

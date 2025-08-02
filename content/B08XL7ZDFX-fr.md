@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RACE LIKE EVERYONE’S WATCHING! Get ready for pure fun and show off your driving skills! Drift like a pro, charge your boost and blast through the loops to beat time, rivals and gravity itself! Are you up for a challenge Boom, jackpot: race side by side a friend in the 2-player local split-screen mode or face up to 12 players online in a worldwide event. The harder the challenge, the more glorious the triumph!
-- UNLEASH YOUR CREATIVITY! Massive, themed playgrounds are ready to host the most immersive races. Have fun on and off the track with these beautifully detailed and interactive environments, where any object can play a role and be an actual part of your circuit!
 - IVE THE CARS OF YOUR DREAMS! The coolest, the fastest, the most unique badass vans and jaw-dropping muscle cars are waiting for you. Take the wheel of tons of vehicles with their own personality and style, different traits and levels of rarity. The very best of the Hot Wheels universe is here! Prove you’re the best and unlock premium cars and extraordinary items and with the Livery Editor make your ride a one-of-a-kind masterpiece of speed.
+- UNLEASH YOUR CREATIVITY! Massive, themed playgrounds are ready to host the most immersive races. Have fun on and off the track with these beautifully detailed and interactive environments, where any object can play a role and be an actual part of your circuit!
+- RACE LIKE EVERYONE’S WATCHING! Get ready for pure fun and show off your driving skills! Drift like a pro, charge your boost and blast through the loops to beat time, rivals and gravity itself! Are you up for a challenge Boom, jackpot: race side by side a friend in the 2-player local split-screen mode or face up to 12 players online in a worldwide event. The harder the challenge, the more glorious the triumph!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08XL7ZDFX{{</world>}}

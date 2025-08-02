@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cercle à pâtisserie
 - Diamètre : 16 cm
 - Passe au lave-vaisselle
-- Cercle à pâtisserie
 - Idéal pour les entremets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

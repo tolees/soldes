@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 70 % coton / 30 % polyester recyclé
 - Poche kangourou
-- Poignets et ourlet côtelés
 - Technologie Climalite : évacuation de la transpiration pour te garder au sec dans toutes les conditions
+- 70 % coton / 30 % polyester recyclé
+- Poignets et ourlet côtelés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08VNWKL37{{</world>}}

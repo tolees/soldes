@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifié par le groupe de travail du cuir
 - Camper Chaussures habillées Truman
 - Doublure : 45 % cuir, 33 % coton, 22 % tissu (60 % nylon, 40 % polyuréthane)
+- Certifié par le groupe de travail du cuir
 - Caoutchouc pour une bonne prise en main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

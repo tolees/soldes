@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 110 x 60 x 30 mm
+- Dimension : 110 x 60 x 30 mm
 - À utiliser avec du papier abrasif
 - Câle à poncer en liège
-- Dimension : 110 x 60 x 30 mm
+- 110 x 60 x 30 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0015NSTUY{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - All our fragrances are 100% originals by their original designers. We do not sell any knockoffs or immitations.
-- Todo de nuestra fragancias son 100% originales de sus original diseñadores. Nosotros no venden imitaciones o imposturas.
 - El embalaje de este producto puede variar de la imagen mostrada arriba.
+- Todo de nuestra fragancias son 100% originales de sus original diseñadores. Nosotros no venden imitaciones o imposturas.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00L9N64SY{{</world>}}

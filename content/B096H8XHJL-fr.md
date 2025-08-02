@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Le but du jeu est de parcourir le temple pour récolter des indices, à laide des fantômes qui communiquerons à travers le boîtier électronique (bruit de pas, de rires, de coups...). Le premier à démasquer lidentité du coupable a gagné.
 - Dès 8 ans
 - +50 mystères à résoudre. Ce jeu familial propose une nouvelle expérience Les Mystères de Pékin. De 2 à 6 joueurs.
-- Contient : 1 plateau, 1 boîtier sonore & lumineux, 42 cartes, 1 jeton porte, 1 carte toile d’araignée, 50 feuilles enquête, 6 pions, 1 dé
 - Jeu daventure et denquête Les Mystères de Pékin Edition Électronique
+- Contient : 1 plateau, 1 boîtier sonore & lumineux, 42 cartes, 1 jeton porte, 1 carte toile d’araignée, 50 feuilles enquête, 6 pions, 1 dé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B096H8XHJL{{</world>}}

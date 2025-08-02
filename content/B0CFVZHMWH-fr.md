@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combattez en utilisant trois types de méthodes dattaque : attaque normale, attaque shikigami et attaque spéciale. Visez un score élevé avec le TBS (Tension Bonus System), qui permet aux joueurs de gagner des scores élevés en se rapprochant des ennemis ou des balles ennemies
-- En 2006, une Forteresse Volante très particulière est soudainement apparu dans le ciel au-dessus de Tokyo. Une variété dhistoires se déroulent autour des armements de chasse aux dieux logés dans ce gigantesque château.
-- Entre les 5 étapes en 2 parties (chaque étape x 2 parties + un boss dans chaque partie), différentes démos (histoires) seront jouées pour chaque personnage, et lorsque vous jouez à deux joueurs, une histoire complètement différente se déroule en fonction de la combinaison de personnages utilisés, qui sont tous entièrement doublés en japonais.
-- Les joueurs choisissent lun des sept personnages, chacun avec des capacités uniques et différentes, et utilisent leurs tirs, leur attaque spéciale Shikigami et leurs bombes pour détruire lennemi. Les arrière-plans uniques de chaque personnage sont étroitement liés, créant une histoire intéressante pour le joueur.
 - Profitez de lhistoire avec les différentes personnalités de chacun des sept personnages principaux ! Jeu simultané à deux joueurs (local uniquement)
+- Les joueurs choisissent lun des sept personnages, chacun avec des capacités uniques et différentes, et utilisent leurs tirs, leur attaque spéciale Shikigami et leurs bombes pour détruire lennemi. Les arrière-plans uniques de chaque personnage sont étroitement liés, créant une histoire intéressante pour le joueur.
+- Combattez en utilisant trois types de méthodes dattaque : attaque normale, attaque shikigami et attaque spéciale. Visez un score élevé avec le TBS (Tension Bonus System), qui permet aux joueurs de gagner des scores élevés en se rapprochant des ennemis ou des balles ennemies
+- Entre les 5 étapes en 2 parties (chaque étape x 2 parties + un boss dans chaque partie), différentes démos (histoires) seront jouées pour chaque personnage, et lorsque vous jouez à deux joueurs, une histoire complètement différente se déroule en fonction de la combinaison de personnages utilisés, qui sont tous entièrement doublés en japonais.
+- En 2006, une Forteresse Volante très particulière est soudainement apparu dans le ciel au-dessus de Tokyo. Une variété dhistoires se déroulent autour des armements de chasse aux dieux logés dans ce gigantesque château.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFVZHMWH{{</world>}}

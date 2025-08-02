@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- idéal pour les premiers exercices décriture et de dessin
 - ABS – la gaine de protection blanche renforce le cœur de la mine et augmente la résistance à la casse
 - Forme hexagonale, crayons de couleur épais avec mine extra épaisse, particulièrement douce et de couleur intense pour écrire et dessiner détendu
+- idéal pour les premiers exercices décriture et de dessin
 - Bois certifié FSC, issu de forêts gérées durablement, facile à tailler avec nimporte quel taille-crayon de qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

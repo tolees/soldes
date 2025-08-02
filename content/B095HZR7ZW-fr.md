@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure 100% recyclée
 - OrthoLite Eco
+- Doublure 100% recyclée
 - Cuir imperméable de première qualité
 - Col confort rembourré
 - Bande de renfort 100% RPET et renfort de col

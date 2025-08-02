@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jeu de mémoire, d’observation et de réflexes pour les jeunes joueurs !
+- Le leader du jeu dambiance enfin à la portée des plus jeunes !
 - Dure de jeu: 15 min
 - Age: a partir de 4 ans
-- Le leader du jeu dambiance enfin à la portée des plus jeunes !
+- Un jeu de mémoire, d’observation et de réflexes pour les jeunes joueurs !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BPT5Y6K{{</world>}}

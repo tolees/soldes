@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en France.
-- Chope de bière en verre.
 - Va au micro-ondes et au lave-vaisselle.
+- Chope de bière en verre.
 - Avec un message amusant dédié aux papas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

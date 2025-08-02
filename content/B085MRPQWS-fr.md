@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal comme glacière lorsque vous êtes en déplacement dans la voiture grâce à laccoudoir et au porte-gobelet confortables, avec une sangle de transport pratique
-- Glacière thermoélectrique et boîte chauffante en un
-- Aucune batterie de refroidissement nest requise car le refroidisseur fonctionne électriquement
 - Refroidissement des aliments et des boissons dans la glacière jusquà 18-20 °C (en dessous de la température ambiante)
-- Fonction de chauffage jusquà 65 °C pour garder les aliments au chaud pendant les voyages
-- Capacité de 16 litres (convient pour plusieurs canettes et bouteilles de 0,5 l), dimensions 28 cm (L) x 32 cm (H) x 50 cm (P)
-- Remarque Les adaptateurs doivent être achetés séparément.
+- Aucune batterie de refroidissement nest requise car le refroidisseur fonctionne électriquement
 - La glacière fonctionne avec la prise de voiture 12 V, un câble de 2,80 m de long est intégré (prise dalimentation 230 V avec convertisseur de tension 10698 KA6 disponible en option)
+- Glacière thermoélectrique et boîte chauffante en un
+- Capacité de 16 litres (convient pour plusieurs canettes et bouteilles de 0,5 l), dimensions 28 cm (L) x 32 cm (H) x 50 cm (P)
+- Fonction de chauffage jusquà 65 °C pour garder les aliments au chaud pendant les voyages
+- Remarque Les adaptateurs doivent être achetés séparément.
+- Idéal comme glacière lorsque vous êtes en déplacement dans la voiture grâce à laccoudoir et au porte-gobelet confortables, avec une sangle de transport pratique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B085MRPQWS{{</world>}}

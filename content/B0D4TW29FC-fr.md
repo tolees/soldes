@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Toucher précis
 - Semelle intérieure coussinée
+- Toucher précis
 - Idéal sur les surfaces naturelles et synthétiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

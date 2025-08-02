@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aucun hub maison connectée requis, définissez des routines et des horaires via lapplication Alexa.
-- Amazon Smart Plug fonctionne avec Alexa pour ajouter le contrôle vocal à toute prise électrique.
-- Programmez les lumières, la cafetière et des appareils pour quils sallument et séteignent automatiquement, ou les contrôler à distance lorsque vous êtes absent(e).
 - Configuration et utilisation simples : branchez la prise connectée, ouvrez lapplication Alexa et commencez à utiliser votre voix.
+- Programmez les lumières, la cafetière et des appareils pour quils sallument et séteignent automatiquement, ou les contrôler à distance lorsque vous êtes absent(e).
+- Amazon Smart Plug fonctionne avec Alexa pour ajouter le contrôle vocal à toute prise électrique.
+- Aucun hub maison connectée requis, définissez des routines et des horaires via lapplication Alexa.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082YTPXR6{{</world>}}

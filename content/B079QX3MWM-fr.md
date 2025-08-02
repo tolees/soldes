@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- sperater caisson de basses
 - Vous pouvez également contrôler le périphérique via HDMI CEC de ACR
-- Slim barre 180 W Puissance totale
+- sperater caisson de basses
 - Un optique en entrée auxiliaire – viennent compléter les possibilités de raccordement à partir de
+- Slim barre 180 W Puissance totale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079QX3MWM{{</world>}}

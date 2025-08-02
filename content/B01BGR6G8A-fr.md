@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Allure et séduction dans une collection d’eaux de toilette aux accords raffinés.
 - Gold, une eau de toilette bluffant et intense aux notes de cèdre, de quoi mettre ses adversaires au tapis.
-- Flacon 75 ml
-- Pour le flambeur qui aime impressionner les femmes pour mieux les séduire.
 - Eau de Toilette pour Homme
+- Pour le flambeur qui aime impressionner les femmes pour mieux les séduire.
+- Flacon 75 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BGR6G8A{{</world>}}

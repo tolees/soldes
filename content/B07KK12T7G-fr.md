@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir
 - Kickers
-- Cuir
-- Lacets
 - Normal
+- Lacets
+- Cuir
+- Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KK12T7G{{</world>}}

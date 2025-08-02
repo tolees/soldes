@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- NOUVELLE VERSION ROUTEUR 4G TL-MR6400 - Design dantennes amovibles pour répondre à la nécessité de certains utilisateurs de remplacer les antennes, Nouveau routeur 4G améliore la stabilité de WiFi et corrige certains bug du Firmware
 - INSEREZ UNE CARTE SIM ET JOUEZ - Emplacement de carte SIM de type Micro SIM, Compatible avec Orange, SFR, Bouygues Telecom, Free mobile, Non compatible avec les abonnements 4G Home Flybox Orange (lopérateur interdit lusage dun autre routeur)
+- NOUVELLE VERSION ROUTEUR 4G TL-MR6400 - Design dantennes amovibles pour répondre à la nécessité de certains utilisateurs de remplacer les antennes, Nouveau routeur 4G améliore la stabilité de WiFi et corrige certains bug du Firmware
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RM95YFC{{</world>}}

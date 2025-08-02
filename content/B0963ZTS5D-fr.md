@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intercalaire Techlite légère
 - Construction type chausson Omni-Tech respirante et imperméable à coutures étanches
-- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
+- Semelle intercalaire Techlite légère
 - Tige en maille/cuir imperméable
+- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0963ZTS5D{{</world>}}

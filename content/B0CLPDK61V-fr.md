@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Match Game 23 – On the battlefield you can have three party members out at a time. Match up your team members with a partner for stat increases and elemental bonuses. The stronger the bond, the better the bonus!
-- C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, youll encounter a multitude of enemies - its time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system!
 - Pull off the Planeptune Look with 2 New Playable Characters – Throughout the game youll discover fun accessories to deck out and customize your party members. Snap a pic in Photo Mode and use the new Manga-style feature exclusive to the Nintendo Switch release. Play as characters created by two legendary game developers - Higurashi from Ryukishi07 and Shanghai Alice from ZUN from the start. The Nintendo Switch version also has two new exclusive playable characters, Maho and Anri!
 - Do You Hear the People Chirp? – In the wake of the devastation wrought by the Trendi Phenomenon, the vast majority of the population has turned to the rPhone for all manner of daily life, including communication. On your journey, connect to the Chirper social network to take on a variety of side quests put out by those in need and earn special rewards!
+- C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, youll encounter a multitude of enemies - its time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system!
+- Match Game 23 – On the battlefield you can have three party members out at a time. Match up your team members with a partner for stat increases and elemental bonuses. The stronger the bond, the better the bonus!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLPDK61V{{</world>}}

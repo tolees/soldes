@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Recharge de 600 perles de couleurs vertes classiques.
 - Recharge de 600 perles de couleurs vertes classiques.
-- 0
 - Recharge de 600 perles de couleurs vertes classiques.
+- 0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01H25XKBG{{</world>}}

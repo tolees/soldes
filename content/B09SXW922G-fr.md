@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hauteur : 4,2 cm
-- Semelle extérieure XL EXTRALIGHT pour plus de légèreté et dabsorption des chocs
 - Certifié par le groupe de travail du cuir
+- Semelle extérieure XL EXTRALIGHT pour plus de légèreté et dabsorption des chocs
 - Système de fermeture Velcro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

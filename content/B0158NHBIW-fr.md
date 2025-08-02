@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IGNIFUGE: classé UL pour la résistance au feu (1h à 927 °C) et certifié ETL (1h à 927 °C) pour protéger vos supports numériques (USB, CD) et pour rester vérouillé en cas dincendie et de chute de 4,5m
-- GARANTIE DE REMPLACEMENT À VIE SUITE À UN INCENDIE
-- AVERTISSEMENT : Lhomologation ETL relative à létanchéité nest valable que lorsque celui-ci na pas été percé. Ne pas fixer le coffre-fort à un mur pour ne pas compromettre sa résistance au feu
 - RÉSISTANT À LEAU : certifié ETL jusquà 20 cm deau pendant 24 heures en cas dinondation
 - UTILISATION : coffre fort spacieux pour protéger du vol, des incendies et des inondations vos objets de valeur : ordinateur, objets électroniques, bijoux, argents, papiers didentité et autres
-- CARACTERISTIQUES (H x I x P) : dimensions extérieures 60,3 x 47,2 x 49 cm; dimensions intérieures 49,8 x 37,6 x 30,2 cm. Kit fixation au sol inclus
-- SECURITE OPTIMALE : en acier, serrure numérique, 6 pannetons, charnière résistante aux forçages et barre anti-ouverture qui se glisse dans la paroi du coffre
+- IGNIFUGE: classé UL pour la résistance au feu (1h à 927 °C) et certifié ETL (1h à 927 °C) pour protéger vos supports numériques (USB, CD) et pour rester vérouillé en cas dincendie et de chute de 4,5m
 - RANGEMENT FACILE : le coffre-fort comprend un plateau profond multi-positions et un tiroir pour une organisation optimale; porte avec compartiments de rangement; éclairage LED à lintérieur
+- GARANTIE DE REMPLACEMENT À VIE SUITE À UN INCENDIE
+- CARACTERISTIQUES (H x I x P) : dimensions extérieures 60,3 x 47,2 x 49 cm; dimensions intérieures 49,8 x 37,6 x 30,2 cm. Kit fixation au sol inclus
+- AVERTISSEMENT : Lhomologation ETL relative à létanchéité nest valable que lorsque celui-ci na pas été percé. Ne pas fixer le coffre-fort à un mur pour ne pas compromettre sa résistance au feu
+- SECURITE OPTIMALE : en acier, serrure numérique, 6 pannetons, charnière résistante aux forçages et barre anti-ouverture qui se glisse dans la paroi du coffre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0158NHBIW{{</world>}}

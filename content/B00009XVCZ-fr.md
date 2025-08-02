@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet objectif nest pas compatible avec les modèles « EOS R » tels que EOS R100, R50, R10, R6, R7, R8 (sauf si vous achetez ladaptateur de monture)
-- Un diaphragme circulaire à 8 lamelles rend les zones défocalisées plus douces et homogènes
-- Réduisez les reflets et les images fantômes grâce aux traitements Super Spectra
-- Il pèse à peine 290 g pour des dimensions de 73,8 x 50,5 mm
 - Cet objectif compact et léger vous suivra dans tous vos déplacements
 - Le moteur ultrasonique (USM) assure un autofocus rapide et silencieux avec mise au point manuelle en option
+- Un diaphragme circulaire à 8 lamelles rend les zones défocalisées plus douces et homogènes
 - Lobjectif à focale fixe standard est adapté à la photographie généraliste, du paysage au portrait
+- Réduisez les reflets et les images fantômes grâce aux traitements Super Spectra
+- Il pèse à peine 290 g pour des dimensions de 73,8 x 50,5 mm
+- Cet objectif nest pas compatible avec les modèles « EOS R » tels que EOS R100, R50, R10, R6, R7, R8 (sauf si vous achetez ladaptateur de monture)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00009XVCZ{{</world>}}

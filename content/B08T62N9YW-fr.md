@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La fermeture à glissière allongée frappe au-dessus de votre menton pour une protection supplémentaire
+- Fermeture: Fermeture éclair
 - Coupe ample pour une sensation despace
 - Une finition déperlante vous aide à rester au sec
 - Big Kids Soccer Jacket
-- Fermeture: Fermeture éclair
-- Matériel: 100% polyester
 - Hand Wash Only
+- Matériel: 100% polyester
+- La fermeture à glissière allongée frappe au-dessus de votre menton pour une protection supplémentaire
 - Les poches à pression vous permettent de sécuriser vos objets essentiels
 
 [🛒 Achète-le!!]({{< param buyurl >}})

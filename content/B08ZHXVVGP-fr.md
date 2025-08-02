@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Nike
 - CHAUSSURES
 - Nike CV5708-010_43, Chaussures de Sport Homme, Noir, UE
-- Nike
 - Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

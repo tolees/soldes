@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecouteurs fournis : 2 paires découteurs pour un maintien impeccable
-- Sony Mini Ecouteurs Gris
 - Choix de coloris: Vaste choix de couleurs pour assortir votre lecteur de musique ou simplement pour choisir votre couleur préférée
 - mini écouteurs
+- Ecouteurs fournis : 2 paires découteurs pour un maintien impeccable
+- Sony Mini Ecouteurs Gris
 - Connectique:Mini fiche stéréo
 
 [🛒 Achète-le!!]({{< param buyurl >}})

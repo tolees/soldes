@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tension dalimentation : 230V AC 50Hz
 - Câble dalimentation : H05RR-F 3G1.5mm² - Longueur 1,5 mètre
+- Tension dalimentation : 230V AC 50Hz
 - Puissance maximale acceptée : 3500W
 - Garantie : 2 ans
 

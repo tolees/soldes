@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les chaussures Geox taillent grand
 - Textile
+- Les chaussures Geox taillent grand
 - Moyenne
 - 2.Plat
 

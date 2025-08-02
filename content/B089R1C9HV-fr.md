@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mémoire cache: SDRAM DDR4 à faible consommation de 2 Go de Samsung
-- Performances améliorées de 15% (par rapport au précédent modèle)
 - Seconde génération de la gamme QVO, plus performant et encore plus rapide
-- Mode veille : Oui
 - Disponible jusquà 8 To
-- Température de fonctionnement : 0 - 70°C
+- Mode veille : Oui
 - Garantie 3 ans
+- Température de fonctionnement : 0 - 70°C
+- Performances améliorées de 15% (par rapport au précédent modèle)
+- Mémoire cache: SDRAM DDR4 à faible consommation de 2 Go de Samsung
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089R1C9HV{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un superbe cadeau pour les collectionneurs adultes et les enfants à partir de 6 ans.
-- Figurine articulée Skeletor de 14 cm environ avec une tête vintage et l’épée de puissance !
-- Les fans de longue date aimeront l’emballage rétro et la mini BD incluse avec cette superbe figurine !
 - Cette figurine Skeletor possède 16 points d’articulation (notamment au niveau du cou, des épaules, des genoux et des hanches) et tient debout toute seule, pour une multitude de postures et de mouvements de combat !
+- Les fans de longue date aimeront l’emballage rétro et la mini BD incluse avec cette superbe figurine !
 - Les Maîtres de l’Univers sont de retour pour le plus grand plaisir d’une nouvelle génération de fans ! ​
+- Figurine articulée Skeletor de 14 cm environ avec une tête vintage et l’épée de puissance !
+- Un superbe cadeau pour les collectionneurs adultes et les enfants à partir de 6 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X91NWKC{{</world>}}

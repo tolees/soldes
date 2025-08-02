@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réponse de fréquence : 40-22 000 Hz
-- Alentour: Hybride (caoutchouc et tissu)
 - Tweeter compensé de polyester imidique
 - Aimant en ferrite
+- Réponse de fréquence : 40-22 000 Hz
+- Niveau de pression sonore : 91 dB/W.m
 - Capacité de puissance (puissance RMS), Puissance de crête de 250 W
 - Impédance de 4 ohms
-- Niveau de pression sonore : 91 dB/W.m
+- Alentour: Hybride (caoutchouc et tissu)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JHEVRB6{{</world>}}

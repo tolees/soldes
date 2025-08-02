@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🌺 Parfum féminin – Pour la femme moderne qui veut exprimer sa féminité avec simplicité et confiance.
 - 🔆 Fond chaleureux et sophistiqué – Vanille douce, musc pur et bois de santal qui laissent un sillage élégant et durable toute la journée.
-- 🧴 Format pratique 50 ml spray – Compact et nomade, ce flacon élégant est parfait pour vous accompagner partout.
 - 🕌 Fabriqué à Dubaï – Parfum oriental authentique – Une création de qualité inspirée des traditions parfumées du Moyen-Orient.
+- 🧴 Format pratique 50 ml spray – Compact et nomade, ce flacon élégant est parfait pour vous accompagner partout.
 - 🌸 Notes florales et fruitées vibrantes – Un mélange lumineux d’héliotrope, d’orchidée et de mandarine juteuse qui éveille vos sens dès la première vaporisation.
+- 🌺 Parfum féminin – Pour la femme moderne qui veut exprimer sa féminité avec simplicité et confiance.
 - 🍍Cœur exotique et gourmand – Accord parfait de fruits tropicaux sucrés et d’une touche gourmande pour une douceur irrésistible.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

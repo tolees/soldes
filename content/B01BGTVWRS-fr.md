@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Braguette à boutons
 - Ceinture normale
 - Hauteur de taille normale
-- Braguette à boutons
 - Ã‰troit des cuisses à lourlet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

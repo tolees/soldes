@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir
-- Enfiler
-- Synthetic
 - Plat
+- Synthetic
+- Enfiler
+- Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09CSZ2XRB{{</world>}}

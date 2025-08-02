@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Libérez la puissance de votre PlayStation 5 avec des temps de chargement presque nuls. Ressentez le choc des épées et le frisson de la bataille grâce à la manette PS5 DualSense
+- Maîtrisez les cinq classes darmes, chacune avec des styles de jeu uniques et une variété dépées longues, darmes polaires, de marteaux de guerre, de grandes épées et de doubles lames
 - Aventurez-vous à travers des panoramas exotiques, des récifs aériens du royaume de leau aux forêts souterraines pourpres du royaume de la Terre
 - Aperion est au bord de la ruine. Vous êtes le dernier des chevaliers Valorian, des guerriers divins et maîtres imparables du combat au corps à corps
-- Libérez la puissance de votre PlayStation 5 avec des temps de chargement presque nuls. Ressentez le choc des épées et le frisson de la bataille grâce à la manette PS5 DualSense
 - Testez vos compétences dans la tour des épreuves contre les ennemis les plus coriaces, combattez en solo ou en coopération en ligne à trois joueurs
-- Maîtrisez les cinq classes darmes, chacune avec des styles de jeu uniques et une variété dépées longues, darmes polaires, de marteaux de guerre, de grandes épées et de doubles lames
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JLKJ7PT{{</world>}}

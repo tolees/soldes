@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : la taille Havaianas Brazil = taille UE, veuillez ne pas tenir compte de la taille UE mentionnée sur la semelle intérieure
 - Taille: Convient vrai
+- Remarque : la taille Havaianas Brazil = taille UE, veuillez ne pas tenir compte de la taille UE mentionnée sur la semelle intérieure
+- Type de talons: Plat
 - Doublure: Non doublé
 - Dessus: Caoutchouc
-- Type de talons: Plat
 - Matériau de semelle: Caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

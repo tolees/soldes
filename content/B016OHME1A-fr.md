@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soyez alerté(e) sur votre smartphone lorsque le vent se lève
 - NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
 - Installez-le à l’extérieur, jusqu’à 100 mètres du module intérieur de la Station Météo
-- Accédez à la vitesse et à la direction du vent en temps réel sur votre smartphone
-- Visualisez votre historique pour suivre l’évolution du vent dans le temps
 - Améliorez votre quotidien en l’adaptant aux conditions de vent
+- Visualisez votre historique pour suivre l’évolution du vent dans le temps
+- Soyez alerté(e) sur votre smartphone lorsque le vent se lève
+- Accédez à la vitesse et à la direction du vent en temps réel sur votre smartphone
 - Accessoire de la Station Météo Intelligente Netatmo (vendue séparément). Compatible avec : Netatmo NWS 01 station météo
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application précise et rapide grâce à sa forme plate
+- Pointe automatique et rétractable
 - Crayon et rouge à lèvres 2 en 1
 - Couleur riche et lumineuse pour un fini satiné
-- Pointe automatique et rétractable
 - Duo de teintes assorties pour un effet ombré lips parfait
+- Application précise et rapide grâce à sa forme plate
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BSQG3DF{{</world>}}

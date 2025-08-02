@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie: 24 mois
 - Colorstay : Le Fond de Teint Oily Skin, lindispensable pour une tenue impeccable pendant 16 heures !
 - Dimensions: 3 x 9,5 x 3 cm
 - La formule exclusive de ce fond de teint associe la technologie SoftFlex pour un confort exceptionnel à la technologie non transfert pour un effet sans traces. Ses extraits de plantes aux propriétés adoucissantes, associés à un complexe hydratant, assurent léquilibre fragile des peaux sèches.
 - Sans paraben ajouté
+- Garantie: 24 mois
 - Couvrance idéale, permet de cacher toutes les imperfections.
 - Contenu du packaging: 1
 

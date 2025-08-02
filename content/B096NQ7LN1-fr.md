@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Style de vie : tendance et décontracté
-- Mode : baskets
 - Cuir : daim
+- Mode : baskets
 - Motif : uni
 
 [🛒 Achète-le!!]({{< param buyurl >}})

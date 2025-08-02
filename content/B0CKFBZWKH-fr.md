@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Edition Colibri plante plusieurs milliers darbres chaque année pour compenser léquilibre climatique (voir images produits)
 - Impression photo brillante dune illustration peinte avec amour- Le recto de la carte est fini avec un vernis UV
-- Carton rigide (260g/m2), en format DIN A6 (14,8 x 10,5 cm)
-- Texte d‘invitation en Français, remplir, distribuer - Voila!
 - 10 cartes dinvitation pour lanniversaire dun garçon avec une super petite voiture
+- Texte d‘invitation en Français, remplir, distribuer - Voila!
+- Carton rigide (260g/m2), en format DIN A6 (14,8 x 10,5 cm)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKFBZWKH{{</world>}}

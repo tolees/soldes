@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NETTOYAGE FACILE: Une fonction de nettoyage intégrée pour une hygiène exceptionnelle. Après chaque boisson, toutes les pièces qui entrent en contact avec le lait sont automatiquement lavées.
 - CONNECTE: Cette machine à café connectée vous offre une multitude de choix pour réaliser des cafés exceptionnels riches en arômes mais aussi préparer de délicieuses boissons chaudes (carafe dédiée), cappuccino, chocolat et autres boissons lactées du bout des doigts. Elle se connecte via l’application dédiée pour interagir directement avec votre smartphone ou votre tablette et ainsi programmer ou personnaliser votre boisson préférée à distance !
+- NETTOYAGE FACILE: Une fonction de nettoyage intégrée pour une hygiène exceptionnelle. Après chaque boisson, toutes les pièces qui entrent en contact avec le lait sont automatiquement lavées.
 - DESIGN: Le broyeur DINAMICA PLUS trouve facilement sa place dans toutes les cuisines avec son design design épuré et finition premium. Convivial et intuitif, le panneau de contrôle avec écran couleur tactile TFT 3,5 pouces vous garantit une utilisation pratique et simplifié. Les boissons sont directement disponibles via cette interface. Laissez-vous guider par laffichage !
 - LATTECREMA HOT: Système LatteCremaSystem pour la préparation automatique du lait. Facilité dutilisation grâce au nouveau panneau de commande avec des icônes de couleur
 - PERFOMANCES: Un système de pré-infusion pour encore plus de plaisir. Grâce à cette technologie, les grains de café sont humidifiés avant le processus de percolation, ce qui permet de révéler encore mieux leur arôme. La pompe de 19 bar vous offre un expresso à la crème fine et onctueuse.

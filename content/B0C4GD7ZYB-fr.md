@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: La base GU10 sadapte à toutes les lampes équipées dune prise GU10, compatible avec Amazon Alexa, Apple HomeKit et Google Assistant
-- produit 1: Obtenez des scénarios lumineux parfaitement adaptés à vos activités quotidiennes
-- produit 2: Éclairage intelligent Philips Hue est compatible avec Amazon Echo Dot (3e génération), Echo Plus et Echo Show (2e génération)
-- produit 1: Contrôlez jusquà 10 éclairages grâce à lapplication bluetooth
 - produit 2: Éclairage personnalisé Choisissez parmi des millions de couleurs et de nuances de blanc pour personnaliser lambiance de votre maison
+- produit 1: Créez vos propres configurations de lumières colorées intelligentes
 - produit 1: Contrôlez l’éclairage à l’aide de votre voix (Assistants vocaux: Amazon Alexa, Apple HomeKit (via pont Hue), Assistant Google, Microsoft Cortana (via pont Hue))
 - produit 2: Spot dambiance Les spots colorés GU10 illuminent votre maison dans toutes les nuances imaginables
-- produit 1: Créez vos propres configurations de lumières colorées intelligentes
+- produit 2: Éclairage intelligent Philips Hue est compatible avec Amazon Echo Dot (3e génération), Echo Plus et Echo Show (2e génération)
+- produit 1: Contrôlez jusquà 10 éclairages grâce à lapplication bluetooth
+- produit 1: Obtenez des scénarios lumineux parfaitement adaptés à vos activités quotidiennes
+- produit 2: La base GU10 sadapte à toutes les lampes équipées dune prise GU10, compatible avec Amazon Alexa, Apple HomeKit et Google Assistant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4GD7ZYB{{</world>}}

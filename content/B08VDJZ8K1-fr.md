@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- semelle extérieure en caoutchouc adhérente
-- Tige robuste en cuir velours
 - Semelle intermédiaire amortissante en EVA
+- Tige robuste en cuir velours
 - protection cousue des orteils et du talon
+- semelle extérieure en caoutchouc adhérente
 - Crochets de fermeture en métal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il inclut aussi le Fullerton Hotel Singapore, Supertree Grove aux Gardens by the Bay ainsi que des détails pour le paysage : la rivière Singapour et des arbres
 - Vous cherchez un cadeau de pendaison de crémaillère unique à offrir ? Les sets LEGO pour adultes vous permettent de vous détendre et de profiter du processus de création
+- Il inclut aussi le Fullerton Hotel Singapore, Supertree Grove aux Gardens by the Bay ainsi que des détails pour le paysage : la rivière Singapour et des arbres
 - Évoquez l’esprit de la « ville du lion » et combinez les gratte-ciels, les bâtiments charmants sur le bord de la rivière et des éléments végétaux pour créer une pièce incroyable
-- Il constituera une fantastique décoration pour la maison ou le bureau à s’offrir et un cadeau idéal pour les adultes passionnés de voyages, d’histoire et d’architecture
 - Ce set de construction LEGO Architecture pour adultes recrée certains des bâtiments les plus emblématiques de Singapour avec des briques LEGO
 - Les éléments marquants de la ligne d’horizon de Singapour incluent Marina Bay Sands, l’OCBC Centre, One Raffles Place et Lau Pa Sat, aussi appelé le marché de Telok Ayer
+- Il constituera une fantastique décoration pour la maison ou le bureau à s’offrir et un cadeau idéal pour les adultes passionnés de voyages, d’histoire et d’architecture
 - Découvrez de nouvelles techniques de construction avec ce set de loisirs créatifs LEGO pour adultes qui vous permet d’attacher les bâtiments à la base sous un certain angle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

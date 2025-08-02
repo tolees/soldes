@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction Crema plus pour une couche de crème fine et onctueuse
-- Réalisez une ou deux tasses en même temps
 - Nouveau slider intuitif pour une utilisation simplifiée
 - Sélecteur dintensité : 3 longueurs de café, classique (100ml), intense (80ml) et le savoureux espresso (45ml)
+- Fonction Crema plus pour une couche de crème fine et onctueuse
 - Fonction Memo pour réaliser votre café exactement comme vous laimez
+- Réalisez une ou deux tasses en même temps
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TB1QKBL{{</world>}}

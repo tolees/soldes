@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Toucher jersey doux
-- Petit logo de la marque Levis brodé
 - Ceci est un authentique produit Levi’s
+- Petit logo de la marque Levis brodé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07K72XMS4{{</world>}}

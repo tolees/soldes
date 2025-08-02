@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’animal roule
 - Version française
-- Déclenchement de chansons, mélodies et sons amusants quand :
+- L’animal roule
 - On appuie sur le bouton lumineux de la tête articulée
+- Déclenchement de chansons, mélodies et sons amusants quand :
 - Coffret contenant Tire-bouchon, le cochon glouton, Frisette, le mouton à bouclettes et Chardon, l’âne à chansons.
 - Un coffret de 3 animaux trop mignons qui roulent, parlent et chantent !
 

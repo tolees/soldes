@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UHS Speed Class U1 et Speed Class 10 pour lenregistrement / la lecture vidéo Full HD
-- Ce produit respecte les normes de compatibilité de Google. Chromebook et le badge "Works With Chromebook" sont des marques de Google LLC.
 - Chargez les applications plus rapidement avec une classe de performance A1
-- Capacité jusquà 512 Go *
+- UHS Speed Class U1 et Speed Class 10 pour lenregistrement / la lecture vidéo Full HD
 - Jusquà 100 Mo / s ** Vitesse de transfert
 - Température de fonctionnement: -13ºF - 185ºF (-25ºC to 85ºC)
+- Capacité jusquà 512 Go *
+- Ce produit respecte les normes de compatibilité de Google. Chromebook et le badge "Works With Chromebook" sont des marques de Google LLC.
 - Idéal pour les smartphones et les tablettes Android
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

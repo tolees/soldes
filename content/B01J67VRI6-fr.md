@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La pointe libère une craie liquide très couvrante
 - Permet de créer des marquages élégants sur les surfaces lisses
 - Convient aux tableaux noirs, miroirs et le verre
 - Différentes couleurs et pointes
+- La pointe libère une craie liquide très couvrante
 - Adaptée pour les travaux créatifs ou les activités professionnelles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

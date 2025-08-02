@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à ajuster
 - Doux au toucher
+- Facile à ajuster
 - Flexible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

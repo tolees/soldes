@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Carrosserie stylisée
-- Larges pneus
-- Deux personnages en tenues vintage
 - Un véhicule authentique
+- Deux personnages en tenues vintage
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
+- Larges pneus
+- Carrosserie stylisée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WF119BW{{</world>}}

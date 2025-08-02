@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Disponible en 8 teintes intenses, naturelles
 - Permet un maquillage smoky en un clin dœil
 - Une ombre à paupière super facile à appliquer
-- L’éponge en mousse permet de tamponner vos paupières sans effort
 - Jusquà 12 heures de tenue
+- L’éponge en mousse permet de tamponner vos paupières sans effort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07P5FSGW5{{</world>}}

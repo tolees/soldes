@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du colis de larticle: 100 mm
+- Les Karly sont des sandales pour fille à la saveur à la mode et tendance , Réalisées en matière à effet cuir et matière à effet cuir nacré, ces chaussures sont confortables et polyvalentes et ajoutent une note glamour désinvolte aux tenues décontractées de tous les jours
 - Longueur du colis de larticle: 300 mm
+- Hauteur du colis de larticle: 100 mm
 - Largeur du colis de larticle: 180 mm
 - Boucle sur la sangle
-- Les Karly sont des sandales pour fille à la saveur à la mode et tendance , Réalisées en matière à effet cuir et matière à effet cuir nacré, ces chaussures sont confortables et polyvalentes et ajoutent une note glamour désinvolte aux tenues décontractées de tous les jours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SRJHBVH{{</world>}}

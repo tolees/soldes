@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Format 1 DIN : Montage universel pour tableau de bord au format 1 DIN.
-- Compatible commande au volant (interface non incluse)
+- Kit mains-libres Bluetooth avec microphone déporté.
 - Sources: FM, DAB+, USB, Bluetooth Audio, AUX / Formats lus: WMA, MP3, WAV, AAC, FLAC / Kit mains-libre Bluetooth avec microphone déporté, gestion du répertoire téléphonique (historique des appels, affichage numéro entrant) / Afficheur 8 caractères / Menus en Français, Anglais, Allemand / Eclairage des touches rouge et afficheur blanc / Entrée auxiliaire et 1 entrée USB en façade / Amplificateur 4 x 50 Watts intégré / 1 sortie RCA pour connecter un amplificateur de puissance additionnel / Réglages Basses Aigus / Compatible commande au volant (option) / Façade entièrement détachable / Châssis court.
 - La Radio Numérique Terrestre (DAB+) est la diffusion numérique de radios via les ondes hertziennes. Le DAB+ apporte une qualité audio numérique, la possibilité de véhiculer de l’information (info., textes,…) et propose un grand nombre de nouvelles radios (antenne en option).
-- Kit mains-libres Bluetooth avec microphone déporté.
+- Compatible commande au volant (interface non incluse)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08ZV5F5BQ{{</world>}}

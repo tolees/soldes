@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière supérieure en cuir souple
-- Mise à jour de la PUMA smash
-- Semelle intérieure amovible SoftFoam
-- Inspirée du tennis. Confort et style pour tous les jours
 - Semelle extérieure en caoutchouc
+- Matière supérieure en cuir souple
+- Inspirée du tennis. Confort et style pour tous les jours
+- Semelle intérieure amovible SoftFoam
+- Mise à jour de la PUMA smash
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077MLPMX1{{</world>}}

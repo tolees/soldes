@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit original Mr. Wonderful
 - Caoutchouc surdimensionné.
-- En forme de nuage merveilleux.
-- Nouvelle collection Retour à lécole Ecriture.
 - Ensemble de 6 crayons et une gomme.
+- Nouvelle collection Retour à lécole Ecriture.
+- Produit original Mr. Wonderful
+- En forme de nuage merveilleux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4NTZJF4{{</world>}}

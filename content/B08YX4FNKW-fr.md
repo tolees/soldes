@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 10 ans
 - Dans un monde étrange où la vie mêle mécanique et végétation, deux scientifiques s’affrontent pour créer une formule à base de fleurs. Chaque joueur crée un réseau de distillation à l’aide de tuiles disposées dans un registre commun.
+- A partir de 10 ans
 - L’action unique par tour, associée au système de contrainte ET de construction, en fait un jeu aux possibilités et aux stratégies multiples. Botanik est également une expérience dépaysante, à travers un univers étrange et décalé illustré par Franck Dion.
-- Botanik renouvelle le jeu tactique pour deux !
 - 2 joueurs --- Durée : 30 min
+- Botanik renouvelle le jeu tactique pour deux !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08YX4FNKW{{</world>}}

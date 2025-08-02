@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour les couvercles en inox supérieur ou égal à 30cm, nous vous conseillons le porte couvercles à poser KIWI réf 36 28 06
 - Dimensions: 23x7x42 cm
 - garantie 3 ans
+- Pour les couvercles en inox supérieur ou égal à 30cm, nous vous conseillons le porte couvercles à poser KIWI réf 36 28 06
 - Garantie : 3 ans
 - En métal avec revêtement Polytherme couleur Silvère
 

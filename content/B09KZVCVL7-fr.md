@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bialetti New Venus cafetière 4 tasses, poignée anti-brûlure, ne convient pas à linduction, 4 tasses (170 ml), acier inoxydable, bronze
-- Comment utiliser Venus Bialetti : remplir la base d’eau jusquà la soupape de sécurité, mettre l’entonnoir et ajouter le café moulu pour moka sans tasser, fermer la moka et la placer sur la table de cuisson. Attendre que tout le café soit monté dans la partie supérieure, éteindre le feu et savourez enfin un bon café !
 - Instructions de nettoyage : Venus Bialetti doit être nettoyée seulement à leau après utilisation. Ne pas utiliser de détergents. Le produit ne doit pas être lavé au lave-vaisselle car cela pourrait l’endommager et donc altérer le goût du café.
-- La taille de Venus Bronze est mesurée en tasses, le café peut être dégusté dans des tasses à expresso ou des tasses plus grandes selon vos besoins. Venus Bronze est disponible en 2 tasses, 4 tasses et 6 tasses. Combien de ml par taille : 85 ml / 170 ml / 235 ml
 - Venus Bialetti est fabriquée en acier inoxydable 18/10 de la plus haute qualité qui garantit une durabilité dans le temps et un style incomparable. La partie supérieure est rendue encore plus exclusive grâce à la couleur bronze qui la distingue.
+- Comment utiliser Venus Bialetti : remplir la base d’eau jusquà la soupape de sécurité, mettre l’entonnoir et ajouter le café moulu pour moka sans tasser, fermer la moka et la placer sur la table de cuisson. Attendre que tout le café soit monté dans la partie supérieure, éteindre le feu et savourez enfin un bon café !
+- Bialetti New Venus cafetière 4 tasses, poignée anti-brûlure, ne convient pas à linduction, 4 tasses (170 ml), acier inoxydable, bronze
+- La taille de Venus Bronze est mesurée en tasses, le café peut être dégusté dans des tasses à expresso ou des tasses plus grandes selon vos besoins. Venus Bronze est disponible en 2 tasses, 4 tasses et 6 tasses. Combien de ml par taille : 85 ml / 170 ml / 235 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09KZVCVL7{{</world>}}

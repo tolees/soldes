@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Défiez dautres joueurs en ligne ou jouez hors ligne en écran partagé avec des amis pour affûter vos talents dans la salle de lEsprit et du Temps !
 - Lancez-vous dans de féroces affrontements au rythme effréné, fidèles à lanime et à la célèbre série de jeux vidéo.
 - Revivez les combats haletants de lhistoire originale, découvrez et débloquez de nouvelles rencontres pour vos Guerriers Z favoris et bien plus encore
 - Recréez vos combats favoris de lhistoire de DRAGON BALL, ou créez de toutes pièces votre combat de rêve !
+- Défiez dautres joueurs en ligne ou jouez hors ligne en écran partagé avec des amis pour affûter vos talents dans la salle de lEsprit et du Temps !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6NK664Q{{</world>}}

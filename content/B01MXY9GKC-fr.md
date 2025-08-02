@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durée : 3h40mn
-- Public : TOUT PUBLIC
-- Titre : DVD Lage heureux
 - Acteur : Joyeux Odette - Rosay Francoise - Lebrun Daniele
+- Durée : 3h40mn
+- Titre : DVD Lage heureux
+- Public : TOUT PUBLIC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MXY9GKC{{</world>}}

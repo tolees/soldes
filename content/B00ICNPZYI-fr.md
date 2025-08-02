@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Florale Chypre
 - Eau de Parfum pour Femme
 - Vaporisateur, 25ml
-- Florale Chypre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00ICNPZYI{{</world>}}

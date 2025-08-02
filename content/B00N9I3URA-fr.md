@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lorsque vous vous focalisez sur des choses que vous trouvez "sales", lors dun sentiment de répugnance, une sensation de dégoût. Crab Apple contribue à accepter son image et son apparence, tolérer les imperfections pour lesquelles on avait de laversion.
-- Numéro 1 en France et dans le Monde, les Fleurs de Bach Original sont les seules autorisées à porter la signature de son créateur et les seules certifiées par le Centre Bach, garantissant ainsi leur qualité et leur traçabilité. Complément alimentaire fabriqué en Angleterre.
-- Situations : ne supporte pas la saleté, les microbes, le désordre - mal dans sa peau, focaliser sur ses défauts - maniaquerie -
-- Précautions : Un complément alimentaire ne doit pas remplacer une alimentation saine et variée. Tenir hors de portée des jeunes enfants. En raison de la présence d’alcool, ce complément alimentaire est déconseillé aux personnes souffrant d’éthylisme.
 - Les Fleurs de Bach Original apportent un soutien émotionnel pour faire face aux exigences de la vie quotidienne de façon positive. Crab Apple est la fleur de lAcceptation de soi pour les insatisfait(e) de leur apparence.
+- Précautions : Un complément alimentaire ne doit pas remplacer une alimentation saine et variée. Tenir hors de portée des jeunes enfants. En raison de la présence d’alcool, ce complément alimentaire est déconseillé aux personnes souffrant d’éthylisme.
 - Dans quel cas Crab Apple vous aidera ? Vous nacceptez pas les petits boutons disgracieux sur votre visage. Vous êtes répugné par votre apparence en maillot de bain à lapproche de lété. Lodeur de chien mouillé dans la voiture vous dégoûte.
 - Mode dutilisation : 2 gouttes sur la langue ou dans un verre deau, 4 fois par jour. Sans accoutumance. Ne pas dépasser la dose journalière indiquée.
+- Numéro 1 en France et dans le Monde, les Fleurs de Bach Original sont les seules autorisées à porter la signature de son créateur et les seules certifiées par le Centre Bach, garantissant ainsi leur qualité et leur traçabilité. Complément alimentaire fabriqué en Angleterre.
+- Situations : ne supporte pas la saleté, les microbes, le désordre - mal dans sa peau, focaliser sur ses défauts - maniaquerie -
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00N9I3URA{{</world>}}

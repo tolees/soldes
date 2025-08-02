@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Résultats : +90% de nutrition immédiate*, douceur infinie et fluidité prodigieuse, parfum longue tenue 72H** et jusquà 8 semaines de brillance*** (*Test instrumental après utilisation du shampooing + démêlant, **test sensoriel après utilisation du shampooing + démêlant ***Un flacon = jusquà 8 semaines dutilisation, cela peut varier en fonction de lutilisation et de la longueur des cheveux)
-- Formule : Formule enrichie en huiles rares de marula de camélia pour nourrir, assouplir et illuminer vos cheveux
-- Contenu : x 1 Shampooing Nutrition Eclat Huile Extraordinaire 300ml
-- Cheveux secs, en manque déclat ? Le Shampooing Huile Extraordinaire, enrichi en Huiles Rares de Marula et Camélia reconnues pour leur pouvoir embellisseur
 - Application : Appliquez sur cheveux mouillés, massez sur lensemble du cuir chevelu puis rincez, Complétez votre routine avec lHuile Extraordinaire Universelle multi-usages, à utiliser sur cheveux humides ou secs, Pensez à couper leau sous la douche
+- Cheveux secs, en manque déclat ? Le Shampooing Huile Extraordinaire, enrichi en Huiles Rares de Marula et Camélia reconnues pour leur pouvoir embellisseur
+- Contenu : x 1 Shampooing Nutrition Eclat Huile Extraordinaire 300ml
+- Formule : Formule enrichie en huiles rares de marula de camélia pour nourrir, assouplir et illuminer vos cheveux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CDHBP4VK{{</world>}}

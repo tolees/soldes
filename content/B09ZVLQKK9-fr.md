@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plateforme
 - Fermeture : éthylène-acétate de vinyle
+- Forme du talon : plateforme
 - Matériau extérieur : cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

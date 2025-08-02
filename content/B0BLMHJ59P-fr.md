@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONNECTIVITÉ DE POINTE - Les options dinterface vidéo incluent DisplayPort 1.4a (UHD/144Hz) ainsi que ports HDMI 2.1 (UHD/144Hz) et USB Type-C; Mais aussi: Sortie écouteurs, bouton de navigation 5 directions. Comprend un verrou Kensington
-- TAUX DE RAFRAICHISSEMENT DE 144Hz, MPRT 1MS - Taux de rafraichissement élevé 144Hz certifié AMD FreeSync Premium, protections contre la lumière bleue & anti-scintillement; Temps de réponse 1ms (MPRT) pour éliminer les déchirures & images saccadées
-- DESIGN & UTILITAIRES INTELLIGENTS - Cadre fin et pied de support réglable en inclinaison Lapplication Gaming Intelligence de MSI permet un accès rapide aux raccourcis clavier pour afficher paramètres & profils
 - 31,5" UHD - Dalle VA 3840x2160 avec une précision de couleur extrême, 1,07 milliard de couleurs (91% DCI-P3, sRGB 114%); Luminosité 250 nits & contraste 3000:1 (100000000:1 dynamique)
+- DESIGN & UTILITAIRES INTELLIGENTS - Cadre fin et pied de support réglable en inclinaison Lapplication Gaming Intelligence de MSI permet un accès rapide aux raccourcis clavier pour afficher paramètres & profils
+- TAUX DE RAFRAICHISSEMENT DE 144Hz, MPRT 1MS - Taux de rafraichissement élevé 144Hz certifié AMD FreeSync Premium, protections contre la lumière bleue & anti-scintillement; Temps de réponse 1ms (MPRT) pour éliminer les déchirures & images saccadées
 - IMMERSION EXTRÊME - Les écrans incurvés MSI offrent une expérience gaming plus immersive avec une courbure 1500 à la distance de visualisation optimale & un design sans cadre pour se fondre encore plus dans limage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

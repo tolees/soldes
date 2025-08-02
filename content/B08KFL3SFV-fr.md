@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - désactivation par pression avec indicateur led
 - filetage pour tige et support du micro
+- support flexible et réglable
 - enregistrement audio plug & play
 - compatibilité avec dautres dispositifs et programmes
-- support flexible et réglable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KFL3SFV{{</world>}}

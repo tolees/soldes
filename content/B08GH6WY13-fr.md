@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manette sans fil avec technologie Bluetooth 5.0
-- Disposition intuitive des boutons Nintendo
-- Batterie lithium-ion rechargeable : jusquà 30 heures par charge*
-- Ergonomie supérieure pour des heures de jeu confortable
-- Anneaux antifriction intégrés pour un contrôle en douceur de la manette
-- Comprend un câble de recharge USB-C de 3 m (10 pi)
-- Manette de jeu vidéo ergonomique avec disposition des boutons standard et design Mario Pop
-- Deux boutons de jeu avancés mappables
 - Manette de jeu sans fil sous licence officielle de Nintendo Switch et Nintendo Switch Lite + Nintendo Switch (OLED model)
+- Manette de jeu vidéo ergonomique avec disposition des boutons standard et design Mario Pop
+- Ergonomie supérieure pour des heures de jeu confortable
+- Disposition intuitive des boutons Nintendo
+- Comprend un câble de recharge USB-C de 3 m (10 pi)
+- Deux boutons de jeu avancés mappables
+- Anneaux antifriction intégrés pour un contrôle en douceur de la manette
+- Manette sans fil avec technologie Bluetooth 5.0
+- Batterie lithium-ion rechargeable : jusquà 30 heures par charge*
 - Indicateur LED de batterie faible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

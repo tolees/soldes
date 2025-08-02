@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Slot 7 PCI pivotable à 90°
+- Compatible radiateur 420/360/280/240/140/120mm
 - Emplacement stockage: 5x2,5 ou 4x3,5"
+- Compatible Carte mère: E-ATX / ATX
+- Slot 7 PCI pivotable à 90°
 - Hauteur max. ventirad: 180mm
 - 1 port USB3.0 Type C
 - Longueur max. VGA: 450mm
-- Compatible radiateur 420/360/280/240/140/120mm
-- Compatible Carte mère: E-ATX / ATX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDXRBW6P{{</world>}}

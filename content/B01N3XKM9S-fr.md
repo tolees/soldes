@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La distance minimale de mise au point nest que de 10 cm
-- Type de lentille: lentille fisheye à mise au point manuelle
 - Champ de vision diagonal ultra de 190 degrés
+- Type de lentille: lentille fisheye à mise au point manuelle
+- La distance minimale de mise au point nest que de 10 cm
 - Multicoated/ Lens Composition: 5 groupes, 6 disques
 - Longueur focale: 6.5mm/ Ouverture: F/ 2.0-F22
 

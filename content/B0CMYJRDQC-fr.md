@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Refroidisseur actif officiel Raspberry Pi 5 inclus : le refroidisseur actif Raspberry Pi pour Raspberry Pi 5 est une solution de refroidissement à clip dédiée pour Raspberry Pi 5. Il combine un dissipateur thermique en aluminium avec un ventilateur de soufflage contrôlé par la température pour garder votre Raspberry Pi 5 à une température de fonctionnement confortable, même sous des charges lourdes.
-- Accès facile à tous les ports : la coque GeeekPi Raspberry Pi 5 peut accéder avec précision à la prise dalimentation USB C, aux ports micro HDMI, aux ports USB, au jack Ethernet, à la fente pour carte SD, au bouton dalimentation, aux connecteurs 4 voies MIPI DSI/CSI, etc.
 - Design à 9 couches : chaque couche acrylique maintient votre carte Raspberry Pi 5 fermement en place, létat de fonctionnement est visible et naffecte pas le signal WiFi et Bluetooth, avec deux trous de suspension en forme de croix, également compatible avec le montage mural.
+- Accès facile à tous les ports : la coque GeeekPi Raspberry Pi 5 peut accéder avec précision à la prise dalimentation USB C, aux ports micro HDMI, aux ports USB, au jack Ethernet, à la fente pour carte SD, au bouton dalimentation, aux connecteurs 4 voies MIPI DSI/CSI, etc.
+- Refroidisseur actif officiel Raspberry Pi 5 inclus : le refroidisseur actif Raspberry Pi pour Raspberry Pi 5 est une solution de refroidissement à clip dédiée pour Raspberry Pi 5. Il combine un dissipateur thermique en aluminium avec un ventilateur de soufflage contrôlé par la température pour garder votre Raspberry Pi 5 à une température de fonctionnement confortable, même sous des charges lourdes.
+- Remarque : la carte Raspberry Pi 5 nest pas incluse. Veuillez retirer les films protecteurs sur les couches supérieures et inférieures avant dinstaller la coque.
 - Contenu de la livraison : 1 étui en acrylique pour Raspberry Pi 5, 1 refroidisseur actif officiel Raspberry Pi 5, 1 tournevis.
 - Compatibilité : il est compatible avec le dernier Raspberry Pi 5 4 Go/8 Go et cette coque prend également en charge linstallation du refroidisseur actif officiel Raspberry Pi 5.
-- Remarque : la carte Raspberry Pi 5 nest pas incluse. Veuillez retirer les films protecteurs sur les couches supérieures et inférieures avant dinstaller la coque.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CMYJRDQC{{</world>}}

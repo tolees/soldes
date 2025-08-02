@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mettez le feu sur 40 tubes de genres variés et au travers de nombreux mini-jeux.
 - Déchaînez-vous sur la scène à l’aide de vos manettes Joy-Con dans ce jeu d’action en rythme palpitant et coloré. Tout le monde peut devenir une star !
+- Mettez le feu sur 40 tubes de genres variés et au travers de nombreux mini-jeux.
 - Faites la fête avec jusqu’à 7 autres joueurs en ligne dans le mode Fiesta mondiale.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

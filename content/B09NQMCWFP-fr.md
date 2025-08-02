@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à ajuster
-- GOOD GRIP
 - CUSHIONING
+- GOOD GRIP
 - RECYCLED
 
 [🛒 Achète-le!!]({{< param buyurl >}})

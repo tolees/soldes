@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque ureadin
 - Huiles pour cuticules
+- Marque ureadin
 - Produits de beauté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

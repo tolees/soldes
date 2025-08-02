@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Charme audacieux et contemporain
 - Lumineux sur la semelle extérieure
+- Charme audacieux et contemporain
 - Irrésistible semelle extérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})

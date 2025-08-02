@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Gagnez de largent et des points de gratitude en répondant aux demandes des résidents de lîle. Personnalisez votre île avec les décorations et les meubles que vous avez collectés.
 - Parcourez lîle pour collecter des ingrédients et des matériaux afin de fabriquer les produits dont ils ont besoin. De retour à votre ferme, plantez des graines pour faire pousser des cultures qui grandiront avec le temps, et recueillez le lait et les œufs de vos animaux.
-- Personnalisez votre princesse avec des coiffures, du maquillage, des tenues et bien plus encore !
 - Utilisez largent et la bonne volonté que vous gagnez grâce à votre dur labeur pour décorer lîle et en faire votre maison fantastique parfaitement mignonne.
 - Créez la ferme de conte de fées de vos rêves ! Les habitants de votre île magique comptent sur vous pour assurer leur prospérité et leur bonheur.
-- Gagnez de largent et des points de gratitude en répondant aux demandes des résidents de lîle. Personnalisez votre île avec les décorations et les meubles que vous avez collectés.
+- Personnalisez votre princesse avec des coiffures, du maquillage, des tenues et bien plus encore !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C46VBCTS{{</world>}}

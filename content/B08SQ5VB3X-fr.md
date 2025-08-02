@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détails distinctifs de la marque
-- Produit léger et confortable
 - Matériau respirant
+- Produit léger et confortable
 - Ajustement régulier
 
 [🛒 Achète-le!!]({{< param buyurl >}})

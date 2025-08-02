@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 3 cartes postales vintage
 - Contient le jeu Cuphead ainsi que
-- Une carte dépliante de l’île
 - Une carte de membre du Club Cuphead
 - Une jaquette réversible dessinée par le studio MDHR
+- Une carte dépliante de l’île
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C3HGRGZ6{{</world>}}

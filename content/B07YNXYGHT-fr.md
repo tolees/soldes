@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il a été prouvé que la formule élimine 77 % de lexcès de sébum pour un effet matifiant durable
 - Le gommage nettoyant contient de lacide salicylique et des microbilles qui ouvrent les pores obstrués et nettoient la peau en profondeur
+- Il a été prouvé que la formule élimine 77 % de lexcès de sébum pour un effet matifiant durable
 - Lexfoliation affinante pour peau fine et mate agit deux fois plus efficacement : elle aide à affiner les pores et à réduire visiblement la brillance
 
 [🛒 Achète-le!!]({{< param buyurl >}})
