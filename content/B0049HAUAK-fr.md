@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Bleu
+- Fabriqué en Chine
 - Dimensions de lemballage : 0.13 x 0.09 x 0.02 m
 - Poids du colis darticle : 0.352 kg
-- Fabriqué en Chine
+- Couleur : Bleu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0049HAUAK{{</world>}}

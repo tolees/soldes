@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTRODUCTION AU RISK CLASSIQUE : Le Risk Junior est une excellente façon dinitier les enfants au jeu de stratégie classique Risk. Le jeu est conçu pour 2 à 4 joueurs. À partir de 5 ans
-- JEU DE CONQUÊTE STRATÉGIQUE : Les joueurs déploient leurs pirates sur les îles, défendent leurs territoires et récupèrent des trésors. Le joueur avec le plus de trésors à la fin de la partie gagne
-- MON PREMIER RISK : Le Risk Junior est une excellente façon dinitier les enfants au jeu de stratégie classique Risk. Cest un cadeau idéal pour les enfants. À partir de 5 ans
 - ON LANCE LE Dɠ: Il suffit de placer, dappuyer et de lancer ! Pour combattre un autre joueur afin de prendre possession de son île et de son trésor, on place le dé dans son navire, puis on appuie sur le levier pour lancer et découvrir le gagnant
 - SUR LE THÈME DES PIRATES : Au Risk Junior sur le thème des pirates, les enfants déplacent leur navire de pirate sur le plateau afin de récupérer des trésors et conquérir des îles
+- JEU DE CONQUÊTE STRATÉGIQUE : Les joueurs déploient leurs pirates sur les îles, défendent leurs territoires et récupèrent des trésors. Le joueur avec le plus de trésors à la fin de la partie gagne
+- INTRODUCTION AU RISK CLASSIQUE : Le Risk Junior est une excellente façon dinitier les enfants au jeu de stratégie classique Risk. Le jeu est conçu pour 2 à 4 joueurs. À partir de 5 ans
+- MON PREMIER RISK : Le Risk Junior est une excellente façon dinitier les enfants au jeu de stratégie classique Risk. Cest un cadeau idéal pour les enfants. À partir de 5 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0828JW4YQ{{</world>}}

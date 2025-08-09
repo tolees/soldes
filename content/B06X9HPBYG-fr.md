@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résiste aux intempéries, norme IP44
-- Longue durée de vie 30 ans (30000 heures)
-- Module LED garantit 5 ans
-- Eclairage à intensité variable
 - Aluminium moulé et matière synthétique de haute qualité
+- Eclairage à intensité variable
+- Longue durée de vie 30 ans (30000 heures)
+- Résiste aux intempéries, norme IP44
+- Module LED garantit 5 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06X9HPBYG{{</world>}}

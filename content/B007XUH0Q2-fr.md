@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour le montage et le démontage des filtres et cartouches filtre
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
 - Bonne transmission de la force de desserrage
-- Pour le montage et le démontage des filtres et cartouches filtre
 - Réglage du diamètre du filtre en tournant le bouton à lextrémité de la poignée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

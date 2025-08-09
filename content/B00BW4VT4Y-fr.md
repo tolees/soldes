@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Multprise 5x 16A 2P+T pour brancher tous vos appareils électriques et luminaires
+- Certifié NF
 - Forme compacte pour optimiser le rangement
 - Câble HO5VV-F 3G1mm² de longueur 1m
-- Certifié NF
-- Multprise 5x 16A 2P+T pour brancher tous vos appareils électriques et luminaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BW4VT4Y{{</world>}}

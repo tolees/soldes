@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PAPIER AQUARELLE 300g : ce papier aquarelle blanc est de qualité étude Sa couleur blanc naturel est obtenue sans azurant optique
-- AQUARELLE : ce papier est dédié à lusage des techniques humides comme laquarelle Grâce à son fort grammage, il possède une excellente capacité dabsorption de leau
-- SANS ACIDE : ce papier est sans acide et de pH neutre pour une ideal conservation des aquarelles dans le temps Les couleurs garderont tout leur éclat
 - FORMAT A5 : ce bloc encollé de 70 feuilles est idéal pour les étudiants qui recherchent un produit dexcellent rapport qualité-prix
+- AQUARELLE : ce papier est dédié à lusage des techniques humides comme laquarelle Grâce à son fort grammage, il possède une excellente capacité dabsorption de leau
 - GRAIN MOYEN FIN : la particularité de sa surface est son grain moyen-fin plus marqué sur le recto de la feuille, idéal pour donner du caractère à une peinture
+- PAPIER AQUARELLE 300g : ce papier aquarelle blanc est de qualité étude Sa couleur blanc naturel est obtenue sans azurant optique
+- SANS ACIDE : ce papier est sans acide et de pH neutre pour une ideal conservation des aquarelles dans le temps Les couleurs garderont tout leur éclat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HQM15YT{{</world>}}

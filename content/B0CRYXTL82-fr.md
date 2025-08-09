@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 12 superbes cadres pour vos jeux
+- Émulation de lensemble des systèmes 8 bits Atari, de la 400 à la 800XL, en passant par lAtari 5200.
 - Affichage 720 HD en HDMI multi-région, compatibilité PAL (50 Hz) et NTSC (60 Hz). Affichage 4:3 ou Pixel perfect, avec ou sans filtres CRT.
 - 25 jeux inclus, dont Lee, Berzerk, Millipede, Miner 2049er, M.U.L.E et Star Raiders II.
-- Émulation de lensemble des systèmes 8 bits Atari, de la 400 à la 800XL, en passant par lAtari 5200.
 - 5 ports USB-A pour ajouter des manettes supplémentaires, un clavier PC ou des clés USB.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

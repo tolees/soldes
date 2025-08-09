@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
 - Détails de la marque PUMA sur létiquette de la tige, du talon et de la languette
+- Semelle extérieure en caoutchouc
 - Semelle intercalaire empilée en caoutchouc
 - Bande PUMA sur le côté
 

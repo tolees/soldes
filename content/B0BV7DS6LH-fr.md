@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un ensemble dextension pour que les enfants élargissent leur univers de construction LEGO Super Mario ; un super cadeau danniversaire ou de Noël qui ravira les enfants, garçons et filles dès 7 ans
-- Les sets dextension permettent aux fans dagrandir, de reconstruire et de personnaliser leurs niveaux pour prolonger le jeu et samuser à collecter des pièces ; des instructions sont incluses
-- Piétiner et renverser des rochers – Passez au niveau supérieur avec l’Ensemble dextension Rambi le rhinocéros LEGO Super Mario (71420), incluant une figurine en briques de Rambi et des rochers
 - Les enfants peuvent lancer le rhinocéros contre les éléments pour déclencher les réactions avec une figurine interactive dun Pack de démarrage LEGO Super Mario (71360, 71387 ou 71403)
-- Les éléments rocheux inclus dans ce set peuvent être empilés ; les enfants peuvent chevaucher le jouet rhinocéros avec les personnages LEGO Super Mario pour frapper les rochers et révéler un élément
-- Les enfants dès 7 ans samuseront avec lEnsemble dExtension Rambi le Rhinocéros, qui comprend une figurine animale pour jouer avec les personnages du Pack de démarrage LEGO Super Mario
 - Chevaucher Rambi – Asseyez LEGO Mario, LEGO Luigi ou LEGO Peach (personnages non inclus) sur Rambi, puis faites marcher le rhinocéros ou faites-lui renverser des objets pour déclencher des réactions numériques sur le personnage interactif
+- Un ensemble dextension pour que les enfants élargissent leur univers de construction LEGO Super Mario ; un super cadeau danniversaire ou de Noël qui ravira les enfants, garçons et filles dès 7 ans
+- Les enfants dès 7 ans samuseront avec lEnsemble dExtension Rambi le Rhinocéros, qui comprend une figurine animale pour jouer avec les personnages du Pack de démarrage LEGO Super Mario
+- Piétiner et renverser des rochers – Passez au niveau supérieur avec l’Ensemble dextension Rambi le rhinocéros LEGO Super Mario (71420), incluant une figurine en briques de Rambi et des rochers
+- Les sets dextension permettent aux fans dagrandir, de reconstruire et de personnaliser leurs niveaux pour prolonger le jeu et samuser à collecter des pièces ; des instructions sont incluses
+- Les éléments rocheux inclus dans ce set peuvent être empilés ; les enfants peuvent chevaucher le jouet rhinocéros avec les personnages LEGO Super Mario pour frapper les rochers et révéler un élément
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BV7DS6LH{{</world>}}

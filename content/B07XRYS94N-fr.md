@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DOUBLE PAROI ANTI-BRULURE : la double paroi en thermoplastique noire de cette bouilloire permet de maintenir la bouilloire froide à lextérieur : pas de risque de brûlure en la touchant !
-- EBULLITION EN UNE TOUCHE : faites bouillir votre eau grâce à une fonction 100°C ultra-pratique accessible grâce un simple bouton !
-- REPARABILITE 15 ANS AU JUSTE PRIX : Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- 5 NIVEAUX DE TEMPERATURE : bouton sélecteur de température permettant daccéder à 5 températures réglables pré-enregistrées (40°C, 70°C, 80°C, 90°C et 100°C) simplement, en une touche !
 - MAINTIEN AU CHAUD 30 MINUTES : fonction de maintien au chaud pendant 30 minutes pour de délicieuses boissons chaudes prêtes à déguster
 - ACIER INOXYDABLE ET GRADUATIONS INTERIEURES : lintérieur en acier inoxydable dispose de graduations pour évaluer le niveau deau à lintérieur de la bouilloire
-- 5 NIVEAUX DE TEMPERATURE : bouton sélecteur de température permettant daccéder à 5 températures réglables pré-enregistrées (40°C, 70°C, 80°C, 90°C et 100°C) simplement, en une touche !
+- REPARABILITE 15 ANS AU JUSTE PRIX : Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- EBULLITION EN UNE TOUCHE : faites bouillir votre eau grâce à une fonction 100°C ultra-pratique accessible grâce un simple bouton !
 - ECRAN NUMERIQUE DIGITAL MODERNE : bouilloire électrique moderne dotée dun écran numérique minimaliste et facile à lire, avec affichage de la température en temps réel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

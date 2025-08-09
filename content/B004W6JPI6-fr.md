@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps triangulaire ergonomique pour une prise en main confortable
-- Stylo bille rétractable Pentel WOW
 - Pointe large 1mm
+- Stylo bille rétractable Pentel WOW
+- Corps triangulaire ergonomique pour une prise en main confortable
 - Encre douce de couleur rose
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

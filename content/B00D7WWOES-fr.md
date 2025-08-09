@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 60 Hits of the 60s by VARIOUS ARTISTS (2013-06-06)
 - 60 Hits Of The 60s by Various Artists (2013-06-05)
+- 60 Hits of the 60s by VARIOUS ARTISTS (2013-06-06)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D7WWOES{{</world>}}

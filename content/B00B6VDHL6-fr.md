@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Réfrigération jusquà 18 °C en dessous de la température ambiante
 - Le couvercle divisé assure une perte de froid minimale lors de louverture de la glacière
 - Capacité de 39 litres pour des bouteilles de 2 litres en position verticale
-- Réfrigération jusquà 18 °C en dessous de la température ambiante
 - Trois plages de tension pour une utilisation en voiture, en camion et en intérieur
 - Mini-réfrigérateur portable pour véhicules, voitures, camions, camping-cars, maison et jardin
 

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Léclairage peut être éteint à tout moment Arrêt automatique après 120 sec
 - Contient 2 personnages, 1 douche, 1 lampe, 1 tapis, 1 toilette, 1 meuble de rangement, 2 lavabos et des accessoires.
-- La lumière blanche de la colonne lumineuse nécessite 1 pile AAA 1,5 V non fournie Linterrupteur se trouve en haut de la colonne lumineuse
 - Le personnage peut porter la serviette autour de la taille
+- La lumière blanche de la colonne lumineuse nécessite 1 pile AAA 1,5 V non fournie Linterrupteur se trouve en haut de la colonne lumineuse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06X1H1DXT{{</world>}}

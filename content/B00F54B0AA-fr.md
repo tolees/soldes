@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EVACUEZ LES CONDENSATS : Le Sanineutral SFA, avec ses 2 entrées, est un dispositif de neutralisation des condensats destiné aux chaudières à gaz ou au fioul (50 kW). Il traite lacidité des eaux de la chaudière avant leur évacuation.
+- A FIXER AU MUR OU AU SOL : Le Sanineutral fonctionne sans pompe et peut être installé au sol ou fixé au mur. Il peut également être positionné en amont d’une pompe de relevage à condensats, telle que la Sanicondens ou autres modèles.
 - ORIGINE FRANCE GARANTIE : Fabriqué dans lusine SFA des Hauts-de-France, le Sanineutra bénéficie du Label Origine France Garantie. Conçu avec soin et avec des matériaux de qualité, il est garanti 2 ans.
 - TUYAUTERIE PRESERVEE : Le Sanineutral protège durablement la tuyauterie contre l’acidité des condensats. Son bac transparent facilite le contrôle des granules, et son couvercle amovible permet un entretien sans déconnexion des tuyaux.
-- A FIXER AU MUR OU AU SOL : Le Sanineutral fonctionne sans pompe et peut être installé au sol ou fixé au mur. Il peut également être positionné en amont d’une pompe de relevage à condensats, telle que la Sanicondens ou autres modèles.
 - LE CONFORT SANITAIRE POUR TOUS : SFA est une marque française au rayonnement mondial qui propose des solutions intelligentes et avant-gardistes pour optimiser le confort sanitaire des particuliers et professionnels au quotidien.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FENNEC SHAND : Un assassin et une mercenaire délite qui a travaillé pour les syndicats les plus puissants. Astucieuse, compétente et rusée, il ne faut pas sous-estimer cette adversaire qui a plus dun tour dans son sac
 - EMBALLAGE INSPIRÉ DES PACKS DE LA GAMME DORIGINE : La gamme Vintage Collection de Star Wars présente des figurines de 9,5 cm et des véhicules dans des emballages inspirés des packs de la gamme dorigine de la marque Kenner (vendus séparément, dans la limite des stocks)
+- FENNEC SHAND : Un assassin et une mercenaire délite qui a travaillé pour les syndicats les plus puissants. Astucieuse, compétente et rusée, il ne faut pas sous-estimer cette adversaire qui a plus dun tour dans son sac
 - ARTICULATIONS ET DESIGN PREMIUM : Avec ses multiples points darticulation (tête, bras et jambes), cette figurine Star Wars réaliste de Fennec Shand a sa place dans toute collection de figurines articulées et de véhicules
-- FIGURINE STAR WARS CLASSIQUE : Inspirée du personnage dans Star Wars: The Book of Boba Fett, cette figurine articulée Fennec Shand est un super cadeau pour tout fan ou collectionneur de Star Wars. À partir de 4 ans
 - ACCESSOIRES INSPIRÉS DU PERSONNAGE DE Star Wars: The Book of Boba Fett : Cette figurine articulée Star Wars The Vintage Collection est vendue avec 2 accessoires inspirés de la galaxie Star Wars et sintègre parfaitement à toute collection Star Wars
+- FIGURINE STAR WARS CLASSIQUE : Inspirée du personnage dans Star Wars: The Book of Boba Fett, cette figurine articulée Fennec Shand est un super cadeau pour tout fan ou collectionneur de Star Wars. À partir de 4 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09H1STMLW{{</world>}}

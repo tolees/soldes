@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intercalaire Techlite pour un amorti confortable et une excellente restitution de l’énergie
-- Construction respirante et imperméable Omni-Tech
 - Tige en maille et cuir suédé avec renforts en cuir synthétique
+- Construction respirante et imperméable Omni-Tech
 - Languette à soufflet et renfort à l’avant-pied
 
 [🛒 Achète-le!!]({{< param buyurl >}})

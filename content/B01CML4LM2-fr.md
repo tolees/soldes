@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette Ixolino-jouet est la réplique exacte de sa grande sur, la visseuse-dévisseuse Bosch, mais à la taille des enfants
 - Les embouts sont interchangeables et compatibles avec tous les systèmes de vissage Bosch de chez Klein
+- Cette Ixolino-jouet est la réplique exacte de sa grande sur, la visseuse-dévisseuse Bosch, mais à la taille des enfants
 - Les petits bricoleurs imitent les grands avec leur Ixolino et ce faisant, stimulent leur motricité et leur imagination
 - Double système de rotation, effets sonores et lumineux dun grand réalisme
 

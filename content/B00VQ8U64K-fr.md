@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Barrette de connexion 6 pièces - 12 plots 4mm² 3 pièces + 12 plots 6mm² 2 pièces + 12 plots 10mm² 1 pièces - Diamètre: 4, 6 et 10mm² - Lot de 6 barrettes de connexion, 36 x dominos 4mm², 24 x dominos 6mm², 12 x dominos 10mm²
 - Référence: 484331
-- Expert Line vous propose une gamme déquipements et daccessoires électriques qui couvrent les besoins du quotidien. Éclairage, connectique, en pssant par les ampoules filament LED jusquà la multiprise.
-- Ce lot de 6 barrettes de connexion 6 pièces est composé de 12 plots 4mm² 3 pièces + 12 plots 6mm² 2 pièces + 12 plots 10mm² 1 pièces soit 36 x dominos 4mm², 24 x dominos 6mm², 12 x dominos 10mm². Convient pour entreprise, bureau, magasin, supermarché, magasins, exposition dart, maison, panneau publicitaire et panneau daffichage.
 - Barrette de connexion 6 pièces 12 plots 4mm² 3 pièces 12 plots 6mm² 2 pièces 12 plots 10mm² 1 pièces
+- Ce lot de 6 barrettes de connexion 6 pièces est composé de 12 plots 4mm² 3 pièces + 12 plots 6mm² 2 pièces + 12 plots 10mm² 1 pièces soit 36 x dominos 4mm², 24 x dominos 6mm², 12 x dominos 10mm². Convient pour entreprise, bureau, magasin, supermarché, magasins, exposition dart, maison, panneau publicitaire et panneau daffichage.
+- Expert Line vous propose une gamme déquipements et daccessoires électriques qui couvrent les besoins du quotidien. Éclairage, connectique, en pssant par les ampoules filament LED jusquà la multiprise.
+- Barrette de connexion 6 pièces - 12 plots 4mm² 3 pièces + 12 plots 6mm² 2 pièces + 12 plots 10mm² 1 pièces - Diamètre: 4, 6 et 10mm² - Lot de 6 barrettes de connexion, 36 x dominos 4mm², 24 x dominos 6mm², 12 x dominos 10mm²
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00VQ8U64K{{</world>}}

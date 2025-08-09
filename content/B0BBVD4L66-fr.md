@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Recréez laspect de la forêt avec des arbres et de nouveaux éléments de fougère pour mai 2023, puis complétez le set avec une plaque portant le logo 40e anniversaire de Star Wars : Le retour du Jedi
-- Créez le décor dynamique en briques LEGO de la poursuite dun soldat éclaireur par la princesse Leia et Luke Skywalker sur la lune forestière dEndor avec ce set LEGO Star Wars pour adultes
-- Comprend 3 minifigurines LEGO Star Wars : La princesse Leia et Luke Skywalker avec son emblématique sabre laser vert, tous deux en tenue dEndor, ainsi quun éclaireur et 2 blasters
-- Un cadeau personnalisé pour adultes - Surprenez-vous ou offrez ce set de 608 pièces comme cadeau de Noël ou danniversaire à un ami passionné de Star Wars ou à un collectionneur de dioramas LEGO Star Wars, Hommes et Femmes
 - La maquette à construire pour adultes et à exposer comporte également une plaque ornée d’une phrase de Luke Skywalker (« Vite, Brouillez leur émission; Bouton du centre »)
+- Comprend 3 minifigurines LEGO Star Wars : La princesse Leia et Luke Skywalker avec son emblématique sabre laser vert, tous deux en tenue dEndor, ainsi quun éclaireur et 2 blasters
+- Créez le décor dynamique en briques LEGO de la poursuite dun soldat éclaireur par la princesse Leia et Luke Skywalker sur la lune forestière dEndor avec ce set LEGO Star Wars pour adultes
+- Recréez laspect de la forêt avec des arbres et de nouveaux éléments de fougère pour mai 2023, puis complétez le set avec une plaque portant le logo 40e anniversaire de Star Wars : Le retour du Jedi
+- Un cadeau personnalisé pour adultes - Surprenez-vous ou offrez ce set de 608 pièces comme cadeau de Noël ou danniversaire à un ami passionné de Star Wars ou à un collectionneur de dioramas LEGO Star Wars, Hommes et Femmes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BBVD4L66{{</world>}}

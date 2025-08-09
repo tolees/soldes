@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Variation dintensité lumineuse progressive
-- EyeComfort: un éclairage agréable pour vos yeux.
 - Spécialement conçu pour le bureau
+- EyeComfort: un éclairage agréable pour vos yeux.
+- Variation dintensité lumineuse progressive
 - 3 températures de lumière: créez une ambiance relaxante ou concentrée ent passant du blanc chaud au blanc froid.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier en acier rackable standard 19 pouces
-- Fonctions auto-apprentissage dadresse MAC et auto MDI/MDIX
-- Garantie à vie limitée
 - Type de connecteur: UK (Plug Type)
 - Technologie de gestion dalimentation innovante pouvant générer jusquà 40 % déconomie d’énergie
-- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
+- Fonctions auto-apprentissage dadresse MAC et auto MDI/MDIX
+- Boîtier en acier rackable standard 19 pouces
+- Garantie à vie limitée
 - 24 ports RJ45 10/100/1000 Mbps
+- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000RSTX9O{{</world>}}

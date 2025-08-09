@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps de microphone tout en métal
-- Pare-brise en fourrure de luxe inclus
-- Taille compacte et légère - seulement 80 mm (3) de long et 42 g (1,5 oz)
-- Conçu et fabriqué en Australie
 - Niveau de pression acoustique maximum: 140 dB
-- Support antichoc Rycote Lyre inclus
+- Taille compacte et légère - seulement 80 mm (3) de long et 42 g (1,5 oz)
+- Corps de microphone tout en métal
 - Gamme de fréquence : 100Hz - 20kHz
+- Pare-brise en fourrure de luxe inclus
+- Conçu et fabriqué en Australie
+- Support antichoc Rycote Lyre inclus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B015R0IQGW{{</world>}}

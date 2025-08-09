@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : Blanc
-- Matière : Cuir
-- Fermeture : Lacets
 - Saison : Automne Hiver
 - Taille : 42 EU
+- Matière : Cuir
+- Fermeture : Lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B077MLYR24{{</world>}}

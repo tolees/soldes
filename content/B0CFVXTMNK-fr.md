@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CRÉEZ VOTRE VOITURE: Concevez et conduisez la voiture de rallye dont vous rêvez grâce au nouvel Éditeur
 - RÉÉCRIVEZ LHISTOIRE: Revivez et réécrivez les moments forts de vraies épreuves et faites vibrer la fibre nostalgique en mode Moments
-- AUTHENTICITÉ: Profitez dun héritage riche de plus de 25 années de jeux de rallyes, et pilotez les voitures de WRC
 - SYSTÈME DE CONDUITE DYNAMIQUE: Le système de comportement multi-surface de Codemasters a été amélioré pour WRC
 - IMMERSION: Vivez des moments réjouissants en bravant les éléments à la recherche de la course parfaite
 - VOYAGEZ À TRAVERS L’HISTOIRE DU WRC: Relevez le défi ! Prenez le volant de véritables mythes du WRC et voyagez à travers l’histoire du rallye en pilotant 70 voitures qui ont marqué lhistoire de la compétition
-- CRÉEZ VOTRE VOITURE: Concevez et conduisez la voiture de rallye dont vous rêvez grâce au nouvel Éditeur
+- AUTHENTICITÉ: Profitez dun héritage riche de plus de 25 années de jeux de rallyes, et pilotez les voitures de WRC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFVXTMNK{{</world>}}

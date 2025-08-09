@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque La barre de son est destinée à la lecture audio. Toutes les autres applications sont expressément exclues
 - Écoutez votre musique préférée depuis votre smartphone ou votre tablette via Bluetooth
 - sortie 2 x 20 W
 - Support mural et accessoires inclus
+- Remarque La barre de son est destinée à la lecture audio. Toutes les autres applications sont expressément exclues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B074QWK8VH{{</world>}}

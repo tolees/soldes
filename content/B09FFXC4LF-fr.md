@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Star Wars Republic Commando: votre arme, cest votre escouade
-- Trouvez tous les raccourcis et secrets pour obtenir les meilleurs temps
-- Choisissez un des 25 personnages jouables, parmi lesquels vous trouverez : Anakin Skywalker, Sebulba et Ratts Tyerell
 - Avec laide des droïdes pit, améliorez votre podracer en renforçant sa vitesse et son accélération
+- Star Wars Republic Commando: votre arme, cest votre escouade
+- Choisissez un des 25 personnages jouables, parmi lesquels vous trouverez : Anakin Skywalker, Sebulba et Ratts Tyerell
 - Des courses se déroulant sur 8 mondes différents, comme : Tatooine, Baroonda, et Malastare
+- Trouvez tous les raccourcis et secrets pour obtenir les meilleurs temps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09FFXC4LF{{</world>}}

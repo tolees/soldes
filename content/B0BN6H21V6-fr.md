@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir : cuir verni
-- Fermeture : caoutchouc
 - Flexibles
+- Fermeture : caoutchouc
+- Cuir : cuir verni
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN6H21V6{{</world>}}

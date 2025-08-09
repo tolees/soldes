@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour moteurs à essence et gazole à 4 temps
-- Contenu: 1l
 - Huile moteur multigrade moderne utilisable toute lannée
+- Contenu: 1l
+- Pour moteurs à essence et gazole à 4 temps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001NFNAA8{{</world>}}

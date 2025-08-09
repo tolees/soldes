@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bords anti-taches pour éviter les bavures sur le papier
 - Fabriqué en Allemagne
-- Contenu du produit : 1 équerre sous étui plastique
-- Équerre géométrique avec rapporteur intégré en plastique transparent incassable
 - Graduations en millimètres
+- Contenu du produit : 1 équerre sous étui plastique
+- Bords anti-taches pour éviter les bavures sur le papier
+- Équerre géométrique avec rapporteur intégré en plastique transparent incassable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06X9QRH9H{{</world>}}

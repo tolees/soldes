@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Casque-micro léger avec écouteurs pivotants à 90°
-- Audio de jeu immersif
 - Confort HyperX haut de gamme
+- Audio de jeu immersif
+- Casque-micro léger avec écouteurs pivotants à 90°
 - Casque-micro sous licence PS4 officielle
 - Microphone pivotant avec coupure audio automatique et suppression de bruit
 

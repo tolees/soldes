@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de profil en 2,5D pour plus d’immersion
-- Cachez-vous dans l’ombre pour échapper aux ennemis, ou pour les éliminer.
 - Utilisez un système d’inventaire enrichi par une mise à niveau des armes et différentes pièces d’ équipement
 - Parcourez 5 niveaux en monde semi-ouvert
+- Cachez-vous dans l’ombre pour échapper aux ennemis, ou pour les éliminer.
+- Jeu de profil en 2,5D pour plus d’immersion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B3JSKY4G{{</world>}}

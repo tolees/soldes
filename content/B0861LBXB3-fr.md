@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Distance de tir: 27 mètres. Tire en rafale ou une fléchette après lautre. Facile à manipuler
+- Entre dans la compétition et prends le contrôle de l’action avec le Nerf Elite SurgeFire: un pistolet imparable pour terrasser tes adversaires
 - Chargeur en forme de barillet rotatif d’une capacité de 15 fléchettes et mécanisme à pompe pour décharger 15 fléchettes daffilée à une distance maximale de 27 mètres
 - Inclus: 1 Nerf Elite SurgeFire et 15 fléchettes Nerf Elite
-- Entre dans la compétition et prends le contrôle de l’action avec le Nerf Elite SurgeFire: un pistolet imparable pour terrasser tes adversaires
 - Valeur éducative de Nerf: se dépenser, améliorer son agilité et sa précision, inventer des histoires. Nerf Elite SurgeFire, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de connexions: 3
 - Longueur [mm]: 53
+- Nombre de connexions: 3
 - Largeur [mm]: 48,0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

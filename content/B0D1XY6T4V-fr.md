@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CRÉE DE NOUVEAUX DÉFIS – Invente tes propres événements Jeux Giganto.
-- PAGAILLE MULTIJOUEUR – Jusquà quatre joueurs peuvent saffronter en mode écran partagé.
-- QUE LA FÊTE COMMENCE ! – Cours, vole et fonce dans huit jeux en style dino.
-- JOUE AVEC TES FAVORIS – Contrôle les dino-potes Mazu, Rocky, Bill et Tiny.
 - VISITE LE MONDE DE GIGANTO – Avec ses animations 3D colorées inspirées du dessin animé.
+- QUE LA FÊTE COMMENCE ! – Cours, vole et fonce dans huit jeux en style dino.
+- PAGAILLE MULTIJOUEUR – Jusquà quatre joueurs peuvent saffronter en mode écran partagé.
+- JOUE AVEC TES FAVORIS – Contrôle les dino-potes Mazu, Rocky, Bill et Tiny.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D1XY6T4V{{</world>}}

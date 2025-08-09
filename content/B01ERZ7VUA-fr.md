@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Continuité 2020
-- Coupe normale
 - Couleur: Gris Melange Oscuro
+- Continuité 2020
 - Noir
+- Coupe normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01ERZ7VUA{{</world>}}

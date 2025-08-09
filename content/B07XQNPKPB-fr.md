@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids maximum supporté: 136 kg
-- Composé de la technologie Fiber Tech
-- Pour le camping ; pratique avec gonfleur à pied intégré
 - Dimensions du produit (L x l x h) : 76 x 191 x 25 cm
+- Poids maximum supporté: 136 kg
+- Pour le camping ; pratique avec gonfleur à pied intégré
+- Composé de la technologie Fiber Tech
 - Solide, léger et confortable
 - Gonflage, dégonflage rapides plus ou moins trois minutes
 

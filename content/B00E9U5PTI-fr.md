@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTENU : 1 plaque de cuisson et son couvercle amovible
 - DIMENSIONS : 42 x 29 x 4 cm
 - DESCRIPTION : La plaque de cuisson Dr Oetker et son couvercle amovible en font une excellente boîte de transport à gâteau. Cuire, servir et conserver est désormais possible sans changer de contenant grâce à la polyvalence de la plaque de cuisson
-- CONTENU : 1 plaque de cuisson et son couvercle amovible
 - COMPOSITION : Plaque en acier inoxydable avec un revêtement en téflon antiadhésif, Couvercle en plastique
 - LE PETIT + : Les poignées pratiques du couvercle pour transporter en toute sérénité les gâteaux les plus fragiles.
 

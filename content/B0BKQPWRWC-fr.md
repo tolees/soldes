@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 - Un animal totem
 - Des accessoires pour recréer le rite de phare de la série
 - Deux personnages emblématiques de Ayuma
-- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKQPWRWC{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CAPTUREZ DES IMAGES FLUIDES ET SANS FLOU : Le stabilisateur optique améliorée SteadyShot intégrée dans lobjectif garantit des photos et vidéos stables et sans flou lorsque vous les réalisez sans trépied.
 - Zoom motorisé pour un contrôle sans effort : Que ce soit pour capturer des photos ou des vidéos, le zoom motorisé vous donne un contrôle créatif maximal. Pour plus de commodité, il peut être commandé via un bouton bascule de zoom sur certains appareils photo de type E.
 - DES PERFORMANCES OPTIQUES DEXCEPTION : Les lentilles asphériques minimisent la distorsion tandis que les éléments en verre ED (Extra-low Dispersion) fournissent un contraste, une résolution et une fidélité des couleurs supérieurs.
-- CAPTUREZ DES IMAGES FLUIDES ET SANS FLOU : Le stabilisateur optique améliorée SteadyShot intégrée dans lobjectif garantit des photos et vidéos stables et sans flou lorsque vous les réalisez sans trépied.
 - EFFET DE FLOU ARTISTIQUE : Au lieu dune ouverture dobjectif classique en forme de polygone, cet objectif présente un diaphragme circulaire à 7 lames pour un effet de flou plus arrondi et naturel, aussi appelé « bokeh ».
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

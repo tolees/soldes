@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classique
 - Reguliere
+- Classique
 - Manche courte
 
 [🛒 Achète-le!!]({{< param buyurl >}})

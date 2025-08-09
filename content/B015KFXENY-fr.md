@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interface de lhôte: USB
-- Câbles inclus: Micro-USB
+- Description du produit: Hama Speedshot Ultimate
 - Interface de sortie: USB 2.0
 - Couleur: Noir
-- Description du produit: Hama Speedshot Ultimate
+- Câbles inclus: Micro-USB
+- Interface de lhôte: USB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B015KFXENY{{</world>}}

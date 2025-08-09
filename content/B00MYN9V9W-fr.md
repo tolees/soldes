@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : Lorsque vous obtenez lerreur indiquant que le disque nest pas reconnu, il doit être formaté pour pouvoir être lu.
 - Connexion USB 3.0, vitesse de transfert jusqu’à 5.0Gbps
 - Types de formats supportés: FAT32/ NTFS/ eXT2/ HFS
 - Systèmes d’exploitation supportés: Windows 2000/XP/Vista/7/8/10 ou Mac OS 9.X/Mac OSX/macOS ou compilations de Linux telles que Ubuntu
+- Remarque : Lorsque vous obtenez lerreur indiquant que le disque nest pas reconnu, il doit être formaté pour pouvoir être lu.
 - Compatible avec les disques durs de 3, 5” SATA
 - Vitesse de disque dur supportée: 4200RPM/ 5400RPM/ 7200RPM
 

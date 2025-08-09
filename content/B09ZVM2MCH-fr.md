@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle : éthylène-acétate de vinyle
-- Non étanche
 - Matériau extérieur : tissu
+- Non étanche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZVM2MCH{{</world>}}

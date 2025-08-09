@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur: 100 mm
-- Traitement de surface: chromé
 - 2 x embout, fente: 3 - 5 mm
-- Commutable à gauche et à droite
+- Traitement de surface: chromé
+- 2 x embout, cruciforme: PH1 - PH2
+- Longueur: 100 mm
 - Épaisseur de tête: 5 mm
 - Pour des conditions très exigües
-- 2 x embout, cruciforme: PH1 - PH2
+- Commutable à gauche et à droite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005C45QKI{{</world>}}

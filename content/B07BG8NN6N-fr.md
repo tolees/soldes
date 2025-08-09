@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉSODORISANT DÉSINFECTANT TEXTILE : Ce spray désodorisant permet de désinfecter en profondeur vos textiles non lavables ou difficiles à laver et d’éliminer les mauvaises odeurs (humidité, tabac, animaux, cuisine…) pour un intérieur sain.
-- AIR LABEL SCORE A+ : Il est noté A+ par le Air Label Score, une certification internationale qui assure une bonne qualité de l’air après utilisation du produit
-- TRIPLE ACTION DÉSINFECTANTE : Ce spray détruit 99,9% des bactéries, candida albicans et virus et redonne à vos textiles la fraîcheur du propre.
 - TOUS TYPES DE TEXTILES : Il convient aux textiles non lavables ou difficilement lavables (tapis, rideaux, chapeaux, sacs, siège de voitures, litières…) et respecte les fibres aussi bien sur le linge blanc que de couleur. Sa formule sans résidus agressifs et testée dermatologiquement, est parfaitement compatible avec les surfaces en contact avec les animaux.
 - SANYTOL, LE GESTE SAIN : SANYTOL, l’expert de la désinfection offre un large choix de produits nettoyants, désinfectants et désodorisants pour la maison, les vêtements et l’hygiène des mains. Des solutions respectueuses des personnes et des surfaces. Pratiques et efficaces pour nettoyer et désinfecter en un seul geste et au quotidien : linge, chaussures, vaisselle, cuisine, salle de bain, mains et même purifier l’air.
+- TRIPLE ACTION DÉSINFECTANTE : Ce spray détruit 99,9% des bactéries, candida albicans et virus et redonne à vos textiles la fraîcheur du propre.
+- DÉSODORISANT DÉSINFECTANT TEXTILE : Ce spray désodorisant permet de désinfecter en profondeur vos textiles non lavables ou difficiles à laver et d’éliminer les mauvaises odeurs (humidité, tabac, animaux, cuisine…) pour un intérieur sain.
+- AIR LABEL SCORE A+ : Il est noté A+ par le Air Label Score, une certification internationale qui assure une bonne qualité de l’air après utilisation du produit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BG8NN6N{{</world>}}

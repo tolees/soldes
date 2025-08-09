@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie de deux ans contre les défauts dusine.
 - Produit de marque dorigine.
+- Garantie de deux ans contre les défauts dusine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQKCQWS{{</world>}}

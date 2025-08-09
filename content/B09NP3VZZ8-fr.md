@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 2 plateaux de jeu, 48 cartes personnages, 24 cartes mystères, 1 livre de règles.
-- Il y a 24 magiciens, professeurs et créatures à découvrir dans cette édition dHarry Potter, alors assurez-vous de poser les bonnes questions pour gagner la partie.
-- Le célèbre jeu de déduction arrive à Poudlard ! Pouvez-vous deviner quel magicien cache votre adversaire sans utiliser de magie ?
 - Le célèbre jeu de déduction arrive à Poudlard. Peux-tu deviner quel magicien cache ton adversaire sans utiliser de magie ?
+- Il y a 24 magiciens, professeurs et créatures à découvrir dans cette édition dHarry Potter, alors assurez-vous de poser les bonnes questions pour gagner la partie.
+- Contenu : 2 plateaux de jeu, 48 cartes personnages, 24 cartes mystères, 1 livre de règles.
+- Le célèbre jeu de déduction arrive à Poudlard ! Pouvez-vous deviner quel magicien cache votre adversaire sans utiliser de magie ?
 - À partir de 6 ans, 2 joueurs.
 - Licence officielle
 

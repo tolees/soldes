@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JOLLY : JH6, JH7, JH8, JH9
 - Swing : M621, M921
+- AGIPA : 101418, 151991, 151218, 101948
+- Type de produit: Paquet de 6 rouleaux de 1000 étiquettes rectangulaire
 - Couleur: Orange fluo
 - Description du produit: Agipa 100912
-- Type de produit: Paquet de 6 rouleaux de 1000 étiquettes rectangulaire
-- AGIPA : 101418, 151991, 151218, 101948
-- JOLLY : JH6, JH7, JH8, JH9
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007PDIF0W{{</world>}}

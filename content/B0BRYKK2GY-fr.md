@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITE - Expert en hygiène intime depuis 1990, Intima met au cœur de ses produits, son expertise et son savoir-faire. C’est pourquoi, les femmes nous font confiance en étant aujourd’hui la marque la plus vendue en France*. *Source : Données de ventes en volume en 2021 sur les canaux HMSM + PROXI + ECOM + SDMP + Total pharmacie (hors parapharmacie).
 - TESTÉS DERMATOLOGIQUEMENT - Les gels intimes Intima sont testés sous contrôle dermatologique.
 - FORMULE D’ORIGINE NATURELLE - La formule est composée à 97% d’ingrédients d’origine naturelle.
 - pH ADAPTÉ - Votre zone intime nécessite un soin spécifique et un produit adapté au quotidien. Cest pourquoi, Intima a formulé ce gel lavant doux qui nettoie et respecte le pH de votre vulve jour après jour.
 - GEL LAVANT INTIME EXTRA DOUX - Ce gel lavant, à l’extrait d’hamamélis, vous procure une sensation de douceur et de confort.
+- QUALITE - Expert en hygiène intime depuis 1990, Intima met au cœur de ses produits, son expertise et son savoir-faire. C’est pourquoi, les femmes nous font confiance en étant aujourd’hui la marque la plus vendue en France*. *Source : Données de ventes en volume en 2021 sur les canaux HMSM + PROXI + ECOM + SDMP + Total pharmacie (hors parapharmacie).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRYKK2GY{{</world>}}

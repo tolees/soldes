@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accédez aux mesures de température, de concentration en CO2 et d’humidité d’une autre pièce en temps réel sur votre smartphone
 - Ajoutez jusqu’à 3 Modules Additionnels à votre Station Météo Netatmo
-- Visualisez l’historique de la pièce et les graphiques depuis l’application
 - Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
-- Soyez alerté par notifications lors d’un changement dans l’environnement de cette pièce
 - Optimisez votre bien-être en fonction des mesures collectées dans la pièce
+- Accédez aux mesures de température, de concentration en CO2 et d’humidité d’une autre pièce en temps réel sur votre smartphone
+- Visualisez l’historique de la pièce et les graphiques depuis l’application
+- Soyez alerté par notifications lors d’un changement dans l’environnement de cette pièce
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D89YKBK{{</world>}}

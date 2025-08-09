@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Stabilisation dimage VC
-- Mise au point automatique VXD
 - Compatible avec le logiciel TAMRON Lens Utility
+- Mise au point automatique VXD
 - EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
-- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 - Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 200 Mo/s, optimisées par la technologie SanDisk QuickFlow
-- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Vitesses de capture allant jusquà 140 Mo/s
 - Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin datteindre des vitesses maximales (cartes vendues séparément)
+- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
+- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 - Vitesses de capture allant jusquà 90 Mo/s
 
 [🛒 Achète-le!!]({{< param buyurl >}})

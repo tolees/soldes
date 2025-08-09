@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FIN, LÉGER ET AUTONOME : 17,9 mm dépaisseur, poids de 1,74kg et jusquà 7h30 dautonomie de batterie
-- CONNECTIVITÉ : 1 port USB Type-C SuperSpeed + 2 ports USB Type-A SuperSpeed + 1 port HDMI 20 + 1 adaptateur secteur Smart Pin + 1 prise combinée casque/microphone
-- SUPERBE ÉCRAN : Écran Full HD IPS de 15,6 pouces (1920 x 1080) à micro-bord et antireflet
-- ULTRA-PERFORMANT : PC portable avec processeur Intel Core i5-1235U, 16 Go de RAM, un stockage rapide SSD de 512 Go
-- 1 an de garantie
-- SON HAUTE-QUALITÉ : Doubles haut-parleurs, HP Audio Boost et optimisation sonore signée Bang & Olufsen
-- Windows 11 Famille
 - CHARGE RAPIDE : chargement d’environ 50% de la batterie en 45 minutes
+- SON HAUTE-QUALITÉ : Doubles haut-parleurs, HP Audio Boost et optimisation sonore signée Bang & Olufsen
+- 1 an de garantie
 - CONCEPTION ÉCO-RESPONSABLE : Cet ordinateur portable est certifié ENERGY STAR, homologué EPEAT Gold et contient des plastiques océaniques, durables et recyclés postconsommation
+- CONNECTIVITÉ : 1 port USB Type-C SuperSpeed + 2 ports USB Type-A SuperSpeed + 1 port HDMI 20 + 1 adaptateur secteur Smart Pin + 1 prise combinée casque/microphone
+- ULTRA-PERFORMANT : PC portable avec processeur Intel Core i5-1235U, 16 Go de RAM, un stockage rapide SSD de 512 Go
+- Windows 11 Famille
+- SUPERBE ÉCRAN : Écran Full HD IPS de 15,6 pouces (1920 x 1080) à micro-bord et antireflet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BB37LMJZ{{</world>}}

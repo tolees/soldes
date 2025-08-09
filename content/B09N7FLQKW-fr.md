@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Irrésistible semelle extérieure
 - Lumineux sur la semelle extérieure
+- Irrésistible semelle extérieure
 - Charme audacieux et contemporain
 
 [🛒 Achète-le!!]({{< param buyurl >}})

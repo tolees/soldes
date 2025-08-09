@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mémoire : 1,5 Go de RAM / 8 Go de ROM
 - Type: HD LED TV - 32 pouces (80 cm) à plat, 1 366 x 768 pixels (HD -ready / 720p)
 - Prime Video, Netflix, YouTube, Chromcast Intégrée, HBBTV 2.0, ECT
+- Mémoire : 1,5 Go de RAM / 8 Go de ROM
 - Triple HD tuner pour DVB-S2, DVB-C et DVB-T2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

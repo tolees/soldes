@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La bande origi,ale numérique
-- La Deluxe edition contient
-- Une marque page premium
 - Lartbook officiel de 48 pages "The Art of Agatha Christie - Murder on the Orient Express
+- La Deluxe edition contient
+- La bande origi,ale numérique
+- Une marque page premium
 - Le jeu complet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

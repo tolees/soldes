@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOSCH 06017B3000 - Miniamoladora GWX 10-125 Professional X-LOCK. 1000 W. 11.000 r.p.m. Disco de 125 mm. Protección contra rearranque. 2,2 Kg. Caja de cartón.
-- Type de source dalimentation : Câble électrique
-- Meuleuse Bosch x-lock gwx 10-25 - 1000W ø125 mm - 06017B3000
 - Voltage : 230.0
+- Meuleuse Bosch x-lock gwx 10-25 - 1000W ø125 mm - 06017B3000
 - Wattage : 1000.0
+- Type de source dalimentation : Câble électrique
+- BOSCH 06017B3000 - Miniamoladora GWX 10-125 Professional X-LOCK. 1000 W. 11.000 r.p.m. Disco de 125 mm. Protección contra rearranque. 2,2 Kg. Caja de cartón.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PYBFTYK{{</world>}}

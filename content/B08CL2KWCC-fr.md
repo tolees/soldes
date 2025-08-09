@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Profitez dimages dune parfaite netteté
+- Une taille et un poids révolutionnaires
+- Mise au point fluide et silencieuse
 - Observez le monde de plus près
 - Un téléobjectif extrême pour tous
-- Mise au point fluide et silencieuse
-- Une taille et un poids révolutionnaires
-- Profitez dimages dune parfaite netteté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CL2KWCC{{</world>}}

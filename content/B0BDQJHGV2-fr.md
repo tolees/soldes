@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifiée FIPS 140-3 niveau 3 (en attente)
-- Option de lecture seule globale ou de session
 - Indépendante du système d’exploitation/de l’appareil
+- Option de lecture seule globale ou de session
+- Certifiée FIPS 140-3 niveau 3 (en attente)
 - Option de mots de passe multiples (Admin et Utilisateur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

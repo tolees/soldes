@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plusieurs jeux de plein air et un chariot pour transporter les accessoires
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
+- Plusieurs jeux de plein air et un chariot pour transporter les accessoires
 - Deux adorables enfants et leur super nourrice
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

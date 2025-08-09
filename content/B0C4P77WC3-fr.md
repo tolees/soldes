@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Règle en plastique intérieur, 8 feuilles dautocollants, jeux de divertissement et extras, horaires et calendriers (du dernier trimestre de 2023 et 2024 et 2025, complet),
-- 160 pages, 100 gr du papier avec la certification FSC, phrases quotidiennes de motivation, séparateurs donglet pour chaque mois, poche intérieure en carton,
 - Planificateur mensuel Au début de chaque mois, des phrases mensuelles superdives.
+- Règle en plastique intérieur, 8 feuilles dautocollants, jeux de divertissement et extras, horaires et calendriers (du dernier trimestre de 2023 et 2024 et 2025, complet),
 - Mr. Wonderful Wonder Style Agenda, avec organisation hebdomadaire, VA de septembre 2023 fin août 2024. Cet programme contient:
+- 160 pages, 100 gr du papier avec la certification FSC, phrases quotidiennes de motivation, séparateurs donglet pour chaque mois, poche intérieure en carton,
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4P77WC3{{</world>}}

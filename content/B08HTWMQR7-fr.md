@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage instantané, dès lallumage
+- Ampoule LED longue durée de vie
 - Meilleur pour votre portefeuille et pour la planète
 - Retrouvez la lumière blanche et chaude des ampoules à incandescence
-- Ampoule LED longue durée de vie
+- Éclairage instantané, dès lallumage
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

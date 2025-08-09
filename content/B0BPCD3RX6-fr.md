@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet LEGO NINJAGO comprend les minifigurines Kai et Lloyd, chacune armée de 2 katanas, plus Braséra, le chasseur des Griffes dImpérium avec un sabre d’Impérium et Lord Ras avec un marteau en or
-- Les jeunes ninjas de plus de 8 ans partent en mission audacieuse pour sauver le dragon de Heatwave avec ce jouet de construction LEGO NINJAGO comprenant une figurine de dragon qui se transforme et 5 minifigurines
-- Ce jouet dragon de feu offre une expérience de construction créative avant que les fans ne séchappent vers NINJAGO City, et constitue un fabuleux cadeau danniversaire pour enfants dès 8 ans
 - Les enfants peuvent retourner la figurine de dragon LEGO NINJAGO pour la faire passer du mode pacifique au mode combat et faire jaillir un élément de pouvoir de dragon violet de sa poitrine
+- Les jeunes ninjas de plus de 8 ans partent en mission audacieuse pour sauver le dragon de Heatwave avec ce jouet de construction LEGO NINJAGO comprenant une figurine de dragon qui se transforme et 5 minifigurines
+- Ce jouet LEGO NINJAGO comprend les minifigurines Kai et Lloyd, chacune armée de 2 katanas, plus Braséra, le chasseur des Griffes dImpérium avec un sabre d’Impérium et Lord Ras avec un marteau en or
+- Ce jouet dragon de feu offre une expérience de construction créative avant que les fans ne séchappent vers NINJAGO City, et constitue un fabuleux cadeau danniversaire pour enfants dès 8 ans
 - Lord Ras peut voler au combat à bord dun aéroglisseur, dont la fonction lui permet de tourner lorsquil est frappé par lélément de puissance du dragon ou de lattraper
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

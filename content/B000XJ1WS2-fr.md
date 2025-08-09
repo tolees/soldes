@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre: 12,7mm
-- Arasage de matériaux saillants stratifié ou contreplaqué ou de bois massifs et composites
 - Sa conception permet déviter les contrecoups en limitant lépaisseur des copeaux générés
-- Avec roulement à billes pour un guidage aisé, directement contre la pièce, sans gabarit
+- Arasage de matériaux saillants stratifié ou contreplaqué ou de bois massifs et composites
 - Résultats de coupe fiables et durables obtenus grâce à ses lames de qualité en carbure de tungstène
+- Diamètre: 12,7mm
+- Avec roulement à billes pour un guidage aisé, directement contre la pièce, sans gabarit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000XJ1WS2{{</world>}}

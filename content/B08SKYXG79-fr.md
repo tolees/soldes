@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Certifiées par le Leather Working Group
-- XL EXTRALIGHT, tout en légèreté et absorption des chocs
 - Fermeture Velcro pour un bon ajustement
+- XL EXTRALIGHT, tout en légèreté et absorption des chocs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SKYXG79{{</world>}}

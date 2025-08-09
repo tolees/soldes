@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultats : Des cheveux 10x moins cassants et 2x moins fourchus en 1 minute seulement, Fibre capillaire intensément nourrie, réparée et protégée jusquaux pointes, Cheveux comme régénérés et renforcés en profondeur
 - Application : Après le shampooing, appliquer sur les longueurs et les pointes essorées, Laisser poser 3 à 5 minutes pour un résultat optimal et rincer
-- Masque capillaire reconstituant spécialement conçu pour les cheveux fragiles et cassants à la gelée royale et au miel
 - Formule composée à 97% dingrédients dorigine naturelle associant la gelée royale réparatrice à la propolis protectrice et au miel nourricier reconnu pour sa douceur et ses vertus nourrissantes, Sans parabène
+- Résultats : Des cheveux 10x moins cassants et 2x moins fourchus en 1 minute seulement, Fibre capillaire intensément nourrie, réparée et protégée jusquaux pointes, Cheveux comme régénérés et renforcés en profondeur
+- Masque capillaire reconstituant spécialement conçu pour les cheveux fragiles et cassants à la gelée royale et au miel
 - Contenu : 1x Garnier Ultra Doux Trésors de Miel, Masque Remède Reconstituant, 340 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})

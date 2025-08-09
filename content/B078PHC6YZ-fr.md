@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rayures signature
 - Semelle intérieure rembourrée
 - Dessus en toile
 - Bout rond
+- Rayures signature
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B078PHC6YZ{{</world>}}

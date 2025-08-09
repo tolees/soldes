@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hamac douillet offrant un espace confortable à votre chat pour se relaxer
-- Aide à éviter que votre chat n’abîme moquette, mobilier, rideaux, etc.
 - Hamac pour chat surélevé avec double poteau griffoir
-- Grattoir en fibre de jute naturelle qui permet d’entretenir les griffes
+- Hamac douillet offrant un espace confortable à votre chat pour se relaxer
 - Structure durable
 - Couleurs neutres qui s’adaptent à votre décoration intérieure
+- Grattoir en fibre de jute naturelle qui permet d’entretenir les griffes
+- Aide à éviter que votre chat n’abîme moquette, mobilier, rideaux, etc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GL45JHQ{{</world>}}

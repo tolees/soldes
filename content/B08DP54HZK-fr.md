@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAPACITE : La boîte archive en dos de 80 mm peut contenir jusquà 600 feuilles (papier 80g). Couleurs assorties - beige, bleu, rose, rouge, vert
-- DIMENSIONS : 25 x 35 cm - Dos de 80 mm - Les dimensions sont parfaitement adaptées pour ranger facilement la boîte archive sur une étagère ou dans une caisse darchivage
-- MONTAGE FACILE : livrée à plat - La boîte archive EXACOMPTA se monte rapidement. Pour tous vos documents au format A4
 - Etiquettes de dos pré-imprimée sur les 2 faces de la boite pour identifier et archiver en vertical ou en horizontal
+- DIMENSIONS : 25 x 35 cm - Dos de 80 mm - Les dimensions sont parfaitement adaptées pour ranger facilement la boîte archive sur une étagère ou dans une caisse darchivage
+- CAPACITE : La boîte archive en dos de 80 mm peut contenir jusquà 600 feuilles (papier 80g). Couleurs assorties - beige, bleu, rose, rouge, vert
 - Boite archive en carton ondulé pour classer et archiver vos documents et dossiers, intérieur kraft. Idéale pour les bureaux, bibliothèques et les musées
+- MONTAGE FACILE : livrée à plat - La boîte archive EXACOMPTA se monte rapidement. Pour tous vos documents au format A4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DP54HZK{{</world>}}

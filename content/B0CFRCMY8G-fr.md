@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mélangez une combinaison dingrédients, tels que le thé, le gingembre, la menthe, le chocolat, le café et bien dautres encore, Expérimentez et découvrez des recettes secrètes, changez la vie des gens en leur servant des boissons qui leur réchaufferont le cœur
+- Se déroule dans un Seattle alternatif du présent où les humains, les orcs, les elfes et dautres races coexistent depuis la nuit des temps, Explorez le monde à travers les histoires racontées par vos clients, une tasse à la fois
 - Dans Coffee Talk Episode 1 et Episode 2 vous allez écouter les problèmes des gens et les aider en leur servant une boisson chaude avec les ingrédients que vous avez en stock, Plongez dans les histoires des habitants de Seattle, une histoire damour dramatique entre un elfe et un succube, un extraterrestre qui tente de comprendre la vie des humains, et bien dautres qui par leur modernité font écho au monde qui les entoure
 - Montrez votre créativité, dessinez votre propre chef-dœuvre de latte-art avec notre simulation de fluides dans le jeu pour décorer vos boissons
-- Se déroule dans un Seattle alternatif du présent où les humains, les orcs, les elfes et dautres races coexistent depuis la nuit des temps, Explorez le monde à travers les histoires racontées par vos clients, une tasse à la fois
 - Plongez dans latmosphère relaxante dun café Il pleut dehors, préparez-vous une boisson chaude, mettez ces rythmes chillhop lo-fi et écoutez les discussions autour du café
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

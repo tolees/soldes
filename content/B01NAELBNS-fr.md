@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Décoration LEGO pour la maison ou le bureau – Ornez votre intérieur ou votre bureau de ce modèle LEGO détaillé d’exception dépeignant la machine volante de Léonard de Vinci
+- Instructions de montage en 3D – Plongez dans la construction avec l’application LEGO Builder, qui permet d’enregistrer des sets, de suivre votre progression, de zoomer et même de faire pivoter vos modèles en 3D
+- Lart de voler avec l’ornithoptère de Léonard de Vinci : un set à construire pour adultes – Plongez dans l’histoire de l’innovation aéronautique avec le projet de construction LEGO de La machine volante de Léonard de Vinci LEGO Icons pour adultes
 - Que contient la boîte ? – Tous les accessoires LEGO pour créer une interprétation LEGO détaillée de l’ornithoptère visionnaire de Léonard de Vinci, ainsi qu’un présentoir et une minifigurine de Léonard de Vinci munie d’une plume et d’un croquis
 - Sets de construction LEGO pour adultes – Découvrez un espace propice à la relaxation avec la gamme inspirante de sets de construction LEGO (vendus séparément), conçus spécialement pour les adultes
-- Construction LEGO des ailes actionnées par un levier – Recréez la machine volante de Léonard de Vinci dotée d’ailes battantes en tissu et d’une queue mues par un mécanisme complexe visible, fait de cordes, de charnières et de poulies
-- Lart de voler avec l’ornithoptère de Léonard de Vinci : un set à construire pour adultes – Plongez dans l’histoire de l’innovation aéronautique avec le projet de construction LEGO de La machine volante de Léonard de Vinci LEGO Icons pour adultes
 - Cadeau LEGO pour les adultes amateurs d’histoire – Fêtez un anniversaire ou une occasion spéciale avec ce cadeau idéal pour les amateurs d’histoire, d’aviation et d’innovations historiques
-- Instructions de montage en 3D – Plongez dans la construction avec l’application LEGO Builder, qui permet d’enregistrer des sets, de suivre votre progression, de zoomer et même de faire pivoter vos modèles en 3D
-- Décoration LEGO pour la maison ou le bureau – Ornez votre intérieur ou votre bureau de ce modèle LEGO détaillé d’exception dépeignant la machine volante de Léonard de Vinci
+- Construction LEGO des ailes actionnées par un levier – Recréez la machine volante de Léonard de Vinci dotée d’ailes battantes en tissu et d’une queue mues par un mécanisme complexe visible, fait de cordes, de charnières et de poulies
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NAELBNS{{</world>}}

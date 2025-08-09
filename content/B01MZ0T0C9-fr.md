@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les pigments reflécteurs de lumière réveillent délicatement et naturellement léclat de la peau
 - Anti-cernes enrichi en vitamines pour une peau éclatante, reposée et resplandissante de santé
 - Lapplicateur floqué permet une application pratique et précise
 - Contient un dérivé dacide hyaluronique à leffet hydratant et raffermissant
+- Les pigments reflécteurs de lumière réveillent délicatement et naturellement léclat de la peau
 - Grâce à leur effet flouteur et Soft-Focus, les particules sphériques minimisent lapparence des cernes et des imperfections
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir supérieur
 - Semelle en caoutchouc
+- Cuir supérieur
 - Fermeture en dentelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

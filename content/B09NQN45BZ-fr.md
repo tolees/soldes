@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GOOD GRIP
 - CUSHIONING
+- GOOD GRIP
 - Ingrédients extrêmement durables
 - Très chaud
 

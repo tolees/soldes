@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 5 ans de garantie constructeur
 - Cache à 256 Mo, 7 200 tr/min
+- Dédié 24 h/24 et 7 j/7 j/7 via le support téléphonique est inclus avec chaque disque dur WD Gold
 - SATA 6 Gb/s
 - 2 To de stockage
-- Dédié 24 h/24 et 7 j/7 j/7 via le support téléphonique est inclus avec chaque disque dur WD Gold
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01IY9UTMM{{</world>}}

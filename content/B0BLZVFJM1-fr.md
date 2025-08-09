@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dépassez-vous: Le système de combat cinématique revient avec de nouvelles capacités de la force et de nouveaux styles de combat au sabre laser
 - Maîtrisez de nouvelles capacités et exploitez votre équipement pour pousser votre façon dexplorer, de vous battre et de vous déplacer
-- Explorez une galaxie sauvage: Parcourez de nouvelles planètes et des frontières familières de la galaxie Star Wars, et venez à bout des obstacles et des ennemis qui vous y attendent
 - Poursuivez le périple de Cal: De padawan à chevalier Jedi aguerri, Cal porte avec lui les souvenirs et les volontés de lordre Jedi
+- Explorez une galaxie sauvage: Parcourez de nouvelles planètes et des frontières familières de la galaxie Star Wars, et venez à bout des obstacles et des ennemis qui vous y attendent
+- Dépassez-vous: Le système de combat cinématique revient avec de nouvelles capacités de la force et de nouveaux styles de combat au sabre laser
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLZVFJM1{{</world>}}

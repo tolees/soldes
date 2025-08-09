@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Sa tenue se compose d’un haut brillant et d’une jupe amovible avec un motif propre à l’univers du film
 - Les enfants peuvent même s’amuser à coiffer les longs cheveux de la poupée
-- Inspirée du personnage principal du célèbre film Disney La Petite Sirène, cette poupée Ariel est prête à vivre d’innombrables aventures
 - Les fans peuvent collectionner toutes les poupées Princesses Disney pour des aventures encore plus magiques Articles vendus séparément, Certains produits peuvent ne pas être commercialisés
+- Inspirée du personnage principal du célèbre film Disney La Petite Sirène, cette poupée Ariel est prête à vivre d’innombrables aventures
 - Une excellente idée de cadeau pour les enfants qui veulent recréer les meilleurs moments du film ou imaginer leurs propres aventures
 - Cette poupée articulée arbore le look emblématique du personnage dans le film et porte notamment un diadème et des chaussures amovibles
 

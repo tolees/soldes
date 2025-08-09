@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 4 hauteurs possibles ; siège évolutif de 6 à 12 mois ou jusquà 26 lbs (12 kg)
+- Sebastian joue de la musique, sillumine et est amovible, pour samuser en déplacement
+- Siège en molleton, pivotant à 360 degrés
+- Rejoignez la petite sirène Ariel et ses amis Sebastian et Flounder
 - Appuyer sur le centre de la carapace pour voir Sebastian tambouriner en rythme !
 - Des lumières mises en marche par les sauts et plus de 20 mélodies pour récompenser bébé
-- Siège en molleton, pivotant à 360 degrés
-- Sebastian joue de la musique, sillumine et est amovible, pour samuser en déplacement
-- Rejoignez la petite sirène Ariel et ses amis Sebastian et Flounder
 - plus de 10 jouets et activités pour que bébé samuse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

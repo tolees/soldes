@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Découvrez de nouveaux mondes et relevez de nouveaux défis
 - Des graphismes époustouflants, un son incroyable et des performances irréprochables vous permettront de vivre des sensations fortes exceptionnelles
-- Résolution 2K QHD 2560x1440 HDR, dalle IPS
 - 1ms et AMD FreeSync Premium pour un gameplay fluide
+- Résolution 2K QHD 2560x1440 HDR, dalle IPS
 - REMARQUE: Pour le problème des pixels Nettoyez lécran LCD, allumez-le et éteignez-le de manière cyclique. Ce sont des pixels qui sont allumés ou éteints en permanence et cest un défaut naturel de la technologie LCD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

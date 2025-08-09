@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Machines Holzmann
 - Jack utilitaire
+- Machines Holzmann
 - Cric à chariot Holzmann RWH125ALU 1,25 t Hauteur de travail : 8,5 à 37,5 cm
 - Contenu : 1 article
 

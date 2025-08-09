@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable - Les 187 pages numérotées au format A6, 9 x 15 cm, sont constituées de papier de 80 g/m² contenant des fibres longues de pâte fraîche. Tous nos papiers sont bien sûr certifiés FSC.
 - Écrire à la main, cest penser sur papier. Des pensées naissent des mots, des phrases, des images. Les idées se transforment en projets. Nous écrivons et comprenons, approfondissons, voyons, pensons - avec la main.
-- Multifonctionnel - Que ce soit comme un journal, une liste de tâches, pour stocker des mots de passe, des anniversaires, des calculs ou comme carnet de croquis. Le papier de couleur chamois clair assure une lisibilité agréable.
 - Clair - Le carnet de notes de haute qualité avec reliure cousue, 2 signets, des autocollants, une table des matières et des numéros de page permet une organisation rapide des idées au bureau ou au quotidien.
+- Multifonctionnel - Que ce soit comme un journal, une liste de tâches, pour stocker des mots de passe, des anniversaires, des calculs ou comme carnet de croquis. Le papier de couleur chamois clair assure une lisibilité agréable.
 - Ordonné - La pochette pliable dans la couverture et un élastique pratique assurent lordre. Huit feuilles perforées sont idéales pour retirer ou emporter rapidement et proprement des notes.
+- Durable - Les 187 pages numérotées au format A6, 9 x 15 cm, sont constituées de papier de 80 g/m² contenant des fibres longues de pâte fraîche. Tous nos papiers sont bien sûr certifiés FSC.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0095FFVFU{{</world>}}

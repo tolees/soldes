@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Application : Appliquer quotidiennement sur les mains, Résiste au lavage des mains
 - Crème pour les mains à lavocat pour nourrir et hydrater les mains sèches à très sèches
-- Formule vegan* à lhuile davocat et à loméga 6 composée à 98% dingrédients dorigine naturelle, Formule approuvée par Cruelty Free International, Tube intégrant du carton (*sans composant dorigine animale ou dérivé)
 - Résultats : Des mains nourries et hydratées pendant 48 heures
 - Contenu : 1x Crème mains nourrissante 48h à lavocat Garnier Body Superfood, Contenance : 75 ml
+- Formule vegan* à lhuile davocat et à loméga 6 composée à 98% dingrédients dorigine naturelle, Formule approuvée par Cruelty Free International, Tube intégrant du carton (*sans composant dorigine animale ou dérivé)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNJ3F4XL{{</world>}}

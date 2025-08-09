@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un super ordinateur avec 9 touches interactives pour découvrir les formes, les animaux et les couleurs
-- Version française
-- Des effets lumineux à l’écran attirent l’œil de Bébé et l’incitent à jouer
 - 20 mélodies et 3 chansons
-- Poignée adaptée aux petites mains pour transporter l’ordi partout
+- Des effets lumineux à l’écran attirent l’œil de Bébé et l’incitent à jouer
 - Avec une souris directionnelle pour découvrir les chiffres et les notes de musique et déclencher des sons rigolos
+- Un super ordinateur avec 9 touches interactives pour découvrir les formes, les animaux et les couleurs
+- Poignée adaptée aux petites mains pour transporter l’ordi partout
+- Version française
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01DZX5KLW{{</world>}}

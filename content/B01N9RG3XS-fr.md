@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour voir toute notre gamme de produits pour la Nintendo Switch, tapez ORZLY SWITCH dans la barre de recherche Amazon (ci-dessus).
-- Bords arrondis pour plus de sécurité et de prise en main en plus du verre trempé résistant aux chocs
-- Haute sensibilité : avec seulement 0,24 mm dépaisseur, elle conserve la même sensibilité au toucher et ninterfère pas lorsque vous le mettez dans la base. Haute transparence : 94 % de pénétration de lumière qui conserve la qualité visuelle dorigine.
-- Découpes sur le protecteur décran pour tous les capteurs de la Nintendo Switch ; Comprend une garantie limitée du fabricant.
 - Fabriqué en verre trempé premium pour augmenter la résistance aux chocs, en plus de résister aux rayures de plus de 9H (plus dur que dun couteau)
+- Haute sensibilité : avec seulement 0,24 mm dépaisseur, elle conserve la même sensibilité au toucher et ninterfère pas lorsque vous le mettez dans la base. Haute transparence : 94 % de pénétration de lumière qui conserve la qualité visuelle dorigine.
+- Bords arrondis pour plus de sécurité et de prise en main en plus du verre trempé résistant aux chocs
+- Pour voir toute notre gamme de produits pour la Nintendo Switch, tapez ORZLY SWITCH dans la barre de recherche Amazon (ci-dessus).
+- Découpes sur le protecteur décran pour tous les capteurs de la Nintendo Switch ; Comprend une garantie limitée du fabricant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N9RG3XS{{</world>}}

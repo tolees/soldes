@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appliquer en pré-shampoing sur lensemble de la chevelure, laisser poser 10 minutes, puis rincer. Peut sutiliser également en masque.
-- Il renforce les liaisons affaiblies, revitalise la fibre capillaire, protège la couleur et rend les cheveux doux et soyeux.
 - Le traitement intensif Acidic Bonding Concentrate est un soin bonding à la concentration maximale dacide citrique pour transformer visiblement les cheveux très abîmés en seulement 10 minutes. Il améliore la résistance des cheveux après les services déclaircissement ou de coloration en salon.
+- Il renforce les liaisons affaiblies, revitalise la fibre capillaire, protège la couleur et rend les cheveux doux et soyeux.
+- Appliquer en pré-shampoing sur lensemble de la chevelure, laisser poser 10 minutes, puis rincer. Peut sutiliser également en masque.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QYD97XY{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fonctionne entre -25°C et 85°C et résiste aux tensions, chocs et vibrations
 - La première carte haute capacité (256 Go) au monde à être optimisée pour la capture de vidéo 4K avec VPG-67
 - Cet article n est plus en solde !
 - Des vitesses de lecture allant jusquà 160 Mo/s et décriture allant jusquà 140 Mo/s
-- Fonctionne entre -25°C et 85°C et résiste aux tensions, chocs et vibrations
 - Saisissez des vidéos de qualité cinéma avec VPG-67
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

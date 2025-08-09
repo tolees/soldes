@@ -32,10 +32,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Enregistrement vidéo en un clic via une application, partage librement.
 - Votre caméra IP intérieure en mouvement
 - retour automatique a sa station de re chargement
-- Caméra HD 1080p HD
-- Évitement automatique dobstacles
 - Lapplication EBO est livrée avec des tonnes dédition et de fonctionnalités sociales pour vous aider à partager vos moments avec le monde.
 - détection de mouvement et vision nocturne infrarouge
+- Caméra HD 1080p HD
+- Évitement automatique dobstacles
 - WiFi 2.4G (max 50m du routeur 802.11.b/g/n dans l’espace ouvert) WiFi 5.2G (max 80m de routeur 802.11.ac dans l’espace ouvert)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

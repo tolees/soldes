@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran AMOLED DotDisplay 120Hz de 6.67 (2400x1080p)
 - Quad cameras avec Objectif principal ultra grand angle de108 MP
-- Capacité 8GB + 128 GB
 - Xiaomi 11T 5G - gris
+- Écran AMOLED DotDisplay 120Hz de 6.67 (2400x1080p)
 - Processeur 6nm Mediatek Dimensity 1200-Ultra
+- Capacité 8GB + 128 GB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09GVTRK74{{</world>}}

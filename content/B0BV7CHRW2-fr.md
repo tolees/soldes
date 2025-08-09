@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce kit de maquettes à construire pour adultes est riche en détails et possède une base avec quatre boutons pour activer différentes fonctions ; un pour abaisser et illuminer lidole et un pour faire seffondrer un mur
+- Les fonctions du kit de construction de maquettes permettent aussi à Indiana Jones de se balancer sur une vigne dans la grotte et de voir Indy poursuivi par un énorme rocher
 - Une excellente idée de cadeau nostalgique pour les adultes fans du film Indiana Jones, passionnés par les constructions LEGO et les défis de construction gratifiants
 - Rendez hommage à Indiana Jones avec le set de construction LEGO Le Temple de l’Idole en Or, qui reprend la scène douverture passionnante du film Les Aventuriers de lArche Perdue
-- Les fonctions du kit de construction de maquettes permettent aussi à Indiana Jones de se balancer sur une vigne dans la grotte et de voir Indy poursuivi par un énorme rocher
 - Prêtez-vous à laventure avec les minifigurines LEGO incluses de 4 personnages dIndiana Jones : Indiana Jones, Satipo, Belloq et un guerrier Hovitos
-- Ce kit de maquettes à construire pour adultes est riche en détails et possède une base avec quatre boutons pour activer différentes fonctions ; un pour abaisser et illuminer lidole et un pour faire seffondrer un mur
 - Un set à construire et à exposer qui ravira tous les collectionneurs LEGO adultes. Découvrez aussi dautres modèles de la série LEGO Indiana Jones comme : L’Évasion du Tombeau Perdu (77013) et La Poursuite en Avion de Combat (77012)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

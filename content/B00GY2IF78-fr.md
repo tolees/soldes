@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- éclaircit et unifie le teint de votre peau
-- aide à réduire les trouble pigmentaires causés par le soleil
-- réduit de 25% l’extension et la gravité du mélasma (masi).très haute protection
 - aide à réduire les taches mis par le soleil
+- réduit de 25% l’extension et la gravité du mélasma (masi).très haute protection
+- aide à réduire les trouble pigmentaires causés par le soleil
+- éclaircit et unifie le teint de votre peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GY2IF78{{</world>}}

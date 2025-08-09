@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette arène de cascade inclut une arche d’entrée, un looping serpent, un looping de feu, un mur de flammes, un stand de vente et une tribune
-- Les jouets de motos à construire sont accompagnées par des instructions imprimées faciles à suivre pour tous les éléments qui sont inclus dans le set
-- Participez à des tournois et à des spectacles de cascades palpitants avec cet ensemble LEGO City Stuntz comprenant 2 motos de cascadeurs, un jouet de rampe et un jouet de monster truck
-- Combinez cet ensemble avec dautres de la gamme LEGO City pour des tournois et des aventures passionnants : Le Looping du Chimpanzé Cogneur (60338) ou Le Défi de Cascade : Les Lames (60340)
-- Comprend 7 minifigurines LEGO City Stuntz, dont 2 motards cascadeurs et de nombreux accessoires amusants comme une glace, un soda et un appareil photo
 - Les enfants activent les motos LEGO de cascade à rétro-friction pour s’élancer et traverser le mur de flammes, franchir le looping serpent dont les mâchoires se referment en claquant et allumer le looping de feu
+- Participez à des tournois et à des spectacles de cascades palpitants avec cet ensemble LEGO City Stuntz comprenant 2 motos de cascadeurs, un jouet de rampe et un jouet de monster truck
 - Ce jouet pour garçons et filles de 7 ans et plus est un excellent cadeau danniversaire ou de Noël pour les enfants qui aiment les cascades et la vitesse
+- Comprend 7 minifigurines LEGO City Stuntz, dont 2 motards cascadeurs et de nombreux accessoires amusants comme une glace, un soda et un appareil photo
+- Combinez cet ensemble avec dautres de la gamme LEGO City pour des tournois et des aventures passionnants : Le Looping du Chimpanzé Cogneur (60338) ou Le Défi de Cascade : Les Lames (60340)
+- Les jouets de motos à construire sont accompagnées par des instructions imprimées faciles à suivre pour tous les éléments qui sont inclus dans le set
+- Cette arène de cascade inclut une arche d’entrée, un looping serpent, un looping de feu, un mur de flammes, un stand de vente et une tribune
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QFVRYBY{{</world>}}

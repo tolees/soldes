@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant aux vibrations : 5 gRMS, 10-2000 Hz
 - Cœur de SSD résistant aux chocs pour une plus grande durabilité
+- Résistant aux vibrations : 5 gRMS, 10-2000 Hz
 - Compact et portable
-- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
 - Robuste, résistant à leau et à la poussière (indice IP55)
+- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B078T9SZ3K{{</world>}}

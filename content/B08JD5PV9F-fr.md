@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connecteur USB protégé par un capuchon pratique
 - Différentes options de couleur par capacité
+- Connecteur USB protégé par un capuchon pratique
 - Grand anneau pour laccrocher à un porte-clés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

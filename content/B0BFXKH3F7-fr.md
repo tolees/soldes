@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [PROTECTION IP54] Profitez d’un son incroyable sans vous soucier de l’humidité ou de la poussière.
+- [ÉCLAIRAGE PERSONNALISABLE] Choisissez parmi 16,8 millions de couleurs d’éclairage dans l’application XBOOM.
+- [SON AUTHENTIQUE À 360°] Le système audio 3 voies offre un son de haute qualité tout autour de lenceinte.
+- [DESIGN RÉCOMPENSÉ] Récompensé par le reddot Design Award.
 - [SYNERGIE AVEC LES TÉLÉVISEURS LG] Ressentez le son immersif en connectant deux XO3 à un téléviseur LG compatible.
 - [JUSQU’À 20 HEURES DAUTONOMIE] Écoutez de la musique en continu jusquà 20 heures.
-- [ÉCLAIRAGE PERSONNALISABLE] Choisissez parmi 16,8 millions de couleurs d’éclairage dans l’application XBOOM.
-- [DESIGN RÉCOMPENSÉ] Récompensé par le reddot Design Award.
-- [SON AUTHENTIQUE À 360°] Le système audio 3 voies offre un son de haute qualité tout autour de lenceinte.
+- [PROTECTION IP54] Profitez d’un son incroyable sans vous soucier de l’humidité ou de la poussière.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFXKH3F7{{</world>}}

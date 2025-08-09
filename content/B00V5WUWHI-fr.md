@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Aqua (Water), Cetearyl Alcohol, Glycerin, Ricinus Communis (Castor Seed) Oil, Cetrimonium Chloride, Cocos Nucifera (Coconut) Oil, Inulin, Coco-Caprylate, Parfum (Fragrance), Benzyl Alcohol, Cetearyl Glucoside, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Hexyl Cinnamal, Lactic Acid, Linalool, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Dehydroacetic Acid, sodium benzoate, Sodium hydroxide.
-- item_display_volume: 150.0 milliliters
-- Cet après-shampooing complète l’action du shampooing.
 - Après rinçage, les cheveux sont doux, brillants et se démêlent facilement.
+- Cet après-shampooing complète l’action du shampooing.
+- item_display_volume: 150.0 milliliters
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00V5WUWHI{{</world>}}

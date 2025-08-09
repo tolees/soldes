@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Imperméable
 - Matière principale : nappa, matériau de la doublure : Gore-Tex Matériau de la semelle : caoutchouc naturel Semelle intérieure amovible Insert : oui
-- Fabriquées en Espagne
 - Panama Jack Bottes pour homme Cuero / Bark Springer
+- Fabriquées en Espagne
 - Hauteur du talon : 3,00 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indicateur de dureté de la mine sur le corps
 - Porte-mines technique rechargeable pour mines 0,7mm
-- Porte-mines avec canon rentrant et muni dune gomme
 - Idéal pour dessins techniques et utilisation quotidienne
+- Porte-mines avec canon rentrant et muni dune gomme
+- Indicateur de dureté de la mine sur le corps
 - Corps de haute qualité en métal gris argenté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

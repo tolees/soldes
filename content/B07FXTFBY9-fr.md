@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Evite du gaspillage pour économiser du papier, du temps en de largent
-- Imprime jusquà 3000 pages conforme à la norme ISO/IEC19798
-- Toner original de Brother de haute qualité
-- Imprimantes compatibles: HL-L3210CW ; HL-L3230CDW; HL-L3270CDW; DCP-L3510CDW; DCP-L3550CDW ; MFC-L3710CW; MFC-L3730CDN; MFC-L3750CDW; MFC-L3770CDW
 - Nombre de pages imprimables: 3000
+- Toner original de Brother de haute qualité
+- Imprime jusquà 3000 pages conforme à la norme ISO/IEC19798
+- Imprimantes compatibles: HL-L3210CW ; HL-L3230CDW; HL-L3270CDW; DCP-L3510CDW; DCP-L3550CDW ; MFC-L3710CW; MFC-L3730CDN; MFC-L3750CDW; MFC-L3770CDW
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FXTFBY9{{</world>}}

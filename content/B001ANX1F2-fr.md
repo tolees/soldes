@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour le marquage des pièces détaches, des bagages, des objets
 - Etiquettes très résistantes sur cardonette avec œillet renforcé
+- Idéal pour le marquage des pièces détaches, des bagages, des objets
 - Etiquettes Américaines avec fil de fer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

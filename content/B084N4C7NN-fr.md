@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Schott
 - Doudoune a capuche Schott IDAHO2 ref 55198 Noir - - XL
 - 9.99
-- Schott
 - Racine > Accueil > Textile Homme > Doudoune textile homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})

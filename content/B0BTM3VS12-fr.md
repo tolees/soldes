@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Protège le circuit dalimentation essence
 - produit 1: efficace dès 50 à 100 km à régime élevé
-- produit 2: Additif de synthèse qui nettoie et protège tout le circuit dalimentation (réservoir, tuyaux, injecteurs...), ainsi que les chambres de combustion et les soupapes
-- produit 2: Décrasse et améliore les performances du moteur
-- produit 2: Facom 006004 Traitement Essence
-- produit 1: nettoie et maintient propre lensemble du système dalimentation en carburant (pompe dinjection, injecteurs)
-- produit 1: action détergente catalytique haute performance. protège de lencrassement. réduit les émanations polluantes et la consommation de carburant.
 - produit 1: facilite le passage au contrôle technique et rétablit les performances
+- produit 2: Protège le circuit dalimentation essence
+- produit 1: nettoie et maintient propre lensemble du système dalimentation en carburant (pompe dinjection, injecteurs)
+- produit 2: Facom 006004 Traitement Essence
+- produit 1: action détergente catalytique haute performance. protège de lencrassement. réduit les émanations polluantes et la consommation de carburant.
+- produit 2: Décrasse et améliore les performances du moteur
+- produit 2: Additif de synthèse qui nettoie et protège tout le circuit dalimentation (réservoir, tuyaux, injecteurs...), ainsi que les chambres de combustion et les soupapes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BTM3VS12{{</world>}}

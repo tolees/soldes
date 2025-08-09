@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les informations ci-dessous sappliquent à chaque unité du pack
-- licorice menthe
 - 85 ml
 - Dentifrice
+- licorice menthe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CH3GQ635{{</world>}}

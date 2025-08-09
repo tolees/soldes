@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Combinez cet ensemble avec dautres ensembles de la gamme LEGO City Stuntz et créez des tournois et des spectacles passionnants : L’Arène de Cascade avec Double Looping (60339) et La Moto de Cascade Baignoire (60333)
-- Comporte des accessoires amusants tels quune tribune pour les spectateurs, des flammes LEGO, des plantes, un appareil photo, un hot-dog et une crème glacée
-- Cet ensemble LEGO City Stuntz contient une piste de stunt avec un looping, un jouet de rampe, un tremplin, des accessoires et un chimpanzé cogneur, ainsi quune moto de stunt à rétro-friction
-- Les enfants poussent le jouet de moto cross pour activer la rétro-friction, puis le lâchent pour filer dans le looping, sauter sur le tremplin et franchir le chimpanzé mécanique et son amusante fonction fracassante
 - Cest un cadeau idéal pour les garçons et les filles de 7 ans qui aiment les jeux daction et les jouets de moto
+- Cet ensemble LEGO City Stuntz contient une piste de stunt avec un looping, un jouet de rampe, un tremplin, des accessoires et un chimpanzé cogneur, ainsi quune moto de stunt à rétro-friction
 - Ce jeu de construction comprend également 3 minifigurines LEGO : le Pilote d’élite aérien Stuntz de la série City Stuntz et 2 spectateurs pour animer le spectacle
+- Les enfants poussent le jouet de moto cross pour activer la rétro-friction, puis le lâchent pour filer dans le looping, sauter sur le tremplin et franchir le chimpanzé mécanique et son amusante fonction fracassante
+- Comporte des accessoires amusants tels quune tribune pour les spectateurs, des flammes LEGO, des plantes, un appareil photo, un hot-dog et une crème glacée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09QG1CJY2{{</world>}}

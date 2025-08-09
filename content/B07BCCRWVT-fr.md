@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Répartir sur cheveux mouillés. Émulsionner jusquà obtenir une crème onctueuse. Rincer. Pour des résultats optimaux, suivre avec le masque protecteur Metal Detox.
 - Intensément nourris, les cheveux sont instantanément plus forts, plus brillants, visiblement plus sains. La couleur dure plus longtemps.
 - Enrichie en Glicoamine, crème lavante anti-métal* pour empêcher la casse & la couleur de virer. Sa texture ultra-crémeuse nettoie en douceur la fibre et élimine laccumulation de particules de métal, telles que le cuivre. Sans sulfate. *Test instrumental : spray + procédure technique + shampooing
+- Répartir sur cheveux mouillés. Émulsionner jusquà obtenir une crème onctueuse. Rincer. Pour des résultats optimaux, suivre avec le masque protecteur Metal Detox.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BCCRWVT{{</world>}}

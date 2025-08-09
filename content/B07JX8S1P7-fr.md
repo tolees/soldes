@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vert et noir
-- Marque : WERKA PRO
 - 4 x 5 m
 - Poids : 4.79 Kg
+- Marque : WERKA PRO
+- Vert et noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JX8S1P7{{</world>}}

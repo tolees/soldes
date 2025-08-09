@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plaque chauffante de conception avancée avec surface à revêtement céramique
 - Se connecte à lapplication Cricut Heat via une connexion Bluetooth
 - Sa taille de 30 cm x 25 cm (12 po x 10 po) est idéale pour les sweat-shirts, les bannières, les couvertures et plus encore
+- Plaque chauffante de conception avancée avec surface à revêtement céramique
 - Compatible avec les principales marques de thermocollant (HTV), Infusible Ink et matériaux de sublimation
 - Contrôle précis des températures jusqu’à 205 °C (400 °F)
 

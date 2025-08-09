@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester
 - Fermeture: Enfiler
 - Lavage à la main seulement
+- 100% Polyester
 - Régulier
 
 [🛒 Achète-le!!]({{< param buyurl >}})

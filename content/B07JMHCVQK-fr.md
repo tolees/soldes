@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavable au lave-vaisselle et micro-ondables, Haute qualité : Porcelaine Premium allemande
-- Taille adaptée pour servir plats principaux, gâteaux ou desserts, Bords larges pour un service propre, Parfaitement combinable avec la collection Manufacture Rock
-- Plat rustique à texture matte et à laspect ardoise pour servir avec élégance en toute occasion, Idée de cadeau originale
 - Contenu : 1x Villeroy & Boch Manufacture Rock Assiette plate (27 cm), Matériau : Porcelaine Premium, Couleur : Gris
 - Convient également à la restauration grâce à sa forme pratique, Bords empilables et résistants aux chocs, Taille optimale pour le lave-vaisselle
+- Plat rustique à texture matte et à laspect ardoise pour servir avec élégance en toute occasion, Idée de cadeau originale
+- Taille adaptée pour servir plats principaux, gâteaux ou desserts, Bords larges pour un service propre, Parfaitement combinable avec la collection Manufacture Rock
+- Lavable au lave-vaisselle et micro-ondables, Haute qualité : Porcelaine Premium allemande
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JMHCVQK{{</world>}}

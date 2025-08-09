@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grâce à la télécommande incluse dans la livraison peut être réglée individuel de la luminosité et la couleur de la lumière de la lampe
-- Lumière blanche chaude 3000 Kelvin et 430 lumens
 - Lampe de table LED RVB John en chrome avec un socle et un verre en blanc mat
 - 5 déconomie dénergie, ampoule LED 5 W (de) avec une durée de vie moyenne de 25 000 heures
+- Lumière blanche chaude 3000 Kelvin et 430 lumens
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0756NQB1G{{</world>}}

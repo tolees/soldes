@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INGRÉDIENTS EXTRA DURABLES
-- Adhérence extra large
 - Matériau naturel :
+- Adhérence extra large
+- INGRÉDIENTS EXTRA DURABLES
 - Gore-Tex
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

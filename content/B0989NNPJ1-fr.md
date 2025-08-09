@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sauve la ville dans dincroyables missions de sauvetage
+- Lors de ton aventure, ramasse toutes les friandises pour chiot et déverrouille les badges de récompense
 - Comme Pop Pop Boogie, en solo ou en mode coop local
 - Incarne les chiots de la Pat Patrouille tels que Chase, Marcus, Stella et leur nouvelle amie Liberty
-- Lors de ton aventure, ramasse toutes les friandises pour chiot et déverrouille les badges de récompense
-- Sauve la ville dans dincroyables missions de sauvetage
 - Explore les nouveaux lieux du film Pat Patrouille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

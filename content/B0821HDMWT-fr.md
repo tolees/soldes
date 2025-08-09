@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bois de conifère, non traité 2 bancs avec 1 table L 89 cm, L 88 cm, H 51 cm Hauteur dassise 28 cm Inclus
-- Avec réceptacle pour parasol
 - 2 bols en plastique et un banc de travail amovible Capacité par bol 4
+- Avec réceptacle pour parasol
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0821HDMWT{{</world>}}

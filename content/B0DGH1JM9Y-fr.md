@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPLICATION SIMPLE ET RAPIDE : pipette ergonomique avec un embout arrondi pour respecter la peau du chien
-- ACTION RÉPULSIVE : Vectra 3D repousse les tiques et les insectes volants
 - ACTION RAPIDE PAR CONTACT : agit sans que les parasites naient besoin de piquer ou mordre votre chien
+- ACTION RÉPULSIVE : Vectra 3D repousse les tiques et les insectes volants
 - PIPETTE ADAPTÉE POUR LES CHIENS A POILS LONGS : embout allongé pour atteindre facilement la peau du chien à poils longs et/ou denses"
+- APPLICATION SIMPLE ET RAPIDE : pipette ergonomique avec un embout arrondi pour respecter la peau du chien
 - ACTION COMPLÈTE CONTRE LES PUCES : prévient également la multiplication des puces en empêchant léclosion des œufs et en inhibant le développement des larves de puces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

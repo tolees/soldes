@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur: Multi
+- Profondeur de lemballage: 5 cm
 - Nombre de filtres: 3 pièces
 - Type demballage: Boîte
-- Profondeur de lemballage: 5 cm
-- Description du produit: AEG AUSK11
 - Largeur de lemballage: 16,5 cm
-- Couleur: Multi
+- Description du produit: AEG AUSK11
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00ONSOB5A{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PARTIE EPONGE VEGETALE : La partie éponge est fabriquée à partir de coton, de pâte de bois et de lin
-- LAVABLE : Lavable en machine à laver ou au lave-vaisselle à 40°C
 - FABRIQUE EN FRANCE : La partie absorbante de cette éponge est fabriquée dans nos usines de lOise ou du Doubs
-- MULTI USAGES : Solide et absorbante notre éponge est idéale pour tous les nettoyages ménagers notamment pour la vaisselle
+- LAVABLE : Lavable en machine à laver ou au lave-vaisselle à 40°C
+- PARTIE EPONGE VEGETALE : La partie éponge est fabriquée à partir de coton, de pâte de bois et de lin
 - STOP GRAISSE : Grâce à son système exclusif Stop Graisse, les graisses et les saletés ne sont pas retenues dans les fibres vertes grattantes, votre éponge reste ainsi propre et efficace plus longtemps
+- MULTI USAGES : Solide et absorbante notre éponge est idéale pour tous les nettoyages ménagers notamment pour la vaisselle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YQFPC7L{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le débardeur pour femme simple et unicolore de Urban Classics est un véritable multitalent et se combine à de nombreux styles superbes.
 - Le t-shirt a à côté du col rond encore une coupe large des épaules qui assurent un look oversize branché.
+- Le débardeur pour femme simple et unicolore de Urban Classics est un véritable multitalent et se combine à de nombreux styles superbes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SJ9S61J{{</world>}}

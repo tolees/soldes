@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Échelle facile à lire.
-- Avec revêtement en nylon.
 - Tajima Mètre à ruban extra large en acier
+- Avec revêtement en nylon.
 - Crochets magnétiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

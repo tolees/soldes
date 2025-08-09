@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comme vous le souhaitez : choisissez entre du lait de soja écrémé, entier, biologique et préparez du yaourt comme vous laimez ; ajoutez des fruits, du sucre, du miel ou de la confiture selon votre goût
-- Économique : en plus dêtre délicieux et authentique, le yaourt maison vous permet de faire des économies ; avec 1 L de lait et un pot de yaourt vous obtenez plus de 6 portions qui se conservent jusquà 10 jours
-- Frais et authentique : la yogurella est le bon produit pour avoir à la maison chaque jour un yaourt sain et authentique préparé de vos propres mains, sans conservateurs ni additifs
 - Spacieux : les 2 paniers de 1 litre et 1,5 litre permettent dobtenir une dose généreuse de yaourt et se conservent facilement au réfrigérateur grâce au couvercle économe en fraîcheur
+- Économique : en plus dêtre délicieux et authentique, le yaourt maison vous permet de faire des économies ; avec 1 L de lait et un pot de yaourt vous obtenez plus de 6 portions qui se conservent jusquà 10 jours
+- Comme vous le souhaitez : choisissez entre du lait de soja écrémé, entier, biologique et préparez du yaourt comme vous laimez ; ajoutez des fruits, du sucre, du miel ou de la confiture selon votre goût
+- Frais et authentique : la yogurella est le bon produit pour avoir à la maison chaque jour un yaourt sain et authentique préparé de vos propres mains, sans conservateurs ni additifs
 - Yaourt grec : avec le filtre spécial fourni, vous obtiendrez un yaourt grec épais qui contient moins de lactosérum et donc moins de lactose, une caractéristique qui le rend plus digeste et tolérable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

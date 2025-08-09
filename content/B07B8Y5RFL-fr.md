@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : pas de talon
-- Chaussures Iman, un style optimal au quotidien
 - Largeur de la chaussure : moyenne
+- Chaussures Iman, un style optimal au quotidien
+- Forme du talon : pas de talon
 - Degré de résistance à leau : non étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran 39.6 cm (15.6") Full HD 1920 x 1080 WVA, clavier rétroéclairé LED
-- Avec la technologie Wi-Fi6 avancée et des vitesses de débit théoriques, le module Killer AX1650 donne la priorité au streaming vidéo, à la communication et au trafic des jeux au sein de votre système.
-- Technologie thermique avancée: Alienware Cryo-Tech optimise le refroidissement des composants, ce qui maximise les performances d’ensemble et garde votre portable frais au toucher.
-- Processeur Intel Core i7 11800H ,16 Go, 512 Go SSD, (15.6") Full HD, NVIDIA GeForce RTX 3060 6Go GDDR6 ,Windows 11 Home
 - Connectivité: 1 port RJ-45, 2 ports USB 3.2 Gen 1, 1 port USB 3.2 Gen 1 avec PowerShare, 1 port Thunderbolt 4 avec Power Delivery/1 port USB 3.2 Gen 2 Type-C avec DisplayPort, 1 casque, HDMI 2.1 port
+- Avec la technologie Wi-Fi6 avancée et des vitesses de débit théoriques, le module Killer AX1650 donne la priorité au streaming vidéo, à la communication et au trafic des jeux au sein de votre système.
+- Écran 39.6 cm (15.6") Full HD 1920 x 1080 WVA, clavier rétroéclairé LED
+- Processeur Intel Core i7 11800H ,16 Go, 512 Go SSD, (15.6") Full HD, NVIDIA GeForce RTX 3060 6Go GDDR6 ,Windows 11 Home
+- Technologie thermique avancée: Alienware Cryo-Tech optimise le refroidissement des composants, ce qui maximise les performances d’ensemble et garde votre portable frais au toucher.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N9J7TB7{{</world>}}

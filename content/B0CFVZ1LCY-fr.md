@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une minifigurine – La voiture LEGO inclut un toit amovible et une minifigurine de pilote avec un casque, des cheveux et une clé à molette, qui peut être placée au volant de la voiture jouet au départ de la course
-- Des courses encore plus palpitantes – Découvrez d’autres répliques de voitures à construire LEGO Speed Champions (énsembles vendus séparément)
 - Une voiture à offrir – Cette voiture à construire propose une expérience de construction et de jeu amusante. C’est un beau cadeau à offrir à des enfants dès 9 ans ou à des adultes collectionneurs de modèles de voitures
+- Des courses encore plus palpitantes – Découvrez d’autres répliques de voitures à construire LEGO Speed Champions (énsembles vendus séparément)
 - Des détails plus vrais que nature – Cette réplique de la voiture de course Audi S1 e-tron quattro possède un grand aileron arrière, un diffuseur arrière profond, un pare-chocs avant et un intérieur détaillé avec frein d’urgence
 - Un véhicule Audi pour enfants – Les garçons et les filles dès 9 ans peuvent collectionner, construire, décorer leur chambre et jouer avec la voiture de course Audi S1 e-tron quattro LEGO Speed Champions
+- Une minifigurine – La voiture LEGO inclut un toit amovible et une minifigurine de pilote avec un casque, des cheveux et une clé à molette, qui peut être placée au volant de la voiture jouet au départ de la course
 - Un modèle Audi LEGO à exposer – Après avoir joué à la course avec la voiture jouet Audi, les enfants peuvent l’exposer avec fierté comme déco pour leur chambre, sur une étagère ou une table de chevet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

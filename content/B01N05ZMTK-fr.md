@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 Chambres à air
 - Pour s’amuser, se détendre ou simplement en décoration dans votre piscine ou votre jardin
+- 2 Chambres à air
 - 2 Poignées de maintien
 
 [🛒 Achète-le!!]({{< param buyurl >}})

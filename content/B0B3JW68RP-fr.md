@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ENVOLE-TOI VERS DE NOUVEAUX ROYAUMES – Explore différentes étendues pour retrouver la famille de Tonnerre.
 - DÉBLOQUE DE NOUVEAUX HÉROS – Incarne Bissocorn, Wu et Wei ainsi que Panache, et passe dun dragon à lautre à tout moment.
 - CRÉE TON PERSONNAGE – Améliore la vitesse, la force et lintelligence de ton dragon en accumulant de lexpérience.
+- ENVOLE-TOI VERS DE NOUVEAUX ROYAUMES – Explore différentes étendues pour retrouver la famille de Tonnerre.
 - INCARNE UN DRAGON – Vole librement dans les airs et libère la puissance de Tonnerre et de ses amis.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

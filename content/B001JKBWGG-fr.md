@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Etiquettes Américaines avec fil de fer
 - Idéal pour le marquage des pièces détaches, des bagages, des objets
+- Etiquettes Américaines avec fil de fer
 - Etiquettes très résistantes sur cardonette avec œillet renforcé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

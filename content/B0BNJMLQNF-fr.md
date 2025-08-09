@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle en caoutchouc résistante
 - Haute qualité
 - Chaussure de basket-ball
 - Style rétro
+- Semelle en caoutchouc résistante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNJMLQNF{{</world>}}

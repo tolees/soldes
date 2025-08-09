@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Traitement de surface: phosphaté
 - Convient pour cliquet et clé à choc
-- Longueur : 78 mm
-- Empreinte: Six pans
-- Ouverture de clé: 24 mm
 - En acier chrome-molybdène
+- Longueur : 78 mm
+- Traitement de surface: phosphaté
 - Couple max. 682 Nm
+- Ouverture de clé: 24 mm
+- Empreinte: Six pans
 - Avec réception de goupille de blocage et joint en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

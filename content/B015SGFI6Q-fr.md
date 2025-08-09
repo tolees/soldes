@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coton stretch denim
 - Denim stretch en coton
 - Taille basse
-- Coton stretch denim
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B015SGFI6Q{{</world>}}

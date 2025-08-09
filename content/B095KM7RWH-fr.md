@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 320 W, déshumidification de 20 L par jour, réservoir amovible de 4,5 litres, contrôle via Wi-Fi, écran LED, 90 m² de surface couverte.
-- Déshumidificateur avec minuterie BigDry 9000 Professional Black Connected.
 - Réservoir amovible de grande capacité.
+- Déshumidificateur avec minuterie BigDry 9000 Professional Black Connected.
+- 320 W, déshumidification de 20 L par jour, réservoir amovible de 4,5 litres, contrôle via Wi-Fi, écran LED, 90 m² de surface couverte.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095KM7RWH{{</world>}}

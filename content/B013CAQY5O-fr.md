@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU: 1 passoire tamis en inox
-- LE PETIT Plus: Vous pouvez utiliser notre passoire comme tamis lorsque vous souhaitez tamiser en grande quantité de la farine, du cacao, de la poudre damande, du sucre glace
 - DIMENSIONS: 26 x 11,5cm
-- DESCRIPTION: Fackelmann vous propose cette passoire tamis en inox avec des poignées pour un transport facile de la passoire
+- CONTENU: 1 passoire tamis en inox
 - COMPOSITION: Acier inoxydable
+- DESCRIPTION: Fackelmann vous propose cette passoire tamis en inox avec des poignées pour un transport facile de la passoire
+- LE PETIT Plus: Vous pouvez utiliser notre passoire comme tamis lorsque vous souhaitez tamiser en grande quantité de la farine, du cacao, de la poudre damande, du sucre glace
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B013CAQY5O{{</world>}}

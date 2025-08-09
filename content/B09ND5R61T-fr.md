@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Six boutons tactiles programmables et mémoire embarquée pour la personnalisation
-- Patins de souris 100 % Teflon PTFE pour des mouvements plus rapides et fluides
-- Fonctionne avec des piles AA ou AAA via le support de convertisseur de batterie fourni pour une réduction de poids de 10 %
-- Logiciel exclusif Armoury Crate pour une configuration facile et intuitive
-- Le traitement ASUS Antibacterial Guard permet de garder la souris propre et saine
-- Couvercle supérieur en polymère PBT de qualité supérieure et boutons latéraux avec une finition mate durable
 - Souris de jeu de taille moyenne et légère, de 62 grammes, ambidextre (batterie et dongle non compris)
-- Capteur optique 12 000 dpi de qualité gaming pour un suivi précis des pixels, et bouton DPI pour régler à la volée la sensibilité sur quatre niveaux
 - Souris gaming sans fil avec double possibilité de connexion : Wi-Fi 2,4 Ghz et Bluetooth LE
+- Couvercle supérieur en polymère PBT de qualité supérieure et boutons latéraux avec une finition mate durable
+- Capteur optique 12 000 dpi de qualité gaming pour un suivi précis des pixels, et bouton DPI pour régler à la volée la sensibilité sur quatre niveaux
+- Le traitement ASUS Antibacterial Guard permet de garder la souris propre et saine
+- Logiciel exclusif Armoury Crate pour une configuration facile et intuitive
+- Fonctionne avec des piles AA ou AAA via le support de convertisseur de batterie fourni pour une réduction de poids de 10 %
+- Patins de souris 100 % Teflon PTFE pour des mouvements plus rapides et fluides
+- Six boutons tactiles programmables et mémoire embarquée pour la personnalisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ND5R61T{{</world>}}

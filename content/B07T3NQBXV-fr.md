@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Product type: PHYSICAL TV SERIES
 - Brand: HBO
 - Game of Thrones Le Trône de Fer - LIntégrale des saisons 1 à 8 DVD
-- Product type: PHYSICAL TV SERIES
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T3NQBXV{{</world>}}

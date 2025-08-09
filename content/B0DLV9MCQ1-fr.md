@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grande marque N
-- Semelle rembourrée inspirée des chaussures de trail running 355
 - Marquage linéaire positionné au centre avec le texte « New Balance »
+- Semelle rembourrée inspirée des chaussures de trail running 355
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DLV9MCQ1{{</world>}}

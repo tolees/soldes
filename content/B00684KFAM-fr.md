@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Clavier ruban avec plage extra-large de quatre octaves ; clavier brille sous la lumière noire
-- Retard despace avec commandes de temps et de rétroaction ; lfo avec commandes de waveshape, de vitesse et dintensité
-- Haut-parleur intégré er, puissance de la batterie; graphiques qui brille sous la lumière noire
-- Korg mini synthé analogique monotron delay
 - Vco (dents de scie) avec contrle de tangage ; vcf avec commandes de coupure et de crte
+- Retard despace avec commandes de temps et de rétroaction ; lfo avec commandes de waveshape, de vitesse et dintensité
+- Korg mini synthé analogique monotron delay
 - Le filtre ms-20 dorigine avec entrée auxiliaire permet dappliquer le filtre et le délai à nimporte quelle source
+- Haut-parleur intégré er, puissance de la batterie; graphiques qui brille sous la lumière noire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00684KFAM{{</world>}}

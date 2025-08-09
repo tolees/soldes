@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Die Story wird sich über mehrere Jahre hinweg entfalten, ohne zufallsbedingte Lootboxen oder Pay to Win
-- Bis zu r Spieler k nnen sich online zusammenschließen, um die Erde gegen eskalierende Bedrohungen zu verteidigen
 - Schalte m chtige F higkeiten und neue Ausrüstung frei, und erstelle damit deine bevorzugte Version der m chtigsten Helden der Erde
 - Marvels Avengers bietet eine einzigartige Version der berühmten Superhelden, einschließlich Captain America, Iron Man, Hulk, Black Widow und Thor
+- Bis zu r Spieler k nnen sich online zusammenschließen, um die Erde gegen eskalierende Bedrohungen zu verteidigen
+- Die Story wird sich über mehrere Jahre hinweg entfalten, ohne zufallsbedingte Lootboxen oder Pay to Win
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SYSKPJP{{</world>}}

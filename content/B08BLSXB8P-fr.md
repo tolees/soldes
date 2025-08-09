@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plastique
-- Fermeture à glissière
 - Plastique
+- Fermeture à glissière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BLSXB8P{{</world>}}

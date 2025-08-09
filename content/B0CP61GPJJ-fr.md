@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un solo coopératif : Les joueurs sont accompagnés de Pions, à personnaliser et qui interviendront dans votre aventure et au combat.
 - Un monde médiéval-fantastique: Par-delà les frontières des villes, vous rencontrerez divers monstres qui peuplent ces contrées. À vous de décider entre combattre ou de les contourner
 - Une grande aventure : Dérobé de votre cœur par le Dragon, votre destin en tant qu’insurgé est de défaire ce dernier, symbole de destruction de ce monde
-- Un solo coopératif : Les joueurs sont accompagnés de Pions, à personnaliser et qui interviendront dans votre aventure et au combat.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CP61GPJJ{{</world>}}

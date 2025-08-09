@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ASUS OptiMem II : guide et interconnexion précis et optimisation des couches de masse pour maintenir lintégrité du signal pour un overclocking amélioré de la mémoire
 - Connectivité ultra rapide : Wi-Fi 6, M.2 PCIe 5.0, Realtek 2.5Gb Ethernet, USB 3.2 Gen 2x2 Type-C, panneau avant USB 3.2 Gen 1 Type-C, prise en charge de len-tête USB4
-- AMD Socket AM5 pour processeurs de bureau AMD Ryzen 7000 série
 - Refroidissement complet: dissipateur thermique VRM, dissipateur thermique M.2, dissipateur de chaleur passif à chipset, tête de ventilateur hybride et Fan Xpert 4 avec AI Cooling II
+- AMD Socket AM5 pour processeurs de bureau AMD Ryzen 7000 série
 - Alimentation améliorée : 122 DrMOS, carte 6 couches, connecteurs ProCool, bobines dalliage et condensateurs durables pour une alimentation stable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

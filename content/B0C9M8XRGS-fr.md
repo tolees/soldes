@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MODE DEMPLOI : Mouillez les cheveux, appliquez le shampoing, massez doucement, rincez. Répétez pour un nettoyage en profondeur.
 - ANTI GASPI : Pulpe de Vie lutte contre le gaspillage en créant des soins aux fruits anti-gaspi. Nous utilisons des fruits déclassés (issus des invendus alimentaire), pour vous offrir des produits écoresponsables et certifiés BIO. Pulpe de Vie sengage pour votre bien-être et la planète !
-- RESPECTE VOS CHEVEUX : Avec 97,5% dingrédients dorigine naturelle et des prébiotiques pour un cuir chevelu en bonne santé.
 - NOURRIT EN PROFONDEUR : À base dhuile damande douce, de figue de Barbarie BIO, et de protéines végétales.
+- MODE DEMPLOI : Mouillez les cheveux, appliquez le shampoing, massez doucement, rincez. Répétez pour un nettoyage en profondeur.
+- RESPECTE VOS CHEVEUX : Avec 97,5% dingrédients dorigine naturelle et des prébiotiques pour un cuir chevelu en bonne santé.
 - FORMULATION VÉGÉTALE : Shampooing BIO Dreamy Bubble pour cheveux abîmés, sans sulfates ni produits toxiques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

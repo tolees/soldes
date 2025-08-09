@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaque pièce est terminée individuellement à la main par nos artisans
-- Une exclusivité de la marque Design TOSCANO parfaite pour votre maison et votre jardin
-- Moulée à la main avec des véritables pierres concassées assemblées avec de la résine de haute qualité
 - Dimensions: 16.5 x 4 x 28 cm 0.5 kg
+- Moulée à la main avec des véritables pierres concassées assemblées avec de la résine de haute qualité
+- Une exclusivité de la marque Design TOSCANO parfaite pour votre maison et votre jardin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0069CIPGE{{</world>}}

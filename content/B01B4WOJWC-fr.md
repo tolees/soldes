@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équipé dun allumage piezo qui rend inutile les allumettes, convient pour les cartouches à gaz CV-300 Plus et CV-470 Plu
 - Gril compact et polyvalent pour fêtes
 - Compartiment deau pour recueillir la graisse
+- Équipé dun allumage piezo qui rend inutile les allumettes, convient pour les cartouches à gaz CV-300 Plus et CV-470 Plu
 - Parfait pour tous les modes de cuisson
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équilibre automatique de léclairage: RightLight augmente la luminosité jusquà 50% et réduit les ombres par rapport à la génération précédente de webcams Logitech pour vous mettre en valeur(1)
-- Micro intégré: le microphone intégré permet à vos interlocuteurs de vous entendre clairement lors des appels vidéo
 - Des rencontres hautes en couleur: laissez libre cours à votre imagination en télétravail grâce à un choix de couleurs amusantes et sophistiquées en accord avec votre installation
 - Plastique recyclé: la webcam Brio 100 Full HD contient au moins 34% de plastique post-consommation(2)
-- Clarté optimale: cette webcam offre une image plus claire lors des appels vidéo grâce à la résolution Full HD 1080p
 - Confidentialité à portée de main: le volet de webcam intégré vous offre une confidentialité totale et fiable lorsque vous n’êtes pas en appel vidéo
+- Équilibre automatique de léclairage: RightLight augmente la luminosité jusquà 50% et réduit les ombres par rapport à la génération précédente de webcams Logitech pour vous mettre en valeur(1)
+- Micro intégré: le microphone intégré permet à vos interlocuteurs de vous entendre clairement lors des appels vidéo
 - Simple et prête à lemploi: la caméra Brio 100 fonctionne avec la plupart des plates-formes dappels vidéo, dont Microsoft Teams, Zoom et Google Meet
+- Clarté optimale: cette webcam offre une image plus claire lors des appels vidéo grâce à la résolution Full HD 1080p
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CDGHRV61{{</world>}}

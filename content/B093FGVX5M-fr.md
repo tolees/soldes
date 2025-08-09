@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans parabène, sans phtalates, sans huile, sans alcool
-- Retient lhumidité pour un éclat repulpé et sain à linfini
 - La formule légère et sans huile fournit une hydratation qui sétend sur plus de 10 couches
+- Retient lhumidité pour un éclat repulpé et sain à linfini
+- Sans parabène, sans phtalates, sans huile, sans alcool
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093FGVX5M{{</world>}}

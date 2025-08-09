@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style polaire
 - Col rond classique
+- Style polaire
 - Sweat-shirt simple à col rond
 - En fibre de coton mélangé doux
 

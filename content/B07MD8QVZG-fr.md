@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPRENTISSAGE : Partez à la découverte du Monde, de la Nature, des Sciences, de l’Histoire et des Arts. Votre enfant apprendra en samusant
-- PARTAGE : Ce jeu est super cool à jouer en famille ou entre amis. Il se joue de 2 à 8 joueurs. La durée dune partie est de 30 minutes environ. Il est fabriqué en France et est éco-conçu. Alors nattendez plus pour le découvrir !
 - CADEAU IDÉAL : Vous souhaitez faire plaisir à votre enfant, à celui d’un couple d’amis... pour noël ou un anniversaire ? Eh bien, n’attendez plus ! Il convient aux enfants à partir de 7 ans
-- COMPETITION : Tentez d’être le plus rapide à deviner les mots qui se cachent derrière 5 indices instructifs et amusants et faites preuve d’adresse en lançant vos palets sur le plateau pour tenter de gagner plus de points
 - CONTENU DU JEU : Retrouve dans ta boite : 1 plateau inclinable, 126 cartes, 20 palets et 3 plots en bois, 1 cache-carte ainsi qu1 règle de jeu. Les jeux Bioviva sont conçus et fabriqués en France à partir de matériaux éco-responsable.
+- PARTAGE : Ce jeu est super cool à jouer en famille ou entre amis. Il se joue de 2 à 8 joueurs. La durée dune partie est de 30 minutes environ. Il est fabriqué en France et est éco-conçu. Alors nattendez plus pour le découvrir !
+- APPRENTISSAGE : Partez à la découverte du Monde, de la Nature, des Sciences, de l’Histoire et des Arts. Votre enfant apprendra en samusant
+- COMPETITION : Tentez d’être le plus rapide à deviner les mots qui se cachent derrière 5 indices instructifs et amusants et faites preuve d’adresse en lançant vos palets sur le plateau pour tenter de gagner plus de points
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07MD8QVZG{{</world>}}

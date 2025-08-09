@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUPERBEMENT SYNCHRONISÉ : La technologie AMD FreeSync Premium élimine les interruptions et les interférences pendant le jeu. Elle synchronise le taux de rafraîchissement du moniteur de jeu avec le taux de rafraîchissement de lordinateur, pour des graphiques fluides et réactifs
 - IMAGES INCROYABLES : La prise en charge du HDR Ready 10 améliore la qualité et le contraste de votre moniteur gaming Acer Nitro. Elle amène le gameplay à un niveau supérieur grâce à une plus grande précision des couleurs
 - ÉCRAN ERGONOMIQUE : Vous pouvez incliner lécran pour trouver léquilibre idéal et maintenir une bonne posture pendant le jeu. La conception ZeroFrame du moniteur 23,8 pouces offre une large zone de visualisation sur cet écran gaming
+- SUPERBEMENT SYNCHRONISÉ : La technologie AMD FreeSync Premium élimine les interruptions et les interférences pendant le jeu. Elle synchronise le taux de rafraîchissement du moniteur de jeu avec le taux de rafraîchissement de lordinateur, pour des graphiques fluides et réactifs
 - RÉPONSE HAUTE VITESSE : Découvrez un jeu rapide et sans ralentissement grâce au moniteur gaming 180 Hz et à lécran VA LED (1920x1080). Même lorsque laction devient trépidante, la réponse de 1 ms (VRB) garantit des images claires
 - PROTECTION OCULAIRE : Protégez vos yeux de la fatigue avec Acer BlueLightShield Pro, VisionCare 2.0 et Flickerless. Participez à de longues sessions gaming sur votre ordinateur sans vous soucier des reflets grâce aux technologies Acer ComfyView et Low Dimming
 

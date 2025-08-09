@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ressentez la puissance de la chaleur. Comme si vous étiez attiré par la lueur exaltante du feu. Drakkar Intense est un parfum de séduction unique pour un sentiment de magnétisme intense.
 - Une combinaison puissante de séduction, de force et dattirance avec une signature fougère ambrée captivante.
+- Ressentez la puissance de la chaleur. Comme si vous étiez attiré par la lueur exaltante du feu. Drakkar Intense est un parfum de séduction unique pour un sentiment de magnétisme intense.
 - Vaporisez le parfum à au moins 15-20 cm sur vos points de pulsation pour une expérience sensorielle exceptionnelle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

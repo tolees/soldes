@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col Rond
-- Chaleur 3 (-5°C à 5°C)
-- Composition: 50%;Acrylique|50%;Polyester
 - Manche longue
 - Couleur : Noir
+- Chaleur 3 (-5°C à 5°C)
+- Composition: 50%;Acrylique|50%;Polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MDSMILJ{{</world>}}

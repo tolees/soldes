@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoires
-- Sans arômes ajoutés
 - 100% Polyester
+- Sans arômes ajoutés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B086TDD8F3{{</world>}}

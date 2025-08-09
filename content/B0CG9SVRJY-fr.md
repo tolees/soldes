@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Atari 2600+ a été conçue de sorte à ressembler à la Atari 2600 d’origine sortie en 1980
 - Découvrez la console de salon qui a popularisé le jeu vidéo !
+- La Atari 2600+ a été conçue de sorte à ressembler à la Atari 2600 d’origine sortie en 1980
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CG9SVRJY{{</world>}}

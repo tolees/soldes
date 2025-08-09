@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet de construction comprend une stunt bike avec guidon, un casque interchangeable avec visière et des accessoires de cheveux
-- Comprend des minifigurines des personnages de la série LEGO City Aventures, Poppy Star galactique et Harl Hubbs, ainsi que des accessoires amusants tels quun tournevis et un micro
-- Comprend des instructions de construction imprimées étape par étape, pour que les enfants puissent passer directement à laction afin de samuser seuls ou en équipe
-- Les enfants activent la moto à rétro-friction et la lâchent pour percuter les barres suspendues et « décrocher » un prix, tels quun scorpion, un gâteau ou un trophée !
 - Les enfants qui aiment la course vont adorer cet ensemble LEGO City Stuntz qui comprend un jouet de moto et des éléments phosphorescents pour des défis épiques
-- Combinez cet ensemble avec dautres ensembles LEGO City Stuntz pour créer des tournois et des compétitions uniques : Le Défi de Cascade : Les Lames (60340) et Le Défi de Cascade : l’Attaque des Requins (60342)
+- Comprend des instructions de construction imprimées étape par étape, pour que les enfants puissent passer directement à laction afin de samuser seuls ou en équipe
 - Cet ensemble LEGO City Stuntz est un excellent cadeau pour les fêtes pour les garçons et les filles âgés de 5 ans et plus qui aiment la série télévisée et les figures
+- Ce jouet de construction comprend une stunt bike avec guidon, un casque interchangeable avec visière et des accessoires de cheveux
+- Les enfants activent la moto à rétro-friction et la lâchent pour percuter les barres suspendues et « décrocher » un prix, tels quun scorpion, un gâteau ou un trophée !
+- Combinez cet ensemble avec dautres ensembles LEGO City Stuntz pour créer des tournois et des compétitions uniques : Le Défi de Cascade : Les Lames (60340) et Le Défi de Cascade : l’Attaque des Requins (60342)
+- Comprend des minifigurines des personnages de la série LEGO City Aventures, Poppy Star galactique et Harl Hubbs, ainsi que des accessoires amusants tels quun tournevis et un micro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09QFP84GV{{</world>}}

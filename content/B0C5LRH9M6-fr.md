@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Outil extrêmement compact et puissant : avec une longueur de tête de seulement 136 mm et un maximum de Couple maximal de 64 Nm
 - Laccessoire GFA 18-H transforme loutil en marteau perforateur, le seul tournevis 18 V adapté au perçage à percussion sans effort dans le béton jusquà 10 mm de diamètre
+- Outil extrêmement compact et puissant : avec une longueur de tête de seulement 136 mm et un maximum de Couple maximal de 64 Nm
 - Le système Bosch Professional FlexiClick : un système polyvalent avec des accessoires facilement interchangeables qui peuvent être verrouillés directement sur loutil à un angle de 360° dans 16 positions différentes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

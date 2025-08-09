@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Elseve Hyaluron Pure Shampooing Purifiant 72h (300ml)
-- Résultats : Vos racines sont purifiées & vos longueurs hydratées pendant 72h*, (*Test consommateur sur 59 utilisateurs, 72h après l’utilisation du shampooing + sérum)
 - Notre Shampooing Purifiant 72h sans silicone enrichi en Acides Salicylique & Hyaluronique élimine l’excès de sébum, les impuretés & hydrate les longueurs
-- Formule : L’Acide Salicylique élimine l’excès de sébum et les impuretés du cuir chevelu, l’Acide Hyaluronique hydrate les longueurs sans alourdir
 - Application : Commencez par appliquer le Sérum Purifiant sur le cuir chevelu sec, Masser pendant 5 minutes & laissez poser 15 minutes, Puis appliquez les Shampooing Purifiant 72h et rincer
+- Résultats : Vos racines sont purifiées & vos longueurs hydratées pendant 72h*, (*Test consommateur sur 59 utilisateurs, 72h après l’utilisation du shampooing + sérum)
+- Contenu : 1x Elseve Hyaluron Pure Shampooing Purifiant 72h (300ml)
+- Formule : L’Acide Salicylique élimine l’excès de sébum et les impuretés du cuir chevelu, l’Acide Hyaluronique hydrate les longueurs sans alourdir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CK8P615X{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Moyenne
+- Les chaussures Geox taillent grand
 - 2.Plat
 - Textile
-- Les chaussures Geox taillent grand
-- Moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008X3PZRY{{</world>}}

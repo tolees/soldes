@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTIENT 5 MAGNIFIQUES FIGURINES parées au combat ! A partir 10 ans. De 2 à 4 joueurs. En moyenne 40 à 80 minutes de jeu. Cadeau parfait pour geek, fille ou garçon, fan de Star Wars ou amateur de jeux de stratégie.
-- SUIVEZ VOTRE PROPRE OBJECTIF pour gagner le titre de pire méchant de la galaxie! Pour y parvenir, utilisez astucieusement vos capacités, votre influence et vos vaisseaux et tentez de ruinez les plans de vos adversaires. Ce n’est qu’en dictant avec succès vos règles aux héros de Star Wars que vous pourrez espérer imposer votre loi dans la galaxie!
-- VOUS EN VOULEZ PLUS ? De nombreuses extensions sont à venir ! Vous pouvez également retrouver nos autres gammes de Villainous avec Villainous Disney et ses nombreuses extensions et personnages. Villainous Marvel est également disponible avec sa première extension.
 - INCARNEZ VOS MÉCHANTS FAVORIS : Dark Vador tentera de faire basculer Luke du côté obscur, Moff Gideon mettra enfin la main sur lenfant, Kylo Ren trouvera sa voie dans la force, Asajj Ventresse menera à bien toutes ses missions et le terrible général Grievious devra éliminer un maximum de Jedi pour récupérer leur sabre laser.
 - RESSENTEZ LE POUVOIR DU CÔTÉ OBSCUR ! Exit les gentils Jedi, STAR WARS Villainous est un jeu de stratégie passionnant et méchamment bon pour toute la famille ! Découvrez sans plus attendre les 5 Méchants de ce jeu de base ! Jouable avec ou sans le jeu de bas♫e.
+- SUIVEZ VOTRE PROPRE OBJECTIF pour gagner le titre de pire méchant de la galaxie! Pour y parvenir, utilisez astucieusement vos capacités, votre influence et vos vaisseaux et tentez de ruinez les plans de vos adversaires. Ce n’est qu’en dictant avec succès vos règles aux héros de Star Wars que vous pourrez espérer imposer votre loi dans la galaxie!
+- VOUS EN VOULEZ PLUS ? De nombreuses extensions sont à venir ! Vous pouvez également retrouver nos autres gammes de Villainous avec Villainous Disney et ses nombreuses extensions et personnages. Villainous Marvel est également disponible avec sa première extension.
+- CONTIENT 5 MAGNIFIQUES FIGURINES parées au combat ! A partir 10 ans. De 2 à 4 joueurs. En moyenne 40 à 80 minutes de jeu. Cadeau parfait pour geek, fille ou garçon, fan de Star Wars ou amateur de jeux de stratégie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6YC6VQ5{{</world>}}

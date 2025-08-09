@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alimentation 120W, externe ou alimentée par USB
 - Pour ordinateur portable
 - Poids : 695 g
+- Alimentation 120W, externe ou alimentée par USB
 - Station daccueil universelle HP USB-C/A
 
 [🛒 Achète-le!!]({{< param buyurl >}})

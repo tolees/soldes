@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livraison : 1 x Helly Hansen HH Dubliner Veste zippée et imperméable pour homme - Légère et confortable - Couleur : bleu marine - Taille : XL
-- Découvrez une isolation totale grâce à la technologie Helly Tech Protection et au zip YKK de qualité - Coutures entièrement scellées et traitement hydrofuge durable (DWR)
 - Avec des poches extérieures et intérieures, ce vêtement est pratique et idéal pour une utilisation toute lannée
 - Cette veste a une capuche, elle est imperméable, coupe-vent et respirante pour une protection optimale - Poignets et capuche ajustables pour un bon confort
+- Découvrez une isolation totale grâce à la technologie Helly Tech Protection et au zip YKK de qualité - Coutures entièrement scellées et traitement hydrofuge durable (DWR)
+- Livraison : 1 x Helly Hansen HH Dubliner Veste zippée et imperméable pour homme - Légère et confortable - Couleur : bleu marine - Taille : XL
 - Pour une utilisation quotidienne ou pour les sorties toute lannée, Helly Hansen vous présente la veste zippée et imperméable pour homme HH Dubliner
 
 [🛒 Achète-le!!]({{< param buyurl >}})

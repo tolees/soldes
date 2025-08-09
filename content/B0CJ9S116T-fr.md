@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Libérez votre royaume, reprenez votre destin en main !
-- Prenez la tête dune armée de plus de 60 personnages uniques, comprenant des humains, des elfes, des bêtes gigantesques et des anges célestes
-- Découvrez le tout nouveau jeu RPG tactique fantastique aux décors animés dans la pure tradition des jeux du studio Vanillaware, à l’origine des jeux 13 Sentinels: Aegis Rim et Odin Sphere.
-- Parcourez un monde dynamique, assemblez des unités et dirigez-les dans de superbes batailles animées
 - Réalisez des actes héroïques et gagnez en renommée dans les cinq nations
+- Parcourez un monde dynamique, assemblez des unités et dirigez-les dans de superbes batailles animées
+- Prenez la tête dune armée de plus de 60 personnages uniques, comprenant des humains, des elfes, des bêtes gigantesques et des anges célestes
+- Libérez votre royaume, reprenez votre destin en main !
+- Découvrez le tout nouveau jeu RPG tactique fantastique aux décors animés dans la pure tradition des jeux du studio Vanillaware, à l’origine des jeux 13 Sentinels: Aegis Rim et Odin Sphere.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJ9S116T{{</world>}}

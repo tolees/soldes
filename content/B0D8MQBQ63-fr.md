@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- il sagit dun produit authentique et original BOSS
-- Ce style a été produit de manière durable
 - il assure un ajustement optimal
 - Confortable à porter
+- Ce style a été produit de manière durable
+- il sagit dun produit authentique et original BOSS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D8MQBQ63{{</world>}}

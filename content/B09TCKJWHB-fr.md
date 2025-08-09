@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtre eleau & accessoire
 - SodaStream Terra pack promo avec 3 bouteilles
+- Filtre eleau & accessoire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TCKJWHB{{</world>}}

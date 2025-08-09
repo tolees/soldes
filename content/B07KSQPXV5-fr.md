@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste à capuche en duvet pour homme, conception hybride
 - Ajustement optimal grâce à lourlet réglable
-- Protège-menton et capuche ajustée pour vous protéger des éléments
 - Déperlante pour vous garder au sec lors de toutes vos aventures en extérieur
+- Veste à capuche en duvet pour homme, conception hybride
+- Protège-menton et capuche ajustée pour vous protéger des éléments
 - Contenu: 1x Columbia Veste à Capuche Powder Pass pour Homme, Couleur: BLACK (Noir), Taille: L, Art.: 1773271
 
 [🛒 Achète-le!!]({{< param buyurl >}})

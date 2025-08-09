@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Performance】 Cet émetteur sans fil à protocole ELRS dispose dune batterie rechargeable intégrée de 1000 mAh 1S. Vous pouvez le charger via un câble de type C au lieu de remplacer la batterie. Il dispose de 8 canaux au total. Prend en charge 3 puissances RF et des débits de paquets de 50Hz, 150Hz, 250Hz et 500Hz
-- 【Simulateur FPV】Cet émetteur a la fonction de simulateur FPV comme les autres versions de LiteRadio 2, qui peut agir comme un joystick USB lorsquil est connecté à un PC, adapté aux débutants FPV pour jouer à des simulateurs FPV comme EREADRONE
 - 【Protocole ExpressLRS】 Lémetteur radio BETAFPV ExpressLRS LiteRadio 2 SE est le premier contrôleur radio ELRS au monde. Il est livré avec un ELRS TX intégré qui vous permet de faire voler vos drones sur de longues distances
+- 【Performance】 Cet émetteur sans fil à protocole ELRS dispose dune batterie rechargeable intégrée de 1000 mAh 1S. Vous pouvez le charger via un câble de type C au lieu de remplacer la batterie. Il dispose de 8 canaux au total. Prend en charge 3 puissances RF et des débits de paquets de 50Hz, 150Hz, 250Hz et 500Hz
 - 【Support technique et garantie】Nous avons une équipe professionnelle et un service après-vente attentif. Si vous avez des questions, vous pouvez nous contacter par e-mail et nous vous répondrons certainement dans un premier temps.
 - 【Configurateur BETAFPV】Cet émetteur prend en charge la configuration BETAFPV avec la fonction de configuration de la radiocommande, la fonction complète de la configuration ExpressLRS, le mélangeur de canaux de drone à voilure fixe et la mise à jour du micrologiciel. Simple et pratique pour répondre à vos différents besoins de vol
+- 【Simulateur FPV】Cet émetteur a la fonction de simulateur FPV comme les autres versions de LiteRadio 2, qui peut agir comme un joystick USB lorsquil est connecté à un PC, adapté aux débutants FPV pour jouer à des simulateurs FPV comme EREADRONE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09CTHBWDR{{</world>}}

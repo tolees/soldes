@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Palette en aluminium pour pizza et livres de recettes inclus
 - Alimentation: AC 230V ~ 50 Hz
-- Puissance: 1200W
 - Lampe opératoire
+- Plaque en pierre réfractaire (ø 31 cm)
+- Palette en aluminium pour pizza et livres de recettes inclus
+- Puissance: 1200W
 - Thermostat réglable jusquà 400c
 - Minuterie 5 minutes avec signal acoustique
-- Plaque en pierre réfractaire (ø 31 cm)
 - Double résistance au chauffage dans lacier blindé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

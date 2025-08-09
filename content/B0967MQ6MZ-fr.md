@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Difficulté réglable pour plus de challenge.
-- Plus d’une vingtaine de niveaux.
 - Des bonus à chercher pour débloquer de nouveaux niveaux.
+- Difficulté réglable pour plus de challenge.
 - Un graphisme et une direction artistique « au poil » pour un environnement très immersif.
+- Plus d’une vingtaine de niveaux.
 - Un mode Chrono pour exploser les records.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

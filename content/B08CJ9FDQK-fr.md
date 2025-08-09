@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TECHNOLOGIE BREVETÉE DE RECONNAISSANCE CÉLESTE : utilise votre smartphone pour analyser le ciel nocturne et calculer sa position en temps réel via un « algorithme perdu dans l’espace » (LISA)
+- TÉLESCOPE RÉFLECTEUR STARSENSE EXPLORER : réflecteur de Newton de 127 mm (5") avec des traitements hautement réfléchissants et une capacité de collecte de la lumière suffisante pour observer tous les plus beaux objets célestes
 - COMMANDE À MOUVEMENT LENT ET STABLE : monture altazimutale manuelle avec réglage lent sur deux axes et tige coulissante pour suivre les flèches affichées jusquà la cible souhaitée. Lorsque son centre devient vert, le télescope est prêt pour l’observation
 - ACCESSOIRES INCLUS : oculaires de 25 mm et 10 mm, lentille de Barlow 2x, station daccueil StarSense pour smartphone, viseur à point rouge (au cas où vous souhaiteriez utiliser le télescope sans votre téléphone) et un trépied réglable en hauteur
-- TÉLESCOPE RÉFLECTEUR STARSENSE EXPLORER : réflecteur de Newton de 127 mm (5") avec des traitements hautement réfléchissants et une capacité de collecte de la lumière suffisante pour observer tous les plus beaux objets célestes
+- TECHNOLOGIE BREVETÉE DE RECONNAISSANCE CÉLESTE : utilise votre smartphone pour analyser le ciel nocturne et calculer sa position en temps réel via un « algorithme perdu dans l’espace » (LISA)
 - APPLICATION STARSENSE EXPLORER : génère une liste des objets célestes visibles. Admirez les planètes, nébuleuses, galaxies, amas d’étoiles et étoiles doubles depuis la ville. Ou profitez d’un ciel plus sombre pour observer les objets du ciel profond
 
 [🛒 Achète-le!!]({{< param buyurl >}})

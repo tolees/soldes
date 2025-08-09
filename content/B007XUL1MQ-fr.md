@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée en T
 - TX-TORX percé
-- Acier trempé
+- Poignée en T
 - Pièces dans le set : huit pcs.
 - Acier chrome vanadium extra-fin, satiné mat, chromé
+- Acier trempé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007XUL1MQ{{</world>}}

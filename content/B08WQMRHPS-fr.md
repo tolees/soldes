@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des graphismes surréalistes en 4K et en HDR reproduits avec un incroyable souci de détail : plongez tête la première dans cette aventure interdimensionnelle
-- Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : ressentez l’effet des armes dans vos mains et limpact des grondements et des explosions en jeu
-- Contenu de la livraison : 1 x Jeu Ratchet & Clank PS5, Édition Standard, Version physique avec CD, Langue : Français, 1 Joueur, PEGI 7
-- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations (à privilégier lors des combats)
 - Jeu PS5 de plates-formes et daventure : retrouvez les aventuriers intergalactiques Ratchet et Clank ainsi que de nouveaux personnages comme Rivet dans univers complètement déjanté
+- Des graphismes surréalistes en 4K et en HDR reproduits avec un incroyable souci de détail : plongez tête la première dans cette aventure interdimensionnelle
+- Contenu de la livraison : 1 x Jeu Ratchet & Clank PS5, Édition Standard, Version physique avec CD, Langue : Français, 1 Joueur, PEGI 7
+- Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : ressentez l’effet des armes dans vos mains et limpact des grondements et des explosions en jeu
+- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations (à privilégier lors des combats)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WQMRHPS{{</world>}}

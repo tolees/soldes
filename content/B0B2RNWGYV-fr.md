@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Son Dolby Audio TM
-- Smart TV
 - LCD 50 Hz - 80 cm (32 pouces)
-- 2 x HDMI - 1 x USB - 2 pieds
 - Processeur Quad Core
+- Smart TV
+- 2 x HDMI - 1 x USB - 2 pieds
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B2RNWGYV{{</world>}}

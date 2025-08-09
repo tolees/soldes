@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Eve Water Guard nécessite un iPhone ou iPad avec la dernière version d’iOS/iPadOS
 - Le câble de détection de 2 m, prolongeable jusqu’à 150 m, détecte les fuites sur toute sa longueur et permet donc de surveiller de grandes zones au sein d’une pièce.
 - Cet accessoire se connecte automatiquement à votre réseau Thread (compatible Bluetooth et Thread), et en tant que nœud routeur, il améliore la stabilité et la portée de votre maison connectée ; compatible HomeKit pour une facilité d’utilisation incomparable et une sécurité avancée ; prêt à l’emploi en un instant grâce à une procédure de configuration simple et rapide, sans passerelle ni boîtier intermédiaire.
-- Évitez les coûteux dégâts des eaux : Eve Water Guard détecte les fuites d’eau et vous alerte au moindre problème, en déclenchant sa puissante sirène (100 dB), en faisant clignoter en rouge son avertisseur lumineux et en envoyant une notification sur votre iPhone, votre iPad ou votre Apple Watch.
+- Eve Water Guard nécessite un iPhone ou iPad avec la dernière version d’iOS/iPadOS
 - Idéal dans une salle de bain, une buanderie ou une cave, mais aussi sous les éviers et à proximité des conduites d’eau.
+- Évitez les coûteux dégâts des eaux : Eve Water Guard détecte les fuites d’eau et vous alerte au moindre problème, en déclenchant sa puissante sirène (100 dB), en faisant clignoter en rouge son avertisseur lumineux et en envoyant une notification sur votre iPhone, votre iPad ou votre Apple Watch.
 - Confidentialité absolue : pas de cloud Eve, pas d’inscription, pas de pistage. Intelligence locale et communication directe, sans passerelle ni dépendance vis-à-vis du cloud.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

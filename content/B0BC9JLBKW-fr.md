@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Connectivité : deux ports USB-C Thunderbolt 4, connexion Wi-Fi 6, port magnétique de recharge rapide Surface Connect, prise audio 3,5mm
-- La puissance d’un ordinateur portable avec la flexibilité d’une tablette grâce à un écran tactile de 13 pouces, un pied multipositions intégré et un clavier amovible (vendu séparément)
 - Plus de performance et dautonomie grâce aux processeurs Intel Core de 12ème génération
-- Caméra avant de 5 mégapixels 1080p intégrée et caméra arrière de 10 mégapixels 4K avec mise au point automatique
 - Notre écran le plus avancé de la gamme Surface Pro, avec une fréquence de rafraîchissement allant jusqu’à 120 Hz pour une expérience au stylet (vendu séparément) fluide et une interaction tactile réactive
+- La puissance d’un ordinateur portable avec la flexibilité d’une tablette grâce à un écran tactile de 13 pouces, un pied multipositions intégré et un clavier amovible (vendu séparément)
+- Caméra avant de 5 mégapixels 1080p intégrée et caméra arrière de 10 mégapixels 4K avec mise au point automatique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BC9JLBKW{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le camion est équipé dun canon à eau
-- Playmobil
 - Effets lumineux et sonores avec sirène originale des pompiers américains (nécessite 3 piles 1,5V AAA non fournies)
+- Le camion est équipé dun canon à eau
 - Départ en intervention Cest une urgence
+- Playmobil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JSK854D{{</world>}}

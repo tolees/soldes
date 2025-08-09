@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Attention, dinos danger ! les volcans entrent en éruption ! la lave progresse ! tous ensemble aidez les petits dinosaures à fuir dans les hautes montagnes avant qu’ils ne soient trop tard.
-- De 1 à 4 joueurs
 - Durée de la partie: 25 minutes
+- De 1 à 4 joueurs
 - Idéal pour: enfant/ famille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

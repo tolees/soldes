@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
-- Forme du talon : plat
 - Fermeture : lacets
+- Forme du talon : plat
+- Matériau extérieur : synthétique
 - Semelle : caoutchouc
 - Matériau intérieur : synthétique
 

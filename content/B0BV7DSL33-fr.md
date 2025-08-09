@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend une salle de commandement, une salle de briefing des pilotes, 2 fusils à tenons rotatifs, un arbre avec tour de guet, un Y-wing avec 2 fusils à ressort et un chariot et bien plus encore
-- Ce jouet LEGO Star Wars La Base Rebelle de Yavin 4 comprend une réplique en briques de la base emblématique de Star Wars : Un Nouvel Espoir, avec un chasseur Y-Wing et 12 figurines LEGO Star Wars
-- Laile Y à construire comprend un cockpit pour minifigurine, un espace pour un droïde et deux fusils à tenons ; le jouet LEGO Star Wars comprend également des feux datterrissage et des marches
 - Comprend 10 minifigurines LEGO Star Wars tels que Luke Skywalker, Princesse Leia, Han Solo, Chewbacca, C-3PO, Jon Vander, un soldat et un rebelle, et les figurines de droïdes LEGO R2-D2 et R2-BHD
+- Laile Y à construire comprend un cockpit pour minifigurine, un espace pour un droïde et deux fusils à tenons ; le jouet LEGO Star Wars comprend également des feux datterrissage et des marches
+- Ce jouet LEGO Star Wars La Base Rebelle de Yavin 4 comprend une réplique en briques de la base emblématique de Star Wars : Un Nouvel Espoir, avec un chasseur Y-Wing et 12 figurines LEGO Star Wars
 - Conçu pour être construit en famille et entre amis, ce jeu de construction de 1 067 pièces est un excellent cadeau de Noël, danniversaire pour les enfants et les adultes fans de la saga Star Wars
 
 [🛒 Achète-le!!]({{< param buyurl >}})

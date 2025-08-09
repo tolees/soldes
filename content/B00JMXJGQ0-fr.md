@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Jaune
-- Bonne qualité originale Brother cartouche de toner
-- CAPACITÉ MAXIMUM PAR CONSOMMABLE: Impressions 3500 pages compatible avec ISO/IEC 19798
 - Quantité 1
+- CAPACITÉ MAXIMUM PAR CONSOMMABLE: Impressions 3500 pages compatible avec ISO/IEC 19798
+- Bonne qualité originale Brother cartouche de toner
+- Couleur: Jaune
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JMXJGQ0{{</world>}}

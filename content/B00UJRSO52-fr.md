@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Objectif - Format: 35 mm
+- Rapport dagrandissement maximum : 0,13x (mise au point auto) / 0,16x (mise au point manuelle)
+- Ouverture maximale F2.0 rapide
+- Distance minimale de mise au point : 0,29 m (0,96 po) (AF) / 0,25 m (0,82 po) (MF)
 - Dimension (WxHxD) (mm): 81.1 x 165.5 x 12.5 mm
 - Diamètre de lobjectif : 49 mm
 - Objectif grand angle (28 mm) : parfait pour capturer les paysages
-- Rapport dagrandissement maximum : 0,13x (mise au point auto) / 0,16x (mise au point manuelle)
-- Ouverture maximale F2.0 rapide
 - Design résistant à la poussière et à lhumidité
-- Distance minimale de mise au point : 0,29 m (0,96 po) (AF) / 0,25 m (0,82 po) (MF)
 - Diaphragme circulaire à 9 lames pour de magnifiques effets de flou
 - Enregistrement vidéo optimal grâce au moteur linéaire silencieux
 

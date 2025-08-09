@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La clôture est pliable pour que le jouet T. rex Jurassic World puisse séchapper, mais lhélicoptère le poursuit juste derrière pour le capturer à nouveau
 - Laccès à des instructions numériques et à des instructions étape par étape sont incluses, ainsi quà des éléments de présentation interactifs dans lapplication LEGO Instructions de construction
-- Les enfants pourront imaginer une évasion de dinosaure exaltante avec ce jouet de dinosaure LEGO Jurassic World T. rex, qui comprend un aéroport et un hélicoptère
-- Cet ensemble LEGO Jurassic World comprend un aéroport avec un héliport, un garage, un hélicoptère et une voiture LEGO plus une figurine de dinosaure de T. rex articulé
-- Les sets LEGO 4 ans et plus permettent dinitier les enfants au monde de la construction LEGO. Avec juste un peu daide dun proche, ils apprendront à construire aisément en un rien de temps et apprendront à développer leur motricité fine
 - Comprend les minifigurines Owen Grady, Zia Rodriguez et le gardien d’animaux sauvages avec des accessoires, un œuf de dinosaure, un talkie-walkie et un tranquillisant
+- Cet ensemble LEGO Jurassic World comprend un aéroport avec un héliport, un garage, un hélicoptère et une voiture LEGO plus une figurine de dinosaure de T. rex articulé
+- La clôture est pliable pour que le jouet T. rex Jurassic World puisse séchapper, mais lhélicoptère le poursuit juste derrière pour le capturer à nouveau
+- Les sets LEGO 4 ans et plus permettent dinitier les enfants au monde de la construction LEGO. Avec juste un peu daide dun proche, ils apprendront à construire aisément en un rien de temps et apprendront à développer leur motricité fine
+- Les enfants pourront imaginer une évasion de dinosaure exaltante avec ce jouet de dinosaure LEGO Jurassic World T. rex, qui comprend un aéroport et un hélicoptère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BNX5GQL{{</world>}}

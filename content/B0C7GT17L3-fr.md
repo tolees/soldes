@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Numéro darticle DJI Air 3 ( DJI RC-N2)
 - Si le signal GNSS est faible, pilotez lavion dans des environnements offrant de bonnes conditions déclairage et de visibilité. Une faible luminosité ambiante peut entraîner un fonctionnement anormal du système de traitement dimage
+- Numéro darticle DJI Air 3 ( DJI RC-N2)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7GT17L3{{</world>}}

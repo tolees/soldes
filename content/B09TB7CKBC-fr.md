@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lexar SSD externe améliorez votre jeu avec les couleurs vives des LED RVB;
-- Conçu pour être vu à côté de votre console ou de vos plates-formes de jeu, le SSD portable Lexar SL660 BLAZE Gaming est livré avec un support amovible pour plus de style
 - Lexar SSD fait passer votre expérience de jeu au niveau supérieur avec des performances USB 3.2 Gen2x2 ultra-rapides allant jusquà 2000 Mo/s en lecture et 1900 Mo/s en écriture
+- Conçu pour être vu à côté de votre console ou de vos plates-formes de jeu, le SSD portable Lexar SL660 BLAZE Gaming est livré avec un support amovible pour plus de style
+- Lexar SSD externe améliorez votre jeu avec les couleurs vives des LED RVB;
 - Lexar Disque SSD dispose dun boîtier en aluminium de qualité supérieure avec une finition sablée pour une protection supplémentaire, contre les chocs et résistant aux vibrations;
 
 [🛒 Achète-le!!]({{< param buyurl >}})

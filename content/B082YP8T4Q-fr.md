@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- la petite pieuvre et le poisson peuvent être maintenus sous leau pour les remplir deau et leur permettre de nager sous la ligne de flottaison.
 - le pont et les escaliers peuvent être déplacés ou retirés.
 - le petit ilot central contient des écluses qui peuvent être ouvertes ou fermées pour permettre aux bateaux et aux animaux de modifier leur trajet.
+- la petite pieuvre et le poisson peuvent être maintenus sous leau pour les remplir deau et leur permettre de nager sous la ligne de flottaison.
 - playmobil 1.2.3 aqua
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

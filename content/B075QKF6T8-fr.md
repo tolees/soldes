@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : 1 interrupteur multifonction, 1 base, 2 piles LR03/Micro/AAA de 1,5 V, 1 notice dutilisation
-- Installation simplifiée : montage possible en deux étapes chez vous, là où vous le souhaitez
-- Configurable individuellement : commande jusquà 4 fonctions différentes
 - Permet la commande simple et rapide des appareils ou des scénarios de votre système Bosch Smart Home
-- Utilisable exclusivement avec le contrôleur Bosch Smart Home disponible séparément
 - Bouton intelligent : lalternative à lapplication pour smartphone pour la commande de votre maison intelligente
+- Configurable individuellement : commande jusquà 4 fonctions différentes
+- Installation simplifiée : montage possible en deux étapes chez vous, là où vous le souhaitez
+- Utilisable exclusivement avec le contrôleur Bosch Smart Home disponible séparément
+- Contenu de la livraison : 1 interrupteur multifonction, 1 base, 2 piles LR03/Micro/AAA de 1,5 V, 1 notice dutilisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B075QKF6T8{{</world>}}

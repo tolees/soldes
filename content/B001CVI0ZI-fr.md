@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Petite
 - Remarque :Cet article est peu extensible.
-- Noir
 - Forces de lordre - Marine
+- Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001CVI0ZI{{</world>}}

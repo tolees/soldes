@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à installer
-- Bonne prise en main
 - Légères
+- Bonne prise en main
 - Ingrédients extra durables
 - Flexible
 

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sans alcool, sans colorant ni conservateur
 - Le déodorant NIVEA Dry Impact a été spécialement élaboré pour vous éviter cette désagréable sensation dhumidité sous les aisselles
 - Cest la combinaison parfaite entre une protection ultra efficace longue durée et la douceur du soin NIVEA, pour le respect total de votre peau
-- Sans alcool, sans colorant ni conservateur
 - Sa formule ANTI-TRANSPIRANTE aux minéraux régule la transpiration, pour vous garantir une agréable sensation sèche sur la peau et une efficacité accrue contre les odeurs corporelles pendant 48h
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRUEFORCE: la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - COMMANDES DE JEUX SUR LE VOLANT: ajustez la sensibilité du volant, les niveaux de retour de force et la conduite simulée avec le logiciel de jeu Logitech G Hub pour personnaliser les boutons
-- COMPATIBILITÉ JEUX DE COURSE: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
 - CONTRÔLEZ VOTRE JEU: témoin lumineux intégré pour le régime; commandes de jeu intégrées Xbox Series X|S, Xbox One ou PC, sélecteur à 24 points et ressort de freinage progressif
+- TRUEFORCE: la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - PLASTIQUE RECYCLÉ CERTIFIÉ POST-CONSOMMATION: Les composants en plastique du volant de course G923 incluent 53% de plastique recyclé certifié post-consommation (hors circuit imprimé, câble et emballage); certification neutre en carbone
-- DESIGN DE COURSE PREMIUM: nouveau design d’équipement Logitech G avec matériaux premium: couvre volant en cuir noir cousu à la main et pédales en métal poli; le plaisir de la conduite chez vous
 - DOUBLE EMBRAYAGE PROGRAMMABLE: un meilleur démarrage avec un double embrayage programmable comme une véritable voiture de course directement à partir de la manette (jeux compatibles uniquement)
+- DESIGN DE COURSE PREMIUM: nouveau design d’équipement Logitech G avec matériaux premium: couvre volant en cuir noir cousu à la main et pédales en métal poli; le plaisir de la conduite chez vous
+- COMPATIBILITÉ JEUX DE COURSE: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W4DG81W{{</world>}}
