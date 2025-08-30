@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 100% Polyester
-- Manche longue
-- Lavage à la main seulement
 - Fermeture: Fermeture éclair
+- Lavage à la main seulement
+- Manche longue
 - Normale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

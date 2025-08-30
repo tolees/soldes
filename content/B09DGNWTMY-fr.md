@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau supérieur: cuir
-- Leather Working Group Certified. La LWG évalue et favorise des pratiques environnementales durables sur lindustrie du cuir. Nous nous sommes engagés à utiliser uniquement le cuir approuvé par LWG dici 2022.
 - Stériliers en caoutchouc cousus pour une durabilité élevée et bonne adhérence
 - Fermeture éclair
+- Leather Working Group Certified. La LWG évalue et favorise des pratiques environnementales durables sur lindustrie du cuir. Nous nous sommes engagés à utiliser uniquement le cuir approuvé par LWG dici 2022.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DGNWTMY{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 2,5 kg
-- Accessoire Makita dorigine
 - Produit sous contrôle strict
 - Poids du colis : 2,5 kg. Accessoires pour outils Makita. Dimensions du paquet : 10 L x 35 H x 25 W. Qualité Makita dorigine, durable et robuste
 - Jeu de forets/embouts
+- Accessoire Makita dorigine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B019E7FFCC{{</world>}}

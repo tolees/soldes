@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Culture générale et apprentissage de lheure. Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies)
+- Ergonomie inspirée de véritables ordinateurs. Format pratique ultra-léger, pour une prise en main facile
+- Adorables musiques et mélodies !
 - Langue : allemand/anglais
 - Activités éducatives avec différents niveaux: Langues, Mathématiques, Logique, Sections musicales, Lecture de l’heure
-- Mathématiques: nombres et calcul (4 opérations)
-- Culture générale et apprentissage de lheure. Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies)
-- Comprend également de nombreux jeux pour s’amuser après lapprentissage
 - Écran LCD avec des animations
-- Ergonomie inspirée de véritables ordinateurs. Format pratique ultra-léger, pour une prise en main facile
+- Mathématiques: nombres et calcul (4 opérations)
 - Langage: lettres, mots, dactylographie et orthographe
 - Clavier complet pour répondre aux questions
-- Adorables musiques et mélodies !
+- Comprend également de nombreux jeux pour s’amuser après lapprentissage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08B5SS9DD{{</world>}}

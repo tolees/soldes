@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : caoutchouc avec broche Roxy en métal
-- Semelle : caoutchouc texturé
 - Semelle extérieure : caoutchouc
+- Semelle : caoutchouc texturé
 - Emballage : sac en polyéthylène et cintre
+- Dessus : caoutchouc avec broche Roxy en métal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0837HSH1D{{</world>}}

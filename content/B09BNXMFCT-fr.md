@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Comprend un jouet en forme de fourgon à glace LEGO coloré, un jouet de voiture de police de patrouille et un système ATM, plus 3 figurines, y compris 2 personnages LEGO City
 - Ce jouet voiture de police est livré avec de nombreux accessoires amusants pour un jeu imaginatif : menottes, pied-de-biche de crook, éléments de crème glacée et plus encore
-- Il comprend également une mini-figurine de policière pour déployer les éléments de déchiqueteuse de pneu de la voiture de police pour jouer les scènes de la série
-- Comprend un guide imprimé et des instructions de construction interactives dans lapplication LEGO e avec zoom intuitif et outils de rotation pour voir tous les angles
 - Comprend des figurines LEGO Crook Ice and Crook Crème, et le camion à crème glacée dispose dun lanceur de crème glacée pour tirer des éléments
+- Comprend un guide imprimé et des instructions de construction interactives dans lapplication LEGO e avec zoom intuitif et outils de rotation pour voir tous les angles
+- Il comprend également une mini-figurine de policière pour déployer les éléments de déchiqueteuse de pneu de la voiture de police pour jouer les scènes de la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BNXMFCT{{</world>}}

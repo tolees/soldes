@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protège-menton
 - Matière résistant à leau
+- Protège-menton
 - Poches zippées pour les mains
 
 [🛒 Achète-le!!]({{< param buyurl >}})

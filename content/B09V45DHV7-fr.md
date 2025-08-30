@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jusqu’à 256 Go de stockage
+- Écran Liquid Retina 10,9 pouces1 avec True Tone, large gamme de couleurs P3 et revêtement antireflet
+- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
+- Puce Apple M1 avec Neural Engine
+- Appareil photo grand‐angle 12 Mpx
+- Haut-parleurs stéréo en mode paysage
 - Disponible en bleu, mauve, rose, lumière stellaire et gris sidéral
 - Autonomie d’une journée
-- Caméra avant ultra grand-angle 12 Mpx avec Cadre centré
-- Écran Liquid Retina 10,9 pouces1 avec True Tone, large gamme de couleurs P3 et revêtement antireflet
-- Puce Apple M1 avec Neural Engine
-- Jusqu’à 256 Go de stockage
-- Haut-parleurs stéréo en mode paysage
-- Appareil photo grand‐angle 12 Mpx
 - Wi‐Fi 6 et réseaux de données cellulaires 5G
 - Touch ID pour l’authentification sécurisée et Apple Pay
 

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4 mm tube de guidage pour travail de précision avec une règle ou pochoir
 - Gomme intégrée
+- 4 mm tube de guidage pour travail de précision avec une règle ou pochoir
 - Clip amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

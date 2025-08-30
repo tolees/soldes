@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Pointe de lecture Elliptique
 - Le diamant Elliptique suit la modulation du sillon (notamment stéréophonique) avec une plus grande précision par rapport à un diamant conique (réduction de leffet de pincement de la pointe conique), offrant une réponse en fréquence améliorée tout en réduisant la distorsion.
-- Cantilever en Aluminium
-- Collée Section Ronde
 - Pointe de lecture Elliptique Série VM95
+- Collée Section Ronde
+- Cantilever en Aluminium
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JXDD3YK{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passage en imprimante jet dencre, laser et copieur
 - Anti-bourrage
 - Adhésif permanent, coins arrondis
+- Passage en imprimante jet dencre, laser et copieur
 - Format disponible dans notre logiciel gratuit Agipa Soft pro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

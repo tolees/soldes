@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convenant aux enfants de 7 ans et plus, ces jouets de construction développent la créativité et la capacité de réflexion
-- Sous licence officielle de The Pokémon Company International
 - Les coffrets Concepteur d’Aventures se connectent les uns aux autres pour construire tout un monde Pokémon animé
-- Inclut les figurines Pikachu, Roucool et Moumouton, un moulin et un décor rural à assembler
 - Coffret de construction de 240 pièces, dont la nouvelle brique de mouvement pour animer la scène
+- Inclut les figurines Pikachu, Roucool et Moumouton, un moulin et un décor rural à assembler
+- Sous licence officielle de The Pokémon Company International
+- Convenant aux enfants de 7 ans et plus, ces jouets de construction développent la créativité et la capacité de réflexion
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5HRHJHJ{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Liberte de mouvement absolue
-- Department: Femme
 - Sechage rapide
 - Confort de port eleve
+- Department: Femme
+- Liberte de mouvement absolue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T2R4QK5{{</world>}}

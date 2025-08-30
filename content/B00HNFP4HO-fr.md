@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wi-Fi standards supported : IEEE 802.11b
-- LAN Ethernet : taux de transfert des données: 10,100 Mbit/s
 - WLAN data transfer rate (max): 300 Mbit/s
-- IEEE 802.11g
+- LAN Ethernet : taux de transfert des données: 10,100 Mbit/s
+- Wi-Fi standards supported : IEEE 802.11b
 - TP-LINK TL-WR840N. Wi-Fi standard: IEEE 802.11n
 - IEEE 802.11n. Ethernet LAN interface type: Fast Ethernet
+- IEEE 802.11g
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HNFP4HO{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facilement échangeable
-- Anti-buée
 - Grande visière de la plus haute qualité pour la meilleure vue possible
+- Anti-buée
 - Résistant aux rayures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tension dentrée : 100 - 240 V
 - Output voltage : 5 V / Output current : 2 A
 - Longueur de cable : 1,2 m
 - Caractéristiques : 15W Charge Rapide . Longueur du câble : 1,5 m .Courant de sortie (Max, Charge rapide) : 1.67A
-- Tension dentrée : 100 - 240 V
 - Interface : USB Type-C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

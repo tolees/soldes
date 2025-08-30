@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - 【Wide Compatibility】GratKit PETG Filament has an excellent bed adhesion, similar to regular PLA; Compatible with most high speed most FDM 3D printers on the market, such as Ender 3, Neptune 2, Neptune 3 and more;
 - 【Easy to print】GratKit PETG is as easy to print as regular PLA; No clogging, no warping and no bubbles issues to guarantee a smooth and stable printing experience.It also has excellent bed adhesion and very consistent color;
 - 【Moisture Resistant Pro】GratKit 3D printing filament went through a 24-hour drying process in thermostatic room before sealed packing; Moreover, it gets environmental glue attached on reel to make sure the reel stands longer after unpacking.
-- 【Excellent Mechanical Properties】GratKit PETG is designed for your special inventions and strong gadget; It has a higher touughness than the regula PLA, combines the advantages of PLA with the mechanical strength of ABS;
 - 【Tight Diameter Tolerance】GratKit PETG used Advanced CCD diameter measuring and self-adaptive control system to guarantee the filament output at 1.75(±0.03)mm diameter during production process;
+- 【Excellent Mechanical Properties】GratKit PETG is designed for your special inventions and strong gadget; It has a higher touughness than the regula PLA, combines the advantages of PLA with the mechanical strength of ABS;
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK162C2K{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DU GRAIN A LA TASSE : Lexpresso broyeur vous ouvre les portes du monde du café. Choisissez votre café en grains chez votre torréfacteur et découvrez de nouveaux terroirs et nouveaux arômes
+- CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
 - LARGE CHOIX DE RECETTES : Profitez de 15 recettes café et lactées (expresso, LONG, Cappuccino, Latte Macchiato...) et plus encore grâce à la carafe LatteCrema System
 - SIMPLICITE DUTILISATION : Dune simple touche, réalisez toutes vos boissons préférées directement sur le panneau de commande tactile avec écran LCD
-- CAFE FRAÎCHEMENT MOULU : Lexpresso broyeur moud votre café seulement au moment de la préparation, et seulement la quantité nécessaire, pour obtenir un résultat parfait, tasse après tasse
-- DU GRAIN A LA TASSE : Lexpresso broyeur vous ouvre les portes du monde du café. Choisissez votre café en grains chez votre torréfacteur et découvrez de nouveaux terroirs et nouveaux arômes
 - PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos goûts (intensité, longueur en tasse et température) grâce au MY menu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

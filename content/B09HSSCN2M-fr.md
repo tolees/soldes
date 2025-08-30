@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistrement vidéo en un clic via une application, partage librement.
 - Votre caméra IP intérieure en mouvement
 - Lapplication EBO est livrée avec des tonnes dédition et de fonctionnalités sociales pour vous aider à partager vos moments avec le monde.
 - détection de mouvement et vision nocturne infrarouge
-- retour automatique a sa station de re chargement
-- WiFi 2.4G (max 50m du routeur 802.11.b/g/n dans l’espace ouvert) WiFi 5.2G (max 80m de routeur 802.11.ac dans l’espace ouvert)
 - Capteur infrarouge x5 Capteur d’image CMOS Starlight GC2053
+- Enregistrement vidéo en un clic via une application, partage librement.
 - Caméra HD 1080p HD
+- retour automatique a sa station de re chargement
 - Évitement automatique dobstacles
+- WiFi 2.4G (max 50m du routeur 802.11.b/g/n dans l’espace ouvert) WiFi 5.2G (max 80m de routeur 802.11.ac dans l’espace ouvert)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HSSCN2M{{</world>}}

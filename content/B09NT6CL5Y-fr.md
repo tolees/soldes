@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’adaptateur pour monture FTZ II est compatible avec environ 360 objectifs à monture F, dont 94 sont de type AF-S, AF-P ou AF-I et offrent des performances AF/AE optimales (nov 2021)
-- bague dadaptation permettant lusage doptique F (Reflex) sur les hybride Z (à monture Z)
-- Double logements pour cartes SD (les cartes SD UHS-II) et écran tactile inclinable
 - Très large monture Nikon Z, processeur EXPEED 6, capteur CMOS plein format de 24,3 millions de pixelse et plage de sensibilités de 100 à 51 200 ISO
+- L’adaptateur pour monture FTZ II est compatible avec environ 360 objectifs à monture F, dont 94 sont de type AF-S, AF-P ou AF-I et offrent des performances AF/AE optimales (nov 2021)
+- Double logements pour cartes SD (les cartes SD UHS-II) et écran tactile inclinable
+- bague dadaptation permettant lusage doptique F (Reflex) sur les hybride Z (à monture Z)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NT6CL5Y{{</world>}}

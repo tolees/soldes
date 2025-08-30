@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type: Bottine
-- Hersteller Artikelnummer: D16QRC-00043/C9999
-- Material: Cuir/Synthétique
 - Farbe: noir
+- Material: Cuir/Synthétique
+- Hersteller Artikelnummer: D16QRC-00043/C9999
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09G2H3D1P{{</world>}}

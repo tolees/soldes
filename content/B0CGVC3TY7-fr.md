@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- K-EVA : formule spéciale EVA pour un amorti maximal et une meilleure durabilité de la semelle intermédiaire.
 - Aösta II Rubber Compound : la semelle extérieure haute densité offre une durabilité inégalée du talon aux orteils.
+- K-EVA : formule spéciale EVA pour un amorti maximal et une meilleure durabilité de la semelle intermédiaire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CGVC3TY7{{</world>}}

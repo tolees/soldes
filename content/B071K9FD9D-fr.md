@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Contenu : 1 x Columbia Powder Lite veste sans manches pour homme, Extérieur : Storm-Lite DP II 100% polyester, Doublure : Omni-Heat Réfléchissant 100% polyester, Insolation : Thermarator 100% polyester, Couleur : Noir, Taille : XL, Art.No 1748031
 - Galons au col et aux poignets, Galons aux emmanchures, Poche de sécurité intérieure
 - Veste matelassée pour homme avec réflexion thermique, Idéal pour conserver la chaleur lors des froids mois dhiver
-- Technologie Omni-Heat réfléchissante qui offre une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
 - Ajustement optimal grâce à lourlet réglable
+- Technologie Omni-Heat réfléchissante qui offre une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071K9FD9D{{</world>}}

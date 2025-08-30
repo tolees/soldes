@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respect des critères haute qualité de lhomologation ECE
-- Remarque : Lampoule de type H11 ne sadapte quaux ensembles de phares H11.
 - Jusquà 30% de visibilité en plus quune lampe standard
 - Les ampoules de phare Philips sont fabriquées dans un verre de quartz de haute qualité
+- Remarque : Lampoule de type H11 ne sadapte quaux ensembles de phares H11.
+- Respect des critères haute qualité de lhomologation ECE
 - Les lampes Vision projettent un faisceau dune portée supérieure à celle des lampes standard
 - Les ampoules pour automobile Philips affichent une excellente résistante à lhumidité et aux UV
 

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONFORMES AU NORMES CE
-- Texte en Français : Encore un petit effort, Tu peux mieux faire, Excellent et Très bien)
-- SET DE 4 TAMPONS : un joli set de tampons en bois aidant parents et enseignants à illustrer ou évaluer les cahiers des plus petits de façon ludique
 - TAMPONS EN BOIS : solides, ils sont maniables mêmes pour les petits mains
+- SET DE 4 TAMPONS : un joli set de tampons en bois aidant parents et enseignants à illustrer ou évaluer les cahiers des plus petits de façon ludique
 - VALORISER LENFANT : ces jolis tampons positifs aux messages sympathiques permettent à lenfant de mieux accepter la valorisation de son travail
+- Texte en Français : Encore un petit effort, Tu peux mieux faire, Excellent et Très bien)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B075MQM8RQ{{</world>}}

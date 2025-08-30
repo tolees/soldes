@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu doux
 - Manche courte
+- Tissu doux
 - ENTRADA FOOTBALL MENS T-SHIRT
 
 [🛒 Achète-le!!]({{< param buyurl >}})

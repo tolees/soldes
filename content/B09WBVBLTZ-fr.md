@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Environ 100 cinématiques uniques sont jouées pendant les batailles tout au long du jeu, et les cartes des étapes sont toutes illustrées en 3D de haute qualité.
 - Commandez un escadron de Stellar Gear, des armes humanoïdes développées à partir de la technologie danciennes civilisations, pour défendre la Terre contre les envahisseurs extraterrestres Relayer.
-- Relayer propose également des attaques spéciales passionnantes telles que Backstab et le Big Bang. Les joueurs doivent utiliser un large éventail de stratégies afin de mener les Starchildren à la victoire !
 - Un Robot-Tactical RPG de nouvelle génération se déroulant dans une réalité alternative de science-fiction, dans laquelle Starchildren - des humains dotés de capacités spéciales - affronte une menace extraterrestre connue sous le nom de Relayers.
+- Environ 100 cinématiques uniques sont jouées pendant les batailles tout au long du jeu, et les cartes des étapes sont toutes illustrées en 3D de haute qualité.
+- Relayer propose également des attaques spéciales passionnantes telles que Backstab et le Big Bang. Les joueurs doivent utiliser un large éventail de stratégies afin de mener les Starchildren à la victoire !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WBVBLTZ{{</world>}}

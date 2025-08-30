@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 sangles
-- 3.Plat
-- Arche moyenne
 - Synthétique
+- Arche moyenne
+- 3.Plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07F3GNNP4{{</world>}}

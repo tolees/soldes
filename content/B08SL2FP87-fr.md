@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture Velcro pour un bon ajustement
 - Certifiées par le Leather Working Group
 - XL EXTRALIGHT, tout en légèreté et absorption des chocs
-- Fermeture Velcro pour un bon ajustement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SL2FP87{{</world>}}

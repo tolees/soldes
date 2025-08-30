@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de contrôle de la traction anti-dérapage.
 - Indicateurs avant et arrière intégrés pour des déplacements en toute sécurité.
-- Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
-- 2 freins - disque avant et freins arrière électroniques.
+- Système de contrôle de la traction anti-dérapage.
 - Autonomie jusquà environ 40 km (24.9 miles).
+- Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
 - Vitesse maximale jusquà 25 km/h (15,5 mph).
+- 2 freins - disque avant et freins arrière électroniques.
 - Angle de montée jusquà 18.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

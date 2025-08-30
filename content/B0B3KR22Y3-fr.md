@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VERSION : Française
 - ÂGE : de 7 à 99 ans, un vrai microscope numérique 3-en-1 avec vidéos de la BBC pour explorer le monde. + de 400 informations scientifiques sont à découvrir
+- VERSION : Française
 - 3 MODES D’OBSERVATION : Lamelles illustrées, pour découvrir des vidéos et des images sur une thématique, jouer à des jeux et répondre à des quiz. Lamelles vierges, pour observer ses propres échantillons. Plateforme pour objets en 3D, pour observer tous les petits éléments 3D de son environnement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

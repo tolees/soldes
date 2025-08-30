@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Can you outsmart the AIs Every character in Hello Neighbor 2 is powered by a neural network AI, learning from the players, doing everything in their power to protect their gated community and its secrets
-- It’s up to you to uncover the dark secrets hidden in Raven Brooks!
 - It feels like an investigative journalist simulator - sneak around and find out your neighbors secrets
+- It’s up to you to uncover the dark secrets hidden in Raven Brooks!
 - Raven Brooks and all its mysteries are now yours to explore! Traverse the town, all of its houses and AI-driven inhabitants are now part of your playground
+- Can you outsmart the AIs Every character in Hello Neighbor 2 is powered by a neural network AI, learning from the players, doing everything in their power to protect their gated community and its secrets
 - Hello Neighbor 2 - Imbir Edition includes the Imbir backpack hanger plushie and the standard edition of Hello Neighbor 2, all packaged into a collectible tuck-in box
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

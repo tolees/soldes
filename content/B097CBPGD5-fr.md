@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BATTERIE RECHARGEABLE - Ne vous inquiétez plus jamais de devoir changer la batterie de votre ordinateur.
-- INTERFACE INTUITIVE - La navigation à deux boutons permet de prévisualiser et de mettre à jour facilement les paramètres
 - LOGICIEL ACTUALISABLE - Le logiciel actualisable par lutilisateur vous donne un accès à long terme aux dernières fonctionnalités et mises à jour via une connexion Bluetooth
+- BATTERIE RECHARGEABLE - Ne vous inquiétez plus jamais de devoir changer la batterie de votre ordinateur.
 - 4 MODES DE FONCTIONNEMENT - Air, Nitrox, Profondimètre (avec décompte du temps) et Apnée (suivi des calculs pour permettre de passer du mode Plongée au mode Apnée)
+- INTERFACE INTUITIVE - La navigation à deux boutons permet de prévisualiser et de mettre à jour facilement les paramètres
 - ÉCRAN COULEUR ULTRA LUMINEUX - Lisible dans toutes les conditions et en plein soleil ; un film de protection est fourni avec lordinateur de plongée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

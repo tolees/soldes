@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un système de circulation qui crée naturellement des embouteillages, des accidents, des véhicules en excès de vitesse et autres infractions au code de la route, comme passer au feu rouge et plus encore.
 - Un nombre important de missions : accidents de voiture, stationnement illégal et appels durgence, ou encore course-poursuite avec des trafiquants de drogue et des tagueurs.
 - Progressez pour débloquer des districts, des voitures et de nouveaux modes (patrouille standard et patrouille libre).
 - Trois districts uniques composés de plusieurs quartiers chacun, avec leur propre touche distinctive.
-- Un système de circulation qui crée naturellement des embouteillages, des accidents, des véhicules en excès de vitesse et autres infractions au code de la route, comme passer au feu rouge et plus encore.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B88BSP5J{{</world>}}

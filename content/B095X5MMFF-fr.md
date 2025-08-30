@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - 1 rouleau de Smart Vinyl Cricut, Blanc, 0.9m (3ft)
 - Recommandé pour une utilisation en intérieur
 - Durable, mais au besoin senlève sans résidus
-- Compatible avec la Cricut Explore 3 et Cricut Maker 3
 - Fonctionne sans tapis de découpe : chargez et cest parti !
+- Compatible avec la Cricut Explore 3 et Cricut Maker 3
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095X5MMFF{{</world>}}

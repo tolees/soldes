@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe régulière
 - Taille élastique avec cordon de serrage
+- Coupe régulière
 - Logo Nike
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

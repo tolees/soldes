@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Nouveauté: ce programme a 18 mois dorganisation: se déroule de juillet 2023 à décembre 2024. Agenda du bureau de M. Wonderful Jadore un public plus large. Avec organisation hebdomadaire. Cet programme contient:
 - Planificateur mensuel Au début de chaque mois, des phrases mensuelles superdives.
-- 226 pages, 100 gr du papier avec certification FSC, phrases quotidiennes de motivation, séparateurs donglet pour chaque mois,
 - Poche en carton intérieure, règle en plastique intérieur, 8 feuilles dautocollants, horaires et calendriers (du dernier trimestre de 2023 et 2024 et 2025 complet),
+- 226 pages, 100 gr du papier avec certification FSC, phrases quotidiennes de motivation, séparateurs donglet pour chaque mois,
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4PD5WNN{{</world>}}

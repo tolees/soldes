@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très silentieux pour pouvoir lutiliser à tout moment
-- Pour pièces jusquà 20m2. Filtre amovible et lavable pour conserver la capacité de deshumidification
 - Il séteint automatiquement avec le dépôt plein pour éviter le débordement deau et obtenir une consommation dénergie plus basse.
+- Pour pièces jusquà 20m2. Filtre amovible et lavable pour conserver la capacité de deshumidification
+- Très silentieux pour pouvoir lutiliser à tout moment
 - Dépôt amovible et transparent de 0,7L
 - Bas poids et manche pour son transport
 

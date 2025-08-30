@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CHEVEUX PLUS DENSE : grâce à sa formule enrichie en Stemoxydine 5% et Resveratrol, le sérum Serioxyl, spécialement formulé pour des cheveux qui saffinent, favorise la régénération capillaire. Développé avec des pro. et testé sous contrôle dermatologique, ce sérum léger est sans silicone.
 - Appliquer le produit uniformément sur le cuir chevelu et cheveux essorés. Diviser les cheveux en 4 et vaporiser 6 fois sur chaque section. Masser. Laisser agir. Astuce de Pro : ne pas exposer à la lumière. Pour un effet optimal, après votre Shampoing Serioxyl contre laffinement des cheveux.
+- CHEVEUX PLUS DENSE : grâce à sa formule enrichie en Stemoxydine 5% et Resveratrol, le sérum Serioxyl, spécialement formulé pour des cheveux qui saffinent, favorise la régénération capillaire. Développé avec des pro. et testé sous contrôle dermatologique, ce sérum léger est sans silicone.
 - MULTIPLICATION DU NOMBRE DE CHEVEUX DES 6 SEMAINES* pour une chevelure plus dense (*Étude clinique auprès de 79 femmes pendant 12 semaines.)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

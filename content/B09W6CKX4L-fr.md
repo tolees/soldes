@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour tous les types de cheveux.
-- Utile et avec un design super amusant.
 - Brosse à cheveux avec poils en nylon et imprimé Wonder avocat.
+- Utile et avec un design super amusant.
 - Les petits adorent... et les plus grands aussi.
 - Produit original de Mr. Wonderful.
 

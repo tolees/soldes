@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UTILISATION FACILE : Le Sikagard 225 Conservado Façade-Couverture est livré prêt à lemploi et sapplique en une seule couche seulement sur support sec de préférence. Protéger de la pluie pendant environ 3 heures
-- CONSOMMATION : La consommation de cet imprégnation hydrofuge dépendra de de la porosité du support : 5 LITRES sur Enduit poreux, tuile béton : 12,5m² , Tuile terre cuite : 25m², Béton : entre 12,5 à 50m². Utilisé les articles traités avec précaution.
+- HAUTES PERFORMANCES : Ce traitement hydrofuge invisible après séchage simprègne au sein du support afin dobtenir un effet perlant des eaux de pluie en surface tout en le laissant respirer
 - Protégez durablement votre façade et toiture contre les intempéries, les UV, les salissures et les mousses
 - MULTI SUPPORT : Ce produit est compatible avec la plupart des matériaux de construction : béton, béton desactivé, coment, joint et enduit de façade, pierres naturelles ou reconstituées, terre cuite, brique, plaquette de parement.
-- HAUTES PERFORMANCES : Ce traitement hydrofuge invisible après séchage simprègne au sein du support afin dobtenir un effet perlant des eaux de pluie en surface tout en le laissant respirer
+- UTILISATION FACILE : Le Sikagard 225 Conservado Façade-Couverture est livré prêt à lemploi et sapplique en une seule couche seulement sur support sec de préférence. Protéger de la pluie pendant environ 3 heures
+- CONSOMMATION : La consommation de cet imprégnation hydrofuge dépendra de de la porosité du support : 5 LITRES sur Enduit poreux, tuile béton : 12,5m² , Tuile terre cuite : 25m², Béton : entre 12,5 à 50m². Utilisé les articles traités avec précaution.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YMN6Y46{{</world>}}

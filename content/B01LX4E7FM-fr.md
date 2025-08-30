@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adaptive Memory détecte les données fréquemment utilisées, fournissant ainsi les données plus rapidement et consomme donc moins délectricité, afin de donner le disque dur une plus longue durée de vie
 - Interface: SATA 6 Go/s ; Dimensions (HxWxD): 7.0/0.276 x 69.85/2.750 x 100.35/3.951 (mm/pouces)
+- Adaptive Memory détecte les données fréquemment utilisées, fournissant ainsi les données plus rapidement et consomme donc moins délectricité, afin de donner le disque dur une plus longue durée de vie
 - La fonction Green Hybrid réduit la consommation dénergie de lappareil, afin que les utilisateurs puissent prolonger la durée de vie de votre disque dur et maintenir les coûts grâce à ce disque dur
 - Disque dur de 2,5 pouces marche plus rapide grâce à la combinaison de la technologie Flash avec une plate-forme de disque dur
 

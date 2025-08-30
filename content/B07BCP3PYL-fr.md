@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✔Hé tu as:1 x disque dur portable,1 x câble USB 3.0,1 x manuel dutilisation,Garantie du fabricant de 3 ans
-- ✔Léger et pratique: surface ultra-mince et aluminium parfaitement combiné，Disque dur externe à 0,39 pouce dépaisseur，Peut facilement obtenir une capacité énorme à tout moment
-- ✔ Plug and play：Peu importe où vous êtes，Ce disque dur externe portable ultra-fin est prêt à être utilisé,Lancer le film,Collectionner de la musique(Lordinateur doit être formaté en Fat32)
-- ✔ Système compatible：Branchez et jouez sous Windows 10, Windows 8, Windows 7 et Mac, aucune alimentation externe nest requise.Disque dur pour OS X （10.6.5 et supérieur, doivent être reformatés sur des systèmes dexploitation plus anciens)
 - ✔ Compatible avec USB 3.0：Le disque dur SuperSpeed USB peut transférer des données jusquà 5 Gbps (625 Mo / s)，10 fois plus rapide que la norme USB 2.0
+- ✔ Système compatible：Branchez et jouez sous Windows 10, Windows 8, Windows 7 et Mac, aucune alimentation externe nest requise.Disque dur pour OS X （10.6.5 et supérieur, doivent être reformatés sur des systèmes dexploitation plus anciens)
+- ✔ Plug and play：Peu importe où vous êtes，Ce disque dur externe portable ultra-fin est prêt à être utilisé,Lancer le film,Collectionner de la musique(Lordinateur doit être formaté en Fat32)
+- ✔Léger et pratique: surface ultra-mince et aluminium parfaitement combiné，Disque dur externe à 0,39 pouce dépaisseur，Peut facilement obtenir une capacité énorme à tout moment
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BCP3PYL{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - idéal pour les premiers exercices décriture et de dessin
-- Forme hexagonale, crayons de couleur épais avec mine extra épaisse, particulièrement douce et de couleur intense pour écrire et dessiner détendu
-- Bois certifié FSC, issu de forêts gérées durablement, facile à tailler avec nimporte quel taille-crayon de qualité
 - ABS – la gaine de protection blanche renforce le cœur de la mine et augmente la résistance à la casse
+- Bois certifié FSC, issu de forêts gérées durablement, facile à tailler avec nimporte quel taille-crayon de qualité
+- Forme hexagonale, crayons de couleur épais avec mine extra épaisse, particulièrement douce et de couleur intense pour écrire et dessiner détendu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CG7YBZM{{</world>}}

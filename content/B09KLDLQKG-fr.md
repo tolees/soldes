@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 🔌【Convertisseur HDMI vers RCA】Convertissez un signal vidéo HDMI ou un signal audio de haute qualité en signal composite CVBS (AV) normal (définition standard 480i, 576i), Disponible pour les téléviseurs, magnétoscopes VHS, DVD, enregistreurs HDTV etc.
-- 🔌【Formats PAL/NTSC】Prend en charge deux formats de sortie PAL et NTSC avec un commutateur de sélection, généralement NTSC pour lAmérique, PAL pour les autres pays. prend en charge la résolution HDMI jusquà 1080p à 60 Hz et HDMI 1.3. Ne prend pas en charge les appareils 4K. Vous aide à convertir le signal vidéo HDMI de haute qualité en signal CVBS normal (définition standard 480i, 576i). Lecture sur TV, magnétoscope numérique, enregistreur DVD.
-- 🔌【Compatibilité étendue】Le convertisseur HDMI vers RCA est compatible avec la plupart des appareils tels que Blu-ray, DVD, PS3, PC, VHS VCR, enregistreurs DVD, TV, Roku Chromecast, Roku TV, Apple TV, téléviseurs, moniteur, projecteur.
 - 🔌 [Nouveau design avec câble RCA] Le produit lui-même est doté dun câble RCA et dun câble de chargement USB. De plus, un câble HDMI est également inclus, Vous navez pas besoin dacheter des câbles et des adaptateurs USB supplémentaires, cela vous offre une grande commodité.
 - 🔌【Plug and Play】Bonne taille, portable et flexible. Aucun pilote supplémentaire nécessaire, facile à Installer et utiliser, alimenté par un câble USB, Il suffit de brancher le câble, dallumer le courant et le tour est joué.
+- 🔌【Formats PAL/NTSC】Prend en charge deux formats de sortie PAL et NTSC avec un commutateur de sélection, généralement NTSC pour lAmérique, PAL pour les autres pays. prend en charge la résolution HDMI jusquà 1080p à 60 Hz et HDMI 1.3. Ne prend pas en charge les appareils 4K. Vous aide à convertir le signal vidéo HDMI de haute qualité en signal CVBS normal (définition standard 480i, 576i). Lecture sur TV, magnétoscope numérique, enregistreur DVD.
+- 🔌【Compatibilité étendue】Le convertisseur HDMI vers RCA est compatible avec la plupart des appareils tels que Blu-ray, DVD, PS3, PC, VHS VCR, enregistreurs DVD, TV, Roku Chromecast, Roku TV, Apple TV, téléviseurs, moniteur, projecteur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09KLDLQKG{{</world>}}

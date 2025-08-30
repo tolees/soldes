@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offre suffisamment despace pour des fleurs volantes et de petits bouquets, Design organique qui attire lœil, même vide
-- Parfaitement combinable avec les accessoires et la vaisselle de la collection Manufacture, Élément décoratif combinable avec tous les accessoires Villeroy & Boch
 - Vase de forme bombée en Cristallin à laspect métallique, À utiliser comme vase à fleurs ou objet décoratif, Pour décorer votre intérieur ou pour offrir
+- Parfaitement combinable avec les accessoires et la vaisselle de la collection Manufacture, Élément décoratif combinable avec tous les accessoires Villeroy & Boch
+- Offre suffisamment despace pour des fleurs volantes et de petits bouquets, Design organique qui attire lœil, même vide
 - Verre en Cristallin de haute qualité pour plus de robustesse, Jeu de couleurs uniques associant bronze noble et noir mat
 - Contenu : 1x Villeroy & Boch Manufacture Swirl Vase Soliflor (12,2 cm), Matière : Cristallin, Couleur : Noir/Bronze
 

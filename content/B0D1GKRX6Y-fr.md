@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le grand écran de 6,74 pouces, combiné à un taux de rafraîchissement ultra fluide de 90 Hz, permet un visionnage plus agréable et des sessions de jeu plus immersives.
-- Résistance à l’eau et à la poussière d’indice IP54
 - La coque ultra fine de 7,99 mm et la conception à angles lisses font de ce smartphone un compagnon splendide qui épouse parfaitement le creux de votre main.
+- Résistance à l’eau et à la poussière d’indice IP54
 - Comportant un appareil photo principal de 13 MP avec I.A., le realme Note 50 permet de prendre des clichés magnifiques encore plus facilement. Des larges panoramas aux gros plans serrés, le realme Note 50 saura saisir avec justesse et netteté les couleurs de chacun de vos moments photo.
+- Le grand écran de 6,74 pouces, combiné à un taux de rafraîchissement ultra fluide de 90 Hz, permet un visionnage plus agréable et des sessions de jeu plus immersives.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D1GKRX6Y{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Matériau extérieur : 100 % cuir de vachette
 - Better Leather
 - Semelle : 80 % TPU - 20 % TPU recyclé
+- Couleur : noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8K1FBCF{{</world>}}

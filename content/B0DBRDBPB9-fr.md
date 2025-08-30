@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - MODE JEU : Plongez dans laction grâce au mode jeu optimisé pour une faible latence et des performances de jeu fluides, pour profiter pleinement de chaque session
 - TIVO SMART TV : Découvrez vos nouveaux favoris grâce à une expérience Smart TV personnalisée, optimisée par TiVo, offrant un accès à des applications de streaming et des recommandations personnalisées basées sur votre profil de goût unique.
+- IMAGES À CONTRASTE ÉLEVÉ : Plongez dans des images riches, des noirs plus profonds, des blancs plus éclatants et une palette de couleurs élargie grâce à la technologie HDR
 - IMAGE HD PERFORMANTE : Visionnage parfait grâce à la résolution HD et au colour engine HD offrant des images nettes et réalistes et des couleurs naturelles qui donnent vie aux films et aux jeux
 - CONTRÔLE VOCAL : Contrôle mains libres sans effort grâce à la commande vocale Google et Alexa, idéale pour changer de chaîne, régler le volume ou allumer ou éteindre lappareil, le tout sans la télécommande
-- IMAGES À CONTRASTE ÉLEVÉ : Plongez dans des images riches, des noirs plus profonds, des blancs plus éclatants et une palette de couleurs élargie grâce à la technologie HDR
 - OPTIONS DE VISIONNAGE FLEXIBLES : Profitez dun visionnage dans nimporte quelle pièce, grâce au triple tuner HD, à la connectivité WLAN et HDMI, et à laccès facile au contenu personnel via le lecteur multimédia USB
 
 [🛒 Achète-le!!]({{< param buyurl >}})

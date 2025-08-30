@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Différentes options de couleur par capacité
 - Connecteur USB protégé par un capuchon pratique
 - Grand anneau pour laccrocher à un porte-clés
-- Différentes options de couleur par capacité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JD5PV9F{{</world>}}

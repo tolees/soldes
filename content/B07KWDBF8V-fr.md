@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élément en verre de quartz fondu - Résout les capteurs jusquà 100 MP
-- Cadre en laiton - Filetage lisse et durabilité accrue
-- Comprend - Filtre, étui rigide, étui souple, chiffon de nettoyage
 - 16 couches de revêtement - Revêtements anti-rayures/ anti-huile/ hydrophobes
+- Comprend - Filtre, étui rigide, étui souple, chiffon de nettoyage
+- Élément en verre de quartz fondu - Résout les capteurs jusquà 100 MP
 - Neutralité parfaite des couleurs - Nouveau procédé de revêtement pour un changement de couleur nul
+- Cadre en laiton - Filetage lisse et durabilité accrue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KWDBF8V{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Niveau de difficulté 35 pour débuter dans la maquette, haut niveau de détails
-- Notice multilingue, maquette en grappes et la qualité de finition Revell
 - 52 pièces à monter, échelle 1: 72ème pour une longueur totale de 37, 5 cm
+- Niveau de difficulté 35 pour débuter dans la maquette, haut niveau de détails
 - Montez le faucon Millenium de Star Wars Episode 8 - les derniers Jedi - à partir de 10 ans
+- Notice multilingue, maquette en grappes et la qualité de finition Revell
 - Peinture, colle et autres accessoires non fournis à trouver sur la boutique Revell
 
 [🛒 Achète-le!!]({{< param buyurl >}})

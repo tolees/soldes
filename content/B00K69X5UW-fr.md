@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet couleur argent
-- Diamètre du cadran : 44 millimètres
-- Cadran texturé noir
 - Bracelet en acier inoxydable
+- Bracelet couleur argent
+- Cadran texturé noir
+- Diamètre du cadran : 44 millimètres
 - Boîtier en acier inoxydable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

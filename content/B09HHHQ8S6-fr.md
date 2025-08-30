@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ortholite smelle interne pour amorti et respirabilité
-- Semelle extérieure EVA pour la légèreté
 - Certifiées par le Leather Working Group
+- Semelle extérieure EVA pour la légèreté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HHHQ8S6{{</world>}}

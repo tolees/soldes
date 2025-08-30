@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Magique : le carnet A6 de 30 pages et le stylo à encre invisible inclus permettent décrire tous les secrets et de les révéler à laide dune lampe UV. La poche située derrière le carnet permet de cacher des objets ou des souvenirs.
-- INCLUS : contrôle du volume/stylo à encre invisible/lampe UV. Nécessite 3 piles LR6 AA (incluses).
-- Age : 6 à 12 ans, un journal à lencre invisible pour cacher tous les secrets
 - Version : française.
+- Magique : le carnet A6 de 30 pages et le stylo à encre invisible inclus permettent décrire tous les secrets et de les révéler à laide dune lampe UV. La poche située derrière le carnet permet de cacher des objets ou des souvenirs.
+- Age : 6 à 12 ans, un journal à lencre invisible pour cacher tous les secrets
+- INCLUS : contrôle du volume/stylo à encre invisible/lampe UV. Nécessite 3 piles LR6 AA (incluses).
 - INTERACTIF : 5 jeux sont intégrés pour créer des mélodies, entraîner la mémoire, découvrir les idées du jour et bien plus encore !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

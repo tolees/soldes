@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de produit: TOOTH CLEANING AGENT
-- Dentifrice Crest 3D White Brilliance Vibrant Peppermint, 4.1oz (Lot de 3)
 - Crest Dentifrice 3D White Brilliance
+- Dentifrice Crest 3D White Brilliance Vibrant Peppermint, 4.1oz (Lot de 3)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CHP3FPQ{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réparer les dommages de lADN favorise la réparation des dommages accumulés par le soleil au niveau cellulaire
-- Haute protection UV évaluée dans des conditions réelles de fort rayonnement solaire. Nirrite pas les yeux. Tolérance optimale pour tous les types de peau
 - Recouverts - pep Q10: améliore la luminosité de la peau. Peptide booster de collagène: réduit les rides. Acide hyaluronique: augmente lélasticité et lhydratation de la peau
+- Réparer les dommages de lADN favorise la réparation des dommages accumulés par le soleil au niveau cellulaire
 - Protections - UV & pollution - une haute protection qui aide à prévenir les dommages causés par le soleil. Formule innovante qui protège la peau contre la pollution urbaine
+- Haute protection UV évaluée dans des conditions réelles de fort rayonnement solaire. Nirrite pas les yeux. Tolérance optimale pour tous les types de peau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071LG9FMJ{{</world>}}

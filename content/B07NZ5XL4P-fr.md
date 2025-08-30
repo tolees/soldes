@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Grand écran couleur 5 pouces
 - Remarque : - le consommateur doit : -Suivez attentivement les instructions de démarrage et dinstallation à laide du manuel fourni. -Charger complètement la batterie
 - Technologie numérique fhss 2, 4 ghz permettant une écoute et une transmission vidéo dexcellente qualité, sans interférence pour rester en contact continu avec bébé en toute sécurité
 - Portée de 300 mètres maximum en champ libre (50 à 60m en intérieur)
 - Version française
-- Grand écran couleur 5 pouces
 - Un écoute-bébé vidéo avec écran géant 5 pouces, caméra motorisée, indicateur de température et lentille grand angle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Columbia Lake 22 doudoune à capuche
 - Couleur: Black
+- Columbia Lake 22 doudoune à capuche
 - Taille: M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

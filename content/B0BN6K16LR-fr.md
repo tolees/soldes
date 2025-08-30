@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Forme du talon : plat
 - Matériau extérieur : synthétique
 - Matériau intérieur : synthétique
-- Semelle : caoutchouc
 - Fermeture : lacets
-- Forme du talon : plat
+- Semelle : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN6K16LR{{</world>}}

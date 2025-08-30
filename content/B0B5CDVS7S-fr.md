@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accélérez les performances de votre PC pour le multitâche ;
 - Dispose dun dissipateur de chaleur en aluminium gris sidéral pour une finition haut de gamme et une dissipation thermique très efficace ;
-- Facile à installer;
+- Accélérez les performances de votre PC pour le multitâche ;
 - Mémoire DDR4 haute vitesse pour améliorer les performances de votre ordinateur de bureau ;
+- Facile à installer;
 - Une mise à niveau simple pour votre PC.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

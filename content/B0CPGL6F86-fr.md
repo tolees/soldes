@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Capuche réglable avec cordon de serrage
 - Omni-Tech imperméable et respirant avec coutures scellées
 - Se range dans la poche.
-- Capuche réglable avec cordon de serrage
 - Capuche fixe réglable
 - Poignets réglables
 - Ourlet réglable avec cordon de serrage

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCOR CONTEMPORAIN : avec son décor imitant la pierre, le loft L en plastique Volcania mettra en valeur les plantes et toutes les compositions fleuries. Son volume de 46 litres et sa hauteur de 60 cm permettront de créer un espace fleuri harmonieux.
-- MODULABLE : pour aménager vos espaces, le loft L est parfaitement modulable avec lensemble de la gamme Volcania de la marque EDA - le pot Rectangulaire et la jardinière en superposition ou côte à côte avec le loft XL et le muret par exemple.
 - FABRICATION FRANÇAISE : le loft L Volcania 46 litres est fabriqué en France et bénéficie du label Origine France Garantie.
-- DOUBLE UTILISATION : conçu en double paroi pour assurer une protection optimale des plantes, le loft L sutilise dehors comme dedans. Grâce à sa zone de rétention deau, le loft L Volcania, lorsquil est percé, permet davoir une réserve deau qui aidera à limiter les arrosages lors dune utilisation extérieure.
+- MODULABLE : pour aménager vos espaces, le loft L est parfaitement modulable avec lensemble de la gamme Volcania de la marque EDA - le pot Rectangulaire et la jardinière en superposition ou côte à côte avec le loft XL et le muret par exemple.
 - ANTI-UV ET ANTIGEL : toute la gamme de pots de fleurs, jardinières, murets et lofts Volcania est traitée anti-UV et antigel, garantissant des produits résistants aux conditions climatiques avec des couleurs qui durent dans le temps.
+- DOUBLE UTILISATION : conçu en double paroi pour assurer une protection optimale des plantes, le loft L sutilise dehors comme dedans. Grâce à sa zone de rétention deau, le loft L Volcania, lorsquil est percé, permet davoir une réserve deau qui aidera à limiter les arrosages lors dune utilisation extérieure.
+- DÉCOR CONTEMPORAIN : avec son décor imitant la pierre, le loft L en plastique Volcania mettra en valeur les plantes et toutes les compositions fleuries. Son volume de 46 litres et sa hauteur de 60 cm permettront de créer un espace fleuri harmonieux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KY6QG4Z{{</world>}}

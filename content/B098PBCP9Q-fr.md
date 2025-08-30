@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIGHTWEIGHT
+- RECYCLED
 - GOOD GRIP
 - Facile à installer
+- LIGHTWEIGHT
 - ETRA DURABLE INTERDIENTS
-- RECYCLED
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098PBCP9Q{{</world>}}

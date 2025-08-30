@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VEGAN – Lors du développement de nos produits, nous renonçons à toute forme dexpérimentation animale. Notre eau de rose Rosense est certifiée « PETA approved» et confirmée par des tests dermatologiques.
-- COSMOS – La base de leau florale certifiée COSMOS est un distillat pur de Rosa damascena, sans alcool ni parfum, et donc très bien toléré par les peaux sensibles.
 - ROSENSE – Tout ce dont votre peau a besoin pour être rayonnante et soignée vient directement de la nature. Faites-en vous-même lexpérience avec nos produits !
-- BIEN-ÊTRE AU QUOTIDIEN – Leau de rose resserre les pores, hydrate, purifie et raffermit la peau, elle prévient lapparition de rides et de points noirs – de manière complètement naturelle.
 - POLYVALENTE – En compresses pour les yeux, leau de rose rafraîchit et donne de l’éclat au contour de vos yeux. Elle se consomme également en cuisine, par exemple ajoutée à de l’eau minérale ou pour affiner les plats.
+- VEGAN – Lors du développement de nos produits, nous renonçons à toute forme dexpérimentation animale. Notre eau de rose Rosense est certifiée « PETA approved» et confirmée par des tests dermatologiques.
+- BIEN-ÊTRE AU QUOTIDIEN – Leau de rose resserre les pores, hydrate, purifie et raffermit la peau, elle prévient lapparition de rides et de points noirs – de manière complètement naturelle.
+- COSMOS – La base de leau florale certifiée COSMOS est un distillat pur de Rosa damascena, sans alcool ni parfum, et donc très bien toléré par les peaux sensibles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001BEFO0K{{</world>}}

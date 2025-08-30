@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Dimensions: 164.4 x 77.9 x 7.9 mm
-- - Sim-type: Nano-SIM
-- - Weight: 200 g
-- - Type: Smartphone
 - - Network Technology: GSM / HSPA / LTE / 5G
+- - Dimensions: 164.4 x 77.9 x 7.9 mm
+- - Type: Smartphone
+- - Weight: 200 g
+- - Sim-type: Nano-SIM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHZZ67HX{{</world>}}

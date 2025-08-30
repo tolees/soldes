@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jeu propose une narration qui suit le rythme des saisons, avec un effet sur les attributs de la faune tels que la vitesse, la résistance, les buffs, etc…
-- En repoussant les limites de leffet photoréaliste, Unreal Engine 5 établit de nouveaux standards, notamment pour la représentation des plantes et de la faune.
 - Le jeu offre une expérience intuitive avec des tutoriels permettant aux nouveaux venus dapprendre les bases du STR, tout en proposant une difficulté modulable et des mécanismes avancés à explorer pour les joueurs chevronnés.
+- Le jeu propose une narration qui suit le rythme des saisons, avec un effet sur les attributs de la faune tels que la vitesse, la résistance, les buffs, etc…
 - Incarnez une fourmi courageuse, en vue à la troisième personne, et découvrez des capacités uniques qui vous aideront lors de vos combats et explorations.
 - Rencontrez dautres fourmis et habitants de la forêt au cours de votre voyage et interagissez avec eux.
+- En repoussant les limites de leffet photoréaliste, Unreal Engine 5 établit de nouveaux standards, notamment pour la représentation des plantes et de la faune.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CX5LWMLD{{</world>}}

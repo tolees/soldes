@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible 5G - Une connexion ultra rapide pour profiter de tous vos contenus
 - Ecran 6,6’’90Hz - Un grand écran panoramique et très fluide
 - Triple capteur photo et selfie 13MP - Pour capturer son sujet sous tous les angles
 - Jusqu’à 2 jours d’autonomie et charge rapide 15W - Une batterie longue durée qui peut être rechargée rapidement
+- Compatible 5G - Une connexion ultra rapide pour profiter de tous vos contenus
 - Capteur principal 50MP - Des photos riches et détaillées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

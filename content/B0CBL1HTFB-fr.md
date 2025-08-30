@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pose Felicia ou son chat sur le lanceur et tire la corde pour les voir senvoler !
-- Contient : 1 poupée Sky Dancers, 1 animal volant, 1 lanceur et 1 base
-- Génial, elle a un animal de compagnie volant ! Découvre son prénom en frottant lautocollant sur le lanceur ! Wow, cest magique !
 - Fonctionne sans pilesDès 6 ans
+- Contient : 1 poupée Sky Dancers, 1 animal volant, 1 lanceur et 1 base
+- Pose Felicia ou son chat sur le lanceur et tire la corde pour les voir senvoler !
+- Génial, elle a un animal de compagnie volant ! Découvre son prénom en frottant lautocollant sur le lanceur ! Wow, cest magique !
 - Découvre Felicia, tout droit arrivée du Jardin Enchanté, que tu pourras faire voler et tourbillonner !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - TAILLE 11-13 ANS : Taille adaptée aux enfants de 11 à 13 Ans mesurant de 141 à 158 cm. Offrez à votre enfant une expérience de jeu immersive avec un costume de luxe.
 - ACCESSOIRES COMPLETS : Inclut une ceinture et un masque, donnant à votre petit Storm Trooper lapparence dun soldat qui a traversé des batailles épiques.
 - COSTUME DE LUXE : La combinaison imprimée de grande taille avec une poitrine rembourrée et un demi-masque crée un look authentique. Conçu au Royaume-Uni, cest un produit Rubies, garantissant qualité et authenticité.
-- LE PETIT STORMTROOPER : Plonge dans lunivers intergalactique de Star Wars avec ce déguisement sous licence officielle. Deviens un Stormtrooper, le fidèle serviteur de lEmpire !
 - IDÉAL POUR LES PETITS FANS DE STAR WARS : Parfait pour les fêtes costumées, Carnaval, Halloween, ou simplement pour samuser à la maison en incarnant un personnage emblématique de Star Wars.
+- LE PETIT STORMTROOPER : Plonge dans lunivers intergalactique de Star Wars avec ce déguisement sous licence officielle. Deviens un Stormtrooper, le fidèle serviteur de lEmpire !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B013EB4ZLQ{{</world>}}

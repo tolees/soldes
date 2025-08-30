@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Expérience immersive avec ses bordures ultra-fines
-- Écran FHD+ AMOLED de 120 Hz
 - Triple appareil photo de 108 MP
+- Expérience immersive avec ses bordures ultra-fines
 - Charge rapide 33 W disponible et une batterie de 5 000 mAh*
 - Capteur dempreintes digitales sécurisé
 - Un processeur Snapdragon puissant
+- Écran FHD+ AMOLED de 120 Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR5DB5TY{{</world>}}

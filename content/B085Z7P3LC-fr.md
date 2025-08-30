@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système pris en charge : Mac OS 10.8+, Windows 10/8/7Vista/XP, port USB 1.1+
 - Conception compacte et portable
-- Transférez simultanément les fichiers des emplacements SD et microSD à lordinateur
 - Garantie limitée de deux ans
+- Transférez simultanément les fichiers des emplacements SD et microSD à lordinateur
 - Parfait pour le transfert de fichiers à haute vitesse lors de déplacements
+- Système pris en charge : Mac OS 10.8+, Windows 10/8/7Vista/XP, port USB 1.1+
 - Rétrocompatible avec les cartes SD et microSD UHS-I (jusquà 170 Mo/s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

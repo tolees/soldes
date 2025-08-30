@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type dopération : électrique
-- Nombre darticle : 1
 - Dimensions de lemballage : 8.39 x 5.77 x 4.89 cm
+- Nombre darticle : 1
 - Poids du colis de larticle :12.21 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})

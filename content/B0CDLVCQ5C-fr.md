@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quatre haut-parleurs stéréo avec prise en charge de Dolby Atmos
-- râce aux quatre haut-parleurs, bénéficiez dun son Surround exceptionnel pour une expérience immersive, comme au cinéma.
-- Écran immersif FHD+ 11"
-- Résolution 207 ppp 1200 x 1920
 - Taux de rafraîchissement de 90 Hz avec AdaptiveSync*
+- Écran immersif FHD+ 11"
+- râce aux quatre haut-parleurs, bénéficiez dun son Surround exceptionnel pour une expérience immersive, comme au cinéma.
+- Quatre haut-parleurs stéréo avec prise en charge de Dolby Atmos
+- Résolution 207 ppp 1200 x 1920
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CDLVCQ5C{{</world>}}

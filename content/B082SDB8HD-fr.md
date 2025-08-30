@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Perforations au niveau des orteils
 - Laçage classique
 - Languette en cuir velours au niveau du talon
+- Perforations au niveau des orteils
 - Coupe basse
 - Matière supérieure en cuir synthétique
 

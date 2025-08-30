@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit cosmétique de haute qualité
 - Nettoyants Savons et Lavage à la Main 500ml
+- produit cosmétique de haute qualité
 - Savon à mains nourrissant Bio Shop Rose Peach
 
 [🛒 Achète-le!!]({{< param buyurl >}})

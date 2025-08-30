@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Des accessoires exclusifs pour recréer son univers
 - Un personnage incontournable du manga Naruto
 - Chaque personnage est présenté dans un costume fidèle à la série
-- Son arme de combat fétiche, identique à la série
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
+- Son arme de combat fétiche, identique à la série
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2JW9LHC{{</world>}}

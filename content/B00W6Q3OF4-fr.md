@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application facile : Avec sa texture onctueuse et son parfum gourmand, ce lait hydratant pénètre rapidement, sans coller et procure une sensation de bien-être tout au long de la journée
-- Détails pratiques : Flacon-pompe de 400 ml. Appliquez une noix de Lait Soin Hydratant Nutrition dans votre main et massez délicatement jusquà ce quil pénètre complètement
-- Nutrition intense : Ce lait pour le corps est spécialement conçu pour prendre soin des peaux très sèches. Belle et nourrie, votre peau est réconfortée pour 24 heures
 - Soin de la peau : Découvrez notre lait de soin pour le corps Le Petit Marseillais inspiré des traditions de beauté méditerranéennes. Pour retrouver une peau souple et confortable
+- Application facile : Avec sa texture onctueuse et son parfum gourmand, ce lait hydratant pénètre rapidement, sans coller et procure une sensation de bien-être tout au long de la journée
+- Nutrition intense : Ce lait pour le corps est spécialement conçu pour prendre soin des peaux très sèches. Belle et nourrie, votre peau est réconfortée pour 24 heures
+- Détails pratiques : Flacon-pompe de 400 ml. Appliquez une noix de Lait Soin Hydratant Nutrition dans votre main et massez délicatement jusquà ce quil pénètre complètement
 - Formule riche : Ce lait corps hydratant pour le corps associe du beurre de karité, de lamande douce et de lhuile dargan aux vertus hydratantes, nourrissantes et adoucissantes pour la peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

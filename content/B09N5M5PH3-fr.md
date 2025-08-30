@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Stabilité accrue pour le sur-cadencement
+- Qualifiée par les plus grands fabricants de cartes mères au monde¹
 - Meilleures performances
 - Efficacité accrue
-- Stabilité accrue pour le sur-cadencement
 - Conception compacte du dissipateur de chaleur
-- Qualifiée par les plus grands fabricants de cartes mères au monde¹
 - Compatible Intel XMP 3.0 et certifiée, Plug N Play
 
 [🛒 Achète-le!!]({{< param buyurl >}})

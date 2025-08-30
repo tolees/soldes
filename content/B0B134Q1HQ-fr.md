@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une arme de combat et dautres accessoires exclusifs fidèles à la série
+- Contient un personnage
 - De nombreux détails en rapport avec lunivers du manga japonais
 - Un personnage exclusif du manga Naruto
-- Contient un personnage
-- Une arme de combat et dautres accessoires exclusifs fidèles à la série
 - Le set Playmobil inclut le personnage de Kisame issu de Naruto Shippuden avec son épée Samehada et une écharpe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

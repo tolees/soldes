@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il répare et revitalise durablement les cheveux secs et abîmés pour les rendre 77% plus résistants face aux dommages tout en leur procurant un toucher soyeux.
 - Le masque professionnel Absolut Repair, à base de protéine de quinoa doré, restaure instantanément les cheveux secs et abîmés et les rend plus brillants et légers. Sa formule enveloppe la fibre capillaire pour la renforcer et la protéger des agressions extérieures, sans lalourdir.
 - Répartir le masque mèche par mèche sur les longueurs. Laisser poser 5 minutes. Rincer en terminant par un jet deau froide pour plus de brillance. Pour une routine complète appliquer dabord le shampoing Absolut Repair pour nettoyer en douceur et finir par lHuile Absolut Repair pour protéger.
+- Il répare et revitalise durablement les cheveux secs et abîmés pour les rendre 77% plus résistants face aux dommages tout en leur procurant un toucher soyeux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B099XMVSB1{{</world>}}

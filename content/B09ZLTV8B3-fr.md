@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception ultralégère de 59 g Aucun poids mort. Rendue environ 25 % plus légère que la Razer DeathAdder V2, profitez d’un niveau de vitesse et de commande apprécié par les meilleurs joueurs du monde grâce à l’une des souris d’esport ergonomique les plus légères jamais créées.
-- Forme ergonomique raffinée Optimisée pour une maniabilité et un confort inégalés. Développée en partenariat avec les meilleurs pros de l’esport, la forme emblématique de la Razer DeathAdder a été encore améliorée pour rester fidèle à la maniabilité et au confort reconnus de ce modèle primé.
-- Câble Razer SpeedFlex Traînée minimale et glissements fluides. Tressé pour offrir une plus grande flexibilité et conçu pour produire une résistance minimale, ce câble vous permettra d’effectuer des mouvements plus rapides et plus fluides, pour un contrôle plus précis
-- Technologie Razer 8000Hz HyperPolling 8 fois plus rapide que les autres souris de gaming. Avec un polling rate de 8 000 Hz, la souris est capable de communiquer sa position et ses clics à votre PC plus de 8 000 fois par seconde, offrant ainsi une latence proche de zéro et une vitesse hors du commun.
 - Capteur optique 30 K Razer Focus Pro Une précision optimale. Le tout nouveau capteur de Razer offre des performances de suivi sans faille sur une plus grande variété de surfaces, y compris le verre, et est pris en charge par des fonctions intelligentes pour améliorer la visée et la commande.
+- Technologie Razer 8000Hz HyperPolling 8 fois plus rapide que les autres souris de gaming. Avec un polling rate de 8 000 Hz, la souris est capable de communiquer sa position et ses clics à votre PC plus de 8 000 fois par seconde, offrant ainsi une latence proche de zéro et une vitesse hors du commun.
+- Câble Razer SpeedFlex Traînée minimale et glissements fluides. Tressé pour offrir une plus grande flexibilité et conçu pour produire une résistance minimale, ce câble vous permettra d’effectuer des mouvements plus rapides et plus fluides, pour un contrôle plus précis
+- Forme ergonomique raffinée Optimisée pour une maniabilité et un confort inégalés. Développée en partenariat avec les meilleurs pros de l’esport, la forme emblématique de la Razer DeathAdder a été encore améliorée pour rester fidèle à la maniabilité et au confort reconnus de ce modèle primé.
+- Conception ultralégère de 59 g Aucun poids mort. Rendue environ 25 % plus légère que la Razer DeathAdder V2, profitez d’un niveau de vitesse et de commande apprécié par les meilleurs joueurs du monde grâce à l’une des souris d’esport ergonomique les plus légères jamais créées.
 - Switchs optiques de souris Razer de 3e génération Finis les soucis avec le double-clic. Aucun délai anti-rebond. Avec un cycle de vie amélioré de 90 millions de clics, sans problème de double-clic, et un temps d’actionnement de 0,2 ms sans délai anti-rebond, la souris bénéficie de la fiabilité et de la rapidité nécessaires pour l’esport.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

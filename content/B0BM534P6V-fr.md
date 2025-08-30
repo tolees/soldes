@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
 - Fermeture : lacets
+- Forme du talon : plat
 - Semelle : caoutchouc
 - Matériau extérieur : cuir
 

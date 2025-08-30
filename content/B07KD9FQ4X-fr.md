@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haut Nike Sportswear Club Fleece pour Homme
 - Col rond côtelé
+- Haut Nike Sportswear Club Fleece pour Homme
 - Logo Nike sur la poitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

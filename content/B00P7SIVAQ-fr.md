@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protège et aide à prévenir les caries pour des dents 3 fois plus fortes
 - Technologie NR-5: silicate de calcium et phosphate de sodium. Résultats cliniquement prouvés
-- Usage quotidien en remplacement du dentifrice habituel. Efficace dès la première utilisation. Goût menthe fraîche
-- Aide à restaurer la blancheur naturelle des dents
 - Agit sur l’érosion à un stade précoce et invisible. Régénère l’émail avec exactement le même minéral dont il est constitué
+- Usage quotidien en remplacement du dentifrice habituel. Efficace dès la première utilisation. Goût menthe fraîche
+- Protège et aide à prévenir les caries pour des dents 3 fois plus fortes
+- Aide à restaurer la blancheur naturelle des dents
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00P7SIVAQ{{</world>}}

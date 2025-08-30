@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture haut: À enfiler
 - Emballage: Boîte
+- Fermeture haut: À enfiler
 - Entièrement doublé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

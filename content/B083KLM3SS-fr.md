@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Le jouet parfait pour IMAGINER DE NOMBREUSES HISTOIRES
 - A partir de 3 ANS
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : LA FAMILLE, LA NATURE et L’AMOUR
-- Contient 2 FIGURINES et 1 MINI VOITURE pour les bébés
 - Les vêtements sont COUSUS A LA MAIN
+- Contient 2 FIGURINES et 1 MINI VOITURE pour les bébés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083KLM3SS{{</world>}}

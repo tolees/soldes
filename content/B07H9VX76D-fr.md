@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Température de fonctionnement: -13ºF - 185ºF (-25ºC - 85 ºC)
-- Compatible avec les appareils hôtes compatibles SDXC et SDXC UHS-I. Vitesses de capture allant jusquà 90 Mo/s, vitesse de transfert jusquà 170 Mo/s
-- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
 - Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 - Durabilité: Antichoc, Températures extrêmes, Imperméable, Rayons X
+- Compatible avec les appareils hôtes compatibles SDXC et SDXC UHS-I. Vitesses de capture allant jusquà 90 Mo/s, vitesse de transfert jusquà 170 Mo/s
+- Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07H9VX76D{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CAMÉRA PRO DE SONY, DANS UN SMARTPHONE: Grâce à son capteur de nouvelle génération et à son traitement dimage amélioré, le Xperia 1 V permet de réaliser des prises de vue exceptionnelles, même dans des environnements peu éclairés
 - TOUTE LÉNERGIE NÉCESSAIRE POUR VOS BESOINS QUOTIDIENS: Le Xperia 1 V est équipé dune batterie de 5 000 mAh, la meilleure de sa catégorie, qui se recharge rapidement jusquà 50 % en seulement 30 minutes avec le chargeur XQZ-UC1*1.
 - CONÇU POUR OFFRIR UNE ÉQUILIBRE PARFAITE ENTRE DESIGN ET PERFORMANCE: Le Xperia 1 V propose une finition innovante qui améliore la prise en main, inspirée par les appareils photo Alpha de Sony.
-- APPRÉCIEZ DAVANTAGE VOTRE MUSIQUE GRÂCE AUX TECHNOLOGIES AUDIO HAUT DE GAMME DE SONY. Uns on dynamique et clair grâce aux haut-parleurs intégrés perfectionnés et Lecture audio de haute qualité sur tous les canaux de sortie
-- CAMÉRA PRO DE SONY, DANS UN SMARTPHONE: Grâce à son capteur de nouvelle génération et à son traitement dimage amélioré, le Xperia 1 V permet de réaliser des prises de vue exceptionnelles, même dans des environnements peu éclairés
 - LE MEILLEUR DU DIVERTISSEMENT SUR MOBILE: profitez dune expérience immersive avec lécran 4K HDR OLED 21:9 de 6,5 pouces et son taux de rafraîchissement de 120 Hz et Regardez les derniers films en streaming avec BRAVIA CORE
+- APPRÉCIEZ DAVANTAGE VOTRE MUSIQUE GRÂCE AUX TECHNOLOGIES AUDIO HAUT DE GAMME DE SONY. Uns on dynamique et clair grâce aux haut-parleurs intégrés perfectionnés et Lecture audio de haute qualité sur tous les canaux de sortie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4Z4R4C5{{</world>}}

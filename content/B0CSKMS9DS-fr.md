@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ergonomique
 - Détails recherchés
+- Ergonomique
 - Confort maximal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

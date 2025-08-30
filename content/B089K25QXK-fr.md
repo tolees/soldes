@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coutures contrecollées pour la durabilité et la résistance aux éraflures, Col suffisant pour protéger la nuque avec possibilité de le remonter
 - Conçu pour passer beaucoup de temps à lextérieur, Idéal à porter au quotidien
 - Polo pour homme performant avec conception classique et caractéristiques techniques, Pour la ville et la campagne
-- Coutures contrecollées pour la durabilité et la résistance aux éraflures, Col suffisant pour protéger la nuque avec possibilité de le remonter
 - Contenu: 1x Columbia Tech Trail, Polo pour Hommes, Couleur: Shark, Taille: XL, Art.: 1768701
 - Incitation à laventure dynamique grâce au système respirant Omni-Wick de gestion de la transpiration
 

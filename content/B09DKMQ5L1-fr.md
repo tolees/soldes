@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enjoy a sleek anodized aluminum exterior including an 8 mm-thick aluminum front
-- Front-facing I/O featuring an aluminum power button and two USB ports including one USB Type-C 20Gbps
-- Add natural materials to your setup with a front-facing panel cut from sustainably sourced solid walnut
-- Install your choice of powerful GPU up to 322 mm in length, in a space-saving 10.4 L case
 - Find your build’s ideal balance with 30 mm of internal flexibility provided by a stepless, slidable central wall
+- Front-facing I/O featuring an aluminum power button and two USB ports including one USB Type-C 20Gbps
+- Install your choice of powerful GPU up to 322 mm in length, in a space-saving 10.4 L case
+- Enjoy a sleek anodized aluminum exterior including an 8 mm-thick aluminum front
+- Add natural materials to your setup with a front-facing panel cut from sustainably sourced solid walnut
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DKMQ5L1{{</world>}}

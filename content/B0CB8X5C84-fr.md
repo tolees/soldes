@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de fermeture:Bouton
 - Instructions dentretien:Lavage en machine
 - Composition de matériau:67% Coton, 32% Élasthanne, 1% Élasthanne
+- Type de fermeture:Bouton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB8X5C84{{</world>}}

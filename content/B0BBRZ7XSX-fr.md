@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le LEGO Star Wars Microfighter comprend un cockpit qui souvre pour la minifigurine LEGO Boba Fett, 2 lanceurs, des ailes réglables et des modes datterrissage
-- Ce mini vaisseau spatial jouet construit en briques LEGO offre une expérience de construction facile, grâce à lapplication interactive LEGO Builder avec des outils de zoom et de rotation
-- Cet ensemble LEGO Star Wars The Mandalorian comprend un blaster et un jetpack pour la minifigurine LEGO Boba Fett pour inspirer un jeu créatif
+- Ce jouet de la Guerre des étoiles à construire peut être combiné avec dautres micro-pompiers LEGO de la Guerre des étoiles de la collection pour des histoires encore plus riches en action
 - Cet ensemble LEGO Star Wars de 85 pièces est un cadeau danniversaire parfait ou une friandise pour une occasion spéciale pour les enfants de 6 ans et plus et les fans du Mandalorien
 - Les jeunes fans peuvent jouer les histoires de Star Wars : The Book of Boba Fett et The Mandalorian avec ce micro-vaisseau de Boba Fett à construction rapide
-- Ce jouet de la Guerre des étoiles à construire peut être combiné avec dautres micro-pompiers LEGO de la Guerre des étoiles de la collection pour des histoires encore plus riches en action
+- Ce mini vaisseau spatial jouet construit en briques LEGO offre une expérience de construction facile, grâce à lapplication interactive LEGO Builder avec des outils de zoom et de rotation
+- Le LEGO Star Wars Microfighter comprend un cockpit qui souvre pour la minifigurine LEGO Boba Fett, 2 lanceurs, des ailes réglables et des modes datterrissage
+- Cet ensemble LEGO Star Wars The Mandalorian comprend un blaster et un jetpack pour la minifigurine LEGO Boba Fett pour inspirer un jeu créatif
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ7XSX{{</world>}}

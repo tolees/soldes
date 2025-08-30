@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Capacités disponibles : 16 Go, 32 Go, 64 Go, 128 Go, 256 Go
 - Ouverture pour porte-clés
-- Garantie Verbatim limitée de 2 ans
 - Design « PinStripe » élégant et rétractable
+- Garantie Verbatim limitée de 2 ans
 - Interface USB 3.0 à grande vitesse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

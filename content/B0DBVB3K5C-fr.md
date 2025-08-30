@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - - Sim-type: Nano-SIM, eSIM
 - - Weight: 171 g or 173 g
+- - Type: Smartphone
 - - Dimensions: 161.9 x 73.1 x 7.6 mm
 - - Network Technology: GSM / HSPA / LTE / 5G
-- - Type: Smartphone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBVB3K5C{{</world>}}

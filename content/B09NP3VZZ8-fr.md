@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le célèbre jeu de déduction arrive à Poudlard ! Pouvez-vous deviner quel magicien cache votre adversaire sans utiliser de magie ?
-- Licence officielle
-- À partir de 6 ans, 2 joueurs.
 - Contenu : 2 plateaux de jeu, 48 cartes personnages, 24 cartes mystères, 1 livre de règles.
 - Le célèbre jeu de déduction arrive à Poudlard. Peux-tu deviner quel magicien cache ton adversaire sans utiliser de magie ?
 - Il y a 24 magiciens, professeurs et créatures à découvrir dans cette édition dHarry Potter, alors assurez-vous de poser les bonnes questions pour gagner la partie.
+- À partir de 6 ans, 2 joueurs.
+- Licence officielle
+- Le célèbre jeu de déduction arrive à Poudlard ! Pouvez-vous deviner quel magicien cache votre adversaire sans utiliser de magie ?
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NP3VZZ8{{</world>}}

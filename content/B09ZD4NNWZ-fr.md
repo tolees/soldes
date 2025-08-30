@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rapport qualité/prix
 - Facile à utiliser
+- Rapport qualité/prix
 - Bon produit de bonne qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

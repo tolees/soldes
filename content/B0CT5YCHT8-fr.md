@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe droite
 - Poche kangourou
+- Coupe droite
 - Avec capuche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure 100 % TPU : longue durée de vie
 - Semelle intérieure rembourrée sur le devant : amorti optimal
 - Couleur : noir
-- Doublure : 87 % textile (60 % polyuréthane, 40 % polyester), 13 % textile (60 % nylon, 40 % polyuréthane)
 - Cuir lisse
+- Doublure : 87 % textile (60 % polyuréthane, 40 % polyester), 13 % textile (60 % nylon, 40 % polyuréthane)
+- Semelle extérieure 100 % TPU : longue durée de vie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BPPBTK6{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sous license officielle de Nintendo et Pokémon International Company
-- Le Split Pad Compact comprend des gâchettes arrière assignables et une fonctionnalité Turbo
 - Ladaptateur Split Pad Compact comprend une prise micro et la fonctionnalité de chat vocal
+- Le Split Pad Compact comprend des gâchettes arrière assignables et une fonctionnalité Turbo
+- Sous license officielle de Nintendo et Pokémon International Company
 - Expérience de manette pleine grandeur en mode portable
 - Attachez le Split Pad Compact à ladaptateur pour lutiliser comme manette filaire
 

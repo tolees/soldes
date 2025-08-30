@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plus dautonomie, de confort visuel et des manipulations réduites avec le mode REACTIVE LIGHTING : la puissance d’éclairage et la forme du faisceau s’adaptent automatiquement, grâce à un capteur de luminosité permettant doptimiser lutilisation de la batterie.
-- Fonction LOCK pour éviter les allumages intempestifs lors du transport/stockage.
-- Lampe frontale compacte, très puissante et rechargeable, dotée de la technologie REACTIVE LIGHTING. Puissance déclairage de 900 lumens pour 100 g seulement.
 - Lampe pouvant être inclinée vers le haut pour voir devant soi lorsquelle est portée autour du cou.
-- Batterie Lithium-Ion de 2350 mAh, rechargeable via une prise micro USB de type B.
-- Port confortable, grâce au bandeau ergonomique ajustable, confectionné en deux parties pour un maintien optimal lors des activités dynamiques. Bandeau réfléchissant à larrière pour être bien vu de nuit. Bandeau démontable et lavable.
 - Confort visuel, grâce au faisceau mixte procurant un éclairage performant pour les activités outdoor : vision de proximité, déplacements et vision lointaine.
+- Port confortable, grâce au bandeau ergonomique ajustable, confectionné en deux parties pour un maintien optimal lors des activités dynamiques. Bandeau réfléchissant à larrière pour être bien vu de nuit. Bandeau démontable et lavable.
+- Lampe frontale compacte, très puissante et rechargeable, dotée de la technologie REACTIVE LIGHTING. Puissance déclairage de 900 lumens pour 100 g seulement.
+- Batterie Lithium-Ion de 2350 mAh, rechargeable via une prise micro USB de type B.
+- Fonction LOCK pour éviter les allumages intempestifs lors du transport/stockage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SB1Y46M{{</world>}}

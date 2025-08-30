@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - vue panoramique: large surface de verres pour un champ de vision maximum.
-- - structure très aérée de la lunette permettant une totale circulation de lair qui empêche la formation de buée
-- - poids 26g: légères comme lair
 - - air Link temple system: absorbeur de choc en élastomère situé au niveau des tempes pour plus de confort et de légèreté
 - - un nez avec des ailettes qui sajustent à tous les types de nez pour offrir une tenue irréprochable en toutes circonstances.
+- - poids 26g: légères comme lair
+- - vue panoramique: large surface de verres pour un champ de vision maximum.
+- - structure très aérée de la lunette permettant une totale circulation de lair qui empêche la formation de buée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01M0DYOWH{{</world>}}

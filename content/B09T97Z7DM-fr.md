@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [ Forte Compatibilité ] Boîtier Disque Dur M.2 est compatible avec les systèmes Windows 11/ 10/ 8.1/ 8/ 7/ XP, Linux, macOS, Android et iOS, vous permet de connecter les ordinateurs portables, les ordinateurs de bureau USB-C et les téléphones/ tablettes compatibles OTG pour accéder directement à vos fichiers.
 - [ Boîtier SSD NVMe ] Boîtier NVMe M.2 sadapte bien aux SSD NVMe M-Key/ M+B Key jusquà 8 To, compatible avec les tailles de 2230/ 2242/ 2260/ 2280. Petit Conseil : Si votre disque dur est tout neuf, le disque dur doit être partitionné avant dêtre utilisé. Note : Il ne prend pas en charge SATA NGFF. Et le disque dur nest pas inclus dans le colis.
+- [ Forte Compatibilité ] Boîtier Disque Dur M.2 est compatible avec les systèmes Windows 11/ 10/ 8.1/ 8/ 7/ XP, Linux, macOS, Android et iOS, vous permet de connecter les ordinateurs portables, les ordinateurs de bureau USB-C et les téléphones/ tablettes compatibles OTG pour accéder directement à vos fichiers.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09T97Z7DM{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plug-ins puissants : Elgato 4KCU, OBS, Streamlabs, Twitch, YouTube, Twitter, Spotify, Philips Hue et d’autres applications.
-- 3 pédales personnalisables: contrôlez vos applications, outils et plates-formes.
 - Déclenchement par simple pression, Mains libres: déclenchez instantanément une ou plusieurs actions, activez le direct, coupez le son de votre micro, changez de caméra et plus encore.
 - Stream Deck Store: téléchargez des plug-ins, des icônes, des milliers de sons libres de droits, des effets spéciaux et plus encore.
 - Structure solide, Ressorts interchangeables: réglez la pression des pédales, actionnez les pédales en toute confiance.
+- Plug-ins puissants : Elgato 4KCU, OBS, Streamlabs, Twitch, YouTube, Twitter, Spotify, Philips Hue et d’autres applications.
+- 3 pédales personnalisables: contrôlez vos applications, outils et plates-formes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09PRMCTGB{{</world>}}

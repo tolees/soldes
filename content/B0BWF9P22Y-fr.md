@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASC (Adaptive Sound Control)
 - Auto Sound Engine
 - Bluetooth Stand-by
-- Caisson de basses sans fil
+- ASC (Adaptive Sound Control)
 - Design adapté à votre TV
+- Caisson de basses sans fil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BWF9P22Y{{</world>}}

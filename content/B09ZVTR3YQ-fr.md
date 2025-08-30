@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifiées par le Leather Working Group
-- Semelle extérieure EVA pour la légèreté
 - ORTHOLITE RECYCLED Smelle interne pour amortir et respirabilité
+- Semelle extérieure EVA pour la légèreté
+- Certifiées par le Leather Working Group
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZVTR3YQ{{</world>}}

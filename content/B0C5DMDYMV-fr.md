@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équipé dune cellule solaire
-- Licence originale Stormtrooper
 - Parfait pour les fans de Star Wars
+- Excellente idée cadeau
+- Idéal pour tenir sur les rebords de fenêtre ou tableau de bord
 - Collectionnable
 - Solar Pal – Loriginal Stormtrooper
-- Idéal pour tenir sur les rebords de fenêtre ou tableau de bord
-- Excellente idée cadeau
+- Licence originale Stormtrooper
 - Se déplace sous la lumière directe (naturelle ou artificielle)
+- Équipé dune cellule solaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5DMDYMV{{</world>}}

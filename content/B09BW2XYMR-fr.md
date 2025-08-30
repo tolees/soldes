@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- « Nettoyez » les véhicules malmenés par la course grâce au rouleau de lavage et faites le plein grâce à la pompe mobile.
-- Arrêtez-vous sur la plateforme et appuyez sur Guido pour « changer » les pneus d’un véhicule !
-- Repliez le véhicule, chargez une voiture à l’effigie d’un de vos personnages favoris (vendue séparément) et partez rejoindre la course suivante !
-- Avec autant d’activités et d’histoires à inventer, le coffret Mack Transformable est un cadeau idéal pour les enfants et les fans de Cars à partir de 3 ans !
-- Utilisez le propulseur pour envoyer les voitures au cœur de l’action !
 - Ouvrez la remorque de Mack et dépliez-la pour découvrir Guido et plusieurs zones de jeu où préparer vos véhicules pour la prochaine course !
+- Repliez le véhicule, chargez une voiture à l’effigie d’un de vos personnages favoris (vendue séparément) et partez rejoindre la course suivante !
+- « Nettoyez » les véhicules malmenés par la course grâce au rouleau de lavage et faites le plein grâce à la pompe mobile.
+- Utilisez le propulseur pour envoyer les voitures au cœur de l’action !
+- Arrêtez-vous sur la plateforme et appuyez sur Guido pour « changer » les pneus d’un véhicule !
 - Le coffret Mack Transformable Cars de Disney-Pixar donne vie à des courses palpitantes. Ce coffret 2 en 1 est à la fois un camion et un atelier de tuning !
+- Avec autant d’activités et d’histoires à inventer, le coffret Mack Transformable est un cadeau idéal pour les enfants et les fans de Cars à partir de 3 ans !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BW2XYMR{{</world>}}

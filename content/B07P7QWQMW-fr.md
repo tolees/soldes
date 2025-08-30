@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un bloc multiprise avec 5 prises vous permet de brancher simultanément jusquà cinq fiches de taille normale
-- Excellent dans tous les ateliers, magasins et même à la maison
 - Les réalités daujourdhui exigent la connexion dun grand nombre dappareils aux prises. Les barrettes dalimentation sont livrées avec laide, notre bandelette est la solution idéale
+- Excellent dans tous les ateliers, magasins et même à la maison
+- Un bloc multiprise avec 5 prises vous permet de brancher simultanément jusquà cinq fiches de taille normale
 - Il est doté dun commutateur dalimentation rétroéclairé à lépreuve des enfants et de commutateurs séparés pour chaque prise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

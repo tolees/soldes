@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Convient pour l’utilisation sur papier carbone
 - Couleur: Rouge
-- Sécurité avion: l’équilibrage automatique de la pression empêche lencre de fuir
 - Stylo bille classique corps transparent et capuchon avec clip à la couleur de l’encre
+- Sécurité avion: l’équilibrage automatique de la pression empêche lencre de fuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000YHADQU{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : 60 % IPEVA - 40 % caoutchouc
-- Forme du talon : talon compensé
 - Matériau intérieur : 80 % tissu textile, polyester, 20 % polyuréthane synthétique
+- Forme du talon : talon compensé
+- Fermeture : 60 % IPEVA - 40 % caoutchouc
 - Matériau extérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

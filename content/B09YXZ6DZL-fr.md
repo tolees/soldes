@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bracelet cousu et rembourré
 - Œillets redesignés
 - Tige en suède
 - Fermeture à lacets pour un ajustement ideal
-- Bracelet cousu et rembourré
 - Logo PUMA N° 1 sur la languette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

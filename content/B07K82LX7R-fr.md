@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montage mural apparent - Levier de commande métallique
+- GROHE Longlife cartouche en céramique 46 mm - GROHE StarLight Chrome éclatant et durable
 - Bec avec mousseur - Clapet anti-retour intégré
+- Montage mural apparent - Levier de commande métallique
 - Raccords en S - Rosaces métalliques
 - Limiteur de débit ajustable - Inverseur automatique pour 2 sorties
-- GROHE Longlife cartouche en céramique 46 mm - GROHE StarLight Chrome éclatant et durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07K82LX7R{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brosse idéale pour donner du volume, de la forme et pour crêper les cheveux
-- Les poils de sanglier confèrent aux cheveux un éclat naturel
 - Mélange de poils en sanglier et poils en nylons
 - Brosse de crêpage pliable
+- Les poils de sanglier confèrent aux cheveux un éclat naturel
+- Brosse idéale pour donner du volume, de la forme et pour crêper les cheveux
 - Parfaite pour les salons de coiffure ou pour glisser dans un sac à main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

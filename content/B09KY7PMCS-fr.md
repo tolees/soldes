@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SEQ Lecture jusquà 1700 Mo / s en écriture et écriture jusquà 1000 Mo / s en écriture; Écriture aléatoire alignée 4K: jusquà 280K IOP
 - Protection end-to-end data path, technologie SmartECC et régulation thermique intégrée.
 - Garantie de 3 ans; Système dexploitation pris en charge: Windows 7 * / 8.0 * / 8.1 / 10
-- SEQ Lecture jusquà 1700 Mo / s en écriture et écriture jusquà 1000 Mo / s en écriture; Écriture aléatoire alignée 4K: jusquà 280K IOP
 - Soutien la technologie LDPC (contrôle de la parité à faible densité) pour corriger les erreurs de lecture et assurer lintégrité des données et de la technologie NANDXtend ECC pour augmenter le cycle de vie des puces Flash NAND
 - Contrôleur de dernière génération ; 2280 M.2 PCIe Gen3 x4, NVMe 1.3
 

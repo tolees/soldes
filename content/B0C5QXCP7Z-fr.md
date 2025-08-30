@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VIDÉO EN DIRECT ET SYSTÈME AUDIO BIDIRECTIONNEL : voyez, entendez et parlez à vos visiteurs, suivez tout ce qui se passe à lextérieur et contrôlez votre système de surveillance à domicile depuis lapplication Ring.
+- NOTIFICATIONS EN TEMPS RÉEL : avec la détection de mouvements réglable, recevez une notification directement sur votre smartphone, dès quun mouvement est détecté par votre caméra de surveillance extérieure.
+- ZONES DE DÉTECTION DE MOUVEMENTS PERSONNALISABLES : choisissez les lieux où votre caméra wifi détecte les mouvements à lextérieur, afin de ne recevoir que les notifications qui vous intéressent.
 - DESIGN POLYVALENT : conçue dans un souci de polyvalence, cette caméra de surveillance extérieure sans fil peut également être installée à lintérieur pour créer un système de surveillance adapté à vos besoins.
 - VIDÉO HD ET VISION NOCTURNE : créez votre propre système de surveillance avec la caméra extérieure sans fil (Stick Up Cam), une caméra de surveillance wifi qui peut être installée presque partout à lextérieur de votre maison.
 - ASSOCIEZ VOS APPAREILS: lapplication Ring vous permet de connecter lensemble de vos appareils, den régler les paramètres et dutiliser les modes pour activer ou désactiver vos appareils, que vous soyez à domicile ou à l’extérieur. Abonnement Ring Home requis, (vendu séparément).*
 - RÉSISTANT AUX INTEMPÉRIES : la caméra extérieure sans fil Ring peut être placée sur une surface plane ou fixée au mur à lextérieur de votre maison.
-- ZONES DE DÉTECTION DE MOUVEMENTS PERSONNALISABLES : choisissez les lieux où votre caméra wifi détecte les mouvements à lextérieur, afin de ne recevoir que les notifications qui vous intéressent.
-- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : sauvegardez vos vidéos enregistrées jusquà 180 jours pour les visionner à tout moment, recevez des alertes lorsque des personnes sont détectées et bien plus encore avec un abonnement Ring Home (vendu séparément)*.
-- NOTIFICATIONS EN TEMPS RÉEL : avec la détection de mouvements réglable, recevez une notification directement sur votre smartphone, dès quun mouvement est détecté par votre caméra de surveillance extérieure.
 - INSTALLATION FACILE : caméra sur batterie rechargeable.
+- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : sauvegardez vos vidéos enregistrées jusquà 180 jours pour les visionner à tout moment, recevez des alertes lorsque des personnes sont détectées et bien plus encore avec un abonnement Ring Home (vendu séparément)*.
+- VIDÉO EN DIRECT ET SYSTÈME AUDIO BIDIRECTIONNEL : voyez, entendez et parlez à vos visiteurs, suivez tout ce qui se passe à lextérieur et contrôlez votre système de surveillance à domicile depuis lapplication Ring.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5QXCP7Z{{</world>}}

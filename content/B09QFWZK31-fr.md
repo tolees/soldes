@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants peuvent libérer le bloc de pièces de la « glace », attraper le fruit jaune, faire tomber la « glace » de la tour et activer le bloc POW
-- Ce jouet comprend 3 figurines LEGO Super Mario - Cat Goomba, Kamek et Toad pour LEGO Peach (3 figurines non incluses) pour interagir avec
-- Comprend un costume de chat que la figurine Lego Peach (non incluse) peut porter pour gagner des pièces numériques ; il déclenche également des réactions uniques
-- Ce jouet LEGO Super Mario Princesse Peach à construire comprend un château à 3 niveaux avec des éléments de glace, des fleurs, un bloc POW et des défis de collecte de pièces
-- Retrouvez des instructions et des idées sur lapplication LEGO Super Mario companion ; pour une liste des appareils Android et iOS compatibles, rendez-vous sur LEGO.com/devicecheck
-- Cest un excellent cadeau danniversaire, de Noël ou autre pour les enfants de 7 ans et plus qui possèdent lun des pack de démarrage LEGO Super Mario, nécessaire pour jouer
 - Les joueurs peuvent ensuite faire tomber Kamek de la tour et faire sortir la figurine Toad de lenclos de glace (le Pack de Démarrage 71360, 71387 ou 71403 est requis pour jouer)
+- Ce jouet LEGO Super Mario Princesse Peach à construire comprend un château à 3 niveaux avec des éléments de glace, des fleurs, un bloc POW et des défis de collecte de pièces
+- Les enfants peuvent libérer le bloc de pièces de la « glace », attraper le fruit jaune, faire tomber la « glace » de la tour et activer le bloc POW
+- Comprend un costume de chat que la figurine Lego Peach (non incluse) peut porter pour gagner des pièces numériques ; il déclenche également des réactions uniques
+- Ce jouet comprend 3 figurines LEGO Super Mario - Cat Goomba, Kamek et Toad pour LEGO Peach (3 figurines non incluses) pour interagir avec
+- Cest un excellent cadeau danniversaire, de Noël ou autre pour les enfants de 7 ans et plus qui possèdent lun des pack de démarrage LEGO Super Mario, nécessaire pour jouer
+- Retrouvez des instructions et des idées sur lapplication LEGO Super Mario companion ; pour une liste des appareils Android et iOS compatibles, rendez-vous sur LEGO.com/devicecheck
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QFWZK31{{</world>}}

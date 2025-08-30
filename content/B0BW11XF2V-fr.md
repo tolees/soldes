@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un Lenticulaire
 - Un porte-clé
+- Un Lenticulaire
 - Un Steelbook
-- Contient : Edition Standard - Couverture Alternative
 - Un poster
+- Contient : Edition Standard - Couverture Alternative
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BW11XF2V{{</world>}}

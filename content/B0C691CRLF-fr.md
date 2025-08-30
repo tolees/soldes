@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respirant
 - Rembourrage :
+- Respirant
 - Confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

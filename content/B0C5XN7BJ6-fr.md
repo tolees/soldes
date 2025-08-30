@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en plastique
-- il fonctionne avec 2 piles AAA (non incluses).
 - idéal pour être transporté dans un sac à main ou un sac à dos
 - Mini ventilateur portable
+- Fabriqué en plastique
+- il fonctionne avec 2 piles AAA (non incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5XN7BJ6{{</world>}}

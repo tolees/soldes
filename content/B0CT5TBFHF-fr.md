@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Colle transparente pour un résultat impeccable
-- Colle cyanoacrylate pour tous les collages au quotidien et petites réparations rapides sur tous matériaux : porcelaine, céramique, verre, miroir, cuir, bois, papier, carton, métal, tissus, plastique
-- Prise rapide en 15 secondes, Collage puissant résistant aux températures extrêmes (de -20°C à +80°C) et aux passages au lave-vaisselle
-- Contenu: 5 x tubes de colle Maxiglue Universel Liquide, Taille 0.5g
 - Formule liquide et transparente, pour les surfaces horizontales
+- Colle cyanoacrylate pour tous les collages au quotidien et petites réparations rapides sur tous matériaux : porcelaine, céramique, verre, miroir, cuir, bois, papier, carton, métal, tissus, plastique
+- Contenu: 5 x tubes de colle Maxiglue Universel Liquide, Taille 0.5g
+- Prise rapide en 15 secondes, Collage puissant résistant aux températures extrêmes (de -20°C à +80°C) et aux passages au lave-vaisselle
+- Colle transparente pour un résultat impeccable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CT5TBFHF{{</world>}}

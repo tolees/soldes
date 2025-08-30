@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nubuck
 - Semelle extérieure en TPU avec technologie Contact Earth : résistance à labrasion
-- Couleur : marron
 - Groupe de travail du cuir certifié
+- Nubuck
 - Coutures à 360° : plus de durabilité.
+- Couleur : marron
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087T1QMYT{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bénéfices : Absorption immédiate, résistant à la transpiration, ne laisse aucun résidu gras, non comédogène, mineral oil free, contrôle le sébum, nirrite pas les yeux : évalué sous contrôle ophtalmologique.
-- Oil Control : Il est idéal pour les peaux grasses : il matifie la peau, ne laisse pas de résidu gras et est mineral oil free.
 - Faites ressortir la meilleure version de vous-même avec la crème solaire visage ultra-légère à usage quotidien Fusion Water MAGIC Alcaraz SPF 50. Il procure un effet rafraîchissant et, grâce au Heat Stress Protect, il protège la peau contre les radicaux libres générés par la chaleur dérivée de la pratique sportive.
+- Oil Control : Il est idéal pour les peaux grasses : il matifie la peau, ne laisse pas de résidu gras et est mineral oil free.
+- Bénéfices : Absorption immédiate, résistant à la transpiration, ne laisse aucun résidu gras, non comédogène, mineral oil free, contrôle le sébum, nirrite pas les yeux : évalué sous contrôle ophtalmologique.
 - Crème solaire visage à texture ultra-légère et à leffet rafraîchissant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

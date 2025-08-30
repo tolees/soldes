@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interface : série ATA III.
 - Taille du disque dur : 2,5".
-- Composant pour : ordinateur portable.
 - Capacité du disque dur : 1000 Go
+- Composant pour : ordinateur portable.
+- Interface : série ATA III.
 - Vitesse de rotation du disque dur : 5400.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

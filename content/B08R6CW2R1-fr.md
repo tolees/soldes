@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lavage en machine
-- Manche longue
-- 82% Coton, 18% Polyester
 - Slim
 - Fermeture: Enfiler
+- Manche longue
+- 82% Coton, 18% Polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R6CW2R1{{</world>}}

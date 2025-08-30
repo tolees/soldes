@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PARFUM GOURMAND : Le parfum des blushs Bourjois est particulièrement reconnaissable et fait sa renommée. Sans conservateur, cette odeur si gourmande rendra votre routine makeup dautant plus plaisante !
-- LA TECHNOLOGIE FARD CUIT : La technologie "fard cuit" développée par Bourjois rend la texture du blush extrêmement fine et légère. Ainsi, il se travaille et sestompe très simplement pour une application particulièrement agréable.
 - PRATIQUE À EMPORTER PARTOUT : Cette petite boîte ronde est pratique et facile à emporter partout pour des retouches sur le pouce. Son format compact, miroir et pinceau intégrés, se glisse dans un sac ou dans une poche facilement.
 - BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
+- PARFUM GOURMAND : Le parfum des blushs Bourjois est particulièrement reconnaissable et fait sa renommée. Sans conservateur, cette odeur si gourmande rendra votre routine makeup dautant plus plaisante !
+- LA TECHNOLOGIE FARD CUIT : La technologie "fard cuit" développée par Bourjois rend la texture du blush extrêmement fine et légère. Ainsi, il se travaille et sestompe très simplement pour une application particulièrement agréable.
 - LICONIQUE BLUSH BOURJOIS : Le Blush Bourjois est le produit phare de la marque depuis 1863 ! Ce blush en poudre au parfum si reconnaissable habille les pommettes pour un effet bonne mine assuré.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

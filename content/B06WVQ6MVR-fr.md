@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- REPELENCE A LEAU : protection en cire céramique avec action extrême de formation de gouttes deau (beading)
 - Cire en spray facile à utiliser : vaporisez, rincez et séchez. Cest aussi simple que ça !
 - Plus quune cire : plus de protection et de durabilité que la cire classique
-- REPELENCE A LEAU : protection en cire céramique avec action extrême de formation de gouttes deau (beading)
 - Protection hybride céramique de la cire : la technologie avancée Sio2 Hybrid offre une protection céramique à la cire
 - Moins deffort : sans frotter, durer, polir ou saler. Protection céramique facile
 

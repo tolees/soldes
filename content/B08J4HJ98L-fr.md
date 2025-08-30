@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse de transfert jusquà 120 Mo/sec. Vous pouvez télécharger 1 000 photos en une minute
 - Chaque paquet comprend deux cartes mémoire microSDHC de 32 Go et un adaptateur SD. Classe 10 pour lenregistrement et la lecture vidéo Full HD
-- Idéal pour les smartphones et tablettes Android
 - 32 Go, pour enregistrer plus dheures de vidéo Full HD
 - Les performances A1 permettent aux applications dêtre chargées beaucoup plus rapidement
+- Idéal pour les smartphones et tablettes Android
+- Vitesse de transfert jusquà 120 Mo/sec. Vous pouvez télécharger 1 000 photos en une minute
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08J4HJ98L{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 10 appareils PC, Mac, smartphones et tablettes
+- Navigation anonyme
 - Accès en déplacement
 - Détection des réseaux compromis
-- Navigation anonyme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSWYWX7W{{</world>}}

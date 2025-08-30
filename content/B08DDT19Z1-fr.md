@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des œufs de poule élevées en plein air, du bon blé français & du chocolat, tout est réuni pour une minute de dégustation
 - Réalisée par Bonne Maman pour vous, cette recette de petits muffins moelleux au chocolat saura combler les petites faims avec gourmandise
+- Des œufs de poule élevées en plein air, du bon blé français & du chocolat, tout est réuni pour une minute de dégustation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DDT19Z1{{</world>}}

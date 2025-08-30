@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Moteur et boîte de vitesses détaillés – Retirez le capot de la voiture LEGO Technic pour explorer la zone DRS avec la boîte à 2 vitesses et le moteur 6 cylindres doté d’un MGU-H rotatif
-- Maquettes LEGO pour adultes – Explorez des concepts d’ingénierie et de mécanique et savourez un projet de construction relaxant avec la collection de véhicules LEGO Technic pour adultes, vendus séparément
-- Belle idée de cadeau danniversaire pour les fans de F1 et de sport automobile – Ce set LEGO est une belle idée de cadeau pour adultes ou adolescents amateurs de Formule 1 et de projets de construction complexes
-- Maquette de voiture de course de Formule 1 pour adultes – Prenez la pole position avec ce set LEGO de voiture de F1 Ferrari SF-24 LEGO Technic pour adultes, qui regorge de fonctionnalités pour le plus grand bonheur des fans de sport automobile
-- Un objet de décoration intérieure à exposer avec fierté – Cette version à l’échelle 1/8 de la voiture de F1 Ferrari SF-24 est un bel objet décoratif à exposer à la maison ou au bureau pour rendre hommage à votre passion pour la Formule 1
 - Modèle réduit de voiture de F1 avec accessoires réalistes – Recréez l’exaltation de la saison de F1 en explorant les fonctionnalités réalistes de la voiture, notamment la suspension, la direction, l’aileron réglable et les pneus imprimés
+- Moteur et boîte de vitesses détaillés – Retirez le capot de la voiture LEGO Technic pour explorer la zone DRS avec la boîte à 2 vitesses et le moteur 6 cylindres doté d’un MGU-H rotatif
 - Une expérience immersive – Savourez chaque étape de la construction avec l’application LEGO Builder qui vous permet de zoomer, de faire pivoter le modèle en 3D, de suivre votre progression et de sauvegarder tous vos sets au même endroit
+- Maquettes LEGO pour adultes – Explorez des concepts d’ingénierie et de mécanique et savourez un projet de construction relaxant avec la collection de véhicules LEGO Technic pour adultes, vendus séparément
+- Maquette de voiture de course de Formule 1 pour adultes – Prenez la pole position avec ce set LEGO de voiture de F1 Ferrari SF-24 LEGO Technic pour adultes, qui regorge de fonctionnalités pour le plus grand bonheur des fans de sport automobile
+- Belle idée de cadeau danniversaire pour les fans de F1 et de sport automobile – Ce set LEGO est une belle idée de cadeau pour adultes ou adolescents amateurs de Formule 1 et de projets de construction complexes
+- Un objet de décoration intérieure à exposer avec fierté – Cette version à l’échelle 1/8 de la voiture de F1 Ferrari SF-24 est un bel objet décoratif à exposer à la maison ou au bureau pour rendre hommage à votre passion pour la Formule 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

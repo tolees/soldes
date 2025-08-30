@@ -28,24 +28,24 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Cordon de serrage, Fermeture éclair
-- Mentonnière anti-frottement
-- Chine
-- Capuche fixe ajustable dune main
+- Poignets réglables
+- Face: 100% Polyester / Back: 100% Polyurethane
 - Imperméable, coupe-vent et respirant
-- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
 - Ourlet inférieur réglable à laide dun cordon de serrage
 - Droite
-- Multipack: 1
+- Fermeture: Cordon de serrage, Fermeture éclair
 - Helly tech protection : allié à cette technologie, les vêtements portés au quotidien par temps modéré vous garderont au sec afin de garantir votre confort. dotés de coutures entièrement scellées et confectionnés dans des textiles imperméables, coupe-vent et respirants.
-- Poignets réglables
-- Poches pour les mains avec fermeture éclair ykk
 - Imperméable et respirante
-- Face: 100% Polyester / Back: 100% Polyurethane
+- Chine
+- Poches pour les mains avec fermeture éclair ykk
+- Mentonnière anti-frottement
 - Helly tech protection
 - Fermeture éclair ykk à lavant et arrière
 - Moyen - Standard
 - Rabat anti-tempête à lavant
+- Multipack: 1
+- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
+- Capuche fixe ajustable dune main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AF6QPWG{{</world>}}

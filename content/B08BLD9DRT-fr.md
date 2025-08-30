@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
-- Respirant
-- Lacets
-- Caoutchouc
 - Textile
+- Plat
+- Caoutchouc
+- Lacets
+- Respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08BLD9DRT{{</world>}}

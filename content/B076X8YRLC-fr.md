@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cacharel - Amor Amor - Eau De Toilette - Parfum Sensuel  Doux et Romantique pour Femme - Une Fragrance Florale  Fruitée et Ambrée - Parfum de Luxe pour Femme - 30 ml'
-date: 2025-08-28 22:17:22
+date: 2025-08-30 13:45:37
 image: 'https://m.media-amazon.com/images/I/31QcoJmpILL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Cacharel'
 buyurl: 'https://www.amazon.fr/dp/B076X8YRLC/?tag=tolees0d-21'
 descuento: '35.12'
-average: '28.2333333333333'
+average: '28.15'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

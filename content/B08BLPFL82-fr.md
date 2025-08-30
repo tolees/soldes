@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : Caoutchouc
-- Dessus : Synthétique
-- Largeur de la chaussure : Schmal
 - Doublure : Synthétique
 - Semelle intérieure : Synthétique
+- Largeur de la chaussure : Schmal
+- Dessus : Synthétique
+- Matériau de semelle : Caoutchouc
 - Fermeture : Scratch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfait pour la ou lentretien des appareils électroniques, machines à coudre et its appareils
 - Taille super compacte : seulement 38 mm de hauteur globale
-- Lencoche dans lextrémité de la permet une pression constante des doigts lors du tournage
 - Idéal pour le travail dans des espaces restreints et confinés
+- Parfait pour la ou lentretien des appareils électroniques, machines à coudre et its appareils
+- Lencoche dans lextrémité de la permet une pression constante des doigts lors du tournage
 - Comprend 3 tourne plats et 3 tourne cruciformes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

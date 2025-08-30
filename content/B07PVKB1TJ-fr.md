@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque: Selon la version choisie (8 Ah ou 26 Ah), vous pourrez parcourir entre 35 et 90 km avec une seule charge.
-- La batterie a une durée de vie et doit être remplacée lorsque la batterie a une baisse de performance ou ne fonctionne plus. Dans ce cas, la garantie a expiré. Tous les scooters Beeper ont des garanties du fournisseur : Garantie de 10 ans sur le cadre et la structure. Garantie électronique et mécanique 3 ans. Batterie Une garantie constructeur de 1 an est applicable
-- ATTENTION conforme EDPM La trottinette BEEPER MAX dispose de tous les éléments réglementaires européens (éclairages avant et arrière, avertisseur sonore, éléments réfléchissants), et est certifié selon les dernières normes européennes en vigueur, d’autres produits similaires n’en sont pas équipés, faites le bon choix ;-)
-- La SUV Son équipement optimal et ses grandes performances en font la trottinette à laise sur tous les terrains. La trottinette électrique Beeper MAX est la trottinette confortable, puissante tout en étant sûre ; vous vous sentirez en sécurité avec ses finitions : feux LED avant et arrière, klaxon, clefs de contacts et son alarme !
-- Moteur HAUTE PERFORMANCE 500W Son moteur BRUSHLESS de 500W peut atteindre une vitesse maximum de 25 km/h , la vitesse limite est réglable sur 3 niveaux (6, 15, 25 km/h)
-- Un MAX de PROTECTION La Beeper MAX est dotée dun système dalarme intégré. Multifonctions, elle est fournie avec deux télécommandes de commande à distance, un antivol avec blocage de la transmission et des freins, ainsi quune sirène activable en cas de danger, pour une protection complète et optimale.
 - Un MAX de SÉCURITÉ Conduisez de jour comme de nuit, grâce à ses éclairages LED intégrés à lavant et à larrière - Avertissez les autres usagers de votre présence grâce à son klaxon intégré - Freinez sans risque de dérapage grâce à ses freins à disques avant/arrière - Le plus ? Des clignotants LED intégrés à lavant et à larrière, pour indiquer vos déplacements aux autres usagers
+- Remarque: Selon la version choisie (8 Ah ou 26 Ah), vous pourrez parcourir entre 35 et 90 km avec une seule charge.
+- Un MAX de PROTECTION La Beeper MAX est dotée dun système dalarme intégré. Multifonctions, elle est fournie avec deux télécommandes de commande à distance, un antivol avec blocage de la transmission et des freins, ainsi quune sirène activable en cas de danger, pour une protection complète et optimale.
+- Moteur HAUTE PERFORMANCE 500W Son moteur BRUSHLESS de 500W peut atteindre une vitesse maximum de 25 km/h , la vitesse limite est réglable sur 3 niveaux (6, 15, 25 km/h)
+- ATTENTION conforme EDPM La trottinette BEEPER MAX dispose de tous les éléments réglementaires européens (éclairages avant et arrière, avertisseur sonore, éléments réfléchissants), et est certifié selon les dernières normes européennes en vigueur, d’autres produits similaires n’en sont pas équipés, faites le bon choix ;-)
+- La batterie a une durée de vie et doit être remplacée lorsque la batterie a une baisse de performance ou ne fonctionne plus. Dans ce cas, la garantie a expiré. Tous les scooters Beeper ont des garanties du fournisseur : Garantie de 10 ans sur le cadre et la structure. Garantie électronique et mécanique 3 ans. Batterie Une garantie constructeur de 1 an est applicable
+- La SUV Son équipement optimal et ses grandes performances en font la trottinette à laise sur tous les terrains. La trottinette électrique Beeper MAX est la trottinette confortable, puissante tout en étant sûre ; vous vous sentirez en sécurité avec ses finitions : feux LED avant et arrière, klaxon, clefs de contacts et son alarme !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PVKB1TJ{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : cuir de vache
 - Semelle : 100 % caoutchouc
+- Matériau extérieur : cuir de vache
 - Couleur : noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

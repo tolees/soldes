@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériel: Plastique
-- Mesures : 1,8 m x 1,2 m
 - Nappe de table Pokémon
 - Réutilisable
+- Mesures : 1,8 m x 1,2 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NVXW7FB{{</world>}}

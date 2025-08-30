@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode Multijoueur local sans fil : grâce aux nouvelles capacités de la Nintendo Switch, et ses Joy-Con, Rayman Legends: Definitive Edition permettra d’utiliser le mode multijoueur local sans fil jusqu’à 4 joueurs.
 - Défis : connectez-vous avec vos amis grâce à une multitude de défis qui mettront vos talents et votre vitesse à lépreuve. Consultez les classements pour voir où vous vous situez par rapport au reste du monde.
 - Rayman, 100% Rocks! Sautez en suivant le rythme dune batterie, donnez des coups de poing sur la ligne de basse et faites même de la tyrolienne sur un solo de guitare. Le timing et le rythme sont essentiels pour réussir ces niveaux musicaux. Aurez-vous le talent nécessaire pour devenir un vrai héros des plateformes ?
 - Jouez partout : grâce à la Nintendo Switch et à ses nouvelles commandes, jouez avec vos amis à tout moment ! La Nintendo Switch vous permet de continuer à jouer quand vous le voulez, que ce soit en solo ou en multijoueur.
+- Mode Multijoueur local sans fil : grâce aux nouvelles capacités de la Nintendo Switch, et ses Joy-Con, Rayman Legends: Definitive Edition permettra d’utiliser le mode multijoueur local sans fil jusqu’à 4 joueurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073P61MVR{{</world>}}

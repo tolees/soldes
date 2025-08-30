@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle en caoutchouc
-- Perforations dans le pointeur et les côtés
 - Le cou roussé et coupé a lair élégant et se sent bien, tandis que les perceuses dans lorteil et les côtés ajoutent du confort et de la respirabilité
+- Perforations dans le pointeur et les côtés
+- Semelle en caoutchouc
 - Chaque fois que vous voyez Nike Sunbursst ou le nom Next Nature (NN), vous voyez une autre étape de notre voyage dans les émissions de carbone zéro et zéro déchets
 - Utilisation de matériaux synthétiques
 

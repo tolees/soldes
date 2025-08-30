@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vitesses de lecture allant jusquà 560 Mo/s
-- Haute fiabilité avec contrôleur flash de qualité supérieure
 - Optimisez votre ordinateur portable et lancez vos applications plus rapidement
+- Haute fiabilité avec contrôleur flash de qualité supérieure
 - SSD client pour mises à niveau dordinateurs portables
 - Disque SSD interne SATA III M.2 2280
 

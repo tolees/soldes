@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UN JEU DE SOCIÉTÉ STRATÉGIQUE POUR TOUS : Testez vos connaissances et votre stratégie en réalisant des missions, en passant des examens et en remportant des matchs de Quidditch. Un concept engageant qui fera appel à votre réflexion et à votre passion pour l’univers de J.K. Rowling. Idéal pour les soirées jeux entre amis ou en famille
 - UNE AVENTURE FIDÈLE À LA SAGA : Le jeu propose 30 missions retraçant les films et livres de la saga Harry Potter, des premiers pas à Poudlard jusqu’à la grande bataille finale. Découvrez 210 cartes action, combat et duel pour enrichir votre expérience et vous immerger totalement dans l’histoire de votre sorcier préféré
 - PLONGEZ DANS L’UNIVERS HARRY POTTER : Revivez toute la saga du célèbre sorcier en incarnant votre personnage préféré. Participez aux matchs de Quidditch, aux duels et passez vos examens à Poudlard pour remporter la Coupe des Quatre Maisons. Un jeu captivant qui plonge les fans au cœur de l’aventure magique
-- UNE AVENTURE FIDÈLE À LA SAGA : Le jeu propose 30 missions retraçant les films et livres de la saga Harry Potter, des premiers pas à Poudlard jusqu’à la grande bataille finale. Découvrez 210 cartes action, combat et duel pour enrichir votre expérience et vous immerger totalement dans l’histoire de votre sorcier préféré
-- UN JEU DE SOCIÉTÉ STRATÉGIQUE POUR TOUS : Testez vos connaissances et votre stratégie en réalisant des missions, en passant des examens et en remportant des matchs de Quidditch. Un concept engageant qui fera appel à votre réflexion et à votre passion pour l’univers de J.K. Rowling. Idéal pour les soirées jeux entre amis ou en famille
 - IDÉE CADEAU : Accessible dès 7 ans, ce jeu de société Harry Potter convient aussi bien aux enfants qu’aux adultes. Jouable de 1 à 8 participants, il offre des parties dynamiques de 20 à 45 minutes, parfaites pour s’amuser en famille ou entre amis. Un cadeau idéal pour les passionnés de l’univers magique
+- UNE AVENTURE FIDÈLE À LA SAGA : Le jeu propose 30 missions retraçant les films et livres de la saga Harry Potter, des premiers pas à Poudlard jusqu’à la grande bataille finale. Découvrez 210 cartes action, combat et duel pour enrichir votre expérience et vous immerger totalement dans l’histoire de votre sorcier préféré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JNMVWH9{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très chaud
-- Ingrédients extrêmement durables
 - GOOD GRIP
 - CUSHIONING
+- Très chaud
+- Ingrédients extrêmement durables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQN45BZ{{</world>}}

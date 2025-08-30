@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Explorez le monde dAvatar et voyagez à travers les 4 nations à travers une aventure de 18 chapitres en solo ou avec un ami grâce au mode coopératif unique du jeu à 2 joueurs
 - La Team Avatar est de retour dans ce jeu daction-aventure; revivez laventure épique de la série originale Avatar : Le Dernier Maître de lAir en incarnant Aang et ses amis et maîtrisez les éléments, explorez les lieux les plus uniques de la série, résolvez des énigmes environnementales difficiles et vivez les moments les plus touchants de lhistoire dAang
 - Rétablissez léquilibre du monde en défendant votre groupe contre les forces adverses à laide dun mélange de combos complexes basés sur la maîtrise pour infliger des dégâts aux soldats de la Nation du Feu et à divers autres adversaires
 - Déverrouillez les mystères et résolvez des énigmes difficiles en utilisant la maîtrise et les capacités uniques de leau, de la terre, du feu et de lair ; améliorez vos capacités tout au long de lhistoire pour libérer tout le potentiel de lAvatar
 - Embrassez votre destin et terminez laventure originale dAang ; rejouez chaque chapitre chaque fois que vous voudrez revivre vos moments préférés de la série; incarnez 9 personnages emblématiques dont Aang, Toph, Sokka et Katara
-- Explorez le monde dAvatar et voyagez à travers les 4 nations à travers une aventure de 18 chapitres en solo ou avec un ami grâce au mode coopératif unique du jeu à 2 joueurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9TVVFQ1{{</world>}}

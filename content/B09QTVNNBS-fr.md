@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Explorez lAmazonie avec la famille Palmer
-- La boite contient deux personnages, un bateau, un lamantin et ses deux petits ainsi que de nombreux accessoires
-- Le bateau flotte. Les lamantins peuvent également flotter et ont une nageoire mobile
 - La boite contient deux personnages ainsi que des animaux et accessoires
+- La boite contient deux personnages, un bateau, un lamantin et ses deux petits ainsi que de nombreux accessoires
+- Explorez lAmazonie avec la famille Palmer
+- Le bateau flotte. Les lamantins peuvent également flotter et ont une nageoire mobile
 - Gamme Wiltopia avec 80 Percentage de Matériaux recyclés ou biosourcés en moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

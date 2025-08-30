@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roulette de Défilement
 - Type de connecteur: usb_2.0
 - Radio
+- Roulette de Défilement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00OPRDW7M{{</world>}}

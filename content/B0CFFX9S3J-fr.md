@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des engagements qui nous guident au quotidien : chez Corine de Farme, tous nos produits sont fabriqués en France. Ils comprennent environ 95% dingrédients dorigine naturelle. Nous militons également pour limiter notre impact sur la planète
-- Coffret Princesses : plongez dans lunivers enchanteur des Princesses avec ce coffret cadeau pour fille. Surprenez votre enfant avec ce produit qui fait rêver dun royaume lointain. Une idée cosmétique qui fera plaisir, sans aucun doute
-- Eau de toilette 50 ml : cette eau de toilette à limage des plus belles princesses parfumera délicatement la peau de votre petite fille de sa délicieuse senteur de fraise. Elle convient parfaitement pour les enfants à partir de 3 ans
-- Gel moussant 3-en-1, 300 ml : ce gel douche nettoie la peau et les cheveux des enfants et il sert également de bain moussant pour le plus grand plaisir des tous petits. Il délivre un agréable parfum fruité. Évite les nœuds, ne pique pas les yeux
 - Boîte à goûter 100% PP : votre enfant sera particulièrement fière dapporter à lécole cette boîte à goûter à limage des Princesses quelle adore. Cette boîte conservera sa collation jusquà lheure de la récré
+- Eau de toilette 50 ml : cette eau de toilette à limage des plus belles princesses parfumera délicatement la peau de votre petite fille de sa délicieuse senteur de fraise. Elle convient parfaitement pour les enfants à partir de 3 ans
+- Coffret Princesses : plongez dans lunivers enchanteur des Princesses avec ce coffret cadeau pour fille. Surprenez votre enfant avec ce produit qui fait rêver dun royaume lointain. Une idée cosmétique qui fera plaisir, sans aucun doute
+- Gel moussant 3-en-1, 300 ml : ce gel douche nettoie la peau et les cheveux des enfants et il sert également de bain moussant pour le plus grand plaisir des tous petits. Il délivre un agréable parfum fruité. Évite les nœuds, ne pique pas les yeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFFX9S3J{{</world>}}

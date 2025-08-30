@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de produit : SKIN_TREATMENT_MASK
-- Marque : Garnier
 - Garnier Ambre Solaire Masque Après-Soleil Intense Hydratant & Régénérant
+- Marque : Garnier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GR9HB2C{{</world>}}

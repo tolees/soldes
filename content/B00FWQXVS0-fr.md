@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ordonné - La pochette pliable dans la couverture et un élastique pratique assurent lordre. Huit feuilles perforées sont idéales pour retirer ou emporter rapidement et proprement des notes.
-- Écrire à la main, cest penser sur papier. Des pensées naissent des mots, des phrases, des images. Les idées se transforment en projets. Nous écrivons et comprenons, approfondissons, voyons, pensons - avec la main.
-- Clair - Le carnet de notes de haute qualité avec reliure cousue, 2 signets, des autocollants, une table des matières et des numéros de page permet une organisation rapide des idées au bureau ou au quotidien.
 - Multifonctionnel - Que ce soit comme un journal, une liste de tâches, pour stocker des mots de passe, des anniversaires, des calculs ou comme carnet de croquis. Le papier de couleur chamois clair assure une lisibilité agréable.
+- Ordonné - La pochette pliable dans la couverture et un élastique pratique assurent lordre. Huit feuilles perforées sont idéales pour retirer ou emporter rapidement et proprement des notes.
+- Clair - Le carnet de notes de haute qualité avec reliure cousue, 2 signets, des autocollants, une table des matières et des numéros de page permet une organisation rapide des idées au bureau ou au quotidien.
+- Écrire à la main, cest penser sur papier. Des pensées naissent des mots, des phrases, des images. Les idées se transforment en projets. Nous écrivons et comprenons, approfondissons, voyons, pensons - avec la main.
 - Durable - Les 251 pages numérotées au format A5, 14,5 x 21 cm, sont constituées de papier de 80 g/m² contenant des fibres longues de pâte fraîche. Tous nos papiers sont bien sûr certifiés FSC.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Les ensembles LEGO MOVIE 2 sont compatibles avec tous les ensembles de construction LEGO  pour une expérience de construction sans limite
 - Issu de lunivers du film The LEGO Movie 2
 - Construisez le set Movie Maker issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2 et filmez vos propres scènes ou récréez les scènes préférées avec vos enfants
-- Comprend 9 personnages de LA GRANDE AVENTURE LEGO 2 : 3 minifigurines: Emmet, Lucy et Rex, une mini-poupée de Sweet Mayhem, 4 figurines construites en briques: Kitty guerrière, Étoile, la Reine Watevra WaNabi (sous forme de tas de briques), un envahisseur extraterrestre et une figurine de vélociraptor
 - 482 pièces pour les filles et les garçons de 8 ans et plus
+- Comprend 9 personnages de LA GRANDE AVENTURE LEGO 2 : 3 minifigurines: Emmet, Lucy et Rex, une mini-poupée de Sweet Mayhem, 4 figurines construites en briques: Kitty guerrière, Étoile, la Reine Watevra WaNabi (sous forme de tas de briques), un envahisseur extraterrestre et une figurine de vélociraptor
 - Le décor de film mesure plus de 25 cm de haut, 16 cm de large et 28 cm de profondeur Le support de caméra mesure plus de 14 cm de haut, 15 cm de large et 6 cm de profondeur Le buggy d’évasion mesure plus de 5 cm de haut, 1 cm de long et 4 cm de large Le Rexplorer de Rex mesure plus de 4 cm de haut, 7 cm de long et 6 cm de large L’envahisseur extraterrestre mesure plus de 10 cm de haut
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

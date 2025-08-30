@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouton80% Laine
-- 20% Nylon
 - Laine
 - Lavage en machine
+- Bouton80% Laine
+- 20% Nylon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BTYJ88Z2{{</world>}}

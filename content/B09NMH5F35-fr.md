@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enfiler
-- Cuir
 - Plat
+- Cuir
+- Enfiler
 - Synthetic
 
 [🛒 Achète-le!!]({{< param buyurl >}})

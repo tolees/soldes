@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La qualité de ce produit est assurée par une garantie du fabricant de jusqu’à 4 ans
 - Made in Germany : Notre modèle de lampe xénon OSRAM XENARC ORIGINAL D1S répond à des critères de qualité élevés, entre autres à ceux du ministère des transports et est fabriqué en Allemagne avec la certification ECE
-- Luminous flux tolerance: ±15 %
-- Nous recommandons de faire remplacer les lampes XENARC par un spécialiste
+- La qualité de ce produit est assurée par une garantie du fabricant de jusqu’à 4 ans
 - OSRAM XENARC ORIGINAL : La lampe xénon en qualité de l’équipement d’origine (Original Equipment Manufacturer [OEM])
+- Luminous flux tolerance: ±15 %
 - Notre XENARC ORIGINAL comprend une large gamme de produits avec différents types de socles spécialement pour votre phare xénon
+- Nous recommandons de faire remplacer les lampes XENARC par un spécialiste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HWWX7R2{{</world>}}

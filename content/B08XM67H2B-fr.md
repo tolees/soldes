@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DISQUE TOURNANT MOTORISÉ : Inclut pour la toute première fois dans la gamme Beyblade Burst un vortex tournant motorisé au centre de larène Beystadium
-- 2 TOUPIES DE COMPÉTITION : Cest la puissance de Speedstorm avec les toupies à rotation droite Evo Lucius Endbringer (type défense) et Evo Hyperion Flamebringer (type attaque). On scanne le code sur les toupies et larène pour déverrouiller lappli
 - CONFRONTER LE VORTEX MOTORISÉ : La zone dénergie motorisée au centre de larène Beystadium relance le combat et dynamise les toupies pour des attaques intenses à grande vitesse
 - TOUT LE NÉCESSAIRE POUR LE COMBAT : Inclut une arène Beyblade Burst Surge Speedstorm Motor Strike Beystadium, 2 lanceurs à rotation droite/gauche et 2 toupies pour un set de combat Beyblade Burst complet
+- DISQUE TOURNANT MOTORISÉ : Inclut pour la toute première fois dans la gamme Beyblade Burst un vortex tournant motorisé au centre de larène Beystadium
+- 2 TOUPIES DE COMPÉTITION : Cest la puissance de Speedstorm avec les toupies à rotation droite Evo Lucius Endbringer (type défense) et Evo Hyperion Flamebringer (type attaque). On scanne le code sur les toupies et larène pour déverrouiller lappli
 - POUR ENFANTS, À PARTIR DE 8 ANS : Des combats en face à face avec les toupies, les lanceurs et les arènes Beyblade Burst (vendus séparément, dans la limite des stocks) pour garçons et filles. Dès 8 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

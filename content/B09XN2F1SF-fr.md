@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crème
-- Mascara 99% dingrédients dorigine naturelle Vegan Formule soin Longue tenue
-- Résistant à leau
 - Noir
+- Résistant à leau
+- Mascara 99% dingrédients dorigine naturelle Vegan Formule soin Longue tenue
+- Crème
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XN2F1SF{{</world>}}

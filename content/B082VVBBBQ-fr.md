@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FORMULE 100 % VEGAN AU CHARBON : Vegan et approuvé par Cruelty Free, ce soin du visage contient du BHA exfoliant (acide salicylique) et du charbon dorigine naturelle, des ingrédients aux bienfaits purifiants pour la peau.
-- UNE PEAU PURIFIÉE ET NETTE : Ce masque visage cible les points noirs et lexcès de sébum. Dès la première utilisation, la peau semble plus nette et purifiée. Après 4 semaines, les pores sont resserrés et les points noirs ont diminué.*
-- MASQUE PEEL-OFF AU CHARBON : Découvrez le masque pour le visage Garnier au charbon dorigine naturelle. Efficace sur la zone T (nez, front et menton), il désobstrue les pores et réduit les impuretés pour une peau éclatante au quotidien.
 - CONSEILS DAPPLICATION : Nettoyez et séchez votre visage puis appliquez une couche du masque sur la zone T (nez, front et menton). Après 20 à 30 min de pose, décollez-le en commençant par les extrémités et rincez lexcédent si nécessaire.
+- MASQUE PEEL-OFF AU CHARBON : Découvrez le masque pour le visage Garnier au charbon dorigine naturelle. Efficace sur la zone T (nez, front et menton), il désobstrue les pores et réduit les impuretés pour une peau éclatante au quotidien.
 - EMBELLISSEZ VOTRE PEAU AVEC GARNIER SKIN ACTIVE : Révélez une peau fraîche et saine grâce à Skin Active, une gamme dédiée aux soins du visage, formulée avec des ingrédients naturels, pour embellir toutes les peaux.
+- UNE PEAU PURIFIÉE ET NETTE : Ce masque visage cible les points noirs et lexcès de sébum. Dès la première utilisation, la peau semble plus nette et purifiée. Après 4 semaines, les pores sont resserrés et les points noirs ont diminué.*
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082VVBBBQ{{</world>}}

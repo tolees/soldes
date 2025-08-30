@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connexion filaire : aucune pile ni recharge nécessaire. Prise jack de 3,5 mm avec angle droit pour un résultat plus compact.
+- Micro intégré au câble : discutez avec votre équipe et coupez le micro via un commutateur
 - Ergonomique : conception intra-auriculaire avec 3 embouts interchangeables afin de trouver la taille adaptée
+- Organisateur de câble : curseur réglable pour éviter que le fil ne semmêle lors de lutilisation des écouteurs ou de leur rangement
+- Garantie limitée de 2 ans
+- Connexion filaire : aucune pile ni recharge nécessaire. Prise jack de 3,5 mm avec angle droit pour un résultat plus compact.
 - Sous licence officielle pour Nintendo Switch
 - Rangement : comprend une pochette à cordon pour protéger vos écouteurs lorsque vous ne les utilisez pas
 - Transducteurs dynamiques : transducteurs de 8 mm pour profiter du son de vos jeux préférés
-- Micro intégré au câble : discutez avec votre équipe et coupez le micro via un commutateur
-- Organisateur de câble : curseur réglable pour éviter que le fil ne semmêle lors de lutilisation des écouteurs ou de leur rangement
-- Garantie limitée de 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CT5C1YF1{{</world>}}

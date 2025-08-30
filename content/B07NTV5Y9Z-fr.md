@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Boutons pression intelligents: utilisez le Bluetooth et lapplication Canon Mini Print pour imprimer des images depuis votre smartphone, avec beaucoup doptions de filtre et de collage. Vous pouvez également utiliser lapplication pour programmer la caméra avec des sons personnalisables et le réglage retardateur pour une pose parfaite de limage.
 - Imprimez, décollez et collez – Avec 10 feuilles de papier dimpression ZinkTM à dos collant, anti-déchirure, il est facile de pointer, imprimer et décorer vos effets personnels avec vos photos préférées.
-- Selfies PARTAGABLES: un miroir avant et un anneau lumineux garantissent que vos selfies sont spectaculaires, tandis que la fonction déclencheur à distance de lapplication Canon Mini Print rend les photos de groupe un jeu denfant.
 - max_focal_length; 25.4 millimeters
 - Solution élégante – Disponible en noir mat, blanc nacré et or rose, cette imprimante dappareil photo légère est le compagnon portable parfait et se glisse facilement dans une poche ou un sac.
+- Selfies PARTAGABLES: un miroir avant et un anneau lumineux garantissent que vos selfies sont spectaculaires, tandis que la fonction déclencheur à distance de lapplication Canon Mini Print rend les photos de groupe un jeu denfant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NTV5Y9Z{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vous pouvez contrôler facilement la notification, répondre aux paroles ou aux paroles en pause de la musique : tout sans toucher lécran.
-- COMPATIBILITÉ DES APPAREILS : Létui portefeuille SAMSUNG Galaxy S23 Ultra S-View est compatible avec le smartphone SAMSUNG Galaxy S23 Ultra.
 - Accessoire officiel Samsung conçu pour le Galaxy S23 Ultra
+- COMPATIBILITÉ DES APPAREILS : Létui portefeuille SAMSUNG Galaxy S23 Ultra S-View est compatible avec le smartphone SAMSUNG Galaxy S23 Ultra.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM59RKNM{{</world>}}

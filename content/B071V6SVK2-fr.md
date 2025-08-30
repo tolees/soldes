@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériel spécial gaming
 - Capacité de stockage: 6000 go
 - Matériel de haute qualité
-- Matériel spécial gaming
 - Vitesse de lecture: 5400 tr/min
 - Traitement à double cœur
 

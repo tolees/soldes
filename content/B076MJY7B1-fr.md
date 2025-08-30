@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour bébés de 6 à 36 mois
 - Peluche à câliner qui apprendra à bébé plus de 100 mots et lui fera découvrir plus de 75 chansons, sons, mélodies et phrases
-- Les 3 niveaux d’apprentissage Éveil Progressif font découvrir à bébé les parties du corps humain, les formes, l’alphabet, le comptage et plus
+- Pour bébés de 6 à 36 mois
 - Les mains, le pied, l’oreille et le cœur lumineux de Puppy réagissent au toucher de bébé (5 points d’activation en tout !)
+- Les 3 niveaux d’apprentissage Éveil Progressif font découvrir à bébé les parties du corps humain, les formes, l’alphabet, le comptage et plus
 - Appuyez longuement sur le cœur lumineux de Puppy pour écouter toutes ses chansons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

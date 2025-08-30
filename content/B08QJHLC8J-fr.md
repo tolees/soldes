@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie TurboWrite pour profiter des performances maximales du 980 PRO
-- Installation sans outil nécessaire en quelques minutes avec le format M.2
 - 12,7x plus rapide quun SSD classique grâce à linterface PCIe 4.0 . Température de fonctionnement :0 - 70 ℃
+- Installation sans outil nécessaire en quelques minutes avec le format M.2
 - Jouer pendant des heures sans risque de surchauffe grâce au système de contrôle thermique complet SAMSUNG
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 

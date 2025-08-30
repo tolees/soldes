@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception compacte dans votre poche
 - Drives jusquà 128 Go peuvent contenir vos données les plus importantes
 - Transport de fichiers personnels importants, de musique et de vidéo
+- Conception compacte dans votre poche
 - Le mot de passe du logiciel SanDisk SecureAccess protège vos fichiers
 
 [🛒 Achète-le!!]({{< param buyurl >}})

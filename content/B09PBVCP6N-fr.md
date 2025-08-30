@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le realme 9 Pro vous permet de faire fonctionner deux cartes SIM 5G en même temps.
-- Processeur Qualcomm Snapdragon 695 5G & Procédé de gravure en 6 nm
-- Batterie massive de 5 000 mAh & Charge Dart 33 W
 - Appareil photo Nightscape de 64 MP & Appareil photo Selfie de 16 MP
 - rafraîchissement de 120 Hz et une fréquence déchantillonnage tactile de 240 Hz
+- Batterie massive de 5 000 mAh & Charge Dart 33 W
+- Processeur Qualcomm Snapdragon 695 5G & Procédé de gravure en 6 nm
+- Le realme 9 Pro vous permet de faire fonctionner deux cartes SIM 5G en même temps.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09PBVCP6N{{</world>}}

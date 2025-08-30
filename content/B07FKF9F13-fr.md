@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Liberte de mouvement absolue
-- Haute qualite
 - Marque: Nike
+- Liberte de mouvement absolue
 - Confort de port eleve
+- Haute qualite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FKF9F13{{</world>}}

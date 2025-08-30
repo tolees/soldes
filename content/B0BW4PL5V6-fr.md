@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Châssis compact - Le format Mini-ITX avec un volume de seulement 24,4 litres garantit un encombrement minimal sur ou sous votre bureau, avec des dimensions de 271 mm x 200 mm x 450 mm
-- Quatre ventilateurs CORSAIR inclus - 3x ventilateurs CORSAIR SP120 RGB ELITE équipés de la technologie AirGuide pour un refroidissement concentré et de huit LED RGB paramétrables individuellement par ventilateur, ainsi qu’un ventilateur PWM CORSAIR AF120 SLIM de seulement 15 mm d’épaisseur
 - Support pour carte graphique à trois slots - Installez aisément une carte graphique à trois slots mesurant jusqu’à 320 mm de long pour obtenir un système hautes performances occupant un minimum d’espace
-- Refroidissement ITX extrême - L’intérieur aux performances de refroidissement optimales permet d’accueillir jusqu’à neuf ventilateurs de 120 mm ou deux ventilateurs de 140 mm ainsi que plusieurs radiateurs, dont un de 360 mm sur le côté et un de 240 mm à l’arrière (selon la taille de la carte graphique)
+- Quatre ventilateurs CORSAIR inclus - 3x ventilateurs CORSAIR SP120 RGB ELITE équipés de la technologie AirGuide pour un refroidissement concentré et de huit LED RGB paramétrables individuellement par ventilateur, ainsi qu’un ventilateur PWM CORSAIR AF120 SLIM de seulement 15 mm d’épaisseur
 - Panneaux amovibles à flux d’air élevé - Les panneaux maillés en acier à l’avant, sur les côtés et au-dessus assurent une ventilation excellente depuis presque tous les côtés de votre système pour un potentiel de refroidissement maximal
+- Refroidissement ITX extrême - L’intérieur aux performances de refroidissement optimales permet d’accueillir jusqu’à neuf ventilateurs de 120 mm ou deux ventilateurs de 140 mm ainsi que plusieurs radiateurs, dont un de 360 mm sur le côté et un de 240 mm à l’arrière (selon la taille de la carte graphique)
+- Châssis compact - Le format Mini-ITX avec un volume de seulement 24,4 litres garantit un encombrement minimal sur ou sous votre bureau, avec des dimensions de 271 mm x 200 mm x 450 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BW4PL5V6{{</world>}}

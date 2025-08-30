@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Garantit un confort optimal
 - Idéal pour donner une touche décontractée
-- Avec logo
 - Offre une grande liberté de mouvement
+- Avec logo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08SJFH6TD{{</world>}}

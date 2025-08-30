@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Éclairage LED haute qualité
-- Puissance :4 watts
-- Matière :Aluminium
 - Avec son pied chromé et sa peinture blanche,le spot LED pour plafond de Philips myLiving Star dégage une élégance intemporelle Doté dune technologie LED de pointe,ce spot à économie dénergie plongera avec style vos pièces dans une chaude lumière blanche
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique f
+- Matière :Aluminium
+- Puissance :4 watts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B7IIX8K{{</world>}}

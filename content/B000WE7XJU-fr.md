@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Bleu
 - Type de produit: Clé USB Drive 2.0
-- Description du produit: Intenso - Rainbow
-- Dimensions: 65 x 19 x 9 mm
-- Mémoire: 4 Go
-- Poids: 6 g
 - Interface: USB 2.0
 - Taux de transfert: 6,50 MB/s (43x)
+- Couleur: Bleu
+- Poids: 6 g
+- Mémoire: 4 Go
+- Description du produit: Intenso - Rainbow
+- Dimensions: 65 x 19 x 9 mm
 - Système dexploitation: Microsoft Windows 98 / SE / ME / 2000 / XP / Vista
 
 [🛒 Achète-le!!]({{< param buyurl >}})

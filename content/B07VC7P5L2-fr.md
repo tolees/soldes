@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Résistance à leau: 10 atm.
 - Bracelet de cuir, couleur noir, avec fermeture à boucle.
 - Cadran round en couleur noir.
 - Boîtier round de acier inoxydable, couleur doré.
-- Résistance à leau: 10 atm.
 - Montre analogique quartz pour homme.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

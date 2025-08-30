@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie Fabricant: Pas de garantie
 - Câble USB
+- Garantie Fabricant: Pas de garantie
 - Couleur : n/a
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

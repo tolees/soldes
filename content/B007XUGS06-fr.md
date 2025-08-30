@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longue exécution
 - Carré dentraînement interne conforme à DIN 3120ISO 1174 avec réception à bille
+- Longue exécution
 - Douille hexagonale
 - Conforme à la norme DIN 7422
 

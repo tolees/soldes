@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez contre des joueurs du monde entier en cross-play ou à 2 en local en écran partagé
-- Faites l’expérience de l’arcade, un mode de pilotage simplifié accessible dans toutes les catégories de motos et tous les modes de jeu.
 - Enfourchez votre surmontez moto, chaque obstacle et profitez des contenus officiels de la dernière saison de MotoGP
+- Faites l’expérience de l’arcade, un mode de pilotage simplifié accessible dans toutes les catégories de motos et tous les modes de jeu.
+- Jouez contre des joueurs du monde entier en cross-play ou à 2 en local en écran partagé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DYVRH17K{{</world>}}

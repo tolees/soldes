@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas de nouveau câblage nécessaire : il suffit de brancher la lampe dans la prise de courant de votre choix et de connecter chaque lampe classique à votre système Hue.
-- Grâce à son design discret et compact, le Philips Hue Smart Plug sadapte à tous les intérieurs.
-- Profitez dune flexibilité illimitée pour votre système Hue : le connecteur intelligent rend chaque lampe réglable avec hue et complète le réseau Zigbee et Bluetooth. Direction du flux du signal: bidirectionnel
 - Contrôlez la prise intelligente via Bluetooth pour allumer et éteindre vos lampes confortablement. En outre, la commande vocale via Amazon Echo/Echo Dot est possible.
+- Pas de nouveau câblage nécessaire : il suffit de brancher la lampe dans la prise de courant de votre choix et de connecter chaque lampe classique à votre système Hue.
+- Profitez dune flexibilité illimitée pour votre système Hue : le connecteur intelligent rend chaque lampe réglable avec hue et complète le réseau Zigbee et Bluetooth. Direction du flux du signal: bidirectionnel
+- Grâce à son design discret et compact, le Philips Hue Smart Plug sadapte à tous les intérieurs.
 - Pour des fonctions avancées, comme lintégration des lampes dans le minuteur ou la connexion avec des capteurs et interrupteurs, connectez le Smart Plug avec le Hue Bridge.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

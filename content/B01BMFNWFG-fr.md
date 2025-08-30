@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenance/unité : 0,085 kg
+- IAMS Delights, recette savoureuse au poulet et à la dinde en sauce. Aliment de qualité 100% complet , et équilibré pour chat adulte. Une nutrition complète et un goût irrésistible. Sachet fraîcheur indi, viduel de 85 g.
 - Pâtée pour chat en sauce
 - Ingrédients : Viandes et sous-produits animaux (14% poulet, 12% dinde), sous-produits dorigine végétale, substance, es minérales
-- IAMS Delights, recette savoureuse au poulet et à la dinde en sauce. Aliment de qualité 100% complet , et équilibré pour chat adulte. Une nutrition complète et un goût irrésistible. Sachet fraîcheur indi, viduel de 85 g.
+- Contenance/unité : 0,085 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01BMFNWFG{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une toute nouvelle expérience mario
-- Jeu à télécharger - code de téléchargement uniquement, ne contient pas de cartouche de jeu.
-- Une folle aventure tactique
 - Un voyage épique avec huit héros
+- Une toute nouvelle expérience mario
+- Une folle aventure tactique
 - Mario + the lapins crétins kingdom battle code in box switch
+- Jeu à télécharger - code de téléchargement uniquement, ne contient pas de cartouche de jeu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08FCY39D3{{</world>}}

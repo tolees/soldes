@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Valeurs éducatives : imaginer, inventer, créer
 - Age minimum : 5 ans
+- Boîte Cadeau
+- Type de perles : midi
 - Loisir créatif
 - Contenu : Environ 2000 perles, 2 plaques voitures et dinosaures
-- Boîte Cadeau
 - Feuille de modèles en couleur, instruction et papier à repasser
-- Type de perles : midi
-- Valeurs éducatives : imaginer, inventer, créer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01AA0Z5Z4{{</world>}}

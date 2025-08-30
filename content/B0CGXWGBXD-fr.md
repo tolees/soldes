@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prenez une longueur d’avance sur le jeu avec Lenovo AI Engine+, équipé d’une puce IA LA1 pour un système finement réglé qui utilise des capteurs pour améliorer votre expérience de gaming.
-- Les GPU NVIDIA GeForce RTX série 40 pour portable offrent aux joueurs et aux créateurs plus que de la vitesse.
-- L’excellence à l’écran: Vos jeux prendront littéralement vie avec un taux de rafraîchissement variable ultrarapide de 144 Hz, des couleurs fidèles à la réalité et un écran FullHD lumineux de 350 nits
-- Les processeurs Intel Core de 13e Intel génération - Core i5-12450H porteront votre jeu au-delà de la performance et mettront entre vos mains toute la puissance nécessaire.
 - Optimisez votre expérience de gaming sur un écran FHD de 39,62 cm (15,6"). Vos jeux prendront littéralement vie avec un taux de rafraîchissement variable ultrarapide de 165 Hz, des couleurs fidèles à la réalité avec 100 % de la palette sRGB et un écran lumineux de 350 nits.
 - LOQ 15IRH8 présente une conception élégante, robuste et pratique, avec un tableau de bord d’E/S situé à l’arrière, emblématique du gaming. Il est doté d’un large éventail de ports facilement accessibles et d’une esthétique épurée. Il est disponible en coloris Storm Grey, avec une caméra intégrée 720P ou 1080P équipée d’un cache de confidentialité électronique afin de mieux protéger la vie privée.
 - Jouez à plus de 100 jeux de haute qualité avec votre nouveau portable Lenovo LOQ et trois mois de Xbox Game Pass, y compris EA Play. De nouveaux jeux sont ajoutés en permanence : vous ne serez donc jamais à court de nouvelles aventures. Téléchargez et jouez avec un rendu ultrafidèle ou accédez à des jeux de console depuis le Cloud avec une manette connectée.
+- Les processeurs Intel Core de 13e Intel génération - Core i5-12450H porteront votre jeu au-delà de la performance et mettront entre vos mains toute la puissance nécessaire.
+- Les GPU NVIDIA GeForce RTX série 40 pour portable offrent aux joueurs et aux créateurs plus que de la vitesse.
+- L’excellence à l’écran: Vos jeux prendront littéralement vie avec un taux de rafraîchissement variable ultrarapide de 144 Hz, des couleurs fidèles à la réalité et un écran FullHD lumineux de 350 nits
+- Prenez une longueur d’avance sur le jeu avec Lenovo AI Engine+, équipé d’une puce IA LA1 pour un système finement réglé qui utilise des capteurs pour améliorer votre expérience de gaming.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CGXWGBXD{{</world>}}

@@ -32,8 +32,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - La McLaren F1 LM, un jouet de voiture de course, arbore sa couleur orange papaye distinctive, avec un siège de pilote central et des conduits de refroidissement des deux côtés
 - Le monde de la course automobile attend les amateurs de voitures de sport avec dautres sets LEGO Speed Champions comme la Ferrari 812 Competizione (76914) et la Porsche 963 (76916)
 - Parfait pour organiser des courses à grande vitesse, le kit de construction de maquette de voiture comprend également 2 minifigurines de pilote - 1 pour chaque jouet de voiture
-- Ce double set LEGO Speed Champions comprend 2 répliques de jouet de voitures à construire et à exposer : McLaren Solus GT et McLaren F1 LM
 - La maquette de la voiture jouet Solus GT comprend également des détails de la version réelle : schéma de couleurs blanc, noir et orange, passages de roues et cockpit en relief
+- Ce double set LEGO Speed Champions comprend 2 répliques de jouet de voitures à construire et à exposer : McLaren Solus GT et McLaren F1 LM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}

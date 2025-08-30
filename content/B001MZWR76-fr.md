@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sans additifs chimiques
-- La seule litière qui peut être jetée dans les toilettes
 - Biodégradable et écologique
-- Litière végétale ultra absorbante
 - Sans odeurs
+- La seule litière qui peut être jetée dans les toilettes
+- Litière végétale ultra absorbante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001MZWR76{{</world>}}

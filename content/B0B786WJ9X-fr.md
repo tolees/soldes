@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- True Sound : Cette enceinte sans fil compacte tient dans la paume de votre main, mais offre toute la puissance dune enceinte Yamaha à part entière, avec une autonomie allant jusquà 12 heures
 - Articles livrés : 1 x enceinte Bluetooth portable Yamaha WS-B1A en gris clair avec un filetage 1/4-20 UNC pour une fixation murale et une autonomie de 12 heures, 1 x câble de chargement USB-C
+- Un design élégant : Un design capable de sublimer nimporte quel intérieur ; Noir classique, chic et tendance, Gris Carbone aux notes roses argenté ou Gris Clair, idéal pour les espaces lumineux
+- True Sound : Cette enceinte sans fil compacte tient dans la paume de votre main, mais offre toute la puissance dune enceinte Yamaha à part entière, avec une autonomie allant jusquà 12 heures
 - Une enceinte portable puissante : Nous avons utilisé notre savoir-faire et expertise sonore pour que la musique fasse partie intégrante de votre vie, pour une écoute occasionnelle ou immersive
 - Étanche et robuste : Avec son design étanche à la poussière et à leau (IP67), vous pouvez emmener cette enceinte partout, pour écouter votre musique sans vous soucier des dégâts causés par leau
-- Un design élégant : Un design capable de sublimer nimporte quel intérieur ; Noir classique, chic et tendance, Gris Carbone aux notes roses argenté ou Gris Clair, idéal pour les espaces lumineux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B786WJ9X{{</world>}}

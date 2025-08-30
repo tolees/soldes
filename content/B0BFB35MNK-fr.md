@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Invitez une autre personne à jouer et relevez à deux une multitude de défis amusants et originaux
 - Incarnez Cody et May un couple au bord de la rupture transformé en poupées par un sortilège
+- Invitez une autre personne à jouer et relevez à deux une multitude de défis amusants et originaux
 - SUR NINTENDO SWITCH – Le jeu que les fans daventure adorent débarque sur Nintendo Switch ! Avec un ami vous pouvez jouer en coop locale avec une paire de manettes Joy- Con ou une manette par personne utiliser le mode sans fil local en connectant deux consoles Nintendo Switch ou jouer en coopération en ligne avec un autre joueur Nintendo Switch grâce au Pass ami*
 
 [🛒 Achète-le!!]({{< param buyurl >}})

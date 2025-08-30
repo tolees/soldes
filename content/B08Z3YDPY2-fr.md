@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 % Polyester
-- dryCELL : technologie PUMA dont les propriétés dévacuation de lhumidité assurent confort et fraîcheur durables
 - Logo PUMA CAT appliqué par transfert de chaleur sur la jambe gauche
-- Regular Fit
+- 100 % Polyester
 - Taille élastique avec cordon de serrage
+- Regular Fit
+- dryCELL : technologie PUMA dont les propriétés dévacuation de lhumidité assurent confort et fraîcheur durables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Z3YDPY2{{</world>}}

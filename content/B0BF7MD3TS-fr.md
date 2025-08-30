@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aucune vibration du caisson
-- Son optimisé grâce à Trueplay
-- Design dexception
 - Versatile. Il trouve sa place partout, à plat ou à la verticale
+- Aucune vibration du caisson
+- Design dexception
+- Son optimisé grâce à Trueplay
 - Ajoute des basses profondes et puissantes à toutes les enceintes Sonos (ou composants amplifiés)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
