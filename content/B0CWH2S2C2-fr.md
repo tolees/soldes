@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO ǀ Disney Encanto La Maison Magique des Madrigal  Set de Construction pour Enfants avec Une Mini-poupée Mirabel  Jouet Amusant pour Les Filles et Garçons de 7 Ans et Plus 43245'
+date: 2025-08-16 21:17:14
+image: 'https://m.media-amazon.com/images/I/51GCpfdpT7L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CWH2S2C2-fr LEGO ǀ Disney Encanto La Maison Magique des Madrigal Set...'
+sku: 'B0CWH2S2C2-fr'
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
+actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
+comparePrice: 159.99 EUR
+prodname: 'LEGO ǀ Disney Encanto La Maison Magique des Madrigal  Set de Construction pour Enfants avec Une Mini-poupée Mirabel  Jouet Amusant pour Les Filles et Garçons de 7 Ans et Plus 43245'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.fr/dp/B0CWH2S2C2/?tag=tolees0d-21'
+descuento: '25.00'
+average: '107.99'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Set de construction LEGO créatif – Les enfants peuvent créer les différentes pièces, puis les combiner pour rejouer des scènes du film Encanto ou imaginer de nouvelles histoires créatives pour jouer seul, entre amis ou en famille
+- Jouet de construction de la maison Encanto Disney pour enfants – Offrez aux filles et aux garçons de 7 ans et plus le set à construire La maison magique des Madrigal, qui regorge de détails et de fonctions inspirant une infinité de jeux magiques
+- 8 pièces pour jouer – Ce set de construction LEGO ǀ Disney recrée la maison des Madrigal dans un modèle coloré composé de 9 sections favorisant la construction en famille, et inclut de nombreux détails et fonctions inspirés du film
+- Personnages d’Encanto de Disney – 6 mini-poupées LEGO ǀ Disney : Abuela, Mirabel, Isabela, Dolores, Luisa et Camilo, une micro-poupée LEGO ǀ Disney d’Antonio et 2 figurines d’animaux LEGO ǀ Disney pour un jeu interactif dans la maison Madrigal
+- Cadeau Disney pour les enfants dès 7 ans – Un set de construction incluant des personnages, des lieux et des accessoires bien connus qui constitue un cadeau amusant pour les filles, les garçons et les fans du film et inspire une infinité de jeux
+- Développer des compétences essentielles – Ce set de construction incluant 7 personnages LEGO ǀ Disney du film et 2 figurines d’animaux LEGO ǀ Disney, 8 pièces et des éléments inspirants permet de développer des compétences essentielles par le jeu
+- Aide à la construction – Découvrez les instructions intuitives de l’application LEGO Builder, où les jeunes constructeurs peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et sauvegarder leurs sets
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0CWH2S2C2{{</world>}}
