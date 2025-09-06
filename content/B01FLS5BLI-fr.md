@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance max: 3500W
-- Bloc multiprise 3 prises 16A + interrupteur fiche plate
 - Câble HO5 VV-F section 3G1 mm² longueur 1, 5 m
+- Bloc multiprise 3 prises 16A + interrupteur fiche plate
+- Puissance max: 3500W
 - Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

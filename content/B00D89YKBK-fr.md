@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajoutez jusqu’à 3 Modules Additionnels à votre Station Météo Netatmo
-- Optimisez votre bien-être en fonction des mesures collectées dans la pièce
 - Soyez alerté par notifications lors d’un changement dans l’environnement de cette pièce
+- Optimisez votre bien-être en fonction des mesures collectées dans la pièce
 - Visualisez l’historique de la pièce et les graphiques depuis l’application
 - Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
+- Ajoutez jusqu’à 3 Modules Additionnels à votre Station Météo Netatmo
 - Accédez aux mesures de température, de concentration en CO2 et d’humidité d’une autre pièce en temps réel sur votre smartphone
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finition lisse
 - Plaque monogramme th sur le passant
 - Branding tommy hilfiger
 - Cuir
+- Finition lisse
 - Boucle ronde en métal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

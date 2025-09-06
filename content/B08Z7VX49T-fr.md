@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du colis de larticle 10.0 cm
-- Largeur du colis de larticle 20.0 cm
 - Longueur du colis de larticle 30.0 cm
 - Poids du colis de larticle 1.0 kg
+- Largeur du colis de larticle 20.0 cm
+- Hauteur du colis de larticle 10.0 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Z7VX49T{{</world>}}

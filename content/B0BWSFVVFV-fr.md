@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notes de cœur : Notes tropicales, gourmandes.
 - Notes de tête : Mandarine, héliotrope, orchidée.
+- Notes de cœur : Notes tropicales, gourmandes.
 - Notes de fond : Vanille, bois de santal, musc.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

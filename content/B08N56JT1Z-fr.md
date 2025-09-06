@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception tout
-- and
 - Il est de votre responsabilité dutiliser des ampoules LED Retrofit conformément aux exigences légales applicables
-- Une durée de vie allant jusquà 3,000 heures
-- en
-- Jusquà 160% de luminosité en plus*
-- Lutilisation dampoules LED comme remplacement des sources lumineuses conventionnelles peut, dans de rares cas, entraîner des problèmes tels que le scintillement, avertissement sur le tableau de bord ou la nécessité dutiliser des bagues de raccordement pour certains modèles de voiture
 - 5,800K température de couleur pour une lumière blanche vive
 - play
+- Une durée de vie allant jusquà 3,000 heures
+- Lutilisation dampoules LED comme remplacement des sources lumineuses conventionnelles peut, dans de rares cas, entraîner des problèmes tels que le scintillement, avertissement sur le tableau de bord ou la nécessité dutiliser des bagues de raccordement pour certains modèles de voiture
+- Conception tout
+- Jusquà 160% de luminosité en plus*
+- en
+- and
 - un compacte pour une utilisation plug
 
 [🛒 Achète-le!!]({{< param buyurl >}})

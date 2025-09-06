@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche kangourou.
-- Capuche réglable par cordon de serrage.
 - Chaussant standard.
+- Poche kangourou.
 - base et bords côtelés.
+- Capuche réglable par cordon de serrage.
 - 70 % coton, 30 % polyester (recyclé).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

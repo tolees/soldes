@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tout comme dans un Escape Game, les enfants devront résoudre les énigmes cachées dans les 3 aventures différentes qui se déroulent dans lespace, dans la tombe du Pharaon et dans un chteau
 - Age confeillé: 6 ans et plus. Fabriqué en Italie
+- Contenu : 3 planches, 66 cartes, 20 fiches, 3 boîtes de rangement, 1 filtre rouge, 8 objets et 1 manuel dinstructions
 - Un jeu de logique fascinant à découvrir qui permettra aux petits enquêteurs de résoudre leurs premières énigmes
 - Un jeu de cartes est associé à chaque aventure avec des énigmes à résoudre. Le but du jeu est de résoudre pas à pas toutes les énigmes de chaque scénario
-- Contenu : 3 planches, 66 cartes, 20 fiches, 3 boîtes de rangement, 1 filtre rouge, 8 objets et 1 manuel dinstructions
+- Tout comme dans un Escape Game, les enfants devront résoudre les énigmes cachées dans les 3 aventures différentes qui se déroulent dans lespace, dans la tombe du Pharaon et dans un chteau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083KYGRNH{{</world>}}

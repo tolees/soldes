@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Knipex Pince pour installations électriques noire atramentisée, avec gaines bi-matière, avec œillet intégré pour fixation d’un dispositif antichute 200 mm (carte LS/blister) 13 82 200 T BK
-- Pour saisir les formes plates et rondes, plier, ébavurer, couper les câbles, dénuder les conducteurs et sertir les embouts
-- 6 fonctions en une seule pince
 - Surfaces de préhension et zone serre-tubes pour saisie de formes plates et rondes
 - Pince multifonctions pour installations électriques
+- 6 fonctions en une seule pince
+- Pour saisir les formes plates et rondes, plier, ébavurer, couper les câbles, dénuder les conducteurs et sertir les embouts
 - Becs à bout lisse pour saisie sans endommagement de conducteurs individuels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

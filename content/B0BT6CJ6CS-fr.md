@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respecte le cheveu grâce au masque violet déjaunisseur, Le violet étant la couleur opposée au jaune et à l’orange, la formule enrichie en pigments violets neutralise instantanément les reflets jaunes et oranges indésirables semaine après semaine, Les cheveux sont nourris durablement et profondément
 - Respecte le cheveu grâce à la crème colorante protectrice, Enrichie en Pro-Kératine et actifs de sérum protecteur qui préservent le cheveu pendant la coloration, La couleur est riche, intense, naturelle et de longue durée
 - Respecte le cuir chevelu grâce au shampooing soin violet post coloration au Ph doux, Il nettoie délicatement le cuir chevelu et les cheveux du surplus de coloration, La fibre capillaire est lissée pour en révéler toute la brillance
+- Respecte le cheveu grâce au masque violet déjaunisseur, Le violet étant la couleur opposée au jaune et à l’orange, la formule enrichie en pigments violets neutralise instantanément les reflets jaunes et oranges indésirables semaine après semaine, Les cheveux sont nourris durablement et profondément
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT6CJ6CS{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque :Cet article est peu extensible.
 - Noir
 - Forces de lordre - Marine
+- Remarque :Cet article est peu extensible.
 - Petite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

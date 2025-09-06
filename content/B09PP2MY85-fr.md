@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une crème éclaircissante du contour de lœil associant soin de la peau et cosmétique, offrant des avantages à court et à long terme
 - Contenu : 1 X The INKEY List Brighten-I Eye Cream éclaircit instantanément les cernes sous les yeux 15 ml
 - Quatre fois plus puissante que la vitamine C, la crème contour des yeux Brighten-I réduit lapparition des cernes noirs et aide à illuminer et préparer la zone du contour des yeux pour un coup de pouce instantané ou une base de maquillage idéale
-- Une crème éclaircissante du contour de lœil associant soin de la peau et cosmétique, offrant des avantages à court et à long terme
 - Idéale comme base illuminatrice du contour de lœil avant le correcteur ou pour les jours sans maquillage. Appliquez-la matin et soir. Appuyez doucement sur le tube et placez une petite quantité de produit sous lœil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Casque de type bandeau léger, conception pliable, diaphragmes de 30 mm, sensibilité 98 dB/mW
 - Diaphragmes en néodyme de 30 mm
 - Design pliable compact
-- Casque de type bandeau léger, conception pliable, diaphragmes de 30 mm, sensibilité 98 dB/mW
 - Gamme de fréquences 10-24 000 Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})

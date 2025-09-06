@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort et légèreté : poignée ergonomique et tambour en plastique
-- Permet un rangement rapide et optimal de votre rallonge
 - Utilisez-le en toute sécurité : conforme aux normes EN 61242 et NF C61-314
 - Sécurité assurée grâce au coupe circuit thermique
+- Confort et légèreté : poignée ergonomique et tambour en plastique
+- Permet un rangement rapide et optimal de votre rallonge
 - Sa peinture protectrice et son socle métal en font un produit résistant et durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

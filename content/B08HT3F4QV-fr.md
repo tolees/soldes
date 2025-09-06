@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Retrouvez la lumière blanche et chaude des ampoules à incandescence
-- Meilleur pour votre portefeuille et pour la planète
-- Ampoule LED longue durée de vie
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
+- Ampoule LED longue durée de vie
+- Meilleur pour votre portefeuille et pour la planète
 - Éclairage instantané, dès lallumage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

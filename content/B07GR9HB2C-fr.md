@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Ambre Solaire aftersun Masque hydratant et régénérant'
-date: 2025-08-09 00:58:06
+date: 2025-09-06 12:15:23
 image: 'https://m.media-amazon.com/images/I/51LvC4fTIyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Marque : Garnier
-- Garnier Ambre Solaire Masque Après-Soleil Intense Hydratant & Régénérant
 - Type de produit : SKIN_TREATMENT_MASK
+- Garnier Ambre Solaire Masque Après-Soleil Intense Hydratant & Régénérant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GR9HB2C{{</world>}}

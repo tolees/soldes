@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement
-- 1 grand-mère lapin chocolat
 - 1 grand-père lapin chocolat en tenue de capitaine de navire
 - Descriptif produit: Nouveaux grands-parents Lapin chocolat, avec de nouveaux habits
+- 1 grand-mère lapin chocolat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00S6DCS76{{</world>}}

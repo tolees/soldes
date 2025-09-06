@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rétrocompatible avec les appareils UHS-I. Jusquà 300MB/s en lecture, 260MB/s en écriture
+- Capture des images de haute qualité et des vidéos de longue durée en Full-HD et des vidéos 4K de qualité cinématographique
 - Assistance produit limitée à vie
 - Performances à haute vitesse—Tire parti de la technologie UHS-II (U3) pour une vitesse de transfert en lecture allant jusquà 300 Mo/s (2000x)
-- Capture des images de haute qualité et des vidéos de longue durée en Full-HD et des vidéos 4K de qualité cinématographique
 - Conçues pour durer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

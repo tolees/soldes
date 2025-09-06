@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Veste confortable pour un usage quotidien. Pour toute saison, seule ou sous des vêtements plus épais.
-- Matériau léger, se range dans une poche, lavable en machine, disponible en plusieurs couleurs
-- Contents: 1x Columbia Veste Coupe-vent Trail Traveler pour Homme, S, Black (Noir)
 - Technologie Omni-Shade avec protection solaire UPF 40, capuche réglable par cordon de serrage pour se protéger des éléments.
 - Zip pratique sur toute la longueur, 2 poches zippées pour des mains chaudes et sécurisées, poignets élastiques pour un ajustement optimal et pour empêcher lair de pénétrer.
+- Contents: 1x Columbia Veste Coupe-vent Trail Traveler pour Homme, S, Black (Noir)
+- Matériau léger, se range dans une poche, lavable en machine, disponible en plusieurs couleurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5LSSFHM{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Processeur Snapdragon 5G puissant Gravure en 6nm, compatible 5G
 - Charge rapide 33W Batterie longue autonomie de 5000 mAh (typ)
 - Écran AMOLED 120Hz ultra-fluide Verre résistant Corning Gorilla
+- Processeur Snapdragon 5G puissant Gravure en 6nm, compatible 5G
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BY6PLDZ1{{</world>}}

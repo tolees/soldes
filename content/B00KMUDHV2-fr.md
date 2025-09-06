@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composé de la robe, de la ceinture et des couvre bottes.
 - 100% polyester
 - Présenté dans sa housse de rangement à suspendre.
+- Composé de la robe, de la ceinture et des couvre bottes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KMUDHV2{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Ball Pentel R50-A Feutre a bille 0 8 mm Encre Noire Pack de 12'
-date: 2025-08-31 18:13:22
+date: 2025-09-06 12:48:22
 image: 'https://m.media-amazon.com/images/I/41cjyDsjusL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B000J6D3HM/?tag=tolees0d-21'
 descuento: '37.79'
-average: '13.6826785714285'
+average: '13.6246551724138'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ecriture douce, grand confort décriture
+- Pointe en plastique de 0,4mm
 - Feutre à bille Pentel R50
 - Encre verte
-- Pointe en plastique de 0,4mm
-- Ecriture douce, grand confort décriture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000J6D3HM{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque - LOréal
 - Réf. - 3474630258778
+- Marque - LOréal
 - Contenu - 250 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

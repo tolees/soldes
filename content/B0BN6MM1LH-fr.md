@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Matériau extérieur : synthétique
-- Matériau intérieur : synthétique
 - Fermeture : fermeture Velcro
+- Forme du talon : plat
+- Matériau intérieur : synthétique
+- Matériau extérieur : synthétique
 - Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

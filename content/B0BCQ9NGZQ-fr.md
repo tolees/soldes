@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Survivez à lenfer de L.A. : Plongez dans cette ville mythique, et explorez les quartiers emblématiques de la cité des anges noyés dans le sang !
 - La HELL-A Edition comprend un SteelBook, Pass dextension, Carte de voyage de Venice Beach, 6 cartes de tarot des tueurs, 2 pins, 1 écusson, Pack Armes de série B, Pack Armes dorées.
+- Survivez à lenfer de L.A. : Plongez dans cette ville mythique, et explorez les quartiers emblématiques de la cité des anges noyés dans le sang !
 - Massacre à partager : Profitez d’un mode coop démesuré jusquà trois personnes : votre séjour sanglant à Los Angeles est bien parti pour durer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

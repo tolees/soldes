@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort maximal
-- Détails recherchés
 - Ergonomique
+- Détails recherchés
+- Confort maximal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CSKNVZZC{{</world>}}

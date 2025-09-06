@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Glow* effet peau nue (*éclat)
 - Texture fraîche et ultra sensorielle
 - Formulée avec un mélange de vitamines E et B5 pour offrir
+- Glow* effet peau nue (*éclat)
 - Jusquà 24 heures dhydratation
 - Formule composée à 98 % dingrédients naturels
 - Disponible dans 6 teintes modulables pour toutes les carnations.

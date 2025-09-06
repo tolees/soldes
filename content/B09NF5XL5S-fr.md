@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 150 OBSTACLES - Perplexus fait son retour avec le casse tête Perplexus Portal et ses 150 défis à réaliser ; Franchirez-vous tous les obstacles ? 3 points de départ différents permettent de découvrir les 3 niveaux ; Attention, la bille ne doit pas tomber
 - JOUET ENFANT 8 ANS ET + - La boule labyrinthe PERPLEXUS PORTAL convient aux enfants à partir de 8 ans ; jeu enfant casse tête enfant jouet Perplexus ; 1 socle est fourni pour exposer votre nouveau casse-tête sphérique
-- 3 BOUTONS ET 50 PORTAILS - 50 portes magiques déverrouillent des chemins pour conduire à de nouveaux défis et obstacles ; Utilisez les 3 boutons placés à lextérieur de la sphère pour les débloquer ; 1 bouton révèle un compartiment de rangement secret
 - CADEAU ENFANT - Pour un anniversaire ou Noël offrez le jouet casse-tête Perplexus Portal ; la version idéale pour que petits et grands se lancent dans un niveau de difficulté supérieure Perplexus
-- PERPLEXUS - Perplexus est à la fois un casse-tête et un jeu d’habileté diabolique, innovant et addictif ; Ce jouet est un jeu casse tête qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
-- IDÉAL POUR SOULAGER LE STRESS - Occupez-vous les mains et lesprit avec le casse tête Perplexus; Le jouet Perplexus constitue un excellent jeu sensoriel aux vertus pédagogiques pour les personnes atteintes dautisme et adoré des enfants comme des adultes
 - LABYRINTHE 3D - Un labyrinthe en 3 dimensions contenu dans 1 sphère transparente que le joueur doit manipuler dans tous les sens pour faire progresser une bille à travers le parcours ; La moindre erreur est fatale, relevez le défi et testez votre talent
+- 3 BOUTONS ET 50 PORTAILS - 50 portes magiques déverrouillent des chemins pour conduire à de nouveaux défis et obstacles ; Utilisez les 3 boutons placés à lextérieur de la sphère pour les débloquer ; 1 bouton révèle un compartiment de rangement secret
+- IDÉAL POUR SOULAGER LE STRESS - Occupez-vous les mains et lesprit avec le casse tête Perplexus; Le jouet Perplexus constitue un excellent jeu sensoriel aux vertus pédagogiques pour les personnes atteintes dautisme et adoré des enfants comme des adultes
+- 150 OBSTACLES - Perplexus fait son retour avec le casse tête Perplexus Portal et ses 150 défis à réaliser ; Franchirez-vous tous les obstacles ? 3 points de départ différents permettent de découvrir les 3 niveaux ; Attention, la bille ne doit pas tomber
+- PERPLEXUS - Perplexus est à la fois un casse-tête et un jeu d’habileté diabolique, innovant et addictif ; Ce jouet est un jeu casse tête qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
 - FACILE À MANIPULER, DIFFICILE À MAÎTRISER - Manipulez le Perplexus Portal dans tous les sens jusquà la ligne darrivée, vous allez devenir accro ; Plusieurs modèles et difficultés Perplexus sont disponibles : Go, Rebel, Beast et Epic (vendus séparément)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

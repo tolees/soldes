@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode Cinématique désormais en 4K Dolby Vision jusqu’à 30 i/s
 - SOS d’urgence par satellite et Détection des accidents, des fonctionnalités de sécurité essentielles
 - iOS 16, qui offre encore plus d’options de personnalisation et multiplie les moyens de communiquer et de partager
-- Écran Super Retina XDR 6,7 pouces
-- Puce A15 Bionic avec GPU 5 cœurs, pour des performances fulgurantes. Connectivité 5G ultra-rapide
+- Mode Cinématique désormais en 4K Dolby Vision jusqu’à 30 i/s
 - Système photo avancé pour des photos brillantes, quel que soit l’éclairage
 - Mode Action, pour des vidéos stables et fluides lorsque vous êtes en mouvement
+- Écran Super Retina XDR 6,7 pouces
 - Design conçu pour durer avec Ceramic Shield et résistance à l’eau
 - Autonomie d’une journée entière et jusqu’à 26 heures de lecture vidéo
+- Puce A15 Bionic avec GPU 5 cœurs, pour des performances fulgurantes. Connectivité 5G ultra-rapide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDJ96YLJ{{</world>}}

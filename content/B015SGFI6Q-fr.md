@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille basse
 - Coton stretch denim
+- Taille basse
 - Denim stretch en coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

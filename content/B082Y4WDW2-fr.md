@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Thermostat réglable jusquà 400c
-- Palette en aluminium pour pizza et livres de recettes inclus
-- Puissance: 1200W
 - Plaque en pierre réfractaire (ø 31 cm)
+- Alimentation: AC 230V ~ 50 Hz
+- Puissance: 1200W
+- Lampe opératoire
 - Double résistance au chauffage dans lacier blindé
 - Minuterie 5 minutes avec signal acoustique
-- Lampe opératoire
-- Alimentation: AC 230V ~ 50 Hz
+- Palette en aluminium pour pizza et livres de recettes inclus
+- Thermostat réglable jusquà 400c
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082Y4WDW2{{</world>}}

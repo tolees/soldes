@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : cuir
-- Semelle : caoutchouc
 - Forme du talon : plat
+- Semelle : caoutchouc
 - Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

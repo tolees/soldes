@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les recharges ACK22207
-- Stylo à bille 1.0mm
-- Compatible avec les Bamboo Folio/Slate (CDS-610, CDS-810) et la Bamboo Spark
 - comprend 1 stylo Ballpoint Pen, 3 recharges Ballpoint BP 1.0 et un guide de mise en route.
+- Stylo à bille 1.0mm
+- Compatible avec les recharges ACK22207
+- Compatible avec les Bamboo Folio/Slate (CDS-610, CDS-810) et la Bamboo Spark
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0778S2LDL{{</world>}}

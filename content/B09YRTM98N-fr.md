@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DTS Virtual : X
-- Système 3.1, 420W, compatible DTS Virtual : X
 - Caisson de basses sans fil
+- DTS Virtual : X
 - Hi Res Audio, Meridian
+- Système 3.1, 420W, compatible DTS Virtual : X
 - Bluetooth, AI Sound Pro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

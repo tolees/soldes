@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran couleur 5cm/2,75" & Conception ergonomique pour un jeu confortable
 - Comprend une dragonne et un manuel dutilisation
-- My Arcade - Pocket Player Contra Premium Edition - Console de Jeu Portable - 2 Jeux en 1
-- Haut-parleur intégré avec contrôle du volume et entrée 3,5 mm pour brancher vos écouteurs
+- Écran couleur 5cm/2,75" & Conception ergonomique pour un jeu confortable
 - Alimenté par 4 piles AAA (non incluses) ou par nimporte quel câble Micro-USB (non inclus)
+- Haut-parleur intégré avec contrôle du volume et entrée 3,5 mm pour brancher vos écouteurs
+- My Arcade - Pocket Player Contra Premium Edition - Console de Jeu Portable - 2 Jeux en 1
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08GF7KZV3{{</world>}}

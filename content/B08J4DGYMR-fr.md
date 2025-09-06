@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les 222 briques et pièces de construction de ce coffret sont compatibles avec tous les coffrets de construction MEGA et d’autres grandes marques
 - Cette figurine de Dracaufeu à construire est articulée et mesure plus de 10 cm.
 - Ce Dracaufeu a des ailes articulées et du feu qui sort de sa gueule et de sa queue.
-- En bonus, un pin’s de Masse Ball.
-- Les 222 briques et pièces de construction de ce coffret sont compatibles avec tous les coffrets de construction MEGA et d’autres grandes marques
 - Idéal à partir de 8 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
+- En bonus, un pin’s de Masse Ball.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08J4DGYMR{{</world>}}

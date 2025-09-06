@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un véhicule authentique
 - Deux personnages en tenues vintage
 - Carrosserie stylisée
 - Larges pneus
+- Un véhicule authentique
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

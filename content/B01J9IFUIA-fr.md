@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Reguliere
 - Manche courte
 - Classique
+- Reguliere
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01J9IFUIA{{</world>}}

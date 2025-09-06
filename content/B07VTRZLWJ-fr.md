@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIGHTSYNC RVB – Léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB
+- LIGHTSPEED sans fil – Cette solution sans fil de qualité professionnelle offre des performances ultra-rapides à un débit de 1 ms. LIGHTSPEED associe performances et une esthétique sobre et sans fil pour votre installation gaming
 - Switchs mécaniques ultra-plats – Les nouveaux switchs gaming hautes performances offrent la vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit. Le switch tactile GL offre un retour de saisie perceptible au seuil de déclenchement. Trois options disponibles: GL tactile, GL linéaire ou GL Clicky
 - Construction premium AL-MG - Le G915 présente une conception exceptionnelle avec un alliage daluminium de qualité aéronautique pour offrir un design incroyablement compact tout en restant robuste et durable
-- LIGHTSPEED sans fil – Cette solution sans fil de qualité professionnelle offre des performances ultra-rapides à un débit de 1 ms. LIGHTSPEED associe performances et une esthétique sobre et sans fil pour votre installation gaming
+- LIGHTSYNC RVB – Léclairage RVB de nouvelle génération synchronise léclairage avec le contenu de vos jeux et médias. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VTRZLWJ{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hersteller Artikelnummer: L1751-00
 - Material: cuir lisse
+- Hersteller Artikelnummer: L1751-00
 - Type: Slipper
 - Farbe: noir
 

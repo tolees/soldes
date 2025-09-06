@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En été, la terrasse permet même dorganiser des barbecues
 - Un grand balcon à létage
 - Les fans de déco peuvent concevoir
+- En été, la terrasse permet même dorganiser des barbecues
 - Le tout en un clin dâ€Å“il grce à lâ€application PLAYMOBIL
 
 [🛒 Achète-le!!]({{< param buyurl >}})

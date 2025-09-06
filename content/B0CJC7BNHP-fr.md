@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Effets lumineux RGB dynamiques et personnalisables
 - Conçue pour des performances optimales
 - Un potentiel doverclocking extrême
-- Effets lumineux RGB dynamiques et personnalisables
 - Kingston FURY Infrared Sync Technology brevetée
 - Certifiée Intel XMP 3.0
 

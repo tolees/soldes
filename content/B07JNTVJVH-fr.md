@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Couleur : Marron
 - Matière : Cuir
-- Saison : Printemps Été
 - Taille : 38 EU
+- Saison : Printemps Été
 - Fermeture : A boucles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

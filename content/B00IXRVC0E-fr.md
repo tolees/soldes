@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protège doigts de 18,5 mm de hauteur pour éviter le risque de blessure
 - Corps en aluminium creux léger et résistant
+- Protège doigts de 18,5 mm de hauteur pour éviter le risque de blessure
 - Longueur: 600 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

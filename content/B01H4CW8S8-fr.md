@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Selle au milieu du pied
-- Cambrion en TPU pour une stabilité accrue
-- Semelle intermédiaire amortissante
 - Semelle extérieure en caoutchouc
 - Tige en cuir synthétique avec détails perforés
+- Semelle intermédiaire amortissante
+- Cambrion en TPU pour une stabilité accrue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01H4CW8S8{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A2 Application Performance Classe 2
-- Vitesse de lecture jusquà 100MB/s
-- Vitesse décriture jusquà 90MB/s
-- Idéale pour les smartphones, tablettes, drones, caméras daction, caméras 360°, DSLRs et plus
 - V30 Video Speed Class idéal pour la vidéo 4K et Full HD
 - Carte microSD de 512 Go + Adaptateur SD inclus
+- Idéale pour les smartphones, tablettes, drones, caméras daction, caméras 360°, DSLRs et plus
+- Vitesse de lecture jusquà 100MB/s
+- A2 Application Performance Classe 2
+- Vitesse décriture jusquà 90MB/s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD4XJLX{{</world>}}

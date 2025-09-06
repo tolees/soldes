@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NES et Super NES : profitez dun catalogue de jeux classiques de la NES et Super NES constamment enrichi.
-- Abonnement de 90 jours pour un seul compte.
 - Ajoutez instantanément jusquà 64 Go despace de stockage supplémentaire
 - Jeu en ligne : faites équipe avec vos amis et affrontez des rivaux du monde entier.
-- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- NES et Super NES : profitez dun catalogue de jeux classiques de la NES et Super NES constamment enrichi.
 - Carte mémoire sous licence Nintendo pour la console Nintendo Switch
+- Abonnement de 90 jours pour un seul compte.
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KXRGM8X{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Carte microSD de 32 Go + adaptateur SD inclus
-- Certifiée Classe 10
 - Idéale pour les smartphones et tablettes
 - Vitesse décriture minimum de 10MB/s
+- Certifiée Classe 10
+- Carte microSD de 32 Go + adaptateur SD inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07R59FHVG{{</world>}}

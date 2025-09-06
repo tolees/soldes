@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage :
 - Légères
+- Rembourrage :
 - Bonne prise en main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

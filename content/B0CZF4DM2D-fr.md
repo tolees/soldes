@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage protecteur
 - Des transitions sans effort
+- Rembourrage protecteur
 - Conduite stable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

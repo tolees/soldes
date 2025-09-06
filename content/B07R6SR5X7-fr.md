@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poignets.
 - Logo
 - Swoosh
-- Poignets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07R6SR5X7{{</world>}}

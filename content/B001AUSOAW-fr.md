@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Suspension micro studio Multi Standard
 - design symétrique
+- Suspension micro studio Multi Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001AUSOAW{{</world>}}

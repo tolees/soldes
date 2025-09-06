@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre à base d’eau et colorants
+- Feutre pinceau bi-pointe : Pointe large 4 mm (trait 0,9 - 5,0 mm) / Pointe fine 2,5 mm (trait 0,3 - 3,0 mm)
 - Pointes souples permettant de réaliser des traits fins à épais
 - Idéal pour croquis, dessins, esquisses, illustrations, mangas, calligraphies
-- Feutre pinceau bi-pointe : Pointe large 4 mm (trait 0,9 - 5,0 mm) / Pointe fine 2,5 mm (trait 0,3 - 3,0 mm)
+- Encre à base d’eau et colorants
 - Encre aquarellable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

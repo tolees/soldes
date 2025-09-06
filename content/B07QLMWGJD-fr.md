@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brossez sur tout le visage pour un teint bronzé naturellement ensoleillé ou ajoutez à vos pommettes pour le contour, sur le front, le nez et le menton pour ajouter une définition
 - Un compact tout-en-un conçu pour un grand balayage bronzant mat naturel
+- Brossez sur tout le visage pour un teint bronzé naturellement ensoleillé ou ajoutez à vos pommettes pour le contour, sur le front, le nez et le menton pour ajouter une définition
 - Brossez sur tout le visage pour un teint bronzé naturellement ensoleillé ou ajoutez à vos pommettes pour le contour, sur le front, le nez et le menton pour ajouter une définition
 
 [🛒 Achète-le!!]({{< param buyurl >}})

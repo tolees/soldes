@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lenovo 4X30H56809. Interface de lappareil: RF sans fil
+- Fonctions de protection: Anti-éclaboussures
+- Type de récepteur: Nano. Type de source dalimentation: Batterie/Pile. Elément de format: Ambidextre
 - Coloration de surface: Monotone. Interface de réception sans fil: USB
 - Utilisation recommandée: Bureau
-- Type de récepteur: Nano. Type de source dalimentation: Batterie/Pile. Elément de format: Ambidextre
 - Disposition des touches du clavier: QWERTZ. Couleur: Noir
-- Fonctions de protection: Anti-éclaboussures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01K9EGPZK{{</world>}}

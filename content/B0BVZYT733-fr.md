@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des lithographies
 - Une figurine de 25 cm
-- Contient : Lédition Deluxe
-- Un artbook
 - Dautres contenus supplémentaires seront bientôt dévoilés
+- Des lithographies
+- Un artbook
+- Contient : Lédition Deluxe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVZYT733{{</world>}}

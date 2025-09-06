@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formule adaptée aux peaux sensibles : Non comédogène et non gras, ce gel exfoliant est spécialement conçu pour les peaux à tendance acnéique et sensibles, offrant une exfoliation douce
-- Exfoliation douce mais efficace : Ce gel exfoliant élimine l’excès de sébum et les cellules mortes, offrant une peau visiblement plus douce et lisse dès la première utilisation**
-- Tube fabriqué avec 29 % de plastique en moins par rapport à l’ancien packaging
 - Réduction des boutons prouvée : 93 % des utilisateurs ont observé une diminution visible des boutons après seulement 4 semaines d’utilisation régulière*
+- Formule adaptée aux peaux sensibles : Non comédogène et non gras, ce gel exfoliant est spécialement conçu pour les peaux à tendance acnéique et sensibles, offrant une exfoliation douce
+- Tube fabriqué avec 29 % de plastique en moins par rapport à l’ancien packaging
 - Prévention des éruptions cutanées : Formulé avec 2 % d’acide salicylique, il aide non seulement à éliminer les boutons existants mais aussi à prévenir leur réapparition, pour une peau plus claire
+- Exfoliation douce mais efficace : Ce gel exfoliant élimine l’excès de sébum et les cellules mortes, offrant une peau visiblement plus douce et lisse dès la première utilisation**
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001NPIFIK{{</world>}}

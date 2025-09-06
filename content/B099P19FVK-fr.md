@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Confortable en voyage grâce au tissu léger en mélange modal/polyester, Coupé de manière à permettre la superposition de couches
-- Coupe ajustée Active Fit conçue dans une optique de mobilité, complétant un effort pour une meilleure apparence
 - Polo assez élégant pour toute une variété daventures, que ce soit pour faire du golf ou de la randonnée ou bien passer une soirée dans un bar avec des amis
+- Coupe ajustée Active Fit conçue dans une optique de mobilité, complétant un effort pour une meilleure apparence
 - Plaquette de trois boutons complétant un col échancré superbement structuré avec possibilité de le remonter pour se protéger dun soleil de plomb
 - Contenu: 1x Columbia Homme Polo, Nelson Point, Couleur: Bleu (Dark Mountain), Taille: M, Art. 1772721
 

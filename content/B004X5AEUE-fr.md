@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Noir
-- Fabriqué en Allemagne
 - Poids du colis de larticle : 4.232 livres
+- Fabriqué en Allemagne
+- Couleur : Noir
 - Dimensions des colis darticles : 43 x 30 x 30 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

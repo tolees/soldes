@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un animal totem
 - Deux personnages emblématiques de Ayuma
+- Un animal totem
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 - Des accessoires pour recréer le rite de phare de la série
 

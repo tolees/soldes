@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
-- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
-- Homologuée A2 pour des performances applicatives et des chargements plus rapides
 - Jusquà 170 Mo/s en lecture et 90 Mo/s en écriture pour des prises et des transferts rapides
+- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
+- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones. Température de fonctionnement: -25 ºC à 85 ºC
+- Homologuée A2 pour des performances applicatives et des chargements plus rapides
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07G3GMRYF{{</world>}}

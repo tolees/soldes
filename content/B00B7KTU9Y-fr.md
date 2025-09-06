@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Educa 15524 Puzzle Classique Épices 1000 Pièces
-- Valeurs éducatives : construire, concevoir
-- <b>Descriptif produit</b>: 1000 Especias
-- Dimensions du produit (L x l x h) : 68,1 x 48 x 0,3 cm
-- Nombre de pièces : 1000
-- <b>Age minimum</b>: 120 mois
 - Nombre de joueurs: 1 to 4
+- Dimensions du produit (L x l x h) : 68,1 x 48 x 0,3 cm
 - Descriptif produit: 1000 Especias
+- Valeurs éducatives : construire, concevoir
 - Age minimum: 120 mois
+- Educa 15524 Puzzle Classique Épices 1000 Pièces
+- <b>Age minimum</b>: 120 mois
+- Nombre de pièces : 1000
+- <b>Descriptif produit</b>: 1000 Especias
 - Recommandation dge : 10 ans et plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

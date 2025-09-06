@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Villeroy & Boch Mariefleur Basic Mug à café (350 ml), Matière : Porcelaine Premium, Couleur : Blanc/Multicolore
 - Adapté au lave-vaisselle et au four à micro-ondes, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
+- Contenu : 1x Villeroy & Boch Mariefleur Basic Mug à café (350 ml), Matière : Porcelaine Premium, Couleur : Blanc/Multicolore
 - Convient aussi pour la restauration grâce à la forme ergonomique, Bord particulièrement résistant aux chocs; Combinaison idéale avec le reste de la collection Mariefleur Basic
 - Design accrocheur avec motifs floraux, Bonne prise en main grâce à lanse, Compatible avec les machines à café avec hauteur sous bec verseur de plus de 9 cm
 - Charmant mug à café avec motifs floraux et anse pour servir les boissons caféinées avec élégance

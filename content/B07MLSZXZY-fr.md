@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction AutoClean qui aide à nettoyer la cafetière et améliore le processus de détartrage.
-- Cafetière programmable 24h/24 qui prépare le café automatiquement à l’heure souhaitée. Technologie ExtremeAroma qui permet d’obtenir une saveur du café plus intense grâce à la pulvérisation et au goutte-à-goutte continu. Finitions en acier inoxydable et écran LCD retro-illuminé.
-- Filtre permanant pour le café moulu qui peut être enlevé et nettoyé. Vous pouvez aussi utiliser des filtres en papier avec cette cafetière.
 - Fonction Réchauffer pour un café chaud à tout moment. Fonction Maintenir chaud qui maintient le café à la bonne température une fois la préparation terminée.
 - Verseuse en verre extra-fort, de haute résistance à la température et aux impacts, avec 1,5 litre pour préparer jusqu’à 12 tasses de café.
+- Fonction AutoClean qui aide à nettoyer la cafetière et améliore le processus de détartrage.
+- Filtre permanant pour le café moulu qui peut être enlevé et nettoyé. Vous pouvez aussi utiliser des filtres en papier avec cette cafetière.
+- Cafetière programmable 24h/24 qui prépare le café automatiquement à l’heure souhaitée. Technologie ExtremeAroma qui permet d’obtenir une saveur du café plus intense grâce à la pulvérisation et au goutte-à-goutte continu. Finitions en acier inoxydable et écran LCD retro-illuminé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MLSZXZY{{</world>}}

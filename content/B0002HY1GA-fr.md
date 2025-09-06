@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Valeurs éducatives: Imaginer, inventer, créer
 - Descriptif Produit:Le papa et la maman sont ravis de cette sortie en plein air, leurs enfants samusent beaucoup : le plus grand fait voler son ballon et bébé observe tout ce qui se passe autour de lui, même le chien gambade gaiement...
-- Ballade en famille avec bébé dans sa poussette tout-terrain.
 - Age Minimum: 4 ans
+- Ballade en famille avec bébé dans sa poussette tout-terrain.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0002HY1GA{{</world>}}

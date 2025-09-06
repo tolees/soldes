@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Équipez et améliorez des armes de corps-à-corps et des armes à distance dévastatrices. Déployez des compétences et des pouvoirs spéciaux qui mettront à genoux des hordes d’ennemis et des boss épiques.
-- Un blizzard cataclysmique a recouvert la ville de South Park d’un épais manteau neigeux, et c’est à Cartman, Stan, Kenny, Kyle et vous, le p’tit nouveau, de sauver la ville d’un hiver sans fin.
-- Pour la première fois dans un jeu South Park, jouez en mode coopératif avec jusqu’à trois amis ou bots alliés et déchaînez des attaques puissantes et coordonnées contre vos ennemis.
-- Frayez-vous un chemin à travers la ville enneigée de South Park dans ce tout nouveau jeu coopératif en 3D.
 - Utilisez de nombreux cosmétiques emblématiques pour personnaliser votre p’tit nouveau. Découvrez des combinaisons infinies, des bonnets aux T-shirts Cheesy Poofs en passant par les couilles de menton.
+- Un blizzard cataclysmique a recouvert la ville de South Park d’un épais manteau neigeux, et c’est à Cartman, Stan, Kenny, Kyle et vous, le p’tit nouveau, de sauver la ville d’un hiver sans fin.
+- Équipez et améliorez des armes de corps-à-corps et des armes à distance dévastatrices. Déployez des compétences et des pouvoirs spéciaux qui mettront à genoux des hordes d’ennemis et des boss épiques.
+- Frayez-vous un chemin à travers la ville enneigée de South Park dans ce tout nouveau jeu coopératif en 3D.
+- Pour la première fois dans un jeu South Park, jouez en mode coopératif avec jusqu’à trois amis ou bots alliés et déchaînez des attaques puissantes et coordonnées contre vos ennemis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHWBPV11{{</world>}}

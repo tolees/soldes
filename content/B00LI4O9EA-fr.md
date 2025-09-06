@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immersion exceptionnelle
 - Qualité de fabrication irréprochable
+- Immersion exceptionnelle
 - Adaptateur / convertisseur
 - Produit destiné aux joueurs exigeants
 

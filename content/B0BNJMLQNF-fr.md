@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Haute qualité
-- Style rétro
 - Semelle en caoutchouc résistante
+- Style rétro
 - Chaussure de basket-ball
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

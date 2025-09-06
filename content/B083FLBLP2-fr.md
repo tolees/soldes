@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus : Smooth Leather
-- Matériau de semelle : Synthetic
 - Doublure : Textile
+- Matériau de semelle : Synthetic
 - Semelle intérieure : Synthetic
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

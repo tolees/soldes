@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux niveaux déclairage : jusquà 1200 lumens (élevé), jusquà 600 lumens (faible)
 - Jusquà 4,5 heures de temps de fonctionnement
-- Peut être étendu jusquà une longueur de 1,80 m
 - Rechargeable via le port USB-C : environ 3h de temps de charge
+- Deux niveaux déclairage : jusquà 1200 lumens (élevé), jusquà 600 lumens (faible)
+- Peut être étendu jusquà une longueur de 1,80 m
 - Protection contre la pénétration de poussière et déclaboussures deau selon IP65 et est testée pour la résistance aux chocs selon IK07
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

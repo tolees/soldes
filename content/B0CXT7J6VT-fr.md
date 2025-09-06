@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Now, the place is screaming and teeming with troublemaking ghosts! Can Luigi recover the missing pieces of the Dark Moon and restore peace to the valley?
-- Luckily, Professor E. Gadd has equipped Luigi with the right tools for the job, like the enemy-stunning Strobulb and the trusty Poltergust 5000, which can vacuum up ghosts, objects or interact with the environment.
 - Up to four players can team up to take on the challenges of the ScareScraper, a haunted building teeming with ghosts and challenges not found in the main adventure. Recruit your fellow ghost hunters to scale the terrifying tower via local wireless play or online.
 - Luigi’s paranormal escapades will take him to all sorts of places, including a former plant research lab, a broken-down clock factory and an icy, snow-covered mine, just to name a few.
+- Luckily, Professor E. Gadd has equipped Luigi with the right tools for the job, like the enemy-stunning Strobulb and the trusty Poltergust 5000, which can vacuum up ghosts, objects or interact with the environment.
+- Now, the place is screaming and teeming with troublemaking ghosts! Can Luigi recover the missing pieces of the Dark Moon and restore peace to the valley?
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXT7J6VT{{</world>}}

@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Enfin, avec ce jouet de construction Minecraft, les enfants peuvent construire un feu de camp - et planifier leur prochaine aventure Minecraft !
-- Les enfants peuvent jouer des batailles avec la figurine du villageois zombie au haut fourneau, semparer de la ferme LEGO Minecraft et capturer la maison abandonnée
+- Surprenez les enfants de 8 ans et plus qui aiment Minecraft en leur offrant ce jeu de construction polyvalent pour leur anniversaire, Noël ou tout autre jour
+- Comprend 2 figurines Minecraft de zombie, un chasseur de zombie et une figurine de chat, plus des accessoires : des torches, des bougies, des citrouilles, un feu de camp et une épée en acier
+- Avec ce jouet LEGO Minecraft à construire, les enfants ont besoin de toutes leurs compétences pour reprendre un village aux zombies et le reconstruire dans leur style
 - 4 zones de jeu différentes incluses : le camping dun chasseur de zombies, le lieu de travail dun villageois zombie, le champ de citrouilles dun fermier zombie Minecraft et une maison abandonnée
 - La maison LEGO Minecraft offre aux enfants une façon différente de profiter du jeu vidéo, avec des foules et des scènes qui prennent vie grâce à la créativité des briques LEGO
-- Comprend 2 figurines Minecraft de zombie, un chasseur de zombie et une figurine de chat, plus des accessoires : des torches, des bougies, des citrouilles, un feu de camp et une épée en acier
-- Surprenez les enfants de 8 ans et plus qui aiment Minecraft en leur offrant ce jeu de construction polyvalent pour leur anniversaire, Noël ou tout autre jour
-- Avec ce jouet LEGO Minecraft à construire, les enfants ont besoin de toutes leurs compétences pour reprendre un village aux zombies et le reconstruire dans leur style
+- Les enfants peuvent jouer des batailles avec la figurine du villageois zombie au haut fourneau, semparer de la ferme LEGO Minecraft et capturer la maison abandonnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BNW4F85{{</world>}}

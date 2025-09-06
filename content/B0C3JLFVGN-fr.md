@@ -30,13 +30,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - JEU DE SOCIÉTÉ : PLONGEZ DANS L’UNIVERS DU CÉLÈBRE JEU VIDEO d’action/aventure développé par Nintendo.
 - DECOUVREZ LE HÉROS DE BREATH OF THE WILD, DANS UN UNIVERS GRAPHIQUE INCROYABLE ET UNE TENUE INÉDITE
-- DURÉE DE LA PARTIE : environ 3 heures
-- RETROUVEZ LINK, SURPLOMBANT LES TERRES DHYRULE en reconstituant ce puzzle représentant la jaquette du nouveau jeu vidéo Zelda !
-- JEU EN FAMILLE et ENTRE AMIS : rassemblez vos amis et votre famille pour reconstituez ce puzzle de notre épéiste préféré : Link. Jouez à The Legend of Zelda d’une toute autre manière en rassemblant les pièces de ce puzzle !
-- A PARTIR DE 14 ANS.
-- CONTENU : un puzzle de 1000 pièces et un poster à léchelle du puzzle.
 - PUZZLE 1000 PIÈCES - THE LEGEND OF ZELDA : TEARS OF THE KINGDOM - Dimension : 68,3x48 cm
 - NOMBRE DE JOUEURS : 1 OU PLUS.
+- CONTENU : un puzzle de 1000 pièces et un poster à léchelle du puzzle.
+- JEU EN FAMILLE et ENTRE AMIS : rassemblez vos amis et votre famille pour reconstituez ce puzzle de notre épéiste préféré : Link. Jouez à The Legend of Zelda d’une toute autre manière en rassemblant les pièces de ce puzzle !
+- A PARTIR DE 14 ANS.
+- DURÉE DE LA PARTIE : environ 3 heures
+- RETROUVEZ LINK, SURPLOMBANT LES TERRES DHYRULE en reconstituant ce puzzle représentant la jaquette du nouveau jeu vidéo Zelda !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3JLFVGN{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lavage à la main seulement
-- 93% Polyamide, 7% Élasthanne
 - Acrylique
+- 93% Polyamide, 7% Élasthanne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01K30OIJK{{</world>}}

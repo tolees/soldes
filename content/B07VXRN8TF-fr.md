@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecran couleur 1 HD
 - Accéléromètre et vibrations intégrés
 - Cardio poignet Garmin Elevate TM (fonctionne dans leau)
 - Fonctions natation dédiées
+- Ecran couleur 1 HD
 - Multisports
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

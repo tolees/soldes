@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capturez comme un Pro dès le premier jour - Appairez votre Osmo Mobile 7 avec DJI Mimo pour ShotGuides et Édition en un seul clic. Filmez et modifiez comme un pro, économisant du temps et améliorant instantanément votre narration créative.
 - Expérimentez une stabilité sans faille - La stabilisation robuste de la nacelle à 3 axes de Osmo Mobile 7 assure une stabilité sans perte. Capturez des éclats créatifs et créez des chefs-dœuvre de qualité cinématographique avec facilité.
-- Suivi amélioré à double objectif - Les deux objectifs de votre téléphone sassocient pour un suivi plus intelligent et plus stable. Votre sujet peut se déplacer plus librement et même les actions rapides en gros plan restent nettes.
-- Comprend la nacelle, la bride de smartphone magnétique, etc. Profitez dun suivi fluide dans un design léger et portable. Pour plus de possibilités créatives, vous pouvez acheter le kit de suivi pour gamme DJI OM 7 séparément.
-- Rationalisez votre créativité - La nacelle de téléphone Osmo Mobile 7 présente un design pliable intégré avec un trépied intégré [5], rendant la création en solo sans effort et le stockage sans tracas.
+- Capturez comme un Pro dès le premier jour - Appairez votre Osmo Mobile 7 avec DJI Mimo pour ShotGuides et Édition en un seul clic. Filmez et modifiez comme un pro, économisant du temps et améliorant instantanément votre narration créative.
 - Renforcez votre créativité stable - Osmo Mobile 7 offre un temps de fonctionnement maximal de 10 heures [6] et peut également charger votre téléphone via USB-C, idéal pour les tournages en extérieur prolongés et les diffusions en direct.
-- Ultra-légère avec prise en main confortable - Avec seulement 300 grammes [4], Osmo Mobile 7 se vante dun design ergonomique et dune poignée antidérapante, ce qui en fait la nacelle de téléphone idéale pour une utilisation prolongée.
-- En raison d’un problème de compatibilité, l’application DJI Mimo a été supprimée de Google Play. Afin de garantir une meilleure expérience d’utilisation du produit, connectez-vous au site Web officiel de DJI pour télécharger la dernière version de Mimo.
 - Restez concentré - Avec ActiveTrack 7.0 de DJI Mimo, suivez les sujets avec votre nacelle dans des scénarios plus diversifiés. Peu importe laudace de vos mouvements, profitez dun suivi fluide à chaque étape.
+- Suivi amélioré à double objectif - Les deux objectifs de votre téléphone sassocient pour un suivi plus intelligent et plus stable. Votre sujet peut se déplacer plus librement et même les actions rapides en gros plan restent nettes.
+- En raison d’un problème de compatibilité, l’application DJI Mimo a été supprimée de Google Play. Afin de garantir une meilleure expérience d’utilisation du produit, connectez-vous au site Web officiel de DJI pour télécharger la dernière version de Mimo.
+- Ultra-légère avec prise en main confortable - Avec seulement 300 grammes [4], Osmo Mobile 7 se vante dun design ergonomique et dune poignée antidérapante, ce qui en fait la nacelle de téléphone idéale pour une utilisation prolongée.
+- Rationalisez votre créativité - La nacelle de téléphone Osmo Mobile 7 présente un design pliable intégré avec un trépied intégré [5], rendant la création en solo sans effort et le stockage sans tracas.
+- Comprend la nacelle, la bride de smartphone magnétique, etc. Profitez dun suivi fluide dans un design léger et portable. Pour plus de possibilités créatives, vous pouvez acheter le kit de suivi pour gamme DJI OM 7 séparément.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FSS4R16{{</world>}}

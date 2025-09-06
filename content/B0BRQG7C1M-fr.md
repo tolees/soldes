@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une hydration
-- Pour une peau radieuse
-- Une formule naturelle, pour une tenue
 - Rafraichie
+- Une formule naturelle, pour une tenue
+- Pour une peau radieuse
+- Une hydration
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BRQG7C1M{{</world>}}

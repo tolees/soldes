@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vanne de ventilation automatique avec corps compact en laiton et connecteur mâle 1/2
+- Grâce à sa forme extrêmement compacte, la vanne de purge dair Flexvent 1/2" peut être facilement installée dans tout système fonctionnant à une température inférieure à 90°C (avec une pointe de 120°C max.) et à une pression de 6 bar (avec une pointe de 10 bar max.).
+- Le siège étanche Flexvent est protégé de la contamination car la chambre de protection est placée sur le flotteur
 - En guise de garantie de qualité, chaque buse Flamco est testée avant de quitter nos chaînes de production.
 - La vanne de ventilation Flamco Flexvent 1/2" convient aux installations résidentielles contenant jusquà 50% de glycol.
-- Vanne de ventilation automatique avec corps compact en laiton et connecteur mâle 1/2
-- Le siège étanche Flexvent est protégé de la contamination car la chambre de protection est placée sur le flotteur
-- Grâce à sa forme extrêmement compacte, la vanne de purge dair Flexvent 1/2" peut être facilement installée dans tout système fonctionnant à une température inférieure à 90°C (avec une pointe de 120°C max.) et à une pression de 6 bar (avec une pointe de 10 bar max.).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GXNNGPY{{</world>}}

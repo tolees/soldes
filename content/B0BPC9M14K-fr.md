@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Recréez la Découverte du Brachiosaure, un moment important de Jurassic Park, avec ce jouet comprenant un jouet de Jeep Wrangler, un arbre et la plus grande figurine de dinosaure LEGO à ce jour !
 - Les jouets de dino LEGO Jurassic Park pour garçons et filles, permettant aux enfants de recréer des scènes des films et de la série animée et dimaginer des histoires uniques
+- Recréez la Découverte du Brachiosaure, un moment important de Jurassic Park, avec ce jouet comprenant un jouet de Jeep Wrangler, un arbre et la plus grande figurine de dinosaure LEGO à ce jour !
 - Les enfants peuvent construire le jouet Jeep LEGO Jurassic Park avec de lespace pour que les 3 minifigurines puissent sasseoir et tenir debout dans les mêmes positions que dans la scène du film
 - Larbre LEGO comprend une plate-forme dobservation pour 3 minifigurines et des feuilles détachables pour nourrir le brachiosaure, ainsi quun panneau davertissement à côté de larbre
 - Pour célébrer le 30e anniversaire du film Jurassic Park, ce jouet comprend les personnages emblématiques : le Dr Alan Grant, le Dr Ellie Sattler et John Hammond, des minifigurines LEGO

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Profitez de votre café comme il se doit
 - Passe au lave-vaisselle. Idéal pour la maison, le bureau, les cafés et les restaurants
 - Lot de 12 cuillères à café tendances
 - Fabriqué en acier inoxydable de qualité supérieure, finition miroir
-- Profitez de votre café comme il se doit
 - Design simple mais robuste pour assurer un usage longue durée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fournit une hydratation intense et aide à maintenir la fonction barrière de la peau
-- Favorise une peau plus lisse et plus ferme en améliorant le teint et l’élasticité de la peau
 - Hyaluronic Concentrate est un sérum pour le visage à base d’acide hyaluronique pur à faible et moyen poids moléculaire et à la texture aqua-gel qui assure une hydratation profonde des couches superficielles
+- Favorise une peau plus lisse et plus ferme en améliorant le teint et l’élasticité de la peau
 - Apporte un effet repulpant, aide à redensifier la peau de l’intérieur en comblant les rides
 
 [🛒 Achète-le!!]({{< param buyurl >}})

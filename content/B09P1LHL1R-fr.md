@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cinq réglages de mouture, de fine à grossière.
-- Moulin à lame compact et réglable pouvant contenir 84 g de grains de café.
 - Processus de mouture simple et automatique pour une plus grande régularité
-- Le curseur de sélection des tasses vous permet de choisir la quantité de café dont vous avez besoin, de 3 à 12 tasses
+- Cinq réglages de mouture, de fine à grossière.
 - Utilise une lame en acier inoxydable durable qui tourne à un régime précis.
+- Moulin à lame compact et réglable pouvant contenir 84 g de grains de café.
+- Le curseur de sélection des tasses vous permet de choisir la quantité de café dont vous avez besoin, de 3 à 12 tasses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09P1LHL1R{{</world>}}

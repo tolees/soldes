@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo PUMA N° 1 sur la languette
-- Tige en suède
-- Fermeture à lacets pour un ajustement ideal
 - Bracelet cousu et rembourré
+- Fermeture à lacets pour un ajustement ideal
+- Tige en suède
+- Logo PUMA N° 1 sur la languette
 - Œillets redesignés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

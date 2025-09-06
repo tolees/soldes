@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu du pack : 1 x Jeu Astro Bot PS5, Version physique avec disque, Langue : Français, 1 joueur, PEGI 7
+- Embarquez pour une quête intergalactique et explorez plus de 50 planètes à la recherche de léquipage perdu dASTRO.
 - Combattez des ennemis déjantés et des boss titanesques avec de nouvelles compétences incroyables et ressentez toute lampleur de leur puissance grâce à la DualSense.
 - Profitez des nouveaux power-ups dASTRO conçus spécialement pour renforcer votre immersion tels que des coups de poing à ressort, des fusées ou encore une éponge géante.
-- Embarquez pour une quête intergalactique et explorez plus de 50 planètes à la recherche de léquipage perdu dASTRO.
 - Sauvez plus de 150 robots VIP inspirés de personnages légendaires issus des 30 ans dhistoire de PlayStation.
-- Contenu du pack : 1 x Jeu Astro Bot PS5, Version physique avec disque, Langue : Français, 1 joueur, PEGI 7
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D63Y2QW4{{</world>}}

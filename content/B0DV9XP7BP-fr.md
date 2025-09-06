@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PolarPro - 135 Series - Gold Mist Filter - 82mm - Camera Filter - Created by Peter McKinnon'
+date: 2025-09-05 20:27:05
+image: 'https://m.media-amazon.com/images/I/31L7JOoaLwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DV9XP7BP-fr PolarPro - 135 Series - Gold Mist Filter - 82mm - Camera...'
+sku: 'B0DV9XP7BP-fr'
+tags: [ 'Accessoires Photo et Caméscopes','Filtres deffets pour appareils photo et caméscopes','Filtres pour appareils photo et caméscopes','High-Tech','Photo et caméscopes','polarpro','🇫🇷', ]
+actualPrice: 98.67 EUR
+currency: EUR
+price: 98.67
+comparePrice: 149.99 EUR
+prodname: 'PolarPro - 135 Series - Gold Mist Filter - 82mm - Camera Filter - Created by Peter McKinnon'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'PolarPro'
+buyurl: 'https://www.amazon.fr/dp/B0DV9XP7BP/?tag=tolees0d-21'
+descuento: '34.22'
+average: '98.67'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
+- Comprend une boîte de film rétro pour contenir le filtre
+- À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
+- Gold Mist crée un aspect de pellicule Kodak Gold
+- Un verre Chroma moderne dans un design rétro
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B0DV9XP7BP{{</world>}}

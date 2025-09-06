@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Disques WD Red optimisés RAID
-- Raid-0 prêt à lemploi
 - Capacité de stockage Massive avec sauvegarde système automatique
+- Raid-0 prêt à lemploi
 - 2 x ports hub USB 3.0
 - Compatible USB 3.1 Gén. 1 et USB 3.0
 

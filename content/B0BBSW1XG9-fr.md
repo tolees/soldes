@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les pièces sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres marques de briques de construction
 - Lokhlass à construire mécanisé et hautement détaillé de 18 cm de haut
 - La tête de Lokhlass bouge de gauche à droite lorsque vous tournez la manivelle
-- Coffret de construction de 527 pièces doté de la nouvelle brique de mouvement : tournez la manivelle pour faire bouger Lokhlass
 - Sous licence officielle de The Pokémon Company International
-- Les pièces sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres marques de briques de construction
+- Coffret de construction de 527 pièces doté de la nouvelle brique de mouvement : tournez la manivelle pour faire bouger Lokhlass
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBSW1XG9{{</world>}}

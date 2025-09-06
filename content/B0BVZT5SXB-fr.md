@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une nouvelle expérience de jeu s’offre à vous grâce aux multiples phases de jeu : Action/Brawler, Shoot à la 3e personne, Shoot them up et exploration
-- Retrouvez tous les personnages, les lieux iconiques et ennemis de la série TV.
+- Exécutez et améliorez les célèbres attaques incontournables du robot géant
 - Pour la toute première fois, incarnez Goldorak et Actarus dans ce jeu d’action/aventure totalement dédié au colosse métallique
 - La musique iconique de la série a été remastérisée et vous accompagnera tout au long du jeu
-- Exécutez et améliorez les célèbres attaques incontournables du robot géant
+- Une nouvelle expérience de jeu s’offre à vous grâce aux multiples phases de jeu : Action/Brawler, Shoot à la 3e personne, Shoot them up et exploration
+- Retrouvez tous les personnages, les lieux iconiques et ennemis de la série TV.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVZT5SXB{{</world>}}

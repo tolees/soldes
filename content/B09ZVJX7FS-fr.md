@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir : textile
 - 13.3464566793 pouces
+- Cuir : textile
 - Fermeture : éthylène-acétate de vinyle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

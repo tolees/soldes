@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Différentes options de couleur par capacitéur USB
 - Grand anneau pour l’accrocher à un porte-clés
+- Différentes options de couleur par capacitéur USB
 - Le capuchon mobile protège le connecte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

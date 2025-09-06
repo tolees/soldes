@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stéréo configuration – La combinaison de deux MS50A permet une véritable configuration stéréo via lapplication EDIFIER, un haut-parleur joue le canal droit et lautre le canal gauche.
-- Multiroom - Montage facile dun système multiroom WiFi. Fonctionne avec Apple AirPlay 2, Amazon Alexa ou Spotify. Prend en charge les réseaux Wi-Fi 2,4 GHz et 5 GHz.
 - Bluetooth V5.0 : la dernière technologie Bluetooth pour la lecture à partir de smartphones, tablettes ou ordinateurs portables.
 - Contrôle confortable - Le panneau tactile tactile avec interrupteur marche/arrêt au milieu permet une utilisation confortable du haut-parleur.
+- Multiroom - Montage facile dun système multiroom WiFi. Fonctionne avec Apple AirPlay 2, Amazon Alexa ou Spotify. Prend en charge les réseaux Wi-Fi 2,4 GHz et 5 GHz.
+- Stéréo configuration – La combinaison de deux MS50A permet une véritable configuration stéréo via lapplication EDIFIER, un haut-parleur joue le canal droit et lautre le canal gauche.
 - Son optimal - Le boîtier en bois véritable (MDF) réduit efficacement les résonances indésirables. La puissance de sortie de 40 W (RMS) assure un son puissant avec une taille compacte.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

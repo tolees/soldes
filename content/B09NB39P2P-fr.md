@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Retour haptique : Ressentez chaque coup, chaque saut, et chaque sensation en véhicule grâce au retour haptique de la manette sans fil DualSense.
 - UNCHARTED: Legacy of Thieves Collection contient les aventures acclamées par la critique UNCHARTED 4: A Thief’s End et UNCHARTED: The Lost Legacy, remastérisés pour la console PS5
+- Retour haptique : Ressentez chaque coup, chaque saut, et chaque sensation en véhicule grâce au retour haptique de la manette sans fil DualSense.
 - Gâchettes adaptatives : Faites lexpérience de la tension que lon ressent en se balançant à une corde grâce aux gâchettes adaptatives dynamiques.
-- Chargement rapide : Replongez rapidement dans laction grâce au SSD ultra-rapide de la console PS5 et aux chargements quasi-instantanés.
 - Audio 3D : Entendez le monde de UNCHARTED: Legacy of Thieves Collection prendre vie autour de vous avec laudio 3D
+- Chargement rapide : Replongez rapidement dans laction grâce au SSD ultra-rapide de la console PS5 et aux chargements quasi-instantanés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NB39P2P{{</world>}}

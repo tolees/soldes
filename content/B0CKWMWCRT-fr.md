@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅ Produit local: toutes les vegan protein powder Alpha Foods sont entièrement fabriquées en Allemagne.
-- ♻️Nous mettons fin aux scoops: pour le bien de lenvironnement, nous najoutons plus de cuillère à mesurer à nos emballages et vous aiderons à doser avec dautres moyens. La conversion se fait progressivement, de sorte que vos Alpha Foods préférés peuvent actuellement arriver avec ou sans Scoop.
 - 🥧Authentique et délicieuse: une recette végétale de la célèbre qualité Alpha Foods Saveur crémeuse de vanille raffinée avec une pincée de cannelle de Ceylan. Notre poudre de protéine végétale convient non seulement comme shake protéiné, mais peut être utilisée aussi bien pour la cuisine que pour la pâtisserie.
+- ♻️Nous mettons fin aux scoops: pour le bien de lenvironnement, nous najoutons plus de cuillère à mesurer à nos emballages et vous aiderons à doser avec dautres moyens. La conversion se fait progressivement, de sorte que vos Alpha Foods préférés peuvent actuellement arriver avec ou sans Scoop.
 - 💎 Pureté testée en laboratoire: notre sécurité est notre priorité absolue, cest pourquoi Alpha Foods est soumise aux procédures de contrôle les plus complètes. Nous ne fabriquons pas de produits industriels en vrac et mélangeons toutes nos poudres en petits lots dans une usine de production moderne selon les normes de qualité les plus élevées. Tous les produits sont basés sur des matières premières certifiées conformément aux réglementations européennes en vigueur.
+- ✅ Produit local: toutes les vegan protein powder Alpha Foods sont entièrement fabriquées en Allemagne.
 - ✨Protéines végétales parfaitement utilisables: proteine poudre végétaliennes, notamment à base de soja, riz sauvage germé, graines de citrouille, graines de tournesol, graines de lin et pois jaunes germés. La combinaison des différentes proteines contenues dans notre proteine isolate donne un profil complet dacides aminés EAA et BCAA qui na rien à envier aux whey protein.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

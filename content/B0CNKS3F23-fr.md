@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La référence en photo et vidéo : Avec un capteur de 50 Mpx capturez un maximum de détails. Rapprochez-vous au plus près avec les zooms 2x ou 3x, et allez même jusquà x30 avec des images sublimées grâce à la nouvelle technologie de zoom avec IA ⁸ ⁹ ¹⁰
-- Un modèle dendurance : Le Galaxy S24 est doté dune batterie intelligente qui lui permet de rester chargée plus longtemps pour que vous profitiez de vos vidéos encore et encore ⁸ ¹¹ ¹² ¹³
-- Pack exclusif sur Amazon avec chargeur de 25W inclus
 - Un vrai format de poche : Son écran de 6,2 pouces en FHD+ enchante les passionnés de smartphones compacts. Protégé, il est doté dun cadre aluminium de qualité aérospatiale, Armor Aluminium et résiste à leau et à la poussière (certifié IP68). Vous en voulez plus? Le Galaxy S24+ vous offre un écran QHD+ encore plus grand
-- Le pouvoir den faire plus... tout en en faisant moins grâce à lIA : Retouchez vos photos, traduisez en temps réel vos conversations téléphoniques, convertissez vos enregistrements vocaux en texte et résumez vos notes grâce à lIA ¹ ² ³ ⁴
+- La référence en photo et vidéo : Avec un capteur de 50 Mpx capturez un maximum de détails. Rapprochez-vous au plus près avec les zooms 2x ou 3x, et allez même jusquà x30 avec des images sublimées grâce à la nouvelle technologie de zoom avec IA ⁸ ⁹ ¹⁰
+- Pack exclusif sur Amazon avec chargeur de 25W inclus
 - Brillant, même face au soleil : Un régal pour les yeux avec son écran plus grand, plus lumineux et aux bordures plus fines quauparavant, les 6,2 pouces en FHD+ du Galaxy S24 affichent des images immersives ¹⁴ ¹⁵
+- Le pouvoir den faire plus... tout en en faisant moins grâce à lIA : Retouchez vos photos, traduisez en temps réel vos conversations téléphoniques, convertissez vos enregistrements vocaux en texte et résumez vos notes grâce à lIA ¹ ² ³ ⁴
+- Un modèle dendurance : Le Galaxy S24 est doté dune batterie intelligente qui lui permet de rester chargée plus longtemps pour que vous profitiez de vos vidéos encore et encore ⁸ ¹¹ ¹² ¹³
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNKS3F23{{</world>}}

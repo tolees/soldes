@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Doublure en cuir naturel
 - Semelle en caoutchouc naturel
-- Semelle intérieure rembourrée en cuir
 - Dessus en cuir nappa
+- Semelle intérieure rembourrée en cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001O9AOYS{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Casse-tête de 200 pièces
 - Âge recommandé : à partir de 12 ans
 - Dimensions du puzzle : 43,2 x 29,1 cm
-- Casse-tête de 200 pièces
 - Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

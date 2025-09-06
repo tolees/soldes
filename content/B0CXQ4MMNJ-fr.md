@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vivez une expérience totalement immersive : tirez, battez-vous au corps à corps, rampez, grimpez, sautez et servez-vous de votre tête pour progresser dans la station Citadel
-- Découvrez une histoire non linéaire qui évolue à votre propre rythme.
 - Un style graphique innovant qui combine des éléments rétrofuturistes avec la technologie moderne.
+- Découvrez une histoire non linéaire qui évolue à votre propre rythme.
+- Vivez une expérience totalement immersive : tirez, battez-vous au corps à corps, rampez, grimpez, sautez et servez-vous de votre tête pour progresser dans la station Citadel
 - Un jeu iconique des années 90 mis au standard d’aujourd’hui !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

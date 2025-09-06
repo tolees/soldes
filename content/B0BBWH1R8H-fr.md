@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacités étendues
 - Performances NVMe PCIe Gen 4x4
+- Capacités étendues
 - Idéal pour les ordinateurs portables et les PC ultra-portables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

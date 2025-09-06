@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bourjois
 - Brosse plastique double position
+- Bourjois
 - Produit de haute qualité
 - Mascara avec brosse 2-en-1 transformable : - 2 actions: volume et longueur
 

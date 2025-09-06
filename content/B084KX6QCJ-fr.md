@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Résistant au chlore pour une meilleure longévité et durabilité
 - Protection UV 50+
-- Coupe spéciale performance
 - Résistant à lhuile et à la crème
+- Coupe spéciale performance
 - Finitions avec lemblématique marque PUMA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

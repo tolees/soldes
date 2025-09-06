@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voyez et entendez vos visiteurs, et parlez-leur en temps réel sur votre application Blink Home Monitor grâce à la fonctionnalité Vidéo en direct et à laudio bidirectionnel (la fonctionnalité Vidéo en direct nest pas activée en continu).
-- Obtenez des notifications de mouvements sur votre téléphone grâce à loption vous permettant de personnaliser des zones de détection de mouvements dans lapplication Blink Home Monitor. Recevez une notification uniquement lorsquil le faut.
-- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
+- Blink Outdoor est une caméra de surveillance HD sans fil alimentée par piles, qui vous permet de surveiller votre domicile jour et nuit grâce à la vision nocturne infrarouge.
+- Enregistrez et partagez des clips dans le Cloud grâce à un essai gratuit de 30 jours à labonnement Blink, ou localement via Blink Sync Module 2 et une clé USB (vendue séparément).
+- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
 - Configuration facile en quelques minutes. Aucun raccordement ni aucune installation professionnelle requis.
 - Fonctionne avec Alexa : utilisez votre voix pour surveiller votre domicile via des appareils avec Alexa intégré compatibles.
-- Blink Outdoor est une caméra de surveillance HD sans fil alimentée par piles, qui vous permet de surveiller votre domicile jour et nuit grâce à la vision nocturne infrarouge.
-- Blink Outdoor est conçue pour résister aux intempéries, afin de vous aider à sécuriser lintérieur et lextérieur de votre domicile, par tous les temps.
-- Enregistrez et partagez des clips dans le Cloud grâce à un essai gratuit de 30 jours à labonnement Blink, ou localement via Blink Sync Module 2 et une clé USB (vendue séparément).
+- Avec son autonomie longue durée, Blink Outdoor peut fonctionner jusquà deux ans grâce à deux piles AA au lithium (incluses).
+- Obtenez des notifications de mouvements sur votre téléphone grâce à loption vous permettant de personnaliser des zones de détection de mouvements dans lapplication Blink Home Monitor. Recevez une notification uniquement lorsquil le faut.
+- Voyez et entendez vos visiteurs, et parlez-leur en temps réel sur votre application Blink Home Monitor grâce à la fonctionnalité Vidéo en direct et à laudio bidirectionnel (la fonctionnalité Vidéo en direct nest pas activée en continu).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B086DK9QWH{{</world>}}

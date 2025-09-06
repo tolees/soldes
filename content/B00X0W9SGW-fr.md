@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: bouton-poussoir
 - Matériau intérieur synthétique
+- Fermeture: bouton-poussoir
 - Matériau supérieur : coton
 - Composition du matériau : 100 % cuir de veau
 

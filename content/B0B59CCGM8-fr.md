@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Enfilez votre combinaison et menez votre escouade vers des batailles explosives dans des campagnes épiques contre des adversaires armés jusqu’aux dents. Vous êtes la crème de la crème, et l’heure est venue de le prouver dans des ops de Tiny Troopers sans précédent !
+- Garde-à-vous ! Tiny Troopers Global Ops est un twin-stick shooter au rythme endiablé, dans lequel vous dirigez une escouade d’élite de Tiny Troopers dans des missions trépidantes pour éliminer des hordes d’ennemis sans scrupules, venus des quatre coins du monde !
 - Oui, les Troopers sont prêts à l’action ! Combattants chevronnés, ultra-concentrés, toujours impatients de relever de nouveaux défis !
 - Préparez-vous à être plongé directement dans le cœur de la bataille avec de nouveaux modes de jeu explosifs, et n’oubliez pas, on n’abandonne jamais un soldat !
 - Êtes-vous prêt à esquiver une tempête de balles, échapper à des explosions destructrices et éviter des pièges ? Alors répondez à l’appel du devoir, et menez votre escouade de Tiny Troopers à la victoire dans de tout nouveaux combats multijoueurs ou en coop locale 4 joueurs.
-- Garde-à-vous ! Tiny Troopers Global Ops est un twin-stick shooter au rythme endiablé, dans lequel vous dirigez une escouade d’élite de Tiny Troopers dans des missions trépidantes pour éliminer des hordes d’ennemis sans scrupules, venus des quatre coins du monde !
-- Enfilez votre combinaison et menez votre escouade vers des batailles explosives dans des campagnes épiques contre des adversaires armés jusqu’aux dents. Vous êtes la crème de la crème, et l’heure est venue de le prouver dans des ops de Tiny Troopers sans précédent !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B59CCGM8{{</world>}}

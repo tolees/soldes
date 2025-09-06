@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre liquide aux couleurs intenses
 - Système de réencrage de la pointe par bouton poussoir
-- Bouton poussoir pour réencrer la pointe à tout moment
 - 4 marqueurs effaçables à sec haute qualité
-- Encre liquide
 - Pointe ogive moyenne
-- Brosse pour tableau blanc équipée de 4 marqueurs Maxiflo
+- Bouton poussoir pour réencrer la pointe à tout moment
 - Tampon effaceur pratique
+- Encre liquide
+- Encre liquide aux couleurs intenses
+- Brosse pour tableau blanc équipée de 4 marqueurs Maxiflo
 - Marqueurs effaçable à sec sur tableau blanc, sans laisser de trace
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

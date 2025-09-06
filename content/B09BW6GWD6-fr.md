@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal à partir de 7 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de réflexion.
 - Assemblez le Pokémon et faites-lui prendre plusieurs postures
+- Idéal à partir de 7 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de réflexion.
 - Cet Évoli à Assembler mesure plus de 10 cm
 - Les 228 briques et pièces de construction de cette boîte sont compatibles avec tous les coffrets de construction MEGA Construx et d’autres grandes marques.
 

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : caoutchouc
 - Semelle intérieure : caoutchouc
+- Doublure : caoutchouc
 - Fermeture : à enfiler
 - Matériau de semelle : caoutchouc
 - Type de talons : plat
-- Doublure : caoutchouc
+- Dessus : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002A6WWC6{{</world>}}

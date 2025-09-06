@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ORIGINES RÉINVENTÉES:Des personnages familiers reviennent dans de toutes nouvelles histoires entremêlées et interagissent d’une façon totalement nouvelle
-- MODE HISTOIRE IMMERSIF :Kombattez dans une toute nouvelle histoire mettant en vedette vos personnages préférés de Mortal Kombat
 - KOMBATTANTS KAMÉO:Choisissez parmi une liste unique de partenaires de Kombat Kaméo pour vous aider à kombattre
+- ORIGINES RÉINVENTÉES:Des personnages familiers reviennent dans de toutes nouvelles histoires entremêlées et interagissent d’une façon totalement nouvelle
 - UN NOUVEL UNIVERS:Découvrez un nouveau départ, conçu par le Gardien du Temps et protecteur du Royaume Terre, le dieu du feu Liu Kang
+- MODE HISTOIRE IMMERSIF :Kombattez dans une toute nouvelle histoire mettant en vedette vos personnages préférés de Mortal Kombat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5Y2CZWP{{</world>}}

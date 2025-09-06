@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIGHTWEIGHT
 - Facile à installer
+- LIGHTWEIGHT
 - ETRA DURABLE INTERDIENTS
 - GOOD GRIP
 - RECYCLED

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Turbine à glace
+- Puissance 135W
 - Corps en plastique aves habillage inox
 - Ecran électronique
-- Turbine à glace
 - Cuve 1.2L amovible en aluminium
-- Puissance 135W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00L278OGC{{</world>}}

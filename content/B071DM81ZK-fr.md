@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1. Bobine de 1 kg de filament PLA de 1,75 mm dans un emballage sous vide
-- 5. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
-- 3. Température dimpression : 190-220℃
-- 2. Pas dimpuretés, pas de sabots
 - 4. Tolérance de diamètre +/- 0,02 mm
+- 2. Pas dimpuretés, pas de sabots
+- 3. Température dimpression : 190-220℃
+- 5. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
+- 1. Bobine de 1 kg de filament PLA de 1,75 mm dans un emballage sous vide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071DM81ZK{{</world>}}

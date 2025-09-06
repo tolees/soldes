@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Illuminez votre système avec un éclairage vif et animé de dix LED RVB adressables individuellement et ultra-lumineuses par module
 - Seulement 44 mm de hauteur pour une large compatibilité avec les refroidisseurs dair tels que le CORSAIR A500
-- Choisissez parmi des dizaines de profils déclairage prédéfinis ou créez le vôtre dans le logiciel CORSAIR iCUE
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- Un PCB de performance personnalisé fournit la meilleure qualité de signal pour le plus haut niveau de performance et de stabilité
 - Optimisé pour une bande passante maximale et des temps de réponse courts sur les dernières cartes mères Intel et AMD DDR4
+- Un PCB de performance personnalisé fournit la meilleure qualité de signal pour le plus haut niveau de performance et de stabilité
+- Choisissez parmi des dizaines de profils déclairage prédéfinis ou créez le vôtre dans le logiciel CORSAIR iCUE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SQ31CGF{{</world>}}

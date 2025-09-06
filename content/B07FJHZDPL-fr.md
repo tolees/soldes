@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Design unique double face: Rasoir et Tondeuse
-- Tondeuse parfaitement étanche: sutilise sous la douche et se nettoie à leau
 - Batterie rechargeable: 80 min dautonomie pour une heure de charge
+- Tondeuse parfaitement étanche: sutilise sous la douche et se nettoie à leau
 - Respectueux de la peau: tête de rasage dotée de bords arrondis et dune grille hypoallergénique
 - Rasoir avec suivi des contours 4D et 5 hauteurs de coupe pour un rasage précis et en douceur
 

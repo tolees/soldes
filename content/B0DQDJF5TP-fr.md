@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La semelle extérieure en caoutchouc avec motif gaufré assure traction et durabilité
-- Mousse dans la semelle intermédiaire
 - Laçage à largeur variable
+- Mousse dans la semelle intermédiaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQDJF5TP{{</world>}}

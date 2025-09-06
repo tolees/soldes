@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Featuring PCIe 5.0 & 4.0 support, DDR5 and DDR4 support.
-- Intel Core i5-14600KF (14th gen) desktop processor, without processor graphics.
-- Compatible with Intel 700 Series and Intel 600 Series Chipset based motherboards.
 - Unlocked 14th Gen Intel Core i5 desktop processors are optimized for gamers and productivity and help deliver high performance.
 - Discrete graphics required.
+- Intel Core i5-14600KF (14th gen) desktop processor, without processor graphics.
+- Compatible with Intel 700 Series and Intel 600 Series Chipset based motherboards.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHBH63YX{{</world>}}

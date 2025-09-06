@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Protection des données d’enregistrement
+- Vitesse de lecture ultra rapide allant jusquà 800 Mo/s
 - Idéal pour le workflow des photographes et vidéastes exigeants
 - Disponible dans 4 capacités ; 80 Go, 160 Go, 320 Go, 640 Go
-- Vitesse de lecture ultra rapide allant jusquà 800 Mo/s
-- Protection des données d’enregistrement
 - Grande résistance aux intempéries et aux chocs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

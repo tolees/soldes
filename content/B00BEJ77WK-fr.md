@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend une cuillère à riz, une tasse à mesurer et un panier à vapeur supplémentaire pour cuire des légumes ou du poisson
+- Utilisez juste la bonne quantité deau pour cuire et laissez le poêle se mettre automatiquement à chauffer. Utilisez beaucoup deau pour cuire à la vapeur, surveillez le processus de cuisson et tournez manuellement linterrupteur vers le haut lorsque les aliments sont cuits
+- Passage automatique à la fonction de maintien au chaud lorsque le riz est cuit, lumière de commande, 700 watts
+- Surface en acier inoxydable brossé de haute qualité avec applications en plastique
+- Capacité de 1,8 l pour cuire jusquà 10 tasses (équivalent à 10 petites portions)
 - Marmite antiadhésive amovible, couvercle en verre pour suivre le processus de cuisson
 - Toutes les pièces qui entrent en contact avec les aliments sont exemptes de BPA
-- Surface en acier inoxydable brossé de haute qualité avec applications en plastique
-- Passage automatique à la fonction de maintien au chaud lorsque le riz est cuit, lumière de commande, 700 watts
-- Utilisez juste la bonne quantité deau pour cuire et laissez le poêle se mettre automatiquement à chauffer. Utilisez beaucoup deau pour cuire à la vapeur, surveillez le processus de cuisson et tournez manuellement linterrupteur vers le haut lorsque les aliments sont cuits
-- Capacité de 1,8 l pour cuire jusquà 10 tasses (équivalent à 10 petites portions)
+- Comprend une cuillère à riz, une tasse à mesurer et un panier à vapeur supplémentaire pour cuire des légumes ou du poisson
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00BEJ77WK{{</world>}}

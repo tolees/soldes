@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Numéro de modèle : 5026555362771
 - Poids de larticle : 95,0 g
 - Couleur : noir
-- Numéro de modèle : 5026555362771
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0892HX1NX{{</world>}}

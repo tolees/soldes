@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Expérience personnalisée】Exécutant le dernier MagicOS 7.1 basé sur Android 13, avec toutes les applications Google et le Play Store, le HONOR 90 vous offre une expérience système plus intelligente, plus fluide, plus sûre et plus efficace
 - 【Gradation PWM 3 840 Hz】Le HONOR 90 telephone est équipé de la modulation de largeur dimpulsion (PWM) de 3 840 Hz, la plus élevée de lindustrie, qui maintient une expérience visuelle plus confortable et sans scintillement et minimise la fatigue oculaire même dans des environnements faiblement éclairés
-- 【Maître de la photographie 200 Mpx】Le HONOR 90 smartphone dispose dun tout nouveau système de triple appareil photo 200 Mpx et dun appareil photo selfie 50 Mpx pour capturer des photos et des vidéos exquises. Avec le mode Portrait, le HONOR 90 améliore encore les portraits pris dans toutes les conditions déclairage
 - 【Élimine lanxiété de la batterie】Le HONOR 90 est équipé dune grande batterie de 5 000 mAh pour prendre en charge une utilisation toute la journée. Avec une seule charge, le smartphone peut fournir jusquà 19,5 heures de streaming vidéo local continu. Les utilisateurs peuvent recharger leur smartphone à 45 % en seulement 15 minutes
 - 【Écran AMOLED 120 Hz de 6,7 pouces】Équipé dun écran sans bordure quadri-incurvé de 6,7 pouces, le HONOR 90 téléphone portable prend en charge une haute résolution de 2 664 x 1 200, une gamme de couleurs 100 % DCI-P3, jusquà 1,07 milliard de couleurs et une luminosité HDR maximale de 1 600 nits, donnant vie au contenu visuel dans des couleurs époustouflantes et une clarté éclatante
+- 【Expérience personnalisée】Exécutant le dernier MagicOS 7.1 basé sur Android 13, avec toutes les applications Google et le Play Store, le HONOR 90 vous offre une expérience système plus intelligente, plus fluide, plus sûre et plus efficace
+- 【Maître de la photographie 200 Mpx】Le HONOR 90 smartphone dispose dun tout nouveau système de triple appareil photo 200 Mpx et dun appareil photo selfie 50 Mpx pour capturer des photos et des vidéos exquises. Avec le mode Portrait, le HONOR 90 améliore encore les portraits pris dans toutes les conditions déclairage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7RTDDMS{{</world>}}

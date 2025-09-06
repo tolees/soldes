@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti EVA
-- Nike Mercurial Lite Soccer Shin Guards
 - Manches anatomiques et extensibles pour une meilleure protection
-- Confort exceptionnel
 - Nike Logo
+- Amorti EVA
+- Confort exceptionnel
+- Nike Mercurial Lite Soccer Shin Guards
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKJYPZWG{{</world>}}

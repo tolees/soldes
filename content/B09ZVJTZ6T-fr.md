@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
 - Largeur de la chaussure : étroite
+- Forme du talon : plat
 - Niveau de résistance à leau : non étanche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

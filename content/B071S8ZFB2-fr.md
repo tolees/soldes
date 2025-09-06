@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un mini jeu de plateau avec plus de 300 questions sur le corps humain, basé sur la série il était une fois… la vie.
-- Contient: 1 petit plateau de jeu, 96 cartes quiz, 4 pions, 4 jetons "vrai ou faux".
-- Réponds aux questions de maestro sur le thème anatomie et biologie pour pouvoir avancer sur le plateau.
 - Dès 6 ans, de 2 à 4 joueurs.
+- Réponds aux questions de maestro sur le thème anatomie et biologie pour pouvoir avancer sur le plateau.
+- Contient: 1 petit plateau de jeu, 96 cartes quiz, 4 pions, 4 jetons "vrai ou faux".
+- Un mini jeu de plateau avec plus de 300 questions sur le corps humain, basé sur la série il était une fois… la vie.
 - Plus de 300 questions avec 3 niveaux: facile, moyen et difficile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

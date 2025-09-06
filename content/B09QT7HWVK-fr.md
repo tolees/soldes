@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Casque Skate/Vélo/Rollers/trottinette
 - Tailles réglables par molette dajustement ( 53 - 57 cm )
 - coque externe ABS - structure eps noir - aérations
+- Casque Skate/Vélo/Rollers/trottinette
 - Mousses interne pour un confort optimal.
 - Sangles Ajustables.
 

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coque fine avec revêtement anti-rayures et revêtement anti-jaunissement
 - Étui transparent pour A15 | A15 5G
+- Coque fine avec revêtement anti-rayures et revêtement anti-jaunissement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CN8HKXHW{{</world>}}

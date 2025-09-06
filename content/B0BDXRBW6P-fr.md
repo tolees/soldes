@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 port USB3.0 Type C
-- Compatible Carte mère: E-ATX / ATX
-- Slot 7 PCI pivotable à 90°
-- Emplacement stockage: 5x2,5 ou 4x3,5"
-- Longueur max. VGA: 450mm
 - Compatible radiateur 420/360/280/240/140/120mm
+- Longueur max. VGA: 450mm
+- Emplacement stockage: 5x2,5 ou 4x3,5"
+- Compatible Carte mère: E-ATX / ATX
 - Hauteur max. ventirad: 180mm
+- Slot 7 PCI pivotable à 90°
+- 1 port USB3.0 Type C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDXRBW6P{{</world>}}

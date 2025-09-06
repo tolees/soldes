@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- très amusant pour les petits pompiers en herbe
-- encore plus d’action dans le jeu Kullerbü
 - avec superbes effets ludiques : héliport, toboggan à billes et garage pouvant accueillir jusqu’à 3 camions de pompiers
+- très amusant pour les petits pompiers en herbe
 - parfaite compatibilité avec tous les circuits de jeu Kullerbü
+- encore plus d’action dans le jeu Kullerbü
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PTD9CCX{{</world>}}

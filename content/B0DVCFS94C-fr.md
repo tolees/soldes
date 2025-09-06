@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LARGEUR DE COUPE ADAPTÉE À LA TAILLE DE GAZON - La tondeuse à gazon Powerplus a une largeur de travail de 320 mm et permet de tondre les petits jardins de ville jusquà 250 m².
 - DÉCHARGE DE CÂBLE - Pour plus de sécurité, clipsez la rallonge dans la décharge de traction. De cette façon, vous ne débrancherez jamais accidentellement le câble dalimentation.
-- HAUTEUR DE COUPE AJUSTABLE - La hauteur de coupe peut être réglée sur 3 positions entre 25 et 65 mm, ce qui vous permet de couper lherbe courte ou de la laisser un peu plus haute.
+- LARGEUR DE COUPE ADAPTÉE À LA TAILLE DE GAZON - La tondeuse à gazon Powerplus a une largeur de travail de 320 mm et permet de tondre les petits jardins de ville jusquà 250 m².
 - FACILE À RANGER ET À DÉPLACER - Avec son poids de 6,8 kg, cette tondeuse à gazon compacte et légère (1300 W) est idéale pour les petits jardins. En outre, il est également facile à déplacer et à stocker.
+- HAUTEUR DE COUPE AJUSTABLE - La hauteur de coupe peut être réglée sur 3 positions entre 25 et 65 mm, ce qui vous permet de couper lherbe courte ou de la laisser un peu plus haute.
 - AVEC 2 FONCTIONS - L’herbe coupée est collectée dans le sac de collecte de 30 l. En outre, cette tondeuse à gazon fonctionne aussi parfaitement sans le sac de collecte, auquel cas lherbe coupée est éjectée à larrière.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

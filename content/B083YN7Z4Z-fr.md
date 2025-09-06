@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maquette plastique à construire à coller et à peindre à léchelle 1/24
-- Haut niveau de détaille, planche à décalcomanies incluse
-- Peintures, colle et accessoires non inclus
 - Notice multilingue et détaillée et en couleur type BD. Autres véhicules à collectionner
+- Haut niveau de détaille, planche à décalcomanies incluse
 - 170 pièces à assembler, niveau de difficulté 5/5 pour les maquettistes expérimentés
+- Peintures, colle et accessoires non inclus
+- Maquette plastique à construire à coller et à peindre à léchelle 1/24
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083YN7Z4Z{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe régulière
 - Logo Nike
 - Taille élastique avec cordon de serrage
+- Coupe régulière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B57CRWYM{{</world>}}

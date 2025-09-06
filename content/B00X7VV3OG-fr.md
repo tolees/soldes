@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Descriptif produit</b>: Les personnages de Star Wars prennent vie avec les voitures Hot Wheels. Les garçons adoreront les combats, et lhistoire racontée par le jeu de rôle que ces véhicules-personnages inspirent.
 - Age minimum : 3 ans
+- <b>Descriptif produit</b>: Les personnages de Star Wars prennent vie avec les voitures Hot Wheels. Les garçons adoreront les combats, et lhistoire racontée par le jeu de rôle que ces véhicules-personnages inspirent.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00X7VV3OG{{</world>}}

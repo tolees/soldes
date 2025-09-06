@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cake Box
 - MediaRange
+- Cake Box
 - 10 pièces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

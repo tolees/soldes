@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brandissez le pinceau magique : appliquez de la peinture pour créer ou du dissolvant pour transformer. Chaque choix détermine votre histoire !
 - Découvrez un gameplay avancé, avec de nouvelles compétences et des graphismes améliorés dans un décor classique.
-- Mickey dispose de nouveaux mouvements tels que le bond, le marteau-pilon et le sprint.
-- Faites la connaissance d’Oswald le lapin chanceux, la star originale de Disney, dans un monde riche et narratif.
 - Explorez un monde de la désolation réimaginé, habité par les personnages et histoires intemporels de Disney.
+- Faites la connaissance d’Oswald le lapin chanceux, la star originale de Disney, dans un monde riche et narratif.
+- Brandissez le pinceau magique : appliquez de la peinture pour créer ou du dissolvant pour transformer. Chaque choix détermine votre histoire !
+- Mickey dispose de nouveaux mouvements tels que le bond, le marteau-pilon et le sprint.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CW3LJWV1{{</world>}}

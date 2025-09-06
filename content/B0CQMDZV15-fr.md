@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jerrican peut également servir de rangement et dispose d’une fenêtre transparente pour exposer fièrement le Motosaurus.
-- Votre Motosaurus a besoin de réparations ? Aucun problème ! Conduisez-le véhicule jusqu’au pont élévateur, puis faites-le monter pour procéder à l’entretien nécessaire.
-- En forme de jerrican, ce coffret s’ouvre pour révéler une mini-arène de cascades et une zone de réparation.
-- Vivez des aventures épiques avec le coffret Jerrican Hot Wheels Monster Trucks !
 - Propulsez le Motosaurus à l’échelle 1/64 inclus. Il monte la rampe et grimpe sur les 2 voitures broyées. Ajoutez d’autres voitures et camions pour plus de destruction ! (Deux voitures broyées incluses. Autres véhicules vendus séparément.)
+- Vivez des aventures épiques avec le coffret Jerrican Hot Wheels Monster Trucks !
+- Le jerrican peut également servir de rangement et dispose d’une fenêtre transparente pour exposer fièrement le Motosaurus.
+- En forme de jerrican, ce coffret s’ouvre pour révéler une mini-arène de cascades et une zone de réparation.
+- Votre Motosaurus a besoin de réparations ? Aucun problème ! Conduisez-le véhicule jusqu’au pont élévateur, puis faites-le monter pour procéder à l’entretien nécessaire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQMDZV15{{</world>}}

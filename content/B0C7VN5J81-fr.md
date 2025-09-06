@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jeu PS5 daction : Jouez avec deux Spider-Man (Peter Parker et Miles Morales), affrontez de nouveaux ennemis et partez à l’aventure dans un New York de Marvel plus vaste que jamais (nouveaux quartiers, nouveaux lieux)
+- Contenu de la livraison : 1 x Jeu Marvels Spider-Man 2 sur PS5, Version physique avec CD, Langue : Français, 1 joueur, PEGI 16
 - Bonus de précommande : Tenue Chevalier arachnide pour Peter en exclusivité (avec 3 variantes de couleurs), Tenue Araignée de l’ombre pour Miles en exclusivité (avec 3 variantes de couleurs), Gadget attrape-toile en exclusivité, + 3 points de compétences.
+- Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail jusquaux reflets sur les bâtiments
 - Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : ressentez chaque coup que vous portez ou chaque toile et décharge électrique que vous lancez
 - Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
-- Contenu de la livraison : 1 x Jeu Marvels Spider-Man 2 sur PS5, Version physique avec CD, Langue : Français, 1 joueur, PEGI 16
-- Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail jusquaux reflets sur les bâtiments
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7VN5J81{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Votre périple à La Nouvelle-Orléans continue dans ce nouveau chapitre de lhistoire du Touriste, dans The Walking Dead: Saints & Sinners. Tout en survivant aux embuscades de linarrêtable Homme à la hache et en repoussant les tentatives de la tour dimposer sa domination, découvrez le lien entre les nouvelles menaces qui émergent, avant quil ne soit trop tard.
-- Edition Playstation 5, PlayStation VR2 requis - Edition limitée Steelbook avec bonus digitaux et un skin de clef "tronçonneuse" en bonus physique !
-- The Walking Dead: Saints & Sinners – Chapter 2: Retribution – Édition Payback contient le jeu de base, le plan de La bénédiction (Arme en or), le plan de La Boum (Fusil à pompe de Madri Gras), létagère de stockage démoniaque et des cartes postales numériques à collectionner.
 - Combattez contre un nouvel ennemi terrifiant et bien décidé à vous trancher en morceaux ! Battez-vous comme jamais, ou prenez vos jambes à votre cou !
+- The Walking Dead: Saints & Sinners – Chapter 2: Retribution – Édition Payback contient le jeu de base, le plan de La bénédiction (Arme en or), le plan de La Boum (Fusil à pompe de Madri Gras), létagère de stockage démoniaque et des cartes postales numériques à collectionner.
 - Découvrez de nouveaux visages, lieux, armes et équipement, lors de cet affrontement ultime qui décidera du destin de la ville. Serez-vous à la hauteur ?
+- Edition Playstation 5, PlayStation VR2 requis - Edition limitée Steelbook avec bonus digitaux et un skin de clef "tronçonneuse" en bonus physique !
+- Votre périple à La Nouvelle-Orléans continue dans ce nouveau chapitre de lhistoire du Touriste, dans The Walking Dead: Saints & Sinners. Tout en survivant aux embuscades de linarrêtable Homme à la hache et en repoussant les tentatives de la tour dimposer sa domination, découvrez le lien entre les nouvelles menaces qui émergent, avant quil ne soit trop tard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BQN4SX4S{{</world>}}

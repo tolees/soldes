@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Système anti-blocage Bosch pour travailler sans interruption
+- Taille-haies léger et bien équilibré, conçu pour l’entretien des petites haies
 - Livré avec : EasyHedgeCut 18-45, 2x batteries 18V 2,0 Ah, chargeur GAL 1810 CV, emballage carton
 - Lames de 45 cm aux dents espacées de 15 mm, pour tailler facilement les petites haies
 - Mobilité sans fil pour des coupes rapides et propres partout dans le jardin
-- Taille-haies léger et bien équilibré, conçu pour l’entretien des petites haies
-- Système anti-blocage Bosch pour travailler sans interruption
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SHQRB75{{</world>}}

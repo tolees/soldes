@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hautement pigmenté
 - Sa brossette ultra épaisse attrape et enrobe chacun de tes cils, produisant un remarquable effet volumisant intense.
-- look œil de chat
 - Cils pleins, plus épais & plus noirs
+- Hautement pigmenté
+- look œil de chat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07H8MRRZG{{</world>}}

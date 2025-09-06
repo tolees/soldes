@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Excellente qualité dimage grâce à lutilisation dobjectifs de haute qualité, 11 éléments en 8 groupes dont 6 objectifs spéciaux (2x ASP, 3x HR et 1x ED), tous avec Samyang Ultra Multi Coating. Netteté exceptionnelle jusque dans les coins de limage, même avec une ouverture ouverte de F1.4
-- Contenu de lemballage : 1x Samyang AF 50mm F1.4 II FE pour Sony E, 1x capuchon dobjectif avant, 1x capuchon dobjectif arrière, 1x étui pour objectif
 - Flou darrière-plan impressionnant grâce à une ouverture ouverte de F1.4. Le sujet principal se détache de larrière-plan. 9 lames douverture offrent un bokeh doux, confortable et naturel
-- Commutateur personnalisé pour le contrôle de louverture via la bague de mise au point. Options supplémentaires avec une station dobjectif séparée. Bouton de maintien de la mise au point pour le verrouillage de la mise au point et dautres programmations individuelles (selon le modèle de caméra)
+- Contenu de lemballage : 1x Samyang AF 50mm F1.4 II FE pour Sony E, 1x capuchon dobjectif avant, 1x capuchon dobjectif arrière, 1x étui pour objectif
 - Compact et léger, seulement 492 g, le plus petit et le plus léger 50 mm pour les appareils photo sans miroir plein format Sony.
+- Commutateur personnalisé pour le contrôle de louverture via la bague de mise au point. Options supplémentaires avec une station dobjectif séparée. Bouton de maintien de la mise au point pour le verrouillage de la mise au point et dautres programmations individuelles (selon le modèle de caméra)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09KZWDKBB{{</world>}}

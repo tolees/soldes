@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran HDR WQHD (2560 x 1440) de 31,5 pouces avec dalle IPS à grand angle de vision de 178 degrés
 - Connectivité étendue pour une flexibilité maximale, y compris DisplayPort, HDMI et prise jack pour écouteurs, ainsi quun hub USB
 - Fréquence de rafraîchissement de 75 Hz et technologie Adaptive-Sync (48~75Hz) pour le contenu animé à action raide et pour éliminer les déchirements d’image
+- Écran HDR WQHD (2560 x 1440) de 31,5 pouces avec dalle IPS à grand angle de vision de 178 degrés
 - Espaces colorimétriques 100 % sRGB et 100 % Rec. 709
 - Écart Delta inférieur à 2 pour une meilleure reproduction des couleurs et Calman Verified
 

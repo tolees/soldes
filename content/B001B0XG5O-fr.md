@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle en caoutchouc Vibram TC5+
 - Tige en nylon moulé
-- Doublure en maille respirante
-- Embout de protection
-- Semelle intérieure amovible en mousse EVA
 - Dessus en cuir pleine fleur
+- Embout de protection
+- Doublure en maille respirante
+- Semelle intérieure amovible en mousse EVA
+- Semelle en caoutchouc Vibram TC5+
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001B0XG5O{{</world>}}

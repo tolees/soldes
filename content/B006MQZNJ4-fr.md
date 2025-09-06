@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Approprié au système de flash Nikon i-TTL
+- Puissance réglable de 1/1 à 1/64 en étapes de 1/17
 - Possible de contrôler les deux parts du flash indépendant
 - Nombre Guide de 16 (ISO100)
-- Puissance réglable de 1/1 à 1/64 en étapes de 1/17
+- Approprié au système de flash Nikon i-TTL
 - Peut être utilisé comme flash prinicipal et comme flash TTL sans fil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

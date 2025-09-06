@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
+- Son design fin sadapte parfaitement à votre meuble TV
+- Consommation électrique (mode veille): 0,4 W
+- Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
+- Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
 - Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
 - Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
-- Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
-- Son design fin sadapte parfaitement à votre meuble TV
-- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
-- Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
-- Consommation électrique (mode veille): 0,4 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B078WSCXHX{{</world>}}

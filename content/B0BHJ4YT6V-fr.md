@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction pivotante et assise à hauteur réglable à l’aide du vérin à gaz à commande manuelle
-- Matériau : Siège légèrement rembourré avec cuir synthétique vintage réaliste dune belle couleur bordeaux avec des coutures verticales. Base mobile en métal à revêtement de poudre noir avec 5 roulettes dotées de freins
 - Dimensions : 103 x 45 x 58 cm (H x l x P). Hauteur de l’assise : 40 à 50 cm
+- Matériau : Siège légèrement rembourré avec cuir synthétique vintage réaliste dune belle couleur bordeaux avec des coutures verticales. Base mobile en métal à revêtement de poudre noir avec 5 roulettes dotées de freins
+- Fonction pivotante et assise à hauteur réglable à l’aide du vérin à gaz à commande manuelle
 - Moderne et épurée, idéale pour les loisirs
 - Peu de montage requis
 

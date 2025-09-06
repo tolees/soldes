@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logiciel denregistrement et de production (station de travail audio numérique) Studio One Artist et ensemble de plug-ins Studio Magic avec Ableton Live Lite
+- Microphone électrostatique de studio M7 et trépied de bureau
+- Solution d’enregistrement complète : il ne vous manque plus qu’un ordinateur
+- Casque découte de studio HD7
 - Tous les câbles dinterconnexion nécessaires sont inclus
+- Logiciel denregistrement et de production (station de travail audio numérique) Studio One Artist et ensemble de plug-ins Studio Magic avec Ableton Live Lite
 - Interface audio/MIDI AudioBox USB 96
 - Moniteurs de studio actifs compacts 2 voies Eris E3.5
-- Casque découte de studio HD7
-- Solution d’enregistrement complète : il ne vous manque plus qu’un ordinateur
-- Microphone électrostatique de studio M7 et trépied de bureau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08NCBZY8B{{</world>}}

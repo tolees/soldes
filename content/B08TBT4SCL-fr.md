@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Fermeture éclair
-- Lavage à la main seulement
 - Manche longue
-- Normale
+- Lavage à la main seulement
 - 100% Polyester
+- Fermeture: Fermeture éclair
+- Normale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08TBT4SCL{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Elles fonctionnent à des températures comprises entre -25ºC et 85ºC (-13ºF et 185°F)
 - Pour assurer la compatibilité, recherchez le logo SDXC sur les cartes et dispositifs daccueil (appareils photo, caméscopes, etc.).
 - Classe 4
-- Description du produit : Sandisk SDSDB-064G-B35
-- Elles fonctionnent à des températures comprises entre -25ºC et 85ºC (-13ºF et 185°F)
-- Capacité : 64 Go
 - Type de Carte Flash : Secure Digital Extended Capacity (SDXC)
+- Description du produit : Sandisk SDSDB-064G-B35
+- Capacité : 64 Go
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00CIQ01US{{</world>}}

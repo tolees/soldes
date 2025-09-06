@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une taille et un poids révolutionnaires
+- Un téléobjectif extrême pour tous
 - Profitez dimages dune parfaite netteté
 - Mise au point fluide et silencieuse
-- Un téléobjectif extrême pour tous
-- Une taille et un poids révolutionnaires
 - Observez le monde de plus près
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

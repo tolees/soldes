@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Vaporisaschtroumpf vous permettra aussi de sauter, de planer, de plonger, d’aspirer… gardez un bon timing pour franchir tous les obstacles !
-- Un gameplay orienté plateforme et exploration : trouvez votre chemin à travers des niveaux tout en verticalité
 - Utilisez le Vaporisaschtroumpf pour soigner les plantes contaminées par la Malfeuille que vous rencontrerez sur votre chemin
-- Redonnez vie au village des Schtroumpfs en progressant dans l’aventure, et améliorez le Vaporisaschtroumpf en récupérant des objets à travers les niveaux
+- Le Vaporisaschtroumpf vous permettra aussi de sauter, de planer, de plonger, d’aspirer… gardez un bon timing pour franchir tous les obstacles !
 - Incarnez 4 Schtroumpfs iconiques : la Schtroumpfette, le Schtroumpf costaud, le Schtroumpf à lunettes et le Schtroumpf cuisinier dans 5 mondes différents
+- Un gameplay orienté plateforme et exploration : trouvez votre chemin à travers des niveaux tout en verticalité
+- Redonnez vie au village des Schtroumpfs en progressant dans l’aventure, et améliorez le Vaporisaschtroumpf en récupérant des objets à travers les niveaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ML5WY8H{{</world>}}

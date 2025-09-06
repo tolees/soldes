@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Doublure thermo-réfléchissante Omni-Heat
-- Tige en maille/cuir imperméable
 - Construction type chausson Omni-Tech respirante et imperméable à coutures étanches
+- Tige en maille/cuir imperméable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GUXJJUS{{</world>}}

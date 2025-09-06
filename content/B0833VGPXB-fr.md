@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tout le monde na pas la chance dêtre vegan : Petit manuel dun véganisme pratique et pacifiste !
 - Marque : HARPERCOLLINS
+- Tout le monde na pas la chance dêtre vegan : Petit manuel dun véganisme pratique et pacifiste !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0833VGPXB{{</world>}}

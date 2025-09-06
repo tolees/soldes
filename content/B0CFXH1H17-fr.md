@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Une Charge Rapide et sûre: Le Chargeur pour Samsung 45 W est doté dune puce intelligente intégrée et dun système de protection multiple pour protéger votre phone des dommages causés par les courts-circuits, les surintensités, les surtensions, les surchauffes et les surcharges.
 - Chargeur Rapide 45 W pour Samsung: chargeur usb c 45 W prend en charge le protocole de charge USB C PD/PPS. Testé, il peut être complètement chargé en quelques dizaines de minutes. (vitesse de charge différente pour différents appareils, selon le temps de charge réel de lappareil)
-- Large Compatibilité: Chargeur Rapide USB C 45 W pour Samsung Galaxy S24, S24+, S24 Ultra, S23, S23 Plus, S23 Ultra, S22, S22+, S22 Ultra, S21 Ultra, S21+, S21, S20 FE, S20, S20 Ultra, S20+, S10, Note 20 / 20 Ultra, Note 10 / 10+, Z Fold 5/4/3, Z Flip 5/4/3, A52, A51, A42, Tab S8, S8+ et autres appareils de type C.
 - Cable de Charge Rapide 2 M USB C vers USB C: un câble de charge de Type C est inclus, conçu pour une charge et un transfert de données rapides, courant de charge jusquà 3 ampères. La longueur de 2 mètres un mouvement flexible, il peut être utilisé à la maison, au bureau, en déplacement ou en voyage.
 - Contenu de lemballage: 45 W USB C Chargeur Rapide * 1, 2 M USB C vers USB C Cable * 1.
+- Large Compatibilité: Chargeur Rapide USB C 45 W pour Samsung Galaxy S24, S24+, S24 Ultra, S23, S23 Plus, S23 Ultra, S22, S22+, S22 Ultra, S21 Ultra, S21+, S21, S20 FE, S20, S20 Ultra, S20+, S10, Note 20 / 20 Ultra, Note 10 / 10+, Z Fold 5/4/3, Z Flip 5/4/3, A52, A51, A42, Tab S8, S8+ et autres appareils de type C.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFXH1H17{{</world>}}

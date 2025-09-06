@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMMENT JOUER ? Les joueurs doivent amenez leur voiture jusqu’à l’entrée du Zoo avant que l’orage ne gronde! À chaque tour, pioche une carte : si tu pioches une carte Étape, tu peux avancer la voiture sur le plateau de jeu…qui est semé d’embûches ! Si tu pioches un Feu Rouge, lance le dé pour tenter d’obtenir un Feu Vert.
-- BENEFICES PRODUITS: Un jeu pour initier les enfants aux jeux de société, se déplacer sur un plateau et apprendre à comptet. Lenfant apprendra les notions de dénombrement, la manipulation, l’observation ou encore l’association visuelle.
-- LE + PRODUIT : Un jeu collaboratif très simple, adapté aux plus petits avec des instants gagnants tout au long de la partie
 - Retrouvez l’incontournable Mille Bornes dans une version spécialement adaptée aux plus petits
-- Durée de jeu : 10 min
+- COMMENT JOUER ? Les joueurs doivent amenez leur voiture jusqu’à l’entrée du Zoo avant que l’orage ne gronde! À chaque tour, pioche une carte : si tu pioches une carte Étape, tu peux avancer la voiture sur le plateau de jeu…qui est semé d’embûches ! Si tu pioches un Feu Rouge, lance le dé pour tenter d’obtenir un Feu Vert.
 - A partir de 1 joueur
+- LE + PRODUIT : Un jeu collaboratif très simple, adapté aux plus petits avec des instants gagnants tout au long de la partie
+- BENEFICES PRODUITS: Un jeu pour initier les enfants aux jeux de société, se déplacer sur un plateau et apprendre à comptet. Lenfant apprendra les notions de dénombrement, la manipulation, l’observation ou encore l’association visuelle.
 - CONTENU : 1 plateau de jeu, 1 pion feu rouge, 1 pion voiture, 1 puzzle orange (6 pièces), 33 cartes, 1 sabot, 1 gros dé illustré, 5 jetons aliments, 1 règle du jeu
+- Durée de jeu : 10 min
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00JTJ1FEI{{</world>}}

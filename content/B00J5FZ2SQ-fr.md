@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque LAMBDA
 - Déodorants et anti-transpirants
+- Marque LAMBDA
 - Produits de beauté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

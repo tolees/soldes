@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La simulation agricole la plus complète à ce jour !
-- Comprend le jeu de base et lextension Platinum qui ajoute la forêt de Silverrun, une nouvelle carte et de nouveaux véhicules !
 - Lancez votre entreprise avec plus de 500 machines de marques renommées, dont Volvo, qui fait ses débuts dans la série !
+- Comprend le jeu de base et lextension Platinum qui ajoute la forêt de Silverrun, une nouvelle carte et de nouveaux véhicules !
+- La simulation agricole la plus complète à ce jour !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B69G9HGP{{</world>}}

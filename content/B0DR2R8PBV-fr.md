@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chacune delles a la forme dun des personnages que lon trouve sur nos stylos effaçables Bo-Bo : Felipe le tigre, Simon le lion, Wondo le panda roux et Bono le singe.
 - Set de 4 gommes parfumées à la fraise.
+- Chacune delles a la forme dun des personnages que lon trouve sur nos stylos effaçables Bo-Bo : Felipe le tigre, Simon le lion, Wondo le panda roux et Bono le singe.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DR2R8PBV{{</world>}}

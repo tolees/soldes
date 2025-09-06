@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu vidéo pour Switch de la marque Warner Games
 - Si vous voulez la qualité au meilleur prix, ne cherchez plus !
 - Référence : S7830090
 - Couleur : multicolore
 - Dimensions : 10,5 x 16,8 x 1,2 centimètres
+- Jeu vidéo pour Switch de la marque Warner Games
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CT94SRTP{{</world>}}

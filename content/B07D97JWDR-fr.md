@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fréquence de la mémoire: 3600 MHz
-- Disposition de la mémoire (modules x dimensions): 2 x 8 Go
 - Support de mémoire: 288-pin DIMM
-- Type de mémoire interne: DDR4
 - Mémoire interne: 16 Go. Vérification des erreurs: Non ECC
-- Latence CAS: 18
+- Type de mémoire interne: DDR4
+- Disposition de la mémoire (modules x dimensions): 2 x 8 Go
 - G.Skill F4-3600C18D-16GTZRX. composant pour: PC/serveur. Latence testée 18-22-22-42. Caractéristiques: Intel XMP 2.0 (Extreme Mémoire Profil) Prêt. Enregistré / Unbuffered: Unbuffered
+- Latence CAS: 18
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07D97JWDR{{</world>}}

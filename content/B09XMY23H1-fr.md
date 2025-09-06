@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La RAM de 4 Go et l’espace de stockage interne de 128 Go vous permettent de conserver davantage de photos, de vidéos et de fichiers sur votre appareil.
 - L’écran 6.6” du realme 9 5G à l’impressionnant ratio écran/corps de 90,8 % vous offre une expérience visuelle immersive5. Son taux de rafraîchissement de 120 Hz et sa fréquence d’échantillonnage tactile de 240 Hz font de chaque balayage et défilement une action intuitive et fluide.
-- realme 9 5G 4+128 Smartphone Pesant seulement 191 grammes et d’une finesse de 8,5 mm, le realme 9 5G se fait oublier au creux de votre paume et vous accompagne partout.
 - Appareil photo principal de 50 MP avec ouverture de f/1,8
+- realme 9 5G 4+128 Smartphone Pesant seulement 191 grammes et d’une finesse de 8,5 mm, le realme 9 5G se fait oublier au creux de votre paume et vous accompagne partout.
+- La RAM de 4 Go et l’espace de stockage interne de 128 Go vous permettent de conserver davantage de photos, de vidéos et de fichiers sur votre appareil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XMY23H1{{</world>}}

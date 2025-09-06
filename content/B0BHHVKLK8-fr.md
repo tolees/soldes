@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivité ultrarapide : m.2 pcie 5.0, realtek 2,5 Go Ethernet, ports USB 3.2 gen 2, port USB 3.2 gen 1 type-C en façade
-- ASUS Prime B650M-A (socket AM5/B650/DDR5/S-ATA 6 go/S/micro ATX)
-- Asus Optimem II : routage soigneux des traces et des vias, et optimisations de la couche de base pour préserver intégrité du signal pour un meilleur overclocking de la mémoire
 - Socket Amd AM5 : compatible avec les processeurs de bureau AMD Ryzen série 7000
+- Connectivité ultrarapide : m.2 pcie 5.0, realtek 2,5 Go Ethernet, ports USB 3.2 gen 2, port USB 3.2 gen 1 type-C en façade
+- Asus Optimem II : routage soigneux des traces et des vias, et optimisations de la couche de base pour préserver intégrité du signal pour un meilleur overclocking de la mémoire
+- ASUS Prime B650M-A (socket AM5/B650/DDR5/S-ATA 6 go/S/micro ATX)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BHHVKLK8{{</world>}}

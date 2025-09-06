@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation sur prise secteur
+- Levier d’ajustement de la hauteur de coupe (0,5 à 2mm) 11 guides de coupe colorés (1,5 à 25 mm)
 - Utilisation facile et coupe précise
 - Accessoires: Peigne de coiffeur, ciseaux, brosse pour le cou, brossette de nettoyage
-- Levier d’ajustement de la hauteur de coupe (0,5 à 2mm) 11 guides de coupe colorés (1,5 à 25 mm)
+- Utilisation sur prise secteur
 - Lames acier inoxydable et auto-affûtées pour une plus grande précision
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

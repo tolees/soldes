@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible Deezer, Spotify, Amazon Music
+- DAB+/ FM/ DAB recepteurs
 - Notre toute dernière mise à jour de la radio intelligente emblématique de la gamme Revival
 - WiFi connexion a linternet
 - Connexions Bluetooth et USB
-- DAB+/ FM/ DAB recepteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BMN57HB5{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pokémon au design authentique avec détail flamme pour donner l’illusion qu’il crache du feu
+- Les briques sont compatibles avec tous les coffrets de construction Mega Construx et les grandes marques de briques de construction
 - Figurine Salamèche articulée à construire, de plus de 10 cm de haut
 - Idéal à partir de 6 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
-- Les briques sont compatibles avec tous les coffrets de construction Mega Construx et les grandes marques de briques de construction
-- Pokémon au design authentique avec détail flamme pour donner l’illusion qu’il crache du feu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07XB3J38K{{</world>}}

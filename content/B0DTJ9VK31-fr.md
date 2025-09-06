@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application PowerA Gamer HQ – Ajustez laudio, les gâchettes, les vibrations, les zones mortes et bien plus encore sur votre manette avec lapplication officielle gratuite mise à jour pour Xbox et Windows 10/11
-- Molette du casque – Réglez le volume d’un casque filaire connecté et coupez le micro à l’aide de la fonction de coupure du micro en une seule touche.Lindicateur LED sallume sur le cadran de volume lorsque le micro est coupé
-- Verrouillage des gâchettes à 3 positions – Réglez la distance de déplacement des gâchettes avec trois positions différentes pour réaliser des actions plus rapides dans vos jeux FPS préférés ou foncer à plein régime dans une voiture de course haut de gamme
-- Boutons de jeu programmables – Obtenez un avantage sur la concurrence avec 4 boutons mappables que vous pouvez programmer à la volée, en cours de jeu, sans aucun paramètre système à configurer
-- Confort et contrôle – La conception ergonomique avec des poignées caoutchoutées texturées et des anneaux antifriction intégrés offrent une finesse sans fatigue pendant les sessions de jeu prolongées
-- Sous licence officielle - pour Xbox Series X|S et fonctionne sur Xbox One et Windows 10/11, Obtenez jusquà 30 heures dautonomie sur une seule charge*
-- Joysticks analogiques et gâchettes à effet Hall – Les capteurs magnétiques sans contact dans les joysticks et les gâchettes offrent une sensation de niveau professionnel plus fluide pour contribuer à la précision et à la longévité
-- Sans fil à faible latence – Jouez sans fil sur Xbox Series X|S, Xbox One et Windows 10/11 à laide de ladaptateur USB sans fil inclus
 - Bouton de profil – Basculez entre 3 profils différents pour garder vos paramètres optimaux accessibles pour vos jeux préférés
 - Jeu immersif – Le moteur à double vibration et les gâchettes à impulsion magnétique ajoutent un aspect tactile réaliste à vos jeux tandis quune sortie stéréo 3,5 mm offre un son dynamique clair*
+- Sous licence officielle - pour Xbox Series X|S et fonctionne sur Xbox One et Windows 10/11, Obtenez jusquà 30 heures dautonomie sur une seule charge*
+- Molette du casque – Réglez le volume d’un casque filaire connecté et coupez le micro à l’aide de la fonction de coupure du micro en une seule touche.Lindicateur LED sallume sur le cadran de volume lorsque le micro est coupé
+- Verrouillage des gâchettes à 3 positions – Réglez la distance de déplacement des gâchettes avec trois positions différentes pour réaliser des actions plus rapides dans vos jeux FPS préférés ou foncer à plein régime dans une voiture de course haut de gamme
+- Joysticks analogiques et gâchettes à effet Hall – Les capteurs magnétiques sans contact dans les joysticks et les gâchettes offrent une sensation de niveau professionnel plus fluide pour contribuer à la précision et à la longévité
+- Confort et contrôle – La conception ergonomique avec des poignées caoutchoutées texturées et des anneaux antifriction intégrés offrent une finesse sans fatigue pendant les sessions de jeu prolongées
+- Boutons de jeu programmables – Obtenez un avantage sur la concurrence avec 4 boutons mappables que vous pouvez programmer à la volée, en cours de jeu, sans aucun paramètre système à configurer
+- Sans fil à faible latence – Jouez sans fil sur Xbox Series X|S, Xbox One et Windows 10/11 à laide de ladaptateur USB sans fil inclus
+- Application PowerA Gamer HQ – Ajustez laudio, les gâchettes, les vibrations, les zones mortes et bien plus encore sur votre manette avec lapplication officielle gratuite mise à jour pour Xbox et Windows 10/11
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9VK31{{</world>}}

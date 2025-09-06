@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez le monde à travers les yeux dun chat et interagissez avec lenvironnement de façon ludique. Vous devrez faire preuve de furtivité, dagilité et de fantaisie, et parfois agacer au maximum les habitants atypiques de cet univers mystérieux. Au cours de laventure, le chat se liera damitié avec un petit drone volant nommé B-12. Ensemble, ils devront trouver un moyen de sen sortir
-- Lédition physique Playstation 4 est accompagnée de 6 cartes illustrées en couleur
 - Stray est un jeu daventure à la troisième personne dans lequel vous incarnez un chat qui arpente les rues éclairées au néon et les bas-fonds miteux dune cyber-cité en déclin aux décors très détaillés. Explorez chaque recoin, défendez-vous contre des menaces inattendues, et percez les mystères de cet endroit inhospitalier peuplé détranges droïdes et de dangereuses créatures
-- Ne passez pas à côté de loccasion dincarner un chat dans cette aventure à la troisième personne totalement unique développée pour la PlayStation 4 par BlueTwelve Studio
+- Découvrez le monde à travers les yeux dun chat et interagissez avec lenvironnement de façon ludique. Vous devrez faire preuve de furtivité, dagilité et de fantaisie, et parfois agacer au maximum les habitants atypiques de cet univers mystérieux. Au cours de laventure, le chat se liera damitié avec un petit drone volant nommé B-12. Ensemble, ils devront trouver un moyen de sen sortir
 - Perdu, seul et séparé de sa famille, un chat errant doit percer un mystère ancestral pour séchapper dune ville oubliée. Percez un mystère ancestral pour vous échapper de la cyber-cité oubliée de Stray
+- Lédition physique Playstation 4 est accompagnée de 6 cartes illustrées en couleur
+- Ne passez pas à côté de loccasion dincarner un chat dans cette aventure à la troisième personne totalement unique développée pour la PlayStation 4 par BlueTwelve Studio
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BCZJNDGP{{</world>}}

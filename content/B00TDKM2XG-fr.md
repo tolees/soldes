@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design de la caisse: Autonome
-- Type de produit: Espresso machine
-- Types de boisson: Café-crème, Cappucino, Espresso
-- Type dentrée à café: Café moulu
-- Description du produit: DeLonghi ECO 311R
 - Couleur: Noir, Rouge, Acier inoxydable
+- Description du produit: DeLonghi ECO 311R
+- Types de boisson: Café-crème, Cappucino, Espresso
+- Design de la caisse: Autonome
 - Capacité en tasses: 2 tasses
+- Type de produit: Espresso machine
+- Type dentrée à café: Café moulu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TDKM2XG{{</world>}}

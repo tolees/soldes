@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vitesses décriture jusquà 90 Mo/s pour des prises rapides en continu
-- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 200 Mo/s, optimisées par la technologie SanDisk QuickFlow
-- Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin datteindre des vitesses maximales (cartes vendues séparément)
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
-- Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 200 Mo/s, optimisées par la technologie SanDisk QuickFlow
 - Procurez-vous lapplication SanDisk Memory Zone pour une gestion facile de vos fichiers (disponible sur Google Play)
+- Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin datteindre des vitesses maximales (cartes vendues séparément)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09X7BYSFG{{</world>}}

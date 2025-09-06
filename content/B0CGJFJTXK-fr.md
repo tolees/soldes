@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Clipchamp vous permet de monter des vidéos en y ajoutant des filtres et des effets premiums
-- Assistance avancée à la rédaction, à la grammaire et à lorthographe avec le Rédacteur Microsoft
-- Jusquà 6 To de stockage en ligne (1 To par personne)
-- Protection contre les rançongiciels pour vos fichiers et photos sur OneDrive
-- Disponible sur PC, Mac, iPhone, iPad, smartphones et tablettes Android
-- Sécurité avancée Microsoft Defender pour vos données personnelles et vos appareils
-- A partager avec un maximum de six personnes
-- Messagerie sécurisée Outlook sans publicité
-- Word, Excel, PowerPoint et OnenOte avec accès hors ligne et fonctionnalités premium
 - Chaque personne peut se connecter sur un maximum de 5 appareils en simultané
+- Clipchamp vous permet de monter des vidéos en y ajoutant des filtres et des effets premiums
+- Protection contre les rançongiciels pour vos fichiers et photos sur OneDrive
+- Assistance avancée à la rédaction, à la grammaire et à lorthographe avec le Rédacteur Microsoft
+- Word, Excel, PowerPoint et OnenOte avec accès hors ligne et fonctionnalités premium
+- Jusquà 6 To de stockage en ligne (1 To par personne)
+- A partager avec un maximum de six personnes
+- Disponible sur PC, Mac, iPhone, iPad, smartphones et tablettes Android
+- Messagerie sécurisée Outlook sans publicité
+- Sécurité avancée Microsoft Defender pour vos données personnelles et vos appareils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CGJFJTXK{{</world>}}

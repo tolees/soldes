@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La vitesse décriture maximale de 140 Mo/s vous permet de capturer des photos en rafale sans manquer une seule photo.
 - Classée V30, la Lexar Silver carte SD prend en charge lenregistrement vidéo jusquà 4K 60 ips pour capturer une vidéo fluide et de haute qualité.
-- La vitesse de lecture maximale de 205 Mo/s accélère, transfère et réduit les temps dattente avec le lecteur de carte Lexar RW310X. Doit utiliser le lecteur de carte Lexar RW310X pour atteindre une vitesse de transfert maximale. (vendu séparément et bientôt disponible)
-- Compatibilité étendue avec une variété dappareils photo et autres appareils, notamment Canon, Sony, Nikon et plus encore.
-- Tranquillité desprit incluse avec Lexar Recovery Tool : un logiciel de récupération de données à vie et une garantie limitée à vie.
 - Conçu pour la durabilité – résistant à lusure, aux chutes, à la température, aux rayons X, aux chocs, aux magnétiques et aux vibrations, vous pouvez donc emporter la Lexar Silver carte sdxc partout où votre prise de vue vous mène.
+- La vitesse de lecture maximale de 205 Mo/s accélère, transfère et réduit les temps dattente avec le lecteur de carte Lexar RW310X. Doit utiliser le lecteur de carte Lexar RW310X pour atteindre une vitesse de transfert maximale. (vendu séparément et bientôt disponible)
+- Tranquillité desprit incluse avec Lexar Recovery Tool : un logiciel de récupération de données à vie et une garantie limitée à vie.
+- Compatibilité étendue avec une variété dappareils photo et autres appareils, notamment Canon, Sony, Nikon et plus encore.
 - Tous les produits Lexar sont soumis à des tests approfondis dans les laboratoires de qualité Lexar, des installations comprenant des milliers de caméras et dappareils numériques différents pour garantir les performances, la qualité, la compatibilité et la fiabilité.
+- La vitesse décriture maximale de 140 Mo/s vous permet de capturer des photos en rafale sans manquer une seule photo.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D12SRVGG{{</world>}}

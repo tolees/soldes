@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à installer au mur ou au plafond avec le matériel inclus.
 - Déploiement simplifié grâce au PoE, Adaptateur secteur (PAV12V25-10000S) vendu séparément.
-- Installation, configuration et administration via l’assistant de configuration instantané.
 - La vitesse et la capacité Dual-Band AX1800, associées à la technologie MU-MIMO, prennent en charge jusquà 128 appareils connectés.
 - Sa taille compacte le rend idéal pour un magasin, le hall dentrée dune entreprise ou tout emplacement où vous souhaitez bénéficier dun réseau WiFi sécurisé, moins encombrant, mais puissant.
+- Facile à installer au mur ou au plafond avec le matériel inclus.
+- Installation, configuration et administration via l’assistant de configuration instantané.
 - Prend en charge la sécurité WPA, WPA2 et WPA3.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

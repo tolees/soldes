@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matière : Toile
-- Semelle en caoutchouc vulcanisé
-- Coton entièrement respirant
-- Superga Œillets en relief
-- Fermeture : Lacets
-- Superga Languette sur le côté et le talon
 - Disponible en plusieurs couleurs
-- Collection : 2013
+- Superga Languette sur le côté et le talon
+- Fermeture : Lacets
 - Élégant et confortable
+- Collection : 2013
+- Semelle en caoutchouc vulcanisé
+- Superga Œillets en relief
+- Coton entièrement respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001PHBQHI{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité jusquà 10 cartes + reçus + billets + CNI + permis de conduire
 - Accès facile aux cartes et contenus visibles en un instant
-- Protection RFID: protège vos cartes contre la fraude
+- Capacité jusquà 10 cartes + reçus + billets + CNI + permis de conduire
 - Portefeuille / Porte-cartes en aluminium format carte didentité et permis de conduire
-- Pratique, compact, résistant et très léger
+- Protection RFID: protège vos cartes contre la fraude
 - Certifié portefeuille en aluminium authentique Ogon
+- Pratique, compact, résistant et très léger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09KHCS6W2{{</world>}}

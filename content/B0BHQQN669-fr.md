@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JAYO PLA+ Filament 1.75 mm  Filament PLA Plus à résistance plus forte pour imprimante 3D  Précision dimensionnelle +/- 0.02 mm  Neatly Wound  Bobine de 1.1 kg  2.42 LBS  330 M   PLA+ Noir'
-date: 2025-08-27 10:56:42
+date: 2025-09-06 11:47:01
 image: 'https://m.media-amazon.com/images/I/41M7UG4yysL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'JAYO'
 buyurl: 'https://www.amazon.fr/dp/B0BHQQN669/?tag=tolees0d-21'
 descuento: '26.10'
-average: '17.6248148148147'
+average: '17.5810344827585'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ​【Bobinage parfait】​ Technologie brevetée de contrôle de tension garantissant un enroulement régulier sans croisement, prévenant les cassures de filament et blocages pendant limpression.
+- 【JAYO PLA+ 3D Filament 1.75mm】Le filament PLA+ de JAYO est 2 à 3 fois plus résistant que les autres filaments PLA+, et aussi facile à utiliser que le PLA. La meilleure ténacité du filament PLA+, sa résistance plus élevée et sa couleur plus vive peuvent rendre le résultat dimpression meilleur.
 - 【Clog-Free & Bubble-Free】Le filament JAYO PLA+ 1,75 mm a une meilleure fluidité, ce qui réduit efficacement lencrassement lors de limpression, et lemballage sous vide en plastique et le déshydratant rendent le filament moins sensible à lhumidité.
 - 【Bonne Adhérence】Le filament PLA+ est meilleur pour ladhérence de toutes les couches et ladhérence au substrat de limprimante, une impression lisse et une surface plus lisse et plus délicate du produit final. Facile à utiliser, faible retrait.
-- 【JAYO PLA+ 3D Filament 1.75mm】Le filament PLA+ de JAYO est 2 à 3 fois plus résistant que les autres filaments PLA+, et aussi facile à utiliser que le PLA. La meilleure ténacité du filament PLA+, sa résistance plus élevée et sa couleur plus vive peuvent rendre le résultat dimpression meilleur.
-- ​【Bobinage parfait】​ Technologie brevetée de contrôle de tension garantissant un enroulement régulier sans croisement, prévenant les cassures de filament et blocages pendant limpression.
 - 【Diamètre du filament de haute précision】Le filament pour imprimante 3D JAYO PLA Plus a un diamètre de 1.75 mm, une précision dimensionnelle +/- 0.02 mm sans exagération, de faibles tolérances de diamètre garantissent une alimentation fluide et une impression fluide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

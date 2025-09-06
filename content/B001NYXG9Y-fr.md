@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
-- Piles requises: Non
 - matériel authentique
+- KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
 - Fabriqué en : Taïwan
+- Piles requises: Non
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001NYXG9Y{{</world>}}

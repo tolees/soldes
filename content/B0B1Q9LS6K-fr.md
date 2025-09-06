@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Design compact idéal pour la maison, le bureau ou les voyages
 - Accédez à une puissance de 65 W lorsque vous n’utilisez qu’un seul port USB-C ou 45 W + 20 W lorsque vous utilisez les deux
 - La technologie GaN intégrée fournit une charge puissante et efficace, sans surchauffe
-- Rechargez rapidement deux appareils compatibles en même temps grâce au double port USB-C*
-- Optimisé pour Apple, Samsung, Nintendo Switch et autres appareils compatibles
 - Compatible USB-C PD 3.0 pour recharger un iPhone 13 de zéro à 50 % en 28 minutes et un Samsung Galaxy S21+ de zéro à 50 % en 27 minutes
-- Design compact idéal pour la maison, le bureau ou les voyages
+- Rechargez rapidement deux appareils compatibles en même temps grâce au double port USB-C*
 - La technologie PPS offre un ajustement dynamique pour fournir une puissance de charge optimale aux appareils compatibles
+- Optimisé pour Apple, Samsung, Nintendo Switch et autres appareils compatibles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B1Q9LS6K{{</world>}}
