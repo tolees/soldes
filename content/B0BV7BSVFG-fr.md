@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Deze interactieve LEGO Indiana Jones bouwset bevat een gedetailleerde, bouwbare tempel waarmee kinderen vanaf 8 jaar een epische ontsnapping kunnen naspelen
 - Kinderen kunnen een scène uit de Raiders of the Lost Ark film herbeleven met deze set inclusief 2 standbeelden, een mummie en slangen
+- Bekijk meer LEGO Indiana Jones sets, zoals de gevechtsvliegtuig achtervolging (77012) en de Tempel van het Gouden Beeld (77015) set voor nog meer bouwplezier
 - LEGO Indiana Jones bouwbaar speelgoed laat ouders genieten van nostalgie en laat kinderen kennismaken met de actievolle verhalen van de eerste 3 films
 - Het Anubis beeld kan vallen en door een muur breken om een verborgen doorgang te onthullen waar een mummie verschijnt om de ontsnappende Indiana Jones bang te maken
-- Bekijk meer LEGO Indiana Jones sets, zoals de gevechtsvliegtuig achtervolging (77012) en de Tempel van het Gouden Beeld (77015) set voor nog meer bouwplezier
 - Bevat 4 LEGO Indiana Jones minifiguren, waaronder iconische personages: Indiana Jones met zijn beroemde hoed en zweep, Marion Ravenwood, Sallah en een mummie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

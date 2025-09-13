@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclusief 4 LEGO Star Wars figuren: Baylan Skoll en Shin Hati, elk met lichtzwaarden, plus Morgan Elsbeth en Captain Porter met een blasterpistool en een New Republic LEGO Astromech Droid figuur
 - Met deze LEGO Star Wars New Republic E-Wing vs. Shin Hatis Starfighter set kunnen Star Wars: Ahsoka fans de strijd tussen Shin Hatis Starfighter en Captain Porters New Republic E-Wing naspelen
+- Inclusief 4 LEGO Star Wars figuren: Baylan Skoll en Shin Hati, elk met lichtzwaarden, plus Morgan Elsbeth en Captain Porter met een blasterpistool en een New Republic LEGO Astromech Droid figuur
 - Geef deze 1.056-delige LEGO Star Wars set als kerstcadeau, verjaardagscadeau of speciale traktatie aan Star Wars: Ahsoka fans
-- Het New Republic E-Wing ruimteschip model heeft 2 noppenschieters, minifiguur cockpit, ruimte onder de stoel voor een blasterpistool, een plaats achter de cockpit voor een droid figuur en intrekbaar landingsgestel
 - Het Shin Hatis Starfighter heeft een te openen minifiguur cockpit, 2 noppenschieters, een opbergruimtes voor Shin Hatis en Baylan Skolls lichtzwaarden, plus een blasterpistool
+- Het New Republic E-Wing ruimteschip model heeft 2 noppenschieters, minifiguur cockpit, ruimte onder de stoel voor een blasterpistool, een plaats achter de cockpit voor een droid figuur en intrekbaar landingsgestel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BV7HBF6R{{</world>}}

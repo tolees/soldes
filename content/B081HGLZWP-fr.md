@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient les jumeaux, la poussette et 2 hochets.
 - Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour.
+- Contient les jumeaux, la poussette et 2 hochets.
 - A partir de 3 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

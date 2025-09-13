@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dans Draconia, vous pourrez trouver de nombreux objets que l’on surnomme les « Mille Trésors. » Pour atteindre leur objectif final sur « L’île au trésor », Érik, Mia et leur brigade de monstres devront mettre la main sur les « Sept pierres ».
 - Recrutez des monstres pour en faire vos alliés et chassez des trésors dans un vaste monde ouvert.
 - Exposez vos trésors en ligne et agrandissez votre collection pour compléter l’encyclopédie des trésors !
-- Dans Draconia, vous pourrez trouver de nombreux objets que l’on surnomme les « Mille Trésors. » Pour atteindre leur objectif final sur « L’île au trésor », Érik, Mia et leur brigade de monstres devront mettre la main sur les « Sept pierres ».
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8P9SL3W{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Housse 100 % cuir de vachette
 - Rembourrage multicouche unique à larrière du poignet
 - rembourrage 60 % latex, 25 % EVA doux, 15 % EVA
+- Housse 100 % cuir de vachette
 - doublure 100 % polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})

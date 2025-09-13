@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- IP54 résistant à l’eau et à la poussière
+- Ultra fin : 7,74 mm
 - Mode Confort des yeux 90 Hz pour l’écran
 - Chipset UNISOC T612. Appareil photo I.A. de 50 MP
-- IP54 résistant à l’eau et à la poussière
 - Charge SuperVOOC 45 W, Batterie puissante de 5 000 mAh, Prise USB Type C
-- Ultra fin : 7,74 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DFYGK2W3{{</world>}}

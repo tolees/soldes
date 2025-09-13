@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Écusson drapeau Tommy Jeans sur la poitrine
-- Entièrement doublée
 - Bande de logo Tommy Jeans sur les poignets et lourlet
+- Entièrement doublée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D1RG19G4{{</world>}}

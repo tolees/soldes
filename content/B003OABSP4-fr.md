@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- USAGE QUOTIDIEN : Discrètes, les lingettes s’emportent partout avec vous et vous apportent un sentiment de fraîcheur
-- TESTÉ DERMATOLOGIQUEMENT : Ces lingettes sont testées sous contrôle gynécologique et dermatologique
-- PH ADAPTÉ : Grâce à leur formule douce et à leur pH adapté, les lingettes Intima respectent l’équilibre naturel de la flore intime
 - SANS ALCOOL : Les lingettes Intima sont sans alcool et à lextrait dHamamélis pour une fraîcheur longue durée
+- TESTÉ DERMATOLOGIQUEMENT : Ces lingettes sont testées sous contrôle gynécologique et dermatologique
+- USAGE QUOTIDIEN : Discrètes, les lingettes s’emportent partout avec vous et vous apportent un sentiment de fraîcheur
+- PH ADAPTÉ : Grâce à leur formule douce et à leur pH adapté, les lingettes Intima respectent l’équilibre naturel de la flore intime
 - CONTENU : Ce pack contient 20 lingettes Intima à l’extrait dHamamélis pour votre hygiène intime
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

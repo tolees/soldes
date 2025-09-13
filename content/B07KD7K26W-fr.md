@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe droite
-- Kangaroo pocket
 - Tissu doux
+- Kangaroo pocket
 - Poche kangourou
+- Coupe droite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD7K26W{{</world>}}

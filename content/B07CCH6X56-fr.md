@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nouvelles fonctionnalités que i8+: boutons multimédia, touches fléchées, interrupteur dalimentation, boutons gauche et droite, molette de défilement.
-- Idéal pour les appareils tels que les Smart TV, Raspberry Pi, ordinateurs portables Mac OS, Xbox 360, Xbox One, PS3, PS4, Google Android TV Box, HTPC IPTV et autres appareils etc
 - Le pavé tactile prend en charge les fonctions multi-doigts en un seul clic, le clic gauche de la souris en deux clics tandis que le clic droit de la souris glisse avec deux doigts car le seul doigt roulant fonctionne comme un curseur glissant.
+- Idéal pour les appareils tels que les Smart TV, Raspberry Pi, ordinateurs portables Mac OS, Xbox 360, Xbox One, PS3, PS4, Google Android TV Box, HTPC IPTV et autres appareils etc
 - Alarme automatique après 3 minutes sans activité, le clavier passe en mode veille. En état de veille, tous les voyants séteignent. En appuyant sur nimporte quelle touche, le touchpad se remet en marche.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

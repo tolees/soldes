@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le coffret Hot Wheels Monster Trucks Arena Smashers Combat Mega-Wrex vs Gorzilla, les enfants font rouler le véhicule Mega-Wrex et le lancent en direction de Gorzilla. La victoire est à eux s’ils renversent la créature qui tournoie et pivote !
-- Les enfants peuvent déposer les voitures à écraser dans la gueule de Gorzilla pour lui donner à manger, puis lancer le véhicule Mega-Wrex au point d’impact approprié pour les libérer. (Autres véhicules vendus séparément.)
+- La base du coffret bouge et tremble pendant que les enfants jouent, pour une expérience de jeu sensorielle pendant les collisions.
 - Gorzilla bouge en fonction des attaques du véhicule Mega-Wrex, pour une zone de jeu à 360 degrés et des détails incroyables à explorer.
 - Le coffret inclut 1 véhicule Hot Wheels Monster Trucks Mega-Wrex à l’échelle 1/64 et 2 voitures à écraser que les enfants peuvent disposer dans les tribunes ou donner à manger à Gorzilla.
-- La base du coffret bouge et tremble pendant que les enfants jouent, pour une expérience de jeu sensorielle pendant les collisions.
+- Les enfants peuvent déposer les voitures à écraser dans la gueule de Gorzilla pour lui donner à manger, puis lancer le véhicule Mega-Wrex au point d’impact approprié pour les libérer. (Autres véhicules vendus séparément.)
+- Avec le coffret Hot Wheels Monster Trucks Arena Smashers Combat Mega-Wrex vs Gorzilla, les enfants font rouler le véhicule Mega-Wrex et le lancent en direction de Gorzilla. La victoire est à eux s’ils renversent la créature qui tournoie et pivote !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN156MBT{{</world>}}

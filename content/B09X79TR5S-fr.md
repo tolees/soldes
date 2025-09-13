@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Marque: ISDIN
 - Type de produit : SUNSCREEN
 - ISDIN FUSION WATER URBAN SPF 30 50 ML PROTECTEUR URBANO 5 ACCIONES
-- Marque: ISDIN
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09X79TR5S{{</world>}}

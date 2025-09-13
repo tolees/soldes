@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Évalué à MTTF supérieur à 1,5 million d’heures pour une longévité et une fiabilité prolongées
-- Endurance : 220 Nombre total d’octets écrits (TBW)
-- Jusqu’à 43% plus rapide que les SSD NVMe Gen3 les plus performants
 - Rétrocompatibilité avec Gen3
+- Évalué à MTTF supérieur à 1,5 million d’heures pour une longévité et une fiabilité prolongées
 - Technologie NVMe (PCIe Gen4 x4) avec jusqu’à 5000 Mo/s de lectures séquentielles, lecture/écriture aléatoire 650K/800K IOPS
+- Endurance : 220 Nombre total d’octets écrits (TBW)
 - Espace de stockage généreux jusqu’à 4To
+- Jusqu’à 43% plus rapide que les SSD NVMe Gen3 les plus performants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B25NXWC7{{</world>}}

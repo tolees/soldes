@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 【Smart Control】SONOFF robinet de radiateur thermostatique Zigbee a toutes les fonctions intelligentes, y compris la télécommande APP, le contrôle vocal, lhoraire défini, le contrôle de groupe, etc.
 - 【Open Window Detection】Automatiquement éteint le radiateur lors de la ventilation, aidant à éviter le gaspillage dénergie inutile.
+- 【Zigbee 3.0 Standard Compatible】Supporte les hubs Zigbee utilisant le protocole Zigbee 3.0, et théoriquement supporte lajout à nimporte quel hub Zigbee développé en accord avec les protocoles Zigbee 3.0. Tels que SONOFF NSPanel Pro, ZB Bridge Pro, et ZBDongle-E.
 - 【Compatible avec la plupart des fabricants de chauffage】Convient aux vannes de radiateur existantes M30 x 1,5mm, et les adaptateurs de vanne dans le paquet sont compatibles avec la plupart des systèmes de chauffage et des fabricants.
 - 【Complet fonctionnel】La sécurité enfant empêche les enfants de malmener le radiateur. La protection antigel veille à ce que les tuyaux ne gèlent pas et néclatent pas, ce qui garantit la sécurité de votre maison. La prise en charge de 6 mois dinterrogation des données historiques vous permet dutiliser les données pour trouver des idées pour démarrer le chauffage plus tôt ou plus tard la prochaine fois.
-- 【Zigbee 3.0 Standard Compatible】Supporte les hubs Zigbee utilisant le protocole Zigbee 3.0, et théoriquement supporte lajout à nimporte quel hub Zigbee développé en accord avec les protocoles Zigbee 3.0. Tels que SONOFF NSPanel Pro, ZB Bridge Pro, et ZBDongle-E.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFXY26H1{{</world>}}

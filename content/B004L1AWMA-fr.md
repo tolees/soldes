@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - le marqueur STABILO Ohpen permanent écrit sur la plupart des surfaces lisses : verre, métal, plastique, papier, disque
-- Le grip antidérapant permet une meilleur prise en main du stylo
-- Stylo marqueur à encre permanente. Marqueur indélébile
-- Stylo marqueur muni dun clip daccroche
 - Stylo à pointe moyenne 1 mm
+- Stylo marqueur à encre permanente. Marqueur indélébile
+- Le grip antidérapant permet une meilleur prise en main du stylo
+- Stylo marqueur muni dun clip daccroche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004L1AWMA{{</world>}}

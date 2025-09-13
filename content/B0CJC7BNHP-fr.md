@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kingston FURY Infrared Sync Technology brevetée
-- Un potentiel doverclocking extrême
 - Conçue pour des performances optimales
 - Effets lumineux RGB dynamiques et personnalisables
+- Kingston FURY Infrared Sync Technology brevetée
+- Un potentiel doverclocking extrême
 - Certifiée Intel XMP 3.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})

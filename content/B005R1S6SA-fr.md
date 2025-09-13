@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu pour masquer les contours de la zone à peindre pour les protéger.
 - Les zones couvertes sont protégées de leau.
 - Les pinceaux peuvent se nettoyer.
+- Conçu pour masquer les contours de la zone à peindre pour les protéger.
 - Laissez sécher complètement avant de peindre dessus.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

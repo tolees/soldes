@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dés 40°
 - En machine ou à la main
-- Facile dutilisation sur coton, lin soie et viscose
+- Dés 40°
 - Pour teindre jusquà 200g de textile
+- Facile dutilisation sur coton, lin soie et viscose
 - Contenu du packaging: 1 dose de teinture de 40 ml + 1 dose de fixateur de 50g
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau : plastique
 - Poids : 6 g - Dimensions : 64 x 19 x 7 mm
 - Taux de transfert : lecture : jusquà 28,00 Mo/s (187x), écriture : jusquà 6,50 Mo/s (43x)
-- Matériau : plastique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B088KRDH5D{{</world>}}

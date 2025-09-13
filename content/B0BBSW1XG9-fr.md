@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lokhlass à construire mécanisé et hautement détaillé de 18 cm de haut
 - Sous licence officielle de The Pokémon Company International
+- Lokhlass à construire mécanisé et hautement détaillé de 18 cm de haut
 - Coffret de construction de 527 pièces doté de la nouvelle brique de mouvement : tournez la manivelle pour faire bouger Lokhlass
 - La tête de Lokhlass bouge de gauche à droite lorsque vous tournez la manivelle
 - Les pièces sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres marques de briques de construction

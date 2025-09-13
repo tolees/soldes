@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revivez des scènes spectaculaires de Star Wars : The Clone Wars en reproduisant des détails authentiques du casque du Capitaine Rex en briques LEGO
+- Affichez fièrement ce modèle de collection LEGO Star Wars sur un support en brique avec un écriteau ; cest un élément de décor qui attire lattention
 - Cet ensemble LEGO Star Wars de 854 pièces pour adultes est une superbe idée de cadeau pour tout fan, un constructeur LEGO expérimenté ou un collectionneur de casques LEGO Star Wars
 - Fait partie dune collection de casques LEGO Star Wars à construire et à exposer ; comprend des instructions illustrées en version imprimée et sur lapplication LEGO Builder
-- Affichez fièrement ce modèle de collection LEGO Star Wars sur un support en brique avec un écriteau ; cest un élément de décor qui attire lattention
+- Revivez des scènes spectaculaires de Star Wars : The Clone Wars en reproduisant des détails authentiques du casque du Capitaine Rex en briques LEGO
 - Comprend une maquette de casque LEGO Star Wars Captain Rex très détaillé qui permet aux fans de rendre hommage au commandant des clones de la 501e légion
 
 [🛒 Achète-le!!]({{< param buyurl >}})

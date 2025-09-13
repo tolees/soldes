@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en tissu Fire Retardant
-- Système de suspension chambre avec gaines
 - Fermeture Éclair latérale
 - Sol en polyester imperméable 3000 mm
+- Système de suspension chambre avec gaines
 - Système daération « chambre air » avec moustiquaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

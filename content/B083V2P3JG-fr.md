@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poignée légère avec télécommande sans fil (Bluetooth)
-- Inclus des commandes de déclencheur et de zoom et bouton de personnalisation C1 (relié au bouton C1 de lappareil photo)
 - Facilement orientable en portrait, en paysage ou en selfie et convertible en mini-trépied pour des images à la fois nettes et créatives
 - Résiste à la poussière et à lhumidité
+- Inclus des commandes de déclencheur et de zoom et bouton de personnalisation C1 (relié au bouton C1 de lappareil photo)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083V2P3JG{{</world>}}

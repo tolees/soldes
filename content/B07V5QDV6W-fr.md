@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 niveaux de brunissage
-- Manette rétroéclairée
-- Range cordon
 - Centrage automatique
+- Range cordon
+- 6 niveaux de brunissage
 - 2 fentes extra larges
+- Manette rétroéclairée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07V5QDV6W{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AMÉLIOREZ VOTRE OBJECTIF : ESWAP X2 est doté de deux modules mini-stick S5 NXG, dont la précision chirurgicale est approuvée par des joueurs professionnels renommés
 - GAMEPAD MODULAIRE : Doté de la technologie T-MOD, ESWAP X2 permet aux utilisateurs de changer et de remplacer ses modules sans aucun outil, pour des possibilités de remplacement pratiquement illimitées
 - MAÎTRISEZ VOS DIAGONALES : Le D-pad mécanique a été développé en étroite collaboration avec des experts des jeux de combat pour un confort, une réactivité et un contrôle optimisés
-- RÉACTIVITÉ DE NIVEAU SUPÉRIEUR : Boutons mécaniques 64 % plus rapides que les boutons à membrane standard, avec une distance dactivation réduite à 0,01" / 0,3 mm
 - GAMEPAD OFFICIEL : Manette de jeu officielle compatible avec Xbox Series X|S, Xbox One et Windows
+- AMÉLIOREZ VOTRE OBJECTIF : ESWAP X2 est doté de deux modules mini-stick S5 NXG, dont la précision chirurgicale est approuvée par des joueurs professionnels renommés
+- RÉACTIVITÉ DE NIVEAU SUPÉRIEUR : Boutons mécaniques 64 % plus rapides que les boutons à membrane standard, avec une distance dactivation réduite à 0,01" / 0,3 mm
 - AUGMENTEZ VOTRE ARSENAL : 4 boutons supplémentaires à larrière de lESWAP X2 peuvent être remappés directement via la manette de jeu elle-même, ou à laide du logiciel THRUSTMAPPERX
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jeu d’expérimentation compact
-- Age range description : 8 ans to 14 ans
 - Contient 3 sachets d’alun (sulfate d’aluminium et potassium)
 - Un jeu pour la création de merveilleux cristaux scintillants
+- Age range description : 8 ans to 14 ans
+- Un jeu d’expérimentation compact
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TVNILZS{{</world>}}

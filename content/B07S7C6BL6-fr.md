@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jeu simple et élégant basé sur l’optimisation du paquet de cartes Artefact et l’utilisation judicieuse des essences magiques Il propose un gameplay novateur et passionnant qui offre une multitude de stratégies et une forte rejouabilité
-- Durée de jeu 60 min
-- Un jeu de cartes qui entraîne les joueurs dans un univers de Fantasy flamboyant à travers des mécaniques de combinaisons de gestion de ressources et d’achats et les illustrations sublimes de Julien Delval
-- A partir de 12 ans
-- De 2 à 4 joueurs
 - Dans Res Arcana incarnez un mage et utilisez vos essences arcaniques pour créer détranges artefacts Activez leurs pouvoirs décuplez votre puissance et prenez le contrôle de dragons
+- De 2 à 4 joueurs
+- Un jeu simple et élégant basé sur l’optimisation du paquet de cartes Artefact et l’utilisation judicieuse des essences magiques Il propose un gameplay novateur et passionnant qui offre une multitude de stratégies et une forte rejouabilité
+- A partir de 12 ans
+- Un jeu de cartes qui entraîne les joueurs dans un univers de Fantasy flamboyant à travers des mécaniques de combinaisons de gestion de ressources et d’achats et les illustrations sublimes de Julien Delval
+- Durée de jeu 60 min
 - As d’Or 2020 de la Catégorie Experts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

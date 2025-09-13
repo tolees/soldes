@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tenir loin du feu
-- Fabriqué en Chine
 - Couleur: Mixtes
+- Fabriqué en Chine
 - Dimensions du colis de larticle: 56.6 x 31.8 x 47.8 centimeters
 
 [🛒 Achète-le!!]({{< param buyurl >}})

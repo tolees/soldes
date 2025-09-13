@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produits de beauté
 - Rouges à lèvres
 - Marque loreal
-- Produits de beauté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CGX433V{{</world>}}

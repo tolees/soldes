@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double haut-parleur dynamique
 - Jusqu’à 38 heures dautonomie avec létui de charge
-- Son spatial immersif
 - Une expérience personnalisée avec l’application Xiaomi Earbuds
+- Double haut-parleur dynamique
+- Son spatial immersif
 - Réduction du bruit des appels 3 micros + IA. Réduction active du bruit (ANC)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

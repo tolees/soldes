@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col polo
 - Écusson drapeau tommy jeans sur la poitrine
-- Piqué de pur coton
 - Branding tommy jeans
 - Patte de boutonnage à deux boutons
+- Col polo
+- Piqué de pur coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D7HW1M8P{{</world>}}

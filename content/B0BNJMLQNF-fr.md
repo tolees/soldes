@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualité
 - Semelle en caoutchouc résistante
-- Style rétro
 - Chaussure de basket-ball
+- Haute qualité
+- Style rétro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNJMLQNF{{</world>}}

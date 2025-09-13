@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Devenez l’ultime tueur de zombies : Découper, écraser, brûler, arracher : tout est possible et nous tenons à ce que vous le sentiez passer.
-- Massacre à partager : Profitez d’un mode coop démesuré jusquà trois personnes : votre séjour sanglant à Los Angeles est bien parti pour durer.
 - Survivez à lenfer de L.A. : Plongez dans cette ville mythique, et explorez les quartiers emblématiques de la cité des anges noyés dans le sang !
+- Massacre à partager : Profitez d’un mode coop démesuré jusquà trois personnes : votre séjour sanglant à Los Angeles est bien parti pour durer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BBS6QL4K{{</world>}}

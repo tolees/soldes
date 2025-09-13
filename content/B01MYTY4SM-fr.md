@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Évite les taches d’encre et la décoloration, pour une feuille propre et nette
-- L’encre à base d’eau ne traverse pas le papier pour que votre écriture reste en place
 - La pointe moyenne trace des traits vifs et expressifs qui reflètent votre personnalité
+- L’encre à base d’eau ne traverse pas le papier pour que votre écriture reste en place
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MYTY4SM{{</world>}}

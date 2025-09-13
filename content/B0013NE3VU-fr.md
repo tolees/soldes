@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids: 0.022 kg
-- Couleur: Corps Vert Olive
-- Description du produit: Pentel - Kerry - P1035 vert olive
 - Diamètre: 0,5 mm
+- Description du produit: Pentel - Kerry - P1035 vert olive
 - Type de produit: Porte-Mines Kerry
+- Couleur: Corps Vert Olive
+- Poids: 0.022 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0013NE3VU{{</world>}}

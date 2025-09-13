@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : Synthetic
 - Dessus : Smooth Leather
+- Semelle intérieure : Synthetic
 - Matériau de semelle : Synthetic
 - Doublure : Textile
 

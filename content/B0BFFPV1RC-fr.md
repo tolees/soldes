@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUCHES D’ACTION 2-EN-1 - Programmez deux actions différentes pour la même touche, comme marcher avec une pression légère et sprinter avec une pression plus profonde
-- CONTRÔLE ULTIME - 40 niveaux d’actionnement par touche (0,1 - 4,0 mm) - définissez votre WASD pour des mouvements légers et ultra-rapides et des touches de capacité où appuyer fortement pour éviter de déclencher des coups spéciaux par accident
-- Format esports sans pavé numérique. Fonctionnalité complète. Plaque supérieure en aluminium premium. USB-C amovible.
 - ENTIÈREMENT PERSONNALISABLE ET INCROYABLEMENT RAPIDE avec les switchs OmniPoint 2.0 HyperMagnetic ajustables
 - Actionnement 20x plus rapide, réponse 11x plus rapide que les claviers mécaniques traditionnels
+- Format esports sans pavé numérique. Fonctionnalité complète. Plaque supérieure en aluminium premium. USB-C amovible.
+- CONTRÔLE ULTIME - 40 niveaux d’actionnement par touche (0,1 - 4,0 mm) - définissez votre WASD pour des mouvements légers et ultra-rapides et des touches de capacité où appuyer fortement pour éviter de déclencher des coups spéciaux par accident
+- TOUCHES D’ACTION 2-EN-1 - Programmez deux actions différentes pour la même touche, comme marcher avec une pression légère et sprinter avec une pression plus profonde
 - RAPID TRIGGER - Éradiquez la latence découlant du mouvement physique du switch par un actionnement dynamique et la désactivation des touches basée sur la distance d’enfoncement de la touche plutôt qu’un point fixe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

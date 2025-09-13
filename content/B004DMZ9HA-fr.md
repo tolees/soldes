@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tube et fil métal plastifié
-- Garantie : 1 an(s)
-- Roulettes pivotantes
-- Système dassemblage breveté : rapide, facile et robuste
 - Dimensions : 41 x 23 x 63 cm
+- Garantie : 1 an(s)
+- Système dassemblage breveté : rapide, facile et robuste
+- Tube et fil métal plastifié
+- Roulettes pivotantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004DMZ9HA{{</world>}}

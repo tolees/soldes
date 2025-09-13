@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2.5 centimeters
 - Moyenne
-- Lacet
+- 2.5 centimeters
 - Les chaussures Geox taillent grand
+- Lacet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076X5X9TG{{</world>}}

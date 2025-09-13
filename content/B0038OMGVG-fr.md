@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doux au toucher.
 - Flexible.
 - Facile à enfiler.
+- Doux au toucher.
 - Ingrédients extra durables.
 - Bonne prise en main.
 

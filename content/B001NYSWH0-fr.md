@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Permet le serrage et le desserrage de lécrou central en maintenant la poulie dalternateur
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
-- Pour le montage et le démontage de la poulie débrayable de lalternateur lors du changement de celle-ci ou de lalternateur
 - Cet article n est plus en solde !
 - Utilisations : Audi, BMW, Seat, Škoda, Mercedes, Opel, Peugeot, Porsche, Renault...
-- Permet le serrage et le desserrage de lécrou central en maintenant la poulie dalternateur
+- Pour le montage et le démontage de la poulie débrayable de lalternateur lors du changement de celle-ci ou de lalternateur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001NYSWH0{{</world>}}

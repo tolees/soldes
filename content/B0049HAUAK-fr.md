@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fabriqué en Chine
 - Poids du colis darticle : 0.352 kg
-- Dimensions de lemballage : 0.13 x 0.09 x 0.02 m
 - Couleur : Bleu
+- Dimensions de lemballage : 0.13 x 0.09 x 0.02 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0049HAUAK{{</world>}}

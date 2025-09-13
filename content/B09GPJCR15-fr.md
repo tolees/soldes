@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Seul ou accompagné : le jeu fait la part belle au multijoueur avec la possibilité de jouer en local à 4 en écran splitté
 - Pilotez des véhicules mythiques dans un terrain de jeu immense aux environnements riches et diversifiés
+- Seul ou accompagné : le jeu fait la part belle au multijoueur avec la possibilité de jouer en local à 4 en écran splitté
 - Créez votre Club, managez-le et recrutez les meilleurs joueurs qui croiseront votre route
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le remake complet (visuel, sonore, mécaniques de gameplay et nouveaux modes) du jeu de tir iconique sorti en Arcade en 1996
-- Inclus le code pour télécharger le jeu House of The Dead Remake Switch (Pas de cartouche)
-- Léger (145 grammes), le Gun Controller Holder limite la fatigue et permet de profiter pleinement du jeu
 - Retrouvez les sensations de l’Arcade grâce à une très bonne prise en mains
+- Inclus le code pour télécharger le jeu House of The Dead Remake Switch (Pas de cartouche)
 - Gagnez en précision, rechargez rapidement grâce au bouton de tranche et enchainez les headshots
+- Léger (145 grammes), le Gun Controller Holder limite la fatigue et permet de profiter pleinement du jeu
+- Le remake complet (visuel, sonore, mécaniques de gameplay et nouveaux modes) du jeu de tir iconique sorti en Arcade en 1996
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CL54GGYS{{</world>}}

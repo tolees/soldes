@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Matériau extérieur : cuir
 - Matériau intérieur : textile
 - Fermeture : synthétique
 - Largeur de la chaussure : large
+- Forme du talon : plat
 - Doublure : doublure froide
+- Matériau extérieur : cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W452NPX{{</world>}}

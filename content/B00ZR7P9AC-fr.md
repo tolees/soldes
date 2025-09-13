@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Présentez vos antipasti, amuse-gueules, pâtisseries etc. sur ce plat de service décoratif
 - Matériel: Plastiqué
+- Présentez vos antipasti, amuse-gueules, pâtisseries etc. sur ce plat de service décoratif
 - Dimension: 45,5x32x4,5cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

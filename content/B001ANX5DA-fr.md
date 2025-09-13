@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FACILE A UTILISER : Emballez votre cadeau puis ajoutez une petite touche originale Faites passer le ruban autour de votre présent, utilisez des ciseaux pour friser le ruban et le tour est joué !
-- RUBAN BOLDUC : Une bobine de ruban bolduc lisse Or, pour parfaire vos cadeaux en un claquement de doigt ou encore pour décorer ou attacher des ballons
 - DIMENSIONS : 500mx0,7cm Cest bien assez pour décorer les cadeaux de la famille, des amis ou encore des collègues
+- RUBAN BOLDUC : Une bobine de ruban bolduc lisse Or, pour parfaire vos cadeaux en un claquement de doigt ou encore pour décorer ou attacher des ballons
 - CLAIREFONTAINE Rhodia est le spécialiste de lemballage papier cadeau : nos produits qualitatifs répondent à vos besoins et à vos exigences ! Notre large gamme d’emballages cadeaux vous permettra de sublimer vos cadeaux tout au long de l’année
 - FABRIQUÉ EN FRANCE : Nos rubans bolducs sont fabriqués en France Le support du ruban bolduc est réalisé à partir de matériaux recyclés et est recyclable
 

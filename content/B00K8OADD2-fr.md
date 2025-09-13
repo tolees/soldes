@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - élimine les résidus de saleté et de sueur
-- frais, intense
-- gel nettoyant pour le visage
-- Hommes
 - Nettoie en douceur
+- frais, intense
+- Hommes
+- gel nettoyant pour le visage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00K8OADD2{{</world>}}

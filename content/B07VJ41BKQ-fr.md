@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fitness
 - Confort au quotidien
+- Fitness
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VJ41BKQ{{</world>}}

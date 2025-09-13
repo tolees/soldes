@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pas de montage nécessaire
-- Mesure 90 cm de longueur x 32 cm Largeur x 36 cm Hauteur
 - Pour protéger lenfant de tomber du lit
+- Mesure 90 cm de longueur x 32 cm Largeur x 36 cm Hauteur
 - Entièrement en bois massif : hêtre, non traité
 - À glisser sous le matelas
 

@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Personnalisez facilement le jardin LEGO, en utilisant les supports à la base du modèle pour créer différentes configurations, pour une exposition parfaite à la maison ou comme décoration
 - Les fans de traditions japonaises seront ravis de préparer la cérémonie du thé ; soulevez le toit du pavillon pour révéler les détails, comme la théière, les tasses, le fouet à matcha et dautres
 - Créez un superbe modèle de jardin botanique zen avec un pont voûté, un ruisseau où nage une carpe koï, des fleurs de lotus, des arbres, des rochers, des lanternes de pierre et un pavillon
-- Réjouissez-vous avec ce kit de construction en créant ce havre de paix inspiré par la culture japonaise avec cette maquette à construire LEGO Icons Le Jardin Paisible pour adultes
 - Découvrez un espace de détente avec la maquette à construire LEGO Icons Jardin Paisible - Idée cadeau danniversaire pour les femmes, les hommes et tous les passionnés de jardinage
+- Réjouissez-vous avec ce kit de construction en créant ce havre de paix inspiré par la culture japonaise avec cette maquette à construire LEGO Icons Le Jardin Paisible pour adultes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BLHZED4{{</world>}}

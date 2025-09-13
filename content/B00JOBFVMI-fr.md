@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 1
-- Imprimante photo compacte
-- Utilise notre plus grand format de film, large, taille de film 108 (l) x 86 (h), taille dimage 99 (l) x 62 (h) mm, film vendu séparément
 - Se connecte sans fil via bluetooth aux smartphones
+- Utilise notre plus grand format de film, large, taille de film 108 (l) x 86 (h), taille dimage 99 (l) x 62 (h) mm, film vendu séparément
+- Imprimante photo compacte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JOBFVMI{{</world>}}

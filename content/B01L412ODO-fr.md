@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure: Non doublé
-- Type de talons: Plat
-- Taille: Convient vrai
-- Matériau de semelle: Caoutchouc
 - Dessus: Caoutchouc
+- Type de talons: Plat
 - Remarque : la taille Havaianas Brazil = taille UE, veuillez ne pas tenir compte de la taille UE mentionnée sur la semelle intérieure
+- Matériau de semelle: Caoutchouc
+- Doublure: Non doublé
+- Taille: Convient vrai
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01L412ODO{{</world>}}

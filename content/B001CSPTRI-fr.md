@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CARACTÉRISTIQUES : chaîne (L x Diamètre) : 90 x 1 cm ; deux clés incluses
 - APPLICATION DU CADENAS : recommandé pour une utilisation en intérieur ou extérieur ; antivol universel pour tout type de vélos : vélos de route, vélos électriques, VTT et autres
 - DESIGN DURABLE : le revêtement en nylon protège des rayures
+- CARACTÉRISTIQUES : chaîne (L x Diamètre) : 90 x 1 cm ; deux clés incluses
 - SÉCURITÉ MAXIMALE : chaîne en acier cémenté résistante à la coupe et au sciage ; mécanisme de verrouillage à clé du cylindre à disque anti crochetage intégré pour une sécurité optimale
 - à vie limitée
 

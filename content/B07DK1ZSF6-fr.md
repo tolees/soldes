@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
-- Cuir
-- Textile, synthétique, caoutchouc, 179, sandales sportives
 - Caoutchouc
+- Cuir
 - Scratch
+- Plat
+- Textile, synthétique, caoutchouc, 179, sandales sportives
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07DK1ZSF6{{</world>}}

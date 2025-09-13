@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nutriscore A, Riche en fibres, Source de protéines, Adapté pour les végétariens et les végans, Encore meilleur agrémenté d’une touche d’épices ou d’herbe
 - Simple et rapide à préparer en 2 min au micro-onde, Format nomade et pratique à emporter partout, Ouverture facile, Pour 1 à 2 personnes
-- Sachet micro-ondable de purée lentilles corail et potimarron, Idéal pour accompagner vos plats
 - Contenu : 1 Sachet micro-ondable Purée Lentilles corail & Potimarron Céréal Bio, Prêt à réchauffer, Poids net : 250g, 200628
+- Nutriscore A, Riche en fibres, Source de protéines, Adapté pour les végétariens et les végans, Encore meilleur agrémenté d’une touche d’épices ou d’herbe
 - Lentilles corail et potimarron issus de l’agriculture biologique, Fabriqué en France, Sans colorants conformément à la réglementation en vigueur, Emballage plastique recyclable avec TerraCycle
+- Sachet micro-ondable de purée lentilles corail et potimarron, Idéal pour accompagner vos plats
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KM9Q9T0{{</world>}}

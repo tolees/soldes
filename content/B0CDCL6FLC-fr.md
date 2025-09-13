@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Stockage sécurisé et Flexible】Enregistre localement jusquà 512 Go sur une carte microSD, (non incluse) ou sur le Cloud (30 jours dessai gratuit avec Historique des clips vidéo sur 30 jours) pour pour que vous puissiez y accéder à votre convenance, quel que soit létat de la caméra
-- 【Détection de mouvement et Alarmes】Recevez des notifications instantanées depuis lapplication Tapo lorsquun mouvement est detecté. Déclenchez des effets lumineux et sonores pour effrayer les visiteurs indésirables
+- 【Mode Vie Privée】Vous pouvez activer le mode de confidentialité, ce qui permet de fermer physiquement lobjectif de lappareil photo pour renforcer la sécurité de la confidentialité
 - 【Audio Bidirectionnel】Communiquez à distance et créez une conversation fluide et claire avec votre bébé ou votre animal de compagnie grâce au microphone et au haut-parleur intégré
 - 【Vision nocturne avancée】Même la nuit, la caméra surveillance wifi peut visionner une distance visuelle allant jusqu’à 10 mètres
-- 【Mode Vie Privée】Vous pouvez activer le mode de confidentialité, ce qui permet de fermer physiquement lobjectif de lappareil photo pour renforcer la sécurité de la confidentialité
+- 【Stockage sécurisé et Flexible】Enregistre localement jusquà 512 Go sur une carte microSD, (non incluse) ou sur le Cloud (30 jours dessai gratuit avec Historique des clips vidéo sur 30 jours) pour pour que vous puissiez y accéder à votre convenance, quel que soit létat de la caméra
+- 【Détection de mouvement et Alarmes】Recevez des notifications instantanées depuis lapplication Tapo lorsquun mouvement est detecté. Déclenchez des effets lumineux et sonores pour effrayer les visiteurs indésirables
 - 【2K 4MP & Pan/Tilt 360° Couverture】Caméra surveillance WiFi capturez chaque détail avec une définition 1080P. Mouvement horizontal jusquà 360° et vertical jusquà 114°, une large couverture pour capturer chaque instant. (La caméra wifi ne prend en charge que le WiFi 2.4GHz)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

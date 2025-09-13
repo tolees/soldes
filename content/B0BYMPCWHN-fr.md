@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résolution photo de 50 MP
-- Processeur Exynos 1380 Octo-core
 - Android 13 & Réseau 5G
 - Ecran Super Amoled Infinity 6.4 pouces - 2340 x 1080 - 120Hz
+- Résolution photo de 50 MP
+- Processeur Exynos 1380 Octo-core
 - Mémoire interne de 128 Go - RAM de 8 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

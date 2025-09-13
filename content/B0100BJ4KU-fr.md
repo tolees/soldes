@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- porte darmoire avec verre encastré
 - monté
 - avec 3 étagères
-- porte darmoire avec verre encastré
 - Fabriqué en métal peint en blanc antique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

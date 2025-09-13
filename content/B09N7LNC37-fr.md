@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Forme du talon : plat
 - Matériau intérieur : synthétique
+- Fermeture : caoutchouc
 - Matériau extérieur : synthétique
 - Largeur de la chaussure : moyenne
-- Fermeture : caoutchouc
-- Forme du talon : plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N7LNC37{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Inspiré par de nombreuses licences cultes qui ont marqué lhistoire des jeux de rôle, Evoland vous fera voyager, des graphismes monochromes à la 3D, et des batailles au tour par tour aux combats de boss en temps réel, le tout avec une bonne dose dhumour et de références à des jeux emblématiques.
-- Le style graphique dEvoland 2 change tandis que vous voyagez dans le temps, et son gameplay évolue au fil de laventure. Vous serez amené à traverser différentes époques et même à changer le cours de lhistoire du monde.
 - Lédition est présentée dans un coffret spécial avec le logo du 10ème anniversaire sérigraphié sur le couvercle. En louvrant, vous découvrirez un élégant petit coffre. À lintérieur de ce coffret, vous découvrirez une boîte de présentation contenant 4 pièces commémoratives : une pour chacun des protagonistes masculins et féminins des jeux Evoland.
-- Evoland 1 & 2 10th Anniversary Edition Nintendo Switch - Evoland Legendary Edition vous fait profiter de 2 excellents jeux de rôle uniques, dont le style graphique et le gameplay évoluent au fil de votre progression dans le jeu !
+- Le style graphique dEvoland 2 change tandis que vous voyagez dans le temps, et son gameplay évolue au fil de laventure. Vous serez amené à traverser différentes époques et même à changer le cours de lhistoire du monde.
 - Pleine dhumour et de références à des jeux emblématiques, la série des Evoland propose une aventure épique et extraordinaire, qui se démarque clairement de tous les jeux que vous connaissez.
+- Evoland 1 & 2 10th Anniversary Edition Nintendo Switch - Evoland Legendary Edition vous fait profiter de 2 excellents jeux de rôle uniques, dont le style graphique et le gameplay évoluent au fil de votre progression dans le jeu !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJFY3YFP{{</world>}}

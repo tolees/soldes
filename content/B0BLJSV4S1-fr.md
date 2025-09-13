@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il y a de nombreux éléments à découvrir : faites fondre les perles dans l’eau pour révéler des surprises amusantes
-- Un ascenseur fonctionnel permet de déplacer les mini-figurines entre les cabines et la salle à manger
 - Les enfants peuvent remplir la piscine avec de l’eau pour faire glisser leurs mini-figurines sur le toboggan et appuyer sur la queue du narval pour faire sortir l’eau de son évent
-- Ouvrez le coffret pour laisser apparaître l’intérieur d’un paquebot avec une chambre et une salle de bain amusantes, une salle à manger et un buffet avec de délicieux encas, un terrain de golf, une piste de danse et une incroyable piscine avec toboggan
+- Un ascenseur fonctionnel permet de déplacer les mini-figurines entre les cabines et la salle à manger
 - Montez à bord du bateau les Aventures du Narval Sparkle Cove Adventure et prenez la mer avec ce coffret qui contient 2 mini-figurines, 3 perles solubles, 13 accessoires, 2 niveaux, 6 espaces de jeu et des éléments aquatiques
+- Ouvrez le coffret pour laisser apparaître l’intérieur d’un paquebot avec une chambre et une salle de bain amusantes, une salle à manger et un buffet avec de délicieux encas, un terrain de golf, une piste de danse et une incroyable piscine avec toboggan
+- Il y a de nombreux éléments à découvrir : faites fondre les perles dans l’eau pour révéler des surprises amusantes
 - Montez à bord du bateau les Aventures du Narval Sparkle Cove Adventure et prenez la mer avec ce coffret qui contient 2 mini-figurines, 3 perles solubles, 13 accessoires, 2 niveaux, 6 espaces de jeu et des éléments aquatiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

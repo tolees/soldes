@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bonne transmission de la force de desserrage
 - Réglage du diamètre du filtre en tournant le bouton à lextrémité de la poignée
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
-- Bonne transmission de la force de desserrage
 - Pour le montage et le démontage des filtres et cartouches filtre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

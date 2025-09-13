@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doudoune avec technologie Omni-Heat réfléchissante qui permet une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
+- Contenu : 1x Columbia Powder Lite veste à capuche pour homme, Extérieur : Storm-Lite DP II 100% polyester, Doublure : Omni-Heat Réfléchissant 100% polyester, Isolation : Thermarator 100% polyester, Couleur : Collegiate Navy, Taille : M, Art, No 1693931
+- Veste dhiver à capuche pour homme, Idéal pour les balades en ville ou pour découvrir de nouveaux parcours de randonnée
 - Les poches zippées vous offrent plus de polyvalence, Gardez vos mains au chaud quand vous en avez besoin ou rangez votre téléphone et autres accessoires sans craindre de les faire tomber
 - Tissu résistant à leau qui vous protège des légères averses et du brouillard, Ourlet réglable par cordon pour un ajustement optimal
-- Veste dhiver à capuche pour homme, Idéal pour les balades en ville ou pour découvrir de nouveaux parcours de randonnée
-- Contenu : 1x Columbia Powder Lite veste à capuche pour homme, Extérieur : Storm-Lite DP II 100% polyester, Doublure : Omni-Heat Réfléchissant 100% polyester, Isolation : Thermarator 100% polyester, Couleur : Collegiate Navy, Taille : M, Art, No 1693931
+- Doudoune avec technologie Omni-Heat réfléchissante qui permet une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B072R3MTJM{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessible à tous les fans de la saga Harry Potter, plongez dans lunivers de J.K Rowling et combattez les forces de Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom !
-- Revivez les aventures de Harry, Hermione , Ron et Neville !
-- Les joueurs devront affronter des adversaires emblématiques qui seront de plus en plus nombreux en utilisant la magie, des artefacts et avec laide dalliés mythiques !
-- De 2 à 4 joueurs
-- Ce jeu vous transportera dans le célèbre château de Poudlard durant sept scénarios !
-- Durée de jeu : 30 min
 - A partir de 11 ans
+- Durée de jeu : 30 min
+- Revivez les aventures de Harry, Hermione , Ron et Neville !
+- De 2 à 4 joueurs
+- Les joueurs devront affronter des adversaires emblématiques qui seront de plus en plus nombreux en utilisant la magie, des artefacts et avec laide dalliés mythiques !
+- Accessible à tous les fans de la saga Harry Potter, plongez dans lunivers de J.K Rowling et combattez les forces de Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom !
+- Ce jeu vous transportera dans le célèbre château de Poudlard durant sept scénarios !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08261XFRY{{</world>}}

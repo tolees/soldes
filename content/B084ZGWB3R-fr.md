@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Décontractée
-- Lavage machine à 30° avec des couleurs similaires sur cycle délicat ou laine / pas de blanchiment / séchage à plat pas de séchage en tambour ménager / repassage fer doux / pas de nettoyage à sec
 - 50% Coton Recyclé Ecotec, 50% Polyester recyclé
 - Manche longue
+- Lavage machine à 30° avec des couleurs similaires sur cycle délicat ou laine / pas de blanchiment / séchage à plat pas de séchage en tambour ménager / repassage fer doux / pas de nettoyage à sec
 - Fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})

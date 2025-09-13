@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finition antireflet
 - 8.21E+11
+- Finition antireflet
 - Idéal comme cadeau
 
 [🛒 Achète-le!!]({{< param buyurl >}})

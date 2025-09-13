@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 75% Coton, 23% Polyester, 2% Élasthanne
-- À enfiler
 - Coton
-- Lavage en machine
 - Chaussettes
+- Lavage en machine
+- 75% Coton, 23% Polyester, 2% Élasthanne
 - Uni
 - Coton
+- À enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VFW7PL7{{</world>}}

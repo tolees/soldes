@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : étroite
 - Matériau intérieur : textile
+- Largeur de la chaussure : étroite
 - Forme du talon : plat
 - Matériau extérieur : tissu
 

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mesurant plus de 27 cm, ce modèle fait partie d’une collection LEGO qui propose un loisir passionnant et relaxant aux adultes
-- Ce kit de loisir créatif pour adultes inclut un livret d’instructions étape par étape illustré pour vous guider dans la construction stimulante de ce modèle
-- Parfait pour passer de bons moments seul ou en famille, ce modèle constitue une idée de cadeau original pour les fans de LEGO, les écrivains et amateurs de pièces rétro
-- Il comprend une lettre traduite en 43 langues écrite et signée par le successeur du fondateur du Groupe LEGO à insérer dans la machine à écrire et à exposer
 - La barre à caractères de ce modèle de vieille machine à écrire se lève dès que vous appuyez sur une lettre et est reliée au chariot qui avance au fur et à mesure
 - Ce modèle à construire de 2 079 pièces contient aussi un cylindre en platine où vous pouvez insérer du vrai papier et constituera une magnifique pièce d’exposition
+- Mesurant plus de 27 cm, ce modèle fait partie d’une collection LEGO qui propose un loisir passionnant et relaxant aux adultes
+- Il comprend une lettre traduite en 43 langues écrite et signée par le successeur du fondateur du Groupe LEGO à insérer dans la machine à écrire et à exposer
 - Ce set LEGO pour adultes comprend une machine à écrire vintage à construire et exposer qui bouge et émet des sons comme le modèle original
+- Parfait pour passer de bons moments seul ou en famille, ce modèle constitue une idée de cadeau original pour les fans de LEGO, les écrivains et amateurs de pièces rétro
+- Ce kit de loisir créatif pour adultes inclut un livret d’instructions étape par étape illustré pour vous guider dans la construction stimulante de ce modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097JXDJ3K{{</world>}}

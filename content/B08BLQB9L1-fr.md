@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synthétique
-- Plat
-- Cuir
 - Moyen
 - Caoutchouc
+- Cuir
+- Synthétique
+- Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08BLQB9L1{{</world>}}

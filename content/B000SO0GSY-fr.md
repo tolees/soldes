@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feutre décriture et de dessin
 - Pointe acrylique moyenne de 2mm résistante
+- Feutre décriture et de dessin
 - Encre bleue, soluble à leau
 - Couleurs vives
 

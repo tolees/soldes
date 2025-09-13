@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - TX-TORX percé
+- Poignée en T
 - Acier chrome vanadium extra-fin, satiné mat, chromé
 - Acier trempé
-- Poignée en T
 - Pièces dans le set : huit pcs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

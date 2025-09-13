@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoire qualité fabricant
-- Purifiez lair de votre maison.
+- Compatible avec aspirateurs Philips suivant : Autoclean, Ergofit, Jewel, Marathon, Performer, SilentStar, Specialist, Studio et Universe
+- 1 filtre AEG AFS1W Allergy Plus
 - Compatible avec aspirateurs AEG suivant : ClassicSilence, AeroPerformer, ErgoClassic40, ErgoSpace, Supercyclone, UltraFlex, UltraOne, UltraActive, UltraCaptic, AirMax, Clario, JetMaxx/GREEN, Maximus, Essensio, VivaQuickstop et TwinClean
 - Compatible avec aspirateurs AEG suivant : AEC, AES, AJM, AAM, AAP, ASC, AUF, AVQ, AMX, ATC, AUA, AUO, AUP, AUS, ACS, AAP40, AUC
-- 1 filtre AEG AFS1W Allergy Plus
-- Compatible avec aspirateurs Philips suivant : Autoclean, Ergofit, Jewel, Marathon, Performer, SilentStar, Specialist, Studio et Universe
+- Purifiez lair de votre maison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00PHAHVXM{{</world>}}

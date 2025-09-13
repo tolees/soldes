@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en cuir de porc et maille
 - 100 % lacets recyclés, sangles et doublure en maille
 - Languette à soufflet qui empêche les débris
+- Dessus en cuir de porc et maille
 - Embout de protection et semelle en caoutchouc Vibram TC5+
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ampoule à intensité non variable, non compatible avec un variateur d’intensité
 - Lexcellent indice de rendu des couleurs (IRC > 80) fournit une couleur vive et naturelle ; angle de rayonnement de 150 degrés pour un éclairage large
 - Dune durée de vie de 15 000 heures, lampoule fonctionnera pendant plus de 13 ans (sur la base de 3 heures dutilisation par jour)
+- Ampoule à intensité non variable, non compatible avec un variateur d’intensité
 - Consommant 14 Watts dénergie et coûtant seulement € 2,61 par an à lutilisation, cette ampoule économise jusquà 86% par an et € 219,32 sur sa durée de vie par rapport à une ampoule à incandescence équivalente (sur la base de 3 heures dutilisation par jour, € 0,17 /kWh ; peut varier selon les tarifs et lutilisation)
 - Fournit 1521 lumens de lumière immédiatement, sans temps de chauffe pour atteindre son niveau déclairage maximal
 - Avec une température de couleur de 2 700 kelvin, lampoule fournit une lumière blanc chaud, créant une atmosphère accueillante dans nimporte quelle pièce.

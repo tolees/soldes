@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour dessins techniques et utilisation quotidienne
+- Corps de haute qualité en métal gris argenté
 - Porte-mines technique rechargeable pour mines 0,5mm
 - Porte-mines avec canon rentrant et muni dune gomme
-- Corps de haute qualité en métal gris argenté
 - Indicateur de dureté de la mine sur le corps
 
 [🛒 Achète-le!!]({{< param buyurl >}})

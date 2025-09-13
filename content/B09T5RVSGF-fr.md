@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTENU : 13 pièces dont 1 télécommande, 1 bloc de départ connecté, 1 tunnel connecté trigger, 1 aiguillage connecté switch, 1 élément connecté Elevator, 1 élément connecté Lever, 1 bloc finisher avec 1 tunnel connecté, 2 tuiles, 2 guides et 1 carnet avec plans de montage.
 - UN COFFRET ELECTRONIQUE : Construisez des circuits GraviTrax encore plus spectaculaires avec la version éléctronique POWER ! Ce set dextension inclut 7 Eléments inédits qui fonctionnent électroniquement et communiquent entre eux. Ils senvoient des signaux pour créer un mouvement continu ! Vous pouvez désormais contrôler vos circuits à distance.
+- UN CADEAU IDEAL pour les filles et les garçons dès 8 ans, et pour les fans de construction de tous les âges ! Fabriqués en Europe avec des matériaux de grande qualité, GraviTrax est fait pour durer et garantit des heures de jeu et dassemblage seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël.
 - JEU EDUCATIF STEM : GraviTrax est un système de construction très ludique qui permet aux enfants dexpérimenter des lois physiques comme la gravité, le magnétisme ou la force cinétique. En manipulant les blocs et en testant leurs propres assemblages, ils développent à la fois leur créativité et leur compréhension de ces principes scientifiques.
 - MODULABLE A LINFINI ET COMPATIBLE avec tous les produits GraviTrax. Ce set se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine avec tous les produits GraviTrax. Découvrez un large choix de sets dextension et déléments, TOUS COMPATIBLES entre eux pour booster vos circuits et créer un nombre illimité de parcours.
-- UN CADEAU IDEAL pour les filles et les garçons dès 8 ans, et pour les fans de construction de tous les âges ! Fabriqués en Europe avec des matériaux de grande qualité, GraviTrax est fait pour durer et garantit des heures de jeu et dassemblage seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël.
-- CONTENU : 13 pièces dont 1 télécommande, 1 bloc de départ connecté, 1 tunnel connecté trigger, 1 aiguillage connecté switch, 1 élément connecté Elevator, 1 élément connecté Lever, 1 bloc finisher avec 1 tunnel connecté, 2 tuiles, 2 guides et 1 carnet avec plans de montage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09T5RVSGF{{</world>}}

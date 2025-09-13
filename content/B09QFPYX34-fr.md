@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de pièces : 312
 - Chaque jour, les enfants découvrent un nouveau jouet de Noël qui se combine pour créer une scène enchanteresse : Olivia et sa famille sur un marché de Noël
 - Ce lot comprend des mini-poupées LEGO Friends Olivia et sa famille, un Père Noël, un renne, un traîneau rempli de cadeaux de Noël et plus encore
+- Nombre de pièces : 312
 - LEGO Friends Calendrier de lAvent
 - Âge recommandé par le fabricant : 6 ans
 

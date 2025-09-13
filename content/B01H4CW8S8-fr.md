@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intermédiaire amortissante
-- Semelle extérieure en caoutchouc
-- Tige en cuir synthétique avec détails perforés
 - Cambrion en TPU pour une stabilité accrue
+- Tige en cuir synthétique avec détails perforés
+- Semelle extérieure en caoutchouc
 - Selle au milieu du pied
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

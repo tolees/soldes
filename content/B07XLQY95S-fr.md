@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Mouvement à quartz japonais Citizen Miyota 6S20
 - Cadran anthracite avec chiffres/indices blancs lumineux la nuit, aiguilles luminescentes
-- verre minéral K1 verre de sécurité
-- Fabriqué en Allemagne, propre production à Ruhla
 - Ø 42 mm x h 12 mm, étanche jusquà 10 bar
 - Montre daviateur analogique dans un boîtier en acier inoxydable
+- verre minéral K1 verre de sécurité
+- Fabriqué en Allemagne, propre production à Ruhla
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XLQY95S{{</world>}}

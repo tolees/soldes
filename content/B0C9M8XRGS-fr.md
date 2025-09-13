@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOURRIT EN PROFONDEUR : À base dhuile damande douce, de figue de Barbarie BIO, et de protéines végétales.
 - FORMULATION VÉGÉTALE : Shampooing BIO Dreamy Bubble pour cheveux abîmés, sans sulfates ni produits toxiques.
-- RESPECTE VOS CHEVEUX : Avec 97,5% dingrédients dorigine naturelle et des prébiotiques pour un cuir chevelu en bonne santé.
 - MODE DEMPLOI : Mouillez les cheveux, appliquez le shampoing, massez doucement, rincez. Répétez pour un nettoyage en profondeur.
+- NOURRIT EN PROFONDEUR : À base dhuile damande douce, de figue de Barbarie BIO, et de protéines végétales.
+- RESPECTE VOS CHEVEUX : Avec 97,5% dingrédients dorigine naturelle et des prébiotiques pour un cuir chevelu en bonne santé.
 - ANTI GASPI : Pulpe de Vie lutte contre le gaspillage en créant des soins aux fruits anti-gaspi. Nous utilisons des fruits déclassés (issus des invendus alimentaire), pour vous offrir des produits écoresponsables et certifiés BIO. Pulpe de Vie sengage pour votre bien-être et la planète !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

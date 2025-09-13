@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 85 % coton, 15 % polyester
-- Loopback pour la chaleur et la circulation de lair
 - Coupe normale
+- Loopback pour la chaleur et la circulation de lair
 - Coton brossé pour plus de confort
+- 85 % coton, 15 % polyester
 - Sweat à capuche confortable avec fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

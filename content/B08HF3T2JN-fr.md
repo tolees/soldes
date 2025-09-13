@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu pour sempiler parfaitement avec la valise à roulettes pour matériel de crafting
 - 1 Sac pour la Machine,66 cm x 23,5 cm x 23,5 cm (26" x 9,25" x 9,25")
+- Conçu pour sempiler parfaitement avec la valise à roulettes pour matériel de crafting
 - Une excellente protection pour toutes les machines de découpe Cricut
 - Sac dartisanat Premium pour le transport et le stockage
 

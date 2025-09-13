@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo de Columbia pour inspirer à laventure
-- Une casquette classique à boutons-pression et à maille avec une série unique de nouveaux motifs Punchbowl.
-- Contenu: 1x Columbia Unisexe Casquette, Punchbowl Trucker, Couleur: Bleu (Nocturnal Impressions, White), Taille: O/S, Art. 1934421
 - Une casquette colorée et originale avec une excellente respirabilité grâce à sa conception en maille. Pour le sentier, leau ou tout autre endroit.
+- Logo de Columbia pour inspirer à laventure
+- Contenu: 1x Columbia Unisexe Casquette, Punchbowl Trucker, Couleur: Bleu (Nocturnal Impressions, White), Taille: O/S, Art. 1934421
+- Une casquette classique à boutons-pression et à maille avec une série unique de nouveaux motifs Punchbowl.
 - Coupe structurée avec profil élevé pour une apparence marquante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur : 18 cm, Largeur : 27 cm, Profondeur : 9 cm
 - Grand compartiment principal avec une poche zippée sécurisée à larrière
 - Dispose dune ceinture ajustable afin que vous puissiez le porter comme vous le souhaitez
+- Hauteur : 18 cm, Largeur : 27 cm, Profondeur : 9 cm
 - Fabrication 100% nylon ultra-résistant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

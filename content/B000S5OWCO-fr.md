@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pastels à la cire aquarellables Caran dAche très pigmentés et résistants à la lumière
 - Caran dAche Néocolor 2, couleurs assorties, L: 10 cm, 30 pièce/ 1 Pq.
+- Pastels à la cire aquarellables Caran dAche très pigmentés et résistants à la lumière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000S5OWCO{{</world>}}

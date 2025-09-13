@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- tablette samsung galaxy tab a9 11 graphite 64 go wifi
 - Samsung
+- tablette samsung galaxy tab a9 11 graphite 64 go wifi
 - Couleur : gris
 - Marque: Samsung
 

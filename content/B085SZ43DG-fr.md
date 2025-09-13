@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À tout moment de la journée : lassiette peut être utilisée pour de nombreuses occasions, du petit déjeuner au dîner avec une salade de légumes frais
-- S’intègre dans tous les services : que vous l’associez à de la porcelaine élégante, de lacier inoxydable poli ou dautres matériaux, le verre de cristal de haute qualité rehausse chaque table
-- Originalité : le motif filigrane et extravagant à facettes ainsi que la clarté du verre de cristal font de cette assiette une pièce très spéciale
 - Contenu : 1x Villeroy & Boch Boston assiette à salade/dessert, diamètre : 21 cm, poids : 600 g (réf. 11-7299-0820)
+- À tout moment de la journée : lassiette peut être utilisée pour de nombreuses occasions, du petit déjeuner au dîner avec une salade de légumes frais
+- Originalité : le motif filigrane et extravagant à facettes ainsi que la clarté du verre de cristal font de cette assiette une pièce très spéciale
+- S’intègre dans tous les services : que vous l’associez à de la porcelaine élégante, de lacier inoxydable poli ou dautres matériaux, le verre de cristal de haute qualité rehausse chaque table
 - Facile à combiner : grâce à son design sobre, la flûte à champagne peut être associée à de nombreuses pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

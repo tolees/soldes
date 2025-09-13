@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajustement régulier
-- Tissu doux
-- Department: Homme
 - Avec un logo brodé classique sur la poitrine gauche
+- Department: Homme
+- Tissu doux
+- Ajustement régulier
 - Col rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

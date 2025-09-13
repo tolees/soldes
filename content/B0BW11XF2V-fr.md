@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un Steelbook
 - Un Lenticulaire
-- Un poster
 - Contient : Edition Standard - Couverture Alternative
+- Un poster
+- Un Steelbook
 - Un porte-clé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

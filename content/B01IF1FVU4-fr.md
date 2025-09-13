@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lenses / groups: 6/5; Distance encoder
-- Protected against dust and moisture
 - Compatible with the following objective: SEL-70-200 F2.8 GM
+- Protected against dust and moisture
 - Sony SEL-14TC<br>Front cap<br>Bayonet cap<br>Case<br>
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manufacturer:Makita
 - Brand:Makita
+- Manufacturer:Makita
 - Product Code:BahcoSL25
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

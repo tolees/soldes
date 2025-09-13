@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoyants Savons et Lavage à la Main 500ml
 - Savon à mains nourrissant Bio Shop Rose Peach
+- Nettoyants Savons et Lavage à la Main 500ml
 - produit cosmétique de haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

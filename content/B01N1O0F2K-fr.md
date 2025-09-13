@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Minifigurines - Paul Atréides, Dame Jessica, Gurney Halleck, Chani, Leto Atréides, Liet Kynes, Duncan Idaho et Baron Harkonnen
 - Kit de construction pour les fans du film Dune - Set de construction LEGO Icons Dune Atreides Royal Ornithopter pour adultes à construire avec 8 minifigurines
 - Ensemble LEGO à exposer pour les adultes - Ce véhicule LEGO peut être exposé en mode vol ou en mode atterrissage, ce qui en fait une belle décoration pour la maison ou le bureau
-- Instructions de construction numériques incluses - Lapplication LEGO Builder propose une version numérique des instructions de construction incluses dans cet ensemble de véhicules LEGO
 - Set du film - La réplique LEGO de lornithoptère royal des Atrides de Dune comprend des ailes pliables et battantes et un train datterrissage déployable
+- Instructions de construction numériques incluses - Lapplication LEGO Builder propose une version numérique des instructions de construction incluses dans cet ensemble de véhicules LEGO
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N1O0F2K{{</world>}}

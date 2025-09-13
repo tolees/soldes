@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Télécommande LG avec boutons vidéo NetFlix Prime
+- Télécommande 100% dorigine pour LG AKB75675311
 - Aucune programmation ou configuration requise, ajoutez simplement 2 piles AAA
 - Certains modèles compatibles: 75UM7110PLB 70UM7100PLA 65UM7100PLA 65UM7000PLA 55UM7400PLB 55UM7000PLC 49UM7000PLA 32LM630BPLA
 - Télécommande dorigine LG pour divers LG Smart LED Télévision
-- Télécommande 100% dorigine pour LG AKB75675311
+- Télécommande LG avec boutons vidéo NetFlix Prime
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08JJ9H8ZP{{</world>}}

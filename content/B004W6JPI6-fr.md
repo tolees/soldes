@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stylo bille rétractable Pentel WOW
 - Pointe large 1mm
 - Encre douce de couleur rose
 - Corps triangulaire ergonomique pour une prise en main confortable
+- Stylo bille rétractable Pentel WOW
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004W6JPI6{{</world>}}

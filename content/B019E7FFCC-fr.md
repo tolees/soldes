@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de forets/embouts
 - 2,5 kg
-- Produit sous contrôle strict
-- Poids du colis : 2,5 kg. Accessoires pour outils Makita. Dimensions du paquet : 10 L x 35 H x 25 W. Qualité Makita dorigine, durable et robuste
 - Accessoire Makita dorigine
+- Produit sous contrôle strict
+- Jeu de forets/embouts
+- Poids du colis : 2,5 kg. Accessoires pour outils Makita. Dimensions du paquet : 10 L x 35 H x 25 W. Qualité Makita dorigine, durable et robuste
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B019E7FFCC{{</world>}}

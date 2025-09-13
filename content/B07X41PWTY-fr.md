@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transferts de données rapides
 - Compatibilité USB 3.0 et 2.0
+- Transferts de données rapides
+- Amélioration performances de votre PC
 - Grande capacité
 - Qualité et fiabilité WD
-- Amélioration performances de votre PC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07X41PWTY{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage RVB coloré sous tous les angles : avec 160 lumières LED RVB intégrées dans les panneaux avant
-- Plafond et plancher
 - Possède un design élégant et une fonction conviviale
-- Illuminé par 208 lumières LED RVB adressables individuellement
+- Éclairage RVB coloré sous tous les angles : avec 160 lumières LED RVB intégrées dans les panneaux avant
 - Faites une impression durable : le 5000T RGB se lève avec son style unique
+- Plafond et plancher
+- Illuminé par 208 lumières LED RVB adressables individuellement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09K1YNJTR{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR RAMPES RONDES - En combinant la barrière aux adaptateurs Y, vous pouvez la fixer même à des escalier avec des rampes rondes
-- FERMETURE ADAPTÉE AUX ENFANTS - Grâce au double mécanisme de fermeture, la porte ne peut pas être ouverte par enfants; des adults peuvent louvrir dune seul main dans les deux sens
 - INSTALLATION FACILE - Cette barrière de sécurité se fixe avec quatre vis de réglage entre portes et escalier avec une ouverture de 96 à 101 cm; grâce au système à pression il ne faut pas percer
+- POUR RAMPES RONDES - En combinant la barrière aux adaptateurs Y, vous pouvez la fixer même à des escalier avec des rampes rondes
 - AUTO-AJUSTABLE - Cela signifie que linclinaison initiale/ le trou au niveau du mécanisme de fermeture disparaît en serrant les vis de fixation dans lencadrement
+- FERMETURE ADAPTÉE AUX ENFANTS - Grâce au double mécanisme de fermeture, la porte ne peut pas être ouverte par enfants; des adults peuvent louvrir dune seul main dans les deux sens
 - EXTENSIBLE - Avec les extensions de 9 cm ou de 21 cm (disponibles séparément) cette barrière peut être rallongée jusquà 122 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Feutre à bille Pentel R50
 - Ecriture douce, grand confort décriture
-- Pointe en plastique de 0,4mm
 - Encre verte
+- Pointe en plastique de 0,4mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000J6D3HM{{</world>}}

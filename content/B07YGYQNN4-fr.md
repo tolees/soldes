@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Durable
 - Optimisée pour les dispositifs Android
-- Débits UHS-I Classe 10 jusqu’à 100Mo/s*
 - Capacités jusquà 512Go
+- Débits UHS-I Classe 10 jusqu’à 100Mo/s*
 - Température de stockage: -40 °C~85 °C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

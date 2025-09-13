@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sous licence officielle pour Nintendo Switch
 - Organisateur de câble : curseur réglable pour éviter que le fil ne semmêle lors de lutilisation des écouteurs ou de leur rangement
 - Micro intégré au câble : discutez avec votre équipe et coupez le micro via un commutateur
-- Rangement : comprend une pochette à cordon pour protéger vos écouteurs lorsque vous ne les utilisez pas
 - Connexion filaire : aucune pile ni recharge nécessaire. Prise jack de 3,5 mm avec angle droit pour un résultat plus compact.
-- Transducteurs dynamiques : transducteurs de 8 mm pour profiter du son de vos jeux préférés
 - Ergonomique : conception intra-auriculaire avec 3 embouts interchangeables afin de trouver la taille adaptée
+- Transducteurs dynamiques : transducteurs de 8 mm pour profiter du son de vos jeux préférés
+- Rangement : comprend une pochette à cordon pour protéger vos écouteurs lorsque vous ne les utilisez pas
+- Sous licence officielle pour Nintendo Switch
 - Garantie limitée de 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

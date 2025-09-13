@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - NE MANQUEZ AUCUNE IMAGE : Rafale sans voile noir jusquà 20 images/s avec suivi de la mise au point/de lexposition automatiques
 - PARFAIT POUR LES VIDEASTES: Vidéo 4K en interne avec réglages pros et stabilisation dimage
 - QUALITE DIMAGE A COUPER LE SOUFFLE : Capteur CMOS Exmor RS empilé de type 1.0 dune résolution de 20,1 mégapixels, et doté de la technologie de rétroéclairage pour atteindre une large couverture de sensibilités
-- AUTOFOCUS RAPIDE & PRECIS : grâce aux calculs AF/AE jusquà 60x/sec hérité de lAlpfa 9, cet Autofocus en 0,02s avec Suivi en temps réel sur lœil et mise au point automatique Eye AF gardera votre sujet net en permanence
 - PLAGE FOCALE ETENDUE : Objectif zoom ZEISS Vario-Sonnar T* 24-200mm F.2.8-4.5 à grande ouverture, et haute résolution
+- AUTOFOCUS RAPIDE & PRECIS : grâce aux calculs AF/AE jusquà 60x/sec hérité de lAlpfa 9, cet Autofocus en 0,02s avec Suivi en temps réel sur lœil et mise au point automatique Eye AF gardera votre sujet net en permanence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VLJ5JDV{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grand sac à dos
-- 100 pour cent de polyamide
-- 44 cm de hauteur x 35 de largeur x 20,5 de profondeur
 - Imperméable
+- 44 cm de hauteur x 35 de largeur x 20,5 de profondeur
+- 100 pour cent de polyamide
 - 0,65 kg Poids x 27 L Volume
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

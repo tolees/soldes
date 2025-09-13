@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nom du département: Homme
-- Type de sport: Athletic Sports Apparel
-- Confort de port eleve
 - Marque: nike
 - Haute qualite
+- Confort de port eleve
+- Type de sport: Athletic Sports Apparel
 - Liberte de mouvement absolue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

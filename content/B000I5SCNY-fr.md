@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feutre Sign Pen
-- Pointe acrylique fine 2mm
 - Encre spéciale de couleur noire, soluble à leau
+- Pointe acrylique fine 2mm
+- Feutre Sign Pen
 - 83% de matériaux recyclés
 - Grande douceur décriture
 

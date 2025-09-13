@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - ✓ Télécommande et haut-parleurs 2x3w intégrés
 - ✓ Tension de fonctionnement à 220 V et 12 V, comprend une alimentation domestique.
 - ✓ Avec lecteur de fichiers multimédia sur port USB. Haut-parleurs stéréo
-- ✓ Écran LED 1902 x 1080p de résolution (HD). Ratio de contraste 3000:1 et luminosité de 180cd/m2.
 - ✓ Connexions : AV, USB 2.0, mYPBR, VGA, entrée audio PC, HDMI, Coaxial, prise casque et antenne RF
+- ✓ Écran LED 1902 x 1080p de résolution (HD). Ratio de contraste 3000:1 et luminosité de 180cd/m2.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Z23JP4W{{</world>}}

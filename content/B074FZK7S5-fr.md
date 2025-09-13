@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fixation rapide
-- Matière Duroplast
-- Set de fixation inclus
 - Compatible avec toutes les cuvettes Bau Ceramic
+- Matière Duroplast
 - Déclipsable
+- Set de fixation inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B074FZK7S5{{</world>}}

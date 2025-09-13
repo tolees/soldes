@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez un jeu de combat et d’aventure unique et déjanté basé sur un système de combat au tour par tour et profitez d’un arsenal composé de plus de 250 armes.
-- Embarquez avec votre équipe de héros dans une quête épique pour libérer vos amis et ramener l’ordre dans le Royaume Champignon !
 - Jouez avec un ami en multijoueur local : partagez une paire de manettes Joy-con avec votre ami ou utilisez les manettes de votre Nintendo Switch Pro. Mettez vos compétences tactiques à l’épreuve avec le Mode Versus et opposez-vous à un ami avec une équipe de 3 héros, à travers des champs de bataille uniques remplis de bonus. Vous pouvez aussi relever des défis à deux avec le Mode coopération, défis jouables avec trois niveaux de difficulté.
+- Découvrez un jeu de combat et d’aventure unique et déjanté basé sur un système de combat au tour par tour et profitez d’un arsenal composé de plus de 250 armes.
 - Explorez quatre mondes iconiques remplis de coffres et de secrets, résolvez des énigmes et soyez plus malins que vos ennemis, imprévisibles sur le champ de bataille.
+- Embarquez avec votre équipe de héros dans une quête épique pour libérer vos amis et ramener l’ordre dans le Royaume Champignon !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B072KGQSTV{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- GOOD GRIP
 - CUSHIONING
 - Ingrédients extrêmement durables
-- GOOD GRIP
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQNJG7H{{</world>}}

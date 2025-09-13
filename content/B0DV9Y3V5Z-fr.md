@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend une boîte de film rétro pour contenir le filtre
-- Filtre Chroma CP pour une réduction classique des reflets et des contrastes élevés
 - À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
+- Comprend une boîte de film rétro pour contenir le filtre
 - Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
+- Filtre Chroma CP pour une réduction classique des reflets et des contrastes élevés
 - Un verre Chroma moderne dans un design rétro
 
 [🛒 Achète-le!!]({{< param buyurl >}})

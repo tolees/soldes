@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- -78% DE SEBUM SUR LE CUIR CHEVELU après une seule utilisation* (*Test instrumental sur lélimination des impuretés après application du shampoing purifiant)
-- PURIFIE LE CUIR CHEVELU & LA FIBRE CAPILLAIRE : grâce à sa formule enrichie en AHA 3%, le shampoing anti-gras detoxifie le cuir chevelu et la fibre des résidus pour une sensation de fraîcheur et de propreté. Développé avec des pro. et testé sous contrôle dermatologique, il est sans silicone.
 - Appliquer uniformément sur cuir chevelu et cheveux mouillés. Émulsionner délicatement pour ne pas activer les glandes sébacées. Rincer abondamment. Astuce Pro : utiliser largile 2-en-1 purifiante Scalp Advanced après le shampoing comme un masque.
+- PURIFIE LE CUIR CHEVELU & LA FIBRE CAPILLAIRE : grâce à sa formule enrichie en AHA 3%, le shampoing anti-gras detoxifie le cuir chevelu et la fibre des résidus pour une sensation de fraîcheur et de propreté. Développé avec des pro. et testé sous contrôle dermatologique, il est sans silicone.
+- -78% DE SEBUM SUR LE CUIR CHEVELU après une seule utilisation* (*Test instrumental sur lélimination des impuretés après application du shampoing purifiant)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPYFK6VC{{</world>}}

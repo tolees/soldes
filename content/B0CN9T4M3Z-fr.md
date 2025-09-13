@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de tir à la troisième personne
 - Mode coopératif en ligne jusquà quatre joueurs
 - Expérience solo
+- Jeu de tir à la troisième personne
 - Incarnez la célèbre équipe de vilains de lunivers DC Comics
 
 [🛒 Achète-le!!]({{< param buyurl >}})

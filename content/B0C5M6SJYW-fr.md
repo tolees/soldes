@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Numéro de pièce : CMK64GX5M2B6000C30 | Latence : 30-36-36-76 | Tension : 1.4V | Compatibilité : Intel série 700
+- Profils Intel XMP 3.0 personnalisables : personnalisez et enregistrez vos propres profils XMP via iCUE pour définir la performance par application ou par tâche pour une meilleure efficacité.
+- Puissant logiciel CORSAIR iCUE : Permet d’avoir des mesures en temps réel de la fréquence, une régulation de tension intégrée et des profils XMP personnalisés.
 - Régulation de tension intégrée : Permet un overclocking plus simple, plus stable et plus précis par rapport aux générations précédentes via le logiciel CORSAIR iCUE.
 - Faites tout, et faites-le plus vite : alors que les processeurs ont de plus en plus de coeurs, la vitesse inédite de la DDR5 garantit que votre processeur haut de gamme obtient les données rapidement, ce qui permet un traitement, un rendu et une mémoire tampon plus rapides que jamais.
-- Numéro de pièce : CMK64GX5M2B6000C30 | Latence : 30-36-36-76 | Tension : 1.4V | Compatibilité : Intel série 700
-- Puissant logiciel CORSAIR iCUE : Permet d’avoir des mesures en temps réel de la fréquence, une régulation de tension intégrée et des profils XMP personnalisés.
-- Profils Intel XMP 3.0 personnalisables : personnalisez et enregistrez vos propres profils XMP via iCUE pour définir la performance par application ou par tâche pour une meilleure efficacité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5M6SJYW{{</world>}}

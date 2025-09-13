@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - [ 4K Visualisation, 2K Abordable - QLED+ Dernière Génération ] Metz Smart qled tv MQF7000Z, Profitez de couleurs éclatantes et dune qualité dimage durable grâce à la technologie QLED+ de dernière génération de Metz. Elle offre une luminosité 33% supérieure et une large gamme de couleurs BT.709 de 130%, pour une expérience réaliste à rapport qualité.
-- [ Google TV & Connectivité Optimisée ] Personnalisez votre expérience avec Metz télé Google TV : recommandations personnalisées, les filtres adaptés aux enfants. Équipé du Bluetooth 5.1, 2 × USB, 2 × HDMI, LAN, de la DVB-T/-T2/-C/-S/-S2, CI+ et dune garantie de 2 ans.
 - [ HDR10 & HLG – Contraste Dynamique Elevé ] Les technologies HDR10 et HLG avancées subliment chaque scène de téléviseur avec des noirs plus profonds et des hautes lumières plus lumineuses. Profitez dun contraste accru et de couleurs éclatantes pour une image plus immersive et plus réaliste.
+- [ Google TV & Connectivité Optimisée ] Personnalisez votre expérience avec Metz télé Google TV : recommandations personnalisées, les filtres adaptés aux enfants. Équipé du Bluetooth 5.1, 2 × USB, 2 × HDMI, LAN, de la DVB-T/-T2/-C/-S/-S2, CI+ et dune garantie de 2 ans.
 - [ Eye-Care – Faible Lumière Bleue & Sans Scintillement ] Metz Led television MQF7000Z, Profitez dun confort visuel prolongé grâce à des fonctions avancées de protection oculaire. Lécran à faible lumière bleue et sans scintillement contribue à réduire la fatigue oculaire pendant le travail, le streaming ou les jeux.
 - [ Dolby Audio & Wonder Sound – Adaptés à Chaque Scène ] Fort de 87 ans dexpertise, Metz Wonder Audio offre un son surround riche et clair. Metz 32 pouces TV, six modes adaptatifs et réduction du bruit optimisent le son pour les films, la musique et bien plus encore.
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jouet LEGO City L’Immeuble d’Habitation comprend des pièces modulaires combinables, dont un magasin de jouets, ainsi que des personnages et des accessoires amusants pour les enfants dès 6 ans
-- Ce jouet de construction modulaire comprend un immeuble dappartements avec de faux panneaux solaires, un magasin de quartier, un salon, une cuisine, une chambre à coucher et une salle de bains
 - Comprend 6 minifigurines pour imaginer des histoires, ainsi que des accessoires, notamment une bouteille de jus de fruit, un hot-dog, un téléphone portable, des haltères, un vélo et un scooter
 - Ce jouet modulaire LEGO est un cadeau danniversaire amusant pour les enfants, un cadeau de Noël ou une surprise pour les garçons et les filles dès 6 ans et les fans de jeux imaginatifs
+- Le jouet LEGO City L’Immeuble d’Habitation comprend des pièces modulaires combinables, dont un magasin de jouets, ainsi que des personnages et des accessoires amusants pour les enfants dès 6 ans
+- Ce jouet de construction modulaire comprend un immeuble dappartements avec de faux panneaux solaires, un magasin de quartier, un salon, une cuisine, une chambre à coucher et une salle de bains
 - Les enfants peuvent combiner les pièces modulaires, la piscine et la terrasse pour reconfigurer limmeuble dappartements et profiter dun accès ouvert à lintérieur détaillé pour jouer facilement
 - Le jouet pour enfants comprend une plaque de route LEGO pour se combiner à dautres sets du thème LEGO City (vendus séparément) pour encore plus daventures
 

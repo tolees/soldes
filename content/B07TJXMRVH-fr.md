@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ④【PETG Filament Réglage Recommandé】 - température de la buse: 220 ° C - 250 ° C; Température du lit: 75 ° C - 85 ° C; Ventilateur de refroidissement: éteint ou 50%. Avec des couleurs vives et un faible retrait, le filament PETG SUNLU est lun des filaments dimprimante 3D les plus utilisés.
-- ⑤【Garantie après-vente】 SUNLU est une entreprise de haute technologie spécialisée dans la recherche et le développement, la production et la distribution de filaments dimpression 3D, dimprimantes 3D et de nombreux matériaux dimpression 3D tels que le PLA, le PETG, etc. Choisissez SUNLU et achetez sans risque.
-- ③【Filament PETG Facile à Utiliser】 - pas denchevêtrement, pas de blocage, pas de bulles. Le filament PETG SUNLU convient à la plupart des imprimantes 3D. Le filament est complètement sec et scellé sous vide avec un dessicant 24 heures avant lemballage. Cela augmentera considérablement le taux de réussite de l’impression 3D.
 - ②【SUNLU Strong PETG Filament】 - le SUNLU PETG filament 1.75 est en plastique PETG et combine les avantages du filament PLA et du filament ABS. Le filament PETG SUNLU est aussi facile à utiliser que le filament PLA et riche en couleurs; Aussi durable et résistant aux chocs que le filament ABS, cest un filament puissant.
+- ③【Filament PETG Facile à Utiliser】 - pas denchevêtrement, pas de blocage, pas de bulles. Le filament PETG SUNLU convient à la plupart des imprimantes 3D. Le filament est complètement sec et scellé sous vide avec un dessicant 24 heures avant lemballage. Cela augmentera considérablement le taux de réussite de l’impression 3D.
 - ①【SUNLU 1KG PETG Filament 】SUNLU est un pionnier dans la technologie de filament dimpression 3D "neatly wound", le filament PETG sunlu a une bonne capacité denroulement et ne noue pas, améliorant considérablement le taux de réussite de limpression.
+- ⑤【Garantie après-vente】 SUNLU est une entreprise de haute technologie spécialisée dans la recherche et le développement, la production et la distribution de filaments dimpression 3D, dimprimantes 3D et de nombreux matériaux dimpression 3D tels que le PLA, le PETG, etc. Choisissez SUNLU et achetez sans risque.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TJXMRVH{{</world>}}

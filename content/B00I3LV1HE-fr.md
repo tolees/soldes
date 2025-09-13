@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gamme de fréquences effective 8 Hz – 22 kHz
+- Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz – 22 kHz, oreillettes en silicone, choix de coloris
+- Diaphragmes en néodyme de 9 mm
 - Capacité: 100 mW
+- SENSIBILITÉS (DB/MW): 100 dB/mW
 - Taille daffichage: 2.4 pouces
 - Disponible dans différents coloris
 - Longueur du cordon: 1,2 m
-- Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz – 22 kHz, oreillettes en silicone, choix de coloris
-- SENSIBILITÉS (DB/MW): 100 dB/mW
-- Diaphragmes en néodyme de 9 mm
+- Gamme de fréquences effective 8 Hz – 22 kHz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00I3LV1HE{{</world>}}

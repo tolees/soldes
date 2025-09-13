@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enceinte multiroom
-- Acoustique nouvelle génération
 - Commandes tactiles
+- Enceinte multiroom
 - Wi-Fi 6 - Bluetooth 5 - USB-C
+- Acoustique nouvelle génération
 - Son stéréo calibré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
-- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
 - Ellipse ECO 650 VA / 400 watts
 - Fiable
+- 24 mois de garantie eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
 - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
+- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0052JCHGE{{</world>}}

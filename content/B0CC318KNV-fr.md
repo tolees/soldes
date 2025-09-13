@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Botte de sécurité S3
 - Embout en aluminium
 - Membrane imperméable à leau
 - Semelle Vibram avec insert pour fixation semi-automatique des crampons
-- Botte de sécurité S3
 - Idéal pour ceux qui ont besoin dune chaussure avec des caractéristiques outdoor/montagne certifiées selon la législation de lUE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

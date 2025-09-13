@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : caoutchouc
-- Fermeture : fermeture éclair
 - Matériau extérieur : cuir
+- Fermeture : fermeture éclair
+- Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7VKGBR{{</world>}}

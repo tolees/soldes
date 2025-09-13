@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - JOUE AUSSI AVEC LES AUTRES JEUX SUPER MARIO Collectionne les figurines présentes dans ton coffret SUPER MARIO PIRANHA PLANT ESCAPE!, et joue avec les autres jeux de la gamme : SUPER MARIO BLOW UP! SHAKY TOWER, Super Mario Balancing Game (Ground Stage, Underground Stage et Castle Stage), grâce au LINK SYSTEM (produits vendus séparément)
 - CADEAU IDÉAL POUR LES ANNIVERSAIRES ET NOËL Le cadeau parfait pour les enfants dès 4 ans, à offrir pour les anniversaires et à Noël. Ce jeu de société est parfait pour des moments de détente et rigolade
+- PARFAIT POUR RIGOLER EN FAMILLE OU ENTRE AMIS ! Ce jeu d’équilibre de 2 à 4 joueurs promet des heures de suspens et rigolade en famille ou entre amis. Sauras-tu ne pas réveiller la plante Piranha de l’univers SUPER MARIO ?o Super Mario character figures and two character plates are included
 - SUPER MARIO PIRANHA PLANT ESCAPE UN SUSPENS DINGUE ! Mario et Luigi se promènent autour de la plante Piranha ! Lance le dé et fais avancer ton personnage sur la case correspondante. Presse le bouton autant de fois qu’indiqué sur le plateau de jeu, mais ne réveille pas la plante Piranha. Echappe à la plante et tu gagneras
 - 2 FIGURINES EXCLUSIVES MARIO À COLLECTIONNER Avec le jeu de société SUPER MARIO PIRANHA PLANT ESCAPE!, crée toi une véritable collection de figurines de l’univers SUPER MARIO
-- PARFAIT POUR RIGOLER EN FAMILLE OU ENTRE AMIS ! Ce jeu d’équilibre de 2 à 4 joueurs promet des heures de suspens et rigolade en famille ou entre amis. Sauras-tu ne pas réveiller la plante Piranha de l’univers SUPER MARIO ?o Super Mario character figures and two character plates are included
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B088FWG6NB{{</world>}}

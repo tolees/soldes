@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation adaptée au matériau - Le variateur électronique permet une adaptation optimale à chaque matériau et à l’utilisation souhaitée pour des résultats précis.
-- Éclairage optimal - Afin de pouvoir travailler aussi dans des zones sombres et peu accessibles, la lampe LED intégrée assure toujours une visibilité parfaite et un éclairage optimal.
-- Power X-Change - La visseuse-perceuse à percussion sans fil TP-CD 18/60 Li i BL Solo fait partie de la gamme PXC Einhell, dans laquelle batteries, chargeurs et appareils peuvent être combinés.
 - Batterie non incluse - La visseuse-perceuse à percussion sans fil TP-CD 18/60 Li i BL Solo est vendue sans batterie PXC ni chargeur. Ces accessoires sont disponibles séparément.
-- Mandrin auto-serrant - Le mandrin monodouille auto-serrant 13 mm permet d’adapter en un tour de main l’accessoire souhaité.
 - Puissance - Le puissant engrenage à 2 vitesses, doté dune fonction d’arrêt rapide et d’une rotation avant/arrière, permet un perçage et un vissage efficaces avec un couple de 60 Nm sur 23 niveaux.
+- Mandrin auto-serrant - Le mandrin monodouille auto-serrant 13 mm permet d’adapter en un tour de main l’accessoire souhaité.
+- Éclairage optimal - Afin de pouvoir travailler aussi dans des zones sombres et peu accessibles, la lampe LED intégrée assure toujours une visibilité parfaite et un éclairage optimal.
+- Utilisation adaptée au matériau - Le variateur électronique permet une adaptation optimale à chaque matériau et à l’utilisation souhaitée pour des résultats précis.
+- Power X-Change - La visseuse-perceuse à percussion sans fil TP-CD 18/60 Li i BL Solo fait partie de la gamme PXC Einhell, dans laquelle batteries, chargeurs et appareils peuvent être combinés.
 - Moteur sans charbon - Le puissant moteur sans charbon à faible entretien offre une puissance maximale pour une durée de fonctionnement plus longue que les moteurs à charbon classiques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

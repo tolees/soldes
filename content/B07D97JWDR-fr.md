@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - G.Skill F4-3600C18D-16GTZRX. composant pour: PC/serveur. Latence testée 18-22-22-42. Caractéristiques: Intel XMP 2.0 (Extreme Mémoire Profil) Prêt. Enregistré / Unbuffered: Unbuffered
-- Mémoire interne: 16 Go. Vérification des erreurs: Non ECC
-- Disposition de la mémoire (modules x dimensions): 2 x 8 Go
 - Fréquence de la mémoire: 3600 MHz
 - Support de mémoire: 288-pin DIMM
 - Type de mémoire interne: DDR4
+- Mémoire interne: 16 Go. Vérification des erreurs: Non ECC
+- Disposition de la mémoire (modules x dimensions): 2 x 8 Go
 - Latence CAS: 18
 
 [🛒 Achète-le!!]({{< param buyurl >}})

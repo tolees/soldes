@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le moteur avancé TruePic X offre un traitement ultra-rapide pour photographier facilement nimporte quel sujet.
-- Sa plage de sensibilité ISO standard de 25 600 peut monter jusquà 102 400 pour des photos nettes et claires, même dans lobscurité.
-- Le nouveau capteur empilé BSI Live MOS de 20 mégapixels offre une résolution spectaculaire, un fonctionnement silencieux, des couleurs vives et une netteté irréprochable.
-- Prenez des photos à main levée sans vous poser de questions, même à des vitesses dobturation lentes, avec jusquà 8 paliers de compensation et la technologie de stabilisation dimage la plus avancée au monde.
 - La mise au point automatique à 4 pixels est dotée de 1 053 points, tous de type croisé avec une mise au point de haute précision pour photographier tout ce qui passe devant votre objectif.
+- Sa plage de sensibilité ISO standard de 25 600 peut monter jusquà 102 400 pour des photos nettes et claires, même dans lobscurité.
+- Le moteur avancé TruePic X offre un traitement ultra-rapide pour photographier facilement nimporte quel sujet.
+- Prenez des photos à main levée sans vous poser de questions, même à des vitesses dobturation lentes, avec jusquà 8 paliers de compensation et la technologie de stabilisation dimage la plus avancée au monde.
+- Le nouveau capteur empilé BSI Live MOS de 20 mégapixels offre une résolution spectaculaire, un fonctionnement silencieux, des couleurs vives et une netteté irréprochable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RQQM657{{</world>}}

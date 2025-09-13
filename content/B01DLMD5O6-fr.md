@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Beaux effets bokeh avec une sortie lumineuse maximale de F1.8 ; durée de vie plus longue grâce au boîtier métallique robuste
-- Nettoyez lobjectif pour éviter les erreurs dapplication
 - Pour les appareils photo plein format à monture E, compact, léger et maniable
-- Distance focale 50 mm (correspond à APS-C 75 mm), ouverture F1.8 (plus petite ouverture F22)
-- Qualité dimage excentrique grâce à une conception optique avec élément asphérique
+- Beaux effets bokeh avec une sortie lumineuse maximale de F1.8 ; durée de vie plus longue grâce au boîtier métallique robuste
 - livraison Sony Objectif plein cadre SEL50F18F.SYX à monture E
+- Distance focale 50 mm (correspond à APS-C 75 mm), ouverture F1.8 (plus petite ouverture F22)
+- Nettoyez lobjectif pour éviter les erreurs dapplication
+- Qualité dimage excentrique grâce à une conception optique avec élément asphérique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01DLMD5O6{{</world>}}

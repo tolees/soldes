@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible USB 3.1 Gén. 1 et USB 3.0
-- Disques WD Red optimisés RAID
-- 2 x ports hub USB 3.0
 - Raid-0 prêt à lemploi
+- 2 x ports hub USB 3.0
+- Compatible USB 3.1 Gén. 1 et USB 3.0
 - Capacité de stockage Massive avec sauvegarde système automatique
+- Disques WD Red optimisés RAID
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W5V8GC9{{</world>}}

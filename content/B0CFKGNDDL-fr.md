@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Joint de calfeutrage adhésif facile à appliquer sur fenêtres et portes. Comble les espaces importants.
+- tesa Calfeutrer
 - Joint portes & fenêtres
+- Comble espaces IMPORTANTS
 - Ce profil D en caoutchouc très qualitatif résiste à pratiquement toutes les conditions climatiques.
 - Les informations ci-dessous sappliquent à chaque unité du pack
-- tesa Calfeutrer
-- Comble espaces IMPORTANTS
+- Joint de calfeutrage adhésif facile à appliquer sur fenêtres et portes. Comble les espaces importants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFKGNDDL{{</world>}}

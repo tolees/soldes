@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Exfoliation douce mais efficace : Ce gel exfoliant élimine l’excès de sébum et les cellules mortes, offrant une peau visiblement plus douce et lisse dès la première utilisation**
 - Réduction des boutons prouvée : 93 % des utilisateurs ont observé une diminution visible des boutons après seulement 4 semaines d’utilisation régulière*
-- Prévention des éruptions cutanées : Formulé avec 2 % d’acide salicylique, il aide non seulement à éliminer les boutons existants mais aussi à prévenir leur réapparition, pour une peau plus claire
-- Formule adaptée aux peaux sensibles : Non comédogène et non gras, ce gel exfoliant est spécialement conçu pour les peaux à tendance acnéique et sensibles, offrant une exfoliation douce
 - Tube fabriqué avec 29 % de plastique en moins par rapport à l’ancien packaging
+- Exfoliation douce mais efficace : Ce gel exfoliant élimine l’excès de sébum et les cellules mortes, offrant une peau visiblement plus douce et lisse dès la première utilisation**
+- Formule adaptée aux peaux sensibles : Non comédogène et non gras, ce gel exfoliant est spécialement conçu pour les peaux à tendance acnéique et sensibles, offrant une exfoliation douce
+- Prévention des éruptions cutanées : Formulé avec 2 % d’acide salicylique, il aide non seulement à éliminer les boutons existants mais aussi à prévenir leur réapparition, pour une peau plus claire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001NPIFIK{{</world>}}

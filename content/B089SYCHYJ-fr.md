@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- À partir de 3 ans.
 - Les jumeaux et leur locomotive
 - Les bébés sont articulés et vêtus dun pyjama, chaque vêtement peut être enlevé et remis à loisir
 - Dadorables jumeaux Sylvanian Families à collectionner
-- À partir de 3 ans.
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants
 
 [🛒 Achète-le!!]({{< param buyurl >}})

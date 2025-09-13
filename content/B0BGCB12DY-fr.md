@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1 x ReSMA pour WiFi
 - Routeur sans fil LTE compact. 2 connecteurs dantenne SMA pour LTE
 - Chipset MeiG
-- 1 x ReSMA pour WiFi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGCB12DY{{</world>}}

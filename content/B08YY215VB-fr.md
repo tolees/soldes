@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Autonomie de la batterie jusquà 7,5 heures dutilisation continue
 - Suivi du corps : suivez la présence physique de votre corps entier dans lenvironnement virtuel. Capturez les mouvements de lensemble du corps avec seulement 3 trackers.
 - Suivez les mouvements et amenez des objets du monde réel dans lunivers virtuel.
-- Autonomie de la batterie jusquà 7,5 heures dutilisation continue
 - Partage du port de données : outre lalimentation, le port USB peut être utilisé pour saisir les événements liés aux boutons du contrôleur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

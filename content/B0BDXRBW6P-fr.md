@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hauteur max. ventirad: 180mm
-- Compatible radiateur 420/360/280/240/140/120mm
-- Emplacement stockage: 5x2,5 ou 4x3,5"
 - 1 port USB3.0 Type C
 - Slot 7 PCI pivotable à 90°
 - Compatible Carte mère: E-ATX / ATX
+- Emplacement stockage: 5x2,5 ou 4x3,5"
 - Longueur max. VGA: 450mm
+- Compatible radiateur 420/360/280/240/140/120mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDXRBW6P{{</world>}}

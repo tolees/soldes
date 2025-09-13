@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marca: nike
-- Materiale: 100% cotone
 - Leggero allungamento e assorbimento del sudore
 - Sensazione morbida e leggera
+- Marca: nike
+- Materiale: 100% cotone
 - Vestibilità ottimale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

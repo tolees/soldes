@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation flexible : cet appareil Kärcher permet dévacuer leau des bassins de jardin, des pièces inondées, des récupérateurs de pluie ou des excavations jusquà un niveau deau résiduelle de 25 mm
-- Particulièrement durable : la garniture mécanique en céramique et le réservoir dhuile assurent à la pompe dévacuation SP 9.500 Dirt une longue durée de vie et un fonctionnement fiable
 - Contenu de la livraison : la pompe dévacuation pour eaux chargées SP 9.500 Dirt de Kärcher est fournie avec un raccord de flexible Quick Connect et un filetage des raccords G 1 et G 1 1/2
-- Raccord pratique : le raccord de flexible Quick Connect permet de raccorder rapidement et facilement des tuyaux de 1 pouce, 1 1/4 pouce et 1 1/2 pouce
 - Puissance élevée : la pompe SP 9.500 Dirt de Kärcher peut évacuer jusquà 9500 litres deau par heure - même les eaux fortement polluées avec des particules de saleté allant jusquà 20 mm
+- Raccord pratique : le raccord de flexible Quick Connect permet de raccorder rapidement et facilement des tuyaux de 1 pouce, 1 1/4 pouce et 1 1/2 pouce
+- Particulièrement durable : la garniture mécanique en céramique et le réservoir dhuile assurent à la pompe dévacuation SP 9.500 Dirt une longue durée de vie et un fonctionnement fiable
+- Utilisation flexible : cet appareil Kärcher permet dévacuer leau des bassins de jardin, des pièces inondées, des récupérateurs de pluie ou des excavations jusquà un niveau deau résiduelle de 25 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BS3QLLC9{{</world>}}

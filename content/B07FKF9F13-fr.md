@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualite
 - Confort de port eleve
 - Marque: Nike
+- Haute qualite
 - Liberte de mouvement absolue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

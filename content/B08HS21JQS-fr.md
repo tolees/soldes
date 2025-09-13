@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 antennes directionnelles à transmission large et gain élevé pouvant atteindre 10 dBi
-- Conception résistante aux intempéries (IP68, résiste aux tempêtes, protège contre la foudre)
-- 5G NR avec jusquà 5 Gbit / s de taux de téléchargement théorique
 - Application gratuite pour trouver le meilleur spot de signal dinstallation
+- Conception résistante aux intempéries (IP68, résiste aux tempêtes, protège contre la foudre)
+- 6 antennes directionnelles à transmission large et gain élevé pouvant atteindre 10 dBi
 - Compatible avec le mode autonome (SA)/non-autonome (NSA) et la fonction network slicing
+- 5G NR avec jusquà 5 Gbit / s de taux de téléchargement théorique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HS21JQS{{</world>}}

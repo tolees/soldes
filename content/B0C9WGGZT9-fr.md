@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Large compatibilité : Compatibilité plug-and-play avec les consoles de jeux Windows, Mac, Android, iPad, PC, Linux, PlayStation et Xbox via un câble USB-C inclus. Adaptateur USB-C vers USB-A disponible séparément.
-- Qualité professionnelle : Conçu par Micron, le disque SSD portable Crucial X10 Pro est livré en aluminium anodisé avec une base en caoutchouc soft-touch dans un design Mini 65x50 mm avec une LED dactivité dentraînement dans le trou de longe.
-- La vitesse que vous exigez. La puissance qu’il vous faut : Avec des vitesses de lecture et décriture allant jusquà 2 100/2 000 Mo/s, le SSD portable Crucial X10 Pro est assez puissant pour éditer directement à partir du disque.
 - Sécurité qui voyage avec vous: Protégez les données sensibles en studio, sur le terrain ou lorsque vous voyagez avec une protection par mot de passe et un cryptage matériel AES 256 bits.
 - Durabilité anti-poussière et anti-éclaboussures : Avec une résistance à leau et à la poussière IP55 et une durabilité anti-chute jusquà 2 mètres, le SSD portable X10 Pro est suffisamment durable pour voyager partout où vous tirez, travaillez ou errez; Garantie 5 ans incluse.
+- Qualité professionnelle : Conçu par Micron, le disque SSD portable Crucial X10 Pro est livré en aluminium anodisé avec une base en caoutchouc soft-touch dans un design Mini 65x50 mm avec une LED dactivité dentraînement dans le trou de longe.
+- Large compatibilité : Compatibilité plug-and-play avec les consoles de jeux Windows, Mac, Android, iPad, PC, Linux, PlayStation et Xbox via un câble USB-C inclus. Adaptateur USB-C vers USB-A disponible séparément.
+- La vitesse que vous exigez. La puissance qu’il vous faut : Avec des vitesses de lecture et décriture allant jusquà 2 100/2 000 Mo/s, le SSD portable Crucial X10 Pro est assez puissant pour éditer directement à partir du disque.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C9WGGZT9{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combattez des boss puissants dans les profondeurs de la terre, au-dessus des nuages et dans des lieux encore plus étranges.
 - Découvrez des trésors cachés pour vous aider dans votre périple.
-- Collectez les pages manquantes du manuel, qui regorgent dastuces et dillustrations originales en couleur.
 - Déterrez des reliques secrètes, découvrez des techniques secrètes, des énigmes secrètes et... bon, il y a beaucoup de secrets !
 - Explorez un monde hostile et complexe foisonnant de forêts ombragées, de ruines tentaculaires et de catacombes labyrinthiques.
+- Collectez les pages manquantes du manuel, qui regorgent dastuces et dillustrations originales en couleur.
+- Combattez des boss puissants dans les profondeurs de la terre, au-dessus des nuages et dans des lieux encore plus étranges.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BXSJV991{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 kW
-- Coupe-circuit en cas dinclinaison
-- Connexion 32 mm, Compatible avec la stérilisation au sel
 - Disjoncteur intégré sur la prise
+- Connexion 32 mm, Compatible avec la stérilisation au sel
+- Coupe-circuit en cas dinclinaison
 - Double protection thermique : thermostat 38°C et fusible 70°c
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super original, en papier.
-- Succès assuré.
-- Boîte distributrice avec 50 plans à faire entre amis.
 - Idéal pour cadeau.
+- Super original, en papier.
+- Boîte distributrice avec 50 plans à faire entre amis.
+- Succès assuré.
 - Emballage sous forme de téléphone portable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

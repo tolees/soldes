@@ -32,8 +32,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - <b>Forme de facteur</b>: 3,5 pouces
 - <b>Interface</b>: SATA III
 - <b>Description du produit</b>: Toshiba - DT01ACA200
-- <b>Type de produit</b>: Disque dur interne
 - <b>Vitesse de rotation du disque dur</b>: 7200 tr/min
+- <b>Type de produit</b>: Disque dur interne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B009CPDI62{{</world>}}

@@ -28,23 +28,23 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chine
-- Helly tech protection
-- Poignets réglables
+- Fermeture: Cordon de serrage, Fermeture éclair
 - Helly tech protection : allié à cette technologie, les vêtements portés au quotidien par temps modéré vous garderont au sec afin de garantir votre confort. dotés de coutures entièrement scellées et confectionnés dans des textiles imperméables, coupe-vent et respirants.
+- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
 - Face: 100% Polyester / Back: 100% Polyurethane
 - Ourlet inférieur réglable à laide dun cordon de serrage
-- Fermeture: Cordon de serrage, Fermeture éclair
-- Mentonnière anti-frottement
-- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
-- Capuche fixe ajustable dune main
-- Fermeture éclair ykk à lavant et arrière
+- Poignets réglables
 - Multipack: 1
-- Imperméable, coupe-vent et respirant
+- Chine
+- Fermeture éclair ykk à lavant et arrière
 - Moyen - Standard
-- Imperméable et respirante
 - Poches pour les mains avec fermeture éclair ykk
+- Imperméable et respirante
+- Capuche fixe ajustable dune main
 - Droite
+- Mentonnière anti-frottement
+- Helly tech protection
+- Imperméable, coupe-vent et respirant
 - Rabat anti-tempête à lavant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

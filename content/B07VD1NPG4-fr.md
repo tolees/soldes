@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légères
-- Rembourrage
-- Bonne prise en main
 - Ingrédients extra durables
+- Rembourrage
+- Légères
+- Bonne prise en main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07VD1NPG4{{</world>}}

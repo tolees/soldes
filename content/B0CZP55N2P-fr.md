@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Collection ICE smart junior 2.0
-- Boitier en de taille 1.75 pouces avec bracelet en plastique.
-- Etanche jusquà 1,5 mètres : résistant aux immersions (pour une durée de 30 minutes) mais pas aux sport nautiques (nage, nage sportive) et à la plongée (IP68).
 - Livré avec un manuel dinstructions et une boîte de présentation.
 - Les enfants pourront porter la même montre que papa ou maman avec la ICE smart junior 2.0! Cette montre connectée, qui surfe à la fois sur les tendances et sur l’ADN de la marque Ice-Watch, ravira parfaitement les enfants entre 6 et 12 ans. Connectée (ou non) depuis un Smartphone, elle offrira diverses fonctionnalités comme le comptage de ses pas, le mode sport, laccès à de nombreux jeux et bien plus encore... Les cadrans sont mutiples et modifiables selon ses humeurs!
+- Etanche jusquà 1,5 mètres : résistant aux immersions (pour une durée de 30 minutes) mais pas aux sport nautiques (nage, nage sportive) et à la plongée (IP68).
+- Boitier en de taille 1.75 pouces avec bracelet en plastique.
+- Collection ICE smart junior 2.0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZP55N2P{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions : 8,3 x 5,5 cm
-- Pokémon, attrapez-les tous et organisez une fête danniversaire épique
 - Matériaux : papier et bois
+- Pokémon, attrapez-les tous et organisez une fête danniversaire épique
 - Il suffit de glisser les pics en bois dans le gâteau, pas besoin de supports en plastique
 - Bougie de gâteau amusante avec Bulbasaur, Charmander et Squirtle.
 

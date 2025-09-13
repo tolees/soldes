@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible dans de nombreuses couleurs et designs
-- Matériau doux et respirant pour un confort toute la journée
 - Des imprimés uniques pour un look accrocheur
+- Disponible dans de nombreuses couleurs et designs
 - Facile dentretien et durable
+- Matériau doux et respirant pour un confort toute la journée
 - Coupe classique qui sadapte à toutes les tenues
 
 [🛒 Achète-le!!]({{< param buyurl >}})

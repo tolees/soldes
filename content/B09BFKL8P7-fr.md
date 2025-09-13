@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1. Filament pour imprimante 3D (1,75 mm de diamètre, new gris, bobine de 1 kg), emballage sous vide PLA
 - 4. Température dimpression : 190-220℃
+- 5. Tolérance de diamètre +/- 0,02 mm
 - 2. Protection de lenvironnement, à base de matières premières damidon obtenues à partir de ressources végétales renouvelables
 - 3. Pas dimpuretés, pas de sabots
-- 5. Tolérance de diamètre +/- 0,02 mm
-- 1. Filament pour imprimante 3D (1,75 mm de diamètre, new gris, bobine de 1 kg), emballage sous vide PLA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BFKL8P7{{</world>}}

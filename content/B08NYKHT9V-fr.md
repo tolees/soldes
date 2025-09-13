@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe optimale
 - Respirant pour un climat corporel idéal
+- Coupe optimale
 - Sensation douce et légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})

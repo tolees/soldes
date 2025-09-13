@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un système de combat au tour par tour exaltant auquel est ajouté de l’action en temps réel
 - Sillonnez un vaste monde sublimé par un habillage audiovisuel unique avec des cinématiques et une interface de toute beauté
 - Une histoire mystérieuse et passionnante qui se dévoile dans un monde rongé par l’anxiété
+- Un système de combat au tour par tour exaltant auquel est ajouté de l’action en temps réel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D2HKFC7M{{</world>}}

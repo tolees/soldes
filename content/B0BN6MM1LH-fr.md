@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : synthétique
-- Semelle : caoutchouc
 - Fermeture : fermeture Velcro
-- Forme du talon : plat
 - Matériau intérieur : synthétique
+- Forme du talon : plat
+- Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN6MM1LH{{</world>}}

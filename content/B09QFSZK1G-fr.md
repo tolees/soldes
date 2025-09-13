@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce loisir créatif pour adultes comprend deux petites pyramides, les deux temples mortuaires, les statues de sphinx, le village douvriers, lobélisque et une partie du Nil avec une barque pour transporter le corps du pharaon
 - Idée cadeau personnalisé - Offrez ce modèle à un ami ou à un membre de votre famille qui a visité la grande pyramide, qui rêve de la visiter ou qui est tout simplement un passionné darchitecture, dhistoire et de voyages
+- Ce loisir créatif pour adultes comprend deux petites pyramides, les deux temples mortuaires, les statues de sphinx, le village douvriers, lobélisque et une partie du Nil avec une barque pour transporter le corps du pharaon
 - Cest une expérience de construction LEGO stimulante et immersive qui vous donnera un regain dénergie et un sentiment gratifiant daccomplissement
 - Conçue pour les adultes, cette décoration intérieure est une pièce historique pour votre maison ou votre bureau, comprenant un livret illustré avec lhistoire de la construction et des concepteurs LEGO
 - Ce monument du monde LEGO offre la possibilité de soulever la structure pour révéler le système utilisé pour déplacer les pierres lors de la construction. À l’arrière, observez les chambres du roi et de la reine ainsi que les tunnels principaux

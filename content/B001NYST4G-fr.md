@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le paquet de larticle dimensions longueur: 137795l
-- Larticle dimensions du paquet largeur: 984252w
 - Tous nos efforts ont à ce jour fait de nous lun des plus grands fabricants doutils opérationnels au niveau international avec des clients dans plus de 135 pays du monde
 - Pompe à graisse manuelle à poignée
-- The item package dimensions hauteur: 511811h
 - Ks tools - outillage à main professionnel
+- The item package dimensions hauteur: 511811h
+- Le paquet de larticle dimensions longueur: 137795l
+- Larticle dimensions du paquet largeur: 984252w
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001NYST4G{{</world>}}

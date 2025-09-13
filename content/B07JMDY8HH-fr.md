@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notice de montage détaillée multilingue
 - Maquette Star Wars à constuire au 1/144ème, 161 pièces pour des finitions impressionnantes
+- Notice de montage détaillée multilingue
 - articulations fonctionnelles , stickers ou décals au choix
 - A partir de 13 ans, Taille une fois montée : L=16 cm
 - Avec portes mobiles, support de présentation, effets laser

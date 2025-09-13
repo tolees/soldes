@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous travaillez sur le terrain ? Le disque est conçu pour les terrains escarpés, avec un indice IP67 résistant à l’eau et à la poussière
-- Son port USB-C polyvalent avec une interface USB 3.2 Gén. 2 signifie quil est compatible avec les périphériques de dernière génération et plus anciens utilisant au moins Mac OS 10.10+. Windows 10, 8.1, 7 (par le biais dun reformatage)
 - Une conception robuste, résistante aux chocs et aux vibrations, pour protéger vos fichiers pendant vos déplacements
+- Son port USB-C polyvalent avec une interface USB 3.2 Gén. 2 signifie quil est compatible avec les périphériques de dernière génération et plus anciens utilisant au moins Mac OS 10.10+. Windows 10, 8.1, 7 (par le biais dun reformatage)
+- Vous travaillez sur le terrain ? Le disque est conçu pour les terrains escarpés, avec un indice IP67 résistant à l’eau et à la poussière
 - Le disque peut même gérer les fichiers vidéo et photo volumineux ; enregistrer, modifier et archiver rapidement grâce à des vitesses de transfert allant jusquà 560 Mo/s
 - Garantie limitée de cinq ans pour assurer votre tranquillité desprit
 

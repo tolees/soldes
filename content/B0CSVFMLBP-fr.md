@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Memoire interne: 128 Go - RAM: 6 Go
+- Smartphone sous systeme Android 14
 - Appareil photo de 50 Mégapixels
 - Ecran de 6.6 - 4G: Oui
-- Smartphone sous systeme Android 14
-- Memoire interne: 128 Go - RAM: 6 Go
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CSVFMLBP{{</world>}}

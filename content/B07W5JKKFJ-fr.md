@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Exposition automatique (RightLight 4) : La technologie d’expo vidéo RightLight 4 sadapte automatiquement à léclairage ambiant, permettant de vous distinguer clairement malgré une faible luminosité
-- Logi Tune : Associez votre Webcam Logitech à Logi Tune pour en personnaliser lexpérience ; zoomer, couper le micro, régler l’apparence de limage, gérer le cadrage auto et définir les mises à jour
-- Mode Show : Présentez votre travail ou dautres objets sur votre bureau grâce au mode Show, qui vous permet dincliner la caméra Web vers le haut ou vers le bas dune seule main
 - Champ de vision de 90 degrés : Un CdV plus large que normal offre plus despace pour se déplacer ou avoir une 2e personne sur la caméra ; utilisez Logi Tune pour zoomer jusqu’à une largeur de 90º
-- Qualité dimage avancée : La résolution de la webcam 1080p Full HD offre une qualité dimage incroyable pour que tous les participants puissent vous voir clairement pendant les réunions
-- Webcam avec clapet de confidentialité : Pour protéger votre vie privée entre deux réunions, faites simplement pivoter le clapet de confidentialité de la webcam pour en masquer complètement la vue
 - Deux microphones à réduction de bruit : Votre voix reste claire dans les milieux bruyants grâce aux micros anti-bruit de fond qui filtrent les bruits de fond pendant les appels
 - Cadrage automatique (RightSight) : Le cadrage auto centre (1)(3) la caméra vidéo sur vous, vous permettant de vous lever et de bouger pendant les réunions sans sortir du cadre
+- Logi Tune : Associez votre Webcam Logitech à Logi Tune pour en personnaliser lexpérience ; zoomer, couper le micro, régler l’apparence de limage, gérer le cadrage auto et définir les mises à jour
+- Mode Show : Présentez votre travail ou dautres objets sur votre bureau grâce au mode Show, qui vous permet dincliner la caméra Web vers le haut ou vers le bas dune seule main
+- Qualité dimage avancée : La résolution de la webcam 1080p Full HD offre une qualité dimage incroyable pour que tous les participants puissent vous voir clairement pendant les réunions
+- Webcam avec clapet de confidentialité : Pour protéger votre vie privée entre deux réunions, faites simplement pivoter le clapet de confidentialité de la webcam pour en masquer complètement la vue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W5JKKFJ{{</world>}}
