@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet LEGO Minecraft polyvalent offre aux enfants de laction à plus grande échelle lorsque la forteresse est reconfigurée en golem géant et quils doivent la protéger contre des attaquants
-- Avec de nombreux accessoires familiers de Minecraft, ce set comprend le chevalier de Cristal et le chevalier d’Or, un golem de fer, un Creeper chargé et deux cavaliers squelettes
-- Les enfants dès 9 ans peuvent transformer la forteresse du golem de fer LEGO Minecraft en une forteresse prête à combattre en un géant imposant avec de grands bras mobiles, comprenant 7 minifigurines
 - Ce jouet LEGO Minecraft est un cadeau danniversaire, de Noël pour les enfants dès 9 ans, il offre des possibilités de jeu infinies et présente le jeu Minecraft dune nouvelle manière
+- Ce jouet LEGO Minecraft polyvalent offre aux enfants de laction à plus grande échelle lorsque la forteresse est reconfigurée en golem géant et quils doivent la protéger contre des attaquants
+- Les enfants dès 9 ans peuvent transformer la forteresse du golem de fer LEGO Minecraft en une forteresse prête à combattre en un géant imposant avec de grands bras mobiles, comprenant 7 minifigurines
+- Avec de nombreux accessoires familiers de Minecraft, ce set comprend le chevalier de Cristal et le chevalier d’Or, un golem de fer, un Creeper chargé et deux cavaliers squelettes
 - Les enfants peuvent télécharger lapplication LEGO Builder pour vivre une expérience de construction immersive, avec des outils permettant de faire pivoter des modèles et de sauvegarder des ensembles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

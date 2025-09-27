@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sous-vêtements de sport pour homme
 - Tissu doux au toucher
-- Ceinture confortable
 - Coton extensible confortable
+- Sous-vêtements de sport pour homme
+- Ceinture confortable
 - Le confort au quotidien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

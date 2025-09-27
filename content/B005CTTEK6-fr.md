@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues
-- 80% Laine, 20% Synthétique
-- Type de col: Col Tailleur
 - Fermeture: Bouton
 - Lavage en machine, 30° max.
+- 80% Laine, 20% Synthétique
+- Manches longues
+- Type de col: Col Tailleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005CTTEK6{{</world>}}

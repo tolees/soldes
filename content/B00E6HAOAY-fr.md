@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est recommandé de remplacer la tête de brosse à dents tous les 3 mois
 - Performances optimisées : brins profilés pour nettoyer les zones difficiles daccès
 - Comprend : 8 têtes de brosses à dents soniques Philips Sonicare ProResults Standard
+- Il est recommandé de remplacer la tête de brosse à dents tous les 3 mois
 - Elimine jusquà 2 fois plus de plaque quune brosse à dents manuelle
 - La technologie sonique et ses 62 000 mouvements par minute permettent de balayer un très grand nombre de fois les surfaces dentaires. L’action du balayage, aidée par les fluides dynamiques, permet un retrait en douceur de la plaque dentaire et des gencives plus saines pour une sensation de propreté exceptionnelle
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RASPBERRY Alimentation USB-C 5.1V 3A - Blanc - pour Raspberry Pi 4 modèle B  1873421 '
-date: 2025-09-13 23:41:08
+date: 2025-09-27 02:37:23
 image: 'https://m.media-amazon.com/images/I/41b-AJgDwhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Raspberry Pi'
 buyurl: 'https://www.amazon.fr/dp/B07TZ89BT7/?tag=tolees0d-21'
 descuento: '47.92'
-average: '12.5944444444444'
+average: '12.3670212765957'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sortie : 5,1 V.
-- Plage dentrée de fonctionnement: 96-264 V
 - Protection contre les courts-circuits, les surintensités et les surtempératures.
+- Plage dentrée de fonctionnement: 96-264 V
 - Connecteur de sortie: USB-C
 
 [🛒 Achète-le!!]({{< param buyurl >}})

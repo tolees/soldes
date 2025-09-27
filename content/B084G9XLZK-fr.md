@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille unique : notre coussinet en silicone souple sadapte à 99,98 % des tailles de mamelons³
-- Facile à nettoyer et à assembler : le tire-lait électrique Philips Avent est doté dun système de pompage fermé qui comporte moins de pièces à nettoyer
 - Combinaison efficace daspiration et de stimulation pour un débit de lait plus rapide grâce à la technologie Natural Motion
+- Facile à nettoyer et à assembler : le tire-lait électrique Philips Avent est doté dun système de pompage fermé qui comporte moins de pièces à nettoyer
+- Taille unique : notre coussinet en silicone souple sadapte à 99,98 % des tailles de mamelons³
 - Conçu pour une utilisation en position verticale, sans avoir à vous pencher en avant
 - Tire-lait de qualité hospitalière ; tirage efficace du lait à un rythme similaire à celui de votre bébé
 

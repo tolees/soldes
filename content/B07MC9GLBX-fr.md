@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Enceintes filaires nécessitant un amplificateur
 - Des enceintes conçues pour être alimentées par le Sonos Amp
 - Un son limpide dun bout à lautre de la pièce quel que soit le volume
-- Enceintes filaires nécessitant un amplificateur
 - Le Sonos Amp permet dalimenter jusquà trois paires denceintes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

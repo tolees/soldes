@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec des cartouches de 68mm de diamètre - Adapté pour les porte-filtre 10" (hauteur cartouche : 9" 3/4)
-- Pour une installation sous évier, il assure un rôle de filtration des impuretés (rôle de la 1ère cartouche) et élimine les goûts et odeurs de leau (rôle de la 2ème cartouche) ; Pour une installation en entrée deau (après le réducteur de pression), ce système assure un rôle de filtration des impuretés (rôle de la 1ère cartouche) et assure un traitement anti-calcaire et/ou anti-corrosion (rôle de la 2ème cartouche).
+- Vérifier la cartouche de filtration eau régulièrement : la cartouche est à remplacer quand sa couleur devient foncée - La clé de déserrage permet uniquement le démontage des porte-filtre ; leur serrage seffectue exclusivement à la main - Ne fonctionne que pour leau au Th ≤ 30°f.
 - Cette station double filtre (vendue sans cartouche) est un système multisolutions acceptant tous types de cartouches (hauteur 9" 3/4) pour un montage en série - Selon lapplication, ce système double filtre peut être équipé de : d’une cartouche filtrante pour filtrer l’eau ; d’une cartouche de charbon actif pour retirer le goût et l’odeur de l’eau ; d’une cartouche de polyphosphate ou de silicophosphate pour protéger les installations contre la formation de tartre et/ou de la corrosion.
 - Installation en entrée de réseau, après le réducteur de pression - Pression Max dutilisation : 4 barss
-- Vérifier la cartouche de filtration eau régulièrement : la cartouche est à remplacer quand sa couleur devient foncée - La clé de déserrage permet uniquement le démontage des porte-filtre ; leur serrage seffectue exclusivement à la main - Ne fonctionne que pour leau au Th ≤ 30°f.
+- Pour une installation sous évier, il assure un rôle de filtration des impuretés (rôle de la 1ère cartouche) et élimine les goûts et odeurs de leau (rôle de la 2ème cartouche) ; Pour une installation en entrée deau (après le réducteur de pression), ce système assure un rôle de filtration des impuretés (rôle de la 1ère cartouche) et assure un traitement anti-calcaire et/ou anti-corrosion (rôle de la 2ème cartouche).
+- Compatible avec des cartouches de 68mm de diamètre - Adapté pour les porte-filtre 10" (hauteur cartouche : 9" 3/4)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B078WYYSBB{{</world>}}

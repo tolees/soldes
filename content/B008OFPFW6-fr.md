@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu du packaging: 1 dose de teinture de 40 ml + 1 dose de fixateur de 50g
 - Pour teindre jusquà 200g de textile
 - Facile dutilisation sur coton, lin soie et viscose
 - En machine ou à la main
-- Contenu du packaging: 1 dose de teinture de 40 ml + 1 dose de fixateur de 50g
 - Dés 40°
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

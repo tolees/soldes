@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie de semelle intermédiaire micro-wobbleboard Superrembourrée et diffuseur de pression.
 - Dessus en cuir avec perles brillantes à facettes
+- Technologie de semelle intermédiaire micro-wobbleboard Superrembourrée et diffuseur de pression.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096MT2ZM5{{</world>}}

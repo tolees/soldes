@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière AEROREADY qui absorbe la transpiration
-- Fermeture: Fermeture éclair
 - Logo Adidas
-- Poches avant passepoilées
 - Zip sur toute la longueur. Col montant
-- Grande liberté de mouvement
-- Maille double 1 % polyester recyclé
+- Poches avant passepoilées
+- Matière AEROREADY qui absorbe la transpiration
 - Coupe régulière
+- Fermeture: Fermeture éclair
+- Maille double 1 % polyester recyclé
+- Grande liberté de mouvement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09SLMT6JK{{</world>}}

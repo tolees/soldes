@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Âge recommandé : à partir de 10 ans
 - SCHMIDT SPIELE Premium Puzzle - la qualité au toucher
+- Âge recommandé : à partir de 10 ans
 - Puzzle 500 pièces
 - taille du puzzle: 48,1 x 34,1 cm
 

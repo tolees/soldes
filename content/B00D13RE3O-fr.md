@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 prises sorties FR 4 prises protection parafoudre + batterie - 4 prises protection parafoudre uniquement
-- Le ventilateur fonctionne sur batterie + mode buck/boost
 - Ellipse PRO 1 200 VA/750 watts
-- 36 mois de garantie Eaton , batteries incluses
-- Protection téléphone/box/modem/réseau 10/100 (RJ45)
 - Note Cet onduleur nest donc pas destiné à un usage résidentiel, mais est utilisé pour protéger les équipements de jeu.
+- Le ventilateur fonctionne sur batterie + mode buck/boost
+- Protection téléphone/box/modem/réseau 10/100 (RJ45)
+- 36 mois de garantie Eaton , batteries incluses
+- 8 prises sorties FR 4 prises protection parafoudre + batterie - 4 prises protection parafoudre uniquement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D13RE3O{{</world>}}

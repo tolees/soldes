@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Logiciel Centre de Commande ASTRO : ajustez vos préférences audio et de communication vocale, créez et partagez des profils dégaliseur personnalisés et ajustez le niveau du micro
+- Dolby Audio : avec ce casque, plongez-vous dans le jeu grâce à une directivité sonore et un audio cinématique haute résolution qui vous donnent un avantage compétitif
 - Réponse en fréquence : 20 Hz - 20 000 Hz
 - Dolby Atmos (disponible uniquement pour la version Xbox) : laudio spatial libère le son du jeu des restrictions liées aux canaux et lui permet dévoluer dans un espace tridimensionnelle
-- Casque sans fil A50 - Configuration requise : Windows 10, Windows 8.1, Windows 8, Windows 7, Mac | Station daccueil - Configuration requise : Windows 10, Windows 8.1, Windows 8, Windows 7, Mac
-- Équilibre entre le son des jeux et la communication vocale : vous avez le contrôle total de votre jeu et de la conversation audio grâce aux commandes intégrées à votre casque
 - Système audio ASTRO V2 : ce système offre un spectre de fréquences fluide et précis, il fournit des aigus nets, des médiums contrôlés et des basses sans distorsion pour des sons de jeu clairs
-- Logiciel Centre de Commande ASTRO : ajustez vos préférences audio et de communication vocale, créez et partagez des profils dégaliseur personnalisés et ajustez le niveau du micro
+- Équilibre entre le son des jeux et la communication vocale : vous avez le contrôle total de votre jeu et de la conversation audio grâce aux commandes intégrées à votre casque
 - Longévité de la pile de plus de 15 heures : la pile au lithium-ion rechargeable a une longévité de plus de 15 heures en session de jeu
 - Longévité de la pile de plus de 15 heures : la pile au lithium-ion rechargeable a une longévité de plus de 15 heures en session de jeu
-- Dolby Audio : avec ce casque, plongez-vous dans le jeu grâce à une directivité sonore et un audio cinématique haute résolution qui vous donnent un avantage compétitif
+- Casque sans fil A50 - Configuration requise : Windows 10, Windows 8.1, Windows 8, Windows 7, Mac | Station daccueil - Configuration requise : Windows 10, Windows 8.1, Windows 8, Windows 7, Mac
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TTB3SRB{{</world>}}

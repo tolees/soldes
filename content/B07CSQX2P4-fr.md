@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire
 - Régulier
+- Accessoire
 - Classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

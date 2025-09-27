@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Smartphone Xiaomi Poco C65 6,74 pouces AMOLED DotDisplay, 256 Go, 8 Go de RAM, bleu
 - Xiaomi
+- Smartphone Xiaomi Poco C65 6,74 pouces AMOLED DotDisplay, 256 Go, 8 Go de RAM, bleu
 - Bleu
 - TÉLÉPHONE CELLULAIRE
 

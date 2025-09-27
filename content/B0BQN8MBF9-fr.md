@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une résistance à leau IP55¹⁴ pour les écouteurs et IPX4¹⁵ pour létui, pour garantir que votre expérience découte soit optimale.
-- OnePlus Audio ID 2.0 crée un profil audio personnalisé avec un son naturel amélioré, adapté à vos oreilles grâce à un scan rapide et simple de loreille et à un test découte.
 - La technologie Spatial Audio et Dolby Head Tracking recalibrent votre audio en fonction de vos mouvements pour un son cinématographique. Et avec Dolby Atmos, vous bénéficiez dun champ plus large de sons clairs et naturels et de voix impeccables.
-- MelodyBoost Dual Drivers co-créé avec avec Dynaudio offrir une expérience découte exceptionnelle, conçue sur-mesure pour les audiophiles : des voix vives et des basses riches et puissantes.
 - Chargement rapide - 10 minutes pour 10 heures. Les Buds Pro 2 prennent en charge la recharge sans fil certifiée Qi et offrent jusquà 39 heures de lecture audio.
+- Une résistance à leau IP55¹⁴ pour les écouteurs et IPX4¹⁵ pour létui, pour garantir que votre expérience découte soit optimale.
+- MelodyBoost Dual Drivers co-créé avec avec Dynaudio offrir une expérience découte exceptionnelle, conçue sur-mesure pour les audiophiles : des voix vives et des basses riches et puissantes.
 - Trois modes de suppression du bruit (Faint, Smart et Extreme) allant de 25 dB à 48 dB. Le mode dannulation du bruit "Smart" permet une annulation intelligente et dynamique du bruit qui sajuste automatiquement, compensant les sons ambiants de votre environnement.
+- OnePlus Audio ID 2.0 crée un profil audio personnalisé avec un son naturel amélioré, adapté à vos oreilles grâce à un scan rapide et simple de loreille et à un test découte.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQN8MBF9{{</world>}}

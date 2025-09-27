@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut réservoir de lait Full-Milk de 700ml, Bras porte-filtres avec double sortie et deux filtres. Réservoir deau amovible de 1,7L, cuillère doseuse.
-- Système Instant Capuccino qui ajoute le café et le lait directement dans la tasse. Système Custom permet de personnaliser la quantité de café, lait ou mousse désirée.
 - Puissante pompe de pression avec technologie ForceAroma de 20 bars pour réussir la meilleure crème et larôme maximal sur chaque café. Plateau dégouttage amovible..
-- Son système de réchauffement rapide par Thermoblock garanti que la température se mantienne dans son intervalle optimal pour réussir le meilleur café. Convient pour tasses à expresso et tasses à petit déjeuner.
 - Cafetière semi-automatique avec un design élégant, convient pour café moulu et capsules, prépare toutes sorte de cafés en appuyant sur un bouton avec un puissance maximale de 1470W.
+- Système Instant Capuccino qui ajoute le café et le lait directement dans la tasse. Système Custom permet de personnaliser la quantité de café, lait ou mousse désirée.
+- Inclut réservoir de lait Full-Milk de 700ml, Bras porte-filtres avec double sortie et deux filtres. Réservoir deau amovible de 1,7L, cuillère doseuse.
+- Son système de réchauffement rapide par Thermoblock garanti que la température se mantienne dans son intervalle optimal pour réussir le meilleur café. Convient pour tasses à expresso et tasses à petit déjeuner.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0869LSMQG{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mario + the lapins crétins kingdom battle code in box switch
 - Un voyage épique avec huit héros
-- Une folle aventure tactique
 - Une toute nouvelle expérience mario
+- Mario + the lapins crétins kingdom battle code in box switch
+- Une folle aventure tactique
 - Jeu à télécharger - code de téléchargement uniquement, ne contient pas de cartouche de jeu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

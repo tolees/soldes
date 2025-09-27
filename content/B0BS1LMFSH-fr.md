@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matière : Papier FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière écologiquement responsable.
 - Contient une marguerite Mr. Wonderful sur sa couverture. Cette marguerite est en mousse à mémoire de forme, de type anti-stress.
 - Carnet format A5
-- Matière : Papier FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière écologiquement responsable.
 - reliure spirale
 - Il a 160 pages blanches à lintérieur et une feuille dautocollants.
 

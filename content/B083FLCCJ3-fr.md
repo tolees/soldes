@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : Cuir
-- Semelle intérieure : Synthetic
 - Fermeture : Lacet
+- Semelle intérieure : Synthetic
+- Matériau de semelle : Synthetic
+- Dessus : Cuir
+- Largeur de la chaussure : Medium
 - Doublure : Synthetic
 - Type de talons : Plat
-- Largeur de la chaussure : Medium
-- Matériau de semelle : Synthetic
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083FLCCJ3{{</world>}}

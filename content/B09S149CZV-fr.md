@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Trolley 38 cm adapté aux classes du primaire du CP au CE2. Très résistant et conçu pour durer. Matière éco-responsable : polyester de haute qualité issu de bouteilles plastiques recyclées. Matière résistante à l’eau. Imprimé fleuri orné de pompons aux couleurs assorties. Ganse dorée.
-- Dos et bretelles ergonomiques et confortables
 - Trolley équipé de 2 compartiments pouvant accueillir des cahiers 24x32cm et documents au format A4. Poche avant zippée
-- Réfléchissants sur le devant, les côtés et au dos du cartable
 - Renforts dans les angles et sous le cartable. 2 x 2 roues
+- Dos et bretelles ergonomiques et confortables
+- Réfléchissants sur le devant, les côtés et au dos du cartable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09S149CZV{{</world>}}

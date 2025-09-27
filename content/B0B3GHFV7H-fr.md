@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UHS-I U1 & classe vidéo V10 : UHS-I U1 combiné à la classe vidéo V10 offre les spécifications adéquates pour un enregistrement vidéo en temps réel de haute qualité.
 - Livraison : Philips MicroSDHC UHS-I U1 carte mémoire 2x 32 Go incl. adaptateur Micro SD (supporte A1 Fast App-Performance, V10, Class 10, (Full) HD-Video)
+- UHS-I U1 & classe vidéo V10 : UHS-I U1 combiné à la classe vidéo V10 offre les spécifications adéquates pour un enregistrement vidéo en temps réel de haute qualité.
+- Les cartes mémoire Philips MicroSDHC Ultra Speed peuvent être utilisées dans les smartphones, les tablettes PC et tous les autres appareils dotés demplacements pour cartes Micro SDHC/XC. Avec ladaptateur Micro SD fourni, les cartes peuvent également être utilisées dans des appareils qui acceptent le format de carte SDHC/XC traditionnel.
 - Les cartes mémoire Philips MicroSDHC Ultra Speed de classe 10 UHS-I U1 conviennent aux applications nécessitant des vitesses décriture élevées, comme lenregistrement vidéo (Full) HD. Elles peuvent lire des fichiers à une vitesse maximale de 80 Mo/s. Prend en charge la performance A1 Fast App, qui permet aux utilisateurs dexécuter plus rapidement des applications directement depuis la carte mémoire.
 - 2x 32 Go de capacité de mémoire : offre suffisamment de capacité par carte pour stocker au moins 9.000 de vos photos préférées au minimum 5 heures denregistrement vidéo Full-HD*). *) Basé sur un format de photo compressé en jpg de 10MP et une vidéo Full HD de 13Mo/s.
-- Les cartes mémoire Philips MicroSDHC Ultra Speed peuvent être utilisées dans les smartphones, les tablettes PC et tous les autres appareils dotés demplacements pour cartes Micro SDHC/XC. Avec ladaptateur Micro SD fourni, les cartes peuvent également être utilisées dans des appareils qui acceptent le format de carte SDHC/XC traditionnel.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3GHFV7H{{</world>}}

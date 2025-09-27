@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- FLEXIBILITE: Ce micro Bluetooth est près pour nimporte quel type de prise de son avec ses 3 modes intégrés. "MIC ONLY" pour une communication 1 flux, "MIX" pour des communications 2 flux, et "RCVR" pour une communication uniquement via le récepteur
+- SANS FIL : Une transmission stable entre le micro et le récepteur, même au milieu dune foule ou dune multitude dondes radio. Connexion possible jusquà une distance impressionnante de 200m.
 - UNE QUALITE DE SON EXCEPTIONNELLE: Ce microphone sans fil Bluetooth est doté de spécificités et fonctions pour réduire les sons parasites ce qui assurera une prise de son clair et de qualité.
 - PORTABLE: Compact et léger, résistant à lhumidité et à la poussière et doté dune grande autonomie, ce micro sans fil est portable et parfait pour une utilisation en extérieur. Un pare-vent et un support/protecteur pour connecteurs est fourni.
-- SANS FIL : Une transmission stable entre le micro et le récepteur, même au milieu dune foule ou dune multitude dondes radio. Connexion possible jusquà une distance impressionnante de 200m.
 - Le microphone sans fil BluetoothECM-W2BT enregistre un son clair quelque soit lenvironnement de la prise de son tout en maintenant une connexion stable jusquà une distance impresionannte de 200m.
-- FLEXIBILITE: Ce micro Bluetooth est près pour nimporte quel type de prise de son avec ses 3 modes intégrés. "MIC ONLY" pour une communication 1 flux, "MIX" pour des communications 2 flux, et "RCVR" pour une communication uniquement via le récepteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YFC181L{{</world>}}

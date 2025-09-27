@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 33016125400
 - Sexe cible : unisexe
 - Filtres Revlon Nutri Color 400/Tangerine 240 ml
-- 33016125400
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08JHTNLTS{{</world>}}

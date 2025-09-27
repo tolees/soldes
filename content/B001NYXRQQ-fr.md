@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5 douilles 1/2 E16-18-20-22-24
+- 5 douilles 1/4 E4-5-6-7-8
+- 4 douilles 3/8 E10-11-12-14
 - 2 adaptateurs 3/8-1/2 10mm
 - 7 Embouts TORX percé 30mm T20-25-30-40-45-50-55
 - 7 Embouts TORX percé 75mm T20-25-30-40-45-50-55
-- 4 douilles 3/8 E10-11-12-14
-- 5 douilles 1/4 E4-5-6-7-8
+- 5 douilles 1/2 E16-18-20-22-24
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001NYXRQQ{{</world>}}

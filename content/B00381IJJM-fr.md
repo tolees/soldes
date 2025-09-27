@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabrication française
+- Capacité : 1L
+- Mécanisme de fermeture avec capsule et couvercle qui se visse
+- Disponibles en plusieurs tailles, parfaites pour conserver pâtés, rillettes et foies gras
 - Forme droite pour démouler facilement toutes les préparations
 - Gamme Familia Wiss
 - Pack de 6 terrines
 - Diamètre : 100mm
-- Disponibles en plusieurs tailles, parfaites pour conserver pâtés, rillettes et foies gras
-- Fabrication française
-- Mécanisme de fermeture avec capsule et couvercle qui se visse
-- Capacité : 1L
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00381IJJM{{</world>}}

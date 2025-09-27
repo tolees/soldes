@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique : facile à transporter, il peut être utilisé pour jouer nimporte où, seul ou à plusieurs. Son format "Livre" en carton rigide épais, permet de le ranger facilement dans les meubles de la chambre denfant
-- Caractéristiques : Comprend 26 magnets illustrés, 116 magnets lettres. Dimensions du livre : Longueur 19 cm x Largeur 4 cm x Hauteur 26 cm / Poids : 670 g
-- Apports éducatifs : avec ce jeu éducatif en forme de livre, votre enfant pourra apprendre ses premiers mots en reconstituant les noms associés à chaque illustration grâce aux pièces "lettres" magnétiques
 - Jouer à linfini : une fois les mots associés aux 16 illustrations maîtrisées, dautres mots peuvent être envisagés pour enrichir et complexifier lapprentissage, permettrant des heures de jeu et de réflexion
+- Pratique : facile à transporter, il peut être utilisé pour jouer nimporte où, seul ou à plusieurs. Son format "Livre" en carton rigide épais, permet de le ranger facilement dans les meubles de la chambre denfant
+- Apports éducatifs : avec ce jeu éducatif en forme de livre, votre enfant pourra apprendre ses premiers mots en reconstituant les noms associés à chaque illustration grâce aux pièces "lettres" magnétiques
+- Caractéristiques : Comprend 26 magnets illustrés, 116 magnets lettres. Dimensions du livre : Longueur 19 cm x Largeur 4 cm x Hauteur 26 cm / Poids : 670 g
 - Idéal pour les enfants de 3 ans à 8 ans
 - Une collection complète : les Magnétibooks sont déclinés sur différents thèmes chers aux enfants (animaux, véhicules, visages), composant une collection complète pour apprendre tout en samusant
 

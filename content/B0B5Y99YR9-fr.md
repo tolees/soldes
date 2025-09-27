@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Expiration 10 ans après la date démission.
-- Les chèques-cadeaux Amazon.fr sont uniquement valables sur Amazon.fr.
-- Possibilité de personnaliser son chèque-cadeau selon lévénement ou la passion du destinataire.
 - Le cadeau idéal permettant de faire plaisir à coup sûr en laissant les destinataires choisir ce dont ils ont envie.
+- Possibilité de personnaliser son chèque-cadeau selon lévénement ou la passion du destinataire.
 - Echangeable contre des millions d’articles sur Amazon.fr.
+- Les chèques-cadeaux Amazon.fr sont uniquement valables sur Amazon.fr.
+- Expiration 10 ans après la date démission.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5Y99YR9{{</world>}}

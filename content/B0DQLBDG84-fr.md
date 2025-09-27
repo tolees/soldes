@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - APPLICATION : après le shampooing, laisser poser 3min laprès-shampooing sur les longueurs, rincer abondamment, appliquer le sérum sur le cuir chevelu, section par section, sans rincer. Produit mixte, aussi efficace sur les femmes que sur les hommes*
-- RÉSULTATS : +7000 nouveaux cheveux & 10x moins de chute de cheveux*. *Cheveux existants, étude clinique sur 40 femmes et 37 hommes, après 5 utilisations par semaine pendant 6 semaines. **Test instrumental après application du shampooing + démêlant + sérum
 - PROTOCOLE ANTI-CHUTE HOMMES & FEMMES : Routine de soin anti-chute des cheveux clairsemés et/ou tendance à tomber. Stimule la croissance des cheveux existants et freine la chute due à la casse pour des cheveux plus forts et une chevelure plus dense
 - FORMULE : Un Complexe d’actifs Force et Croissance enrichi en [Aminexil-RTM], nouvelle technologie multi-brevetée fruit de 12 années de recherche et développement. Prouvé cliniquement sur des hommes et des femmes*
 - CONTENU: 1x LOréal Paris Elseve Fiber Booster - Routine Complète de soins capillaires Anti-chute : 1x Shampooing Sans Sulfates 200ml + 1 Démêlant Anti-Chute 150ml + 1x Sérum Pousse 102ml
+- RÉSULTATS : +7000 nouveaux cheveux & 10x moins de chute de cheveux*. *Cheveux existants, étude clinique sur 40 femmes et 37 hommes, après 5 utilisations par semaine pendant 6 semaines. **Test instrumental après application du shampooing + démêlant + sérum
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQLBDG84{{</world>}}

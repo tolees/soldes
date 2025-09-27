@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Hauteur : 9,5 cm, largeur : 13,5 cm
 - Multiples compartiments à lintérieur et à larrière pour ranger votre argent et vos cartes
 - Tissu 100% polyester avec une sensation de denim authentique
-- Hauteur : 9,5 cm, largeur : 13,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DNZVV95{{</world>}}

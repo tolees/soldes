@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Support mural et accessoires inclus
-- Écoutez votre musique préférée depuis votre smartphone ou votre tablette via Bluetooth
 - Remarque La barre de son est destinée à la lecture audio. Toutes les autres applications sont expressément exclues
+- Écoutez votre musique préférée depuis votre smartphone ou votre tablette via Bluetooth
 - sortie 2 x 20 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

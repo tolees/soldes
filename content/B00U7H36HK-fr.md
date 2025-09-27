@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ABIS MUSIQUE
 - Mort Magnétique [Vinyle]
+- ABIS MUSIQUE
 - musique universelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

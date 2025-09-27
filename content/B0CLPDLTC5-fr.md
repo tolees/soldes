@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran imprimé avec affichage numérique de lheure
 - Sangle imprimée de personnages multicolores
+- Cadran imprimé avec affichage numérique de lheure
 - Cadran personnage Pokéball et Pikachu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

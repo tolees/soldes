@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Multiplier les options de jeu de rôle – Ce jeu de construction sur le thème des super héros est compatible avec tous les autres jouets de construction LEGO Marvel, vendus séparément
+- Minifigurines LEGO Marvel – Le jouet LEGO contient 2 minifigurines : Iron Man avec un casque qui s’ouvre et une tête réversible affichant des expressions différentes et Ultron équipé d’un rayon laser
 - Des sets de super héros à collectionner pour les enfants – Les jouets de construction LEGO Marvel sont conçus pour offrir aux jeunes super héros une infinité de possibilités de construction et de jeu créatif
 - Idée de cadeau danniversaire pour les garçons et les filles de 6 ans et plus, fans dIron Man – Offrez aux enfants dès 6 ans, fans de super héros et de robots, un beau cadeau de construction LEGO
 - Robot d’Iron Man à construire – La figurine articulée possède des bras, des jambes et des doigts mobiles avec un torse qui s’ouvre pour révéler un cockpit pouvant accueillir la minifigurine d’Iron Man
-- Multiplier les options de jeu de rôle – Ce jeu de construction sur le thème des super héros est compatible avec tous les autres jouets de construction LEGO Marvel, vendus séparément
 - Jeu de construction Iron Man pour garçons et filles de 6 ans et plus – Donnez une toute autre dimension à l’action des super héros avec Le robot d’Iron Man contre Ultron
-- Minifigurines LEGO Marvel – Le jouet LEGO contient 2 minifigurines : Iron Man avec un casque qui s’ouvre et une tête réversible affichant des expressions différentes et Ultron équipé d’un rayon laser
 - Arme de robot LEGO Marvel – L’extrémité du bras droit du robot est dotée d’un double fusil à tenons intégré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

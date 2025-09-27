@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistre les images et les vidéos aux formats Full HD (1 080p) et 4K HD
 - Transfert de données: Vitesse décriture: 85 Mo/s maximum | Vitesse décriture: 30 Mo/s minimum
-- Durable
-- Capacités jusquà 512Go
 - Débits UHS-I Classe 10 jusqu’à 100Mo/s
+- Capacités jusquà 512Go
+- Durable
+- Enregistre les images et les vidéos aux formats Full HD (1 080p) et 4K HD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07YGZQ4DM{{</world>}}

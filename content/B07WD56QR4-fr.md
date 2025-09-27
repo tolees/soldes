@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultat longue tenue
 - Mascara volume extrême sur-mesure
-- Brosse fibres en zigzag qui capte tous les cils
 - Cils démultipliés sans paquet
+- Résultat longue tenue
 - Formule enrichie en collagène et pigments noirs extrêmes
+- Brosse fibres en zigzag qui capte tous les cils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WD56QR4{{</world>}}

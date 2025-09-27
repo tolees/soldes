@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - AIRFLOW HAUTE PERFORMANCE : les panneaux supérieurs et latéraux perforés dirigent l’air filtré dans l’ensemble du boîtier de façon à refroidir les composants et à améliorer les performances.
-- MONTAGE SIMPLIFIÉ : intérieur spacieux avec gestion intuitive des câbles, panneau SSD dédié et supports de montage supérieur et latéraux amovibles.
-- CONCEPTION À DEUX CHAMBRES : les câbles, le stockage et le bloc d’alimentation sont séparés des autres composants de façon à conserver un aspect propre et à maximiser l’airflow vers la carte graphique.
-- EXTRÊMEMENT FRAIS : prend en charge les radiateurs jusqu’à 360 mm dans les panneaux supérieurs, latéraux et inférieurs. Peut accueillir jusqu’à 10 ventilateurs de 120 mm ou 6 ventilateurs de 140 mm plus 1 ventilateur de 120 mm.
 - VUE IMPRENABLE : grâce au verre transparent sur les panneaux avant et latéraux, les composants de ton PC bénéficient de toute l’attention qu’ils méritent.
+- MONTAGE SIMPLIFIÉ : intérieur spacieux avec gestion intuitive des câbles, panneau SSD dédié et supports de montage supérieur et latéraux amovibles.
+- EXTRÊMEMENT FRAIS : prend en charge les radiateurs jusqu’à 360 mm dans les panneaux supérieurs, latéraux et inférieurs. Peut accueillir jusqu’à 10 ventilateurs de 120 mm ou 6 ventilateurs de 140 mm plus 1 ventilateur de 120 mm.
+- CONCEPTION À DEUX CHAMBRES : les câbles, le stockage et le bloc d’alimentation sont séparés des autres composants de façon à conserver un aspect propre et à maximiser l’airflow vers la carte graphique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BJGP7XQ7{{</world>}}

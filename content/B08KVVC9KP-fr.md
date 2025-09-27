@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La Coccinelle est un vrai classique
-- Le toit est amovible
-- Cest parti pour des vacances en famille à la plage !
 - Contient trois personnages, une valise, une planche de surf, une glacière et des jouets.
+- Cest parti pour des vacances en famille à la plage !
+- Le toit est amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KVVC9KP{{</world>}}

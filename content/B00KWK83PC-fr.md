@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction type bottine imperméable avec coutures étanches
 - Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Semelle intermédiaire Techlite légère
+- Construction type bottine imperméable avec coutures étanches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00KWK83PC{{</world>}}

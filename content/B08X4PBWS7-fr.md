@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Bracelet en acier inoxydable
 - Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
-- Mouvement multifonction à quartz
 - Cadran noir brossé verticalement
+- Mouvement multifonction à quartz
 - Épaisseur du boîtier 10,75mm, Diamètre du boîtier 44 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

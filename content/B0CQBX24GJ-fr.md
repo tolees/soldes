@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 5000mAh (typ) grande batterie, charge rapide 33W
-- Écran perforé FHD+ POLED 120 Hz
 - Appareil photo principal de qualité professionnelle de 108 Mpx
+- Écran perforé FHD+ POLED 120 Hz
 - Processeur haute performance D6080Interne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

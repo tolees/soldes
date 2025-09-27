@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Personnalise ta Sister pour être la plus tendance : récupère toutes les cartes cadeaux et complète toutes les missions pour débloquer des objets super stylés !
 - Explore la ville enrichie de nouveaux designs et de nouveaux lieux, rencontre les habitants et relève les défis des 24 supers-influenceurs dans le mode Aventure !
-- Après « Les Sisters - Show Devant ! », profite d’une toute nouvelle histoire originale inspirée de l’univers pétillant de la bande-dessinée à succès « Les Sisters », où les idées fusent aussi vite que les bêtises !
 - 24 mini-jeux inédits et déjantés à découvrir pour exploser les scores : bataille de tomates, rétro-laser game, plongée bloup-bloup, cuisine en folie…
 - Rejoue à l’infini en choisissant Marine ou Wendy pour peut-être tenter de débloquer une fin secrète…
+- Après « Les Sisters - Show Devant ! », profite d’une toute nouvelle histoire originale inspirée de l’univers pétillant de la bande-dessinée à succès « Les Sisters », où les idées fusent aussi vite que les bêtises !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C4BGJXN6{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Niveau de pression sonore : 91 dB/W.m
-- Impédance de 4 ohms
 - Aimant en ferrite
+- Niveau de pression sonore : 91 dB/W.m
 - Tweeter compensé de polyester imidique
-- Alentour: Hybride (caoutchouc et tissu)
 - Réponse de fréquence : 40-22 000 Hz
+- Impédance de 4 ohms
+- Alentour: Hybride (caoutchouc et tissu)
 - Capacité de puissance (puissance RMS), Puissance de crête de 250 W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

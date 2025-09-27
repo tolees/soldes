@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Échelle 1:43
 - Action de course enflammée avec Hot Wheels
+- Échelle 1:43
 - Hot Wheels HW50 Concept
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

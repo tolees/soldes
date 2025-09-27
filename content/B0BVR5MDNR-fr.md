@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les gommettes APLI respectent des normes de sécurité strictes qui garantissent la sécurité des enfants. Prêts, feu, partez .... A vos gommettes !
+- Jouer et créer avec des gommettes permet de stimuler limaginaire des enfants mais également de développer dautres habiletés telles que la psychomotricité fine et l apprentissage des formes, des tailles et des couleurs. Les gommettes adhésives mosaïques permettront de réaliser de jolies créations modernes et originales.
 - Chaque rouleau est composé de 30 feuilles pré-découpées pour une séparation facile, soit un total de 2460 gommettes par rouleau.
 - Les gommettes autocollantes en rouleau sont idéales pour une utilisation dans les écoles ou en crèche afin dorganiser des ateliers de travaux manuels et créatifs avec les enfants. Ces stickers mosaïques trouveront également leur place à la maison lors des activités DIY en famille.
-- Jouer et créer avec des gommettes permet de stimuler limaginaire des enfants mais également de développer dautres habiletés telles que la psychomotricité fine et l apprentissage des formes, des tailles et des couleurs. Les gommettes adhésives mosaïques permettront de réaliser de jolies créations modernes et originales.
 - Gommettes Mosaïques en rouleau aux couleurs assorties: bleu, vert et jaune. Ladhésif est repositionnable afin de permettre à lenfant de se corriger.
+- Les gommettes APLI respectent des normes de sécurité strictes qui garantissent la sécurité des enfants. Prêts, feu, partez .... A vos gommettes !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVR5MDNR{{</world>}}

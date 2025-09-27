@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pendentif en argent Sterling 925
-- Le bijou sert de base à une infinie variété de combinaisons déléments Pandora
 - Chaque bijou est fait à la main
+- Le bijou sert de base à une infinie variété de combinaisons déléments Pandora
 - Pendentif femme Pandora - 796596FPC
+- Pendentif en argent Sterling 925
 - Le produit nest pas livré dans une boîte. La boîte est vendue séparément.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

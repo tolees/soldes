@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier moyen-tour iCUE 5000D RGB AIRFLOW, blanc
 - Contrôleur iCUE Lighting Node PRO Design à circulation d’air optimale
 - 3 ventilateurs AF120 RGB ELITE blancs
+- Boîtier moyen-tour iCUE 5000D RGB AIRFLOW, blanc
 - Le CORSAIR 5000D RGB AIRFLOW est un boîtier ATX moyen-tour avec un design de circulation d’air optimale et trois ventilateurs CORSAIR AF120 RGB ELITE fournissant un refroidissement exceptionnel à vos composants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le jeu Astérix & Obélix Baffez les Tous en code de téléchargement
 - Lédition Gold contient :
 - 2 figurines en résine
-- Le jeu Astérix & Obélix Baffez les Tous en code de téléchargement
 - Le jeu Astérix & Obélix Baffez les tous 2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

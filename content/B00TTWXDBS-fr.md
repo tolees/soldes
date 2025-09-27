@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huiles pour cuticules
 - Marque ureadin
 - Produits de beauté
+- Huiles pour cuticules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TTWXDBS{{</world>}}

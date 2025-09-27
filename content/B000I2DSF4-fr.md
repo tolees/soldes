@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Mines noires et solides
 - Chaque Etui comporte 12 mines
 - Lot de 12 Etuis de mines Hi-Polymer SUPER
-- Idéal pour utilisation scolaire, professionnelle et loisirs
 - Mines 0,5 HB
+- Idéal pour utilisation scolaire, professionnelle et loisirs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000I2DSF4{{</world>}}

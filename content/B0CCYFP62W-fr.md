@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LONGUE DURÉE DE VIE DE LA BATTERIE : la SRS-XB100 dure plus longtemps jusquà 16 heures dautonomie et elle dispose dun indicateur pratique de létat de la batterie. Le chargement se fait via USB-C.
-- COMPACTE & PORTABLE : La XB100 est légère et super compacte. La dragonne multiposition vous permet de la transporter à votre poignet ou de lattacher à votre vélo ou votre sac à dos.
 - PROFITEZ DUN SON PUISSANT ET CLAIR OÙ QUE VOUS SOYEZ : Cette enceinte super compacte produit un son puissant avec des basses profondes. Le processeur de diffusion sonore répand le son dans toutes les directions.
+- COMPACTE & PORTABLE : La XB100 est légère et super compacte. La dragonne multiposition vous permet de la transporter à votre poignet ou de lattacher à votre vélo ou votre sac à dos.
+- LONGUE DURÉE DE VIE DE LA BATTERIE : la SRS-XB100 dure plus longtemps jusquà 16 heures dautonomie et elle dispose dun indicateur pratique de létat de la batterie. Le chargement se fait via USB-C.
 - APPELS MAINS LIBRES : Profitez dune meilleure qualité dappel grâce à la technologie dannulation de lécho. Deux personnes peuvent parler en même temps, sans coupure ni interruption.
 - DURABLE : Avec lindice IP67, elle est étanche à leau et à la poussière. De plus, elle est dotée dun nouveau revêtement anti-UV qui lui permet de durer même en plein soleil. Vous pouvez donc lemporter partout.
 

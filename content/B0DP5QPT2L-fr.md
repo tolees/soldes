@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Smartphone sous systeme Android 14
-- Appareil photo de 50 + 5 + 2 Mégapixels
 - Memoire interne: 128 Go - RAM: 4 Go
+- Appareil photo de 50 + 5 + 2 Mégapixels
 - Ecran de 6.7 - 4G: Oui
+- Smartphone sous systeme Android 14
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DP5QPT2L{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche de poitrine et poche chauffe-mains pour garder les effets personnels en sécurité
 - Adaptable à toutes les saisons grce à la capuche tempête ajustable et amovible
 - Poignets ajustables et cordon de serrage réglable
+- Poche de poitrine et poche chauffe-mains pour garder les effets personnels en sécurité
 - Contenu : 1 x columbia softshell cascade ridge ii, veste, homme, composition : Softshell 100 percentage polyester, tricot 100 percentage polyester, bleu (collegiate navy heather), l, 1516251
 - Idéale par temps pluvieux grce au tissu résistant à leau
 

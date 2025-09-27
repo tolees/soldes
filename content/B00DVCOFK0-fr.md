@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriquées en Espagne
-- Hauteur du talon : 3,00 cm
 - Panama Jack Bottes pour homme Cuero / Bark Springer
+- Hauteur du talon : 3,00 cm
 - Matière principale : nappa, matériau de la doublure : Gore-Tex Matériau de la semelle : caoutchouc naturel Semelle intérieure amovible Insert : oui
 - Imperméable
 

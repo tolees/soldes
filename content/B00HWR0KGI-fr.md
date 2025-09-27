@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Doublure :
 - Semelle/caractéristiques : sangle élastique pour un ajustement confortable
+- Couleur : noir
 - Matériau extérieur : cuir de vachette, textiles fonctionnels
 - Semelle intérieure amovible pour un ajustement optimal
 

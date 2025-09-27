@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synthétique, 90 % polyuréthane synthétique – 10 % polyester en maille textile
-- 92 % coton - 8 % microfibre synthétique
-- Fermeture Velcro
 - 100 % caoutchouc thermoplastique
+- Synthétique, 90 % polyuréthane synthétique – 10 % polyester en maille textile
+- Fermeture Velcro
+- 92 % coton - 8 % microfibre synthétique
 - Les systèmes brevetés Geox garantissent la respirabilité de la semelle et assurent le bien-être du pied
 
 [🛒 Achète-le!!]({{< param buyurl >}})

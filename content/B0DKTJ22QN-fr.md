@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Memory Storage: 128GB
+- Colour: Black
 - Samsung A165F/DSB Galaxy A16
 - RAM Memory: 4GB
-- Colour: Black
-- Memory Storage: 128GB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DKTJ22QN{{</world>}}

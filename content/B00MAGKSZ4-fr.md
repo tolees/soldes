@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué au Japon
 - Poids du colis: 60.0 g
+- Fabriqué au Japon
 - 18 mines en bleu – 1 Frixion Ball 0, 7 en bleu – 1 Frixion Clicker Ball en bleu – 1 Remover en bleu.
 - Quantité de article: 1
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ergonomie: Fermeture par lacets; Bande élastique pour ranger les lacets
 - Performance Shock: Inserts rigides au niveau de la malléole avec D-Foam souple sur le côté interne; Chaussure certifiée CE - Cat. II - norme EN 13634
 - Caractéristiques: Protection de sélecteur de vitesses en PU
 - Matériaux Principaux: Tige en cuir de vache pleine fleur; Semelle extérieure en caoutchouc Groundtrax; Assise plantaire Ortholite avec amorti prolongé et niveau de respirabilité élevé
+- Ergonomie: Fermeture par lacets; Bande élastique pour ranger les lacets
 - Température: Doublure en maille; Intérieur D-WP waterproof
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

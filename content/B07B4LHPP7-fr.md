@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contient : 1 Licorne phosphorescente, 2 Planches de décalcomanies , 1 Outil , 1 Planche de stickers paillettés , 1 Planche de strass
 - Ne convient pas aux enfants de moins de 3 ans ; à utiliser sous la surveillance dun adulte
 - Dimensions: L 22 x P10 x H22 cm
-- Contient : 1 Licorne phosphorescente, 2 Planches de décalcomanies , 1 Outil , 1 Planche de stickers paillettés , 1 Planche de strass
 - À partir de 6+
 
 [🛒 Achète-le!!]({{< param buyurl >}})

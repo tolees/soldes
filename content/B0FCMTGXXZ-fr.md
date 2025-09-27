@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Sony Console PlayStation 5, Édition Numérique, 1x Manette DualSense, 1x code de téléchargement du jeu complet Call of Duty: Black Ops 6, 2x pieds de socle horizontal, Connectique : 1 port HDMI 2.1, 3 ports USB, 1 port USB-C, 1 port Ethernet, Dimensions de la console (lxHxL) : 358 x 96 x 216 mm (sans socle), Poids : 2,3 kg, Couleur : Blanche.
 - Niveau de réalisme inégalé grâce à la technologie de rendu de la lumière Ray Tracing, Prise en charge de la technologie HDR pour des couleurs vives et dynamiques, Possibilité de jouer en 4K et 8K sur les jeux et écrans compatibles
-- PlayStation 5 édition numérique, Une console révolutionnaire entièrement centrée sur le joueur pour des expériences encore plus immersives et connectées avec vos jeux PS5 et PS4 rétrocompatibles
-- Temps de chargement quasi instantanés pour les jeux PS5 (installés) grâce à un disque SSD ultra-haute vitesse, Interface utilisateur conçue pour fournir un accès immédiat à presque toutes les options du système sans quitter votre partie
 - Technologie Tempest 3D AudioTech pour une immersion sonore hors du commun, Retour haptique et gâchettes adaptatives via la manette DualSense pour ressentir les effets et limpact de vos actions en jeu (sur une sélection de jeux PS5)
+- Contenu : 1x Sony Console PlayStation 5, Édition Numérique, 1x Manette DualSense, 1x code de téléchargement du jeu complet Call of Duty: Black Ops 6, 2x pieds de socle horizontal, Connectique : 1 port HDMI 2.1, 3 ports USB, 1 port USB-C, 1 port Ethernet, Dimensions de la console (lxHxL) : 358 x 96 x 216 mm (sans socle), Poids : 2,3 kg, Couleur : Blanche.
+- Temps de chargement quasi instantanés pour les jeux PS5 (installés) grâce à un disque SSD ultra-haute vitesse, Interface utilisateur conçue pour fournir un accès immédiat à presque toutes les options du système sans quitter votre partie
+- PlayStation 5 édition numérique, Une console révolutionnaire entièrement centrée sur le joueur pour des expériences encore plus immersives et connectées avec vos jeux PS5 et PS4 rétrocompatibles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FCMTGXXZ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les LED haute puissance émettent une lumière du jour comme une lumière blanche avec une luminosité allant jusquà 2700 lumens avec 3 modes de luminosité
 - Concept 18V ONE+ : alimentez ce modèle électrique et tous vos appareils et outils de bricolage et jardinage avec la même batterie pour + de 200 outils; antichocs, elle est dotée de la technologie Lithium+ IntelliCell et évite la surcharge et la surchauffe
-- Doté dun manche télescopique réglable jusquà 1,7 m permettant différents réglages de la hauteur en fonction de lapplication
-- 3 ans de garantie sur les outils de bricolage et de jardinage : nos outils sont conçus pour durer, notre garantie aussi; tous nos outils et batteries sont garantis 2 ans et, si le consommateur enregistre le produit dans les 30 jours suivant lachat, 3 ans
 - Une tête pivotante permet une rotation à 310° et plusieurs points de suspension vous permettent de diriger la lumière presque nimporte où
+- Les LED haute puissance émettent une lumière du jour comme une lumière blanche avec une luminosité allant jusquà 2700 lumens avec 3 modes de luminosité
+- 3 ans de garantie sur les outils de bricolage et de jardinage : nos outils sont conçus pour durer, notre garantie aussi; tous nos outils et batteries sont garantis 2 ans et, si le consommateur enregistre le produit dans les 30 jours suivant lachat, 3 ans
+- Doté dun manche télescopique réglable jusquà 1,7 m permettant différents réglages de la hauteur en fonction de lapplication
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HSNP41Y{{</world>}}

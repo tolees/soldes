@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Env. 9 cm de haut à lextérieur du support de baignoire (certains peuvent varier)
 - Ce cadeau sous licence officielle fait partie de la gamme TUBBZ, une série de personnages de la ture pop en forme de canard
 - Les produits internationaux ont des conditions distinctes, sont vendus depuis létranger et peuvent différer des produits locaux, notamment en ce qui concerne lajustement, la classification par âge et la langue du produit, létiquetage ou les instructions.
+- Env. 9 cm de haut à lextérieur du support de baignoire (certains peuvent varier)
 - Collectionnez tous vos personnages préférés des jeux, des films, des émissions de téléion, des bandes dessinées et de la musique populaire au fur et à mesure quils prennent comme des vinyles de canard en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

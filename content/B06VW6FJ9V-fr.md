@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plus de 130 composants sont inclus: boîte de vitesses, engrenages, jantes, pneus, élastiques, barres, poulies, etc.
-- Lenfant construit lui-même un Roadster et un dragster en intégrant leur système de transmission.
 - Fabriqué en:- Italie
+- Lenfant construit lui-même un Roadster et un dragster en intégrant leur système de transmission.
 - Un coffret scientifique innovant pour découvrir les secrets de ces 2 véhicules surpuissants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - NIVEAUX ADAPTÉS À TOUS : Comme dans la plupart des jeux de patience et de logique de ThinkFun, les 60 cartes Défi sont réparties en quatre niveaux de difficulté mettant à lépreuve chaque joueur, du débutant à lexpert. Pour tous les niveaux vous trouverez la correction au verso de la carte.
-- CRÉEZ ET IMAGINEZ : Cest à vous de décider où et comment placer les tours sur le plateau de jeu. Mais à la fin, une seule chose est importante pour gagner le défi : la bille en métal doit rouler sans sarrêter à travers chaque tour et atteindre la petite tour rouge darrivée.
-- CONTENU : 60 cartes-défis et Solutions (4 niveaux de jeu, de débutant à expert), 1 tour rouge cible, 9 tours de constructions colorées, 3 billes, 1 grille de jeu et 1 notice. Un cadeau idéal pour les fans adultes ou enfants de casses-têtes et autres jeux de logique.
 - JOUABLE A LINFINI : Vous avez réussi les 60 défis proposés dans le jeu ! Imaginez de nouveaux défis vous-même encore plus fou ! Utilisez le matériel du jeu dans tous les sens et créez des parcours inédits : empilez, associez, tournez les tours ! Les combinaisons sont infinies.
 - JEU DE LOGIQUE : Êtes-vous prêt à mettre à lépreuve votre capacité de représentation dans lespace ? Avec Gravity Maze, construisez des circuits à billes avec des tours transparentes. Cela ne semble pas si difficile ? Attention, car les tours ne sont pas faciles à construire : il y a des pentes, des surfaces planes et même des trous.
+- CONTENU : 60 cartes-défis et Solutions (4 niveaux de jeu, de débutant à expert), 1 tour rouge cible, 9 tours de constructions colorées, 3 billes, 1 grille de jeu et 1 notice. Un cadeau idéal pour les fans adultes ou enfants de casses-têtes et autres jeux de logique.
+- CRÉEZ ET IMAGINEZ : Cest à vous de décider où et comment placer les tours sur le plateau de jeu. Mais à la fin, une seule chose est importante pour gagner le défi : la bille en métal doit rouler sans sarrêter à travers chaque tour et atteindre la petite tour rouge darrivée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KHLW7TX{{</world>}}

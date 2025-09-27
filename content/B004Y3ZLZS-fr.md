@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfait pour les guitares acoustiques et électriques
-- Fabriqué en laiton plaqué chrome
 - Également disponible en M et S
+- Fabriqué en laiton plaqué chrome
 - Grande taille
+- Parfait pour les guitares acoustiques et électriques
 - Brillant de miroir pour un jeu sans efforts
 
 [🛒 Achète-le!!]({{< param buyurl >}})

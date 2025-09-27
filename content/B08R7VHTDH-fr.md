@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibilité
 - Couture à 360°
+- Flexibilité
 - Grip supplémentaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})

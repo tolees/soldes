@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Soin nourrissant et anti-frisottis à leau lamellaire et à la banane pour des cheveux hydratés et plus brillants, Idéal pour les cheveux secs à très secs
-- Résultats : Des cheveux nourris, sans frisottis et dotés dune brillance miroir instantanément, Fibre capillaire resurfacée et lissée en profondeur
-- Technologie lamellaire à la banane, Formule végane* composée à 97% dingrédients dorigine naturelle (*Sans composant dorigine animale ou dérivé)
 - Application : Appliquer sur les longueurs essorées après le shampooing, Masser les longueurs pendant 10 secondes puis rincer, Dosage recommandé : 1 dose pour cheveux fins, 2-3 doses pour cheveux normaux à épais, 1 dose de plus pour cheveux longs
+- Résultats : Des cheveux nourris, sans frisottis et dotés dune brillance miroir instantanément, Fibre capillaire resurfacée et lissée en profondeur
 - Nos formules peuvent cristalliser en dessous de 9°C,. Il sagit dune transformation naturelle, uniquement due à la présence de composés gras dorigine naturelle dans la formule, qui aident à démêler, lisser et apporter de la brillance. Une fois stockée à température ambiante (au-dessus de 18°C), la formule retrouvera son aspect initial en quelques heures. Agitez le flacon pour accélérer ce processus.
 - Contenu : 1x Soin lamellaire Banane Hair Drink de Garnier Fructis, Contenance : 200 ml
+- Technologie lamellaire à la banane, Formule végane* composée à 97% dingrédients dorigine naturelle (*Sans composant dorigine animale ou dérivé)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQWXL8W9{{</world>}}

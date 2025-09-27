@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Angel est le parfum de la femme qui ose faire de ses rêves une réalité en suivant son étoile bleue.
-- Vaporisez un nuage de parfum puis traversez-le pour laisser la fragrance se déposer sur les cheveux, les vêtements.
 - Angel Eau de Parfum, le premier parfum gourmand, signé Mugler. Sa fragrance ambrée gourmande iconique associe la puissance du patchouli à la sensualité des notes de praline, et dabsolu de vanille.
+- Vaporisez un nuage de parfum puis traversez-le pour laisser la fragrance se déposer sur les cheveux, les vêtements.
+- Angel est le parfum de la femme qui ose faire de ses rêves une réalité en suivant son étoile bleue.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0083MONTG{{</world>}}

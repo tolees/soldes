@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Loreiller est facile à entretenir car sa taie externe est lavable
 - Il est recommandé pour les personnes qui dorment sur le côté ou sur le dos
+- Loreiller est facile à entretenir car sa taie externe est lavable
 - Elle est respirante, a une grande durabilité et un excellent confort
 - À l’intérieur, il contient une mousse à mémoire de forme qui sadapte idéalement à la tête
 - Oreiller ergonomique en mousse à mémoire de forme avec double taie qui améliore lhygiène du produit

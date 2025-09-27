@@ -30,10 +30,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CONTRIBUEZ AU CONFORT DE VOTRE MAISON : contrôlez les appareils connectés compatibles (lumières, thermostats, etc.), même lorsque vous nêtes pas à la maison.
 - VOYEZ-EN PLUS AVEC LA CAMÉRA INTÉGRÉE : prenez des nouvelles de vos proches, vos animaux et bien plus, grâce à la caméra intégrée. Appelez chez vous par Drop In lorsque vous nêtes pas à la maison ou surveillez la porte dentrée depuis votre Echo Show 5 grâce aux sonnettes vidéo compatibles.
-- ALEXA PEUT VOUS MONTRER ENCORE PLUS DE CHOSES : Echo Show 5 est doté dun écran 5,5" vous permettant de consulter les nouvelles et la météo dun simple coup dœil, de passer des appels vidéo, dafficher la vidéo de vos caméras compatibles, découter de la musique, de regarder vos séries en streaming, et bien plus encore.
 - CONÇU POUR PROTÉGER VOTRE VIE PRIVÉE : cet appareil est doté de multiples contrôles visant à protéger votre vie privée, dont un bouton Arrêt microphone/caméra et un cache-caméra intégré.
-- UTILISEZ VOS PHOTOS COMME FOND DÉCRAN : faites défiler vos photos préférées comme un diaporama lorsque votre appareil est inutilisé, grâce à Amazon Photos. Les membres Prime bénéficient également dun stockage photo illimité dans le Cloud.
 - PETIT FORMAT, GRANDES PERFORMANCES : écoutez votre musique préférée ou vos podcasts, regardez vos séries, et bien plus encore, depuis Amazon Music, Spotify, Prime Video ou dautres services, en profitant désormais de basses encore plus profondes et de voix encore plus claires. Cet appareil est doté dun écran 5,5" vous permettant de voir vos séries, titres de chansons et bien plus, dun simple coup dœil.
+- ALEXA PEUT VOUS MONTRER ENCORE PLUS DE CHOSES : Echo Show 5 est doté dun écran 5,5" vous permettant de consulter les nouvelles et la météo dun simple coup dœil, de passer des appels vidéo, dafficher la vidéo de vos caméras compatibles, découter de la musique, de regarder vos séries en streaming, et bien plus encore.
+- UTILISEZ VOS PHOTOS COMME FOND DÉCRAN : faites défiler vos photos préférées comme un diaporama lorsque votre appareil est inutilisé, grâce à Amazon Photos. Les membres Prime bénéficient également dun stockage photo illimité dans le Cloud.
 - RESTEZ EN CONTACT GRÂCE AUX APPELS VIDÉO : utilisez la caméra 2 Mpx pour appeler vos proches disposant de lapplication Alexa ou dun appareil Echo doté dun écran. Passez des annonces sur les autres appareils compatibles de la maison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

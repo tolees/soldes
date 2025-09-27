@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Empreinte : Douze pans
+- En acier au chrome-vanadium | Traitement de surface : chromé, mat
 - avec cannelure
 - Étendue de la livraison : 1 Douille pour clé, douze pans, longue, 6,3 mm (1/4") : 4 mm (art. 10702) - 5 mm (art. 10704) - 5,5 mm (art. 10705) - 6 mm (art. 10706) - 7 mm (art. 10707) - 8 mm (art. 10708) - 9 mm (art. 10709) - 10 mm (art. 10710) - 11 mm (art. 10711) - 12 mm (art. 10712) - 13 mm (art. 10713)
+- Empreinte : Douze pans
 - Sur rail de métal
-- En acier au chrome-vanadium | Traitement de surface : chromé, mat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0095KE8UO{{</world>}}

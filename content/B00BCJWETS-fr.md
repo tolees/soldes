@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: Décor chêne en relief
-- La finition mélamine de ce meuble le protège de lhumidité et des rayures
-- Meuble fabriqué en Allemagne
-- <b> Couleur </b>: Chêne
-- <b>Finition</b>: panneaux mélaminiques
 - <b> Dimensions </b>: 45 x 38 x 53,5 cm
+- Couleur: Décor chêne en relief
+- <b>Finition</b>: panneaux mélaminiques
+- <b> Couleur </b>: Chêne
+- Meuble fabriqué en Allemagne
+- La finition mélamine de ce meuble le protège de lhumidité et des rayures
 - Matière: Panneaux de particules mélamine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

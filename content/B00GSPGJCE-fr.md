@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Micro en ligne avec fonction à distance
-- Véritable accessoire Samsung
 - Appel Réponse / Fin Bouton
+- Véritable accessoire Samsung
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GSPGJCE{{</world>}}

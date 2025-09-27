@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rafraichie
 - Pour une peau radieuse
 - Une hydration
-- Rafraichie
 - Une formule naturelle, pour une tenue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

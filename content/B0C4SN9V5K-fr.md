@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ArcherAX12
-- Wireless comm standard: 802_11_AX
+- Compatible devices: Smartphone
 - Frequency: 50.0 GHz
 - Frequency band class: dual_band
-- Compatible devices: Smartphone
+- ArcherAX12
+- Wireless comm standard: 802_11_AX
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4SN9V5K{{</world>}}

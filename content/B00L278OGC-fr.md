@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps en plastique aves habillage inox
-- Ecran électronique
 - Cuve 1.2L amovible en aluminium
-- Turbine à glace
+- Ecran électronique
 - Puissance 135W
+- Corps en plastique aves habillage inox
+- Turbine à glace
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00L278OGC{{</world>}}

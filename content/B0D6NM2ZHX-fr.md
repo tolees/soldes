@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le passé rencontre le présent : Sonic Classique et Moderne doivent s’unir afin de restaurer le cours du temps !
+- Un remaster complet : Plongez dans une aventure à travers le temps proposant des niveaux emblématiques avec des graphismes améliorés.
 - Retour d’un héros : Découvrez une histoire inédite mettant en vedette Shadow.
 - Shadow the Hedgehog revient avec Sonic classique et moderne dans SONIC X SHADOW GENERATIONS, une nouvelle collection offrant deux expériences uniques !
-- Un remaster complet : Plongez dans une aventure à travers le temps proposant des niveaux emblématiques avec des graphismes améliorés.
+- Le passé rencontre le présent : Sonic Classique et Moderne doivent s’unir afin de restaurer le cours du temps !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6NM2ZHX{{</world>}}

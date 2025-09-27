@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un logo gravé en creux
 - Lacets
+- Un logo gravé en creux
 - Ils sont confectionnées en similicuir aux finitions grainées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

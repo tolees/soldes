@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POKEMON : Set de papeterie complet que vous ne pouvez pas manquer si vous êtes un vrai fan de Pokémon.
 - PRODUIT DE QUALITÉ : Conçu en Espagne en suivant tous les processus de fabrication et de qualité conformément à la réglementation européenne. Nous utilisons des matériaux résistants et de haute qualité dans tous nos produits, en nous efforçant de créer des designs spéciaux pour vous.
 - NOM DE LA MARQUE : Ce produit sous licence est officiel et 100% original
 - CONTENU : ce paquet cadeau contient une trousse à crayons, deux crayons, une gomme et un taille-crayon.
+- POKEMON : Set de papeterie complet que vous ne pouvez pas manquer si vous êtes un vrai fan de Pokémon.
 - CADEAU PARFAIT : ce set de papeterie est idéal comme cadeau danniversaire, de Noël ou de toute autre occasion spéciale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

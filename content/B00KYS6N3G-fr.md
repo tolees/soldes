@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1 prise CPL avec 2 ports Fast Ethernet, point daccès WiFi
+- Extension CPL la plus économique de la gamme Magic WiFi, Fonctionne obligatoirement avec un second adaptateur Magic ou plus
 - Remarque: Compatible avec tous les adaptateurs de la série devolo Magic. Les adaptateurs devolo de la série dLAN ne sont pas pris en charge
 - Débit Wifi sur la bande 2,4GHz : 300 Mbps | Débit Wifi sur la bande 5GHz : 867 Mbps
 - Internet haut débit jusquà 1200 Mbits/s avec la nouvelle technologie CPL (norme g.Hn) par le leader du marché
-- 1 prise CPL avec 2 ports Fast Ethernet, point daccès WiFi
-- Extension CPL la plus économique de la gamme Magic WiFi, Fonctionne obligatoirement avec un second adaptateur Magic ou plus
 - Plug & Play, attribution facile de mot de passe pour le WiFi invité, contrôle parental
 
 [🛒 Achète-le!!]({{< param buyurl >}})

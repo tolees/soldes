@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Hypoallergénique
 - Enrichi en Kératine
-- Testé dermologiquement
 - Non irritant
+- Testé dermologiquement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XMFCHZ7{{</world>}}

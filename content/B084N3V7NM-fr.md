@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE LEGERE ET NON GRASSE : Testée sous contrôle dermatologique, sa formule légère et non grasse, facile à appliquer, sabsorbe rapidement par la peau. Le lait solaire apporte une agréable sensation de fraîcheur après une exposition au soleil.
-- ENRICHI EN ALOE VERA BIO APAISANTE : Ce soin solaire à la formule naturelle est enrichi en aloe vera bio, réputée pour ses propriétés apaisantes sur la peau fragilisée par le soleil, et en acide hyaluronique, aux propriétés protectrices.
 - VOTRE RITUEL NOURRISSANT : Appliquez généreusement et de façon homogène après chaque exposition au soleil ou dès que la peau semble déshydratée, puis laissez pénétrer le produit. Renouvelez lapplication aussi souvent que nécessaire.
 - APRES SOLEIL HYDRATANT 48H : Le lait après-soleil de NIVEA SUN aide à restaurer la perte dhydratation due au soleil pendant 48 heures et évite à la peau de peler. Pour une peau souple et un joli bronzage.
+- ENRICHI EN ALOE VERA BIO APAISANTE : Ce soin solaire à la formule naturelle est enrichi en aloe vera bio, réputée pour ses propriétés apaisantes sur la peau fragilisée par le soleil, et en acide hyaluronique, aux propriétés protectrices.
+- FORMULE LEGERE ET NON GRASSE : Testée sous contrôle dermatologique, sa formule légère et non grasse, facile à appliquer, sabsorbe rapidement par la peau. Le lait solaire apporte une agréable sensation de fraîcheur après une exposition au soleil.
 - N°1 DE LA PROTECTION SOLAIRE* : Profitez du soleil en toute sérénité avec NIVEA SUN, première marque de protection solaire au monde.* Nos formules hautes performances protègent et hydratent votre peau à tous les moments de la journée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

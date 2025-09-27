@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifiées par le Leather Working Group
 - Ortholite smelle interne pour amorti et respirabilité
+- Certifiées par le Leather Working Group
 - Semelle extérieure EVA pour la légèreté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

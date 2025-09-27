@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre bleue
 - Pointe en plastique de 0,8mm
+- Encre bleue
 - Ecriture douce, grand confort décriture
 - Feutre à bille Pentel R50
 

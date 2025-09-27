@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour cadeau.
 - Succès assuré.
+- Idéal pour cadeau.
 - Super original, en papier.
 - Boîte distributrice avec 50 plans à faire entre amis.
 - Emballage sous forme de téléphone portable.

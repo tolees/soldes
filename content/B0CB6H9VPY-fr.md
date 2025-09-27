@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le coffret se connecte à d’autres coffrets Monster Trucks Arena Smashers pour des défis et des histoires encore plus intenses. (Autres coffrets vendus séparément.)
-- Fracassez les barrières avec Rhinomite et évitez de vous faire écraser par un énorme pneu dans le coffret Défi Chargement Rhinomite.
-- Visez les points d’impact et traversez les tribunes pour révéler le trophée tant convoité.
 - Placez les voitures broyées et d’autres voitures dans le pneu pour encore plus de destruction lorsqu’il se détache. Deux voitures broyées sont incluses ; les autres véhicules sont vendus séparément.
+- Fracassez les barrières avec Rhinomite et évitez de vous faire écraser par un énorme pneu dans le coffret Défi Chargement Rhinomite.
 - Un pneu est suspendu au-dessus du parcours, prêt à écraser Rhinomite en un instant !
+- Le coffret se connecte à d’autres coffrets Monster Trucks Arena Smashers pour des défis et des histoires encore plus intenses. (Autres coffrets vendus séparément.)
+- Visez les points d’impact et traversez les tribunes pour révéler le trophée tant convoité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB6H9VPY{{</world>}}

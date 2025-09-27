@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis de larticle 1.0 kg
 - Hauteur du colis de larticle 10.0 cm
 - Largeur du colis de larticle 20.0 cm
 - Longueur du colis de larticle 30.0 cm
-- Poids du colis de larticle 1.0 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Z7WJRZ4{{</world>}}

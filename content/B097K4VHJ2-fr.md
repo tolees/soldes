@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible Intel XMP
-- Mise à jour DDR4 économique à hautes performances
 - Fonctionnalité Plug & Play
 - Design en profil mince du dissipateur de chaleur
+- Mise à jour DDR4 économique à hautes performances
+- Compatible Intel XMP
 - Compatible AMD Ryzen
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

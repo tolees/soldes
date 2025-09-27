@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - VERNIS VEGAN & CRUELTY FREE 🐰 Les vernis semi permanents Méanail Paris ont été approuvés par lAssociation PETA (People for the Ethical Treatment of Animals).
 - NOTRE GAMME 💅🏻10 Collections de vernis semi permanents à assortir à votre humeur du jour - Collections : Rouge, Rose, Nude, Sombre, Parme, Caramel, Originel, Pastel, Summer, Ambre.
-- UV / LED ✨ Les vernis semi permanents Méanail sont compatibles avec toutes lampes UV ou LED. Essayez-les avec les lampes Double Technologie de la gamme Méanail Paris disponibles sur la boutique Méanail d’Amazon.
-- 6 COULEURS 🌈 Collection de 6 vernis semi permanents Baby Doll, Pêche, Rose Pastel, Blanc, Mauve & Turquoise.
 - SÉCURITÉ ✅ Les vernis semi permanents Méanail Paris sont garantis sans substances CMR (cancérigène, mutagène ou toxique pour la reproduction) ni ingrédients interdits listés dans le Règlement (EC) N¡1223/2009.
+- 6 COULEURS 🌈 Collection de 6 vernis semi permanents Baby Doll, Pêche, Rose Pastel, Blanc, Mauve & Turquoise.
+- UV / LED ✨ Les vernis semi permanents Méanail sont compatibles avec toutes lampes UV ou LED. Essayez-les avec les lampes Double Technologie de la gamme Méanail Paris disponibles sur la boutique Méanail d’Amazon.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XDCPWQ3{{</world>}}

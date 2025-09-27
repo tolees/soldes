@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le relief en forme de croix empêche la friction avec la surface pour réduire leffort à chaque passage
-- Laver avec couleurs similaires (jusquà 60 °C)
 - Chiffon 100 % microfibres pour une plus grande puissance de nettoyage
 - La couche en PVA vous donne une meilleure capacité dabsorption autant sur le sec que sur lhumide
+- Laver avec couleurs similaires (jusquà 60 °C)
+- Le relief en forme de croix empêche la friction avec la surface pour réduire leffort à chaque passage
 - Ne pas utiliser avec de leau de Javel ni dassouplissants
 
 [🛒 Achète-le!!]({{< param buyurl >}})

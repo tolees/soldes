@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Téléchargez lAPP(Smart Life ou TUYA Smart) et connectez votre prise alexa via WiFi 2,4 GHz. (5G non pris en charge). Pendant la connexion, le téléphone doit activer le Bluetooth.
-- Vous pouvez régler une minuterie ou un compte à rebours pour vos appareils ménagers. Garantie 2 ans.
 - Vous pouvez vérifier votre consommation délectricité par heure, par jour et par mois. Cette prise wifi permet déconomiser de lénergie et de réduire votre facture délectricité.
 - Nos prises intelligentes ont passé la certification CE, RoHS. Le boîtier de la douille est en matériau ignifuge V0. Avec protection contre les surintensités (17A).
 - La prise peut être connectée à Alexa ou à lassistant Google via Smart Life ou TUYA Smart APP.
+- Vous pouvez régler une minuterie ou un compte à rebours pour vos appareils ménagers. Garantie 2 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRVFC82X{{</world>}}

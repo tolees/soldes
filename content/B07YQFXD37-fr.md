@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ingrédients: farine de BLE 65%,sucre, noix de coco rápée 9.9%, huile de tournesol, poudres à lever: carbonates dammonium et de sodium et acide citrique, sel, LAIT écrémé en poudre, emulsifiant: lecithines (SOJA).
-- 🥮 RECETTE : Retrouvez le Véritable Sablé de Retz créé en 1920, un sablé croustillant avec une pointe de noix de coco. Dans leur sachet fraicheur pour une conservation optimale 🐓 DE BONS PRODUITS : Une recette simple et authentique grâce à de bons ingrédients, de la farine de blé français issu dune filière durable, sans huile de palme, sans colorant ni conservateur.
 - 📍 OÙ : Nous les fabriquons dans notre biscuiterie familiale dans louest de la France 📜 ST MICHEL : Créer des bons produits, bien faits avec de bons ingrédients : voilà la marque de fabrique qui fait notre renomm
 - St Michel Biscuits Service Consommateurs 8, rue du Chevecier 44730 Saint-Michel-Chef-Chef France]
+- 🥮 RECETTE : Retrouvez le Véritable Sablé de Retz créé en 1920, un sablé croustillant avec une pointe de noix de coco. Dans leur sachet fraicheur pour une conservation optimale 🐓 DE BONS PRODUITS : Une recette simple et authentique grâce à de bons ingrédients, de la farine de blé français issu dune filière durable, sans huile de palme, sans colorant ni conservateur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YQFXD37{{</world>}}

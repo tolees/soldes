@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revêtement en PVC blanc facile à nettoyer
-- Des pieds en métal chromé pour une base solide et stable
 - Avec ses courbes élancées et son design sobre, la chaise MARA viendra facilement complimenter tout type de séjour.
+- Des pieds en métal chromé pour une base solide et stable
+- Revêtement en PVC blanc facile à nettoyer
 - Une assise rembourrée pour plus de confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})

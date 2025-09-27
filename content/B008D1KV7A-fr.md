@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 10 encres liquides aquarelle
-- Peut être facilement mélangé
-- Connt pour les pinceaux, aérographe et stylos
 - Utilisez un stylo pinceau et voyez les couleurs changer
+- Connt pour les pinceaux, aérographe et stylos
+- Peut être facilement mélangé
+- Lot de 10 encres liquides aquarelle
 - Ecoline 11259902 Kit de mélange aquarelle liquide 10 x 30 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})

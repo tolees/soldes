@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lecteur BluRay
 - Panasonic DP-UB424EGS argent
+- Lecteur BluRay
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BBCY1Z5{{</world>}}

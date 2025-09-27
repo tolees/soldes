@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran de soins oculaires 120Hz, Utilisation avec les mains mouillées
 - Batterie de 5500 mAh avec charge turbo de 33 W ;
 - Corning Gorilla Glass 5 ;
+- Écran de soins oculaires 120Hz, Utilisation avec les mains mouillées
 - Technologie de processus de fabrication MediaTek Helio G99-Ultra, 6 nm ;
 - Système de caméra AI 108MP ;
 

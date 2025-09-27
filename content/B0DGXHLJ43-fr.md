@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant à leau: 20 bar-Poids: 162 g
 - La nouvelle montre automatique de plongée Promaster Dive en édition limitée pour hommes de Citizen réinvente un classique emblématique. Cette montre analogique dispose d’une fonction calendrier : Jour-Date, Aiguilles Lumineuses et Chiffres Lumineux. Elle est livrée avec un bracelet en caoutchouc noir supplémentaire.
 - Bracelet de Haute qualité en Acier inoxydable Argent ,21 cm de longueur et 19 mm de largeur avec une Boucle déployante avec poussoir
+- Résistant à leau: 20 bar-Poids: 162 g
 - La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
 - Diamètre du boîtier: 42 mm, Épaisseur du boîtier: 12 mm, Couleur du boîtier: Argent et Couleur du cadran: Bleu
 

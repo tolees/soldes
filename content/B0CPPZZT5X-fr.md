@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour les looks décontractés à lécole ou le week-end
 - Fermeture avec lacets et sangles Velcro pour un enfilage et un retrait faciles
+- Idéal pour les looks décontractés à lécole ou le week-end
 - Baskets mi-hautes confortables et légères pour garçons au design minimaliste
 
 [🛒 Achète-le!!]({{< param buyurl >}})

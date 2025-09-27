@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En noir, avec la technologie 5G
 - Téléphone cellulaire
+- En noir, avec la technologie 5G
 - Design moderne et élégant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

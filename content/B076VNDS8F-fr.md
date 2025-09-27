@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Solution polyvalente pour un usage photographique varié sur une plage focale allant du 24 au 105mm
 - 4 lentilles asphériques et 3 verres ED (extra low dispersion) minimisent les aberrations pour une haute qualité d’image de bord-à-bord sur toute la plage de zoom. Angle de vue (35 mm) 84 ° - 23 °
-- REMARQUE Si lobjectif nest pas correctement fixé, les points de connexion qui permettent la communication entre le boîtier de lappareil photo et lobjectif nentrent pas en contact. Nappuyez pas sur le bouton de déverrouillage de lobjectif, mais tournez lobjectif dans le sens des aiguilles dune montre et fixez-le au boîtier de lappareil photo jusquà ce quil senclenche
-- Pare-soleil, Protège-objectif avant, Protège-objectif arrière, Housse
-- Ergonomie professionnelle et fiable avec un focus manuel précis et un bouton de verrouillage focus personnalisable
 - Autofocus rapide, précis, silencieux couplé à l’ouverture constante F4 idéale pour les photos et les vidéos
+- Solution polyvalente pour un usage photographique varié sur une plage focale allant du 24 au 105mm
+- Pare-soleil, Protège-objectif avant, Protège-objectif arrière, Housse
+- REMARQUE Si lobjectif nest pas correctement fixé, les points de connexion qui permettent la communication entre le boîtier de lappareil photo et lobjectif nentrent pas en contact. Nappuyez pas sur le bouton de déverrouillage de lobjectif, mais tournez lobjectif dans le sens des aiguilles dune montre et fixez-le au boîtier de lappareil photo jusquà ce quil senclenche
+- Ergonomie professionnelle et fiable avec un focus manuel précis et un bouton de verrouillage focus personnalisable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B076VNDS8F{{</world>}}

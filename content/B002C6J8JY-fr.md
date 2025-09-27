@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pinces fortes en acier pour garder ensemble les documents
 - A une garantie de 2 ans
 - Bras nickelés pour une bonne durabilité
-- Pinces fortes en acier pour garder ensemble les documents
 - Les bras facilitent un retrait facile des papiers
 - Capacité - 100 feuilles de papier
 

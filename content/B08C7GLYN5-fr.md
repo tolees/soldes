@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Instructions dentretien : Return tout filament non usé vers le sac resealable pour future utilisation et secure, contenu optimal.
-- Compatible avec tous les stylos FDM 3D et 3D
-- Avantages:PETG plastique offers stiff, durable (like ABS) et facile dutilisation (like PLA), équipped with good gloss, corrosion resistance.
-- Matériau : PETG (polyéthylène téréphtalate glycol)
 - Température dimpression : 220 – 250 °C (428 – 482 °F). Température de base : 60 – 100 °C
+- Matériau : PETG (polyéthylène téréphtalate glycol)
+- Avantages:PETG plastique offers stiff, durable (like ABS) et facile dutilisation (like PLA), équipped with good gloss, corrosion resistance.
+- Compatible avec tous les stylos FDM 3D et 3D
+- Instructions dentretien : Return tout filament non usé vers le sac resealable pour future utilisation et secure, contenu optimal.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08C7GLYN5{{</world>}}

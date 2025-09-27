@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE ATX 3.0 & ENTIÈREMENT MODULAIRE - Supporte pleinement la norme ATX 3.0 & les connecteurs PCIe 5.0 12VHPWR (600W); Gestion complète des câbles noirs & plats pour une esthétique sophistiquée & une amélioration du flux dair interne
 - VENTILATEUR 140mm FDB SILENCIEUX & MODE DE CONTRÔLE THERMIQUE INTELLIGENT - Roulement dynamique fluide (FDB); Adaptation des vitesses en fonction de la température; Ventilateur off pour réduire le bruit si la PSU consomme <40% puissance de sortie nominale
-- 80 PLUS GOLD - Une efficacité de 90 % (sous une charge normale) idéale pour les systèmes de PC Gaming à forte demande dénergie - Économie dénergie & amélioration des performances grâce à une perte dénergie moins élevée (température plus basse)
-- RÉSISTANCE HAUTE TEMPERATURE - Le bloc dalimentation Cooler Master MWE Gold V2 possède un seuil de température de 50˚C ce qui en fait un excellent choix pour loverclocking ou pour la 3D en temps réel sur des cartes graphiques puissantes
 - PUISSANT & FIABLE - Le bloc dalimentation 1050W est livré avec une large gamme de câbles modulaires (ATX 24 Pin x 1, EPS 4+4 Pin x 1, EPS 8 Pin x 1, SATA x 12, PCI-e 6+2 x 3, périphérique 4 Pin x 4 et PCIe 5.0 12VHPWR x 1); Garantie 10 ans
+- COMPATIBLE ATX 3.0 & ENTIÈREMENT MODULAIRE - Supporte pleinement la norme ATX 3.0 & les connecteurs PCIe 5.0 12VHPWR (600W); Gestion complète des câbles noirs & plats pour une esthétique sophistiquée & une amélioration du flux dair interne
+- RÉSISTANCE HAUTE TEMPERATURE - Le bloc dalimentation Cooler Master MWE Gold V2 possède un seuil de température de 50˚C ce qui en fait un excellent choix pour loverclocking ou pour la 3D en temps réel sur des cartes graphiques puissantes
+- 80 PLUS GOLD - Une efficacité de 90 % (sous une charge normale) idéale pour les systèmes de PC Gaming à forte demande dénergie - Économie dénergie & amélioration des performances grâce à une perte dénergie moins élevée (température plus basse)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM4Q9MHV{{</world>}}

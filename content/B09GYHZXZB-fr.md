@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - GIANTS
-- 238F7J
 - Simulateur de Ferme 22
+- 238F7J
 - Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

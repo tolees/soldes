@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- contenant plus de 1000 autocollants à lintérieur
 - Livret avec reliure en spirale
+- contenant plus de 1000 autocollants à lintérieur
 - dont certains avec des finitions spéciales
 - Idéal pour lécole
 

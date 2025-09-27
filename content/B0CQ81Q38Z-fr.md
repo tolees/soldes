@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mat, métallisé ou satiné ? Disponible en 15 couleurs vibrantes.
-- Un crayon khôl qui offre jusquà 24 heures de tenue intense et waterproof, qui reste en place et résiste à toute épreuve, y compris à la chaleur et aux transferts.
-- La formule clean, vegan et testée sous contrôle ophtalmologique est sans danger pour les yeux, sèche rapidement et ne coule pas.
 - Glisse facilement pour une application ultra-lisse grâce aux huiles de macadamia et de jojoba bio.
+- Un crayon khôl qui offre jusquà 24 heures de tenue intense et waterproof, qui reste en place et résiste à toute épreuve, y compris à la chaleur et aux transferts.
 - Le Crayon Yeux Bourjois Contour Clubbing souligne le contour des yeux dune couleur vibrante et longue tenue.
+- Mat, métallisé ou satiné ? Disponible en 15 couleurs vibrantes.
+- La formule clean, vegan et testée sous contrôle ophtalmologique est sans danger pour les yeux, sèche rapidement et ne coule pas.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CQ81Q38Z{{</world>}}

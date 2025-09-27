@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients actifs – La formule non grasse et non parfumée de cet écran solaire contient de l’aloe vera, de l’extrait de réglisse
-- Haute protection – Ce produit solaire FPS 50+ aux filtres UVA/UVB et protection anti lumière bleue protège la peau contre le vieillissement cutané prématuré
 - Peaux sensibles – Cette crème corps testée dermatologiquement protège les peaux sensibles des coups de soleil et autres irritations et allergies dues au soleil
 - Emballage – NIVEA SUN Spray solaire Sensitive Protection Immédiate Peaux Sensibles FPS 50+, Crème solaire visage & corps sans parfum, Filtre solaire haute protection 1 x 270 ml. Numéro d’article : 983330540022
 - Conseils d’application – Appliquez la crème soleil toutes les 2 heures. Renouvelez lapplication juste après la baignade ou la pratique d’une activité physique
+- Haute protection – Ce produit solaire FPS 50+ aux filtres UVA/UVB et protection anti lumière bleue protège la peau contre le vieillissement cutané prématuré
+- Ingrédients actifs – La formule non grasse et non parfumée de cet écran solaire contient de l’aloe vera, de l’extrait de réglisse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VPWD3GL{{</world>}}

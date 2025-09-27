@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Testée pour une durabilité dans les conditions extrêmes (entre -25 ˚C et 85 ˚C, -13 ˚F et 185 ˚F)
-- Des vitesses de capture élevées allant jusquà 85 Mo/s* pour des prises plus rapides en mode rafale continue [32 Go-128 Go uniquement]
-- Des vitesses de transferts élevées allant jusquà 120 Mo/s* pour une efficacité accrue des flux de travail
-- Compatibilité : appareil CompactFlash
 - Garantie de performance vidéo (VPG-20)1 pour des vidéos Full HD infaillibles
 - Capacités de 16 Go, 32 Go, 64 Go et 128 Go**
+- Compatibilité : appareil CompactFlash
+- Des vitesses de transferts élevées allant jusquà 120 Mo/s* pour une efficacité accrue des flux de travail
+- Des vitesses de capture élevées allant jusquà 85 Mo/s* pour des prises plus rapides en mode rafale continue [32 Go-128 Go uniquement]
+- Testée pour une durabilité dans les conditions extrêmes (entre -25 ˚C et 85 ˚C, -13 ˚F et 185 ˚F)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00NUB2Q9E{{</world>}}

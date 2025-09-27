@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Norme UHS-II hautes performances
 - Des vitesses optimales pour une utilisation professionnelle
+- Norme UHS-II hautes performances
 - Grandes capacités de stockage pour la bibliothèque de contenus numériques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

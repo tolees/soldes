@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Confortable grâce au dos rembourré en mousse et à la sangle de poitrine
 - Deux poches pour bouteille deau, Poche de sécurité externe, Sifflet de secours pour partir à laventure en toute sécurité
 - Sac pratique pour les trajets quotidiens ou les voyages, Stockage de 27 L avec accès facile, Convient pour un ordinateur
-- Confortable grâce au dos rembourré en mousse et à la sangle de poitrine
 - Pochette pour ordinateur portable de 15 pouces accessible de lextérieur
 - Contents: 1x Columbia Convey III 27L, Sac à Dos Unisexe avec Fermeture par Enroulement, Colour: Noir (Black), Size: O/S, Article: 2094521
 

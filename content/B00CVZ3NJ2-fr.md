@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydrate la peau en continu
 - Paraît plus jeune, pour plus longtemps
+- Hydrate la peau en continu
 - Sa formule mise au point par les dermatologues fortifie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

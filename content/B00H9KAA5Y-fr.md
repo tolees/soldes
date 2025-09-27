@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Résistance très élevée à l’eau et au frottement.
-- Assure une protection élevée UVB et UVA SPF 50. Contient du dexpanthénol et de la vitamine E.
 - Hydrate comme une crème et s’absorbe rapidement comme un gel, en procurant une agréable sensation de fraîcheur avec une finition soyeuse et sans aspect brillant
 - Convient à tous les types de peaux, y compris les peaux atopiques
+- Assure une protection élevée UVB et UVA SPF 50. Contient du dexpanthénol et de la vitamine E.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00H9KAA5Y{{</world>}}

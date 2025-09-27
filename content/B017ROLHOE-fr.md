@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 ans
 - Ladies Sun Delicious Fragrance Water Spray Bath & Body 100ml
+- 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B017ROLHOE{{</world>}}

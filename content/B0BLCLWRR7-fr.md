@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande PUMA sur le côté
 - Semelle intercalaire empilée en caoutchouc
 - Détails de la marque PUMA sur létiquette de la tige, du talon et de la languette
+- Bande PUMA sur le côté
 - Semelle extérieure en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

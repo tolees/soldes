@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMARQUE : pour éviter d’endommager ou de décharger rapidement les piles, NE PAS MÉLANGER : les piles non rechargeables et les piles rechargeables ; les piles complètement chargées avec des piles moyennement ou faiblement chargées ; les piles neuves avec les piles anciennes ; différentes capacités en mAh ; différentes marques.
-- Lot de 24 piles AA rechargeables 2000 mAh pour appareils photo numériques, télécommandes, etc.
-- Produit livré dans un emballage "Déballer sans sénerver" par Amazon
-- Autodécharge extrêmement progressive permettant de maintenir 80 % de la capacité
-- Pré-chargées et prêtes à lemploi dès la sortie de l’emballage
 - Conseils relatifs au chargeur : Utilisez uniquement des chargeurs spécifiques aux piles Ni-MH dotés de canaux de charge indépendants et d’un système de contrôle de la tension afin d’éviter toute surcharge ou sous-charge. Évitez les chargeurs à minuterie uniquement et n’utilisez jamais de chargeurs conçus pour d’autres types de piles (comme NiZn ou Li-ion), car cela pourrait provoquer des dommages ou des fuites.
-- Conseils concernant les piles Ni-MH : Vérifiez la compatibilité de l’appareil avec les piles Ni-MH 1.2 V. L’autonomie peut être inférieure à celle des piles alcalines de 1.5 V. Vérifiez le bon ajustement, car les piles Ni-MH sont légèrement plus grandes que les piles alcalines afin de respecter les normes IEC. Remplacez toutes les piles simultanément et consultez le manuel de l’appareil pour connaître les exigences spécifiques.
+- Lot de 24 piles AA rechargeables 2000 mAh pour appareils photo numériques, télécommandes, etc.
 - Associe les avantages des piles alcalines AA (prêtes à lemploi) à ceux des piles rechargeables (réutilisables)
+- REMARQUE : pour éviter d’endommager ou de décharger rapidement les piles, NE PAS MÉLANGER : les piles non rechargeables et les piles rechargeables ; les piles complètement chargées avec des piles moyennement ou faiblement chargées ; les piles neuves avec les piles anciennes ; différentes capacités en mAh ; différentes marques.
+- Pré-chargées et prêtes à lemploi dès la sortie de l’emballage
+- Conseils concernant les piles Ni-MH : Vérifiez la compatibilité de l’appareil avec les piles Ni-MH 1.2 V. L’autonomie peut être inférieure à celle des piles alcalines de 1.5 V. Vérifiez le bon ajustement, car les piles Ni-MH sont légèrement plus grandes que les piles alcalines afin de respecter les normes IEC. Remplacez toutes les piles simultanément et consultez le manuel de l’appareil pour connaître les exigences spécifiques.
+- Autodécharge extrêmement progressive permettant de maintenir 80 % de la capacité
+- Produit livré dans un emballage "Déballer sans sénerver" par Amazon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NXGG55W{{</world>}}

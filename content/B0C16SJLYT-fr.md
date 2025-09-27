@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PORTABLE ET LONGUE ENDURANCE : 2 batteries intelligentes de conception modulaire fournissent 40+ minutes de voyage de vol. Le corps pliable et équipé dun sac de rangement rendent ce drone compact et portable pour une utilisation en extérieur.
+- CAMÉRA DOUBLE : Contrairement aux drones conventionnels, ce drone est également équipé dune caméra sur le dessous, la caméra sur le dessous de lappareil apporte une nouvelle vision à votre photographie aérienne.
 - MOTEUR BRUSHLESS : Le drone T18 utilise un moteur brushless, qui est plus puissant, moins bruyant et a une durée de vie plus longue que les moteurs à balais traditionnels. Il est capable datteindre le niveau 4 de résistance au vent.
 - TRANSMISSION FPV Wifi 5G: Le T18 drone FPV a une distance de transmission dimage 5G allant jusquà 100 m et une distance de contrôle allant jusquà 150 m, ce qui permet de réaliser des vidéos fluides et sans retard, même à longue distance.
-- PORTABLE ET LONGUE ENDURANCE : 2 batteries intelligentes de conception modulaire fournissent 40+ minutes de voyage de vol. Le corps pliable et équipé dun sac de rangement rendent ce drone compact et portable pour une utilisation en extérieur.
 - FACILE À UTILISER : Le mode sans tête, le décollage/atterrissage à une touche, le maintien de laltitude, le flip 3D, le vol avec trajectoire et beaucoup dautres fonctions sont faciles à utiliser pour les débutants ou les novices.3 réglages de vitesse offrent plus de choix aux utilisateurs.
-- CAMÉRA DOUBLE : Contrairement aux drones conventionnels, ce drone est également équipé dune caméra sur le dessous, la caméra sur le dessous de lappareil apporte une nouvelle vision à votre photographie aérienne.
 - CAMÉRA ESC TÉLÉCOMMANDE : Le drone adulte T18 est équipé dune caméra HD 2K, et langle de la caméra peut être ajusté par la télécommande ou le téléphone portable. Le système de flux optique intégré rend lenregistrement vidéo plus stable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

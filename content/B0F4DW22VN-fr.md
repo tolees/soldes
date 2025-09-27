@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KICKBACK CONTROL : Arrête aussitôt le moteur pour éviter les blessures dues à un rebond soudain de l’outil
 - VIBRATION CONTROL : Réduit les vibrations de l’outil pour un confort amélioré et une bonne protection lors d’une utilisation prolongée.
 - PUISSANCE ET LÉGÈRETÉ : Délivre ses pleines performances avec juste une batterie 18V de 2,0 Ah, ce qui en fait le perforateur le plus léger de la gamme 18V
 - MANDRIN ONECHUCK POLYVALENT : Accepte les forets SDS plus ainsi que les forets à queue six pans ou cylindrique pour une grande variété d’applications dans le béton, le bois et le métal.
 - CONTENU : GBH 18V-18 X, 2 batteries 18V 2,0 Ah, GAL 18V-40 + GDE 24
+- KICKBACK CONTROL : Arrête aussitôt le moteur pour éviter les blessures dues à un rebond soudain de l’outil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4DW22VN{{</world>}}

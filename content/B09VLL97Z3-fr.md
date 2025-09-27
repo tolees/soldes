@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONTENU DU JEU : Avec le ju dambiance "Stranger Things: Attack of The Mind Flayer", vous obtenez tout ce dont vous avez besoin pour commencer à jouer dès la sortie de la boîte. Plongez dans laction avec 4 à 10 joueurs et profitez dune aventure palpitante dans lunivers de Stranger Things.
-- JEU DAMBIANCE STRATÉGIQUE : pour jouer à ce jeu dambiance , piochez une carte et donnez-la à un autre joueur pour l’aider, l’évincer ou le faire changer de camp. Dès que l’un d’entre vous a en main 3 cartes Parasite, il rejoint le camp du Flagelleur Mental.
 - JEU DE BLUFF: Au début de ce jeu dambiance, le sort détermine qui est déjà sous le contrôle du Flagelleur Mental. Utilisez votre esprit stratégique pour bluffer, distribuer des cartes risquées à vos amis supposés, et des cartes salvatrices à ceux présumés sains. Méfiez-vous des traîtres parmi vous !
-- JEU RAPIDE ET INTENSE : Avec des parties de 20 minutes seulement et un gameplay dynamique, le jeu de bluff "Stranger Things: Attack of The Mind Flayer" est idéal pour des soirées familiales ou entre amis. Plongez dans laction dès 10 ans et vivez des moments palpitants inspirés de la série culte.
+- JEU DAMBIANCE STRATÉGIQUE : pour jouer à ce jeu dambiance , piochez une carte et donnez-la à un autre joueur pour l’aider, l’évincer ou le faire changer de camp. Dès que l’un d’entre vous a en main 3 cartes Parasite, il rejoint le camp du Flagelleur Mental.
 - ARRÊTEZ LE "MIND FLAYER" : Le Flagelleur Mental (Mind Flayer en anglais) a fait son apparition à Hawkins et contrôle dautres personnes pour former une armée menaçante. Soyez vigilant et unissez vos forces pour arrêter ses sinistres plans avant quil ne soit trop tard.
+- JEU RAPIDE ET INTENSE : Avec des parties de 20 minutes seulement et un gameplay dynamique, le jeu de bluff "Stranger Things: Attack of The Mind Flayer" est idéal pour des soirées familiales ou entre amis. Plongez dans laction dès 10 ans et vivez des moments palpitants inspirés de la série culte.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VLL97Z3{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Multicolore
 - 100% coton
 - Chaussettes paillettes unique
-- Multicolore
 - M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

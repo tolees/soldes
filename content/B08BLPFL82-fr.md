@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : Synthétique
-- Dessus : Synthétique
-- Semelle intérieure : Synthétique
-- Matériau de semelle : Caoutchouc
 - Largeur de la chaussure : Schmal
 - Fermeture : Scratch
+- Semelle intérieure : Synthétique
+- Matériau de semelle : Caoutchouc
+- Doublure : Synthétique
+- Dessus : Synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BLPFL82{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coffret Thomas et ses Amis de 18 éléments, dont éléments de circuit, locomotive Thomas motorisée fonctionnant à piles, Carly la Grue et Sandy le Speeder
 - La meilleure amie de Carly la Grue, Sandy le Speeder, se joint à l’aventure dans ce coffret amusant
 - Les enfants peuvent utiliser le crochet de Carly la Grue pour charger et décharger les marchandises dans le wagon de Thomas
+- Coffret Thomas et ses Amis de 18 éléments, dont éléments de circuit, locomotive Thomas motorisée fonctionnant à piles, Carly la Grue et Sandy le Speeder
 - Se connecte à d’autres pistes et circuits Thomas et ses Amis, à l’exception des modèles en bois, pour d’innombrables possibilités d’aventure (autres pistes et circuits vendus séparément)
 - Pour les enfants à partir de 3 ans
 

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La nourriture à deux composants pour les reptiles herbivores
 - Rapport optimal Ca/P
+- La nourriture à deux composants pour les reptiles herbivores
 - Avec une teneur élevée en fibres brutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

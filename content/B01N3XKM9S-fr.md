@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Multicoated/ Lens Composition: 5 groupes, 6 disques
-- Champ de vision diagonal ultra de 190 degrés
 - Longueur focale: 6.5mm/ Ouverture: F/ 2.0-F22
 - La distance minimale de mise au point nest que de 10 cm
+- Multicoated/ Lens Composition: 5 groupes, 6 disques
+- Champ de vision diagonal ultra de 190 degrés
 - Type de lentille: lentille fisheye à mise au point manuelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

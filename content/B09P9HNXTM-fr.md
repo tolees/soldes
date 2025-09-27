@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coffret de 10 blocs à trier, empiler et insérer
 - Poignée facile à transporter pour emmener le jouet partout avec vous
-- Pour les enfants de 6 mois et plus
-- Initie bébé aux formes et aux couleurs
 - Tous les blocs tiennent dans la boîte pour faciliter le rangement
+- Initie bébé aux formes et aux couleurs
+- Coffret de 10 blocs à trier, empiler et insérer
+- Pour les enfants de 6 mois et plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09P9HNXTM{{</world>}}

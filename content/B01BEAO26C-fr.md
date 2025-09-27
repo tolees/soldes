@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu daction sur Xbox One. La saga n°1 de jeux vidéo LEGO fait un retour triomphal dans un voyage drôle et amusant basé sur le film Star Wars.
 - filtre
+- Jeu daction sur Xbox One. La saga n°1 de jeux vidéo LEGO fait un retour triomphal dans un voyage drôle et amusant basé sur le film Star Wars.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BEAO26C{{</world>}}

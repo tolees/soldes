@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour vidéo UHD 4K
+- Filmez des vidéos Full HD et UHD 4K en mode rafale continue
 - Homologuée A1 pour des performances dappli plus rapides
 - Des performances professionnelles allant jusquà 100/90 Mo/s en lecture/écriture pour des transferts et saisies plus rapides
-- Filmez des vidéos Full HD et UHD 4K en mode rafale continue
+- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour vidéo UHD 4K
 - Notre carte UHS-I la plus rapide transfère les fichiers volumineux rapidement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

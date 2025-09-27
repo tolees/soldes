@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran fluide de 6,74 pouces à 90 Hz
-- Prise en charge de la charge rapide 18W* 5 minutes pour 5 heures de lecture de musique
-- Jusquà 2,0 GHz Vitesse du processeur CPU
 - Caméra triple AI de 50 MP
-- Puissant processeur octa-core Jusquà 1 To de stockage extensible*
 - Batterie massive de 5000 mAh (typ)* Jusquà 23 heures de streaming vidéo
+- Puissant processeur octa-core Jusquà 1 To de stockage extensible*
+- Écran fluide de 6,74 pouces à 90 Hz
+- Jusquà 2,0 GHz Vitesse du processeur CPU
+- Prise en charge de la charge rapide 18W* 5 minutes pour 5 heures de lecture de musique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CPGJ5W6K{{</world>}}

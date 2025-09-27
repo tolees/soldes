@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Catégorie - Papeterie
 - Ref - 946029
 - Marque - Apli
+- Catégorie - Papeterie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00W40IF9M{{</world>}}

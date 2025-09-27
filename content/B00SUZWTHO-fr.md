@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions de lemballage de larticle: 6.2 L x 9.1 H x 8.9 W (centimeters)
 - A partir de 3 ANS
 - Couleur: Multicolore
-- Age minimum : 3 ans
 - Descriptif produit: Valisette bébé lapin Sylvanian avec sa chaise Bébé
 - Age range description: De 3 à 99 ans
-- Dimensions de lemballage de larticle: 6.2 L x 9.1 H x 8.9 W (centimeters)
+- Age minimum : 3 ans
 - Item package quantity: 1.0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

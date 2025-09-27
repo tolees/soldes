@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Optez pour une taille au-dessus pour un style confortable en toute simplicité ou optez pour votre taille habituelle pour un look classique
+- En piqué léger et respirant
 - Logo discret sur la poitrine
 - Un polo élégant et facile à porter, loin d’être étouffant
 - Ceci est un authentique produit Levi’s
-- En piqué léger et respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08PDJ439Q{{</world>}}

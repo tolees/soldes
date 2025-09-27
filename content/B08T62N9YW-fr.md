@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hand Wash Only
 - Les poches à pression vous permettent de sécuriser vos objets essentiels
-- Big Kids Soccer Jacket
-- La fermeture à glissière allongée frappe au-dessus de votre menton pour une protection supplémentaire
 - Une finition déperlante vous aide à rester au sec
 - Fermeture: Fermeture éclair
 - Matériel: 100% polyester
+- La fermeture à glissière allongée frappe au-dessus de votre menton pour une protection supplémentaire
+- Hand Wash Only
+- Big Kids Soccer Jacket
 - Coupe ample pour une sensation despace
 
 [🛒 Achète-le!!]({{< param buyurl >}})

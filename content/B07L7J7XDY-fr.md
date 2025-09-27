@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau fonctionnel Dry avec technologie Dri
-- FIT qui vous garde au sec et évacue la transpiration vers lextérieur
 - Ce maillot de football Nike offre un confort optimal lors de votre entraînement
+- FIT qui vous garde au sec et évacue la transpiration vers lextérieur
+- Matériau fonctionnel Dry avec technologie Dri
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L7J7XDY{{</world>}}

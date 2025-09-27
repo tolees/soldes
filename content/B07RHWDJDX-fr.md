@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le Bob Columbia Pine mountain offre une excellente protection contre le soleil avec son bord large
-- 100% coton
 - Combinez style et confort grâce aux trois options de couleurs, avec imprimé à pois et logo Columbia brodé
+- 100% coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RHWDJDX{{</world>}}

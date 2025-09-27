@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les pièces sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres marques de briques de construction
 - Convenant aux enfants de 6 ans et plus, ces jouets de construction développent la créativité et la capacité de réflexion
 - Coffret de construction nouveau système de combat : utilisez les lanceurs pour faire combattre vos Pokémon
 - Comprend 5 Pokémon à construire : Pikachu, Machoc, Évoli, Chochodile et Brutalibré
-- Les pièces sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres marques de briques de construction
 - Sous licence officielle de The Pokémon Company International
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

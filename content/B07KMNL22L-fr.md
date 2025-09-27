@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de comptage dunités: millilitre
 - Poids du colis: 0.028 kilograms
+- Type de comptage dunités: millilitre
 - Volume du colis: 7.0 milliliters
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

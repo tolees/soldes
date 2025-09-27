@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le remake complet (visuel, sonore, mécaniques de gameplay et nouveaux modes) du jeu de tir iconique sorti en Arcade en 1996.
 - Bestiaire entier de créatures à débloquer pour en apprendre davantage sur leurs points faibles.
 - Jouable, seul ou à deux, en utilisant les joycons ou un gun.
-- Le remake complet (visuel, sonore, mécaniques de gameplay et nouveaux modes) du jeu de tir iconique sorti en Arcade en 1996.
 - Une action frénétique qui ne sarrête jamais.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

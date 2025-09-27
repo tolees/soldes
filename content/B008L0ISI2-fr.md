@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Stylo pinceau à pointe souple
 - Idéal pour croquis, dessins, manga, calligraphie...
 - Encre à base deau de couleur rouge
-- Largeur de tracé variable, permet de réaliser des pleins et des déliés
 - Lot de 10 pièces
+- Largeur de tracé variable, permet de réaliser des pleins et des déliés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008L0ISI2{{</world>}}

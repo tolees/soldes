@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construisez une grotte dans la jungle, une montagne d’où s’élance une cascade, l’entrée des ruines de la jungle, un lac bordé d’une petite plage et une forêt
-- Idéal à partir de 9 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
 - Les briques et pièces de ce coffret sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres grandes marques
+- Construisez une grotte dans la jungle, une montagne d’où s’élance une cascade, l’entrée des ruines de la jungle, un lac bordé d’une petite plage et une forêt
 - Ce coffret de construction inclut 1362 briques et pièces pour construire un environnement étendu constitué de 4 sections qui se connectent. Ouvrez et fermez la grotte et trouvez la Super Ball qui s’y cache
-- Inclut Papilusion, Carapuce, Kabuto et Brindibou
 - Sous licence officielle de The Pokémon Company International
+- Idéal à partir de 9 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
+- Inclut Papilusion, Carapuce, Kabuto et Brindibou
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NZHBX3V{{</world>}}

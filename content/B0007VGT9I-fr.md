@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat RECTANGLE en verre borosilicate léger : résistant aux chocs thermiques : de -40° jusquà 300°
 - Plat pouvant se mettre au congélateur, frigo, four, micro-ondes
 - Verre borosilicate hygiénique - ne retient ni les tâches, ni les odeurs, résistant aux rayures
+- Plat RECTANGLE en verre borosilicate léger : résistant aux chocs thermiques : de -40° jusquà 300°
 - Couvercle multifonction étanche et hermétique à lair et aux liquides grâce à son joint en silicone
 - Plats empilables les un dans les autres pour un gain de place dans les placards
 

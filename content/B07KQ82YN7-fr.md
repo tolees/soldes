@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Unisexe
 - Hummel est une marque de vêtements de sport scandinaves de qualité supérieure et se caractérise par des designs sportifs eaux lignes droites dans des looks extravagants avec des combinaisons de couleurs audacieuses
 - 100 Percentage polyester
+- Unisexe
 - Textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

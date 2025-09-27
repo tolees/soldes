@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robuste, résistant à leau et à la poussière (indice IP55)
-- Cœur de SSD résistant aux chocs pour une plus grande durabilité
 - Résistant aux vibrations : 5 gRMS, 10-2000 Hz
-- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
 - Compact et portable
+- Cœur de SSD résistant aux chocs pour une plus grande durabilité
+- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
+- Robuste, résistant à leau et à la poussière (indice IP55)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B078T9SZ3K{{</world>}}

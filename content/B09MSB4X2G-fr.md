@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Excellente idée de cadeau pour les fans de UNO à partir de 7 ans.
 - Dès que vous n’avez plus qu’une seule carte en main, n’oubliez pas de crier « UNO » !
 - Plus imprévisible aussi, grâce aux cartes Action Joker : Inversion, Passer, Passer x2, +2, Super Joker, Échange de cartes et +2 Ciblé.
-- Excellente idée de cadeau pour les fans de UNO à partir de 7 ans.
 - Sans couleurs ni chiffres à associer, le jeu est plus rapide que dans une partie de UNO classique.
 - Dans UNO All Wild, il n’y a QUE des jokers !
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le boîtier est monté en un tour de main et offre à votre Raspberry une protection suffisante
 - Caractéristiques et avantages du boîtier Raspberry Pi : montage facile par encliquetage, découpes pour tous les points de connexion, découpe pour carte microSD, protection de la lumière LED, pieds en caoutchouc pour une stabilité du boîtier
 - Pour Raspberry Pi 4 B - Accès à toutes les interfaces - Boîtier Raspberry Pi dorigine - Construction modulaire
+- Le boîtier est monté en un tour de main et offre à votre Raspberry une protection suffisante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WQ5G6YY{{</world>}}

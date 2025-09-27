@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bougie de gâteau amusante avec Bulbasaur, Charmander et Squirtle.
-- Pokémon, attrapez-les tous et organisez une fête danniversaire épique
 - Il suffit de glisser les pics en bois dans le gâteau, pas besoin de supports en plastique
-- Dimensions : 8,3 x 5,5 cm
+- Pokémon, attrapez-les tous et organisez une fête danniversaire épique
+- Bougie de gâteau amusante avec Bulbasaur, Charmander et Squirtle.
 - Matériaux : papier et bois
+- Dimensions : 8,3 x 5,5 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRRXZLWH{{</world>}}
