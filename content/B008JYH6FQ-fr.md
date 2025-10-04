@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Bourjois - Eyeliner - Liner Feutre - Pointe feutre - Longue tenue - 41 Ultra Black - 0 8 ml'
+date: 2025-09-25 16:51:30
+image: 'https://m.media-amazon.com/images/I/31L-2YZCi1L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B008JYH6FQ-fr Bourjois - Eyeliner - Liner Feutre - Pointe feutre -...'
+sku: 'B008JYH6FQ-fr'
+tags: [ '6153f948-95d4-4eee-8e32-77f1b37ef8dd_0','6153f948-95d4-4eee-8e32-77f1b37ef8dd_3901','Arborist Merchandising Root','Beauté et Parfum','Eyeliners','Les plus populaires: Beauté et Parfum','Maquillage','Maquillage pour les yeux','Self Service','Special Features Stores','bourjois','consumablesbeauty','🇫🇷', ]
+actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
+comparePrice: 13.5 EUR
+prodname: 'Bourjois - Eyeliner - Liner Feutre - Pointe feutre - Longue tenue - 41 Ultra Black - 0 8 ml'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Bourjois'
+buyurl: 'https://www.amazon.fr/dp/B008JYH6FQ/?tag=tolees0d-21'
+descuento: '40.89'
+average: '9.00076923076923'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Eye-liner liquide feutre précis
+- Couleur intense et durable dès le premier passage
+- Formule longue tenue, jusqu’à 24 heures
+- Disponible en 3 teintes sombres sensuelles pour un look particulièrement séducteur
+- Application super facile grâce à la pointe souple qui glisse en douceur sur les paupières
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B008JYH6FQ{{</world>}}
