@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITÉ DIMAGE Rapid IPS, JEU SANS BORDURE - Les écrans Rapid IPS de MSI offrent une intensité de couleur exceptionnelle et prennent en charge des angles de vision larges de 178° ; la conception sans bordure réduit le contour visible entre les écrans.
 - 23,8" FHD, 180 HZ - La dalle Rapid IPS haute définition 1920 x 1080 (format 16:9) offre une fréquence élevée de 180 Hz (Adaptive Sync) pour un suivi fluide de la visée et des mouvements ; le temps de réponse de 1 ms (GtG) est idéal pour lesport.
-- CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement aux PC, Mac, consoles et ordinateurs portables incluent DisplayPort 1.2a (FHD/180 Hz) et HDMI 2.0b CEC (FHD/180 Hz) ; larrière de lécran est équipé dun joystick de navigation à 5 directions.
-- CONTRASTE DYNAMIQUE & NIGHT VISION - La dalle Rapid IPS offre un contraste natif de 1000:1 et prend en charge le contraste dynamique (100 000 000:1) ; MSI Night Vision permet daméliorer les détails clés dans les environnements de jeu les plus sombres.
 - LARGE GAMUT - Le G2412F prend en charge jusquà 16,7 millions de couleurs à 107 % sRGB pour une grande précision des couleurs ; il dispose des technologies de réduction de la lumière bleue et danti-scintillement pour réduire la fatigue oculaire.
+- QUALITÉ DIMAGE Rapid IPS, JEU SANS BORDURE - Les écrans Rapid IPS de MSI offrent une intensité de couleur exceptionnelle et prennent en charge des angles de vision larges de 178° ; la conception sans bordure réduit le contour visible entre les écrans.
+- CONTRASTE DYNAMIQUE & NIGHT VISION - La dalle Rapid IPS offre un contraste natif de 1000:1 et prend en charge le contraste dynamique (100 000 000:1) ; MSI Night Vision permet daméliorer les détails clés dans les environnements de jeu les plus sombres.
+- CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement aux PC, Mac, consoles et ordinateurs portables incluent DisplayPort 1.2a (FHD/180 Hz) et HDMI 2.0b CEC (FHD/180 Hz) ; larrière de lécran est équipé dun joystick de navigation à 5 directions.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CP9L34CJ{{</world>}}

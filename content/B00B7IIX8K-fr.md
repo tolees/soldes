@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique f
-- Avec son pied chromé et sa peinture blanche,le spot LED pour plafond de Philips myLiving Star dégage une élégance intemporelle Doté dune technologie LED de pointe,ce spot à économie dénergie plongera avec style vos pièces dans une chaude lumière blanche
 - Puissance :4 watts
+- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique f
 - Matière :Aluminium
+- Avec son pied chromé et sa peinture blanche,le spot LED pour plafond de Philips myLiving Star dégage une élégance intemporelle Doté dune technologie LED de pointe,ce spot à économie dénergie plongera avec style vos pièces dans une chaude lumière blanche
 - Éclairage LED haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

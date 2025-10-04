@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Version galvanisée
 - Peut être branché ensemble (3 parties)
 - Adapté aux voitures avec oeillets de remorquage
+- Version galvanisée
 - Modèle avec tube carré
 
 [🛒 Achète-le!!]({{< param buyurl >}})

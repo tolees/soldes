@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en différentes couleurs
-- Logo Columbia tendance
 - Contenu : 1x Columbia CSC Basic Logo tee-shirt manches courtes homme, Couleur : Noir, Taille: S, 1680053
-- Confort optimal grâce au tissu 100 Percentage jersey de coton
+- Disponible en différentes couleurs
 - Haut à manches courtes pour homme, Idéal toute lannée
+- Confort optimal grâce au tissu 100 Percentage jersey de coton
+- Logo Columbia tendance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B081B5V8YK{{</world>}}

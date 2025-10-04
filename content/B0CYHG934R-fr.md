@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS D’UTILISATION : Agitez vigoureusement pendant 5 secondes pour mélanger les deux phases. Appliquez généreusement sur peau sèche ou mouillée avant lexposition au soleil. Renouvelez fréquemment, surtout après la baignade, le séchage ou une transpiration excessive.
-- FORMULE DERMATOLOGIQUE HAUTE TOLÉRANCE : Enrichie en Niacinamide et Vitamine E, cette eau solaire renforce la barrière cutanée et lutte contre le stress oxydatif. Sans alcool, elle est adaptée aux peaux hypersensibles et respecte léquilibre cutané.
-- TEXTURE BIPHASÉE LÉGÈRE ET INVISIBLE : Sa texture biphasée unique combine une phase aqueuse rafraîchissante et une phase huileuse nourrissante, offrant une application agréable et un fini satiné sans effet gras. Idéale pour une utilisation quotidienne sur le visage et le corps.
 - PROTECTION SOLAIRE COMPLÈTE POUR PEAUX SENSIBLES : Le Sun Secure Eau Solaire SPF50+ de SVR offre une très haute protection contre les UVA, UVB, lumière visible et infrarouge. Sa formule convient aux peaux sensibles des adultes et enfants dès 3 ans, assurant une défense efficace contre les dommages cutanés liés au soleil.
+- FORMULE DERMATOLOGIQUE HAUTE TOLÉRANCE : Enrichie en Niacinamide et Vitamine E, cette eau solaire renforce la barrière cutanée et lutte contre le stress oxydatif. Sans alcool, elle est adaptée aux peaux hypersensibles et respecte léquilibre cutané.
+- CONSEILS D’UTILISATION : Agitez vigoureusement pendant 5 secondes pour mélanger les deux phases. Appliquez généreusement sur peau sèche ou mouillée avant lexposition au soleil. Renouvelez fréquemment, surtout après la baignade, le séchage ou une transpiration excessive.
+- TEXTURE BIPHASÉE LÉGÈRE ET INVISIBLE : Sa texture biphasée unique combine une phase aqueuse rafraîchissante et une phase huileuse nourrissante, offrant une application agréable et un fini satiné sans effet gras. Idéale pour une utilisation quotidienne sur le visage et le corps.
 - À VOS CÔTÉS, POUR UNE BEAUTÉ ENGAGÉE : Chez SVR, depuis 1962, nous plaçons l’éthique, la santé et l’environnement au cœur de nos engagements. Chaque jour, nous innovons pour vous offrir des soins dermocosmétiques clean, sûrs, efficaces et formulés sans ingrédients controversés, dans le respect de votre peau et de la planète.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Seconde génération de la gamme QVO, plus performant et encore plus rapide. Mémoire de stockage : Samsung V-NAND 4 bits MLC
-- Disponible jusquà 8 To
-- Performances améliorées de 15% (par rapport au précédent modèle) .Température de fonctionnement : 0 - 70 ℃
 - Garantie 3 ans
+- Seconde génération de la gamme QVO, plus performant et encore plus rapide. Mémoire de stockage : Samsung V-NAND 4 bits MLC
+- Performances améliorées de 15% (par rapport au précédent modèle) .Température de fonctionnement : 0 - 70 ℃
+- Disponible jusquà 8 To
 - Mode veille: Oui
 
 [🛒 Achète-le!!]({{< param buyurl >}})

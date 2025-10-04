@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stylo gel avec des couleurs dencre intenses qui ne bavent pas et ne transpercent pas le papier, pour une écriture régulière et précise en permanence
-- Grip en caoutchouc pour plus de confort lors de lécriture
 - Inclut 3 stylos gel avec encre bleue ; pointe moyenne (0,7 mm)
+- Grip en caoutchouc pour plus de confort lors de lécriture
+- Stylo gel avec des couleurs dencre intenses qui ne bavent pas et ne transpercent pas le papier, pour une écriture régulière et précise en permanence
 - Corps élégant avec finition matte laquée moderne pour un look professionnel plein de style
 - Design rétractable assurant une utilisation aisée et pratique ; clip durable pour un rangement sécurisé dans une poche, une valise, un sac à dos et plus encore
 

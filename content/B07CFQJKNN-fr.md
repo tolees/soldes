@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bague empilable
 - PANDORA rose
+- Langue de lamour
 - Shimmering wish
 - Zircon cubique transparent
-- Langue de lamour
-- Bague empilable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CFQJKNN{{</world>}}

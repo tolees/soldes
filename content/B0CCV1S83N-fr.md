@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 pour cent de polyamide
-- Imperméable
-- 0,76 kg Poids x 18 L Volume
 - Sac à dos de taille moyenne (avec protection pour ordinateur portable)
 - 31 cm de hauteur x 40 de largeur x 23 cm de profondeur
+- Imperméable
+- 100 pour cent de polyamide
+- 0,76 kg Poids x 18 L Volume
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCV1S83N{{</world>}}

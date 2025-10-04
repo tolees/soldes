@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions du puzzle : 43,2 x 29,1 cm
 - Âge recommandé : à partir de 12 ans
 - Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
+- Dimensions du puzzle : 43,2 x 29,1 cm
 - Casse-tête de 200 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

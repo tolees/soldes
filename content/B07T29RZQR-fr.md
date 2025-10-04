@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Bracelet de cuir, couleur marron, avec fermeture à boucle.
 - Montre chronographe quartz pour homme.
-- Cadran round en couleur noir en verre minéral.
 - Boîtier round de acier inoxydable, couleur noir.
 - Résistance à leau: 10 atm.
+- Cadran round en couleur noir en verre minéral.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T29RZQR{{</world>}}

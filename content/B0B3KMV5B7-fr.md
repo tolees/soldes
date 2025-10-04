@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Largeur de la chaussure : moyenne
 - Matériau extérieur : cuir
 - Forme du talon : pas de talon
 - Niveau de résistance à leau : non étanche
-- Largeur de la chaussure : moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3KMV5B7{{</world>}}

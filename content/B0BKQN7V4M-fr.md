@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Deux princesses
-- Un décor de cascade gelée
 - Un cheval ailé et sa calèche
+- Un décor de cascade gelée
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 - Un nécessaire à pique-nique
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Température de fonctionnement: 0 - 70°C
-- Disponible jusquà 8 To
 - Performances améliorées de 15% (par rapport au précédent modèle)
+- Disponible jusquà 8 To
 - Garantie 3 ans
+- Température de fonctionnement: 0 - 70°C
 - Seconde génération de la gamme QVO, plus performant et encore plus rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

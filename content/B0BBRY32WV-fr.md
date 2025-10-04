@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dans la boîte de cet ensemble LEGO facile à construire, chaque sachet de briques contient un modèle et un personnage à construire pour que les enfants puissent rapidement passer à laction
-- Comprend les Minifigurines Lloyd et Garde squelette avec des épées miniatures, ainsi quun petit temple en briques avec une arme en or et un lanceur de disque secret
+- Cet ensemble de moto LEGO NINJAGO facile à construire est un excellent jouet dapprentissage et constitue un fabuleux cadeau pour les enfants dâge préscolaire et les juniors âgés de 4 ans et plus
 - Le robot Garde squelette a volé la précieuse épée Dragon dor ; les enfants doivent faire équipe avec Lloyd sur sa moto super cool pour la récupérer
 - Le jouet dapprentissage pour les enfants dâge préscolaire de 4 ans et plus comprend également une brique de démarrage qui fournit une base partiellement construite pour permettre aux enfants de construire facilement
-- Cet ensemble de moto LEGO NINJAGO facile à construire est un excellent jouet dapprentissage et constitue un fabuleux cadeau pour les enfants dâge préscolaire et les juniors âgés de 4 ans et plus
+- Dans la boîte de cet ensemble LEGO facile à construire, chaque sachet de briques contient un modèle et un personnage à construire pour que les enfants puissent rapidement passer à laction
+- Comprend les Minifigurines Lloyd et Garde squelette avec des épées miniatures, ainsi quun petit temple en briques avec une arme en or et un lanceur de disque secret
 - Les enfants dâge préscolaire peuvent apprendre à construire avec cet ensemble LEGO NINJAGO 4+ pour débutants comprenant une moto ninja, une brique de démarrage et 2 minifigurines
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermoir : Aimanté
+- Matériel: Acier inoxydable avec placage ionique (IP) noir
 - Bracelet en chaîne pour homme de Lacoste
 - Circonférence intérieure : 19 cm
-- Matériel: Acier inoxydable avec placage ionique (IP) noir
-- Fermoir : Aimanté
 - Embelli avec rayure verte en émail sur le côté de la plaque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

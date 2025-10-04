@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huit modes de jeu variés et captivants à découvrir en solo ou en multi, avec des classements en ligne et des packs de chansons disponibles dans la boutique en ligne.
-- Jouez en famille ou entre amis et déterminez qui a la plus belle voix.
 - Une superbe playlist de 40 titres, dont 20 chansons françaises et 20 hits internationaux, avec les clips originaux.
+- Jouez en famille ou entre amis et déterminez qui a la plus belle voix.
+- Huit modes de jeu variés et captivants à découvrir en solo ou en multi, avec des classements en ligne et des packs de chansons disponibles dans la boutique en ligne.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGQD72RD{{</world>}}

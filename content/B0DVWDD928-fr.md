@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Vaiana 2 [DVD]'
-date: 2025-08-25 10:35:52
+date: 2025-10-04 11:35:56
 image: 'https://m.media-amazon.com/images/I/513Sr0eSKRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Animation','Arborist Merchandising Root','DVD Store','DVD et Blu-ray','
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
-comparePrice: 15.99 EUR
+comparePrice: 14.99 EUR
 prodname: 'Disney - Vaiana 2 [DVD]'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Disney'
 buyurl: 'https://www.amazon.fr/dp/B0DVWDD928/?tag=tolees0d-21'
-descuento: '37.52'
+descuento: '33.36'
 average: '9.99'
 ---
 

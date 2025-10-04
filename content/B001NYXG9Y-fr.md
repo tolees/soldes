@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en : Taïwan
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
+- Fabriqué en : Taïwan
 - matériel authentique
 - Piles requises: Non
 

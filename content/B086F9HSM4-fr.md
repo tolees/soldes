@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kidizoom Video Studio vous permet de créer vos propres vidéos avec des effets spéciaux et des astuces super amusantes Facile à utiliser, logiciel de création vidéo convient aux jeunes
 - Fonctions : effets spéciaux et tours de magie, ajout de musique et de sons, ajout deffets et darrière-plans amusants, permettant déditer plus de 20 thèmes différents
+- Kidizoom Video Studio vous permet de créer vos propres vidéos avec des effets spéciaux et des astuces super amusantes Facile à utiliser, logiciel de création vidéo convient aux jeunes
 - Caractéristiques : grand écran couleur (2,4"), caméra HD et photo avec double, 3 jeux inclus, résolution de pixels de 5,0 M, mémoire : 256 Mo extensible par carte Micro SD, rechargeable
 - Pour les enfants de 5 ans à 8 ans. Caméra HD multifonction et caméra avec effets spéciaux et astuces
 

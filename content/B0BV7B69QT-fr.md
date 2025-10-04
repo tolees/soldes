@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Star Wars: The Clone Wars fans kunnen samenwerken met Meester Yoda en R2-D2 met de LEGO Star Wars Yodas Jedi Starfighter set voor kinderen vanaf 8 jaar
-- Maakt onderdeel uit van een enorm assortiment LEGO Star Wars sets om Star Wars fans van alle leeftijden te plezieren
 - Het Starfighter LEGO Star Wars voertuig heeft een cockpit die open kan voor de LEGO minifiguur van Meester Yoda, ruimte voor de R2-D2 LEGO droid figuur, 2 schieters met veermechanisme en verstelbare vleugels voor de vlieg- en landingsmodus
 - De Star Wars bouwbare speelgoed set bevat ook 2 iconische karakters: een LEGO Star Wars Yoda minifiguur met een lichtzwaard en een LEGO R2-D2 droid figuur
+- Star Wars: The Clone Wars fans kunnen samenwerken met Meester Yoda en R2-D2 met de LEGO Star Wars Yodas Jedi Starfighter set voor kinderen vanaf 8 jaar
 - Met LEGO Star Wars sets kunnen kinderen en volwassen Star Wars fans iconische scènes naspelen, hun eigen avonturen creëren en gebouwde modellen tentoonstellen
+- Maakt onderdeel uit van een enorm assortiment LEGO Star Wars sets om Star Wars fans van alle leeftijden te plezieren
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV7B69QT{{</world>}}

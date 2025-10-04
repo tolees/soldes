@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘𝗟: Convient à tous les fabricants et marques ainsi quaux écran incurvée - si la position et la taille de la norme VESA ainsi que le poids du téléviseur sont supportés!
-- 𝗖𝗢𝗡𝗧𝗘𝗡𝗨 𝗗𝗘 𝗟𝗔 𝗟𝗜𝗩𝗥𝗔𝗜𝗦𝗢𝗡: Acroche TV pré-assemblé, chevilles seulement pour murs en béton, vis pour lécran télé, vis murales et accessoires.
-- 𝗥𝗘𝗖𝗢𝗠𝗠𝗔𝗡𝗗É 𝗣𝗢𝗨𝗥: Diagonales décran appropriées 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" pouces.
 - 𝗡𝗢𝗥𝗠𝗘𝗦 𝗩𝗘𝗦𝗔 𝗦𝗨𝗣𝗣𝗢𝗥𝗧É𝗘𝗦: Capacité de charge élevée jusquà 95kg. Normes VESA prises en charge 200x200 300x200 300x300 400x200 400x400
 - 𝗙𝗢𝗡𝗖𝗧𝗜𝗢𝗡𝗦: Attache mural pour ecran TV inclinaison +/-15 degré. Ce support télé est proche du mur et ultra-slim, avec une distance au mur de seulement 69 mm. Ce support mural nest PAS orientable.
+- 𝗖𝗢𝗡𝗧𝗘𝗡𝗨 𝗗𝗘 𝗟𝗔 𝗟𝗜𝗩𝗥𝗔𝗜𝗦𝗢𝗡: Acroche TV pré-assemblé, chevilles seulement pour murs en béton, vis pour lécran télé, vis murales et accessoires.
+- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘𝗟: Convient à tous les fabricants et marques ainsi quaux écran incurvée - si la position et la taille de la norme VESA ainsi que le poids du téléviseur sont supportés!
+- 𝗥𝗘𝗖𝗢𝗠𝗠𝗔𝗡𝗗É 𝗣𝗢𝗨𝗥: Diagonales décran appropriées 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" pouces.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0050BRX9K{{</world>}}

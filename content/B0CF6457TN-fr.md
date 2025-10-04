@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Apaisez votre bébé : depuis nimporte quelle pièce de la maison, vous pouvez sélectionner lun des 6 bruits blancs relaxants ou berceuses pour aider votre bébé à sendormir en un rien de temps, vous offrant ainsi plus de temps libre
 - Privé et sécurisé : appairage unique de lappareil pour une connexion privée et sécurisée avec votre bébé grâce à la technologie de connexion sans fil 2,4 GHz permettant de minimiser les interférences. Lapparence de lemballage peut varier.
 - Soyez rassuré/e : gardez un œil sur votre bébé de jour comme de nuit grâce à la caméra infrarouge qui sactive automatiquement dans lobscurité et profitez du zoom numérique x 4 et de la fonction panoramique sur notre écran de 3,5" (8,9 cm)
 - Tranquillité desprit : restez toujours près de votre bébé grâce à lécoute-bébé disposant dune autonomie de 12 heures, offrant un rayon de 300 m en extérieur et vous permettant de surveiller votre bébé en un seul clic
+- Apaisez votre bébé : depuis nimporte quelle pièce de la maison, vous pouvez sélectionner lun des 6 bruits blancs relaxants ou berceuses pour aider votre bébé à sendormir en un rien de temps, vous offrant ainsi plus de temps libre
 - Une parentalité qui vous ressemble : utilisez lécoute-bébé de la manière qui vous convient le mieux grâce aux modes VOX et ÉCO, au niveau de volume réglable, à la fonction « Répondre à bébé », au capteur de température et à la fixation murale possible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

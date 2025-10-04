@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les kits national géographic permettent de découvrir les sciences tout en samusant. Les résultats sont bluffants, réalistes et très satisfaisants une activité stem, scientifique, ludique et pédagogique, puisque grce au livret dapprentissage inclus, vous en saurez plus sur chaque élément du pack
 - Réalisez 5 expériences : Construire et faire entrer en éruption un volcan, créer une tornade, creuser pour découvrir une pyrite, et faire pousser un cristal
-- Contenu : Tout le nécessaire pour pouvoir réaliser les 5 expériences scientifiques plus les 8 roches and minéarux. Adapté à partir de 8 ans
-- Observez les 8 roches and minéraux inclus ( plus la pyrite et le cristal issus des expériences)
 - Un maxi kit de lexplorateur, sur le thème des sciences de la terre pour réaliser 5 expériences ou découvertes scientifiques et collectionner des minéraux
+- Observez les 8 roches and minéraux inclus ( plus la pyrite et le cristal issus des expériences)
+- Contenu : Tout le nécessaire pour pouvoir réaliser les 5 expériences scientifiques plus les 8 roches and minéarux. Adapté à partir de 8 ans
+- Les kits national géographic permettent de découvrir les sciences tout en samusant. Les résultats sont bluffants, réalistes et très satisfaisants une activité stem, scientifique, ludique et pédagogique, puisque grce au livret dapprentissage inclus, vous en saurez plus sur chaque élément du pack
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JWV1M34{{</world>}}

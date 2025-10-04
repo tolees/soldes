@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Col asymétrique
 - Fermeture éclair
 - Ajusté
-- Col asymétrique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AAQRDKE{{</world>}}

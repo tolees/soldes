@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Smart TV
-- Résolution 1366 x 768 pixels
-- Son Dolby Atmos
-- Téléviseur HDTV 60 Hz - 80 cm (32 pouces)
 - 3x HDMI - 2x USB
+- Résolution 1366 x 768 pixels
+- Téléviseur HDTV 60 Hz - 80 cm (32 pouces)
+- Son Dolby Atmos
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3MMYHC7{{</world>}}

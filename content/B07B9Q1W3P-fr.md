@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellent cadeau pour les fans de Harry Potter
 - 13 cm (12,7 cm) de hauteur
+- Excellent cadeau pour les fans de Harry Potter
 - Caractéristiques figurine Hermione Granger en éclairant cloche
 - Lumière alimentée par batterie
 - Produits sous licence officielle

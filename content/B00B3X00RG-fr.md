@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoie les fosses nasales et permet lévacuation des agents infectieux et allergènes. Participe à la protection contre les infections. Diminue la viscosité du mucus et facilite son élimination
-- Ce dispositif médical est un produit de santé réglementé qui porte, au titre de cette règlementation, le marquage CE.
 - Embout nasal spécifiquement adapté, sans gaz propulseur et stérile. EFFICACITÉ CLINIQUEMENT PROUVÉE chez des adultes, 100% eau de mer naturelle, désodée et non diluée. Solution hypertonique, plus salée que les solutions isotoniques, qui crée une décongestion mécanique par appel d’eau. PH optimal pour la muqueuse nasale. Sans conservateur
-- Décongestionne et réduit lintensité du Rhume
 - Lire attentivement la notice ou l’étiquetage. Demandez conseil à votre pharmacien. Fabriqué par : Laboratoire de la Mer (St-Malo). Pour plus d’informations, veuillez consulter la rubrique «description » plus bas sur cette page.
+- Décongestionne et réduit lintensité du Rhume
+- Ce dispositif médical est un produit de santé réglementé qui porte, au titre de cette règlementation, le marquage CE.
+- Nettoie les fosses nasales et permet lévacuation des agents infectieux et allergènes. Participe à la protection contre les infections. Diminue la viscosité du mucus et facilite son élimination
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B3X00RG{{</world>}}

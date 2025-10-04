@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dalle VA, FHD, écran mat, sortie casque, VESA 100 x 100, support amovible, cadre fin, 78 Hz, 2x haut-parleurs 3 W intégrés
 - Luminosité/contraste : 250 cd/m², 3000:1, ports : 1x HDMI, 1x VGA
+- Dalle VA, FHD, écran mat, sortie casque, VESA 100 x 100, support amovible, cadre fin, 78 Hz, 2x haut-parleurs 3 W intégrés
 - Garantie constructeur : 2 ans. Retrouvez les conditions de garantie sous « Informations techniques complémentaires ». Vos droits de garantie légale restent inchangés
 - Contenu de la livraison : Écran PC Philips 271E1SCA/00 68,6 cm (27 pouces), câble d’alimentation, câble HDMI, CD d’installation, fiche de garantie
 - Écran gaming 27 pouces rapide incurvé à 1500R, sans scintillement pour un plaisir de jeu illimité, technologie Low Blue Light pour protéger les yeux, mode SmartImage pour différents réglages de jeu

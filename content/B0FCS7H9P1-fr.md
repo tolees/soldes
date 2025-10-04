@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fais la course sur terre, dans leau, dans les airs et à travers le temps et lespace dans Sonic Racing: CrossWorlds
 - Fonce à toute vitesse sur 24 circuits et téléporte-toi dans 15 CrossWorlds grâce aux Rings de transfert Cette mécanique de jeu transporte les personnages emblématiques des univers de Sonic et SEGA à travers de nouvelles dimensions Profite de leffet de surprise en modifiant la topographie de chaque course
 - Choisis lun des 23 personnages emblématiques de lunivers de Sonic grâce au plus large éventail de personnages de tous les jeux Sonic Racing
 - Précommande Sonic Racing: CrossWorlds pour recevoir le personnage jouable Hérisson-garou, le véhicule Beast Spike et lautocollant assorti
-- Fais la course sur terre, dans leau, dans les airs et à travers le temps et lespace dans Sonic Racing: CrossWorlds
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FCS7H9P1{{</world>}}

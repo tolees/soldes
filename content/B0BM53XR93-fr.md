@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : N/A
-- Fermeture : lacets
-- Forme du talon : pas de talon
 - Matériau extérieur : cuir
+- Forme du talon : pas de talon
+- Fermeture : lacets
+- Matériau intérieur : N/A
 - Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

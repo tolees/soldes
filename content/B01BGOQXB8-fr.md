@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Finitions de qualité: Corps en métal de couleur noir avec bague métal gravée. Muni dune agraphe métal
-- Stylo bille rétractable Pentel Sterling
-- Encre de couleur noire, pointe moyenne 0,7mm
 - Taille de la pointe : 0,7mm
+- Encre de couleur noire, pointe moyenne 0,7mm
 - Livré en coffret cadeau Pentel
+- Stylo bille rétractable Pentel Sterling
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BGOQXB8{{</world>}}

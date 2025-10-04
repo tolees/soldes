@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tout le plaisir et l’interaction d’un jeu coopératif
 - Jeu coopératif
+- Tout le plaisir et l’interaction d’un jeu coopératif
 - 3 nouveaux défis, 7 nouveaux rôles
 - Age range descriptio : enfants, adultes
 

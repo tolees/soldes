@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo en optique craquelée sur la poitrine
+- Fabriqué à partir du coton le plus pur (ou tissu mélangé)
 - T-shirt cool de Lonsdale
 - Col rond classique
-- Fabriqué à partir du coton le plus pur (ou tissu mélangé)
+- Logo en optique craquelée sur la poitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HBYV8TX{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coleur: Argenté
 - Style: Alliance et anneau
+- Coleur: Argenté
 - Marque: Pandora
 - Pierre: Zircon cubique
 

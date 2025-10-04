@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En fibre de coton mélangé doux
-- Style polaire
 - Sweat-shirt simple à col rond
 - Col rond classique
+- En fibre de coton mélangé doux
+- Style polaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08KXV8K8M{{</world>}}

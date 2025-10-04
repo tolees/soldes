@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passive noise cancellation för perfekt koncentration: Håller höga frekvensljud så som människoröster ute för bättre samarbete och lyssningsupplevelse i alla miljöer
-- Plug-and-play-inställning: Hörlurarna fungerar direkt med alla ledande system – Installationen är enkel och kräver bara en anslutning
-- Detta Evolve 20 headset är Microsoft certifierat och konstruerat för stil och komfort med mjuka öronkuddar – Justerbart huvudband gör att du hittar den perfekta passformen
 - Produkten levereras med 2 års garanti
+- Plug-and-play-inställning: Hörlurarna fungerar direkt med alla ledande system – Installationen är enkel och kräver bara en anslutning
+- Passive noise cancellation för perfekt koncentration: Håller höga frekvensljud så som människoröster ute för bättre samarbete och lyssningsupplevelse i alla miljöer
+- Detta Evolve 20 headset är Microsoft certifierat och konstruerat för stil och komfort med mjuka öronkuddar – Justerbart huvudband gör att du hittar den perfekta passformen
 - Enkel samtalshantering: Extern ljudkontroll gör det möjligt att ringa, ta och tysta ner samtal – Håll dig ansluten och tillgänglig hela tiden
 - Förpackningens innehåll: Jabra Evolve 20 SE stereo on-ear headset, USB-A kabel med kontroll enhet – Vikt: 171 g – Färg: svart
 

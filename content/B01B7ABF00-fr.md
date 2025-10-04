@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accédez à plus de 300 applications, y compris Amazon Instant Video, avec la télé et la vidéo à la demande
-- Reproduction brillante de vidéos haute qualité en Full HD 1080p
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
-- Services en ligne pour lexpérience de home cinéma avancée avec lentrée Ethernet, Consommation électrique: 8,5 W
 - Inclus dans la livraison: Sony BDP-S1700 lecteur Blu-ray
 - Consommation électrique (mode veille en réseau) – Bornes:3,8 W (Ethernet) / 3,8 W (HDMI CEC) / 4,5 W (toutes les bornes et réseaux connectés)
+- Services en ligne pour lexpérience de home cinéma avancée avec lentrée Ethernet, Consommation électrique: 8,5 W
+- Accédez à plus de 300 applications, y compris Amazon Instant Video, avec la télé et la vidéo à la demande
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- Reproduction brillante de vidéos haute qualité en Full HD 1080p
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01B7ABF00{{</world>}}

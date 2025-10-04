@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 100 % Coton
-- Type de col : Col monobloc
 - Lavage en machine
 - Fermeture : Enfiler
+- Type de col : Col monobloc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089Z5GVVL{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élimine les flocons ternes et lexcès de sébum pour que la crème hydratante puisse mieux faire son travail.
 - Aide à faire disparaître les ridules et ridules.
+- Élimine les flocons ternes et lexcès de sébum pour que la crème hydratante puisse mieux faire son travail.
 - La formule développée par des dermatologues aide à révéler une peau plus fraîche.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

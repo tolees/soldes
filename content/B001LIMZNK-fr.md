@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SE JOUE AVEC au moins 1 Starter Set GraviTrax standard. 20 nouveaux modèles de circuits sont inclus, dont 12 qui peuvent être assemblés avec seulement 1 Starter Set GraviTrax standard. Dautres circuits sont à expérimenter avec les blocs daction Looping, Scoop, Transfert, Flip, Tiptube et le set dextension Tunnels.
 - STEM : GraviTrax est un système de construction ludique et éducatif qui fait découvrir aux enfants les lois physiques comme la gravité, le magnétisme ou la force cinétique. Grâce aux explications détaillées et illustrées du livre, les enfants vont pouvoir comprendre ces principes scientifiques et les expérimenter avec leurs propres assemblages.
-- LIVRE : 110 pages, couverture rigide et cartonnée, illustrations et photographies en couleurs. Version française. Dimensions : 26,5 x 26,5 cm. Inclus : un glossaire reprenant les principes physiques les plus importants qui sont décrits dans le livre (gravité, énergie cinétique, force, inertie...). Dès 8 ans.
-- 3 GRANDS CHAPITRES : Découvre le fonctionnement des principaux blocs daction GraviTrax (Looping, Scoop, Transfert, Flip, Tiptube, Tunnels) et les lois physiques qui les régissent. Retrouve de nombreux plans de montage inédits et teste tes capacités de création et de raisonnement à travers plusieurs challenges de construction.
 - POUR LES FANS DE GRAVITRAX : Deviens un expert des circuits de billes GraviTrax avec ce livre de 110 pages, pour tout connaître des différents éléments de construction, de leurs effets et leurs combinaisons possibles. Page après page, ce livre fera de toi un maître GraviTrax et te donnera toutes les astuces pour créer des parcours incroyables.
+- 3 GRANDS CHAPITRES : Découvre le fonctionnement des principaux blocs daction GraviTrax (Looping, Scoop, Transfert, Flip, Tiptube, Tunnels) et les lois physiques qui les régissent. Retrouve de nombreux plans de montage inédits et teste tes capacités de création et de raisonnement à travers plusieurs challenges de construction.
+- LIVRE : 110 pages, couverture rigide et cartonnée, illustrations et photographies en couleurs. Version française. Dimensions : 26,5 x 26,5 cm. Inclus : un glossaire reprenant les principes physiques les plus importants qui sont décrits dans le livre (gravité, énergie cinétique, force, inertie...). Dès 8 ans.
+- SE JOUE AVEC au moins 1 Starter Set GraviTrax standard. 20 nouveaux modèles de circuits sont inclus, dont 12 qui peuvent être assemblés avec seulement 1 Starter Set GraviTrax standard. Dautres circuits sont à expérimenter avec les blocs daction Looping, Scoop, Transfert, Flip, Tiptube et le set dextension Tunnels.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001LIMZNK{{</world>}}

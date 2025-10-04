@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : 100 pourcent Caoutchouc
-- Type de talons : Plat
 - Dessus : Cuir
-- Largeur de la chaussure : Schmal
-- Doublure : 65 pourcent Polyester à mailles textiles, 35 pourcent Microfibre synthétique
-- Hauteur de la tige : Calf High
 - Fermeture : Lacet
+- Doublure : 65 pourcent Polyester à mailles textiles, 35 pourcent Microfibre synthétique
+- Largeur de la chaussure : Schmal
+- Type de talons : Plat
+- Matériau de semelle : 100 pourcent Caoutchouc
+- Hauteur de la tige : Calf High
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09C61QZXL{{</world>}}

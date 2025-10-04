@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ne nécessite aucun outil pour linstallation
 - Détecteur douverture fonctionnant en Zigbee
-- Sans fil et longue autonomie
 - Format compact et discret
+- Sans fil et longue autonomie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QC7QKYR{{</world>}}

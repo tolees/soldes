@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plats empilables les un dans les autres pour un gain de place dans les placards
-- Plat pouvant se mettre au congélateur, frigo, four, micro-ondes
-- Couvercle multifonction étanche et hermétique à lair et aux liquides grâce à son joint en silicone
 - Verre borosilicate hygiénique - ne retient ni les tâches, ni les odeurs, résistant aux rayures
+- Plat pouvant se mettre au congélateur, frigo, four, micro-ondes
+- Plats empilables les un dans les autres pour un gain de place dans les placards
+- Couvercle multifonction étanche et hermétique à lair et aux liquides grâce à son joint en silicone
 - Plat RECTANGLE en verre borosilicate léger : résistant aux chocs thermiques : de -40° jusquà 300°
 
 [🛒 Achète-le!!]({{< param buyurl >}})

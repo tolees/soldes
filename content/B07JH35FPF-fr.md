@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc Omni-Grip non marquant pour une bonne adhérence
-- Cuir suédé, textile et sangles
 - Tissu imperméable
+- Cuir suédé, textile et sangles
+- Semelle extérieure en caoutchouc Omni-Grip non marquant pour une bonne adhérence
 - Semelle intercalaire Techlite légère : amorti et confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})

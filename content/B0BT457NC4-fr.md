@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La figure sélève à 9,5 cm et est disponible dans une boîte daffichage de fenêtre
 - Collectez les tous!
-- Découvrez les autres chiffres de Funko
 - MATIÈRE VINYLE DE PREMIÈRE QUALITÉ - Fabriqué en vinyle durable de haute qualité, cet objet de collection est conçu pour durer et résister à lusure quotidienne, garantissant ainsi un plaisir durable aux fans ainsi quaux collectionneurs.
+- La figure sélève à 9,5 cm et est disponible dans une boîte daffichage de fenêtre
+- Découvrez les autres chiffres de Funko
 - TAILLE IDÉALE POUR COLLECTIONNER - Dune hauteur denviron 9,5 cm, cette mini-figurine en vinyle peut compléter dautres objets et sintègre parfaitement dans votre collection ou sur votre bureau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

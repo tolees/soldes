@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des combats viscéraux et spectaculaires qui ne laissent aucun droit à l’erreur
-- Un monde utopique aussi déjanté que sublime
-- Améliorez votre arsenal et équipement
 - Détruisez machines et mutants à l’aide de vos pouvoirs et armes de pointe
+- Améliorez votre arsenal et équipement
+- Un monde utopique aussi déjanté que sublime
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BL18YWSC{{</world>}}

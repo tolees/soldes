@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Build your own zoo with over 500 different animals at your disposal, then splice together over 300,000 different animal combinations
-- Keep your animals and your itors happy, with hundreds of buildings, foliage, path and enclosure decorations
-- Control everything that happens in your park, from what your animals eat to what eats your animals…
 - Decide whether you want to run your Zoo above board... or break the law and pocket the extra cash
+- Keep your animals and your itors happy, with hundreds of buildings, foliage, path and enclosure decorations
 - Hire the perfect employees to deal with a variety of life events
+- Control everything that happens in your park, from what your animals eat to what eats your animals…
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B64M8HVB{{</world>}}

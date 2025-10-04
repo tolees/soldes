@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Customisation de tenues de mode (haut, pantalon, jupe) avec un effet aérographe à personnaliser grâce aux pochoirs motifs et aux feutres magiques
+- Contient : 1 base de création, 3 Mini Blopens bicolores + 1 Mini Blopens magique, 8 pochoirs, 6 feuilles mannequin, 28 autocollants
 - Personnalisation des mannequins avec les autocollants (lunettes, chapeaux, colliers, ceintures)
 - Dès 7 ans
-- Contient : 1 base de création, 3 Mini Blopens bicolores + 1 Mini Blopens magique, 8 pochoirs, 6 feuilles mannequin, 28 autocollants
-- Customisation de tenues de mode (haut, pantalon, jupe) avec un effet aérographe à personnaliser grâce aux pochoirs motifs et aux feutres magiques
 - Kit de stylisme Blopens Fashion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PERFORMANCES WIFI 6 : Vitesse et capacité Dual-Band AX4200, associées à la technologie MU-MIMO, prend en charge jusquà 256 appareils connectés
 - SECURITE DE CLASSE PROFESSIONNELLE : prend en charge le WPA, WPA2 et WPA3
-- RESEAU WIFI PRIVE ET SECURISE : facile à installer dans un magasin, dans le hall d’entrée d’une entreprise ou tout emplacement où vous souhaitez bénéficier d’un réseau Wifi sécurisé
+- ALIMENTABLE EN POE : Déploiement simplifié grâce au PoE - alimentez le point daccès WiFi WAX220 via un switch PoE+ (le port PoE+ consomme 25,5 W). Ou alimentez-le avec ladaptateur secteur PAV12V (vendu séparément)
 - GESTION FACILE : installation, configuration et administration via l’assistant de configuration instantané
 - OPTIONS DE MONTAGE POLYVALENTES : Facile à installer, sécurisez-le au mur ou au plafond grâce au matériel inclus
-- PERFORMANCES WIFI 6 : Vitesse et capacité Dual-Band AX4200, associées à la technologie MU-MIMO, prend en charge jusquà 256 appareils connectés
-- ALIMENTABLE EN POE : Déploiement simplifié grâce au PoE - alimentez le point daccès WiFi WAX220 via un switch PoE+ (le port PoE+ consomme 25,5 W). Ou alimentez-le avec ladaptateur secteur PAV12V (vendu séparément)
+- RESEAU WIFI PRIVE ET SECURISE : facile à installer dans un magasin, dans le hall d’entrée d’une entreprise ou tout emplacement où vous souhaitez bénéficier d’un réseau Wifi sécurisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN41M1VN{{</world>}}

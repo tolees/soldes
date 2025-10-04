@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Garantie: 2 ans
-- Véritable concentré de technologies de pointe, la PS4 Pro procure les expériences de jeu les plus rapides, les plus fluides et les plus extrêmes à un niveau encore jamais atteint.
-- La PlayStation la plus puissante jamais conçue.
-- Contact du support de Sony : 01 70 70 07 78
-- Edition: Pro
 - Plate-forme: PlayStation 4
+- Edition: Pro
+- La PlayStation la plus puissante jamais conçue.
+- Véritable concentré de technologies de pointe, la PS4 Pro procure les expériences de jeu les plus rapides, les plus fluides et les plus extrêmes à un niveau encore jamais atteint.
+- Contact du support de Sony : 01 70 70 07 78
 - Plate-forme : PlayStation 4
 
 [🛒 Achète-le!!]({{< param buyurl >}})

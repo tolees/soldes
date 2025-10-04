@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceci est un authentique produit Levi’s
-- Logo discret sur la poitrine
-- Un polo élégant et facile à porter, loin d’être étouffant
-- Optez pour une taille au-dessus pour un style confortable en toute simplicité ou optez pour votre taille habituelle pour un look classique
 - En piqué léger et respirant
+- Un polo élégant et facile à porter, loin d’être étouffant
+- Logo discret sur la poitrine
+- Ceci est un authentique produit Levi’s
+- Optez pour une taille au-dessus pour un style confortable en toute simplicité ou optez pour votre taille habituelle pour un look classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08PDHTTFP{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydro-gels pour un film ultra-doux sur les cils
 - La brosse 3D capture, recouvre et allonge chaque cil
 - Définit, allonge et recourbe les cils avec zéro paquet
+- Hydro-gels pour un film ultra-doux sur les cils
 - Couleur noire extrême, zéro bavure
 - Formule enrichie en vitamine E avec agents filmogènes, cires et pigments
 

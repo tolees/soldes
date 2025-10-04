@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste polaire pour homme utilisable toute lannée le jour ou la nuit, idéal pour la randonnée, le trail running et dautres activités extérieures, coupe active
 - Contenu : 1x columbia veste en polaire entièrement zippée fast trek light pour homme, couleur : Black (noir), taille : S, art. : 1772751
 - Entièrement zippée sur la longueur et pratique, 2 poches zippées pour des mains au chaud et des affaires en sécurité, 1 poche de sécurité zippée au niveau de la poitrine
+- Veste polaire pour homme utilisable toute lannée le jour ou la nuit, idéal pour la randonnée, le trail running et dautres activités extérieures, coupe active
 - Protection supplémentaire contre le vent et le froid grce à la matière confortable et au col montant
 - Protection supplémentaire contre le vent et le froid grce à la capuche ajustée et au polaire confortable
 

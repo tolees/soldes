@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Risquez le tout pour le tout dans la peau de la hors-la-loi Kay Vess, déterminée à gagner sa liberté et à débuter une nouvelle vie.
-- Mêlez vous aux pires gangsters de la galaxie et naviguez entre les syndicats criminels grâce à votre maîtrise du blaster, vos talents de voleuse et votre don pour la manipulation.
 - Découvrez le tout premier jeu Star Wars en monde ouvert et explorez des lieux mémorables, iconiques ou inédits, dans toute la galaxie.
+- Mêlez vous aux pires gangsters de la galaxie et naviguez entre les syndicats criminels grâce à votre maîtrise du blaster, vos talents de voleuse et votre don pour la manipulation.
+- Risquez le tout pour le tout dans la peau de la hors-la-loi Kay Vess, déterminée à gagner sa liberté et à débuter une nouvelle vie.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZXXM598{{</world>}}

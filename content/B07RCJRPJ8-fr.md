@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Régime à vide (1ère vitesse/ 2ème vitesse) 0 – 460/ 0 – 1.750 tr/min
-- Type de batterie lithium-ion
 - Plage de serrage du mandrin, min./max. 0, 8/ 10 mm
 - Couple (tendre/dur/maxi) 20/35/- Nm
+- Type de batterie lithium-ion
 - Tension de la batterie 12 V
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

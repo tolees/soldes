@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réparabilité 10 ans, Garantie 2 ans
 - Longueur du cordon vapeur: 1,6 m
+- Alerte de tartre: Oui
+- GLISSE PARFAITE : Semelle en céramique "Xpress Glide" pour une glisse exceptionnelle et des sessions de repassage plus faciles et plus agréables
+- PLUS DAUTONOMIE : réservoir d’eau fixe de 1,4 L pour un remplissage rapide et des séances de repassage en toute simplicité
+- Réparabilité 10 ans, Garantie 2 ans
+- GAIN DE TEMPS : réduit votre temps de repassage de 30 %* ; * par rapport à un fer à repasser classique
 - MODE ÉCO : ce mode réduit la consommation d’énergie sans compromettre la rapidité du repassage. TEMPS DE CHAUFFAGE RAPIDE : la centrale vapeur chauffe en 2 minutes pour un repassage sans perdre un instant. DESIGN COMPACT : le format compact facilite le défroissage, l’appareil utilise moins d’espace qu’une feuille A4
 - REPASSAGE EFFICACE POUR DES RÉSULTATS EXCEPTIONNELS : centrale vapeur avec 5.2 bars et un débit de vapeur continu de 120 g/min assurent un repassage rapide de tous les tissus. La fonction pressing puissante de 280 g/min vient à bout des plis les plus tenaces
-- GLISSE PARFAITE : Semelle en céramique "Xpress Glide" pour une glisse exceptionnelle et des sessions de repassage plus faciles et plus agréables
 - CENTRALE VAPEUR AVEC SYSTEME ANTI-CALCAIRE : la technologie Calc Clear garantit des performances vapeur longue durée et un entretien efficace
-- Alerte de tartre: Oui
-- PLUS DAUTONOMIE : réservoir d’eau fixe de 1,4 L pour un remplissage rapide et des séances de repassage en toute simplicité
-- GAIN DE TEMPS : réduit votre temps de repassage de 30 %* ; * par rapport à un fer à repasser classique
 - POLYVALENCE : pour des séances de défroissage vertical ou de repassage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

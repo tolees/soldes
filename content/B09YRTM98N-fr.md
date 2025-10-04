@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DTS Virtual : X
-- Hi Res Audio, Meridian
-- Caisson de basses sans fil
 - Système 3.1, 420W, compatible DTS Virtual : X
 - Bluetooth, AI Sound Pro
+- DTS Virtual : X
+- Caisson de basses sans fil
+- Hi Res Audio, Meridian
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YRTM98N{{</world>}}

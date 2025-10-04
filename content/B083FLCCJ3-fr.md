@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de talons : Plat
-- Doublure : Synthetic
-- Matériau de semelle : Synthetic
-- Dessus : Cuir
 - Largeur de la chaussure : Medium
+- Matériau de semelle : Synthetic
+- Doublure : Synthetic
 - Semelle intérieure : Synthetic
+- Dessus : Cuir
+- Type de talons : Plat
 - Fermeture : Lacet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

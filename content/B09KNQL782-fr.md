@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SÃ‰CURITÃ‰ OPTIMALE : Double soupape de sécurité avec réducteur intégré pour éviter toute fuite accidentelle de gaz ; grce au levier de sécurité, la cartouche est sécurisée dans le réchaud
+- DESIGN PRATIQUE : Fonctionne avec une cartouche de gaz Campingaz CP 250, cachée dans le compartiment de cartouche intégré ; même partiellement vidée, la cartouche peut être retirée
 - COMPACT ET PUISSANT : Réchaud de camping à cartouche (2200 W) facile à utiliser avec allumage piézo ; feu réglable en continu ; avec support robuste pour poêles et casseroles jusquâ€à 26 cm de diamètre
 - DIMENSIONS : 34 x 28 x 13 cm ; consommation de gaz 160 gh ; autonomie 1h15 ; poids 1,5 kg ; convient aux casseroles de 12 à 26 cm ; ne pas utiliser dans une pièce fermée, incl. mallette de transport
-- DESIGN PRATIQUE : Fonctionne avec une cartouche de gaz Campingaz CP 250, cachée dans le compartiment de cartouche intégré ; même partiellement vidée, la cartouche peut être retirée
-- SÃ‰CURITÃ‰ OPTIMALE : Double soupape de sécurité avec réducteur intégré pour éviter toute fuite accidentelle de gaz ; grce au levier de sécurité, la cartouche est sécurisée dans le réchaud
 - DISPONIBLE EN EUROPE : Campingaz dispose dâ€un vaste réseau de distribution de cartouches de gaz couvrant de nombreux pays européens, liste des revendeurs sur campingaz.comgasfinder
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

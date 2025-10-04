@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Better Leather
-- Matériau extérieur : 100 % cuir de vache
-- Couleur : blanc naturel
 - Doublure : 78 % tissu (100 % PET recyclé) - 22 % cuir de vache
+- Couleur : blanc naturel
+- Matériau extérieur : 100 % cuir de vache
+- Better Leather
 - Semelle extérieure : 100 % caoutchouc vulcanisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

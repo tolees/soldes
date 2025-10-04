@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition : 100 % coton
-- Coupe : standard
 - Type de détail : t-shirt
+- Coupe : standard
+- Composition : 100 % coton
 - Encolure : col rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

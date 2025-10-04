@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux personnages en tenues vintage
-- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
-- Un véhicule authentique
 - Larges pneus
+- Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
+- Deux personnages en tenues vintage
 - Carrosserie stylisée
+- Un véhicule authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WF119BW{{</world>}}

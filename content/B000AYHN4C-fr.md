@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sachet de 6 000 perles – le moyen idéal pour obtenir la gamme de couleurs économiquement
 - 1. Mettez les perles.
+- Sachet de 6 000 perles – le moyen idéal pour obtenir la gamme de couleurs économiquement
 - Env. 6 000 perles - Mélange 67 - Couleur n° 1 à 12. 17. 18. 20. 21. 26-31
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [30 heures de musique] 30 heures en mode normal Buds Air 3 & boîtier de chargement. 10 minutes de charge = 100 minutes de lecture
-- [Technologie ANC avancée] L’ANC, c’est bien, mais le vent peut facilement jouer les trouble-fête car les vibrations du diaphragme engendrées par le vent empêchent le système de fonctionner correctement. Nous avons adopté une technologie intelligente de réduction de l’effet du vent, dans le but d’atteindre une meilleure réduction du bruit sur tous les tableaux.
 - [écouteur amplificateur de basses dynamique de 10 mm] Un grand système audio de 10 mm avec un diaphragme en polymères à cristaux liquides (ou LCP), de qualité supérieure et d’une forte élasticité, afin de produire des sons plus précis, le tout d’une taille minuscule.
-- [la très faible latence de 88 ms] Une fois le mode Jeu activé, la latence peut être de 88 ms. Que vous soyez en train de jouer ou de regarder un film, l’audio et la vidéo seront toujours synchrones.
+- [Technologie ANC avancée] L’ANC, c’est bien, mais le vent peut facilement jouer les trouble-fête car les vibrations du diaphragme engendrées par le vent empêchent le système de fonctionner correctement. Nous avons adopté une technologie intelligente de réduction de l’effet du vent, dans le but d’atteindre une meilleure réduction du bruit sur tous les tableaux.
 - [Puissante réduction du bruit de 42 dB ] Deux micros, 1 en action directe et 1 en rétroaction, permettent d’éliminer davantage de bruit et d’obtenir la meilleure réduction de bruit du marché.
+- [30 heures de musique] 30 heures en mode normal Buds Air 3 & boîtier de chargement. 10 minutes de charge = 100 minutes de lecture
+- [la très faible latence de 88 ms] Une fois le mode Jeu activé, la latence peut être de 88 ms. Que vous soyez en train de jouer ou de regarder un film, l’audio et la vidéo seront toujours synchrones.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09YTM9F5Y{{</world>}}

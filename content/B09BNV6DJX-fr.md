@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet voiture à rétrofriction constitue un cadeau d’anniversaire idéal pour les garçons et filles qui aiment les voitures Porsche, la Formule E ou les jouets de réalité augmentée
-- Ce kit de modélisme de voiture pour les enfants comprend une voiture de course jouet à rétrofriction avec un design authentique et une application LEGO de réalité augmentée
 - Dans l’application de réalité augmentée, les enfants peuvent décider de l’énergie à mettre dans la voiture avant de prendre le départ en appuyant sur la gâchette
-- Téléchargez l’application de réalité augmentée LEGO Technic, scannez le modèle puis lancez la voiture en utilisant votre pied et regardez-la prendre vie dans des courses captivantes
-- Ce jouet de construction Porsche est une réplique originale du modèle réel de la voiture de course Porsche de Formule E, avec même les logos de ses sponsors
+- Ce kit de modélisme de voiture pour les enfants comprend une voiture de course jouet à rétrofriction avec un design authentique et une application LEGO de réalité augmentée
 - Mettez vos compétences d’ingénieur à l’épreuve en construisant la voiture gagnante, puis utilisez le moteur à rétrofriction et préparez-vous au départ : go, go, go !
 - Cette application de réalité augmentée LEGO Technic donne vie à la course. Choisissez votre piste et gérez bien l’énergie pour franchir la ligne d’arrivée
+- Ce jouet voiture à rétrofriction constitue un cadeau d’anniversaire idéal pour les garçons et filles qui aiment les voitures Porsche, la Formule E ou les jouets de réalité augmentée
+- Ce jouet de construction Porsche est une réplique originale du modèle réel de la voiture de course Porsche de Formule E, avec même les logos de ses sponsors
+- Téléchargez l’application de réalité augmentée LEGO Technic, scannez le modèle puis lancez la voiture en utilisant votre pied et regardez-la prendre vie dans des courses captivantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BNV6DJX{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE AURA EXOTIQUE : LEau de Parfum pour femme Varens Sweet Grenade Passion vous transporte dans un univers de passion et dexotisme, un paradis où la douceur des fruits caresse la délicatesse des fleurs.
-- SAVOIR-FAIRE FRANÇAIS : Conçus en France avec amour, nos parfums sont le fruit du savoir-faire de Maîtres Parfumeurs. Chaque note reflète lengagement dUlric de Varens envers lexcellence et la qualité.
 - SYMPHONIE GOURMANDE : La fragrance séveille sur une grenade pétillante et du jus dorange, senlace dans le fruit de la passion et la rose confite, et se repose sur la douceur de labricot et des muscs gourmands.
-- ÉCRIN DE SUCRERIE : Le flacon, évoquant la douceur des sucreries, reflète la gourmandise et la tendresse de la fragrance. Son design épuré est un hommage à la simplicité et à lélégance.
+- SAVOIR-FAIRE FRANÇAIS : Conçus en France avec amour, nos parfums sont le fruit du savoir-faire de Maîtres Parfumeurs. Chaque note reflète lengagement dUlric de Varens envers lexcellence et la qualité.
 - 40 ANS DEXPERTISE : Avec plus de 40 ans dexpertise, Ulric de Varens incarne une vision révolutionnaire de la parfumerie. En collaborant avec les plus grands parfumeurs, nous rendons le luxe accessible à chacun, sans compromis sur la qualité.
+- ÉCRIN DE SUCRERIE : Le flacon, évoquant la douceur des sucreries, reflète la gourmandise et la tendresse de la fragrance. Son design épuré est un hommage à la simplicité et à lélégance.
+- UNE AURA EXOTIQUE : LEau de Parfum pour femme Varens Sweet Grenade Passion vous transporte dans un univers de passion et dexotisme, un paradis où la douceur des fruits caresse la délicatesse des fleurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYSDYPW1{{</world>}}

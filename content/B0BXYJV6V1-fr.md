@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formez et améliorez vos escouades grâce à 5 classes de Marines distinctes et des dizaines de combinaisons de spécialités, de compétences et d’armes à expérimenter.
-- Menez votre escouade avec stratégie et adaptez vos tactiques à chaque mission en fonction de l’état de santé de vos Marines, de leur stress et de vos ressources pour minimiser les pertes.
 - Affrontez les mythiques Xénomorphes dans une intrigue Alien inédite : du Facehugger au Prétorien, en passant par la Reine et bien d’autres dangers, dont des commandos de mercenaires et une menace entièrement nouvelle dans l’univers d’Alien.
+- Menez votre escouade avec stratégie et adaptez vos tactiques à chaque mission en fonction de l’état de santé de vos Marines, de leur stress et de vos ressources pour minimiser les pertes.
 - Frayez-vous votre propre chemin en découvrant des raccourcis et en scellant des accès derrière votre passage pour mettre votre escouade hors de danger, ou placez des détecteurs de mouvement pour toujours garder une longueur d’avance.
+- Formez et améliorez vos escouades grâce à 5 classes de Marines distinctes et des dizaines de combinaisons de spécialités, de compétences et d’armes à expérimenter.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BXYJV6V1{{</world>}}

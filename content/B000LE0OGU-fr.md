@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Très grande profondeur de gamme: blanc, couleur, enlevable
-- Etiquettes adhésives APLI-Agipa compatibles avec les différentes imprimantes jet dencre, laser et copieurs du marché : Epson, Canon, HP, Lexmark
-- Etiquettes en papier certifié PEFC
 - Pour plusieurs utilisations : identifier, marquer le prix, signaler, etc. Ces étiquettes sont un produit idéal pour pouvoir imprimer facilement mais aussi pour lécriture manuelle.
-- Etiquettes blanches multi usage 19x38,5 mm. Pochette 16 feuilles A5 multi-usage soit 480 étiquettes. Adhésif permanent.
 - Aucun risque de bourrage grâce à ladhésif résistant aux hautes températures.
+- Etiquettes adhésives APLI-Agipa compatibles avec les différentes imprimantes jet dencre, laser et copieurs du marché : Epson, Canon, HP, Lexmark
+- Etiquettes blanches multi usage 19x38,5 mm. Pochette 16 feuilles A5 multi-usage soit 480 étiquettes. Adhésif permanent.
+- Etiquettes en papier certifié PEFC
 - Passage en imprimante jet dencre, laser, copieur ou écriture manuelle
 - Finition: Mat
 

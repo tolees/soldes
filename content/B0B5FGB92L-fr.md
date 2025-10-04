@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protégez vos gencives avec le capteur de pression iO. Oral-B est la seule marque qui vous indique si vous appliquez la pression parfaite pour un nettoyage sûr et efficace
-- Maximisez votre brossage à chaque fois grâce au minuteur en anneau lumineux iO qui vous aide à respecter le temps de brossage de 2 minutes recommandé par les dentistes, et vous indique quand il est temps de remplacer votre brossette
 - Pour des gencives plus saines en seulement 1 semaine, éliminez jusqu’à 100 % de plaque dentaire en plus et jusqu’à 160 % entre les dents par rapport à une brosse à dents manuelle dotée de la technologie Oral-B la plus avancée
+- Maximisez votre brossage à chaque fois grâce au minuteur en anneau lumineux iO qui vous aide à respecter le temps de brossage de 2 minutes recommandé par les dentistes, et vous indique quand il est temps de remplacer votre brossette
+- Protégez vos gencives avec le capteur de pression iO. Oral-B est la seule marque qui vous indique si vous appliquez la pression parfaite pour un nettoyage sûr et efficace
 - Personnalisez votre brossage en choisissant parmi 4 modes de nettoyage : Propreté, Douceur, Extra Douceur, Blancheur
 - Suivez et améliorez vos habitudes de brossage au fil du temps avec l’application Oral-B grâce à des rapports de performance, des routines et des buts à atteindre
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- One of the greatest collections of Multiplayer maps ever. Launching with new Ground War maps boasting innovative play spaces and the epic return and evolution of the popular War Mode
-- Includes PS5 version of Call of Duty: Modern Warfare III
-- AMAZON EXCLUSIVE BONUS - Call of Duty Endowment Direct Action Pack Bundle included. Bundle includes 3 Call of Duty Endowment (C.O.D.E.) themed in-game items including; Calling Card, Animated Emblem and Weapon Sticker***
 - ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT
+- Includes PS5 version of Call of Duty: Modern Warfare III
 - Combat means making choices — different loadouts, different paths through the mission. Combat missions that provide more player choice. There is no one-size-fits-all solution – it is your choice whether to take the stealthy approach or go loud taking on any and all foes.
+- AMAZON EXCLUSIVE BONUS - Call of Duty Endowment Direct Action Pack Bundle included. Bundle includes 3 Call of Duty Endowment (C.O.D.E.) themed in-game items including; Calling Card, Animated Emblem and Weapon Sticker***
+- One of the greatest collections of Multiplayer maps ever. Launching with new Ground War maps boasting innovative play spaces and the epic return and evolution of the popular War Mode
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFQYJQC7{{</world>}}

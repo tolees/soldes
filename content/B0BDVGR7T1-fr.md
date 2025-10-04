@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - TRIPLE TUNER : tuner DVB-T/T2 pour (TNT) e toute la télévision européenne en clair. Syntoniseur DVB-S2 pour TV HD par satellite. CI + intégré pour les services dabonnement à la télévision payante. DVB-C pour la télévision par câble.
 - Idéal pour : camping-car, caravane, camion, camion, bateaux, maison alimenté en 12 volts CC ou 230 V CA (les deux câbles dalimentation sont inclus). Ladaptateur dalimentation 24 V pour camion/camion est facultatif, veuillez visiter la boutique Unispectra Amazon. Il peut être utilisé comme moniteur HDMI CCTV / PC.
-- NOUVEAU modèle de lannée 2022. TV LED NUMÉRIQUE 22 pouces Full HD 230v / 12v.
-- USB MEDIA PLAYER e PVR: guardare film, visualizzare immagini e ascoltare musica da una memoria USB.
 - VESA 100 x 100 mm par staffa di montaggio a parete. Basse énergétique (17W).
+- USB MEDIA PLAYER e PVR: guardare film, visualizzare immagini e ascoltare musica da una memoria USB.
+- NOUVEAU modèle de lannée 2022. TV LED NUMÉRIQUE 22 pouces Full HD 230v / 12v.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDVGR7T1{{</world>}}

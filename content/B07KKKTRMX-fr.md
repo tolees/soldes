@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Il est possible de le transporter facilement grâce à ses roues et à sa poignée, confortable et ergonomique
 - Monte un moteur électrique avec une puissance de 2,5 HP et une pression maximale de 10 bars
 - Poids : 30,6 kg
 - Dispose dun grand réservoir de 24 litres
-- Il est possible de le transporter facilement grâce à ses roues et à sa poignée, confortable et ergonomique
 - Le D251/10/24S Stanley Fatmax se pose comme le compresseur de référence pour les amateurs et les professionnels qui souhaitent une machine fiable, légère et performante. Elle se distingue par des finitions de qualité supérieure.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

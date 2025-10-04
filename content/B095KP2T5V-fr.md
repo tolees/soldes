@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son équipement intérieur est ultra complet avec moniteur, poste à souder, panneaux de commande et plein daccessoires. Le fourgon peut être utilisé pour toutes les opérations spéciales.
-- Le van est aux couleurs emblématiques de lAgence tous risques, il se reconnait facilement avec son pare-soleil allongé et ses jantes rouges, tout comme le véhicule original de la série.
-- Outre Hannibal, Barracuda, Futé et Looping, le cinquième membre de léquipe nest autre que leur mythique van qui ne les quitte jamais.
-- LAgence tous risques, ce sont quatre anciens soldats délite dans des missions pleines daction.
 - Voici le véhicule de la A-Team avec un intérieur tout-équipé et les légendaires personnages Hannibal, B.A., Face et Murdock
+- Son équipement intérieur est ultra complet avec moniteur, poste à souder, panneaux de commande et plein daccessoires. Le fourgon peut être utilisé pour toutes les opérations spéciales.
+- Outre Hannibal, Barracuda, Futé et Looping, le cinquième membre de léquipe nest autre que leur mythique van qui ne les quitte jamais.
+- Le van est aux couleurs emblématiques de lAgence tous risques, il se reconnait facilement avec son pare-soleil allongé et ses jantes rouges, tout comme le véhicule original de la série.
+- LAgence tous risques, ce sont quatre anciens soldats délite dans des missions pleines daction.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095KP2T5V{{</world>}}

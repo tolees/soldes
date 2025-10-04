@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Schott Nyc Blouson Textile Homme mi-saison
-- entretien: lavage machine 30°
 - 65% polyester/35% cotton
 - Coupe : standard
+- Schott Nyc Blouson Textile Homme mi-saison
 - Logo poitrine brodé 2 poches latérales & 2 poches intérieures Finitions poignets et taille en bord côte
+- entretien: lavage machine 30°
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VMS77ZD{{</world>}}

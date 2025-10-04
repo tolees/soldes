@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur du colis de larticle: 195 mm
-- Poids du colis de larticle: 0.26 Kg
-- Longueur du colis de larticle: 340 mm
 - Hauteur du colis de larticle: 130 mm
+- Longueur du colis de larticle: 340 mm
+- Poids du colis de larticle: 0.26 Kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07STLQNX5{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Grande puissance de 2400 W pour éliminer la saleté la plus tenace rapidement et efficacement. Pression maximale admise de 180 bars. Idéal pour les terrasses, balcons, patios et bords de piscine.
+- Pompe HardPump en aluminium pour une fiabilité accrue permettant des temps dutilisation supérieurs à ceux des pompes en matériaux composites grâce à une moindre fatigue. Grande poignée pour transporter le nettoyeur haute pression sans effort et effectuer confortablement des tâches nécessitant des déplacements.
 - Connexion rapide et facile du tuyau haute pression et de la lance au pistolet grâce au système iClick. Gâchette avec système Auto Start-Stop pour plus de sécurité et de contrôle. Protège le moteur et économise de leau. Transport facile grâce à sa poignée et ses roues.
 - Rayon de 14 mètres pour une utilisation confortable et une totale liberté de mouvement. Filtre anti-impuretés qui aide à connecter rapidement et facilement le tuyau deau au nettoyeur haute pression.
-- Grande puissance de 2400 W pour éliminer la saleté la plus tenace rapidement et efficacement. Pression maximale admise de 180 bars. Idéal pour les terrasses, balcons, patios et bords de piscine.
 - Débit maximum de 480 litres/heure qui permet de nettoyer une plus grande surface en moins de temps. Nettoyer la voiture ou la terrasse est plus rapide que jamais. Bouteille réglable pour savon moussant réglable.
-- Pompe HardPump en aluminium pour une fiabilité accrue permettant des temps dutilisation supérieurs à ceux des pompes en matériaux composites grâce à une moindre fatigue. Grande poignée pour transporter le nettoyeur haute pression sans effort et effectuer confortablement des tâches nécessitant des déplacements.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZ8GVB6G{{</world>}}

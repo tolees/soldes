@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détails de la marque PUMA sur létiquette de la tige, du talon et de la languette
+- Semelle intercalaire empilée en caoutchouc
 - Bande PUMA sur le côté
 - Semelle extérieure en caoutchouc
-- Semelle intercalaire empilée en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BLCPJWTY{{</world>}}

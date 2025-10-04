@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Produit sous licence officielle de Nintendo avec garantie de deux ans (voir PowerA.com/Support)
-- Dune prise audio de 3,5 mm
-- Fonctionne sans piles
 - De boutons de jeu avancé mappables
+- Dune prise audio de 3,5 mm
 - Câble USB détachable de 3 m
+- Fonctionne sans piles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JDSK7FL{{</world>}}

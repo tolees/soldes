@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facilite le brushing
-- Produit neuf
 - Répare les cheveux secs et abîmés
+- Produit neuf
 - 10 effets différents
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

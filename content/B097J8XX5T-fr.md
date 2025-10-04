@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appliquer le shampoing sur lensemble de la chevelure. Masser le cuir chevelu. Rincer et appliquer le masque Blondifier pour un résultat optimal.
-- Le shampoing professionnel Blondifier Gloss est composé dextraits de baie daçaï aux bienfaits antioxydants et protecteurs. Spécialement formulé pour les cheveux blonds ternes et abîmés par les décolorations, il répare en douceur et en profondeur la fibre et la protège des agressions extérieures.
 - Il lave les cheveux en douceur et rehausse les reflets blonds. Nourrissant, il fortifie la fibre capillaire pour rendre vos cheveux brillants.
+- Le shampoing professionnel Blondifier Gloss est composé dextraits de baie daçaï aux bienfaits antioxydants et protecteurs. Spécialement formulé pour les cheveux blonds ternes et abîmés par les décolorations, il répare en douceur et en profondeur la fibre et la protège des agressions extérieures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097J8XX5T{{</world>}}

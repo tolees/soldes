@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour une couleur intense longue durée, couvre 100 % des cheveux blancs, des cheveux plus doux et plus brillants, un confort optimal du cuir chevelu
-- Garnier Olia 3.0 Nero Naturale
 - Conseils dutilisation : appliquer sur les zones où les cheveux sont plus blancs, laissez agir 30 minutes, rincez à leau tiède et appliquez laprès-shampoing Brillance & Soie Effectuez le test dallergie 48 heures avant utilisation
 - Contenu : 1 coloration pour cheveux Garnier Olia Midnight, couleur : noir naturel, le kit comprend : 1 x crème détectrice, 1 x tube de couleur, 1 x après-shampoing lumière et soie sans silicone
+- Garnier Olia 3.0 Nero Naturale
+- Pour une couleur intense longue durée, couvre 100 % des cheveux blancs, des cheveux plus doux et plus brillants, un confort optimal du cuir chevelu
 - Technologie O.D.S : coloration composée de 60 % dhuiles qui infusent la couleur à lintérieur de la fibre capillaire, formule végétalienne, sans silicone, sans ammoniaque
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

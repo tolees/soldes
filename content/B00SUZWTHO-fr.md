@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5197 - Valisette bébé lapin et chaise bébé'
-date: 2025-09-24 11:53:18
+date: 2025-10-04 12:20:13
 image: 'https://m.media-amazon.com/images/I/31zSz4xfTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B00SUZWTHO/?tag=tolees0d-21'
 descuento: '33.26'
-average: '8.59666666666664'
+average: '7.94749999999998'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Descriptif produit: Valisette bébé lapin Sylvanian avec sa chaise Bébé
-- Couleur: Multicolore
 - Age range description: De 3 à 99 ans
+- Couleur: Multicolore
 - A partir de 3 ANS
 - Dimensions de lemballage de larticle: 6.2 L x 9.1 H x 8.9 W (centimeters)
 - Item package quantity: 1.0

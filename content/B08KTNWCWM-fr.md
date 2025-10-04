@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu du packaging : 1 PLAYMOBIL Porsche Mission E, ensemble de 22 figurines avec instructions : 1 voiture, 2 modules RC, 1 émetteur portatif, 1 figurine et les petites pièces associées (à lexception de 4 micropiles AAA de 1,5 V pour le véhicule/à lexclusion de 3 piles micro AAA de 1,5 V pour lémetteur), matériau : plastique, LxPxH du véhicule : 27,5 x 11 x 7,5 cm, poids : 609 g, 70765
 - Peut être utilisé au quotidien : conception robuste et de haute qualité, nettoyage des pièces (sans autocollants) à leau courante sans produits chimiques
 - Ne peut être joué quavec les modules RC inclus, lémetteur portatif (portée 10 m) pour contrôler la lumière, la vitesse, la direction, le toit amovible et bien plus encore.
-- Plaisir de conduire rapide : PLAYMOBIL Porsche Mission E comprenant 2 modules RC, une borne de recharge, un éclairage avant et arrière et un conducteur
 - Ensemble de figurines pour enfants à partir de 5 ans : idéal pour les mains des enfants grâce à sa taille adaptée à son âge et à son toucher agréable avec ses bords arrondis
+- Contenu du packaging : 1 PLAYMOBIL Porsche Mission E, ensemble de 22 figurines avec instructions : 1 voiture, 2 modules RC, 1 émetteur portatif, 1 figurine et les petites pièces associées (à lexception de 4 micropiles AAA de 1,5 V pour le véhicule/à lexclusion de 3 piles micro AAA de 1,5 V pour lémetteur), matériau : plastique, LxPxH du véhicule : 27,5 x 11 x 7,5 cm, poids : 609 g, 70765
+- Plaisir de conduire rapide : PLAYMOBIL Porsche Mission E comprenant 2 modules RC, une borne de recharge, un éclairage avant et arrière et un conducteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08KTNWCWM{{</world>}}

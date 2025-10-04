@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombre de programmes de points 10
-- Tension du fil Oui
 - Porte -canette métallique Oui
 - Nombre de points 18.Livré avec Boîte à couture
-- Griffe dentrainement à 6 têtes Oui
-- Plan de travail éclairé Oui
-- Boutonnière Automatique 4 étapes.Fonctions spécifiques.Rhéostat électronique
+- Tension du fil Oui
 - Bras libre Oui.Puissance 85 watts
+- Boutonnière Automatique 4 étapes.Fonctions spécifiques.Rhéostat électronique
 - Type denfilage Simplifié
+- Plan de travail éclairé Oui
 - Longueur du point Oui
+- Griffe dentrainement à 6 têtes Oui
+- Nombre de programmes de points 10
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001CBZB5K{{</world>}}

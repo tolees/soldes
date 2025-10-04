@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boîtier de 14 mm, largeur de bande de 10 mm, cristal minéral, mouvement à quartz avec affichage analogique à 2 aiguilles, importé
 - Boîte ronde en acier inoxydable, cadran doré
 - Or, bracelet en acier inoxydable
-- Boîtier de 14 mm, largeur de bande de 10 mm, cristal minéral, mouvement à quartz avec affichage analogique à 2 aiguilles, importé
 - Étanchéité jusquà 50 m : Peut être porté lors de la baignade en eau peu profonde
 
 [🛒 Achète-le!!]({{< param buyurl >}})

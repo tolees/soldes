@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En coton agréable.
 - Composition : 100 % coton.
-- Tricot étroit.
 - Petite étiquette au look denim sur le côté.
+- Tricot étroit.
+- En coton agréable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CG3M7BX{{</world>}}

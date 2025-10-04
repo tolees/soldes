@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité :oui
 - Longueur du cable :3
+- Compatibilité :oui
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00PKHQV2Y{{</world>}}

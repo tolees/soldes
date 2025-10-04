@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coutures à 360° pour plus de durabilité
-- Extra léger XL pour plus de légèreté et dabsorption des chocs
 - Semelle extérieure en EVA : légère
+- Coutures à 360° pour plus de durabilité
 - Bottes moyennes en dentelle avec semelles extérieures en EVA
+- Extra léger XL pour plus de légèreté et dabsorption des chocs
 - Fermeture éclair latérale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

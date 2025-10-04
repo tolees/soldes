@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps entier en aluminium destiné à laviation
-- Interrupteurs mécaniques HyperX
 - Personnalisation avancée à laide du logiciel HyperX NGenuity
 - Conception compacte et portable avec cble USB Type-C amovible
+- Interrupteurs mécaniques HyperX
+- Corps entier en aluminium destiné à laviation
 - Effets lumineux RGB remarquable avec effets dynamiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

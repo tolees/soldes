@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : cuir (cuir de vache)
-- Semelle extérieure : semelle extérieure en EVA pour un poids léger
 - Coutures tout autour pour une longue durée de vie
+- Semelle extérieure : semelle extérieure en EVA pour un poids léger
+- Matériau extérieur : cuir (cuir de vache)
 - XL EXTRALIGHT pour plus de légèreté et damortissement des chocs
 - Couleur : noir
 

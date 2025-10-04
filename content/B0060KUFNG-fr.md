@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour couleurs à lhuile, acryliques, vinyliques, gouache -> multi-technique
-- Existe en format figure et paysage
 - Préparation universelle
 - Existe en plusieurs dimensions
+- Existe en format figure et paysage
+- Pour couleurs à lhuile, acryliques, vinyliques, gouache -> multi-technique
 - Prêt à lemploi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kånken
-- 021-Fog
-- Vêtements de sport et de léquipement
-- De haute qualité et un confort maximum
 - Accessoires
+- De haute qualité et un confort maximum
+- Vêtements de sport et de léquipement
+- 021-Fog
+- Kånken
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00F17A8JK{{</world>}}

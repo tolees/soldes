@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Han Solo et Chewbacca dun côté
-- Produit inspiré de la saga Star Wars
-- Emblème de lAlliance rebelle de lautre
-- Produit créé pour Disney Store
 - Intérieur et anse contrastants
+- Produit créé pour Disney Store
+- Emblème de lAlliance rebelle de lautre
+- Produit inspiré de la saga Star Wars
+- Han Solo et Chewbacca dun côté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1GD3ZN7{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Système de fermeture à crochet
-- Certifiées par le Leather Working Group
 - Semelle extérieure: caoutchouc pour une adhérence extraordinaire (20% recyclé)
+- Certifiées par le Leather Working Group
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZVPF2N6{{</world>}}

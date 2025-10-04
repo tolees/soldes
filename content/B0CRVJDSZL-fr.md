@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous pourrez brandir votre Joy-Con comme un vrai sabre pour combattre des démons surpuissants !
-- Devenez un pourfendeur de démon intrépide en interprétant les personnages les plus iconiques de la licence !
 - L’univers de Demon Slayer dans un jeu de plateau palpitant !
+- Vous pourrez brandir votre Joy-Con comme un vrai sabre pour combattre des démons surpuissants !
 - Jouable jusqu’à 4 en local, disputez des parties effrénées avec vos amis autour de mini-jeux et affrontez des démons dès la tombée de la nuit !
+- Devenez un pourfendeur de démon intrépide en interprétant les personnages les plus iconiques de la licence !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRVJDSZL{{</world>}}

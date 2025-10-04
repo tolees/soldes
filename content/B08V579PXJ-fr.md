@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Il y a même des places de parking dans les piliers de soutien de la piste pour ranger facilement vos véhicules !
-- Passez du virtuel au réel avec ce coffret Route Arc-en-ciel Mario Kart de Hot Wheels qui donne vie au circuit le plus emblématique de la franchise !
-- Cette piste arc-en-ciel mesure 2,40 m de long et jusqu’à 60 cm de haut pour un maximum de sensations fortes, et s’accompagne de sons et lumières pour des courses encore plus impressionnantes !
-- Grâce aux éléments de piste droits et incurvés, créez différentes courses, contrôlées par départ électronique et ligne d’arrivée indiquant le vainqueur !
-- Faites la course dès l’ouverture du coffret grâce aux 2 véhicules Mario Kart à l’échelle 1/64 inclus : un kart Roi Boo exclusif et un kart Mario !
 - Et les obstacles propres à Mario Kart ? Une ligne de boîtes à objets avec des éléments pop-up ainsi que des figurines moulées en 3D et des décorations rendent la course encore plus palpitante !
+- Grâce aux éléments de piste droits et incurvés, créez différentes courses, contrôlées par départ électronique et ligne d’arrivée indiquant le vainqueur !
+- Cette piste arc-en-ciel mesure 2,40 m de long et jusqu’à 60 cm de haut pour un maximum de sensations fortes, et s’accompagne de sons et lumières pour des courses encore plus impressionnantes !
+- Passez du virtuel au réel avec ce coffret Route Arc-en-ciel Mario Kart de Hot Wheels qui donne vie au circuit le plus emblématique de la franchise !
+- Faites la course dès l’ouverture du coffret grâce aux 2 véhicules Mario Kart à l’échelle 1/64 inclus : un kart Roi Boo exclusif et un kart Mario !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08V579PXJ{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour lécole
 - Livret avec reliure en spirale
-- dont certains avec des finitions spéciales
 - contenant plus de 1000 autocollants à lintérieur
+- Idéal pour lécole
+- dont certains avec des finitions spéciales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C7R3RRJ2{{</world>}}

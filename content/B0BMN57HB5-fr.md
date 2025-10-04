@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible Deezer, Spotify, Amazon Music
-- WiFi connexion a linternet
 - Notre toute dernière mise à jour de la radio intelligente emblématique de la gamme Revival
+- WiFi connexion a linternet
 - DAB+/ FM/ DAB recepteurs
 - Connexions Bluetooth et USB
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Acier trempé
 - Pièces dans le set : huit pcs.
 - Poignée en T
 - Acier chrome vanadium extra-fin, satiné mat, chromé
 - TX-TORX percé
-- Acier trempé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007XUL1MQ{{</world>}}

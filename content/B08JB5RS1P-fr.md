@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Objectif zoom standard pour appareil photo plein format avec une qualité dimage élevée
 - Ne pèse que 167 g
+- Objectif zoom standard le plus compact et le plus léger pour les appareils photo plein format au monde
 - Convient pour les appareils photo plein format
 - Dimensions de lemballage de larticle: 12.4 L x 15.8 H x 15.5 W (centimeters)
-- Objectif zoom standard le plus compact et le plus léger pour les appareils photo plein format au monde
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JB5RS1P{{</world>}}

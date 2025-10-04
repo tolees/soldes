@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tricot slim
-- Lavage de la machine, demi-charge, cycle de spin court à 40 ° C
 - 100% Coton
 - Petit étiquette de look denim sur le côté
+- Tricot slim
+- Lavage de la machine, demi-charge, cycle de spin court à 40 ° C
 - Fabriqué à partir de coton confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SENSIBILITÉS (DB/MW): 100 dB/mW
-- Longueur du cordon: 1,2 m
-- Taille daffichage: 2.4 pouces
+- Diaphragmes en néodyme de 9 mm
+- Disponible dans différents coloris
 - Capacité: 100 mW
 - Ecouteurs intra-auriculaires avec diaphragme 9 mm 8 Hz – 22 kHz, oreillettes en silicone, choix de coloris
-- Disponible dans différents coloris
+- Longueur du cordon: 1,2 m
 - Gamme de fréquences effective 8 Hz – 22 kHz
-- Diaphragmes en néodyme de 9 mm
+- Taille daffichage: 2.4 pouces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00I3LV1HE{{</world>}}

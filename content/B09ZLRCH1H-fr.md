@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AUTONOMIE DE BATTERIE ILLIMITÉE - 2 batteries interchangeables à la volée pour ne jamais avoir à sarrêter de jouer, avec une batterie de secours toujours en charge dans la station sans fil.
-- PORTÉ PAR LES CHAMPIONS - Faker, Rain et James Baldwin utilisaient lArctis Nova Pro Wireless quand ils ont remporté leurs plus belles victoires. Faites comme eux.
-- PRÉRÉGLAGES AUDIO EMBARQUÉS - Utilisez en un clin dœil des réglages audio optimisés par des ingénieurs du son et des joueurs professionnels, directement depuis lécran OLED de la station. Inclut des profils pour Fortnite, Minecraft, Apex Legends et bien plus encore.
 - """HAUT-PARLEURS MAGNÉTIQUES EN NÉODYME - Entendez tout ce que vous souhaitez avec un son ultra-détaillé : aigus cristallins, médiums précis et basses profondes. *Entièrement compatible avec Tempest 3D Audio pour PS5 / Microsoft Spatial Sound"""
 - ÉLIMINATION ACTIVE DU BRUIT DE FOND - Détecte et supprime automatiquement tout bruit perturbant autour de vous pour se concentrer pleinement sur le jeu. Le mode Transparence a niveaux variables permet de s’adapter dans toutes les situations.
+- PRÉRÉGLAGES AUDIO EMBARQUÉS - Utilisez en un clin dœil des réglages audio optimisés par des ingénieurs du son et des joueurs professionnels, directement depuis lécran OLED de la station. Inclut des profils pour Fortnite, Minecraft, Apex Legends et bien plus encore.
+- AUTONOMIE DE BATTERIE ILLIMITÉE - 2 batteries interchangeables à la volée pour ne jamais avoir à sarrêter de jouer, avec une batterie de secours toujours en charge dans la station sans fil.
+- PORTÉ PAR LES CHAMPIONS - Faker, Rain et James Baldwin utilisaient lArctis Nova Pro Wireless quand ils ont remporté leurs plus belles victoires. Faites comme eux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZLRCH1H{{</world>}}

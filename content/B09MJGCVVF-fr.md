@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faites glisser les coiffures, hauts, bas et chaussures que vous avez conçus dans le dossier, retournez les côtés et créez ainsi un nouveau look chaque jour
-- Un atelier complet pour créer un dossier de design de mode avec des tenues pour femmes et hommes
-- Allumez la lampe, choisissez une silhouette corporelle, dessinez la tenue à laide des pochoirs et créez du volume en utilisant les accessoires inclus
 - Mode demploi illustré en couleur. À partir de 8 ans
 - Comprend de nombreux accessoires : marqueurs magiques, tissus adhésifs à colorier, crayons aquarelle, lampe LED, 2 poinçons, strass, rubans...
+- Allumez la lampe, choisissez une silhouette corporelle, dessinez la tenue à laide des pochoirs et créez du volume en utilisant les accessoires inclus
+- Faites glisser les coiffures, hauts, bas et chaussures que vous avez conçus dans le dossier, retournez les côtés et créez ainsi un nouveau look chaque jour
+- Un atelier complet pour créer un dossier de design de mode avec des tenues pour femmes et hommes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MJGCVVF{{</world>}}

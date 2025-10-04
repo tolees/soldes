@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Télescope à miroir compact pour les enfants à partir de 8 ans
 - Inclus: Télescope, 2 oculaires (6 mm/20 mm), filtre lunaire, autocollants
 - Ouverture : 76 mm ; Focale : 300 mm
-- Télescope à miroir compact pour les enfants à partir de 8 ans
 - Dimensions : 210 x 210 x 290 mm ; Poids : 1460 grammes
 - Support de table Dobson azimutal convivial
 

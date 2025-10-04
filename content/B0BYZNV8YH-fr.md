@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet rigide or acier inoxydable
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
-- Mouvement à quartz à 2 aiguilles
 - Épaisseur du boîtier 8,1mm / Diamètre du boîtier 35 mm
+- Mouvement à quartz à 2 aiguilles
+- Bracelet rigide or acier inoxydable
 - Cadran argent blanc avec la partie droite du cadran dun effet texturé verticale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

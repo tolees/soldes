@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DIMENSIONS : 27,5x7,5cm
 - ENTRETIEN : Le produit ne passe pas au lave-vaisselle mais son revêtement garantit un lavage facile à leau chaude et au liquide vaisselle
-- COMPOSITION : Fonte daluminium
 - LE PETIT + : Démoulez vos gâteaux facilement grâce aux propriétés anti-adhésives supérieures du revêtement et disposez facilement le moule dans votre four avec sa grille de support incluse
 - DESCRIPTION : Dr Oetker vous propose ce moule en aluminium à forme de sapin décoré pour réaliser de magnifiques gâteaux à inspiration de Noël
+- DIMENSIONS : 27,5x7,5cm
+- COMPOSITION : Fonte daluminium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08LZCFB2J{{</world>}}

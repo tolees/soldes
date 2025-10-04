@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Port Ethernet Gigabit】- Avec son port Ethernet gigabit, le RE450 peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
 - 【Étendez votre couverture】- Les 3 antennes externes de RE450 augmentent la couverture Wi-Fi jusquà 140 m² et connectent jusquà 20 appareils tels que des smartphones, des tablettes, des PC, etc.
 - 【Compatibilité universelle & installation simple】- Compatible avec tous les box Internet et routeurs Wi-Fi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
+- 【Port Ethernet Gigabit】- Avec son port Ethernet gigabit, le RE450 peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

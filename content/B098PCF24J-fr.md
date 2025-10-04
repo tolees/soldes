@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - LIGHTWEIGHT
 - Facile à installer
-- ETRA DURABLE INTERDIENTS
 - RECYCLED
+- ETRA DURABLE INTERDIENTS
 - GOOD GRIP
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

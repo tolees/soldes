@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RÉSISTANT. Cet objectif est étanche à la poussière et aux gouttes d’eau. Le traitement au fluor de Nikon sur la lentille avant repousse la saleté et facilite le nettoyage.
+- IDÉAL POUR LA VIDÉO. L’autofocus est fluide et silencieux sans quasiment aucun focus-breathing ou décalage de mise au point.
 - DES GROS PLANS MAGNIFIQUES. Une faible distance minimale de mise au point de 0,35 m sur toute la plage de focales et un rapport de reproduction maximal de 0,39 vous permettent de restituer tous les détails.
 - GRANDE CLARTÉ. Les traitements nanocristal et ARNEO permettent de réduire les images fantômes et lumières parasites qui se forment quand les sources lumineuses sont multiples.
-- IDÉAL POUR LA VIDÉO. L’autofocus est fluide et silencieux sans quasiment aucun focus-breathing ou décalage de mise au point.
 - OUVERTURE MAXIMALE CONSTANTE DE F/4. Profitez d’une exposition cohérente sur toute la plage de focales pour les photos ou les vidéos.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

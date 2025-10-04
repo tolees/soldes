@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Branding tommy jeans
 - Patte de boutonnage à deux boutons
+- Col polo
 - Écusson drapeau tommy jeans sur la poitrine
 - Piqué de pur coton
-- Col polo
+- Branding tommy jeans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DK291DF6{{</world>}}

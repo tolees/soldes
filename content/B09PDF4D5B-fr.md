@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LOISIR CREATIF : Ces puzzles en 3 dimensions sont pensées pour les fans de lunivers dHarry Potter, pour les fans dHarry Potter. Ils constituent un loisir créatif original, qui demande uniquement de la patience
-- DES PUZZLES DETAILLES : Bijoux darchitecture, ils sont restitués avec un maximum de détails, à la portée des fans, dès 8 ans. Le puzzle 3D contient environs 90 pièces numérotées.
-- UNE SCENE EMBLEMATIQUE : Retrouvez un lieu emblématique de la saga Harry Potter : le magasin daccessoires de Quidditch
 - DES PUZZLES DE HAUTE QUALITE : Plus que des puzzles, ce sont de véritables scènes de la saga que vous pouvez construire. Fabriquées en papier prédécoupé de très haute qualité, les pièces numérotées vous permettent de monter des bâtiments et des éléments en 3D, sans colle ni outils. Assemblez-les, étape après étape, pour obtenir des objets de toute beauté, à exposer partout dans la maison
+- UNE SCENE EMBLEMATIQUE : Retrouvez un lieu emblématique de la saga Harry Potter : le magasin daccessoires de Quidditch
+- LOISIR CREATIF : Ces puzzles en 3 dimensions sont pensées pour les fans de lunivers dHarry Potter, pour les fans dHarry Potter. Ils constituent un loisir créatif original, qui demande uniquement de la patience
 - IDEE CADEAU : un cadeau parfait pour les enfants à partir de 8 ans ainsi que pour les fans de la saga !
+- DES PUZZLES DETAILLES : Bijoux darchitecture, ils sont restitués avec un maximum de détails, à la portée des fans, dès 8 ans. Le puzzle 3D contient environs 90 pièces numérotées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09PDF4D5B{{</world>}}

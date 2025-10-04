@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Partez pour le périple le plus déjanté de votre vie avec it takes two un jeu de plateformes/aventure transcendant les genres créé exclusivement pour la coopération
 - Bourré de défis transcendant les genres et de s compétences à maîtriser dans chaque niveau It Takes Two vous plongera dans une union métaphorique entre système de jeu et scénario qui repousse les frontières de la narration interactive
 - Invitez une autre personne à jouer gratuitement avec le pass ami** et relevez à deux une multitude de défis amusants et originau
 - Incarnez cody et may un couple au bord de la rupture transformé en poupées par un sortilège
+- Partez pour le périple le plus déjanté de votre vie avec it takes two un jeu de plateformes/aventure transcendant les genres créé exclusivement pour la coopération
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QWFP985{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Eau de Cologne à la fraîcheur intemporelle associant huiles essentielles et ingrédients de qualité dans un flacon Molanus emblématique
-- En savoir plus : LEau de Cologne Originale 4711 est disponible en plusieurs formats
 - Eau de Cologne Originale 4711 : revigorante, relaxante, stimulante et apaisante
 - Des notes hespéridées et fruitées conjuguées aux huiles essentielles vivifiantes sajoutent à la touche revigorante du néroli et à une chaleur poivrée et relaxante.
+- En savoir plus : LEau de Cologne Originale 4711 est disponible en plusieurs formats
 - Eau de Cologne Originale 4711 rafraîchit, avec un effet bienfaisant sur le corps et lesprit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

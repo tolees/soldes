@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manufacture swirl chandelier
-- Numéro d’article: 11-3794-0840
 - Villeroy & Boch
+- Numéro d’article: 11-3794-0840
+- Manufacture swirl chandelier
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PRRC531{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gants de jardinage polyvalents avec enduction polyuréthane pour les petits travaux de jardinage
-- DEXTERITE : un maximum de dextérité et de précision grâce à leur textile ultra souple en polyamide
-- Dos aéré pour limiter la transpiration
 - TAILLES: Disponible en S, M, L et XL
 - Lot de 3 paires de gants : 1 paire violette, 1 paire rose, 1 paire bleue
+- Dos aéré pour limiter la transpiration
+- DEXTERITE : un maximum de dextérité et de précision grâce à leur textile ultra souple en polyamide
+- Gants de jardinage polyvalents avec enduction polyuréthane pour les petits travaux de jardinage
 - CONFORT: Dos aéré permettant de garder vos mains au sec.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

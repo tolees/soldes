@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couvercle de conservation conçu pour cuve multicuiseur Cookeo
 - Lavable et réutilisable
 - Se clipse en quelques secondes sur votre cuve
+- Couvercle de conservation conçu pour cuve multicuiseur Cookeo
 - Permet de conserver toutes les saveurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produits de beauté
-- Permanentes et texturisant
-- Type de cheveu : tous types de cheveux
 - Marqu : revlon
-- Genr : unisexe adulte
-- Genr : unisexe adulte
 - Marque revlon
+- Produits de beauté
+- Type de cheveu : tous types de cheveux
+- Permanentes et texturisant
 - Marqu : revlon
+- Genr : unisexe adulte
+- Genr : unisexe adulte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B075B4DVYS{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
-- Un véritable attrape-loeil pour chez vous!
 - Marchandises fun et de fans
+- Un véritable attrape-loeil pour chez vous!
+- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
 - Votre pièce favorite EMP!
 - Gothic, Horreur
 

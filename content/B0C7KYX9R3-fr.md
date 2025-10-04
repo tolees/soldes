@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Repose-poignet magnétique en similicuir moelleux avec éclairage sous-jacent pour un plus grand confort de jeu et plus de style: Conçu pour offrir un meilleur soutien pendant les longues sessions de jeu, le repose-poignet est doux, rembourré et doté de la technologie Razer Chroma RGB, qui s’aligne parfaitement avec l’éclairage sous-jacent du clavier.
 - Molette de commande Razer et 8 touches de macro dédiées pour un maximum de commandes au bout de vos doigts: Prenez le contrôle sur votre setup en assignant une fonction personnalisée à la molette programmable du clavier. Optimisez vos commandes en jeu avec des combinaisons indispensables grâce à un ensemble de touches dédiées aux macros.
-- Razer Snap Tap - Donnez la priorité à la dernière entrée entre deux touches sélectionnées sans avoir à relâcher la précédente, et profitez d’entrées plus réactives pour des changements de direction quasi instantanés dans les jeux FPS (dernière mise à jour du firmware requise)
+- Touches ABS à double injection pour une meilleure résistance à un usage intensif: Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent pas, les touches ont également des parois plus épaisses qui les rendent extrêmement résistantes même après de longues sessions de jeux.
 - Switches mécaniques jaunes Razer pour une exécution rapide, fluide et silencieuse: Un point dactivation identique au point de réinitialisation, à 1.2mm, et une force dactionnement de 45g seulement offriront des frappes instantanées et silencieuses grâce aux silentblocs intégrés.
 - Molette multifonction et 4 touches multimédia pour un contrôle pratique: Profitez d’un confort ultime tout en vous divertissant : mettez en pause, jouez, passez et modifiez absolument tout, de la luminosité au volume.
-- Touches ABS à double injection pour une meilleure résistance à un usage intensif: Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent pas, les touches ont également des parois plus épaisses qui les rendent extrêmement résistantes même après de longues sessions de jeux.
+- Razer Snap Tap - Donnez la priorité à la dernière entrée entre deux touches sélectionnées sans avoir à relâcher la précédente, et profitez d’entrées plus réactives pour des changements de direction quasi instantanés dans les jeux FPS (dernière mise à jour du firmware requise)
+- Repose-poignet magnétique en similicuir moelleux avec éclairage sous-jacent pour un plus grand confort de jeu et plus de style: Conçu pour offrir un meilleur soutien pendant les longues sessions de jeu, le repose-poignet est doux, rembourré et doté de la technologie Razer Chroma RGB, qui s’aligne parfaitement avec l’éclairage sous-jacent du clavier.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7KYX9R3{{</world>}}

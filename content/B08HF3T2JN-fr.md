@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sac dartisanat Premium pour le transport et le stockage
 - 1 Sac pour la Machine,66 cm x 23,5 cm x 23,5 cm (26" x 9,25" x 9,25")
 - Une excellente protection pour toutes les machines de découpe Cricut
+- Sac dartisanat Premium pour le transport et le stockage
 - Conçu pour sempiler parfaitement avec la valise à roulettes pour matériel de crafting
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

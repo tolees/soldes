@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certifiée Intel XMP 3.0
 - Un potentiel doverclocking extrême
+- Conçue pour des performances optimales
+- Certifiée Intel XMP 3.0
 - Effets lumineux RGB dynamiques et personnalisables
 - Kingston FURY Infrared Sync Technology brevetée
-- Conçue pour des performances optimales
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJC7BNHP{{</world>}}

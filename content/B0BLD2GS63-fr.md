@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de produit: VACUUM CLEANER
 - Marque: Cecotec
+- Type de produit: VACUUM CLEANER
 - Cecotec Aspirateur de Solides et Liquides sans Sacs Wet&Dry T. 1400 W, 7 Mètres de Rayon dAction, Capacité de 15 L, Filtre HEPA et Filtre à Eau, Réglage de la Puissance, Souffleur, 5 Accessoires
 
 [🛒 Achète-le!!]({{< param buyurl >}})

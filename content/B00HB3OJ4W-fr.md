@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sachet alimentaire
-- Matière : PE 50µ
 - Permet de conserver de manière hygiénique des objets
+- Matière : PE 50µ
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HB3OJ4W{{</world>}}

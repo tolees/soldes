@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Non étanche
-- Matériau extérieur : tissu
 - Forme du talon : plat
+- Matériau extérieur : tissu
 - Fermeture : éthylène-acétate de vinyle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

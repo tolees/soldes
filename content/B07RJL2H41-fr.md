@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU ENFANT : A partir de 6 ans, de 2 à 6 joueurs.
 - JEU DE VOYAGE : Etui plastique idéal pour transporter ton Top Trumps partout !
+- JEU ENFANT : A partir de 6 ans, de 2 à 6 joueurs.
 - DUREE DE LA PARTIE : 10 minutes environ.
 - JEU DE SOCIETE : TOP TRUMPS - HARRY POTTER - Jouez, comparez et remportez toutes les cartes grâce aux caractéristiques de vos personnages préférés de la saga Harry Potter ! Au travers de cartes hautes en couleurs et riches en informations, découvrez les points forts de vos héros, tout en vous amusant le temps d’une partie.
 - JEUX DE CARTES : 30 cartes sur le thème dHarry Potter + les règles du jeu.

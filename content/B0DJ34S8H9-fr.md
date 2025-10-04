@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - - Weight: 190 g
-- - Dimensions: Unfolded: 167.5 x 74 x 7.6 mm
-- - Type: Smartphone
 - - Network Technology: GSM / HSPA / LTE /5G
+- - Dimensions: Unfolded: 167.5 x 74 x 7.6 mm
 - - Sim-type: Nano-SIM
+- - Type: Smartphone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJ34S8H9{{</world>}}

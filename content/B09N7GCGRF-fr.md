@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige est dédié à Spider-Man
 - Réalisé en tissu
+- Tige est dédié à Spider-Man
 - Matière à effet cuir imprimé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

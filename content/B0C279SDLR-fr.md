@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8806094853261
 - UE43CU7172U
+- 8806094853261
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C279SDLR{{</world>}}

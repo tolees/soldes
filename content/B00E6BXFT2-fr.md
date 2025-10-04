@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Motif solide
+- Bout fermé
 - Bandes élastiques : facile à installer.
 - Fermeture : à enfiler
-- Bout fermé
-- Motif solide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00E6BXFT2{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Collection ICE jewellery
 - Le concept ICE jewellery crée le plaisir d’assortir ! Les couleurs des modèles stars dIce-Watch se déclinent maintenant en bracelet ! Succombez à la tendance des chaînes XL. Léger, souple, et facile à porter. On peut l’arborer en solo ou en duo, le préférer ton sur ton ou former, au contraire, un camaïeu. Chaque bracelet est présenté dans un coffret exactement assorti et dans sa pochette de tissu noir siglée en lettres dorées ICE jewellery.
-- Bracelet coloré en acétate avec chaine en acier inoxydable et médaille plaqués or
 - Bracelet léger et souple dune longueur entre 19cm et 21cm
 - Résistant aux éclaboussures mais ne peut être entièrement immergé.
-- Collection ICE jewellery
+- Bracelet coloré en acétate avec chaine en acier inoxydable et médaille plaqués or
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1QNNS5R{{</world>}}

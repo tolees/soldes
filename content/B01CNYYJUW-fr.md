@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pointe bloquée et robuste ogive 2 mm, pour une écriture nette et lisible
-- Séchage rapide sur le support, idéal pour les gauchers
+- Encre DRY SAFE : le marqueur peut rester ouvert plusieurs jours sans sécher
 - Contenu du produit : 8 marqueurs (orange, rose, rouge, violet, bleu, vert, marron, noir) pour un effet lumineux longue durée sous étui chevalet pratique à emporter partout
 - Effaçable à sec sur les tableaux blancs, ardoises effaçables et surfaces lisses telles que le verre, l’émail, la porcelaine sans laisser de trace
-- Encre DRY SAFE : le marqueur peut rester ouvert plusieurs jours sans sécher
+- Séchage rapide sur le support, idéal pour les gauchers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CNYYJUW{{</world>}}

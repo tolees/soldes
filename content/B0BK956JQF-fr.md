@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rubber midsole
-- Mid boot
 - Synthetic upper
+- Mid boot
 - SOFTFOAM plus sockliner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La Conception De Chaussures Bas
-- Contrastant Accents De Couture
 - Cuir Pleine Supérieure
+- Contrastant Accents De Couture
 - Kickers Onglets De Marque Sur Le Côté Extérieurs
 - Kickers Kick Lo Mens
 

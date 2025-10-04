@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le kit de construction comprend également 14 minifigurines LEGO et des accessoires : un violon, un scooter, une pizza, un rouleau à pâtisserie, une brosse à cheveux, une bouteille et bien dautres
 - Des panneaux solaires et des éoliennes fournissent de lénergie verte au centre-ville de LEGO City, tandis quun espace de restauration confortable approvisionne les habitants en street-food
-- Le jeu comprend deux bâtiments de trois étages, dont le premier comprend un salon de coiffure, une clinique vétérinaire, un studio de blogs, une discothèque sur le toit et un parc
-- Un pont couvert mène à un deuxième bâtiment modulaire LEGO à 3 niveaux avec un magasin de bandes dessinées, un magasin de technologie, une chambre de gardien et un hôtel moderne
+- Le jouet de construction LEGO City Le Centre-Ville pour les enfants comprend des pièces modulaires, une multitude de caractéristiques et de fonctions pour une expérience de construction ultime
 - Loisir créatif enfant - Célébrez une occasion spéciale avec ce jouet dactivité et de développement pour une construction modulaire LEGO City - un cadeau danniversaire ou de Noël apprécié par les enfants, filles et garçons âgés de 8 ans et plus
 - Il y a aussi une carte LEGO CITY à collectionner et une plaque de route LEGO pour faciliter la combinaison avec dautres sets LEGO City comme lImmeuble dHabitation (60365) et le Skatepark Urbain (60364)
-- Le jouet de construction LEGO City Le Centre-Ville pour les enfants comprend des pièces modulaires, une multitude de caractéristiques et de fonctions pour une expérience de construction ultime
+- Le kit de construction comprend également 14 minifigurines LEGO et des accessoires : un violon, un scooter, une pizza, un rouleau à pâtisserie, une brosse à cheveux, une bouteille et bien dautres
+- Un pont couvert mène à un deuxième bâtiment modulaire LEGO à 3 niveaux avec un magasin de bandes dessinées, un magasin de technologie, une chambre de gardien et un hôtel moderne
+- Le jeu comprend deux bâtiments de trois étages, dont le premier comprend un salon de coiffure, une clinique vétérinaire, un studio de blogs, une discothèque sur le toit et un parc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPC55SRJ{{</world>}}

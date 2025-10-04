@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - [LORIGINAL JEU DE SOCIÉTÉ PIC PIRATE] Voici Pic Pirate, le vrai, le plus chatouilleux des pirates ! Place le pirate dans son tonneau et amuse-toi à lui piquer les fesses. Attention, une épée mal placée et il est expulsé
-- [MOMENT LUDIQUE EN FAMILLE OU ENTRE CAMARADES] À la maison ou en vacances, partagez des heures de rigolade en famille ou avec les camarades de classe. Parfait pour les anniversaires ou autres fêtes
-- [JEU POUR ENFANTS FACILE À JOUER] Les règles du jeu sont simples. Enfilez à tour de rôle une épée de couleur dans le tonneau, le premier qui fait sauter le pirate a perdu
 - [PARFAIT CADEAU DANNIVERSAIRE OU DE NOEL] Cadeau pour les enfants de 4 ans+, idéal pour les anniversaires et Noël. Un jeu de société pour enfants qui déclenchera une série de fous rires
+- [JEU POUR ENFANTS FACILE À JOUER] Les règles du jeu sont simples. Enfilez à tour de rôle une épée de couleur dans le tonneau, le premier qui fait sauter le pirate a perdu
+- [MOMENT LUDIQUE EN FAMILLE OU ENTRE CAMARADES] À la maison ou en vacances, partagez des heures de rigolade en famille ou avec les camarades de classe. Parfait pour les anniversaires ou autres fêtes
 - [FOU RIRE GARANTI] Ce jeu de suspens pour 2 à 4 joueurs va provoquer des surprises et des crises de rire, accessible à tous les membres de la famille, même les plus petits
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Larges bretelles en dentelle
-- Coupe ajustée
 - Tissu doux
+- Coupe ajustée
+- Larges bretelles en dentelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B088HRD8LD{{</world>}}

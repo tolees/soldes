@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 75% Polyester, 13% Coton, 12% Rayon
-- Manche courte
-- Hand Wash Only
-- Regular
-- Type de col: Col une pièce
 - Fermeture: Enfiler
+- Hand Wash Only
+- 75% Polyester, 13% Coton, 12% Rayon
+- Type de col: Col une pièce
+- Manche courte
+- Regular
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QW8NYQ9{{</world>}}

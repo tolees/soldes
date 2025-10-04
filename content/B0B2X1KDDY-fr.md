@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque : le produit peut nécessiter une mise à jour importante du micrologiciel. Veuillez vérifier les mises à jour du logiciel SteelSeries Engine
 - ENTIÈREMENT PERSONNALISABLE ET INCROYABLEMENT RAPIDE grâce aux switchs ajustables OmniPoint 2.0 HyperMagnetic
-- Actionnement 20x plus rapide, réponse 11x plus rapide que les claviers mécaniques traditionnels
-- RAPID TRIGGER - Éliminez le temps de latence dû au mouvement mécanique du switch lors de sa course par une activation et une désactivation des touches basées sur la distance de parcours du switch plutôt que sur un point précis à atteindre
 - Quantum 2.0 Dual Wireless sans lag avec le choix dune connexion 2,4 GHz ou Bluetooth 5.0
-- Format 60 %. Les fonctionnalité dun clavier full-size. Plaque supérieure en aluminium haut de gamme. Câble USB-C amovible.
-- MAÎTRISE TOTALE - 40 niveaux d’actionnement possibles par touche (0,1 - 4,0 mm) - Réglez ZQSD sur des pressions légères et ultra-rapides et les touches de compétences spéciales sur une sensibilité moindre afin déviter de les lancer accidentellement
+- RAPID TRIGGER - Éliminez le temps de latence dû au mouvement mécanique du switch lors de sa course par une activation et une désactivation des touches basées sur la distance de parcours du switch plutôt que sur un point précis à atteindre
 - TOUCHES D’ACTION 2-EN-1 - Programmez deux actions différentes pour la même touche, comme marcher avec une pression légère et sprinter avec une pression plus forte
+- Actionnement 20x plus rapide, réponse 11x plus rapide que les claviers mécaniques traditionnels
+- Format 60 %. Les fonctionnalité dun clavier full-size. Plaque supérieure en aluminium haut de gamme. Câble USB-C amovible.
+- Remarque : le produit peut nécessiter une mise à jour importante du micrologiciel. Veuillez vérifier les mises à jour du logiciel SteelSeries Engine
+- MAÎTRISE TOTALE - 40 niveaux d’actionnement possibles par touche (0,1 - 4,0 mm) - Réglez ZQSD sur des pressions légères et ultra-rapides et les touches de compétences spéciales sur une sensibilité moindre afin déviter de les lancer accidentellement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2X1KDDY{{</world>}}

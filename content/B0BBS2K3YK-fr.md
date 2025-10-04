@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cet ensemble de Clone trooper LEGO comprend 4 minifigurines : un officier, un spécialiste des clones et 2 minifigurines de trooper lourd, toutes avec des éléments darme
+- Ce jouet de voyage portable est une idée de cadeau danniversaire ou doccasion spéciale pour les fans de Star Wars : The Clone Wars et Star Wars : The Bad Batch
 - Le puissant canon antivéhicule AV-7 à construire avec un siège de minifigurine comprend des jambes réglables, un canon relevable et un lanceur à ressort
 - Les enfants et les fans de Star Wars peuvent construire lEscadron Clone avec 4 minifigurines, des armes et un canon antivéhicule AV-7 pour recréer les scènes de la Guerre des Clones
-- Ce jouet de voyage portable est une idée de cadeau danniversaire ou doccasion spéciale pour les fans de Star Wars : The Clone Wars et Star Wars : The Bad Batch
-- Cet ensemble de Clone trooper LEGO comprend 4 minifigurines : un officier, un spécialiste des clones et 2 minifigurines de trooper lourd, toutes avec des éléments darme
 - Lensemble offre un guide clair et facile à suivre, et lapplication LEGO Builder comprend également une version numérique avec des outils de zoom et de rotation
 
 [🛒 Achète-le!!]({{< param buyurl >}})

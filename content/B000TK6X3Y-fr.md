@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 10 couleurs classiques : noir, rouge, bleu, vert, jaune, orange, brun, violet, rose et bleu clair
 - La pointe fine passe doucement sur le papier; idéal pour ecriture, dessin et coloriage de manière confortable et sans problème
+- Le stylo feutre à pointe de fibre edding est disponible en 3 couleurs; il peut être parfaitement combiné avec les edding 55, edding 13 et edding 134
 - Boîte métal de qualité de 20 stylos pour papier clair ; lencre résistante à la lumière garantit des résultats durables et ne traverse pas le papier
 - 10 couleurs créatives : vert clair, gris, turquoise, vert olive, orange clair, bleu acier, marron foncé, carmin, magenta, rouge dangleterre
-- Le stylo feutre à pointe de fibre edding est disponible en 3 couleurs; il peut être parfaitement combiné avec les edding 55, edding 13 et edding 134
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000TK6X3Y{{</world>}}

@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ouverture focale maximum :28mm
-- Ouverture focale minimum : 28mm
 - Stabilisation dimage : non
-- Type de monture : Nikon
 - Téléchargez la notice en français
 - Ouverture maximum :1.8
+- Ouverture focale minimum : 28mm
+- Type de monture : Nikon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007VGGIRK{{</world>}}

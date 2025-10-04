@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Laissez votre côté Looney briller et affrontez vos amis et votre famille avec léquipe des Looney Tunes au basket-ball, au football, au golf et au tennis.
 - Choisissez votre façon de jouer : Foncez avec Roadrunner, Lola Bunny ou Silvester, vainquez avec de la force pure comme Elmer Fudd, Porky Pig ou Taz, ou montrez-vous plus malins que vos adversaires avec Wile E. Coyote, Daffy ou Bugs.
-- Découvrez lunivers Looney : Jouez à travers des niveaux emblématiques tels que Galactic Outpost Delta, Porkys Barn, Foghorns Farm, Road Runners Canyon, Whispering Woods, Martian Command Center, Grannys House et bien dautres encore !
-- Incarnez 9 personnages emblématiques des Looney Tunes : dont Bugs Bunny, Lola Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Sylvester, Taz, Wile E. Coyote et Road Runner.
 - Participez à 4 sports emblématiques : Basket-ball darcade 2v2, tennis darcade 1v1 ou 2v2, golf à 4 joueurs et football darcade 3v3. Jouez contre vos amis et votre famille : En coopération locale à 4 joueurs.
+- Incarnez 9 personnages emblématiques des Looney Tunes : dont Bugs Bunny, Lola Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Sylvester, Taz, Wile E. Coyote et Road Runner.
+- Découvrez lunivers Looney : Jouez à travers des niveaux emblématiques tels que Galactic Outpost Delta, Porkys Barn, Foghorns Farm, Road Runners Canyon, Whispering Woods, Martian Command Center, Grannys House et bien dautres encore !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7HZPLFW{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4 GO DE RAM
 - Écran 8,7 pouces, 800 x 1340, LCD, 60 Hz
+- 4 GO DE RAM
 - Mémoire interne : 64 Go, port micro SD, jusquà 1 To
 
 [🛒 Achète-le!!]({{< param buyurl >}})

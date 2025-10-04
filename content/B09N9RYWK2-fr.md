@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - grâce à la dernière technologie Wi-Fi 6
-- Débits WiFi 6 supérieures : vitesses bi-bande allant jusquà 1,8 Gbit/s
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - EAP610-Outdoor
+- Débits WiFi 6 supérieures : vitesses bi-bande allant jusquà 1,8 Gbit/s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09N9RYWK2{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accès en déplacement
+- Détection des réseaux compromis
 - 10 appareils PC, Mac, smartphones et tablettes
 - Navigation anonyme
-- Détection des réseaux compromis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSWYWX7W{{</world>}}

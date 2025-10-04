@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- À partir de 3 ans.
+- Les accessoires peuvent être tenus en main par chacun des membres de la famille.
+- La famille Chat Latté est vendue avec un sac, deux mugs, une assiette et une gaufre.
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants.
 - La famille Chat Latté est composée de 4 personnages : la maman, le papa, la fille et le bébé. Ils sont tous articulés et habillés avec soin. Leurs vêtements peuvent être enlevés et remis à loisir.
-- À partir de 3 ans.
-- La famille Chat Latté est vendue avec un sac, deux mugs, une assiette et une gaufre.
-- Les accessoires peuvent être tenus en main par chacun des membres de la famille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQM3DQXM{{</world>}}

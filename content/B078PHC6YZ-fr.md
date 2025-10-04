@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rayures signature
 - Dessus en toile
+- Rayures signature
 - Semelle intérieure rembourrée
 - Bout rond
 

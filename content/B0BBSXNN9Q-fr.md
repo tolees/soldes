@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les ailes, les jambes, les bras, la queue et la tête sont articulés pour d’infinies possibilités de présentation.
 - Idéal pour les adultes passionnés de construction, cet objet de collection se démarquera dans n’importe quelle vitrine.
 - Sous licence officielle de The Pokémon Company International
+- Les ailes, les jambes, les bras, la queue et la tête sont articulés pour d’infinies possibilités de présentation.
 - Coffret de construction de 1664 pièces avec un mouvement authentique : tournez la manivelle pour actionner la figurine Dracaufeu.
 - Dracaufeu à construire mécanisé et hautement détaillé avec un socle de présentation.
 

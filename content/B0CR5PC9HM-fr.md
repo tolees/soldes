@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualité
-- Smartphone Xiaomi Redmi Note 13 6 Go/128 Go/6,67 Noir
 - Produit original
-- Pas de fonction nfc, cette fonction est affectée par la région
 - Xiaomi Redmi Note 13 se distingue par sa puissance extraordinaire, soutenue par le dernier processeur
+- Haute qualité
+- Pas de fonction nfc, cette fonction est affectée par la région
+- Smartphone Xiaomi Redmi Note 13 6 Go/128 Go/6,67 Noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR5PC9HM{{</world>}}

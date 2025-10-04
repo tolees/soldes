@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : synthétique
 - Forme du talon : plat
-- Matériau extérieur : synthétique
 - Semelle : caoutchouc
+- Matériau intérieur : synthétique
+- Matériau extérieur : synthétique
 - Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

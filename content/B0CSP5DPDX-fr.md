@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre heures et minutes quartz pour femme.
-- Cadran rectangulaire en couleur gris en verre minéral.
 - Résistance à leau: 5 atm.
+- Cadran rectangulaire en couleur gris en verre minéral.
 - Boîtier rectangulaire de acier inoxydable, couleur gris.
+- Montre heures et minutes quartz pour femme.
 - Bracelet de acier inoxydable, couleur gris, avec fermeture déployante.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

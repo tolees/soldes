@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- U.a. geeignet für: Lada Niva (2121) Kofferraum
-- Ausgeschobene Länge: 445 mm / Hub: 180 mm / Ausschubkraft: 300 Newton
 - Höchste Qualität vom Originalteilhersteller
+- Ausgeschobene Länge: 445 mm / Hub: 180 mm / Ausschubkraft: 300 Newton
+- U.a. geeignet für: Lada Niva (2121) Kofferraum
 - Weitere geeignete Fahrzeuge und deren OE Nummern finden Sie weiter unten
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir : daim
-- Style de vie : tendance et décontracté
 - Mode : baskets
+- Style de vie : tendance et décontracté
 - Motif : uni
+- Cuir : daim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096NQ7LN1{{</world>}}

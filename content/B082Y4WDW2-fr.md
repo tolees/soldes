@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double résistance au chauffage dans lacier blindé
 - Plaque en pierre réfractaire (ø 31 cm)
-- Puissance: 1200W
 - Lampe opératoire
-- Alimentation: AC 230V ~ 50 Hz
-- Palette en aluminium pour pizza et livres de recettes inclus
+- Puissance: 1200W
 - Minuterie 5 minutes avec signal acoustique
+- Palette en aluminium pour pizza et livres de recettes inclus
+- Alimentation: AC 230V ~ 50 Hz
+- Double résistance au chauffage dans lacier blindé
 - Thermostat réglable jusquà 400c
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

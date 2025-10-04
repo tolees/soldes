@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Attention : Ce jeu est une extension, le jeu de base 7 Wonders est nécessaire pour y jouer
+- A partir de 10 ans --- 3 à 7 joueurs --- Durée : 30 min
 - Une nouvelle extension pour 7 Wonders
 - En plus de deux Merveilles inédites, cette extension vous propose un nouveau type de cartes : le Edifies. Amphithéâtre, Belvédère, Double Enceinte et bine dautres apporteront de nouveaux enjeux à vos parties
-- A partir de 10 ans --- 3 à 7 joueurs --- Durée : 30 min
+- Attention : Ce jeu est une extension, le jeu de base 7 Wonders est nécessaire pour y jouer
 - Cette extension de 7 Wonders vous permet de prendre part à la construction d’édifices communs pour en tirer profit. Vous n’êtes pas obliger d’y participer, mais si ces projets venaient à échouer, vous devriez en assumer les conséquences
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

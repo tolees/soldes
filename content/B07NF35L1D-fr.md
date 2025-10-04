@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque : Pandora.
+- Style : bague anneau.
 - Motif : cœurs noués.
 - Couleur : argenté.
-- Style : bague anneau.
+- Marque : Pandora.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NF35L1D{{</world>}}

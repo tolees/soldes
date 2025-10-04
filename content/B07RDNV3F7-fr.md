@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceinture élastique avec cordon de serrage.
-- Coupe droite.
 - Tissu doux.
+- Coupe droite.
+- Ceinture élastique avec cordon de serrage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RDNV3F7{{</world>}}
