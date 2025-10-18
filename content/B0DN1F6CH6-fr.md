@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Appareil photo de 50 MP super net] Capturez chaque instant avec un niveau de détail éblouissant. Les optimisations de l’algorithme créent des photos nettes et vives. L’appareil photo ultra net de 50 MP et les algorithmes de suppression des ombres avancés permettent de capturer clairement tous les détails des documents.
 - [Écran FHD 90 Hz de 6,72 po] L’écran FHD 2400 x 1080 rend les images nettes et claires pour un visionnage de qualité supérieure.
+- [Résistance à la poussière et à leau IP69] IP66/IP68/IP69 tout-en-un1, Premier certification TÜV Rheinland de smartphone ultra résistant.
+- [Appareil photo de 50 MP super net] Capturez chaque instant avec un niveau de détail éblouissant. Les optimisations de l’algorithme créent des photos nettes et vives. L’appareil photo ultra net de 50 MP et les algorithmes de suppression des ombres avancés permettent de capturer clairement tous les détails des documents.
 - [Expérience intelligente avec IA, Mini Capsule 3.0 / Clarification des visages par IA / AI Smart Loop] La Mini Capsule 3.0 fait peau neuve et prend désormais en charge davantage d’applications, pour une expérience fluide.
 - [Batterie puissante de 5 828 mAh] Ressentez une énergie inarrêtable. Le realme C75 est dotée d’une batterie puissante de 5 828 mAh, ce qui correspond à près de 20 % de plus que la capacité de la batterie moyenne. Vous ne craindrez plus de tomber en panne de batterie grâce à la longévité extrême de la batterie.
-- [Résistance à la poussière et à leau IP69] IP66/IP68/IP69 tout-en-un1, Premier certification TÜV Rheinland de smartphone ultra résistant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DN1F6CH6{{</world>}}

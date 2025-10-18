@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formez votre équipe : avec le mode coopératif, jouez à 2 sur le même écran.
-- Tous les chiots sont là : jouez avec chase, ruben, marcus, everest, stella, rocky, zuma et tracker
-- Explorez la grande vallée : accomplissez 7 missions super-héroïques et sauvez vos amis, puis amusez-vous avec 7 mini-jeux maxi rigolos !
 - · déchaînez vos super-pouvoirs : contrôlez les chiots et leurs super-pouvoirs pour créer des tourbillons, utiliser des outils fantastiques, soulever des objets hyper lourds et bien plus encore !
+- Formez votre équipe : avec le mode coopératif, jouez à 2 sur le même écran.
+- Explorez la grande vallée : accomplissez 7 missions super-héroïques et sauvez vos amis, puis amusez-vous avec 7 mini-jeux maxi rigolos !
+- Tous les chiots sont là : jouez avec chase, ruben, marcus, everest, stella, rocky, zuma et tracker
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DLGZ8XF{{</world>}}

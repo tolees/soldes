@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
-- Marchandises fun et de fans
-- Gothic, Horreur
 - Un véritable attrape-loeil pour chez vous!
+- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
+- Gothic, Horreur
+- Marchandises fun et de fans
 - Votre pièce favorite EMP!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

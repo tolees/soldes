@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légendaire HyperX Commodité et durabilité, compatible avec le logiciel Ngenuity
-- HyperX Transducteurs à double chambre, compatibles avec PC
 - Contrôle audio intégré, microphone antibruit amovible et indicateur LED
-- Quels composants sont inclus dans le produit : coussinets doreille
+- Légendaire HyperX Commodité et durabilité, compatible avec le logiciel Ngenuity
 - Jusquà 300 heures dautonomie
+- HyperX Transducteurs à double chambre, compatibles avec PC
+- Quels composants sont inclus dans le produit : coussinets doreille
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - Casque DTS : X Spatial Audio (code dactivation de 2 ans inclus)
 

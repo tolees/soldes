@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - En jersey doux pour un confort optimal au quotidien
-- Conçu pour aller avec presque tous les jeans Levis
 - Le t-shirt classique, idealeionné
 - Ceci est un authentique produit Levi’s
+- Conçu pour aller avec presque tous les jeans Levis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B29LMGYQ{{</world>}}

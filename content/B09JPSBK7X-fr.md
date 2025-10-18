@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Récepteur / enregistreur TNT HD
 - Le récepteur enregistreur TNT HD à double tuner. Enregistrez deux chaînes TV différentes et visionnez-en une troisième simultanément.
+- Récepteur / enregistreur TNT HD
 - Double tuner
 
 [🛒 Achète-le!!]({{< param buyurl >}})

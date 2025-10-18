@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simplicité du Plug-and-Play pour une installation facile
-- Design fin et peu encombrant pour une installation sur le bureau ou au mur
 - 16 ports Gigabit
+- Design fin et peu encombrant pour une installation sur le bureau ou au mur
+- Simplicité du Plug-and-Play pour une installation facile
 - Fonctionnement silencieux avec une conception sans ventilateur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bout rond
-- Cette chaussure nest pas résistante à leau.
 - Utilisé comme un extérieur
+- Cette chaussure nest pas résistante à leau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09N7F8VDW{{</world>}}

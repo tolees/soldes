@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réparabilité 15 ans, Garantie 2 ans
 - BOUTON MARCHE / ARRET : témoin lumineux pour arrêter la cafetière à tout moment
-- UTILISATION FACILE : accès au réservoir deau et au porte-filtre
 - SYSTEME ANTIGOUTTE : pour servir le café même lorsque la cafetière est en fonctionnement
 - CAFETIERE FILTRE COMPACTE : capacité de 0,6 L de café chaud
+- Réparabilité 15 ans, Garantie 2 ans
+- UTILISATION FACILE : accès au réservoir deau et au porte-filtre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00MNBQ15W{{</world>}}

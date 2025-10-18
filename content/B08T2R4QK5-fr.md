@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort de port eleve
 - Sechage rapide
+- Confort de port eleve
 - Liberte de mouvement absolue
 - Department: Femme
 

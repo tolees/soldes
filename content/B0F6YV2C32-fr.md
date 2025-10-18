@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CAPACITÉ EXTRA-LARGE : Cuisinez un poulet de 2 kg ou jusquà 1,4 kg de frites dans chaque tiroir de votre friteuse électrique et jusqu’à 75 % plus vite qu’avec un four à convection* (* Test sur bâtonnets de poisson pané et saucisses, avec préchauffage).
 - EXCLUSIVITÉ AMAZON : Couleur Stone/or. Jusqu’à 65 % sur les factures d’énergie de votre four* (* Avec le temps de cuisson recommandé pour des saucisses et la friture sans huile, par rapport à un four 68 L de classe énergétique A et un four de 71 L de classe énergétique A+.)
-- COMPREND : 2 tiroirs de 4.75L (capacité totale de 9.5L) et plaques de cuisson antiadhésifs et compatibles au lave-vaisselle. Guide de recettes créé par un chef Poids : 8,8 kg. Couleur :Stone/or. H : 32,5 x l : 41,5 x P : 27 cm.
 - 2 COMPARTIMENTS DE CUISSON INDÉPENDANTS : Cuisinez 2 aliments de 2 façons, synchronisés. Utilisez différents modes, temps, températures dans chaque compartiment de votre friteuse double cuve, pour des repas complets ou satisfaire 2 goûts différents.
+- COMPREND : 2 tiroirs de 4.75L (capacité totale de 9.5L) et plaques de cuisson antiadhésifs et compatibles au lave-vaisselle. Guide de recettes créé par un chef Poids : 8,8 kg. Couleur :Stone/or. H : 32,5 x l : 41,5 x P : 27 cm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F6YV2C32{{</world>}}

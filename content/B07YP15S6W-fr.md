@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effets lumineux RGB remarquable avec effets dynamiques
-- Interrupteurs mécaniques HyperX
-- Personnalisation avancée à laide du logiciel HyperX NGenuity
 - Conception compacte et portable avec cble USB Type-C amovible
 - Corps entier en aluminium destiné à laviation
+- Effets lumineux RGB remarquable avec effets dynamiques
+- Personnalisation avancée à laide du logiciel HyperX NGenuity
+- Interrupteurs mécaniques HyperX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07YP15S6W{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - LErgoSlider Plus dispose de quatre boutons et dune molette de défilement
 - Convient pour gauchers et droitiers, bouton pour droitier et droitier
-- 24 cm de large
 - Entrées, périphériques dentrée, accessoires, BakkerElkhuizen
+- 24 cm de large
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SKGXRSS{{</world>}}

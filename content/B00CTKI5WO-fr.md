@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Table de mixage haut de gamme à bon faible niveau de latence et à marge de sécurité élevée
-- 4 compresseurs de qualité studio avec fonctionnalité ultra-simple à un bouton et LED de contrôle pour un rendu vocal et instrumental professionnel
-- Port ULM intégré permettant de brancher des micros sans fil (non inclus)
 - 4 préamplificateurs micro XENYX de pointe, alimentés par fantôme, comparables aux préamplificateurs indépendants haut de gamme
+- Port ULM intégré permettant de brancher des micros sans fil (non inclus)
+- 4 compresseurs de qualité studio avec fonctionnalité ultra-simple à un bouton et LED de contrôle pour un rendu vocal et instrumental professionnel
 - Processeur deffets Klark Teknik FX de bon haute qualité avec écran LCD, double paramètre, fonction Tap et paramètres utilisateur mémorisables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

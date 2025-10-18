@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Instaglow Body, 170 ml
-- Brillance bronze instantanée à modeler pour un usage quotidien
 - Testé et approuvé dermatologiquement.
+- Brillance bronze instantanée à modeler pour un usage quotidien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CWB3L66Q{{</world>}}

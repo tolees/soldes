@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COMPATIBLE AVEC TOUS LES LISSEURS : Sutilise sur tous types de cheveux, avant le lissage, avec tous types doutils lissants ; Pour des résultats optimaux, utiliser avec SteamPod
-- FORMULE ANHYDRE BREVETÉE: Une formule unique enrichie en Alpha-silane, une molécule activée par la chaleur créant un film protecteur autour de la fibre capillaire qui résiste jusquà 5 shampooings*
-- RÉSULTATS INSTANTANÉS : Les cheveux sont légers, doux, nourris et brillants ; Moins abîmés par le lissage, les cheveux sont plus faciles à démêler & moins cassants ; Le coiffage est 3x plus rapide**
 - SENSORIALITÉ : Un soin capillaire sans eau à la texture fluide presque liquide ; Conçu comme un parfum du luxe avec des notes fraîches de Mandarine, Jasmin & Rose, Patchouli
+- RÉSULTATS INSTANTANÉS : Les cheveux sont légers, doux, nourris et brillants ; Moins abîmés par le lissage, les cheveux sont plus faciles à démêler & moins cassants ; Le coiffage est 3x plus rapide**
+- FORMULE ANHYDRE BREVETÉE: Une formule unique enrichie en Alpha-silane, une molécule activée par la chaleur créant un film protecteur autour de la fibre capillaire qui résiste jusquà 5 shampooings*
 - SOIN LISSANT PROFESSIONNEL : Soin SteamPod protégeant les cheveux de la chaleur jusquà 230°C* & de lhumidité extrême*; Assure un coiffage longue durée sans frisottis pour des cheveux disciplinés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

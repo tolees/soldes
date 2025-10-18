@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alentour: Hybride (caoutchouc et tissu)
 - Capacité de puissance (puissance RMS), Puissance de crête de 250 W
+- Alentour: Hybride (caoutchouc et tissu)
 - Aimant en ferrite
-- Tweeter compensé de polyester imidique
-- Niveau de pression sonore : 91 dB/W.m
 - Réponse de fréquence : 40-22 000 Hz
 - Impédance de 4 ohms
+- Niveau de pression sonore : 91 dB/W.m
+- Tweeter compensé de polyester imidique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JHEVRB6{{</world>}}

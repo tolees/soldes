@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longue durée de vie de la batterie : la lampe Philips Hue Go portable dispose dune batterie intégrée qui offre une autonomie allant jusquà 48 heures et peut être facilement chargée via la station de batterie incluse.
 - Prêt à lemploi : via le bouton situé sur le dessus de la table personnes, vous pouvez allumer et éteindre la lampe dappoint ou accéder à des scènes lumineuses prédéfinies
+- Ce produit est un produit contenant. Les produits contenants sont des luminaires qui peuvent être démontés pour un contrôle séparé de la ou des sources lumineuses quils contiennent. Ce produit contient une source lumineuse de classe defficacité énergétique G
 - Pour une expérience de maison intelligente complète dans toute la maison : développez votre système avec le Hue Bridge (vendu séparément) et découvrez bien dautres fonctionnalités.
 - Conçue pour une utilisation en intérieur et en extérieur : la lampe connectée portable Philips Hue Go possède un indice IP54, ce qui signifie quelle est protégée contre la poussière et les projections deau.
-- Ce produit est un produit contenant. Les produits contenants sont des luminaires qui peuvent être démontés pour un contrôle séparé de la ou des sources lumineuses quils contiennent. Ce produit contient une source lumineuse de classe defficacité énergétique G
 - Éclairage intelligent : Philips Hue est compatible avec Amazon Echo Dot (3e génération), Echo Plus et Echo Show (2e génération)
+- Longue durée de vie de la batterie : la lampe Philips Hue Go portable dispose dune batterie intégrée qui offre une autonomie allant jusquà 48 heures et peut être facilement chargée via la station de batterie incluse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2PV9YX5{{</world>}}

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
 - Comprend une boîte de film rétro pour contenir le filtre
 - À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
-- Gold Mist crée un aspect de pellicule Kodak Gold
 - Un verre Chroma moderne dans un design rétro
+- Gold Mist crée un aspect de pellicule Kodak Gold
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DV9XP7BP{{</world>}}

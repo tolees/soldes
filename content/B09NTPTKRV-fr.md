@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Composé dun adaptateur et dun câble
-- 45 W
-- Accessoire dorigine Samsung.
 - Compatible avec tous les smartphones avec connecteur USB-C
+- Accessoire dorigine Samsung.
+- 45 W
 - PD max
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Joue seul ou en famille, jusqu’à 4 joueurs en multijoueur local avec écran splitté.
 - 12 circuits répartis dans l’univers des Schtroumpfs : le village, la forêt, le barrage, les marais… même la maison de Gargamel !
-- Chaque Schtroumpf possède son propre kart et un objet spécial bien pratique pour mettre les adversaires dans le vent.
+- Joue seul ou en famille, jusqu’à 4 joueurs en multijoueur local avec écran splitté.
 - Atteins la 1ère place en mettant ton environnement à profit : objets bonus, boosts, rampes, caisses destructibles, raccourcis…
+- Chaque Schtroumpf possède son propre kart et un objet spécial bien pratique pour mettre les adversaires dans le vent.
 - Défie chaque Schtroumpf sur son circuit dans le « Défi chronométr頻, et fais le meilleur temps pour être en haut du classement en ligne !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

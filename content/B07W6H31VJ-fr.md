@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - [Connectivité Bluetooth fiable] Slim Folio utilise la technologie avancée sans fil Bluetooth Low Energy pour assurer une connexion fiable et éco-énergétique.
 - [Rangement pour Logitech Crayon et Apple Pencil] Dessinez, écrivez, puis rangez Logitech Crayon ou Apple Pencil dans son support pour ne jamais le perdre ou loublier.
+- [Compatibilité] iPad (10e génération): A2696, A2757, A2777
 - [Autonomie de 3 ans] Slim Folio utilise 2 piles bouton remplaçables pour alimenter votre clavier. Grâce à un système de gestion intelligente de lalimentation, vous bénéficiez dune autonomie de 3 ans sans avoir à remplacer les piles.
 - [Protection contre les chocs et les rayures] Offrez à votre iPad une protection complète contre les chocs et les rayures. Le tissu technique extérieur est doux au toucher, mais résistant à lusure.
 - [Clavier de taille standard avec rangée de raccourcis iPadOS] Écrivez confortablement avec de grandes touches bien espacées dun bord à lautre. Inclut des touches de raccourcis iPadOS pour un accès rapide au volume, aux contrôles multimédia et bien plus encore.
-- [Compatibilité] iPad (10e génération): A2696, A2757, A2777
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6H31VJ{{</world>}}

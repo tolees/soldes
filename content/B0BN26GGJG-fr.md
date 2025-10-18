@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti FF BLAST PLUS
 - Tige en tricot
+- Amorti FF BLAST PLUS
 - Technologie damorti GEL
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

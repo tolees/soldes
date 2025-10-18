@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 32" UHD, RAPID IPS 160 HZ - Une dalle Rapid IPS UHD 3840 x 2160 (16:9) présente un taux de rafraîchissement élevé de 160 Hz pour un suivi fluide des mouvements ; un temps de réponse très faible de 1 ms (GtG) est idéal pour les événements esports.
+- CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement des consoles PC et des ordinateurs portables comprennent les ports DP 1.4a (UHD/160 Hz max.) et HDMI 2.1 CEC (UHD/160Hz max.) ; lécran dispose dun joystick de navigation et dun support réglable
+- CONTRASTE DYNAMIQUE & AI VISION - La dalle Rapid IPS offre un contraste natif de 1000:1 et un contraste dynamique de 100 000 000:1; MSI AI Vision renforce les détails dans les zones sombres, tout en optimisant la luminosité et les couleurs.
 - LARGE GAMME DE COULEURS - Le MAG 322UPF prend en charge jusquà 1,07 milliard de couleurs à 125,7 % sRGB pour une grande précision des couleurs ; il dispose des technologies Less Blue Light PRO et danti-scintillement pour réduire la fatigue oculaire.
 - QUALITÉ DIMAGE RAPIDE IPS, JEU SANS BORDURE - Les dalles Rapid IPS de MSI offrent une intensité de couleur exceptionnelle et prennent en charge des angles de vision larges de 178° ; la conception sans cadre réduit les contours visibles entre les écrans.
-- CONTRASTE DYNAMIQUE & AI VISION - La dalle Rapid IPS offre un contraste natif de 1000:1 et un contraste dynamique de 100 000 000:1; MSI AI Vision renforce les détails dans les zones sombres, tout en optimisant la luminosité et les couleurs.
-- CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement des consoles PC et des ordinateurs portables comprennent les ports DP 1.4a (UHD/160 Hz max.) et HDMI 2.1 CEC (UHD/160Hz max.) ; lécran dispose dun joystick de navigation et dun support réglable
+- 32" UHD, RAPID IPS 160 HZ - Une dalle Rapid IPS UHD 3840 x 2160 (16:9) présente un taux de rafraîchissement élevé de 160 Hz pour un suivi fluide des mouvements ; un temps de réponse très faible de 1 ms (GtG) est idéal pour les événements esports.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ7WHCKW{{</world>}}

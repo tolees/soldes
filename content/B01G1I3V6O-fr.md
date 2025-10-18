@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JEU DE DETECTIVE : Que vous soyez débutant ou chevronné, Mr Jack London propose une expérience accessible et addictive. Plongez dans le mystère victorien et révélez les secrets cachés.
 - JEU IMMERSIF : Découvrez des mystères énigmatiques et rencontrez des personnages iconiques dans une expérience immersive et stratégique offerte par Mr Jack London.
 - JEU DE DEDUCTION : Par déductions successives et en plaçant les personnages dans lombre ou dans la lumière, le joueur Enquêteur doit trouver sur quelle identité se dissimule linfme Jack et tenter de la capturer. Son adversaire, Jack, fait tout son possible pour retarder lenquête. Il essaie même de profiter de lobscurité pour quitter définitivement les lieux;
-- JEU DE DETECTIVE : Que vous soyez débutant ou chevronné, Mr Jack London propose une expérience accessible et addictive. Plongez dans le mystère victorien et révélez les secrets cachés.
-- JEU DENQUETE : Plongez dans latmosphère mystérieuse du Londres Victorien avec Mr Jack London, un jeu denquête captivant, où lintelligence et la déduction sont essentielles.
 - JEU ASYMETRIQUE : Mr Jack est un jeu asymétrique pour deux joueurs. Chaque joueur à un but différent : Un joueur prend le rôle de lenquêteur lautre celui de Mr Jack
+- JEU DENQUETE : Plongez dans latmosphère mystérieuse du Londres Victorien avec Mr Jack London, un jeu denquête captivant, où lintelligence et la déduction sont essentielles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01G1I3V6O{{</world>}}

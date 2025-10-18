@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double appareil photo avancé avec grand-angle et ultra grand-angle de 12 Mpx, Styles photographiques, Smart HDR 4, mode Nuit et enregistrement vidéo 4K HDR en Dolby Vision
-- Écran Super Retina XDR 6,1 pouces
-- iOS 15, avec toutes sortes de nouvelles fonctionnalités qui multiplient les possibilités qu’offre l’iPhone
-- Connectivité 5G pour des téléchargements ultra-rapides et du streaming de haute qualité
-- Design résistant avec Ceramic Shield et meilleure résistance à l’eau du marché (IP68)
-- Jusqu’à 19 heures de lecture vidéo
-- Caméra avant TrueDepth 12 Mpx avec mode Nuit et enregistrement vidéo 4K HDR en Dolby Vision
 - Dans le cadre de nos efforts pour atteindre nos objectifs environnementaux, iPhone 13 ninclut plus dEarPods. Veuillez utiliser vos EarPods existants ou acheter cet accessoire séparément.
-- Puce A15 Bionic pour des performances fulgurantes
+- Caméra avant TrueDepth 12 Mpx avec mode Nuit et enregistrement vidéo 4K HDR en Dolby Vision
+- Double appareil photo avancé avec grand-angle et ultra grand-angle de 12 Mpx, Styles photographiques, Smart HDR 4, mode Nuit et enregistrement vidéo 4K HDR en Dolby Vision
+- iOS 15, avec toutes sortes de nouvelles fonctionnalités qui multiplient les possibilités qu’offre l’iPhone
+- Design résistant avec Ceramic Shield et meilleure résistance à l’eau du marché (IP68)
+- Connectivité 5G pour des téléchargements ultra-rapides et du streaming de haute qualité
 - Mode Cinématique, qui réduit la profondeur de champ et change automatiquement la mise au point dans vos vidéos
+- Puce A15 Bionic pour des performances fulgurantes
+- Écran Super Retina XDR 6,1 pouces
+- Jusqu’à 19 heures de lecture vidéo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09G9HWQYT{{</world>}}

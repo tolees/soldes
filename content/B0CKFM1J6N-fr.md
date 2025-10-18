@@ -28,25 +28,25 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Aspect ratio : 16:9
+- Wireless communication technology : Bluetooth
+- Hardware interface : usb
+- Special feature : Haut-parleur stéréo
+- Cellular technology : WIFI ONLY
+- Display.size : 11.0 inches
+- Battery.power : 8000.0
+- Total usb ports : 1
+- Human interface input : buttons
+- Included components : 1 package
+- Memory storage capacity : 256.0 GB
+- Item dimensions : 1.97 inches
 - 6941812756768
 - Display.type : LCD
-- Wireless communication technology : Bluetooth
-- Operating system : MIUI 14 Android 13
-- Human interface input : buttons
-- Display.size : 11.0 inches
-- Item dimensions : 1.97 inches
-- Special feature : Haut-parleur stéréo
-- Memory storage capacity : 256.0 GB
 - Wireless provider : zain
-- Cellular technology : WIFI ONLY
-- Photo sensor.resolution : 8.0 megapixels
-- Hardware interface : usb
-- Battery.cell composition : lithium ion
 - Model year : 2023
-- Included components : 1 package
-- Aspect ratio : 16:9
-- Total usb ports : 1
-- Battery.power : 8000.0
+- Photo sensor.resolution : 8.0 megapixels
+- Operating system : MIUI 14 Android 13
+- Battery.cell composition : lithium ion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKFM1J6N{{</world>}}

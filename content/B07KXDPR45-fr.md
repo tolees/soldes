@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sans entretien : ne rouille pas, ne sécaille pas, ne sabîme pas
-- 200 x 183 x 183 centimètres
 - Assemblage facile
+- 200 x 183 x 183 centimètres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KXDPR45{{</world>}}

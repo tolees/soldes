@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CASCADES INFINIES - Faites réaliser des loppings à 360° sur une portée de 30 mètres
-- CARACTERISTIQUES TECHNIQUES - Technologie 2,4Ghz; Portée max 30 mètres; Temps de charge approx 50min; Temps de jeu : approx 6min; Piles : Drone : 1 X 3.7V, 550mAh Li-Po Batterie (incluse); Télécommande : 3 X «AAA» (non incluses), Bracelet : 1 X «CR2032» (incluse); Dimensions : 17(L) X 17(P) X 5(H) cm; Dès 8 ans.
 - 2 MODES DE CONTROLE - 2 façons de piloter le drone Flybotic avec la télécommande classique ou au poignet par détection de mouvement grâce au bracelet fourni
 - FACILE A DIRIGER - Ultra facile à piloter grâce au maintien de l’altitude pour une utilisation en intérieur et en extérieur
 - EFFETS LUMINEUX - Faites voler le drone dans le noir grâce aux LED intégrés
+- CASCADES INFINIES - Faites réaliser des loppings à 360° sur une portée de 30 mètres
+- CARACTERISTIQUES TECHNIQUES - Technologie 2,4Ghz; Portée max 30 mètres; Temps de charge approx 50min; Temps de jeu : approx 6min; Piles : Drone : 1 X 3.7V, 550mAh Li-Po Batterie (incluse); Télécommande : 3 X «AAA» (non incluses), Bracelet : 1 X «CR2032» (incluse); Dimensions : 17(L) X 17(P) X 5(H) cm; Dès 8 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0972TMDTC{{</world>}}

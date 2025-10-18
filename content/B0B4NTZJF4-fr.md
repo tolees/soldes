@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ensemble de 6 crayons et une gomme.
-- Nouvelle collection Retour à lécole Ecriture.
-- En forme de nuage merveilleux.
 - Caoutchouc surdimensionné.
+- En forme de nuage merveilleux.
+- Nouvelle collection Retour à lécole Ecriture.
+- Ensemble de 6 crayons et une gomme.
 - Produit original Mr. Wonderful
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué à partir de coton confortable
 - Lavage de la machine, demi-charge, cycle de spin court à 40 ° C
 - Petit étiquette de look denim sur le côté
+- Fabriqué à partir de coton confortable
 - 100% Coton
 - Tricot slim
 

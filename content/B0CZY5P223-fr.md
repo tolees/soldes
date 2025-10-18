@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format : DVD
 - Over The Top Bd
 - Type de produit : film physique
+- Format : DVD
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZY5P223{{</world>}}

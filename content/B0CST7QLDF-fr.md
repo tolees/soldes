@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- il sagit dun produit authentique et original HUGO
 - Ce style a été produit de manière durable
+- il sagit dun produit authentique et original HUGO
 - Confortable à porter
 - il assure un ajustement optimal
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des accessoires pour recréer le rite de phare de la série
 - Un animal totem
-- Deux personnages emblématiques de Ayuma
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
+- Deux personnages emblématiques de Ayuma
+- Des accessoires pour recréer le rite de phare de la série
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKQPWRWC{{</world>}}

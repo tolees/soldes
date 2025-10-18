@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La qualité Schott depuis 1913
 - Doudoune sans Manche Schott
+- La qualité Schott depuis 1913
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV7CHTQN{{</world>}}

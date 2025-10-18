@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baume à lèvres hydratant disponible en 6 teintes délicieuses inspirées de sorbets aux fruits.
-- Le baume à lèvres aux teintes délicieuses offre une allure instantanément revigorée à vos lèvres ainsi qu’une hydratation et un confort qui durent toute la journée.
-- Il intègre des vitamines C, E et B qui stimulent l’hydratation des lèvres.
 - Baume à lèvres naturel à la formule clean et végan, composée à 90 % d’ingrédients d’origine naturelle, dont de l’huile de coco et de tournesol
+- Il intègre des vitamines C, E et B qui stimulent l’hydratation des lèvres.
 - Baume doux qui fond sur vos lèvres pour un fini modulable allant d’un effet lumineux transparent à un effet opaque brillant.|
+- Le baume à lèvres aux teintes délicieuses offre une allure instantanément revigorée à vos lèvres ainsi qu’une hydratation et un confort qui durent toute la journée.
+- Baume à lèvres hydratant disponible en 6 teintes délicieuses inspirées de sorbets aux fruits.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BYKB38RY{{</world>}}

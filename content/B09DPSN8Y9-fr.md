@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5 saisons entières aux différentes péripéties vous attendent pour des parties qui ne se ressemblent jamais
-- Etudiez vos équipiers et formez les bonnes alliances au bon moment en utilisant les relations entre chacun à votre avantage
+- Gagnez des avantages, du confort et surtout l’immunité à travers 16 épreuves exigeantes tirées de l’émission
 - Collectez des ressources pour le camp, améliorez votre campement et prenez soin de votre énergie, de votre faim, de votre soif
 - Plus de 200 évènements aléatoires pour pimenter chaque partie
-- Gagnez des avantages, du confort et surtout l’immunité à travers 16 épreuves exigeantes tirées de l’émission
+- Etudiez vos équipiers et formez les bonnes alliances au bon moment en utilisant les relations entre chacun à votre avantage
+- 5 saisons entières aux différentes péripéties vous attendent pour des parties qui ne se ressemblent jamais
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DPSN8Y9{{</world>}}

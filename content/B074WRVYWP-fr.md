@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- De la marque Neutrogena - Crème de mains non-parfumée pour Unisex
 - Crème de mains
+- De la marque Neutrogena - Crème de mains non-parfumée pour Unisex
 - Non-parfumée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

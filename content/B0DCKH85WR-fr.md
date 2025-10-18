@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 520 KB on-chip SRAM
+- Programmation par drag-and-drop via stockage de masse via USB
 - Double processeur Arm Cortex-M33 ou double Hazard3 RISC-V à 150 MHz
 - Logiciel et matériel compatibles avec Raspberry Pi Pico 1
-- Programmation par drag-and-drop via stockage de masse via USB
-- 520 KB on-chip SRAM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DCKH85WR{{</world>}}

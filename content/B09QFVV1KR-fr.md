@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le marcheur AT-ST Star Wars a des pattes mobiles et possède un cockpit pour le conducteur, la cachette Ewok comporte un arbre et une catapulte pour que Wicket puisse lancer des éléments en pierre
-- Comprend 3 minifigurines LEGO : Wicket lEwok avec un arc et des flèches, un Scout Trooper et un pilote AT-ST, chacun avec un pistolet blaster, pour samuser dans les jeux de rôle
-- Les enfants de 4 ans et plus peuvent aider le courageux Wicket lEwok à défendre le poste de surveillance contre les troupes déclaireurs, avant que le puissant AT-ST ne piétine les arbres sur son passage
 - Facile à construire et à reconstruire après les batailles, cet ensemble de démarrage LEGO Star Wars 4 ans et plus constitue un cadeau Star Wars amusant pour les enfants créatifs
 - Ce jouet pour enfants de 4 ans LEGO Star Wars AT-ST comprend une brique de démarrage pour une construction rapide afin de prendre en main rapidement laction
+- Le marcheur AT-ST Star Wars a des pattes mobiles et possède un cockpit pour le conducteur, la cachette Ewok comporte un arbre et une catapulte pour que Wicket puisse lancer des éléments en pierre
+- Les enfants de 4 ans et plus peuvent aider le courageux Wicket lEwok à défendre le poste de surveillance contre les troupes déclaireurs, avant que le puissant AT-ST ne piétine les arbres sur son passage
+- Comprend 3 minifigurines LEGO : Wicket lEwok avec un arc et des flèches, un Scout Trooper et un pilote AT-ST, chacun avec un pistolet blaster, pour samuser dans les jeux de rôle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}

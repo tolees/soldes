@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immortals Fenyx Rising donne vie à une grande aventure mythologique. Jouez comme fenyx, un nouveau deigod ailé dans une quête pour sauver les dieux grecs et leur maison dune malédiction sombre. Affrontez les bêtes mythologiques, maîtrisez les pouvoirs lé
-- Explorez un monde ouvert stylisé. Découvrez un monde fantastique magnifiquement rendu
 - Les dieux de lOlympe vous ont béni de cadeaux : les ailes de daidalos, lépée dAchille, larc dOdyse et plus encore, ainsi que les pouvoirs légendaires qui aideront à tourner les marées de la bataille
+- Explorez un monde ouvert stylisé. Découvrez un monde fantastique magnifiquement rendu
+- Immortals Fenyx Rising donne vie à une grande aventure mythologique. Jouez comme fenyx, un nouveau deigod ailé dans une quête pour sauver les dieux grecs et leur maison dune malédiction sombre. Affrontez les bêtes mythologiques, maîtrisez les pouvoirs lé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08PX34NL3{{</world>}}

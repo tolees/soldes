@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sets LEGO Star Wars pour adultes – D’une galaxie lointaine, très lointaine à votre salon, les sets LEGO Star Wars pour adultes sont conçus pour les personnes qui, comme vous, apprécient les activités créatives relaxantes
+- Diorama LEGO Star Wars à construire et exposer – Recréez un moment fort de la course de podracers de Mos Espa dans Star Wars : La Menace fantôme avec cette maquette à construire pour adultes
 - Conçu pour être exposé – Le set inclut le Canyon de l’Arche, une partie du circuit de course de podracers de Mos Espa, une brique spéciale 25e anniversaire de LEGO Star Wars et une plaque rappelant une citation de Qui-Gon Jinn
 - Podracers de Star Wars en briques – Ce set unique contient des versions détaillées en briques LEGO du podracer d’Anakin Skywalker et de celui de son rival Sebulba
-- Instructions 3D intuitives – L’application LEGO Builder vous permet de zoomer, de faire pivoter une version 3D numérique de ce modèle pendant la construction, de suivre votre progression et plus encore
+- Sets LEGO Star Wars pour adultes – D’une galaxie lointaine, très lointaine à votre salon, les sets LEGO Star Wars pour adultes sont conçus pour les personnes qui, comme vous, apprécient les activités créatives relaxantes
 - Cadeau Star Wars pour adultes – Faites-vous plaisir ou offrez ce set d’exception à un adulte fan de Star Wars ou collectionneur de dioramas LEGO Star Wars
-- Diorama LEGO Star Wars à construire et exposer – Recréez un moment fort de la course de podracers de Mos Espa dans Star Wars : La Menace fantôme avec cette maquette à construire pour adultes
+- Instructions 3D intuitives – L’application LEGO Builder vous permet de zoomer, de faire pivoter une version 3D numérique de ce modèle pendant la construction, de suivre votre progression et plus encore
 - Construisez votre collection – Ce set fait partie d’une série de dioramas LEGO Star Wars à collectionner (vendus séparément), immortalisant des moments culte de Star Wars
 
 [🛒 Achète-le!!]({{< param buyurl >}})

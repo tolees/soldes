@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN STYLE HAUT DE GAMME : Le logo brodé sur le devant et à l’arrière ainsi que les finitions des boutons et des œillets sur la partie supérieure apportent une touche d’originalité. La visière arrondie de la casquette protège de la luminosité.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
-- UNE MATIÈRE DE QUALITɠ: Cet article est composé à 100% de coton bio.
 - POLYVALENCE ET FONCTIONNALITɠ: Cette casquette de baseball est idéale au quotidien ou pour faire du sport. Cet accessoire va avec tout et apporte la touche finale à toutes les tenues.
+- UN STYLE HAUT DE GAMME : Le logo brodé sur le devant et à l’arrière ainsi que les finitions des boutons et des œillets sur la partie supérieure apportent une touche d’originalité. La visière arrondie de la casquette protège de la luminosité.
+- UNE MATIÈRE DE QUALITɠ: Cet article est composé à 100% de coton bio.
 - UN CONFORT OPTIMAL : Cette casquette décontractée pour homme est facile à porter et constitue le couvre-chef idéal pour les chaudes journées d’été. Grâce à sa lanière réglable logotypée, elle s’adapte à toutes les morphologies.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

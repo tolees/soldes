@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les retrouvailles de deux créateurs légendaires !
 - Wonderworld se dresse à la croisée de nos cœurs et de notre imagination
 - Plus de 80 costumes différents, autant dactions, et une myriade de possibilités !
-- Les retrouvailles de deux créateurs légendaires !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KCX1X3G{{</world>}}

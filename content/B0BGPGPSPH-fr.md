@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - EXTRAIT DE LAIT DAMANDE DOUCE BIO: Pour donner aux vêtements de bébé une agréable fragrance. Découvrez les autres parfums et choisissez celui qui vous convient !
 - HYPOALLERGENIQUE: une formulation certifiée par l’institut Derming garantissant le respect des peaux sensibles.
-- PROPRETÉ GARANTIE: 100% tensio-actifs d’origine végétale, sans azurrants optiques, tout en garantissant une grande efficacité de lavage sur les taches les plus tenaces.
 - LES TISSUS: idéal sur tous les types de tissus. Convient au linge des peaux les plus fragiles.
+- PROPRETÉ GARANTIE: 100% tensio-actifs d’origine végétale, sans azurrants optiques, tout en garantissant une grande efficacité de lavage sur les taches les plus tenaces.
 - CONSEILS DUTILISATION: Versez la quantité de produit nécessaire dans votre lave-linge en fonction du poids de vos vêtements. Peut également être utilisé pour le lavage à la main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

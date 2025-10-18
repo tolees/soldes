@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES VERRES ASSORTIS POUR LES COCKTAILS : Parce que les spiritueux, les soft drinks et les cocktails se dégustent aussi, l’offre se décline avec deux gobelets forme haute ou basse. La collection Ultime ainsi déclinée sera idéale pour tous vos repas en famille ou entre amis, mais également lors de réceptions et événements importants.
 - FABRICATION FRANCE : Une collection imaginée, développée et conçue à Arques, dans le Pas de Calais, où depuis plus de 200 ans, un savoir-faire unique se transmet et où linnovation fait parti de lADN du groupe.
 - Ultime est une collection au design affirmé, moderne et épuré. Composée de 5 verres à pied adaptés aux différents types de vins, cette collection de verres à vin hauts de gamme est tout naturellement destinées à la dégustation œnologique. Complétée du flûtes à champagne anguleuse et généreuse, cette collection de verres en cristallin est étudiée pour libérer les arômes des vins jeunes qu’ils soient boisés, fruités ou tanniques.
+- DES VERRES ASSORTIS POUR LES COCKTAILS : Parce que les spiritueux, les soft drinks et les cocktails se dégustent aussi, l’offre se décline avec deux gobelets forme haute ou basse. La collection Ultime ainsi déclinée sera idéale pour tous vos repas en famille ou entre amis, mais également lors de réceptions et événements importants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BGSG5WHM{{</world>}}

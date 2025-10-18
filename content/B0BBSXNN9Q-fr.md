@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sous licence officielle de The Pokémon Company International
-- Idéal pour les adultes passionnés de construction, cet objet de collection se démarquera dans n’importe quelle vitrine.
 - Dracaufeu à construire mécanisé et hautement détaillé avec un socle de présentation.
+- Sous licence officielle de The Pokémon Company International
 - Coffret de construction de 1664 pièces avec un mouvement authentique : tournez la manivelle pour actionner la figurine Dracaufeu.
+- Idéal pour les adultes passionnés de construction, cet objet de collection se démarquera dans n’importe quelle vitrine.
 - Les ailes, les jambes, les bras, la queue et la tête sont articulés pour d’infinies possibilités de présentation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

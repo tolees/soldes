@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : étroite
 - Matériau extérieur : cuir
+- Largeur de la chaussure : étroite
 - Niveau de résistance à leau : non étanche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 70 % coton, 30 % polyester (recyclé).
-- Capuche réglable par cordon de serrage.
-- Poche kangourou.
-- Chaussant standard.
 - base et bords côtelés.
+- Capuche réglable par cordon de serrage.
+- Chaussant standard.
+- 70 % coton, 30 % polyester (recyclé).
+- Poche kangourou.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B096GCZFJQ{{</world>}}

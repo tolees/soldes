@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : bleu marine
 - Coutures à 360° pour plus de durabilité
 - Lacets élastiques et système de fermeture par sangle pour un ajustement facile
 - Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
+- Couleur : bleu marine
 - Dessus : cuir (cuir de veau)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

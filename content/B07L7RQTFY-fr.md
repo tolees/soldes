@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Marque: Nike
 - Liberte de mouvement absolue
-- Sechage rapide
 - Confort de port eleve
+- Sechage rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L7RQTFY{{</world>}}

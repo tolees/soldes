@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Fermeture : caoutchouc
 - Matériau extérieur : synthétique
+- Forme du talon : plat
+- Matériau intérieur : synthétique
 - Doublure : non doublée
 - Largeur de la chaussure : moyenne
-- Matériau intérieur : synthétique
+- Fermeture : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N7M5Z3P{{</world>}}

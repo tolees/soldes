@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- This Floral Fruity fragrance has a blend of Mango, Coconut and Passionfruit, Jasmine, Heliotrope and Orange Blossom, Vanilla, Cashmeran and Musk
 - Yara Tous by Lattafa for Women - 3.4 oz EDP Spray
+- This Floral Fruity fragrance has a blend of Mango, Coconut and Passionfruit, Jasmine, Heliotrope and Orange Blossom, Vanilla, Cashmeran and Musk
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8YRND5J{{</world>}}

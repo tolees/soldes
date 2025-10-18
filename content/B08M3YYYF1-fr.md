@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Une excellente idée CADEAU
 - PREND SOIN de tous vos textiles, même les plus délicats
-- COMPACT pour être EMPORTÉ PARTOUT, où que vous alliez
 - ÉLIMINE >99,99% DES BACTÉRIES, VIRUS, CHAMPIGNONS ET 100% DES ACARIENS EN QUELQUES SECONDES
+- COMPACT pour être EMPORTÉ PARTOUT, où que vous alliez
 - DES RÉSULTATS PARFAITS grâce à la technologie suisse DMS de Laurastar
 
 [🛒 Achète-le!!]({{< param buyurl >}})

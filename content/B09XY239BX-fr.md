@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DENTIFRICE BLANCHISSANT COLGATE : Le dentifrice Colgate Max White One élimine jusquà 100 % des taches dentaires de surface, pour des dents visiblement plus blanches avec une teinte gagnée en une semaine
-- MODE DEMPLOI : Brossez-vous les dents, deux fois par jour, pendant au moins 2 minutes ou conformément aux conseils dun professionnel de la santé bucco-dentaire. Pour une hygiène optimale, changez de brosse tous les 3 mois
 - UN SOURIRE ÉTINCELANT : Grâce à sa formule avancée aux effets cliniquement prouvés, le dentifrice Colgate Max White One nettoie efficacement les dents et les rend plus blanches pour un sourire éclatant au quotidien
-- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
+- DENTIFRICE BLANCHISSANT COLGATE : Le dentifrice Colgate Max White One élimine jusquà 100 % des taches dentaires de surface, pour des dents visiblement plus blanches avec une teinte gagnée en une semaine
 - MODE D4EMPLOI: 1) Saupoudrez Ajax poudre sur la surface à nettoyer
+- MODE DEMPLOI : Brossez-vous les dents, deux fois par jour, pendant au moins 2 minutes ou conformément aux conseils dun professionnel de la santé bucco-dentaire. Pour une hygiène optimale, changez de brosse tous les 3 mois
+- EXPERT MONDIAL EN SANTÉ BUCCO-DENTAIRE : Présente dans la plupart des pays du monde, la marque Colgate développe des produits dhygiène bucco-dentaire innovants et performants, pour un sourire radieux et une bonne santé buccale.
 - NETTOYAGE EFFICACE DES DENTS : Ce dentifrice procure une excellente protection contre la plaque dentaire, aide à conserver un émail solide et des gencives saines, préservant ainsi lhygiène buccale de manière optimale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

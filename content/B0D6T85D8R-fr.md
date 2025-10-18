@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCHAPPEZ-VOUS DE LA MAISON DES CAUCHEMARS—Osez pénétrez dans Mornebrune, une Maison dévoreuse de plan où les plus grandes peurs de votre adversaire prendront vie
-- LES MEILLEURS BOOSTERS POUR JOUER AVEC DES AMIS : spécialement conçus pour le jeu en format Limité, ouvrez 6 boosters de jeu pour construire un deck et affrontez vos amis dans des parties en Paquet scellé, ou prenez 3 boosters et faites-les passer pour construire un deck en Booster Draft.
 - CONTENU DUNE BOITE DE BOOSTERS DE JEU - 36 boosters de jeu Mornebrune : La Maison de l’horreur, contenant chacun 14 cartes MTG et 1 carte de jeton/publicitaire ou une carte dillustration
+- LES BOOSTERS PEUVENT CONTENIR PLUSIEURS CARTES RARES : chaque booster de jeu contient 1 à 4 cartes de rareté rare ou supérieure, dont potentiellement une carte rare mythique sans bordure de lhistoire de Magic
+- LES MEILLEURS BOOSTERS POUR JOUER AVEC DES AMIS : spécialement conçus pour le jeu en format Limité, ouvrez 6 boosters de jeu pour construire un deck et affrontez vos amis dans des parties en Paquet scellé, ou prenez 3 boosters et faites-les passer pour construire un deck en Booster Draft.
+- ÉCHAPPEZ-VOUS DE LA MAISON DES CAUCHEMARS—Osez pénétrez dans Mornebrune, une Maison dévoreuse de plan où les plus grandes peurs de votre adversaire prendront vie
+- AMUSANTS À OUVRIR. AMUSANTS À JOUER - Les boosters de jeu sont parfaits pour le format Limité et amusants à ouvrir : vous pourrez y trouver des cartes d’illustration, des cartes à illustration alternative, des cartes à cadres spéciaux et des cartes rares et/ou mythiques supplémentaires
 - UNE CARTE PREMIUM BRILLANTE DANS CHAQUE BOOSTER : chaque booster contient au moins 1 carte Premium traditionnelle brillante de nimporte quelle rareté ; vous trouverez également une carte de terrain Premium traditionnelle dans 20 % des boosters
 - PEUT CONTENIR DES CARTES DILLUSTRATION : Exclusives aux boosters de jeu ; certains boosters peuvent renfermer une carte dillustration arborant une illustration de lextension Mornebrune : la Maison de lhorreur, parfois même avec une signature Premium de l’artiste
-- LES BOOSTERS PEUVENT CONTENIR PLUSIEURS CARTES RARES : chaque booster de jeu contient 1 à 4 cartes de rareté rare ou supérieure, dont potentiellement une carte rare mythique sans bordure de lhistoire de Magic
-- AMUSANTS À OUVRIR. AMUSANTS À JOUER - Les boosters de jeu sont parfaits pour le format Limité et amusants à ouvrir : vous pourrez y trouver des cartes d’illustration, des cartes à illustration alternative, des cartes à cadres spéciaux et des cartes rares et/ou mythiques supplémentaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6T85D8R{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecran Super Amoled Infinity 6.4 pouces - 2340 x 1080 - 120Hz
 - Android 13 & Réseau 5G
 - Résolution photo de 50 MP
-- Mémoire interne de 128 Go - RAM de 8 Go
 - Processeur Exynos 1380 Octo-core
+- Mémoire interne de 128 Go - RAM de 8 Go
+- Ecran Super Amoled Infinity 6.4 pouces - 2340 x 1080 - 120Hz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BYMPCWHN{{</world>}}

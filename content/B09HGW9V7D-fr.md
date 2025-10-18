@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livraison : 1x JBL 130 NC TWS écouteurs Bluetooth sans fil / 1x étui de recharge / 1x câble de recharge USB C / 3x embouts / 1x guide de démarrage rapide – 40 heures de batterie, en noir
 - Grâce à leur résistance à leau IPX4 et à la sueur, les écouteurs font face aux éclaboussures ou aux averses. Les quatre microphones permettent de passer des appels mains libres en stéréo
 - Son Pure Bass JBL : les écouteurs Bluetooth sans fil dotés de haut-parleurs de 10 mm, conçus en format intra-auriculaires, combinent un confort de port et le son Pure Bass JBL aux basses profondes
-- La durée de vie de la batterie (jusquà 40 heures et 8h avec réduction de bruit) permet de profiter de la musique / 10 minutes de charge suffisent pour prolonger de deux heures la batterie
+- Livraison : 1x JBL 130 NC TWS écouteurs Bluetooth sans fil / 1x étui de recharge / 1x câble de recharge USB C / 3x embouts / 1x guide de démarrage rapide – 40 heures de batterie, en noir
 - La réduction du bruit active Smart Ambient évite les bruits extérieurs gênants en restant conscient de votre environnement. La fonction TalkThru permet de discuter sans retirer vos écouteurs
+- La durée de vie de la batterie (jusquà 40 heures et 8h avec réduction de bruit) permet de profiter de la musique / 10 minutes de charge suffisent pour prolonger de deux heures la batterie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HGW9V7D{{</world>}}

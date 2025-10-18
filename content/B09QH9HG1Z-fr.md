@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Schleich
-- 42575
 - Les figurines Schleich sont modelées avec des détails fidèles et ressemblent presque à leurs modèles animaux. Également parfaites pour des jeux pédagogiques de qualité.
+- 42575
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QH9HG1Z{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous aide à vous sentir et à être au mieux de votre forme chaque jour
-- L’apogée de plus d’un siècle d’innovation et d’expertise
 - Une huile pour la barbe qui l’adoucit
-- Hydrate les peaux sèches sous la barbe
 - Appliquer quelques gouttes tous les jours (plus pour les barbes longues) sur votre paume, puis répartir l’huile dans la barbe et sur la peau
+- Hydrate les peaux sèches sous la barbe
+- L’apogée de plus d’un siècle d’innovation et d’expertise
+- Vous aide à vous sentir et à être au mieux de votre forme chaque jour
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08CJ5LPXK{{</world>}}

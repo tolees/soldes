@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trois bandes sur le dessus
-- Semelle en caoutchouc
 - Lacets
+- Trois bandes sur le dessus
 - toile
+- Semelle en caoutchouc
 - textile
 - Chaussures de sport
 

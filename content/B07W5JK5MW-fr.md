@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JUSQUÀ 5 MOIS AVEC LE RÉTROÉCLAIRAGE ÉTEINT
 - CHARGEMENT USB-C À USB-C
 - USB TYPE C
-- JUSQUÀ 5 MOIS AVEC LE RÉTROÉCLAIRAGE ÉTEINT
 - 10 JOURS AVEC UNE CHARGE COMPLÈTE
 
 [🛒 Achète-le!!]({{< param buyurl >}})

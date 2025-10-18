@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
-- Semelle intérieure rembourrée sur le devant : amorti optimal
 - Semelle extérieure 100 % TPU : longue durée de vie
 - Cuir lisse
+- Semelle intérieure rembourrée sur le devant : amorti optimal
+- Couleur : noir
 - Doublure : 87 % textile (60 % polyuréthane, 40 % polyester), 13 % textile (60 % nylon, 40 % polyuréthane)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

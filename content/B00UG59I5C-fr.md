@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Atelier mobile coffret comprenant de nombreux accessoires pour le perçage, le vissage et plus encore
 - Perceuse visseuse à percussion 2 vitesses, compacte et ultra légère
+- Atelier mobile coffret comprenant de nombreux accessoires pour le perçage, le vissage et plus encore
 - la tronçonneuse sans fil assure un travail confortable et sûr dans le jardin grâce à son poids léger, sa maniabilité et sa poignée ergonomique ainsi que la protection des mains
 
 [🛒 Achète-le!!]({{< param buyurl >}})

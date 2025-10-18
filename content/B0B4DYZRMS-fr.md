@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Redirection de ports en trois étapes : NAT ouvert élimine la configuration manuelle frustrante et compliquée des ports
-- WiFi 6 ultra-rapide - Profitez de vitesses allant jusquà 3000 Mbps et dune efficacité réseau multipliée par 4 grâce aux canaux OFDMA et 160 MHz.
 - Compatible avec ASUS AiMesh : créez un réseau de maille polyvalent dans toute la maison en utilisant des routeurs compatibles AiMesh
+- WiFi 6 ultra-rapide - Profitez de vitesses allant jusquà 3000 Mbps et dune efficacité réseau multipliée par 4 grâce aux canaux OFDMA et 160 MHz.
 - Vitesses multigigabit par câble : connexions LAN ajoutées de 2 gigabits, port de 2,5 Gbit/s et Wi-Fi 6
 - Durabilité testée et fonctionnement stable : le TUF Gaming AX3000 V2 a passé des tests vérifiés assurant un fonctionnement fiable et stable
 

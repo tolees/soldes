@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions : 132 x 71,5 x 113,5 cm
 - Sol avec bord incliné qui protège de la boue et de leau
 - Finition affection bois
-- Dimensions : 132 x 71,5 x 113,5 cm
-- Supports internes intégrés pour montage détagères
 - Système de fermeture à pédale
+- Supports internes intégrés pour montage détagères
 - Trous daération
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

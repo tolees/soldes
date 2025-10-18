@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCRIN DENFANCE : Le flacon rose aux formes épurées évoque la douceur de lenfance. Un écrin qui capture lesprit gourmand et fruité de cette fragrance, pour un moment de délectation à chaque vaporisation.
-- DOUCEUR SUCRÉE : La fragrance séveille sur des notes pétillantes de citron et de fruits rouges, suivies par un coeur gourmand de pomme sucrée et pivoine, et se repose sur une base réconfortante de vanille, caramel et musc.
-- UNE ÉVASION GOURMANDE : LEau de Parfum pour femme Varens Sweet Pomme dAmour est une véritable évasion vers un monde de douceur, où la pomme d’amour se mêle au caramel chaleureux pour un voyage gourmand.
-- SAVOIR-FAIRE FRANÇAIS : Conçus en France avec amour, nos parfums sont le fruit du savoir-faire de Maîtres Parfumeurs. Chaque note reflète lengagement dUlric de Varens envers lexcellence et la qualité.
 - 40 ANS DEXPERTISE : Avec plus de 40 ans dexpertise, Ulric de Varens incarne une vision révolutionnaire de la parfumerie. En collaborant avec les plus grands parfumeurs, nous rendons le luxe accessible à chacun, sans compromis sur la qualité.
+- ÉCRIN DENFANCE : Le flacon rose aux formes épurées évoque la douceur de lenfance. Un écrin qui capture lesprit gourmand et fruité de cette fragrance, pour un moment de délectation à chaque vaporisation.
+- SAVOIR-FAIRE FRANÇAIS : Conçus en France avec amour, nos parfums sont le fruit du savoir-faire de Maîtres Parfumeurs. Chaque note reflète lengagement dUlric de Varens envers lexcellence et la qualité.
+- UNE ÉVASION GOURMANDE : LEau de Parfum pour femme Varens Sweet Pomme dAmour est une véritable évasion vers un monde de douceur, où la pomme d’amour se mêle au caramel chaleureux pour un voyage gourmand.
+- DOUCEUR SUCRÉE : La fragrance séveille sur des notes pétillantes de citron et de fruits rouges, suivies par un coeur gourmand de pomme sucrée et pivoine, et se repose sur une base réconfortante de vanille, caramel et musc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYSDC3K3{{</world>}}

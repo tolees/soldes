@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de haute qualité
 - Durable
+- Matériau de haute qualité
 - Design flexible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

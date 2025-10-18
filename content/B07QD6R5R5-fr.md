@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Roller gel encre pastel K108P 0, 8mm
-- Pour un effet fluo, le orange, jaune, rose et vert brillent sous la lumière noire
 - Encre gel couleur pastel
-- Corps fin opaque pastel
 - Encre à pigments et à forte opacité, résistante à leau et à la lumière
+- Pour un effet fluo, le orange, jaune, rose et vert brillent sous la lumière noire
+- Corps fin opaque pastel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QD6R5R5{{</world>}}

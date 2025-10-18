@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Un parfum qui vous donne le sourire !
 - Les notes de tête de baies rose souvrent sur un cœur de jasmin exquis & le confort des muscs.
 - Les notes de fond de musc et de bois de cachemire assurent un sillage longue tenue.
-- Une dose de bonheur immédiate.
 - Une eau de parfum florale musquée, espiègle et lumineuse.
+- Une dose de bonheur immédiate.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XF2Z9SJ{{</world>}}

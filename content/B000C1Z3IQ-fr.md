@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tipo de producto: Agua de colonia
 - Marca: Clinique
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Agua de colonia
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000C1Z3IQ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% polyester
-- Regular
-- Fermeture: Enfiler
 - Type de col: Col une pièce
 - Lavage à la main seulement
+- Fermeture: Enfiler
+- 100% polyester
+- Regular
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XMSNSYY{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Panasonic VW-VBT380E-K à double alimentation
 - Pour V210, V520, V721
 - Batterie lithium-ion rechargeable
-- Panasonic VW-VBT380E-K à double alimentation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BCYMJHU{{</world>}}

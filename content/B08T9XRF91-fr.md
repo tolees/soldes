@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BEC RÉGLABLE ET NETTOYAGE FACILE – Bec en métal ajustable pour différentes hauteurs de tasses ; bac d’égouttage amovible
+- 2 TASSES EN MÊME TEMPS – Prépare une ou deux tasses de café SENSEO en moins d’une minute, d’une simple pression
 - CRÈMA PLUS POUR UNE MOUSSE ONCTUEUSE – Technologie Crema Plus pour une couche de crème fine et veloutée à chaque tasse
 - INTENSITE PLUS POUR 3 RECETTES – Choisissez facilement entre un café long, intense ou espresso grâce au curseur intuitif
-- 2 TASSES EN MÊME TEMPS – Prépare une ou deux tasses de café SENSEO en moins d’une minute, d’une simple pression
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9XRF91{{</world>}}

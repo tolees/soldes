@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bluetooth Stand-by
 - Auto Sound Engine
 - Caisson de basses sans fil
 - Design adapté à votre TV
-- Bluetooth Stand-by
 - ASC (Adaptive Sound Control)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

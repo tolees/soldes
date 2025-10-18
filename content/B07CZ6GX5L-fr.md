@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fabriqués avec un adhésif unique basé sur les ressources vitaux (le 60% est fabriqué avec plantes non comestibles de croissance annuelle)
 - La colle super forte rend let collées de façon encore plus sûre que les notes sein dorigine
-- Les notes Post-it Super Sticky sont super fortes, super polyvalents et super frappantes
 - Post-it plus fermes et plus longtemps
+- Les notes Post-it Super Sticky sont super fortes, super polyvalents et super frappantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CZ6GX5L{{</world>}}

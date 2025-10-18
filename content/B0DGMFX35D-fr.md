@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SYSTÈME D’AUTO-NETTOYAGE DU LAVEUR : activez la fonction de nettoyage automatique en appuyant simplement sur un bouton et laissez votre rouleau sécher à lemplacement prévu sur la base de charge pour la prochaine séance de ménage
-- ROULEAU TOUJOURS PROPRE : le système intelligent de nettoyage permanent fait circuler en continu de leau propre dans le rouleau de la brosse pour des résultats impeccables, tandis que leau sale est aspirée dans un second réservoir
-- EXCELLENTE COMPATIBILITÉ: pour un nettoyage encore plus efficace, utilisez les produits figurant dans notre liste des détergents compatibles, qui inclut les produits ménagers les plus courants du marché
 - NETTOYAGE 2-EN-1 ASPIRATEUR & SERPILLIERE: un aspirateur laveur sans fil qui aspire et lave en un seul passage pour un nettoyage rapide et des résultats parfaits sur tous les types de sols durs (parquet, marbre, stratifié et carrelage)
-- NETTOYAGE SANS EFFORT: un design très léger avec un système de rouleau autopropulsé pour un nettoyage demandant peu deffort (25%), ainsi quune ergonomie pratique et un design moderne bien pensé
-- RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- DÉTECTION INTELLIGENTE DE LA SALETÉ: détection automatique de la saleté avec des indicateurs colorés sur un écran LED (rouge pour une zone sale, bleu pour une zone propre) et ajustement automatique de la puissance daspiration et du débit deau pour des résultats parfaits
+- SYSTÈME D’AUTO-NETTOYAGE DU LAVEUR : activez la fonction de nettoyage automatique en appuyant simplement sur un bouton et laissez votre rouleau sécher à lemplacement prévu sur la base de charge pour la prochaine séance de ménage
 - LIVRÉ AVEC: 1 rouleaudoux, 1 rouleau récurant, brossette latérale, 1 filtre en mousse et 1 filtre type HEPA supplémentaires, base de charge et de nettoyage, brosse de nettoyage avec fonction passoire et fonction cutter
+- EXCELLENTE COMPATIBILITÉ: pour un nettoyage encore plus efficace, utilisez les produits figurant dans notre liste des détergents compatibles, qui inclut les produits ménagers les plus courants du marché
+- ROULEAU TOUJOURS PROPRE : le système intelligent de nettoyage permanent fait circuler en continu de leau propre dans le rouleau de la brosse pour des résultats impeccables, tandis que leau sale est aspirée dans un second réservoir
+- NETTOYAGE SANS EFFORT: un design très léger avec un système de rouleau autopropulsé pour un nettoyage demandant peu deffort (25%), ainsi quune ergonomie pratique et un design moderne bien pensé
+- DÉTECTION INTELLIGENTE DE LA SALETÉ: détection automatique de la saleté avec des indicateurs colorés sur un écran LED (rouge pour une zone sale, bleu pour une zone propre) et ajustement automatique de la puissance daspiration et du débit deau pour des résultats parfaits
+- RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - NETTOYAGE LE LONG DES MURS: la brossette latérale intégrée nettoie parfaitement le long des murs et dans les coins pour un nettoyage en profondeur et une maison impeccable, même dans les zones les plus difficiles daccès
 - TRÈS GRANDE AUTONOMIE: un nettoyage sans fil dexception avec jusquà 50minutes dautonomie pour nettoyer une superficie maximale de 350m²* (*en fonction des meubles)
 

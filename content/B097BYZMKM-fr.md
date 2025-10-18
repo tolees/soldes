@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode 2,4 GHz (performance) + Bluetooth 5.2 (polyvalence)
-- Forme légère et symétrique
-- Capteur optique 400 IPS et 19 000 DPI| Câble USB-C amovible avec charge rapide
 - Jusquà 100 heures dautonomie | Résistance à leau et à la poussière
 - Interrupteurs optiques testés pour 100 millions de clics
+- Capteur optique 400 IPS et 19 000 DPI| Câble USB-C amovible avec charge rapide
+- Mode 2,4 GHz (performance) + Bluetooth 5.2 (polyvalence)
+- Forme légère et symétrique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097BYZMKM{{</world>}}

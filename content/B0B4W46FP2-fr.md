@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ne pas utiliser deau de Javel. Ne pas repasser.
 - Fabriqué en rPET, un matériau 100% recyclable, issu du recyclage de bouteilles en plastique.
-- Produit original de M. Wonderful.
 - Trousse à crayons avec trois compartiments individuels et fermeture zippée.
+- Produit original de M. Wonderful.
 - Ne pas laver (les taches peuvent être enlevées en frottant doucement avec un chiffon humide).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

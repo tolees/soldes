@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements) - UPS avec interface USB (câble USB inclus)
-- Protection téléphone/box/modem/réseau 10/100 (RJ45)
 - 24 mois de garantie Eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
 - 3S 850 VA / 510 watts
+- Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements) - UPS avec interface USB (câble USB inclus)
 - 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement + 2 ports USB pour chargeur (2A max)
+- Protection téléphone/box/modem/réseau 10/100 (RJ45)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082TGMZGP{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sélectionnez la couleur de la croûte : pain légèrement doré à très croustillant
 - Des pains de 500 g à 1 kg pour les petites et les grandes faims
 - Tout est automatique. Placez vos ingrédients dans la cuve, sélectionnez le programme et la machine à pain travaille pour vous : du pétrissage à la cuisson
 - Les 3 programmes sans gluten vous permettent de préparer des pains et des gâteaux sans gluten en utilisant une large gamme de mélanges pour pains et farines sans gluten
+- Sélectionnez la couleur de la croûte : pain légèrement doré à très croustillant
 - Gardez le contrôle grâce au large écran daffichage indiquant clairement les paramètres et le temps
 - Départ différé jusquà 15 heures et fonction automatique de maintien au chaud pendant 1 heure
 

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Appliquer le produit deux fois par jour, matin et midi sur les zones concernées; En cas dexposition directe au soleil réappliquez le produit toutes les 2 heures, en outre, son utilisation continue favorise le mécanisme de réparation naturelle de lADN
 - Résistant Á leau et texture fluide facile Á appliquer
-- ADN réparons et réparons Filtres UV
 - Laissez sur la peau un film protecteur avec repairsomes contenant de la photoliase encapsulée dans des liposomes et des filtres UV qui absorbent, réfléchissent et dispersent les rayonnements solaires
+- ADN réparons et réparons Filtres UV
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D3HXWCK{{</world>}}

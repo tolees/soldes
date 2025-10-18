@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de sport: Athletic Sports Apparel
 - Confort de port eleve
 - Nom du département: Homme
-- Liberte de mouvement absolue
 - Marque: nike
+- Type de sport: Athletic Sports Apparel
+- Liberte de mouvement absolue
 - Haute qualite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

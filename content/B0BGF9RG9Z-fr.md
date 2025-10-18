@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Notes de tête : labdanum, patchouli, bois de santal, bois de cèdre, ambre, encens, bois dambre
+- Eau de parfum pour homme 100 ml
+- Notes de fond : citron, pamplemousse, poivre rose, bergamote, coriandre, menthe, aldéhyde
 - Maison Alhambra Jean Lowe Ombre Eau De Parfum Spray 3.4 oz
 - Notes de cœur : melon, jasmin, gingembre, muscade
-- Notes de fond : citron, pamplemousse, poivre rose, bergamote, coriandre, menthe, aldéhyde
-- Eau de parfum pour homme 100 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BGF9RG9Z{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine
 - 100% Coton
+- Lavage en machine
 - Manche longue
 - À enfiler
 

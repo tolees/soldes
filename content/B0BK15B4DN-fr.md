@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydratation 24 Longue tenue jusquà 16h
-- Complexe de vitamines C,E et B5
-- Formule composée à 85% dingrédients dorigine naturelle
 - Fond de teint Clean et Vegan
+- Complexe de vitamines C,E et B5
 - Un teint frais, unifié et éclatant
+- Hydratation 24 Longue tenue jusquà 16h
+- Formule composée à 85% dingrédients dorigine naturelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BK15B4DN{{</world>}}

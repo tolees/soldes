@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu pour votre reflex numérique plein format
-- Rapport de reproduction maximal: 1 : 5.2
-- Transitions plan net > flou darrière plan dune incroyable douceur
-- Compatible avec les boitiers APS-C
-- Distance minimale de mise au point: 30
 - Piqué dès la pleine ouverture
+- Conçu pour votre reflex numérique plein format
+- Transitions plan net > flou darrière plan dune incroyable douceur
+- Distance minimale de mise au point: 30
+- Rapport de reproduction maximal: 1 : 5.2
+- Compatible avec les boitiers APS-C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00A35X8ZG{{</world>}}

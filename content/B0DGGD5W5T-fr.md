@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand champ dapplication : clé à cliquet de 1/2”, clé à cliquet de 1/4” et 55 pièces supplémentaires dans un coffret de transport pratique pour faciliter le rangement et le transport
-- Chacune est dotée dun bouton de verrouillage pour une fixation et un dégagement sûrs de la douille, et dun inverseur intuitif permettant de passer facilement de la rotation à gauche à la rotation à droite
-- Comprend une clé à cliquet 1/4” et une clé à cliquet 1/2”, toutes deux avec un couple extrêmement élevé supérieur à la norme ISO de plus de 50 % (selon la norme ISO 3315), ce qui garantit des performances puissantes et fiables pour diverses tâches
 - Les deux clés à cliquet sont équipées dune poignée Softgrip ergonomique, dun manche courbé et dun mécanisme fin à 72 dents pour un angle de reprise de 5°
+- Chacune est dotée dun bouton de verrouillage pour une fixation et un dégagement sûrs de la douille, et dun inverseur intuitif permettant de passer facilement de la rotation à gauche à la rotation à droite
 - Contenu de la livraison : 1 cliquet 1/2“, 1 cliquet 1/4", 17 douilles 1/2” (10-32 mm), 2 douilles bougie (16 mm, 21 mm), 10 douilles 1/4" (5-13 mm), 7 adaptateurs et extensions, 1 tournevis porte-embouts 1/4", 18 embouts, 1 coffret de transport
+- Comprend une clé à cliquet 1/4” et une clé à cliquet 1/2”, toutes deux avec un couple extrêmement élevé supérieur à la norme ISO de plus de 50 % (selon la norme ISO 3315), ce qui garantit des performances puissantes et fiables pour diverses tâches
+- Grand champ dapplication : clé à cliquet de 1/2”, clé à cliquet de 1/4” et 55 pièces supplémentaires dans un coffret de transport pratique pour faciliter le rangement et le transport
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DGGD5W5T{{</world>}}

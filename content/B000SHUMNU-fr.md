@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tous supports, tous usages
-- Résistance extrême. 1000m décriture possible.
-- Corps métal
-- Marqueur permanent Pentel Pen N50 encre noire
 - Pointe conique 4,3mm
+- Corps métal
+- Résistance extrême. 1000m décriture possible.
+- Marqueur permanent Pentel Pen N50 encre noire
+- Tous supports, tous usages
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SHUMNU{{</world>}}

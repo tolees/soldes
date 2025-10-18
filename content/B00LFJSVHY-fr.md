@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type dédition : Combo
 - Editeur : DreamWorks Animation SKG
-- Durée : 102 min
 - Référence EAN : 3344428058753
+- Durée : 102 min
+- Type dédition : Combo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00LFJSVHY{{</world>}}

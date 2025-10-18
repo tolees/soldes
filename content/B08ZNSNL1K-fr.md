@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des performances remarquables
-- Large choix de capacités
-- Supporte une suite de sécurité intégrale (TCG Opal, AES 256 bits, eDrive)
 - Intègre la dernière technologie 3D TLC NAND
+- Supporte une suite de sécurité intégrale (TCG Opal, AES 256 bits, eDrive)
+- Large choix de capacités
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08ZNSNL1K{{</world>}}

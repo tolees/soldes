@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kickers Kick Lo Mens
 - La Conception De Chaussures Bas
 - Cuir Pleine Supérieure
 - Contrastant Accents De Couture
+- Kickers Kick Lo Mens
 - Kickers Onglets De Marque Sur Le Côté Extérieurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

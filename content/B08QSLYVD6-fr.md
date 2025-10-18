@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée mobile solide ; ventilateur très silencieux ; réglage parmi 4 modes de réfrigération à l’aide de la molette : arrêt, mode Nuit, mode ECO et mode MAX ; classe énergétique : A++
 - Glacière électrique grande capacité avec réfrigération puissante : 28 l pour nourriture et boissons ; place pour 8 bouteilles de 1,5 l debout ; isolation PU puissante de haute qualité
 - Dimensions int./ext. : (L x l x H.) 33 x 37 x 24 cm/41 x 47 x 32 cm ; poids : 3,8 kg ; câble 12 V et 230 V inclus ; intérieur antimicrobien contre la formation d’odeurs, de champignons et moisissures
 - Isolation efficace : glacière à parois pleines en mousse PU ; couvercle hermétique avec poignée en creux à ouverture facile ; refroidissement jusquà 19 °C en dessous de la température ambiante
+- Poignée mobile solide ; ventilateur très silencieux ; réglage parmi 4 modes de réfrigération à l’aide de la molette : arrêt, mode Nuit, mode ECO et mode MAX ; classe énergétique : A++
 - Glacière électrique puissante très silencieuse ; fonctionne branchée à une prise normale de 230 V ou à la prise allume-cigare de 12 V dun véhicule ; idéale pour les trajets en voiture et le camping
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Max_focal_length: 70.0 millimeters
+- TELLEMENT PLUS RAPIDE: Réalisez jusqu’à 14 vps en haute définition avec des performances AF/AE optimales. Photographiez jusqu’à 200 images au format JPEG ou 124 images au format RAW 12 bits sans compression en une seule rafale
 - UNE CONSTRUCTION ROBUSTE: Avec son boîtier en alliage de magnésium ultra-résistant et léger, cet appareil photo se transporte facilement et peut affronter nimporte quel endroit. Il est conçu pour résister au mieux à la poussière, à la saleté et à l’humidité
 - LARGE GAMME DOBJECTIFS: Objectifs NIKKOR à monture Z et objectifs NIKKOR à monture F (via ladaptateur FTZ)
 - CRÉEZ DANS N’IMPORTE QUELLES CONDITIONS DE LUMINOSITÉ: LAF en faible lumière fonctionne jusqu’à -6 IL avec un objectif doté d’une ouverture f/2 ou plus lumineuse
-- TELLEMENT PLUS RAPIDE: Réalisez jusqu’à 14 vps en haute définition avec des performances AF/AE optimales. Photographiez jusqu’à 200 images au format JPEG ou 124 images au format RAW 12 bits sans compression en une seule rafale
-- Max_focal_length: 70.0 millimeters
 - DOUBLE LOGEMENT POUR CARTES: Vous pouvez utiliser des cartes SD UHS-II dans un logement et des cartes XQD ou les toutes récentes cartes CFexpress ultra-rapides dans lautre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

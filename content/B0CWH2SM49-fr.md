@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un monde digne des rêves les plus fous des enfants – La collection LEGO DREAMZzz invite les enfants à laisser libre cours à leur imagination et à choisir leurs propres aventures en construisant des créatures et des véhicules fantastiques
-- Plonger dans l’action – Le set propose des instructions de montage basées sur une histoire, également disponibles dans l’application LEGO Builder qui permet aux enfants de faire pivoter leurs modèles et de suivre leur progression
-- Modèles folkloriques pour enfants – Stimulez l’imagination des filles et des garçons dès 9 ans avec le fantastique set LEGO DREAMZzz Le corbeau de minuit de la Sorcière des cauchemars pour développer limagination et le jeu de rôle, tout en samusant
-- Détails fantastiques – Le corbeau de l’ensemble des créatures dispose d’ailes et de plumes articulées, l’araignée possède une cage et des pattes mobiles et la maison présente un toit qui s’ouvre et des pattes articulées
-- 5 minifigurines LEGO – Les chasseurs de rêves Mateo et Astrid, la méchante Sorcière des cauchemars et les doubles maléfiques Dizzy et Dogan donnent vie au set pour un jeu réaliste et une activité qui favorise le développement
-- Idée de cadeau pour enfants – Le set peut être offert en cadeau à des fans de la série télévisée LEGO DREAMZzz ou à des garçons et des filles créatifs passionnés d’animaux et qui aiment raconter des histoires fantastiques
 - Choisir son aventure – Les enfants créatifs peuvent construire le corbeau, puis le transformer en cabane-corbeau, ou encore en araignée chaudron dans ce set de 3 créatures magiques avec ce jouet LEGO modulable
+- 5 minifigurines LEGO – Les chasseurs de rêves Mateo et Astrid, la méchante Sorcière des cauchemars et les doubles maléfiques Dizzy et Dogan donnent vie au set pour un jeu réaliste et une activité qui favorise le développement
+- Détails fantastiques – Le corbeau de l’ensemble des créatures dispose d’ailes et de plumes articulées, l’araignée possède une cage et des pattes mobiles et la maison présente un toit qui s’ouvre et des pattes articulées
+- Idée de cadeau pour enfants – Le set peut être offert en cadeau à des fans de la série télévisée LEGO DREAMZzz ou à des garçons et des filles créatifs passionnés d’animaux et qui aiment raconter des histoires fantastiques
+- Modèles folkloriques pour enfants – Stimulez l’imagination des filles et des garçons dès 9 ans avec le fantastique set LEGO DREAMZzz Le corbeau de minuit de la Sorcière des cauchemars pour développer limagination et le jeu de rôle, tout en samusant
+- Plonger dans l’action – Le set propose des instructions de montage basées sur une histoire, également disponibles dans l’application LEGO Builder qui permet aux enfants de faire pivoter leurs modèles et de suivre leur progression
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWH2SM49{{</world>}}

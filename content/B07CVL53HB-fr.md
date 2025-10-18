@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pays d’origine : Japon.
-- Maintenant disponible dans un pack de 20 poses.
-- Carré 1 : 1 format.
 - Pour une utilisation avec les appareils photo instantanés Instax Square et les imprimantes.
+- Pays d’origine : Japon.
+- Carré 1 : 1 format.
+- Maintenant disponible dans un pack de 20 poses.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CVL53HB{{</world>}}

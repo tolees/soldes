@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Introduction à l’ingénierie – Les maquettes à construire LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie et de la mécanique
+- Jeu de construction LEGO avec avion à construire pour garçons et filles dès 8 ans – Construisez un avion de brousse LEGO Technic avec des accessoires incroyables comme une hélice qui tourne, des ailerons réglables et un moteur 4 cylindres à pistons
 - Beau cadeau pour garçon ou fille dès 8 ans – Laissez le jeu créatif stimuler l’imagination des enfants avec ce jouet LEGO amusant qui réserve de nombreuses surprises aux jeunes pilotes. Ceux-ci peuvent construire, puis explorer leur avion de brousse
 - Décorations de zébrures sur les ailes de lavion – Cet avion de brousse LEGO arbore des zébrures qui symbolisent le rôle qu’il joue dans la protection des animaux sauvages
-- Jeu de construction LEGO avec avion à construire pour garçons et filles dès 8 ans – Construisez un avion de brousse LEGO Technic avec des accessoires incroyables comme une hélice qui tourne, des ailerons réglables et un moteur 4 cylindres à pistons
 - Avion fonctionnel sous forme de jouet interactif – Les enfants peuvent jouer à descendre en piqué avec leur avion LEGO et partir en mission de protection de la nature à bord de l’avion de brousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

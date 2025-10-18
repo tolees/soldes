@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Base en verre borosilicate : résistant aux températures extrêmes, de -40°C à +300°C, et aux chocs thermiques jusqu’à 220°C, permettant de cuire au four (sans le couvercle), conserver au réfrigérateur et au congélateur et de réchauffer au micro-ondes (sans le couvercle)
-- Plat forme HAUTE en verre léger : matériau sain et hygiénique, ne retient ni les tâches ni les odeurs
 - Dimensions: 12x12 cm / Contenance 0.8L
+- Plat forme HAUTE en verre léger : matériau sain et hygiénique, ne retient ni les tâches ni les odeurs
+- Base en verre borosilicate : résistant aux températures extrêmes, de -40°C à +300°C, et aux chocs thermiques jusqu’à 220°C, permettant de cuire au four (sans le couvercle), conserver au réfrigérateur et au congélateur et de réchauffer au micro-ondes (sans le couvercle)
 - Couvercle multifonction étanche et hermétique à lair et aux liquides grâce aux 4 rabats et à son joint en silicone
 - Espace dédié sur le couvercle pour écrire le contenu du plat ou le prénom avec un crayon à papier
 

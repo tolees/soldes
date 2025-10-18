@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Découvrez Carambar Minis Fête, un assortiment de bonbons tendres, en format mini : Barbe à papa, Cola, Caramel, Framboise, pêche! Alors lequel préféres-tu
 - Un produit Made in France
 - Assortiment format minis
-- Une forme légendaire connue de tous
-- Découvrez Carambar Minis Fête, un assortiment de bonbons tendres, en format mini : Barbe à papa, Cola, Caramel, Framboise, pêche! Alors lequel préféres-tu
 - Carambar sengage à réduire le plastique de ses emballages : un engagement fort grâce à un travail de fond mené sur le long terme. Ce sont en moyenne 76% des déchets qui sont valorisés dans nos usines
+- Une forme légendaire connue de tous
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DJ957CZ{{</world>}}

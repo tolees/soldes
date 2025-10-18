@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interface utilisateur avec deux modes : Vis à tôle et vis à bois. D’autres modes sont paramétrables via l’application Toolbox
-- Trois positions de vitesse/couple très pratiques : pour une très bonne maîtrise des performances
-- Porte-outil 2 en 1 (six pans creux 1/4" et carré mâle 1/2") pour une flexibilité maximale et un très grand spectre d’applications
 - Livré avec : GDX 18V-210 C, 1 module Bluetooth Low Energy GCY 42, L-BOXX 136
+- Interface utilisateur avec deux modes : Vis à tôle et vis à bois. D’autres modes sont paramétrables via l’application Toolbox
+- Porte-outil 2 en 1 (six pans creux 1/4" et carré mâle 1/2") pour une flexibilité maximale et un très grand spectre d’applications
+- Trois positions de vitesse/couple très pratiques : pour une très bonne maîtrise des performances
 - Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les nouveaux et anciens outils Bosch Professional de la même catégorie de voltage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

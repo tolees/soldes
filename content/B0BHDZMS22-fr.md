@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jeu de cartes parfait pour jouer avec des amis ou en famille
 - Instructions pour le jeu: celui qui commence, prendra une carte et devra demander à l’autre personne, ou à son équipe, de deviner le mot écrit dessus. Pour ce faire, vous pouvez décrire, donner des synonymes et enrouler autant que vous le souhaitez, mais vous ne pouvez PAS dire le mot lui-même ou les cinq autres connexes. Lorsque le mot est deviné, le même joueur prendra une autre carte et ainsi de suite jusqu’à ce que le tour soit épuisé. Les cartes devinées seront face visible pour le décompte final : 1 carte = 1 point.
 - Il se compose de 100 cartes, dans chacune desquelles nous trouvons un mot qui doit être deviné et cinq autres connexes, qui sont celles qui ne peuvent pas être utilisées dans la description, pour rendre la tâche difficile.
-- Jeu de cartes parfait pour jouer avec des amis ou en famille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BHDZMS22{{</world>}}

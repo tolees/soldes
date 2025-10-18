@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉBLOQUE DE NOUVEAUX HÉROS – Incarne Bissocorn, Wu et Wei ainsi que Panache, et passe dun dragon à lautre à tout moment.
 - CRÉE TON PERSONNAGE – Améliore la vitesse, la force et lintelligence de ton dragon en accumulant de lexpérience.
-- INCARNE UN DRAGON – Vole librement dans les airs et libère la puissance de Tonnerre et de ses amis.
 - ENVOLE-TOI VERS DE NOUVEAUX ROYAUMES – Explore différentes étendues pour retrouver la famille de Tonnerre.
+- INCARNE UN DRAGON – Vole librement dans les airs et libère la puissance de Tonnerre et de ses amis.
+- DÉBLOQUE DE NOUVEAUX HÉROS – Incarne Bissocorn, Wu et Wei ainsi que Panache, et passe dun dragon à lautre à tout moment.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B3JW68RP{{</world>}}

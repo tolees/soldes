@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
-- Lacet
-- Textile
 - éthylène vinyle acétate
+- Textile
+- Lacet
+- Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZVL79N9{{</world>}}

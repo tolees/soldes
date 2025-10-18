@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Créez la magie de Noël avec l’elfe de Noël espiègle de Glow.
-- À partir de 3 ans.
+- Dimensions : environ 30 x 7,5 x 7,5 cm (H x L x D)
 - Figurine ludique avec corps souple et visage en vinyle.
 - Crochet et boucles de préhension pour l’accrocher à travers la maison.
-- Dimensions : environ 30 x 7,5 x 7,5 cm (H x L x D)
+- À partir de 3 ans.
+- Créez la magie de Noël avec l’elfe de Noël espiègle de Glow.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HDGQM46{{</world>}}

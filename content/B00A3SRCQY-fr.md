@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Convient aussi pour la restauration grâce à la forme ergonomique, Empilable, Bord particulièrement résistant aux chocs
 - Profondeur optimale pour servir les grandes salades préparées avec la garniture et la sauce, Convient aussi pour les accompagnements, Combinaison idéale avec la collection Mariefleur Basic
 - Saladier de forme incurvée avec motifs floraux en filigrane pour une présentation élégante de la salade, Idéal pour le quotidien et les grandes occasions
-- Convient aussi pour la restauration grâce à la forme ergonomique, Empilable, Bord particulièrement résistant aux chocs
 - Contenu : 1x Villeroy & Boch Mariefleur Gris Serve & Salad Saladier (45 x 31 cm), Matière : Porcelaine Premium, Couleur : Blanc/Multicolore
 - Adapté au lave-vaisselle et au four à micro-ondes, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
 

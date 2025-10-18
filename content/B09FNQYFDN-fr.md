@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Embout de protection et semelle en caoutchouc Vibram TC5+
-- Dessus en cuir de porc et maille
 - La languette à soufflet empêche les débris dentrer
+- Dessus en cuir de porc et maille
+- Embout de protection et semelle en caoutchouc Vibram TC5+
 - Lacets, sangles et doublure en maille 100 % recyclés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 ports LAN Gigabit Ethernet et 1 port WAN/LAN Gigabit Ethernet fournissent une connectivité filaire en option
 - Insérez simplement la 4G LTE : activez la carte SIM pour partager une connexion Internet mobile haut débit avec des vitesses de téléchargement allant jusquà 150 Mbps
+- 3 ports LAN Gigabit Ethernet et 1 port WAN/LAN Gigabit Ethernet fournissent une connectivité filaire en option
 - Profitez de vitesses Wi-Fi combinées allant jusquà 1 200 Mbit/s grâce à la technologie sans fil AC bibande
 
 [🛒 Achète-le!!]({{< param buyurl >}})

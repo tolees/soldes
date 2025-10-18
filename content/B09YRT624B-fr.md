@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 haut-parleurs verticaux pour le Dolby Atmos sur la barre
-- Mode Partage du son du Téléviseur
 - Enceinte centrale à projection verticale, Caisson de basses sans fil, Enceintes arrière
+- Mode Partage du son du Téléviseur
+- 3 haut-parleurs verticaux pour le Dolby Atmos sur la barre
 - Hi Res audio, Meridian
 - Puissance omnidirectionnelle de 620W avec 5,1,3 canaux. Il inonde nimporte quelle pièce avec un son extraordinaire plein de nuances grâce à son triple haut-parleur atmosphérique vertical
 

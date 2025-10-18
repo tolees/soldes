@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finition sans brillance, confortable à porter toute la journée
 - Produits de beauté
-- Rouges à lèvres
+- Finition sans brillance, confortable à porter toute la journée
 - Formule sans huile pour une couverture complète jusquà 24 heures
+- Rouges à lèvres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001P2PPJ8{{</world>}}

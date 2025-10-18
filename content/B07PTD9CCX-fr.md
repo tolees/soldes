@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - parfaite compatibilité avec tous les circuits de jeu Kullerbü
-- avec superbes effets ludiques : héliport, toboggan à billes et garage pouvant accueillir jusqu’à 3 camions de pompiers
 - très amusant pour les petits pompiers en herbe
+- avec superbes effets ludiques : héliport, toboggan à billes et garage pouvant accueillir jusqu’à 3 camions de pompiers
 - encore plus d’action dans le jeu Kullerbü
 
 [🛒 Achète-le!!]({{< param buyurl >}})

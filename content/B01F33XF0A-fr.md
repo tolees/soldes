@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capuchon avec clip
-- Créez vos propres duos
-- Forme triangulaire pour grip amélioré
 - Avec pointe en métal fine
+- Créez vos propres duos
 - Épaisseur de trait 0,4 mm
+- Forme triangulaire pour grip amélioré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01F33XF0A{{</world>}}

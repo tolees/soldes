@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du puzzle : 49 x 36 cm
 - Une activité calme, ludique et éducative pour découvrir les pays du monde et leur capitale
+- Un puzzle de 250 pièces, avec un trieur de pièces à 6 compartiments, idéalement conçu pour les enfants dès 8 ans.
 - Fabriqué en Europe, ce puzzle est composé de matériaux issus de forêts bien gérées certifiées FSC, de matériaux recyclés et de matériaux issus d’autres sources contrôlées (FSC-C111262).
 - Le nombre et la taille des pièces sont spécialement adaptés à lâge de lenfant. Il développe ainsi sa motricité fine, son sens de lobservation et sa capacité de concentration, tout en samusant dans lunivers de ses héros préférés !
-- Un puzzle de 250 pièces, avec un trieur de pièces à 6 compartiments, idéalement conçu pour les enfants dès 8 ans.
-- Dimensions du puzzle : 49 x 36 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095PRK95M{{</world>}}

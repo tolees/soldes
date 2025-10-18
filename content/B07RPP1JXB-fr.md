@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU EDUCATIF STEM : GraviTrax est un système de construction très ludique qui permet aux enfants dexpérimenter des lois physiques comme la gravité, le magnétisme ou la force cinétique. En manipulant les blocs et en testant leurs propres assemblages, ils développent à la fois leur créativité et leur compréhension de ces principes scientifiques
-- UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour les fans de construction de tous âges ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu et dassemblage, seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël
-- MODULABLE A LINFINI et COMPATIBLE avec tous les produits GraviTrax. Ce bloc daction se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine à tous les éléments GraviTrax. Découvrez une large gamme de sets dextension et de blocs daction pour enrichir vos circuits et imaginer un nombre illimité de parcours différents
 - VOLCAN : Un bloc daction innovant prêt à faire jaillir jusquà 3 nouvelles billes dans un circuit GraviTrax ! Lorsque la première bille actionne le bouton du volcan, le bloc entre en éruption et libère les 3 billes quil contient dans 3 directions différentes. Un moyen ludique et spectaculaire de diviser les parcours et dajouter plus de billes
 - CONTENU : 1 bloc daction Volcan, 1 rail long, 2 rails moyens, 3 rails courts, 1 guide dutilisation illustré et en français
+- UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour les fans de construction de tous âges ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu et dassemblage, seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël
+- MODULABLE A LINFINI et COMPATIBLE avec tous les produits GraviTrax. Ce bloc daction se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine à tous les éléments GraviTrax. Découvrez une large gamme de sets dextension et de blocs daction pour enrichir vos circuits et imaginer un nombre illimité de parcours différents
+- JEU EDUCATIF STEM : GraviTrax est un système de construction très ludique qui permet aux enfants dexpérimenter des lois physiques comme la gravité, le magnétisme ou la force cinétique. En manipulant les blocs et en testant leurs propres assemblages, ils développent à la fois leur créativité et leur compréhension de ces principes scientifiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RPP1JXB{{</world>}}

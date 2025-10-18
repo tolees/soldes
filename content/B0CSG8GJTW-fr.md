@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie de refroidissement Cooler Boost 5 exclusive
 - Écran 15,6" Full HD (1920 x 1080), taux de rafraîchissement de 144 Hz et dalle de niveau IPS
 - Mode GPU discret (design MUX) pour pousser les performances à un niveau supérieur
-- Technologie de refroidissement Cooler Boost 5 exclusive
 - Processeur Intel Core de 13e génération
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

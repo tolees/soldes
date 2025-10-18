@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualité de fabrication
-- Pattern : graphique
-- Excellent produit polyvalent de Nike
-- Tissu doux
-- Type de tissu : 100% Coton
 - Matériel : Coton
+- Tissu doux
+- Pattern : graphique
+- Type de tissu : 100% Coton
+- Excellent produit polyvalent de Nike
 - Fermeture à deux boutons
+- Haute qualité de fabrication
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VHD5TC9{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Visitez la rubrique Assistance Clementoni pour bénéficier du service « Pièces manquantes »
-- Dédiés aux plus grandes œuvres d’art de l’histoire, ces puzzles sont une façon originale de constituer votre propre collection.
-- Dimensions du puzzle terminé : 97,5 x 66,8 cm
 - Puzzle pour adultes 2000 pièces
+- Visitez la rubrique Assistance Clementoni pour bénéficier du service « Pièces manquantes »
+- Dimensions du puzzle terminé : 97,5 x 66,8 cm
+- Dédiés aux plus grandes œuvres d’art de l’histoire, ces puzzles sont une façon originale de constituer votre propre collection.
 - Depuis toujours sensible au problème de l’écologie, Clementoni utilise beaucoup de matériaux recyclés, évitant l’emploi de composants polluants. Made in Italy.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

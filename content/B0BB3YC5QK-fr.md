@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Circonférence intérieure : 19 cm
-- Bracelet en chaîne pour homme de Lacoste
-- Fermoir : Aimanté
-- Embelli avec rayure verte en émail sur le côté de la plaque
 - Matériel: Acier inoxydable avec placage ionique (IP) noir
+- Embelli avec rayure verte en émail sur le côté de la plaque
+- Bracelet en chaîne pour homme de Lacoste
+- Circonférence intérieure : 19 cm
+- Fermoir : Aimanté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BB3YC5QK{{</world>}}

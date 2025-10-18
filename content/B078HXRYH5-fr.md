@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Poids du colis : 1,63 kilogrammes
+- Couleur : noir
 - Dimensions du colis : 14,5 l x 24,0 h x 18,5 l (centimètres)
 - Produit original de qualité supérieure.
 

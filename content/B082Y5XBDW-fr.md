@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Repose-mains magnétique premium – Pour un soutien de la paume entière et une grande sensation de confort
-- Switchs de gaming ultra-silencieux – Utilisation presque sans bruits pour 20 millions de frappes à friction réduite
 - Résistance à leau IP32 – Empêche les dommages provoqués par des éclaboussures accidentelles de liquides
+- Lagencement du clavier est disponible en Français AZERTY. Les images promotionnelles sont elles en Américain QWERTY
+- Switchs de gaming ultra-silencieux – Utilisation presque sans bruits pour 20 millions de frappes à friction réduite
 - Touches multimédias dédiées – Pour régler le volume et les paramètres à tout moment
 - Illumination RVB sur 10 zones – Superbes combinaisons de couleurs et effets réactifs
-- Lagencement du clavier est disponible en Français AZERTY. Les images promotionnelles sont elles en Américain QWERTY
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082Y5XBDW{{</world>}}

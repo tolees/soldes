@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les ensembles LEGO Unikitty sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Le trike mesure plus de 6 cm de haut, 10 cm de long et 7 cm de large Dino Dude mesure plus de 5 cm de haut, 5 cm de large et 4 cm de profondeur
-- Comprend un tricycle avec une roue avant en forme de ballon de basket géant, des roues arrière en forme de balles de baseball, 2 fusils à matière pailletée et une caisse
 - 101 pièces pour les garçons et filles de 5 à 12 ans
+- Comprend un tricycle avec une roue avant en forme de ballon de basket géant, des roues arrière en forme de balles de baseball, 2 fusils à matière pailletée et une caisse
 - Les meilleurs moments de la plus joyeuse, la plus pailletée et la plus colorée des séries TV sont à revivre avec l’ensemble LEGO Unikitty!
+- Les ensembles LEGO Unikitty sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Construisez le tricycle de Prince Puppycorn ! Cet ensemble amusant comprend 2 fusils à matière pailletée, un os, un drapeau, un énorme ballon de basket en guise de roue avant et des roues arrière en forme de balle de baseball !
+- Le trike mesure plus de 6 cm de haut, 10 cm de long et 7 cm de large Dino Dude mesure plus de 5 cm de haut, 5 cm de large et 4 cm de profondeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079ZS9PPX{{</world>}}

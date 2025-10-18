@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des outils professionnels pour tous les usages, éprouvés avec plus de 25 ans d’expérience
-- Précision et perfection de la production : une gamme brillante. Une qualité brillante. Un prix brillant.
 - Fonctionnalité et qualité Made in Germany - le meilleur pour les bricoleurs, les artisans et les mécaniciens
+- Précision et perfection de la production : une gamme brillante. Une qualité brillante. Un prix brillant.
+- Des outils professionnels pour tous les usages, éprouvés avec plus de 25 ans d’expérience
 - Brilliant Tools - la réduction intelligente à l’essentiel : la qualité
 - Une gamme de produits de haute qualité à un rapport qualité-prix avantageux
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient 36 pièces
 - Voiture vintage
-- Livré dans un sac en plastique scellé en usine
 - it article de collection, ne connt pas nécessairement comme cadeau denfant
+- Livré dans un sac en plastique scellé en usine
+- Contient 36 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPMK87NX{{</world>}}

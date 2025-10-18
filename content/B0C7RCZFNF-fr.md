@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre équipement, soyez stratège et maîtrisez l’art du casse pour assouvir votre soif de butin.
 - Votre casse, votre approche : choisissez entre la méthode bourrine pour faire votre braquage ou bien optez pour la discrétion et les éliminations furtives !
-- Un gameplay taillé pour une coop 24 carats !
-- La référence des jeux de braquage fait son grand retour !
 - Précommandez lédition Day One et obtenez en jeu le costume « Obsidian Glitz » et le masque « Venomous Verdigris » !
+- Un gameplay taillé pour une coop 24 carats !
+- Personnalisez votre équipement, soyez stratège et maîtrisez l’art du casse pour assouvir votre soif de butin.
+- La référence des jeux de braquage fait son grand retour !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7RCZFNF{{</world>}}

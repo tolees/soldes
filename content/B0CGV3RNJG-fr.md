@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Console PS4 Noire + Driveclub + The Last of Us Remastered
 - Batterie rechargeable intégrée, possibilité de jouer et de recharger la batterie simultanément
 - Technologie Create : production et partage du contenu vidéoludique avec les autres joueurs, Gachettes adaptatives pour une expérience immersive
+- Console PS4 Noire + Driveclub + The Last of Us Remastered
 - Caractéristiques : Haut-parleur et microphone intégrés, Prise casque, Détection de mouvement 6 axes, Port USB-C, Retour haptique
 - Contenu : 1 x Sony Manette sans fil DualSense pour PS5 et 1 x code de téléchargement digital du jeu complet EA SPORTS FC 24
 

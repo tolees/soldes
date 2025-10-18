@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une menace humaine constante avec 6 factions ennemies humaines, chacune ayant des caractéristiques propres. Ces groupes ont un but en commun : Vous tuer et prendre tout ce que vous avez !
 - Un open world massif avec 6 régions et une météo dynamique et imprévisible qui aura un énorme impact sur le gameplay tout comme le cycle jour / nuit.
 - Des créatures redoutables : faites face à des mutants qui se regroupent souvent en hordes très difficiles à anéantir.
 - A la recherche d’une nouvelle raison d’être Deacon quitte les campements sécurisés pour les routes du nord-ouest pacifique des Etats-Unis.
 - Incarnez Deacon St. John, un ancien motard hors-la-loi dans un univers post-apocalyptique dévasté par une pandémie globale et infesté de mutants.
+- Une menace humaine constante avec 6 factions ennemies humaines, chacune ayant des caractéristiques propres. Ces groupes ont un but en commun : Vous tuer et prendre tout ce que vous avez !
 - Votre moto: La clé pour survivre dans ce monde impitoyable. Le joueur devra en prendre soin afin de ne pas se retrouver à pied au mauvais endroit et au mauvais moment. De nombreuses possibilités pour améliorer les capacités de la moto au cours du jeu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

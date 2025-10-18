@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rouleau de gommettes triangulaires de dimension 20 x 20 x 20 mm couleur marron avec un adhésif permanent.
-- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
 - Fabriquées dans le respect des normes EN-71 et de la chaîne de traçabilité FSC : - Adhésif à base d’eau - Sans solvants - Papiers ECF (leemental Chlorine Free) - Matériaux 100% recyclables
-- Le format parfait à utiliser à l’école, à la garderie, pour les ateliers ou tout autre environnement où évoluent les enfants.
-- Jouer et créer avec des gommettes est une activité basique qui permet de développer la psychomotricité fine et d’exercer, en même temps, diverses capacités et habiletés telles que la connaissance des couleurs, des formes géométriques et des dimensions, le développement de la logique et la créativité, le travail en équipe ou encore la maîtrise de l’espace, entre autres.
 - De plus, les gommettes APLI respectent les normes les plus strictes de qualité et de sécurité.
+- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
+- Jouer et créer avec des gommettes est une activité basique qui permet de développer la psychomotricité fine et d’exercer, en même temps, diverses capacités et habiletés telles que la connaissance des couleurs, des formes géométriques et des dimensions, le développement de la logique et la créativité, le travail en équipe ou encore la maîtrise de l’espace, entre autres.
+- Le format parfait à utiliser à l’école, à la garderie, pour les ateliers ou tout autre environnement où évoluent les enfants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007ORGZCY{{</world>}}

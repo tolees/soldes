@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du boîtier﻿: MMmm
 - cadran Bleu
 - Bracelet Bleu Silicone
 - Mouvement Quartz
+- Diamètre du boîtier﻿: MMmm
 - Résistante à leau: 100m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

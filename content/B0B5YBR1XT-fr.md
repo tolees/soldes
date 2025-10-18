@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisable pour lachat de millions d’articles sur Amazon.fr, ou dun abonnement Amazon Prime.
-- Le cadeau idéal permettant de faire plaisir à coup sûr en laissant les destinataires choisir ce dont ils ont envie.
 - Les cartes cadeaux Amazon.fr sont uniquement valables sur Amazon.fr.
-- Expiration 10 ans après la date démission.
+- Le cadeau idéal permettant de faire plaisir à coup sûr en laissant les destinataires choisir ce dont ils ont envie.
 - Possibilité de personnaliser sa carte cadeau selon lévénement ou la passion du destinataire.
+- Expiration 10 ans après la date démission.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5YBR1XT{{</world>}}

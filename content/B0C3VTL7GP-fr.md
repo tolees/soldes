@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wireless provider : all carriers
-- Display.size : 5.8
-- Camera description : Frontal
-- Wireless network technology : wifi
-- Transportation restrictions : {modes:["GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskhAKx64UeuFH7NxXabdskhAIoUeuFHrhbNxXa9xOKXdskhAUaPXCj1wpLNxNKNxX+NxMw==}}}
-- Operating system : Android 8.1
-- Memory storage capacity : 0.0 GB
-- Connectivity technology : USB
-- 2 ans
 - Xiaomi
+- Wireless network technology : wifi
+- Operating system : Android 8.1
+- Wireless provider : all carriers
+- 2 ans
+- Camera description : Frontal
+- Transportation restrictions : {modes:["GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskhAKx64UeuFH7NxXabdskhAIoUeuFHrhbNxXa9xOKXdskhAUaPXCj1wpLNxNKNxX+NxMw==}}}
+- Display.size : 5.8
+- Connectivity technology : USB
+- Memory storage capacity : 0.0 GB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3VTL7GP{{</world>}}

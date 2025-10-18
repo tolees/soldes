@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc
-- Synthetic
 - Normale
+- Synthetic
 - Lacet
 - Sans talon
+- Caoutchouc
 - Mixture
 - Caoutchouc
 

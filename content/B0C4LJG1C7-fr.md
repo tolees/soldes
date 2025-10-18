@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussures de football confortables
 - Dessus NikeSkin flexible pour un toucher exceptionnel
 - Produit de qualité supérieure
+- Chaussures de football confortables
 - Avec le col tricoté autour de la cheville pour vous garder enfermé
 - Il est chargé avec une unité Zoom Air
 

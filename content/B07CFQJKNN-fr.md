@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zircon cubique transparent
 - Langue de lamour
 - Shimmering wish
 - PANDORA rose
 - Bague empilable
+- Zircon cubique transparent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CFQJKNN{{</world>}}

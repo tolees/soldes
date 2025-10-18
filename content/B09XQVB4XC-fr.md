@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistrement audio Plug & Play avec connexion USB-C, Enregistrement haute-résolution 24 bits/96 kHz
-- Compatibilité avec plusieurs appareils et programmes
-- Capteur de coupure de son avec indicateur d’état LED
 - Personnalisable avec le logiciel HyperX NGENUITY
+- Capteur de coupure de son avec indicateur d’état LED
+- Compatibilité avec plusieurs appareils et programmes
 - Support flexible et réglable, Filetage du bras de perche et du pied de micro
+- Enregistrement audio Plug & Play avec connexion USB-C, Enregistrement haute-résolution 24 bits/96 kHz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09XQVB4XC{{</world>}}

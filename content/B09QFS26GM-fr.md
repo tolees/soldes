@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette maquette LEGO Marvel Avengers de la résidence emblématique du Docteur Strange comprend un bâtiment modulaire de 3 étages avec 4 façades, de nombreux détails du film et 9 minifigurines familières de lunivers cinématographique Marvel
-- Le rez-de-chaussée comporte un escalier traditionnel, un diplôme de médecine et un fauteuil vert, et de nombreux murs du modèle peuvent être reconfigurés pour dévoiler un poster de Captain America, des Gargantos ou un portail vide
-- Il y a une bibliothèque à létage intermédiaire, avec 2 chaises, une lampe et un portail caché derrière une porte, avec des briques en 3 dimensions, qui peuvent être changées en utilisant les leviers à larrière du bâtiment
 - Un grand modèle personnalisable et une pièce de décoration intérieure avec des éléments pour poser les minifigurines hors du bâtiment et revivre les scènes de vos films Marvel préférés
 - Faites plaisir aux fans de Marvel Comics avec ce cadeau de 9 minifigurines LEGO Marvel emblématiques de Doctor Strange, Wong, Iron Man, Spider-Man, Ebony Maw, Maître Mordo, Sinister Strange, Dead Strange et la Sorcière rouge
 - Les fans peuvent recréer et célébrer des scènes classiques des films Avengers : Infinity War et Doctor Strange in the Multiverse of Madness grâce à des détails réalistes dans tout le set
+- Cette maquette LEGO Marvel Avengers de la résidence emblématique du Docteur Strange comprend un bâtiment modulaire de 3 étages avec 4 façades, de nombreux détails du film et 9 minifigurines familières de lunivers cinématographique Marvel
+- Il y a une bibliothèque à létage intermédiaire, avec 2 chaises, une lampe et un portail caché derrière une porte, avec des briques en 3 dimensions, qui peuvent être changées en utilisant les leviers à larrière du bâtiment
+- Le rez-de-chaussée comporte un escalier traditionnel, un diplôme de médecine et un fauteuil vert, et de nombreux murs du modèle peuvent être reconfigurés pour dévoiler un poster de Captain America, des Gargantos ou un portail vide
 - Le dernier étage abrite le musée des collections mystiques, contenant la cape de lévitation, un coffre, une lance, 2 haches et un bouclier, plus dautres objets magiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

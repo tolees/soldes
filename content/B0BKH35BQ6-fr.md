@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adapté aux besoins professionnels et aux missions critiques : technologie X-LINK, fonctionnalités Push-To-Talk et PC-replacement
-- Core-Z5 aussi performant que durable, le premier produit 5G Crosscall
 - 1 mois de forfait mobile remboursé ! Et tentez de remporter 5 ans de forfait mobile* (Voir conditions dans le PDF de documentation disponible dans “Guides produits et documents”)
-- Maintien des patchs de sécurité Oct 2022 > Dec 2030
+- MAJ d’OS sous condition de compatibilité Android 12 > 16
 - Conçu pour durer : garantie 5 ans, certification AER, norme MIL-STD-810H, étanchéité IP68, batterie 4 950 mAh.
 - Performant : Compatibilité 5G et Wifi 6/6E, processeur puissant Qualcomm QCM6490.
-- MAJ d’OS sous condition de compatibilité Android 12 > 16
+- Adapté aux besoins professionnels et aux missions critiques : technologie X-LINK, fonctionnalités Push-To-Talk et PC-replacement
+- Core-Z5 aussi performant que durable, le premier produit 5G Crosscall
+- Maintien des patchs de sécurité Oct 2022 > Dec 2030
 - Ergonomique et technique : écran 6.08’’, haut-parleur de 100dB, appareil photo 48 Mpx, caméra 4K.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

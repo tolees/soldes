@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau en verre trempé
 - Bandeau frontal A-RGB et ventilateur arrière
 - Conception de la façade Mallado
+- Panneau en verre trempé
 - Compatible ATX, MicroATX et MiniITX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

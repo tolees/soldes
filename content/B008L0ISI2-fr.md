@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de tracé variable, permet de réaliser des pleins et des déliés
-- Lot de 10 pièces
 - Stylo pinceau à pointe souple
 - Encre à base deau de couleur rouge
+- Lot de 10 pièces
+- Largeur de tracé variable, permet de réaliser des pleins et des déliés
 - Idéal pour croquis, dessins, manga, calligraphie...
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

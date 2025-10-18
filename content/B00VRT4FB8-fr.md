@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entièrement compatible avec les autres marques
 - Tout ce qui apparaît sur limage du produit est inclus dans le jeu
+- Entièrement compatible avec les autres marques
 - Excellent rapport qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

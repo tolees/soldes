@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Launched by the design house of Boucheron
 - It is recommended for casual wear.
 - This oriental spicy fragrance has a blend of clove, bergamot, cinnamon, nutmeg, violet, vanilla, and amber
-- Launched by the design house of Boucheron
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0066TGLSY{{</world>}}

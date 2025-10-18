@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ecran 6,6’’ Super AMOLED 120Hz Un immense écran très lumineux et ultra fluide
-- Jusqu’à 2 jours d’autonomie et charge rapide 25W Une batterie longue durée qui peut être rechargée en un éclair
 - Triple capteur photo et selfie 13MP Pour changer d’angle de vue et capturer chaque détail
-- Résistant à l’eau et à la poussière (IP67) Pour être emmené partout avec vous
+- Jusqu’à 2 jours d’autonomie et charge rapide 25W Une batterie longue durée qui peut être rechargée en un éclair
 - Capteur principal 48MP avec stabilisation optique Des photos stables et nettes, même en mouvement
+- Résistant à l’eau et à la poussière (IP67) Pour être emmené partout avec vous
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV4HLFPX{{</world>}}

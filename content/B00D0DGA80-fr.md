@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - Numéro OE: 133089, 1330F5, 1330K0, 1330W2, 1330J7, 1330S5, 1330J8, 133391, 1333A2, 1330S8, 133387, 1330T1, 133308, 1330Y5, 133338, 133342, 133343, 133377, 133388, 133379, 1331PA, 96455874, 9645587480, 96465776, 9646577680, 96805334, 9680533480
+- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - Radiateur De Refroidissement Moteur, Radiateur Deau, Radiateur Liquide De Refroidissement, Radiateur De Refroidissement, Radiateur Moteur, Radiateur: compatible avec CITROËN Berlingo II (B9), compatible avec PEUGEOT 308 I 3/5 portes (4A, 4C)
 - VALEO Radiateur du moteur
 

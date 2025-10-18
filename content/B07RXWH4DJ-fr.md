@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lécran OLED Smart Display affiche les profils, informations de jeu, messages Discord, pistes Spotify et plus encore
+- Remarque: Il est recommandé de mettre à jour régulièrement le firmware à laide de SteelSeries Engine Système dexploitation : Windows, Mac OS X, Xbox et PlayStation. Port USB requis; Logiciel :- SteelSeries Engine 3.15+ (à venir) pour Windows (7 ou plus récent) et Mac OSX (10.11 ou plus récent)
 - Repose poignet magnétique haut de gamme pour un soutien de la paume entière et une sensation de confort
 - Alliage daluminium de qualité aéronautique, conçu pour durer tout la vie
 - Une personnalisation inégalée avec 16,8 millions de couleurs déclairage par touche
-- Lagencement du clavier est disponible en Français AZERTY Les images promotionnelles sont elles en Américain QWERTY
+- Lécran OLED Smart Display affiche les profils, informations de jeu, messages Discord, pistes Spotify et plus encore
 - Switchs de jeu mécaniques garantis 50 millions de frappes
-- Remarque: Il est recommandé de mettre à jour régulièrement le firmware à laide de SteelSeries Engine Système dexploitation : Windows, Mac OS X, Xbox et PlayStation. Port USB requis; Logiciel :- SteelSeries Engine 3.15+ (à venir) pour Windows (7 ou plus récent) et Mac OSX (10.11 ou plus récent)
+- Lagencement du clavier est disponible en Français AZERTY Les images promotionnelles sont elles en Américain QWERTY
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07RXWH4DJ{{</world>}}

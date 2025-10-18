@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 modes de jeux distincts
 - Un mélange de personnages iconiques et nouveaux
-- Une expérience en ligne optimisée et cross play
 - Un nouveau système de combat plus dynamique
+- Une expérience en ligne optimisée et cross play
+- 3 modes de jeux distincts
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPVC7CXP{{</world>}}

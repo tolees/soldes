@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La bande-son officielle du jeu sur un CD.
+- The Plucky Squire (Le Vaillant Petit Page) – Devolver Deluxe inclura les articles exclusifs suivants, en plus du jeu physique :
 - Le Vaillant Petit Page suit les aventures magiques de Laïus et de ses amis, des personnages dun livre de contes qui découvrent quil existe tout un monde en trois dimensions au-delà de la couverture.
 - Une boîte de collection qui contient tous les articles.
-- The Plucky Squire (Le Vaillant Petit Page) – Devolver Deluxe inclura les articles exclusifs suivants, en plus du jeu physique :
+- La bande-son officielle du jeu sur un CD.
 - Un magnifique artbook de 108 pages à couverture souple.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

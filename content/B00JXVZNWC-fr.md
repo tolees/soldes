@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- capuchon relevable, avec système à pompe
-- effacable à sec, encre fluide, corps en plastique,
 - Pentel marqueur MAXIFLO MWL5S pour tableau blanc, noir
 - (MWL5S-A)
+- capuchon relevable, avec système à pompe
+- effacable à sec, encre fluide, corps en plastique,
 - pointe ogive fine, largeur de tracé: 2,0 mm, corps mince,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

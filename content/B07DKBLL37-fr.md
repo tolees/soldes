@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Précision du nivellement : ± 0,8 mm/m
-- Portée du laser : jusqu’à 7 m
 - Plage de nivellement : ± 4°
+- Portée du laser : jusqu’à 7 m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DKBLL37{{</world>}}

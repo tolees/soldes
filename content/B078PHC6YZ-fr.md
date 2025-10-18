@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dessus en toile
 - Rayures signature
 - Semelle intérieure rembourrée
-- Dessus en toile
 - Bout rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

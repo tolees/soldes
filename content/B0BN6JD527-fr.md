@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : synthétique
-- Fermeture : fermeture éclair
 - Forme du talon : plat
+- Fermeture : fermeture éclair
+- Matériau intérieur : synthétique
 - Matériau extérieur : synthétique
 - Semelle : caoutchouc
 

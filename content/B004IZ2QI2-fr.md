@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Version forgée, pointes trempées
-- Poignée en liège ergonomique et antidérapante
 - Ouverture: 265 mm
+- Poignée en liège ergonomique et antidérapante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004IZ2QI2{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : fermeture Velcro
-- 100 % caoutchouc thermoplastique
-- Forme du talon : plat
-- Matériau extérieur : synthétique, 90 % polyuréthane synthétique - 10 % maille textile
 - Non étanche
 - Semelle : caoutchouc
+- Fermeture : fermeture Velcro
+- Forme du talon : plat
+- Matériau extérieur : synthétique, 90 % polyuréthane synthétique - 10 % maille textile
+- 100 % caoutchouc thermoplastique
 - Matériau intérieur : 92 % coton, 8 % microfibre synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

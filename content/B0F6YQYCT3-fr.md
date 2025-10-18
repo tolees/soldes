@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lancez-vous dans la bataille avec de nouvelles armes améliorées pour aborder chaque combat de façon différente.
+- Contenu du pack : 1 x Ghost of Yotei PS5, Version physique avec disque, Langue : Français, 1 joueur, PEGI 18
 - Laissez–vous émerveiller par des environnements magnifiques, sublimés par la puissance de la PlayStation 5 et ses performances optimisées sur PlayStation5 Pro.
 - Incarnez Atsu, une mercenaire solitaire, hantée par les fantômes de son passé. Assoiffée de vengeance, vous la guiderez à travers les paysages sublimes et sauvages du mont Yōtei, résolus à faire payer ceux qui lui ont tout pris.
-- Contenu du pack : 1 x Ghost of Yotei PS5, Version physique avec disque, Langue : Français, 1 joueur, PEGI 18
+- Lancez-vous dans la bataille avec de nouvelles armes améliorées pour aborder chaque combat de façon différente.
 - Plongez dans une nouvelle épopée, 300 ans après les événements de Ghost of Tsushima, dans ce jeu solo daction-aventure
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- VERTICAL : Les éléments de construction GraviTrax PRO, comme des piliers, des murs et des balcons, pour construire des circuits encore plus hauts et vertigineux
 - CONTENU : 4 piliers creux, 8 piliers pleins, 2 murs moyens, 2 murs larges, 16 balcons simples, 1 guide dutilisation illustré et en français
 - MODULABLE A LINFINI et COMPATIBLE avec tous les produits GraviTrax, standards et PRO. Ce set dextension se joue avec au moins un Starter Set (indispensable pour démarrer) puis se combine à tous les éléments GraviTrax. Découvrez de nombreux sets dextension et blocs daction pour enrichir vos circuits et imaginer un nombre illimité de parcours
-- VERTICAL : Les éléments de construction GraviTrax PRO, comme des piliers, des murs et des balcons, pour construire des circuits encore plus hauts et vertigineux
 - JEU EDUCATIF STEM : GraviTrax est un système de construction très ludique qui permet aux enfants dexpérimenter des lois physiques comme la gravité, le magnétisme ou la force cinétique. En manipulant les blocs et en testant leurs propres assemblages, ils développent à la fois leur créativité et leur compréhension de ces principes scientifiques
 - UN CADEAU IDEAL pour les filles et les garçons à partir de 8 ans, et pour les fans de construction de tous âges ! Fabriqués en Europe avec des matériaux de grande qualité, les éléments GraviTrax sont faits pour durer et garantissent des heures de jeu et dassemblage, seul ou à plusieurs. Une idée cadeau parfaite pour un anniversaire ou pour Noël
 

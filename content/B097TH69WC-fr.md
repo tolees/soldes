@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Inserts perforés sur la pointe
-- Plat
-- Enfiler
 - Languette ultra rembourrée
 - Semelle intercalaire surélevée en mousse
+- Plat
+- Enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097TH69WC{{</world>}}

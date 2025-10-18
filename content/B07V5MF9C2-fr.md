@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Eau micellaire hydratante
 - Parfaitement hydratée, la peau parait plus fraîche et nette
+- Eau micellaire hydratante
 - démaquille toutes traces de maquillage et nettoie la peau en douceur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

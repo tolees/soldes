@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Achetez une taille plus grande
 - Semelle extérieure en caoutchouc
 - Fermeture à lacets
+- Achetez une taille plus grande
 - Semelle intermédiaire Cloudfoam
 - Tige en cuir
 

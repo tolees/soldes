@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 81% dingrédients dorigine naturelle
+- Formule clean et vegan
+- BB Crème Healthy Mix Clean de Bourjois
 - Couvrance complète
 - Jusquà 24h dhydratation
 - Vitamines C, E et B5
-- BB Crème Healthy Mix Clean de Bourjois
-- Formule clean et vegan
+- 81% dingrédients dorigine naturelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DLGYY9RN{{</world>}}

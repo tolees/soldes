@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- type de talon:Sans talon
-- matériau de la semelle :Caoutchouc
 - Matériau extérieur :Fermeture éclair
+- type de talon:Sans talon
 - matériau intérieur :Cuir
+- matériau de la semelle :Caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM9D5FMK{{</world>}}

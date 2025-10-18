@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Neobrite
 - Classe détanchéité (10 bars)
-- Verre minéral
 - Indication de la date
+- Verre minéral
+- Neobrite
 - Fond de boîtier vissé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

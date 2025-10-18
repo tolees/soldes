@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRIPLE VENTILATEUR ARGB - 3 ventilateurs ARGB PWM de 120 mm assurent une excellente pression et un excellent flux dair tout en générant très peu de bruit.
+- Câble réducteur de bruit et câble PWM de 1 vers 3 ventilateurs inclus.
 - TUBES ANTI-ÉVAPORATION - Tubes de refroidissement de leau de 400 mm composés dune triple couche de plastique dissimulée sous une gaine en maille renforcée pour garantir que leau reste toujours à lintérieur du système en circuit fermé.
 - COMPATIBLE AVEC LES SOCKS AMD ET INTEL - le bracket de montage convient aux sockets AMD (AM5, AM4,TR4) et Intel (LGA 1150, 1151, 1155, 1156, 1700,1200, 2011, 2011-3, 2066) ; pâte thermique incluse.
+- TRIPLE VENTILATEUR ARGB - 3 ventilateurs ARGB PWM de 120 mm assurent une excellente pression et un excellent flux dair tout en générant très peu de bruit.
 - COMPATIBLE LGA 1700 - Le refroidisseur de liquide MAG CORELIQUID série M est compatible avec le socket LGA 1700 et ce, dès sa sortie de la boîte.
-- Câble réducteur de bruit et câble PWM de 1 vers 3 ventilateurs inclus.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C4WVDCSG{{</world>}}

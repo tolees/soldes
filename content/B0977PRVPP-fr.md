@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Précommandez Marvels Guardians of the Galaxy pour obtenir le déblocage anticipé du pack de tenues de Gardiens Rétro.
 - Vous incarnez Star-Lord et tous les coups sont permis !
 - Vous êtes le ciment au sein de cette bande imprévisible, alors vous allez devoir devenir un chef digne de ce nom, et vite.
-- Précommandez Marvels Guardians of the Galaxy pour obtenir le déblocage anticipé du pack de tenues de Gardiens Rétro.
 - Avec vos nouveaux acolytes excentriques et légendaires, vous devrez sauver lunivers dans cette version revisitée mais néanmoins fidèle des Gardiens de la Galaxie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

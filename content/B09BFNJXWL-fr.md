@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revivez la Grande Guerre.
-- Suivez les histoires de ces Soldats Inconnus… Sans oublier votre fidèle compagnon.
 - Un mélange d’exploration, d’action et d’énigmes.
 - Une véritable bande dessinée interactive.
 - Un style unique grâce à l’UbiArt Framework.
+- Revivez la Grande Guerre.
+- Suivez les histoires de ces Soldats Inconnus… Sans oublier votre fidèle compagnon.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BFNJXWL{{</world>}}

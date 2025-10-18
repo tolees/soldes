@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance 1630 Watts
-- Poignée ergonomique
 - Socle 360°
-- Sans fil
 - Capacité 1 litre
+- Puissance 1630 Watts
+- Sans fil
+- Poignée ergonomique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HRD176Q{{</world>}}

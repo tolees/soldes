@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu 100% polyester avec une sensation de denim authentique
 - Multiples compartiments à lintérieur et à larrière pour ranger votre argent et vos cartes
 - Hauteur : 9,5 cm, largeur : 13,5 cm
+- Tissu 100% polyester avec une sensation de denim authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DNZVV95{{</world>}}

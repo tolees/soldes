@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le cadre noir est composé dun porte-manteau, dun porte-manteau et de deux étagères
 - des chemisiers
+- Le cadre noir est composé dun porte-manteau, dun porte-manteau et de deux étagères
 - Le barman a un cintre qui est dans loptique gekälkter ; pour que vous puissiez accrocher des pantalons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

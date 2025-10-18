@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tirez la plateforme du camion pour la transformer en une piste de course longue de plus de 75 centimètres; La cabine du transporteur, quant à elle, sert de lanceur et propulse les voitures pour qu’elles dévalent la piste à toute vitesse
-- Cet énorme transporteur peut accueillir jusqu’à 9 voitures Hot Wheels à l’échelle 1/64; Il est idéal pour lancer à tout moment les véhicules dans la course ou les exposer; Un véhicule inclus ; les véhicules supplémentaires sont vendus séparément
 - Chargez vos voitures Hot Wheels préférées et traversez Hot Wheels City au volant du Transporteur de Piste de Vitesse
+- Cet énorme transporteur peut accueillir jusqu’à 9 voitures Hot Wheels à l’échelle 1/64; Il est idéal pour lancer à tout moment les véhicules dans la course ou les exposer; Un véhicule inclus ; les véhicules supplémentaires sont vendus séparément
 - L’extrémité de la rampe peut être reliée à d’autres pistes ou servir de plateforme pour réaliser des cascades stylées
 - Idéal pour les enfants à partir de 4 ans qui aiment faire la course et mettre en valeur leurs voitures Hot Wheels
+- Tirez la plateforme du camion pour la transformer en une piste de course longue de plus de 75 centimètres; La cabine du transporteur, quant à elle, sert de lanceur et propulse les voitures pour qu’elles dévalent la piste à toute vitesse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7PVSRXN{{</world>}}

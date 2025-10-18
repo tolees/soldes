@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En acier chrome-molybdène
 - Avec réception de goupille de blocage et joint en caoutchouc
-- Convient pour cliquet et clé à choc
-- Empreinte: Six pans
-- Ouverture de clé: 24 mm
-- Traitement de surface: phosphaté
 - Longueur : 78 mm
+- Ouverture de clé: 24 mm
+- En acier chrome-molybdène
+- Traitement de surface: phosphaté
+- Convient pour cliquet et clé à choc
 - Couple max. 682 Nm
+- Empreinte: Six pans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001ILCCT2{{</world>}}

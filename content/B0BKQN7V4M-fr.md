@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un nécessaire à pique-nique
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
 - Deux princesses
 - Un décor de cascade gelée
+- Un nécessaire à pique-nique
 - Un cheval ailé et sa calèche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

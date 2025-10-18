@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur de la chaussure : moyenne
-- Matériau extérieur : synthétique
-- Cuir
 - Sangle : sangle dorteil
+- Non étanche
+- Forme du talon : plat
+- Fermeture : caoutchouc
+- Cuir
+- Matériau extérieur : synthétique
 - Matériau intérieur : synthétique
 - Doublure : doublure froide
-- Non étanche
-- Fermeture : caoutchouc
-- Forme du talon : plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N7FVZKF{{</world>}}
