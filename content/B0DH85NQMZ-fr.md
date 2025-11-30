@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec certification FSC, garantissant quelle est fabriquée avec du papier provenant de forêts gérées de manière responsable.
 - Chaque fois que la carte est ouverte, le message sera écouté, et il restera enregistré jusquà ce quun nouveau message le soit. Durée maximale : 15 secondes.
 - Carte de Noël avec dispositif pour enregistrer et réproduir des messages audio.
+- Avec certification FSC, garantissant quelle est fabriquée avec du papier provenant de forêts gérées de manière responsable.
 - Inclus une enveloppe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

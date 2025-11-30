@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sangle 100 % recyclée, doublure 60 % microfibre recyclée et semelle intérieure enveloppée
-- Dessus en cuir pleine fleur et 70 % textile recyclé
-- La semelle intermédiaire Super Rebound Compound offre une absorption durable des chocs pour aider à réduire le couple et permettre une transition fluide au milieu du pied
 - Semelle intérieure FloatMax Foam intégrée pour une expérience douce et lisse sous le pied
+- La semelle intermédiaire Super Rebound Compound offre une absorption durable des chocs pour aider à réduire le couple et permettre une transition fluide au milieu du pied
+- Dessus en cuir pleine fleur et 70 % textile recyclé
+- Sangle 100 % recyclée, doublure 60 % microfibre recyclée et semelle intérieure enveloppée
 - Semelle extérieure TPR 30 % recyclée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

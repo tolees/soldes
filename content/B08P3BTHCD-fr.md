@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le crayon est disponible en 3 teintes intenses
 - La texture crémeuse permet une application sur la paupière et la ligne deau des yeux
-- Avec le taille-crayon intégré, la pointe restera toujours ultra précise
 - Cest un crayon pour les yeux pour une couleur parfaite dès le premier coup
+- Avec le taille-crayon intégré, la pointe restera toujours ultra précise
 - Le crayon est imperméable et résistant à labrasion afin que vous puissiez profiter dun trait parfait tout au long de la journée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

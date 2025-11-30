@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Finition sans brillance, confortable à porter toute la journée
-- Formule sans huile pour une couverture complète jusquà 24 heures
 - Rouges à lèvres
+- Formule sans huile pour une couverture complète jusquà 24 heures
 - Produits de beauté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

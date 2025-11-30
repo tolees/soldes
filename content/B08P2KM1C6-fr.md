@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzles SCHMIDT SPIELE Premium – avec une qualité que vous pouvez saisir
-- Puzzle de 1000 pièces
 - Âge recommandé : à partir de 12 ans
 - Dimensions du puzzle : 69,3 x 49,3 cm
+- Puzzle de 1000 pièces
+- Puzzles SCHMIDT SPIELE Premium – avec une qualité que vous pouvez saisir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08P2KM1C6{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualité
-- Design exotique
 - Fonction pratique
+- Design exotique
+- Haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSSD8Q3S{{</world>}}

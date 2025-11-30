@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Installation et entretien : Les 16 œillets permettent une installation simple et rapide. Avec ce diamètre de 4cm par œillet, ce rideau s’adapte à toutes les tringles standards. Ce voilage est facile d’entretien, il peut être lavé en machine à 30° et repassé à 110°C max.
-- Collection Sablé : Ce voilage fait partie de notre collection Sablé. Cette collection réunit des voilages et vitrages blancs. Elles disposent de plusieurs formes et tailles afin de s’accorder aux mieux à vos fenêtres. Sa couleur et texture ont été pensées pour protéger des regards extérieurs tout en laissant passer la lumière.
 - Un basic pour la maison : Ce voilage discret et léger est un élément d’intérieur incontournable. Il diffuse la lumière naturelle tout en vous protégeant des regards indiscrets. Sa couleur blanche, raffinée et élégante, saura se fondre dans votre décoration.
-- Ce voilage blanc mesure 300cm de large et 240cm de hauteur. Sa largeur XXL permet de s’adapter à vos baies vitrées. Il se compose de 16 œillets, en métal argenté, de 4cm de diamètre. Sa matière, 100 % polyester, a un aspect légèrement brillant et satiné. Son poids est de 610g.
 - Nos équipes sont toujours à lécoute des clients et à la recherche de créativité. Notre bureau de création près de Lyon conçoit chaque jour des collections créatives répondant aux tendances du marché et aux exigences des consommateurs.
+- Collection Sablé : Ce voilage fait partie de notre collection Sablé. Cette collection réunit des voilages et vitrages blancs. Elles disposent de plusieurs formes et tailles afin de s’accorder aux mieux à vos fenêtres. Sa couleur et texture ont été pensées pour protéger des regards extérieurs tout en laissant passer la lumière.
+- Ce voilage blanc mesure 300cm de large et 240cm de hauteur. Sa largeur XXL permet de s’adapter à vos baies vitrées. Il se compose de 16 œillets, en métal argenté, de 4cm de diamètre. Sa matière, 100 % polyester, a un aspect légèrement brillant et satiné. Son poids est de 610g.
+- Installation et entretien : Les 16 œillets permettent une installation simple et rapide. Avec ce diamètre de 4cm par œillet, ce rideau s’adapte à toutes les tringles standards. Ce voilage est facile d’entretien, il peut être lavé en machine à 30° et repassé à 110°C max.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07C9KMVP2{{</world>}}

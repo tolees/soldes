@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mascara avec brosse 2-en-1 transformable :
 - 2 actions: volume et longueur
 - Brosse double position
 - Jusquà 6x plus de volume* et des cils visiblement plus forts et plus épais en 4 semaines (*en comparaison à des cils nus)
+- Mascara avec brosse 2-en-1 transformable :
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DT7DVX96{{</world>}}

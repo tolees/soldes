@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 24 mois de garantie Eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
 - 3S 550 VA / 330 watts
-- Disjoncteur réarmable 10A - UPS avec interface USB (câble inclus)
 - 6 prises sorties FR : 3 prises protection contre les parafoudre + batterie de secours - 3 prises protection parafoudre uniquement
 - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
+- 24 mois de garantie Eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
+- Disjoncteur réarmable 10A - UPS avec interface USB (câble inclus)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082TGVTMG{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classique
 - 100% Polyester
-- Fermeture: Pas de fermeture
 - Lavage en machine
+- Classique
+- Fermeture: Pas de fermeture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9V7RKV{{</world>}}

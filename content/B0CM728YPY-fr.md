@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMARQUE : iCUE est nécessaire lors de la configuration initiale. Vous pouvez ensuite choisir de jouer avec ou sans iCUE. Pour des performances optimales, veuillez utiliser la mise à jour du micrologiciel iCUE v.0.14.62 ou une version plus récente.
-- Deux boutons SAX latéraux uniques conçus pour offrir plus doptions de configuration et sadapter à la position naturelle de vos doigts
-- Interrupteurs mécaniques OMRON fonctionnant comme un clic de souris pour une activation instantanée
-- Cinq touches G-Keys entièrement reconfigurables pour macros avancées et intégration Corsair iCUE
 - Bande lumineuse RGB avec intégration Corsair iCUE pour offrir plus doptions de personnalisation et assortir votre bande lumineuse RGB au reste de votre setup gaming
+- Cinq touches G-Keys entièrement reconfigurables pour macros avancées et intégration Corsair iCUE
+- Deux boutons SAX latéraux uniques conçus pour offrir plus doptions de configuration et sadapter à la position naturelle de vos doigts
 - Quatre palettes arrière reconfigurables pour garder vos pouces sur les joysticks, et réagir plus rapidement
+- REMARQUE : iCUE est nécessaire lors de la configuration initiale. Vous pouvez ensuite choisir de jouer avec ou sans iCUE. Pour des performances optimales, veuillez utiliser la mise à jour du micrologiciel iCUE v.0.14.62 ou une version plus récente.
+- Interrupteurs mécaniques OMRON fonctionnant comme un clic de souris pour une activation instantanée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CM728YPY{{</world>}}

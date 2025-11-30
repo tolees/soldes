@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Helps defend against a full spectrum of modern aggressors
 - Provides all-day antioxidant protection.
+- Helps defend against a full spectrum of modern aggressors
 - CRÈME VISAGE SANS CORPS GRAS : Convient à tous les types de peaux, une crème visage SPF légère idéale pour les peaux sèches, grasses ou mixtes, offrant des bénéfices anti-âge et anti-fatigue.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

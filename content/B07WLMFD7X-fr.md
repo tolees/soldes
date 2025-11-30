@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pattern: Uni
-- 100% polyester
-- Department: Garçon
 - Coupe régulière
+- Department: Garçon
+- 100% polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WLMFD7X{{</world>}}

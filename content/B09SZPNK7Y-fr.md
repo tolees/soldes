@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Kit de rénovation pour porte intérieure
 - Recoupable pour sadapter aux portes de 73cm ou 83cm
 - Rénover une porte sans gros travaux
-- Composition: 4 feuilles de placage gris agate 85 cm x 50 cm et 3 profils en aluminium de 85 cm x 2 cm
 - Durable et esthétique, en bois véritable
-- Kit de rénovation pour porte intérieure
+- Composition: 4 feuilles de placage gris agate 85 cm x 50 cm et 3 profils en aluminium de 85 cm x 2 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SZPNK7Y{{</world>}}

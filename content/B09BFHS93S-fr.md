@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pandora
-- Produit de haute qualité
 - Durable
+- Produit de haute qualité
 - argenté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

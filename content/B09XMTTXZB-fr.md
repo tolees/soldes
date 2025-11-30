@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau de qualité
-- Détails distinctifs de la marque
 - Tissu léger
+- Détails distinctifs de la marque
 - Offre confort et liberté de mouvement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

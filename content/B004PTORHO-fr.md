@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Clip amovible
 - Gomme intégrée
 - 4 mm tube de guidage pour travail de précision avec une règle ou pochoir
+- Clip amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004PTORHO{{</world>}}

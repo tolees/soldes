@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IP68 résistant à leau et à la poussière
-- Batterie 6000mAh avec Hypercharge 90W; Charge rapide intelligente: Efficace, resistant au froid et durable
-- Puissant processeur Dimensity 8400-Ultra de nouvelle génération pour jouer en toute fluidité
-- UltraSnap, mode photo rapide, mode Portraits, fonctionnalités IA, Vidéo en 4K/65fps, Mode vidéo nuit;
 - Une technologie de pointe offrant des couleurs éclatantes et une excellente luminosité en extérieur
+- UltraSnap, mode photo rapide, mode Portraits, fonctionnalités IA, Vidéo en 4K/65fps, Mode vidéo nuit;
+- IP68 résistant à leau et à la poussière
+- Puissant processeur Dimensity 8400-Ultra de nouvelle génération pour jouer en toute fluidité
+- Batterie 6000mAh avec Hypercharge 90W; Charge rapide intelligente: Efficace, resistant au froid et durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DKP6YZ7T{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Revlon nutri color filters 600/red 240 ml
 - 33016125600
 - Teinture permanente Revlon (240 ml)
-- Revlon nutri color filters 600/red 240 ml
 - Ravive et exalte la couleur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

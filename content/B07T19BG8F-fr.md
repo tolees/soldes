@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en Chine
-- Figurine decorative sous licence
-- Réalisée en résine et peinte à la main
 - Personnage Disney
+- Figurine decorative sous licence
+- Fabriqué en Chine
+- Réalisée en résine et peinte à la main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07T19BG8F{{</world>}}

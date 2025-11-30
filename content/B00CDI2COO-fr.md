@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Papier Bristol crème 160 g/m²
-- Compatible avec tous types d’encre : stylo, feutre, tampon, marqueur…
 - Format 120 x 57 mm
 - Multi-usages : cadeaux, artisanat, stockage, prix, pressing, événements
-- Œillet renforcé
 - Boîte de 1 000 étiquettes
+- Compatible avec tous types d’encre : stylo, feutre, tampon, marqueur…
+- Œillet renforcé
+- Papier Bristol crème 160 g/m²
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CDI2COO{{</world>}}

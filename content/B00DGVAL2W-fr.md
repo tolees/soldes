@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cardhu est élaboré lentement et vieilli pendant 15 ans pour offrir de la douceur
-- Lauréat à International Wine and Spirit Competition en 2014
-- Il est conseillé de servir pur ou dans un Grog, composé de citron, d’eau chaude et de clous de girofle
-- Fruits tropicaux délicats avec des notes de chêne sec et de fumée épicée
 - Un Single Malt du Speyside équilibré de la famille Cardhu
+- Lauréat à International Wine and Spirit Competition en 2014
+- Fruits tropicaux délicats avec des notes de chêne sec et de fumée épicée
+- Il est conseillé de servir pur ou dans un Grog, composé de citron, d’eau chaude et de clous de girofle
+- Cardhu est élaboré lentement et vieilli pendant 15 ans pour offrir de la douceur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DGVAL2W{{</world>}}

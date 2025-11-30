@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ensemble de lumières LED uniquement : veuillez noter que seul le kit déclairage est fourni. Tous les kits LEGO montrés sur les images et les vidéos ne sont pas inclus.
+- Choix de cadeau cool : ce kit déclairage illuminerait votre kit Lego et en ferait un excellent cadeau danniversaire, cadeau de Noël pour les enfants ou tout amateur de modélisme.
 - Service client Si vous avez des problèmes ou des difficultés avec le produit, nhésitez pas à nous contacter. Nous serons toujours là pour vous.
 - Excellent ajout à votre kit Lego : ce kit déclairage LED est spécialement conçu pour le modèle de briques de construction Lego 21061 Architecture Notre-Dame de Paris.
-- Ensemble de lumières LED uniquement : veuillez noter que seul le kit déclairage est fourni. Tous les kits LEGO montrés sur les images et les vidéos ne sont pas inclus.
 - Instructions étape par étape : scannez le code 2D de la boîte, il est livré avec des instructions détaillées et simples qui vous guideront étape par étape à travers le montage des lumières.
-- Choix de cadeau cool : ce kit déclairage illuminerait votre kit Lego et en ferait un excellent cadeau danniversaire, cadeau de Noël pour les enfants ou tout amateur de modélisme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6F3R91Z{{</world>}}

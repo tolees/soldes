@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application : Appliquer sur les cils du haut en étirant la formule de la racine à la pointe en plusieurs passages, puis renouveler lopération sur les cils du bas
-- Résultats : Une formule enrichie en microfibres pour étoffer, allonger et recourber délicatement chaque cil pour un regard élégamment ouvert sans paquets
+- Contenu : 1x Mascara Bambi Eye LOréal Paris, Teinte : Noir, 8.9 ml
 - Brosse spécialement conçue pour une application délicate épousant la forme des yeux et des cils recourbés du coin interne au coin externe, Convient aux yeux sensibles et porteurs de lentilles
 - Mascara noir pour des cils densifiés à la courbe renversante et un regard de biche instantané
-- Contenu : 1x Mascara Bambi Eye LOréal Paris, Teinte : Noir, 8.9 ml
+- Application : Appliquer sur les cils du haut en étirant la formule de la racine à la pointe en plusieurs passages, puis renouveler lopération sur les cils du bas
+- Résultats : Une formule enrichie en microfibres pour étoffer, allonger et recourber délicatement chaque cil pour un regard élégamment ouvert sans paquets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VKYBKP3{{</world>}}

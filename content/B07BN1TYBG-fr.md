@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus à double couture pour plus de durabilité
 - Vans Marque Sidestripe
 - Semelle extérieure gaufrée originale
+- Dessus à double couture pour plus de durabilité
 - Style de plateforme
 - Construction vulcanisée
 

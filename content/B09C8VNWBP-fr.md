@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Yara by Lattafa for Women - 3.4 oz EDP Spray
-- Top notes are Heliotrope, Orchid and Tangerine
 - Yara is an exquisite, high-end Arabic perfume, awaken your daring senses between tropical aromas, elegant aphrodisiac notes
+- Top notes are Heliotrope, Orchid and Tangerine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09C8VNWBP{{</world>}}

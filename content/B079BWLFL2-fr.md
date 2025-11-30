@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Numéro de modèle : 12137126
-- Imprimé de la marque au niveau de la poitrine
 - Forme du col : col rond
-- Conseils dentretien : lavable en machine
 - Coupe ajustée
+- Imprimé de la marque au niveau de la poitrine
+- Numéro de modèle : 12137126
+- Conseils dentretien : lavable en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079BWLFL2{{</world>}}

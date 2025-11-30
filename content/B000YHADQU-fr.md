@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sécurité avion: l’équilibrage automatique de la pression empêche lencre de fuir
 - Convient pour l’utilisation sur papier carbone
+- Sécurité avion: l’équilibrage automatique de la pression empêche lencre de fuir
 - Stylo bille classique corps transparent et capuchon avec clip à la couleur de l’encre
 - Couleur: Rouge
 

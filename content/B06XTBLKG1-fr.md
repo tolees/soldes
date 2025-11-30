@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Crèmes pour pieds
-- Produits de beauté
 - Marque Neutrogena
+- Produits de beauté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XTBLKG1{{</world>}}

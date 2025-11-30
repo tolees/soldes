@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SOULAGEMENT INSTANTANÉ DU CUIR CHEVELU : grâce à sa formule enrichie en Niacinamide, le shampoing dermo-régulateur calme, apaise et nettoie en douceur les cuirs chevelus sensibles, après une seule utilisation. Développé avec des pro. et testé sous contrôle dermatologique, ilg est sans silicone.
 - Appliquer uniformément sur cuir chevelu et cheveux mouillés. Émulsionner jusqu’à l’obtention d’une mousse légère. Rincer abondamment. Astuce de Pro : après le shampoing, pour plus d’apaisement, utiliser le Traitement Apaisant Intense Scalp Advanced 200ml.
 - +83% DAPAISEMENT DU CUIR CHEVELU en 1 utilisation*, +49% DHYDRATATION DE LA FIBRE** (*Auto-évaluation, Shampoing dermo-régulateur+traitement apaisant. **Test instrumental)
+- SOULAGEMENT INSTANTANÉ DU CUIR CHEVELU : grâce à sa formule enrichie en Niacinamide, le shampoing dermo-régulateur calme, apaise et nettoie en douceur les cuirs chevelus sensibles, après une seule utilisation. Développé avec des pro. et testé sous contrôle dermatologique, ilg est sans silicone.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPYG9ZRJ{{</world>}}

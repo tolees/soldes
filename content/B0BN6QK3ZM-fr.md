@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture : caoutchouc
-- Respirantes et respirantes
 - Cuir : cuir verni
+- Respirantes et respirantes
 - 13.7795 pouces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Degré de résistance à leau: Non résistant à leau
 - Type de peau :Sonstige
-- Marque:Clinique
-- Teint :Todos
-- Nombre dunités :7 millilitre
-- Couleur 02 Noir/Brun
 - Forme de larticle :Crema
+- Nombre dunités :7 millilitre
 - Avantages du produit :Maquillaje clinique. Máscara de pestañas máximo volumen y definición
 - Volume de larticle : 7 Millilitres
+- Degré de résistance à leau: Non résistant à leau
+- Teint :Todos
+- Couleur 02 Noir/Brun
+- Marque:Clinique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0006ODPUC{{</world>}}

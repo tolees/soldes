@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTALLATION FACILE - Extension de portée dun simple appui sur le bouton WiFi Clone, simplifie la configuration de votre réseau WiFi et vous aide à construire un réseau domestique unifié sans difficultés
-- LARGE COMPATIBILITÉ - Compatible toutes les box internet System Requirements: Windows 2000/XP/2003/Vista, Windows 7/8, Mac, Linux
-- VITESSE WIFI RAPIDE - Avec un débit WiFi maximal de 300Mbps, vous pouvez étendre votre couverture WiFi dans toutes les pièces de votre domicile
 - PORT ETHERNET - Le port Ehternet permet au CPL de connecter un périphérique câblé tel qu une console de jeux ou une télévision
+- INSTALLATION FACILE - Extension de portée dun simple appui sur le bouton WiFi Clone, simplifie la configuration de votre réseau WiFi et vous aide à construire un réseau domestique unifié sans difficultés
+- VITESSE WIFI RAPIDE - Avec un débit WiFi maximal de 300Mbps, vous pouvez étendre votre couverture WiFi dans toutes les pièces de votre domicile
+- LARGE COMPATIBILITÉ - Compatible toutes les box internet System Requirements: Windows 2000/XP/2003/Vista, Windows 7/8, Mac, Linux
 - CPL HAUT DÉBIT - Débit CPL jusquà 600 Mbps via le circuit électrique, cest idéal pour le streaming HD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

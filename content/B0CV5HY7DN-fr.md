@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lédition collector physique comprend : un superbe artbook de 112 pages intitulé «The Art of Mike Mignola´s Hellboy Web of Wyrd», présentant les œuvres précieuses et uniques de Mignola créées pour le jeu vidéo, et elle est livrée avec le jeu physique dans une boîte de collection.
-- Bienvenue dans le Wyrd: Bâtie en 1962 par lésotériste Pasquale Deneveaux, la Maison papillon est bien plus quun simple manoir : cest un portail. Construits sur des énergies telluriques, son étrange aménagement et ses géométries non euclidiennes ont été conçus avec un lugubre objectif en tête : créer des passages menant à une dimension aussi terrible que fascinante appelée le Wyrd.
 - Vivez lexpérience des Comics : Développé par Upstream Arcade, Hellboy Web of Wyrd recrée fidèlement le style propre au chef-dœuvre original de Mike Mignola. Tout comme dans les Comics, le jeu fera vivre à Hellboy une série daventures aussi uniques que différentes dans des histoires indépendantes mais toutes liées au mystérieux héritage de la Maison papillon.
+- Bienvenue dans le Wyrd: Bâtie en 1962 par lésotériste Pasquale Deneveaux, la Maison papillon est bien plus quun simple manoir : cest un portail. Construits sur des énergies telluriques, son étrange aménagement et ses géométries non euclidiennes ont été conçus avec un lugubre objectif en tête : créer des passages menant à une dimension aussi terrible que fascinante appelée le Wyrd.
 - Un roguelike action aventure : Évoluez pied à pied (ou plutôt sabot à sabot) parmi une ménagerie de créatures cauchemardesques et dhomoncules tandis que vous explorez les royaumes du Wyrd. Le système de combat a été conçu pour créer des affrontements difficiles qui encouragent lapprentissage des schémas dattaque des ennemis. Esquivez, parez et, bien sûr, fracassez vos ennemis pour les renvoyer dans le néant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

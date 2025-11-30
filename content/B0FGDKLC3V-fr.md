@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mascara avec brosse 2-en-1 transformable
 - 2 actions: volume et longueur
+- Mascara avec brosse 2-en-1 transformable
 - Couleur marron qui fait ressortir la couleur de vos yeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

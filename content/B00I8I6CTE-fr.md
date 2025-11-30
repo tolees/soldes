@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fait à la main et sans cruauté
 - Débordant de senteurs florales, notre petite Little Box of Love est le cadeau parfait pour votre bien-aimé
 - Prêt à offrir - emballé dans du papier artisanal et attaché avec un arc
-- Fait à la main et sans cruauté
 - Contient 6 x Crèmes de Bain à base de cacao et de beurre de karitéFond doucement en laissant votre peau nourrie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

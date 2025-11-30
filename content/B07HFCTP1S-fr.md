@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Votre pièce favorite EMP!
-- Gothic, Horreur
 - Un véritable attrape-loeil pour chez vous!
 - Marchandises fun et de fans
+- Gothic, Horreur
 - Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
 
 [🛒 Achète-le!!]({{< param buyurl >}})

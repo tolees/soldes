@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le recyclage de 100% polyester (oeillet blanc)
 - Regular Fit
 - encolure ras du cou style en couches
+- Le recyclage de 100% polyester (oeillet blanc)
 - Hem de la queue de chute
 
 [🛒 Achète-le!!]({{< param buyurl >}})

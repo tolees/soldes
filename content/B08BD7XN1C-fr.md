@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application facile
 - Tracé et couleur intense
 - Texture crémeuse enrichie en huile de jojoba et de coton
+- Application facile
 - Formule Waterproof
 - Convient aux yeux sensibles et aux porteurs de lentilles
 

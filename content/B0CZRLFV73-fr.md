@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Conseils d’application – Appliquez quotidiennement le soin corporel à la texture riche et non grasse sur tout le corps en insistant sur les zones sèches
 - Emballage – NIVEA REPAIR & CARE Baume Réparateur Multi Usage Peaux Sèches & Sensibles, Soin peau sèche hydratation longue durée, Crème réparatrice peaux irritées, 1 x 400 ml, numéro d’article : 85835
 - Hydratation longue durée – Le soin femme pour le corps sans parfum hydrate intensément la peau et prévient les tiraillements durant 72 h* pour une peau douce & confortable
-- Conseils d’application – Appliquez quotidiennement le soin corporel à la texture riche et non grasse sur tout le corps en insistant sur les zones sèches
-- Réparateur – Le soin riche pour le corps est anti démangeaison et renforce la barrière cutanée afin de prévenir la perte d’hydratation et de réparer les zones sèches et abîmées de la peau
 - Ingrédients actifs – Le soin corps hydratant contient 10 % de glycérine et de panthénol qui apaisent et soulagent instantanément les peaux sensibles et irritées
+- Réparateur – Le soin riche pour le corps est anti démangeaison et renforce la barrière cutanée afin de prévenir la perte d’hydratation et de réparer les zones sèches et abîmées de la peau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZRLFV73{{</world>}}

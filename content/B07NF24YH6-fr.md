@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Motif : cœurs noués.
 - Couleur : argenté.
 - Marque : Pandora.
 - Style : bague anneau.
-- Motif : cœurs noués.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07NF24YH6{{</world>}}

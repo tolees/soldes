@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouton poussoir pour réencrer la pointe à tout moment
-- Pointe ogive moyenne
-- Marqueurs effaçable à sec sur tableau blanc, sans laisser de trace
-- Tampon effaceur pratique
 - Encre liquide
+- 4 marqueurs effaçables à sec haute qualité
+- Tampon effaceur pratique
 - Brosse pour tableau blanc équipée de 4 marqueurs Maxiflo
 - Encre liquide aux couleurs intenses
-- 4 marqueurs effaçables à sec haute qualité
+- Bouton poussoir pour réencrer la pointe à tout moment
+- Marqueurs effaçable à sec sur tableau blanc, sans laisser de trace
+- Pointe ogive moyenne
 - Système de réencrage de la pointe par bouton poussoir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

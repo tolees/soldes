@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - (MWL5S-A)
 - capuchon relevable, avec système à pompe
-- pointe ogive fine, largeur de tracé: 2,0 mm, corps mince,
 - Pentel marqueur MAXIFLO MWL5S pour tableau blanc, noir
 - effacable à sec, encre fluide, corps en plastique,
+- pointe ogive fine, largeur de tracé: 2,0 mm, corps mince,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JXVZNWC{{</world>}}

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - STRUCTURE SOLIDE ET STABLE : Le poteau de notre parasol de jardin double est en aluminium, ainsi que les 12 nervures. Cela rend ce parasol plus stable et durable
+- CARÉCTERSTIQUES : Dimensions ouvert (largeurx profondeurx hauteur), 300x 300x 250 cm. Poids, 11.5KG. Couleurs disponibles, Beige, Gris
 - MONTAGE FACILE : Notre parasol de jardin double peut être ouvert facilement grâce à sa manivelle.
 - DESIGN PRATIQUE : Grâce à son désign double, notre parasol de jardin offre une meilleure protection contre le soleil. Ce parasol est conçu pour doubler votre espace d’ombre
 - TOILE EN POLYSTER : La toile vous protège en partie des UV qui vous permet de profiter du soleil à lextérieur. Aussi il est en polyester revêtu de polyesterave et un grammage de 180g/m2 vous protégera efficacement des petites pluies
-- CARÉCTERSTIQUES : Dimensions ouvert (largeurx profondeurx hauteur), 300x 300x 250 cm. Poids, 11.5KG. Couleurs disponibles, Beige, Gris
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CN8ZTPKW{{</world>}}

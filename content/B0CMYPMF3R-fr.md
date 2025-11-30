@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Samsung Les coques originales sont parfaitement adaptées aux smartphones Samsung et à leurs utilisations, alliant protection, confort et design de manière idéale.
 - Protégé contre les dommages de tous les côtés
+- Samsung Les coques originales sont parfaitement adaptées aux smartphones Samsung et à leurs utilisations, alliant protection, confort et design de manière idéale.
 - Parfait pour rendre votre téléphone encore plus sûr dans votre main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

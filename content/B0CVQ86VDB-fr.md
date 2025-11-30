@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 ans
 - Included components: 1 package
-- Transportation restrictions: {modes:["NONE"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7exLvdskg/8ZmZmZmZmrNxXabdskhAEaPXCj1wpLNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy43Ez}}}
+- SAMSUNG - SMARTPHONE
 - Wireless provider: unlocked
+- 2 ans
 - Batteries included: True
+- Item dimensions: 1.97 inches
+- Transportation restrictions: {modes:["NONE"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7exLvdskg/8ZmZmZmZmrNxXabdskhAEaPXCj1wpLNxXa9xOKXenbJIQLOIAAAAAACzjpBtaWxsaWFtcGVyZV9ob3Vy43Ez}}}
 - Memory storage capacity: 256.0 GB
 - Wireless network technology: wifi
-- Item dimensions: 1.97 inches
-- SAMSUNG - SMARTPHONE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVQ86VDB{{</world>}}

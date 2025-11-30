@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Position extra haute
-- Contrôle électronique
 - Thermostat 6 positions
+- Contrôle électronique
 - Pieds antidérapants
 - Grille pain 2 tranches
 

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir deau amovible de 1,2 l.
 - Mode Eco : arrêt automatique après 9 minutes dinactivité.
 - Possibilité dhéroger, avec une seule touche, 5 formats en tasse différents, chacun avec une crème riche et douce : expresso (40 ml), double expresso (80 ml), grand long (150 ml), mug (230 ml), haut (414 ml).
-- Machine à café avec système Nespresso Vertuo Line
+- Réservoir deau amovible de 1,2 l.
 - Nespresso Vertuo utilise un nouveau système de distribution basé sur la technologie Centrifusion : avec la lecture du code à barres sur la capsule, la machine définit automatiquement les paramètres dextraction pour chaque mélange (comme la température, la quantité en tasse et la vitesse de rotation de la capsule) et distribue votre café avec infusion et force centrifuge.
+- Machine à café avec système Nespresso Vertuo Line
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HS7B2CN{{</world>}}

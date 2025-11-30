@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jouer et créer avec des gommettes est une activité basique qui permet de développer la psychomotricité fine et d’exercer, en même temps, diverses capacités et habiletés telles que la connaissance des couleurs, des formes géométriques et des dimensions, le développement de la logique et la créativité, le travail en équipe ou encore la maîtrise de l’espace, entre autres.
-- Fabriquées dans le respect des normes EN-71 et de la chaîne de traçabilité FSC : - Adhésif à base d’eau - Sans solvants - Papiers ECF (leemental Chlorine Free) - Matériaux 100% recyclables
-- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
-- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
 - De plus, les gommettes APLI respectent les normes les plus strictes de qualité et de sécurité.
+- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
 - Rouleau de gommettes rondes de dimension Ø 15 mm de couleur marron avec un adhésif permanent.
+- Chaque rouleau contient 59 feuilles prédécoupées pour une séparation facile, un total de 2 832 gommettes par rouleau.
+- Fabriquées dans le respect des normes EN-71 et de la chaîne de traçabilité FSC : - Adhésif à base d’eau - Sans solvants - Papiers ECF (leemental Chlorine Free) - Matériaux 100% recyclables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008JQP43A{{</world>}}

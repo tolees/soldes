@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc résistant pour une adhérence supérieure sur différents terrains
-- Technologie ECCO RECEPTOR pour une excellente stabilité et un soutien dynamique de l’impact au sol jusqu’au soulèvement du pied
 - Assise plantaire moulée en EVA et recouverte de microfibres douces pour un amorti ultime et une stabilité supérieure
 - La semelle légère offre flexibilité et un amorti longue durée grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
+- Technologie ECCO RECEPTOR pour une excellente stabilité et un soutien dynamique de l’impact au sol jusqu’au soulèvement du pied
+- Semelle extérieure en caoutchouc résistant pour une adhérence supérieure sur différents terrains
 - Tige en cuir souple avec une bride latérale, un ajustement à 3 points et une doublure en néoprène pour un chaussant doux et confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

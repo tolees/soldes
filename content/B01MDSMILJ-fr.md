@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche longue
 - Couleur : Noir
 - Composition: 50%;Acrylique|50%;Polyester
+- Manche longue
 - Chaleur 3 (-5°C à 5°C)
 - Col Rond
 

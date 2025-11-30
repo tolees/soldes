@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
 - Casse-tête de 200 pièces
 - Dimensions du puzzle : 43,2 x 29,1 cm
-- Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
 - Âge recommandé : à partir de 12 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sélecteur dintensité : 3 longueurs de café, classique (100ml), intense (80ml) et le savoureux espresso (45ml)
 - Fonction Memo pour réaliser votre café exactement comme vous laimez
-- Réalisez une ou deux tasses en même temps
-- Nouveau slider intuitif pour une utilisation simplifiée
 - Fonction Crema plus pour une couche de crème fine et onctueuse
+- Nouveau slider intuitif pour une utilisation simplifiée
+- Réalisez une ou deux tasses en même temps
+- Sélecteur dintensité : 3 longueurs de café, classique (100ml), intense (80ml) et le savoureux espresso (45ml)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TB1QKBL{{</world>}}

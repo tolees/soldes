@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Suivez votre planning hebdomadaire ou explorez lécole et trouvez de nouvelles quêtes et objectifs
 - Participez aux concours et festivals scolaires avec vos élèves pour gagner des prix spéciaux
-- Chaque élève a des compétences dapprentissage uniques: aidez-le à saméliorer lorsquil est en difficulté dans une discipline!
 - Personnalisation complète: choisissez le nom et le logo de votre école, créez votre personnage, décorez votre salle de classe pour en faire la vôtre
+- Suivez votre planning hebdomadaire ou explorez lécole et trouvez de nouvelles quêtes et objectifs
 - Plus de 15 activités dans 4 environnements différents: salle de classe, laboratoire, atelier, scène musicale…
+- Chaque élève a des compétences dapprentissage uniques: aidez-le à saméliorer lorsquil est en difficulté dans une discipline!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08H2JSDFN{{</world>}}

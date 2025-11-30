@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOUTONS CORSAIR QUICKSTRIKE : CORSAIR QUICKSTRIKE ne présente aucun interstice entre les boutons de clic gauche et droit et leurs switchs afin que vos tirs soient enregistrés instantanément.
 - 74 g – Poids léger idéal pour les jeux FPS : Faites des mouvements rapides et prenez des réactions en une fraction de seconde. Avec ses 74 grammes, la M75 vous catapultera en haut du classement grâce à une vitesse et une précision inégalées.
 - Capteur optique de 26k DPI ultraprécis : Avec une résolution native de 26 000 DPI, un suivi de 650 IPS et une accélération allant jusqu’à 50 G, le capteur optique CORSAIR MARKSMAN capture avec précision les mouvements de la souris, les recentrages et les balayages rapides.
-- Contacteurs optiques de clics gauche et droit : Les contacteurs optiques garantis pour 100 millions de clics éliminent les actionnements non souhaités des boutons, vous permettant ainsi dattaquer à une vitesse fulgurante.
 - Forme ambidextre avec boutons latéraux échangeables : La forme ambidextre de la souris procure un confort et un contrôle maximaux à tous les joueurs, tant droitiers que gauchers, avec ses boutons latéraux échangeables.
+- Contacteurs optiques de clics gauche et droit : Les contacteurs optiques garantis pour 100 millions de clics éliminent les actionnements non souhaités des boutons, vous permettant ainsi dattaquer à une vitesse fulgurante.
+- BOUTONS CORSAIR QUICKSTRIKE : CORSAIR QUICKSTRIKE ne présente aucun interstice entre les boutons de clic gauche et droit et leurs switchs afin que vos tirs soient enregistrés instantanément.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CTKSDDDJ{{</world>}}

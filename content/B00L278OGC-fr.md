@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Minuterie électronique
-- 1 an de garantie supplémentaire offert par Lagrange, pour cela il suffit de vous enregistrer sur le site internet Lagrange
-- Couvercle transparent avec ouverture
-- Capacité : 1,2 L
 - Produit garantie 2 ans
-- Cuillère à glace en inox fournie
+- 1 an de garantie supplémentaire offert par Lagrange, pour cela il suffit de vous enregistrer sur le site internet Lagrange
 - Ecran électronique et signal sonore de fin de préparation
+- Couvercle transparent avec ouverture
+- Cuillère à glace en inox fournie
+- Capacité : 1,2 L
+- Minuterie électronique
 - Cuve amovible en aluminium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

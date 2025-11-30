@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cardigan
-- Pull
 - Tricot
+- Pull
+- Cardigan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07XLSV14C{{</world>}}

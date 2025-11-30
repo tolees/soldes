@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Présente un style adaptable et combinable
-- LYCRA textile lining
-- Doublure textile LYCRA
-- Polyester Textile Upper
 - Dessus textile en polyester
+- Présente un style adaptable et combinable
+- Doublure textile LYCRA
+- LYCRA textile lining
+- Polyester Textile Upper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C74T4D5N{{</world>}}

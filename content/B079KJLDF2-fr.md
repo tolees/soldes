@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’objectif est d’être le premier joueur à se débarrasser de toutes ses cartes, et le premier joueur ou la première équipe à atteindre 500 points.
-- Vous pouvez désormais jouer au UNO en compagnie de vos personnages préférés de la saga Harry Potter ! Les règles du jeu sont les mêmes que pour le UNO classique, mais les cartes sont décorées à l’effigie de Hermione, Harry, Ron et des autres personnages de la saga Harry Potter !
-- Les cartes action incluent des Passer, des Inversions, des +2 et des Jokers.
-- Un merveilleux cadeau pour les fans de Harry Potter, à partir de 7 ans. Contient 112 cartes et les règles de jeu. Les couleurs et les décorations peuvent varier.
 - La carte « Choixpeau magique » permet à un joueur de désigner un autre joueur qui devra piocher des cartes jusqu’à ce qu’il tire une carte Gryffondor !
+- Un merveilleux cadeau pour les fans de Harry Potter, à partir de 7 ans. Contient 112 cartes et les règles de jeu. Les couleurs et les décorations peuvent varier.
+- L’objectif est d’être le premier joueur à se débarrasser de toutes ses cartes, et le premier joueur ou la première équipe à atteindre 500 points.
+- Les cartes action incluent des Passer, des Inversions, des +2 et des Jokers.
+- Vous pouvez désormais jouer au UNO en compagnie de vos personnages préférés de la saga Harry Potter ! Les règles du jeu sont les mêmes que pour le UNO classique, mais les cartes sont décorées à l’effigie de Hermione, Harry, Ron et des autres personnages de la saga Harry Potter !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079KJLDF2{{</world>}}

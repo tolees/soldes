@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REVLON PROFESSIONAL
 - Anti-frisottis
 - 5ZOIJ
+- REVLON PROFESSIONAL
 - Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

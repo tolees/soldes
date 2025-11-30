@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez de milliers dapps sur le Play Store ou sur le Web pour travailler, créer, regarder vos films/séries, jouer, et plus encore Les Chromebooks sont compatibles avec Microsoft Office Retrouvez les applis Word, Excel et PowerPoint sur le web
-- Ayez de la place pour tous vos éléments essentiels et collaborez sur plusieurs appareils grâce à un ensemble de ports, offrant un transfert de données rapide, notamment un port Type-C complet qui vous permet de charger, de transférer des fichiers et de vous connecter à un moniteur en même temps.
-- Processeur : MediaTek Kompanio 520 | RAM : 4 Go, Stockage : 64 Go
 - Ecran : 14" FHD avec un cadre ultrafin offrant une qualité daffichage très agréable et fluide Partagez facilement votre écran avec vos proches grâce aux larges angles de vision de lécran IPS
+- Processeur : MediaTek Kompanio 520 | RAM : 4 Go, Stockage : 64 Go
+- Ayez de la place pour tous vos éléments essentiels et collaborez sur plusieurs appareils grâce à un ensemble de ports, offrant un transfert de données rapide, notamment un port Type-C complet qui vous permet de charger, de transférer des fichiers et de vous connecter à un moniteur en même temps.
+- Profitez de milliers dapps sur le Play Store ou sur le Web pour travailler, créer, regarder vos films/séries, jouer, et plus encore Les Chromebooks sont compatibles avec Microsoft Office Retrouvez les applis Word, Excel et PowerPoint sur le web
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1CHFBYH{{</world>}}

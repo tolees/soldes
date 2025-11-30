@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE COFFRET CADEAU DE BOUGIES POUR TOUTES LES OCCASIONS : joliment présenté, ce coffret de 3 mini-bougies votives parfumées en verre est le parfait cadeau d’anniversaire, de pendaison de crémaillère, de fête des mères, de remerciement, et autres
 - MINI-BOUGIES VOTIVES EN VERRE : le format idéal pour tester et trouver votre nouveau parfum préféré, fabriqué à partir d’un mélange de cire de soja pour une combustion propre et homogène
+- LE COFFRET CADEAU DE BOUGIES POUR TOUTES LES OCCASIONS : joliment présenté, ce coffret de 3 mini-bougies votives parfumées en verre est le parfait cadeau d’anniversaire, de pendaison de crémaillère, de fête des mères, de remerciement, et autres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DYLJYPB1{{</world>}}

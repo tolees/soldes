@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coutures à 360° pour une meilleure durabilité
 - Doublure :
+- Coutures à 360° pour une meilleure durabilité
 - Semelle extérieure / Caracteristiques : En caoutchouc pour une adhérence exceptionnelle
 - Tige : Cuir (Cuir de vachette)
 - Couleur : marron

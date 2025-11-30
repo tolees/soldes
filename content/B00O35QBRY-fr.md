@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Retire le vernis sans assécher les ongles
-- Formule sans acétone
 - Dissolvant doux
-- Enrichi en huile adoucissante
+- Formule sans acétone
 - Efficace dès le premier passage
+- Enrichi en huile adoucissante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00O35QBRY{{</world>}}

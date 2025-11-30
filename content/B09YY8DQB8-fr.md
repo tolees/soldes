@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en caoutchouc
-- Bande PUMA Formstrip sur les côtés
 - Semelle extérieure en caoutchouc
+- Semelle intermédiaire en caoutchouc
 - Tige en cuir
+- Bande PUMA Formstrip sur les côtés
 - Logo PUMA sur le talon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

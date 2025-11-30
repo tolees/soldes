@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Apple Adaptateur Secteur USB-C 140 W  Modèle Précédent '
-date: 2025-11-25 17:36:10
+title: 'Apple Adaptateur Secteur USB-C 140 W  Modèle Précédent'
+date: 2025-11-30 00:22:19
 image: 'https://m.media-amazon.com/images/I/21GCJuckDdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0
 comparePrice: 105.0 EUR
-prodname: 'Apple Adaptateur Secteur USB-C 140 W  Modèle Précédent '
+prodname: 'Apple Adaptateur Secteur USB-C 140 W  Modèle Précédent'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Apple'
 buyurl: 'https://www.amazon.fr/dp/B09JRDGZ44/?tag=tolees0d-21'
 descuento: '43.81'
-average: '61.0'
+average: '60.5'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’Adaptateur secteur USB-C 140 W offre une solution de charge rapide et efficace, au bureau, à la maison ou en déplacement
-- Il est compatible avec de nombreux câbles de charge USB‑C
-- Câble de charge vendu séparément.
 - Apple recommande d’associer cet adaptateur secteur à votre MacBook Pro 16 pouces (2021) à l’aide d’un câble USB‑C vers MagSafe 3 ou d’un câble de charge USB‑C afin de bénéficier de la charge rapide et de passer de 0 à 50 % de charge en une trentaine de minutes
+- L’Adaptateur secteur USB-C 140 W offre une solution de charge rapide et efficace, au bureau, à la maison ou en déplacement
+- Câble de charge vendu séparément.
+- Il est compatible avec de nombreux câbles de charge USB‑C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JRDGZ44{{</world>}}

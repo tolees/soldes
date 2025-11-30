@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Aimant en ferrite
+- Capacité de puissance (puissance RMS), Puissance de crête de 250 W
 - Niveau de pression sonore : 91 dB/W.m
 - Réponse de fréquence : 40-22 000 Hz
 - Alentour: Hybride (caoutchouc et tissu)
 - Tweeter compensé de polyester imidique
-- Aimant en ferrite
-- Capacité de puissance (puissance RMS), Puissance de crête de 250 W
 - Impédance de 4 ohms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

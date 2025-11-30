@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PUZZLE CARTE DU MONDE : Chaque magnet représente un pays ou une région du monde, avec son nom, sa capitale et une illustration caractérisant cette partie du globe. Le grand tableau magnétique représente le monde avec ses continents, ses mers, ses océans : la couleur utilisée pour chaque région permet de se repérer.
-- APPRENDRE EN SAMUSANT : En route pour un voyage autour du monde en 92 magnets ! Amuse-toi à remettre chaque pays à sa place, tu obtiendras une magnifique carte du monde que tu pourras accrocher au mur. Une façon ludique et pédagogique de découvrir la planète et de sinitier à la géographie. Dimensions : 70 x 43 cm. Idéal dès 7 ans. Puzzle en langue française.
-- PUZZLE MAGNÉTIQUE : Très pratique, chaque pièce du puzzle est un magnet qui saimante au plateau permettant de ne pas les égarer. Facile à ranger, le puzzle peut aussi safficher verticalement, les pièces restent solidaires de leur support.
-- CONTENU : Plateau en bois et 92 pièces magnétiques. Matériau : MDF pour le plateau et contreplaqué pour les magnets. Avec ficelle en coton pour accrocher le puzzle au mur.
 - DESIGN ADORABLE ET FRANÇAIS : Les matières nobles, les couleurs choisies et le design soigné des jouets en bois Janod leur permettent de sinsérer dans le quotidien en toute harmonie. Tous les jouets Janod sont imaginés en France, dans le Jura.
+- PUZZLE CARTE DU MONDE : Chaque magnet représente un pays ou une région du monde, avec son nom, sa capitale et une illustration caractérisant cette partie du globe. Le grand tableau magnétique représente le monde avec ses continents, ses mers, ses océans : la couleur utilisée pour chaque région permet de se repérer.
+- PUZZLE MAGNÉTIQUE : Très pratique, chaque pièce du puzzle est un magnet qui saimante au plateau permettant de ne pas les égarer. Facile à ranger, le puzzle peut aussi safficher verticalement, les pièces restent solidaires de leur support.
+- APPRENDRE EN SAMUSANT : En route pour un voyage autour du monde en 92 magnets ! Amuse-toi à remettre chaque pays à sa place, tu obtiendras une magnifique carte du monde que tu pourras accrocher au mur. Une façon ludique et pédagogique de découvrir la planète et de sinitier à la géographie. Dimensions : 70 x 43 cm. Idéal dès 7 ans. Puzzle en langue française.
+- CONTENU : Plateau en bois et 92 pièces magnétiques. Matériau : MDF pour le plateau et contreplaqué pour les magnets. Avec ficelle en coton pour accrocher le puzzle au mur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001M0KMBE{{</world>}}

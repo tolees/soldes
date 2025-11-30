@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Papier métallisé imprimé au recto et papier blanc au verso
 - Un papier étoilé idéal pour parfaire votre décoration de Noël (crêche, cache pot du pied du sapin…)
+- Papier métallisé imprimé au recto et papier blanc au verso
 - CLAIREFONTAINE Rhodia est le spécialiste de lemballage papier cadeau : nos produits qualitatifs répondent à vos besoins et à vos exigences, notre large gamme d’emballages cadeaux vous permettra de sublimer vos cadeaux tout au long de l’année
 - Fabriqué en France
 - Papier 60g, solide et brillant

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un hydratant quotidien qui fournit une hydratation 24 heures sur 24
-- Avec de la vitamine C et du guarana
 - Hydratant non gras pour hommes, rapidement absorbé
+- Avec de la vitamine C et du guarana
 - Combat le dessèchement, les tiraillements et les
 
 [🛒 Achète-le!!]({{< param buyurl >}})

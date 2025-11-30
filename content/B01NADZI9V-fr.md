@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec accessoires
 - Certifié conforme aux nouvelles disposition de la norme NFC 15-100
-- Équipé de 9 disjoncteurs
 - Coffret électrique équipé et prêt pour une installation domestique dans un appartement de type T3
+- Livré avec accessoires
 - Composant certifiés NF
+- Équipé de 9 disjoncteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NADZI9V{{</world>}}

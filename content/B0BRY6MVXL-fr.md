@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour les développeurs Le module de caméra 3 tire parti des avantages du système de caméra Open source Raspberry Pi pris en charge par libcamera
 - Regardez notre vidéo entièrement filmés avec le module dappareil photo 3 pour lutiliser en action
 - Cet ensemble complet de bibliothèques offre aux développeurs un contrôle précis du traitement dimage et un meilleur accès à lintérieur du module de caméra 3
-- Plage de mise au point : à partir de 10 cmDistance focale : 4,74 mmChamp de vision diagonal : 75 degrésChamp de vision horizontal : 66 degrésChamp de vision vertical : 41 degrésRapport de focale : F1.8Sensible à linfrarouge : non
 - Avec un mode HDR et une mise au point automatique, il offre non seulement une excellente qualité de photo, mais il est également un outil fantastique pour lenregistrement vidéo et le streaming
-- Pour les développeurs Le module de caméra 3 tire parti des avantages du système de caméra Open source Raspberry Pi pris en charge par libcamera
+- Plage de mise au point : à partir de 10 cmDistance focale : 4,74 mmChamp de vision diagonal : 75 degrésChamp de vision horizontal : 66 degrésChamp de vision vertical : 41 degrésRapport de focale : F1.8Sensible à linfrarouge : non
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRY6MVXL{{</world>}}

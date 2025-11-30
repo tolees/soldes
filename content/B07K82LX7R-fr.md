@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Raccords en S - Rosaces métalliques
-- Bec avec mousseur - Clapet anti-retour intégré
 - Montage mural apparent - Levier de commande métallique
 - Limiteur de débit ajustable - Inverseur automatique pour 2 sorties
+- Bec avec mousseur - Clapet anti-retour intégré
+- Raccords en S - Rosaces métalliques
 - GROHE Longlife cartouche en céramique 46 mm - GROHE StarLight Chrome éclatant et durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

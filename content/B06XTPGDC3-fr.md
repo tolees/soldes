@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception flexible
 - Garde au frais et confortable
+- Conception flexible
 - Longue durée de vie
 - Vous apporte un confort supplémentaire
 

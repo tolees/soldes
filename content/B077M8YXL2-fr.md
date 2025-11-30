@@ -30,10 +30,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Puma Smash Baskets
 - Ajustement amélioré
-- Dessus en cuir souple
-- Tige en suède
-- Étiquette co-griffée sur la languette et la semelle de propreté
 - Semelle extérieure en caoutchouc durable et antidérapante
+- Tige en suède
+- Dessus en cuir souple
+- Étiquette co-griffée sur la languette et la semelle de propreté
 - Inspiré du tennis , Style pour un look et un confort au quotidien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

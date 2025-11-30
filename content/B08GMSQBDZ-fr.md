@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pang Adventures apporte un nouveau gameplay et de nouvelles fonctionnalités tout en restant fidèle à lesprit dorigine avec coop locale dans tous les modes de jeu
 - Boss Fight ! Pour la première fois, les frères se retrouvent face à face avec les infâmes commandants extraterrestres!
-- Les frères ont amélioré leur équipement depuis la dernière invasion: mitrailleuses, lance-flammes, shurikens ... vous demandez, ils lont!
-- Des boules électriques, explosives, de fumée, de lave, tous les moyens seront bons pour gagner !
 - Et ils ne sont pas venus sur Terre pour faire du tourisme ... alors préparez-vous à les réduire en miettes!
+- Les frères ont amélioré leur équipement depuis la dernière invasion: mitrailleuses, lance-flammes, shurikens ... vous demandez, ils lont!
+- Pang Adventures apporte un nouveau gameplay et de nouvelles fonctionnalités tout en restant fidèle à lesprit dorigine avec coop locale dans tous les modes de jeu
+- Des boules électriques, explosives, de fumée, de lave, tous les moyens seront bons pour gagner !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08GMSQBDZ{{</world>}}

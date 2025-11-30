@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Embossed Packaging
-- Photo(s)
 - Anniversary Edition
+- Photo(s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F1V9MWVF{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CREME VISAGE NOURRISSANTE ET PROTECTRICE : Dotée dune texture très riche, la Cold Cream Visage Weleda est un soin protecteur et nourrissant intensif pour le visage. Elle est idéale pour les peaux les plus sensibles, sèches ou très sèches, pour toute la famille à partir de 3 ans.
 - CERTIFICATIONS : Natrue* : Label certifiant la cosmétique Naturelle et Biologique.
-- UNE PEAU DOUCE ET APAISÉE : Enrichie en huile damande douce et en cire dabeille, la Cold Cream Visage Weleda nourrit et adoucit lépiderme en un seul geste pour une peau plus douce, plus souple et plus confortable au quotidien.
+- CREME VISAGE NOURRISSANTE ET PROTECTRICE : Dotée dune texture très riche, la Cold Cream Visage Weleda est un soin protecteur et nourrissant intensif pour le visage. Elle est idéale pour les peaux les plus sensibles, sèches ou très sèches, pour toute la famille à partir de 3 ans.
 - UNE MARQUE PIONNIÈRE DE LA COSMÉTIQUE NATURELLE ET BIO : Depuis 1921, les laboratoires Weleda proposent des produits cosmétiques dorigine naturelle pour préserver la beauté et le bien-être de toute la famille.
 - POUR LES PEAUX SÈCHES À TRÈS SÈCHES : Riche en cire dabeille et en huile damande douce, la Cold Cream Visage Weleda prévient le dessèchement cutané et renforce le film hydrolipidique de la peau pour la protéger du dessèchement et des agressions extérieures (vent, froid, chaleur).
+- UNE PEAU DOUCE ET APAISÉE : Enrichie en huile damande douce et en cire dabeille, la Cold Cream Visage Weleda nourrit et adoucit lépiderme en un seul geste pour une peau plus douce, plus souple et plus confortable au quotidien.
 - SAINE ET RESPECTUEUSE DE LA PEAU : Testée sous contrôle dermatologique, la Cold Cream Visage Weleda à lhuile damande douce et à la cire dabeille est bien tolérée par la peau. Elle convient à un usage quotidien matin et/ou soir.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

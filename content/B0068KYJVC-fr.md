@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctions déclairage: 4 - avec feu de clignotant/avec feu de navigation/avec feu de croisement/avec feu de route
-- Couleur du carter: noir
-- Type de lampe : H4/P21W/T4W, support universel avec vis de fixation M12
-- Projecteur principal halogène à monter (gauche, debout) - pour la circulation à droite, avec homologation ECE
 - Largeur: 247mm - Hauteur: 163mm - Profondeur: 119mm - Type de lampe: P21W/H4/T4W - avec accessoires - sans ampoules
 - Le projecteur dispose de 4 fonctions déclairage : Feux de croisement / feux de route / feux de position / clignotants
+- Projecteur principal halogène à monter (gauche, debout) - pour la circulation à droite, avec homologation ECE
+- Fonctions déclairage: 4 - avec feu de clignotant/avec feu de navigation/avec feu de croisement/avec feu de route
 - Vérifié par la CEE - pour circulation à droite - Type de protec. (Code IP): IP5K4K
+- Type de lampe : H4/P21W/T4W, support universel avec vis de fixation M12
+- Couleur du carter: noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0068KYJVC{{</world>}}

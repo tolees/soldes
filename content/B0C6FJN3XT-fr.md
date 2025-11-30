@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Entendez et faites-vous entendre: Grâce à un ensemble multi-microphones réduisant leffet écho et les bruits, restez concentré sur votre voix et non sur les bruits de fond.
-- Tout-en-un: Une solution associant enceintes de musique hautes performances, haut-parleur et chargeur pour smartphone. Autonomie de la batterie jusquà 30 heures. Indice de protection IP64 relatif à létanchéité à leau et à la poussière.
-- Qualité sonore: Profitez dune plus grande clarté pendant vos appels grâce au système Bass-reflex et ses deux radiateurs passifs pour une voix naturelle et des basses profondes. Équipez la pièce de puissantes enceintes hautes-performances pour diffuser une musique de qualité et un contenu multimédia immersif.
-- Microsoft Teams: Version Microsoft Teams pour faciliter la collaboration et la communication grâce à un bouton Teams dédié pour un accès instantané à lapplication Teams.
 - Gardez le contrôle: Prenez connaissance du statut de chaque appel à distance grâce à une barre lumineuse très visible. Accédez à votre fonction favorite (lire et mettre en pause la musique, rappeler le dernier numéro, assistant vocal, etc.) dune simple pression sur la touche programmable. Pour une utilisation dans les zones communes, la touche peut être programmée pour déconnecter manuellement les périphériques Bluetooth précédemment couplés.
+- Qualité sonore: Profitez dune plus grande clarté pendant vos appels grâce au système Bass-reflex et ses deux radiateurs passifs pour une voix naturelle et des basses profondes. Équipez la pièce de puissantes enceintes hautes-performances pour diffuser une musique de qualité et un contenu multimédia immersif.
+- Tout-en-un: Une solution associant enceintes de musique hautes performances, haut-parleur et chargeur pour smartphone. Autonomie de la batterie jusquà 30 heures. Indice de protection IP64 relatif à létanchéité à leau et à la poussière.
+- Microsoft Teams: Version Microsoft Teams pour faciliter la collaboration et la communication grâce à un bouton Teams dédié pour un accès instantané à lapplication Teams.
 - Connectivité simplifiée: Profitez dune connectivité facile à vos appareils : connectez les smartphones sans fil via Bluetooth ou à un ordinateur via Bluetooth avec ladaptateur BT600, ou via USB-A (ou via USB-C avec ladaptateur USB-A vers USB-C inclus). Couplez deux unités sans fil ensemble pour répondre aux besoins de vos espaces de réunion plus grands.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

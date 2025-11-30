@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour des pièces jusquà 25 m²
-- 3 vitesses
-- Inclus(1) lampe halogène à culot R7s, 80 watts
 - Avec télécommande
+- Inclus(1) lampe halogène à culot R7s, 80 watts
 - Interrupteur de marche été et hiver pour un confort garanti toute lannée
+- 3 vitesses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CI3HWPM{{</world>}}

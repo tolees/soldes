@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🎄 VIVEZ LA MAGIE HARRY POTTER : Cette année, le mois de décembre sera encore mieux quexceptionnellement ordinaire grâce au Calendrier de lAvent Luna Lovegood de Cinereplicas ! Il comprend 24 fenêtres qui révèlent chacune un cadeau en rapport avec Luna Lovegood pour faire plaisir à tous les fans de la saga et de létudiante de Serdaigle. Préparez-vous à découvrir de la papeterie, des bijoux et divers accessoires !
-- ⚡ UN PRODUIT OFFICIEL SOUS LICENCE WARNER BROS : Ce calendrier de lavent a été développé dans le strict respect de la licence Warner Bros.
 - 🏰 UNE MARQUE RECONNUE : Cinereplicas a toute la confiance de Warner Bros pour élaborer des gammes de produits Harry Potter de haute qualité.
 - 🧹 Opportunité de gagner une véritable réplique Cinereplicas du Nimbus 2000 Junior !
+- 🎄 VIVEZ LA MAGIE HARRY POTTER : Cette année, le mois de décembre sera encore mieux quexceptionnellement ordinaire grâce au Calendrier de lAvent Luna Lovegood de Cinereplicas ! Il comprend 24 fenêtres qui révèlent chacune un cadeau en rapport avec Luna Lovegood pour faire plaisir à tous les fans de la saga et de létudiante de Serdaigle. Préparez-vous à découvrir de la papeterie, des bijoux et divers accessoires !
+- ⚡ UN PRODUIT OFFICIEL SOUS LICENCE WARNER BROS : Ce calendrier de lavent a été développé dans le strict respect de la licence Warner Bros.
 - 🧙‍♂️ UN DESIGN ORIGINAL : Avec une boîte et de tout nouveaux cadeaux spécialement conçus pour ce calendrier de lAvent, tous à leffigie de Luna Lovegood, ce calendrier sera un compagnon idéal pour le compte à rebours de Noël !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

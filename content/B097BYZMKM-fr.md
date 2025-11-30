@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 100 heures dautonomie | Résistance à leau et à la poussière
 - Mode 2,4 GHz (performance) + Bluetooth 5.2 (polyvalence)
+- Jusquà 100 heures dautonomie | Résistance à leau et à la poussière
 - Forme légère et symétrique
 - Capteur optique 400 IPS et 19 000 DPI| Câble USB-C amovible avec charge rapide
 - Interrupteurs optiques testés pour 100 millions de clics

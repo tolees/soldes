@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Matériau intérieur : textile
 - Matériau extérieur : tissu
+- Matériau intérieur : textile
+- Forme du talon : plat
 - Largeur de la chaussure : étroite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

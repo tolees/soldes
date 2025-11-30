@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 10 pièces
 - MediaRange
 - Cake Box
+- 10 pièces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0056DJREG{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Groupe de six boutons latéraux et conception soulageant la tension : le groupe de six boutons latéraux est configuré dans une disposition unique facile d’accès, avec un revêtement antidérapant texturé situé de façon idéale au niveau du pouce afin de pouvoir jouer longtemps tout en soulageant la tension exercée sur la main
 - Capteur optique 26 000 DPI CORSAIR MARKSMAN : le capteur optique à résolution native exceptionnelle 26 000 DPI, 650 IPS, 50G CORSAIR MARKSMAN capture les mouvements de souris les plus infimes, avec une option de personnalisation par paliers de 1 DPI
-- Contenu de lemballage : Souris de jeu DARKSTAR WIRELESS | Câble de charge et de données USB | Émetteur-récepteur sans fil USB | Fiche de sécurité | Carte de garantie
-- 15 boutons entièrement programmables : à travers toute une série de boutons programmables, dont la molette de défilement multidirectionnelle, vos tirs et sorts essentiels, commandes et actions sont accessibles en un simple clic
-- Sans fil ultrarapide : transmettez chaque clic à temps via les connexions SLIPSTREAM WIRELESS ou Bluetooth inférieures à 1 ms, avec un taux d’interrogation de 2 000 Hz
 - Personnalisez votre jeu avec iCUE : le logiciel CORSAIR iCUE permet une personnalisation de l’éclairage RGB dynamique à sept zones, des ajustements DPI, un remappage des touches et bien plus encore, le tout enregistré sur jusqu’à cinq profils embarqués afin d’emporter vos paramètres de souris personnalisés partout avec vous
+- Contenu de lemballage : Souris de jeu DARKSTAR WIRELESS | Câble de charge et de données USB | Émetteur-récepteur sans fil USB | Fiche de sécurité | Carte de garantie
+- Sans fil ultrarapide : transmettez chaque clic à temps via les connexions SLIPSTREAM WIRELESS ou Bluetooth inférieures à 1 ms, avec un taux d’interrogation de 2 000 Hz
+- Groupe de six boutons latéraux et conception soulageant la tension : le groupe de six boutons latéraux est configuré dans une disposition unique facile d’accès, avec un revêtement antidérapant texturé situé de façon idéale au niveau du pouce afin de pouvoir jouer longtemps tout en soulageant la tension exercée sur la main
+- 15 boutons entièrement programmables : à travers toute une série de boutons programmables, dont la molette de défilement multidirectionnelle, vos tirs et sorts essentiels, commandes et actions sont accessibles en un simple clic
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6R3CBJ5{{</world>}}

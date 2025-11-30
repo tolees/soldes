@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: enfiler
 - 100% polyester
+- Fermeture: enfiler
 - Type de col: col une pièce
 - Régulier
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marqueur peinture permanent, pointe conique fine, corps en aluminium
 - Peinture pigmentée à base dhuile, permanente, opaque, couvrante et lumineuse
 - Pour tous supports et surfaces claires ou foncées : papier, bois, carton, verre, métal, caoutchouc, plastique, tissu...
 - Encre faible odeur (sans xylène)
+- Marqueur peinture permanent, pointe conique fine, corps en aluminium
 - Idéal pour décorer et personnaliser cartes, menus… mais aussi vos cadres en bois, bouteilles en verre, vases...
 
 [🛒 Achète-le!!]({{< param buyurl >}})

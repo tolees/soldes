@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TCS (Traction Control System)
 - Autonomie jusquà 55 km
-- Performance｜Sécurité｜Confort｜Intelligence
+- TCS (Traction Control System)
 - Roues 10 tubeless autocicatrisants
+- Performance｜Sécurité｜Confort｜Intelligence
 - Clignotants intégrés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

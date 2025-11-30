@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE FRAGRANCE DE JASMIN : Le jasmin est à l’honneur dans cette création Jeanne en Provence. Une eau de parfum fleurie, aux émanations élégantes et voluptueuses pour votre peau.
-- LE SAVOIR-FAIRE FRANÇAIS AU CŒUR DES PRODUITS JEANNE EN PROVENCE : La marque conçoit et fabrique ses parfums avec amour à Grasse en sinspirant de la nature provençale pour le choix des plantes et des fleurs.
-- UNE MARQUE ENGAGÉE : Soucieux de la qualité de leurs produits et du respect de lenvironnement, Jeanne en Provence sengage pour vous proposer des formules composées à 95 % d’ingrédients d’origine naturelle.
 - UNE COLLECTION JASMIN SECRET UNIQUE : Jeanne en Provence soigne le design de ses bouteilles afin dallier beauté et sensorialité. Cette eau de parfum éveillera tous vos sens pour un doux voyage vers le sud de la France.
 - UN MOMENT DE BIEN-ÊTRE ENSOLEILLÉ : Quelques sprays de ce doux parfum suffisent pour vous transporter au cœur de vos souvenirs d’été, rappelant les belles journées ensoleillées où le parfum de jasmin ne cesse déclore.
+- UNE MARQUE ENGAGÉE : Soucieux de la qualité de leurs produits et du respect de lenvironnement, Jeanne en Provence sengage pour vous proposer des formules composées à 95 % d’ingrédients d’origine naturelle.
+- UNE FRAGRANCE DE JASMIN : Le jasmin est à l’honneur dans cette création Jeanne en Provence. Une eau de parfum fleurie, aux émanations élégantes et voluptueuses pour votre peau.
+- LE SAVOIR-FAIRE FRANÇAIS AU CŒUR DES PRODUITS JEANNE EN PROVENCE : La marque conçoit et fabrique ses parfums avec amour à Grasse en sinspirant de la nature provençale pour le choix des plantes et des fleurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TWN1HTV{{</world>}}

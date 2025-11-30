@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCOUVREZ LE MONDE MAGIQUE DE HARRY POTTER : Plongez dans lunivers captivant de Harry Potter avec ce jeu de société Dobble. Retrouvez les symboles emblématiques de la saga du magicien sur les cartes Dobble et retrouvez l’univers magique de Poudlard !
-- FORMAT VOYAGE PRATIQUE : La boîte en métal compacte facilite le transport du jeu, que ce soit lors de vos voyages, en vacances ou lors de déplacements. Cest un indispensable pour les apprentis sorciers, petits et grands ! Contenu de la boîte : 55 cartes et1 livret de règles
-- ADAPTÉ AUX ENFANTS ET AUX ADULTES : Ce jeu convient aux enfants à partir de 6 ans ainsi quaux joueurs de tous âges. Partagez des moments de plaisir en famille ou entre amis.
-- JOUEZ À PLUSIEURS : Dobble est conçu pour être joué de 2 à 8 joueurs. Organisez des tournois amusants ou défiez vos amis en tête-à-tête. Vous retrouverez tous vos personnages préférés pour des parties endiablées en famille et entre amis.
 - JEU DE RAPIDITÉ ET DOBSERVATION : Dobble est un jeu de rapidité où vous devez trouver le symbole commun entre deux cartes. Soyez le plus rapide pour remporter la partie ! Profitez du meilleur jeu d’ambiance qui soit, avec 5 variantes dans 1 boîte !
+- JOUEZ À PLUSIEURS : Dobble est conçu pour être joué de 2 à 8 joueurs. Organisez des tournois amusants ou défiez vos amis en tête-à-tête. Vous retrouverez tous vos personnages préférés pour des parties endiablées en famille et entre amis.
+- FORMAT VOYAGE PRATIQUE : La boîte en métal compacte facilite le transport du jeu, que ce soit lors de vos voyages, en vacances ou lors de déplacements. Cest un indispensable pour les apprentis sorciers, petits et grands ! Contenu de la boîte : 55 cartes et1 livret de règles
+- DÉCOUVREZ LE MONDE MAGIQUE DE HARRY POTTER : Plongez dans lunivers captivant de Harry Potter avec ce jeu de société Dobble. Retrouvez les symboles emblématiques de la saga du magicien sur les cartes Dobble et retrouvez l’univers magique de Poudlard !
+- ADAPTÉ AUX ENFANTS ET AUX ADULTES : Ce jeu convient aux enfants à partir de 6 ans ainsi quaux joueurs de tous âges. Partagez des moments de plaisir en famille ou entre amis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TMMB7HS{{</world>}}

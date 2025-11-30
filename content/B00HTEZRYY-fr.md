@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UN CADEAU INTEMPOREL qui fera des heureux pour des heures de jeu et d’amusement seul ou à plusieurs ! Idéal pour compléter la collection BRIO World. Pour un anniversaire ou pour Noel ou une autre fête. Dès 3 ans
-- PRET POUR LE DECOLLAGE ? Installez le pilote, le voyageur et sa valide à bord de cette avion 3 places en ouvrant le toit de lavion. Refermez le toit pour faire décollez lavion vers de nouvelles aventures ! Inclus : 1 avion + 2 figurines articulées + 1 valise + 1 escalier dembarquement.
 - HAUTE QUALITE ET SECURITE Aucune petite pièce incluse donc les jouets BRIO sont sans danger pour les enfants de -3 ans. Fabriqué à partir de bois de hêtre certifié FSC, de plastique de haute qualité et incluant des détails métalliques raffinés. FSC : organisme à but non lucratif qui protège, contrôle et encourage la gestion durable des forêts.
+- PRET POUR LE DECOLLAGE ? Installez le pilote, le voyageur et sa valide à bord de cette avion 3 places en ouvrant le toit de lavion. Refermez le toit pour faire décollez lavion vers de nouvelles aventures ! Inclus : 1 avion + 2 figurines articulées + 1 valise + 1 escalier dembarquement.
 - DEVELOPPE LIMAGINATION Cet avion permet aux garçons comme aux filles de développer leur habileté manuelle, leur créativité et leur imagination. Pour plus dactions de jeu, la escalier dembarquement est amovible grâce à ses roues et est aimantée pour bien rester coller à lavion quand les passagers embarquent.
 - Niveau de compétence: 1 (aucune connaissance préalable requise)
 - TOUT EST COMPATIBLE Agrandissez votre circuit de train en bois en ajoutant des rails supplémentaires, des trains à pile, des wagons à thème ou des accessoires amusants (passage à niveau, gare, tunnel, pont) du BRIO World. Compatible avec les autres marques.

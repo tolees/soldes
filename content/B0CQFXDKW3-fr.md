@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Carafe à lait intégrée - La carafe à lait permet de réaliser des cappuccinos et caffés latte avec une mousse de lait très onctueuse
-- Réservoir transparent amovible : Pratique, vous pouvez contrôler le niveau deau du réservoir dun seul coup doeil et vous pouvez le retirer pour le remplir facilement.
 - Ecran tactile : Lécran tactile très design permet de sélectionner sa boisson très simplement.
 - 4 cafés au choix : Choisissez de faire préparer un expresso, un double expresso, un cappuccino ou un latte en une seule touche !
+- Réservoir transparent amovible : Pratique, vous pouvez contrôler le niveau deau du réservoir dun seul coup doeil et vous pouvez le retirer pour le remplir facilement.
 - Plateau chauffe tasses : Grâce au plateau chauffe tasse, préchauffez vos tasses pour avoir un café toujours chaud. Lors de la préparation de plusieurs tasses, posez les tasses prêtes sur le plateau pour quelles ne se réfroidissent pas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

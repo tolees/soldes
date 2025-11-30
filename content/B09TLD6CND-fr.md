@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connecteur USB plaqué or avec câble tressé résistant
-- Cadre en aluminium durable, Repose-poignet détachable
 - Commutateurs mécaniques fiables et étanches à la poussière
-- Effets lumineux dynamiques RGB par touche
+- Cadre en aluminium durable, Repose-poignet détachable
+- Connecteur USB plaqué or avec câble tressé résistant
 - Personnalisation avancée avec le logiciel HyperX NGENUITY
+- Effets lumineux dynamiques RGB par touche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09TLD6CND{{</world>}}

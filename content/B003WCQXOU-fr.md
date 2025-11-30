@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : M&Ms Chocolat au Lait & Riz Soufflé, 24 x 36gr
 - Idéal pour remplir les chaussettes de Noël, comme snack pour les soirées cinéma, pour distribuer avec des bonbons dHalloween ou pour ajouter aux paniers de Pâques.
+- Contenu : M&Ms Chocolat au Lait & Riz Soufflé, 24 x 36gr
 - Un placard à friandises ou un tiroir à bonbons rempli de M&Ms riz soufflé, cest un placard plein de Bonheur, si vous voulez notre avis.
 - Un cœur de riz délicieusement croustillant nappé dun chocolat au lait appétissant et enveloppé dans une coque croustillante et colorée.
 - Cest le snack sucré préféré de tous, tout au long de lannée. Parfaits pour accompagner un film dhorreur avec des bonbons dhalloween, pour les anniversaires et pour les partager avec des amis.

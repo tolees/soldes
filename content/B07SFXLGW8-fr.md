@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rallumez la flamme avec les trois jeux originaux, Spyro the Dragon, Spyro 2: Riptos Rage! et Spyro: Year of the Dragon, tous intégralement remasterisés
-- Le véritable maître des flammes est de retour ! Toujours aussi brûlant et attachant, Spyro revient dans une HD flamboyante avec Spyro Reignited Trilogy !
 - Explorez les niveaux gigantesques, retrouvez des personnages inoubliables et revivez toutes ces aventures remasterisées en haute définition
+- Le véritable maître des flammes est de retour ! Toujours aussi brûlant et attachant, Spyro revient dans une HD flamboyante avec Spyro Reignited Trilogy !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SFXLGW8{{</world>}}

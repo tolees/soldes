@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir responsable
 - Confortable
-- Poids léger
+- Cuir responsable
 - Cuir souple
+- Poids léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0050N5FZM{{</world>}}

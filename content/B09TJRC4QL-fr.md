@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - FACILE À INSTALLER – Ajustez la largeur des jambes, l’angle et la position de la selle en toute simplicité pour un ajustement parfait. (Hauteur fixe des jambes – voir nos modèles 2.0 et Pro pour des longueurs de jambes réglables).
 - SÉCURITÉ EXCEPTIONNELLE – Roulez l’esprit tranquille grâce aux guidons qui sécurisent les petites mains et à notre garde-boue spécial qui empêche les pieds de toucher la roue. Votre achat garantit une installation ayant subi des tests de sécurité rigoureux dans notre usine.
-- NOUVELLE VERSION À DÉVERROUILLAGE RAPIDE – Le même siège exceptionnel est désormais équipé d’un bouton de libération rapide personnalisé, permettant une installation, un retrait et un changement de vélo en 30 secondes après la configuration initiale. Aucune modification du vélo n’est requise.
 - PASSIONNÉS DE VTT – Conçu par des passionnés de VTT pour les vététistes. Avec votre enfant installé à l’avant, vous favoriserez son amour de la nature tout en créant des souvenirs inoubliables.
+- NOUVELLE VERSION À DÉVERROUILLAGE RAPIDE – Le même siège exceptionnel est désormais équipé d’un bouton de libération rapide personnalisé, permettant une installation, un retrait et un changement de vélo en 30 secondes après la configuration initiale. Aucune modification du vélo n’est requise.
 - PROTÉGEZ VOTRE CADRE – Nos sièges combinés disposent d’une protection intégrale en caoutchouc et s’adaptent à la plupart des cadres de VTT modernes. Choisissez le Pro Combo, spécialement conçu pour éviter tout contact avec le cadre, s’adapter aux tubes inférieurs larges, aux VAE ou aux cadres en carbone. N’exposez pas votre cadre aux rayures ou bosses avec des alternatives de moindre qualité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

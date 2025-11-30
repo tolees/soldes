@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUT LE MONDE EST LÀ – Joue avec tes poneys préférés.
-- EXPLORE LE ROYAUME – Sauve la ville-nuage de Hauts-de-Zéphyr.
-- AMUSE-TOI PARTOUT – Avec des mini-jeux, des objets à collectionner, des photos et plus encore !
-- POMPONNE-TOI – Donne du style à tes amis poneys avec des accessoires personnalisés.
 - JOUE EN COOP – Pars à laventure à un ou deux joueurs.
+- AMUSE-TOI PARTOUT – Avec des mini-jeux, des objets à collectionner, des photos et plus encore !
+- EXPLORE LE ROYAUME – Sauve la ville-nuage de Hauts-de-Zéphyr.
+- TOUT LE MONDE EST LÀ – Joue avec tes poneys préférés.
+- POMPONNE-TOI – Donne du style à tes amis poneys avec des accessoires personnalisés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXTN57C4{{</world>}}

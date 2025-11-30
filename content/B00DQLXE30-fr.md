@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age range description: enfant
-- Licence officielle
-- Construisez votre propre pokemon pikachu
-- Collecter, créer et afficher votre pokemon
 - Is assembly required: true
+- Age range description: enfant
+- Collecter, créer et afficher votre pokemon
+- Construisez votre propre pokemon pikachu
+- Licence officielle
 - Comprend des instructions détaillées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

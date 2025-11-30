@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 88 touches - Les 88 touches pleine taille, sensibles au toucher de ce clavier numérique simulent le son dun piano acoustique. Idéal pour développer la force et la dextérité des doigts
-- Bien connecté - Comprend une entrée de pédale de soutien 6,35 mm, une entrée Aux 3,5 mm pour un micro, un téléphone ou une tablette, et une sortie casque 3,5 mm pour désactiver les haut-parleurs
-- Jouez où vous voulez - Le clavier fonctionne avec ladaptateur fourni ou avec six piles AA (vendues séparément) pour pouvoir vous entraîner où vous le désirez
-- Pédagogique - Inclus des modes Split, Lesson et Record innovants pour que lélève et le professeur jouent et senregistrent ensemble, un métronome et une fonction de transposition facile
-- Connexion MIDI USB - Branchez simplement le Recital Play à un ordinateur Mac ou PC pour utiliser la plupart des logiciels denregistrement et de piano, comme les leçons Skoove et Melodics incluses
 - Kit daccessoires - Clavier Recital Play, support à hauteur réglable, pupitre pour partition ou tablette, pédale de soutien, casque, sac de transport et alimentation
 - Le piano électrique dentraînement ultime pour les débutants - Clavier piano portable, léger et facile à utiliser avec haut-parleurs intégrés pour un son riche et des sensations de jeu authentiques
+- 88 touches - Les 88 touches pleine taille, sensibles au toucher de ce clavier numérique simulent le son dun piano acoustique. Idéal pour développer la force et la dextérité des doigts
 - Immense bibliothèque de sons - 480 sons réalistes, des effets de réverbération, un mode chanson avec 160 rythmes pour créer et enregistrer, et 140 morceaux de démonstration intégrés
+- Bien connecté - Comprend une entrée de pédale de soutien 6,35 mm, une entrée Aux 3,5 mm pour un micro, un téléphone ou une tablette, et une sortie casque 3,5 mm pour désactiver les haut-parleurs
+- Pédagogique - Inclus des modes Split, Lesson et Record innovants pour que lélève et le professeur jouent et senregistrent ensemble, un métronome et une fonction de transposition facile
+- Connexion MIDI USB - Branchez simplement le Recital Play à un ordinateur Mac ou PC pour utiliser la plupart des logiciels denregistrement et de piano, comme les leçons Skoove et Melodics incluses
+- Jouez où vous voulez - Le clavier fonctionne avec ladaptateur fourni ou avec six piles AA (vendues séparément) pour pouvoir vous entraîner où vous le désirez
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLVRL7YW{{</world>}}

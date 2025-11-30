@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Contient : Un bloc-notes collant en forme
 - Carnet de notes à couverture rigide avec divers blocs-notes et notes autocollantes à lintérieur.
+- Un bloc-notes autocollant carré
 - · Quatre longs signets collants.
 - Original Mr. Wonderful.
-- Un bloc-notes autocollant carré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4PL2F6K{{</world>}}

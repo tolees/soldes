@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Produits Nutrabalm
-- Nombre darticles: 1.0
 - Produits de beauté
+- Nombre darticles: 1.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00J5FX9JK{{</world>}}

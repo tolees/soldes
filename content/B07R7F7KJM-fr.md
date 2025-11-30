@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ubiquiti Networks
-- Durable
 - UVC-G4-PRO
+- Durable
 - Caméra de sécurité IP
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour les panelite de 1,2x1,8m
-- 95 à 120cm
-- Les produits Lastolite par Manfrotto ont tous été renommés Manfrotto. Vous pourriez recevoir tant bien la version Lastolite par Manfrotto que Manfrotto, le produit est exactement le même
 - Idéal pour les réflecteurs ronds
+- 95 à 120cm
+- Pour les panelite de 1,2x1,8m
+- Les produits Lastolite par Manfrotto ont tous été renommés Manfrotto. Vous pourriez recevoir tant bien la version Lastolite par Manfrotto que Manfrotto, le produit est exactement le même
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DPGDRAQ{{</world>}}

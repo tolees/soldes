@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture Velcro
-- Semelle intérieure rembourrée
 - Hauteur de la pile : 5 cm
+- Semelle intérieure rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SL1HXKQ{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriquées en Espagne
 - Hauteur du talon : 3,00 cm
 - Matière principale : nappa, matériau de la doublure : fausse peau de mouton Matériau de la semelle : caoutchouc naturel Semelle intérieure amovible Insert : oui
+- Fabriquées en Espagne
 - Résistantes à leau
 - Panama Jack Bottes classiques Cuero / Bark pour femme
 

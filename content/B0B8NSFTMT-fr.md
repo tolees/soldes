@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASUS Extreme Low Motion Blur (ELMB ) technology enables a 1ms response time (GTG), eliminating ghosting for sharp gaming visuals
-- 23.8-inch FHD (1920x1080) Fast IPS gaming monitor with ultrafast 270Hz(OC) refresh rate designed for professional gamers and immersive gameplay
 - Supports both Adaptive-Sync with NVIDIA GeForce* graphics cards and Freesync Premium with AMD graphics cards. *Compatible with NVIDIA GeForce GTX 10 series, GTX 16 series, RTX 20 series and newer graphics cards
+- ASUS Extreme Low Motion Blur (ELMB ) technology enables a 1ms response time (GTG), eliminating ghosting for sharp gaming visuals
 - FreeSync Premium and G-Sync compatible delivers a seamless, tear-free gaming experience by enabling VRR (variable refresh rate) by default
+- 23.8-inch FHD (1920x1080) Fast IPS gaming monitor with ultrafast 270Hz(OC) refresh rate designed for professional gamers and immersive gameplay
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B8NSFTMT{{</world>}}

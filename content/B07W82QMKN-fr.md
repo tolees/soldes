@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fermeture: Enfiler
 - Manche courte
-- 100% Polyester
 - Lavage en machine
+- 100% Polyester
 - Slim
 - Type de col: Club
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - POIGNEES : poignées rivetées en inox, confortables et sûres
-- COMPATIBILITE : tous feux dont induction
 - DIFFUSION OPTIMALE DE LA CHALEUR : pour des résultats de cuisson délicieux
+- COMPATIBILITE : tous feux dont induction
 - RESISTANTE ET DURABLE : en acier inoxydable 18/10 de haute qualité
 - COUVERCLE EGOUTTOIR : couvercle égouttoir et bec verseur pour plus de praticité avec graduations intérieures pour une cuisson précise
 

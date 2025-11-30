@@ -28,18 +28,18 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de coupe: Regular
-- Garantie :2 an(s)
-- Type de col: Col à fermeture éclair
 - Poche poitrine zippée
 - Contenu : 1x Columbia Fast Trek veste polaire sans manche, 100% polyester micropolaire, Couleur : Noir, Taille : M, Art.No 1460001
+- Garantie :2 an(s)
 - Poches chauffe-main zippées
-- Confort optimal grâce à la conception en micropolaire
-- Gardez votre téléphone et autres effets personnels en sécurité dans la poche poitrine et dans les poches chauffe-mains zippées, sans crainte de les voir tomber
 - Veste polaire pour homme, Idéale pour toutes vos aventures outdoor
+- Type de coupe: Regular
+- Gardez votre téléphone et autres effets personnels en sécurité dans la poche poitrine et dans les poches chauffe-mains zippées, sans crainte de les voir tomber
 - Composition matière: 100% Polyester
-- Type de manches: Sans manche
+- Confort optimal grâce à la conception en micropolaire
 - Logo Columbia subtil et élégant pour une utilisation au quotidien
+- Type de manches: Sans manche
+- Type de col: Col à fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008RWA1JS{{</world>}}

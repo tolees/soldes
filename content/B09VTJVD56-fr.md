@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 100% Polyamides
-- Fermeture éclair
 - Classique
-- Lavage en machine
+- Fermeture éclair
 - Manche longue
 - Zip
+- Lavage en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VTJVD56{{</world>}}

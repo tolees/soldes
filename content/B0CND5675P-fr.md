@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- RAPIDITE ET OBSERVATION : Tout comme le Dobble classique, le jeu demande des réflexes rapides et une observation aiguisée. Les joueurs doivent repérer les symboles communs entre les cartes rapidement, ajoutant une dose dexcitation et de compétition au jeu.
+- JEU DE VOYAGE ET DE POCHE : Comme la plupart des jeux Dobble, cette version Harry Potter est compacte et facile à transporter. Son format portable le rend idéal pour les voyages, les soirées entre amis, ou toute occasion où une partie rapide et divertissante est appréciée.
 - ADAPTE A TOUS LES AGES : Dobble Harry Potter est conçu pour être accessible dès 6 ans. Sa simplicité de règles en fait un jeu familial idéal, permettant à des joueurs de tous niveaux de participer et de samuser ensemble.
 - JOUEZ À PLUSIEURS : Dobble est conçu pour être joué de 2 à 8 joueurs. Organisez des tournois amusants ou défiez vos amis en tête-à-tête. Vous retrouverez tous vos personnages préférés pour des parties endiablées en famille et entre amis.
-- JEU DE VOYAGE ET DE POCHE : Comme la plupart des jeux Dobble, cette version Harry Potter est compacte et facile à transporter. Son format portable le rend idéal pour les voyages, les soirées entre amis, ou toute occasion où une partie rapide et divertissante est appréciée.
-- RAPIDITE ET OBSERVATION : Tout comme le Dobble classique, le jeu demande des réflexes rapides et une observation aiguisée. Les joueurs doivent repérer les symboles communs entre les cartes rapidement, ajoutant une dose dexcitation et de compétition au jeu.
 - PLONGEZ DANS LUNIVERS HARRY POTTER : Dobble Harry Potter plonge les joueurs dans lunivers magique de Harry Potter en mettant en vedette des icônes, des objets et des créatures emblématiques de la série, offrant ainsi une expérience de jeu immersive pour les fans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

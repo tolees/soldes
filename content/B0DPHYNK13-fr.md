@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Foncez en solo ou appelez des renforts grâce à un système de renfort avancé
-- Intervenez sur des crimes dans un monde ouvert allant de la simple infraction de stationnement aux fusillades entre gangs
 - Profitez dun cycle jour/nuit et dune météo évolutive
-- Explorez une ville animée et dynamique, à pied, en voiture de police et même en hélicoptère
 - Participez à dintenses courses-poursuites en véhicule dans des environnements destructibles
+- Foncez en solo ou appelez des renforts grâce à un système de renfort avancé
+- Explorez une ville animée et dynamique, à pied, en voiture de police et même en hélicoptère
+- Intervenez sur des crimes dans un monde ouvert allant de la simple infraction de stationnement aux fusillades entre gangs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPHYNK13{{</world>}}

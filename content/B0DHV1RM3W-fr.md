@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure textile
-- Fermeture à lacets
 - Coupe standard
+- Fermeture à lacets
 - Tige en Fiberskin avec imprimé Sprintgrid
 - Semelle extérieure Sprintplate 360 multi-surfaces/terrains fermes
 

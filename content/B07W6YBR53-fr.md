@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ras du cou côtelé
-- Ajustement régulier
-- Tissu Nike dry
-- Age range description : Adulte
-- Type de tissu : 100% De Polyester Recyclé
-- Department : Garçon
-- Maillot
 - Matériel : Polyester
+- Ajustement régulier
+- Maillot
+- Department : Garçon
+- Tissu Nike dry
+- Type de tissu : 100% De Polyester Recyclé
+- Age range description : Adulte
+- Ras du cou côtelé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6YBR53{{</world>}}

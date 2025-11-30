@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pointure : 37 EU
-- Fermeture : Lacets
+- Age : Adulte
 - Genre : Féminin
 - Matière : Textile, Synthétique
-- Age : Adulte
+- Fermeture : Lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3VHBL7B{{</world>}}

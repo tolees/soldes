@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cap
 - Billabong - Walled Snapback Mütze - Mann
+- Cap
 - Headwear
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

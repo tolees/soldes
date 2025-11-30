@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les processeurs pour ordinateurs de bureau Intel Core 12e génération ou AMD Ryzen série 7000 et supérieurs
-- Intel XMP 3.0 et AMD EXPO pris en charge pour une récupération facile des performances
-- Profitez d’un taux de rafraîchissement supérieur pour vos jeux, faites du multitâche plus facilement, améliorez votre productivité
 - Downclock possible pour les systèmes qui prennent uniquement en charge 5200 ou 4800MT/s
+- Profitez d’un taux de rafraîchissement supérieur pour vos jeux, faites du multitâche plus facilement, améliorez votre productivité
+- Compatible avec les processeurs pour ordinateurs de bureau Intel Core 12e génération ou AMD Ryzen série 7000 et supérieurs
 - Type d’ECC = Non-ECC, format = UDIMM, nombre de broches = 288 broches, vitesse du PC = PC5-44800, tension = 1,1 V, classement et configuration = 2Rx8
+- Intel XMP 3.0 et AMD EXPO pris en charge pour une récupération facile des performances
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C79RMMCL{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TV HD Ready LED 80 cm / 32 pouces
-- Compatible Google Assistant, Amazon Alexa
-- SMART TV
 - 2 x HDMI
+- SMART TV
+- Compatible Google Assistant, Amazon Alexa
 - Wifi
+- TV HD Ready LED 80 cm / 32 pouces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083T1HSL2{{</world>}}

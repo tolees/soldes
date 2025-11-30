@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de talon : Plat
-- Matériau intérieur : Synthétique
 - Matériau extérieur : Cuir
+- Matériau intérieur : Synthétique
 - Matériau unique :Caoutchouc
+- Type de talon : Plat
 - Type de fermeture : Lacet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

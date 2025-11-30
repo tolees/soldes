@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idée de cadeau danniversaire pour les garçons, les filles et les fans dès 10 ans – Offrez ce jouet de construction de 1 048 pièces à des enfants de 10 ans et plus et à tous les fans et collectionneurs de Star Wars : The Mandalorian
-- Accessoires réalistes – Ce jeu de construction plein de fantaisie comprend une grenouille de Sorgan en briques LEGO, un levier de vitesse et un biscuit que Grogu peut tenir dans ses mains
-- Maquette à construire et à exposer avec des détails amusants – Les bras de Grogu peuvent bouger grâce à un bouton et sa tête et ses oreilles sont articulées. Il peut être exposé à l’intérieur ou à l’extérieur du landau
 - Sets LEGO Star Wars pour tous – Les jouets de construction LEGO Star Wars à collectionner (vendus séparément) permettent aux enfants et aux fans adultes de recréer des scènes culte de la saga, dinventer des histoires ou dexposer leurs maquettes
-- Minifigurine LEGO de Grogu et son landau à construire – Créez un adorable objet de décoration intérieure LEGO Star Wars : The Mandalorian avec le personnage de Grogu
 - Présentoir pour la minifigurine LEGO de Grogu – La maquette principale à construire s’accompagne d’une plaque descriptive sur un support, qui peut accueillir la minifigurine LEGO de Grogu de taille standard dans un petit landau à construire également
+- Maquette à construire et à exposer avec des détails amusants – Les bras de Grogu peuvent bouger grâce à un bouton et sa tête et ses oreilles sont articulées. Il peut être exposé à l’intérieur ou à l’extérieur du landau
+- Accessoires réalistes – Ce jeu de construction plein de fantaisie comprend une grenouille de Sorgan en briques LEGO, un levier de vitesse et un biscuit que Grogu peut tenir dans ses mains
 - Instructions intuitives – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent zoomer et faire pivoter une version numérique 3D de leur modèle pendant la construction
+- Minifigurine LEGO de Grogu et son landau à construire – Créez un adorable objet de décoration intérieure LEGO Star Wars : The Mandalorian avec le personnage de Grogu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSDMSWQ{{</world>}}
