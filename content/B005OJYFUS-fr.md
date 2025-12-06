@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b> Garantie </b>: 2 an(s)
-- <b>Composition</b>: Sans Bysphenol A et Phtalate
-- <b> Couleur </b>: Blanche
-- <b>Capacité</b>: 2,7 Litre(s)
-- <b>Entretien</b>: Lavable au lava-vaisselle (sauf le couvercle)
 - <b>Description du produit</b>: Leau au goût de bien-être! La Carafe filtrante BWT filtre leau (suprime le calcaire et le mavais goût de chlore) et enrichit leau en Magnésium: minéral essentiel pour le bon fonctionnement de lorganisme.Leau filtrée BWT est douce et savoureuse. Elle obtient les meilleures notes en termes de goût dans les tests de consommateurs indépendants. La carafe BWT convient à toutes les portes de réfrigérateurs,se remplit sans à avoir à retirer le couvercle, un compteur életronique vous indique quand changer de cartouche.
+- <b> Garantie </b>: 2 an(s)
+- <b>Entretien</b>: Lavable au lava-vaisselle (sauf le couvercle)
 - <b> Accessoires inclus </b>: Cartouche
+- <b> Couleur </b>: Blanche
+- <b>Composition</b>: Sans Bysphenol A et Phtalate
 - <b> Contenu du packaging </b>: 1
 - <b>Utilisation</b>: Carafe à eau filtrante
+- <b>Capacité</b>: 2,7 Litre(s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005OJYFUS{{</world>}}

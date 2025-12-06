@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cadran Sunray rose clair
-- Mouvement multifonction à quartz
 - Bracelet milanais en acier inoxydable avec placage ionique (IP) or rose clair
+- Mouvement multifonction à quartz
 - Diamètre du boîtier 38 mm, Épaisseur du boîtier 8,95mm
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 

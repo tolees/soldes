@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de talon: Bloc, Hauteur de talon: 3.9 cm, Type darbre: mi-mollet, Hauteur darbre: 13 cm
+- Matière supérieure: Synthétique, Matière intérieure: textile, Semelle extérieure: Synthétique, Semelle de recouvrement: semelle intérieure souple
 - Largeur: normale (F 1/2), Closure type: fermeture eclair
 - pas de semelle amovible
 - Type de produit: Bottines,Bottines,bottes,demi-bottes,bottillon,plat
-- Matière supérieure: Synthétique, Matière intérieure: textile, Semelle extérieure: Synthétique, Semelle de recouvrement: semelle intérieure souple
-- Type de talon: Bloc, Hauteur de talon: 3.9 cm, Type darbre: mi-mollet, Hauteur darbre: 13 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07PZXLS2H{{</world>}}

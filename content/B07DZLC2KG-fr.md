@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - avec bon qualité
-- Parfum homme
 - Parfums parfum homme
+- Parfum homme
 - Eau de Parfum homme 50 millilitres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

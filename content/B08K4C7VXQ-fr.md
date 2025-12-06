@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FACILE À UTILISER : Pour hydrater les cheveux secs, appliquez le shampoing micellaire hydratant sur les cheveux mouillés, massez doucement puis rincez abondamment
-- HYDRATATION INTENSE : Infusé de pro vitamine B5, le shampoing équilibrant le cuir chevelu emprisonne lhumidité dans la fibre capillaire avec une rétention deau accrue pour une hydratation ultime
-- SANTÉ DU CUIR CHEVELU : Formulé avec des ingrédients de soins de la peau, ce shampoing hydratant respecte, équilibre et protège le microbiome du cuir chevelu
 - REVLON PROFESSIONAL : En plus du shampoing micellaire hydratant RE/START, découvrez toute la gamme RE/START qui associe des ingrédients de soin de la peau à des solutions capillaires avancées
 - LUTTE CONTRE LES FRISOTTIS : Le shampoing pour cheveux secs adoucit les cheveux, les rend brillants et réduit les frisottis
+- HYDRATATION INTENSE : Infusé de pro vitamine B5, le shampoing équilibrant le cuir chevelu emprisonne lhumidité dans la fibre capillaire avec une rétention deau accrue pour une hydratation ultime
+- FACILE À UTILISER : Pour hydrater les cheveux secs, appliquez le shampoing micellaire hydratant sur les cheveux mouillés, massez doucement puis rincez abondamment
+- SANTÉ DU CUIR CHEVELU : Formulé avec des ingrédients de soins de la peau, ce shampoing hydratant respecte, équilibre et protège le microbiome du cuir chevelu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08K4C7VXQ{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITÉ AUDIO EXCEPTIONNELLE : le double micro antibruit avec technologie Acoustic Fence intégrée dans une perche de microphone flexible bloque les bruits de fond pour que vos interlocuteurs nentendent plus que vous. De plus, le bouton dactivation du mode secret de la perche vous permet de couper rapidement le son du micro, tandis que la fonction dalerte du mode secret dynamique vous indique si le mode secret est activé.
 - CONFORTABLE : micro-casque monaural avec serre-tête rembourré réglable et coussinet en mousse à mémoire de forme, conçu pour vous permettre de réaliser facilement plusieurs tâches tout au long de la journée.
-- COMPOSANTS INCLUS : micro-casque, socle de chargement, adaptateur Bluetooth USB-C BT700, adaptateur USB-C vers USB-A, câble de chargement, housse de transport pour faciliter le rangement et le transport.
 - LONGUE AUTONOMIE DE LA BATTERIE : restez productif grâce aux 24 heures dautonomie en mode conversation sans fil avec une seule charge. Prolongez davantage lautonomie en mode conversation de votre micro-casque Bluetooth en lutilisant comme micro-casque filaire avec le mode audio via câble USB. La charge est simplifiée grâce au socle de chargement de bureau.
-- CONNECTIVITÉ ET MOBILITÉ : connectez-vous sans fil à deux périphériques à la fois et déplacez-vous librement à domicile ou au bureau avec une portée allant jusquà 50 mètres grâce à ladaptateur Bluetooth USB-C BT700 inclus (ou connectez-vous via USB-A avec ladaptateur USB-C vers USB-A inclus), et/ou connectez-vous à un téléphone portable via Bluetooth 5.2.
 - CONÇU POUR LE TRAVAIL HYBRIDE : idéal pour les professionnels qui recherchent une solution abordable leur permettant de rester connectés, à domicile, au bureau ou les deux. Déployez Microsoft Teams instantanément grâce à lexpérience Teams native complète, avec un bouton Teams dédié sur le micro-casque.
+- CONNECTIVITÉ ET MOBILITÉ : connectez-vous sans fil à deux périphériques à la fois et déplacez-vous librement à domicile ou au bureau avec une portée allant jusquà 50 mètres grâce à ladaptateur Bluetooth USB-C BT700 inclus (ou connectez-vous via USB-A avec ladaptateur USB-C vers USB-A inclus), et/ou connectez-vous à un téléphone portable via Bluetooth 5.2.
+- QUALITÉ AUDIO EXCEPTIONNELLE : le double micro antibruit avec technologie Acoustic Fence intégrée dans une perche de microphone flexible bloque les bruits de fond pour que vos interlocuteurs nentendent plus que vous. De plus, le bouton dactivation du mode secret de la perche vous permet de couper rapidement le son du micro, tandis que la fonction dalerte du mode secret dynamique vous indique si le mode secret est activé.
+- COMPOSANTS INCLUS : micro-casque, socle de chargement, adaptateur Bluetooth USB-C BT700, adaptateur USB-C vers USB-A, câble de chargement, housse de transport pour faciliter le rangement et le transport.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6FM91QW{{</world>}}

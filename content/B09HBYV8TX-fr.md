@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- T-shirt cool de Lonsdale
 - Fabriqué à partir du coton le plus pur (ou tissu mélangé)
+- T-shirt cool de Lonsdale
 - Col rond classique
 - Logo en optique craquelée sur la poitrine
 

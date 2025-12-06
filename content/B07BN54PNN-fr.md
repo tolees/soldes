@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style de plateforme
-- Construction vulcanisée
 - Vans Marque Sidestripe
+- Style de plateforme
 - Dessus à double couture pour plus de durabilité
+- Construction vulcanisée
 - Semelle extérieure gaufrée originale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

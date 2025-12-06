@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame en acier inoxydable martensitique : la lame offre un excellent tranchant et une grande résistance à lusure, même soumise à des applications intenses; Lacier inoxydable présente lavantage de ne demander aucun entretien particulier
-- Manche en polymère robuste : les manches des couteaux de cuisine de la collection Essentiels + sont en polymère haut de gamme; Ils résistent parfaitement à leau, aux agents chimiques ainsi quà la chaleur
 - Polyvalence : Le savoir-faire et lexpérience Opinel sinvitent dans votre cuisine et se déclinent sous la forme de ce coffret de 4 pièces comprenant un couteau doffice N°112, un couteau cranté N°113, un couteau pour légumes N°114 et un éplucheur N°119
 - Lame en acier inoxydable martensitique : la lame offre un excellent tranchant et une grande résistance à lusure, même soumise à des applications intenses; Lacier inoxydable présente lavantage de ne demander aucun entretien particulier
+- Manche en polymère robuste : les manches des couteaux de cuisine de la collection Essentiels + sont en polymère haut de gamme; Ils résistent parfaitement à leau, aux agents chimiques ainsi quà la chaleur
 - Polyvalence : Le savoir-faire et lexpérience Opinel sinvitent dans votre cuisine et se déclinent sous la forme de ce coffret de 4 pièces comprenant un couteau doffice N°112, un couteau cranté N°113, un couteau pour légumes N°114 et un éplucheur N°115
+- Lame en acier inoxydable martensitique : la lame offre un excellent tranchant et une grande résistance à lusure, même soumise à des applications intenses; Lacier inoxydable présente lavantage de ne demander aucun entretien particulier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000OF6ST8{{</world>}}

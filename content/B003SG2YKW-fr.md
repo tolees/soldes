@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Couleur</b>: Gris
-- <b>Type dinterface</b>: USB 2.0
 - <b>Capacité</b>: 4 Go
-- <b>Description du produit</b>: MediaRange MR907
 - <b>Vitesse de lecture</b>: 15 Mo/s
+- <b>Type dinterface</b>: USB 2.0
+- <b>Description du produit</b>: MediaRange MR907
+- <b>Couleur</b>: Gris
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003SG2YKW{{</world>}}

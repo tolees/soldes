@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- De Black Mirror, Robert Daly, en vinyle POP stylisé de Funko
-- La figurine mesure 9 cm et est livrée dans une boîte de présentation.
-- Basée au centre-ville dEverett, WA, Funko est lun des principaux créateurs et innovateurs de produits de culture pop sous licence destinés à un large éventail de consommateurs. Funko conçoit, achète et distribue des produits à collectionner dans plusieurs catégories, notamment des figurines en vinyle, des jouets daction, des peluches, des vêtements, des articles ménagers et des accessoires. Notre objectif est de fournir aux consommateurs des moyens concrets de mettre leur fandom hors ligne.
 - Funko POP! est le gagnant du prix Toy of the Year 2018.
+- La figurine mesure 9 cm et est livrée dans une boîte de présentation.
+- De Black Mirror, Robert Daly, en vinyle POP stylisé de Funko
+- Basée au centre-ville dEverett, WA, Funko est lun des principaux créateurs et innovateurs de produits de culture pop sous licence destinés à un large éventail de consommateurs. Funko conçoit, achète et distribue des produits à collectionner dans plusieurs catégories, notamment des figurines en vinyle, des jouets daction, des peluches, des vêtements, des articles ménagers et des accessoires. Notre objectif est de fournir aux consommateurs des moyens concrets de mettre leur fandom hors ligne.
 - Découvrez les autres figurines Black Mirror de Funko Collectionnez-les tous.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

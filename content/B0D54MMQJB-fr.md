@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fit standard
 - Col rond
+- Fit standard
 - Manches courtes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

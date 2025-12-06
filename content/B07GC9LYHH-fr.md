@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure : semelle extérieure en EVA pour un poids léger
-- Couleur : noir
-- Matériau extérieur : cuir (cuir de vache)
 - Doublure :
+- Matériau extérieur : cuir (cuir de vache)
+- Couleur : noir
 - 75 % polyester, 10 % textile (65 % nylon, 35 % polyuréthane), 10 % synthétique (70 % polyuréthane, 30 % polyester), 5 % synthétique
+- Semelle extérieure : semelle extérieure en EVA pour un poids léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GC9LYHH{{</world>}}

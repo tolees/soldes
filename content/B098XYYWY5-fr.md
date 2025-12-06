@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rejoignez vos coéquipiers dans un jeu de coopération et de trahison ! jouez en ligne, de 4 à 15 joueurs en multi-plateformes, sur playstation, xbox, nintendo switch, pc, android ou ios !
 - Boîtier lenticulaire 3D, des stickers, une cartes daccès holographiques mira, carte du skeld, des fonds décran
-- La vie de coéquipier: pour gagner, accomplissez toutes vos tches, mais attention aux imposteurs ! signalez les cadavres et convoquez des réunions durgence pour désigner les imposteurs par un vote
 - Lédition crewmate comprend le jeu de base among us et tous ses dlc: packs de skins airship, polus et mira hq; packs de bestioles hamster, krabouille, poulpe, stickmin et pack mini-coéquipier
 - Jouer un imposteur: semez le chaos, faites-vous discret et faites porter le chapeau à des innocents ! pour gagner, vous devez tuer tous vos coéquipiers. Pensez-vous être un maître du sabotage?
+- La vie de coéquipier: pour gagner, accomplissez toutes vos tches, mais attention aux imposteurs ! signalez les cadavres et convoquez des réunions durgence pour désigner les imposteurs par un vote
+- Rejoignez vos coéquipiers dans un jeu de coopération et de trahison ! jouez en ligne, de 4 à 15 joueurs en multi-plateformes, sur playstation, xbox, nintendo switch, pc, android ou ios !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098XYYWY5{{</world>}}

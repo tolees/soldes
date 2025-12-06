@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Fabriqué dans un mélange 60% nylon 40% polyester
-- produit 2: Fabrication 100% nylon ultra-résistant
 - produit 2: Un large compartiment principal qui peut contenir des stylos
-- produit 1: Compartiment principal avec une poche frontale spacieuse pour toutes vos petites affaires
 - produit 1: Hauteur : 44 cm, Largeur : 29,5 cm, Profondeur : 22 cm
-- produit 1: Panneau avant zippé facile daccès, pouvant contenir un ordinateur jusquà 13,3"
+- produit 2: Fabrication 100% nylon ultra-résistant
+- produit 1: Compartiment principal avec une poche frontale spacieuse pour toutes vos petites affaires
 - produit 2: Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
+- produit 1: Panneau avant zippé facile daccès, pouvant contenir un ordinateur jusquà 13,3"
+- produit 1: Fabriqué dans un mélange 60% nylon 40% polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C81GHBHL{{</world>}}

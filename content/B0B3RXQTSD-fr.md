@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Indicateurs avant et arrière intégrés pour des déplacements en toute sécurité.
-- Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
-- Angle de montée jusquà 18.
 - Autonomie jusquà environ 40 km (24.9 miles).
 - Système de contrôle de la traction anti-dérapage.
 - 2 freins - disque avant et freins arrière électroniques.
 - Vitesse maximale jusquà 25 km/h (15,5 mph).
+- Angle de montée jusquà 18.
+- Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3RXQTSD{{</world>}}

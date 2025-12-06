@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le distributeur de billet souvre
+- Contient 2 personnages, un distributeur de billet et une moto
 - Alerte à toutes les unités, on a du nouveau
 - Accompagnez les policiers dans toutes leurs aventures avec Playmobil
-- Contient 2 personnages, un distributeur de billet et une moto
-- Le distributeur de billet souvre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KTNFZ5B{{</world>}}

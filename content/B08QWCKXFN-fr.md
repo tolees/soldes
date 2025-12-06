@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu PS5 d’horreur et de tir : incarnez Selene sur une planète extraterrestre aussi imprévisible qu’impitoyable et tentez de briser le cycle du chaos qui y règne
-- Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : changez instinctivement de mode de tir et ressentez toutes les actions du jeu, de l’exploration des fragments de souvenirs de Selene à la violence des combats
 - Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail : découvrez la sombre beauté dun monde plein de surprises explosives qui prennent vie autour de vous
 - Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5
+- Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : changez instinctivement de mode de tir et ressentez toutes les actions du jeu, de l’exploration des fragments de souvenirs de Selene à la violence des combats
 - Contenu de la livraison : 1 x Jeu Returnal , Édition Standard, Version physique avec CD, Langue : Français, 1 joueur hors ligne, Jusqu’à 2 joueurs en ligne (PS Plus requis), PEGI 16
+- Jeu PS5 d’horreur et de tir : incarnez Selene sur une planète extraterrestre aussi imprévisible qu’impitoyable et tentez de briser le cycle du chaos qui y règne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QWCKXFN{{</world>}}

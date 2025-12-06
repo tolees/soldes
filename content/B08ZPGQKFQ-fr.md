@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Application : utilisez un grand pinceau et estompez uniformément sur tout le visage pour obtenir une finition bronzée naturelle
 - Tonalité : 001 Medium
-- Effets et bienfaits: terre bronzante longue tenue Effet naturel et lumineux. Finish radieux. Peau naturellement bronzée. Texture ultra-douce
 - Formule : convient à tout type de peau, facile à estomper et à longue tenue
+- Effets et bienfaits: terre bronzante longue tenue Effet naturel et lumineux. Finish radieux. Peau naturellement bronzée. Texture ultra-douce
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08ZPGQKFQ{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage
 - Légères
+- Rembourrage
 - Ingrédients extra durables
 - Bonne prise en main
 

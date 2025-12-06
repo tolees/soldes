@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lexar Disque SSD interne résistant aux chocs et aux vibrations sans pièces mobiles.
-- Interface PCIe Gen3x4 haute vitesse : SSD Lexar 512 Go jusquà 3500 Mo/s en lecture et 2400 Mo/s en écriture - NVMe 1.4 pris en charge.
 - Le disque SSD Lexar obtient 6 fois la vitesse dun SSD basé sur SATA.
-- Le SSD Lexar est idéal pour les passionnés de PC et les joueurs.
+- Lexar Disque SSD interne résistant aux chocs et aux vibrations sans pièces mobiles.
 - Facteur de forme SSD interne Lexar M.2 2280 avec 3D NAND.
+- Le SSD Lexar est idéal pour les passionnés de PC et les joueurs.
+- Interface PCIe Gen3x4 haute vitesse : SSD Lexar 512 Go jusquà 3500 Mo/s en lecture et 2400 Mo/s en écriture - NVMe 1.4 pris en charge.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093CN3P9V{{</world>}}

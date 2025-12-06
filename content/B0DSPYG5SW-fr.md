@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut un code de téléchargement de la bande-son officielle du jeu.
-- Embarquez pour une aventure haletante dans « Into the Pit », lun des opus les plus populaires de la franchise Five Nights at Freddys.
-- Percez des secrets enfouis depuis des décennies et découvrez différentes fins dans une course-poursuite contre des animatroniques qui sèment la terreur à travers le temps.
-- Résolvez des énigmes palpitantes au fil dun récit prenant.
 - Plongez dans une intrigue où vous devrez sauver vos amis, votre famille et surtout votre propre vie.
+- Percez des secrets enfouis depuis des décennies et découvrez différentes fins dans une course-poursuite contre des animatroniques qui sèment la terreur à travers le temps.
+- Embarquez pour une aventure haletante dans « Into the Pit », lun des opus les plus populaires de la franchise Five Nights at Freddys.
+- Résolvez des énigmes palpitantes au fil dun récit prenant.
+- Inclut un code de téléchargement de la bande-son officielle du jeu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSPYG5SW{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Chargeurs sans fil compatibles : Razer Maus-Dock Pro, Razer Ladestation Chroma, autres stations de charge sans fil certifiées Qi
-- produit 1: Molette Razer HyperScroll Pro: Grâce au contrôle tactile, à la résistance et aux paliers réglables, créez des défilements plus fermes et plus distincts pour un changement d’arme précis ou des défilements plus fluides et plus souples avec plusieurs paliers pour répéter facilement des entrées comme le saut.
-- produit 1: Capteur optique 30 K Razer Focus Pro: Le tout nouveau capteur de Razer offre des performances de suivi sans faille sur une plus grande variété de surfaces, y compris le verre, et est pris en charge par des fonctions intelligentes pour améliorer la visée et la commande.
-- produit 1: Razer HyperSpeed Wireless: Grâce à une connexion 25 % plus rapide que les autres technologies sans fil disponibles, profitez d’un jeu compétitif haute performance, à faible latence, qui reste fluide et stable même dans les environnements sans fil bruyants.
 - produit 2: Pour plus dinformations sur les modèles de souris pris en charge, rendez-vous sur support.razer
+- produit 1: Capteur optique 30 K Razer Focus Pro: Le tout nouveau capteur de Razer offre des performances de suivi sans faille sur une plus grande variété de surfaces, y compris le verre, et est pris en charge par des fonctions intelligentes pour améliorer la visée et la commande.
+- produit 1: Molette Razer HyperScroll Pro: Grâce au contrôle tactile, à la résistance et aux paliers réglables, créez des défilements plus fermes et plus distincts pour un changement d’arme précis ou des défilements plus fluides et plus souples avec plusieurs paliers pour répéter facilement des entrées comme le saut.
 - produit 2: Compatible uniquement avec Basilisk V3 Pro, Cobra Pro et Naga V2 Pro
+- produit 2: Chargeurs sans fil compatibles : Razer Maus-Dock Pro, Razer Ladestation Chroma, autres stations de charge sans fil certifiées Qi
+- produit 1: Razer HyperSpeed Wireless: Grâce à une connexion 25 % plus rapide que les autres technologies sans fil disponibles, profitez d’un jeu compétitif haute performance, à faible latence, qui reste fluide et stable même dans les environnements sans fil bruyants.
 - produit 1: Adaptabilité et contrôle absolus: La Razer Naga V2 Pro est équipée d’un ensemble de plaques latérales magnétiques à 12, 6 et 2 boutons pour vous permettre de vous adapter à tous les genres de jeux avec le contrôle de jusqu’à 19+1 boutons programmables et rétroéclairés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

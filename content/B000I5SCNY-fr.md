@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 83% de matériaux recyclés
+- Feutre Sign Pen
 - Grande douceur décriture
 - Encre spéciale de couleur noire, soluble à leau
+- 83% de matériaux recyclés
 - Pointe acrylique fine 2mm
-- Feutre Sign Pen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000I5SCNY{{</world>}}

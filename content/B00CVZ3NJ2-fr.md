@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sa formule mise au point par les dermatologues fortifie
 - Paraît plus jeune, pour plus longtemps
+- Sa formule mise au point par les dermatologues fortifie
 - Hydrate la peau en continu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fond triple sandwich
 - Casserole Chef Luxe
+- Diamètre 24 cm
 - Hauteur : 10 cm
 - Compatible tous feux y compris induction
 - Litrage : 4,25 L
-- Diamètre 24 cm
 - Acier inox 18/10 avec fond triple type "sandwich"
-- Fond triple sandwich
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SM2LHU{{</world>}}

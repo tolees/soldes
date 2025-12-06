@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Trouvez linspiration grâce à des recommandations personnalisées et sauvegardez les morceaux que vous préférez !
 - Rejoignez le World Dance Floor et montrez au monde ce dont vous êtes capable !
 - Les modes Just Dance préférés des joueurs sont de retour cette année ! Just Dance offre des fonctionnalités pour tous les besoins ; laquelle choisirez-vous ?
-- Trouvez linspiration grâce à des recommandations personnalisées et sauvegardez les morceaux que vous préférez !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HFGWMZX{{</world>}}

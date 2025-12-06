@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en Indonésie
-- Tissu doux
-- Logo Nike sur le devant
 - Ajustement régulier
+- Logo Nike sur le devant
+- Tissu doux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HN27M7H{{</world>}}

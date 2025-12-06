@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclus: cuillère doseuse avec presse pour le café. Plateau anti-gouttes démontable pour faciliter le nettoyage.
+- Bras porte-filtres avec double sortie pour préparer un ou 2 cafés à la fois. Réservoir d’eau d’une capacité de 1.5L qui s’extrait facilement. Avec plateau réchauffe-tasses en acier inoxydable.
 - Système d’économie d’énergie avec déconnexion automatique et Stand-by. Témoins lumineux pour chaque fonction.
 - Contrôle digital EasyTouch très intuitif, avec témoins lumineux qui facilitent son utilisation. Mode Auto pour préparer un ou 2 cafés automatiquement et mode manuel. Inclus: buse vapeur orientable avec protection lors de son utilisation, pour faire mousser du lait, produire de l’eau chaude pour des infusions, réchauffer des liquides et préparer des cappuccinos
+- Inclus: cuillère doseuse avec presse pour le café. Plateau anti-gouttes démontable pour faciliter le nettoyage.
 - Machine à café pour Expresso et cappuccino de 850W. Pompe italienne à pression avec technologie ForceAroma de 20 bars qui permet d’obtenir la meilleure crème et un arôme maximal.
-- Bras porte-filtres avec double sortie pour préparer un ou 2 cafés à la fois. Réservoir d’eau d’une capacité de 1.5L qui s’extrait facilement. Avec plateau réchauffe-tasses en acier inoxydable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MHCP7M7{{</world>}}

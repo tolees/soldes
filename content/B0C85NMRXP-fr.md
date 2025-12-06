@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ACCESSOIRES BARISTA INCLUS : Machine à café manuelle, cuillère doseuse avec tasseur, 3 filtres (1 tasse, 2 tasses, dosettes ESE), porte-filtre, support de tasse amovible, nettoyage facile.
 - RÉPARABILITÉ 15 ANS AU JUSTE PRIX : Produit réparable dans notre réseau de 6200 réparateurs dans le monde pour prolonger sa durée de vie.
-- BUSE VAPEUR BARISTA DOUBLE MODE : Créez une mousse de lait onctueuse ou du lait chaud pour des cappuccinos et latte macchiatos dignes d’un café pro, depuis chez vous.
-- INTERFACE FACILE & PORTE FILTRE PRATIQUE : 4 boutons pour un usage facile et fonction arrêt automatique réglable (5/15/30 min), marc de café facile à vider grâce au crochet retenant le filtre
-- CHAUFFE RAPIDE & PRESSION 15 BARS : Le système Thermoblock de KRUPS vous permet dextraire des espressos parfaits en moins dune minute, avec une crema onctueuse.
 - UNE DES MACHINES ESPRESSO MANUELLES LES PLUS COMPACTES DU MARCHÉ (L 14,3 X P 28,5 X H 28,5 CM) : Un design élégant qui s’intègre facilement, même dans les plus petites cuisines.
+- BUSE VAPEUR BARISTA DOUBLE MODE : Créez une mousse de lait onctueuse ou du lait chaud pour des cappuccinos et latte macchiatos dignes d’un café pro, depuis chez vous.
+- CHAUFFE RAPIDE & PRESSION 15 BARS : Le système Thermoblock de KRUPS vous permet dextraire des espressos parfaits en moins dune minute, avec une crema onctueuse.
+- INTERFACE FACILE & PORTE FILTRE PRATIQUE : 4 boutons pour un usage facile et fonction arrêt automatique réglable (5/15/30 min), marc de café facile à vider grâce au crochet retenant le filtre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C85NMRXP{{</world>}}

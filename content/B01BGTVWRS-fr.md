@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ceinture normale
 - Ã‰troit des cuisses à lourlet
-- Hauteur de taille normale
 - Braguette à boutons
+- Hauteur de taille normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01BGTVWRS{{</world>}}

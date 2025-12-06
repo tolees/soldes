@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2
-- 3
 - 1
+- 3
+- 2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0851LXTVC{{</world>}}

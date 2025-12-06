@@ -31,11 +31,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Les pièces en plastique du volant G923 contiennent 53% de plastique post-consommation.
 - Design de course premium: nouveau design d’équipement Logitech G avec matériaux premium: couvre volant en cuir noir cousu à la main et pédales en métal poli; le plaisir de la conduite chez vous
 - Compatibilité jeux de course: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
-- Contrôlez votre jeu: témoin lumineux intégré pour le régime; commandes de jeu intégrées Xbox Series XS, Xbox One ou PC, sélecteur à 24 points et ressort de freinage progressif
-- Compatibilité jeux de course: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
 - Commandes de jeux sur le volant: ajustez la sensibilité du volant, les niveaux de retour de force et la conduite simulée avec le logiciel de jeu Logitech G Hub pour personnaliser les boutons
-- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 - Double embrayage programmable: démarrage avec un double embrayage programmable comme une véritable voiture de course directement à partir de la manette (jeux compatibles uniquement)
+- Compatibilité jeux de course: G923 pour Xbox compatible avec la plupart des jeux de course Xbox Series X|S, Xbox One et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
+- Contrôlez votre jeu: témoin lumineux intégré pour le régime; commandes de jeu intégrées Xbox Series XS, Xbox One ou PC, sélecteur à 24 points et ressort de freinage progressif
+- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W4DG81W{{</world>}}

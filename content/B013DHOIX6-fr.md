@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en : Chine
-- Rouleau de tableau blanc agipa - Dimensions : 1000 x 2000 mm
 - Agipa Weiáwandtafel-Rolle, Mae: 1,000 x 2,000 mm
+- Rouleau de tableau blanc agipa - Dimensions : 1000 x 2000 mm
 - Poids du paquet: 460 grammes
+- Fabriqué en : Chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B013DHOIX6{{</world>}}

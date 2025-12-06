@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cadeau élégant pour les passionnés de photographie – Inclut des détails tels que le viseur, les bandes de couleur, le cadran de compensation, un autocollant « Polaroid Land Camera » et des autocollants « OneStep » et « 1000 »
+- Paquet de film Time-Zero Supercolor SX-70 – Comprend 3 « photos » illustrées de l’inventeur du Polaroid Edwin H. Land, de la LEGO House et de la sœur du fan-concepteur qui a inspiré cette création
+- Instructions étape par étape – Livret illustré avec des interviews du fan-concepteur et des designers LEGO ainsi que des instructions pour guider votre expérience de construction créative
+- Fonctionne comme un vrai appareil photo Polaroid rétro – Insérez lune des « photos » dans lappareil photo et appuyez sur lobturateur rouge pour imprimer la photo
 - Idée de cadeau parfaite pour les passionnés de photographie – Offrez ce set LEGO à un adulte, homme et femme, pour son anniversaire ou toute autre occasion spéciale
 - Set LEGO de collection pour les nostalgiques de la photographie – Recréez lemblématique Appareil Photo Polaroid OneStep SX-70 (21345) avec ce set LEGO destiné aux adultes
-- Paquet de film Time-Zero Supercolor SX-70 – Comprend 3 « photos » illustrées de l’inventeur du Polaroid Edwin H. Land, de la LEGO House et de la sœur du fan-concepteur qui a inspiré cette création
-- Fonctionne comme un vrai appareil photo Polaroid rétro – Insérez lune des « photos » dans lappareil photo et appuyez sur lobturateur rouge pour imprimer la photo
-- Instructions étape par étape – Livret illustré avec des interviews du fan-concepteur et des designers LEGO ainsi que des instructions pour guider votre expérience de construction créative
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFW15WW1{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Affichage de lheure, de la date et de la température
 - Fonction alarme, radio FM et lumière LED
+- Affichage de lheure, de la date et de la température
 - Sur piles 3AAA (non incluses) ou sur connexion secteur (adaptateur non inclus)
 - Produit Pokémon officiel et de grande qualité
 

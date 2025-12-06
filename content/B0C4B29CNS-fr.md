@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sechage rapide
 - Confort de port eleve
+- Sechage rapide
 - Liberte de mouvements absolue
-- Coupe régulière
 - Haute qualite
+- Coupe régulière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4B29CNS{{</world>}}

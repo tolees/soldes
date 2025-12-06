@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en 3 teintes sombres sensuelles pour un look particulièrement séducteur
 - Formule longue tenue, jusqu’à 24 heures
-- Eye-liner liquide feutre précis
 - Couleur intense et durable dès le premier passage
+- Eye-liner liquide feutre précis
+- Disponible en 3 teintes sombres sensuelles pour un look particulièrement séducteur
 - Application super facile grâce à la pointe souple qui glisse en douceur sur les paupières
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

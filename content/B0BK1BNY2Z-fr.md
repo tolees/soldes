@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Formule composée à 85% dingrédients dorigine naturelle
+- "Fond de teint Clean et Vegan
 - Un teint frais, unifié et éclatant
 - Complexe de vitamines C,E et B5
-- Formule composée à 85% dingrédients dorigine naturelle
 - Hydratation 24 Longue tenue jusquà 16h
-- "Fond de teint Clean et Vegan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BK1BNY2Z{{</world>}}

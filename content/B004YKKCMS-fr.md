@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour les photos de voyage, de nature ou danimaux - Mise au point manuelle - Distance de mise au point minimum très faible de 3,5 m environ - Sacoche de transport - Cache dobjectif
-- Compatible Sony NEX-3, NEX-5 - Téléobjectif court T2 - Finitions de qualité, boîtier solide
 - <b>La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
+- Compatible Sony NEX-3, NEX-5 - Téléobjectif court T2 - Finitions de qualité, boîtier solide
 - Contenu de la livraison : objectif Walimex, sacoche de transport, cache dobjectif, notice, adaptateur pour Sony NEX
-- Cet objectif peut être utilisé avec un des adaptateurs que nous proposons pour : Olympus OM, Olympus 4/3, Olympus micro 4/3, Canon AF, Canon FD, Nikon AF/MF, Minolta AF, Minolta MD, Leica R/SL, Pentax, Praktica, Samsung, Sony Alpha, Sigma, C-Mount, M42
 - Lappareil photo nest pas inclus dans la livraison. La distance focale peut être doublée avec un convertisseur 2x T2 (1600 mm)
+- Cet objectif peut être utilisé avec un des adaptateurs que nous proposons pour : Olympus OM, Olympus 4/3, Olympus micro 4/3, Canon AF, Canon FD, Nikon AF/MF, Minolta AF, Minolta MD, Leica R/SL, Pentax, Praktica, Samsung, Sony Alpha, Sigma, C-Mount, M42
 - <b>Ce produit peut ne pas être configuré pour fonctionner en France. La présélection des canaux et la programmation automatique de canaux peuvent ne pas fonctionner.</b>
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

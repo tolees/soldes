@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux poches enveloppe à bouton-pression à lavant
 - Poignets et ourlet côtelés
+- Deux poches enveloppe à bouton-pression à lavant
 - Fermeture Éclair et boutons-pression
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Texte d‘invitation en Français, remplir, distribuer - Voila!
+- Edition Colibri plante plusieurs milliers darbres chaque année pour compenser léquilibre climatique (voir images produits)
 - Carton rigide (260g/m2), en format DIN A6 (14,8 x 10,5 cm)
 - 10 cartes dinvitation pour lanniversaire dun garçon avec une super petite voiture
-- Edition Colibri plante plusieurs milliers darbres chaque année pour compenser léquilibre climatique (voir images produits)
-- Texte d‘invitation en Français, remplir, distribuer - Voila!
 - Impression photo brillante dune illustration peinte avec amour- Le recto de la carte est fini avec un vernis UV
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

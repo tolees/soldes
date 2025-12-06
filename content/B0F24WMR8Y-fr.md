@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mon écurie vous invite à prendre les commandes en tant que propriétaire de votre propre écurie de Formula 1, en mettant l’accent sur la gestion des pilotes et de l’écurie elle-même
+- Vivez un nouveau chapitre palpitant de Point de rupture: Choisissez votre voie dans le troisième chapitre palpitant de Point de rupture, avec des objectifs différents pour chaque pilote à des moments-clés de l’histoire
 - Portez l’héritage de Konnersport au-delà de l’histoire de Point de rupture: Pour la première fois, vous pouvez étendre votre expérience avec Konnersport à d’autres modes de jeu
 - EA SPORTS F1 25 est le jeu vidéo officiel du 2025 FIA Formula One World Championship, LEdition Standard contient le mode Mon écurie remodelé ainsi que le troisième chapitre palpitant de Point de rupture
 - Devenez propriétaire dans Mon écurie 2: Préparez-vous à créer vos propres histoires de F1 dans le mode Mon écurie très apprécié des fans, qui profite de sa plus grosse mise à jour depuis son lancement
-- Mon écurie vous invite à prendre les commandes en tant que propriétaire de votre propre écurie de Formula 1, en mettant l’accent sur la gestion des pilotes et de l’écurie elle-même
-- Vivez un nouveau chapitre palpitant de Point de rupture: Choisissez votre voie dans le troisième chapitre palpitant de Point de rupture, avec des objectifs différents pour chaque pilote à des moments-clés de l’histoire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F24WMR8Y{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spray solaire transparent anti-UV
-- LEau Protectrice protège la peau du soleil tout en lhydratant, grâce à sa texture légère et rafraîchissante
 - Appliquez généreusement et uniformément avant lexposition au soleil; Ne vaporisez pas directement sur le visage
-- Agitez avant emploi pour mélanger les deux phases
+- LEau Protectrice protège la peau du soleil tout en lhydratant, grâce à sa texture légère et rafraîchissante
+- Spray solaire transparent anti-UV
 - Invisible sur la peau; Protection anti-UV et fini satiné
+- Agitez avant emploi pour mélanger les deux phases
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082VVC4SZ{{</world>}}

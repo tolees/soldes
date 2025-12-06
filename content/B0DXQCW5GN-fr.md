@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Servez-vous d’armes puissantes telles que des mitrailleuses, des explosifs et des lance-flammes pour faire flamber vos ennemis.
 - Une interface avancée, basée sur la confiance et la peur, ajoute une profondeur inédite aux interactions : la manière dont vous influencez l’état psychologique de vos coéquipiers déterminera s’ils collaboreront avec vous.
-- De tout nouveaux succès.
 - À travers 20 niveaux à glacer le sang, dirigez votre équipe pour affronter des monstres terrifiants, allant des araignées mutantes qui cavalent à toute vitesse aux marcheurs humanoïdes, en passant par des créatures gigantesques tentaculaires.
 - Profitez d’un éclairage dynamique, de lumières spéculaires, d’ombres et d’une profondeur de champ refaits à neuf qui saccompagnent de modèles, de textures et denvironnements améliorés pour vous immerger profondément dans l’action.
+- De tout nouveaux succès.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXQCW5GN{{</world>}}

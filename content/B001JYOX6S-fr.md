@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Corps transparent fumé, niveau d’encre visible
-- Bille en carbure de tungstène haute résistance
 - Grande capacité d’encre, jusqu’à 1200 m d’écriture
 - Rechargeable
+- Bille en carbure de tungstène haute résistance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001JYOX6S{{</world>}}

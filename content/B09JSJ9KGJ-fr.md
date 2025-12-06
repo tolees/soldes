@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assurancetourix est le barde du village.
-- La boite contient le barde Assurancetourix et Mme Agecanonix, la hutte dAssurancetourix avec son mobilier et le toit amovible
-- Le toit de la hutte peut être retiré.
 - Contient un personnage ainsi que des accessoires.
 - Avec la corde incluse, une figurine peut être attachée à une branche.
+- Le toit de la hutte peut être retiré.
+- Assurancetourix est le barde du village.
+- La boite contient le barde Assurancetourix et Mme Agecanonix, la hutte dAssurancetourix avec son mobilier et le toit amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JSJ9KGJ{{</world>}}

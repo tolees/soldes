@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une machine à café au DESIGN SIMPLE ET EPURE
 - ARRET AUTOMATIQUE après 9 minutes dinutilisation
 - PRECHAUFFAGE RAPIDE en 25 secondes
-- Une machine à café au DESIGN SIMPLE ET EPURE
 - REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - 2 TAILLES DE TASSE, Espresso et Lungo
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comble 1 million de micro cassures en 1 minute*, - 96% de casse des cheveux, 72H dhydratation, de douceur & de souplesse**, renforce les cheveux sensibilisés & cassants.
 - Appliquer le pré shampoing sur cheveux mouillés avant chaque shampoing. Aucun temps de pause nécessaire : masser jusquà obtenir une mousse légère, démêler sans rincer puis appliquer en superposition le shampoing. Pour un protocole anti métal complet, suivre avec le reste de la routine Metal Detox.
 - 1ʳᵉ étape du protocole Metal Detox enrichie en Glicofiller pour les cheveux sensibilisés et cassants. Sa texture gel légère pénètre en profondeur la fibre pour un démêlage instantané. Formule sans sulfate, technologie anti porosité qui empêche labsorption excessive deau contenant du métal.
+- Comble 1 million de micro cassures en 1 minute*, - 96% de casse des cheveux, 72H dhydratation, de douceur & de souplesse**, renforce les cheveux sensibilisés & cassants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVLD2BGK{{</world>}}

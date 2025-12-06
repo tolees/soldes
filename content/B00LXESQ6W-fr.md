@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fiche plate - Gain de place avec anneau souple pour une extraction facile de la prise
-- Câble H05VV-F 3G1mm², Longueur 1,5 M
 - Protection de lenfance
+- Câble H05VV-F 3G1mm², Longueur 1,5 M
 - Bloc 8 prises Françaises + T pour intérieur IP20
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

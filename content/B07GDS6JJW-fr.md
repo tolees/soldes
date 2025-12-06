@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Corps et capuchon laque bleue pour un design raffiné
 - Plume acier gravée, résistante, grande douceur décriture
 - Rechargeable avec les cartouches Waterman courtes ou longues
-- Stylo plume équipé dune cartouche bleue effaçable
 - Linstrument idéal pour lycéens et adultes. Proposé dans un coffret cadeau Waterman
+- Stylo plume équipé dune cartouche bleue effaçable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GDS6JJW{{</world>}}

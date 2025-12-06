@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en maille.
 - Fermeture à lacets.
-- Chaussant large.
 - Semelle intermédiaire en EVA double densité.
+- Chaussant large.
+- Tige en maille.
 - Renfort en TPU au médio-pied.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

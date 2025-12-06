@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Version forgée, pointes trempées
 - Ouverture: 265 mm
+- Version forgée, pointes trempées
 - Poignée en liège ergonomique et antidérapante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

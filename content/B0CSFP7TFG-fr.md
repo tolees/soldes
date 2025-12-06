@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé; Lavage et séchage en machine
 - ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches au niveau de la ceinture séduit par ses lignes épurées; Idéal pour l’hiver grâce à sa matière douillette
+- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé; Lavage et séchage en machine
 - STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent
 - EN TOUTE OCCASION : ce modèle léger et fonctionnel a tout pour s’accorder aux tendances du moment; Le branding Tommy Jeans discret attire tous les regards
 - EXCELLENT CONFORT : avec sa capuche, ce modèle léger et indémodable aux lignes épurées tient bien au chaud

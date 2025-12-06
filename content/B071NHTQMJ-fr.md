@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poids Environ 83 g (3,0 oz)
 - Dimensions 38,7 x 22,7 x 51,7 mm (1 916 x 2932 x 2 18 pouces)
-- Capacité 7,2 V 16,4 Wh (2 280 mAh)
 - Sony Bloc-batterie rechargeable NP-FZ100 série Z
+- Capacité 7,2 V 16,4 Wh (2 280 mAh)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071NHTQMJ{{</world>}}

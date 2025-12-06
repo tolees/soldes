@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Brosse plastique double position
-- Produit de haute qualité
 - Bourjois
 - Mascara avec brosse 2-en-1 transformable : - 2 actions: volume et longueur
+- Produit de haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09MJJG74L{{</world>}}

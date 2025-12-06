@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque Etui comporte 12 mines
+- Lot de 12 Etuis de mines Hi-Polymer
 - Mines 0,7mm bleues HB
 - Mines solides
-- Lot de 12 Etuis de mines Hi-Polymer
+- Chaque Etui comporte 12 mines
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00D42RGK8{{</world>}}

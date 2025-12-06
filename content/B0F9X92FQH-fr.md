@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Modes de rasage : le rasoir Series 5 de Braun dispose de 2 modes de rasage; turbo pour un rasage extra rapide et Standard pour un équilibre optimal entre rapidité et douceur
-- Lames flexibles : 3 lames flexibles sadaptent confortablement aux contours de votre visage
 - Fabriqué en Allemagne et conçu pour durer des années : le rasoir est 100% étanche pour une utilisation sur peau sèche ou mouillée; une batterie Li-Ion offrant jusquà 50 minutes dautonomie et une charge rapide de 5 minutes pour un rasage
+- Lames flexibles : 3 lames flexibles sadaptent confortablement aux contours de votre visage
+- Modes de rasage : le rasoir Series 5 de Braun dispose de 2 modes de rasage; turbo pour un rasage extra rapide et Standard pour un équilibre optimal entre rapidité et douceur
 - Rasage facile et rapide : le rasoir électrique Series 5 de Braun offre un rasage facile et rapide qui est doux pour la peau
 - Kit de rasage complet : élevez votre routine de rasage au niveau supérieur avec laccessoire tondeuse de précision, pour un rasage et un style polyvalents
 

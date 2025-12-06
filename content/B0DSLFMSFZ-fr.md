@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceinture élastiquée
 - Matériau en molleton doux
 - Coupe décontractée
+- Ceinture élastiquée
 - Poches arrière avec fermeture à bouton-pression pour un rangement sécurisé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

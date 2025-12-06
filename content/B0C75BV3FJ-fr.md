@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PU upper
 - Mesh textile lining
+- PU upper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C75BV3FJ{{</world>}}

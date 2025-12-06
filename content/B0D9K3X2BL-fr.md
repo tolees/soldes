@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des personnes qui plantent notre thé à celles qui lemballent, toutes les personnes impliquées ont à cœur de créer de délicieux thés biologiques que vous pourrez déguster chez vous
-- Boîte en carton imprimée à l’encre végétale, sachets en papier naturel sans colle ni agrafe.
-- Un assortiment de thé en format découverte, idéal pour les amateurs de thé ou à offrir pour faire plaisir à coup sûr.
 - Une sélection hivernale : thé noir fruits d’hiver, thé vert menthe, thé chaï rouge, infusion boost des vacances.
+- Un assortiment de thé en format découverte, idéal pour les amateurs de thé ou à offrir pour faire plaisir à coup sûr.
+- Boîte en carton imprimée à l’encre végétale, sachets en papier naturel sans colle ni agrafe.
+- Des personnes qui plantent notre thé à celles qui lemballent, toutes les personnes impliquées ont à cœur de créer de délicieux thés biologiques que vous pourrez déguster chez vous
 - Assortiment de 4 thés et 1 infusion bio aux saveurs chaleureuses et épicées pour savourer l’hiver avec douceur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Large gamme de fonctionnalités
 - Écran LCD PLS de 16,7 cm (6,6 pouces) avec 1080 x 2408 pixels
 - Design ergonomique
+- Large gamme de fonctionnalités
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BVL1516P{{</world>}}

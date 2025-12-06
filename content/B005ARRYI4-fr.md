@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 14.4099999853018 pouces
-- Respirantes et respirantes
 - Cuir : daim
+- 14.4099999853018 pouces
 - Fermeture : caoutchouc
+- Respirantes et respirantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005ARRYI4{{</world>}}

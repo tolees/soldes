@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultats : Les cheveux sont 2x plus brillants*, +88% plus doux** pour une transformation qui dure jusquà 10 shampooings***
-- Application : Commencer par appliquer le Shampooing Sans sulfates **** puis le Démêlant Gloss, Continuer avec le Soin Lamination 5 minutes, létape indispensable du protocole, Laisser poser 5 minutes puis rincer.
 - Complexe Gloss à lAcide Glycolique qui restaure la fibre de lintérieur et scelle la brillance, Shampooing Sans Sulfates, *Test instrumental après application du shampooing, du démêlant et du soin lamination
 - Contenu : 1x Routine capillaire Complète 3 produits Elseve Glycolic Gloss de LOréal Paris, Inclus : 1x Shampooing Sans Sulfates (200 ml), 1x Démêlant Gloss (150 ml), 1x Soin Lamination (200 ml)
+- Résultats : Les cheveux sont 2x plus brillants*, +88% plus doux** pour une transformation qui dure jusquà 10 shampooings***
 - Protocole capillaire complet composé dun shampooing Sans Sulfates, dun démêlant Gloss et dun soin lamination 5 minutes, Notre 1er Soin Gloss à faire chez soi, enrichi en Acide Glycolique, restaure la fibre de lintérieur pour améliorer la qualité du cheveu et lenrober de brillance
+- Application : Commencer par appliquer le Shampooing Sans sulfates **** puis le Démêlant Gloss, Continuer avec le Soin Lamination 5 minutes, létape indispensable du protocole, Laisser poser 5 minutes puis rincer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQLLV1NF{{</world>}}

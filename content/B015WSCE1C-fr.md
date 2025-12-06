@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pigments encapsulés combinés à des huiles évanescentes non-grasses qui fixent les pigments sur la peau
-- Adapté à tous les types de peau, y compris aux peaux mixtes
 - La texture aussi légère que lair donne la sensation de ne rien porter, tout en laissant la peau respirer
-- Enrichi en extraits de zinc et en billes de silices, qui absorbent lexcès de sébum
 - Une couvrance intense au fini mat indétectable et naturel, offrant une tenue jusquà 24 heures
+- Enrichi en extraits de zinc et en billes de silices, qui absorbent lexcès de sébum
+- Adapté à tous les types de peau, y compris aux peaux mixtes
+- Pigments encapsulés combinés à des huiles évanescentes non-grasses qui fixent les pigments sur la peau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B015WSCE1C{{</world>}}

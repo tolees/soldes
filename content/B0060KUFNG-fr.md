@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Existe en plusieurs dimensions
+- Préparation universelle
 - Pour couleurs à lhuile, acryliques, vinyliques, gouache -> multi-technique
 - Existe en format figure et paysage
-- Préparation universelle
 - Prêt à lemploi
-- Existe en plusieurs dimensions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0060KUFNG{{</world>}}

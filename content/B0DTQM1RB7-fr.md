@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA FIERTÉ DE CRÉER : Après avoir confectionné de belles barrettes à cheveux de ses propres mains, votre enfant pourra admirer ses créations et sen servir avec fierté ou les offrir à maman. Un atelier créatif idéal pour développer sa confiance en soi !
 - LES ATELIERS BIJOUX : Ce coffret créatif appartient à une collection développée en collaboration avec les éditions Hachette, reconnues pour leur savoir-faire en loisirs créatifs pour enfants et sachant sadapter aux besoins et aux attentes de chaque âge.
+- LA FIERTÉ DE CRÉER : Après avoir confectionné de belles barrettes à cheveux de ses propres mains, votre enfant pourra admirer ses créations et sen servir avec fierté ou les offrir à maman. Un atelier créatif idéal pour développer sa confiance en soi !
 - MES BIJOUX ANIMAUX : Ce kit créatif permet de créer 6 barrettes. Assemble les éléments en feutrine et tissu autocollant en suivant le livret pour obtenir dadorables compagnons de la forêt (renarde,chouette,hérisson,ours,raton laveur,écureil) sans colle.
-- CONTENU: 6 supports de 6 barrettes de 5 cm environ, 3 planches de feutrine prédécoupée et autocollante, 2 planches de matière pailletée prédécoupée et autocollante, 4 pompons, des pastilles autocollantes double-face et 1 livret avec les instructions et les modèles.
 - APPORTS ÉDUCATIFS : Cette activité manuelle pour enfants de 5 à 10 ans leur permet de développer leur motricité fine et leur patience et déveiller leur fibre artistique. La fabrication de bijoux favorise aussi lapaisement. Lactivité dure environ 45min.
+- CONTENU: 6 supports de 6 barrettes de 5 cm environ, 3 planches de feutrine prédécoupée et autocollante, 2 planches de matière pailletée prédécoupée et autocollante, 4 pompons, des pastilles autocollantes double-face et 1 livret avec les instructions et les modèles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTQM1RB7{{</world>}}

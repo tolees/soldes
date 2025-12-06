@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HDR 10 : Contraste, couleurs et détails améliorés. Lamélioration de la luminosité et du contraste peut grandement améliorer le divertissement grâce à un contenu nuancé.
 - 4K HDR : Contraste, couleurs et détails améliorés. La dernière norme en matière de contenu 4K UHD est la plage dynamique élevée. Il élargit considérablement le contraste et la gamme de couleurs. Le HDR reproduit avec précision les nuances claires et sombres avec des couleurs précises et des détails dimage éblouissants.
+- HDR 10 : Contraste, couleurs et détails améliorés. Lamélioration de la luminosité et du contraste peut grandement améliorer le divertissement grâce à un contenu nuancé.
 - Couleurs dynamiques : Amélioration dynamique des couleurs. Amélioration riche des couleurs grâce à la qualité dimage HDR
 
 [🛒 Achète-le!!]({{< param buyurl >}})

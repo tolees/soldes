@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bras libre Oui.Puissance 85 watts
-- Longueur du point Oui
-- Type denfilage Simplifié
 - Plan de travail éclairé Oui
-- Nombre de points 18.Livré avec Boîte à couture
-- Tension du fil Oui
+- Longueur du point Oui
 - Nombre de programmes de points 10
 - Porte -canette métallique Oui
+- Type denfilage Simplifié
+- Nombre de points 18.Livré avec Boîte à couture
+- Bras libre Oui.Puissance 85 watts
+- Tension du fil Oui
 - Griffe dentrainement à 6 têtes Oui
 - Boutonnière Automatique 4 étapes.Fonctions spécifiques.Rhéostat électronique
 

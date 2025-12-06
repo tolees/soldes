@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La figurine Pat Patrouille s’illumine au rythme de la musique !
+- Fonctionne avec une batterie rechargeable - Câble USB Type C inclus.
 - Une enceinte Bluetooth au design amusant Pat Patrouille !
 - Compatible avec tous les appareils équipés de la fonction Bluetooth 5.0
 - Légère, design et facilement tranportable !
-- Fonctionne avec une batterie rechargeable - Câble USB Type C inclus.
+- La figurine Pat Patrouille s’illumine au rythme de la musique !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SKT1G1P{{</world>}}

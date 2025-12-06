@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le PREMIER jeu Jujutsu Kaisen sur console ! – Jouez en mode histoire ou affrontez vos amis en ligne pour leur montrer qui est le meilleur exorciste !
 - Un jeu daction en 3D ! – Un jeu de combat en arène aux animations explosives qui donnent vie aux personnages !
 - Gagnez en puissance en combattant ! – Plus vous combattez, plus le niveau de puissance des personnages augmente et leurs attaques se renforcent au fil du temps.
+- Le PREMIER jeu Jujutsu Kaisen sur console ! – Jouez en mode histoire ou affrontez vos amis en ligne pour leur montrer qui est le meilleur exorciste !
 - Constituez une équipe capable d’asséner de puissantes attaques grâce aux combos d’équipe. Chaque combinaison de personnages peut donner des résultats et des dynamiques de puissance différents.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

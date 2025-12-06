@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Inclus dans la livraison : 8 forets HEX-9 MultiConstruction Ø 3/4/5/5/6/6/8/8 mm pour béton, pierre, brique, carrelage, tôle, bois et plastique, 20 embouts de vissage Impact Control longueur 25 mm (6 à tête fendue PH 1/2/2/2/2/3, 3 Pozidriv PZ 2/2/3, 8 Torx T 15/20/20/25/25/30/30/40), 6 embouts de vissage Impact Control longueur 50 mm (1 à tête fendue PH 2, 1 Pozidriv PZ 2, 4 Torx T 15/20/25/30), 1 porte-embout universel magnétique avec fonction de changement rapide Quick Change
 - Les embouts de vissage extrêmement robustes avec une zone de torsion spéciale sont idéaux pour une utilisation continue
-- Assortiment Professional 35 pces. Kit de forets MultiConstruction et d’embouts de vissage Impact Control de Bosch - avec système Pick and Click : Les ensembles dembouts senclenchent solidement dans les emplacements et il vous suffit dappuyer sur la languette de déverrouillage pour retirer et changer les embouts
 - Convient aux perceuses et perceuses-visseuses à percussion de toutes les marques
 - Percer avec précision est un jeu denfant avec Centering Geometry Bosch brevetée dans plusieurs matériaux ; peut être utilisé en mode impact sur le béton et la pierre, et en mode rotatif pour la brique, la tuile, la tôle, le bois et le plastique
+- Assortiment Professional 35 pces. Kit de forets MultiConstruction et d’embouts de vissage Impact Control de Bosch - avec système Pick and Click : Les ensembles dembouts senclenchent solidement dans les emplacements et il vous suffit dappuyer sur la languette de déverrouillage pour retirer et changer les embouts
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MYFFK9G{{</world>}}

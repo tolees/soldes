@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel de haute qualité
 - Survêtement en maille de polyester Nike Club pour homme
+- Matériel de haute qualité
 - Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

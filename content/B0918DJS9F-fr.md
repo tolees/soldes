@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vaporiser sur cheveux lavés et essorés. Coiffer. Ne pas rincer.
-- Elle apporte du corps et un effet volumisant dès la racine aux cheveux fins et plats.
 - La brume texturisante Volumetry de qualité professionnelle décolle les racines des cheveux fins à tendance grasse sans laisser de résidu pour quils paraissent volumineux et denses. Lassociation dIntra-Cylane et dHydralight redonne du volume aux cheveux depuis la racine.
+- Elle apporte du corps et un effet volumisant dès la racine aux cheveux fins et plats.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0918DJS9F{{</world>}}

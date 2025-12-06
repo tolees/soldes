@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de haute qualité
-- Pandora
 - argenté
 - Durable
+- Pandora
+- Produit de haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BFHS93S{{</world>}}

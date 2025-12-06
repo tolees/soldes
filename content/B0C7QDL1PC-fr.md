@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une aventure épique par les créateurs de Skyrim et Fallout 4.
-- Explorez plus de 1 000 planètes. Découvrez des villes en pleine effervescence et sillonnez des paysages inexplorés. Créez des avant-postes et engagez une équipe pour soccuper de lextraction de matériaux dont vous aurez besoin pour fabriquer médicaments, nourriture, équipements, armes et bien plus encore.
-- Racontez votre histoire. Commencez votre aventure en personnalisant votre apparence et en choisissant vos antécédents et vos traits. Serez-vous un explorateur expérimenté, un charmant diplomate, ou encore un hacker furtif ?
 - Pilotez le vaisseau de vos rêves. Personnalisez lapparence de votre vaisseau, apportez des modifications aux systèmes cruciaux comme les armes et les boucliers et recrutez des membres déquipage pour profiter de bonus uniques.
 - Préparez-vous au combat. Les environnements en apesanteur rendent les combats spectaculaires, et les jet-packs donnent aux joueurs une liberté de mouvement sans précédent.
+- Une aventure épique par les créateurs de Skyrim et Fallout 4.
+- Racontez votre histoire. Commencez votre aventure en personnalisant votre apparence et en choisissant vos antécédents et vos traits. Serez-vous un explorateur expérimenté, un charmant diplomate, ou encore un hacker furtif ?
+- Explorez plus de 1 000 planètes. Découvrez des villes en pleine effervescence et sillonnez des paysages inexplorés. Créez des avant-postes et engagez une équipe pour soccuper de lextraction de matériaux dont vous aurez besoin pour fabriquer médicaments, nourriture, équipements, armes et bien plus encore.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7QDL1PC{{</world>}}

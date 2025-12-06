@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend 2 moteurs moyens 8883, 1 moteur en L 88003
 - Dynamisez vos créations techniques avec cet ensemble de moteurs Power Functions !
 - Le kit de moteur fonctionne avec toutes les fonctions dalimentation compatibles avec les jouets de construction MainBrands pour la construction créative
+- Comprend 2 moteurs moyens 8883, 1 moteur en L 88003
 - Comprend un boîtier à piles AA 8881, un câble lumineux avec 2 LED lumineuses 8870, un câble dextension 8886, un interrupteur de commande 8869, un récepteur infrarouge 8884, une télécommande infrarouge 8879.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

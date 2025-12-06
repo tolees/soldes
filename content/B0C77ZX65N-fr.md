@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en mousse EVA
-- Bout perforé
-- Fermeture à lacets sur le devant avec œillet en TPU contrasté
 - Col de cheville rembourré
+- Fermeture à lacets sur le devant avec œillet en TPU contrasté
+- Bout perforé
 - Logo au talon, sur la languette et sur le côté
+- Semelle intermédiaire en mousse EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C77ZX65N{{</world>}}

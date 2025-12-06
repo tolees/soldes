@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Grand écran lcd avec écran numérique 3 ¾
+- avec protection anti-courant intégrée
 - 4 cbles de mesure pour le courant avec embouts dessaibornes crocodiles interrupteur rotatif central
 - Ks tools fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-uvre du btiment
-- avec protection anti-courant intégrée
 - Compteur spécialement développé pour les ateliers automobiles
-- Grand écran lcd avec écran numérique 3 ¾
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007XUFRP8{{</world>}}

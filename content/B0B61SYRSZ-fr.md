@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants placent la voiture Hot Wheels incluse dans le poste de police, puis appuient sur le lanceur pour la propulser à travers un énorme looping et vaincre le dinosaure.
 - Lancez la voiture incluse à travers la gueule d’un énorme T-Rex qui menace la ville Hot Wheels. Il n’y a pas une minute à perdre pour assommer le prédateur et sauver la ville !
+- Les enfants placent la voiture Hot Wheels incluse dans le poste de police, puis appuient sur le lanceur pour la propulser à travers un énorme looping et vaincre le dinosaure.
 - Le coffret contient 1 voiture Hot Wheels à l’échelle 1/64 et plaira à coup sûr aux enfants à partir de 4 ans.
-- Dès que le T-Rex est KO, ses yeux jaunes en colère se transforment en croix.
 - La base du coffret inclut des détails en lien avec le poste de police pour inspirer les enfants et se connecte à d’autres coffrets pour construire une ville à la hauteur de leur imagination. (Autres coffrets vendus séparément.)​
+- Dès que le T-Rex est KO, ses yeux jaunes en colère se transforment en croix.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B61SYRSZ{{</world>}}

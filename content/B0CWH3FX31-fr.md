@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 minifigurines LEGO Star Wars – Dark Jar Jar Binks, le chasseur de primes C-3PO, Dark Dev, Dark Rey, Luke en mode plage et Jedi Vador, ainsi que des accessoires tels que des sabres laser et une brique de lait bleu pour un jeu de rôle passionnant
-- Des jouets de construction collector LEGO pour tous les âges – Les sets LEGO Star Wars permettent aux enfants et aux adultes fans de Star Wars de recréer des scènes culte, d’imaginer des histoires épiques et d’exposer des maquettes dexception
+- Idée de cadeau amusante pour garçon ou fille de 10 ans et plus – Offrez ce vaisseau en briques LEGO pour lanniversaire dun enfant ou d’un fan de Star Wars qui aime les constructions LEGO et les objets collector
 - Ce vaisseau Star Wars fait partie de la collection LEGO Star Wars : Reconstruire la Galaxie – Découvrez les sets 75388 Le chasseur stellaire de Jedi Bob et 75393 TIE Fighter et X-Wing à combiner pour jouer à plusieurs, vendus séparément
 - Accès facile – Relevez les panneaux supérieurs pour jouer avec l’intérieur détaillé, qui inclut le trône de Dark Jar Jar Binks amovible, le centre de commandes, l’hyperdrive, des lits superposés, une salle de divertissement et une cellule de prison
 - Véhicule LEGO Star Wars à construire pour enfants dès 10 ans – Construisez Le Faucon Noir, une version sombre du Faucon Millenium, inspirée de la série spéciale Disney+ Reconstruire la Galaxie, pour transformer l’univers Star Wars avec des briques LEGO
-- Idée de cadeau amusante pour garçon ou fille de 10 ans et plus – Offrez ce vaisseau en briques LEGO pour lanniversaire dun enfant ou d’un fan de Star Wars qui aime les constructions LEGO et les objets collector
+- 6 minifigurines LEGO Star Wars – Dark Jar Jar Binks, le chasseur de primes C-3PO, Dark Dev, Dark Rey, Luke en mode plage et Jedi Vador, ainsi que des accessoires tels que des sabres laser et une brique de lait bleu pour un jeu de rôle passionnant
+- Des jouets de construction collector LEGO pour tous les âges – Les sets LEGO Star Wars permettent aux enfants et aux adultes fans de Star Wars de recréer des scènes culte, d’imaginer des histoires épiques et d’exposer des maquettes dexception
 - Le Faucon Noir en briques LEGO – Ce jouet Star Wars contient des détails surprenants, il comprend un cockpit amovible pour 2 minifigurines LEGO, 2 fusils à ressort, 2 canons rotatifs, un poste de tireur pour 2 minifigurines LEGO et une antenne radar
 
 [🛒 Achète-le!!]({{< param buyurl >}})

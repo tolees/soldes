@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleurs : Structure : grise anthracite - Plateaux : noir
 - À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
-- Matières : Structure : acier - Plateaux : métal
 - Dimensions : Desserte : L 90 × l 65 × H 80cm - Surface de travail : L 80 × l 55cm
+- Couleurs : Structure : grise anthracite - Plateaux : noir
+- Matières : Structure : acier - Plateaux : métal
 - Envie dun meuble dappoint et dun plan de travail ? La desserte MEDIA répond à tous vos besoins !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

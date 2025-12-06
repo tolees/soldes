@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectez votre iPhone, iPad ou iPod doté d’un connecteur Lightning à un Mac équipé d’un port USB‑C ou Thunderbolt 3 (USB‑C) pour la synchronisation et la charge, ou à un iPad équipé d’un port USB‑C pour la charge.
 - Vous pouvez aussi utiliser ce câble avec votre Adaptateur secteur Apple USB‑C 18 W, 20 W, 29 W, 30 W, 61 W, 87 W ou 96 W pour recharger votre appareil iOS et même profiter des capacités de charge rapide de certains modèles d’iPhone et d’iPad.
+- Connectez votre iPhone, iPad ou iPod doté d’un connecteur Lightning à un Mac équipé d’un port USB‑C ou Thunderbolt 3 (USB‑C) pour la synchronisation et la charge, ou à un iPad équipé d’un port USB‑C pour la charge.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7MPZD9F{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
-- Semelle extérieure/caractéristiques : EVA pour un poids léger
-- Coutures à 360° pour plus de durabilité
-- Semelle intérieure : semelle intérieure amovible avec système damortissement
 - Dessus : cuir de veau
+- Semelle intérieure : semelle intérieure amovible avec système damortissement
+- Semelle extérieure/caractéristiques : EVA pour un poids léger
+- Couleur : noir
+- Coutures à 360° pour plus de durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P6MBW2V{{</world>}}

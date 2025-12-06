@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Extérieur 100 % laine mérinos
+- LIFA MERINO
 - Items delivered: 1x Helly Hansen Mens Lifa Merino Midweight Pant - Basleayer Pant NAVY M
 - Construction double couche
-- LIFA MERINO
 - Coutures plates pour un confort et une résistance exceptionnels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

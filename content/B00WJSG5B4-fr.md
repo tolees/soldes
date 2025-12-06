@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Adapté au lave-vaisselle, au four à micro-ondes et au four traditionnel jusquà 200 °C, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
+- Ensemble à expresso moderne avec tasse et sous-tasse pour servir le café avec élégance
 - Sous tasse avec espace pratique pour biscuit, lait et sucre, Tasse avec petite anse pour une bonne prise en main, Combinaison idéale avec le reste de la collection For Me
 - Contenu : 1x Villeroy & Boch For Me Ensemble à expresso 4 pièces, Matière : Porcelaine Premium, Couleur : Blanc
-- Ensemble à expresso moderne avec tasse et sous-tasse pour servir le café avec élégance
-- Adapté au lave-vaisselle, au four à micro-ondes et au four traditionnel jusquà 200 °C, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
 - Convient aussi pour la restauration grâce à la forme ergonomique, Bord particulièrement résistant aux chocs, Combinaison idéale avec le reste de la collection For Me
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

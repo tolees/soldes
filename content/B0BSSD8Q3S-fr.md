@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction pratique
 - Haute qualité
+- Fonction pratique
 - Design exotique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

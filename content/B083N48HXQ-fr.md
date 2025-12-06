@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le casque parfait pour le quotidien : casque de ville avec coque dure en ABS et filet anti-mouches - ajustement individuel grâce au système de réglage Zoom Ace Urban
 - Un style à part : le casque léger à coque dure est à la fois une protection pour la tête et un accessoire.
+- Le casque parfait pour le quotidien : casque de ville avec coque dure en ABS et filet anti-mouches - ajustement individuel grâce au système de réglage Zoom Ace Urban
 - Système de ventilation finement ajusté : ventilation idéale grâce à 5 entrées dair et 8 sorties dair
 - Toujours bien visible sur le vélo : équipé dun feu arrière à LED placé en hauteur avec une visibilité de 180° + réflecteurs puissants
 - Détails techniques : casque unisexe pour adultes, poids 480 g, couleur Velvet Black, taille XL = tour de tête 58-63 cm

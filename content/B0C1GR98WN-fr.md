@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 【MESURE INTÉGRÉE DE PUISSANCE】TONGOU SY2 affiche la ​​consommation en temps réel​​, la ​​tension​​ et la ​​consommation électrique cumulée​​ de chaque appareil, identifiant avec précision les dispositifs à forte consommation. Il génère des ​​rapports détaillés de consommation​​ (par heure/jour/mois) et permet de définir des ​​seuils de consommation​​ : des alertes automatiques sont envoyées si les limites sont dépassées.
+- 【FONCTIONNALITÉS DE SÉCURITÉ ÉTENDUES】​​Protection contre les surcharges，Protection contre les surtensions，Protection contre la surchauffe​，Certification de sécurité UE​：Validée pour le ​domaine AC1​ (charges résistives: éclairage LED, moteurs asynchrones), ​charge permanente recommandée : 1000W​
 - 【1P+N Contrôleur Intelligent】Prend en charge jusquà 63A sous 240V AC avec mesure dénergie，Montage sur rail DIN 35 mm, noccupe quun module (18 mm)
-- 【AUTOMATISATION ET TÉLÉCOMMANDE POUR TOUS LES APPAREILS ÉLECTRIQUES】​​Permet lautomatisation des appareils ménagers (ex. machine à café, four), des circuits (éclairage/climatisation) et des équipements de bureau (imprimante/moniteur) via des scénarios prédéfinis (ex. arrêt automatique à 17：00).Contrôle à distance global via ​​APP TUYA​​ ou assistants vocaux (Alexa/Google assistant) ​​sans hub supplémentaire​​.
 - ✔ ​​Un guide dutilisation multilingue (français, anglais, allemand, italien, espagnol) est inclus pour une utilisation simple et accessible, avec 24 mois de garantie pour une utilisation sans souci.​
 - 【CONTRÔLE PAR APPLICATION ET VOCAL + SCÈNES INTELLIGENTES】Prise en charge intégrée des TUYA APP. Gestion des groupes dappareils, programmations et scènes dautomatisation.Commande vocale via ​Alexa/Google assistant (exemple : "Alexa, éteins les appareils électroménagers de la cuisine").
-- 【FONCTIONNALITÉS DE SÉCURITÉ ÉTENDUES】​​Protection contre les surcharges，Protection contre les surtensions，Protection contre la surchauffe​，Certification de sécurité UE​：Validée pour le ​domaine AC1​ (charges résistives: éclairage LED, moteurs asynchrones), ​charge permanente recommandée : 1000W​
-- 【MESURE INTÉGRÉE DE PUISSANCE】TONGOU SY2 affiche la ​​consommation en temps réel​​, la ​​tension​​ et la ​​consommation électrique cumulée​​ de chaque appareil, identifiant avec précision les dispositifs à forte consommation. Il génère des ​​rapports détaillés de consommation​​ (par heure/jour/mois) et permet de définir des ​​seuils de consommation​​ : des alertes automatiques sont envoyées si les limites sont dépassées.
+- 【AUTOMATISATION ET TÉLÉCOMMANDE POUR TOUS LES APPAREILS ÉLECTRIQUES】​​Permet lautomatisation des appareils ménagers (ex. machine à café, four), des circuits (éclairage/climatisation) et des équipements de bureau (imprimante/moniteur) via des scénarios prédéfinis (ex. arrêt automatique à 17：00).Contrôle à distance global via ​​APP TUYA​​ ou assistants vocaux (Alexa/Google assistant) ​​sans hub supplémentaire​​.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C1GR98WN{{</world>}}

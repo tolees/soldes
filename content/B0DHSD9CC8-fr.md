@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une référence du jeu de gestion fait son retour avec Two Point Museum, où vous pourrez gérer des musées incroyables !
-- LExplorer Edition offre une sélection dobjets de décoration pour embellir vos salles, vos murs et vos sols avec des designs sur mesure et des statues venant des quatre coins du monde !
 - Partez en exploration et découvrez des reliques pour créer des expositions inoubliables !
+- LExplorer Edition offre une sélection dobjets de décoration pour embellir vos salles, vos murs et vos sols avec des designs sur mesure et des statues venant des quatre coins du monde !
+- Une référence du jeu de gestion fait son retour avec Two Point Museum, où vous pourrez gérer des musées incroyables !
 - Ce n’est pas tout ! En précommandant le jeu, vous obtiendrez tout un tas d’objets en jeu sur le thème de Sonic.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

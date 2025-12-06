@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets et fermeture éclair
 - Chaussures faciles à enfiler
 - Semelle intérieure amovible
+- Lacets et fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPQ8D5GC{{</world>}}

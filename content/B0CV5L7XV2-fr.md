@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Achetez l’édition physique standard de Warhammer 40,000: Space Marine 2 et recevez le DLC « Macragge’s Chosen ».
 - Incarnez Titus, le Space Marine légendaire et purgez les nuées infatigables de Tyranides dans une campagne spectaculaire. Jouez en solo ou avec des amis grâce à un mode coopératif à 2 ou 3 joueurs.
 - Profitez de combats intenses, sanglants et nerveux à la troisième personne contre des centaines d’ennemis à la fois, conçus par les créateurs du célèbre jeu de tir coopératif, « World War Z ».
-- Achetez l’édition physique standard de Warhammer 40,000: Space Marine 2 et recevez le DLC « Macragge’s Chosen ».
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV5L7XV2{{</world>}}

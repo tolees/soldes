@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires : peigne, ciseaux, cape de coiffeur, brosse pour le cou, flacon dhuile, mallette de rangement en aluminium professionnel
 - Hauteurs spéciales coupes courtes pré-réglées (0,8 - 2 mm) - 10 guides de coupe (3 - 40 mm)
 - Moteur Pro puissant - 40min dautonomie pour 1h30 de charge - 10 LED de charge - Socle de charge - Utilisation avec ou sans fil
 - Poignée ergonomique antidérapante : Pour plus de maîtrise et de confort
+- Accessoires : peigne, ciseaux, cape de coiffeur, brosse pour le cou, flacon dhuile, mallette de rangement en aluminium professionnel
 - Tondeuse cheveux lames auto-affûtées Advanced Ceramic - Tondeuse de précision et résistante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est doté d’un port USB‑C et s’accompagne d’un câble de charge USB‑C tissé qui vous permet de le jumeler et de le recharger en le branchant sur un port USB‑C de votre Mac.
 - Le Magic Keyboard vous garantit une frappe d’un confort et d’une précision remarquables.
 - Il s’associe automatiquement à votre Mac, pour que vous puissiez vous mettre au travail sans attendre.
+- Il est doté d’un port USB‑C et s’accompagne d’un câble de charge USB‑C tissé qui vous permet de le jumeler et de le recharger en le branchant sur un port USB‑C de votre Mac.
 - Sans fil et rechargeable, il intègre une batterie longue durée et fonctionne environ un mois ou plus entre deux charges.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

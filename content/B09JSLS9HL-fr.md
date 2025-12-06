@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les lanternes peuvent sallumer (nécessite une pile 1,5V AAA non fournie).
 - Contient quatre personnages, un enclos à lapin, du mobilier ainsi que de nombreux accessoires.
+- Les lanternes peuvent sallumer (nécessite une pile 1,5V AAA non fournie).
 - Playmobil
 - Comprend une piscine, un toboggan ainsi quun grill lumineux (nécessite 2 piles 1,5V AAA non fournies).
 

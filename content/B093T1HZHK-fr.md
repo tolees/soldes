@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un tableau lumineux magique pour «reproduire» lunivers de Harry Potter !
-- Contenu : un tableau lumineux, des dessins avec des images de l’univers de Harry Potter, des feuilles et des pastels colorés.
-- Avec ce tableau lumineux, il est très facile de dessiner Harry Potter, dautres personnages ou des scènes de leur monde magique.
-- Insérez simplement les dessins avec les images de Harry Potter dans le tableau lumineux puis placez une feuille de papier à dessin vierge au-dessus pour les reproduire facilement.
 - Un jeu simple avec un effet étonnant pour développer la créativité tout en samusant.
+- Avec ce tableau lumineux, il est très facile de dessiner Harry Potter, dautres personnages ou des scènes de leur monde magique.
+- Contenu : un tableau lumineux, des dessins avec des images de l’univers de Harry Potter, des feuilles et des pastels colorés.
+- Insérez simplement les dessins avec les images de Harry Potter dans le tableau lumineux puis placez une feuille de papier à dessin vierge au-dessus pour les reproduire facilement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093T1HZHK{{</world>}}

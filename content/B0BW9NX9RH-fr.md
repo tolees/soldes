@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle : éthylène-acétate de vinyle
-- Matériau extérieur : synthétique
-- Fermeture : fermeture éclair
 - Matériau intérieur : textile
+- Matériau extérieur : synthétique
 - Forme du talon : talon bloc
+- Fermeture : fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BW9NX9RH{{</world>}}

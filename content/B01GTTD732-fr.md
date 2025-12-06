@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À fixer au mur ou aux coins de la pièce
 - Fabriqué en sisal
-- face arrière recouverte de polaire
+- Fabriqué en sisal
 - Face arrière recouverte de polaire
-- Fabriqué en sisal
+- face arrière recouverte de polaire
+- À fixer au mur ou aux coins de la pièce
 - À fixer au mur ou aux coins de la pièce
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

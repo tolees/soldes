@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : multicolore
 - Si vous voulez la qualité au meilleur prix, ne cherchez plus !
 - Dimensions : 6,74 x 13,67 x 7,75 cm
 - Lattafa Khamrah Qahwa Eau de parfum 100 ml
+- Couleur : multicolore
 - Référence : S8315919
 
 [🛒 Achète-le!!]({{< param buyurl >}})

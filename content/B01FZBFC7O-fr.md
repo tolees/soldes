@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pantalon classique en jean style cinq poches avec poches latérales et poches au niveau des fesses
+- Avec teneur en stretch pour un confort optimal et une plus grande liberté de mouvement
+- Coupe : coupe droite Aedan – taille basse, jambe droite, ouverture normale des jambes, longueur intérieure de la jambe à 30 l : environ 76 cm, 32 l : environ 81 cm, pour 34 l : environ 85 cm - Pour 36 l : environ 90 cm
 - Avec passants de ceinture et logo à larrière de la ceinture
 - Conseils de lavage : pas de nettoyage à sec possible, ne pas sécher au sèche-linge, pas deau de Javel, repassage à basse température (110 °C). Lavage normal à max. 40 °C
-- Avec teneur en stretch pour un confort optimal et une plus grande liberté de mouvement
-- Pantalon classique en jean style cinq poches avec poches latérales et poches au niveau des fesses
-- Coupe : coupe droite Aedan – taille basse, jambe droite, ouverture normale des jambes, longueur intérieure de la jambe à 30 l : environ 76 cm, 32 l : environ 81 cm, pour 34 l : environ 85 cm - Pour 36 l : environ 90 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FZBFC7O{{</world>}}

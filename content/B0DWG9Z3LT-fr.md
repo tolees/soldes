@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 17 x 22,6 x 3,5 cm.
-- Lagenda de style Mr. Wonderfuls Wonder, avec organisation quotidienne, sétend de septembre 2025 à fin août 2026.
 - 368 pages de papier de 90 g certifié FSC, Phrases de motivation quotidiennes, Intercalaires avec onglets pour chaque mois, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants, Jeux et extras très amusants,
 - Horaires et calendriers (pour le dernier trimestre 2025 et lensemble de 2026 et 2027), Playlist exclusive, Pages pour noter les contacts, Tableaux dépargne, Fermeture élastique, Planificateur mensuel au début de chaque mois, Blocs-notes autocollants en forme, Phrases mensuelles super amusantes
+- Dimensions : 17 x 22,6 x 3,5 cm.
+- Lagenda de style Mr. Wonderfuls Wonder, avec organisation quotidienne, sétend de septembre 2025 à fin août 2026.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWG9Z3LT{{</world>}}

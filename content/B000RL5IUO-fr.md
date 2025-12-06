@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SAVON NATUREL : Savon au PH neutre, formulé avec des ingrédients dorigine naturelle et testé dermatologiquement. Rend vos mains douces et soyeuses
+- RESPECTE VOTRE SANTÉ : Testé dermatologiquement, ce savon pour les mains éco-responsable convient aux peaux sensibles. Les produits Ecover sont sans produits chimiques et respectent votre santé.
 - INGRÉDIENTS : Savon liquide pour les mains éco-responsable Parfum Lavande et Aloe Vera 5 litres avec des ingrédients dorigine naturelle
 - RESPECT DE L’ENVIRONNEMENT : Chez Ecover, notre priorité est de préserver la nature. Nos produits ne sont pas testés sur les animaux. Le plastique utilisé est 100% recylé et 100% recyclable
-- RESPECTE VOTRE SANTÉ : Testé dermatologiquement, ce savon pour les mains éco-responsable convient aux peaux sensibles. Les produits Ecover sont sans produits chimiques et respectent votre santé.
 - USINE CERTIFIÉE : 98,1% des déchets dEcover ont une seconde vie grâce à notre usine certifiée « Zero Waste ». Nous agissons pour une révolution verte dans le respect de la nature afin que vous puissiez vivre dans un environnement sain
 
 [🛒 Achète-le!!]({{< param buyurl >}})

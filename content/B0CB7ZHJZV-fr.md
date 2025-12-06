@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le jeu pour est un bon Code in a Box et ne comprend pas de cartouche /disque
-- Tenue Battlebus : Accessoire de dos Robogolfière, Pioche Pnioche
 - +1 000 V-Bucks!
-- Tenue Bumblebee : Accessoire de dos Ailes de Bumblebee, Pioche Épée aiguillon, Emote Prêt à en découdre
-- Tenue Mégatron : Accessoire de dos Emblème des Decepticons, Pioche Masse à énergon, Emote intégrée Canon à fusion
 - Répondez au cri de ralliement et déployez-vous grâce au pack Transformers. Comprend 3 tenues, 3 accessoires, 3 pioches, 2 emotes et 1 000 V-Bucks !
+- Tenue Mégatron : Accessoire de dos Emblème des Decepticons, Pioche Masse à énergon, Emote intégrée Canon à fusion
+- Tenue Bumblebee : Accessoire de dos Ailes de Bumblebee, Pioche Épée aiguillon, Emote Prêt à en découdre
+- Tenue Battlebus : Accessoire de dos Robogolfière, Pioche Pnioche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB7ZHJZV{{</world>}}

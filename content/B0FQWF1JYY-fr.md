@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Elle contient également 18 boosters du JCC Pokémon, 65 protège-cartes au motif de Méga-Dracaufeu X, 1 tapis de jeu représentant Méga-Dracaufeu X, 1 étui pour deck de Méga-Dracaufeu X, 1 pièce métallisée de Méga-Dracaufeu X, 6 dés marqueurs de dégâts et 1 carte à code pour le JCC Pokémon Live.
-- Dans cette collection ultra-premium, vous trouverez Méga-Dracaufeu X-ex en tant que carte promo brillante, ainsi qu’une autre carte promo brillante de Plumeline-ex.
 - Allumez un feu ardent avec Méga-Dracaufeu X-ex !
 - Ce Pokémon-ex Méga-Évolution féroce brûle des Énergies Feu pour charger son attaque Inferno X et inflige des dégâts supplémentaires pour chaque carte défaussée.
+- Dans cette collection ultra-premium, vous trouverez Méga-Dracaufeu X-ex en tant que carte promo brillante, ainsi qu’une autre carte promo brillante de Plumeline-ex.
+- Elle contient également 18 boosters du JCC Pokémon, 65 protège-cartes au motif de Méga-Dracaufeu X, 1 tapis de jeu représentant Méga-Dracaufeu X, 1 étui pour deck de Méga-Dracaufeu X, 1 pièce métallisée de Méga-Dracaufeu X, 6 dés marqueurs de dégâts et 1 carte à code pour le JCC Pokémon Live.
 - L’immense puissance de la Méga-Évolution a réveillé les flammes bleues vacillantes de Méga-Dracaufeu X-ex !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

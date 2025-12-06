@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASUS Extreme Low Motion Blur Sync (ELMB Sync) technology enables ELMB and variable-refresh-rate technologies to work simultaneously to eliminate ghosting and tearing for sharp gaming visuals with high frame rates
-- High dynamic range (HDR) technology with DisplayHDR 400 compliance and 90% DCI-P3 professional color gamut provide amazing color performance
-- 28-inch UHD (3840 x 2160) Fast IPS gaming monitor with 144 Hz refresh rate and 1 ms (GTG) response time, designed for professional gamers
-- HDMI 2.1 supports native 4K 120 Hz gaming without chroma subsampling (4:4:4) on PlayStation 5 and Xbox Series X
-- NVIDIA G-SYNC Compatible, AMD FreeSync Premium, and exclusive Variable Overdrive technology ensure seamless, tear-free gaming
 - Garantie 3 ans
+- HDMI 2.1 supports native 4K 120 Hz gaming without chroma subsampling (4:4:4) on PlayStation 5 and Xbox Series X
+- High dynamic range (HDR) technology with DisplayHDR 400 compliance and 90% DCI-P3 professional color gamut provide amazing color performance
+- NVIDIA G-SYNC Compatible, AMD FreeSync Premium, and exclusive Variable Overdrive technology ensure seamless, tear-free gaming
+- 28-inch UHD (3840 x 2160) Fast IPS gaming monitor with 144 Hz refresh rate and 1 ms (GTG) response time, designed for professional gamers
+- ASUS Extreme Low Motion Blur Sync (ELMB Sync) technology enables ELMB and variable-refresh-rate technologies to work simultaneously to eliminate ghosting and tearing for sharp gaming visuals with high frame rates
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09CDVMNS7{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Processeur ARM Cortex-A72 quadricœur à 1,8 GHz | 4 Go de DRAM LPDDR4-3200 | Graphiques VideoCore VI (OpenGL ES 3.1, Vulkan)
-- Décodage HEVC 4K UHD @60 Hz | Véritable Gigabit Ethernet
 - 2 ports USB 3.0 et 1 port USB 2.0 | 2x ports Micro HDMI (1x 4K à 60 Hz ou 2x 4K à 30 Hz) | USB-C pour lalimentation dentrée, prenant en charge le fonctionnement 5 V 3 A
+- Décodage HEVC 4K UHD @60 Hz | Véritable Gigabit Ethernet
 - Le nouveau Raspberry Pi 400 regroupe tout dans une unité compacte entièrement fermée, éliminant le besoin de plusieurs composants, tout en offrant une vitesse dhorloge de 1,8 GHz, supérieure à celle des autres cartes Raspberry Pi du marché.
 - Connecteur GPIO horizontal 40 broches compatible Raspberry Pi | Serrure Kensington
 

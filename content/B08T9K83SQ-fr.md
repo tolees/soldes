@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie Dri-Fit pour rester au sec et à laise
 - Ce produit est composé à 100 % de polyester recyclé
 - Department: Garçon
 - Coupe standard pour un confort décontracté et facile
-- Technologie Dri-Fit pour rester au sec et à laise
 - Maille sur le dos et sur les manches pour une bonne circulation de lair, afin que vous puissiez
 
 [🛒 Achète-le!!]({{< param buyurl >}})

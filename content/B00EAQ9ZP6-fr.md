@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Câble HO5 VV-F - Section 3G1,5 mm²
-- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise.
 - Puissance enroulée 1100W - Puissanc déroulée : 3200W
+- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise.
 - Rallonge Prolongateur électrique 3 m 16A - section 3G1,5 mm² noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

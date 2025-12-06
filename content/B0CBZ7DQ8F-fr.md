@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Siège auto de marque Cybex
-- Référence : NUMÉRO 7190529
 - Couleur : multicolore
 - Dimensions : 62 x 52 x 26 cm
+- Référence : NUMÉRO 7190529
+- Siège auto de marque Cybex
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CBZ7DQ8F{{</world>}}

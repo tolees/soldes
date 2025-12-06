@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Notes de tête : Le parfum souvre sur la douceur succulente de la mirabelle, la chaleur acidulée du poivre rose et lessence herbacée apaisante de la lavande, créant une introduction vibrante et invitante
 - Notes de fond : Une base crémeuse et sensuelle émerge avec la vanille Bourbon en son cœur, complétée par la sophistication terreuse du vétiver et la chaleur dorée de lambre, laissant une impression durable et irrésistible
 - Notes de cœur : Le parfum sapprofondit avec lattrait épicé de la noix de muscade, la richesse exotique du Davana et la chaleur veloutée du cacao, ajoutant des couches dintrigue et de gourmandise
-- Notes de tête : Le parfum souvre sur la douceur succulente de la mirabelle, la chaleur acidulée du poivre rose et lessence herbacée apaisante de la lavande, créant une introduction vibrante et invitante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQJBMZVW{{</world>}}

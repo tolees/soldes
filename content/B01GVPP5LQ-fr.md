@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec 2 bols émaillés
-- monté
 - Fabriqué en métal, peint en blanc antique
+- monté
+- avec 2 bols émaillés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01GVPP5LQ{{</world>}}

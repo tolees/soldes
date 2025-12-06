@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOURNAL INTIME : Lâ€agenda possède un vrai clavier et plus de 750 pages pour écrire tous ses secrets, avec possibilité de les décorer avec des fonds dâ€écran, icônes, émoticons. Grce au mémo vocal, lâ€enfant peut aussi enregistrer des messages dans son journal intime et y ajouter des photos
-- VERSION : Française
-- RECONNAISSANCE DU VISAGE : Lâ€agenda KidiSecrets Selfie Music ne sâ€ouvre que sâ€il reconnaît le visage de son propriétaire. Il est également possible de désactiver cette option pour un code secret à 4 chiffres
-- MUSIQUE, PHOTOS and VIDÃ‰OS : Lecteur de musique avec 4 chansons incluses et possibilité dâ€ajouter ses musiques préférées (nécessite une carte micro SD non incluse)Photos et vidéos : grce à lâ€écran couleur et le double objectif, lâ€enfant peut prendre des photos et vidéos avec ses amis ou en selfie et y ajouter des cadres et des effets trop amusants pour des rendus uniques
 - INCLUS : Fonctions horloge et réveilMémoire interne permettant dâ€enregistrer plus de 1000 photos ou 100 vidéosEmplacement carte SDRéglage du volume sonore et du contrasteFonctionne avec 4 piles LR6 incluses
+- JOURNAL INTIME : Lâ€agenda possède un vrai clavier et plus de 750 pages pour écrire tous ses secrets, avec possibilité de les décorer avec des fonds dâ€écran, icônes, émoticons. Grce au mémo vocal, lâ€enfant peut aussi enregistrer des messages dans son journal intime et y ajouter des photos
+- RECONNAISSANCE DU VISAGE : Lâ€agenda KidiSecrets Selfie Music ne sâ€ouvre que sâ€il reconnaît le visage de son propriétaire. Il est également possible de désactiver cette option pour un code secret à 4 chiffres
+- VERSION : Française
 - 6 ACTIVITÃ‰S : Journal intimePetit animal virtuel (qui reconnaît le visage de sa maîtresse)Activités de retouche photo et de stylismeInfos amies (adresses, anniversaires...)10 mini-jeux sur les thèmes mode, logique, calcul ou musique
+- MUSIQUE, PHOTOS and VIDÃ‰OS : Lecteur de musique avec 4 chansons incluses et possibilité dâ€ajouter ses musiques préférées (nécessite une carte micro SD non incluse)Photos et vidéos : grce à lâ€écran couleur et le double objectif, lâ€enfant peut prendre des photos et vidéos avec ses amis ou en selfie et y ajouter des cadres et des effets trop amusants pour des rendus uniques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FNNFS22{{</world>}}

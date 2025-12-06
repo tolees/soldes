@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Structure de lobjectif (éléments/groupes): 15/11
-- Magnésium
-- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 - Irix Blackstone
-- Type dobjectif: Objectif ultra large. compatibilité entre marques de caméras: Nikon. Matériel: Aluminium
+- Magnésium
 - 15mm f/2.4. composant pour: SLR
+- Type dobjectif: Objectif ultra large. compatibilité entre marques de caméras: Nikon. Matériel: Aluminium
+- Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- Structure de lobjectif (éléments/groupes): 15/11
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01GEBLPDY{{</world>}}

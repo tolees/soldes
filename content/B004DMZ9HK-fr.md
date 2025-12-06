@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimension L x l x H : 41 X84 X23 centimeters
-- Couleur :Blanc
 - Matériel : Métal
+- Couleur :Blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004DMZ9HK{{</world>}}

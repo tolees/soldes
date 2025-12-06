@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lensemble de blocs de construction Big Ben est parfait ou les constructeurs âgés de 14 ans et plus
 - TAILLE: 1664 pièces! (17,6 cm x 63 cm), Tour Elizabeth
+- Lensemble de blocs de construction Big Ben est parfait ou les constructeurs âgés de 14 ans et plus
 - Ensemble de blocs de construction Big Ben, Tour de lHorloge
 
 [🛒 Achète-le!!]({{< param buyurl >}})

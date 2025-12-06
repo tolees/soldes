@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure textile
-- Chaussant standard
 - Fermeture à lacets
+- Chaussant standard
 - Amorti confortable
 - Semelle de propreté en EVA
 - Tige en matière synthétique

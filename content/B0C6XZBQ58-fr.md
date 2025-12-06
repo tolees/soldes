@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Angle de rotation 270°.
 - Palettes de changement de vitesse +/-.
-- Compatible casque gaming
+- Entièrement programmable, compatible avec tous les jeux de course (Gran Turismo Sport, Forza Motor Sport 7, Forza Horizon, Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.. ).Remarque Gardez votre système éteint et connectez votre volant au port USB de la console et au port microphone USB de votre manette. Allumez votre système à laide du bouton dalimentation (contrôleur éteint). Dès que le système est activé, appuyez sur le bouton "Home" de votre volant.
 - Large pédalier avec système de repose-pied et pédales daccélération, de frein et dembrayage.
+- Compatible casque gaming
 - Compatible avec PS4, Xbox Series X/S, Xbox One (ce produit nest pas compatible PS5 ou PC)
-- Levier de vitesse manuel.
 - Système de fixation par ventouses ou vis de serrage.
 - Réglage de la sensibilité (3 niveaux de sensibilité). Système de fixation par ventouses.
-- Entièrement programmable, compatible avec tous les jeux de course (Gran Turismo Sport, Forza Motor Sport 7, Forza Horizon, Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.. ).Remarque Gardez votre système éteint et connectez votre volant au port USB de la console et au port microphone USB de votre manette. Allumez votre système à laide du bouton dalimentation (contrôleur éteint). Dès que le système est activé, appuyez sur le bouton "Home" de votre volant.
+- Levier de vitesse manuel.
 - Double moteur de vibration uniquement en mode sequentiel via les palettes de changement de vitesse .
-- Angle de rotation 270°.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6XZBQ58{{</world>}}

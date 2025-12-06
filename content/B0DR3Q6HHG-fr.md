@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec leur châssis et leur carrosserie robustes en métal, ces Monster Trucks Hot Wheels surdimensionnés à l’échelle 1/24 ne craignent rien et sont prêts à tout écraser sur leur passage !
 - Retrouvez des statistiques sur le personnage au dos de l’emballage pour connaître sa force, son attaque crash, son but ultime et plus encore !
+- Avec leur châssis et leur carrosserie robustes en métal, ces Monster Trucks Hot Wheels surdimensionnés à l’échelle 1/24 ne craignent rien et sont prêts à tout écraser sur leur passage !
 - Les enfants vont adorer imaginer des collisions, des cascades et d’autres actions spectaculaires avec ces véhicules aux roues géantes et aux superbes détails.
 - L’imagination va tourner à plein régime avec ces Monster Trucks aux roues géantes et aux styles déments, que les fans voudront tous collectionner ! (Articles vendus séparément.)
 - Une excellente idée de cadeau pour les collectionneurs et les fans de Monster Trucks à partir de 3 ans.

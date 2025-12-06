@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un équipement haute technologie à un prix attractif: Profitez de ce projecteur WXGA
-- Créez une expérience de divertissement sur grand écran: De vos séries préférées à vos présentations professionnelles, captez l’attention de tous.
 - Portable et rapide à installer, correction du trapèze pour faciliter l’alignement
+- Créez une expérience de divertissement sur grand écran: De vos séries préférées à vos présentations professionnelles, captez l’attention de tous.
+- Un équipement haute technologie à un prix attractif: Profitez de ce projecteur WXGA
 - Une solution durable: L’équivalent de 18 ans de divertissement²
 - Des images lumineuses même à la lumière ambiante: Niveaux équivalents de luminosité blanche et couleur, à 3 700 lumens
 

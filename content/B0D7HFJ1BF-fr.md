@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau arrière en maille rembourré confortable avec canal et couche pour la colonne vertébrale
 - NF00CF9C4GZ
+- Panneau arrière en maille rembourré confortable avec canal et couche pour la colonne vertébrale
 - Ceinture amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

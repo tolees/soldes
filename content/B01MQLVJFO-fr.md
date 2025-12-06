@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Toile mesurant 50 x 80 cm avec structure en lin.
-- Kit de peinture par numéros représentant un triptyque zen.
 - Il suffit dappliquer les couleurs numérotées dans les blancs avec le même numéro sur la toile.
 - Idéal pour débuter dans la peinture.
 - Inclus : pinceau, peintures acryliques pré-mélangées prêtes à être utilisées, feuille de contrôle et instructions détaillées.
+- Toile mesurant 50 x 80 cm avec structure en lin.
+- Kit de peinture par numéros représentant un triptyque zen.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MQLVJFO{{</world>}}

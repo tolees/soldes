@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- S’adapte à presque tous les environnements : Résiste à l’eau et à la poussière à l’indice IP67, la JBL Go 4 est prête pour vos soirées piscine ou pique-nique en bord de mer
-- Contenu de la boîte : 1 x Enceinte JBL Go 4 grise, 1 x Câble USB-C, 1 x Guide de démarrage rapide, 1 x Fiche de sécurité
 - Voyez les choses en grand : Pour un son JBL Pro encore plus puissant, appairez deux enceintes Go 4 ou connectez sans fil plusieurs enceintes compatibles JBL Auracast pour un son encore plus percutant
 - Votre musique toute la journée : Profitez de jusqu’à 7 h découte avec une seule charge puis ajoutez 2 h dautonomie avec Playtime Boost qui ajuste les performances pour un son plus puissant et plus net
+- S’adapte à presque tous les environnements : Résiste à l’eau et à la poussière à l’indice IP67, la JBL Go 4 est prête pour vos soirées piscine ou pique-nique en bord de mer
+- Contenu de la boîte : 1 x Enceinte JBL Go 4 grise, 1 x Câble USB-C, 1 x Guide de démarrage rapide, 1 x Fiche de sécurité
 - Petit design, grand son : Ne vous fiez pas à sa petite taille, la JBL Go 4 offre un son JBL Pro puissant et des basses percutantes ; son design compact vous permet de lamener où que vous alliez
 
 [🛒 Achète-le!!]({{< param buyurl >}})

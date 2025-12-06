@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A/ Comme neuf : produits en parfait état comme neuf dont l´emballage original peut se trouver ouvert ou légèrement détérioré, ou a été remplacé par un autre.
+- REFURBISHED: Il s´agit de produits renvoyés pendant la période de désistement ou d´exposition qui ont pu être utilisés pour effectuer des tests ; certains se vendent avec l´emballage en mauvaise état ou avec l´emballage original visiblement ouvert. Tous les produits ont subi une révision, ils contiennent la garantie officielle de la marque et fonctionnent parfaitement. Classification selon leur état:
 - 200 millilitres de neutrogen
 - A+/ Impeccable : produits en état impeccable dont l´emballage original peut se trouver ouvert ou a été remplacé par un autre en parfaites conditions.
-- REFURBISHED: Il s´agit de produits renvoyés pendant la période de désistement ou d´exposition qui ont pu être utilisés pour effectuer des tests ; certains se vendent avec l´emballage en mauvaise état ou avec l´emballage original visiblement ouvert. Tous les produits ont subi une révision, ils contiennent la garantie officielle de la marque et fonctionnent parfaitement. Classification selon leur état:
 - Quantité: 200 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

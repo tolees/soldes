@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protège le système de climatisation de la poussière et de la saleté
+- Installation simple (voir la notice de montage en PDF)
 - Tous les travaux ne doivent être effectués que par des spécialistes qualifiés
 - Le filtre de climatisation réduit la buée sur le pare-brise
 - Le filtre dhabitacle standard protège du pollen et des particules fines
 - Veuillez utiliser lidentification du véhicule pour confirmer la compatibilité avec votre véhicule Toutes les restrictions doivent être respectées
-- Installation simple (voir la notice de montage en PDF)
+- Protège le système de climatisation de la poussière et de la saleté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00C7UYPNO{{</world>}}

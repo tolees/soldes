@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tous types de peaux, y compris les peaux atopiques
 - Le photoprotecteur tout-terrain pour toute la famille
-- Hydrate comme une crème et est absorbé rapidement comme un gel avec SPF 50
 - Assure une sensation agréable de fraîcheur avec une finition soyeuse et sans aspect brillant
+- Tous types de peaux, y compris les peaux atopiques
+- Hydrate comme une crème et est absorbé rapidement comme un gel avec SPF 50
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D3HY5XA{{</world>}}

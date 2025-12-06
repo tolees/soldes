@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Protection Helly Tech – Entièrement imperméable, coupe-vent et respirant
 - Prim Aloft Black 100 g isolation synthétique offre des propriétés thermiques et hydrofuges – une excellente alternative à lutilisation downRPA20202023. 32023 Doublé pour plus de confort
-- La capuche peut se ranger dans le col lorsquil ne pleut pas
 - Protection totale contre les éléments tout en étant confortable à lintérieur
+- La capuche peut se ranger dans le col lorsquil ne pleut pas
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XH643HT{{</world>}}

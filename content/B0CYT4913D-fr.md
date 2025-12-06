@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie TRUSSTIC et semelle enveloppante
 - Amorti avec technologie GEL
+- Technologie TRUSSTIC et semelle enveloppante
 - Empiècements en cuir synthétique durable au niveau des orteils
 
 [🛒 Achète-le!!]({{< param buyurl >}})

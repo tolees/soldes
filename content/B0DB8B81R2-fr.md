@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Versez le contenu du sachet dans la bouteille de shampoing 500 ou 300 ml vide. Appliquez comme le shampoing 300ml.
 - ÉCO-RECHARGE SHAMPOING PROFESSIONNEL : Rechargez votre shampoing hydratant des cheveux secs et abîmés Absolut Repair grâce à sa poche refill au format généreux & composée avec 73% de plastique en moins quune bouteille 500ml.
 - Nettoie & élimine les impuretés, répare, nourrit et renforce les zones fragilisées. Cheveux plus doux & souples.
+- Versez le contenu du sachet dans la bouteille de shampoing 500 ou 300 ml vide. Appliquez comme le shampoing 300ml.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DB8B81R2{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour une alimentation propre.
 - Facile et sûr à utiliser.
+- Pour une alimentation propre.
 - Neutralise les odeurs et élimine le givre.
 - Avec de l’alcool bio.
 

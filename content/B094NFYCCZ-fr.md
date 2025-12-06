@@ -30,12 +30,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - produit 2: A utiliser exclusivement avec le mandrin universel Dremel 4486
 - produit 1: Outil multifonction : grâce aux nombreux accessoires fournis avec l’outil rotatif, cet appareil peut servir de mini ponceuse électrique, graveur, mini perceuse, meuleuse de poche ou polisseuse de finition
-- produit 1: Vitesse de rotation variable de 10.000 à 33.000 tr/min : adaptez facilement votre vitesse au matériau que vous travaillez grâce à la molette qui possède 5 positions différentes
-- produit 1: Contenu du coffret : outil Dremel 3000 + coffret de rangement en plastique + support mural de machine range-cordon + 1 adaptation (arbre flexible) + 25 accessoires dorigine Dremel dans un coffret en plastique + manuel d’utilisation en français + fiche des accessoires
-- produit 2: Pour percer dans le bois (dur ou tendre), le plastique, le plexiglas et les métaux tendres (sans fer)
-- produit 2: Un seul set qui contient 7 forets de perçage de diamètres différents : 0,8 / 1,2 / 1,6 / 2,0 / 2,4 / 2,8 et 3,2 mm
-- produit 2: Contenu : 1 coffret de rangement en plastique +1x foret 0,8mm +1x foret 1,2mm + 1x foret 1,6mm + 1x foret 2,0mm+ 1x foret 2,4mm+ 1x foret 3,2mm
 - produit 1: Embout EZ Twist : plus besoin de chercher la clé pour changer daccessoire, celle-ci est déjà dans le nez de la machine. Il vous suffit alors de le dévisser, vous en servir, plus de le revisser !
+- produit 1: Vitesse de rotation variable de 10.000 à 33.000 tr/min : adaptez facilement votre vitesse au matériau que vous travaillez grâce à la molette qui possède 5 positions différentes
+- produit 2: Pour percer dans le bois (dur ou tendre), le plastique, le plexiglas et les métaux tendres (sans fer)
+- produit 1: Contenu du coffret : outil Dremel 3000 + coffret de rangement en plastique + support mural de machine range-cordon + 1 adaptation (arbre flexible) + 25 accessoires dorigine Dremel dans un coffret en plastique + manuel d’utilisation en français + fiche des accessoires
+- produit 2: Contenu : 1 coffret de rangement en plastique +1x foret 0,8mm +1x foret 1,2mm + 1x foret 1,6mm + 1x foret 2,0mm+ 1x foret 2,4mm+ 1x foret 3,2mm
+- produit 2: Un seul set qui contient 7 forets de perçage de diamètres différents : 0,8 / 1,2 / 1,6 / 2,0 / 2,4 / 2,8 et 3,2 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094NFYCCZ{{</world>}}

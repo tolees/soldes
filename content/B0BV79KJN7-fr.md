@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEGO Super Mario uitbreidingssets zijn ontworpen om meer leuke uitdagingen toe te voegen aan LEGO Super Mario startsets (71360, 71387 of 71403) die nodig zijn voor interactief spel
-- Kinderen vanaf 6 jaar kunnen hun LEGO Super Mario bouwbare spel uitbreiden met de Super Mario Uitbreidingsset: Picknick bij Marios huis, compleet met een gele Yoshi figuur voor vele uren interactief rollenspel
-- Download de LEGO Super Mario app voor digitale bouwinstructies om de verbeelding van kinderen te stimuleren en de LEGO ervaring te verbeteren
 - Jonge spelers kunnen een LEGO Luigi, LEGO Peach of LEGO Mario poppetje (figuren niet inbegrepen) op de speelgoed boot plaatsen om te vissen en naar de gele Yoshi zwaaien om verschillende interactieve reacties te activeren
 - Het LEGO Mario speelgoed huis zit vol interactieve functies; personages kunnen op het bed slapen, koekjes uit de picknickmand eten, groenten uit de tuin "water geven" en hockey spelen
+- LEGO Super Mario uitbreidingssets zijn ontworpen om meer leuke uitdagingen toe te voegen aan LEGO Super Mario startsets (71360, 71387 of 71403) die nodig zijn voor interactief spel
+- Download de LEGO Super Mario app voor digitale bouwinstructies om de verbeelding van kinderen te stimuleren en de LEGO ervaring te verbeteren
+- Kinderen vanaf 6 jaar kunnen hun LEGO Super Mario bouwbare spel uitbreiden met de Super Mario Uitbreidingsset: Picknick bij Marios huis, compleet met een gele Yoshi figuur voor vele uren interactief rollenspel
 - Deze 259-delige LEGO Mario speelgoed set is een geweldig verjaardagscadeau of verrassing voor kinderen, jongens en meisjes vanaf 6 jaar die dol zijn op LEGO Super Mario bouwbaar speelgoed
 
 [🛒 Achète-le!!]({{< param buyurl >}})

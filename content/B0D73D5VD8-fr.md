@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle légère, flexible et très confortable avec adhérence exceptionnelle
 - Semelle intérieure amovible recouverte de cuir avec ECFS pour une meilleure circulation de lair et une largeur supplémentaire en option
+- Semelle légère, flexible et très confortable avec adhérence exceptionnelle
 - La construction imperméable Gore-Tex assure des pieds secs et confortables par temps humide
 - Semelle bi-composant à injection directe composée de semelle intermédiaire en polyuréthane thermoplastique et semelle extérieure en polyuréthane thermoplastique
 - Dessus en cuir pleine fleur respirant combiné avec du nubuck huilé durable

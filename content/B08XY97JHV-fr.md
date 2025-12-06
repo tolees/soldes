@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Réglage facile de la température entre +20 °C et -18 °C
-- Volume total de 70 l adapté pour 17 bouteilles standard (11+6) de 1,5 l ou 100 canettes (60+40, 330 ml)
 - Deux compartiments de rangement avec contrôle de température indépendant
+- Volume total de 70 l adapté pour 17 bouteilles standard (11+6) de 1,5 l ou 100 canettes (60+40, 330 ml)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08XY97JHV{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VUE SUR LA VILLE : Gorgez-vous des senteurs du parfum Soirée Rooftop et laissez-vous transporter vers une fête élégante et pleine de vie sur les toits de Paris offrant une vue imprenable sur lactivité palpitante de la Ville Lumière.
 - LE LUXE À LA FRANÇAISE : Issu dun savoir-faire artisanal unique, ce parfum est élaboré par des maîtres parfumeurs grassois à partir de plantes minutieusement sélectionnées pour leurs propriétés olfactives, notamment des plantes de Provence.
-- UN PARFUM FRUITÉ, FLORAL ET CHAUD : À la fois doux et épicé, le parfum Soirée Rooftop diffuse des notes de jasmin et de poire accompagnées de poivre rose et de café qui évoluent vers le patchouli et la vanille.
-- LA TRADITION DE LA PARFUMERIE FRANÇAISE : Made in France, les parfums et soins cosmétiques parfumés Jeanne Arthes subliment chaque instant grâce à leurs senteurs originales et leurs formules haut de gamme rimant avec raffinement.
 - LA COLLECTION FRENCH WAY OF LIFE : Chaque parfum de la gamme French Way of Live vous invite à découvrir une facette de la culture française, de lélégance de la mode parisienne au charme du Sud de la France, en passant par sa célèbre gastronomie.
+- UN PARFUM FRUITÉ, FLORAL ET CHAUD : À la fois doux et épicé, le parfum Soirée Rooftop diffuse des notes de jasmin et de poire accompagnées de poivre rose et de café qui évoluent vers le patchouli et la vanille.
+- VUE SUR LA VILLE : Gorgez-vous des senteurs du parfum Soirée Rooftop et laissez-vous transporter vers une fête élégante et pleine de vie sur les toits de Paris offrant une vue imprenable sur lactivité palpitante de la Ville Lumière.
+- LA TRADITION DE LA PARFUMERIE FRANÇAISE : Made in France, les parfums et soins cosmétiques parfumés Jeanne Arthes subliment chaque instant grâce à leurs senteurs originales et leurs formules haut de gamme rimant avec raffinement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TWP3QTK{{</world>}}

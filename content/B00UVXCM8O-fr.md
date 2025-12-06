@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque Clinique
 - Set et kits
+- Marque Clinique
 - Produits de beauté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

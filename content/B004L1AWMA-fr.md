@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Stylo marqueur muni dun clip daccroche
 - Stylo marqueur à encre permanente. Marqueur indélébile
-- Stylo à pointe moyenne 1 mm
 - Le grip antidérapant permet une meilleur prise en main du stylo
+- Stylo à pointe moyenne 1 mm
 - le marqueur STABILO Ohpen permanent écrit sur la plupart des surfaces lisses : verre, métal, plastique, papier, disque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

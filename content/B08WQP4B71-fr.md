@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revivez la légende du commandant shepard et redécouvrez la trilogie mythique dans mass effect édition légendaire
+- Avec tout le contenu solo des trois chapitres de la saga mythique et plus de 40 DLC Mass Effect Édition Légendaire vous propose plus dune centaine dheures de jeu au cœur dune trilogie unique Explorez un univers incroyablement riche et détaillé en profitant dun niveau de détails époustouflant
 - Vos choix se répercutent dun jeu à lautre Chacune de vos décisions aura un impact prépondérant sur lissue de vos diverses missions relations et batailles mais aussi sur le destin de la galaxie
 - Découvrez des mises à jour de la qualité de vie comprenant un lanceur pour les trois jeux de la trilogie des performances accrues des optimisations de la jouabilité la prise en charge des manettes sur PC et bien plus encore
-- Avec tout le contenu solo des trois chapitres de la saga mythique et plus de 40 DLC Mass Effect Édition Légendaire vous propose plus dune centaine dheures de jeu au cœur dune trilogie unique Explorez un univers incroyablement riche et détaillé en profitant dun niveau de détails époustouflant
+- Revivez la légende du commandant shepard et redécouvrez la trilogie mythique dans mass effect édition légendaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WQP4B71{{</world>}}

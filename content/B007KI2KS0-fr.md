@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Étagères en MDF avec surface en plastique hêtre
+- Fabriqué en tube dacier couleur aluminium
 - avec poignée
 - porte-bouteille inclus pour deux bouteilles
-- Fabriqué en tube dacier couleur aluminium
 - Capacité de charge : 15 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

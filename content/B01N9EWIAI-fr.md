@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Angle de pivotement: 180°
-- Nombreux réglages disponibles
-- Qualité de fabrication irréprochable
-- Produit destiné aux joueurs exigeants et pour améliorer lergonomie de travail
 - Angle de rotation: 100°. Couleur: Noir
+- Nombreux réglages disponibles
+- Produit destiné aux joueurs exigeants et pour améliorer lergonomie de travail
+- Angle de pivotement: 180°
+- Qualité de fabrication irréprochable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N9EWIAI{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 piles AA (non incluses) et 3 piles AAA (non incluses) sont nécessaires pour fournir une forte puissance au moteur.
 - Cette pièce technique entièrement compatible avec les produits de toutes les grandes marques.
-- Un vrai cadeau pour tous les amateurs de MOC ! Vous pouvez les utiliser pour contrôler les produits STEM.
-- Ce kit moteur contient un boîtier de piles AA*1 8881, un boîtier de piles AAA*1 88000, un récepteur IR 2,4 G*2 8884, une télécommande 2,4 G*2 8879, un moteur M*1 8883, un moteur L*1 88003, XL- moteur*1 8882.
 - Le kit est équipé de trois spécifications différentes de moteurs, qui peuvent être adaptées en fonction des besoins, prenant en charge lavant et larrière.
+- Ce kit moteur contient un boîtier de piles AA*1 8881, un boîtier de piles AAA*1 88000, un récepteur IR 2,4 G*2 8884, une télécommande 2,4 G*2 8879, un moteur M*1 8883, un moteur L*1 88003, XL- moteur*1 8882.
+- 6 piles AA (non incluses) et 3 piles AAA (non incluses) sont nécessaires pour fournir une forte puissance au moteur.
+- Un vrai cadeau pour tous les amateurs de MOC ! Vous pouvez les utiliser pour contrôler les produits STEM.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3PRW7PQ{{</world>}}

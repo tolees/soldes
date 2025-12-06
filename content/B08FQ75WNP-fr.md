@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EA SPORTS FIFA 21 Édition Essentielle sort sur Nintendo Switch avec les maillots et les effectifs les plus récents des clubs des plus grands championnats.
 - Retrouvez également les stades les plus célèbres dont quelques nouveaux pour FIFA 21.
+- EA SPORTS FIFA 21 Édition Essentielle sort sur Nintendo Switch avec les maillots et les effectifs les plus récents des clubs des plus grands championnats.
 - Les fonctionnalités et les modes de jeu seront les mêmes que dans FIFA 20 sur Nintendo Switch.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une longue cape en tissu noir
-- Une ceinture en mousse imprimée avec fermeture velcro
-- Une combinaison en jersey noire imprimée avec couvre-bottes intégrés
-- Taille L, 7 à 8 ans, pour les enfants mesurant entre 117 à 128cm
 - Déguisement sous licence officielle Star Wars
+- Une combinaison en jersey noire imprimée avec couvre-bottes intégrés
+- Une longue cape en tissu noir
+- Taille L, 7 à 8 ans, pour les enfants mesurant entre 117 à 128cm
+- Une ceinture en mousse imprimée avec fermeture velcro
 - Un masque en PVC à lâ€effigie de Dark Vador avec attache élastique à lâ€arrière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

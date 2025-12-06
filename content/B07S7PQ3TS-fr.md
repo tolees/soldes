@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité dimage exceptionnelle : Ultra HD Blu ray, Compatible HDR10 + / HDR / HLG, Sortie 4K 60p / 50p / 4 : 4 : 4, Lecture FULL HD 3D Blu ray Disc, 4K Networking
-- Haute résolution audio : Lecture Audio haute résolution (DSD, FLAC, WAV, ALAC), Compatible Dolby Atmos
-- Lecteur ultra HD Blu-ray
-- Connectique complète : Port USB 20, Entrée Ethernet pour fonctions connectées
 - Capable de lire les Blu-ray Ultra HD, il permet également daméliorer la qualité dimage de toutes vos sources vers une qualité proche de la 4K
+- Lecteur ultra HD Blu-ray
+- Haute résolution audio : Lecture Audio haute résolution (DSD, FLAC, WAV, ALAC), Compatible Dolby Atmos
 - Le lecteur Blu-ray Ultra HD PANASONIC DP-UB150EF-K est le compagnon idéal pour votre installation Home Cinéma
+- Qualité dimage exceptionnelle : Ultra HD Blu ray, Compatible HDR10 + / HDR / HLG, Sortie 4K 60p / 50p / 4 : 4 : 4, Lecture FULL HD 3D Blu ray Disc, 4K Networking
+- Connectique complète : Port USB 20, Entrée Ethernet pour fonctions connectées
 - Connectique complète :
 
 [🛒 Achète-le!!]({{< param buyurl >}})

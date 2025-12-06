@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Batterie 5000 mAh et charge rapide 15W Une batterie longue durée qui peut être rechargée rapidement
 - Ecran 6,5" 90Hz Un grand écran panoramique et très fluide
 - Capteur principal 50MP Des photos riches et détaillées
-- Batterie 5000 mAh et charge rapide 15W Une batterie longue durée qui peut être rechargée rapidement
-- Triple capteur photo et selfie 5MP Pour capturer son sujet sous tous les angles
 - Capteur empreinte digitale Pour sécuriser laccès à vos contenus les plus importants
+- Triple capteur photo et selfie 5MP Pour capturer son sujet sous tous les angles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BCR4HSPS{{</world>}}

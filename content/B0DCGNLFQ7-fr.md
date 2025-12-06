@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pigmentation longue durée (Tenue 24h)
 - Miroir et pinceau intégrés
 - Finis mats ou finis satinés
 - Technologie fard cuit
 - Parfum gourmand
+- Pigmentation longue durée (Tenue 24h)
 - Blush effet bonne mine*
 
 [🛒 Achète-le!!]({{< param buyurl >}})

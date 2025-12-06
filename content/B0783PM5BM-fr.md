@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Inspiré du tennis. Conçu pour un look et un confort au quotidien
 - Semelle extérieure en caoutchouc durable et adhérente
+- Baskets PUMA Smash
 - Semelle extérieure en caoutchouc durable et adhérente
 - Ajustement mis à jour et amélioré
-- Baskets PUMA Smash
-- Inspiré du tennis. Conçu pour un look et un confort au quotidien
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0783PM5BM{{</world>}}

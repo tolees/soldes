@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wi-Fi double bande AC750
-- Un switch pour plusieurs modes
 - Conception compact
+- Un switch pour plusieurs modes
+- Wi-Fi double bande AC750
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MY5JIJ0{{</world>}}

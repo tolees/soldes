@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 ENIGMES INÉDITES: Chaque scénario dans Unlock! Game Adventures est une aventure indépendante. Explorez, découvrez des objets et travaillez ensemble pour progresser et triompher avant que le temps ne sépuise. Parfait pour une soirée de jeu dynamique et engageante.
 - ESCAPE GAME - JEU COOPÉRATIF : Unlock! est plus quun jeu de cartes, cest un jeu descape game, une expérience coopérative inspirée des escape rooms. Trois aventures captivantes vous attendent dans ce volet, transformant votre table en un monde dévasion plein de mystères à résoudre.
-- L’ODYSSEE DE W.A.F.F. - NIVEAU 3: Répondez à lappel de linconnu et partez en mission interstellaire pour découvrir des signaux énigmatiques dune planète lointaine. Cet épisode de niveau avancé teste vos compétences de déduction et dexploration spatiale à leur maximum.
 - HOLLYWOOD CONFIDENTIAL - NIVEAU 2: Devenez un détective dans lindustrie du cinéma hollywoodien pour résoudre la disparition de Jack Marlowe. Cette enquête de niveau moyen vous plonge dans un thriller palpitant avec des illustrations qui captent lessence du vieux Hollywood.
-- APPLICATION GRATUITE IMMERSIVE : Lapplication gratuite Unlock, compatible avec les téléphones et tablettes Android et iOS, est nécessaire pour jouer. Elle permet dobtenir des indices, de repérer des objets cachés, mais aussi dentrer les codes découverts. Elle contribue également à lambiance avec ses musiques dédiées à chaque aventure, ses énigmes audio, ses terribles pénalités et son compte à rebours fatal
+- 3 ENIGMES INÉDITES: Chaque scénario dans Unlock! Game Adventures est une aventure indépendante. Explorez, découvrez des objets et travaillez ensemble pour progresser et triompher avant que le temps ne sépuise. Parfait pour une soirée de jeu dynamique et engageante.
 - RESTART - AVENTURE NIVEAU 1: Plongez dans le monde pixelisé de Créaria pour sauver son royaume. Cette aventure de niveau 1 est idéale pour les débutants et offre une introduction parfaite au format unique dUnlock!, alliant nostalgie des jeux vidéo et défis logiques.
+- L’ODYSSEE DE W.A.F.F. - NIVEAU 3: Répondez à lappel de linconnu et partez en mission interstellaire pour découvrir des signaux énigmatiques dune planète lointaine. Cet épisode de niveau avancé teste vos compétences de déduction et dexploration spatiale à leur maximum.
+- APPLICATION GRATUITE IMMERSIVE : Lapplication gratuite Unlock, compatible avec les téléphones et tablettes Android et iOS, est nécessaire pour jouer. Elle permet dobtenir des indices, de repérer des objets cachés, mais aussi dentrer les codes découverts. Elle contribue également à lambiance avec ses musiques dédiées à chaque aventure, ses énigmes audio, ses terribles pénalités et son compte à rebours fatal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09M7LMT1P{{</world>}}

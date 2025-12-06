@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Guide de coupe parallèle gradué. sortie dévacuation des poussières adaptable sur un aspirateur.
-- Pour scier des planches de bois, en coupe droite.
 - Base réglable 45°/90° pour réaliser des coupes en biais. la machine et son rail sont livrés dans une seule boite.
+- Pour scier des planches de bois, en coupe droite.
 - Son système de plongée progressive et calibré offre une sécurité lors du travail.
 - Son rail permet un travail précis au maintien de la trajectoire et offre un confort de coupe pour lutilisateur.
 
