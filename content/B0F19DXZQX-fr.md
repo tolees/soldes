@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vous aurez également l’opportunité d’affronter des stages spéciaux variés et redoutables. Joueurs aguerris en quête de défis, de difficulté élevée et d’une forte rejouabilité – ne passez pas à côté.
 - Une action spectaculaire et dynamique – Exploitez les propriétés changeantes des lames mystiques pour affronter des créatures surnaturelles déchaînées ! Combinez librement vos armes, collectez des centaines dOrbes imprégnés de pouvoirs mystérieux et recevez les bénédictions du Dieu Chat pour créer votre propre build unique.
 - Une rejouabilité immense – Scénarios spécifiques à chaque personnage : Un ninja immortel, une faucheuse infernale, un samouraï yokai… Chaque personnage possède un style de combat totalement unique et une histoire indépendante. Profitez d’armes exclusives, d’une narration profonde et captivante, ainsi que d’un univers riche et varié centré autour de trois protagonistes.
 - Participez au Festival des Démons – Au cours de votre chasse aux démons, découvrez un festival caché dans un royaume parallèle, où vous rencontrerez des démons amicaux, obtiendrez de précieuses ressources et récupérerez divers objets d’amélioration. Collectez des matériaux pour faire évoluer vos armes, des ingrédients pour apaiser votre faim et savourez même le légendaire ramen conférant une puissance incommensurable !
-- Vous aurez également l’opportunité d’affronter des stages spéciaux variés et redoutables. Joueurs aguerris en quête de défis, de difficulté élevée et d’une forte rejouabilité – ne passez pas à côté.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F19DXZQX{{</world>}}

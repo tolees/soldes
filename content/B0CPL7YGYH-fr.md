@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une superbe pièce d’exposition pour les constructeurs et les collectionneurs adultes
 - Pokédex de la région de Kanto à construire avec éclairage fonctionnel et 5 cartes lenticulaires
+- Ce coffret comprend 5 cartes lenticulaires interchangeables de Pikachu, Bulbizarre, Salamèche, Carapuce et Évoli
+- Une superbe pièce d’exposition pour les constructeurs et les collectionneurs adultes
 - Appuyez sur la brique lumineuse pour éclairer votre Pokédex et lui donner un look authentique
 - Sous licence officielle de The Pokémon Company International
-- Ce coffret comprend 5 cartes lenticulaires interchangeables de Pikachu, Bulbizarre, Salamèche, Carapuce et Évoli
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPL7YGYH{{</world>}}

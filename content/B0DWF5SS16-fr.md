@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Véhicules ninja détachables – Le grand véhicule NINJAGO peut être divisé en 3 véhicules plus petits : la moto ninja de Kai, la moto ninja de Braséra et le jet de Frak avec 2 fusils à tenons
 - Tout un univers de jouets ninjas – Les sets LEGO NINJAGO permettent aux enfants de s’évader dans un univers fantastique débordant d’aventures aux côtés de leurs héros ninjas
-- Idée de cadeau d’anniversaire pour garçon ou fille dès 8 ans – Ce jouet plein daction propose une superbe expérience de jeu et de construction et constitue une belle idée de cadeau d’anniversaire pour les enfants qui aiment l’aventure ninja
-- 6 minifigurines NINJAGO – Le set LEGO inclut Kai, Braséra, Cole, Nokt, un Éclaireur draconique spectral et, pour la toute première fois, Frak, ainsi qu’un planeur et une créature
+- Véhicules ninja détachables – Le grand véhicule NINJAGO peut être divisé en 3 véhicules plus petits : la moto ninja de Kai, la moto ninja de Braséra et le jet de Frak avec 2 fusils à tenons
 - Accessoires de combat pour ninjas – Kai, Braséra et Frak sont armés de 2 katanas d’or, Cole possède une lame de révélation translucide et une lanterne ; Nokt et l’Éclaireur draconique spectral ont chacun un sabre
 - Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive ; ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les maquettes en 3D
 - Jeu de construction pour garçon ou fille dès 8 ans avec véhicule ninja – Grâce au set Le véhicule de combat des ninjas, les enfants recréent, dans les airs et sur terre, l’action de la saison 3 de la série TV NINJAGO Le soulèvement des dragons
+- 6 minifigurines NINJAGO – Le set LEGO inclut Kai, Braséra, Cole, Nokt, un Éclaireur draconique spectral et, pour la toute première fois, Frak, ainsi qu’un planeur et une créature
+- Idée de cadeau d’anniversaire pour garçon ou fille dès 8 ans – Ce jouet plein daction propose une superbe expérience de jeu et de construction et constitue une belle idée de cadeau d’anniversaire pour les enfants qui aiment l’aventure ninja
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWF5SS16{{</world>}}

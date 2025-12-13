@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nous nous efforçons dinclure ces informations dans un proche avenir.
+- Revenez plus tard pour les mises à jour.
 - La personne responsable est lopérateur économique basé dans lUE responsable de certaines obligations de conformité relatives au produit.
 - Actuellement, les informations sur le vendeur ne sont pas disponibles
-- Revenez plus tard pour les mises à jour.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08VDM1VB7{{</world>}}

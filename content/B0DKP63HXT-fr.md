@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de caméra AI 108MP ;
-- Corning Gorilla Glass 5 ;
-- Technologie de processus de fabrication MediaTek Helio G99-Ultra, 6 nm ;
-- Batterie de 5500 mAh avec charge turbo de 33 W ;
 - Écran de soins oculaires 120Hz, Utilisation avec les mains mouillées
+- Batterie de 5500 mAh avec charge turbo de 33 W ;
+- Corning Gorilla Glass 5 ;
+- Système de caméra AI 108MP ;
+- Technologie de processus de fabrication MediaTek Helio G99-Ultra, 6 nm ;
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DKP63HXT{{</world>}}

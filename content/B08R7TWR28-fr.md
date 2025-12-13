@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Leather Working Group Certified. La LWG évalue et favorise des pratiques environnementales durables sur lindustrie du cuir. Nous nous sommes engagés à utiliser uniquement le cuir approuvé par LWG dici 2022.
 - Matériau supérieur: cuir
 - Meilleur produit: Notre objectif daméliorer continuellement notre produit et de réduire notre impact. Pour être considéré comme un meilleur produit, une chaussure doit avoir au moins 50% de sa composition en utilisant de meilleurs matériaux tout en maintenant les mêmes normes de qualité, de durabilité et de confort que nous attendons toujours. Notre objectif est que toutes les chaussures correspondent à ce critère dici 2025.
-- Leather Working Group Certified. La LWG évalue et favorise des pratiques environnementales durables sur lindustrie du cuir. Nous nous sommes engagés à utiliser uniquement le cuir approuvé par LWG dici 2022.
 - Semelle extérieure EVA pour la légèreté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

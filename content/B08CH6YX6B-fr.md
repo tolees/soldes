@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jeu familial par excellence s’habille aux couleurs des superhéros les plus puissants du monde
-- Rassemblez une équipe de super-héros et de super-vilains, récupérez les gemmes de pouvoir et complétez le Gantelet de Thanos, dans cette version de Splendor entièrement thématisée et illustrée avec les héros MARVEL
 - Cette version alternative propose des règles légèrement modififiées pour la thématique super-héros, pour toucher un large public et les fans du Splendor classique
-- Ce jeu permet aux joueurs débutants comme au confirmés dassimiler les règles rapidement et de multiplier les parties
+- Le jeu familial par excellence s’habille aux couleurs des superhéros les plus puissants du monde
 - A partir de 10 ans / Durée de jeu : 30 min
+- Rassemblez une équipe de super-héros et de super-vilains, récupérez les gemmes de pouvoir et complétez le Gantelet de Thanos, dans cette version de Splendor entièrement thématisée et illustrée avec les héros MARVEL
+- Ce jeu permet aux joueurs débutants comme au confirmés dassimiler les règles rapidement et de multiplier les parties
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CH6YX6B{{</world>}}

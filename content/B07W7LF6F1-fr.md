@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie SilentTouch innovante pour le même confort de frappe et de clic avec 90% de bruit en moins (1)
-- Clavier avec 8 raccourcis pratiques et pavé numérique taille standard pour une saisie de données efficace et une navigation plus facile. Une seule touche vous permet de lire/mettre en pause, d’augmenter ou de réduire le volume, de couper le son et d’accéder à Internet
-- La longévité des piles est de 36 mois pour le clavier et de 18 mois pour la souris, et les commutateurs Marche/Arrêt vous permettent de rester des mois sans vous soucier de devoir remplacer les piles (4)
-- Les pièces en plastique de MK295 Graphite contiennent du plastique post-consommation certifié recyclé: 49% pour la souris et 71% pour le clavier.
 - Conception résistante aux éclaboussures (3), touches durables et pattes dinclinaison solides avec hauteur réglable
+- Technologie SilentTouch innovante pour le même confort de frappe et de clic avec 90% de bruit en moins (1)
+- Les pièces en plastique de MK295 Graphite contiennent du plastique post-consommation certifié recyclé: 49% pour la souris et 71% pour le clavier.
+- La longévité des piles est de 36 mois pour le clavier et de 18 mois pour la souris, et les commutateurs Marche/Arrêt vous permettent de rester des mois sans vous soucier de devoir remplacer les piles (4)
 - Connectez-vous en 3 secondes (2) grâce à un récepteur ultra-compact qui offre une connexion sans fil 2,4 GHz fiable et puissante, et une portée de 10 m pour un bureau propre et sans encombrement
-- Compatible avec Windows ou ChromeOS, et prêt à lemploi en toute simplicité
+- Clavier avec 8 raccourcis pratiques et pavé numérique taille standard pour une saisie de données efficace et une navigation plus facile. Une seule touche vous permet de lire/mettre en pause, d’augmenter ou de réduire le volume, de couper le son et d’accéder à Internet
 - Forme profilée et design portable avec des clics et un pointage précis et fluides sur la plupart des surfaces et la technologie SilentTouch pour des clics discrets
+- Compatible avec Windows ou ChromeOS, et prêt à lemploi en toute simplicité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W7LF6F1{{</world>}}

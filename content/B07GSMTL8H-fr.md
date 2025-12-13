@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🌟 THÉRAPIE FACIALE À 7 COULEURS DE LED - Le masque de visage de Project E Beauty est équipé dampoules à LED sans UV qui émettent 7 couleurs dénergie lumineuse. Les bienfaits sont lamélioration de la production de collagène, la réduction des rides, lamélioration du teint, de léclat de la peau…!
-- 🌟 INDOLORE ET NON-INVASIVE - La luminothérapie par LED est un traitement qui peut être pratiqué durant la pause déjeuner et qui ne nécessite pas de temps de récupération. Le traitement est indolore, il suffit de sasseoir et de se détendre.Les séances de rajeunissement de la peau sont confortables.
 - 🌟 SESSIONS DE TRAITEMENT FACILES - La thérapie au masque LED est facile à mettre en œuvre. Pour les débutants, vous pouvez utiliser 4 fois par semaine (10 minutes par séance). La durée dutilisation augmente progressivement jusquà 15 minutes au fur et à mesure que la peau shabitue.
+- 🌟 THÉRAPIE FACIALE À 7 COULEURS DE LED - Le masque de visage de Project E Beauty est équipé dampoules à LED sans UV qui émettent 7 couleurs dénergie lumineuse. Les bienfaits sont lamélioration de la production de collagène, la réduction des rides, lamélioration du teint, de léclat de la peau…!
 - 🌟 POUR UNE AMÉLIORATION GLOBALE DE LA PEAU - La luminothérapie par LED a fait ses preuves. Ce masque fait appel à 150 ampoules LED non thermiques et sans UV pour diffuser de lénergie lumineuse dans la peau. Cette énergie stimule les photorécepteurs qui déclenchent la production de collagène.
 - 🌟 CONVIENT À TOUS LES TYPES DE PEAU - Ce masque à LED peut servir de complément à votre routine beauté. Pour les peaux grasses, la lumière bleue aide à contrôler le sébum. La lumière rouge favorise la production de collagène. Choisissez la couleur de la LED en fonction de vos problèmes de peau.
+- 🌟 INDOLORE ET NON-INVASIVE - La luminothérapie par LED est un traitement qui peut être pratiqué durant la pause déjeuner et qui ne nécessite pas de temps de récupération. Le traitement est indolore, il suffit de sasseoir et de se détendre.Les séances de rajeunissement de la peau sont confortables.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GSMTL8H{{</world>}}

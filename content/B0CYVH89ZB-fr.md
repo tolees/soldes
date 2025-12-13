@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
-- Tige en mesh résistant à labrasion avec empiècements synthétiques.
-- Languette à goussets.
 - Semelle intermédiaire en EVA.
-- La tige contient 50 % minimum de matières recyclées.
+- Fermeture à lacets.
 - Semelle extérieure Traxion.
-- Technologie RAIN.RDY et enduction déperlante.
 - Chaussant standard.
+- Languette à goussets.
+- Technologie RAIN.RDY et enduction déperlante.
+- Tige en mesh résistant à labrasion avec empiècements synthétiques.
+- La tige contient 50 % minimum de matières recyclées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYVH89ZB{{</world>}}

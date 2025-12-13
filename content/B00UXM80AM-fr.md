@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleurs pastel assorties : jaune, blanc, violet, rose, bleu, vert, marron.
+- Papier PEFC
 - Adhésif permanent
 - Pochette de 385 pastilles Ø 8 mm.
-- Papier PEFC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00UXM80AM{{</world>}}

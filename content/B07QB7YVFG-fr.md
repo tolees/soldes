@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DISQUES UNIVERSELS : Compatible avec tous les disques de même spécification sur le marché
-- POLYVALENTE : La batterie POWER SHARE est interchangeable avec d’autres outils WORX de 20 V MAX (Version WX801.9 livrée sans batterie ni chargeur)
 - PERFORMANTE : Haute efficacité de coupe grâce à un moteur haute performance
+- DISQUES UNIVERSELS : Compatible avec tous les disques de même spécification sur le marché
 - FACILE DUTILISATION : Légère et ergonomique pour une utilisation à une main et une bonne accessibilité
+- POLYVALENTE : La batterie POWER SHARE est interchangeable avec d’autres outils WORX de 20 V MAX (Version WX801.9 livrée sans batterie ni chargeur)
 - MULTIMATERIAUX : Très polyvalent, pour le métal, le carrelage, le plastique, etc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

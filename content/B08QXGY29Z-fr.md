@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enrichi en Diospyros Kaki de Corée : le kaki est connu pour ses propriétés antioxydantes. L’extrait du fruit contient des molécules astringentes, ce qui aide à resserrer les pores. Les graines de Camélia du Japon améliorent lélasticité de la peau
-- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
-- Astuce beauté : excellente base de teint, Pink Primer & Care sutilise avant lapplication de votre maquillage. Fabriquée en Corée, elle a été testée dermatologiquement. À utiliser avec Super BB Crème et Milk & Peel Balm pour une peau lisse et hydratée
 - Tous les bénéfices d’un Primer, le soin en plus : découvrez Pink Primer & Care qui allie une base de maquillage multi-perfectrice à un soin hydratant en un seul produit. Objectif peau parfaite, sa formule rosée universelle convient à toutes les carnations
+- Enrichi en Diospyros Kaki de Corée : le kaki est connu pour ses propriétés antioxydantes. L’extrait du fruit contient des molécules astringentes, ce qui aide à resserrer les pores. Les graines de Camélia du Japon améliorent lélasticité de la peau
+- Astuce beauté : excellente base de teint, Pink Primer & Care sutilise avant lapplication de votre maquillage. Fabriquée en Corée, elle a été testée dermatologiquement. À utiliser avec Super BB Crème et Milk & Peel Balm pour une peau lisse et hydratée
 - Bénéfices base de teint et soin hydratant : ce cosmétique lisse la peau et uniformise le teint pour une meilleure tenue du maquillage et facilite son application. Il hydrate durablement, améliore la texture de la peau et réduit lapparence des pores
+- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QXGY29Z{{</world>}}

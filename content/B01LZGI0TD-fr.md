@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction de contrôle à distance : Les utilisateurs peuvent contrôler à distance leurs appareils électroménagers via lapplication NGTeco Home, où quils soient.
 - Fonction de contrôle groupé : Plusieurs interrupteurs tactiles WiFi peuvent être regroupés pour un contrôle centralisé et partager les autorisations de contrôle avec les membres de la famille.
 - Avertissement important : Avant de terminer linstallation, assurez-vous de couper lalimentation. Cet interrupteur nécessite un fil neutre et ne prend en charge que le réseau WiFi 2,4 GHz.
+- Fonction de contrôle à distance : Les utilisateurs peuvent contrôler à distance leurs appareils électroménagers via lapplication NGTeco Home, où quils soient.
 - Fonction de programmation : Les utilisateurs peuvent programmer linterrupteur pour quil sallume et séteigne à des heures spécifiques, économisant de lénergie et prolongeant la durée de vie du produit.
 - Contrôle vocal : Cet interrupteur est compatible avec Amazon Alexa, Google Home et IFTTT sur IOS ou Android, permettant de contrôler facilement les appareils par commande vocale.
 

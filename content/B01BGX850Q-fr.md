@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Intérieur en mousse EPS doublé dune épaisse doublure en peluche noire avec un support de manche à portée étendue et un compartiment de rangement pour les accessoires
-- Loquet de verrouillage approuvé par la TSA avec boîtiers de déviation dimpact et gâchettes de déverrouillage rouges. Comprend un jeu de 2 clés
-- Coque extérieure en polyéthylène roto-moulé ATA, avec Valence continue en poudre noire et poignée de transport Ergo-Grip moulée par injection.
-- Dimensions intérieures: Corps Longueur - 18.5" Corps Hauteur - 3.5" Partie Inférieure Largeur - 13.2" Partie Centrale Largeur - 7.5" Partie Supérieure Largeur - 9.4" Longueur Totale - 41.5"
 - Conçu pour les guitares électriques Gibson Les Paul et Single Cutaway
+- Coque extérieure en polyéthylène roto-moulé ATA, avec Valence continue en poudre noire et poignée de transport Ergo-Grip moulée par injection.
+- Loquet de verrouillage approuvé par la TSA avec boîtiers de déviation dimpact et gâchettes de déverrouillage rouges. Comprend un jeu de 2 clés
+- Dimensions intérieures: Corps Longueur - 18.5" Corps Hauteur - 3.5" Partie Inférieure Largeur - 13.2" Partie Centrale Largeur - 7.5" Partie Supérieure Largeur - 9.4" Longueur Totale - 41.5"
+- Intérieur en mousse EPS doublé dune épaisse doublure en peluche noire avec un support de manche à portée étendue et un compartiment de rangement pour les accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BGX850Q{{</world>}}

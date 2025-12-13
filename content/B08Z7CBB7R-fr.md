@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coussin de siège amovible, logo réfléchissant.
-- Nom et adresse étiquette à lintérieur du paquet.
-- Porté comme un sac à dos ou un sac par lintermédiaire de sangles convertibles.
-- Volume: 16 l
 - Populaire sac à dos en tissu résistant à lusure vinylon F.
+- Coussin de siège amovible, logo réfléchissant.
+- Volume: 16 l
+- Porté comme un sac à dos ou un sac par lintermédiaire de sangles convertibles.
+- Nom et adresse étiquette à lintérieur du paquet.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Z7CBB7R{{</world>}}

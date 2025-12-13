@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouet de construction STEM pour garçon ou fille dès 10 ans – Offrez un projet passionnant aux enfants de 10 ans et plus et invitez-les à recréer les détails de la Supercar Lamborghini Revuelto LEGO Technic
-- Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les maquettes en 3D
-- Des fonctionnalités & accessoires amusants à explorer – Les enfants peuvent faire avancer et reculer leur maquette de voiture et commander les phares qui intègrent des éléments phosphorescents
 - Set de construction avec batterie rechargeable incluse – Ce jouet inclut une batterie rechargeable (fonctionne avec un câble USB-C, non inclus) pour alimenter la voiture LEGO
 - Voiture Lamborghini télécommandée – L’application CONTROL+ permet de contrôler les déplacements de la voiture, d’éteindre ou d’allumer les phares et de visualiser les statistiques en temps réel, tout en perfectionnant ses talents de pilote
-- Introduction à l’ingénierie – Les kits de construction LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie
 - Idée de cadeau pour un garçon ou une fille dès 10 ans, passionné(e) de voitures – Ce jeu LEGO est une belle idée de cadeau pour les enfants qui aiment les modèles réduits de voitures à construire et les jouets télécommandés
+- Jouet de construction STEM pour garçon ou fille dès 10 ans – Offrez un projet passionnant aux enfants de 10 ans et plus et invitez-les à recréer les détails de la Supercar Lamborghini Revuelto LEGO Technic
+- Des fonctionnalités & accessoires amusants à explorer – Les enfants peuvent faire avancer et reculer leur maquette de voiture et commander les phares qui intègrent des éléments phosphorescents
+- Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les maquettes en 3D
+- Introduction à l’ingénierie – Les kits de construction LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDTRG1P{{</world>}}

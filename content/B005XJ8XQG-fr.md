@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COUPES RÉPÉTITIVES RAPIDES : Butées intégrées pour des coupes répétitives rapides
+- GARANTIE DE 2 ANS : Livré avec la garantie Evolution "Best-In-Class" de 2 ans, pour une performance garantie
 - COMPACT ET PORTABLE : se replie pour faciliter le rangement et le transport. Léger et facile à transporter dune seule main
 - DÉCHARGE RAPIDE : Supports de montage pour une fixation et un retrait faciles de la scie
 - UNIVERSEL : Compatible avec pratiquement toutes les marques de scies à onglets telles que Evolution, Makita, DeWalt, Bosch, Ryobi, Einhell et bien dautres encore
-- GARANTIE DE 2 ANS : Livré avec la garantie Evolution "Best-In-Class" de 2 ans, pour une performance garantie
 - COMPLETEMENT AJUSTABLE : Rapide et facile à mettre en place grâce aux pieds repliables
 - SUPPORT : pièces de travail jusquà 3 m de long et jusquà 150 kg
 

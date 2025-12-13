@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez toutes les meilleures marques chez EMP!
 - Crâne présentant les caractéristiques suivantes:
-- Mesures: Taille standard
 - Crâne décoratif || Marchandises fun et de fans || Motif: Uni
+- Découvrez toutes les meilleures marques chez EMP!
 - Crânes, Gothic, Horreur, Steampunk
+- Mesures: Taille standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B075MWHMKF{{</world>}}

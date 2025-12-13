@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plusieurs personnages issus de l’émission: le père fouras, la juge blanche, rouge, passe-partout ou encore les maîtres des temps
-- Plusieurs modes de jeu: mode solo, mode party coopératif ou compétitif, et un mode versus renforcé pour plus de fun !
 - 31 Épreuves inspirées de l’émission télévisée, comme le turbo basket, la momie ou encore le temple maudit
+- Plusieurs modes de jeu: mode solo, mode party coopératif ou compétitif, et un mode versus renforcé pour plus de fun !
+- Plusieurs personnages issus de l’émission: le père fouras, la juge blanche, rouge, passe-partout ou encore les maîtres des temps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094XJ8ZTD{{</world>}}

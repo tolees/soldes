@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal comme solution DJ chez vous et pour des prestations professionnelles “on the road”
+- Ensemble complet de fonctionnalités : 16 grands pads RGB, 9 modes de performance incl. banque Scratch et 2 units FX
+- Réglage du volume Master et sortie Cinch
 - Interface USB-Audio intégrée : La connexion directe de haut-parleurs alimentés et découteurs permet de mixer instantanément des pistes de votre collection de musique ou des services de streaming
 - Contrôleur Performance compact pour Serato
-- Réglage du volume Master et sortie Cinch
 - USB-Bus-Powered Design : aucune alimentation électrique nécessaire en cas de raccordement d’un ordinateur portable
-- Ensemble complet de fonctionnalités : 16 grands pads RGB, 9 modes de performance incl. banque Scratch et 2 units FX
+- Idéal comme solution DJ chez vous et pour des prestations professionnelles “on the road”
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WRC6HJ4{{</world>}}

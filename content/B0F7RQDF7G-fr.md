@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’ensemble du purificateur, et pas seulement le système de filtration, est parfaitement hermétique selon la norme HEPA H13 : tout ce qui est capturé n’en ressort pas.¹
-- La technologie Dyson Air Multiplier projette plus de 250 litres par seconde d’un flux d’air homogène et puissant pour vous rafraîchir en été.²
-- La télécommande est incurvée et magnétisée pour faciliter son rangement sur votre appareil.
 - Le système de filtration entièrement scellé capture 99,95 % des allergènes et polluants microscopiques aussi petits que 0,1 micron.¹
+- La technologie Dyson Air Multiplier projette plus de 250 litres par seconde d’un flux d’air homogène et puissant pour vous rafraîchir en été.²
+- L’ensemble du purificateur, et pas seulement le système de filtration, est parfaitement hermétique selon la norme HEPA H13 : tout ce qui est capturé n’en ressort pas.¹
 - Contrôlez et surveillez la qualité de l’air où que vous soyez avec l’application MyDyson, ou bénéficiez du contrôle mains-libres en utilisant les services d’assistance vocale compatibles.⁴
+- La télécommande est incurvée et magnétisée pour faciliter son rangement sur votre appareil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F7RQDF7G{{</world>}}

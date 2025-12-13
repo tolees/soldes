@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GARANTIE : Logicom est toujours au plus près de ses clients. Si toutefois vous nêtes pas satisfait de notre produit, nhésitez pas à contacter notre Service Après-Vente, nous trouverons avec vous une solution adaptée pour remédier à la situation
 - AUTONOMIE : Avec sa batterie de 2100 mAh, vous allez pouvoir discuter encore et encore avec vos proches (jusquà 30h), et si vous avez oublié votre chargeur, pas de panique ; Le XTREM-30 peut rester en veille jusqu’à 7 jours.
-- AVANTAGES : Disposant dune double Nano-SIM, XTREM 40 vous donne la possibilité dêtre joignable sur deux numéros différents simultanément. Un mode vibreur est disponible pour ne rien louper des appels de vos amis.
 - FONCTIONNALITÉS : Vous pouvez passer vos appels et envoyer vos SMS au quotidien grâce au XTREM40. Ce feature phone dispose de 48Mo de stockage et dun support de carte nano SDHC (jusqu’à 32 Go) pour un maximum de stockage.
+- AVANTAGES : Disposant dune double Nano-SIM, XTREM 40 vous donne la possibilité dêtre joignable sur deux numéros différents simultanément. Un mode vibreur est disponible pour ne rien louper des appels de vos amis.
 - ANTI-CHOC : Grâce à sa protection, le XTREM-40 aime la poussière, l’eau et les chocs autant que vous adorez pratiquer un sport en plein air (ski, rafting, randonnée). Il nest pas conseillé dutiliser ce téléphone comme projectile ou moyen de jeu !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

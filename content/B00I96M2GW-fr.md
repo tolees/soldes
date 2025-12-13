@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- BUSE VAPEUR : pour réaliser donctueux cappuccinos avec une mousse parfaite à la maison ; facile à nettoyer
+- FORMAT COMPACT : une des machines les plus compactes du marché, sans compromis sur la capacité (réservoir d’eau de 1,7 L, bac à grains de 260 g) pour préparer jusquà 9 tasses sans vider la machine
+- MOUTURE PROFESSIONNELLE : personnalisez votre boisson grâce au réglage de 3 finesses de mouture
+- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - PURETÉ DES ARÔMES : équipé de la technologie Krups, le système Thermoblock breveté capture le vrai goût du café avec un contrôle optimal de la température pour des résultats exceptionnels
 - UTILISATION INTUITIVE : Interface avec Boutons et LED lumineuses
-- BUSE VAPEUR : pour réaliser donctueux cappuccinos avec une mousse parfaite à la maison ; facile à nettoyer
-- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- MOUTURE PROFESSIONNELLE : personnalisez votre boisson grâce au réglage de 3 finesses de mouture
-- FORMAT COMPACT : une des machines les plus compactes du marché, sans compromis sur la capacité (réservoir d’eau de 1,7 L, bac à grains de 260 g) pour préparer jusquà 9 tasses sans vider la machine
 - MACHINE EXPRESSO AUTOMATIQUE : la machine à café Krups Essential révèle tous les arômes dun café ou dun espresso parfaitement équilibré du grain à la tasse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

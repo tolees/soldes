@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisable uniquement en mode portable
-- Compatible avec Nintendo Switch et Nintendo Switch - Modèle OLED
 - Expérience de manette pleine grandeur en mode portable
 - Licence officielle Nintendo et Bandai-Namco
+- Utilisable uniquement en mode portable
 - Prise en main ergonomique, gâchettes arrières, fonctionnalité turbo et croix directionnelle
+- Compatible avec Nintendo Switch et Nintendo Switch - Modèle OLED
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBNC8R5L{{</world>}}

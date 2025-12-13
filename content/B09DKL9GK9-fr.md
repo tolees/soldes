@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Anneaux anti-emmêlement légers LTS
-- Bon matériau carbone M24
-- Blanks sensibles et réactifs
 - Action vierge rapide
 - Assortiment polyvalent de cannes à pêche carnassier
+- Anneaux anti-emmêlement légers LTS
+- Blanks sensibles et réactifs
+- Bon matériau carbone M24
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DKL9GK9{{</world>}}

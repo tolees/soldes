@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cecotec Aspirateur de Solides et Liquides sans Sacs Wet&Dry T. 1400 W, 7 Mètres de Rayon dAction, Capacité de 15 L, Filtre HEPA et Filtre à Eau, Réglage de la Puissance, Souffleur, 5 Accessoires
-- Marque: Cecotec
 - Type de produit: VACUUM CLEANER
+- Marque: Cecotec
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLD2GS63{{</world>}}

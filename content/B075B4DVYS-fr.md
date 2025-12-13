@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produits de beauté
-- Marque revlon
-- Type de cheveu : tous types de cheveux
-- Marqu : revlon
 - Permanentes et texturisant
+- Type de cheveu : tous types de cheveux
+- Produits de beauté
+- Marqu : revlon
 - Genr : unisexe adulte
 - Marqu : revlon
+- Marque revlon
 - Genr : unisexe adulte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

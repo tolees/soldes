@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🥮 RECETTE : Retrouvez le savoir-faire inimitable de St Michel dans nos madeleines moelleuses et fondantes en sachets fraîcheur pratiques à emporter partout
-- 🐓 DE BONS PRODUITS : Une recette simple et authentique avec de bons ingrédients : des oeufs de poules élevées en plein air, de la farine de blé français issu dune filière durable, sans huile de palme
 - 📍 OÙ : Nos madeleines sont fabriquées dans notre biscuiterie familiale à Contres, dans le Centre de la France
+- 🐓 DE BONS PRODUITS : Une recette simple et authentique avec de bons ingrédients : des oeufs de poules élevées en plein air, de la farine de blé français issu dune filière durable, sans huile de palme
 - 📜 ST MICHEL : Entreprise familiale française, indépendante et fière de l’être, qui travaille pour transmettre le goût des bonnes choses aux nouvelles générations de gourmands
 - 🔎 EN DETAIL : Farine de blé, huile de colza non hydrogénée, oeufs de poules élevées en plein air, sucre, stabilisantl, sirop de glucose-fructose, émulsifiant, poudres à lever, fécule, sel, arôme. Contient soja. Traces éventuelles de lait et de fruits à coque
+- 🥮 RECETTE : Retrouvez le savoir-faire inimitable de St Michel dans nos madeleines moelleuses et fondantes en sachets fraîcheur pratiques à emporter partout
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0722JHBHN{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des combats authentiques à la première personne : Vous aurez à disposition tout un arsenal darmes et de styles de combat réalistes qui conviendront à tous types de joueurs.
-- Une véritable expérience RPG : Vos choix et vos actions détermineront le destin d’Henry et la manière dont le monde réagira à son égard.
 - Le monde médiéval comme si vous y étiez : Immergez-vous dans une représentation incroyablement authentique de la Bohême du XVe siècle.
+- Une véritable expérience RPG : Vos choix et vos actions détermineront le destin d’Henry et la manière dont le monde réagira à son égard.
 - Vivez une histoire d’amour et de vengeance : Incarnez Henry de Skalice, un jeune homme ordinaire qui accomplira des choses extraordinaires
 
 [🛒 Achète-le!!]({{< param buyurl >}})

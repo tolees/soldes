@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de la douche de jardin : Ø11 x 214 cm . Réservoir de 20 litres.
-- GRE propose des solutions pour lentretien des piscines, visant à couvrir tous les besoins nécessaires pour le bon fonctionnement des bassins.
-- Douche avec hauteur et tête ajustable, offrant un plus grand confort dutilisation, parfaite pour se rafraîchir lors des chaudes journées dété.
 - Douche solaire extérieure, PVC , légère et pratique pour vous rafraîchir durant les périodes les plus chaudes de lannée. Elle est dotée dun mitigeur pour régler la température de leau et le débit. La douche de jardin chauffe leau via un réservoir accumulateur en aluminium de 20 litres, en utilisant l’énergie solaire.
+- Douche avec hauteur et tête ajustable, offrant un plus grand confort dutilisation, parfaite pour se rafraîchir lors des chaudes journées dété.
+- GRE propose des solutions pour lentretien des piscines, visant à couvrir tous les besoins nécessaires pour le bon fonctionnement des bassins.
+- Dimensions de la douche de jardin : Ø11 x 214 cm . Réservoir de 20 litres.
 - Douche pour piscine en PVC, élégante et sobre, facile à installer. Il suffit de la fixer au sol et de la connecter à un tuyau darrosage. Ne nécessite aucune connexion électrique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

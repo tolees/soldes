@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - JEU EDUCATIF : Ce jeu stimule les compétences cognitives suivantes : concentration, intelligence spatiale, logique, planification et résolution de problèmes.
 - PIECES A MANIPULER : Vous y trouverez trois grosses pièces de jeu juchées de maisons ainsi que quatre figurines (les cochons et le loup) faciles à manipuler.
 - DE 3 A 6 ANS : « Les Trois Petits Cochons » est un jeu de réflexion idéal pour les jeunes enfants. Les enfants adoreront voir les cochons regarder à travers les fenêtres de leur maison.
-- CONTENU : Un plateau de jeu, trois pièces de jeu avec des petites maisons, trois petits cochons, un loup, un règle de jeu, 48 défis et leur solution, une bande dessinée.
 - JEU DE SOCIETE : Placerez-vous correctement les maisons afin qu’ils puissent jouer à l’extérieur ? Et si jamais le loup apparaît, saurez-vous les aider en les protégeant à l’intérieur des maisons ?
+- CONTENU : Un plateau de jeu, trois pièces de jeu avec des petites maisons, trois petits cochons, un loup, un règle de jeu, 48 défis et leur solution, une bande dessinée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MPVUDRH{{</world>}}

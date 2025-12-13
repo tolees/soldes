@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 100 % coton.
 - Encolure ras-du-cou.
 - Coupe standard.
-- 100 % coton.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZXW4PRS{{</world>}}

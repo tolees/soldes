@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Marque : Puma
 - Référence : 364989-01-43
+- Couleur : noir
 - Homme > Chaussures > Sneakers
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture Velcro
-- Anti-stress
 - Semelle extérieure flexible
-- Rembourrage sous la semelle intérieure
+- Fermeture Velcro
 - Semelle extérieure légère
+- Rembourrage sous la semelle intérieure
+- Anti-stress
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004A7YDXO{{</world>}}

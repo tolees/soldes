@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réfrigération jusquà 18 °C en dessous de la température ambiante
 - Trois plages de tension pour une utilisation en voiture, en camion et en intérieur
-- Mini-réfrigérateur portable pour véhicules, voitures, camions, camping-cars, maison et jardin
+- Réfrigération jusquà 18 °C en dessous de la température ambiante
 - Capacité de 39 litres pour des bouteilles de 2 litres en position verticale
 - Le couvercle divisé assure une perte de froid minimale lors de louverture de la glacière
+- Mini-réfrigérateur portable pour véhicules, voitures, camions, camping-cars, maison et jardin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B6VDHL6{{</world>}}

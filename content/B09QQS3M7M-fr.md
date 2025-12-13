@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vieilli entre 12 et 18 mois en fûts de chêne
-- Bouche : Rond - Gingembre, vanille, noix de coco
 - Finale : Frais - Mélasse amer, chocolat, agrumes
 - Rhum pur jus de canne & miel de canne à sucre
+- Vieilli entre 12 et 18 mois en fûts de chêne
+- Bouche : Rond - Gingembre, vanille, noix de coco
 - Nez : Floral - Fleurs blanche, nougat, anis étoilé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

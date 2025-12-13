@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Department: Garçon
 - Coupe standard pour un confort décontracté et facile
 - Ce produit est composé à 100 % de polyester recyclé
 - Maille sur le dos et sur les manches pour une bonne circulation de lair, afin que vous puissiez
 - Technologie Dri-Fit pour rester au sec et à laise
+- Department: Garçon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9K83SQ{{</world>}}

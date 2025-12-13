@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un verre Chroma moderne dans un design rétro
-- Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
 - À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
 - Gold Mist crée un aspect de pellicule Kodak Gold
 - Comprend une boîte de film rétro pour contenir le filtre
+- Un verre Chroma moderne dans un design rétro
+- Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DV9XP7BP{{</world>}}

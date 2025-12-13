@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- INGRÉDIENTS EXTRA DURABLES
 - Gore-Tex
 - Matériau naturel :
-- INGRÉDIENTS EXTRA DURABLES
 - Adhérence extra large
 
 [🛒 Achète-le!!]({{< param buyurl >}})

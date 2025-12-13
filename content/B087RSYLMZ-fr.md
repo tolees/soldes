@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu : 1x Columbia CSC Basic Logo tee-shirt manches courtes homme, Couleur : Bleu (Navy Blue), Taille: M, 1680053
+- Logo Columbia tendance
 - Confort optimal grâce au tissu 100% jersey de coton
 - Haut à manches courtes pour homme, Idéal toute lannée
 - Disponible en différentes couleurs
-- Logo Columbia tendance
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087RSYLMZ{{</world>}}

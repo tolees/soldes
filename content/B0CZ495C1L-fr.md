@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Smart TV (Tizen) - Crystal UHD
-- 3 x HDMI - 1 x USB - 2 pieds - PC sur TV
-- LED Ultra HD 4K - 138 cm (55 pouces)
 - Son 2.0 de 20 W RMS
 - Wifi (5) - Bluetooth (5.2)
+- 3 x HDMI - 1 x USB - 2 pieds - PC sur TV
+- LED Ultra HD 4K - 138 cm (55 pouces)
+- Smart TV (Tizen) - Crystal UHD
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZ495C1L{{</world>}}

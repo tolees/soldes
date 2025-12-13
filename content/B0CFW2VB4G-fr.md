@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 minifigurines NINJAGO – Ce modèle à construire inclut les personnages de Maître Lloyd, Maître Wu, Lord Ras, Nya, Kai et Euphrasia pour permettre aux enfants de rejouer des scènes de la saison 2 de la série TV NINJAGO Le soulèvement des dragons
-- Un sanctuaire riche en aventures – Les garçons et les filles dès 13 ans peuvent construire, jouer et décorer leur chambre avec ce grand sanctuaire de la roche du dragon doté de fonctionnalités mobiles et de nombreuses minifigurines NINJAGO
-- Un beau cadeau ninja – Ce jouet d’action propose une superbe expérience de construction et de jeu et constitue une belle idée de cadeau d’anniversaire pour les garçons et les filles dès 13 ans passionnés de ninjas
-- Un dragon interactif – Ce set LEGO NINJAGO inclut une zone d’entraînement qui peut être déplacée vers la gauche ou vers la droite pendant les combats entre les personnages et une pièce secrète qui apparaît lorsque l’on pousse les livres
 - Un jouet de combat regorgeant de fonctionnalités – Le set LEGO NINJAGO offre un dragon de pierre, une cascade, un cerisier en fleurs, une bibliothèque avec des parchemins, des livres et un service à thé, ainsi qu’une pièce secrète
+- Un sanctuaire riche en aventures – Les garçons et les filles dès 13 ans peuvent construire, jouer et décorer leur chambre avec ce grand sanctuaire de la roche du dragon doté de fonctionnalités mobiles et de nombreuses minifigurines NINJAGO
+- 6 minifigurines NINJAGO – Ce modèle à construire inclut les personnages de Maître Lloyd, Maître Wu, Lord Ras, Nya, Kai et Euphrasia pour permettre aux enfants de rejouer des scènes de la saison 2 de la série TV NINJAGO Le soulèvement des dragons
+- Un dragon interactif – Ce set LEGO NINJAGO inclut une zone d’entraînement qui peut être déplacée vers la gauche ou vers la droite pendant les combats entre les personnages et une pièce secrète qui apparaît lorsque l’on pousse les livres
+- Un beau cadeau ninja – Ce jouet d’action propose une superbe expérience de construction et de jeu et constitue une belle idée de cadeau d’anniversaire pour les garçons et les filles dès 13 ans passionnés de ninjas
 - Aide à la construction – Découvrez les instructions intuitives de l’application LEGO Builder, où les constructeurs peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et enregistrer leurs sets, en développant des compétences
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PETIT MAIS COSTAUD – La Trust GXT 1619 Rhox peut sembler petite en taille, mais avec ses 12 W de puissance de crête (6 W RMS), elle joue dans la cour des grands. Gagnez de la place sans perdre en expérience
-- CLIC CLIC BOUM – Branchez le câble de 3,5 mm pour le son, branchez lUSB pour les lumières et profitez de vos chansons, films et jeux préférés, avec des effets sonores saisissants !
-- SON ET LUMIÈRES – Une barre de son pour PC avec barre lumineuse : la RVB sur le bas de la Rhox peut adopter 6 modes lumineux différents, alors à vous de jouer !
-- COMMANDES À PORTÉE DE MAIN – Avec son grand bouton illuminé au centre de la Rhox, le contrôle du volume est à portée de main
 - LA VIE EN STÉRÉO – Même si la Rhox ressemble à une simple enceinte PC, elle intègre deux haut-parleurs. Profitez dun son stéréo net avec une seule unité
+- CLIC CLIC BOUM – Branchez le câble de 3,5 mm pour le son, branchez lUSB pour les lumières et profitez de vos chansons, films et jeux préférés, avec des effets sonores saisissants !
+- COMMANDES À PORTÉE DE MAIN – Avec son grand bouton illuminé au centre de la Rhox, le contrôle du volume est à portée de main
+- SON ET LUMIÈRES – Une barre de son pour PC avec barre lumineuse : la RVB sur le bas de la Rhox peut adopter 6 modes lumineux différents, alors à vous de jouer !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVGZBYBQ{{</world>}}

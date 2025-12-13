@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design emboîtable - Aucun outil nécessaire
-- Accès au bouton dalimentation avec LED dactivité visible
-- Ventilé pour une circulation dair optimale
 - Offre un accès à tous les ports importants et broches GPIO
+- Accès au bouton dalimentation avec LED dactivité visible
 - Boîtier avec ventilateur PWM à utiliser avec le connecteur spécial du ventilateur
+- Design emboîtable - Aucun outil nécessaire
+- Ventilé pour une circulation dair optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CN5Q28TX{{</world>}}

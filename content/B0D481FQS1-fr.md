@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plongez dans une épopée daction-aventure historique au cœur du Japon féodal !
-- Incarnez une shinobi meurtrière et un puissant samouraï légendaire tout en explorant un magnifique monde ouvert plongé dans le chaos.
 - Alternez facilement entre deux alliés inattendus et découvrez le destin qui les unit au début de cette nouvelle ère pour le Japon.
+- Incarnez une shinobi meurtrière et un puissant samouraï légendaire tout en explorant un magnifique monde ouvert plongé dans le chaos.
+- Plongez dans une épopée daction-aventure historique au cœur du Japon féodal !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D481FQS1{{</world>}}

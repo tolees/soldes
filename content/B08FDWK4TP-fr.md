@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jeu à haute valeur didactique : encourage lobservation et limagination ; augmente la concentration et lattention ; et suscite un intérêt pour des objets et des habitudes que lon ne connaît pas.
-- Le kit magnétique représentant un modèle de corps humain aide les enfants à se familiariser avec les différentes parties du corps humain.
 - Recommandé pour les enfants à partir de 5 ans.
 - Chaque lot contient : 1 plateau magnétique de 28 cm à insérer dans la base de la boîte et 63 carreaux magnétiques représentant différentes parties du corps humain, du squelette, des organes et des muscles.
+- Le kit magnétique représentant un modèle de corps humain aide les enfants à se familiariser avec les différentes parties du corps humain.
 - Comprend 15 feuilles contenant des informations détaillées en 12 langues différentes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

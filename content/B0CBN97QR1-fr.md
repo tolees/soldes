@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gâchettes à action rapide
 - Longueur du câble : 3m
 - Inclut la fonction Turbo
-- Sous licence officielle de Nintendo
 - Prise en main ergonomique
+- Sous licence officielle de Nintendo
+- Gâchettes à action rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBN97QR1{{</world>}}

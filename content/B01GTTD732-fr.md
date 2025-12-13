@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Face arrière recouverte de polaire
+- face arrière recouverte de polaire
 - Fabriqué en sisal
 - À fixer au mur ou aux coins de la pièce
-- face arrière recouverte de polaire
+- Face arrière recouverte de polaire
 - À fixer au mur ou aux coins de la pièce
 - Fabriqué en sisal
 

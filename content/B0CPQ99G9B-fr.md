@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baskets basses légères et respirantes
-- Lacets et fermeture éclair
 - Chaussures faciles à enfiler
+- Lacets et fermeture éclair
+- Baskets basses légères et respirantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPQ99G9B{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - DOUX POUR UN USAGE QUOTIDIEN : Laisse la peau lisse et rafraîchie, avec un éclat radieux.
 - NETTOIE EFFICACEMENT LA PEAU : Un puissant nettoyant-exfoliant visage en gelée dans une formule purifiante. Élimine laccumulation de pollution, dimpuretés et de saletés.
+- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - ENRICHI DE 2 EXFOLIANTS: Cet exfoliant visage aide à éliminer les cellules mortes grâce à deux types dexfoliants : lacide salicylique et la poudre de bambou.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

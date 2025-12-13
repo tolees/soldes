@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Non étanche
 - Fermeture : éthylène-acétate de vinyle
 - Forme du talon : plat
+- Non étanche
 - Matériau extérieur : tissu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

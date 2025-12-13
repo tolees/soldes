@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cest un crayon pour les yeux pour une couleur parfaite dès le premier coup
-- La texture crémeuse permet une application sur la paupière et la ligne deau des yeux
 - Le crayon est imperméable et résistant à labrasion afin que vous puissiez profiter dun trait parfait tout au long de la journée
+- La texture crémeuse permet une application sur la paupière et la ligne deau des yeux
 - Avec le taille-crayon intégré, la pointe restera toujours ultra précise
 - Le crayon est disponible en 3 teintes intenses
+- Cest un crayon pour les yeux pour une couleur parfaite dès le premier coup
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08P3BTHCD{{</world>}}

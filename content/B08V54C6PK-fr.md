@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - En tirant sur la queue du Mega Wrex, ses lumières et ses sons s’activent et il avale les véhicules à l’échelle 1/64 qui croisent son chemin.
 - Avec ce gigantesque véhicule Hot Wheels Monster Trucks Mega Wrex Extrême, les enfants peuvent donner vie à leur monstre préféré en lui faisant avaler, puis expulser des véhicules à l’échelle 1/64 !
-- Mega Wrex, l’un des personnages préférés des fans, est parfait dans le rôle du monstre mangeur de véhicules.
 - Des heures de jeu en perspective pour les enfants de 3 ans et plus qui souhaitent apporter une nouvelle dimension à leur collection de Monster Trucks.
+- Mega Wrex, l’un des personnages préférés des fans, est parfait dans le rôle du monstre mangeur de véhicules.
 - Un Monster Truck unique, aux fonctionnalités incroyables, pour une imagination dévorante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

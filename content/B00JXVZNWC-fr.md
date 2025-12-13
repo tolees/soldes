@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- (MWL5S-A)
+- Pentel marqueur MAXIFLO MWL5S pour tableau blanc, noir
+- pointe ogive fine, largeur de tracé: 2,0 mm, corps mince,
 - effacable à sec, encre fluide, corps en plastique,
 - capuchon relevable, avec système à pompe
-- (MWL5S-A)
-- pointe ogive fine, largeur de tracé: 2,0 mm, corps mince,
-- Pentel marqueur MAXIFLO MWL5S pour tableau blanc, noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JXVZNWC{{</world>}}

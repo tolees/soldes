@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils d’utilisation : Réaliser un test d’allergie au préalable 48h avant application, Lire attentivement la notice avant toute application, Quantité recommandée : 1 boîte (cheveux mi-longs), 2 boîtes (cheveux longs)
+- Résultats : Des cheveux légers, nourris et protégés contre le dessèchement, 100% de couverture des cheveux blancs, Multitude de reflets, Couleur intense et uniforme
 - Crème veloutée sans coulure et formulée sans ammoniaque pour un parfum floral léger et agréable à l’application, Technologie O.D.S composée à 60% d’huile pour propulser la couleur au cœur du cheveu
 - Contenu : 1x Boîte de coloration permanente Garnier Olia, Noir/Châtain Foncé Pur (3.0), Inclus : gants, bouillote, lait révélateur, crème colorante, soin et notice d’utilisation
-- Résultats : Des cheveux légers, nourris et protégés contre le dessèchement, 100% de couverture des cheveux blancs, Multitude de reflets, Couleur intense et uniforme
+- Conseils d’utilisation : Réaliser un test d’allergie au préalable 48h avant application, Lire attentivement la notice avant toute application, Quantité recommandée : 1 boîte (cheveux mi-longs), 2 boîtes (cheveux longs)
 - Coloration permanente aux huiles naturelles de fleurs pour un noir à leffet châtain foncé pur et longue tenue, Qualité du cheveu visiblement améliorée et confort optimal du cuir chevelu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

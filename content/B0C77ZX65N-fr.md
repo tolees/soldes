@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets sur le devant avec œillet en TPU contrasté
-- Logo au talon, sur la languette et sur le côté
 - Semelle intermédiaire en mousse EVA
-- Col de cheville rembourré
 - Bout perforé
+- Col de cheville rembourré
+- Logo au talon, sur la languette et sur le côté
+- Fermeture à lacets sur le devant avec œillet en TPU contrasté
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C77ZX65N{{</world>}}

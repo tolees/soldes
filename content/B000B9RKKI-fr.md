@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adapté aux voitures avec oeillets de remorquage
 - Peut être branché ensemble (3 parties)
+- Adapté aux voitures avec oeillets de remorquage
 - Version galvanisée
 - Modèle avec tube carré
 

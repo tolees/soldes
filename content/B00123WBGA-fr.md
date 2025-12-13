@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige : Nubuck (Cuir de vachette)
-- Coutures à 360° pour une meilleure durabilité
 - Brides élastiques pour un bon ajustement
+- Coutures à 360° pour une meilleure durabilité
+- Tige : Nubuck (Cuir de vachette)
 - Couleur : marron foncé
 - Semelle extérieure / Caracteristiques : TPU avec technologie Contact Earth pour une meilleure résistance à labrasion
 

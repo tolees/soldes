@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute protection UV Haute protection UV testée cliniquement en laboratoire et dans des conditions réelles de rayonnement solaire élevé
 - Ne pas irriter les yeux évalué sous contrôle ophtalmologique
 - Tolérance optimale texture ultralégère. Absorption immédiate et dhydratation intense sans résidu. Convient à tous les types de peau
+- Haute protection UV Haute protection UV testée cliniquement en laboratoire et dans des conditions réelles de rayonnement solaire élevé
 - Crème solaire avec hydratation intense et absorption immédiate. Convient aux peaux atopiques. Nirrite pas les yeux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

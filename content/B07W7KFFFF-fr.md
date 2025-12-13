@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité avec les jeux de course: G923 pour Playstation compatible avec la plupart des jeux de course PS5, PS4 et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
-- Double embrayage programmable: un idéal démarrage avec un double embrayage programmable comme une véritable voiture de course directement à partir de la manette (jeux compatibles uniquement)
-- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
-- Design de course premium: nouveau design d’équipement Logitech G avec matériaux premium: couvre volant noir cousu à la main et pédales en métal poli; le plaisir de la conduite chez vous
 - Commandes de jeux sur le volant: ajustez la sensibilité du volant, les niveaux de retour de force et la conduite simulée avec le logiciel de jeu Logitech G Hub pour personnaliser les boutons
 - Contrôlez votre jeu:témoin lumineux intégré pour le régime; commandes de jeu intégrées PlayStation 5, PS4 ou PC,sélecteur à 24 points et ressort de freinage progressif pour une conduite sous contrôle
+- TRUEFORCE:la technologie TRUEFORCE nouvelle génération se connecte aux moteurs du jeu pour un retour dinformation HD; vivez une expérience de conduite ultime avec un traitement à 4 000 fois par sec
+- Double embrayage programmable: un idéal démarrage avec un double embrayage programmable comme une véritable voiture de course directement à partir de la manette (jeux compatibles uniquement)
+- Design de course premium: nouveau design d’équipement Logitech G avec matériaux premium: couvre volant noir cousu à la main et pédales en métal poli; le plaisir de la conduite chez vous
+- Compatibilité avec les jeux de course: G923 pour Playstation compatible avec la plupart des jeux de course PS5, PS4 et PC sélectionnés pour TRUEFORCE; téléchargez Logitech G HUB
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W7KFFFF{{</world>}}

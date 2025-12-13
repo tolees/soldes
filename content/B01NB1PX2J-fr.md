@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour les peaux normales à grasses, il attire et élimine 2x plus d’impuretés et d’excès de sébum qu’un nettoyant classique.
-- Nettoie les pores en profondeur et purifie naturellement la peau (les pores sont 2 fois plus propres, dès la 1ère utilisation).
-- Testé dermatologiquement. Non gras. Non-comédogène. Vegan Friendly.
-- Formulé avec la Technologie Purifiante Exclusive (TPE) Bioré : directement venue du Japon, cette technologie purifiante brevetée nettoie efficacement la peau sans perturber son hydratation en ciblant les impuretés et l’excès de sébum à l’origine des imperfections.
 - Les pores sont purifiés, la peau est nettoyée en profondeur.
+- Formulé avec la Technologie Purifiante Exclusive (TPE) Bioré : directement venue du Japon, cette technologie purifiante brevetée nettoie efficacement la peau sans perturber son hydratation en ciblant les impuretés et l’excès de sébum à l’origine des imperfections.
+- Testé dermatologiquement. Non gras. Non-comédogène. Vegan Friendly.
+- Nettoie les pores en profondeur et purifie naturellement la peau (les pores sont 2 fois plus propres, dès la 1ère utilisation).
 - Apporte une sensation de fraîcheur et de douceur sur la peau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

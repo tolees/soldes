@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Chaussure de course
 - Amorti avancé
 - Tige synthétique
-- Chaussure de course
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D5G6DRPZ{{</world>}}

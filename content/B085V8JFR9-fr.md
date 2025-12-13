@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONÇU POUR LE VOYAGE : trois zones de stockage, des séparateurs moulés en EVA, la ceinture amovible et une conception légère vous garantissent confort et ergonomie lors de vos voyages
-- ACCÉDEZ RAPIDEMENT À TOUT CE DONT VOUS AVEZ BESOIN : Le système d’ouverture rapide QuickDoor à double configuration vous permet d’accéder rapidement à votre appareil pour ne manquer aucun cliché
-- PROTÉGEZ VOTRE MATÉRIEL ESSENTIEL : Transportez votre appareil photo hybride ou votre reflex avec de 2 à 3 objectifs additionnels ou un drone DJI pliable, ainsi quun PC portable ou une tablette 13" dans ce sac de voyage
 - PROTECTION CONTRE LES IMPACTS ET LES INTEMPÉRIES : La housse AW et le tissu enduit protègent votre matériel contre l’abrasion ou l’humidité et un compartiment dédié permet de ranger un PC portable 13"
+- ACCÉDEZ RAPIDEMENT À TOUT CE DONT VOUS AVEZ BESOIN : Le système d’ouverture rapide QuickDoor à double configuration vous permet d’accéder rapidement à votre appareil pour ne manquer aucun cliché
+- CONÇU POUR LE VOYAGE : trois zones de stockage, des séparateurs moulés en EVA, la ceinture amovible et une conception légère vous garantissent confort et ergonomie lors de vos voyages
+- PROTÉGEZ VOTRE MATÉRIEL ESSENTIEL : Transportez votre appareil photo hybride ou votre reflex avec de 2 à 3 objectifs additionnels ou un drone DJI pliable, ainsi quun PC portable ou une tablette 13" dans ce sac de voyage
 - UNE QUALITÉ SUR LAQUELLE VOUS POUVEZ COMPTER : Le système de fermeture éclair #10, à la fois robuste et fluide, vous assure un maximum de fiabilité et de performance pendant de longues années
 
 [🛒 Achète-le!!]({{< param buyurl >}})

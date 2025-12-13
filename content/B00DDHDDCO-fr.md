@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sous licence officielle en 3D Light FX.
 - Belle idée de cadeau.
 - Autocollant craquelé effet 3D inclus.
-- Sous licence officielle en 3D Light FX.
-- Nécessite 3 piles AA (non incluses).
 - Sans fil, peut être placée nimporte où dans la pièce.
+- Nécessite 3 piles AA (non incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DDHDDCO{{</world>}}

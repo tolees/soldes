@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zones interdites : définissez facilement à laide de lapplication les zones de votre maison que vous souhaitez exclure du nettoyage et ne vous en préoccupez pas. Total Surface : si le robot na plus de batterie, il retourne automatiquement à sa base de charge et reprend le nettoyage là où il sest arrêté, terminant la tâche programmée une fois quil a été rechargé.
+- Aspiration jusquà 220 m2 pendant 220 minutes sans interruption. Sa batterie de 3200 mAh et son autonomie daspiration ininterrompue de 220 minutes en font le robot idéal pour couvrir jusquà 220 m²* de surface. *Selon les tests effectués dans le laboratoire. Le rendement réel varie en fonction de la distribution des pièces.
 - Base de vidange automatique : Oubliez de vider le réservoir pendant des semaines, grâce au sac hygiénique de 2,5 litres inclus dans la base.
 - Navigation laser : Créez un plan interactif de votre maison pour un nettoyage précis et personnalisé de chaque pièce de votre maison. Room Plan : vous pouvez définir, planifier et programmer le nettoyage de toute votre maison ou de certaines pièces grâce à la carte générée sur l’application. Choisissez lordre du nettoyage, enregistrez une carte des différents étages, choisissez des zones restreintes.
 - Le robot aspire, nettoie le sol, balai et passe la serpillière. Vous pouvez choisir quil effectue ces tâches individuellement ou simultanément. Il comprend une brosse centrale en silicone qui permet de nettoyer en profondeur de nombreuses surfaces, idéale pour ramasser les poils danimaux.
-- Aspiration jusquà 220 m2 pendant 220 minutes sans interruption. Sa batterie de 3200 mAh et son autonomie daspiration ininterrompue de 220 minutes en font le robot idéal pour couvrir jusquà 220 m²* de surface. *Selon les tests effectués dans le laboratoire. Le rendement réel varie en fonction de la distribution des pièces.
+- Zones interdites : définissez facilement à laide de lapplication les zones de votre maison que vous souhaitez exclure du nettoyage et ne vous en préoccupez pas. Total Surface : si le robot na plus de batterie, il retourne automatiquement à sa base de charge et reprend le nettoyage là où il sest arrêté, terminant la tâche programmée une fois quil a été rechargé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1FX6M2D{{</world>}}

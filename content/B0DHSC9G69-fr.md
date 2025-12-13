@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SET LEGO DE VOITURES DE COURSE RÉALISTE – Ces voitures personnalisables portent les couleurs et les logos de vraies écuries de F1 pour permettre aux tout-petits de recréer des courses de F1 réalistes
-- JEU CRÉATIF AVEC GRUE POUR LE DÉVELOPPEMENT DE LA MOTRICITÉ FINE – Les enfants en bas âge recréent l’action d’un arrêt au stand en attachant les voitures au crochet pour les soulever
 - ENCORE PLUS D’ACTION DE F1 À GRANDE VITESSE – Découvrez d’autres jeux de construction LEGO sur le thème de la Formule 1 (vendus séparément) pour construire, décorer une pièce et jouer à la course en famille
-- JOUETS DE CONSTRUCTION MONTESSORI POUR DÉVELOPPER DES COMPÉTENCES – Tous les jouets LEGO DUPLO contribuent au développement de compétences : ce set LEGO permet de renforcer le raisonnement spatial, la coordination œil-main et la motricité fine
 - CONSTRUIRE UN JEU LEGO EN FAMILLE – Partagez votre passion pour la F1 avec votre enfant dès 24 mois grâce à ce jouet interactif qui comprend 10 voitures de course à construire, 3 briques de pilotes, une grue, des feux de départ & un podium
 - BEAU CADEAU DANNIVERSAIRE POUR LES ENFANTS DÈS 2 ANS – Faites plaisir à un tout-petit avec un cadeau créatif qui a été testé avec soin pour garantir une expérience de jeu sûre
+- JOUETS DE CONSTRUCTION MONTESSORI POUR DÉVELOPPER DES COMPÉTENCES – Tous les jouets LEGO DUPLO contribuent au développement de compétences : ce set LEGO permet de renforcer le raisonnement spatial, la coordination œil-main et la motricité fine
+- JEU CRÉATIF AVEC GRUE POUR LE DÉVELOPPEMENT DE LA MOTRICITÉ FINE – Les enfants en bas âge recréent l’action d’un arrêt au stand en attachant les voitures au crochet pour les soulever
+- SET LEGO DE VOITURES DE COURSE RÉALISTE – Ces voitures personnalisables portent les couleurs et les logos de vraies écuries de F1 pour permettre aux tout-petits de recréer des courses de F1 réalistes
 - JOUET DE CONSTRUCTION DE VOITURES DE COURSE POUR IMAGINER ET S’AMUSER – Entraînez votre tout-petit dans le monde de la Formule 1 avec le jeu Voitures de course et pilotes d’une écurie de F1
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Memoire interne: 128 Go - RAM: 6 Go
 - Appareil photo de 50 + 8 + 5 Mégapixels
 - Smartphone sous systeme Android 14
+- Memoire interne: 128 Go - RAM: 6 Go
 - Ecran de 6.6 - 4G: Oui
 
 [🛒 Achète-le!!]({{< param buyurl >}})

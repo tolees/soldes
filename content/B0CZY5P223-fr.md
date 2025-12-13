@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format : DVD
 - Type de produit : film physique
+- Format : DVD
 - Over The Top Bd
 
 [🛒 Achète-le!!]({{< param buyurl >}})

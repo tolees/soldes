@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application : Appliquer sur les longueurs humides, Laisser poser 5 minute puis rincer, Poursuivre avec le Shampooing et le Démêlant Intense Pro Bond Repair pour un résultat optimal
-- Contenu : 1x Pré-shampooing SOS Elseve Pro Bond Repair de LOréal Paris, 200 ml
-- Pré-shampooing réparateur pour recréer les ponts internes des cheveux abîmés et sur-sollicités, 1ère étape du protocole Pro Bond Repair, Idéal pour les cheveux fragilisés par les appareils chauffants, colorations et décolorations
 - Complexe Bond Repair enrichi à lAcide Citrique (12%), Flacon en plastique 100% recyclé et recyclable (hors colorants et bouchon)
+- Contenu : 1x Pré-shampooing SOS Elseve Pro Bond Repair de LOréal Paris, 200 ml
+- Application : Appliquer sur les longueurs humides, Laisser poser 5 minute puis rincer, Poursuivre avec le Shampooing et le Démêlant Intense Pro Bond Repair pour un résultat optimal
 - Résultats : Cheveux restaurés retrouvant leur force dorigine, +82% des cheveux renforcés*, -98% de casse*, +90% de brillance* (*Test instrumental après 6 applications du Pré-Shampooing, Shampooing et Démêlant de la gamme)
+- Pré-shampooing réparateur pour recréer les ponts internes des cheveux abîmés et sur-sollicités, 1ère étape du protocole Pro Bond Repair, Idéal pour les cheveux fragilisés par les appareils chauffants, colorations et décolorations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKKKMKLP{{</world>}}

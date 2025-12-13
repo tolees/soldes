@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% polyester
-- Manche courte
 - Fermeture: Enfiler
+- Manche courte
+- 100% polyester
 - Type de col: Col une pièce
 
 [🛒 Achète-le!!]({{< param buyurl >}})

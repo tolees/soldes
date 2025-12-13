@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE AVEC LA GAMME EPIC HERO SERIES : Cette figurine est compatible avec la majorité des véhicules, des accessoires et des figurines de la gamme Epic Hero Series exclusive à Hasbro, Vendus séparément, dans la limite des stocks
-- FIGURINE ARTICULÉE : Cette figurine Star Wars a plusieurs points darticulation et tient debout sans support pour que les enfants puissent lui faire prendre des poses dynamiques
 - FIGURINE STAR WARS : Cette figurine Star Wars Stormtrooper de 10 cm a un design et des détails inspirés du personnage
 - ACCESSOIRE DE FIGURINE : Ce coffret Star Wars inclut un blaster qui tient facilement dans les mains de la figurine de Stormtrooper
+- FIGURINE ARTICULÉE : Cette figurine Star Wars a plusieurs points darticulation et tient debout sans support pour que les enfants puissent lui faire prendre des poses dynamiques
+- COMPATIBLE AVEC LA GAMME EPIC HERO SERIES : Cette figurine est compatible avec la majorité des véhicules, des accessoires et des figurines de la gamme Epic Hero Series exclusive à Hasbro, Vendus séparément, dans la limite des stocks
 - STORMTROOPER : Les Stormtroopers sont des troupes d’assaut d’élite fanatiquement loyales à l’Empire et à la cause impériale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTENU DU JEU : 1 puzzle de 76 pièces - dimension du puzzle : 56x40 cm. Un poster guide votre enfant.
 - APPRENDRE EN SAMUSANT : ce puzzle éducatif développe le sens de lobservation et de lassociation des enfants. Ils pourront découvrir le nom des planètes tout en samusant et en développant leur motricité fine.
 - PUZZLE SYSTÈME SOLAIRE : ludique et éducatif, le puzzle Système solaire permet de voyager dans lespace et de découvrir les planètes.
-- CONFORME AUX NORMES CE. À partir de 6 ans.
 - La marque Avenue Mandarine devient My Mandarine ! Pendant la période de transition, vous pourrez donc recevoir un packaging signé de l’une ou l’autre de ces marques. Mais, bien entendu, le contenu du produit sera toujours le même.
-- CONTENU DU JEU : 1 puzzle de 76 pièces - dimension du puzzle : 56x40 cm. Un poster guide votre enfant.
+- CONFORME AUX NORMES CE. À partir de 6 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07PNRDND6{{</world>}}

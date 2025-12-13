@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Facile à transporter : grâce à la dragonne robuste, cette radio numérique est facile à emporter partout. Grâce à son design compact et élégant, cette radio DAB FM est un cadeau idéal pour tout le monde.
 - Radio numérique DAB/DAB+ et FM : avec la simple pression dun bouton ou avec une pression prolongée de quelques secondes, cette radio DAB+ FM offre une qualité audio cristalline et recherche automatiquement toutes les stations de radio disponibles, en les affichant sur lécran LED clair, de sorte que vous savez exactement quel émetteur vous écoutez à tout moment. La radio numérique Lychee DAB est adaptée pour une utilisation dans la cuisine, la maison, le jardin, le camping et plus encore.
-- Longue durée de vie : grâce à la batterie rechargeable de 4000 mAh et au câble de charge Type-C, il garantit une utilisation durable.
 - Radio multifonction : cette radio DAB a une fonction de réveil pour régler lheure du réveil. En outre, il peut être connecté à un casque de 3,5 mm pour profiter de votre temps libre.
+- Longue durée de vie : grâce à la batterie rechargeable de 4000 mAh et au câble de charge Type-C, il garantit une utilisation durable.
 - Jouer de manière multifonction : le Bluetooth 5.0 se connecte en quelques secondes à votre téléphone portable/ordinateur pour jouer votre musique préférée. Vous pouvez également lire vos morceaux préférés à partir de la carte TF et de la clé USB sur cette radio numérique Dab, afin que vous puissiez écouter de la musique sans aucune restriction.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : lacets
 - Matériau extérieur : cuir
 - Semelle : éthylène-acétate de vinyle
+- Fermeture : lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZVKKVFQ{{</world>}}

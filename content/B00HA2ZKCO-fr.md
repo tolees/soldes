@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plis pour un transport compact dans sac de transport inclus
 - Eddy charnières pour faciliter les adaptations sur deux boutons
 - UPF 50 + aliments pour protection solaire maximale
-- Plis pour un transport compact dans sac de transport inclus
 - Pince universelle relie la plupart des surfaces
 - 4 chemin pivotants toit
 

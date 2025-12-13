@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Col, poignets et ourlet côtelés
 - Maille tricot
 - Épaules légèrement tombantes
 - Col en V
-- Col, poignets et ourlet côtelés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D1VJD4MS{{</world>}}

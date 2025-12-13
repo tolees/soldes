@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- BOÎTIER SWITCH TRANSPARENT : le design entièrement transparent montre la véritable luminosité de Razer Chroma RGB — des réglages déclairage détaillés à encore plus dimmersion, car le clavier réagit de manière dynamique à plus de 150 jeux compatibles.
 - SWITCHES MÉCANIQUES RAZER GREEN : chaque frappe de touche vous permet dentendre et de ressentir de riches commentaires, tandis que le design classique gâte avec un déclenchement optimisé et des points de retour qui permettent de meilleures performances pendant le jeu.
 - Capuchons de touches ABS DOUBLESHOT : grâce à un procédé de moulage double shot, linscription ne peut jamais suser et les touches ont des côtés extra épais, ce qui les rend extrêmement robustes et peuvent également être facilement éliminés du spamming constant.
-- CONTRÔLE MULTIFONCTIONS NUMÉRIQUES ET BOUTON MEDIA : ces touches peuvent être configurées pour mettre en pause, lire et sauter des morceaux de musique. Vous pouvez également régler le volume ou la luminosité pour un divertissement parfait.
 - TECHNOLOGIE RAZER HYPERSPEED SANS FIL : profitez de jeux sans fil sans latence grâce à Razer HyperSpeed ou connectez jusquà 3 appareils via Bluetooth – basculez facilement entre eux avec un seul interrupteur. Comprend un câble USB-C amovible pour charger pendant que vous jouez.
-- BOÎTIER SWITCH TRANSPARENT : le design entièrement transparent montre la véritable luminosité de Razer Chroma RGB — des réglages déclairage détaillés à encore plus dimmersion, car le clavier réagit de manière dynamique à plus de 150 jeux compatibles.
+- CONTRÔLE MULTIFONCTIONS NUMÉRIQUES ET BOUTON MEDIA : ces touches peuvent être configurées pour mettre en pause, lire et sauter des morceaux de musique. Vous pouvez également régler le volume ou la luminosité pour un divertissement parfait.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08GCT1LPB{{</world>}}

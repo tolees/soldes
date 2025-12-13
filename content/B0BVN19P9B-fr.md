@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage RGB dynamique sur dix zones : illuminez votre système avec dix LED RGB ultra lumineuses paramétrables individuellement par module, intégrées dans une barre lumineuse panoramique offrant un éclairage RGB éclatant depuis tous les angles de vue.
 - Création et personnalisation : choisissez parmi des dizaines de profils d’éclairage prédéfinis ou créez votre propre style avec iCUE.
 - Découvrez des performances de pointe : Repoussez les limites de votre système comme jamais auparavant avec la mémoire DDR5 CORSAIR, permettant des fréquences encore plus élevées, de meilleures capacités et une puissance de traitement de processeur améliorée.
-- Profils Intel XMP 3.0 personnalisables : personnalisez et enregistrez vos propres profils XMP via iCUE pour définir la performance par application ou par tâche pour une meilleure efficacité.
 - Régulation de tension intégrée : permet un overclocking plus simple, plus stable et plus précis par rapport aux générations précédentes via le logiciel CORSAIR iCUE.
+- Éclairage RGB dynamique sur dix zones : illuminez votre système avec dix LED RGB ultra lumineuses paramétrables individuellement par module, intégrées dans une barre lumineuse panoramique offrant un éclairage RGB éclatant depuis tous les angles de vue.
+- Profils Intel XMP 3.0 personnalisables : personnalisez et enregistrez vos propres profils XMP via iCUE pour définir la performance par application ou par tâche pour une meilleure efficacité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVN19P9B{{</world>}}

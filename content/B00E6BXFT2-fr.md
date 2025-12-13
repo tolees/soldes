@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bout fermé
 - Bandes élastiques : facile à installer.
+- Bout fermé
 - Motif solide
 - Fermeture : à enfiler
 

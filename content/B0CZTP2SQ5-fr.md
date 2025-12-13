@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 5 cm x 15 cm x 21 cm.
-- Compartiment principal zippé.
 - Bandoulière réglable.
+- Dimensions : 5 cm x 15 cm x 21 cm.
 - Poche zippée sur le devant.
+- Compartiment principal zippé.
 - Partie extérieure : 100 % polyester (recyclé). Partie intérieure : 100 % élastomère thermoplastique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

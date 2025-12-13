@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mises à jour gratuites et régulières pour bénéficier de nouvelles fonctionnalités
 - Ecran couleur haute résolution et batterie rechargeable
 - Mode examen intégré (obligatoire lycée général, professionnel et BTS)
-- Mises à jour gratuites et régulières pour bénéficier de nouvelles fonctionnalités
 - Programmation en Python intégrée avec coloration syntaxique pour une saisie facilitée des programmes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

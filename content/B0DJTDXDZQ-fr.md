@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - COUSSIN DE GROSSESSE : son grand format allongé sadapte à la morphologie de la femme enceinte et à ses positions - Soutient en même temps le ventre, le dos & les jambes
 - SIMPLE A UTILISER : en quelques gestes, vous passez du modèle Grossesse au format Allaitement - Vous ouvrez la fermeture éclair, sortez et retournez la housse puis répartissez les microbilles - Rechargeable
-- ECO-RESPONSABLE : certifié Oeko-Tex, GOTS (assure la non-toxicité des matériaux) - Remplissage microbilles certifié Toxproof (non toxiques) - Housse en coton bio - Sac de transport en plastique recyclé
 - INNOVATION BREVETEE : coussin 2 en 1 unique - Innovation brevetée - Parfaitement adapté aux besoins de la femme enceinte et aux jeunes parents (allaitement ou biberon)
+- ECO-RESPONSABLE : certifié Oeko-Tex, GOTS (assure la non-toxicité des matériaux) - Remplissage microbilles certifié Toxproof (non toxiques) - Housse en coton bio - Sac de transport en plastique recyclé
 - COUSSIN DALLAITEMENT : une version plus compacte, idéale pour allaiter (en madone, ballon de rugby, allongé...) ou donner le biberon - Votre bébé est à la bonne hauteur, votre dos est bien calé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

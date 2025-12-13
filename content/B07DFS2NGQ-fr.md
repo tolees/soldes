@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - A Way Out est une expérience pour deux joueurs
-- A Way Out est une aventure jouable en co-op, dans laquelle vous incarnez deux détenus s’échappant de prison
 - Ce qui commence comme une évasion palpitante devient vite une cavale imprévisible et pleine d’émotion, absolument unique dans un jeu vidéo
-- Avec la fonction pass ami essai gratuit, vivez toute l’expérience avec vos amis sans acheter le jeu
+- A Way Out est une aventure jouable en co-op, dans laquelle vous incarnez deux détenus s’échappant de prison
 - Chaque joueur contrôle l’un des personnages principaux, Leo et Vincent, improbables alliés s’échappant de prison en quête de liberté
+- Avec la fonction pass ami essai gratuit, vivez toute l’expérience avec vos amis sans acheter le jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07DFS2NGQ{{</world>}}

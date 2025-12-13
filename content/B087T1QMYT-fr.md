@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coutures à 360° : plus de durabilité.
 - Semelle extérieure en TPU avec technologie Contact Earth : résistance à labrasion
 - Couleur : marron
+- Coutures à 360° : plus de durabilité.
 - Nubuck
 - Groupe de travail du cuir certifié
 

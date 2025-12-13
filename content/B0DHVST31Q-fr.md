@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
 - Semelle extérieure en caoutchouc Continental
 - Doublure textile
-- Semelle intermédiaire en EVA LIGHTMOTION
-- Chaussant standard
-- Poids : 460 g (pointure FR 42 2/3)
 - Tige ripstop avec empiècements
+- Poids : 460 g (pointure FR 42 2/3)
+- Semelle intermédiaire en EVA LIGHTMOTION
 - Fermeture à lacets
+- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
+- Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVST31Q{{</world>}}

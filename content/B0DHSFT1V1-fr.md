@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Que contient la boîte ? – Un jouet de construction LEGO avec tout ce dont les enfants ont besoin pour construire une voiture de course de F1 McLaren avec une minifigurine LEGO de pilote
-- Construction numérique – Retrouvez les instructions de ce jeu de construction de voiture de course dans l’application LEGO Builder, où les enfants peuvent enregistrer leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- Un beau cadeau danniversaire pour garçons et filles dès 6 ans – Surprenez votre jeune fan de course automobile avec cette voiture de F1 McLaren, un superbe cadeau pour les enfants passionnés de mécanique
 - Jouet LEGO conçu pour le jeu et la décoration intérieure – Cette voiture miniature présente un design F1 aérodynamique avec des pneus slick et s’accompagne d’une minifigurine de pilote McLaren pour des courses palpitantes
-- Une ville sans limites – LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination, avec des véhicules, des structures et des habitants qui les invitent à construire, créer, explorer et jouer
-- Voiture de course de Formule 1 LEGO pour les garçons et les filles dès 6 ans – Les enfants plongent dans la passion de la course automobile avec La voiture de course McLaren avec pilote de F1 LEGO City
+- Que contient la boîte ? – Un jouet de construction LEGO avec tout ce dont les enfants ont besoin pour construire une voiture de course de F1 McLaren avec une minifigurine LEGO de pilote
+- Un beau cadeau danniversaire pour garçons et filles dès 6 ans – Surprenez votre jeune fan de course automobile avec cette voiture de F1 McLaren, un superbe cadeau pour les enfants passionnés de mécanique
 - Encore plus d’action de F1 à grande vitesse – Découvrez d’autres sets de construction LEGO sur le thème de la Formule 1 (vendus séparément), pour construire, décorer une pièce et faire la course en famille
+- Construction numérique – Retrouvez les instructions de ce jeu de construction de voiture de course dans l’application LEGO Builder, où les enfants peuvent enregistrer leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- Voiture de course de Formule 1 LEGO pour les garçons et les filles dès 6 ans – Les enfants plongent dans la passion de la course automobile avec La voiture de course McLaren avec pilote de F1 LEGO City
+- Une ville sans limites – LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination, avec des véhicules, des structures et des habitants qui les invitent à construire, créer, explorer et jouer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHSFT1V1{{</world>}}

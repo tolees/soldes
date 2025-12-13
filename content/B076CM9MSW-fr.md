@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour une couleur vive jusquau prochain service de couleur
 - Revlon issimo 45 jours compense la perte progressive de couleur due à laccumulation continue de pigments
 - Pas besoin de gants
 - Non seulement il lave et entretient, mais il crée un bouclier protecteur
-- Pour une couleur vive jusquau prochain service de couleur
 - Produits de beauté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

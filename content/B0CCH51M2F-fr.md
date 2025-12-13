@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzle pour enfants de 150 pièces
-- Puzzle pour enfants - Grand plaisir de pose pour les petits explorateurs
 - Dimensions du puzzle : 43,2 x 29,1 cm
 - Âge recommandé : à partir de 7 ans
+- Puzzle pour enfants - Grand plaisir de pose pour les petits explorateurs
+- Puzzle pour enfants de 150 pièces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CCH51M2F{{</world>}}

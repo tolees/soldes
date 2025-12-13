@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : cuir
-- Matériau intérieur : non aplicable
-- Fermeture : Lace-Up
 - Semelle : caoutchouc
+- Matériau intérieur : non aplicable
+- Matériau extérieur : cuir
+- Fermeture : Lace-Up
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7VVZ91{{</world>}}

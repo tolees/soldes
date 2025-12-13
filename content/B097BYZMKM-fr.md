@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme légère et symétrique
-- Interrupteurs optiques testés pour 100 millions de clics
-- Jusquà 100 heures dautonomie | Résistance à leau et à la poussière
 - Capteur optique 400 IPS et 19 000 DPI| Câble USB-C amovible avec charge rapide
+- Forme légère et symétrique
 - Mode 2,4 GHz (performance) + Bluetooth 5.2 (polyvalence)
+- Jusquà 100 heures dautonomie | Résistance à leau et à la poussière
+- Interrupteurs optiques testés pour 100 millions de clics
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097BYZMKM{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouet de combat à construire : la plate-forme construite en brique dispose de 3 platines intégrées pour les batailles de figurines LEGO et une fonction pour recréer le saut dEzra hors de la plate-forme
-- Construisez, jouez et créez un présentoir Star Wars : Ahsoka – La plate-forme de cet ensemble de 382 pièces mesure plus de 10,2 cm. Hauteur : 11 cm. 23 cm de large et 14 cm. Profondeur : 14 cm
-- Jouets de construction de collection pour tous les âges – Les ensembles LEGO Star Wars permettent aux enfants et aux adultes fans de Star Wars de recréer des scènes classiques, de créer leurs propres aventures ou simplement dafficher les modèles à construire
-- LEGO Jouet de construction Star Wars pour enfants – Recréez le duel dAhsoka Tano sur Peridea contre larmée du Grand Amiral Thrawn de la finale de la saison 1 de Star Wars : Ahsoka
-- 5 figurines LEGO Star Wars - Ahsoka Tano, Grand Amiral Thrawn, Morgan Elsbeth, Ezra Bridger et un Night Trooper
 - Accessoires ludiques - Ce jouet de collection comprend 2 sabres laser blancs pour Ahsoka Tano, un blaster pour lamiral Thrawn, la Lame de Talzin pour Morgan Elsbeth, un sabre laser bleu pour Ezra Bridger et le blaster du Night Troopers
+- Jouets de construction de collection pour tous les âges – Les ensembles LEGO Star Wars permettent aux enfants et aux adultes fans de Star Wars de recréer des scènes classiques, de créer leurs propres aventures ou simplement dafficher les modèles à construire
+- Jouet de combat à construire : la plate-forme construite en brique dispose de 3 platines intégrées pour les batailles de figurines LEGO et une fonction pour recréer le saut dEzra hors de la plate-forme
+- LEGO Jouet de construction Star Wars pour enfants – Recréez le duel dAhsoka Tano sur Peridea contre larmée du Grand Amiral Thrawn de la finale de la saison 1 de Star Wars : Ahsoka
 - Cadeau amusant pour les enfants de 8 ans : offrez ce jouet daventure en briques LEGO comme cadeau de vacances ou danniversaire à des garçons, des filles ou tout jeune fan de Star Wars : Ahsoka
+- 5 figurines LEGO Star Wars - Ahsoka Tano, Grand Amiral Thrawn, Morgan Elsbeth, Ezra Bridger et un Night Trooper
+- Construisez, jouez et créez un présentoir Star Wars : Ahsoka – La plate-forme de cet ensemble de 382 pièces mesure plus de 10,2 cm. Hauteur : 11 cm. 23 cm de large et 14 cm. Profondeur : 14 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV25NNRT{{</world>}}

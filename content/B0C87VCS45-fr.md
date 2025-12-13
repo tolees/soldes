@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2001 : Odyssée dans lespace/Mouvement orange/Shining/veste entièrement en métal
 - Stanley Kubrick 4K Collection 9Disc Boxset
+- 2001 : Odyssée dans lespace/Mouvement orange/Shining/veste entièrement en métal
 - Stanley Kubrick 4K Collection 9Disc Box Set (2001 : Odyssée dans lespace/Mouvement Orange/The Sh
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 75 % polyester, 10 % textile (65 % nylon, 35 % polyuréthane), 10 % synthétique (70 % polyuréthane, 30 % polyester), 5 % synthétique
+- Semelle extérieure : semelle extérieure en EVA pour un poids léger
+- Doublure :
 - Matériau extérieur : cuir (cuir de vache)
 - Couleur : noir
-- Semelle extérieure : semelle extérieure en EVA pour un poids léger
-- 75 % polyester, 10 % textile (65 % nylon, 35 % polyuréthane), 10 % synthétique (70 % polyuréthane, 30 % polyester), 5 % synthétique
-- Doublure :
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GC9LYHH{{</world>}}

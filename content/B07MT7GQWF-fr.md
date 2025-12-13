@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DEUX PORTS DE CHARGE USB : Deux ports USB-A vous permettent de charger des appareils simultanément à 2,4 A chacun. Il est parfait pour les smartphones Apple et Android haut de gamme tels que liPhone X et le Samsung Galaxy.
-- PUISSANTS DEUX MOTEURS - Le réglage électrique continu de la hauteur (73 x 120 cm) assure un réglage uniforme et silencieux (vitesse de levage de 3,8 cm par seconde).
 - PLATEAU EN VERRE TREMPÉ - Travaillez avec style sur un plateau en verre moderne avec bord biseauté pour une belle surface de travail confortable (24" de large x 48" de profondeur).
+- PUISSANTS DEUX MOTEURS - Le réglage électrique continu de la hauteur (73 x 120 cm) assure un réglage uniforme et silencieux (vitesse de levage de 3,8 cm par seconde).
+- DEUX PORTS DE CHARGE USB : Deux ports USB-A vous permettent de charger des appareils simultanément à 2,4 A chacun. Il est parfait pour les smartphones Apple et Android haut de gamme tels que liPhone X et le Samsung Galaxy.
 - CONTRÔLEUR DE HAUTEUR À ÉCRAN TACTILE - Comprend 3 boutons de mémoire tactiles et un écran LED bleu froid pour un réglage facile et cohérent tout au long de la journée. Abaissez la table en étant assis. Élevez-le rapidement à la hauteur idéale lorsque vous le souhaitez.
 - FACILE À ASSEMBLER ET À UTILISER - Lassemblage prend moins de 15 minutes et ne nécessite que 16 vis du début à la fin. Fixez simplement les pieds au plateau de la table pour créer un bureau entièrement assemblé.
 

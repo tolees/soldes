@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La 9Forty présente une calotte basse et profilée bien ajustée à la tête,
-- Casquette structurée classique avec un look authentique.
 - Une visière incurvée et une languette arrière ajustable pour convenir à la plupart des tours de tête.
+- Casquette structurée classique avec un look authentique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0000A1ANQ{{</world>}}

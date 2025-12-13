@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cadran round en couleur noir.
 - Montre analogique quartz pour homme.
-- Résistance à leau: 10 atm.
 - Boîtier round de acier inoxydable, couleur gris.
+- Résistance à leau: 10 atm.
 - Bracelet de cuir, couleur noir, avec fermeture à boucle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

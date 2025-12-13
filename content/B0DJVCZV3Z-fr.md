@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système damortissement de pointe
 - Conception hybride route/sentier
+- Système damortissement de pointe
 - Esthétique rétro
 
 [🛒 Achète-le!!]({{< param buyurl >}})

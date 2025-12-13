@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couverture des imperfections
-- Poudre douce miscible
 - Avec applicateur de poudre et miroir à lintérieur pour une application facile en déplacement
-- Convient à toutes les couleurs et textures de peau
 - Disponible dans la couleur Rose Vanilla
+- Couverture des imperfections
+- Convient à toutes les couleurs et textures de peau
+- Poudre douce miscible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004CZ7CYG{{</world>}}

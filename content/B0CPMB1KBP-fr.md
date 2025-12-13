@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile et rapide à mettre en place
-- Fermeture à lacets élastiques
 - Ruban adhésif simple
+- Fermeture à lacets élastiques
+- Facile et rapide à mettre en place
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPMB1KBP{{</world>}}

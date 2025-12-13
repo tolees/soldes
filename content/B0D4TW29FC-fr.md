@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure coussinée
 - Idéal sur les surfaces naturelles et synthétiques
+- Semelle intérieure coussinée
 - Toucher précis
 
 [🛒 Achète-le!!]({{< param buyurl >}})

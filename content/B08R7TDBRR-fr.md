@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau supérieur: cuir / polyester
-- Semelle extérieure EVA pour la légèreté
 - Meilleur produit: Notre objectif daméliorer continuellement notre produit et de réduire notre impact. Pour être considéré comme un meilleur produit, une chaussure doit avoir au moins 50% de sa composition en utilisant de meilleurs matériaux tout en maintenant les mêmes normes de qualité, de durabilité et de confort que nous attendons toujours. Notre objectif est que toutes les chaussures correspondent à ce critère dici 2025.
+- Semelle extérieure EVA pour la légèreté
+- Matériau supérieur: cuir / polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7TDBRR{{</world>}}

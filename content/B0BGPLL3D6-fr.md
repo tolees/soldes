@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Percez le mystère de LUSG Ishimura: Vivez une expérience narrative enrichie et dévoilez les sombres secrets de lusg ishimura au fil des derniers rapports de son équipage maudit et de vos rencontres avec les rares survivants qui demeurent
+- Plongez dans lhorreur sf nouvelle génération: Des pièces et espaces de travail terrifiants d’un équipage massacré, aux sons étranges d’un vaisseau laissé à l’abandon, vous explorerez un cadre sf époustouflant, rempli de moments imprévisibles et tendus qui ne vous laisseront aucun répit
 - Une expérience plus intense et plus immersive: Entre le rendu spectaculaire des graphismes, lambiance sonore pleine de suspense et lamélioration du gameplay, ce remake sublime lexpérience de jeu
 - Improvisez pour survivre: Affrontez le cauchemar à bord de lusg ishimura avec un gameplay stratégique devenu culte. Réutilisez et améliorez les outils disaac pour vaincre vos ennemis de façon créative et précise
-- Plongez dans lhorreur sf nouvelle génération: Des pièces et espaces de travail terrifiants d’un équipage massacré, aux sons étranges d’un vaisseau laissé à l’abandon, vous explorerez un cadre sf époustouflant, rempli de moments imprévisibles et tendus qui ne vous laisseront aucun répit
+- Percez le mystère de LUSG Ishimura: Vivez une expérience narrative enrichie et dévoilez les sombres secrets de lusg ishimura au fil des derniers rapports de son équipage maudit et de vos rencontres avec les rares survivants qui demeurent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGPLL3D6{{</world>}}

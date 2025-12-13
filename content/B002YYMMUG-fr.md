@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il ne suffit que dun petit effort pour que le vide échappe du bocal, qui est alors facile à ouvrir
 - Louvre-bocal original le plus facile au monde
+- Il ne suffit que dun petit effort pour que le vide échappe du bocal, qui est alors facile à ouvrir
 - Avec ce modèle vous pouvez également ouvrir les bouteilles à capsule
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

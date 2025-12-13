@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Les pompes GRE sadaptent à toutes les piscines du marché, pas seulement à la gamme de piscines démontables GRE. Vous pouvez ainsi bénéficier de la sécurité, de la confiance et de la durabilité pour garder votre piscine saine et parfaite avec des produits certifiés et de la meilleure qualité.
 - Pompe de filtration pour piscines jusqu’à 100 m³ de volume. Elle peut filtrer jusqu’à 20000 litres d’eau par heure, avec une puissance de 900W. C’est un élément fondamental du système de filtration de la piscine, puisqu’elle aspire l’eau à travers le skimmer et la renvoie une fois filtrée.
-- Pompe centrifuge auto-amorçante à haute efficacité, pour le nettoyage et lentretien des piscines enterrées, semi-enterrées ou hors-sol.
 - Cette pompe filtrante est respectueuse de lenvironnement, réduisant les coûts inutiles et rendant le nettoyage de leau plus efficace et rapide.
+- Pompe centrifuge auto-amorçante à haute efficacité, pour le nettoyage et lentretien des piscines enterrées, semi-enterrées ou hors-sol.
 - La sécurité et la polyvalence de GRE arrivent chez vous avec des accessoires pour piscines de tous types. Avec une large gamme darticles spécialisés et certifiés pour garantir la plus grande sécurité dans les piscines et spas, nous offrons des produits pour le soin de la piscine les plus innovants pour obtenir lexpérience de la piscine parfaite.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : Cuir
-- Type de Talon : Plat
 - Type de fermeture : Lacet
 - Matériau unique : 100% EVA
+- Type de Talon : Plat
+- Matériau extérieur : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001ACU1II{{</world>}}

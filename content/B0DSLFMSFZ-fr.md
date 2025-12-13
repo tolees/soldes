@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe décontractée
 - Matériau en molleton doux
+- Coupe décontractée
 - Poches arrière avec fermeture à bouton-pression pour un rangement sécurisé
 - Ceinture élastiquée
 

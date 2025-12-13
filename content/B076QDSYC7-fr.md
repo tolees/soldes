@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Surface peinte pour une durabilité accrue et une meilleure protection contre la corrosion.
 - Fabriquée en fonte solide de grande qualité pour une résistance fiable et conçue pour durer.
-- Poids : 12 kg - .
 - La large poignée texturée permet dassurer une prise en main confortable et sécurisée. Peut être tenue à une ou deux mains.
 - La kettlebell permet de pratiquer un grand nombre dexercices de résistance.
+- Surface peinte pour une durabilité accrue et une meilleure protection contre la corrosion.
+- Poids : 12 kg - .
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076QDSYC7{{</world>}}

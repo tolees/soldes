@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : Lacets
 - Matière : Textile, Synthétique
-- Genre : Masculin
 - Pointure : 46 EU
+- Fermeture : Lacets
+- Genre : Masculin
 - Age : Adulte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

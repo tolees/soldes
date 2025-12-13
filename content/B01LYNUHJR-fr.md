@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture étanche aux odeurs
-- Poubelle 20 L, avec seau intérieur en plastique
 - Service et garantie Brabantia 10 ans
 - Opération fermeture silencieuse et pédale ultra légère
 - Produite à 40% de matériaux recyclés de haute qualité - après usage, recyclable à 98%
+- Poubelle 20 L, avec seau intérieur en plastique
+- Fermeture étanche aux odeurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01LYNUHJR{{</world>}}

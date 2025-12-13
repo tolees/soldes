@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - UNE QUALITÉ DIMAGE INCROYABLE : un capteur plein format de 24,2 MP avec Double ISO natif, pour des images époustouflantes même en basse lumière
 - AUTOFOCUS PRÉCIS ET INTELLIGENT : mise au point ultra rapide sur les yeux, visages et animaux, de près comme de loin
-- VIDEO PROFESSIONNELLE : vidéo 4K en 4:2:2 10bit avec fonctions V-Log & Mode Anamorphique, Slow Motion 180ips
 - ERGONOMIE OPTIMISÉE : un boîtier plein format ultra compact et léger, résistant et tropicalisée, avec écran tactile orientable et une autonomie de 1500 images
+- VIDEO PROFESSIONNELLE : vidéo 4K en 4:2:2 10bit avec fonctions V-Log & Mode Anamorphique, Slow Motion 180ips
 - DOUBLE STABILISATION : jusqu’à 6.5 stops en capteur+optique pour des images ultra nettes dans toutes les conditions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDEAL POUR ALLER PLUS LOIN : les amateurs qui veulent un objectif compact de tous les jours (Sony E 16-50mm) et un zoom supplémentaire (Sony E 55-210mm) pour photographier et filmer le sport et la nature
 - AUTOFOCUS RAPIDE ET PRÉCIS : comptez sur lAF en 0,02s, le suivi en Temps Réel des Yeux, pour garder votre sujet parfaitement net en toute situation
 - CAPTUREZ LES ANGLES CRÉATIFS : cadrez facilement votre sujet lors dune prise de vue au raz du sol ou audessus des têtes avec lécran arrière inclinable Selfie
-- SAISIR LES MOMENTS DÉCISIFS : Jusquà 11 images/seconde en continu avec suivi AF/AE
+- IDEAL POUR ALLER PLUS LOIN : les amateurs qui veulent un objectif compact de tous les jours (Sony E 16-50mm) et un zoom supplémentaire (Sony E 55-210mm) pour photographier et filmer le sport et la nature
 - A EMPORTER PARTOUT : Grâce à sa conception ultra compacte et légère, lA6100 est idéal pour les voyage et en photo et en vidéo
+- SAISIR LES MOMENTS DÉCISIFS : Jusquà 11 images/seconde en continu avec suivi AF/AE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07X49FWWS{{</world>}}

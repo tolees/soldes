@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 9 CONSTRUCTIONS MINIATURES – Un établi, une chaise, un porte-outils, des étagères, une boîte de pièces de rechange, une grue, un seau pour créer l’atelier du forgeron, ainsi qu’un véhicule Jawa à construire & un sapin de Noël
-- CADEAU DE FÊTES LEGO STAR WARS POUR LES ENFANTS DÈS 6 ANS – Ce calendrier de l’Avent est un cadeau amusant à offrir en attendant les fêtes à un garçon, une fille ou un fan de Star Wars
-- SETS LEGO STAR WARS COLLECTOR – Les sets de construction LEGO Star Wars permettent aux enfants et aux fans adultes de recréer des scènes culte, d’imaginer des jeux de rôle épiques ou simplement dexposer leurs maquettes en briques
-- PERSONNAGES LEGO STAR WARS – Minifigurines de C-3PO et un Jawa, figurine de Babu Frik, ainsi que 5 figurines de droïdes : R7-A7, BD-72, un droïde de combat en ferraille, BB-8 (bonhomme de neige) & un super droïde de combat
-- CONSTRUIRE ET JOUER – Les petites constructions et les personnages de ce set modulable peuvent être combinés avec d’autres sets LEGO Star Wars (vendus séparément) pour créer une infinité d’histoires
 - 8 DROÏDES LEGO À CONSTRUIRE – Un droïde pit, un droïde Gonk, un droïde buzz, un droïde médical, un droïde B2EMO, un droïde Treadwell, un droïde souris & un droïde sonde
+- SETS LEGO STAR WARS COLLECTOR – Les sets de construction LEGO Star Wars permettent aux enfants et aux fans adultes de recréer des scènes culte, d’imaginer des jeux de rôle épiques ou simplement dexposer leurs maquettes en briques
+- CADEAU DE FÊTES LEGO STAR WARS POUR LES ENFANTS DÈS 6 ANS – Ce calendrier de l’Avent est un cadeau amusant à offrir en attendant les fêtes à un garçon, une fille ou un fan de Star Wars
 - JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 6 ANS AVEC CALENDRIER DE L’AVENT LEGO STAR WARS – Les enfants deviennent des forgerons de droïdes comme Babu Frik en découvrant chaque jour des jouets uniques à construire en attendant Noël
+- 9 CONSTRUCTIONS MINIATURES – Un établi, une chaise, un porte-outils, des étagères, une boîte de pièces de rechange, une grue, un seau pour créer l’atelier du forgeron, ainsi qu’un véhicule Jawa à construire & un sapin de Noël
+- CONSTRUIRE ET JOUER – Les petites constructions et les personnages de ce set modulable peuvent être combinés avec d’autres sets LEGO Star Wars (vendus séparément) pour créer une infinité d’histoires
+- PERSONNAGES LEGO STAR WARS – Minifigurines de C-3PO et un Jawa, figurine de Babu Frik, ainsi que 5 figurines de droïdes : R7-A7, BD-72, un droïde de combat en ferraille, BB-8 (bonhomme de neige) & un super droïde de combat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ6ZX7{{</world>}}

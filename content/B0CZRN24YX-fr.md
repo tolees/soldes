@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients actifs – Le soin corps hydratant contient 12 % de glycérine et de vitamine E qui hydratent et soulagent instantanément les peaux extra-sèches et rugueuses
-- Conseils d’application – Appliquez quotidiennement le soin corporel à la texture riche et non grasse sur tout le corps en insistant sur les zones sèches
 - Hydratation longue durée – Le soin femme pour le corps hydrate intensément la peau et prévient les tiraillements durant 72 h* pour une peau douce & confortable
 - Réparateur – Le soin riche pour le corps renforce la barrière cutanée afin de prévenir la perte d’hydratation et de réparer les zones sèches et abîmées de la peau
+- Ingrédients actifs – Le soin corps hydratant contient 12 % de glycérine et de vitamine E qui hydratent et soulagent instantanément les peaux extra-sèches et rugueuses
+- Conseils d’application – Appliquez quotidiennement le soin corporel à la texture riche et non grasse sur tout le corps en insistant sur les zones sèches
 - Emballage – NIVEA REPAIR & CARE Baume Réparateur Multi Usage Peaux Très Sèches, Soin peau sèche hydratation longue durée, Crème réparatrice peaux tiraillées, 1 x 400 ml, numéro d’article : 84545
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

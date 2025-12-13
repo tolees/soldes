@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Description du produit: Denon DP-300F
 - Consommation électrique: 2 W
+- Couleur: Noir, Argent
 - Tension dentrée AC: 80-260 V
 - Dimensions du produits (LxHxP): 434 x 381 x 122 mm
-- Poids: 5,5 kg
 - Fréquence dentrée AC: 60 Hz
-- Description du produit: Denon DP-300F
-- Couleur: Noir, Argent
+- Poids: 5,5 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000KVWBKQ{{</world>}}

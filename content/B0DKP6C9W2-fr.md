@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Processeur 5G 4 nm puissant et économe en énergie, Snapdragon7s Gen 3 ;
 - Système de caméra AI pro-grade 200MP : LIA rend la prise de photos tellement plus amusante, plus simple et plus intelligent, en améliorant lexpérience globale de lutilisateur ;
-- AI features: AI Erase Pro,AI Image Expansion,AI Notes,AI subtitles,AI recorder,AI interpreter,Gemini,Circle to search by Google;
+- Processeur 5G 4 nm puissant et économe en énergie, Snapdragon7s Gen 3 ;
 - IP68 poussièreEt résistance à leau : Structure résistante à leau, résistance à la poussière ;
+- AI features: AI Erase Pro,AI Image Expansion,AI Notes,AI subtitles,AI recorder,AI interpreter,Gemini,Circle to search by Google;
 - HyperCharge 120W avec batterie 5110mAh ; écran de soins oculaires 1.5K 120Hz, Corning Gorilla Glass Victus 2 ;
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

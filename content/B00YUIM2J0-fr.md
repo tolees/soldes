@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rotation du Volant à 900° : avec la rotation de blocage à 900° du volant Driving Force, vous pouvez faire tourner le volant jusquà deux fois et demi
-- Volant en Cuir: le volant revêtu de cuir cousu à la main confère un certain luxe à tous les véhicules
 - Expérience de Conduite Parfaite: le volant de course Logitech G29 pour PlayStation 5, PS4, PC et Mac. Fourni avec des pédales. Rendu réaliste du pilotage
 - Retour de Force Réaliste: volant Logitech Driving Force doté d’un retour de force à deux moteurs pour ressentir la conduite au maximum
+- Volant en Cuir: le volant revêtu de cuir cousu à la main confère un certain luxe à tous les véhicules
 - Pédales Réglables: maintenez une position de conduite plus vraie que nature grâce à lunité de pédales séparée intégrant commande des gaz, pédales dembrayage et de frein
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réf : M9160C_39
-- Matière(s) : - Type de baskets : Montantes
 - Type de fermeture : Lacet
+- Matière(s) : - Type de baskets : Montantes
 - Noir
+- Réf : M9160C_39
 - Délais de livraison : 48h à 72H
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

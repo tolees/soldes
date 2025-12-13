@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette coupe oversize taille très grand, nous vous recommandons de prendre une taille ou deux en dessous
-- Un col rond classique et très doux qui se porte avec tout
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 - Avec notre logo emblématique
+- Cette coupe oversize taille très grand, nous vous recommandons de prendre une taille ou deux en dessous
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 - Ceci est un authentique produit Levi’s
+- Un col rond classique et très doux qui se porte avec tout
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00VLN6PYA{{</world>}}

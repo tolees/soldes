@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPLICATION COMPAGNON – Téléchargez l’appli LEGO Super Mario qui propose des instructions de montage, des astuces inspirantes et plus encore ; pour la liste des appareils Android et iOS compatibles, consultez LEGO.com/devicecheck
+- JOUET TRAIN AVEC 6 MINIFIGURINES LEGO SUPER MARIO – Le set inclut un Frère Marto, un Boum Boum, 2 Goombas et 2 Paracoccinellys pour que les enfants puissent inventer des histoires inspirées de leur jeu vidéo favori et jouer seul ou en famille
 - ACCESSOIRES & CARACTÉRISTIQUES AMUSANTES – Découvrez notamment la locomotive avec plateforme tournante actionnée par un levier & une brique d’action Super étoile, le wagon de passagers avec un toit amovible & le wagon à canon avec fusil à ressort
 - STIMULEZ L’IMAGINATION DES JEUNES CONSTRUCTEURS LEGO – Conçus pour que les enfants puissent jouer seul ou à plusieurs, les sets LEGO Super Mario offrent des possibilités d’extension et de transformation, ainsi que de nombreux défis amusants
-- UN CADEAU AMUSANT SUR LE THÈME DES JEUX VIDEO SUPER MARIO POUR GARÇON OU FILLE DÈS 9 ANS – Offrez ce set de construction LEGO Super Mario Train Bowser Express pour un anniversaire à des enfants fans de Mario
-- JOUET TRAIN AVEC 6 MINIFIGURINES LEGO SUPER MARIO – Le set inclut un Frère Marto, un Boum Boum, 2 Goombas et 2 Paracoccinellys pour que les enfants puissent inventer des histoires inspirées de leur jeu vidéo favori et jouer seul ou en famille
-- JEU INTERACTIF & NUMÉRIQUE – Aidez la figurine de LEGO Mario, LEGO Luigi ou LEGO Peach (non incluses) à poursuivre le train à bord d’une draisine, à vaincre tous les ennemis et à conduire le train jusqu’à la gare, pour un jeu de rôle captivant
 - JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 9 ANS – Adonnez-vous au jeu de rôle avec ce set LEGO qui inclut un train détaillé, 2 gares et une draisine pour les enfants qui souhaitent reproduire des scènes culte du jeu vidéo
+- APPLICATION COMPAGNON – Téléchargez l’appli LEGO Super Mario qui propose des instructions de montage, des astuces inspirantes et plus encore ; pour la liste des appareils Android et iOS compatibles, consultez LEGO.com/devicecheck
+- UN CADEAU AMUSANT SUR LE THÈME DES JEUX VIDEO SUPER MARIO POUR GARÇON OU FILLE DÈS 9 ANS – Offrez ce set de construction LEGO Super Mario Train Bowser Express pour un anniversaire à des enfants fans de Mario
+- JEU INTERACTIF & NUMÉRIQUE – Aidez la figurine de LEGO Mario, LEGO Luigi ou LEGO Peach (non incluses) à poursuivre le train à bord d’une draisine, à vaincre tous les ennemis et à conduire le train jusqu’à la gare, pour un jeu de rôle captivant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWH1QW3K{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lifaloft
-- Fermeture éclair YKK
 - Ourlet réglable avec cordon de serrage
+- Fermeture éclair YKK
 - Construction à 2 couches
 - Articles livrés : 1 veste à capuche Helly Hansen Hp Racing Lifaloft pour homme – Veste Ins Navy M
 

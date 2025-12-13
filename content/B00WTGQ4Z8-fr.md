@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 6 applications par jour. À partir de 3 ans.
+- Solution rapide et discrète contre les grains
+- Film invisible, permet de maquillage
 - Triple action : purifie la peau, agit contre la bactérie p. acnes* (bactérie à lorigine des imperfections) et accélère lélimination des grains1
 - CLINIQUEMENT TESTɲ
-- Film invisible, permet de maquillage
+- Jusquà 6 applications par jour. À partir de 3 ans.
 - Enrichi à base dacide salicylique et dhuile essentielle darbre à thé
-- Solution rapide et discrète contre les grains
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00WTGQ4Z8{{</world>}}

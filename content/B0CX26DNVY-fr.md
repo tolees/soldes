@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La technologie AMD FreeSync Premium Pro synchronise la fréquence de rafraîchissement du moniteur avec celle de votre carte graphique. Ainsi, les saccades, tremblements ou déchirures d’image sont réduites pour des taux de rafraîchissement inférieurs à 200 Hz pour une expérience gaming précise et fluide.
-- Avec un taux de rafraîchissement natif de 200Hz, les joueurs peuvent voir les actions senchaîner rapidement et de manière fluide.
-- Profitez pleinement de la résolution QHD (5120 x 1440) avec un taux de rafraîchissement de 200Hz: ce moniteur est capable doffrir les meilleures performances graphiques via le port HDMI 2.1 ou via DisplayPort.
 - Immergez-vous au cœur du jeu avec la dalle VA incurvée (1500R) de ce moniteur géant. Contraste 3000:1 pour des couleurs éclatantes et des noirs profonds. Lexpérience immersive dont vous avez besoin.
+- Profitez pleinement de la résolution QHD (5120 x 1440) avec un taux de rafraîchissement de 200Hz: ce moniteur est capable doffrir les meilleures performances graphiques via le port HDMI 2.1 ou via DisplayPort.
+- Avec un taux de rafraîchissement natif de 200Hz, les joueurs peuvent voir les actions senchaîner rapidement et de manière fluide.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CX26DNVY{{</world>}}

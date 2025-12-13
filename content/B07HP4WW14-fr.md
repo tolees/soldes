@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FOND DE TEINT À LA VITAMINE C DÉVELOPPÉ PAR DES DERMATOLOGUES : Un fond de teint liquide qui offre une couvrance modérée tenue 24 h et un fini mat naturel.
 - Bases et primer
+- FOND DE TEINT À LA VITAMINE C DÉVELOPPÉ PAR DES DERMATOLOGUES : Un fond de teint liquide qui offre une couvrance modérée tenue 24 h et un fini mat naturel.
 - Marque Clinique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
