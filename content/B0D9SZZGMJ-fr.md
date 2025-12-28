@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EXPLORE LE MONDE DE BARBIE – Découvre jusquà 6 nouveaux espaces et restaure le centre danimations
-- DES ACTIVITÉS AMUSANTES – Termine les tâches du salon de toilettage, le parc de skate, le labo de technologie et plus
 - COLLABORE DANS LES MINI-JEUX – Joue en solo ou en coop local
+- DES ACTIVITÉS AMUSANTES – Termine les tâches du salon de toilettage, le parc de skate, le labo de technologie et plus
 - INCARNE BARBIE – Incarne Barbie et Barbie en collaborant avec tes amis et ta famille pour réussir des défis et des quêtes afin daider le quartier
 - GAGNE DES RÉCOMPENSES – Obtiens des points de communauté et utilise-les pour débloquer de superbes tenues et objets afin daméliorer le centre danimations Ambiance Malibu
+- EXPLORE LE MONDE DE BARBIE – Découvre jusquà 6 nouveaux espaces et restaure le centre danimations
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9SZZGMJ{{</world>}}

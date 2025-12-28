@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle de groupe et partage dappareils: Avec Lapplication Smart Life, vous avez la possibilité de controler plusieurs prises connectées et les configurer afin de pouvoir les utiliser ensemble lors dune simple commande sur lapplication. Vous pouvez créer un groupe de prises telles que salon, chambre. lapplication peut etre utiliser par tous les membres de la famille en même temps.
 - Commande à distance: Il ne faut que 2 minutes pour configurer les prises avec lapplication Smart Life(2,4 GHz Wi-Fi requis). Avec lapplication, vous controlez à distance tous vos appareils domestiques.
 - Minuterie et Horaire: Définissez des horaires pour vos appareils et allumez-les et éteignez-les aux heures que vous spécifiez. Aidez à éviter le gaspillage dénergie tout en économisant de largent sur votre facture délectricité.
-- Commande Vocale: Nos prises connectées peuvent aussi se controler par la voix avec Google Home, Alexa, smart Thing et le tout très facilement.
+- Contrôle de groupe et partage dappareils: Avec Lapplication Smart Life, vous avez la possibilité de controler plusieurs prises connectées et les configurer afin de pouvoir les utiliser ensemble lors dune simple commande sur lapplication. Vous pouvez créer un groupe de prises telles que salon, chambre. lapplication peut etre utiliser par tous les membres de la famille en même temps.
 - Surveillance énergétique et des coûts: Souhaitez-vous contrôler la consommation dénergie et les coûts électriques ? La prise WiFi EIGHTREE suit quotidiennement la consommation énergétique de vos appareils et les coûts associés. Vous pouvez définir des tarifs électriques selon différents horaires pour des enregistrements plus précis. Exportez facilement vos données en indiquant votre adresse e-mail.
+- Commande Vocale: Nos prises connectées peuvent aussi se controler par la voix avec Google Home, Alexa, smart Thing et le tout très facilement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B74QBPBW{{</world>}}

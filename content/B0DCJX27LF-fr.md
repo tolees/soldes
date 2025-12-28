@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est désormais possible d’alterner entre différentes polices d’écriture, y compris celle par défaut et une police « en pixel » plus proche de celle des jeux originaux.
-- Une interface modernisée, des options de paramétrage automatique des combats, etc.
 - Des graphismes 2D intégralement retravaillés, y compris les personnages en pixel art iconiques de FINAL FANTASY revisités par Kazuko Shibuya, leur conceptrice initiale.
-- Des musiques réarrangées somptueuses dans la plus pure tradition FINAL FANTASY supervisées par Nobuo Uematsu, leur compositeur initial.
+- Il est désormais possible d’alterner entre différentes polices d’écriture, y compris celle par défaut et une police « en pixel » plus proche de celle des jeux originaux.
 - Alternez entre les arrangements créés spécialement pour l’occasion ou les musiques originales restituant l’ambiance sonore des jeux d’époque.
+- Des musiques réarrangées somptueuses dans la plus pure tradition FINAL FANTASY supervisées par Nobuo Uematsu, leur compositeur initial.
+- Une interface modernisée, des options de paramétrage automatique des combats, etc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DCJX27LF{{</world>}}

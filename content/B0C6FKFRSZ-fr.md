@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRAVAILLEZ OÙ QUE VOUS SOYEZ : gardez votre smartphone chargé et prêt à lemploi grâce à votre haut-parleur personnel Bluetooth Poly Sync 20 offrant jusquà 20 heures dautonomie. Fin et portable, il est résistant à la poussière et à leau grâce à sa classification IP64 et est livré avec sa propre housse de transport.
-- ENTENDRE ET ÊTRE ENTENDU : la conception multi-microphone réduit le bruit et lécho pour se concentrer sur votre voix, où que vous soyez dans la pièce. De plus, le système audio duplex intégral garantit des conversations naturelles et simultanées desquelles vous ne manquerez pas un mot.
 - COMPOSANTS INCLUS : haut-parleur avec câble USB-C intégré, adaptateur USB-C vers USB-A, housse de transport, cordon et guide de démarrage rapide.
+- TRAVAILLEZ OÙ QUE VOUS SOYEZ : gardez votre smartphone chargé et prêt à lemploi grâce à votre haut-parleur personnel Bluetooth Poly Sync 20 offrant jusquà 20 heures dautonomie. Fin et portable, il est résistant à la poussière et à leau grâce à sa classification IP64 et est livré avec sa propre housse de transport.
+- GARDEZ LE CONTRÔLE : la touche programmable vous permet daccéder rapidement à vos fonctions préférées sur votre haut-parleur Bluetooth et USB, notamment la lecture/pause de la musique, le rappel du dernier numéro, lassistant vocal et bien plus encore. Une barre lumineuse à haute visibilité vous indique létat de lappel, même de lautre côté de la pièce.
+- ENTENDRE ET ÊTRE ENTENDU : la conception multi-microphone réduit le bruit et lécho pour se concentrer sur votre voix, où que vous soyez dans la pièce. De plus, le système audio duplex intégral garantit des conversations naturelles et simultanées desquelles vous ne manquerez pas un mot.
 - CONNECTIVITÉ SIMPLE : connectez le haut-parleur à votre smartphone ou votre tablette sans fil via Bluetooth ou à un PC ou un Mac avec le câble USB-C (ou USB-A avec ladaptateur USB-C vers USB-A) pour une connexion filaire.
 - TOUT-EN-UN : ce haut-parleur fin et portable pour les conférences téléphoniques est également idéal pour écouter de la musique et charger votre smartphone. Profitez dune clarté de qualité supérieure à chaque appel grâce au système Bass Reflex et à ses deux amplificateurs audio passifs pour une voix naturelle et des basses profondes.
-- GARDEZ LE CONTRÔLE : la touche programmable vous permet daccéder rapidement à vos fonctions préférées sur votre haut-parleur Bluetooth et USB, notamment la lecture/pause de la musique, le rappel du dernier numéro, lassistant vocal et bien plus encore. Une barre lumineuse à haute visibilité vous indique létat de lappel, même de lautre côté de la pièce.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6FKFRSZ{{</world>}}

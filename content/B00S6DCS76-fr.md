@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement
 - Descriptif produit: Nouveaux grands-parents Lapin chocolat, avec de nouveaux habits
+- Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement
 - 1 grand-mère lapin chocolat
 - 1 grand-père lapin chocolat en tenue de capitaine de navire
 

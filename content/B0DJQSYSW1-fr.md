@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Heureusement, Aloy nest pas seule pour sauver le monde. Varl, Teersa et Erend, trois personnages colorés dotés de personnalités, de compétences, darmes et de gadgets uniques se joignent à elle dans son aventure pour laider à chasser les machines et vaincre ses ennemis.
-- Notre histoire commence lorsquun chasseur grisonnant du nom de Rost trouve notre héroïne, Aloy, dans une caverne alors quelle nest encore quun bébé et décide de lélever à lextérieur du village Nora.
-- Voyagez vers un futur lointain, où le monde est fait de briques LEGO et où la nature a repris ses droits sur la Terre.
 - Aloy se retrouve bientôt mêlée à une mission qui transcende de loin la découverte de soi. Guidée par lholographe millénaire dune scientifique nommée Elisabet, Aloy doit confronter Helis, le chef dune bande dadorateurs du soleil adeptes dun vieux démon entouré de mystère.
+- Notre histoire commence lorsquun chasseur grisonnant du nom de Rost trouve notre héroïne, Aloy, dans une caverne alors quelle nest encore quun bébé et décide de lélever à lextérieur du village Nora.
 - Jouez en solo en tant quAloy, débloquez les personnages de Varl, Teersa et Erend et incarnez-les, ou partagez le plaisir en coopérant dans votre salon ou en ligne (le jeu en ligne peut nécessiter un abonnement payant).
+- Voyagez vers un futur lointain, où le monde est fait de briques LEGO et où la nature a repris ses droits sur la Terre.
+- Heureusement, Aloy nest pas seule pour sauver le monde. Varl, Teersa et Erend, trois personnages colorés dotés de personnalités, de compétences, darmes et de gadgets uniques se joignent à elle dans son aventure pour laider à chasser les machines et vaincre ses ennemis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJQSYSW1{{</world>}}

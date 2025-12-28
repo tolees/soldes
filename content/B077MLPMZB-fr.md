@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture : Lacets
-- Matière : Suède
 - Taille : 43 EU
-- Couleur : Bleu marine
 - Saison : Printemps Été
+- Matière : Suède
+- Couleur : Bleu marine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077MLPMZB{{</world>}}

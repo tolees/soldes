@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe ajustée au niveau des cuisses
 - Se porte sous la taille
+- Coupe ajustée au niveau des cuisses
 - Jambes étroites
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

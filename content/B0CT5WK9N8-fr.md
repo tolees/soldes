@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Orné d’un patch logo tissé ton sur ton sur la poitrine
-- À capuche
 - Confectionné en molleton très doux
+- À capuche
+- Orné d’un patch logo tissé ton sur ton sur la poitrine
 - Manche longue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Embelli avec motif petit piqué qui sinspire à la polo au crocodile Lacoste
-- Fermoir : Aimanté
-- Matériel: Silicone vert avec fermoire en acier inoxydable
-- Bracelet en silicone pour homme de Lacoste
 - Circonférence intérieure : 19 cm
+- Fermoir : Aimanté
+- Bracelet en silicone pour homme de Lacoste
+- Matériel: Silicone vert avec fermoire en acier inoxydable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BB3JKVZ9{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceci est un authentique produit Levi’s
 - Un t-shirt à col en V incontournable à porter avec tous vos jeans préférés
+- Ceci est un authentique produit Levi’s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SNY6SZC{{</world>}}

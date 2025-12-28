@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille de lécran : 0,0 pouces
 - Fabricant : Samsung.
+- Taille de lécran : 0,0 pouces
 - Capacité de stockage : 64,0 GO
 
 [🛒 Achète-le!!]({{< param buyurl >}})

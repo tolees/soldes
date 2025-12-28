@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kit main libre et assistants vocaux intégrés.
-- Paramétrez votre musique selon vos préférences personnelles en utilisant légaliseur de lapplication Sony Headphones Connect.
-- Résistants à leau IPX4, les éclaboussures ou la transpiration ne seront plus un souci pour vos écouteurs Sony
 - Profitez de 25 heures de musique en Bluetooth sans interruption
+- Paramétrez votre musique selon vos préférences personnelles en utilisant légaliseur de lapplication Sony Headphones Connect.
+- Kit main libre et assistants vocaux intégrés.
+- Résistants à leau IPX4, les éclaboussures ou la transpiration ne seront plus un souci pour vos écouteurs Sony
 - Une musique naturelle dans vos écouteurs sans fil intra-auriculaire grâce à notre technologie Digital Sound Enhancement Engine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

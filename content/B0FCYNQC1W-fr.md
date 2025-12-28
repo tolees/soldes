@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio - GBX-100S-1ER GBX-100S-1ER G-Shock'
-date: 2025-12-22 18:43:56
+date: 2025-12-27 19:00:52
 image: 'https://m.media-amazon.com/images/I/412nMvebCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Arborist Merchandising Root','Boutique Casio','Mode','Self Service','Sp
 actualPrice: 118.3 EUR
 currency: EUR
 price: 118.3
-comparePrice: 168.3 EUR
+comparePrice: 168.1 EUR
 prodname: 'Casio - GBX-100S-1ER GBX-100S-1ER G-Shock'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Casio'
 buyurl: 'https://www.amazon.fr/dp/B0FCYNQC1W/?tag=tolees0d-21'
-descuento: '29.71'
+descuento: '29.63'
 average: '118.3'
 ---
 

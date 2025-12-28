@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets
-- Achetez une taille plus grande
 - Semelle intermédiaire Cloudfoam
+- Fermeture à lacets
 - Tige en cuir
+- Achetez une taille plus grande
 - Semelle extérieure en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

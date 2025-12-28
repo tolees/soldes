@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: Metropolitan Vidéo
 - Type de produit: PHYSICAL MOVIE
 - John Wick-Les 4 chapitres Blu-Ray
+- Marque: Metropolitan Vidéo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C37D5D9K{{</world>}}

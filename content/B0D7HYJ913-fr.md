@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EN TOUTE OCCASION : ce modèle élégant et fonctionnel a tout pour s’accorder aux tendances du moment. Le branding Tommy Jeans discret attire tous les regards.
-- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches zippées au niveau de la ceinture séduit par ses lignes épurées. Idéal pour l’intersaison grâce à sa matière légère.
 - MATIÈRE ET ENTRETIEN : 100 % polyester recyclé. Lavage et séchage en machine.
 - STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
 - EXCELLENT CONFORT : ce modèle léger et indémodable aux lignes sobres et épurées tient bien au chaud. Par ailleurs, la capuche fixe vous protège du vent et du froid.
+- EN TOUTE OCCASION : ce modèle élégant et fonctionnel a tout pour s’accorder aux tendances du moment. Le branding Tommy Jeans discret attire tous les regards.
+- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches zippées au niveau de la ceinture séduit par ses lignes épurées. Idéal pour l’intersaison grâce à sa matière légère.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7HYJ913{{</world>}}

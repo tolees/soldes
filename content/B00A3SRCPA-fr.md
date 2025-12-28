@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élégante cuillère pour servir le café avec élégance, Convient aussi pour le thé
-- Fonctionnel : bonne prise en main grâce au design simple
 - Fabrication haute qualité : Acier inoxydable lavable au lave-vaisselle, Pas de goût de métal pour une utilisation quotidienne
+- Fonctionnel : bonne prise en main grâce au design simple
+- Élégante cuillère pour servir le café avec élégance, Convient aussi pour le thé
 - Contenu : 1x Villeroy & Boch Daily Line Cuillères à café, 6 pièces, Matière : Acier inoxydable
 - Taille adaptée aux tasses à café, Bord arrondi
 

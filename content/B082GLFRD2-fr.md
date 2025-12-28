@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAMÉRA HD : Caméras Full-HD 1080P avec vision nocturne, grand angle 130° et zoom x8, pour une vue complète de votre intérieur
-- SURVEILLANCE INTELLIGENTE : Gardez un œil sur votre domicile depuis votre smartphone avec alertes instantanées ; détection de mouvement grâce à l’infrarouge et à l’analyse d’images, pour une sécurité optimale
-- INSTALLATION ET COMPATIBILITÉ : Installation rapide avec l’application Somfy Protect ; fonctionne de manière autonome ou en complément dun système de sécurité Somfy Protect (One, ONE +, Gamme Home Alarm) ou Myfox Home Alarm
 - GARANTIE : Somfy, entreprise française basée en Haute-Savoie, vous offre une garantie de 5 ans sur la caméra de surveillance
 - CONFIDENTIALITÉ ASSURÉE : Caméras avec volet motorisé automatique, permettant de couvrir l’objectif lorsque vous êtes chez vous, protégeant ainsi votre intimité
+- SURVEILLANCE INTELLIGENTE : Gardez un œil sur votre domicile depuis votre smartphone avec alertes instantanées ; détection de mouvement grâce à l’infrarouge et à l’analyse d’images, pour une sécurité optimale
+- INSTALLATION ET COMPATIBILITÉ : Installation rapide avec l’application Somfy Protect ; fonctionne de manière autonome ou en complément dun système de sécurité Somfy Protect (One, ONE +, Gamme Home Alarm) ou Myfox Home Alarm
+- CAMÉRA HD : Caméras Full-HD 1080P avec vision nocturne, grand angle 130° et zoom x8, pour une vue complète de votre intérieur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082GLFRD2{{</world>}}

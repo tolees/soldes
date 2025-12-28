@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le soin hydratant visage et barbe courte King C. Gillette hydrate et revitalise les poils de votre barbe pour adoucir et lisser la barbe courte rêche et hirsute
 - Hydrate et revitalise les poils de barbe avec une formule légère pour une sensation légère et agréable sur la peau
-- Comprend un parfum signature avec des notes de bois de santal, de cèdre, de bergamote, de cardamome et de mandarine
 - Pour une utilisation quotidienne après le nettoyage pour une peau saine avec une irritation et des rougeurs visiblement réduites
 - Hydrate la barbe et le visage pour aider à calmer et à soulager les signes de sécheresse et d’irritation de la peau
+- Comprend un parfum signature avec des notes de bois de santal, de cèdre, de bergamote, de cardamome et de mandarine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09CN175LQ{{</world>}}

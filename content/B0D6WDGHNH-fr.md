@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette boîte contient 36 pochettes de 5 stickers, soit 180 stickers au total.
 - Dans cette collection de 180 stickers, aide tes personnages préférés pour faire face à de nouveaux challenges.
 - Aide Gru à mettre ses ennemis derrière les barreaux en découvrant les stickers spéciaux effet métal de la collection.
+- Cette boîte contient 36 pochettes de 5 stickers, soit 180 stickers au total.
 - Viens vivre de nouvelles aventures avec les minions et la famille de Gru qui sest agrandie !
 - Viens vivre de nouvelles aventures avec les minions et la famille de Gru qui sest agrandie !
 

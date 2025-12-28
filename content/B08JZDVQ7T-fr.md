@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REVLON PROFESSIONAL : En plus du masque hydratant RE/START, découvrez toute la gamme RE/START qui associe des ingrédients de soins de la peau à des solutions capillaires avancées
 - SANTÉ DU CUIR CHEVELU : Utilisé avec le shampoing micellaire, ce masque capillaire hydratant respecte, équilibre et protège le microbiome du cuir chevelu
-- CONTRÔLE DES FRISOTTIS : Le traitement hydratant pour cheveux lisse les cheveux et assure un contrôle durable des frisottis
 - HYDRATATION INTENSE : Grâce à la vitamine B5, ce traitement capillaire profondément nourrissant permet de fixer lhumidité dans la fibre capillaire et daugmenter la rétention deau pour une hydratation optimale
+- CONTRÔLE DES FRISOTTIS : Le traitement hydratant pour cheveux lisse les cheveux et assure un contrôle durable des frisottis
+- REVLON PROFESSIONAL : En plus du masque hydratant RE/START, découvrez toute la gamme RE/START qui associe des ingrédients de soins de la peau à des solutions capillaires avancées
 - FACILE À UTILISER : Pour nourrir les cheveux en profondeur, appliquez le masque capillaire anti-frisottis longue durée sur les cheveux de la mi-longueur à la pointe, laissez-le agir pendant 3 à 5 minutes et rincez abondamment
 
 [🛒 Achète-le!!]({{< param buyurl >}})

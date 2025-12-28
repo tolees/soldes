@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau, forme, adaptabilité et montage testés.
+- Montage côté conducteur (gauche), type éclairage LED.
 - Pièce de rechange de qualité équivalente à lRéférence originale (OEM) : 51833631 ; 51833631 ;
 - Lancia Ypsilon à partir de 2011
-- Montage côté conducteur (gauche), type éclairage LED.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CDZ83TD{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CARACTÉRISTIQUES - Ports anti-poussière intégrés, guide de mesure parallèle pour le guide longitudinal et le rail, guide dangle et pousseur de matériau
+- RÉGLABLE - La capacité de coupe en biseau jusquà 45° et en onglet jusquà 60° peut être ajustée avec précision et facilité. La profondeur de la lame peut être réglée sur une plage de 80 mm de hauteur
+- PORTABLE - facile à ranger, rapide à monter ou à démonter et simple à transporter - parfait pour le bricoleur amateur ou léquipe de construction sur le chantier
 - PUISSANT - la boîte de vitesses et le système de lames optimisés de 1500 W augmentent la durée de vie du moteur et des lames pour couper facilement une grande variété de matériaux
 - GARANTIE - 3 ans, la meilleure de sa catégorie, garantie incluse et technologie Power Protect
-- PRÉCISION - Assistée dun rail de guidage réglable, linclinaison en biseau de 0 à 45 degrés et longlet de 60 à 60 degrés couvrent tous les angles de coupe courants, pour des coupes précises à chaque fois
-- PORTABLE - facile à ranger, rapide à monter ou à démonter et simple à transporter - parfait pour le bricoleur amateur ou léquipe de construction sur le chantier
-- RÉGLABLE - La capacité de coupe en biseau jusquà 45° et en onglet jusquà 60° peut être ajustée avec précision et facilité. La profondeur de la lame peut être réglée sur une plage de 80 mm de hauteur
-- CARACTÉRISTIQUES - Ports anti-poussière intégrés, guide de mesure parallèle pour le guide longitudinal et le rail, guide dangle et pousseur de matériau
 - COUPE MULTI-MATÉRIAUX - La lame japonaise de 255mm à pointe en carbure de tungstène (TCT) incluse coupe lacier, laluminium, le bois avec des clous encastrés, le plastique, etc
+- PRÉCISION - Assistée dun rail de guidage réglable, linclinaison en biseau de 0 à 45 degrés et longlet de 60 à 60 degrés couvrent tous les angles de coupe courants, pour des coupes précises à chaque fois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01ITDYHA8{{</world>}}

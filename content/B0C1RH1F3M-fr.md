@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Braguette zippée
+- Cinq poches
 - Coupe ajustée
 - Denim stretch en coton
 - Taille moyenne
-- Cinq poches
-- Braguette zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C1RH1F3M{{</world>}}

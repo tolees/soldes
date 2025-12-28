@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notre kit est conçu pour offrir une couleur naturelle et multidimensionnelle pour des résultats éblouissants
 - Formulée avec un mélange dhuiles, cette crème éclaircissante non seulement éclaircit les cheveux jusquà quatre niveaux, mais laisse également une sensation soyeuse, douce et incroyablement radieuse
+- Notre kit est conçu pour offrir une couleur naturelle et multidimensionnelle pour des résultats éblouissants
 - Élevez votre jeu capillaire avec les Garnier Olia Highlights pour cheveux blonds
 
 [🛒 Achète-le!!]({{< param buyurl >}})

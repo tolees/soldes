@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN PLATEAU QUI PREND VIE Avec une qualité digne de la nouvelle génération et une ville détaillée en 3D, MONOPOLY emmène la franchise emblématique au niveau supérieur. Déplacez-vous sur le plateau pour explorer la ville et ses différents quartiers, ou espionnez vos adversaires avant votre prochaine action.
 - LEXPÉRIENCE DUN JEU DE PLATEAU Ressentez lessence dun jeu de plateau dans toutes vos décisions alors que vous achetez, vendez et échangez pour atteindre la victoire. Vous pouvez à présent manipuler votre pion, le faire se déplacer et sauter. Vous voulez vous venger de votre faillite ? Renversez les pions du responsable !
 - PERSONNALISEZ VOTRE PARTIE Pas assez de temps pour une partie complète ? Modifiez le jeu avec des règles personnalisées ou choisissez un nouvel objectif spécial parmi cinq différents ! Le mode Speed Die est également disponible et vous permet davancer plus vite autour du plateau.
 - UN INCONTOURNABLE DES JEUX EN FAMILLE MONOPOLY est le jeu parfait pour rassembler la famille, les amis et les voisins ! Jouez avec six joueurs maximum depuis votre salon ou en ligne avec des personnes du monde entier. Choisissez de partager une manette avec tous les joueurs ou davoir chacun la sienne pour une variété de styles de jeu. MONOPOLY prend aussi en charge le cross-play !
+- UN PLATEAU QUI PREND VIE Avec une qualité digne de la nouvelle génération et une ville détaillée en 3D, MONOPOLY emmène la franchise emblématique au niveau supérieur. Déplacez-vous sur le plateau pour explorer la ville et ses différents quartiers, ou espionnez vos adversaires avant votre prochaine action.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D9MJJ8PJ{{</world>}}

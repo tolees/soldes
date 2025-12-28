@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de col: Col une pièce
 - Manche mi longue
-- Regular
-- Hand Wash Only
-- Fermeture: Enfiler
 - 100% Polyester
+- Hand Wash Only
+- Regular
+- Type de col: Col une pièce
+- Fermeture: Enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09XMSZ2HP{{</world>}}

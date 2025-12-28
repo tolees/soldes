@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cinq spots de destruction dirigent les enfants vers l’action, avec un maillet de destruction et une scie à ferraille géante.
 - L’Ultimate Crush Yard peut se connecter à d’autres coffrets Hot Wheels Monster Trucks Arena Smashers pour permettre aux enfants de construire un monde Hot Wheels Monster Trucks Arena Smashers rempli d’obstacles et de défis destructeurs. (Autres coffrets vendus séparément.)
 - La base qui bouge et tremble génère un retour sensoriel pour que les enfants puissent ressentir la destruction pendant qu’ils jouent.
-- Il comprend 1 Hot Wheels Monster Trucks Bone Shaker à l’échelle 1/64 et 3 voitures à écraser qui peuvent être ajoutées à des tribunes à écraser.
+- Cinq spots de destruction dirigent les enfants vers l’action, avec un maillet de destruction et une scie à ferraille géante.
 - Montez la tour de voitures écrasées et écrasez-la pour dominer le Hot Wheels Monster Trucks Arena Smashers Bone Shaker Ultimate Crush Yard.
+- Il comprend 1 Hot Wheels Monster Trucks Bone Shaker à l’échelle 1/64 et 3 voitures à écraser qui peuvent être ajoutées à des tribunes à écraser.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5HVZHFL{{</world>}}

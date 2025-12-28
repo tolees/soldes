@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe ample pour une sensation despace
 - La conception allongée à fermeture éclair vous protège des éléments
-- Poches à boutons-pression
+- Coupe ample pour une sensation despace
 - La finition hydrofuge vous aide à rester au sec
+- Poches à boutons-pression
 - Matériel: 100% polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})

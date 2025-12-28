@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TUBES ANTI-ÉVAPORATION - Tubes de refroidissement de leau de 400 mm composés dune triple couche de plastique dissimulée sous une gaine en maille renforcée pour garantir que leau reste toujours à lintérieur du système en circuit fermé.
-- COMPATIBLE AVEC LES SOCKS AMD ET INTEL - le bracket de montage convient aux sockets AMD (AM5, AM4) et Intel (LGA 1150, 1151, 1155, 1156, 1700,1200, 2011, 2011-3, 2066) ; pâte thermique incluse.
-- Câble PWM de 1 vers 2 ventilateurs inclus.
-- DOUBLE VENTILATEUR ARGB - 2 ventilateurs ARGB PWM de 120 mm assurent une excellente pression et un excellent flux dair tout en générant très peu de bruit.
 - COMPATIBLE GA 1700 - Le refroidisseur de liquide MAG CORELIQUID série M est compatible avec le socket LGA 1700 et ce, dès sa sortie de la boîte.
+- Câble PWM de 1 vers 2 ventilateurs inclus.
+- COMPATIBLE AVEC LES SOCKS AMD ET INTEL - le bracket de montage convient aux sockets AMD (AM5, AM4) et Intel (LGA 1150, 1151, 1155, 1156, 1700,1200, 2011, 2011-3, 2066) ; pâte thermique incluse.
+- DOUBLE VENTILATEUR ARGB - 2 ventilateurs ARGB PWM de 120 mm assurent une excellente pression et un excellent flux dair tout en générant très peu de bruit.
+- TUBES ANTI-ÉVAPORATION - Tubes de refroidissement de leau de 400 mm composés dune triple couche de plastique dissimulée sous une gaine en maille renforcée pour garantir que leau reste toujours à lintérieur du système en circuit fermé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4WJ8C9X{{</world>}}

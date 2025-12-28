@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jeu montessori offre une approche ludique pour apprendre à lire, en combinant jeu et éducation pour lapprentissage de lalphabet. Il est parfait pour les enfants en grande section maternelle.
 - Le système autocorrectif, permet aux enfants de suivre leurs progrès de manière autonome : Chaque lettre présente une couleur, un revers différents et ne simbrique quà 1 place
-- Une mallette pratique : Léger et transportable ce jouet enfant 6 ans peut être emporté facilement partout, et tous les jetons sont rangés. Parfait pour les voyages
 - Offrez un jeu de société captivant avec 90 jetons, Lenfant compose des mots simples de 5 lettres maximum en complétant les planches à laide des jetons lettres.
+- Ce jeu montessori offre une approche ludique pour apprendre à lire, en combinant jeu et éducation pour lapprentissage de lalphabet. Il est parfait pour les enfants en grande section maternelle.
+- Une mallette pratique : Léger et transportable ce jouet enfant 6 ans peut être emporté facilement partout, et tous les jetons sont rangés. Parfait pour les voyages
 - JApprends à Lire transforme lapprentissage en aventure. Ce jeu Educatif 5 ans est idéal pour apprendre à lire et à écrire des mots simples. Il encourage lapprentissage progressif tout en samusant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

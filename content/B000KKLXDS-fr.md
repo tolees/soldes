@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hauteur : 21 cm, Largeur : 16,5 cm, Profondeur : 5,5 cm
+- Fabriqué dans un mélange 60% nylon 40% polyester
 - Grand compartiment principal avec une poche frontale zippée pour vos documents de voyage
 - La sangle dépaule ajustable a été conçue pour un port confortable
-- Fabriqué dans un mélange 60% nylon 40% polyester
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000KKLXDS{{</world>}}

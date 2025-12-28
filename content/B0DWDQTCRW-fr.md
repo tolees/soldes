@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Série en ligne – Stimulez l’imagination des enfants avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, dans laquelle les enfants font connaissance avec les personnages de Heartlake City
 - Cabane dans les arbres et quad – Le jouet LEGO inclut une cabane dans l’arbre à construire au-dessus du sanctuaire des pandas, ainsi qu’un 4x4 pour transporter la nourriture et les fournitures pour prendre soin des animaux
-- Set de construction sur les animaux & accessoires variés – Nombreux détails stimulant le jeu créatif dont une balançoire, une grotte, une balance, un lac, une brosse, une pelle, un panier, un panneau solaire, un téléphone, un stylo, du bambou, etc
 - Jeu de construction avec des pandas – Le jeu Le sanctuaire des pandas pour fille, garçon et jeunes passionné(e)s de nature dès 7 ans inclut 2 mini-poupées, 3 figurines de pandas & des accessoires favorisant le jeu créatif
+- Série en ligne – Stimulez l’imagination des enfants avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, dans laquelle les enfants font connaissance avec les personnages de Heartlake City
+- Set de construction sur les animaux & accessoires variés – Nombreux détails stimulant le jeu créatif dont une balançoire, une grotte, une balance, un lac, une brosse, une pelle, un panier, un panneau solaire, un téléphone, un stylo, du bambou, etc
 - 2 mini-poupées et 3 figurines de pandas – Ce jouet de construction raconte l’histoire d’Autumn et de Liann qui s’occupent de la maman panda et de ses 2 petits : il inspirera un jeu de rôle plein de bienveillance aux enfants passionnés par les animaux
 - Racontons une histoire sur lamitié – Les jeux de construction LEGO Friends invitent les enfants à explorer une large gamme de moments d’amitié et leur offrent de multiples opportunités d’imaginer leurs propres aventures
 - Cadeau d’anniversaire pour fille ou garçon dès 7 ans – Ce set LEGO est un cadeau amusant à offrir pour un anniversaire ou toute autre occasion aux enfants qui adorent les animaux et aux passionnés de nature qui aiment le jeu de rôle sur l’amitié

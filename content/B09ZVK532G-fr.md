@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : éthylène-acétate de vinyle
-- Cuir : daim
 - 12.949999986791 pouces
+- Cuir : daim
+- Fermeture : éthylène-acétate de vinyle
 - Respirantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

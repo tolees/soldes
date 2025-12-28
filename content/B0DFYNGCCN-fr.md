@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - AMUSEZ-VOUS AVEC LA PHYSIQUE – Prenez des objets et déplacez-les pour provoquer des situations improbables !
-- TOUT LE MONDE EST LÀ – Jouez avec Bob léponge, Carlo, Sandy, et bien d’autres.
 - VOICI PATRICK ! – Créez le chaos autour de vous dans le monde ouvert de Bikini Bottom.
+- TOUT LE MONDE EST LÀ – Jouez avec Bob léponge, Carlo, Sandy, et bien d’autres.
 - UN STYLE DE VEDETTE – Déverrouillez des nouvelles tenues pour Patrick lors de vos aventures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

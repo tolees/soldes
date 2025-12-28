@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Angle de montée jusquà 18.
-- Autonomie jusquà environ 40 km (24.9 miles).
-- 2 freins - disque avant et freins arrière électroniques.
-- Vitesse maximale jusquà 25 km/h (15,5 mph).
-- Système de contrôle de la traction anti-dérapage.
 - Indicateurs avant et arrière intégrés pour des déplacements en toute sécurité.
+- Vitesse maximale jusquà 25 km/h (15,5 mph).
 - Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
+- Angle de montée jusquà 18.
+- 2 freins - disque avant et freins arrière électroniques.
+- Système de contrôle de la traction anti-dérapage.
+- Autonomie jusquà environ 40 km (24.9 miles).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3RXQTSD{{</world>}}

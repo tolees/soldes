@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pop et coloré
 - Un incontournable pour les fans
+- Pop et coloré
 - Saint Seiya
 
 [🛒 Achète-le!!]({{< param buyurl >}})

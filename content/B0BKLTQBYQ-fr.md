@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FERMETURE À GLISSIÈRE YKK
-- Logos HH imprimés
 - Fermeture à glissière avant YKK avec patte arrière
+- Logos HH imprimés
+- FERMETURE À GLISSIÈRE YKK
 - Capuche et ourlet réglables
 - Isolant synthétique soufflable
 

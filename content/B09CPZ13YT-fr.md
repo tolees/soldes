@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est doté dun conduit qui émet de leau chaude à la température idéale pour les infusions.
 - Elle est dotée dun système de chauffage rapide Thermoblock, qui permet de maintenir la température dans la plage optimale pour le café. Sa puissante pompe à pression, dotée de la technologie ForceAroma de 20 bars, garantit une crème et un arôme optimaux pour chaque café.
-- Machine à expresso au design authentique de barista qui permet de préparer toutes sortes de cafés avec une puissance maximale de 1550 W et fournit également de leau chaude pour les infusions.
+- Il est doté dun conduit qui émet de leau chaude à la température idéale pour les infusions.
 - Le cuiseur vapeur orientable, alimenté par un Thermoblock spécial, permet de texturer le lait à votre convenance et dobtenir la meilleure mousse pour votre café.
+- Machine à expresso au design authentique de barista qui permet de préparer toutes sortes de cafés avec une puissance maximale de 1550 W et fournit également de leau chaude pour les infusions.
 - Elle dispose dun réservoir de 250 g de café en grains et dun moulin à 30 niveaux de mouture. Savourez un café fraîchement moulu au meilleur arôme et à la meilleure saveur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

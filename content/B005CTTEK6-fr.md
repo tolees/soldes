@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 80% Laine, 20% Synthétique
-- Lavage en machine, 30° max.
-- Fermeture: Bouton
 - Manches longues
+- 80% Laine, 20% Synthétique
+- Fermeture: Bouton
+- Lavage en machine, 30° max.
 - Type de col: Col Tailleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

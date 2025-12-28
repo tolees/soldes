@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lodeur alléchante de délicieux biscuits au sucre, riche en beurre et avec un soupçon de vanille
-- Temps de combustion : 110 à 150 heures – Poids : 623 g
-- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
 - Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
+- Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
+- Temps de combustion : 110 à 150 heures – Poids : 623 g
+- Lodeur alléchante de délicieux biscuits au sucre, riche en beurre et avec un soupçon de vanille
 - Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

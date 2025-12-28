@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fabrication de grande qualité : boîtier métal robuste mais léger, pour de nombreuses années d’utilisation. Produits de conception innovante.
 - Distance focale fixe de 32 mm avec une excellente qualité dimage pour la photographie de voyage, de rue, de paysage ou de portrait professionnelle et ambitieuse. Vitesse dobjectif rapide grâce à un f-stop de f/1.8.
-- Entièrement compatible avec les appareils photo à système hybride à capteur APS-C de Sony avec monture E tels que les séries Sony Alpha 6000, séries Alpha 5000 et séries NEX.
 - Un autofocus robuste, fiable et fluide. Bague de mise au point maniable pour une mise au point manuelle extrêmement précise.
+- Entièrement compatible avec les appareils photo à système hybride à capteur APS-C de Sony avec monture E tels que les séries Sony Alpha 6000, séries Alpha 5000 et séries NEX.
 - Contenu: ZEISS Touit 1.8/32 (avec pare-soleil correspondant).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau : alliage Plastique et plastique
-- Type : Jouet de construction
-- À partir de 18 ans
 - Gamme : Star Wars
+- À partir de 18 ans
 - Pièces : 802 pièces
+- Type : Jouet de construction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09T65GFRT{{</world>}}

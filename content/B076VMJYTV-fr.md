@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE HUILE DE QUALITÉ : Pranarôm utilise exclusivement des Huiles Végétales vierges, cest-à-dire issue de la première pression à froid. Seules ces Huiles sont de qualité thérapeutique car elles ont conservé tous leurs composés (acides gras essentiels, vitamines, antioxydants...)
-- CONSEILS POUR LES CHEVEUX : 2 à 3 fois par semaine, appliquer lHuile Végétale de Ricin sur lensemble des cheveux secs en massant, couvrir la chevelure avec une serviette chaude et laisser poser pendant ½ heure à 1 heure. Laver ensuite les cheveux avec un shampooing.
-- PRANARÔM, LA SCIENCE DES HUILES ESSENTIELLES : Pranarôm allie son expertise scientifique des Huiles Essentielles à son amour des plantes afin de proposer des solutions ciblées pour maintenir toute la famille en bonne santé au quotidien.
 - CONSEILS POUR LES ONGLES : Chaque soir au coucher, appliquer une goutte sur chaque ongle ; masser ensuite longle en insistant sur les cuticules.
+- CONSEILS POUR LES CHEVEUX : 2 à 3 fois par semaine, appliquer lHuile Végétale de Ricin sur lensemble des cheveux secs en massant, couvrir la chevelure avec une serviette chaude et laisser poser pendant ½ heure à 1 heure. Laver ensuite les cheveux avec un shampooing.
+- UNE HUILE DE QUALITÉ : Pranarôm utilise exclusivement des Huiles Végétales vierges, cest-à-dire issue de la première pression à froid. Seules ces Huiles sont de qualité thérapeutique car elles ont conservé tous leurs composés (acides gras essentiels, vitamines, antioxydants...)
+- PRANARÔM, LA SCIENCE DES HUILES ESSENTIELLES : Pranarôm allie son expertise scientifique des Huiles Essentielles à son amour des plantes afin de proposer des solutions ciblées pour maintenir toute la famille en bonne santé au quotidien.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B076VMJYTV{{</world>}}

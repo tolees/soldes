@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Base et poignets côtelés.
 - Coupe standard.
+- Base et poignets côtelés.
 - Conçu pour être porté au quotidien, ce sweat-shirt affiche un look décontracté simple mais audacieux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

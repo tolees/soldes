@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à la poussière et aux éclaboussures IP54
+- Chargez les écouteurs pendant 10 minutes avant de vous rendre au travail et écoutez du contenu pendant 3 heures, une fois entièrement chargés, les écouteurs offrent jusquà 9 heures découte et lorsquils sont rechargés à plusieurs reprises avec le boîtier, ils peuvent offrir jusquà 40 heures découte
 - Compatible avec iOS et Android"
 - Les puissantes connexions Bluetooth 5.3 permettent de synchroniser le son et limage pour une expérience audiovisuelle immersive
-- Chargez les écouteurs pendant 10 minutes avant de vous rendre au travail et écoutez du contenu pendant 3 heures, une fois entièrement chargés, les écouteurs offrent jusquà 9 heures découte et lorsquils sont rechargés à plusieurs reprises avec le boîtier, ils peuvent offrir jusquà 40 heures découte
+- Résistance à la poussière et aux éclaboussures IP54
 - Huawei Freebuds SE: DAS tête : 0.41 W/kg ; DAS membres : N/A W/kg ; DAS tronc : N/A W/kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})

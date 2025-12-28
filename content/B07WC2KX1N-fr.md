@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Per uno stile su misura
+- Girocollo a costine
 - Vestibilità comoda e semplice
 - Per comfort e concentrazione
-- Girocollo a costine
-- Per uno stile su misura
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WC2KX1N{{</world>}}

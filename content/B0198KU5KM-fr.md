@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Figurines POP! Vinyle
-- Plastique, Acrylique
 - 7 ans et plus
+- Figurines POP! Vinyle
 - Nato
+- Plastique, Acrylique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0198KU5KM{{</world>}}

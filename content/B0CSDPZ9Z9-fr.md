@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coupe classique
-- Encolure avec boutons
 - Coupe régulière
+- Encolure avec boutons
 - Encolure boutonnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

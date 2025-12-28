@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - il sagit dun produit authentique et original SCHOTT NYC
-- il assure un ajustement optimal
 - Confortable à porter
+- il assure un ajustement optimal
 - Ce style a été produit de manière durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

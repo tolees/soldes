@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Optimal pour les peaux sèches et sensibles
+- Hydrate intensément la peau
 - Utilisation quotidienne pour une peau douce
 - Enrichi en ingrédients naturels
 - Texture légère à absorption rapide
-- Hydrate intensément la peau
+- Optimal pour les peaux sèches et sensibles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084XK7RQ1{{</world>}}

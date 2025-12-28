@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lédition Physique de Cuphead contient
-- Une Carte de membre du Club Cuphead
-- Un visuel exclusif du studio MDHR qui varie selon la plateforme
 - Lexpansion "Delicious Last Course"
+- Un visuel exclusif du studio MDHR qui varie selon la plateforme
+- Une Carte de membre du Club Cuphead
 - 6 cartes à collectionner Cuphead Funnies
+- Lédition Physique de Cuphead contient
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BHTLMZMC{{</world>}}

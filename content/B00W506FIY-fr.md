@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Système à Cappuccino
+- Poignée de réglage de la vapeur
 - Bac récolte gouttes amovible avec système anti-goutte pour un nettoyage facile
 - Réservoir deau avec une capacité de 1 l
-- Mise hors tension automatique
-- Système à Cappuccino
 - Porte-filtre "Crème"
-- Poignée de réglage de la vapeur
+- Mise hors tension automatique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00W506FIY{{</world>}}

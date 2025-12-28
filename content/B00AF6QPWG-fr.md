@@ -28,24 +28,24 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imperméable, coupe-vent et respirant
-- Droite
+- Multipack: 1
 - Poignets réglables
+- Rabat anti-tempête à lavant
+- Helly tech protection
 - Face: 100% Polyester / Back: 100% Polyurethane
-- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
-- Helly tech protection : allié à cette technologie, les vêtements portés au quotidien par temps modéré vous garderont au sec afin de garantir votre confort. dotés de coutures entièrement scellées et confectionnés dans des textiles imperméables, coupe-vent et respirants.
-- Imperméable et respirante
-- Ourlet inférieur réglable à laide dun cordon de serrage
+- Moyen - Standard
 - Mentonnière anti-frottement
 - Fermeture: Cordon de serrage, Fermeture éclair
-- Multipack: 1
-- Helly tech protection
+- Ourlet inférieur réglable à laide dun cordon de serrage
 - Chine
-- Rabat anti-tempête à lavant
 - Poches pour les mains avec fermeture éclair ykk
-- Moyen - Standard
-- Fermeture éclair ykk à lavant et arrière
+- Imperméable, coupe-vent et respirant
+- Imperméable et respirante
 - Capuche fixe ajustable dune main
+- Droite
+- Fermeture éclair ykk à lavant et arrière
+- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
+- Helly tech protection : allié à cette technologie, les vêtements portés au quotidien par temps modéré vous garderont au sec afin de garantir votre confort. dotés de coutures entièrement scellées et confectionnés dans des textiles imperméables, coupe-vent et respirants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AF6QPWG{{</world>}}

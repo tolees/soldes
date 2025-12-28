@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un produit spécial pour les femmes
 - Correcteur de maquillage Beyond Perfecting de Clinique
 - Pas dâge minimum
+- Un produit spécial pour les femmes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TR7CTN8{{</world>}}

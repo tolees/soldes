@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ecriture à la craie ou feutre
-- Idéal dans une chambre denfant, un bureau ou une salle de classe
 - Effaçable à sec, pour écrire et réécrire
+- Idéal dans une chambre denfant, un bureau ou une salle de classe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PDN1RQN{{</world>}}

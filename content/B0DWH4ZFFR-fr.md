@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Horaires et calendriers (pour le dernier trimestre de 2025 et pour lensemble de 2026 et 2027), Playlist exclusive, Pages pour noter les contacts, Tableaux dépargne, Fermeture avec élastique, Blocs de notes autocollantes en forme, Planificateur mensuel au début de chaque mois, Phrases mensuelles super amusantes
-- 160 pages de papier de 100 g certifié FSC, Phrases quotidiennes de motivation, Intercalaires pour chaque mois, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants sur le thème Bo-Bo,
-- Dimensions : 15,6 x 22,1 x 2,1 cm.
 - Lagenda de style Mr. Wonderfuls Wonder, avec une organisation hebdomadaire, sétend de septembre 2025 à fin août 2026.
+- Horaires et calendriers (pour le dernier trimestre de 2025 et pour lensemble de 2026 et 2027), Playlist exclusive, Pages pour noter les contacts, Tableaux dépargne, Fermeture avec élastique, Blocs de notes autocollantes en forme, Planificateur mensuel au début de chaque mois, Phrases mensuelles super amusantes
+- Dimensions : 15,6 x 22,1 x 2,1 cm.
+- 160 pages de papier de 100 g certifié FSC, Phrases quotidiennes de motivation, Intercalaires pour chaque mois, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants sur le thème Bo-Bo,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWH4ZFFR{{</world>}}

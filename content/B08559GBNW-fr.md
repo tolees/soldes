@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Norme CE
-- Capuchon ventilé anti-étouffement
+- Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
 - Feutres de coloriage pointe moyenne
 - Couleurs vives et lumineuses
 - Encre ultra-lavable à base d’eau
-- Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
+- Capuchon ventilé anti-étouffement
+- Norme CE
 - Grip ergonomique triangulaire pour une prise en main facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

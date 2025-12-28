@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design matelassé : leur rembourrage reste parfaitement en place. Il ne se déplace pas
 - Rembourrage : mousse de polyuréthane broyée et découpée
-- Tissu résistant aux rayons UV, spécialement conçu pour une utilisation en extérieur
 - Matière : 65 % coton et 35 % polycoton, et certifiée conforme à la norme Oeko-Tex | Standard 100
+- Design matelassé : leur rembourrage reste parfaitement en place. Il ne se déplace pas
+- Tissu résistant aux rayons UV, spécialement conçu pour une utilisation en extérieur
 - Quil sagisse de coussins de siège ou de grands coussins pour palettes, vous trouverez le produit parfait dans votre couleur favorite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

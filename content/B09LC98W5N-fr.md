@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étanche & Résistant
-- Android 11
-- Caméra ultra grand angle 120°
-- Compatible avec tous les accessoires X-Link
-- Grande autonomie : Batterie 3850 mAh
-- Norme IP 68
-- Poids : 235,5 g
 - Caméra frontale : 13 MP / Caméra arrière : 48 MP
+- Norme IP 68
+- Étanche & Résistant
 - Zéro Touch / AER
+- Grande autonomie : Batterie 3850 mAh
+- Caméra ultra grand angle 120°
 - Connectivité : 4G+
+- Poids : 235,5 g
+- Android 11
+- Compatible avec tous les accessoires X-Link
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LC98W5N{{</world>}}

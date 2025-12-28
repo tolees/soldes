@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Profitez d’un éclairage dynamique, de lumières spéculaires, d’ombres et d’une profondeur de champ refaits à neuf qui saccompagnent de modèles, de textures et denvironnements améliorés pour vous immerger profondément dans l’action.
-- Une interface avancée, basée sur la confiance et la peur, ajoute une profondeur inédite aux interactions : la manière dont vous influencez l’état psychologique de vos coéquipiers déterminera s’ils collaboreront avec vous.
-- Un boîtier Steelbook unique, Une réplique de la carte didentité du capitaine Blake, Une affiche iconique mettant en avant l’art clé et les personnages du jeu, Une boîte de collection contenant le jeu physique et tous les contenus de lédition Deluxe.
-- The Thing: Remastered – Deluxe Edition inclut le jeu physique sur PlayStation 5 ou Nintendo Switch ainsi que les objets exclusifs suivants: 2 écussons à coudre inspirés du film classique : un écusson « U.S. Antarctica Research Program Outpost 31 » et un écusson « United States Arctic Marines », comme vus dans le jeu,
 - À travers 20 niveaux à glacer le sang, dirigez votre équipe pour affronter des monstres terrifiants, allant des araignées mutantes qui cavalent à toute vitesse aux marcheurs humanoïdes, en passant par des créatures gigantesques tentaculaires.
+- The Thing: Remastered – Deluxe Edition inclut le jeu physique sur PlayStation 5 ou Nintendo Switch ainsi que les objets exclusifs suivants: 2 écussons à coudre inspirés du film classique : un écusson « U.S. Antarctica Research Program Outpost 31 » et un écusson « United States Arctic Marines », comme vus dans le jeu,
+- Un boîtier Steelbook unique, Une réplique de la carte didentité du capitaine Blake, Une affiche iconique mettant en avant l’art clé et les personnages du jeu, Une boîte de collection contenant le jeu physique et tous les contenus de lédition Deluxe.
+- Une interface avancée, basée sur la confiance et la peur, ajoute une profondeur inédite aux interactions : la manière dont vous influencez l’état psychologique de vos coéquipiers déterminera s’ils collaboreront avec vous.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DXQGQSZS{{</world>}}

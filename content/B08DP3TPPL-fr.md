@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Mixte Massana Basket Vert 41 EU'
-date: 2025-12-22 18:02:59
+date: 2025-12-27 17:37:47
 image: 'https://m.media-amazon.com/images/I/319o7v88wOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Munich'
 buyurl: 'https://www.amazon.fr/dp/B08DP3TPPL/?tag=tolees0d-21'
 descuento: '52.43'
-average: '45.2'
+average: '45.04'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
 - Fermeture : lacets
 - Matériau de la semelle : caoutchouc
+- Matériau extérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DP3TPPL{{</world>}}

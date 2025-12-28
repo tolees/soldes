@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La formule modulable épaissit les cils sans les durcir
+- Sans parabène, convient aux yeux sensibles et aux porteurs de lentilles de contact
 - Mascara volumisant et recourbant, jusqu’à 16 heures de tenue
 - Pour des cils magnifiquement recourbés et épaissis, sans aucun paquet
-- La brosse recourbante maximise le volume dès le premier passage
 - Volume du colis: 6.0 millilitres
-- Sans parabène, convient aux yeux sensibles et aux porteurs de lentilles de contact
+- La formule modulable épaissit les cils sans les durcir
+- La brosse recourbante maximise le volume dès le premier passage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00ZPJ2A4U{{</world>}}

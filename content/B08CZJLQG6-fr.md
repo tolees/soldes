@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de source dalimentation : Disques abrasifs à main
 - Qualité originale de la marque Festool. Poids du colis : 1,16 livres
 - Festool STF D225/128 P150 GR/25 Garnet, 25 pièces
-- Type de source dalimentation : Disques abrasifs à main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CZJLQG6{{</world>}}

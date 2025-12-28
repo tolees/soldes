@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Ce shampoing clarifiant testé sous contrôle dermatologique et développé par des professionnels est enrichi en piroctone olamine qui agit sur la cause première des pellicules.
+- UN CUIR CHEVELU PURIFIE ET APAISE : Développé avec des experts du cuir chevelu, le shampoing Dermo Clarifiant Scalp Advanced élimine jusquà 100 % des pellicules visibles dès la première utilisation* et soulage les irritations et démangeaisons.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - CONSEILS DUTILISATION : Appliquer sur cheveux et cuir chevelu mouillés, puis émulsionner. Rincer. En cas de cheveux gras, compléter avec lapplication de lArgile 2 en 1 purifiante Scalp Advanced.
 - SHAMPOING PROFESSIONNEL ANTI-PELLICULAIRE : Le Shampoing LOréal Professionnel Scalp Advanced clarifiant nettoie les cheveux en douceur, soulage linconfort et élimine les pellicules grasses et sèches des cheveux à tendance pelliculaire.
-- UN CUIR CHEVELU PURIFIE ET APAISE : Développé avec des experts du cuir chevelu, le shampoing Dermo Clarifiant Scalp Advanced élimine jusquà 100 % des pellicules visibles dès la première utilisation* et soulage les irritations et démangeaisons.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPYJF5CB{{</world>}}

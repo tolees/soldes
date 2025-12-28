@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autonome et nettoyage facile La base AutoEmpty gère les saletés et vous protège de la poussière pendant plus de 75 jours
-- Design élégant Le style moderne du robot Roomba 105 Combo affiche de superbes finitions et textures qui s’intègrent facilement à votre intérieur
-- Application Roomba Home simple à utiliser Il vous suffit d’appuyer pour définir un nettoyage personnalisé, obtenir des estimations de temps, vérifier la durée de vie du filtre ou créer des zones interdites
+- Nettoyage entièrement personnalisé Planifiez et ciblez les pièces en fonction de vos habitudes et ajustez le nombre de passages, les niveaux de puissance d’aspiration et la quantité de solution de lavage pompée sur la lingette en microfibre
+- Un nettoyage adapté Sélectionnez l’un des réglages suivants : aspirer uniquement, laver uniquement ou combinaison des deux et gardez l’esprit tranquille, le robot ne mouille pas les tapis et moquettes grâce à la détection automatique
 - Compatible Wi-Fi Utilise un réseau 2,4 GHz pour la configuration et le fonctionnement Après la configuration, votre robot doit rester connecté à un réseau 2,4 GHz pour pouvoir fonctionner Vous pourrez revenir en 5 GHz pour votre téléphone
 - Lavage des sols pratique Vos sols restent impeccables grâce au laveur intégré doté d’une micro-pompe qui contrôle le débit de l’eau et maintient uniformément l’humidité de la lingette pendant le nettoyage Utilisez de l’eau ou une solution de nettoyage compatible* et choisissez SmartScrub pour un frottement 2 fois plus puissant** * Par rapport au mode aspiration et lavage standard pour le café et la saleté ** Voir https://homesupportirobotcom/s/article/roomba-combo-cleanser pour la liste des solutions de nettoyage compatibles
-- Un nettoyage adapté Sélectionnez l’un des réglages suivants : aspirer uniquement, laver uniquement ou combinaison des deux et gardez l’esprit tranquille, le robot ne mouille pas les tapis et moquettes grâce à la détection automatique
-- 3 façons de contrôler Associez-le à votre assistant vocal préféré* pour un nettoyage à la demande Il suffit d’utiliser l’application ou les boutons du robot * Fonctionne avec les assistants vocaux Alexa, Siri et l’Assistant Google Alexa et tous les logos associés sont des marques d’Amazoncom ou de ses filiales Google et Google Home sont des marques de Google LLC Siri est une marque déposée d’Apple Inc aux États-Unis et dans d’autres pays et régions
+- Autonome et nettoyage facile La base AutoEmpty gère les saletés et vous protège de la poussière pendant plus de 75 jours
 - La poussière et la saleté disparaissent pour de bon Détecte, atteint et élimine la saleté grâce à une aspiration puissante de 7 000 Pa, une brosse en poils multisurface et une brosse latérale pour éliminer la saleté et la poussière, ainsi qu’une lingette de lavage en microfibre pour des sols toujours impeccables
-- Nettoyage entièrement personnalisé Planifiez et ciblez les pièces en fonction de vos habitudes et ajustez le nombre de passages, les niveaux de puissance d’aspiration et la quantité de solution de lavage pompée sur la lingette en microfibre
+- 3 façons de contrôler Associez-le à votre assistant vocal préféré* pour un nettoyage à la demande Il suffit d’utiliser l’application ou les boutons du robot * Fonctionne avec les assistants vocaux Alexa, Siri et l’Assistant Google Alexa et tous les logos associés sont des marques d’Amazoncom ou de ses filiales Google et Google Home sont des marques de Google LLC Siri est une marque déposée d’Apple Inc aux États-Unis et dans d’autres pays et régions
+- Application Roomba Home simple à utiliser Il vous suffit d’appuyer pour définir un nettoyage personnalisé, obtenir des estimations de temps, vérifier la durée de vie du filtre ou créer des zones interdites
+- Design élégant Le style moderne du robot Roomba 105 Combo affiche de superbes finitions et textures qui s’intègrent facilement à votre intérieur
 - Cartographie et navigation ultra-intelligentes Le système LiDAR ClearView cartographie rapidement votre maison, évite les obstacles et nettoie en lignes droites parallèles, même dans l’obscurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - VIVE LA PRIMO – Préparez-vous à une souris qui se montre aussi performante que vous. Avec 6 mois d’autonomie et 2 piles AAA incluses, la Primo peut aller, aller, aller…
 - VAINQUEUR HAUT LA MAIN – Avec sa conception compacte et ambidextre, la Primo est le complice idéal des gauchers et droitiers aussi bien au bureau qu’en déplacement
+- CONÇUE POUR BOUGER – La Primo vous mène là où il faut – avec une vitesse de curseur réglable entre 1000-1600 DPI, cette souris agit à votre façon !
 - INDICATEUR D’ÉTAT – Plus de doute sur la connexion de votre Primo – un indicateur LED indique l’état de votre connexion, tandis qu’un interrupteur marche/arrêt prolonge l’autonomie de la batterie
 - NE PERDEZ PAS LE FIL – Faites défiler, cliquez et bougez votre souris grâce à la connexion sans fil Bluetooth de Primo. Vous gagnez ainsi en liberté de mouvement tout en ayant un bureau bien rangé !
-- CONÇUE POUR BOUGER – La Primo vous mène là où il faut – avec une vitesse de curseur réglable entre 1000-1600 DPI, cette souris agit à votre façon !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C53JMG3R{{</world>}}

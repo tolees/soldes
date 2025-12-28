@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 20% Nylon
 - Bouton80% Laine
+- 20% Nylon
 - Lavage en machine
 - Laine
 

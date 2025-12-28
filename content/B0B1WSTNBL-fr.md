@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Très grande vitesse : jusquà 500 Mo/s en lecture et jusquà 450 Mo/s en écriture.
-- Architecture dun lecteur à état solide Clé USB
 - La meilleure solution pour le transfert de gros fichiers
+- Architecture dun lecteur à état solide Clé USB
 - Performances de transfert durables 400/200 Mo/s, 7-10 fois supérieures à celles dun dispositif USB 3.2 général.
 - Design Push-Pull, facile à utiliser et pas de risque de perdre le bouchon, simple et fin à transporter.
 

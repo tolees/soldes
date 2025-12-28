@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre véhicule : inclut une feuille d’autocollants et 2 jeux d’enjoliveurs pour transformer votre véhicule.
-- Compatible avec d’autres marques : les pièces sont compatibles avec tous les coffrets de construction Mattel Brick Shop et d’autres marques.
-- Détails authentiques : le véhicule est doté de portes qui s’ouvrent et d’un aerofin fidèle à la réalité pour un maximum d’authenticité.
-- Voiture et plaque en métal exclusives : comprend une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponible en exclusivité avec les coffrets Mattel Brick Shop.
 - Construisez la voiture de course du futur : le véhicule Projet GTP Hypercar de Cadillac à l’échelle 1/32 entièrement à construire est doté de détails réalistes.
+- Détails authentiques : le véhicule est doté de portes qui s’ouvrent et d’un aerofin fidèle à la réalité pour un maximum d’authenticité.
+- Personnalisez votre véhicule : inclut une feuille d’autocollants et 2 jeux d’enjoliveurs pour transformer votre véhicule.
+- Voiture et plaque en métal exclusives : comprend une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponible en exclusivité avec les coffrets Mattel Brick Shop.
+- Compatible avec d’autres marques : les pièces sont compatibles avec tous les coffrets de construction Mattel Brick Shop et d’autres marques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DMW7FMYX{{</world>}}

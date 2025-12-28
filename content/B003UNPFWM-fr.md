@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne t che pas
-- Séchage rapide & transparent 5 à 10 minutes
 - Sans solvant sans acide nettoyage des outils à leau savonneuse
 - Extra forte Permet également de réaliser des créations en utilisant la technique de lacrylique pouring
+- Séchage rapide & transparent 5 à 10 minutes
 - Colle forte multi-usagers papier carton bois terre cuite mousse plastique faïence liège etc
+- Ne t che pas
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003UNPFWM{{</world>}}

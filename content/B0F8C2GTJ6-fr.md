@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRENEZ LES COMMANDES Pilotez votre vaisseau, le Trailblazer, et livrez-vous à des combats spatiaux palpitants contre lEmpire et dautres adversaires. Prenez les ennemis en chasse, esquivez et attaquez au bon moment pour avoir lavantage
-- DÉCOUVREZ TOUTE UNE GALAXIE DOPPORTUNITÉS Explorez des lieux mémorables, des villes débordant dactivité aux cantinas animées. Foncez dans dimmenses zones extérieures sur votre speeder. Chaque lieu regorge de nouvelles aventures, de défis uniques et de récompenses alléchantes, à condition de savoir prendre des risques.
 - PRENEZ PART À DES MISSIONS AUX ENJEUX ÉLEVÉS Acceptez des missions aussi risquées que lucratives auprès des syndicats criminels. Volez des marchandises précieuses, infiltrez-vous dans des lieux secrets et dupez vos adversaires en vous frottant aux pires criminels de la galaxie. Chacune de vos décisions affectera votre réputation, en bien ou en mal
+- DÉCOUVREZ TOUTE UNE GALAXIE DOPPORTUNITÉS Explorez des lieux mémorables, des villes débordant dactivité aux cantinas animées. Foncez dans dimmenses zones extérieures sur votre speeder. Chaque lieu regorge de nouvelles aventures, de défis uniques et de récompenses alléchantes, à condition de savoir prendre des risques.
+- PRENEZ LES COMMANDES Pilotez votre vaisseau, le Trailblazer, et livrez-vous à des combats spatiaux palpitants contre lEmpire et dautres adversaires. Prenez les ennemis en chasse, esquivez et attaquez au bon moment pour avoir lavantage
 - VIVEZ UNE TOUTE NOUVELLE HISTOIRE DE HORS-LA-LOI Menez lexistence sur le fil dune véritable hors-la-loi. Gardez la maîtrise en toute situation, avec Nix à vos côtés : battez-vous avec votre blaster, venez à bout de vos ennemis grâce à votre furtivité et vos gadgets, ou distrayez vos ennemis au bon moment pour prendre lavantage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

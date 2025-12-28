@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pour peintures murales à base d’eau et de solvants, peintures sur plafonds, bois et métal
-- Réservoir 600 ml
 - Façade amovible pour pistolet click and paint Wagner
 - Pour projets de petite à moyenne taille
+- Réservoir 600 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0896L6WJZ{{</world>}}

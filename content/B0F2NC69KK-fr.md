@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend les technologies Xbox Wireless et Bluetooth pour jouer sans fil sur les consoles compatibles, les PC Windows 10 & 11, les smartphones Android & IOS et les tablettes
-- Découvrez le design actualisé de la manette sans fil Xbox Carbon Black, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru. Restez dans laction grâce à la surface antidérapante texturée et au BMD hybride
 - Vous pouvez connecter des casques et des écouteurs compatibles à la prise casque stéréo 3,5 mm
-- Piles AA incluses offrant jusquà 40 heures dautonomie (lautonomie varie considérablement en fonction des casques, des accessoires supplémentaires, de lutilisation et dautres facteurs. Tests réalisés par Microsoft avec des équipements de préproduction)
 - Personnalisez la manette en fonction de vos besoins et utiliser lapplication Xbox Accessoires pour attribuer les boutons comme vous le souhaitez.
+- Découvrez le design actualisé de la manette sans fil Xbox Carbon Black, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru. Restez dans laction grâce à la surface antidérapante texturée et au BMD hybride
+- Piles AA incluses offrant jusquà 40 heures dautonomie (lautonomie varie considérablement en fonction des casques, des accessoires supplémentaires, de lutilisation et dautres facteurs. Tests réalisés par Microsoft avec des équipements de préproduction)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2NC69KK{{</world>}}

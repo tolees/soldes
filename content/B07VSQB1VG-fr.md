@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉTECTEUR DE MOUVEMENT : Suivez en temps réel votre bébé grâce au détecteur de sons et de mouvements. La caméra envoie une notification sur votre appareil dès qu’un son ou un mouvement est perçu
-- NOMADE : Peut être installée absolument partout, vidéo disponible depuis n’importe quelle connexion wifi. Fixation multisupport
+- APPLICATION MOBILE : Grâce à la connectivité wifi et l’application mobile dédiée, surveillez bébé où que vous soyez et communiquez avec lui depuis votre smartphone ou tablette. Disponible sur téléphones Androïd et IOS
 - SURVEILLANCE HAUTE QUALITÉ : Profitez d’une surveillance de haute qualité grâce à une image full HD 1080p et une LED infrarouge permettant de garder un œil sur votre bébé même la nuit
 - TALKIE-WALKIE : La fonction talkie-walkie vous permet de communiquer avec votre bébé pour le rassurer et lancer une berceuse pour l’aider à s’endormir
-- APPLICATION MOBILE : Grâce à la connectivité wifi et l’application mobile dédiée, surveillez bébé où que vous soyez et communiquez avec lui depuis votre smartphone ou tablette. Disponible sur téléphones Androïd et IOS
+- DÉTECTEUR DE MOUVEMENT : Suivez en temps réel votre bébé grâce au détecteur de sons et de mouvements. La caméra envoie une notification sur votre appareil dès qu’un son ou un mouvement est perçu
+- NOMADE : Peut être installée absolument partout, vidéo disponible depuis n’importe quelle connexion wifi. Fixation multisupport
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VSQB1VG{{</world>}}

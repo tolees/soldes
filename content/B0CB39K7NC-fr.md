@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TV LED Ultra HD 4K 126 cm (50 pouces) - résolution 3 840 x 2 160px
-- Processeur Quad Core / Angle de vision 178 / 178
 - Contrôle vocal Google Assistant
 - HDR10 - Dolby Atmos
+- TV LED Ultra HD 4K 126 cm (50 pouces) - résolution 3 840 x 2 160px
 - Smart TV (Android) - HbbTV - Chromecast intégré
+- Processeur Quad Core / Angle de vision 178 / 178
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB39K7NC{{</world>}}

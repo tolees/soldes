@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions (LxPxH): 28 x 18 x 4.4 cm / Poids: 1.7 kg
-- Mode de communication: Semi-duplex, duplex intégral
-- Alimentation: CA 120/230 V (50/60 Hz)
-- Nombre de ports: 16 x Ethernet 10Base-T, Ethernet 100Base-TX, Ethernet 1000Base-T
-- Garantie constructeur: 2 ans
-- Protocole de liaison de données: Ethernet, Fast Ethernet, Gigabit Ethernet
-- Description du produit: D-Link DGS 1016D - Commutateur 16 Ports Gigabit
-- Débit de transfert de données: 1 Gbits/s
 - Conformité aux normes: IEEE 802.3, IEEE 802.3U, IEEE 802.3ab, IEEE 802.3x
+- Description du produit: D-Link DGS 1016D - Commutateur 16 Ports Gigabit
+- Garantie constructeur: 2 ans
+- Dimensions (LxPxH): 28 x 18 x 4.4 cm / Poids: 1.7 kg
 - Caractéristiques: Contrôle du flux, Fonction duplex intégral, Auto Uplink, stockage et retransmission
+- Alimentation: CA 120/230 V (50/60 Hz)
+- Protocole de liaison de données: Ethernet, Fast Ethernet, Gigabit Ethernet
+- Débit de transfert de données: 1 Gbits/s
+- Nombre de ports: 16 x Ethernet 10Base-T, Ethernet 100Base-TX, Ethernet 1000Base-T
+- Mode de communication: Semi-duplex, duplex intégral
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0007SQGV2{{</world>}}

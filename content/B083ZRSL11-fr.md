@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matières : Structure : acier - Plateaux : métal
-- Dimensions : Desserte : L 90 × l 65 × H 80cm - Surface de travail : L 80 × l 55cm
 - À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
 - Couleurs : Structure : grise anthracite - Plateaux : noir
+- Dimensions : Desserte : L 90 × l 65 × H 80cm - Surface de travail : L 80 × l 55cm
 - Envie dun meuble dappoint et dun plan de travail ? La desserte MEDIA répond à tous vos besoins !
+- Matières : Structure : acier - Plateaux : métal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083ZRSL11{{</world>}}

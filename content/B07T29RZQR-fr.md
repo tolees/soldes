@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau: 10 atm.
-- Montre chronographe quartz pour homme.
 - Boîtier round de acier inoxydable, couleur noir.
 - Bracelet de cuir, couleur marron, avec fermeture à boucle.
+- Montre chronographe quartz pour homme.
+- Résistance à leau: 10 atm.
 - Cadran round en couleur noir en verre minéral.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

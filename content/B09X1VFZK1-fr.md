@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTALLATION FACILE : Le système Isofix avec Top Tether et les harnais intégrés jusquà 105 cm garantissent une installation simple et rapide du siège. A partir de 100 cm de hauteur, linstallation seffectue à laide des ceintures 3 points du véhicule
 - SIÈGE AUTO LONGUE DURÉE : MySeat est le siège auto Chicco adapté à ceux qui recherchent un produit pratique, confortable et sûr pour leur enfant. Il est homologué selon la réglementation ECE R 129/03 la plus récente pour le transport denfants de 76 à 150 cm de hauteur. Le compagnon de voyage idéal pendant des années
+- INSTALLATION FACILE : Le système Isofix avec Top Tether et les harnais intégrés jusquà 105 cm garantissent une installation simple et rapide du siège. A partir de 100 cm de hauteur, linstallation seffectue à laide des ceintures 3 points du véhicule
 - MINI-RÉDUCTEUR INCLUS : Le réducteur pratique inclus assure le bon confort pour les jeunes enfants
 
 [🛒 Achète-le!!]({{< param buyurl >}})

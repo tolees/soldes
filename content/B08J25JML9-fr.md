@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture Velcro pour un bon ajustement
-- Couleur : bleu foncé
 - Lacets 74% PET recyclé - 26% Latex
-- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
+- Couleur : bleu foncé
 - Tige : Cuir de vachette / Tissu technique
+- Fermeture Velcro pour un bon ajustement
+- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08J25JML9{{</world>}}

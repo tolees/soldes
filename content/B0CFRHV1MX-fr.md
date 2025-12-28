@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A rich oud scent with notes of amber and spice.
 - Warm and sophisticated aroma.
+- A rich oud scent with notes of amber and spice.
 - Badee Al Oud Honor And Glory by Lattafa.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

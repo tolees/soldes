@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 30 ml
-- Encre 4001 Pelikan
 - Brillante
+- Encre 4001 Pelikan
+- 30 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000KT91QU{{</world>}}

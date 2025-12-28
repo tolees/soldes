@@ -29,15 +29,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tige en mesh.
-- Semelle intermédiaire Bounce 2.0.
 - Fidèle à la taille
 - Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
+- Poids : 306 g (pointure 42 2/3).
+- Contient au moins 20 % de matériaux recyclés.
+- Semelle intermédiaire Bounce 2.0.
+- Assise plantaire Cloudfoam Plus.
+- Semelle extérieure en caoutchouc.
 - Doublure textile.
 - Fermeture à lacets.
-- Assise plantaire Cloudfoam Plus.
-- Poids : 306 g (pointure 42 2/3).
-- Semelle extérieure en caoutchouc.
-- Contient au moins 20 % de matériaux recyclés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHXGJF71{{</world>}}

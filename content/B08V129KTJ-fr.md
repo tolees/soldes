@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement intuitif via le bouton de fonction : marche/arrêt, 75/80 microns, 125 microns, froid, avec levier pour le déverrouillage du rouleau
 - Fonctionnement intuitif via le bouton de fonction : marche/arrêt, 75/80 microns, 125 microns, à froid, avec levier pour le déverrouillage du rouleau
 - Couvercle rabattable servant daide à linsertion à larrière, comprend une règle de découpe, un arrondisseur dangle et un ensemble de 15 feuilles daluminium
+- Fonctionnement intuitif via le bouton de fonction : marche/arrêt, 75/80 microns, 125 microns, froid, avec levier pour le déverrouillage du rouleau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08V129KTJ{{</world>}}

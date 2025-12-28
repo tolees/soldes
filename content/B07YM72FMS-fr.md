@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pratique, ce gonfleur nomade peut être utilisé sans fil. Grâce à sa batterie intégrée (rechargeable sur prise secteur 230V) il permet environ 10 cycles de gonflage de 0 à 2 bars lorsque la batterie est pleinement chargée
 - Compresseur à air universel: contient 3 embouts pour ballons, vélos ou jeux gonflables. 3 unités de mesure de pression disponibles: bar, psi, kPa
-- Compresseur sans fil MICHELIN, puissance 10A/ 120W, ajuste la pression d’un Pneu standard en 3 minutes. Gonflage de pneus voiture jusquà 3.45 bars. Gonflage de pneus vélo jusquà 6.90 bars
-- Tuyau de gonflage de 60 cm avec connecteur de valve de pneu, 5 LEDs d’éclairage pour une utilisation dans la nuit, manomètre rétroéclairé, Témoins de charge de la batterie
 - Comporte 2 prises allume-cigare 12V et 2 ports usb 5V 100mA, vous permettant de recharger vos appareils électriques et téléphones
+- Tuyau de gonflage de 60 cm avec connecteur de valve de pneu, 5 LEDs d’éclairage pour une utilisation dans la nuit, manomètre rétroéclairé, Témoins de charge de la batterie
+- Compresseur sans fil MICHELIN, puissance 10A/ 120W, ajuste la pression d’un Pneu standard en 3 minutes. Gonflage de pneus voiture jusquà 3.45 bars. Gonflage de pneus vélo jusquà 6.90 bars
+- Pratique, ce gonfleur nomade peut être utilisé sans fil. Grâce à sa batterie intégrée (rechargeable sur prise secteur 230V) il permet environ 10 cycles de gonflage de 0 à 2 bars lorsque la batterie est pleinement chargée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07YM72FMS{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Leur bille moyenne assure un débit dencre parfaitement régulier ; elle mesure 1,0 mm de diamètre pour une largeur de trait de 0,32 mm
+- Les encres bleue et noire écrivant en moyenne 1.8km, ces stylos à bille légers sont certifiés NF Environnement
 - Ces stylos-bille rechargeables existent en 4 couleurs dencre (noir, bleu, rouge et vert) mais sont vendus ici en noir exclusivement
 - Fini les capuchons perdus, la pointe de ces 36 stylos BIC Atlantis Classic se rétracte en un clic
-- Les encres bleue et noire écrivant en moyenne 1.8km, ces stylos à bille légers sont certifiés NF Environnement
 - Stylos-bille design, leur forme est élégamment fuselée et ils possèdent un grip confortable pour écrire sans se fatiguer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

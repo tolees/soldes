@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce super micro permet de chanter en karaoké sur ses chansons préférées. Il suffit de brancher son lecteur Mp3 grâce au câble inclus
 - Version française
-- Remarque - Dès la première mise en service, lutilisateur doit suivre les instructions pour sortir du mode démonstration. Les piles dorigine doivent également être remplacées dès que le jouet montre les premiers signes de panne
 - Effets de lumières qui varient selon lintensité de la chanson
+- Remarque - Dès la première mise en service, lutilisateur doit suivre les instructions pour sortir du mode démonstration. Les piles dorigine doivent également être remplacées dès que le jouet montre les premiers signes de panne
+- Ce super micro permet de chanter en karaoké sur ses chansons préférées. Il suffit de brancher son lecteur Mp3 grâce au câble inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0785GFVFT{{</world>}}

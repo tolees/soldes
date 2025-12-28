@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Keycaps robustes: Les capuchons de touches en peinture ABS sont robustes et résilients et ne se fissurent pas sous la pression
 - Acoustique de frappe très satisfaisante : Deux couches d’insonorisation faites en mousse haut de gamme ainsi que des stabilisateurs prélubrifiés atténuent les claquements de touche agaçants pour offrir une acoustique de frappe agréable
-- Contrôle multimédia efficace : Contrôlez le volume et bien plus encore avec une molette rotative multifonction et un bouton média programmable configurable avec iCUE
-- Disposition sans pavé numérique (tenkeyless) pour une économie d’espace : Le format compact sans pavé numérique convient aux espaces de jeu réduits et offre plus d’espace pour les grands mouvements de souris
+- Keycaps robustes: Les capuchons de touches en peinture ABS sont robustes et résilients et ne se fissurent pas sous la pression
 - Switchs de touche prélubrifiés MLX Red v2 : Les switchs linéaires mécaniques CORSAIR MLX Red v2 prélubrifiés garantissent des frappes fluides, réactives et stables, et ils sont dotés d’un rétroéclairage RGB par touche amélioré et ultralumineux
+- Disposition sans pavé numérique (tenkeyless) pour une économie d’espace : Le format compact sans pavé numérique convient aux espaces de jeu réduits et offre plus d’espace pour les grands mouvements de souris
+- Contrôle multimédia efficace : Contrôlez le volume et bien plus encore avec une molette rotative multifonction et un bouton média programmable configurable avec iCUE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DG363LK1{{</world>}}

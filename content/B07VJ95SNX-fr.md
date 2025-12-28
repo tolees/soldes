@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
-- Hauteur :
-- Couleur : noir
 - Dessus : cuir (cuir de veau)
+- Couleur : noir
 - Coutures à 360° pour plus de durabilité
+- Hauteur :
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VJ95SNX{{</world>}}

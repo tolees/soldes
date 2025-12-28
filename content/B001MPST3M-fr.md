@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE pour tout les types de peinture vernies
-- TAMPON applicateur fourni dans la boîte
-- FORMULE UNIQUE à base de Carnauba et de polymère
 - BRILLANCE ECLATANTE grâce à une formule améliorée
+- TAMPON applicateur fourni dans la boîte
+- COMPATIBLE pour tout les types de peinture vernies
+- FORMULE UNIQUE à base de Carnauba et de polymère
 - LUSTRE la peinture pour lui apporter un éclat durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

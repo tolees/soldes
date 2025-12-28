@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en argent sterling 925
 - Dimensions: Largeur: 2mm
+- Bracelet en argent sterling 925
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01CTQJ2ZQ{{</world>}}

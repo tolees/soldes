@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Roues avant pivotantes】①Direction manuelle : tournez les roues avant manuellement avec vos doigts. ②Réglage automatique : les roues sajustent automatiquement lorsquelles rencontrent de petits obstacles, facilitant la navigation.
-- 【Aucune pile requise】Fonctionne uniquement grâce à lénergie du ressort mécanique, offrant un plaisir sans fin sans avoir besoin de piles, ce qui en fait un jouet durable et classique.
 - 【Kits de modèles de voitures de course ROKR】Les kits de modèles de voitures de course ROKR offrent une expérience dassemblage de modèles en bois détaillée et engageante, parfaite pour les passionnés et les amateurs.
-- 【Découvrez le plaisir de lassemblage】Assemblez des pièces en bois découpées avec précision, en suivant des instructions détaillées, pour une expérience de construction enrichissante qui imite les voitures de course réelles.
+- 【Aucune pile requise】Fonctionne uniquement grâce à lénergie du ressort mécanique, offrant un plaisir sans fin sans avoir besoin de piles, ce qui en fait un jouet durable et classique.
+- 【Roues avant pivotantes】①Direction manuelle : tournez les roues avant manuellement avec vos doigts. ②Réglage automatique : les roues sajustent automatiquement lorsquelles rencontrent de petits obstacles, facilitant la navigation.
 - 【Comment jouer】①Tournez la clé T : remontez la clé T dans le sens des aiguilles dune montre pour charger le mécanisme à ressort interne. ② Appuyez sur le casque : libérez lénergie stockée en appuyant sur le casque du conducteur pour démarrer la voiture. ③Frein avec bouton : ralentissez en appuyant sur le bouton en bas du modèle.
+- 【Découvrez le plaisir de lassemblage】Assemblez des pièces en bois découpées avec précision, en suivant des instructions détaillées, pour une expérience de construction enrichissante qui imite les voitures de course réelles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBZNM49R{{</world>}}

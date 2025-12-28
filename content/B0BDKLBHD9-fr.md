@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez Des Meilleures Chaussures De La Marque: Panama Jack
-- Saison: été
 - Composition Extérieure:
+- Saison: été
+- Profitez Des Meilleures Chaussures De La Marque: Panama Jack
 - Composition Intérieure: Cuir Véritable
 - Si vous ne connaissez pas votre taille, nous vous recommandons: Sélectionnez une taille plus grande que d habitude
 

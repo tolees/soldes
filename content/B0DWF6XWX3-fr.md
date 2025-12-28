@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Set de construction pour adulte – Recréez l’esprit ludique de Luxo Jr. avec ce modèle en briques LEGO articulé du personnage de Luxo Jr., le court-métrage d’animation révolutionnaire de Disney Pixar réalisé en 1986
 - Idée de cadeau sur le thème des films danimation pour homme, femme & fans de Disney Pixar – Faites-vous plaisir ou offrez ce set de construction LEGO Ideas à un adulte fan des films Disney Pixar
-- Le choix des fans de LEGO – Cette maquette à construire fait partie d’une collection de sets LEGO Ideas fascinants, créés par des fans-concepteurs, élus par des fans de LEGO et produits par le groupe LEGO
+- Une expérience immersive – Retrouvez les instructions de montage dans l’application LEGO Builder et dans le livret inclus, qui contient également des entretiens avec le fan-concepteur et les designers LEGO à l’origine du set
+- Balle Disney Pixar à assembler – La balle Pixar contient des surprises cachées faisant référence aux films Disney Pixar Là-haut, Les Indestructibles, Ratatouille, Monstres et Cie, Toy Story & Nemo
 - Objet de décoration pour la maison ou le bureau – Retirez les 2 plaques arrondies et opposées sur la balle Pixar pour créer une base sur laquelle Luxo Jr. peut se tenir, comme s’il la dégonflait
 - Maquette à exposer pour un hommage au monde de l’animation – Le modèle collector LEGO Ideas | Disney Pixar Luxo Jr. est entièrement articulé pour recréer ses mouvements de saut et de rotation
-- Balle Disney Pixar à assembler – La balle Pixar contient des surprises cachées faisant référence aux films Disney Pixar Là-haut, Les Indestructibles, Ratatouille, Monstres et Cie, Toy Story & Nemo
-- Set de construction pour adulte – Recréez l’esprit ludique de Luxo Jr. avec ce modèle en briques LEGO articulé du personnage de Luxo Jr., le court-métrage d’animation révolutionnaire de Disney Pixar réalisé en 1986
-- Une expérience immersive – Retrouvez les instructions de montage dans l’application LEGO Builder et dans le livret inclus, qui contient également des entretiens avec le fan-concepteur et les designers LEGO à l’origine du set
+- Le choix des fans de LEGO – Cette maquette à construire fait partie d’une collection de sets LEGO Ideas fascinants, créés par des fans-concepteurs, élus par des fans de LEGO et produits par le groupe LEGO
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWF6XWX3{{</world>}}

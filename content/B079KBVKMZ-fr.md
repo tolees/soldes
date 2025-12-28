@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Système damortissement
 - Flexibilité
 - Facile à installer
-- Système damortissement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079KBVKMZ{{</world>}}

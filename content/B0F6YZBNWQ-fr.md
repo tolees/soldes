@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le passé rencontre le présent : Sonic Classique et Moderne doivent s’unir afin de restaurer le cours du temps !
 - Un remaster complet : Plongez dans une aventure à travers le temps proposant des niveaux emblématiques avec des graphismes améliorés.
 - Retour d’un héros : Découvrez une histoire inédite mettant en vedette Shadow.
-- Le passé rencontre le présent : Sonic Classique et Moderne doivent s’unir afin de restaurer le cours du temps !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F6YZBNWQ{{</world>}}

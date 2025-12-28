@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Objets classiques à collectionner : collectionnez 25 cassettes vintage et 20 canards cachés dans des lieux inventifs, récompensant lexploration et la persévérance.
-- Un jeu de plateforme et de réflexion dinspiration rétro : une suite moderne inspirée du charme et de lart des premiers classiques britanniques en vue isométrique.
-- Charme rétro, design moderne : un hommage à lesthétique de lère 8 bits tout en proposant des mécaniques de plateforme modernes et soignées.
 - Contenu riche : Partez à la recherche dobjets collectionnables disséminés dans le monde du jeu pour débloquer de nouvelles aventures
+- Objets classiques à collectionner : collectionnez 25 cassettes vintage et 20 canards cachés dans des lieux inventifs, récompensant lexploration et la persévérance.
 - Un gameplay évolutif : parcourez des dimensions et des portails changeants ; des mini-jeux et des niveaux transversaux vous surprennent à chaque tournant.
+- Charme rétro, design moderne : un hommage à lesthétique de lère 8 bits tout en proposant des mécaniques de plateforme modernes et soignées.
+- Un jeu de plateforme et de réflexion dinspiration rétro : une suite moderne inspirée du charme et de lart des premiers classiques britanniques en vue isométrique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FLDJPCYG{{</world>}}

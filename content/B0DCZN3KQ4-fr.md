@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1 port Gigabit pour des transmissions à haut débit
+- Prend en charge le PoE 802.3at et le PoE passif (adaptateur PoE inclus) pour une installation facile
+- Gestion centralisée gratuite dans le cloud via lapplication Festa ou le Web
 - Le maillage et litinérance transparente permettent une connectivité sans fil fluide
 - ​​​​​​Jusquà 1,8 Gbit/s WiFi 6 vitesses : 574 Mbit/s sur 2,4 GHz et 1 201 Mbit/s sur 5 GHz*
-- Gestion centralisée gratuite dans le cloud via lapplication Festa ou le Web
-- Prend en charge le PoE 802.3at et le PoE passif (adaptateur PoE inclus) pour une installation facile
-- 1 port Gigabit pour des transmissions à haut débit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DCZN3KQ4{{</world>}}

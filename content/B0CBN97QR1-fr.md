@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise en main ergonomique
 - Sous licence officielle de Nintendo
-- Gâchettes à action rapide
+- Prise en main ergonomique
 - Inclut la fonction Turbo
+- Gâchettes à action rapide
 - Longueur du câble : 3m
 
 [🛒 Achète-le!!]({{< param buyurl >}})

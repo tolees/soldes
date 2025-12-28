@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 🔥 Jeu de société hilarant, créatif & intelligent (2 à 10 joueurs / 25 minutes)
-- 😂 DÉLIRANT : à votre tour de compléter une phrase incroyable. La première équipe qui perd tous ses jetons perd la partie !
 - 🏆 BEST SELLER : un jeu de bluff délirant, par le créateur de Speed Bac et Mouton Mouton. pour des moments hilarants en famille, entre adultes, avec des ados ou avec votre tante Monique.
 - 😄 INSOLITE : Piochez un début de phrase parmi des centaines de phrases drôles & insolites.
+- 😂 DÉLIRANT : à votre tour de compléter une phrase incroyable. La première équipe qui perd tous ses jetons perd la partie !
 - 🐦 PARI : L’équipe adverse mise ses jetons. Plus elle mise sur vos fins bidons, plus elle perd de jetons, plus vous rigolez !
 - 😎 BLUFF : Ecrivez 3 fins : la vraie + 2 fins BIDONS que vous inventez 😄.
 

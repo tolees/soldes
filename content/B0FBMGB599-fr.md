@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Enrichissez également votre collection avec 6 boosters du JCC Pokémon ! (Les boosters sont sélectionnés au hasard et contiennent 10 cartes et 1 Énergie de base.)
+- Vous obtiendrez également 1 arrière-plan recto verso, 1 page de figurines sur pied en acrylique de Cynthia, Carchacrok et d’autres, et 1 autocollant photo de Cynthia et Carchacrok.
+- À vous la puissance des Maîtres avec Cynthia et Carchacrok !
 - Cynthia est l’une des Dresseuses les plus puissantes du monde. Son Carchacrok est à ses côtés depuis le début !
 - Dans cette collection, vous découvrirez 1 carte promo brillante entièrement illustrée de Carchacrok-ex de Cynthia ainsi que 2 cartes brillantes de Griknot de Cynthia et Carmache de Cynthia.
-- À vous la puissance des Maîtres avec Cynthia et Carchacrok !
-- Vous obtiendrez également 1 arrière-plan recto verso, 1 page de figurines sur pied en acrylique de Cynthia, Carchacrok et d’autres, et 1 autocollant photo de Cynthia et Carchacrok.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FBMGB599{{</world>}}

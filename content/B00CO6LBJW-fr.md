@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilise et se recharge en mines 0,7mm
-- Lot de 12 porte-mines rechargeables FIESTA
-- Fourni avec 2 mines 0,7mm HB
-- Muni dune gomme et agrafe
 - Corps rouge avec embase caoutchouc antidérapante pour plus de confort
+- Utilise et se recharge en mines 0,7mm
+- Fourni avec 2 mines 0,7mm HB
+- Lot de 12 porte-mines rechargeables FIESTA
+- Muni dune gomme et agrafe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CO6LBJW{{</world>}}

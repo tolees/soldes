@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité de 1,3 litre pour préparer jusquà 12 tasses de café. Fonction de conservation de la chaleur.
-- Fonction darrêt automatique. Réservoir avec fenêtre. Cuillère doseuse incluse.
 - Cafetière goutte à goutte qui prépare automatiquement le café à lheure souhaitée avec technologie ExtremeAroma et finitions en acier inoxydable.
 - Puissance : 800 W. Embout anti-goutte. Filtre permanent et permet également dutiliser des filtres en papier.
+- Fonction darrêt automatique. Réservoir avec fenêtre. Cuillère doseuse incluse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CMXY911D{{</world>}}

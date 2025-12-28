@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Sac de voyage/sac à dos S avec 2 roulettes (bagage à main : voyage de 2 jours) : 25 x 40 x 55 cm, 51 L, 2,40 kg
 - Matériaux résistants aux intempéries : polyuréthane durable et polyester
-- Emballez vos affaires : volume énorme pour vos affaires avec plusieurs poches
 - Bretelles rembourrées ergonomiques
+- Emballez vos affaires : volume énorme pour vos affaires avec plusieurs poches
 - Compartiment principal avec sangles croisées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

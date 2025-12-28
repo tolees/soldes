@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : textile
-- Forme du talon : talon bloc
 - Semelle : éthylène-acétate de vinyle
+- Forme du talon : talon bloc
+- Matériau intérieur : textile
 - Matériau extérieur : synthétique
 - Fermeture : fermeture éclair
 

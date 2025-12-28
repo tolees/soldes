@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effets lumineux dynamiques RGB par touche
 - Connecteur USB plaqué or avec câble tressé résistant
 - Cadre en aluminium durable, Repose-poignet détachable
 - Personnalisation avancée avec le logiciel HyperX NGENUITY
+- Effets lumineux dynamiques RGB par touche
 - Commutateurs mécaniques fiables et étanches à la poussière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

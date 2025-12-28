@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU IMMERSIF ET SANS BORDURE - Les écrans incurvés de MSI offrent une expérience de jeu plus immersive grâce à une courbure de 1500R (rayon de 1500 mm) et à leur design « sans cadre », qui réduit les zones de bordure entre les écrans.
-- 34" UWQHD, 180 Hz - Dalle VA 3440 x 1440 (format 16:9) avec un taux de rafraîchissement de 180 Hz (Adaptive Sync) pour une visée et un suivi des mouvements fluides ; le temps de réponse de 1 ms est idéal pour les compétitions desport.
-- CONNECTIVITÉ HDMI CEC - Les options de connexion aux consoles PC et aux ordinateurs portables incluent DisplayPort 1.4a et HDMI 2.0b CEC. Lécran dispose dun joystick de navigation 5 directions situé à larrière
 - LARGE GAMME DE COULEURS - Le MAG 346CQ prend en charge jusquà 1,07 milliard de couleurs à 100 % sRGB pour des images et des détails plus immersifs ; il est doté de la technologie Less Blue Light et de lantiscintillement pour réduire la fatigue visuelle.
 - CONTRASTE DYNAMIQUE ET AI VISION - La dalle VA offre un excellent contraste natif de 4000:1 et prend en charge le contraste dynamique (100M:1) ; MSI AI Vision enrichit les détails dans les zones sombres et optimise la luminosité et les couleurs.
+- CONNECTIVITÉ HDMI CEC - Les options de connexion aux consoles PC et aux ordinateurs portables incluent DisplayPort 1.4a et HDMI 2.0b CEC. Lécran dispose dun joystick de navigation 5 directions situé à larrière
+- 34" UWQHD, 180 Hz - Dalle VA 3440 x 1440 (format 16:9) avec un taux de rafraîchissement de 180 Hz (Adaptive Sync) pour une visée et un suivi des mouvements fluides ; le temps de réponse de 1 ms est idéal pour les compétitions desport.
+- JEU IMMERSIF ET SANS BORDURE - Les écrans incurvés de MSI offrent une expérience de jeu plus immersive grâce à une courbure de 1500R (rayon de 1500 mm) et à leur design « sans cadre », qui réduit les zones de bordure entre les écrans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQFC3ZKF{{</world>}}

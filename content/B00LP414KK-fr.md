@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Enrichi en vitamine E et huile de jojoba, il est doux pour les yeux
-- Peut être utilisé comme eye-liner / crayon et comme fard à paupières
 - Disponible en 3 finis : semi-mat, brillant et scintillant
-- Formule waterproof, ne coule pas et ne bouge pas
 - Crayon waterproof de couleur vive pour un look de soirée parfait
+- Formule waterproof, ne coule pas et ne bouge pas
+- Peut être utilisé comme eye-liner / crayon et comme fard à paupières
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00LP414KK{{</world>}}

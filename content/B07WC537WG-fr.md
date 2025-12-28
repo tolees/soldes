@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- encolure ras du cou style en couches
-- Regular Fit
 - Hem de la queue de chute
+- Regular Fit
+- encolure ras du cou style en couches
 - Le recyclage de 100% polyester (oeillet blanc)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

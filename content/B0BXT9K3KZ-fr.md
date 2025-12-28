@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- (c) Wewantsounds 2023
 - (p) WeWantSounds 2023
+- (c) Wewantsounds 2023
 - Numéro de catalogue/SKU : WWSLP74
 - Vinyle LP de Wewantsounds
 

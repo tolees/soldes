@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Dubliner a une coupe pointue et notre système de protection HELLY TECH imperméable et respirant - tout ce dont vous avez besoin pour avoir lair et vous sentir bien lors dune journée pluvieuse en ville. Lextérieur est doté dun traitement déperlant sans PFC. Sa doublure légère à séchage rapide ajoute au confort par temps chaud et froid. Soucieuse de la planète, cette veste est fabriquée de manière responsable selon le processus de fabrication textile certifié bluesign.
 - Veste de pluie pour homme, élégante, polyvalente et entièrement imperméable.
 - Articles livrés 1x Helly Hansen Homme Veste De Pluie Dubliner,XL,Noir
 - Shell : 100% Polyester - Doublure : 100% Polyester - Doublure 2 : 100% Polyester
+- Le Dubliner a une coupe pointue et notre système de protection HELLY TECH imperméable et respirant - tout ce dont vous avez besoin pour avoir lair et vous sentir bien lors dune journée pluvieuse en ville. Lextérieur est doté dun traitement déperlant sans PFC. Sa doublure légère à séchage rapide ajoute au confort par temps chaud et froid. Soucieuse de la planète, cette veste est fabriquée de manière responsable selon le processus de fabrication textile certifié bluesign.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01EOX0B0C{{</world>}}

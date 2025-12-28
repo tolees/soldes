@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle : 100 % caoutchouc vulcanisé
+- Meilleure peau
+- Matériau extérieur : 100 % cuir de vachette
 - Doublure : 78 % tissu (100 % PET recyclé) - 22 % cuir de vachette
 - Couleur : blanc naturel
-- Matériau extérieur : 100 % cuir de vachette
-- Meilleure peau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV55M5M5{{</world>}}

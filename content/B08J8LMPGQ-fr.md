@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de plateforme 3D sur PS5 : Sackboy est de retour, accompagné de ses chevaliers maillés pour sauver Patchwork Monde des mains de lignoble Vex
-- Caractéristiques du jeu : Mode Solo ou Multijoueur (2-4 joueurs) en ligne et hors-ligne, Version physique, Disponible en français et en anglais
 - Contenu de la livraison : 1 x Jeu Sackboy : A Big Adventure, Version physique, Jaquette en français, Bonus de précommande : la bande dessinée numérique Sackboy : A Big Adventure
 - Compatibilité : console PS5 avec manettes DualSense
+- Jeu de plateforme 3D sur PS5 : Sackboy est de retour, accompagné de ses chevaliers maillés pour sauver Patchwork Monde des mains de lignoble Vex
 - Jeu de plateforme 3D aux graphismes impressionnants avec visuels 3D et gameplay immersif : challenges palpitants et périlleux dans des décors uniques
+- Caractéristiques du jeu : Mode Solo ou Multijoueur (2-4 joueurs) en ligne et hors-ligne, Version physique, Disponible en français et en anglais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08J8LMPGQ{{</world>}}

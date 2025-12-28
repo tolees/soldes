@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Enregistreur à deux canaux – compatible avec les capsules de microphone – sampling jusquà 24-bit/96 kHz – Écran monochrome de 1,25
 - Entrée stéréo de 1/8" micron/line avec alimentation de 2,5 V – sortie stéréo de 1/8" phone/ligne avec volume dédié
 - Fonction son Marker qui génère un « ciak tone » qui facilite la synchronisation audio/vidéo – enregistrement sur carte SD et SD jusquà 32 Go – connexion micro USB pour transfert de fichiers et fonction interface audio
 - Limiter intégré – Générateur de tonalité pour étalonnage entre F1 appareils externes
-- Enregistreur à deux canaux – compatible avec les capsules de microphone – sampling jusquà 24-bit/96 kHz – Écran monochrome de 1,25
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079NWS24D{{</world>}}

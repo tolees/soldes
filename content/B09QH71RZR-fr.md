@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Incroyable MediaTek Helio G96 octa-core】MediaTek Helio G96 permet lincroyable appareil photo 108MP et un taux de rafraîchissement fluide de 90 Hz, vous offrant des prises de vue nettes ainsi que des expériences de jeu puissantes.
-- 【Affichage à taux de rafraîchissement élevé de 90 Hz】Profitez dune expérience tactile réactive. En plus de la sensation de glissement fluide du bout des doigts, les fonctionnalités du logiciel daffichage AMOLED offrent également lexpérience visuelle ultime énergique, immersive et accrocheuse.
-- 【Dissipation thermique multidimensionnelle scientifiquement conçue】 Plusieurs couches de dissipation thermique pour un refroidissement efficace. Grâce à la technologie LiquidCool - plusieurs couches de graphite + feuille de cuivre, les multiples couches de graphite dissipent la chaleur de lécran. Zone de dissipation thermique de 10005m㎡, refroidit plus et plus rapidement.
 - 【Système de caméra quadruple AI 108MP】Avec une caméra principale 108MP, une caméra ultra-large 8MP, une caméra macro 2MP et une caméra de profondeur 2MP, vous pouvez capturer ces beaux moments de la vie avec les visuels ultimes.
+- 【Dissipation thermique multidimensionnelle scientifiquement conçue】 Plusieurs couches de dissipation thermique pour un refroidissement efficace. Grâce à la technologie LiquidCool - plusieurs couches de graphite + feuille de cuivre, les multiples couches de graphite dissipent la chaleur de lécran. Zone de dissipation thermique de 10005m㎡, refroidit plus et plus rapidement.
+- 【Affichage à taux de rafraîchissement élevé de 90 Hz】Profitez dune expérience tactile réactive. En plus de la sensation de glissement fluide du bout des doigts, les fonctionnalités du logiciel daffichage AMOLED offrent également lexpérience visuelle ultime énergique, immersive et accrocheuse.
 - 【Charge rapide pro 33W avec batterie massive de 5000mAh】La charge rapide Pro 33W améliore efficacement lefficacité de la charge, raccourcit le temps de charge de 26% et, grâce à la technologie Mi FC + MMT, rend également le processus de charge plus stable et efficace.
+- 【Incroyable MediaTek Helio G96 octa-core】MediaTek Helio G96 permet lincroyable appareil photo 108MP et un taux de rafraîchissement fluide de 90 Hz, vous offrant des prises de vue nettes ainsi que des expériences de jeu puissantes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QH71RZR{{</world>}}

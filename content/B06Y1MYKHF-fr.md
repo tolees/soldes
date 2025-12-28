@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Basket fonctionnelle pour un style décontracté. Elle est confectionnée de matériaux naturellement doux, légers et très respirants
 - Doublure textile douce et confortable en GORE-TEX pour un climat intérieur parfait
 - La semelle intérieure amovible revêtue de cuir conçue avec la technologie ECCO Comfort Fibre System aide à conserver vos pieds frais et secs
-- Basket fonctionnelle pour un style décontracté. Elle est confectionnée de matériaux naturellement doux, légers et très respirants
 - Semelle extérieure en PU monocomposant à injection directe. Semelle extérieure légère et ultra flexible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

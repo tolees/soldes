@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AFFRONTEZ LA HORDE : Éliminez les Arachnides pour de bon tandis que des essaims sans fin tentent de vous arrêter dans laccomplissement de votre mission !
 - DÉFENDEZ VOTRE BASE : Construisez une base avec les meilleures tourelles et fortifications que la Fédération peut offrir, puis défendez-la contre les Arachnides !
+- AFFRONTEZ LA HORDE : Éliminez les Arachnides pour de bon tandis que des essaims sans fin tentent de vous arrêter dans laccomplissement de votre mission !
+- ARMES AUTHENTIQUES : Tuez-les tous avec des armes emblématiques de la franchise Starship Troopers !
 - À TRAVERS LUNIVERS : Combattez les Arachnides sur des planètes hostiles à travers la galaxie !
 - FAITES VOTRE PART : Prenez les armes en tant que lune des six classes uniques : Sniper, Ranger, Démolisseur, Gardien, Ingénieur et Médecin !
-- ARMES AUTHENTIQUES : Tuez-les tous avec des armes emblématiques de la franchise Starship Troopers !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6N7GV49{{</world>}}

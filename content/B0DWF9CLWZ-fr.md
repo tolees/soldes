@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prêt à l’action – Le MTT est doté de roues dissimulées donnant un effet vol stationnaire, d’un cockpit pour le pilote, de 2 fusils à tenons, d’un speeder STAP dans le compartiment arrière et de panneaux rabattables
-- Jouet de construction LEGO Star Wars : The Clone Wars pour garçon ou fille dès 9 ans – Les enfants deviennent les héros de leurs propres scènes épiques de la bataille de Felucia
-- Toute une gamme à explorer – Les sets LEGO Star Wars à collectionner (vendus séparément) permettent aux enfants et aux adultes, fans de Star Wars, de recréer des scènes culte, d’imaginer des histoires inédites ou d’exposer des modèles d’exception
-- Détails authentiques – Tournez la molette du MTT pour actionner le rack de déploiement des droïdes qui sort par la trappe avant, puis détachez les droïdes de combat de la rampe
-- Personnages LEGO Star Wars – Minifigurines LEGO du commandant Bly et d’Aayla Secura, 3 figurines LEGO de droïdes commando, un pilote droïde de combat et 6 figurines LEGO de droïdes de combat avec des accessoires
 - Idée de cadeau danniversaire LEGO Star Wars pour un garçon, une fille et tous les fans de 9 ans et plus – Offrez ce jeu interactif avec un véhicule aux enfants et aux fans de Star Wars : The Clone Wars
+- Personnages LEGO Star Wars – Minifigurines LEGO du commandant Bly et d’Aayla Secura, 3 figurines LEGO de droïdes commando, un pilote droïde de combat et 6 figurines LEGO de droïdes de combat avec des accessoires
+- Jouet de construction LEGO Star Wars : The Clone Wars pour garçon ou fille dès 9 ans – Les enfants deviennent les héros de leurs propres scènes épiques de la bataille de Felucia
+- Détails authentiques – Tournez la molette du MTT pour actionner le rack de déploiement des droïdes qui sort par la trappe avant, puis détachez les droïdes de combat de la rampe
+- Prêt à l’action – Le MTT est doté de roues dissimulées donnant un effet vol stationnaire, d’un cockpit pour le pilote, de 2 fusils à tenons, d’un speeder STAP dans le compartiment arrière et de panneaux rabattables
 - Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent notamment faire pivoter une version numérique 3D de leurs maquettes au fil de la construction
+- Toute une gamme à explorer – Les sets LEGO Star Wars à collectionner (vendus séparément) permettent aux enfants et aux adultes, fans de Star Wars, de recréer des scènes culte, d’imaginer des histoires inédites ou d’exposer des modèles d’exception
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWF9CLWZ{{</world>}}

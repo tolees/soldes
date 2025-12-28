@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sérum Autobronzant Visage : Obtenez un teint hâlé sur-mesure, progressif en mélangeant 4-12 gouttes de sérum avec une crème hydratante. Appliquez uniformément sur visage et cou propres, Estompez avec un coton à la racine des cheveux et sourcils
-- Sérum Anti-Taches : Réduisez vos taches brunes en appliquant 1 pipette matin et soir sur visage propre. Faites pénétrer dans la peau, appliquez ensuite votre crème de jour ou crème de nuit
+- Contenu : 1x Coffret cadeau 4 sérums Garnier, Inclus : 1x Sérum Anti-Tache à la Vitamine C (30 ml), 1x Sérum Anti-Imperfections au Charbon, Niacinamide et AHA+BHA (30 ml), 1x Sérum Hyaluronic Aloe (30 ml), 1x Sérum Autobronzant Visage (30 ml)
 - Coffret cadeau contenant 4 sérums adaptés à chacun de vos besoins. N’oubliez pas : votre peau évolue au cours des semaines et des mois. Nos sérums peuvent s’utiliser en complémentarité
 - Sérum Repulpant Hyaluronic Aloe : Hydratez et repulpez votre peau en appliquant 1 pipette matin et soir sur visage propre. Faites pénétrer dans la peau, appliquez ensuite votre crème de jour ou crème de nuit
-- Contenu : 1x Coffret cadeau 4 sérums Garnier, Inclus : 1x Sérum Anti-Tache à la Vitamine C (30 ml), 1x Sérum Anti-Imperfections au Charbon, Niacinamide et AHA+BHA (30 ml), 1x Sérum Hyaluronic Aloe (30 ml), 1x Sérum Autobronzant Visage (30 ml)
+- Sérum Anti-Taches : Réduisez vos taches brunes en appliquant 1 pipette matin et soir sur visage propre. Faites pénétrer dans la peau, appliquez ensuite votre crème de jour ou crème de nuit
 - Sérum Anti-imperfections : Affinez votre grain de peau et uniformisez votre teint en appliquant le sérum sur visage propre. Faites soigneusement pénétrer dans la peau. À utiliser en sérum quotidien (matin et soir) ou spécifiquement sur les boutons
+- Sérum Autobronzant Visage : Obtenez un teint hâlé sur-mesure, progressif en mélangeant 4-12 gouttes de sérum avec une crème hydratante. Appliquez uniformément sur visage et cou propres, Estompez avec un coton à la racine des cheveux et sourcils
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQM87LM9{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients sélectionnés
 - SÉRUM ANTI-ÂGE AVANCÉ : Sa formule active traite les signes de lâge en réparant, renouvelant et repulpant la peau.
 - Marque : Clinique
+- Ingrédients sélectionnés
 - 30 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

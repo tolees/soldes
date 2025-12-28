@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contient au moins 70 % de matériaux recyclés et renouvelables.
-- Coupe standard.
-- 95 % coton, 5 % élasthanne.
 - 55 % coton, 36 % polyester (recyclé), 9 % viscose.
-- Emmanchures tombantes.
+- Coupe standard.
 - Poches kangourou.
+- 95 % coton, 5 % élasthanne.
+- Emmanchures tombantes.
 - Bords-côtes aux poignets et à la base.
 - Zip sur toute la longueur avec capuche réglable par cordon de serrage.
 

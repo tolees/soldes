@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feuille absorbant à 2 couches, blanc, épais, lié et perforé uniquement pour huile qui absorbe lhuile et les liquides à base de pétrole
 - Un côté filé donne une force supplémentaire ainsi que moins de peluches
 - Il repousse leau
+- Feuille absorbant à 2 couches, blanc, épais, lié et perforé uniquement pour huile qui absorbe lhuile et les liquides à base de pétrole
 - Perforé pour aider à minimiser les déchets et à réduire les coûts délimination
 
 [🛒 Achète-le!!]({{< param buyurl >}})

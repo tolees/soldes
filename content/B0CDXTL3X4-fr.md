@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La marque : Établie en 1970 par Tricia Guild, Designers Guild dessine et distribue dans le monde entier ses propres collections de tissus, d’ameublements, de papiers peints, de mobiliers et de linges de lit. Chaque design de notre collection linge de lit est imaginé et dessiné dans le studio de design de Londres, sous la direction artistique de Tricia Guild. Nos parures sont pensées avec créativité et caractère pour vous offrir la liberté d’apporter singularité, style et sophistication à votre chambre.
-- Courtepointe – Percale de coton – Designers Guild – Guerbois – Doux – Résistant – Mat
 - Succombez à lélégance de la gamme Guerbois avec son motif damassé et sa finition en passepoil vert foncé. Ce linge de linge ajoute une note décorative pétillante à votre intérieur grâce à ses couleurs intenses.
-- La percale de coton est une matière douce et durable qui apporte un aspect mat et élégant à votre intérieur. De plus, le tissu est thermorégulateur et laisse ainsi des draps frais et légers, parfaits en toute saison.
+- Courtepointe – Percale de coton – Designers Guild – Guerbois – Doux – Résistant – Mat
+- La marque : Établie en 1970 par Tricia Guild, Designers Guild dessine et distribue dans le monde entier ses propres collections de tissus, d’ameublements, de papiers peints, de mobiliers et de linges de lit. Chaque design de notre collection linge de lit est imaginé et dessiné dans le studio de design de Londres, sous la direction artistique de Tricia Guild. Nos parures sont pensées avec créativité et caractère pour vous offrir la liberté d’apporter singularité, style et sophistication à votre chambre.
 - Conseils dentretien : Pour préserver le plus longtemps possible ce produit, nous vous recommandons un lavage en machine à 40°c ainsi qu’un séchage à l’air libre. Enfin, en ce qui concerne le repassage nous vous suggérons de ne pas dépasser une température maximale de 110°c.
+- La percale de coton est une matière douce et durable qui apporte un aspect mat et élégant à votre intérieur. De plus, le tissu est thermorégulateur et laisse ainsi des draps frais et légers, parfaits en toute saison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CDXTL3X4{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Brillant de miroir pour un jeu sans efforts
-- Grande taille
+- Parfait pour les guitares acoustiques et électriques
 - Également disponible en M et S
 - Fabriqué en laiton plaqué chrome
-- Parfait pour les guitares acoustiques et électriques
+- Grande taille
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004Y3ZLZS{{</world>}}
