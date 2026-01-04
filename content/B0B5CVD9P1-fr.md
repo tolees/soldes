@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hand Wash Only
-- 100% Composite
 - Fermeture: Enfiler
+- 100% Composite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5CVD9P1{{</world>}}

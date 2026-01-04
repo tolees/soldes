@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meilleures semelles extérieures, synthétiques recyclés
 - Semelle : 80 % EVA - 20 % EVA recyclé
-- Couleur : bleu foncé
+- Meilleures semelles extérieures, synthétiques recyclés
 - Matériau extérieur : 100 % textile (70 % PET recyclé - 25 % polyuréthane - 5 % élasthanne recyclé)
+- Couleur : bleu foncé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8JZGWTH{{</world>}}

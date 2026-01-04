@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Built-in speaker with volume control
 - Features artwork inspired by the original Caveman Ninja arcade cabinet
-- Removable joystick
 - Full color 2.75" screen
+- Built-in speaker with volume control
+- Removable joystick
 - 3.5mm headphone jack to connect your headphones.Powered by either 4 AA batteries or by any Micro-USB cable (not included).Perfect for any game room, office or display case!.Perfect for travel.Take your games anywhere
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

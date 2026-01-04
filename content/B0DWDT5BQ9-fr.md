@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de construction 3-en-1 pour garçon ou fille dès 9 ans avec jouets médiévaux – Ce set LEGO Creator permet aux enfants de construire et reconstruire 3 maquettes détaillées avec les mêmes briques
-- Une infinité d’options de jeu créatif – Les enfants imaginent des histoires épiques avec 3 jouets médiévaux : un château, une lice de tournois et un bourg médiéval
-- Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure créative intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - Cadeau original pour garçon ou fille dès 9 ans – Ce jouet 3-en-1 offre une expérience de construction et de jeu immersive aux enfants qui aiment imaginer des histoires médiévales
-- Nombreuses fonctionnalités – Le château médiéval s’ouvre à l’arrière & comprend un pont-levis mobile, une grande salle, une écurie, une forge, un coffre au trésor secret, la chambre du roi & 2 terrasses en haut des tours
-- 6 minifigurines – Ce set LEGO inclut 6 personnages médiévaux : un chevalier roi, un chevalier champion, un chevalier archer, un chevalier lancier, un forgeron, un chevalier du serpent et 2 chevaux articulés
+- Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure créative intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - Jouets LEGO Creator – Les sets 3-en-1 à transformer de la gamme (vendus séparément) invitent les enfants à construire 3 maquettes différentes inspirées de leurs plus grandes passions, dont des animaux, des véhicules et des bâtiments
+- Jeu de construction 3-en-1 pour garçon ou fille dès 9 ans avec jouets médiévaux – Ce set LEGO Creator permet aux enfants de construire et reconstruire 3 maquettes détaillées avec les mêmes briques
+- 6 minifigurines – Ce set LEGO inclut 6 personnages médiévaux : un chevalier roi, un chevalier champion, un chevalier archer, un chevalier lancier, un forgeron, un chevalier du serpent et 2 chevaux articulés
+- Une infinité d’options de jeu créatif – Les enfants imaginent des histoires épiques avec 3 jouets médiévaux : un château, une lice de tournois et un bourg médiéval
+- Nombreuses fonctionnalités – Le château médiéval s’ouvre à l’arrière & comprend un pont-levis mobile, une grande salle, une écurie, une forge, un coffre au trésor secret, la chambre du roi & 2 terrasses en haut des tours
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDT5BQ9{{</world>}}

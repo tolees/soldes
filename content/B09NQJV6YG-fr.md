@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Fermeture : caoutchouc
 - Matériau extérieur : cuir breveté
 - Matériau intérieur : synthétique
+- Fermeture : caoutchouc
+- Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NQJV6YG{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabriqué en verre fritté artificiel hautement poreux.
+- Entretien requis moins fréquent.
+- Pour une utilisation dans tous les filtres EHEIM (Classic, Ecco, Pro 3, Pro 3e).
 - Surface de 167 m² pour 3,8 litres.
 - Peut être réutilisé en rinçant légèrement à leau pour aquarium, tous les 1 à 3 mois, et remplacé tous les 3 à 6 mois.
-- Entretien requis moins fréquent.
-- Fabriqué en verre fritté artificiel hautement poreux.
-- Pour une utilisation dans tous les filtres EHEIM (Classic, Ecco, Pro 3, Pro 3e).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0002JEL0O{{</world>}}

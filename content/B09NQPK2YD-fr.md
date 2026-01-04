@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle : caoutchouc
 - Fermeture : fermeture éclair
-- Matériau extérieur : cuir
 - Forme du talon : plat
+- Matériau extérieur : cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NQPK2YD{{</world>}}

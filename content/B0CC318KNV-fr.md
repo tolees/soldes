@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Idéal pour ceux qui ont besoin dune chaussure avec des caractéristiques outdoor/montagne certifiées selon la législation de lUE
 - Botte de sécurité S3
-- Membrane imperméable à leau
 - Embout en aluminium
+- Membrane imperméable à leau
 - Semelle Vibram avec insert pour fixation semi-automatique des crampons
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

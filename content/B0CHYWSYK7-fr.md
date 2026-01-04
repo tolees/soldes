@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Branchez l’extrémité USB‑C de l’adaptateur dans le connecteur USB‑C de votre iPhone ou iPad, puis connectez votre accessoire Lightning.
 - Cet adaptateur permet la connexion à la plupart des voitures, notamment celles qui fonctionnent avec CarPlay. Vous pouvez aussi connecter directement un câble USB de votre véhicule vers le connecteur USB‑C de votre iPhone.
+- Branchez l’extrémité USB‑C de l’adaptateur dans le connecteur USB‑C de votre iPhone ou iPad, puis connectez votre accessoire Lightning.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHYWSYK7{{</world>}}

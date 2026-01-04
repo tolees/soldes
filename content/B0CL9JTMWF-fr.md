@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Bouton durgence】SNZB-01P peut être utilisé comme bouton durgence lorsquune urgence se produit, votre famille peut appuyer sur le bouton pour envoyer une notification dalerte à votre téléphone.
-- 【5 ans dautonomie】Alimenté par une pile CR2477. *Les données relatives à la durée de vie des piles proviennent du laboratoire interne de SONOFF, veuillez vous référer à lutilisation réelle.
-- 【Custom Button Action】Vous pouvez personnaliser les actions des boutons comme vous le souhaitez. Contrôlez plusieurs appareils par simple pression, double pression et pression longue.
-- 【Zigbee 3.0 Compatible】Supporte les hubs Zigbee utilisant le protocole Zigbee 3.0, et théoriquement supporte lajout à nimporte quel hub Zigbee développé en accord avec les protocoles Zigbee 3.0. Comme SONOFF NSPanel Pro, ZB Bridge Pro, et ZBDongle-E.
 - 【Déclencher des routines Alexa】Déclencher des routines Alexa en appuyant sur linterrupteur sans fil (nécessite le hub Zigbee de SONOFF).
+- 【Custom Button Action】Vous pouvez personnaliser les actions des boutons comme vous le souhaitez. Contrôlez plusieurs appareils par simple pression, double pression et pression longue.
+- 【5 ans dautonomie】Alimenté par une pile CR2477. *Les données relatives à la durée de vie des piles proviennent du laboratoire interne de SONOFF, veuillez vous référer à lutilisation réelle.
+- 【Zigbee 3.0 Compatible】Supporte les hubs Zigbee utilisant le protocole Zigbee 3.0, et théoriquement supporte lajout à nimporte quel hub Zigbee développé en accord avec les protocoles Zigbee 3.0. Comme SONOFF NSPanel Pro, ZB Bridge Pro, et ZBDongle-E.
+- 【Bouton durgence】SNZB-01P peut être utilisé comme bouton durgence lorsquune urgence se produit, votre famille peut appuyer sur le bouton pour envoyer une notification dalerte à votre téléphone.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CL9JTMWF{{</world>}}

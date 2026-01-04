@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit Constructeur ou équivalent au produit dorigine
 - Produit de marque Contitech
 - Kit courroie daccessoires de qualité
+- Produit Constructeur ou équivalent au produit dorigine
 - La garantie dune reparation fiable en respectant les instructions de montage Constructeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- OBJECTIF MACRO DE PREMIÈRE CLASSE POUR DE NOMBREUSES APPLICATIONS - Objectif macro 100 mm avec une netteté extrême, idéal pour la photographie de fleurs, dinsectes, de produits, de paysages et de portraits, corps en aluminium avec mise au point interne et sensation de haute qualité
+- DÉTAILS - Distance focale 100 mm, angle de champ APS-C 16,4°, F2.8, lentilles/groupes : 15/12, distance minimale de mise au point 0,3 m, 9 lamelles douverture, revêtement UMC, Ø filtre 67 mm, Ø lentille 72,5 mm , longueur 149,4 mm, poids 770 g, boîtier en aluminium
+- ADAPTÉ AUX APPAREILS PHOTO Fuji X-MOUNT APS-C - X-E4, X-T4, X-T200, X-Pro3, X-A7, X-T30, X-T3, X-T100, X-A5, X-H1 , X-E3, X-T20, X-A10, X-T2, X-A3, X-Pro2, X-E2s, X-T10, X-A2, X-T1, X-E2, X-A1, X -M1, X-E1, X-Pro1
 - CONTENU DE LA LIVRAISON - Samyang MF 100 mm F2.8 Macro Fuji X noir, 1x pare-soleil, 2x couvercles de protection (objectif et baïonnette), 1x sac de protection dobjectif, 1x instructions et documents de garantie DE/EN
 - EXCEPTIONNELLEMENT RÉSISTANT À LA LUMIÈRE ET CONÇU ÉCONOMIQUEMENT - Haute intensité lumineuse F2.8, échelle dimage 1:1, excellente qualité dimage pour une résolution et un contraste maximum, 15 lentilles en 12 groupes, revêtement UMC, bokeh doux grâce à 9 lames douverture
-- ADAPTÉ AUX APPAREILS PHOTO Fuji X-MOUNT APS-C - X-E4, X-T4, X-T200, X-Pro3, X-A7, X-T30, X-T3, X-T100, X-A5, X-H1 , X-E3, X-T20, X-A10, X-T2, X-A3, X-Pro2, X-E2s, X-T10, X-A2, X-T1, X-E2, X-A1, X -M1, X-E1, X-Pro1
-- DÉTAILS - Distance focale 100 mm, angle de champ APS-C 16,4°, F2.8, lentilles/groupes : 15/12, distance minimale de mise au point 0,3 m, 9 lamelles douverture, revêtement UMC, Ø filtre 67 mm, Ø lentille 72,5 mm , longueur 149,4 mm, poids 770 g, boîtier en aluminium
-- OBJECTIF MACRO DE PREMIÈRE CLASSE POUR DE NOMBREUSES APPLICATIONS - Objectif macro 100 mm avec une netteté extrême, idéal pour la photographie de fleurs, dinsectes, de produits, de paysages et de portraits, corps en aluminium avec mise au point interne et sensation de haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00WZ4EEMY{{</world>}}

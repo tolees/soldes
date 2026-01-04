@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Souris ordinateur (sans fil)
 - Roccat Kone XP Air blanc Souris gaming
+- Souris ordinateur (sans fil)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097BY7QM6{{</world>}}

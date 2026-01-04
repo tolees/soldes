@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteur optique gaming le plus avancé: HERO 2 avec suivi de 888+ IPS, jusqu’à 44 000 PPP, calibration précise du capteur sans lissage, accélération ou filtrage sur cette souris de jeu
-- Désormais encore meilleure avec un taux d’interrogation de 8 kHz, la charge USB-C, une autonomie de 95 heures et la compatibilité POWERPLAY, le tout avec un poids plume de 60 g seulement
 - Connexion fiable: la technologie sans fil LIGHTSPEED offre une expérience rapide et de fiabilité professionnelle; augmentez votre vitesse de transmission de 1 kHz (2) à 8 kHz avec le récepteur sans fil PRO LIGHTSPEED (vendu séparément)
-- Souris sans fil pour gaming : une icône du gaming professionnel, désormais plus rapide et plus précise, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
+- Capteur optique gaming le plus avancé: HERO 2 avec suivi de 888+ IPS, jusqu’à 44 000 PPP, calibration précise du capteur sans lissage, accélération ou filtrage sur cette souris de jeu
 - Note: PRO Series statistics based on 2024 data from prosettings.net
+- Désormais encore meilleure avec un taux d’interrogation de 8 kHz, la charge USB-C, une autonomie de 95 heures et la compatibilité POWERPLAY, le tout avec un poids plume de 60 g seulement
+- Souris sans fil pour gaming : une icône du gaming professionnel, désormais plus rapide et plus précise, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
 - Précision professionnelle: Les switchs hybrides LIGHTFORCE offrent une précision et une fiabilité de niveau professionnel avec un clic tactile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

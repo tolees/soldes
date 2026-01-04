@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 100360 - Tableau adhésif en rouleau effaçable et repositionable - Dimensions: 2 m x1 m'
-date: 2026-01-02 12:15:06
+date: 2026-01-04 06:16:13
 image: 'https://m.media-amazon.com/images/I/21AqRWBek-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Apli'
 buyurl: 'https://www.amazon.fr/dp/B013DHOIX6/?tag=tolees0d-21'
 descuento: '28.67'
-average: '26.4116666666666'
+average: '26.186923076923'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

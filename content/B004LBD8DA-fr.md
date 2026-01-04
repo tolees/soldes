@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec 6 bacs ronds et 4 bacs plats pour créer des combinaisons de couleurs efficaces.
-- Léger et flexible, taille denviron 23 x 17 x 1 cm
-- Matériau : plastique robuste, peut être facilement nettoyé sous leau courante.
 - Palette ovale blanche avec trou de préhension pour mélanger et diluer lacrylique, laquarelle, la tempera, la gouache ou les aquarelles
+- Matériau : plastique robuste, peut être facilement nettoyé sous leau courante.
+- Léger et flexible, taille denviron 23 x 17 x 1 cm
 - Idéal pour les jardins denfants, les écoles, les universités et les amateurs de loisirs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

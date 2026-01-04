@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le gel coiffant Sculpture Fix Max offre une tenue extra-forte instantanément pour créer des coiffures sculptées et définies tout au long de la journée. Sa finition brillante apporte une de léclat aux cheveux sans alourdir ni graisser. Ne laisse pas de résidus et sélimine parfaitement au shampoing.
 - Contrôle absolu : le gel Sculpture Fix Max offre une fixation robuste, sculpte les cheveux, définit les détails, et élimine les frisottis pour une finition lisse.
+- Le gel coiffant Sculpture Fix Max offre une tenue extra-forte instantanément pour créer des coiffures sculptées et définies tout au long de la journée. Sa finition brillante apporte une de léclat aux cheveux sans alourdir ni graisser. Ne laisse pas de résidus et sélimine parfaitement au shampoing.
 - Prélevez une petite quantité de gel à appliquer sur cheveux propres et humides, avec les mains pour une tenue globale, ou au doigt pour définir des mèches une à une. Laissez sécher naturellement ou à laide dun sèche-cheveux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

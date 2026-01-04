@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Excellente qualité d’impression aux imprimantes ink jet.
 - Autocollants kraft de dimensions 210 x 297 mm avec un adhésif permanent. Paquet de 10 feuilles.
 - Idéal pour étiqueter les pots, dossiers, carnets, boîtes, cadeaux, invitations etc.
-- Excellente qualité d’impression aux imprimantes ink jet.
 - Téléchargez le logiciel gratuit dAPLI pour créer et imprimer tous types d’étiquettes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

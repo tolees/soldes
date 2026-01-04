@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériel: 80% coton - 20% polyester
+- Tight fit
 - Taille élastique
 - Coupe ajustée
-- Tight fit
 - Cordon de serrage
-- Matériel: 80% coton - 20% polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KD7H9DB{{</world>}}

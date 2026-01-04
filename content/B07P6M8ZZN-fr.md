@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Coutures à 360° pour plus de durabilité
+- Couleur : noir
+- Semelle extérieure/caractéristiques : EVA pour un poids léger
 - Lacets élastiques recyclés pour un ajustement facile (71 % PET recyclé - 29 % latex)
 - Dessus : cuir de veau / tissu technique
-- Semelle extérieure/caractéristiques : EVA pour un poids léger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P6M8ZZN{{</world>}}

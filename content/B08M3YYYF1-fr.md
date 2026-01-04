@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉLIMINE >99,99% DES BACTÉRIES, VIRUS, CHAMPIGNONS ET 100% DES ACARIENS EN QUELQUES SECONDES
 - PREND SOIN de tous vos textiles, même les plus délicats
+- ÉLIMINE >99,99% DES BACTÉRIES, VIRUS, CHAMPIGNONS ET 100% DES ACARIENS EN QUELQUES SECONDES
 - Une excellente idée CADEAU
 - COMPACT pour être EMPORTÉ PARTOUT, où que vous alliez
 - DES RÉSULTATS PARFAITS grâce à la technologie suisse DMS de Laurastar

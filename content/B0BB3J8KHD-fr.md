@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet pour femme en chaîne de Lacoste avec détail de crocodile
 - Fermoir : Mousqueton
 - Embelli avec logo du crocodile emblématique Lacoste
 - Matériel: Acier inoxydable avec placage ionique (IP) rose clair
+- Bracelet pour femme en chaîne de Lacoste avec détail de crocodile
 - Circonférence intérieure : 16,5 cm plus extenseur 25 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

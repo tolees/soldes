@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ravive et exalte la couleur
 - Revlon nutri color filters 600/red 240 ml
 - Teinture permanente Revlon (240 ml)
-- Ravive et exalte la couleur
 - 33016125600
 
 [🛒 Achète-le!!]({{< param buyurl >}})

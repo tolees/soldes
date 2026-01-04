@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre ultra-lavable à base d’eau
-- Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
-- Grip ergonomique triangulaire pour une prise en main facile
 - Feutres de coloriage pointe moyenne
-- Couleurs vives et lumineuses
-- Capuchon ventilé anti-étouffement
 - Norme CE
+- Grip ergonomique triangulaire pour une prise en main facile
+- Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
+- Couleurs vives et lumineuses
+- Encre ultra-lavable à base d’eau
+- Capuchon ventilé anti-étouffement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08559GBNW{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jouez à votre manière avec le pack Console PlayStation5 - EA SPORTS FC 26. Découvrez un jeu de football réaliste et des performances de pointe sur PS5.
-- PlayStation 5 avec lecteur Blu-ray, Une console révolutionnaire entièrement centrée sur le joueur pour des expériences encore plus immersives et connectées avec vos jeux PS5 et PS4 rétrocompatibles
-- Niveau de réalisme inégalé grâce à la technologie de rendu de la lumière Ray Tracing, Prise en charge de la technologie HDR pour des couleurs vives et dynamiques, Possibilité de jouer en 4K et 8K sur les jeux et écrans compatibles
 - Contenu : 1x Sony Console PlayStation 5, Édition Standard, 1x Manette DualSense, 1x code de téléchargement du jeu complet EA SPORTS FC 26, 2x pieds de socle horizontal, Connectique : 1 port HDMI 2.1, 3 ports USB, 1 port USB-C, 1 port Ethernet, Dimensions de la console (lxHxL) : 358 x 96 x 216 mm (sans socle), Poids : 3,2 kg, Couleur : Blanche.
 - Temps de chargement quasi instantanés pour les jeux PS5 (installés) grâce à un disque SSD ultra-haute vitesse, Interface utilisateur conçue pour fournir un accès immédiat à presque toutes les options du système sans quitter votre partie
+- Niveau de réalisme inégalé grâce à la technologie de rendu de la lumière Ray Tracing, Prise en charge de la technologie HDR pour des couleurs vives et dynamiques, Possibilité de jouer en 4K et 8K sur les jeux et écrans compatibles
+- PlayStation 5 avec lecteur Blu-ray, Une console révolutionnaire entièrement centrée sur le joueur pour des expériences encore plus immersives et connectées avec vos jeux PS5 et PS4 rétrocompatibles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FS1ZYDRW{{</world>}}

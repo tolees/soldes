@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Aventurez-vous à travers un mélange dynamique de gameplay linéaire et narratif et de cartes ouvertes
-- Le fouet emblématique d’Indiana reste au cœur de son équipement et peut être utilisé pour distraire, désarmer et attaquer les ennemis
-- Voyagez des couloirs du Marshall College au cœur du Vatican, en passant par les pyramides d’Égypte, les temples engloutis de Sukhothai et au-delà
 - Vivez l’aventure en tant qu’Indy dans une histoire palpitante pleine d’exploration, d’action immersive et d’énigmes intrigantes
+- Voyagez des couloirs du Marshall College au cœur du Vatican, en passant par les pyramides d’Égypte, les temples engloutis de Sukhothai et au-delà
 - Découvrez l’un des plus grands mystères de l’histoire dans Indiana Jones et le Cercle Ancien, une aventure solo à la première personne qui se déroule entre les événements des Aventuriers de l’arche perdue et de La Dernière Croisade
+- Le fouet emblématique d’Indiana reste au cœur de son équipement et peut être utilisé pour distraire, désarmer et attaquer les ennemis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DDTYV1V5{{</world>}}

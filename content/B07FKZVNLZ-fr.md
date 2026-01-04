@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CARACTÉRISTIQUES : Tablette enfant 100% éducative / Écran 6,95 pouces multi touch HD / Fonctionne avec WI-FI / Appareil photo rotatif 2 Mpx intégré / Mémoire interne de 8Go extensible jusqu’à 40Go via une carte micro SD (non fournie) / Lecteur de musique (prise casque ou haut-parleur)
-- ÂGE : de 3 à 11 ans, la tablette avec grand écran couleur 100% éducative et résistante
 - 20 applications incluses / Possibilité de télécharger de nouvelles applications éducatives sur la tablette enfant via l’Explor@ Park (magasin d’applications VTech) / Couverture souple tablette / Fonctionne sur batterie lithium rechargeable (intégrée)
+- ÂGE : de 3 à 11 ans, la tablette avec grand écran couleur 100% éducative et résistante
 - VERSION : Française
 
 [🛒 Achète-le!!]({{< param buyurl >}})

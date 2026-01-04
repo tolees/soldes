@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- - Dimensions internes maximales (par boîtier individuel) 260,35 x 57,15 mm
 - Intérieur rembourré pouvant accueillir jusquà 6 microphones sans fil Shure ou dune autre marque, et batterie conforme aux spécifications ATA
 - - Dimensions extérieures 457,2 x 355,6 x 139,7 mm - Poids 3,9 kg
-- - Dimensions internes maximales (par boîtier individuel) 260,35 x 57,15 mm
 - - Loquets conformes aux spécifications TSA avec boîtier extérieur antichoc - Poignée ergonomique
 - - Coque extérieure en PE
 

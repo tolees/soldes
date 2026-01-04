@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Festivement audacieuse, où des notes suaves et pétillantes illuminent la piste de danse. Danse au rythme dun duo fruitée fraise - mandarine rejoint par un accord gourmand vanillé. Te voilà prête à danser jusquau petit matin !
-- Avec la collection Night Call, ne laissez rien au hasard lors de vos sorties nocturnes. Faites de chaque moment une occasion spéciale avec les brumes de soirée SKIL. Parce que votre style mérite d’être célébré, choisissez la perfection olfactive pour accompagner vos nuits inoubliables.
 - SKIL, UNE MARQUE PÉTILLANTE, FUN ET ORIGINALE : Des brumes qui vous accompagnent dans vos moments de folie grâce à des parfums envoûtants !
+- Avec la collection Night Call, ne laissez rien au hasard lors de vos sorties nocturnes. Faites de chaque moment une occasion spéciale avec les brumes de soirée SKIL. Parce que votre style mérite d’être célébré, choisissez la perfection olfactive pour accompagner vos nuits inoubliables.
+- Festivement audacieuse, où des notes suaves et pétillantes illuminent la piste de danse. Danse au rythme dun duo fruitée fraise - mandarine rejoint par un accord gourmand vanillé. Te voilà prête à danser jusquau petit matin !
 - Danse au rythme dun duo fruitée fraise - mandarine rejoint par un accord gourmand vanillé.
 - UNE DÉMARCHE RESPONSABLE : Nos flacons, capots et étiquettes sont fabriqués en France et sont en PET recyclable, pour découvrir de belles senteurs avec un minimum dimpact environnemental !
 

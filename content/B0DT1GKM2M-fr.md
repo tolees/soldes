@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
-- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Hilfiger séduit par ses lignes épurées, élégantes et classiques. Le col roulé est une véritable déclaration de style.
-- EN TOUTE OCCASION : grâce à ses lignes classiques et élégantes, ce modèle douillet se combine à volonté. À porter au bureau, au quotidien ou par une soirée fraîche.
 - CONFORT OPTIMAL : vous allez vous sentir bien dans ce pull à la coupe avantageuse. Ni trop fin ni trop épais, il est idéal pour l’intersaison et pour l’hiver.
+- EN TOUTE OCCASION : grâce à ses lignes classiques et élégantes, ce modèle douillet se combine à volonté. À porter au bureau, au quotidien ou par une soirée fraîche.
+- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Hilfiger séduit par ses lignes épurées, élégantes et classiques. Le col roulé est une véritable déclaration de style.
 - MATIÈRE ET ENTRETIEN : 95 % viscose durable et 5 % élasthanne. Lavage et séchage en machine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

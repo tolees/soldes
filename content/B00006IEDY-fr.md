@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 trou de crayon
-- Base en métal moulé
 - Acier de récipient
+- Base en métal moulé
+- 8 trou de crayon
 - Support mural ou bureau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

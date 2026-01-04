@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur du câble : 3m
-- Prise en main ergonomique
 - Inclut la fonction Turbo
+- Prise en main ergonomique
 - Sous licence officielle de Nintendo
+- Longueur du câble : 3m
 - Gâchettes à action rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HUAWEI FreeBuds 5 Silver-FR
-- Open-fit ANC 3.0 : Les HUAWEI FreeBuds 5 sont capables de sadapter à votre environnement, de la clameur dun café au rugissement de la circulation, grâce à trois micros qui prennent en compte lajustement, létat de port et le bruit ambiant
-- Les HUAWEI FreeBuds 5 adaptent le son en tenant compte de lajustement, du port et du niveau de volume (de 100 Hz à 2 000 Hz5) pour offrir une expérience découte personnalisée pleine de passion et déclat
-- Répondez aux appels, réglez le volume et gérez la lecture sans avoir à manipuler votre téléphone, simplement en swipant ou en touchant la zone du capteur tactile
-- Le débit d’absorption spécifique (DAS) local quantifie l’exposition de l’utilisateurs aux ondes électromagnétiques de l’équipement concerné. Le DAS maximal autorisé est de 2 W/Kg pour la tête et le tronc et de 4 W/Kg pour les membres. Plus d’informations sur : consumer.huawei.com/fr. Huawei Technologies France, SASU au capital de 3 242 000,00 € ayant son siège social au 18-20 quai du point du jour, 92100 Boulogne-Billancourt, et enregistrée auprès du RCS de Nanterre sous le numéro 451 063 739
-- Les HUAWEI FreeBuds 5 prennent en charge des transmissions ultra-rapides allant jusquà 990 kbps grâce à la prise en charge du codec LDAC haute résolution et à des certifications audio haute résolution sans fil
 - Les écouteurs offrent jusquà 5 heures découte avec une charge complète et jusquà 30 heures découte avec des charges multiples dans létui"
+- Le débit d’absorption spécifique (DAS) local quantifie l’exposition de l’utilisateurs aux ondes électromagnétiques de l’équipement concerné. Le DAS maximal autorisé est de 2 W/Kg pour la tête et le tronc et de 4 W/Kg pour les membres. Plus d’informations sur : consumer.huawei.com/fr. Huawei Technologies France, SASU au capital de 3 242 000,00 € ayant son siège social au 18-20 quai du point du jour, 92100 Boulogne-Billancourt, et enregistrée auprès du RCS de Nanterre sous le numéro 451 063 739
 - Deux circuits magnétiques: Les HUAWEI FreeBuds 5 sont 30 % plus sensibles aux basses fréquences que les HUAWEI FreeBuds 4 et produisent des basses robustes qui descendent jusquà 16 Hz
+- Les HUAWEI FreeBuds 5 prennent en charge des transmissions ultra-rapides allant jusquà 990 kbps grâce à la prise en charge du codec LDAC haute résolution et à des certifications audio haute résolution sans fil
+- Les HUAWEI FreeBuds 5 adaptent le son en tenant compte de lajustement, du port et du niveau de volume (de 100 Hz à 2 000 Hz5) pour offrir une expérience découte personnalisée pleine de passion et déclat
+- Open-fit ANC 3.0 : Les HUAWEI FreeBuds 5 sont capables de sadapter à votre environnement, de la clameur dun café au rugissement de la circulation, grâce à trois micros qui prennent en compte lajustement, létat de port et le bruit ambiant
+- HUAWEI FreeBuds 5 Silver-FR
+- Répondez aux appels, réglez le volume et gérez la lecture sans avoir à manipuler votre téléphone, simplement en swipant ou en touchant la zone du capteur tactile
 - Huawei Watch Buds: DAS tête : 0 W/kg ; DAS membres : 0.174 W/kg ; DAS tronc : 0.07W/kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mise hors tension automatique
-- Réservoir deau avec une capacité de 1 l
 - Bac récolte gouttes amovible avec système anti-goutte pour un nettoyage facile
+- Mise hors tension automatique
 - Porte-filtre "Crème"
 - Système à Cappuccino
+- Réservoir deau avec une capacité de 1 l
 - Poignée de réglage de la vapeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 4 surligneurs dans des tons pastels
 - Avec casquette en forme de lapin Mr. Très beau à la fin. Idéal comme cadeau
+- Lot de 4 surligneurs dans des tons pastels
 - Set de 4 surligneurs aux couleurs pastel, avec un capuchon en forme de lapin Mr. Wonderful, ce qui leur apporte une touche doriginalité.
 - Couleurs des surligneurs : bleu, rose, jaune et menthe.
 

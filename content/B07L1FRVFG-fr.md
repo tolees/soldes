@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les nombreuses petites découpes dans labat-jour créent un fascinant jeu dombre et de lumière et font de la lampe pendante un atout précieux dans votre pièce
-- Avec son design simple, la lampe apporte une touche doriginalité dans chaque pièce, que ce soit dans le salon, la cuisine ou la salle à manger au-dessus de la table
 - Les ampoules ne sont pas incluses à la livraison et est disponible séparément sous la référence EGLO 110018 ; Convient à toute ampoule équipée dun culot E14 pour une puissance maximale par douille de 40 W ; Dimmable en fonction de lampoule utilisée
+- Avec son design simple, la lampe apporte une touche doriginalité dans chaque pièce, que ce soit dans le salon, la cuisine ou la salle à manger au-dessus de la table
 - Dimensions : Hauteur : 110 cm max, Longueur : 75 cm
+- Les nombreuses petites découpes dans labat-jour créent un fascinant jeu dombre et de lumière et font de la lampe pendante un atout précieux dans votre pièce
 - La lampe pendante arbore un coloris noir mat Lintérieur de labat-jour couleur or offre un grand contraste
 
 [🛒 Achète-le!!]({{< param buyurl >}})

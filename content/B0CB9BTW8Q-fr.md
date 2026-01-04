@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GARANTIE MIXA : Testé sous contrôle médical. Résultats cliniquement prouvés. Formule hypoallergénique. Testé sur 7000 peaux sensibles**.
-- CRÈME CICA REPARATION : Réparation effet longue durée pour les peaux très sèches et rugueuses. Visage, corps, mains.
 - BÉNÉFICES : Lisse les rugosités et squames dès la 1ère application. Effet réparation et protection 48H*. Notre crème hydratante et réparatrice est hypoallergénique, non grasse, non collante et pénètre instantanément
-- CONTENU : 1x Crème Cica Réparation, 400ml *Test consommateur. **Tests réalisés sur la liste des produits Mixa à retrouver sur mixa.fr.
 - ACTIFS : Formulé avec de puissants actifs dermo-cosmétiques et adapté aux peaux sensibles. Urée, connue pour ses propriétés exfoliantes, lissantes et anti-rugosités. Niacinamide, connu pour ses propriétés hydratantes et apaisantes
+- CRÈME CICA REPARATION : Réparation effet longue durée pour les peaux très sèches et rugueuses. Visage, corps, mains.
+- CONTENU : 1x Crème Cica Réparation, 400ml *Test consommateur. **Tests réalisés sur la liste des produits Mixa à retrouver sur mixa.fr.
+- GARANTIE MIXA : Testé sous contrôle médical. Résultats cliniquement prouvés. Formule hypoallergénique. Testé sur 7000 peaux sensibles**.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB9BTW8Q{{</world>}}

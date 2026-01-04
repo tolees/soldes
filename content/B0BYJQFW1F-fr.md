@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tondeuse sans fil et rechargeable, facile à utiliser et à transporter
 - Tondeuse à barbe King C. Gillette avec lames tranchantes et résistantes pour une précision irréprochable
+- 50 minutes de finition grâce à la batterie Ni-MH longue durée
 - 4 peignes faciles à laver pour une finition compl te de 1 mm à 21 mm et une mini tête rasante
 - Kit tondeuse barbe complet avec brosse de nettoyage, chargeur, têtes lavables et peignes
-- 50 minutes de finition grâce à la batterie Ni-MH longue durée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYJQFW1F{{</world>}}

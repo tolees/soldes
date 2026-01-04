@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huit zones d’éclairage RVB avec quatre modes prédéfinis pour des combinaisons d’éclairage infinies
-- Connexion sans fil d’une portée de 9 mètres pour vous permettre de jouer confortablement depuis votre canapé
 - Sous licence officielle Nintendo
+- Connexion sans fil d’une portée de 9 mètres pour vous permettre de jouer confortablement depuis votre canapé
 - Batterie rechargeable intégrée de 2100 mAh offrant jusqu’à 40 heures d’autonomie en une seule charge
 - Personnalisez votre façon de jouer grâce aux deux boutons arrière programmables
+- Huit zones d’éclairage RVB avec quatre modes prédéfinis pour des combinaisons d’éclairage infinies
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBNQ9YC3{{</world>}}

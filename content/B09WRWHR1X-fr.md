@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Avec 3 vitesses réglables
 - Pneus antidérapants et amortisseurs avec chambre à air de 8,5 pouces
-- La vitesse maximale peut atteindre 25 km/h
 - Conduisez sur des surfaces inclinées jusquà 21 percent
+- La vitesse maximale peut atteindre 25 km/h
 - Moteur sans balais puissant et performant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions : 24,3 x 25 x 4,3 cm.
 - Avec 368 pages de septembre 2025 à août 2026, phrases de motivation, intercalaires, autocollants, calendrier et playlist exclusive
 - Ensemble spécial pour les étudiants avec beaucoup de style ! Comprend un agenda quotidien Office et un stylo en métal dans une boîte premium.
-- Dimensions : 24,3 x 25 x 4,3 cm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWGFLTYK{{</world>}}

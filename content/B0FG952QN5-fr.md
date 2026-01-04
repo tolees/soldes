@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rejoins-les et pars à laventure en compagnie de Tico, Véra, Totor, le Grand Poulet Rouge et Ale. Cours, saute et balance-toi dans différents lieux tout en collectant les feuilles et les cosses magiques. Débloque de nouveaux endroits et objets. Résous des énigmes grâce aux indices de tes amis et laisse-toi guider par la Carte ! What an adventure! Pars pour cette mission de sauvetage en solo ou fais équipe via le mode coopératif local.
 - Oh non ! Chipeur a chipé le super Duplicateur et maintenant, ses clones sèment le chaos partout dans la forêt. Dora et Babouche vont devoir réparer le Duplicateur pour sauver larbre Alebrije coloré.
 - Prêt à partir avec Dora dans cette aventure interactive ?
 - Allons-y ! Lets go!
+- Rejoins-les et pars à laventure en compagnie de Tico, Véra, Totor, le Grand Poulet Rouge et Ale. Cours, saute et balance-toi dans différents lieux tout en collectant les feuilles et les cosses magiques. Débloque de nouveaux endroits et objets. Résous des énigmes grâce aux indices de tes amis et laisse-toi guider par la Carte ! What an adventure! Pars pour cette mission de sauvetage en solo ou fais équipe via le mode coopératif local.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FG952QN5{{</world>}}

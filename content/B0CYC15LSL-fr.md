@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire double densité avec amorti ABZORB et SBS
 - Dispositif CR translucide sur le talon
+- Semelle intermédiaire double densité avec amorti ABZORB et SBS
 - Logo sur la languette, inspiré du 991 original en fausse dentelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

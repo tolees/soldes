@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GRAND MONDE OUVERT : trois districts composés de plusieurs quartiers chacun, avec leur propre touche distinctive
 - PARTENAIRES : invitez un ami et patrouillez ensemble
-- PATROUILLEZ : découvrez le quotidien dun agent de police
+- GRAND MONDE OUVERT : trois districts composés de plusieurs quartiers chacun, avec leur propre touche distinctive
 - JOUEZ À VOTRE FAÇON : choisissez entre le mode Occasionnel et le mode Simulation
+- PATROUILLEZ : découvrez le quotidien dun agent de police
 - RESPONSABILITÉS : plus de 50 infractions et délits
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

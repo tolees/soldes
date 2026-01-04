@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une lentille asphérique pour une résolution optimale sur toute l’image
-- Diaphragme circulaire à 9 lamelles pour de magnifiques effets de Bokeh
-- Compatible avec les séries A9, A7, A6500, A6400 et A5100. Compatibility Information : E-mount- ILCE-1, ILCE-9M2, ILCE-7SM3, ILCE-7SM2, ILCE-7RM4A, ILCE-7RM4, ILCE-7RM2, ILCE-7C, ILCE-7M2, ILCE-6600, ILCE-6500. Professional Video Cameras: ILME-FX3
 - Conception résistante à la poussière et à lhumidité
-- Suivi AF silencieux et fiable pour la photographie comme pour les films
+- Diaphragme circulaire à 9 lamelles pour de magnifiques effets de Bokeh
+- Une lentille asphérique pour une résolution optimale sur toute l’image
+- Compatible avec les séries A9, A7, A6500, A6400 et A5100. Compatibility Information : E-mount- ILCE-1, ILCE-9M2, ILCE-7SM3, ILCE-7SM2, ILCE-7RM4A, ILCE-7RM4, ILCE-7RM2, ILCE-7C, ILCE-7M2, ILCE-6600, ILCE-6500. Professional Video Cameras: ILME-FX3
 - Focale fixe plein format grand angle standard 35mm lumineuse F1.8
+- Suivi AF silencieux et fiable pour la photographie comme pour les films
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07V8X4KGG{{</world>}}

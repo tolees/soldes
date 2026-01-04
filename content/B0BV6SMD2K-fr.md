@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONNECTIVITÉ INTÉGRÉE : partagez facilement du contenu, contrôlez votre appareil photo professionnel à distance et utilisez-le comme une webcam grâce au Wi-Fi intégré et au Bluetooth 4.2 « toujours activé ». De plus, connectez-le facilement à votre smartphone et profitez de téléchargements directs et d’un traitement RAW sur le cloud à l’aide d’une connexion USB-C.
-- APPAREIL PHOTO COMPACT & LÉGER : pesant seulement 461 g(2), cet appareil photo numérique hybride plein format EOS R8 est parfait pour les créateurs de contenu, les voyageurs et les photographes d’événements à la recherche d’une mobilité accrue.
 - CAMERA VIDEO 4K PRO : filmez des documentaires et des films indépendants qui se démarquent avec des séquences 4K suréchantillonnées jusqu’à 60p, améliorées par des outils de réalisation de films professionnels tels que Canon Log 3 pour un étalonnage des couleurs supérieur.
 - MISE AU POINT INTELLIGENTE : profitez d’une mise au point nette, y compris dans des conditions de faible luminosité ou des scènes rapides, grâce à la mise au point automatique Dual Pixel CMOS AF II avancée qui reconnaît les sujets même près des bords du cadre (3) et les suit même s’ils disparaissent brièvement du champ de vision.
+- APPAREIL PHOTO COMPACT & LÉGER : pesant seulement 461 g(2), cet appareil photo numérique hybride plein format EOS R8 est parfait pour les créateurs de contenu, les voyageurs et les photographes d’événements à la recherche d’une mobilité accrue.
 - QUALITÉ D’IMAGE DE NIVEAU SUPÉRIEUR : avec cet appareil photo hybride compact, prenez des photos époustouflantes avec des détails et une clarté exceptionnels grâce à un capteur plein format de 24,2 mégapixels qui combine détails, vitesse et performances exceptionnelles en basse lumière jusqu’à 102 400 ISO(1).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

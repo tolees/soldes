@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : 70 % EVA, 30 % EVA naturel
-- Couleur : bleu pastel
 - Extérieur : 100 % cuir de vache
 - Better Leather
+- Semelle : 70 % EVA, 30 % EVA naturel
+- Couleur : bleu pastel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8KDQSD8{{</world>}}

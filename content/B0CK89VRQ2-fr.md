@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✓ Connectivité Wifi et RJ45 pour un accès rapide et sécurisé à Internet. Port USB pour la lecture de fichiers multimédias. OSD multilingue.
-- ✓ Smart TV LED 32 pouces avec une résolution HD de 1366X720 p
 - ✓ Profitez des chaînes gratuites de la TNT. DVB-T2/DVB-S2.
-- ✓ Interface avec : 1*entrée RF, 3*HDMI, 2*USB 2.0, 1*RJ45 , 1*COAX , 1*AV in, CI+, 1*COAX.
 - ✓ Système dexploitation VIDAA avec accès aux principales plates-formes de contenu du monde et télécommande avec touches de raccourci pour profiter facilement et simplement de vos contenus préférés.
+- ✓ Smart TV LED 32 pouces avec une résolution HD de 1366X720 p
+- ✓ Interface avec : 1*entrée RF, 3*HDMI, 2*USB 2.0, 1*RJ45 , 1*COAX , 1*AV in, CI+, 1*COAX.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK89VRQ2{{</world>}}

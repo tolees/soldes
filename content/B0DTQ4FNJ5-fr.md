@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - semelle intermédiaire avec technologie damorti ABZORB et tige en cuir et tissu de première qualité
-- baskets polyvalentes
 - Initialement conçus pour la course à pied, leur design se porte désormais pour des looks du quotidien qui influencent la mode urbaine.
+- baskets polyvalentes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTQ4FNJ5{{</world>}}

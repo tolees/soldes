@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Agenda avec organisation hebdomadaire, sétend de septembre 2025 à août 2026 et est plus grand que le reste des agendas de la collection, ce qui le rend idéal comme agenda de bureau.
+- 160 pages de papier 100 gr certifié FSC, Phrases quotidiennes de motivation, Intercalaires à onglets pour chaque mois, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants, Horaires et calendriers (pour le dernier trimestre 2025 et pour lannée complète 2026 et 2027),
 - Playlist exclusive, Pages pour noter les contacts, Tableaux dépargne, Fermeture avec élastique, Agenda mensuel au début de chaque mois, Blocs de notes autocollantes avec formes, Phrases mensuelles super motivantes
 - Dimensions : 21,6 x 24,6 x 2,6 cm.
-- 160 pages de papier 100 gr certifié FSC, Phrases quotidiennes de motivation, Intercalaires à onglets pour chaque mois, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants, Horaires et calendriers (pour le dernier trimestre 2025 et pour lannée complète 2026 et 2027),
-- Agenda avec organisation hebdomadaire, sétend de septembre 2025 à août 2026 et est plus grand que le reste des agendas de la collection, ce qui le rend idéal comme agenda de bureau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWGXHDD6{{</world>}}

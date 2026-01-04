@@ -29,16 +29,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DIMENSIONS : H : 40,46 cm x L : 18,16 cm x P : 30,75 cm
-- TECHNOLOGIE DEXTRACTION À FROID : le puissant moteur à couple élevé entraîne les ingrédients dans la vis sans fin à 9 segments qui extrait lentement le jus et la pulpe pour des boissons nutritives et riches en vitamines
+- SIMPLE À UTILISER ET SILENCIEUX : crée des jus, des boissons et des shots sains en trois étapes simples. Le moteur silencieux est idéal pour préparer des jus le matin sans réveiller toute la maison
+- INCLUT : base moteur de l’extracteur de jus à pression à froid Ninja, carafe à jus de 700 ml, récupérateur de pulpe de 1,1 l, poussoir, 2 x filtres à pulpe, brosse nettoyante et guide d’inspiration/recettes. Poids : 3,6 kg. Couleur : Gris
 - NOUVELLE VIS SANS FIN POUR MINIMISER LES OBSTRUCTIONS* : la conception à neuf segments permet de récupérer le jus et la pulpe pendant lextraction à froid. (*Par rapport au modèle précédent JC100EU)
-- CONTRÔLE TOTAL DE LA PULPE : filtre la pulpe pour extraire les jus sans interruption** (**Testé avec 320 g de carottes.) Comprend 2 filtres pour choisir la teneur en pulpe de vos boissons
-- INCLUT : base moteur de l’extracteur de jus à pression à froid Ninja, carafe à jus de 700 ml, récupérateur de pulpe de 1,1 l, poussoir, 2 x filtres à pulpe, brosse nettoyante et guide d’inspiration/recettes. Poids : 3,6 kg. Couleur : Gris
-- SIMPLE À UTILISER ET SILENCIEUX : crée des jus, des boissons et des shots sains en trois étapes simples. Le moteur silencieux est idéal pour préparer des jus le matin sans réveiller toute la maison
-- SIMPLE À UTILISER ET SILENCIEUX : crée des jus, des boissons et des shots sains en trois étapes simples. Le moteur silencieux est idéal pour préparer des jus le matin sans réveiller toute la maison
 - TECHNOLOGIE DEXTRACTION À FROID : le puissant moteur à couple élevé entraîne les ingrédients dans la vis sans fin à 9 segments qui extrait lentement le jus et la pulpe pour des boissons nutritives et riches en vitamines
-- DIMENSIONS : H : 40,46 cm x L : 18,16 cm x P : 30,75 cm
-- INCLUT : base moteur de l’extracteur de jus à pression à froid Ninja, carafe à jus de 700 ml, récupérateur de pulpe de 1,1 l, poussoir, 2 x filtres à pulpe, brosse nettoyante et guide d’inspiration/recettes. Poids : 3,6 kg. Couleur : Gris
+- SIMPLE À UTILISER ET SILENCIEUX : crée des jus, des boissons et des shots sains en trois étapes simples. Le moteur silencieux est idéal pour préparer des jus le matin sans réveiller toute la maison
 - CONTRÔLE TOTAL DE LA PULPE : filtre la pulpe pour extraire les jus sans interruption** (**Testé avec 320 g de carottes.) Comprend 2 filtres pour choisir la teneur en pulpe de vos boissons
+- CONTRÔLE TOTAL DE LA PULPE : filtre la pulpe pour extraire les jus sans interruption** (**Testé avec 320 g de carottes.) Comprend 2 filtres pour choisir la teneur en pulpe de vos boissons
+- TECHNOLOGIE DEXTRACTION À FROID : le puissant moteur à couple élevé entraîne les ingrédients dans la vis sans fin à 9 segments qui extrait lentement le jus et la pulpe pour des boissons nutritives et riches en vitamines
+- INCLUT : base moteur de l’extracteur de jus à pression à froid Ninja, carafe à jus de 700 ml, récupérateur de pulpe de 1,1 l, poussoir, 2 x filtres à pulpe, brosse nettoyante et guide d’inspiration/recettes. Poids : 3,6 kg. Couleur : Gris
+- DIMENSIONS : H : 40,46 cm x L : 18,16 cm x P : 30,75 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP7TT5HW{{</world>}}

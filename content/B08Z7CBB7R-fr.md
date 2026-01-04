@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Volume: 16 l
-- Porté comme un sac à dos ou un sac par lintermédiaire de sangles convertibles.
 - Nom et adresse étiquette à lintérieur du paquet.
+- Volume: 16 l
 - Populaire sac à dos en tissu résistant à lusure vinylon F.
+- Porté comme un sac à dos ou un sac par lintermédiaire de sangles convertibles.
 - Coussin de siège amovible, logo réfléchissant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

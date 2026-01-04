@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JOUET MONTESSORI AVEC NOMBREUSES PIÈCES SUPPLÉMENTAIRES POUR ENCORE PLUS D’AMUSEMENT – Ce jeu de construction inclut 8 éléments de voie ferrée, 1 brique d’action, un pont à construire, une barrière qui se soulève et un ingénieur doté d’un téléphone
 - SETS POUR DÉVELOPPER DES COMPÉTENCES – Les sets de trains interactifs LEGO DUPLO à construire et reconstruire sont conçus pour développer la capacité de résolution de problèmes, la patience, la concentration et la persévérance des tout-petits
 - JEU DÉVEIL DE QUALITÉ POUR TOUT-PETITS – Tous les éléments de ce jouet LEGO DUPLO ont été soumis à des tests rigoureux afin de s’assurer qu’ils satisfont aux normes de sécurité pour enfants les plus exigeantes
 - SET LEGO STIMULANT LA MOTRICITÉ FINE – Ce jouet de construction peut être combiné avec les sets de trains interactifs LEGO DUPLO Ma ville (vendus séparément) pour développer lapprentissage des enfants d’âge préscolaire
-- JOUET MONTESSORI AVEC NOMBREUSES PIÈCES SUPPLÉMENTAIRES POUR ENCORE PLUS D’AMUSEMENT – Ce jeu de construction inclut 8 éléments de voie ferrée, 1 brique d’action, un pont à construire, une barrière qui se soulève et un ingénieur doté d’un téléphone
 - UNE BELLE IDÉE DE CADEAU POUR LES ENFANTS DÈS 24 MOIS – Ce kit d’extension est un beau cadeau à offrir aux tout-petits qui aiment jouer avec leurs sets de trains interactifs LEGO DUPLO, vendus séparément
 - JEU INTERACTIF LEGO AVEC SET DE RAILS DE TRAIN DÈS 2 ANS – Les tout-petits dès prolongent leurs aventures LEGO DUPLO et développent des compétences avec le Set dextension : Les rails et le pont du train
 

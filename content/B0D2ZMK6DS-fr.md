@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets
-- Emballage: Boîte
 - Entièrement doublé
+- Emballage: Boîte
+- Lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D2ZMK6DS{{</world>}}

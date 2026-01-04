@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sculptez des paysages, personnalisez des environnements et faites parler votre créativité en construisant pièce par pièce de superbes bâtiments et attractions. Donnez vie à votre parc idéal !
-- Donnez vie à vos idées, utilisez les plans pour placer facilement plus de 700 objets préfabriqués, dont des montagnes russes, des services et des éléments denvironnement.
-- Votre parc, vos choix : Lancez-vous dans un mode Carrière complexe et captivant, découvrez les scénarios du mode Défi ou construisez le parc de vos rêves en toute liberté en mode Bac à sable
 - Surprenez et ravissez vos visiteurs en construisant le parc dattractions de vos rêves ! À vous de gérer ce monde à part avec une attention de tous les instants.
 - Trouvez linspiration et inspirez les autres : Visitez le Frontier Workshop et téléchargez une multitude dincroyables créations, ou partagez vos propres designs avec le monde entier.
+- Sculptez des paysages, personnalisez des environnements et faites parler votre créativité en construisant pièce par pièce de superbes bâtiments et attractions. Donnez vie à votre parc idéal !
+- Votre parc, vos choix : Lancez-vous dans un mode Carrière complexe et captivant, découvrez les scénarios du mode Défi ou construisez le parc de vos rêves en toute liberté en mode Bac à sable
+- Donnez vie à vos idées, utilisez les plans pour placer facilement plus de 700 objets préfabriqués, dont des montagnes russes, des services et des éléments denvironnement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08FF8Y2GV{{</world>}}

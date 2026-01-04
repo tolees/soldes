@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maintenez une distance minimale de 10 cm entre deux bougies allumées. Allumer au minimum 10 minutes pour une diffusion correcte du parfum et au maximum 2 heures pour des raisons de sécurité.
-- Mode demploi : Tenir à lécart des objets inflammables et hors de portée des enfants et des animaux domestiques.
 - Bougie en cire végétale colorée, présentée dans un récipient en verre transparent.
+- Mode demploi : Tenir à lécart des objets inflammables et hors de portée des enfants et des animaux domestiques.
+- Maintenez une distance minimale de 10 cm entre deux bougies allumées. Allumer au minimum 10 minutes pour une diffusion correcte du parfum et au maximum 2 heures pour des raisons de sécurité.
 - Parfum : grenade noire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

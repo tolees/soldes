@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Modèle avec tube carré
 - Version galvanisée
 - Adapté aux voitures avec oeillets de remorquage
 - Peut être branché ensemble (3 parties)
-- Modèle avec tube carré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000B9RKKI{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
 - Col asymétrique
+- Fermeture éclair
 - Ajusté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

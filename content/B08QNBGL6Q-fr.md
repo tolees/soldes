@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une fois ouverte, la surface de repassage est à 11cm (4½ pouces) du dessus de table
-- Surface de repassage : H90 x L33cm (H35½ x L13 pouces)
-- Fermé : H45,5 x L34 x P15,5 cm (H18 x L13½ x P6¼ pouces)
-- Conception pliante compacte
-- Crochet de suspension séparé inclus pour un rangement facile
-- Un support, des vis et des prises murales sont fournis pour monter Pocket sur une surface appropriée
-- Housse 100% coton facile à changer avec sous-couche rembourrée
-- Compartiment de rangement en fer intégré
-- Fer non inclus
 - Surface de repassage généreuse
+- Conception pliante compacte
+- Un support, des vis et des prises murales sont fournis pour monter Pocket sur une surface appropriée
+- Surface de repassage : H90 x L33cm (H35½ x L13 pouces)
+- Une fois ouverte, la surface de repassage est à 11cm (4½ pouces) du dessus de table
+- Crochet de suspension séparé inclus pour un rangement facile
+- Fer non inclus
+- Housse 100% coton facile à changer avec sous-couche rembourrée
+- Fermé : H45,5 x L34 x P15,5 cm (H18 x L13½ x P6¼ pouces)
+- Compartiment de rangement en fer intégré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QNBGL6Q{{</world>}}

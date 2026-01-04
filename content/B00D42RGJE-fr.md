@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque Etui comporte 12 mines
 - Mines 0,7mm, de couleur rouge, gradation HB
-- Mines solides
+- Chaque Etui comporte 12 mines
 - Etuis de mines Hi-Polymer
+- Mines solides
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00D42RGJE{{</world>}}

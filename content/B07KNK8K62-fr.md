@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Article: 12141112
 - Couleur: noir
+- Article: 12141112
 - Designer: PREMIUM BY JACKJONES
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

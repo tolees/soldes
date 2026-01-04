@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
 - Inserts perforés sur la pointe
 - Languette ultra rembourrée
 - Enfiler
+- Plat
 - Semelle intercalaire surélevée en mousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAPTEUR DUSURE : Un voyant lumineux jaune permet de vous signaler quand il est temps de remplacer votre brossette
-- Batterie longue durée
-- 3 MODES DE BROSSAGE : Personnalisez votre brossage en choisissant parmi 3 modes silencieux : Propreté, Douceur et Blancheur
 - BROSSETTES AVEC TÊTE RONDE : Inspirées par les dentistes, les têtes de brossette rondes Oral-B atteignent des zones normalement impossibles daccès grâce à leur taille plus petite que les têtes rectangulaires classiques
 - PROTECTION DES GENCIVES : Protégez vos gencives avec le capteur de pression visible : il émet un signal rouge lorsque vous vous brossez trop vigoureusement, et un signal vert quand la pression est idéale
+- CAPTEUR DUSURE : Un voyant lumineux jaune permet de vous signaler quand il est temps de remplacer votre brossette
 - MINUTEUR DE BROSSAGE : Maximisez lefficacité de votre brossage grâce au minuteur de 2 minutes qui vous aide à respecter le temps recommandé par les dentistes, et grâce à ses vibrations toutes les 30 secondes qui vous indique quand changer de zone
+- 3 MODES DE BROSSAGE : Personnalisez votre brossage en choisissant parmi 3 modes silencieux : Propreté, Douceur et Blancheur
 - LA TECHNOLOGIE LA PLUS AVANCÉE DORAL-B : Des dents 100% plus propres en une semaine par rapport à une brosse à dents manuelle grâce à la technologie iO dOral-B : efficace contre la plaque dentaire et doux pour les gencives
+- Batterie longue durée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D5D3WRXW{{</world>}}

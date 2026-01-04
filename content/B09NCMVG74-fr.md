@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris - Garnier Acqua Micellare Vitamica C 400ml'
-date: 2025-12-04 18:01:47
+date: 2026-01-04 07:57:16
 image: 'https://m.media-amazon.com/images/I/41NMeLomPfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LOreal Paris'
 buyurl: 'https://www.amazon.fr/dp/B09NCMVG74/?tag=tolees0d-21'
 descuento: '32.21'
-average: '10.8284615384615'
+average: '10.5886666666667'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

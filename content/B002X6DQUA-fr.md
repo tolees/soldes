@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le système simple type « sémaphore » à LED indique le niveau de charge actuel de votre batterie, afin que vous sachiez quand elle doit être chargée.
-- LINDICATEUR PIGTAIL de CTEK est doté du système CONNECT unique de CTEK afin quil puisse être connecté à un chargeur CTEK pour une charge et une maintenance rapides et faciles.
 - LINDICATEUR PIGTAIL offre un moyen simple de vérifier létat dune batterie équipée dun connecteur SAE pigtail existant.
+- LINDICATEUR PIGTAIL de CTEK est doté du système CONNECT unique de CTEK afin quil puisse être connecté à un chargeur CTEK pour une charge et une maintenance rapides et faciles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002X6DQUA{{</world>}}

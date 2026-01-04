@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capuche
 - Programme Core
 - Manches longues
+- Capuche
 - Logo tonal sur la poitrine
 - Coupe droite
 

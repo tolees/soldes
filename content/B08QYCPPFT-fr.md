@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Pull On
-- Lavage à la main seulement
 - Normale.
-- 80% Coton, 20% Polyester
 - Manche longue
+- Lavage à la main seulement
+- Fermeture: Pull On
+- 80% Coton, 20% Polyester
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QYCPPFT{{</world>}}

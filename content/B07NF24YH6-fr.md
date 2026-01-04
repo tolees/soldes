@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Motif : cœurs noués.
 - Marque : Pandora.
+- Motif : cœurs noués.
 - Couleur : argenté.
 - Style : bague anneau.
 

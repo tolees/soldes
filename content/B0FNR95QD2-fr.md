@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'govogorc - Drone Pliable Avec Caméra 1080P Et Écran LCD 2 8 Pouces Évitement D Obstacles Moteur Brushless Quadricoptère FPV WiFi Vol Par Trajectoire Autonomie De Vol 16 Min Pour Adultes/Débutants'
-date: 2025-12-30 03:12:24
+date: 2026-01-04 07:25:39
 image: 'https://m.media-amazon.com/images/I/41FXXLvM2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'govogorc'
 buyurl: 'https://www.amazon.fr/dp/B0FNR95QD2/?tag=tolees0d-21'
 descuento: '35.72'
-average: '86.24'
+average: '87.49'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Moteurs Brushless et Vol Stationnaire Stable : Propulsé par des moteurs brushless, ce drone offre une longue durée de vie et une meilleure résistance au vent. Le drone assure un vol stable grâce au positionnement par flux optique. Ce drone performant se comporte comme un modèle professionnel.
-- Facile à Piloter pour les Débutants : Avec le décollage/atterrissage automatique, ce drone est accessible à tous. Le drone dispose aussi d’un mode sans tête pour une prise en main facile. La batterie 1600mAh offre au drone jusqu’à 16 minutes de vol, idéal pour apprendre en sécurité.
-- Écran LCD de 2,8" et Caméra FPV 1080P : Profitez de vues panoramiques en temps réel avec ce drone et sa caméra 1080P ajustable à 90°. Ce drone est équipé d’une télécommande avec écran LCD intégré de 2,8" qui ne nécessite aucun téléphone. Le drone offre une connectivité WiFi et inclut une carte SD de 4 Go pour un enregistrement facile.
 - Modes de Vol Intelligents et Vrilles 3D : Libérez votre créativité avec ce drone et ses fonctions de Vol par Trajectoire, Contrôle par Gestes et Vol par Waypoints. Réalisez avec ce drone des vrilles 360° et des culbutes 3D par simple pression sur un bouton. Ce drone permet des tricks aériens impressionnants.
+- Écran LCD de 2,8" et Caméra FPV 1080P : Profitez de vues panoramiques en temps réel avec ce drone et sa caméra 1080P ajustable à 90°. Ce drone est équipé d’une télécommande avec écran LCD intégré de 2,8" qui ne nécessite aucun téléphone. Le drone offre une connectivité WiFi et inclut une carte SD de 4 Go pour un enregistrement facile.
 - Évitement dObstacles Efficace et Design Pliable : Équipé dun capteur amovible, ce drone évite intelligemment les collisions frontales. Les bras pliables de ce drone et son design compact le rendent portable, parfait pour voler en sécurité. Ce drone pliable s’emporte partout.
+- Facile à Piloter pour les Débutants : Avec le décollage/atterrissage automatique, ce drone est accessible à tous. Le drone dispose aussi d’un mode sans tête pour une prise en main facile. La batterie 1600mAh offre au drone jusqu’à 16 minutes de vol, idéal pour apprendre en sécurité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FNR95QD2{{</world>}}

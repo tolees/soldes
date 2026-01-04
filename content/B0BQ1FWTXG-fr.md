@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dispose dune fonction de séchage du linge pour faciliter le lavage. Fonction dalerte en cas de réservoir plein pour éviter les débordements et réduire la consommation dénergie.
-- Réservoir amovible de grande capacité (2 L) pour un confort maximal. Parfait pour déshumidifier des espaces denviron 30 m².
 - Permet de sélectionner le pourcentage dhumidité ambiant souhaité entre 30 % et 90 % pour un confort optimal. Contrôle via Wifi depuis votre smartphone pour configurer le fonctionnement du déshumidificateur à distance.
+- Réservoir amovible de grande capacité (2 L) pour un confort maximal. Parfait pour déshumidifier des espaces denviron 30 m².
+- Dispose dune fonction de séchage du linge pour faciliter le lavage. Fonction dalerte en cas de réservoir plein pour éviter les débordements et réduire la consommation dénergie.
 - Minuterie programmable jusquà 24 heures avec arrêt automatique. Sélectionnez le temps souhaité et oubliez lhumidité.
 - Grande puissance de déshumidification allant jusquà 16 L/jour, ce qui réduit considérablement la concentration dhumidité dans lenvironnement pour favoriser un meilleur confort et éviter la détérioration éventuelle des meubles.
 

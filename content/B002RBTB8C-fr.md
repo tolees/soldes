@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce savon doit être utilisé matin et soir pour une peau plus saine
-- 3 Formules différentes adaptées à chaque type de peau
-- Le flacon pompe permet de délivrer la juste quantité de produit
 - Sa mousse douce laisse la peau souple, nettoie en douceur et se rince facilement
+- Le flacon pompe permet de délivrer la juste quantité de produit
+- 3 Formules différentes adaptées à chaque type de peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002RBTB8C{{</world>}}

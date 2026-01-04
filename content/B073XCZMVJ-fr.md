@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en silicone Petit Piqué
-- Trotteuse colorée
 - Lacoste 12.12 inspiré Polo
 - Chiffres faciles à lire
+- Bracelet en silicone Petit Piqué
 - Resistance a leau 5 ATM
+- Trotteuse colorée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073XCZMVJ{{</world>}}

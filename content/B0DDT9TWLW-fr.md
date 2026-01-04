@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
 - A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
+- CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb,Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
 - USAGE: lensemble de lumière est utilisé pour Eclairer Lego 75398 C-3PO (à lexception de lensemble lego).
 - CONSEILS: Préparer trois piles AA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
-- CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb,Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
+- INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DDT9TWLW{{</world>}}

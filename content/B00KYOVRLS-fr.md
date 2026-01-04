@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Unifie le teint grâce à sa formule teintée
 - Aide à réguler la production de mélanine grâce au DP3-Unify Complex qui agit sur les principales phases de la mélanogenèse
-- Éclaircit et unifie le teint de votre peau.Aide à réduire les trouble pigmentaires causés par le soleil
-- Offre une protection contre les rayons UVA qui stimulent la pigmentation, 2 fois supérieure au minimum requis dans un protecteur solaire SPF 50+.SPF 106 et UVA 49
 - Testé dermatologiquement, résistant à leau
+- Offre une protection contre les rayons UVA qui stimulent la pigmentation, 2 fois supérieure au minimum requis dans un protecteur solaire SPF 50+.SPF 106 et UVA 49
+- Éclaircit et unifie le teint de votre peau.Aide à réduire les trouble pigmentaires causés par le soleil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KYOVRLS{{</world>}}

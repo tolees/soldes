@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de construction qui sassemble en un bureau déquipe miniature
 - Comprend des autocollants pour différentes fonctions du stade
-- Total : environ 935 pièces
-- À partir de 12 ans | Avertissement : risque détouffement – Petites pièces
+- Jeu de construction qui sassemble en un bureau déquipe miniature
 - Env. 18 cm x 13 cm x 8 cm une fois assemblé
+- À partir de 12 ans | Avertissement : risque détouffement – Petites pièces
+- Total : environ 935 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D2LLS7QS{{</world>}}

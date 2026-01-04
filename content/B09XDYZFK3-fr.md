@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une dose de bonheur immédiate.
 - Les notes de tête hespéridées de la bergamote introduisent une compilation de notes rayonnantes, solaires et florales.
 - Les notes de fond puissantes et riches du patchouli ajoutent de la profondeur et de lintensité.
+- Une dose de bonheur immédiate.
 - Une eau de parfum chyprée, chic & solaire.
 - Un parfum qui vous donne le sourire !
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Améliorez votre arsenal et équipement
 - Des combats viscéraux et spectaculaires qui ne laissent aucun droit à l’erreur
 - Détruisez machines et mutants à l’aide de vos pouvoirs et armes de pointe
 - Un monde utopique aussi déjanté que sublime
+- Améliorez votre arsenal et équipement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BL18YWSC{{</world>}}

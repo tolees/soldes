@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stretch
-- Jambe slim
-- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 - Modèle à 5 poches
 - Fermeture zippée
+- Jambe slim
+- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
+- Stretch
 - Offre une flexibilité confortable tout en conservant sa forme. Équilibre idéal entre confort et structure.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

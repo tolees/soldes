@@ -30,10 +30,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Supports internes intégrés pour montage détagères
 - Sol avec bord incliné qui protège de la boue et de leau
-- Dimensions : 132 x 71,5 x 113,5 cm
 - Système de fermeture à pédale
-- Trous daération
+- Dimensions : 132 x 71,5 x 113,5 cm
 - Finition affection bois
+- Trous daération
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08YYXFCL8{{</world>}}

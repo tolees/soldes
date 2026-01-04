@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
 - Matériau intérieur : synthétique
-- Forme du talon : plat
 - Semelle : synthétique
+- Forme du talon : plat
+- Matériau extérieur : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPDV1KZV{{</world>}}

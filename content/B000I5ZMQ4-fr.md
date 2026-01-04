@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES COULEURS VIVES : pour que chacune de vos créations se démarque
 - FEUTRE À POINTE MOYENNE: des lignes claires et expressives, pour personnaliser vos créations
-- POUR ÉCRIRE, DESSINER, COLORIAGE ADULTE, ETC. : le choix créatif pour vos projets scolaires, prendre des notes au bureau, tenir votre journal, colorier et bien plus encore
+- DES COULEURS VIVES : pour que chacune de vos créations se démarque
 - NE TRANSPERCE PAS : l’encre à base d’eau ne transperce pas le papier pour une écriture parfaite
+- POUR ÉCRIRE, DESSINER, COLORIAGE ADULTE, ETC. : le choix créatif pour vos projets scolaires, prendre des notes au bureau, tenir votre journal, colorier et bien plus encore
 - RÉSISTE AUX BAVURES ET NE DÉCOLORE PAS: pour un résultat qui dure et des pages propres et nettes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

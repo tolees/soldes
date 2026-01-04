@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - DOUBLE DISQUE À 60 PINCES : La tête à double disque permet dattraper les poils restants, les 60 pinces permettent dattraper plus de poils, pour une épilation plus rapide
 - LARGE GAMME DACCESSOIRES : Comprend une tête dépilation, une petite tête, une tête de protection, une tête de rasage, une tondeuse escamotable, un peigne pour bikini, une tête de soin des pieds, une brosse de gommage sonique, un étui, une brosse
-- FONCTION WET/DRY et TÊTE DE PROTECTION : Étanche, utilisez cet épilateur dans le bain pour plus de confort. Le gel douche peut être utilisé pour une épilation à la mousse
 - 3 VITESSES ET ÉCLAIRAGE LED : Cet épilateur pour femmes est doté de 3 modes: doux, normal et puissant, Léclairage LED illumine les zones difficiles à voir pour ne manquer aucun poil
 - TÊTE FLEXIBLE 90° EXTRA LARGE : La tête glisse sans effort sur la peau, même sur les zones difficiles à atteindre. La tête extra large retire plus de poils en un seul passage, épilation plus rapide et plus douce
+- FONCTION WET/DRY et TÊTE DE PROTECTION : Étanche, utilisez cet épilateur dans le bain pour plus de confort. Le gel douche peut être utilisé pour une épilation à la mousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLP3NKHR{{</world>}}

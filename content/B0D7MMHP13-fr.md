@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple EarPods avec Mini-Jack 3 5 mm '
-date: 2026-01-03 02:59:54
+date: 2026-01-04 06:18:08
 image: 'https://m.media-amazon.com/images/I/21KW2dT6RXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

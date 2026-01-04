@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceinture élastiquée
 - Matériau en molleton doux
+- Ceinture élastiquée
 - Coupe décontractée
 - Poches arrière avec fermeture à bouton-pression pour un rangement sécurisé
 

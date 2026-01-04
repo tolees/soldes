@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
 - COMPLEXE PURIFIANT A LACIDE SALICYLIQUE & SEL MARIN : Grâce à sa formule vegan enrichie en acide salicylique, niacinamide et sel marin, ce gel visage aide à réduire les imperfections et à prévenir leur apparition.
-- LA PEAU EST PLUS NETTE : Testé cliniquement, ce nettoyant pour le visage réduit les point noirs, les boutons et lapparence des pores. Avec un usage régilier, la peau est plus unifiée et plus nette dès 7 jours.
 - GEL NETTOYANT ANTI-IMPERFECTIONS : Spécialement formulé pour les peaux à imperfections, le gel nettoyant visage NIVEA Derma Skin Clearnettoie en profondeur et débarrasse la peau des impuretés et de lexcès de sébum tout en la maintenant hydratée.
+- 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
+- LA PEAU EST PLUS NETTE : Testé cliniquement, ce nettoyant pour le visage réduit les point noirs, les boutons et lapparence des pores. Avec un usage régilier, la peau est plus unifiée et plus nette dès 7 jours.
 - VOTRE RITUEL PERFECTEUR : Commencez votre routine beauté avec le Gel Derma Skin Clear. Matin et soir, nettoyez soignement votre peau en évitant le contour des yeux. Massez délicatement le produit sur le visage humidifié, puis rincez.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encore plus d’amusement – Ce set peut être combiné avec les autres sets de la gamme LEGO Minecraft (vendus séparément) pour multiplier les possibilités de jeu
-- Jouet de construction LEGO sur le thème des pirates pour garçon ou fille dès 8 ans – Offrez aux passionné(e)s de jeux vidéo ce set LEGO Minecraft : un jouet qui donne vie à lunivers gaming
-- Accessoires pour le jeu de rôle – Le kit inclut un poisson, une carte, une épée en fer et un cactus, qui peut être tenu par un pirate
 - Beau cadeau pour gamer, garçon ou fille, dès 8 ans – Offrez ce jouet de construction LEGO aux enfants passionnés de Minecraft, de pirates et de bateaux LEGO
 - Minecraft devenu réalité - Les ensembles LEGO Minecraft donnent aux enfants un moyen différent de profiter du jeu populaire, avec des créatures, des scènes et des caractéristiques qui prennent vie grâce aux briques LEGO
+- Encore plus d’amusement – Ce set peut être combiné avec les autres sets de la gamme LEGO Minecraft (vendus séparément) pour multiplier les possibilités de jeu
 - Jeu Minecraft avec un bateau – Ce bateau pirate est un véhicule à construire accompagné d’une pieuvre, d’un dromadaire, de 2 pirates (un moussaillon & un boucanier), ainsi que d’autres accessoires pour enrichir le jeu créatif
+- Accessoires pour le jeu de rôle – Le kit inclut un poisson, une carte, une épée en fer et un cactus, qui peut être tenu par un pirate
+- Jouet de construction LEGO sur le thème des pirates pour garçon ou fille dès 8 ans – Offrez aux passionné(e)s de jeux vidéo ce set LEGO Minecraft : un jouet qui donne vie à lunivers gaming
 - Un set plein d’aventures LEGO – Il est possible de combiner ce bateau pirate à d’autres sets LEGO Minecraft (vendus séparément) pour multiplier les possibilités de jeu et pour jouer entre amis ou en famille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

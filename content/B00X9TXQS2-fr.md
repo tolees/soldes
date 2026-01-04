@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection SPF: Haute (SPF 30 – SPF 50 +)
 - Veuillez vérifier le symbole PAO (période après ouverture) qui indique lheure dexpiration du produit, après louverture de lemballage
+- Protection SPF: Haute (SPF 30 – SPF 50 +)
 - Type de peau: Tous types de peaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

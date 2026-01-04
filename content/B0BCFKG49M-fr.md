@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un son de jeu clair et net
 - Légèreté et confort : ne pesant que 275 grammes, lHyperx Cloud Stinger 2 Core nalourdit pas un joueur, ce qui en fait la solution idéale pour les sessions de jeu prolongées
+- Un son de jeu clair et net
 - Expérience de chat améliorée : les fonctionnalités de qualité de vie de lHyperx, telles que le microphone pivotant et muet, sont conçues pour améliorer lexpérience de jeu. Désactivez le micro de manière pratique et définitive en le retournant vers le haut
 
 [🛒 Achète-le!!]({{< param buyurl >}})

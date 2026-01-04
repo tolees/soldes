@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Découvrez le western épique qui a marqué toute une génération.
-- Red Dead Redemption sétend sur trois territoires différents à travers le Sud-ouest des États-Unis et le Mexique.
 - Outre les expériences solo de chaque jeu, Red Dead Redemption propose également du contenu bonus issu de lÉdition Jeu de lannée et plus. * / *Red Dead Redemption propose les expériences solo de Red Dead Redemption et Undead Nightmare, ainsi que du contenu bonus issu de lÉdition Jeu de lannée et plus. Red Dead Redemption ne propose pas de contenu multijoueur.
 - Inclus Red Dead Redemption + Undead Nightmare
+- Red Dead Redemption sétend sur trois territoires différents à travers le Sud-ouest des États-Unis et le Mexique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFQQHWJ1{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type dajustement:Régulière
-- Instructions dentretien:Lavage en machine
 - Composition de matériau:Polyester recyclé (66%), viscose (32%), élasthanne (2%)
 - Type de fermeture:Bouton
+- Instructions dentretien:Lavage en machine
+- Type dajustement:Régulière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8ZC667Z{{</world>}}

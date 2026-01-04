@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe slim.
-- Poches à boutons-pression le long des coutures latérales.
-- Enduction déperlante sans PFC.
-- Matière externe : toile 100 % polyester recyclé.
 - Zip sur toute la longueur.
+- Coupe slim.
 - Achetez une taille plus petite
+- Enduction déperlante sans PFC.
+- Poches à boutons-pression le long des coutures latérales.
+- Matière externe : toile 100 % polyester recyclé.
 - Matelassage : 80 % duvet de canard, 20 % plumes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

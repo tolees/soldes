@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque loreal
 - Produits de beauté
+- Marque loreal
 - Enlumineurs et illuminateurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

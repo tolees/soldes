@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour un broyage moyen.
 - Grain : 1000.
-- Fabriqué au Japon.
 - Accessoires : Pierre à panser (pierre de nettoyage) 65 x 47 x 32 mm, 1 pièce
+- Pour un broyage moyen.
+- Fabriqué au Japon.
 - Taille : 210 x 70 x 25 mm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

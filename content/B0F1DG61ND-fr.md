@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour un parfum confiant, moderne et durable.
 - Base riche et terreuse avec oud, huile de cypriol, ambre et musc.
 - Ouverture lumineuse et piquante avec mangue, gingembre, citron et baies.
+- Idéal pour un parfum confiant, moderne et durable.
 - Cœur lisse et aromatique avec jasmin, coumarine et cèdre.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DESIGN INSPIRÉ DE LA SÉRIE STAR WARS: OBI-WAN KENOBI : Les fans peuvent recréer des scènes de la galaxie Star Wars grâce à ce casque premium de cosplay inspiré de la série de Disney+
 - ASSEMBLAGE MAGNÉTIQUE EN PLUSIEURS PARTIES
-- IL Y A DAUTRES ARTICLES DE COSPLAY DUNE GALAXIE LOINTAINE, TRÈS LOINTAINE : Dautres accessoires de cosplay Star Wars The Black Series inspirés de lunivers Star Wars sont aussi disponibles (vendus séparément ; dans la limite des stocks)
-- CASQUE ÉLECTRONIQUE PREMIUM : Cette reproduction de taille réelle du casque de Dark Vador inclut une déco hautement réaliste, un design inspiré de la série, de multiples pièces et des sons de respiration. Inclut aussi un socle pour poser le casque
-- DARK VADOR : Obi-Wan Kenobi se déroule des années après les événements dramatiques de Star Wars : La revanche des Sith, où Kenobi a assisté à la corruption de son ami et apprenti Jedi Anakin Skywalker devenu le Seigneur Sith Dark Vador
 - DESIGN MIS À JOUR : Cette reproduction réaliste, à lintérieur comme à lextérieur, du casque emblématique de Dark Vador au design mis à jour est un ajout indispensable à toute collection des fans de Star Wars
+- DARK VADOR : Obi-Wan Kenobi se déroule des années après les événements dramatiques de Star Wars : La revanche des Sith, où Kenobi a assisté à la corruption de son ami et apprenti Jedi Anakin Skywalker devenu le Seigneur Sith Dark Vador
+- IL Y A DAUTRES ARTICLES DE COSPLAY DUNE GALAXIE LOINTAINE, TRÈS LOINTAINE : Dautres accessoires de cosplay Star Wars The Black Series inspirés de lunivers Star Wars sont aussi disponibles (vendus séparément ; dans la limite des stocks)
+- DESIGN INSPIRÉ DE LA SÉRIE STAR WARS: OBI-WAN KENOBI : Les fans peuvent recréer des scènes de la galaxie Star Wars grâce à ce casque premium de cosplay inspiré de la série de Disney+
+- CASQUE ÉLECTRONIQUE PREMIUM : Cette reproduction de taille réelle du casque de Dark Vador inclut une déco hautement réaliste, un design inspiré de la série, de multiples pièces et des sons de respiration. Inclut aussi un socle pour poser le casque
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RSCDPPN{{</world>}}

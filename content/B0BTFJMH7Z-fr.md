@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition du matériau:Coton de transition / en conversion (55 %), Better Cotton Initiative (45 %)
 - Instructions dentretien:Lavage en machine
-- Manchon:Manche longue
+- Composition du matériau:Coton de transition / en conversion (55 %), Better Cotton Initiative (45 %)
 - Fermeture:Cordon de serrage
+- Manchon:Manche longue
 - Type dajustement:Régulière
 
 [🛒 Achète-le!!]({{< param buyurl >}})

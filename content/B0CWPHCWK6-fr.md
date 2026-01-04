@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UTILISATION INTUITIVE: la tête thermostatique s’utilise de manière intuitive depuis l’écran. Si vous n’êtes pas satisfait·e au cours de la première année, nous vous remboursons
-- GESTION DEPUIS L’APPLICATION: le thermostat pour radiateur offre des programmes intelligents, le gardiennage visuel avancé, la détection de fenêtres ouvertes et bien plus encore
-- ÉCONOMISEZ DE L’ÉNERGIE ET DE L’ARGENT: avec le kit de démarrage thermostat X tado° comprenant le Bridge X et un kit de batterie en exclusivité pour la clientèle Amazon
-- UN FORFAIT COMPLET EN OPTION: « Auto-Assist », vous donne des informations sur les coûts énergétiques, des solutions aux problèmes de chauffage, un gardiennage virtuel automatisé et une détection de fenêtres ouvertes (seulement 3,99 € par mois, 29,99 € par an, résiliation à tout moment)
-- INSTALLATION DIY SIMPLE, MÊME HORS LIGNE: le smart thermostat convient aux chauffe-eaux qui supportent OpenTherm et la commande par relais, aux pompes à chaleur et aux chauffages au sol à eau avec un thermostat câblé
 - POUR VOTRE SMART HOME: vous pouvez aussi définir une température individuelle par pièce depuis une application ou une enceinte connectée (Alexa d’Amazon, Google Assistant ou Siri d’Apple)
-- Important: les produits tado° X ne sont pas compatibles avec tado° V3+ ou des versions supérieures
+- UN FORFAIT COMPLET EN OPTION: « Auto-Assist », vous donne des informations sur les coûts énergétiques, des solutions aux problèmes de chauffage, un gardiennage virtuel automatisé et une détection de fenêtres ouvertes (seulement 3,99 € par mois, 29,99 € par an, résiliation à tout moment)
+- ÉCONOMISEZ DE L’ÉNERGIE ET DE L’ARGENT: avec le kit de démarrage thermostat X tado° comprenant le Bridge X et un kit de batterie en exclusivité pour la clientèle Amazon
 - TECHNOLOGIES D’AVENIR: les appareils de votre smart home communiquent entre eux via Matter, tandis que Thread garantit la stabilité du réseau. Le Bridge X (fourni) ou un Thread Border Router est nécessaire
+- UTILISATION INTUITIVE: la tête thermostatique s’utilise de manière intuitive depuis l’écran. Si vous n’êtes pas satisfait·e au cours de la première année, nous vous remboursons
+- INSTALLATION DIY SIMPLE, MÊME HORS LIGNE: le smart thermostat convient aux chauffe-eaux qui supportent OpenTherm et la commande par relais, aux pompes à chaleur et aux chauffages au sol à eau avec un thermostat câblé
+- Important: les produits tado° X ne sont pas compatibles avec tado° V3+ ou des versions supérieures
+- GESTION DEPUIS L’APPLICATION: le thermostat pour radiateur offre des programmes intelligents, le gardiennage visuel avancé, la détection de fenêtres ouvertes et bien plus encore
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CWPHCWK6{{</world>}}

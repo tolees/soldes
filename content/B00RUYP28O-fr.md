@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Deux poches principales zippées à rabat
 - Logo Imprimé par transfert thermique
-- Manchettes élastiquées
-- Cordon de serrage élastique à la capuche et à lourlet
-- Logo Imprimé par transfert thermique
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- doublure du corps en maillefilet
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - finition déperlante DWR
-- Manchettes élastiquées
-- finition déperlante DWR
-- doublure de la mentonnière et nuque en Tricot brossé
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- doublure de la mentonnière et nuque en Tricot brossé
-- Deux poches principales zippées à rabat
-- Cordon de serrage élastique à la capuche et à lourlet
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - doublure du corps en maillefilet
+- Manchettes élastiquées
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- doublure du corps en maillefilet
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- doublure de la mentonnière et nuque en Tricot brossé
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Manchettes élastiquées
+- Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- Cordon de serrage élastique à la capuche et à lourlet
+- Cordon de serrage élastique à la capuche et à lourlet
+- doublure de la mentonnière et nuque en Tricot brossé
+- finition déperlante DWR
+- Deux poches principales zippées à rabat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

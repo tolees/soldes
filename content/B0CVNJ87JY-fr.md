@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en France, grâce au savoir-faire de Waterman et à plus de 140 ans d’expérience
-- Plume en acier inoxydable gravée de l’emblématique « W » en boucle de Waterman offrant une écriture fluide
-- Corps bleu foncé avec capuchon noir, clip à double branche emblématique et finition plaqués palladium
-- Un stylo plume au style affirmé, inspiré par la tendance color block audacieuse de cette saison, affichant une finition raffinée et une silhouette fine
 - Présenté dans un étui cadeau Waterman haut de gamme, le cadeau parfait à offrir ou à s’offrir
+- Un stylo plume au style affirmé, inspiré par la tendance color block audacieuse de cette saison, affichant une finition raffinée et une silhouette fine
+- Corps bleu foncé avec capuchon noir, clip à double branche emblématique et finition plaqués palladium
+- Plume en acier inoxydable gravée de l’emblématique « W » en boucle de Waterman offrant une écriture fluide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CVNJ87JY{{</world>}}

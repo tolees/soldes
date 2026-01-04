@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
-- Temps de combustion : 110 à 150 heures – Poids : 623 g
-- Un charmant bouquet de fleurs printanières, qui apportera couleur et gaieté dans nimporte quelle pièce
-- Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
 - Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
+- Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
+- Temps de combustion : 110 à 150 heures – Poids : 623 g
+- Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
+- Un charmant bouquet de fleurs printanières, qui apportera couleur et gaieté dans nimporte quelle pièce
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N3S7MJA{{</world>}}

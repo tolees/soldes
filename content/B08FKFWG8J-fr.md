@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans parabène, sans phénoxyéthanol, Sans parfum
 - Formule hypoallergénique
 - Composé à 99% deau pure
+- Sans parabène, sans phénoxyéthanol, Sans parfum
 - Jetable dans les toilettes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

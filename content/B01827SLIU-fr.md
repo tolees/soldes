@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tarif bi-horaire réglable.
-- Affichage de lheure, du jour, de la puissance (w), de la puissance max (w max), de la consommation (kwh), de lémission carbonique (co), de la tension (vac) et de lampérage (amp).
 - Faites des économies dénergie et dargent en comprenant mieux vos dépenses énergétiques et empreintes carboniques grâce à ce compteur.
+- Affichage de lheure, du jour, de la puissance (w), de la puissance max (w max), de la consommation (kwh), de lémission carbonique (co), de la tension (vac) et de lampérage (amp).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01827SLIU{{</world>}}

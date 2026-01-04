@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas de montage nécessaire
 - Entièrement en bois massif : hêtre, non traité
+- Pour protéger lenfant de tomber du lit
 - À glisser sous le matelas
 - Mesure 90 cm de longueur x 32 cm Largeur x 36 cm Hauteur
-- Pour protéger lenfant de tomber du lit
+- Pas de montage nécessaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SJC5QO6{{</world>}}

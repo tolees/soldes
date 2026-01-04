@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poids du colis : 0.025 kilograms
 - 3 lames compatibles avec tous les produits intuition complete
-- Bande lubrifiante hydratante avec un gel (skin protect) pour faciliter la glisse et aider à prévenir les irritations cutanées
 - Sensation de douceur après le rasage grâce à la formule skin soft
+- Bande lubrifiante hydratante avec un gel (skin protect) pour faciliter la glisse et aider à prévenir les irritations cutanées
 - Rase confortablement grâce aux 5 lames et une tête de rasage hydro silk
 
 [🛒 Achète-le!!]({{< param buyurl >}})

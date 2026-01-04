@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Recréez les actions destructrices des spectacles en direct ou de la série YouTube ou créez vos propres histoires avec vos personnages préférés.
 - Ce coffret de 8 véhicules Monster Trucks Live Hot Wheels inclut 8 personnages emblématiques dans une même boîte.
 - Ce coffret est idéal pour les collectionneurs et les fans à partir de 3 ans.
-- Recréez les actions destructrices des spectacles en direct ou de la série YouTube ou créez vos propres histoires avec vos personnages préférés.
 - Chaque Monster Truck à l’échelle 1/64 arbore des roues géantes et des décorations que les enfants et les collectionneurs apprécieront.
 - Le coffret contient Rhinomite, Bone Shaker, Tiger Shark, Skelesaurus, Mega Wrex, 5-Alarm, Gunkster et Bigfoot.
 

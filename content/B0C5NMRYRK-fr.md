@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de laçage rapide
 - Membrane GORE-TEX
-- Une chaussure de randonnée imperméable, conçue en partie à base de matières recyclées
-- Tige en ripstop et bout moulé
 - Chaussant standard
+- Une chaussure de randonnée imperméable, conçue en partie à base de matières recyclées
+- Système de laçage rapide
+- Tige en ripstop et bout moulé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5NMRYRK{{</world>}}

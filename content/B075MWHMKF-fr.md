@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Crâne présentant les caractéristiques suivantes:
+- Crâne décoratif || Marchandises fun et de fans || Motif: Uni
 - Mesures: Taille standard
 - Crânes, Gothic, Horreur, Steampunk
-- Crâne décoratif || Marchandises fun et de fans || Motif: Uni
 - Découvrez toutes les meilleures marques chez EMP!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

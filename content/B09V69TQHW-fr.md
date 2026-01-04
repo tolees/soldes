@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Excellentes performances sur route sèche.
-- Convient aux véhicules électriques.
 - Excellentes performances de freinage et très bonne maniabilité sur sol mouillé.
+- Convient aux véhicules électriques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09V69TQHW{{</world>}}

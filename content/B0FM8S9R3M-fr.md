@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fais la course dans des bolides iconiques - Prends la route à bord de 8 voitures légendaires, dont laDodge Charger, la Corvette Z06, la Shelby GT500 KR, la Ford GT, le Bronco DR, la Jeep Wrangler et plus.
-- Course d’arcade dopée à l’adrénaline et de haute vitesse - Fais la course sur des circuits intenses à bord de superbolides sous licence, avec un style cinématographique, des dérapages, des boosts de nitro et une conduite de précision qui recréent toute l’adrénaline du classique d’arcade original.
-- Fais la course ensemble en mode local multijoueur - Emmène un ami et faites la course à 2 joueurs en mode local multijoueur sur écran séparé, portant la rivalité de l’arcade à la maison grâce à de l’action tête-à-tête et une rivalité qui n’arrête pas.
 - Le meilleur jeu de course d’arcade, enfin sur console - Vis les sensations fortes à plein régime du jeu d’arcade à la maison, maintenant optimisé pour les consoles et avec la même action explosive qui a fait de l’original un favori des arcades.
+- Course d’arcade dopée à l’adrénaline et de haute vitesse - Fais la course sur des circuits intenses à bord de superbolides sous licence, avec un style cinématographique, des dérapages, des boosts de nitro et une conduite de précision qui recréent toute l’adrénaline du classique d’arcade original.
 - Personnalise ton aspect à ta façon - Personnalise ton bolide avec des combinaisons de couleurs uniques qui te feront briller sur la piste et refléter ta personnalité.
+- Fais la course ensemble en mode local multijoueur - Emmène un ami et faites la course à 2 joueurs en mode local multijoueur sur écran séparé, portant la rivalité de l’arcade à la maison grâce à de l’action tête-à-tête et une rivalité qui n’arrête pas.
+- Fais la course dans des bolides iconiques - Prends la route à bord de 8 voitures légendaires, dont laDodge Charger, la Corvette Z06, la Shelby GT500 KR, la Ford GT, le Bronco DR, la Jeep Wrangler et plus.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FM8S9R3M{{</world>}}

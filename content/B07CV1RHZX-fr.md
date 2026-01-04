@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 tailles de tasse : Espresso et Lungo
 - Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - Une machine à café compacte et légère
-- 2 tailles de tasse : Espresso et Lungo
 - Un assortiment de 14 capsules offert
 - Arrêt automatique après 9 minutes dinutilisation
 - Préchauffage rapide en 25 secondes

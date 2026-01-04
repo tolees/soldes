@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notes de fond : Cuir, bois de santal et ambre
-- Eau de Parfum Homme
 - Il a des notes chaudes et épicées ainsi que quelques nuances boisées. »
+- Eau de Parfum Homme
+- Notes de fond : Cuir, bois de santal et ambre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000IWYOHU{{</world>}}

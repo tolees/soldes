@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 8 activités solo : Lancer de balle, Parcours canin, Baseball, Saut dobstacles, Trampoline, Balançoire, Tourniquet, Pont de singe
+- Un jeu daventure et de fête unique, rempli dactivités inattendues, se déroulant dans un monde ouvert exclusif de camp dété
 - 2 activités en duo : Balançoire à bascule, Badminton, Jouez en solo ou rassemblez vos proches et jouez ensemble sur une seule console
 - Explorez le monde ouvert avec votre chien à travers 4 biomes différents et débloquez des badges uniques. Partez à la chasse au trésor et découvrez des secrets
-- Un jeu daventure et de fête unique, rempli dactivités inattendues, se déroulant dans un monde ouvert exclusif de camp dété
 - 28 mini-jeux en coop locale jusqu’à 4 joueurs : Équitation, Bmx, Tir à larc, Chasse aux moustiques, Paintball, Attrape-moutons, Attrape-taupes, Tir à larbalète, Bataille deau, Paddle, Combat en arène, Aquabulle, Aéroglisseur, Wakeboard, Course de sac, Saut à la corde, Escalade, Course de karts, Kart snake, Jeu du ressort, 1-2-3 hop, Tyrolienne, Ballons à gonfler, Tape-lapins, Luge dété, Grand toboggan aquatique, La course infernale, Pêche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

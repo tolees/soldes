@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La troisième voie dissimule une rampe que les voitures emprunteront pour ressortir à toute vitesse par la trappe du toit. Garez une voiture à cet endroit pour des cascades encore plus spectaculaires ! (Véhicules supplémentaires vendus séparément.)
-- Choisissez la deuxième voie pour traverser le looping et foncer directement vers d’autres aventures. Connectez d’autres pistes Hot Wheels à la base pour encore plus d’histoires à inventer. (Piste supplémentaire vendue séparément.)
 - Foncez sur la dernière voie et activez la sirène de police alors que la voiture part en intervention.
-- Le coffret comprend une voiture de police à l’échelle 1/64 et des éléments de jeu pour stimuler l’imagination.
+- Choisissez la deuxième voie pour traverser le looping et foncer directement vers d’autres aventures. Connectez d’autres pistes Hot Wheels à la base pour encore plus d’histoires à inventer. (Piste supplémentaire vendue séparément.)
 - Déplacez la piste looping réglable pour choisir parmi 4 configurations différentes dans le coffret Super Poste de Police de Hot Wheels City !
-- Faites glisser la piste le long de la base qui propose 4 voies de course et de cascade différentes à découvrir.
+- La troisième voie dissimule une rampe que les voitures emprunteront pour ressortir à toute vitesse par la trappe du toit. Garez une voiture à cet endroit pour des cascades encore plus spectaculaires ! (Véhicules supplémentaires vendus séparément.)
 - Lancez le véhicule dans le looping et négociez parfaitement le virage en épingle à cheveux. Attention, cela requiert vitesse et précision !
+- Faites glisser la piste le long de la base qui propose 4 voies de course et de cascade différentes à découvrir.
+- Le coffret comprend une voiture de police à l’échelle 1/64 et des éléments de jeu pour stimuler l’imagination.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7PT9T9B{{</world>}}

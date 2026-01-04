@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues, poignets côtelés
-- Maille fine
 - Avec logo
+- Maille fine
+- Manches longues, poignets côtelés
 - Col rond, encolure avec bordure côtelée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

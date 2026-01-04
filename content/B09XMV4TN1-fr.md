@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche courte
 - 100% polyester
+- Manche courte
 - Type de col: Col une pièce
 - Fermeture: Enfiler
 

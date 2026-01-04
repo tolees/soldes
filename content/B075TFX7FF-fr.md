@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3.Plat
-- Arche moyenne
 - 3 sangles
+- Arche moyenne
 - Synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

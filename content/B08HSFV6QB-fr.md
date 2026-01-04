@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max
-- Pince de maintien intégrée pour sécuriser les pièces de chaque côté de la lame pendant la coupe
-- Guide laser intégré pour visualiser avec précision la ligne de coupe et réduire les erreurs
-- Capacité de coupe jusqu’à 220 mm de large et 70 mm d’épaisseur pour les projets de menuiserie variés
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
 - Scie à onglet puissante avec performance équivalente à un moteur filaire de 1200 W pour des coupes nettes et rapides
-- Format sans fil pour une grande liberté de mouvement sur tous les chantiers ou à domicile
-- Glissière extensible pour travailler des pièces longues avec stabilité et sécurité
-- Coupe facilement le bois, l’aluminium et le plastique grâce à une vitesse de rotation de 3200 tr/min
+- Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Pince de maintien intégrée pour sécuriser les pièces de chaque côté de la lame pendant la coupe
 - Coupe à onglet réglable avec 9 butées prédéfinies pour une précision optimale à chaque angle
+- Coupe facilement le bois, l’aluminium et le plastique grâce à une vitesse de rotation de 3200 tr/min
+- Glissière extensible pour travailler des pièces longues avec stabilité et sécurité
+- Capacité de coupe jusqu’à 220 mm de large et 70 mm d’épaisseur pour les projets de menuiserie variés
+- Format sans fil pour une grande liberté de mouvement sur tous les chantiers ou à domicile
+- Guide laser intégré pour visualiser avec précision la ligne de coupe et réduire les erreurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HSFV6QB{{</world>}}

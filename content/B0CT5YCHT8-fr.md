@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe droite
-- Avec capuche
 - Poche kangourou
+- Avec capuche
+- Coupe droite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CT5YCHT8{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le plaisir et limagination amplifiés. Des réalités qui se croisent grâce à la technologie XR haute résolution et vibrante.
-- Équilibré et clair. Des haut-parleurs puissants offrent un son clair et immersif.
-- Plus quune batterie. Jusquà 2 heures dautonomie. Remplaçable à chaud.
-- Au-delà de la VR autonome. Connectez-vous à votre PC prêt pour la VR et profitez dun jeu PC-VR haute fidélité à faible latence.
-- La main à la pâte. Naviguez, cliquez, faites glisser, faites défiler et tapez avec les mouvements naturels de la main et des doigts. (Les fonctions de suivi des mains dépendent du titre VR).
-- Une vision finement réglée. Cadrans IPD et dioptrique réglables pour une expérience visuelle la plus naturelle et la plus claire possible.
 - Conçu pour les graphismes les plus exigeants. Résolution combinée de 3840 x 1920 et 19 pixels par degré. Champ de vision jusquà 110° et taux de rafraîchissement de 90 Hz dans un format remarquablement compact.
+- Au-delà de la VR autonome. Connectez-vous à votre PC prêt pour la VR et profitez dun jeu PC-VR haute fidélité à faible latence.
+- Plus quune batterie. Jusquà 2 heures dautonomie. Remplaçable à chaud.
+- Une vision finement réglée. Cadrans IPD et dioptrique réglables pour une expérience visuelle la plus naturelle et la plus claire possible.
+- Équilibré et clair. Des haut-parleurs puissants offrent un son clair et immersif.
+- La main à la pâte. Naviguez, cliquez, faites glisser, faites défiler et tapez avec les mouvements naturels de la main et des doigts. (Les fonctions de suivi des mains dépendent du titre VR).
+- Le plaisir et limagination amplifiés. Des réalités qui se croisent grâce à la technologie XR haute résolution et vibrante.
 - Léger XR. Un casque élégant qui vous suit partout.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

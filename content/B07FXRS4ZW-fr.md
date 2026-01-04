@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôlez vos luminaires avec votre voix à l’aide d’Amazon Alexa, Apple HomeKit ou l’Assistant Google ; vous pouvez aussi contrôler les luminaires à l’aide de votre application Philips Hue (lorsqu’intégrée à un pont) via votre smartphone ou tablette
-- Profitez de toutes les fonctionnalités Hue de loisirs (synchronisation avec les films, les jeux et la musique, scénarios lumineux personnalisables et intégration d’autres partenaires) ; pont Hue supplémentaire nécessaire (vendu séparément)
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique g
-- Le système Philips Hue est compatible avec de nombreux systèmes domotiques tels qu’Amazon Echo, Google Home, Apple HomeKit, Nest, Samsung SmartThings, Yale, Razer, IFTTT et Logitech
 - Rétro-éclairage TV parfait : améliorez votre expérience audiovisuelle avec des flots de lumière entourant votre TV ; créez la bonne atmosphère pour votre soirée film en choisissant parmi 16 millions de couleurs et des scénarios prédéfinis
+- Contrôlez vos luminaires avec votre voix à l’aide d’Amazon Alexa, Apple HomeKit ou l’Assistant Google ; vous pouvez aussi contrôler les luminaires à l’aide de votre application Philips Hue (lorsqu’intégrée à un pont) via votre smartphone ou tablette
+- Le système Philips Hue est compatible avec de nombreux systèmes domotiques tels qu’Amazon Echo, Google Home, Apple HomeKit, Nest, Samsung SmartThings, Yale, Razer, IFTTT et Logitech
+- Profitez de toutes les fonctionnalités Hue de loisirs (synchronisation avec les films, les jeux et la musique, scénarios lumineux personnalisables et intégration d’autres partenaires) ; pont Hue supplémentaire nécessaire (vendu séparément)
 - Compact, discret et polyvalent : placez Hue Play sur le meuble près de votre TV ou cachez-le derrière ; vous pouvez même facilement le monter à l’arrière de votre TV (crosse et support de montage TV avec autocollant 3M inclus)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

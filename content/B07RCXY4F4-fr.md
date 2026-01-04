@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le chargeur GAL 18V-40, 48 minutes suffisent pour recharger à 80 % la batterie GBA 18V 4.0Ah
+- Plus grande autonomie pour les outils 18 V avec la batterie GBA 18V 4.0Ah
 - Compatibilité totale depuis 2008 : toutes nos batteries sont compatibles avec tous les anciens et nouveaux outils Bosch Professional de la même catégorie de tension.
 - Livré avec : 1x batterie GBA 18V 4.0Ah, chargeur rapide GAL 18V-40, boîte carton
 - AMPShare : les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
-- Plus grande autonomie pour les outils 18 V avec la batterie GBA 18V 4.0Ah
+- Avec le chargeur GAL 18V-40, 48 minutes suffisent pour recharger à 80 % la batterie GBA 18V 4.0Ah
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07RCXY4F4{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RÉUNISSEZ LES STARS DANS MyTEAM - Collectionnez et affrontez les légendes d’hier et d’aujourd’hui dans MyTEAM. Composez une équipe de stars, testez votre équipe de rêve dans les modes solo et multijoueur et obtenez de nouvelles cartes pour concrétiser votre rêve MyTEAM.
-- COMPOSEZ VOTRE ÉQUIPE POUR GAGNER - Créez un Mon JOUEUR exceptionnel dans Ma CARRIÈRE et passez du statut de jeune espoir à celui de superstar mondiale. Prenez le contrôle d’environnements époustouflants, composez une équipe de rêve avec vos amis, défiez vos adversaires et remportez la victoire.
-- Précommandez NBA 2K26 Édition standard et obtenez 10 000 Virtual Currency (Monnaie virtuelle). Cette édition inclut NBA 2K26 pour XboxSeries X et XboxOne. Le disque d’installation contient la version Xbox Series X. Un code de téléchargement pour version Xbox One est inclus dans la boîte
 - PROPULSÉ PAR ProPLAY - Dominez chaque possession grâce à une technologie immersive qui transforme des séquences NBA en gameplay ultra-réaliste sur XboxSeries X. Vivez à fond chaque dribble et chaque crossover, et bougez en toute liberté en profitant d’un jeu dynamique grâce aux nouvelles fonctionnalités.
+- COMPOSEZ VOTRE ÉQUIPE POUR GAGNER - Créez un Mon JOUEUR exceptionnel dans Ma CARRIÈRE et passez du statut de jeune espoir à celui de superstar mondiale. Prenez le contrôle d’environnements époustouflants, composez une équipe de rêve avec vos amis, défiez vos adversaires et remportez la victoire.
 - VOTRE ÉQUIPE, VOTRE HISTOIRE - Écrivez le nouveau chapitre d’une franchise NBA en tant que manager général dans Ma NBA sur XboxSeries X ou Ma LIGUE sur Xbox One. Influencez l’avenir du sport et marquez l’histoire de la ligue à jamais.
+- Précommandez NBA 2K26 Édition standard et obtenez 10 000 Virtual Currency (Monnaie virtuelle). Cette édition inclut NBA 2K26 pour XboxSeries X et XboxOne. Le disque d’installation contient la version Xbox Series X. Un code de téléchargement pour version Xbox One est inclus dans la boîte
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FH7BQ59Q{{</world>}}

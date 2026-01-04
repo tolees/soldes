@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie d’hypertraitement CORSAIR AXON: Permet d’atteindre un nouveau niveau de K70, en traitant et en transmettant vos entrées jusqu’à 8x plus rapidement que les claviers gaming traditionnels.
-- Switchs de touche mécaniques 100% CHERRY MX RGB Red: Ils allient un mouvement linéaire à une frappe de touche douce idéale pour les gamers exigeants et sont garantis pour 100 millions de frappes.
-- La légende continue: Le K70 RGB PRO conserve les éléments emblématiques du K70 RGB, cadre en aluminium durable, des switchs mécaniques CHERRY MX et un rétroéclairage RGB par touche.
-- Basculez en mode compétition: Actionnez le bouton Tournoi, qui empêche l’activation involontaire des macros et passe automatiquement à un rétroéclairage statique moins distrayant.
 - Touches PRO PBT à double injection avec standard bottom row: Un jeu de touches moulées avec précision résiste à l’usure, à la décoloration et à l’effet de brillance.
+- Basculez en mode compétition: Actionnez le bouton Tournoi, qui empêche l’activation involontaire des macros et passe automatiquement à un rétroéclairage statique moins distrayant.
 - Câble USB type C tressé et amovible: Il vous permet d’utiliser facilement le K70 RGB PRO en déplacement.
+- La légende continue: Le K70 RGB PRO conserve les éléments emblématiques du K70 RGB, cadre en aluminium durable, des switchs mécaniques CHERRY MX et un rétroéclairage RGB par touche.
+- Switchs de touche mécaniques 100% CHERRY MX RGB Red: Ils allient un mouvement linéaire à une frappe de touche douce idéale pour les gamers exigeants et sont garantis pour 100 millions de frappes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09N4QJJ6D{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - <li>Avec vis pivotante vers la droite</li>
-- <li>Matériau : En alliage acier de qualité supérieure
 - Ajustable Mol. Central 24" Cro
+- <li>Matériau : En alliage acier de qualité supérieure
 - <li>Angle de la tête 22,5°</li>
 - <ul>
 

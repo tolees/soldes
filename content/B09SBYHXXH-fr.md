@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Get ready for 5 versus 5 soccer without rules where every move is allowed to win!
 - Dribble your opponents, pass to your teammates
+- Get ready for 5 versus 5 soccer without rules where every move is allowed to win!
 - And use tackles, items and special shots to score as many goals as possible
 
 [🛒 Achète-le!!]({{< param buyurl >}})

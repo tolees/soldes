@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sangle imprimée de personnages multicolores
 - Cadran personnage Pokéball et Pikachu
+- Sangle imprimée de personnages multicolores
 - Cadran imprimé avec affichage numérique de lheure
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Version française
+- 8 touches lumineuses pour déclencher 30 mélodies, découvrir les notes de musique et les couleurs et 5 boutons Animal pour écouter le cri des animaux et de super chansons
 - 10 chansons entraînantes pour jouer en groupe ou tout seul sur laccompagnement musical
 - Une guitare lumineuse pour les bébés rock star de 2 à 5 ans
-- 8 touches lumineuses pour déclencher 30 mélodies, découvrir les notes de musique et les couleurs et 5 boutons Animal pour écouter le cri des animaux et de super chansons
 - 3 modes musicaux : Blues, Rock ou Country et une manette pour ajouter des sons rigolos
 
 [🛒 Achète-le!!]({{< param buyurl >}})

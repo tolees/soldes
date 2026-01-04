@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
 - Couleur : blanc
-- XL extra léger pour plus de légèreté et dabsorption des chocs
-- Dessus : cuir (cuir de veau)
 - Coutures à 360° pour plus de durabilité
+- Dessus : cuir (cuir de veau)
+- XL extra léger pour plus de légèreté et dabsorption des chocs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VPR229W{{</world>}}

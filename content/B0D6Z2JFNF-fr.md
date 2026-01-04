@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 【Installation simple】 – Notre lave-vaisselle ne nécessite quune alimentation en eau et une sortie dévacuation. Un simple raccordement est nécessaire comme pour nimporte quel lave-vaisselle, mais il peut également être installé sur un robinet (nécessite un adaptateur approprié) en vidant les eaux usées directement dans un évier.
-- 【Dimensions】 – 50P x 55L x 43,8H cm. Longueur du tuyau de vidange : 1,7 m ; longueur du tuyau darrivée deau : 1,8 m.
-- 【6 couverts】– Grâce à son système de rangement flexible et pratique, notre lave-vaisselle peut contenir jusquà 67 ustensiles de cuisine et accueillir des assiettes dun diamètre allant jusquà 250 mm. Avec une capacité de 6 couverts, cest la taille parfaite pour accueillir jusquà 2-3 personnes.
-- 【Consommation deau réduite et économie dénergie】 – Le lave-vaisselle ECO COMFEE nettoie la vaisselle avec moins dénergie. Il ne consomme que 6,5 L deau par cycle de lavage en moyenne, soit 1/5 de la quantité deau utilisée lors du lavage à la main et ne consomme que 0,61 kWh délectricité en moyenne par cycle.
 - 【Démarrage différé】 – Avec la possibilité de retarder les cycles de lavage d1 à 24 heures, le lave-vaisselle COMFEE vous permet de retarder le démarrage de votre cycle de lavage à lheure qui vous convient le mieux ou pour bénéficier de tarifs déléctricité hors Heures Pleines, si applicables.
+- 【Consommation deau réduite et économie dénergie】 – Le lave-vaisselle ECO COMFEE nettoie la vaisselle avec moins dénergie. Il ne consomme que 6,5 L deau par cycle de lavage en moyenne, soit 1/5 de la quantité deau utilisée lors du lavage à la main et ne consomme que 0,61 kWh délectricité en moyenne par cycle.
+- 【6 couverts】– Grâce à son système de rangement flexible et pratique, notre lave-vaisselle peut contenir jusquà 67 ustensiles de cuisine et accueillir des assiettes dun diamètre allant jusquà 250 mm. Avec une capacité de 6 couverts, cest la taille parfaite pour accueillir jusquà 2-3 personnes.
+- 【Dimensions】 – 50P x 55L x 43,8H cm. Longueur du tuyau de vidange : 1,7 m ; longueur du tuyau darrivée deau : 1,8 m.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6Z2JFNF{{</world>}}

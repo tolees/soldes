@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MANETTE DES GAZ AMOVIBLE : jouable sur vos genoux en position assise ou sur le bureau si vous séparez le joystick de votre manette des gaz.
-- ADAPTÉ À TOUS TYPES DE VOLS : emplacements ergonomiques des boutons avec résistance réglable du joystick pour utiliser tous types davions.
-- EQUIPEMENT DE VOL COMPLET : précision 10 bits avec 5 axes (dont axe Z), 14 boutons, 1 gâchette rapide et 1 interrupteur à chapeau multidirectionnel.
 - LICENCE OFFICIELLE MICROSOFT FLIGHT SIMULATOR : Licence officielle Microsoft Flight Simulator pour Xbox Series X|S et PC.
+- MANETTE DES GAZ AMOVIBLE : jouable sur vos genoux en position assise ou sur le bureau si vous séparez le joystick de votre manette des gaz.
+- EQUIPEMENT DE VOL COMPLET : précision 10 bits avec 5 axes (dont axe Z), 14 boutons, 1 gâchette rapide et 1 interrupteur à chapeau multidirectionnel.
 - SYSTÈME DE DOUBLE GOUVERNAIL : Lavion peut être manœuvré latéralement à laide de laxe Z du joystick ou via le levier inclinable de la manette des gaz amovible.
+- ADAPTÉ À TOUS TYPES DE VOLS : emplacements ergonomiques des boutons avec résistance réglable du joystick pour utiliser tous types davions.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DBZD14S6{{</world>}}
