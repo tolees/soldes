@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Motorola g 56 8 256 Go Smartphone debloqué écran 6 72" Appareil Photo 50 MP Batterie 5200 mAh Dill Vert Coque de Protection et câble USB C Inclus'
+date: 2026-01-25 22:13:45
+image: 'https://m.media-amazon.com/images/I/41+S+EiO6sL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F9L6GVH2-fr Motorola g 56 8 256 Go Smartphone debloqué écran 6 72"...'
+sku: 'B0F9L6GVH2-fr'
+tags: [ '99febcdd-8e39-4093-b93f-17933dab1062_0','99febcdd-8e39-4093-b93f-17933dab1062_9701','Arborist Merchandising Root','High-Tech','Offre de reprise','Self Service','Smartphones et téléphones portables débloqués','Special Features Stores','Téléphones portables et accessoires','motorola','🇫🇷', ]
+actualPrice: 194.87 EUR
+currency: EUR
+price: 194.87
+comparePrice: 279.99 EUR
+prodname: 'Motorola g 56 8 256 Go Smartphone debloqué écran 6 72" Appareil Photo 50 MP Batterie 5200 mAh Dill Vert Coque de Protection et câble USB C Inclus'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Motorola'
+buyurl: 'https://www.amazon.fr/dp/B0F9L6GVH2/?tag=tolees0d-21'
+descuento: '30.40'
+average: '197.43'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Batterie longue durée avec charge rapide : restez connecté toute la journée sans attendre
+- Double capteur photo 50MP pour des clichés nets et détaillés en toute situation
+- Design résistant et étanche : conçu pour durer, même dans des conditions extrêmes
+- Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
+- Écran immersif 6,72’’ FHD+ 120Hz pour une fluidité et une expérience visuelle exceptionnelle
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0F9L6GVH2{{</world>}}

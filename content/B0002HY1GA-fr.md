@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Playmobil - 3209 - la Maison Moderne - Famille/Poussette'
+date: 2025-12-30 03:37:32
+image: 'https://m.media-amazon.com/images/I/512v7WOZ3ZL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0002HY1GA-fr Playmobil - 3209 - la Maison Moderne - Famille/Poussette'
+sku: 'B0002HY1GA-fr'
+tags: [ 'Figurines de personnages','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','playmobil','🇫🇷', ]
+actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
+comparePrice: 15.29 EUR
+prodname: 'Playmobil - 3209 - la Maison Moderne - Famille/Poussette'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Playmobil'
+buyurl: 'https://www.amazon.fr/dp/B0002HY1GA/?tag=tolees0d-21'
+descuento: '21.58'
+average: '9.87261904761905'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Valeurs éducatives: Imaginer, inventer, créer
+- Ballade en famille avec bébé dans sa poussette tout-terrain.
+- Age Minimum: 4 ans
+- Descriptif Produit:Le papa et la maman sont ravis de cette sortie en plein air, leurs enfants samusent beaucoup : le plus grand fait voler son ballon et bébé observe tout ce qui se passe autour de lui, même le chien gambade gaiement...
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B0002HY1GA{{</world>}}
