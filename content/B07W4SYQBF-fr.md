@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche courte
 - Coupe près du corps pour une sensation sur mesure
+- Manche courte
 - Insertion en mesh dans le dos
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

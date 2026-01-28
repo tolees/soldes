@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système Cappuccino : la buse de moussage de lait mélange vapeur, air et lait pour une mousse particulièrement crémeuse pour un cappuccino parfait.
-- Porte-filtre professionnel avec finition aluminium. 2 thermostats distincts pour contrôler la température de leau et de la vapeur
-- Rangement des accessoires pour les filtres inclus dans la livraison. (Pour 1 ou 2 tasses et pour lutilisation de dosettes E.S.E.) -
-- Convient pour poudre expresso moulu (1 ou 2 tasses) ou dosettes E.S.E pré-proportionnées. -
 - Fonction eau chaude.
+- Convient pour poudre expresso moulu (1 ou 2 tasses) ou dosettes E.S.E pré-proportionnées. -
+- Porte-filtre professionnel avec finition aluminium. 2 thermostats distincts pour contrôler la température de leau et de la vapeur
+- Système Cappuccino : la buse de moussage de lait mélange vapeur, air et lait pour une mousse particulièrement crémeuse pour un cappuccino parfait.
+- Rangement des accessoires pour les filtres inclus dans la livraison. (Pour 1 ou 2 tasses et pour lutilisation de dosettes E.S.E.) -
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B013GDEAI0{{</world>}}

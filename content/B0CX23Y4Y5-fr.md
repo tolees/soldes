@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Game Optimizer
-- Son 2 x 5 Watts
 - Moniteur TV - LED - IPS - Full HD - 27 pouces
 - Smart TV WebOS - Wi-Fi - Bluetooth
+- Game Optimizer
+- Son 2 x 5 Watts
 - Grand angle de vision
 
 [🛒 Achète-le!!]({{< param buyurl >}})

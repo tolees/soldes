@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brand: Calvin Klein Jeans
-- Colour: 001 Black
 - Size: 54 Millimetres
 - Model: CKJ23652S
+- Colour: 001 Black
+- Brand: Calvin Klein Jeans
 - Protective case Included
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

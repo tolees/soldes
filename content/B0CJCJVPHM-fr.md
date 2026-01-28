@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dark Vador : Séduit par le côté obscur de la Force, le Seigneur Sith Dark Vador a mené à bien la destruction de lOrdre Jedi par lEmpire,
 - ACCESSOIRE DE FIGURINE : Ce coffret Star Wars inclut un sabre laser rouge qui tient facilement dans les mains de la figurine de Dark Vador
+- FIGURINE STAR WARS : Cette figurine Star Wars Dark Vador de 10 cm a un design et des détails inspirés du personnage
 - FIGURINE ARTICULÉE : Cette figurine Star Wars a plusieurs points darticulation et tient debout sans support pour que les enfants puissent lui faire prendre des poses dynamiques
 - COMPATIBLE AVEC LA GAMME EPIC HERO SERIES : Cette figurine est compatible avec la majorité des véhicules, des accessoires et des figurines de la gamme Epic Hero Series exclusive à Hasbro, Vendus séparément, dans la limite des stocks
-- Dark Vador : Séduit par le côté obscur de la Force, le Seigneur Sith Dark Vador a mené à bien la destruction de lOrdre Jedi par lEmpire,
-- FIGURINE STAR WARS : Cette figurine Star Wars Dark Vador de 10 cm a un design et des détails inspirés du personnage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJCJVPHM{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONCTIONNEMENT TRES SIMPLE : Il suffit de placer la cuve à accumulateur de froid au congélateur, durant environ 12 heures, puis de verser la préparation dans la cuve, de refermer le couvercle et de mettre lappareil en route grâce au bouton ON/OFF. Le moteur dune puissance de 12 W, fait tourner une pale jusquà la prise en glace du mélange. Le couvercle transparent avec ouverture permet de suivre lévolution de la préparation, mais également le rajout dingrédients au fur et à mesure que la gla
 - RAPIDE ET EFFICACE : Grâce au bol dune capacité de 1 L, vous pourrez préparer glaces, sorbets, yaourts et autres desserts glacés en 20 à 40 minutes seulement.
 - POUR DES DESSERTS GLACÉ 100 % NATURELS : Réalisez ses propres glaces et sorbets, cest lassurance dobtenir des desserts glacés au goût unique et 100 % naturels, sans aucun ajout dadditifs, émulsifiants, colorants etc. Régalez petits et grands avec des glaces faites maison; vous pourrez également varier les plaisirs gustatifs puisque la sorbetière est fournie avec un moule pour 7 glaces avec 7 bâtonnets.
+- FONCTIONNEMENT TRES SIMPLE : Il suffit de placer la cuve à accumulateur de froid au congélateur, durant environ 12 heures, puis de verser la préparation dans la cuve, de refermer le couvercle et de mettre lappareil en route grâce au bouton ON/OFF. Le moteur dune puissance de 12 W, fait tourner une pale jusquà la prise en glace du mélange. Le couvercle transparent avec ouverture permet de suivre lévolution de la préparation, mais également le rajout dingrédients au fur et à mesure que la gla
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B215CDM3{{</world>}}

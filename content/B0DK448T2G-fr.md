@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EXCELLENT CONFORT : grâce à sa coupe classique, ce modèle offre une grand liberté de mouvement. Il est équipé d’une fermeture Éclair et protège du vent et du froid.
-- LA FASCINATION À L’ÉTAT PUR : Fondée en 1968, la marque lifestyle Calvin Klein est célèbre pour son style emblématique qui fascine toujours autant l’univers de la mode. La marque américaine privilégie un style minimaliste.
 - ICONIQUE ET INTEMPOREL : ce modèle signé Calvin Klein, avec deux poches et un col montant, séduit par ses lignes indémodables. Le branding Calvin Klein sur la poitrine attire tous les regards.
 - EN TOUTE OCCASION : la veste fonctionnelle a tout pour s’accorder aux tendances du moment. Que vous la portiez avec un jean et des baskets ou avec un costume, vous serez toujours habillé élégamment.
+- LA FASCINATION À L’ÉTAT PUR : Fondée en 1968, la marque lifestyle Calvin Klein est célèbre pour son style emblématique qui fascine toujours autant l’univers de la mode. La marque américaine privilégie un style minimaliste.
 - MATIÈRE ET ENTRETIEN : 100 % nylon recyclé. Lavage en machine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

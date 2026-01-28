@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Marque: Nike
 - Coupe régulière
 - Matériel: 80% coton, 20% polyester
-- Marque: Nike
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L7QY5TF{{</world>}}

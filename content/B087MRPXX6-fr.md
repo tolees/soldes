@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussure de randonnée pour les excursions dune journée
+- semelle de randonnée robuste
 - étanche
 - très bon amortissement
-- semelle de randonnée robuste
 - respirant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

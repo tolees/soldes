@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultats immédiats: peau immédiatement plus radieuse, liftée et raffermie. Résultats à long terme : en poursuivant le traitement pendant 4 semaines, 93% des participant(e)s aux études cliniques ont montré une réduction des rides, des ridules et un regain délasticité
+- Réactivation du collagène : il ralentit et combat le processus du vieillissement cutané en stimulant le renouvellement du collagène, estompe les rides et ridules et améliore l’élasticité et la texture de la peau
 - Contre-indications : chez les personnes ayant un stimulateur cardiaque implanté, ou présentant des troubles du rythme cardiaque ou une autre maladie cardiaque grave connue. Les personnes portant un dispositif actif métallique implanté dans la zone de traitement. Les personnes présentant une lésion suspecte dans la zone de traitement. Les femmes enceintes ou allaitantes. Les personnes présentant une maladie auto-immune ou un diabète. Les personnes souffrant de troubles de la coagulation sanguine
 - Anti-aging : combat les signes de l’âge sur différentes zones. Newa réduit les rides du visage, des yeux, de la bouche et du cou. Efficacité prouvée cliniquement : une étude soumise et validée par la FDA
-- Le coffret contient : lappareil NEWA Visage Collagène + un NEWA Lift gel + une trousse de rangement + le câble dalimentation électrique + un manuel dutilisation
-- Réactivation du collagène : il ralentit et combat le processus du vieillissement cutané en stimulant le renouvellement du collagène, estompe les rides et ridules et améliore l’élasticité et la texture de la peau
 - Technologie professionnelle : NEWA utilise la technologie de pointe 3 DEEP, qui a fait ses preuves auprès de dermatologues de premier plan et est utilisée dans des cliniques professionnelles du monde entier
+- Le coffret contient : lappareil NEWA Visage Collagène + un NEWA Lift gel + une trousse de rangement + le câble dalimentation électrique + un manuel dutilisation
+- Résultats immédiats: peau immédiatement plus radieuse, liftée et raffermie. Résultats à long terme : en poursuivant le traitement pendant 4 semaines, 93% des participant(e)s aux études cliniques ont montré une réduction des rides, des ridules et un regain délasticité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BQFRKTJ{{</world>}}

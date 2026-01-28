@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La qualité Schott NYC depuis 1913
-- Manche Longue
 - Décontracté
+- Manche Longue
 - Fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

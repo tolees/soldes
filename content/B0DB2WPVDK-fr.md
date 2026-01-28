@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CARTE BONUS EXCLUSIVE « RARETÉ SECRÈTE DU QUART DE SIÈCLE
-- Remontez le temps avec une vaste collection de jeux rétro des premiers jours de Yu-Gi-Oh ! Avec une sélection de titres emblématiques, y compris des jeux qui nétaient sortis quau Japon.
+- Yu-Gi-Oh! World Championship Tournament 2004 (2004 JP, US, EU/GAME BOY ADVANCE), Yu-Gi-Oh! Destiny Board Traveler (2004 JP, 2005 US/GAME BOY ADVANCE), Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005 (Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005) (2004 JP, 2005 US/GAME BOY ADVANCE)
 - Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist (2000/GAME BOY COLOR. Inklusive Unterstützung für Online-Kämpfe), Yu-Gi-Oh! Monster Capsule GB (2000 JP/GAME BOY COLOR), Yu-Gi-Oh! Dungeon Dice Monsters (2001 JP, 2003 US and EU/GAME BOY ADVANCE), Yu-Gi-Oh Duel Monsters 6, Expert 2 (2001/GAME BOY ADVANCE)
 - Yu-Gi-Oh! The Eternal Duelist Soul (2001 JP, 2002 US, 2003 EU/GAME BOY ADVANCE), Yu-Gi-Oh! The Sacred Cards (2002 JP, 2003 US, 2004 EU/GAME BOY ADVANCE), Yu-Gi-Oh! Reshef of Destruction (2003 JP, 2004 US and EU/GAME BOY ADVANCE), Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel (2003 JP, US, EU/GAME BOY ADVANCE)
-- Yu-Gi-Oh! World Championship Tournament 2004 (2004 JP, US, EU/GAME BOY ADVANCE), Yu-Gi-Oh! Destiny Board Traveler (2004 JP, 2005 US/GAME BOY ADVANCE), Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005 (Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005) (2004 JP, 2005 US/GAME BOY ADVANCE)
+- Remontez le temps avec une vaste collection de jeux rétro des premiers jours de Yu-Gi-Oh ! Avec une sélection de titres emblématiques, y compris des jeux qui nétaient sortis quau Japon.
 - Faites des duels avec de vieux amis grâce au retour des superstars de lanime original Yu-Gi-Oh ! Duel Monsters. Cette compilation classique englobe des jeux de cartes stratégiques, des RPG et bien plus encore. Bientôt sur Nintendo Switch.
+- CARTE BONUS EXCLUSIVE « RARETÉ SECRÈTE DU QUART DE SIÈCLE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DB2WPVDK{{</world>}}

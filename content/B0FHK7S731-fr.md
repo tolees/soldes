@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu pour Gemini, votre assistant IA.
 - Nouveau téléobjectif avec zoom haute résolution jusquà x20.
-- Une conception haut de gamme ultra-résistante.
 - Il vous protège, vous et vos données.
+- Une conception haut de gamme ultra-résistante.
+- Conçu pour Gemini, votre assistant IA.
 - Profitez de 7 ans de mises à jour et de nouvelles fonctionnalités.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

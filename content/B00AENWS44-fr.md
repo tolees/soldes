@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Transparent
 - Verre trempé double
 - Dimensions de lemballage de larticle: 9.8 L x 19.2 H x 13.0 W (centimeters)
+- Couleur : Transparent
 - Capacité: 220.0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

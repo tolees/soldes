@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition : 100 % coton.
-- Tricot à coupe ajustée.
 - Petite étiquette au look denim sur le côté.
+- Tricot à coupe ajustée.
+- Composition : 100 % coton.
 - En coton agréable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

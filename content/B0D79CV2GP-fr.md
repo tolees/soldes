@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- il sagit dun produit authentique et original CAMPER
 - il assure un ajustement optimal
+- il sagit dun produit authentique et original CAMPER
 - Ce style a été produit de manière durable
 - Confortable à porter
 

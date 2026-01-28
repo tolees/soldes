@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure intérieure
-- Dimensions: 19 x 23 x 9 cm
-- Petit sac à bandoulière avec un compartiment à fermeture éclair
-- Deux poches avant et un rabat avec aimants
 - Bandoulière réglable et amovible de 85 cm
+- Dimensions: 19 x 23 x 9 cm
+- Deux poches avant et un rabat avec aimants
+- Doublure intérieure
+- Petit sac à bandoulière avec un compartiment à fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BJZMYC5L{{</world>}}

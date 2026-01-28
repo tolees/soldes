@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec PerfectRoast 3000 Barbecue électrique en inox 3 000 W surface de cuisson mixte revêtement anti-adhésif Rockstone thermostat réglable bac ramasse-graisses 03182'
-date: 2026-01-24 19:41:48
+date: 2026-01-27 03:31:52
 image: 'https://m.media-amazon.com/images/I/31sjGItbvsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dispose de 6 niveaux de température par zone.
 - Barbecue électrique avec résistance intégrée pour améliorer la répartition de la chaleur et tirer le meilleur parti de la puissance. Puissance maximale de 3000 W pour cuisiner tous types daliments.
 - Deux zones de cuisson avec contrôle de température indépendant grâce à ses deux thermostats. Selon laliment, il permet de cuisiner indépendamment sur chaque plaque en ajustant le temps et la température pour obtenir les résultats souhaités.
 - Il dispose dune plaque amovible en fonte daluminium avec revêtement antiadhésif pour cuisiner confortablement, car elle empêche les aliments de coller. Surface mixte grill et plancha pour cuisiner de la viande et des légumes aux œufs au plat, aux fruits de mer ou au poisson.
 - Grande surface de cuisson de 30 x 50 cm pour cuisiner une grande variété daliments en même temps. Coupe-vent pliable en acier inoxydable. Pour éviter que le feu ne séteigne ou ne se propage. Protège également contre les éclaboussures.
+- Dispose de 6 niveaux de température par zone.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZB7NF31{{</world>}}

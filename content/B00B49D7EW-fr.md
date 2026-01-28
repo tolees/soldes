@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - <b>Diamètre</b>: 7.48 cm
-- <b>Description du produit</b>: Samyang 8mm f/3.5 Asph IF MC Fisheye CSII WH. composant pour</b>: SLR
-- <b>Structure de lobjectif (éléments/groupes)</b>: 10/7
-- <b>Longueur du produit</b>: 7.5 cm
-- <b>Couleur</b>: Noir
 - <b>Poids</b>: 435g
 - <b>Type dobjectif</b>: large fish-eye
+- <b>Couleur</b>: Noir
+- <b>Structure de lobjectif (éléments/groupes)</b>: 10/7
+- <b>Description du produit</b>: Samyang 8mm f/3.5 Asph IF MC Fisheye CSII WH. composant pour</b>: SLR
+- <b>Longueur du produit</b>: 7.5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00B49D7EW{{</world>}}

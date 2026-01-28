@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un artbook
+- La bande son digital
 - Un skin en DLC
 - L’édition limitée comprend :
-- La bande son digital
+- Un artbook
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DGGW7JPX{{</world>}}

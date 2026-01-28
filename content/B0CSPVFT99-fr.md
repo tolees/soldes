@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDEE CADEAU ENFANT - Ce Pack Scène Mythique Moments Magiques Harry Potter est une excellente idée pour un cadeau danniversaire ou à Noël ; Faites replonger vos enfants de 6 ans et + dans lunivers du film et profitez de moments de séances de jeu
-- DÉTAILS AUTHENTIQUES - Déballez vos personnages et découvrez leurs adorables détails : la cicatrice et les lunettes de Harry, Hermione avec sa baguette dans les mains, luniforme à rayures de Sirius et les ailes de Buck
-- UNIVERS HARRY POTTER - Revivez les moments mémorables de la troisième année tirés du film Harry Potter et le Prisonnier DAzkaban avec les coffrets de figurines Moments Magiques de Wizarding World Harry Potter
 - SCÈNE DE SAUVETAGE DU PRISONNIER DAZKABAN - Revivez la scène de sauvetage de Sirius Black et Buck tirée du film Harry Potter et le Prisonnier dAzkaban avec le décor du coffret dexposition et les mini-figurines de Harry, Hermione, Sirius et Buck
-- EMPILEZ, ASSEMBLEZ ET EXPOSEZ - Exposez les figurines sur leur support, dans le coffret ou laissez-les se tenir debout ; Pour plus de scènes ensorcelantes, assemblez les coffrets dexposition Moments Magiques les uns aux autres (vendus séparément)
+- DÉTAILS AUTHENTIQUES - Déballez vos personnages et découvrez leurs adorables détails : la cicatrice et les lunettes de Harry, Hermione avec sa baguette dans les mains, luniforme à rayures de Sirius et les ailes de Buck
 - JOUET À COLLECTIONNER - Toutes les figurines Moments Magiques de lunivers Harry Potter sont à collectionner ainsi que les poupées des personnages de Harry, Hermione, Ron, Ginny et de Luna pour des aventures remplies de magie
+- EMPILEZ, ASSEMBLEZ ET EXPOSEZ - Exposez les figurines sur leur support, dans le coffret ou laissez-les se tenir debout ; Pour plus de scènes ensorcelantes, assemblez les coffrets dexposition Moments Magiques les uns aux autres (vendus séparément)
+- IDEE CADEAU ENFANT - Ce Pack Scène Mythique Moments Magiques Harry Potter est une excellente idée pour un cadeau danniversaire ou à Noël ; Faites replonger vos enfants de 6 ans et + dans lunivers du film et profitez de moments de séances de jeu
+- UNIVERS HARRY POTTER - Revivez les moments mémorables de la troisième année tirés du film Harry Potter et le Prisonnier DAzkaban avec les coffrets de figurines Moments Magiques de Wizarding World Harry Potter
 - 4 FIGURINES EXCLUSIVES - Figurines de 4 cm de Harry Potter, Hermione Granger, Sirius Black et Buck, un coffret dexposition transparent et 4 supports ; Les détails adorables de ces jouets Harry Potter en font des objets incontournables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

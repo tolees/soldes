@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : cuir de vachette, textiles fonctionnels
 - Couleur : noir
-- Doublure :
 - Semelle/caractéristiques : sangle élastique pour un ajustement confortable
+- Matériau extérieur : cuir de vachette, textiles fonctionnels
+- Doublure :
 - Semelle intérieure amovible pour un ajustement optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

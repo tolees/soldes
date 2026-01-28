@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Nouveau mode coopératif : Auparavant, Snow Bros. était toujours un jeu à deux joueurs (ce qui est parfaitement logique vu le nom), mais cette fois-ci, le nombre de joueurs a doublé ! Désormais, vous pouvez jouer jusquà quatre joueurs en même temps, ce qui rend laventure encore plus amusante.
 - Nouveaux graphismes : Le nouveau jeu offre un superbe style isométrique en 3D. Armés dune réserve inépuisable de boules de glace, les joueurs peuvent transformer les monstres en boules de neige, qui peuvent être lancées pour détruire des hordes entières dennemis !
 - Custimisation : Personnalisez votre avatar enneigé avec des chapeaux, des lunettes, des écharpes et toutes sortes de choses amusantes.... De nombreux nouveaux trésors cachés. Trouvez votre propre style !
-- Nouveau mode coopératif : Auparavant, Snow Bros. était toujours un jeu à deux joueurs (ce qui est parfaitement logique vu le nom), mais cette fois-ci, le nombre de joueurs a doublé ! Désormais, vous pouvez jouer jusquà quatre joueurs en même temps, ce qui rend laventure encore plus amusante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DL6FNXXT{{</world>}}

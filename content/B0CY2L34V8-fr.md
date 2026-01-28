@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous trouverez tout ce dont vous avez besoin pour jouer, notamment 1 tapis de jeu pour une personne, 1 lot de marqueurs de dégâts, 1 grande pièce métallisée et 1 étui pour deck.
 - Et également 3 cartes de référence, 1 livret de règles, 1 page de stratégies et 1 carte à code pour jouer en ligne avec ce deck.
 - Ce deck Combat-ex contient un deck de 60 cartes prêt à l’emploi mené par l’incroyable Démolosse-ex.
-- Un puissant Pokémon-ex combat pour la gloire dans ce deck prêt à l’emploi.
 - Un puissant Pokémon-ex s’apprête à rejoindre le champ de bataille avec ce Deck Combat Démolosse-ex du JCC Pokémon.
+- Un puissant Pokémon-ex combat pour la gloire dans ce deck prêt à l’emploi.
+- Vous trouverez tout ce dont vous avez besoin pour jouer, notamment 1 tapis de jeu pour une personne, 1 lot de marqueurs de dégâts, 1 grande pièce métallisée et 1 étui pour deck.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CY2L34V8{{</world>}}

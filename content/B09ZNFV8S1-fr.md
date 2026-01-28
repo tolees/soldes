@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compacte et légère : 94 g seulement.
-- Faisceau large et homogène permettant de voir confortablement à portée de main ou à ses pieds.
-- Réflecteur phosphorescent pratique pour retrouver la lampe éteinte, même dans le noir.
-- La lampe frontale TIKKA vous offre aujourdhui un éclairage de 350 lumens.
-- Construction HYBRID CONCEPT : livrée avec trois piles AAA/LR03, TIKKA est aussi compatible avec la batterie rechargeable CORE (non fournie).
 - Platine permettant dorienter la lampe très facilement dans la direction souhaitée.
+- Construction HYBRID CONCEPT : livrée avec trois piles AAA/LR03, TIKKA est aussi compatible avec la batterie rechargeable CORE (non fournie).
+- Compacte et légère : 94 g seulement.
+- Réflecteur phosphorescent pratique pour retrouver la lampe éteinte, même dans le noir.
+- Faisceau large et homogène permettant de voir confortablement à portée de main ou à ses pieds.
+- La lampe frontale TIKKA vous offre aujourdhui un éclairage de 350 lumens.
 - Témoin lumineux à lallumage et à lextinction de la lampe permettant de consulter le niveau de la batterie.
 - Trois niveaux déclairage blanc : MAX BURN TIME (autonomie maximale), STANDARD (meilleur équilibre puissance/autonomie) et MAX POWER (puissance maximale).
 - Éclairage rouge fixe pour préserver la vision nocturne sans éblouir son entourage et clignotant pour signaler sa présence, notamment en cas de secours.

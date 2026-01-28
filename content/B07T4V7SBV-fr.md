@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike M NSW Club Tee T-Shirt Homme Bleu Midnight Navy/White M'
-date: 2026-01-24 06:49:47
+date: 2026-01-27 03:17:07
 image: 'https://m.media-amazon.com/images/I/41DnUtziiDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.fr/dp/B07T4V7SBV/?tag=tolees0d-21'
 descuento: '20.01'
-average: '19.9483333333333'
+average: '19.95875'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajustement régulier
-- Pattern: graphique
 - Logo Nike sur le devant
 - Tissu doux
 - Sechage rapide
+- Ajustement régulier
+- Pattern: graphique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T4V7SBV{{</world>}}

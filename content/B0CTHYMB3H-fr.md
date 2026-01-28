@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme Smartphone 12 Pro 5G 8 + 256GB Appareil Photo Portrait avec téléobjectif Sony IMX882 OIS Chipset Snapdragon® 6 Gen 1 5G Écran à Vision incurvée de 120 Hz Navigator Beige'
-date: 2026-01-24 20:42:36
+date: 2026-01-27 09:58:02
 image: 'https://m.media-amazon.com/images/I/41UmwiTyzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'realme'
 buyurl: 'https://www.amazon.fr/dp/B0CTHYMB3H/?tag=tolees0d-21'
 descuento: '37.50'
-average: '260.387083333333'
+average: '259.587307692308'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Magnifiquement brillant. Écran à vision incurvée de 120 Hz
-- Conception remarquable. Design de montre de luxe
-- Protection de la vision lorsque vous en avez besoin. Gradation PWM de 2 160 Hz. 950 nits Luminosité maximale locale
-- Appareil photo Portrait avec téléobjectif. Appareil photo Sony IMX882 OIS. Algorithme MasterShot omnifocal. Une véritable expérience de photographie nouvelle génération
 - La combinaison gagnante. Batterie puissante de 5 000 mAh, Charge SUPERVOOC 67 W
+- Appareil photo Portrait avec téléobjectif. Appareil photo Sony IMX882 OIS. Algorithme MasterShot omnifocal. Une véritable expérience de photographie nouvelle génération
+- Protection de la vision lorsque vous en avez besoin. Gradation PWM de 2 160 Hz. 950 nits Luminosité maximale locale
+- Conception remarquable. Design de montre de luxe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTHYMB3H{{</world>}}

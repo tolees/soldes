@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE EXPÉRIENCE DE GESTION URBAINE UNIQUE : Inclut une campagne scénarisée, un mode bac à sable personnalisable et une expérience multijoueur.
-- DIVERSES MANIÈRES DE JOUER : Jouez en solo ou accédez au mode en ligne pour jouer en PvP ou en coop.
-- DE NOUVELLES FONCTIONNALITÉS POUR UN NOUVEL ÂGE : comme des expéditions aux quatre coins du monde pour courtiser la gloire et la fortune et une nouvelle fonction de main-dœuvre qui facilitera la gestion de vos usines.
-- LAUBE DUNE NOUVELLE ÈRE : à vous de bâtir de gigantesques métropoles, dorganiser des réseaux logistiques, de coloniser de luxuriants nouveaux continents et de dominer vos adversaires sur les plans diplomatique, commercial ou militaire.
 - BÂTISSEZ VOTRE EMPIRE. Développez de vastes métropoles, administrez une économie prospère et protégez votre œuvre contre lavidité de vos rivaux.
+- DIVERSES MANIÈRES DE JOUER : Jouez en solo ou accédez au mode en ligne pour jouer en PvP ou en coop.
+- UNE EXPÉRIENCE DE GESTION URBAINE UNIQUE : Inclut une campagne scénarisée, un mode bac à sable personnalisable et une expérience multijoueur.
+- LAUBE DUNE NOUVELLE ÈRE : à vous de bâtir de gigantesques métropoles, dorganiser des réseaux logistiques, de coloniser de luxuriants nouveaux continents et de dominer vos adversaires sur les plans diplomatique, commercial ou militaire.
+- DE NOUVELLES FONCTIONNALITÉS POUR UN NOUVEL ÂGE : comme des expéditions aux quatre coins du monde pour courtiser la gloire et la fortune et une nouvelle fonction de main-dœuvre qui facilitera la gestion de vos usines.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BSLHSTYY{{</world>}}

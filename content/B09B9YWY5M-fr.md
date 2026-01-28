@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composants inclus: Télécommande IR 2en1 5V Bloc d alimentation, 2 piles, 2 x tampons auto-adhésifs, Mini Manuel GR/EN/DE/ES/IT/FR
-- Connexion USB pour PVR, Timeshift, Playback, mise à jour logicielle et fonction de sauvegarde
-- Prise en charge USB WiFi pour les applications : Youtube, Météo, Online Software Update [dongle USB en option, appareil recommandé: WiFi EDI-Mega]
-- Lecteur multimédia (MP3/AC3/AAC/JPEG/PNG/MP4/MOV/AVI/MKV/MPG/MPEG/Xvid/DviX)
 - Récepteur par Câble pour signal DVB-C, parfait pour les chaînes FTA du câblo-opérateur DVB-C
+- Connexion USB pour PVR, Timeshift, Playback, mise à jour logicielle et fonction de sauvegarde
+- Lecteur multimédia (MP3/AC3/AAC/JPEG/PNG/MP4/MOV/AVI/MKV/MPG/MPEG/Xvid/DviX)
+- Prise en charge USB WiFi pour les applications : Youtube, Météo, Online Software Update [dongle USB en option, appareil recommandé: WiFi EDI-Mega]
+- Composants inclus: Télécommande IR 2en1 5V Bloc d alimentation, 2 piles, 2 x tampons auto-adhésifs, Mini Manuel GR/EN/DE/ES/IT/FR
 - Récepteur Numérique DVB-T/T2 H265 HEVC 10 bit pour Canaux Terrestres, Télécommande universelle ergonomique 2en1 pour décodeur et TV, avec 4 boutons programmables pour TV
 
 [🛒 Achète-le!!]({{< param buyurl >}})

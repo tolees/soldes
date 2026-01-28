@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre bleue
-- Feutre à bille Pentel R50
 - Ecriture douce, grand confort décriture
+- Encre bleue
 - Pointe en plastique de 0,8mm
+- Feutre à bille Pentel R50
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SHP2Y4{{</world>}}

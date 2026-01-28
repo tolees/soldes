@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adapté à tous les types de peau, y compris aux peaux mixtes
-- La texture aussi légère que lair donne la sensation de ne rien porter, tout en laissant la peau respirer
-- Une couvrance intense au fini mat indétectable et naturel, offrant une tenue jusquà 24 heures
 - Pigments encapsulés combinés à des huiles évanescentes non-grasses qui fixent les pigments sur la peau
+- La texture aussi légère que lair donne la sensation de ne rien porter, tout en laissant la peau respirer
+- Adapté à tous les types de peau, y compris aux peaux mixtes
 - Enrichi en extraits de zinc et en billes de silices, qui absorbent lexcès de sébum
+- Une couvrance intense au fini mat indétectable et naturel, offrant une tenue jusquà 24 heures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B015WSCE1C{{</world>}}

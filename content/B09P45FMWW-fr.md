@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONNECTEUR M.2 GEN3 - Le stockage comprend 1 x emplacement M.2 Gen3 x4 32Gb/s; Le stockage SSD basé sur NVMe réduit le temps de chargement
 - REFROIDISSEMENT INTELLIGENT - Le refroidissement VRM comprend un processeur actif Frozr AI sensible aux températures des CPU & GPU; Le chipset dispose dun dissipateur thermique passif
-- 12TH GEN CORE READY - La PRO H610M-G DDR4 est une carte mère micro-ATX compacte équipée du dernier chipset Intel H610 (LGA 1700, 12th Gen Core ready); Le VRM est doté de la technologie MSI Core Boost pour une stabilité & des performances améliorées
-- CONNECTIVITÉ 1G - Comprend un LAN 1G Intel I219-V; Les ports fixes incluent VGA hérité ainsi que les derniers ports HDMI 2.1 & DP 1.4 (4K/60Hz)- Nécessite un CPU avec graphiques intégrés; 4 x USB 3.2 Gen 1 Type-A (5Gb/s) & audio HD 7.1 avec Audio Boost
 - MÉMOIRE DDR4, SLOT PCIe 4.0 x16 - 2 x emplacements DIMM DDR4 avec circuit isolé Memory Boost (1R, 3200MHz); 1 x emplacement PCIe 4.0 x16 Steel Armor pour supporter la carte graphique du système
+- 12TH GEN CORE READY - La PRO H610M-G DDR4 est une carte mère micro-ATX compacte équipée du dernier chipset Intel H610 (LGA 1700, 12th Gen Core ready); Le VRM est doté de la technologie MSI Core Boost pour une stabilité & des performances améliorées
+- CONNECTEUR M.2 GEN3 - Le stockage comprend 1 x emplacement M.2 Gen3 x4 32Gb/s; Le stockage SSD basé sur NVMe réduit le temps de chargement
+- CONNECTIVITÉ 1G - Comprend un LAN 1G Intel I219-V; Les ports fixes incluent VGA hérité ainsi que les derniers ports HDMI 2.1 & DP 1.4 (4K/60Hz)- Nécessite un CPU avec graphiques intégrés; 4 x USB 3.2 Gen 1 Type-A (5Gb/s) & audio HD 7.1 avec Audio Boost
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09P45FMWW{{</world>}}

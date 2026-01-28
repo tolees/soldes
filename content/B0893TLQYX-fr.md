@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe modern fit - le meilleur dune coupe décontractée et slim; isolation Warmflight Eco [poids de remplissage: 40 g]
-- Polyester 4-way stretch recyclé et traçable Repère fabriqué à partir de bouteilles en plastique
 - Doublure en taffetas et tricot brossé sur la ceinture; coutures renforcées aux endroits critiques; système DATTACHE veste-pantalon
-- Imperméabilité: technologie Quiksilver DryFlight 10K
+- Polyester 4-way stretch recyclé et traçable Repère fabriqué à partir de bouteilles en plastique
 - Système de réglage interne à la taille; attache-forfait; ventilation doublée en mesh
+- Coupe modern fit - le meilleur dune coupe décontractée et slim; isolation Warmflight Eco [poids de remplissage: 40 g]
+- Imperméabilité: technologie Quiksilver DryFlight 10K
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0893TLQYX{{</world>}}

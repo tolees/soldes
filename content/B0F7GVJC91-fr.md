@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Cahier à couverture rigide A4 - Encadrement en spirale - L art est dans l air - 160 pages carrées - Autocollants inclus'
-date: 2026-01-25 02:02:22
+date: 2026-01-28 00:19:56
 image: 'https://m.media-amazon.com/images/I/31ooji0lXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F7GVJC91-fr Mr. Wonderful - Cahier à couverture rigide A4 -...'
 sku: 'B0F7GVJC91-fr'
 tags: [ '5eec2255-391e-4477-8167-5cecb4f5306c_0','5eec2255-391e-4477-8167-5cecb4f5306c_4701','Arborist Merchandising Root','Cahiers et bloc-notes','Cahiers à spirales','Fournitures de bureau','Outlet : Fournitures de bureau','Papeterie','Self Service','Special Features Stores','mr. wonderful','🇫🇷', ]
-actualPrice: 5.18 EUR
+actualPrice: 5.26 EUR
 currency: EUR
-price: 5.18
+price: 5.26
 comparePrice: 8.95 EUR
 prodname: 'Mr. Wonderful - Cahier à couverture rigide A4 - Encadrement en spirale - L art est dans l air - 160 pages carrées - Autocollants inclus'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Mr. Wonderful'
 buyurl: 'https://www.amazon.fr/dp/B0F7GVJC91/?tag=tolees0d-21'
-descuento: '42.12'
-average: '5.29'
+descuento: '41.23'
+average: '5.254'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

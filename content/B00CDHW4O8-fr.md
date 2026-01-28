@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 📐 Dimensions : 100 mm x 51 mm
 - 📦 Lot de 300 étiquettes américaines en carton crème : Idéales pour mariages, baptêmes, affichage de prix en boutiques, stockage en ateliers, artisanat ou créations DIY.
 - ✍️ Compatible avec tous types d’écriture : Crayon, stylo, encre gel, feutre, marqueur permanent, tampon encreur.
 - 🔗 Œillet renforcé + fil de fer inclus : Prêt à être accroché sur produits, pièces détachées, cintres, emballages
-- 🟠 Carton crème épais 160 g/m² : Elégant, pour une présentation soignée.
 - 🛠️ Utilisations : Parfaites pour l’étiquetage de produits, la gestion de stock, les événements, les créations artisanales et les projets personnalisés.
-- 📐 Dimensions : 100 mm x 51 mm
+- 🟠 Carton crème épais 160 g/m² : Elégant, pour une présentation soignée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CDHW4O8{{</world>}}

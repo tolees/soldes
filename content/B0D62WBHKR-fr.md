@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Facile à utiliser et sans enchevêtrement】 Un enroulement mécanique complet et un contrôle manuel rigoureux garantissent un filament PETG propre et facile à alimenter. Le diamètre intérieur plus large de la bobine facilite lalimentation.
 - 【Anti-obstruction et sans bulles】Conçu et fabriqué avec un brevet anti-obstruction pour garantir une impression fluide et stable. Un séchage complet de 24 heures est nécessaire avant la mise sous vide du filament PETG dans son emballage aluminium, ce qui le protège efficacement de lhumidité. Le PETG étant sensible à lhumidité, veuillez le remettre dans son emballage aluminium refermable après utilisation afin de garantir dexcellents résultats dimpression.
+- 【Facile à utiliser et sans enchevêtrement】 Un enroulement mécanique complet et un contrôle manuel rigoureux garantissent un filament PETG propre et facile à alimenter. Le diamètre intérieur plus large de la bobine facilite lalimentation.
 - 【Service après-vente performant】 Quel que soit le moment ou la raison de votre remplacement ou de votre remboursement, nous sommes là pour vous aider ! Nhésitez pas à nous faire confiance : ERYONE est votre fournisseur fiable de filaments, daccessoires et dimprimantes 3D.
-- 【Précision dimensionnelle et homogénéité】 La mesure du diamètre par CCD avancée et le système de contrôle auto-adaptatif garantissent des filaments PETG de 1,75 mm de diamètre avec une précision dimensionnelle de 99 % à +/- 0,03 mm.
 - 【Spécifications de réglage】Le filament PETG haute vitesse ERYONE 1,75 mm vous permet dimprimer sans problème de filaments ni de déformations avec des réglages optimaux. Température dextrusion/buse : 240 °C-280 °C, température du plateau chauffant : 75-80 °C, vitesse : 30-600 mm/s.
+- 【Précision dimensionnelle et homogénéité】 La mesure du diamètre par CCD avancée et le système de contrôle auto-adaptatif garantissent des filaments PETG de 1,75 mm de diamètre avec une précision dimensionnelle de 99 % à +/- 0,03 mm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D62WBHKR{{</world>}}

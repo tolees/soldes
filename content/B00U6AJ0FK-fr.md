@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - OPTIQUE ENTIÈREMENT MULTICOUCHE : chaque surface entre lair et le verre est traitée avec la technologie XLT Celestron. Ces traitements, associés aux prismes BaK-4, augmentent la transmission de la lumière, pour obtenir des images nettes et contrastées
 - GARANTIE ET ASSISTANCE CLIENT INCOMPARABLES : achetez en toute confiance auprès de la première marque mondiale de télescopes, basée en Californie depuis 1960. Vous bénéficierez également dune garantie de deux ans
-- PROTECTION ET PRISE EN MAIN : revêtement protecteur en caoutchouc pour une ergonomie améliorée et une prise en main ultra-ferme qui répond aux exigences particulières des séances dobservation prolongées sur le terrain
 - CONSTRUCTION ROBUSTE : étanches, antibuées et purgées à lazote dans un boîtier en polycarbonate pour une tranquillité desprit en cas dimprévus météorologiques
+- PROTECTION ET PRISE EN MAIN : revêtement protecteur en caoutchouc pour une ergonomie améliorée et une prise en main ultra-ferme qui répond aux exigences particulières des séances dobservation prolongées sur le terrain
 - GROSSISSEMENT AMÉLIORÉ 12 x : avec nos jumelles SkyMaster 20x80 à prisme de Porro, vous disposez de larges lentilles dobjectif de 80 mm offrant une luminosité dimage maximale. Idéales pour lobservation astronomique au crépuscule, à laube et la nuit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

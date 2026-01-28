@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mousse réactive FF Blast+ Eco sur toute la semelle intermédiaire
-- Un équilibre entre confort et réactivité qui permettra à tout coureur de profiter des entraînements et des courses de longue distance avec les meilleures garanties.
 - Chaussures de course
+- Un équilibre entre confort et réactivité qui permettra à tout coureur de profiter des entraînements et des courses de longue distance avec les meilleures garanties.
+- Mousse réactive FF Blast+ Eco sur toute la semelle intermédiaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D5GZ8X5M{{</world>}}

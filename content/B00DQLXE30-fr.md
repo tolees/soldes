@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nanoblock Pokemon Pikachu NBPM-001 Bandai'
-date: 2026-01-25 22:52:21
+date: 2026-01-27 09:54:44
 image: 'https://m.media-amazon.com/images/I/41qA3p+nbVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'nanoblock'
 buyurl: 'https://www.amazon.fr/dp/B00DQLXE30/?tag=tolees0d-21'
 descuento: '40.94'
-average: '9.89620689655181'
+average: '9.82548387096782'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Licence officielle
 - Comprend des instructions détaillées
-- Construisez votre propre pokemon pikachu
-- Age range description: enfant
-- Is assembly required: true
 - Collecter, créer et afficher votre pokemon
+- Licence officielle
+- Construisez votre propre pokemon pikachu
+- Is assembly required: true
+- Age range description: enfant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DQLXE30{{</world>}}

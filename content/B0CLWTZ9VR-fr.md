@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Caoutchouc de traction Omni-Grip non marquant
 - Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
 - Tissu Cordura. Construction Omni-Tech imperméable et respirante. Isolation de 200 g
-- Caoutchouc de traction Omni-Grip non marquant
 - Doublure réfléchissante Omni-Heat.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

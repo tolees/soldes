@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture éclair pleine longueur
 - Le tissu polaire est doux et chaud
 - Mens Fleece Full-Zip Soccer Hoodie
-- Fermeture éclair pleine longueur
 - Poches avant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

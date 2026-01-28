@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie de balle pour une manœuvre facile.
 - Pas de sacs à acheter et pas de perte d’aspiration.
 - Le système de filtration avancé sur l’ensemble de l’appareil capture 99,97 % des poussières fines aussi petites que 0,3 micron.¹
-- Technologie de balle pour une manœuvre facile.
 - Avec un filtre lavable permanent.
 - Aspiration puissante sur tous types de sols.
 

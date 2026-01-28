@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Conforme à RoHS
-- produit 1: Produits compatibles : PDW-850, PMW-100, PMW-150, PMW-320L
 - produit 1: Bande passante: 10 - 20.000 Hz
-- produit 2: Longueur 6 m
-- produit 1: Impédance: 63 Ohm
-- produit 2: câble de microphone standard
-- produit 1: Casque studio fermé
 - produit 2: câble noir
+- produit 1: Produits compatibles : PDW-850, PMW-100, PMW-150, PMW-320L
+- produit 2: câble de microphone standard
+- produit 2: Longueur 6 m
+- produit 2: Conforme à RoHS
+- produit 1: Impédance: 63 Ohm
+- produit 1: Casque studio fermé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09Y448WCD{{</world>}}

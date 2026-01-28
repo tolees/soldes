@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Type de fermeture : Lacet
 - Type de talon : Plat
 - Matériau unique :Caoutchouc
-- Matériau extérieur : Cuir
 - Matériau intérieur : Synthétique
+- Matériau extérieur : Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C178ZVSK{{</world>}}

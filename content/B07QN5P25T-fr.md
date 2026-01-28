@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En position serrée, elle apporte du volume aux cils et intensifie le regard
-- En position écartée, la brosse allonge et sépare les cils
 - Sa formule soin à la texture baume assure une couvrance parfaite et un volume incroyable pour tous les cils
+- En position écartée, la brosse allonge et sépare les cils
 - Enrichi en extraits d’orchidée noire pour une texture baume crémeuse
 - Mascara avec brosse transformable 2 en 1 qui allonge et apporte visiblement du volume aux cils
+- En position serrée, elle apporte du volume aux cils et intensifie le regard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QN5P25T{{</world>}}

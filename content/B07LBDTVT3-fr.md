@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prima loft black Eco 60g quilted Synthetic insolation Co offre thermal properties and water repellency - a great alternative to USING Down
-- Helly tech protection - fully waterproof, windproof and breathable
-- The Hood C pack into the collar for When i not raining
 - Total protection from the éléments whilst being confortable on the inside
+- Helly tech protection - fully waterproof, windproof and breathable
 - Multiple External chest and hand O
+- Prima loft black Eco 60g quilted Synthetic insolation Co offre thermal properties and water repellency - a great alternative to USING Down
+- The Hood C pack into the collar for When i not raining
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07LBDTVT3{{</world>}}

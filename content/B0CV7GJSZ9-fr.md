@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finition bord côte poignets
 - Capuche fixe avec cordon de serrage
-- 1 poche intérieure zippée et 1 poche intérieure pressionnée
-- Badge schott nyc manche gauche
 - Fermeture zippée double curseur à rabat pressionné
+- Finition bord côte poignets
+- Badge schott nyc manche gauche
+- 1 poche intérieure zippée et 1 poche intérieure pressionnée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV7GJSZ9{{</world>}}

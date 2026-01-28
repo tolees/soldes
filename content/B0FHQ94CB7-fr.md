@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contexte de l’histoire.
-- Créez votre style de combat unique.
-- Débloquez le Pouvoir Divin : Incarnez le Créateur « Saga » et découvrez des combats de style Musou.
 - Lancez-vous dans une aventure épique à travers un vaste monde fantastique ancien.
+- Créez votre style de combat unique.
 - Résolvez des énigmes et remportez des défis dans le Monde des Ruines.
+- Débloquez le Pouvoir Divin : Incarnez le Créateur « Saga » et découvrez des combats de style Musou.
+- Contexte de l’histoire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FHQ94CB7{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
-- Patio Cleaner avec raccord rapide, idéal pour nettoyer facilement les grandes surfaces horizontales et verticales
-- Dotée dune fonction auto-amorçante : si le raccordement au réseau deau est impossible, le nettoyeur haute pression peut aspirer leau dans un réservoir.
 - Nettoyeur haute pression idéal pour éliminer la saleté tenace sur les surfaces domestiques extérieures de taille moyenne, les grilles, les bancs, les meubles et outils de jardin, les voitures, les vélos, les motos, les escaliers et les piscines
-- Pression (bar) max. 125; Puissance absorbée (kW) 1, 6; Débit (L/h) max. 420; Température eau dalimentation (°C) max. 50
 - 8 accessoires à accrocher après emploi sur les supports intégrés à larrière du nettoyeur
+- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
+- Dotée dune fonction auto-amorçante : si le raccordement au réseau deau est impossible, le nettoyeur haute pression peut aspirer leau dans un réservoir.
+- Patio Cleaner avec raccord rapide, idéal pour nettoyer facilement les grandes surfaces horizontales et verticales
+- Pression (bar) max. 125; Puissance absorbée (kW) 1, 6; Débit (L/h) max. 420; Température eau dalimentation (°C) max. 50
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077TR3SVB{{</world>}}

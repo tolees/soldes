@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lassociation des 4 couleurs complémentaires habille le regard : effet perle lumineux pour donner de léclat aux yeux, couleurs intenses pour souligner le regard look total glam & regard envoûtant
-- Sans parfum
-- 16Hrs pour tenter, subjuguer, captiver offrez à votre regard un maquillage intense
 - A technologie unique ColorStay permet une tenue irréprochable jusquà 16 heures, sans sestomper ni migrer dans les plis de la paupière. Une couvrante impeccable du matin au soir . Sa texture enrichie en micro-pigments offre une poudre satinée ultra fine et une profusion de couleurs riches et éclatantes. Testée ophtalmo logiquement et sans parfum, sa formule convient aux yeux sensibles et aux porteurs de lentilles de contact
+- Lassociation des 4 couleurs complémentaires habille le regard : effet perle lumineux pour donner de léclat aux yeux, couleurs intenses pour souligner le regard look total glam & regard envoûtant
+- 16Hrs pour tenter, subjuguer, captiver offrez à votre regard un maquillage intense
+- Sans parfum
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B006OZEYR0{{</world>}}

@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de batterie de 53 Whr
-- Design ergonomique pour une expérience gaming optimale
 - Capteurs à effet Hall et joysticks ultra précis
-- Refroidissement Cooler Boost HyperFlow qui redirige le flux dair vers les composants internes
-- Console de jeux portable avec Processeur Intel Core Ultra 14th generation
-- Transferts fluides et connectique simplifiée avec le port Thunderbolt 4.
 - Touches Macro exclusives pour lancer votre « ult » à tout moment
 - Processeur Intel Core Ultra 5 135H / SSD 512GB - Wifi 7
-- MSI Center M avec interface dédiée et paramètres faciles à maîtriser
+- Capacité de batterie de 53 Whr
+- Transferts fluides et connectique simplifiée avec le port Thunderbolt 4.
+- Design ergonomique pour une expérience gaming optimale
 - Écran 7" Full HD (1920 x 1080), taux de rafraîchissement de 120 Hz, dalle tactile, reprocduction de 100 % du profil sRGB (typique), luminosité de 500 nits (typique) et dalle de niveau IPS
+- Refroidissement Cooler Boost HyperFlow qui redirige le flux dair vers les composants internes
+- MSI Center M avec interface dédiée et paramètres faciles à maîtriser
+- Console de jeux portable avec Processeur Intel Core Ultra 14th generation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTKTM3ML{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet article n est plus en solde !
-- La formule modulable épaissit les cils sans les durcir
-- Mascara volumisant et recourbant, jusqu’à 16 heures de tenue
-- La brosse recourbante maximise le volume dès le premier passage
 - Pour des cils magnifiquement recourbés et épaissis, sans aucun paquet
+- Mascara volumisant et recourbant, jusqu’à 16 heures de tenue
+- La formule modulable épaissit les cils sans les durcir
+- La brosse recourbante maximise le volume dès le premier passage
+- Cet article n est plus en solde !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00O32U4YI{{</world>}}

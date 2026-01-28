@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : bleu marine
-- Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
 - Coutures à 360° pour plus de durabilité
+- Semelle extérieure/caractéristiques : caoutchouc pour une bonne adhérence
+- Couleur : bleu marine
 - Lacets élastiques et système de fermeture par sangle pour un ajustement facile
 - Dessus : cuir (cuir de veau)
 

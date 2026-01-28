@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant à leau: 5 bar -Poids: 120 g
-- TSUYOSA dans une nouvelle taille Tsuyosa signifie "force" en japonais, et le modèle Tsuyosa de Citizen a été fidèle à son nom depuis ses débuts en 2022. Cette montre analogique dispose dune fonction calendrier : date et est équipée daiguilles lumineuses et de chiffres lumineux.
 - Diamètre du boîtier: 37 mm, Épaisseur du boîtier: 12 mm, Couleur du boîtier: Argent et Couleur du cadran: Bleu
 - La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
 - Bracelet de Haute qualité en Acier inoxydable Argent ,19 cm de longueur et 19 mm de largeur avec une Boucle déployante avec poussoir
+- Résistant à leau: 5 bar -Poids: 120 g
+- TSUYOSA dans une nouvelle taille Tsuyosa signifie "force" en japonais, et le modèle Tsuyosa de Citizen a été fidèle à son nom depuis ses débuts en 2022. Cette montre analogique dispose dune fonction calendrier : date et est équipée daiguilles lumineuses et de chiffres lumineux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DYP4XLJN{{</world>}}

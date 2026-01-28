@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure amovible
 - Enfilage facile et rapide
+- Semelle intérieure amovible
 - Fermeture à un scratch et lacets élastiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

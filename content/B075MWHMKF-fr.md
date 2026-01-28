@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Crâne présentant les caractéristiques suivantes:
 - Crânes, Gothic, Horreur, Steampunk
-- Mesures: Taille standard
 - Découvrez toutes les meilleures marques chez EMP!
 - Crâne décoratif || Marchandises fun et de fans || Motif: Uni
+- Mesures: Taille standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B075MWHMKF{{</world>}}

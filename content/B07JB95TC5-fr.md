@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec Bosch, bénéficiez de la disponibilité des pièces détachées pendant 11 ans après la fabrication de votre appareil de Gros Electroménager
-- Installation possible en évacuation : Une hotte à évacuation d’air va aspirer l’air de votre cuisine ; Les graisses sont recueillies par le filtre métallique ; L’air, y compris les odeurs, est rejeté directement dehors, grâce à un conduit d’évacuation traversant votre mur ; Ce type dinstallation vous assure une qualité dair optimale dans votre cuisine
 - Très silencieuse, le volume sonore de votre hotte est réduit au minimum possible (38/56 dB) ; Parfaite pour les cuisines ouvertes, notre hotte DHL555BL est très silencieuse ; Vous oublierez même quelle fonctionne
+- Installation possible en évacuation : Une hotte à évacuation d’air va aspirer l’air de votre cuisine ; Les graisses sont recueillies par le filtre métallique ; L’air, y compris les odeurs, est rejeté directement dehors, grâce à un conduit d’évacuation traversant votre mur ; Ce type dinstallation vous assure une qualité dair optimale dans votre cuisine
 - Filtration des graisses grâce à ses deux filtres métalliques lavables au lave vaisselle, la hotte DHL555BL aspire plus de 85% de la graisse présente dans lair
+- Avec Bosch, bénéficiez de la disponibilité des pièces détachées pendant 11 ans après la fabrication de votre appareil de Gros Electroménager
 - 4 vitesses dont 1 position intensive : Idéale lors dun grand dégagement de vapeurs et de fumées, la position intensive de ce groupe filtrant permet de doubler la puissance d’aspiration de la hotte avec un retour à la vitesse initiale, automatiquement au bout de 6 à 10 minutes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

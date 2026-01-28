@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PLUS DE 40 SONS ET PHRASES : Ce coffret Marvel émet plus de 40 sons et phrases électroniques du dessin animé Iron Man and his Awesome Friends sur Disney Jr. (parle en anglais seulement)
-- INCLUT 5 ACCESSOIRES : Le coffret QG dIron Man inclut 2 figurines articulées et des accessoires inspirés des personnages, dont la lance dUltron, 2 pièces darmure dIron Man et les haltères de Hulk
+- PRÊT POUR LACTION : On peut placer la figurine Iron Man de 7,5 cm incluse dans lascenseur, puis faire monter la plateforme pour quil soit automatiquement équipé de son casque et de ses ailes, tout en activant des sons et des lumières
 - HULK FRACASSE TOUT : On peut faire basculer lécran vert au deuxième niveau du coffret Marvel pour briser le mur de la salle de gym en-dessous et propulser les haltères inclus dans les airs
 - COFFRET 2-EN-1 AVEC MASQUE DE DÉGUISEMENT : Les enfants, à partir de 3 ans, peuvent simaginer en armure dIron Man avec le coffret QG dIron Man, qui inclut un masque amovible qui peut servir de déguisement pour enfants, un super ajout à tout costume dIron Man
-- PRÊT POUR LACTION : On peut placer la figurine Iron Man de 7,5 cm incluse dans lascenseur, puis faire monter la plateforme pour quil soit automatiquement équipé de son casque et de ses ailes, tout en activant des sons et des lumières
+- PLUS DE 40 SONS ET PHRASES : Ce coffret Marvel émet plus de 40 sons et phrases électroniques du dessin animé Iron Man and his Awesome Friends sur Disney Jr. (parle en anglais seulement)
+- INCLUT 5 ACCESSOIRES : Le coffret QG dIron Man inclut 2 figurines articulées et des accessoires inspirés des personnages, dont la lance dUltron, 2 pièces darmure dIron Man et les haltères de Hulk
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNMSFH7M{{</world>}}

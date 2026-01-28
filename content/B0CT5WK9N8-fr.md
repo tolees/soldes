@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À capuche
 - Orné d’un patch logo tissé ton sur ton sur la poitrine
+- À capuche
 - Manche longue
 - Confectionné en molleton très doux
 

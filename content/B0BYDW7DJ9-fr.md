@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDEE CADEAU : Dixit est un jeu idéal pour jouer en famille, entre amis et avec des enfants à partir de 8 ans.
-- DIXIT, EDITION DISNEY : Depuis 2008, Dixit est devenu un classique du jeu de société moderne. Ce jeu unique, couronné de nombreux prix (comme le Spiel des Jahres, l’équivalent des oscars du jeu de société), s’offre aujourd’hui une édition Disney. Les 84 cartes illustrées par Natalie Dombois font référence, chacune d’entre elles, aux célèbres films et personnages de Disney et Pixar : de Mickey à la Reine des Neiges en passant par le Roi Lion. Elle sont aussi compatibles avec tout l’univers Dixit (Dixit, Dixit Odyssey, Stella…). Le jeu nous fait vivre à la fois la poésie de Dixit et la magie de Disney.
-- JEU DE CARTES ONIRIQUE : Dixit est un jeu dinterprétation dimages qui vous invite à vous laisser porter par votre imagination en interprétant les 84 illustrations énigmatiques.
 - COMPATIBLE AVEC DIXIT CLASSIQUE ET ODYSSEY : Cette version du jeu de société Dixit est un jeu indépendant et compatible avec les autres jeux Dixit.
+- DIXIT, EDITION DISNEY : Depuis 2008, Dixit est devenu un classique du jeu de société moderne. Ce jeu unique, couronné de nombreux prix (comme le Spiel des Jahres, l’équivalent des oscars du jeu de société), s’offre aujourd’hui une édition Disney. Les 84 cartes illustrées par Natalie Dombois font référence, chacune d’entre elles, aux célèbres films et personnages de Disney et Pixar : de Mickey à la Reine des Neiges en passant par le Roi Lion. Elle sont aussi compatibles avec tout l’univers Dixit (Dixit, Dixit Odyssey, Stella…). Le jeu nous fait vivre à la fois la poésie de Dixit et la magie de Disney.
 - MARIAGE EXTRAORDINAIRE ENTRE DISNEY ET DIXIT : Découvrez une nouvelle édition avec 84 illustrations oniriques inspirées par les dessins animés et films d’animation de Disney et Pixar !
+- JEU DE CARTES ONIRIQUE : Dixit est un jeu dinterprétation dimages qui vous invite à vous laisser porter par votre imagination en interprétant les 84 illustrations énigmatiques.
+- IDEE CADEAU : Dixit est un jeu idéal pour jouer en famille, entre amis et avec des enfants à partir de 8 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYDW7DJ9{{</world>}}

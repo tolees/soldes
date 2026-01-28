@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offre une grande liberté de mouvement
-- Avec logo
 - Idéal pour donner une touche décontractée
+- Avec logo
+- Offre une grande liberté de mouvement
 - Garantit un confort optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

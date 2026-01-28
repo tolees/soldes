@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : pas de talon
-- Matériau extérieur : cuir
 - Largeur de la chaussure : moyenne
+- Matériau extérieur : cuir
 - Niveau de résistance à leau : non étanche
+- Forme du talon : pas de talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM51QC1S{{</world>}}

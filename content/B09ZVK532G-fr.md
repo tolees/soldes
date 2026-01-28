@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 12.949999986791 pouces
-- Respirantes
 - Cuir : daim
 - Fermeture : éthylène-acétate de vinyle
+- Respirantes
+- 12.949999986791 pouces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZVK532G{{</world>}}

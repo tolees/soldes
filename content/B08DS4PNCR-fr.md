@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches détachables, Dos allongé, Poche arrière 3 compartiments, Col montant
-- Veste polyvalente 2 en 1 pour hommes, Idéal pour toutes les conditions météorologiques
 - Une coupe slim pour une silhouette sportive et une excellente mobilité / coupe spécifique au vélo
+- Veste polyvalente 2 en 1 pour hommes, Idéal pour toutes les conditions météorologiques
+- Manches détachables, Dos allongé, Poche arrière 3 compartiments, Col montant
 - GORE-TEX INFINIUM avec la technologie WINDSTOPPER : coupe-vent et extrêmement respirant
 - GORE PHANTOM GORE-TEX INFINIUM Veste, Taille: XL, Couleur: Gris Clair/Noir, 100645
 

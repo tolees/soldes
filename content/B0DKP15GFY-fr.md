@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEEETECH Filament PETG 1 75 mm Filament PETG pour imprimante 3D récision dimensionnelle +/- 0 02 mm Bobine de 1 kg transparent'
-date: 2026-01-26 05:23:27
+date: 2026-01-27 16:24:54
 image: 'https://m.media-amazon.com/images/I/41Ozly0GTdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'GEEETECH'
 buyurl: 'https://www.amazon.fr/dp/B0DKP15GFY/?tag=tolees0d-21'
 descuento: '25.66'
-average: '17.6216666666667'
+average: '17.5457142857144'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

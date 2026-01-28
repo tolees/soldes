@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Construction cousue
-- Bordure anti-pierres en caoutchouc
 - Chausson intérieur avec isolation en aluminium
 - Isolation thermique Aluminia
 - Entièrement imperméable grâce à une membrane PU avec coutures collées
+- Bordure anti-pierres en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08296DCDS{{</world>}}

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BATAILLE DES MERVEILLES DU MONDE - Testez vos talents tactiques dans un combat entre les merveilles du monde. Développez votre ville et votre armée, accumulez des richesses et construisez une merveille du monde pour léternité afin de triompher.
-- JEU DE STRATÉGIE - Dans ce jeu de stratégie compétitif, vous accumulez des points de victoire en développant votre ville, votre armée, vos réserves dargent et votre merveille du monde. Choisissez vos cartes avec astuce.
-- DÉTAILS - 3 à 7 joueurs, à partir de 10 ans, durée dune partie : 30 minutes, auteur : Antoine Bauza, jeu en français
-- 7 WONDERS LEADERS - Le jeu de société 7 Wonders Leaders enrichit le jeu de base avec des leaders. Placez des personnages célèbres tels que Jules César ou Cléopâtre à la tête de votre civilisation.
 - EXTENSION - Pour jouer à cette extension, vous devez disposer du jeu de base 7 Wonders (édition 2020). La durée dune partie est denviron 30 minutes.
+- 7 WONDERS LEADERS - Le jeu de société 7 Wonders Leaders enrichit le jeu de base avec des leaders. Placez des personnages célèbres tels que Jules César ou Cléopâtre à la tête de votre civilisation.
+- DÉTAILS - 3 à 7 joueurs, à partir de 10 ans, durée dune partie : 30 minutes, auteur : Antoine Bauza, jeu en français
+- JEU DE STRATÉGIE - Dans ce jeu de stratégie compétitif, vous accumulez des points de victoire en développant votre ville, votre armée, vos réserves dargent et votre merveille du monde. Choisissez vos cartes avec astuce.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XZLK34L{{</world>}}

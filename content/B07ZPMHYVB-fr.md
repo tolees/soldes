@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un pare-soleil de 35,6 x 71,1 cm s’étire pour sadapter aux grandes fenêtres.
-- La fenêtre senroule vers le bas avec lombre.
 - 5 aimants se fixent facilement sur le cadre métallique de la voiture - Vérifiez la compatibilité avec un aimant domestique à lintérieur du cadre de la portière de la voiture le long de la fenêtre. Remarque : ne convient pas aux voitures fabriquées à partir de matériaux non magnétiques.
+- La fenêtre senroule vers le bas avec lombre.
+- Un pare-soleil de 35,6 x 71,1 cm s’étire pour sadapter aux grandes fenêtres.
 - Crochets sécurisés pour sadapter à différentes formes de fenêtres.
 - Aide à bloquer les rayons UVA/UVB nocifs et la maille Safe-View bloque léblouissement, pas de vue.
 

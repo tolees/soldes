@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Partie supérieure en cuir imperméable
 - Caoutchouc de traction non marquant Omni-Grip
 - Semelle intermédiaire légère Techlite pour un confort durable
+- Partie supérieure en cuir imperméable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLWLB419{{</world>}}

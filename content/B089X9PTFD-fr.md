@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
+- Jeu PS5 daction : incarnez Miles Morales pour devenir votre propre version de Spider-Man et faites honneur à votre mentor Peter Parker
 - Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : ressentez chaque coup que vous portez ou chaque toile et décharge électrique que vous lancez
 - Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail jusquaux reflets sur les bâtiments
-- Jeu PS5 daction : incarnez Miles Morales pour devenir votre propre version de Spider-Man et faites honneur à votre mentor Peter Parker
+- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
 - Contenu de la livraison : 1 x Jeu Marvels Spider-Man : Miles Morales sur PS5 , Édition Standard, Version physique avec CD, Langue : Français, 1 joueur, PEGI 16
 
 [🛒 Achète-le!!]({{< param buyurl >}})

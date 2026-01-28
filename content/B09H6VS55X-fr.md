@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond
 - Des designs épurés
+- Col rond
 - Des coupes maîtrisées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

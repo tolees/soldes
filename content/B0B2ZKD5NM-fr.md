@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- architecture
 - paysage
+- architecture
 - reportage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

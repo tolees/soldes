@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Châssis en métal époxy anticorrosion robuste pour un usage pérenne en toute sécurité
-- Lit pour chiens chats idéal pour une utilisation intérieure ou extérieure (terrasse, jardin)
 - Lit sur pieds surélevé idéal pour tenir votre chien à l’écart de l’humidité éventuelle du sol et des insectes : confort optimal de repos pour votre animal
 - Contour en tissu oxford avec revêtement PVC, durable et facile à nettoyer
+- Lit pour chiens chats idéal pour une utilisation intérieure ou extérieure (terrasse, jardin)
 - Matière centrale de dernière génération en textilène micro-perforé pour une excellente ventilation et le bien-être de votre animal même par forte chaleur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

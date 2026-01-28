@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Conception flexible
-- Robustesse
 - Longue durée de vie
+- Robustesse
 - Qualité/durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

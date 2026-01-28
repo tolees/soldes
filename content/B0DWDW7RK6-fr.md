@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maquette collector LEGO Harry Potter – Ce jouet d’aventures fantastiques fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer le château de Poudlard en briques le plus détaillé à ce jour
-- 3 minifigurines LEGO Harry Potter – Le set LEGO inclut Neville Londubat, Hermione Granger et le Professeur Chourave, ainsi que 2 cache-oreilles et une figurine de Trevor le crapaud
-- Instructions intuitives – L’application LEGO Builder guide les enfants et leur permet de zoomer, faire pivoter les maquettes en 3D, sauvegarder leurs sets LEGO Harry Potter et suivre leur progression
-- Cadeau d’anniversaire pour jeunes sorciers à partir de 8 ans – Ce jouet LEGO Harry Potter, recréant une salle de classe, est un cadeau amusant à offrir à une fille ou un garçon, fan de la saga, pour un anniversaire ou toute autre occasion spéciale
 - 3 plantes de Mandragores LEGO Harry Potter – Les plantes et les pots ont été spécialement conçus pour ce jeu de construction et les minifigurines peuvent tenir les Mandragores par leur tige
-- Jeu de construction pour fille ou garçon dès 8 ans avec salle de cours/serre – Les jeunes sorciers, sorcières et moldus se glissent dans la peau d’élèves apprenant à cultiver des plantes magiques pendant un cours de botanique au château de Poudlard
 - Set de jeu Poudlard – La serre à construire s’ouvre pour faciliter le jeu créatif et inclut 2 tables à déplacer couvertes de plantes magiques, un arbre qui passe à travers une fenêtre « cassée » et des outils de jardinage
+- Jeu de construction pour fille ou garçon dès 8 ans avec salle de cours/serre – Les jeunes sorciers, sorcières et moldus se glissent dans la peau d’élèves apprenant à cultiver des plantes magiques pendant un cours de botanique au château de Poudlard
+- Instructions intuitives – L’application LEGO Builder guide les enfants et leur permet de zoomer, faire pivoter les maquettes en 3D, sauvegarder leurs sets LEGO Harry Potter et suivre leur progression
+- 3 minifigurines LEGO Harry Potter – Le set LEGO inclut Neville Londubat, Hermione Granger et le Professeur Chourave, ainsi que 2 cache-oreilles et une figurine de Trevor le crapaud
+- Cadeau d’anniversaire pour jeunes sorciers à partir de 8 ans – Ce jouet LEGO Harry Potter, recréant une salle de classe, est un cadeau amusant à offrir à une fille ou un garçon, fan de la saga, pour un anniversaire ou toute autre occasion spéciale
+- Maquette collector LEGO Harry Potter – Ce jouet d’aventures fantastiques fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer le château de Poudlard en briques le plus détaillé à ce jour
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDW7RK6{{</world>}}

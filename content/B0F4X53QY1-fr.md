@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Wide Compatibility】GratKit PETG Filament has an excellent bed adhesion, similar to regular PLA; Compatible with most high speed FDM 3D printers on the market, such as Ender 3, Bambu Lab,QIDI MAX3, Prusa MK4, Creality K1 MAX and more;
-- 【Dust Free Storage】 GratKit PETG filament comes with a zipper bag for filament storage after unpacking, to keep the filament away from dust; It is also recommended to zip remaining filament together with desiccant bag in the zipper bag.
-- 【Recommended Setting】 Printing Temp:220-260 ℃，Bed Temp: 60-80 ℃；Easy to print with, and it can either be printed on high speed 3d printer or non-high speed machine; As there are various printers on market, better print a temp tower before you print;
 - 【Vibrant Color and Natural Color transition】GratKit Color Change PETG Series has Multiple color Choices and colors are very vibrant, showing natural Color change transition on Prints;
 - 【Color Changing Effect】GratKit Gradient PETG Filament has 2 or 3 changing colors for each filament,showing beautiful color change effect on prints;
+- 【Recommended Setting】 Printing Temp:220-260 ℃，Bed Temp: 60-80 ℃；Easy to print with, and it can either be printed on high speed 3d printer or non-high speed machine; As there are various printers on market, better print a temp tower before you print;
+- 【Wide Compatibility】GratKit PETG Filament has an excellent bed adhesion, similar to regular PLA; Compatible with most high speed FDM 3D printers on the market, such as Ender 3, Bambu Lab,QIDI MAX3, Prusa MK4, Creality K1 MAX and more;
+- 【Dust Free Storage】 GratKit PETG filament comes with a zipper bag for filament storage after unpacking, to keep the filament away from dust; It is also recommended to zip remaining filament together with desiccant bag in the zipper bag.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4X53QY1{{</world>}}

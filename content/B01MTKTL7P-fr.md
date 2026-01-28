@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tête de lampe réglable
+- Longue durée de vie de 15 000 heures (ce qui équivaut à environ 15 ans) ; 80% dénergie employiez ersparniss Spot Leuchten
+- Aiguille Ampoule (culot GU10)
+- Aiguille Ampoule (culot GU10)
+- Tête de lampe réglable
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique f
 - Puissant, lumière LED blanche, à la fois clair
 - Puissant, lumière LED blanche, à la fois clair
-- Tête de lampe réglable
-- Tête de lampe réglable
-- Aiguille Ampoule (culot GU10)
-- Longue durée de vie de 15 000 heures (ce qui équivaut à environ 15 ans) ; 80% dénergie employiez ersparniss Spot Leuchten
-- Aiguille Ampoule (culot GU10)
 - Longue durée de vie de 15 000 heures (ce qui équivaut à environ 15 ans) ; 80% dénergie employiez ersparniss Spot Leuchten
 
 [🛒 Achète-le!!]({{< param buyurl >}})

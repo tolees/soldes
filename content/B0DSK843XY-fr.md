@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CUISINEZ AVEC PEU OU PAS D’HUILE : Le mode Air Fry (Frire sans huile) fait circuler l’air chaud pour cuire de bons plats. Jusqu’à 75 % de matières grasses en moins (testé sur la cuisson de frites).
-- GRANDE CAPACITÉ (vs Ninja AF160). Tiroir de 6,2 L, jusqu’à 4 blancs de poulet. Pour 1 à 4 personnes. 50 % plus rapide qu’un four à chaleur tournante* (* Testé sur bâtonnets de poisson et saucisses).
 - INCLUS : Plaque de cuisson adaptable et panier de 6,2 L, antiadhésifs et lavables au lave-vaisselle. Livret de recettes élaborées par un chef. Couleur : Blanc
 - DIMENSIONS : H : 30,5 cm x L : 28 cm x P : 36 cm.
 - 6 MODES DE CUISSON : Max Crisp, Air Fry, Roast, Bake, Reheat et Dehydrate. Préparez rapidement des aliments surgelés avec Max Crisp et une température de 240 °C. Plaque de cuisson adaptable.
+- GRANDE CAPACITÉ (vs Ninja AF160). Tiroir de 6,2 L, jusqu’à 4 blancs de poulet. Pour 1 à 4 personnes. 50 % plus rapide qu’un four à chaleur tournante* (* Testé sur bâtonnets de poisson et saucisses).
+- CUISINEZ AVEC PEU OU PAS D’HUILE : Le mode Air Fry (Frire sans huile) fait circuler l’air chaud pour cuire de bons plats. Jusqu’à 75 % de matières grasses en moins (testé sur la cuisson de frites).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSK843XY{{</world>}}

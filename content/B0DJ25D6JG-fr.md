@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 【ABS Material】 : le modèle de jouet de voiture de sport à pinces contient 388 pièces, le tout emballé dans des paquets séparés en plastique abs. Après des tests rigoureux, il peut être utilisé en toute confiance. Après lassemblage, la taille de la voiture de course est de 7,6*15,6*4,8 cm.
 - 【Cadeau parfait】 : les briques à pincer Drift auto cultivent les compétences de pensée pratique et logique des enfants, améliorent leurs capacités de résolution de problèmes et leur confiance en eux, et maximisent leur créativité, leurs compétences de bricolage et leur imagination. Cest le cadeau parfait pour les enfants de huit ans et plus.
 - 【Modèle de véhicule classique】 : cet ensemble de briques de voiture est basé sur un vrai véhicule, avec des lignes de carrosserie lisses et un volant rotatif. Équipé de pneus, dautocollants en fibre de carbone simulés et de vitrines. La voiture de sport en kit est également livrée avec un manuel dutilisation riche en graphiques et en texte, et même les débutants peuvent terminer lassemblage.
-- 【ABS Material】 : le modèle de jouet de voiture de sport à pinces contient 388 pièces, le tout emballé dans des paquets séparés en plastique abs. Après des tests rigoureux, il peut être utilisé en toute confiance. Après lassemblage, la taille de la voiture de course est de 7,6*15,6*4,8 cm.
 - 【Bon service】 : les pièces montées sont compatibles avec les composants courants sur le marché et peuvent également être combinées et montées avec dautres produits de marque. Si vous rencontrez un quelconque problème pendant lutilisation, veuillez nous contacter et nous vous fournirons un excellent service.
 - 【Boîte daffichage exquise】 : le jouet de construction de voiture de sport est spécialement équipé dune vitrine acrylique transparente qui est étanche à la poussière et permet une vue claire de la voiture de course à briques. Il peut être affiché et collectionné dans leur lieu de prédilection.
 

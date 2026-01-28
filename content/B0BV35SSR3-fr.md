@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Astuce beauté : il suffit d’en mettre une petite noisette sur le bout de votre doigt (ou sur un pinceau au choix), puis de l’appliquer sur la peau en l’étirant de l’intérieur vers l’extérieur sur l’ensemble de votre visage et de votre cou
-- Complexe Ginseng Blanc : utilisé dans nos BB crèmes, ce complexe unique alliant le ginseng blanc à la réglisse, à l’igname sauvage, à la prèle et au kigelia offre une action lissante, hydratante et protectrice sur la peau. Pigments 100% minéraux
-- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
-- Liconique effet "peau de bébé" instantané : la crème teintée sublime votre peau grâce à son action mi-teint mi-soin. Sa couvrance modulable et sa texture légère permettent de parfaire et dunifier le teint, sans effet de matière. Formule vegan
 - Actions : la BB Crème se fond sur votre peau pour unifier et parfaire le teint, camoufler les petites imperfections, affiner le grain de peau, hydrater (peau plus rebondie) et donner un fini velouté et non gras. Avec protection solaire UV SPF 30
+- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
+- Complexe Ginseng Blanc : utilisé dans nos BB crèmes, ce complexe unique alliant le ginseng blanc à la réglisse, à l’igname sauvage, à la prèle et au kigelia offre une action lissante, hydratante et protectrice sur la peau. Pigments 100% minéraux
+- Liconique effet "peau de bébé" instantané : la crème teintée sublime votre peau grâce à son action mi-teint mi-soin. Sa couvrance modulable et sa texture légère permettent de parfaire et dunifier le teint, sans effet de matière. Formule vegan
+- Astuce beauté : il suffit d’en mettre une petite noisette sur le bout de votre doigt (ou sur un pinceau au choix), puis de l’appliquer sur la peau en l’étirant de l’intérieur vers l’extérieur sur l’ensemble de votre visage et de votre cou
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV35SSR3{{</world>}}

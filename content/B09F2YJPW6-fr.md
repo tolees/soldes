@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ortholite smelle interne pour amorti et respirabilité
 - Fermeture à glissière pour un ajustement facile
+- Ortholite smelle interne pour amorti et respirabilité
 - Certifiées par le Leather Working Group
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

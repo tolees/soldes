@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RAPIDE ET TACTIQUE, IDÉAL ENTRE AMIS : Le format court et dynamique permet de prendre du plaisir en moins de 30 minutes et permet dy (re)jouer souvent. Le jeu offre une grande rejouabilité grâce aux 78 cartes uniques 👨‍🌾🫅🧙
-- À DEUX OU EN GROUPE : 👨‍👩‍👦‍👦2 à 5 joueurs🎂 10 ans et plus ⏱25 minutes de jeu environ. UN CONTENU RICHE: 78 cartes illustrés, 96 jetons,1 pion Messager en bois, 1 fiche aide de jeu, 1 carnet de score, 1 livret de règles
-- 🎯 VOTRE OBJECTIF : Construisez un tableau gagnant en recrutant la meilleure combinaison de 9 cartes personnages. Pour ce faire, gérez bien votre or, vos clés et le placement de vos cartes, tout en utilisant au mieux les effets de vos recrues !
-- 🤓 UN JEU DE CARTES SIMPLE MAIS MALIN : les règles sont courtes et simples. C’est un jeu parfait pour sinitier aux jeux de combo et d’optimisation : les cartes crées des combinaisons entre elles pour marquer plus de points.
 - 🏰CRÉER LES MEILLEURS COMBINAISONS DE CARTES : Oyez, oyez, gueux et baronnettes, bas de poil et coquefredouilles ! Notre bon roi me presse de déclarer ouverte la grande… FÊTE AU COMBO !!!
+- À DEUX OU EN GROUPE : 👨‍👩‍👦‍👦2 à 5 joueurs🎂 10 ans et plus ⏱25 minutes de jeu environ. UN CONTENU RICHE: 78 cartes illustrés, 96 jetons,1 pion Messager en bois, 1 fiche aide de jeu, 1 carnet de score, 1 livret de règles
+- 🤓 UN JEU DE CARTES SIMPLE MAIS MALIN : les règles sont courtes et simples. C’est un jeu parfait pour sinitier aux jeux de combo et d’optimisation : les cartes crées des combinaisons entre elles pour marquer plus de points.
+- 🎯 VOTRE OBJECTIF : Construisez un tableau gagnant en recrutant la meilleure combinaison de 9 cartes personnages. Pour ce faire, gérez bien votre or, vos clés et le placement de vos cartes, tout en utilisant au mieux les effets de vos recrues !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NS3MMGN{{</world>}}

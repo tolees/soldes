@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : OrthoLite pour plus damorti et de respirabilité
 - Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
-- Couleur : noir
-- Doublure :
 - Tige : Cuir de vachette
+- Semelle intérieure : OrthoLite pour plus damorti et de respirabilité
+- Doublure :
+- Couleur : noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07NLDV2XR{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Se porte sous la taille
-- Jambes étroites
 - Coupe ajustée au niveau des cuisses
+- Jambes étroites
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CBM4GWF6{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame interchangeable Kraftform Kompakt VDE pour vis PlusMinus à fente/Phillips
 - Isolée, testée unitairement conformément à la norme IEC 60900
-- Lame à diamètre réduit et isolation protectrice intégrée
+- Lame interchangeable Kraftform Kompakt VDE pour vis PlusMinus à fente/Phillips
 - Emmanchement hexagonal 9 mm, avec chanfrein dentrée
+- Lame à diamètre réduit et isolation protectrice intégrée
 - Lempreinte Black Point optimise la précision et la protection anticorrosion
 
 [🛒 Achète-le!!]({{< param buyurl >}})

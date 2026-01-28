@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- STYLE INDUSTRIEL : une machine compacte et intuitive pourvue dun revêtement latéral en métal
-- 2 LONGUEURS DE TASSE : choisissez entre un espresso et un lungo
-- MODE ECONOMIE DENERGIE: la machine séteint automatiquement après 2 min dinutilisation
 - PETITE MAIS PUISSANTE : Pixie concentre une large palette de fonctionnalités au coeur dune machine étonnamment compacte et design
-- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- STYLE INDUSTRIEL : une machine compacte et intuitive pourvue dun revêtement latéral en métal
 - RECYCLAGE: toutes les capsules Nespresso sont recyclables. Toutes les capsules en aluminium collectées par Nespresso sont recyclées
+- 2 LONGUEURS DE TASSE : choisissez entre un espresso et un lungo
+- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- MODE ECONOMIE DENERGIE: la machine séteint automatiquement après 2 min dinutilisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLRQXFS7{{</world>}}

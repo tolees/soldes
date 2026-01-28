@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interrupteurs mécaniques HyperX
+- Personnalisation avancée à laide du logiciel HyperX NGenuity
 - Effets lumineux RGB remarquable avec effets dynamiques
 - Corps entier en aluminium destiné à laviation
-- Personnalisation avancée à laide du logiciel HyperX NGenuity
+- Interrupteurs mécaniques HyperX
 - Conception compacte et portable avec cble USB Type-C amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fermeture : fermeture éclair
 - Forme du talon : plat
-- Semelle : caoutchouc
-- Matériau extérieur : synthétique
 - Matériau intérieur : synthétique
+- Matériau extérieur : synthétique
+- Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN6JD527{{</world>}}

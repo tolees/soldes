@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
 - Largeur de chaussure: Medium
+- Matériau extérieur : synthétique
 - Matériau intérieur : synthétique
 - Fermoir : caoutchouc
 

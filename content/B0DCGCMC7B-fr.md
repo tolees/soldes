@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SAUVEZ UN MONDE RAVAGÉ : Entrez dans Thédas, une terre rude et sauvage aux labyrinthes inextricables et de villes étincelantes; Le destin de ce monde ne tient quà un fil, tandis que les dieux corrompus sèment le chaos sur tout le continent
-- Ce jeu vidéo est un JDR (jeu de rôle) solo immersif dans lequel vous deviendrez une icône inspirant le respect; Unissez la Garde du Voile et défiez les dieux dans Dragon Age: The Veilguard
 - INSPIREZ VOTRE ÉQUIPE ET MENEZ-LA AU COMBAT : Choisissez entre différentes races et classes de combat, personnalisez votre apparence, déterminez l’histoire de votre personnage et incarnez Rook pour ajouter une nouvelle page à lépopée Dragon Age
+- SAUVEZ UN MONDE RAVAGÉ : Entrez dans Thédas, une terre rude et sauvage aux labyrinthes inextricables et de villes étincelantes; Le destin de ce monde ne tient quà un fil, tandis que les dieux corrompus sèment le chaos sur tout le continent
 - ADOPTEZ VOTRE PROPRE STYLE DE JEU : Pendant votre aventure, vous obtiendrez de nouvelles capacités et découvrirez de puissants artefacts uniques pour améliorer votre style de combat; Préparez-vous
+- Ce jeu vidéo est un JDR (jeu de rôle) solo immersif dans lequel vous deviendrez une icône inspirant le respect; Unissez la Garde du Voile et défiez les dieux dans Dragon Age: The Veilguard
 - Unissez la GARDE DU VOILE : Unissez une équipe de sept compagnons chacun ayant sa propre histoire et un riche passé; Parmi eux un assassin, un nécromancien et une détective apporteront chacun leur propre expertise et leurs capacités uniques au combat
 
 [🛒 Achète-le!!]({{< param buyurl >}})

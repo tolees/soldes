@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 71266 Astérix : Hutte d Ordralfabetix Le poissonnier Ordralfabétix et sa Femme Iélosubmarine Jouets pour Enfants à partir de 5 Ans'
-date: 2026-01-23 09:53:22
+date: 2026-01-27 02:48:34
 image: 'https://m.media-amazon.com/images/I/51tpvAJ2MjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B0BKQL6TK2/?tag=tolees0d-21'
 descuento: '35.51'
-average: '43.644054054054'
+average: '43.621282051282'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ordralfabétix est un agréable compagnon, sauf si quelquun remet en question la fraîcheur de son poisson. En cas de désaccord, il a toujours un poisson sous la main pour se défendre.
+- Pour une utilisation quotidienne : qualité supérieure et design robuste, nettoyage facile des pièces (sans autocollants) sous leau courante sans produits chimiques
+- Contenu du coffret : Ensemble de 73 pièces de jeu avec instructions : 2 personnages, 23 animaux, 48 accessoires, matériau : plastique, LxPxH 41 x 24,5 x 19 cm, poids : 799 g, 71266
 - Set de jeu pour enfants à partir de 5 ans : idéal pour les petites mains grâce à une taille adaptée à leur âge et une prise en main facile
 - Ordralfabétix est blond, de forte corpulence et porte une moustache bien marquée. Sa hutte est équipée de deux lits ainsi que dun foyer, dune table et de tabourets en bois. Des poissons et des fruits de mer sont mis en vente dans plusieurs paniers.
-- Ordralfabétix est un agréable compagnon, sauf si quelquun remet en question la fraîcheur de son poisson. En cas de désaccord, il a toujours un poisson sous la main pour se défendre.
-- Contenu du coffret : Ensemble de 73 pièces de jeu avec instructions : 2 personnages, 23 animaux, 48 accessoires, matériau : plastique, LxPxH 41 x 24,5 x 19 cm, poids : 799 g, 71266
-- Pour une utilisation quotidienne : qualité supérieure et design robuste, nettoyage facile des pièces (sans autocollants) sous leau courante sans produits chimiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKQL6TK2{{</world>}}

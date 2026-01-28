@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Batterie longue durée
-- 8.80609E+12
 - Écran de 6,6 pouces
+- 8.80609E+12
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZM3VXJC{{</world>}}

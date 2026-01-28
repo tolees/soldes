@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tissu Cordura. Construction Omni-Tech imperméable et respirante. Isolation de 200 g
 - Remarque : les lacets et fermetures éclair intégrés dans les chaussures Columbia ne sont pas étanches.
-- Caoutchouc de traction Omni-Grip non marquant
 - Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
+- Caoutchouc de traction Omni-Grip non marquant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CLWCVVYR{{</world>}}

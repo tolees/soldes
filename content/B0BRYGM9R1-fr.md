@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Produit officiel : produit sous licence officielle Star Wars de Jazwares
 - Mètre authentique : le véhicule de 12,5 cm se caractérise par des détails incroyables et une échelle authentique
-- MICROFIGURS : le véhicule contient également une micro-figurine de 2,5 cm
 - Une galaxie à collectionner : renforcez votre flotte et découvrez tous les véhicules Star Wars micro galaxy Squadron
+- MICROFIGURS : le véhicule contient également une micro-figurine de 2,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BRYGM9R1{{</world>}}

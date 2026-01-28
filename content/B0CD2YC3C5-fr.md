@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 10 surprises à découvrir : Rainbocorns Puppycorn Scent Surprise contient plus de 10 superbes surprises !
-- Découvre-les tous : 7 chiots parfaits à collectionner, chacun avec son propre accessoire parfumé !
 - Déballe pour découvrir : Ouvre ton Rainbocorn pour découvrir ce qu’il aime !
-- Élément Puppy Poop : Trouve ton élément Puppycorn Poop à l’intérieur de ton œuf Rainbocorns !
 - Autocollants parfumés et accessoires : Chaque Puppycorn est livré avec un accessoire délicieusement parfumé et des autocollants ! Quel délicieux parfum vas-tu découvrir ?
+- Élément Puppy Poop : Trouve ton élément Puppycorn Poop à l’intérieur de ton œuf Rainbocorns !
+- Découvre-les tous : 7 chiots parfaits à collectionner, chacun avec son propre accessoire parfumé !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CD2YC3C5{{</world>}}

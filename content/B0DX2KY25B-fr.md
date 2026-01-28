@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériaux résistants aux intempéries : polyuréthane durable et polyester
 - Compartiment principal avec sangles croisées
+- Matériaux résistants aux intempéries : polyuréthane durable et polyester
 - Bretelles rembourrées ergonomiques
 - Sac de voyage/sac à dos S avec 2 roulettes (bagage à main : voyage de 2 jours) : 25 x 40 x 55 cm, 51 L, 2,40 kg
 - Emballez vos affaires : volume énorme pour vos affaires avec plusieurs poches

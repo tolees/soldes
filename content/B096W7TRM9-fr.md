@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il repousse leau
 - Feuille absorbant à 2 couches, blanc, épais, lié et perforé uniquement pour huile qui absorbe lhuile et les liquides à base de pétrole
+- Il repousse leau
 - Un côté filé donne une force supplémentaire ainsi que moins de peluches
 - Perforé pour aider à minimiser les déchets et à réduire les coûts délimination
 

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Disques Bluray
-- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
 - année 7 : English, French, Italian, German,Flemish, Dutch
+- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
 
 [🛒 Achète-le!!]({{< param buyurl >}})

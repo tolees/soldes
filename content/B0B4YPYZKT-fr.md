@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Articles livrés : 1 veste à capuche Helly Hansen Hp Racing Lifaloft pour homme – Veste Ins Navy M
 - Ourlet réglable avec cordon de serrage
 - Lifaloft
 - Fermeture éclair YKK
 - Construction à 2 couches
+- Articles livrés : 1 veste à capuche Helly Hansen Hp Racing Lifaloft pour homme – Veste Ins Navy M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4YPYZKT{{</world>}}

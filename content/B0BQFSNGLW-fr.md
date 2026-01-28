@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques: Protection de sélecteur de vitesses en PU
 - Performance Shock: Inserts rigides au niveau de la malléole avec D-Foam souple sur le côté interne; Chaussure certifiée CE - Cat. II - norme EN 13634
 - Ergonomie: Fermeture par lacets; Bande élastique pour ranger les lacets
+- Caractéristiques: Protection de sélecteur de vitesses en PU
 - Température: Doublure en maille; Intérieur D-WP waterproof
 - Matériaux Principaux: Tige en cuir de vache pleine fleur; Semelle extérieure en caoutchouc Groundtrax; Assise plantaire Ortholite avec amorti prolongé et niveau de respirabilité élevé
 

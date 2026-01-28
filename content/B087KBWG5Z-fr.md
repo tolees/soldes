@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jeu de société de course, Panique au Manoir Hanté
-- Le but du jeu est déchapper au Comte Jeffraie en traversant les différentes pièces piégées du manoir et den sortir le premier
-- 4 pièges peuvent être activés par le fantôme : le tableau, les escaliers, la bibliothèque, le sol tremblant
 - Jeu de société immersif grâce à son plateau en 3 dimensions, pour 2 à 6 joueurs
+- 4 pièges peuvent être activés par le fantôme : le tableau, les escaliers, la bibliothèque, le sol tremblant
+- Le but du jeu est déchapper au Comte Jeffraie en traversant les différentes pièces piégées du manoir et den sortir le premier
 - Contient : 1 plateau de jeu 3D, 1 fantôme phosphorescent, 1 bille en métal, 8 enquêteurs et ses bases, 1 dé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

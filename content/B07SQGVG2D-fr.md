@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Scratch
 - Cuir
 - Les chaussures Geox taillent grand
 - Synthétique
-- Scratch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SQGVG2D{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ils sont confectionnées en similicuir aux finitions grainées
 - Lacets
 - Un logo gravé en creux
+- Ils sont confectionnées en similicuir aux finitions grainées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CLP77RT6{{</world>}}

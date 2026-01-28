@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nom du style : bottes en dentelle
 - Crazy Horse est un cuir lourd avec un aspect résistant et usé donnant une finition pré-appréciée sans le travail acharné.
 - Construit avec lADN Dr. Martens Core : bords rainurés, boucle de talon AirWair et coutures visibles
+- Nom du style : bottes en dentelle
 - Inspiré par Dr. Martens Iconic 1460
 
 [🛒 Achète-le!!]({{< param buyurl >}})

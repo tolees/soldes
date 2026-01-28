@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests dermatologiques. Convient aux peaux sensibles.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - SOIN HYDRATANT ANTI-ÂGE AVEC SPF 30 : Une crème anti-rides haute performance qui réduit visiblement rides et ridules tout en protégeant des futurs signes de lâge grâce à sa formulation SPF 30.
 - SOIN HYDRATANT AUX PEPTIDES + ACIDE HYALURONIQUE : Une crème anti-rides avec des peptides pour une peau plus lisse, de lacide hyaluronique pour hydrater, et de la provitamine D pour protéger la peau des radicaux libres.
 - REDUIT LAPPARENCE DES RIDES : 97 % constatent une réduction des rides et ridules.* *Test consommateurs sur 37 femmes après 12 semaines dutilisation.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
+- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests dermatologiques. Convient aux peaux sensibles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTN5497R{{</world>}}

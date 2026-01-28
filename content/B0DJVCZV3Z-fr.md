@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Esthétique rétro
 - Système damortissement de pointe
 - Conception hybride route/sentier
-- Esthétique rétro
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJVCZV3Z{{</world>}}

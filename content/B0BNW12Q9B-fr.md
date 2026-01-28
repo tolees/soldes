@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CASUAL & COOL : La veste est particulièrement confortable au quotidien et se combine idéalement avec des tenues décontractées
-- CONSEILS DENTRETIEN : Il est recommandé de laver la veste en cycle délicat à 30°C
-- AJUSTEMENT idéal : La veste matelassée cool a des poches pratiques, une fermeture éclair et est légèrement rembourrée
 - MATÉRIAU DE HAUTE QUALITÉ : Le tissu est durable et confortable à porter
 - REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
+- AJUSTEMENT idéal : La veste matelassée cool a des poches pratiques, une fermeture éclair et est légèrement rembourrée
+- CONSEILS DENTRETIEN : Il est recommandé de laver la veste en cycle délicat à 30°C
+- CASUAL & COOL : La veste est particulièrement confortable au quotidien et se combine idéalement avec des tenues décontractées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNW12Q9B{{</world>}}

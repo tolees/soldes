@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hydrofuge
-- 0.5kg Poids x 14L Volume
-- 35 Hauteur x 25.5 Largeur x 16 Profondeur cm
 - Petit Sac à Dos avec Protection pour Tablette
+- 35 Hauteur x 25.5 Largeur x 16 Profondeur cm
+- 0.5kg Poids x 14L Volume
 - 100% Polyamide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

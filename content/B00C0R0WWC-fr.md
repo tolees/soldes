@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Monstres Academy 3D + Blu-Ray 2D'
-date: 2026-01-25 15:47:59
+date: 2026-01-27 03:14:16
 image: 'https://m.media-amazon.com/images/I/51kF3Mvbl2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Disney'
 buyurl: 'https://www.amazon.fr/dp/B00C0R0WWC/?tag=tolees0d-21'
 descuento: '25.59'
-average: '12.945'
+average: '12.2933333333333'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

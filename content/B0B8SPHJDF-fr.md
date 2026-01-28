@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bracelet de cuir, couleur bleu, avec fermeture à boucle.
-- Résistance à leau: 5 atm.
 - Montre chronographe quartz pour homme.
 - Boîtier rectangulaire de acier inoxydable, couleur gris.
+- Résistance à leau: 5 atm.
 - Cadran rectangulaire en couleur bleu en verre minéral.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

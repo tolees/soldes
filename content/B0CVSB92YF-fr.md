@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Base antidérapante - pour plus de stabilité et de cohérence : La base caoutchoutée du Razer Firefly V2 Pro maintient le tapis de souris ancré sur votre bureau pendant les sessions de jeu les plus intenses.
+- Port USB intégré : pour optimiser la connectivité de votre souris sans fil : Le port USB intégré au tapis permet de brancher votre dongle de souris à quelques centimètres seulement de votre souris, ce qui garantit un minimum dinterférences et des performances sans fil optimales.
 - Câble USB de type C détachable - pour alimenter le tapis ou charger des appareils : À la fin dune longue session de jeu, passez rapidement de lalimentation du tapis de souris au chargement de votre souris sans fil ou de tout autre périphérique USB de type C.
 - Éclairage Chroma 15 zones - alimenté par Razer Chroma RGB : avec 16,8 millions de couleurs, dinnombrables motifs, des effets déclairage dynamiques dans le jeu - faites lexpérience dune personnalisation RGB complète et dune immersion plus profonde avec le plus grand écosystème déclairage au monde pour les appareils de jeu.
-- Port USB intégré : pour optimiser la connectivité de votre souris sans fil : Le port USB intégré au tapis permet de brancher votre dongle de souris à quelques centimètres seulement de votre souris, ce qui garantit un minimum dinterférences et des performances sans fil optimales.
+- Base antidérapante - pour plus de stabilité et de cohérence : La base caoutchoutée du Razer Firefly V2 Pro maintient le tapis de souris ancré sur votre bureau pendant les sessions de jeu les plus intenses.
 - Conception rétroéclairée dun bord à lautre - pour une illumination maximale : Conçue pour les inconditionnels du RGB, la surface givrée du tapis capte et amplifie la lueur de sa puissante bande LED, pour un éclairage vif qui sétend à tous les coins de la toile.
 - Surface microtexturée à faible friction - optimisée pour des déplacements rapides et un suivi précis : Optimisée pour les capteurs optiques, la surface du tapis offre un équilibre parfait entre vitesse et contrôle, permettant des déplacements rapides et fluides et un suivi ultra-précis.
 

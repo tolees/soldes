@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EXCELLENT CONFORT : ce modèle, coupe slim tapered, sublime votre silhouette et se porte comme une seconde peau. Grâce à l’élasthanne, il offre une grande liberté de mouvement.
-- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans séduit par ses lignes décontractées. Pratique avec ses 5 poches, il est très apprécié grâce à sa matière souple et à sa coupe fuselée.
 - POUR TOUS LES STYLES : au bureau ou au quotidien, ce modèle aux lignes épurées se distingue par son confort exceptionnel. Le drapeau Tommy Jeans brodé sur la poche attire tous les regards.
 - STREETWEAR RÉINTERPRÉTÉ : Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
 - MATIÈRE ET ENTRETIEN : 50 % coton régénératif, 22 % coton, 20 % coton recyclé, 6 % polyester recyclé et 2 % élasthanne. Lavage et séchage en machine.
+- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans séduit par ses lignes décontractées. Pratique avec ses 5 poches, il est très apprécié grâce à sa matière souple et à sa coupe fuselée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3J7QFG1{{</world>}}

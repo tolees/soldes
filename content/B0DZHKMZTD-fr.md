@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- RADICAL REPTILES : Un duo de choc rejoint les Tortues pour une nouvelle aventure du tonnerre ! Dans cette dernière mise à jour de Shredder’s Revenge, votre équipe de ninjas préférés s’allie à deux personnages légendaires de la série télévisée de 1987 : Mondo Gecko et Mona Lisa ! Ces reptiles intrépides sont enfin prêts à se lancer dans laction du beatem up et rejoindre leurs amis pour une réunion très attendue avec nos Tortues favorites.
 - Régalez-vous avec les graphismes en pixel art aux couleurs vives et l’ambiance vintage de TMNT qui vous ramènera directement dans les fantastiques années 80. La totalité des personnages, des véhicules, des armes, des objets et des décors est directement inspirée de la série télévisée de 1987, ce qui vous donnera l’impression d’avoir traversé le petit écran, avec en plus un mélange d’humour décapant et d’aventures riches en action !
 - DIMENSION SHELLSHOCK : Dimension Shellshock présente de nouveaux combattants à incarner, Usagi Yojimbo et Karai, ainsi qu’un tout nouveau mode Survie : récupérez des cristaux pour voyager entre les dimensions qui rendent hommage aux différentes époques de TMNT. Nos héros doivent sauter de dimension en dimension pour mettre un terme aux plans diaboliques de Shredder !
-- RADICAL REPTILES : Un duo de choc rejoint les Tortues pour une nouvelle aventure du tonnerre ! Dans cette dernière mise à jour de Shredder’s Revenge, votre équipe de ninjas préférés s’allie à deux personnages légendaires de la série télévisée de 1987 : Mondo Gecko et Mona Lisa ! Ces reptiles intrépides sont enfin prêts à se lancer dans laction du beatem up et rejoindre leurs amis pour une réunion très attendue avec nos Tortues favorites.
-- Vivez l’expérience complète de TMNT: Shredder’s Revenge avec ce bundle ! ● Inclus Tous Les DLC Teenage Mutant Ninja Turtles Shredder’s Revenge : Dimension Shellshock DLC, Radical Reptiles DLC
 - Teenage Mutant Ninja Turtles: Shredder’s Revenge voit les Tortues se battre dans une série de lieux intemporels de TMNT. De Manhattan à Coney Island, en passant par les toits urbains et les égouts froids et humides, aidez les quatre amis à battre à plates coutures les soldats des Foot, les guerriers de Triceraton et les troupes de Rock avant de les renvoyer dans la Dimension X !
+- Vivez l’expérience complète de TMNT: Shredder’s Revenge avec ce bundle ! ● Inclus Tous Les DLC Teenage Mutant Ninja Turtles Shredder’s Revenge : Dimension Shellshock DLC, Radical Reptiles DLC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DZHKMZTD{{</world>}}

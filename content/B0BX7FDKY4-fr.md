@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 💛 PORTABLE ET FACILE À NETTOYER : TOSSIT est livré avec un étui de transport qui vous permet d’emmener ce jeu partout. Les fléchettes sont 100 % en silicone alimentaire et vous pouvez simplement les mettre au lave-vaisselle quand elles sont sales. Les enfants ne pourront pas les détruire non plus... même s’ils risquent d’essayer :)
-- 📍 OÙ JOUER : À lintérieur 🏠, à lextérieur 🌳, sur votre carrelage, sur le plan de travail de votre cuisine, le frigo, la fenêtre, flottant dans lespace, dans votre voiture, ou même sur le crâne chauve et brillante de votre ami. Bon… il risque de ne pas trop apprécier…
 - 😍 POUR TOUT LE MONDE : Parfait pour 2 joueurs, à partir de 3 ans, le TOSSIT Original Starter Pack est tellement fun quil fera lâcher leur téléphone aux enfants, ados et adultes pour jouer. Utilisez-le pour animer une soirée jeux délirante en famille ou pour montrer à vos amis qui est vraiment le boss. Une partie dure moins de 5 minutes, et honnêtement, c’est le plus de fun que vous pouvez avoir en étant habillés en 5 minutes ! 💀
+- 💛 PORTABLE ET FACILE À NETTOYER : TOSSIT est livré avec un étui de transport qui vous permet d’emmener ce jeu partout. Les fléchettes sont 100 % en silicone alimentaire et vous pouvez simplement les mettre au lave-vaisselle quand elles sont sales. Les enfants ne pourront pas les détruire non plus... même s’ils risquent d’essayer :)
 - 🔥 COMMENT JOUER ? Lance tes fléchettes en direction de la fléchette noire, le Jack, et marque des points selon ta précision. Le premier à atteindre 13 points gagne, mais attention, il y a un twist: Seule l’équipe dont la fléchette est la plus proche du Jack marque des points. Pour chaque fléchette plus proche que celle de ton adversaire, tu gagnes 1 pts. Les équipes lancent chacune leur tours, mais seule l’équipe perdante peut rejouer jusqu’à repasser devant. Plutôt facile, non ? 😉
 - 🎁 LE MEILLEUR JEU POUR LES VACANCES : TOSSIT a été classé parmi les meilleurs jeux pour les fêtes par le Today Show de la NBC. La soirée jeu ne fait que commencer !
+- 📍 OÙ JOUER : À lintérieur 🏠, à lextérieur 🌳, sur votre carrelage, sur le plan de travail de votre cuisine, le frigo, la fenêtre, flottant dans lespace, dans votre voiture, ou même sur le crâne chauve et brillante de votre ami. Bon… il risque de ne pas trop apprécier…
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BX7FDKY4{{</world>}}

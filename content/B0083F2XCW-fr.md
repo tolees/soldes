@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Activités manuelles pour le développement de lenfant
 - ​Adapté aux petites mains
-- Sac pour un rangement facile
+- Activités manuelles pour le développement de lenfant
 - Se combine à dautres jouets Mega Bloks à construire !
+- Sac pour un rangement facile
 - ​60 blocs colorés de construction et formes spéciales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Extérieur 100 % laine mérinos
-- Coutures plates pour un confort et une résistance exceptionnels
 - LIFA MERINO
-- Construction double couche
 - Items delivered: 1x Helly Hansen Mens Lifa Merino Midweight Hoodie - LS Baselayer BLACK M
+- Extérieur 100 % laine mérinos
+- Construction double couche
+- Coutures plates pour un confort et une résistance exceptionnels
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08C7FJXBM{{</world>}}

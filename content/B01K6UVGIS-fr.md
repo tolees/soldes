@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3. Masque : enrichi en charbon actif ultra-absorbant et en extrait de myrtille, il diminue visiblement la brillance de la peau. Jusquà 3 fois par semaine, appliquez sur le visage et laissez poser 5 minutes. Rincez abondamment.
 - 1. Nettoyant : grâce à lun des actifs antibactériens les plus puissants, lacide salicylique, il purifie intensément et élimine les impuretés. Appliquez quotidiennement sur visage humide et rincez abondamment.
 - Le nouveau 3 en 1 Pure Active Intensif sutilise à la fois comme nettoyant, exfoliant et masque pour visiblement réduire les points noirs incrustés et aider à prévenir leur réapparition. Sa formule innovante convient tout spécialement aux peaux grasses à problèmes tenaces.
+- 3. Masque : enrichi en charbon actif ultra-absorbant et en extrait de myrtille, il diminue visiblement la brillance de la peau. Jusquà 3 fois par semaine, appliquez sur le visage et laissez poser 5 minutes. Rincez abondamment.
 - 2. Exfoliant : ses particules exfoliantes dorigine naturelle désincrustent les pores et réduisent visiblement les points noirs tenaces. Chaque jour, massez légèrement en insistant sur les zones sujettes aux points noirs (front, nez, menton). Rincez abondamment.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

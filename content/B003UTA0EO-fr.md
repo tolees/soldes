@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L´oreal professionel
-- Numéro de Modèle : 2525388
 - Produit de haute qualité
+- Numéro de Modèle : 2525388
+- L´oreal professionel
 - Durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

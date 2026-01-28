@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - Retour vers le futur : Trilogie [Blu-ray]'
-date: 2026-01-13 16:39:33
+date: 2026-01-26 20:23:00
 image: 'https://m.media-amazon.com/images/I/51xjYKE8k1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Action et aventure','Arborist Merchandising Root','Blu-ray','Comédie',
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75
-comparePrice: 24.99 EUR
+comparePrice: 24.97 EUR
 prodname: 'Universal - Retour vers le futur : Trilogie [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Universal'
 buyurl: 'https://www.amazon.fr/dp/B08CM5T99P/?tag=tolees0d-21'
-descuento: '44.98'
-average: '25.6006666666667'
+descuento: '44.93'
+average: '24.86'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

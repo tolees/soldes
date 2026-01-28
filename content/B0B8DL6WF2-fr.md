@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre - CASIO - Edifice - Noir acier'
-date: 2025-07-01 07:38:51
+date: 2026-01-26 10:10:59
 image: 'https://m.media-amazon.com/images/I/511AwG1jXmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sa doublure et sa semelle intérieure sont toutes deux conçues en textile ultra souple pour un amorti exceptionnel
-- La semelle extérieure légère en PU permet un mouvement fluide
 - Sa construction GORE-TEX résistante et imperméable offre une protection sous tous les angles
-- Confectionnée en cuir lisse adapté au sport
+- Sa doublure et sa semelle intérieure sont toutes deux conçues en textile ultra souple pour un amorti exceptionnel
 - La semelle intercalaire flexible ECCO FLUIDFORM dotée de canaux innovants permet la circulation de l’air dans toutes les directions
+- La semelle extérieure légère en PU permet un mouvement fluide
+- Confectionnée en cuir lisse adapté au sport
 - Le système de lacets longs vous permet de les ajuster pour un confort optimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ventilé pour une circulation dair optimale
-- Boîtier avec ventilateur PWM à utiliser avec le connecteur spécial du ventilateur
 - Accès au bouton dalimentation avec LED dactivité visible
 - Design emboîtable - Aucun outil nécessaire
+- Boîtier avec ventilateur PWM à utiliser avec le connecteur spécial du ventilateur
+- Ventilé pour une circulation dair optimale
 - Offre un accès à tous les ports importants et broches GPIO
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Plat
 - Enfiler
-- Synthetic
 - Synthétique
+- Synthetic
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07T7K5M6M{{</world>}}

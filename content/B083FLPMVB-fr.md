@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Doublure: Textile
 - Matériau de semelle: Synthétique
-- Semelle intérieure: Synthetic
 - Dessus: Smooth Leather
+- Semelle intérieure: Synthetic
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083FLPMVB{{</world>}}

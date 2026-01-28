@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction de chauffage
 - Stockage câble
-- Plateau à miettes amovible
 - Couleur écorce réglable
+- Fonction de chauffage
+- Plateau à miettes amovible
 - Fonction dégivrage
 - Bouton Stop/Annuler
 

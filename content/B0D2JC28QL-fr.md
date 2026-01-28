@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture Éclair
-- Surpiqûres en relief
-- Deux poches à fermeture Éclair à la taille
 - Il sagit dun produit Tommy Hilfiger authentique et original
+- Fermeture Éclair
+- Deux poches à fermeture Éclair à la taille
+- Surpiqûres en relief
 - Drapeau Tommy Hilfiger brodé sur la poitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

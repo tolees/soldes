@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Niveau de résistance à leau : non étanche
 - Forme du talon : plat
 - Largeur de la chaussure : étroite
+- Niveau de résistance à leau : non étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZVJGB1Y{{</world>}}

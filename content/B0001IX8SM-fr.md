@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- <li>Avec vis pivotante vers la droite</li>
 - <li>Angle de la tête 22,5°</li>
-- <ul>
 - Ajustable Mol. Central 24" Cro
 - <li>Matériau : En alliage acier de qualité supérieure
-- <li>Avec vis pivotante vers la droite</li>
+- <ul>
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0001IX8SM{{</world>}}

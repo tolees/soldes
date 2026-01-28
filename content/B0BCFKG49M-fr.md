@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Cloud Stinger 2 Core Casque de Jeu PC léger avec Microphone Rotatif pour Couper Le Souffle avec Son DTS Headphone:X Spatial Audio Pilotes 40 mm'
-date: 2026-01-21 16:41:01
+date: 2026-01-26 13:04:21
 image: 'https://m.media-amazon.com/images/I/31GHf60yQ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.fr/dp/B0BCFKG49M/?tag=tolees0d-21'
 descuento: '40.01'
-average: '31.7675'
+average: '31.6629411764706'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

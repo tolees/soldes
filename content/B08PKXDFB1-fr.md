@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faciles à porter pour un confort unique
 - Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
+- Faciles à porter pour un confort unique
 - Hauteur du talon : 2,5 cm / 1"
 - Enfilage facile et chaussant réglable avec fermeture éclair et lacets
 

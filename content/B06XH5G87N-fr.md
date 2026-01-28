@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Moyen - Standard
 - Fermeture: Fermeture éclair
 - Multipack: 1
 - 100% Polyester
+- Moyen - Standard
 - Lavage en machine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

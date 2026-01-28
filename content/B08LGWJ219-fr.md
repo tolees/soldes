@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Volant et pédales de course à taille réelle optimisés pour une simulation de course authentique
-- Pince de fixation robuste
-- Compatible avec xbox series x|s, xbox one et windows 10/11
-- Sous licence officielle Microsoft
 - Angle de rotation de 270 degrés
+- Compatible avec xbox series x|s, xbox one et windows 10/11
+- Pince de fixation robuste
+- Sous licence officielle Microsoft
 - Compatible avec le levier de vitesse HORI 7-Speed Racing Shifter sur PC Windows. Le shifter se connecte directement au PC via USB.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Homme Atom Work 18637 Chaussure Blucher Noir 035 43 EU'
-date: 2026-01-24 19:29:11
+date: 2026-01-26 20:22:47
 image: 'https://m.media-amazon.com/images/I/21PkI8M6EJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Camper'
 buyurl: 'https://www.amazon.fr/dp/B07GCM294K/?tag=tolees0d-21'
 descuento: '35.21'
-average: '95.825'
+average: '95.6166666666666'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur : noir
 - Matériau extérieur : 100 % cuir de vache
 - Semelle : 100 % EVA
-- Couleur : noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GCM294K{{</world>}}

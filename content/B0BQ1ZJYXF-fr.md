@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Commande tactile
-- Programmable
 - Avec verre de sécurité
 - Table de cuisson à induction numérique
+- Programmable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQ1ZJYXF{{</world>}}

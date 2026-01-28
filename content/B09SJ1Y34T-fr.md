@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Race on 24 different Slime-filled tracks, including Bikini Bottom, NYC sewers, Tommy Pickles house, Arnolds school and more!
 - Choose a racer from 12 of the most iconic Nickelodeon series: SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Hey Arnold!, Rugrats and MORE!!!
+- Race on 24 different Slime-filled tracks, including Bikini Bottom, NYC sewers, Tommy Pickles house, Arnolds school and more!
 - Customisable Karts with multiple power-ups and special attacks!
 - Awesome Co-Op and Local Multi-Player for non-stop action the entire family will love!
 

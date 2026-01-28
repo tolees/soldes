@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Femme Peu Cami K400676 Bottine moyenne à fermeture éclair/élastique Noir 004 37 EU'
-date: 2026-01-24 06:40:56
+date: 2026-01-27 09:26:15
 image: 'https://m.media-amazon.com/images/I/41Sk6Nt2C-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Camper'
 buyurl: 'https://www.amazon.fr/dp/B0BM53K35R/?tag=tolees0d-21'
 descuento: '40.00'
-average: '118.503333333333'
+average: '117.453'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : moyenne
 - Forme du talon : plat
+- Largeur de la chaussure : moyenne
 - Niveau de résistance à leau : non étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

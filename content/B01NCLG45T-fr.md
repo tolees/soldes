@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '8Bitdo Wireless USB Adapter 2 for Switch Switch OLED Windows PC Mac and Raspberry Pi pour PS5 PS4 Switch Pro Controller'
-date: 2026-01-26 06:15:33
+date: 2026-01-27 17:20:57
 image: 'https://m.media-amazon.com/images/I/319sIkCU6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: '8BitDo'
 buyurl: 'https://www.amazon.fr/dp/B01NCLG45T/?tag=tolees0d-21'
 descuento: '48.02'
-average: '14.206'
+average: '13.1157142857143'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vibration support on X-input mode.6-axis motion on Switch.X-input, D-input, Mac mode, Switch mode.Upgradable firmware: Support 8BitDo Ultimate Software for PS5, PS4, Xbox One, and Switch pro controllers on Switch and Windows
-- Wide compatibility range: Works with all 8BitDo Bluetooth controllers and arcade sticks, Xbox One Bluetooth controller,PS5 DualSense DualShock 3, DualShock 4, DualShock 4 Pro, Wii Remote, Wii U Pro, Switch Joy-Con, Switch Pro controllers
-- Allows for use with Nintendo Switch, Windows, and macOS PCs, Android TV box, Raspberry Pi, and Retrofreak
 - Built-in Bluetooth : 2.1 Ensures lag-free gaming
 - Easy connection: Simply bind this adapter to your wireless controller to enable the same wireless experience you are used to on all the best platforms.
+- Allows for use with Nintendo Switch, Windows, and macOS PCs, Android TV box, Raspberry Pi, and Retrofreak
+- Wide compatibility range: Works with all 8BitDo Bluetooth controllers and arcade sticks, Xbox One Bluetooth controller,PS5 DualSense DualShock 3, DualShock 4, DualShock 4 Pro, Wii Remote, Wii U Pro, Switch Joy-Con, Switch Pro controllers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NCLG45T{{</world>}}

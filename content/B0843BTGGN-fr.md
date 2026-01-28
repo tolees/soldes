@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poste extérieur en aluminium livré avec support de montage et protection contre la pluie.
-- Full duplex.
-- Possibilité d’ajouter une caméra de surveillance.
-- Ecran couleur 7’’ avec design sobre et élégant.
-- Permet de commander une gâche électrique et un portail.
-- Technologie 2 fils.
-- Volume, contraste et luminosité réglables.
-- Installez facilement un système vidéophone de qualité !
-- Visualisez et communiquez avec la personne qui se présente à votre porte
 - Poste extérieur avec vision nocturne.
+- Volume, contraste et luminosité réglables.
+- Visualisez et communiquez avec la personne qui se présente à votre porte
+- Full duplex.
+- Permet de commander une gâche électrique et un portail.
+- Possibilité d’ajouter une caméra de surveillance.
+- Poste extérieur en aluminium livré avec support de montage et protection contre la pluie.
+- Installez facilement un système vidéophone de qualité !
+- Technologie 2 fils.
+- Ecran couleur 7’’ avec design sobre et élégant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0843BTGGN{{</world>}}

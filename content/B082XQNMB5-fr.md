@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour des cheveux intensément nutritifs, revitalisés et sans nœuds, Pour une couleur plus forte et plus brillante, non appétissante
 - Shampooing hydratant à lextrait daloe vera, idéal pour les cheveux déshydratés
 - Conseils dutilisation : appliquer sur les cheveux braqués, limage et le risciacqua
+- Pour des cheveux intensément nutritifs, revitalisés et sans nœuds, Pour une couleur plus forte et plus brillante, non appétissante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082XQNMB5{{</world>}}

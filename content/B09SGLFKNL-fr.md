@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Durable
 - Design flexible
 - Matériau de haute qualité
-- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SGLFKNL{{</world>}}

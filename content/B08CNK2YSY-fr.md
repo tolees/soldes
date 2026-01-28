@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise de vue en 2560x 1400 à 20 fps
 - Alimentation 12V CC ou via PoE
+- Vision infrarouge sur 40 mètres
+- Prise de vue en 2560x 1400 à 20 fps
 - Emplacement pour carte micro SD jusquà 256 Go
 - IP67
-- Vision infrarouge sur 40 mètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CNK2YSY{{</world>}}

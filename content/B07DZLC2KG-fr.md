@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec bon qualité
 - Parfum homme
+- avec bon qualité
 - Parfums parfum homme
 - Eau de Parfum homme 50 millilitres
 

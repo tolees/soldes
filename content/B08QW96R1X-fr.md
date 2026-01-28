@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Taille normale
 - Lavage en machine
-- slim
 - Fermeture: Cordon de serrage
 - 82% Coton, 18% Polyester
+- slim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

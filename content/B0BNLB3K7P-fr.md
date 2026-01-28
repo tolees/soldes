@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - La parade des bébés est composée des bébés Lapin Blanc, Husky, Chat Tigré, Souris Marshmallow et Chat Persan. Ils sont tous articulés et habillés avec soin. Leurs vêtements peuvent être enlevés et remis à loisir.
 - À partir de 3 ans.
-- Cet ensemble comprend des figurines et des accessoires et peut être joué seul.
 - Les bébés sont vêtus de costumes de princesses et ont de nombreux accessoires féériques : diadèmes, baguette magique…
+- Cet ensemble comprend des figurines et des accessoires et peut être joué seul.
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

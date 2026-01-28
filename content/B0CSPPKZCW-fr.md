@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Talon de couleur contrastée avec logo 1973
-- Chaussures sportives/baskets de course
 - Dessus en cuir avec combinaison de matériaux et de couleurs
+- Chaussures sportives/baskets de course
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CSPPKZCW{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouton DPI Re-designé : Cette souris gaming optique filaire comprend un bouton DPI réversible et retirable pour des personnalisations précises selon votre prise en main et préférence
-- Faites votre choix : Disponible en noir et en blanc
-- Boutons LIGHTFORCE : Technologie de boutons hybride optique-mécanique pour une vitesse incroyable et fiable, avec précision et un temps réponse idéale pour des heures de performance de gaming
-- Mollette Superrapide Re-designée : Passez du roulement hyper rapide au mode précis et aux boutons gauche et droit pour deux contrôles personnalisables additionnels
 - Icône réinventée : De lhéritage du design G502 le plus populaire de Logitech, la G502 X souris gaming filaire est repensée et re-designée avec les dernières innovations technologiques gaming
+- Mollette Superrapide Re-designée : Passez du roulement hyper rapide au mode précis et aux boutons gauche et droit pour deux contrôles personnalisables additionnels
+- Bouton DPI Re-designé : Cette souris gaming optique filaire comprend un bouton DPI réversible et retirable pour des personnalisations précises selon votre prise en main et préférence
+- Boutons LIGHTFORCE : Technologie de boutons hybride optique-mécanique pour une vitesse incroyable et fiable, avec précision et un temps réponse idéale pour des heures de performance de gaming
+- Faites votre choix : Disponible en noir et en blanc
 - Capteur Gaming HERO 25K : Précision idéal jusquau sub-micron pour une acuité haute-précision sans lissage/filtrage/accélération pour des hautes performances de gaming sur ordinateur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

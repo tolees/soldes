@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1-4 joueurs, version physique, disponible en français et en anglais, exclusivité playstation
-- Découvrez la version longue de Ghost Of Tsushima dans cette version dauteur comprenant tous les contenus additionnels sortis à ce jour, ainsi que du contenu inédit
-- Expérience de jeu intense grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense PS5 : ressentez la tension des cordes sur votre arc, la violence des coups portés et le poids des armes…
 - Contenu de la livraison : 1 x Jeu Ghost Of Tsushima Directors Cut, Version physique avec CD, Langue : Français, 1 joueur, PEGI 18
-- Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail : préparez-vous à une plongée inédite dans le Japon féodal
 - Une expérience immersive quasi instantanée grâce aux temps de chargement éclairs du disque SSD de votre console PS5 permettant également la synchronisation labiale pour le doublage japonais
+- Découvrez la version longue de Ghost Of Tsushima dans cette version dauteur comprenant tous les contenus additionnels sortis à ce jour, ainsi que du contenu inédit
+- 1-4 joueurs, version physique, disponible en français et en anglais, exclusivité playstation
+- Des graphismes éblouissants en 4K et en HDR reproduits avec un incroyable souci de détail : préparez-vous à une plongée inédite dans le Japon féodal
+- Expérience de jeu intense grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense PS5 : ressentez la tension des cordes sur votre arc, la violence des coups portés et le poids des armes…
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098WZZNWN{{</world>}}

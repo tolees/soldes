@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spécificités: Puissance de gril de 1000 watts, puissance de micro-ondes de 800 watts avec 5 niveaux de puissance, dimensions externes (L x P x H): 440 x 334 x 259 mm, dimensions internes (L x P x H): 306 x 304 x 206, plateau tournant en verre de 255 mm.
-- 5 Niveaux de Puissance : Pour plus de possibilités et de flexibilité lors de vos cuissons. Vous pouvez aussi bien décongeler que maintenir vos plats au chaud ou faire bouillir de leau.
 - Capacité de 20l : Sa grande cavité permet daccueillir la plupart des plates du quotidien, tout en restant très compact pour sadapter à toutes les cuisines.
-- 3 en 1 : Le Toshiba MW2-MG20P(BK) combine les fonctions grill, décongélation et réchauffage pour vous permettre des cuissons aussi efficaces que délicates
 - Cuisson Combinée : La cuisson combinée est spécialement conçue pour réchauffer vos plats tout en les grillant, offrant la chaleur et le croustillant de cuissons traditionnelles.
+- 5 Niveaux de Puissance : Pour plus de possibilités et de flexibilité lors de vos cuissons. Vous pouvez aussi bien décongeler que maintenir vos plats au chaud ou faire bouillir de leau.
+- Spécificités: Puissance de gril de 1000 watts, puissance de micro-ondes de 800 watts avec 5 niveaux de puissance, dimensions externes (L x P x H): 440 x 334 x 259 mm, dimensions internes (L x P x H): 306 x 304 x 206, plateau tournant en verre de 255 mm.
+- 3 en 1 : Le Toshiba MW2-MG20P(BK) combine les fonctions grill, décongélation et réchauffage pour vous permettre des cuissons aussi efficaces que délicates
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8K21YXC{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1x Casquette Unisexe Tech Shade II Columbia, Couleur : City Grey, Taille : O/S
-- Taille unique, fabriquée à 100 % en nylon
 - La casquette Columbia Unisexe Tech Shade II est un modèle léger et respirant, conçu pour offrir protection solaire et confort en extérieur
 - Omni-Shade : UPF 50 protège contre les dommages cutanés grâce à une construction de tissu serré et des fibres modifiées qui bloquent les rayons UVA/UVB, vous permettant de rester protégé sous le soleil
+- Taille unique, fabriquée à 100 % en nylon
 - Fermeture arrière ajustable, logo Columbia, ventilation et conception légère
+- Contenu : 1x Casquette Unisexe Tech Shade II Columbia, Couleur : City Grey, Taille : O/S
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D4F9QWHR{{</world>}}

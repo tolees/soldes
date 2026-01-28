@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Better Leather
 - Matériau extérieur : 90 % cuir de vachette, 10 % cuir de vachette
 - Couleur : marron moyen
-- Better Leather
 - Semelle : 100 % EVA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

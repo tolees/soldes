@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermetures éclair à hauteur de genou qui les transforment en short
-- Grandes poches sur les jambes, une avec une poche extérieure supplémentaire
-- Department : Homme
 - Type de tissu : 73% Polyamide, 27% Coton
+- Grandes poches sur les jambes, une avec une poche extérieure supplémentaire
+- Fermetures éclair à hauteur de genou qui les transforment en short
+- Department : Homme
 - Pantalon confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

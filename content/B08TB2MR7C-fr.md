@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Démarrage instantané et arrêt automatique
-- Impact environnemental réduit
-- Technologie Crema Plus
 - Intensity Plus
+- Impact environnemental réduit
+- Démarrage instantané et arrêt automatique
 - Bec verseur métallique ajustable
+- Technologie Crema Plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TB2MR7C{{</world>}}

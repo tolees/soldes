@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception ultra-légère de 53 g3
-- Bande d’adhérence personnalisée incluse, Personnalisable avec le logiciel HyperX NGENUITY
-- Capteur HyperX 26K de précision, Taux de transfert de 8 000 Hz2
 - Commutateurs HyperX personnalisés, Patins en PTFE d’excellente qualité
 - Plug N Play, Câble HyperFlex 2 super-flexible
+- Capteur HyperX 26K de précision, Taux de transfert de 8 000 Hz2
+- Bande d’adhérence personnalisée incluse, Personnalisable avec le logiciel HyperX NGENUITY
+- Conception ultra-légère de 53 g3
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BX52PCJ5{{</world>}}

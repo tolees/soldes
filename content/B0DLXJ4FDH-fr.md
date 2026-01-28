@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - ROBOT SAUVAGE LE - BD'
-date: 2026-01-25 15:54:52
+date: 2026-01-26 20:50:28
 image: 'https://m.media-amazon.com/images/I/4130X8YAL6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Universal'
 buyurl: 'https://www.amazon.fr/dp/B0DLXJ4FDH/?tag=tolees0d-21'
 descuento: '18.91'
-average: '11.1692857142857'
+average: '11.021875'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

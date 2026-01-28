@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EXPLOREZ UN MONDE OUVERT HAWAÏEN DYNAMIQUE
 - CÉLÉBREZ TOUTES LES FACETTES DE LA CULTURE AUTOMOBILE
+- EXPLOREZ UN MONDE OUVERT HAWAÏEN DYNAMIQUE
 - COLLECTIONNEZ LES VOITURES LES PLUS LÉGENDAIRES
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

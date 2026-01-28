@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maximum Games - Kena Bridge of Spirits L edition Deluxe PlayStation 5'
-date: 2026-01-25 17:07:26
+date: 2026-01-27 17:20:51
 image: 'https://m.media-amazon.com/images/I/51cpXJCan4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Maximum Games'
 buyurl: 'https://www.amazon.fr/dp/B09H7V5WM2/?tag=tolees0d-21'
 descuento: '38.33'
-average: '27.0067647058823'
+average: '26.8763888888888'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un jeu daction-aventure narratif combiné à de lexploration et des combats effrénés Incarnez Kena et rassemblez une équipe de compagnons-esprits charmants appelés les Rots
 - Lédition Deluxe physique comprend la BO Digitale, bâton de Kena édition spéciale, apparence de Rot doré et chapeaux de célébration uniques pour les Rots, une planche de stickers exclusifs !
 - Explorez un village oublié et une étrange malédiction. Faites appel au pouvoir du royaume des esprits pour restaurer ce monde autrefois majestueux. À chaque tournant, Kena est mise au défi
-- Un jeu daction-aventure narratif combiné à de lexploration et des combats effrénés Incarnez Kena et rassemblez une équipe de compagnons-esprits charmants appelés les Rots
 - Composez votre équipe : Trouvez et recueillez les Rots pour obtenir de puissantes capacités, faire des découvertes et transformer lenvironnement
 - Trouvez les Rots : Ce sont des esprits timides et fuyants dispersés dans la forêt. Ils maintiennent léquilibre en décomposant les éléments morts et pourrissants.
 

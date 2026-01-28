@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
-- Toucher jersey doux
-- Ceci est un authentique produit Levi’s
 - Logo de la marque Levis sur la poitrine
+- Toucher jersey doux
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
+- Ceci est un authentique produit Levi’s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CHR942Q{{</world>}}

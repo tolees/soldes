@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Klamath Range 2 Half Zip Pull en polaire Homme Noir XL'
-date: 2026-01-25 15:58:35
+date: 2026-01-27 03:15:56
 image: 'https://m.media-amazon.com/images/I/31oVhx5ky2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.fr/dp/B00473TTXK/?tag=tolees0d-21'
 descuento: '47.77'
-average: '23.3797142857143'
+average: '23.2451351351352'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Fibre Synthétique, Noir (Black), XL, 1352472
 - Pull en laine polaire demi-zip pour homme, Idéal pour la randonnée, la course à pied et dautres activités de plein air ou comme couche intermédiaire lors des journées froides dhiver, Coupe active
 - Protection supplémenaitre contre le vent et le froid grce à la capuche ajustée et au polaire confortable
 - Protection supplémentaire contre le vent et le froid avec col montant et demi-zip
 - Particulièrement chaude et douillette grce à la polaire de grande qualité
+- Contenu : 1 x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Fibre Synthétique, Noir (Black), XL, 1352472
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00473TTXK{{</world>}}

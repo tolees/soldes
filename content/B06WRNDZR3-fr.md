@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfaite idée cadeau
 - Lavage à la main uniquement
+- Parfaite idée cadeau
 - Designer: Adam Goodrum
 
 [🛒 Achète-le!!]({{< param buyurl >}})
