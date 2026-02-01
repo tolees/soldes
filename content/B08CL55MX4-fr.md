@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Petit Sac à Dos avec Protection pour Tablette
-- 100% Polyamide
 - Hydrofuge
+- 100% Polyamide
 - 0.5kg Poids x 14L Volume
 - 35 Hauteur x 25.5 Largeur x 16 Profondeur cm
 

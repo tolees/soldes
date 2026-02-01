@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Talon : Talon plat
+- Semelle : cuir & gomme, bleue
 - Matière : Cuir de veau tannage végétal
 - Type de bout : pointu
-- Semelle : cuir & gomme, bleue
+- Talon : Talon plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CXSPL1ZH{{</world>}}

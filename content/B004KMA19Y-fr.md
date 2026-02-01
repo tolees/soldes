@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EXCELLENT POUR TOUT USAGE : de lobservation des oiseaux à la navigation de plaisance, des événements sportifs aux concerts, ce petit accessoire s’adapte à tout
-- POIDS LÉGER ET FORMAT DE POCHE : d’un poids de seulement 170 g, le monoculaire Nature 10x25 est l’accessoire idéal à glisser dans une poche et à emporter partout
-- ÉTANCHE ET ANTIBUÉE : protection dans des conditions d’humidité
 - MISE AU POINT D’UNE SEULE MAIN : tenez le monoculaire et mettez-le au point d’une seule main grâce à la molette de mise au point dioptrique
+- ÉTANCHE ET ANTIBUÉE : protection dans des conditions d’humidité
+- POIDS LÉGER ET FORMAT DE POCHE : d’un poids de seulement 170 g, le monoculaire Nature 10x25 est l’accessoire idéal à glisser dans une poche et à emporter partout
 - Un blindage durable rainuré et profond protège et fournit une surface de préhension sûre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

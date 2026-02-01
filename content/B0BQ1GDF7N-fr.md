@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuisson parfaite pour vos recettes : vous avez la possibilité de programmer la cuisson jusquà 3 heures avec une déconnexion automatique.
 - Choisissez la température idéale : température réglable entre 60 °C et 240 °C pour sadapter aux besoins de chaque aliment que vous allez cuisiner.
 - Contrôle tactile : la plaque à induction dispose dun contrôle tactile et dun design élégant et simple. Cuisine rapide et facile : ses 2000 W de puissance permettent de cuisiner de manière plus rapide et plus simple, vous pouvez choisir parmi 10 niveaux de puissance, en dépensant beaucoup moins dénergie.
+- Cuisson parfaite pour vos recettes : vous avez la possibilité de programmer la cuisson jusquà 3 heures avec une déconnexion automatique.
 - Nettoyage facile : gardez la plaque propre en quelques passages. Ce nest pas un jouet : sécurité maximale avec son verrou enfant. Transformez-le en grill : plaque 2 en 1 qui comprend un accessoire grill pour donner à vos repas cette saveur si spéciale.
 - Vous marquez le tempo : comprend une minuterie numérique avec un système de compte à rebours pour indiquer combien de temps vous devez cuisiner.
 

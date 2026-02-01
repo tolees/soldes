@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COULEURS INTENSES : Des couleurs vives et intenses, partout, à tout moment grâce aux feutres de la gamme ColorPeps Pour préparer la rentrée des classes, pour partir en vacances ou simplement pour offrir, Color’Peps by Maped propose un éventail de produits et de couleurs qui en mettent plein les yeux pour le bonheur des enfants
 - DURABLES : Conçus pour durer, les feutres Maped Long Life possèdent une encre longue durée et des pointes bloquées anti-enfoncement. Ces feutres sont également conformes à la réglementation des jouets
-- ENCRE ULTRA-LAVABLE : Maped a aussi pensé aux parents en concevant une gamme de feutres à l’encre ultra-lavable. Le dessin a débordé ? Pas de panique, les encres sont conçues pour disparaître sur le tissu comme sur la peau (sur la plupart des textiles et sur la peau avec de l’eau savonneuse)
-- FEUTRES LONG LIFE : Compacte, cette pochette de 12 feutres zippée et réutilisable s’emporte partout Du dessin à la maison au coloriage d’une carte au collège, ces feutres résistants accompagnent les devoirs et les désirs créatifs des enfants. Pointe moyenne conique, permettant de dessiner en détail ou de remplir de grandes surfaces, diamètre : 3.6 mm
 - THÈME HARRY POTTER : Retrouvez tout lunivers magique et fantastique de la saga Harry Potter avec ces feutres décorés et tendances
+- ENCRE ULTRA-LAVABLE : Maped a aussi pensé aux parents en concevant une gamme de feutres à l’encre ultra-lavable. Le dessin a débordé ? Pas de panique, les encres sont conçues pour disparaître sur le tissu comme sur la peau (sur la plupart des textiles et sur la peau avec de l’eau savonneuse)
+- COULEURS INTENSES : Des couleurs vives et intenses, partout, à tout moment grâce aux feutres de la gamme ColorPeps Pour préparer la rentrée des classes, pour partir en vacances ou simplement pour offrir, Color’Peps by Maped propose un éventail de produits et de couleurs qui en mettent plein les yeux pour le bonheur des enfants
+- FEUTRES LONG LIFE : Compacte, cette pochette de 12 feutres zippée et réutilisable s’emporte partout Du dessin à la maison au coloriage d’une carte au collège, ces feutres résistants accompagnent les devoirs et les désirs créatifs des enfants. Pointe moyenne conique, permettant de dessiner en détail ou de remplir de grandes surfaces, diamètre : 3.6 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08NXSPST9{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sensation douce
 - Toucher doux
+- Sensation douce
 - Dessus en cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

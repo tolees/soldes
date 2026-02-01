@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Deux poches principales zippées à rabat
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - doublure du corps en maillefilet
+- Cordon de serrage élastique à la capuche et à lourlet
+- Logo Imprimé par transfert thermique
 - doublure du corps en maillefilet
 - finition déperlante DWR
-- Manchettes élastiquées
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Cordon de serrage élastique à la capuche et à lourlet
-- Capuche fixe avec Cordon de serrage unidirectionnel
+- Deux poches principales zippées à rabat
 - doublure de la mentonnière et nuque en Tricot brossé
-- finition déperlante DWR
-- Logo Imprimé par transfert thermique
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- Logo Imprimé par transfert thermique
-- Cordon de serrage élastique à la capuche et à lourlet
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Manchettes élastiquées
-- Deux poches principales zippées à rabat
-- Deux poches principales zippées à rabat
-- doublure de la mentonnière et nuque en Tricot brossé
+- finition déperlante DWR
 - Capuche fixe avec Cordon de serrage unidirectionnel
+- Manchettes élastiquées
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Manchettes élastiquées
+- doublure de la mentonnière et nuque en Tricot brossé
+- Logo Imprimé par transfert thermique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouton «Connect et Secure» et Cryptage WPA/WPA2 pour la sécurité Wi-Fi
-- 1x port LAN + 1x port WAN/LAN
-- Répéteur Wi-Fi Universel 300
-- 2 antennes externes ajustables pour améliorer la couverture, la fiabilité et la stabilité du réseau Wi-Fi
 - 300 Mbit/s @ 2.4 GHz
+- 2 antennes externes ajustables pour améliorer la couverture, la fiabilité et la stabilité du réseau Wi-Fi
+- Répéteur Wi-Fi Universel 300
+- 1x port LAN + 1x port WAN/LAN
+- Bouton «Connect et Secure» et Cryptage WPA/WPA2 pour la sécurité Wi-Fi
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BZ1XDSH{{</world>}}

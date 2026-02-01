@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une eau de parfum gourmande et ultra addictive, où les éclats lactés de Noix de Coco se mêlent aux effluves d’un cœur Patchouli Vanille sensuel, et d’un duo Ananas Mandarine acidulé et fruité.
-- Vaporisez un nuage de parfum puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements.
 - Un parfum qui libère vos fantasmes les plus fous. Une addiction voluptueuse, croquante et terriblement féminine.
+- Vaporisez un nuage de parfum puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV4FBVCX{{</world>}}

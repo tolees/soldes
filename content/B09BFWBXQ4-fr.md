@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Durable
+- 599539C00-17
 - argenté
 - Pandora
-- 599539C00-17
-- Durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BFWBXQ4{{</world>}}

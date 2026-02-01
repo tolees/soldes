@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - And use tackles, items and special shots to score as many goals as possible
-- Dribble your opponents, pass to your teammates
 - Get ready for 5 versus 5 soccer without rules where every move is allowed to win!
+- Dribble your opponents, pass to your teammates
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SBYHXXH{{</world>}}

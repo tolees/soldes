@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Multijoueur Crossplay : Les chasseurs peuvent rejoindre jusquà trois autres joueurs de nimporte quelle plateforme pour explorer le monde et relever les défis à plusieurs.
-- Un Monde Vivant : Les écosystèmes alternent entre des saisons pleines de vie et des climats impitoyables où les monstres se battent pour des ressources limitées
 - Nouvelle Aventure Sauvage : Monster Hunter Wilds suit lhistoire, entièrement doublé pour la première fois, dune brigade de recherche enquêtant sur les Forbidden Lands
+- Un Monde Vivant : Les écosystèmes alternent entre des saisons pleines de vie et des climats impitoyables où les monstres se battent pour des ressources limitées
+- Multijoueur Crossplay : Les chasseurs peuvent rejoindre jusquà trois autres joueurs de nimporte quelle plateforme pour explorer le monde et relever les défis à plusieurs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJ9GK2SX{{</world>}}

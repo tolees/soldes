@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - materialFabricComposition: Superposition: 59% Polyester recyclé, 24% Laine, 16% Viscose, 1% Élasthanne; Doublure: 100% Polyester
 - Super Slim Fit
-- Blazer croisé
 - Manches longues
 - Care Label:
+- Blazer croisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082T73MXP{{</world>}}

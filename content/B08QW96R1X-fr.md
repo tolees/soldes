@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Cordon de serrage
-- 82% Coton, 18% Polyester
-- Taille normale
 - Lavage en machine
+- 82% Coton, 18% Polyester
+- Fermeture: Cordon de serrage
 - slim
+- Taille normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 50% Coton Recyclé Ecotec, 50% Polyester recyclé
 - Lavage machine à 30° avec des couleurs similaires sur cycle délicat ou laine / pas de blanchiment / séchage à plat pas de séchage en tambour ménager / repassage fer doux / pas de nettoyage à sec
 - Décontractée
-- 50% Coton Recyclé Ecotec, 50% Polyester recyclé
-- Manche longue
 - Fermeture éclair
+- Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084ZGWB3R{{</world>}}

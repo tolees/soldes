@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meilleurs ensemble : améliorez productivité et flexibilité en combinant le clavier dordinateur K650 avec la souris M650 ; personnalisez-les via le logiciel Logi Options+ (Windows 10 et macOS 10.15)
 - Les pièces en plastique de Signature K650 comprennent du plastique recyclé post-consommation certifié (Graphite: 28%; Off-White: 21 $ à 4 $
-- Confort toute la journée : le repose-poignets intégré doux et les touches silencieuses donnent une sensation familière et une expérience de frappe agréable.
-- Connectez-vous comme vous voulez : connection sans fil via la technologie sans fil BLE (Bluetooth Low Energy) ou via le récepteur Logi Bolt inclus
 - Fonctionne sur plusieurs plateformes : le clavier dordinateur Logitech Signature K650 fonctionne avec plusieurs systèmes d’exploitation : Windows, macOS, Chrome OS, Linux, iPadOS, iOS et Android
+- Connectez-vous comme vous voulez : connection sans fil via la technologie sans fil BLE (Bluetooth Low Energy) ou via le récepteur Logi Bolt inclus
+- Confort toute la journée : le repose-poignets intégré doux et les touches silencieuses donnent une sensation familière et une expérience de frappe agréable.
+- Meilleurs ensemble : améliorez productivité et flexibilité en combinant le clavier dordinateur K650 avec la souris M650 ; personnalisez-les via le logiciel Logi Options+ (Windows 10 et macOS 10.15)
 - Pour une meilleure productivité : clavier sans fil complet et accès aux bons raccourcis ; gagnez du temps grâce à l’activation/désactivation de la sourdine, la capture d’écran, la navigation Web, etc.
 - Fiable et sans tracas : les piles du clavier sans fil durent jusquà 36 mois (peut varier selon les conditions d’utilisation et de calcul) ; facile à nettoyer et résistant à leau.
 

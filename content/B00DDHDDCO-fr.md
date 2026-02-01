@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autocollant craquelé effet 3D inclus.
-- Nécessite 3 piles AA (non incluses).
-- Sous licence officielle en 3D Light FX.
 - Belle idée de cadeau.
+- Autocollant craquelé effet 3D inclus.
 - Sans fil, peut être placée nimporte où dans la pièce.
+- Sous licence officielle en 3D Light FX.
+- Nécessite 3 piles AA (non incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DDHDDCO{{</world>}}

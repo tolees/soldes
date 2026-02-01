@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quatre sublimes panneaux en verre trempé
-- trois ventilateurs inclus mettent en valeur votre PC
 - Le corsair est un boîtier moyen-tour qui met en valeur votre PC, pas ses câbles
+- trois ventilateurs inclus mettent en valeur votre PC
+- Quatre sublimes panneaux en verre trempé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BKC5RY3H{{</world>}}

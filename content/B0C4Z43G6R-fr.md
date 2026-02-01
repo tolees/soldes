@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Récupérez différentes ressources pour obtenir de la BoostiBoom et améliorer le SchtroumpfoMix au fil de l’aventure !
 - Pour la première fois dans un jeu vidéo, collaborez avec Gargamel pour sauver le village des Schtroumpfs! Utilisez les téléporteurs pour voyager à travers le Pays Maudit et découvrez 3 nouvelles régions encore inexplorées.
 - Retrouvez une équipe composée de Schtroumpfs iconiques : Le Schtroumpf Bricoleur, le Schtroumpf à lunette, le Schtroumpfs Bêta et Tempête !
 - Profitez d’un gameplay dynamique avec de l’exploration, de la plateforme mais également des combats encore plus intenses grâce au SchtroumpfoMix!
-- Récupérez différentes ressources pour obtenir de la BoostiBoom et améliorer le SchtroumpfoMix au fil de l’aventure !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C4Z43G6R{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Servez vos passagers et assurez-vous qu’ils vivent un voyage confortable
 - Invitez des passagers à embarquer à bord de votre train et aidez-les à atteindre leur destination!
 - Occupez-vous de votre train et préparez-le pour le prochain voyage
 - Assurez-vous que vos passagers vivent le meilleur des voyages
-- Servez vos passagers et assurez-vous qu’ils vivent un voyage confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F29FDWS5{{</world>}}

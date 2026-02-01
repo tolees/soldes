@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - GEL-CRÈME HYDRATANT À LEAU DALOE VERA ACTIVÉE + CICA : Offre une hydratation intense et apaise la peau sèche et délicate.
 - SOIN VISAGE RÉCONFORTANT : Garde la peau hydratée, éclatante, repulpée et douce comme du velours.
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
-- HYDRATATION IMMÉDIATE ET DURABLE : Ce soin hydratant visage gorge la peau dun boost dhydratation instantané. Garde la peau hydratée pendant 72 heures.
 - FORMULE RICHE : Notre formule la plus riche offre une hydratation continue et la retient dans la peau.
+- HYDRATATION IMMÉDIATE ET DURABLE : Ce soin hydratant visage gorge la peau dun boost dhydratation instantané. Garde la peau hydratée pendant 72 heures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XF67W1W{{</world>}}

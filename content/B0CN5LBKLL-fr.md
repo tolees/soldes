@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'SAMSUNG Tablette Tactile Galaxy Tab A9 64 Go WiFi Graphite'
-date: 2026-01-30 21:06:05
+date: 2026-02-01 07:57:09
 image: 'https://m.media-amazon.com/images/I/31OU1YXypZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0CN5LBKLL-fr SAMSUNG Tablette Tactile Galaxy Tab A9 64 Go WiFi Graphite'
 sku: 'B0CN5LBKLL-fr'
-tags: [ '99febcdd-8e39-4093-b93f-17933dab1062_0','99febcdd-8e39-4093-b93f-17933dab1062_1401','Arborist Merchandising Root','High-Tech','Informatique','Les produits préférés de nos clients : High-Tech','Les produits préférés de nos clients : Ordinateurs portables et accessoires','Self Service','Special Features Stores','Tablettes tactiles','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_0','e82e115f-0286-40b1-a57b-b0cbf8a5fa5d_2901','node 1','node 4','samsung','🇫🇷', ]
-actualPrice: 127.9 EUR
+tags: [ '🇫🇷', ]
+actualPrice: 126.4 EUR
 currency: EUR
-price: 127.9
+price: 126.4
 comparePrice: 189.0 EUR
 prodname: 'SAMSUNG Tablette Tactile Galaxy Tab A9 64 Go WiFi Graphite'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Samsung'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0CN5LBKLL/?tag=tolees0d-21'
-descuento: '32.33'
-average: '115.102000000001'
+descuento: '33.12'
+average: '116.519411764707'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

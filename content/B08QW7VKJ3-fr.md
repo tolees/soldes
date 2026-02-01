@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils dentretien : lavage en machine
 - Que vous soyez d entraînement à la maison ou en compétition sur le terrain
 - Ajuster la norme pour un confort détendu
+- Conseils dentretien : lavage en machine
+- Type de tissu : 82 % coton, 18 % polyester
 - Les poignets et lourlet aident à maintenir le haut en place comme vous le déplacez
 - Cagoulé de larme pour ajuster le toit
-- Type de tissu : 82 % coton, 18 % polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QW7VKJ3{{</world>}}

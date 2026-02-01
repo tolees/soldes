@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Longueur : 35cm
+- produit 2: En résine avec manche imitation « bois »
 - produit 1: filtre
 - produit 2: Sous licence Officielle Harry Potter
-- produit 2: En résine avec manche imitation « bois »
 - produit 2: Reproduction exacte de la baguette du célèbre sorcier Harry Potter.
+- produit 2: Longueur : 35cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BSMQVM6H{{</world>}}

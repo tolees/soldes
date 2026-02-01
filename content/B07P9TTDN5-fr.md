@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets élastiques recyclés pour un ajustement facile (71 % PET recyclé - 29 % latex)
 - Couleur : noir
 - Semelle extérieure/caractéristiques : EVA pour un poids léger
 - Coutures à 360° pour plus de durabilité
+- Lacets élastiques recyclés pour un ajustement facile (71 % PET recyclé - 29 % latex)
 - Dessus : cuir de veau / tissu technique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

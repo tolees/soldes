@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Skechers Slip-mains libres pour un ajustement facile
 - Tige synthétique avec lacets élastiques
+- Skechers Slip-mains libres pour un ajustement facile
 - Skechers Semelle intérieure rembourrée en mousse à mémoire de forme refroidie par air
 - Skechers Coupe classique
 

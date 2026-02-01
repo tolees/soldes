@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige ripstop avec empiècements
-- Semelle intermédiaire en EVA LIGHTMOTION
-- Chaussant standard
 - Poids : 460 g (pointure FR 42 2/3)
-- Semelle extérieure en caoutchouc Continental
 - Doublure textile
+- Chaussant standard
+- Semelle intermédiaire en EVA LIGHTMOTION
+- Tige ripstop avec empiècements
+- Semelle extérieure en caoutchouc Continental
 - Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
 - Fermeture à lacets
 

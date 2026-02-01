@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques supplémentaires : frein avant à commande manuelle et béquille rétractabl
-- Edad:8+, Poids maximum : 54 kg.
-- Cadre et fourche légers, tout en acier, et pneu arrière sans chambre à air, pour une conduite solide.
-- Batterie: 12V 7Ah
 - La technologie innovante Power Core comprend un moteur de moyeu de 85 watts, sans entretien, à couple élevé, qui permet daccélérer en douceur jusquà 16 km/h en appuyant sur laccélérateur.
+- Batterie: 12V 7Ah
+- Edad:8+, Poids maximum : 54 kg.
+- Caractéristiques supplémentaires : frein avant à commande manuelle et béquille rétractabl
+- Cadre et fourche légers, tout en acier, et pneu arrière sans chambre à air, pour une conduite solide.
 - Les roues arrière motrices offrent un meilleur contrôle de léquilibre et une meilleure traction pour une conduite plus sûre et plus stable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

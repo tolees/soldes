@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fonction de chauffage
 - Stockage câble
+- Couleur écorce réglable
 - Bouton Stop/Annuler
 - Fonction dégivrage
-- Couleur écorce réglable
 - Plateau à miettes amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

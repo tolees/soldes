@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maille sur le dos et sur les manches pour une bonne circulation de lair, afin que vous puissiez
-- Technologie Dri-Fit pour rester au sec et à laise
-- Department: Garçon
 - Coupe standard pour un confort décontracté et facile
+- Maille sur le dos et sur les manches pour une bonne circulation de lair, afin que vous puissiez
+- Department: Garçon
+- Technologie Dri-Fit pour rester au sec et à laise
 - Ce produit est composé à 100 % de polyester recyclé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

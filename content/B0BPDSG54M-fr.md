@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture : fermeture éclair
-- Semelle : éthylène-acétate de vinyle
 - Matériau extérieur : cuir
+- Semelle : éthylène-acétate de vinyle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPDSG54M{{</world>}}

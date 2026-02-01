@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
 - Niveau de résistance à leau : non étanche
+- Forme du talon : plat
 - Fermeture : lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})

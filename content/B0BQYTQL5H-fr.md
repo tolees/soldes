@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maniement facile grâce à la fonction Push&Go : exercez une légère pression sur la visseuse pour lancer le vissage
-- Plus de contrôle grâce à la fonction de réglage du couple et à la direction rotative
-- Contenu de la livraison : PushDrive, 10 embouts de vissage, câble de chargeur micro-USB, livré dans un carton
 - Possibilité de réglage fin par serrage manuel après blocage du porte-embout
+- Maniement facile grâce à la fonction Push&Go : exercez une légère pression sur la visseuse pour lancer le vissage
 - Temps de charge courts et options de connexion flexibles avec le câble micro-USB
+- Contenu de la livraison : PushDrive, 10 embouts de vissage, câble de chargeur micro-USB, livré dans un carton
+- Plus de contrôle grâce à la fonction de réglage du couple et à la direction rotative
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQYTQL5H{{</world>}}

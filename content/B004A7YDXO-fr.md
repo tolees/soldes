@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure flexible
+- Semelle extérieure légère
 - Rembourrage sous la semelle intérieure
+- Semelle extérieure flexible
 - Fermeture Velcro
 - Anti-stress
-- Semelle extérieure légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004A7YDXO{{</world>}}

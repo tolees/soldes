@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage :
-- Faciles à porter
-- Légères
 - Flexible
 - Recyclage
+- Faciles à porter
+- Rembourrage :
+- Légères
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQNXKDT{{</world>}}

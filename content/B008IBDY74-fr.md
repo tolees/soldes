@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LOTION EXFOLIANTE 1.0 : Formule extra-douce et sans alcool pour peaux sensibles.
-- EXFOLIANT VISAGE QUOTIDIEN DOUX : Élimine pollution, impuretés et cellules mortes. En purifiant la peau, elle permet à vos autres soins de mieux pénétrer.
-- UNE PEAU PLUS ÉCLATANTE : La Lotion Exfoliante de Clinique élimine pollution et cellules mortes pour une peau visiblement plus lumineuse et plus saine.
 - DÉVELOPPÉ PAR DES DERMATOLOGUES : En 5 formules adaptées à chaque type de peau. Trouvez la vôtre.
+- EXFOLIANT VISAGE QUOTIDIEN DOUX : Élimine pollution, impuretés et cellules mortes. En purifiant la peau, elle permet à vos autres soins de mieux pénétrer.
 - LOTION EXFOLIANTE 2 : Douce, pour les peaux sèches à mixtes.
+- LOTION EXFOLIANTE 1.0 : Formule extra-douce et sans alcool pour peaux sensibles.
+- UNE PEAU PLUS ÉCLATANTE : La Lotion Exfoliante de Clinique élimine pollution et cellules mortes pour une peau visiblement plus lumineuse et plus saine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008IBDY74{{</world>}}

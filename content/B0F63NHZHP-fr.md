@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
-- VOTRE RITUEL PERFECTEUR : Appliquez le soin anti-taches Skin Glow Liquid Refiner matin et soir sur peau propre et sèche, avant votre soin habituel. Pour booster l’éclat de votre peau, utilisez-le en duo avec le Serum Skin Glow.
-- DES RESULTATS PROUVES : La peau est plus lisse, uniforme et éclatante dès 7 jours. Combiné au sérumSkin Glow, il offre 4 effets visibles : uniformité, pores affinés, exfoliation douce et hydratation fraîche intense.
 - POUR UN GLOW INSTANTANE : Le Liquid Refiner NIVEA Luminous 630 réduit visiblement les taches, affine les pores et révèle un teint éclatant. Sa formule légère et rapidement absorbée booste instantanément la lumière naturelle de la peau.
+- DES RESULTATS PROUVES : La peau est plus lisse, uniforme et éclatante dès 7 jours. Combiné au sérumSkin Glow, il offre 4 effets visibles : uniformité, pores affinés, exfoliation douce et hydratation fraîche intense.
 - COMPLEXE EXFOLIANT ET HYDRATANT : Formulé avec 4 % d’AHA pour stimuler le renouvellement cellulaire, 1 % de PHA pour une exfoliation douce, et de l’aloe vera pour une hydratation et fraîcheur immédiates, même sur les peaux sensibles.
+- VOTRE RITUEL PERFECTEUR : Appliquez le soin anti-taches Skin Glow Liquid Refiner matin et soir sur peau propre et sèche, avant votre soin habituel. Pour booster l’éclat de votre peau, utilisez-le en duo avec le Serum Skin Glow.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F63NHZHP{{</world>}}

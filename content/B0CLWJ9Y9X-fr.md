@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir et textile imperméables. Construction Omni-Tech imperméable et respirante. Isolation de 200 g.
 - Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
 - Caoutchouc de traction Omni-Grip non marquant
+- Cuir et textile imperméables. Construction Omni-Tech imperméable et respirante. Isolation de 200 g.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLWJ9Y9X{{</world>}}

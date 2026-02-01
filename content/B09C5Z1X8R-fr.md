@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Loreal professionnel série expert vitamino color masque capillaire resvératrol
-- Format - Grand format
 - Type de produits cheveux - Masque
-- Action soin capillaire - Protéger la couleur
 - Type de cheveux - Cheveux colorés
+- Format - Grand format
+- Action soin capillaire - Protéger la couleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09C5Z1X8R{{</world>}}

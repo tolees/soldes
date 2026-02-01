@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard pour une sensation détendue et facile
-- La capuche avec cordon de serrage vous permet dajuster votre couverture.
 - Poche avant
 - Poche kangourou sur le devant
+- La capuche avec cordon de serrage vous permet dajuster votre couverture.
 - Poignets et ourlet côtelés pour maintenir le sweat à capuche en place
 - Zip entier
+- Coupe standard pour une sensation détendue et facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QZ6Q5WQ{{</world>}}

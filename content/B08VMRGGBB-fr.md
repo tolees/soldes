@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 patte de boutonnage
+- tricot classique en piquŽ
 - Benne contraste avec les manches et le col
 - 100% Coton
-- tricot classique en piquŽ
+- 3 patte de boutonnage
 - coupe pr s du corps
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

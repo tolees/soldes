@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce véhicule de Technopolis se transforme et peut tirer des projectiles.
 - Super 4 ce sont : de vraies aventures, du danger, du suspense et des victoires extraordinaires. Technopolis est lîle des inventions. Ses habitants ne samusent JAMAIS car rire ne sert à rien de concret ! Stressés et paranoïaques, ils soupçonnent du pire tout ce qui peut exister en dehors de leur bulle. Les Technopoliens ne saventurent à lextérieur quen tenue de bio-survie. Le véhicule de Technopolis se transforme et peut tirer des projectiles.
+- Ce véhicule de Technopolis se transforme et peut tirer des projectiles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00VLVNZLS{{</world>}}

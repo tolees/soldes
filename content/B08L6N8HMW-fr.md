@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Téléviseur intelligent 43 pouces avec résolution HD, HDR, compatible PVR, Wi-Fi intégré, Bluetooth, boutique dapplications VIDAA, Disney+, Paramount+ et application Amazon Prime Video
-- Extra net : avec la télévision HD, profitez de vos programmes TV dans une qualité dimage optimale !
 - La télévision nouvelle génération : avec la Smart TV de MEDION, profitez dInternet dans votre salon : applications, services de streaming, actualités et bien plus encore !
+- Extra net : avec la télévision HD, profitez de vos programmes TV dans une qualité dimage optimale !
 - Confort absolu : grâce au lecteur multimédia intégré, vous pouvez facilement profiter de vos photos et vidéos sur grand écran.
 - Contenu de la livraison : MEDION LIFE P8432501 MD843101 Smart TV, pieds avec vis, télécommande avec piles (AAA), mode demploi
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure caoutchouc
-- Empeigne empeigne en caoutchouc avec logo ROXY
 - Assise plantaire assise plantaire en caoutchouc texturé
+- Empeigne empeigne en caoutchouc avec logo ROXY
+- Semelle extérieure caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SQRQZ4R{{</world>}}

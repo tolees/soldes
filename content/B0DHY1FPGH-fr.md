@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Type: Smartphone
 - - Weight: 204 / 207 / 211 g
 - - Network GSM / HSPA / LTE
+- - Type: Smartphone
 - - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - - Dimensions: 71.9 x 77.8 x 8.2 mm
 

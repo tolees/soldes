@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enhanced Displays: Youll never struggle wing your custom controls with the illuminated buttons and an integrated LCD display, with adjustable backlighting and information on your configurations
 - Realistic Flying: This flight stick and throttle pair features magnetic non-contact X and Y axis sensors and dual spring centring mechanism, with an integrated LCD display
 - Customisable Rudder Control: The gaming flight stick comes with 3D twist rudder controls - with a choice of disabling the twist capabilities and confining input to X and Y axes
+- Enhanced Displays: Youll never struggle wing your custom controls with the illuminated buttons and an integrated LCD display, with adjustable backlighting and information on your configurations
 - Complete Comfort: This flight joystick features a 5-position handle adjusent system, conforming and contoured to your preferred grip style and hand size
 - Customisable Rudder Control: The gaming flight stick comes with 3D twist rudder controls - with a choice of disabling the twist capabilities and confining input to X and Y axes.Powerful Programming: Users can download the customisable software and configure the controls to best suit their piloting style
 

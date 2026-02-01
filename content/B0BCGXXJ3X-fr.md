@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure synthétique
 - Semelle cupsole en caoutchouc
-- Fermeture à lacets
+- Doublure synthétique
 - Tige en matière synthétique
+- Fermeture à lacets
 - Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})

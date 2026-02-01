@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction en acier
 - Facile à assembler
 - La finition est idéale dans nimporte quel espace
+- Construction en acier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005YU2ZUE{{</world>}}

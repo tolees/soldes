@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ras du cou
-- Age range description : Adulte
-- Matériel : 57% coton - 43% polyester
 - Department : Homme
-- Sport type : Football américain
-- Conduite un maximum de confort pendant lentraînement ou la compétition
+- Age range description : Adulte
 - 57 % coton, 43 % polyester
+- Matériel : 57% coton - 43% polyester
+- Sport type : Football américain
+- Ras du cou
+- Conduite un maximum de confort pendant lentraînement ou la compétition
 - Fabriqué en tissu doux, respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

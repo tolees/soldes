@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : textile
-- Doublure : doublure froide
-- Largeur de la chaussure : large
-- Matériau extérieur : cuir
 - Fermeture : synthétique
+- Matériau extérieur : cuir
+- Doublure : doublure froide
 - Forme du talon : plat
+- Largeur de la chaussure : large
+- Matériau intérieur : textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W3PL1JZ{{</world>}}

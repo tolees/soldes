@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige robuste en cuir velours
+- Crochets métalliques pour faciliter le laçage
 - TEXAPORE CORE - protection fiable contre les intempéries, imperméable et respirant
 - protection cousue des orteils et du talon
-- Crochets métalliques pour faciliter le laçage
-- Tige robuste en cuir velours
 - Semelle intermédiaire amortissante en EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

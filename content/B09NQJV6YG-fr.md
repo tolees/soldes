@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : caoutchouc
 - Matériau intérieur : synthétique
+- Fermeture : caoutchouc
 - Matériau extérieur : cuir breveté
 - Forme du talon : plat
 

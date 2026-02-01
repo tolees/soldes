@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cuir responsable
 - Cuir souple
 - Poids léger
-- Cuir responsable
 - Confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

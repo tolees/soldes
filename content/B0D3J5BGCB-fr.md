@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fin et léger, le Smart Folio pour iPad Pro protège à la fois l’avant et l’arrière de votre appareil.
-- Elle réveille votre iPad dès que vous la soulevez, et le remet en veille lorsque vous la rabattez.
 - Le Smart Folio se fixe de façon magnétique et se plie facilement de plusieurs façons pour vous offrir un support idéal pour lire, mais aussi écrire, regarder un film ou passer des appels FaceTime.
+- Elle réveille votre iPad dès que vous la soulevez, et le remet en veille lorsque vous la rabattez.
+- Fin et léger, le Smart Folio pour iPad Pro protège à la fois l’avant et l’arrière de votre appareil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3J5BGCB{{</world>}}

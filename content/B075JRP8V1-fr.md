@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En tissu nylon avec poignée renforcée.
 - Taille universelle (15-19). Sajuste par lien coulissant pour tout type de pneus et de roues.
 - Permet de transporter et de ranger les roues plus facilement et sans se salir.
+- En tissu nylon avec poignée renforcée.
 - 4 Housses de rangement pour les roues ou les pneus.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

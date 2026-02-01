@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
-- Caoutchouc
 - Synthetic
+- Caoutchouc
+- Plat
 - Enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})

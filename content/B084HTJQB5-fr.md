@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VESPA PRIMAVERA : Le jouet à enfourcher de Chicco avec beaucoup de style; le design original de la Vespa Primavera permettra à votre enfant de vivre des aventures passionnantes et des moments amusants en toute liberté
 - MODE CONDUITE FACILE : Conçu pour les petits (12 mois et plus), le mode conduite facile permet dajouter des roues de soutien pour se déplacer en toute sécurité
+- VESPA PRIMAVERA : Le jouet à enfourcher de Chicco avec beaucoup de style; le design original de la Vespa Primavera permettra à votre enfant de vivre des aventures passionnantes et des moments amusants en toute liberté
 - GRANDIT AVEC LENFANT : La Vespa Primavera de Chicco est conçue pour grandir avec lenfant, grâce aux confortables roues de soutien qui peuvent être enlevées lorsque lenfant est devenu un conducteur expérimenté
 - MODE CONDUITE LIBRE : Dédié aux conducteurs expérimentés (18 mois et plus), le mode conduite libre permet denlever les roues de soutien pour partir à laventure; Conçue et fabriquée en Italie
 - PANNEAU ELECTRONIQUE : Avec des détails et des sons réalistes pour une expérience complète ; tournez la clé pour entendre le rugissement du moteur, faites le plein de votre Vespa et jouez avec les boutons sonores et les lumières colorées

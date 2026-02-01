@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dossiers de portefeuille
-- Avec la certification FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière responsable.
 - Comprend un remplacement de feuilles carrées (120 feuilles de 90 g/m²).
+- Avec la certification FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière responsable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F7GTSXZL{{</world>}}

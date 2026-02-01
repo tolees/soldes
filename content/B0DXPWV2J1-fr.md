@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est recommandé de ne pas manipuler le produit tant que la garantie est en vigueur. En effet, la manipulation de léquipement entraîne la fin de la garantie, le client étant responsable de la réparation et des dommages ou pannes que la mauvaise manipulation de léquipement pourrait entraîner.
 - Pack de 4 serpillières compatibles avec le robot Conga 15090 / 16090 / 20090.
 - Il est important de réaliser le nettoyage et lentretien des différents composants du produit, en suivant à tout moment les instructions du manuel, pour garantir son bon fonctionnement.
 - La durée de vie des consommables dépend de leurs conditions dutilisation et de nettoyage ; en règle générale, il faut procéder à leur remplacement lorsquils sont en mauvais état.
+- Il est recommandé de ne pas manipuler le produit tant que la garantie est en vigueur. En effet, la manipulation de léquipement entraîne la fin de la garantie, le client étant responsable de la réparation et des dommages ou pannes que la mauvaise manipulation de léquipement pourrait entraîner.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXPWV2J1{{</world>}}

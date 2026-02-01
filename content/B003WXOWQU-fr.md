@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Peut contenir 200 cure-dents ronds (non inclus)
-- Design Coca-Cola classique
 - Un ajout élégant à nimporte quelle cuisine ou table
-- Construction en plastique robuste avec accents chromés
+- Peut contenir 200 cure-dents ronds (non inclus)
 - Dimensions approximatives : 11,4 x 8,9 x 6,3 cm
+- Design Coca-Cola classique
+- Construction en plastique robuste avec accents chromés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003WXOWQU{{</world>}}

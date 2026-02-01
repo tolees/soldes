@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Liberté de mouvement absolue
-- Aide à rester au sec
-- Gestion efficace de lhumidité
 - Très confortable à porter
 - Confortable
+- Gestion efficace de lhumidité
 - Tissu absorbant
+- Liberté de mouvement absolue
+- Aide à rester au sec
 - Marque : Nike
 
 [🛒 Achète-le!!]({{< param buyurl >}})

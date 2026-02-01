@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de nombre dunités : millilitre
 - Fabriqué avec un design compact, facile à transporter
 - Il peut répondre à différents besoins
+- Type de nombre dunités : millilitre
 - Brosse à dents junior bambou - vert
 
 [🛒 Achète-le!!]({{< param buyurl >}})

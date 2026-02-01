@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu Cordura. Construction Omni-Tech imperméable et respirante. Isolation de 200 g
 - Doublure réfléchissante Omni-Heat.
-- Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
 - Caoutchouc de traction Omni-Grip non marquant
+- Tissu Cordura. Construction Omni-Tech imperméable et respirante. Isolation de 200 g
+- Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLWTZ9VR{{</world>}}

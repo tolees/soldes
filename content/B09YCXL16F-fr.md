@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure flexible
 - Talon de 3,2 cm
 - Skechers Mains libres pour un ajustement facile
 - Dessus en maille jersey avec lacets extensibles
-- Semelle extérieure flexible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YCXL16F{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 100360 - Tableau adhésif en rouleau effaçable et repositionable - Dimensions: 2 m x1 m'
-date: 2026-01-31 03:01:57
+date: 2026-02-01 06:36:55
 image: 'https://m.media-amazon.com/images/I/21AqRWBek-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B013DHOIX6/?tag=tolees0d-21'
 descuento: '22.44'
-average: '25.8067499999998'
+average: '25.7940476190474'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Agipa Weiáwandtafel-Rolle, Mae: 1,000 x 2,000 mm
 - Poids du paquet: 460 grammes
 - Rouleau de tableau blanc agipa - Dimensions : 1000 x 2000 mm
+- Agipa Weiáwandtafel-Rolle, Mae: 1,000 x 2,000 mm
 - Fabriqué en : Chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

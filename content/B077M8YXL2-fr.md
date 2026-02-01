@@ -33,8 +33,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Ajustement amélioré
 - Puma Smash Baskets
 - Tige en suède
-- Dessus en cuir souple
 - Semelle extérieure en caoutchouc durable et antidérapante
+- Dessus en cuir souple
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B077M8YXL2{{</world>}}

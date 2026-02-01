@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONNECTIVITÉ WI-FI 6E - La connectique réseau inclut le Wi-Fi 6E avec Bluetooth 5.2 et et LAN 2,5 Gb/s ; les ports arrière incluent USB Type C 3.2 Gen 2x2 (20 Gb/s), HDMI 2.1, et son 7.1 Haute Définition avec Audio Boost 5 (support de la sortie S/PDIF).
-- REFROIDISSEMENT INTÉGRÉ - Pads thermiques 7W/mK et radiateur étendu pour le VRM, radiateur pour le chipset, M.2 Shield Frozr, header dédié à la pompe et circuit imprimé à 6 couches de 2 onces de cuivre.
 - CONNECTEURS M.2 - Les possibilités de stockage sont composées dun slot M.2 Gen5 x4 128 Gb/s et de deux slots M.2 Gen4 x4 64 Gb/s avec Shield Frozr pour éviter le throttling des disques SSD.
-- VRM PUISSANT, PARÉ pour les Ryzen 9000 - La MPG B650 EDGE WIFI utilise une alimentation double rail 14+2 phases avec Smart Power Stage 80A pour son chipset AMD B650 (AM5, compatible Ryzen 7000 à 9000) ; larchitecture Core Boost supporte loverclockin
+- REFROIDISSEMENT INTÉGRÉ - Pads thermiques 7W/mK et radiateur étendu pour le VRM, radiateur pour le chipset, M.2 Shield Frozr, header dédié à la pompe et circuit imprimé à 6 couches de 2 onces de cuivre.
 - MEMOIRE DDR5, DEUX SLOTS PCI-E 4.0 x16 - 4 slots DDR5 DIMM SMT permettent un overclocking extrême de la mémoire (1DPC 1R, 6600+ MHz) ; 2 slots PCI-E 4.0 x16 (64 Gb/s) sont prévus pour les cartes graphiques.
+- VRM PUISSANT, PARÉ pour les Ryzen 9000 - La MPG B650 EDGE WIFI utilise une alimentation double rail 14+2 phases avec Smart Power Stage 80A pour son chipset AMD B650 (AM5, compatible Ryzen 7000 à 9000) ; larchitecture Core Boost supporte loverclockin
+- CONNECTIVITÉ WI-FI 6E - La connectique réseau inclut le Wi-Fi 6E avec Bluetooth 5.2 et et LAN 2,5 Gb/s ; les ports arrière incluent USB Type C 3.2 Gen 2x2 (20 Gb/s), HDMI 2.1, et son 7.1 Haute Définition avec Audio Boost 5 (support de la sortie S/PDIF).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDS4BYTR{{</world>}}

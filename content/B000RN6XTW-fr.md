@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EAU DE COLOGNE FRAÎCHE ET VIVE : Un parfum hespéridé pour homme. LEau de Toilette Happy For Men est un mélange léger et stimulant de citron vert, de brise marine et de cyprès.
-- NOTES DE CŒUR : Accord de brise marine, notes vertes.
-- NOTES DE TÊTE : Combava, mandarine.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - NOTES DE FOND : Bois de cèdre, cyprès.
+- NOTES DE CŒUR : Accord de brise marine, notes vertes.
+- EAU DE COLOGNE FRAÎCHE ET VIVE : Un parfum hespéridé pour homme. LEau de Toilette Happy For Men est un mélange léger et stimulant de citron vert, de brise marine et de cyprès.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
+- NOTES DE TÊTE : Combava, mandarine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000RN6XTW{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ADAPTÉ AUX ENFANTS ET POUR TOUTE LA FAMILLE : Les règles simples se comprennent en 5 minutes et les parties durent de 30 à 60 minutes. Tout cela en fait un jeu de société idéal pour les enfants dès 8 ans. De 2 à 5 joueurs, vous pourrez jouer à ce jeu de stratégie en famille ou entre amis
-- STRATÉGIE ET RÉFLEXION : Un jeu de plateau qui vous permettra de planifier vos itinéraires et collecter les cartes de train au dépens de vos adversaires. Plus votre route sera longue,plus vous relierez de lointaines destinations,plus vous marquerez de points de victoire.
 - VERSION EUROPE : Une Version du jeu de société à succès et passionnant pour parcourir les célèbres villes européénnes et découvrir les merveilles du continent.Plongez-vous dans le XIXe siècle et la fascinante épopée de la construction des chemins de fer. Sauterez vous à bord du premier train à senfoncer dans les tunnels des carpates ou embarquerez vous plutôt à bord dun ferry direction la Mer Noire ? Votre réputation de baron du rail est en jeu, faites les bons choix! Ce jeu est en français. Des extensions sont disponibles pour développer cette version
 - CONTENU DE QUALITÉ : Inclus : 1 plateau représentant le réseau ferroviaire européen, 240 wagons de couleur, 15 gares de couleur, 110 cartes wagon, 46 cartes destination, 5 marqueurs de score en bois, 1 livret de règles
+- ADAPTÉ AUX ENFANTS ET POUR TOUTE LA FAMILLE : Les règles simples se comprennent en 5 minutes et les parties durent de 30 à 60 minutes. Tout cela en fait un jeu de société idéal pour les enfants dès 8 ans. De 2 à 5 joueurs, vous pourrez jouer à ce jeu de stratégie en famille ou entre amis
 - JOUEZ AVEC ALEXA : Grâce à la compatibilité avec Alexa, profitez dune expérience de jeu interactive et super ludique. Laissez-vous guider par la voix de lassistant virtuel. Vos enfants vont adorer pouvoir interroger et jouer avec Alexa
+- STRATÉGIE ET RÉFLEXION : Un jeu de plateau qui vous permettra de planifier vos itinéraires et collecter les cartes de train au dépens de vos adversaires. Plus votre route sera longue,plus vous relierez de lointaines destinations,plus vous marquerez de points de victoire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000NJL2GO{{</world>}}

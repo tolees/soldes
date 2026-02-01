@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : bleu foncé
-- Matériau extérieur : 100 % tissu (PET 100 % recyclé)
-- Meilleures semelles extérieures, synthétiques recyclés
 - Matériau de la semelle : 80 % EVA - 20 % EVA recyclé
+- Matériau extérieur : 100 % tissu (PET 100 % recyclé)
+- Couleur : bleu foncé
 - Matériau intérieur : 100 % tissu (PET 100 % recyclé)
+- Meilleures semelles extérieures, synthétiques recyclés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8K27DKV{{</world>}}

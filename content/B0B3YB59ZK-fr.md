@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ENREGISTREMENT AUDIO DE HAUTE QUALITÉ : Profitez dun enregistrement audio clair et de la réduction des bruits indésirables : ce micro Sony offre un enregistrement vocal de haute qualité et dune grande netteté.
-- SANS CABLES ET SANS PILE : Le micro sans câbles vous offre une plus grande mobilité. Utilisez ce micro pour le vlogging ou la création de contenu... et ne vous souciez jamais de la durabilité de la batterie lorsque vous êtes en déplacement.
 - COMPACT & PORTABLE : Grâce à sa taille compacte, ce micro canon est facile à transporter et à utiliser partout et à tout moment.
 - POLYVALENT : Un micro compact 3 en 1 offrant une réelle adaptabilité. Il est idéal pour les interviews et le Vlog (super-directionnel), les discussions (unidirectionnel) et les environnements sonores (omnidirectionnel).
+- SANS CABLES ET SANS PILE : Le micro sans câbles vous offre une plus grande mobilité. Utilisez ce micro pour le vlogging ou la création de contenu... et ne vous souciez jamais de la durabilité de la batterie lorsque vous êtes en déplacement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3YB59ZK{{</world>}}

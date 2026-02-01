@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tapis imprimé, revêtement déperlant (n’absorbe pas l’eau) sous licence officielle Harry Potter idéal pour les fans et les gamers exigeants.
-- Base en caoutchouc antidérapante pour une adhérence maximum.
-- Protège le bureau et offre une grande liberté de mouvements.
 - Taille 90 cms x 40 cms. Epaisseur 3 mms.
 - Finition soignée avec bords cousus.
+- Protège le bureau et offre une grande liberté de mouvements.
+- Base en caoutchouc antidérapante pour une adhérence maximum.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6Y9JKDD{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Chaussures de sécurité ELTEN dUedem (Allemagne) - Qualité du Bas-Rhin - Entreprise familiale depuis 1910
+- Coupe : normale - Taille : normale pour les chaussures de sécurité, commander une taille en dessous de celle des chaussures de sport/loisirs
+- Semelle TPU/PU MAXXIMO - embout acier
 - chaussures de travail confortables et de haute qualité pour hommes - certifiées selon la norme EN ISO 20345 - approuvées selon la norme DGUV112-191 pour les semelles orthopédiques (inserts) - numéro darticle : 729505
 - Chaussure de sécurité - Tige en textile/microfibre - Doublure : Doublure textile respirante - Languette rembourrée - Semelle intérieure pleine surface SPORTIVE ESD noir
-- Semelle TPU/PU MAXXIMO - embout acier
-- Coupe : normale - Taille : normale pour les chaussures de sécurité, commander une taille en dessous de celle des chaussures de sport/loisirs
-- Chaussures de sécurité ELTEN dUedem (Allemagne) - Qualité du Bas-Rhin - Entreprise familiale depuis 1910
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07TL7D2JK{{</world>}}

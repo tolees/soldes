@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double connexion sans fil pour une compatibilité multi-plateforme
-- Commandes audio intuitives
-- Jusqu’à 25 heures d’autonomie; Confort HyperX toute la journée
-- Son signé HyperX
 - Micro pivotant avec coupure audio automatique
+- Jusqu’à 25 heures d’autonomie; Confort HyperX toute la journée
+- Commandes audio intuitives
+- Son signé HyperX
+- Double connexion sans fil pour une compatibilité multi-plateforme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXQ8X9GT{{</world>}}

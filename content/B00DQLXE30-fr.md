@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nanoblock Pokemon Pikachu NBPM-001 Bandai'
-date: 2026-01-30 14:17:31
+date: 2026-02-01 07:07:47
 image: 'https://m.media-amazon.com/images/I/41qA3p+nbVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00DQLXE30-fr Nanoblock Pokemon Pikachu NBPM-001 Bandai'
 sku: 'B00DQLXE30-fr'
-tags: [ '83ff1e68-c415-4449-8299-a2f510e58f32_0','83ff1e68-c415-4449-8299-a2f510e58f32_7301','83ff1e68-c415-4449-8299-a2f510e58f32_8701','83ff1e68-c415-4449-8299-a2f510e58f32_901','Arborist Merchandising Root','Building & Construction','CML-Toys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux, jouets et objets de collection pour grands enfants','Manga&Animé','Pokémon','Self Service','Sets de jeux de construction','Special Features Stores','Toys All','nanoblock','🇫🇷', ]
+tags: [ '🇫🇷', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8
@@ -16,10 +16,10 @@ comparePrice: 14.9 EUR
 prodname: 'Nanoblock Pokemon Pikachu NBPM-001 Bandai'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'nanoblock'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DQLXE30/?tag=tolees0d-21'
 descuento: '40.94'
-average: '9.76333333333341'
+average: '9.70828571428578'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age range description: enfant
 - Licence officielle
-- Collecter, créer et afficher votre pokemon
-- Comprend des instructions détaillées
 - Construisez votre propre pokemon pikachu
+- Comprend des instructions détaillées
+- Collecter, créer et afficher votre pokemon
+- Age range description: enfant
 - Is assembly required: true
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

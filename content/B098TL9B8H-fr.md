@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues
+- Coupe super ajustée
 - Les revers et les boutons brillent un peu
 - Blazer croisé et pantalon de tailleur
-- Coupe super ajustée
-- Entièrement doublé
 - Super Slim Fit
+- Entièrement doublé
+- Manches longues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098TL9B8H{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Set de construction pour adulte – Ce set collector LEGO de décoration intérieure est un superbe cadeau danniversaire pour un adulte créatif amoureux de lItalie et passionné d’histoire, d’architecture et de voyages
+- Instructions étape par étape – Retrouvez les instructions de montage dans le livret inclus, qui présente l’histoire de la fontaine de Trevi, ou consultez la version numérique sur l’application LEGO Builder
+- Fontaine de Trevi LEGO à construire pour adulte – Savourez chaque étape de la construction de cette maquette de la fontaine de Trevi, monument baroque iconique de Rome, avec ses 1 880 briques LEGO
 - Maquette LEGO réaliste et détaillée – Admirez la façade du palais Poli en arrière-plan, les détails des statues, les mini hippocampes et la petite « fontaine des amoureux », ainsi que les autres accessoires qui viennent compléter la maquette
 - Souvenir d’Italie à exposer à la maison ou au bureau – Placez les lampadaires et bollards à construire à l’avant de la fontaine et fixez la plaque nominative à la base du monument avant de l’exposer
-- Beau souvenir pour les amateurs d’histoire et de voyages – Cette maquette permet de recréer l’emblématique fontaine de Rome dans toute sa splendeur en utilisant de nouvelles techniques de construction
-- Fontaine de Trevi LEGO à construire pour adulte – Savourez chaque étape de la construction de cette maquette de la fontaine de Trevi, monument baroque iconique de Rome, avec ses 1 880 briques LEGO
 - Sets LEGO pour adultes – Cette maquette LEGO Architecture fait partie d’une série de sets de construction d’exception destinés aux adultes qui apprécient les loisirs créatifs
-- Instructions étape par étape – Retrouvez les instructions de montage dans le livret inclus, qui présente l’histoire de la fontaine de Trevi, ou consultez la version numérique sur l’application LEGO Builder
+- Set de construction pour adulte – Ce set collector LEGO de décoration intérieure est un superbe cadeau danniversaire pour un adulte créatif amoureux de lItalie et passionné d’histoire, d’architecture et de voyages
+- Beau souvenir pour les amateurs d’histoire et de voyages – Cette maquette permet de recréer l’emblématique fontaine de Rome dans toute sa splendeur en utilisant de nouvelles techniques de construction
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSD22WP{{</world>}}

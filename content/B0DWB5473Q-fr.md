@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jeux inclus : Legacy of Kain : Soul Reaver & Legacy of Kain : Soul Reaver 2
+- Au-delà du jeu physique Legacy of Kain Soul Reaver 1&2 Remastered sur Nintendo Switch ou PlayStation 5, lDeluxe Edition comprend les éléments exclusifs suivants :
+- Un Steelbook orné de magnifiques motifs du jeu; Un artbook à couverture souple, mettant en valeur les environnements gothiques remasterisés, l’architecture, les personnages, les ennemis, les armes, ainsi que les illustrations conceptuelles et clés du jeu; La bande-son officielle sur un CD physique; Une boîte de collection élégante contenant tous les éléments.
 - Revivez l’aventure légendaire : Des siècles après avoir été trahi et exécuté par Kain, votre ancien maître, vous revenez d’entre les morts, assoiffé de vengeance.
 - Maîtrisez les pouvoirs d’un spectre : Terrassez vos anciens frères vampires avec vos griffes, des éclairs d’énergie télékinésique et les pouvoirs élémentaires de la Lame Spectrale. Développez vos capacités en dévorant les âmes de vos ennemis.
-- Au-delà du jeu physique Legacy of Kain Soul Reaver 1&2 Remastered sur Nintendo Switch ou PlayStation 5, lDeluxe Edition comprend les éléments exclusifs suivants :
-- Jeux inclus : Legacy of Kain : Soul Reaver & Legacy of Kain : Soul Reaver 2
-- Un Steelbook orné de magnifiques motifs du jeu; Un artbook à couverture souple, mettant en valeur les environnements gothiques remasterisés, l’architecture, les personnages, les ennemis, les armes, ainsi que les illustrations conceptuelles et clés du jeu; La bande-son officielle sur un CD physique; Une boîte de collection élégante contenant tous les éléments.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWB5473Q{{</world>}}

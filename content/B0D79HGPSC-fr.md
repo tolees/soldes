@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort au quotidien
-- Collaboration spéciale Kei
-- partie supérieure de qualité supérieure
 - Amorti en gel
+- Collaboration spéciale Kei
+- Confort au quotidien
+- partie supérieure de qualité supérieure
 - Design de style de vie exclusif
 
 [🛒 Achète-le!!]({{< param buyurl >}})

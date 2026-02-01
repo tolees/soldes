@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’ENGAGEMENT CÉRÉAL BIO POUR LE VÉGÉTAL : Céréal Bio propose des alternatives végétales savoureuses, pratiques et équilibrées, pour une alimentation bio et responsable au quotidien.
-- GALETTES VÉGÉTALES SUCRÉ-SALÉES ET BIO : Laissez-vous séduire par une galette végétale bio à base de boulgour de blé, figue et Roquefort AOP, pour une recette originale, fondante et pleine de caractère.
 - INGRÉDIENTS BIO ET RAFFINÉS : Galette végétale composée de boulgour de blé complet bio, de figue et de Roquefort AOP bio origine France, sans colorant ni conservateur, pour une recette 100 % végétarienne et naturellement gourmande.
-- UN PLAISIR SAIN ET ÉQUILIBRÉ : Source de protéines, source de fibres, Nutriscore A : une alternative végétale idéale pour varier vos repas tout en alliant plaisir, équilibre et alimentation responsable.
+- GALETTES VÉGÉTALES SUCRÉ-SALÉES ET BIO : Laissez-vous séduire par une galette végétale bio à base de boulgour de blé, figue et Roquefort AOP, pour une recette originale, fondante et pleine de caractère.
+- L’ENGAGEMENT CÉRÉAL BIO POUR LE VÉGÉTAL : Céréal Bio propose des alternatives végétales savoureuses, pratiques et équilibrées, pour une alimentation bio et responsable au quotidien.
 - PRÊT EN QUELQUES MINUTES : Réchauffez à la poêle ou au four sans ajout de matière grasse. Parfait avec des légumes grillés, une salade fraîche ou dans un pain burger pour un repas rapide.
+- UN PLAISIR SAIN ET ÉQUILIBRÉ : Source de protéines, source de fibres, Nutriscore A : une alternative végétale idéale pour varier vos repas tout en alliant plaisir, équilibre et alimentation responsable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DJ7Z3QM{{</world>}}

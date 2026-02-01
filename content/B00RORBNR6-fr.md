@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Interface de lappareil : USB Type-A
 - Version USb : 3.0 (3.1 Gen 1). Format : Casquette
-- Couleur du produit : Bleu
 - Verbatim Store n Stay Nano. Capacité: 64 Go
+- Couleur du produit : Bleu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RORBNR6{{</world>}}

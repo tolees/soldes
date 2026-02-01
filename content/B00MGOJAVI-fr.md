@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compartiment principal zippé facile daccès
-- Emportez votre portable grâce au compartiment rembourré pour ordinateur jusquà 15"
 - Hauteur : 43 cm, Largeur : 29,5 cm, Profondeur : 25 cm
+- Emportez votre portable grâce au compartiment rembourré pour ordinateur jusquà 15"
 - Fabriqué dans un mélange 60% nylon 40% polyester
 - Les bretelles matelassées et le dos matelassé permettent un port ergonomique
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Il a tout ce dont les familles Sylvanian Families ont besoin pour leur repas
+- Produit officiel Sylvanian Families.
 - Dès 3 ans
 - Les Sylvanian adorent aller dans les rayons du supermarché pour faire leurs courses
-- Produit officiel Sylvanian Families.
-- Il a tout ce dont les familles Sylvanian Families ont besoin pour leur repas
 - Indispensable pour compléter ta collection.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

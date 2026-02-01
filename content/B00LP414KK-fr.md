@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Bourjois Paris Contour Clubbing Crayon Yeux Waterproof Texture Coulissante et Doux'
-date: 2026-01-30 20:24:45
+date: 2026-02-01 00:15:48
 image: 'https://m.media-amazon.com/images/I/31t4xNcjwtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00LP414KK-fr Bourjois Paris Contour Clubbing Crayon Yeux Waterproof...'
 sku: 'B00LP414KK-fr'
-tags: [ '6153f948-95d4-4eee-8e32-77f1b37ef8dd_0','6153f948-95d4-4eee-8e32-77f1b37ef8dd_2101','6153f948-95d4-4eee-8e32-77f1b37ef8dd_3901','6153f948-95d4-4eee-8e32-77f1b37ef8dd_4701','6153f948-95d4-4eee-8e32-77f1b37ef8dd_5201','6153f948-95d4-4eee-8e32-77f1b37ef8dd_7701','6153f948-95d4-4eee-8e32-77f1b37ef8dd_8601','6153f948-95d4-4eee-8e32-77f1b37ef8dd_9001','Amazon Super | Beauté','Arborist Merchandising Root','Beauty All','Beauté et Parfum','Bourjois & Rimmel: -30% sur les Produits de Maquillage, Soins et Vernis','CML-Beauty','Crayons et khôls yeux','Les plus populaires: Beauté et Parfum','Les produits préférés de nos clients : Beauté','Makeup & Cosmetics','Maquillage','Maquillage pour les yeux','Self Service','Special Features Stores','Top Brands Beauty Makeup','Top Brands Beauty Selection','bourjois','consumablesbeauty','top brands: Beauté','🇫🇷', ]
-actualPrice: 6.25 EUR
+tags: [ '🇫🇷', ]
+actualPrice: 5.7 EUR
 currency: EUR
-price: 6.25
+price: 5.7
 comparePrice: 9.5 EUR
 prodname: 'Bourjois Paris Contour Clubbing Crayon Yeux Waterproof Texture Coulissante et Doux'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Bourjois'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LP414KK/?tag=tolees0d-21'
-descuento: '34.21'
-average: '5.71275'
+descuento: '40.00'
+average: '5.7252380952381'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Peut être utilisé comme eye-liner / crayon et comme fard à paupières
 - Disponible en 3 finis : semi-mat, brillant et scintillant
-- Enrichi en vitamine E et huile de jojoba, il est doux pour les yeux
 - Crayon waterproof de couleur vive pour un look de soirée parfait
+- Enrichi en vitamine E et huile de jojoba, il est doux pour les yeux
+- Peut être utilisé comme eye-liner / crayon et comme fard à paupières
 - Formule waterproof, ne coule pas et ne bouge pas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

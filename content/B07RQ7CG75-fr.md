@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HYDRATATION 12H : Lacide hyaluronique de ce soin teinté laisse la peau repulpée et fraîche pendant 12h.
-- SOIN HYDRATANT TEINTÉ SPF : Ce soin teinté Clinique hydrate, améliore le teint et protège la peau grâce à un SPF 25. Pour tous types de peaux.
 - FINI NATUREL : Ce fond de teint léger et sans corps gras résiste à la sueur et à lhumidité. Laisse un fini frais et naturel.
 - TECHNOLOGIE DE TEINTE MIMÉTISANTE : Chaque teinte se fond parfaitement sur la peau et sadapte à un large éventail de carnations.
+- SOIN HYDRATANT TEINTÉ SPF : Ce soin teinté Clinique hydrate, améliore le teint et protège la peau grâce à un SPF 25. Pour tous types de peaux.
+- HYDRATATION 12H : Lacide hyaluronique de ce soin teinté laisse la peau repulpée et fraîche pendant 12h.
 - BASÉE SUR LA SCIENCE DERMATOLOGIQUE : En tant que marque créée par des dermatologues, notre engagement envers la sécurité est au cœur de toute notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

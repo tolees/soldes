@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RENCONTRE-LES TOUS : Recherche dans les moindres recoins ton Snackle préféré !
 - ÉDITION DISNEY : Apporte un peu de la magie de Disney à ton monde avec cette peluche à câliner en édition limitée ! Quel Snackle vas-tu découvrir parmi Mickey, Stitch, Winnie l’ourson, Dumbo, Alien, Minnie, Olaf et Sulley ?
-- LES PLUS BELLES PERSONNALITÉS : Chaque peluche est accompagnée de son histoire et de son passe-temps qui lui sont propres, ainsi que de son snack préféré !
 - SNACK : Chaque peluche Snackle est accompagnée de sa friandise préférée. Lequel est ton préféré ?
+- LES PLUS BELLES PERSONNALITÉS : Chaque peluche est accompagnée de son histoire et de son passe-temps qui lui sont propres, ainsi que de son snack préféré !
+- RENCONTRE-LES TOUS : Recherche dans les moindres recoins ton Snackle préféré !
 - PELUCHE ULTRA-DOUCE : Les Snackles sont fabriqués dans la peluche à câliner la plus douce.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

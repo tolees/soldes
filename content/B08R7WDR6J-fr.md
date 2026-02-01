@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibilité
 - Légères
+- Flexibilité
 - Durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

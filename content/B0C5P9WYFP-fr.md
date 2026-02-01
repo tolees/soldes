@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Hobbit - la trilogie Blu-ray FR import
 - PHYSICAL_MOVIE
+- Le Hobbit - la trilogie Blu-ray FR import
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5P9WYFP{{</world>}}

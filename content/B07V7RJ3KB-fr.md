@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle: Synthétique
 - Semelle intérieure: Synthetic
 - Dessus: Smooth Leather
 - Doublure: Synthetic
+- Matériau de semelle: Synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07V7RJ3KB{{</world>}}

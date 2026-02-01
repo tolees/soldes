@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure : 100 % PET recyclé
-- Matériau extérieur : 100 % cuir de vachette
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
 - Couleur : marron foncé
+- Matériau extérieur : 100 % cuir de vachette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZTRYVCH{{</world>}}

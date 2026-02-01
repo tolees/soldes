@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La position horizontale peut être ajustée après l’installation
+- La position des bras peut être verrouillée, elle se déverouille facilement à l’aide d’une corde
+- Inclinable à 15 degrés pour obtenir un angle de visionnage optimal (+5 à -10 degrés)
+- Charge maximale supportée : 68 kg
 - Compatible avec les normes de montage VESA 200 x 100, 200 x 200, 300 x 200, 300 x 300, 400 x 200, 400 x 300, 400 x 400, 600 x 400 (les normes VESA définissent lespacement entre les quatre trous de fixation au dos de votre télévision)
 - Support mural pour télévision 32 à 86 pouces
-- Inclinable à 15 degrés pour obtenir un angle de visionnage optimal (+5 à -10 degrés)
-- La position des bras peut être verrouillée, elle se déverouille facilement à l’aide d’une corde
-- La position horizontale peut être ajustée après l’installation
-- Charge maximale supportée : 68 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JWSDQDK{{</world>}}

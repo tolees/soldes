@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de produit : PHYSICAL_MOVIE
 - Equalizer - la trilogie [Blu-ray] [Import FR]
 - Marque : Sony Pictures Home Entertainment
-- Type de produit : PHYSICAL_MOVIE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKW9NVRL{{</world>}}

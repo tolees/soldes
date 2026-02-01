@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN GAIN DE PLACE AVEC UN GRAND ESPACE DE RANGEMENT : Ce buffet de cuisine doté de 2 portes vitrées avec deux étagères, un tiroir, dune armoire basse à double portes et des étagères réglables, permet de gagner de lespace tout en offrant suffisamment de surface pour ranger vos assiettes préférées, votre vaisselle et autres affaires
 - PRATIQUE ET SOLIDE : Vaisselier de cuisine conçu en MDF, il est facile dentretien et pourra être utilisé au quotidien sans risque grâce à ses fixations murales pour éviter quil bascule en avant
+- UN GAIN DE PLACE AVEC UN GRAND ESPACE DE RANGEMENT : Ce buffet de cuisine doté de 2 portes vitrées avec deux étagères, un tiroir, dune armoire basse à double portes et des étagères réglables, permet de gagner de lespace tout en offrant suffisamment de surface pour ranger vos assiettes préférées, votre vaisselle et autres affaires
 - MEUBLE DE RANGEMENT POLYVALENT : Ce meuble de cuisine haut est simple et classique, ce qui en fait un idéal pour votre bureau, cuisine, salon ou chambre. Un excellent choix pour ranger des livres et des fournitures de cuisine ou même pour afficher des objets de collection
 - SPÉCIFICATIONS DU MEUBLE DE RANGEMENT POUR CUISINE : Dimensions totales : 60L x 30l x 160Hcm. Charge max. : 40kg au total, étagère : 5kg. Tiroir : 3kg. Meuble à monter soi-même à laide de la notice de montage
 - DESIGN : Cette armoire de cuisine parfaitement design intemporel et fonctionnalité. Grâce au mélange de panneaux beige et naturels, ce meuble de cuisine moderne crée un style à la fois chic et campagne qui sadapte facilement à toutes les pièces et tous les styles dintérieur

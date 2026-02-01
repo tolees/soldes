@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette à soufflet qui empêche les débris
-- Embout de protection et semelle en caoutchouc Vibram TC5+
 - 100 % lacets recyclés, sangles et doublure en maille
+- Embout de protection et semelle en caoutchouc Vibram TC5+
+- Languette à soufflet qui empêche les débris
 - Dessus en cuir de porc et maille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

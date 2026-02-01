@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le nouveau logo Calvin Klein Jeans imprimé (2022)
 - Calvin Klein T-shirt pour homme
+- Avec le nouveau logo Calvin Klein Jeans imprimé (2022)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09R2F4CZF{{</world>}}

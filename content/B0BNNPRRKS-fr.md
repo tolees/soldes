@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Bourjois - Rouge à lèvres - Velvet The Pencil - 02 Amou-Rose - Waterproof et sans transfert mat 2-en-1'
-date: 2026-01-30 20:36:13
+date: 2026-02-01 07:07:34
 image: 'https://m.media-amazon.com/images/I/21-8qA7U0pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0BNNPRRKS-fr Bourjois - Rouge à lèvres - Velvet The Pencil - 02 Amou-...'
 sku: 'B0BNNPRRKS-fr'
-tags: [ '6153f948-95d4-4eee-8e32-77f1b37ef8dd_0','6153f948-95d4-4eee-8e32-77f1b37ef8dd_2101','6153f948-95d4-4eee-8e32-77f1b37ef8dd_4701','Arborist Merchandising Root','Beauté et Parfum','Maquillage','Maquillage pour les lèvres','Rouges à lèvres','Self Service','Special Features Stores','Top Brands Beauty Makeup','Top Brands Beauty Selection','bourjois','top brands: Beauté','🇫🇷', ]
+tags: [ '🇫🇷', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78
@@ -16,10 +16,10 @@ comparePrice: 12.99 EUR
 prodname: 'Bourjois - Rouge à lèvres - Velvet The Pencil - 02 Amou-Rose - Waterproof et sans transfert mat 2-en-1'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Bourjois'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0BNNPRRKS/?tag=tolees0d-21'
 descuento: '40.11'
-average: '8.14625'
+average: '8.12470588235294'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayon à lèvres ultra pigmenté
 - Fini velouté, mat et intense- Waterproof et sans transfert
 - Crayon rouge à lèvres- 2 en 1
 - Crayon à lèvres Fini mat Waterproof et Sans transfert
+- Crayon à lèvres ultra pigmenté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNNPRRKS{{</world>}}

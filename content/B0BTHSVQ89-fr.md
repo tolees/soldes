@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUNLU Enroulement Soigné Filament pour Imprimante 3D PLA 1.75mm Précision Dimensionnelle +/- 0.02mm Bobine de 1KG Filament 3D pour Plupart des imprimantes 3D PLA Blanc'
-date: 2026-01-31 02:50:39
+date: 2026-02-01 06:19:59
 image: 'https://m.media-amazon.com/images/I/519kPX3MT4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0BTHSVQ89/?tag=tolees0d-21'
 descuento: '31.60'
-average: '19.6263636363636'
+average: '18.6053846153846'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

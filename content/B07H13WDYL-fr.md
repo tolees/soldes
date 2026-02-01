@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BROSSE DE PRÉCISION UNIQUE : La brosse de précision permet une application minutieuse et est conçue pour atteindre même les plus petits cils.
 - ALLONGE LES CILS : Ce mascara allongeant léger allonge les cils pour un résultat naturel.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - MASCARA LONGUE TENUE : Mascara Clinique tubing allongeant avec une tenue de 24h. Ne seffrite pas et sans bavure.
+- BROSSE DE PRÉCISION UNIQUE : La brosse de précision permet une application minutieuse et est conçue pour atteindre même les plus petits cils.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - LA PROMESSE SÉCURITÉ YEUX CLINIQUE : Le Mascara Extension Visible Formule Longue Tenue Lash Power est soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact. 100 % sans parfum.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

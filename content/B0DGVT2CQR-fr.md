@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonctionnement silencieux avec roulement à dôme magnétique : Le roulement à dôme magnétique de CORSAIR est un perfectionnement du célèbre roulement à lévitation magnétique, qui minimise le bruit et réduit les frottements pour une plus grande longévité
-- Éclairage RGB époustouflant avec deux boucles déclairage : 18 LED par ventilateur réparties sur une boucle intérieure et extérieure permettent un éclairage brillant et personnalisable qui peut être synchronisé avec tous vos appareils iCUE RGB
-- Rotor inversé pour un look impeccable : Révolutionnez votre configuration avec des ventilateurs à rotor inversé qui garantissent que lanneau RGB reste entièrement visible, même lorsquil est monté pour ladmission dair
 - Refroidissement efficace et efficient : Offrez un flux d’air superbe à votre système avec des vitesses précises contrôlées par PWM jusquà 2 400 tr/min et un flux d’air de 66,7 CFM, Une pression statique impressionnante de 4,72 mm H2O donne au LX-R RGB la force dont il a besoin pour son montage sur les radiateurs
 - Reliez vos composants : les connecteurs de pont iCUE LINK inclus peuvent connecter vos ventilateurs directement les uns aux autres, créant ainsi une banque transparente de ventilateurs tous connectés au hub système iCUE LINK à laide dun seul câble
+- Éclairage RGB époustouflant avec deux boucles déclairage : 18 LED par ventilateur réparties sur une boucle intérieure et extérieure permettent un éclairage brillant et personnalisable qui peut être synchronisé avec tous vos appareils iCUE RGB
+- Rotor inversé pour un look impeccable : Révolutionnez votre configuration avec des ventilateurs à rotor inversé qui garantissent que lanneau RGB reste entièrement visible, même lorsquil est monté pour ladmission dair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DGVT2CQR{{</world>}}

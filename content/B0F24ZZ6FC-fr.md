@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception authentique: Le modèle présente des éléments précis tels que des armes, des systèmes radar et des composants structurels, reflétant les véritables prouesses de lingénierie navale.
-- Valeur éducative: Améliore la motricité fine, la conscience spatiale et la compréhension de larchitecture navale, ce qui la rend à la fois amusante et informative.
 - Affichage digne: Une fois assemblé, le destroyer témoigne de la puissance navale, ce qui en fait un ajout parfait à toute collection ou étagère daffichage.
+- Valeur éducative: Améliore la motricité fine, la conscience spatiale et la compréhension de larchitecture navale, ce qui la rend à la fois amusante et informative.
+- Conception authentique: Le modèle présente des éléments précis tels que des armes, des systèmes radar et des composants structurels, reflétant les véritables prouesses de lingénierie navale.
 - Ensemble complet: Avec 612 pièces de haute qualité, assemblez une réplique détaillée dun formidable destroyer de la marine, avec des caractéristiques réalistes et des détails complexes.
 - Jeu interactif: Après la construction, le destroyer sert densemble de jeu dynamique, permettant des scénarios imaginatifs et des missions stratégiques.
 

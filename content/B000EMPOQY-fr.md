@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : tissu
-- Tige : daim et nubuck
 - Matériau de la semelle : cuir synthétique
+- Tige : daim et nubuck
+- Doublure : tissu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000EMPOQY{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Taux de rafraîchissement élevé de 90 Hz】Profitez de votre contenu avec un taux de rafraîchissement élevé de 90 Hz, fluide et transparent. Faites défiler vos flux de médias sociaux confortablement ou faites lexpérience dun jeu puissant et réactif.
-- 【6nm Snapdragon 680】Ce processeur est non seulement rapide et puissant, mais fonctionne également sur le processus 6 nm économe en énergie pour vous offrir des performances élevées tout en améliorant la durée de vie de la batterie.
 - 【Charge rapide Pro 33W avec batterie massive de 5000mAh】Chargez à 100 % en environ une heure avec la charge rapide 33 W Pro de Redmi Note 11, activée par la toute nouvelle technologie MMT de Redmi Note. Découvrez les avantages révolutionnaires de la charge rapide.
+- 【6nm Snapdragon 680】Ce processeur est non seulement rapide et puissant, mais fonctionne également sur le processus 6 nm économe en énergie pour vous offrir des performances élevées tout en améliorant la durée de vie de la batterie.
+- 【Taux de rafraîchissement élevé de 90 Hz】Profitez de votre contenu avec un taux de rafraîchissement élevé de 90 Hz, fluide et transparent. Faites défiler vos flux de médias sociaux confortablement ou faites lexpérience dun jeu puissant et réactif.
 - 【Puissant système de caméra quadruple 50MP】Redmi Note 11 est équipé dun appareil photo grand angle 50MP + appareil photo ultra grand angle 8MP + appareil photo macro 2MP + appareil photo profondeur 2MP, vous permettant dexplorer et de capturer toutes les scènes de votre vie, de marquer chaque moment glorieux - ne manquez rien.
 - 【La perfection dans une esthétique industrielle】Le tout nouveau Redmi Note 11 présente un design à cadre plat tendance avec un style minimaliste.Trois couleurs différentes, parfaites pour tout utilisateur.Choisissez parmi Twilight Blue, Graphite Grey et Star Blue.
 

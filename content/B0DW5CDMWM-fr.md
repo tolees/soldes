@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Important : lencre du stylo est effacée uniquement avec cette gomme, elle ne seffacera pas avec dautres matériaux
-- Encre noire
 - Stylo à bille effaçable Bo-Bo, avec Mafalda comme protagoniste
+- Encre noire
 - Le corps du stylo a un toucher très doux et comprend une gomme à lextrémité opposée du personnage qui permet deffacer rapidement et facilement ce qui est déjà écrit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

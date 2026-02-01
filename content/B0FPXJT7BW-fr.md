@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UN CADEAU POUR LES AMOUREUX.SES DES ANIMAUX DÈS 8 ANS – Ce set LEGO Creator spectaculaire est un beau cadeau à offrir à une fille ou un garçon qui aime les animaux et le jeu créatif
-- SUPPORTS & ACCESSOIRES – Le colibri et le papillon reposent sur des supports composés de magnifiques fleurs, et le poisson tropical est fixé sur un présentoir orné de plantes sous-marines colorées
-- ALIMENTEZ LA PASSION DES ENFANTS – Chaque set 3-en-1 offre aux enfants 3 options de construction inspirées de leurs plus grands centres dintérêt, notamment les animaux, les véhicules et les maisons
 - ANIMAUX LEGO ARTICULÉS – Le colibri est représenté dans une posture de vol dynamique et peut bouger le cou, les ailes et la queue, tandis que le papillon possède des ailes mobiles
 - ENCORE PLUS DE JEUX 3-EN-1 – Mettez en scène dautres aventures de construction avec les sets de la vaste gamme LEGO Creator 3-en-1 (vendus séparément)
+- SUPPORTS & ACCESSOIRES – Le colibri et le papillon reposent sur des supports composés de magnifiques fleurs, et le poisson tropical est fixé sur un présentoir orné de plantes sous-marines colorées
+- ALIMENTEZ LA PASSION DES ENFANTS – Chaque set 3-en-1 offre aux enfants 3 options de construction inspirées de leurs plus grands centres dintérêt, notamment les animaux, les véhicules et les maisons
 - OISEAU JOUET 3-EN-1 POUR FILLE OU GARÇON DÈS 8 ANS – Le set Animaux sauvages : le colibri coloré LEGO Creator invite les enfants à construire et reconstruire 3 animaux sur leurs supports avec les mêmes briques LEGO
 - UNE INFINITÉ D’OPTIONS DE JEU CRÉATIF – Imaginez des histoires amusantes avec 3 animaux : un colibri, un papillon ou un poisson tropical (les modèles ne peuvent pas être construits simultanément)
 

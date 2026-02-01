@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Pas de fermeture
 - Classique
+- Fermeture: Pas de fermeture
 - 100% Polyester
 - Lavage en machine
 

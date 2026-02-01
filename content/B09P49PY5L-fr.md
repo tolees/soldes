@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient une carte à collectionner et un contenu audio exclusif !
-- Enrichissez vos connaissances Lapplication Wiltopia offre un contenu audio et vidéo supplémentaire et permet aux petits comme aux grands den savoir plus sur les animaux du monde entier.
 - Le nouvel univers Playmobil composé à 80% de matériaux recyclés !
+- Enrichissez vos connaissances Lapplication Wiltopia offre un contenu audio et vidéo supplémentaire et permet aux petits comme aux grands den savoir plus sur les animaux du monde entier.
+- Contient une carte à collectionner et un contenu audio exclusif !
 - Découvrez les animaux des cinq continents !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

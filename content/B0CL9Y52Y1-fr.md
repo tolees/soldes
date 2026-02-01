@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfum 100 percent naturel, unique et rafraîchissant
-- Un grand format signifie une moindre utilisation du plastique par rapport à un format 250ml
 - Nettoie la peau en douceur
+- Un grand format signifie une moindre utilisation du plastique par rapport à un format 250ml
 - Non asséchant, laisse une sensation de douceur, dhydratation et de confort
+- Parfum 100 percent naturel, unique et rafraîchissant
 - Bouteille en plastique 100 percent recyclé post-consommation
 - Les informations ci-dessous sappliquent à chaque unité du pack
 

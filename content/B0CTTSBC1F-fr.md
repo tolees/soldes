@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immergez vous dans vos films, jeux, et contenus préférés avec lécran Super AMOLED de 15,6 pouces. Profitez de couleurs riches et dun temps de réponse rapide, le tout sans vous soucier de vos yeux grâce à une émission réduite de lumière bleue ² ³ ⁴ ⁵
-- Utilisez des gestes multi-touches intuitifs pour naviguer sur lécran tactile interactif du Galaxy Book4 360, puis, lorsque linspiration vous vient, retournez lécran et utilisez le S Pen pour faire des croquis, noter des idées ou peaufiner vos chefs-dœuvre avec précision ² ⁷
+- Une multitude de ports permettent de connecter facilement plusieurs appareils, profitez de transferts de données ultra rapides avec deux ports Thunderbolt 4 et connectez-vous aisément via HDMI, USB 3.2 Type-A, microSD et HP/MIC 3,5pi.
 - Améliorez vos appels vidéo en utilisant votre smartphone Samsung Galaxy comme caméra connectée avec votre Galaxy Book4 360. Basculez facilement entre les caméras avant et arrière pour obtenir langle de votre choix et profitez dappels de qualité supérieure avec des vidéos améliorées ¹ ⁸ ⁹ ¹⁰
 - Des performances exceptionnelles : le processeur puissant Intel Core 7 nouvelle génération offre des performances optimales pour vos travaux et vos loisirs. Jouez à des jeux ou accomplissez vos projets rapidement et restez au top de vos performances
-- Une multitude de ports permettent de connecter facilement plusieurs appareils, profitez de transferts de données ultra rapides avec deux ports Thunderbolt 4 et connectez-vous aisément via HDMI, USB 3.2 Type-A, microSD et HP/MIC 3,5pi.
+- Immergez vous dans vos films, jeux, et contenus préférés avec lécran Super AMOLED de 15,6 pouces. Profitez de couleurs riches et dun temps de réponse rapide, le tout sans vous soucier de vos yeux grâce à une émission réduite de lumière bleue ² ³ ⁴ ⁵
+- Utilisez des gestes multi-touches intuitifs pour naviguer sur lécran tactile interactif du Galaxy Book4 360, puis, lorsque linspiration vous vient, retournez lécran et utilisez le S Pen pour faire des croquis, noter des idées ou peaufiner vos chefs-dœuvre avec précision ² ⁷
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTTSBC1F{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle : caoutchouc
 - Matériau intérieur : synthétique
 - Fermeture : lacets
-- Semelle : caoutchouc
 - Matériau extérieur : textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

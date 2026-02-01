@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Découvrez une histoire non linéaire qui évolue à votre propre rythme.
+- Un jeu iconique des années 90 mis au standard d’aujourd’hui !
 - Vivez une expérience totalement immersive : tirez, battez-vous au corps à corps, rampez, grimpez, sautez et servez-vous de votre tête pour progresser dans la station Citadel
 - Un style graphique innovant qui combine des éléments rétrofuturistes avec la technologie moderne.
-- Un jeu iconique des années 90 mis au standard d’aujourd’hui !
-- Découvrez une histoire non linéaire qui évolue à votre propre rythme.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXQ4MMNJ{{</world>}}

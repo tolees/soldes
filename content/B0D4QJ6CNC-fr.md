@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Partez à la découverte des aventures originales de Lara Croft, remastérisé avec fidélité !
-- Trouvez la clé d’anciens mystères : Décelez les trésors de l’ancien monde en résolvant des puzzles et en décodant des mystères tombés dans l’oubli avec les dégâts causés par le temps.
-- Jouez aux trois aventures inédites de Tomb Raider : Explorez pour la toute première fois l’expérience intégrale, comprenant toutes les expansions et les niveaux secrets disponibles sur des plateformes modernes dans cette collection unique.
 - Une aventure en mode tour du monde : Suivez Lara Croft autour du globe et affrontez des ennemis létaux ainsi que de dangereuses légendes.
+- Jouez aux trois aventures inédites de Tomb Raider : Explorez pour la toute première fois l’expérience intégrale, comprenant toutes les expansions et les niveaux secrets disponibles sur des plateformes modernes dans cette collection unique.
+- Trouvez la clé d’anciens mystères : Décelez les trésors de l’ancien monde en résolvant des puzzles et en décodant des mystères tombés dans l’oubli avec les dégâts causés par le temps.
 - Titres de jeu inclus: Tomb Raider I + The Unfinished Business Expansion, Tomb Raider II + The Gold Mask Expansion, Tomb Raider III + The Lost Artifact Expansion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

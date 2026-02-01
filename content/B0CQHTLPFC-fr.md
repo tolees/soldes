@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran AMOLED FHD+ ultra-fluide de 120Hz Expérience immersive avec ses bordures ultrafines
 - Charge rapide 33W avec chargeur inclus Batterie longue autonomie de 5000 mAh (typ)
+- Écran AMOLED FHD+ ultra-fluide de 120Hz Expérience immersive avec ses bordures ultrafines
 - Triple caméra arrière de 108MP avec IA Objectifs ultra grand angle et macro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ACCORDS FLORAUX : Les notes de tête vertes et fraîches de jacinthe et chèvrefeuille sépanouissent en un cœur floral de lys, muguet, rose, ylang-ylang et jasmin, sur un fond boisé, ambré et doux.
 - UN PARFUM DOUX ET FÉMININ : LEau de Toilette Anaïs Anaïs de Cacharel est un parfum tendre et féminin. Le plus jeune des grands classiques de la parfumerie, Anaïs Anaïs est porteur dun message de tendresse.
 - LA MAGIE DES PREMIÈRES FOIS : Symbole de jeunesse, de romantisme et de liberté, Cacharel enchante depuis 1969 avec des parfums emblématiques qui capturent la passion des premières fois à travers des accords envoûtants.
-- ACCORDS FLORAUX : Les notes de tête vertes et fraîches de jacinthe et chèvrefeuille sépanouissent en un cœur floral de lys, muguet, rose, ylang-ylang et jasmin, sur un fond boisé, ambré et doux.
 - POUR LA JEUNE FEMME INNOCENTE ET SENSUELLE : Inspiré du nom hannah qui signifie gracieuse, Anaïs Anaïs est le parfum de Cacharel qui exprime la dualité de la jeune femme, à la fois innocente et sensuelle.
 - UN FLACON INTEMPOREL : Pour sublimer ce bouquet de tendresse, son flacon dopaline blanc, orné dun bouchon en argent inspiré des anciens pots à parfum, reflète lélégance et la pureté intemporelles.
 

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE LUXE À LA FRANÇAISE : Issu dun savoir-faire artisanal unique, ce parfum est élaboré par des maîtres parfumeurs grassois à partir de plantes minutieusement sélectionnées pour leurs propriétés olfactives, notamment des plantes de Provence.
-- PLACE À LA MAGIE : Avec son style floriental tout en sensualité, le parfum Amore Mio White Pearl vous offre une véritable pause dans le temps pour profiter dun instant magique qui révèle toute votre féminité.
-- UN PARFUM FRUITÉ & ÉPICÉ : Amore Mio White Pearl diffuse des notes toniques de poivre rose et de fruits rouges qui mettent la rose en valeur et persistent sur le caramel, le benjoin, le musc, la vanille et le patchouli.
+- LA TRADITION DE LA PARFUMERIE FRANÇAISE : Made in France, les parfums et soins cosmétiques parfumés Jeanne Arthes subliment chaque instant grâce à leurs senteurs originales et leurs formules haut de gamme rimant avec raffinement.
 - LA COLLECTION AMORE MIO : Enflaconné dans un superbe vaporisateur en forme de pomme, les parfums Amore Mio font la part belle aux notes de fruits et de fleurs. Tout en féminité, ils vous transportent dans un monde magique et envoûtant.
 - COFFRET PARFUM : Redécouvrez lunivers féérique dAmore Mio White Pearl, un nectar vanillé gourmand qui vous transportera avec délicatesse sous de chaleureux flocons de neige, iridescents telles des perles précieuses
-- LA TRADITION DE LA PARFUMERIE FRANÇAISE : Made in France, les parfums et soins cosmétiques parfumés Jeanne Arthes subliment chaque instant grâce à leurs senteurs originales et leurs formules haut de gamme rimant avec raffinement.
+- UN PARFUM FRUITÉ & ÉPICÉ : Amore Mio White Pearl diffuse des notes toniques de poivre rose et de fruits rouges qui mettent la rose en valeur et persistent sur le caramel, le benjoin, le musc, la vanille et le patchouli.
+- LE LUXE À LA FRANÇAISE : Issu dun savoir-faire artisanal unique, ce parfum est élaboré par des maîtres parfumeurs grassois à partir de plantes minutieusement sélectionnées pour leurs propriétés olfactives, notamment des plantes de Provence.
+- PLACE À LA MAGIE : Avec son style floriental tout en sensualité, le parfum Amore Mio White Pearl vous offre une véritable pause dans le temps pour profiter dun instant magique qui révèle toute votre féminité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BF164BX3{{</world>}}

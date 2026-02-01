@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ▪ Matière : Plastique ; Bambou
 - ▪ Bambou ;
+- ▪ Matière : Plastique ; Bambou
 - ▪ DIMENSIONS (LxlxH) : 24.5 x 10 x 24.5 cm
 - ▪
 

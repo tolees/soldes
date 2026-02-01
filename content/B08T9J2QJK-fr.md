@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de col: Col une pièce
-- Regular Fit
-- 100% Coton
-- Hand Wash Only
 - Fermeture: Enfiler
+- 100% Coton
+- Type de col: Col une pièce
 - Manche courte
+- Regular Fit
+- Hand Wash Only
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08T9J2QJK{{</world>}}

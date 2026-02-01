@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réalise des cascades époustouflantes pour remporter le combat avec le coffret Hot Wheels L’Attaque du Requin.
-- Pour recommencer la cascade, rien de plus simple : tirez la tête du requin vers le haut ou ouvrez sa gueule pour jouer la revanche !
-- Les enfants peuvent lancer leurs voitures Hot Wheels dans la gueule d’un requin géant, réaliser une cascade en forme de 8 qui assommera le squale et propulser leur héros Hot Wheels vers de nouvelles aventures. Un panneau stop de déviation empêche les voitures de quitter la piste.
+- Le requin va croquer et dévorer la voiture si elle n’est pas lancée assez fort.
 - Le lanceur pivote et propose une autre façon de jouer ! Lancez la voiture au-dessus du vide pour éviter complètement le requin.
 - Les enfants peuvent rattacher des pistes et des circuits supplémentaires grâce au système Speed Snap, conçu pour construire, modifier et agrandir facilement une piste. (Pistes et circuits additionnels vendus séparément.)
-- Le requin va croquer et dévorer la voiture si elle n’est pas lancée assez fort.
+- Les enfants peuvent lancer leurs voitures Hot Wheels dans la gueule d’un requin géant, réaliser une cascade en forme de 8 qui assommera le squale et propulser leur héros Hot Wheels vers de nouvelles aventures. Un panneau stop de déviation empêche les voitures de quitter la piste.
+- Pour recommencer la cascade, rien de plus simple : tirez la tête du requin vers le haut ou ouvrez sa gueule pour jouer la revanche !
+- Réalise des cascades époustouflantes pour remporter le combat avec le coffret Hot Wheels L’Attaque du Requin.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FFTCJR4W{{</world>}}

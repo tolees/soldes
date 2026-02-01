@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détails pratiques : Flacon de 250 ml. Emballage entièrement recyclable et fabriqué avec au moins 21 % de matière recyclée. Vous pouvez le jeter dans la poubelle de tri après utilisation
-- Fleur de tiaré : Ce gel douche Le Petit Marseillais offre une mousse légère aux notes florales et ensoleillées. Il libère un parfum délicat pour une sensation rafraîchissante
-- Soin de la peau : La formule au pH neutre pour la peau et sans colorant de ce gel douche nettoie tout en douceur. Produit testé sous contrôle dermatologique et noté Vert sur Yuka
 - Extra Doux : Inspiré par la Provence et avec une envie irrésistible de vous faire plaisir, Le Petit Marseillais réinvente ses gels douches iconiques Extra Doux pour encore plus de nature
 - Origine naturelle : Ce gel douche naturel est composé à 92 % dingrédients dorigine naturelle. Les 8 % restants sont consacrés à la bonne conservation de la formule et au parfum
+- Détails pratiques : Flacon de 250 ml. Emballage entièrement recyclable et fabriqué avec au moins 21 % de matière recyclée. Vous pouvez le jeter dans la poubelle de tri après utilisation
+- Soin de la peau : La formule au pH neutre pour la peau et sans colorant de ce gel douche nettoie tout en douceur. Produit testé sous contrôle dermatologique et noté Vert sur Yuka
+- Fleur de tiaré : Ce gel douche Le Petit Marseillais offre une mousse légère aux notes florales et ensoleillées. Il libère un parfum délicat pour une sensation rafraîchissante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN4KK4YK{{</world>}}

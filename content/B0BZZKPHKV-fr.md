@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque : Universal
-- Super Mario Bros. le film [Blu-ray] [FR Import]
 - Type de produit : ABIS_DVD
+- Super Mario Bros. le film [Blu-ray] [FR Import]
+- Marque : Universal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZZKPHKV{{</world>}}

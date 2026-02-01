@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AMORTI GEL AVANCÉ : Les semelles disposent un large pad en gel au talon absorbe efficacement les chocs, offrant une protection optimale contre les impacts à chaque foulée.
-- TAILLE AJUSTABLE : Si vous êtes entre deux pointures, nous vous conseillons de choisir la taille au-dessus. Nos semelles se découpent, elles sont donc facilement ajustables. Utilisez votre semelle actuelle comme modèle pour découper et adapter parfaitement la nouvelle semelle à vos chaussures.
-- CONFORT ET RESPIRABILITÉ : Le recouvrement anti-dérapant en Merrymesh maintient fermement le pied en place pour éviter les frottements et les ampoules, tandis que les perforations assurent une excellente circulation de lair, gardant vos pieds frais et secs.
 - PROPULSION OPTIMALE : La structure de l’avant-pied en EVA rubber est conçue pour favoriser un meilleur rebond et améliorer la phase de propulsion pendant vos sorties course à pied, vous aidant à courir plus efficacement.
+- CONFORT ET RESPIRABILITÉ : Le recouvrement anti-dérapant en Merrymesh maintient fermement le pied en place pour éviter les frottements et les ampoules, tandis que les perforations assurent une excellente circulation de lair, gardant vos pieds frais et secs.
+- TAILLE AJUSTABLE : Si vous êtes entre deux pointures, nous vous conseillons de choisir la taille au-dessus. Nos semelles se découpent, elles sont donc facilement ajustables. Utilisez votre semelle actuelle comme modèle pour découper et adapter parfaitement la nouvelle semelle à vos chaussures.
+- AMORTI GEL AVANCÉ : Les semelles disposent un large pad en gel au talon absorbe efficacement les chocs, offrant une protection optimale contre les impacts à chaque foulée.
 - STABILITÉ MAXIMALE : Les semelles de course à pied disposent dun renfort en TPU au niveau du médio-pied assure une stabilisation et un contrôle accrus de la foulée, réduisant les risques de blessures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

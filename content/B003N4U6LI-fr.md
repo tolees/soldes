@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patchouli pour Femme eau de Cologne pour femme
 - Patchouli pour femme eau de Cologne de la marca Reminiscence
+- Patchouli pour Femme eau de Cologne pour femme
 - Un produit unique et exclusif de la marque Reminiscence
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En cours de route, le chat se lie damitié avec un petit drone volant, connu sous le nom de B12. Avec laide de ce nouveau compagnon, le duo doit trouver un moyen de sen sortir
+- Stray est développé par BlueTwelve Studio, une petite équipe du sud de la France composée essentiellement de chats et dune poignée dhumains.
 - Stray est un jeu daventure de chat à la 3ème personne qui se déroule dans les allées détaillées et éclairées au néon dune cybercité en décomposition et dans les environnements sombres de ses bas-fonds. Parcourez les environs de haut en bas, défendez-vous contre des menaces imprévues et résolvez les mystères de cet endroit peu accueillant habité par des droïdes curieux et des créatures dangereuses
 - Stray arrive enfin sur Xbox : L’aventure extraordinaire d’un chat dans un univers Cyber Punk ! Perdu, seul et séparé de sa famille, un chat errant doit démêler un ancien mystère pour séchapper dune ville oubliée depuis longtemps.
-- Stray est développé par BlueTwelve Studio, une petite équipe du sud de la France composée essentiellement de chats et dune poignée dhumains.
 - Voyez le monde à travers les yeux dun chat et interagissez avec lenvironnement de manière ludique. Soyez furtif, agile, loufoque et parfois aussi embêtant que possible avec les étranges habitants de ce monde mystérieux.
+- En cours de route, le chat se lie damitié avec un petit drone volant, connu sous le nom de B12. Avec laide de ce nouveau compagnon, le duo doit trouver un moyen de sen sortir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHS736DS{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rafraîchit, lifte et illumine instantanément le contour des yeux.
-- Formulée à partir de 84 % d’ingrédients d’origine naturelle, sa formule vegan est enrichie en extrait de canneberge pour stimuler la production de collagène et réduire les ridules et les rides semaine après semaine.
-- Le sérum correcteur 2-en-1 Bourjois Healthy Mix associe la couvrance d’un correcteur à la puissance d’un sérum pour les yeux
 - Ce correcteur à la texture crémeuse et à la couvrance totale se fond parfaitement sur la peau pour camoufler les cernes et les imperfections, garantissant un fini lumineux et naturel.
+- Rafraîchit, lifte et illumine instantanément le contour des yeux.
+- Le sérum correcteur 2-en-1 Bourjois Healthy Mix associe la couvrance d’un correcteur à la puissance d’un sérum pour les yeux
+- Formulée à partir de 84 % d’ingrédients d’origine naturelle, sa formule vegan est enrichie en extrait de canneberge pour stimuler la production de collagène et réduire les ridules et les rides semaine après semaine.
 - Contient un applicateur métallique arrondi qui masse délicatement le contour des yeux, pour réduire l’apparence des poches et lisser la peau tout en offrant une sensation de fraîcheur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

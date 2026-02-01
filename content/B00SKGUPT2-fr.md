@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MINI BRIQUES - Les nanoblocks sont des jeux de micro construction avec des briques à assembler pour obtenir des miniatures 3D de différents modèles.
-- LICENCE OFFICIELLE POKÉMON - Une collaboration officielle Pokémon x Nanoblock : fabriquez votre mini figurine de Ronflex (Snorlax) en briques !
 - MODELES VARIÉS - Retrouvez toutes les constructions Nanoblock disponibles : animaux, objets, monuments, manga…
-- KIT COMPLET - Kit comprenant environ 220 briques pour assembler la mini figurine (dont quelques briques supplémentaires) et les instructions dassemblage détaillées étape par étape. Taille du modèle assemblé : 64 x 64 x 44mm
 - ACTIVITÉ DE PRÉCISION - Un loisir minutieux et ludique, recommandé à partir de 12 ans.
+- LICENCE OFFICIELLE POKÉMON - Une collaboration officielle Pokémon x Nanoblock : fabriquez votre mini figurine de Ronflex (Snorlax) en briques !
+- MINI BRIQUES - Les nanoblocks sont des jeux de micro construction avec des briques à assembler pour obtenir des miniatures 3D de différents modèles.
+- KIT COMPLET - Kit comprenant environ 220 briques pour assembler la mini figurine (dont quelques briques supplémentaires) et les instructions dassemblage détaillées étape par étape. Taille du modèle assemblé : 64 x 64 x 44mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SKGUPT2{{</world>}}

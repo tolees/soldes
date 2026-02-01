@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Giocattolo contenuto allinterno_x000D_
 - Solo per uso domestico_x000D_
 - Non mirare agli occhi o al viso
+- Giocattolo contenuto allinterno_x000D_
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WWTVMNZ{{</world>}}

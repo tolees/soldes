@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les jeux suivants sont inclus dans la cartouche : STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
 - Apprenez la voie de la Force du Maître Jedi Luke Skywalker, prenez le contrôle dun Podracer lancé à pleine vitesse, dirigez une escouade délite de clones... Faites tout cela et bien plus encore avec le STAR WARS Heritage Pack ! comprenant sept jeux classiques STAR WARS :
 - Sept jeux classiques STAR WARS !
 - Les jeux suivants ne sont pas inclus dans la cartouche et nécessiteront un téléchargement ainsi que de lespace mémoire sur la console ou sur une carte SD : STAR WARS: Knights of the Old Republic (12.1 GB), STAR WARS: Knights of the Old Republic II: The Sith Lords (15.9 GB)
+- Les jeux suivants sont inclus dans la cartouche : STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKLPK6FJ{{</world>}}

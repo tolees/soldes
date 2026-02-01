@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Astérix & Obélix XXL 2: Le druide Panoramix a trahi le village et pactisé avec les romains ! Découvrez la vérité sur cette mystérieuse trahison, et n’oubliez pas de baffer quelques romains au passage,
 - Astérix & Obélix XXL: Romastered: Aidez Astérix et Obélix à sauver les villageois kidnappés par César et son armée.
 - Astérix & Obélix XXL 3: le menhir de cristal: Découvrez la dernière aventure d’Astérix et Obélix et maîtrisez les incroyables pouvoirs du menhir de cristal.
-- Astérix & Obélix XXL 2: Le druide Panoramix a trahi le village et pactisé avec les romains ! Découvrez la vérité sur cette mystérieuse trahison, et n’oubliez pas de baffer quelques romains au passage,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BR8LCWSR{{</world>}}

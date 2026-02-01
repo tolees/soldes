@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sets LEGO Star Wars collector – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux fans adultes de recréer des scènes culte, d’imaginer de nouvelles histoires et d’exposer les maquettes qu’ils ont construites
-- Jeu de construction pour garçon ou fille dès 10 ans – Les enfants seront fiers d’afficher leur passion pour Star Wars avec cette figurine en briques LEGO du droïde de sécurité K-2SO vu dans la saison 2 de Star Wars : Andor
-- Maquette Star Wars & objet de décoration intérieure pour les jeunes fans – Le set LEGO inclut également une plaque descriptive sur K-2SO pouvant accueillir la figurine de taille standard du droïde K-2SO
-- Instructions intuitives – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent zoomer et faire pivoter une version numérique 3D de leur modèle pendant la construction
 - Cadeau LEGO Star Wars pour un garçon, une fille ou un fan – Offrez ce superbe jouet à construire et objet de décoration aux enfants, aux fans de Star Wars et aux passionnés de LEGO à partir de 10 ans
 - Jouet de construction personnalisable pour fans de la saga – Cette maquette articulée permet de positionner la tête et les bras de K-2SO pour lui faire prendre différentes postures ; la figurine du droïde LEGO se place sur le présentoir
+- Jeu de construction pour garçon ou fille dès 10 ans – Les enfants seront fiers d’afficher leur passion pour Star Wars avec cette figurine en briques LEGO du droïde de sécurité K-2SO vu dans la saison 2 de Star Wars : Andor
+- Instructions intuitives – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent zoomer et faire pivoter une version numérique 3D de leur modèle pendant la construction
+- Maquette Star Wars & objet de décoration intérieure pour les jeunes fans – Le set LEGO inclut également une plaque descriptive sur K-2SO pouvant accueillir la figurine de taille standard du droïde K-2SO
+- Sets LEGO Star Wars collector – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux fans adultes de recréer des scènes culte, d’imaginer de nouvelles histoires et d’exposer les maquettes qu’ils ont construites
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDWH5MZ{{</world>}}

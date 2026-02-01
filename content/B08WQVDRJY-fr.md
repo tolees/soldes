@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FLANELLE BROSSÉE : Cette flanelle de coton mi-épaisse présente une finition brossée ultra-douce, offrant une sensation de confort absolu
 - COUPE CLASSIQUE : Coupe près du corps mais confortable, avec une grande liberté de mouvement
 - DÉTAILS : Col de chemise classique, fermeture boutonnée sur le devant, manches longues avec poignets de chemise pouvant être retroussés pour un look décontracté. Détail d’ourlet pan de chemise, poche à la poitrine, et empiècement au dos avec pli creux pour une coupe ample et décontractée
+- FLANELLE BROSSÉE : Cette flanelle de coton mi-épaisse présente une finition brossée ultra-douce, offrant une sensation de confort absolu
 - CHEMISE POUR TOUS LES JOURS : Cette chemise en flanelle incroyablement douce deviendra la chemise la plus confortable et polyvalente de votre dressing. Parfaite à superposer ou à porter seule. Associez-là à votre jean préféré pour un look décontracté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : 100 % EVA
-- Better Leather
-- Couleur : marron moyen
 - Matériau extérieur : 90 % cuir de vachette, 10 % cuir de vachette
+- Better Leather
+- Semelle : 100 % EVA
+- Couleur : marron moyen
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8JYSFZC{{</world>}}

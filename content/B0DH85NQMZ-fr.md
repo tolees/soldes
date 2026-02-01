@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Carte de Noël avec dispositif pour enregistrer et réproduir des messages audio.
-- Chaque fois que la carte est ouverte, le message sera écouté, et il restera enregistré jusquà ce quun nouveau message le soit. Durée maximale : 15 secondes.
-- Inclus une enveloppe.
 - Avec certification FSC, garantissant quelle est fabriquée avec du papier provenant de forêts gérées de manière responsable.
+- Inclus une enveloppe.
+- Chaque fois que la carte est ouverte, le message sera écouté, et il restera enregistré jusquà ce quun nouveau message le soit. Durée maximale : 15 secondes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DH85NQMZ{{</world>}}

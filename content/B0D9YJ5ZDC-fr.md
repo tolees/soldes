@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les inserts perforés sur les côtés et sur la pointe offrent une respirabilité idéale.
 - La semelle extérieure en caoutchouc préformée offre une résistance et une traction supérieures.
+- Les inserts perforés sur les côtés et sur la pointe offrent une respirabilité idéale.
 - La tige en cuir véritable et en cuir synthétique sadoucit et acquiert une touche vintage au fil de lusage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

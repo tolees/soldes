@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le carbonateur ne nécessite que du gaz CO2 pour fonctionner. Il ny a pas de cordons cachés, ce qui rend le Carbonator 3 aussi confortable sur le comptoir de la cuisine que sur le bar
 - Compatible avec la plupart des bouteilles de gaz CO2 standard (Bouteille de CO2 non incluse)
-- Oubliez les machines de soda en plastique du passé quand il sagit de performance et de qualité, le boîtier en acier inoxydable sans soudure est conçu pour résister à lépreuve du temps
+- Le carbonateur ne nécessite que du gaz CO2 pour fonctionner. Il ny a pas de cordons cachés, ce qui rend le Carbonator 3 aussi confortable sur le comptoir de la cuisine que sur le bar
 - Conçu et fabriqué dans notre propre atelier en Suède
 - Machine à soda de qualité supérieure avec un design compact et une ingénierie haut de gamme pour une utilisation optimale
+- Oubliez les machines de soda en plastique du passé quand il sagit de performance et de qualité, le boîtier en acier inoxydable sans soudure est conçu pour résister à lépreuve du temps
 - Conçue avec le souci du détail à l’esprit, la bouteille deau en PET Aarke s’adapte parfaitement, du comptoir de cuisine à la table à manger, en passant par votre sac fourre-tout à emporter
 
 [🛒 Achète-le!!]({{< param buyurl >}})

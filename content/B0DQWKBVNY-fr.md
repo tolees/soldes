@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur : gris moyen
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
 - Matériau extérieur : 100 % cuir de vachette
-- Couleur : gris moyen
 - Doublure : 63 % cuir de porc - 37 % tissu (100 % polyester recyclé)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

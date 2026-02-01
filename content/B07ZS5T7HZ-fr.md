@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - TAILLE IDEALE : Pour conserver les fruits à coque, lentilles, riz...
-- COUVERCLES HERMETIQUES : Le couvercle des boîtes en bambou avec joint en silicone alimentaire amovible Vont au lave-vaisselle (sans les couvercles)
-- EMBALLAGE ECOLOGQUE : Le set de 3 boites est vendu dans une boite cadeau kraft
 - CONSERVATION SAINE : Pour conserver sainement dans un matériau naturel
 - PRATIQUE : Boîtes hautes empilables en verre borosilicate résistant Forme carrée pour un rangement optimisé
+- EMBALLAGE ECOLOGQUE : Le set de 3 boites est vendu dans une boite cadeau kraft
+- COUVERCLES HERMETIQUES : Le couvercle des boîtes en bambou avec joint en silicone alimentaire amovible Vont au lave-vaisselle (sans les couvercles)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZS5T7HZ{{</world>}}

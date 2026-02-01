@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - À BASE DE CÉRAMIDES : Cette crème Garnier est enrichie en céramides, un hydratant naturel qui forme un film à la surface de la peau pour la protéger. Formule hypoallergénique et testée sous contrôle dermatologique.
-- CONSEILS DAPPLICATION : Appliquez cette crème solaire 50 généreusement sur le corps et le visage avec des mouvements circulaires. Renouvelez fréquemment, surtout après sêtre baigné. Tube éco-conçu avec du carton.
 - DES SOINS SOLAIRES POUR TOUTE LA FAMILLE : Garnier Ambre Solaire est une marque familiale experte en protection solaire, proposant des produits innovants pour protéger tous les types de peaux, même les plus sensibles.
+- CONSEILS DAPPLICATION : Appliquez cette crème solaire 50 généreusement sur le corps et le visage avec des mouvements circulaires. Renouvelez fréquemment, surtout après sêtre baigné. Tube éco-conçu avec du carton.
 - TRÈS HAUTE PROTECTION ANTI-UV : Le lait solaire Garnier FPS 50, sans marque blanche, protège tous les types de peaux des rayons UVA, UVB et UVA longs pour des journées au soleil en toute sécurité ! Résiste à leau.
 - PEAU HYDRATÉE ET PROTÉGÉE EN PROFONDEUR : Cette crème solaire ultralégère offre une très haute protection sur la peau, tout en préservant la barrière cutanée pour une peau uniforme, sans taches pigmentaires. Non gras, non collant.
 

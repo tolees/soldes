@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Ce traitement intense testé sous contrôle dermatologique, sans silicone ni sulfate, est enrichi en niacinamide (vitamine B3) aux pouvoirs apaisants et régulateurs sur les cuirs chevelus sensibles.
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - CUIR CHEVELU APAISE ET CHEVEUX HYDRATES : Développé avec des experts du cuir chevelu, le traitement Apaisant Intense Scalp Advanced apporte +83 % dapaisement du cuir chevelu* et + 96 % dhydratation à la fibre capillaire**.
+- FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Ce traitement intense testé sous contrôle dermatologique, sans silicone ni sulfate, est enrichi en niacinamide (vitamine B3) aux pouvoirs apaisants et régulateurs sur les cuirs chevelus sensibles.
 - TRAITEMENT PROFESSIONNEL POUR CUIR CHEVELU SENSIBLE : Le Traitement LOréal Professionnel Scalp Advanced hydrate les cheveux et soulage intensément les inconforts des cuirs chevelus sensibles sujets aux démangeaisons, sans alourdir la fibre.
 - CONSEILS DUTILISATION : Après le shampoing, appliquer uniformément le soin enrichi en niacinamide sur les cheveux mouillés, des longueurs jusquaux pointes, et sur le cuir chevelu. Masser délicatement par des mouvements circulaires. Rincer abondamment.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPYGB9LF{{</world>}}

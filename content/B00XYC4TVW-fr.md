@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Longueur totale 15.24cm
+- SCFB35PBK Couteau Spyderco Ark Always Ready Knife Acier H1 Manche FRN Made In Japon
+- Lame de type clip point
+- Made In Japon
+- Construction dune seule pièce - Full Tang
+- Longueur de lame 6.50cm
 - Etui kydex
 - Lame en acier H1
-- Longueur totale 15.24cm
-- Made In Japon
-- Couteau Spyderco Ark Always Ready Knife à lame fixe
-- Construction dune seule pièce - Full Tang
-- Lame de type clip point
-- SCFB35PBK Couteau Spyderco Ark Always Ready Knife Acier H1 Manche FRN Made In Japon
-- Longueur de lame 6.50cm
 - Plaquettes du manche en FRN
+- Couteau Spyderco Ark Always Ready Knife à lame fixe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00XYC4TVW{{</world>}}

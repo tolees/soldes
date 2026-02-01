@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 50 ml
-- Nuxe
 - 022474
+- Nuxe
 - Nuxe Prodigieux Floral Eau De Parfum Spray 50ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})

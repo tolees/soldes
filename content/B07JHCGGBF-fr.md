@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Columbia CRESTWOOD Chaussures Basses De Randonnée Et Trekking Homme Noir Shark x Columbia Grey 40 EU'
-date: 2026-01-29 16:20:28
+date: 2026-02-01 00:34:40
 image: 'https://m.media-amazon.com/images/I/413NcXdouCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07JHCGGBF-fr Columbia CRESTWOOD Chaussures Basses De Randonnée Et...'
 sku: 'B07JHCGGBF-fr'
-tags: [ 'Achetez 2 articles et obtenez 10% de réduction sur les chaussures','Arborist Merchandising Root','Bons plans mode','Chaussures basses de randonnée homme','Chaussures de randonnée homme','Chaussures de sport homme','Chaussures homme','Chaussures mode et sport pour hommes','Mode','Mode pour homme','Self Service','Special Features Stores','Top Brands Fashion Selection','Top brands','columbia','e47c5305-c70b-4813-ae72-090bde012bbe_0','e47c5305-c70b-4813-ae72-090bde012bbe_232702','e47c5305-c70b-4813-ae72-090bde012bbe_2701','e47c5305-c70b-4813-ae72-090bde012bbe_3401','e47c5305-c70b-4813-ae72-090bde012bbe_401','e47c5305-c70b-4813-ae72-090bde012bbe_501','e47c5305-c70b-4813-ae72-090bde012bbe_7501','e47c5305-c70b-4813-ae72-090bde012bbe_880502','e47c5305-c70b-4813-ae72-090bde012bbe_901','top brands: shoes','🇫🇷', ]
+tags: [ '🇫🇷', ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7
@@ -16,7 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Columbia CRESTWOOD Chaussures Basses De Randonnée Et Trekking Homme Noir Shark x Columbia Grey 40 EU'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Columbia'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JHCGGBF/?tag=tolees0d-21'
 descuento: '51.62'
 average: '38.7'

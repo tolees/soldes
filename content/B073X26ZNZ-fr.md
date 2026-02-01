@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 10 000 lux à une distance de 20 cm; séance de 30 minutes par jour pour le traitement des coups de blues de lhiver
-- Dispositif médical de classe IIa; exo-énergétique et aucune émission dUV
 - Conçu par des spécialistes de la luminothérapie; garantie de 3 ans
-- Un appareil de luminothérapie compact pour améliorer lhumeur, booster lénergie et stimuler la concentration à la maison, au travail ou au collège
 - Ce produit est un dispositif médical. Conformément à la directive européenne sur létiquetage énergétique, en raison de ses paramètres, ce produit ne nécessite pas dinformations détiquetage énergétique.
+- Dispositif médical de classe IIa; exo-énergétique et aucune émission dUV
+- 10 000 lux à une distance de 20 cm; séance de 30 minutes par jour pour le traitement des coups de blues de lhiver
 - Position en mode portrait ou paysage; LED blanches et un écran de 20 x 28 cm avec diffuseur pour une lumière douce et agréable
+- Un appareil de luminothérapie compact pour améliorer lhumeur, booster lénergie et stimuler la concentration à la maison, au travail ou au collège
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B073X26ZNZ{{</world>}}

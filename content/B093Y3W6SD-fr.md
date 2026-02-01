@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bring Light to the Dark Side: Tap into the power of the light side with this Star Wars Logo Light. Packed in a branded gift box it is the perfect great gift for any fan of the Star Wars franchise luminating your bedroom, games room, work space or whatever galaxy you live in.
+- Designed in the UK: Our officially licensed products are designed responsibly in the UK by Paladone, the award winning, global selling, consumer products company.
 - Iconic Styling: Measuring 28.5cm (11.2 inches) wide, this awesome light can be powered by either the USB cable that is included, or for complete portability you can use 3x AA batteries (not included). The lamp features two light modes, you can choose between the phase on or pulsing light effects plus it can be wall mounted used free standing.
 - For All Fans: Since we were introduced to the adventures of characters "A long time ago in a galaxy far, far away" the iconic Star Wars logo has become instantly recognisable around the globe. Any collector of official Star Wars memorabilia would welcome this as the centrepiece that will also illuminate their collection.
-- Designed in the UK: Our officially licensed products are designed responsibly in the UK by Paladone, the award winning, global selling, consumer products company.
+- Bring Light to the Dark Side: Tap into the power of the light side with this Star Wars Logo Light. Packed in a branded gift box it is the perfect great gift for any fan of the Star Wars franchise luminating your bedroom, games room, work space or whatever galaxy you live in.
 - Official Merchandise: Perfect gift for all fans of Star Wars, superb quality, this Star Wars Logo Light is officially licensed and approved by The Walt Disney Company Limited
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Tapis de souris Antidérapant] Profitez d’une glisse fluide et précise avec le tapis du pack clavier souris gamer. Conçu pour accompagner votre souris, il optimise vos mouvements pour des performances sans compromis. Complétez votre setup gaming complet avec style et efficacité.
-- [Un pack gaming 4-en-1] Transformez votre expérience de jeu avec le Combo Natrium, le pack 4-en-1 idéal pour un setup gaming complet. Ce pack gaming inclut un clavier gamer, une souris performante, un casque immersif et un tapis de précision. Tout ce qu’il vous faut pour dominer vos parties et compléter votre pack pc gamer que ce soit sur PC-PS4-PS5-XBOX.
 - [Casque Gaming & Son Immersif] Plongez au cœur de l’action grâce au casque gaming Ps5 /Ps4/Xbox/PC. Ce micro casque délivre un son immersif pour vous immerger pleinement dans vos jeux. C’est l’allié idéal pour votre setup gaming et vos parties en équipe.
+- [Tapis de souris Antidérapant] Profitez d’une glisse fluide et précise avec le tapis du pack clavier souris gamer. Conçu pour accompagner votre souris, il optimise vos mouvements pour des performances sans compromis. Complétez votre setup gaming complet avec style et efficacité.
 - [Clavier gamer réactif et rétroéclairé] Le clavier inclus dans le pack clavier souris gaming offre un confort de jeu exceptionnel avec ses 12 raccourcis multimédias et son rétroéclairage Rainbow. Doté de 19 touches anti-ghosting, il garantit une réactivité parfaite même dans les moments les plus intenses. Que ce soit pour un usage PC ou un usage sur console, ce clavier gamer ps5, répond aux attentes des gamers exigeants.
 - [Souris gamer Ultra précise] Prenez le contrôle avec la souris ultra-réactive du pack clavier souris gaming. Avec ses 6400 DPI, son rétroéclairage stylé et sa fréquence de 125 Hz, elle vous assure une précision chirurgicale, essentielle pour exceller dans vos sessions gaming.
+- [Un pack gaming 4-en-1] Transformez votre expérience de jeu avec le Combo Natrium, le pack 4-en-1 idéal pour un setup gaming complet. Ce pack gaming inclut un clavier gamer, une souris performante, un casque immersif et un tapis de précision. Tout ce qu’il vous faut pour dominer vos parties et compléter votre pack pc gamer que ce soit sur PC-PS4-PS5-XBOX.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPLBD39X{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : 100 % caoutchouc
 - Matériau extérieur : coton recyclé
 - Couleur : bleu marine
+- Semelle : 100 % caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ3J7CBR{{</world>}}

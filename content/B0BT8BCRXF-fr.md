@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Il possède des roues arrière qui peuvent être éjectées
+- Il est guidé par un chevalier Burnham Raiders
 - Le chariot de combat est équipé dun siège éjectable qui sactive en frappant lavant du véhicule
 - Un canon sur le toit permet lattaque.
-- Il est guidé par un chevalier Burnham Raiders
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT8BCRXF{{</world>}}

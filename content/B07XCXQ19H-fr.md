@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants découvrent Heartlake City de LEGO Friends, un lieu passionnant fait d’imagination et d’amitié, où ils sont accueillis chaleureusement par des personnages qui leur ressemblent.
 - Chaque cube mesure un peu plus de 8 cm de large et 6 cm de long, ce qui en fait le jouet idéal à emporter chez ses amis. Ces jouets transportables colorés sont également parfaits pour égayer de longs voyages.
-- Le groupe LEGO soumet tous les éléments et briques LEGO à tous les tests de chute, chaleur, morsure et rayure possibles afin de vérifier que chaque set de construction LEGO pour enfant est conforme aux normes de qualité et de sécurité les plus élevées au monde.
-- Les constructions faciles contenues dans le cube sont un excellent moyen dinitier les enfants à lunivers LEGO et permettent de commencer à jouer rapidement. Cette animalerie constitue une formidable récompense ou un superbe cadeau d’anniversaire ou de Noël pour les enfants de 6 ans et plus.
-- Les sets de jeu et de briques de construction LEGO sont conformes aux normes industrielles les plus élevées. Les enfants qui construisent ce set de mini-poupées constateront que les briques sassemblent toujours solidement et se séparent facilement.
-- Un maximum d’amusement dans un minimum despace. Ce set comprend une mini-poupée, un mini animal et un aquarium. Les accessoires des mini-poupées rendent le jeu encore plus réaliste, et une feuille dautocollants permet de personnaliser le jouet.
-- Les enfants peuvent jouer avec les animaux à l’extérieur du cube ou emmener le tout en voyage. Chaque cube peut s’empiler et s’imbriquer avec tous les cubes de jeu LEGO Friends afin de créer des formes ludiques à exposer. Les enfants peuvent également les diviser en deux pour jouer avec un(e) ami(e).
 - En voyage, les enfants peuvent imaginer des aventures LEGO Friends passionnantes grâce à cette animalerie transportable. Ce jeu compact LEGO permet aux enfants de jouer avec la mini-poupée et l’animalerie où qu’ils soient.
+- Les enfants peuvent jouer avec les animaux à l’extérieur du cube ou emmener le tout en voyage. Chaque cube peut s’empiler et s’imbriquer avec tous les cubes de jeu LEGO Friends afin de créer des formes ludiques à exposer. Les enfants peuvent également les diviser en deux pour jouer avec un(e) ami(e).
+- Un maximum d’amusement dans un minimum despace. Ce set comprend une mini-poupée, un mini animal et un aquarium. Les accessoires des mini-poupées rendent le jeu encore plus réaliste, et une feuille dautocollants permet de personnaliser le jouet.
+- Les sets de jeu et de briques de construction LEGO sont conformes aux normes industrielles les plus élevées. Les enfants qui construisent ce set de mini-poupées constateront que les briques sassemblent toujours solidement et se séparent facilement.
+- Les constructions faciles contenues dans le cube sont un excellent moyen dinitier les enfants à lunivers LEGO et permettent de commencer à jouer rapidement. Cette animalerie constitue une formidable récompense ou un superbe cadeau d’anniversaire ou de Noël pour les enfants de 6 ans et plus.
+- Le groupe LEGO soumet tous les éléments et briques LEGO à tous les tests de chute, chaleur, morsure et rayure possibles afin de vérifier que chaque set de construction LEGO pour enfant est conforme aux normes de qualité et de sécurité les plus élevées au monde.
+- Les enfants découvrent Heartlake City de LEGO Friends, un lieu passionnant fait d’imagination et d’amitié, où ils sont accueillis chaleureusement par des personnages qui leur ressemblent.
 - Pas besoin de piles pour donner vie à cette animalerie. Le jouet se sépare en deux, sempile et simbrique avec dautres cubes, chacun renfermant un animal mystère. Les possibilités sont infinies !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

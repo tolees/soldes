@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LAYER LIKE A PLAYER - Looking for a perfume that is unique to you? Say hello to our So…? Unique body mist range. Each scent can be worn alone, or adapted and blended for every mood, schedule and occasion.
-- FRAGRANCE NOTES - Sweet, Vanilla, Citrus, Woody, Amber, Oriental, Fruity, Floral.
-- RECYCLABLE AND CRUELTY FREE - All So…? Body mist sprays are proud to be cruelty free and packaged in recyclable packaging
-- THE PERFECT FRAGRANCE GIFT SET - The So…? body mist & perfume collection gift sets are the perfect presents for mums, teenagers, daughters & grans year round and at Christmas. Individual bottles can also be the perfect stocking fillers!
 - WHO ARE SO....? - So…? Fragrance is the #1 best-selling self-select fragrance brand in the UK. Our mission is to offer high quality fragrances that suit all tastes and budgets, as we believe that beauty should be inclusive and available to all! Our fragrance collections make the ideal gifts for women, girls, teengage girls and stocking fillers at Christmas.
+- FRAGRANCE NOTES - Sweet, Vanilla, Citrus, Woody, Amber, Oriental, Fruity, Floral.
+- THE PERFECT FRAGRANCE GIFT SET - The So…? body mist & perfume collection gift sets are the perfect presents for mums, teenagers, daughters & grans year round and at Christmas. Individual bottles can also be the perfect stocking fillers!
+- RECYCLABLE AND CRUELTY FREE - All So…? Body mist sprays are proud to be cruelty free and packaged in recyclable packaging
+- LAYER LIKE A PLAYER - Looking for a perfume that is unique to you? Say hello to our So…? Unique body mist range. Each scent can be worn alone, or adapted and blended for every mood, schedule and occasion.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9NK1ZRX{{</world>}}

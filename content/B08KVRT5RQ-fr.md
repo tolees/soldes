@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient un personnage, une moto, une tente, un plateau élévateur, un masque de soudure, des huiles, une caisse à outils, etc
-- Grâce à son atelier bien équipé, il peut réparer les véhicules en un rien de temps ! Mais ce qu’il préfère par dessus tout, c’est bricoler sa moto.
-- Lincroyable Stuntshow Playmobil est lévènement où tous les cascadeurs rêvent de performer ! Ce spectacle haut en couleurs impressionnera tous les petits et les grands fans de cascade et de vitesse !
 - Avec la figurine mécanicien et ses accessoires, les enfants laissent parler leur créativité et imaginent une multitude d’aventures !
+- Grâce à son atelier bien équipé, il peut réparer les véhicules en un rien de temps ! Mais ce qu’il préfère par dessus tout, c’est bricoler sa moto.
 - Le mécanicien du Stuntshow est un véritable expert, aucun problème mécanique ne lui résiste. Peut être combiné avec la StuntShow Voiture crash-test.
+- Lincroyable Stuntshow Playmobil est lévènement où tous les cascadeurs rêvent de performer ! Ce spectacle haut en couleurs impressionnera tous les petits et les grands fans de cascade et de vitesse !
+- Contient un personnage, une moto, une tente, un plateau élévateur, un masque de soudure, des huiles, une caisse à outils, etc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KVRT5RQ{{</world>}}

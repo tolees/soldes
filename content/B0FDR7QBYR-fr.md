@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CONÇU POUR LES PEAUX SENSIBLES : Ce déodorant est idéal pour les peaux sensibles et convient à tous. Il contient des ingrédients de soin pour la peau, 0% alcool et est anti-traces blanches.
 - ANTI-ODEURS & SOIN TOUTE LA JOURNÉE : Ce déodorant spray anti-odeurs 72h et anti-traces blanches conçu pour les peaux sensibles peut être utilisé sur les aisselles, la poitrine, les cuisses & plus.
-- PREND SOIN DE LA PEAU : Testée sous contrôle dermatologique, la formule douce de ce déodorant 0% alcool contient des huiles de soin et hydrate votre peau.
 - PARFUM REVITALISANT : Sentez-vous fraîche toute la journée grâce à ce déodorant au parfum Framboise & Rose. Il laissera sur votre peau un sillage fruité et fleuri.CERTIFIÉ PETA : À léchelle mondiale, Dove ne procède à aucun test sur les animaux. Ce déodorant corps est certifié Cruelty Free (sans cruauté) par PETA.
+- PREND SOIN DE LA PEAU : Testée sous contrôle dermatologique, la formule douce de ce déodorant 0% alcool contient des huiles de soin et hydrate votre peau.
 - APPLICATION CIBLÉE : Ce déodorant pour tout le corps spray permet datteindre facilement les zones difficiles daccès comme le dos ou les pieds grâce à son utilisation tête en bas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

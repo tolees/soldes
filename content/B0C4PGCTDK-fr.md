@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception durable
 - Facile à mettre et à enlever
+- Conception durable
 - Une semelle en caoutchouc pleine longueur adhère aux surfaces pour une traction durable
 - Fabriquées en cuir
 

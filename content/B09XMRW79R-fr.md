@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de produit: PHYSICAL_MOVIE
 - Les Animaux Fantastiques 1-3 [France] [Blu-ray]
+- Type de produit: PHYSICAL_MOVIE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XMRW79R{{</world>}}

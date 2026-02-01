@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Montage : La lampe pour chambre à coucher a les dimensions de 500x388x80 mm. La livraison comprend un support de montage, 2 vis, 2 chevilles, une télécommande avec piles, ainsi quun manuel descriptif.Ce produit est un produit environnant. Les produits environnants sont des luminaires qui peuvent être démontés pour un contrôle séparé de la ou des sources lumineuses quils contiennent.
-- Miracle fonctionnel : le plafonnier-cadre LED peut être pivoté et est commandé par télécommande. Cela vous permet de contrôler la température de la lumière (fonction CCT) et la gradation, vous pouvez également démarrer une minuterie (60s) et la fonction veilleuse. La veilleuse réduit lintensité lumineuse à 10 % et éclaire doucement avec une lumière blanche chaude. Tous les réglages déclairage sont mémorisés par la fonction de mémoire.
-- Alimentation : Le plafonnier de bureau est équipé de 2 platines LED. Avec un total de 4200 lumens, il éclaire parfaitement vos espaces de vie, tels que la chambre, le couloir, le salon, le bureau ou la cuisine. La température de la lumière est réglable à linfini entre toutes les nuances dun blanc froid, neutre ou chaud entre 6500 et 2700 Kelvin. La lumière est aussi dimmable afin dadapter léclairage parfaitement à vos besoins.
-- En plus des nombreuses fonctions, la rosace de plafond chromée est doté dun cadre éclairé
 - Pivotant : les deux cadres LED en aluminium brossé sont pivotants. La rosace de plafond a les dimensions de 16 x 10,5 cm. Les trous de fixation sont espacés de 7,5 cm.
+- En plus des nombreuses fonctions, la rosace de plafond chromée est doté dun cadre éclairé
+- Alimentation : Le plafonnier de bureau est équipé de 2 platines LED. Avec un total de 4200 lumens, il éclaire parfaitement vos espaces de vie, tels que la chambre, le couloir, le salon, le bureau ou la cuisine. La température de la lumière est réglable à linfini entre toutes les nuances dun blanc froid, neutre ou chaud entre 6500 et 2700 Kelvin. La lumière est aussi dimmable afin dadapter léclairage parfaitement à vos besoins.
+- Miracle fonctionnel : le plafonnier-cadre LED peut être pivoté et est commandé par télécommande. Cela vous permet de contrôler la température de la lumière (fonction CCT) et la gradation, vous pouvez également démarrer une minuterie (60s) et la fonction veilleuse. La veilleuse réduit lintensité lumineuse à 10 % et éclaire doucement avec une lumière blanche chaude. Tous les réglages déclairage sont mémorisés par la fonction de mémoire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B092HSFBQ6{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Assortiment format minis
-- Carambar sengage à réduire le plastique de ses emballages : un engagement fort grâce à un travail de fond mené sur le long terme. Ce sont en moyenne 76% des déchets qui sont valorisés dans nos usines
 - Découvrez Carambar Minis Fête, un assortiment de bonbons tendres, en format mini : Barbe à papa, Cola, Caramel, Framboise, pêche! Alors lequel préféres-tu
 - Un produit Made in France
 - Une forme légendaire connue de tous
+- Carambar sengage à réduire le plastique de ses emballages : un engagement fort grâce à un travail de fond mené sur le long terme. Ce sont en moyenne 76% des déchets qui sont valorisés dans nos usines
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DJ957CZ{{</world>}}

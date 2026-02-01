@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’adaptateur pour monture FTZ II est compatible avec environ 360 objectifs à monture F, dont 94 sont de type AF-S, AF-P ou AF-I et offrent des performances AF/AE optimales (nov 2021)
 - Viseur électronique OLED de 0,99 cm et résolution de 2360 k pixels (XGA)
-- bague dadaptation permettant lusage doptique F (Reflex) sur les hybride Z (à monture Z)
+- L’adaptateur pour monture FTZ II est compatible avec environ 360 objectifs à monture F, dont 94 sont de type AF-S, AF-P ou AF-I et offrent des performances AF/AE optimales (nov 2021)
 - Large monture Nikon Z et grand capteur 20,9 MP au format DX
+- bague dadaptation permettant lusage doptique F (Reflex) sur les hybride Z (à monture Z)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NT5V8SM{{</world>}}

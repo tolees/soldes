@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Activités éducatives avec différents niveaux: Langues, Mathématiques, Logique, Sections musicales, Lecture de l’heure
-- Écran LCD avec des animations
-- Adorables musiques et mélodies !
-- Langue : allemand/anglais
 - Langage: lettres, mots, dactylographie et orthographe
-- Comprend également de nombreux jeux pour s’amuser après lapprentissage
-- Mathématiques: nombres et calcul (4 opérations)
-- Ergonomie inspirée de véritables ordinateurs. Format pratique ultra-léger, pour une prise en main facile
-- Culture générale et apprentissage de lheure. Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies)
+- Activités éducatives avec différents niveaux: Langues, Mathématiques, Logique, Sections musicales, Lecture de l’heure
 - Clavier complet pour répondre aux questions
+- Ergonomie inspirée de véritables ordinateurs. Format pratique ultra-léger, pour une prise en main facile
+- Comprend également de nombreux jeux pour s’amuser après lapprentissage
+- Langue : allemand/anglais
+- Culture générale et apprentissage de lheure. Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies)
+- Écran LCD avec des animations
+- Mathématiques: nombres et calcul (4 opérations)
+- Adorables musiques et mélodies !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08B5SS9DD{{</world>}}

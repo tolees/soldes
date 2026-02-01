@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur de lencre : bleu
-- Un message en anglais en bas et un personnage M. ; magnifique suspendu à une petite chaîne à son extrémité
+- Stylo avec embout en plastique transparent, avec paillettes à lintérieur
 - Idéal pour offrir en cadeau
 - Pen - Here comes the fun
-- Stylo avec embout en plastique transparent, avec paillettes à lintérieur
+- Couleur de lencre : bleu
+- Un message en anglais en bas et un personnage M. ; magnifique suspendu à une petite chaîne à son extrémité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB1NR26V{{</world>}}

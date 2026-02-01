@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : Amovible en EVA avec système damorti
-- Tige : Cuir de vachette
 - 42 % Coton (49% BCI) 34 % Textile (60 % Nylon - 40 % PU) 21 % Cuir de porc 3 % Textile (84 % PET recyclé - 16 % Latex)
 - Doublure :
 - Couleur : noir
+- Tige : Cuir de vachette
+- Semelle intérieure : Amovible en EVA avec système damorti
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07B24QD4Z{{</world>}}

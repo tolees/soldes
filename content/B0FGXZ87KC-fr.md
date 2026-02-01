@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- FIRE TV & ALEXA : Profitez de vos programmes préférés sur Netflix, Prime Video, Disney+ ainsi que des fonctionnalités exclusives de Panasonic. Alexa peut également vous aider à créer lambiance idéale pour votre soirée cinéma. Appuyez simplement sur le bouton Alexa de votre télécommande et utilisez votre voix pour trouver de nouveaux contenus, et interagir avec vos appareils connectés.
+- MODE JEU EXTREME : Améliorez vos jeux avec un taux de rafraîchissement de 120 Hz, VRR et AMD FreeSync Premium sur ce téléviseur UHD, en réduisant le décalage dentrée pour un gameplay fluide
+- DOLBY VISION & MULTI HDR : Profitez de détails vifs et couleus vifs avec Dolby Vision, HDR10+ et HLG sur cette Smart TV OLED, garantissant le meilleur pour les films, les sports et les scènes daction
 - ÉCRAN QLED 4K : Profitez dimages exceptionnelles aux couleurs éclatantes grâce à la technologie QLED, au processeur HCX et au Bright Panel Plus sur ce téléviseur UHD 4K
 - SON DOLBY ATMOS : Plongez dans un son cinéma avec ce téléviseur 4K Ultra HD, doté de la technologie Dolby Atmos et dun woofer intégré, pour une expérience audio complète
-- FIRE TV & ALEXA : Profitez de vos programmes préférés sur Netflix, Prime Video, Disney+ ainsi que des fonctionnalités exclusives de Panasonic. Alexa peut également vous aider à créer lambiance idéale pour votre soirée cinéma. Appuyez simplement sur le bouton Alexa de votre télécommande et utilisez votre voix pour trouver de nouveaux contenus, et interagir avec vos appareils connectés.
 - MODE CINÉMA : Regardez des films tels que les réalisateurs les ont conçus sur ce téléviseur HDR, avec paramètres dimage et de mouvement optimisés
-- DOLBY VISION & MULTI HDR : Profitez de détails vifs et couleus vifs avec Dolby Vision, HDR10+ et HLG sur cette Smart TV OLED, garantissant le meilleur pour les films, les sports et les scènes daction
-- MODE JEU EXTREME : Améliorez vos jeux avec un taux de rafraîchissement de 120 Hz, VRR et AMD FreeSync Premium sur ce téléviseur UHD, en réduisant le décalage dentrée pour un gameplay fluide
 - SUPPORT APPLE : Contrôlez votre télé 4K avec Apple AirPlay et Apple Home
 
 [🛒 Achète-le!!]({{< param buyurl >}})

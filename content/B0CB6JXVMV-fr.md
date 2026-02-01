@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En lâchant une voiture dans la queue du cobra (élément inclus), les enfants verront laquelle des trois trajectoires elle empruntera de manière aléatoire. Un jeu rempli de suspense et d’aventures.
 - Contient 1 voiture Hot Wheels à l’échelle 1/64, une excellente idée de cadeau en toutes occasions !
-- Connectez cette piste à d’autres coffrets Hot Wheels et Matchbox pour des heures de jeu et une multitude d’aventures.
 - La piste démarre au niveau de la queue du cobra et propose trois possibilités : soit elle mène directement dans la gueule du reptile, soit elle débouche sur une benne à ordures, soit elle déclenche l’envoi d’une pizza dans la tête du cobra !
 - La piste figure dans la série Netflix « Let’s Race ». Les enfants peuvent rejouer leurs scènes préférées ou en créer de nouvelles tout droit sorties de leur imagination !
+- En lâchant une voiture dans la queue du cobra (élément inclus), les enfants verront laquelle des trois trajectoires elle empruntera de manière aléatoire. Un jeu rempli de suspense et d’aventures.
 - Sauvez la pizzeria Hot Wheels City d’un énorme cobra qui l’a envahie !
+- Connectez cette piste à d’autres coffrets Hot Wheels et Matchbox pour des heures de jeu et une multitude d’aventures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB6JXVMV{{</world>}}
