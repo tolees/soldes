@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- la tuyauterie dépaule inspire un look classique au football
 - La technologie Dri-FIT vous permet de rester au sec, confortable et concentré
 - 100% de polyester recyclé
 - Coupe près du corps pour une sensation sur mesure
-- la tuyauterie dépaule inspire un look classique au football
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W82SMZW{{</world>}}

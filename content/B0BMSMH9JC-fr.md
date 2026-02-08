@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DEUX FOIS PLUS DE PLAISIR : Le modèle DUO 2 vise à la fois le point G à l’aide de vibrations et le clitoris grâce à la Pleasure Air Technology et son effet d’aspiration pour un orgasme mixte d’une puissance inégalée. De plus, les stimulations internes et externes peuvent être commandées séparément.
-- FINIR EN BEAUTɠ: La fonction Afterglow permet de finir l’orgasme en douceur en réduisant rapidement l’intensité de la stimulation.
 - UN PLAISIR SUR MESURE : Avec 14 niveaux d’intensité finement ajustés, 10 modes de vibration et 2 embouts de stimulation de tailles différentes, vous pouvez trouver précisément le réglage qui vous convient. Le sextoy est waterproof et peut donc être utilisé n’importe où.
-- UN VRAI CHANGEMENT D’AIR : Création originale de Womanizer, la Pleasure Air Technology est une véritable révolution en termes de stimulation clitoridienne. Avec des vagues d’air pulsé à la fois douces et intenses, DUO 2 crée un effet d’aspiration qui excite le clitoris de façon absolument inédite.
+- DEUX FOIS PLUS DE PLAISIR : Le modèle DUO 2 vise à la fois le point G à l’aide de vibrations et le clitoris grâce à la Pleasure Air Technology et son effet d’aspiration pour un orgasme mixte d’une puissance inégalée. De plus, les stimulations internes et externes peuvent être commandées séparément.
 - UNE DOUCEUR SANS PAREIL : Revêtu de silicone ultra-doux, hygiénique et de qualité supérieure, DUO 2 est aussi agréable qu’une caresse, particulièrement résistant et très facile à nettoyer.
+- UN VRAI CHANGEMENT D’AIR : Création originale de Womanizer, la Pleasure Air Technology est une véritable révolution en termes de stimulation clitoridienne. Avec des vagues d’air pulsé à la fois douces et intenses, DUO 2 crée un effet d’aspiration qui excite le clitoris de façon absolument inédite.
+- FINIR EN BEAUTɠ: La fonction Afterglow permet de finir l’orgasme en douceur en réduisant rapidement l’intensité de la stimulation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BMSMH9JC{{</world>}}

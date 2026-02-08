@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 68 g de vitesse super légère : conçue pour être plus légère que la Model O Wireless, la Model O 2 Wireless ne pèse que 68 g, pour un tracking précis des cibles. Moins de poids, plus de contrôle.
 - Clics fiables : le nouveau design à bouton partagé, associé à nos switches Glorious sur mesure à 80M de clics, donne une expérience de clic précise et fiable quel que soit l’emplacement du clic. Conçue pour éviter les mouvements pré et post-déplacement, vos doigts trouveront toujours une tactilité précise et la plus haute réactivité.
 - Capteur nouvelle génération : conçu pour les vitesses extrêmes, le capteur BAMF 2.0 offre un tracking à 650 IPS, 50G d’accélération et jusqu’à 26 000 DPI de résolution pour le plus haut niveau de fiabilité et de contrôle. Avec Motion Sync, vous obtenez le tracking le plus précis, et une souris en parfaite synchronisation avec le curseur.
 - Comme l’éclair : avec sa connectivité hybride 2,4 GHz sans fil et Bluetooth, la Model O 2 Wireless est ultra rapide et permet de passer d’un mode à l’autre grâce au commutateur au pied de la souris. Jouez à pendant 110 h en mode 2,4 GHz, ou optez pour la durée avec 210 h sur Bluetooth 5.2 LE*. (*RGB désactivé)
 - Design optimisé : la Model O 2 Wireless a été mise à jour avec des perforations de coque plus petites, pour plus de confort et de solidité. Sa nouvelle texture de surface adhérente permet de garder la souris sous contrôle. Sa forme ambidextre est adaptée à tous les styles de prise, pour les joueurs aux mains de moyenne à grande taille.
-- 68 g de vitesse super légère : conçue pour être plus légère que la Model O Wireless, la Model O 2 Wireless ne pèse que 68 g, pour un tracking précis des cibles. Moins de poids, plus de contrôle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BLFMS36J{{</world>}}

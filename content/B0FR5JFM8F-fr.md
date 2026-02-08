@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti EVA confortable
 - Laçage classique
+- Amorti EVA confortable
 - Tige combinée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

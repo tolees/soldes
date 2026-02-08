@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manufacture Rock blanc Assiette plate 27cm
 - Villeroy & Boch
-- Numéro darticle : 10-4240-2620
 - Matériel: Porcelaine Premium
+- Manufacture Rock blanc Assiette plate 27cm
+- Numéro darticle : 10-4240-2620
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HRLSLCS{{</world>}}

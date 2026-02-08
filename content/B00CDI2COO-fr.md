@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format 120 x 57 mm
-- Boîte de 1 000 étiquettes
-- Compatible avec tous types d’encre : stylo, feutre, tampon, marqueur…
 - Multi-usages : cadeaux, artisanat, stockage, prix, pressing, événements
+- Compatible avec tous types d’encre : stylo, feutre, tampon, marqueur…
+- Boîte de 1 000 étiquettes
+- Format 120 x 57 mm
 - Papier Bristol crème 160 g/m²
 - Œillet renforcé
 

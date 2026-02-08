@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque infusion est emballée dans un sachet en papier certifié FSC pour préserver son goût et sa qualité jusqu’au moment de la dégustation.
 - Découvrez nos délicieuses infusions : Citron, gingembre et touche de miel de manuka, Soirée étoilée, Thé vert suprême & matcha, Trois menthes et Détox de fruits rouges.
-- Nous vous invitons à découvrir notre coffret cadeau Pukka Collection Découverte, une sélection magnifiquement conçue de nos thés et infusions biologiques les plus appréciés.
 - Tous les ingrédients sont testés par nos experts en herboristerie pour leur teneur en huiles essentielles, garantissant ainsi une infusion riche en goût et en bienfaits dans chaque tasse.
+- Nous vous invitons à découvrir notre coffret cadeau Pukka Collection Découverte, une sélection magnifiquement conçue de nos thés et infusions biologiques les plus appréciés.
 - Avec 30 sachets répartis en 5 saveurs délicieuses, laissez-vous séduire par les arômes apaisants et les saveurs raffinées de nos infusions biologiques, élaborées avec les meilleurs ingrédients.
+- Chaque infusion est emballée dans un sachet en papier certifié FSC pour préserver son goût et sa qualité jusqu’au moment de la dégustation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F43S2TR3{{</world>}}

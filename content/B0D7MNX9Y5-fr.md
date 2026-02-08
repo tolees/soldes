@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - À la différence des écouteurs boutons circulaires traditionnels, le design des EarPods épouse la géométrie de l’oreille. Ce qui les rend plus confortables que tout autre écouteur de ce type pour un plus grand nombre de personnes.
 - Contrôle de la lecture audio et vidéo
-- Meilleure protection contre la transpiration et l’eau
 - Les haut-parleurs des EarPods ont été conçus pour optimiser la puissance sonore tout en réduisant au maximum les déperditions, pour vous offrir un son de qualité supérieure.
+- Meilleure protection contre la transpiration et l’eau
 - Les écouteurs EarPods avec connecteur Lightning intègrent une télécommande qui permet de régler le volume, contrôler la lecture audio et vidéo, et passer ou mettre fin aux appels, d’une simple pression sur le fil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

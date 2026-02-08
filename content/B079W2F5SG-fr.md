@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Yes I Am de Cacharel est une eau de parfum longue durée pour la nouvelle génération de femme qui osent tout, indépendantes, puissantes, audacieuses, et qui se montrent séduisantes et qui prennent leurs propres décisions. Une déclaration démancipation féminine et daffirmation de soi : Yes I Am.
-- Parfum fruité de longue durée avec une tenue idéale pour un usage quotidien sans être entêtant et apportant une note de séduction féminine.
 - Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
+- Parfum fruité de longue durée avec une tenue idéale pour un usage quotidien sans être entêtant et apportant une note de séduction féminine.
+- Yes I Am de Cacharel est une eau de parfum longue durée pour la nouvelle génération de femme qui osent tout, indépendantes, puissantes, audacieuses, et qui se montrent séduisantes et qui prennent leurs propres décisions. Une déclaration démancipation féminine et daffirmation de soi : Yes I Am.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079W2F5SG{{</world>}}

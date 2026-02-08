@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Appliquer sur cheveux et répartir sur les longueurs. Après 1 à 2 minutes de pose, procéder au shampoing Metal Detox, en superposition, sans rincer le pré-shampoing.
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- PRE-SHAMPOING PROFESSIONNEL ANTI-POROSITE : Le Pré-Shampoing LOréal Professionnel Metal Detox comble les zones poreuses de la fibre capillaire et crée une barrière protectrice contre les résidus métalliques présents dans l’eau.
 - DES CHEVEUX HYDRATES ET REPARES : Le soin pré-shampoing Metal Detox offre 72h dhydratation, de douceur et de souplesse, tout en comblant 1 million de micro-cassures en 1 minute* pour offrir un effet anti-porosité.
 - FORMULE ENRICHIE EN GLICOFILLER : Ce pré-shampoing renferme lactif Glicofiller qui agit en surface et dans le cortex capillaire pour prévenir labsorption excessive deau contenant des métaux.
-- PRE-SHAMPOING PROFESSIONNEL ANTI-POROSITE : Le Pré-Shampoing LOréal Professionnel Metal Detox comble les zones poreuses de la fibre capillaire et crée une barrière protectrice contre les résidus métalliques présents dans l’eau.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- CONSEILS DUTILISATION : Appliquer sur cheveux et répartir sur les longueurs. Après 1 à 2 minutes de pose, procéder au shampoing Metal Detox, en superposition, sans rincer le pré-shampoing.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVLD2BGK{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Achetez maintenant – Profitez-en plus tard ! Nos chèques-cadeaux offrent liberté et flexibilité avec une validité allant jusqu’à 3 ans et 3 mois.
+- 1 nuit avec petit-déjeuner en Europe pour 2 personnes
 - Ce coffret cadeau contient : - un catalogue des activités, hôtels, restaurants et soins bien-être - un chèque cadeau sans indication de prix permettant au destinataire de réserver et dutiliser le service sélectionné.
 - 1573 séjours en Europe
-- 1 nuit avec petit-déjeuner en Europe pour 2 personnes
+- Achetez maintenant – Profitez-en plus tard ! Nos chèques-cadeaux offrent liberté et flexibilité avec une validité allant jusqu’à 3 ans et 3 mois.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08L7SJCJ8{{</world>}}

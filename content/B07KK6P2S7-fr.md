@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Crayon Nicpro série MP1000 : livré avec 3 porte-mines entièrement en métal avec 8 tubes de mine HB de 0,5 mm, 3 gommes souples 4B, 9 minis capuchons de recharge dans un étui de rangement robuste
 - Performance inégalée : conçu avec un design dingénierie avancé, tout en répondant aux besoins esthétiques, le crayon garantit également une performance optimale davancement de la mine, ce qui le rend élégant, résistant à la casse et très durable
 - 480 recharges de plomb de qualité supérieure : comprend 8 tubes de recharges de plomb, 60 pièces/tube. Ces mines en résine ne se cassent pas facilement à la pointe ou ne se cassent pas dans la tige, produisent des lignes foncées claires, vous offrant une écriture ultra lisse.
-- Crayon Nicpro série MP1000 : livré avec 3 porte-mines entièrement en métal avec 8 tubes de mine HB de 0,5 mm, 3 gommes souples 4B, 9 minis capuchons de recharge dans un étui de rangement robuste
 - Ensemble de porte-mines idéal : idéal pour les enseignants et les étudiants en art, les artistes, les professionnels et les ingénieurs. Parfait pour lécriture scolaire, le dessin, lesquisse ou le travail architectural, la prise de notes. Essayez-le !
 - Poignée antidérapante filetée en métal : le crayon Nicpro MP1000 adopte un corps hexagonal fantaisie avec une poignée filetée en métal, un crayon bien équilibré qui vous apporte une expérience décriture et de dessin confortable et sans fatigue
 

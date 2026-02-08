@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Wizardry : Proving Grounds of the Mad Overlord est construit directement sur le code du jeu original de 1981.
-- Wizardry : Proving Grounds of the Mad Overlord est un remake en 3D du premier jeu de la légendaire série de RPG Wizardry.
 - La gestion des groupes, la navigation, lincantation et le combat ont tous été améliorés de manière significative.
+- Wizardry : Proving Grounds of the Mad Overlord est un remake en 3D du premier jeu de la légendaire série de RPG Wizardry.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJBXCWB5{{</world>}}

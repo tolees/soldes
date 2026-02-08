@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ② 【Filament PLA 1.75 mm】 - Calibré avec précision à 1.75 mm ±0.02 mm grâce à un système laser automatisé, ce filament 3D PLA garantit une rondité parfaite et un diamètre constant, idéal pour les imprimantes 3D.
 - ① 【SUNLU PLA Filament】- Le filament 3D SUNLU PLA combine un PLA de haute pureté avec un faible retrait et une fluidité de fusion supérieure, garantissant une impression sans colmatage et une stabilité dimensionnelle.
-- ③ 【Neatly Wound Filament】- Le système denroulement SUNLU garantit des bobines sans enchevêtrement. Les bords renforcés empêchent le relâchement pendant le transport, prêt à lemploi dès la sortie de la boîte.
-- ④ 【Compatibilité universelle des bobines】- diamètre de 19,5 cm, largeur de 5,9 cm et trou de moyeu de 6,3 cm. Se monte sans effort sur les supports dimprimante courants pour un fonctionnement stable.
 - ⑤ 【Optimized Printing Parameters】- Pour obtenir les meilleurs résultats dimpression avec le PLA filament, nous recommandons des réglages à : Buse 200-230°C, lit 50-65°C, vitesse 50-100mm/s.
+- ④ 【Compatibilité universelle des bobines】- diamètre de 19,5 cm, largeur de 5,9 cm et trou de moyeu de 6,3 cm. Se monte sans effort sur les supports dimprimante courants pour un fonctionnement stable.
+- ② 【Filament PLA 1.75 mm】 - Calibré avec précision à 1.75 mm ±0.02 mm grâce à un système laser automatisé, ce filament 3D PLA garantit une rondité parfaite et un diamètre constant, idéal pour les imprimantes 3D.
+- ③ 【Neatly Wound Filament】- Le système denroulement SUNLU garantit des bobines sans enchevêtrement. Les bords renforcés empêchent le relâchement pendant le transport, prêt à lemploi dès la sortie de la boîte.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BTHSVQ89{{</world>}}

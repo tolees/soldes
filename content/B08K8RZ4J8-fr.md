@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ANTI-CERNES TOTAL COUVRANCE : Un anti-cernes liquide longue tenue et correcteur total couvrance qui camoufle les imperfections tout au long de la journée.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests dermatologiques. Soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact.
 - RÉDUIT VISIBLEMENT LES POCHES SOUS LES YEUX : Lanti-cernes perfectionne et décongestionne lapparence du contour des yeux.
 - FORMULE HYDRATANTE PERFECTION INSTANTANÉE : Formulé à lacide hyaluronique, cet anti-cernes total couvrance camoufle les imperfections pour un look zéro défaut. Il aide aussi à hydrater la peau.
 - RÉDUIT VISIBLEMENT LES TACHES BRUNES AU FIL DU TEMPS : Observez une amélioration de lapparence des cernes et des taches brunes avec une utilisation continue.
-- ANTI-CERNES TOTAL COUVRANCE : Un anti-cernes liquide longue tenue et correcteur total couvrance qui camoufle les imperfections tout au long de la journée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08K8RZ4J8{{</world>}}

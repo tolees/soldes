@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résultats : Fini hâlé qui réhausse votre teint naturellement, Intensité modulable selon vos envies, Disponible en trois teintes lumineuses
+- Contenu : 1x LOréal Paris Lumi Bronze Le Stick Soleil, Teinte : 130 Sunset Doré
 - Application : Appliquez sur les pommettes, les arêtes du nez, le front ou toute autre zone du visage à mettre en valeur. Estompez délicatement aux doigts, à léponge ou au pinceau pour un hâle naturel. Superposez les couches pour un rendu plus intense
+- Résultats : Fini hâlé qui réhausse votre teint naturellement, Intensité modulable selon vos envies, Disponible en trois teintes lumineuses
 - Formule facile à estomper, pour un teint hâlé modulable, Application facile, Format compact à emporter partout avec vous
 - Stick Soleil Lumi Bronze pour un look hâlé grâce à sa formule aux nuances soyeuses, comme après un bain de soleil, Au format stick qui vous suivra partout
-- Contenu : 1x LOréal Paris Lumi Bronze Le Stick Soleil, Teinte : 130 Sunset Doré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPX9XDW4{{</world>}}

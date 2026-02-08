@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rembourré coupe basse
 - Inserts perforés sur la pointe
+- Col rembourré coupe basse
 - Semelle intermédiaire en mousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

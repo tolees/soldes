@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - produits de haute qualité
-- Poste dinterphone mains-libres de la marque Ritto
 - Référence produit : 1723070
+- Poste dinterphone mains-libres de la marque Ritto
 - piles requises: non
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

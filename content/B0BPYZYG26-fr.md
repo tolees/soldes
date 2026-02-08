@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cafetière à goutte 650 W que prépare automatiquement le café à lheure souhaitée avec la technologie ExtremeAroma et des finitions en acier inoxydable.
-- Capacité de 0,8 litre pour préparer jusquà 6 tasses de café. Fonction de maintien au chaud.
-- 800 W de puissance. Bec anti-gouttes. Filtre permanent et possibilité dutiliser des filtres en papier.
 - Fonction darrêt automatique. Réservoir avec fenêtre. Comprend une cuillère-doseuse.
 - Cafetière goutte à goutte américaine pot à café automatique broyage grains moulu tasses puissance bars litres capacité réchauffement
+- Capacité de 0,8 litre pour préparer jusquà 6 tasses de café. Fonction de maintien au chaud.
+- 800 W de puissance. Bec anti-gouttes. Filtre permanent et possibilité dutiliser des filtres en papier.
+- Cafetière à goutte 650 W que prépare automatiquement le café à lheure souhaitée avec la technologie ExtremeAroma et des finitions en acier inoxydable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPYZYG26{{</world>}}

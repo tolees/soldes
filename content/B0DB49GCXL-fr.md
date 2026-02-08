@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imaginé pour les passionnés d’automobile, ce lot de 5 véhicules rend hommage aux grandes compétitions sportives Formula 1 et à Hot Wheels, fabricant incontournable de voitures de course miniatures.
 - Prenez place sur la ligne de départ et lancez les véhicules sur la piste Hot Wheels (ou en dehors) pour mettre en avant leur élégance et leurs performances supérieures. (Piste vendue séparément.)
+- Prenez la pole position des collections Hot Wheels légendaires avec ce coffret de 5 voitures de course Formula 1 à l’échelle 1/64. Hot Wheels
+- Imaginé pour les passionnés d’automobile, ce lot de 5 véhicules rend hommage aux grandes compétitions sportives Formula 1 et à Hot Wheels, fabricant incontournable de voitures de course miniatures.
 - Chaque véhicule en métal moulé est orné des détails ludiques de la série de sport automobile la plus populaire au monde, que les enfants et les collectionneurs n’auront aucun mal à reconnaître.
 - Complétez la collection de votre choix avec des véhicules Hot Wheels aux couleurs d’équipes anciennes comme la McLaren F1 Team, mais aussi de noms plus récents dans le championnat comme la BWT Alpine F1 Team.
-- Prenez la pole position des collections Hot Wheels légendaires avec ce coffret de 5 voitures de course Formula 1 à l’échelle 1/64. Hot Wheels
 - Imaginez des histoires inoubliables à partir de voitures représentant 5 grandes écuries Formula 1, dont la Visa Cash App RB Formula One Team, la KICK Sauber F1 Team et la MoneyGram Haas F1 Team.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

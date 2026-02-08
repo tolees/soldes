@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ultra résistante : La Galaxy Watch Ultra (2025) vous accompagne dans tous vos défis sportifs et tous les environnements, jusqu’à 100 mètres de profondeur, 55 degrés ou 9000 mètres d’altitude.³
-- Autonomie longue durée : Jusquà 100 heures en mode économie denergie et jusquà 48 heures en mode économie dénergie sport.⁴ ⁵ ⁶
 - Des conseils bien-être : Profitez de fonctionnalités avancées, comme un Coach running personnel ou encore un suivi cardiovasculaire précis avec la mesure de votre charge vasculaire, pour des bilans complets couvrant votre forme physique, votre bien-être et vos activités quotidiennes.²
+- Autonomie longue durée : Jusquà 100 heures en mode économie denergie et jusquà 48 heures en mode économie dénergie sport.⁴ ⁵ ⁶
 - IA sur Watch : Propulsée par Galaxy AI et Gemini, elle vous aide à simplifier vos actions, à communiquer facilement et à analyser vos données comme un expert.
 - Design signature en titane : Un boitier résistant et léger, prêt à affronter toutes les conditions.¹
 

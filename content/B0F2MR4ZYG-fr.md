@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Développe lhabileté et la créativité: les enfants bricolent, construisent et découvrent le monde de la vitesse. Renforce la motricité, la pensée spatiale et limagination - le jouet éducatif idéal pour les enfants à partir de 7 ans !
 - Matériaux de haute qualité: Fabriqué en plastique robuste et sûr. Qualité PLAYMOBIL pour un plaisir de jeu durable & une sécurité maximale.
+- Encore plus daction avec les add-ons: Combinable avec Airlift (71970), Flip Rail (71971), Looping (71972), Track Blaster (71973) & plus - pour des extensions spectaculaires !
 - Système de construction flexible: Supports stables & éléments innovants pour des aventures de course infinies. Facile à assembler et extensible à tout moment.
 - Le plaisir de la course rapide: Construis des parcours pleins daction avec des virages rapides & des sauts excitants. Toujours nouveau, toujours différent !
-- Encore plus daction avec les add-ons: Combinable avec Airlift (71970), Flip Rail (71971), Looping (71972), Track Blaster (71973) & plus - pour des extensions spectaculaires !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2MR4ZYG{{</world>}}

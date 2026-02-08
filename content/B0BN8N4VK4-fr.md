@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ces poupées Princesses Disney sont à l’effigie des personnages de certains des plus célèbres dessins animés Disney
 - Chaque poupée articulée porte la tenue et les accessoires propres à son personnage
-- Les 13 héroïnes de ce coffret ont chacune leur style et leur histoire : les enfants peuvent donc recréer toutes leurs scènes préférées ou imaginer toutes les histoires qu’ils veulent
 - Retrouvez dans ce coffret Aurore, Ariel, Pocahontas, Raiponce, Tiana, Blanche-Neige, Belle, Jasmine, Merida, Mulan, Vaiana, Cendrillon et Raya
+- Ces poupées Princesses Disney sont à l’effigie des personnages de certains des plus célèbres dessins animés Disney
+- Les 13 héroïnes de ce coffret ont chacune leur style et leur histoire : les enfants peuvent donc recréer toutes leurs scènes préférées ou imaginer toutes les histoires qu’ils veulent
 - Les poupées ont des cheveux soyeux que les enfants pourront s’amuser à coiffer à volonté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermoir : à charnière
-- Couleur : bicolore
-- Type de chaîne : maille serpent
 - Remarque! Larticle est livré sans le certificat car il ne peut pas être joint à larticle.
+- Type de chaîne : maille serpent
+- Couleur : bicolore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01L9JVODC{{</world>}}

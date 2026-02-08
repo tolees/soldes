@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une alimentation de bonne qualité 2.5A peut être utilisée si les périphériques USB en aval consomment moins de 500mA au total
-- Entièrement rétrocompatible avec connecteur GPIO à 40 broches, 2 ports micro-HDMI prenant en charge une résolution vidéo jusqu’à 4 K 60 Hz, ports MIPI DSI/CSI 2 voies pour caméra et écran.
 - True Gigabit Ethernet, 2 ports USB 3.0, 2 ports USB 2.0. Nécessite une alimentation de 5,1 V/3 A via USB-C ou GPIO.
+- Entièrement rétrocompatible avec connecteur GPIO à 40 broches, 2 ports micro-HDMI prenant en charge une résolution vidéo jusqu’à 4 K 60 Hz, ports MIPI DSI/CSI 2 voies pour caméra et écran.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TC2BK1X{{</world>}}

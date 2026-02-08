@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Établi PWB 600 permettant de fixer en toute sécurité tous types de pièces
-- Livré avec : PWB 600, 4 mâchoires, carton
-- Profondeur de serrage maximale : 34 mm, largeur de serrage maximale : 85 mm
 - Se déplie et se replie en quelques secondes grâce à son mécanisme de pliage
 - Plan de travail robuste et imperméable en bambou
+- Profondeur de serrage maximale : 34 mm, largeur de serrage maximale : 85 mm
+- Établi PWB 600 permettant de fixer en toute sécurité tous types de pièces
+- Livré avec : PWB 600, 4 mâchoires, carton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007R9WICU{{</world>}}

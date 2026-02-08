@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RESISTANT: Un gant anti-perforation pour la taille des épineux, en latex naturel adhérisé de couleur verte.
-- RESPIRANT: Doté dun dos aéré qui permet de réguler laération de la main.
-- PRATIQUE: Poignets ajustés et cordon daccrochage pratique.
-- QUALITATIF: Garantie qualité de 2 ans.
 - CONFORTABLE: Support textile 100% coton pour plus de confort lors de la taille des rosiers.
+- RESPIRANT: Doté dun dos aéré qui permet de réguler laération de la main.
+- QUALITATIF: Garantie qualité de 2 ans.
+- RESISTANT: Un gant anti-perforation pour la taille des épineux, en latex naturel adhérisé de couleur verte.
+- PRATIQUE: Poignets ajustés et cordon daccrochage pratique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007ZPZGIY{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES COULEURS VIVES : pour que chacune de vos créations se démarque
-- FEUTRE À POINTE MOYENNE: des lignes claires et expressives, pour personnaliser vos créations
+- NE TRANSPERCE PAS : l’encre à base d’eau ne transperce pas le papier pour une écriture parfaite
 - RÉSISTE AUX BAVURES ET NE DÉCOLORE PAS: pour un résultat qui dure et des pages propres et nettes
 - POUR ÉCRIRE, DESSINER, COLORIAGE ADULTE, ETC. : le choix créatif pour vos projets scolaires, prendre des notes au bureau, tenir votre journal, colorier et bien plus encore
-- NE TRANSPERCE PAS : l’encre à base d’eau ne transperce pas le papier pour une écriture parfaite
+- FEUTRE À POINTE MOYENNE: des lignes claires et expressives, pour personnaliser vos créations
+- DES COULEURS VIVES : pour que chacune de vos créations se démarque
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000I5ZMQ4{{</world>}}

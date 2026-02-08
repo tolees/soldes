@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué au Royaume-Uni selon les BPF et les normes pharmaceutiques
 - Les comprimés Natures Aid Raspberry Leaf sont une alternative pratique au thé à la feuille de framboise
 - Prendre deux comprimés par jour avec de la nourriture
+- Fabriqué au Royaume-Uni selon les BPF et les normes pharmaceutiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001SUQ5ZA{{</world>}}

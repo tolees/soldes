@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GAMEPLAY CLASSIQUE: Une expérience side-scrolling qui fusionne le style rétro avec des mécaniques modernes pour une jouabilité fluide et captivante
-- CONTENU BONUS: Inclut la bande sonore originale et un livret spécial, disponible sur Nintendo Switch et PS5 pour une expérience de jeu complète
-- GRAPHISMES DÉTAILLÉS: Une direction artistique en pixel art magnifiquement réalisée, offrant des animations fluides et des environnements atmosphériques
-- FUSION NINJA: Maîtrisez un système de combat sophistiqué permettant de déclencher des attaques dévastatrices en combinant les pouvoirs des deux personnages
 - DOUBLE PROTAGONISTE: Incarnez Kenji Mozu et Kumori, deux ninjas aux capacités uniques, dans une aventure palpitante avec des combats synchronisés
+- FUSION NINJA: Maîtrisez un système de combat sophistiqué permettant de déclencher des attaques dévastatrices en combinant les pouvoirs des deux personnages
+- CONTENU BONUS: Inclut la bande sonore originale et un livret spécial, disponible sur Nintendo Switch et PS5 pour une expérience de jeu complète
+- GAMEPLAY CLASSIQUE: Une expérience side-scrolling qui fusionne le style rétro avec des mécaniques modernes pour une jouabilité fluide et captivante
+- GRAPHISMES DÉTAILLÉS: Une direction artistique en pixel art magnifiquement réalisée, offrant des animations fluides et des environnements atmosphériques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FCMZM3SV{{</world>}}

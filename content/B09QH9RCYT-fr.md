@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction imperméable ECCO WATERPROOF
-- Cuir produit à laide de la méthode DriTan dECCO, qui consiste à réduire lutilisation deau et de produits chimiques habituellement utilisés durant le processus de tannage
-- Semelle extérieure crantée résistante en caoutchouc pour une meilleure adhérence, quels que soient le terrain et les conditions météorologiques
-- La construction ECCO FLUIDFORM sans couture garantit un chaussant naturel et un contrecollage résistant entre la tige et la semelle
 - Confectionnée en nubuck gras classique ou en cuir soyeux signé ECCO
+- Cuir produit à laide de la méthode DriTan dECCO, qui consiste à réduire lutilisation deau et de produits chimiques habituellement utilisés durant le processus de tannage
+- La construction ECCO FLUIDFORM sans couture garantit un chaussant naturel et un contrecollage résistant entre la tige et la semelle
+- Semelle extérieure crantée résistante en caoutchouc pour une meilleure adhérence, quels que soient le terrain et les conditions météorologiques
+- Construction imperméable ECCO WATERPROOF
 - Bracelet matelassé confortable, intérieur en textile et semelle intérieure amovible en textile pour un meilleur amorti
 
 [🛒 Achète-le!!]({{< param buyurl >}})

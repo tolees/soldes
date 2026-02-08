@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age recommandé: à partir de 3 ans
-- Contenu: 1 grande cuillère de glace, 5 cônes de glace
 - Matériel: plastique
+- Contenu: 1 grande cuillère de glace, 5 cônes de glace
+- Age recommandé: à partir de 3 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008SDMMKM{{</world>}}

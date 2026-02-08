@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sur la couverture se trouvent deux élastiques : lun pour fixer le téléphone portable et lautre pour insérer un stylo, ce qui en fait un carnet idéal pour assister aux réunions.
 - Avec 120 pages lignées avec certification FSC, ce qui garantit quil a été fabriqué avec du papier provenant de forêts gérées de manière responsable.
+- Sur la couverture se trouvent deux élastiques : lun pour fixer le téléphone portable et lautre pour insérer un stylo, ce qui en fait un carnet idéal pour assister aux réunions.
 - Carnet au format A5 avec reliure cousue et couvertures rigides.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

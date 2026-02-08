@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - AVANCER SUR LE PLATEAU AVEC LES 8 PIONS EN MÉTAL STYLÉS : On choisit parmi 8 pions Monopoly plus grands que dans les éditions précédentes : Scottie le chien, Hazel le chat, Voiture de course, Chapeau, Dé à coudre, Canard en caoutchouc, Pingouin et Sac dargent
 - JEU DE PLATEAU PRÉFÉRÉ DE TOUS AMÉLIORɠ: On fait fortune ou on perd tout ! Monopoly est le jeu de prédilection des fans pour les soirées de jeux en famille avec des améliorations quils ont demandées et une nouvelle apparence plus moderne
 - ACHETER DES MAISONS ET DES HÔTELS : On peut faire fructifier ses biens de propriétaire richissime en achetant des maisons et des hôtels pour percevoir plus de loyers
-- FAIRE FORTUNE. FAIRE PAYER. RUINER TOUT LE MONDE : On achète des groupes de propriétés, on vend des propriétés, on fait payer des loyers et on construit tout un empire. Pour vaincre la compétition, il faut être le dernier à ne pas faire faillite
 - UN PLATEAU DE BANQUIER POUR RANGER LES BILLETS : On peut organiser les billets Monopoly, les titres de propriété, les maisons et les hôtels dans ce plateau de banquier élégant avec couvercle
+- FAIRE FORTUNE. FAIRE PAYER. RUINER TOUT LE MONDE : On achète des groupes de propriétés, on vend des propriétés, on fait payer des loyers et on construit tout un empire. Pour vaincre la compétition, il faut être le dernier à ne pas faire faillite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DPXPKDWF{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HDR : augmentez lexpression de la luminosité de votre téléviseur pour profiter de détails plus nets, même dans les scènes les plus sombres.
 - PurColor : technologie capable dexprimer une large gamme de couleurs afin que les images soient aussi optimales que possible.
+- HDR : augmentez lexpression de la luminosité de votre téléviseur pour profiter de détails plus nets, même dans les scènes les plus sombres.
 - Qualité dimage HD : découvrez une nouvelle façon de regarder la télévision avec une véritable résolution HD.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

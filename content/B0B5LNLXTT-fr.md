@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture à boutons
 - Manches courtes
 - Patch logo
 - Armani Exchange
-- Fermeture à boutons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5LNLXTT{{</world>}}

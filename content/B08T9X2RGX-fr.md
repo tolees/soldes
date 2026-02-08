@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester
-- Lavage en machine
-- Fermeture: Pas de fermeture
 - Classique
+- Lavage en machine
+- 100% Polyester
+- Fermeture: Pas de fermeture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08T9X2RGX{{</world>}}

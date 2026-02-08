@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Recréez les scènes mythiques des films – La fonction de drift, une première pour LEGO Technic, soulève la voiture pour vous permettre de recréer les manœuvres impressionnantes de vos scènes de course préférées
-- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans la boîte
 - Set de construction pour adulte avec voiture Fast and Furious – Construisez la Voiture Nissan Skyline GT-R (R34) 2 Fast 2 Furious LEGO Technic, puis déployez la fonction de drift pour recréer des scènes mythiques des films
-- Moteur 6 cylindres avec pistons mobiles – Réveillez l’ingénieur qui sommeille en vous en recréant les détails mobiles de cette maquette réduite, tels que le moteur 6 cylindres
-- Maquettes LEGO pour adulte – Explorez des concepts d’ingénierie et de mécanique et savourez des projets de construction gratifiants avec la collection de véhicules LEGO Technic pour adulte (vendus séparément)
-- Maquette avec accessoires & caractéristiques authentiques – Cette voiture LEGO Technic regorge de détails réalistes dont la direction, les suspensions avant et arrière, les portes ouvrantes, laileron réglable et 3 bonbonnes NOS
 - Un superbe cadeau pour les adultes, fans de Fast and Furious – Ce modèle de voiture est un cadeau original à offrir à un adulte pour un anniversaire ou toute autre occasion spéciale
+- Recréez les scènes mythiques des films – La fonction de drift, une première pour LEGO Technic, soulève la voiture pour vous permettre de recréer les manœuvres impressionnantes de vos scènes de course préférées
+- Maquette avec accessoires & caractéristiques authentiques – Cette voiture LEGO Technic regorge de détails réalistes dont la direction, les suspensions avant et arrière, les portes ouvrantes, laileron réglable et 3 bonbonnes NOS
+- Maquettes LEGO pour adulte – Explorez des concepts d’ingénierie et de mécanique et savourez des projets de construction gratifiants avec la collection de véhicules LEGO Technic pour adulte (vendus séparément)
+- Moteur 6 cylindres avec pistons mobiles – Réveillez l’ingénieur qui sommeille en vous en recréant les détails mobiles de cette maquette réduite, tels que le moteur 6 cylindres
+- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans la boîte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DRCXL888{{</world>}}

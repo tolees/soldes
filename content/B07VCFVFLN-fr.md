@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine : composés de 70 % de coton et de 30 % de polyester, ces sets de table se lavent, de préférence à 40 °C, en machine.
 - Contenu de la livraison : 6x Villeroy & Boch, set de table Gobelin (32 x 48cm), Matériel: Coton, Couleur: multicolore (réf. art. 14-8585-6121)
+- Lavage en machine : composés de 70 % de coton et de 30 % de polyester, ces sets de table se lavent, de préférence à 40 °C, en machine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VCFVFLN{{</world>}}

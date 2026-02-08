@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille daffichage: 6.5 pouces
 - Description caméra: Arrière
 - Type daffichage: LCD
 - Smartphone Xiaomi
+- Taille daffichage: 6.5 pouces
 - Composants inclus: Xiaomi POCO M3 Pro 5G; Câbles inclus: USB Type-C; Guide de démarrage rapide, Carte de garantie; Boîtier de protection; Broche déjection
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

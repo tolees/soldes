@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : Caoutchouc
 - Dessus : Synthétique
 - Semelle intérieure : Synthétique
-- Taille : Les chaussures Geox taillent grand
+- Matériau de semelle : Caoutchouc
 - Doublure : Synthétique
+- Taille : Les chaussures Geox taillent grand
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0792HCZ9Z{{</world>}}

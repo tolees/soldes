@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Refroidissement DHX breveté de CORSAIR : Refroidit la mémoire via des circuits intégrés et le retour de masse du circuit imprimé luimême avec un dissipateur thermique dédié, garantissant des performances élevées même en cas de charges extrême
-- 11 LED RGB paramétrables individuellement : Chaque module embarque 11 LED RGB paramétrables individuellement pour illuminer votre PC avec un éclairage personnalisé spectaculaire.
 - Style sophistiqué, qualité haut de gamme : Avec son style épuré et raffiné et un assemblage en aluminium forgé : la qualité est au rendez-vous.
+- 11 LED RGB paramétrables individuellement : Chaque module embarque 11 LED RGB paramétrables individuellement pour illuminer votre PC avec un éclairage personnalisé spectaculaire.
 - À la pointe des performances et au-delà : Propulsez votre système vers de nouveaux sommets avec la dernière mémoire DDR5, avec ses fréquences encore plus élevées, ses capacités encore plus importantes et de meilleures performances.
 - Barre supérieure échangeable : Envie dun nouveau look ? Modifiez le style et la capacité de refroidissement de votre mémoire avec les kits d’accessoires officiels ou imprimez en 3D votre propre barre supérieure pour créer un style unique.
+- Refroidissement DHX breveté de CORSAIR : Refroidit la mémoire via des circuits intégrés et le retour de masse du circuit imprimé luimême avec un dissipateur thermique dédié, garantissant des performances élevées même en cas de charges extrême
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHSG1HZ5{{</world>}}

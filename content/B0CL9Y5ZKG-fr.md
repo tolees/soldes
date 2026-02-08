@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - POUPON IDEAL POUR FAIRE COMME LES GRANDS : Avec Lucie, l’enfant joue le rôle du papa et/ou de la maman. C’est un jouet parfait pour « faire semblant » et ainsi re-jouer sa journée.
-- POUPON REALISTE AU VISAGE EN VINYLE ET YEUX DORMEURS : Lucie fait dodo quand on la couche sur le dos. Son visage, ses bras et ses jambes sont très doux et sentent bon la vanille.
 - CORPS SOUPLE POUR UNE MEILLEURE JOUABILITÉ : Lucie tient assise et est légère. Lenfant peut ainsi la manipuler et jouer plus facilement avec. En plus, son pouce tient dans sa bouche !
 - CREATION FRANCAISE : Un style « à la française » imaginé depuis 1979 à Langeais, au cœur de la Touraine.
+- POUPON REALISTE AU VISAGE EN VINYLE ET YEUX DORMEURS : Lucie fait dodo quand on la couche sur le dos. Son visage, ses bras et ses jambes sont très doux et sentent bon la vanille.
 - CARACTERISTIQUES : Hauteur : 36 cm. Yeux dormeurs. Matières douces. Ne shabille pas avec les vêtements Ma Corolle. Dès 2 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

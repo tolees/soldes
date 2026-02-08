@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec la certification FSC, qui garantit quils ont été fabriqués avec du papier provenant de forêts gérées de manière responsable.
-- Lot de 3 cahiers A5 avec reliure cousue.
 - Chacun contient 100 pages de papier 80 g/m², respectivement lignées, vierges et pointillées.
+- Lot de 3 cahiers A5 avec reliure cousue.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQ5B1ZP8{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GLISSE OPTIMALE : Semelle en céramique Xpress Glide pour une glisse exceptionnelle et des sessions de repassage plus fluides et agréables
-- RESERVOIR D’EAU : le grand réservoir deau de 1,4 L permet un repassage plus facile avec une grande autonomie
 - REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- RESERVOIR D’EAU : le grand réservoir deau de 1,4 L permet un repassage plus facile avec une grande autonomie
+- GLISSE OPTIMALE : Semelle en céramique Xpress Glide pour une glisse exceptionnelle et des sessions de repassage plus fluides et agréables
 - ENTRETIEN FACILE ET PERFORMANCES DURABLES : La technologie Calc Clear garantit des performances vapeur longue durée et un entretien efficace
 - HAUTE PERFORMANCE : Débit de vapeur continu de 120 g/minute garantissant des résultats rapides sur tous types de tissus, et fonction pressing de 280 g/minute pour venir à bout des plis les plus tenaces
 

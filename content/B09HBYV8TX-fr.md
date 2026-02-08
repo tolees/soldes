@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond classique
 - T-shirt cool de Lonsdale
+- Col rond classique
 - Logo en optique craquelée sur la poitrine
 - Fabriqué à partir du coton le plus pur (ou tissu mélangé)
 

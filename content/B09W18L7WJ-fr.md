@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RGB ÉBLOUISSANT - Le RGB PrismSync sur 3 zones brille de 16,8 millions de couleurs paramétrables
-- ULTRA LÉGÈRE - La coque a été volontairement perforée pour réduire le poids de lAerox 9 Wireless à seulement 89g pour un jeu rapide et sans effort
-- TIENT PLUS LONGTEMPS QUE NIMPORTE QUEL GAMER - La technologie sans fil Quantum 2.0 sans délai intègre une connexion 2,4 GHz pour le jeu, une connectivité Bluetooth 5.0 additionnelle et une autonomie de batterie jusquà 180 heures.
-- AQUABARRIER - Les composants de la souris sont à labri des éclaboussures, de la poussière et de la saleté grâce à la protection classée IP54
 - 18 BOUTONS PROGRAMMABLES - Exécutez les rotations les plus complexes et accédez à une multitude de raccourcis via les 12 touches latérales
+- AQUABARRIER - Les composants de la souris sont à labri des éclaboussures, de la poussière et de la saleté grâce à la protection classée IP54
+- TIENT PLUS LONGTEMPS QUE NIMPORTE QUEL GAMER - La technologie sans fil Quantum 2.0 sans délai intègre une connexion 2,4 GHz pour le jeu, une connectivité Bluetooth 5.0 additionnelle et une autonomie de batterie jusquà 180 heures.
+- ULTRA LÉGÈRE - La coque a été volontairement perforée pour réduire le poids de lAerox 9 Wireless à seulement 89g pour un jeu rapide et sans effort
+- RGB ÉBLOUISSANT - Le RGB PrismSync sur 3 zones brille de 16,8 millions de couleurs paramétrables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09W18L7WJ{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ADAPTÉ POUR LES ENFANTS : Tous nos produits respectent les normes européennes du jouet, développé en France
-- CONTENU : 1 dôme avec une guirlande lumineuse incluse, 4 sachets de clay, 1 sachet de sable, 1 sachet de foam, 3 figurines, 3 s décorations, 4 sachets de décorations, 2 rochers, 1 sachet de pierres
-- SENSORIEL : 3 textures différentes à découvrir dans ce produit, des sensations différentes pour developper la motricité des enfants
 - UNE ACTIVITÉ AMUSANTE : Amuse-toi à créer ton propre monde sensoriel sur le thème des licornes et des arc-en-ciel, a lintérieur, tu as tout ce quil faut pour créer un mini univers coloré, le dôme est équipé dune guirlande lumineuse, allume la lumière pour ajouter de la magie à tes créations
+- SENSORIEL : 3 textures différentes à découvrir dans ce produit, des sensations différentes pour developper la motricité des enfants
+- CONTENU : 1 dôme avec une guirlande lumineuse incluse, 4 sachets de clay, 1 sachet de sable, 1 sachet de foam, 3 figurines, 3 s décorations, 4 sachets de décorations, 2 rochers, 1 sachet de pierres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D45V6MBW{{</world>}}

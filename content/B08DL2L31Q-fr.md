@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- découvrez xtra, la gamme denceintes bluetooth design au son puissant qui vont vous suivre partout et dans toutes vos activités
 - avec son design unique magnifié par sa finition en tissu, cette enceinte va faire des envieux
-- avec sa technologie bluetooth, cette enceinte vous permet de profiter de vos musiques streamées ou stockées depuis n’importe quel appareil bluetooth (téléphone, ordinateur, tablette.)
-- boostez votre puissance d’écoute en synchronisant deux enceintes xtra color grâce à la fonction tws
-- l’enceinte est totalement nomade grâce à sa batterie intégrée d’une autonomie de 15 heures
 - dotée d’une puissance de 3 w, cette enceinte bluetooth possède une qualité sonore bluffante avec des basses profondes parfaitement restituées par son radiateur passif
+- l’enceinte est totalement nomade grâce à sa batterie intégrée d’une autonomie de 15 heures
+- avec sa technologie bluetooth, cette enceinte vous permet de profiter de vos musiques streamées ou stockées depuis n’importe quel appareil bluetooth (téléphone, ordinateur, tablette.)
+- découvrez xtra, la gamme denceintes bluetooth design au son puissant qui vont vous suivre partout et dans toutes vos activités
+- boostez votre puissance d’écoute en synchronisant deux enceintes xtra color grâce à la fonction tws
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DL2L31Q{{</world>}}

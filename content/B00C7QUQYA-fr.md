@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entretien et protection des bois extérieurs et des sols poreux (carrelages bruts, tomettes, tuiles, terres cuites, dallages…) contre l’humidité et le gel, convient également pour redonner de l’éclat aux bois vernis et entretenir le linoléum
-- Produit de fabrication française, Onyx vous fournit les produits essentiels pour l’entretien et le bricolage depuis plus de 90 ans
 - Huile de lin de haute qualité
-- Conçue à 100% à partir de graines de lin obtenues par première pression à froid
+- Produit de fabrication française, Onyx vous fournit les produits essentiels pour l’entretien et le bricolage depuis plus de 90 ans
 - Également efficace pour assouplir les mastics ou diluer les peintures à l’huile et enduits gras
+- Conçue à 100% à partir de graines de lin obtenues par première pression à froid
+- Entretien et protection des bois extérieurs et des sols poreux (carrelages bruts, tomettes, tuiles, terres cuites, dallages…) contre l’humidité et le gel, convient également pour redonner de l’éclat aux bois vernis et entretenir le linoléum
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00C7QUQYA{{</world>}}

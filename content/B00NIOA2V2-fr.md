@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Surveillance facile des processus de cuisson : grâce à sa grande fenêtre de visualisation, la friture est très facile à surveiller
 - Capacité XL : grande capacité pour jusquà 1,2 kg de frites
-- Thermostat réglable : réglez la température de 150 °C à 190 °C pour que vos préparations soient toujours cuites de manière optimale
 - Boîtier Cool Touch : grâce au système exclusif de paroi de refroidissement, la friteuse peut être touchée sans inquiétude ; même pendant la friture, les parois restent froides
+- Thermostat réglable : réglez la température de 150 °C à 190 °C pour que vos préparations soient toujours cuites de manière optimale
 - Rangement facile grâce aux poignées rabattables : lappareil compact sadapte donc à toutes les cuisines
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

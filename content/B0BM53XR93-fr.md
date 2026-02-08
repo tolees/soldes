@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle : caoutchouc
 - Matériau extérieur : cuir
+- Forme du talon : pas de talon
 - Matériau intérieur : N/A
 - Fermeture : lacets
-- Forme du talon : pas de talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM53XR93{{</world>}}

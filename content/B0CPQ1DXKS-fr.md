@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bretelles intérieures
 - Fermeture à un scratch et lacets élastiques
+- Bretelles intérieures
 - Enfilage facile et rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

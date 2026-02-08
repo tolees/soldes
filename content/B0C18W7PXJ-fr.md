@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CORE SET REQUIRED: Expansion for Star Wars Shatterpoint Core Set; AGES 14+.
-- JEDI HUNTERS SQUAD PACK: Introduces the feared Inquisitors to Star Wars Shatterpoint.
 - DETAILED MINIATURES & CARDS: High-quality miniatures with Stat, Order, and Stance cards included.
-- ICONIC DARK SIDE ENFORCERS: Includes the Grand Inquisitor, Reva, Fifth Brother, and Fourth Sister.
 - RELENTLESS HUNTING PLAYSTYLE: Designed for aggressive pursuit, pressure, and enemy disruption.
+- JEDI HUNTERS SQUAD PACK: Introduces the feared Inquisitors to Star Wars Shatterpoint.
+- ICONIC DARK SIDE ENFORCERS: Includes the Grand Inquisitor, Reva, Fifth Brother, and Fourth Sister.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C18W7PXJ{{</world>}}

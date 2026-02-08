@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - After completing the final skincare step, apply a sufficient amount of rice sunscreen to the skin, avoiding the eye area, and thoroughly massage the skin. It can be easily washed off with facial cleanser or makeup remover wipes.
 - [Toner is not greasy]: Rice sunscreen that soothes the sun is very gentle for your skin. After application, it will quickly dry out and wont make your face look or feel greasy.
-- [Usage] rice sunscreen is a must-have for anyone who enjoys outdoor activities. Perfect for beach days, travel, outdoor running, camping, picnics, and all activities. Lightweight and easy to carry, it can be placed in a bag or pocket.
 - [Smooth Skin]: Rice sunscreen that soothes the sun is different from regular sunscreen. Soothing Sun: Rice+Probiotics (SPF50+PA+++) combines 30% rice extract, which is a natural moisturizing cream that ensures your skin remains hydrated while being protected from harmful sunlight.
+- [Usage] rice sunscreen is a must-have for anyone who enjoys outdoor activities. Perfect for beach days, travel, outdoor running, camping, picnics, and all activities. Lightweight and easy to carry, it can be placed in a bag or pocket.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JVNZVH3{{</world>}}

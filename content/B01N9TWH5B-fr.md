@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en Italie.
-- Puzzle de 500 pièces de dimensions 49 x 36 cm.
 - Très attentif à l’écologie, Clementoni utilise une forte proportion de matériaux recyclés, évitant ainsi l’utilisation de composants polluants.
+- Puzzle de 500 pièces de dimensions 49 x 36 cm.
 - Voici ce qui caractérise la collection High Quality de Clementoni : des images captivantes, une impression de qualité, des découpes précises et un matériau résistant.
 - Cette gamme de puzzle élégante a été créée pour ceux qui ont la passion des détails.
 

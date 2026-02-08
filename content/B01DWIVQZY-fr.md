@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La Trilogie des Visiteurs / Les Couloirs du temps : Les visiteurs 2 / Les Visiteurs en Amé
-- Les Visiteurs / Les Couloirs du temps : Les visiteurs 2 / Les Visiteurs en Amérique
 - The Visitors / The Corridors of Time : The Visitors II (The Visitors 2) / Just Visiting (My Lovely Fi
+- Les Visiteurs / Les Couloirs du temps : Les visiteurs 2 / Les Visiteurs en Amérique
 - La trilogie des visiteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu de la livraison : emballage Corsair avec CMV16GX4M1A2666C18
 - Excellent rapport qualité/prix
 - Mémoire RAM DDR4 avec 2666 MHz pour votre système de bureau
-- Contenu de la livraison : emballage Corsair avec CMV16GX4M1A2666C18
 - CMV16GX4M1A2666C18
 
 [🛒 Achète-le!!]({{< param buyurl >}})

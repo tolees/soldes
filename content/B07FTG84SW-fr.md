@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capturez le spectaculaire - Le module multifonctionnel combine le suivi intelligent, la réception DJI Mic 2/DJI Mic Mini et des fonctionnalités d’éclairage dans une seule unité compacte. Appairez-le avec votre nacelle pour des prises de vue idéales à chaque fois.
-- Renforcez votre créativité stable - Osmo Mobile 7P offre un temps de fonctionnement maximal de 10 heures [6]. Lorsque le module multifonctionnel agit comme récepteur de micro, la nacelle fournit également une puissance supplémentaire à votre téléphone.
-- Capturez comme un pro dès le premier jour - Appairez votre Osmo Mobile 7P avec DJI Mimo pour ShotGuides et Édition en un seul clic. Filmez et modifiez comme un pro, économisant du temps et améliorant instantanément votre narration créative.
 - Découvrez une stabilité sans faille - La Stabilisation robuste de la nacelle à 3 axes de lOsmo Mobile 7P assure une stabilité sans perte. Capturez des éclats créatifs et créez des chefs-dœuvre de qualité cinématographique avec facilité.
-- Tellement rapide, tellement facile - Dépliez la nacelle pour lallumer. Montez facilement un smartphone appairé avec le design magnétique, et lapplication Mimo saffiche automatiquement [3] pour que vous puissiez filmer instantanément.
-- En raison d’un problème de compatibilité, l’application DJI Mimo a été supprimée de Google Play. Afin de garantir une meilleure expérience d’utilisation du produit, connectez-vous au site Web officiel de DJI pour télécharger la dernière version de Mimo.
-- Rationalisez votre créativité - La barre dextension intégrée et le trépied [4] de lOsmo Mobile 7P vous permettent de capturer de larges selfies et des vlogs stables, offrant une liberté créative sans lencombrement déquipements supplémentaires.
-- Suivi amélioré à double objectif - Les deux objectifs de votre téléphone sassocient pour un suivi plus intelligent et plus stable. Votre sujet peut se déplacer plus librement et même les actions rapides en gros plan restent nettes.
 - Comprend la nacelle, le module multifonctionnel, la bride de smartphone magnétique pour gamme DJI OM 7, etc. Réalisez un suivi précis et stable avec ce design tout-en-un - un excellent choix pour les créateurs de contenu.
+- Tellement rapide, tellement facile - Dépliez la nacelle pour lallumer. Montez facilement un smartphone appairé avec le design magnétique, et lapplication Mimo saffiche automatiquement [3] pour que vous puissiez filmer instantanément.
+- Capturez comme un pro dès le premier jour - Appairez votre Osmo Mobile 7P avec DJI Mimo pour ShotGuides et Édition en un seul clic. Filmez et modifiez comme un pro, économisant du temps et améliorant instantanément votre narration créative.
+- En raison d’un problème de compatibilité, l’application DJI Mimo a été supprimée de Google Play. Afin de garantir une meilleure expérience d’utilisation du produit, connectez-vous au site Web officiel de DJI pour télécharger la dernière version de Mimo.
+- Renforcez votre créativité stable - Osmo Mobile 7P offre un temps de fonctionnement maximal de 10 heures [6]. Lorsque le module multifonctionnel agit comme récepteur de micro, la nacelle fournit également une puissance supplémentaire à votre téléphone.
+- Rationalisez votre créativité - La barre dextension intégrée et le trépied [4] de lOsmo Mobile 7P vous permettent de capturer de larges selfies et des vlogs stables, offrant une liberté créative sans lencombrement déquipements supplémentaires.
+- Capturez le spectaculaire - Le module multifonctionnel combine le suivi intelligent, la réception DJI Mic 2/DJI Mic Mini et des fonctionnalités d’éclairage dans une seule unité compacte. Appairez-le avec votre nacelle pour des prises de vue idéales à chaque fois.
+- Suivi amélioré à double objectif - Les deux objectifs de votre téléphone sassocient pour un suivi plus intelligent et plus stable. Votre sujet peut se déplacer plus librement et même les actions rapides en gros plan restent nettes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FTG84SW{{</world>}}

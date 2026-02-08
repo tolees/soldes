@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ma CARRIÈRE ET MyPLAYER, À VOTRE FAÇON : Entrez dans le Ma CARRIÈRE le plus immersif de lhistoire. Simulez des manches, des entraînements et des tournois avec dynamisme. Soyez vous-même dans MyPLAYER grâce à diverses personnalisations, un nouveau système de points dattributs, des arbres de compétences améliorés et un tout nouveau système de progression de léquipement.
 - Précommandez* PGA TOUR 2K25 Édition standard et recevez le Pack Adidas Extra Butter X, avec Chris McDonald, acteur, golfeur et désormais personnage jouable. Inclut trois cosmétiques stylés : chapeau, veste et chaussures. *Offre bonus de précommande inclus dans la boîte, disponible jusquau 27 février 2025. Une connexion internet est requise pour récupérer le contenu bonus. Voir conditions.
-- LES TOURNOIS MAJEURS SONT LÀ : LU.S. Open Championship, lOpen Championship et le PGA Championship font leurs débuts dans 2K.
-- LES SAISONS FONT LEUR GRAND RETOUR : Augmentation de la puissance pour la progression du niveau de léquipement, réinitialisation du classement compétitif, mises à jour régulières du contenu et bien plus encore. Progressez à votre propre rythme et jouez les saisons précédentes, même lorsquune nouvelle est en cours.
 - SUPER SENSATIONS : Imposez votre swing et votre jeu avec les nouveaux mécanismes EvoSwing : nouveaux types de coups, nouvelles trajectoires de balle, nouvelles physiques de roulement et améliorations visuelles.
+- LES SAISONS FONT LEUR GRAND RETOUR : Augmentation de la puissance pour la progression du niveau de léquipement, réinitialisation du classement compétitif, mises à jour régulières du contenu et bien plus encore. Progressez à votre propre rythme et jouez les saisons précédentes, même lorsquune nouvelle est en cours.
+- LES TOURNOIS MAJEURS SONT LÀ : LU.S. Open Championship, lOpen Championship et le PGA Championship font leurs débuts dans 2K.
+- Ma CARRIÈRE ET MyPLAYER, À VOTRE FAÇON : Entrez dans le Ma CARRIÈRE le plus immersif de lhistoire. Simulez des manches, des entraînements et des tournois avec dynamisme. Soyez vous-même dans MyPLAYER grâce à diverses personnalisations, un nouveau système de points dattributs, des arbres de compétences améliorés et un tout nouveau système de progression de léquipement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DT1JQ4BH{{</world>}}

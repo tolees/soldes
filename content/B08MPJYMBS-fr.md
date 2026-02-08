@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- contrôle à distance et de groupecontinuez de connecter cette ampoule connectée à votre réseau domestique (ne prend en charge que le wi-fi 2,4 ghz), vous pouvez contrôler à distance une ampoule connectee sur votre smartphone. la fonction de contrôle de groupe vous permet de contrôler plusieurs ampoule connectée en même temps.
-- facile à installerinstallez lampoule ezviz lb1 comme vous le feriez pour une installation ordinaire ampoules. ensuite, téléchargez lapplication ezviz et associez-la avec votre alexa ou google home.
 - commande vocalecommande vocale aisée de toutes les ampoules alexa via lintégration à amazon alexa ou à google home, y compris allumer / éteindre ou atténuer / éclairer.
 - luminosité dimmable lumière et économie dénergienotre ampoule intelligente utilise la technologie led et une puissance de 8w équivaut à une ampoule à incandescence traditionnelle de 80w. la luminosité peut être comprise entre 10% et 100%, ce qui permet déconomiser jusquà 80% dénergie et de durer jusquà 15 000 heures.
 - contrôle de synchronisationne rentrez jamais dans une maison sombre - en utilisant des horaires clairs sur lapplication ezviz et soyez salué par une lumière chaude. la fonction de minuterie a activé et désactivé automatiquement lampoule connectee.
+- facile à installerinstallez lampoule ezviz lb1 comme vous le feriez pour une installation ordinaire ampoules. ensuite, téléchargez lapplication ezviz et associez-la avec votre alexa ou google home.
+- contrôle à distance et de groupecontinuez de connecter cette ampoule connectée à votre réseau domestique (ne prend en charge que le wi-fi 2,4 ghz), vous pouvez contrôler à distance une ampoule connectee sur votre smartphone. la fonction de contrôle de groupe vous permet de contrôler plusieurs ampoule connectée en même temps.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08MPJYMBS{{</world>}}

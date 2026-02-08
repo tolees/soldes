@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dos mat texturé et face avant transparente
-- 60 pochettes Art + 2 pochettes transparentes (pour la carte de guide et la carte de base)
-- Taille optimisée pour Star Wars : Unlimited Card Game ainsi que dautres TCG et LCG de taille standard
 - Sans acide, sans PVC
+- 60 pochettes Art + 2 pochettes transparentes (pour la carte de guide et la carte de base)
 - Bonne sensation de mélange
+- Dos mat texturé et face avant transparente
+- Taille optimisée pour Star Wars : Unlimited Card Game ainsi que dautres TCG et LCG de taille standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2K7PW9S{{</world>}}

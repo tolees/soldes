@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable à porter
 - il sagit dun produit authentique et original CAMPER
+- Confortable à porter
 - il assure un ajustement optimal
 - Ce style a été produit de manière durable
 

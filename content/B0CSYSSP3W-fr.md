@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La sécurité des données avant tout : Lexar SSD SL500 comprend le logiciel de cryptage Lexar DataShieldTM 256 bits AES pour protéger les fichiers.
 - Large compatibilité : compatibilité Lexar Portable SSD SL500 avec la série iPhone 15 (non pris en charge sur liPhone 14 et les modèles antérieurs), les appareils mobiles Android, les ordinateurs portables, les appareils photo, Xbox X|S, PS4, PS5, console de jeu, et plus encore.
-- Transfert de données à haute vitesse : le SSD externe Lexar SL500 prend en charge lUSB 3.2 Gen 2x2 jusquà 2 000 Mo/s en lecture et 1 800 Mo/s en écriture pour transférer des fichiers rapidement pour un travail plus efficace. (Les performances peuvent être inférieures si lUSB 3.2 Gen 2x2 nest pas pris en charge sur Mac et autres systèmes)
+- La sécurité des données avant tout : Lexar SSD SL500 comprend le logiciel de cryptage Lexar DataShieldTM 256 bits AES pour protéger les fichiers.
 - En déplacement : le disque SSD externe Lexar SL500 au design métallique fin, élégant et durable pèse 43 g et ne mesure que 4,8 mm dépaisseur, ce qui le rend plus petit quune carte et se glisse facilement dans votre poche. Il est livré avec un câble Type-C pour une commodité plug-and-play.
+- Transfert de données à haute vitesse : le SSD externe Lexar SL500 prend en charge lUSB 3.2 Gen 2x2 jusquà 2 000 Mo/s en lecture et 1 800 Mo/s en écriture pour transférer des fichiers rapidement pour un travail plus efficace. (Les performances peuvent être inférieures si lUSB 3.2 Gen 2x2 nest pas pris en charge sur Mac et autres systèmes)
 - Remarque : Magsafe nest pas disponible dans cette version
 
 [🛒 Achète-le!!]({{< param buyurl >}})

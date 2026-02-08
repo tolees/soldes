@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MAÎTRISEZ PLUSIEURS STYLES DE COMBAT Armez-vous contre les périls dont regorge Pandora en faisant vôtre la précision des armes traditionnelles des Navi, comme larc et le propulseur de lance, ou exploitez votre entraînement humain pour vous aguerrir au maniement darmes plus destructrices, comme le fusil dassaut ou le fusil à pompe
-- DEVENEZ NAVI Domptez votre prodigieuse force et votre incroyable agilité, personnalisez votre personnage, fabriquez de nouveaux équipements, améliorez ses armes et compétences pour les adapter à votre style de jeu
 - ÉLANCEZ-VOUS DANS LES AIRS Tissez un lien étroit avec votre banshee pour vous donner lavantage dans les combats aériens et parcourir en volant la vaste Frontière occidentale
 - PARTAGEZ VOTRE AVENTURE LORS DUNE CAMPAGNE COMPLÈTE EN COOP Jouez la campagne complète en solo ou avec un ami en ligne en coop à deux joueurs
+- DEVENEZ NAVI Domptez votre prodigieuse force et votre incroyable agilité, personnalisez votre personnage, fabriquez de nouveaux équipements, améliorez ses armes et compétences pour les adapter à votre style de jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8JZ3P24{{</world>}}

@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LCD couleur écran tactile 6
+- speed
+- Vitesse dimpression jusquà 31 ppm
+- 0 Hi
+- IPrint&Scan, Wi
 - Fi Direct, Airprint, NFC, Mopria Print Service, Android Print Service Plugin
 - Bac papier pour 250 feuilles, chargeur de papier universel pour 50 feuilles
-- Prêt réseau (filaire et sans fil), USB 2
-- Vitesse dimpression jusquà 31 ppm
-- IPrint&Scan, Wi
-- LCD couleur écran tactile 6
 - 8 cm
-- 0 Hi
-- speed
+- Prêt réseau (filaire et sans fil), USB 2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06WP6HDQ7{{</world>}}

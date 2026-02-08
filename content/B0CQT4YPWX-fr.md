@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir deau fraîche amovible : le réservoir deau fraîche translucide et résistant aux chocs contient 4 litres deau du robinet et senlève facilement pour pouvoir être rempli
-- Nettoyage hygiénique des tapis et autres surfaces textiles : le SE 4 Plus de Kärcher nettoie les tapis, moquettes, coussins, matelas, sièges de voiture et autres textiles en profondeur
 - Aspiration à sec et humide : lappareil multifonctionnel 3 en 1 peut sutiliser comme aspirateur à sec classique, mais également comme aspirateur humide
+- Nettoyage hygiénique des tapis et autres surfaces textiles : le SE 4 Plus de Kärcher nettoie les tapis, moquettes, coussins, matelas, sièges de voiture et autres textiles en profondeur
+- Réservoir deau fraîche amovible : le réservoir deau fraîche translucide et résistant aux chocs contient 4 litres deau du robinet et senlève facilement pour pouvoir être rempli
 - Accessoires pratiques : le SE 4 Plus est livré avec divers embouts pour lextraction par pulvérisation et laspiration humide/sec ; ils se rangent directement sur lappareil pour un gain de place
 - Livraison : SE 4 Plus de Kärcher, suceur sol avec embout pour sol dur, suceurs de lavage pour meubles & fentes, suceur fauteuils, filtre à cartouche, nettoyant moquettes & sac filtrant en non-tissé
 

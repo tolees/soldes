@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Empiècement logo Levis emblématique sur la poitrine
+- Cette coupe oversize taille très grand, nous vous recommandons de prendre une taille ou deux en dessous
+- Ce n’est pas pour rien qu’on le dit ideal
 - Modèle conçu pour un look casual confortable et polyvalent
 - Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
-- Ce n’est pas pour rien qu’on le dit ideal
-- Cette coupe oversize taille très grand, nous vous recommandons de prendre une taille ou deux en dessous
 - Ceci est un authentique produit Levi’s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Circuit 25 cm (10 po) plus long que le circuit de vitesse surélevé original, et permettant plus de 100 assemblages
+- Nul besoin de retrouver les balles perdues dans la maison
+- Matériaux exempts de BPA
 - Compatibilité avec tous les produits sensés 2.0 et les produits Sensés de première génération
 - Jouet facile à assembler et à nettoyer
-- Matériaux exempts de BPA
-- Nul besoin de retrouver les balles perdues dans la maison
+- Circuit 25 cm (10 po) plus long que le circuit de vitesse surélevé original, et permettant plus de 100 assemblages
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D3NI7ZG{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 6 piles LR03 fournies (2 par véhicule)
-- Les Tut Tut Bolides accompagnent Bébé dans ses premières découvertes : nom, fonctions et particularités de chacun des véhicules, développement de la motricité
-- Les véhicules sont compatibles avec le système de détection « Zone Magique » qui déclenche des phrases et des sons supplémentaires
 - Un bouton lumineux en forme de visage rigolo déclenche 3 chansons, 6 mélodies, des phrases et des effets sonores réalistes
-- Un pack de 3 petits véhicules à thème à collectionner
 - Version française
+- Les Tut Tut Bolides accompagnent Bébé dans ses premières découvertes : nom, fonctions et particularités de chacun des véhicules, développement de la motricité
+- 6 piles LR03 fournies (2 par véhicule)
+- Un pack de 3 petits véhicules à thème à collectionner
+- Les véhicules sont compatibles avec le système de détection « Zone Magique » qui déclenche des phrases et des sons supplémentaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00QAFOSTI{{</world>}}

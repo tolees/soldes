@@ -31,10 +31,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Fermeture éclair + lacets
 - Synthétique
 - Tissu respirant.
+- Caoutchouc
 - Fermeture éclair + lacets
 - Caoutchouc
 - Synthétique
-- Caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081K9GKXH{{</world>}}

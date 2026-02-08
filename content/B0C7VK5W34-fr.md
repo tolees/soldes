@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CÉLÉBREZ TOUTES LES FACETTES DE LA CULTURE AUTOMOBILE
 - EXPLOREZ UN MONDE OUVERT HAWAÏEN DYNAMIQUE
 - COLLECTIONNEZ LES VOITURES LES PLUS LÉGENDAIRES
-- CÉLÉBREZ TOUTES LES FACETTES DE LA CULTURE AUTOMOBILE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C7VK5W34{{</world>}}

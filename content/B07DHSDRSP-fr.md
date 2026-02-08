@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lassociation de cires de premier choix garantit une combustion de bonne qualité, sans résidus
 - Chaque fragrance est soigneusement sélectionnée et testée pour que la bougie diffuse un parfum durable dans toute la pièce
-- La mèche en bois brevetée Pluswick recrée le son apaisant dun feu de cheminée qui crépite
-- Profitez dune pause réconfortante avec les arômes épicés de la cannelle, agrémentés de riches notes de vanille
 - La forme évasée de la bougie permet à la cire de fondre uniformément et de diffuser ainsi le parfum de façon plus homogène
+- Profitez dune pause réconfortante avec les arômes épicés de la cannelle, agrémentés de riches notes de vanille
+- La mèche en bois brevetée Pluswick recrée le son apaisant dun feu de cheminée qui crépite
+- Lassociation de cires de premier choix garantit une combustion de bonne qualité, sans résidus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DHSDRSP{{</world>}}

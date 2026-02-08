@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Options de contrôle multiples, plaisir flexible – Pilotez Neo sans contrôleur ou par contrôle vocal (anglais/chinois), appli mobile ou RC; Capturer un anniv épique ou filmer un pique-nique en famille ; ces options polyvalentes permettent à tous de s’essayer
+- Décollage et atterrissage palmaires, sans contrôleur[1] – Neo décolle de votre main d’une simple pression sur un bouton; La simplicité et la sécurité d’utilisation de Neo en font le compagnon idéal pour les barbecues en famille et randonnées entre amis;
 - Vidéo 4K ultra-stabilisée[8] – Que vous fassiez de la randonnée, du kayak ou juste de la promenade dans un parc venteux, la techno de stabilisation DJI, la résistance au vent de niveau 4 et la vidéo 4K ultra-HD garantissent des images fluides et de HQ;
 - Pour les amateurs de contrôle de mouvement immersif et de vol FPV, le bundle Motion Fly More DJI Neo ajoute DJI RC Motion 3, DJI Goggles N3, trois batteries, une station de recharge bidirectionnelle et davantage;
-- Léger et conforme à la réglementation – Neo est plus léger que la plupart des téléphones Dites adieu au casse-tête des examens ; avec seulement 135 g, Neo s’inscrit dans les catégories A1 et A3 et est conforme à la réglementation C0;
+- Options de contrôle multiples, plaisir flexible – Pilotez Neo sans contrôleur ou par contrôle vocal (anglais/chinois), appli mobile ou RC; Capturer un anniv épique ou filmer un pique-nique en famille ; ces options polyvalentes permettent à tous de s’essayer
 - Suivi de sujet et QuickShots – Capturez sans effort des vlogs époustouflants grâce au suivi intelligent du sujet par DJI Neo; Obtenir des séquences professionnelles n’a jamais été aussi simple avec huit modes QuickShots créatifs
 - Protections d’hélices intégrales – Pilotes nerveux, oubliez vos inquiétudes Naviguez avec aisance dans votre intérieur et à travers les branches des arbres en toute sérénité;
-- Décollage et atterrissage palmaires, sans contrôleur[1] – Neo décolle de votre main d’une simple pression sur un bouton; La simplicité et la sécurité d’utilisation de Neo en font le compagnon idéal pour les barbecues en famille et randonnées entre amis;
+- Léger et conforme à la réglementation – Neo est plus léger que la plupart des téléphones Dites adieu au casse-tête des examens ; avec seulement 135 g, Neo s’inscrit dans les catégories A1 et A3 et est conforme à la réglementation C0;
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07FVYPT22{{</world>}}

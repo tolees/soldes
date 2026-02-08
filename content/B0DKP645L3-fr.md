@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MédiaTekDimensity 7025-Ultra, technologie de processus de fabrication de 6 nm ;
+- AI features: Gemini
 - Charge turbo de 45W avec batterie de 5110mAh ;
+- MédiaTekDimensity 7025-Ultra, technologie de processus de fabrication de 6 nm ;
 - Système de caméra AI 108MP avec OIS ;
 - Écran de soins oculaires de 120 Hz, luminosité maximale de 2100 nits, verre Corning Gorilla 5 ;
-- AI features: Gemini
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DKP645L3{{</world>}}

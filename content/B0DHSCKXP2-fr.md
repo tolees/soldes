@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de construction avec voiture Toyota Supra – Pour le plus grand plaisir des fans de Fast and Furious, cette voiture de sport regorge de détails et de références amusantes à la saga, tels que les 2 bonbonnes NOS dans le coffre
-- Un véhicule avec accessoires détaillés – Construisez le moteur 6 cylindres, la direction, le capot ouvrant et le toit amovible, puis rejouez vos scènes préférées du film Fast and Furious
+- Introduction à l’ingénierie et la mécanique – Les maquettes à construire LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie et de la mécanique
 - Maquette de voiture pour garçons et filles de 9 ans et plus – Passez à l’action en construisant une version détaillée de l’une des voitures les plus emblématiques de l’histoire du cinéma, avec le set LEGO Technic Fast and Furious Toyota Supra MK4
 - Un jouet amusant pour les enfants dès 9 ans – Ce set LEGO est une belle idée de cadeau danniversaire pour les garçons et les filles dès 9 ans, fans des films Fast and Furious ou des voitures LEGO Technic
-- Introduction à l’ingénierie et la mécanique – Les maquettes à construire LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie et de la mécanique
+- Jeu de construction avec voiture Toyota Supra – Pour le plus grand plaisir des fans de Fast and Furious, cette voiture de sport regorge de détails et de références amusantes à la saga, tels que les 2 bonbonnes NOS dans le coffre
+- Un véhicule avec accessoires détaillés – Construisez le moteur 6 cylindres, la direction, le capot ouvrant et le toit amovible, puis rejouez vos scènes préférées du film Fast and Furious
 - Construire ensemble – Ce jouet de construction de voiture LEGO est idéal pour partager votre passion pour Fast and Furious avec votre famille et vos amis, en construisant la maquette et en vous remémorant vos scènes préférées du film
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

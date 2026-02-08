@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - APPORTS EDUCATIFS : en observant les modèles et en positionnant les pièces associées, lenfant développera sa dextérité, sa précision, et pourra même apprendre nouveaux mots autour du thème passionnant des dinosaures
-- UNE COLLECTION COMPLETE : les Magnétibooks sont déclinés sur différents thèmes chers aux enfants (animaux, véhicules, lettres…), composant une collection complète pour apprendre tout en samusant.
-- JEU MAGNETIQUE : avec ce jeu éducatif en forme de livre, votre enfant pourra reconstituer jusquà 10 dinosaures en positionnant les 40 pièces magnétiques selon les 10 cartes modèles inclues (soit 50 pièces au total). Produit certifié FSC.
 - DESIGN FRANCE : Les jouets Janod sont imaginés en France, dans le Jura, avec une attention particulière portée sur les matériaux utilisés, le style et les couleurs. Des jouets et des jeux originaux, audacieux, éducatifs et réfléchis pour accompagner vos enfants dans leur épanouissement et leur développement cognitif, psychomoteur et socio-émotionnel.
 - PRATIQUE : facile à transporter, il peut être utilisé pour jouer nimporte où, seul ou à plusieurs. Son format "Livre" en carton rigide épais, permet de le ranger facilement dans les meubles de la chambre denfant
+- UNE COLLECTION COMPLETE : les Magnétibooks sont déclinés sur différents thèmes chers aux enfants (animaux, véhicules, lettres…), composant une collection complète pour apprendre tout en samusant.
+- JEU MAGNETIQUE : avec ce jeu éducatif en forme de livre, votre enfant pourra reconstituer jusquà 10 dinosaures en positionnant les 40 pièces magnétiques selon les 10 cartes modèles inclues (soit 50 pièces au total). Produit certifié FSC.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SXQVQ35{{</world>}}

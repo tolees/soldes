@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond côtelé
 - Coupe régulière
 - Logo Nike sur la poitrine
+- Col rond côtelé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD6MTST{{</world>}}

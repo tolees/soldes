@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Si facile ! - De l’envol à la prise de vue, tout est simple et facile avec DJI Mini 2 SE. Il a une fonction de retour au point de départ si la batterie est trop faible.
-- Remarque : le câble DJI RC-N1 (connecteur Lightning) se trouve à l’intérieur de la radiocommande RC-N1.
-- Mini 2 SE se décline en deux versions : l’une avec et l’autre sans étiquette C0. Les deux versions sont autorisées pour les vols dans les catégories A1 et A3. Aucun test n’est donc exigé pour les opérateurs.
 - Modes intelligents - QuickShots et autres fonctions intelligentes sont disponibles en quelques clics, pour obtenir des images aériennes semblant être prises par un professionnel.
-- Portée étendue - avec une plage de transmission vidéo robuste optimale de 10 km, les utilisateurs vont plus loin, explorent et capturent davantage avec une connexion fiable.
-- Résistance au vent de 38 km/h (niveau 5) - DJI Mini 2 SE offre une stabilité fiable même dans des vents de 38 km/h max. (niveau 5) ; volez et capturez du contenu de manière plus fiable, partout.
-- * Pour votre sécurité, veuillez vérifier et respecter les lois et réglementations locales en vigueur avant tout vol.
 - Conforme aux réglementations - les drones < 249 g ne sont soumis à aucun test dans la plupart des pays. Profitez du plaisir du vol sans la fastidieuse procédure de demande et les délais d’attente.
+- Portée étendue - avec une plage de transmission vidéo robuste optimale de 10 km, les utilisateurs vont plus loin, explorent et capturent davantage avec une connexion fiable.
+- Mini 2 SE se décline en deux versions : l’une avec et l’autre sans étiquette C0. Les deux versions sont autorisées pour les vols dans les catégories A1 et A3. Aucun test n’est donc exigé pour les opérateurs.
+- Résistance au vent de 38 km/h (niveau 5) - DJI Mini 2 SE offre une stabilité fiable même dans des vents de 38 km/h max. (niveau 5) ; volez et capturez du contenu de manière plus fiable, partout.
+- Remarque : le câble DJI RC-N1 (connecteur Lightning) se trouve à l’intérieur de la radiocommande RC-N1.
+- * Pour votre sécurité, veuillez vérifier et respecter les lois et réglementations locales en vigueur avant tout vol.
 - Vol long - temps de vol max. de 31 minutes offre des vols prolongés et plus d’opportunités aériennes. Explorez, filmez ou amusez-vous avec plus de confiance et de tranquillité d’esprit.
+- Si facile ! - De l’envol à la prise de vue, tout est simple et facile avec DJI Mini 2 SE. Il a une fonction de retour au point de départ si la batterie est trop faible.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQ2T2TH9{{</world>}}

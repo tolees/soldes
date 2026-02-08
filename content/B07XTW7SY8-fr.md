@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interface : USB 3.1 (rétrocompatible USB 3.0 et USB 2.0)
-- Compatible avec Windows 7, Windows 8, Windows 10, Windows Vista, Windows XP, Windows ME, Windows 2000, Mac OS 8.6 and above, Linux kernel 2.4+
 - Vitesse de lecture maximale : 80Mo/s
+- Compatible avec Windows 7, Windows 8, Windows 10, Windows Vista, Windows XP, Windows ME, Windows 2000, Mac OS 8.6 and above, Linux kernel 2.4+
 - Vitesse décriture maximale : 20Mo/s
+- Interface : USB 3.1 (rétrocompatible USB 3.0 et USB 2.0)
 - Non compatible Windows 98
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

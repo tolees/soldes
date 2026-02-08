@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle intermédiaire légère Techlite pour un amorti durable et un retour dénergie élevé
 - Caoutchouc de traction Omni-Grip non marquant
 - Dessus en maille imperméable et cuir. Membrane Omni-Tech imperméable et respirante
-- Semelle intermédiaire légère Techlite pour un amorti durable et un retour dénergie élevé
 - Remarque : les lacets et fermetures éclair intégrés dans les chaussures Columbia Sportswear Company ne sont pas étanches.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

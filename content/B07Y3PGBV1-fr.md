@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel: Coton
-- Haute qualité
-- Training
 - Sport
 - Department: Homme
+- Haute qualité
+- Training
+- Matériel: Coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Y3PGBV1{{</world>}}

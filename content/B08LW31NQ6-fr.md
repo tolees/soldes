@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boutons silencieux sans bruits de clic gênants
 - Réglage instantané du DPI : 2400, 1600, 800
 - Caractéristiques Bluetooth 5.0 avec double prise en charge de la connexion pour basculer entre 2 appareils
 - Capteur optique bleu fonctionnant sur la plupart des surfaces
 - Fonction Swift Pair pour une connexion facile à de nouveaux appareils
-- Boutons silencieux sans bruits de clic gênants
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08LW31NQ6{{</world>}}

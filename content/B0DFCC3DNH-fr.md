@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure en cuir et textile avec cuir rembourré, semelle intérieure perforée pour un amorti et une respirabilité
-- Notre construction Signature ECCO Fluidform offre un mouvement fluide et souple
-- La semelle en caoutchouc cool dinspiration vintage offre stabilité et adhérence
 - Semelle intermédiaire légère en polyuréthane pour un rebond supplémentaire
+- La semelle en caoutchouc cool dinspiration vintage offre stabilité et adhérence
 - Fabriqué dans un mélange de cuir haut de gamme pour un look moderne et un corps en cuir lisse et sportif avec des pops colorés
+- Notre construction Signature ECCO Fluidform offre un mouvement fluide et souple
+- Doublure en cuir et textile avec cuir rembourré, semelle intérieure perforée pour un amorti et une respirabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DFCC3DNH{{</world>}}

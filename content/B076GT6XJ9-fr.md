@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Câble tressé amovible avec commandes audio en ligne
+- Cadre aluminium durable avec arceau élargi
+- Réponse en fréquence : 50Hz-18,000Hz
+- Impédance: 65 Ω
+- Microphone amovible à réduction de bruit
+- Le Cloud Alpha disposant d’un câble détachable, il est également important de s’assurer que ce dernier est complètement inséré dans l’oreillette du casque Aucune partie grise sur la prise jack ne doit être visible une fois le câble branché
 - Confort certifié par Discord et TeamSpeak
 - Les transducteurs à chambre double HyperX génèrent un son cristallin et moins de distorsions acoustiques Niveau de pression acoustique : 98dBSPL/mW à 1kHz
-- Cadre aluminium durable avec arceau élargi
-- Impédance: 65 Ω
 - Compatible avec PC, PS5, PS4, Xbox One, Xbox Series X|S et dautres plateformes avec un port de 3,5 mm
-- Câble tressé amovible avec commandes audio en ligne
-- Microphone amovible à réduction de bruit
-- Réponse en fréquence : 50Hz-18,000Hz
-- Le Cloud Alpha disposant d’un câble détachable, il est également important de s’assurer que ce dernier est complètement inséré dans l’oreillette du casque Aucune partie grise sur la prise jack ne doit être visible une fois le câble branché
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076GT6XJ9{{</world>}}

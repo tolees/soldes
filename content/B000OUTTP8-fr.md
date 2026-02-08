@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- un produit unique et exclusif de la marque Clinique
-- Dramatically Différent gel hydratant - Femme
 - Dramatically Différent gel hydratant - Clinique
+- Dramatically Différent gel hydratant - Femme
+- un produit unique et exclusif de la marque Clinique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000OUTTP8{{</world>}}

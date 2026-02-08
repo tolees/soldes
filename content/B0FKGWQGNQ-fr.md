@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistre et partage facilement du contenu tel que des captures d’écran, des enregistrements et plus encore avec le bouton de partage.
-- Personnalise ta manette grâce à la réattribution des boutons dans l’application Accessoires Xbox.*
 - Inclut la technologie sans fil et Bluetooth Xbox pour sappairer rapidement, jouer et passer d’un appareil à l’autre (console, PC et cloud inclus).*
+- Personnalise ta manette grâce à la réattribution des boutons dans l’application Accessoires Xbox.*
+- Enregistre et partage facilement du contenu tel que des captures d’écran, des enregistrements et plus encore avec le bouton de partage.
 - Reste élégamment sur la cible grâce aux gâchettes texturées et reste dans l’action grâce aux poignées caoutchoutées à l’arrière des manettes.
 - Ne recule devant rien avec l’édition spéciale de la série Breaker. Storm Breaker ne laisse rien entraver son style avec des gris et des noirs classiques, contrebalancés par des blancs.
 

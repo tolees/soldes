@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Extrêmement faible coûts de fonctionnement
 - Fabriqué en : Italie
-- solides dentretien à faible manipuleront la pompe
 - Débit: 4000 L/H
+- solides dentretien à faible manipuleront la pompe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0079WZGWE{{</world>}}

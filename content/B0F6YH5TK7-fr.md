@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Moteurs Brushless & Stabilité: Équipé de 4 moteurs brushless, ce drone offre 30% de durée de vie en plus et une meilleure résistance au vent. Positionnement optique + vol stationnaire stable pour un contrôle drone précis. Mode sans cap élimine la confusion directionnelle pour débutants.
-- Débutant & Protection Anti-Perte: La batterie du drone (1600mAh) offre ~15 min de vol. Alertes pour signal faible ou batterie faible. Maintien daltitude facilite la stabilité du drone. Design anti-collision robuste pour commencer sereinement avec votre drone!
-- Évitement dobstacles & Design Portable: Ce drone de voyage offre des capteurs avant pour une protection à 360°. Ses bras pliables permettent au drone de rentrer dans son étui inclus (exempté FAA sous 250g). Le compagnon drone idéal pour laventure!
 - Caméra FPV HD 1080P avec Transmission en Temps Réel: Vivez des vols drone immersifs avec sa caméra HD 1080P réglable électriquement à 90°. Lécran LCD 2,8" et le WiFi permettent la transmission FPV en temps réel sur votre téléphone. Stockez vos médias aériens sur carte microSD (4GB incl., max 32GB).
 - Modes de Vol Intelligents: Profitez dune utilisation drone simplifiée avec décollage/atterrissage automatique, vol de trajectoire et de waypoints. Faites faire un flip 360°/roulis 3D au drone instantanément ! Contrôlez le drone par gestes, capteur de mouvement et 3 vitesses adaptées à tous.
+- Évitement dobstacles & Design Portable: Ce drone de voyage offre des capteurs avant pour une protection à 360°. Ses bras pliables permettent au drone de rentrer dans son étui inclus (exempté FAA sous 250g). Le compagnon drone idéal pour laventure!
+- Moteurs Brushless & Stabilité: Équipé de 4 moteurs brushless, ce drone offre 30% de durée de vie en plus et une meilleure résistance au vent. Positionnement optique + vol stationnaire stable pour un contrôle drone précis. Mode sans cap élimine la confusion directionnelle pour débutants.
+- Débutant & Protection Anti-Perte: La batterie du drone (1600mAh) offre ~15 min de vol. Alertes pour signal faible ou batterie faible. Maintien daltitude facilite la stabilité du drone. Design anti-collision robuste pour commencer sereinement avec votre drone!
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F6YH5TK7{{</world>}}

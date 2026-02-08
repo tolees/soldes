@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Maintient fiable des vis de tout profil et de toute taille sur loutil
-- Douille avec fonction de retenue de la vis
 - En plastique élastomère robuste
+- Douille avec fonction de retenue de la vis
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004VMWXQ2{{</world>}}

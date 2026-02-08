@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
-- Livré avec : GEX 18V-125, plateau de ponçage (125 mm), 1 disque abrasif C430 Expert for Wood + Paint, G120 (aussi disponible séparément par pack de 5 : 2 608 605 643), sac à poussière
 - Ergonomique et intuitive : Maîtrise parfaite grâce à un équilibrage parfait, au repose-main ergonomique et à la poignée proche de la pièce
+- Livré avec : GEX 18V-125, plateau de ponçage (125 mm), 1 disque abrasif C430 Expert for Wood + Paint, G120 (aussi disponible séparément par pack de 5 : 2 608 605 643), sac à poussière
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Progression de travail rapide et grande longévité : grâce au moteur sans charbon et au Professional 18V System Bosch
+- Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B093TCNYR6{{</world>}}

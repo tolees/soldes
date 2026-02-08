@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En cas de contact avec les yeux, rincer abondamment à leau claire
-- Certifié Bio - Vegan - 0% silicone
-- Sa formule ultra-douce, au pH équilibré, permet un usage quotidien
 - Le Shampooing Extra-Doux Cattier au lait d’avoine, apporte douceur et brillance à tous les types de cheveux
+- Sa formule ultra-douce, au pH équilibré, permet un usage quotidien
 - Il les fortifie et facilite leur démêlage
+- Certifié Bio - Vegan - 0% silicone
+- En cas de contact avec les yeux, rincer abondamment à leau claire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002BJTWNY{{</world>}}

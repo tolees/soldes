@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bracelet en silicone Petit Piqué
 - Resistance a leau 5 ATM
 - Lacoste 12.12 inspiré Polo
-- Chiffres faciles à lire
 - Trotteuse colorée
-- Bracelet en silicone Petit Piqué
+- Chiffres faciles à lire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073XCZMVJ{{</world>}}

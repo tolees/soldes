@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compartiment pour téléphone portable
-- Élégant et pratique
 - Logo de base 4G
+- Élégant et pratique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BWRB9QD3{{</world>}}

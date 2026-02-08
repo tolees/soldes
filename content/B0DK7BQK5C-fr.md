@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en 5 teintes transparentes à la délicieuse senteur fruitée
 - Elle est enrichie en huiles de framboise et davocat. Elle contient du collagène vegan et de lextrait de raisin antioxydant. Cette huile nourrissante contient une formule vegan et clean avec 94 % dingrédients dorigine naturelle
-- Résultats visibles après 7 jours dutilisation*
 - Sa formule juteuse laisse les lèvres hydratées et brillantes
 - Une huile à lèvres non collante à la texture douce et soyeuse, pour une hydratation réparatrice et plus de brillance
+- Disponible en 5 teintes transparentes à la délicieuse senteur fruitée
+- Résultats visibles après 7 jours dutilisation*
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK7BQK5C{{</world>}}

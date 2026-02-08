@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ENTRETIEN FACILE : lassise de la balancelle et le réducteur sont amovibles et lavables en machine à 30°.
-- COMPLETE : 8 berceuses sont disponibles sur la Swoon Motion (mélodies et sons de la nature). Le volume est réglable sur le pied de la balancelle
 - BALANCELLE ELECTRIQUE : la Swoon Motion calme votre bébé avec un balancement latéral ou davant en arrière. Elle peut aussi être utilisée en transat fixe.
+- COMPLETE : 8 berceuses sont disponibles sur la Swoon Motion (mélodies et sons de la nature). Le volume est réglable sur le pied de la balancelle
 - CONFORTABLE : cette balancelle a une assise en coton ajustable (2 positions) et rotative à 360°. Le dossier est réglable sur 2 positions et un réducteur pour nouveau-né amovible est inclus.
 - INNOVANTE : la balancelle a 5 vitesses de balancement, dune programmation (10, 20 / 30 min), et dun detecteur de mouvement (le balancement se relance automatiquement lorsque votre bébé bouge).
 

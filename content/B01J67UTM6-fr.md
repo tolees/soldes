@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encoche dans la partie inférieure de la boîte pour y poser le support magnétique
-- Différents thèmes: les continents, vêtements, émotions, la mode, etc
-- Convient aux enfants à partir de 3 ans
 - Contenu: 1 Support magnétique 28x18 cm et 30 fiches aimantées pour créer des portraits
-- Présentation: une boite cartonnée de haute qualité
 - Haute valeur didactique pour ce jeu avec aimant
+- Encoche dans la partie inférieure de la boîte pour y poser le support magnétique
+- Convient aux enfants à partir de 3 ans
+- Différents thèmes: les continents, vêtements, émotions, la mode, etc
+- Présentation: une boite cartonnée de haute qualité
 - Pour apprendre à placer les magnets par associations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : tissu
 - Tige : daim et nubuck
+- Doublure : tissu
 - Matériau de la semelle : cuir synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

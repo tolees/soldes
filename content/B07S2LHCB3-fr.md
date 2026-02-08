@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis: 13.0 kilograms
-- Type de source dalimentation: CA
 - pour piscines 4 x 8 m, 2 moteurs fond et paroi
 - Couleur: Blanc / noir
+- Type de source dalimentation: CA
+- Poids du colis: 13.0 kilograms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07S2LHCB3{{</world>}}

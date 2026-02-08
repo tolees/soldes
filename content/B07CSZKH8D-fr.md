@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fonction de chauffage
+- Bouton Stop/Annuler
 - Couleur écorce réglable
 - Stockage câble
 - Fonction dégivrage
-- Bouton Stop/Annuler
-- Fonction de chauffage
 - Plateau à miettes amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

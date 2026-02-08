@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Respirantes
-- 12.949999986791 pouces
 - Fermeture : éthylène-acétate de vinyle
+- 12.949999986791 pouces
 - Cuir : daim
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

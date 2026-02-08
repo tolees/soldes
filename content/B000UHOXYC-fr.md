@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pentel Stylo à bille rétractable WOW BK440, noir</li><li>largeur de tracé: 0,50 mm, diamètre de la bille: 1,00 mm,</li><li>manche triangulaire, zone de préhension caoutchoutée,</li><li>boîtier en plastique à la couleur de lencre, clip latéral</li><li>pour retrait des mines</li><li>(BK440-A)
 - Pentel - BK440-A
+- Pentel Stylo à bille rétractable WOW BK440, noir</li><li>largeur de tracé: 0,50 mm, diamètre de la bille: 1,00 mm,</li><li>manche triangulaire, zone de préhension caoutchoutée,</li><li>boîtier en plastique à la couleur de lencre, clip latéral</li><li>pour retrait des mines</li><li>(BK440-A)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000UHOXYC{{</world>}}

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UN ASSEMBLAGE SIGNATURE de Pinot Noir, de Meunier et de Chardonnay qui donne au vin sa robe aux tons jaune doré
-- UNE DÉGUSTATION OPTIMALE entre 6 et 8°C à l’apéritif et entre 9 et 12°C avec une entrée
 - DES SAVEURS COMPLEXES, entre rondeur et vivacité Au nez se dévoilent des arômes de fruits jaunes et blancs relevés de notes de fruits exotiques En bouche apparait une attaque vive puis une rondeur où se mêlent des arômes de fruits et de caramel
 - À CONSOMMER à l’apéritif ou en accompagnement de tapas Avec sa vivacité et sa fraîcheur aromatique, Mumm Cordon Rouge saura faire ressortir la qualité des produits choisis, tels que des fromages doux à pâte molle ou des viandes blanches
 - EMBLÈME DE LA MAISON MUMM, le cordon rouge symbolise le ruban de la Légion d’Honneur Il orne chaque bouteille depuis 1876
+- UNE DÉGUSTATION OPTIMALE entre 6 et 8°C à l’apéritif et entre 9 et 12°C avec une entrée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BGQQXS4{{</world>}}

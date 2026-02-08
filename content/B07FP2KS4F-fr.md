@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend également une station-service et un chariot à outils avec 9 éléments doutils. Les accessoires incluent le casque et le réservoir dair de Benny. Les figurines Emmet et Benny sont nouvelles pour janr 2019. Recréez des scènes amusantes du film LEGO 2.
+- Les ensembles de construction LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes et aider à développer leur confiance avec des étapes de construction simples pour le début parfait de la construction de briques LEGO. Comprend 2 personnages Lego Mo 2 : Emmet et Benny.
 - Le vaisseau spatial Benny dispose dun cockpit pour figurine, de boosters pliables et dune poussette spatiale amovible avec cockpit minifigurine. La poussette Emmets Escape dispose dun siège pour figurine et dun élément déchappement de flamme.
 - Le jouet vaisseau spatial Benny mesure plus de 5 cm de haut, 16 cm de long et 9 cm de large. La voiture Emmets Escape Buggy mesure plus de 4 cm de haut, 15 cm de long et 6 cm de large. La station-service mesure plus de 6 cm de haut, 6 cm de large et 3 cm de profondeur.
-- Les ensembles de construction LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes et aider à développer leur confiance avec des étapes de construction simples pour le début parfait de la construction de briques LEGO. Comprend 2 personnages Lego Mo 2 : Emmet et Benny.
 - Les jouets créatifs LEGO 4+ introduisent votre enfant à un large univers de ses films préférés, des personnages de téléion et des héros du quotidien. Les ensembles de construction LEGO 4+ ont été précédemment marqués comme LEGO Juniors et sont compatibles avec tous les jouets de construction LEGO pour la construction créative. Ce jouet de construction est un cadeau idéal pour les enfants dâge préscolaire et les jeunes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

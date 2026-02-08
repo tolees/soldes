@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Better Leather,Better Linings
-- Semelle extérieure : 100 % EVA
 - Doublure : 44 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 34 % cuir de porc 22 % polyester recyclé
+- Better Leather,Better Linings
 - Matériau extérieur : 100 % cuir de vachette
+- Semelle extérieure : 100 % EVA
 - Couleur : noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

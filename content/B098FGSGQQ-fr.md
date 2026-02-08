@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
-- Toile
-- Textile
 - Lacet
+- Textile
+- Toile
+- Plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098FGSGQQ{{</world>}}

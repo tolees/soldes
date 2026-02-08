@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patins larges assurant une glisse fluide et maîtrisée
-- Personnalisation aisée à laide du logiciel HyperX Ngenuity
-- Sept touches programmables
 - Capteur optique Pixart 3327 avec un DPI pouvant atteindre une valeur maximale de 6200
+- Personnalisation aisée à laide du logiciel HyperX Ngenuity
+- Patins larges assurant une glisse fluide et maîtrisée
+- Sept touches programmables
 - Conception symétrique confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

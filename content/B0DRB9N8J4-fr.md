@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- IL MORD : Regarde ses dents mordre et mâcher. Attention à tes doigts ! (Ce nest pas dangereux pour les enfants)
+- IL COURT : Regarde-le courir, mais ne le laisse pas t’attraper !
 - IL SERRE SES GRIFFES : Le raptor bouge ses griffes comme un vrai prédateur préhistorique !
 - ROBOT DINO : Le jouet robotique par excellence pour les fans de robots, de dinosaures ou des deux !
 - Il EST VIVANT : Allume et regarde la créature autrefois disparue prendre vie !
-- IL MORD : Regarde ses dents mordre et mâcher. Attention à tes doigts ! (Ce nest pas dangereux pour les enfants)
-- IL COURT : Regarde-le courir, mais ne le laisse pas t’attraper !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DRB9N8J4{{</world>}}

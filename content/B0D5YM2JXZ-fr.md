@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DOUBLE STABILISATION : jusquà 6.5 stops en capteur + optique avec la nouvelle technologie innovante Active I.S. pour les images les plus stables dans toutes les conditions, même sans stabilisateur externe.
-- AUTOFOCUS HYBRIDE PHASE & CONTRASTE : 779 points de focus pour une mise au point ultra rapide et précise, même dans les conditions les plus difficiles, en photo comme en vidéo, sur les yeux, visages et animaux, de près comme de loin.
 - UNE QUALITÉ DIMAGE INCROYABLE : un capteur plein format de 24,2 MP avec Double ISO natif, pour des images époustouflantes même en basse lumière, ainsi quun mode Haute Résolution 96 MP en RAW & JPEG pour des images ultra riches.
 - APPLICATION LUMIX LAB RAPIDE & INTUITIVE : shootez et partagez en 30 secondes, appliquez des LUTs créateurs ou les vôtres, créez et retouchez, recadrez grâce vos vidéos Open Gate, pour un partage instantané sur les réseaux sociaux.
 - VIDÉO PROFESSIONNELLE : enregistrement vidéo 6K 10bit 30p & 4:2:2 10bit en C4K 60p INTERNE. Profil V-Log 14+ stops & Mode Anamorphique stabilisé, Slow Motion 180ips. Format ultra léger pour les réseaux en MP4 LITE.
+- AUTOFOCUS HYBRIDE PHASE & CONTRASTE : 779 points de focus pour une mise au point ultra rapide et précise, même dans les conditions les plus difficiles, en photo comme en vidéo, sur les yeux, visages et animaux, de près comme de loin.
+- DOUBLE STABILISATION : jusquà 6.5 stops en capteur + optique avec la nouvelle technologie innovante Active I.S. pour les images les plus stables dans toutes les conditions, même sans stabilisateur externe.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D5YM2JXZ{{</world>}}

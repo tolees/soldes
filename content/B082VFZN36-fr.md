@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un soutien naturel pour votre alimentation
 - Ingrédients responsables :
 - Booster dénergie au quotidien
-- Un soutien naturel pour votre alimentation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082VFZN36{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : beige
-- Semelle intérieure : OrthoLite pour un meilleur amorti
 - Fermeture à lacets et brides élastiques pour un bon ajustement
 - Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
+- Couleur : beige
+- Semelle intérieure : OrthoLite pour un meilleur amorti
 - Tige : Nubuck
 
 [🛒 Achète-le!!]({{< param buyurl >}})

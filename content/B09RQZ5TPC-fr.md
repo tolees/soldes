@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mouvement multifonction à quartz avec trois sous-cadrans
-- Bracelet en acier inoxydable
 - Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
+- Bracelet en acier inoxydable
+- Mouvement multifonction à quartz avec trois sous-cadrans
 - Épaisseur du boîtier 10,8mm / Diamètre du boîtier 44 mm
 - Cadran squelette noir
 

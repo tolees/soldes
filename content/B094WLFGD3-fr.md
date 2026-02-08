@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Create : production et partage du contenu vidéoludique avec les autres joueurs, Gachettes adaptatives pour une expérience immersive
+- Contenu : 1 x Sony Manette sans fil DualSense pour PS5, Batterie rechargeable, Dimensions : 16x6.6x10.9 cm (LxHxL), Poids : 280 g, Guide d’utilisation, Couleur : Midnight Black
 - Caractéristiques : Haut-parleur et microphone intégrés, Prise casque, Détection de mouvement 6 axes, Port USB-C, Retour haptique
 - Batterie rechargeable intégrée, possibilité de jouer et de recharger la batterie simultanément
-- Contenu : 1 x Sony Manette sans fil DualSense pour PS5, Batterie rechargeable, Dimensions : 16x6.6x10.9 cm (LxHxL), Poids : 280 g, Guide d’utilisation, Couleur : Midnight Black
+- Technologie Create : production et partage du contenu vidéoludique avec les autres joueurs, Gachettes adaptatives pour une expérience immersive
 - Manette sans fil DualSense pour PS5, Pour une expérience de gaming plus intense et innovante, Compatible avec PC via une connexion filaire en USB
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Démaquillant super précis et doux
-- Les yeux et les lèvres sont nettoyés rapidement et efficacement
-- Grâce à la formule élaborée en douceur, le démaquillage est particulièrement adapté aux yeux sensibles et aux personnes qui portent des lentilles de contact
-- Les extraits de camomille calment la peau
 - Les soins éliminent même le maquillage imperméable sans fatiguer votre peau
+- Les yeux et les lèvres sont nettoyés rapidement et efficacement
 - Les substances parfumées agréablement revigorent et vous procurent une agréable sensation de fraîcheur
+- Grâce à la formule élaborée en douceur, le démaquillage est particulièrement adapté aux yeux sensibles et aux personnes qui portent des lentilles de contact
+- Démaquillant super précis et doux
+- Les extraits de camomille calment la peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00VODRK64{{</world>}}

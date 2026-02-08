@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Age : à partir de 14 ans
-- Puzzle de 3000 pièces de dimensions 118,4 x 84,5 cm
 - Fabriqué en Italie
 - Voici ce qui caractérise la collection High Quality de Clementoni : des images captivantes, une impression de qualité, des découpes précises et un matériau résistant; Cette gamme de puzzle élégante a été créée pour ceux qui ont la passion des détails
+- Age : à partir de 14 ans
+- Puzzle de 3000 pièces de dimensions 118,4 x 84,5 cm
 - Très attentif à l’écologie, Clementoni utilise une forte proportion de matériaux recyclés, évitant ainsi l’utilisation de composants polluants
 
 [🛒 Achète-le!!]({{< param buyurl >}})

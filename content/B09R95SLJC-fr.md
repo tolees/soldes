@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de produit: PHYSICAL MOVIE
 - Marque: Warner Bros. Entertainment France
 - Matrix - Coffret 4 Films DVD
+- Type de produit: PHYSICAL MOVIE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09R95SLJC{{</world>}}

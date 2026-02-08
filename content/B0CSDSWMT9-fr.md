@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col pointu
-- Coupe classique
 - Encolure avec boutons
+- Coupe classique
+- Col pointu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSDSWMT9{{</world>}}

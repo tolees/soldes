@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Educatif et ludique : En même temps que les enfants samusent, ils apprennent aussi les règles basiques du jeu comme attendre son tour, respecter ladversaire, etc
 - On joue ensemble pour mettre les cochons à labri dans les maisons avant que le loup narrive
 - Accessible et simple : Des règles adaptées pour les enfants dès le plus jeune ge qui facilite le jeu
-- De 1 à 4 joueurs - De 3 à 99 ans - 20 mn de jeu - Thème de la comptine très connu
 - Jeu cooperatif pour samuser en famille sur un thème connu et apprécié des enfants
-- Educatif et ludique : En même temps que les enfants samusent, ils apprennent aussi les règles basiques du jeu comme attendre son tour, respecter ladversaire, etc
+- De 1 à 4 joueurs - De 3 à 99 ans - 20 mn de jeu - Thème de la comptine très connu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07B37TT7F{{</world>}}

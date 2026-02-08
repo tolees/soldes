@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incarnez Garfield, Odie, Jon et bien d’autres personnages emblématiques de la bande dessinée ! Chaque pilote a sa propre personnalité, pour une expérience de course unique et immersive.
-- Affrontez jusquà 8 joueurs en ligne dans le monde entier ou profitez du mode multijoueur en écran partagé jusquà 4 joueurs ! Parfait pour des compétitions endiablées entre amis ou des soirées en famille.
-- Défiez vos amis sur des circuits déjantés à travers trois univers uniques ! Filez dans l’ambiance mystérieuse des détectives, bravez les mers des Pirates, ou dévalez les pistes poussiéreuses des cowboys.
 - Personnalisez votre bolide et créez le kart parfait pour votre style de conduite ! Choisissez votre pare-chocs, vos roues, votre aileron, ainsi qu’une livrée et sa couleur pour une touche unique. Affirmez votre style sur la piste et montrez qui est le véritable roi de la course !
+- Affrontez jusquà 8 joueurs en ligne dans le monde entier ou profitez du mode multijoueur en écran partagé jusquà 4 joueurs ! Parfait pour des compétitions endiablées entre amis ou des soirées en famille.
+- Incarnez Garfield, Odie, Jon et bien d’autres personnages emblématiques de la bande dessinée ! Chaque pilote a sa propre personnalité, pour une expérience de course unique et immersive.
+- Défiez vos amis sur des circuits déjantés à travers trois univers uniques ! Filez dans l’ambiance mystérieuse des détectives, bravez les mers des Pirates, ou dévalez les pistes poussiéreuses des cowboys.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F9PBNQHV{{</world>}}

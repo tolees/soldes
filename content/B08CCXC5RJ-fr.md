@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - EXCELLENT CONFORT : grâce à ses lignes indémodables, ce modèle convient à tous types de corps. Jeunes ou moins jeunes, tous aimeront le recevoir en cadeau.
 - ICONIQUE ET INTEMPOREL : ce modèle passe-partout est très agréable à porter. Au quotidien ou pour la détente. Le branding Tommy Hilfiger sur la poitrine attire tous les regards.
-- MATIÈRE EXCLUSIVE : 50 % coton biologique, 30 % polyester recyclé et 20 % coton.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
 - DURABITÉ ET ÉLÉGANCE : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Il est très apprécié grâce à sa matière recyclée et à sa coupe classique.
+- MATIÈRE EXCLUSIVE : 50 % coton biologique, 30 % polyester recyclé et 20 % coton.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08CCXC5RJ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Permet de transporter jusquà deux trépieds (arrière et latéral). Partie supérieure du sac à dos pour les articles de tous les jours, ou encore plus de matériel de photo et dobservation.
-- Conçu pour les appareils photo reflex numériques ou sans miroir et les objectifs 3-5 (jusquà 300mm f2)
 - Le VEO Active 46 est un sac à dos dextérieur élégant et durable de 25 litres, doté dun sac intérieur amovible pour votre équipement photo.
 - Accès arrière à lensemble du kit photo pour plus de commodité et de sécurité.
 - Il peut transporter un ordinateur portable de 14" et une tablette de 10".
+- Conçu pour les appareils photo reflex numériques ou sans miroir et les objectifs 3-5 (jusquà 300mm f2)
+- Permet de transporter jusquà deux trépieds (arrière et latéral). Partie supérieure du sac à dos pour les articles de tous les jours, ou encore plus de matériel de photo et dobservation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QCQVCDZ{{</world>}}

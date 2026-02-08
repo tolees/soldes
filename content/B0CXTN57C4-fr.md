@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JOUE EN COOP – Pars à laventure à un ou deux joueurs.
-- AMUSE-TOI PARTOUT – Avec des mini-jeux, des objets à collectionner, des photos et plus encore !
-- POMPONNE-TOI – Donne du style à tes amis poneys avec des accessoires personnalisés.
 - TOUT LE MONDE EST LÀ – Joue avec tes poneys préférés.
 - EXPLORE LE ROYAUME – Sauve la ville-nuage de Hauts-de-Zéphyr.
+- POMPONNE-TOI – Donne du style à tes amis poneys avec des accessoires personnalisés.
+- AMUSE-TOI PARTOUT – Avec des mini-jeux, des objets à collectionner, des photos et plus encore !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXTN57C4{{</world>}}

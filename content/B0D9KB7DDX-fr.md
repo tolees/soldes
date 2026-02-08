@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : Boutons frontaux
-- Manche : Longue
-- Imprimé de grandes fleurs dans des tons sombres.
 - Coupe : Regular
+- Fermeture : Boutons frontaux
+- Imprimé de grandes fleurs dans des tons sombres.
+- Manche : Longue
 - Col: de chemise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

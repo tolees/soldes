@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau intérieur : synthétique
+- Matériau extérieur : daim
 - Niveau de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
-- Matériau intérieur : synthétique
 - Forme du talon : plat
-- Matériau extérieur : daim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005BC71KE{{</world>}}

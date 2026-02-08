@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KIT COMPLET & FACILE À UTILISER – Inclut écran LCD couleur 2.4’’, batterie rechargeable 1000mAh, câble USB et impression thermique sans encre. Carte micro-SD compatible (non incluse) pour sauvegarder et partager photos et vidéos.
 - IDÉE CADEAU CRÉATIF ENFANT 8 ANS+ – Original et ludique, cet appareil photo instantané stimule créativité et imagination. Parfait comme cadeau d’anniversaire, Noël ou activité en famille, il associe technologie, amusement et souvenirs uniques.
 - APPAREIL PHOTO ENFANT 3 EN 1 AVEC IMPRESSION INSTANTANÉE – Capture tes moments en photo ou vidéo, imprime-les en un clic grâce à la technologie thermique sans encre et profite d’un appareil facile à utiliser, parfait pour enfants dès 8 ans.
-- MODES PHOTO, SELFIE & VIDÉO – Grâce à son double objectif, choisis entre portrait, paysage ou selfie. Ajoute des filtres et 22 cadres amusants pour personnaliser tes clichés, puis imprime-les en noir et blanc pour les customiser avec feutres et stickers.
 - PLUS DE 250 PHOTOS INCLUSES – Ce kit complet contient 4 rouleaux de papier thermique pour imprimer plus de 250 clichés instantanément. Plus économique que le papier photo classique, il permet de garder ou partager ses souvenirs sans limite.
+- KIT COMPLET & FACILE À UTILISER – Inclut écran LCD couleur 2.4’’, batterie rechargeable 1000mAh, câble USB et impression thermique sans encre. Carte micro-SD compatible (non incluse) pour sauvegarder et partager photos et vidéos.
+- MODES PHOTO, SELFIE & VIDÉO – Grâce à son double objectif, choisis entre portrait, paysage ou selfie. Ajoute des filtres et 22 cadres amusants pour personnaliser tes clichés, puis imprime-les en noir et blanc pour les customiser avec feutres et stickers.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B091V3GPJ1{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Participez à dintenses courses-poursuites en véhicule dans des environnements destructibles
+- Explorez une ville animée et dynamique, à pied, en voiture de police et même en hélicoptère
+- Profitez dun cycle jour/nuit et dune météo évolutive
 - Foncez en solo ou appelez des renforts grâce à un système de renfort avancé
 - Intervenez sur des crimes dans un monde ouvert allant de la simple infraction de stationnement aux fusillades entre gangs
-- Profitez dun cycle jour/nuit et dune météo évolutive
-- Explorez une ville animée et dynamique, à pied, en voiture de police et même en hélicoptère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPHYNK13{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Matériau intérieur : synthétique
 - Semelle : caoutchouc
+- Matériau intérieur : synthétique
+- Forme du talon : plat
 - Fermeture : lacets
 - Matériau extérieur : cuir
 

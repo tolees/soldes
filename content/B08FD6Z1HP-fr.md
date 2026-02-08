@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faible consommation dénergie : Jusquà 90 % déconomies dénergie par rapport aux ampoules classiques
-- Produit avec sceau EyeComfort : conçu pour protéger vos yeux
-- Effet de lumière chaleureux lors de latténuation - la lumière adaptée à chaque humeur grâce à une gradation continue sans scintillement
 - Profitez dune lumière blanche et chaude agréable comme avec les lampes à incandescence/halogènes classiques
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
+- Effet de lumière chaleureux lors de latténuation - la lumière adaptée à chaque humeur grâce à une gradation continue sans scintillement
+- Produit avec sceau EyeComfort : conçu pour protéger vos yeux
+- Faible consommation dénergie : Jusquà 90 % déconomies dénergie par rapport aux ampoules classiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08FD6Z1HP{{</world>}}

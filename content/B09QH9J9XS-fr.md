@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure légère en PU à la texture unique
+- Lacets raffinés en coton ciré pour un ajustement permettant un confort optimal
+- Confectionnée en cuir haut de gamme ou en nubuck gras résistant signés ECCO
 - Bracelet matelassé pour un maintien et un confort parfaits
 - Construction ECCO FLUIDFORM emblématique sans couture pour un mouvement souple, flexible et fluide
-- Lacets raffinés en coton ciré pour un ajustement permettant un confort optimal
 - Doublure textile douce et semelle intérieure en textile épais pour plus de confort
-- Confectionnée en cuir haut de gamme ou en nubuck gras résistant signés ECCO
-- Semelle extérieure légère en PU à la texture unique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QH9J9XS{{</world>}}

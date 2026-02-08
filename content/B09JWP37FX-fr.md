@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sérum anti-âge spécifique pour hydrater les yeux et le contour de lœil, lisser les rides et réduire les signes de fatigue, Convient à tous les types et tonalités de peaux
-- Contenu : 1x Sérum Yeux Revitalift Filler à lAcide Hyaluronique et à la Caféine LOréal Paris, Format : 20ml
 - Formule hautement concentrée en Acide Hyaluronique Pur et en Caféine, Avec de la Niacinamide et de la Vitamine CG boostant léclat, Roller triple-bille innovant en acier inoxydable
+- Contenu : 1x Sérum Yeux Revitalift Filler à lAcide Hyaluronique et à la Caféine LOréal Paris, Format : 20ml
+- Sérum anti-âge spécifique pour hydrater les yeux et le contour de lœil, lisser les rides et réduire les signes de fatigue, Convient à tous les types et tonalités de peaux
 - Résultat : Les yeux paraissent plus jeunes en deux semaines seulement, La peau est plus hydratée et le regard plus éveillé, Les rides et les cernes sont lissées et réduites
 - Application : Appliquer matin et soir sur une peau parfaitement nettoyée et sèche en effectuant des mouvements circulaires du coin interne de lœil jusquà la tempe, Produit mixte, aussi efficace sur les femmes que sur les hommes
 

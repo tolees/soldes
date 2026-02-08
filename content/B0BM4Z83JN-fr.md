@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : fermeture éclair
-- Semelle : polyuréthane thermoplastique
 - Matériau intérieur : N/A
+- Semelle : polyuréthane thermoplastique
+- Fermeture : fermeture éclair
 - Forme du talon : pas de talon
 - Matériau extérieur : cuir
 

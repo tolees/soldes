@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Portage de 0 à 3 ans
 - Physiologique, doux et confortable
-- Lavable en machine à 40°C
-- Fonctionnalités améliorées et nouveau design
 - Taille et largeur de l’assise entièrement réglables
+- Portage de 0 à 3 ans
+- Fonctionnalités améliorées et nouveau design
+- Lavable en machine à 40°C
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NNSWZTX{{</world>}}

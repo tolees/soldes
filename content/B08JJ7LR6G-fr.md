@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec 6 crayons à dessin et 8 tubes de recharge de plomb de 0,3 mm, 0,5 mm, 0,7 mm et 0,9 mm (HB) + 2 mm (4B, 2B, HB, 2H) à base de carbone, 2 gommes, 9 recharges de gomme, 2 taille-mines, un étui de rangement mis à jour
 - 2 porte-mines de 2 mm : tube de stylo antidérapant fileté en métal avec taille-crayon dans le capuchon du porte-mine de 2 mm, 2 taille-mine supplémentaires sont également fournis pour la mine 2.0 pour garder la pointe fine car elle est terne.
 - Fournitures scolaires parfaites : idéales pour les artistes, les professionnels, les enseignants et les étudiants. Parfait pour écrire, dessiner, esquisser
-- Le corps entièrement en laiton offre un équilibre de poids idéal pour une écriture et un dessin sans fatigue. Il vous apporte des tâches plus efficaces et de haute qualité.
+- Livré avec 6 crayons à dessin et 8 tubes de recharge de plomb de 0,3 mm, 0,5 mm, 0,7 mm et 0,9 mm (HB) + 2 mm (4B, 2B, HB, 2H) à base de carbone, 2 gommes, 9 recharges de gomme, 2 taille-mines, un étui de rangement mis à jour
 - 4 porte-mines : la longueur de la pointe de 4 mm le rend idéal pour une utilisation avec des règles et des modèles, différentes tailles de ligne (0,3 mm, 0,5 mm, 0,7 mm et 0,9 mm) pour répondre à vos besoins. La forme polygonale de ces crayons mécaniques évite de glisser sur les tables de dessin. En outre, le crayon est pré-chargé avec une mine de 90 mm.
+- Le corps entièrement en laiton offre un équilibre de poids idéal pour une écriture et un dessin sans fatigue. Il vous apporte des tâches plus efficaces et de haute qualité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08JJ7LR6G{{</world>}}

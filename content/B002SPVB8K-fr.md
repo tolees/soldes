@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Clinique Even Better Fond de teint SPF15 - WN 98 Crème Caramel 30 ml
 - Clinique Even Better Fond de teint SPF15 - WN 98 Crème Caramel 30 ml
 - Clinique Even Better Fond de teint SPF15 - WN 98 Crème Caramel 30 ml
-- FOND DE TEINT À LA VITAMINE C DÉVELOPPÉ PAR DES DERMATOLOGUES : Un fond de teint liquide qui offre une couvrance modérée tenue 24 h et un fini mat naturel.
 - Clinique Even Better Fond de teint SPF15 - WN 98 Crème Caramel 30 ml
+- FOND DE TEINT À LA VITAMINE C DÉVELOPPÉ PAR DES DERMATOLOGUES : Un fond de teint liquide qui offre une couvrance modérée tenue 24 h et un fini mat naturel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002SPVB8K{{</world>}}

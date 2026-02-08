@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteur HERO 25K: la nouvelle génération du capteur optique HERO offre une précision nouvelle à votre souris allant jusqu’à 25 600 PPP tout en ne générant ni lissage, ni filtrage, ni accélération. Taux de rapport USB : 1000 Hz (1 ms)
 - Le n° 1 mondial des périphériques gaming - Daprès des données agrégées indépendantes (fév. 2019 - fév. 2020) sur le nombre dunités de périphériques de gaming (claviers, souris et casques PC)
+- Compatibilité: Windows 7 ou version ultérieure | macOS 10.11 ou version ultérieure | ChromeOS | Port USB | (Facultatif) Accès à Internet pour Logitech G HUB
 - Poids Ajustable: Ajustez la glisse de votre souris. cinq poids de 3,6 g sont livrés avec la souris filaire G502 HERO pour trouver la configuration idéale et optimiser vos performances de gamer
 - Capteur nouvelle génération: capable de détecter des mouvements au sous-micron près et de suivre un mouvement à moins d’un millionième de mètre avec une précision exceptionnelle
 - LIGHTSYNC RVB: la technologie LIGHTSYNC vous offre un éclairage RVB entièrement personnalisable, synchronisez les animations et les effets déclairage avec vos autres dispositifs Logitech G . Accélération maximale : > 40 G
-- Compatibilité: Windows 7 ou version ultérieure | macOS 10.11 ou version ultérieure | ChromeOS | Port USB | (Facultatif) Accès à Internet pour Logitech G HUB
 - Système de Tension de Bouton Mécanique: chaque clic est plus net et plus fiable grâce à un système mécanique de tension avec ressorts et pivots dans les boutons gauche et droite
+- Capteur HERO 25K: la nouvelle génération du capteur optique HERO offre une précision nouvelle à votre souris allant jusqu’à 25 600 PPP tout en ne générant ni lissage, ni filtrage, ni accélération. Taux de rapport USB : 1000 Hz (1 ms)
 - 11 Boutons Programmables et Roulette de Défilement Ultra-Rapide Double Mode: la souris filaire pour gamer Logitech G vous offre une personnalisation complète de vos paramètres de jeu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

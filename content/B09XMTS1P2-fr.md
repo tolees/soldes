@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offre confort et liberté de mouvement
 - Détails distinctifs de la marque
+- Offre confort et liberté de mouvement
 - Matériau de qualité
 - Tissu léger
 

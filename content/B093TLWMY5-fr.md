@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualite
-- Liberte de mouvements
 - Confort de port eleve
+- Liberte de mouvements
+- Haute qualite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093TLWMY5{{</world>}}

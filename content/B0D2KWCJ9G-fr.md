@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PCF = Pro Comfort Foam Insock.
 - Haut dans un riche mélange de couleurs et de matériaux.
+- PCF = Pro Comfort Foam Insock.
 - Lignes de design à panneau latéral inspirées du drapeau emblématique FILA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

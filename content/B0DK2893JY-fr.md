@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé. Lavage et séchage en machine.
-- STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
-- EN TOUTE OCCASION : ce modèle fonctionnel vous protège du vent et du froid. Il est parfait pour affronter la météo capricieuse, à la ville ou en voyage.
-- EXCELLENT CONFORT : ce modèle léger et indémodable aux lignes épurées tient bien au chaud.
 - ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches au niveau de la ceinture séduit par ses lignes épurées. Idéal pour l’intersaison grâce à sa matière douillette.
+- STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
+- EXCELLENT CONFORT : ce modèle léger et indémodable aux lignes épurées tient bien au chaud.
+- EN TOUTE OCCASION : ce modèle fonctionnel vous protège du vent et du froid. Il est parfait pour affronter la météo capricieuse, à la ville ou en voyage.
+- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé. Lavage et séchage en machine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK2893JY{{</world>}}

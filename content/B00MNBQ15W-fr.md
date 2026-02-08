@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- BOUTON MARCHE / ARRET : témoin lumineux pour arrêter la cafetière à tout moment
+- UTILISATION FACILE : accès au réservoir deau et au porte-filtre
 - CAFETIERE FILTRE COMPACTE : capacité de 0,6 L de café chaud
 - Réparabilité 15 ans, Garantie 2 ans
-- UTILISATION FACILE : accès au réservoir deau et au porte-filtre
-- BOUTON MARCHE / ARRET : témoin lumineux pour arrêter la cafetière à tout moment
 - SYSTEME ANTIGOUTTE : pour servir le café même lorsque la cafetière est en fonctionnement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

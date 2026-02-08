@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Inclus(1) lampe halogène à culot R7s, 80 watts
 - Interrupteur de marche été et hiver pour un confort garanti toute lannée
 - Idéal pour des pièces jusquà 25 m²
-- Avec télécommande
 - 3 vitesses
+- Avec télécommande
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CI3HWPM{{</world>}}

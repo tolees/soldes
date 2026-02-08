@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE HYDRATANTE PERFECTION INSTANTANÉE : Formulé avec de lacide hyaluronique, ce correcteur liquide camoufle les imperfections pour une apparence zéro défaut. Il aide aussi à hydrater.
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - APPLICATEUR CORRECTEUR DOUBLE EMBOUT : Dispose dun applicateur biseauté et dune éponge qui floute les cernes.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact.
+- FORMULE HYDRATANTE PERFECTION INSTANTANÉE : Formulé avec de lacide hyaluronique, ce correcteur liquide camoufle les imperfections pour une apparence zéro défaut. Il aide aussi à hydrater.
 - CORRECTEUR DE TEINTE LÉGER POUR LES CERNES : Neutralise instantanément les cernes avec une couvrance légère à modérée et une tenue de 12 heures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques techniques : Capacité de la batterie : 300 mah Tension : 5 V/3,7 V. Temps de charge complète : 2 heures
 - Ventilateur portatif, portable, de petite taille, idéal à transporter dans votre sac et à rafraîchir si nécessaire
 - Comprend une batterie au lithium fixe, dont la durée de vie est suffisante pour rester allumée pendant 1 à 2 heures. Comprend un chargeur
+- Caractéristiques techniques : Capacité de la batterie : 300 mah Tension : 5 V/3,7 V. Temps de charge complète : 2 heures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZWCQ3KF{{</world>}}

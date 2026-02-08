@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture : lacets
-- Niveau de résistance à leau : non étanche
 - Forme du talon : plat
+- Niveau de résistance à leau : non étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM51ZVRX{{</world>}}

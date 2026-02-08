@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
 - FORMULE À LA CARNITINE, GLYCÉRINE & NIACINAMIDE : Enrichie en carnitine, glycérine et niacinamide, cette formule prévient l’obstruction des pores, contribue à réduire les imperfections et matifie la peau durablement.
-- DES RÉSULTATS PROUVÉS : Testé sous contrôle dermatologique, ce soin visage offre un effet matifiant pendant 8h*. Peau fraîche dès application, visiblement plus nette dès 7 jours** et moins grasse après 4 semaines***. Texture légère, non grasse, idéale en base de maquillage.
 - FLUIDE ANTI-UV ET MATIFIANT POUR PEAUX À IMPERFECTIONS : Le soin quotidien NIVEA Derma Skin Clear FPS 50+ offre un effet matifiant pendant 8H et protège efficacement les peaux à imperfections. Il prévient des imperfections et réduit l’obstruction des pores.
+- 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
+- DES RÉSULTATS PROUVÉS : Testé sous contrôle dermatologique, ce soin visage offre un effet matifiant pendant 8h*. Peau fraîche dès application, visiblement plus nette dès 7 jours** et moins grasse après 4 semaines***. Texture légère, non grasse, idéale en base de maquillage.
 - VOTRE RITUEL QUOTIDIEN : Bien agiter avant utilisation. Chaque matin, appliquez généreusement le fluide solaire visage SPF 50+ avant lexposition au soleil et profitez dune peau protégée, nette et matifiée toute la journée. Évitez le contour des yeux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture Velcro
-- Anti-stress
-- Rembourrage sous la semelle intérieure
 - Semelle extérieure flexible
+- Rembourrage sous la semelle intérieure
+- Anti-stress
 - Semelle extérieure légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})

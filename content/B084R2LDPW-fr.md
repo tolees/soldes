@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Kärcher 18 V Battery Power : le set comprend la batterie 18 V/2,5 Ah et le chargeur rapide 18 V. La batterie est compatible avec tous les appareils de la plateforme de batterie 18 V de Kärcher
-- Chargeur rapide puissant : grâce au chargeur rapide Kärcher de 18 V, la batterie peut être chargée à 80 % en seulement 44 minutes. Après moins dune heure et demie, la batterie est pleine à 100 %
-- Technologie en temps réel : la batterie rechargeable innovante est dotée dun écran LCD qui indique le temps de fonctionnement restant, le temps de charge et létat de charge de la batterie Kärcher
 - Batterie lithium-ion : la batterie Kärcher 18 V contient des cellules lithium-ion qui assurent une alimentation constante. Ils empêchent également leffet de mémoire et lautodécharge de la batterie
 - Composants inclus : la batterie Kärcher 18 V/2,5 Ah Battery Power et le chargeur rapide 18 V compatible pour une utilisation avec les appareils de la plateforme Kärcher 18 V Battery Power
+- Technologie en temps réel : la batterie rechargeable innovante est dotée dun écran LCD qui indique le temps de fonctionnement restant, le temps de charge et létat de charge de la batterie Kärcher
+- Chargeur rapide puissant : grâce au chargeur rapide Kärcher de 18 V, la batterie peut être chargée à 80 % en seulement 44 minutes. Après moins dune heure et demie, la batterie est pleine à 100 %
+- Kärcher 18 V Battery Power : le set comprend la batterie 18 V/2,5 Ah et le chargeur rapide 18 V. La batterie est compatible avec tous les appareils de la plateforme de batterie 18 V de Kärcher
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084R2LDPW{{</world>}}

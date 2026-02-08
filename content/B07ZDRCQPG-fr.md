@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Léclairage ASUS Aura Sync RGB dispose dun spectre de couleurs presque infini avec la possibilité de synchroniser les effets sur un écosystème évolutif de produits Aura Sync
-- Boitier ROG en alliage daluminium avec coussinets thermiques qui retirent la chaleur des lecteurs M2
-- Deux cbles inclus : 1 cble USB Type-C, 1 cble USB Type-C vers USB Type-A
 - USB Type-C 3 2 Gen 2 pour des vitesses de transfert allant jusquà 10 Gbits
+- Deux cbles inclus : 1 cble USB Type-C, 1 cble USB Type-C vers USB Type-A
 - Support M 2 PCIe NVM Express SSD avec 2230224222602280 Facteur de forme M 2 NVMe SSD non inclus
+- Boitier ROG en alliage daluminium avec coussinets thermiques qui retirent la chaleur des lecteurs M2
+- Léclairage ASUS Aura Sync RGB dispose dun spectre de couleurs presque infini avec la possibilité de synchroniser les effets sur un écosystème évolutif de produits Aura Sync
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZDRCQPG{{</world>}}

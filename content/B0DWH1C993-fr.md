@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Agenda avec organisation quotidienne, sétend de fin septembre 2025 à fin août 2026.
 - Dimensions : 17 x 22,6 x 3,5 cm.
 - Pages pour noter les contacts, Tableaux dépargne, Fermeture avec élastique, Agenda mensuel au début de chaque mois, Blocs autocollants avec formes, Playlist exclusive, Phrases mensuelles super amusantes
 - 368 pages de papier de 90 g certifié FSC, Phrases quotidiennes de motivation, Intercalaires pour chaque mois, Reliure spirale, Pochette intérieure en carton, Règle intérieure en plastique, 8 feuilles dautocollants, Horaires et calendriers (pour le dernier trimestre 2025 et pour lannée complète 2026 et 2027),
-- Agenda avec organisation quotidienne, sétend de fin septembre 2025 à fin août 2026.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWH1C993{{</world>}}

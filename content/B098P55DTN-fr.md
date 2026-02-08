@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : 96 % cuir de vache, 4 % textile (55 % fibre de café, 35 % nylon, 10 % PET)
 - Matériau de la semelle : 100 % EVA
 - Couleur : bleu foncé
+- Matériau extérieur : 96 % cuir de vache, 4 % textile (55 % fibre de café, 35 % nylon, 10 % PET)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098P55DTN{{</world>}}

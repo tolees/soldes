@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un vrai cadeau pour tous les amateurs de MOC ! Vous pouvez les utiliser pour contrôler les produits STEM.
-- En plaçant le module moteur dans la position correspondante, le modèle passe à un modèle dynamique et les performances sont considérablement améliorées.
-- Ce kit moteur contient un boîtier de piles AA*1 8881, un récepteur IR 2,4 G*1 8884, une télécommande de vitesse*1 8879, un moteur M*2 8883, un moteur L*1 88003, une rallonge 8886*1, une lumière 8870*1. .
 - Le kit est équipé de trois moteurs, qui peuvent être adaptés selon les besoins, supportant lavant et larrière.
+- En plaçant le module moteur dans la position correspondante, le modèle passe à un modèle dynamique et les performances sont considérablement améliorées.
+- Un vrai cadeau pour tous les amateurs de MOC ! Vous pouvez les utiliser pour contrôler les produits STEM.
+- Ce kit moteur contient un boîtier de piles AA*1 8881, un récepteur IR 2,4 G*1 8884, une télécommande de vitesse*1 8879, un moteur M*2 8883, un moteur L*1 88003, une rallonge 8886*1, une lumière 8870*1. .
 - Cette pièce technique entièrement compatible avec les produits de toutes les grandes marques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

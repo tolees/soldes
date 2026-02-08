@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sembly AI identifie: les points daction clés, les décisions et les échéances afin de ne rien oublier. Inclut un assistant de chat alimenté par lIA pour générer des informations concluantes sur les réunions
-- Deux microphones stéréo haute qualité pour une excellente qualité audio
-- Enregistrement stéréo MP3 et PCM pour une lecture claire et un partage facile des fichiers
 - 8 Go de mémoire de stockage interne pour de longues heures d’enregistrement
 - Licence dessai Sembly AI (30 jours): Reconnaissance vocale multi locuteurs, transcription, résumés de réunion précis générés par lIA. Prise en charge de 50 langues
+- Deux microphones stéréo haute qualité pour une excellente qualité audio
+- Enregistrement stéréo MP3 et PCM pour une lecture claire et un partage facile des fichiers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C68G57YF{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Embout en aluminium
-- Idéal pour ceux qui ont besoin dune chaussure avec des caractéristiques outdoor/montagne certifiées selon la législation de lUE
 - Membrane imperméable à leau
+- Idéal pour ceux qui ont besoin dune chaussure avec des caractéristiques outdoor/montagne certifiées selon la législation de lUE
 - Botte de sécurité S3
+- Embout en aluminium
 - Semelle Vibram avec insert pour fixation semi-automatique des crampons
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

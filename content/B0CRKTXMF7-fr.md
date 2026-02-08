@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle à distance : programmez l’allumage et l’extinction des lumières à l’aide des routines Alexa et contrôlez-les à distance, où que vous soyez, avec l’application Alexa.
 - Aucun hub de maison connectée nécessaire : aucun appareil intelligent ni aucune application supplémentaire n’est nécessaire ; fonctionne exclusivement avec Alexa.
-- Installation guidée : Voir le manuel pour une assistance étape par étape.
 - Modernisation intelligente : fonctionne avec Alexa pour ajouter un contrôle vocal à votre maison ; une modernisation facile pour remplacer un interrupteur d’éclairage traditionnel.
+- Contrôle à distance : programmez l’allumage et l’extinction des lumières à l’aide des routines Alexa et contrôlez-les à distance, où que vous soyez, avec l’application Alexa.
 - EXIGENCES DE CONFIGURATION : fils neutres requis, Wi-Fi 2,4 GHz
+- Installation guidée : Voir le manuel pour une assistance étape par étape.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRKTXMF7{{</world>}}

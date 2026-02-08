@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Caméra FPV HD 1080P : Équipé dune caméra HD 1080P et dun objectif grand angle FOV 80°, qui peut capturer des moments extraordinaires. De plus, avec la transmission FPV, vous pouvez voir des paysages fabuleux simultanément dans des vidéos en direct sur lapplication.
 - Des cascades fantaisistes et étonnantes : Il suffit de pousser les sticks de contrôle vers lintérieur pour que le drone effectue un virage impressionnant à 360°. Dessinez une trajectoire de vol sur votre smartphone et le drone volera en conséquence, ce qui rendra votre vol encore plus amusant.
 - Jouet pour enfants et débutants：D20 est magiquement simple à utiliser pour les pilotes de tous niveaux, en particulier les enfants. Le mode sans tête, le démarrage/atterrissage à une touche, le maintien de laltitude peuvent maintenir le drone à une certaine hauteur et un vol facile. Les 2 batteries modulaires permettent de voler jusquà 20 minutes, ce qui vous permet de charger le drone en toute sécurité et de vous amuser sans fin.
-- Caméra FPV HD 1080P : Équipé dune caméra HD 1080P et dun objectif grand angle FOV 80°, qui peut capturer des moments extraordinaires. De plus, avec la transmission FPV, vous pouvez voir des paysages fabuleux simultanément dans des vidéos en direct sur lapplication.
-- Design délicat et sûr : Le D20 est si délicat quil tient facilement dans la paume de votre main. Avec des fonctions comme larrêt durgence et lalarme de faible puissance, vous pouvez profiter dun vol sans souci. Les 4 protections dhélices protègent le drone contre les chutes et les pilotes contre les blessures.
 - Fonctions intelligentes et avancées : Le drone suivra intelligemment vos instructions. La commande vocale, les gestes, le selfie et dautres fonctions intriguantes peuvent vous offrir une expérience formidable, vous serez émerveillé par son niveau de sophistication.
+- Design délicat et sûr : Le D20 est si délicat quil tient facilement dans la paume de votre main. Avec des fonctions comme larrêt durgence et lalarme de faible puissance, vous pouvez profiter dun vol sans souci. Les 4 protections dhélices protègent le drone contre les chutes et les pilotes contre les blessures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D792XH3L{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussant standard
+- Tige en matière synthétique
 - Doublure synthétique
 - Fermeture à lacets
 - Semelle cupsole en caoutchouc
-- Tige en matière synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BCGXXJ3X{{</world>}}

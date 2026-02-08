@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - a formule à séchage rapide contient de la vitamine C et du Phytocyle Orange (extrait) et offre une allure fraîche et retonifiée.
-- Mascara Bourjois Volume Glamour Lift & Stretch : dites « bonjour » à un regard bien éveillé
-- Sans écailles, facile à appliquer et tout aussi simple à retirer.
-- Allonge et élève les cils jusqu’à 20 degrés
 - Grâce à notre brosse double face unique, vos cils deviennent plus volumineux des racines jusqu’aux pointes, sans paquets.
+- Sans écailles, facile à appliquer et tout aussi simple à retirer.
+- Mascara Bourjois Volume Glamour Lift & Stretch : dites « bonjour » à un regard bien éveillé
+- Allonge et élève les cils jusqu’à 20 degrés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR6S2Y29{{</world>}}

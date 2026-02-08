@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONCE VERS LA VICTOIRE – Dérape et fonce sur 10 circuits bourrés daction.
-- MULTIJOUEUR LOCAL – Participe à une course-combat contre un ami en mode Versus.
 - RENFORCE TON PERSONNAGE – Personnalise et fais monter de niveau 11 Transformers emblématiques.
-- CHOISIS TON CAMP – Arrête Nemesis Prime en incarnant un Autobot ou un Decepticon.
+- MULTIJOUEUR LOCAL – Participe à une course-combat contre un ami en mode Versus.
 - COMBATS JUSQUAU BOUT – Rivalise dadresse dans une fusion frénétique de course et de combat.
+- FONCE VERS LA VICTOIRE – Dérape et fonce sur 10 circuits bourrés daction.
+- CHOISIS TON CAMP – Arrête Nemesis Prime en incarnant un Autobot ou un Decepticon.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D8LKPXJN{{</world>}}

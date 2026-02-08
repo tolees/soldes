@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dans la gamme de basket-ball de la marque Jordan, la Heir Series est la chaussure avec le profil le plus bas, une caractéristique qui facilite la course et les changements de direction typiques du basket-ball féminin.
-- Coupe standard, confort maximum
 - Expression de linfluence du basket-ball féminin sur le basket-ball mondial, la nouvelle silhouette Heir Series permet à chaque athlète de donner le meilleur delle-même.
+- Coupe standard, confort maximum
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP2SL87X{{</world>}}

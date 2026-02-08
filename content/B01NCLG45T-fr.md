@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Built-in Bluetooth : 2.1 Ensures lag-free gaming
 - Easy connection: Simply bind this adapter to your wireless controller to enable the same wireless experience you are used to on all the best platforms.
 - Allows for use with Nintendo Switch, Windows, and macOS PCs, Android TV box, Raspberry Pi, and Retrofreak
-- Built-in Bluetooth : 2.1 Ensures lag-free gaming
 - Wide compatibility range: Works with all 8BitDo Bluetooth controllers and arcade sticks, Xbox One Bluetooth controller,PS5 DualSense DualShock 3, DualShock 4, DualShock 4 Pro, Wii Remote, Wii U Pro, Switch Joy-Con, Switch Pro controllers
 - Vibration support on X-input mode.6-axis motion on Switch.X-input, D-input, Mac mode, Switch mode.Upgradable firmware: Support 8BitDo Ultimate Software for PS5, PS4, Xbox One, and Switch pro controllers on Switch and Windows
 

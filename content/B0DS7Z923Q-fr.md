@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection IPX7 & Contrôles Tactiles Intelligents: Conçus pour l’action. La certification IPX7 les protège de la sueur et des intempéries, idéale pour le sport. Contrôlez tout par simple toucher (volume, lecture, appels) et activez facilement Siri ou Google Assistant pour un usage mains libres.
-- Confort Léger & Design Sécurisé pour Toutes les Oreilles: Oubliez que vous les portez. Ultralégers (4,3 g par écouteur) et dotés de 3 paires d’embouts en silicone souple, ils s’adaptent confortablement et restent solidement en place durant les mouvements et les longues sessions d’écoute, même pour les petites oreilles.
 - Son Hi-Fi Immersif & Appels Cristallins avec ANC: Plongez dans un son haute fidélité grâce aux pistons dynamiques 13 mm, réglés pour des basses profondes et une clarté exceptionnelle. Le micro à réduction de bruit (ENC) assisté par IA isole votre voix, garantissant des appels, chats vocaux et enregistrements parfaitement audibles même dans les environnements bruyants.
+- Confort Léger & Design Sécurisé pour Toutes les Oreilles: Oubliez que vous les portez. Ultralégers (4,3 g par écouteur) et dotés de 3 paires d’embouts en silicone souple, ils s’adaptent confortablement et restent solidement en place durant les mouvements et les longues sessions d’écoute, même pour les petites oreilles.
 - Connexion Bluetooth 5.4 Stable & Portée Étendue: Une liaison audio fiable et réactive. La dernière technologie Bluetooth 5.4 assure un appairage instantané, une faible latence pour les jeux/vidéos, et maintient une connexion stable jusqu’à 15 mètres de distance, même à travers les obstacles.
+- Protection IPX7 & Contrôles Tactiles Intelligents: Conçus pour l’action. La certification IPX7 les protège de la sueur et des intempéries, idéale pour le sport. Contrôlez tout par simple toucher (volume, lecture, appels) et activez facilement Siri ou Google Assistant pour un usage mains libres.
 - Autonomie de 40H & Charge Express USB-C: L’énergie pour ne jamais vous arrêter. Profitez de jusqu’à 8 heures d’écoute sur une charge, et d’une autonomie totale de 40 heures avec le boîtier de charge. L’écran LED indique l’état de la batterie. La charge rapide USB-C vous redonne 2 heures de musique en 10 minutes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

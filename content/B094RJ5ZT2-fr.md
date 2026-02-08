@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible NVIDIA G-Sync
 - Temps de réponse 0,5 ms (MPRT) / 1 ms (GTG)
-- Taux de rafraîchissement de 175 Hz
 - Technologie Quantum Dot IPS
+- Taux de rafraîchissement de 175 Hz
+- Compatible NVIDIA G-Sync
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094RJ5ZT2{{</world>}}

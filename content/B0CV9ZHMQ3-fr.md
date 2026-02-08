@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DOUCEUR DE L’ÉCRITURE : papier Clairefontaine Blanc Vélin Velouté 90 g de QUALITÉ SUPÉRIEURE avec une opacité et une résistance remarquables. RÉGLURE TRICOLORE : marge rouge, lignes violettes et interlignes bleues, pour un meilleur confort décriture
-- RELIURE PIQUÉE : le bon rapport qualité/prix. Les pages sont reliées entre elles par des agrafes
 - COUVERTURE EN POLYPRO TRANSPARENT : résistante aux manipulations, indéchirable et imperméable. Plus besoin de protège-cahiers !
+- RELIURE PIQUÉE : le bon rapport qualité/prix. Les pages sont reliées entre elles par des agrafes
+- DOUCEUR DE L’ÉCRITURE : papier Clairefontaine Blanc Vélin Velouté 90 g de QUALITÉ SUPÉRIEURE avec une opacité et une résistance remarquables. RÉGLURE TRICOLORE : marge rouge, lignes violettes et interlignes bleues, pour un meilleur confort décriture
 - MADE IN FRANCE et CERTIFIÉ PEFC : pour la gestion durable des forêts
 - LOT DE 3 CAHIERS VIOLETS : idéal pour les listes scolaires, les écoles et collectivités. MAXI FORMAT : format scolaire, idéal pour glisser ou coller les feuilles A4 (21x29,7 cm) distribuées en classe
 

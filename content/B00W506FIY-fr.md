@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir deau avec une capacité de 1 l
-- Porte-filtre "Crème"
 - Mise hors tension automatique
-- Poignée de réglage de la vapeur
-- Système à Cappuccino
+- Réservoir deau avec une capacité de 1 l
 - Bac récolte gouttes amovible avec système anti-goutte pour un nettoyage facile
+- Porte-filtre "Crème"
+- Système à Cappuccino
+- Poignée de réglage de la vapeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00W506FIY{{</world>}}

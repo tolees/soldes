@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - L´oreal professionel
-- Durable
 - Produit de haute qualité
+- Durable
 - Numéro de Modèle : 147233
 
 [🛒 Achète-le!!]({{< param buyurl >}})

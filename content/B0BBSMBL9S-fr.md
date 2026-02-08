@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rendez hommage à 100 ans de course au Mans en 2023 avec ce kit de construction LEGO Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar pour adultes
-- Avec cette maquette de voiture à léchelle 1:10, vous réaliserez un projet gratifiant, en recréant des détails qui reflètent les dernières innovations en matière de course automobile
 - Offrez à un amateur de voitures de course ce set de voitures LEGO avancé et emblématique, qui offre un projet de construction créatif avec une maquette dhypercar de collection à exposer avec fierté
 - Cette maquette de voiture comprend des éléments lumineux LEGO Technic qui brillent dans le noir pour retranscrire latmosphère dune véritable course aux 24H du Mans
 - Construisez le système hybride comprenant le moteur à piston V6, les portes ouvrantes, la direction et les suspensions avant et arrière spécialement conçues pour ce modèle
 - Ajoutez la touche finale à votre modèle avec les graphismes, les logos PEUGEOT et des sponsors, puis exposez le modèle réduit accrocheur en hommage à votre passion
+- Rendez hommage à 100 ans de course au Mans en 2023 avec ce kit de construction LEGO Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar pour adultes
+- Avec cette maquette de voiture à léchelle 1:10, vous réaliserez un projet gratifiant, en recréant des détails qui reflètent les dernières innovations en matière de course automobile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BBSMBL9S{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure : Cuir
-- Taille : Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Dessus : Smooth Leather
 - Matériau de semelle : Caoutchouc
+- Dessus : Smooth Leather
 - Semelle intérieure : Synthetic
+- Taille : Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01GWX237Q{{</world>}}

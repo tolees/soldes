@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inspiré de lunivers du fitness et symbolisant la force, ce charm est la pièce idéale pour toutes les passionnées dactivité physique, à la salle de sport, à la maison ou en plein air
 - Affichez votre amour pour le fitness avec le Charm Pendant Haltère & Cœur
+- Inspiré de lunivers du fitness et symbolisant la force, ce charm est la pièce idéale pour toutes les passionnées dactivité physique, à la salle de sport, à la maison ou en plein air
 - Compatible avec : Bracelets Pandora Moments
 - Fini main en argent 925/1000e, ce charm représente un haltère à lintérieur dun cœur ouvert
 - Lhaltère est recouverte de résine façon émail rose appliquée à la main et est ornée à chaque extrémité de détails délicats en forme de cœurs

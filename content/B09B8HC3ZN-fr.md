@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le roadster et le dragster te feront découvrir les mécanismes de la transmission !
-- Avec 6 modèles à construire : un trimaran, un scooter des mers, un roadster, un dragster, un hélicoptère trirotor et un hydroglisseur... pour vivre des aventures entre ciel, terre et mer !
-- Un coffret parfait pour découvrir les principes de la mécanique et de l’ingénierie !
 - La voile et le gouvernail du trimaran sont réglables et bougent vraiment, tandis que le scooter des mers est parfait pour enfourcher la vague du plaisir.
 - Avec l’hélicoptère trirotor et l’hydroglisseur, l’aérodynamisme n’aura plus de secrets pour t’envoler sur les ailes de la créativité !
+- Avec 6 modèles à construire : un trimaran, un scooter des mers, un roadster, un dragster, un hélicoptère trirotor et un hydroglisseur... pour vivre des aventures entre ciel, terre et mer !
+- Un coffret parfait pour découvrir les principes de la mécanique et de l’ingénierie !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09B8HC3ZN{{</world>}}

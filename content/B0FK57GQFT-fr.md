@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Revivez laction dans une vingtaine de niveaux rejouables, offrant une grande variété d’ennemis ainsi que de nombreux défis.
-- Affrontez des boss redoutables et mettez une raclée mémorable aux légionnaires romains dans des combats épiques.
-- Découvrez une toute nouvelle épopée riche en action, humour et surprises dans ce plateformer.
-- Vivez une aventure inoubliable, en incarnant Astérix & Obélix en coop local ou en solo.
 - Explorez 4 mondes spectaculaires, avec des paysages et monuments emblématiques, et une destination inédite : Babylone.
+- Vivez une aventure inoubliable, en incarnant Astérix & Obélix en coop local ou en solo.
+- Découvrez une toute nouvelle épopée riche en action, humour et surprises dans ce plateformer.
+- Affrontez des boss redoutables et mettez une raclée mémorable aux légionnaires romains dans des combats épiques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FK57GQFT{{</world>}}

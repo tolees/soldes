@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ULTRA COMFORT FOAM – High density 1” (25mm) foam guarantees extra protection for sensitive joints to ensure superior comfort during workouts
-- CARRYING STRAP – Includes a FREE & convenient mat sling for easy carrying; Limited lifetime warranty also included
-- VERSATILE – Ideal for many fitness purposes, such as Pilates & yoga, the extra-large 71”L x 24”W mat fits any user
-- WATER-RESISTANT – NBR naturally repels moisture for low-maintenance; Wipe with wet cloth/sponge to clean, air dry
 - NON-SLIP – A non-slip surface adheres to the floor; the ribbed design provides grip and stability for a safe practice
+- WATER-RESISTANT – NBR naturally repels moisture for low-maintenance; Wipe with wet cloth/sponge to clean, air dry
+- VERSATILE – Ideal for many fitness purposes, such as Pilates & yoga, the extra-large 71”L x 24”W mat fits any user
+- CARRYING STRAP – Includes a FREE & convenient mat sling for easy carrying; Limited lifetime warranty also included
+- ULTRA COMFORT FOAM – High density 1” (25mm) foam guarantees extra protection for sensitive joints to ensure superior comfort during workouts
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WGQSFLN{{</world>}}

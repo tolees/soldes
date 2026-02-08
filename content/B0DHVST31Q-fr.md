@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids : 460 g (pointure FR 42 2/3)
-- Fermeture à lacets
-- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
 - Chaussant standard
+- Poids : 460 g (pointure FR 42 2/3)
+- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
+- Semelle intermédiaire en EVA LIGHTMOTION
 - Semelle extérieure en caoutchouc Continental
 - Doublure textile
-- Semelle intermédiaire en EVA LIGHTMOTION
+- Fermeture à lacets
 - Tige ripstop avec empiècements
 
 [🛒 Achète-le!!]({{< param buyurl >}})

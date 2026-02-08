@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce produit Pokémon est officiel et de grande qualité
-- Diffuseur de lumière et écran rétro-éclairé avec heure, date et température
-- Alarme programmable
 - Alimentation sur piles (3 x AAA) ou par câble USB (inclus)
+- Alarme programmable
+- Diffuseur de lumière et écran rétro-éclairé avec heure, date et température
+- Ce produit Pokémon est officiel et de grande qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KYGZGCT{{</world>}}

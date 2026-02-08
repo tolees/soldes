@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage à la main seulement
-- Fermeture éclair
+- Uni
 - 100% Agneau
 - Régulier
-- Cuir
-- Uni
-- Longueur standard
-- Manche longue
-- Synthetic
 - Zip
+- Cuir
+- Synthetic
+- Fermeture éclair
+- Longueur standard
+- Lavage à la main seulement
+- Manche longue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HP8TWQN{{</world>}}

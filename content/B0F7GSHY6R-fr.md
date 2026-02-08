@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Avec 160 pages carrées de 90 g/m², certifiées FSC, ce qui garantit que le papier provient de forêts gérées de manière responsable.
 - Comprend une feuille dautocollants.
 - Carnet de format A5 avec reliure spirale et couverture rigide.
-- Avec 160 pages carrées de 90 g/m², certifiées FSC, ce qui garantit que le papier provient de forêts gérées de manière responsable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F7GSHY6R{{</world>}}

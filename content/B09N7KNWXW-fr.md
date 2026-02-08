@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tenues décontractées
 - Tige en matière à effet cuir velours
+- Tenues décontractées
 - Matière à effet cuir nacré
 
 [🛒 Achète-le!!]({{< param buyurl >}})

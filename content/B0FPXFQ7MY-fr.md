@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUET DE CONSTRUCTION AVEC RÉTROFRICTION – Reculez le camion et propulsez-le : les jeunes constructeurs.trices peuvent recréer les figures et cascades fascinantes qu’ils ont pu admirer dans l’arène Monster Jam
 - UN SET QUI STIMULE LE JEU CRÉATIF – Les enfants peuvent créer leurs propres événements et aventures Monster Jam grâce à cette maquette réduite de camion
-- ENCORE PLUS DE KITS À DÉCOUVRIR – Offrez plus d’action avec la gamme de sets LEGO Technic (vendus séparément), intégrant des mouvements et des mécanismes réalistes qui inspirent les jeunes constructeurs.trices
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans lassemblage intuitif : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- IDÉE DE CADEAU POUR UN GARÇON OU UNE FILLE DÈS 7 ANS, PASSIONNÉ.E DE MONSTER TRUCKS – Ce jeu de construction LEGO Technic est un cadeau amusant à offrir à un enfant fan de Monster Jam et de véhicules à rétrofriction
 - MONSTER TRUCK À CONSTRUIRE POUR GARÇON OU FILLE DÈS 7 ANS – Lancez-vous dans un jeu saisissant avec le Monster Jam Grave Digger - Feu et glace LEGO Technic pour les enfants de 7 ans et plus
+- IDÉE DE CADEAU POUR UN GARÇON OU UNE FILLE DÈS 7 ANS, PASSIONNÉ.E DE MONSTER TRUCKS – Ce jeu de construction LEGO Technic est un cadeau amusant à offrir à un enfant fan de Monster Jam et de véhicules à rétrofriction
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans lassemblage intuitif : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- JOUET DE CONSTRUCTION AVEC RÉTROFRICTION – Reculez le camion et propulsez-le : les jeunes constructeurs.trices peuvent recréer les figures et cascades fascinantes qu’ils ont pu admirer dans l’arène Monster Jam
+- ENCORE PLUS DE KITS À DÉCOUVRIR – Offrez plus d’action avec la gamme de sets LEGO Technic (vendus séparément), intégrant des mouvements et des mécanismes réalistes qui inspirent les jeunes constructeurs.trices
 - DÉTAILS DE FEU ET DE GLACE – Ce véhicule recrée les détails spectaculaires du véritable Grave Digger - Feu et glace, orné de flammes d’un côté et d’un motif de glace de l’autre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

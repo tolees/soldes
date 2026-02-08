@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPRENTISSAGES : 12 pages éducatives plastifiées et illustrées avec capteur sensitifs pour sélectionner les illustrations et faire de nombreuses découvertes. Chaque page d’apprentissage est classée par thème : animaux domestiques / sauvages, fruits, aliments, couleurs, parties du corps, contraires…
+- VERSION : Française
 - INCLUS : 100 percent bilingue / Poignée pour une prise en main facile / 2 chansons en français + 2 chansons en anglais et effets sonores amusants / Réglage du volume sonore and arrêt automatique / Fonctionne avec 2 piles LR6 incluses
-- 100 percent BILINGUE : Bébé découvre ses premiers mots de vocabulaire en français et en anglais
+- APPRENTISSAGES : 12 pages éducatives plastifiées et illustrées avec capteur sensitifs pour sélectionner les illustrations et faire de nombreuses découvertes. Chaque page d’apprentissage est classée par thème : animaux domestiques / sauvages, fruits, aliments, couleurs, parties du corps, contraires…
 - ÂGE : Dès 18 mois jusqu’à 4 ans, cet imagier parlant et interactif permet de découvrir 100 mots de vocabulaire avec les personnages « Les petites écoliers ».
 - 3 MODES DE JEU : Vocabulaire, Découvertes et Sons amusants
-- VERSION : Française
+- 100 percent BILINGUE : Bébé découvre ses premiers mots de vocabulaire en français et en anglais
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DXD225J{{</world>}}

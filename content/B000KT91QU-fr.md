@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 30 ml
 - Brillante
+- 30 ml
 - Encre 4001 Pelikan
 
 [🛒 Achète-le!!]({{< param buyurl >}})

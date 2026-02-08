@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super Slim Fit
-- Manches longues
 - materialFabricComposition: Superposition: 59% Polyester recyclé, 24% Laine, 16% Viscose, 1% Élasthanne; Doublure: 100% Polyester
 - Blazer croisé
 - Care Label:
+- Super Slim Fit
+- Manches longues
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082T73MXP{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Application simple et uniforme
+- Parfum Coco Mangue
 - Résiste à leau
 - Brume Huile
-- Parfum Coco Mangue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TPPSIXW{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche 3/4
-- Type de col: Col une pièce
-- Coton
-- Regular Fit
-- Hand Wash Only
 - Fermeture: Enfiler
+- Regular Fit
+- Coton
+- Type de col: Col une pièce
+- Hand Wash Only
+- Manche 3/4
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9JH79Y{{</world>}}

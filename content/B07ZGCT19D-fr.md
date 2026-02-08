@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA FASCINATION À L’ÉTAT PUR : Fondée en 1968, la marque lifestyle Calvin Klein est célèbre pour son style emblématique qui fascine toujours autant l’univers de la mode. La marque américaine privilégie un style minimaliste.
-- CONFORT CLASSIQUE : porté comme haut de pyjama, ce modèle en jersey coton est parfait pour être à l’aise à la maison. Le logo Calvin Klein sur la poitrine attire tous les regards.
-- EXCELLENT CONFORT : grâce à sa coupe classique, ce modèle offre une grand liberté de mouvement. Décliné dans une matière luxueuse, il est doux et agréable sur la peau.
 - EN TOUTE OCCASION : en jersey coton, il est le compagnon idéal au bureau ou en ville. Que vous le portiez seul ou sous un pull, vous serez toujours habillé élégamment.
 - MATIÈRE ET ENTRETIEN : 100 % coton. Lavage en machine.
+- LA FASCINATION À L’ÉTAT PUR : Fondée en 1968, la marque lifestyle Calvin Klein est célèbre pour son style emblématique qui fascine toujours autant l’univers de la mode. La marque américaine privilégie un style minimaliste.
+- EXCELLENT CONFORT : grâce à sa coupe classique, ce modèle offre une grand liberté de mouvement. Décliné dans une matière luxueuse, il est doux et agréable sur la peau.
+- CONFORT CLASSIQUE : porté comme haut de pyjama, ce modèle en jersey coton est parfait pour être à l’aise à la maison. Le logo Calvin Klein sur la poitrine attire tous les regards.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZGCT19D{{</world>}}

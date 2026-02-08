@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
-- A emporter partout : avec létui en tissu pour Kindle qui protège de leau, afin que vous puissiez lire dans encore plus de lieux.
-- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
 - Modèle fin et léger : lisez confortablement pendant des heures.
-- La couverture est conçue pour sadapter parfaitement à votre nouveau Kindle Paperwhite, Kindle Paperwhite Signature Edition (modèle 2024 uniquement) ou Kindle Colorsoft Signature Edition
+- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
 - Lisez en couleur : avec son contraste élevé et ses couleurs fidèles au papier, le nouvel écran Colorsoft 7" met en valeur le contenu et la couverture de vos livres, et vous permet de lire sans vous fatiguer les yeux.
+- A emporter partout : avec létui en tissu pour Kindle qui protège de leau, afin que vous puissiez lire dans encore plus de lieux.
+- La couverture est conçue pour sadapter parfaitement à votre nouveau Kindle Paperwhite, Kindle Paperwhite Signature Edition (modèle 2024 uniquement) ou Kindle Colorsoft Signature Edition
 - Adaptateur Amazon de 9 W et 1,8 A compatible avec la plupart des appareils dotés dun port micro-USB (requiert un câble micro-USB, non inclus avec le chargeur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 LOOK, 1 STYLE, 1 PALETTE
-- Teintes ultra
-- Palette longue durée avec smokey eyes
 - pigmentées
+- Palette longue durée avec smokey eyes
+- 2 LOOK, 1 STYLE, 1 PALETTE
 - Texture crème à poudre
 - Nuances scintillantes
+- Teintes ultra
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09K7ZVRGM{{</world>}}

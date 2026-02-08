@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : Schmal
-- Fermeture : Lacet
 - Type de talons : Plat
 - Doublure : 65 pourcent Polyester à mailles textiles, 35 pourcent Microfibre synthétique
-- Dessus : Cuir
 - Hauteur de la tige : Calf High
 - Matériau de semelle : 100 pourcent Caoutchouc
+- Dessus : Cuir
+- Fermeture : Lacet
+- Largeur de la chaussure : Schmal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09C61QZXL{{</world>}}

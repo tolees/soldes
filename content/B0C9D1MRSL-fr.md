@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - APPLICATION hOn : Téléchargez lapplication hOn pour accéder aux secrets de nos experts en thé et café et devenir un maître des boissons chaudes !
-- COMMANDE TACTILE : Contrôle rapide et intuitif de chaque fonction grâce aux boutons tactiles
-- MAINTIEN AU CHAUD : Leau contenue dans la bouilloire reste à la température souhaitée pendant 30 minutes, prête pour une deuxième tasse!
 - NETTOYAGE RAPIDE : Couvercle entièrement amovible avec ouverture large assez grande pour accéder à lintérieur de la bouilloire. Le filtre est également amovible et lavable
+- MAINTIEN AU CHAUD : Leau contenue dans la bouilloire reste à la température souhaitée pendant 30 minutes, prête pour une deuxième tasse!
+- COMMANDE TACTILE : Contrôle rapide et intuitif de chaque fonction grâce aux boutons tactiles
 - ECONOMIE DENERGIE: Chauffez seulement la quantité deau nécessaire pour une tasse et éviter de consommer de lélectricité et de leau inutilement
 - EXPERIENCE PERSONNALISEE : Obtenez le saveurs parfaites à partir de 7 températures prédéfinies pour votre boisson chaude préférée (Thé, Infusion, Café, Biberon)
 

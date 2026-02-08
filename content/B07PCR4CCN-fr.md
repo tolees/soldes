@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assuré de la Sécurité : ECHTPower Chargeur pour Switch OLED a la certification CE FCC ROHS. La conception dintelligent PD (Power Transfer) IC protègent vos appareils contre la surintensité, la surtension et la surcharge. La câble USB-C extra long de 1,5 m de qualité supérieure est adapté à tous les appareils de type C.
-- Compatible avec Switch Switch OLED Switch Lite : Ladaptateur vous permet de charger le console Switch Switch OLED Switch Lite, la station daccueil, la manette Pro et dautres appareils de type C.
 - Charge Rapidement et Portable : 2–3 heures pour une charge complètement, avec la protocole PD, ladaptateur vous permet de charger la batterie pendant lutilisation. Portable et léger vous permettant de profiter dune expérience de console complet à tout moment, nimporte où.
+- Compatible avec Switch Switch OLED Switch Lite : Ladaptateur vous permet de charger le console Switch Switch OLED Switch Lite, la station daccueil, la manette Pro et dautres appareils de type C.
+- Assuré de la Sécurité : ECHTPower Chargeur pour Switch OLED a la certification CE FCC ROHS. La conception dintelligent PD (Power Transfer) IC protègent vos appareils contre la surintensité, la surtension et la surcharge. La câble USB-C extra long de 1,5 m de qualité supérieure est adapté à tous les appareils de type C.
 - Excellent Qualité : Ce Adaptateur Secteur Switch Switch OLED Switch Lite est parfait pour votre amis et familles.
 - Support le mode TV : Cet AC adaptateur secteur est compatible avec Switch OLED Dock, il vous permet de le connecter à la station daccueil en mode console, laissez votre station daccueil afficher des images sur le téléviseur via HDMI. Et il prend également en charge le mode de poche.
 

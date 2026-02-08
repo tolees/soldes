@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COMPACTE ET FACILE DUTILISATION : la machine Essenza Mini ultralégère et ultracompacte combine un design épuré et élégant (L 8,4 cm x H 20,4 cm x l 33 cm) à une simplicité d’utilisation permettant de préparer un espresso parfait, Facile à installer et à déplacer dans n’importe quelle cuisine ou maison
-- UN ASSORTIMENT DE CAPSULES OFFERT : avec quatre tailles de tasse, de l’espresso au mug, il ne vous reste plus qu’à choisir votre café Nespresso préféré, à l’insérer et, d’une simple touche à préparer votre café
 - 2 TAILLES DE TASSE AVEC ARRET AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
 - LIVRE AVEC : machine Essenza Mini Krups, 1 assortiment de caspules
-- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - ECONOMIE DENERGIE : un mode éco après 2 minutes d’inactivité et un mode arrêt automatique après 9 minutes d’inactivité, permettant des économies d’énergie
+- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- UN ASSORTIMENT DE CAPSULES OFFERT : avec quatre tailles de tasse, de l’espresso au mug, il ne vous reste plus qu’à choisir votre café Nespresso préféré, à l’insérer et, d’une simple touche à préparer votre café
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07H8ZK1G6{{</world>}}

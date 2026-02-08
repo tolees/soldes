@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
-- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
-- Passe au lave-vaisselle, au four et au micro-onde.
-- Isotherme. Conserve les boissons au chaud (ou froid) plus longtemps.
-- Livré en coffret cadeau de 2 verres.
 - Capacité : 40 cl.
+- Passe au lave-vaisselle, au four et au micro-onde.
+- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
+- Isotherme. Conserve les boissons au chaud (ou froid) plus longtemps.
+- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
+- Livré en coffret cadeau de 2 verres.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000A5CLAW{{</world>}}

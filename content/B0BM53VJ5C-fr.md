@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : textile
 - Semelle : éthylène-acétate de vinyle
+- Matériau extérieur : textile
 - Imperméable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

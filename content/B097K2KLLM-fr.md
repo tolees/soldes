@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible Intel XMP
-- Design en profil mince du dissipateur de chaleur
 - Compatible AMD Ryzen
+- Compatible Intel XMP
 - Mise à jour DDR4 économique à hautes performances
 - Fonctionnalité Plug & Play
+- Design en profil mince du dissipateur de chaleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097K2KLLM{{</world>}}
