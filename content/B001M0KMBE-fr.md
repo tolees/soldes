@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Janod - Puzzle Carte du Monde Magnétique en Bois - 92 Pièces Aimantées - 70 x 43 cm - Version Française - Jeu éducatif dès 7 ans J05500 Argent Métallique'
+date: 2026-02-01 00:26:27
+image: 'https://m.media-amazon.com/images/I/51V2WsTcMDL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B001M0KMBE-fr Janod - Puzzle Carte du Monde Magnétique en Bois - 92...'
+sku: 'B001M0KMBE-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 25.62 EUR
+currency: EUR
+price: 25.62
+comparePrice: 39.99 EUR
+prodname: 'Janod - Puzzle Carte du Monde Magnétique en Bois - 92 Pièces Aimantées - 70 x 43 cm - Version Française - Jeu éducatif dès 7 ans J05500 Argent Métallique'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B001M0KMBE/?tag=tolees0d-21'
+descuento: '35.93'
+average: '23.2595454545455'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- PUZZLE MAGNÉTIQUE : Très pratique, chaque pièce du puzzle est un magnet qui saimante au plateau permettant de ne pas les égarer. Facile à ranger, le puzzle peut aussi safficher verticalement, les pièces restent solidaires de leur support.
+- APPRENDRE EN SAMUSANT : En route pour un voyage autour du monde en 92 magnets ! Amuse-toi à remettre chaque pays à sa place, tu obtiendras une magnifique carte du monde que tu pourras accrocher au mur. Une façon ludique et pédagogique de découvrir la planète et de sinitier à la géographie. Dimensions : 70 x 43 cm. Idéal dès 7 ans. Puzzle en langue française.
+- CONTENU : Plateau en bois et 92 pièces magnétiques. Matériau : MDF pour le plateau et contreplaqué pour les magnets. Avec ficelle en coton pour accrocher le puzzle au mur.
+- PUZZLE CARTE DU MONDE : Chaque magnet représente un pays ou une région du monde, avec son nom, sa capitale et une illustration caractérisant cette partie du globe. Le grand tableau magnétique représente le monde avec ses continents, ses mers, ses océans : la couleur utilisée pour chaque région permet de se repérer.
+- DESIGN ADORABLE ET FRANÇAIS : Les matières nobles, les couleurs choisies et le design soigné des jouets en bois Janod leur permettent de sinsérer dans le quotidien en toute harmonie. Tous les jouets Janod sont imaginés en France, dans le Jura.
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B001M0KMBE{{</world>}}

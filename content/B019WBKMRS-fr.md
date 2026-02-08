@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'INFAILLIBLE RAL DUO 214 RASPBERRY FOR LIFE'
+date: 2026-02-03 15:09:21
+image: 'https://m.media-amazon.com/images/I/21IV-BXdCkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B019WBKMRS-fr INFAILLIBLE RAL DUO 214 RASPBERRY FOR LIFE'
+sku: 'B019WBKMRS-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
+comparePrice: 9.94 EUR
+prodname: 'INFAILLIBLE RAL DUO 214 RASPBERRY FOR LIFE'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B019WBKMRS/?tag=tolees0d-21'
+descuento: '19.72'
+average: '7.98'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Appliquez dabord la couleur avec des pigments mats et une fois séché, appliquez lhydratant rehausseur de couleur
+- Couleur permanente jusquà 24 heures disponible en 22 tons
+- Sa texture liquide enrichie en acide hyaluronique se fixe sur vos lèvres sans tcher ou se fissurer
+- Résistance absolue pour des lèvres hydratées et confortables, sans retouches
+- Rouge à lèvres longue durée pour un résultat mat intact 24 heures
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B019WBKMRS{{</world>}}
