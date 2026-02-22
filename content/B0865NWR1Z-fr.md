@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pour les utilisations occasionnelles : le Kärcher K 2 Universal Edition Home est parfaitement adapté aux salissures légères et aux utilisations occasionnelles de la maison et du jardin
-- Home Kit inclus : Le kit comprend le nettoyeur de surface T 1 et le détergent pour patio et terrasse, Ainsi, les grandes surfaces comme les terrasses peuvent être nettoyées en profondeur
+- Livraison : nettoyeur haute pression K 2 Universal Edition Home, pistolet et flexible haute pression de 3 m, rotabuse, nettoyeur de surface T 1, détergent pour patio et terrasse (0,5 l)
 - Raccord Quick Connect : le flexible haute pression de 3 mètres se raccorde facilement au pistolet haute pression et à lappareil grâce au système Quick Connect
 - Rotabuse : le nettoyeur haute pression Kärcher est livré avec une rotabuse qui élimine même les saletés les plus tenaces comme la mousse
-- Livraison : nettoyeur haute pression K 2 Universal Edition Home, pistolet et flexible haute pression de 3 m, rotabuse, nettoyeur de surface T 1, détergent pour patio et terrasse (0,5 l)
+- Home Kit inclus : Le kit comprend le nettoyeur de surface T 1 et le détergent pour patio et terrasse, Ainsi, les grandes surfaces comme les terrasses peuvent être nettoyées en profondeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0865NWR1Z{{</world>}}

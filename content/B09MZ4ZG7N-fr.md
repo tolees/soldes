@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DENTRETIEN : Il est recommandé de laver le short en cycle délicat à 30 °C et de le repasser jusquà 110 °C maximum
 - AVEC STRETCH : La teneur en stretch rend le pantalon particulièrement extensible et assure une sensation douce sur la peau
-- REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
 - CASUAL & COOL : les shorts à teneur en stretch sont particulièrement confortables au quotidien et peuvent être idéalement combinés avec des hauts décontractés
+- REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
+- CONSEILS DENTRETIEN : Il est recommandé de laver le short en cycle délicat à 30 °C et de le repasser jusquà 110 °C maximum
 - CARGO FIT : Le pantalon cargo est tendance et confortable et séduit par ses nombreuses poches pratiques et sa coupe ample
 
 [🛒 Achète-le!!]({{< param buyurl >}})

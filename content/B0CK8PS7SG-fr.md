@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONSEILS DAPPLICATION : Appliquez matin et soir le gel moussant visage sur une peau humidifiée à l’eau tiède. Massez délicatement puis rincez. Ne pas frotter. En cas de contact avec les yeux, rincer immédiatement.
-- EMBELLISSEZ VOTRE PEAU AVEC GARNIER SKIN ACTIVE : Révélez une peau fraîche et saine grâce à Skin Active, une gamme dédiée aux soins du visage, formulée avec des ingrédients naturels, pour embellir toutes les peaux.
-- RÉSULTATS VISIBLES APRÈS 1 SEMAINE : En une semaine, 89% constatent une meilleure hydratation de la peau et 96% une élimination des impuretés. En quatre semaines, 71% observent une peau repulpée, 80% un grain affiné, et 90% une peau non sèche.*
 - GEL NETTOYANT PH NEUTRE : Le gel Garnier nettoyant, à lacide hyaluronique et Aloe Vera, nettoie votre peau en profondeur afin déliminer le maquillage et les impuretés, tout en préservant l’hydratation. Il convient aux peaux sèches et sensibles.
 - FORMULE NOURRISSANTE 100% VEGAN : Vegan et approuvée par Cruelty Free International, la formule de ce gel visage nettoyant associe la glycérine, lacide hyaluronique et laloe vera connus pour leurs propriétés nourrissantes et apaisantes.
+- EMBELLISSEZ VOTRE PEAU AVEC GARNIER SKIN ACTIVE : Révélez une peau fraîche et saine grâce à Skin Active, une gamme dédiée aux soins du visage, formulée avec des ingrédients naturels, pour embellir toutes les peaux.
+- RÉSULTATS VISIBLES APRÈS 1 SEMAINE : En une semaine, 89% constatent une meilleure hydratation de la peau et 96% une élimination des impuretés. En quatre semaines, 71% observent une peau repulpée, 80% un grain affiné, et 90% une peau non sèche.*
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CK8PS7SG{{</world>}}

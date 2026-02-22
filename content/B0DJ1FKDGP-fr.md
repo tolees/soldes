@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend DJI Flip, la radiocommande RC 2 avec un écran haute luminosité, trois batteries pour un temps de vol prolongé, une Station de charge parallèle, et plus encore. Idéal pour optimiser votre expérience de vol.
-- Superbe vidéo HDR en 4K/60 ips - Capturez la beauté du lever et du coucher du soleil avec une vidéo ultrahaute définition. Ce mini drone offre une expérience visuelle exceptionnelle, rendant chaque moment époustouflant.
-- En raison de problèmes de compatibilité, l’application DJI Fly a été retirée de Google Play. Visitez le site officiel de DJI pour télécharger le manuel et la dernière version de lapplication.
-- Votre réalisateur nomade - Avec le Suivi de sujet, votre sujet reste en mise au point. Que vous fassiez de la randonnée ou organisiez une fête, ce drone agit comme votre cinéaste personnel, capturant chaque mouvement.
-- Volez sans crainte - Ce drone caméra 4K est équipé de protections d’hélice complètes en fibre de carbone légère, offrant une protection complète. Profitez de votre temps avec le drone !
-- Temps de vol max. de 31 min - Ne vous souciez plus des batteries. Avec jusquà 31 minutes de temps de vol[5], ce mini drone peut capturer plus de moments et explorer plus loin sans interruptions.
 - Capturez chaque détail avec un capteur CMOS de 1/1,3 pouce - Le capteur plus grand de ce drone caméra 4K capture plus de lumière, offrant des images plus claires avec des détails vifs, idéal pour capturer à la fois des paysages et des portraits.
 - Léger et conforme à la réglementation - Pesant moins de 249 g[1], ce drone respecte les réglementations C0. Donc, aucune formation ou ni tests ne sont nécessaires. Il est compact, pratique et idéal pour vos voyages !
+- Volez sans crainte - Ce drone caméra 4K est équipé de protections d’hélice complètes en fibre de carbone légère, offrant une protection complète. Profitez de votre temps avec le drone !
+- Superbe vidéo HDR en 4K/60 ips - Capturez la beauté du lever et du coucher du soleil avec une vidéo ultrahaute définition. Ce mini drone offre une expérience visuelle exceptionnelle, rendant chaque moment époustouflant.
+- Votre réalisateur nomade - Avec le Suivi de sujet, votre sujet reste en mise au point. Que vous fassiez de la randonnée ou organisiez une fête, ce drone agit comme votre cinéaste personnel, capturant chaque mouvement.
+- En raison de problèmes de compatibilité, l’application DJI Fly a été retirée de Google Play. Visitez le site officiel de DJI pour télécharger le manuel et la dernière version de lapplication.
+- Comprend DJI Flip, la radiocommande RC 2 avec un écran haute luminosité, trois batteries pour un temps de vol prolongé, une Station de charge parallèle, et plus encore. Idéal pour optimiser votre expérience de vol.
+- Temps de vol max. de 31 min - Ne vous souciez plus des batteries. Avec jusquà 31 minutes de temps de vol[5], ce mini drone peut capturer plus de moments et explorer plus loin sans interruptions.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJ1FKDGP{{</world>}}

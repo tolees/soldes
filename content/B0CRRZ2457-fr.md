@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROFITEZ DUN SON DE FÊTE PUISSANT: avec deux grands haut-parleurs X-Balanced pour des basses profondes et puissantes et deux tweeters orientés vers lavant
 - PROLONGER LA FÊTE JUSQUAU BOUT DE LA NUIT NON STOP: Profitez dune autonomie impressionnante de 25h , dune fonctionnalité de charge rapide qui offre 2h30 de musique pour 10min de charge.
 - CRÉEZ UNE ATMOSPHÈRE AVEC DES EFFETS DE LUMIÈRE, ET PLUS ENCORE: Des lumières multicolores se synchronisent avec la musique et vous pouvez contrôler instantanément votre enceinte via le panneau de contrôle ou lapplication Sony | Music Center.
+- PROFITEZ DUN SON DE FÊTE PUISSANT: avec deux grands haut-parleurs X-Balanced pour des basses profondes et puissantes et deux tweeters orientés vers lavant
 - EXPRIMEZ VOS TALENTS MUSICAUX GRÂCE AUX PRISES MICRO/GUITARE DÉDIÉES: Avec 2 entrées micro, vous pouvez utiliser la SRS-XV500 comme système de sonorisation, organiser une soirée karaoké ou même brancher une guitare et l utiliser comme un ampli.
 - FAITES LA FÊTE PARTOUT: Avec deux poignées de transport pratiques et un indice de résistance à leau IPX4, cette enceinte portable est parfaite pour une utilisation à lintérieur et à lextérieur.
 

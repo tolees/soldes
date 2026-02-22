@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col rond
-- Des coupes maîtrisées
 - Des designs épurés
+- Des coupes maîtrisées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09H6VS55X{{</world>}}

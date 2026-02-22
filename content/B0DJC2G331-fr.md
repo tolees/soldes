@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige: 97.47% synthétique, 2.53% textile
 - Tige en cuir martelée
 - Œillets à double couche
+- Tige: 97.47% synthétique, 2.53% textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJC2G331{{</world>}}

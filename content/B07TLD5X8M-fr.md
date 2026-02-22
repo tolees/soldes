@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KIT CREATION BOUGIES : Offrez à vos enfants lexpérience fascinante de la création de bougies avec ce kit dexpériences créatives. Conçu spécialement pour les enfants de 8 à 12 ans, il stimule la créativité tout en enseignant les bases de la confection de bougies.
 - APPRENTISSAGE AMUSANT : Plongez dans un apprentissage ludique avec ce jeu créatif. Les enfants découvrent lart de fabriquer des bougies tout en samusant, développant ainsi leurs compétences manuelles et artistiques.
-- LOISIRS CREATIFS : Ce kit dexpériences scientifiques propose une variété de créations possibles, encourageant la créativité des enfants tout en élargissant leurs horizons artistiques. Une aventure éducative et divertissante !
 - FABRIQUE EN ITALIE : Bénéficiez de la qualité italienne exceptionnelle avec ce kit. Fabriqué en Italie, il garantit non seulement une expérience éducative enrichissante mais aussi une durabilité et une sécurité optimales.
 - ADAPTÉ AUX ENFANTS DES 8 ANS : Ce kit a été soigneusement élaboré pour être adapté aux enfants à partir de 8 ans. Il prend en compte leur développement cognitif et moteur, offrant ainsi une introduction douce et sécurisée à lartisanat des bougies.
+- KIT CREATION BOUGIES : Offrez à vos enfants lexpérience fascinante de la création de bougies avec ce kit dexpériences créatives. Conçu spécialement pour les enfants de 8 à 12 ans, il stimule la créativité tout en enseignant les bases de la confection de bougies.
+- LOISIRS CREATIFS : Ce kit dexpériences scientifiques propose une variété de créations possibles, encourageant la créativité des enfants tout en élargissant leurs horizons artistiques. Une aventure éducative et divertissante !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07TLD5X8M{{</world>}}

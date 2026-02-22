@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AUTONOMIE PROLONGÉE ET CHARGE MAGNÉTIQUE : Jusqu’à 110 heures d’autonomie sans rétroéclairage et jusqu’à 46 heures via Bluetooth avec l’éclairage actif Profitez d’une recharge pratique grâce au câble magnétique pour des sessions ininterrompues
-- ÉCLAIRAGE IMMERSIF ALIENFX RGB PAR TOUCHE : Créez des effets lumineux captivants avec jusqu’à 16,8 millions de couleurs Synchronisez votre éclairage avec votre écosystème Alienware pour une immersion totale dans chaque partie
-- TOUCHES PBT DOUBLE INJECTION ULTRA-RÉSISTANTES : Résistance exceptionnelle à l’usure et à la décoloration grâce aux touches PBT gravées dans la masse Un confort de frappe durable même après des millions d’actionnements
 - CONNECTIVITÉ TRIMODE FLEXIBLE : Basculez sans effort entre les connexions USB filaire, sans fil 2,4 GHz ultra-rapide et Bluetooth 51 multi-appareils La flexibilité parfaite pour s’adapter à tous vos environnements de jeu ou de travail
 - PERSONNALISATION AVANCÉE ET CONTRÔLES DÉDIÉS : Programmez vos macros et ajustez vos réglages à la volée avec le cadran rotatif et le commutateur à bascule personnalisable Contrôlez facilement le volume, les médias et plus encore via Alienware Command Center
 - CLAVIER QWERTY AVEC SWITCHS CHERRY MX RED : Disposition QWERTYavec commutateurs Cherry MX Red, offrant un fonctionnement fluide, linéaire et ultra-réactif, idéal pour le gaming compétitif et la saisie rapide
+- TOUCHES PBT DOUBLE INJECTION ULTRA-RÉSISTANTES : Résistance exceptionnelle à l’usure et à la décoloration grâce aux touches PBT gravées dans la masse Un confort de frappe durable même après des millions d’actionnements
+- ÉCLAIRAGE IMMERSIF ALIENFX RGB PAR TOUCHE : Créez des effets lumineux captivants avec jusqu’à 16,8 millions de couleurs Synchronisez votre éclairage avec votre écosystème Alienware pour une immersion totale dans chaque partie
+- AUTONOMIE PROLONGÉE ET CHARGE MAGNÉTIQUE : Jusqu’à 110 heures d’autonomie sans rétroéclairage et jusqu’à 46 heures via Bluetooth avec l’éclairage actif Profitez d’une recharge pratique grâce au câble magnétique pour des sessions ininterrompues
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C83LKDXG{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panier avant - Klaxon - Garde-boues
-- Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
-- 1 frein avant Caliper
-- Carter de Protection - 2 Stabilisateurs avec montage sans outils
-- Norme EN71 ( Rétropédalage obligatoire )
-- Cadre & fourche rigide acier
 - Transmission Mono vitesse - Pignon Fixe
+- Carter de Protection - 2 Stabilisateurs avec montage sans outils
+- Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
+- Cadre & fourche rigide acier
+- Norme EN71 ( Rétropédalage obligatoire )
+- Panier avant - Klaxon - Garde-boues
+- 1 frein avant Caliper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9XLRSVW{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ouverture : 76 mm ; Focale : 300 mm
 - Inclus: Télescope, 2 oculaires (6 mm/20 mm), filtre lunaire, autocollants
+- Ouverture : 76 mm ; Focale : 300 mm
+- Dimensions : 210 x 210 x 290 mm ; Poids : 1460 grammes
 - Support de table Dobson azimutal convivial
 - Télescope à miroir compact pour les enfants à partir de 8 ans
-- Dimensions : 210 x 210 x 290 mm ; Poids : 1460 grammes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1MQGGSJ{{</world>}}

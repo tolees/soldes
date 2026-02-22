@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Doublure : doublure froide
 - Matériau intérieur : textile
-- Largeur de la chaussure : moyenne
+- Doublure : doublure froide
+- Forme du talon : plat
 - Matériau extérieur : synthétique
+- Largeur de la chaussure : moyenne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01LPW5ZP6{{</world>}}

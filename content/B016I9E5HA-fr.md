@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sans entretien
-- Verrouillable
 - Capacité 416 litres
-- Etanche
 - Traité anti UV
+- Etanche
+- Verrouillable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B016I9E5HA{{</world>}}

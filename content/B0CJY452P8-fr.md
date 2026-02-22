@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Switches mécaniques ROG NX remplaçables à chaud : Switches pré-lubrifiés pour des clics plus souples et lélimination des bruits de rebond ; actionnement rapide et courbes de force réglées par ROG pour une sensation et une régularité de frappe exceptionnelles.
-- Conception unique du joint : Le joint détanchéité en silicone et les trois couches de mousses amortissantes se combinent pour offrir une expérience de frappe inégalée.
-- Support MacOS : Basculez facilement entre les modes Windows et MacOS.
-- Trois modes de connexion : Utilisez le Bluetooth pour connecter et basculer entre trois appareils à la fois, la technologie sans fil ROG SpeedNova offre jusquà plus de 2 000 heures de jeu à faible latence en mode sans fil RF 2,4 GHz (OLED & RGB off), ou utilisez le port USB câblé standard.
 - Design ergonomique : Deux paires de patins de clavier de hauteurs différentes permettent dobtenir jusquà trois positions d’inclinaison.
 - Écran OLED et contrôles intuitifs : Visualisez les informations système et les paramètres du clavier dun seul coup d’œil ; le bouton à trois voies intégré permet de régler rapidement les paramètres.
-- Kit de lubrification de switch : Lensemble des éléments essentiels, y compris le lubrifiant Krytox GPL-205-GD0, pour permettre aux novices de se lancer dans le montage dun clavier.
+- Conception unique du joint : Le joint détanchéité en silicone et les trois couches de mousses amortissantes se combinent pour offrir une expérience de frappe inégalée.
+- Support MacOS : Basculez facilement entre les modes Windows et MacOS.
 - Expérience de frappe améliorée : Le stabilisateur de clavier prélubrifié produit moins de friction pour des frappes plus fluides et une plus grande stabilité pour des touches plus longues ; les capuchons de touches durables ROG ABS Doubleshot offrent une sensation supérieure.
+- Trois modes de connexion : Utilisez le Bluetooth pour connecter et basculer entre trois appareils à la fois, la technologie sans fil ROG SpeedNova offre jusquà plus de 2 000 heures de jeu à faible latence en mode sans fil RF 2,4 GHz (OLED & RGB off), ou utilisez le port USB câblé standard.
+- Switches mécaniques ROG NX remplaçables à chaud : Switches pré-lubrifiés pour des clics plus souples et lélimination des bruits de rebond ; actionnement rapide et courbes de force réglées par ROG pour une sensation et une régularité de frappe exceptionnelles.
+- Kit de lubrification de switch : Lensemble des éléments essentiels, y compris le lubrifiant Krytox GPL-205-GD0, pour permettre aux novices de se lancer dans le montage dun clavier.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJY452P8{{</world>}}

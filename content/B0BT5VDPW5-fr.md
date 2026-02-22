@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : Garnier Ultra Doux, 1x Huile Nourrissante 150ml + 1x Masque Remède Nourrissant 340ml + 1x Shampooing Nourrissant 300ml + 1x Après-Shampooing 250ml
 - Application : Appliquer le masque sur les longueurs et les pointes, laissez poser 3 à 5 minutes pour un résultat optimal et rincez, Appliquer lhuile sur longueurs et pointes, mèche à mèche
-- Résultats : Les cheveux sont nourris en profondeur et protégés jusquaux pointes, ils retrouvent souplesse, brillance et douceur
 - Formules enrichies en huile dargan nourrissante et protectrice, et en huile de camélia pour redonner éclat et douceur à vos cheveux, apportant également un parfum délicat et agréable
+- Contenu : Garnier Ultra Doux, 1x Huile Nourrissante 150ml + 1x Masque Remède Nourrissant 340ml + 1x Shampooing Nourrissant 300ml + 1x Après-Shampooing 250ml
+- Résultats : Les cheveux sont nourris en profondeur et protégés jusquaux pointes, ils retrouvent souplesse, brillance et douceur
 - Routine aux huiles merveilleuses pour cheveux secs et ternes, composée de lhuile, du shampooing, du masque et de laprès-shampooing démêlant aux huiles dargan et de camélia
 
 [🛒 Achète-le!!]({{< param buyurl >}})

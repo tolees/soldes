@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Trépied Réglable Pliable】 Le trépied en alliage daluminium de haute qualité sétend de 23,5 à 72 pouces, avec une base de trépied indestructible et un système de verrouillage solide pour une stabilité accrue.
-- 【18 pouces Grande Lumière Annulaire】 Cette grande lumière annulaire offre une luminosité exceptionnelle, avec une température de couleur allant de 2900K à 7000K et permet un ajustement de la luminosité de 0% à 100%, pour élever votre diffusion en direct ou vos photos au niveau supérieur.
 - 【Télécommande et Déclencheur Bluetooth】 Capturez facilement des photos avec la télécommande sans fil Bluetooth pour selfie. Vous pouvez utiliser la télécommande sans fil pour ajuster la luminosité ou régler depuis le panneau tactile selon vos besoins.
 - 【Support Polyvalent pour Plusieurs Appareils】 Les 3 supports de téléphone pliables peuvent répondre aux besoins de jeu sur différentes plateformes en même temps, tandis que les 2 ports de charge USB (5V 1A) maintiennent vos smartphones alimentés pendant la diffusion en direct.
 - 【Modes dÉclairage RVB】 Les 26 modes RVB peuvent régler la lumière annulaire sur des couleurs statiques telles que le rouge, le vert, le jaune, le bleu et le violet, ainsi que sur dautres modes déclairage dynamiques changeant de couleur. Vous pouvez également ajuster la vitesse de fonctionnement de trepied photo lumiere à laide de la télécommande ou du bouton tactile, ce qui peut créer une atmosphère unique et rendre vos photos et vidéos plus créatives.
+- 【18 pouces Grande Lumière Annulaire】 Cette grande lumière annulaire offre une luminosité exceptionnelle, avec une température de couleur allant de 2900K à 7000K et permet un ajustement de la luminosité de 0% à 100%, pour élever votre diffusion en direct ou vos photos au niveau supérieur.
+- 【Trépied Réglable Pliable】 Le trépied en alliage daluminium de haute qualité sétend de 23,5 à 72 pouces, avec une base de trépied indestructible et un système de verrouillage solide pour une stabilité accrue.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CDY5SMP2{{</world>}}

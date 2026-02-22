@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure thermo-réfléchissante Omni-Heat pour la rétention de chaleur
-- Vaste choix de couleurs combinables de multiples façons
+- Contenu : 1x Columbia Tour de Cou Unisexe, Trail Shaker, Composition : 100% Polyester, Noir (Black), Taille : Unique, 1862541010O/S
 - Tour de cou multi-usages, Sous-couche optimale pour les pistes de ski, Coupe-vent utile pour les escapades en ville et à la campagne
 - Lien de serrage à larrière pour un réglage facile et un ajustement optimal
-- Contenu : 1x Columbia Tour de Cou Unisexe, Trail Shaker, Composition : 100% Polyester, Noir (Black), Taille : Unique, 1862541010O/S
+- Vaste choix de couleurs combinables de multiples façons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07J9K7DFL{{</world>}}

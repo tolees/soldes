@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maintien des patchs de sécurité Oct 2022 > Dec 2030
 - Ergonomique et technique : écran 6.08’’, haut-parleur de 100dB, appareil photo 48 Mpx, caméra 4K.
 - Performant : Compatibilité 5G et Wifi 6/6E, processeur puissant Qualcomm QCM6490.
+- Conçu pour durer : garantie 5 ans, certification AER, norme MIL-STD-810H, étanchéité IP68, batterie 4 950 mAh.
 - 1 mois de forfait mobile remboursé ! Et tentez de remporter 5 ans de forfait mobile* (Voir conditions dans le PDF de documentation disponible dans “Guides produits et documents”)
 - MAJ d’OS sous condition de compatibilité Android 12 > 16
-- Conçu pour durer : garantie 5 ans, certification AER, norme MIL-STD-810H, étanchéité IP68, batterie 4 950 mAh.
 - Core-Z5 aussi performant que durable, le premier produit 5G Crosscall
 - Adapté aux besoins professionnels et aux missions critiques : technologie X-LINK, fonctionnalités Push-To-Talk et PC-replacement
+- Maintien des patchs de sécurité Oct 2022 > Dec 2030
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKH35BQ6{{</world>}}

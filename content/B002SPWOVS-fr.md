@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR UN TEINT ENCORE PLUS RADIEUX : Réduit visiblement les taches brunes sur peau nue*. *Test consommateur réalisé sur 22 femmes après 12 semaines dutilisation.
-- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests ophtalmologiques. Non comédogène.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - TENUE CONFORTABLE ET MODULABLE : Avec la technologie BetterFlex, ce fond de teint longue tenue suit tous vos mouvements. Tenue 24 h, ne migre pas dans les pores, ne fait pas de paquets et ne laisse pas de traces.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
+- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests ophtalmologiques. Non comédogène.
+- POUR UN TEINT ENCORE PLUS RADIEUX : Réduit visiblement les taches brunes sur peau nue*. *Test consommateur réalisé sur 22 femmes après 12 semaines dutilisation.
 - FOND DE TEINT À LA VITAMINE C DÉVELOPPÉ PAR DES DERMATOLOGUES : Un fond de teint liquide qui offre une couvrance modérée tenue 24 h et un fini mat naturel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

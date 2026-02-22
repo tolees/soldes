@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier ultra-compact avec plaque supérieure en aluminium durable pour une ergonomie durable: Le profil mince du clavier assure un positionnement neutre des mains pendant des périodes de jeu prolongées avec un minimum de contraintes, tandis que sa plaque supérieure en alliage d’aluminium offre une plus grande durabilité avec un poids correct.
-- Switchs optiques Razer au profil bas (linéair): Effectuez des frappes plus rapides grâce aux tout nouveaux switchs dont la hauteur d’activation est raccourcie pour réduire la course des touches, le tout avec une durée de vie de 70 millions de frappes pour des performances durables.
-- Câble Type-C amovible pour une installation et un rangement plus faciles: Déballez vos affaires, branchez-le, et jouez sans souci dans toutes vos parties et tournois LAN.
 - Touches gravées au laser avec revêtement Razer HyperGuard e pour une résistance maximale à la décoloration et aux rayures: Offre une plus grande protection contre l’usure par rapport aux touches ordinaires, avec des légendes gravées au laser qui ont l’air plus nettes et restent bien éclairées même pendant la journée.
 - Alimenté par Razer Chroma RGB pour éclairage personnalisable de chaque touche: Grâce à un switch qui permet un éclairage plus brillant et uniforme, vous pouvez personnaliser chaque touche avec plus de 16,8 millions de couleurs et d’effets, y compris un éclairage dynamique pour des centaines de jeux disposant de l’intégration Chroma.
+- Switchs optiques Razer au profil bas (linéair): Effectuez des frappes plus rapides grâce aux tout nouveaux switchs dont la hauteur d’activation est raccourcie pour réduire la course des touches, le tout avec une durée de vie de 70 millions de frappes pour des performances durables.
+- Boîtier ultra-compact avec plaque supérieure en aluminium durable pour une ergonomie durable: Le profil mince du clavier assure un positionnement neutre des mains pendant des périodes de jeu prolongées avec un minimum de contraintes, tandis que sa plaque supérieure en alliage d’aluminium offre une plus grande durabilité avec un poids correct.
 - Molette multifonction et bouton multimédia pour un contrôle pratique: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant.
+- Câble Type-C amovible pour une installation et un rangement plus faciles: Déballez vos affaires, branchez-le, et jouez sans souci dans toutes vos parties et tournois LAN.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B7NV9GN9{{</world>}}

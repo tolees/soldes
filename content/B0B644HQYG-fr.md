@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La prochaine génération de Nickelodeon Kart Racers est arrivée ! Reconstruit et réinventé à partir de zéro, Nickelodeon Kart Racers revient - plus grand et meilleur que jamais !
-- Avec une distribution entièrement doublée de plus de 40 personnages emblématiques, dérivez, glissez et boostez votre chemin jusquà la ligne darrivée sur des pistes inspirées des émissions légendaires de Nickelodeon comme SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Avatar : Le dernier maître de lair et plus encore !
-- De nouveaux niveaux de personnalisation inédits : associez Raphaël au mobile Reptar, changez les peintures et les pièces, ou plongez dans des millions dautres combinaisons possibles ! Des chemins alternatifs remplis de Slime intense sur 36 pistes différentes, nouvelles et anciennes
 - Affrontez directement dautres coureurs dans un mode arène chaotique. Du multijoueur en local et en ligne intense en écran partagé !
+- Avec une distribution entièrement doublée de plus de 40 personnages emblématiques, dérivez, glissez et boostez votre chemin jusquà la ligne darrivée sur des pistes inspirées des émissions légendaires de Nickelodeon comme SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Avatar : Le dernier maître de lair et plus encore !
+- La prochaine génération de Nickelodeon Kart Racers est arrivée ! Reconstruit et réinventé à partir de zéro, Nickelodeon Kart Racers revient - plus grand et meilleur que jamais !
 - Transformez votre kart ou votre nouveau vélo en embarcation pour naviguer sur de nouveaux terrains
+- De nouveaux niveaux de personnalisation inédits : associez Raphaël au mobile Reptar, changez les peintures et les pièces, ou plongez dans des millions dautres combinaisons possibles ! Des chemins alternatifs remplis de Slime intense sur 36 pistes différentes, nouvelles et anciennes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B644HQYG{{</world>}}

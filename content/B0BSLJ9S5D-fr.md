@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMPLACEMENT À CHAUD - Remplacez facilement les switches mécaniques dorigine par des switchs compatibles à 3 broches, sans soudure. Personnalisez votre expérience de frappe en toute simplicité, en garantissant flexibilité et durabilité.
-- SWITCHES MÉCANIQUES ULTRA-RÉSISTANTS - Les switches mécaniques Red ont une durée de vie de 60 millions de frappes par touche et offrent une course linéaire régulière de 2,1 mm et une course totale de 4,0 mm (force dactionnement de 46 g).
-- RÉTRO-ÉCLAIRAGE LED RVB - Pour créer une atmosphère agréable, il suffit de jouer avec des effets prédéfinis.
-- TOUCHES ERGONOMIQUES - Le GK310 utilise un clavier de taille normale avec des touches High-Low ergonomiques pour un meilleur confort ; il est doté dun couvercle magnétique amovible pour un aspect personnalisé.
 - ORIENTÉ PRO-GAMING - La fonction Rollover 6+N et lanti-ghosting complet des touches évitent tout conflit de signal ou toute pression manquée sur les touches en basculant automatiquement entre 6 et N touches pour garantir une expérience de jeu précise.
+- SWITCHES MÉCANIQUES ULTRA-RÉSISTANTS - Les switches mécaniques Red ont une durée de vie de 60 millions de frappes par touche et offrent une course linéaire régulière de 2,1 mm et une course totale de 4,0 mm (force dactionnement de 46 g).
+- TOUCHES ERGONOMIQUES - Le GK310 utilise un clavier de taille normale avec des touches High-Low ergonomiques pour un meilleur confort ; il est doté dun couvercle magnétique amovible pour un aspect personnalisé.
+- RÉTRO-ÉCLAIRAGE LED RVB - Pour créer une atmosphère agréable, il suffit de jouer avec des effets prédéfinis.
+- REMPLACEMENT À CHAUD - Remplacez facilement les switches mécaniques dorigine par des switchs compatibles à 3 broches, sans soudure. Personnalisez votre expérience de frappe en toute simplicité, en garantissant flexibilité et durabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSLJ9S5D{{</world>}}

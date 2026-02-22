@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 27" WQHD, RAPID IPS 180HZ - La dalle Rapid IPS QHD 2560 x 1440 (16:9) offre un taux de rafraîchissement élevé de 180 Hz pour un suivi fluide des mouvements ; le temps de réponse très faible de 0,5 ms (GtG) est idéal pour les événements esports.
 - CONTRASTE DYNAMIQUE & AI VISION - La dalle IPS offre un contraste natif de 1000:1 et prend en charge le contraste dynamique (100 000 000:1) ; MSI AI Vision permet daméliorer les détails clés dans les environnements de jeu les plus sombres.
+- 27" WQHD, RAPID IPS 180HZ - La dalle Rapid IPS QHD 2560 x 1440 (16:9) offre un taux de rafraîchissement élevé de 180 Hz pour un suivi fluide des mouvements ; le temps de réponse très faible de 0,5 ms (GtG) est idéal pour les événements esports.
 - CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement aux PC, Mac, consoles et ordinateurs portables incluent DisplayPort 1.4a (WQHD/180 Hz) et HDMI 2.0b CEC (WQHD/144 Hz) ; larrière de lécran est équipé dun joystick de navigation à 5 directions.
 - QUALITÉ DIMAGE RAPID IPS, JEU SANS BORDURE - Les dalles Rapid IPS de MSI offrent une intensité de couleur exceptionnelle et prennent en charge des angles de vision larges de 178° ; la conception sans cadre réduit les contours visibles entre les écrans.
 - LARGE GAMUT - Le MAG 275QF prend en charge jusquà 1,07 milliard de couleurs à 101 % sRGB pour une grande précision des couleurs ; il dispose des technologies de réduction de la lumière bleue et danti-scintillement pour réduire la fatigue oculaire.

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MULTICUISEUR 6 FONCTIONS DE CUISSON : Cuisson sous pression, Friture à lair, Cuisson lente, Vapeur, Cuisson au four/Rôtir et Sèche/Sauté
-- LAUTOCUISER QUI CROUSTILLE: Cuisez et croustillez avec la technologie TenderCrisp; Il suffit dalterner entre le couvercle à pression et le couvercle croustillant pour obtenir des plats parfaitement cuits et croustillant
-- DIMENSIONS : H31 x L39,5 x P32 cm. Poids : 9,07 kg
 - CUISSON SOUS PRESSION : Jusquà 70% plus rapide que les méthodes de cuisson traditionnelles (Comparé à la cuisson lente, la cuisson à feu doux ou le braisage)
+- DIMENSIONS : H31 x L39,5 x P32 cm. Poids : 9,07 kg
+- LAUTOCUISER QUI CROUSTILLE: Cuisez et croustillez avec la technologie TenderCrisp; Il suffit dalterner entre le couvercle à pression et le couvercle croustillant pour obtenir des plats parfaitement cuits et croustillant
+- MULTICUISEUR 6 FONCTIONS DE CUISSON : Cuisson sous pression, Friture à lair, Cuisson lente, Vapeur, Cuisson au four/Rôtir et Sèche/Sauté
 - COMPREND : Ninja Foodi Mini Multicuiseur (prise EU), Pot de cuisson antiadhésif de 4,7 L lavable au lave-vaisselle, Plaque Cook et Crisp, Grille en acier inoxydable, Guide de recettes créées par des chefs. Couleur gris/noir
 - TAILLE COMPACTE, POSSIBILITÉS INFINIES: Ce multi-cuiseur polyvalent de 4,7 L est parfait pour cuisiner 1 à 2 portions; Convient à un poulet de 1,5 kg
 

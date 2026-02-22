@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - MIXABLE COLOURS AND TONES: All Manic Panic hair colours are safe to mix to create custom shades, making the possibilities of shades endless! Combine any formula with the manic mixer/pastel-izer to create soft, on-trend pastel hues. Ready to use, no developer required.
 - ROCKABILLY BLUE: Rockabilly Blue is one of our strongest true, neutral blue dyes. This vibrant, ultra-powerful blue leaves cool tones on virgin, unbleached hair. For head turning results, we recommend lightening hair to a light level 9 blonde and toning hair before use to prevent unwanted hues.
+- SEMI PERMANENT HAIR DYE: This semi permanent hair dye formula gradually fades in 4-6 weeks because it does not penetrate the cortex of your hair, but simply rests on top of the hair shaft.
 - CRUELTY FEE AND VEGAN: This colour cream hair dye features vegan ingredients tested on celebrities, not animals. Made in the USA, hair colour is PPD & ammonia-free, paraben-free, gluten-free resorcinol-free, and phthalate-free.
 - ADDITIONAL FEATURES: Benefits of Conditioning Hair, Resealable Tub For Longer Use, Comes With Instructions
-- SEMI PERMANENT HAIR DYE: This semi permanent hair dye formula gradually fades in 4-6 weeks because it does not penetrate the cortex of your hair, but simply rests on top of the hair shaft.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0083CNYJG{{</world>}}

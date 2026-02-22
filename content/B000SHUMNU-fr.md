@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance extrême. 1000m décriture possible.
-- Marqueur permanent Pentel Pen N50 encre noire
 - Corps métal
 - Tous supports, tous usages
+- Marqueur permanent Pentel Pen N50 encre noire
+- Résistance extrême. 1000m décriture possible.
 - Pointe conique 4,3mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

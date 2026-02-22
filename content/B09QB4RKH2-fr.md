@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Notes de cœur : tubéreuse, hiacynth, œillet, gingembre, jasmin, ylang-ylang, freesia, rose, iris, héliotrope et violette
-- Notes de fond : vétiver, civette, cassis, musc, bois de santal, cèdre, ambre, fève tonka et vanille.
 - Notes de tête : coriandre, fleur doranger, cassis, cassia, prune, mandarine et pêche
+- Notes de fond : vétiver, civette, cassis, musc, bois de santal, cèdre, ambre, fève tonka et vanille.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09QB4RKH2{{</world>}}

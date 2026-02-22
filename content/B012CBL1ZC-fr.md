@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EFFICACITÉ PROUVÉE : Sa texture gel non grasse et transparente permet une application discrète, même sous le maquillage. Non comédogène et hypoallergénique, il respecte léquilibre cutané tout en offrant une efficacité ciblée.
-- GEL CIBLÉ ANTI-IMPERFECTIONS POUR UNE PEAU NETTE : Le Sebiaclear Cicapeel de SVR est un gel frais concentré qui agit localement pour éliminer rapidement boutons et points noirs. Idéal pour les peaux grasses à tendance acnéique, il assèche les imperfections en 24h tout en prévenant lapparition de marques résiduelles.
-- À VOS CÔTÉS, POUR UNE BEAUTÉ ENGAGÉE : Chez SVR, depuis 1962, nous plaçons l’éthique, la santé et l’environnement au cœur de nos engagements. Chaque jour, nous innovons pour vous offrir des soins dermocosmétiques clean, sûrs, efficaces et formulés sans ingrédients controversés, dans le respect de votre peau et de la planète.
 - RÉSULTATS VISIBLES DÈS 24H : Grâce à son action rapide, les utilisateurs constatent une diminution significative des imperfections en seulement 24 heures. Les pores sont resserrés, la peau est plus lisse et les marques atténuées.
+- À VOS CÔTÉS, POUR UNE BEAUTÉ ENGAGÉE : Chez SVR, depuis 1962, nous plaçons l’éthique, la santé et l’environnement au cœur de nos engagements. Chaque jour, nous innovons pour vous offrir des soins dermocosmétiques clean, sûrs, efficaces et formulés sans ingrédients controversés, dans le respect de votre peau et de la planète.
+- GEL CIBLÉ ANTI-IMPERFECTIONS POUR UNE PEAU NETTE : Le Sebiaclear Cicapeel de SVR est un gel frais concentré qui agit localement pour éliminer rapidement boutons et points noirs. Idéal pour les peaux grasses à tendance acnéique, il assèche les imperfections en 24h tout en prévenant lapparition de marques résiduelles.
 - FORMULE DERMATOLOGIQUE HAUTE TOLÉRANCE : Enrichi en Gluconolactone (14%) et Acide Salicylique, ce soin exfolie en douceur, désincruste les pores et régule lexcès de sébum. Sa composition sans AHA agressifs et sans allergènes convient même aux peaux sensibles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

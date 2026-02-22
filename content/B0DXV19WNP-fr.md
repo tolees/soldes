@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Instructions étape par étape: Scanner le code QR dans la boîte Il est livré avec des instructions détaillées et simples pour vous guider dans lassemblage des lumières étape par étape.
 - Service après-vente: Si vous rencontrez des problèmes ou des difficultés avec le produit, nhésitez pas à nous contacter. Nous serons toujours là pour vous aider.
-- Choix de cadeau sympa: Ce kit déclairage éclairerait votre ensemble Lego, ce qui en fait un excellent cadeau danniversaire, un cadeau de vacances pour les enfants ou tout amateur de modélisme.
-- Ensemble déclairage LED UNIQUEMENT: Veuillez noter que seul le kit déclairage est fourni. Tous les ensembles LEGO montrés dans les images et les vidéos ne sont pas inclus.
 - Excellent ajout à votre ensemble Lego: Ce kit de lumière LED est spécialement conçu pour le modèle de blocs de construction 42204 Technic Fast and Furious Toyota Supra MK4 modèle de blocs de construction.
+- Ensemble déclairage LED UNIQUEMENT: Veuillez noter que seul le kit déclairage est fourni. Tous les ensembles LEGO montrés dans les images et les vidéos ne sont pas inclus.
+- Choix de cadeau sympa: Ce kit déclairage éclairerait votre ensemble Lego, ce qui en fait un excellent cadeau danniversaire, un cadeau de vacances pour les enfants ou tout amateur de modélisme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXV19WNP{{</world>}}

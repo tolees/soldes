@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- reportage
 - architecture
 - paysage
+- reportage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2ZKD5NM{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRODUIT DURABLE SOUS GARANTIE : son revêtement a été conçu à partir de matières recyclées post-consommation et son emballage est dépourvu de matériau plastique. Il est couvert par une garantie 2 ans et par la GSLMC Belkin (2 000 € max.).
-- ANGLES DE VUE AJUSTABLES POUR LIPHONE : cette station de recharge 3-en-1 a été conçue pour prendre en charge les modes portrait et paysage. Vous pouvez incliner la tête du chargeur de 0° à 90° pour ajuster langle de vue de votre iPhone.
 - MODE VEILLE : les utilisateurs Apple peuvent profiter de la fonction StandBy sur leur smartphone. Posez-le sur le chargeur et ajustez langle de vue pour afficher lhorloge dans votre bureau, chambre dhôtel, etc.
-- TECHNOLOGIE QI2 ET ADAPTATEUR SECTEUR : Qi2 permet doptimiser lutilisation de lénergie électrique et de conserver la durée de vie de la batterie. Un adaptateur secteur de 36 W et un câble USB-C vers USB-C à gaine tressée (1,5 m) sont fournis.
-- VOYANT LED : le voyant LED intégré vous indique létat de recharge de votre iPhone ou de vos AirPods sur le support de recharge de 5 W.
+- ANGLES DE VUE AJUSTABLES POUR LIPHONE : cette station de recharge 3-en-1 a été conçue pour prendre en charge les modes portrait et paysage. Vous pouvez incliner la tête du chargeur de 0° à 90° pour ajuster langle de vue de votre iPhone.
 - SOLUTION DE RECHARGE 3-EN-1 : profitez dune recharge Qi2 jusquà 15 W sur votre iPhone compatible MagSafe, même sil est doté dune coque de moins de 3 mm, et dune recharge simultanée de 5 W pour vos AirPods et votre Apple Watch (tous modèles).
+- VOYANT LED : le voyant LED intégré vous indique létat de recharge de votre iPhone ou de vos AirPods sur le support de recharge de 5 W.
+- TECHNOLOGIE QI2 ET ADAPTATEUR SECTEUR : Qi2 permet doptimiser lutilisation de lénergie électrique et de conserver la durée de vie de la batterie. Un adaptateur secteur de 36 W et un câble USB-C vers USB-C à gaine tressée (1,5 m) sont fournis.
+- PRODUIT DURABLE SOUS GARANTIE : son revêtement a été conçu à partir de matières recyclées post-consommation et son emballage est dépourvu de matériau plastique. Il est couvert par une garantie 2 ans et par la GSLMC Belkin (2 000 € max.).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D2NRYCL4{{</world>}}

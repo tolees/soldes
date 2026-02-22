@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Utiliser le soin comme un shampoing, appliquer sur cuir chevelu et cheveux mouillés, puis émulsionner pour produire une mousse légère. Rincer. Utiliser le soin comme un masque, appliquer et laisser agir pendant 5 minutes. Rincer.
-- FORMULE ENRICHIE EN ACTIFS CIBLES : Ce soin 2-en-1 shampoing et masque testé sous contrôle dermatologique est enrichi en argile 6 %, le meilleur actif pour purifier et désobstruer les pores. Les résidus, la transpiration et le gras sont éliminés.
-- SOIN 2-EN-1 A LARGILE POUR CUIR CHEVELU GRAS : LArgile 2-en-1 purifiante Scalp Advanced purifie les cheveux en douceur en éliminant les impuretés et le sébum. À utiliser comme un shampoing ou comme un masque pour votre cuir chevelu gras.
 - LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- FORMULE ENRICHIE EN ACTIFS CIBLES : Ce soin 2-en-1 shampoing et masque testé sous contrôle dermatologique est enrichi en argile 6 %, le meilleur actif pour purifier et désobstruer les pores. Les résidus, la transpiration et le gras sont éliminés.
 - CUIR CHEVELU PURIFIE POUR DES CHEVEUX MOINS GRAS : Développé avec des experts du cuir chevelu, ce soin 2-en-1 Purifiant Scalp Advanced réduit la présence de sébum sur le cuir chevelu de -78 %* et apporte +24 % de volume en une application**.
+- CONSEILS DUTILISATION : Utiliser le soin comme un shampoing, appliquer sur cuir chevelu et cheveux mouillés, puis émulsionner pour produire une mousse légère. Rincer. Utiliser le soin comme un masque, appliquer et laisser agir pendant 5 minutes. Rincer.
+- SOIN 2-EN-1 A LARGILE POUR CUIR CHEVELU GRAS : LArgile 2-en-1 purifiante Scalp Advanced purifie les cheveux en douceur en éliminant les impuretés et le sébum. À utiliser comme un shampoing ou comme un masque pour votre cuir chevelu gras.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPYFK6VC{{</world>}}

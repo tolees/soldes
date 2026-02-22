@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plongez dans une expérience de combat viscérale et pulvérisez vos ennemis dans des affrontements aussi gores que dynamiques
 - Faites l’expérience de l’hommage ultime aux retro-shooters, mêlant les visuels stylés des années 90 à un gameplay modernisé
 - Dominez le champ de bataille avec la puissance de feu dévastatrice de l’arsenal des Space Marines
-- Plongez dans une expérience de combat viscérale et pulvérisez vos ennemis dans des affrontements aussi gores que dynamiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8TQ3XK3{{</world>}}

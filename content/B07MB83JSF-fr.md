@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau et à la poussière IP57 : Protection de pointe pour un nettoyage facile et une durabilité à long terme
 - Switches RGB optiques-mécaniques : Il est doté dun n-key rollover, dun anti-ghosting à 100 % et dune durée de vie de 100 millions de clics
+- Résistance à leau et à la poussière IP57 : Protection de pointe pour un nettoyage facile et une durabilité à long terme
 - Joint détanchéité en silicone et mousse damortissement : Absorbe les bruits de frappe et les échos pour une meilleure acoustique du clavier et une expérience de frappe inégalée
-- Design compact et portable : Lagencement à 97 touches est très portable et libère de lespace pour la souris. Le slot de gestion des câbles à larrière permet une installation plus soignée sur le bureau.
 - Couvercle détachable : Permet de varier lapparence et de faciliter lentretien
+- Design compact et portable : Lagencement à 97 touches est très portable et libère de lespace pour la souris. Le slot de gestion des câbles à larrière permet une installation plus soignée sur le bureau.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MB83JSF{{</world>}}

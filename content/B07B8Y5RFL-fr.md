@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Degré de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
-- Forme du talon : pas de talon
 - Chaussures Iman, un style optimal au quotidien
+- Forme du talon : pas de talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07B8Y5RFL{{</world>}}

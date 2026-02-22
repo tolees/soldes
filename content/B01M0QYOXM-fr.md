@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ▪ Bambou ;
 - ▪
-- ▪ DIMENSIONS (LxlxH) : 24.5 x 10 x 24.5 cm
 - ▪ Matière : Plastique ; Bambou
+- ▪ DIMENSIONS (LxlxH) : 24.5 x 10 x 24.5 cm
+- ▪ Bambou ;
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01M0QYOXM{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 5 To de stockage avec des vitesses de transfert allant jusquà 130 Mo/s vous offre un moyen portable de sauvegarder vos photos ; images et fichiers ; où que vos aventures vous mènent
-- Avec boîtier en aluminium haut de gamme ; amortisseurs internes et pare-chocs en caoutchouc easy grip pour une durabilité sur laquelle vous pouvez compter
 - Avec la pluie, la poussière et la résistance à la pression jusquà 450 kg; vos images irremplaçables peuvent braver les éléments lors de vos déplacements vers votre prochaine destination
+- Avec boîtier en aluminium haut de gamme ; amortisseurs internes et pare-chocs en caoutchouc easy grip pour une durabilité sur laquelle vous pouvez compter
+- Jusquà 5 To de stockage avec des vitesses de transfert allant jusquà 130 Mo/s vous offre un moyen portable de sauvegarder vos photos ; images et fichiers ; où que vos aventures vous mènent
 - La connectivité USB C vous offre un stockage plug and play avec prise en charge de Thunderbolt 3; avec un adaptateur USB C vers USB A inclus pour la compatibilité avec USB 3.0
 - Soutenu par une garantie limitée de 3 ans pour que vous sachiez que vous disposez dun stockage sur lequel vous pouvez compter sur le terrain pendant des années
 

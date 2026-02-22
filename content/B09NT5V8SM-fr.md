@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Large monture Nikon Z et grand capteur 20,9 MP au format DX
+- Viseur électronique OLED de 0,99 cm et résolution de 2360 k pixels (XGA)
 - L’adaptateur pour monture FTZ II est compatible avec environ 360 objectifs à monture F, dont 94 sont de type AF-S, AF-P ou AF-I et offrent des performances AF/AE optimales (nov 2021)
 - bague dadaptation permettant lusage doptique F (Reflex) sur les hybride Z (à monture Z)
-- Viseur électronique OLED de 0,99 cm et résolution de 2360 k pixels (XGA)
+- Large monture Nikon Z et grand capteur 20,9 MP au format DX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NT5V8SM{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jouet pour enfants LEGO Friends Le Bateau de Sauvetage en Mer permet aux enfants de 7 ans et plus qui aiment les animaux marins et le monde naturel dimaginer quils nettoient les côtes de Heartlake City
-- Comprend un jouet LEGO catamaran à construire avec un laboratoire intégré ; lorsque le catamaran passe au-dessus des déchets, les enfants les ramassent dans leurs filets et les envoient au recyclage
-- Ce jeu éducatif avec mini-poupées comprend les LEGO Friends Aliya et Nova, le capitaine de bateau Gunnar et son ami Marco, ainsi que 2 figurines de dauphins et une figurine de bébé dauphin
-- Les accessoires comprennent un filet et un bâton pour ramasser les déchets, des gilets de sauvetage, différents types de déchets, des échantillons deau, une seringue et un microscope
 - Il y a aussi un jouet de sous-marin que les enfants peuvent faire semblant de conduire afin daider Nova à ramasser des déchets au fond de locéan ou à collecter des échantillons pour les analyser
+- Ce jeu éducatif avec mini-poupées comprend les LEGO Friends Aliya et Nova, le capitaine de bateau Gunnar et son ami Marco, ainsi que 2 figurines de dauphins et une figurine de bébé dauphin
+- Comprend un jouet LEGO catamaran à construire avec un laboratoire intégré ; lorsque le catamaran passe au-dessus des déchets, les enfants les ramassent dans leurs filets et les envoient au recyclage
+- Ce jouet pour enfants LEGO Friends Le Bateau de Sauvetage en Mer permet aux enfants de 7 ans et plus qui aiment les animaux marins et le monde naturel dimaginer quils nettoient les côtes de Heartlake City
+- Les accessoires comprennent un filet et un bâton pour ramasser les déchets, des gilets de sauvetage, différents types de déchets, des échantillons deau, une seringue et un microscope
 - La partie supérieure du bateau LEGO Friends peut être retirée pour accéder à la cabine intérieure où les enfants peuvent placer les mini-poupées dans les couchettes lorsquil est temps de se reposer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ã‚GE : de 5 à 8 ans, un tablette éducative 2 en 1 avec écran couleur qui se transforme en ordinateur portable
+- VERSION : Française
 - ACTIVITÃ‰S : 80 activités réparties en 27 catégories pour découvrir le dessin, les lettres, le son des lettres, lorthographe, le vocabulaire, les chiffres, le calcul, la musique, les sciences, la logique et bien plus encore
 - APPRENTISSAGES : Français, anglais, mathématiques, sciences, créativité, logique 200 mots de vocabulaire, les lettres, leurs sons et 3 niveaux de difficulté permettent à lâ€enfant dâ€évoluer à son rythme
-- VERSION : Française
+- Ã‚GE : de 5 à 8 ans, un tablette éducative 2 en 1 avec écran couleur qui se transforme en ordinateur portable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JE1NC38{{</world>}}

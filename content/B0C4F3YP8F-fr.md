@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quad HD 2560 x 1440 pixels 16:9
-- Jeux IPS 27 pouces
 - E 65 W
 - 165 Hz 1 ms 400 cd/m² 1000:1
+- Jeux IPS 27 pouces
+- Quad HD 2560 x 1440 pixels 16:9
 - Technologie AMD FreeSync sans flash
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

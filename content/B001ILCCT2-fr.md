@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ouverture de clé: 24 mm
-- Longueur : 78 mm
-- Avec réception de goupille de blocage et joint en caoutchouc
-- Traitement de surface: phosphaté
-- Couple max. 682 Nm
 - Empreinte: Six pans
+- Couple max. 682 Nm
+- Avec réception de goupille de blocage et joint en caoutchouc
+- Longueur : 78 mm
+- Traitement de surface: phosphaté
+- Ouverture de clé: 24 mm
 - Convient pour cliquet et clé à choc
 - En acier chrome-molybdène
 

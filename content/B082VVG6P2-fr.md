@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une solution de repas nomade (pratique & rapide), une ouverture facile et prêt en 2 min au micro-onde
 - Viande 100% origine France
 - Nutri-score A
+- Une solution de repas nomade (pratique & rapide), une ouverture facile et prêt en 2 min au micro-onde
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082VVG6P2{{</world>}}

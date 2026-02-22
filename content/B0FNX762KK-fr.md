@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode Mission : En plus des parties de chat classiques, relève des défis dans le Mode Mission, où tu devras remplir des conditions précises pour terminer chaque niveau. Le jeu compte 70 missions au total — 35 en tant que Fuyard et 35 en tant que Chasseur — avec des trophées Or, Argent ou Bronze à gagner selon ta performance. Tente le score parfait dans chaque mission
 - Des compétences magiques uniques : Chaque personnage possède ses propres talents ; certains sont parfaits pour se cacher, d’autres pour s’échapper, aider les coéquipiers ou poursuivre les adversaires. À mesure que ton personnage monte en niveau, sa compétence magique évolue elle aussi, ajoutant de la profondeur et de la rejouabilité à chaque partie
-- Direction la boutique pour habiller tes personnages avec style ! Essaie des lunettes tendance sur Hello Kitty ou habille My Melody d’une robe étincelante. Amuse-toi à mélanger les styles et à créer le look parfait pour chaque personnage
-- Des parties de chat magiques et endiablées avec 6 Fuyards et 2 Chasseurs dans chaque match ! Chaque joueur incarne un personnage dans l’une des deux équipes
+- Mode Mission : En plus des parties de chat classiques, relève des défis dans le Mode Mission, où tu devras remplir des conditions précises pour terminer chaque niveau. Le jeu compte 70 missions au total — 35 en tant que Fuyard et 35 en tant que Chasseur — avec des trophées Or, Argent ou Bronze à gagner selon ta performance. Tente le score parfait dans chaque mission
 - Joue avec tes amis et ta famille : en local ou en coopératif
+- Des parties de chat magiques et endiablées avec 6 Fuyards et 2 Chasseurs dans chaque match ! Chaque joueur incarne un personnage dans l’une des deux équipes
+- Direction la boutique pour habiller tes personnages avec style ! Essaie des lunettes tendance sur Hello Kitty ou habille My Melody d’une robe étincelante. Amuse-toi à mélanger les styles et à créer le look parfait pour chaque personnage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FNX762KK{{</world>}}

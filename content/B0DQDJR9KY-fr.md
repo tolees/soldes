@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOUS DEVEZ TOUT RÉCUPÉRER : Trouvez tous les ennemis potentiels, récupérez tout ce qui vous a été pris, vengez-vous et retrouvez lhonneur et la gloire qui sont vôtres.
 - VOUS DEVEZ SURVIVRE : Survivez aux attaques incessantes des forces impériales, déjouez des conspirations ayant pour but de tuer Khazan et résistez aux environnements impitoyables dans lesquels vous évoluerez.
-- The First Berserker Khazan est un jeu de rôle et daction hardcore. Découvrez un mélange entre le style hack and slash de DNF et de laction hardcore dans les combats épiques que propose Khazan
-- The First Berserker Khazan est un jeu qui adapte lunivers de DNF et sintéresse à lhistoire dOzma et Khazan. Vous incarnerez le héros Khazan, lancêtre de tous les Slayers et celui qui a vaincu le Hismar le Dragon Berserk, cherchant à découvrir la vérité sur sa chute au sein de lempire.
 - VOUS DEVEZ VOUS SOUVENIR : Vous étiez un héros dans lHistoire dArad, un personnage unique. Souvenez-vous de vos compétences de combat apprises au prix de vos efforts et annihilez les ennemis qui se dressent sur votre chemin et salissent votre nom.
+- VOUS DEVEZ TOUT RÉCUPÉRER : Trouvez tous les ennemis potentiels, récupérez tout ce qui vous a été pris, vengez-vous et retrouvez lhonneur et la gloire qui sont vôtres.
+- The First Berserker Khazan est un jeu qui adapte lunivers de DNF et sintéresse à lhistoire dOzma et Khazan. Vous incarnerez le héros Khazan, lancêtre de tous les Slayers et celui qui a vaincu le Hismar le Dragon Berserk, cherchant à découvrir la vérité sur sa chute au sein de lempire.
+- The First Berserker Khazan est un jeu de rôle et daction hardcore. Découvrez un mélange entre le style hack and slash de DNF et de laction hardcore dans les combats épiques que propose Khazan
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQDJR9KY{{</world>}}

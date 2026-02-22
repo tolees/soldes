@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Partez à laventure dans un magnifique monde en 2D illustré avec un charme et des détails captivants. Des cultes de sorciers excentriques aux créatures magiques qui parcourent le pays, plongez dans un monde plein dhumour et démerveillement. Chaque pixel a été créé avec amour et soin pour donner vie à cet univers unique.
-- Folly Of The Wizards est un jeu daction roguelike en 2D qui vous met dans la peau dun apprenti sorcier maladroit. Rejoignez une secte de sorciers loufoques et utilisez des sorts uniques pour vaincre vos ennemis, explorer des donjons générés de manière procédurale et sauver le monde du chaos.
-- Chaque fois que vous vous aventurez dans Folly Of The Wizards, de nouvelles expériences et relations vous attendent. Avec plus de 100 objets à trouver, plus de 10 régions à explorer et de nouvelles relations à construire, votre expérience ne sera jamais la même.
 - Mais attention : le destin du monde repose sur vos épaules, et la moindre décision peut avoir un impact énorme. Avec ses dessins charmants, ses personnages excentriques et son gameplay imprévisible, Folly of the Wizards est laventure parfaite pour tous ceux qui aiment lhumour, la magie et le chaos.
+- Folly Of The Wizards est un jeu daction roguelike en 2D qui vous met dans la peau dun apprenti sorcier maladroit. Rejoignez une secte de sorciers loufoques et utilisez des sorts uniques pour vaincre vos ennemis, explorer des donjons générés de manière procédurale et sauver le monde du chaos.
 - Dans Folly of the Wizards, vos compétences sociales sont tout aussi importantes que vos talents de sorcier. Allez-vous vous lier damitié avec les sorciers délite et vous faire de puissants alliés, ou allez-vous vous opposer à eux et subir leur colère ? Chaque décision et chaque conversation vous permettent de façonner vos relations et de modifier le cours de votre aventure.
+- Partez à laventure dans un magnifique monde en 2D illustré avec un charme et des détails captivants. Des cultes de sorciers excentriques aux créatures magiques qui parcourent le pays, plongez dans un monde plein dhumour et démerveillement. Chaque pixel a été créé avec amour et soin pour donner vie à cet univers unique.
+- Chaque fois que vous vous aventurez dans Folly Of The Wizards, de nouvelles expériences et relations vous attendent. Avec plus de 100 objets à trouver, plus de 10 régions à explorer et de nouvelles relations à construire, votre expérience ne sera jamais la même.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F6TWGR7V{{</world>}}

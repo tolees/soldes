@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau latéral TG sans vis et sans outil : le panneau latéral en verre trempé est fixé avec des broches pour un retrait facile sans utiliser doutils.
-- Deux ventilateurs ARGB de 200 mm : les ventilateurs ARGB emblématiques de la série HAF de 200 mm déplacent de grands volumes dair silencieusement et efficacement en raison de leur grande taille.
-- Ventilateur GPU rotatif : un ventilateur rotatif de 120 mm positionné sur le dessus de la cage du disque dur, fournit un refroidissement GPU dédié pour garantir une performance maximale.
 - Prise en charge USB 3.2 Gen 2 Type C : les ports USB 3.2 Gen 2 Type C intégrés dans le panneau dE/S permettent une transmission de données polyvalente et simplifiée.
+- Deux ventilateurs ARGB de 200 mm : les ventilateurs ARGB emblématiques de la série HAF de 200 mm déplacent de grands volumes dair silencieusement et efficacement en raison de leur grande taille.
 - Panneau avant en maille : les grandes entrées filtrées favorisent un flux dair élevé, gardant les composants internes fonctionnant à une température optimale.
+- Ventilateur GPU rotatif : un ventilateur rotatif de 120 mm positionné sur le dessus de la cage du disque dur, fournit un refroidissement GPU dédié pour garantir une performance maximale.
+- Panneau latéral TG sans vis et sans outil : le panneau latéral en verre trempé est fixé avec des broches pour un retrait facile sans utiliser doutils.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09J5DSD5F{{</world>}}

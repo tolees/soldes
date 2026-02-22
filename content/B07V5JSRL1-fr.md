@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche Napoléon avec fermeture éclair YKK et trou pour écouteurs
-- Capuchon ajustable avec cordon de serrage élastique
 - Double rabat avant en tissu principal
+- Poche Napoléon avec fermeture éclair YKK et trou pour écouteurs
 - Capuchon compressible dans le col
+- Capuchon ajustable avec cordon de serrage élastique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07V5JSRL1{{</world>}}

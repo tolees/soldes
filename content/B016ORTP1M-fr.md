@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Compatible avec iMac Pro UDIMM uniquement
 - Prise en charge de XMP 2.0 pour un overclocking automatique et fluide
+- Chaque module LPX Vengeance est assemblé avec un dissipateur de chaleur en aluminium pour une dissipation plus rapide de la chaleur. Latence testée: 14-16-16-31
 - La hauteur du module Vengeance LPX est soigneusement conçue pour sadapter aux boîtiers de petite taille ou les systèmes dans lesquels lespace est compté
 - Vengeance LPX est optimisé et testé pour la compatibilité avec les dernières cartes mères Intel X99, 100 et 200 et offre des fréquences plus élevées, une plus grande bande passante et une faible consommation dénergie
 - Disponible en plusieurs couleurs pour correspondre à votre carte mère, à vos composants ou simplement à votre style
-- Chaque module LPX Vengeance est assemblé avec un dissipateur de chaleur en aluminium pour une dissipation plus rapide de la chaleur. Latence testée: 14-16-16-31
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B016ORTP1M{{</world>}}

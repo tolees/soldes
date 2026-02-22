@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Grande Aventure Lego [Combo Blu-ray 3D + Blu-ray + Copie digitale]'
-date: 2026-02-21 11:25:35
+date: 2026-02-22 13:14:41
 image: 'https://m.media-amazon.com/images/I/51UeSZ5XCUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00MHX840G/?tag=tolees0d-21'
 descuento: '29.36'
-average: '7.13275862068965'
+average: '7.05903225806451'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissant processeur octa-core Jusquà 1 To de stockage extensible*
-- Jusquà 2,0 GHz Vitesse du processeur CPU
 - Batterie massive de 5000 mAh (typ)* Jusquà 23 heures de streaming vidéo
-- Écran fluide de 6,74 pouces à 90 Hz
+- Jusquà 2,0 GHz Vitesse du processeur CPU
+- Puissant processeur octa-core Jusquà 1 To de stockage extensible*
 - Prise en charge de la charge rapide 18W* 5 minutes pour 5 heures de lecture de musique
+- Écran fluide de 6,74 pouces à 90 Hz
 - Caméra triple AI de 50 MP
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

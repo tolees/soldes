@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Réservoir deau amovible dune capacité de 700 ml. Convient aux tasses de différentes tailles.
 - Bac dégouttage amovible pour faciliter un nettoyage rapide. Opération simple à une touche : préréglage de 1 et 2 tasses.
 - Sa puissante pompe à pression dotée de la technologie ForceAroma de 20 bars permet dobtenir la meilleure crème et un arôme maximal dans chaque café.
-- Cafetière expresso au design élégant et très compact pour les amateurs de bon café. Profitez dun café extraordinaire avec une puissance maximale de 1200 W. Avec thermobloc.
-- Réservoir deau amovible dune capacité de 700 ml. Convient aux tasses de différentes tailles.
 - Grande polyvalence pour sadapter à tous les goûts, adapté au café moulu, Dolce Gusto, Nespresso, dosette ESE et Senseo.
+- Cafetière expresso au design élégant et très compact pour les amateurs de bon café. Profitez dun café extraordinaire avec une puissance maximale de 1200 W. Avec thermobloc.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPZBS138{{</world>}}

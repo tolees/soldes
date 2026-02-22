@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTRÔLE ABSOLU AVEC FORCE FEEDBACK : Le volant MWH-RSX est équipé de la technologie Force Feedback et d’un puissant moteur double de 3,2 Nm avec une rotation réglable jusqu’à 1080° ; Il comprend également 14 boutons personnalisables et 4 palettes à réponse immédiate, conçues pour un contrôle total sans lâcher le volant
 - MATÉRIAUX PREMIUM : Le volant MWH-RSX avec pédales présente un design robuste et élégant avec une jante en aluminium anodisé, une prise en main en texture suédée et des palettes de changement de vitesse métalliques ultra précises ; Conçu pour les pilotes exigeants à la recherche d’une expérience de simracing
-- PÉDALES DE COMPÉTITION : Conduisez avec une précision professionnelle grâce au volant MWH-RSX de Mars Gaming et à son ensemble de 3 pédales haute performance : accélérateur, frein et embrayage ; Avec une réponse progressive à la pression et une surface étendue, elles sont calibrées pour simuler le comportement réel d’une voiture
 - LEVIER DE VITESSE EN H : Vivez un réalisme supérieur avec le volant PC MWH-RSX et son levier de vitesses en H intégré, compatible avec jusqu’à 12 vitesses, parfait pour les courses comme pour les simulateurs de camion
 - APPLICATION DE PERSONNALISATION ET COMPATIBILITÉ MULTIPLATEFORME : Configurez le volant MWH-RSX avec l’application exclusive pour Android et iOS : calibrez les pédales, ajustez la force du retour, réassignez chaque bouton et définissez l’angle de rotation entre 90° et 1080° ; Compatible avec PC, PS4 et Xbox Series S/X; Remarque; Certains jeux peuvent nécessiter une configuration supplémentaire ou n’offrir qu’une compatibilité partielle; Consultez la liste des jeux compatibles en téléchargeant le manuel disponible sur notre site web
-- CONTRÔLE ABSOLU AVEC FORCE FEEDBACK : Le volant MWH-RSX est équipé de la technologie Force Feedback et d’un puissant moteur double de 3,2 Nm avec une rotation réglable jusqu’à 1080° ; Il comprend également 14 boutons personnalisables et 4 palettes à réponse immédiate, conçues pour un contrôle total sans lâcher le volant
+- PÉDALES DE COMPÉTITION : Conduisez avec une précision professionnelle grâce au volant MWH-RSX de Mars Gaming et à son ensemble de 3 pédales haute performance : accélérateur, frein et embrayage ; Avec une réponse progressive à la pression et une surface étendue, elles sont calibrées pour simuler le comportement réel d’une voiture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4XQ6D1L{{</world>}}

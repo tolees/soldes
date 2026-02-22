@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des possibilités de jeu infinies – Les enfants peuvent imaginer des histoires dans 3 lieux de vie différents : une maison moderne en bord de plage, un élégant immeuble urbain de 3 étages avec terrasse sur le toit et un chalet dans la forêt
-- 2 minifigurines – Le set inclut 2 minifigurines avec des tenues interchangeables pour que les enfants filles et garçons de 9 ans et plus puissent inventer des scénarios et jeu de rôle pour jouer seul ou entre amis
-- 3 lieux de vie dans un même set – Le set LEGO Creator La maison moderne invite les garçons et les filles dès 9 ans à construire et reconstruire 3 lieux de vie détaillés avec les mêmes briques, pour un jeu de construction modulable et créatif
 - Enrichir le jeu 3-en-1 – Les enfants multiplient les possibilités de jeu en combinant les sets de la gamme LEGO Creator 3-en-1 (vendus séparément), qui inclut des véhicules, des animaux et des astronautes
-- Jouets LEGO Creator – Chaque set 3-en-1 permet aux enfants de s’amuser pendant des heures en construisant 3 modèles différents avec les mêmes briques, un jeu éducatif idéal pour les enfants, filles et garçons de 9 ans et plus
+- 2 minifigurines – Le set inclut 2 minifigurines avec des tenues interchangeables pour que les enfants filles et garçons de 9 ans et plus puissent inventer des scénarios et jeu de rôle pour jouer seul ou entre amis
 - Cadeaux pour les fans de la gamme LEGO Creator – Ce set LEGO Creator 3-en-1 peut être offert à des enfants qui aiment construire et inventer des histoires dans des lieux de vie détaillés, et qui souhaitent avoir de nombreuses possibilités de jeu
+- Des possibilités de jeu infinies – Les enfants peuvent imaginer des histoires dans 3 lieux de vie différents : une maison moderne en bord de plage, un élégant immeuble urbain de 3 étages avec terrasse sur le toit et un chalet dans la forêt
+- Jouets LEGO Creator – Chaque set 3-en-1 permet aux enfants de s’amuser pendant des heures en construisant 3 modèles différents avec les mêmes briques, un jeu éducatif idéal pour les enfants, filles et garçons de 9 ans et plus
+- 3 lieux de vie dans un même set – Le set LEGO Creator La maison moderne invite les garçons et les filles dès 9 ans à construire et reconstruire 3 lieux de vie détaillés avec les mêmes briques, pour un jeu de construction modulable et créatif
 - Objets décoratifs – Lorsque les filles et les garçons ont terminé de jouer, les 3 modèles LEGO peuvent être exposés seuls sur une étagère ou une table de chevet dans une chambre d’enfant pour une décoration personnalisée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

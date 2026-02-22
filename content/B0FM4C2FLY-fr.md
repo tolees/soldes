@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fais la course avec des véhicules et personnages légendaires de Hot Wheels Let’s Race - Choisis parmi une formation de feu d’autos Hot Wheels favorites des amateurs. Chacune est dotée d’un maniement, de capacités et d’un flair visuel distincts - depuis la GT-Scorcher et Super Twin Mill à la Roger Dodger et Duck N’ Roll.
-- Course d’arcade conviviale - Fais l’expérience de commandes rapides, fluides et conviviables pour les enfants avec une jouabilité axée sur le dérapage conçue pour une excitante compétition tête-à-tête. Chaque auto propose une capacité de signature unique à ce véhicule!
 - Multiples modes de jeu - Plonge dans cinq modes de jouabilité excitants : Camp de course, Championnat de coupe, Essais de vitesse, Constructeur de piste et Course libre.
 - Progression et déblocables - Mérite des badges de feu pour débloquer de nouvelles autos, décalcomanies et pièces de piste dans l’Ultimate Garage. Personnalise ton auto Hot Wheels. Présente-la sur la piste.
 - 12 pistes uniques + Mode Constructeur de piste - Fais un zoom sur 12 pistes folles meilleures-dans-le-genre basées sur la série télé, comme Pizza Pursuit et Bone Shaker Haunt—puis construit tes propres pistes de rêve dans le mode Track Builder.
+- Course d’arcade conviviale - Fais l’expérience de commandes rapides, fluides et conviviables pour les enfants avec une jouabilité axée sur le dérapage conçue pour une excitante compétition tête-à-tête. Chaque auto propose une capacité de signature unique à ce véhicule!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FM4C2FLY{{</world>}}

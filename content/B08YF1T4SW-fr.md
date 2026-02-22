@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - La SRS-XB13 est compacte, légère et facile à transporter Elle est dotée dune dragonne ajustable, détachable et très pratique pour transporter ou accrocher votre enceinte sans fil où vous le souhaitez Elle est disponible en 6 coloris fun et acidulés
 - Restez connecté et profitez dappels mains libres de haute qualité avec votre SRS-XB13
-- Reproduisez un son surround stéréo large en connectant ensemble deux enceintes SRS-XB13 EXTRA BASS
 - Emmenez-la partout Cette enceinte portable est étanche à leau et à la poussière (IP67) Elle a même une protection contre les rayons UV Avec une autonomie allant jusquà 16 heures et un indicateur de niveau de batterie sur votre téléphone, vous navez pas à vous soucier de larrêt soudain de votre musique
 - Profitez dun son surround puissant, de basses profondes et percutantes et de voix claires, grâce au processeur de diffusion sonore avec EXTRA BASS, un haut-parleur large bande et un radiateur passif
+- Reproduisez un son surround stéréo large en connectant ensemble deux enceintes SRS-XB13 EXTRA BASS
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08YF1T4SW{{</world>}}

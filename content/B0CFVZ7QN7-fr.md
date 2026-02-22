@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un vaisseau cargo futuriste à construire – Les jeunes fans de l’espace de 10 ans et plus font le plein de découvertes en construisant et en jouant avec ce jouet de construction Le Vaisseau Spatial Cargo VTOL LT81
-- Système de verrouillage – Ce set inclut un système de verrouillage spécial qui permet aux enfants de connecter ce modèle à d’autres jeux de lespace LEGO compatibles (vendus séparément), pour multiplier les options de jeu créatif
-- Initiation à l’ingénierie – Les jouets de construction LEGO Technic sont dotés de mouvements et de mécanismes réalistes et permettent aux jeunes constructeurs de se familiariser avec l’univers de l’ingénierie de manière abordable et concrète
 - Transport de charges – Inclut un mini rover spatial qui peut être placé dans la capsule et hissé sous le vaisseau spatial à l’aide de la pince extensible
 - Jeu sur le thème de l’espace – Ce set est une idée de cadeau amusante pour les enfants dès 10 ans qui s’intéressent aux voyages dans l’espace et aux engins volants futuristes et aux véhicules jouet
-- Poignée pour tenir le vaisseau et moteurs rotatifs – Les jeunes explorateurs de l’espace peuvent saisir la poignée, faire tourner les moteurs et admirer la fonction correction d’assiette du cockpit en effectuant différentes manœuvres
 - Décollage vertical et train d’atterrissage – Les enfants peuvent sortir et rentrer le train d’atterrissage, mais aussi explorer les possibilités et les défis de la vie et du travail sur différentes planètes, via le jeu créatif et l’imagination
+- Initiation à l’ingénierie – Les jouets de construction LEGO Technic sont dotés de mouvements et de mécanismes réalistes et permettent aux jeunes constructeurs de se familiariser avec l’univers de l’ingénierie de manière abordable et concrète
+- Un vaisseau cargo futuriste à construire – Les jeunes fans de l’espace de 10 ans et plus font le plein de découvertes en construisant et en jouant avec ce jouet de construction Le Vaisseau Spatial Cargo VTOL LT81
+- Système de verrouillage – Ce set inclut un système de verrouillage spécial qui permet aux enfants de connecter ce modèle à d’autres jeux de lespace LEGO compatibles (vendus séparément), pour multiplier les options de jeu créatif
+- Poignée pour tenir le vaisseau et moteurs rotatifs – Les jeunes explorateurs de l’espace peuvent saisir la poignée, faire tourner les moteurs et admirer la fonction correction d’assiette du cockpit en effectuant différentes manœuvres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ7QN7{{</world>}}

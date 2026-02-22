@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tissu large pour toutes les postures grâce à la longueur généreuse du centre du dos de 72,4 cm (28,5 pouces).
-- Contenu: 1x Columbia Polo homme, Utilizer, Matière: 100% polyester, Couleur: Collegiate Navy, Taille: XXL
 - Technologie Omni-Wick pour une gestion efficace de lhumidité, technologie Omni-Shade pour la protection solaire.
+- Contenu: 1x Columbia Polo homme, Utilizer, Matière: 100% polyester, Couleur: Collegiate Navy, Taille: XXL
 - Le polo Sunny-day avec son tissu perfectionné évacuant la transpiration et son UPF 30 intégré est idéal pour les journées chaudes sur terre ou sur leau.
 - Possibilité douvrir le col pour une protection solaire supplémentaire au niveau du cou, Patte de boutonnage à trois boutons pour un col plus ouvert ou plus fermé
 

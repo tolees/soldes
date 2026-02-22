@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel : Plastique
-- panier tournant et cuve amovible
 - Capacité en huile  : 1,2/1,5 litres
+- Matériel : Plastique
 - Système de nettoyage facile, cuve amovible, range cordon, thermostat réglable, couvercle amovible, filtre ---
 - friteuse
+- 1kg et 1,2L dhuile
 - Puissance  : 1800 Watts
 - Capacité alimentation maximum  : 1.2 kg
-- 1kg et 1,2L dhuile
+- panier tournant et cuve amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CDJ63K2{{</world>}}

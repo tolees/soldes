@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Descriptif produit:Puzzle 3 x 49 pièces.Dimensions puzzle : 18 x 18 cm
 - Âges dès 5 ans
 - Dimensions: 18 x 18 cm
+- Descriptif produit:Puzzle 3 x 49 pièces.Dimensions puzzle : 18 x 18 cm
 - Nombre de pièces: 3 x 49
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

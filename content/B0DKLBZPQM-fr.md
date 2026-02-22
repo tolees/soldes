@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ARTICULATIONS ET DESIGN PREMIUM : Les fans de Star Wars peuvent exposer cette figurine de 9,5 cm dans leur collection, avec sa déco inspirée de la série ainsi que plusieurs points darticulation
 - ACCESSOIRES INSPIRÉS DU PERSONNAGE : La figurine inclut 4 accessoires pour des poses dynamiques sur létagère
-- CRÉER SA PROPRE COLLECTION CLONE WARS : On peut recréer ses scènes préférées avec dautres figurines Vintage Collection de la galaxie Star Wars (vendues séparément ; dans la limite des stocks)
 - STAR WARS: THE CLONE WARS : Cette figurine à léchelle 9,5 cm est inspirée du célèbre dessin animé. Cest un super cadeau pour les fans et les collectionneurs de Star Wars, à partir de 4 ans
+- ARTICULATIONS ET DESIGN PREMIUM : Les fans de Star Wars peuvent exposer cette figurine de 9,5 cm dans leur collection, avec sa déco inspirée de la série ainsi que plusieurs points darticulation
+- CRÉER SA PROPRE COLLECTION CLONE WARS : On peut recréer ses scènes préférées avec dautres figurines Vintage Collection de la galaxie Star Wars (vendues séparément ; dans la limite des stocks)
 - EMBALLAGE INSPIRÉ DES PACKS SOUS BLISTER DE KENNER : Rappelant les jouets vintage de collection originaux des années 70 et 80, cette figurine est vendue dans un emballage inspiré des packs classiques de Kenner avec un numéro de collection VC unique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

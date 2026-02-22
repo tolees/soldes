@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Multi-surface : En changeant de buse, le nettoyeur haute pression peut passer de lélimination de la saleté et de la mousse sur les sols, au lavage de voiture ou au nettoyage des vitres.
-- Nettoyage dextérieur : Nettoyer les sols et les murs de votre jardin, façade, balcon, terrasse, les joints de carrelage, voiture, vélo, moto ou mobilier dextérieur.
-- Nettoyeur haute pression NILFISK : Le Core 130 nettoie efficacement les surfaces sensibles et les zones difficiles grâce à la possibilité dajuster la pression avec la commande de puissance. Cest une petite machine portable très performante.
 - Caractéristiques : Pression de 130 bars, vitesse de nettoyage de 35 m²/h, débit deau de 462 l/h, tuyau ultraflex de 6 m et lance rotative.
+- Nettoyeur haute pression NILFISK : Le Core 130 nettoie efficacement les surfaces sensibles et les zones difficiles grâce à la possibilité dajuster la pression avec la commande de puissance. Cest une petite machine portable très performante.
+- Nettoyage dextérieur : Nettoyer les sols et les murs de votre jardin, façade, balcon, terrasse, les joints de carrelage, voiture, vélo, moto ou mobilier dextérieur.
+- Multi-surface : En changeant de buse, le nettoyeur haute pression peut passer de lélimination de la saleté et de la mousse sur les sols, au lavage de voiture ou au nettoyage des vitres.
 - Accessoires : Il comprend un pulvérisateur de mousse, pistolet G1, buse douce et buse à puissance élevée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

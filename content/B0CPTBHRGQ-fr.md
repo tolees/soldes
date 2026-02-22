@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour la première fois depuis 15 ans, un tout nouvel épisode de la série Mana approche
 - Découvrez un gameplay plein daction et explorez de magnifiques décors semi-ouverts en 3D
 - Plongez dans une nouvelle aventure inédite aux côtés de Val
+- Pour la première fois depuis 15 ans, un tout nouvel épisode de la série Mana approche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CPTBHRGQ{{</world>}}

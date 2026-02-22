@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - DES VIDEOS AU RENDU PROFESSIONNEL : réglage spécifique pour la présentation de produits pour des vidéos de démonstrations produits parfaites , bouton de changement du bokeh pour facilement flouter ou non larrière plan.
 - REGLAGES EFFET PEAU DOUCE : des tonalités de peau naturelles et optimisation de lexposition du visage.
 - TECHNOLOGIE SONY DAUTOFOCUS en temps réel sur lœil ,même en mode vidéo 4K.
-- ENREGISTREMENT DU SON HAUTE QUALITE : micro directionnel 3-capsules intégré et pare-vent founi avec lappareil
 - CONCU POUR LE VLOGGING : écran LCD orientable, voyant denregistrement pour les vidéos face caméra et grip (non fourni sauf FNAC )pour une prise en main adaptée.
+- ENREGISTREMENT DU SON HAUTE QUALITE : micro directionnel 3-capsules intégré et pare-vent founi avec lappareil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DPN7CGR6{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pendant que l’un s’amusera à faire du toboggan, l’autre pourra s’imaginer mille et une histoires sur le porche de la cabane ! Vos petits pourront aussi s’adonner à une partie de cache-cache grâce aux 2 volets coulissants, qui leur permettront de gagner la partie !
-- A partir de 2 ans - Fabrication française. Contient du plastique recyclé.
 - Pour encore plus de fun vous pouvez ajouter une sonnette électronique (non incluse) : vos enfants pourront, alors, être prévenus de l’arrivée de leurs petits copains ! Cette cabane deviendra vite leur lieu préféré pour s’amuser tout au long de la journée !
 - La smoby life maison pilotis est idéale pour s’amuser avec ses copains et développer son imagination ! Comme de véritables aventuriers, vos enfants pourront rejoindre leur cabane grâce à l’échelle. Placée sur une plateforme de 70cm de haut, la maison offre une vue dégagée sur le jardin. Grâce au portillon et aux 3 fenêtres situées sur les différentes façades, vos petits aventuriers auront un œil sur tout !
+- A partir de 2 ans - Fabrication française. Contient du plastique recyclé.
 - En plus d’être fabriquée avec des matériaux solides, la maison est traitée anti-UV afin de garantir sa robustesse et la durabilité de ses couleurs dans le temps.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

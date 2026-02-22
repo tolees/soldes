@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Développé par LG, le processeur α5 AI 4K Gen7 est le cerveau de votre téléviseur. Les qualités d’image et de son sont optimisées : les couleurs sont plus riches, les scènes plus détaillées et les sons plus nets.
 - Accédez aux nouveaux standards ALLM et eARC pour une expérience gaming et son incomparable.
-- Avec votre voix, utilisez LG ThinQ pour changer les paramètres et obtenir des recommandations, ainsi qu’Alexa pour contrôler vos objets domotiques compatibles. De plus, les TV LG sont compatibles avec Google Home et Apple Home pour utiliser vos appareils connectés préférés.
+- Développé par LG, le processeur α5 AI 4K Gen7 est le cerveau de votre téléviseur. Les qualités d’image et de son sont optimisées : les couleurs sont plus riches, les scènes plus détaillées et les sons plus nets.
 - Grâce à la technologie Nanocell de LG, le téléviseur reproduit des couleurs pures en appliquant des nanoparticules denviron 1 nm qui filtrent les couleurs ternes afin daméliorer leur pureté, et ainsi offrir une expérience visuelle exceptionnelle.
+- Avec votre voix, utilisez LG ThinQ pour changer les paramètres et obtenir des recommandations, ainsi qu’Alexa pour contrôler vos objets domotiques compatibles. De plus, les TV LG sont compatibles avec Google Home et Apple Home pour utiliser vos appareils connectés préférés.
 - Trouvez pratiquement tout ce que vous voulez regarder sur les applications de streaming disponibles. Avec Netflix, Disney+, Amazon Prime, Apple TV+, Canal+… quelque chose d’incroyable vous attend
 - Jouez en streaming à des centaines de jeux Xbox directement sur votre téléviseur LG, même sans avoir de console. Vous avez seulement besoin de trois choses : 1. Une manette sans fil Xbox 2. Un abonnement à Game Pass Ultimate 3. Une connexion Internet haut débit. Obtenez une remise de 20 % sur une manette Xbox en achetant ce téléviseur intelligent LG.
 

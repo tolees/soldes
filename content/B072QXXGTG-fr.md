@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SPRAY CORPOREL ANTI-MOUSTIQUES PRANABB CERTIFIÉ BIO : Répulsif 100% naturel contre les moustiques européens et tropicaux. Parfum agréable. NE DESSÈCHE PAS LA PEAU. Non photosensibilisant. Usage familial : adultes et enfants. 7 heures defficacité prouvée par des tests en laboratoire.
 - Utilisez les produits biocides avec précaution. Avant toute utilisation, Lisez létiquette et les informations sur le produit
-- POSOLOGIE : Enfants de 30 mois à 6 ans : vaporiser le produit uniquement sur les bras et les jambes, 1 à 2 x / jours max. Adultes et enfants dès 7 ans : vaporiser sur les zones corporelles exposées; renouveler l’utilisation toutes les 7 h
-- POSOLOGIE : Enfants de 30 mois à 6 ans : vaporiser le produit uniquement sur les bras et les jambes, 1 à 2 x / jours max. Adultes et enfants dès 7 ans : vaporiser sur les zones corporelles exposées; renouveler l’utilisation toutes les 7 heures. Femmes enceintes à partir du 4ième mois de grossesse et femmes allaitantes : vaporiser le produit uniquement sur les bras et les jambes ; ne pas dépasser une application matin et soir. Renouveler l’application après la baignade
 - PRANARÔM, LA SCIENCE DES HUILES ESSENTIELLES : Pranarôm allie son expertise scientifique à son amour des plantes afin de proposer des solutions ciblées pour maintenir toute la famille en bonne santé au quotidien.
-- COMPOSITION NATURELLE AUX HUILES ESSENTIELLES BIO : Eucalyptus citronné, Palmarosa, Lemongrass, Citronnelle, Géranium rosat, Giroflier, Gingembre + Citrodiol. Le Citrodiol est le seul ingrédient naturel qui peut être utilisé selon cette directive comme répulsif insectes.
 - UNE SOLUTION ANTI-MOUSTIQUES EFFICACE : Ce spray anti-moustiques a été testé en laboratoire indépendant et offre une protection contre les moustiques porteurs de maladies telles que la dengue, le zika, le chikungunya, les moustiques tigres, les moustiques porteurs de la malaria et les maringouins.
+- POSOLOGIE : Enfants de 30 mois à 6 ans : vaporiser le produit uniquement sur les bras et les jambes, 1 à 2 x / jours max. Adultes et enfants dès 7 ans : vaporiser sur les zones corporelles exposées; renouveler l’utilisation toutes les 7 h
+- SPRAY CORPOREL ANTI-MOUSTIQUES PRANABB CERTIFIÉ BIO : Répulsif 100% naturel contre les moustiques européens et tropicaux. Parfum agréable. NE DESSÈCHE PAS LA PEAU. Non photosensibilisant. Usage familial : adultes et enfants. 7 heures defficacité prouvée par des tests en laboratoire.
+- POSOLOGIE : Enfants de 30 mois à 6 ans : vaporiser le produit uniquement sur les bras et les jambes, 1 à 2 x / jours max. Adultes et enfants dès 7 ans : vaporiser sur les zones corporelles exposées; renouveler l’utilisation toutes les 7 heures. Femmes enceintes à partir du 4ième mois de grossesse et femmes allaitantes : vaporiser le produit uniquement sur les bras et les jambes ; ne pas dépasser une application matin et soir. Renouveler l’application après la baignade
+- COMPOSITION NATURELLE AUX HUILES ESSENTIELLES BIO : Eucalyptus citronné, Palmarosa, Lemongrass, Citronnelle, Géranium rosat, Giroflier, Gingembre + Citrodiol. Le Citrodiol est le seul ingrédient naturel qui peut être utilisé selon cette directive comme répulsif insectes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B072QXXGTG{{</world>}}

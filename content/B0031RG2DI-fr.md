@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le marqueur craie liquide edding 4 95 se décline en 9 couleurs brillantes ; autres largeurs de trait disponibles edding 4 9 et edding 4 85
 - Emballage contenant 10 marqueurs craie - 2 blanc, 1 noir, 1 rouge, 1 bleu, 1 vert, 1 vert clair, 1 jaune fluorescent, 1 orange fluorescent et 1 rose fluorescent
+- Le marqueur craie liquide edding 4 95 se décline en 9 couleurs brillantes ; autres largeurs de trait disponibles edding 4 9 et edding 4 85
 - Craie liquide couvrante à base deau, résistante à la lumière sous forme de marqueur pour dessiner sans poussière ; idéale pour les dessins
 - Pour la peinture créative sur les miroirs à la maison ; décoration propre et de qualité sur les vitrines et les menus dans les restaurants, bars et hôtels
 - Feutre craie liquide moyen pour surfaces lisses telles que vitres et tableaux noirs ; marqueur craie effaçable avec un chiffon humide

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
-- UN BEAU CADEAU DE BOUGIE : Les étiquettes décoratives présentent des images de parfums illustrées à la main et sont aussi séduisantes que leur odeur.
+- LA TAILLE PARFAITE : Les mini-votos remplis de Yankee Candle sont la taille parfaite pour échantillonner et trouver votre nouvelle fragrance préférée.
 - EMBALLAGES RECYCLABLES : Aidez Yankee Candle à donner une seconde vie à cet emballage en le recyclant correctement, et continuez à répandre la joie
 - BOUGIES PARFUMÉES POUR TOUTES LES OCCASIONS : Avec une sélection de 3 parfums différents, dont Pink Sands, Lemon Lavender et Midsummers Night, cet ensemble de mini-bougies est idéal pour les anniversaires, la pendaison de crémaillère et bien dautres choses encore.
-- LA TAILLE PARFAITE : Les mini-votos remplis de Yankee Candle sont la taille parfaite pour échantillonner et trouver votre nouvelle fragrance préférée.
+- UN BEAU CADEAU DE BOUGIE : Les étiquettes décoratives présentent des images de parfums illustrées à la main et sont aussi séduisantes que leur odeur.
+- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FH642F4V{{</world>}}

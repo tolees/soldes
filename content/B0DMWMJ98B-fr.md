@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 ACCESSOIRES POUR FIGURINE : Ce coffret inclut un blaster que la figurine Luke peut tenir en main, ainsi que 2 projectiles rouges pour enrichir le jeu. Les enfants peuvent recréer des scènes d’action ou inventer leurs propres aventures.
-- LANCE DES PROJECTILES : On insère simplement un projectile dans l’avant du vaisseau puis on appuie sur le bouton pour le lancer. Les enfants peuvent imaginer des batailles, viser des cibles et donner vie à leurs missions galactiques.
-- Cadeaux de Noël : Un jouet complet, durable et articulé à un prix accessible, parfait pour offrir un cadeau qui fait vraiment plaisir sans dépasser son budget.
-- FIGURINE STAR WARS : Ce coffret Star Wars inclut une figurine Luke Skywalker de 10 cm avec 9 points darticulation et portant son emblématique combinaison de vol de la rébellion
 - VAISSEAU STAR WARS DE 35 CM DE LONG : Ce véhicule Star Wars mesure 35 cm de long et 35 cm de large. Il inclut toutes sortes de fonctions captivantes, comme une cabine qui peut accueillir Luke et une tête de R2-D2 rotative sur le dessus du vaisseau
+- 3 ACCESSOIRES POUR FIGURINE : Ce coffret inclut un blaster que la figurine Luke peut tenir en main, ainsi que 2 projectiles rouges pour enrichir le jeu. Les enfants peuvent recréer des scènes d’action ou inventer leurs propres aventures.
+- FIGURINE STAR WARS : Ce coffret Star Wars inclut une figurine Luke Skywalker de 10 cm avec 9 points darticulation et portant son emblématique combinaison de vol de la rébellion
+- Cadeaux de Noël : Un jouet complet, durable et articulé à un prix accessible, parfait pour offrir un cadeau qui fait vraiment plaisir sans dépasser son budget.
+- LANCE DES PROJECTILES : On insère simplement un projectile dans l’avant du vaisseau puis on appuie sur le bouton pour le lancer. Les enfants peuvent imaginer des batailles, viser des cibles et donner vie à leurs missions galactiques.
 - LE FORCE STRIKE X-WING DE LUKE SKYWALKER : On peut imaginer des aventures avec Luke Skywalker aux commandes de lemblématique X-wing, avec des effets de Force Blast bleus qui se déploient lorsquon actionne une glissière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

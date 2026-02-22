@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LAIT-SÉRUM CORPS RAFFERMISSANT : Le lait corps NIVEA Q10 Firming + Energizing hydrate intensément la peau et améliore sa fermeté dès 7 jours. Idéal pour une peau sèche en manque de tonicité ou sujette à la fatigue cutanée.
 - FORMULE ENRICHIE EN Q10, ACIDE HYALURONIQUE & VITAMINE C : Sa formule hautement concentrée en Q10 pur, associée à l’acide hyaluronique et à la vitamine C, booste l’énergie de la peau, améliore sa texture et aide à lisser visiblement l’épiderme.
 - 100 ANS DEXPERTISE EN SOIN DE LA PEAU : Depuis plus dun siècle, NIVEA développe des soins adaptés aux spécificités de toutes les peaux au sein de son centre de recherches, pour élaborer des produits hautement efficaces, à la sensorialité unique.
-- LAIT-SÉRUM CORPS RAFFERMISSANT : Le lait corps NIVEA Q10 Firming + Energizing hydrate intensément la peau et améliore sa fermeté dès 7 jours. Idéal pour une peau sèche en manque de tonicité ou sujette à la fatigue cutanée.
 - VOTRE RITUEL CORPS RAFFERMISSANT & ÉNERGISANT : Appliquez quotidiennement après la douche sur l’ensemble du corps. Pour booster la pénétration des actifs, faites pénétrer dans votre peau en massant délicatement.
 - TEXTURE LÉGÈRE & ABSORPTION RAPIDE : Ce lait pour le corps fond instantanément sur la peau, sans effet gras ni collant. Il procure une sensation immédiate de fraîcheur et laisse la peau visiblement tonifiée et revitalisée dès la première application.
 

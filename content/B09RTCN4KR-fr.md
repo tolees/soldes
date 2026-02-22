@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Thème: Animaux
 - Argent 925/1000
-- Couleur: argent
-- Style: Créoles
+- Thème: Animaux
 - Pierre: Zircon cubique
+- Style: Créoles
+- Couleur: argent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09RTCN4KR{{</world>}}

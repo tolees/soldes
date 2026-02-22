@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facilité dutilisation : Appliquez notre shampooing crème au parfum ensoleillé sur lensemble des cheveux, massez délicatement le cuir chevelu, puis rincez pour des cheveux nourris et revitalisés.
 - Éco-responsable : Composé de 96% dingrédients dorigine naturelle et conditionné dans un emballage entièrement recyclable, ce shampooing est un choix respectueux pour vos cheveux et lenvironnement.
 - Ingrédients naturels : Enrichi en Miel de Provence BIO et Karité BIO, ce shampooing protège et nourrit les cheveux des racines jusquaux pointes, tout en respectant le cuir chevelu avec un pH optimal.
-- Cheveux renforcés et brillants : Grâce à sa formule hautement naturelle, ce shampooing renforce et revitalise les cheveux abîmés, leur apportant éclat et vitalité jour après jour.
+- Facilité dutilisation : Appliquez notre shampooing crème au parfum ensoleillé sur lensemble des cheveux, massez délicatement le cuir chevelu, puis rincez pour des cheveux nourris et revitalisés.
 - Formule nutritive bio : Le shampooing Nutrition au Miel de Provence Bio et Karité Bio Le Petit Marseillais nourrit intensément et répare les cheveux secs et cassants, leur redonnant douceur et brillance.
+- Cheveux renforcés et brillants : Grâce à sa formule hautement naturelle, ce shampooing renforce et revitalise les cheveux abîmés, leur apportant éclat et vitalité jour après jour.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7CG1P15{{</world>}}

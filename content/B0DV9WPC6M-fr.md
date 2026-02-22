@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUABILITÉ ÉTENDUE - Le catch intergenre arrive enfin dans WWE 2K ! Parmi les fonctionnalités supplémentaires, retrouvez le retour des enchaînements, les matchs Underground et Bloodline, les attaques plongeantes depuis les barrières, etc.
-- Contenu de la boîte : Jeu de base et code de téléchargement pour le bonus de précommande « Wyatt Sicks ».
 - Précommandez dès maintenant le pack Wyatt Sicks ! Célébrez The Bloodline dans Showcase. Jouez en ligne dans Mon MG. Catch intergenre, attaques plongeantes depuis les barrières et bien plus encore !
-- VOTRE UNIVERS À VOTRE IMAGE - Des mises à jour vous permettent de mieux contrôler votre Univers, avec des promos commentées et de nouvelles scènes, des options et des résultats multiples.
+- JOUABILITÉ ÉTENDUE - Le catch intergenre arrive enfin dans WWE 2K ! Parmi les fonctionnalités supplémentaires, retrouvez le retour des enchaînements, les matchs Underground et Bloodline, les attaques plongeantes depuis les barrières, etc.
 - 2K SHOWCASE : LA DYNASTIE DE THE BLOODLINE - Le tout nouveau Showcase, animé par « The Wiseman » Paul Heyman, met à lhonneur lune des plus grandes dynasties familiales. Revivez les combats légendaires entre The Bloodline et les Superstars et Légendes WWE.
+- Contenu de la boîte : Jeu de base et code de téléchargement pour le bonus de précommande « Wyatt Sicks ».
+- VOTRE UNIVERS À VOTRE IMAGE - Des mises à jour vous permettent de mieux contrôler votre Univers, avec des promos commentées et de nouvelles scènes, des options et des résultats multiples.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DV9WPC6M{{</world>}}

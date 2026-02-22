@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- FACILE À UTILISER : Le Sub 7 est prêt à lemploi dès sa sortie de lemballage, et vous pouvez contrôler lensemble de votre système de divertissement à domicile à laide de lapplication Sony | BRAVIA Connect (1) sur votre smartphone. (1) Lapplication Sony | BRAVIA Connect doit être installée sur un smartphone. Le smartphone et le produit doivent être connectés au même réseau domestique via un réseau local sans fil (Wi-Fi)/Internet. Cette fonction est compatible avec les téléviseurs BRAVIA et les dernières versions logicielles.
 - STYLE COMPACT À 2 VOIES : Pour un confort optimal, le Sub 7 peut être positionné de deux manières : soit contre le mur dans les grands espaces, soit avec le côté fin vers lavant dans les espaces étroits.
 - DESIGN ASSORTI : Le caisson de basses est conçu pour sharmoniser parfaitement avec les barres de son et enceinte arrière sans fil BRAVIA Theatre Bar 9, Bar 8 et Rear 8
-- FACILE À UTILISER : Le Sub 7 est prêt à lemploi dès sa sortie de lemballage, et vous pouvez contrôler lensemble de votre système de divertissement à domicile à laide de lapplication Sony | BRAVIA Connect (1) sur votre smartphone. (1) Lapplication Sony | BRAVIA Connect doit être installée sur un smartphone. Le smartphone et le produit doivent être connectés au même réseau domestique via un réseau local sans fil (Wi-Fi)/Internet. Cette fonction est compatible avec les téléviseurs BRAVIA et les dernières versions logicielles.
 - AMÉLIOREZ VOS BASSES : Des explosions retentissantes à votre musique préférée, les basses profondes de 100 W du puissant haut-parleur de 130 mm et du radiateur passif intensifient tout ce que vous écoutez. Sans fil, votre espace restera dégagé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

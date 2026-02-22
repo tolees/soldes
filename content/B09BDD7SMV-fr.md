@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Protégez votre vie privée: Caméra HD 720p avec PrivacyShutter qui bloque les regards indiscrets lorsque vous souhaitez protéger votre vie privé
-- Gardez le contrôle de votre jeu: Avec une course de touche de 1,5 mm et la technologie de pression simultanée de touches multiples N-Key Rollover, vous contrôlez le rythme du jeu et êtes assuré que chaque frappe comptera. Le clavier RVB 4 zones rétroéclairé en blanc vous permet de rester en immersion totale
+- Une expérience de jeu inégalée: Jouez, enregistrez et diffusez simultanément sans compromis grâce à un processeur Intel Core i5-11300H 35 W puissant et efficace optimisé pour les performances. Jouez à la plupart des jeux AAA en Full HD. Bénéficiez de vitesses WiFi Gigabit ultrarapides et de connexions fiables avec WiFi 6
 - Visuels et sons de niveau supérieur: Découvrez les cinématiques de jeu telles quelles ont été conçues avec des écrans Full HD IPS 120 Hz. Immergez-vous complètement dans lunivers de votre jeu grâce au son Nahimic pour les gamers
+- Gardez le contrôle de votre jeu: Avec une course de touche de 1,5 mm et la technologie de pression simultanée de touches multiples N-Key Rollover, vous contrôlez le rythme du jeu et êtes assuré que chaque frappe comptera. Le clavier RVB 4 zones rétroéclairé en blanc vous permet de rester en immersion totale
 - Système dexploitation: Windows 11 Home
-- Stockage de 512Go SSD: pour conserver indéfiniment vos logiciels, votre système dexploitation et vos fichiers.
 - Mémoire RAM de16Go SO-DIMM DDR4-3200: cet ordinateur portable vous offre des performances fiables et vous permet d’effectuer plusieurs tâches sans peine
+- Stockage de 512Go SSD: pour conserver indéfiniment vos logiciels, votre système dexploitation et vos fichiers.
 - Des performances exceptionnelles pour les gamers: Jouez en bénéficiant de performances optimales avec les derniers GPU NVIDIA GeForce RTX série 30 pour ordinateurs portables. Découvrez un rendu graphique plus réaliste grâce au ray tracing, de nouvelles fonctionnalités de pointe et la puissance de l’IA dans des conceptions fines et légères
 - Un refroidissement haut de gamme: En dissipant 35 Percentage de chaleur de plus (115 W) que la génération précédente, lIdeaPad Gaming 3i Gen 6 (15" Intel) élève le plafond thermique et permet des sessions de jeu plus rapides et plus silencieuses grâce à des composants mieux refroidis. Doublez la circulation dair grâce aux sorties à quatre voies et à trois caloducs (un de plus que son prédécesseur)
-- Une expérience de jeu inégalée: Jouez, enregistrez et diffusez simultanément sans compromis grâce à un processeur Intel Core i5-11300H 35 W puissant et efficace optimisé pour les performances. Jouez à la plupart des jeux AAA en Full HD. Bénéficiez de vitesses WiFi Gigabit ultrarapides et de connexions fiables avec WiFi 6
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BDD7SMV{{</world>}}

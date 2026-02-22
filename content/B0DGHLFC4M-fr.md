@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Constituée à 55 % de silicone recyclé, cette coque est dotée à l’extérieur d’une finition lisse et soyeuse qui offre un toucher agréable, tandis qu’à l’intérieur, la protection est renforcée par une fine doublure en microfibre.
 - Conçue par Apple pour compléter l’iPhone 16 Pro Max, la coque en silicone avec MagSafe est une élégante façon de protéger votre iPhone.
 - Cette coque vous permet d’utiliser Commande de l’appareil photo. Elle est dotée d’une surface en verre saphir associée à une couche conductrice qui transmet les mouvements de vos doigts à la Commande de l’appareil photo.
-- Constituée à 55 % de silicone recyclé, cette coque est dotée à l’extérieur d’une finition lisse et soyeuse qui offre un toucher agréable, tandis qu’à l’intérieur, la protection est renforcée par une fine doublure en microfibre.
 - Dotée d’aimants intégrés qui s’ajustent parfaitement à l’iPhone 16 Pro Max, la coque se fixe avec une aisance presque magique et offre une recharge sans fil plus rapide. Pour recharger votre iPhone, il vous suffit de le laisser dans sa coque et d’y fixer votre chargeur MagSafe ou de le déposer sur votre chargeur certifié Qi2 ou Qi.
 - Comme toutes les coques conçues par Apple, celle-ci a été soumise à des milliers d’heures de test durant sa conception et sa fabrication. Elle sublime votre iPhone, mais le protège aussi des rayures et des chutes.
 

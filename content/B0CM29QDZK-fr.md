@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rétroéclairage intégral pour une lisibilité aussi bien le jour que la nuit
-- Configuration gratuite de la télécommande via l’application My Nevo
 - Permet de contrôler jusquà 6 appareils
-- Commande vocale pour TV Android/Google
 - Raccourcis vers vos applications de streaming préférées
+- Configuration gratuite de la télécommande via l’application My Nevo
+- Commande vocale pour TV Android/Google
+- Rétroéclairage intégral pour une lisibilité aussi bien le jour que la nuit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CM29QDZK{{</world>}}

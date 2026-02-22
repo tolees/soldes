@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’Adaptateur secteur USB-C 140 W offre une solution de charge rapide et efficace, au bureau, à la maison ou en déplacement
 - Câble de charge vendu séparément.
 - Il est compatible avec de nombreux câbles de charge USB‑C
+- L’Adaptateur secteur USB-C 140 W offre une solution de charge rapide et efficace, au bureau, à la maison ou en déplacement
 - Apple recommande d’associer cet adaptateur secteur à votre MacBook Pro 16 pouces (2021) à l’aide d’un câble USB‑C vers MagSafe 3 ou d’un câble de charge USB‑C afin de bénéficier de la charge rapide et de passer de 0 à 50 % de charge en une trentaine de minutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

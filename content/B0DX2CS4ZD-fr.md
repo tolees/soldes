@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✅ Un mélange entre metroidvania et plateforme-action – Débloquez de nouvelles capacités, améliorez vos compétences et explorez des zones inaccessibles pour percer les secrets de lAbysse.
-- ✅ Un gameplay nerveux et fluide – Profitez d’un système de dash ultra-intuitif pour naviguer dans des environnements dangereux et affronter des ennemis redoutables.
-- ✅ Un univers sombre et envoutant – Plongez dans un monde oppressant, aux visuels époustouflants, conçu pour immerger totalement le joueur dans son ambiance mystique.
 - ✅ Une édition physique exclusive – Disponible sur Nintendo Switch et PlayStation 5, pour les fans de jeux indépendants et d’action-plateforme.
+- ✅ Un univers sombre et envoutant – Plongez dans un monde oppressant, aux visuels époustouflants, conçu pour immerger totalement le joueur dans son ambiance mystique.
 - ✅ Un défi à la hauteur – Maîtrisez des combats rapides et stratégiques, où chaque mouvement compte. La persévérance sera votre meilleure alliée.
+- ✅ Un gameplay nerveux et fluide – Profitez d’un système de dash ultra-intuitif pour naviguer dans des environnements dangereux et affronter des ennemis redoutables.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DX2CS4ZD{{</world>}}

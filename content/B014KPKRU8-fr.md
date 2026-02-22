@@ -28,17 +28,17 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zone froide
-- <b>Capacité</b>: 3 Litre(s)
-- Filtre à huile propre & de sécurité
-- Température réglable 190 °C
-- <b> Garantie </b>: 2 an(s)
 - <b> Couleur </b>: Argent
-- Démontage facile pour lentretien
-- Réservoir en acier inoxydable
-- Capacité: 3
-- Pièces compatibles lave-vaisselle
 - Poids du produit :3 kilogrammes
+- Zone froide
+- Filtre à huile propre & de sécurité
+- Réservoir en acier inoxydable
+- Pièces compatibles lave-vaisselle
+- <b> Garantie </b>: 2 an(s)
+- Capacité: 3
+- <b>Capacité</b>: 3 Litre(s)
+- Démontage facile pour lentretien
+- Température réglable 190 °C
 - Panier amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

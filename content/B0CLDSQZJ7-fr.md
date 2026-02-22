@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Veste matelassée
 - Coupe classique
 - Composition : couche extérieure : 100 % polyester ; rembourrage : 100 % polyester ; doublure : 100 % polyester
-- Veste matelassée
 - Manches longues
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en acier inoxydable doré, finition polie et brossée
 - Cadran doré et tramé avec index et chiffre arabe à 9h dorés - Mouvement 3 aiguilles - Aiguilles dorées et luminescentes - Verre minéral
 - Montre DIESEL homme - Boîtier rond (diam. 53 mm) en acier inoxydable doré, finition polie et brossée - Etanche 5 ATM
+- Bracelet en acier inoxydable doré, finition polie et brossée
 - Livré dans une boîte cadeau Diesel
 
 [🛒 Achète-le!!]({{< param buyurl >}})

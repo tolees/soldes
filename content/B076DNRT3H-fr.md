@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir dâ€eau et porte filtre accessibles en façade Caractéristique brevetée
-- Nouveau porte-filtre qui permet dâ€obtenir une crème parfaite Compatible E.S.E
-- Le réservoir dâ€eau (partie expresso) est amovible
 - Une buse vapeur en inox pour préparer une mousse de lait onctueuse
+- Le réservoir dâ€eau (partie expresso) est amovible
+- Nouveau porte-filtre qui permet dâ€obtenir une crème parfaite Compatible E.S.E
+- Réservoir dâ€eau et porte filtre accessibles en façade Caractéristique brevetée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076DNRT3H{{</world>}}

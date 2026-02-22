@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rundhalskrasen
-- propriétés élastiques légers
 - T-shirt pour la formation ou la présentation
 - Grande impression logo Nike
+- propriétés élastiques légers
+- Rundhalskrasen
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QW8GLCJ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo : Capteur principal de 50 MP, double caméra, couvrant cinq longueurs focales, de 15mm à 48mm, pour des prises de vue polyvalentes, du paysage au portrait.
 - Écran : Une protection avancée pour le confort visuel, réduisant la fatigue oculaire de jour comme de nuit.
 - Xiaomi HyperAI : Une IA multimodale avancée intégrant les dernières technologies Xiaomi pour traiter le texte, la voix et les images avec une fluidité exceptionnelle.
-- Batterie : Batterie massive de 6000mAh (typ) & HyperCharge 90W. Les chipsets POCO Surge P3 et Surge G1 optimisent l’efficacité de la charge, préservent la santé de la batterie et prolongent sa durée de vie.
+- Appareil photo : Capteur principal de 50 MP, double caméra, couvrant cinq longueurs focales, de 15mm à 48mm, pour des prises de vue polyvalentes, du paysage au portrait.
 - Performance: Des performances ultimes et une efficacité énergétique inégalée. Grâce à une IA intégrée au niveau du processeur, il offre une puissance exceptionnelle, gère sans effort les jeux les plus exigeants, garantit un multitâche fluide et une performance optimisée.
+- Batterie : Batterie massive de 6000mAh (typ) & HyperCharge 90W. Les chipsets POCO Surge P3 et Surge G1 optimisent l’efficacité de la charge, préservent la santé de la batterie et prolongent sa durée de vie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSG36MN3{{</world>}}

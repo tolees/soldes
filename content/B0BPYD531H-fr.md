@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Le sérum LOréal Professionnel Aminexil Advanced contient de laminexil (1,5 %) qui renforce lancrage des cheveux dans le cuir chevelu, limitant ainsi leur chute.
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - CONSEILS DUTILISATION : Diviser les cheveux en 4 et appliquer 5 doses de sérum sur chaque section, masser et laisser agir la nuit. Idéalement, appliquer le soir sur cheveux essorés après vos soins capillaires habituels.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Le sérum LOréal Professionnel Aminexil Advanced contient de laminexil (1,5 %) qui renforce lancrage des cheveux dans le cuir chevelu, limitant ainsi leur chute.
 - REDUIT VISIBLEMENT LA CHUTE DES CHEVEUX : Utilisé quotidiennement, le Sérum Anti-Chute Aminexil Advanced réduit la chute des cheveux avec des résultats visibles dès 6 semaines* et des cheveux 87 % plus forts**.
 - SERUM ANTICHUTE POUR CHEVEUX FRAGILES : À appliquer quotidiennement, le Sérum Activateur Anti-Chute LOréal Professionnel est conçu pour réduire la chute des cheveux des hommes et des femmes avec des résultats en quelques semaines*.
 

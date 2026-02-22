@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CORSAIR InfiniRail Système de Montage des Ventilateurs - Ce système de montage multipoint en acier offre une flexibilité inégalée pour la configuration des ventilateurs à lavant et sur le toit. Il suffit de faire glisser le rail pour monter des ventilateurs jusquà 200 mm (140 mm dans le toit) où vous le souhaitez, en garantissant un flux dair ciblé
-- 3x CORSAIR RS ARGB PWM Fans - Ventilateurs haute performance préinstallés à lavant du boîtier. Supportent les connexions PWM 4 broches en chaîne et le mode Zero RPM pour un fonctionnement quasi-silencieux à faible charge. Chaque ventilateur dispose de huit LED et est facilement contrôlable avec le connecteur +5V ARGB de votre carte mère
 - Panneau de circulation dair 3D en Y - Optimisé pour une circulation dair élevée et une restriction minimale, le panneau frontal en acier est perforé en trois dimensions avec un motif en Y qui fournit un chemin peu encombré pour lair frais
+- 3x CORSAIR RS ARGB PWM Fans - Ventilateurs haute performance préinstallés à lavant du boîtier. Supportent les connexions PWM 4 broches en chaîne et le mode Zero RPM pour un fonctionnement quasi-silencieux à faible charge. Chaque ventilateur dispose de huit LED et est facilement contrôlable avec le connecteur +5V ARGB de votre carte mère
 - Lignes épurées ou refroidissement turbo - Le panneau latéral interne près du plateau de la carte mère peut être utilisé comme cache-câbles pour une gestion épurée des câbles, ou vous pouvez lenlever et monter des ventilateurs sur le côté pour améliorer le potentiel de refroidissement
+- CORSAIR InfiniRail Système de Montage des Ventilateurs - Ce système de montage multipoint en acier offre une flexibilité inégalée pour la configuration des ventilateurs à lavant et sur le toit. Il suffit de faire glisser le rail pour monter des ventilateurs jusquà 200 mm (140 mm dans le toit) où vous le souhaitez, en garantissant un flux dair ciblé
 - Système de boîtier modulaire FRAME - Le système révolutionnaire FRAME donne un nouveau sens au mot personnalisation. Vous voulez remplacer le plateau de la carte mère par de laluminium ? Vous voulez remplacer votre panneau dE/S avant par plus de ports USB ? Cest désormais possible. Un boîtier qui peut évoluer en fonction de vos besoins (ou de votre humeur). Les options sont pratiquement illimitées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

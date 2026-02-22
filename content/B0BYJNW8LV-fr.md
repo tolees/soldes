@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - ÂGE : dès 6 ans, un casier 100% protégé et personnalisable pour y cacher tous ses secrets comme dans ses séries préférées
 - VERSION : Française
 - MAGIQUE : il ne s’ouvre qu’après avoir entré le code secret qui déverrouillera la porte, À l’intérieur, 2 compartiments dont un secret et 2 tiroirs permettent de cacher bijoux, trésors et petits mots doux
-- PRATIQUE ET COMPLET : sur l’avant, un écran LCD et un clavier à 10 chiffres permettent d’entrer le code secret mais aussi de jouer à des jeux, de s’amuser avec la fonction Horoscope, de programmer horloge et réveil, et même d’écouter de la musique, Le casier peut être accroché au mur ou transporté grâce à la poignée
 - INCLUS : 10 chansons et mélodies, 1 câble jack pour écouter sa musique depuis un lecteur MP3 et 1 planche de stickers pour personnaliser son casier et le rendre unique, Arrêt automatique du jouet, Fonctionne avec 3 piles LR6-AA fournies
+- PRATIQUE ET COMPLET : sur l’avant, un écran LCD et un clavier à 10 chiffres permettent d’entrer le code secret mais aussi de jouer à des jeux, de s’amuser avec la fonction Horoscope, de programmer horloge et réveil, et même d’écouter de la musique, Le casier peut être accroché au mur ou transporté grâce à la poignée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BYJNW8LV{{</world>}}

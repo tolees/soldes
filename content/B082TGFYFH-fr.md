@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3S 700 VA / 420 watts
+- 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement + 2 ports USB pour chargeur (2A max)
 - Protection téléphone/fax/modem/réseau 10/100 (RJ45)
 - 3S 700 VA / 420 watts
+- Disjoncteur réarmable 10A - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements) - UPS avec interface USB (câble USB inclus)
 - Disjoncteur réarmable 10A - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements) - UPS avec interface USB (câble USB inclus)
 - 24 mois de garantie Eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
 - Protection téléphone/box/modem/réseau 10/100 (RJ45)
 - 24 mois de garantie Eaton standard (extension de garantie possible en option à 3 ans et 5 ans)
-- Disjoncteur réarmable 10A - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements) - UPS avec interface USB (câble USB inclus)
 - 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement + 2 ports USB pour chargeur (2A max)
-- 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement + 2 ports USB pour chargeur (2A max)
+- 3S 700 VA / 420 watts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082TGFYFH{{</world>}}

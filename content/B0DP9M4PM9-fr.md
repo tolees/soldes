@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à un scratch et lacets élastiques
 - Semelle intérieure amovible
 - Enfilage facile et rapide
+- Fermeture à un scratch et lacets élastiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP9M4PM9{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Montrez au monde à quel Point vous Aimez Columbia avec ce sweatshirt à capuche tendance
-- Un incontournable de votre garde-robe, que vous pourrez porter toute lannée pour profiter du grand air.
 - 100% coton Jersey
+- Un incontournable de votre garde-robe, que vous pourrez porter toute lannée pour profiter du grand air.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081B5MNLN{{</world>}}

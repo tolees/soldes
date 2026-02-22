@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Touches ABS à double injection pour une meilleure résistance à un usage intensif Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent jamais, les touches ont également des parois extra épaisses qui les rendent extrêmement résistantes aux longues heures de jeux
-- Switches mécaniques verts Razer pour une exécution précise et une sensation tactile et sonore Avec un point d’activation de 1,9 mm ne nécessitant qu’une force de 50 g, profitez de la combinaison parfaite entre la pression et un temps de réponse pour des entrées précises avec un retour tactile satisfaisant
 - Molette multifonction et 4 touches multimédia pour un contrôle pratique Profitez d’un confort ultime tout en vous divertissant : mettez en pause, jouez, passez et modifiez absolument tout, de la luminosité au volume
 - 6 touches macros dédiées pour un contrôle personnalisable au bout des doigts Que ce soit pour lancer votre ult ou pour optimiser la rotation de vos sorts, étendez votre arsenal de commandes grâce à un ensemble de touches macro faciles d’accès qui peuvent être programmées en fonction de votre style de jeu
-- Éclairage sous-jacent sur les 2 côtés et éclairage par touche Alimenté par Razer Chroma RGB L’éclairage par touche et l’éclairage sous-jacent éclatant mettent en valeur le clavier sous plusieurs angles Synchronisez-les avec votre setup et profitez d’une plus grande immersion dans des centaines de jeux intégrés
+- Touches ABS à double injection pour une meilleure résistance à un usage intensif Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent jamais, les touches ont également des parois extra épaisses qui les rendent extrêmement résistantes aux longues heures de jeux
+- Switches mécaniques verts Razer pour une exécution précise et une sensation tactile et sonore Avec un point d’activation de 1,9 mm ne nécessitant qu’une force de 50 g, profitez de la combinaison parfaite entre la pression et un temps de réponse pour des entrées précises avec un retour tactile satisfaisant
 - Repose-poignet magnétique en similicuir moelleux pour un confort de jeu prolongé Avec un repose-poignet doux et rembourré qui se fixe solidement au clavier, profitez d’un confort durable qui vous aidera à tenir le coup pendant les marathons de jeu les plus intenses
+- Éclairage sous-jacent sur les 2 côtés et éclairage par touche Alimenté par Razer Chroma RGB L’éclairage par touche et l’éclairage sous-jacent éclatant mettent en valeur le clavier sous plusieurs angles Synchronisez-les avec votre setup et profitez d’une plus grande immersion dans des centaines de jeux intégrés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6DWV86F{{</world>}}

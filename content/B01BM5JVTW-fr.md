@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Wet & Dry utilisation sous la douche
 - Tondeuse précision tond à 0,2 mm près pour un résultat net et précis
 - Un rasage du maillot parfait, précis et rapide
-- REMARQUE Laccumulation de poils sous le peigne empêche une épilation facile et en douceur, ce qui est plus visible avec des cheveux longs. Passer le peigne sous leau pour éliminer cette accumulation régulière améliorera les performances de coupe et de taillage
-- Wet & Dry utilisation sous la douche
 - 2 guides de coupe conforts (2 et 4 mm)
+- REMARQUE Laccumulation de poils sous le peigne empêche une épilation facile et en douceur, ce qui est plus visible avec des cheveux longs. Passer le peigne sous leau pour éliminer cette accumulation régulière améliorera les performances de coupe et de taillage
 - Léger, petit, parfait pour prendre en voyage ; trousse de rangement incluse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

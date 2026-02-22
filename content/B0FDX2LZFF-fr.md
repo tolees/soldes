@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SUIS TON IMAGINATION : participe à des activités et à des mini-jeux amusants tout en explorant la maison magique de Gabby
-- FAIS LA FÊTE AVEC LES GABBYCHATS : Pandy Pattes, Ptichou, Marty le festichat, Sacha, Marine, DJ Miaou, Fée Minette, Polochat, Chabriolette, Bébé Boîte, Maman Boîte. Tous les Gabbychats sont prêts à samuser
-- FAIS-TOI TOUPTI AVEC GABBY ET PANDY PATTES : joue en solo avec Gabby ou fais équipe avec des amis en coop local pour jouer aux côtés de Pandy Pattes
 - EXPLORE LIBREMENT : pars de latelier, puis prends le chascenseur pour aller dans la salle de jeux, la salle de bain, la cuisine, le miaousic-hall et le jardin. Ces lieux sont tous plus magiques les uns que les autres
+- FAIS LA FÊTE AVEC LES GABBYCHATS : Pandy Pattes, Ptichou, Marty le festichat, Sacha, Marine, DJ Miaou, Fée Minette, Polochat, Chabriolette, Bébé Boîte, Maman Boîte. Tous les Gabbychats sont prêts à samuser
 - APPRENDS ET GRANDIS AVEC GABBY : fais preuve de créativité et trouve-toi de nouvelles passions avec des commandes faciles à utiliser et pensées pour les petites mains
+- FAIS-TOI TOUPTI AVEC GABBY ET PANDY PATTES : joue en solo avec Gabby ou fais équipe avec des amis en coop local pour jouer aux côtés de Pandy Pattes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDX2LZFF{{</world>}}

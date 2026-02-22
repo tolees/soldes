@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspect élégant : la guitare est ornée dun binding noir et possède un vernis mat à pores ouverts avec une table dharmonie à laspect antique, ce qui lui confère un aspect nostalgique et stylé.
 - Construction précise : lassemblage du manche en queue daronde, le sillet en os et linsert du chevalet avec compensation ainsi que le design Pinless Bridge assurent une transmission précise du son et une excellente jouabilité.
+- Aspect élégant : la guitare est ornée dun binding noir et possède un vernis mat à pores ouverts avec une table dharmonie à laspect antique, ce qui lui confère un aspect nostalgique et stylé.
+- Matériaux de haute qualité : la guitare est dotée dune table dharmonie en épicéa européen massif, réputée pour sa sonorité claire et résonnante. Le fond et les éclisses sont en acajou, ce qui offre chaleur et résonance.
 - Des possibilités de jeu étendues : Avec 20 frettes en maillechort, un diapason de 648 mm et une largeur de sillet de 45 mm, la guitare offre une large palette doptions sonores et facilite le jeu.
 - Caractéristiques particulières : La guitare dispose dune tête à fenêtre, de mécaniques chromées pour un accordage précis et lutilisation de cordes Adamas de haute qualité assure une excellente qualité sonore.
-- Matériaux de haute qualité : la guitare est dotée dune table dharmonie en épicéa européen massif, réputée pour sa sonorité claire et résonnante. Le fond et les éclisses sont en acajou, ce qui offre chaleur et résonance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLRLT7DS{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ⚡ Puissance fiable jusqu’à 1200W (crête 2400W): Convertisseur pur sinus qui transforme la tension 12V DC de votre batterie véhicule en 230V AC / 50Hz stable. Puissance continue de 1200W, idéale pour alimenter des appareils domestiques en toute sécurité, même en déplacement;
+- 🔌 2 prises secteur + 2 ports USB 3,1A: Équipez votre véhicule dune solution d’alimentation mobile efficace : 2 prises de courant 230V pour les appareils classiques + 2 ports USB puissants pour smartphones, tablettes ou accessoires de voyage;
 - 🔒 Sécurité avancée avec multiprotection: Protection intégrée contre la surtension, les surcharges, les courts-circuits et la surchauffe. Arrêt automatique si la tension dépasse les seuils de sécurité (10,5V / 16V) + système de ventilation active pour un fonctionnement fiable à long terme;
 - 🚙 Installation facile & large compatibilité: Se connecte directement à une batterie 12V. Convient pour voiture, camping-car, caravane, bateau, système solaire et autres applications nomades. Parfait pour le camping, les chantiers, les situations d’urgence ou l’usage quotidien;
-- 🔌 2 prises secteur + 2 ports USB 3,1A: Équipez votre véhicule dune solution d’alimentation mobile efficace : 2 prises de courant 230V pour les appareils classiques + 2 ports USB puissants pour smartphones, tablettes ou accessoires de voyage;
+- ⚡ Puissance fiable jusqu’à 1200W (crête 2400W): Convertisseur pur sinus qui transforme la tension 12V DC de votre batterie véhicule en 230V AC / 50Hz stable. Puissance continue de 1200W, idéale pour alimenter des appareils domestiques en toute sécurité, même en déplacement;
 - ✅ Certifié TÜV Rheinland + garantie 2 ans: Qualité testée et approuvée. Ce convertisseur est certifié pour sa sécurité et sa performance. Garantie fabricant de 24 mois avec service client réactif et fiable. Un équipement essentiel pour vos besoins d’énergie en déplacement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

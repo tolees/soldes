@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE MÉTAL DIVIN : Vous êtes Aran de Lira, le premier né du quartier du roi. La reine Nerea, récemment couronnée, a jeté un sort qui transforme lacier en pierre. Seule son armée dabominations manie le métal divin contre lequel les autres lames se brisent.
 - VOUS NÊTES PAS SEUL : Adso est le compagnon dAran qui laccompagnera tout au long de son voyage. Pendant les combats, Adso donne des conseils utiles pour vaincre les ennemis en les analysant et en prenant des notes dans ses chroniques. Il jouera un rôle crucial dans votre aventure, car il parle lancienne langue des forgerons.
-- LA FORGE : Trouvez des parchemins de forge, développez vos talents de forgeur et fabriquez votre arme en fonction de votre style de combat. La famille darmes choisie et les matériaux à partir desquels vous la créez affecteront des caractéristiques telles que le poids, la longueur, la durabilité, la pénétration et la qualité du tranchant.
-- COMBAT TACTIQUE : Un système de combat unique et stimulant qui vous permet dattaquer des parties spécifiques du corps de lennemi. Tailladez, poignardez ou matraquez les ennemis en fonction de la situation et de léquipement de lennemi. Seule la bonne arme vous permettra de vaincre larmure de lennemi.
 - CHOISISSEZ VOTRE ARME : Choisissez parmi sept familles darmes différentes et plus de 30 parchemins de forge uniques, qui permettent des combinaisons darmes presque infinies. Le choix de votre arme sera crucial lorsque vous affronterez votre ennemi !
+- LE MÉTAL DIVIN : Vous êtes Aran de Lira, le premier né du quartier du roi. La reine Nerea, récemment couronnée, a jeté un sort qui transforme lacier en pierre. Seule son armée dabominations manie le métal divin contre lequel les autres lames se brisent.
+- COMBAT TACTIQUE : Un système de combat unique et stimulant qui vous permet dattaquer des parties spécifiques du corps de lennemi. Tailladez, poignardez ou matraquez les ennemis en fonction de la situation et de léquipement de lennemi. Seule la bonne arme vous permettra de vaincre larmure de lennemi.
+- LA FORGE : Trouvez des parchemins de forge, développez vos talents de forgeur et fabriquez votre arme en fonction de votre style de combat. La famille darmes choisie et les matériaux à partir desquels vous la créez affecteront des caractéristiques telles que le poids, la longueur, la durabilité, la pénétration et la qualité du tranchant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DZZCF4JL{{</world>}}

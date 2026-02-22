@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hauteur de la tige : Ankle
-- Type de talons: Appartement
 - Fermeture : À enfiler
-- Dessus : Cuir
-- Largeur de la chaussure: Moyen
+- Type de talons: Appartement
 - Matériau de semelle: Caoutchouc, caoutchouc recyclé
+- Largeur de la chaussure: Moyen
+- Dessus : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081QH9VVP{{</world>}}

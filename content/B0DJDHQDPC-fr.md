@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode entraînement : Sélectionnez votre personnage préféré, faites apparaître les hit boxes, les dégâts infligés et plus encore pour progresser !
 - Jeu en ligne : Jouez avec des gens du monde entier en mode détente ou en compétitif.
-- Boîte de jeu incluant un code de téléchargement uniquement. MARVEL vs. CAPCOM Fighting Collection: Arcade Classics est une compilation incluant 7 jeux iconiques ravivant la nostalgie de l’époque et incluant de nouvelles options
 - Liste de commandes OG : Consultez la plaquette originale de liste de commandes à tout moment !
+- Mode entraînement : Sélectionnez votre personnage préféré, faites apparaître les hit boxes, les dégâts infligés et plus encore pour progresser !
+- Boîte de jeu incluant un code de téléchargement uniquement. MARVEL vs. CAPCOM Fighting Collection: Arcade Classics est une compilation incluant 7 jeux iconiques ravivant la nostalgie de l’époque et incluant de nouvelles options
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJDHQDPC{{</world>}}

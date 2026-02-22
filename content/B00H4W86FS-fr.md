@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Surface de puzzle: 68 x 48 cm
-- Nombre de pièces: 1000
 - Recommandé de Âge: 12 ans
+- Nombre de pièces: 1000
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00H4W86FS{{</world>}}

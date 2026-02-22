@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriquée dans un mélange de polycarbonate optiquement transparent et de matériaux souples, elle épouse parfaitement la forme des boutons de l’iPhone. Un revêtement anti‑rayures a été appliqué aussi bien à l’extérieur qu’à l’intérieur. De plus, tous les matériaux et revêtements sont conçus pour résister au jaunissement.
 - Comme toutes les coques conçues par Apple, elle a été soumise à des milliers d’heures de test lors de la conception et de la fabrication. Elle sublime votre iPhone, mais le protège aussi des rayures et des chutes.
 - Dotée d’aimants intégrés qui s’ajustent parfaitement à l’iPhone 15 Pro, la coque se fixe avec une aisance presque magique et offre une recharge sans fil plus rapide. Pour recharger votre iPhone, il vous suffit de le laisser dans sa coque et d’y fixer votre chargeur MagSafe ou de le déposer sur votre chargeur certifié Qi.
+- Fabriquée dans un mélange de polycarbonate optiquement transparent et de matériaux souples, elle épouse parfaitement la forme des boutons de l’iPhone. Un revêtement anti‑rayures a été appliqué aussi bien à l’extérieur qu’à l’intérieur. De plus, tous les matériaux et revêtements sont conçus pour résister au jaunissement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHX82T5P{{</world>}}

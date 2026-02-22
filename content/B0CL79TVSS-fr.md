@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - AUTRES FONCTIONNALITES - Lappareil dispose dautres fonctions tels que la scène automatique, le suivi dobjet, les fonctions de post-montage et une foule de paramètres puissants mais conviviaux rendent la photographie facile, amusante et sans tracas.
-- CAPACITÉS OPTIQUES - Un zoom ultra long 40x avec stabilisation optique de limage permet de réaliser des gros plans, des panoramas ou des vidéos HD dune clarté exceptionnelle de 20 mégapixels.
-- AFFICHAGE - Le KODAK PIXPRO AZ405 possède un écran LCD 3 pouces avec une capacité de 460,000 pixels.
 - FACILE À UTILISER – Lappareil photo KODAK AZ405 est facile à utiliser et constitue un cadeau idéal, parfait pour capturer des photos rétro classiques lors de tout événement et créer des souvenirs qui dureront pour toujours.
+- CAPACITÉS OPTIQUES - Un zoom ultra long 40x avec stabilisation optique de limage permet de réaliser des gros plans, des panoramas ou des vidéos HD dune clarté exceptionnelle de 20 mégapixels.
 - ALIMENTATION - Fonctionne avec des piles AA, pour ne jamais manquer dénergie, où que vous soyez.
+- AFFICHAGE - Le KODAK PIXPRO AZ405 possède un écran LCD 3 pouces avec une capacité de 460,000 pixels.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CL79TVSS{{</world>}}

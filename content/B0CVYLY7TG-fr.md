@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 4.ENSEMBLE COMPLET - Le kit Canon EOS R100 comprend lobjectif RF-S 18-45 mm F4,5-6,3 IS STM, un sac pour appareil photo et une carte mémoire SD de 64 Go; impeccable pour une utilisation immédiate et vos aventures photographiques
-- 2.PRÉCIS ET PRATIQUE - Le moteur STM de lappareil photo numérique Canon permet une mise au point fluide et silencieuse; le diaphragme à 7 lamelles (F4,5-6,3) garantit un flou darrière-plan et des effets bokeh
 - 3.LIBERTÉ CRÉATIVE - Laissez libre cours à votre créativité; grâce à lassistant créatif de lappareil photo Canon EOS R, vous pouvez personnaliser les effets, la lumière, les couleurs et la netteté de larrière-plan pour obtenir des résultats remarquables
 - 5.CONTENU DE LA LIVRAISON - 1x appareil photo EOS R100, 1x objectif RF-S 18-45 mm IS STM, 1x sacoche pour appareil photo, 1x carte mémoire SD 64 Go, 1x chargeur de batterie LC-E17E, 1x batterie, 1x câble dalimentation
+- 4.ENSEMBLE COMPLET - Le kit Canon EOS R100 comprend lobjectif RF-S 18-45 mm F4,5-6,3 IS STM, un sac pour appareil photo et une carte mémoire SD de 64 Go; impeccable pour une utilisation immédiate et vos aventures photographiques
 - 1.PRISE EN MAIN FACILE - Lappareil photo numérique Canon EOS R100 avec capteur APS-C 24,1 MP et autofocus CMOS Dual Pixel offre une utilisation simple et des images dune netteté remarquable; impeccable pour les débutants et les photographes confirmés
+- 2.PRÉCIS ET PRATIQUE - Le moteur STM de lappareil photo numérique Canon permet une mise au point fluide et silencieuse; le diaphragme à 7 lamelles (F4,5-6,3) garantit un flou darrière-plan et des effets bokeh
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CVYLY7TG{{</world>}}

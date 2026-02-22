@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez une aventure Pokémon urbaine dans une ville qui fourmille de Pokémon et de possibilités dans Légendes Pokémon : Z-A sur Nintendo Switch 2 ! Explorez Illumis, élucidez ses mystères, découvrez des Pokémon méga-évolués, et prenez part à des combats Pokémon dynamiques et en temps réel.
-- Pour la première fois, Dresseurs et Pokémon se déplacent ensemble et agissent en temps réel pendant les combats ! Vos Pokémon lancent leurs capacités dès que vous leur en donnez lordre, quil sagisse dattaquer, desquiver, ou bien plus encore !
-- Votre aventure se déroule dans la plus grande ville de la région de Kalos ! Ici, les cafés, boutiques et restaurants côtoient des espaces naturels tels que des parcs verdoyants et des plans deau. Un plan de réaménagement urbain a été mis en œuvre par la société Quazar, visant à faire dIllumis un lieu appartenant autant aux êtres humains quaux Pokémon.
 - Vous pouvez jouer à la version mise à niveau de Légendes Pokémon : Z-A sur Nintendo Switch 2 pour profiter de meilleurs graphismes et de performances améliorées.
+- Votre aventure se déroule dans la plus grande ville de la région de Kalos ! Ici, les cafés, boutiques et restaurants côtoient des espaces naturels tels que des parcs verdoyants et des plans deau. Un plan de réaménagement urbain a été mis en œuvre par la société Quazar, visant à faire dIllumis un lieu appartenant autant aux êtres humains quaux Pokémon.
+- Découvrez une aventure Pokémon urbaine dans une ville qui fourmille de Pokémon et de possibilités dans Légendes Pokémon : Z-A sur Nintendo Switch 2 ! Explorez Illumis, élucidez ses mystères, découvrez des Pokémon méga-évolués, et prenez part à des combats Pokémon dynamiques et en temps réel.
 - Alors que vous arrivez à Illumis dans le simple but de visiter la ville, certains événements vous conduisent à vous lier damitié avec un Pokémon qui vous accompagnera dans votre aventure en tant que Dresseur ou Dresseuse de Pokémon. Qui allez-vous choisir parmi Germignon, Gruikui et Kaiminus ?
+- Pour la première fois, Dresseurs et Pokémon se déplacent ensemble et agissent en temps réel pendant les combats ! Vos Pokémon lancent leurs capacités dès que vous leur en donnez lordre, quil sagisse dattaquer, desquiver, ou bien plus encore !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FGDR5TSL{{</world>}}

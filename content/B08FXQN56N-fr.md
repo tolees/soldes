@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Touches programmables avec enregistrement des macros à la volée et mémoire embarquée pour un gameplay plus personnalisé
-- Repose poignet détachable, plus ergonomique et confortable
-- Éclairage RGB dynamique et barres latérales lumineuses pour mettre votre setup en valeur
-- Revêtement durable en plastique ultra-résistant et antiéclaboussures (jusqu’à 300 ml) pour plus de fiabilité au quotidien
 - Application Armoury Crate avec contrôles extensifs et interface intuitive pour un clavier 100 % adapté à vos besoins
 - Bouton dédié pour un ajustement rapide et facile du volume
+- Repose poignet détachable, plus ergonomique et confortable
+- Touches programmables avec enregistrement des macros à la volée et mémoire embarquée pour un gameplay plus personnalisé
+- Revêtement durable en plastique ultra-résistant et antiéclaboussures (jusqu’à 300 ml) pour plus de fiabilité au quotidien
+- Éclairage RGB dynamique et barres latérales lumineuses pour mettre votre setup en valeur
 - Switches tactiles TUF Gaming avec technologie N-Key Rollover sur 19 touches pour des performances plus rapides et fiables
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

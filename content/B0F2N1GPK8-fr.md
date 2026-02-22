@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 🔹 Contrôle tactile indépendant - Cette station de chargement pour Switch 2 /Switch 2017 pour Joycon dispose dun interrupteur dalimentation à une touche pour activer/désactiver la charge instantanément, ce qui permet déconomiser de lénergie et déviter la surcharge.
+- 🔹 Compatibilité double génération - Cette station daccueil de chargement est compatible avec Nintendo Switch 2 (chargement magnétique)，Switch 2017 (chargement par glissement) et la Switch OLED. Chargez 4 Joypad simultanément avec des emplacements dédiés à chaque génération.(Les manettes et les consoles ne sont pas incluses).
+- 🔹 Indicateurs LED intelligents – Lumière orange = charge en cours ; lumière bleue = charge complète/mode veille. Cette station daccueil de charge pour Switch 2 et Switch 2017 pour Joycon avec 4 indicateurs LED intelligents. Ne devinez plus jamais létat de la batterie !
 - 🔹 Chargement magnétique pour Switch 2 – Les emplacements de chargement pour Switch 2 sont dotés dun chargement magnétique, qui réduit lusure des manettes de Switch 2 et prolonge la durée de vie du joypad 2. Cela facilite également le chargement, de sorte que vous navez plus à vous inquiéter de ne pas pouvoir connecter votre joypad 2 au port de chargement.
 - 🔹 Protection de sécurité avancée - La protection intégrée contre les surcharges, les courts-circuits et les surtensions garantit une charge sûre et efficace pour vos manettes et votre console. Un dock de charge rétro-beau et sécurisé est le cadeau idéal pour les joueurs de Switch.
-- 🔹 Indicateurs LED intelligents – Lumière orange = charge en cours ; lumière bleue = charge complète/mode veille. Cette station daccueil de charge pour Switch 2 et Switch 2017 pour Joycon avec 4 indicateurs LED intelligents. Ne devinez plus jamais létat de la batterie !
-- 🔹 Compatibilité double génération - Cette station daccueil de chargement est compatible avec Nintendo Switch 2 (chargement magnétique)，Switch 2017 (chargement par glissement) et la Switch OLED. Chargez 4 Joypad simultanément avec des emplacements dédiés à chaque génération.(Les manettes et les consoles ne sont pas incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2N1GPK8{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LEXPÉRIENCE ULTIME DU JEU DACTION !
-- UN JEU D’ACTION HALETANT ET STRATÉGIQUE !
 - DES PERSONNAGES RÉINVENTÉS AVEC UN STYLE MODERNE !
+- UN JEU D’ACTION HALETANT ET STRATÉGIQUE !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQDQSHZ1{{</world>}}

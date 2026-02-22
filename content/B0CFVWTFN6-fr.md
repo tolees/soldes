@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Une minifigurine – La voiture jouet à construire McLaren inclut une minifigurine de pilote avec un casque, des cheveux et une clé à molette. Elle peut être placée au volant de la voiture et participer à des courses de F1 effrénées sur le circuit
 - Des modèles de voitures culte pour jouer et décorer une pièce – Les sets LEGO Speed Champions invitent les enfants et les passionnés de voitures à construire des répliques de quelques-uns des véhicules les plus mythiques au monde
-- Un véhicule McLaren pour enfants – Cette voiture de course de Formule 1 McLaren 2023 LEGO est conçue pour les garçons et les filles dès 9 ans, les passionnés de F1 et les amoureux de la célèbre marque de voitures
 - Des détails de la vraie voiture McLaren – La voiture de course de Formule 1 McLaren 2023 arbore la livrée noire et orange papaye unique, les logos des sponsors de l’écurie, les roues avec l’impression Pirelli et le halo de sécurité papaye
+- Un véhicule McLaren pour enfants – Cette voiture de course de Formule 1 McLaren 2023 LEGO est conçue pour les garçons et les filles dès 9 ans, les passionnés de F1 et les amoureux de la célèbre marque de voitures
 - Des courses encore plus palpitantes – Découvrez les autres répliques de voitures jouet LEGO Speed Champions (sets de construction vendus séparément)
 - Une voiture LEGO à exposer – Après avoir joué à la course avec la voiture jouet de F1 sur le circuit, les enfants peuvent l’exposer avec fierté sur une étagère ou une table de chevet
 

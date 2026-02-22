@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ideal para decorar tu agenda.
-- Format pratique à emporter partout
-- Agenda Office 2026 Semainier au design unique et plein de charme
 - Matériaux de qualité et touche Mr. Wonderful
+- Format pratique à emporter partout
+- Ideal para decorar tu agenda.
+- Agenda Office 2026 Semainier au design unique et plein de charme
 - À offrir ou à s’offrir sans hésiter !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

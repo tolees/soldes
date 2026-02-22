@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES CHEVEUX HYDRATES SANS ETRE ALOURDIS : La gélée lavante Curl Expression élimine les impuretés et résidus tout en hydratant les cheveux en profondeur avec un effet longue durée sans les alourdir**. Les cheveux sont plus doux et faciles à démêler.
-- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce shampoing-gel sans sulfate* est enrichi en glycérine hydratante dorigine végétale et en urea H qui renforce lhydratation capillaire.
 - SHAMPOING PROFESSIONNEL POUR CHEVEUX BOUCLES & CREPUS : Le Shampoing Curl Expression nettoie les cheveux afro, crépus ou bouclés en douceur et leur apporte une hydratation intense. Il purifie la fibre capillaire et le cuir chevelu, le tout avec un parfum addictif et floral.
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - CONSEILS DUTILISATION : Appliquer la gelée lavante sur les cheveux et le cuir chevelu mouillés, puis faire mousser. Rincer abondamment. Compléter avec le Masque Riche Hydratant Intensif Curl Expression. Idéal après avoir réalisé des coiffures protectrices.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce shampoing-gel sans sulfate* est enrichi en glycérine hydratante dorigine végétale et en urea H qui renforce lhydratation capillaire.
+- DES CHEVEUX HYDRATES SANS ETRE ALOURDIS : La gélée lavante Curl Expression élimine les impuretés et résidus tout en hydratant les cheveux en profondeur avec un effet longue durée sans les alourdir**. Les cheveux sont plus doux et faciles à démêler.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09YDJMM9B{{</world>}}

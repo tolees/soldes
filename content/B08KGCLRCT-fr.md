@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très robuste, il est livré avec un collier de serrage d’un diamètre de 38 mm (1 1/2"), sa pression de fonctionnement maximale est de 5 bar et sa pression de rupture 15 bar.
 - Le tuyau de refoulement de 10 m de long est souple, flexible.
+- Très robuste, il est livré avec un collier de serrage d’un diamètre de 38 mm (1 1/2"), sa pression de fonctionnement maximale est de 5 bar et sa pression de rupture 15 bar.
 - Le tuyau de refoulement avec collier de serrage 38 mm (1 1/2") GARDENA, permet d’évacuer ou transvaser de l’eau très rapidement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

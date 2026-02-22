@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - COMBAT LES SYMPTOMES DU RHUME : ce spray nasal pour adultes et enfants à partir de 6 ans combat les symptomes du rhume et soulage la rhinosinusite
-- DECONGESTION RAPIDE : ce spray nasal décongestionnant fluidifie et élimine le mucus, même épais, débouche le nez en moins dune minute
 - INFORMATIONS : 1 spray nasal 50 ml - 1 pulvérisation jusquà 6 fois par jour - convient aux enfants dès 6 ans - déconseillé aux femmes enceintes - efficacité cliniquement prouvée - dispositif médical
 - SPRAY EAU DE MER 100% NATURELLE : solution hypertonique à leau de mer 100% naturelle enrichie en Cuivre, huile essentielle dEucalyptus & Acides Hyaluroniques, recommandée en cas de rhume ou sinusite
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - FACILE À UTILISER : ce spray nasal est doté dun embout ergonomique exclusif et dun système de microdiffusion parfaitement adapté aux nez des enfants & des adultes
+- Les informations ci-dessous sappliquent à chaque unité du pack
+- DECONGESTION RAPIDE : ce spray nasal décongestionnant fluidifie et élimine le mucus, même épais, débouche le nez en moins dune minute
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZNKF627{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appliquer le produit deux fois par jour, le matin et à midi, sur les zones affectées; en cas dexposition directe au soleil, réappliquer le produit toutes les 2 heures.
-- Résistant à leau et texture fluide facile à appliquer
-- Réparateurs dADN et filtres UV
 - Son utilisation continue favorise le mécanisme de réparation naturelle de lADN
+- Réparateurs dADN et filtres UV
+- Résistant à leau et texture fluide facile à appliquer
+- Appliquer le produit deux fois par jour, le matin et à midi, sur les zones affectées; en cas dexposition directe au soleil, réappliquer le produit toutes les 2 heures.
 - Laisse sur la peau un film protecteur à base de Repairsomes qui contiennent de la photoliase encapsulée en liposomes et filtres UV qui absorbent, reflètent et dispersent les rayons solaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

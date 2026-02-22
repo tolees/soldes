@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 16 Go de RAM + SSD 512 Go : Excellente fluidité multitâche et stockage rapide pour vos fichiers, jeux et logiciels.
-- Processeur Intel Core i5-13450HX : Puissance et réactivité pour toutes vos tâches, y compris les jeux et logiciels lourds.
-- Clavier rétroéclairé AZERTY Français : Confort de frappe avec rétroéclairage pour une utilisation agréable même dans lobscurité.
-- Écran 15,6" Full HD (1920x1080) : Images nettes et fluides, idéal pour le gaming, la bureautique et le multimédia.
 - Carte graphique NVIDIA GeForce RTX 5060 8 Go : Performances graphiques de nouvelle génération pour les jeux AAA et la création.
+- Clavier rétroéclairé AZERTY Français : Confort de frappe avec rétroéclairage pour une utilisation agréable même dans lobscurité.
+- Processeur Intel Core i5-13450HX : Puissance et réactivité pour toutes vos tâches, y compris les jeux et logiciels lourds.
+- Écran 15,6" Full HD (1920x1080) : Images nettes et fluides, idéal pour le gaming, la bureautique et le multimédia.
+- 16 Go de RAM + SSD 512 Go : Excellente fluidité multitâche et stockage rapide pour vos fichiers, jeux et logiciels.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00OLBAM0W{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - LIGHTSYNC RVB: personnalisez léclairage de chaque touche ainsi que les effets déclairage et profitez de lintégration en jeu dun spectre de 16,8 millions de couleurs environ grâce à Logitech G HUB
 - SWITCHS MÉCANIQUES: les switchs GX Brown sont des switchs mécaniques classiques offrant une activation discernable aux joueurs qui préfèrent un retour tactile direct. Ce clavier est également disponible en versions Linéaire et Clicky, vendues séparément
-- ALLIAGE EN ALUMINIUM DE QUALITÉ AÉRONAUTIQUE: létui en aluminium 5052 de qualité aéronautique est anodisé et brossé pour un design fin et premium ainsi quune durabilité rigide
 - REPOSE-POIGNETS À MÉMOIRE DE FORME: la mousse à mémoire de forme retrouve rapidement et complètement sa forme de base, de sorte que chaque utilisation est toujours aussi confortable
+- ALLIAGE EN ALUMINIUM DE QUALITÉ AÉRONAUTIQUE: létui en aluminium 5052 de qualité aéronautique est anodisé et brossé pour un design fin et premium ainsi quune durabilité rigide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W6HCYTR{{</world>}}

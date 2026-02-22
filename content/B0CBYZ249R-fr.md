@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareils compatibles : ordinateur portable
 - MZ-V9P4T0GW
+- Appareils compatibles : ordinateur portable
 - Marque : SAMSUNG - DISQUES SSD (SS)
+- Type dinstallation : Disque dur interne
+- 8806095255811
 - Plateforme matérielle : Non spécifique à la machine
 - Facteur de forme : M 2
-- 8806095255811
-- Type dinstallation : Disque dur interne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBYZ249R{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu : 1x Sérum Anti-Imperfections au Charbon, Niacinamide et AHA+BHA, Garnier PureActive, Contenance : 30 ml
 - Application : Appliquer sur visage propre et faire soigneusement pénétrer dans la peau, À utiliser en sérum quotidien (matin et soir) ou sur les boutons, Éviter le contact avec les yeux, Produit mixte, aussi efficace sur les femmes que sur les hommes
 - Résultats : Une peau plus lisse et uniforme après la 1ère utilisation, Grain de peau affiné et teint plus uniforme dès 7 jours, -44% dimperfections en 28 jours (test clinique, 37 volontaires avec une application 2 fois par jours pendant 21 jours)
-- Contenu : 1x Sérum Anti-Imperfections au Charbon, Niacinamide et AHA+BHA, Garnier PureActive, Contenance : 30 ml
 - Sérum anti-imperfections concentré (4%) en actifs reconnus pour réduire les points noirs, les boutons, lapparence de marques dacné résiduelles et les imperfections du visage, Idéal pour les peaux à tendance acnéique
 - Formule au Niacinamide, AHA (Acide Lactique), BHA (Acide Salicylique) et Charbon, Absorption rapide et légère, Aucun résidu noir visible, Non collant, Aucun ingrédient ou dérivé dorigine animale, Non testé sur les animaux, Testé dermatologiquement
 

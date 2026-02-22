@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contents: 1x Columbia Challenger II, Veste Coupe-Vent pour Homme, Colour: Vert (Safari, Greenscape), Size: XS, Article: 2091001
-- Veste coupe-vent avec capuche et tissu résistant à leau pour le jour, la nuit, la randonnée, les activités extérieures et promenades en ville, Coupe active
-- Ourlet à cordon de serrage pour un confort optimal, Polyester léger et durable
 - Fermeture demi-zip avec Velcro, 2 poches pour des mains au chaud ou vos affaires en sécurité, Poche zippée au niveau du bras
 - Veste utilisable tout au long de lannée : Tissu résistant à leau, Capuche ajustable avec un cordon de serrage et poignets élastiques
+- Veste coupe-vent avec capuche et tissu résistant à leau pour le jour, la nuit, la randonnée, les activités extérieures et promenades en ville, Coupe active
+- Ourlet à cordon de serrage pour un confort optimal, Polyester léger et durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CLQQQPCP{{</world>}}

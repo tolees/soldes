@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Transfert de données jusquà 9,5 fois plus rapide quun disque dur externe, avec une vitesse de lecture¹ jusquà 1050 Mo/s et décriture séquentielle¹ jusquà 1000 Mo/s pour booster votre efficacité
-- Logiciel Samsung Magician⁹ : gestion optimale du SSD
 - Interface : USB 3.2 Gen 2 (jusquà 10Gbps), rétro-compatible⁵
-- Contenu : 1x Samsung SSD Externe T7 Shield 2 To Beige, câbles USB-C vers C et vers A, notice dutilisation
 - Robustesse: Résistance aux chocs, à leau et à la poussière selon la norme IP65 et résistance aux chutes de 3 mètres²
+- Logiciel Samsung Magician⁹ : gestion optimale du SSD
+- Contenu : 1x Samsung SSD Externe T7 Shield 2 To Beige, câbles USB-C vers C et vers A, notice dutilisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SBDYJVC{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Batterie longue autonomie de 6000 mAh, performances de batterie inégalées】Le POCO C85 est équipé dune batterie longue autonomie de 6000 mAh dans un boîtier élégant. Une puissance longue durée avec des performances extraordinaires.
-- 【Écran immersif de 6,9 pouces, AdaptiveSync jusquà 120 Hz】Le grand écran de 6,9 pouces offre une expérience visuelle immersive avec une clarté et une luminosité exceptionnelles. Grâce à un taux de rafraîchissement adaptatif pouvant atteindre 120 Hz, profitez dune expérience fluide et immersive, que vous naviguiez sur Internet ou regardiez des vidéos.
-- 【Dos courbé, design élégant et raffiné】Conçu pour le confort, le boîtier fin du POCO C85 offre une prise en main confortable et une manipulation sans effort, ce qui le rend idéal pour les modes de vie actifs.
-- 【Processeur octa-core puissant, fiable et stable】Équipé du MediaTek Helio G81-Ultra, le POCO C85 offre des performances fluides pour les applications quotidiennes, le multitâche et les jeux légers. Il est efficace, réactif et économe en énergie.
 - 【Système à double caméra 50 MP avec IA, mode Ultra HD Découvrez des détails saisissants】Sadapte à divers scénarios de prise de vue, capturant des textures riches et des jeux dombre et de lumière réalistes, pour vous permettre dimmortaliser sans effort de magnifiques moments.
+- 【Processeur octa-core puissant, fiable et stable】Équipé du MediaTek Helio G81-Ultra, le POCO C85 offre des performances fluides pour les applications quotidiennes, le multitâche et les jeux légers. Il est efficace, réactif et économe en énergie.
+- 【Dos courbé, design élégant et raffiné】Conçu pour le confort, le boîtier fin du POCO C85 offre une prise en main confortable et une manipulation sans effort, ce qui le rend idéal pour les modes de vie actifs.
+- 【Écran immersif de 6,9 pouces, AdaptiveSync jusquà 120 Hz】Le grand écran de 6,9 pouces offre une expérience visuelle immersive avec une clarté et une luminosité exceptionnelles. Grâce à un taux de rafraîchissement adaptatif pouvant atteindre 120 Hz, profitez dune expérience fluide et immersive, que vous naviguiez sur Internet ou regardiez des vidéos.
+- 【Batterie longue autonomie de 6000 mAh, performances de batterie inégalées】Le POCO C85 est équipé dune batterie longue autonomie de 6000 mAh dans un boîtier élégant. Une puissance longue durée avec des performances extraordinaires.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FHQCYCNW{{</world>}}

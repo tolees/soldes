@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - À VOS CÔTÉS, POUR UNE BEAUTÉ ENGAGÉE : Chez SVR, depuis 1962, nous plaçons l’éthique, la santé et l’environnement au cœur de nos engagements. Chaque jour, nous innovons pour vous offrir des soins dermocosmétiques clean, sûrs, efficaces et formulés sans ingrédients controversés, dans le respect de votre peau et de la planète.
 - CONSEILS DUTILISATION : Appliquer matin et soir sur une peau propre et sèche, sur lensemble du visage ou localement sur les zones concernées. Sa texture légère et non grasse pénètre rapidement, idéale sous le maquillage. Convient aux adultes et adolescents dès 12 ans.
-- FORMULE DERMATOLOGIQUE HAUTE PERFORMANCE : Enrichi en 14% de gluconolactone (PHA) pour une exfoliation douce, 4% de niacinamide pour apaiser et réguler le sébum, et de lacide salicylique pour désobstruer les pores, ce gel-crème offre une action complète contre les imperfections sans agresser la peau.
 - EFFICACITÉ PROUVÉE : Dès 7 jours dutilisation, les utilisateurs constatent une réduction visible des imperfections. Après 28 jours, 90% rapportent une peau apaisée et 87% une hydratation améliorée, avec une diminution significative des marques rouges et brunes.
+- FORMULE DERMATOLOGIQUE HAUTE PERFORMANCE : Enrichi en 14% de gluconolactone (PHA) pour une exfoliation douce, 4% de niacinamide pour apaiser et réguler le sébum, et de lacide salicylique pour désobstruer les pores, ce gel-crème offre une action complète contre les imperfections sans agresser la peau.
 - SOIN CIBLÉ POUR PEAUX À IMPERFECTIONS : Le Sebiaclear Active Gel de SVR est un traitement intensif conçu pour réduire efficacement les boutons, points noirs et marques résiduelles. Sa formule concentrée agit rapidement pour améliorer la texture de la peau et limiter les brillances, tout en respectant les peaux sensibles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

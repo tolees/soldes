@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une voiture en métal à l’échelle 1/64 avec figurine Mario fixe inspirée du film est incluse dans le coffret pour jouer sans attendre !
-- Ce coffret circuit constitue une excellente idée de cadeau pour les enfants qui aiment les cascades et les courses de vitesse, et encore plus s’ils sont fans de Super Mario Bros.
 - Recréez chez vous l’aventure du film grâce au coffret Hot Wheels Royaume de la Jungle du film Super Mario Bros !
+- Ce coffret circuit constitue une excellente idée de cadeau pour les enfants qui aiment les cascades et les courses de vitesse, et encore plus s’ils sont fans de Super Mario Bros.
 - Appuyez sur le lanceur pour faire foncer le bolide vers la première cascade !
 - Les voitures devront négocier un looping brisé, un saut au-dessus d’une cascade et des virages serrés pour terminer le circuit et recommencer !
 

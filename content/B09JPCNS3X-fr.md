@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PARTAGEZ VOTRE CONTENU AUTOUR DE VOUS Pour une transmission stable des images, vous pouvez facilement vous connecter à votre smartphone via lapplication Creators. Pour les réunions en ligne et le streaming, lappareil photo peut être converti en une webcam 4K de haute qualité. Connexion à liPhone : 1) Téléchargez lapplication Sony Creators depuis lApp Store. 2) Activez le Bluetooth et le WiFi sur liPhone et lappareil photo. 3) Connectez les appareils via lapplication. > Vous pouvez ensuite transférer directement des photos et des vidéos et contrôler lappareil photo à distance via votre smartphone.
 - CONTENU DE LA LIVRAISON : Boîtier A7 IV, objectif SEL2870 avec couvercle, pare-soleil, batterie NP-FZ100, sans chargeur (il est recommandé d’utiliser un chargeur 9V/3A ou le Sony BC-QZ1), câble USB-C.
-- Pour les utilisateurs expérimentés, lAlpha 7 IV peut enregistrer en interne en 4K, 60p, 4:2:2 10 bits et intègre les profils dimage S-CINETONE/S-LOG 3 pour un rendu cinématique et une post production facilité
+- Avec son nouveau design raffiné et ergonomique, lAlpha 7 IV intègre un nouveau viseur électronique ultra-réaliste de 3,69 millions de points, un écran arrière orientable full tactile de 7,6 cm (3") pour une experience unique en photo comme en vidéo
 - Associé au processeur ultra-puissant Bionz XR, le nouveau capteur Exmor R rétro-éclairé plein format de 33 mégapixels garantit une qualité dimages encore plus exceptionnelle, associant haute définition et qualité dimage en faible luminosité
+- Equipé des dernières technologies de mise au point AF et de suivi en temps réel du sujet et des Yeux (humains, animaux ou oiseaus), lAlpha 7 IV vous permet de suivre précisément et sans effort votre sujet tout en prenant le temps de cadrer
 - LAlpha 7 IV permet le streaming en direct en Full HD 60p, sans carte dacquisition, directement via lUSB-C, afin que vous puissiez rester connecté avec votre public
 - Technologie de pointe Sony : choisissez parmi plus de 40 objectifs Sony originaux plein format pour laisser libre cours à votre créativité. Grâce à ces objectifs spécialement conçus pour les appareils photo Sony, vous pouvez facilement capturer des images dexcellente qualité.
-- Equipé des dernières technologies de mise au point AF et de suivi en temps réel du sujet et des Yeux (humains, animaux ou oiseaus), lAlpha 7 IV vous permet de suivre précisément et sans effort votre sujet tout en prenant le temps de cadrer
-- Avec son nouveau design raffiné et ergonomique, lAlpha 7 IV intègre un nouveau viseur électronique ultra-réaliste de 3,69 millions de points, un écran arrière orientable full tactile de 7,6 cm (3") pour une experience unique en photo comme en vidéo
+- PARTAGEZ VOTRE CONTENU AUTOUR DE VOUS Pour une transmission stable des images, vous pouvez facilement vous connecter à votre smartphone via lapplication Creators. Pour les réunions en ligne et le streaming, lappareil photo peut être converti en une webcam 4K de haute qualité. Connexion à liPhone : 1) Téléchargez lapplication Sony Creators depuis lApp Store. 2) Activez le Bluetooth et le WiFi sur liPhone et lappareil photo. 3) Connectez les appareils via lapplication. > Vous pouvez ensuite transférer directement des photos et des vidéos et contrôler lappareil photo à distance via votre smartphone.
+- Pour les utilisateurs expérimentés, lAlpha 7 IV peut enregistrer en interne en 4K, 60p, 4:2:2 10 bits et intègre les profils dimage S-CINETONE/S-LOG 3 pour un rendu cinématique et une post production facilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JPCNS3X{{</world>}}

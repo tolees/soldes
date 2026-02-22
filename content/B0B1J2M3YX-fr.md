@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Contrôle Précis de la Température】Cette station 2 EN 1 est également dotée de fonctions de précision avancées telles que létalonnage numérique de la température et les modes daffichage de la température C°/F°. Vous pouvez corriger les écarts de température du fer à souder en mesurant et en saisissant simplement sa valeur de température réelle dans linterface détalonnage.
 - 【Applications étendues】Station de Soudage La poignée du fer à souder adopte un noyau de fer importé de haute puissance, Il convient à la réparation déquipements électroniques, de téléphones portables, de communications et de production industrielle, ainsi quà la recherche de préchauffage , refroidissement et séchage.
-- 【Pas de Protection Contre le Vent】Pendant lutilisation, si le pistolet à air chaud sarrête anormalement, le programme définira automatiquement une alarme et coupera lalimentation électrique du noyau chauffant pour stabilité et sécurité élevées.
 - 【Fonction de Veille】Le fer à souder détectera automatiquement son état de fonctionnement. À létat statique, le temps de veille défini sera atteint et la température du fer à souder se refroidira automatiquement à 200 ℃ et entrera en état de veille.
+- 【Pas de Protection Contre le Vent】Pendant lutilisation, si le pistolet à air chaud sarrête anormalement, le programme définira automatiquement une alarme et coupera lalimentation électrique du noyau chauffant pour stabilité et sécurité élevées.
+- 【Contrôle Précis de la Température】Cette station 2 EN 1 est également dotée de fonctions de précision avancées telles que létalonnage numérique de la température et les modes daffichage de la température C°/F°. Vous pouvez corriger les écarts de température du fer à souder en mesurant et en saisissant simplement sa valeur de température réelle dans linterface détalonnage.
 - 【Ecart de Température】Fer a Souder La station de reprise à lair chaud supporte une plage de température de 100°C à 500°C, et la station de soudage supporte une plage de température de 200°C à 480°C pour vos travaux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

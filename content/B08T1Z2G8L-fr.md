@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pommeau de douche Vitalio Joy 110mm équipée de 3 jets : Rain, SmartRain et Massage. Tuyau de douche VitalioFlex Silver dune longueur de 1750mm doté du système anti-torsion et de lanneau de protection en silicone ShockProof.
-- Colonne de douche équipée dun bras de douche dune profondeur de 464mm à 472mm et orientable horizontalement. Le mitigeur thermostatique maintient l’eau à la température choisie et permet de sélectionner la douche de tête ou la douchette.
-- Le chrome de la colonne de douche est éclatant et durable grâce à la technologie Long-Life Shine. La colonne Vitalio 260 est idéalement conçue pour un montage simple et standard grâce à ses raccords en S d’un diamètre de 1/2".
 - La garantie fabricant GROHE est de 5 ans. Dans léventualité, dune réparation ou dun remplacement, nous nous tenons à votre disposition.
+- Le chrome de la colonne de douche est éclatant et durable grâce à la technologie Long-Life Shine. La colonne Vitalio 260 est idéalement conçue pour un montage simple et standard grâce à ses raccords en S d’un diamètre de 1/2".
+- Colonne de douche équipée dun bras de douche dune profondeur de 464mm à 472mm et orientable horizontalement. Le mitigeur thermostatique maintient l’eau à la température choisie et permet de sélectionner la douche de tête ou la douchette.
 - Douche de tête ronde Vitalio 3 jets dune dimension XXL de 260mm de large. 3 jets pour 3 intensités au choix. Les buses en silicone permettent déliminer les résidus de calcaire afin de garder les jets parfaitement uniformes.
 - EcoJoy : jusquà 50% déconomie deau et dénergie grâce à un débit réduit à 9,5/min pour la douche de tête et le pommeau de douche
+- Pommeau de douche Vitalio Joy 110mm équipée de 3 jets : Rain, SmartRain et Massage. Tuyau de douche VitalioFlex Silver dune longueur de 1750mm doté du système anti-torsion et de lanneau de protection en silicone ShockProof.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08T1Z2G8L{{</world>}}

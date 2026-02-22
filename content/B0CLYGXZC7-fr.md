@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en maille respirante 100 % recyclée, lacets recyclés, sangle et doublure en maille
-- Semelle extérieure Vibram EcoStep conçue avec 30 % de caoutchouc recyclé qui offre une durabilité accrue et une meilleure adhérence sur les surfaces humides et sèches
-- Semelle intérieure en mousse EVA intégrée à 30 % recyclée
 - Merrell La construction Barefoot 2 est conçue pour maintenir le pied dans une position naturelle
+- Semelle extérieure Vibram EcoStep conçue avec 30 % de caoutchouc recyclé qui offre une durabilité accrue et une meilleure adhérence sur les surfaces humides et sèches
 - Semelle intermédiaire FloatPro Foam pour un confort léger et durable
+- Dessus en maille respirante 100 % recyclée, lacets recyclés, sangle et doublure en maille
+- Semelle intérieure en mousse EVA intégrée à 30 % recyclée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLYGXZC7{{</world>}}

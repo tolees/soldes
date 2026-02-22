@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité Barbier pour un rasage traditionnel
 - Lames à Double Tranchant pour un rasage de près unique et confortable
 - Manche en métal premium
+- Qualité Barbier pour un rasage traditionnel
 - Emballage fabriqué avec plus de 90% de papier recyclé. Emballage recyclable, vérifiez vos installations de recyclage locales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VERSION : Française
-- INTERACTIF : 5 jeux sont intégrés pour créer des mélodies, exercer sa mémoire, découvrir la pensée du jour et bien plus encore
-- ÂGE : De 6 à 12 ans, un journal intime avec un feutre à encre invisible pour cacher tous ses secrets
 - INCLUS : Réglage du volume sonore / Un feutre à encre invisible / Une lampe UV. Fonctionne avec 3 piles LR6 AA incluses
 - MAGIQUE : Le carnet A6 de 30 pages et le feutre à encre invisible inclus permettent d’écrire tous ses secrets et de les révéler avec la lampe UV Le compartiment derrière le carnet permet de cacher des objets ou des souvenirs
+- INTERACTIF : 5 jeux sont intégrés pour créer des mélodies, exercer sa mémoire, découvrir la pensée du jour et bien plus encore
+- ÂGE : De 6 à 12 ans, un journal intime avec un feutre à encre invisible pour cacher tous ses secrets
+- VERSION : Française
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BNNK9C2P{{</world>}}

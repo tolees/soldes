@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES PERSONNAGES UNIQUES – Les joueurs pourront choisir de mélanger et associer plusieurs briques LEGO afin de créer des personnages uniques
-- DES THÈMES LEGO ICONIQUES – Découvrez des champs de bataille épiques issus des univers LEGO les plus populaires
-- DE NOMBREUX MODES DE JEU – Avec de très nombreux modes de jeu, chaque niveau offre des défis, des conditions de victoire et de nombreuses surprises lors des sessions en multijoueur
 - À CHACUN SON STYLE DE JEU – Plusieurs pouvoirs géniaux sont disponibles afin que chacun puisse choisir de créer son propre style de jeu et ainsi sortir vainqueur
+- DE NOMBREUX MODES DE JEU – Avec de très nombreux modes de jeu, chaque niveau offre des défis, des conditions de victoire et de nombreuses surprises lors des sessions en multijoueur
+- DES PERSONNAGES UNIQUES – Les joueurs pourront choisir de mélanger et associer plusieurs briques LEGO afin de créer des personnages uniques
 - DES ÉVÈNEMENTS COMMUNAUTAIRES – Plusieurs évènements et contenus saisonniers à durée limitée viendront s’ajouter à LEGO Brawls tout au long de l’année pour toujours plus de fun
+- DES THÈMES LEGO ICONIQUES – Découvrez des champs de bataille épiques issus des univers LEGO les plus populaires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B4WDM1HB{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PANNEAU E/S INSTA-LIGHT - I/O sur panneau supérieur (avant) avec boutons dalimentation & de réinitialisation, jacks micro/audio, 1 port USB 3.2 Gen 2x2 Type-C (20Gb/s) & 2 ports USB 3.2 Gen 1 Type-A (5Gb/s); Switch LED via hub ARGB pour contrôle manuel
 - BOÎTIER GAMING ATX - Boîtier Gaming MPG GUNGNIR 110R tour moyenne au châssis polyvalent de 430x215x450mm pour cartes mères ATX, micro-ATX & mini-ITX; Flux dair optimisé grâce à un intake avant à haut volume pour refroidir le système de manière efficace
+- PANNEAU E/S INSTA-LIGHT - I/O sur panneau supérieur (avant) avec boutons dalimentation & de réinitialisation, jacks micro/audio, 1 port USB 3.2 Gen 2x2 Type-C (20Gb/s) & 2 ports USB 3.2 Gen 1 Type-A (5Gb/s); Switch LED via hub ARGB pour contrôle manuel
 - ESPACE SUPPLÉMENTAIRE - Lintérieur avec gestion propre des câbles, accueille: GPU jusquà 340mm de long (7 slots dextension), refroidisseurs CPU jusquà 170mm de haut & PSU ATX jusquà 220mm; Les baies de disque dur permettent: 2 x 2.5" ou 2 x 2.5/3.5"
 - MYSTIC LIGHT & VERRE TREMPÉ - Contrôleur ARGB 1 à 6 intégré pour 26 effets LED (loop) personnalisables via Mystic Light (connecteur MB 3 broches/5V); Verre trempé de 4mm pour mettre en valeur la configuration matérielle interne & le rétroéclairage
 - AMPLE FLUX DAIR - Panneau avant avec 3 ventilateurs ARGB 120mm; 1 ventilateur ARGB 120mm arrière; Filtres anti poussière haut (magnétique) & avant (non magnétique); Supporte jusquà 6 ventilateurs de 120mm & 3 radiateurs (1x 360mm, 1x 240mm, 1x 120mm)

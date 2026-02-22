@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détails de la caméra 1080P HD: les drones équipés de caméras 1080P HD sont capables de capturer des couleurs vives et des détails nets. Enregistrez facilement des paysages ou des portraits époustouflants. Ce drone avec caméra crée des visuels cinématographiques pour les professionnels.
 - Portée de 400 mètres: contrôlez le drone GPS jusquà 400 mètres avec une caméra adulte grâce à une cartographie étendue (couverture de 250 mètres). Pilotez librement un drone résistant au vent dans le ciel ouvert. Explorez une zone plus large sans frontières perdues de signal.
+- Détails de la caméra 1080P HD: les drones équipés de caméras 1080P HD sont capables de capturer des couleurs vives et des détails nets. Enregistrez facilement des paysages ou des portraits époustouflants. Ce drone avec caméra crée des visuels cinématographiques pour les professionnels.
 - Télécommande décran HD de 4,5 pouces: la télécommande de drone 1080P dispose dun écran HD de 4,5 pouces pour la transmission POV de drone décran en temps réel. Prévisualisez instantanément le vol du drone et capturez chaque instant. Contrôlez le drone en toute confiance avec une caméra 1080P sans latence.
 - Stockage sur carte SD: capturez des photos / vidéos 1080P directement sur la carte SD du drone sans transfert compliqué. Stockez tous les drones pour les débutants Obtenez instantanément les données de la caméra pour une prise de vue efficace. Accès aux fichiers à tout moment sans connexion téléphonique. « le
 - Retour automatique GPS et stabilité: le drone GPS utilise un positionnement de haute précision pour le retour automatique. Gardez le drone stable dans le vent lors de vos aventures en plein air. Suivez lemplacement avec précision pour assurer la sécurité des prises de vue professionnelles.

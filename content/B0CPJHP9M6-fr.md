@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Respirant
 - Taille élastiquée
 - Technologie Dri-FIT
-- Respirant
 - Les poches latérales peuvent contenir vos affaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

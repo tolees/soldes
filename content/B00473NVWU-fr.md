@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Particulièrement chaude et douillette grâce à la polaire de grande qualité
+- Contenu : 1 x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Fibre Synthétique, Noir (Black), XXL, 1352472
 - Protection supplémenaitre contre le vent et le froid grâce à la capuche ajustée et au polaire confortable
 - Protection supplémentaire contre le vent et le froid avec col montant et demi-zip
 - Pull en laine polaire demi-zip pour homme, Idéal pour la randonnée, la course à pied et dautres activités de plein air ou comme couche intermédiaire lors des journées froides dhiver, Coupe active
-- Contenu : 1 x Columbia Klamath Range II, Polaire Demi-Zippée, Homme, Fibre Synthétique, Noir (Black), XXL, 1352472
+- Particulièrement chaude et douillette grâce à la polaire de grande qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00473NVWU{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lorsquils sont connectés, votre système audio et votre TV BRAVIA équipée de la technologie Acoustic Center Sync deviennent lenceinte centrale de votre système Home Cinema. Ainsi, le son des dialogues provient directement de lécran.
-- Vivez l’expérience immersive grâce à lamplificateur 8K 7.2 AN1000 et le Dolby Atmos, DTS :X et 360 Spatial Sound Mapping.
-- Les jeux deviennent également bien plus intenses et réalistes, grâce à la prise en charge des tout derniers formats, notamment VRR (taux de rafraîchissement variable) et ALLM (mode faible latence automatique) en HDMI 2.1.
 - Profitez de tous vos contenus grâce à la compatibilité Works with SONOS, Chromecast Built-in, Apple AirPlay et Spotify Connect, via Wi-Fi ou Bluetooth. Le AN1000 est également compatible avec les caissons de basse SA-SW3/SA-SW5 et les enceintes arrière SA-RS3S/SA-RS5.
+- Vivez l’expérience immersive grâce à lamplificateur 8K 7.2 AN1000 et le Dolby Atmos, DTS :X et 360 Spatial Sound Mapping.
 - Profitez dune musique fidèle aux intentions de lartiste grâce au Hi-Res Audio pour une précision sonore limpide.
+- Les jeux deviennent également bien plus intenses et réalistes, grâce à la prise en charge des tout derniers formats, notamment VRR (taux de rafraîchissement variable) et ALLM (mode faible latence automatique) en HDMI 2.1.
+- Lorsquils sont connectés, votre système audio et votre TV BRAVIA équipée de la technologie Acoustic Center Sync deviennent lenceinte centrale de votre système Home Cinema. Ainsi, le son des dialogues provient directement de lécran.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C37R3Q5K{{</world>}}

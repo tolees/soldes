@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu PS5 d’action-aventure : redécouvrez le jeu qui a conquis le cœur des joueurs et avec lequel tout a commencé, refaçonné pour la console PlayStation 5
 - Des sensations inédites grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense : ressentez la pluie qui tombe, la neige sous vos pieds et la résistance des armes
+- Jeu PS5 d’action-aventure : redécouvrez le jeu qui a conquis le cœur des joueurs et avec lequel tout a commencé, refaçonné pour la console PlayStation 5
 - Contient lhistoire solo complète The Last of Us et le chapitre bonus acclamé Left Behind, qui relate les événements qui ont bouleversé la vie dEllie et de sa meilleure amie, Riley
-- Contenu de la livraison : 1 x Jeu The Last of Us PS5, Version physique avec CD, Langue : Français, 1 joueur, PEGI 18
 - Des graphismes améliorés en 4K et HDR : une expérience entièrement refaçonnée à laide de la toute dernière technologie pour moteur PS5 de Naughty Dog
+- Contenu de la livraison : 1 x Jeu The Last of Us PS5, Version physique avec CD, Langue : Français, 1 joueur, PEGI 18
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B3ZD724V{{</world>}}

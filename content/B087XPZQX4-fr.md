@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTERFACE FACILE À UTILISER : ce laser combinés possède une interface simplifiée, très facile à utiliser, qui comprend un interrupteur marche/arrêt, un pavé monotouche pour changer de configuration laser et un mode « cellule de réception » actif en permanence.
 - ROBUSTESSE EXTRÊME : ce niveau laser est conçu pour les chantiers, avec un boîtier robuste et une protection contre la poussière et les projections d’eau (IP64). Il est très solide et adapté aux conditions difficiles.
+- INTERFACE FACILE À UTILISER : ce laser combinés possède une interface simplifiée, très facile à utiliser, qui comprend un interrupteur marche/arrêt, un pavé monotouche pour changer de configuration laser et un mode « cellule de réception » actif en permanence.
+- MISE À L’APLOMB DE MONTANTS : cet instrument s’utilise également pour la mise à l’aplomb des montants des cloisons sèches avec le support RM 10, qu’il suffit de positionner au-dessus des rails métalliques de plancher
 - LIVRÉE AVEC: Niveau laser GCL 2-50 G, 4x piles AA, support RM 10, trépied BT 150, cible laser et housse
 - VISIBILITÉ OPTIMISÉE : le niveau à lignes GCL 2-50 G offre une excellente visibilité grâce à ses lignes laser horizontale et verticale de couleur verte, très lumineuses, et ses deux points d’aplomb verts. Ce niveau laser donne des résultats précis, de l’ordre de ± 0,3 mm/m* pour les lignes laser et ± 0,7 mm/m* pour les points d’aplomb.
-- MISE À L’APLOMB DE MONTANTS : cet instrument s’utilise également pour la mise à l’aplomb des montants des cloisons sèches avec le support RM 10, qu’il suffit de positionner au-dessus des rails métalliques de plancher
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B087XPZQX4{{</world>}}

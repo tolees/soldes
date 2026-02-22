@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idée de cadeau danniversaire pour adulte, passionné de voitures Formule 1 – Fêtez un anniversaire ou une occasion spéciale avec ce set LEGO de construction d’une voiture de F1 collector pour adulte
+- Que contient la boîte ? Tout ce dont vous avez besoin pour construire une voiture de course de F1 LEGO Williams Racing FW14B et une minifigurine LEGO de Nigel Mansell, ainsi qu’un présentoir, un podium, un casque de pilote et un trophée
+- Instructions de montage en 3D – Profitez au maximum de votre set LEGO de voiture de F1 avec l’application LEGO Builder, où vous pouvez visualiser vos modèles 3D pendant la construction, suivre votre progression et explorer d’autres sets
 - Caractéristiques et accessoires – Cette voiture de course de F1 LEGO Icons Williams Racing FW14B est dotée d’une direction fonctionnelle, de gros pneus lisses à l’arrière avec logo Goodyear imprimé, dun volant de course et d’un moteur V6 détaillé
 - Encore plus d’action de F1 à grande vitesse – Découvrez d’autres sets de construction LEGO sur le thème de la F1 (vendus séparément) pour construire, décorer une pièce et faire la course en famille
-- Que contient la boîte ? Tout ce dont vous avez besoin pour construire une voiture de course de F1 LEGO Williams Racing FW14B et une minifigurine LEGO de Nigel Mansell, ainsi qu’un présentoir, un podium, un casque de pilote et un trophée
-- Set de construction LEGO avec voiture de course collector pour adultes – Rendez hommage à l’innovation dans la F1 avec le set LEGO Icons Williams Racing FW14B et Nigel Mansell pour les passionnés de sport automobile et de voitures légendaires
+- Idée de cadeau danniversaire pour adulte, passionné de voitures Formule 1 – Fêtez un anniversaire ou une occasion spéciale avec ce set LEGO de construction d’une voiture de F1 collector pour adulte
 - Objet de décoration intérieure pour la maison ou le bureau – Inclut un présentoir pour la voiture Williams Racing, qui affiche les données du véhicule, et un podium pour exposer la minifigurine LEGO de Mansell avec une photo et une citation du pilote
-- Instructions de montage en 3D – Profitez au maximum de votre set LEGO de voiture de F1 avec l’application LEGO Builder, où vous pouvez visualiser vos modèles 3D pendant la construction, suivre votre progression et explorer d’autres sets
+- Set de construction LEGO avec voiture de course collector pour adultes – Rendez hommage à l’innovation dans la F1 avec le set LEGO Icons Williams Racing FW14B et Nigel Mansell pour les passionnés de sport automobile et de voitures légendaires
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NAEP1AX{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure : 100 % EVA
 - Couleur : noir
 - Better Leather,Better Linings
-- Semelle extérieure : 100 % EVA
-- Doublure : 100 % PET recyclé
 - Matériau extérieur : 100 % cuir de vachette
+- Doublure : 100 % PET recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRBLWFGL{{</world>}}

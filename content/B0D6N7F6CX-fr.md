@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Campagne de Black Ops 6 offre un gameplay dynamique qui comprend une variété despaces de jeu avec des décors grandioses, des moments daction intenses et des activités despionnage fantastiques
 - Black Ops 6 marque également le retour épique du mode Zombies par manche, le mode préféré des fans où les joueurs affronteront des hordes de morts-vivants sur deux cartes inédites dès le lancement
-- Dans une expérience Multijoueur de premier ordre, les joueurs pourront tester leurs compétences sur 16 nouvelles cartes au lancement, dont 12 cartes standard en 6v6 et 4 cartes de combat jouables en 2v2 ou en 6v6.
+- La Campagne de Black Ops 6 offre un gameplay dynamique qui comprend une variété despaces de jeu avec des décors grandioses, des moments daction intenses et des activités despionnage fantastiques
 - Découvrez le meilleur de Black Ops avec une Campagne solo à couper le souffle, une expérience Multijoueur incroyable et le retour épique du mode Zombies par manches.
+- Dans une expérience Multijoueur de premier ordre, les joueurs pourront tester leurs compétences sur 16 nouvelles cartes au lancement, dont 12 cartes standard en 6v6 et 4 cartes de combat jouables en 2v2 ou en 6v6.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6N7F6CX{{</world>}}

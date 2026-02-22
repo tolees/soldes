@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Form&Play : modeler et jouer
-- Niveaux de difficulté de 1 à 3 qui aident les utilisateurs à determiner leur niveau de dextérité
-- Projet pré-définis avec un pas à pas détaillé
-- Emballage : box refermable, conçu pour une présentation à plat ou pendue
-- Favorise : la psychomotricité, la créativité, les jeux de rôle et limagination
-- Fabriqué en Allemagne
-- Conforme à la norme EN 71
 - Des outils de modelage et une notice pour guider les enfants dans la création
+- Niveaux de difficulté de 1 à 3 qui aident les utilisateurs à determiner leur niveau de dextérité
+- Fabriqué en Allemagne
+- Favorise : la psychomotricité, la créativité, les jeux de rôle et limagination
+- Conforme à la norme EN 71
+- Form&Play : modeler et jouer
+- Projet pré-définis avec un pas à pas détaillé
 - Instructions enfantines attractives, 28 pages à garder et à collectionner
+- Emballage : box refermable, conçu pour une présentation à plat ou pendue
 - Modeler, cuire, jouer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Game of Thrones - Stagioni complete 1-8 - 33-Disc Box Set
 - Game of Thrones - Stagioni complete 1-8 - 33-Disc Box Set (Game of Thrones - Seasons uno a cinque) (
 - Game of Thrones - Seasons uno a cinque
-- Game of Thrones - Stagioni complete 1-8 - 33-Disc Box Set
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SZBK3WR{{</world>}}

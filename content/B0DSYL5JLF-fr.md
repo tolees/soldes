@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - EN TOUTE OCCASION : au bureau ou au quotidien, ce modèle classique se distingue par son confort exceptionnel. Le drapeau Tommy Hilfiger brodé à l’arrière attire tous les regards.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
-- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Pratique avec ses poches à l’avant et ses poches arrière boutonnées, il est très apprécié grâce à sa matière souple et à sa coupe parfaite.
 - MATIÈRE ET ENTRETIEN : 97 % coton régénératif et 3 % élasthanne. Lavage en machine.
+- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Pratique avec ses poches à l’avant et ses poches arrière boutonnées, il est très apprécié grâce à sa matière souple et à sa coupe parfaite.
 - EXCELLENT CONFORT : ce modèle casual épouse parfaitement les formes du corps. Grâce à ses lignes indémodables, il est l’incontournable de l’élégance et se combine à volonté.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

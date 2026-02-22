@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoyeur performant : le Kärcher K 4 Power Control nettoie vélos, motos et petites voitures, outils et meubles de jardin, clôtures et dalles de pierre avec une pression max de 130 bars
-- Contrôle total : le niveau de pression peut être réglé sur la lance en la tournant. Le réglage peut être vérifié à tout moment sur lécran du pistolet G 160 Q Power Control
-- Application facile : grâce au système de nettoyage Plug n Clean, la bouteille de détergent sinsère facilement dans le nettoyeur haute pression
 - Assistance : lapplication Kärcher Home & Garden vous accompagne tout au long des diverses tâches de nettoyage, donnant des conseils utiles et offrant un accès direct au portail de service Kärcher
 - Contenu de la livraison : le kit contient le nettoyeur haute pression Kärcher K 4 Power Control, un pistolet haute pression, un flexible haute pression de 8 m, une lance et une rotabuse
+- Nettoyeur performant : le Kärcher K 4 Power Control nettoie vélos, motos et petites voitures, outils et meubles de jardin, clôtures et dalles de pierre avec une pression max de 130 bars
+- Application facile : grâce au système de nettoyage Plug n Clean, la bouteille de détergent sinsère facilement dans le nettoyeur haute pression
+- Contrôle total : le niveau de pression peut être réglé sur la lance en la tournant. Le réglage peut être vérifié à tout moment sur lécran du pistolet G 160 Q Power Control
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R43WTR5{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CRÉER SA PROPRE COLLECTION : On peut recréer ses scènes préférées avec les autres articles de collection de la franchise Star Wars (vendus séparément, dans la limite des stocks)
 - ACCESSOIRES INSPIRÉS DU PERSONNAGE CLASSIQUE : Cette figurine Ben (Obi-Wan) Kenobi inclut son sabre laser et une poignée de sabre laser sans lame
-- DÉCO ET DESIGN PREMIUM : Les fans de Star Wars peuvent exposer cette figurine de 9,5 cm dans leur collection, avec sa déco et son design inspirés du film, ainsi quune tunique en tissu
-- « MON SEUL ESPOIR » : En réponse à la demande daide de la princesse Leia, le maître Jedi Obi-Wan Kenobi est parti en voyage vers Alderaan avec Luke Skywalker, R2-D2, C-3PO et les pilotes Han Solo et Chewbacca.
+- CRÉER SA PROPRE COLLECTION : On peut recréer ses scènes préférées avec les autres articles de collection de la franchise Star Wars (vendus séparément, dans la limite des stocks)
 - STAR WARS : UN NOUVEL ESPOIR : Inspirée de lÉpisode IV de la trilogie originale, la figurine Ben (Obi-Wan) Kenobi de 9,5 cm est un super cadeau pour les fans et les collectionneurs. À partir de 4 ans
 - EMBALLAGE INSPIRÉ DES PACKS SOUS BLISTER DE KENNER : Rappelant les jouets vintage de collection originaux des années 70 et 80, cette figurine est vendue dans un emballage inspiré des packs classiques de Kenner avec un numéro de collection VC unique
+- DÉCO ET DESIGN PREMIUM : Les fans de Star Wars peuvent exposer cette figurine de 9,5 cm dans leur collection, avec sa déco et son design inspirés du film, ainsi quune tunique en tissu
 - MULTIPLES POINTS DARTICULATION À LÉCHELLE 9,5 CM : La figurine a une tête, des bras et des jambes articulés qui permettent aux fans de lexposer dans des poses dynamiques
+- « MON SEUL ESPOIR » : En réponse à la demande daide de la princesse Leia, le maître Jedi Obi-Wan Kenobi est parti en voyage vers Alderaan avec Luke Skywalker, R2-D2, C-3PO et les pilotes Han Solo et Chewbacca.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DKKWYLRP{{</world>}}

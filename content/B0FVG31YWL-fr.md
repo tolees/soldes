@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMMENT L’APPLIQUER ? Facile ! Matin et soir, après avoir appliqué le sérum Garnier de votre choix, appliquer cette crème de jour avec des mouvements circulaires en létalant uniformément sur la peau.
+- LA BEAUTE INSPIREE PAR LA NATURE : Depuis 1904, Garnier puise dans la nature pour créer des soins efficaces et accessibles. Nos formules concilient performance et respect de la planète pour sublimer toutes les beautés au quotidien.
+- FORMULE EXPERTE : Cette crème visage renferme de la niacinamide qui apaise et uniformise le teint. Lacide salicylique exfolie en douceur les imperfections et la Centella Asiatica répare la barrière cutanée pour une peau plus lisse et apaisée.
 - DES RESULTATS CLINIQUEMENT PROUVES : Cette crème hydratante visage réduit 48 % des imperfections. Elle diminue la visibilité des pores de 19,2 % et lexcès de sébum de 45,3 %, apporte +29,3 % de douceur à la peau et unifie le teint à +28,7 %*.
 - LA NOUVELLE GENERATION DE CREME HYDRATANTE : Cette crème sorbet ultra-légère hydrate instantanément et matifie la peau toute la journée tout en réduisant les imperfections. Non collante, non grasse, elle unifie le teint et affine le grain de peau.
-- FORMULE EXPERTE : Cette crème visage renferme de la niacinamide qui apaise et uniformise le teint. Lacide salicylique exfolie en douceur les imperfections et la Centella Asiatica répare la barrière cutanée pour une peau plus lisse et apaisée.
-- LA BEAUTE INSPIREE PAR LA NATURE : Depuis 1904, Garnier puise dans la nature pour créer des soins efficaces et accessibles. Nos formules concilient performance et respect de la planète pour sublimer toutes les beautés au quotidien.
+- COMMENT L’APPLIQUER ? Facile ! Matin et soir, après avoir appliqué le sérum Garnier de votre choix, appliquer cette crème de jour avec des mouvements circulaires en létalant uniformément sur la peau.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FVG31YWL{{</world>}}

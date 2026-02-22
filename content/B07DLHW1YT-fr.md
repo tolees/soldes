@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Masque réparateur 3 en 1 à lextrait de papaye, idéal pour réparer les cheveux abîmés
-- Conseils dutilisation comme après-shampoing : appliquer sur cheveux mouillés, Masque : appliquer après le shampoing, Traitement sans rinçage : appliquer sur cheveux mouillés ou secs
 - Pour des cheveux intensément nourris, revitalisés et sans enchevêtrement Pour des cheveux plus forts, plus brillants et non alourdis
+- Conseils dutilisation comme après-shampoing : appliquer sur cheveux mouillés, Masque : appliquer après le shampoing, Traitement sans rinçage : appliquer sur cheveux mouillés ou secs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DLHW1YT{{</world>}}

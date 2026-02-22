@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À partir de 3 ans.
-- Cet set contient la maman Poney et son kit de coiffure.
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants.
 - Crée de nombreuses coiffures à laide des différents accessoires.
+- Cet set contient la maman Poney et son kit de coiffure.
+- À partir de 3 ans.
 - Utilise le chariot pour ranger lensemble des accessoires de coiffure.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

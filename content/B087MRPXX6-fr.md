@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- étanche
 - semelle de randonnée robuste
-- respirant
+- étanche
 - Chaussure de randonnée pour les excursions dune journée
+- respirant
 - très bon amortissement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

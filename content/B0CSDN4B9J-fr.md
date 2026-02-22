@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La première page dispose d’un espace pour y renseigner ses données personnelles.
 - Cahier A5 avec couverture rigide et fermeture aimantée. La couverture se superpose pour permette à l’aimant inclut de faire office de fermeture.
-- Avec 192 pages lignées, qui disposent toutes d’un espace dans la partie supérieure, idéal pour y inscrire la date ou le titre du contenu noté sur la page.
 - Il dispose d’une certification FSC, qui garantit que sa fabrication a été réalisée avec du papier provenant de forêts responsables écologiquement.
+- Avec 192 pages lignées, qui disposent toutes d’un espace dans la partie supérieure, idéal pour y inscrire la date ou le titre du contenu noté sur la page.
+- La première page dispose d’un espace pour y renseigner ses données personnelles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSDN4B9J{{</world>}}

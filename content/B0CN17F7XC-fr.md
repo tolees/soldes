@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Préparez-vous à vivre une expérience immersive grâce à des fonctionnalités de jeu exclusives, notamment l’interface PCIe Gen 0, la technologie nCache 0 de Western Digital et la prise en charge de DirectStorage de Microsoft.
 - Voici le WD_BLACK SN770M SSD, le premier disque SSD M.2 2230 NVMe conçu par une marque plébiscitée par les gamers.
+- Emportez votre vaste bibliothèque de jeux partout avec vous, avec jusquà 2 To de stockage Western Digital TLC 3D NAND.
 - Mettez à niveau les appareils portables compatibles tels que le ASUS ROG Ally et le Valve Steam Deck avec des vitesses allant jusquà 5150 Mo/s (modèles 1 To et 2 To) pour des installations de jeux et des chargements de niveaux dune rapidité fulgurante.
 - Donnez un nouveau souffle au stockage de votre ordinateur portable compatible avec ce SSD M.2 2230, comme de nombreux modèles Microsoft Surface et Dell.
-- Emportez votre vaste bibliothèque de jeux partout avec vous, avec jusquà 2 To de stockage Western Digital TLC 3D NAND.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CN17F7XC{{</world>}}

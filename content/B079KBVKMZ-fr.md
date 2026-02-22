@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibilité
 - Facile à installer
+- Flexibilité
 - Système damortissement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

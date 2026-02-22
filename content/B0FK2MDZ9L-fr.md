@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Étapes de connexion]:①Branchez-le sur le port USB de votre voiture②Activez le Wi-Fi et le Bluetooth de votre téléphone③Sélectionnez“SmartBox-XXX”dans les paramètres Bluetooth. Linstallation ne prend que 30 secondes et les appareils identiques se reconnectent automatiquement
-- [Origenal Contrall]:Maintient la fonctionnalité 100 % OEM, commandes au volant, écran tactile et commandes vocales fonctionnent parfaitement.Qualité sonore et lecture dimages dorigine.Le micrologiciel mis à jour sur le cloud garantit une compatibilité iOS et Android continue
 - [Technologie de connectivité]: Notre Carplay sans fil utilise le Wi-Fi 5,8 GHz avancé + Bluetooth 5.3 et un processeur 8 cœurs, qui est 5 fois plus rapide que les adaptateurs ordinaires et offre une stabilité ultime
+- [Origenal Contrall]:Maintient la fonctionnalité 100 % OEM, commandes au volant, écran tactile et commandes vocales fonctionnent parfaitement.Qualité sonore et lecture dimages dorigine.Le micrologiciel mis à jour sur le cloud garantit une compatibilité iOS et Android continue
 - [Nouveau design]:Conception mini 50 % plus petite que les adaptateurs standard.Dispose dun cadre en métal gris mat et dune finition miroir en verre pour une esthétique automobile raffinée(protections intégrées contre les surtensions/surintensités/courts-circuits.)
+- [Étapes de connexion]:①Branchez-le sur le port USB de votre voiture②Activez le Wi-Fi et le Bluetooth de votre téléphone③Sélectionnez“SmartBox-XXX”dans les paramètres Bluetooth. Linstallation ne prend que 30 secondes et les appareils identiques se reconnectent automatiquement
 - [Large compatibilité]: compatible avec iPhone 6+ (iOS 10+) et Android 11+, prenant en charge les modèles de véhicules 927+，Veuillez noter que votre voiture doit prendre en charge le Carplay filaire pour pouvoir utiliser notre Carplay sans fil,Pour véhicules fabriqués à partir de 2016 uniquement(à lexception de Tesla/BMW)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

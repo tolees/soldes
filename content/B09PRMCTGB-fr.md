@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Déclenchement par simple pression, Mains libres: déclenchez instantanément une ou plusieurs actions, activez le direct, coupez le son de votre micro, changez de caméra et plus encore.
-- Stream Deck Store: téléchargez des plug-ins, des icônes, des milliers de sons libres de droits, des effets spéciaux et plus encore.
 - 3 pédales personnalisables: contrôlez vos applications, outils et plates-formes.
 - Structure solide, Ressorts interchangeables: réglez la pression des pédales, actionnez les pédales en toute confiance.
+- Stream Deck Store: téléchargez des plug-ins, des icônes, des milliers de sons libres de droits, des effets spéciaux et plus encore.
+- Déclenchement par simple pression, Mains libres: déclenchez instantanément une ou plusieurs actions, activez le direct, coupez le son de votre micro, changez de caméra et plus encore.
 - Plug-ins puissants : Elgato 4KCU, OBS, Streamlabs, Twitch, YouTube, Twitter, Spotify, Philips Hue et d’autres applications.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

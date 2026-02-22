@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un véritable tableau de bord avec : 1 clé pour démarrer le moteur, 1 levier de vitesse pour accélérer et décélérer, 1 volant avec avertisseur sonore, 1 clignotant, 1 feu de signalisation lumineux, 5 gros boutons colorés pour faire plein de découverte
 - Quand Bébé tourne le volant, la voiture avec le petit chien se déplace et permet de découvrir 5 véhicules, 5 animaux, les chiffres et les couleurs
-- Un tableau de bord interactif pour les apprentis pilotes !
 - 10 mélodies, 2 chansons, des sons réalistes, des phrases ainsi que des effets lumineux
+- Un tableau de bord interactif pour les apprentis pilotes !
+- Un véritable tableau de bord avec : 1 clé pour démarrer le moteur, 1 levier de vitesse pour accélérer et décélérer, 1 volant avec avertisseur sonore, 1 clignotant, 1 feu de signalisation lumineux, 5 gros boutons colorés pour faire plein de découverte
 - Bébé apprend et découvre avec ce tableau de bord interactif, parlant, musical et lumineux
 - Version française
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Linterface des auteurs(trices)-compositeurs(trices) : branchez votre micro et votre guitare et profitez partout du gros son des studios avec la Scarlett Solo.
-- Qualité sonore : la Scarlett offre 120 dB de plage dynamique, grâce aux convertisseurs repris des interfaces de Focusrite qui équipent les plus grands studios.
 - Easy Start : enregistrer est un jeu denfant. Grâce à loutil Easy Start de Focusrite, vous serez prêt(e) à faire de la musique en quelques minutes seulement.
-- Tout ce dont un ingénieur a besoin : Pro Tools Intro+ for Focusrite, Ableton Live Lite, six mois d’accès à FL Studio Producer Edition et le bundle Hitmaker Expansion : une suite deffets essentiels, de puissants instruments virtuels et doutils de mastering faciles à utiliser.
+- Qualité sonore : la Scarlett offre 120 dB de plage dynamique, grâce aux convertisseurs repris des interfaces de Focusrite qui équipent les plus grands studios.
+- Linterface des auteurs(trices)-compositeurs(trices) : branchez votre micro et votre guitare et profitez partout du gros son des studios avec la Scarlett Solo.
 - Trouvez votre signature sonore : le mode Air replace les voix et guitares à lavant du mix en leur apportant de la présence et une belle distorsion harmonique.
+- Tout ce dont un ingénieur a besoin : Pro Tools Intro+ for Focusrite, Ableton Live Lite, six mois d’accès à FL Studio Producer Edition et le bundle Hitmaker Expansion : une suite deffets essentiels, de puissants instruments virtuels et doutils de mastering faciles à utiliser.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C5JSHP7M{{</world>}}

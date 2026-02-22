@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fixez et desserrez facilement nimporte quel écrou ou boulon : La clé à douille à cliquet S.360 dispose dun cric à poignée rotative pour travailler deux fois plus vite dans les espaces confinés. Le système de commande avec la paume permet à lopérateur dappuyer sur la tête sans risque dinversion
 - Satisfaction 100% garantie : Chez FACOM, nous ne nous contentons pas de vous proposer une large gamme de produits de bricolage de qualité professionnelle, nous les accompagnons dun excellent service client. De plus, nos produits bénéficient dune garantie à vie déchange ou de réparation gratuite (hors produits techniques, dynamométrie, servantes et mobilier)
-- La sécurité et la durabilité avant tout : Nos produits ont tous été réalisés avec des composants hautement qualitatifs pour une longue durée de vie. Ils ont subi de nombreux tests poussés avant dêtre commercialisés et correspondent aux normes européennes en vigueur
 - Un coffret outils complet doutillage mécanique : Cette boîte à outils comprend, en plus du cliquet, 17 douilles 1/2" 6 pans métriques S.H 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27, 30 et 32 mm, 2 rallonges 1/2" L 130 mm, (S.210) et L 250 mm (S.215) ainsi qu1 joint universel 1/2" S.240A
 - Manipulation aisée grâce à la poignée ergonomique : Le matériau du manche antidérapant est souple pour plus de confort et une meilleure manipulation. Il résiste bien aux produits chimiques. La clé cliquet offre des incréments de 6° pour le serrage final
+- Fixez et desserrez facilement nimporte quel écrou ou boulon : La clé à douille à cliquet S.360 dispose dun cric à poignée rotative pour travailler deux fois plus vite dans les espaces confinés. Le système de commande avec la paume permet à lopérateur dappuyer sur la tête sans risque dinversion
+- La sécurité et la durabilité avant tout : Nos produits ont tous été réalisés avec des composants hautement qualitatifs pour une longue durée de vie. Ils ont subi de nombreux tests poussés avant dêtre commercialisés et correspondent aux normes européennes en vigueur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00B1C1A9Q{{</world>}}

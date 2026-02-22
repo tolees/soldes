@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son écran LED affiche la température de la pièce. Grâce à cet écran vous pouvez sélectionner toutes les fonctions du chauffage. Il possède 3 modes de fonctionnement : le mode Ventilateur, le mode Low (réduit la consommation du chauffage à 750 W) et le mode High (consommation maximale de 150 W).
 - Grâce à son triple système de sécurité, son utilisation devient plus pratique et sécurisé : déconnexion automatique en cas de chute, protection contre la surchauffe et sans pales, pour protéger aux enfants.
+- Son écran LED affiche la température de la pièce. Grâce à cet écran vous pouvez sélectionner toutes les fonctions du chauffage. Il possède 3 modes de fonctionnement : le mode Ventilateur, le mode Low (réduit la consommation du chauffage à 750 W) et le mode High (consommation maximale de 150 W).
 - Ce chauffage possède 1500 W de puissance avec lesquels il est capable de réchauffer rapidement la pièce dans laquelle il se trouve. Grâce à la technologie Bladeless, le chauffage distribue la chaleur de façon optimale et en toute sécurité. De plus, il est très silencieux et peut être facilement lavable. Utilisez-le en toute simplicité grâce à la connectivité via Wi-Fi. Contrôlez-le depuis votre Smartphone. Il possède aussi une télécommande sans fil et un panneau tactile.
 - Sa minuterie réglable jusqu’à 12 heures vous permet de sélectionner le temps de fonctionnement souhaité. Vous pourrez voir toutes les configurations depuis son écran LCD.
 - Il peut osciller jusqu’à 60º pour répartir la chaleur uniformément dans toute la pièce.

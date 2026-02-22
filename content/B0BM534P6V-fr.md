@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériau extérieur : cuir
 - Forme du talon : plat
-- Fermeture : lacets
 - Semelle : caoutchouc
+- Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM534P6V{{</world>}}

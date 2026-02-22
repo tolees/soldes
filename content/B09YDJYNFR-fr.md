@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sur cheveux mouillés faire mousser en massant le crâne puis laver les longueurs. Rincer abondamment. En cas daccumulation de résidus, précéder le Shampoing Crème Lavante de la Gelée Lavante Anti Résidus. Compléter avec le Masque Riche pour plus dhydratation.
 - Cheveux hydratés, brillants, doux et faciles à démêler* *Tests instru. : Shampoing Crème Lavante + Masque Hydratant Intensif Riche
+- Sur cheveux mouillés faire mousser en massant le crâne puis laver les longueurs. Rincer abondamment. En cas daccumulation de résidus, précéder le Shampoing Crème Lavante de la Gelée Lavante Anti Résidus. Compléter avec le Masque Riche pour plus dhydratation.
 - Shampoing sans sulfate à la texture crémeuse pour cheveux bouclés à crépus : crème lavante qui se transforme en mousse pour laver les boucles en douceur sans les alourdir. Concentré en Glycérine végétale, en Urea H et en extrait de graine dHibiscus, il hydrate intensément et facilite le démêlage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

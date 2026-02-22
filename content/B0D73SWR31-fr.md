@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Remilia Scarlet, vampire en chef du manoir Scarlet Devil, envoie sans préavis sa servante Sakuya Izayoi dans un autre monde qui ressemble beaucoup à Gensokyo, mais pas tout à fait...
 - Un Univers fait de contrées étranges et inexplorées, rempli de mystérieux Youkai et où sa manipulation du temps est scellée. Quel pourrait être le but ultime de Remilia ?
-- Système darrêt du temps à partir des cartes de capacités et dastuces des personnages qui utilisent des capacités spéciales comme larrêt du temps
 - Adaptation en 2D du système "graze", élément unique de Touhou Project, ce qui donne un sentiment de tension à lapproche de lennemi.
 - Touhou Luna Nights est un jeu daction en 2D type Metroidvania axé sur lexploration, inspiré par la série mondialement reconnue Touhou Project et conçu par le studio de développement indépendant Team Ladybug.
-- Remilia Scarlet, vampire en chef du manoir Scarlet Devil, envoie sans préavis sa servante Sakuya Izayoi dans un autre monde qui ressemble beaucoup à Gensokyo, mais pas tout à fait...
+- Système darrêt du temps à partir des cartes de capacités et dastuces des personnages qui utilisent des capacités spéciales comme larrêt du temps
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D73SWR31{{</world>}}

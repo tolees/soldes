@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur d’assise : 49 cm
-- Densité assise : 28 kg/m3
 - Matière : Tissu bouclette
-- Fauteuil en tissu bouclette beige avec piètement en métal noir
+- Hauteur d’assise : 49 cm
 - Dimensions du colis : 63 x 57 x 42 cm
+- Fauteuil en tissu bouclette beige avec piètement en métal noir
+- Densité assise : 28 kg/m3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHWLDDGM{{</world>}}

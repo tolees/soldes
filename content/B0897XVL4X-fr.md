@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Certaines choses sont ideales telles qu’elles sont
-- Ceci est un authentique produit Levi’s
-- Le t-shirt essentiel et élégant
-- Fabriqué en utilisant nos techniques écologiques Water&ItLess
-- C’est pourquoi nous avons misé sur la simplicité avec un jersey 100 % coton, une coupe intemporelle et un logo discret
-- Logo discret sur la poitrine
-- Modèle en jersey doux
 - Le t-shirt classique est l’un de ces modèles
+- C’est pourquoi nous avons misé sur la simplicité avec un jersey 100 % coton, une coupe intemporelle et un logo discret
+- Ceci est un authentique produit Levi’s
+- Certaines choses sont ideales telles qu’elles sont
+- Fabriqué en utilisant nos techniques écologiques Water&ItLess
+- Modèle en jersey doux
+- Logo discret sur la poitrine
+- Le t-shirt essentiel et élégant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0897XVL4X{{</world>}}

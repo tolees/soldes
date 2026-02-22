@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nisi Dominus RV 608 (Cum dederit delectis)
-- Concerto RV 495 per fagotto n.23 in sol
+- Juditha triumphans RV 644 (1716) Armatae
 - Farnace RV 711 (1727) Gelido in ogni vena
 - Juditha triumphans RV 644 (1716) Veni me sequere
-- Juditha triumphans RV 644 (1716) Armatae
+- Concerto RV 495 per fagotto n.23 in sol
+- Nisi Dominus RV 608 (Cum dederit delectis)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07X4BN8GP{{</world>}}

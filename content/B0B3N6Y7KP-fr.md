@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient 3 mines HB, utilise et se recharge en mines Pentel ou standard / Recharge gomme : Z2-1N
 - Porte-mines technique corps métal 0,5 mm idéal pour le dessin technique et l’écriture
-- Equipé dun indicateur de gradation, d’un grip métal avec picots caoutchouc confort, d’une gomme avec capuchon de protection métal et d’un clip métal
+- Contient 3 mines HB, utilise et se recharge en mines Pentel ou standard / Recharge gomme : Z2-1N
 - 1 étui de 12 mines 0,5 mm HB inclus : Mines graphites très solides, denses et douces
+- Equipé dun indicateur de gradation, d’un grip métal avec picots caoutchouc confort, d’une gomme avec capuchon de protection métal et d’un clip métal
 - Canon rétractable (grâce au clip) et long de 4 mm pour une précision à toute épreuve
 
 [🛒 Achète-le!!]({{< param buyurl >}})

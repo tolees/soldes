@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - KOBY, UN AMI DRONE POUR LA VIE : La clé principale de Steel Seed et le guide de Zoe dans son voyage solitaire et dangereux à lintérieur de linstallation souterraine. En travaillant ensemble, ils créent un duo redoutable et apportent quelque chose de nouveau à chaque combat.
-- UN MONDE DE SCIENCE-FICTION IMMERSIF ET SOMBRE : Lévolution intrigante du personnage principal associée à une expérience narrative captivante et profonde révisée et éditée par lécrivain lauréat du BAFTA Martin Korda.
+- Steel Seed est un jeu daction-aventure furtif se déroulant dans un monde de science-fiction sombre où lhumanité est au bord de lextinction. Rejoignez Zoe et son compagnon, le drone volant KOBY, alors quils enquêtent dans les profondeurs dune installation souterraine hostile à la recherche de réponses et de la clé de la survie de lhumanité.
 - SOYEZ MOBILE ET AGILE : Utilisez les compétences de parkour de Zoe pour traverser linstallation souterraine et obtenir un avantage tactique. Des profondeurs artificielles contrôlées par des robots à lenvironnement naturel ouvert, le danger se cache à chaque coin de rue.
 - STEALTH : LART DE SE BATTRE, SANS SE BATTRE : Utilisez des techniques basées sur la furtivité pour explorer lenvironnement hostile de linstallation sans être détecté par les entités robotiques et les gardes. Certaines confrontations peuvent être évitées grâce à des mouvements efficaces.
-- Steel Seed est un jeu daction-aventure furtif se déroulant dans un monde de science-fiction sombre où lhumanité est au bord de lextinction. Rejoignez Zoe et son compagnon, le drone volant KOBY, alors quils enquêtent dans les profondeurs dune installation souterraine hostile à la recherche de réponses et de la clé de la survie de lhumanité.
+- UN MONDE DE SCIENCE-FICTION IMMERSIF ET SOMBRE : Lévolution intrigante du personnage principal associée à une expérience narrative captivante et profonde révisée et éditée par lécrivain lauréat du BAFTA Martin Korda.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVTH1WCB{{</world>}}

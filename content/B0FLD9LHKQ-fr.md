@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idée cadeau Noël parfaite : Un calendrier élégant à offrir ou à partager, idéal pour surprendre vos proches, remercier un collègue ou ajouter une touche so British à votre intérieur
-- 24 sachets de dégustation variés : 11 thés parfumés, 8 infusions gourmandes et 5 thés verts, soigneusement imaginés par TWININGS pour offrir chaque jour un moment de plaisir et de magie festive
 - Expérience interactive exclusive : Avec les QR codes, accédez à des inspirations gourmandes pour prolonger le plaisir au-delà de la dégustation
+- Idée cadeau Noël parfaite : Un calendrier élégant à offrir ou à partager, idéal pour surprendre vos proches, remercier un collègue ou ajouter une touche so British à votre intérieur
 - Le Créateur de Thé vous invite à l’émerveillement : Jour après jour, découvrez une sélection exquise de thés et infusions parfumés. Chaque tasse offre un instant unique pour patienter avec douceur jusqu’à Noël
+- 24 sachets de dégustation variés : 11 thés parfumés, 8 infusions gourmandes et 5 thés verts, soigneusement imaginés par TWININGS pour offrir chaque jour un moment de plaisir et de magie festive
 - Décor Londonien magique : Le calendrier s’ouvre comme la boutique TWININGS Strand et dévoile une carte festive de Londres. Une expérience British unique pour savourer l’Avent autrement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

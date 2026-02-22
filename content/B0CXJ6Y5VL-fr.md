@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ⚡️FINITION : housse de couette et taie doreiller à fermeture à rabat.
-- ⚡️MATIÈRE : 100% coton de qualité, tissage serré (57 fils / cm²) pour un tissu plus doux et plus résistant. Parfait en toute saison.
-- ⚡️ENTRETIEN : parure de lit Pokémon Spike lavable en machine à 40°, passe au sèche-linge.
 - ⚡️DESIGN UNIQUE : Retrouvez lunivers de Pokémon avec cette parure de lit imprimée Pikachu au recto, une impression graphique au verso !
 - ⚡️OEKO-TEX & BSCI : Cette parure de lit est certifiée OEKO-TEX CQ901-1 IFTH (certifie que les opérations techniques sont respectueuses de lenvironnement et ne présentent aucun danger pour la santé) et nous sommes membre de la BSCI (garantissant de bonnes conditions de travail.)
+- ⚡️FINITION : housse de couette et taie doreiller à fermeture à rabat.
+- ⚡️ENTRETIEN : parure de lit Pokémon Spike lavable en machine à 40°, passe au sèche-linge.
+- ⚡️MATIÈRE : 100% coton de qualité, tissage serré (57 fils / cm²) pour un tissu plus doux et plus résistant. Parfait en toute saison.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CXJ6Y5VL{{</world>}}

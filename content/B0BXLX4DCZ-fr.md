@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nettoyage dextérieur : Performances élevées pour nettoyer les sols des grandes terrasses, facades, garage, les bateaux, les piscines, les caravanes ou les ateliers de bricolage.
-- Multi-surface : En changeant de buse, le nettoyeur haute pression peut passer de lélimination de la saleté et de la mousse sur les sols, au lavage de voiture ou au nettoyage des vitres ou du toit.
 - Nettoyeur haute pression NILFISK : Le Premium 200-15 est parfait pour les grandes surfaces grâce à son puissant moteur à induction et à sa pompe en aluminium.
 - Caractéristiques : Pression de 200 bars, vitesse de nettoyage de 70 m2/h, débit deau de 650 l/h, tuyau superflex de 15 m, manche télescopique et lance rotative.
 - Accessoires : Il comprend un pistolet de pulvérisation G5, une buse à jet réglable Gentle et dune buse à jet rotatif Rough et aiguille de débouchage de buse
+- Multi-surface : En changeant de buse, le nettoyeur haute pression peut passer de lélimination de la saleté et de la mousse sur les sols, au lavage de voiture ou au nettoyage des vitres ou du toit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BXLX4DCZ{{</world>}}

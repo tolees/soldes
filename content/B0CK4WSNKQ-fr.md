@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Filtres créatifs et mode Creative Assist Connectivité HDMI et USB Type C pour les accessoires
 - Boitier seul – pas d’optiques livrées. Compatibilité des objectifs RF et objectifs EF via ladaptateur
 - AF CMOS Dual Pixel avec AF suivi du visage+ et détection des yeux sur 88 % du cadre Compact et léger, avec flash intégré et EVF
-- Filtres créatifs et mode Creative Assist Connectivité HDMI et USB Type C pour les accessoires
-- Appareil photo sans miroir 24,1 MP avec capteur CMOS APS-C et processeur DIGIC 8 Prise de vue continue jusquà 6,5 ips sur le premier rideau électronique avec One Shot AF
 - Écran LCD de 7,5 cm (3,0 pouces) de 1,04 m de points et EVF OLED de type 0,39 m de points Vidéo 4K UHD jusquà 25p, Full HD jusquà 60p, HD jusquà 120p, Timelapse jusquà 30p
+- Appareil photo sans miroir 24,1 MP avec capteur CMOS APS-C et processeur DIGIC 8 Prise de vue continue jusquà 6,5 ips sur le premier rideau électronique avec One Shot AF
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK4WSNKQ{{</world>}}

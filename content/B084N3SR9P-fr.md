@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOTRE RITUEL POUR UN BEAU BRONZAGE : Appliquez généreusement et de façon homogène après chaque exposition au soleil ou dès que la peau semble déshydratée, puis laissez pénétrer le produit. Renouvelez lapplication aussi souvent que nécessaire.
-- ENRICHI EN EXTRAIT NATUREL DE PRO MELANINE : Ce soin solaire à la formule naturelle est enrichi en aloe vera bio apaisante et rafraîchissante, et contient de lextrait de pro-mélanine qui active la synthèse de la mélanine de la peau.
-- N°1 DE LA PROTECTION SOLAIRE* : Profitez du soleil en toute sérénité avec NIVEA SUN, première marque de protection solaire au monde.* Nos formules hautes performances protègent et hydratent votre peau à tous les moments de la journée.
 - FORMULE LEGERE ET NON GRASSE : Testée sous contrôle dermatologique, sa formule légère et non grasse, facile à appliquer, sabsorbe rapidement par la peau. Le lait solaire apporte une agréable sensation de fraîcheur après une exposition au soleil.
+- ENRICHI EN EXTRAIT NATUREL DE PRO MELANINE : Ce soin solaire à la formule naturelle est enrichi en aloe vera bio apaisante et rafraîchissante, et contient de lextrait de pro-mélanine qui active la synthèse de la mélanine de la peau.
+- VOTRE RITUEL POUR UN BEAU BRONZAGE : Appliquez généreusement et de façon homogène après chaque exposition au soleil ou dès que la peau semble déshydratée, puis laissez pénétrer le produit. Renouvelez lapplication aussi souvent que nécessaire.
 - BRONZAGE DURABLE ET HYDRATATION 48H : Le lait après-soleil prolongateur de bronzage de NIVEA SUN aide à restaurer la perte dhydratation due au soleil pendant 48 heures et assure un joli bronzage longue durée. La peau est douce et soyeuse.
+- N°1 DE LA PROTECTION SOLAIRE* : Profitez du soleil en toute sérénité avec NIVEA SUN, première marque de protection solaire au monde.* Nos formules hautes performances protègent et hydratent votre peau à tous les moments de la journée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084N3SR9P{{</world>}}

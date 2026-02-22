@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le coton piqué est durable et respirant, ajoutant une structure subtile à nimporte quelle tenue
 - Associez-le à un pantalon chino et à vos baskets Nike préférées pour créer un look parfait que vous pouvez porter nimporte où
-- Polo à manches courtes Nike Club pour hommes Que ce soit sur le parcours ou au club-house, ce polo classique de notre collection Nike Club apporte un classique emblématique à votre garde-robe
 - Le design est conçu pour offrir une sensation de détente sur la poitrine et le corps, créant une coupe sportive que vous pouvez superposer
+- Le coton piqué est durable et respirant, ajoutant une structure subtile à nimporte quelle tenue
+- Polo à manches courtes Nike Club pour hommes Que ce soit sur le parcours ou au club-house, ce polo classique de notre collection Nike Club apporte un classique emblématique à votre garde-robe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CSDSQFGX{{</world>}}

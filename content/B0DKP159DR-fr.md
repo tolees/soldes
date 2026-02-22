@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Diamètre 1,75 mm ± 0,03 mm】: Filament PETG de diamètre 1,75 mm, tolérance +/- 0,03 mm, pour garantir des impressions stables. La bobine est de 1 kg, longueur : environ 335 mètres
-- 【Pas denchevêtrement et pas dobstruction】Filament PETG GEEETECH de 1 kg pour imprimante 3D, rondeur parfaite et tolérance de diamètre très étroite, bon enroulement, ne se chevauche pas et ne semmêle pas. Bien fondre, alimenter uniformément et de manière constante sans obstruer la buse ou lextrudeuse.
 - 【Filament PETG Robuste et durable】: le filament PETG geeetech offre une solidité robuste et durable (comme lABS) et une facilité dutilisation (comme le PLA), filament pour imprimante 3D avec un bon éclat et une bonne résistance à la corrosion.
+- 【Diamètre 1,75 mm ± 0,03 mm】: Filament PETG de diamètre 1,75 mm, tolérance +/- 0,03 mm, pour garantir des impressions stables. La bobine est de 1 kg, longueur : environ 335 mètres
 - 【Pas de déformation, pas de blocage】: Geeetech Petg de même diamètre et de rondité, moins de traction, de déformation, pas dimpuretés. Petg Noir Température dimpression : 220 - 250 °C (428 - 482 °F), Température de la plaque de base : 60 - 100 °C (140 - 212 °F).
+- 【Pas denchevêtrement et pas dobstruction】Filament PETG GEEETECH de 1 kg pour imprimante 3D, rondeur parfaite et tolérance de diamètre très étroite, bon enroulement, ne se chevauche pas et ne semmêle pas. Bien fondre, alimenter uniformément et de manière constante sans obstruer la buse ou lextrudeuse.
 - 【Haute compatibilité & matériau environnemental】: Filament Petg 1,75 compatible avec la plupart des imprimantes 3D FDM et stylo 3D. Obtenu à partir de matières premières damidon provenant de ressources végétales renouvelables.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

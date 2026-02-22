@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TAUX DE REFRAICHISSEMENT DE 360 HZ, TEMPS DE REPONSE DE 0,03 ms - Une fréquence de 360 Hz est complétée par un temps de réponse de 0,03 ms (GtG) pour un indice VESA ClearMR 13000 exceptionnel ; un radiateur en graphène améliore la longévité de lécran.
-- QUANTUM DOT OLED - Lécran gaming MSI MAG 271QPX QD-OLED combine la conversion de couleur Quantum Dot 10 bits avec des pixels OLED auto-émissifs pour des noirs inégalés et un temps de réponse exceptionnel.
-- 26,5" WQHD, COULEUR 10 BIT - La dalle OLED Quantum Dot affiche 1,07 milliard de couleurs (10 bits, 99,1 % DCI-P3) avec un Delta E ≤2 ; certifié VESA DisplayHDR True Black 400 (taux de contraste de 1500000:1) et jusquà 1000 nits de luminosité maximale.
 - OLED CARE 2.0 - MSI OLED Care 2.0 aide à prévenir le burn-in, logiciel assisté par IA (Smart Crosshair), modes Console et Game Assistance (Optix Scope) ; compatible PiP/PbP ; dispose dun support réglable sur 4 axes (VESA 100mm).
 - CONNECTIVITÉ DE POINTE - Les options de raccordement PC, Mac, console et ordinateur portable (WQHD/360Hz) comprennent les ports DisplayPort 1.4a, HDMI 2.1 CEC et USB Type-C avec Power Delivery (15W).
+- 26,5" WQHD, COULEUR 10 BIT - La dalle OLED Quantum Dot affiche 1,07 milliard de couleurs (10 bits, 99,1 % DCI-P3) avec un Delta E ≤2 ; certifié VESA DisplayHDR True Black 400 (taux de contraste de 1500000:1) et jusquà 1000 nits de luminosité maximale.
+- TAUX DE REFRAICHISSEMENT DE 360 HZ, TEMPS DE REPONSE DE 0,03 ms - Une fréquence de 360 Hz est complétée par un temps de réponse de 0,03 ms (GtG) pour un indice VESA ClearMR 13000 exceptionnel ; un radiateur en graphène améliore la longévité de lécran.
+- QUANTUM DOT OLED - Lécran gaming MSI MAG 271QPX QD-OLED combine la conversion de couleur Quantum Dot 10 bits avec des pixels OLED auto-émissifs pour des noirs inégalés et un temps de réponse exceptionnel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CS6QFWSD{{</world>}}

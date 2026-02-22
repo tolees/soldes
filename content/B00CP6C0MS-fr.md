@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- GROHE Economie dEau réduit votre consommation deau jusquà 50 % sans sacrifices au niveau des performances. A chaque fois que vous vous servirez de votre robinetterie, vous profiterez dun jet deau complet mais économiserez néanmoins de largent.
 - Cette hauteur de robinetterie est loption standard pour tous les lavabos standard. Vous la trouverez très confortable dutilisation que ce soit pour vous brosser les dents ou vous nettoyer le visage.
 - Élégant et facile à manipuler : fermez lensemble de vidage en tirant sur la tige au dos de la robinetterie et appuyez dessus pour le réouvrir
-- GROHE Economie dEau réduit votre consommation deau jusquà 50 % sans sacrifices au niveau des performances. A chaque fois que vous vous servirez de votre robinetterie, vous profiterez dun jet deau complet mais économiserez néanmoins de largent.
 - Outil multifonction QuickTool inclus pour une installation facile
 - Il vous suffit dessuyer la robinetterie avec un chiffon sec – la finition très lisse est résistante aux rayures lui assure une brillance lumineuse. Vous gagnerez beaucoup de temps et votre robinetterie sera toujours comme neuve.
 

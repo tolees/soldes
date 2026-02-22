@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La manière la plus simple d’ajouter des sons de percussion authentiques à vos concerts.
-- Sorties Main mono et casque audio stéréo séparées
-- Que vous soyez batteur, percussionniste, guitariste, DJ ou chanteur, le SPD:: ONE PERCUSSION se place en instrument simple et polyvalent pour élargir votre palette sonore et ajouter une nouvelle énergie à vos concerts.
-- Les manipulations sont simples, même pour les musiciens que la technique rebute : il n’y a que quatre boutons à tourner sur le panneau de contrôle pour changer de son, régler le volume, la balance...
-- La fonction USB-MIDI permet de déclencher les sons d’un logiciel de musique
 - Robuste mais sensible, le SPD:: ONE PERCUSSION peut être joué à la main, au pied ou avec des baguettes. La sensibilité des capteurs peut être facilement réglée à l’aide de contrôleurs dédiés.
-- Alimenté par piles ou adaptateur secteur, le SPD:: ONE PERCUSSION peut être posé sur le sol ou sur une table, ou accroché à n’importe quel support ou rack de batterie à l’aide de l’adaptateur fourni.
+- Que vous soyez batteur, percussionniste, guitariste, DJ ou chanteur, le SPD:: ONE PERCUSSION se place en instrument simple et polyvalent pour élargir votre palette sonore et ajouter une nouvelle énergie à vos concerts.
+- Sorties Main mono et casque audio stéréo séparées
+- La manière la plus simple d’ajouter des sons de percussion authentiques à vos concerts.
 - Contient 22 sons de percussion réalistes : caisses claires, charlestons, cymbales, shakers, tambourins... Et vous pouvez importer vos propres échantillons audio dans l’une des 12 banques de sons internes disponibles.
+- La fonction USB-MIDI permet de déclencher les sons d’un logiciel de musique
+- Alimenté par piles ou adaptateur secteur, le SPD:: ONE PERCUSSION peut être posé sur le sol ou sur une table, ou accroché à n’importe quel support ou rack de batterie à l’aide de l’adaptateur fourni.
+- Les manipulations sont simples, même pour les musiciens que la technique rebute : il n’y a que quatre boutons à tourner sur le panneau de contrôle pour changer de son, régler le volume, la balance...
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B074JXHKBZ{{</world>}}

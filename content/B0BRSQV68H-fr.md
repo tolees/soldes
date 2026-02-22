@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Avec une carte dextension SSD M.2 SATA qui peut étendre le stockage de masse pour votre Raspberry Pi. Remarque : les disques SSD Raspberry Pi 4B et M.2 SATA ne sont pas inclus dans la livraison, nécessitent un achat supplémentaire. Veuillez faire attention au type de disque SSD, il doit être M.2 SATA SSD 2280, la carte adaptateur ne prend pas en charge SSD NVME.
 - Il est fortement recommandé dutiliser le système dexploitation Raspberry Pi officiel, qui peut configurer directement le ventilateur pour régler la vitesse en fonction de la température du processeur via le contrôle de configuration Raspi. Dautres systèmes dexploitation peuvent vous obliger à écrire vous-même le logiciel et à envoyer des signaux PWM au ventilateur via les broches GPIO pour contrôler la vitesse du ventilateur.
 - Bon effet de dissipation de la chaleur : avec le c ble de refroidissement à tour Raspberry Pi peut rapidement réduire la temp rature de la carte Raspberry Pi. Différent des ventilateurs ordinaires, ce ventilateur de refroidissement prend en charge le réglage de la vitesse PWM, qui est parfaitement compatible avec Raspberry Pi OS.
-- Avec une carte dextension SSD M.2 SATA qui peut étendre le stockage de masse pour votre Raspberry Pi. Remarque : les disques SSD Raspberry Pi 4B et M.2 SATA ne sont pas inclus dans la livraison, nécessitent un achat supplémentaire. Veuillez faire attention au type de disque SSD, il doit être M.2 SATA SSD 2280, la carte adaptateur ne prend pas en charge SSD NVME.
 - Compatible avec Raspberry Pi 4 modèle B : cette ue en brique en aluminium contient un refroidisseur à tour ICE et une carte dextension SSD M.2 SATA est conçue uniquement pour Raspberry Pi 4 modèle B version 1 Go/2 Go/4 Go/8 Go.
 - ue en aluminium de haute qualité, robuste et durable, peut bien protéger votre Raspberry Pi et protéger votre Raspberry Pi 4 des rayures, de la poussière et des dommages.
 

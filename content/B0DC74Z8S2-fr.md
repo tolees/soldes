@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : multicolore
-- Mesure 9 x 9,4 x 4,4 cm
 - Si ce que vous voulez cest la qualité au meilleur prix ne cherchez plus !
+- Mesure 9 x 9,4 x 4,4 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DC74Z8S2{{</world>}}

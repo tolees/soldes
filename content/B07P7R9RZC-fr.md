@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
 - Doublure : 58 % coton, 22 % polyester, 20 % tissu (60 % nylon, 40 % polyuréthane)
+- Couleur : noir
+- Semelle extérieure/caractéristiques : caoutchouc pour une adhérence extraordinaire
 - Dessus : cuir (cuir de veau)
 - Semelle intérieure : OrthoLite pour amortir
-- Semelle extérieure/caractéristiques : caoutchouc pour une adhérence extraordinaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07P7R9RZC{{</world>}}

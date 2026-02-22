@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque : Nike
-- Très confortable à porter
 - Tissu absorbant
 - Gestion efficace de lhumidité
-- Confortable
 - Liberté de mouvement absolue
+- Confortable
+- Marque : Nike
+- Très confortable à porter
 - Aide à rester au sec
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONVIENT À LA MUQUEUSE : Ce crayon pour les yeux a une formule innovante, testée ophtalmologiquement, adaptée à une application sur la muqueuse, même pour les yeux sensibles et les porteurs de lentilles de contact.
-- LA PROMESSE CLINIQUE POUR LES YEUX : Le Crayon Gel Eyeliner High Impact est soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact. Soumis à des tests dallergie. 100 % sans parfum.
 - COULEUR HAUTE INTENSITÉ : Ce crayon eyeliner rétractable offre une couleur ultra-pigmentée pour un maquillage des yeux intense en un seul passage.
-- SANS TRANSFERT ET TENUE EXTRÊME : Cet eyeliner longue tenue waterproof offre 24h de tenue sur la paupière et 12h sur la muqueuse de lœil.
+- LA PROMESSE CLINIQUE POUR LES YEUX : Le Crayon Gel Eyeliner High Impact est soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact. Soumis à des tests dallergie. 100 % sans parfum.
+- CONVIENT À LA MUQUEUSE : Ce crayon pour les yeux a une formule innovante, testée ophtalmologiquement, adaptée à une application sur la muqueuse, même pour les yeux sensibles et les porteurs de lentilles de contact.
 - LARGE GAMME DE TEINTES : 8 teintes allant des basiques du quotidien aux métallisés vifs. 3 teintes neutres pour illuminer votre regard : Bright White, Beaming Beige et Bronze Glow.
+- SANS TRANSFERT ET TENUE EXTRÊME : Cet eyeliner longue tenue waterproof offre 24h de tenue sur la paupière et 12h sur la muqueuse de lœil.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DF143J2G{{</world>}}

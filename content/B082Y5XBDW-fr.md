@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau IP32 – Empêche les dommages provoqués par des éclaboussures accidentelles de liquides
 - Repose-mains magnétique premium – Pour un soutien de la paume entière et une grande sensation de confort
-- Switchs de gaming ultra-silencieux – Utilisation presque sans bruits pour 20 millions de frappes à friction réduite
-- Lagencement du clavier est disponible en Français AZERTY. Les images promotionnelles sont elles en Américain QWERTY
 - Illumination RVB sur 10 zones – Superbes combinaisons de couleurs et effets réactifs
+- Switchs de gaming ultra-silencieux – Utilisation presque sans bruits pour 20 millions de frappes à friction réduite
+- Résistance à leau IP32 – Empêche les dommages provoqués par des éclaboussures accidentelles de liquides
+- Lagencement du clavier est disponible en Français AZERTY. Les images promotionnelles sont elles en Américain QWERTY
 - Touches multimédias dédiées – Pour régler le volume et les paramètres à tout moment
 
 [🛒 Achète-le!!]({{< param buyurl >}})

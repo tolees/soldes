@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Et avec sa surface Multi-Touch, vous pouvez, entres autres, balayer d’une page web à l’autre ou faire défiler le contenu d’un document à l’aide de gestes simples.
 - La Magic Mouse intègre une batterie rechargeable et fonctionne environ un mois ou plus entre deux charges.
+- Elle est livrée avec un câble de charge USB‑C tissé qui vous permet de la jumeler et de la recharger en la branchant sur un port USB‑C de votre Mac.
 - Sans fil et rechargeable, la Magic Mouse présente un design optimisé au niveau de sa base, qui lui permet de mieux se déplacer sur votre bureau.
 - À peine déballée, elle s’associe automatiquement à votre Mac pour être tout de suite opérationnelle.
-- Elle est livrée avec un câble de charge USB‑C tissé qui vous permet de la jumeler et de la recharger en la branchant sur un port USB‑C de votre Mac.
+- Et avec sa surface Multi-Touch, vous pouvez, entres autres, balayer d’une page web à l’autre ou faire défiler le contenu d’un document à l’aide de gestes simples.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DL6KSW78{{</world>}}

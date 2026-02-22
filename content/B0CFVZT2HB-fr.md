@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À propos des ensembles LEGO City : LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination sans limite ses structures, ses véhicules jouets et ses citoyens sont une motivation excitante qui les pousse à construire
+- La prison LEGO regorge de fonctions amusantes : la prison jouet comprend une cellule avec un tunnel dévacuation menant à une mine abandonnée, ainsi quune cour avec une trappe dévacuation secrète menant à un égout désaffecté
 - Un cadeau LEGO pour les garçons et les filles dès 7 ans : surprenez votre héros de tous les jours avec ce jouet policier pour les fans de jeux de construction LEGO et de jeux dimagination à loccasion de son anniversaire ou dune fête spéciale
 - Jeu créatif illimité : libérez encore plus de plaisir et daventure en ajoutant ce jeu de construction pour la police à dautres jeux de la gamme LEGO City (vendus séparément)
-- La prison LEGO regorge de fonctions amusantes : la prison jouet comprend une cellule avec un tunnel dévacuation menant à une mine abandonnée, ainsi quune cour avec une trappe dévacuation secrète menant à un égout désaffecté
-- Jouet policier et prison pour les enfants de 7 ans et plus : La Prison de la Police en Haute Mer LEGO City est remplie de caractéristiques et de fonctions amusantes pour des heures de jeu imaginatif
 - Que contient ce set LEGO City ? Une prison à construire avec une falaise, un bateau de police, un hors-bord, un hélicoptère jouet et des minifigurines de 3 policiers et 4 prisonniers, ainsi que des figurines de chien et de requin
+- À propos des ensembles LEGO City : LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination sans limite ses structures, ses véhicules jouets et ses citoyens sont une motivation excitante qui les pousse à construire
+- Jouet policier et prison pour les enfants de 7 ans et plus : La Prison de la Police en Haute Mer LEGO City est remplie de caractéristiques et de fonctions amusantes pour des heures de jeu imaginatif
 - Affiche « Wanted » incluse : avec la permission dun adulte, votre enfant peut scanner le code QR sur les instructions de construction ou la boîte pour visionner une aventure vidéo amusante de la police de LEGO City
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

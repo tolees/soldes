@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCOUVREZ le Sérum Booster de Brillance Elseve Glycolic Gloss, il enrobe les cheveux de brillance pour un éclat intense. Pour des cheveux 10x plus lisses* pendant 72h sans alourdir. *Test instrumental
-- APPLICATION FACILE : Sur cheveux humides ou secs, vaporisez uniformément sur les longueurs et les pointes. Ne rincez pas. Coiffez comme à votre habitude. Idéal en complément du Shampooing et du Démêlant.
-- FORMULE LÉGÈRE : enrichie avec 2% de Complexe à lAcide Glycolique. Enrobe les cheveux de brillance pour un éclat intense.
-- RÉSULTATS VISIBLES : Révèle une brillance miroir & un toucher soyeux. Les cheveux sont 10x plus lisses pendant 72h* et protégés de la chaleur jusquà 230°* pour un effet anti-frisottis 24h. *Test Instrumentaux
 - Contenu : 1x Sérum Spray Booster de Brillance - LOréal Paris Elseve Glycolic Gloss
+- DÉCOUVREZ le Sérum Booster de Brillance Elseve Glycolic Gloss, il enrobe les cheveux de brillance pour un éclat intense. Pour des cheveux 10x plus lisses* pendant 72h sans alourdir. *Test instrumental
+- RÉSULTATS VISIBLES : Révèle une brillance miroir & un toucher soyeux. Les cheveux sont 10x plus lisses pendant 72h* et protégés de la chaleur jusquà 230°* pour un effet anti-frisottis 24h. *Test Instrumentaux
+- FORMULE LÉGÈRE : enrichie avec 2% de Complexe à lAcide Glycolique. Enrobe les cheveux de brillance pour un éclat intense.
+- APPLICATION FACILE : Sur cheveux humides ou secs, vaporisez uniformément sur les longueurs et les pointes. Ne rincez pas. Coiffez comme à votre habitude. Idéal en complément du Shampooing et du Démêlant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FVG4PSB3{{</world>}}

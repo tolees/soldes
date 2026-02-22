@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Bras double sorties et deux porte-filtres pour préparer un ou deux cafés à la fois. Convient pour une utilisation avec café moulu. Réservoir d’eau qui s’extrait, d’une capacité d’1.5L. Plateau réchauffe-tasses en acier inoxydable.
 - Machine à café pour expresso et cappuccino, prépare tous types de café avec une simple pression sur un bouton.
-- Obtenez la meilleure crème et un arôme maximal. Inclus : buse vapeur orientable avec protection lors de l’utilisation, pour faire mousser le lait, produire de l’eau chaude pour des infusions, réchauffer des liquides et préparer des cappuccinos.
 - Système d’économie d’énergie avec déconnexion automatique et stand-by. Indicateurs lumineux pour chaque fonction. Avec valve de sécurité qui libère automatiquement la pression. Inclus: cuillère à dosage avec presse pour le café.
 - Plateau anti-gouttes démontable pour faciliter le nettoyage. Hauteur suffisante pour utiliser des tasses de petit-déjeuner.
+- Obtenez la meilleure crème et un arôme maximal. Inclus : buse vapeur orientable avec protection lors de l’utilisation, pour faire mousser le lait, produire de l’eau chaude pour des infusions, réchauffer des liquides et préparer des cappuccinos.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0763N7WMP{{</world>}}

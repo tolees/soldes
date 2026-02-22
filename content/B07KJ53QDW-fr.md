@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tissu micro tissé QcK exclusif optimisé pour les mouvements de suivi DPI faible et élevé
-- Puedes personalizar tu propia alfombrilla de ratón única., Lot de 2
-- Tejido de tela muy texturizado.
 - Lot de 2
+- Tejido de tela muy texturizado.
+- Puedes personalizar tu propia alfombrilla de ratón única., Lot de 2
 - Optimisé pour les capteurs optiques et laser, Déjanos una foto y luego podemos personalizarla para ti
 
 [🛒 Achète-le!!]({{< param buyurl >}})

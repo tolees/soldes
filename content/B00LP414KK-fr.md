@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayon waterproof de couleur vive pour un look de soirée parfait
+- Formule waterproof, ne coule pas et ne bouge pas
 - Enrichi en vitamine E et huile de jojoba, il est doux pour les yeux
 - Disponible en 3 finis : semi-mat, brillant et scintillant
+- Crayon waterproof de couleur vive pour un look de soirée parfait
 - Peut être utilisé comme eye-liner / crayon et comme fard à paupières
-- Formule waterproof, ne coule pas et ne bouge pas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00LP414KK{{</world>}}

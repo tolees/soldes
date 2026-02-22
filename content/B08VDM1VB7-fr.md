@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Actuellement, les informations sur le vendeur ne sont pas disponibles
 - Nous nous efforçons dinclure ces informations dans un proche avenir.
 - Revenez plus tard pour les mises à jour.
-- Actuellement, les informations sur le vendeur ne sont pas disponibles
 - La personne responsable est lopérateur économique basé dans lUE responsable de certaines obligations de conformité relatives au produit.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

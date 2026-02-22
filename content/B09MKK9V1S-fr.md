@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temps de réponse rapide 6,5 ms
 - Écran avec bordure étroite
+- Temps de réponse rapide 6,5 ms
 - Angle de vision extra large de 178°
 
 [🛒 Achète-le!!]({{< param buyurl >}})

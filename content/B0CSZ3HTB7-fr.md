@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- De 2 à 6 joueurs à partir de 8 ans - Durée de jeu : 45 minutes
-- Scotland Yard veut attraper Mister X avant quil ne soit trop tard, tandis que Mister X fait tout pour séchapper. Utilisez les billets de taxi, de bus et de métro pour enregistrer la chasse à travers Londres ! Mais ce nest que si vous travaillez bien ensemble que vous pouvez attraper Mister X
 - 1 plan de jeu, 12 personnages, 29 cartes de départ, 130 billets, 3 billets à double train, 12 tableaux de billets, 1 tableau de voyage, 1 écran de vision, 2 anneaux pour les Bobbies, instructions (D, F, I, NL)
+- De 2 à 6 joueurs à partir de 8 ans - Durée de jeu : 45 minutes
 - Le célèbre jeu de cache-cache autour de Mister X et les détectives de Londres – jeu et plaisir garantis. Maintenant dans un nouveau design et des personnages individuels. Sur notre site Web, vous pouvez télécharger vos photos et imprimer un modèle. Vous pouvez ainsi vous faire détective, détective, Ms. X ou Mister X
 - Maintenant avec 6 figurines supplémentaires. Rejoignez léquipe dès maintenant : soit vous vous transformez en lun des personnages inclus, soit vous imprimez vous-même comme modèle sur le site Web.
+- Scotland Yard veut attraper Mister X avant quil ne soit trop tard, tandis que Mister X fait tout pour séchapper. Utilisez les billets de taxi, de bus et de métro pour enregistrer la chasse à travers Londres ! Mais ce nest que si vous travaillez bien ensemble que vous pouvez attraper Mister X
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSZ3HTB7{{</world>}}

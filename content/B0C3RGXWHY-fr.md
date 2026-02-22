@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Charge SuperVOOC 67 W + Batterie puissante de 5 000 mAh] La charge SuperVOOC ultra rapide, ultra sécurisée et ultra fiable de 67 W (max.) vous permet de profiter de votre téléphone en toute quiétude et recharge votre appareil jusqu’à 50 % en 18 minutes, même avec une capacité de batterie de 5 000 mAh. Une batterie puissante de 5 000 mAh grâce à laquelle vous pouvez regarder jusqu’à 19 heures de vidéos.
-- [Écran incurvé de 120 Hz] 1 milliard de couleurs avec une brillance, une luminosité et une clarté élevées qui rendent votre visionnage sublime et toujours confortable.
-- [Processeur Dimensity 7050 5G] Fluidité d’utilisation après 48 mois. Processeur : TSMC avec finesse de gravure de 6 nm, octa-core, jusqu’à 2,6 GHz Processeur graphique : Mali-G68
-- [Modèle en cuir végan de qualité supérieure] Collaboration équipe de conception de realme × Matteo Menotto. Pour ce partenariat, Matteo Menotto a créé un imprimé qui mêle l’esthétique urbaine de la mode milanaise aux caractéristiques de la gamme realme 11 Pro.
 - [Appareil photo ProLight OIS de 100 MP] La technologie de zoom intégré au capteur produit un zoom ×2 bien plus net que les zooms numériques classiques. SuperOIS technology helps you capture moving subjects with greater confidence.
+- [Processeur Dimensity 7050 5G] Fluidité d’utilisation après 48 mois. Processeur : TSMC avec finesse de gravure de 6 nm, octa-core, jusqu’à 2,6 GHz Processeur graphique : Mali-G68
+- [Écran incurvé de 120 Hz] 1 milliard de couleurs avec une brillance, une luminosité et une clarté élevées qui rendent votre visionnage sublime et toujours confortable.
+- [Charge SuperVOOC 67 W + Batterie puissante de 5 000 mAh] La charge SuperVOOC ultra rapide, ultra sécurisée et ultra fiable de 67 W (max.) vous permet de profiter de votre téléphone en toute quiétude et recharge votre appareil jusqu’à 50 % en 18 minutes, même avec une capacité de batterie de 5 000 mAh. Une batterie puissante de 5 000 mAh grâce à laquelle vous pouvez regarder jusqu’à 19 heures de vidéos.
+- [Modèle en cuir végan de qualité supérieure] Collaboration équipe de conception de realme × Matteo Menotto. Pour ce partenariat, Matteo Menotto a créé un imprimé qui mêle l’esthétique urbaine de la mode milanaise aux caractéristiques de la gamme realme 11 Pro.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3RGXWHY{{</world>}}

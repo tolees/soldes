@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTÉRIEUR REMBOURRɠ: Rembourré pour plus de confort, le casque sajuste à la plupart des têtes
-- MOFF GIDEON : Intelligent et redoutable, Moff Gideon utilise lancien Darksaber, un artéfact de grande importance pour les Mandaloriens
 - DESIGN ET DÉCO PREMIUM : On peut imaginer travailler pour lEmpire en tant que Moff Gideon, et porter un casque qui rend hommage au sinistre Dark Maul avec des cornes pointues
-- EFFETS LUMINEUX : Ce casque The Black Series a une visière frontale lumineuse et des effets lumineux intérieurs, plus un mode dexposition
 - STAR WARS: THE MANDALORIAN : Cet article de cosplay sous licence officielle est inspiré du casque de Moff Gideon dans Star Wars: The Mandalorian
+- INTÉRIEUR REMBOURRɠ: Rembourré pour plus de confort, le casque sajuste à la plupart des têtes
+- EFFETS LUMINEUX : Ce casque The Black Series a une visière frontale lumineuse et des effets lumineux intérieurs, plus un mode dexposition
+- MOFF GIDEON : Intelligent et redoutable, Moff Gideon utilise lancien Darksaber, un artéfact de grande importance pour les Mandaloriens
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQJ1MNGL{{</world>}}

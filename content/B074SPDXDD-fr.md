@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Application RAPIDE en intérieur et extérieur (en 1 ou 2 couches) sans temps d’attente entre 2 couches
 - Produit destiné à protéger tous les supports poreux ou peu poreux contre la pénétration de leau, des huiles et du gazoil. Il REDUIT significativement les TACHES et lENCRASSEMENT des matériaux
+- Application RAPIDE en intérieur et extérieur (en 1 ou 2 couches) sans temps d’attente entre 2 couches
+- Convient à tous les types de façades, sols et toitures. Il protège tous les matériaux de construction courant poreux ou peu poreux tels que : pierres naturelles, pierres reconstituées, terres cuites, dalles et pavés béton, enduit, fibre-ciement, plâtre
 - Protection INVISIBLE qui laisse respirer le support, résiste au U.V et facilite le nettoyage des grafittis
 - CONSOMMATION : Entre 10 à 50m² selon porosité du support (voir tableaux des consommations des supports)
-- Convient à tous les types de façades, sols et toitures. Il protège tous les matériaux de construction courant poreux ou peu poreux tels que : pierres naturelles, pierres reconstituées, terres cuites, dalles et pavés béton, enduit, fibre-ciement, plâtre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B074SPDXDD{{</world>}}

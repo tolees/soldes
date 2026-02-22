@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille du sac réglable selon la charge grâce à la fermeture par enroulement magnétique. Poche latérale zippée pour ranger une bouteille d’eau ou un trépied. Passant intégré pour transporter le sac à dos en toute sécurité au-dessus dun bagage sur roulette
 - Sacoche de protection amovible pour ranger l’appareil photo à part ou le glisser dans un autre sac. Compartiment matelassé séparé permettant de protéger un ordinateur portable jusqu’à 15, 6" et une tablette jusqu’à 10, 5" et d’y accéder rapidement
-- Ouvertures secondaires zippées permettant d’accéder aux différentes parties du compartiment central. Doublure intérieure de couleur vive pour vous aider à localiser facilement vos objets
 - Rangement personnalisable qui s’adapte à votre appareil photo reflex numérique ou appareil photo hybride grâce aux séparateurs réglables inspirés de l’origami. Ouverture latérale zippée pour accéder rapidement au matériel photo
+- Ouvertures secondaires zippées permettant d’accéder aux différentes parties du compartiment central. Doublure intérieure de couleur vive pour vous aider à localiser facilement vos objets
+- Taille du sac réglable selon la charge grâce à la fermeture par enroulement magnétique. Poche latérale zippée pour ranger une bouteille d’eau ou un trépied. Passant intégré pour transporter le sac à dos en toute sécurité au-dessus dun bagage sur roulette
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L5BY1DK{{</world>}}

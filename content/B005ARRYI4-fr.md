@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir : daim
-- Respirantes et respirantes
 - Fermeture : caoutchouc
+- Respirantes et respirantes
+- Cuir : daim
 - 14.4099999853018 pouces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

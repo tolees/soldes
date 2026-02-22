@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure textile
+- Fermeture à lacets
 - Semelle intermédiaire à amorti
 - Chaussant standard
-- Fermeture à lacets
 - Tige en suède
 
 [🛒 Achète-le!!]({{< param buyurl >}})

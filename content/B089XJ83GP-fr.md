@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeux PS5 d’action RPG dans lequel vous incarnez un guerrier solitaire tentant d’affronter les horreurs du royaume de Boletaria afin de bannir l’Ancien et devenir le Fléau des Démons
-- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
 - Expérience de jeu intense grâce au retour haptique et aux gâchettes adaptatives de votre manette DualSense PS5 : ressentez lénergie des sorts que vous jetez lors de combats sans merci contre des démons redoutables
-- Un univers obscur et fantastique rehaussé par des graphismes éblouissants en 4K et en HDR : un souci du détail incroyable, de l’armure des chevaliers aux rayons de soleil transperçant le brouillard
 - Contenu de la livraison : 1x Jeu PS5 Demon’s Soul, Édition Standard, Version Physique avec CD, Langue : Français, 1 joueur, PEGI : 16
+- Immersion garantie grâce aux temps de chargement éclairs du disque SSD de votre console PS5 et au Mode Performance visant 60 FPS pour une fluidité renforcée des mouvements et des animations
+- Un univers obscur et fantastique rehaussé par des graphismes éblouissants en 4K et en HDR : un souci du détail incroyable, de l’armure des chevaliers aux rayons de soleil transperçant le brouillard
+- Jeux PS5 d’action RPG dans lequel vous incarnez un guerrier solitaire tentant d’affronter les horreurs du royaume de Boletaria afin de bannir l’Ancien et devenir le Fléau des Démons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089XJ83GP{{</world>}}

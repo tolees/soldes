@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réduction de bruit avec double microphone pour des conversations dune clarté exceptionnelle:La technologie de réduction du bruit avec double microphone atténue efficacement le bruit ambiant, contribuant ainsi à la clarté des appels, à lintérieur comme à lextérieur.
-- Réduction du bruit du vent jusquà 4 m/s pour des appels clairs même en extérieur*:Lalgorithme de réduction du bruit à double canal permet de réduire le bruit du vent jusquà 4 m/s* lors des appels.
-- 5 préréglages dégalisateur disponible avec lapplication Xiaomi Earbuds*:Cinq réglages dégalisation intégrés pour répondre à vos différents besoins découte. Accédez à lapplication Xiaomi Earbuds pour passer de lun à lautre dun simple geste. Profitez de pulsations puissantes et dynamiques en mode « Basses amplifiées ». Augmentez la limite de volume et vivez une expérience découte incroyable grâce au mode « Volume amélioré ».
 - Haut-parleur dynamique de 14,2 mm pour un son puissant et sans distorsion:Grâce à un grand pilote dynamique de 14,2 mm et une égalisation précise signés Xiaomi Acoustic Lab, les performances du woofer ont été améliorées pour offrir une expérience sonore exceptionnelle.
+- 5 préréglages dégalisateur disponible avec lapplication Xiaomi Earbuds*:Cinq réglages dégalisation intégrés pour répondre à vos différents besoins découte. Accédez à lapplication Xiaomi Earbuds pour passer de lun à lautre dun simple geste. Profitez de pulsations puissantes et dynamiques en mode « Basses amplifiées ». Augmentez la limite de volume et vivez une expérience découte incroyable grâce au mode « Volume amélioré ».
 - Jusquà 30 heures dautonomie avec létui de charge pour une écoute prolongée *:Écoutez 6 heures de musique en une seule charge ou jusquà 30 heures en utilisant létui de charge. Adieu aux problèmes de batterie. Profitez dune heure découte continue avec une seule charge de 10 minutes. Profitez dune musique exceptionnelle sans interruption.
+- Réduction du bruit du vent jusquà 4 m/s pour des appels clairs même en extérieur*:Lalgorithme de réduction du bruit à double canal permet de réduire le bruit du vent jusquà 4 m/s* lors des appels.
+- Réduction de bruit avec double microphone pour des conversations dune clarté exceptionnelle:La technologie de réduction du bruit avec double microphone atténue efficacement le bruit ambiant, contribuant ainsi à la clarté des appels, à lintérieur comme à lextérieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6YS25GB{{</world>}}

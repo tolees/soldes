@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture: Fermeture éclair
 - Moyen - Standard
 - Multipack: 1
-- Fermeture: Fermeture éclair
 - 100% Polyester
 - Lavage en machine
 

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un univers fait de forêts verdoyantes et de villes subermgées réhaussé par des graphismes époustouflants en 30 FPS et 1080p (jusquà 1800p sur PS4 Pro)
+- Option de mise à niveau disponible vers la version PS5 numérique du jeu sur une console PlayStation 5 avec lecteur de disque
+- Une expérience immersive et un contrôle total sur votre jeu grâce aux fonctionnalités de la manette DUALSHOCK 4 PS4
 - Jeu PS4 de rôle et daction-aventure dans un immense monde ouvert aussi sublime que menaçant, avec des personnages éclectiques et saisissants au coeur dune histoire riche en émotions
 - Contenu de la livraison : 1x Jeu PS4 Horizon Forbidden West, Édition Standard, Version Physique avec CD, Langue : Français, Nombre de joueurs : 1 joueur, PEGI : 16+, Genre : RPG/Action-aventure, Développeur : Guerrilla Games
-- Une expérience immersive et un contrôle total sur votre jeu grâce aux fonctionnalités de la manette DUALSHOCK 4 PS4
-- Option de mise à niveau disponible vers la version PS5 numérique du jeu sur une console PlayStation 5 avec lecteur de disque
-- Un univers fait de forêts verdoyantes et de villes subermgées réhaussé par des graphismes époustouflants en 30 FPS et 1080p (jusquà 1800p sur PS4 Pro)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09FF64NVP{{</world>}}

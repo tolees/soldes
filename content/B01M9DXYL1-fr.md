@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRANSAT BEBE EVOLUTIF : le doomoo Nid sutilise dès la naissance de votre bébé et jusquà ses 30 kg
-- CONFORT MAXIMAL : son remplissage unique en microbilles assure un confort optimal à votre bébé. Les microbilles épousent parfaitement le corps de votre enfant quel que soit son âge
 - 1ER ÂGE : le plateau 1er âge intègre une ceinture de maintien pour une sécurité maximale (jusquà 9kg). En coton ultra doux, il respecte la peau fragile de votre bébé
-- 2EME ÂGE : le plateau 2ème âge transforme le transat. Votre enfant lutilise aussi bien dans sa chambre que dans le salon. Votre enfant est bien installé à vos côtés
 - ENTRETIEN FACILE : les plateaux doomoo Nid se lavent en machine (30°)
+- 2EME ÂGE : le plateau 2ème âge transforme le transat. Votre enfant lutilise aussi bien dans sa chambre que dans le salon. Votre enfant est bien installé à vos côtés
+- CONFORT MAXIMAL : son remplissage unique en microbilles assure un confort optimal à votre bébé. Les microbilles épousent parfaitement le corps de votre enfant quel que soit son âge
+- TRANSAT BEBE EVOLUTIF : le doomoo Nid sutilise dès la naissance de votre bébé et jusquà ses 30 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M9DXYL1{{</world>}}

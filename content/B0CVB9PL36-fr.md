@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - FOND DE TEINT À LACIDE SALICYLIQUE : Aide à traiter et prévenir lapparence des imperfections avec 0,5 % dacide salicylique. Formule non-grasse qui contrôle la brillance toute la journée.
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
-- HAUTE PERFORMANCE, EFFET NATUREL : Ce fond de teint couvre les imperfections avec une tenue 24 h et un fini mat naturel. Existe en de nombreuses teintes pour parfaitement sadapter au teint.
 - ENRICHI D’UN FERMENT DE LACTOBACILLUS : Infusé dune technologie postbiotique pour aider à apaiser les rougeurs.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests dermatologiques. Soumis à des tests ophtalmologiques.
+- HAUTE PERFORMANCE, EFFET NATUREL : Ce fond de teint couvre les imperfections avec une tenue 24 h et un fini mat naturel. Existe en de nombreuses teintes pour parfaitement sadapter au teint.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVB9PL36{{</world>}}

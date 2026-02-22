@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La fonction Auto-Test contrôle l’état du Détecteur et vous alerte si nécessaire.
-- Contrôle en temps réel le taux de monoxyde de carbone émis par vos appareils à combustion (chaudière, cheminée).
-- Compatibilité HomeKit pour communiquer avec d’autres objets connectés.
-- Netatmo Assistance: si vous avez besoin daide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com ou écrivez-nous à: contact-amazon@netatmo.com
 - Une batterie à l’autonomie de 10 ans, égale à la durée de vie du Détecteur.
-- Votre Détecteur Intelligent fonctionne seul, sans devoir acheter une box domotique.
+- Compatibilité HomeKit pour communiquer avec d’autres objets connectés.
 - Une alarme de 85 dB et une notification sur votre smartphone en cas de monoxyde de carbone chez vous.
 - L’installation est facile et rapide en vissant le Détecteur au mur.
+- Netatmo Assistance: si vous avez besoin daide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com ou écrivez-nous à: contact-amazon@netatmo.com
+- Contrôle en temps réel le taux de monoxyde de carbone émis par vos appareils à combustion (chaudière, cheminée).
+- Votre Détecteur Intelligent fonctionne seul, sans devoir acheter une box domotique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09KV7PM8B{{</world>}}

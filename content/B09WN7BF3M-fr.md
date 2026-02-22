@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FPS-ready: Tenkeyless form factor leaves more room for the mousing hand and includes an extended Ctrl key that’s easier to hit
 - ROG RX optical mechanical switches: RX Red switches feature centralized RGB lighting for all-round in-key illumination, and provide consistent wobble-free keystrokes with near-zero debounce delay
-- Stealth key: Hides all apps and mutes audio for instant privacy
-- Built to last: Durable aluminum alloy construction with sandblasted finish
 - Tri-mode connection: Use Bluetooth to connect and switch between three devices at a time, enjoy up to 76 hours of low-latency gameplay in 2.4 GHz RF wireless mode, or use standard wired USB
+- Stealth key: Hides all apps and mutes audio for instant privacy
+- FPS-ready: Tenkeyless form factor leaves more room for the mousing hand and includes an extended Ctrl key that’s easier to hit
+- Built to last: Durable aluminum alloy construction with sandblasted finish
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WN7BF3M{{</world>}}

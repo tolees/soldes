@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crème solaire pour le visage à absorption immédiate. Toucher sec. Convient aux peaux atopiques. Sans huile. Nirrite pas les yeux
 - Nirrite pas les yeux évalué sous contrôle ophtalmologique
-- Tolérance optimale texture ultralégère dabsorption immédiate et sans résidu. Convient à tous les types de peau, même les peaux grasses et/ou sensibles
 - Haute protection UV Haute protection UV testée cliniquement en laboratoire et dans des conditions réelles de fort rayonnement solaire
+- Tolérance optimale texture ultralégère dabsorption immédiate et sans résidu. Convient à tous les types de peau, même les peaux grasses et/ou sensibles
+- Crème solaire pour le visage à absorption immédiate. Toucher sec. Convient aux peaux atopiques. Sans huile. Nirrite pas les yeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SQF23RV{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poignées gainées de PVC
-- Utilisation : Soufflets de cardans, durites deau et carburant pour Volkswagen, Audi, Opel, BMW, Mercedes, Honda, Nissan et Mazda
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
+- Utilisation : Soufflets de cardans, durites deau et carburant pour Volkswagen, Audi, Opel, BMW, Mercedes, Honda, Nissan et Mazda
 - Pour les colliers à recouvrement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

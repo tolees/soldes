@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Braguette zippée
-- Ourlet de jambe réglable, bande intégrée
 - Poches intérieures, parementure le long du bord
 - Poches dos à rabat fermées par boutons-pression dissimulés
 - Poches cargo à la cuisse, fermeture à bouton-pression dissimulée, poche zippée placée au dos
+- Ourlet de jambe réglable, bande intégrée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BJHF6YY{{</world>}}

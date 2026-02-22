@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jeu de plateforme en zone ouverte : Traversez cinq îles gigantesques composées de forêts denses, de chutes d’eau majestueuses et de déserts brûlants, présentant toutes leurs propres défis et secrets à découvrir
-- Une nouvelle aventure pleine de mystère : Incarnez Sonic et tentez de déchiffrer les mystères que cachent les ruines d’une ancienne civilisation prise d’assaut par des hordes robotiques.
 - Cyber-Combat : Venez à bout de tous vos adversaires, même les titans colossaux, en combinant esquives, parades, contres, combos, et la nouvelle compétence Course-boucle.
 - Une liberté à toute vitesse : Tracez votre propre chemin à travers une variété de quêtes secondaires, d’énigmes, de structures massives à explorer, de poissons à pêcher et de quelques amis à rencontrer…
+- Un jeu de plateforme en zone ouverte : Traversez cinq îles gigantesques composées de forêts denses, de chutes d’eau majestueuses et de déserts brûlants, présentant toutes leurs propres défis et secrets à découvrir
+- Une nouvelle aventure pleine de mystère : Incarnez Sonic et tentez de déchiffrer les mystères que cachent les ruines d’une ancienne civilisation prise d’assaut par des hordes robotiques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BC1YMRRF{{</world>}}

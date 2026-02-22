@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Conçu pour un confort accru : une microfibre souple, scellée autour d’une mousse respirante à cellules ouvertes haute résistance, pour une tenue confortable et tout en douceur. Les coussinets sont optimisés pour le confort thermique et les performances audio, tout en préservant les fréquences basses avec une parfaite isolation acoustique. Ergonomie certifiée pour plus de confort².
 - Personnalisez-le : personnalisez votre casque grâce à d’autres couleurs de caches et de coussinets, avec plus de 2 000 combinaisons de couleurs et de finitions au choix. Coussinets et caches supplémentaires vendus séparément.
 - Gamme de fréquences sonores étendue de 6 Hz à 21 kHz : Encore plus de son. Encore plus de sensation. De nombreux casques fonctionnent de 20 à 20 000 Hz. Nous élargissons cette gamme de 6 à 21 000 Hz, pour plus de clarté et de détails sur l’ensemble du spectre audible, afin de créer une expérience de basse presque palpable. Pour une musique telle qu’elle a été enregistrée.
-- Conçu pour un confort accru : une microfibre souple, scellée autour d’une mousse respirante à cellules ouvertes haute résistance, pour une tenue confortable et tout en douceur. Les coussinets sont optimisés pour le confort thermique et les performances audio, tout en préservant les fréquences basses avec une parfaite isolation acoustique. Ergonomie certifiée pour plus de confort².
 - Jusqu’à 55 heures d’autonomie¹ : même avec la technologie ANC activée. Et si vous avez besoin de plus, une charge de 10 minutes offre 2,5 heures d’autonomie supplémentaire, une charge de 30 minutes offre 9,5 heures.
 - Meilleure réduction du bruit de sa catégorie : bloquez les bruits indésirables grâce à 8 microphones à réduction de bruit active pour neutraliser jusqu’à 40 dB de bruit indésirable. Pour une écoute totalement immersive où rien ne vous échappe.
 

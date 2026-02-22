@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Possibilité douvrir le col pour une protection solaire supplémentaire au niveau du cou, Patte de boutonnage à trois boutons pour un col plus ouvert ou plus fermé
 - Le polo Sunny-day avec son tissu perfectionné évacuant la transpiration et son UPF 30 intégré est idéal pour les journées chaudes sur terre ou sur leau.
 - Contenu: 1x Columbia Polo homme, Utilizer, Matière: 100% polyester, Couleur: Collegiate Navy, Taille: M
-- Tissu large pour toutes les postures grâce à la longueur généreuse du centre du dos de 72,4 cm (28,5 pouces).
 - Technologie Omni-Wick pour une gestion efficace de lhumidité, technologie Omni-Shade pour la protection solaire.
-- Possibilité douvrir le col pour une protection solaire supplémentaire au niveau du cou, Patte de boutonnage à trois boutons pour un col plus ouvert ou plus fermé
+- Tissu large pour toutes les postures grâce à la longueur généreuse du centre du dos de 72,4 cm (28,5 pouces).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B072JTZKXB{{</world>}}

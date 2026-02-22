@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Gymsack est un design léger avec une fermeture à cordon
-- La poche extérieure vous permet de séparer les petits articles
-- Matériel: 100% polyester (recyclé)
-- Conseils dentretien: lavage en machine, ne pas utiliser dadoucissant
 - Le compartiment principal se ferme pour un accès facile à votre équipement
+- La poche extérieure vous permet de séparer les petits articles
+- Le Gymsack est un design léger avec une fermeture à cordon
+- Conseils dentretien: lavage en machine, ne pas utiliser dadoucissant
+- Matériel: 100% polyester (recyclé)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7GZL19{{</world>}}

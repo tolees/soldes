@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches au niveau de la ceinture séduit par ses lignes épurées. Idéal pour l’intersaison grâce à sa matière douillette.
-- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé. Lavage et séchage en machine.
+- STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
 - EXCELLENT CONFORT : ce modèle indémodable aux lignes épurées va avec toutes les tenues et tient bien au chaud. Le col montant vous protège du vent.
 - EN TOUTE OCCASION : la veste cool est tout aussi simple que fonctionnelle. Que vous la portiez tous les jours ou pour un événement festif, elle a tout pour s’accorder aux tendances du moment.
-- STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
+- MATIÈRE ET ENTRETIEN : 100 % polyester recyclé. Lavage et séchage en machine.
+- ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Jeans avec deux poches au niveau de la ceinture séduit par ses lignes épurées. Idéal pour l’intersaison grâce à sa matière douillette.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DK28TQPH{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Retourne à la caserne pour débloquer de nouvelles tenues pour Leo ! Une multitude de costumes pour être le chat le plus cool en mission. Es-tu prêt à devenir le miaou héros de cette ville ?
+- Réalise des missions plus périlleuses les unes que les autres, et progresse de grade en grade. Plus de 20 missions à accomplir ! Tu ne seras pas seul : le commandant Nox sera là pour te guider !
 - Prêt à combattre les flammes ? Leo, le chat pompier, a besoin de toi ! Vient l’aider dans son aventure en tant que jeune recrue de la caserne.
 - Explore librement la ville et affronte toutes les situations avec tes véhicules : voiture de pompier, bateau, hydravion, hélicoptère... Tu as tout ce quil faut pour intervenir rapidement !
 - Combats les différentes menaces à l’aide de ta lance à incendie, de ta hache et de tous les pouvoirs que tu possèdes. Sauve les citoyens chats, lutte contre les esprits, éteins les feux qui menacent la ville – le repos ne sera pas au rendez-vous !
-- Réalise des missions plus périlleuses les unes que les autres, et progresse de grade en grade. Plus de 20 missions à accomplir ! Tu ne seras pas seul : le commandant Nox sera là pour te guider !
-- Retourne à la caserne pour débloquer de nouvelles tenues pour Leo ! Une multitude de costumes pour être le chat le plus cool en mission. Es-tu prêt à devenir le miaou héros de cette ville ?
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CVL25XV1{{</world>}}

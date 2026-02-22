@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ​60 blocs colorés de construction et formes spéciales
-- ​Adapté aux petites mains
 - Activités manuelles pour le développement de lenfant
-- Se combine à dautres jouets Mega Bloks à construire !
 - Sac pour un rangement facile
+- Se combine à dautres jouets Mega Bloks à construire !
+- ​Adapté aux petites mains
+- ​60 blocs colorés de construction et formes spéciales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0083F2XCW{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Même avec vos Galaxy Buds3 Pro dans les oreilles, vous pouvez continuez à échanger avec votre environnement. Grâce à Galaxy AI, les Buds3 Pro comprennent et identifient quel son est utile, et adapte la réduction active de bruit à votre environnement. Vous pouvez ainsi écouter votre son préféré sans être interrompu, ou à linverse être prévenu quand une sirène ou alarme se déclenche près de vous, afin de faire attention⁵ ⁶ ⁷
 - Contenu de la boîte : 1 Paire Samsung Galaxy Buds3 Pro, étui de recharge, câble de recharge, différentes tailles dembouts, et manuel dutilisation
 - Avec la réduction active de bruit contextuelle, éliminez les bruits parasites comme ceux du trafic, et profitez dun équilibre parfait entre ANC et bruit ambiant pour vous concentrer sur ce que vous voulez faire en fonction de la situation⁸
-- Même avec vos Galaxy Buds3 Pro dans les oreilles, vous pouvez continuez à échanger avec votre environnement. Grâce à Galaxy AI, les Buds3 Pro comprennent et identifient quel son est utile, et adapte la réduction active de bruit à votre environnement. Vous pouvez ainsi écouter votre son préféré sans être interrompu, ou à linverse être prévenu quand une sirène ou alarme se déclenche près de vous, afin de faire attention⁵ ⁶ ⁷
 - Découvrez notre tout nouveau design ergonomique qui repense totalement nos écouteurs sans fil. Galaxy Buds3 Pro embarque une tête fine pour un confort et un son parfaits, et une subtile lumière latérale pour vous démarquer. Le boîtier est quant à lui équipé dun toit transparent élégant¹ ² ³
 - Avec Galaxy Buds3 Pro savourez une qualité de son ultime comme dans un studio. Profitez de chaque note avec clarté grâce à Samsung Seamless Codec qui compresse et encode en format audio jusquà 24bit/ 96kHz, pour un son fidèle à loriginal dans les moindres détails, tel quil a été enregistré⁴
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appareils compatibles : MacBook Air/Pro (M1/M2 et processeurs Intel), MacBook OS 10.15 ou version ultérieure, ordinateur portable Chrome OS avec Thunderbolt 4, USB4, USB 3.0 ou supérieur, Type C avec mode DP Alt, ordinateur portable Windows avec Thunderbolt 4, USB4, USB 3.0 ou supérieur, Type C avec mode DP Alt
-- Hyper Station daccueil de voyage Drive Dual HDMI 10-en-1 pour MacBook
 - Le mode DP Alt nécessite le port « USB-C » de votre ordinateur pour prendre en charge cette fonctionnalité. Le mode DP Alt, InstantView de SMI nécessite le port USB-C de lordinateur hôte pour prendre en charge le transfert de données USB.
+- Hyper Station daccueil de voyage Drive Dual HDMI 10-en-1 pour MacBook
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NBS9DS6{{</world>}}

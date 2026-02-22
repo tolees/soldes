@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Toile
-- Plat
 - Textile
+- Plat
 - Lacet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

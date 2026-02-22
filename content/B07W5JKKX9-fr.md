@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUCHES DE FONCTION COMPLÈTES: les fonctions de contrôle multimédia et déclairage sont à portée de vos doigts. Utilisez les touches Fn et F pour contrôler le volume, lire ou mettre en pause, passer au morceau suivant, couper le son, régler léclairage, activer le mode Jeu, etc
 - SWITCHS MÉCANIQUES: les switchs GX Brown sont des switchs mécaniques classiques offrant une activation discernable aux joueurs qui préfèrent un retour tactile direct. Ce clavier gamer est également disponible en versions Linéaire et Clicky, vendues séparément
-- LOGICIEL LOGITECH G HUB: personnalisez léclairage, le mode Jeu et la programmation personnalisée des macros avec le logiciel G HUB de Logitech disponible en téléchargement
 - RELAIS USB: facilite le branchement de votre souris, lecteur flash ou téléphone pour une transmission de données ou un chargement directs
 - LIGHTSYNC RVB: personnalisez léclairage de chaque touche ainsi que les effets déclairage et profitez de lintégration en jeu dun spectre de 16,8 millions de couleurs environ grâce à Logitech G HUB
+- TOUCHES DE FONCTION COMPLÈTES: les fonctions de contrôle multimédia et déclairage sont à portée de vos doigts. Utilisez les touches Fn et F pour contrôler le volume, lire ou mettre en pause, passer au morceau suivant, couper le son, régler léclairage, activer le mode Jeu, etc
+- LOGICIEL LOGITECH G HUB: personnalisez léclairage, le mode Jeu et la programmation personnalisée des macros avec le logiciel G HUB de Logitech disponible en téléchargement
 - ALLIAGE EN ALUMINIUM DE QUALITÉ AÉRONAUTIQUE: létui en aluminium 5052 de qualité aéronautique est anodisé et brossé pour un design fin et premium ainsi quune durabilité rigide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

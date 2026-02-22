@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Restez connecté : Passez sans effort dun appareil Bluetooth à un autre avec la connexion multi-source ou utilisez la prise audio jack ; retirez le casque, la musique sarrête, remettez-le, la musique reprend
 - JBL Live 770NC sadapte à votre environnement : Évitez toute distraction avec la Réduction de Bruit Adaptative ou accentuez le son qui vous entoure avec Smart Ambient
+- Restez connecté : Passez sans effort dun appareil Bluetooth à un autre avec la connexion multi-source ou utilisez la prise audio jack ; retirez le casque, la musique sarrête, remettez-le, la musique reprend
 - Une qualité sonore exceptionnelle : Le casque JBL Live 770NC dispose du puissant JBL Signature Sound et de haut-parleurs de 40 mm offrant un son immersif grâce au JBL Spatial Sound
 - Pour un plaisir durable : Écoutez sans fil jusquà 65 h et rechargez la batterie en seulement 2 h grâce au câble USB-C ou utilisez la recharge rapide de 5 min pour 4 h de musique supplémentaires
 - Contenu de la boîte : 1 x Casque JBL Live 770NC, 1 x Câble de recharge USB-C, 1 x Câble audio détachable, 1 x Fiche davertissement,1 x Fiche de démarrage rapide

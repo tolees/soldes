@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tout pour la musique – Les stations de radio sont les personnages secondaires de tout jeu de course qui se respecte. Écoutez jusquà 16 fréquences, ou bien streamez vos playlists depuis Spotify
-- Le monde vous appartient – Un open-world à explorer et à façonner
-- Custom power – Peintures, finitions, roues, flammes déchappement, vitres, pneus, boîte manuelle ou automatique... tout est customisable Et tout est disponible dentrée de jeu
 - Un concours de voltige où le vainqueur est celui qui claque le premier tonneau ? Aussi
+- Custom power – Peintures, finitions, roues, flammes déchappement, vitres, pneus, boîte manuelle ou automatique... tout est customisable Et tout est disponible dentrée de jeu
+- Le monde vous appartient – Un open-world à explorer et à façonner
+- Tout pour la musique – Les stations de radio sont les personnages secondaires de tout jeu de course qui se respecte. Écoutez jusquà 16 fréquences, ou bien streamez vos playlists depuis Spotify
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9HNMLFR{{</world>}}

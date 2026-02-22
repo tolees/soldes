@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BILLY MARCHE : Tape dans tes mains et il avance en marchant vers toi en aboyant joyeusement quand il s’arrêtera!
 - ACCESSOIRES : Billy est livré avec 1 collier avec tonneau, 1 Laisse et 1 harnais.
-- AGE : Pour les enfants à partir de 3 ans.
 - "BILLY, ASSIS! Caresse-le sur tête et Billy s’assoira en bougeant la queue, la tête et en aboyant joyeusement!"
+- BILLY MARCHE : Tape dans tes mains et il avance en marchant vers toi en aboyant joyeusement quand il s’arrêtera!
+- AGE : Pour les enfants à partir de 3 ans.
 - PILES REQUISES : Fonctionne avec 3 piles C non incluses.
 - BILLY VEUT ALLER SE PROMENER! : Mets-lui son harnais avec sa laisse et grâce à un capteur, il va reconnaitre qu’il est l’heure d’aller se promener ! Regarde comme il est content !
 

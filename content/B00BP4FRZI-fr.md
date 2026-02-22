@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RÈGLES SIMPLES : Piochez une carte, avancez votre lapin et... CLIC ! La carotte tourne et révèle ses pièges. Même si un lapin tombe, continuez avec les autres. Ce jeu pour enfant Croque Carotte développe la tactique et lanticipation - parfait pour apprendre en samusant.
 - UNE COURSE VERS LA CAROTTE : Menez vos lapins jusquà la succulente carotte au sommet. Mais gare aux surprises : des trous souvrent sous vos pieds, une taupe espiègle vous pousse, le pont-levis se lève... Chaque tour réserve son lot de péripéties dans ce jeu Croque Carotte plein de malice.
-- PARTIES RYTHMÉES : 15-20 minutes de plaisir pour 2 à 4 joueurs. Les tours courts maintiennent lattention des plus petits tandis que les rebondissements amusent toute la famille. Idéal comme jeu de société dès 4 ans, cest un cadeau parfait pour un anniversaire ou pour Noël.
 - MATÉRIEL DE QUALITÉ RAVENSBURGER : 1 colline à mécanisme rotatif, 16 adorables lapins colorés, 48 cartes, 1 taupe coquine, pont-levis et clôture mobiles. Fonctionne sans pile. Éléments robustes conçus pour résister aux parties animées. Existe en version compacte Coup de Cœur.
+- RÈGLES SIMPLES : Piochez une carte, avancez votre lapin et... CLIC ! La carotte tourne et révèle ses pièges. Même si un lapin tombe, continuez avec les autres. Ce jeu pour enfant Croque Carotte développe la tactique et lanticipation - parfait pour apprendre en samusant.
+- PARTIES RYTHMÉES : 15-20 minutes de plaisir pour 2 à 4 joueurs. Les tours courts maintiennent lattention des plus petits tandis que les rebondissements amusent toute la famille. Idéal comme jeu de société dès 4 ans, cest un cadeau parfait pour un anniversaire ou pour Noël.
 - LE JEU RIGOLO N°1 DES FAMILLES : Croque Carotte, le plus célèbre jeu de société pour enfants depuis 2001. Ce jeu pour famille avec enfants garantit des fous rires à chaque partie avec ses rebondissements imprévisibles. Un grand classique qui unit petits et grands autour de moments de complicité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

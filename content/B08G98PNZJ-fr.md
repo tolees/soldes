@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3/ pour unifier le teint, appliquer sur les zones avec des rougeurs et des taches 4/ pour illuminer, appliquer sur la zone t et le long de larcade sourcilière
+- Illumine naturellement la peau, corrige les imperfections, lisse les ridules et hydrate tout au long de la journée et jour après jour
 - Veuillez vérifier le symbole PAO (période après ouverture) qui indique lheure dexpiration du produit, après louverture de lemballage
 - 1/ dun coup de crayon, appliquer sous les yeux et le long du coin interne pour dissimuler les cernes 2/ tapoter légèrement pour estomper avec le bout des doigts, un pinceau ou une éponge
-- item_display_weight: 0.03 kilograms
-- Illumine naturellement la peau, corrige les imperfections, lisse les ridules et hydrate tout au long de la journée et jour après jour
 - Sa formule, contenant 0, 5% d’acide hyaluronique qui permet d’hydrater et de repulper la peau, offre l’éclat naturel et la correction d’un anti-cernes couplée à une hydratation intense
+- item_display_weight: 0.03 kilograms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08G98PNZJ{{</world>}}

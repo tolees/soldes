@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accompagnez ces deux frères dans leur quête à travers des terres désolées post-apocalyptiques tandis quils cherchent des réponses. Des réponses qui pourraient bien changer à jamais le cours de lhistoire humaine.
-- Faites la rencontre dElvis, un jeune homme arrivé dans la ville minière de Perma alors quil nétait encore quun bébé. Confié par sa mère à son grand « frère » robotique, il a reçu un gant mystérieux qui lui permet de contrôler le Miasma.
-- Les créateurs de Mutant Year Zero: Road to Eden vous proposent une jolie aventure tactique que vous nêtes pas près doublier. Parcourez des terres désolées dans un monde post-apocalyptique ravagé par une force sauvage et inconnue, le «Miasma».
-- Explorez des environnements sublimes et rencontrez des personnages excentriques.
 - Gameplay dexploration en temps réel avec des combats tactiques au tour par tour et des éléments de RPG.
+- Explorez des environnements sublimes et rencontrez des personnages excentriques.
+- Faites la rencontre dElvis, un jeune homme arrivé dans la ville minière de Perma alors quil nétait encore quun bébé. Confié par sa mère à son grand « frère » robotique, il a reçu un gant mystérieux qui lui permet de contrôler le Miasma.
+- Accompagnez ces deux frères dans leur quête à travers des terres désolées post-apocalyptiques tandis quils cherchent des réponses. Des réponses qui pourraient bien changer à jamais le cours de lhistoire humaine.
+- Les créateurs de Mutant Year Zero: Road to Eden vous proposent une jolie aventure tactique que vous nêtes pas près doublier. Parcourez des terres désolées dans un monde post-apocalyptique ravagé par une force sauvage et inconnue, le «Miasma».
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BX3BRPJZ{{</world>}}

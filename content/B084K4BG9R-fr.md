@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SANS PARFUM et testée dermatologiquement.
+- QUALITE SCHOLL : Montrez à vos pieds à quel point vous les aimez en utilisant les produits Scholl spécialement conçus pour prendre soin de vos pieds. Découvrez les crèmes, les masques, les râpes ainsi que la gamme semelle de Scholl correspondant à différents styles de vie.
 - KERATINE : La crème anti-crevasses Scholl contient de la kératine qui favorise le processus naturel de renouvellement des peaux sèches.
 - CREME PIEDS ANTI-CREVASSE : La Crème Pieds Anti-Crevasses Talons 24h de Scholl est spécialement formulée pour la peau spécifique des talons et soulage la peau sèche, fendillée, fissurée ou abîmée des talons.
-- QUALITE SCHOLL : Montrez à vos pieds à quel point vous les aimez en utilisant les produits Scholl spécialement conçus pour prendre soin de vos pieds. Découvrez les crèmes, les masques, les râpes ainsi que la gamme semelle de Scholl correspondant à différents styles de vie.
+- SANS PARFUM et testée dermatologiquement.
 - UTILISATION : Dès la première utilisation, la peau sèche est adoucie et les pieds sont moins rugueux et blancs dûs à la sécheresse. Lusage régulier aide à prévenir la réapparition des crevasses et callosités.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

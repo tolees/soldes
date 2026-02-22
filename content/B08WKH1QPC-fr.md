@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Voiture de course Hot Wheels Bone Shaker grand format (échelle 1/18), avec éléments de design authentiques et détails de qualité
+- Les 904 briques et pièces de ce coffret sont compatibles avec tous les coffrets de construction Mega Construx et d’autres grandes marques
 - Avec roues fonctionnelles, habitacle pour figurine pilote, portières et coffre qui s’ouvrent, décoration de tête de mort emblématique, châssis couleur chrome et moteur apparent
 - Cette édition spéciale inclut une réplique en métal de cette voiture de légende et un socle de présentation à construire
 - Idéal à partir de 8 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de résolution des problèmes
-- Les 904 briques et pièces de ce coffret sont compatibles avec tous les coffrets de construction Mega Construx et d’autres grandes marques
-- Voiture de course Hot Wheels Bone Shaker grand format (échelle 1/18), avec éléments de design authentiques et détails de qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WKH1QPC{{</world>}}

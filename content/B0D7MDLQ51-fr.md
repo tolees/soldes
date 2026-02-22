@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous voulez continuer à faire la fête ? Abonnez-vous à Just Dance+ et profitez de centaines de chansons et dévénements spéciaux en jeu.* Débloquez un essai gratuit dun mois inclus dans le jeu.
 - MODE ENTRAÎNEMENT POUR LES AMATEURS DE FITNESS Commencez votre propre routine sportive et dépensez-vous tout en vous amusant avec le mode entraînement. Restez motivé(e) en suivant vos calories brûlées et le temps passé à danser.
-- UNE PLATEFORME AVEC TOUT LE CONTENU Quelle que soit lédition en votre possession (Just Dance 2023 Edition, Just Dance 2024 Edition ou Just Dance 2025 Edition), vous et vos ami(e)s êtes connecté(e)s sur la même plateforme. Si vous possédez plusieurs éditions, leur contenu sera réuni au même endroit !
 - 40 NOUVELLES CHANSONS AMUSANTES QUI PLAIRONT À TOUT LE MONDE Il y en a pour tous les goûts dans Just Dance 2025 Edition. Dansez sur des tubes emblématiques, des incontournables de soirées, des grands classiques, des phénomènes dInternet et bien plus encore, comme : - « Espresso » par Sabrina Carpenter - « Lunch » par Billie Eilish - « Poker Face » par Lady Gaga - « Unstoppable » par Sia
+- UNE PLATEFORME AVEC TOUT LE CONTENU Quelle que soit lédition en votre possession (Just Dance 2023 Edition, Just Dance 2024 Edition ou Just Dance 2025 Edition), vous et vos ami(e)s êtes connecté(e)s sur la même plateforme. Si vous possédez plusieurs éditions, leur contenu sera réuni au même endroit !
+- Vous voulez continuer à faire la fête ? Abonnez-vous à Just Dance+ et profitez de centaines de chansons et dévénements spéciaux en jeu.* Débloquez un essai gratuit dun mois inclus dans le jeu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7MDLQ51{{</world>}}

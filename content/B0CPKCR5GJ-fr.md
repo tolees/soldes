@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les enfants à partir de 5 ans vont adorer se lancer dans une course épique mettant en scène les véhicules Hot Wheels sur ce coffret équipé d’un propulseur.
 - Cascades et crash dans le coffret Hot Wheels Ultra Crash Looping !
+- Les enfants à partir de 5 ans vont adorer se lancer dans une course épique mettant en scène les véhicules Hot Wheels sur ce coffret équipé d’un propulseur.
 - L’ensemble se replie en deux et dispose d’une poignée pratique pour le rangement et le transport.
 - Placez le véhicule Hot Wheels inclus à échelle 1/64 dans le propulseur et faites-le foncer dans une zone de crash, puis à travers 4 loopings.
 - Le propulseur motorisé maintient la voiture en mouvement en continu et permet aux enfants d’ajouter des voitures supplémentaires, afin de faire monter le risque d’un carambolage épique. (Autres véhicules vendus séparément.)

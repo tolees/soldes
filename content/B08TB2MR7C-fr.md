@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Impact environnemental réduit
 - Démarrage instantané et arrêt automatique
-- Bec verseur métallique ajustable
 - Intensity Plus
 - Technologie Crema Plus
+- Bec verseur métallique ajustable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TB2MR7C{{</world>}}

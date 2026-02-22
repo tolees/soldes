@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Impression directe
-- Copie simple Numérisation mono
+- Couleurs dimpression: Noir
 - Domestique et professionnel Laser Impression mono
 - 10,1 kg
 - A4 32 ppm
-- Couleurs dimpression: Noir
+- Port USB Wifi
 - Mémoire interne: 128 Mo
 - 1200 x 1200 DPI
-- Port USB Wifi
+- Impression directe
+- Copie simple Numérisation mono
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CK2TN13B{{</world>}}

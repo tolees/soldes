@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PANNEAU I/O À CONNECTIVITÉ RICHE - Le panneau dEntrée/Sortie comprend 2 x ports USB 3.2 Gen 1, 1 x prise audio, 1 x bouton Reset/ARGB & 1 x port USB 3.2 Gen 2 Type-C pour une transmission de données optimisée et une connectivité illimitée
-- OPTIONS DE REFROIDISSEMENT - 4 ventilateurs préinstallés: 2 x 200mm ARGB (avant), 1 x 120mm ARGB (arrière) & 1 x 120mm pour GPU (sur cage HDD); Peut accueillir jusquà 8 ventilateurs 120mm, 2 radiateurs 360mm (avant & haut) & 1 radiateur 120mm (arrière)
-- VOLUMES INTERNES - Le boîtier supporte les cartes mères ITX, micro ATX, ATX, SSI CEB, E-ATX (jusquà 12 "x 14.1"), les refroidisseurs de processeur jusquà 167mm, les GFX / GPU jusquà 410mm & les blocs dalimentation jusquà 180mm
-- 2 x VENTILATEURS ARGB 200mm - Permettent dapporter un haut volume dair dans le boîtier à travers le panneau avant en maille pour un refroidissement silencieux et supérieur; Le rétroéclairage ARGB peut être personnalisé via le hub ARGB inclus
 - VISIBILITÉ & ACCÈS FACILE - Panneau latéral en verre trempé pour une vue imprenable sur les configurations; Panneau supérieur amovible pour un meilleur accès aux composants (en particulier les solutions de refroidissement & de ventilation)
+- 2 x VENTILATEURS ARGB 200mm - Permettent dapporter un haut volume dair dans le boîtier à travers le panneau avant en maille pour un refroidissement silencieux et supérieur; Le rétroéclairage ARGB peut être personnalisé via le hub ARGB inclus
+- VOLUMES INTERNES - Le boîtier supporte les cartes mères ITX, micro ATX, ATX, SSI CEB, E-ATX (jusquà 12 "x 14.1"), les refroidisseurs de processeur jusquà 167mm, les GFX / GPU jusquà 410mm & les blocs dalimentation jusquà 180mm
+- OPTIONS DE REFROIDISSEMENT - 4 ventilateurs préinstallés: 2 x 200mm ARGB (avant), 1 x 120mm ARGB (arrière) & 1 x 120mm pour GPU (sur cage HDD); Peut accueillir jusquà 8 ventilateurs 120mm, 2 radiateurs 360mm (avant & haut) & 1 radiateur 120mm (arrière)
+- PANNEAU I/O À CONNECTIVITÉ RICHE - Le panneau dEntrée/Sortie comprend 2 x ports USB 3.2 Gen 1, 1 x prise audio, 1 x bouton Reset/ARGB & 1 x port USB 3.2 Gen 2 Type-C pour une transmission de données optimisée et une connectivité illimitée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HCHBSM3{{</world>}}

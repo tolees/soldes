@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 24 mois de garantie eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
+- 8 prises sorties FR : 4 prises protection contre les surtensions + batterie de secours, 4 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
 - Ellipse ECO 1600 VA / 1000 watts
 - Fonction économie d’énergie jusqu’à 25%
-- 8 prises sorties FR : 4 prises protection contre les surtensions + batterie de secours, 4 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
 - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
-- 24 mois de garantie eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0052QV9QG{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec le Pass VIP, découvrez plus de 200 titres au lancement pour encore plus de variétés !
-- Aucun microphone à disposition ? Pas de problème ! Avec lappli officielle Lets Sing, ton smartphone devient un microphone !
 - Avec une sélection de 40 morceaux célèbres, profitez des derniers tubes et de grands classiques de la chanson !
+- Aucun microphone à disposition ? Pas de problème ! Avec lappli officielle Lets Sing, ton smartphone devient un microphone !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHF9WFQ4{{</world>}}

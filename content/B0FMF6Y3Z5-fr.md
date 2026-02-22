@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Moulin conique intégré : fraîcheur garantie Dites adieu au café fade ! Son broyeur conique intégré avec 15 réglages libère tout l’arôme des grains juste avant l’extraction. Résultat : un parfum irrésistible et une saveur qui réveille même les lundis matin.
 - Entretien facile & sécurité intégrée Réservoir amovible de 2.3L, plateau égouttoir inox et fonction auto-nettoyage : tout pour un entretien zen. Avec protection contre la surchauffe et le sur-pression, cette machine pense à tout — même à vous.
-- Contrôle total et simplicité absolue Un panneau intuitif vous laisse choisir entre espresso simple, double ou vapeur en un clic. Avec le manomètre de pression visible, vous devenez le chef d’orchestre du café parfait — sans faux pas.
 - Espresso maison digne d’un barista Préparez un espresso digne d’un café italien, sans quitter votre cuisine. Grâce à la pression de 15 bars et au système PID, chaque tasse est riche, crémeuse et parfaitement équilibrée — comme à Rome, mais sans l’accent.
 - Buse vapeur 360° pour cappuccino onctueux Lancez-vous dans l’art du latte ! Sa buse vapeur pivotante crée une mousse dense et soyeuse pour vos cappuccinos et macchiatos. Bonus : vous pouvez jouer au barista sans salir la moitié de la cuisine.
+- Contrôle total et simplicité absolue Un panneau intuitif vous laisse choisir entre espresso simple, double ou vapeur en un clic. Avec le manomètre de pression visible, vous devenez le chef d’orchestre du café parfait — sans faux pas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FMF6Y3Z5{{</world>}}

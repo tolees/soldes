@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr.Wonderful - Agenda Office 2025-26 Semainier 18 mois - Vivre avec style'
-date: 2026-02-21 23:58:07
+date: 2026-02-22 00:35:32
 image: 'https://m.media-amazon.com/images/I/31lXSxig2IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0DWH1C993/?tag=tolees0d-21'
 descuento: '49.98'
-average: '13.1517948717947'
+average: '13.1349999999998'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

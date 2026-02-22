@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE DOUCHETTE 1 JET À TÊTE ORIENTABLE : La douchette en ABS entièrement chromé, avec picots anticalcaire, fournit 1 type de jet (pluie). La tête de douche orientable en ABS chromée possède des picots anticalcaires pour une durée de vie optimale.
 - FABRICANT FRANCAIS : Edouard Rousseau met son savoir-faire à votre service depuis 1934. Nous suivons tous nos composants pour assurer une qualité optimale, dans un respect strict des réglementations européennes.
-- UN FLEXIBLE DOUBLE AGRAFAGE : Le flexible de la douchette d’1m50 est en inox chromé, double agrafage pour une plus grande résistance.
 - DIMENSIONS ET GARANTIE : La tête de douche mesure 240 mm de diamètre, et la douchette 100 mm de diamètre. Garantie 2 ans.
+- UN FLEXIBLE DOUBLE AGRAFAGE : Le flexible de la douchette d’1m50 est en inox chromé, double agrafage pour une plus grande résistance.
+- UNE DOUCHETTE 1 JET À TÊTE ORIENTABLE : La douchette en ABS entièrement chromé, avec picots anticalcaire, fournit 1 type de jet (pluie). La tête de douche orientable en ABS chromée possède des picots anticalcaires pour une durée de vie optimale.
 - UNE COLONNE DE DOUCHE PRATIQUE : La colonne de douche avec robinet mitigeur à cartouche céramique Eris est ultra pratique. Protégée par un verre de sécurité gris anthracite, il possède un inverseur 2 voies situé en façade et un support douchette en ABS chromé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

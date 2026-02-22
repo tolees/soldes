@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sirona G i-Size Plus/Stone Grey-mid grey PU1
 - Siège auto pour bébé
 - Sécurité et confort pour les plus petits
 - Elément de protection
 - Sirona G i-Size Plus/gris pierre/gris moyen PU1
+- Sirona G i-Size Plus/Stone Grey-mid grey PU1
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DB2H7YQN{{</world>}}

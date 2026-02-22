@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce coffret est inspiré du film Disney Vaiana 2. Les enfants vont adorer imaginer explorer l’île de Motunui et au-delà avec ce coffret Vaiana et sa Sœur comprenant Vaiana et Simea, un animal et des accessoires
-- Heihei, leur adorable coq, est inclus pour encore plus de divertissement et d’aventures
-- Deux accessoires supplémentaires permettent de s’amuser encore plus : un panier pour transporter les trésors trouvés lors des aventures et des noix de coco pour des histoires merveilleuses
-- Les enfants à partir de 3 ans peuvent collectionner tous les jouets Vaiana 2 pour imaginer de nouvelles aventures à Motunui et au-delà ; Articles vendus séparément. Certains produits peuvent ne pas être commercialisés
 - Les poupées Vaiana et Simea portent des tenues amovibles fidèles au film pour des possibilités infinies d’histoires
+- Ce coffret est inspiré du film Disney Vaiana 2. Les enfants vont adorer imaginer explorer l’île de Motunui et au-delà avec ce coffret Vaiana et sa Sœur comprenant Vaiana et Simea, un animal et des accessoires
+- Deux accessoires supplémentaires permettent de s’amuser encore plus : un panier pour transporter les trésors trouvés lors des aventures et des noix de coco pour des histoires merveilleuses
+- Heihei, leur adorable coq, est inclus pour encore plus de divertissement et d’aventures
+- Les enfants à partir de 3 ans peuvent collectionner tous les jouets Vaiana 2 pour imaginer de nouvelles aventures à Motunui et au-delà ; Articles vendus séparément. Certains produits peuvent ne pas être commercialisés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DFCT91ND{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Femme Runner Up K200508 Sneaker Blanc Naturel 041 39 EU'
-date: 2026-02-16 05:20:44
+date: 2026-02-22 13:29:56
 image: 'https://m.media-amazon.com/images/I/21SLpvUm14L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VD1NPG4/?tag=tolees0d-21'
 descuento: '36.74'
-average: '82.9426086956522'
+average: '83.1392'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Légères
-- Bonne prise en main
 - Ingrédients extra durables
+- Bonne prise en main
 - Rembourrage
+- Légères
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07VD1NPG4{{</world>}}

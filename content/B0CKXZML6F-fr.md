@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids : 540 g (pointure 42 2/3).
 - Fermeture à lacets.
-- Contient au moins 20 % de matériaux recyclés et renouvelables.
-- Protection isolante PrimaLoft.
-- Technologie COLD.RDY avec finition déperlante.
-- Tige en suède.
-- Drop semelle intermédiaire : 10 mm (talon : 25 mm / avant-pied : 15 mm).
-- Doublure textile.
 - Semelle extérieure Traxion.
+- Technologie COLD.RDY avec finition déperlante.
+- Doublure textile.
 - Chaussant standard.
+- Poids : 540 g (pointure 42 2/3).
+- Drop semelle intermédiaire : 10 mm (talon : 25 mm / avant-pied : 15 mm).
+- Protection isolante PrimaLoft.
+- Contient au moins 20 % de matériaux recyclés et renouvelables.
+- Tige en suède.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKXZML6F{{</world>}}

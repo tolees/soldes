@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Du bois d’hévéa lazuré blanc de belle qualité et de la céramique poudreuse pour la coupole
-- Diffuseur ultrasonique en matériaux nobles et naturels
-- Pratique et complet avec ses fonctions variées : Fonctions diffusion : Mode continu / discontinu : 30 secondes on / 30 secondes off Durée : continu ou 1H / 3H / 7H
-- Lumière originale d’ambiance qui s’accorde au rythme de la respiration pour créer une véritable sensation de relaxation et de détente
 - Choix lumière d’ambiance : Intense Douce Respi Zen (progressive) Sommeil : 30 minutes puis arrêt Lumière en mode indépendant de la diffusion
+- Lumière originale d’ambiance qui s’accorde au rythme de la respiration pour créer une véritable sensation de relaxation et de détente
+- Diffuseur ultrasonique en matériaux nobles et naturels
+- Du bois d’hévéa lazuré blanc de belle qualité et de la céramique poudreuse pour la coupole
 - Capacité du réservoir : 180ml
+- Pratique et complet avec ses fonctions variées : Fonctions diffusion : Mode continu / discontinu : 30 secondes on / 30 secondes off Durée : continu ou 1H / 3H / 7H
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JJ751HX{{</world>}}

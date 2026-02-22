@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Épaisseur du boîtier 10,75mm, Diamètre du boîtier 44 mm
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Bracelet en acier inoxydable
 - Mouvement multifonction à quartz
 - Cadran noir brossé verticalement
-- Épaisseur du boîtier 10,75mm, Diamètre du boîtier 44 mm
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X4PBWS7{{</world>}}

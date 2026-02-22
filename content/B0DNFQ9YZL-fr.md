@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Suivez le serpent : accompagnez Sieur Pent du Tuto et ses amis, et améliorez vos scores pour débloquer plus de mini-jeux !
+- Vivez toutes les expériences : du calme des jeux de réflexion et de stratégie au rythme effréné des classiques de larcade et de laction, tout le monde y trouvera son compte dans 100 in 1 Game Collection.
+- 100 in 1 Game Collection est une gigantesque compilation de 100 jeux darcade qui mélangent concepts classiques et idées nouvelles. Déverrouillez de nouveaux mini-jeux, améliorez vos scores et lancez-vous des défis en solo ou en multi-joueurs.
 - Une compilation de jeux inédite au monde : 100 in 1 Game Collection comprend tous vos mini-jeux préférés du populaire « 30 in 1 Game Collection Volume 1 & 2 » et y ajoute 40 nouveaux jeux !
 - Cest toujours mieux avec des amis : entraînez-vous solo ou mesurez-vous à vos amis et votre famille en multi-joueurs pour décrocher le meilleur score !
-- Suivez le serpent : accompagnez Sieur Pent du Tuto et ses amis, et améliorez vos scores pour débloquer plus de mini-jeux !
-- 100 in 1 Game Collection est une gigantesque compilation de 100 jeux darcade qui mélangent concepts classiques et idées nouvelles. Déverrouillez de nouveaux mini-jeux, améliorez vos scores et lancez-vous des défis en solo ou en multi-joueurs.
-- Vivez toutes les expériences : du calme des jeux de réflexion et de stratégie au rythme effréné des classiques de larcade et de laction, tout le monde y trouvera son compte dans 100 in 1 Game Collection.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNFQ9YZL{{</world>}}

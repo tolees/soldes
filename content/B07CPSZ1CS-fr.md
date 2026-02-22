@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Nouvelle valise à 2 roulettes de 35cm de longeur
 - Agencement intérieur optimisé
-- Détails colorés
 - Serrure TSA à combinaison
+- Détails colorés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CPSZ1CS{{</world>}}

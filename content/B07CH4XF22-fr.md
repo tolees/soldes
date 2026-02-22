@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appliquer le rouge à lèvres directement sur la bouche du centre vers lextérieur. Pour un résultat irréprochable, appliquer le Lip Liner Color Riche pour définir le contour de vos lèvres.
-- Une formulation unique pour une texture fondante qui hydrate et préserve les lèvres du desséchement. La couleur ne strie pas et reste toujours aussi intense.
 - Rouge à lèvres - fini satiné - soin hydratant
+- Une formulation unique pour une texture fondante qui hydrate et préserve les lèvres du desséchement. La couleur ne strie pas et reste toujours aussi intense.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CH4XF22{{</world>}}

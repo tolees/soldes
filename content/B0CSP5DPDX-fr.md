@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier rectangulaire de acier inoxydable, couleur gris.
-- Montre heures et minutes quartz pour femme.
-- Résistance à leau: 5 atm.
-- Cadran rectangulaire en couleur gris en verre minéral.
 - Bracelet de acier inoxydable, couleur gris, avec fermeture déployante.
+- Résistance à leau: 5 atm.
+- Montre heures et minutes quartz pour femme.
+- Cadran rectangulaire en couleur gris en verre minéral.
+- Boîtier rectangulaire de acier inoxydable, couleur gris.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSP5DPDX{{</world>}}

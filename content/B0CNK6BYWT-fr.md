@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à installer dans la voiture avec ISOFIX et Top Tether, système de ceinture de sécurité convivial, housse en tissu lavable en machine (30 °C), accessoires optionnels vendus séparément : Housse dété
+- Contenu : 1 siège auto Pallas B2 i-Size, dimensions (L x l x h) : 42 x 53 x 59.5 cm. Poids : 6kg. Couleur : Cobblestone Grey
 - Appui-tête breveté réglable en 3 directions, protection renforcée contre les chocs latéraux pour absorber les forces dimpact afin de protéger la tête et le haut du corps
 - PALLAS B2 I-SIZE Cobblestone Grey | dark grey
-- Contenu : 1 siège auto Pallas B2 i-Size, dimensions (L x l x h) : 42 x 53 x 59.5 cm. Poids : 6kg. Couleur : Cobblestone Grey
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNK6BYWT{{</world>}}

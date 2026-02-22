@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient une zone de chargement pour les fruits et légumes
 - Contient un personnage, un poney et des accessoires
 - Le cheval tire la carriole
+- Contient une zone de chargement pour les fruits et légumes
 - La bche est amovible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

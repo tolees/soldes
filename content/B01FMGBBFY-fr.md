@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A PROPOS DE LINSTALLATION : La taille de la partie encastrable est standard (56*49cm). La taille au dessus du plan de travail est de 60*51cm. Nos produits sont aux normes CE.
-- LA TECHNOLOGIE INDUCTION : Cest le mode de cuisson le plus rapide! Nos plaques ont une consomation dénergie réduite. Elles vous apporteront confort et sécurité dutilisation
-- ORIGINE FRANCE GARANTIE : Lentreprise Brandt est fier de son savoir faire. Cest dès 2011 que nous avons obtenu notre certification. Nos usines se trouvent à Orléans et Vendôme.
-- LES FOYERS : Avec son grand foyer de 28cm et 4000W, toutes les cuissons sont possibles, des mijotages les plus doux aux fritures les plus vives. Les autres foyers sont de 16 et 18cm.
 - QUELLE TECHNOLOGIE : Vous cuisinez en toute sécurité avec son pack de 10 sécurités dont la sécurité enfants, témoin de chaleur résiduelle, verrouillage des commandes, détection des casseroles !
+- A PROPOS DE LINSTALLATION : La taille de la partie encastrable est standard (56*49cm). La taille au dessus du plan de travail est de 60*51cm. Nos produits sont aux normes CE.
+- LES FOYERS : Avec son grand foyer de 28cm et 4000W, toutes les cuissons sont possibles, des mijotages les plus doux aux fritures les plus vives. Les autres foyers sont de 16 et 18cm.
+- ORIGINE FRANCE GARANTIE : Lentreprise Brandt est fier de son savoir faire. Cest dès 2011 que nous avons obtenu notre certification. Nos usines se trouvent à Orléans et Vendôme.
+- LA TECHNOLOGIE INDUCTION : Cest le mode de cuisson le plus rapide! Nos plaques ont une consomation dénergie réduite. Elles vous apporteront confort et sécurité dutilisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FMGBBFY{{</world>}}

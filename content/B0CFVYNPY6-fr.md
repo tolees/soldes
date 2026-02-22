@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un set de construction LEGO pour faire le plein d’aventures – Invitez les enfants à rejouer la scène culte de Harry Potter à l’école des sorciers dans laquelle Harry Potter et ses amis accostent pour la première fois au hangar à bateaux de Poudlard
-- Une belle idée de cadeau pour enfants – Ce modèle à construire, idéal pour jouer seul ou entre amis, est un beau cadeau danniversaire ou toute autre occasion pour des filles et des garçons dès 8 ans qui découvrent l’univers de Harry Potter
 - 1 portrait de Poudlard à collectionner (sur 14 au total) – Ce jouet de construction pour enfants inclut un élément doré arborant l’un des 14 portraits de Poudlard à collectionner et accrocher dans le hangar à bateaux du château
 - 7 personnages LEGO Harry Potter – Comprend les minifigurines de Harry Potter, Neville Londubat, Dean Thomas, Hermione Granger et du professeur McGonagall, ainsi que Hedwige la chouette et Trevor le crapaud
 - Un hangar à bateaux de château médiéval et 2 bateaux – Le hangar à bateaux présente de la place pour un bateau, une girouette et une cachette pour Trevor, et chaque bateau possède une lampe à construire et peut accueillir 2 minifigurines
+- Une belle idée de cadeau pour enfants – Ce modèle à construire, idéal pour jouer seul ou entre amis, est un beau cadeau danniversaire ou toute autre occasion pour des filles et des garçons dès 8 ans qui découvrent l’univers de Harry Potter
 - Une nouvelle façon de construire – L’appli LEGO Builder guide les enfants et leur permet de zoomer, faire pivoter les modèles en 3D, sauvegarder leur set de construction LEGO Harry Potter et suivre leur progression
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

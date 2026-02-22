@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
+- UN BEAU CADEAU DE BOUGIE : Les étiquettes décoratives présentent des images de parfums illustrées à la main et sont aussi séduisantes que leur odeur.
 - EMBALLAGES RECYCLABLES : Aidez Yankee Candle à donner une seconde vie à cet emballage en le recyclant correctement, et continuez à répandre la joie
 - LA TAILLE PARFAITE : Les mini-votos remplis de Yankee Candle sont la taille parfaite pour échantillonner et trouver votre nouvelle fragrance préférée.
 - BOUGIES DE NOËL : Ce coffret cadeau comprend trois mini-bougies parfumées Signature dans les parfums Vanilla Cupcake, Black Cherry et Cinnamon Stick.
-- UN BEAU CADEAU DE BOUGIE : Les étiquettes décoratives présentent des images de parfums illustrées à la main et sont aussi séduisantes que leur odeur.
-- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FH61XB7D{{</world>}}

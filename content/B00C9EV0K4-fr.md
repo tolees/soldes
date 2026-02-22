@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - VITAMINE E ET ANTIOXYDANTS : Composée de vitamine E et de thé vert, cette crème contour des yeux anti-âge protège des agressions extérieures.
-- RÉDUIT LAPPARENCE DES CERNES : Ce soin aide à réduire lapparence des cernes et des poches.
 - CRÈME YEUX ANTI-ÂGE ANTI-RIDES : Aide à réduire lapparence des rides et ridules du contour de lœil grâce à un puissant mélange dingrédients.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
+- RÉDUIT LAPPARENCE DES CERNES : Ce soin aide à réduire lapparence des cernes et des poches.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100% sans parfum. Soumis à des tests ophtalmologiques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

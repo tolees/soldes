@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Angle de rotation 270°.
-- Réglage de la sensibilité (3 niveaux de sensibilité). Système de fixation par ventouses.
-- Large pédalier avec système de repose-pied et pédales daccélération, de frein et dembrayage.
 - Entièrement programmable, compatible avec tous les jeux de course (Gran Turismo Sport, Forza Motor Sport 7, Forza Horizon, Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.. ).Remarque Gardez votre système éteint et connectez votre volant au port USB de la console et au port microphone USB de votre manette. Allumez votre système à laide du bouton dalimentation (contrôleur éteint). Dès que le système est activé, appuyez sur le bouton "Home" de votre volant.
-- Double moteur de vibration uniquement en mode sequentiel via les palettes de changement de vitesse .
+- Large pédalier avec système de repose-pied et pédales daccélération, de frein et dembrayage.
 - Système de fixation par ventouses ou vis de serrage.
 - Palettes de changement de vitesse +/-.
+- Réglage de la sensibilité (3 niveaux de sensibilité). Système de fixation par ventouses.
+- Double moteur de vibration uniquement en mode sequentiel via les palettes de changement de vitesse .
 - Levier de vitesse manuel.
-- Compatible avec PS4, Xbox Series X/S, Xbox One (ce produit nest pas compatible PS5 ou PC)
+- Angle de rotation 270°.
 - Compatible casque gaming
+- Compatible avec PS4, Xbox Series X/S, Xbox One (ce produit nest pas compatible PS5 ou PC)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6XZBQ58{{</world>}}

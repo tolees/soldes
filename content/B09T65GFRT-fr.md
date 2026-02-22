@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego® Star Wars 75339 Lot de 802 Presse-ordures dans l étoile de la Mort'
-date: 2026-02-21 12:02:05
+date: 2026-02-22 14:28:47
 image: 'https://m.media-amazon.com/images/I/41TujFix2xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B09T65GFRT/?tag=tolees0d-21'
 descuento: '30.05'
-average: '136.26294117647'
+average: '136.465'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau : alliage Plastique et plastique
+- Pièces : 802 pièces
+- Gamme : Star Wars
 - À partir de 18 ans
 - Type : Jouet de construction
-- Gamme : Star Wars
-- Pièces : 802 pièces
+- Matériau : alliage Plastique et plastique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09T65GFRT{{</world>}}

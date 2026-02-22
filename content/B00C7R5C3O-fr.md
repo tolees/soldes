@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques : Cylindre 5 goupilles / Longueur du Cylindre 40 mm / Diamètre du Cylindre 23 mm / Longueur du Pêne 110 mm / Dimensions du coffre L 60 mm x H 92 mm / Entraxe de fixation L 40 mm x H 70 mm
-- Le verrou de sécurité sadapte sur tous types de portes (en bois, métal, alu ou PVC). Le verrou dispose d’un design classique s’intégrant parfaitement dans tous les intérieurs. Il sinstalle facilement grâce au gabarit de pose fourni.
-- Ce verrou de porte souvre grâce à une clé utilisable à lextérieur et à lintérieur. Il est réversible et peut donc être installé sur des portes à ouverture Gauche ou Droite. Idéal pour les portes dépaisseurs de 33 à 37 mm.
-- Verrou conçu pour renforcer la sécurité dune porte. Avec son Cylindre à 5 goupilles, son Coffre et sa Gâche en acier embouti, son Pêne en acier chromé, il garantit une grande sécurité pour vos portes dentrées, de communication, portes de bureau, abris de jardin ou portes de cave.
 - Composants inclus : 1 Verrou en acier embouti, 1 Gâche en acier embouti, 3 clés crantées, 1 Contreplaque extérieure, Gabarit de pose, rosace et vis
+- Le verrou de sécurité sadapte sur tous types de portes (en bois, métal, alu ou PVC). Le verrou dispose d’un design classique s’intégrant parfaitement dans tous les intérieurs. Il sinstalle facilement grâce au gabarit de pose fourni.
+- Caractéristiques : Cylindre 5 goupilles / Longueur du Cylindre 40 mm / Diamètre du Cylindre 23 mm / Longueur du Pêne 110 mm / Dimensions du coffre L 60 mm x H 92 mm / Entraxe de fixation L 40 mm x H 70 mm
+- Verrou conçu pour renforcer la sécurité dune porte. Avec son Cylindre à 5 goupilles, son Coffre et sa Gâche en acier embouti, son Pêne en acier chromé, il garantit une grande sécurité pour vos portes dentrées, de communication, portes de bureau, abris de jardin ou portes de cave.
+- Ce verrou de porte souvre grâce à une clé utilisable à lextérieur et à lintérieur. Il est réversible et peut donc être installé sur des portes à ouverture Gauche ou Droite. Idéal pour les portes dépaisseurs de 33 à 37 mm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00C7R5C3O{{</world>}}

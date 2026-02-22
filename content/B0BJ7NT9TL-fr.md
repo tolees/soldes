@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Veuillez noter quil nest pas possible de demander des articles spécifiques.
 - DÉCORATION DE GÂTEAUX CAPTIVANTE - transformez vos évènement avec ces décoration de gâteaux attirant lattention, Ils sont parfaits pour les anniversaires et les événements spéciaux, rendant chaque occasion magique et mémorable pour les enfants comme pour les adultes
 - PETITS OBJETS DE COLLECTION AVEC DÉTAILS - Profitez du produit de 2,3 cm sous licence officielle Disney ; Avertissement : Ne convient pas aux enfants de moins de 3 ans, risque détouffement.
 - MYSTÉRIEUSE MINI-FIGURINE - Chance de déballer une Hyper Rare (1/6) Steamboat Willie, Hyper Rare (1/6) Band Concert Mickey, Rare (1/3) Conductor Mickey, and Rare (1/3) Brave Little Tailor ; découvrez lexcitation de collectionner des mini-figurines uniques
 - INDISPENSABLE POLYVALENT POUR LES FÊTES- Utilisez-les pour remplir les sacs de fête des enfants, pour des surprises de Noël et pour décorer les gâteaux, afin dajouter une touche spéciale aux anniversaires et événements.
-- Veuillez noter quil nest pas possible de demander des articles spécifiques.
 - CONSTITUEZ VOTRE COLLECTION - Collectionnez tous les Bitty Pop!s pour créer une impressionnante collection de figurines miniatures, en commençant par ce lot de 4, emballé dans des boîtes en acrylique dur avec des socles inférieurs détachables.
 - CADEAU PARFAIT POUR LES FANS DISNEY - Idéal pour les amateurs de bandes dessinées, films et séries, ces Bitty Pop!s à collectionner apportent de lexcitation et de la joie en toute occasion, et plaisent aux enfants comme aux adultes.
 

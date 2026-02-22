@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CUIR CHEVELU PURIFIE POUR DES CHEVEUX MOINS GRAS : Développé avec des experts du cuir chevelu, le shampoing Dermo-purifiant Scalp Advanced réduit la présence de sébum sur le cuir chevelu de -78 % en une application*.
 - LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- CUIR CHEVELU PURIFIE POUR DES CHEVEUX MOINS GRAS : Développé avec des experts du cuir chevelu, le shampoing Dermo-purifiant Scalp Advanced réduit la présence de sébum sur le cuir chevelu de -78 % en une application*.
 - FORMULE ENRICHIE EN ACTIFS DERMATOLOGIQUES : Ce shampoing purifiant testé sous contrôle dermatologique et développé par des professionnels est enrichi en AHA 3 %, un acide soluble dans leau.
 - SHAMPOING PROFESSIONNEL POUR CUIR CHEVELU GRAS : Le Shampoing LOréal Professionnel Scalp Advanced nettoie les cheveux en douceur et élimine les impuretés et le sébum des cuirs chevelus gras. Il apporte jusquà +67 % de nutrition.*
 - CONSEILS DUTILISATION : Appliquer sur cheveux et cuir chevelu mouillés, puis émulsionner pour produire une mousse légère. Rincer. Pour plus de résultats, compléter avec lapplication de lArgile 2-en-1 purifiante Scalp Advanced.

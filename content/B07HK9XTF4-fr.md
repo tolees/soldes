@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COUPE SLIM : Coupe étroite au niveau des hanches et des cuisses, avec une jambe fuselée. Sajuste à la taille.
-- DÉTAILS : Fermeture à glissière avec bouton en métal, renforts en bartack, rivets sur les poches avant et ouverture de jambe bootcut. Avec le denim extensible, il est toujours recommandé de le suspendre pour le faire sécher afin de prolonger la durée de vie du vêtement.
-- JEAN LÉGÈREMENT EXTENSIBLE : Denim de coton de poids moyen avec un peu délasticité pour un confort tout au long de la journée. Disponible en denim délavé indigo ou en couleurs unies délavées pour un look inspiré du denim.
-- Ouverture des jambes : 21,6 cm en taille 42.
 - JEAN SLIM BOOTCUT : Ce jean classique à cinq poches est taillé avec une coupe évasée. Ce jean est toujours un élément essentiel de la garde-robe. Il est conçu pour une utilisation professionnelle décontractée ou pour les déplacements quotidiens.
+- DÉTAILS : Fermeture à glissière avec bouton en métal, renforts en bartack, rivets sur les poches avant et ouverture de jambe bootcut. Avec le denim extensible, il est toujours recommandé de le suspendre pour le faire sécher afin de prolonger la durée de vie du vêtement.
+- Ouverture des jambes : 21,6 cm en taille 42.
+- JEAN LÉGÈREMENT EXTENSIBLE : Denim de coton de poids moyen avec un peu délasticité pour un confort tout au long de la journée. Disponible en denim délavé indigo ou en couleurs unies délavées pour un look inspiré du denim.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HK9XTF4{{</world>}}

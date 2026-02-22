@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité du clavier : PC ou Mac avec un port USB 3.0 ou supérieur de type A|Windows 10, 11|macOS 10.15 ou ultérieur|Connexion Internet pour le téléchargement du logiciel iCUE
-- Trois moyens de connexion : technologie ultrarapide et inférieure à 1 ms SLIPSTREAM WIRELESS, le Bluetooth à faible latence ou un câble USB, avec un taux d’interrogation de 8 000 Hz CORSAIR AXON
 - Switchs de touche CHERRY MX Red amovibles : 100 millions de frappes garanties, qui sont faciles à remplacer par n’importe quelle combinaison de switchs à 3 broches compatibles MX
+- Compatibilité du clavier : PC ou Mac avec un port USB 3.0 ou supérieur de type A|Windows 10, 11|macOS 10.15 ou ultérieur|Connexion Internet pour le téléchargement du logiciel iCUE
 - Format 60 % et châssis en aluminium : le format miniature permet une intégration aisée dans les plus petits espaces à la maison ou en déplacement, le tout dans un châssis en aluminium durable
-- Un système personnalisé : un clavier gaming sans fil à hautes performances dans un format compact 60 % ; hautement personnalisable avec des switchs MX amovibles et la technologie LightEdge RGB 360°
 - Autonomie de batterie étendue avec RGB: profitez d’un maximum de 32 h d’autonomie sans fil avec un rétroéclairage RGB, ou avec un maximum de 200 heures d’autonomie avec le rétroéclairage éteint
+- Trois moyens de connexion : technologie ultrarapide et inférieure à 1 ms SLIPSTREAM WIRELESS, le Bluetooth à faible latence ou un câble USB, avec un taux d’interrogation de 8 000 Hz CORSAIR AXON
+- Un système personnalisé : un clavier gaming sans fil à hautes performances dans un format compact 60 % ; hautement personnalisable avec des switchs MX amovibles et la technologie LightEdge RGB 360°
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B5L4VFR4{{</world>}}

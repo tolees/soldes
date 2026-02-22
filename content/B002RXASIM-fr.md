@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 24 x 25 x 25 cm
-- Pied de parasol blanc 11,5 kg S
 - Granit
+- Pied de parasol blanc 11,5 kg S
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002RXASIM{{</world>}}

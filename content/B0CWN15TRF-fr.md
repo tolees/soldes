@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Unique design that is suitable for both left and right handed players
-- Turn it up to 11 with the 3.5mm audio jack, and adjust volume on-the-fly with the audio controls located on the D-pad
-- 30-foot low latency wireless connection with built-in, rechargeable battery for up to 36-hours of play time per charge allows you to play comfortably on the couch
-- Compatible with Rock Band 4 with anticipated compatibility with Fortnite Festival as soon as Rock Band 4 guitars are supported
 - Officially licensed by Xbox
+- Turn it up to 11 with the 3.5mm audio jack, and adjust volume on-the-fly with the audio controls located on the D-pad
+- Compatible with Rock Band 4 with anticipated compatibility with Fortnite Festival as soon as Rock Band 4 guitars are supported
+- Unique design that is suitable for both left and right handed players
+- 30-foot low latency wireless connection with built-in, rechargeable battery for up to 36-hours of play time per charge allows you to play comfortably on the couch
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWN15TRF{{</world>}}

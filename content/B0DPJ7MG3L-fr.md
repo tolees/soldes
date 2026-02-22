@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amoureux des travaux, attention ! Aide le conducteur avec lexcavatrice PLAYMOBIL, équipée dune cabine, dune grande pelle, dune poignée pour soulever et abaisser la pelle, et dune pelle supplémentaire pour les travaux au sol sur le chantier.
 - L’original : Playmobil enchante les enfants et les adultes depuis 1974. Une qualité supérieure et des matériaux robustes garantissent une longue durée de vie.
-- Créativité sans limites : Les sets de PLAYMOBIL peuvent être mélangés et étendus à volonté. La grande excavatrice est une superbe extension pour dautres mondes PLAYMOBIL ! Comment va continuer ton histoire PLAYMOBIL ?
-- Plaisir de jeu pour les enfants à partir de 4 ans : idéal pour les petites mains grâce à un format adapté à leur âge et une prise en main agréable avec des bords arrondis. Stimule limagination de votre enfant.
+- Amoureux des travaux, attention ! Aide le conducteur avec lexcavatrice PLAYMOBIL, équipée dune cabine, dune grande pelle, dune poignée pour soulever et abaisser la pelle, et dune pelle supplémentaire pour les travaux au sol sur le chantier.
 - Jeu en toute sécurité : montage accompagné des parents selon les instructions fournies. Nettoyage des pièces (sans les étiquettes) à l’eau courante et sans produits chimiques.
+- Plaisir de jeu pour les enfants à partir de 4 ans : idéal pour les petites mains grâce à un format adapté à leur âge et une prise en main agréable avec des bords arrondis. Stimule limagination de votre enfant.
+- Créativité sans limites : Les sets de PLAYMOBIL peuvent être mélangés et étendus à volonté. La grande excavatrice est une superbe extension pour dautres mondes PLAYMOBIL ! Comment va continuer ton histoire PLAYMOBIL ?
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPJ7MG3L{{</world>}}

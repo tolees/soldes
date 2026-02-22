@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise Alexa avec commande vocale : la prise intelligente fonctionne avec Alexa et Google Assistant. Connectez presque tous les appareils ménagers (jusquà 16 A en sortie) à la prise intelligente. Nommez votre prise WiFi et contrôlez vos appareils ménagers dune simple commande vocale.
 - Contrôle à distance : connectez-vous à lapplication Smart Life/Tuya en seulement deux minutes (Wi-Fi 2,4 GHz uniquement). Vous pouvez contrôler vos appareils électroménagers à tout moment et en tout lieu via lapplication et vous navez plus à vous soucier doublier de les éteindre lorsque vous nêtes pas chez vous.
+- Prise Alexa avec commande vocale : la prise intelligente fonctionne avec Alexa et Google Assistant. Connectez presque tous les appareils ménagers (jusquà 16 A en sortie) à la prise intelligente. Nommez votre prise WiFi et contrôlez vos appareils ménagers dune simple commande vocale.
 - Prise WiFi avec minuterie : allumez ou éteignez vos appareils à lheure que vous avez définie. Vous évitez ainsi le gaspillage dénergie et économisez de largent sur votre facture délectricité. Portable et compacte.
 - Mesurez la consommation délectricité et calculez les coûts énergétiques. WiFi Socket mesure la consommation dénergie des appareils connectés à la prise et la résume sur des semaines, des mois ou des années. Cela vous aide à optimiser votre consommation délectricité.
 - COMMANDE DE GROUPE ET PARTAGE DAPPAREILS : créez des groupes pour vos pièces et vos appareils afin de pouvoir contrôler plusieurs appareils « en un clic ». Vous pouvez également partager des appareils avec votre famille, de sorte que plusieurs utilisateurs puissent contrôler un appareil en même temps. Cette prise nest pas conçue pour être utilisée avec des chargeurs pour véhicules électriques.

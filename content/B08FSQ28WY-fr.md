@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : semelle en EVA
 - Poids : 272 g
-- Tige : une seule pièce de Synchwire – Trous daération découpés au laser – 3 sangles Velcro – Graphique et logo réfléchissants à larrière
 - Semelle extérieure : semelle extérieure en nylon à injection et fibre de verre – Attache pour encoche de pédale universelle (2 ou 3 vis) – Talon et avant-pied en TPU ini
+- Semelle : semelle en EVA
+- Tige : une seule pièce de Synchwire – Trous daération découpés au laser – 3 sangles Velcro – Graphique et logo réfléchissants à larrière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08FSQ28WY{{</world>}}

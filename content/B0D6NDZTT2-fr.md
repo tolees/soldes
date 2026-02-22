@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce style a été produit de manière durable
-- il sagit dun produit authentique et original Geox
 - il assure un ajustement optimal
+- il sagit dun produit authentique et original Geox
+- Ce style a été produit de manière durable
 - Confortable à porter
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

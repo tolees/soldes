@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tournez la manivelle pour faire courir les jambes et les pattes de Pikachu et remuer sa queue
 - Idéal à partir de 12 ans, ce jouet développe la créativité et la capacité à résoudre les problèmes
-- Coffret de construction Pikachu entièrement mécanisé conçu pour les constructeurs adultes
-- Sous licence officielle de The Pokémon Company International
 - Les 1 092 briques et pièces de ce coffret sont compatibles avec tous les coffrets de construction MEGA Pokémon et d’autres grandes marques
+- Sous licence officielle de The Pokémon Company International
+- Coffret de construction Pikachu entièrement mécanisé conçu pour les constructeurs adultes
+- Tournez la manivelle pour faire courir les jambes et les pattes de Pikachu et remuer sa queue
 - Contient une boîte de présentation à construire avec chemin caillouteux animé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

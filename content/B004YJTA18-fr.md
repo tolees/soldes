@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DIMENSIONS HORS TOUT : Espace extérieur : 96x57xh56 cm ; ESPACE ENTRE LES BARRES : 22,5 mm DIAMÈTRE DE LA BARRE : 2-3 mm
-- ACCESSOIRES INCLUS : 1 mangeoire, 1 abreuvoir, 1 nichoir, 1 roue, 2 étagères et 2 échelles garantissent à un ou plusieurs spécimens un approvisionnement constant en nourriture et en eau, mais aussi le nécessaire pour samuser et se reposer
+- DESIGN ITALIEN : Ferplast est une entreprise italienne et cette cage a été entièrement conçue en Italie avec le plus grand soin et le souci du détail qui distingue le Made in Italy
 - HABITAT IDÉAL : Cage pour rongeurs Lespace entre les barreaux de 22,5 mm le rend adapté pour : Lapins, Cochons dInde, Cochons dInde Sûr grâce au toit qui souvre et se verrouille avec un clip de fermeture
 - PRATIQUE ET FONCTIONNEL : Cette cage a une structure en maille métallique peinte avec un large fond en résine thermoplastique, facile à nettoyer Le toit est arrondi, entièrement relevable pour accéder à lintérieur et équipé dun cadre supérieur en plastique avec crochets de verrouillage pour le maintenir ouvert en cas de besoin Léchelle avant permet à lanimal dentrer et de sortir librement et agit également comme une fermeture Le filet est équipé dune porte coulissante pour permettre à votre animal de sortir Fabriqué en fer et plastique recyclés, il est vendu avec les accessoires inclus : 1 abreuvoir, 1 mangeoire à foin, 1 gamelle et 1 maison de repos
-- DESIGN ITALIEN : Ferplast est une entreprise italienne et cette cage a été entièrement conçue en Italie avec le plus grand soin et le souci du détail qui distingue le Made in Italy
+- ACCESSOIRES INCLUS : 1 mangeoire, 1 abreuvoir, 1 nichoir, 1 roue, 2 étagères et 2 échelles garantissent à un ou plusieurs spécimens un approvisionnement constant en nourriture et en eau, mais aussi le nécessaire pour samuser et se reposer
+- DIMENSIONS HORS TOUT : Espace extérieur : 96x57xh56 cm ; ESPACE ENTRE LES BARRES : 22,5 mm DIAMÈTRE DE LA BARRE : 2-3 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004YJTA18{{</world>}}

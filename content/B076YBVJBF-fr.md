@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PLONGEZ DANS L’ACTION-RPG – Expérimentez une toute nouvelle façon de combattre en récupérant des équipements et en utilisant une large variété d’armes aux caractéristiques et raretés différentes. Profitez d’une mécanique de progression RPG profonde, choisissez vos compétences préférées et mettez vos talents à l’épreuve face à d’uniques et puissants boss.
+- EXPLOREZ UN PAYS ENTIER– Du désert aux oasis luxuriantes, de la mer Méditerranée aux tombeaux de Gizeh, luttez contre de dangereuses factions et bêtes sauvages en explorant un pays gigantesque et imprévisible.
 - CHAQUE QUÊTE EST UNE AVENTURE MÉMORABLE – Sélectionnez et achevez les quêtes à votre propre rythme : chacune raconte une histoire intense et émouvante, agrémentée de personnages hauts en couleurs et d’objectifs significatifs.
 - L’HISTOIRE ORIGINELLE – Vivez le commencement avec l’histoire encore jamais dévoilée de l’origine d’Assassin’s Creed. Vous incarnez Bayek, protecteur de l’Égypte, porté par une vengeance personnelle qui le conduira à la création de la Confrérie des Assassins.
-- EXPLOREZ UN PAYS ENTIER– Du désert aux oasis luxuriantes, de la mer Méditerranée aux tombeaux de Gizeh, luttez contre de dangereuses factions et bêtes sauvages en explorant un pays gigantesque et imprévisible.
 - VIVEZ LES MYSTÈRES DE L’ÉGYPTE ANTIQUE – Découvrez des tombeaux perdus, explorez les Grandes Pyramides et révélez les secrets des momies, des dieux et des derniers pharaons.
+- PLONGEZ DANS L’ACTION-RPG – Expérimentez une toute nouvelle façon de combattre en récupérant des équipements et en utilisant une large variété d’armes aux caractéristiques et raretés différentes. Profitez d’une mécanique de progression RPG profonde, choisissez vos compétences préférées et mettez vos talents à l’épreuve face à d’uniques et puissants boss.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B076YBVJBF{{</world>}}

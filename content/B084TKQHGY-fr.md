@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUJOURS PRÊTE : exprimez votre style avec un choix de quatre couleurs SELPHY SQUARE différentes et emmenez votre mini imprimante partout où vous allez afin que vous ne manquiez jamais de souvenirs imprimables.
-- DES IMAGES RICHES, ÉCLATANTES ET DURABLES : vos souvenirs paraîtront vibrants et vivants grâce à cette imprimante photo qui préserve les couleurs et les détails. Vos impressions conviendront parfaitement au scrapbooking, aux tableaux daffichage et à tout autre endroit où vous souhaitez exposer vos photos.
-- PRÊTE NIMPORTE QUAND ET NIMPORTE OÙ : avec la connectivité Wi-Fi, la mini imprimante portable SELPHY SQUARE QX10 est votre compagnon dimpression portable, toujours prête à transformer vos moments spéciaux en tirages époustouflants où que vous soyez.
-- CRÉEZ DES IMPRESSIONS AVEC DU PAPIER AUTOCOLLANT : améliorez la qualité de vos impressions avec le format dimage plus grand et plus sympa de 68 x 68 mm, en imprimant sur du papier de qualité supérieure avec verso autocollant.
 - CONNECTEZ-VOUS À LAPPLICATION SELPHY PHOTO LAYOUT : laissez libre cours à votre créativité avec lapplication gratuite SELPHY Photo Layout de Canon, qui vous permet dajouter des tampons, des filtres, du texte et bien plus encore pour faire ressortir vos impressions.
+- PRÊTE NIMPORTE QUAND ET NIMPORTE OÙ : avec la connectivité Wi-Fi, la mini imprimante portable SELPHY SQUARE QX10 est votre compagnon dimpression portable, toujours prête à transformer vos moments spéciaux en tirages époustouflants où que vous soyez.
+- DES IMAGES RICHES, ÉCLATANTES ET DURABLES : vos souvenirs paraîtront vibrants et vivants grâce à cette imprimante photo qui préserve les couleurs et les détails. Vos impressions conviendront parfaitement au scrapbooking, aux tableaux daffichage et à tout autre endroit où vous souhaitez exposer vos photos.
+- CRÉEZ DES IMPRESSIONS AVEC DU PAPIER AUTOCOLLANT : améliorez la qualité de vos impressions avec le format dimage plus grand et plus sympa de 68 x 68 mm, en imprimant sur du papier de qualité supérieure avec verso autocollant.
+- TOUJOURS PRÊTE : exprimez votre style avec un choix de quatre couleurs SELPHY SQUARE différentes et emmenez votre mini imprimante partout où vous allez afin que vous ne manquiez jamais de souvenirs imprimables.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084TKQHGY{{</world>}}

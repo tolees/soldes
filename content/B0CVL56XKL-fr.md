@@ -30,12 +30,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - - La vue est importante : Caméras arrière, arrière lointaine, capot, pare-chocs ou cockpit, choisissez votre façon de piloter !
 - Profitez du jeu à votre façon ! Mode carrière : Embarquez dans votre voyage en tant que jeune pilote de course et tentez datteindre le sommet du sport automobile. Maîtrisez une large gamme de voitures emblématiques sur des circuits légendaires et affrontez les plus grands pilotes de tous les temps.
-- Choisissez parmi plus de 50 voitures représentant diverses catégories et époques du sport automobile, retrouvez la Peugeot 9X8, Alpine A110 GT4, Alfa Romeo 155 DTM, Brabham BT24, Formula Extreme créée par la communauté, Ligier JS P320, Renault R5 Turbo 3E et plus encore...
-- Découvrez grâce à Hot Lap Racing lhistoire du sport automobile dans ce jeu de course « Simcade », un équilibre judicieux entre simulation et arcade ! Vivez les sports mécaniques, du GT Cross à la Formule 1, et affrontez vos amis jusquà 4 en local ou jusquà 12 joueurs en ligne !
 - Hot Lap Mode : Faites la course contre le chrono et améliorez votre temps au tour à chaque tentative.
 - Véhicules réels. Pistes authentiques. Pilotes légendaires. Il est temps de ressentir le frisson de la véritable compétition ! o Défiez de véritables champions de lhistoire du sport automobile !
-- Découvrez plus de 15 circuits et 70 tracés, y compris des circuits sous licence FIA. Défiez de véritables champions, des étoiles montantes aux pilotes célèbres qui ont contribué à lhistoire du sport automobile ! o Les circuits comprennent Zolder, Salzburgring, Kuwait Motor Town, Jarama, Laquais, Navarra, Oschersleben, Gingerman Raceway et plus encore...
+- Choisissez parmi plus de 50 voitures représentant diverses catégories et époques du sport automobile, retrouvez la Peugeot 9X8, Alpine A110 GT4, Alfa Romeo 155 DTM, Brabham BT24, Formula Extreme créée par la communauté, Ligier JS P320, Renault R5 Turbo 3E et plus encore...
 - - Retrouvez toutes les catégories de sport automobile dans un seul jeu : Endurance, monoplace, GT, électrique ou production. Entraînez-vous dans chaque catégorie et découvrez toutes les époques et toutes les catégories en conduisant !
+- Découvrez grâce à Hot Lap Racing lhistoire du sport automobile dans ce jeu de course « Simcade », un équilibre judicieux entre simulation et arcade ! Vivez les sports mécaniques, du GT Cross à la Formule 1, et affrontez vos amis jusquà 4 en local ou jusquà 12 joueurs en ligne !
+- Découvrez plus de 15 circuits et 70 tracés, y compris des circuits sous licence FIA. Défiez de véritables champions, des étoiles montantes aux pilotes célèbres qui ont contribué à lhistoire du sport automobile ! o Les circuits comprennent Zolder, Salzburgring, Kuwait Motor Town, Jarama, Laquais, Navarra, Oschersleben, Gingerman Raceway et plus encore...
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVL56XKL{{</world>}}

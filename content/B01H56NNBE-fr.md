@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Huit ports SATA+SAS internes de 6 Gbits/s, Deux connecteurs internes mini-SAS (SFF8087), LSI SAS2008/ Fusion MPT 2.0.
-- Carte livrée en version "OEM", cest à dire livrée en boite neutre et avec pilotes à télécharger sur le site de LSI (www.broadcom.com).Microsoft Windows, Linux (SuSE , Red Hat), Solaris, VMware. Carte livrée avec équerres Low et High Profile.
 - Support jusquà 256 périphériques en mode non RAID, Support en RAID : RAID 0 10 par volume / RAID 1 2 par volume / RAID 1E 10 par volume / RAID 10 10 par volume,
 - Configurations possibles : 8 ea, x1 ports (individual drives) / 2 ea, x4 wide port, Bande passante SAS Half Duplex 600MB/s par lane, Taux de transfert 4000 MB/s (PCIe 2.0 8x), Support des câbles Passive Copper, Tension de fonctionnement +12V +/-8%; 3.3V +/-8%, Puissance 7W,
 - Certifications : EMC: Class B-US (CFR 47, P15B); Canada (ICES-003); Japan (V-3/02.04); Europe (EN55022/EN55024); Australia/New Zealand (AS/NZS 3548); Safety: EN60950; RoHS; WEEE Microsoft Windows, Linux (SuSE , Red Hat), Solaris, VMware.
+- Carte livrée en version "OEM", cest à dire livrée en boite neutre et avec pilotes à télécharger sur le site de LSI (www.broadcom.com).Microsoft Windows, Linux (SuSE , Red Hat), Solaris, VMware. Carte livrée avec équerres Low et High Profile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01H56NNBE{{</world>}}

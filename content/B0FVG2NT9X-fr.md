@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUE CONTIENT LE COLIS : 1x Spray Diamond Liss, Spray lissant brillance vernis, 150 ml
-- COMMENT UTILISER LE SPRAY : Après la routine Kératine Liss shampooing et masque, appliquez le spray Diamond Liss uniformément sur cheveux humides. Procédez au brushing par sections. La chaleur du sèche-cheveux est nécessaire pour activer la formule.
 - (1) Test instrumental
+- COMMENT UTILISER LE SPRAY : Après la routine Kératine Liss shampooing et masque, appliquez le spray Diamond Liss uniformément sur cheveux humides. Procédez au brushing par sections. La chaleur du sèche-cheveux est nécessaire pour activer la formule.
+- COMPLEXE LISSANT POUR UN RÉSULTAT BRILLANT : La formule combine la puissance dun complexe lissant à la kératine végétale et huile dargan pour 100H de brillance diamant, 72H anti-frisottis, et des cheveux 5x plus lisses (1).
 - PROTÉGEZ VOS CHEVEUX DE LA CHALEUR : Le Spray Diamond Liss sactive grâce à la chaleur d’un sèche cheveux ou lisseur et son action protection de chaleur protège vos cheveux lors de votre brushing ou lissage jusquà 230°C.
 - POUR DES CHEVEUX LISSES ET BRILLANTS : Complétez votre routine Kératine Liss avec le Spray lissant Diamond Liss de Garnier Fructis pour des cheveux parfaitement lisses, sans frisottis, brillants durablement, et protégés de lhumidité.
-- COMPLEXE LISSANT POUR UN RÉSULTAT BRILLANT : La formule combine la puissance dun complexe lissant à la kératine végétale et huile dargan pour 100H de brillance diamant, 72H anti-frisottis, et des cheveux 5x plus lisses (1).
+- QUE CONTIENT LE COLIS : 1x Spray Diamond Liss, Spray lissant brillance vernis, 150 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FVG2NT9X{{</world>}}

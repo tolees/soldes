@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en tube dacier couleur aluminium avec couvercle en PVC noir
-- Capacité de charge : 90 kg
 - monté
+- Capacité de charge : 90 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B12XGMNL{{</world>}}

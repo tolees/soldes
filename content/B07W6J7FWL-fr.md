@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SANS PAVÉ NUMÉRIQUE Largeur compacte de 368 mm
 - LIGHTSPEED TECHNOLOGIE SANS FIL DE CLASSE PROFESSIONNELLE
 - ULTRA-PLATS SWITCHS GAMING MÉCANIQUES
-- SANS PAVÉ NUMÉRIQUE Largeur compacte de 368 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6J7FWL{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plonge dans une légende épique de l’univers Minecraft et découvre une nouvelle facette de la Surface.
-- Forme des alliances avec de nouveaux amis et des créatures familières, puis prends la tête de combats épiques face aux féroces Piglins pour défendre la Surface.
 - Défie tes amis ou rejoins-les au cours de batailles acharnées pour défendre ton village tout en dirigeant tes unités pour détruire les campements de tes adversaires.
 - Parcours un monde luxuriant, dynamique et riche en ressources qui évolue d’une partie à l’autre.
+- Plonge dans une légende épique de l’univers Minecraft et découvre une nouvelle facette de la Surface.
+- Forme des alliances avec de nouveaux amis et des créatures familières, puis prends la tête de combats épiques face aux féroces Piglins pour défendre la Surface.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BT39XBNM{{</world>}}

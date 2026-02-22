@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Découvrez ou re-découvrez sans hésiter Les Chevaliers de Baphomet - Lombre des templiers : Reforged en version Française intégrale ! Que ce soit votre première fois ou que vous revisitiez un classique qui vous est cher, préparez vous à vous régaler avec le légendaire et magistral point and click « Les Chevaliers de Baphomet : Lombre des templiers » en version optimisée
+- Un scénario captivant : Profitez dun récit passionnant plein de rebondissements et de révélations inattendues. Rejoignez George et Nico dans leur enquête sur une série de mystères qui les mène des rues animées de Paris vers des lieux exotiques en Europe et au Moyen-Orient.
 - Visuels 4K remastérisés : Découvrez la magie du jeu original avec des graphismes haute définition améliorés qui donnent vie aux paysages pittoresques, à lanimation détaillée des personnages et aux complexes environnements dans une superbe édition 4K pour la toute première fois.
 - Un gameplay point-and-click classique : Redécouvrez la joie du mécanisme classique de point-and-click en résolvant des énigmes, en rassemblant des indices et en interagissant avec des personnages hauts en couleur. Immergez vous dans une expérience de jeu intuitive et engageante.
-- Découvrez ou re-découvrez sans hésiter Les Chevaliers de Baphomet - Lombre des templiers : Reforged en version Française intégrale ! Que ce soit votre première fois ou que vous revisitiez un classique qui vous est cher, préparez vous à vous régaler avec le légendaire et magistral point and click « Les Chevaliers de Baphomet : Lombre des templiers » en version optimisée
 - Plongez dans un périple passionnant à travers le monde dans lequel lintrépide américain George Stobbart et la journaliste téméraire Nico Collard explorent des lieux exotiques, résolvent danciens mystères et déjouent de sombres conspirations afin de découvrir les secrets arcaniques des Templiers.
-- Un scénario captivant : Profitez dun récit passionnant plein de rebondissements et de révélations inattendues. Rejoignez George et Nico dans leur enquête sur une série de mystères qui les mène des rues animées de Paris vers des lieux exotiques en Europe et au Moyen-Orient.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DK92KLCG{{</world>}}

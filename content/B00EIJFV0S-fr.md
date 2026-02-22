@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRÉCAUTION DEMPLOI : Stocker dans un endroit sec. Ne pas utiliser chez lenfant et le conserver hors de sa portée. Ne pas utiliser pour un usage autre que celui pour lequel il est destiné. Ne pas avaler.
-- POUDRE BLANCHISSANTE EFISEPTYL : Grâce à ses propriétés purifiantes et blanchissantes, la poudre dentaire Efiseptyl contribue à une meilleure hygiène de votre bouche. Elle lutte contre les colorations provoquées par le tabac, le café ou le thé.
-- LE + EFISEPTYL : Dosage facile grâce au bec verseur pratique pour appliquer sur la brosse à dents.
 - CONSEILS DUTILISATION : Appliquer le dentifrice sur votre brosse à dents et verser une petite quantité de Poudre Blanchissante. Procéder ensuite au brossage habituel de vos dents.
+- POUDRE BLANCHISSANTE EFISEPTYL : Grâce à ses propriétés purifiantes et blanchissantes, la poudre dentaire Efiseptyl contribue à une meilleure hygiène de votre bouche. Elle lutte contre les colorations provoquées par le tabac, le café ou le thé.
+- PRÉCAUTION DEMPLOI : Stocker dans un endroit sec. Ne pas utiliser chez lenfant et le conserver hors de sa portée. Ne pas utiliser pour un usage autre que celui pour lequel il est destiné. Ne pas avaler.
+- LE + EFISEPTYL : Dosage facile grâce au bec verseur pratique pour appliquer sur la brosse à dents.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00EIJFV0S{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOTRE ROUTINE BEAUTÉ PERFECTRICE : Après avoir nettoyé et séché votre visage, versez lexfoliant sur un coton/pad réutilisable ou appliquez-le directement avec les doigts. Évitez le contour des yeux. Complétez avec un sérum.
-- CHASSEZ LES IMPERFECTIONS AVEC GARNIER PURE ACTIVE : Dites adieu aux imperfections et retrouvez une peau éclatante grâce à Pure Active, une gamme efficace à base dingrédients naturels, et aux résultats cliniquement prouvés.
+- EXFOLIANT ANTI-IMPERFECTIONS : Ce produit exfoliant à lacide salicylique réduit les marques dacné résiduelles, et affine le grain de peau tout en protégeant la barrière cutanée. Sa formule liquide légère et douce sabsorbe rapidement et laisse un fini lisse, qui ne colle pas.
 - COMPLEXE SALICYLIC+ PURIFIANT : Vegan et approuvée par Cruelty Free International, la formule, enrichie en niacinamide, AHA et acide salicylique, apaise la sensation dinconfort due aux boutons, exfolie la peau terne et irrégulière et réduit lexcès de sébum.
 - HYDRATATION 24H : Testé sous contrôle dermatologique, ce soin visage réduit la visibilité des marques résiduelles de 55%*, ainsi que la visibilité des pores de 34%** tout en apportant 24H dhydratation à la peau.
-- EXFOLIANT ANTI-IMPERFECTIONS : Ce produit exfoliant à lacide salicylique réduit les marques dacné résiduelles, et affine le grain de peau tout en protégeant la barrière cutanée. Sa formule liquide légère et douce sabsorbe rapidement et laisse un fini lisse, qui ne colle pas.
+- VOTRE ROUTINE BEAUTÉ PERFECTRICE : Après avoir nettoyé et séché votre visage, versez lexfoliant sur un coton/pad réutilisable ou appliquez-le directement avec les doigts. Évitez le contour des yeux. Complétez avec un sérum.
+- CHASSEZ LES IMPERFECTIONS AVEC GARNIER PURE ACTIVE : Dites adieu aux imperfections et retrouvez une peau éclatante grâce à Pure Active, une gamme efficace à base dingrédients naturels, et aux résultats cliniquement prouvés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQLDK4BN{{</world>}}

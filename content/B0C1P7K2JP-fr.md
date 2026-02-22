@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Appliquer sur cheveux humides et essorés après lavage avec la crème lavante anti-métal Metal Detox. Répartir sur les longueurs et pointes puis sécher à lair libre ou avec un appareil de coiffage.
 - CREME PROTECTRICE ANTI-METAL POUR CHEVEUX ABIMES : Le leave in Metal Detox LOréal Professionnel protège les cheveux contre le dépôt de particules de métal, contre les UV et contre la chaleur jusquà 230°C.
 - LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
-- DES CHEVEUX ECLATANTS DE BEAUTE : Ce soin sans rinçage réduit la casse de 94 % et offre 6 jours de protection anti-UV* et 72h de contrôle anti-frisottis*. Les cheveux sont 6 fois plus définis et 97% de la couleur est préservée après 8 semaines*.
 - FORMULE ENRICHIE EN GLICOAMINE : La crème capillaire Metal Detox contient de la glicoamine, une molécule capable de pénétrer profondément dans le cheveu et de neutraliser les métaux présents dans la fibre capillaire.
+- DES CHEVEUX ECLATANTS DE BEAUTE : Ce soin sans rinçage réduit la casse de 94 % et offre 6 jours de protection anti-UV* et 72h de contrôle anti-frisottis*. Les cheveux sont 6 fois plus définis et 97% de la couleur est préservée après 8 semaines*.
+- CONSEILS DUTILISATION : Appliquer sur cheveux humides et essorés après lavage avec la crème lavante anti-métal Metal Detox. Répartir sur les longueurs et pointes puis sécher à lair libre ou avec un appareil de coiffage.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C1P7K2JP{{</world>}}

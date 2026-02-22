@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Expérience écran immersif de 6,9 pouces】Doté dun écran spacieux et dune clarté FHD+, il offre des couleurs vives et un angle de vision large, pour une expérience immersive dans les vidéos et les jeux.
 - 【Puissant processeur Snapdragon 685】Conçu à partir dun processus efficace de 6 nm, le POCO M7 offre des performances stables avec une efficacité améliorée et une consommation dénergie réduite.
+- 【Expérience écran immersif de 6,9 pouces】Doté dun écran spacieux et dune clarté FHD+, il offre des couleurs vives et un angle de vision large, pour une expérience immersive dans les vidéos et les jeux.
 - 【Système de double caméra AI 50 MP】Grâce à son appareil photo principal de 50 MP, capturez sans effort des couleurs vives, une clarté époustouflante et des moments intenses.
 - 【Batterie longue autonomie de 7000 mAh (typique)】La batterie la plus puissante jamais intégrée à un smartphone POCO destiné aux marchés mondiaux à ce jour*, offrant une autonomie ultra-longue sans précédent.
 - 【Taux de rafraîchissement adaptatif à 9 niveaux de 144 Hz】Lécran sadapte intelligemment à différents scénarios, offrant une expérience visuelle fluide et réactive pour un confort de visionnage amélioré.

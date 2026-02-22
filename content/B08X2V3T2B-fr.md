@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Recevez des notifications : si Alexa détecte une mauvaise qualité de lair, vous pouvez en être informé(e) via une notification sur votre téléphone ou une annonce sur vos appareils Echo.
-- Suivi et mesures : surveillez 5 facteurs clés (les matières particulaires [PM 2.5], les composés organiques volatils [COV], le monoxyde de carbone [CO], lhumidité et la température).
 - Activez les routines pour allumer ou éteindre vos appareils avec Alexa intégré (purificateurs dair, déshumidificateurs, ventilateurs, etc.) lorsque la qualité de lair intérieur est mauvaise.
+- Suivi et mesures : surveillez 5 facteurs clés (les matières particulaires [PM 2.5], les composés organiques volatils [COV], le monoxyde de carbone [CO], lhumidité et la température).
 - Restez informé(e) : consultez à tout moment la couleur du voyant LED pour avoir une idée de la qualité actuelle de lair, et lapplication Alexa pour obtenir un indice de qualité de lair facile à comprendre.
 - Découvrez la qualité de lair : Amazon Smart Air Quality Monitor vous permet de comprendre facilement de quoi se compose lair à lintérieur de votre domicile.
 

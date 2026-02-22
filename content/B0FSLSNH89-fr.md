@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - NE RATEZ PAS UN VISITEUR, OÙ QUE VOUS SOYEZ - Entendez votre sonnette retentir depuis nimporte où chez vous ; Placez plusieurs Smart Chimes dans la maison pour ne jamais manquer un visiteur, même si vous êtes loin de lentrée
-- SACHEZ QUI EST LÀ, OÙ QUE VOUS SOYEZ - Recevez des notifications instantanées en cas de détection de mouvement ; Consultez le flux vidéo en direct et parlez aux visiteurs avec le microphone intégré, pour une tranquillité desprit, même en cas dabsence
-- FAITES-LE FONCTIONNER COMME VOUS LE VOULEZ - Personnalisez lexpérience avec le volume réglable, les différentes sonneries et les heures de silence ; Définissez différents sons selon les horaires et coupez ou rétablissez le son avec le bouton intégré
-- UNE SÉCURITÉ COMPATIBLE AVEC VOS ÉCLAIRAGES PHILIPS HUE - Les caméras Hue Secure sintègrent en toute transparence à vos éclairages Hue qui sallument automatiquement en cas de mouvements détectés, pour plus de visibilité et aider à dissuader les intrus
 - CONTRÔLE COMPLET AVEC UNE APPLICATION - Gérez la sonnette, le carillon et les éclairages Philips Hue depuis Hue ; Recevez des notifications instantanées, personnalisez les paramètres er restez connectés partout avec votre smartphone ou votre tablette
+- UNE SÉCURITÉ COMPATIBLE AVEC VOS ÉCLAIRAGES PHILIPS HUE - Les caméras Hue Secure sintègrent en toute transparence à vos éclairages Hue qui sallument automatiquement en cas de mouvements détectés, pour plus de visibilité et aider à dissuader les intrus
+- FAITES-LE FONCTIONNER COMME VOUS LE VOULEZ - Personnalisez lexpérience avec le volume réglable, les différentes sonneries et les heures de silence ; Définissez différents sons selon les horaires et coupez ou rétablissez le son avec le bouton intégré
+- SACHEZ QUI EST LÀ, OÙ QUE VOUS SOYEZ - Recevez des notifications instantanées en cas de détection de mouvement ; Consultez le flux vidéo en direct et parlez aux visiteurs avec le microphone intégré, pour une tranquillité desprit, même en cas dabsence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FSLSNH89{{</world>}}

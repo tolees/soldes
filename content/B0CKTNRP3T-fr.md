@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Retinol Boost+ : Cette crème de soin intense a été développée avec des dermatologues pour combattre efficacement les rides profondes
+- Cliniquement prouvé : Les utilisateurs constatent une peau hydratée à 95 %, une réduction des rides à 77 % et une amélioration de la texture à 86 %.**
 - Conseils d’utilisation : Appliquer une fois par jour sur le visage et le cou nettoyés. Appliquer uniformément la quantité indiquée en massant doucement jusquà absorption complète. Évitez le contour des yeux et utilisez un écran solaire pendant la journée.
 - Formule riche : Rétinol pur, extrait végétal de myrte régénérant, et acide hyaluronique pour hydrater et repulper la peau.
-- Cliniquement prouvé : Les utilisateurs constatent une peau hydratée à 95 %, une réduction des rides à 77 % et une amélioration de la texture à 86 %.**
+- Retinol Boost+ : Cette crème de soin intense a été développée avec des dermatologues pour combattre efficacement les rides profondes
 - Résultats efficaces : Cette crème pour le visage hydrate intensément dès la première application, réduit les ridules et les taches après une semaine, et atténue les rides profondes en quatre semaines.*
 
 [🛒 Achète-le!!]({{< param buyurl >}})

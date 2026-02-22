@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Confort optimal grâce au tissu 100 jersey de coton
 - Logo Columbia tendance
 - Haut à manches courtes pour homme, Idéal toute lannée
-- Contenu : 1 x Columbia Haut à manches courtes pour hommes, CSC Basic Logo, Matière : 100.0% Organic Cotton, Couleur : Columbia Grey Heather, Taille : XS, Art.No. 1680053
 - Disponible en différentes couleurs
+- Contenu : 1 x Columbia Haut à manches courtes pour hommes, CSC Basic Logo, Matière : 100.0% Organic Cotton, Couleur : Columbia Grey Heather, Taille : XS, Art.No. 1680053
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CJ38VQL{{</world>}}

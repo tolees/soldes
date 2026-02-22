@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Convenant aux peaux sèches et sensibles, le Baume Après-Rasage Weleda sapplique par petites quantités après chaque rasage, en massant le visage et le cou jusquà pénétration complète.
-- WELEDA BAUME APRÈS RASAGE : Spécifiquement développé pour les besoins cutanés des hommes, ce Baume Après-Rasage est un soin visage apaisant qui calme le feu du rasoir et protège la peau après le rasage.
 - UNE PEAU APAISÉE : Doté dune texture fluide et légère, ce baume apporte confort et douceur après le rasage. Il nourrit lépiderme, prévient le dessèchement cutané, hydrate et rafraîchit en un seul geste.
-- FORMULE NATURELLE : Ce soin visage pour homme contient de lhuile de jojoba bio qui renforce la barrière cutanée naturelle, du gel daloe vera bio, des extraits de camomille bio et de myrrhe, ainsi que du beurre de karité bio.
+- CONSEILS DUTILISATION : Convenant aux peaux sèches et sensibles, le Baume Après-Rasage Weleda sapplique par petites quantités après chaque rasage, en massant le visage et le cou jusquà pénétration complète.
 - CERTIFICATIONS : Natrue* : Label certifiant la cosmétique Naturelle et Biologique. - Végan** : Ne contient pas dingrédients dorigine animale.
+- WELEDA BAUME APRÈS RASAGE : Spécifiquement développé pour les besoins cutanés des hommes, ce Baume Après-Rasage est un soin visage apaisant qui calme le feu du rasoir et protège la peau après le rasage.
+- FORMULE NATURELLE : Ce soin visage pour homme contient de lhuile de jojoba bio qui renforce la barrière cutanée naturelle, du gel daloe vera bio, des extraits de camomille bio et de myrrhe, ainsi que du beurre de karité bio.
 - UNE MARQUE PIONNIÈRE DE LA COSMÉTIQUE NATURELLE ET BIO : Depuis 1921, les laboratoires Weleda proposent des produits cosmétiques dorigine naturelle pour préserver la beauté et le bien-être de toute la famille.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

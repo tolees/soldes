@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sandales confortables
 - Pour toutes sortes doccasions
 - Glamour et confortable
 - Gioseppo Sandales
+- Sandales confortables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B6PZQ5ZW{{</world>}}

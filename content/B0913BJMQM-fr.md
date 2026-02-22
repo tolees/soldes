@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps en INOX (0.4mm) et couvercle en ABS. Fonctionne avec 4 piles LR20 (non fournies). Bouton ON/OFF (pour maintenir le couvercle ouvert). Inclus: Un cerclage plastique pour maintenir votre sac poubelle, et un anneau au sol pour la protection des sols fragiles.
 - Plus quune poubelle, un meuble design. Il nest pas utile de se baisser pour jeter ses déchets. Poubelle Stable. Base antidérapante.
-- Poubelle de cuisine automatique rectangulaire avec cerclage Capacité 58L modèle MAJESTIC en acier Inoxydable Finition Black Mat Dimension: 41x29xH66cm Poids: 4kg. Grande capacité
+- Corps en INOX (0.4mm) et couvercle en ABS. Fonctionne avec 4 piles LR20 (non fournies). Bouton ON/OFF (pour maintenir le couvercle ouvert). Inclus: Un cerclage plastique pour maintenir votre sac poubelle, et un anneau au sol pour la protection des sols fragiles.
 - Poubelle intelligente qui fonctionne avec un système infra-rouge et vous évite tout contact avec le couvercle de la poubelle. Pratique et hygiénique, le couvercle souvre et se referme automatiquement lorsque vous passez votre main ou un objet à 15 cm au-dessus de la cellule photo électrique.
 - Possibilité de maintenir le couvercle ouvert grâce aux boutons OPEN / CLOSE (pour une ouverture prolongée). Ses matériaux lisses (fer non-corrosif INOX fin et ABS) facilitent son entretien. Assemblage non requis.
+- Poubelle de cuisine automatique rectangulaire avec cerclage Capacité 58L modèle MAJESTIC en acier Inoxydable Finition Black Mat Dimension: 41x29xH66cm Poids: 4kg. Grande capacité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0913BJMQM{{</world>}}

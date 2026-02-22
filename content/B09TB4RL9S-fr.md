@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- Xiaomi Water Ionic Hair Dryer H500 EU
 - 38581-BHR5851EU
 - Haute qualité
+- Xiaomi Water Ionic Hair Dryer H500 EU
+- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TB4RL9S{{</world>}}

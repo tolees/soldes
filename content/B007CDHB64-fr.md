@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LSM1500PRO : Machine à fumée professionnelle haut débit d’une puissance de 1500W et programmable en DMX, idéale pour les DJs et professionnels.
-- COMPATIBILITÉ : Cette machine à fumée est compatible avec toutes les densités de liquides à fumée IBIZA (sauf le SMOKE5L-LOW) et les parfums pour machines à fumée IBIZA, qui apporteront une délicieuse odeur à votre espace.
 - EFFETS : Avec son très haut débit de fumée, soyez impressionné par la qualité de cette machine professionnelle.
+- COMPATIBILITÉ : Cette machine à fumée est compatible avec toutes les densités de liquides à fumée IBIZA (sauf le SMOKE5L-LOW) et les parfums pour machines à fumée IBIZA, qui apporteront une délicieuse odeur à votre espace.
+- LSM1500PRO : Machine à fumée professionnelle haut débit d’une puissance de 1500W et programmable en DMX, idéale pour les DJs et professionnels.
 - SPÉCIFICITÉS : Puissance de 1500W, réservoir de 2.3 litres et 1 canal DMX
 - FACILITÉ : Branchez et versez simplement le liquide à fumée et contrôlez, Programmez et réglez le volume, la durée et la fréquence d’émission grâce aux télécommandes incluses.
 

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoires inclus pour un résultat optimal : La DUSTGO est livrée avec deux brosses d’aspiration spécialement conçues pour cibler les taches les plus tenaces sur toutes les surfaces textiles, y compris les zones difficiles d’accès.
-- Puissance de 600W pour un nettoyage en profondeur : Grâce à son moteur haute performance, la shampouineuse DUSTGO élimine en quelques passages les taches incrustées sur vos tapis, moquettes, canapés, sièges de voiture et autres tissus d’ameublement.
 - Grande capacité et autonomie prolongée : Équipée d’un réservoir d’eau propre de 1,5 L et d’un réservoir d’eau sale de 800 ml, cette shampouineuse permet de nettoyer plusieurs surfaces sans interruptions, pour un nettoyage fluide et efficace.
+- Puissance de 600W pour un nettoyage en profondeur : Grâce à son moteur haute performance, la shampouineuse DUSTGO élimine en quelques passages les taches incrustées sur vos tapis, moquettes, canapés, sièges de voiture et autres tissus d’ameublement.
 - Hygiène et fraîcheur garanties : En aspirant la saleté, les allergènes et les liquides renversés, la DUSTGO vous aide à maintenir un intérieur propre, sain et agréable au quotidien, tout en prolongeant la durée de vie de vos tissus.
 - Mobilité et confort dutilisation : Avec un câble de 5 mètres et un poids de seulement 4 kg, le nettoyeur se déplace facilement dans toute la maison ou la voiture, pour un nettoyage sans contraintes, du sol au plafond.
 

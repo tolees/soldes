@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une expérience solo de dark fantasy/science-fiction qui offre les combats brûlants et les graphismes démesurés de lincomparable franchise DOOM, alimentée par le dernier moteur idTech. Avec un niveau de difficulté personnalisable, cest le point dentrée idéal, que vous soyez nouveau dans la franchise ou fan de longue date
 - Dans ce troisième volet de la série moderne DOOM, les joueurs enfileront les bottes tachées de sang du DOOM Slayer, dans cette guerre médiévale sombre et sinistre, jamais vue auparavant, contre lenfer
-- En tant que super arme des dieux et des rois, déchiquetez vos ennemis avec des favoris dévastateurs comme le Super Shotgun tout en maniant une variété de nouvelles armes à broyer les os, y compris la polyvalente Scie à bouclier
-- Développé par id Software, DOOM : The Dark Ages est le préquel des jeux acclamés par la critique DOOM (2016) et DOOM Eternal, qui raconte lhistoire épique et cinématographique des origines de la rage du DOOM Slayer
-- Mystère, défis et récompenses se cachent dans chaque ombre des châteaux en ruine, des champs de bataille épiques, des forêts sombres, des paysages infernaux anciens et des mondes au-delà
+- Une expérience solo de dark fantasy/science-fiction qui offre les combats brûlants et les graphismes démesurés de lincomparable franchise DOOM, alimentée par le dernier moteur idTech. Avec un niveau de difficulté personnalisable, cest le point dentrée idéal, que vous soyez nouveau dans la franchise ou fan de longue date
 - Découvrez lhistoire de lorigine de la rage du DOOM Slayer dans cette histoire épique, cinématographique et pleine daction
+- En tant que super arme des dieux et des rois, déchiquetez vos ennemis avec des favoris dévastateurs comme le Super Shotgun tout en maniant une variété de nouvelles armes à broyer les os, y compris la polyvalente Scie à bouclier
+- Mystère, défis et récompenses se cachent dans chaque ombre des châteaux en ruine, des champs de bataille épiques, des forêts sombres, des paysages infernaux anciens et des mondes au-delà
+- Développé par id Software, DOOM : The Dark Ages est le préquel des jeux acclamés par la critique DOOM (2016) et DOOM Eternal, qui raconte lhistoire épique et cinématographique des origines de la rage du DOOM Slayer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DTV5Q1B6{{</world>}}

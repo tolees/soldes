@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ÉPOQUE: ANNÉES 60 CONFLIT IDÉOLOGIQUE : Replongez-vous dans lhistoire et revivez lévolution de la guerre froide et de la scène géopolitique
 - LIEU: LA JUNGLE DANS LA PEAU DES REPTILES : Mesurez-vous à un environnement foisonnant de pièges pour les ennemis et les proies, où les menaces sont tapies dans lombre et les prédateurs restent aux aguets
 - GAMEPLAY INSTINCT DE SURVIE : Faites preuve de plus dingéniosité que vos ennemis en vous camouflant, en vous battant au corps-à-corps, en les traquant, en les interrogeant, en escaladant, en chassant et en soignant vos blessures
-- ÉPOQUE: ANNÉES 60 CONFLIT IDÉOLOGIQUE : Replongez-vous dans lhistoire et revivez lévolution de la guerre froide et de la scène géopolitique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6PDB5XS{{</world>}}

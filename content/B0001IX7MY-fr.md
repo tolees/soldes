@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La poignée confortable bi-matière assure une excellente prise en main
 - Scie arboricole repliable 190mm 7 dents/pouce pour bois dur/sec
+- La poignée confortable bi-matière assure une excellente prise en main
 - Denture XT, pour une coupe efficace des volumes de bois dur ou sec
 - Longueur de lame: 190 mm
 

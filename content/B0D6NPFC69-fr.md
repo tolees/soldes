@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis de larticle: 0.155 kg
 - Longueur du colis de larticle: 220 mm
-- Largeur du colis de larticle: 180 mm
+- Poids du colis de larticle: 0.155 kg
 - Hauteur du colis de larticle: 90 mm
+- Largeur du colis de larticle: 180 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6NPFC69{{</world>}}

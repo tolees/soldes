@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Autonomie et durée du cycle : La batterie puissante offre un cycle de nettoyage de 50 min à charge pleine.
-- Taille de piscine compatible : Convient aux piscines hors sol et enterrées de 15m² et de toutes formes.
-- Type de filtre : Le robot Frisbee est doté dun tamis qui filtre les plus petits débris, jusquà 180 microns.
 - Puissance de filtration : Laspirateur de piscine Frisbee possède une puissance de filtration de 30 W.
 - Type de fond de piscine : Un robot de piscine idéal pour les piscines à fond plat.
+- Type de filtre : Le robot Frisbee est doté dun tamis qui filtre les plus petits débris, jusquà 180 microns.
+- Taille de piscine compatible : Convient aux piscines hors sol et enterrées de 15m² et de toutes formes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09CV2TXHM{{</world>}}

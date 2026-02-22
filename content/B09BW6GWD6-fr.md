@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Assemblez le Pokémon et faites-lui prendre plusieurs postures
 - Les 228 briques et pièces de construction de cette boîte sont compatibles avec tous les coffrets de construction MEGA Construx et d’autres grandes marques.
 - Cet Évoli à Assembler mesure plus de 10 cm
 - Idéal à partir de 7 ans, ce jouet à assembler combine construction et jeu pour développer la créativité et la capacité de réflexion.
-- Assemblez le Pokémon et faites-lui prendre plusieurs postures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BW6GWD6{{</world>}}

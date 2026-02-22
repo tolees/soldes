@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FORMULE WATERPROOF : Les qualités waterproof de ce crayon offrent un maquillage qui ne coule pas, ne migre pas sur la paupière et assure une parfaite adhérence. Profitez dune tenue inébranlable qui résiste à toutes les épreuves.
-- APPLICATION FACILE : Utilisez-le au ras des cils supérieurs pour définir le regard et/ou sur le ras des cils inférieurs pour intensifier le contour de lœil. Ajoutez un mascara waterproof Bourjois pour un regard plus captivant.
-- BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
 - FORMULE CRÉMEUSE ET CONFORTABLE : La texture crémeuse ultra-douce, enrichie en huiles de jojoba et coton, glisse le long des cils pour un tracé intense et précis. Cette formule unique permet une application facile et agréable.
+- BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
+- APPLICATION FACILE : Utilisez-le au ras des cils supérieurs pour définir le regard et/ou sur le ras des cils inférieurs pour intensifier le contour de lœil. Ajoutez un mascara waterproof Bourjois pour un regard plus captivant.
 - UN REGARD REDESSINÉ : Ce crayon pour les yeux est idéal pour un look de soirée réussi. Il souligne le contour des yeux avec une couleur vibrante qui reste intense tout au long de la nuit, ajoutant une touche déclat à votre style.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

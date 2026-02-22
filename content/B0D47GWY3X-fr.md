@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBILITÉ ET PILOTAGE : Ouverture partielle pour vélo ; dimensions maximales : jusquà 2 mètres par vantail, 200 kg ; compatible avec bois, aluminium, fer et PVC ; pilotable sur smartphone via TaHoma (en option) avec fermeture automatique
 - CONTENU DU PACK : Moteur portail avec deux blocs moteurs Evolvia et bras articulés ; deux télécommandes à deux touches ; feu orange ; batterie de secours ; cellules de détection ; visserie ; gabarit de pose et kit dalimentation solaire
+- COMPATIBILITÉ ET PILOTAGE : Ouverture partielle pour vélo ; dimensions maximales : jusquà 2 mètres par vantail, 200 kg ; compatible avec bois, aluminium, fer et PVC ; pilotable sur smartphone via TaHoma (en option) avec fermeture automatique
 - SÉCURITÉ ET CONFORT : Motorisation sécurisée avec détection dobstacles automatique grâce aux photocellules, protégeant ainsi vos proches. La batterie de secours permet douvrir et de fermer votre portail même en cas de coupure de courant
 - CONTRÔLE UNIFIÉ : Télécommandes préapairées et compatibles avec les motorisations Somfy RTS, permettant de piloter portail, porte de garage et volets roulants depuis une seule télécommande
 - GARANTIE ET FABRICATION FRANÇAISE : Ce moteur portail est proposé avec une garantie de 5 ans, assurant qualité et fiabilité, et est fabriqué en France

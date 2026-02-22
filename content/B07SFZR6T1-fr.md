@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le cœur de la poignée résistant aux impacts est recouvert sur toute la longueur dun matériau doux, la conception de la poignée elle-même empêche loutil de rouler et un trou permet la suspension pour plus de sécurité.
-- Certifiée 1 000 V AC et 1 500 V DC
-- Le manche fin et isolé permet d’atteindre des espaces difficiles d’accès.
-- Tournevis Phillips #2 isolé 4"
 - Poignée ergonomique s’adaptant à la main de l’utilisateur pour moins de contrainte et de fatigue au travail, et une force optimale.
+- Certifiée 1 000 V AC et 1 500 V DC
+- Tournevis Phillips #2 isolé 4"
+- Le cœur de la poignée résistant aux impacts est recouvert sur toute la longueur dun matériau doux, la conception de la poignée elle-même empêche loutil de rouler et un trou permet la suspension pour plus de sécurité.
+- Le manche fin et isolé permet d’atteindre des espaces difficiles d’accès.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SFZR6T1{{</world>}}

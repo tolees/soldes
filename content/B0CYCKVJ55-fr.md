@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Un véritable attrape-loeil pour chez vous!
 - Animation, Chats, Merchandising Pop Culture, Séries TV
-- Figurine de collection || Marchandises fun et de fans || Motif: Uni
-- Funko Pop! présentant les caractéristiques suivantes:
 - Mesures: Taille standard
+- Funko Pop! présentant les caractéristiques suivantes:
+- Figurine de collection || Marchandises fun et de fans || Motif: Uni
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYCKVJ55{{</world>}}

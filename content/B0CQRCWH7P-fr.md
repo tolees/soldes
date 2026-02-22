@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Grand et fluide] Écran 90 Hz de 17,07 cm (6,72) Son grand écran et son taux de rafraîchissement élevé créent une des meilleures expériences de jeu possible, qui vous plonge au cœur de l’action.
-- [Appareil photo ultra net de 108 MP. Zoom x3 intégré au capteur] Le mode 108 MP accroît fortement la clarté, rajoutant de la substance et de la consistance à vos clichés les plus importants.
-- [Charge SuperVOOC 33 W] La charge 33 W la plus rapide de sa catégorie, grâce à la technologie de charge SuperVOOC de pointe.
-- [Deux haut-parleurs stéréo] Avec ses deux haut-parleurs stéréo, le realme C67 a les meilleures capacités audio de toute la gamme C. Appréciez l’augmentation de 100 % du volume comparé à notre précédente génération, pour un son plus riche et des musiques plus immersives, notamment lors des jeux.
 - [La puissance de Snapdragon] C’est le meilleur chipset Snapdragon 685 en 6 nm de sa catégorie, qui fournit une puissance, une efficacité et une fiabilité de premier choix. Grâce à sa capacité de calcul, vous pouvez jouer et réaliser plusieurs tâches à la fois en toute tranquillité, car vous savez que votre processeur a été conçu dans ce but.
+- [Appareil photo ultra net de 108 MP. Zoom x3 intégré au capteur] Le mode 108 MP accroît fortement la clarté, rajoutant de la substance et de la consistance à vos clichés les plus importants.
+- [Deux haut-parleurs stéréo] Avec ses deux haut-parleurs stéréo, le realme C67 a les meilleures capacités audio de toute la gamme C. Appréciez l’augmentation de 100 % du volume comparé à notre précédente génération, pour un son plus riche et des musiques plus immersives, notamment lors des jeux.
+- [Charge SuperVOOC 33 W] La charge 33 W la plus rapide de sa catégorie, grâce à la technologie de charge SuperVOOC de pointe.
+- [Grand et fluide] Écran 90 Hz de 17,07 cm (6,72) Son grand écran et son taux de rafraîchissement élevé créent une des meilleures expériences de jeu possible, qui vous plonge au cœur de l’action.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQRCWH7P{{</world>}}

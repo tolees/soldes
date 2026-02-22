@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Age minimum : 0 mois
 - Nécessite des piles : 2 x aa incluses
 - Minuterie réglable pour écouter 15 ou 30 min de musique en continu avec ou sans lumière./40 mélodies et 2 chansons./Poupée lavable en machine (module électronique détachable)./Réglage du volume sonore et de l’intensité lumineuse.
-- Age minimum : 0 mois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B016A2MSWE{{</world>}}

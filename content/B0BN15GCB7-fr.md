@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le Transporteur T-Rex de Hot Wheels City inclut 2 véhicules Hot Wheels à l’échelle 1/64, ce qui en fait un cadeau idéal pour les enfants à partir de 4 ans.
-- Le dos du T-Rex est une piste de course à double voie. Lancez les voitures Hot Wheels incluses le long de son dos : celle qui est en tête peut continuer sa course alors que l’autre sera expulsée par le derrière du dinosaure.
-- Transformez le Transporteur T-Rex Hot Wheels City d’un camion pouvant transporter plus de 20 voitures à un T-Rex en furie qui rugit et piétine !
-- Faites rouler le transporteur et regardez-le dévorer sur son passage des véhicules à l’échelle 1/64. Utilisez-le pour ranger plus de 20 voitures à l’échelle 1/64 !
-- Les lumières et les sons rendront le jeu encore plus amusant, avec des bruits de mastication, de rot, de pet et les yeux qui s’allument en rouge !
 - Abaissez la queue et le transporteur se transformera en un T-Rex avec action de piétinement, lumières et sons.
 - Les enfants peuvent aussi lancer leurs voitures à travers la gueule du T-Rex pour donner l’impression qu’il les recrache.
+- Faites rouler le transporteur et regardez-le dévorer sur son passage des véhicules à l’échelle 1/64. Utilisez-le pour ranger plus de 20 voitures à l’échelle 1/64 !
+- Transformez le Transporteur T-Rex Hot Wheels City d’un camion pouvant transporter plus de 20 voitures à un T-Rex en furie qui rugit et piétine !
+- Les lumières et les sons rendront le jeu encore plus amusant, avec des bruits de mastication, de rot, de pet et les yeux qui s’allument en rouge !
+- Le dos du T-Rex est une piste de course à double voie. Lancez les voitures Hot Wheels incluses le long de son dos : celle qui est en tête peut continuer sa course alors que l’autre sera expulsée par le derrière du dinosaure.
+- Le Transporteur T-Rex de Hot Wheels City inclut 2 véhicules Hot Wheels à l’échelle 1/64, ce qui en fait un cadeau idéal pour les enfants à partir de 4 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN15GCB7{{</world>}}

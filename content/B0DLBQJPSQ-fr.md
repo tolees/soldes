@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baskets élévées
 - Baskets BULKY
+- Baskets élévées
 - Détails tendance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

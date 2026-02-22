@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau: 10 atm.
 - Montre chronographe quartz pour homme.
-- Boîtier round de acier inoxydable, couleur gris.
 - Cadran round en couleur bleu en verre minéral.
+- Boîtier round de acier inoxydable, couleur gris.
+- Résistance à leau: 10 atm.
 - Bracelet de acier inoxydable, couleur gris, avec fermeture déployante.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FUN ET INTUITIVE : Les pads lumineux permettent + de 2 000 combinaisons possibles / Micro intégré pour enregistrer des effets sonores / Possibilité denregistrer ses créations / Boule disco lumineuse synchronisée avec la musique
 - INCLUS : 15 mix DJ inclus dans 7 styles musicaux : hip hop, disco, électro etc. / Jeux musicaux / Fonction enceinte
+- ÂGE : Une platine pour mixer comme un véritable DJ dès 6 ans
 - CARACTÉRISTIQUES TECHNIQUES : Branchement Jack / Connexion Bluetooth sécurisée pour intégrer sa propre musique depuis un lecteur MP3 et la mixer / Arrêt automatique
 - VERSION : Française
-- ÂGE : Une platine pour mixer comme un véritable DJ dès 6 ans
+- FUN ET INTUITIVE : Les pads lumineux permettent + de 2 000 combinaisons possibles / Micro intégré pour enregistrer des effets sonores / Possibilité denregistrer ses créations / Boule disco lumineuse synchronisée avec la musique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08ZYZM48C{{</world>}}

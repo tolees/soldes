@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【AIVI 3D 2.0】With AIVI 3D 2.0 technology, DEEBOT T50 OMNI uses structured infrared light models to deduce three-dimensional object outlines and depth information, allowing accurate obstacle avoidance with customized strategies for various objects.
 - 【21,000Pa Suction Power & ZeroTangle 2.0】DEEBOT T50 delivers powerful 21,000Pa suction that devours dirt and debris like a hurricane. ZeroTangle 2.0 technology with triple V structures actively gather, lifts and detangles hair, ensuring a tangle rate as low as 0%, even with long hair.
-- 【All-In-One OMNI Station】OMNI all-in-one station offers advanced features including automatic emptying and hot air drying at 45°C. With two-way scrapers and a 75°C hot water wash, it automatically cleans the mop and base thanks to automatic self-cleaning.
-- 【Ultra-thin 81mm cleans under furniture】DEEBOT T50 family features an ultra-thin 81mm design made possible by its fully integrated dToF LiDAR module, allowing it to slide and clean under low furniture and in hard-to-reach areas, improving cleaning coverage and efficiency.
 - 【Expandable Side Brush & Mop】TruEdge 2.0 combines an innovative side brush that dynamically expands to reach deeper corners and a continuously variable mop plate that maintains 1mm proximity to the edges, achieving 100% coverage* without any missed spots.
+- 【All-In-One OMNI Station】OMNI all-in-one station offers advanced features including automatic emptying and hot air drying at 45°C. With two-way scrapers and a 75°C hot water wash, it automatically cleans the mop and base thanks to automatic self-cleaning.
+- 【AIVI 3D 2.0】With AIVI 3D 2.0 technology, DEEBOT T50 OMNI uses structured infrared light models to deduce three-dimensional object outlines and depth information, allowing accurate obstacle avoidance with customized strategies for various objects.
 - 【YIKO Voice Assistant - Your Smart Household Helper】 Supports multiple voice control scenarios, including multi-command conversations, local dialects, remote control, cleaning scheduling, etc. Coupled with real-time video surveillance capabilities, robust privacy protection, and smart responses, DEEBOT T50 delivers an effortless cleaning experience.
+- 【Ultra-thin 81mm cleans under furniture】DEEBOT T50 family features an ultra-thin 81mm design made possible by its fully integrated dToF LiDAR module, allowing it to slide and clean under low furniture and in hard-to-reach areas, improving cleaning coverage and efficiency.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WXRW9LL{{</world>}}

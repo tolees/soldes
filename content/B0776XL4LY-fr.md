@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Thermostat ajustable
 - Témoin lumineux de fonctionnement
-- 1800W
+- Thermostat ajustable
 - Plateau gril amovible avec revêtement antiadhésif
 - 12 personnes
+- 1800W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0776XL4LY{{</world>}}

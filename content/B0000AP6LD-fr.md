@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE FINITION IMPECCABLE : Lembout mousse permet dassurer une application précise et uniforme de la colle, sans aucune trace et sans se salir les mains. Une fois sèche la colle apporte une finition brillante sur votre puzzle en carton. Attention ne convient pas pour les puzzles en bois.
-- DECORATION : Certains puzzles sont tout simplement trop beaux pour être remis dans leur boîte une fois terminés. Alors pourquoi ne pas fixer le puzzle avec le Puzzle Conserver, le suspendre et lutiliser comme décoration élégante et originale pour votre intérieur ?
 - CONTENU : Colle prête à lusage. La bouteille contient 200 mL de colle, qui permet de coller par exemple 4 puzzles de 1000 pièces (env. 1,5m² de surface totale). Convient également pour coller des puzzles enfant ! Sadapte à tous les types de puzzles en carton.
-- PRÊTE A LEMPLOI : Secouez bien le tube, retirez le bouchon et déposez la colle uniformément sur tout le puzzle à laide de lembout mousse. Une fois lapplication terminée, rincez lembout mousse avec de leau claire puis refermez le tube et cest tout ! La colle sèche en une heure et garde les couleurs du puzzle intactes !
+- DECORATION : Certains puzzles sont tout simplement trop beaux pour être remis dans leur boîte une fois terminés. Alors pourquoi ne pas fixer le puzzle avec le Puzzle Conserver, le suspendre et lutiliser comme décoration élégante et originale pour votre intérieur ?
 - ACCESSOIRE INDISPENSABLE : La colle à puzzle Ravensburger a été spécialement conçue pour vous faciliter la vie durant votre pratique du puzzle. Appliquez-la directement sur votre puzzle grâce à son embout mousse et étalez-la sur toute la surface. Une fois sèche, la colle solidifie votre puzzle et vous permet de lexposer ou de le ranger facilement.
+- PRÊTE A LEMPLOI : Secouez bien le tube, retirez le bouchon et déposez la colle uniformément sur tout le puzzle à laide de lembout mousse. Une fois lapplication terminée, rincez lembout mousse avec de leau claire puis refermez le tube et cest tout ! La colle sèche en une heure et garde les couleurs du puzzle intactes !
+- UNE FINITION IMPECCABLE : Lembout mousse permet dassurer une application précise et uniforme de la colle, sans aucune trace et sans se salir les mains. Une fois sèche la colle apporte une finition brillante sur votre puzzle en carton. Attention ne convient pas pour les puzzles en bois.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0000AP6LD{{</world>}}

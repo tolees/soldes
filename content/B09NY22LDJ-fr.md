@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UTILISATION AVEC TOUTE BATTERIE 24V GREENWORKS - S’agissant dun pack spécial « outil seul » sans batterie, si vous disposez déjà d’un outil 24V de Greenworks, vous pouvez utiliser sa batterie pour gagner de la place, réduire les coûts et les déchets
-- 3 ANS DE GARANTIE – Par Greenworks, un leader mondial dans le domaine des outils sans fil et de la technologie des batteries, avec une réputation mondiale de conception intelligente, de haute performance et de service client exceptionnel
-- APPLIQUEZ LE MASTIC RAPIDEMENT, PROPREMENT ET FACILEMENT - Insérez simplement le tube de mastic, d’adhésif ou la cartouche de silicone dans le pistolet et appuyez doucement sur la gâchette
-- ANTI-GOUTTE AUTOMATIQUE - Lorsque vous cessez dappuyer sur la gâchette, la tige plongeante se rétracte automatiquement denviron 1 cm, pour ramener le mastic dans la cassette et éviter que lexcédent ne sécoule
 - 6 VITESSES POUR UN CONTRÔLE TOTAL - Choisissez la vitesse du pistolet à mastic à laquelle vous souhaitez que le mastic ou ladhésif sorte, afin dobtenir une ligne nette et précise pour un travail professionnel
+- UTILISATION AVEC TOUTE BATTERIE 24V GREENWORKS - S’agissant dun pack spécial « outil seul » sans batterie, si vous disposez déjà d’un outil 24V de Greenworks, vous pouvez utiliser sa batterie pour gagner de la place, réduire les coûts et les déchets
+- APPLIQUEZ LE MASTIC RAPIDEMENT, PROPREMENT ET FACILEMENT - Insérez simplement le tube de mastic, d’adhésif ou la cartouche de silicone dans le pistolet et appuyez doucement sur la gâchette
+- 3 ANS DE GARANTIE – Par Greenworks, un leader mondial dans le domaine des outils sans fil et de la technologie des batteries, avec une réputation mondiale de conception intelligente, de haute performance et de service client exceptionnel
+- ANTI-GOUTTE AUTOMATIQUE - Lorsque vous cessez dappuyer sur la gâchette, la tige plongeante se rétracte automatiquement denviron 1 cm, pour ramener le mastic dans la cassette et éviter que lexcédent ne sécoule
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NY22LDJ{{</world>}}

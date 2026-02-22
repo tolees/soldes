@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FACILE À TRANSFORMER, À RÉGLER ET À DÉPLACER : avec sa conception mobile, Alba passe facilement du berceau au transat bébé inclinable et à la chaise haute. Sa hauteur est également réglable sur 5 positions
-- MATELAS AU CONFORT OPTIMAL : avec son matelas très épais, le berceau bébé Alba offre un confort optimal à votre enfant, en position allongée comme dans les différentes positions dinclinaison
-- KIT REPAS : utilisez Alba comme une chaise haute bébé avec le kit repas Alba (vendu séparément) de 6 mois jusquà environ 3 ans (15 kg). Le plateau du kit repas se clipse simplement sur le cadre
 - DRAPS ALBA : les draps Alba (vendus séparément) sont aussi spécialement conçus pour protéger le matelas de notre Maxi-Cosi Alba. Ils sont confectionnés 100 % coton
-- BERCEAU BEBE TOUT EN UN LONGUE DUREE : utilisable de la naissance à environ 6 mois (9 kg) comme lit bébé et transat bébé inclinable. Utilisable de 6 mois à 3 ans (15 kg) comme chaise haute bébé
 - TISSUS 100 % RECYCLÉS : enveloppez votre bébé dans des tissus premium très doux. Alba dispose de tissus 100 % recyclés Eco Care pour garantir le confort de votre enfant et proposer un choix durable
+- MATELAS AU CONFORT OPTIMAL : avec son matelas très épais, le berceau bébé Alba offre un confort optimal à votre enfant, en position allongée comme dans les différentes positions dinclinaison
 - DRAPS ALBA: les draps Alba (vendus séparément) sont spécialement conçus pour protéger le matelas de notre Maxi-Cosi Alba - ils sont confectionnés en 100 % coton
+- BERCEAU BEBE TOUT EN UN LONGUE DUREE : utilisable de la naissance à environ 6 mois (9 kg) comme lit bébé et transat bébé inclinable. Utilisable de 6 mois à 3 ans (15 kg) comme chaise haute bébé
+- FACILE À TRANSFORMER, À RÉGLER ET À DÉPLACER : avec sa conception mobile, Alba passe facilement du berceau au transat bébé inclinable et à la chaise haute. Sa hauteur est également réglable sur 5 positions
+- KIT REPAS : utilisez Alba comme une chaise haute bébé avec le kit repas Alba (vendu séparément) de 6 mois jusquà environ 3 ans (15 kg). Le plateau du kit repas se clipse simplement sur le cadre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BTPR91VR{{</world>}}

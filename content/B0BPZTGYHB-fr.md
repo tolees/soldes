@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspirateur de tapisserie avec fonction 3-en-1. Pulvérise, nettoie et aspire. Comprend un système de pulvérisation deau sur la tête pour doser facilement le débit deau et adapter la quantité deau au type de surface.
-- Déplacement facile du produit grâce à sa batterie. Comprend une brosse à poils motorisée pour désincruster toute la saleté.
 - Compatible avec un nettoyant liquide à faible mousse. La proportion à utiliser de savon liquide est de 5 à 10 ml dans le réservoir deau propre.
+- Déplacement facile du produit grâce à sa batterie. Comprend une brosse à poils motorisée pour désincruster toute la saleté.
+- Aspirateur de tapisserie avec fonction 3-en-1. Pulvérise, nettoie et aspire. Comprend un système de pulvérisation deau sur la tête pour doser facilement le débit deau et adapter la quantité deau au type de surface.
 - Grâce à sa batterie, il offre une autonomie allant jusquà 25 minutes. Aspirateur de tapisserie pour aspirer les liquides et les solides.
 - Deux réservoirs. Un réservoir deau propre jusquà 300 ml et un réservoir deau sale jusquà 350 ml. Puissance de 50 W. Retrait facile des réservoirs deau pour remplir et vider commodément.
 

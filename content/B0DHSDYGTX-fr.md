@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 minifigurines NINJAGO – Ce jeu de construction LEGO inclut Zane avec une toute nouvelle armure, Braséra et le Maître des essaims, Drix. Les passionnés de Ninjas peuvent rejouer des combats débordant d’action avec ces personnages
-- Des aventures extraordinaires avec les Ninjas – Découvrez d’autres modèles LEGO NINJAGO (sets vendus séparément) incluant des dragons, des temples et des véhicules
-- Une belle idée de cadeau pour garçons et filles de 6 ans et plus – Ce petit jouet LEGO propose une superbe expérience de construction et de jeu. Il constitue une superbe idée de cadeau pour les enfants dès 6 ans, passionnés d’aventures de Ninjas
-- Jeu de rôle LEGO NINJAGO pour garçons et filles de 6 ans et plus – La superbe armure robot de Zane invite les enfants dès 6 ans à rejouer des scènes passionnantes de la saison 3 de la série TV NINJAGO Le soulèvement des dragons
-- Robot articulé – La magnifique armure robot de Zane est dotée de bras, de jambes et de mains mobiles, d’un haut du corps qui pivote à 360°, d’un torse qui s’ouvre pour placer une minifigurine LEGO à l’intérieur et de 2 grands sabres
-- Accessoires de combat – Chaque minifigurine NINJAGO possède une ou plusieurs armes pour stimuler le jeu de rôle : Zane a 2 shurikens, Braséra a un katana de cristal et Drix a 2 faucilles
 - Tout un univers de jouets LEGO NINJAGO – Cette vaste collection de jeux de construction permet aux enfants dès 6 ans de s’évader dans un monde fantastique pour laisser libre cours à leur imagination et s’amuser avec leurs héros Ninjas
+- Jeu de rôle LEGO NINJAGO pour garçons et filles de 6 ans et plus – La superbe armure robot de Zane invite les enfants dès 6 ans à rejouer des scènes passionnantes de la saison 3 de la série TV NINJAGO Le soulèvement des dragons
+- Une belle idée de cadeau pour garçons et filles de 6 ans et plus – Ce petit jouet LEGO propose une superbe expérience de construction et de jeu. Il constitue une superbe idée de cadeau pour les enfants dès 6 ans, passionnés d’aventures de Ninjas
+- Accessoires de combat – Chaque minifigurine NINJAGO possède une ou plusieurs armes pour stimuler le jeu de rôle : Zane a 2 shurikens, Braséra a un katana de cristal et Drix a 2 faucilles
+- Des aventures extraordinaires avec les Ninjas – Découvrez d’autres modèles LEGO NINJAGO (sets vendus séparément) incluant des dragons, des temples et des véhicules
+- Robot articulé – La magnifique armure robot de Zane est dotée de bras, de jambes et de mains mobiles, d’un haut du corps qui pivote à 360°, d’un torse qui s’ouvre pour placer une minifigurine LEGO à l’intérieur et de 2 grands sabres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSDYGTX{{</world>}}

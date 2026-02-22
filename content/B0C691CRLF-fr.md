@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Respirant
 - Confortable
 - Rembourrage :
-- Respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C691CRLF{{</world>}}

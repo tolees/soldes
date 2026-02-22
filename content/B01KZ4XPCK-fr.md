@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voir ci-dessous pour specs & informations complémentaires
 - Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
+- Voir ci-dessous pour specs & informations complémentaires
 - CANON
 - Objectif
 

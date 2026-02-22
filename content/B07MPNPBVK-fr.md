@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Perméable à l’air et à l’eau] Cette toile de 3 x 5 m est en tissu HDPE de 180 g/m², elle est perméable à l’air et à l’eau afin d’éviter que la chaleur de l’été ne s’accumule sous le voile d’ombrage. Elle ne protège pas contre la pluie
 - [De l’ombre pour l’été] Ce voile d’ombrage rectangulaire bloque de 80 à 85 % des rayons du soleil, créez un coin de bien-être sur votre terrasse. Astuce : plus la couleur du tissu est foncée, meilleure est la protection contre le soleil
-- [Choisissez la bonne taille] Choisissez en fonction de votre espace et de la taille de l’ombrage souhaité. Regardez les conseils sur les images des produits
 - [Accessoires et montage] 4 cordes de 2 m sont fournies. Il est recommandé que la distance entre le point de fixation et l’anneau en inox soit d’au moins 30 cm. Une fois installé, tendez-le régulièrement de façon équilibrée
+- [Choisissez la bonne taille] Choisissez en fonction de votre espace et de la taille de l’ombrage souhaité. Regardez les conseils sur les images des produits
 - [Résistante & durable] Les extrémités sont renforcées par plusieurs couches de tissu bien cousues. La forme concave repartit la force du vent et augmente la résistance à la déchirure. Les anneaux en D en inox sont antirouilles et durables
+- [Perméable à l’air et à l’eau] Cette toile de 3 x 5 m est en tissu HDPE de 180 g/m², elle est perméable à l’air et à l’eau afin d’éviter que la chaleur de l’été ne s’accumule sous le voile d’ombrage. Elle ne protège pas contre la pluie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MPNPBVK{{</world>}}

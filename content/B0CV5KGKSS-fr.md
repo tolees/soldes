@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les caractéristiques de sécurité intelligentes permettent à la fois de garantir la protection du travail et déviter déventuels dommages au matériel.
-- Toutes les batteries BOSCH 18 V POWER FOR ALL* sont compatibles avec le Furno 550 18V. Batterie amovible qui allonge la durée de vie et assure plus de flexibilité lors des travaux.***remarque : La batterie et le chargeur ne sont pas inclus****Les batteries 1,5 Ah et 2 Ah ne sont pas compatibles
 - Avec le pistolet à air chaud sans fil FURNO 550 18V, découvrez une liberté de mouvement sans limite pour tous les projets de bricolage dans la maison et le jardin.
 - La fonction de mémoire enregistre le dernier réglage de température utilisé et le rappelle au redémarrage de lappareil.
+- Toutes les batteries BOSCH 18 V POWER FOR ALL* sont compatibles avec le Furno 550 18V. Batterie amovible qui allonge la durée de vie et assure plus de flexibilité lors des travaux.***remarque : La batterie et le chargeur ne sont pas inclus****Les batteries 1,5 Ah et 2 Ah ne sont pas compatibles
 - Lécran numérique à LED indique à tout moment le niveau de charge de la batterie et permet un contrôle progressif de la température de 300°C à 610°C.
+- Les caractéristiques de sécurité intelligentes permettent à la fois de garantir la protection du travail et déviter déventuels dommages au matériel.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV5KGKSS{{</world>}}

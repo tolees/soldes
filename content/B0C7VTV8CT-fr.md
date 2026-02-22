@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Découvrez les secrets dune technologie perdue dans un monde post-apocalyptique; profitez dune variété de mini-jeux et de divertissements pour vous détendre; plongez dans un vaste monde bac à sable aux possibilités infinies
-- Le destin du monde repose entre vos mains; reconstruisez la communauté, combattez des monstres, découvrez des technologies perdues, trouvez lamour parmi les habitants de la ville et détendez-vous avec des mini-jeux et de lartisanat; le choix vous appartient dans My Time at Sandrock
 - Combattez en mêlée et en tir à la troisième personne contre les monstres envahissants; forgez des relations significatives avec des habitants aux profils variés
 - Voyagez dans la communauté du désert de Sandrock et endossez le rôle dun nouveau bâtisseur; utilisez vos outils pour collecter des ressources, construire des machines et transformer votre atelier désaffecté en une usine de production bien huilée afin de sauver la ville de la ruine
+- Découvrez les secrets dune technologie perdue dans un monde post-apocalyptique; profitez dune variété de mini-jeux et de divertissements pour vous détendre; plongez dans un vaste monde bac à sable aux possibilités infinies
+- Le destin du monde repose entre vos mains; reconstruisez la communauté, combattez des monstres, découvrez des technologies perdues, trouvez lamour parmi les habitants de la ville et détendez-vous avec des mini-jeux et de lartisanat; le choix vous appartient dans My Time at Sandrock
 - L’Édition Collector de My Time at Sandrock contient : Grande boîte de lédition collector et jeu physique plus Atelier artisanal en bois (14 x 17 x 15 cm) plus Peluche de monstre Pensky (17 cm) plus BD de 40 pages A Logan Story plus Figurines en bois Logan et Nia plus Certificat de licence de constructeur plus Bonus numériques : Tenue pour le joueur (4 couleurs) plus Maillot de bain pour le joueur (4 couleurs)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

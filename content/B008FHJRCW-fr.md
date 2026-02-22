@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Columbia
-- Poids: 0.11 kg
 - PFG Mesh
+- Poids: 0.11 kg
+- Columbia
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008FHJRCW{{</world>}}

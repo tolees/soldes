@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCOUVREZ LA GAMME ICE-WATCH : La marque ICE-WATCH offre une gamme de produits large et diversifiée, ce qui vous permettra de toujours trouver un produit ICE-WATCH pour vous satisfaire vous ou vos proches. Tous nos produits sont livrés avec un manuel dinstruction et sont garantis 2 ans.
 - LOCALISATION VIA LAPPLICATION FIND MY DAPPLE : une solution pratique pour que les familles puissent localiser un objet aussi précieux que la montre de leur enfant. Si la montre n’est pas à proximité, l’application Localiser utilise le réseau mondial Find My pour la localiser (fonction localiser uniquement compatible avec les appareils Apple).
-- ÉTANCHE JUSQUÀ IP68 : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée.
 - MONTRES BÉNÉFICIANT DE NOMBREUSES FONCTIONNALITÉS : notifications, personnalisation du fond décran, suivi dactivités sportives, podomètre, jeux, alarmes, suivi du sommeil, mesure de la fréquence cardiaque, et bien dautres fonctionnalités à découvrir.
+- DÉCOUVREZ LA GAMME ICE-WATCH : La marque ICE-WATCH offre une gamme de produits large et diversifiée, ce qui vous permettra de toujours trouver un produit ICE-WATCH pour vous satisfaire vous ou vos proches. Tous nos produits sont livrés avec un manuel dinstruction et sont garantis 2 ans.
 - PREMIÈRE MONDIALE : une montre connectée et géolocalisable conçue pour les enfants. Pas de carte SIM nécessaire et pas dabonnement payant.
+- ÉTANCHE JUSQUÀ IP68 : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1Z39N8L{{</world>}}

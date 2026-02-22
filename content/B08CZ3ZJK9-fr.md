@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✮ Cadeaux parfaits✮ La perle en argent sterling de haute qualité et belle constitue un excellent cadeau personnalisé pour la fête des mères, un anniversaire, un mariage, un anniversaire, Noël, la Saint-Valentin, un cadeau de graduation pour la journée, un cadeau de graduation pour la journée, ou faites-vous plaisir.
-- ✮Taille du trou✮Le diamètre du trou de charme: 0,18 pouce (environ 4,8 mm ~ 5 mm). Les pendentifs en perles sont compatibles avec Pandora, Troll, Chamilia, Biagi ou dautres types de bracelets européens.
 - ✮Service✮ Garantie de satisfaction et de remboursement, et nhésitez pas à nous contacter si vous avez des questions!
+- ✮Taille du trou✮Le diamètre du trou de charme: 0,18 pouce (environ 4,8 mm ~ 5 mm). Les pendentifs en perles sont compatibles avec Pandora, Troll, Chamilia, Biagi ou dautres types de bracelets européens.
 - ✮Matériel✮Le charme de la pierre de naissance NINGAN est en argent sterling 925 avec un revêtement en platine et des incrustations de zircone. Sans nickel, sans plomb, sans cadmium et hypoallergénique, 100% plus riche pour les peaux sensibles.
 - ✮Sens✮ Différentes pierres de naissance ont des significations différentes. Choisissez la pierre de naissance dont vous avez besoin et donnez-la à la personne de votre choix.
 

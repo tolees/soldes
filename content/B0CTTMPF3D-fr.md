@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SÉRUM MULTIACTION 5EN1 WELEDA HOMME : Ce sérum 5IN1 HOMME possède une texture gel non grasse et une formule à base dactifs bio élaborée pour atténuer les signes de lâge et apporter un concentré dantioxydants à la peau grâce au jus de Grenade. Il hydrate grâce à lapport de lAloe Vera et protège la peau des radicaux libres.
+- CONSEILS DUTILISATION : Appliquer sur la peau préalablement mouillée sur lensemble du corps puis rincer abondamment à leau claire.
 - UNE MARQUE PIONNIÈRE DE LA COSMÉTIQUE NATURELLE ET BIO : Depuis 1921, les laboratoires Weleda proposent des produits cosmétiques dorigine naturelle pour préserver la beauté et le bien-être de toute la famille.
 - CERTIFICATIONS : Natrue* : Label certifiant la cosmétique Naturelle et Biologique. - Végan** : Ne contient pas dingrédients dorigine animale.
-- CONSEILS DUTILISATION : Appliquer sur la peau préalablement mouillée sur lensemble du corps puis rincer abondamment à leau claire.
+- SÉRUM MULTIACTION 5EN1 WELEDA HOMME : Ce sérum 5IN1 HOMME possède une texture gel non grasse et une formule à base dactifs bio élaborée pour atténuer les signes de lâge et apporter un concentré dantioxydants à la peau grâce au jus de Grenade. Il hydrate grâce à lapport de lAloe Vera et protège la peau des radicaux libres.
 - FORMULE NATURELLE : Le Sérum Multiaction 5en1 Homme est composé dhuiles essentielles naturelles de romarin et de Litsea cubeba qui diffusent un parfum acidulé, activant et rafraîchissant. Les notes de fond balsamiques et boisées du vétiver complètent harmonieusement le parfum et donnent des accents chauds et masculins.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

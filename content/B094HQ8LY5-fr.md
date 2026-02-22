@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plus d’une quinzaine de mini jeux répartis en 3 catégories : course d’endurance, sauts d’obstacles ou pansage
-- Des sessions d’entrainements entièrement personnalisables : vous pourrez choisir le thème (equitation, connaissances ou soins)
 - 2500 Questions relatives aux examens du galop 1 à 7 et conformes à la dernière réforme.
+- Des sessions d’entrainements entièrement personnalisables : vous pourrez choisir le thème (equitation, connaissances ou soins)
+- Plus d’une quinzaine de mini jeux répartis en 3 catégories : course d’endurance, sauts d’obstacles ou pansage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B094HQ8LY5{{</world>}}

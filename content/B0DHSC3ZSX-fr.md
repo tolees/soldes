@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 minifigurines avec accessoires – Lloyd armé d’un katana d’or, ainsi qu’un horrible Éclaireur draconique avec une hache, pour permettre aux enfants de plonger dans l’action Ninja
 - Bébé dragon – Ce jouet de construction inclut un bébé dragon doré qui invite les fans de Ninjas à jouer à s’occuper d’une adorable créature
+- Tout un univers de jouets Ninjas – Les jeux de construction LEGO NINJAGO permettent aux enfants dès 6 ans de s’évader dans un univers fantastique débordant d’aventures aux côtés de leurs héros Ninjas
+- Dragon NINJAGO articulé – Une maquette à construire du dragon vert de la forêt de Lloyd dotée d’une queue, d’un cou, de pattes, de mains et de grandes ailes mobiles, ainsi qu’une selle permettant à une minifigurine LEGO de monter sur son dos
 - Un jouet dragon pour garçons et filles de 6 ans et plus – Les enfants dès 6 ans peuvent rejouer les scènes aériennes de la saison 3 de la série TV NINJAGO Le soulèvement des dragons avec le jeu LEGO Le dragon vert de la forêt de Lloyd
 - Idée cadeau pour garçons et filles, fans de Ninjas – Ce jeu LEGO, débordant d’action, offre une expérience de construction et de jeu amusante et constitue un superbe cadeau pour les enfants dès 6 ans qui aiment les histoires de Ninjas
-- 2 minifigurines avec accessoires – Lloyd armé d’un katana d’or, ainsi qu’un horrible Éclaireur draconique avec une hache, pour permettre aux enfants de plonger dans l’action Ninja
-- Dragon NINJAGO articulé – Une maquette à construire du dragon vert de la forêt de Lloyd dotée d’une queue, d’un cou, de pattes, de mains et de grandes ailes mobiles, ainsi qu’une selle permettant à une minifigurine LEGO de monter sur son dos
-- Tout un univers de jouets Ninjas – Les jeux de construction LEGO NINJAGO permettent aux enfants dès 6 ans de s’évader dans un univers fantastique débordant d’aventures aux côtés de leurs héros Ninjas
 - Des aventures extraordinaires avec les Ninjas – Découvrez d’autres maquettes NINJAGO (sets vendus séparément) incluant des temples, des robots et des véhicules
 
 [🛒 Achète-le!!]({{< param buyurl >}})

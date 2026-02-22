@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sweat à capuche pour homme en grande taille.
 - Matière : 76 % coton, 15 % polyester, 9 % viscose.
 - Sobre et simple.
-- Sweat à capuche pour homme en grande taille.
 - Doté d’un cordon de serrage pour un ajustement adéquat.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

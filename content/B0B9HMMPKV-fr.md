@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LIVRE AVEC : télécommande
-- RAFRAÎCHISSEMENT INTENSE : la vitesse dair (2,2 m/s) et le débit dair (358 l/s) les plus puissants de sa catégorie ; une portée allant jusquà 8 m pour un rafraîchissement optimal
-- AUTOMATIQUE : modes jour et nuit automatiques pour ajuster la puissance en fonction de la température, grâce à un thermostat intégré
-- CHALEUR INCOMPARABLE : mode chauffage qui diffuse une chaleur rapide et enveloppante allant jusquà 35 °C grâce à la technologie céramique (2 100 W). Fonction darrêt automatique pour éviter les risques de surchauffe
-- SILENCIEUX : pratiquement inaudible avec le réglage minimum du mode ventilateur 31 dB(A) ; ’hiver, profitez du mode chauffage à 49 dB(A) seulement
-- DIFFUSION DUN AIR PUR EN CONTINU : efficacité prouvée pour éliminer jusquà 99,9 % des particules dune taille aussi infime que 0,1 micron (y compris la poussière, les allergènes et les bactéries) et jusquà 99 % du virus H1N1 ; Débit d’air pur (CADR) de 107 m3/h idéal pour purifier des pièces allant jusquà 30 m2
-- 3-EN-1 POUR UNE UTILISATION TOUTE LANNÉE : une combinaison parfaite d’un purificateur dair, d’un chauffage et d’un ventilateur dans un seul appareil pour respirer un air sain toute lannée
+- INDICATION LUMINEUSE : panneau numérique avec affichage de la température ou encore de la vitesse sélectionnée ; lumière d’ambiance rouge ou bleue selon le mode activé (chauffage ou ventilation)
 - UTILISATION PERSONNALISÉE : une diffusion de lair optimale grâce à la fonction multi-oscillation (0-30-60-90°)
 - REPARABLE 15 ANS AU JUSTE PRIX : Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- INDICATION LUMINEUSE : panneau numérique avec affichage de la température ou encore de la vitesse sélectionnée ; lumière d’ambiance rouge ou bleue selon le mode activé (chauffage ou ventilation)
+- 3-EN-1 POUR UNE UTILISATION TOUTE LANNÉE : une combinaison parfaite d’un purificateur dair, d’un chauffage et d’un ventilateur dans un seul appareil pour respirer un air sain toute lannée
+- LIVRE AVEC : télécommande
+- RAFRAÎCHISSEMENT INTENSE : la vitesse dair (2,2 m/s) et le débit dair (358 l/s) les plus puissants de sa catégorie ; une portée allant jusquà 8 m pour un rafraîchissement optimal
+- DIFFUSION DUN AIR PUR EN CONTINU : efficacité prouvée pour éliminer jusquà 99,9 % des particules dune taille aussi infime que 0,1 micron (y compris la poussière, les allergènes et les bactéries) et jusquà 99 % du virus H1N1 ; Débit d’air pur (CADR) de 107 m3/h idéal pour purifier des pièces allant jusquà 30 m2
+- AUTOMATIQUE : modes jour et nuit automatiques pour ajuster la puissance en fonction de la température, grâce à un thermostat intégré
+- SILENCIEUX : pratiquement inaudible avec le réglage minimum du mode ventilateur 31 dB(A) ; ’hiver, profitez du mode chauffage à 49 dB(A) seulement
+- CHALEUR INCOMPARABLE : mode chauffage qui diffuse une chaleur rapide et enveloppante allant jusquà 35 °C grâce à la technologie céramique (2 100 W). Fonction darrêt automatique pour éviter les risques de surchauffe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9HMMPKV{{</world>}}

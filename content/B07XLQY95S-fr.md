@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre daviateur analogique dans un boîtier en acier inoxydable
-- Ø 42 mm x h 12 mm, étanche jusquà 10 bar
-- verre minéral K1 verre de sécurité
 - Mouvement à quartz japonais Citizen Miyota 6S20
-- Fabriqué en Allemagne, propre production à Ruhla
+- Ø 42 mm x h 12 mm, étanche jusquà 10 bar
 - Cadran anthracite avec chiffres/indices blancs lumineux la nuit, aiguilles luminescentes
+- Fabriqué en Allemagne, propre production à Ruhla
+- Montre daviateur analogique dans un boîtier en acier inoxydable
+- verre minéral K1 verre de sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XLQY95S{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu: 2x Villeroy & Boch For Me Bols à snacks (15,2 x 12,7 x 8 cm), Matière: Porcelaine Premium, Couleur: Blanc
-- Bols ronds en porcelaine blanche pour servir snacks, fruits et biscuits avec élégance, Idéal pour le quotidien et les repas entre amis
 - Convient aussi pour la restauration grâce à la forme ergonomique, Empilable, Bord particulièrement résistant aux chocs
+- Bols ronds en porcelaine blanche pour servir snacks, fruits et biscuits avec élégance, Idéal pour le quotidien et les repas entre amis
 - Adapté au lave-vaisselle, au four à micro-ondes et au four traditionnel jusquà 200 °C, Fabrication haute qualité : Porcelaine Premium fabriquée en Allemagne
 - Profondeur optimale pour les snacks, Utilisation polyvalente, Facile à se faire passer, Combinaison idéale avec le reste de la collection For Me
 

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CUISSON MAÎTRISÉE : Une répartition uniforme de la chaleur sur toute la poêle à frire en acier inoxydable AFFINITY De Buyer assure une cuisson homogène. Sa poignée en fonte dinox, rivetée solidement, assure une prise en main ergonomique et confortable, tout en présentant un design épuré. De plus, la poignée reste à basse température pour une manipulation en toute sécurité.
-- TOUS FEUX : La gamme AFFINITY en inox ASI 304 De Buyer convient à tout type de feu, dont linduction.
-- SURFACE DE CUISSON : Le diamètre extérieur de cette poêle AFFINITY De Buyer est de 24 cm, sa surface intérieure utile est, quant à elle, de 17 cm.
-- ENTRETIEN : Passe au lave-vaisselle.
 - FABRIQUÉE EN FRANCE : La conception monobloc de la gamme AFFINITY en inox 5 couches 18/10 (AISI 304) garantit une répartition homogène des températures et offre une grande maîtrise des cuissons, se rapprochant ainsi des performances des ustensiles en cuivre.
+- ENTRETIEN : Passe au lave-vaisselle.
+- SURFACE DE CUISSON : Le diamètre extérieur de cette poêle AFFINITY De Buyer est de 24 cm, sa surface intérieure utile est, quant à elle, de 17 cm.
+- TOUS FEUX : La gamme AFFINITY en inox ASI 304 De Buyer convient à tout type de feu, dont linduction.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000Z2FZQM{{</world>}}

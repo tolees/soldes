@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Prenez part à des batailles navales exaltantes, équipez-vous dune panoplie darmes puissantes et risquez le tout pour le tout afin de récupérer les meilleurs butins.
-- - Renforcez votre niveau dinfamie et débloquez de nouvelles ressources et opportunités pour décrocher des contrats plus risqués et améliorer votre équipement.
-- - Naviguez en solo sur les mers hostiles ou rejoignez deux autres joueurs pour collaborer sur des contrats et vous partager les récompenses.
-- - Affrontez de redoutables chasseurs de pirates, de féroces monstres marins, une météo imprévisible, de périlleuses vagues scélérates, des menaces surnaturelles et bien dautres dangers à mesure que vous explorerez ce vaste monde ouvert.
 - - Bâtissez et naviguez à bord de 10 navires différents à la sortie du jeu, chacun disposant de spécificités uniques pour correspondre à votre style de jeu.
+- - Naviguez en solo sur les mers hostiles ou rejoignez deux autres joueurs pour collaborer sur des contrats et vous partager les récompenses.
+- - Prenez part à des batailles navales exaltantes, équipez-vous dune panoplie darmes puissantes et risquez le tout pour le tout afin de récupérer les meilleurs butins.
+- - Affrontez de redoutables chasseurs de pirates, de féroces monstres marins, une météo imprévisible, de périlleuses vagues scélérates, des menaces surnaturelles et bien dautres dangers à mesure que vous explorerez ce vaste monde ouvert.
+- - Renforcez votre niveau dinfamie et débloquez de nouvelles ressources et opportunités pour décrocher des contrats plus risqués et améliorer votre équipement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B6FW5XDP{{</world>}}

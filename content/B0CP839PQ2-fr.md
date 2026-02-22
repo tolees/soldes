@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : gris
-- Samsung
 - Marque: Samsung
+- Samsung
 - tablette samsung galaxy tab a9 11 graphite 64 go wifi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

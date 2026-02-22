@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Situé dans une petite ville inspirée de lIndonésie rurale des années 90, A Space for The Unbound propose une expérience narrative attachante avec un environnement vibrant qui ne demande quà être exploré.
+- Lédition standard de A Space for the Unbound comprend le jeu, le livret "A Space for the Unbound Tales" et une carte de téléchargement de la BO : Écoutez des musiques magnifiques composées par Masdito "Ittou" Bachtiar.
 - Discutez et interagissez avec les autres habitants de la ville et écoutez leurs histoires personnelles. Plongez dans lesprit des gens à la manière dInception.
 - A Space For The Unbound est un jeu daventure en pixel-art qui se déroule dans lIndonésie rurale de la fin des années 90 traîtant de lanxiété, la dépression et comment les surmonter, ainsi que de la relation entre un garçon et dune fille dotés de pouvoirs surnaturels.
 - Suivez deux lycéens épris, Atma et Raya, dans leur voyage à la découverte deux-mêmes à la fin de leurs années de lycée. Lorsquun pouvoir surnaturel mystérieux est soudainement libéré et menace leur existence, ils doivent explorer et enquêter dans leur ville pour découvrir des secrets cachés, faire face à la fin du monde, et peut-être en apprendre plus lun sur lautre.
-- Lédition standard de A Space for the Unbound comprend le jeu, le livret "A Space for the Unbound Tales" et une carte de téléchargement de la BO : Écoutez des musiques magnifiques composées par Masdito "Ittou" Bachtiar.
+- Situé dans une petite ville inspirée de lIndonésie rurale des années 90, A Space for The Unbound propose une expérience narrative attachante avec un environnement vibrant qui ne demande quà être exploré.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CS3F3HFV{{</world>}}

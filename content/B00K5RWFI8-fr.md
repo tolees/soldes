@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CMT 950.001.11 - Fresa para cerraduras z2 hwm s=8 d=4.76 d=9.5
 - Faible diamètre 4.8 mm
 - Longueur de coupe 11 mm
-- CMT 950.001.11 - Fresa para cerraduras z2 hwm s=8 d=4.76 d=9.5
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00K5RWFI8{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Formule x2 concentrée en céramides*, texture liquide et waterproof, ne graisse pas et ne colle pas
-- Sérum corporel avec protection solaire SPF50+, conçu pour les peaux sensibles, sensibles au soleil et réactives, aide à prévenir les dommages cutanés à long et à court terme
-- Bien agiter et appliquer immédiatement avant lexposition, réappliquer fréquemment et abondamment pour maintenir la protection solaire, surtout après avoir transpiré ou mouillé
 - Contenu: 1 x Garnier Sensitive Advanced Peaux Sensibles Sérum Corps SPF 50+ Waterproof avec 2x Ceramides Ambre Solaire 125ml
+- Bien agiter et appliquer immédiatement avant lexposition, réappliquer fréquemment et abondamment pour maintenir la protection solaire, surtout après avoir transpiré ou mouillé
 - Crée un filet protecteur sur la peau contre les rayons UV et protège instantanément la fonction barrière de la peau. Grâce à son distributeur, il peut être facilement appliqué même sur les aras sensibles
+- Sérum corporel avec protection solaire SPF50+, conçu pour les peaux sensibles, sensibles au soleil et réactives, aide à prévenir les dommages cutanés à long et à court terme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZ4T67Z9{{</world>}}

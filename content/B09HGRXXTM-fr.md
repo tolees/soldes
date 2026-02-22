@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livraison : 1 x Flip 6 JBL enceinte portable sans fil, 1 x câble USB type C, 1 x fiche technique sécurité, 1 x guide de démarrage rapide, Dimensions : 17,8 x 6,8 x 7,2 cm, Couleur : noir
 - Diffusion Bluetooth sans fil : connectez lenceinte jusquà 2 smartphones ou tablettes ; Avec lapplication JBL Portable, le son peut également être amplifié
 - Emportez vos morceaux préférés partout : lenceinte Bluetooth Flip 6 de JBL est compacte avec un son pur offrant des aigus nets et des basses profondes
 - Prêt pour la fête : avec son boîtier étanche à leau et à la poussière conforme à la norme IP67, lenceinte JBL peut être emportée partout et offre jusquà 12 heures de pur plaisir musical
+- Livraison : 1 x Flip 6 JBL enceinte portable sans fil, 1 x câble USB type C, 1 x fiche technique sécurité, 1 x guide de démarrage rapide, Dimensions : 17,8 x 6,8 x 7,2 cm, Couleur : noir
 - Pour obtenir un son stéréo exceptionnel, connectez la Flip 6 à plusieurs enceintes JBL compatibles avec le mode JBL PartyBoost - créez un mur du son épique et rendez chaque soirée inoubliable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

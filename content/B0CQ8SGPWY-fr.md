@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec un manuel dinstructions et une boîte de présentation.
 - Etanche jusquà 1,5 mètres : résistant aux immersions (pour une durée de 30 minutes) mais pas aux sport nautiques (nage, nage sportive) et à la plongée (IP68).
 - Collection ICE smart 2.0
 - Boitier en de taille 1.96 pouces avec bracelet en plastique.
+- Livré avec un manuel dinstructions et une boîte de présentation.
 - Découvrez la ICE smart two: montre connectée qui surfe à la fois sur les tendances actuelles et sur l’ADN de la marque Ice-Watch. Un écran amoled exceptionnel, des watchs faces variées et colorées, en phase avec les prouesses de la marque, ainsi quune pluralité de fonctionnalités qui vous accompagneront dans votre quotidien : de quoi garder votre poignet bien habillé pour chaque moment de vie et chaque saison!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

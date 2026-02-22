@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Branchements masqués pour un look impeccable : Tous les branchements ont été placés au bout du radiateur afin de pouvoir dissimuler le câblage et permettre ainsi de profiter du spectacle des 20 LED RGB sans la moindre distraction
+- Refroidissement de processeur tout-en-un, désormais avec iCUE LINK : Ajoutez un système de refroidissement tout-en-un hautes performances et silencieux pour tirer le plein potentiel de votre processeur, avec désormais un câblage simplifié et masqué grâce à l’écosystème iCUE LINK bientôt breveté.
+- Éclairage imbattable avec les ventilateurs QX RGB : Les ventilateurs PWM CORSAIR QX120 RGB dotés d’un roulement à dôme magnétique bientôt breveté fournissent un flux d’air puissant et silencieux et viennent préinstallés avec un radiateur de 360 mm, chaque ventilateur étant illuminé par 34 LED RGB.
 - Connectivité sans effort et conception intelligente : Mettez à niveau votre configuration avec l’écosystème iCUE LINK bientôt breveté qui vous permet de connecter en série tous vos composants ensemble avec les connecteurs universels, le tout branché sur un seul port du hub iCUE LINK inclus. Concevez plus rapidement, réduisez l’encombrement des câbles et créez un système plus intelligent et cohérent.
 - Watercooling discret avec prise en charge du mode Zero RPM : Déterminez la vitesse exacte de vos ventilateurs jusqu’à 2 000 tr/min avec une commande PWM, ainsi que la prise en charge des signaux PWM à 0 tr/min qui permettent aux ventilateurs de s’arrêter complètement à basse température, éliminant ainsi complètement le bruit du ventilateur
-- Éclairage imbattable avec les ventilateurs QX RGB : Les ventilateurs PWM CORSAIR QX120 RGB dotés d’un roulement à dôme magnétique bientôt breveté fournissent un flux d’air puissant et silencieux et viennent préinstallés avec un radiateur de 360 mm, chaque ventilateur étant illuminé par 34 LED RGB.
-- Refroidissement de processeur tout-en-un, désormais avec iCUE LINK : Ajoutez un système de refroidissement tout-en-un hautes performances et silencieux pour tirer le plein potentiel de votre processeur, avec désormais un câblage simplifié et masqué grâce à l’écosystème iCUE LINK bientôt breveté.
+- Branchements masqués pour un look impeccable : Tous les branchements ont été placés au bout du radiateur afin de pouvoir dissimuler le câblage et permettre ainsi de profiter du spectacle des 20 LED RGB sans la moindre distraction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6PWQ6L3{{</world>}}

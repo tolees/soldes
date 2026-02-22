@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conforme à la norme nf en 12221 (2008) + a1 (2013) plan à langer type 1: convenant aux enfants de moins de 12 mois, jusqu’à 11kg
-- Kit de fixation: 4 butées en pvc + 1 lien en scratch + 5 vis, toise imprimée pour mesurer bébé, adaptable sur lits 120x60 et 140x70, et aussi sur commode
 - Revêtement pvc (sans phtalates)/ dessous: plaque mdf/ garnissage: mousse polyuréthane
+- Kit de fixation: 4 butées en pvc + 1 lien en scratch + 5 vis, toise imprimée pour mesurer bébé, adaptable sur lits 120x60 et 140x70, et aussi sur commode
 - Renfort en mdf 6mm, entretien éponge humide, façade pvc facile à laver
+- Conforme à la norme nf en 12221 (2008) + a1 (2013) plan à langer type 1: convenant aux enfants de moins de 12 mois, jusqu’à 11kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q9V17SX{{</world>}}

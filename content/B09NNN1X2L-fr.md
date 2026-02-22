@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique. Caractérisé par une conception légère, a une pression maximale de 160 bar, un débit maximal de 510 litres par heure et un moteur de 2500 Watt
-- Pistolet, flexible haute pression 8 mètres avec raccords rapides pour lentrée de la pompe et du pistolet, buse VarioJet, buse Turbo et buse éco, système de mousse réglable et accessoire pour nettoyage de sols
 - Idéal pour laver toutes les surfaces extérieures de la maison, pour les voitures, les motos, les vélos, les clôtures, les murs et les sols
+- Pistolet, flexible haute pression 8 mètres avec raccords rapides pour lentrée de la pompe et du pistolet, buse VarioJet, buse Turbo et buse éco, système de mousse réglable et accessoire pour nettoyage de sols
 - Nettoyeur haute pression eau froide avec programmes de lavage WPS (Washing Program System) qui offre le program de lavage le plus adapté à chaque tâche de nettoyage: Programme Délicat, pour mobilier de jardin, surfaces, parasols, vélos; Programme Intermédiaire, pour voitures, quads, motos, caravans, mobilier en matière plastique, murs en crépis, surfaces en brique; Programme Intensif, pour dalles en pierre ou en béton, balustrades, clôtures, outils de jardinage
 - Système de mousse réglable: il est possible de sélectionner la quantité de détergent à distribuer et la largeur du jet aussi. On crée une mousse dense qui adhère à la surface et élimine plus facilement la saleté
 

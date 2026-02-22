@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FACILITÉ ET CONFORT 🗣 Avec Alexa, Google Home ou les raccourcis Siri, demander la température ambiante ou créer une routine à partir de Termo, devient accessible à tous
-- ACCÈS ET CONTRÔLE📲 Grâce à lapp Konyks vous pouvez savoir quelle est la température ambiante de votre maison, ou de votre location que vous y soyez ou que vous soyez de lautre côté de la planète.
-- NOUVEAU : EXPORT DES DONNÉES 📊 La fonction dexportation au format tableur des données de température et dhygrométrie est maintenant disponible
-- SCENARIO ET AUTOMATISATION 🎛 Derrière ces deux mots compliqués se cachent en fait des moyens simples et rapides de faire en sorte que si la température dépasse 21°, le radiateur séteigne automatiquement. Tout cela se fait depuis lapp Konyks très facilement
 - CONFORT ET SANTÉ 🏠Mesure la température et le taux dhumidité de lair ambiant de votre intérieur
+- NOUVEAU : EXPORT DES DONNÉES 📊 La fonction dexportation au format tableur des données de température et dhygrométrie est maintenant disponible
+- ACCÈS ET CONTRÔLE📲 Grâce à lapp Konyks vous pouvez savoir quelle est la température ambiante de votre maison, ou de votre location que vous y soyez ou que vous soyez de lautre côté de la planète.
+- SCENARIO ET AUTOMATISATION 🎛 Derrière ces deux mots compliqués se cachent en fait des moyens simples et rapides de faire en sorte que si la température dépasse 21°, le radiateur séteigne automatiquement. Tout cela se fait depuis lapp Konyks très facilement
 - CONCEPTION ET PRÉCISION 🌡 Termo a un design élégant et discret qui sintègre à tous les décors. Son écran LCD affiche la température et lhumidité avec précision. Il est également doté dun bouton tactile permettant de passer de °C à °F.
+- FACILITÉ ET CONFORT 🗣 Avec Alexa, Google Home ou les raccourcis Siri, demander la température ambiante ou créer une routine à partir de Termo, devient accessible à tous
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GS2MQ1D{{</world>}}

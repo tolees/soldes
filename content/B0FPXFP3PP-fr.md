@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JEU INTERACTIF AVEC LA CATAPULTE – Placez la grenouille de Sorgan sur la catapulte et propulse-la en l’air pour recréer des scènes amusantes de Star Wars : The Mandalorian
-- UNE ACTIVITÉ AMUSANTE À PARTAGER EN FAMILLE – Retrouvez les instructions illustrées étape par étape dans la boîte ou rendez-vous dans l’application LEGO Builder pour découvrir des outils interactifs qui rendent la construction encore plus amusante
 - DÉCORATION DE CHAMBRE – Le set Chez Grogu est une adorable décoration Star Wars pour une chambre denfant, un bureau, une table de chevet ou une étagère
-- FIGURINE DE GROGU ARTICULÉE – Inclut une tête, des bras & des mains mobiles, ainsi que 2 mini constructions, une grenouille de Sorgan, une catapulte, une marmite, 2 tentacules, une guimauve sur un bâton & 2 macarons bleus
 - STIMULEZ LA CRÉATIVITÉ – Les sets LEGO Star Wars pour enfants dès 4 ans permettent de découvrir l’univers ludique de Star Wars : ils apprennent à construire et développent leur imagination à travers le jeu créatif
+- FIGURINE DE GROGU ARTICULÉE – Inclut une tête, des bras & des mains mobiles, ainsi que 2 mini constructions, une grenouille de Sorgan, une catapulte, une marmite, 2 tentacules, une guimauve sur un bâton & 2 macarons bleus
 - CONSTRUIRE ET APPRENDRE – Offrez aux garçons, filles & fans de Star Wars dès 4 ans une première expérience de jeu & de construction inspirante avec le set LEGO Star Wars Chez Grogu, se basant sur la saison 1 de Star Wars : The Mandalorian
 - CADEAU STAR WARS POUR LES JEUNES ENFANTS – Ce jouet de construction Star Wars : The Mandalorian est un joli cadeau LEGO pour un garçon, une fille ou un fan dès 4 ans qui aime les personnages de la galaxie Star Wars
+- UNE ACTIVITÉ AMUSANTE À PARTAGER EN FAMILLE – Retrouvez les instructions illustrées étape par étape dans la boîte ou rendez-vous dans l’application LEGO Builder pour découvrir des outils interactifs qui rendent la construction encore plus amusante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXFP3PP{{</world>}}

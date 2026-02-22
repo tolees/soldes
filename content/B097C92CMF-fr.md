@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mémoire vive 8 Go
-- Carte graphique intégré Radeon Graphics
-- Unité central Huawei
-- Disque dur 256 Go
 - Processeur AMD Ryzen 5 4600G
+- Disque dur 256 Go
+- Unité central Huawei
+- Carte graphique intégré Radeon Graphics
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097C92CMF{{</world>}}

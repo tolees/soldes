@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lot de trois.
+- 71 % coton, 26 % polyester recyclé, 2 % élasthanne, 1 % nylon recyclé.
 - Hauteur cheville.
 - Matelassage sous le pied, notamment au talon et à lavant-pied.
-- 71 % coton, 26 % polyester recyclé, 2 % élasthanne, 1 % nylon recyclé.
-- Lot de trois.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPSWHH47{{</world>}}

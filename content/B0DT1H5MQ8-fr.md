@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - ICONIQUE ET INTEMPOREL : au quotidien ou pour la détente, ce modèle passe-partout se distingue par son confort exceptionnel. Le logo Tommy Hilfiger sur la poitrine attire tous les regards.
 - EXCELLENT CONFORT : grâce à ses lignes indémodables, ce modèle convient à tous types de corps. Jeunes ou moins jeunes, tous aimeront le recevoir en cadeau.
 - CHIC : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Il est très apprécié grâce à sa matière exclusive et à sa coupe classique.
-- MATIÈRE ET ENTRETIEN : 50 % coton Better Cotton Initiative et 50 % polyester recyclé. Lavage en machine.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
+- MATIÈRE ET ENTRETIEN : 50 % coton Better Cotton Initiative et 50 % polyester recyclé. Lavage en machine.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DT1H5MQ8{{</world>}}

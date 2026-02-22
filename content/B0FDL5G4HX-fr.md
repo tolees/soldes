@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Relevez le défi et prenez la carte pour remporter un point : il n’a jamais été aussi simple de marquer
 - Piochez une carte et relevez des défis de difficulté variable, comme Placez un mot de cinq lettres ou Placez un mot sur une case d’angle.
-- Les cartes Objectif comprennent 20 cartes Objectif débutant, 30 cartes Objectif standard et 6 cartes Aide. Atteignez 20 objectifs pour gagner la partie
-- Deux jeux en un ! Jouez au Scrabble comme vous en avez l’habitude
+- Relevez le défi et prenez la carte pour remporter un point : il n’a jamais été aussi simple de marquer
 - Ou retournez le plateau double face et essayez Scrabble Together, un jeu simple et coopératif où les parties s’enchaînent plus rapidement et où l’on marque facilement
 - Dans Scrabble Together, jouez en équipe pour réaliser jusqu’à 50 cartes Objectif qui présentent les bases du Scrabble.
+- Les cartes Objectif comprennent 20 cartes Objectif débutant, 30 cartes Objectif standard et 6 cartes Aide. Atteignez 20 objectifs pour gagner la partie
+- Deux jeux en un ! Jouez au Scrabble comme vous en avez l’habitude
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDL5G4HX{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUEZ À VOTRE FAÇON : choisissez entre le mode Occasionnel et le mode Simulation
-- PARTENAIRES : invitez un ami et patrouillez ensemble
 - GRAND MONDE OUVERT : trois districts composés de plusieurs quartiers chacun, avec leur propre touche distinctive
+- PARTENAIRES : invitez un ami et patrouillez ensemble
+- JOUEZ À VOTRE FAÇON : choisissez entre le mode Occasionnel et le mode Simulation
 - RESPONSABILITÉS : plus de 50 infractions et délits
 - PATROUILLEZ : découvrez le quotidien dun agent de police
 

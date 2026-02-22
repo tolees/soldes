@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble de 1 m.
+- 2 ans de garantie
 - La Connect Cig Socket est un accessoire utile qui augmente le nombre dutilisations du connecteur de batterie CTEK Comfort Connect.
 - Lorsque la Connect Cig Socket est branchée, elle vous permet dutiliser le GPS, des téléphones mobiles, des couvres-volant chauffants, des vêtements chauffants, etc.
-- 2 ans de garantie
+- Câble de 1 m.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002X6DQV4{{</world>}}

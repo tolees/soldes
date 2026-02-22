@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 modes de connexion via Razer HyperSpeed (sans fil 2,4 GHz), Bluetooth ou USB-C: Basculez facilement entre les modes de jeu sans fil à faible latence et Bluetooth, qui vous permet de connecter jusqu’à 3 appareils - Comprend un câble USB-C amovible pour le chargement en cours d’utilisation.
 - Format 65 % pour une performance compacte et élégante: Idéal pour les configurations minimalistes ou plus modestes où l’espace de bureau est important, cette construction compacte conserve ses touches multidirectionnelles pour mieux vous servir.
-- Autonomie de la batterie jusqu’à 200 heures pour une performance longue durée: Profitez d’une utilisation ininterrompue, que ce soit en mode Razer HyperSpeed Wireless ou Bluetooth, et minimisez les temps d’arrêt avec une charge qui passe de 0 à 100 % en moins de 5 heures.
+- 3 modes de connexion via Razer HyperSpeed (sans fil 2,4 GHz), Bluetooth ou USB-C: Basculez facilement entre les modes de jeu sans fil à faible latence et Bluetooth, qui vous permet de connecter jusqu’à 3 appareils - Comprend un câble USB-C amovible pour le chargement en cours d’utilisation.
 - Switchs mécaniques jaunes Razer pour une exécution rapide, fluide et silencieuse: Avec leurs absorbeurs réduisant davantage un profil sonore déjà bas, ces switchs produisent des frappes extrêmement fluides et sont associés à des touches pleine hauteur, pour ne pas compromettre votre expérience de jeu.
+- Autonomie de la batterie jusqu’à 200 heures pour une performance longue durée: Profitez d’une utilisation ininterrompue, que ce soit en mode Razer HyperSpeed Wireless ou Bluetooth, et minimisez les temps d’arrêt avec une charge qui passe de 0 à 100 % en moins de 5 heures.
 - Alimenté par Razer Chroma RGB pour des effets d’éclairage sophistiqués et une immersion accrue: Avec 16,8 millions de couleurs et une suite d’effets, synchronisez son éclairage par touche avec le reste de votre poste de combat, et profitez d’une plus grande immersion, car ce clavier réagit dynamiquement avec plus de 150 jeux intégrés.
 - Touches Pudding Furtives pour un éclairage Razer Chroma RGB translucide: Étant translucides sur leurs côtés pour laisser passer plus de lumière, ces touches en ABS font ressortir toute la brillance de l’éclairage Razer Chroma RGB tout en arborant un look noir furtif lorsqu’elles sont éteintes.
 

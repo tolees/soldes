@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CERTIFIÉE 80 PLUS GOLD - Avec la certification 80 PLUS Gold (jusquà 90 % de rendement), cette alimentation est idéale pour alimenter le matériel très gourmand en énergie, comme les GPU et les CPU.
 - CONCEPTION DURABLE - Cette alimentation est équipée dun ventilateur de 135 mm avec roulement hydrodynamique (FDB) conçu pour une durée de vie plus longue. Les câbles modulaires en alliage de cuivre de haute qualité assurent des performances fiables.
+- DEUX CONNECTEURS 12V-2x6 NATIFS - Équipée de connecteurs PCIe 12V-2x6 natifs, elle peut fournir jusquà 600W de puissance pour prendre en charge les cartes graphiques PCIe 5.1.
+- CERTIFIÉE 80 PLUS GOLD - Avec la certification 80 PLUS Gold (jusquà 90 % de rendement), cette alimentation est idéale pour alimenter le matériel très gourmand en énergie, comme les GPU et les CPU.
 - FONCTIONNEMENT SILENCIEUX - Le niveau sonore moyen est maintenu aussi bas que celui dune nuit paisible, et il dispose également dun mode sans ventilateur pour un fonctionnement encore plus silencieux.
 - FORMAT COMPACT - Le facteur de forme ATX compact de 150x150 mm garantit une installation pratique et facile dans la plupart des boîtiers PC. Cela libère de lespace pour la gestion des câbles et la circulation de lair dans le reste du système.
-- DEUX CONNECTEURS 12V-2x6 NATIFS - Équipée de connecteurs PCIe 12V-2x6 natifs, elle peut fournir jusquà 600W de puissance pour prendre en charge les cartes graphiques PCIe 5.1.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZNQ38Y9{{</world>}}

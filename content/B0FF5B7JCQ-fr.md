@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce coffret thé Noël contient 12 sachets bio en forme de personnages festifs à accrocher au sapin ou à poser sur une table de fête.
+- Des personnes qui plantent notre thé à celles qui lemballent, toutes les personnes impliquées ont à cœur de créer de délicieux thés biologiques que vous pourrez déguster chez vous
 - Une idée cadeau thé de Noël originale et accessible, à offrir ou à s’offrir pour allier plaisir, déco et gourmandise.
 - Présenté avec un joli plateau, ce coffret cadeau de Noël est parfait pour offrir une attention délicate à vos proches.
 - Boîte en carton imprimée à l’encre végétale, sachets pyramides en papier naturel sans colle ni agrafe.
-- Des personnes qui plantent notre thé à celles qui lemballent, toutes les personnes impliquées ont à cœur de créer de délicieux thés biologiques que vous pourrez déguster chez vous
-- Ce coffret thé Noël contient 12 sachets bio en forme de personnages festifs à accrocher au sapin ou à poser sur une table de fête.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FF5B7JCQ{{</world>}}

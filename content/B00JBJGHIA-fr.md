@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CMT 911.040.11 - Fresa recta hwm s=8 d=4x10
-- Cette fraise permet davoir la plus grande précision de coupe et favorise lécoulement, ainsi que lexpulsion du revêtement mélaminé grâce au design unique
-- Longueur totale : 50 mm
 - Longueur de coupe 10 mm
+- Longueur totale : 50 mm
+- Cette fraise permet davoir la plus grande précision de coupe et favorise lécoulement, ainsi que lexpulsion du revêtement mélaminé grâce au design unique
+- CMT 911.040.11 - Fresa recta hwm s=8 d=4x10
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JBJGHIA{{</world>}}

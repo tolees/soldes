@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CUISSON VAPEUR : aide à préserver tous les nutriments pour de délicieux plats sains et faits maison
-- UN ROBOT 4 EN 1 : Cuisson Vapeur Saine, Mixage sur mesure, Réchauffage et Décongélation des petits pots, Préparation homogène
 - BABYCOOK EXPRESS LE PLUS RAPIDE : Le plus rapide de la famille Babycook Grâce à linnovation Béaba, il permet de gagner 25% de temps sur la cuisson
-- CUISSON DES FECULENTS : Grâce au panier pasta rice cooker une cuisson vapeur saine adaptée à tous les féculents (riz, pâtes, blé, lentilles...)
 - CAPACITE : Un de Bol 1 250 ml Un Panier vapeur : 1 000 ml (Cuisson Éco) Et 980 ml (Cuisson Express)
 - UN PRODUIT ECO-CONÇU : Un produit qui permet de limiter son empreinte environnementale avec : -30% de consommation deau et délectricité, en phase dutilisation avec la fonction ECO par rapport au Babycook SOLO. -23% démission de CO2 avec la fonction ECO par rapport au Babycook SOLO
+- CUISSON DES FECULENTS : Grâce au panier pasta rice cooker une cuisson vapeur saine adaptée à tous les féculents (riz, pâtes, blé, lentilles...)
+- UN ROBOT 4 EN 1 : Cuisson Vapeur Saine, Mixage sur mesure, Réchauffage et Décongélation des petits pots, Préparation homogène
 - INNOVATION : Une pale de mélange brevetée pour une cuisson homogène et rapide, et une lame double incurvée pour un mixage optimisé et des textures variées et adaptées à lâge
 - UN REPAS PRÊT EN MOINS DE 15min : avec le mode Express, grâce à la pale brevetée intégrée au bol et ses 2 modes de cuisson (standard et express)
 

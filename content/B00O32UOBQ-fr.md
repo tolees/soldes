@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayon à lèvres longue tenue effet barrière, pour empêcher le rouge à lèvres de filer
-- Texture douce et crémeuse qui offre une glisse idéale
-- Tenue jusquà 12 heures sans retouche
-- Aucune démarcation, permet de couvrir toutes les nuances de Rouge Édition
 - Formule enrichie en beurre de karité et huile de pépins de raisin
+- Texture douce et crémeuse qui offre une glisse idéale
+- Aucune démarcation, permet de couvrir toutes les nuances de Rouge Édition
+- Crayon à lèvres longue tenue effet barrière, pour empêcher le rouge à lèvres de filer
+- Tenue jusquà 12 heures sans retouche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00O32UOBQ{{</world>}}

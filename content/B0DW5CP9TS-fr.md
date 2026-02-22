@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stylo à bille effaçable Bo-Bo, avec Mafalda comme protagoniste
 - Le corps du stylo a un toucher très doux et comprend une gomme à lextrémité opposée du personnage qui permet deffacer rapidement et facilement ce qui est déjà écrit
 - Important : lencre du stylo est effacée uniquement avec cette gomme, elle ne seffacera pas avec dautres matériaux
+- Stylo à bille effaçable Bo-Bo, avec Mafalda comme protagoniste
 - Encre rouge
 
 [🛒 Achète-le!!]({{< param buyurl >}})

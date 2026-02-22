@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double caméra de 8MP avec IA Caméra frontale de 5MP
-- Grand écran HD+ de 6,52’’ Affichage plein écran 20:9
 - Processeur performant faible consommation Stockage extensible jusqu’à 1000Go
+- Grand écran HD+ de 6,52’’ Affichage plein écran 20:9
+- Double caméra de 8MP avec IA Caméra frontale de 5MP
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BW68WVK3{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JEU OPTIMAL : Dotée du mode HDMI 2.1 Auto Low Latency et de la prise en charge VRR, pour des jeux sans latence. Jouez à tous vos jeux préférés ou diffusez en streaming via lapp Twitch.
+- SON DOLBY ATMOS : Les haut-parleurs 20W intégrés et la technologie Dolby Atmos produisent une clarté, une richesse et une profondeur étonnantes pour une expérience audio immersive et cinématographique.
 - SUPPORT MULTI HDR : Avec le support HDR pour Dolby Vision, HDR10 et HLG, OLED 4K offre des couleurs ultra réalistes et un contraste et une luminosité supérieurs pour des visuels vraiment cinématographiques.
 - DESIGN ÉLÉGANT : Design élégant sans bordure qui sharmonise avec nimporte quel intérieur. Le socle à 2 pieds et loption de montage mural permettent de linstaller facilement où vous le souhaitez.
-- SON DOLBY ATMOS : Les haut-parleurs 20W intégrés et la technologie Dolby Atmos produisent une clarté, une richesse et une profondeur étonnantes pour une expérience audio immersive et cinématographique.
-- JEU OPTIMAL : Dotée du mode HDMI 2.1 Auto Low Latency et de la prise en charge VRR, pour des jeux sans latence. Jouez à tous vos jeux préférés ou diffusez en streaming via lapp Twitch.
 - DES IMAGES ÉPOUSTOUFLANTES : Le 4K Colour Engine PRO optimise les zones sombres et lumineuses pour des couleurs réalistes, convertit les contenus HD/FHD en une netteté 4K.
 - ANDROID TV : Android intégré, profitez de Disney+, Netflix, Amazon Prime, YouTube et Google Play, contrôlez votre télé avec votre voix grâce à lAssistant Google et diffusez depuis des appareils intelligents via Chromecast.
 

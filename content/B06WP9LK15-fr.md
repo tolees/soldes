@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 44 pièces dont : 2 bateaux et 3 personnages animaux. Dimensions : 126 X 88cm
-- Fabriqué en Allemagne
-- Circuit de jeu deau Aquaplay. Ce jeu qui se présente en valisette est un circuit pour petits bateaux à construire soi-même
 - Ce super circuit dispose dune grotte et dune cascade pour belles aventures. Facile à monter et à transporter
+- Circuit de jeu deau Aquaplay. Ce jeu qui se présente en valisette est un circuit pour petits bateaux à construire soi-même
+- Fabriqué en Allemagne
 - Convient aux enfants à partir de 3 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

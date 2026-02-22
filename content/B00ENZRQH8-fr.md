@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La molette et la bague sur le barillet permettent dajuster la vitesse du zoom tout en conservant un prise en main sûre.
-- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 7 lamelles qui permet de beaux effets de bokeh
 - INCROYABLEMENT NET : Un design optique complexe qui allie deux verres ED (Très faible dispersion) et trois asphériques, et offre une qualité dimage G même en zoomant
+- La molette et la bague sur le barillet permettent dajuster la vitesse du zoom tout en conservant un prise en main sûre.
 - Cet objectif Sony G pour appareils photo de type E permet de superbes photos ou vidéos avec la flexibilité du zoom motorisé 6x. Ouverture maximale F4 constante du grand angle 18 mm au téléobjectif intermédiaire 105 mm, avec une résolution et un contraste excellents
 - CAPTUREZ TOUS LES DETAILS : Quil sagisse de photos ou de vidéos, la plage focale et la qualité de cet objectif Sony G puissant seront suffisantes pour la plupart des situations de prise de vue, tout en vous offrant lavantage dun zoom motorisé fluide
+- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 7 lamelles qui permet de beaux effets de bokeh
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00ENZRQH8{{</world>}}

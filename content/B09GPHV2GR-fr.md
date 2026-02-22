@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1/ Prépare le plâtre 2/ Verse-le dans le moule à travers la boîte mystère 3/ Patiente quelques heures le temps que les figurines sèches 4/ Démoule et découvre tes personnages préférés 5/ Peins-les pour leur donner vie. Résultat garanti !
 - Moule, découvre & peins tes personnages préférés de la saga HARRY POTTER ! Age minimum : 5 ans. Attention! Cette activité doit se faire sous la surveillance dun adulte.
 - Harry Potter, Hermione et Ron à mouler à laide du plâtre pour développer la créativité et la patience des enfants.
+- 1/ Prépare le plâtre 2/ Verse-le dans le moule à travers la boîte mystère 3/ Patiente quelques heures le temps que les figurines sèches 4/ Démoule et découvre tes personnages préférés 5/ Peins-les pour leur donner vie. Résultat garanti !
 - La boîte contient : 1 sachet de plâtre = 450g, 1 sachet de plâtre de secours = 150g, 3 moules thermo 3D : Harry, Hermione, Ron (réutilisables et recyclables), 1 boîte mystère, 1 barrette de peinture : 6 couleurs, 1 pinceau, 2 spatules en bois, 1 papier à poncer. Hauteur des figurines : 8cm
 - SPÉCIALISTE DES JEUX DEPUIS 1934 : Joustra développe ses gammes de jeux et loisirs créatifs avec un savoir-faire français depuis 1934. Les coffrets Joustra sont de grands classiques des loisirs créatifs, composés daccessoires de qualité, invitant les enfants à exprimer leurs talents au travers du jeu, quel que soit leur âge.
 

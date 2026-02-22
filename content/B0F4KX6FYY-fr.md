@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Escape: Solve thrilling mysteries while exploring a locked environment. When you find the true answer beyond the surface level of logic, the door to escape will open!
+- Somnium: Explore the eccentric dream world of potential suspects to uncover clues and secret memories!
 - Languages: English and Japanese voice, English, Japanese, Simplified Chinese, and Traditional Chinese text.
 - Exclusive item: Includes two exclusive 7.62cm holographic stickers!
 - Investigation: Use the special functions in Dates left eye to gather information that will lead to Iriss whereabouts! Familiar and new characters will also appear!
-- Somnium: Explore the eccentric dream world of potential suspects to uncover clues and secret memories!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4KX6FYY{{</world>}}

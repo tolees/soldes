@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autonomie de la batterie jusqu’à 200 heures pour une performance longue durée: Profitez d’une utilisation ininterrompue, que ce soit en mode Razer HyperSpeed Wireless ou Bluetooth, et minimisez les temps d’arrêt avec une charge qui passe de 0 à 100 % en moins de 5 heures.
-- Technologie Razer HyperSpeed Wireless pour jouer sans fil et sans latence: Optez pour une performance sans fil parfaite pour les jeux, ou connectez jusqu’à trois appareils en Bluetooth, et passez facilement de l’un à l’autre avec un seul bouton. Comprend un câble USB-C amovible pour le chargement en cours d’utilisation.
 - Format 65 % pour une performance compacte et élégante: Idéal pour les configurations minimalistes ou plus modestes où l’espace de bureau est important, cette construction compacte conserve ses touches multidirectionnelles pour mieux vous servir.
 - Touches ABS à double injection pour une meilleure résistance à un usage intensif: Grâce à un procédé de moulage à double injection garantissant que les caractères ne s’effacent jamais, les touches ont également des parois extra épaisses qui les rendent extrêmement résistants aux longues pressions répétées.
+- Technologie Razer HyperSpeed Wireless pour jouer sans fil et sans latence: Optez pour une performance sans fil parfaite pour les jeux, ou connectez jusqu’à trois appareils en Bluetooth, et passez facilement de l’un à l’autre avec un seul bouton. Comprend un câble USB-C amovible pour le chargement en cours d’utilisation.
 - Switchs mécaniques verts Razer pour une exécution précise et une sensation tactile et sonore: Entendez et ressentez le retour satisfaisant de chaque frappe grâce à une mécanique optimisée pour le jeu : les touches classiques pleine hauteur ne compromettent pas l’expérience de jeu.
+- Autonomie de la batterie jusqu’à 200 heures pour une performance longue durée: Profitez d’une utilisation ininterrompue, que ce soit en mode Razer HyperSpeed Wireless ou Bluetooth, et minimisez les temps d’arrêt avec une charge qui passe de 0 à 100 % en moins de 5 heures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08Z8JZMDQ{{</world>}}

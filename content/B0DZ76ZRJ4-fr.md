@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EMPORTEZ LA MUSIQUE AVEC VOUS : La puissance de lenceinte est impressionnante tout comme son aspect portable. Avec une bandoulière amovible, cette enceinte sans fil est facile à emporter partout et fonctionne à lhorizontale et à la verticale.
 - APPUYEZ SUR LE BOUTON. VIBREZ AVEC LES BASSES : ULT FIELD 5 dispose de deux modes sonores ULT, disponibles par simple pression dun bouton : Deep Bass (pour une grande profondeur de résonance) et Attack Bass (pour une pression sonore accrue).
+- EMPORTEZ LA MUSIQUE AVEC VOUS : La puissance de lenceinte est impressionnante tout comme son aspect portable. Avec une bandoulière amovible, cette enceinte sans fil est facile à emporter partout et fonctionne à lhorizontale et à la verticale.
 - SON PUISSANT, BASSES MASSIVES : Un woofer haute performance et deux tweeters à large bande produisent un son impressionnant avec du punch ; deux radiateurs passifs ajoutent de la profondeur. Adaptez votre son grâce à légaliseur 10 bandes de lapplication.
 - DECOUVREZ ULT FIELD 5 : Sappuyant sur des décennies dexpertise audio Sony pour offrir un son percutant et enveloppant à partir dun design portable. Personnalisez votre expérience avec lapplication Sony | Sound Connect
 - SON PUISSANT, TOUTE LA JOURNÉE ET TOUTE LA NUIT : Profitez dune autonomie de 25 heures - ULT FIELD 5 peut même servir de powerbank pour charger vos appareils USB. La charge rapide permet une écoute de 100 minutes à partir dune charge de 10 minutes.

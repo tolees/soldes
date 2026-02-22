@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr.Wonderful - Mini ventilateur portable - Marguerite rose - Petit ventilateur à main à 3 vitesses - Chargeur inclus - Idéal à transporter dans votre sac'
-date: 2026-02-21 23:58:42
+date: 2026-02-22 00:37:07
 image: 'https://m.media-amazon.com/images/I/31k5MhD623L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0DZWCQ3KF/?tag=tolees0d-21'
 descuento: '24.24'
-average: '7.066'
+average: '7.03761904761905'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques techniques : Capacité de la batterie : 300 mah Tension : 5 V/3,7 V. Temps de charge complète : 2 heures
 - Comprend une batterie au lithium fixe, dont la durée de vie est suffisante pour rester allumée pendant 1 à 2 heures. Comprend un chargeur
 - Ventilateur portatif, portable, de petite taille, idéal à transporter dans votre sac et à rafraîchir si nécessaire
+- Caractéristiques techniques : Capacité de la batterie : 300 mah Tension : 5 V/3,7 V. Temps de charge complète : 2 heures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZWCQ3KF{{</world>}}

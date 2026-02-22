@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Commande à distance APP】：Téléchargez gratuitement lapplication "Smart Life" ou "TuyaSmart", et connectez-vous au Wi-Fi 2,4 GHz pour vous connecter rapidement à la prise connectée wifi. Vous pouvez vérifier la consommation dénergie et contrôler lappareil à tout moment, nimporte où sur votre téléphone mobile.
-- 【Commande Vocale】：La prise wifi connectée est compatible avec Alexa, Google Home et SmartThings. Vous pouvez allumer ou éteindre les appareils connectés à la prise intelligente à laide de simples commandes vocales, par exemple : "Alexa, allume la lumière de la chambre".
 - 【Contrôle de groupe + partage】：Vous pouvez configurer plusieurs appareils en tant que "groupe" afin de pouvoir les contrôler avec "une seule touche". Vous pouvez également partager lappareil avec les membres de la famille. prise wifi permet à plusieurs utilisateurs de contrôler un appareil en même temps.
 - 【Haute qualité】：La coque de la prise connectée alexa est fabriquée à partir de matériaux ignifuges de haute qualité, a passé les certifications CE et ROHS et dispose dune fonction de protection contre les surcharges. Nous offrons un service de garantie de 2 ans pour assurer une sécurité à 100 % pour votre vie de maison intelligente.
 - 【Temporisé】：Laprise consommation electrique possède une fonction de minuterie et de compte à rebours. Vous pouvez prérégler lheure dans lapplication et lappareil (par exemple le four à micro-ondes) sallumera ou séteindra automatiquement lorsque le temps sera écoulé.
+- 【Commande Vocale】：La prise wifi connectée est compatible avec Alexa, Google Home et SmartThings. Vous pouvez allumer ou éteindre les appareils connectés à la prise intelligente à laide de simples commandes vocales, par exemple : "Alexa, allume la lumière de la chambre".
+- 【Commande à distance APP】：Téléchargez gratuitement lapplication "Smart Life" ou "TuyaSmart", et connectez-vous au Wi-Fi 2,4 GHz pour vous connecter rapidement à la prise connectée wifi. Vous pouvez vérifier la consommation dénergie et contrôler lappareil à tout moment, nimporte où sur votre téléphone mobile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D2WW923S{{</world>}}

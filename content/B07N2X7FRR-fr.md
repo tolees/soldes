@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ELEGANTE ET DESIGN : Conçue pour plaire aux amateurs de Nespresso et aux fans de design, Citiz est un mélange de haute technologie et d’inspiration rétro-moderne
+- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - INCLUS : un welcome set de 7 capsules avec les ingrédients café torréfié et moulu, arôme naturel ; contient des quantités négligeables dénergie, de matières grasses, de glucides, de protéines et de sel ; conditionné sous atmosphère protectrice
 - UN ASSORTIMENT DE CAPSULES OFFERT : avec quatre tailles de tasse, de l’espresso au mug, il ne vous reste plus qu’à choisir votre café Nespresso préféré, à l’insérer et, d’une simple touche à préparer votre café
-- ECONOMIE DENERGIE : un mode éco après 2 minutes d’inactivité et un mode arrêt automatique après 9 minutes d’inactivité, permettant des économies d’énergie
-- ELEGANTE ET DESIGN : Conçue pour plaire aux amateurs de Nespresso et aux fans de design, Citiz est un mélange de haute technologie et d’inspiration rétro-moderne
 - 2 TAILLES DE TASSE AVEC ARRET AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
-- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- ECONOMIE DENERGIE : un mode éco après 2 minutes d’inactivité et un mode arrêt automatique après 9 minutes d’inactivité, permettant des économies d’énergie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N2X7FRR{{</world>}}

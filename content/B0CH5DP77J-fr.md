@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Il supporte le jeu à 2 joueurs grâce à son port USB pour connecter une manette en plus. C’est plus amusant de partager votre expérience de jeu avec votre famille ou vos amis.
+- Le Mini Bartop Arcade VISCO contient 12 jeux préinstallés, une collection de grands classiques du célèbre studio Japonais ayant fait les beaux jours de la Neo Geo SNK et des salles d’Arcade pendant une des plus glorieuse époque de l’histoire des jeux vidéo !
 - Un design soigné et fidèle à l’esprit rétro qui rend hommage aux licences Visco des années 90. Conçu et fabriqué par les créateurs du déjà célèbre Bartop MVSX de SNK
 - Découvrez ou rejouez au shoot’em Up mythique Andro Dunos, L’éternel Ganryu, l’inimitable Breaker’s Revenge ou encore Neo Drift Out et Captain Tomaday il y en a pour tous les goûts et pour de longues heures de jeu « vintage » !
-- Le Mini Bartop Arcade VISCO contient 12 jeux préinstallés, une collection de grands classiques du célèbre studio Japonais ayant fait les beaux jours de la Neo Geo SNK et des salles d’Arcade pendant une des plus glorieuse époque de l’histoire des jeux vidéo !
 - Il est équipé d’un écran HD LCD de 8 pouces (20cm), d’un panel Stick + 4 boutons aux normes standards de l’Arcade, d’un port USB, d’une sortie HDMI et d’une sortie audio stéréo.
-- Il supporte le jeu à 2 joueurs grâce à son port USB pour connecter une manette en plus. C’est plus amusant de partager votre expérience de jeu avec votre famille ou vos amis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CH5DP77J{{</world>}}

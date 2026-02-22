@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une machine à café compacte et légère
-- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- Préchauffage rapide en 25 secondes
+- Arrêt automatique après 9 minutes dinutilisation
 - Un assortiment de 14 capsules offert
 - 2 tailles de tasse : Espresso et Lungo
-- Arrêt automatique après 9 minutes dinutilisation
+- Préchauffage rapide en 25 secondes
+- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- Une machine à café compacte et légère
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CV1RHZX{{</world>}}

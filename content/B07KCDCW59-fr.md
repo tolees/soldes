@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Pour grains de café torréfiés uniquement, Nettoyage avec un chiffon sec et doux, Moulin garanti 5 ans, Mécanisme garanti sans limitation de durée, Made in France
 - Contenu : 1x Peugeot Moulin à café Kronos, Taille : 19 cm, Matière : Inox/PBT, 35853
-- Remplissage facile et mouture minute pour un café toujours fraîchement moulu, Réservoir très grande capacité accueillant jusquà 50 g de café
 - 43 positions de réglage adaptées à chaque type de préparation, du café turc (réglage le plus fin) à linfusion à froid (réglage le plus gros)
 - Moulin à café manuel contemporain avec mécanisme en acier de haute qualité pour une mouture performante. Réglage de mouture précis et innovant par la roue crantée
+- Remplissage facile et mouture minute pour un café toujours fraîchement moulu, Réservoir très grande capacité accueillant jusquà 50 g de café
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KCDCW59{{</world>}}

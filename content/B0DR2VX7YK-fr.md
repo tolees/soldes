@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : 53 % polyamide, 40 % polyester recyclé, 7 % cuir de vachette
-- Semelle extérieure : 45 % caoutchouc - 38 % EVA - 17 % caoutchouc naturel
 - Matériau extérieur : 100 % cuir de vachette
 - Couleur : noir
+- Doublure : 53 % polyamide, 40 % polyester recyclé, 7 % cuir de vachette
+- Semelle extérieure : 45 % caoutchouc - 38 % EVA - 17 % caoutchouc naturel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DR2VX7YK{{</world>}}

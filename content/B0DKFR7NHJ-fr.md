@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RECETTES NATURELLES ET BIO : Tous les sachets sont non blanchis, sans plastique et fabriqués à partir d’ingrédients naturels issus de l’agriculture biologique pour un goût authentique
-- NATUREL, ÉTHIQUE ET DÉLICIEUX : Clipper conçoit ses produits, pour des infusions toujours plus savoureuses et engagées
 - COFFRET DÉCOUVERTE INFUSIONS ET THÉS BIO CLIPPER : Ce coffret cadeau Clipper propose une sélection de 9 saveurs variées mêlant thés verts, thés blancs et infusions, pour un moment de plaisir à chaque tasse
-- CONSEILS DE PRÉPARATION : Pour savourer chaque infusion dans les meilleures conditions, faites bouillir de l’eau fraîche, versez-la sur le sachet et laissez infuser entre 2 et 5 minutes selon votre préférence
 - 9 SAVEURS À DÉGUSTER : Citron et gingembre, Heure du coucher, Camomille et pêche, Menthe poivrée et menthe verte, Thé blanc et framboise, Thé vert et citron, Gingembre et curcuma, Cassis et myrtille, Framboise et hibiscus
+- CONSEILS DE PRÉPARATION : Pour savourer chaque infusion dans les meilleures conditions, faites bouillir de l’eau fraîche, versez-la sur le sachet et laissez infuser entre 2 et 5 minutes selon votre préférence
+- NATUREL, ÉTHIQUE ET DÉLICIEUX : Clipper conçoit ses produits, pour des infusions toujours plus savoureuses et engagées
+- RECETTES NATURELLES ET BIO : Tous les sachets sont non blanchis, sans plastique et fabriqués à partir d’ingrédients naturels issus de l’agriculture biologique pour un goût authentique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DKFR7NHJ{{</world>}}

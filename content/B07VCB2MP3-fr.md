@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure amovible recouverte de textile pour davantage de confort et un chaussant personnalisable
 - Les lacets en textile s’ajustent facilement pour un maintien parfait
 - La doublure textile offre douceur et respirabilité
-- Les détails perforés ajoutent de la texture au look décontracté
 - La semelle légère offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
+- Semelle intérieure amovible recouverte de textile pour davantage de confort et un chaussant personnalisable
+- Les détails perforés ajoutent de la texture au look décontracté
 - Confectionnée en cuir pleine fleur produit dans nos propres tanneries, ou en daim de veau doux avec détails en textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

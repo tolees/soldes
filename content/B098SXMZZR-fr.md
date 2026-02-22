@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Sacs invisibles – Conçue pour une utilisation avec ou sans sac poubelle, cette poubelle cache entièrement le sac sous son couvercle. Des sacs 100% compostables assortis sont disponibles (code A)
 - Un choix durable – La poubelle recyclage Sort & Go de Brabantia est certifiée Cradle-to-Cradle (niveau Argent), fabriquée en plastique et 100% recyclable après utilisation (garantie 10 ans incluse)
 - Compact – Cette poubelle Brabantia XL (40 L) se glisse dans tous les espaces, même sur un plan de travail ou contre un mur (support vendu séparément), convenant parfaitement à un grand foyer
-- Tri sélectif – Cette poubelle rectangulaire XL a un compartiment unique et est idéale pour jeter les épluchures, les restes, ainsi que les déchets alimentaires et organiques de cuisine
 - Vidage rapide – La poubelle de tri intègre une poignée de transport, un couvercle amovible qui reste ouvert et une prise au-dessous pour faciliter le déversement dans un composteur ou un bac à déchet
+- Tri sélectif – Cette poubelle rectangulaire XL a un compartiment unique et est idéale pour jeter les épluchures, les restes, ainsi que les déchets alimentaires et organiques de cuisine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098SXMZZR{{</world>}}

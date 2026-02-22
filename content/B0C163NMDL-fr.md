@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Préparez-vous à explorer : Accédez grâce à la Wi-Fi à plus de 300 services de streaming via AirPlay, Alexa MRM et Chromecast built-in ; profitez de vos contenus audio favoris
-- Contenu de la boîte : 1 x barre de son, 2 x haut-parleurs surround sans fil détachables, 1 x caisson de basses sans fil, 1 x télécommande avec 2 piles, 1 x câbles d’alimentation, 1 x câble HDMI
 - Application JBL One : L’application JBL One vous aide à configurer la barre de son, à personnaliser les paramètres et à parcourir les services musicaux pour trouver votre nouvelle chanson préférée
+- Contenu de la boîte : 1 x barre de son, 2 x haut-parleurs surround sans fil détachables, 1 x caisson de basses sans fil, 1 x télécommande avec 2 piles, 1 x câbles d’alimentation, 1 x câble HDMI
+- Préparez-vous à explorer : Accédez grâce à la Wi-Fi à plus de 300 services de streaming via AirPlay, Alexa MRM et Chromecast built-in ; profitez de vos contenus audio favoris
 - Un système sonore complet : la JBL 1300 Bar est équipée de MultiBeam et de six haut-parleurs puissants, quatre dans la barre et deux dans les enceintes amovibles, pour un son Dolby Atmos et DTS:X 3D
 - Enceinte Bluetooth autonome : Appairez l’une des enceintes amovibles à n’importe quel appareil Bluetooth pour l’utiliser comme enceinte autonome, ou appairez-les ensemble pour un son stéréo puissant
 

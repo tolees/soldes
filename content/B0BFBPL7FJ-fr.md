@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Installez-vous dans une superbe ville fantastique sous les traits d’un jeune aventurier portant un secret monstrueux dans Rune Factory 3, remastérisé pour la nouvelle génération sur Nintendo Switch.
+- Combats RPG trépidants : Maniez des épées, des lances, des marteaux et même la magie pour affronter des monstres puissants. Recrutez des citadins et des monstres et partez explorer des donjons regorgeant de dangers.
+- Une aventure se déroulant dans deux mondes : Incarnez Micah, un jeune homme frappé d’amnésie et capable de se transformer en monstre étrange aux airs de mouton, dans une quête pour faire coexister les humains et les monstres.
 - En plus du jeu, lédition limitée contient les bonus suivants : Carnet A5 de 140 pages - Autocollants de personnages - Pins Micah - Écusson tissé - Mode "maillot de bain" dans le jeu - Boîte extérieure sur mesure
 - Semez les graines de votre nouvelle vie : Détendez-vous après une longue journée d’aventures en multipliant les activités telles que l’agriculture ou la pêche ! Découvrez les nombreuses variétés de graines magiques produisant des cultures étranges qui rendront votre aventure encore plus amusante et trépidante !
-- Une aventure se déroulant dans deux mondes : Incarnez Micah, un jeune homme frappé d’amnésie et capable de se transformer en monstre étrange aux airs de mouton, dans une quête pour faire coexister les humains et les monstres.
-- Combats RPG trépidants : Maniez des épées, des lances, des marteaux et même la magie pour affronter des monstres puissants. Recrutez des citadins et des monstres et partez explorer des donjons regorgeant de dangers.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFBPL7FJ{{</world>}}

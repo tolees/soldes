@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JOUER AU DENTISTE AVEC PLAY-DOH : Les enfants peuvent faire tirer la langue Play-Doh du patient et créer une rangée de dents en une seule fois grâce au moule dentaire
+- 8 POTS DE PÂTE INCLUANT COULEUR CARIE : Jouer au dentiste Play-Doh nest pas une expérience complète sans les bonnes couleurs ! Pots de 56 grammes de pâte blanche, rouge, verte, dorée, argentée et de pâte à carie (blanche à grains verts)
 - ACCESSOIRES DE SOINS DENTAIRES : Ce kit de dentiste inclut 10 outils amusants, comme une brosse à dents pour comprimer le dentifrice Play-Doh, un porte-fil dentaire, une pince et un miroir
 - DES BROCHES ET DES DENTS PLAY-DOH AUX COULEURS MÉTALLIQUES : La pâte à modeler Play-Doh argentée ou dorée est parfaite pour créer des broches avec le rouleau et boucher les trous des dents cariées avec lextrudeur-seringue
 - PERCER ET BOUCHER LES DENTS PLAY-DOH : Avec ce jouet Play-Doh les enfants peuvent éliminer les caries avec la fraise manuelle, puis boucher les trous avec lextrudeur-seringue pour des dents saines
-- 8 POTS DE PÂTE INCLUANT COULEUR CARIE : Jouer au dentiste Play-Doh nest pas une expérience complète sans les bonnes couleurs ! Pots de 56 grammes de pâte blanche, rouge, verte, dorée, argentée et de pâte à carie (blanche à grains verts)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08F2NJYRQ{{</world>}}

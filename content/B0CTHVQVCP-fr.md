@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une ville sans limites – LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination, avec des structures, des véhicules et des habitants qui les invitent à construire, créer, explorer et jouer
-- Pour les enfants qui aiment le jeu d’imagination – Les filles et les garçons peuvent faire tourner l’affichage de la destination et choisir entre le centre-ville, le port, le musée ou le parc de LEGO City
-- Autres sets LEGO City à collectionner – Les enfants peuvent multiplier les options de jeu et pimenter leurs aventures en combinant ce set avec d’autres modèles de la gamme LEGO City (vendus séparément) pour jouer entre amis ou en famille
 - Bus rouge à deux étages – Les fans de véhicules LEGO pour enfants vont adorer Le bus rouge à deux étages LEGO City, pour les garçons et les filles à partir de 7 ans qui aiment le jeu de rôle et les transports en commun
+- Pour les enfants qui aiment le jeu d’imagination – Les filles et les garçons peuvent faire tourner l’affichage de la destination et choisir entre le centre-ville, le port, le musée ou le parc de LEGO City
+- Une ville sans limites – LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination, avec des structures, des véhicules et des habitants qui les invitent à construire, créer, explorer et jouer
 - Jouet LEGO City avec des accessoires amusants – Ce bus inclut des minifigurines LEGO invitant au jeu d’imitation, dont un micro, un téléphone et un appareil photo, pour une activité enrichissante et créative
+- Autres sets LEGO City à collectionner – Les enfants peuvent multiplier les options de jeu et pimenter leurs aventures en combinant ce set avec d’autres modèles de la gamme LEGO City (vendus séparément) pour jouer entre amis ou en famille
 - Cadeau amusant pour les enfants – Offrez ce bus rouge LEGO à l’occasion des fêtes ou d’un anniversaire aux garçons et aux filles de 7 ans et plus qui aiment le loisir créatif et les véhicules pour enfants
 - Que contient la boîte ? – Ce set inclut tout ce dont les enfants ont besoin pour construire un bus à deux étages, avec un étage supérieur ouvert, ainsi que 5 minifigurines, dont un bébé avec une poussette, favorisant un jeu de rôle amusant
 

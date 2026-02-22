@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure 100% recyclée
-- Cuir imperméable de première qualité
-- Col confort rembourré
-- OrthoLite Eco
 - Bande de renfort 100% RPET et renfort de col
+- OrthoLite Eco
+- Col confort rembourré
+- Cuir imperméable de première qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095HZR7ZW{{</world>}}

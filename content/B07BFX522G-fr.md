@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Déguisement sous licence officielle Star Wars
 - Une combinaison en jersey noire imprimée avec couvre-bottes intégrés
 - Une longue cape en tissu noir
 - Une ceinture en mousse imprimée avec fermeture velcro
-- Déguisement sous licence officielle Star Wars
-- Un masque en PVC à lâ€effigie de Dark Vador avec attache élastique à lâ€arrière
 - Taille L, 7 à 8 ans, pour les enfants mesurant entre 117 à 128cm
+- Un masque en PVC à lâ€effigie de Dark Vador avec attache élastique à lâ€arrière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BFX522G{{</world>}}

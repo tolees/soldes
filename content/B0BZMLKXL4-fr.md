@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 𝐄𝐭𝐚𝐧𝐜𝐡𝐞 𝐈𝐏𝟔𝟓 - Offre dexcellentes performances détanchéité à leau et à la poussière pour une utilisation extérieure.
-- 𝐕𝐢𝐬𝐢𝐨𝐧 𝐧𝐨𝐜𝐭𝐮𝐫𝐧𝐞 𝐞𝐧 𝐜𝐨𝐮𝐥𝐞𝐮𝐫𝐬 - Révèle des images en couleurs de nuit grâce aux projecteurs intégrés.
-- 𝐒𝐮𝐢𝐯𝐢 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐝𝐞𝐬 𝐦𝐨𝐮𝐯𝐞𝐦𝐞𝐧𝐭𝐬 - La Tapo C510W suit les mouvements avec une rotation à grande vitesse, vous permettant de garder un œil sur des zones plus vitales.
-- 𝐂𝐨𝐮𝐯𝐞𝐫𝐭𝐮𝐫𝐞 𝐯𝐢𝐬𝐮𝐞𝐥𝐥𝐞 à 𝟑𝟔𝟎° - Fournit une plage de vision horizontale à 360° et verticale à 130° pour capturer tout ce qui se trouve autour.
-- 𝐒𝐭𝐨𝐜𝐤𝐚𝐠𝐞 𝐥𝐨𝐜𝐚𝐥 𝐞𝐭 𝐂𝐥𝐨𝐮𝐝 - Enregistrez les vidéos enregistrées sur une carte microSD ( jusquà 512 Go ) ou en utilisant les services Cloud Tapo Care ** .
 - 𝐑é𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝟐𝐊 𝟑𝐌𝐏 - Avec une résolution de 2304×1296 px, la Tapo C510W améliore votre sécurité en capturant plus de détails par rapport au 1080p traditionnel.
+- 𝐕𝐢𝐬𝐢𝐨𝐧 𝐧𝐨𝐜𝐭𝐮𝐫𝐧𝐞 𝐞𝐧 𝐜𝐨𝐮𝐥𝐞𝐮𝐫𝐬 - Révèle des images en couleurs de nuit grâce aux projecteurs intégrés.
 - 𝐃é𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐠𝐫𝐚𝐭𝐮𝐢𝐭𝐞 - LIA intelligente identifie une personne et vous avertit si nécessaire. Vous pouvez également configurer des zones dactivité ou des limites personnalisables pour ne recevoir que les alertes importantes.
+- 𝐂𝐨𝐮𝐯𝐞𝐫𝐭𝐮𝐫𝐞 𝐯𝐢𝐬𝐮𝐞𝐥𝐥𝐞 à 𝟑𝟔𝟎° - Fournit une plage de vision horizontale à 360° et verticale à 130° pour capturer tout ce qui se trouve autour.
 - 𝐀𝐥𝐚𝐫𝐦𝐞 𝐬𝐨𝐧𝐨𝐫𝐞 𝐞𝐭 𝐥𝐮𝐦𝐢𝐧𝐞𝐮𝐬𝐞 𝐩𝐞𝐫𝐬𝐨𝐧𝐧𝐚𝐥𝐢𝐬𝐚𝐛𝐥𝐞 - Enregistrez votre propre audio comme alarme et ajustez la luminosité pour votre utilisation personnalisée.
+- 𝐒𝐭𝐨𝐜𝐤𝐚𝐠𝐞 𝐥𝐨𝐜𝐚𝐥 𝐞𝐭 𝐂𝐥𝐨𝐮𝐝 - Enregistrez les vidéos enregistrées sur une carte microSD ( jusquà 512 Go ) ou en utilisant les services Cloud Tapo Care ** .
+- 𝐒𝐮𝐢𝐯𝐢 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐝𝐞𝐬 𝐦𝐨𝐮𝐯𝐞𝐦𝐞𝐧𝐭𝐬 - La Tapo C510W suit les mouvements avec une rotation à grande vitesse, vous permettant de garder un œil sur des zones plus vitales.
+- 𝐄𝐭𝐚𝐧𝐜𝐡𝐞 𝐈𝐏𝟔𝟓 - Offre dexcellentes performances détanchéité à leau et à la poussière pour une utilisation extérieure.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZMLKXL4{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu: 1x Columbia Facet 15, Chaussures de Randonnée pour Homme, Taille: 48 EU, Couleur: Vert (Green)
 - Chaussures de randonnée Columbia Konos TRS Outdry pour homme conçues pour les sentiers de montagne, les paysages accidentés et les aventures humides
+- Contenu: 1x Columbia Facet 15, Chaussures de Randonnée pour Homme, Taille: 48 EU, Couleur: Vert (Green)
 - Système Omni-Max Plus avec semelle intercalaire Techlite+ pour un équilibre optimal et des dômes absorbant les chocs
 - Conception imperméable et respirante OutDry, Semelle Adapt Trax qui offre une adhérence supérieure et Système Navic Fit pour un maintien naturel du médio-pied
 - Tige en maille technique avec renforts sans coutures pour plus de durabilité et de maintien, conçue pour allier vitesse et confort

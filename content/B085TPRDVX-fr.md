@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - IDENTIFICATION DE LAPPELANT, BLOCAGE DES APPELS INDÉSIRABLES ET NE PAS DÉRANGER: Visualisez les appels (abonnement requis), mémoire didentification de 50 éléments et blocage des appels indésirables; Mode "Ne pas déranger" vous permet de garder le silence lorsque vous en avez besoin
-- RÉPERTOIRE ET MÉMOIRE DE RAPPEL: Simplifiez vos appels grâce au répertoire pouvant contenir jusquà 200 noms et numéros; Utilisez la mémoire de rappel pour recomposer les 10 derniers numéros
+- MAINS LIBRES, TOUCHES VOLUME ET SON CLAIR: Fonction mains libres, touches de volume latérales réglables et fonctions de son clair et de volume amélioré
 - BATTERIE LONGUE DURÉE ET MODES ÉCO: 14 h dautonomie en conversation, 250 h en veille et un temps de charge de 7 h; Le mode Éco et le mode Éco Plus minimisent la consommation dénergie
 - RÉPONDEUR NUMÉRIQUE: Répondeur intégré et système de RÉPONDEUR avancé, avec compteur de messages et jusquà 40 minutes denregistrement
-- MAINS LIBRES, TOUCHES VOLUME ET SON CLAIR: Fonction mains libres, touches de volume latérales réglables et fonctions de son clair et de volume amélioré
+- RÉPERTOIRE ET MÉMOIRE DE RAPPEL: Simplifiez vos appels grâce au répertoire pouvant contenir jusquà 200 noms et numéros; Utilisez la mémoire de rappel pour recomposer les 10 derniers numéros
 - AFFICHAGE EN COULEUR FACILE À LIRE: Grande clarté grâce à lécran LCD FullDot TFT Colour de 4,57 cm et aux touches éclairées, pour une bonne visibilité même dans lobscurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

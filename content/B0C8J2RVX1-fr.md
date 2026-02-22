@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Créez un kit d’objectifs f/2.8 en complétant ce zoom téléobjectif NIKKOR Z 70-180mm f/2.8 avec le NIKKOR Z 17-28mm f/2.8 et le NIKKOR Z 28-75mm f/2.8 (filtres 67 mm)
 - COMPACT, LÉGER ET RÉSISTANT
 - compatibles TÉLÉCONVERTISSEURS Z
-- Créez un kit d’objectifs f/2.8 en complétant ce zoom téléobjectif NIKKOR Z 70-180mm f/2.8 avec le NIKKOR Z 17-28mm f/2.8 et le NIKKOR Z 28-75mm f/2.8 (filtres 67 mm)
-- OUVERTURE LUMINEUSE F/2.8 CONSTANTE
 - GROS PLANS NETS, la distance minimale de mise au point n’est que de 0,27 m avec la focale la plus courte (70 mm), et de 0,85 m quand vous zoomez à 180 mm.
+- OUVERTURE LUMINEUSE F/2.8 CONSTANTE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8J2RVX1{{</world>}}

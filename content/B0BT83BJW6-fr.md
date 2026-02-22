@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- en acier galvanisé, pour grillage ou mur de 6 à 30 mm dépaisseur
 - Fabriqué en France
-- Facile à poser
 - Garantie 10 ans contre la corrosion
 - acier galvanisé pré-laqué et gabarits de pose
+- Facile à poser
 - adapté aux boîtes aux lettres NF BURG-WÄCHTER , taille standard
-- en acier galvanisé, pour grillage ou mur de 6 à 30 mm dépaisseur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT83BJW6{{</world>}}

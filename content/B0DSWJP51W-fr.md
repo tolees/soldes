@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MATIÈRE ET ENTRETIEN : 100 % coton régénératif. Lavage en machine.
-- SOBRIÉTÉ ET ÉLÉGANCE : ce t-shirt moderne, qui séduit par son col classique, vous offre un confort absolu. Les deux boutons et le branding Tommy Jeans subliment votre look.
+- DESIGN HAUT DE GAMME : ce haut casual, aux lignes modernes mais indémodables, est un basique à avoir dans sa garde-robe. À offrir sans modération.
 - STREETWEAR RÉINTERPRÉTɠ: Tommy Jeans s’inspire des icônes du hip-hop des années 90 pour transmettre ses grands classiques à la génération suivante, et ce, en misant sur une qualité exceptionnelle, une coupe décontractée et un denim omniprésent.
 - EXCELLENT CONFORT : ce t-shirt en coton, aux lignes épurées, est très agréable à porter et convient à tous types de corps.
-- DESIGN HAUT DE GAMME : ce haut casual, aux lignes modernes mais indémodables, est un basique à avoir dans sa garde-robe. À offrir sans modération.
+- MATIÈRE ET ENTRETIEN : 100 % coton régénératif. Lavage en machine.
+- SOBRIÉTÉ ET ÉLÉGANCE : ce t-shirt moderne, qui séduit par son col classique, vous offre un confort absolu. Les deux boutons et le branding Tommy Jeans subliment votre look.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSWJP51W{{</world>}}

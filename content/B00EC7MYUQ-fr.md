@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type dalimentation: electrique
 - Parfaitement équipé et équilibré, ce compresseur est le compresseur préféré des bricoleurs et les pros
 - Doté dun groupe de compression performant de 2,5 hp, cest le plus compact et pratique des compresseurs 100 l du marché. Grâce à son large guidon et ses grandes roues avant, il est maniable et se faufilera dans tous les garages
-- Type dalimentation: electrique
 - Idéal pour souffler/nettoyer, gonfler, pulvériser, laver, agrafer, clouer, buriner, visser/dévisser, peindre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

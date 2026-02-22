@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des modèles de voitures à construire, pour jouer et décorer une pièce – Les sets LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-uns des véhicules les plus mythiques au monde
-- Des courses de voitures encore plus palpitantes – Découvrez les autres répliques de voitures en briques LEGO Speed Champions à construire (sets vendus séparément), regorgeant de détails réalistes pour des heures de jeu entre amis ou en famille
-- 2 répliques Mercedes-AMG pour enfants – Répliques de Mercedes-AMG G 63 et Mercedes-AMG SL 63 LEGO Speed Champions pour les garçons et les filles dès 10 ans et les adultes collectionneurs de voitures qui souhaitent partager un moment en famille
 - 2 minifigurines de pilotes LEGO – Chaque véhicule à construire inclut une minifigurine de pilote portant une tenue Mercedes-AMG et invitant les enfants à mettre en scène des courses haletantes, pour un jeu de rôle palpitant
-- Des voitures à offrir – Ce set de modèles Mercedes-AMG propose une expérience de construction et de jeu amusante C’est une belle idée de cadeau à offrir à des enfants dès 10 ans ou à des adultes collectionneurs de voitures
-- Modèles à exposer – Après des heures de jeu en autonomie avec leurs 2 répliques de voitures LEGO, les enfants garçons et filles peuvent exposer les véhicules sur une étagère ou sur leur table de chevet pour une décoration personnalisée
 - Design Mercedes-AMG réaliste – Chaque modèle de voiture LEGO à collectionner recrée des détails de conception des versions d’origine, dont les calandres, les capots, les roues, les caractéristiques de l’habitacle et le célèbre design Mercedes-AMG
+- 2 répliques Mercedes-AMG pour enfants – Répliques de Mercedes-AMG G 63 et Mercedes-AMG SL 63 LEGO Speed Champions pour les garçons et les filles dès 10 ans et les adultes collectionneurs de voitures qui souhaitent partager un moment en famille
+- Modèles à exposer – Après des heures de jeu en autonomie avec leurs 2 répliques de voitures LEGO, les enfants garçons et filles peuvent exposer les véhicules sur une étagère ou sur leur table de chevet pour une décoration personnalisée
+- Des courses de voitures encore plus palpitantes – Découvrez les autres répliques de voitures en briques LEGO Speed Champions à construire (sets vendus séparément), regorgeant de détails réalistes pour des heures de jeu entre amis ou en famille
+- Des voitures à offrir – Ce set de modèles Mercedes-AMG propose une expérience de construction et de jeu amusante C’est une belle idée de cadeau à offrir à des enfants dès 10 ans ou à des adultes collectionneurs de voitures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CWH3J5D6{{</world>}}

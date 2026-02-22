@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bluetooth Smart
 - odomètre
-- Lap Memory 200
 - Chronomètre 1/100 s - 24 heures
 - Fonction dheure universelle
-- Bluetooth Smart
+- Lap Memory 200
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GB8M7WJ{{</world>}}

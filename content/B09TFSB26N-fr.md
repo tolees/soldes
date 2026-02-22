@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible sur plusieurs plateformes : casque de jeu JBL Quantum 100P filaire avec connexion 3,5 mm, idéal pour PS5 et PS4, mais compatible avec Xbox, PC, Mac, Nintendo Switch, mobile et VR
-- Le son, cest la survie : quil sagisse de FPS, de MOBA ou deSports, vivez chaque expérience de jeu au maximum avec le casque Quantum 100P de JBL, un son puissant et des couleurs élégantes
 - Faites-vous entendre : le casque JBL Quantum 100P vous permet de communiquer avec vos adversaires avec clarté. Son micro voix amovible et directionnelle est équipé de la fonctionnalité mute
+- Le son, cest la survie : quil sagisse de FPS, de MOBA ou deSports, vivez chaque expérience de jeu au maximum avec le casque Quantum 100P de JBL, un son puissant et des couleurs élégantes
 - Livraison : 1 x Casque audio JBL Quantum 100P, micro amovible, mousse de protection pour microphone, compatible avec Playstation, guide dutilisation, carte de garantie, instructions de sécurité, noir
 - Confort garanti tout au long de la journée : les coussinets en mousse à mémoire de forme noir sont recouverts de cuir PU souple pour rendre les séances de jeu plus confortable
 

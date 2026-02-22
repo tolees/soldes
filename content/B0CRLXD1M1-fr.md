@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - THE MANDALORIAN (IMPERIAL BASE) : Avec laide de R5-D4 et avec Grogu à ses côtés, Din Djarin se fraie un chemin en combattant dans la base impériale afin de trouver et daffronter Moff Gideon.
-- EMBALLAGE INSPIRÉ DES PACKS SOUS BLISTER DE KENNER : Rappelant les jouets vintage de collection originaux des années 70 et 80, cette figurine est vendue dans un emballage inspiré des packs classiques de Kenner avec un numéro de collection VC unique
-- STAR WARS: THE MANDALORIAN : Cette figurine The Mandalorian (Imperial Base) à léchelle 9,5 cm est inspiré de la série sur Disney+. Cest un super cadeau pour les fans et les collectionneurs de Star Wars, à partir de 4 ans
 - ARTICULATIONS ET DESIGN PREMIUM : Les fans de Star Wars peuvent exposer cette figurine de 9,5 cm dans leur collection, avec sa déco inspirée de la Galaxie Star Wars ainsi que plusieurs points darticulation
 - ACCESSOIRES INSPIRÉS DU PERSONNAGE : Cette figurine The Mandalorian (Imperial Base) inclut un jetpack et un blaster
+- STAR WARS: THE MANDALORIAN : Cette figurine The Mandalorian (Imperial Base) à léchelle 9,5 cm est inspiré de la série sur Disney+. Cest un super cadeau pour les fans et les collectionneurs de Star Wars, à partir de 4 ans
+- EMBALLAGE INSPIRÉ DES PACKS SOUS BLISTER DE KENNER : Rappelant les jouets vintage de collection originaux des années 70 et 80, cette figurine est vendue dans un emballage inspiré des packs classiques de Kenner avec un numéro de collection VC unique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRLXD1M1{{</world>}}

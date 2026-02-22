@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Mode Musique】: La conception professionnelle et les ampoules à LED de haute qualité offrent des performances déclairage stables, réduisent les reflets et protéger vos yeux.Lorsque le mode de musique est activé, la lumière émise par lampoule changera également.
 - 【Multicouleurs】 : Notre ampoule intelligente a 16 millions de couleurs et la luminosité de chaque couleur est réglable de 1% à 100% pour toutes les occasions, par exemple, lecture, fête, jeu, repas romantique ...
-- 【Assistant de voix】: Lampoule ANTELA RVB et CCT, qui fonctionne facilement avec des réseaux Wi-Fi 2,4 GHz. Vous pouvez parcourir via Alexa ou Google Home, comme allumer ou éteindre lampoule, ajuster la luminosité de la lumière ou changer la couleur, etc.
 - 【Économie dénergie】:Économiser jusquà 80% dénergie. Avec technologie LED, lampoule a une durée de vie de plus de 15 000 heures, soit près de 13 ans et demi en utilisation normale (3h/jour).
+- 【Assistant de voix】: Lampoule ANTELA RVB et CCT, qui fonctionne facilement avec des réseaux Wi-Fi 2,4 GHz. Vous pouvez parcourir via Alexa ou Google Home, comme allumer ou éteindre lampoule, ajuster la luminosité de la lumière ou changer la couleur, etc.
+- 【Mode Musique】: La conception professionnelle et les ampoules à LED de haute qualité offrent des performances déclairage stables, réduisent les reflets et protéger vos yeux.Lorsque le mode de musique est activé, la lumière émise par lampoule changera également.
 - 【Télécommande】: Où que vous soyez, vous pouvez facilement le contrôler via lapplication Smart Life sur votre appareil Android ou iOS. Vous pouvez connecter et contrôler plusieurs ampoules intelligentes via cette application sur un téléphone intelligent. De plus, vous pouvez le faire allumer ou désactiver automatiquement la fonction de temps.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

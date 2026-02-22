@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette sur le talon
 - Col rembourré
+- Languette sur le talon
 - Chaussure de course
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

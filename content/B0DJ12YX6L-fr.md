@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Sûre et fiable】La station de charge est conçue pour une utilisation plug-and-play facile. Elle dispose dune protection contre les surintensités et les surtensions pendant la charge rapide, afin que vous puissiez charger votre contrôleur PS5 en toute sécurité et fiabilité
 - 【Chargeur rapide】New bee PS5 Charging Station with AC adapter vous permet de charger deux contrôleurs simultanément. Une charge complète prend trois heures, pendant lesquelles la lumière rouge reste allumée pendant longtemps. Une fois la charge complète, la lumière bleue sallume pendant 60 secondes, puis séteint.
 - 【Design approprié】La base de la station de charge de la manette PS5 est fabriquée en silicone antidérapant, ce qui garantit une stabilité optimale et lempêche de se déplacer pendant lutilisation, ce qui pourrait affecter le processus de charge.
 - 【Service clientèle】36 mois avec un service client attentionné, Si vous avez des problèmes ou des suggestions, veuillez nous contacter, nous fournirons un support rapide et facile à atteindre pour vous.
 - 【RGB Éclairage】Le chargeur de la manette PS5 dispose de 7 couleurs déclairage RGB et deffets visuels cool pour créer nimporte quelle atmosphère. Il suffit dappuyer et de maintenir enfoncé pendant 3 secondes pour éteindre/allumer la lumière.
+- 【Sûre et fiable】La station de charge est conçue pour une utilisation plug-and-play facile. Elle dispose dune protection contre les surintensités et les surtensions pendant la charge rapide, afin que vous puissiez charger votre contrôleur PS5 en toute sécurité et fiabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJ12YX6L{{</world>}}

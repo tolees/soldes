@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La poudre pressée longue durée contient des vitamines C, E et B5 et fixe le maquillage jusquà 10 heures
 - Le Bjois+ : Saupoudrez toujours le contour des yeux avec de la poudre de riz de Java pour éviter tout excès de matière sous forme de ridules et de petits signes dexpression
+- La poudre pressée longue durée contient des vitamines C, E et B5 et fixe le maquillage jusquà 10 heures
 - La poudre fixante Bjois procure un effet flou anti-fatigue qui reste en place toute la journée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

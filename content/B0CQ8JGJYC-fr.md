@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REVÊTEMENT CÉRAMIQUE ANTI-ADHÉSIF SAIN : Le revêtement intérieur 2 couches en céramique couleur, sans PFAS ni substances nocives, permet une cuisson saine et préserve la qualité nutritionnelle de vos aliments tout en empêchant quils naccrochent.
 - ALUMINIUM RECYCLÉ ROBUSTE : La batterie de cuisine Colorama est conçue en aluminium forgé 2,5mm issu à 98% daluminium recyclé. Son fond inox renforcé permet une diffusion homogène de la chaleur. Solide, durable et idéale pour une cuisson maitrisée.
-- EMPILABLE, TOUS FEUX ET LAVE-VAISSELLE : Les ustensiles de cuisson Colorama sempilent pour un gain de place optimal. Compatibles induction, gaz, vitro et électriques, ils passent aussi au lave-vaisselle (sauf poignée) pour un usage polyvalent.
 - DESIGN COLORÉ MODERNE ET TENDANCE : Avec leur finition élégante Céladon, les poêles et casseroles sans téflon Colorama apportent une touche design et contemporaine à votre cuisine. Un style unique qui allie esthétique et praticité au quotidien.
+- EMPILABLE, TOUS FEUX ET LAVE-VAISSELLE : Les ustensiles de cuisson Colorama sempilent pour un gain de place optimal. Compatibles induction, gaz, vitro et électriques, ils passent aussi au lave-vaisselle (sauf poignée) pour un usage polyvalent.
+- REVÊTEMENT CÉRAMIQUE ANTI-ADHÉSIF SAIN : Le revêtement intérieur 2 couches en céramique couleur, sans PFAS ni substances nocives, permet une cuisson saine et préserve la qualité nutritionnelle de vos aliments tout en empêchant quils naccrochent.
 - POIGNÉE AMOVIBLE FACILE ET SÉCURISÉE : La poignée en bakélite et silicone finition bois foncé sattache et se retire en 1 clic. Son système sécurisé assure une manipulation simple et fiable pour passer dun ustensile à lautre en toute sécurité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

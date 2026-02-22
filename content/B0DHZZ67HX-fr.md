@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mémoire interne : 128 Go, Android 14.0
-- Couleur : bleu foncé
-- Écran AMOLED de 16,5 cm (6,5") (2340 x 1080, 90 Hz)
-- Processeur 8 cœurs Samsung Exynos 1330 2,4 GHz
 - Appareil photo principal de 50 mégapixels
+- Processeur 8 cœurs Samsung Exynos 1330 2,4 GHz
+- Écran AMOLED de 16,5 cm (6,5") (2340 x 1080, 90 Hz)
+- Couleur : bleu foncé
+- Mémoire interne : 128 Go, Android 14.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHZZ67HX{{</world>}}

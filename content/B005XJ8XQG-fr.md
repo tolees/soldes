@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPACT ET PORTABLE : se replie pour faciliter le rangement et le transport. Léger et facile à transporter dune seule main
-- SUPPORT : pièces de travail jusquà 3 m de long et jusquà 150 kg
-- COUPES RÉPÉTITIVES RAPIDES : Butées intégrées pour des coupes répétitives rapides
-- GARANTIE DE 2 ANS : Livré avec la garantie Evolution "Best-In-Class" de 2 ans, pour une performance garantie
 - COMPLETEMENT AJUSTABLE : Rapide et facile à mettre en place grâce aux pieds repliables
-- DÉCHARGE RAPIDE : Supports de montage pour une fixation et un retrait faciles de la scie
+- SUPPORT : pièces de travail jusquà 3 m de long et jusquà 150 kg
+- GARANTIE DE 2 ANS : Livré avec la garantie Evolution "Best-In-Class" de 2 ans, pour une performance garantie
+- COUPES RÉPÉTITIVES RAPIDES : Butées intégrées pour des coupes répétitives rapides
+- COMPACT ET PORTABLE : se replie pour faciliter le rangement et le transport. Léger et facile à transporter dune seule main
 - UNIVERSEL : Compatible avec pratiquement toutes les marques de scies à onglets telles que Evolution, Makita, DeWalt, Bosch, Ryobi, Einhell et bien dautres encore
+- DÉCHARGE RAPIDE : Supports de montage pour une fixation et un retrait faciles de la scie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005XJ8XQG{{</world>}}

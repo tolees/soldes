@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful - Cahier A5 avec support pour téléphone portable - Only good notes - Carnet au format A5 avec reliure cousue et couvertures rigides'
-date: 2026-02-21 23:54:22
+date: 2026-02-22 00:31:41
 image: 'https://m.media-amazon.com/images/I/41Y+88DkB9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Carnet au format A5 avec reliure cousue et couvertures rigides.
 - Avec 120 pages lignées avec certification FSC, ce qui garantit quil a été fabriqué avec du papier provenant de forêts gérées de manière responsable.
+- Carnet au format A5 avec reliure cousue et couvertures rigides.
 - Sur la couverture se trouvent deux élastiques : lun pour fixer le téléphone portable et lautre pour insérer un stylo, ce qui en fait un carnet idéal pour assister aux réunions.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

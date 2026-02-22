@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Homme Chasis Sport K300236 Bottine Basket Noir 004 44 EU'
-date: 2026-02-16 05:18:03
+date: 2026-02-22 13:29:42
 image: 'https://m.media-amazon.com/images/I/318Ls3i+9iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
 - Semelle : caoutchouc
+- Forme du talon : plat
 - Matériau intérieur : synthétique
-- Matériau extérieur : cuir
 - Fermeture : lacets
+- Matériau extérieur : cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P2MYW26{{</world>}}

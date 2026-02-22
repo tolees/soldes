@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UTILISATION NOMADE OU EN MASQUE : Hydrate instantanément. Sutilise en masque 5 min avant le rouge à lèvres ou toute la nuit.
+- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100% sans parfum. Soumis à des tests dermatologiques.
 - COMPLEXE DINGRÉDIENTS HYDRATANTS : Ce soin pour lèvres sèches nourrit et repulpe grâce aux lipides et céramides.
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - SOIN LÈVRES HYDRATANT : Ce baume à lèvres hydro-repulpant léger hydrate, lisse et prépare instantanément les lèvres au maquillage. Laisse les lèvres douces et fraîches.
-- UTILISATION NOMADE OU EN MASQUE : Hydrate instantanément. Sutilise en masque 5 min avant le rouge à lèvres ou toute la nuit.
-- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100% sans parfum. Soumis à des tests dermatologiques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Q6J2C9C{{</world>}}

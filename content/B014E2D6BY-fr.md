@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ADORÉ PAR DES MILLIERS DE PERSONNES - Présenté dans Fab Fit Fun, Ipsy, Boxy Charm et utilisé par Jessica Alba, Leona Lewis, et de nombreux influenceurs beauté de luxe. Simple à utiliser, ce masque anticerne femme donne des résultats instantanés.
-- FINI LES YEUX BOUFFIS & INFLAMMATION - Diminuez le gonflement des yeux, des poches et des rides sous les yeux, grâce à ce masque pour les yeux hydratant et rafraîchissant. Obtenez ainsi une peau, plus que jamais hydratée et raffermie sous les yeux.
 - IDÉAL À OFFRIR EN CADEAU : Parfait pour être offert en toute occasion : cadeau danniversaire, Noël, St Valentin, fête des mères... Si vous nêtes pas satisfait à 100%, faites-le nous savoir et nous ferons tout pour remédier à la situation !
 - UNE FORMULE UNIQUE - Contrairement aux autres patch anti cernes dorés, nos composants sont exempts de parabens et de sulfates. Respectueux des peaux sensibles, ils contiennent de la poudre de Chondrus Crispus et de lacide hyaluronique.
+- FINI LES YEUX BOUFFIS & INFLAMMATION - Diminuez le gonflement des yeux, des poches et des rides sous les yeux, grâce à ce masque pour les yeux hydratant et rafraîchissant. Obtenez ainsi une peau, plus que jamais hydratée et raffermie sous les yeux.
 - SOIN DES YEUX ANTICERNE - Les gens remarquent dabord les yeux. Ayez confiance en vous et soyez au mieux de votre forme, le regard frais, jeune et lumineux en ajoutant ces patchs dorés anti cerne homme et femme à votre routine beauté.
+- ADORÉ PAR DES MILLIERS DE PERSONNES - Présenté dans Fab Fit Fun, Ipsy, Boxy Charm et utilisé par Jessica Alba, Leona Lewis, et de nombreux influenceurs beauté de luxe. Simple à utiliser, ce masque anticerne femme donne des résultats instantanés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B014E2D6BY{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un bon produit de bonne qualité
 - Couleur du produit : noir
 - Réglable pour des angles de vue optimaux
+- Un bon produit de bonne qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CP8B2J6K{{</world>}}

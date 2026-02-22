@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parmi les 3 panneaux supérieurs fournis, l’un complète parfaitement le design du Silent Base 802 Window White et garantit un fonctionnement silencieux. Le second panneau extrêmement perméable à lair, permettra des performances maximales en particulier pour les systèmes watercoolés.
 - 3 ventilateurs Pure Wings 2 140 mm, pré-installés équipés de pales optimisées, assurent un flux dair parfait et un refroidissement constant, que vous ayez choisi de privilégier un débit dair élevé ou une configuration optimisée pour le silence.
-- La façade et les panneaux latéraux sont équipés de tapis isolants dune épaisseur allant jusquà 10 mm, offrant une stabilité maximale et dexcellentes propriétés de réduction du bruit. Les cages des disques durs et le support du bloc dalimentation sont découplés, ce qui limite les vibrations. Le boîtier métallique assure un toucher de qualité et offre une belle stabilité.
-- Le connecteur USB 3.2 Gen.2 Type C en façade permet lutilisation de matériel dernier cri. Le rhéobus à 4 niveaux permet de régler manuellement la vitesse de 6 ventilateurs maximum ou de les connecter tous à un seul signal PWM.
 - La version avec la façade en mesh permet d’obtenir un flux d’air maximal, améliorant de fait les performances de refroidissement. La façade standard, fermée et isolée, assure un fonctionnement discret, un choix idéal pour les systèmes silencieux et les configurations PC classiques.
+- Le connecteur USB 3.2 Gen.2 Type C en façade permet lutilisation de matériel dernier cri. Le rhéobus à 4 niveaux permet de régler manuellement la vitesse de 6 ventilateurs maximum ou de les connecter tous à un seul signal PWM.
+- Parmi les 3 panneaux supérieurs fournis, l’un complète parfaitement le design du Silent Base 802 Window White et garantit un fonctionnement silencieux. Le second panneau extrêmement perméable à lair, permettra des performances maximales en particulier pour les systèmes watercoolés.
+- La façade et les panneaux latéraux sont équipés de tapis isolants dune épaisseur allant jusquà 10 mm, offrant une stabilité maximale et dexcellentes propriétés de réduction du bruit. Les cages des disques durs et le support du bloc dalimentation sont découplés, ce qui limite les vibrations. Le boîtier métallique assure un toucher de qualité et offre une belle stabilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08NW2P9Z5{{</world>}}

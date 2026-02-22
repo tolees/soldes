@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La technologie LaCie SecureTM avec fonction dautochiffrement AES-256 offre une protection supplémentaire tandis que le logiciel de mise en miroir de fichiers permet laccès direct aux fichiers et la synchronisation entre plusieurs appareils
-- Vos fichiers sont volumineux ? Pas de problème. Transférez vos fichiers rapidement ou travaillez directement à partir du disque avec des vitesses de lecture et décriture pouvant atteindre respectivement 1 050 Mo/s et 1 000 Mo/s, soit des vitesses comparables à celles du NVMe. (Les taux de transfert réels peuvent varier en fonction de l’environnement de fonctionnement et d’autres facteurs, par exemple l’interface sélectionnée et la capacité du disque.)
-- Transférez facilement vos photos et vidéos grâce à la compatibilité USB-C avec iPad, libérez de lespace sur votre appareil et travaillez avec tous vos fichiers directement à partir de votre iPad. Les connexions sont effectuées en un clin dœil en USB-C, pour une compatibilité directe.
 - Exploitez pleinement le potentiel de lenregistrement vidéo HD Apple ProRes sur votre iPhone 15 Pro/Pro Max. Grâce à des performances élevées et à une capacité pouvant atteindre 2 To, vous pouvez enregistrer des vidéos 4K ProRes à 60 images par seconde directement sur le SSD.
 - Jusquà 2 To de capacité pour stocker des heures de séquences 4K et des milliers de photos brutes au même endroit. Sa conception élégante, compacte et robuste en fait par ailleurs laccessoire idéal pour un style de vie dynamique. Glissez-le dans votre sac pour lemporter partout avec vous.
+- Vos fichiers sont volumineux ? Pas de problème. Transférez vos fichiers rapidement ou travaillez directement à partir du disque avec des vitesses de lecture et décriture pouvant atteindre respectivement 1 050 Mo/s et 1 000 Mo/s, soit des vitesses comparables à celles du NVMe. (Les taux de transfert réels peuvent varier en fonction de l’environnement de fonctionnement et d’autres facteurs, par exemple l’interface sélectionnée et la capacité du disque.)
+- Transférez facilement vos photos et vidéos grâce à la compatibilité USB-C avec iPad, libérez de lespace sur votre appareil et travaillez avec tous vos fichiers directement à partir de votre iPad. Les connexions sont effectuées en un clin dœil en USB-C, pour une compatibilité directe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8K9B3NS{{</world>}}

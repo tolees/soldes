@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SPECIALEMENT CONCU POUR LES PLUS PETITS - Parfaitement adapté aux enfants dès 12 mois et plus, grâce à des matériaux flexibles, durables et facile à manipuler. La taille des pièces respecte des gabarits d’essais normés et contrôlés, garantissant une utilisation sans danger. Jouet enfant 1 an.
 - Conçu en Normandie et fabriqué en Europe.
 - DE NOMBREUSES HISTOIRES A CONSTRUIRE – Grâce aux nombreux blocs à assembler de couleurs vives et de formes variées, une infinité de combinaisons et de constructions sont possibles. Un jeu sans limite qui permettra à l’enfant de créer ses propres histoires, personnages, assemblages et univers à travers lesquelles il évoluera.
-- TUBE DE 50 PIECES BLOKO – L’incontournable et intemporel jeu de construction à picots ! Commencez ou complétez votre collection avec les célèbres jouets blocs de construction à picots. Idéal pour léveil des plus petits et le développement des plus grands.
+- SPECIALEMENT CONCU POUR LES PLUS PETITS - Parfaitement adapté aux enfants dès 12 mois et plus, grâce à des matériaux flexibles, durables et facile à manipuler. La taille des pièces respecte des gabarits d’essais normés et contrôlés, garantissant une utilisation sans danger. Jouet enfant 1 an.
 - APPRENDRE EN S’AMUSANT avec BLOKO - Développe l’imagination, la créativité, l’habilité, la coordination des mouvements et le repérage dans l’espace de l’enfant, tout en l’amusant.
+- TUBE DE 50 PIECES BLOKO – L’incontournable et intemporel jeu de construction à picots ! Commencez ou complétez votre collection avec les célèbres jouets blocs de construction à picots. Idéal pour léveil des plus petits et le développement des plus grands.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01B1MI3LS{{</world>}}

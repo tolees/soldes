@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoie jusquà 140 m²* sans interruption. Batterie amovible 33,6 V max 2500 mAh. Jusquà 65 minutes dautonomie en mode Eco et aspirateur à main, 30 en mode moyen et 20 en mode Turbo. Avec le tube et le pied motorisés en mode Eco, il atteint jusquà 60 minutes, 30 en mode moyen et 15 en mode Turbo. * Basé sur des tests internes. **Lautonomie varie en fonction du mode sélectionné par lutilisateur. Il est recommandé dutiliser le mode Eco et de laugmenter en cas de saleté plus importante.
-- Brossez et aspirez les poils morts de votre animal. Pet Style : brosse qui pénètre dans la fourrure, attrape les poils morts et les aspire directement pour éviter quils ne finissent au sol.
 - Aspirez plus en moins de temps et sans nœuds. Brosse mixte XL avec HairOut : couvre plus de surface à chaque passage, attrapant tout type de saleté et évitant les enchevêtrements grâce à sa tête dentée qui élimine les poils et réduit le nettoyage manuel de la brosse.
+- Brossez et aspirez les poils morts de votre animal. Pet Style : brosse qui pénètre dans la fourrure, attrape les poils morts et les aspire directement pour éviter quils ne finissent au sol.
+- Nettoie jusquà 140 m²* sans interruption. Batterie amovible 33,6 V max 2500 mAh. Jusquà 65 minutes dautonomie en mode Eco et aspirateur à main, 30 en mode moyen et 20 en mode Turbo. Avec le tube et le pied motorisés en mode Eco, il atteint jusquà 60 minutes, 30 en mode moyen et 15 en mode Turbo. * Basé sur des tests internes. **Lautonomie varie en fonction du mode sélectionné par lutilisateur. Il est recommandé dutiliser le mode Eco et de laugmenter en cas de saleté plus importante.
 - Il rase avec la saleté. Puissance daspiration de 160 AW et un moteur de 600 W qui permettent daspirer tout type de saleté sans effort.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

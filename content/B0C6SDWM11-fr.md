@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance batteries multi-marques AMPShare
+- Performances élevées avec un couple de serrage de 330 Nm et un couple de décollement de 560 Nm
+- Livré avec : GDS 18V-330 HC
 - Deux modes sélectionnables sur l’écran de contrôle : boulons/écrous métal (A) et vis bois (B) pour une utilisation maîtrisée excluant toute cassure des têtes de vis et pertes d’écrous métalliques
 - Maîtrise parfaite et grande polyvalence grâce aux trois positions de vitesse/couple.
-- Livré avec : GDS 18V-330 HC
-- Performances élevées avec un couple de serrage de 330 Nm et un couple de décollement de 560 Nm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6SDWM11{{</world>}}

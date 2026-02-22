@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Stocker davantage, jouer davantage, la mise à niveau NV3 2230 offre aux consoles de jeux portables compatibles une expérience de jeu plus rapide⁵
 - Performances NVMe PCIe Gen 4x4, boostez votre système avec des vitesses de lecture/écriture allant jusqu’à 6 000/5 000 Mo/s¹
-- Espace de stockage étendu, disponible dans différentes capacités élevées pouvant atteindre 4 To², il offre un espace de stockage généreux pour vos fichiers, vidéos, documents et jeux
 - Format réduit, performances élevées, les modèles NV3 2280 et 2230 s’intègrent facilement dans les ordinateurs portables fins et les PC ultra-compacts équipés de connecteurs M.2 et disposant d’un espace limité
+- Espace de stockage étendu, disponible dans différentes capacités élevées pouvant atteindre 4 To², il offre un espace de stockage généreux pour vos fichiers, vidéos, documents et jeux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBR3DZWG{{</world>}}

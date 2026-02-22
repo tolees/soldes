@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lapprentissage du corps humain est important dans le développement des enfants. Grâce à ce jeu les enfants découvrent progressivement de quoi le corps humain est constitué grâce au contenu riche et varié. Ce jeu favorise le développement du vocabulaire, du langage et la mémorisation des mots.
-- Un jeu original pour apprendre les parties du corps en samusant ! Cest une première approche du corps humain pour lenfant afin quil comprenne comment le corps est constitué. Lenfant pourra même utiliser un appareil radiologique pour découvrir la peau, les muscles, les os et plus encore. Connaître le corps humain na jamais été aussi facile !
 - Ce coffret saccompagne dune collection entière pour les enfants dès 4 ans. Le coffret Jécris lalphabet ou le coffret premiers mots composé de puzzles-mots pour assembler des syllabes. Retrouver pour chaque âge de 2 à 5 ans une multitude de jeux basés sur les notions essentielles et sur des connaissances à acquérir.
-- Contenu: Un appareil radiologique, un bâton dexamen, 4 films transparents, 31 jetons, 1 fiche, 1 figurine, 1 dé et une notice. Ce produit est composé de matériaux issus de forêts bien gérées certifiées FSC, de matériaux recyclés et de matériaux issus d’autres sources contrôlées (FSC-C111262). Produit imaginé en France et fabriqué en Europe.
+- Un jeu original pour apprendre les parties du corps en samusant ! Cest une première approche du corps humain pour lenfant afin quil comprenne comment le corps est constitué. Lenfant pourra même utiliser un appareil radiologique pour découvrir la peau, les muscles, les os et plus encore. Connaître le corps humain na jamais été aussi facile !
 - Avec les 4 films transparents et les jetons les enfants cherchent les différentes parties du corps en les sélectionnant dans lappareil radiologique. Différents modes de jeu : découverte, reconnaître et mémoriser à laide des films transparents qui montrent la peau, les muscles et les os.
+- Contenu: Un appareil radiologique, un bâton dexamen, 4 films transparents, 31 jetons, 1 fiche, 1 figurine, 1 dé et une notice. Ce produit est composé de matériaux issus de forêts bien gérées certifiées FSC, de matériaux recyclés et de matériaux issus d’autres sources contrôlées (FSC-C111262). Produit imaginé en France et fabriqué en Europe.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079T38MDZ{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GARDE UNE LONGUEUR DAVANCE SUR LES MENACES CACHÉES DANS LOMBRE ! Fais preuve de discrétion et dastuce pour échapper aux monstres terrifiants, ou contre-attaque à laide de ton fidèle lance-pierre et du livre hanté que tu as découvert.
-- DÉFIS MYSTÉRIEUX : Fais preuve dingéniosité pour venir à bout des énigmes corsées, des mécanismes interactifs et des devinettes astucieuses qui se dressent sur ton chemin, et découvre la vérité sur les événements surnaturels qui se déroulent à Little Creek.
 - PLUSIEURS FINS : Tes choix décideront du sort de Sloane et de ses amis. Arriveras-tu à faire toute la lumière sur les horreurs qui hantent Little Creek, ou te laisseras-tu dévorer par les mystères de la ville ?
 - EXPLORATION ET SUSPENSE : Parcours les rues embrumées de Little Creek, explore un théâtre abandonné et faufile-toi dans une sinistre bibliothèque regorgeant de secrets. Chaque sombre recoin cache une nouvelle surprise effrayante qui ne demande quà être découverte.
+- DÉFIS MYSTÉRIEUX : Fais preuve dingéniosité pour venir à bout des énigmes corsées, des mécanismes interactifs et des devinettes astucieuses qui se dressent sur ton chemin, et découvre la vérité sur les événements surnaturels qui se déroulent à Little Creek.
+- GARDE UNE LONGUEUR DAVANCE SUR LES MENACES CACHÉES DANS LOMBRE ! Fais preuve de discrétion et dastuce pour échapper aux monstres terrifiants, ou contre-attaque à laide de ton fidèle lance-pierre et du livre hanté que tu as découvert.
 - HISTOIRE CHAIR DE POULE ORIGINALE : Découvre un mystère Chair de Poule inédit, créé spécialement pour le jeu. Fais face à de nouvelles terreurs inspirées de la série de livres, tout en faisant la lumière sur les secrets troublants qui hantent la ville de Little Creek.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Hauteur du talon : 3,5 cm / 1,4"
 - Faciles à porter pour un confort unique
 - Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
-- Hauteur du talon : 3,5 cm / 1,4"
 - Enfilage facile grâce à la fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})

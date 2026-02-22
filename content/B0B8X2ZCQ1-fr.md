@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- IMMERSION EXTRÊME - Les écrans incurvés MSI offrent une expérience gaming plus immersive avec une courbure 1500R à la distance de visualisation optimale & un design sans cadre pour se fondre encore plus dans limage
+- CONNECTIVITÉ DE POINTE - Les options dinterface vidéo incluent DisplayPort 1.2a (FHD/170Hz) ainsi que ports HDMI 1.4b (FHD/144Hz); Mais aussi: Sortie écouteurs, bouton de navigation 5 directions. Comprend un verrou Kensington
 - DESIGN & UTILITAIRES INTELLIGENTS - Cadre fin et pied de support réglable dans 4 directions; Lapplication Gaming Intelligence de MSI permet un accès rapide aux raccourcis clavier pour afficher paramètres & profils
 - 31,5" FHD - Dalle VA 1920x1080 avec une précision de couleur extrême, 16,7 millions de couleurs (93% DCI-P3, sRGB 119%); Luminosité 250 nits & contraste 3000:1 (100000000:1 dynamique)
-- CONNECTIVITÉ DE POINTE - Les options dinterface vidéo incluent DisplayPort 1.2a (FHD/170Hz) ainsi que ports HDMI 1.4b (FHD/144Hz); Mais aussi: Sortie écouteurs, bouton de navigation 5 directions. Comprend un verrou Kensington
 - REFRESH RATE 170Hz, MPRT 1MS - Taux de rafraichissement élevé 170Hz certifié AMD FreeSync Premium, protections contre la lumière bleue & anti-scintillement; Temps de réponse 1ms (MPRT) pour éliminer les déchirures & images saccadées
-- IMMERSION EXTRÊME - Les écrans incurvés MSI offrent une expérience gaming plus immersive avec une courbure 1500R à la distance de visualisation optimale & un design sans cadre pour se fondre encore plus dans limage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8X2ZCQ1{{</world>}}

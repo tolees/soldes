@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Graphgear 1000 Porte-Mine 0 5 mm Canon Rentrant Métal'
-date: 2026-02-03 00:17:38
+date: 2026-02-22 08:54:48
 image: 'https://m.media-amazon.com/images/I/21ATnLzC6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001E3GUBK-fr Pentel Graphgear 1000 Porte-Mine 0 5 mm Canon Rentrant Métal'
 sku: 'B001E3GUBK-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 14.99 EUR
+actualPrice: 14.9 EUR
 currency: EUR
-price: 14.99
+price: 14.9
 comparePrice: 18.5 EUR
 prodname: 'Pentel Graphgear 1000 Porte-Mine 0 5 mm Canon Rentrant Métal'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001E3GUBK/?tag=tolees0d-21'
-descuento: '18.97'
-average: '14.7517045454545'
+descuento: '19.46'
+average: '14.7549999999999'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

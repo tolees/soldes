@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissant : grâce à la vitesse de soufflage de 270 km/h (75 m/s), débit d’air : 2,0 m³/min - 120 m³/h
+- Polyvalent et flexible : les 4 adaptateurs permettent différentes applications et aussi une utilisation en tant que souffleur de feuilles
 - Professional 18V System. Performances maximales. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
+- Puissant : grâce à la vitesse de soufflage de 270 km/h (75 m/s), débit d’air : 2,0 m³/min - 120 m³/h
 - Autonomie suivant la vitesse de soufflage : vitesse 1 : 9 min par Ah ; vitesse 2 : 5 min par Ah
 - Livré avec : GBL 18V-120, 4 embouts, buse standard, tube prolongateur, buse pour trous de perçage, bac à poussière
-- Polyvalent et flexible : les 4 adaptateurs permettent différentes applications et aussi une utilisation en tant que souffleur de feuilles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01K4GC03O{{</world>}}

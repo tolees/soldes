@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué conformément aux normes EN-71 et à la chaîne de garde FSC.
-- Les gommettes APLI répondent aux normes les plus strictes de qualité et de sécurité.
 - Chaque rouleau contient 30 feuilles prédécoupées pour une séparation facile, un total de 1 380 gommettes par rouleau.
 - Format parfait pour une utilisation dans les écoles, les crèches, les ateliers pour enfants ou tout autre groupe qui traite avec des enfants.
+- Fabriqué conformément aux normes EN-71 et à la chaîne de garde FSC.
 - Rouleau de gommettes en forme dyeux colorés, formes et tailles assorties avec adhésif permanent.
+- Les gommettes APLI répondent aux normes les plus strictes de qualité et de sécurité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PJZDTPY{{</world>}}

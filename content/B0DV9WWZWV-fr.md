@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un verre Chroma moderne dans un design rétro
 - Black Mist crée un aspect de film Kodak Portra
-- À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
 - Comprend une boîte de film rétro pour contenir le filtre
 - Conçu pour ajuster lexposition sans effort, cest votre guide de voyage pour prendre des photos parfaites quelles que soient les conditions déclairage.
-- Un verre Chroma moderne dans un design rétro
+- À lintérieur de chaque bouchon de filtre de la série 135, vous trouverez une fiche de vérification rapide de la règle Sunny 16.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DV9WWZWV{{</world>}}

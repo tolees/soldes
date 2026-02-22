@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - join a legendary Norse Berserker on his quest for revenge
 - ceral combat system - dual-wield powerful weapons such as axes, swords, and even shields to relive the ruthless fighting style of the Viking warriors
+- Assassins Creed Valhalla leverages the smart delivery technology - buy the game once and play it on either Xbox One or Xbox series x when both the console and that version of Assassins Creed Valhalla are available
 - write your Viking saga - advanced RPG mechanics allow you to shape the growth of your character and influence the world around you
 - a dark Age open world - sail from the harsh and mysterious shores of Norway to the beautiful but forbidding kingdoms of England and beyond.lead epic raids - launch massive assaults against Saxon troops and fortresses throughout England.grow your settlement - construct and upgrade buildings that allow for deep customization, including a barracks, Blacksmith, tattoo parlor, and more.
-- Assassins Creed Valhalla leverages the smart delivery technology - buy the game once and play it on either Xbox One or Xbox series x when both the console and that version of Assassins Creed Valhalla are available
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08CNP8DG6{{</world>}}

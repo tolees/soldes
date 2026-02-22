@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DEUX MODES DUTILISATION : ce trépied peut être utilisé aussi bien en mode photo quen mode vidéo afin de ne pas limiter votre créativité
 - SIMPLE ET EFFICACE : grâce à la poignée "pistolet" ergonomique et intuitive, et à laccessoire pour smartphone inclus, la création de contenu na jamais été aussi simple
 - ROBUSTE ET FIABLE : ce trépied dune capacité de 1,5 kg supporte des appareils de tous types, des smartphones aux appareils compacts
+- DEUX MODES DUTILISATION : ce trépied peut être utilisé aussi bien en mode photo quen mode vidéo afin de ne pas limiter votre créativité
 - RÉGISSEZ LE MONDE DES CRÉATEURS DE CONTENU : ce trépied de grande taille vous évite de faire des compromis entre confort et qualité, grâce à son ADN JOBY distinctif
 - POLYVALENCE INCROYABLE : grâce à la présence de la rotule, vous pouvez utiliser le même plateau de fixation rapide que le kit GorillaPod 3K
 

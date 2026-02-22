@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu : 1x Melitta Solo, Machine à café entièrement automatique
 - Dimensions : 200 x 325 x 455 mm; poids 8 kg
 - Paramétrez lintensité de votre café selon vos goûts, de doux à corsé et profitez dun réglage en continu de la quantité de café de 30 à 220 ml pour les petites et grandes tasses
-- La machine utilise la technologie de la cartouche filtrante Pro Aqua qui permet de réaliser un seul détartrage par an sous réserve de la changer 6 fois par an; l‘eau filtrée améliore la qualité de votre café et évite la formation de dépôts de tartre
-- Contenu : 1x Melitta Solo, Machine à café entièrement automatique
-- Un témoin lumineux vous indique lorsquil est temps de détartrer votre machine à café Melitta Solo pour prolonger sa durée de vie et préserver les saveurs du café; les programmes de nettoyage et de détartrage sont facilement accessibles via le menu
 - Retrouvez un guide interactif avec des conseils, des astuces, des tutoriels illustrés et dautres fonctions pratiques pour utiliser et entretenir votre machine expresso automatique en téléchargeant lapplication Melitta Companion
-- La fonction de pré-infusion humidifie le café fraîchement moulu afin de développer toute la richesse de ses arômes; vous pouvez régler le niveau dintensité du café ainsi que la finesse de mouture sur 3 niveaux
 - Compacte (20 cm de largeur), elle permet de préparer jusquà 2 tasses simultanément grâce à son bec verseur réglable en hauteur
+- La fonction de pré-infusion humidifie le café fraîchement moulu afin de développer toute la richesse de ses arômes; vous pouvez régler le niveau dintensité du café ainsi que la finesse de mouture sur 3 niveaux
+- La machine utilise la technologie de la cartouche filtrante Pro Aqua qui permet de réaliser un seul détartrage par an sous réserve de la changer 6 fois par an; l‘eau filtrée améliore la qualité de votre café et évite la formation de dépôts de tartre
+- Un témoin lumineux vous indique lorsquil est temps de détartrer votre machine à café Melitta Solo pour prolonger sa durée de vie et préserver les saveurs du café; les programmes de nettoyage et de détartrage sont facilement accessibles via le menu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X7FZ1CG{{</world>}}

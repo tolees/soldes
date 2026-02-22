@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [120 Hz FHD+ AMOLED DotDisplay emballé dans un corps à bord plat tendance] : doté dun grand écran FHD+ AMOLED DotDisplay de 6,67" avec un taux de rafraîchissement daffichage de 120 Hz, Redmi Note 11 Pro 5G améliore lexpérience de lécran avec une réponse de défilement fluide et des transitions sans décalage. La belle Lécran est emballé dans un corps avec un design tendance à bords plats.
 - [Triple appareil photo 108MP de niveau phare pour offrir une photographie exceptionnelle] : avec une configuration triple caméra arrière, Redmi Note 11 Pro 5G offre une expérience de photographie exceptionnelle sans compromis. Son appareil photo principal de 108 MP capture des images époustouflantes dans des couleurs vives ; une caméra ultra grand angle 8MP étend votre perspective avec un angle de vision de 118 degrés ; un objectif macro 2MP qui capture les détails les plus fins de près.
 - [Performance alimentée par une charge turbo de 67 W et Snapdragon 695] : Redmi Note 11 Pro 5G est livré avec une charge turbo phare de 67 W, vous permettant de charger plus de la moitié de sa batterie haute capacité de 5 000 mAh en seulement 15 minutes*. Propulsé par Snapdragon 695, le Redmi Note 11 Pro 5G offre également des performances fluides et fiables avec la prise en charge de la 5G.
+- [120 Hz FHD+ AMOLED DotDisplay emballé dans un corps à bord plat tendance] : doté dun grand écran FHD+ AMOLED DotDisplay de 6,67" avec un taux de rafraîchissement daffichage de 120 Hz, Redmi Note 11 Pro 5G améliore lexpérience de lécran avec une réponse de défilement fluide et des transitions sans décalage. La belle Lécran est emballé dans un corps avec un design tendance à bords plats.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09RZYRTF1{{</world>}}

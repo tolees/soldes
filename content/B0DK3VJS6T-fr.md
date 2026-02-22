@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La gelée royale réparatrice est reconnue pour renforcer les cheveux dès la racine. La propolis protectrice, véritable ciment naturel, est réputée pour ses vertus protectrices. Le miel nourricier est reconnu pour ses vertus nourrissantes.
 - Les informations ci-dessous sappliquent à chaque unité du pack
 - Shampooing reconstituant Garnier Ultra DOUX à la gelée royale, au miel et à la propolis pour cheveux fragiles ou cassants.
-- La gelée royale réparatrice est reconnue pour renforcer les cheveux dès la racine. La propolis protectrice, véritable ciment naturel, est réputée pour ses vertus protectrices. Le miel nourricier est reconnu pour ses vertus nourrissantes.
 - Appliquer sur cheveux mouillés, masser soigneusement sur lensemble du cuir chevelu puis rincer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

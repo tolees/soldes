@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOMBRE DE VUES : 200 - NOMBRE DE POCHETTES : 100 - légérement grainées, antireflet pour classer des documents et les consulter comme un cahier
-- Le protège-documents souple OPAK nommé également porte-vues est un produit économique pour usage quotidien
-- DIMENSIONS : 24 x 32 cm pour documents au format A4 - facile à transporter, léger et souple, il est très pratique pour protéger les documents et les garder en main et au sec en toute situation
 - COUVERTURE : en polypropylène souple 3/10ème structuré mat, antitache et anti-rayure
+- Le protège-documents souple OPAK nommé également porte-vues est un produit économique pour usage quotidien
 - COULEURS ASSORTIES : bleu clair, bleu foncé, jaune, noir, rouge, vert clair, vert foncé, violet - ASTUCE : pour choisir votre protège-documents, identifiez le nombre de pages de votre dossier et choisissez la capacité en conséquence 1 pochette = 2 vues
+- NOMBRE DE VUES : 200 - NOMBRE DE POCHETTES : 100 - légérement grainées, antireflet pour classer des documents et les consulter comme un cahier
+- DIMENSIONS : 24 x 32 cm pour documents au format A4 - facile à transporter, léger et souple, il est très pratique pour protéger les documents et les garder en main et au sec en toute situation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GAOGBMQ{{</world>}}

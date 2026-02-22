@@ -32,8 +32,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Patio Cleaner avec raccord rapide, idéal pour nettoyer facilement les grandes surfaces horizontales et verticales
 - Nettoyeur haute pression idéal pour éliminer la saleté tenace sur les surfaces domestiques extérieures de taille moyenne, les grilles, les bancs, les meubles et outils de jardin, les voitures, les vélos, les motos, les escaliers et les piscines
 - Dotée dune fonction auto-amorçante : si le raccordement au réseau deau est impossible, le nettoyeur haute pression peut aspirer leau dans un réservoir.
-- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
 - 8 accessoires à accrocher après emploi sur les supports intégrés à larrière du nettoyeur
+- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077TR3SVB{{</world>}}

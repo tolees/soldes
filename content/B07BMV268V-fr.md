@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simple et intuitif â€“ Le reflex numérique idéal pour les débutants pour capturer et partager des souvenirs avec un flou darrière-plan attrayant
-- Enregistrez en toute confiance : grce à la mise au point automatique précise, au viseur optique, à la prise de vue en rafale jusquà 3 images par seconde et au processeur dimage DIGIC 4, vous pouvez facilement capturer linstant et regarder le résultat directement sur lécran LCD de 7,5 cm ou partager via Wi-Fi et NFC
-- Lobjectif ne contient pas de stabilisateur
-- Capturez des moments spontanés â€“ dans des vidéos Full HD créatives ou des clichés vidéo des points culminants de la journée
 - Contenu de la livraison : boîtier noir EOS 2000D ; EF-S 18-55 mm F3.5-5.6 III ; Å“illeton EF ; couvercle de boîtier dappareil photo R-F-3 ; sangle EW-400D ; batterie LP-E10 ; chargeur de batterie LC-E10E ; cble dalimentation pour chargeur de batterie ; cache objectif ; bouchon dobjectif ; instructions (français non garanti). Première étape
+- Lobjectif ne contient pas de stabilisateur
+- Enregistrez en toute confiance : grce à la mise au point automatique précise, au viseur optique, à la prise de vue en rafale jusquà 3 images par seconde et au processeur dimage DIGIC 4, vous pouvez facilement capturer linstant et regarder le résultat directement sur lécran LCD de 7,5 cm ou partager via Wi-Fi et NFC
+- Simple et intuitif â€“ Le reflex numérique idéal pour les débutants pour capturer et partager des souvenirs avec un flou darrière-plan attrayant
 - Créativité simple : enregistrement en direct avec des indications faciles à comprendre, le mode créatif automatique offre - et pour une finition unique, il existe de nombreux filtres créatifs. Visez et déclenchez simplement le sujet â€“ la reconnaissance automatique des motifs garantit des résultats de qualité supérieure
+- Capturez des moments spontanés â€“ dans des vidéos Full HD créatives ou des clichés vidéo des points culminants de la journée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BMV268V{{</world>}}

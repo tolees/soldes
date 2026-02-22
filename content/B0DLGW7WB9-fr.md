@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran incurvé CrystalRes AMOLED de 1,5K AMOLED, Premier écran incurvé 3D de POCO, pour une meilleure prise en main aussi bien à lhorizontal quà la verticale.
-- IP68 résistant à leau et à la poussière, Une résistance de niveau flagship pour une protection renforcée;Corning Gorilla Glass Cover Glass ;
-- caméra principale 50MP avec OIS, Capteur Sony IMX882, AI Image Expansion, AI Effacer Pro, AI film, AI Beautify;
 - Processeur Dimensity 7300-Ultra, Processeur 4nm et compatible 5G ;
+- IP68 résistant à leau et à la poussière, Une résistance de niveau flagship pour une protection renforcée;Corning Gorilla Glass Cover Glass ;
+- Écran incurvé CrystalRes AMOLED de 1,5K AMOLED, Premier écran incurvé 3D de POCO, pour une meilleure prise en main aussi bien à lhorizontal quà la verticale.
 - Batterie longue durée 5110mAh, resistant au froid avec recharge intelligente
+- caméra principale 50MP avec OIS, Capteur Sony IMX882, AI Image Expansion, AI Effacer Pro, AI film, AI Beautify;
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DLGW7WB9{{</world>}}

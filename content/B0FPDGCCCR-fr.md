@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cherchez de puissantes reliques afin de restaurer larbre dÉternité flétrissant ! Explorez les provinces dans lordre de votre choix, avec des ennemis et boss dont le niveau sadapte en fonction de votre progression générale.
-- Voyagez à travers des villes, donjons et environnements de terrain tous interconnectés sans temps de chargement. Partez vers les cieux dans des séquences de vol en 3D pour traverser rapidement la carte du monde !
 - Participez à des combats au tour par tour à menus, inspirés des plus grands classiques du genre.
-- Immergez-vous dans un J-RPG rétro qui mélange lesthétique 2D à lancienne avec des améliorations modernes !
+- Voyagez à travers des villes, donjons et environnements de terrain tous interconnectés sans temps de chargement. Partez vers les cieux dans des séquences de vol en 3D pour traverser rapidement la carte du monde !
 - Retrouvez le style des J-RPG 16 bits avec Starlight Legacy, une aventure non linéaire inspirée par les classiques du genre !
+- Cherchez de puissantes reliques afin de restaurer larbre dÉternité flétrissant ! Explorez les provinces dans lordre de votre choix, avec des ennemis et boss dont le niveau sadapte en fonction de votre progression générale.
+- Immergez-vous dans un J-RPG rétro qui mélange lesthétique 2D à lancienne avec des améliorations modernes !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPDGCCCR{{</world>}}

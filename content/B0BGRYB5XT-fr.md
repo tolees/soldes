@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trois modes de connexion : Jouez avec le RGB activé pendant 119 heures grâce à la RF 2,4 GHz à faible latence, associez jusquà trois appareils via le mode Bluetooth ou chargez et jouez grâce à lUSB filaire
-- Structure légère : Le design amélioré avec une structure interne durable permet de réduire le poids de la souris à seulement 75 grammes
-- Autocollant à motifs ROG anti-dérapant : Offre aux utilisateurs une prise en main plus sûre et un peu plus de style
-- Technologie sans fil ROG SpeedNova : Offre des performances sans fil fiables et à faible latence et une solution dalimentation optimisée en mode RF 2,4 GHz
-- Push-Fit Switch Socket II : Switches interchangeables pour une personnalisation facile ; la Keris AimPoint comprend les micro-switches ROG et est compatible avec dautres micro-switches mécaniques à 3 broches et optiques à 5 broches
 - Mouvements fluides et rapides : ROG Paracord et patins de souris 100 % téflon PTFE
-- Boutons L/R en PBT : Dotés dune surface antidérapante durable qui résiste à lusure ou à la brillance pour garantir une sensation constante
+- Structure légère : Le design amélioré avec une structure interne durable permet de réduire le poids de la souris à seulement 75 grammes
 - Précision hors pair : Capteur optique ROG AimPoint de 36 000 dpi avec 650 ips et un taux daccélération de 50 g, plus un taux dinterrogation de 1000 Hz
+- Technologie sans fil ROG SpeedNova : Offre des performances sans fil fiables et à faible latence et une solution dalimentation optimisée en mode RF 2,4 GHz
+- Trois modes de connexion : Jouez avec le RGB activé pendant 119 heures grâce à la RF 2,4 GHz à faible latence, associez jusquà trois appareils via le mode Bluetooth ou chargez et jouez grâce à lUSB filaire
+- Autocollant à motifs ROG anti-dérapant : Offre aux utilisateurs une prise en main plus sûre et un peu plus de style
+- Boutons L/R en PBT : Dotés dune surface antidérapante durable qui résiste à lusure ou à la brillance pour garantir une sensation constante
+- Push-Fit Switch Socket II : Switches interchangeables pour une personnalisation facile ; la Keris AimPoint comprend les micro-switches ROG et est compatible avec dautres micro-switches mécaniques à 3 broches et optiques à 5 broches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BGRYB5XT{{</world>}}

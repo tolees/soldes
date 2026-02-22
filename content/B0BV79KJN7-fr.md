@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jonge spelers kunnen een LEGO Luigi, LEGO Peach of LEGO Mario poppetje (figuren niet inbegrepen) op de speelgoed boot plaatsen om te vissen en naar de gele Yoshi zwaaien om verschillende interactieve reacties te activeren
-- Download de LEGO Super Mario app voor digitale bouwinstructies om de verbeelding van kinderen te stimuleren en de LEGO ervaring te verbeteren
-- Het LEGO Mario speelgoed huis zit vol interactieve functies; personages kunnen op het bed slapen, koekjes uit de picknickmand eten, groenten uit de tuin "water geven" en hockey spelen
-- Deze 259-delige LEGO Mario speelgoed set is een geweldig verjaardagscadeau of verrassing voor kinderen, jongens en meisjes vanaf 6 jaar die dol zijn op LEGO Super Mario bouwbaar speelgoed
 - Kinderen vanaf 6 jaar kunnen hun LEGO Super Mario bouwbare spel uitbreiden met de Super Mario Uitbreidingsset: Picknick bij Marios huis, compleet met een gele Yoshi figuur voor vele uren interactief rollenspel
+- Download de LEGO Super Mario app voor digitale bouwinstructies om de verbeelding van kinderen te stimuleren en de LEGO ervaring te verbeteren
 - LEGO Super Mario uitbreidingssets zijn ontworpen om meer leuke uitdagingen toe te voegen aan LEGO Super Mario startsets (71360, 71387 of 71403) die nodig zijn voor interactief spel
+- Het LEGO Mario speelgoed huis zit vol interactieve functies; personages kunnen op het bed slapen, koekjes uit de picknickmand eten, groenten uit de tuin "water geven" en hockey spelen
+- Jonge spelers kunnen een LEGO Luigi, LEGO Peach of LEGO Mario poppetje (figuren niet inbegrepen) op de speelgoed boot plaatsen om te vissen en naar de gele Yoshi zwaaien om verschillende interactieve reacties te activeren
+- Deze 259-delige LEGO Mario speelgoed set is een geweldig verjaardagscadeau of verrassing voor kinderen, jongens en meisjes vanaf 6 jaar die dol zijn op LEGO Super Mario bouwbaar speelgoed
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV79KJN7{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Formule enrichie avec 1/4 de pigments purs pour une couleur intense et audacieuse
 - Enrichi en huiles évanescentes qui révèlent toute la douceur dune sensation "seconde peau"
+- Tenue parfaite jusquà 24 heures
 - Rouge à lèvres liquide longue durée avec une belle finition mate et une couleur intense
 - Texture douce et fondante avec 1/4 de pigments velours purs qui laisse vos lèvres mates, fondantes et douces comme du velours
-- Tenue parfaite jusquà 24 heures
-- Formule enrichie avec 1/4 de pigments purs pour une couleur intense et audacieuse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SYPI6JK{{</world>}}

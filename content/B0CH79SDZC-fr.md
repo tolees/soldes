@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Entretien : lavage en machine à froid, séchage à basse température
 - Matériau : 100 % percale de coton, avec une sensation nette et respirante
 - Caractéristiques : lensemble comprend un drap-housse entièrement élastique – installé tout autour pour maintenir le drap-housse en place ; poche profonde – le drap-housse convient aux matelas jusquà 45,7 cm (jusquà 38,1 cm pour les tailles doubles) ; les taies doreiller incluses ont des fermetures à enveloppe latérale, ce qui facilite le retrait de loreiller
-- Entretien : lavage en machine à froid, séchage à basse température
 - Lensemble comprend : un drap plat, un drap-housse et deux taies doreiller standard
 - Dimensions : drap plat : 259 x 228,6 cm (L x l), drap-housse : 203,2 x 152,4 cm (L x l), taies doreiller standard : 50,8 x 76,2 cm (L x l)
 

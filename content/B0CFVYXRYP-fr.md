@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Salle daccouchement et ascenseur fonctionnel : construis avec la boîte les différents secteurs dun hôpital, y compris une salle de traitement, une salle daccouchement, une salle de radiographie, un ascenseur et une salle de repos
-- Nombreux accessoires pour de nombreuses histoires damitié : comprend un jouet dhélicoptère pour enfants, un appareil à rayons X, un fauteuil roulant, un pansement, des plâtres, une seringue, des lits et des fleurs
 - Figurines LEGO Friends : le jouet pour enfants comprend 5 mini-poupées, dont LEGO Friends Autumn avec un visage supplémentaire pour montrer sa joie face à la nouvelle prothèse, ainsi que 2 bébés, un robot et un chien LEGO Friends
+- Nombreux accessoires pour de nombreuses histoires damitié : comprend un jouet dhélicoptère pour enfants, un appareil à rayons X, un fauteuil roulant, un pansement, des plâtres, une seringue, des lits et des fleurs
 - Cadeau pour les enfants qui aiment les jeux de rôle : cet hôpital LEGO Friends est un jouet complet pour les enfants de 7 ans et fait particulièrement plaisir comme cadeau danniversaire pour les enfants
 - Histoires damitié : amusez-vous encore plus avec dautres ensembles LEGO Friends disponibles séparément
 - Jouet dhôpital pour enfants : Lhôpital de la ville de Heartlake LEGO Friends offre aux filles et aux garçons qui aiment les jouets de docteur de nombreuses heures pour prendre soin des patients malades

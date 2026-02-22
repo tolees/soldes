@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce shampoing-crème sans sulfate est enrichi en glycérine hydratante dorigine végétale, en urea H qui renforce lhydratation capillaire et en extrait dhibiscus riche en acides aminés et vitamines.
-- DES CHEVEUX HYDRATES SANS ETRE ALOURDIS : Le shampoing LOréal Curl Expression hydrate les cheveux en profondeur avec un effet longue durée sans les alourdir*. Les cheveux sont plus doux et faciles à démêler.
 - SHAMPOING PROFESSIONNEL POUR CHEVEUX CREPUS & BOUCLES : Le Shampoing LOréal Professionnel Curl Expression nettoie les cheveux afro, crépus ou bouclés en douceur et leur apporte une hydratation intense. Le tout avec un parfum addictif et floral.
+- DES CHEVEUX HYDRATES SANS ETRE ALOURDIS : Le shampoing LOréal Curl Expression hydrate les cheveux en profondeur avec un effet longue durée sans les alourdir*. Les cheveux sont plus doux et faciles à démêler.
+- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce shampoing-crème sans sulfate est enrichi en glycérine hydratante dorigine végétale, en urea H qui renforce lhydratation capillaire et en extrait dhibiscus riche en acides aminés et vitamines.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YDKDJ6N{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc Omni-Grip résistant à labrasion
 - Dessus en maille et cuir imperméable. Construction Omni-Tech imperméable et respirante à membrane scellée
+- Caoutchouc Omni-Grip résistant à labrasion
 - Doublure réfléchissante Omni-Heat
 - Semelle intermédiaire légère Techlite pour un excellent amorti durable et un retour dénergie élevé
 - Veuillez noter : les lacets et fermetures éclair intégrés dans les chaussures Columbia Sportswear Company ne sont pas étanches.

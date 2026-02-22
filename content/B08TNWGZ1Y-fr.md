@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Tout-en-un : l’enceinte intelligente la plus polyvalente de Bose : une enceinte Bluetooth portable, une enceinte domestique et une enceinte à contrôle vocal dans un seul et même appareil
 - produit 2: Permet de lire de la musique pendant le chargement
-- produit 2: Permet de disposer d’une enceinte toujours chargée, prête à vous suivre partout
-- produit 1: Robuste et prête à l’emploi : cette enceinte portable résistante aux projections d’eau (indice de protection IPX4) bénéficie d’un design robuste et d’une autonomie maximale de 12 heures, ce qui lui permet de résister aux chocs, gouttes et autres éclaboussures de la vie quotidienne
-- produit 1: Performances sonores : profitez de basses puissantes et d’un son profond, clair et authentique à 360 degrés, où que vous soyez, quelle que soit la musique que vous écoutez
 - produit 1: Portabilité : saisissez la poignée et emportez cette enceinte ultra légère (un peu moins de 1 kg) partout où vous allez, que ce soit à l’extérieur ou dans une autre pièce de la maison
 - produit 2: Compatible avec l’enceinte Bose Portable Home Speaker
 - produit 2: Sert de socle pour installer votre enceinte à la maison
+- produit 1: Performances sonores : profitez de basses puissantes et d’un son profond, clair et authentique à 360 degrés, où que vous soyez, quelle que soit la musique que vous écoutez
+- produit 1: Robuste et prête à l’emploi : cette enceinte portable résistante aux projections d’eau (indice de protection IPX4) bénéficie d’un design robuste et d’une autonomie maximale de 12 heures, ce qui lui permet de résister aux chocs, gouttes et autres éclaboussures de la vie quotidienne
+- produit 1: Tout-en-un : l’enceinte intelligente la plus polyvalente de Bose : une enceinte Bluetooth portable, une enceinte domestique et une enceinte à contrôle vocal dans un seul et même appareil
+- produit 2: Permet de disposer d’une enceinte toujours chargée, prête à vous suivre partout
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TNWGZ1Y{{</world>}}

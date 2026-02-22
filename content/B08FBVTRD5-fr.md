@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- COMMENT PRÉPARER CE CAFÉ ? : Ce café moulu peut être utilisé en cafetière traditionnelle, en machine à espresso, en cafetière à piston ou en machine à café automatique si elle dispose dun compartiment pour le café moulu
 - LAVAZZA, LA PASSION DE L’EXCELLENCE : Lavazza est présent dans tous les secteurs du café, offrant des produits de qualité supérieure, obtenus grâce à un modèle durable basé sur linnovation, la passion et lexpertise
+- IDÉAL POUR UN CAFÉ espresso : Fruit dun assemblage savamment élaboré, puis torréfié et moulu avec savoir-faire, ce café possède la mouture idéale pour déguster un café espresso qui répond à chacune de vos envies
 - UN CAFÉ MOULU PUR ARABICA : Créé avec toute lexpertise des équipes Lavazza, ce délicieux café torréfié se compose de 100 % de café arabica moulu obtenu à partir de grains provenant dAfrique et dAmérique Centrale et du Sud, sélectionnés par nos maîtres torréfacteurs
 - LE CAFÉ ITALIEN MOULU PAR LAVAZZA : Le café Espresso Italiano Classico de Lavazza est issu de la sélection minutieuse de grains de café arabica, pour vous offrir un café doux et équilibré aux notes florales et aux arômes riches
-- COMMENT PRÉPARER CE CAFÉ ? : Ce café moulu peut être utilisé en cafetière traditionnelle, en machine à espresso, en cafetière à piston ou en machine à café automatique si elle dispose dun compartiment pour le café moulu
-- IDÉAL POUR UN CAFÉ espresso : Fruit dun assemblage savamment élaboré, puis torréfié et moulu avec savoir-faire, ce café possède la mouture idéale pour déguster un café espresso qui répond à chacune de vos envies
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08FBVTRD5{{</world>}}

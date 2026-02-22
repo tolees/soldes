@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité entre les plateformes pour une utilisation sur différents périphériques grâce à sa prise jack 3,5 mm: Le casque fonctionne avec PC, Mac, PS4, Xbox One, Nintendo Switch et les appareils mobiles : profitez de votre avantage audio imparable sur presque toutes les plateformes.
-- Conception légère avec coussinets doreille avec mousse à mémoire de forme pour un confort prolongé: Pesant uniquement 240 g, le casque dispose dun rembourrage de bandeau plus épais et de coussinets doreille à mémoire de forme et similicuir, pour que vous soyez en pleine forme pendant les tournois exténuants et les sessions d’entraînement.
 - Annulation passive du bruit avancée pour une concentration ininterrompue: Que les bruits proviennent de la foule ou du bourdonnement de votre matériel, les oreillettes couvrent entièrement vos oreilles, empêchant le bruit de filtrer dans le casque. En outre, ses coussinets vous permettront de profiter dune meilleure isolation sonore.
 - Micro cardioïde Razer HyperClear pour une captation améliorée de la voix: Un mode de captation amélioré permet d’entendre plus de voix et moins de bruits. Ces derniers s’atténuent à l’arrière et sur les côtés du micro, qui se place facilement près de votre bouche grâce à sa flexibilité.
-- Haut-parleurs de 50 mm Razer TriForce pour une performance audio optimisée: Notre nouveau design à la pointe de la technologie divise le haut-parleur en 3 parties permettant de régler individuellement les sons aigus, moyens et graves. Profitez d’un son cristallin aux aigus plus riches et aux basses plus puissantes.
+- Conception légère avec coussinets doreille avec mousse à mémoire de forme pour un confort prolongé: Pesant uniquement 240 g, le casque dispose dun rembourrage de bandeau plus épais et de coussinets doreille à mémoire de forme et similicuir, pour que vous soyez en pleine forme pendant les tournois exténuants et les sessions d’entraînement.
 - Son surround 7.1 pour un son positionnel précis: Soyez plus conscient de la partie et ne laissez rien vous échapper grâce au son positionnel précis, qui vous permet de localiser de façon intuitive doù vient chaque son. *Uniquement disponible sur Windows 10 64 bits.
+- Haut-parleurs de 50 mm Razer TriForce pour une performance audio optimisée: Notre nouveau design à la pointe de la technologie divise le haut-parleur en 3 parties permettant de régler individuellement les sons aigus, moyens et graves. Profitez d’un son cristallin aux aigus plus riches et aux basses plus puissantes.
+- Compatibilité entre les plateformes pour une utilisation sur différents périphériques grâce à sa prise jack 3,5 mm: Le casque fonctionne avec PC, Mac, PS4, Xbox One, Nintendo Switch et les appareils mobiles : profitez de votre avantage audio imparable sur presque toutes les plateformes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDRMXQQC{{</world>}}

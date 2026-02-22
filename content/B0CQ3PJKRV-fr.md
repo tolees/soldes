@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception modulaire pour une configuration personnalisée avec un module gauche réversible, un module droit standard, un module Fightpad à 6 boutons, 4 sticks interchangeables, 3 croix directionnelles différentes et 4 portes
-- Gâchettes d’embrayage brevetées avec 5 points d’arrêt et mode Déclencheur de cheveux, 4 boutons arrière mappables et encore plus de personnalisations à l’aide de l’application gratuite Victrix Control Hub
 - Jouez en mode sans fil sur votre console à l’aide du dongle USB, connectez-vous via Bluetooth à des appareils compatibles ou utilisez le câble inclus pour brancher la manette afin de participer à des tournois et d’avoir des réactions encore plus rapides
-- Licence officielle Xbox
+- Gâchettes d’embrayage brevetées avec 5 points d’arrêt et mode Déclencheur de cheveux, 4 boutons arrière mappables et encore plus de personnalisations à l’aide de l’application gratuite Victrix Control Hub
 - Audio à faible latence et Dolby Atmos intégré avec un abonnement à vie pour un son surround spatial pendant le jeu
+- Conception modulaire pour une configuration personnalisée avec un module gauche réversible, un module droit standard, un module Fightpad à 6 boutons, 4 sticks interchangeables, 3 croix directionnelles différentes et 4 portes
+- Licence officielle Xbox
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQ3PJKRV{{</world>}}

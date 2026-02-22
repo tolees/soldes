@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EAU MICELLAIRE TOUT-EN-1 : Découvrez la solution micellaire Garnier, lalliée ultime pour une peau propre, démaquillée et purifiée au quotidien. Conçue pour tous les types de peaux, même sensible, elle prend soin de vous en un seul geste.
-- FORMULE APAISANTE 100% VEGAN : Vegan et approuvée par Cruelty Free, cette formule hypoallergénique sans parfum associe des micelles, agents nettoyants invisibles, et de la glycérine végétale, un actif hydratant et apaisant.
 - NETTOIE EN DOUCEUR : Leau micellaire Garnier démaquille et apaise tout en capturant les impuretés et le sébum, sans frotter et sans laisser de résidus* grâce aux micelles qui permettent de nettoyer la peau en douceur.
+- FORMULE APAISANTE 100% VEGAN : Vegan et approuvée par Cruelty Free, cette formule hypoallergénique sans parfum associe des micelles, agents nettoyants invisibles, et de la glycérine végétale, un actif hydratant et apaisant.
 - EMBELLISSEZ VOTRE PEAU AVEC GARNIER SKIN ACTIVE : Révélez une peau fraîche et saine grâce à Skin Active, une gamme dédiée aux soins du visage, formulée avec des ingrédients naturels, pour embellir toutes les peaux.
 - CONSEILS DAPPLICATION : Matin et soir, appliquez leau nettoyante Garnier sur un coton, de préférence réutilisable, puis nettoyez lensemble de votre visage, dont les lèvres et les yeux. Pas besoin de rincer.
+- EAU MICELLAIRE TOUT-EN-1 : Découvrez la solution micellaire Garnier, lalliée ultime pour une peau propre, démaquillée et purifiée au quotidien. Conçue pour tous les types de peaux, même sensible, elle prend soin de vous en un seul geste.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MRZWHU7{{</world>}}

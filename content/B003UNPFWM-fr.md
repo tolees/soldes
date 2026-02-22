@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne t che pas
-- Extra forte Permet également de réaliser des créations en utilisant la technique de lacrylique pouring
-- Séchage rapide & transparent 5 à 10 minutes
-- Sans solvant sans acide nettoyage des outils à leau savonneuse
 - Colle forte multi-usagers papier carton bois terre cuite mousse plastique faïence liège etc
+- Extra forte Permet également de réaliser des créations en utilisant la technique de lacrylique pouring
+- Ne t che pas
+- Sans solvant sans acide nettoyage des outils à leau savonneuse
+- Séchage rapide & transparent 5 à 10 minutes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003UNPFWM{{</world>}}

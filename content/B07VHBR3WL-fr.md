@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection à lépreuve des intempéries IP44 pour une utilisation en extérieur
-- Permet un contrôle à distance et automatisé : pour la programmation et la liaison dappareils
-- Prend en charge la commande vocale : en combinaison avec Amazon Alexa ou Google Home
-- Peut être utilisée comme produit autonome ou se connecter facilement à dautres produits Nedis SmartLife
 - Contrôlez tout appareil électrique à distance en le branchant simplement sur cette prise intelligente sans fil Nedis
+- Protection à lépreuve des intempéries IP44 pour une utilisation en extérieur
+- Prend en charge la commande vocale : en combinaison avec Amazon Alexa ou Google Home
+- Permet un contrôle à distance et automatisé : pour la programmation et la liaison dappareils
+- Peut être utilisée comme produit autonome ou se connecter facilement à dautres produits Nedis SmartLife
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VHBR3WL{{</world>}}

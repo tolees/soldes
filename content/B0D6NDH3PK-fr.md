@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce style a été produit de manière durable
-- il assure un ajustement optimal
 - il sagit dun produit authentique et original Geox
 - Confortable à porter
+- il assure un ajustement optimal
+- Ce style a été produit de manière durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6NDH3PK{{</world>}}

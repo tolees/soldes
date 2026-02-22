@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Portable Convivial & Sûr Fiable : Cette station électrique portable répond aux normes de transport de laviation et est facile à transporter grâce à sa conception de petite taille. Cet E100 Plus générateur electrique bénéficie dune sécurité de premier ordre grâce aux certifications UL et CE/EMC de classe B, dune compatibilité électromagnétique supérieure et de 6 formes de protection.
+- Chargement Rapide Bidirectionnel & Chargement Solaire : Grâce à la technologie bidirectionnelle PD 3.0, Explorer 100 Plus générateur électrique portable est capable de recevoir une charge ultra-puissante de 100W et dêtre complètement rechargé en 1.8H. Une fois connecté au panneau solaire SolarSaga 100W, E100 Plus peut se charger rapidement et complètement en 2H.
 - Longue Durée de vie & Endurance : Grâce à sa cellule de batterie durable en phosphate de fer lithié, le produit dispose dune très longue durée de vie et sa capacité de batterie reste de 80% après 2000 cycles.
 - Interfaces Variées & Grande Compatibilité : Dotée de 2ports USB-C et dun port USB-A, Jackery E100 Plus station électrique peut charger 3 appareils à la fois avec 128W Sortie. Conçu pour prendre en charge les protocoles PD/AFC/QC/PPS, il est compatible avec divers appareils tels que les téléphones mobiles, les ordinateurs portables, les tablettes etc..
 - Contenu de lemballage : 1*Mode demploi, 1*Câble de chargement USB-C, Garantie de 2 ans et Service Clientèle de Première Classe.
-- Chargement Rapide Bidirectionnel & Chargement Solaire : Grâce à la technologie bidirectionnelle PD 3.0, Explorer 100 Plus générateur électrique portable est capable de recevoir une charge ultra-puissante de 100W et dêtre complètement rechargé en 1.8H. Une fois connecté au panneau solaire SolarSaga 100W, E100 Plus peut se charger rapidement et complètement en 2H.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJFK14BJ{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ortholite
-- Doublure chenille
 - Ultra Go
+- Doublure chenille
+- Ortholite
 - Tapis Goga refroidi par air
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

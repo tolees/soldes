@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients actifs : acide glycolique à 5 % pour le renouvellement cellulaire, acide mandélique à 2,55 % pour léclat de la peau, et gluconolactone à 2,45 % pour affiner le grain de peau.
-- Formule riche : Formulé avec 10 % dAHA/PHA et dacide salicylique, il réduit les boutons grâce à ses propriétés exfoliantes et prévient leur réapparition.
-- Conseils d’utilisation : En cas de première utilisation, appliquer le produit sur de petites surfaces de la peau pendant les 3 premiers jours. Si aucune sensation d’inconfort n’apparaît, appliquer une fine couche de produit une fois par jour sur le visage propre, puis passer à deux fois par jour si nécessaire
-- Formule douce : Avec un pH de 4, ce sérum est doux tout en étant efficace. En quatre semaines, 90 % des utilisateurs ont constaté une réduction des boutons**.
 - Développé avec des dermatologues : Le Sérum Quotidien Anti-Boutons+ de Neutrogena combat efficacement les boutons et améliore les marques dacné en une semaine,
+- Conseils d’utilisation : En cas de première utilisation, appliquer le produit sur de petites surfaces de la peau pendant les 3 premiers jours. Si aucune sensation d’inconfort n’apparaît, appliquer une fine couche de produit une fois par jour sur le visage propre, puis passer à deux fois par jour si nécessaire
+- Formule riche : Formulé avec 10 % dAHA/PHA et dacide salicylique, il réduit les boutons grâce à ses propriétés exfoliantes et prévient leur réapparition.
+- Ingrédients actifs : acide glycolique à 5 % pour le renouvellement cellulaire, acide mandélique à 2,55 % pour léclat de la peau, et gluconolactone à 2,45 % pour affiner le grain de peau.
+- Formule douce : Avec un pH de 4, ce sérum est doux tout en étant efficace. En quatre semaines, 90 % des utilisateurs ont constaté une réduction des boutons**.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9NMYM1N{{</world>}}

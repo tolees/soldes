@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hair Remedy Masque capillaire à lhuile dargan bio et à lhuile de camélia, agit en 1 minute pour des cheveux brillants et soignés, sans silicone
 - Formule enrichie en deux huiles précieuses : huile dargan bio nourrissante et huile de camélia éclaircissante, sans silicone, ingrédients dorigine naturelle à 97 %, texture crémeuse
-- Contenu : 1 masque nourrissant Garnier ultra-doux pour cheveux secs et ternes, effet en 1 minute, avec huile dargan bio et huile de camélia, huiles merveilleuses, Hair Remedy, 340 ml
 - Nourrit la fibre en profondeur, agit comme un bain nutritif pour les cheveux avec plus de nutrition* et de brillance, pour des cheveux sains et brillants, *Test instrumental
+- Hair Remedy Masque capillaire à lhuile dargan bio et à lhuile de camélia, agit en 1 minute pour des cheveux brillants et soignés, sans silicone
+- Contenu : 1 masque nourrissant Garnier ultra-doux pour cheveux secs et ternes, effet en 1 minute, avec huile dargan bio et huile de camélia, huiles merveilleuses, Hair Remedy, 340 ml
 - Appliquez généreusement notre produit sur cheveux mouillés, attendez une minute et rincez
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

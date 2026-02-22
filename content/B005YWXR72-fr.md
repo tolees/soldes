@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - TENUE LONGUE DURÉE : Notre Poudre Pressée REVLON ColorStay tient jusquà 16 heures et reste uniforme sans se craqueler ni sécher.
-- POUDRE ATTÉNUANT LA BRILLANCE, SANS HUILE : Poudre permettant de limiter la brillance et procurant un teint parfait sans imperfections pour toute la journée. Cette poudre sans huile non-comédogène nobstrue pas les pores de la peau.
-- COUVRANCE MOYENNE MODULABLE : Glisse en toute légèreté et se fond uniformément à la peau pour une couvrance moyenne à complète modulable. La Poudre Pressée ColorStay vous procure la sensation agréable dun teint frais.
-- USAGES MULTIPLES : Appliquez la Poudre pressée ColorStay seule sur peau nue ou associez-la avec le Fond de Teint ColorStay et lAnti-cernes couvrance intégrale ColorStay pour un teint sans imperfections
 - DISPONIBLE EN 3 TEINTES : Lécrin contient une poudre pressée translucide légère et un applicateur éponge
+- COUVRANCE MOYENNE MODULABLE : Glisse en toute légèreté et se fond uniformément à la peau pour une couvrance moyenne à complète modulable. La Poudre Pressée ColorStay vous procure la sensation agréable dun teint frais.
+- POUDRE ATTÉNUANT LA BRILLANCE, SANS HUILE : Poudre permettant de limiter la brillance et procurant un teint parfait sans imperfections pour toute la journée. Cette poudre sans huile non-comédogène nobstrue pas les pores de la peau.
+- USAGES MULTIPLES : Appliquez la Poudre pressée ColorStay seule sur peau nue ou associez-la avec le Fond de Teint ColorStay et lAnti-cernes couvrance intégrale ColorStay pour un teint sans imperfections
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005YWXR72{{</world>}}

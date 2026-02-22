@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MICRO-RESPIRANT : au niveau de la tête, le réducteur Cocoon est conçu en tissu 3D micro-respirant pour le bien-être et la sécurité de votre bébé
-- ULTRA DOUX : Légèrement matelassé et gaufré, le tissu offre le côté structuré et tendance du Tetra jersey tout en gardant de la douceur et de la souplesse
 - CEINTURE AMOVIBLE : votre bébé est confortablement maintenu grâce à la ceinture incluse avec ce réducteur
+- ULTRA DOUX : Légèrement matelassé et gaufré, le tissu offre le côté structuré et tendance du Tetra jersey tout en gardant de la douceur et de la souplesse
 - REDUCTEUR NOUVEAU NE EVOLUTIF : ce réducteur pour bébé rassure votre bébé en créant un espace douillet autour de lui. Le bas du nid souvre pour sadapter à sa croissance
 - ENTRETIEN FACILE : le réducteur Cocoon est déhoussable et lavable en machine à 30°C
 

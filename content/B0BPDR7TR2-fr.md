@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fermeture : lacets
 - Semelle : caoutchouc
-- Matériau extérieur : textile
 - Matériau intérieur : synthétique
+- Matériau extérieur : textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BPDR7TR2{{</world>}}

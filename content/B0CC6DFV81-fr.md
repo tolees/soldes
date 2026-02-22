@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅ 【RGB】Cette version est équipée dun éclairage RGB qui offre un spectre lumineux large et varié.
-- ✅ 【Fonctionnel】Le Balistic MK 1 RGB sera toujours au niveau grâce à ses 4 pieds rotatifs indépendants, permettant ainsi de s’adapter à toutes les surfaces de sol. Noubliez pas de ranger vos accessoires grâce aux portes goblet et casques intégrés
-- ✅ 【Solide】Le Balistic MK 1 RGB peut supporter jusqu’à 100 kilos d’équipements sur son plateau de 18 mm dépaisseur
-- ✅ 【Compact】Avec ses dimensions contenues de 112 cm x 60 cm et une hauteur réglable par paliers de 67cm à 81 cm, il trouvera naturellement sa place dans les petits espaces et pourra offrir une solution ergonomique pour tous
 - ✅ 【Performant】Le bureau Balistic MK 1 est le bureau idéal pour une pratique intensive du E-sport et de la bureautique
+- ✅ 【RGB】Cette version est équipée dun éclairage RGB qui offre un spectre lumineux large et varié.
+- ✅ 【Compact】Avec ses dimensions contenues de 112 cm x 60 cm et une hauteur réglable par paliers de 67cm à 81 cm, il trouvera naturellement sa place dans les petits espaces et pourra offrir une solution ergonomique pour tous
+- ✅ 【Solide】Le Balistic MK 1 RGB peut supporter jusqu’à 100 kilos d’équipements sur son plateau de 18 mm dépaisseur
+- ✅ 【Fonctionnel】Le Balistic MK 1 RGB sera toujours au niveau grâce à ses 4 pieds rotatifs indépendants, permettant ainsi de s’adapter à toutes les surfaces de sol. Noubliez pas de ranger vos accessoires grâce aux portes goblet et casques intégrés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CC6DFV81{{</world>}}

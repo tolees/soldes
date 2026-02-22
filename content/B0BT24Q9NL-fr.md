@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglage précis : dans le capot de ce barbecue se trouve un thermomètre qui vous aidera à surveiller et à régler les températures de vos cuissons. Ce modèle bénéficie aussi dun bouton lumineux avec indicateur dallumage
 - Surface de cuisson plancha et grille : vous apprécierez particulièrement sa grande surface de cuisson avec le grill pour saisir la viande, la plaque en fonte pour la cuisson de légumes, de petits aliments, etc. et le capot pour la cuisson four
+- Réglage précis : dans le capot de ce barbecue se trouve un thermomètre qui vous aidera à surveiller et à régler les températures de vos cuissons. Ce modèle bénéficie aussi dun bouton lumineux avec indicateur dallumage
 - Montage rapide : le FLAVO 60 se monte en moins de 15 minutes avec seulement 8 vis et un système de montage aisé des tablettes. Un système clipsé vous permettra d’assembler une partie de votre barbecue. Il se raccorde au gaz de façon simple et sécurisée
 - Fonctionnement gaz : profitez dinoubliables moments entre proches avec le barbecue à gaz FLAVO 60 pouvant ravir jusquà 10 convives. Avec ses 3 brûleurs et le système dallumage par piezo intégré, bénéficiez dune montée en température rapide
 

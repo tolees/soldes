@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Homme Runner Four K100226 Sneaker Noir 017 44 EU'
-date: 2026-02-16 05:16:26
+date: 2026-02-22 13:22:22
 image: 'https://m.media-amazon.com/images/I/31RBE-La-sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FRZVS3F/?tag=tolees0d-21'
 descuento: '35.37'
-average: '88.0763333333335'
+average: '88.0246875000002'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- XL EXTRALIGHT pour plus de légèreté et damortissement des chocs
-- Semelle extérieure : semelle extérieure en EVA pour un poids léger
-- Coutures tout autour pour une longue durée de vie
 - Matériau extérieur : cuir (cuir de vache)
+- Coutures tout autour pour une longue durée de vie
 - Couleur : noir
+- Semelle extérieure : semelle extérieure en EVA pour un poids léger
+- XL EXTRALIGHT pour plus de légèreté et damortissement des chocs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FRZVS3F{{</world>}}

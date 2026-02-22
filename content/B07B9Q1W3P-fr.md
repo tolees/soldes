@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produits sous licence officielle
-- Caractéristiques figurine Hermione Granger en éclairant cloche
 - 13 cm (12,7 cm) de hauteur
+- Produits sous licence officielle
 - Lumière alimentée par batterie
+- Caractéristiques figurine Hermione Granger en éclairant cloche
 - Excellent cadeau pour les fans de Harry Potter
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ❤️ Idée cadeau élégante : Un coffret parfum de luxe pour homme (ou mixte), parfait pour un anniversaire, une fête ou toute autre occasion.
 - ✨ Composition olfactive sophistiquée : Ouverture fraîche d’iris, encens et cyprès, cœur boisé et chaleureux, fond intense de musc blanc, ambre et vanille. Une signature noble et équilibrée.
 - 💯 Musc pur 3 ml inclus : Un complément olfactif idéal à porter seul ou en base pour enrichir la profondeur du parfum.
-- 👍 Tenue exceptionnelle : Grâce à sa concentration en extrait de parfum, BOIS offre une diffusion puissante et une longue tenue sur la peau.
-- 💫 Superposition créative : Combinez BOIS avec d’autres fragrances Fragrances By Sasso pour créer une senteur unique et personnalisée.
 - 🎁 Présentation prestige : Le flacon est doté d’un bouchon aimanté et d’une étiquette en métal doré, tout comme la boîte. L’ensemble est présenté dans un écrin aimanté effet cuir. ✨ Pensez à retirer le film protecteur (blister) sur les plaques métalliques du flacon et de la boîte pour révéler toute leur brillance.
+- 💫 Superposition créative : Combinez BOIS avec d’autres fragrances Fragrances By Sasso pour créer une senteur unique et personnalisée.
+- 👍 Tenue exceptionnelle : Grâce à sa concentration en extrait de parfum, BOIS offre une diffusion puissante et une longue tenue sur la peau.
+- ❤️ Idée cadeau élégante : Un coffret parfum de luxe pour homme (ou mixte), parfait pour un anniversaire, une fête ou toute autre occasion.
 - 🏆 Coffret exclusif : Ce coffret contient un extrait de parfum 50 ml, un musc pur 3 ml ainsi que 5 échantillons surprises OFFERTS, sélectionnés aléatoirement parmi notre collection de 23 références.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

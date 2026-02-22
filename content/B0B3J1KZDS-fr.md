@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La plus grande compétition de football au monde se dévoile dans une collection de stickers exceptionnelle. Véritable guide de la compétition destiné à tous les passionnés de football, cet album présente tous les effectifs, les différents stades, des informations sur la phase qualificative ..
-- Ce blister contient 12 pochettes de 5 stickers + 1 OFFERTE, soit 65 stickers.
 - La collection comporte 670 stickers, dont 50 brillants.
 - Réunis les meilleurs joueurs des meilleures équipes et deviens le champion du monde des collectionneurs !
-- Retrouve dès maintenant la collection officielle de stickers* de la Coupe du Monde de la FIFA 2022 !
 - * Stickers répartis aléatoirement dans les pochettes, visuels non contractuels. Album vendu séparément.
+- Ce blister contient 12 pochettes de 5 stickers + 1 OFFERTE, soit 65 stickers.
+- La plus grande compétition de football au monde se dévoile dans une collection de stickers exceptionnelle. Véritable guide de la compétition destiné à tous les passionnés de football, cet album présente tous les effectifs, les différents stades, des informations sur la phase qualificative ..
+- Retrouve dès maintenant la collection officielle de stickers* de la Coupe du Monde de la FIFA 2022 !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3J1KZDS{{</world>}}

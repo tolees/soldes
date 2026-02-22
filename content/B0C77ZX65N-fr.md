@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bout perforé
-- Fermeture à lacets sur le devant avec œillet en TPU contrasté
 - Logo au talon, sur la languette et sur le côté
 - Col de cheville rembourré
+- Bout perforé
+- Fermeture à lacets sur le devant avec œillet en TPU contrasté
 - Semelle intermédiaire en mousse EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

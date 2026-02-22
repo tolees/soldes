@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- WARRANTY Enjoy long-term peace of mind with the included 3-year limited warranty
+- HIGH CAPACITY 1 TB of storage increases the overall capacity of the Xbox Series X|S — collect thousands of games across four generations of Xbox without sacrificing performance
 - QUICK RESUME Switch between multiple titles in seconds — directly from the internal SSD or the expansion card
 - DESIGNED FOR XBOX Providing faster load times, richer environments and more immersive gameplay
 - SEAMLESS GAMEPLAY Designed in partnership with Xbox to seamlessly play Xbox Series X|S games from the internal SSD or the expansion card without sacrificing graphics, latency, load times or framerates
-- WARRANTY Enjoy long-term peace of mind with the included 3-year limited warranty
-- HIGH CAPACITY 1 TB of storage increases the overall capacity of the Xbox Series X|S — collect thousands of games across four generations of Xbox without sacrificing performance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08K48F6QZ{{</world>}}

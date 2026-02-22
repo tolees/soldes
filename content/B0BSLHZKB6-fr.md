@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 26,5" WQHD, COULEUR 10 BIT - La dalle OLED Quantum Dot affiche 1,07 milliard de couleurs (10 bits, 99 % DCI-P3) avec un Delta E ≤2 ; certifié VESA DisplayHDR True Black 400 (taux de contraste de 1500000:1) et jusquà 1000 nits de luminosité maximale.
-- QUANTUM DOT OLED - Lécran MSI MAG 271QP QD-OLED X24 combine la conversion de couleur Quantum Dot 10 bits avec des pixels OLED auto-émissifs pour des noirs inégalés et un temps de réponse exceptionnel.
-- TAUX DE RAFRAICHISSEMENT DE 240 HZ, TEMPS DE REPONSE DE 0,03 ms - Une fréquence de 240 Hz est complétée par un temps de réponse de 0,03 ms (GtG) pour un indice VESA ClearMR 13000 exceptionnel ; un radiateur en graphène améliore la longévité de lécran.
 - CONNECTIVITÉ DE POINTE - Les options dinterface PC, Mac, console et ordinateur portable (toutes WQHD/240Hz) comprennent des ports DisplayPort 1.4a, HDMI 2.1 CEC.
+- TAUX DE RAFRAICHISSEMENT DE 240 HZ, TEMPS DE REPONSE DE 0,03 ms - Une fréquence de 240 Hz est complétée par un temps de réponse de 0,03 ms (GtG) pour un indice VESA ClearMR 13000 exceptionnel ; un radiateur en graphène améliore la longévité de lécran.
+- QUANTUM DOT OLED - Lécran MSI MAG 271QP QD-OLED X24 combine la conversion de couleur Quantum Dot 10 bits avec des pixels OLED auto-émissifs pour des noirs inégalés et un temps de réponse exceptionnel.
 - GAMING INTELLIGENCE - Le logiciel MSI GI inclut OLED Care 2.0 pour prévenir le burn-in, un logiciel assisté par IA (Smart Crosshair), les modes Console et Game Assistance ; compatible PiP/PbP ; dispose dun support réglable sur 4 axes (VESA 100mm).
+- 26,5" WQHD, COULEUR 10 BIT - La dalle OLED Quantum Dot affiche 1,07 milliard de couleurs (10 bits, 99 % DCI-P3) avec un Delta E ≤2 ; certifié VESA DisplayHDR True Black 400 (taux de contraste de 1500000:1) et jusquà 1000 nits de luminosité maximale.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BSLHZKB6{{</world>}}

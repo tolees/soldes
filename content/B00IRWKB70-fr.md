@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRECHAUFFAGE RAPIDE en 25 secondes
-- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- 2 TAILLES DE TASSE, Espresso et Lungo
 - ARRET AUTOMATIQUE après 9 minutes dinutilisation
+- 2 TAILLES DE TASSE, Espresso et Lungo
+- REPARABILITE 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - Une machine à café au DESIGN SIMPLE ET EPURE
+- PRECHAUFFAGE RAPIDE en 25 secondes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00IRWKB70{{</world>}}

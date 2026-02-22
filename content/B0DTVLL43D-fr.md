@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son bouchon est muni dun cordon, ce qui permet de la transporter facilement. Capacité : 550 ml.
-- Hermétique, inodore et légère. Sans BPA.
 - Bouteille thermique en acier inoxydable 304 double couche, avec message dirigé aux papas.
-- Peut contenir des boissons froides pendant 24 heures et des boissons chaudes pendant 12 heures.
+- Son bouchon est muni dun cordon, ce qui permet de la transporter facilement. Capacité : 550 ml.
 - Instructions : laver à la main avec de leau et du savon avant la première utilisation. Ne pas mettre au lave-vaisselle. Ne pas mettre au micro-ondes. Ne pas congeler. Lorsquil nest pas utilisé. il est recommandé de toujours le conserver avec le bouchon ouvert afin déviter les mauvaises odeurs.
+- Hermétique, inodore et légère. Sans BPA.
+- Peut contenir des boissons froides pendant 24 heures et des boissons chaudes pendant 12 heures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTVLL43D{{</world>}}

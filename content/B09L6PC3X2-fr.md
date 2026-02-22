@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BOURJOIS, LÉLÉGANCE PARISIENNE : Bourjois prône lélégance et le chic à la parisienne tout en samusant avec les couleurs et le style pour faire de la beauté un jeu plein de possibilités et de créativité.
-- SÉCHAGE EN 50 SECONDES : Soyez prête en un temps record avec un séchage en seulement 50 secondes. Profitez dune manucure impeccable sans attendre, idéal pour les femmes actives qui veulent une beauté rapide et efficace.
 - VOTRE ROUTINE MANUCURE : Commencez par la pose dune base pour protéger vos ongles, puis appliquez 2 couches du vernis à ongles 1 Seconde. Enfin, scellez votre chef-dœuvre avec le Top Coat Gel Bourjois pour une tenue prolongée.
+- SÉCHAGE EN 50 SECONDES : Soyez prête en un temps record avec un séchage en seulement 50 secondes. Profitez dune manucure impeccable sans attendre, idéal pour les femmes actives qui veulent une beauté rapide et efficace.
 - 30 ONGLE, 1 PASSAGE, 1 SECONDE : Avec le vernis à ongles 1 Seconde de Bourjois, un seul passage suffit pour une couleur intense et ultra-brillante, rendant lapplication du vernis plus rapide et efficace que jamais.
 - PINCEAU PANORAMIQUE : Linnovant pinceau panoramique épouse la forme de longle. Évitez les débordements grâce à un pinceau anti-débordement zéro bavure pour un résultat professionnel à chaque utilisation.
 

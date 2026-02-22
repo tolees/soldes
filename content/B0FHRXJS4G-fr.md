@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le club est à vous dans EA SPORTS FC 26.
 - Jouez à votre façon avec une expérience de jeu remaniée grâce aux retours de la communauté.
+- Le club est à vous dans EA SPORTS FC 26.
 - Des Défis Manager Live qui apportent des histoires inédites à la nouvelle saison, et des archétypes inspirés par les stars du jeu.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

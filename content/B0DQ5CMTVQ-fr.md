@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mode demploi : Laver à la main avant la première utilisation. Lorsquil nest pas utilisé, gardez le flacon ouvert pour éviter la formation de mauvaises odeurs. Ne pas congeler. Ne pas mettre au lave-vaisselle.
 - Bouteille thermique en acier inoxydable 304 double couche, garde les boissons chaudes pendant 12 heures et froides pendant 24 heures.
+- Mode demploi : Laver à la main avant la première utilisation. Lorsquil nest pas utilisé, gardez le flacon ouvert pour éviter la formation de mauvaises odeurs. Ne pas congeler. Ne pas mettre au lave-vaisselle.
 - Avec bouchon hermétique et paille intégrée, tous deux en plastique et sans BPA. Très léger. Capacité : 750 ml.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

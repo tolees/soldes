@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Offre confort et liberté de mouvement
 - Matériau de qualité
-- Tissu léger
 - Détails distinctifs de la marque
+- Tissu léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XMTTXZB{{</world>}}

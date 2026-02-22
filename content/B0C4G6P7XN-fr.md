@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pack vacances : célébrez la saison des fêtes avec le calendrier des fêtes Pokémon Deluxe
-- Compte à rebours du calendrier en ouvrant un jouet Pokémon unique chaque jour
 - Pokémon emblématique : le lot comprend un mélange de 24 figurines de combat de 5,1 cm
+- Compte à rebours du calendrier en ouvrant un jouet Pokémon unique chaque jour
+- Pack vacances : célébrez la saison des fêtes avec le calendrier des fêtes Pokémon Deluxe
 - Produit officiel : produit sous licence officielle Pokémon de Jazwares
 
 [🛒 Achète-le!!]({{< param buyurl >}})

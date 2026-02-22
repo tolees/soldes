@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les fans peuvent recréer un véhicule emblématique avec ce kit de construction de maquette de moto LEGO Technic BATCYCLE, comme on le voit dans le film 2022 : LE BATMAN
 - Les enfants et les fans peuvent capturer lesprit du super-héros DC et construire la moto jouet pièce par pièce, puis recréer leurs moments préférés de Batman
 - Ce modèle de collection LEGO THE BATMAN - BATCYCLE comporte une béquille de soutien pour que les enfants puissent exposer leur construction avec fierté sur une étagère ou un bureau
+- Les fans peuvent recréer un véhicule emblématique avec ce kit de construction de maquette de moto LEGO Technic BATCYCLE, comme on le voit dans le film 2022 : LE BATMAN
 - La moto Batman est dotée de caractéristiques réalistes, notamment une direction, une suspension et une chaîne dentraînement qui relie le moteur H4 à la roue arrière
 - Ce kit de construction de modèles réduits de motos est une excellente idée de cadeau Batman pour les enfants de 9 ans et plus et les fans de super héros, de véhicules jouets et de la culture des bandes dessinées
 

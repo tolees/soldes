@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Barrette de connexion simple et robuste en plastique spécial hautement résistant à la rupture
-- Avec interrupteur de sécurité éclairé pour lallumage et la désactivation (bipolaire)
 - Multiprise à 6 contacts de mise à la terre avec câble de 3 m de long H05VV-F 3G1.5 et protection tactile accrue
+- Avec interrupteur de sécurité éclairé pour lallumage et la désactivation (bipolaire)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HHIERFW{{</world>}}
