@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Logitech MX Keys S Clavier sans Fil Rechargeable USB C Clavier Silencieux Plat Rétroéclairé Touches Ergonomiques et Programmables Bluetooth Windows PC Linux Chrome Mac AZERTY Français-Gris'
+date: 2026-05-20 13:48:51
+image: 'https://m.media-amazon.com/images/I/41dowt-e6TL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07W6JFM87-fr Logitech MX Keys S Clavier sans Fil Rechargeable USB C...'
+sku: 'B07W6JFM87-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 76.53 EUR
+currency: EUR
+price: 76.53
+comparePrice: 119.99 EUR
+prodname: 'Logitech MX Keys S Clavier sans Fil Rechargeable USB C Clavier Silencieux Plat Rétroéclairé Touches Ergonomiques et Programmables Bluetooth Windows PC Linux Chrome Mac AZERTY Français-Gris'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B07W6JFM87/?tag=tolees0d-21'
+descuento: '36.22'
+average: '80.138'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Éclairage Intelligent : Les touches du clavier rétroéclairé sadaptent à lenvironnement et silluminent lorsque vous approchez vos mains. Personnalisez les options déclairage sur Logi Options+ (1).
+- Clavier Rechargeable USB-C : Reste alimenté pendant 10 jours avec une charge complète ou jusquà 5 mois (rétroéclairage désactivé) (4) ; charge rapide avec le câble de chargement USB-C inclus.
+- Plus de Confort pour une Meilleure Concentration : Travaillez plus longtemps avec ce clavier ergonomique résistant, fin et incliné pour une posture optimale de vos poignets.
+- Recyclé : Les pièces en plastique du clavier sans fil MX Keys S contiennent du plastique recyclé post-consommation certifié — 26% pour la version Graphite et 11% pour Gris Pâle (5)
+- Automatisez les Tâches Répétitives : Créez facilement des macros pour effectuer plusieurs actions avec une seule frappe de touche, grâce à lapplication Logi Options+ et partagez-les (1).
+- Clavier Bluetooth Multi-Dispositifs, Multi-OS : Associez jusquà 3 appareils sur différents systèmes OS (Windows, macOS, Linux) via Bluetooth Low Energy ou le récepteur Logi Bolt USB inclus (2).
+- MX Master 3S : Associez nimporte quel clavier et souris sans fil MX avec Logi Options+ pour travailler sans interruption et basculer entre 3 dispositifs différents (PC, tablettes ou téléphones)
+- Expérience de Frappe Fluide : Les touches concaves, similaires à celles dun clavier dordinateur portable, épousent la forme de vos doigts et permet une frappe rapide, précise et silencieuse.
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B07W6JFM87{{</world>}}

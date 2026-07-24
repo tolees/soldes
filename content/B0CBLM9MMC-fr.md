@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Skullcandy Crusher Evo Casque sans Fil Bluetooth Câble de Recharge USB-C Supplémentaire Basses Multisensorielles Circum-Auriculaire Isolation du Bruit 40 Heures d Autonomie - Noir'
+date: 2026-04-02 23:35:31
+image: 'https://m.media-amazon.com/images/I/41kBq7Mw8AL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CBLM9MMC-fr Skullcandy Crusher Evo Casque sans Fil Bluetooth Câble de...'
+sku: 'B0CBLM9MMC-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
+comparePrice: 173.42 EUR
+prodname: 'Skullcandy Crusher Evo Casque sans Fil Bluetooth Câble de Recharge USB-C Supplémentaire Basses Multisensorielles Circum-Auriculaire Isolation du Bruit 40 Heures d Autonomie - Noir'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B0CBLM9MMC/?tag=tolees0d-21'
+descuento: '30.81'
+average: '119.99'
+---
+
+C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- CONTRÔLE DES APPELS, DES PISTES ET DU VOLUME : grâce aux boutons de contrôle pratiques, accepte ou rejette les appels, passe ou rejoue un titre et règle le volume
+- CÂBLE DE RECHARGE USB-C VERS USB-C EN EXTRA : ajoute à ton casque un câble de recharge rapide d’environ 48 cm (15 W) pour ne jamais être à court de jus
+- BASSES CRUSHER BASS MULTISENSORIELLES BREVETÉES : avec deux capsules audio complètes de 40 mm et deux capsules de basses supplémentaires, ta musique et tes films vont prendre vie sous tes yeux. Cette expérience sonore, tu vas vraiment la ressentir
+- SON PERSONNALISÉ DANS LAPPLICATION SKULLCANDY : télécharge lapplication et analyse ton audition pour ajuster automatiquement les niveaux sonores à ta propre écoute
+- PLIABLE ET SE RANGE À PLAT : pour plus de portabilité et de simplicité, sans compromettre la durabilité
+- JUSQUÀ 40 HEURES DAUTONOMIE + RECHARGE RAPIDE : avec une autonomie de 40 heures, plus dexcuses pour ne pas profiter de ta musique pendant des jours. La recharge rapide toffre 4 heures découte pour une recharge de seulement 10 minutes
+
+[🛒 Achète-le!!]({{< param buyurl >}})
+{{<world>}}B0CBLM9MMC{{</world>}}

@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Logitech G PRO X SUPERLIGHT 2 wireless gaming mouse 60 g pro-grade mouse with 5 programmable buttons 44k DPI sensor 8 kHz report rate USB-C charging for PC/Mac - White'
+date: 2026-06-09 20:57:19
+image: 'https://m.media-amazon.com/images/I/212aBF4OoOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07W4DGPGF-fr Logitech G PRO X SUPERLIGHT 2 wireless gaming mouse 60 g...'
+sku: 'B07W4DGPGF-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
+comparePrice: 169.0 EUR
+prodname: 'Logitech G PRO X SUPERLIGHT 2 wireless gaming mouse 60 g pro-grade mouse with 5 programmable buttons 44k DPI sensor 8 kHz report rate USB-C charging for PC/Mac - White'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B07W4DGPGF/?tag=tolees0d-21'
+descuento: '46.75'
+average: '107.876666666667'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Pro Precision: LIGHTFORCE hybrid switches deliver pro-level precision and reliability with tactile click
+- Note: PRO Series statistics based on 2024 data from prosettings.net
+- Wireless Mouse for Gaming: A pro gaming icon—now faster and more precise; it is designed in collaboration with the world’s leading esports pros and engineered to win
+- Better Performance: The Logitech Superlight 2, our championship winning wireless mouse gaming is now even better; with 8 kHz polling, USB-C charging, 95-hour battery life and POWERPLAY compatibility at 60 g
+- Most Advanced Optical Sensor in Gaming: HERO 2 with tracking over 888+ IPS, up to 44,000 DPI, precise sensor calibration with zero smoothing, acceleration or filtering with this gaming mouse
+- Zero-Additive PTFE Mouse Feet: This superlight mouse glides smoothly with seamless connection to your game with Zero-additive PTFE mouse feet
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B07W4DGPGF{{</world>}}
