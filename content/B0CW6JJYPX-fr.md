@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'La Crosse Technology - SW404 Station Météo J+4 avec connexion Wifi - Noir'
+date: 2026-04-16 04:37:23
+image: 'https://m.media-amazon.com/images/I/411C0GRC81L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CW6JJYPX-fr La Crosse Technology - SW404 Station Météo J+4 avec...'
+sku: 'B0CW6JJYPX-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 79.39 EUR
+currency: EUR
+price: 79.39
+comparePrice: 100.0 EUR
+prodname: 'La Crosse Technology - SW404 Station Météo J+4 avec connexion Wifi - Noir'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B0CW6JJYPX/?tag=tolees0d-21'
+descuento: '20.61'
+average: '77.507142857143'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- RETRO ECLAIRAGE AJUSTABLE
+- HISTORIQUE DES DONNEES SUR L’APPLICATION « TUYA » CONNEXION WIFI
+- TEMPERATURE ET HYGROMETRIE INTERIEURES / EXTERIEURES AVEC ENREGISTREMENT DES MINI / MAXI - ALERTES DE TEMPERATURE INTERIEURE ET EXTERIEURE
+- !! CONNEXION WIFI OBLIGATOIRE POUR UN FONCTIONNEMENT COMPLET DE LA STATION. !!
+- HEURE DE LEVER ET DE COUCHER DU SOLEIL - INDICE UV - POURCENTAGE DE PLUIE
+- PEUT GERER 3 CAPTEURS EXTERIEUR
+- PREVISIONS METEO DU JOUR ET DES 4 JOURS A VENIR
+- HEURE ET DATE - CALENDRIER - FORMAT 12 OU 24 H - AFFICHAGE DU JOUR DE LA SEMAINE EN 8 LANGUES - 3 ALARMES AVEC SNOOZE
+- PRESSION ATMOSPHERIQUE
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0CW6JJYPX{{</world>}}
