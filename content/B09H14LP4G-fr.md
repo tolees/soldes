@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUPER ACCESSOIRES : Inclut une scie circulaire et une pince combinables. La scie circulaire se range sur le dos de la figurine. La pince peut attraper des figurines plus petites (vendues séparément, dans la limite des stocks)
 - 2 MODES ÉPIQUES : La figurine se convertit du mode robot au mode excavatrice en 52 étapes. Inclut un masque de soudage rabattable en mode robot
+- SUPER ACCESSOIRES : Inclut une scie circulaire et une pince combinables. La scie circulaire se range sur le dos de la figurine. La pince peut attraper des figurines plus petites (vendues séparément, dans la limite des stocks)
+- CONVERSION EN MODE TRAVAIL : La figurine Transforers Cybertron Universe Metroplex se convertit en mode travail quand on abaisse son masque de soudage en mode robot
 - DESIGN INSPIRÉ DE CYBERTRON : Le robot Transformers Legacy Series Cybertron Universe Metroplex de 55 cm est inspiré du dessin animé Transformers: Cybertron avec un design mis à jour de style Generations
 - DES UNIVERS SE RENCONTRENT : Les univers se rencontrent avec Transformers: Legacy ! Cette gamme de jouets Transformers rassemble plusieurs personnages populaires provenant de tout le multivers Transformers
-- CONVERSION EN MODE TRAVAIL : La figurine Transforers Cybertron Universe Metroplex se convertit en mode travail quand on abaisse son masque de soudage en mode robot
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09H14LP4G{{</world>}}

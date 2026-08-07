@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 tournevis cruciforme
 - 5 clé à rayon + 1 clé torx + 2 clé plates
+- 2 tournevis plat
 - 1 dérive chaîne
 - 7 clé BTR
-- 2 tournevis plat
-- 2 tournevis cruciforme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002VYB4QC{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CADEAU STAR WARS POUR GARÇON OU FILLE DÈS 6 ANS – Ce jouet à construire est un cadeau dannniversaire amusant pour les garçons, les filles et tous les fans de Star Wars : The Clone Wars de 6 ans et plus
-- CONSTRUISEZ DES COMBATS ENCORE PLUS IMPRESSIONNANTS – Découvrez les autres packs de combat LEGO Star Wars à collectionner (vendus séparément) et aidez les enfants à développer leurs armées pour mettre en scène encore plus d’aventures fantastiques
+- 4 MINIFIGURINES LEGO STAR WARS – Équipez les 2 Super Commandos Mandaloriens avec 2 jetpacks et 3 pistolets blasters, et les 2 Clone Troopers de la 332e avec un blaster et un fusil blaster
 - CONÇU POUR LE JEU DACTION – Placez les Clone Troopers derrière la barricade, rangez les munitions dans le conteneur de stockage, visez et actionnez le lance-tenons
 - JEU DE CONSTRUCTION MANDALORIEN POUR GARÇON OU FILLE DÈS 6 ANS – Rejouez des scènes épiques de Star Wars : The Clone Wars avec ce jeu LEGO Star Wars Pack de combat Le siège de Mandalore
-- JOUET SPEEDER BIKE – Placez un Super Commando Mandalorien aux commandes du véhicule LEGO Star Wars et lautre à larrière avec le blaster lance-tenons
+- CONSTRUISEZ DES COMBATS ENCORE PLUS IMPRESSIONNANTS – Découvrez les autres packs de combat LEGO Star Wars à collectionner (vendus séparément) et aidez les enfants à développer leurs armées pour mettre en scène encore plus d’aventures fantastiques
 - UNE EXPÉRIENCE INTÉRACTIVE ENRICHIE – L’application LEGO Builder encourage les enfants à construire seuls grâce à des outils qui leur permettent de zoomer, de faire pivoter les modèles en 3D, de suivre leur progression et d’enregistrer leurs sets
-- 4 MINIFIGURINES LEGO STAR WARS – Équipez les 2 Super Commandos Mandaloriens avec 2 jetpacks et 3 pistolets blasters, et les 2 Clone Troopers de la 332e avec un blaster et un fusil blaster
+- CADEAU STAR WARS POUR GARÇON OU FILLE DÈS 6 ANS – Ce jouet à construire est un cadeau dannniversaire amusant pour les garçons, les filles et tous les fans de Star Wars : The Clone Wars de 6 ans et plus
+- JOUET SPEEDER BIKE – Placez un Super Commando Mandalorien aux commandes du véhicule LEGO Star Wars et lautre à larrière avec le blaster lance-tenons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXDBMC9{{</world>}}

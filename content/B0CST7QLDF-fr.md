@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce style a été produit de manière durable
-- il assure un ajustement optimal
 - Confortable à porter
+- il assure un ajustement optimal
 - il sagit dun produit authentique et original HUGO
 
 [🛒 Achète-le!!]({{< param buyurl >}})

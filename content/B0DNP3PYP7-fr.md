@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- COMMENT PORTER EN TOUTE CONFIANCE : Comment : À porter pour la randonnée, le travail, les sorties en ville ou l’hiver - un attrait intemporel du bureau au soir
+- MATÉRIAUX DURABLES ET ENTRETIEN : Membranes imperméables, détails en caoutchouc, semelle extérieure robuste ; Essuyer, sécher à l’air libre
 - CONTENU : 1 Sorel Cyprus Boot WP—insert en mousse amovible, cuir de qualité supérieure, Homme, Taille : 43.5 EU, Couleur : Tobacco, Blackened Brown (Brun)
 - BOTTES EN CUIR IMPERMÉABLES : Bottes pour hommes avec tige en cuir de qualité supérieure, construction imperméable et semelle en caoutchouc moulé durable pour toutes les aventures
-- MATÉRIAUX DURABLES ET ENTRETIEN : Membranes imperméables, détails en caoutchouc, semelle extérieure robuste ; Essuyer, sécher à l’air libre
-- COMMENT PORTER EN TOUTE CONFIANCE : Comment : À porter pour la randonnée, le travail, les sorties en ville ou l’hiver - un attrait intemporel du bureau au soir
 - CONFORT ET AJUSTEMENT TOUT AU LONG DE LA JOURNÉE : Assise plantaire amovible en mousse TPU avec revêtement supérieur en textile, semelle intérieure rembourrée, support de cheville et doublure douillette
 
 [🛒 Achète-le!!]({{< param buyurl >}})

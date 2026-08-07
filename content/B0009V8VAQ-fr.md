@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rembourrage en mousse pour une protection maximale pendant le transport.
 - Etui doté dun passant pour ceinture, dune sangle de transport et dune ouverture pour laisser passer une paire découteurs.
 - Etui de haute qualité.
-- Rembourrage en mousse pour une protection maximale pendant le transport.
 - Contenu : 1x Etui pour lecteur CD.
 - Etui permettant de ranger un lecteur CD et 3 CD.
 

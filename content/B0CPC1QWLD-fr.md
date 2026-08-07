@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti avancé
 - Chaussure de course
+- Amorti avancé
 - Tige synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

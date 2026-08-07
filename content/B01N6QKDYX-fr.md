@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
-- Kit complet avec batterie lithium-ion 20v 2ah et chargeur rapide inclus
-- Compatible avec tous les outils worx powershare 20v, 40v et 80v max
-- Idéal pour le bricolage ou le jardinage : perceuses, scies, taille-haies, etc.
 - Charge rapide : environ 60 à 150 min selon la capacité de la batterie utilisée
+- Kit complet avec batterie lithium-ion 20v 2ah et chargeur rapide inclus
+- Robustesse et fiabilité assurées pour un usage régulier en intérieur comme en extérieur
 - Recharge complète en 60 minutes pour reprendre vos travaux sans attendre
 - Batterie haute performance sans effet mémoire ni auto-décharge
-- Technologie lithium-ion pour une capacité optimale et une durée de vie prolongée
+- Idéal pour le bricolage ou le jardinage : perceuses, scies, taille-haies, etc.
 - Indicateur intégré pour connaître facilement le niveau de charge disponible
-- Robustesse et fiabilité assurées pour un usage régulier en intérieur comme en extérieur
+- Compatible avec tous les outils worx powershare 20v, 40v et 80v max
+- Technologie lithium-ion pour une capacité optimale et une durée de vie prolongée
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N6QKDYX{{</world>}}

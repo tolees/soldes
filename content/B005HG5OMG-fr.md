@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 8,1 x 16,8 x 8,1 cm
-- Mousse colorante permanente sans ammoniaque
 - Avec une mousse antifragilisation sans ammoniaque
 - Couverture parfaite des cheveux blancs (si < 50 %) et texture de la mousse
+- Mousse colorante permanente sans ammoniaque
 - Une couleur riche, profonde et lumineuse
+- Dimensions : 8,1 x 16,8 x 8,1 cm
 - Cette dynamique convient si votre couleur naturelle se situe entre le châtain clair et le châtain foncé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

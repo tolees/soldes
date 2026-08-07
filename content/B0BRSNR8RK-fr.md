@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE POUVOIR DU JEU : Avec des collections audacieuses et innovantes, Janod accompagne les enfants dans une belle aventure : grandir ! De beaux jouets travaillés dans le moindre détail pour apprendre en samusant, explorer le monde, rêver et partager.
 - DÉCOR DINO : Le ptéranodon volant au-dessus du volcan en éruption et le bébé dino qui sort de son œuf plongent votre enfant dans lunivers des dinosaures et lencouragent dans ses premiers apprentissages tout en stimulant sa curiosité et son imagination.
-- FACILITE LAPPRENTISSAGE : Un tricératops à promener pour développer la coordination main/œil, des pièces à encastrer pour apprendre les formes, un grelot pour stimuler louïe et dautres manipulations composent ce jeu déveil pour apprendre en samusant.
-- ADAPTÉE AUX TOUT-PETITS : La hauteur plateau de 32 cm permet aux enfants daccéder facilement à tous les jeux de cette table dactivités en bois FSC. Jeu Janod recommandé pour les enfants de 1 à 3 ans. Peinture à leau. Dimensions : 40 x 32 x 52,5 cm.
 - TABLE DÉVEIL COMPLÈTE : 1 dino à pousser, 1 volcan avec boulier et grelot, 3 pièces de palmier à empiler, 2 chunky à encastrer, 1 œuf rotatif, 1 système de 3 engrenages, 1 miroir rotatif et 1 œuf "crick" promettent de longues heures de jeu et de rires.
+- FACILITE LAPPRENTISSAGE : Un tricératops à promener pour développer la coordination main/œil, des pièces à encastrer pour apprendre les formes, un grelot pour stimuler louïe et dautres manipulations composent ce jeu déveil pour apprendre en samusant.
+- LE POUVOIR DU JEU : Avec des collections audacieuses et innovantes, Janod accompagne les enfants dans une belle aventure : grandir ! De beaux jouets travaillés dans le moindre détail pour apprendre en samusant, explorer le monde, rêver et partager.
+- ADAPTÉE AUX TOUT-PETITS : La hauteur plateau de 32 cm permet aux enfants daccéder facilement à tous les jeux de cette table dactivités en bois FSC. Jeu Janod recommandé pour les enfants de 1 à 3 ans. Peinture à leau. Dimensions : 40 x 32 x 52,5 cm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRSNR8RK{{</world>}}

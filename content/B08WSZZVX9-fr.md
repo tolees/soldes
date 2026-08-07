@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
-- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
-- 🍃 COMPOSITION : Une composition adaptée à lespèce, proche de la nature et de la ruche
 - 💚 MjAMjAM : Aliment complet pour chats, sans céréales, naturel, avec une teneur en viande extra élevée, affiné avec des fruits et légumes sélectionnés.
 - 🐾 BIEN-ÊTRE DES ANIMAUX : le bien-être des animaux est toujours une priorité lors de la fabrication
+- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
+- 🍃 COMPOSITION : Une composition adaptée à lespèce, proche de la nature et de la ruche
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WSZZVX9{{</world>}}

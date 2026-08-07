@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✔️ Le Toughpower GT est entièrement modulaire, ce qui facilite la gestion des câbles et la construction dun PC propre.
-- ✔️ Smart Zero Fan : lorsque cette fonction est activée, la vitesse du ventilateur est adaptée à la charge du bloc dalimentation et au besoin de refroidissement réel.
 - ✔️ Haute efficacité : le Toughpower GT a été certifié 80Plus Gold Standard.
+- ✔️ Smart Zero Fan : lorsque cette fonction est activée, la vitesse du ventilateur est adaptée à la charge du bloc dalimentation et au besoin de refroidissement réel.
+- ✔️ Le Toughpower GT est entièrement modulaire, ce qui facilite la gestion des câbles et la construction dun PC propre.
 - ✔️ ATX 3.1 et PCIe Gen 5.1 : Le nouveau Toughpower GT est fabriqué selon la norme ATX 3.1 actuelle et livré avec le connecteur PCIe Gen 5.1 12+4pin.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

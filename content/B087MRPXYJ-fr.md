@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - respirant
 - Chaussure de randonnée pour les excursions dune journée
-- étanche
 - semelle de randonnée robuste
 - très bon amortissement
+- étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087MRPXYJ{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SOIN & PROTECTION EN TOUTE SÉCURITÉ : Steripan accompagne toute la famille depuis 30 ans, avec sa gamme complète de produits de parapharmacie.
+- SPRAY AURICULAIRE STERIPAN : Il est conseillé pour l’adulte et l’enfant à partir de 6 mois en usage régulier en alternative des cotons tiges, pour faciliter l’élimination du cérumen, dissoudre les bouchons de cérumen et prévenir leur formation
 - CONSEILS DUTILISATION : Assurez-vous que l’embout est solidement fixé avant et pendant l’utilisation.Pencher la tête du côté opposé de l’oreille à traiter. 1)Effectuer deux pulvérisations dans l’oreille. 2)Laisser en contact environ 1 minute en massant la base de l’oreille. 3)Pencher la tête pour laisser s’écouler le produit et les résidus de cérumen. 4)Rincer avec du sérum physiologique ou de l’eau claire, et essuyer l’excédent.
 - PRÉCAUTION DEMPLOI : A rincer. Ne pas introduire trop profondément l’embout du spray dans le conduit auditif afin de ne pas l’irriter.
-- SPRAY AURICULAIRE STERIPAN : Il est conseillé pour l’adulte et l’enfant à partir de 6 mois en usage régulier en alternative des cotons tiges, pour faciliter l’élimination du cérumen, dissoudre les bouchons de cérumen et prévenir leur formation
-- SOIN & PROTECTION EN TOUTE SÉCURITÉ : Steripan accompagne toute la famille depuis 30 ans, avec sa gamme complète de produits de parapharmacie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQYWHM53{{</world>}}

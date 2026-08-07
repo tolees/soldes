@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grâce à la boucle chauffante supérieure et inférieure, la pizza est croustillante par le bas et le fromage se déroule merveilleusement
-- Le couvercle en terre cuite fait à la main absorbe lhumidité et crée ainsi une pizza merveilleusement croustillante
+- Un succès absolu pour un anniversaire denfant, une soirée entre amis ou pour se réconforter en famille
 - Pour max. 6 mini pizzas en un passage denviron 11 cm de diamètre (emporte-pièce inclus dans la livraison)
 - Lalternative à la raclette et/ou à la fondue, un plaisir pour toute la famille
-- Un succès absolu pour un anniversaire denfant, une soirée entre amis ou pour se réconforter en famille
+- Le couvercle en terre cuite fait à la main absorbe lhumidité et crée ainsi une pizza merveilleusement croustillante
+- Grâce à la boucle chauffante supérieure et inférieure, la pizza est croustillante par le bas et le fromage se déroule merveilleusement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JTKDS1Z{{</world>}}

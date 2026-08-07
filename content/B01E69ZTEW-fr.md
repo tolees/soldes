@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un choix durable – La poubelle recyclage Sort & Go de Brabantia est certifiée Cradle-to-Cradle (niveau Argent), fabriquée en plastique et 100% recyclable après utilisation (garantie 10 ans incluse)
 - Tri sélectif – Cette poubelle rectangulaire XS a un compartiment unique et est idéale pour jeter les épluchures, les restes, ainsi que les déchets alimentaires et organiques de cuisine
-- Sacs invisibles – Conçue pour une utilisation avec ou sans sac poubelle, cette poubelle cache entièrement le sac sous son couvercle. Des sacs 100% compostables assortis sont disponibles (code A)
 - Compact – Cette poubelle Brabantia XS (6 L) se glisse dans tous les espaces, même sur un plan de travail ou contre un mur (support vendu séparément), convenant parfaitement à un foyer dune personne
 - Vidage rapide – La poubelle de tri intègre une poignée de transport, un couvercle amovible qui reste ouvert et une prise au-dessous pour faciliter le déversement dans un composteur ou un bac à déchet
+- Sacs invisibles – Conçue pour une utilisation avec ou sans sac poubelle, cette poubelle cache entièrement le sac sous son couvercle. Des sacs 100% compostables assortis sont disponibles (code A)
+- Un choix durable – La poubelle recyclage Sort & Go de Brabantia est certifiée Cradle-to-Cradle (niveau Argent), fabriquée en plastique et 100% recyclable après utilisation (garantie 10 ans incluse)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01E69ZTEW{{</world>}}

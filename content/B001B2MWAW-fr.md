@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel: Plastique
 - Idéals pour des invitations à des événements, des décorations de fêtes danniversaire ou pour ajouter un message écrit à la main, etc.
+- Matériel: Plastique
 - Pointe en fibre résistante et durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

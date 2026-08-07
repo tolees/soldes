@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les LED à économie d’énergie de l’applique murale diffusent une lumière blanc neutre agréable (4000 Kelvin, 12 watts, 1250 lumens) ; Dimensions : diamètre : 26 cm, hauteur : 5,5 cm, diamètre du socle : 23 cm
+- Dimensions : Diamètre : 26 cm, Hauteur : 5,5 cm, Diamètre du baldaquin : 23 cm; Ce produit contient une source de lumière ayant une classe énergétique E, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
 - Le plafonnier effet ciel étoilé au design intemporel avec effet cristal s’intègre avec élégance dans différentes pièces de la maison, comme la cuisine, le salon, la chambre, la chambre d’enfant et le couloir
 - Le plafonnier LED rond en acier et plastique blanc diffuse la lumière largement et agréablement dans la pièce ; Grâce à l’abat-jour, la lumière est douce et tamisée, créant une atmosphère lumineuse agréable
 - Grâce à sa forme plate, vous pouvez facilement installer la lampe au plafond ou au mur (le matériel de montage n’est pas inclus)
-- Dimensions : Diamètre : 26 cm, Hauteur : 5,5 cm, Diamètre du baldaquin : 23 cm; Ce produit contient une source de lumière ayant une classe énergétique E, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
-- Les LED à économie d’énergie de l’applique murale diffusent une lumière blanc neutre agréable (4000 Kelvin, 12 watts, 1250 lumens) ; Dimensions : diamètre : 26 cm, hauteur : 5,5 cm, diamètre du socle : 23 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0894P6QLY{{</world>}}

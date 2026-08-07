@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Son réservoir deau a une capacité de 0,5 L; un voyant lumineux vous signale lorsquil est plein, de façon à ce que vous puissiez le vidanger
+- Avec sa capacité de refroidissement (7 000 BTU - 2,05 kW) et son flux dair de 320 m³/h, il est idéal pour les pièces jusquà 25 m²; doté dune étiquette-énergie A, il consomme peu dénergie
 - Un kit pour fenêtre est inclus; ses roulettes le rendent facile à déplacer dune pièce à lautre; son volume sonore est de 65 dB maximum, soit léquivalent dune conversation normale
+- Son réservoir deau a une capacité de 0,5 L; un voyant lumineux vous signale lorsquil est plein, de façon à ce que vous puissiez le vidanger
 - Ce climatiseur mobile Tristar saura se rendre indispensable en été : polyvalent, il refroidit votre pièce, rafraîchit avec son mode ventilateur et déshumidifie lair ambiant (0,8 L/h)
 - Réglez la température, la minuterie (24 h) et la vitesse du ventilateur via son écran numérique ou depuis votre canapé avec la télécommande inclus se, alimentée par 2 piles alcalines R03 fournies
-- Avec sa capacité de refroidissement (7 000 BTU - 2,05 kW) et son flux dair de 320 m³/h, il est idéal pour les pièces jusquà 25 m²; doté dune étiquette-énergie A, il consomme peu dénergie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06WP7YKCN{{</world>}}

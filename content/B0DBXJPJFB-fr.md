@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONTENU : 1 boîtier électronique 2 piles AAA non incluses, 24 jetons animaux, 4 planches avec 6 illustrations
 - COMMENT JOUER 24 sons danimaux à identifier et à associer à limage correspondante Qui veut jouer Choisis ton joueur en cliquant sur la couleur de ton choix sur le boîtier Reconnais ensuite le son de l’animal qui est joué et place le jeton correspondant sur ta planche s’il est présent; lorsque les 6 animaux d’une planche ont été joués, le boîtier annonce le gagnant : bravo ourson jaune, tu as gagné
+- BIEN PLUS AMUSANT ET INTERACTIF que le loto classique, tu peux jouer, seul, en famille ou entre amis
 - POUR DÉVELOPPER LA CONCENTRATION des plus petits; il faut être attentif pour bien écouter le son et reconnaître lanimal qui lui correspond un jeu pour apprendre à respecter les premières règles (écoute, attendre son tour, apprendre à perde, impossible de tricher, cest le boitier qui annonce le nom du gagnant
 - Avec Mon premier Loto sonore, tu apprends a reconnaître le sons des animaux à ton rythme
-- BIEN PLUS AMUSANT ET INTERACTIF que le loto classique, tu peux jouer, seul, en famille ou entre amis
-- CONTENU : 1 boîtier électronique 2 piles AAA non incluses, 24 jetons animaux, 4 planches avec 6 illustrations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DBXJPJFB{{</world>}}

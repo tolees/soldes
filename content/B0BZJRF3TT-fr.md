@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Taille taille unique
-- 2 ans de Garantie Internationale
 - Vert
+- 2 ans de Garantie Internationale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZJRF3TT{{</world>}}

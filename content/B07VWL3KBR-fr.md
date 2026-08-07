@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériau extérieur : cuir (cuir de vache)
 - Sangles élastiques pour un ajustement confortable
-- Semelle extérieure : semelle extérieure en TPU avec technologie Contact Earth pour une grande résistance à labrasion
-- Coutures tout autour pour une longue durée de vie
 - Couleur : noir
+- Coutures tout autour pour une longue durée de vie
+- Semelle extérieure : semelle extérieure en TPU avec technologie Contact Earth pour une grande résistance à labrasion
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VWL3KBR{{</world>}}

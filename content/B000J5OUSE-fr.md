@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouilloire ultra-compacte avec une capacité de 0,8L
-- Clapet de protection du bec verseur qui protège de la poussière
 - Résistance cachée sur fond plat inox pour une plus grande facilité dentretien et une meilleure résistance au tartre
+- Bouilloire ultra-compacte avec une capacité de 0,8L
 - Bouton onoff avec voyant lumineux
 - Revêtement en inox
+- Clapet de protection du bec verseur qui protège de la poussière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000J5OUSE{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haut-parleur intégré avec contrôle du volume et entrée 3,5 mm pour brancher vos écouteurs
-- Écran couleur 5cm/2,75" & Conception ergonomique pour un jeu confortable
-- La Pocket Player Data East inclut des Hits comme BurgerTime, Bad Dudes, Karate Champ, Caveman Ninja, Side Pocket, Heavy Barrel, BreakThru and B-Wings et 300 jeux bonus de style rétro
 - Alimenté par 4 piles AAA (non incluses) ou par nimporte quel câble Micro-USB (non inclus)
 - Comprend une dragonne et un manuel dutilisation
+- Écran couleur 5cm/2,75" & Conception ergonomique pour un jeu confortable
+- La Pocket Player Data East inclut des Hits comme BurgerTime, Bad Dudes, Karate Champ, Caveman Ninja, Side Pocket, Heavy Barrel, BreakThru and B-Wings et 300 jeux bonus de style rétro
+- Haut-parleur intégré avec contrôle du volume et entrée 3,5 mm pour brancher vos écouteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BKH987LX{{</world>}}

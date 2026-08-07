@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Favorise une croissance saine de la carapace chez toutes les espèces de tortues d’eau et des marais grâce à la teneur naturelle en calcium des crustacés.
-- Matière première pour tortues d’eau et cistudes : puces d’eau (gammares) de 1 à 1,5 cm, nettoyées et naturellement séchées.
 - Sans ajout de colorants ni conservateurs artificiels. Boîte, couvercle, opercule et étiquette 100 % recyclables.
 - Contenu : 1 boîte/seau étanche à l’eau et à la lumière, scellage fraîcheur, contenant des puces d’eau séchées (gammares). Doseur dans le couvercle.
 - Aliment purement naturel à très haute appétence : puces d’eau délicatement séchées (gammares) provenant d’eaux propres.
+- Matière première pour tortues d’eau et cistudes : puces d’eau (gammares) de 1 à 1,5 cm, nettoyées et naturellement séchées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CS6SLC1T{{</world>}}

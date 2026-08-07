@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour toilette
-- Avec support
 - idet
+- Avec support
+- Pour toilette
 - Le poids du colis de larticle: 400 g
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

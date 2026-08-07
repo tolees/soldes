@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure synthétique.
-- Lacets.
-- Semelle de propreté en textile.
-- Chaussant standard.
 - Synthetic upper
+- Semelle de propreté en textile.
+- Semelle extérieure synthétique.
+- Chaussant standard.
+- Lacets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1XJTVB4{{</world>}}

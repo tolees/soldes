@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une défonceuse plongeante très pratique
 - Livré avec : GOF 1250 CE (Clé plate de 19 mm, Butée parallèle avec réglage micrométrique 2, Adaptateur de bague de copiage, Pince avec écrou de serrage 8 mm, L-BOXX)
-- Système de réglage micrométrique breveté par pas de 1/10 mm pour un ajustement précis de la profondeur de fraisage
 - Blocage de broche innovant permettant un changement d’accessoire rapide
 - Poignée ergonomique avec plusieurs positions de préhension pour une maîtrise parfaite de l’outil
+- Système de réglage micrométrique breveté par pas de 1/10 mm pour un ajustement précis de la profondeur de fraisage
+- Une défonceuse plongeante très pratique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00IZ8RS5Y{{</world>}}

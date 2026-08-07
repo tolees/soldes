@@ -32,8 +32,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Quand Bébé tourne le volant, la voiture avec le petit chien se déplace et permet de découvrir 5 véhicules, 5 animaux, les chiffres et les couleurs
 - Version française
 - 10 mélodies, 2 chansons, des sons réalistes, des phrases ainsi que des effets lumineux
-- Bébé apprend et découvre avec ce tableau de bord interactif, parlant, musical et lumineux
 - Un tableau de bord interactif pour les apprentis pilotes !
+- Bébé apprend et découvre avec ce tableau de bord interactif, parlant, musical et lumineux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00QLPLJNK{{</world>}}

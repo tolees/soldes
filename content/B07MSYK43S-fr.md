@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Acier aluminé résistant de qualité supérieure avec capacité de charge maximale de 15 kg
-- Ayez toujours un angle de vue parfait Rotation à 360°, inclinaison : +/- 15° en cas de montage au plafond, 60° vers le bas en cas de montage mural
 - Système universel, conçu pour s’adapter à la plupart des projecteurs commercialisés Montage à 14 cm du plafond ; set pour espacement de trous universel ; diamètre maximum du cercle primitif : 48.43 cm
+- Ayez toujours un angle de vue parfait Rotation à 360°, inclinaison : +/- 15° en cas de montage au plafond, 60° vers le bas en cas de montage mural
 - Installation facile avec passe-câbles intégré
 - Faites de vos soirées cinéma en famille un moment spécial
 

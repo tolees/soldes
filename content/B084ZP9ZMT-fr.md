@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CAFETIÈRE FILTRE GRANDE CAPACITÉ 1,25 L : Prépare jusqu’à 10-15 tasses, idéale pour partager votre café chaud en famille ou entre amis.
+- INTERFACE DIGITAL : Ecran numérique minimaliste intégré qui permet une lecture facile de lheure et des fonctions.
 - DÉPART DIFFÉRÉ PROGRAMMABLE JUSQU’À 24H : Votre café prêt quand vous l’êtes, à savourez dès le réveil, ou plus tard, selon vos envies.
 - RÉPARABILITÉ 15 ANS AU JUSTE PRIX : Produit réparable dans notre réseau de 6200 réparateurs dans le monde pour prolonger sa durée de vie.
-- ARRÊT AUTOMATIQUE APRÈS 30 MIN : Pour plus de sécurité et d’économies d’énergie.
+- CAFETIÈRE FILTRE GRANDE CAPACITÉ 1,25 L : Prépare jusqu’à 10-15 tasses, idéale pour partager votre café chaud en famille ou entre amis.
 - INTENSITÉ RÉGLABLE : Fonction AROMA avec pré-infusion pour personnaliser la force de votre café selon vos envies.
-- INTERFACE DIGITAL : Ecran numérique minimaliste intégré qui permet une lecture facile de lheure et des fonctions.
+- ARRÊT AUTOMATIQUE APRÈS 30 MIN : Pour plus de sécurité et d’économies d’énergie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084ZP9ZMT{{</world>}}

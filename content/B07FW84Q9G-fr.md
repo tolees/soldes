@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ventilation zippée sous les bras
 - Finition hydrofuge durable et non toxique sans PFC
 - Rabat tempête interne sous zip intégral avant
-- Poches poitrine et arrière zippées
-- Ventilation zippée sous les bras
 - Tissu imperméable, respirant, ripstop, 2 couches, coutures thermosoudées et doublure en mesh évacuant rapidement lhumidité pour le confort
+- Poches poitrine et arrière zippées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FW84Q9G{{</world>}}

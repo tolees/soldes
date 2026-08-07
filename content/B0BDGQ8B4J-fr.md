@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Commandes audio embarquées
 - Microphone pivotant avec coupure audio automatiqueet suppression de bruit
 - Casque-micro officiel sous licence Xbox
 - Confort et légèreté
-- Commandes audio embarquées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDGQ8B4J{{</world>}}

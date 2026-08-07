@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadeau plein de fantaisie pour les enfants – Ce set LEGO est un beau cadeau à offrir pour un anniversaire ou les fêtes à une fille ou un garçon dès 8 ans, un fan de la série télévisée LEGO DREAMZzz ou un amoureux des animaux et de constructions LEGO
 - Plonger dans l’action – Le set LEGO DREAMZzz propose des instructions de montage basées sur une histoire, également disponibles dans l’application LEGO Builder qui permet aux enfants de faire pivoter leurs modèles et de suivre leur progression
-- Un monde digne des rêves les plus fous des enfants – La collection LEGO DREAMZzz invite les jeunes constructeurs à laisser libre cours à leur imagination et à choisir leurs propres aventures en construisant des créatures et des véhicules fantastiques
+- Cadeau plein de fantaisie pour les enfants – Ce set LEGO est un beau cadeau à offrir pour un anniversaire ou les fêtes à une fille ou un garçon dès 8 ans, un fan de la série télévisée LEGO DREAMZzz ou un amoureux des animaux et de constructions LEGO
 - Izzie contre Dizzy – Le set prend vie grâce aux minifigurines d’Izzie et Dizzy, une héroïne et son double maléfique, avec lesquels les enfants pourront imaginer de nombreuses histoires inspirées de la série TV LEGO DREAMZzz
+- Un monde digne des rêves les plus fous des enfants – La collection LEGO DREAMZzz invite les jeunes constructeurs à laisser libre cours à leur imagination et à choisir leurs propres aventures en construisant des créatures et des véhicules fantastiques
 - 3 aventures LEGO – Le panda roux poursuit le corbeau sur terre, l’oiseau fantastique le pourchasse dans les airs et la tortue mythique se lance à ses trousses dans la mer, pour permettre aux enfants de se plonger dans un jeu de rôle passionnant
 - Set d’animaux LEGO – Les jeunes rêveurs et amoureux des animaux peuvent choisir l’aventure qu’ils vont vivre en construisant l’une des 3 créatures articulées proposées : un panda roux, un oiseau ou une tortue de mer
 - L’imagination éclot – Invitez les enfants à laisser libre cours à leur créativité avec l’œuf magique LEGO DREAMZzz Les animaux des rêves d’Izzie, conçu pour les filles et les garçons de 8 ans et plus fans de la série TV et de constructions LEGO

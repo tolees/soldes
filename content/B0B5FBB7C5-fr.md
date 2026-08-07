@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ⭕ FINITION 8 OEILLETS - Les rideaux avec œillets permettent une installation simple et rapide. Les rideaux sont faciles à ouvrir et à fermer en glissant sur la tringle. Avec un diamètre intérieur standard de 4 cm, ils sont compatibles avec lensemble des tringles présentes sur le marché.
-- 🗨️ INCLUS - Rideau à Oeillets (135 x 240 cm) Occult Sauge, Occultant
 - 🧼 ENTRETIEN FACILE - Lavage à 30° - Pas de séchage en machine - Repassage à 110°
+- 🗨️ INCLUS - Rideau à Oeillets (135 x 240 cm) Occult Sauge, Occultant
 - 🌑 OCCULTANT UNI - Spécialement conçu pour bloquer efficacement la lumière et apporter de lintimité à votre pièce. Uni, il offre une esthétique épurée et sophistiquée qui complète harmonieusement nimporte quel décor sans accaparer lattention.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stylo-bille sophistiqué adapté aux prises de notes sérieuses, il est revêtu dune couleur noire
-- Ses 4 pointes moyennes de 1,0 mm conviennent à tout type d’usage et chaque cartouche écrit en moyenne 2 km, soit un total de 8 km
 - Fabriqué en France avec le minimum de matière et conçu pour une durée d’utilisation maximale, il est certifié NF Environnement
+- Ses 4 pointes moyennes de 1,0 mm conviennent à tout type d’usage et chaque cartouche écrit en moyenne 2 km, soit un total de 8 km
+- Stylo-bille sophistiqué adapté aux prises de notes sérieuses, il est revêtu dune couleur noire
 - Bleu, rouge, vert, noir : organisez votre travail par un code couleur dynamisant avec le stylo BIC 4 Colours Pro
 - Son clip sur le coté permet de laccrocher aux cahiers, revers de veste ou de chemise. Simple comme BIC
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JEU : SURVIE BATAILLE DINSTINTS : surmontez vos ennemis avec camouflage, combat rapproché, traque, interrogatoires, escalade, chasse et traitement des plaies
-- ENVIRONNEMENT: LA BATAILLE DE REPTILES: Affrontez un environnement dans lequel vous pouvez utiliser des pièges pour chasser vos ennemis et proies, les menaces se cachent dans lombre et les bruits alertent les prédateurs
 - ÈRE : LES ANNÉES 60 BATAILLE DIDÉOLOGIES : Revivez lhistoire à mesure que la guerre froide et le paysage géopolitique changent
+- ENVIRONNEMENT: LA BATAILLE DE REPTILES: Affrontez un environnement dans lequel vous pouvez utiliser des pièges pour chasser vos ennemis et proies, les menaces se cachent dans lombre et les bruits alertent les prédateurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6PFPTXH{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construire ensemble, entre amis ou en famille – L’application LEGO Builder offre une expérience ludique et collaborative permettant de partager le plaisir de la construction LEGO
-- 6 minifigurines LEGO Harry Potter & 2 boutiques du Chemin de Traverse – Ce set LEGO d’aventures fantastiques met en vedette Florian Fortarôme, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang et un commerçant dans 2 boutiques du Chemin de Traverse
-- Recréez le Chemin de Traverse en briques LEGO – Les 2 boutiques de ce set peuvent être reliées entre elles, ainsi qu’avec les boutiques d’autres sets LEGO Harry Potter sur le thème du Chemin de Traverse, vendus séparément
 - Cadeau Harry Potter pour garçon ou fille de 8 ans et plus – Ce jouet LEGO est un cadeau danniversaire fascinant à offrir aux fans du monde des sorciers pour une expérience de construction à plusieurs (1 à 3 constructeurs)
 - Jeu de construction LEGO Harry Potter pour enfants dès 8 ans – Recréez des scènes magiques des films avec les maquettes en briques regorgeant de détails authentiques du magasin d’accessoires de Quidditch et du marchand de glaces Florian Fortarôme
-- Magasin d’accessoires de Quidditch – La boutique dispose d’une fonction balai volant et regorge d’accessoires de Quidditch, dont un uniforme de Serpentard, un souafle, un cognard, un vif d’or et des trophées
+- Construire ensemble, entre amis ou en famille – L’application LEGO Builder offre une expérience ludique et collaborative permettant de partager le plaisir de la construction LEGO
+- 6 minifigurines LEGO Harry Potter & 2 boutiques du Chemin de Traverse – Ce set LEGO d’aventures fantastiques met en vedette Florian Fortarôme, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang et un commerçant dans 2 boutiques du Chemin de Traverse
 - Marchant de glaces Florian Fortarôme – Le bâtiment s’ouvre pour faciliter le jeu et propose un espace de service et un salon au niveau supérieur, ainsi qu’une terrasse extérieure et un kiosque à glaces
+- Magasin d’accessoires de Quidditch – La boutique dispose d’une fonction balai volant et regorge d’accessoires de Quidditch, dont un uniforme de Serpentard, un souafle, un cognard, un vif d’or et des trophées
+- Recréez le Chemin de Traverse en briques LEGO – Les 2 boutiques de ce set peuvent être reliées entre elles, ainsi qu’avec les boutiques d’autres sets LEGO Harry Potter sur le thème du Chemin de Traverse, vendus séparément
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JR58{{</world>}}

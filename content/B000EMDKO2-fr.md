@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Shampooings
 - Produits de beauté
 - Produits de Bumble and Bumble
-- Shampooings
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000EMDKO2{{</world>}}

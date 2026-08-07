@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CAGE GRILLAGÉE : permet à lair de circuler librement tout en gardant votre animal en sécurité et sans sensation denfermement
 - TAILLE L SPACIEUSE : dimensions 81L x 58,5l x 66H cm, idéale pour les chiens jusquà 30 kg
-- CAGE ÉLÉGANTE : cage élégante bicolore noir, plus de raffinement par rapport à une cage classique en plastique et métal
 - DOUBLE ACCÈS SÉCURISÉ : 3 portes verrouillables (2 en façade + 1 latérale) pour un accès pratique et une sécurité renforcée
 - INFORMATIONS : Dimensions totales : 81L x 58,5l x 66H cm <br/> - Dim; double porte dentrée : 45L x 53H cm <br/> - Dim; porte latérale : 35L x 53H cm; poids maximal : 30 kg; convient aux chiens de petite et moyenne taille jusquà 20 kg et 65 cm; montage requis
+- CAGE ÉLÉGANTE : cage élégante bicolore noir, plus de raffinement par rapport à une cage classique en plastique et métal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098PDG4G2{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
-- 🍮DÉLICATEUR DE GOÛT : délicatesse de la viande avec un couronnement noble - fond dans la bouche
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
-- 🍃 COMPOSITION : conforme à lespèce, à la nature et à la ruche
 - 💚 MjAMjAM : aliment complet avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels, sans céréales
+- 🍮DÉLICATEUR DE GOÛT : délicatesse de la viande avec un couronnement noble - fond dans la bouche
+- 🍃 COMPOSITION : conforme à lespèce, à la nature et à la ruche
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F6NSV61G{{</world>}}

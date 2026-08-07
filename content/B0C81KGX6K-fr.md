@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Nancy et son cheval forment le duo parfait pour une journée élégante à la campagne
+- La poupée a de longs cheveux bruns tressés ; vous pouvez la coiffer à votre guise.
 - Nancy est une poupée entièrement articulée, ce qui permet une plus grande interaction et un jeu plus imaginatif. Vous pouvez la placer dans différentes positions, monter à cheval et créer des scènes réalistes.
 - Le cheval est livré avec une brosse éponge qui change la couleur de la crinière et crée des reflets colorés. Vous pouvez coiffer le cheval et Nancy pour créer des styles uniques et amusants.
-- La poupée a de longs cheveux bruns tressés ; vous pouvez la coiffer à votre guise.
-- Nancy et son cheval forment le duo parfait pour une journée élégante à la campagne
 - Nancy porte un look équestre complet composé dune casquette rose, dun T-shirt blanc à motifs, dun jean bleu, de bottes roses et de jambières.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

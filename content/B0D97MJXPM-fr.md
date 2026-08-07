@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flux d’air amélioré, bruit réduit : Une pale de ventilation de 5 mm dépaisseur améliore le refroidissement en déplaçant lair aussi vite que les ventilateurs plus fins, tout en réduisant les émissions sonores : en effet, le RX MAX tourne moins vite pour produire le même flux d’air
 - Reliez vos composants : Les connecteurs de pont iCUE LINK inclus peuvent interconnecter directement vos ventilateurs, créant ainsi un bloc homogène de ventilateurs relié au hub système iCUE LINK à laide dun seul câble
 - Pale de ventilateur en polymère à cristaux liquides incroyablement solide et durable, il est renforcé par de la fibres de verre, ce qui se traduit par une excellente rigidité, une réduction des vibrations de la lame et une augmentation des performances
+- Flux d’air amélioré, bruit réduit : Une pale de ventilation de 5 mm dépaisseur améliore le refroidissement en déplaçant lair aussi vite que les ventilateurs plus fins, tout en réduisant les émissions sonores : en effet, le RX MAX tourne moins vite pour produire le même flux d’air
 - Vitesses contrôlées par PWM via iCUE LINK : Définissez des vitesses de ventilation précises jusquà 1 600 tr/minute tout en fournissant un flux d’air de 103.5 CFM à votre système
 - Pression statique élevée : Avec une pression statique de 2,39 mm H2O, la gamme RX MAX est idéale pour faire circuler lair malgré les obstacles, comme les radiateurs à haute densité
 

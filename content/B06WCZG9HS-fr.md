@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COMPATIBLE : ce gel MANIX Effect est compatible avec les preservatifs et les sextoys
-- DOUCEUR EXTREME : la composition legere du gel lubrifiant MANIX Fraise developpe une sensation extremement douce
 - FRAISE : sa delicieuse odeur de fraise offre un plaisir delicatement parfume
+- DOUCEUR EXTREME : la composition legere du gel lubrifiant MANIX Fraise developpe une sensation extremement douce
 - CONFORT : Decouvrez un confort optimal avec son haut pouvoir lubrifiant. Ce gel lubrifiant est bien pour un rapport vaginal ou anal avec ou sans preservatif
 - FORMULE ADAPTEE : formule a base deau. Teste sous controle dermatologique
 

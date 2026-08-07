@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tiges de 10 cm
-- Le pack comprend 100 onglets d’identification
 - Disponible en bleu ou en rouge
-- Clip d’archivage en métal souple recouvert de plastique
+- Le pack comprend 100 onglets d’identification
 - Conçu pour sécuriser les paquets de documents d’une épaisseur maximale de 8cm
+- Clip d’archivage en métal souple recouvert de plastique
+- Tiges de 10 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079GQWBCT{{</world>}}

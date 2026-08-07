@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maintient le drainage naturel de lagrégat aggloméré, le compactage et la fixation des agrégats concassés tels que le marbre, les pierres, les graviers. Bon ancrage, dureté et résistance à lextérieur. Facile à appliquer.
 - NETTOYAGE DES USTENSILES. Les ustensiles utilisés pour lapplication du produit doivent être lavés à leau avant le séchage, y compris le pulvérisateur.
-- MODE DEMPLOI 1. homogénéiser le produit avant et pendant lutilisation. 2. La surface doit être propre et sèche. 3. Verser ou pulvériser le liant sur lagrégat. 4. Sécher pendant au moins 24 heures. 5. Ne pas appliquer par temps humide ou pluvieux.
 - Eau de nettoyage, Dilution Prêt à lemploi, Consommation 800 - 1200 g/m2 variable selon lagrégat. Temps de séchage minimum 24 h. en fonction de la température et de lhumidité Utilisation Intérieur / Extérieur Application par coulage ou pulvérisation.
 - 6 Dans les applications par pulvérisation de surface, la consommation dépendra de la granulométrie de lagrégat que lon va utiliser (plus le diamètre est grand, plus la consommation est élevée). 7 . Pour une meilleure fixation, répéter le processus après 24 heures de séchage.
 - Fixateur de surface à utiliser à lintérieur et à lextérieur pour décorer les jardins, les chemins, les ronds-points, les îlots de circulation, etc., endroits où il ny a généralement pas de circulation humaine, en apportant une finition décorative et fonctionnelle. Il ne change pas de couleur et ne jaunit pas sous leffet du rayonnement solaire.
+- MODE DEMPLOI 1. homogénéiser le produit avant et pendant lutilisation. 2. La surface doit être propre et sèche. 3. Verser ou pulvériser le liant sur lagrégat. 4. Sécher pendant au moins 24 heures. 5. Ne pas appliquer par temps humide ou pluvieux.
+- Maintient le drainage naturel de lagrégat aggloméré, le compactage et la fixation des agrégats concassés tels que le marbre, les pierres, les graviers. Bon ancrage, dureté et résistance à lextérieur. Facile à appliquer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D4DK2MJZ{{</world>}}

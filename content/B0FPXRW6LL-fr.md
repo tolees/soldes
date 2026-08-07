@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- APPLICATION LEGO SMART ASSIST – Débutez le jeu, trouvez des solutions, contrôlez le niveau sonore, téléchargez des mises à jour ou activez le micro intégré pour aller plus loin (lactivation requiert une permission et une mise à jour de logiciel)
-- JOUET DE CONSTRUCTION INTERACTIF STAR WARS – Ce set Tout-en-un LEGO SMART Play inclut 2 SMART Briques avec chargeur, 5 SMART Tags et 3 SMART Minifigurines qui dynamisent le jeu immersif et réagissent à tous vos mouvements
-- JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s et recréez des scènes de combats épiques du Retour du Jedi : prenez part à des duels de sabres laser avec des réactions dynamiques et mettez en scène une attaque de lA-Wing sur lÉtoile de la Mort
 - LA GALAXIE VOUS RÉPOND – Une fois placée sur le SMART Tag du trône, des plateformes de duels, de lA-Wing ou de la tourelle, la SMART Brique répond aux mouvements et aux couleurs avec des sons et lumières, et peut même émettre la « Marche impériale »
-- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction plein daction : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 9 ans, un.e ado ou un.e adulte collectionneur.se
+- JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s et recréez des scènes de combats épiques du Retour du Jedi : prenez part à des duels de sabres laser avec des réactions dynamiques et mettez en scène une attaque de lA-Wing sur lÉtoile de la Mort
 - FONCTIONNALITÉS DE LA SMART BRIQUE – La SMART Brique offre 45 minutes de batterie par charge ; elle est compatible avec dautres sets SMART Play pour encore plus daventures (la SMART Brique nest pas disponible à la vente séparément)
+- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction plein daction : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 9 ans, un.e ado ou un.e adulte collectionneur.se
+- JOUET DE CONSTRUCTION INTERACTIF STAR WARS – Ce set Tout-en-un LEGO SMART Play inclut 2 SMART Briques avec chargeur, 5 SMART Tags et 3 SMART Minifigurines qui dynamisent le jeu immersif et réagissent à tous vos mouvements
+- APPLICATION LEGO SMART ASSIST – Débutez le jeu, trouvez des solutions, contrôlez le niveau sonore, téléchargez des mises à jour ou activez le micro intégré pour aller plus loin (lactivation requiert une permission et une mise à jour de logiciel)
 - 3 SMART MINIFIGURINES LEGO STAR WARS – Donnez vie à SMART Luke Skywalker, au SMART Empereur Palpatine et à SMART Dark Vador grâce à la SMART Brique, en dévoilant leurs voix uniques et leurs réactions
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

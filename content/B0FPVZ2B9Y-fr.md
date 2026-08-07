@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 MINI-POUPÉES LEGO FRIENDS – Les mini-poupées de Paisley, Aliya & Iza encouragent les enfants à utiliser leur imagination pour créer des histoires amusantes au café licorne
 - ALIMENTS ACCESSOIRES – Donnez vie au jeu avec des donuts, des gaufres, des cookies, des cupcakes, des gâteaux, une caisse enregistreuse & une peluche licorne LEGO
+- CADEAU LICORNE POUR FILLE OU GARÇON DÈS 6 ANS – Ce set de construction fantaisie sur le thèmes des licornes est un superbe cadeau pour les enfants à offrir pour un anniversaire ou toute autre occasion spéciale
+- 3 MINI-POUPÉES LEGO FRIENDS – Les mini-poupées de Paisley, Aliya & Iza encouragent les enfants à utiliser leur imagination pour créer des histoires amusantes au café licorne
 - JEUX DANS UNE PÂTISSERIE – Exprimez votre créativité en présentant des gâteaux dans la vitrine et sur le plateau tournant, en servant les client.e.s dans la zone de restauration assise et en préparant des milk-shakes & jus de fruits au bar
 - SET DE JEU CAFÉ ET LICORNE ARC-EN-CIEL – Les enfants prennent part au jeu de rôle en tant que responsables de café grâce à ce jouet LEGO Friends Le café licorne pour fille ou garçon dès 6 ans
-- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
-- CADEAU LICORNE POUR FILLE OU GARÇON DÈS 6 ANS – Ce set de construction fantaisie sur le thèmes des licornes est un superbe cadeau pour les enfants à offrir pour un anniversaire ou toute autre occasion spéciale
 - SÉRIE EN LIGNE – Découvrez encore plus d’idées de jeux créatifs avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, où les enfants font connaissance avec les personnages de Heartlake City
+- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPVZ2B9Y{{</world>}}

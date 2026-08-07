@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité AMD EXPO & Intel XMP 3.0 : Compatible avec AMD EXPO & Intel XMP 3.0 pour des fréquences plus élevées et des performances d’overclocking exceptionnelles
 - Régulation de tension intégrée : Permet un overclocking plus simple, plus stable et plus précis par rapport aux générations précédentes via le logiciel CORSAIR iCUE
+- Compatibilité: AMD 600 Série, Intel 600 Série, Intel 700 Série
 - Éclairage RGB dynamique sur dix zones : illuminez votre système avec dix LED RGB ultra lumineuses paramétrables individuellement par module, intégrées dans une barre lumineuse panoramique offrant un éclairage RGB éclatant depuis tous les angles de vue
 - Bande passante maximale et temps de réaction précis : optimisés pour obtenir des performances élevées sur les dernières cartes mères DDR5
-- Compatibilité: AMD 600 Série, Intel 600 Série, Intel 700 Série
+- Compatibilité AMD EXPO & Intel XMP 3.0 : Compatible avec AMD EXPO & Intel XMP 3.0 pour des fréquences plus élevées et des performances d’overclocking exceptionnelles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPTKD797{{</world>}}

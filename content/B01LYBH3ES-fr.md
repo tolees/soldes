@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fischer Clé en os argent taille unique 85510'
-date: 2026-07-19 12:27:40
+date: 2026-08-06 18:22:59
 image: 'https://m.media-amazon.com/images/I/31go3cIRTbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01LYBH3ES-fr Fischer Clé en os argent taille unique 85510'
 sku: 'B01LYBH3ES-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 5.99 EUR
+actualPrice: 4.49 EUR
 currency: EUR
-price: 5.99
-comparePrice: 7.49 EUR
+price: 4.49
+comparePrice: 5.99 EUR
 prodname: 'Fischer Clé en os argent taille unique 85510'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LYBH3ES/?tag=tolees0d-21'
-descuento: '20.03'
-average: '6.14'
+descuento: '25.04'
+average: '5.48'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Clé en os
-- Qualité professionnelle
 - Clé de 6 à 15 mm
+- Qualité professionnelle
 - Pour 10 tailles de vis différentes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

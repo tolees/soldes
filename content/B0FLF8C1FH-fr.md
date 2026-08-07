@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IMMORTALISE DES INSTANTS DE NATURE : utilise ton appareil pour prendre des photos danimaux, de plantes et dautres découvertes, puis enregistre-les dans ton journal pour taider dans tes quêtes
 - EXPLORE UN MONDE OUVERT: marche, trotte ou galope avec Lucky et découvre la beauté du parc
-- INCARNE BARBIE : prends les rênes en tant que Barbie « Brooklyn » Roberts ou Barbie « Malibu » Roberts
+- IMMORTALISE DES INSTANTS DE NATURE : utilise ton appareil pour prendre des photos danimaux, de plantes et dautres découvertes, puis enregistre-les dans ton journal pour taider dans tes quêtes
 - SOINS AUX CHEVAUX : panse et équipe ta jument, Lucky, et crée une amitié inoubliable avec elle
 - FORME-TOI EN TANT QUE RANGER NOVICE : apprends à toccuper du Canterbury Trails Park avec laide dexperts de la nature
+- INCARNE BARBIE : prends les rênes en tant que Barbie « Brooklyn » Roberts ou Barbie « Malibu » Roberts
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FLF8C1FH{{</world>}}

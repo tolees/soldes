@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUIVEZ VOTRE PROPRE OBJECTIF DIABOLIQUE pour gagner le titre de pire méchant de tous les temps ! Pour y parvenir, utilisez astucieusement vos capacités spéciales et tentez de ruinez les plans de vos adversaires. Car ce n’est qu’en dictant avec succès vos règles aux héros de Disney que vous pourrez espérer une fin… malheureuse !
+- CONTENU : 1 figurine, 2 dés, 1 plateau de jeu, 30 cartes Méchant, 15 cartes Fatalité, 10 jetons, 1 aide de jeu, 1 livrets de Méchant
+- VOUS EN VOULEZ PLUS ? Retrouvez également Maléfique, Jafar, Capitaine Crochet, Ursula, Prince Jean et la Dame de cœur dans le jeu de base; La Méchante Reine, Hadès, le Dr. Facilier (ext. 1); Scar, Yzma, Ratigan (ext. 2); Cruella denfer, Mère Gothel et Pat Hibulaire (ext. 3); Gaston, Madame de Trémaine et le Seigneur des Ténèbres (ext.4)!
 - RÉVEILLEZ LE MAL QUI EST EN VOUS ! Exit les gentils héros, Disney Villainous est un jeu de stratégie passionnant et méchamment bon pour toute la famille ! Découvrez sans plus attendre le méchant de cette extension qui nest dautre que Oogie Boogie !
 - ENTREZ DANS LA PEAU DUN NOUVEAU MÉCHANT DISNEY : Avec Oogie Boogie vous allez devoir éliminer Jack Skellington, pour cela lancés vos dés et surtout nhésitez pas à....tricher ! Utilisés vos cartes pour piper vos dés et démasquer les imposteurs perce oreilles.
-- VOUS EN VOULEZ PLUS ? Retrouvez également Maléfique, Jafar, Capitaine Crochet, Ursula, Prince Jean et la Dame de cœur dans le jeu de base; La Méchante Reine, Hadès, le Dr. Facilier (ext. 1); Scar, Yzma, Ratigan (ext. 2); Cruella denfer, Mère Gothel et Pat Hibulaire (ext. 3); Gaston, Madame de Trémaine et le Seigneur des Ténèbres (ext.4)!
-- CONTENU : 1 figurine, 2 dés, 1 plateau de jeu, 30 cartes Méchant, 15 cartes Fatalité, 10 jetons, 1 aide de jeu, 1 livrets de Méchant
+- SUIVEZ VOTRE PROPRE OBJECTIF DIABOLIQUE pour gagner le titre de pire méchant de tous les temps ! Pour y parvenir, utilisez astucieusement vos capacités spéciales et tentez de ruinez les plans de vos adversaires. Car ce n’est qu’en dictant avec succès vos règles aux héros de Disney que vous pourrez espérer une fin… malheureuse !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRVVPX81{{</world>}}

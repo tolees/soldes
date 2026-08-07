@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité GN 1/1 - 150 mm de profondeur
-- Dimensions : L 338 x P 540 x H 248 mm
-- Thermostat de sécurité en cas de surchauffe
-- Thermostat avec 5 niveaux de température de 0°C à 90°C
-- 3 Bacs GN 1/3 inclus avec couvercle
 - Acier Inoxydable
-- Puissance : 1 200 W / 230 V
 - Poids : 10,6 Kg
+- Thermostat avec 5 niveaux de température de 0°C à 90°C
+- Puissance : 1 200 W / 230 V
+- Thermostat de sécurité en cas de surchauffe
+- Dimensions : L 338 x P 540 x H 248 mm
+- 3 Bacs GN 1/3 inclus avec couvercle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00II0LQ98{{</world>}}

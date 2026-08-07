@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système bien pensé: Le MiCreator offre deux sorties casque pour une écoute directe sans latence ainsi quune seconde entrée pour connecter le microphone MiCreator Y-Lav ou le MiCreator Satellite pour de véritables enregistrements stéréo.
-- Contenu de la livraison: Microphone MiCreator Studio dAustrian Audio (Dimensions : 155 x 60 x 37 mm, Poids : 370g) - 1x câble USB HXCU1M2 - 1x câble dinstrument MCC1 - 1x sac en tissu MCB1 - 1x adaptateur de filetage MCTA - 1x ensemble supplémentaire de plaques avant
-- Qualité supérieure: Le microphone USB-C Plug-and-Play avec directivité cardioïde prend en charge des enregistrements sans distorsion jusquà 130 dB SPL et dispose dune capsule à condensateur pour une précision maximale et une résolution numérique allant jusquà 48 kHz/24 bits.
 - Conçu à Vienne: Le microphone MiCreator Studio se distingue par son orientation "FlexTilt" pratique et son boîtier en métal robuste avec des plaques frontales interchangeables. Lutilisation intuitive se fait avec seulement deux réglages de gain et un bouton rotatif.
+- Système bien pensé: Le MiCreator offre deux sorties casque pour une écoute directe sans latence ainsi quune seconde entrée pour connecter le microphone MiCreator Y-Lav ou le MiCreator Satellite pour de véritables enregistrements stéréo.
+- Qualité supérieure: Le microphone USB-C Plug-and-Play avec directivité cardioïde prend en charge des enregistrements sans distorsion jusquà 130 dB SPL et dispose dune capsule à condensateur pour une précision maximale et une résolution numérique allant jusquà 48 kHz/24 bits.
 - Compact et polyvalent: Le MiCreator Studio est un système denregistrement compact combinant un microphone à condensateur et une interface audio en un seul appareil! Cest donc le microphone idéal pour tout type de contenu audio - que ce soit à la maison, en studio ou en déplacement!
+- Contenu de la livraison: Microphone MiCreator Studio dAustrian Audio (Dimensions : 155 x 60 x 37 mm, Poids : 370g) - 1x câble USB HXCU1M2 - 1x câble dinstrument MCC1 - 1x sac en tissu MCB1 - 1x adaptateur de filetage MCTA - 1x ensemble supplémentaire de plaques avant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKRQXZZK{{</world>}}

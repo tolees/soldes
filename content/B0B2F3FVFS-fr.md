@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec un coffre qui permet à l’enfant d’emmener avec lui ses petits « bagages » de voyage.
-- Un porteur en forme de scooter pour favoriser le développement de la motricité des plus petits, la coordination et la perception de l’espace.
 - 100 % Made in Italy
-- Un sympathique scooter sur le thème des licornes en matière recyclée de haute qualité, à enfourcher pour s’amuser et faire ses premiers pas dans le monde !
 - Les jouets Play for future ont été conçus dans l’intention de transmettre aux enfants la valeur de l’écologie et l’importance du respect de l’environnement.
+- Avec un coffre qui permet à l’enfant d’emmener avec lui ses petits « bagages » de voyage.
+- Un sympathique scooter sur le thème des licornes en matière recyclée de haute qualité, à enfourcher pour s’amuser et faire ses premiers pas dans le monde !
+- Un porteur en forme de scooter pour favoriser le développement de la motricité des plus petits, la coordination et la perception de l’espace.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2F3FVFS{{</world>}}

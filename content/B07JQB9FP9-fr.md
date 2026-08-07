@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe : Slim Fit
 - Type darticle : Pantalon chino
+- Coupe : Slim Fit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JQB9FP9{{</world>}}

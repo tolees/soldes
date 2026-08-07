@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5
-- Schott Blouson perfecto Schott en cuir ref_47278 Noir - M
 - Cuir homme Style perfecto homme
-- 10
 - Schott
+- 5
+- 10
+- Schott Blouson perfecto Schott en cuir ref_47278 Noir - M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P7VGC8V{{</world>}}

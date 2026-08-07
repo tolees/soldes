@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - POLYVALENCE ET FONCTIONNALITɠ: Cet haut est très agréable à porter et constitue la pièce maîtresse de toute tenue décontractée. Ce t-shirt se porte au quotidien ou pour aller travailler et il est facile à assortir.
 - UNE COUPE PARFAITE : Ce t-shirt à manches longues ajusté épouse parfaitement la silhouette et affiche un style minimaliste. Sa matière de haute qualité le rend très confortable et offre une grande liberté de mouvement.
 - UNE MATIÈRE DE QUALITɠ: Cet article est composé à 100% de coton.
-- LE STREETWEAR REVISITɠ: pour intégrer les grands classiques des années 1990 à la génération actuelle, Tommy Jeans s’inspire des icônes du hip-hop de l’époque. La marque privilégie ainsi des modèles simples et de qualité qui font la part belle au denim.
 - SIMPLICITÉ & DÉTENTE : Ce t-shirt basique se distingue par son coton agréable et confortable et convient pour les instants de détente. Son encolure ras-du-cou et le drapeau Tommy Jeans brodé sur la poitrine apportent la touche finale à ce modèle.
+- LE STREETWEAR REVISITɠ: pour intégrer les grands classiques des années 1990 à la génération actuelle, Tommy Jeans s’inspire des icônes du hip-hop de l’époque. La marque privilégie ainsi des modèles simples et de qualité qui font la part belle au denim.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07771CVDL{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Résistance aux chocs de niveau militaire
-- Batterie durable 5 ans & charge rapide 45W
 - Résistance à la poussière et à l’eau IP65
 - Appareil photo 50 MP
+- Batterie durable 5 ans & charge rapide 45W
 - Écran super lumineux 1000 nits
 
 [🛒 Achète-le!!]({{< param buyurl >}})

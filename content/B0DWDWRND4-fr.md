@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5 personnages Super Mario Bros Wonder pour le jeu de rôle – Ce set à construire et exposer inclut une grande figurine de Fort Bowser, ainsi qu’un Yoshi rose, un Croche Piranha, Prince Florian et Bowser Jr. prodigieux
-- Jouet de construction LEGO Super Mario pour garçon ou fille dès 9 ans – Recréez les batailles de Super Mario Bros Wonder avec cette maquette en briques de Fort Bowser
-- Jeu créatif pour les enfants – Conçus pour jouer seul ou à plusieurs, les sets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
 - Application LEGO Super Mario – Téléchargez l’application qui propose des instructions de montage, des idées créatives et plus encore ; consultez la liste des appareils Android et iOS compatibles sur LEGO.com/devicecheck
+- 5 personnages Super Mario Bros Wonder pour le jeu de rôle – Ce set à construire et exposer inclut une grande figurine de Fort Bowser, ainsi qu’un Yoshi rose, un Croche Piranha, Prince Florian et Bowser Jr. prodigieux
+- Jeu interactif – Ajoutez les figurines LEGO de Mario, Luigi ou Peach (non incluses) pour déclencher des réactions numériques et rejouer le combat final contre le boss de Super Mario Bros Wonder
+- Jeu créatif pour les enfants – Conçus pour jouer seul ou à plusieurs, les sets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
+- Jouet de construction LEGO Super Mario pour garçon ou fille dès 9 ans – Recréez les batailles de Super Mario Bros Wonder avec cette maquette en briques de Fort Bowser
 - Fonctionnalités amusantes – Retirez Fort Bowser du support et révélez l’intérieur en position à plat ou soulevez tout le château du support (ou seulement la partie supérieure) pour « voler » et lancer des boules de feu
 - Cadeau LEGO Super Mario – Offrez ce superbe set aux garçons, filles et passionnés de jeux vidéo dès 9 ans (un set 71439, 71440, 71441 ou 72043 - vendu séparément - est nécessaire pour le jeu interactif)
-- Jeu interactif – Ajoutez les figurines LEGO de Mario, Luigi ou Peach (non incluses) pour déclencher des réactions numériques et rejouer le combat final contre le boss de Super Mario Bros Wonder
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDWRND4{{</world>}}

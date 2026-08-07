@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sortie max. 1.500 VA/ 900 Watts -montage en rack 2U
 - Inclus: Smart UPS smc smartconnect, manuel dutilisation, smartconnect QR Code pour une configuration simple, cble Ethernet, logiciel darrêt
-- La gamme APC smart-ups smc-smartconnect offre une alimentation de secours par batterie et une protection contre les surtensions idéales pour les serveurs dentrée de gamme, communtateurs, petits périphériques réseau et équipements de points de vente
+- Sortie max. 1.500 VA/ 900 Watts -montage en rack 2U
 - Affichage de létat sur écran LCD: fournit les états principaux de londuleur en un coup dœil. Plusieurs indicateurs détat avec des graphiques en barres représentant les charges et les batteries
+- La gamme APC smart-ups smc-smartconnect offre une alimentation de secours par batterie et une protection contre les surtensions idéales pour les serveurs dentrée de gamme, communtateurs, petits périphériques réseau et équipements de points de vente
 - Apc smartconnect est une fonction de surveillance à distance proactive via le Cloud, accessible depuis tout appareil connecté à Internet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

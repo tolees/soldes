@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
 - Semelle cupsole en caoutchouc.
-- Lacets élastiques avec scratch par-dessus.
-- Doublure textile.
-- Tige en cuir.
 - Bout renforcé en suède.
 - Chaussant standard.
+- Tige en cuir.
+- Lacets élastiques avec scratch par-dessus.
+- Doublure textile.
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKXVQ93C{{</world>}}

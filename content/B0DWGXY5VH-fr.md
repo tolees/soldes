@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le petit agenda de style Wonder de Mr. Wonderful, avec organisation hebdomadaire, sétend de septembre 2025 à fin août 2026.
 - Dimensions : 12,4 x 17,3 x 2,6 cm.
 - 160 pages de papier de 100 gr certifié FSC, Intercalaires pour chaque mois, Phrases quotidiennes de motivation, 8 feuilles dautocollants, Jeux et extras très amusants,
+- Le petit agenda de style Wonder de Mr. Wonderful, avec organisation hebdomadaire, sétend de septembre 2025 à fin août 2026.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWGXY5VH{{</world>}}

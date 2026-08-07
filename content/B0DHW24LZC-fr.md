@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tous dans le même bateau : Assemblez votre équipage et explorez le grand large ! Découvrez des îles perdues et mettez la main sur une ribambelle de butins comme un vrai pirate yakuza !
+- Une nouvelle épopée commence. Ses bottines en métal auront-elles le pied marin ? Incarnez Goro Majima, reconverti en pirate après avoir perdu la mémoire.
 - Déchaînez-vous dans des combats créatifs : Prenez part à des combats en temps réel et alternez entre deux styles de combat différents.
 - Pirate & Yakuza : Incarnez Goro Majima dans une nouvelle aventure en quête de son identité perdue.
-- Une nouvelle épopée commence. Ses bottines en métal auront-elles le pied marin ? Incarnez Goro Majima, reconverti en pirate après avoir perdu la mémoire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHW24LZC{{</world>}}

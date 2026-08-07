@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient Bilberry le bébé hérisson
-- A partir de 3 ans
-- Inclus : une table en forme de hérisson et un poêle
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions: la famille, la nature et lamour. Ce sont des jouets parfaits pour imaginer des histoires et sépanouir
+- A partir de 3 ans
+- Contient Bilberry le bébé hérisson
+- Inclus : une table en forme de hérisson et un poêle
 - Connectable avec les autres éléments de la gamme vacances
 
 [🛒 Achète-le!!]({{< param buyurl >}})

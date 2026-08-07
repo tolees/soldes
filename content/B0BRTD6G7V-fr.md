@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Permet un suivi de la santé de votre chat
 - Programmable depuis votre smartphone
 - Facile et rapide à nettoyer
-- Offre un espace toujours propre et sain
 - Limite la propagation des odeurs
+- Offre un espace toujours propre et sain
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BRTD6G7V{{</world>}}

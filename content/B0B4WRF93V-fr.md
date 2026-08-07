@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre nettoyage au niveau supérieur avec les brossettes Oral-B disponibles à l’achat selon vos besoins : par ex., nettoyage en profondeur, nettoyage en douceur, blancheur
-- Protégez vos gencives avec un mode de nettoyage sensibilité et un contrôle de la pression sur les gencives visible à 360⁰ qui s’allume lorsque le brossage est trop vigoureux
 - Éliminez jusqu’à 100 % de plaque dentaire en plus, même dans les zones difficiles d’accès, pour des gencives plus saines par rapport à une brosse à dents manuelle dotée de la technologie de nettoyage en profondeur 3-en-1 d’Oral-B
 - Brosse à dents rechargeable avec batterie Li-ION longue durée pratique et indicateur de niveau de batterie
+- Protégez vos gencives avec un mode de nettoyage sensibilité et un contrôle de la pression sur les gencives visible à 360⁰ qui s’allume lorsque le brossage est trop vigoureux
+- Personnalisez votre nettoyage au niveau supérieur avec les brossettes Oral-B disponibles à l’achat selon vos besoins : par ex., nettoyage en profondeur, nettoyage en douceur, blancheur
 - Maximisez le nettoyage avec 3 modes de nettoyage faciles d’utilisation + un minuteur à quadrant intégré au manche qui émet un signal toutes les 30 secondes pour changer de zone de brossage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

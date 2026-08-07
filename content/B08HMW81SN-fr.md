@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bissectrice automatique pour former la coupe donglet correcte – facilite le travail et réduit le risque derreur
-- Avec des branches télescopiques pour mesurer les angles extérieurs et une butée rabattable pour un tracé simple sur la pièce
 - Pour la mesure dangles muraux entre 30 et 180° puis lalignement de langle sur la scie à onglets
+- Avec des branches télescopiques pour mesurer les angles extérieurs et une butée rabattable pour un tracé simple sur la pièce
+- Bissectrice automatique pour former la coupe donglet correcte – facilite le travail et réduit le risque derreur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HMW81SN{{</world>}}

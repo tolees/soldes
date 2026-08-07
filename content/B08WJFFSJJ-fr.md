@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : Caoutchouc
 - Dessus : Cuir Souple
+- Matériau de semelle : Caoutchouc
 - Doublure : Cuir
 - Type de talons : Plat
 

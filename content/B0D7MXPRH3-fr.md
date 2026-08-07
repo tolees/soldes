@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RAFRAÎCHIT LE CUIR CHEVELU : Élimine les impuretés et l’excès de sébum présents sur le cuir chevelu et les cheveux, pour une repousse cheveux plus saine.
-- SOINS DES CHEVEUX ET DU CUIR CHEVELU : Notre Kit System 3 Nioxin protège et hydrate vos cheveux, tout en sublimant la couleur. Pour cheveux secs et abîmés, colorés et dont la chute est modérée.
 - VOTRE ROUTINE NIOXIN : Pour un résultat optimal, utilisez le kit de soins des cheveux Nioxin System 3 de façon quotidienne, et complétez avec les autres produits coiffants de la marque.
 - CONSEILS D’UTILISATION : Massez le shampoing professionnel et l’après-shampoing de façon uniforme, puis appliquez le soin cheveux des racines aux pointes. Ne pas rincer. Résultats visibles en seulement 30 jours
+- RAFRAÎCHIT LE CUIR CHEVELU : Élimine les impuretés et l’excès de sébum présents sur le cuir chevelu et les cheveux, pour une repousse cheveux plus saine.
+- SOINS DES CHEVEUX ET DU CUIR CHEVELU : Notre Kit System 3 Nioxin protège et hydrate vos cheveux, tout en sublimant la couleur. Pour cheveux secs et abîmés, colorés et dont la chute est modérée.
 - POUSSE CHEVEUX : Sa formule enrichie en niacinamide, en biotine et en caféine contribue à nourrir le cuir chevelu, à stimuler les follicules et à renforcer vos cheveux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

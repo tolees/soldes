@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alors que vous vous battez et mourez pour la gloire de votre royaume, vos compagnons darmes et vous êtes emmenés à Terragaya, une terre mystique aux confins de lau-delà. Votre tâche consiste à localiser le Gardien et à passer au monde suivant. Le problème ? Vos compatriotes et vous nêtes en réalité pas morts.
 - Choisissez votre classe : libérez la fureur de votre épée avec léclaireur, invoquez la colère des éléments avec le lanceur de sorts, ou faites pleuvoir des flèches sur vos ennemis avec larcher.
-- Luttez pour votre liberté dans un monde fantastique tiraillé entre les morts et les vivants. Affinez vos compétences dans une épopée rétro mêlant plateformes et casse-têtes, exploration type Metroidvania et combats intenses et exigeants rappelant la série des Souls.
 - Combat au corps à corps palpitant : esquivez, parez et tranchez pour vous frayer un chemin parmi tout un tas dennemis en constante évolution et améliorez vos compétences ainsi que votre équipement afin de trouver le style de combat qui vous convient le mieux.
+- Luttez pour votre liberté dans un monde fantastique tiraillé entre les morts et les vivants. Affinez vos compétences dans une épopée rétro mêlant plateformes et casse-têtes, exploration type Metroidvania et combats intenses et exigeants rappelant la série des Souls.
+- Alors que vous vous battez et mourez pour la gloire de votre royaume, vos compagnons darmes et vous êtes emmenés à Terragaya, une terre mystique aux confins de lau-delà. Votre tâche consiste à localiser le Gardien et à passer au monde suivant. Le problème ? Vos compatriotes et vous nêtes en réalité pas morts.
 - Frayez-vous un chemin jusquau cœur du mystère : montrez-vous plus rusé que vos ennemis, résolvez des énigmes tordues, améliorez votre personnage et explorez tous les recoins dun monde 16 bits éblouissant et complexe. Souldiers est une épopée rétro façonnée à la main qui restera dans les annales.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

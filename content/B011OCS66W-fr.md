@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de la ligne : 370 yds/90 kg
 - 2 + 1 roulement
+- Résistance maximale : 15 livres / 6,8 kg
+- Capacité de la ligne : 370 yds/90 kg
 - Récupération de la ligne : 28 pouces 711 mm
 - Rapport de transmission : 3,9:1
-- Résistance maximale : 15 livres / 6,8 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B011OCS66W{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : moyenne
 - Forme du talon : sans talon
+- Largeur de la chaussure : moyenne
 - Niveau de résistance à leau : non étanche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

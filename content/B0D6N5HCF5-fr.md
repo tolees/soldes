@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure rembourrée en mousse à haut rebond pour un confort durable
-- Semelle intérieure rembourrée enveloppée avec soutien de la voûte plantaire, semelle extérieure en caoutchouc pour une flexibilité maximale - tige en cuir de qualité supérieure provenant de sources responsables
-- Semelle intérieure rembourrée
 - Semelle intermédiaire légère en EVA
+- Semelle intérieure rembourrée enveloppée avec soutien de la voûte plantaire, semelle extérieure en caoutchouc pour une flexibilité maximale - tige en cuir de qualité supérieure provenant de sources responsables
+- Semelle intérieure rembourrée en mousse à haut rebond pour un confort durable
+- Semelle intérieure rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6N5HCF5{{</world>}}

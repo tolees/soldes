@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 - COMPATIBLE AVEC: CITROËN BERLINGO Kasten/Großraumlimousine, BERLINGO MULTISPACE, BERLINGO Pritsche/Fahrgestell, C4 GRAND PICASSO I, C4 I, C4 II, C4 PICASSO I Großraumlimousine, DS4, DS5, DS 4 / 4 CROSSBACK, 5, PEUGEOT 5008, PARTNER Kasten/Großraumlimousine, PARTNER ORIGIN Großraumlimousine, PARTNER ORIGIN Kasten/Großraumlimousine, PARTNER TEPEE
 - REMARQUE: Brake Pad Set, disc brake, Article number of recommended accessories: 1987474417, Height 1: 64,7, Height 2: 57,7, Supplementary Article/Supplementary Info 2: With anti-squeak plate, Supplementary Article/Supplementary Info 2: With mounting manual, Thickness/Strength: 18,8, Width: 155,2
+- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BHHZFIC{{</world>}}

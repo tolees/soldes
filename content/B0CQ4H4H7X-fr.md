@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TECHNOLOGIE AMD 3D V-CACHE: plus à présenter, cette technologie fait le bonheur des joueurs et permet datteindre des FPS très élevés dans tous les jeux.
 - 8 CŒURS ET 16 THREADS - Le Ryzen 5 5700X3D offre dexcellentes fréquences (Base 3,1 GHz / Boost 4,1 GHz). Loverclocking est bien sûr possible puisque lensemble des cœurs sont débridés.
+- TECHNOLOGIE AMD 3D V-CACHE: plus à présenter, cette technologie fait le bonheur des joueurs et permet datteindre des FPS très élevés dans tous les jeux.
 - DES CARACTÉRISTIQUES AVANCÉES - Avec une un TDP de 105 W, et ses 100 MB Cache L3, le Ryzen 7 5700X3D est taillé pour accomplir de grandes choses.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - GOLD DESIGN: Vintage 1906 LED lamp with thin spiral filament (only 0.6mm) and gold tinted glass with a modern look (ideal for open or clear lampshades).
-- ENERGY-EFFICIENT: The LED lamp has a long life of up to 15,000 hours. At 7 W and 600 lm, the lamp has good luminous intensity and is also energy saving.
 - PLEASANT LIGHT: Particularly pleasant and warm white comfort light color with good brightness (600lm). The light intensity can be adapted to personal needs thanks to its dimmability.
+- ENERGY-EFFICIENT: The LED lamp has a long life of up to 15,000 hours. At 7 W and 600 lm, the lamp has good luminous intensity and is also energy saving.
 - HIGH QUALITY: The decorative LED lamp has a vintage globe shape, a diameter of 125mm and an E27 base. The lamp body is made of real glass.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REDONNEZ VIE A UN MONDE VIVANT : Aidez à reconstruire des villages, découvrez de nouvelles régions et faites renaître Teradea tout en gagnant des Happilia.
-- AFFRONTEZ LA NATURE SAUVAGE : Evitez les animaux sauvages comme les loups, les ours et les tigres en explorant les environs de votre ferme.
-- TROUVEZ LAMOUR A TERADEA : Tissez des liens et mariez-vous parmi 5 célibataires hommes et femmes.
-- PARTEZ A LAVENTURE AVEC DES COMPAGNONS ANIMAUX : Emmenez des animaux de compagnie et des montures aux capacités uniques pour vous aider dans vos explorations.
 - EXPLOREZ SANS LIMITES : Sautez, escaladez et découvrez des lieux cachés dans un monde vaste et varié.
+- PARTEZ A LAVENTURE AVEC DES COMPAGNONS ANIMAUX : Emmenez des animaux de compagnie et des montures aux capacités uniques pour vous aider dans vos explorations.
+- REDONNEZ VIE A UN MONDE VIVANT : Aidez à reconstruire des villages, découvrez de nouvelles régions et faites renaître Teradea tout en gagnant des Happilia.
+- TROUVEZ LAMOUR A TERADEA : Tissez des liens et mariez-vous parmi 5 célibataires hommes et femmes.
+- AFFRONTEZ LA NATURE SAUVAGE : Evitez les animaux sauvages comme les loups, les ours et les tigres en explorant les environs de votre ferme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GZWFL7SV{{</world>}}

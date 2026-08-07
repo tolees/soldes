@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il contient 2 x coudes plat vertical, 3 x connecteurs avec scellage, 1 x une gaine plate, 1 x une élément diffuseur
-- Le kit dinstallation est compatible avec les tables aspirantes PVQ711F15E, PVQ811F15E, PIE611B15E
-- Livraison : 1x kit dévacuation de Bosch
 - Le kit garantit un recyclage optimale
+- Le kit dinstallation est compatible avec les tables aspirantes PVQ711F15E, PVQ811F15E, PIE611B15E
+- Il contient 2 x coudes plat vertical, 3 x connecteurs avec scellage, 1 x une gaine plate, 1 x une élément diffuseur
 - Le kit dinstallation permet de brancher la hotte en recyclage.Il convient pour des cuisines dont la profondeur du plan de travail est de 70 cm ou plus.
+- Livraison : 1x kit dévacuation de Bosch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BF5XQN6S{{</world>}}

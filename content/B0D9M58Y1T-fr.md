@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivité sans fil à faible latence: La technologie SLIPSTREAM WIRELESS v1.5 à faible latence 2,4 GHz offre une connexion fiable et sans décalage, ou se connecte via la technologie polyvalente Bluetooth
-- Batterie sans fil ultra-longue durabilité: Jouez en toute confiance avec lassurance que la batterie de votre souris ne vous lâchera pas : jusqu’à 185 heures d’autonomie de batterie avec une seule pile AA.* Via SLIPSTREAM WIRELESS.
 - Grips latéraux texturés: Les grips latéraux texturés à motif tri-hex vous donnent le contrôle supplémentaire dont vous avez besoin dans les moments décisifs
-- Capteur optique précis jusqu’à 24 000 DPI: Le capteur optique prend en charge jusquà 24 000 DPI pour suivre précisément chaque mouvement et intention microscopique. Il est ajustable à la volée grâce à un bouton DPI dédié
 - Forme compacte symétrique: Le design épuré sadapte à toutes les mains et tous les styles de prise en main, ce qui facilite le contrôle, même lors de parties rapides
+- Batterie sans fil ultra-longue durabilité: Jouez en toute confiance avec lassurance que la batterie de votre souris ne vous lâchera pas : jusqu’à 185 heures d’autonomie de batterie avec une seule pile AA.* Via SLIPSTREAM WIRELESS.
+- Capteur optique précis jusqu’à 24 000 DPI: Le capteur optique prend en charge jusquà 24 000 DPI pour suivre précisément chaque mouvement et intention microscopique. Il est ajustable à la volée grâce à un bouton DPI dédié
+- Connectivité sans fil à faible latence: La technologie SLIPSTREAM WIRELESS v1.5 à faible latence 2,4 GHz offre une connexion fiable et sans décalage, ou se connecte via la technologie polyvalente Bluetooth
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9M58Y1T{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La poupée Ken Día De Muertos 2025 est présentée dans un emballage décoré d’éclatants soucis, ce qui en fait un cadeau idéal ou un bel objet à exposer. Nous espérons qu’il remplira de joie votre foyer lorsque vous célébrerez la mémoire de vos proches disparus !
-- Le costume de Ken s’inspire du cempasúchil, ou souci, traditionnellement utilisé dans la culture mexicaine pour fleurir les autels et les tombes des défunts.
 - Son look est rehaussé d’une chemise couleur crème, d’une élégante cravate ruban et d’un sombrero. Conformément à la coutume, son visage est recouvert d’un maquillage Calavera unique et des os de squelette sont peints sur ses mains.
+- Le costume de Ken s’inspire du cempasúchil, ou souci, traditionnellement utilisé dans la culture mexicaine pour fleurir les autels et les tombes des défunts.
 - La poupée Ken possède 8 points d’articulation, ce qui lui permet de prendre des poses dynamiques, toutes plus éblouissantes les unes que les autres !
 - Ces fleurs, qui rendent un vibrant hommage aux vivants comme aux défunts, apparaissent sur les finitions dorées en métal le long de son gilet et des jambes de son pantalon. D’éclatants soucis apparaissent également au niveau des poignets de sa chemise.
 - La collection Barbie Día De Muertos célèbre le jour des Morts avec une sélection de vêtements qui rendent hommage à la culture, aux rituels et aux symboles souvent utilisés pendant cette journée de commémoration.
+- La poupée Ken Día De Muertos 2025 est présentée dans un emballage décoré d’éclatants soucis, ce qui en fait un cadeau idéal ou un bel objet à exposer. Nous espérons qu’il remplira de joie votre foyer lorsque vous célébrerez la mémoire de vos proches disparus !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DMWDS9PJ{{</world>}}

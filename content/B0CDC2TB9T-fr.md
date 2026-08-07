@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Combinant sophistication et design, le nouvel écran OMEN élève votre setup grâce à son rétroéclairage aRGB, à ses deux haut-parleurs intégrés et à son pied réglable.
-- Immergez-vous dans les univers de vos jeux grâce à la QHD ultra-détaillée[2]. Profitez d’une large gamme de couleurs et de nuances grâce à la couverture sRGB de 99 % et DCI-P3 de 95 %[1]. Ne ratez aucun détail même dans les ombres grâce à la technologie VESA DisplayHDR 400[3].
-- Ne ratez plus aucun détail au cœur de l’action : avec son taux de rafraîchissement de 240 Hz et son temps de réponse GTG de 1 ms avec Overdrive[1], cet écran gamer élimine le tearing et le lag grâce à la technologie NVIDIA G-SYNC.
 - Faites le plein de connectivité pour le gaming et le reste grâce à tous les ports disponibles[4]. Votre PC est prêt pour le gaming en un clin d’œil grâce au hub USB. Cerise sur le gâteau, l’écran offre une gestion des câbles intelligente.
+- Ne ratez plus aucun détail au cœur de l’action : avec son taux de rafraîchissement de 240 Hz et son temps de réponse GTG de 1 ms avec Overdrive[1], cet écran gamer élimine le tearing et le lag grâce à la technologie NVIDIA G-SYNC.
+- Immergez-vous dans les univers de vos jeux grâce à la QHD ultra-détaillée[2]. Profitez d’une large gamme de couleurs et de nuances grâce à la couverture sRGB de 99 % et DCI-P3 de 95 %[1]. Ne ratez aucun détail même dans les ombres grâce à la technologie VESA DisplayHDR 400[3].
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CDC2TB9T{{</world>}}

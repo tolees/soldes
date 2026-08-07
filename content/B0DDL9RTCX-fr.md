@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Conformité :
-- Haute résistance
-- Léger et confortable
 - Ne brûle pas
+- Léger et confortable
+- Haute résistance
 - Imperméable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

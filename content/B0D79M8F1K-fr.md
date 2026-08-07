@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie GEL au talon
 - Il offre un ajustement doux et confortable
+- Technologie GEL au talon
 - Amorti avec la technologie GEL
 
 [🛒 Achète-le!!]({{< param buyurl >}})

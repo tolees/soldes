@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grâce à une languette pratique qui permet de l’ajuster rapidement, le bracelet s’adapte à votre poignet de façon idéale.
 - La Boucle Trail contient 30 % de contenus recyclés par rapport à son poids total, 100 % de l’électricité utilisée pour sa fabrication provient de sources propres et au moins 50 % de toutes les Apple Watch neutres en carbone sont envoyées via des modes de transport non aériens.
+- Grâce à une languette pratique qui permet de l’ajuster rapidement, le bracelet s’adapte à votre poignet de façon idéale.
 - La Boucle Trail, ultra-fine et légère, est faite de nylon tissé doux au toucher et à l’élasticité accrue pour offrir un maximum de confort.
 - Ce bracelet est neutre en carbone.
 

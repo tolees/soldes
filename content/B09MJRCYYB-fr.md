@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Product Type: Cellular Phone
 - Apple Iphone 13 Pro, 128Go, Bleu Alpin - (Reconditionné)
 - Gl Type: Wireless
-- Product Type: Cellular Phone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MJRCYYB{{</world>}}

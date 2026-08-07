@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Actionne le moteur pour les mettre en mouvement et voir le gorille marcher sur ses jambes, l’insecte battre des ailes, le requin te poursuivre, le phoque avancer maladroitement et le lion courir.
 - Les animaux du jardin se déplacent en glissant grâce aux élastiques inclus dans le coffret. L’amusement ne finit jamais !
-- Le jeu contient des barres, tablettes, goujons, cubes, poulies, pièces spéciales ainsi qu’un moteur pour réaliser des modèles motorisés. Suis les instructions pour assembler 7 animaux amusants.
 - Invente, assemble, joue ! Avec le nouvel atelier de mécanique pour les tout-petits, plein de composants faciles à assembler pour créer des animaux fantastiques qui bougent et marchent.
+- Actionne le moteur pour les mettre en mouvement et voir le gorille marcher sur ses jambes, l’insecte battre des ailes, le requin te poursuivre, le phoque avancer maladroitement et le lion courir.
+- Le jeu contient des barres, tablettes, goujons, cubes, poulies, pièces spéciales ainsi qu’un moteur pour réaliser des modèles motorisés. Suis les instructions pour assembler 7 animaux amusants.
 - Tu pourras assembler un gorille, un lion, un phoque, un requin, un insecte et 3 sympathiques animaux du jardin : une araignée, un escargot et une sauterelle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

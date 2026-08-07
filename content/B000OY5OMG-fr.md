@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le but du jeu est de faire tomber les 12 quilles en bois à l’aide du Mölkki (un rondin de bois) comme au bowling et de réaliser un score total de 50 points.
 - Contenu de la boîte:12 quilles en bouleau biseautées numérotées de 1 à 12,1 Mölkky en bouleau.Présentation dans une caisse en pin, une fiches de scores, une règle de jeu
-- Ce jeu dadresse en bois entre le bowling, la pétanque et le billard est destiné à tout public de 6 à 106 ans.
-- Age:6+
 - dès 6ans
 - Dimensions de la boîte:33x22x19
+- Le but du jeu est de faire tomber les 12 quilles en bois à l’aide du Mölkki (un rondin de bois) comme au bowling et de réaliser un score total de 50 points.
 - durée de la partie: 30 minutes
 - Nombre de joueurs:2+
+- Age:6+
+- Ce jeu dadresse en bois entre le bowling, la pétanque et le billard est destiné à tout public de 6 à 106 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000OY5OMG{{</world>}}

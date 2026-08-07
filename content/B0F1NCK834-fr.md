@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
-- Assistant personnel Moto AI – Une intelligence artificielle à votre service au quotidien.
 - Résistance à l’eau (IP68/IP69) – Conçu pour durer, même face aux éclaboussures et à la poussière.
 - Contenu de la boite: Coque de protection, Câble USB type-C
+- Assistant personnel Moto AI – Une intelligence artificielle à votre service au quotidien.
+- Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
 - Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - Porte-plaque, Contour De Plaque Dimmatriculation, Cadre De Plaque Dimmatriculation, Support De Plaque, Porte-plaque Dimmatriculation:
+- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - CARPOINT Support de plaque dimmatriculation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

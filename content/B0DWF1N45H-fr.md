@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un vaisseau spatial à construire et à exposer comme décoration – Le vaisseau peut accueillir 4 minifigurines LEGO à l’arrière et est doté de 2 canons à tenons et d’un cockpit pour minifigurine LEGO avec une verrière amovible
-- Jeu de construction pour garçon ou fille dès 6 ans : Pack de combat Death Troopers contre Night Troopers – Transportez un peloton et mettez en scène des aventures Star Wars : Ahsoka grâce à ce jeu incluant un vaisseau spatial en briques LEGO
 - Rangement des blasters LEGO Star Wars – Fixez les blasters des Troopers à côté d’eux à l’arrière du vaisseau, prêts pour des jeux de combats épiques
-- Packs de combat LEGO Star Wars collector – Découvrez d’autres packs de combat LEGO Star Wars (vendus séparément) pour inviter les enfants à construire leurs pelotons et à mettre en scène des aventures fantastiques
-- 4 minifigurines LEGO Star Wars – Le jouet inclut 2 Death Troopers et 2 Night Troopers, chacun doté d’un casque et d’un blaster
 - Toute une gamme à explorer – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux adultes, fans de Star Wars, de recréer des scènes culte, d’imaginer leurs propres histoires ou d’exposer les maquettes qu’ils ont construites
+- Jeu de construction pour garçon ou fille dès 6 ans : Pack de combat Death Troopers contre Night Troopers – Transportez un peloton et mettez en scène des aventures Star Wars : Ahsoka grâce à ce jeu incluant un vaisseau spatial en briques LEGO
+- 4 minifigurines LEGO Star Wars – Le jouet inclut 2 Death Troopers et 2 Night Troopers, chacun doté d’un casque et d’un blaster
+- Un vaisseau spatial à construire et à exposer comme décoration – Le vaisseau peut accueillir 4 minifigurines LEGO à l’arrière et est doté de 2 canons à tenons et d’un cockpit pour minifigurine LEGO avec une verrière amovible
 - Idée de cadeau originale pour garçon, fille et fans de 6 ans et plus – Offrez aux enfants fans de Star Wars : Ahsoka une petite surprise amusante pour un anniversaire avec ce jouet de construction plein d’action
+- Packs de combat LEGO Star Wars collector – Découvrez d’autres packs de combat LEGO Star Wars (vendus séparément) pour inviter les enfants à construire leurs pelotons et à mettre en scène des aventures fantastiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWF1N45H{{</world>}}

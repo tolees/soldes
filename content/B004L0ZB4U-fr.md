@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ladhésif enlevable permet de coller, décoller et corriger autant de fois quil est nécessaire.
-- Découvrez la grande variété de gommettes thématiques proposée par APLI
-- Sachet de gommettes thématiques Le Corps. Chaque sachet contient 12 feuilles, garçonet /fille, (156 gommettes).
-- Ce type de gommettes, développées en collaboration avec des éducateurs, aide les enfants à identifier les diverses parties du corps en plaçant les gommettes aux endroits adéquats.
-- De plus, cette activité permet aux enfants de développer leurs capacités motrices.
-- Fabriquées dans le respect des normes EN-71 et de la chaîne de traçabilité FSC : - Adhésif à base d’eau - Sans solvants - Papiers ECF (leemental Chlorine Free) - Matériaux 100% recyclables
 - Le format idéal pour l’école grâce à leur grande contenance.
 - De plus, les gommettes APLI respectent les normes les plus strictes de qualité et de sécurité.
+- Ce type de gommettes, développées en collaboration avec des éducateurs, aide les enfants à identifier les diverses parties du corps en plaçant les gommettes aux endroits adéquats.
+- Découvrez la grande variété de gommettes thématiques proposée par APLI
+- Ladhésif enlevable permet de coller, décoller et corriger autant de fois quil est nécessaire.
+- Fabriquées dans le respect des normes EN-71 et de la chaîne de traçabilité FSC : - Adhésif à base d’eau - Sans solvants - Papiers ECF (leemental Chlorine Free) - Matériaux 100% recyclables
+- Sachet de gommettes thématiques Le Corps. Chaque sachet contient 12 feuilles, garçonet /fille, (156 gommettes).
+- De plus, cette activité permet aux enfants de développer leurs capacités motrices.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004L0ZB4U{{</world>}}

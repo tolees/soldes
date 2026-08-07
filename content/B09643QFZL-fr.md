@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Analogique et numérique pour homme
-- Casio
 - 13 mm calendrier jour et date sangle réglable
+- Casio
+- Analogique et numérique pour homme
 - Casio Modèle Montre G-Shock Superior Series GST-B400-1AER
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plaque de carbone pleine longueur
-- Amorti FF BLAST TURBO
 - Tige en mesh renforcé
+- Amorti FF BLAST TURBO
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F5BK71ZF{{</world>}}

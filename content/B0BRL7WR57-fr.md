@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plis cave avec boucle Locker Loop dans le dos
 - Broderie graphique GANT sur la poche poitrine
+- Plis cave avec boucle Locker Loop dans le dos
 - Coupe normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

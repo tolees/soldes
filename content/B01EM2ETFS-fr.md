@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRÉPARATIONS CHAUDES & FROIDES : Réalisez facilement mousses, chantilly, sauces et espumas grâce au siphon 0,5 L, compatible préparations chaudes (jusqu’à 70 °C) et froides.
-- CONFORME À LA NORME AFNOR D21-901-2020 : Sécurité certifiée : siphon conforme à la norme AFNOR D21-901-2020 avec embouts de décoration et goupillon de nettoyage pour un entretien complet.
+- ALUMINIUM ANODISÉ + N2O ALIMENTAIRE : Structure en aluminium anodisé ultra-résistant et piston inox. Cartouches N2O alimentaires (acier 100% recyclable) pour une utilisation sûre et conforme à la norme AFNOR.
 - RÉSULTATS RAPIDES & STABLES : Conservez vos préparations froides au réfrigérateur plusieurs jours. Texture parfaite, prise en main simple, remplissage rapide et usage polyvalent.
 - UNE MARQUE INNOVANTE : Mastrad est une entreprise française spécialisée dans la conception et la commercialisation d’accessoires culinaires innovants au design créatif. Depuis plus de 30 ans, la marque met « l’art de l’utile » au service de tous les cuisiniers.
-- ALUMINIUM ANODISÉ + N2O ALIMENTAIRE : Structure en aluminium anodisé ultra-résistant et piston inox. Cartouches N2O alimentaires (acier 100% recyclable) pour une utilisation sûre et conforme à la norme AFNOR.
+- PRÉPARATIONS CHAUDES & FROIDES : Réalisez facilement mousses, chantilly, sauces et espumas grâce au siphon 0,5 L, compatible préparations chaudes (jusqu’à 70 °C) et froides.
+- CONFORME À LA NORME AFNOR D21-901-2020 : Sécurité certifiée : siphon conforme à la norme AFNOR D21-901-2020 avec embouts de décoration et goupillon de nettoyage pour un entretien complet.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01EM2ETFS{{</world>}}

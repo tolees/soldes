@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Articles livrés 1x Helly Hansen Homme Veste De Pluie Moss,L,Jaune essentiel
 - Une veste de pluie emblématique, la plus vendue, inspirée de limperméable de pêcheur original Helly Hansen.
+- Articles livrés 1x Helly Hansen Homme Veste De Pluie Moss,L,Jaune essentiel
 - Coquille : 100% Polyuréthane
 - Fabriquée avec notre technologie de tissu imperméable Helox+, la veste de pluie Moss vous garde au sec sous laverse. Cest notre veste de pluie la plus populaire. Nous nous sommes inspirés de limperméable de pêcheur Helly Hansen des années 1950 pour créer la Moss. Notre histoire est riche dune longue tradition de protection des pêcheurs norvégiens par tous les temps.
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marchandises fun et de fans
 - Votre pièce favorite EMP!
-- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
 - Un véritable attrape-loeil pour chez vous!
+- Accessoires Pour La Salle De Bain présentant les caractéristiques suivantes:
 - Gothic, Horreur
+- Marchandises fun et de fans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HFCTP1S{{</world>}}

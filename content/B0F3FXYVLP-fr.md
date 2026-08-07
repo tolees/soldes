@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La bougie parfumée Jean & Len Manuka Honey & Vanilla est composée à 50 % de beurre de karité et offre environ 40 heures de douce lumière – Fabriquée avec amour en Europe
-- La bougie végane, avec sa combinaison de parfums sensuelle et chaleureuse, aide à échapper au stress quotidien et crée des moments de bien-être uniques à la maison.
-- Contenu : 1 x 195 g Jean&Len Scented Candle Manuka Honey & Vanilla, à base de beurre de karité, durée env. 40 h, design minimaliste, parfum sensuel
-- Sans Gedøns : chez nous, les Gedøns sont des ingrédients que le fondateur Len préfère personnellement éviter – Le produit est naturellement végan.
 - La bougie parfumée est présentée dans un verre minimaliste et une boîte pliante certifiée FSC – Grâce à son design élégant, elle constitue également un cadeau idéal.
+- Sans Gedøns : chez nous, les Gedøns sont des ingrédients que le fondateur Len préfère personnellement éviter – Le produit est naturellement végan.
+- La bougie parfumée Jean & Len Manuka Honey & Vanilla est composée à 50 % de beurre de karité et offre environ 40 heures de douce lumière – Fabriquée avec amour en Europe
+- Contenu : 1 x 195 g Jean&Len Scented Candle Manuka Honey & Vanilla, à base de beurre de karité, durée env. 40 h, design minimaliste, parfum sensuel
+- La bougie végane, avec sa combinaison de parfums sensuelle et chaleureuse, aide à échapper au stress quotidien et crée des moments de bien-être uniques à la maison.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F3FXYVLP{{</world>}}

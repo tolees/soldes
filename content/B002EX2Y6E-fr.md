@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : PKS 55 A, lame carbure Speedline Wood, butée parallèle, carton
-- Scie circulaire PKS 55 A : maîtrise et précision pour les coupes droites
-- Accepte les lames de scie circulaire avec un diamètre nominal de 160 mm
 - Travail propre - 80 % des copeaux sont récupérés par le boîtier CleanSystem fourni
 - Profondeur de coupe de 55 mm dans le bois, grande légèreté et compacité pour un travail agréable
+- Livré avec : PKS 55 A, lame carbure Speedline Wood, butée parallèle, carton
+- Accepte les lames de scie circulaire avec un diamètre nominal de 160 mm
+- Scie circulaire PKS 55 A : maîtrise et précision pour les coupes droites
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002EX2Y6E{{</world>}}

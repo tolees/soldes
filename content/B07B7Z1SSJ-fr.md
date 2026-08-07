@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compact et Ergonomique : Son support de fixation mural à 180° vous permet datteindre toutes les zones du jardin. Il intègre un système de rangement pour pistolet et raccords, optimisant ainsi votre espace.
-- Période de garantie : 5 ans *
+- Livraison inclut : 25 mètres + 2 mètres de tuyau Hozelock, 1 connecteur pour robinet extérieur (Ø 21 - 26,5 mm), 1 connecteur Aquastop, 1 connecteur rapide, 1 lance darrosage, fixations murales.
 - Sécurité et Robustesse : Il dispose dun système de sécurité pour enfant intégré et dun point dattache pour un cadenas. Il peut être facilement détaché et rangé en toute sécurité grâce à sa poignée de transport robuste.
 - Confortable et Pratique : le dévidoir darrosage mural automatique permet un ré-enroulement automatique du tuyau. le système de guidage intégré permet une superposition correcte de votre tuyau, sans effort, évitant les plis, les vrillages et les nœuds.
-- Livraison inclut : 25 mètres + 2 mètres de tuyau Hozelock, 1 connecteur pour robinet extérieur (Ø 21 - 26,5 mm), 1 connecteur Aquastop, 1 connecteur rapide, 1 lance darrosage, fixations murales.
+- Période de garantie : 5 ans *
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07B7Z1SSJ{{</world>}}

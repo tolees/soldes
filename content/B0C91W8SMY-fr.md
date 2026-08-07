@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend un filtre CP + un étui de protection.
-- Verre CinemaSeries - Il présente un faible indice de réfraction, une neutralité des couleurs et une transmission parfaite de la cible. Fabriqué en Allemagne.
-- Cadre léger en aluminium.
-- Conçu avec précision pour le DJI Mavic 3 Pro
 - Indicateur de polarisation gravé au laser pour un réglage rapide de la force
+- Cadre léger en aluminium.
+- Comprend un filtre CP + un étui de protection.
+- Conçu avec précision pour le DJI Mavic 3 Pro
+- Verre CinemaSeries - Il présente un faible indice de réfraction, une neutralité des couleurs et une transmission parfaite de la cible. Fabriqué en Allemagne.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C91W8SMY{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✅ UN DESIGN SPECIALEMENT FACONNE POUR VOUS :Avec son design unique et son coloris blanc, la cafetière filtre Diamant sintègre facilement dans de nombreux intérieurs, classiques ou contemporains. Cet accessoire incontournable du petit déjeuner et de la pause café trouvera parfaitement sa place sur le plan de travail de votre cuisine.
-- 🟦⬜🟥 TERRAILLON : marque française centenaire propose des produits de cuisine, pesage, daide au sommeil, délectrostimulation et de massage ainsi quune sélection d’objets connectés afin de vous accompagner au quotidien dans le mieux être et votre bien être.
 - 👪 DES ACCESSOIRES PRATIQUES : La verseuse de 1,25L vous permet de réaliser 10 grandes tasses ou 15 petites tasses. Avec la double graduation indiquée sur lindicateur de niveau deau, vous pouvez préparer la juste quantité de café. La cafetière Diamant dispose aussi dun filtre permanent qui peut remplacer les filtres jetables. Une solution écologique et économique!
-- 📦 CONTENU : Une cafetière filtre de 21x32x20 cm, un filtre amovible, une versseuse en verre, une notice dutilisation.
 - 💡 DES FONCTIONS UTILES AU QUOTIDIEN: La fonction anti-gouttes permet de retirer la verseuse sans crainte, même si lécoulement du café nest pas terminé. Vous pouvez servir une tasse puis remettre la verseuse pour que le café finisse de sécouler. Grâce à la fonction maintien au chaud, le café restera chaud pendant 30 minutes après la fin de lécoulement du café.
+- 🟦⬜🟥 TERRAILLON : marque française centenaire propose des produits de cuisine, pesage, daide au sommeil, délectrostimulation et de massage ainsi quune sélection d’objets connectés afin de vous accompagner au quotidien dans le mieux être et votre bien être.
+- 📦 CONTENU : Une cafetière filtre de 21x32x20 cm, un filtre amovible, une versseuse en verre, une notice dutilisation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1CCP3DQ{{</world>}}

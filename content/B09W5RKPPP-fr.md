@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU RICHE : Ce kit contient tout le nécessaire pour les petits scientifiques : kit avec petite lampe, pailles, tube en plastique, ballons, papier-calque, câbles alligator, stick à bulles, balle en polystyrène, charm loupe et des fiches d’expériences illustrées
 - JEU ÉDUCATIF- FABRIQUE EN ITALIE: Transforme ta maison en un véritable laboratoire. De la la séparation électrique à la pile Volta ou aux confettis sautillants, les enfants exploreront le monde fascinant de lélectricité. Ce jeu stimule la curiosité des enfants et les initie de manière ludique aux notions de physique et de chimie.
+- APPRENTISSAGE LUDIQUE : Grâce à des expérimentations concrètes, les enfants développent des compétences dobservation, de comparaison et des connaissances physiques electiques et de chimie de manière pratique et amusante.
+- CONTENU RICHE : Ce kit contient tout le nécessaire pour les petits scientifiques : kit avec petite lampe, pailles, tube en plastique, ballons, papier-calque, câbles alligator, stick à bulles, balle en polystyrène, charm loupe et des fiches d’expériences illustrées
 - KIT EXPERIENCES SCIENTIFIQUES : Un jeu complet pour les jeunes scientifiques en herbe, offrant plus de 50 expériences passionnantes autour de lélectricité. Adapté aux enfants dès 8 ans.
 - IMAGINATION ET CRÉATIVITÉ : Encouragez limagination et la créativité des enfants en les invitant à découvrir le monde de la physique par le biais dexpériences interactives STEM. Cultivez la curiosité dès le plus jeune âge.
-- APPRENTISSAGE LUDIQUE : Grâce à des expérimentations concrètes, les enfants développent des compétences dobservation, de comparaison et des connaissances physiques electiques et de chimie de manière pratique et amusante.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09W5RKPPP{{</world>}}

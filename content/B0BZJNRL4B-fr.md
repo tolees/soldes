@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCONOMIE DÉNERGIE : Mode Éco après 2 minutes et arrêt automatique après 9 minutes dinactivité pour consommer moins dénergie
-- AVIS DE DÉCALCIFICATION : La machine à café veille à son bon fonctionnement et à une expérience de café agréable
-- DESIGN ÉLÉGANT ET ICONIQUE : Design élégant et sophistiqué avec une finition métallique haut de gamme pour apporter une touche raffinée à votre cuisine
-- 4 TASSES : Choisissez entre Espresso et Lungo pour déguster un Américain (25 ml de café et 125 ml deau chaude) et Américain XL (40 ml de café et 160 ml deau chaude). Eau chaude jusquà 200 ml
 - CAFETIÈRE À CAPSULES : La cafetière à capsules CitiZ Platinum de Nespresso propose une large gamme de recettes à base despresso
+- ÉCONOMIE DÉNERGIE : Mode Éco après 2 minutes et arrêt automatique après 9 minutes dinactivité pour consommer moins dénergie
+- DESIGN ÉLÉGANT ET ICONIQUE : Design élégant et sophistiqué avec une finition métallique haut de gamme pour apporter une touche raffinée à votre cuisine
+- AVIS DE DÉCALCIFICATION : La machine à café veille à son bon fonctionnement et à une expérience de café agréable
+- 4 TASSES : Choisissez entre Espresso et Lungo pour déguster un Américain (25 ml de café et 125 ml deau chaude) et Américain XL (40 ml de café et 160 ml deau chaude). Eau chaude jusquà 200 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZJNRL4B{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BRONZAGE LUMINEUX ET UNIFORME : Avec cette huile bronzante Garnier, à la texture non collante et non grasse, votre peau est protégée et sublimée au quotidien. Votre bronzage est lumineux pour un teint radieux, même sans soleil !
 - CONSEILS DAPPLICATION : Pulvérisez le spray dans vos mains puis appliquez généreusement sur la peau avant de vous mettre au soleil. Renouvelez fréquemment, surtout après une baignade ou après avoir transpiré. Flacon 100 % en plastique recyclé.
-- HUILE PROTECTRICE SUBLIMATRICE : Obtenez un bronzage naturel et doré grâce à lhuile haute protection sublimatrice SPF 50+ qui protège tous les types de peaux contre les UVA et UVB. Résiste à leau, au sable et à la transpiration.
 - ENRICHI EN BEURRE DE KARITÉ ET VITAMINE E : Cette protection solaire SPF 50+ en spray contient du beurre de karité, connu pour ses bienfaits hydratants et protecteurs, ainsi que de la vitamine E pour ses propriétés antioxydantes. Sans autobronzant.
+- BRONZAGE LUMINEUX ET UNIFORME : Avec cette huile bronzante Garnier, à la texture non collante et non grasse, votre peau est protégée et sublimée au quotidien. Votre bronzage est lumineux pour un teint radieux, même sans soleil !
+- HUILE PROTECTRICE SUBLIMATRICE : Obtenez un bronzage naturel et doré grâce à lhuile haute protection sublimatrice SPF 50+ qui protège tous les types de peaux contre les UVA et UVB. Résiste à leau, au sable et à la transpiration.
 - DES SOINS SOLAIRES POUR TOUTE LA FAMILLE : Garnier Ambre Solaire est une marque familiale experte en protection solaire, proposant des produits innovants pour protéger tous les types de peaux, même les plus sensibles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

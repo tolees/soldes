@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 minifigurines LEGO NINJAGO – Le jouet LEGO inclut Kai, Nya et un Guerrier draconique, munis d’armes qui permettent aux enfants de mettre en scène des combats épiques
-- Robot et moto Ninjas combinés – Ce jeu de construction NINJAGO peut être divisé en 2 véhicules : le robot de Kai et la moto volante de Nya, pour permettre aux enfants de 7 ans et plus de vivre des moments encore plus incroyables avec les Ninjas
-- Des aventures extraordinaires avec les Ninjas – Découvrez d’autres maquettes LEGO NINJAGO (sets vendus séparément) pour passer à l’action avec La moto tempête du robot de Kai
-- De nombreux accessoires LEGO – Le robot de Kai a une tête, des bras et des jambes mobiles, un cockpit et une lame tempête, et la moto volante de Nya possède un cockpit, des ailes mobiles et 2 fusils à ressort
 - Tout un univers de jouets Ninjas – Les sets LEGO NINJAGO permettent aux enfants de s’évader dans un univers fantastique débordant d’aventures aux côtés de leurs héros Ninjas
+- 3 minifigurines LEGO NINJAGO – Le jouet LEGO inclut Kai, Nya et un Guerrier draconique, munis d’armes qui permettent aux enfants de mettre en scène des combats épiques
+- De nombreux accessoires LEGO – Le robot de Kai a une tête, des bras et des jambes mobiles, un cockpit et une lame tempête, et la moto volante de Nya possède un cockpit, des ailes mobiles et 2 fusils à ressort
 - Jouet de construction pour garçons et filles dès 7 ans, fans de Ninjas - Les enfants de 7 ans et plus peuvent rejouer les incroyables combats de la saison 3 de la série TV NINJAGO Le soulèvement des dragons avec La moto tempête du robot de Kai
 - Un beau cadeau d’anniversaire pour garçons et filles de 7 ans et plus – Ce jouet permet le jeu de rôle et constitue une belle idée de cadeau d’anniversaire pour les enfants dès 7 ans qui aiment unir leurs forces à celles de leurs héros Ninjas
+- Robot et moto Ninjas combinés – Ce jeu de construction NINJAGO peut être divisé en 2 véhicules : le robot de Kai et la moto volante de Nya, pour permettre aux enfants de 7 ans et plus de vivre des moments encore plus incroyables avec les Ninjas
+- Des aventures extraordinaires avec les Ninjas – Découvrez d’autres maquettes LEGO NINJAGO (sets vendus séparément) pour passer à l’action avec La moto tempête du robot de Kai
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSCFMG6{{</world>}}

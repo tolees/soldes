@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Peut être diluée avec de leau, rincer les brosses et pinceaux à leau savonneuse
-- Peut être appliquée sur du papier, papier bristol ou du carton
 - La Gouache Studio Pébéo a été spécialement conçue pour les professionnels et les étudiants. Elle est fine, opaque et très riche en pigments. Les couleurs sont intenses et vives , et restent éclatantes après séchage. Sa pâte onctueuse et fine fait de Studio la gouache idéale pour les travaux détude, dillustration ou de décoration . La gamme Gouache Studio contient une vraie trichromie noire et un système primaire équilibré. Conforme à la norme ASTM D-4236.
+- Peut être appliquée sur du papier, papier bristol ou du carton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B002ME2T7Y{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réveillez-vous avec une tasse de café doux et riche en arôme, Réservoir d’eau amovible gradué pour 8 grandes tasses (125 ml) ou 12 petites tasses (85 ml)
-- Contenu : 1 Cafetière à filtre Melitta Optima Timer, Noir, 100801, 5 filtres à café Original blanc Melitta, Poids : 2,24kg Dimensions (lxHxP) : 25,5 x 33,5 x 19 cm, Longueur du câble 80 cm
 - Goût exceptionnel : la température de préparation optimale, Maintien du café au chaud programmable (30, 60, 90 ou 120 min), Verseuse en verre borosilicate
+- Contenu : 1 Cafetière à filtre Melitta Optima Timer, Noir, 100801, 5 filtres à café Original blanc Melitta, Poids : 2,24kg Dimensions (lxHxP) : 25,5 x 33,5 x 19 cm, Longueur du câble 80 cm
+- Réveillez-vous avec une tasse de café doux et riche en arôme, Réservoir d’eau amovible gradué pour 8 grandes tasses (125 ml) ou 12 petites tasses (85 ml)
 - Préservez votre cafetière et le goût du café : Programme de détartrage, Voyant lumineux d’alerte calcaire, 850 W, Conçu en Allemagne
 - Lancez votre café à l’heure souhaitée grâce à la fonction Timer, Système anti-goutte, Compatible avec les filtres 102, Réservoir d’eau amovible, Double graduation, Affichage de l’heure sur écran LED éclairé
 

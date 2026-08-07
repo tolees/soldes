@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FIRST
-- Pour petits et grands
 - Carrera First
 - Le plaisir de la course à la maison
+- Pour petits et grands
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PQGP8B7{{</world>}}

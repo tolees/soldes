@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DEUX JEUX EN UN: Découvrez deux RPG daction acclamés entièrement remasterisés avec des graphismes et des performances améliorés dans une seule collection
-- MONDE IMMERSIF: Explorez la Tour dArcane, un univers interconnecté rempli de lieux uniques inspirés de la saga Anima Beyond Fantasy
 - PERSONNALISATION APPROFONDIE: Développez vos compétences spéciales et personnalisez votre style de jeu comme dans un RPG traditionnel
+- DEUX JEUX EN UN: Découvrez deux RPG daction acclamés entièrement remasterisés avec des graphismes et des performances améliorés dans une seule collection
 - HISTOIRE CAPTIVANTE: Plongez dans une aventure mystérieuse où vos choix influencent le destin des personnages avec des scénarios à multiples rebondissements
+- MONDE IMMERSIF: Explorez la Tour dArcane, un univers interconnecté rempli de lieux uniques inspirés de la saga Anima Beyond Fantasy
 - SYSTÈME DE COMBAT DYNAMIQUE: Profitez dun gameplay fluide combinant action rapide et éléments RPG avec des enchaînements spectaculaires et des combos personnalisables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

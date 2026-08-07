@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige durable et respirante
 - Semelle spécifique pour usage intérieur
 - Amorti FLYTEFOAM et GEL
 - Conception mi-montante pour un meilleur maintien de la cheville
-- Tige durable et respirante
 - Parfait pour le volley-ball de haute intensité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

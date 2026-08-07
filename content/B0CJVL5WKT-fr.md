@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pour un démoulage facile, beurrez et farinez chaque petit moule.
+- Utilisable dans votre four, jusqu’à 230 °. Idéal pour cuire flans, tartes….
 - En aluminium, qualité alimentaire, ultra résistants, et très facile à utiliser
 - Bonne conductivité thermique, répartition de la chaleur de façon uniforme pour une cuisson parfaite et des recettes toujours réussies
 - Pour réaliser facilement mini savarins, mini babas au rhum, et toutes sortes de mini gâteaux et pâtisseries sucrés, salés
-- Utilisable dans votre four, jusqu’à 230 °. Idéal pour cuire flans, tartes….
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJVL5WKT{{</world>}}

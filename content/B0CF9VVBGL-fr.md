@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CAMÉRA POUR YOUTUBE AVEC DIFFUSION EN DIRECT FACILE : augmentez votre nombre d’abonnés en temps réel en diffusant vos vidéos en direct sur YouTube et Facebook depuis votre smartphone via lapplication Canon Camera Connect.
-- CAMÉRA POUR VLOG DE POCHE TOUT-EN-UN : enregistrez facilement des vlogs passionnants grâce au fonctionnement à un seul bouton, au support multiposition et à l’écran inclinable, le tout dans un format compact pratique.
 - CAMÉRA DE VLOGGING COMPACTE AVEC CONNECTIVITÉ FACILE : configuration rapide grâce à l’assistant intuitif qui se connecte automatiquement à votre smartphone via Bluetooth. Contrôlez la caméra à distance via Wi-Fi.
 - CAMÉRA DE VLOGGING 4K UHD : impressionnez votre audience avec du contenu 4K UHD sans flou de bougé, même en basse lumière. De plus, appliquez facilement des filtres et des effets créatifs pour un style signature.
 - CAMÉRA DE VLOG COMPACTE AVEC QUALITÉ SONORE EXCEPTIONNELLE : profitez d’un son cristallin grâce aux grands microphones stéréo intégrés avec filtre anti-vent qui vous permet de vous faire entendre par tous temps.
+- CAMÉRA POUR VLOG DE POCHE TOUT-EN-UN : enregistrez facilement des vlogs passionnants grâce au fonctionnement à un seul bouton, au support multiposition et à l’écran inclinable, le tout dans un format compact pratique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CF9VVBGL{{</world>}}

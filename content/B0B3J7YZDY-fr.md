@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 1 PERSONNAGE ET TABLE PIQUE-NIQUE – Le set inclut un personnage figurine et une table de pique-nique, permettant de mettre en scène des moments de vie en plein air. Ces accessoires enrichissent les possibilités narratives et favorisent un jeu imaginaire complet autour du thème du voyage.
 - KLOROFIL – Klorofil est une marque française qui conçoit des jouets imaginaires en matériaux recyclés et biosourcés pour enfants dès 18 mois. Ses univers miniatures colorés et détaillés sont pensés pour développer la créativité, le langage et limaginaire des tout-petits à travers des jeux de rôle.
-- MANIPULATION ET MOTRICITÉ FINE – Ouvrir les espaces du camping-car, déplacer le personnage, installer les accessoires : toutes ces actions sollicitent la motricité fine de lenfant et affinent sa coordination. La manipulation de petits éléments développe la dextérité et la précision des gestes.
 - CAMPING-CAR MONDE MINIATURE – Ce camping-car Klorofil est un univers miniature sur roues comprenant une cuisine, une chambre et un espace pilotage. Conçu pour les enfants dès 18 mois, il invite à recréer des scènes de voyage et de vie quotidienne à léchelle de la main.
 - DÉVELOPPEMENT DE LIMAGINATION – En manipulant le camping-car et ses accessoires, lenfant invente des histoires, des destinations et des aventures. Ce jeu de rôle et dimitation encourage la créativité, le langage et la capacité à construire des récits autonomes dès 18 mois.
-- 1 PERSONNAGE ET TABLE PIQUE-NIQUE – Le set inclut un personnage figurine et une table de pique-nique, permettant de mettre en scène des moments de vie en plein air. Ces accessoires enrichissent les possibilités narratives et favorisent un jeu imaginaire complet autour du thème du voyage.
+- MANIPULATION ET MOTRICITÉ FINE – Ouvrir les espaces du camping-car, déplacer le personnage, installer les accessoires : toutes ces actions sollicitent la motricité fine de lenfant et affinent sa coordination. La manipulation de petits éléments développe la dextérité et la précision des gestes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3J7YZDY{{</world>}}

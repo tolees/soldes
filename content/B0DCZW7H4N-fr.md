@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SPÉCIFICATIONS TECHNIQUES: Alimenté sur secteur, 16 A / 3 680 W, WIFI 2,4 GHz/Bluetooth, Compatible avec la plupart de box Wifi. La connexion Wifi est nécessaire pour le contrôl à distance pour cette prise intelligente connectée. Pour utilisation en intérieur uniquement. Compatible avec la plupart des routeurs Wi-Fi et nécessite une connexion Wi-Fi 2,4 GHz (non compatible avec 5 GHz)
-- WELCOME HOME : Programmez vos appareils pour quils sadaptent à vos habitudes : une lumière douce pour le salon, un café prêt à votre réveil, notre prise rend votre quotidien plus simple pour que vous puissiez en porfiter. 1 sucre ou 2 avec votre café ?
-- IL Y A TOUJOURS QUELQUUN À LA MAISON : Vous partez en soirée, en weekend ou en vacances ? Configurez votre prise connectée pour quelle fasse fonctionner vos appareils et vos lumières comme si vous étiez là pour dissuader des intrus de rentrer chez vous. Quelle idée lumineuse.
-- PAS VUE, PAS PRISE : Notre prise est si petite quelle sintègre dans nimporte quel intérieur. Un voyant lumineux vous permet de savoir si elle est allumée ou éteinte et, grâce au Bluetooth, elle fonctionne même en cas de panne de Wi-Fi. Pratique !
-- PRISE DE CONSCIENCE :Grâce à votre prise connectée, suivez en temps réel votre consommation dénergie et maitrisez vos watt directement depuis lapp Omajin sur votre smartphone . Réduisez vos factures et votre empreinte energétique en un clic, cest magique.
 - Une application dédiée, pour contrôler tous vos produits omajin ! Grâce à l’application omajin, vous pouvez gérer et contrôler facilement tous vos appareils depuis une seule et même application. Cet écosystème connecté vous permettra d’optimiser et surveiller l’utilisation de vos produits en toute simplicité où que vous soyez.
 - ANTI GASPI DÉNERGIE, YOUPI ! : Avec les fonctions minuteur et compte à rebours, contrôlez lusage de vos appareils à la minute près et évitez le gaspillage dénergie. Simplifiez votre quotidien. Et vos factures. Vous ne seriez pas experte en économie vous ?
+- PAS VUE, PAS PRISE : Notre prise est si petite quelle sintègre dans nimporte quel intérieur. Un voyant lumineux vous permet de savoir si elle est allumée ou éteinte et, grâce au Bluetooth, elle fonctionne même en cas de panne de Wi-Fi. Pratique !
+- PRISE DE CONSCIENCE :Grâce à votre prise connectée, suivez en temps réel votre consommation dénergie et maitrisez vos watt directement depuis lapp Omajin sur votre smartphone . Réduisez vos factures et votre empreinte energétique en un clic, cest magique.
+- SPÉCIFICATIONS TECHNIQUES: Alimenté sur secteur, 16 A / 3 680 W, WIFI 2,4 GHz/Bluetooth, Compatible avec la plupart de box Wifi. La connexion Wifi est nécessaire pour le contrôl à distance pour cette prise intelligente connectée. Pour utilisation en intérieur uniquement. Compatible avec la plupart des routeurs Wi-Fi et nécessite une connexion Wi-Fi 2,4 GHz (non compatible avec 5 GHz)
+- IL Y A TOUJOURS QUELQUUN À LA MAISON : Vous partez en soirée, en weekend ou en vacances ? Configurez votre prise connectée pour quelle fasse fonctionner vos appareils et vos lumières comme si vous étiez là pour dissuader des intrus de rentrer chez vous. Quelle idée lumineuse.
+- WELCOME HOME : Programmez vos appareils pour quils sadaptent à vos habitudes : une lumière douce pour le salon, un café prêt à votre réveil, notre prise rend votre quotidien plus simple pour que vous puissiez en porfiter. 1 sucre ou 2 avec votre café ?
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DCZW7H4N{{</world>}}

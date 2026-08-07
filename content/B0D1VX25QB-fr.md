@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Volume & Effet matifiant
-- Formule végane
-- Tenue jusquà 24h
 - Pour un look effet mouvement souple
+- Tenue jusquà 24h
+- Formule végane
 - 99% d’ingrédients d’origine naturelle
+- Volume & Effet matifiant
 - Poudre coiffante 2en1
 
 [🛒 Achète-le!!]({{< param buyurl >}})

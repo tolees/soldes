@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur:Textile
 - Matériau intérieur:Textile
 - Matériau de la semelle:EVA
 - Type de talon:Sans talon
+- Matériau extérieur:Textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB1R5CDX{{</world>}}

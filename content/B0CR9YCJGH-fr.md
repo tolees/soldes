@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Eau fraîchement filtrée pour un plaisir de café complet grâce au filtre à eau original Siemens BRITA INTENZA
 - Système lait intégré avec fonction One touch Capuccino : Préparezvos boissons lactées onctueuses en toute simplicité grâce à la sonde incluse. Vous pouvez préparer une ou deuxboissons simultanément
-- Interface XL tactile avec pictogrammes boissons colorés et écran OLED :Réalisez votre café très facilement et en un rien de temps grâce à son écran OLED XL (21 cm) avec interface couleur, tactile, très intuitif. Vous apprécierez le contrôle absolu de chaqueétapede la réalisation de votre café jusquà lentretien
+- Eau fraîchement filtrée pour un plaisir de café complet grâce au filtre à eau original Siemens BRITA INTENZA
 - Spécialement conçu pour les machines à café Siemens
+- Interface XL tactile avec pictogrammes boissons colorés et écran OLED :Réalisez votre café très facilement et en un rien de temps grâce à son écran OLED XL (21 cm) avec interface couleur, tactile, très intuitif. Vous apprécierez le contrôle absolu de chaqueétapede la réalisation de votre café jusquà lentretien
 - Un large choix de cafés riches en arômes ou de boissons lactées à la mousse onctueuse :Profitez des 12recettes pré-enregistrées sur votre machine et préparez la boisson de votre choix, rapidement et simplement : espresso,cappuccino onctueux, latte macchiato, sans oublier des thés avec un réglage possible de la température de leau...
 - Arôme parfait : le filtre à eau réduit de nombreuses substances qui dérangent les odeurs et le goût
 

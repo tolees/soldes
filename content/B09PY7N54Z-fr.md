@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Logo Skechers
 - Semelle extérieure souple
 - Tige à enfiler en maille et matière synthétique avec lacets extensibles
-- Logo Skechers
 - Matière synthétique avec lacets extensibles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

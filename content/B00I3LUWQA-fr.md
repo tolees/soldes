@@ -28,17 +28,17 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design pliable compact
-- Gamme de fréquences 10-24 000 Hz
-- Casque de type bandeau léger, conception pliable, diaphragmes de 30 mm, sensibilité 98 dB/mW
-- Diaphragmes en néodyme de 30 mm
-- Gamme de fréquences 10-24 000 Hz
-- Diaphragmes en néodyme de 30 mm
+- Impédance: 24 ohm (1 KHz)
+- Capacité: 1 000 mW
 - Casque de type bandeau léger, conception pliable, diaphragmes de 30 mm, sensibilité 98 dB/mW
 - Connectique : Mini fiche stéréo en L plaquée or
-- Impédance: 24 ohm (1 KHz)
 - Design pliable compact
-- Capacité: 1 000 mW
+- Gamme de fréquences 10-24 000 Hz
+- Diaphragmes en néodyme de 30 mm
+- Casque de type bandeau léger, conception pliable, diaphragmes de 30 mm, sensibilité 98 dB/mW
+- Design pliable compact
+- Gamme de fréquences 10-24 000 Hz
+- Diaphragmes en néodyme de 30 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00I3LUWQA{{</world>}}

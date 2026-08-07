@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EXACOMPTA - 220105E
 - EXACOMPTA Dossiers de plaidoirie "Pour / Contre", rouge</li><li>carte lustrée 265 g/m2, dimensions: 250 x 320 mm,</li><li>spécialement concu pour les avocats,</li><li>contenu: 25 pièces</li><li>(220105E)
+- EXACOMPTA - 220105E
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00TTVCP5Y{{</world>}}

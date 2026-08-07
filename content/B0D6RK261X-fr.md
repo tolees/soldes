@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HAUTE PRÉCISION : L’embrayage à 7 positions de présélection de couple permet d’ajuster la puissance de façon à ne pas endommager les matériaux fragiles
-- Livré avec : BOSCH GO 3, set de 8 embouts de vissage, porte-embout, câble USB-C, Mini coffret
 - BLOCAGE D’EMBOUT UNIVERSEL : Assure un maintien de tous les embouts six pans de ¼
-- ANNEAU LED : Sert de source d’éclairage et d’indicateur d’état de charge
+- Livré avec : BOSCH GO 3, set de 8 embouts de vissage, porte-embout, câble USB-C, Mini coffret
+- HAUTE PRÉCISION : L’embrayage à 7 positions de présélection de couple permet d’ajuster la puissance de façon à ne pas endommager les matériaux fragiles
 - PRATIQUE ET UTILE : Le tournevis sans-fil polyvalent pour les vissages dans les matériaux fragiles
+- ANNEAU LED : Sert de source d’éclairage et d’indicateur d’état de charge
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6RK261X{{</world>}}

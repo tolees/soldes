@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un ajustement confortable
 - Une allure originale
-- Étiquette G-Star RAW à l’arrière, fabriquée en tissu papier aspect cuir
 - Braguette à boutons
+- Étiquette G-Star RAW à l’arrière, fabriquée en tissu papier aspect cuir
+- Un ajustement confortable
 - 5 poches
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour entendre les notifications audio dans votre domicile, associez cet appareil à un Ring Chime ou un appareil avec Alexa intégré compatible. Une fois votre sonnette vidéo connectée extérieure installée, votre carillon de sonnette existant ne sonnera plus.
-- La détection de mouvements 3D et la vue aérienne de votre sonnette équipée dun visiophone vous permettent de localiser quand, et où, un événement de mouvements débute, par le biais dune carte en vue aérienne.
-- Raccordez votre sonnette vidéo connectée extérieure à vos fils de sonnette existants pour une alimentation continue et une tranquillité desprit à toute épreuve.
-- Fonctionne avec les appareils avec Alexa intégré pour lactivation de la vidéo en direct, laudio bidirectionnel et le contrôle vocal.
-- Grâce aux paramètres de détection de mouvements avancés de votre sonnette vidéo connectée extérieure, ne manquez aucune visite et recevez des notifications en temps réel plus précises dans lapplication Ring.
-- Cette sonnette connectée étanche avec caméra offre un champ de vision étendu de la vidéo HD 1536p en plan moyen qui vous permet de mieux voir vos visiteurs et de contrôler les livraisons sur votre palier.
 - La Sonnette vidéo Pro filaire extérieure Ring (Video Doorbell Pro 2) est une sonnette vidéo raccordée premium avec caméra vidéo HD 1536p en plan moyen, système audio bidirectionnel, visiophone, détection de mouvements 3D, Wi-Fi bibande amélioré et paramètres de confidentialité personnalisables.
 - VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : avec un abonnement Ring Home, sauvegardez vos vidéos enregistrées jusquà 180 jours pour les revoir à tout moment, recevez des notifications de personnes et de colis, et bien plus encore.(Vendu séparément).*
+- La détection de mouvements 3D et la vue aérienne de votre sonnette équipée dun visiophone vous permettent de localiser quand, et où, un événement de mouvements débute, par le biais dune carte en vue aérienne.
+- Pour entendre les notifications audio dans votre domicile, associez cet appareil à un Ring Chime ou un appareil avec Alexa intégré compatible. Une fois votre sonnette vidéo connectée extérieure installée, votre carillon de sonnette existant ne sonnera plus.
+- Fonctionne avec les appareils avec Alexa intégré pour lactivation de la vidéo en direct, laudio bidirectionnel et le contrôle vocal.
 - AJOUTEZ UN CARILLON : ajoutez le Chime (3e gén.) pour entendre les alertes avec un son plus fort et plus clair partout chez vous. Connectez-vous instantanément à laide du wifi ou du Bluetooth pour être averti lorsque quelquun sonne à la porte ou quun mouvement est détecté.
+- Grâce aux paramètres de détection de mouvements avancés de votre sonnette vidéo connectée extérieure, ne manquez aucune visite et recevez des notifications en temps réel plus précises dans lapplication Ring.
+- Cette sonnette connectée étanche avec caméra offre un champ de vision étendu de la vidéo HD 1536p en plan moyen qui vous permet de mieux voir vos visiteurs et de contrôler les livraisons sur votre palier.
+- Raccordez votre sonnette vidéo connectée extérieure à vos fils de sonnette existants pour une alimentation continue et une tranquillité desprit à toute épreuve.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FQCKT1XT{{</world>}}

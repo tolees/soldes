@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marquage du type; de la taille de l’empreinte ainsi que de la longueur de la lame sur le manche - code couleur
 - Manche réservoir pratique pour stocker les embouts
-- Lame en acier au chrome vanadium : grande résistance et réduit les risques de casse de la pointe et de la lame
 - Repose doigt pivotant avec haut de la poignée alvéolée; pour un meilleur maintien
+- Marquage du type; de la taille de l’empreinte ainsi que de la longueur de la lame sur le manche - code couleur
+- Lame en acier au chrome vanadium : grande résistance et réduit les risques de casse de la pointe et de la lame
 - Poignée ergonomique en acétate de cellulose pour un meilleur contrôle durant le travail et plus de confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})

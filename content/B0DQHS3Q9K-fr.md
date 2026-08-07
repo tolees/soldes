@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle extérieure Fluidform en polyuréthane et caoutchouc à deux composants est très confortable, résistante, légère et flexible, tout en offrant une bonne adhérence
 - La technologie imperméable Gore-Tex aide à garder les pieds au sec
-- Doublure chaude et semelle intérieure en feutre pour garder les pieds confortables pendant les mois les plus froids
+- La semelle extérieure Fluidform en polyuréthane et caoutchouc à deux composants est très confortable, résistante, légère et flexible, tout en offrant une bonne adhérence
 - Fermeture éclair intérieure pour un enfilage et un retrait faciles
+- Doublure chaude et semelle intérieure en feutre pour garder les pieds confortables pendant les mois les plus froids
 - Fabriqué en cuir nubuck, fabriqué dans nos propres tanneries
 
 [🛒 Achète-le!!]({{< param buyurl >}})

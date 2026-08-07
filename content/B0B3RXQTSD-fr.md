@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vitesse maximale jusquà 25 km/h (15,5 mph).
 - Angle de montée jusquà 18.
 - Pneus tubeless auto-obturants de 10 pouces avec couche de gelée.
-- Système de contrôle de la traction anti-dérapage.
 - 2 freins - disque avant et freins arrière électroniques.
 - Indicateurs avant et arrière intégrés pour des déplacements en toute sécurité.
-- Vitesse maximale jusquà 25 km/h (15,5 mph).
+- Système de contrôle de la traction anti-dérapage.
 - Autonomie jusquà environ 40 km (24.9 miles).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

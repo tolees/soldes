@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drop semelle intermédiaire : 10 mm (talon : 30 mm / avant-pied : 20 mm).
-- Tige en mesh avec empiècements synthétiques.
-- Contient au moins 20 % de matériaux recyclés.
-- Amorti LIGHTMOTION.
-- Chaussant standard.
-- Doublure textile.
-- Semelle de propreté OrthoLite.
-- Semelle extérieure Traxion
-- Poids : 347 g (pointure 42 2/3).
 - Fermeture à lacets.
+- Tige en mesh avec empiècements synthétiques.
+- Chaussant standard.
+- Semelle extérieure Traxion
+- Amorti LIGHTMOTION.
+- Drop semelle intermédiaire : 10 mm (talon : 30 mm / avant-pied : 20 mm).
+- Poids : 347 g (pointure 42 2/3).
+- Contient au moins 20 % de matériaux recyclés.
+- Semelle de propreté OrthoLite.
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYV673NY{{</world>}}

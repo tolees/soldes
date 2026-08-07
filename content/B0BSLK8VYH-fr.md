@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La finition extérieure dépolie complète parfaitement le capot de couleur gris acier, seul le logo MSI semi-transparent restant apparent. La lumière du logo sharmonise avec les coins arrondis, offrant une expérience visuelle raffinée.
-- Ventilateurs préinstallés et précâblés pour un gain de temps lors de linstallation et une meilleure expérience dassemblage.
 - La série CORELIQUID A13 intègre une pompe haute performance pouvant atteindre une vitesse de 3800 tr/min. Associée à des roulements en céramique de haute qualité, elle atteint un équilibre parfait entre performance et fonctionnement silencieux.
 - Les ventilateurs à roulement de type rifle (PWM, 500~2000 ± 10% t/min) génèrent une pression statique (2,361 mmH2O) et un débit dair (62,6 CFM) élevés avec un bruit modéré (31,1 dBA) ; les pales translucides accentuent léclairage ARGB.
+- Ventilateurs préinstallés et précâblés pour un gain de temps lors de linstallation et une meilleure expérience dassemblage.
 - REFROIDISSEMENT CPU AMÉLIORÉ - Le MAG CORELIQUID A13 utilise une large plaque en cuivre pour refroidir les points chauds excentrés ainsi que davantage de micro-canaux qui augmentent le rapport surface/volume pour une meilleure dissipation thermique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

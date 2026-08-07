@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ideal for all hair types, especially frizzy hair
 - Leaves hair soft, shiny, and more manageable
 - Moisturizing shampoo for frizz-free hair
-- Ideal for all hair types, especially frizzy hair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV61WPF1{{</world>}}

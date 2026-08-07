@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les parents peuvent également enregistrer leur propre histoire ou chanson personnelle
 - Trop mignon, le petit chien réagit et sanime différemment selon le conte de fées choisi
 - Jusquà 10 minutes denregistrement
-- Les parents peuvent également enregistrer leur propre histoire ou chanson personnelle
-- Projection: La projection accompagne des histoires et des chansons
 - Interactif : les différentes voix des personnages et des conteurs, les sons réalistes et les mélodies donnent vie à des histoires
+- Projection: La projection accompagne des histoires et des chansons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TQ9DH53{{</world>}}

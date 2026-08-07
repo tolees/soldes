@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Moteur sans balais puissant et performant
+- La vitesse maximale peut atteindre 25 km/h
 - Pneus antidérapants et amortisseurs avec chambre à air de 8,5 pouces
 - Avec 3 vitesses réglables
-- La vitesse maximale peut atteindre 25 km/h
-- Moteur sans balais puissant et performant
 - Conduisez sur des surfaces inclinées jusquà 21 percent
 
 [🛒 Achète-le!!]({{< param buyurl >}})

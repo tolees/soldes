@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Confort et sécurité : Contrôlez vos éclairages et votre électroménager en fonction des mouvements, et recevez des notifications quand un mouvement est détecté (fonctionnalité disponible sur certaines plates-formes), Affinez les automatisations en fonction de la luminosité dans lapp Eve pour iOS
-- Nécessite iOS/iPadOS 16.4 (ou version ultérieure) ou Android 8.1 (ou version ultérieure) ainsi quun concentrateur pour la plate-forme de votre choix: Apple Home : Apple TV 4K (2e génération/3e génération, 128 Go), HomePod (2e génération), HomePod mini/Samsung SmartThings : SmartThings Hub v3/Amazon Alexa : Echo (4e génération), Echo Show 8 (3e génération), Echo Show 10 (3e génération), Echo Studio, eero 6 / 6+ / Pro 6 / Pro 6E / Max 7 / Google Home : Nest Hub (2e génération), Nest Hub Max, Nest Wifi, Nest Wifi Pro
-- Votre maison est parée pour lavenir : Grâce à la compatibilité Matter, vous pouvez surveiller facilement votre maison avec tous les smartphones et assistants vocaux utilisant les principales plates-formes, Profitez de la technologie innovante de réseau Thread, pour une maison connectée plus fiable
-- Une confidentialité absolue : pas de cloud Eve, pas d’inscription, pas de pistage, Communication en local, sans dépendance vis-à-vis du cloud
 - Surveillez tous les espaces : Champ de vision 120° et portée de détection pouvant atteindre 9 m, Fonctionne à lintérieur comme à lextérieur grâce à lindice IPX3 de résistance à leau et à lalimentation sans fil sur piles
+- Votre maison est parée pour lavenir : Grâce à la compatibilité Matter, vous pouvez surveiller facilement votre maison avec tous les smartphones et assistants vocaux utilisant les principales plates-formes, Profitez de la technologie innovante de réseau Thread, pour une maison connectée plus fiable
+- Nécessite iOS/iPadOS 16.4 (ou version ultérieure) ou Android 8.1 (ou version ultérieure) ainsi quun concentrateur pour la plate-forme de votre choix: Apple Home : Apple TV 4K (2e génération/3e génération, 128 Go), HomePod (2e génération), HomePod mini/Samsung SmartThings : SmartThings Hub v3/Amazon Alexa : Echo (4e génération), Echo Show 8 (3e génération), Echo Show 10 (3e génération), Echo Studio, eero 6 / 6+ / Pro 6 / Pro 6E / Max 7 / Google Home : Nest Hub (2e génération), Nest Hub Max, Nest Wifi, Nest Wifi Pro
+- Une confidentialité absolue : pas de cloud Eve, pas d’inscription, pas de pistage, Communication en local, sans dépendance vis-à-vis du cloud
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C43V7D8Z{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Construisez votre univers Pokémon et repoussez les limites de l’imagination !
 - Chaque figurine est entièrement articulée
-- Construction avec instructions simples et des pièces organisées par code couleur
 - Figurines Évoli, Aquali, Voltali, Pyroli, Mentali, Noctali, Phyllali, Givrali et Nymphali à construire
+- Construction avec instructions simples et des pièces organisées par code couleur
 - Constituez une jolie collection avec d’autres coffrets de construction Pokémon de Mega Construx
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

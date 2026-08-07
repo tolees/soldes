@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connexion facile : il suffit de brancher le câble USB-C sur votre PC ou votre ordinateur portable
 - Conforme aux standards ISO 7816 classes A, B, D, pour une connexion sécurisée aux sites web gouvernementaux
 - Dispositif plat avec un câble de 100 cm qui se pose facilement sur votre bureau
+- Connexion facile : il suffit de brancher le câble USB-C sur votre PC ou votre ordinateur portable
 - Facilite l’identification personnelle sur les sites Web et auprès des administrations publiques ; compatible avec toutes les cartes à puce DNI
 - Pieds antidérapants en caoutchouc pour faciliter l’insertion des cartes
 

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DUREE DE VIE ACCRUE : Le boîtier dengrenage compact en magnésium assure une longue durée de vie et est équipé dun raccord pour laspiration des poussières
 - POLYVALENTE : Avec une profondeur de coupe allant jusquà 43mm (diamètre de lame 115 - 120mm), la scie est idéale pour les coupes plongeantes et diverses applications autour de la maison et du jardin
-- COUPE PRECISE : Grâce à son réglage de la profondeur de coupe et à son guide parallèle fourni, la scie circulaire manuelle assure une coupe précise de tous les matériaux
-- GARANTIE 5 ANS : Garantie 2 ans constructeur plus trois ans offerts sous conditions denregistrement de votre outil sous un délai de un mois à compter de la date de votre achat sur le site worx-europe
 - COUPES DANGLE : Grâce au réglage simple de langle donglet et au guide laser intégré, les coupes donglet précises ne posent aucun problème / La poignée Softgrip garantit un guidage sûr dune seule main
+- GARANTIE 5 ANS : Garantie 2 ans constructeur plus trois ans offerts sous conditions denregistrement de votre outil sous un délai de un mois à compter de la date de votre achat sur le site worx-europe
+- COUPE PRECISE : Grâce à son réglage de la profondeur de coupe et à son guide parallèle fourni, la scie circulaire manuelle assure une coupe précise de tous les matériaux
+- DUREE DE VIE ACCRUE : Le boîtier dengrenage compact en magnésium assure une longue durée de vie et est équipé dun raccord pour laspiration des poussières
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098XPMJTX{{</world>}}

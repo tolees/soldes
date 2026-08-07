@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REGROUPEZ VOS CONSTRUCTIONS – Avec l’application LEGO Builder, vous pouvez construire vos maquettes avec des instructions en 3D, suivre votre progression et sauvegarder tous vos sets dans l’application
+- CADEAU ORIGINAL DÈS 18 ANS – Ce kit sur le thème de larchitecture fera le bonheur des passionné.e.s de voyage & d’histoire et des amoureux.ses de Paris ; il sagit dun fabuleux cadeau à offrir pour un anniversaire ou pour les fêtes
 - LOISIRS CRÉATIFS POUR ADULTE & DÉCORATION – Avec cette activité de pleine conscience, construisez l’œuvre d’art encadrée, complétez-la de la brique décorée « City of Love », puis exposez-la pour sublimer toute pièce
 - SETS LEGO ARCHITECTURE – Ce set décoratif fait partie d’une collection de sets d’exception (vendus séparément) destinés aux femmes et aux hommes qui souhaitent se plonger dans des projets créatifs
-- TABLEAU ENCADRÉ À ACCROCHER OU À POSER – Recréez la tour Eiffel, Notre-Dame de Paris, l’Arc de Triomphe & le Louvre en briques dans un cadre à accrocher au mur ou à poser sur une étagère
-- EXPLOREZ PARIS EN DÉTAIL – Ce set détaillé présente 4 icônes de l’architecture parisienne sur fond de silhouette urbaine & de ciel étoilé
 - SET DE CONSTRUCTION SUR PARIS, VILLE DE LAMOUR – Les adultes peuvent exprimer leur passion pour la capitale parisienne avec ce kit LEGO, superbe décoration intérieure pour la maison ou le bureau
-- CADEAU ORIGINAL DÈS 18 ANS – Ce kit sur le thème de larchitecture fera le bonheur des passionné.e.s de voyage & d’histoire et des amoureux.ses de Paris ; il sagit dun fabuleux cadeau à offrir pour un anniversaire ou pour les fêtes
+- TABLEAU ENCADRÉ À ACCROCHER OU À POSER – Recréez la tour Eiffel, Notre-Dame de Paris, l’Arc de Triomphe & le Louvre en briques dans un cadre à accrocher au mur ou à poser sur une étagère
+- REGROUPEZ VOS CONSTRUCTIONS – Avec l’application LEGO Builder, vous pouvez construire vos maquettes avec des instructions en 3D, suivre votre progression et sauvegarder tous vos sets dans l’application
+- EXPLOREZ PARIS EN DÉTAIL – Ce set détaillé présente 4 icônes de l’architecture parisienne sur fond de silhouette urbaine & de ciel étoilé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXJ7MGT{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec les tuyaux à poussière de 2 et 4 pouces : Compatible avec les tuyaux à poussière de 2 et 4 pouces, la raboteuse détabli en bois évacue efficacement les copeaux de bois, gardant votre espace de travail propre et minimisant la poussière en suspension dans lair pour un environnement de travail confortable
-- Contrôle de profondeur précis de 1/8 po : Réglez la profondeur de coupe par incréments précis de 1/8 po, avec une précision millimétrique pour des résultats reproductibles. Cette raboteuse à bois est idéale pour les projets de grande envergure exigeant des résultats constants
-- Moteur puissant pour le rabotage des bois durs : Entraînée par un moteur robuste de 2 000 W délivrant jusquà 8 000 CPM, cette raboteuse à bois traite facilement le chêne, lérable et dautres bois durs. Profitez dune performance fluide et sans calage, même sous forte charge
-- Système dalimentation à double rouleau : Des doubles rouleaux robustes avancent les planches avec précision, réduisant les vibrations et les problèmes dalignement pour des coupes parfaitement droites. Associée à 24 lames en alliage hélicoïdal, cette raboteuse produit des bords parfaitement lisses et sans éclats
 - Grande table de travail pour planches longues : Avec ses 33 cm de largeur, 15 cm de hauteur et 71 cm de longueur, cette table spacieuse maintient les planches longues ou gauchies en place. Cette raboteuse détabli réduit les éraflures et améliore le contrôle pour une finition plus professionnelle
+- Contrôle de profondeur précis de 1/8 po : Réglez la profondeur de coupe par incréments précis de 1/8 po, avec une précision millimétrique pour des résultats reproductibles. Cette raboteuse à bois est idéale pour les projets de grande envergure exigeant des résultats constants
+- Système dalimentation à double rouleau : Des doubles rouleaux robustes avancent les planches avec précision, réduisant les vibrations et les problèmes dalignement pour des coupes parfaitement droites. Associée à 24 lames en alliage hélicoïdal, cette raboteuse produit des bords parfaitement lisses et sans éclats
+- Moteur puissant pour le rabotage des bois durs : Entraînée par un moteur robuste de 2 000 W délivrant jusquà 8 000 CPM, cette raboteuse à bois traite facilement le chêne, lérable et dautres bois durs. Profitez dune performance fluide et sans calage, même sous forte charge
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FNX7VWGV{{</world>}}

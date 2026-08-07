@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisation guidée et configuration simple : écran LCD intuitif et application HP Smart permettant de contrôler, personnaliser et surveiller toutes les fonctions de l’imprimante en toute simplicité
 - Cette imprimante est compatible avec les consommables d’origine HP suivants : bouteille d’encre HP 31 cyan 70 ml (1VU26AE), bouteille d’encre HP 31 magenta 70 ml (1VU27AE), bouteille d’encre HP 31 jaune 70 ml (1VU28AE), bouteille d’encre HP 32XL noire 135 ml (1VV24AE), tête d’impression HP noire (6ZA17AE)
-- Impression rapide et efficace : jusqu’à 15 ppm en noir et 9 ppm en couleur, avec la fonction recto-verso automatique qui permet de ne pas gaspiller du temps et du papier à chaque impression
-- Multifonction complète pour toute la famille: imprime, numérise et copie, y compris les documents couleur, avec une résolution jusqu’à 4 800 × 1 200 ppp
-- Impression à haut volume sans souci : jusqu’à 12 000 pages en noir ou 8 000 pages en couleur avec encre inclus, pour imprimer de grandes quantités de documents à la maison
 - Fonctions intelligentes de numérisation et de copie : numérise en PDF, JPG, PNG ou TIFF ; réalise des copies de documents et des copies de pièces d’identité directement depuis le panneau de commande ou le logiciel HP
+- Utilisation guidée et configuration simple : écran LCD intuitif et application HP Smart permettant de contrôler, personnaliser et surveiller toutes les fonctions de l’imprimante en toute simplicité
+- Impression à haut volume sans souci : jusqu’à 12 000 pages en noir ou 8 000 pages en couleur avec encre inclus, pour imprimer de grandes quantités de documents à la maison
+- Multifonction complète pour toute la famille: imprime, numérise et copie, y compris les documents couleur, avec une résolution jusqu’à 4 800 × 1 200 ppp
 - Connectivité polyvalente et mobile : compatible avec AirPrint, Mopria et HP Smart ; imprime et numérise directement depuis ton smartphone ou ta tablette grâce à des raccourcis personnalisables
+- Impression rapide et efficace : jusqu’à 15 ppm en noir et 9 ppm en couleur, avec la fonction recto-verso automatique qui permet de ne pas gaspiller du temps et du papier à chaque impression
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FG84ZZ78{{</world>}}

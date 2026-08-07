@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PERSONNALISEZ LES TENUES AVEC 3 MINI-POUPÉES – Combinez bustes, perruques, chapeaux & autres accessoires pour donner du style aux mini-poupées LEGO Friends Paisley, Liann & Nova, avant le show
-- ACCESSOIRES DE MODE – Jupe en tulle, manteau, veste, jean, top, foulard, sac à main, couronne de fleurs, nœud, lunettes de soleil, rouge à lèvres, brosse, miroir, appareils photo et plus encore
-- KIT FASHION DESIGNER POUR FILLE OU GARÇON – Le jeu de construction Le défilé de mode de Heartlake City LEGO Friends encourage les enfants dès 7 ans à faire appel à leur créativité pour habiller 3 mini-poupées
-- CADEAU DANNIVERSAIRE POUR FILLE OU GARÇON DÈS 7 ANS – Surprenez un.e jeune passionné.e dart & design avec cet amusant kit de construction, une superbe idée pour célébrer les anniversaires ou dautres occasions
+- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
 - SÉRIE EN LIGNE – Découvrez encore plus d’idées de jeux créatifs avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, où les enfants font connaissance avec les personnages de Heartlake City
 - ON SAMUSE SUR LE CATWALK – Imaginez jouer le rôle dun.e designer avec ce set de loisirs créatifs DIY incluant un podium, une plateforme tournante, une coiffeuse et de nombreux accessoires
-- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
+- PERSONNALISEZ LES TENUES AVEC 3 MINI-POUPÉES – Combinez bustes, perruques, chapeaux & autres accessoires pour donner du style aux mini-poupées LEGO Friends Paisley, Liann & Nova, avant le show
+- ACCESSOIRES DE MODE – Jupe en tulle, manteau, veste, jean, top, foulard, sac à main, couronne de fleurs, nœud, lunettes de soleil, rouge à lèvres, brosse, miroir, appareils photo et plus encore
+- CADEAU DANNIVERSAIRE POUR FILLE OU GARÇON DÈS 7 ANS – Surprenez un.e jeune passionné.e dart & design avec cet amusant kit de construction, une superbe idée pour célébrer les anniversaires ou dautres occasions
+- KIT FASHION DESIGNER POUR FILLE OU GARÇON – Le jeu de construction Le défilé de mode de Heartlake City LEGO Friends encourage les enfants dès 7 ans à faire appel à leur créativité pour habiller 3 mini-poupées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXG181G{{</world>}}

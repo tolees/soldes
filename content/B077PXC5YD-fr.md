@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN PARFUM INTENSE : Fasciné depuis toujours par l’Orient et ses richesses mystérieuses, Mauboussin Parfums met à l’honneur la plus rare et la plus belle des matières : le bois de oud. Un hommage parfumé révélant des essences pures, ancestrales et venues d’ailleurs.
-- UN FLACON BIJOU : Chaque flacon Mauboussin a pour origine l’essence d’un bijou de la marque. Ses formes, son allure et son message sont magnifiés par une fragrance… tel un hommage parfumé.
-- DES NOTES OLFACTIVES ORIENTALES : Note de tête : roses velours. Note de cœur : encens. Note de fond : bois de oud.
-- UN SAVOIR-FAIRE RECONNU : Fidèle à sa réputation de joaillier précurseur, Mauboussin continue d’innover avec des créations modernes et accessibles. Ses parfums s’inscrivent dans la lignée de la joaillerie, à la fois nobles, raffinés, intenses, et imprégnés de ce brin de fantaisie propre à Mauboussin.
 - UNE SENTEUR RACÉE : Une eau de parfum suave, luxueuse et profondément intense. En tête, un bouquet de roses velours, piquant et voluptueux, laisse peu à peu place à la chaleur torride d’encens venus d’Orient. Le bois de oud, matière rare et précieuse, signe cette fragrance racée au sillage incomparable.
+- UN SAVOIR-FAIRE RECONNU : Fidèle à sa réputation de joaillier précurseur, Mauboussin continue d’innover avec des créations modernes et accessibles. Ses parfums s’inscrivent dans la lignée de la joaillerie, à la fois nobles, raffinés, intenses, et imprégnés de ce brin de fantaisie propre à Mauboussin.
+- UN PARFUM INTENSE : Fasciné depuis toujours par l’Orient et ses richesses mystérieuses, Mauboussin Parfums met à l’honneur la plus rare et la plus belle des matières : le bois de oud. Un hommage parfumé révélant des essences pures, ancestrales et venues d’ailleurs.
+- DES NOTES OLFACTIVES ORIENTALES : Note de tête : roses velours. Note de cœur : encens. Note de fond : bois de oud.
+- UN FLACON BIJOU : Chaque flacon Mauboussin a pour origine l’essence d’un bijou de la marque. Ses formes, son allure et son message sont magnifiés par une fragrance… tel un hommage parfumé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077PXC5YD{{</world>}}

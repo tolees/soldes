@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Assemblage des meilleurs grains de café Arabica et Robusta pour une torréfaction équilibrée, chaque tasse est loccasion de savourer un café exceptionnel. LOR Absolu en grains vous est proposé dans un format de 2 sachets de 1kg
+- Grains de café LOR Absolu dintensité 7 pour un café exquis aux notes dépices douces et aux saveurs de zestes dagrumes
 - Grâce à son conditionnement sous atmosphère protectrice et à sa valve fraicheur, L’OR vous garantit une préservation optimale de la fraicheur et des arômes de ses grains.
 - Un café issu d’un approvisionnement responsable dans le cadre de la démarche JDE Peet’s Common Grounds : un programme œuvrant à la création d’un avenir meilleur où les agriculteurs et la nature prospèrent
-- Grains de café LOR Absolu dintensité 7 pour un café exquis aux notes dépices douces et aux saveurs de zestes dagrumes
 - Compatible avec toutes les machines à grains automatiques et les moulins à grain
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

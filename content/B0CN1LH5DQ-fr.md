@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MONTAGE FACILE - Niveau à bulle et support pour carte graphique afin dassurer un réglage sans effort et déviter laffaissement. Dégagement de 33 mm et bandes Velcro pour faciliter le passage et la gestion des câbles.
-- FILTRES À POUSSIÈRE AMOVIBLES - Les filtres à poussière supérieurs set le filtre à poussière magnétique inférieur empêchent la poussière de pénétrer à lintérieur du boîtier tout en étant faciles à retirer pour le nettoyage.
-- Le MAG PANO M100L PZ est un boîtier pour PC qui convient parfaitement aux cartes mères Micro-ATX et Mini-ITX. Il est conçu pour être compatible avec les cartes mères Micro-ATX à connexion arrière.
 - SOLUTION DE REFROIDISSEMENT - Le MAG PANO M100L PZ est équipé dune grille sur le panneau latéral afin daméliorer la circulation de lair pour refroidir le système.
+- FILTRES À POUSSIÈRE AMOVIBLES - Les filtres à poussière supérieurs set le filtre à poussière magnétique inférieur empêchent la poussière de pénétrer à lintérieur du boîtier tout en étant faciles à retirer pour le nettoyage.
+- MONTAGE FACILE - Niveau à bulle et support pour carte graphique afin dassurer un réglage sans effort et déviter laffaissement. Dégagement de 33 mm et bandes Velcro pour faciliter le passage et la gestion des câbles.
+- Le MAG PANO M100L PZ est un boîtier pour PC qui convient parfaitement aux cartes mères Micro-ATX et Mini-ITX. Il est conçu pour être compatible avec les cartes mères Micro-ATX à connexion arrière.
 - PANNEAU E/S - Le panneau E/S comprend un bouton dalimentation et un bouton Reset, une prise jack entré micro/sortie audio, un port USB Type-C 3.2 Gen 2x2 (20 Gb/s) et un port USB Type-A 3.2 Gen 1 (5 Gb/s).
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connected Command Display - Le Connected Command Display vous permet de personnaliser le son, les boutons assignables, dafficher les notifications de vos réseaux sociaux via une technologie brevetée et plus encore
+- Sticks AntiDrift - Contrairement aux sticks analogiques à contact total, les sticks sans contact à effet Hall utilisent des aimants internes ce qui permet dobtenir une haute précision, ainsi quun contrôle fluide et sans dérive
+- Butées de gâchette réglables - Modifiez à la volée la distance de déplacement des gâchettes en fonction des jeux auxquels vous jouez. Les distances de déplacement plus courtes offrent des profils de retour plus rapides pour les jeux FPS, tandis que les distances de déplacement complètes permettent un dosage précis de laccélération et du freinage dans les jeux de course
 - Haute performance sans fil ni lags sur PC - Jouez sans fil sur votre PC grâce à lémetteur 2,4 GHz, en Bluetooth sur les appareils Android et les Smart TV, et même en filaire sur consoles Xbox
 - Modules pivotants à boutons - Les modules pivotants de commande vous permettent de basculer rapidement dune configuration traditionnelle avec boutons et sticks à une configuration conçue pour asseoir votre domination dans les jeux de combat
-- Butées de gâchette réglables - Modifiez à la volée la distance de déplacement des gâchettes en fonction des jeux auxquels vous jouez. Les distances de déplacement plus courtes offrent des profils de retour plus rapides pour les jeux FPS, tandis que les distances de déplacement complètes permettent un dosage précis de laccélération et du freinage dans les jeux de course
-- Sticks AntiDrift - Contrairement aux sticks analogiques à contact total, les sticks sans contact à effet Hall utilisent des aimants internes ce qui permet dobtenir une haute précision, ainsi quun contrôle fluide et sans dérive
+- Connected Command Display - Le Connected Command Display vous permet de personnaliser le son, les boutons assignables, dafficher les notifications de vos réseaux sociaux via une technologie brevetée et plus encore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJTJDN73{{</world>}}

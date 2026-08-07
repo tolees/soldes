@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres sets de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des fleurs de cerisier, des tournesols et plus encore
 - MAQUETTE DE CACTUS EN FLEURS – Les enfants qui aiment les plantes seront ravis avec ce jeu de construction Cactus fleuri LEGO Botanicals pour fille ou garçon dès 9 ans
-- PLANTES SUCCULENTES – Ce set de construction inclut un pot de fleurs bleu pastel : une décoration intérieure réaliste à exposer sur une bureau ou une étagère, une fois la construction terminée
+- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres sets de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des fleurs de cerisier, des tournesols et plus encore
 - FLEURS LEGO ROSES – Le plus grand cactus est surmonté d’une fleur artificielle rose avec un cœur jaune et le plus petit porte de petits boutons floraux roses
-- CADEAU NATURE POUR FILLE OU GARÇON DÈS 9 ANS – Ce kit de loisirs créatifs est un superbe cadeau à offrir à une fille ou un garçon pour un anniversaire ou toute autre occasion spéciale, ainsi quà un.e adulte amatrice.teur de plantes
 - CRÉEZ 2 PLANTES ARTIFICIELLES DE CACTUS – Les passionné.e.s de nature laissent libre cours à leur créativité en construisant 2 cactus LEGO : un grand en pleine floraison et un plus petit avec des boutons floraux
 - APPLICATION DE CONSTRUCTION – Le set de construction de cactus est disponible dans lapplication LEGO Builder où les jeunes fleuristes peuvent accéder à des instructions numériques et suivre leur progression
+- CADEAU NATURE POUR FILLE OU GARÇON DÈS 9 ANS – Ce kit de loisirs créatifs est un superbe cadeau à offrir à une fille ou un garçon pour un anniversaire ou toute autre occasion spéciale, ainsi quà un.e adulte amatrice.teur de plantes
+- PLANTES SUCCULENTES – Ce set de construction inclut un pot de fleurs bleu pastel : une décoration intérieure réaliste à exposer sur une bureau ou une étagère, une fois la construction terminée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXF7TZV{{</world>}}

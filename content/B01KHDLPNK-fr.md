@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN DESIGN INTELLIGENT : permet de faire rôtir la viande au dessus et faire griller des légumes en dessous ou récupérer le jus de cuisson pour en faire une sauce délicieuse
-- UN DESIGN ÉLEVɠ: lair circule librement, la peau est donc croustillante et la cuisson égale
-- INFORMATIONS : la grille se nettoie à la main uniquement et dispose dune garantie de 5 ans
 - POLYVALENT : les dimensions de cette grille sont de 23 x 16,5 x 6,5 cm, elle sadapte à tous les plats, idéal pour la cuisson de petites volailles ou de rôtis
 - RÔTIR SANS GROSSIR : cette grille élève la viande, elle ne trempe donc pas dans la graisse pour une dégustation sans culpabilité
+- UN DESIGN ÉLEVɠ: lair circule librement, la peau est donc croustillante et la cuisson égale
+- INFORMATIONS : la grille se nettoie à la main uniquement et dispose dune garantie de 5 ans
+- UN DESIGN INTELLIGENT : permet de faire rôtir la viande au dessus et faire griller des légumes en dessous ou récupérer le jus de cuisson pour en faire une sauce délicieuse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01KHDLPNK{{</world>}}

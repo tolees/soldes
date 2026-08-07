@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDÉAL POUR LA VIDÉO : Cet objectif compact et léger offre un autofocus rapide et précis et une transition douverture fluide, parfait pour filmer des vidéos 4K de haute qualité et des photos en toute simplicité.
-- IMAGE PARFAITE : Cet objectif Lumix S contient 14 éléments en 10 groupes, dont 1 ASPH ED, 1 ASPH, 3 ED et 1 UHR pour minimiser les défauts et garantir une superbe résolution détaillée.
+- PRISES DE VUE EN GROS PLAN : Avec un grossissement maximal de 0,5x et une distance minimale de mise au point de seulement 15 cm, cet objectif macro vous permet de capturer des détails incroyables.
 - RÉSISTANT À LA POUSSIÈRE, AUX ÉCLABOUSSURES ET AU GEL : Cet objectif Panasonic est résistant à la poussière, aux éclaboussures et au gel, vous permettant de prendre des photos à des températures aussi basses que -10 °C.
 - MISE AU POINT INTUITIVE : La personnalisation de la bague de mise au point permet aux filmmakers de choisir entre une mise au point linéaire (régulière) ou non-linéaire (suivant la vitesse de rotation de la bague) afin davoir un contrôle ultime.
-- PRISES DE VUE EN GROS PLAN : Avec un grossissement maximal de 0,5x et une distance minimale de mise au point de seulement 15 cm, cet objectif macro vous permet de capturer des détails incroyables.
 - OBJECTIF ULTRA-LARGE : La distance focale ultra-large de 14-28 mm vous permet de capturer des paysages, des vues urbaines et des ciels étoilés, pour des prises de vue incroyablement immersives et dynamiques.
+- IDÉAL POUR LA VIDÉO : Cet objectif compact et léger offre un autofocus rapide et précis et une transition douverture fluide, parfait pour filmer des vidéos 4K de haute qualité et des photos en toute simplicité.
+- IMAGE PARFAITE : Cet objectif Lumix S contient 14 éléments en 10 groupes, dont 1 ASPH ED, 1 ASPH, 3 ED et 1 UHR pour minimiser les défauts et garantir une superbe résolution détaillée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSXHBJ9L{{</world>}}

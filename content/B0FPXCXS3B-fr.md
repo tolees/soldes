@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ENCORE PLUS DE JEU CRÉATIF – Amplifiez laventure en associant cette décoration de pot de fleurs à dautres kits de la large gamme de jouets LEGO Disney (vendus séparément), pour encore plus damusement
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants avec des instructions en 3D interactives, leur permettant de sauvegarder les sets, suivre leur progression, et explorer les maquettes en détail
-- DÉCORATION DE CHAMBRE DENFANT DIY – Ce set de construction coloré peut être exposé ouvert ou fermé et décorera superbement une étagère ou un bureau dans une chambre denfant
 - SURPRISE À L’INTÉRIEUR – Ouvrez le pot de fleurs et découvrez une cuisine cachée où Sally prépare ses potions, avec un panier, une table à construire, une petite fleur, une cuillère et un chaudron pour le jeu créatif
 - IDÉE DE CADEAU DISNEY – Ce jouet de construction créatif LEGO Disney est une idée originale de cadeau danniversaire pour une fille ou un garçon dès 9 ans, ainsi que pour un.e fan adulte de L’étrange Noël de M. Jack
+- DÉCORATION DE CHAMBRE DENFANT DIY – Ce set de construction coloré peut être exposé ouvert ou fermé et décorera superbement une étagère ou un bureau dans une chambre denfant
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants avec des instructions en 3D interactives, leur permettant de sauvegarder les sets, suivre leur progression, et explorer les maquettes en détail
 - SET DE CONSTRUCTION ENCHANTÉ – Les enfants & les fans de L’étrange Noël de M. Jack aimeront recréer des scènes emblématiques du film avec ce kit LEGO ǀ Disney Le pot de fleurs de Sally pour fille ou garçon dès 9 ans
 - FLEURS EN BRIQUES AVEC SECRETS – Pot de fleurs ouvrant avec 2 fleurs artificielles & des salles cachées, ainsi quune mini-poupée de Sally LEGO Disney & une figurine de chat noir
 

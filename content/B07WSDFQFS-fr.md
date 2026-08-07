@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bandes réfléchissantes sur la poche
 - Le système damortissement Castelli (CDS) protège le nerf médian
 - Doublure polaire chaude
+- Bandes réfléchissantes sur la poche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WSDFQFS{{</world>}}

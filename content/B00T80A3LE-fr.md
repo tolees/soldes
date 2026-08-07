@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions du colis de larticle: 54.6 x 39.0 x 15.6 centimeters
+- Poids du colis de larticle: 2.18 kilograms
 - Nombre d’articles: 1
 - Couleur: Rose Bonbon
-- Poids du colis de larticle: 2.18 kilograms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00T80A3LE{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅[TOUTES MORPHOLOGIES]: Le design unique assure une ergonomie accrue pour sadapter à toute morphologie. Disponible en 4 tailles, elle est appréciée par toute la famille: taille 6 (enfant & femme S/M), 7 (femme L-2XL), 8 (homme S à L), 9 (homme > XL)
 - 🛡[Protection certifiée]: La dorsale Full Back Fury D3O Evo offre une protection optimale certifiée conforme à la norme EN1621-2, niveau 2. Il sagit du plus haut niveau de certification en protection. Protégez-vous sans sacrifier votre confort.
-- 🛡[Protection & confort inégalés]: Le D3O est un matériau souple qui absorbe lénergie cinétique à limpact, offrant une dorsale souple, ventillée, ergonomique & performante avec une large zone de protection, pour un confort & une sécurité accrus
 - ✅ [Technologie de pointe]: La gamme de matériaux D3O propose plus de 30 formulations pour une protection, un confort & une flexibilité exceptionnels. Respirante, flexible & légère, vous ne sentirez pas la protection dorsale en roulant.
+- ✅[TOUTES MORPHOLOGIES]: Le design unique assure une ergonomie accrue pour sadapter à toute morphologie. Disponible en 4 tailles, elle est appréciée par toute la famille: taille 6 (enfant & femme S/M), 7 (femme L-2XL), 8 (homme S à L), 9 (homme > XL)
+- 🛡[Protection & confort inégalés]: Le D3O est un matériau souple qui absorbe lénergie cinétique à limpact, offrant une dorsale souple, ventillée, ergonomique & performante avec une large zone de protection, pour un confort & une sécurité accrus
 - ✅[LEGERE & VENTILLEE]: Grâce à la technologie Airwave D3O, la dorsale Furygan facilite lévacuation de la chaleur corporelle. Son matériau D3O assure 1 flexibilité & 1 respirabilité exceptionnelles, pour un confort optimal lors de vos trajets à moto.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

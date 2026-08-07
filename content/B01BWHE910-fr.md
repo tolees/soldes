@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Accessoire image & son
-- Voir ci-dessous pour specs & informations complémentaires
 - CANON
 - Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
+- Voir ci-dessous pour specs & informations complémentaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BWHE910{{</world>}}

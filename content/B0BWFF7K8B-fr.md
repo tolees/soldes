@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Devenez un Baron du Puck - Deux palets, c’est sympa. Plusieurs palets, c’est encore mieux. Faites des expériences avec des palets originaux, ou troquez-les contre ceux de vos amis. Les PopPuck Booster Packs sont vendus séparément.
 - Emmenez-le partout - Accrochez votre PopPuck et détachez le PopPuck grâce à son attache magnétique.
+- Devenez un Baron du Puck - Deux palets, c’est sympa. Plusieurs palets, c’est encore mieux. Faites des expériences avec des palets originaux, ou troquez-les contre ceux de vos amis. Les PopPuck Booster Packs sont vendus séparément.
 - Astuce de pro: Un puck est tombé pendant un trick ? Ramassez-le directement avec le bol.
 - Des centaines de tricks, peut-être même plus... Chaque partie du PopPuck peut être utilisée pour des tricks. Libérez votre créativité !
 - Lavenir du sport du pouce - Maîtrisez le MagFlip et faites de vos pouces des légendes vivantes.

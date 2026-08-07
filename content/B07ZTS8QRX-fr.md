@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 activité pour 1 ou 2 personnes
 - Joyeux Noël
-- Liberté et flexibilité : Smartbox propose des coffrets cadeaux valables 39 mois à compter de la date dachat avec échange gratuit et illimité pendant cette période
 - Que vous cherchiez un coffret cadeau pour l’anniversaire de votre femme, le pot de départ de votre collègue de bureau ou le mariage de vos meilleurs amis, il y aura toujours une box cadeau qui les comblera de bonheur ! En tant que numéro 1 français et européen du cadeau d’expérience, nous avons à cœur de vous offrir des activités toujours plus enrichissantes et inoubliables.
+- 1 activité pour 1 ou 2 personnes
+- Liberté et flexibilité : Smartbox propose des coffrets cadeaux valables 39 mois à compter de la date dachat avec échange gratuit et illimité pendant cette période
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07ZTS8QRX{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matière externe : Cuir
+- Semelle externe : Caoutchouc
 - Matière interne : Cuir
 - Type de fermeture : Scratch
-- Semelle externe : Caoutchouc
-- Matière externe : Cuir
 - Semelle interne : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des ingrédients choisis avec soin et de la cire de première qualité assurent une combustion propre et diffusent un parfum homogène dans toute la pièce
-- Succombez à la tentation dun grand bol de fruits rempli de myrtilles juteuses et de figues fraîchement cueillies
-- Temps de combustion : 110 à 150 heures – Poids : 623 g
 - Mèche 100 % coton sans plomb, redressée et centrée pour garantir une combustion homogène
+- Temps de combustion : 110 à 150 heures – Poids : 623 g
 - Chaque bougie est présentée dans un grand pot en verre classique doté dun couvercle pour préserver le parfum
+- Succombez à la tentation dun grand bol de fruits rempli de myrtilles juteuses et de figues fraîchement cueillies
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XFJWQGW{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sensation de clic incomparable : Les micro-commutateurs ROG offrent une force de clic constante et une durée de vie de 70 millions de clics.
-- Suivi de mouvement précis : 12 000 dpi avec un écart de 1 %, le meilleur de sa catégorie, un capteur optique de 300 ip et une fréquence dinterrogation de 1000 Hz.
-- Ultralégère et ergonomique : La conception de 59 grammes et la forme ergonomique assurent le confort pendant les sessions de jeu marathon intenses.
 - Une latence de clic proche de zéro : Le système mécanique unique de tension des boutons garantit une activation instantanée des boutons sans clics indésirables.
 - Socket de switch Push-fit : Compatible avec les switches mécaniques pour varier la force du clic et prolonger la durée de vie de la souris.
+- Ultralégère et ergonomique : La conception de 59 grammes et la forme ergonomique assurent le confort pendant les sessions de jeu marathon intenses.
+- Suivi de mouvement précis : 12 000 dpi avec un écart de 1 %, le meilleur de sa catégorie, un capteur optique de 300 ip et une fréquence dinterrogation de 1000 Hz.
+- Sensation de clic incomparable : Les micro-commutateurs ROG offrent une force de clic constante et une durée de vie de 70 millions de clics.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRB2KHRT{{</world>}}

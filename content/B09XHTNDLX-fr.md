@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encre fluide et lumineuse, grand confort et douceur d’écriture
-- Ne fuit pas, ne bave pas
 - Séchage très rapide de l’encre, idéal pour gauchers
-- Equipé d’un grip caoutchouc confort et d’un clip métal Assortis aux porte-mines Energize Rechargeable (réf : LR7) Taille de la pointe 0,7 mm Largeur du tracé 0,35 mm
+- Ne fuit pas, ne bave pas
 - Roller encre gel rétractable, pointe moyenne 0,7 mm
+- Encre fluide et lumineuse, grand confort et douceur d’écriture
+- Equipé d’un grip caoutchouc confort et d’un clip métal Assortis aux porte-mines Energize Rechargeable (réf : LR7) Taille de la pointe 0,7 mm Largeur du tracé 0,35 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XHTNDLX{{</world>}}

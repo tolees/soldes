@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Propreté impeccable : le nettoyeur de vitres WV 1 Plus de Kärcher aspire complètement lhumidité des surfaces lisses comme les fenêtres, les miroirs ou les carreaux pour un résultat sans traces
+- Utilisation sans fil : le nettoyeur de vitres dispose dune batterie intégrée qui permet une autonomie de 25 min. Laffichage LED renseigne sur létat de charge de la batterie pendant utilisation
 - Un nettoyage efficace : le pulvérisateur avec microfibres permet de prénettoyer les surfaces sans effort. La surface nettoyée peut ensuite être aspirée avec le nettoyeur de vitres
 - Contenu de la livraison : le kit contient le nettoyeur de vitres WV 1 Plus de Kärcher, un chargeur, un pulvérisateur avec bonnette en microfibres et 20 ml de nettoyant concentré pour vitres
-- Utilisation sans fil : le nettoyeur de vitres dispose dune batterie intégrée qui permet une autonomie de 25 min. Laffichage LED renseigne sur létat de charge de la batterie pendant utilisation
 - Design ergonomique : le nettoyeur de vitres est particulièrement léger et maniable, avec un poids de 0,5 kg seulement. Le réservoir deau sale amovible a une capacité de 100 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions 160 x 200 | Épaisseur 22 cm | Ferme
 - Fabriqué à 100 % en Espagne ; nous sommes en conformité avec la norme 100 by OEKO-TEX qui requiert un système de tests et de vérification de produits textiles bruts, intermédiaires et finaux à tous les stades de la fabrication
 - Rembourrage en visco Innogel ; grâce à la structure des particules de gel, c’est un matériau thermorégulateur et respirant qui empêche la concentration de la chaleur aux principaux points de pression
 - Ajustement parfait à la forme de notre corps grâce au rembourrage viscoélastique sur la face hiver et au tissu en maille 3D qui apporte fraîcheur et respirabilité sur la face été
 - Réversible été/hiver ; le matelas est livré enroulé et emballé sous vide
+- Dimensions 160 x 200 | Épaisseur 22 cm | Ferme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B195TCC8{{</world>}}

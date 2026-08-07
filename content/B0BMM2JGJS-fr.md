@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce style a été produit de manière durable
-- Confortable à porter
 - il assure un ajustement optimal
+- Confortable à porter
+- Ce style a été produit de manière durable
 - CLARKS Courtlite2 Run Grey Nubuck 39,5
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

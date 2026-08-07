@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coquille : 90% Polyester (recyclé), 10% Elasthanne
 - Une veste softshell pour femme conçue comme une couche polyvalente pour toute activité sportive.
 - Articles livrés 1x Helly Hansen Femme Gilet Paramount Softshell,M,Marine
-- Coquille : 90% Polyester (recyclé), 10% Elasthanne
 - Chaude, souple et respirante, cette veste softshell multifonctionnelle est dotée dune doublure en polaire et de propriétés de résistance aux intempéries. Le traitement déperlant ne contient pas de PFC et la veste est fabriquée de manière responsable selon le processus de fabrication textile certifié bluesign, ce qui est bénéfique pour vous et pour lenvironnement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

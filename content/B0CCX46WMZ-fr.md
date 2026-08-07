@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Incluse : figurine exclusive de Bingo portant un casque de pompier !
 - Inclus : Bingo en tenue de pompier, Bluey et Bob Bilby !
-- Le camion de pompier Bluey a deux lances à incendie : une en haut de l’échelle et une, rétractable, sur le côté du véhicule.
 - Le camion de pompier Bluey est doté d’une autre échelle amovible sur le côté pour des aventures encore plus folles !
 - Installe Bingo en haut de la grande échelle avant de la dresser et de la faire tourner !
+- Le camion de pompier Bluey a deux lances à incendie : une en haut de l’échelle et une, rétractable, sur le côté du véhicule.
+- Incluse : figurine exclusive de Bingo portant un casque de pompier !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CCX46WMZ{{</world>}}

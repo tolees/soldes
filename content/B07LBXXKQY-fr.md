@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONNEXION MULTIMÉDIA POLYVALENTE : Conforme à la norme NFC 15-100, la prise RJ45 Cat 6 STP dooxie est idéale pour connecter tous types dappareils multimédias à un réseau : smart TV, décodeur, ordinateur, imprimante, téléphone, console de jeux...
 - FACILITÉ DINSTALLATION : Dotée dun connecteur avec écrou de verrouillage, cette prise permet une installation et un re-câblage aisés sans outil spécifique. À connecter avec un cable RJ45 cuivre 4 paires torsadées de type Grade2 TV ou Grade3 TV.
 - COMPATIBILITÉ ÉTENDUE : Cette prise ethernet est compatible avec les fiches RJ45, mais aussi RJ11 et RJ12, offrant une polyvalence remarquable pour toutes vos connexions multimédia et téléphoniques.
-- CONNEXION MULTIMÉDIA POLYVALENTE : Conforme à la norme NFC 15-100, la prise RJ45 Cat 6 STP dooxie est idéale pour connecter tous types dappareils multimédias à un réseau : smart TV, décodeur, ordinateur, imprimante, téléphone, console de jeux...
 - LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
 - LESPRIT dooxie : La gamme dooxie allie haute qualité et style contemporain. Personnalisables et innovants, les produits dooxie sont à la fois esthétiques, fonctionnels et dotés de technologies avancées pour vous accompagner au quotidien.
 

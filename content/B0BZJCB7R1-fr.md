@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LISIBILITÉ OPTIMALE : Ce téléphone fixe sans fil Alcatel dispose d’un grand écran rétroéclairé à 2 lignes qui affiche le nom et le numéro. Possibilité de régler le volume sur 5 niveaux et sélectionner une sonnerie. 2e combiné facile à installer.
-- STOCKEZ JUSQUÀ 100 CONTACTS : Ce téléphone peut stocker jusquà 100 contacts et garder une trace des 50 derniers appels. Accédez à vos contacts fréquents grâce aux 5 touches d’appel direct et profitez de la fonction VIP pour identifier lappelant avec une sonnerie spécifique.
 - FONCTION MAINS LIBRES AVEC VOLUME RÉGLABLE : Grâce à son haut-parleur avec volume réglable sur 5 niveaux, ce téléphone sans fil vous permet continuer votre conversation tout en ayant les mains libres pour pouvoir vaquer à vos occupations.
+- LISIBILITÉ OPTIMALE : Ce téléphone fixe sans fil Alcatel dispose d’un grand écran rétroéclairé à 2 lignes qui affiche le nom et le numéro. Possibilité de régler le volume sur 5 niveaux et sélectionner une sonnerie. 2e combiné facile à installer.
 - BLOQUEZ LES NUMÉROS INDÉSIRABLES : Le téléphone fixe Alcatel F530 offre une fonction de blocage dappels facile grâce à une touche dédiée, permettant de bloquer jusquà 100 numéros. Un mode automatique permet également de bloquer tous les numéros sauf ceux du répertoire.
+- STOCKEZ JUSQUÀ 100 CONTACTS : Ce téléphone peut stocker jusquà 100 contacts et garder une trace des 50 derniers appels. Accédez à vos contacts fréquents grâce aux 5 touches d’appel direct et profitez de la fonction VIP pour identifier lappelant avec une sonnerie spécifique.
 - LEADER DE LA TÉLÉPHONIE : Marque d’origine française spécialisée dans les télécommunications, Alcatel est l’un des leaders mondiaux dans le domaine de la téléphonie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

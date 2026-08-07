@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige en cuir et matière synthétique
+- Semelle de propreté en textile
 - Jolis détails au niveau de la couture
-- Lacets
+- Design de talon enveloppant
 - Semelle de propreté en textile
 - Chaussant standard
-- Semelle de propreté en textile
-- Design de talon enveloppant
-- Tige en cuir et matière synthétique
+- Lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F1XFJGHG{{</world>}}

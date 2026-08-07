@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
+- Poids : 304 g (pointure 42 2/3).
 - Drop semelle intermédiaire : 10 mm (talon 33 mm / avant-pied 23 mm).
-- Tige en mesh.
 - Chaussant standard.
+- Tige en mesh.
 - Semelle de propreté OrthoLite.
+- Semelle extérieure Adiwear.
 - Doublure textile.
 - Semelle intermédiaire Cloudfoam.
-- Poids : 304 g (pointure 42 2/3).
-- Semelle extérieure Adiwear.
+- Fermeture à lacets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKRZWKXX{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée, Un mode solo disponible
+- Un monde hostile peuplé de créatures terrifiantes pour expérimenter des combats au corps-à-corps le tout dans un univers aux graphismes inspirés de la mythologie nordique
 - Caractéristiques : Exclusivité PS4, Version physique du jeu PS Hits God of War, Disponible en audio et en version sous-titrée français, anglais, allemand et italien
 - Jeu d’action et d’aventure sur PlayStation 4, Vivez les aventures de Kratos aux côtés de son fils Atreus face aux menaces inattendues occupant le royaume de Midgard, Pour les gamers fans de GOW et de jeux daction
 - Contenu de la livraison : 1 x Jeu God of War pour PlayStation 4, Gamme : PS Hits, Jaquette en français, Version physique, Art : 19GODWAP2
-- Un monde hostile peuplé de créatures terrifiantes pour expérimenter des combats au corps-à-corps le tout dans un univers aux graphismes inspirés de la mythologie nordique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Y1SCPHD{{</world>}}

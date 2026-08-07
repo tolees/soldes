@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pédale rechargeable multi-effets
-- 8 simulation dampli classique
 - Chorus, Phaser, Delay, Hall
 - Loading IR via logiciel
+- Pédale rechargeable multi-effets
+- 8 simulation dampli classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09TWTKT4T{{</world>}}

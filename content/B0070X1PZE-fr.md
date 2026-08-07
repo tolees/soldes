@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LADN DE PURESSENTIEL : Une gamme dhuiles essentielles indispensables pour le bien–être au quotidien de toute la famille. HEBBD, 100% pures et 100% naturelles, 100% totales et 100% intégrales.
 - RETROUVEZ TOUTE LEXPERTISE, LES CONSEILS et les recettes de la fondatrice Isabelle Pacchioni dans son dernier livre Aromatherapia Edition 2022
-- CONSEILS D’UTILISATIONS : Prendre au maximum 2 gouttes dhuile essentielle de menthe poivrée 3 fois par jour sur un comprimé neutre Puressentiel (ou 1 cuillère à café de miel, dhuile dolive, ou 1/4 de sucre). Ne pas utiliser lhuile essentielle de menthe poivrée pure sans support, ni mélangée à leau. Pour dautres conseils dutilisation, demandez conseil à votre pharmacien. Équivalence : 1 ml = 31 gouttes. Pour dautres conseils dutilisation, demandez conseil à votre pharmacien.
 - UN LABORATOIRE FAMILIAL ET INDEPENDANT : Né en 2005 de la passion dIsabelle et de Marco Pacchioni pour laromathérapie et les principes actifs naturels, en rendant laromathérapie accessible à tous.
+- LADN DE PURESSENTIEL : Une gamme dhuiles essentielles indispensables pour le bien–être au quotidien de toute la famille. HEBBD, 100% pures et 100% naturelles, 100% totales et 100% intégrales.
 - PROPRIÉTÉS DE LHUILE ESSENTIELLE DE MENTHE POIVRÉE BIO : Reconnue pour ses vertus antivirales, antibactériennes et antalgiques. Traditionnellement utilisée contre les divers troubles digestifs.
+- CONSEILS D’UTILISATIONS : Prendre au maximum 2 gouttes dhuile essentielle de menthe poivrée 3 fois par jour sur un comprimé neutre Puressentiel (ou 1 cuillère à café de miel, dhuile dolive, ou 1/4 de sucre). Ne pas utiliser lhuile essentielle de menthe poivrée pure sans support, ni mélangée à leau. Pour dautres conseils dutilisation, demandez conseil à votre pharmacien. Équivalence : 1 ml = 31 gouttes. Pour dautres conseils dutilisation, demandez conseil à votre pharmacien.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0070X1PZE{{</world>}}

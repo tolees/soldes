@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU, DÉCORATION & BONUS – Cette réplique de la voiture de Batman donne vie à l’action du super-héros ; obtenez la Batmobile dorée dans le jeu vidéo LEGO Batman en scannant le code QR
-- MINIFIGURINE DE BATMAN – Inclut une minifigurine LEGO du super-héros avec une cape en tissu, ainsi qu’une pièce dorée commémorative sous le capot amovible de la Batmobile
-- CADEAU COLLECTOR AVEC BATMOBILE LEGO POUR FANS DE BATMAN – Offrez cette maquette de voiture, pour un anniversaire ou toute autre occasion spéciale, à un garçon ou une fille de 9 ans et plus, fan du super-héros
-- ACCESSOIRES DÉTAILLÉS – Les fans des véhicules de super-héros reconnaîtront cette célèbre Batmobile avec son toit amovible, son cockpit détaillé et ses autocollants reproduisant des motifs emblématiques
 - EXPLOREZ LES AUTRES SETS BATMAN – Inspirez une infinité de jeux créatifs et d’options de décoration avec la vaste gamme de jeux de construction LEGO DC Batman
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- CADEAU COLLECTOR AVEC BATMOBILE LEGO POUR FANS DE BATMAN – Offrez cette maquette de voiture, pour un anniversaire ou toute autre occasion spéciale, à un garçon ou une fille de 9 ans et plus, fan du super-héros
+- JEU, DÉCORATION & BONUS – Cette réplique de la voiture de Batman donne vie à l’action du super-héros ; obtenez la Batmobile dorée dans le jeu vidéo LEGO Batman en scannant le code QR
 - JEU DE CONSTRUCTION AVEC BATMOBILE POUR GARÇON OU FILLE DÈS 9 ANS – Assemblez et exposez La Batmobile de The Batman : une maquette de voiture de collection créée pour célébrer le 20ème anniversaire du jeu vidéo LEGO DC Batman
+- ACCESSOIRES DÉTAILLÉS – Les fans des véhicules de super-héros reconnaîtront cette célèbre Batmobile avec son toit amovible, son cockpit détaillé et ses autocollants reproduisant des motifs emblématiques
+- MINIFIGURINE DE BATMAN – Inclut une minifigurine LEGO du super-héros avec une cape en tissu, ainsi qu’une pièce dorée commémorative sous le capot amovible de la Batmobile
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXG53K5{{</world>}}

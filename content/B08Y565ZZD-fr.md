@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CUILLÈRES EXPRESSO ET MOKA : Ensemble de 6 cuillères expresso et moka de 11.4 cm de la collection JET, dotées d’une finition miroir. Parfaites pour savourer vos cafés, ristrettos et autres pauses gourmandes avec raffinement au quotidien.
 - MODERNE ET ÉLÉGANT : Le Jet est un laguiole de table au design contemporain, souligné par un poinçon dabeille moderne et stylisé. Le Jet se décline ici dans une version raffinée en inox brillant qui en fait le Laguiole de table le plus stylé de sa génération.
+- LA TRADITION AU GOÛT DU JOUR : Lou Laguiole allie la force de la Tradition et lélégance de la Modernité. Notre gamme de couteaux Laguiole est la garantie dune signature raffinée pour des tables authentiques au quotidien.
 - FINITION MIROIR ET ENTRETIEN FACILE : Une finition éclatante qui met en valeur les cuillères expresso et moka et facilite le nettoyage au quotidien. Compatible avec le lave-vaisselle.
 - ACIER INOXYDABLE DE QUALITÉ : Fabriqués avec le plus grand soin en acier inoxydable 18/0 et avec une épaisseur de 2 mm ces cuillères expresso et moka garantissent une utilisation longue durée.
-- LA TRADITION AU GOÛT DU JOUR : Lou Laguiole allie la force de la Tradition et lélégance de la Modernité. Notre gamme de couteaux Laguiole est la garantie dune signature raffinée pour des tables authentiques au quotidien.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Y565ZZD{{</world>}}

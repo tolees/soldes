@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brennenstuhl Multi Battery Projecteur de chantier LED 6050 MA rechargeable avec mât télescopique 7700lm IP54 extensible jusqu à 140cm compatible avec batterie 18V non fournie de 9 fabricants'
-date: 2026-08-05 06:59:11
+date: 2026-08-06 16:01:49
 image: 'https://m.media-amazon.com/images/I/31mztUAcUcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brennnenstuhl est membre de l’AMPShare powered by Bosch Professional: l’alliance batteries AMPShare permet d’utiliser des projecteurs de chantier Brennenstuhl avec des batteries 18V Bosch Professional
-- Lampe de chantier LED avec mât extensible et 2 pieds rétractables réglables jusquà 140cm en hauteur, projecteur inclinable et pivotant pour un éclairage parfait de la surface (hauteur max. 183cm)
-- Projecteur LED compatible avec les fabricants de batterie Powertool 18V, diverses capacités en Ah : Bosch Professional, Dewalt, Fein, Festool, Flex, Hikoki, Makita, Metabo CAS, Milwaukee
 - Spot de chantier avec trépied télescopique intégré, entièrement repliable - montage rapide, en un tour de main - éclairage LED polyvalent, utilisable dans de nombreux domaines (chantier, hall)
+- Lampe de chantier LED avec mât extensible et 2 pieds rétractables réglables jusquà 140cm en hauteur, projecteur inclinable et pivotant pour un éclairage parfait de la surface (hauteur max. 183cm)
+- Brennnenstuhl est membre de l’AMPShare powered by Bosch Professional: l’alliance batteries AMPShare permet d’utiliser des projecteurs de chantier Brennenstuhl avec des batteries 18V Bosch Professional
+- Projecteur LED compatible avec les fabricants de batterie Powertool 18V, diverses capacités en Ah : Bosch Professional, Dewalt, Fein, Festool, Flex, Hikoki, Makita, Metabo CAS, Milwaukee
 - Phare de chantier LED Multi Battery avec capot de protection amovible et 4 adaptateurs pour les standards de batterie (adaptateur en commun pour Milwaukee/Dewalt) pour outillage électrique Powertool
 
 [🛒 Achète-le!!]({{< param buyurl >}})

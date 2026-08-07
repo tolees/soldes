@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Comprend 3 tourne plats et 3 tourne cruciformes
+- Idéal pour le travail dans des espaces restreints et confinés
 - Taille super compacte : seulement 38 mm de hauteur globale
 - Parfait pour la ou lentretien des appareils électroniques, machines à coudre et its appareils
-- Idéal pour le travail dans des espaces restreints et confinés
-- Comprend 3 tourne plats et 3 tourne cruciformes
 - Lencoche dans lextrémité de la permet une pression constante des doigts lors du tournage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

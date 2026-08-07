@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design léger
 - Semelle extérieure flexible
+- Design léger
 - Semelle intermédiaire absorbant les chocs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de fermeture:À enfiler
 - Composition de matériau:98% Coton, 2% Élasthannene
 - Instructions dentretien:Lavage en machine
+- Type de fermeture:À enfiler
 - Type dajustement:Coupe régulière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau : résine de pierre durable de haute qualité
 - Sculpté et peint à la main avec les détails fins du style Renaissance classique.
+- Matériau : résine de pierre durable de haute qualité
 - Dimensions de larticle : 9,9 x 13,5 x 37,5 cm. Poids de larticle : 0,9 kg.
 - Cadeau religieux parfait.
 

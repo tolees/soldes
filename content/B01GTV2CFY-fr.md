@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CERTIFICATION : FSC - Fabrication française
 - FORMAT : 320 x 260 mm - Format à classer : A4, adapté au classement des feuilles, pochettes perforées et intercalaires
-- MÉCANIQUE : 4 anneaux ronds diamètre 30 mm - Dos 40 mm
-- CAPACITÉ DE CLASSEMENT : entre 200 et 250 feuilles papier 80g
 - Lot de 10 classeurs - 10 couleurs assorties : bleu clair, bleu foncé, jaune, noir, orange, rose, rouge, vert anis, vert foncé, violet
+- CAPACITÉ DE CLASSEMENT : entre 200 et 250 feuilles papier 80g
+- CERTIFICATION : FSC - Fabrication française
 - IDERAMA - Extérieur rigide rembordé en carton recouvert de papier pelliculé - Epaisseur 18,10ème - Garde couleur à lintérieur du classeur
+- MÉCANIQUE : 4 anneaux ronds diamètre 30 mm - Dos 40 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01GTV2CFY{{</world>}}

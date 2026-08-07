@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis de larticle : 1.157 kg
 - Année modèle : 2011
 - Dimensions des colis darticles : 7.112 x 7.62 x 119.38 cm
-- Poids du colis de larticle : 1.157 kg
 - Fabriqué en Italie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

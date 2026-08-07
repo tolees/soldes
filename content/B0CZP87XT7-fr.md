@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pan arrière légèrement plus court.
-- Contient au moins 70 % de matériaux recyclés et renouvelables.
 - Capuche réglable par cordon de serrage.
-- Poche kangourou.
+- Contient au moins 70 % de matériaux recyclés et renouvelables.
 - Coupe standard.
+- 70 % coton, 30 % polyester (recyclé).
 - Emmanchures tombantes.
 - Bords-côtes aux poignets et à la base.
-- 70 % coton, 30 % polyester (recyclé).
+- Poche kangourou.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZP87XT7{{</world>}}

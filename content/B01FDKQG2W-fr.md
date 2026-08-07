@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Épaisseur de la mine 3,6
-- Dureté OH
 - Tige en bois
+- Dureté OH
 - protégé contre la casse grâce à un collage spécial
+- Épaisseur de la mine 3,6
 - Forme hexagonale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

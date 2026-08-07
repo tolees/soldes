@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : Synthétique
-- Matériau extérieur : Synthétique
-- Matériau de la semelle : Caoutchouc
 - Fermeture : À enfiler
+- Matériau extérieur : Synthétique
+- Matériau intérieur : Synthétique
 - Type de Talon : Plat
+- Matériau de la semelle : Caoutchouc
 - Matériau unique : Caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

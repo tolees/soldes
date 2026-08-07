@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Touches PBT robustes : Les robustes touches PBT aux teintes sublimées résistent à la décoloration, à l’usure et à l’effet de brillance pour que votre clavier conserve tout son éclat après des années d’utilisation quotidienne.
 - Switchs de touche CORSAIR MLX Red : Les switchs mécaniques linéaires CORSAIR MLX Red prélubrifiés offrent une frappe douce et réactive lorsque vous jouez ou travaillez.
 - Batterie sans fil endurante, offrant 266 h d’autonomie : Jouez jusqu’à 266 heures avec une seule charge en désactivant le mode RGB.
-- Molette multifonctions et raccourcis FN : Contrôlez facilement vos contenus multimédias et applications grâce à une molette rotative multifonctions polyvalente, à des combinaisons de touches FN et à des commandes de raccourci.
 - Connexions sans fil rapides et sécurisées : Profitez d’une connectivité simplifiée grâce aux modes sans fil 2,4 GHz à faible latence, Bluetooth ou filaire USB, et d’un chiffrement AES sécurisé.
+- Molette multifonctions et raccourcis FN : Contrôlez facilement vos contenus multimédias et applications grâce à une molette rotative multifonctions polyvalente, à des combinaisons de touches FN et à des commandes de raccourci.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTCX3XBQ{{</world>}}

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Accessoire image & son
-- produit 1: PERFORMANCES – Réalisez des photos nettes et détaillées Capteur 325 mégapixels Stabilisateur jusqu’à 8 vitesses Sensibilité ISO jusqu’à 32000 pour des photos en basse lumière
-- produit 2: Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
-- produit 1: MISE AU POINT INTELLIGENTE – Grâce à l’autofocus instantané CMOS Dual Pixel II basé sur le Deep Learning figez tous les sujets en mouvement : personnes véhicules oiseaux en vol
-- produit 2: CANON
-- produit 1: AU CŒUR DU SUJET – Plongez au cœur de l’action grâce au capteur APS-C et réalisez des photos incroyables de faune ou de sport en gros plan
-- produit 2: Voir ci-dessous pour specs & informations complémentaires
 - produit 1: PRISE DE VUE EN CONTINU – Profitez d’une prise de vue en continu jusqu’à 15 im/s en obturation mécanique ou 30 im/s avec l’obturateur électronique silencieux
+- produit 1: AU CŒUR DU SUJET – Plongez au cœur de l’action grâce au capteur APS-C et réalisez des photos incroyables de faune ou de sport en gros plan
+- produit 1: MISE AU POINT INTELLIGENTE – Grâce à l’autofocus instantané CMOS Dual Pixel II basé sur le Deep Learning figez tous les sujets en mouvement : personnes véhicules oiseaux en vol
+- produit 1: PERFORMANCES – Réalisez des photos nettes et détaillées Capteur 325 mégapixels Stabilisateur jusqu’à 8 vitesses Sensibilité ISO jusqu’à 32000 pour des photos en basse lumière
+- produit 2: Voir ci-dessous pour specs & informations complémentaires
+- produit 2: Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
+- produit 2: CANON
+- produit 2: Accessoire image & son
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D2BBR959{{</world>}}

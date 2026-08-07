@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 MODES DE JEU : Le Fantasticar a 2 modes de jeu pour que les filles et les garçons puissent limaginer rouler sur les routes en mode route ou replier ses roues et faire semblant de prendre son envol en mode vol
-- COFFRET MARVEL : Tout est prêt pour prendre la route vers des aventures cosmiques avec ce coffret Les Quatre Fantastiques Fantasticar Route et Vol qui inclut une voiture 2-en-1 et une figurine de super-héros La Chose de 10 cm
-- FIGURINE ARTICULÉE : La figurine La Chose incluse a 9 points darticulation pour que les enfants, à partir de 4 ans, puissent lui faire prendre toutes sortes de poses en jouant ou en lexposant
 - FONCTION COMPAGNON DE VOL : Pour samuser encore plus en vol, on peut fixer la figurine de la Torche Humaine au support du véhicule et limaginer senflammer aux côtés de ses coéquipiers (vendu séparément, dans la limite des stocks)
 - LA VOITURE PEUT ACCUEILLIR 3 FIGURINES : Le Fantasticar des Quatre Fantastiques peut accueillir 3 figurines Epic World of Action, comme La Chose (incluse), M. Fantastique et la Femme invisible (vendues séparément, dans la limite des stocks)
+- COFFRET MARVEL : Tout est prêt pour prendre la route vers des aventures cosmiques avec ce coffret Les Quatre Fantastiques Fantasticar Route et Vol qui inclut une voiture 2-en-1 et une figurine de super-héros La Chose de 10 cm
+- 2 MODES DE JEU : Le Fantasticar a 2 modes de jeu pour que les filles et les garçons puissent limaginer rouler sur les routes en mode route ou replier ses roues et faire semblant de prendre son envol en mode vol
+- FIGURINE ARTICULÉE : La figurine La Chose incluse a 9 points darticulation pour que les enfants, à partir de 4 ans, puissent lui faire prendre toutes sortes de poses en jouant ou en lexposant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQ9GMTGK{{</world>}}

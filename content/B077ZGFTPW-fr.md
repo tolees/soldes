@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Melitta Barista TS intelligent F 850-101 argent
 - Argent
+- Melitta Barista TS intelligent F 850-101 argent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077ZGFTPW{{</world>}}

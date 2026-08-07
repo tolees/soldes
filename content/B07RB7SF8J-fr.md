@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Galons au col et aux poignets, galons aux emmanchures, poche de sécurité intérieure
 - Veste matelassée pour homme avec réflexion thermique, idéal pour conserver la chaleur lors des froids mois dhiver
-- Ajustement optimal grce à lourlet réglable
 - Contenu : 1 x columbia powder lite veste sans manches pour homme, extérieur : Storm-lite dp ii 100 percentage polyester, doublure : Omni-heat réfléchissant 100 percentage polyester, insolation : Thermarator 100 percentage polyester, couleur : Collegiate navy, taille : M, art.no 1748031
+- Ajustement optimal grce à lourlet réglable
 - Technologie omni-heat réfléchissante qui offre une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

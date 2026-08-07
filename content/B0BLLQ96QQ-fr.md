@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 🎂 Age 12+
-- 🧑🏼‍🤝‍🧑🏾 Nombre de joueurs 1-4
 - Jeu en français
+- 🧑🏼‍🤝‍🧑🏾 Nombre de joueurs 1-4
 - ⏳ Temps de partie 15-30
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

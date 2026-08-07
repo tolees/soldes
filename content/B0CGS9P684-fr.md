@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des sessions de jeu confortables grâce aux oreillettes en mousse à mémoire de forme de PRO X 2 LIGHTSPEED et une utilisation de PRO X Superlight 2 en toute fluidité grâce aux patins PTFE sans additif
 - Passez au niveau supérieur avec la souris PRO X Superlight 2, lévolution dune icône et le casque PRO X 2 LIGHTSPEED pour un audio dune clarté incomparable, conçus avec des pros de l’esport
+- Des sessions de jeu confortables grâce aux oreillettes en mousse à mémoire de forme de PRO X 2 LIGHTSPEED et une utilisation de PRO X Superlight 2 en toute fluidité grâce aux patins PTFE sans additif
 - Profitez dune précision pro grâce aux switchs LIGHTFORCE de la souris et dun audio immersif obtenu grâce aux transducteurs graphène de 50 mm sur le casque pour vous assurer la victoire à chaque jeu
 - Profitez de longues sessions de jeu grâce à une autonomie de 95h et à la recharge USB-C pour PRO X Superlight 2 - PRO X 2 LIGHTSPEED dispose dune autonomie de 50h et dune portée sans fil de 30m
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : Cuir-Synthétique/PU
-- Fermeture : A Enfiler
-- Largeur de la chaussure : Moyen
 - Matériau de semelle : Caoutchouc
 - Doublure : Synthétique
+- Fermeture : A Enfiler
+- Dessus : Cuir-Synthétique/PU
+- Largeur de la chaussure : Moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0821ZR7QY{{</world>}}

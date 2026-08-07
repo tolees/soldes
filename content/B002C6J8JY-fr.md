@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Les bras facilitent un retrait facile des papiers
 - Pinces fortes en acier pour garder ensemble les documents
-- A une garantie de 2 ans
 - Bras nickelés pour une bonne durabilité
+- A une garantie de 2 ans
 - Capacité - 100 feuilles de papier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

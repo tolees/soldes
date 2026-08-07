@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionne avec l’application Maison intelligente Razer pour un contrôle unifié.Ajustez les paramètres et créez des scénarios automatisés avec un outil à la fois simple et puissant, qui rassemble tous vos appareils domotiques dans un seul écosystème intégré.
-- Disponible en taille E26/E27 pour s’adapter à votre lampe. L’ampoule intelligente Razer Aether existe en deux tailles standard, ce qui la rend compatible avec un large éventail de lampes.
 - Alimentée par Razer Chroma RGB pour une meilleure ambiance et une immersion incomparable. Avec 16,8 millions de couleurs et de nombreux effets d’éclairage, trouvez celui qui convient le mieux à votre ambiance préférée ou créez un environnement immersif qui réagit à votre atmosphère.
 - Compatible avec Matter pour une intégration fluide dans tous les écosystèmes domestiques intelligents. Optimisés par la nouvelle norme universelle de connectivité domestique intelligente, les appareils domestiques intelligents de Razer sont conçus pour fonctionner avec tous les autres appareils domestiques intelligents et contrôleurs pris en charge par Matter.
+- Fonctionne avec l’application Maison intelligente Razer pour un contrôle unifié.Ajustez les paramètres et créez des scénarios automatisés avec un outil à la fois simple et puissant, qui rassemble tous vos appareils domotiques dans un seul écosystème intégré.
+- Disponible en taille E26/E27 pour s’adapter à votre lampe. L’ampoule intelligente Razer Aether existe en deux tailles standard, ce qui la rend compatible avec un large éventail de lampes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJC9ZSZ5{{</world>}}

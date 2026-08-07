@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITÉ DIMAGE EXCEPTIONNELLE : Capteur type micro 4/3 25,2MP anti-reflet, sans filtre passe-bas pour des images et des couleurs fidèles et Double Stabilisation jusqu’à 7.5 stops avec Active I.S. en vidéo pour des images réussies à main levée.
-- FONCTIONS VIDÉO PROFESSIONNELLES : 5,8K 30p en Open Gate & 5,7K 60p en 4:2:0 10bit INTERNE. ProRes RAW INTERNE ILLIMITÉ. Slow Motion 4K 120p 10bit & FHD 300ips. Mode Anamorphique stabilisé. V-Log 13+ stops et LogC3 ARRI. Fichiers Proxy pour Frame.io.
-- Boîtier Nu
-- ERGONOMIE OPTIMISÉE: Grand viseur OLED 3680K pts et écran LCD tactile inclinable + orientable 1840Kpts. Tally lights (lampes témoins) + deux boutons d’enregistrement vidéo avant et arrière. Boîtier tropicalisé. Deux slots SD UHS-II V90 et CFExpress.
 - PERFORMANCES DE HAUT NIVEAU : Audio 32bit flottant avec module XLR2 optionnel. Autofocus hybride phase et contraste à 779 pts. Haute Résolution 100MP à main levée. Rafale élec. ultra rapide à 75 ips AFS et 60 ips en AFC pour ne manquer aucun moment.
+- QUALITÉ DIMAGE EXCEPTIONNELLE : Capteur type micro 4/3 25,2MP anti-reflet, sans filtre passe-bas pour des images et des couleurs fidèles et Double Stabilisation jusqu’à 7.5 stops avec Active I.S. en vidéo pour des images réussies à main levée.
+- Boîtier Nu
+- FONCTIONS VIDÉO PROFESSIONNELLES : 5,8K 30p en Open Gate & 5,7K 60p en 4:2:0 10bit INTERNE. ProRes RAW INTERNE ILLIMITÉ. Slow Motion 4K 120p 10bit & FHD 300ips. Mode Anamorphique stabilisé. V-Log 13+ stops et LogC3 ARRI. Fichiers Proxy pour Frame.io.
+- ERGONOMIE OPTIMISÉE: Grand viseur OLED 3680K pts et écran LCD tactile inclinable + orientable 1840Kpts. Tally lights (lampes témoins) + deux boutons d’enregistrement vidéo avant et arrière. Boîtier tropicalisé. Deux slots SD UHS-II V90 et CFExpress.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6RTT1X1{{</world>}}

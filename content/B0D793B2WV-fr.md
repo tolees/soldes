@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspiration de 16 000 Pa, brosse à 520 tr/min: Le H12 Pro Ultra bénéficie dune aspiration de 16 000 Pa pour éliminer les saletés humides et sèches; Entraîné par un moteur à plus de 104 000 tr/min, ce puissant aspirateur fonctionne à 520 tr/min, pour un lavage plus rapide et moins de traces
 - Comprend une bouteille de 500 ml de solution nettoyante AWH10
-- Nettoyage automatique à double rotation avec racleur résilient: La brosse démêle et reste propre en tournant dans le sens horaire et dans le sens inverse, comme lors dun lavage à la main; Avec son racleur résilient à dents de peigne, la brosse extrait facilement les poils emmêlés
 - Trois modes de fonctionnement pour un nettoyage polyvalent: Personnalisez vos besoins de nettoyage avec un mode Auto pour un nettoyage de base, un mode Ultra pour un nettoyage en profondeur et un mode Aspiration qui aspire les liquides pour un nettoyage optimal
 - Nettoyage des deux bords optimisé: La brosse nettoie en profondeur le long des plinthes et dans les coins, ce qui facilite plus que jamais lentretien des zones difficiles daccès
 - Version améliorée du H12 Pro
 - Lavage de la brosse haute température à 60 °C et séchage à lair chaud: Une brosse plus avancée avec nettoyage et stérilisation automatiques avec de leau chaude à 60 °C, suivis dun séchage à lair chaud, pour éliminer les taches dhuile et les mauvaises odeurs sans avoir à frotter manuellement
+- Nettoyage automatique à double rotation avec racleur résilient: La brosse démêle et reste propre en tournant dans le sens horaire et dans le sens inverse, comme lors dun lavage à la main; Avec son racleur résilient à dents de peigne, la brosse extrait facilement les poils emmêlés
+- Aspiration de 16 000 Pa, brosse à 520 tr/min: Le H12 Pro Ultra bénéficie dune aspiration de 16 000 Pa pour éliminer les saletés humides et sèches; Entraîné par un moteur à plus de 104 000 tr/min, ce puissant aspirateur fonctionne à 520 tr/min, pour un lavage plus rapide et moins de traces
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D793B2WV{{</world>}}

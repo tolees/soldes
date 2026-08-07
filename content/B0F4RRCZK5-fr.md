@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tommy hilfiger Logo sur le côté et la languette
 - Tommy hilfiger Drapeau brodé sur le talon
 - Tommy hilfiger Logo gravé sur la semelle intermédiaire
-- Tommy hilfiger Logo sur le côté et la languette
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4RRCZK5{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temps de réponse 5ms
-- Contraste 1000:1
-- Ecran 24" FHD
 - Dalle IPS 75 Hz
+- Ecran 24" FHD
+- Contraste 1000:1
+- Temps de réponse 5ms
 - 1 x HDMI (1.4) - 1 x VGA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

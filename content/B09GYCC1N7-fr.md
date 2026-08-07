@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - [Plus de lumière gênante] le socle de recharge sans fil est doté, pour la première fois, dun indicateur adaptatif intelligent qui ajuste automatiquement sa lumière en fonction des conditions ambiantes. Ainsi, vous restez à laffût sans quune lumière gênante ne perturbe votre sommeil.
 - [Contenu du coffret] 1 x support de chargeur sans fil INIU, 1 x câble USB-C, 1 x manuel d’utilisation, une garantie de remboursement de 30 jours, une garantie de 3 ans, la meilleure du secteur, et une assistance technique à vie.
-- [Rechargez à votre guise] grâce à la double bobine supraconductrice, vous pouvez regarder des vidéos en mode paysage ou vous tenir en mode portrait pour des appels FaceTime et la reconnaissance faciale, le tout sans jamais avoir à débrancher lappareil.
-- [Temp°Guard exclusif de NTC] En éliminant le traditionnel ventilateur bruyant, INIU contrôle la température en temps réel de manière intelligente et silencieuse grâce au NTC Temp°Guard, qui protège la batterie de votre téléphone contre la surchauffe et les dommages.
 - [Charge rapide de 15 W] outre la charge rapide moyenne de 10 W, lappareil est également pourvu dune nouvelle fonction de charge rapide de 15 W, qui vous permet de gagner au moins 45 minutes sur votre temps dattente.
+- [Temp°Guard exclusif de NTC] En éliminant le traditionnel ventilateur bruyant, INIU contrôle la température en temps réel de manière intelligente et silencieuse grâce au NTC Temp°Guard, qui protège la batterie de votre téléphone contre la surchauffe et les dommages.
+- [Rechargez à votre guise] grâce à la double bobine supraconductrice, vous pouvez regarder des vidéos en mode paysage ou vous tenir en mode portrait pour des appels FaceTime et la reconnaissance faciale, le tout sans jamais avoir à débrancher lappareil.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GYCC1N7{{</world>}}

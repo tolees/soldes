@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tous les produits Geomag sont fabriqués en Suisse, et sont reconnus pour leurs matériaux de haute qualité et suivent les normes de sécurité européennes et internationales les plus strictes (Certifications ASTM et EN-71 pour la sécurité des jouets).
 - Emportez-le avec vous où que vous alliez : La collection verte Geomag inclut une boîte pratique (également en plastique recyclé à 100 %) qui vous permet de transporter votre coffret magnétique Geomag avec vous et de le garder rangé à la maison.
-- Pas de limites à votre imagination avec les géo-aimants : Les éléments de cet ensemble sont compatibles avec toutes les collections Geomag Classic et Panels, ce sont les jouets magnétiques parfaits pour les enfants.
 - Le coffret magnétique contient 44 boules métalliques non magnétiques, 44 tiges magnétiques jaunes, rouges, fuchsia et oranges, 2 panneaux de base carrés jaunes, des panneaux de base pentagonaux oranges, compatibles avec Geomag Classic et Panels.
+- Pas de limites à votre imagination avec les géo-aimants : Les éléments de cet ensemble sont compatibles avec toutes les collections Geomag Classic et Panels, ce sont les jouets magnétiques parfaits pour les enfants.
 - Geomag est un jeu éducatif de la catégorie STEM avec une approche interdisciplinaire de lapprentissage. Les jeux Geomag encouragent le développement de la coordination œil-main ainsi que le renforcement de la vision et de la concentration.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

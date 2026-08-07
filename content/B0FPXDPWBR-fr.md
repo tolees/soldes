@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami ou membre de la famille peut samuser, depuis son propre appareil, à construire une partie du set
 - JEU DE RÔLE CRÉATIF – Imaginez des scénarios sur la vie quotidienne et des missions dans le club-house qui comprend un mur descalade, un toboggan, une tyrolienne, une cuisine et un espace pour animaux
+- CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami ou membre de la famille peut samuser, depuis son propre appareil, à construire une partie du set
+- 5 MINI-POUPÉES & 3 FIGURINES DANIMAUX – Inclut les mini-poupées dAutumn, Nova, Aliya, Léo & Liann, ainsi que Churro le chat, Honey le lapin et Popcorn le gecko
 - IDÉE DE CADEAU DANNIVERSAIRE – Ce set de construction est un superbe cadeau pour une fille ou un garçon dès 8 ans qui aime le jeu créatif en famille ou entre ami.e.s
-- JEU CLUB-HOUSE POUR FILLE OU GARÇON DÈS 8 ANS – Les enfants créent des histoires et explorent des activités amusantes avec le set de construction Le club-house de Heartlake City LEGO Friends
 - SÉRIE EN LIGNE – Découvrez encore plus d’idées de jeux créatifs avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, où les enfants font connaissance avec les personnages de Heartlake City
 - ACCESSOIRES DE MAISON DE POUPÉES – Gamelles pour animaux, écran de jeu & manettes, frigo, machine à pop-corn, donuts, fraises, gaufres, ordinateur secret, chevalet, toilettes, drone et plus encore
-- 5 MINI-POUPÉES & 3 FIGURINES DANIMAUX – Inclut les mini-poupées dAutumn, Nova, Aliya, Léo & Liann, ainsi que Churro le chat, Honey le lapin et Popcorn le gecko
+- JEU CLUB-HOUSE POUR FILLE OU GARÇON DÈS 8 ANS – Les enfants créent des histoires et explorent des activités amusantes avec le set de construction Le club-house de Heartlake City LEGO Friends
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPWBR{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe : coupe regular, classique et confortable
-- Poches : poche latérale zippée dissimulée
 - Capuche : capuche 3 pans fixe
 - Doublure : doublure en taffetas
+- Poches : poche latérale zippée dissimulée
 - Matière recyclée : polyester recyclé 70 gm²
+- Coupe : coupe regular, classique et confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0949SHG7Q{{</world>}}

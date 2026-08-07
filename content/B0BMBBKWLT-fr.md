@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passez moins de temps à transférer et sauvegarder des données grâce à des vitesses de lecture allant jusquà 300 Mo/s via linterface UHS-II."
-- Avec une vitesse décriture allant jusquà 299 Mo/s, les cartes TOUGH specification de la série SF-G sont optimisées pour la prise de vue en continu
 - Les cartes de la série SF-G à spécification TOUGH sont 18 fois plus résistantes à la flexion que les cartes SD classiques
 - Avec le temps, la mémoire des cartes SD suse et la carte cesse denregistrer des données de manière fiable.
+- Passez moins de temps à transférer et sauvegarder des données grâce à des vitesses de lecture allant jusquà 300 Mo/s via linterface UHS-II."
+- Avec une vitesse décriture allant jusquà 299 Mo/s, les cartes TOUGH specification de la série SF-G sont optimisées pour la prise de vue en continu
 - Les cartes mémoire Sony qui récupère les fichiers supprimés accidentellement et les photos et vidéos corrompues dans divers formats courants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

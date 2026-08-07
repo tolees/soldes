@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Manipulation aisée dune seule main pour un travail sans effort lors des travaux en hauteur et sur surfaces courbes
+- Livré avec : PEX 220 A, 1 feuille abrasive K 80 Ø 125 mm, boîtier microfiltre
 - Raccord pour l’aspiration des poussières
 - Système auto-agrippant pour le remplacement rapide et aisé des disques de ponçage
-- Manipulation aisée dune seule main pour un travail sans effort lors des travaux en hauteur et sur surfaces courbes
 - Diamètre du plateau de ponçage 125 mm
-- Livré avec : PEX 220 A, 1 feuille abrasive K 80 Ø 125 mm, boîtier microfiltre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0007VHJD8{{</world>}}

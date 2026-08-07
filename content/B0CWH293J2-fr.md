@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Armure robot X-wing LEGO à construire – Le robot jouet possède des mains, des bras, des jambes et des pieds mobiles, un cockpit ouvrant pour minifigurine et un jetpack X-wing réglable, ainsi qu’un grand sabre laser et un blaster lance-tenons
+- Jeux de construction créative pour tous les âges – Les sets LEGO Star Wars à collectionner permettent aux enfants et aux adultes fans de Star Wars d’imaginer leurs propres histoires, d’exposer leurs modèles et de profiter dun moment en famille
+- Minifigurine LEGO de Luke Skywalker – La minifigurine LEGO de ce personnage culte de Star Wars s’accompagne d’un sabre laser et d’un pistolet blaster pour garantir aux enfants de 6 ans et plus, un jeu plein de fantaisie
 - Robot de Luke Skywalker LEGO Star Wars rapide à construire – Initiez les enfants à l’univers LEGO Star Wars avec Le robot X-Wing de Luke Skywalker facile à construire, idéal pour le jeu de rôle entre amis ou comme décoration pour une chambre
 - Robot LEGO Star Wars à collectionner – Ce robot jouet à construire fait partie d’une collection de robots LEGO Star Wars (vendus séparément), pour les enfants garçons et filles qui aiment collectionner les jouets de la gamme Star Wars
-- Minifigurine LEGO de Luke Skywalker – La minifigurine LEGO de ce personnage culte de Star Wars s’accompagne d’un sabre laser et d’un pistolet blaster pour garantir aux enfants de 6 ans et plus, un jeu plein de fantaisie
-- Jeux de construction créative pour tous les âges – Les sets LEGO Star Wars à collectionner permettent aux enfants et aux adultes fans de Star Wars d’imaginer leurs propres histoires, d’exposer leurs modèles et de profiter dun moment en famille
-- Armure robot X-wing LEGO à construire – Le robot jouet possède des mains, des bras, des jambes et des pieds mobiles, un cockpit ouvrant pour minifigurine et un jetpack X-wing réglable, ainsi qu’un grand sabre laser et un blaster lance-tenons
 - Instructions intuitives – L’application LEGO Builder propose des outils qui permettent aux enfants de zoomer et de faire pivoter une version 3D numérique de ce modèle pendant la construction
 - Cadeau LEGO Star Wars pour les enfants de 6 ans et plus – Ce robot jouet en briques LEGO est un cadeau amusant à offrir aux filles et aux garçons créatifs ainsi qu’aux jeunes fans de Star Wars qui aiment partir à laventure
 

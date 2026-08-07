@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Circonférence intérieure : 19 cm
-- Fermoir : Aimanté
 - Matériel: Silicone vert avec fermoire en acier inoxydable
+- Circonférence intérieure : 19 cm
 - Bracelet en silicone pour homme de Lacoste
+- Fermoir : Aimanté
 - Embelli avec motif petit piqué qui sinspire à la polo au crocodile Lacoste
 
 [🛒 Achète-le!!]({{< param buyurl >}})

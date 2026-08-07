@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir de 150 g de café avec moulin conique intégré avec 5 niveaux de mouture. Réservoir deau amovible de 1,1 L et vaporisateur de lait. Nettoyage automatique pour la garder toujours à point.
-- Pompe à pression de 19 bars pour obtenir la meilleure crème et le maximum darôme dans chaque café.
 - Sadapte à tous les goûts, vous pouvez facilement personnaliser et mémoriser la quantité et lintensité du café.
+- Pompe à pression de 19 bars pour obtenir la meilleure crème et le maximum darôme dans chaque café.
+- Réservoir de 150 g de café avec moulin conique intégré avec 5 niveaux de mouture. Réservoir deau amovible de 1,1 L et vaporisateur de lait. Nettoyage automatique pour la garder toujours à point.
 - La machine à café super automatique compacte prépare des expressos et des cafés américains en grains fraîchement moulus en appuyant sur un bouton grâce au système Plug&Play.
 - Système de chauffage rapide par Thermoblock qui garantit un café parfait en quelques secondes. Comprend un vaporisateur pour faire mousser le lait.
 

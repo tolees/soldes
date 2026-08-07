@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille mi-haute avec la bonne coupe loose
 - Pour une coupe plus ajustée, prenez une taille en dessous, et pour une coupe moins loose, essayez le 501 Original
+- Taille mi-haute avec la bonne coupe loose
 - LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 
 [🛒 Achète-le!!]({{< param buyurl >}})

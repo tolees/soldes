@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- KAMERA IM TASCHENFORMAT - Die kleine Vlog-Kamera ist leicht und kompakt genug, um in deine Hosentasche oder eine kleine Tasche zu passen. Perfekt um überall und jederzeit livestreamen zu können.
-- MÜHELOSE LIVESTREAMS - Ohne Kabel und unterwegs über das Netz deines Mobilgeräts: Mit der Canon Camera Connect App, streamst du live auf YouTube und Co.
 - LIEFERUMFANG - PowerShot V10 schwarz, Kameratasche, Objektivdeckel, Windschutz, IFC-100U Schnittstellenkabel 2.0 (USB-C), Handschlaufe WS-800
 - LEISTUNGSSTARKE BILD- UND TONQUALITÄT - Beeindrucke deine Abonnenten mit verwacklungsfreien Aufnahmen in 4K UHD. Mit dem leistungsstarken Mikrofon und einem Windfilter fängst du die Atmosphäre und jedes Wort klar und deutlich ein.
+- KAMERA IM TASCHENFORMAT - Die kleine Vlog-Kamera ist leicht und kompakt genug, um in deine Hosentasche oder eine kleine Tasche zu passen. Perfekt um überall und jederzeit livestreamen zu können.
+- MÜHELOSE LIVESTREAMS - Ohne Kabel und unterwegs über das Netz deines Mobilgeräts: Mit der Canon Camera Connect App, streamst du live auf YouTube und Co.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C4XSM4YM{{</world>}}

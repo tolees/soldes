@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TEMPÉRATURE DE COULEUR OPTIMALE : Température de couleur de 6000 Kelvins, proche de la lumière naturelle du jour, idéale pour la peinture et la tapisserie, avec un rendu fidèle des couleurs
 - DURABLE ET RÉSISTANT : Classé IP65, protégé contre la poussière et leau. Utilisation intérieure/extérieure, garages, ateliers, entrepôts ou chantiers de rénovation. Rangement facile sans le support
-- RÉGLABLE ET POYVALENT : Tête orientable pour un éclairage précis, poignée intégrée pour un déplacement facile. Compatible avec trépied (non inclus), câble long de 2,5m pour une installation flexible
 - ÉCLAIRAGE PUISSANT ET HOMOGÈNE : Le prjecteur The Painter fournit 2000 lumens, son verre dépoli réduit les reflets et garantit une visibilité claire et confortable, sans éblouissement
 - CONTENU : Un projecteur The Painter, dimensions L x H x P : 205 x 269 x 162 mm, poids : 1200 g, (5001729)
+- RÉGLABLE ET POYVALENT : Tête orientable pour un éclairage précis, poignée intégrée pour un déplacement facile. Compatible avec trépied (non inclus), câble long de 2,5m pour une installation flexible
+- TEMPÉRATURE DE COULEUR OPTIMALE : Température de couleur de 6000 Kelvins, proche de la lumière naturelle du jour, idéale pour la peinture et la tapisserie, avec un rendu fidèle des couleurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FQCPJNJ4{{</world>}}

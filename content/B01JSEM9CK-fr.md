@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un ensemble adapté à vos besoins : sur une plaque électrique, vitrocéramique, à gaz ou à induction ou au four, la poêle passe partout – tous les poêles RÖSLE sont sans PFOA
-- Données produit : dimensions extérieures 41 x 28,5 x 18 cm (L x l x h) – dimensions intérieures utilisables 38 x 25,5 cm (L x l x h) – Capacité 8 litres – Acier inoxydable 18/10
 - RÖSLE ELEGANCE Plat à rôtir : Cocotte haut de gamme en acier inoxydable avec revêtement anti-adhésif ProPlex – Ustensile de cuisson parfait pour un poulet rôti, mais aussi des gâteaux et pâtisseries
 - Efficacité et polyvalence : la cocotte et le couvercle, au fond en inox encapsulé, permettent une diffusion optimale de la chaleur – petit plus : le couvercle peut sutiliser comme une poêle à frire
 - Design professionnel : chaque ustensile a 2 poignées ergonomiques en acier inoxydable – pratique pour saisir le plat dans le four - qui résistent à des températures allant jusquà 260 °C
+- Données produit : dimensions extérieures 41 x 28,5 x 18 cm (L x l x h) – dimensions intérieures utilisables 38 x 25,5 cm (L x l x h) – Capacité 8 litres – Acier inoxydable 18/10
+- Un ensemble adapté à vos besoins : sur une plaque électrique, vitrocéramique, à gaz ou à induction ou au four, la poêle passe partout – tous les poêles RÖSLE sont sans PFOA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01JSEM9CK{{</world>}}

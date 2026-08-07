@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Conception ultra fine] Poids du moniteur portable ARZOPA 15,6 pouces : 1,63 lb, épaisseur supérieure 0,2 pouce, épaisseur inférieure 0,35 pouce. Près de la moitié du poids dun ordinateur portable de la même taille. Vous pouvez le mettre dans votre sac dordinateur avec votre ordinateur portable.
 - [Large compatibilité pour le travail/les jeux] Le moniteur dordinateur portable portable se connecte facilement à un ordinateur portable, un PC, un Mac, une XBOX, une PS3/PS4/PS5, des commutateurs, etc. via un port Type-c ou Mini HDMI, qui offrent une connexion stable et une transmission de données stable.
+- [Mode daffichage multiple] Mode daffichage 3 en 1 : mode duplication, mode extension, mode deuxième écran. Mode de changement facile.
 - [Moniteur portable avec support] Le moniteur portable ARZOPA avec béquille intégrée peut être facilement ajusté à votre angle de vision préféré. Et peu importe où vous êtes, vous navez pas besoin dun autre support.
 - [Écran IPS Full HD 1080P] Lécran portable IPS offre un angle de vue complet de 178°. Le rapport de contraste de 1000:1 offre une image précise et vive.
-- [Mode daffichage multiple] Mode daffichage 3 en 1 : mode duplication, mode extension, mode deuxième écran. Mode de changement facile.
+- [Conception ultra fine] Poids du moniteur portable ARZOPA 15,6 pouces : 1,63 lb, épaisseur supérieure 0,2 pouce, épaisseur inférieure 0,35 pouce. Près de la moitié du poids dun ordinateur portable de la même taille. Vous pouvez le mettre dans votre sac dordinateur avec votre ordinateur portable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJCCDV65{{</world>}}

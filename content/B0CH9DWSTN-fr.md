@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SOIN CAPILLAIRE : Un shampoing purifiant en profondeur qui apporte du volume, le soin parfait pour vos cheveux
-- POLYMÈRES SPRING FORCE : Enveloppent les fibres capillaires pour apporter stabilité et volume au séchage, sans alourdir les cheveux
-- SHAMPOING : Un shampooing volumateur qui apporte du corps et de la texture, idéal pour les cheveux fins
 - BOOSTE LE VOLUME : Apporte volume et brillance aux cheveux fins, sans alourdir la chevelure
+- SOIN CAPILLAIRE : Un shampoing purifiant en profondeur qui apporte du volume, le soin parfait pour vos cheveux
+- SHAMPOING : Un shampooing volumateur qui apporte du corps et de la texture, idéal pour les cheveux fins
+- POLYMÈRES SPRING FORCE : Enveloppent les fibres capillaires pour apporter stabilité et volume au séchage, sans alourdir les cheveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CH9DWSTN{{</world>}}

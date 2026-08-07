@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Liberte de mouvements
 - Confort de port eleve
+- Liberte de mouvements
 - Haute qualite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

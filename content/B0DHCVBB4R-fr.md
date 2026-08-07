@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super rapide & précis : 1000 Hz Polling Rate (chaque pression de touche est immédiatement enregistrée), Full-N-Key-Rollover (touches sont lues simultanément), Anti-Ghosting (aucune erreur de saisie)
-- Éclairage RGB impressionnant avec adaptation des couleurs dans 6 zones du clavier : De nombreux effets pour le rétroéclairage et la frappe peuvent être réglés facilement sans logiciel
-- Format compact sans touches : grâce à labsence de pavé numérique, le clavier filaire toffre non seulement plus de place sur ton bureau, mais aussi plus de liberté pour les mouvements de ta souris
-- Clavier de jeu filaire hautes performances : doté dune construction en plaques métalliques et dun boîtier robuste, il offre des performances élevées sans fioritures inutiles
 - Commutateurs mécaniques CHERRY MX2A RED de haute qualité : sensation de frappe facile et directe avec caractéristique de commutation linéaire (sans clic) et plus de 100 millions dactivations
+- Éclairage RGB impressionnant avec adaptation des couleurs dans 6 zones du clavier : De nombreux effets pour le rétroéclairage et la frappe peuvent être réglés facilement sans logiciel
+- Super rapide & précis : 1000 Hz Polling Rate (chaque pression de touche est immédiatement enregistrée), Full-N-Key-Rollover (touches sont lues simultanément), Anti-Ghosting (aucune erreur de saisie)
+- Clavier de jeu filaire hautes performances : doté dune construction en plaques métalliques et dun boîtier robuste, il offre des performances élevées sans fioritures inutiles
+- Format compact sans touches : grâce à labsence de pavé numérique, le clavier filaire toffre non seulement plus de place sur ton bureau, mais aussi plus de liberté pour les mouvements de ta souris
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHCVBB4R{{</world>}}

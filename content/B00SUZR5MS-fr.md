@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fiable
-- dimensions de lemballage : 24 x 15 x 2 cm.
 - bobine de corde de polypropylène de 240 mètres (400 g) à 1 bout. haute résistance à la déchirure (50 kilos), aux intempéries et à l’usure, est à la fois léger et durable.
+- Fiable
 - idéal pour les cordes pour étendoirs, les accessoires de travaux manuels, les filets de protection, les enclos, le camping, la pêche, l’agriculture.
+- dimensions de lemballage : 24 x 15 x 2 cm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00SUZR5MS{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ⚡DRÔLE & RAPIDE : Le Petit Bac pour enfants en super Rapide ! Débarrassez-vous de vos lettres en répondant plus vite que les autres à des thèmes hilarants !
-- ✅ VALIDÉ : Un jeu de société drôle et pensé pour les enfants sans être vulgaire. Parfait en famille, entre enfants ou ados, en vacances, pour un cadeau danniversaire...
-- 🇫🇷 ENGAGÉ : Jeu 100% fabriqué en Europe. 🌳 Papier certifié éco-responsable. 🌎 Un % des bénéfices reversé à des associations caritatives.
-- 😂 DÉLIRANT : Jeu de société rapide & parfait pour mettre lambiance (2-7 joueurs / 15-30 min / à partir de 7 ans). Règles simples, expliquées en 1 minute.
 - 🤣 PLEIN DE THÈMES : Des centaines de thèmes drôles & décalés mais aussi instructifs (Un animal qui pue, Ça fait râler les parents, Cest bon pour la planète, Ça coûte très cher, ...)
+- ✅ VALIDÉ : Un jeu de société drôle et pensé pour les enfants sans être vulgaire. Parfait en famille, entre enfants ou ados, en vacances, pour un cadeau danniversaire...
+- 😂 DÉLIRANT : Jeu de société rapide & parfait pour mettre lambiance (2-7 joueurs / 15-30 min / à partir de 7 ans). Règles simples, expliquées en 1 minute.
+- 🇫🇷 ENGAGÉ : Jeu 100% fabriqué en Europe. 🌳 Papier certifié éco-responsable. 🌎 Un % des bénéfices reversé à des associations caritatives.
+- ⚡DRÔLE & RAPIDE : Le Petit Bac pour enfants en super Rapide ! Débarrassez-vous de vos lettres en répondant plus vite que les autres à des thèmes hilarants !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DRW2ZKGH{{</world>}}

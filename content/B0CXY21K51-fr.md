@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: FACILE À NETTOYER : Pièces amovibles résistantes au lave-vaisselle pour un confort dutilisation exceptionnel au quotidien
 - produit 1: GAGNEZ DU TEMPS : 5 programmes automatiques (dune durée de 4 à 25 minutes) vous feront gagner du temps en cuisine en vous permettant de préparer des soupes onctueuses, des soupes avec morceaux, des compotes et des smoothies
-- produit 2: RÉSULTATS SANS EFFORT : Système de pression facile pour des résultats parfaits par simple pression
-- produit 1: INTERFACE INTUITIVE : En deux clics, votre machine à soupe est prête à lemploi
-- produit 2: FONCTIONS 3 EN 1 : Hachez, coupez et mélangez toutes sortes dingrédients en toute simplicité
 - produit 1: CONFORTABLE : Grâce à son isolation à double paroi, cette machine à soupe garde votre soupe au chaud pendant 40 minutes une fois quelle est prête
+- produit 2: FACILE À NETTOYER : Pièces amovibles résistantes au lave-vaisselle pour un confort dutilisation exceptionnel au quotidien
+- produit 2: RÉSULTATS SANS EFFORT : Système de pression facile pour des résultats parfaits par simple pression
+- produit 2: FONCTIONS 3 EN 1 : Hachez, coupez et mélangez toutes sortes dingrédients en toute simplicité
+- produit 1: INTERFACE INTUITIVE : En deux clics, votre machine à soupe est prête à lemploi
 - produit 2: HACHAGE FACILE : Le hachoir électrique Moulinette offre dexcellentes performances 3-en-1 avec une puissance de 300 W et 4 lames en acier inoxydable haute performance
 - produit 1: PRATIQUE : grâce à Easy Soup, préparez de délicieuses soupes, compotes et smoothies faits maison pour 4 personnes (capacité de 1,2 l)
 

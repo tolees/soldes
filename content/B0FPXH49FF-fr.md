@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SET DE CONSTRUCTION MARVEL COLLECTOR POUR ADULTE – Recréez la splendeur du porte-avions du film Avengers de Marvel Studios (2012) avec le kit L’héliporteur du SHIELD LEGO ǀ Marvel
-- ACTIVITÉ MANUELLE IMMERSIVE – Composé de 3 057 pièces, cette maquette aux multiples facettes inclut des pistes, des moteurs, une tour de contrôle, un avion, des salles intérieures et plus encore
-- 6 MINIFIGURINES – Donnez vie à l’action des Avengers avec un héliporteur regorgeant de détails authentiques et incluant le Soldat de l’hiver, Captain America, Phil Coulson, Maria Hill, Hawkeye et Nick Fury
+- INSTRUCTIONS DE MONTAGE EN 3D – Découvrez un mode de construction inédit avec l’application LEGO Builder qui vous permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
 - SETS DE CONSTRUCTION POUR ADULTE – La gamme de sets LEGO pour adulte est conçue pour offrir des projets gratifiants et immersifs aux adultes amateurs de modélisme
+- 6 MINIFIGURINES – Donnez vie à l’action des Avengers avec un héliporteur regorgeant de détails authentiques et incluant le Soldat de l’hiver, Captain America, Phil Coulson, Maria Hill, Hawkeye et Nick Fury
+- ACTIVITÉ MANUELLE IMMERSIVE – Composé de 3 057 pièces, cette maquette aux multiples facettes inclut des pistes, des moteurs, une tour de contrôle, un avion, des salles intérieures et plus encore
 - CADEAU MARVEL POUR HOMME OU FEMME – Ce set LEGO est une fabuleuse idée de cadeau à offrir à un.e ado ou un.e adulte, fan de super-héros, pour un anniversaire ou une autre occasion spéciale
 - DÉCORATION AVENGERS DYNAMIQUE – Retirez une piste pour accéder à l’intérieur détaillé, découvrez les flammes sous le moteur et exposez un Quinjet en plein vol sur une perche
-- INSTRUCTIONS DE MONTAGE EN 3D – Découvrez un mode de construction inédit avec l’application LEGO Builder qui vous permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
+- SET DE CONSTRUCTION MARVEL COLLECTOR POUR ADULTE – Recréez la splendeur du porte-avions du film Avengers de Marvel Studios (2012) avec le kit L’héliporteur du SHIELD LEGO ǀ Marvel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXH49FF{{</world>}}

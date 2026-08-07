@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simple : étagère emboîtable - montage sans vis ni perçage
 - Robuste : étagère galvanisée 5 tablettes - env. 175 kg par niveau - HxLxP : 180 x 100 x 40 cm
-- Polyvalent : rangement garde-manger, support pneus garage, étagère charges lourdes & outils
 - Spacieuse : étagère lourde en acier et MDF pour garage, cave, etc. - Stockage pour outils, boissons
 - Flexible : étagère haute modulaire, hauteur des étagères réglable - Se sépare en 2
+- Polyvalent : rangement garde-manger, support pneus garage, étagère charges lourdes & outils
+- Simple : étagère emboîtable - montage sans vis ni perçage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GC5JHQ11{{</world>}}

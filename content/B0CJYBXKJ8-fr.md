@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MEMOIRE DDR5, EMPLACEMENT PCIe 4.0 x16 - 4 emplacements DIMM DDR5 avec circuit Memory Boost isolé pour loverclocking (1DPC 1R, 6400+ MHz) ; 1 slot PCIe 4.0 x16 (64 GB/s) prend en charge les cartes graphiques
-- REFROIDISSEMENT INTÉGRÉ - Le refroidissement du VRM comprend des pads thermiques MOSFET de 7W/mK et un radiateur plus large ; comprend un dissipateur thermique pour le chipset, un M.2 Shield Frozr et un header dédié pour connecter une pompe
 - CONNECTIVITÉ WI-FI 6E - La connectivité réseau comprend un module Wi-Fi 6E avec Bluetooth 5.3 et LAN 2,5 Gbit/s ; les ports arrière incluent USB Type-C 3.2 Gen 2x2 (20 Gbit/s), HDMI 2.1, DisplayPort 1.4 et son HD 7.1 avec Audio Boost (prend en charge la s
-- DEUX CONNECTEURS M.2 - Les options de stockage comprennent 2 slots M.2 Gen4 x4 64 Gb/s avec M.2 Shield Frozr pour éviter le throttling du SSD.
 - VRM PUISSANT, compatible Ryzen 9000 - La carte mère B650M PROJECT ZERO utilise un VRM direct à 10+2 phases (80A, SPS) pour le chipset AMD B650 (AM5, Ryzen 9000, 8000 & 7000 ); Larchitecture Core Boost permet un overclocking multi-cœurs
+- MEMOIRE DDR5, EMPLACEMENT PCIe 4.0 x16 - 4 emplacements DIMM DDR5 avec circuit Memory Boost isolé pour loverclocking (1DPC 1R, 6400+ MHz) ; 1 slot PCIe 4.0 x16 (64 GB/s) prend en charge les cartes graphiques
+- DEUX CONNECTEURS M.2 - Les options de stockage comprennent 2 slots M.2 Gen4 x4 64 Gb/s avec M.2 Shield Frozr pour éviter le throttling du SSD.
+- REFROIDISSEMENT INTÉGRÉ - Le refroidissement du VRM comprend des pads thermiques MOSFET de 7W/mK et un radiateur plus large ; comprend un dissipateur thermique pour le chipset, un M.2 Shield Frozr et un header dédié pour connecter une pompe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJYBXKJ8{{</world>}}

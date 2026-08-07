@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élastique
+- Anti-stress
 - Semelle extérieure légère
 - Semelle extérieure flexible
-- Anti-stress
+- Élastique
 - Rembourrage sous la semelle intérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})

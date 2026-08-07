@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un éclairage RGB époustouflant avec deux boucles lumineuses : 18 LED par ventilateur réparties sur une boucle intérieure et une boucle extérieure permettent un éclairage brillant et personnalisable qui peut être synchronisé avec tous vos appareils iCUE RGB
-- Fonctionnement silencieux grâce au roulement à dôme magnétique : Le palier à dôme magnétique de CORSAIR est un perfectionnement du célèbre palier à lévitation magnétique, qui minimise le bruit et réduit les frottements pour une plus grande longévité
-- Reliez vos ventilateurs entre eux : Les connecteurs de pont iCUE LINK inclus peuvent connecter vos ventilateurs directement les uns aux autres, créant ainsi une banque transparente de ventilateurs tous connectés au Concentrateur Système iCUE LINK avec un seul câble
 - Refroidissement efficace et efficient : Le flux dair de votre système est superbe grâce à des vitesses précises contrôlées par PWM jusquà 2 400 tr/min, ce qui permet dobtenir un débit dair de 69,9 CFM. Une pression statique impressionnante de 5,22 mm H2O donne au LX RGB la force nécessaire pour le montage sur les radiateurs
+- Un éclairage RGB époustouflant avec deux boucles lumineuses : 18 LED par ventilateur réparties sur une boucle intérieure et une boucle extérieure permettent un éclairage brillant et personnalisable qui peut être synchronisé avec tous vos appareils iCUE RGB
+- Reliez vos ventilateurs entre eux : Les connecteurs de pont iCUE LINK inclus peuvent connecter vos ventilateurs directement les uns aux autres, créant ainsi une banque transparente de ventilateurs tous connectés au Concentrateur Système iCUE LINK avec un seul câble
 - Technologie CORSAIR AirGuide : Les ailettes anti-vortex dirigent le flux dair vers les composants les plus chauds pour un refroidissement concentré, en poussant lair plus efficacement
+- Fonctionnement silencieux grâce au roulement à dôme magnétique : Le palier à dôme magnétique de CORSAIR est un perfectionnement du célèbre palier à lévitation magnétique, qui minimise le bruit et réduit les frottements pour une plus grande longévité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3H73YCJ{{</world>}}

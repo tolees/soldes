@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Caméra concentrique
 - Batteur à 2 voies
 - Transmission par chaîne unique
-- Caméra concentrique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B096N2L2XX{{</world>}}

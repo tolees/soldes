@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
 - Poids du colis de larticle : 2.95 livres
-- Couleur : Noir/Fractale
+- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
 - Fabriqué en:- Chine
+- Couleur : Noir/Fractale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XGMZL8W{{</world>}}

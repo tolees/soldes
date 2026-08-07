@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- HAUT-PARLEURS DIRECTIONNELS IMMERSIFS — 50 % plus forts avec 2 fois plus de basses que la génération précédente. Diffusez Spotify, Apple Music et des podcasts sans bloquer les sons ambiants. La connectivité Bluetooth transforme vos lunettes en lunettes de soleil audio premium pour les trajets, le sport ou les sorties.
+- SILHOUETTE CAT-EYE DINSPIRATION RÉTRO — Puisant dans les archives iconiques de Ray-Ban des années 1960, la Skyler présente un front plus large et des courbes douces qui mettent en valeur la plupart des formes de visage. La construction en acétate légère à seulement 48 grammes associe le style jet-set à la technologie portable intelligente pour un usage quotidien avant-gardiste.
+- ASSISTANT À ACTIVATION VOCALE — Dites « Hey Meta » pour des réponses instantanées, des idées de recettes, des rappels, des itinéraires et des informations en temps réel. Propulsé par le Qualcomm Snapdragon AR1 Gen1 avec WiFi 6E et Bluetooth 5.3 pour des performances rapides et fiables où que vous soyez.
 - BATTERIE TOUTE LA JOURNÉE AVEC ÉTUI DE CHARGE PORTABLE — Jusquà 8 heures dutilisation modérée, 5 heures de musique ou 5 heures dappels par charge. Létui USB-C inclus fournit 48 heures supplémentaires dautonomie en déplacement — le double de lendurance des générations précédentes.
 - CHAMP DE VISION ULTRA-LARGE DE 100° — Prenez des photos en résolution 3024×4032 et des vidéos cinématographiques avec ralenti, hyperlapse et capture par commande vocale. 32 Go de stockage intégré pour jusquà 1 000 photos ou 100 vidéos — documentez des moments de votre perspective unique.
-- ASSISTANT À ACTIVATION VOCALE — Dites « Hey Meta » pour des réponses instantanées, des idées de recettes, des rappels, des itinéraires et des informations en temps réel. Propulsé par le Qualcomm Snapdragon AR1 Gen1 avec WiFi 6E et Bluetooth 5.3 pour des performances rapides et fiables où que vous soyez.
-- SILHOUETTE CAT-EYE DINSPIRATION RÉTRO — Puisant dans les archives iconiques de Ray-Ban des années 1960, la Skyler présente un front plus large et des courbes douces qui mettent en valeur la plupart des formes de visage. La construction en acétate légère à seulement 48 grammes associe le style jet-set à la technologie portable intelligente pour un usage quotidien avant-gardiste.
-- HAUT-PARLEURS DIRECTIONNELS IMMERSIFS — 50 % plus forts avec 2 fois plus de basses que la génération précédente. Diffusez Spotify, Apple Music et des podcasts sans bloquer les sons ambiants. La connectivité Bluetooth transforme vos lunettes en lunettes de soleil audio premium pour les trajets, le sport ou les sorties.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FLYLS85W{{</world>}}

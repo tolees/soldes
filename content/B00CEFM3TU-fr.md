@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMARQUE: Est-ce que votre véhicule est indiqué dans le tableau des modèles de véhicules mentionné ci-dessous ? Est-ce que lannée de construction correspond ? , Est-ce que la fixation de lessuie-glace (bras dessuie-glace) de votre véhicule correspond
-- COMPATIBLE AVEC: CITROËN DS5, DS 5, FORD B-MAX, B-MAX Van, C-MAX II, C-MAX II Van, GRAND C-MAX, GRAND C-MAX Van, OPEL ASTRA J GTC
 - CONTENU DE LA LIVRAISON: Jeu (2 pieces) de balais dessuie-glace BOSCH Aerotwin AM466S (il faut aussi changer le clip original)
+- COMPATIBLE AVEC: CITROËN DS5, DS 5, FORD B-MAX, B-MAX Van, C-MAX II, C-MAX II Van, GRAND C-MAX, GRAND C-MAX Van, OPEL ASTRA J GTC
 - ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
+- REMARQUE: Est-ce que votre véhicule est indiqué dans le tableau des modèles de véhicules mentionné ci-dessous ? Est-ce que lannée de construction correspond ? , Est-ce que la fixation de lessuie-glace (bras dessuie-glace) de votre véhicule correspond
 - INFORMATION TECHNIQUE: Longueur 1: 650 mm, Longueur 2: 380 mm, Pour conduction à gauche, Numéros Bosch: 3397007466, 3 397 007 466
 
 [🛒 Achète-le!!]({{< param buyurl >}})

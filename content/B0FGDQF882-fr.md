@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CONSEILS DUTILISATION : Secouer le flacon pour activer la formule bi-phase. Appliquer sur cheveux essorés après lavage et/ou sur cheveux secs. Répartir sur les longueurs et les pointes, puis coiffer comme à votre habitude.
 - HUILE POUR CHEVEUX ABIMES : Lhuile pour cheveux Absolut Repair Molecular est idéale pour réparer, protéger et faire briller les cheveux abimés, secs, cassants, ou ternes. Sa formule bi-phase assure douceur et brillance longue durée.
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - FORMULE ENRICHIE EN LIANT PEPTIDIQUE ET ACIDES AMINES : La phase aqueuse associe 1% de liant peptidique et 5 acides aminés pour une réparation moléculaire au coeur de la fibre capillaire. La phase huileuse nourrit, protège et gaine le cheveu, sans résidu gras.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - DES RÉSULTATS VISIBLES ET DURABLES : LHuile Absolut Repair Molecular répare l’équivalent de 2 ans de dommages capillaires et apporte aux cheveux jusqu’à 100 heures de brillance. Les frisottis sont contrôlés pendant 72 h.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

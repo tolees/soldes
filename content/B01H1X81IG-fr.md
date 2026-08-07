@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau principal : imperméable Nappa Greased, matériau de doublure : Natural Fur/Real Fur Sole Matériau : TPU intérieur RemovableInsert : No
-- Panama Jack Bottines pour homme, marron / marron
-- Hauteur du talon : 2,00 cm
 - Fabriqué en Espagne
+- Matériau principal : imperméable Nappa Greased, matériau de doublure : Natural Fur/Real Fur Sole Matériau : TPU intérieur RemovableInsert : No
+- Hauteur du talon : 2,00 cm
+- Panama Jack Bottines pour homme, marron / marron
 - Résistant à leau
 
 [🛒 Achète-le!!]({{< param buyurl >}})

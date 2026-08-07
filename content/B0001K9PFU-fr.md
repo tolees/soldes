@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient à la plupart des véhicules
-- Livraison le lendemain
 - Vilebrequin à cliquet 4 mors
-- Fabriqué selon les normes de lue
+- Convient à la plupart des véhicules
 - 404
+- Fabriqué selon les normes de lue
 - Fabrication européenne
+- Livraison le lendemain
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0001K9PFU{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meilleure peau
-- Couleur : blanc naturel
 - Matériau extérieur : 100 % cuir de vachette
 - Doublure : 78 % tissu (100 % PET recyclé) - 22 % cuir de vachette
+- Couleur : blanc naturel
+- Meilleure peau
 - Semelle : 100 % caoutchouc vulcanisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

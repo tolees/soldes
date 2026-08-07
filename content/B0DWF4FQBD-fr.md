@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadeau LEGO Super Mario pour garçon ou fille dès 6 ans – Offrez ce jeu de construction aux fans de jeux vidéo dès 6 ans (un set 71439, 71440, 71441 ou 72043, vendu séparément, est nécessaire pour le jeu interactif)
 - Jeu de construction LEGO Super Mario pour garçon ou fille dès 6 ans – Créez une tente et un feu de camp, partez à la chasse au trésor, faites écrouler un pont ou renversez des ennemis au Campement du capitaine Toad
-- Jeu interactif – Sautez sur la brique d’action de la tente, sur le Goomba et sur le navet, avec Mario, Luigi ou Peach (personnages non inclus) pour déclencher des réactions numériques
-- Application LEGO Super Mario – Téléchargez l’application qui propose des instructions de montage, des idées créatives et plus encore ; consultez la liste des appareils Android et iOS compatibles sur LEGO.com/devicecheck
 - Fonctionnalités ludiques – Aidez le capitaine Toad à faire écrouler le pont et à renverser un ennemi dans la rivière de lave, recherchez des « diamants » et rangez-les dans le coffre au trésor
+- Application LEGO Super Mario – Téléchargez l’application qui propose des instructions de montage, des idées créatives et plus encore ; consultez la liste des appareils Android et iOS compatibles sur LEGO.com/devicecheck
 - Stimulez l’imagination des enfants – Conçus pour jouer seul ou à plusieurs, les sets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
+- Jeu interactif – Sautez sur la brique d’action de la tente, sur le Goomba et sur le navet, avec Mario, Luigi ou Peach (personnages non inclus) pour déclencher des réactions numériques
 - 3 figurines LEGO Super Mario inspirant le jeu de rôle – Ce set LEGO inclut le capitaine Toad, un navet et un Goomba, ainsi qu’un sac à dos à construire, une pioche, une poêle et des diamants
+- Cadeau LEGO Super Mario pour garçon ou fille dès 6 ans – Offrez ce jeu de construction aux fans de jeux vidéo dès 6 ans (un set 71439, 71440, 71441 ou 72043, vendu séparément, est nécessaire pour le jeu interactif)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWF4FQBD{{</world>}}

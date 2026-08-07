@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : bleu foncé
-- Better Outsoles, synthétiques recyclés
-- Semelle : 80 % EVA - 20 % EVA recyclé
 - Matériau extérieur : 100 % PET recyclé
+- Semelle : 80 % EVA - 20 % EVA recyclé
+- Better Outsoles, synthétiques recyclés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8K32WLQ{{</world>}}

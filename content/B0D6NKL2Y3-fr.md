@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable à porter
 - il sagit dun produit authentique et original Geox
+- Confortable à porter
 - Ce style a été produit de manière durable
 - il assure un ajustement optimal
 

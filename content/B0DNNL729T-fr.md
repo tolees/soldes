@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FONCTIONS DE COMBAT INTERACTIVES : La figurine Transformers a un bras en forme de scie circulaire rotative, un bras en forme de griffe fonctionnelle ainsi que des stations de combat dépliables dans son torse et ses jambes pour les figurines Cyber Changers
-- COFFRET POUR FIGURINES CYBER CHANGERS (VENDUES SÉPARÉMENT) : Les figurines Cyber Changers (vendues séparément, dans la limite des stocks) peuvent être placées dans les stations de combat, sur la moto aéroglisseur, tenues dans les griffes et bien plus !
+- BRAS ET QUEUE DÉTACHABLES ET CONVERTIBLES EN ACCESSOIRES : La queue du scorpion se convertit en épée à deux lames et le bras en forme de scie circulaire devient une moto aéroglisseur pour les figurines Cyber Changers
 - FIGURINE DE 35 CM SE CONVERTIT EN SCORPION DE 51 CM : Ce jouet Transformers Scorponok 2-en-1 se convertit de robot géant de 35 cm à scorpion immense de 51 cm en 4 étapes !
 - LUMIÈRES ET SONS (PILES INCLUSES) : On peut appuyer sur la tête de la figurine Scorponok pour activer les lumières sur son torse et entendre des bruits de combat
-- BRAS ET QUEUE DÉTACHABLES ET CONVERTIBLES EN ACCESSOIRES : La queue du scorpion se convertit en épée à deux lames et le bras en forme de scie circulaire devient une moto aéroglisseur pour les figurines Cyber Changers
+- COFFRET POUR FIGURINES CYBER CHANGERS (VENDUES SÉPARÉMENT) : Les figurines Cyber Changers (vendues séparément, dans la limite des stocks) peuvent être placées dans les stations de combat, sur la moto aéroglisseur, tenues dans les griffes et bien plus !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNNL729T{{</world>}}

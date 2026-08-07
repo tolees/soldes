@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids du colis: 7.94 Kg
 - Étagère datelier DeWalt DWST1-75694.
 - Couleur: multicolore
 - Matériau: métal
-- Poids du colis: 7.94 Kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MTQGNYN{{</world>}}

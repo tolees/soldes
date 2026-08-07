@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le pack contient : 1x rasoir Lady Shaver, 1x sabot de rasage, 1x tête de tondeuse bikini, 1x sabot de tondeuse bikini, 1x gant exfoliant, 1x épilateur spécial visage, 1x pochette, 1x câble de recharge USB-A (adaptateur non fourni).
-- Moins de sensation de brûlure, moins de rougeurs, plus de confort⁵ : ce rasoir électrique rechargeable pour femmes est doté d’un système à 3 lames qui minimise les irritations.
-- Découvrez un rasage facile, rapide, confortable et tout en douceur, même sur les zones difficiles d’accès : ce rasoir pour femmes élimine délicatement les poils à partir de 0,2 mm de longueur.
 - Pour visage, corps et maillot : le Philips Lady Shaver série 8000 est idéal pour raser corps, jambes et aisselles, et raccourcir le maillot. Il élimine aussi en douceur les poils du visage des femmes.
 - Testé dermatologiquement pour les peaux sensibles.
+- Découvrez un rasage facile, rapide, confortable et tout en douceur, même sur les zones difficiles d’accès : ce rasoir pour femmes élimine délicatement les poils à partir de 0,2 mm de longueur.
+- Moins de sensation de brûlure, moins de rougeurs, plus de confort⁵ : ce rasoir électrique rechargeable pour femmes est doté d’un système à 3 lames qui minimise les irritations.
+- Le pack contient : 1x rasoir Lady Shaver, 1x sabot de rasage, 1x tête de tondeuse bikini, 1x sabot de tondeuse bikini, 1x gant exfoliant, 1x épilateur spécial visage, 1x pochette, 1x câble de recharge USB-A (adaptateur non fourni).
 - Facile à utiliser, même sous la douche : ce rasoir sans fil possède une batterie puissante qui assure jusqu’à 100 min d’autonomie. Deux vitesses, sur peau sèche ou mouillée, manche anti-glisse.
 - Le rasoir pour femmes Philips le plus haut de gamme avec tête de rasage flexible et éclairage LED : la tête flexible suit les contours de votre corps et l’éclairage LED détecte tous les poils.
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bouchon antigel en feutre collé de 2,5 mm
+- Semelle intérieure amovible en EVA. Dessus en textile
 - Isolation de 200 g
 - Coque en caoutchouc thermique imperméable moulé par injection
+- Bouchon antigel en feutre collé de 2,5 mm
 - Dessus en daim imperméable et textile. Construction imperméable à coutures scellées. Doublure textile. Les lacets ne sont pas étanches.
-- Semelle intérieure amovible en EVA. Dessus en textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLSF2G93{{</world>}}

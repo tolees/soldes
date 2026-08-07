@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nettoyage facile : ses plaques sont interchangeables et amovibles. Grâce à leur revêtement antiadhésif, elles sont très faciles à nettoyer.
-- Pour 2 personnes : avec sa surface de cuisson de 22,4 x 12,5 cm, cet appareil à croque-monsieur permet de préparer 2 gaufres, 2 sandwhiches ou 2 pièces de viandes à la fois.
+- Compact : un compartiment pour cordon permet de ranger le câble dalimentation. Ce grill peut être posé à lhorizontale ou à la verticale, selon la place que vous avez dans vos placards.
 - Pratique : sa puissance de 750 W lui permet de chauffer rapidement. Des voyants lumineux vous indiquent lorsquil est prêt à accueillir vos aliments.
 - 3-en-1 : préparez des croque-monsieur traditionnels, en triangle, des gaufres ou faites griller pièces de viande, poisson et légumes avec ce grill TRISTAR SA-3071 et ses 3 jeux de plaques !
-- Compact : un compartiment pour cordon permet de ranger le câble dalimentation. Ce grill peut être posé à lhorizontale ou à la verticale, selon la place que vous avez dans vos placards.
+- Pour 2 personnes : avec sa surface de cuisson de 22,4 x 12,5 cm, cet appareil à croque-monsieur permet de préparer 2 gaufres, 2 sandwhiches ou 2 pièces de viandes à la fois.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B5GHCHWV{{</world>}}

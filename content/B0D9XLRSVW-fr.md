@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Transmission Mono vitesse - Pignon Fixe
+- Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
 - Cadre & fourche rigide acier
 - 1 frein avant Caliper
 - Norme EN71 ( Rétropédalage obligatoire )
-- Panier avant - Klaxon - Garde-boues
-- Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
 - Carter de Protection - 2 Stabilisateurs avec montage sans outils
-- Transmission Mono vitesse - Pignon Fixe
+- Panier avant - Klaxon - Garde-boues
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9XLRSVW{{</world>}}

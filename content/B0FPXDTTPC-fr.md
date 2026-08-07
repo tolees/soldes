@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection permet aux enfants et aux fans de ninjas de s’évader dans un monde fantastique immersif, pour un jeu créatif avec leurs héros et méchants préférés
-- IDÉE DE CADEAU AMUSANT POUR ENFANTS – Ce jeu de construction est un superbe cadeau à offrir à un garçon ou une fille passionné.e de ninjas et de loisirs créatifs
+- 6 MINIFIGURINES LEGO NINJAGO POUR LE JEU DE RÔLE – Plongez dans des histoires passionnantes avec Dragon Lloyd, Jay, Zane et Nya, ainsi que les méchants Monstre acide et Monstre de feu
 - DE NOMBREUX ACCESSOIRES POUR UN JEU INTERACTIF – Préparez-vous à une virée épique avec cette version revisitée du Q.G. des ninjas (70677), l’un des sets préférés des fans, comprenant un cockpit à 2 places, 6 roues dorées, un fusil à tenons et une bannière
+- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection permet aux enfants et aux fans de ninjas de s’évader dans un monde fantastique immersif, pour un jeu créatif avec leurs héros et méchants préférés
+- JOUET NINJA POUR GARÇON OU FILLE DÈS 9 ANS – Recréez les scènes d’action trépidantes de la série TV NINJAGO Le soulèvement des dragons avec le set LEGO NINJAGO Le Bounty terrestre
+- IDÉE DE CADEAU AMUSANT POUR ENFANTS – Ce jeu de construction est un superbe cadeau à offrir à un garçon ou une fille passionné.e de ninjas et de loisirs créatifs
 - INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans une aventure intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - VÉHICULE 3-EN-1 – Les jeunes constructeurs.trices peuvent séparer le Bounty terrestre en 3 maquettes plus petites : un bateau volant avec un pont ouvert, un buggy tout-terrain avec un cockpit et une moto
-- JOUET NINJA POUR GARÇON OU FILLE DÈS 9 ANS – Recréez les scènes d’action trépidantes de la série TV NINJAGO Le soulèvement des dragons avec le set LEGO NINJAGO Le Bounty terrestre
-- 6 MINIFIGURINES LEGO NINJAGO POUR LE JEU DE RÔLE – Plongez dans des histoires passionnantes avec Dragon Lloyd, Jay, Zane et Nya, ainsi que les méchants Monstre acide et Monstre de feu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXDTTPC{{</world>}}

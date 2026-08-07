@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Les atouts] Une boîte de conservation alimentaire tout en verre borosilicate! Une base à utiliser comme plat à four et le couvercle comme plaque de cuisson ou dessous de plat. Une résistance aux chocs thermiques de 220°C, passez votre produit du congélateur au four sans soucis! Les boîtes de conservation Pure Glass sont empilables
-- [Usage] Adapté à lutilisation au micro-ondes et du congélateur, résistant au lave-vaisselle. Ne pas mettre le joint au four et micro-ondes
-- [Made In France] Tous nos produits viennent de notre usine à Châteauroux
 - [Dimensions] : 19 x 14 x 5 cm
+- [Les atouts] Une boîte de conservation alimentaire tout en verre borosilicate! Une base à utiliser comme plat à four et le couvercle comme plaque de cuisson ou dessous de plat. Une résistance aux chocs thermiques de 220°C, passez votre produit du congélateur au four sans soucis! Les boîtes de conservation Pure Glass sont empilables
+- [Made In France] Tous nos produits viennent de notre usine à Châteauroux
+- [Usage] Adapté à lutilisation au micro-ondes et du congélateur, résistant au lave-vaisselle. Ne pas mettre le joint au four et micro-ondes
 - [Matériau]Verre hygiénique non poreux et non coupant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

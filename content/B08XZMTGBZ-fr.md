@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Installation innovante, facile à utiliser et sans tournevis
 - Boîtier en alliage daluminium et coussinets thermiques pour une dissipation thermique agressive
-- Design futuriste avec effets lumineux ASUS Aura Sync
 - USB-C 3.2 Gen 2x1 pour des vitesses allant jusquà 10 Gbps.
+- Design futuriste avec effets lumineux ASUS Aura Sync
 - Prise en charge du SSD M.2 PCIe NVM Express avec facteur de forme 2230/2242/2260/2280
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste 3 en 1 avec deux couches distinctes qui peuvent se porter ensemble ou séparément, Extérieur robuste et doublure intérieure douce qui se zippent ensemble
-- Contenu : 1x Columbia Carson Pass veste interchange femme, Extérieur : 72% Nylon, 28% polyester; Doublure : 100% nylon; Isolation : 100% polyester, Couleur : Dark Nocturnal, Taille: S, Art No 1737241
 - Technologie Omni-Heat qui gère la chaleur corporelle en régulant votre température avec de petits points argentés qui reflètent et retiennent la chaleur générée par votre corps, Matière respirante qui dissipe également lhumidité et lexcédent de chaleur
-- Capuche attenante et ajustée avec doublure en Sherpa pour plus de protection contre les éléments, Poches poitrine et chauffe-main zippées
+- Contenu : 1x Columbia Carson Pass veste interchange femme, Extérieur : 72% Nylon, 28% polyester; Doublure : 100% nylon; Isolation : 100% polyester, Couleur : Dark Nocturnal, Taille: S, Art No 1737241
 - La technologie de gestion de lhumidité Omni-Wick disperse la transpiration et lhumidité à travers la surface du tissu lui permettant de sévaporer rapidement, Omni-Wick vous permet de rester au sec et à laise toute la journée
+- Capuche attenante et ajustée avec doublure en Sherpa pour plus de protection contre les éléments, Poches poitrine et chauffe-main zippées
+- Veste 3 en 1 avec deux couches distinctes qui peuvent se porter ensemble ou séparément, Extérieur robuste et doublure intérieure douce qui se zippent ensemble
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07J9KKMSB{{</world>}}

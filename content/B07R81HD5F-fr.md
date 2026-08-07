@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Slim-fit Jeans
 - Dark blue denim pants
+- Slim-fit Jeans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07R81HD5F{{</world>}}

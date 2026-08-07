@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remarque! Larticle est livré sans le certificat car il ne peut pas être joint à larticle.
 - Fermoir : à charnière
+- Remarque! Larticle est livré sans le certificat car il ne peut pas être joint à larticle.
 - Couleur : bicolore
 - Type de chaîne : maille serpent
 

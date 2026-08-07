@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MADE IN FRANCE DEPUIS… TOUJOURS ! : Depuis ses origines Falk relève le défi d’imaginer, concevoir et fabriquer ses jouets en France, dans nos ateliers situés à Oyonnax en région Rhône-Alpes, tout en travaillant avec des partenaires locaux dans le but de dynamiser l’activité économique de notre région et de limiter notre impact écologique.
-- UNE PETITE REMORQUE AUSSI MIGNONNE QUE PRATIQUE : Parfaite pour emporter son doudou favori partout ou transporter sa récolte de fruits et de légumes du jardin. Les idées ne manquent jamais quand il sagit de samuser !
 - DÉVELOPPE LA MOTRICITÉ ET LÉQUILIBRE DE LENFANT EN SAMUSANT : Au cours de ses 3 premières années, votre enfant va développer ses capacités psychomotrices. Dès leurs premiers pas, Falk accompagne vos petits bouts de choux dans le développement de leur équilibre et leur motricité ! Votre enfant bouge, trotte et explore son environnement, à la maison comme dans le jardin.
-- UN VOLANT DIRECTIONNEL POUR MANŒUVRER COMME LES GRANDS ! : Un tracteur qui se dirige comme un vrai. Idéal pour se faufiler dans les couloirs de la maison ou entre les arbres du jardin. Tuut Tuut ! Avec son klaxon, votre enfant vous avertit quil va falloir lui laisser la voie libre !
 - UN PORTEUR PERSONNALISABLE CEST ENCORE PLUS MARRANT ! : Pour se lapproprier davantage, cest votre enfant qui choisit le look de son tracteur grâce à ses 2 styles de personnalisation et sa plaque dimmatriculation personnalisable, accompagnée de lettres autocollantes pour écrire son prénom ou donner un surnom à son compagnon de jeu !
+- UNE PETITE REMORQUE AUSSI MIGNONNE QUE PRATIQUE : Parfaite pour emporter son doudou favori partout ou transporter sa récolte de fruits et de légumes du jardin. Les idées ne manquent jamais quand il sagit de samuser !
+- UN VOLANT DIRECTIONNEL POUR MANŒUVRER COMME LES GRANDS ! : Un tracteur qui se dirige comme un vrai. Idéal pour se faufiler dans les couloirs de la maison ou entre les arbres du jardin. Tuut Tuut ! Avec son klaxon, votre enfant vous avertit quil va falloir lui laisser la voie libre !
+- MADE IN FRANCE DEPUIS… TOUJOURS ! : Depuis ses origines Falk relève le défi d’imaginer, concevoir et fabriquer ses jouets en France, dans nos ateliers situés à Oyonnax en région Rhône-Alpes, tout en travaillant avec des partenaires locaux dans le but de dynamiser l’activité économique de notre région et de limiter notre impact écologique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QBLVDQP{{</world>}}

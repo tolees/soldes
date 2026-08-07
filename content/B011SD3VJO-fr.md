@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Racine > Accueil > Cuir homme > Blouson cuir homme
-- Schott
 - Schott Blouson Schott en cuir ref_jaj37772-marron vieilli - M
+- Schott
+- Racine > Accueil > Cuir homme > Blouson cuir homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B011SD3VJO{{</world>}}

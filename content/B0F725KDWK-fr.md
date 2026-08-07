@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu de l’emballage : 1 tondeuse à barbe Philips série 3000, 1 sabot barbe courte 0,5-10 mm, 1 brosse nettoyante, 1 pochette souple, 1 câble de recharge USB-A ; adaptateur secteur non inclus
+- Tondeuse pour homme avec système Lift & Trim innovant : un sabot soulève les poils et les guide vers les lames pour une coupe précise, régulière, efficace et agréable
 - Tondeuse à barbe 100 % étanche qui simplifie votre routine grâce à un nettoyage facile et une prise en main ergonomique pour un confort optimal et plus de contrôle
 - Tondeuse à barbe avec molette de précision à 20 réglages : il suffit de tourner la molette pour choisir la hauteur de coupe souhaitée entre 0,5 et 10 mm, par pas de 0,5 mm
-- Tondeuse pour homme avec système Lift & Trim innovant : un sabot soulève les poils et les guide vers les lames pour une coupe précise, régulière, efficace et agréable
-- Contenu de l’emballage : 1 tondeuse à barbe Philips série 3000, 1 sabot barbe courte 0,5-10 mm, 1 brosse nettoyante, 1 pochette souple, 1 câble de recharge USB-A ; adaptateur secteur non inclus
 - Les lames en métal auto-affûtées offrent une précision optimale lors de la tonte en restant affûtées ; aucune lubrification n’est nécessaire pour ces lames antirouille faciles à nettoyer
 - La pochette souple permet de regrouper tous les accessoires pour vous simplifier la vie lorsque vous voyagez
 

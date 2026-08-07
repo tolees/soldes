@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - PUMA Marque sur le talon
 - PUMA bande de forme sur les côtés médial et latéral
-- Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais
 - Œillets à double couche
+- Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais
 - Perforations au niveau des orteils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

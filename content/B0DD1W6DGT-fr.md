@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PLONGEZ DANS LA PASSION : À la fois hypnotique et symbole de réconfort, la femme Amor Amor captive et séduit avec une intensité qui se renouvelle sans cesse, comme les émotions du premier amour retrouvé.
+- SENSUALITE ET GOURMANDISE : Floral et chypré, le parfum Amor Amor de Cacharel dévoile, en cœur, une rose rouge tendre et sensuelle, associée à une poire juteuse. Les muscs blancs viennent sublimer lensemble pour une belle persistance sur la peau.
+- LA GRENADE DU DÉSIR : Rouge vibrant comme un amour brûlant, le flacon Amor Amor est une petite grenade de désir à dégoupiller. Chic et audacieux, il symbolise la passion, prêt à faire exploser le grand amour.
 - LA MAGIE DES PREMIÈRES FOIS : Symbole de jeunesse, de romantisme et de liberté, Cacharel enchante depuis 1969 avec des parfums emblématiques qui capturent la passion des premières fois à travers des accords envoûtants.
 - LINTENSITE DU PREMIER AMOUR : Le parfum Cacharel Amor Amor captive et reste délicatement sur la peau pour vous rappeler vos souvenirs de premier amour dans un tourbillon floral et chypré qui fait la part belle à la rose.
-- LA GRENADE DU DÉSIR : Rouge vibrant comme un amour brûlant, le flacon Amor Amor est une petite grenade de désir à dégoupiller. Chic et audacieux, il symbolise la passion, prêt à faire exploser le grand amour.
-- SENSUALITE ET GOURMANDISE : Floral et chypré, le parfum Amor Amor de Cacharel dévoile, en cœur, une rose rouge tendre et sensuelle, associée à une poire juteuse. Les muscs blancs viennent sublimer lensemble pour une belle persistance sur la peau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DD1W6DGT{{</world>}}

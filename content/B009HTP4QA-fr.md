@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EVA découpée + renfort de talon – surface 100 % coton
+- toile de coton
+- toile de coton
 - caoutchouc + EVA découpée
-- toile de coton
-- toile de coton
+- EVA découpée + renfort de talon – surface 100 % coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B009HTP4QA{{</world>}}

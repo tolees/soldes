@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - PRÊT AU COMBAT : Ton zord est prêt à se transformer pour partir à la bataille !
-- ZORD ARTICULÉ : Retrouve la figurine articulée de Tyrannosaurus Rex Dinozord, le robot gigantesque contrôlé par Jason (Ranger Rouge).
-- COMBINABLE : Collectionne tous les Dinozords combinables pour former le Megazord comme dans la série TV.
 - NOUVEAUTÉS POWER RANGERS : Tes créatures préférées reviennent dans des versions inédites, inspirées de la nouvelle série remasterisée Mighty Morphin !
 - TAILLE : Ta figurine mesure environ 25 cm (H) x 15 cm (l).
+- ZORD ARTICULÉ : Retrouve la figurine articulée de Tyrannosaurus Rex Dinozord, le robot gigantesque contrôlé par Jason (Ranger Rouge).
+- COMBINABLE : Collectionne tous les Dinozords combinables pour former le Megazord comme dans la série TV.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F54KWKMY{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort optimale
 - Rembourrage en mousse
 - Tissu douce
+- Confort optimale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079HMVHWH{{</world>}}

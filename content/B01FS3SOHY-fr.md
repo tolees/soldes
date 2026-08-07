@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionne sur pile
 - Karaoké Peppa Pig avec 2 micros, 1 lecteur CD et 1 prise casque
 - Pratique : une poignée pour lemporter partout
+- Fonctionne sur pile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01FS3SOHY{{</world>}}

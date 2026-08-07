@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RELENTLESS HUNTING PLAYSTYLE: Designed for aggressive pursuit, pressure, and enemy disruption.
-- ICONIC DARK SIDE ENFORCERS: Includes the Grand Inquisitor, Reva, Fifth Brother, and Fourth Sister.
 - DETAILED MINIATURES & CARDS: High-quality miniatures with Stat, Order, and Stance cards included.
+- ICONIC DARK SIDE ENFORCERS: Includes the Grand Inquisitor, Reva, Fifth Brother, and Fourth Sister.
+- RELENTLESS HUNTING PLAYSTYLE: Designed for aggressive pursuit, pressure, and enemy disruption.
 - JEDI HUNTERS SQUAD PACK: Introduces the feared Inquisitors to Star Wars Shatterpoint.
 - CORE SET REQUIRED: Expansion for Star Wars Shatterpoint Core Set; AGES 14+.
 

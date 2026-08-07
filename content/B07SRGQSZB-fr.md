@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grâce au système Smart Zero Fan, le ventilateur ne se déclenche quà partir de 40% de charge, limitant ainsi le niveau sonore.
-- Les ondulations sont inférieures à 30 mV sur les +12 V, +5 V, ou +3.3 V de 0% à 100% de charge, assurant une excellente performance et un fonctionnement fiable.
 - Éclairage RGB synchronisable avec les cartes mères compatibles ASUS, GIGABYTE, MSI et ASRock, pour des possibilités quasi illimitées.
 - Intègre des condensateurs japonais 105 °C (221 ° F) de qualité supérieure, afin daméliorer la longévité et la stabilité des alimentations.
+- Les ondulations sont inférieures à 30 mV sur les +12 V, +5 V, ou +3.3 V de 0% à 100% de charge, assurant une excellente performance et un fonctionnement fiable.
+- Grâce au système Smart Zero Fan, le ventilateur ne se déclenche quà partir de 40% de charge, limitant ainsi le niveau sonore.
 - Le ventilateur intégré Riing Duo 14 RGB est équipé dun double anneau comptant 18 LED adressables, pour un superbe éclairage RGB 16,8 millions de couleurs et une luminosité uniforme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette opération permet de bénéficier d’un bloc au design revisité, des avantages de la LED, de la technologie SATI et du label NF Environnement à moindre coût.
-- Blocs 100% LEDs, maintenance réduite, aucun relampage, basse consommation
-- Livré avec 3 étiquettes de balisage autocollantes.
 - Bornier sans vis avec connexion automatique
+- Livré avec 3 étiquettes de balisage autocollantes.
 - Cette gamme est destinée aux petits Établissements Recevant des Travailleurs ou du Public (ERP et ERT) et au remplacement des anciens blocs de marque LUMINOX type STD et UNILED.
+- Blocs 100% LEDs, maintenance réduite, aucun relampage, basse consommation
+- Cette opération permet de bénéficier d’un bloc au design revisité, des avantages de la LED, de la technologie SATI et du label NF Environnement à moindre coût.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B077RV2BHF{{</world>}}

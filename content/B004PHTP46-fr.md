@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilise le watt pour bourrer des ours en peluche, des poupées et des coussins. Pour un peluche de 40-45cm vous avez besoin d`environ 200g d’ouate.
-- Comme le produit est Oekotex certifié il est aussi idéal pour les personnes souffrant d’allergies. Due a la satisfaction du jouet standard ‘DIN EN 71-3’ la mousse de rembourrage est un matériel indispensable dans les chambres des enfants.
 - Le matériau de bourrage en haute qualité garante une élasticité forte et durable pour une longue durée de vie.
+- Comme le produit est Oekotex certifié il est aussi idéal pour les personnes souffrant d’allergies. Due a la satisfaction du jouet standard ‘DIN EN 71-3’ la mousse de rembourrage est un matériel indispensable dans les chambres des enfants.
+- Utilise le watt pour bourrer des ours en peluche, des poupées et des coussins. Pour un peluche de 40-45cm vous avez besoin d`environ 200g d’ouate.
 - L’ouate consiste de 100% polyester hygiénique et est lavable dans la machine à laver jusqu’à 95°C pour obtenir la propreté des peluches et coussins.
 - Sachet de 300g d`ouate de rembourrage blanche et très duveteuse
 

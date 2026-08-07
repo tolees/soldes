@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 2 joueurs
-- Un règle de jeu simple : deviner si une chanson est sortie avant ou après une autre chanson. Pas de panique, pas besoin d’être un expert, simplement le style musical pourra vous aider.
-- Une mise en place super simple ! Scannez le QR Code avec votre téléphone et la musique se lancera automatiquement avec l’application gratuite Spotify
+- Avec Hitster, trouvez et revivez les époques de sortie de 100 ans de hits musicaux !
 - Idéal en famille ou entre amis: plus de 300 titres reprenant les plus grands succès entre 1920 et 2022, HITSTER est le jeu parfait pour une soirée où lon rit, chante, danse et partage des souvenirs
 - Placez vos cartes à tour de rôle par ordre chronologique sur votre ligne du temps musicale. La première équipe à avoir 10 cartes remporte la partie !
-- Avec Hitster, trouvez et revivez les époques de sortie de 100 ans de hits musicaux !
+- Une mise en place super simple ! Scannez le QR Code avec votre téléphone et la musique se lancera automatiquement avec l’application gratuite Spotify
+- A partir de 2 joueurs
+- Un règle de jeu simple : deviner si une chanson est sortie avant ou après une autre chanson. Pas de panique, pas besoin d’être un expert, simplement le style musical pourra vous aider.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFCD5FLZ{{</world>}}

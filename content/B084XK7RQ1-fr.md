@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisation quotidienne pour une peau douce
-- Hydrate intensément la peau
 - Optimal pour les peaux sèches et sensibles
 - Texture légère à absorption rapide
+- Hydrate intensément la peau
 - Enrichi en ingrédients naturels
 
 [🛒 Achète-le!!]({{< param buyurl >}})

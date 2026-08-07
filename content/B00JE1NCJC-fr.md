@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CRÉATIONS ARTISTIQUES : Possibilité denregistrer jusquà 350 créations : coloriage dimages, choix de décors, de personnages (dinosaures, créatures marines…) et de couleurs pour créer ses propres images
-- INCLUS : Écran couleur et clavier AZERTY / Réglage du volume sonore et arrêt automatique / Fonctionne avec 3 piles LR6 (incluses) ou un adaptateur secteur (vendu séparément)
-- ACTIVITÉS : 80 activités réparties en 27 catégories pour découvrir le dessin, les lettres, le son des lettres, lorthographe, le vocabulaire, les chiffres, le calcul, la musique, les sciences, la logique et bien plus encore !
-- VERSION : Française
-- ÂGE : de 5 à 8 ans, un tablette éducative 2 en 1 avec écran couleur qui se transforme en ordinateur portable
 - APPRENTISSAGES : Français, anglais, mathématiques, sciences, créativité, logique… 200 mots de vocabulaire, les lettres, leurs sons et 3 niveaux de difficulté permettent à l’enfant d’évoluer à son rythme
+- VERSION : Française
+- ACTIVITÉS : 80 activités réparties en 27 catégories pour découvrir le dessin, les lettres, le son des lettres, lorthographe, le vocabulaire, les chiffres, le calcul, la musique, les sciences, la logique et bien plus encore !
+- INCLUS : Écran couleur et clavier AZERTY / Réglage du volume sonore et arrêt automatique / Fonctionne avec 3 piles LR6 (incluses) ou un adaptateur secteur (vendu séparément)
+- ÂGE : de 5 à 8 ans, un tablette éducative 2 en 1 avec écran couleur qui se transforme en ordinateur portable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00JE1NCJC{{</world>}}

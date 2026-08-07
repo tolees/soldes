@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure SoftFoam+
 - Flyer Lite 3
-- Tige basse
 - Détails de la marque PUMA
+- Semelle intérieure SoftFoam+
+- Tige basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1YK7WMM{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VOTRE ROUTINE ANTI-IMPERFECTIONS : Appliquer matin et soir sur la peau humide du visage et/ou du corps. Faire mousser, puis rincer. Sécher délicatement sans frotter. Pour un résultat optimal, compléter avec le Soin Concentré Anti-Imperfections.
-- FORMULE HAUTE TOLÉRANCE : Développé et testé sous contrôle dermatologique et approuvé par lAssociation Française de lacné, ce gel lavant hypoallergénique est formulé sans parfum et sans savon. Non irritant, il est non comédogène.
 - À LACIDE SALICYLIQUE : Ce gel nettoyant est formulé à partir de 2% dacide salicylique pour lisser et exfolier la peau en douceur tout en désobstruant les pores. Il est enrichi en argile blanche, niacinamide, acide hyaluronique et céramides.
+- FORMULE HAUTE TOLÉRANCE : Développé et testé sous contrôle dermatologique et approuvé par lAssociation Française de lacné, ce gel lavant hypoallergénique est formulé sans parfum et sans savon. Non irritant, il est non comédogène.
+- VOTRE ROUTINE ANTI-IMPERFECTIONS : Appliquer matin et soir sur la peau humide du visage et/ou du corps. Faire mousser, puis rincer. Sécher délicatement sans frotter. Pour un résultat optimal, compléter avec le Soin Concentré Anti-Imperfections.
 - PURIFIE & RÉDUIT LES IMPERFECTIONS : Le Gel Moussant CeraVe Anti-imperfections purifie en douceur, réduit lexcès de sébum, les boutons et imperfections des peaux sujettes à lacné, tout en apaisant, hydratant et restaurant la barrière cutanée.
 - SOINS DERMATOLOGIQUES CIBLÉS : CeraVe propose des soins cutanés développés avec des dermatologues à partir de 3 céramides essentiels, avec un système de diffusion révolutionnaire, pour aider à restaurer la barrière naturelle protectrice de la peau.
 

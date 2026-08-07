@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COOKEO, LE MULTICUISEUR CONNECTÉ LE PLUS RAPIDE DE MOULINEX: un choix infini de plats et plus de 100recettes express prêtes en moins de 15minutes, avec un multicuiseur qui permet de cuire sous pression, à la vapeur, faire mijoter et bien plus encore !
 - UN MAXIMUM D’INSPIRATION : accédez à des milliers de recettes directement depuis lécran de votre Cookeo. Choisissez vos recettes en fonction de vos goûts, du temps et des ingrédients que vous avez, et envoyez-les sur votre Cookeo grâce à lapplication MyMoulinex connectée en Wi-Fi
-- RÉPARABILITÉ 15ANS AU JUSTE PRIX: engagement de réparabilité 15ans au juste prix grâce à notre réseau de 6200réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- COOKEO, LE MULTICUISEUR CONNECTÉ LE PLUS RAPIDE DE MOULINEX: un choix infini de plats et plus de 100recettes express prêtes en moins de 15minutes, avec un multicuiseur qui permet de cuire sous pression, à la vapeur, faire mijoter et bien plus encore !
 - MULTICUISEUR TOUT-EN-UN: profitez chaque jourdune grande variété de plats faits maison grâce à ses 10 modes de cuisson (cuisson sous pression,cuisson vapeur,mijoter, sauter/dorer, slow cooking, yaourt, sous-vide, levée de pâte (pain, brioche...), réchauffer, maintien au chaud), et transformez même votre Cookeo en air fryer grâce à laccessoire EXTRA CRISP inclus et ses 4 modes de cuisson (air fry, rotir, griller, cuire au four) Friteuse sans huile
+- RÉPARABILITÉ 15ANS AU JUSTE PRIX: engagement de réparabilité 15ans au juste prix grâce à notre réseau de 6200réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - DES PLATS FACILES ET DES RÉSULTATS PARFAITS EN UN RIEN DE TEMPS : laissez-vous guider pas à pas sur lécran couleur de votre Cookeo pour réaliser des recettes saines et savoureuses, avec des résultats parfaits à chaque fois
 
 [🛒 Achète-le!!]({{< param buyurl >}})

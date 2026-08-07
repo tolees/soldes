@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adaptable à toutes les saisons grâce à la capuche tempête ajustable et amovible
-- Contenu : 1 x Columbia Softshell Cascade Ridge II, Veste, Homme, Composition : Softshell 100 % polyester, Tricot 100 % polyester, Noir (Black), S, 1516251
 - Poche de poitrine et poche chauffe-mains pour garder les effets personnels en sécurité
+- Contenu : 1 x Columbia Softshell Cascade Ridge II, Veste, Homme, Composition : Softshell 100 % polyester, Tricot 100 % polyester, Noir (Black), S, 1516251
+- Adaptable à toutes les saisons grâce à la capuche tempête ajustable et amovible
 - Poignets ajustables et cordon de serrage réglable
 - Idéale par temps pluvieux grâce au tissu résistant à leau
 

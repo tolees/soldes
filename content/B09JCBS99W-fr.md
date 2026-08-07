@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LOT DE 10 CAHIERS BLEUS : idéal pour les listes scolaires, les écoles et collectivités. MAXI FORMAT : format scolaire, idéal pour glisser ou coller les feuilles A4 (21x29,7 cm) distribuées en classe
+- ÉCONOMIQUE : cahier protège-cahiers tout en 1 ! Couverture opaque en polypro 100 % recyclé, imperméable et indéchirable. RELIURE PIQUÉE : le bon rapport qualité/prix. Les pages sont reliées entre elles par des agrafes
 - MADE IN FRANCE et CERTIFIÉ PEFC : pour la gestion durable des forêts
 - PRATIQUE : 2 rabats-pochettes intégrés à la couverture pour marquer les pages et ranger les documents utiles + 1 étiquette adhésive pour personnaliser le cahier
-- ÉCONOMIQUE : cahier protège-cahiers tout en 1 ! Couverture opaque en polypro 100 % recyclé, imperméable et indéchirable. RELIURE PIQUÉE : le bon rapport qualité/prix. Les pages sont reliées entre elles par des agrafes
 - DOUCEUR DE L’ÉCRITURE : papier Clairefontaine Blanc Vélin Velouté 90 g/m² de QUALITÉ SUPÉRIEURE avec une opacité et une résistance remarquables
-- LOT DE 10 CAHIERS BLEUS : idéal pour les listes scolaires, les écoles et collectivités. MAXI FORMAT : format scolaire, idéal pour glisser ou coller les feuilles A4 (21x29,7 cm) distribuées en classe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JCBS99W{{</world>}}

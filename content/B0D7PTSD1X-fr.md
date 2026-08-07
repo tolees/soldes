@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Avec 5 mini-poupées Princesses Disney et 5 figurines d’amis, ce coffret est idéal pour raconter des histoires merveilleuses inspirées des films Disney !
 - Les fans peuvent collectionner l’ensemble des coffrets et mini-poupées Princesses Disney pour encore plus d’aventures ! Articles vendus séparément. Certains produits peuvent ne pas être commercialisés.
-- Le coffret inclut également cinq autres figurines, chaque princesse étant accompagnée de l’un de ses amis : Polochon (Ariel), Ray (Tiana), Chip (Belle), Rajah (Jasmine) et Pascal (Raiponce).
 - Une excellente idée de cadeau pour les enfants qui veulent recréer les meilleurs moments des films Disney ou imaginer leurs propres histoires de contes de fées !
 - Comprend les mini-poupées articulées suivantes, chacune mesurant près de 9 cm : Ariel, Tiana, Belle, Jasmine et Raiponce. Chaque poupée porte une jupe ou un pantalon amovible orné d’un imprimé unique évoquant l’ami qui l’accompagne.
+- Le coffret inclut également cinq autres figurines, chaque princesse étant accompagnée de l’un de ses amis : Polochon (Ariel), Ray (Tiana), Chip (Belle), Rajah (Jasmine) et Pascal (Raiponce).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7PTSD1X{{</world>}}

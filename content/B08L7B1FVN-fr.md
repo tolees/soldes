@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrefort de talon renforcé.
 - Pointe arrondie douce.
+- Contrefort de talon renforcé.
 - Semelle côtelée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

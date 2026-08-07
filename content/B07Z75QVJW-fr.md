@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connaissances et quiz : qui connaît le mieux à Poudlard et avec les héros de la célèbre série de films Harry Potter ?
 - Comprend un plateau de jeu et une tour de dés
 - Le jeu de quiz est adapté pour 2 joueurs ou plus à partir de 12 ans
 - TRIVIAL PURSUIT est le jeu de quiz le plus populaire de tous les temps et la mère de tous les jeux de connaissances
 - TRIVIAL PURSUIT Le monde de Harry Potter contient 1. 800 questions et réponses passionnantes autour de Harry, Ron, Hermione & Co.
+- Connaissances et quiz : qui connaît le mieux à Poudlard et avec les héros de la célèbre série de films Harry Potter ?
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Z75QVJW{{</world>}}

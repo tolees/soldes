@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - INTENSITÉ DES COULEURS HDR400 - Supporte des paramètres Gaming ultra-réalistes avec une gamme de profondeur 8 bits de 1.07 milliard de couleurs (122,5% sRGB, 91,5% DCI-P3), luminosité VESA DisplayHDR 400 & contraste dynamique
 - CONNECTIVITÉ DE POINTE - Les options dinterface vidéo incluent DisplayPort 1.4 et USB Type-C (UWQHD/144Hz) ainsi que ports HDMI 2.0 avec fonctionnalité CEC; Mais aussi: USB 2.0 Type-A & -B, prise audio combo & Bouton de navigation 5 directions
-- LEXPÉRIENCE GAMING ULTIME - MSI Gaming Intelligence offre un avantage concurrentiel (Smart Crosshair, Optix Scope) & des logiciels supportés par IA (Smart Brightness, Sound Tune); Technologie KVM 3.0 pour connecter simultanément 2 systèmes à un moniteur
 - DESIGN & UTILITAIRES INTELLIGENTS - Cadre fin, éclairage ambiant Mystic Light RGB, bungee intégré et pied de support réglable dans 3 directions; True Color Sync & Gaming Intelligence pour des fonctions multi-affichage & multi-contrôleur faciles
+- LEXPÉRIENCE GAMING ULTIME - MSI Gaming Intelligence offre un avantage concurrentiel (Smart Crosshair, Optix Scope) & des logiciels supportés par IA (Smart Brightness, Sound Tune); Technologie KVM 3.0 pour connecter simultanément 2 systèmes à un moniteur
 - 34" UWQHD, IPS 144Hz - Dalle IPS ultra haute définition 3440 x 1440 (21:9) avec taux de rafraîchissement élevé 144Hz (compatible G-SYNC) pour visée/suivi de mouvements fluide; Faible temps de réponse de 1ms pour éliminer les déchirures & images saccadées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

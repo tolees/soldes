@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ♻️ Bouteille deau isotherme écologique
 - 💪 Matériau durable et sans BPA
+- ♻️ Bouteille deau isotherme écologique
 - 🤖 Joli thème original de Stormtrooper
 
 [🛒 Achète-le!!]({{< param buyurl >}})

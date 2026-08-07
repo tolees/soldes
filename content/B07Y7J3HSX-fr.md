@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Description du produit: Krups EA8105
-- produit 2: Nettoyage complet du circuit d’eau afin de lutter contre les corps gras
-- produit 1: Technologie de préparation de café: Goutte
 - produit 2: Pastilles détergentes pour Espresseria
-- produit 1: Design de la caisse: Autonome
 - produit 1: Couleur: Blanc
+- produit 2: Nettoyage complet du circuit d’eau afin de lutter contre les corps gras
+- produit 1: Design de la caisse: Autonome
+- produit 1: Description du produit: Krups EA8105
 - produit 2: Protège l’espresso contre les risques de surchauffe
+- produit 1: Technologie de préparation de café: Goutte
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Y7J3HSX{{</world>}}

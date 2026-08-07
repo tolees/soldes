@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - APPLICATION - Adapté aux ampoules dun diamètre de 50 mm comme GU10 ou LED Coins Paulmann
 - NE PAS OUBLIER - commander lampoule adaptée en même temps !
 - KIT - kit de 3 bagues de montage. Les bagues de montage sont faciles à installer.
-- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 - RENDU LUMINEUX - Ce luminaire encastré haut de gamme crée une atmosphère agréable et confère un confort supplémentaire à chaque pièce
+- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DCZ11QBV{{</world>}}

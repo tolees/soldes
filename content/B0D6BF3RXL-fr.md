@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivité sans effort et conception connecté : la technologie iCUE LINK vous permet de connecter en série tous vos composants ensemble avec des connecteurs universels, le tout branché sur un seul port du hub système iCUE LINK inclus. Assemblez plus rapidement, réduisez l’encombrement des câbles et créez un système unifié plus intelligent
-- Refroidissement silencieux contrôlé par PWM et Mode Zero RPM : Choisissez la vitesse de vos ventilateurs jusqu’à 2 100 tr/min avec la commande PWM, avec signaux Zero RPM PWM qui permettent aux ventilateurs de s’arrêter complètement à basse température, éliminant ainsi complètement le bruit du ventilateur
 - Le watercooling AIO du processeur devient facile avec iCUE LINK : Le watercooling AIO haute performance et silencieux vous permet de tirer le meilleur parti de votre processeur, à travers lécosystème iCUE LINK pour des connexions simplifiées et rationalisées
 - Chambre de refroidissement FlowDrive : Une pompe performante alimentée par un moteur triphasé, combinée à un profil de surface de plaque froid conçu avec précision pour assurer un contact maximal avec le dissipateur thermique intégré de votre processeur, constitue le moteur FlowDrive ultra-efficace de CORSAIR
+- Refroidissement silencieux contrôlé par PWM et Mode Zero RPM : Choisissez la vitesse de vos ventilateurs jusqu’à 2 100 tr/min avec la commande PWM, avec signaux Zero RPM PWM qui permettent aux ventilateurs de s’arrêter complètement à basse température, éliminant ainsi complètement le bruit du ventilateur
+- Connectivité sans effort et conception connecté : la technologie iCUE LINK vous permet de connecter en série tous vos composants ensemble avec des connecteurs universels, le tout branché sur un seul port du hub système iCUE LINK inclus. Assemblez plus rapidement, réduisez l’encombrement des câbles et créez un système unifié plus intelligent
 - Ventilateurs iCUE LINK RX RGB préinstallés : Les ventilateurs RX RGB sont spécialement conçus pour offrir un flux d’air et une pression statique élevés, ce qui leur permet dexceller en tant que ventilateurs de refroidissement de radiateurs. La technologie CORSAIR AirGuide et les roulements à dôme magnétique offrent des performances de refroidissement inégalées et un faible niveau de bruit
 
 [🛒 Achète-le!!]({{< param buyurl >}})

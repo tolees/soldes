@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour tous les types de cheveux.
-- Utile et avec un design super amusant.
-- Produit original de Mr. Wonderful.
 - Élastique à cheveux avec nœud et imprimé de licornes Wonder.
+- Idéal pour tous les types de cheveux.
+- Produit original de Mr. Wonderful.
+- Utile et avec un design super amusant.
 - Les petits adorent... et les plus grands aussi.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

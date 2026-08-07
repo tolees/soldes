@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour une manucure parfaite.
 - Pour nettoyer tout excès de vernis à ongles.
-- Pour les cuticules et les bords de longle.
 - 4ml.
+- Pour les cuticules et les bords de longle.
+- Pour une manucure parfaite.
 - Stylo correcteur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

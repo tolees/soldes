@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un son large bande haut de gamme et une balance tonale homogène pour les auteurs/interprètes, les DJ mobiles, etc.
 - Une clarté exceptionnelle des voix et des instruments, grâce à un système comportant huit transducteurs 2" articulés disposés en C à aimant néodyme et bande passante étendue et à une couverture horizontale à 180°
-- Installez-vous, réglez le son et jouez, tout simplement, grâce au plus portable des systèmes L1 Pro, idéal pour de petites salles comme des cafés et bars
 - Plus de graves, moins d’encombrement grâce à un caisson de basses équipé d’un transducteur RaceTrack haute-excursion de 7” × 13” : des performances équivalentes à celles d’un module de basses traditionnel de 12”, avec un encombrement moindre
+- Installez-vous, réglez le son et jouez, tout simplement, grâce au plus portable des systèmes L1 Pro, idéal pour de petites salles comme des cafés et bars
 - Du véhicule à la salle en un seul trajet grâce à un système modulaire en trois parties, plus facile à emballer, transporter et installer
+- Un son large bande haut de gamme et une balance tonale homogène pour les auteurs/interprètes, les DJ mobiles, etc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08W5G7NF3{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus en cuir enduit de polyuréthane et maille respirante
-- Merrell Semelle extérieure en caoutchouc collant avec traction durable qui adhère quand et où vous en avez besoin
-- Dentelle élastique 100 % recyclée et col extensible pour un enfilage et un retrait faciles
 - Semelle intermédiaire légère en mousse EVA pour plus de stabilité et de confort avec rainures flexibles bidirectionnelles FLEXconnect dans la semelle intermédiaire pour une meilleure connexion au sol
 - Semelle intérieure en mousse EVA intégrée
+- Dentelle élastique 100 % recyclée et col extensible pour un enfilage et un retrait faciles
+- Merrell Semelle extérieure en caoutchouc collant avec traction durable qui adhère quand et où vous en avez besoin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D4Z25VBB{{</world>}}

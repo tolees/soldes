@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cruelty Free : produit sans tests sur les animaux, garantissant un maximum de respect pour la vie des animaux à chaque étape de la production.
+- Pêche durable : Thon pêché de manière responsable avec des méthodes qui protègent les écosystèmes marins et soutiennent la pêche à faible impact environnemental.
 - En gelée, la ligne de gelée est le bon choix pour gâter votre chat et compléter son repas avec quelque chose de délicieux. La gelée enveloppe les morceaux de viande juteuse avec douceur et crée une combinaison darômes et de textures, qui fera ronronner votre ami à quatre pattes.
 - Sans conservateurs : ingrédients naturels et frais, sans utilisation de conservateurs artificiels, pour une alimentation saine et authentique.
-- Cruelty Free : produit sans tests sur les animaux, garantissant un maximum de respect pour la vie des animaux à chaque étape de la production.
 - Thon avec bar en gelée : la recette est basée sur de véritables filets de thon et devient encore plus délicieuse et précieuse grâce à lingrédient du merlan, connu pour sa viande tendre et très digestible
-- Pêche durable : Thon pêché de manière responsable avec des méthodes qui protègent les écosystèmes marins et soutiennent la pêche à faible impact environnemental.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2NYJV7G{{</world>}}

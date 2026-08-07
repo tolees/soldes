@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pièce de rechange de qualité équivalente à lRéférence originale (OEM) : 51833631 ; 51833631 ;
 - Matériau, forme, adaptabilité et montage testés.
 - Lancia Ypsilon à partir de 2011
+- Pièce de rechange de qualité équivalente à lRéférence originale (OEM) : 51833631 ; 51833631 ;
 - Montage côté conducteur (gauche), type éclairage LED.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

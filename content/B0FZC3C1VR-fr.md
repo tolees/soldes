@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tissu hydrofuge
 - EK30Y | 30 ans
 - Design compact idéal pour transporter uniquement lessentiel.
 - Coloris bleu cascade vibrant, parfait pour ajouter une touche de couleur à votre tenue
-- Tissu hydrofuge
 - Lextérieur hydrofuge protège vos affaires des pluies légères.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

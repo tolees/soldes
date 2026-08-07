@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jeu de construction pour garçons et filles dès 8 ans avec dragon LEGO NINJAGO – Le jouet Ninja Croc-de-tonnerre : le dragon du chaos invite les enfants à rejouer des scènes de la saison 3 de la série TV NINJAGO Le soulèvement des dragons
-- Vivez des aventures extraordinaires avec les Ninjas – Découvrez d’autres sets de jeu LEGO NINJAGO (vendus séparément) incluant des dragons, des temples et des véhicules
-- 6 minifigurines NINJAGO – Ce jouet interactif inclut les guerriers Ninjas Lloyd, Nya, Arin et Sora, ainsi que Nokt et Tyr, le chef des Draconiques, pour encourager le jeu de rôle et les mises en scène de combats entre le bien et le mal
-- Une belle idée de cadeau pour les garçons et les filles de 8 ans et plus – Ce set LEGO est un magnifique cadeau danniversaire pour les enfants dès 8 ans passionnés de Ninjas, proposant une superbe expérience de jeu et de construction
-- Tout un univers de jouets LEGO NINJAGO – La vaste collection de sets (vendus séparément) permet aux enfants de s’évader dans un monde fantastique pour laisser libre cours à leur imagination et s’amuser avec leurs héros Ninjas
 - Figurine de dragon articulée – Ce set LEGO inclut un grand dragon avec une queue, des pattes, des ailes, des pieds, une tête et une mâchoire articulés, ainsi qu’un canon à tenons sous chaque aile
 - Jouet LEGO avec construction annexe et des chaînes – Le dragon du chaos Croc-de-tonnerre est enchaîné à une petite construction annexe et peut être libéré grâce aux 2 lames prismatiques
+- Tout un univers de jouets LEGO NINJAGO – La vaste collection de sets (vendus séparément) permet aux enfants de s’évader dans un monde fantastique pour laisser libre cours à leur imagination et s’amuser avec leurs héros Ninjas
+- Une belle idée de cadeau pour les garçons et les filles de 8 ans et plus – Ce set LEGO est un magnifique cadeau danniversaire pour les enfants dès 8 ans passionnés de Ninjas, proposant une superbe expérience de jeu et de construction
+- 6 minifigurines NINJAGO – Ce jouet interactif inclut les guerriers Ninjas Lloyd, Nya, Arin et Sora, ainsi que Nokt et Tyr, le chef des Draconiques, pour encourager le jeu de rôle et les mises en scène de combats entre le bien et le mal
+- Vivez des aventures extraordinaires avec les Ninjas – Découvrez d’autres sets de jeu LEGO NINJAGO (vendus séparément) incluant des dragons, des temples et des véhicules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSCPL2Z{{</world>}}

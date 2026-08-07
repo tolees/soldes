@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revivez laction dans une vingtaine de niveaux rejouables, offrant une grande variété d’ennemis ainsi que de nombreux défis.
-- Explorez 4 mondes spectaculaires, avec des paysages et monuments emblématiques, et une destination inédite : Babylone.
 - Affrontez des boss redoutables et mettez une raclée mémorable aux légionnaires romains dans des combats épiques.
+- Explorez 4 mondes spectaculaires, avec des paysages et monuments emblématiques, et une destination inédite : Babylone.
+- Revivez laction dans une vingtaine de niveaux rejouables, offrant une grande variété d’ennemis ainsi que de nombreux défis.
 - Découvrez une toute nouvelle épopée riche en action, humour et surprises dans ce plateformer.
 - Vivez une aventure inoubliable, en incarnant Astérix & Obélix en coop local ou en solo.
 

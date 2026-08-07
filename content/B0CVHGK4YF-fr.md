@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec plus de 75 millions de disques vendus, SD Toys prévoit dhonorer lhéritage de Bob Marley en lançant une collection de trois figurines qui seront disponibles à partir de 2024.
-- Figurine en PVC inspirée du concert légendaire au Rainbow Theatre de Londres, le 4 juin 1977, qui fut laboutissement de la tournée européenne historique Exodus Tour après avoir joué en France, Belgique, Pays-Bas, Allemagne, Suède et Danemark.
 - SD TOYS Elle rend hommage cette année à Bob Marley, icône culturelle de la musique reggae et humanitaire dont la musique et sa détermination ont changé le monde pour toujours.
+- Figurine en PVC inspirée du concert légendaire au Rainbow Theatre de Londres, le 4 juin 1977, qui fut laboutissement de la tournée européenne historique Exodus Tour après avoir joué en France, Belgique, Pays-Bas, Allemagne, Suède et Danemark.
+- Avec plus de 75 millions de disques vendus, SD Toys prévoit dhonorer lhéritage de Bob Marley en lançant une collection de trois figurines qui seront disponibles à partir de 2024.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CVHGK4YF{{</world>}}

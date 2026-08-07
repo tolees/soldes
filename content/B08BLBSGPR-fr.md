@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synthétique
-- Talon bloc
-- Moyen
 - Cuir
+- Synthétique
+- Moyen
+- Talon bloc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BLBSGPR{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couvercle en polycarbonate transparent avec encoches pour le maintien des compartiments
-- Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
 - Pas de poignée
 - Attaches latérales permettant d’assembler plusieurs organiseurs: accroît la capacité de stockage - Attaches plastiques
 - Joint d’étanchéité sous le couvercle : IP53
+- Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
+- Couvercle en polycarbonate transparent avec encoches pour le maintien des compartiments
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M587QXX{{</world>}}

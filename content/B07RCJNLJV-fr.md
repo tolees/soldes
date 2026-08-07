@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : GSR 12V-35 FC, 2 batteries 3,0Ah, chargeur GAL 12V-40, adaptateur mandrin perçage GFA 12-B, renvoi d’angle GFA 12-W, mandrin excentré GFA 12-E, porte-embout GFA 12-X, dans L-BOXX 102
-- Puissance et compacité : La GSR 12V-35 FC Professional est extrêmement compacte mais néanmoins très performante (35 Nm et 1 750 tr/min), ce qui la rend idéale pour les endroits difficiles d’accès.
 - Professional 12V System. Performances compactes. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
-- Polyvalente : Le système FlexiClick offre 8 possibilités de configuration différentes avec 4 adaptateurs pouvant être fixés et combinés facilement et rapidement
 - Utilisation possible pour différents matériaux : La perceuse-visseuse est conçue pour les applications de perçage et vissage dans le bois et l’acier
+- Livré avec : GSR 12V-35 FC, 2 batteries 3,0Ah, chargeur GAL 12V-40, adaptateur mandrin perçage GFA 12-B, renvoi d’angle GFA 12-W, mandrin excentré GFA 12-E, porte-embout GFA 12-X, dans L-BOXX 102
+- Polyvalente : Le système FlexiClick offre 8 possibilités de configuration différentes avec 4 adaptateurs pouvant être fixés et combinés facilement et rapidement
+- Puissance et compacité : La GSR 12V-35 FC Professional est extrêmement compacte mais néanmoins très performante (35 Nm et 1 750 tr/min), ce qui la rend idéale pour les endroits difficiles d’accès.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RCJNLJV{{</world>}}

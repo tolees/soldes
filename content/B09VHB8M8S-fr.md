@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne pesant que 720 g, cette puissante batterie à 10 cellules se charge en seulement 50 minutes grâce à notre technologie de charge intelligente
-- La batterie lithium-ion 4 Ah est conçue pour offrir une autonomie prolongée à nos outils portatifs compacts dont le poids et la facilité de manipulation sont de première importance.
 - Tous les blocs batterie EXT Evolution sont compatibles avec les outils sans fil 18 V EXT Erbauer.
 - Elle est équipée dun système intelligent de gestion des batteries qui les protège contre les surtensions, les surintensités et les surchauffes
+- La batterie lithium-ion 4 Ah est conçue pour offrir une autonomie prolongée à nos outils portatifs compacts dont le poids et la facilité de manipulation sont de première importance.
+- Ne pesant que 720 g, cette puissante batterie à 10 cellules se charge en seulement 50 minutes grâce à notre technologie de charge intelligente
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VHB8M8S{{</world>}}

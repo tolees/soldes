@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard
 - Semelle de propreté antimicrobienne Ortholite
-- Semelle extérieure Traxion
-- Amorti LIGHTMOTION
-- Tige en textile et synthétique
-- Drop semelle intermédiaire : 10 mm (talon : 30 mm/avant-pied : 20 mm)
-- Fermeture à lacets
-- Poids : 366,2 grammes (taille UK 8,5)
 - CLIMAPROOF
+- Amorti LIGHTMOTION
+- Fermeture à lacets
+- Coupe standard
+- Drop semelle intermédiaire : 10 mm (talon : 30 mm/avant-pied : 20 mm)
+- Tige en textile et synthétique
+- Semelle extérieure Traxion
+- Poids : 366,2 grammes (taille UK 8,5)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVV3YJ3{{</world>}}

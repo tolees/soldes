@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Top à manches courtes pour homme, Idéal pour toute lannée, Efficace comme couche supérieure ou comme couche de base
-- Confort optimal grâce au tissu 100% jersey de coton
 - Logo Columbia stylisé, Contrastes de couleurs à la fois modernes et classiques pour les collectionneurs averti, Apporte également un look enjoué aux personnes qui le portent pour la première fois
-- Contenu: 1x Columbia CSC Basic Logo, Haut à Manches Courtes pour Hommes, Couleur: Vert (Safari, CSC Branded), Taille: S, Art.: 1680053
 - Disponible en plusieurs couleurs, avec des possibilités de combinaison intéressantes et polyvalentes
+- Confort optimal grâce au tissu 100% jersey de coton
+- Top à manches courtes pour homme, Idéal pour toute lannée, Efficace comme couche supérieure ou comme couche de base
+- Contenu: 1x Columbia CSC Basic Logo, Haut à Manches Courtes pour Hommes, Couleur: Vert (Safari, CSC Branded), Taille: S, Art.: 1680053
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CN3S6D16{{</world>}}

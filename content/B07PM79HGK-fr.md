@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Contenu du packaging : 3 pinces de maquettiste
-- produit 1: A partir de 12 ans
-- produit 1: Idéal pour les maquettistes débutants et confirmés
-- produit 2: Descriptif produit: Jeu de 3 pinces pour maquettiste. Développés pas Revell, ces accessoires sont des incontournables pour tout amateur de construction de maquettes.
-- produit 1: Set de 6 Pinceaux de tailles différentes
 - produit 1: Bonne prise en main et de la taille 00 à 4
+- produit 1: A partir de 12 ans
+- produit 1: Set de 6 Pinceaux de tailles différentes
+- produit 1: Idéal pour les maquettistes débutants et confirmés
 - produit 2: Age minimum : 14 ans
+- produit 2: Contenu du packaging : 3 pinces de maquettiste
+- produit 2: Descriptif produit: Jeu de 3 pinces pour maquettiste. Développés pas Revell, ces accessoires sont des incontournables pour tout amateur de construction de maquettes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PM79HGK{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - APPLICATION: En cas de traitement initial ou de salissure importante: rapport de mélange 1:10. Pour le nettoyage général ou la saleté normale: rapport de mélange 1:50.
-- ÉLIMINATION DURABLE DES ODEURS ET DES TACHES: taches d’excréments et d’urine, odeurs d’animaux de compagnie et marques de territoire, sueur, salive et vomissures, ainsi que taches d’aliments et de boissons
-- APPLICATION: En cas de traitement initial ou de salissure importante: rapport de mélange 1:10. Pour le nettoyage général ou la saleté normale: rapport de mélange 1:50.
-- HYGIÈNE FIABLE: Environnement animal direct, domestique et commercial, installations vétérinaires et refuges pour animaux et pensions de famille
 - MODE D’ACTION NATUREL: Les micro-organismes biologiques qui le contiennent absorbent les contaminants sous forme de nourriture, les digèrent et éliminent ainsi complètement les taches et les odeurs
+- ÉLIMINATION DURABLE DES ODEURS ET DES TACHES: taches d’excréments et d’urine, odeurs d’animaux de compagnie et marques de territoire, sueur, salive et vomissures, ainsi que taches d’aliments et de boissons
+- HYGIÈNE FIABLE: Environnement animal direct, domestique et commercial, installations vétérinaires et refuges pour animaux et pensions de famille
+- APPLICATION: En cas de traitement initial ou de salissure importante: rapport de mélange 1:10. Pour le nettoyage général ou la saleté normale: rapport de mélange 1:50.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07D9VMYR9{{</world>}}

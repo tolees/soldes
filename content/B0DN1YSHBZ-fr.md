@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plusieurs modes de difficulté : du débutant au vétéran
 - Vue à la 3ème personne : Gameplay plus moderne et immersif
+- RE Engine : Des zombies et des décors comme vous n’en n’avez jamais vus
 - Localisation des dégâts : chaque balle compte, visez au plus juste !
 - 2 personnages jouables / 2 scénarios : Incarnez Léon ou Claire dans 2 scénarios propres
-- RE Engine : Des zombies et des décors comme vous n’en n’avez jamais vus
+- Plusieurs modes de difficulté : du débutant au vétéran
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DN1YSHBZ{{</world>}}

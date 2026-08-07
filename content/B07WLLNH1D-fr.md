@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ras du cou côtelé
 - Tissu Nike dry
 - Matériel: Polyester
-- Ras du cou côtelé
 - Ajustement régulier
 
 [🛒 Achète-le!!]({{< param buyurl >}})

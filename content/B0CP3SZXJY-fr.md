@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SOLUTION DE MOBILITÉ 3-EN-1 COMPLÈTE (JUSQUÀ 22 kg) : comprend une poussette adaptée de la naissance jusquà 22 kg, un siège-auto CabrioFix S i-Size pour les enfants jusquà 83 cm et un sac à langer
-- CABRIOFIX S I-SIZE : siège-auto dos à la route utilisable jusquà environ 15 mois, suivant les directives européennes i-Size/ECE 129
-- SÉCURITÉ I-SIZE : la base FamilyFix 360 respecte la norme de sécurité i-Size la plus récente (R129/03) : elle permet en effet d’installer le siège dos à la route jusqu’à 4 ans, assurant ainsi une protection renforcée de la tête et du cou
-- FEEDBACK DINSTALLATION : les indicateurs visuels et le feedback audio sur la base vous informent lorsque le siège-auto est correctement installé et garantissent des voyages en toute sécurité avec votre enfant
-- ROTATION À UNE MAIN FLEXISPIN : le système de rotation intégré à la base permet de faire pivoter les siège-auto Maxi-Cosi CabrioFix S i-Size d’une seule main
-- SIÈGE 2 EN 1 : une fois que votre enfant est prêt à sasseoir droit, le landau peut être transformé rapidement en assise et changer dorientation, en position face aux parents ou face à la rue
-- CONFORT OPTIMAL : le vrai matelas offre une sensation de lit et assure le confort de votre tout-petit, tandis que lassise peut être inclinée et installée dos à la route et face à la route
 - FACILE À UTILISER : une poussette compacte qui se plie facilement dune seule main. Panier XL (jusquà 5 kg) et suspension aux 4 roues avec 2 ressorts absorbant les chocs pour un déplacement fluide
+- SÉCURITÉ I-SIZE : la base FamilyFix 360 respecte la norme de sécurité i-Size la plus récente (R129/03) : elle permet en effet d’installer le siège dos à la route jusqu’à 4 ans, assurant ainsi une protection renforcée de la tête et du cou
 - VERROUILLAGE DE LA ROTATION TRAVELSAFE : grâce au verrouillage de la rotation TravelSafe, votre bébé est installé dos à la route jusqu’à environ 15 mois sur la base rotative du siège-auto, ce qui vous offre une grande tranquillité d’esprit
+- CABRIOFIX S I-SIZE : siège-auto dos à la route utilisable jusquà environ 15 mois, suivant les directives européennes i-Size/ECE 129
+- SIÈGE 2 EN 1 : une fois que votre enfant est prêt à sasseoir droit, le landau peut être transformé rapidement en assise et changer dorientation, en position face aux parents ou face à la rue
+- ROTATION À UNE MAIN FLEXISPIN : le système de rotation intégré à la base permet de faire pivoter les siège-auto Maxi-Cosi CabrioFix S i-Size d’une seule main
+- FEEDBACK DINSTALLATION : les indicateurs visuels et le feedback audio sur la base vous informent lorsque le siège-auto est correctement installé et garantissent des voyages en toute sécurité avec votre enfant
+- CONFORT OPTIMAL : le vrai matelas offre une sensation de lit et assure le confort de votre tout-petit, tandis que lassise peut être inclinée et installée dos à la route et face à la route
+- SOLUTION DE MOBILITÉ 3-EN-1 COMPLÈTE (JUSQUÀ 22 kg) : comprend une poussette adaptée de la naissance jusquà 22 kg, un siège-auto CabrioFix S i-Size pour les enfants jusquà 83 cm et un sac à langer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CP3SZXJY{{</world>}}

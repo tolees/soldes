@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Viscosité à 100°C D 445 CSt 11.7. Viscosité à 40°C D 445 CSt 72.4
 - Point déclair COC D 92°C 210 SAE Class 75W-85 Point de stockage D 97°C -45.
 - Contenu de la boîte : 1 pièce de 4 litres comme indiqué sur limage du produit.
-- Viscosité à 100°C D 445 CSt 11.7. Viscosité à 40°C D 445 CSt 72.4
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00G31H7OC{{</world>}}

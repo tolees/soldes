@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Chaussures Mary Jane avec talon, bout carré et fermetures réglables
 - Semelle en cuir respirante et rembourrée
-- Semelle en caoutchouc
 - Hauteur du talon : 5,5 cm
+- Semelle en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVGWHB1Q{{</world>}}

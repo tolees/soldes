@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE SECURITE A 360° - Profitez dune sécurité améliorée grâce à des fonctionnalités telles que la vérification au démarrage et limpression sécurisée par code PIN, assurant une protection maximale pour vos documents, périphériques et réseau.
 - IMPRIMEZ DEPUIS VOTRE MOBILE - Imprimez facilement des documents depuis votre smartphone ou votre tablette avec lapplication Canon PRINT Business ou via AirPrint (iOS) et Mopria (Android).
+- OPTIMISEZ VOS OPERATIONS QUOTIDIENNES - Simplifiez limpression et la numérisation en créant vos raccourcis personnalisés accessibles directement depuis le panneau de contrôle et personnalisez linterface avec des icônes de type glisser-déposer.
+- UNE SECURITE A 360° - Profitez dune sécurité améliorée grâce à des fonctionnalités telles que la vérification au démarrage et limpression sécurisée par code PIN, assurant une protection maximale pour vos documents, périphériques et réseau.
 - AMELIOREZ LA PRODUCTIVITE - Imprimez, copiez, numérisez et télécopiez. Vitesses dimpression rapides jusquà 40 ppm en recto et 30,2 ppm en recto/verso, des vitesses de numérisation maximales de 100 ppm et un temps de préchauffage de 14 secondes.
 - COLLABOREZ DANS LE CLOUD - Imprimez et numérisez de manière facile et rapide directement vers et depuis le cloud grâce aux services de stockage tels que Google Drive, Dropbox et OneDrive.
-- OPTIMISEZ VOS OPERATIONS QUOTIDIENNES - Simplifiez limpression et la numérisation en créant vos raccourcis personnalisés accessibles directement depuis le panneau de contrôle et personnalisez linterface avec des icônes de type glisser-déposer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CCVPBVQZ{{</world>}}

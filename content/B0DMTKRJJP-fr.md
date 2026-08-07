@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ✔️ Boîtier compact Micro Tower
 - ✔️ Pré-équipé de trois ventilateurs ARGB 120mm, dont deux à lavant
-- ✔️ Convient pour des refroidisseurs de CPU jusquà 175mm, des cartes graphiques jusquà 330mm et des blocs dalimentation jusquà 170mm
 - ✔️ Design en maille perméable à lair à lavant pour un meilleur flux dair
+- ✔️ Convient pour des refroidisseurs de CPU jusquà 175mm, des cartes graphiques jusquà 330mm et des blocs dalimentation jusquà 170mm
 - ✔️ Conçu pour les cartes mères Mini ITX et Micro ATX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

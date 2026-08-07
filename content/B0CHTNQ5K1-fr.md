@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sandales plates pour femme. Cuir nappa blanc. Fermeture Velcro. Doublure en cuir.
 - Hauteur du talon : 4,50 cm
-- Semelle anatomique. Semelle en polyuréthane flexible et durable.
 - Fabriqué en Espagne
+- Semelle anatomique. Semelle en polyuréthane flexible et durable.
+- Sandales plates pour femme. Cuir nappa blanc. Fermeture Velcro. Doublure en cuir.
 - Panama Jack Sandales blanches pour femme
 
 [🛒 Achète-le!!]({{< param buyurl >}})

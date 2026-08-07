@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La qualité Schott NYC depuis 1913
-- Manche Longue
 - Fermeture éclair
+- Manche Longue
+- La qualité Schott NYC depuis 1913
 - Décontracté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

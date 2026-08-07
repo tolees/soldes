@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système anti-goutte, Compatible avec les filtres 1x2, Réservoir d’eau à double graduation, Indicateur du niveau d’eau, Verseuse graduée, Bouton On/Off lumineux
 - Contenu : 1 Cafetière à filtre Melitta Single 5, Blanc, M720-1/1, 5 filtres à café Original blanc Melitta, Poids : 1,33 kg, Dimensions (lxHxP) : 21,5 x 29 x 15 cm, Longueur du câble 90 cm
 - Porte-filtre amovible, Arrêt automatique, 650 W, Conçu en Allemagne
 - Réveillez-vous avec une tasse de café doux et riche en arôme, Réservoir d’eau gradué pour 5 grandes tasses (125 ml) ou 7 petites tasses (85 ml)
 - Goût exceptionnel : la température d’extraction optimale même pour les petites quantités grâce à la valve de régulation, Maintien du café au chaud pendant 30 minutes, Verseuse en verre borosilicate
+- Système anti-goutte, Compatible avec les filtres 1x2, Réservoir d’eau à double graduation, Indicateur du niveau d’eau, Verseuse graduée, Bouton On/Off lumineux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00JLZZ19K{{</world>}}

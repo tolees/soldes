@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Il intègre 3 modes de nettoyage automatique : cycles de 6 heures, 10 heures et 14 heures. horloge automatique 24 heures/cycle
 - 220 - 240 V avec GFCI (commutateur de circuit avec prise de terre)
 - Système de chlore Intex Salina avec panneau de commande numérique; chlore généré : 5g/h. Nécessite des purificateurs avec un débit compris entre 2 650 et 11 355 litres/heure et piscine dune capacité maximale de 26 500 litres/eau
-- Il intègre 3 modes de nettoyage automatique : cycles de 6 heures, 10 heures et 14 heures. horloge automatique 24 heures/cycle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CD45LXK{{</world>}}

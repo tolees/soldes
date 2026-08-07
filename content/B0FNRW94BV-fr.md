@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 7 CARTES (MISE À JOUR 2025) : enrichissez vos choix tactiques sur le champ de bataille.
-- DES TROOPERS EN RENFORT : entraînés collectivement dès leur naissance, les soldats clones opèrent en cohésion au sein d’unités efficaces et flexibles.
-- EXTENSION RÉPUBLIQUE GALACTIQUE : idéal en complément de la Boîte de Démarrage de la République Galactique.
 - FIGURINES DÉTAILLÉES : 11 miniatures en plastique dur, avec des sculptures retravaillées pour une qualité de détail exceptionnelle et personnalisation phase I/phase II.
+- EXTENSION RÉPUBLIQUE GALACTIQUE : idéal en complément de la Boîte de Démarrage de la République Galactique.
+- 7 CARTES (MISE À JOUR 2025) : enrichissez vos choix tactiques sur le champ de bataille.
 - JEU DE FIGURINES STRATÉGIQUE : développez votre armée dans STAR WARS : Legion avec ces renforts de soldats clones.
+- DES TROOPERS EN RENFORT : entraînés collectivement dès leur naissance, les soldats clones opèrent en cohésion au sein d’unités efficaces et flexibles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FNRW94BV{{</world>}}

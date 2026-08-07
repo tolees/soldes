@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure/caractéristiques : EVA pour la légèreté
-- Couleur : noir
-- Coutures à 360° pour plus de durabilité
 - Hauteur :
+- Coutures à 360° pour plus de durabilité
+- Couleur : noir
+- Semelle extérieure/caractéristiques : EVA pour la légèreté
 - Dessus : cuir (cuir de veau)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

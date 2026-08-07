@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Papillon a ensorcelé 6 collégiens pour quils terrorisent la ville.
 - Pour enfants à partir de 5 ans.
-- Contenu: 1 plateau de jeu, 4 pions de Ladybug, 1 pion de Chat Noir, 1 pion de Papillon, 6 pions de collégiens, des décors en carton, 5 jetons akuma, 1 dé de déplacement, 4 dés de bataille.
 - Aide Ladybug et Chat Noir à les libérer de leurs akumas dans un combat de dés, pour gagner des indices et découvrir où se cache Papillon.
+- Contenu: 1 plateau de jeu, 4 pions de Ladybug, 1 pion de Chat Noir, 1 pion de Papillon, 6 pions de collégiens, des décors en carton, 5 jetons akuma, 1 dé de déplacement, 4 dés de bataille.
 - Ensuite lance-toi à la poursuite de papillon pour le combattre. Le premier joueur qui rejoint papillon et le bat au combat de dés, sauve Paris et remporte la partie.
+- Papillon a ensorcelé 6 collégiens pour quils terrorisent la ville.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079NS9QTS{{</world>}}

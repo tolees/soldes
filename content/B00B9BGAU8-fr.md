@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- REMARQUE: Alternator Freewheel Clutch, Inner Diameter: 17, Outer Diameter: 57,5, Width: 33,6
 - COMPATIBLE AVEC: CITROËN BERLINGO / BERLINGO FIRST Großraumlimousine (MF_, GJK_, GFK_, BERLINGO / BERLINGO FIRST Kasten/Großraumlimousine, BERLINGO Kasten/Großraumlimousine, BERLINGO MULTISPACE, C2, C2 ENTERPRISE, C3 I, C3 PICASSO, C3 Pluriel, C4 Coupe, C4 GRAND PICASSO I, C4 I, C4 I Stufenheck, C4 II, C4 PICASSO I Großraumlimousine, C5 I, C5 I Break, C5 II, C5 II Break, C5 III, C5 III Break, C8, EVASION Großraumlimousine, JUMPER I Bus, JUMPER I Kasten, JUMPER I Pritsche/Fahrgestell, JUMPY I,
 - ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
-- REMARQUE: Alternator Freewheel Clutch, Inner Diameter: 17, Outer Diameter: 57,5, Width: 33,6
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B9BGAU8{{</world>}}

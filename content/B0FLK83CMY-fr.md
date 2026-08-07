@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BATTERIE: Jusqu’à 100 heures découte, ou 50 heures avec la réduction de bruit activée. Et jusquà 50 heures de temps dappel. Grâce à son chargeur USB-C, la batterie se recharge complètement en moins de 2 heures.
-- ANC:Isolez-vous des bruits ambiants avec la réduction de bruit hybride. En sadaptant à votre environnement, et en basculant automatiquement entre les modes haut, moyen et bas. Le Mode Transparence laisse entrer une partie du monde extérieur.
 - COMMANDES INTUITIVES: Pilotez vos écouteurs directement depuis votre casque grâce aux boutons dédiés. Glissez pour régler les basses ou les aigus. Tournez pour régler le volume. Appuyez pour passer dune fonction à lautre. Pas dapplications. Pas décrans. Rien quun son pur, sans entrave.
-- HI-RES: Prenant en charge LDAC et les certifications Hi-Res avec ou sans fil, le CMF Headphone Pro fournit un son haute résolution dans chaque mode, pour un rendu musical aussi fidèle que possible.
+- ANC:Isolez-vous des bruits ambiants avec la réduction de bruit hybride. En sadaptant à votre environnement, et en basculant automatiquement entre les modes haut, moyen et bas. Le Mode Transparence laisse entrer une partie du monde extérieur.
+- BATTERIE: Jusqu’à 100 heures découte, ou 50 heures avec la réduction de bruit activée. Et jusquà 50 heures de temps dappel. Grâce à son chargeur USB-C, la batterie se recharge complètement en moins de 2 heures.
 - SPATIAL AUDIO:Static Spatial Audio vous enveloppe dun paysage sonore grâce aux modes Cinéma et Concert. Chaque mode est réglé pour optimiser la largeur, la profondeur et la clarté du paysage sonore.
+- HI-RES: Prenant en charge LDAC et les certifications Hi-Res avec ou sans fil, le CMF Headphone Pro fournit un son haute résolution dans chaque mode, pour un rendu musical aussi fidèle que possible.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FLK83CMY{{</world>}}

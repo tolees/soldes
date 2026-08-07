@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CABINZERO CLASSIC 28L ULTRA LIGHT CABIN BAG WITH LUGGAGE TRACKERS.
-- TRAVEL
 - WEIGHT: 600 g / 1 lb 5 ounces CAPACITY: 28L DIMENSIONS: 39 x 29.5 x 20 cm / 15.4 x 11.6 x 7 inch LAPTOP SIZE (SLEEVE): Up to 15,6 600 denier polyester fabric Abrasion-resistant fabric Water-resistant coating YKK zippers - Features the highest quality primary zips
 - This is the original zero-hassle travel bag, designed to accompany you on planes and trains, stashed under the seat or perched on a camel’s back. The CABINZERO Classic backpack is as well-travelled as you are, is made for adventures and is part of the journey, not an afterthought
+- TRAVEL
+- CABINZERO CLASSIC 28L ULTRA LIGHT CABIN BAG WITH LUGGAGE TRACKERS.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00SM0M9WC{{</world>}}

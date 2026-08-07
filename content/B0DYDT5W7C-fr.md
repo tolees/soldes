@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour soutenir les initiatives de l’UE visant à réduire les déchets électroniques, l’alimentation électrique est désormais vendue séparément. Pour en savoir plus sur la charge de votre appareil Surface, consultez aka.ms/SurfaceChargingOptions
-- Écran éclatant : Une qualité d’image hors norme. L’écran tactile PixelSense Flow de 12 pouces offre une expérience visuelle lumineuse et immersive.
-- Toujours chargé et prêt à lusage : Rangez et rechargez le stylet Surface Slim Pen² (vendu séparément) directement dans le nouvel espace magnétique situé à l’arrière de Surface Pro.
-- De lénergie pour toute la journée : Jusqu’à 16 heures d’autonomie¹ en lecture vidéo locale pour un visionnage ininterrompu
 - Copilot+ PC : Conçue par Microsoft, la Surface Pro est un tout nouveau Copilot+ PC, pour une polyvalence, une portabilité et des performances ultimes avec une expérience IA intégrée. Dotée des derniers processeurs Qualcomm Snapdragon X Plus, la Surface Pro offre des performances impressionnantes et intègre un NPU Qualcomm Hexagon offrant jusqu’à 45 TOPS pour accélérer les expériences d’IA.
+- Toujours chargé et prêt à lusage : Rangez et rechargez le stylet Surface Slim Pen² (vendu séparément) directement dans le nouvel espace magnétique situé à l’arrière de Surface Pro.
+- Écran éclatant : Une qualité d’image hors norme. L’écran tactile PixelSense Flow de 12 pouces offre une expérience visuelle lumineuse et immersive.
+- Pour soutenir les initiatives de l’UE visant à réduire les déchets électroniques, l’alimentation électrique est désormais vendue séparément. Pour en savoir plus sur la charge de votre appareil Surface, consultez aka.ms/SurfaceChargingOptions
+- De lénergie pour toute la journée : Jusqu’à 16 heures d’autonomie¹ en lecture vidéo locale pour un visionnage ininterrompu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DYDT5W7C{{</world>}}

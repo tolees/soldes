@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prise microphone (micro non inclus) pour le transformer en karaoké et chanter avec les héros de la Pat Patrouille, Chase et Stella !
 - Alimentation : prise secteur (câble inclus) ou 6 piles C/LR14 (non incluses).
-- Entrée audio auxiliaire pour tablettes et smartphones.
 - Fonction « programmation/répétition » intégrée.
+- Prise microphone (micro non inclus) pour le transformer en karaoké et chanter avec les héros de la Pat Patrouille, Chase et Stella !
+- Entrée audio auxiliaire pour tablettes et smartphones.
 - Enceintes : 3 W x 2.
 - Bluetooth 5.0, se connecte sans fil aux smartphones, tablettes et autres appareils Bluetooth !
 - Le lecteur CD (CD/CD-R/CD-RW) transportable Paw Patrol : Pat Patrouille avec de nouveaux effets de lumière multicolores, parfait pour les enfants !

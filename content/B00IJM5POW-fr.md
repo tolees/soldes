@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Harnais pour 2 boitiers; housse anti-pluie
+- Idéal pour prises de vues statiques (Mariage, etc…) ou itinérantes (Randonnée, Animalier, Mer, Montagne, Ski, etc…).
 - Emportez votre appareil photo partout où vous nauriez jamais imaginé pouvoir lemporter.
 - Le nouveau harnais COTTON Génération 3 offre un nouveau design ergonomique enveloppant avec de nouvelles fonctionnalités telles que nouveaux rangements, sangles dépaule réglables et housse anti-pluie
-- Idéal pour prises de vues statiques (Mariage, etc…) ou itinérantes (Randonnée, Animalier, Mer, Montagne, Ski, etc…).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00IJM5POW{{</world>}}

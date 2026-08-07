@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couchage floqué pour un confort optimal
+- poids: 1.93 kilograms
 - Très compact, facile à transporter et à ranger
 - Structure Fiber-Tech : plus solide, plus léger, plus confortable
-- poids: 1.93 kilograms
-- Couchage floqué pour un confort optimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XQH7RMY{{</world>}}

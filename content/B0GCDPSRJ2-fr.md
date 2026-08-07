@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poches, taille elastiquee avec cordon de serrage, jersey 100 % coton
 - Taille 4 Ans
 - Pantalon de Jogging HUGO pour enfant, coloris Bleu
-- Poches, taille elastiquee avec cordon de serrage, jersey 100 % coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GCDPSRJ2{{</world>}}

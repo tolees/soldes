@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Traitement de surface PVD
-- 16 pièces
 - Noir
+- 16 pièces
+- Traitement de surface PVD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01LQ18RQ0{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 500 W
-- 2 combinaisons de température - ventilation
-- Sèche les cheveux et le corps de bébé en douceur
 - Sécurisé, protecteur et silencieux
+- 2 combinaisons de température - ventilation
+- 500 W
+- Sèche les cheveux et le corps de bébé en douceur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GYY2FNG{{</world>}}

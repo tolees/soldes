@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Maniable car très ergonomique, il possède une poignée anti-vibration et un régulateur de vitesse.
-- produit 2: Brosse fil métal torsadé - préconisation décapage ultra fort sur surfaces planes pierre et métal (diamètre 120mm. Largeur 100mm)
-- produit 1: Spécialement conçu pour le bois extérieur. ces brosses souples et rainurées permettent datteindre les endroits difficiles.
 - produit 1: Pour rénover tous types de bois extérieur.
+- produit 1: Spécialement conçu pour le bois extérieur. ces brosses souples et rainurées permettent datteindre les endroits difficiles.
+- produit 2: Brosse fil métal torsadé - préconisation décapage ultra fort sur surfaces planes pierre et métal (diamètre 120mm. Largeur 100mm)
 - produit 1: Puissant et efficace, grâce à son moteur de 1300w, il permet de poncer et brosser pour un nettoyage complet.
+- produit 1: Maniable car très ergonomique, il possède une poignée anti-vibration et un régulateur de vitesse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R6HDN1H{{</world>}}

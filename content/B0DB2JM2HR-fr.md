@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sirona Gi i-Size Plus/Moon Black-black PU1
 - Plus de sécurité :
+- Sirona Gi i-Size Plus/Moon Black-black PU1
 - intégration rapide et facile
 - respirabilité optimale
 

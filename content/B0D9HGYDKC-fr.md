@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INDIVIDUELLEMENT OU EN ÉQUIPE : Répondez correctement à un maximum de questions, tentez de reconnaître les marques correspondant à des logos incomplets et associez des produits à leur marque.
 - ÂGE ET NOMBRE DE JOUEURS : Ce jeu familial pour enfants et adultes a été conçu pour 2 à 6 joueurs et convient à partir de 12 ans. Cest une excellente idée de cadeau à offrir pour une anniversaire ou a Noël qui ravira vos enfants et développera leur imagination et créativité.
+- FACILE POUR TOUTE LA FAMILLE : Facile à apprendre et amusant à jouer pour presque tous les âges. Logo est le jeu familial auquel vous reviendrez encore et encore !
 - DÉVELOPPER SA CULTURE : Logo, le jeu des logos et des marques pour toute la famille, est de retour avec plus de 1 500 questions sur des marques françaises et internationales !
 - UN JEU INÉDIT : Mais attention aux cartes Action et aux challenges ! Demandez à l’équipe adverse de répondre à votre place grâce à la carte Wikipedia, attrapez le totem le plus vite possible avec le challenge Red Bull et changez de position avec votre adversaire sur le plateau avec la carte Nintendo Switch !
-- FACILE POUR TOUTE LA FAMILLE : Facile à apprendre et amusant à jouer pour presque tous les âges. Logo est le jeu familial auquel vous reviendrez encore et encore !
+- INDIVIDUELLEMENT OU EN ÉQUIPE : Répondez correctement à un maximum de questions, tentez de reconnaître les marques correspondant à des logos incomplets et associez des produits à leur marque.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9HGYDKC{{</world>}}

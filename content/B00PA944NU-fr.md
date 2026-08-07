@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 0,33 mm
 - 1000 m
 - Spools économiques
 - 8,5 kg
-- 0,33 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00PA944NU{{</world>}}

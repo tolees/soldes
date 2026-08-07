@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Genre : Unisexe Adulte
 - Marque : Moroccanoil
-- Type de cheveux: Tous types de cheveux
 - Revitalise et démêle tout en redonnant du corps et du volume
+- Type de cheveux: Tous types de cheveux
+- Genre : Unisexe Adulte
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005CX1ZQS{{</world>}}

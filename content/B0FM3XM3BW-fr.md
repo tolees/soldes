@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTALLATION FACILE : le matériel dinstallation (vis et cheville) est inclus. Choisissez un endroit stratégique (au moins un par étage) puis installez les détecteurs au plafond selon les instructions du mode demploi. En fonction de la taille de votre domicile, nous recommandons dinstaller plusieurs détecteurs. Ces détecteurs sont également disponibles en lot de 4 ou à lunité.
 - BOUTON DE TEST ET FONCTION SILENCIEUX : vérifiez régulièrement le bon fonctionnement de vos appareils et pressez leur bouton de test jusquà entendre une sirène courte. Relâchez la touche pour arrêter le son. Si la sirène ne retentit pas, votre détecteur ne fonctionne pas correctement. Vous pouvez également le mettre en position silencieux lors d’une alerte pour réduire le bruit le temps d’éliminer la source de fumée.
-- PILE 5 ANS REMPLAÇABLE : restez serein tout au long de la durée de vie de vos appareils. Chaque détecteur est alimenté par une pile 9V incluse dune durée de vie de 5 ans qui ne devra être remplaçée quune seule fois au cours de la durée de vie de lappareil. Vous pouvez rester serein, car un indicateur sonore vous informe lorsque vous devez la remplacer et vous noublierez pas de le faire.
-- FIABLES ET EFFICACES : ces détecteurs de fumée répondent aux standards de qualité européens pour assurer votre sécurité. Avec leurs capteurs optiques, il vous avertissent rapidement pour vous permettre de réagir au plus vite.
 - DURÉE DE VIE DE 10 ANS: les capteurs des détecteurs de fumée ont une durée de vie de 10 ans. Passé ce délai, vous devrez remplacer vos appareils car ils ne pourront plus assurer votre sécurité avec fiabilité.
+- FIABLES ET EFFICACES : ces détecteurs de fumée répondent aux standards de qualité européens pour assurer votre sécurité. Avec leurs capteurs optiques, il vous avertissent rapidement pour vous permettre de réagir au plus vite.
+- PILE 5 ANS REMPLAÇABLE : restez serein tout au long de la durée de vie de vos appareils. Chaque détecteur est alimenté par une pile 9V incluse dune durée de vie de 5 ans qui ne devra être remplaçée quune seule fois au cours de la durée de vie de lappareil. Vous pouvez rester serein, car un indicateur sonore vous informe lorsque vous devez la remplacer et vous noublierez pas de le faire.
+- INSTALLATION FACILE : le matériel dinstallation (vis et cheville) est inclus. Choisissez un endroit stratégique (au moins un par étage) puis installez les détecteurs au plafond selon les instructions du mode demploi. En fonction de la taille de votre domicile, nous recommandons dinstaller plusieurs détecteurs. Ces détecteurs sont également disponibles en lot de 4 ou à lunité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FM3XM3BW{{</world>}}

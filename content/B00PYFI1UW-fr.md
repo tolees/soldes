@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mode
-- Classique
 - Accessoire
+- Classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00PYFI1UW{{</world>}}

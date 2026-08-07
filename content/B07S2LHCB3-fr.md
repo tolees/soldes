@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - pour piscines 4 x 8 m, 2 moteurs fond et paroi
-- Poids du colis: 13.0 kilograms
 - Couleur: Blanc / noir
+- Poids du colis: 13.0 kilograms
 - Type de source dalimentation: CA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle en EVA pour un meilleur amorti
-- Technologie vulcanisée DC IMPACT-I
-- Logo étoile DC
 - Empeigne en textile spécifique
+- Semelle en EVA pour un meilleur amorti
+- Logo étoile DC
+- Technologie vulcanisée DC IMPACT-I
 - Système de laçage classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

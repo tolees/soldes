@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SÉCURITÉ I-SIZE : CabrioFix i-Size est conçu selon les normes de sécurité UE les plus strictes (ECE R129) et peut être installé à laide de la base CabrioFix i-Size ou de la ceinture de sécurité
+- SOLUTION DE MOBILITÉ FLEXIBLE : sadapte à la plupart des poussettes Maxi-Cosi, retrait facile de la poussette d’une seule main grâce aux boutons à fonction mémoire (adaptateurs vendus séparément)
 - ACCESSOIRES : préparez-vous à toute éventualité en achetant la moustiquaire Maxi-Cosi, lhabillage pluie pour siège-auto Maxi-Cosi et les adaptateurs de siège-auto bébé Maxi-Cosi
 - SIÈGE AUTO GROUPE O+ : ce siège-auto léger dos à la route convient dès la naissance jusquà env. 12 mois, 40 - 75 cm (jusquà env. 12 kg) et possède une housse amovible lavable en machine
-- SIÈGE-AUTO BÉBÉ LÉGER (3,2 KG) : Pesant le même poids quun nouveau-né, avec seulement 3,2 kg, CabrioFix i-Size est léger et très facile à transporter de la maison à la voiture et vice-versa
-- SÉCURITÉ I-SIZE : CabrioFix i-Size est conçu selon les normes de sécurité UE les plus strictes (ECE R129) et peut être installé à laide de la base CabrioFix i-Size ou de la ceinture de sécurité
 - GRAND CANOPY DE PROTECTION : le grand canopy protège votre tout-petit des différents éléments et crée une atmosphère plus propice à la détente, en le protégeant de la lumière (du soleil)
+- SIÈGE-AUTO BÉBÉ LÉGER (3,2 KG) : Pesant le même poids quun nouveau-né, avec seulement 3,2 kg, CabrioFix i-Size est léger et très facile à transporter de la maison à la voiture et vice-versa
 - CONFORT : le coussin réducteur nouveau-né amovible (adapté jusquà 60 cm) avec coussin de tête séparé qui sadapte parfaitement à la tête de bébé et le siège molletonné assurent confort et sécurité
-- SOLUTION DE MOBILITÉ FLEXIBLE : sadapte à la plupart des poussettes Maxi-Cosi, retrait facile de la poussette d’une seule main grâce aux boutons à fonction mémoire (adaptateurs vendus séparément)
 - BASE CABRIOFIX I-SIZE : la base Maxi Cosi CabrioFix i-Size ISOFIX (vendue séparément) spécialement conçue pour le siège CabrioFix i-Size assure un ajustement parfait garantissant sécurité et stabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

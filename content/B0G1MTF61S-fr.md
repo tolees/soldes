@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imprimante multifonction couleur avec fonctions d’impression, de numérisation et de copie, Pour la maison ou les petits bureaux à la recherche de productivité et d’une qualité professionnelle
-- Impression recto verso automatique : Réduisez la consommation de papier grâce à l’impression automatique recto verso, avec des vitesses allant jusqu’à 12 ppm en noir et 7 ppm en couleur
-- Jusqu’à 3 ans d’encre HP d’origine incluse, permettant d’imprimer jusqu’à 18 000 pages en noir ou 8 000 pages en couleur
 - Configuration et utilisation quotidiennes faciles : boutons intelligents et vidéos guidées pour une installation rapide, Gardez le contrôle de vos impressions grâce aux capteurs de niveau d’encre et aux recharges simples, pour une expérience sans interruptions
-- Connectivité intelligente et simple : configurez et contrôlez l’imprimante depuis votre smartphone avec l’application HP Smart, Connexion Wi-Fi double bande 2,4/5 GHz, Wi-Fi Direct, Apple AirPrint et Mopria pour une impression sans fil fluide et sans contraintes
+- Impression recto verso automatique : Réduisez la consommation de papier grâce à l’impression automatique recto verso, avec des vitesses allant jusqu’à 12 ppm en noir et 7 ppm en couleur
 - Cette imprimante utilise des bouteilles d’encre HP d’origine : 31 cyan, 31 magenta, 31 jaune et 32XL noire de 135 ml, ainsi que les têtes d’impression HP noire et tricolore, garantissant une qualité d’impression optimale et des performances fiables
+- Connectivité intelligente et simple : configurez et contrôlez l’imprimante depuis votre smartphone avec l’application HP Smart, Connexion Wi-Fi double bande 2,4/5 GHz, Wi-Fi Direct, Apple AirPrint et Mopria pour une impression sans fil fluide et sans contraintes
+- Imprimante multifonction couleur avec fonctions d’impression, de numérisation et de copie, Pour la maison ou les petits bureaux à la recherche de productivité et d’une qualité professionnelle
+- Jusqu’à 3 ans d’encre HP d’origine incluse, permettant d’imprimer jusqu’à 18 000 pages en noir ou 8 000 pages en couleur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G1MTF61S{{</world>}}

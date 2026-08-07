@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE GPU PCI-E 5.1 - Peut délivrer jusquà 600W de puissance à un GPU PCIe 5.1 (NVIDIA et AMD) via le connecteur PCIe 16-pin natif (12V2x6) à embout jaune pour visualiser le branchement; Design monorail qui délivre une puissance précise au système.
-- ATX 3.1 ENTIÈREMENT MODULAIRE - Avec ATX 3.1, la PSU peut gérer une excursion de puissance totale x2 et de GPU x3 pour supporter même les GPU les plus exigeants; Format totalement modulaire avec câbles noirs plats (pochette de rangement inclus).
 - TAILLE COMPACTE (ATX) - Le format ATX compact de 150 mm de long et de 150 mm de large permet de sadapter facilement à la plupart des boîtiers PC. Cela libère de lespace pour la gestion des câbles et la circulation de lair dans le reste du système.
-- CERTIFIÉE 80 PLUS GOLD - Une alimentation électrique efficace réduit la consommation dénergie et la charge thermique du système; 80 PLUS Gold (jusquà 90%) est idéal pour le matériel à forte consommation dénergie comme les GPU et CPU haut de gamme.
+- ATX 3.1 ENTIÈREMENT MODULAIRE - Avec ATX 3.1, la PSU peut gérer une excursion de puissance totale x2 et de GPU x3 pour supporter même les GPU les plus exigeants; Format totalement modulaire avec câbles noirs plats (pochette de rangement inclus).
 - CONCEPTION DURABLE - Un LLC half-bridge avec convertisseur CC/CC et une conception à PFC actif garantissent une sortie de courant fiable (protection OCP, OVP, OP, OTP, SCP, UVP).
+- COMPATIBLE GPU PCI-E 5.1 - Peut délivrer jusquà 600W de puissance à un GPU PCIe 5.1 (NVIDIA et AMD) via le connecteur PCIe 16-pin natif (12V2x6) à embout jaune pour visualiser le branchement; Design monorail qui délivre une puissance précise au système.
+- CERTIFIÉE 80 PLUS GOLD - Une alimentation électrique efficace réduit la consommation dénergie et la charge thermique du système; 80 PLUS Gold (jusquà 90%) est idéal pour le matériel à forte consommation dénergie comme les GPU et CPU haut de gamme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CXQ96GG5{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formule : végétalienne
-- Application : le pinceau végétalien à effet éventail sadapte à la taille de chaque ongle pour un résultat ultra rapide, propre et soigné en 1 seule seconde, en un seul passage
-- Couleur : 340 Plumplumpidou
 - A avec 77 % dingrédients naturels, exempts de substances nocives, y compris les sulfates, lacétone et les phtalates
+- Application : le pinceau végétalien à effet éventail sadapte à la taille de chaque ongle pour un résultat ultra rapide, propre et soigné en 1 seule seconde, en un seul passage
+- Formule : végétalienne
+- Couleur : 340 Plumplumpidou
 - Healthy Mix : vernis à ongles 100 % végétalien effet manucure avec gel à application et séchage rapide
 - Effets et avantages : couleur intense et finition ultra brillante, sèche en seulement 50 secondes et le résultat dure jusquà 5 jours
 

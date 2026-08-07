@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Traitement optique multicouches exclusif Accu-ND double-face
+- Absorption 10 diaphs (ND 3.0)
 - Filtre Densité neutre pour photo & vidéo
 - Excellente neutralité colorimétrique et rendu des contrastes
 - Verre optique minéral ultra-clear à très haute résolution
-- Absorption 10 diaphs (ND 3.0)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LCYHYLR{{</world>}}

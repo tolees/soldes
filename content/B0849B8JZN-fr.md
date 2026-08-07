@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Aide à réduire les rides et ridules
 - Gel pour le visage formulé avec 25 % dacide glycolique partiellement neutralisé (équivalent à 9,5 % dacide glycolique libre)
-- Exfolie la surface de la peau;ce qui contribue à lisser la texture et à favoriser le processus de renouvellement de la peau
 - Augmente léclat de la peau
+- Exfolie la surface de la peau;ce qui contribue à lisser la texture et à favoriser le processus de renouvellement de la peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0849B8JZN{{</world>}}

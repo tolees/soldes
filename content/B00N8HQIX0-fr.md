@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Veste bomber pour hommes
 - DÉTAIL 2: Manchette imprimée
 - FIT: Slim Fit
-- Veste bomber pour hommes
 - DÉTAIL 1: Col en fourrure de mouton véritable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

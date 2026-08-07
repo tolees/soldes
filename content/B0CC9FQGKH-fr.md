@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOURRISSEZ EN PROFONDEUR, PROTÉGEZ NATURELLEMENT 🌱🛡️: Notre formule sans sulfates, GMO ni huiles minérales apporte une nutrition profonde tout en protégeant vos cheveux et la planète.
-- BRILLANCE ET ÉCLAT RENOUVELÉS 🌟🌈: Revitalisez vos cheveux secs et colorés. LHuile de Marula prolonge la brillance de votre couleur, laissant vos cheveux rayonnants.
-- ENGAGEMENT KERARGAN : BEAUTÉ ET RESPONSABILITÉ 🌍❤️: Nous croyons en une beauté responsable. Nos packagings éco-conçus et nos formules généreuses reflètent cet engagement envers vous et la planète. Avec des packagings compacts et des volumes généreux pour minimiser les livraisons.
-- UNE RÉPARATION INTENSE POUR CHAQUE MÈCHE 💪💦: La combinaison dingrédients actifs, tels que lhuile dargan et laloe vera, assure une réparation en profondeur et une hydratation maximale.
 - UNE CURE DE JOUVENCE POUR VOS CHEVEUX 🌊✨: Découvrez la magie de lHuile de Marula avec notre masque Kerargan. Réparez, hydratez et protégez vos cheveux des agressions extérieures dues au soleil ou encore la pollution.
+- ENGAGEMENT KERARGAN : BEAUTÉ ET RESPONSABILITÉ 🌍❤️: Nous croyons en une beauté responsable. Nos packagings éco-conçus et nos formules généreuses reflètent cet engagement envers vous et la planète. Avec des packagings compacts et des volumes généreux pour minimiser les livraisons.
+- NOURRISSEZ EN PROFONDEUR, PROTÉGEZ NATURELLEMENT 🌱🛡️: Notre formule sans sulfates, GMO ni huiles minérales apporte une nutrition profonde tout en protégeant vos cheveux et la planète.
+- UNE RÉPARATION INTENSE POUR CHAQUE MÈCHE 💪💦: La combinaison dingrédients actifs, tels que lhuile dargan et laloe vera, assure une réparation en profondeur et une hydratation maximale.
+- BRILLANCE ET ÉCLAT RENOUVELÉS 🌟🌈: Revitalisez vos cheveux secs et colorés. LHuile de Marula prolonge la brillance de votre couleur, laissant vos cheveux rayonnants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CC9FQGKH{{</world>}}

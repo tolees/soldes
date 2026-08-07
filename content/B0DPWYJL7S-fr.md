@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LUBRIFICATION – Ultra Lubrifié, à base de silicone, Ce préservatif n’est pas compatible avec des lubrifiants à base d’eau car ils peuvent endommager le préservatif, Utilisez uniquement des lubrifiants à base de silicone
+- PLUS DE CHALEUR CORPORELLE PARTAGÉE* – Les préservatifs révolutionnaires Durex Intensity sans latex sont fabriqués à partir de nitrile, une matière qui épouse parfaitement la forme du pénis et qui permet de ressentir plus de chaleur corporelle quavec du latex
 - MATÉRIAU RÉVOLUTIONNAIRE BODY FEEL – Ressentez uniquement votre partenaire grâce aux préservatifs Intensity, les plus fins de la gamme Durex
 - CONFORT – Les préservatifs Intensity ont une forme droite avec un réservoir pour plus de confort, Largeur nominale standard (56 mm)
-- PLUS DE CHALEUR CORPORELLE PARTAGÉE* – Les préservatifs révolutionnaires Durex Intensity sans latex sont fabriqués à partir de nitrile, une matière qui épouse parfaitement la forme du pénis et qui permet de ressentir plus de chaleur corporelle quavec du latex
-- LUBRIFICATION – Ultra Lubrifié, à base de silicone, Ce préservatif n’est pas compatible avec des lubrifiants à base d’eau car ils peuvent endommager le préservatif, Utilisez uniquement des lubrifiants à base de silicone
 - SANS LATEX – 10 préservatifs Durex Intensity Sans latex Ultra fins Ultra lubrifiés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

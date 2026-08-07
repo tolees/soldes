@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Jeu de construction Bluey pour fille ou garçon dès 4 ans – Bluey et Chloé à l’aire de jeux est un set LEGO qui inclut des personnages, des jeux & des activités inspirés de la série TV pour jeune public
 - Jeu créatif - Les jeunes enfants découvrent de nombreuses façons de jouer avec le tourniquet en forme de pélican, les 3 plantes, la tour avec un télescope & laire de pique-nique avec boissons & gâteaux
-- Cadeau original pour les fans de Bluey dès 4 ans – Ce jouet LEGO amusant est un superbe cadeau danniversaire pour les jeunes passionnés de Bluey
 - Développer la créativité des enfants avec Bluey – Les sets LEGO Bluey inspirent des jeux de rôle créatifs auxquels les enfants peuvent s’identifier & accompagnent les différentes étapes de l’éveil des petits que les parents peuvent guider
+- Cadeau original pour les fans de Bluey dès 4 ans – Ce jouet LEGO amusant est un superbe cadeau danniversaire pour les jeunes passionnés de Bluey
 - Encore plus doptions de jeu avec Bluey – Découvrez les autres jouets interactifs LEGO DUPLO Bluey et LEGO Bluey (vendus séparément), adaptés aux tout-petits et aux enfants d’âge préscolaire
 - Jouet interactif stimulant limagination des petits – Les fans de Bluey rejoignent Bluey et Chloé sur une aire de jeux animée incluant une balançoire, un toboggan, une cage à écureuil, une échelle, un tourniquet, un jeu à bascule & plus encore
 - Une aire de jeux colorée et facile à construire – Le jouet LEGO Bluey inclut 1 maquette à construire par sachet, 1 grande brique de démarrage & des instructions simples pour une construction rapide & ludique

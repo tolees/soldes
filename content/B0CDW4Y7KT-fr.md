@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - LA PROMESSE CLINIQUE POUR LES YEUX : Comme tout le maquillage pour les yeux Clinique, le mascara High Impact High-Fi est soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact. 100 % sans parfum.
-- BROSSE INNOVANTE : La brosse High-Def Wave est dotée de picots ondulés pour peigner et enrober chaque cil, et dune pointe de précision pour définir les cils du coin de lœil.
 - MASCARA ULTRA-VOLUMATEUR : Mascara Clinique volumateur à fibres qui maximise le volume. Tenue 12h, sans seffriter ni baver.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
+- BROSSE INNOVANTE : La brosse High-Def Wave est dotée de picots ondulés pour peigner et enrober chaque cil, et dune pointe de précision pour définir les cils du coin de lœil.
 - PLUS DE VOLUME, INSTANTANÉMENT : +230 % de volume instantanément.* *Test clinique sur 31 femmes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

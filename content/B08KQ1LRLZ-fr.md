@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Durable
 - 3307216190813
 - Ubisoft
-- Durable
 - Riders Republic
 
 [🛒 Achète-le!!]({{< param buyurl >}})

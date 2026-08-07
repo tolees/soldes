@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COLLATION GOURMANDE AU BON GOÛT: Cet en-cas gourmand à faible teneur en sucre est parfait à savourer à tout moment de la journée, idéal en cas de petit creux ou comme récompense après le sport
-- SANS CULPABILITÉ: Une barre à trois couches composée de nougat protéiné, surmonté de caramel, enrobé de chocolat au lait et de morceaux croustillants.
-- CERTIFIÉ SPORT INFORMÉ: Certifié par le programme Informed Sport, il peut être consommé en toute confiance par les athlètes et le personnel militaire soumis à des tests de dépistage de substances interdites.
 - HAUTE PROTÉINE: Riche en protéines, plus de 21 g par barre
+- SANS CULPABILITÉ: Une barre à trois couches composée de nougat protéiné, surmonté de caramel, enrobé de chocolat au lait et de morceaux croustillants.
 - FAIBLE SUCRE: Faible teneur en sucre, avec seulement 1,5 g par barre
+- CERTIFIÉ SPORT INFORMÉ: Certifié par le programme Informed Sport, il peut être consommé en toute confiance par les athlètes et le personnel militaire soumis à des tests de dépistage de substances interdites.
+- COLLATION GOURMANDE AU BON GOÛT: Cet en-cas gourmand à faible teneur en sucre est parfait à savourer à tout moment de la journée, idéal en cas de petit creux ou comme récompense après le sport
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00UL4M22Y{{</world>}}

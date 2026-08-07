@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Contenu de lemballage : CORSAIR HS80 MAX WIRELESS Casque découte - Blanc | Récepteur USB sans fil | Câble de charge USB, 1,8m | Fiche de sécurité | Carte de garantie | CA-9011296-EU
 - Connexion sans fil 2,4 GHz à faible latence plus Bluetooth : profitez d’un audio 2,4 GHz sans fil et à faible latence sur une portée allant jusqu’à 15 m et avec un son 24 bits/96 kHz haute-fidélité (plus du double des casques gaming traditionnels) ainsi que de la connectivité Bluetooth.
 - Autonomie longue durée de la batterie : jusqu’à 65 h d’autonomie en mode 2,4 GHz sans fil, ou jusqu’à 130 heures en mode Bluetooth. (Avec le RGB éteint. Jusqu’à 24 h d’autonomie en 2,4 GHz sans fil avec le RGB allumé.)
-- De longues heures de confort : les coussinets en mousse à mémoire de forme avec tissu respirant et le design d’arceau souple vous offrent un confort inégalé, renforcé par la conception en aluminium léger pour résister à des années de gaming de compétition
 - Compatibilité multiplateforme pour PC, Mac, PS5, PS4 et appareils mobiles : utilisez le même casque pour PC, Mac ou PlayStation, ou connectez-vous via Bluetooth à des appareils mobiles et plus encore
+- De longues heures de confort : les coussinets en mousse à mémoire de forme avec tissu respirant et le design d’arceau souple vous offrent un confort inégalé, renforcé par la conception en aluminium léger pour résister à des années de gaming de compétition
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CBQCJWTL{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design moderne
 - Pinocchio à vélo
+- Design moderne
 - Tissu respirant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

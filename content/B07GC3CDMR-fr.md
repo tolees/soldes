@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : marron foncé
-- Doublure : 42 % textile (60 % polyuréthane, 40 % polyester), 33 % coton, 25 % textile (60 % nylon, 40 % polyuréthane)
 - Cuir lisse
 - Semelle intérieure recouverte de cuir : port plus confortable
 - Semelle extérieure en caoutchouc : bonne adhérence
+- Doublure : 42 % textile (60 % polyuréthane, 40 % polyester), 33 % coton, 25 % textile (60 % nylon, 40 % polyuréthane)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GC3CDMR{{</world>}}

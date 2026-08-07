@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CMT
 - Mèche de défonceuse
 - Référence : CM-CMT90619111
+- CMT
 - Diamètre : .19 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

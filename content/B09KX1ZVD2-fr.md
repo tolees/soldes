@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction robuste et durable avec une protection contre la poussière et les éclaboussures, assurant une longévité de lobjectif dans des environnements difficiles.
-- Polyvalence exceptionnelle grâce à louverture f/1.4, idéale pour des conditions de faible luminosité et un magnifique flou darrière-plan.
-- Haute résolution et netteté grâce à la technologie avancée de lentilles, garantissant des détails époustouflants dans chaque cliché.
 - Conception compacte et légère permettant une portabilité maximale, parfaite pour les photographes en déplacement.
 - Focalisation rapide et silencieuse grâce à un moteur sophistiqué, capturant chaque moment avec une précision inégalée.
+- Construction robuste et durable avec une protection contre la poussière et les éclaboussures, assurant une longévité de lobjectif dans des environnements difficiles.
+- Haute résolution et netteté grâce à la technologie avancée de lentilles, garantissant des détails époustouflants dans chaque cliché.
+- Polyvalence exceptionnelle grâce à louverture f/1.4, idéale pour des conditions de faible luminosité et un magnifique flou darrière-plan.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09KX1ZVD2{{</world>}}

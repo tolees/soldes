@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75441 Le Croiseur d’Assaut de Classe Venator - Set de Construction Adulte - Maquette du Vaisseau de la République - Décoration Salon - Cadeau Collector pour Fans de La Revanche des Sith'
-date: 2026-08-04 20:53:56
+date: 2026-08-06 09:34:50
 image: 'https://m.media-amazon.com/images/I/51oyKifHgCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXBMXFN/?tag=tolees0d-21'
 descuento: '35.00'
-average: '51.7713333333332'
+average: '51.7849999999999'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SET DE CONSTRUCTION AVEC MAQUETTE DE VAISSEAU SPATIAL – Assemblez et exposez la réplique de taille moyenne dun croiseur d’assaut de classe Venator, pour un homme ou une femme, fan de Star Wars : La Revanche des Sith
 - D’UNE GALAXIE LOINTAINE, TRÈS LOINTAINE À VOTRE SALON – Les sets LEGO Star Wars pour adultes (vendus séparément) sont conçus pour les personnes qui apprécient les activités créatives, immersives et manuelles propices à la détente
 - DÉTAILS AUTHENTIQUES – Reproduisez les lignes aérodynamiques et les marques caractéristiques de l’emblématique croiseur d’assaut de classe Venator avec des briques LEGO
+- SET DE CONSTRUCTION AVEC MAQUETTE DE VAISSEAU SPATIAL – Assemblez et exposez la réplique de taille moyenne dun croiseur d’assaut de classe Venator, pour un homme ou une femme, fan de Star Wars : La Revanche des Sith
 - CADEAU STAR WARS – Faites-vous plaisir ou offrez ce kit de construction LEGO à un.e autre adulte, fan de la prélogie Star Wars ou à un.e collectionneur.se de sets LEGO Star Wars
 - INSTRUCTIONS DE MONTAGE EN 3D – Avec l’application LEGO Builder, vous pouvez construire vos maquettes avec des instructions en 3D, suivre votre progression et sauvegarder tous vos sets
 - SET CONÇU POUR LA DÉCORATION – Exposez votre création sur le support à construire avec la plaque nominative ; soulevez la partie supérieure pour révéler le hangar et exposez cette pièce de décoration impressionnante à la maison ou au bureau

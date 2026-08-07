@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- USAGE POLYVALENT : Ce bidon de grande capacité permet de conserver un liquide ou du carburant à portée de main et de refaire facilement le plein dessence, de gasoil, ou autre dun réservoir, où que vous soyez.
 - COMPATIBLE TRANSPORT DE MATIÈRES DANGEREUSES : Ce jerrican qui bénéficie de la Norme UN pour le transport de matières dangereuses convient pour transporter et transférer toutes sortes de matières fluides.
-- LA RÉFÉRENCE PROFESSIONNELLE : Nous proposons plus de 10 000 pièces détachées, accessoires et équipements de protection dédiés à l’univers de la motoculture... Une vaste gamme de produits de qualité vendus au meilleur prix.
 - CONCEPTION ROBUSTE ET DURABLE : Prévu pour permettre le transfert et le transport de toutes sortes de matières fluides, chimiques ou non, ce jerrican est conçu dans des matériaux résistants et durables dans le temps.
+- LA RÉFÉRENCE PROFESSIONNELLE : Nous proposons plus de 10 000 pièces détachées, accessoires et équipements de protection dédiés à l’univers de la motoculture... Une vaste gamme de produits de qualité vendus au meilleur prix.
+- USAGE POLYVALENT : Ce bidon de grande capacité permet de conserver un liquide ou du carburant à portée de main et de refaire facilement le plein dessence, de gasoil, ou autre dun réservoir, où que vous soyez.
 - UN JERRICAN POUR ÉVITER LA PANNE SÈCHE : Indispensable pour ne jamais tomber en panne de carburant et autres fluides utilisés en mécanique, ce jerrican vous accompagnera partout où vous en avez besoin.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

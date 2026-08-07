@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- TÉLESCOPE RÉFRACTEUR INSPIRE : télescope réfracteur court de 100 mm avec optique en verre entièrement traité et cadre léger
+- SIMPLE À ASSEMBLER : observez le ciel en un instant grâce à une installation rapide et facile, sans aucun outil
+- POIGNÉE PANORAMIQUE : commande manuelle Alt-Az avec embrayage pour un pointage souple et précis
 - ACCESSOIRES INCLUS : deux oculaires (20 mm et 10 mm), une diagonale en étoile dimage droite, une torche LED rouge, un viseur à point rouge StarPointer Pro, et un adaptateur intégré pour smartphone
 - OBSERVATION PERSONNALISÉE : le trépied à hauteur réglable comprend un plateau pour les accessoires
-- POIGNÉE PANORAMIQUE : commande manuelle Alt-Az avec embrayage pour un pointage souple et précis
-- SIMPLE À ASSEMBLER : observez le ciel en un instant grâce à une installation rapide et facile, sans aucun outil
-- TÉLESCOPE RÉFRACTEUR INSPIRE : télescope réfracteur court de 100 mm avec optique en verre entièrement traité et cadre léger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01L0EQPLC{{</world>}}

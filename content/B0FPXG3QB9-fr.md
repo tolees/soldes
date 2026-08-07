@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JEU DE CONSTRUCTION 3-EN-1 SUR LE THÈME DE LA BEAUTÉ – Le set Flacon de parfum au décor floral LEGO Creator invite les filles et les garçons dès 8 ans à construire 3 modèles avec les mêmes briques LEGO
-- DÉCORATION INTÉRIEURE – Ajoutez une touche colorée à la chambre d’un enfant, sur une étagère ou un bureau en exposant ce set LEGO comme décor personnalisable
 - UNE INFINITÉ D’OPTIONS DE JEU – Construisez et transformez 3 maquettes inspirées de la mode (non constructibles simultanément) : un flacon de parfum, un vase et un smoothie, chacune accompagnée d’accessoires floraux
 - IDÉE DE CADEAU DANNIVERSAIRE POUR FILLE OU GARÇON DÈS 8 ANS – Ce kit de construction est un petit cadeau créatif qui ravira un.e enfant passionné.e de mode et de loisirs créatifs
+- DÉCORATION INTÉRIEURE – Ajoutez une touche colorée à la chambre d’un enfant, sur une étagère ou un bureau en exposant ce set LEGO comme décor personnalisable
 - PROJET DACTIVITÉ MANUELLE DIY – Ajoutez des détails créatifs avec des étiquettes colorées pour le flacon de parfum et le vase, et un menu pour le smoothie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

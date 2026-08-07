@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GRANDE CAPACITɠ: Chaque compartiment de votre friteuse à air permet de cuire un poulet 1,6 kg ou jusqu’à 1kg de frites. Jusqu’à 75 % plus rapide qu’avec un four à convection* (* Test sur bâtonnets de poisson pané et saucisses, avec préchauffage.)
-- COMPREND : Cette friteuse à air électrique comprend 2 compartiments de 3,8 L (capacité totale de 7,6 L) et plaques de cuisson antiadhésifs, compatibles au lave-vaisselle. Guide de recettes créés par des chefs Poids : 8,2 kg. Couleur : Gris métal. H : 31,5 cm l : 38 cm P : 26,5 cm.
-- 2 COMPARTIMENTS DE CUISSON INDÉPENDANTS : Cuisinez 2 aliments de 2 façons, synchronisés. Utilisez différents modes, temps, températures dans chaque compartiment de votre friteuse multifonction, pour des repas complets ou satisfaire 2 goûts différents.
 - ÉCONOMIES D’ÉNERGIE jusqu’à 75 % sur la facture d’énergie de votre four* (* Avec le temps de cuisson recommandé pour des saucisses et la friture sans huile, par rapport à un four 68 L de classe énergétique A et un four de 71 L de classe énergétique A+.)
+- COMPREND : Cette friteuse à air électrique comprend 2 compartiments de 3,8 L (capacité totale de 7,6 L) et plaques de cuisson antiadhésifs, compatibles au lave-vaisselle. Guide de recettes créés par des chefs Poids : 8,2 kg. Couleur : Gris métal. H : 31,5 cm l : 38 cm P : 26,5 cm.
+- GRANDE CAPACITɠ: Chaque compartiment de votre friteuse à air permet de cuire un poulet 1,6 kg ou jusqu’à 1kg de frites. Jusqu’à 75 % plus rapide qu’avec un four à convection* (* Test sur bâtonnets de poisson pané et saucisses, avec préchauffage.)
+- 2 COMPARTIMENTS DE CUISSON INDÉPENDANTS : Cuisinez 2 aliments de 2 façons, synchronisés. Utilisez différents modes, temps, températures dans chaque compartiment de votre friteuse multifonction, pour des repas complets ou satisfaire 2 goûts différents.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4KKZ7HH{{</world>}}

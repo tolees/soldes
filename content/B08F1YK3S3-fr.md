@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La tête de lampe est réglable en continu de 160 degrés vers le haut et vers le bas
 - Focalisable grâce à notre technologie brevetée³ Advanced Focus System
+- Protection extrêmement élevée contre la poussière et leau (indice de protection IP67) grâce à la technologie Flex Sealing
 - Utilisation intuitive et variation en continu grâce au dispositif Wheel Switch sur la tête de lampe
 - Le système Magnetic Charge robuste permet de charger la lampe sans avoir besoin de petite connexion enfichable
-- La tête de lampe est réglable en continu de 160 degrés vers le haut et vers le bas
-- Protection extrêmement élevée contre la poussière et leau (indice de protection IP67) grâce à la technologie Flex Sealing
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08F1YK3S3{{</world>}}

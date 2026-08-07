@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EAN 3414970351821
 - WORLDWIDE Legrand warranty
+- EAN 3414970351821
 - Combinaison poisson âge/disjoncteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - AVEC STRETCH : La part de stretch rend le pantalon particulièrement extensible et assure un confort optimal
-- COUPE CHINO : Le pantalon léger mais élégant a une coupe très flatteuse, idéale pour un usage quotidien ou au bureau;La coupe à la taille est normale et la coupe des jambes se rétrécit des genoux jusquau bord inférieur
-- BUSINESS CASUAL : ce pantalon polyvalent peut être facilement combiné pour toutes les occasions;Que ce soit avec des chemises, des pulls tricotés ou des T-shirts décontractés, les chinos de haute qualité complètent votre look
 - REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
+- COUPE CHINO : Le pantalon léger mais élégant a une coupe très flatteuse, idéale pour un usage quotidien ou au bureau;La coupe à la taille est normale et la coupe des jambes se rétrécit des genoux jusquau bord inférieur
 - CONSEILS DENTRETIEN : Il est recommandé de laver le pantalon en cycle délicat à 30 °C et de le repasser jusquà 110 °C maximum
+- BUSINESS CASUAL : ce pantalon polyvalent peut être facilement combiné pour toutes les occasions;Que ce soit avec des chemises, des pulls tricotés ou des T-shirts décontractés, les chinos de haute qualité complètent votre look
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB3HN22C{{</world>}}

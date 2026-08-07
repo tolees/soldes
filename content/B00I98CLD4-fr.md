@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à utiliser
-- Ingrédients responsables :
 - Booster de lénergie au quotidien
+- Ingrédients responsables :
+- Facile à utiliser
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00I98CLD4{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclus dans le pack : Boule à facette, chaîne, support d’accroche à LED et notice d’utilisation. Les vis de fixation et les piles d’alimentations ne sont pas incluses.
 - Mode d’alimentation : Il suffit de 3 piles AA pour faire fonctionner les LED.
-- Produit : La MIRROR BALL est une boule à facette classique avec des miroirs réfléchissants. Cette boule disco est l’accessoire indispensable pour illuminer le dance floor lors de différentes occasions : fête, mariage, soirée d’anniversaire, boîte de nuit, etc…
-- LED RGB : En plus de la boule disco réfléchissante, le support mural possède 18 LED RGB pour ajouter de la couleur à vos soirées.
 - Installation facile : La MIRROR BALL possède une chaîne de fixation de 20cm ainsi qu’une fixation murale. Cela vous permet de la fixer au plafond où vous le souhaitez dans la pièce.
+- Produit : La MIRROR BALL est une boule à facette classique avec des miroirs réfléchissants. Cette boule disco est l’accessoire indispensable pour illuminer le dance floor lors de différentes occasions : fête, mariage, soirée d’anniversaire, boîte de nuit, etc…
+- Inclus dans le pack : Boule à facette, chaîne, support d’accroche à LED et notice d’utilisation. Les vis de fixation et les piles d’alimentations ne sont pas incluses.
+- LED RGB : En plus de la boule disco réfléchissante, le support mural possède 18 LED RGB pour ajouter de la couleur à vos soirées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CMTVGY9B{{</world>}}

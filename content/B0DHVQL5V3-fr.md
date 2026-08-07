@@ -29,14 +29,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle de propreté antimicrobienne Ortholite
-- Tige en textile et synthétique
-- CLIMAPROOF
+- Semelle extérieure Traxion
 - Coupe standard
-- Fermeture à lacets
 - Poids : 366,2 grammes (taille UK 8,5)
+- Tige en textile et synthétique
 - Drop semelle intermédiaire : 10 mm (talon : 30 mm/avant-pied : 20 mm)
 - Amorti LIGHTMOTION
-- Semelle extérieure Traxion
+- Fermeture à lacets
+- CLIMAPROOF
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVQL5V3{{</world>}}

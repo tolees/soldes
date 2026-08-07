@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce calendrier est bien plus quun simple outil pour suivre la date. Cest un objet de décoration inspiré des célèbres TB-TT de Star Wars que vous pourrez poser sur votre bureau pour y ajouter de loriginalité
 - Avec son joli design, ce calendrier perpétuel deco est parfait pour les enfants ou pour les personnes qui veulent ajouter une petite décoration amusante et utile. Cest aussi une bonne idée cadeau pour un·e fan de Star Wars
-- Fabriqué en résine et peint à la main, il mesure 20 x 7,8 x 12 cm. et comprend 5 blocs avec les chiffres et les mois. Les blocs avec les chiffres et mois sont interchangeables, vous permettant de personnaliser facilement la date en fonction de vos préférences ou de la saison
 - Cette jolie figurine qui fait aussi office de calendrier décoratif perpétuel est idéal pour garder un oeil sur la date du jour tout en ajoutant de loriginalité à votre décoration de bureau
+- Ce calendrier est bien plus quun simple outil pour suivre la date. Cest un objet de décoration inspiré des célèbres TB-TT de Star Wars que vous pourrez poser sur votre bureau pour y ajouter de loriginalité
+- Fabriqué en résine et peint à la main, il mesure 20 x 7,8 x 12 cm. et comprend 5 blocs avec les chiffres et les mois. Les blocs avec les chiffres et mois sont interchangeables, vous permettant de personnaliser facilement la date en fonction de vos préférences ou de la saison
 - Grupo Erik vous offre cette collection de calendrier perpétuel unique, colorée et sous licence officielle pour que vous puissiez garder un oeil sur la date du jour tout en décorant votre espace de travail ou votre intérieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

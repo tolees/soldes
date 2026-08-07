@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sa pompe de 20 bars assure une pression optimale pour permettre à votre café de libérer tous ses arômes en bouche.
 - Avec ses 4 filtres, la cafetière Princess 249415 permet de préparer votre café préféré, quil soit moulu, en capsules Nespresso ou en dosette ESE. Deux porte-filtres offrent aussi la possibilité de préparer du café pour une seule tasse ou pour deux tasses à la fois.
-- Le mousseur à lait ouvre encore plus le champ des possibles pour préparer toutes sortes de café au lait : lattes, macchiatos, capuccinos…
+- Sa pompe de 20 bars assure une pression optimale pour permettre à votre café de libérer tous ses arômes en bouche.
 - Déposez vos tasses sur le chauffe-tasses intégré et retrouvez-les à la température idéale pour garder votre café au chaud un peu plus longtemps et ainsi préserver le corps et les saveurs de votre café.
+- Le mousseur à lait ouvre encore plus le champ des possibles pour préparer toutes sortes de café au lait : lattes, macchiatos, capuccinos…
 - Le réservoir deau de la cafetière 249415, amovible et facile à remplir, offre un volume de 1,5 L. La machine sarrête automatiquement lorsquil est vide. Un bac amovible récupère les écoulements éventuels après que vous avez retiré votre tasse.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

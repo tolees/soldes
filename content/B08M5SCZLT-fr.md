@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double alimentation : alimentez les lumières à lintérieur avec les adaptateurs CA (inclus) ou utilisez jusquà deux piles NP-F (non fournies) lorsque vous avez besoin de prendre des photos à lextérieur.
+- Contrôle intelligent de lapplication : téléchargez lapplication NEEEWER sur votre téléphone mobile et contrôlez les lumières. Avec lapplication, vous pouvez sélectionner les groupes (1-8/tout) et les scènes deffets, régler la luminosité, la température de couleur, la teinte (0-360°) et la saturation (0-100%) et enregistrer deux préréglages déclairage préférés. Système dexploitation requis : Android 4.3 ou supérieur/iOS 11.1 ou supérieur
 - IRC élevé et préréglages de scène intégrés : lindice de rendu des couleurs extrêmement élevé (IRC) de plus de 97 garantit une reproduction naturelle et éclatante des couleurs pour toutes vos prises de vue. Préréglé avec 9 scènes lumineuses spéciales pour enrichir votre environnement de prise de vue, y compris voiture de police, ambulance, camion de pompiers, feux dartifice, fête, bougies, flash, paparazzi et écran de télévision
+- Double alimentation : alimentez les lumières à lintérieur avec les adaptateurs CA (inclus) ou utilisez jusquà deux piles NP-F (non fournies) lorsque vous avez besoin de prendre des photos à lextérieur.
 - Kit déclairage RVB puissant et polyvalent de 50 W : le kit déclairage vidéo Neewer 660 Pro RGB dispose de deux puissantes lumières de 50 W qui offrent un éclairage sans scintillement, une température de couleur de 3200 K ~ 5600 K, une plage de gradation de 0 ~ 100 % et 360 ° de couleurs RVB. Avec sa polyvalence inégalée, cet ensemble est parfait pour le vlogging, les portraits, les mariages, la photographie de produits, les jeux vidéo et les appels zoom
 - Accessoires déclairage utiles : avec le support en U, vous pouvez incliner la lumière à 180° pour obtenir langle de faisceau souhaité. Les portes de grange à quatre voies aident à changer la propagation du faisceau, et le diffuseur blanc réduit léblouissement pour un éclairage équilibré et agréable. Les pieds déclairage en alliage daluminium sont robustes et offrent une plage de hauteur de 92 cm à 200 cm.
-- Contrôle intelligent de lapplication : téléchargez lapplication NEEEWER sur votre téléphone mobile et contrôlez les lumières. Avec lapplication, vous pouvez sélectionner les groupes (1-8/tout) et les scènes deffets, régler la luminosité, la température de couleur, la teinte (0-360°) et la saturation (0-100%) et enregistrer deux préréglages déclairage préférés. Système dexploitation requis : Android 4.3 ou supérieur/iOS 11.1 ou supérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08M5SCZLT{{</world>}}

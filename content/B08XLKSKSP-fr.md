@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfum fruité de longue durée avec une tenue idéale pour un usage quotidien sans être entêtant et apportant des notes lumineuses de féminité.
 - Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
+- Parfum fruité de longue durée avec une tenue idéale pour un usage quotidien sans être entêtant et apportant des notes lumineuses de féminité.
 - Yes I Am Glorious de Cacharel sajoute à la collection Yes I Am pour femme, inspirée de la tendance maquillage glow. Une eau de parfum de la féminité positive, authentique et brillante. Montrez votre beauté, révélez votre éclat intérieur !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

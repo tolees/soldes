@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- doublure de la mentonnière et nuque en Tricot brossé
-- doublure du corps en maillefilet
-- Deux poches principales zippées à rabat
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- finition déperlante DWR
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Cordon de serrage élastique à la capuche et à lourlet
-- Manchettes élastiquées
-- Logo Imprimé par transfert thermique
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Deux poches principales zippées à rabat
-- Cordon de serrage élastique à la capuche et à lourlet
-- doublure du corps en maillefilet
-- finition déperlante DWR
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Logo Imprimé par transfert thermique
 - Manchettes élastiquées
 - Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - doublure de la mentonnière et nuque en Tricot brossé
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Cordon de serrage élastique à la capuche et à lourlet
+- Logo Imprimé par transfert thermique
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- doublure du corps en maillefilet
+- Manchettes élastiquées
+- finition déperlante DWR
+- Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- doublure de la mentonnière et nuque en Tricot brossé
+- Cordon de serrage élastique à la capuche et à lourlet
+- Deux poches principales zippées à rabat
+- doublure du corps en maillefilet
+- finition déperlante DWR
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Deux poches principales zippées à rabat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00G36YYJI{{</world>}}

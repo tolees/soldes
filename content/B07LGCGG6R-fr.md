@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un teint rayonnant : sa formule verte à la texture légère se transforme au contact de votre peau pour une correction colorielle parfaite. Les rougeurs sont neutralisées et votre peau est sublimée avec un fini naturel. Non comédogène. Formule vegan
 - Actions des pigments verts, des pigments encapsulés et de la Centella Asiatica : le soin teinté corrige les rougeurs, floute le grain de peau pour estomper les petites irrégularités et imperfections, apporte de l’éclat au teint, apaise et hydrate
 - Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
+- Un teint rayonnant : sa formule verte à la texture légère se transforme au contact de votre peau pour une correction colorielle parfaite. Les rougeurs sont neutralisées et votre peau est sublimée avec un fini naturel. Non comédogène. Formule vegan
 - Fini les rougeurs : CC Red Correct est une CC crème perfectrice de peau, idéale pour les peaux claires sujettes aux rougeurs. Avec sa protection solaire UV SPF 25, votre peau est protégée des effets néfastes du soleil. Testée sous contrôle dermatologique
 - Astuce beauté : appliquez un peu de produit, de l’intérieur vers l’extérieur de votre visage pour une transformation optimale de la formule et de ses pigments encapsulés. Peut être utilisé à la place ou après votre soin de jour ou comme base de maquillage
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DÉCOR EFFET PIERRE NATUREL : avec son décor imitant la pierre, le pot carré haut en plastique VolcaniaUP apportera une touche déco tendance en intérieur comme en extérieur, que ce soit sur une terrasse ou un balcon. Son volume de 36 litres mettra en valeur les plantes et toutes les compositions fleuries, tout en valorisant votre aménagement.
 - ENTRETIEN FACILE DES PLANTES : conçu en simple paroi avec une collerette tompe loeil, ce pot de fleurs sutilise dehors comme dedans. Des zones de pré-perçage sont indiquées sous le pot pour une utilisation en extérieur. Grâce à sa zone de rétention deau, ce bac à fleurs carré VolcaniaUP, lorsquil est percé, permet davoir une réserve deau qui aidera à limiter les arrosages puisque leau remontera dans la terre par capillarité.
 - ANTI-UV : toute la gamme de pots de fleurs carrés ou ronds, jardinières, et balconnières VolcaniaUP est traitée anti-UV. Cette protection renforce la résistance aux intempéries, au soleil et aux variations climatiques, tout en préservant l’intensité des couleurs dans le temps, pour des aménagements extérieurs durables et esthétiques saison après saison.
-- MODULABLE ET SUPERPOSABLE : pour créer et aménager un espace fleuri harmonieux, ce pot de fleurs est parfaitement modulable avec les autres bacs à fleurs de la gamme VolcaniaUP de la marque EDA. Combinez-le avec les pots ronds, jardinières et balconnières pour créer des ensembles décoratifs cohérents, jouer sur les hauteurs et délimiter élégamment vos espaces intérieurs comme extérieurs.
 - FABRICATION FRANÇAISE ET MATIÈRE RECYCLABLE : ce pot de fleurs VolcaniaUP est fabriqué en France et a été labellisé Origine France Garantie, attestant d’un savoir-faire local. 100% recyclable, il s’inscrit dans une démarche plus responsable tout en assurant robustesse et durabilité pour tout usage.
-- DÉCOR EFFET PIERRE NATUREL : avec son décor imitant la pierre, le pot carré haut en plastique VolcaniaUP apportera une touche déco tendance en intérieur comme en extérieur, que ce soit sur une terrasse ou un balcon. Son volume de 36 litres mettra en valeur les plantes et toutes les compositions fleuries, tout en valorisant votre aménagement.
+- MODULABLE ET SUPERPOSABLE : pour créer et aménager un espace fleuri harmonieux, ce pot de fleurs est parfaitement modulable avec les autres bacs à fleurs de la gamme VolcaniaUP de la marque EDA. Combinez-le avec les pots ronds, jardinières et balconnières pour créer des ensembles décoratifs cohérents, jouer sur les hauteurs et délimiter élégamment vos espaces intérieurs comme extérieurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BMW1J5NY{{</world>}}

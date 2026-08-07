@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les huiles de la gamme Castrol MAGNATEC contient des molécules actives adhèrant aux pièces critiques du moteur, même lorsque lhuile redescend dans le carter pour former un film protecteur anti-usure dès le démarrage.
-- Lorsque vous choisissez un lubrifiant, veuillez-vous reporter au manuel dentretien de votre véhicule et aux spécifications de produit prescrites
 - SPECIFICATIONS : - SAE 5W-40 - ACEA C3 - API SN - BMW Longlife 04 - MB-Approval 229.31 - Renault RN0700/RN0710 - Convient lorsque la norme Fiat 9.55535-S2 est demandée
+- Les huiles de la gamme Castrol MAGNATEC contient des molécules actives adhèrant aux pièces critiques du moteur, même lorsque lhuile redescend dans le carter pour former un film protecteur anti-usure dès le démarrage.
 - Formule spécifique pour préserver la propreté des systèmes de traitement des gaz déchappement. Protection continue aux différents régimes du moteur.
 - Lhuile moteur 100% synthétique Castrol MAGNATEC 5W-40 C3 convient aux véhicules essence ou diesel lorsque le constructeur recommande un lubrifiant ACEA C3.
+- Lorsque vous choisissez un lubrifiant, veuillez-vous reporter au manuel dentretien de votre véhicule et aux spécifications de produit prescrites
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8156HXC{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfum sensuel qui tient longtemps sans être entêtant, aux notes agréablement addictives, idéal pour un usage quotidien.
 - Appliquez sur peau humide et hydratée pour une meilleure tenue. Vaporisez à une distance dau moins 20 centimètres sur vos points de pulsations (cou, torse, poignets) pour une meilleure diffusion. Attendez quil sèche avant de le sentir.
+- Parfum sensuel qui tient longtemps sans être entêtant, aux notes agréablement addictives, idéal pour un usage quotidien.
 - LEau de Toilette Loverdose Redkiss de Diesel est un parfum féminin envoûtant aux notes gourmandes de cacao-noisette mêlées à la fleur doranger sensuelle. Son sillage olfactif au Patchouli en enivrera plus dun sur votre passage !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

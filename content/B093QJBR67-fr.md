@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MATÉRIAUX DE QUALITɠ: le NexYZ résiste à une utilisation exigeante sur le terrain grâce à sa construction robuste et durable avec un cadre en métal et un corps en polymère.
 - UN JEU D’ENFANTS : contrairement aux autres adaptateurs, le NexYZ dispose de 3 boutons directionnels (axes X, Y et Z) avec réglages de tension qui alignent l’appareil photo du téléphone avec l’oculaire pour prendre l’image parfaite en quelques secondes.
-- UNE SOLUTION COMPLÈTE DE DIGISCOPIE : NexYZ connecte votre smartphone à votre télescope, votre longue-vue, vos jumelles, votre monoculaire et votre microscope pour vous permettre de capturer des images et des vidéos à travers l’oculaire.
 - COMPATIBILITÉ AVEC LES MOBILES : sadapte à une large gamme de modèles de téléphones portables, notamment tous les derniers appareils de Samsung, Google et Apple.
 - CONCEPTION BREVETÉE : le NexYZ s’adapte aux oculaires de 35 mm à 60 mm de diamètre, y compris les télescopes avec un oculaire de 1,25 et 2 pouces.
-- MATÉRIAUX DE QUALITɠ: le NexYZ résiste à une utilisation exigeante sur le terrain grâce à sa construction robuste et durable avec un cadre en métal et un corps en polymère.
+- UNE SOLUTION COMPLÈTE DE DIGISCOPIE : NexYZ connecte votre smartphone à votre télescope, votre longue-vue, vos jumelles, votre monoculaire et votre microscope pour vous permettre de capturer des images et des vidéos à travers l’oculaire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093QJBR67{{</world>}}

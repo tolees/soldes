@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitamine D & E
-- Pas de colorants, même goût délicieux
-- 100% complet et équilibré
-- Sans arômes artificiels ajoutés Pas de conservateurs artificiels ajoutés
 - Source dacides gras oméga 6
+- Pas de colorants, même goût délicieux
+- Sans arômes artificiels ajoutés Pas de conservateurs artificiels ajoutés
+- Vitamine D & E
+- 100% complet et équilibré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WSZ6C4T{{</world>}}

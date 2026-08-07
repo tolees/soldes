@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo PUMA N° 1 sur la languette
-- Tige en suède
 - Œillets redesignés
+- Tige en suède
 - Fermeture à lacets pour un ajustement ideal
 - Bracelet cousu et rembourré
 

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bloc moteur inclinable et pivotant - Le bloc moteur s’incline sur 3 positions et pivote à 180°, pour couper le gazon à proximité de bordures ou dans des zones étroites.
-- Manipulation confortable - Grâce à la poignée auxiliaire réglable et au manche télescopique, le coupe-bordures s’adapte individuellement à la taille de l’utilisateur.
 - Batterie non incluse - Le coupe-bordures GE-CT 18/28 Li TC-Solo est vendu sans batterie PXC ni chargeur, qui sont disponibles séparément, notamment dans le Starter Kit, très pratique.
-- Chariot de tonte - Le chariot de tonte se clipse facilement et sans outil pour transformer le coupe-bordures en une tondeuse à gazon citadine compacte avec une hauteur de coupe réglable (35-55 mm).
-- Protection des plantes - Le dispositif d’écartement en métal solide protège les fleurs, plantes d’ornement et autres objets fragiles lorsque le coupe-bordures sans fil fonctionne avec le fil.
 - Bobine de fil - La bobine de fil (largeur de coupe 28 cm) assure des coupes impeccables. Le système d’avance automatique permet de toujours disposer de la longueur de fil optimale.
+- Chariot de tonte - Le chariot de tonte se clipse facilement et sans outil pour transformer le coupe-bordures en une tondeuse à gazon citadine compacte avec une hauteur de coupe réglable (35-55 mm).
 - Power X-Change - Le coupe-bordures GE-CT 18/28 Li TC-Solo fait partie de la gamme PXC dans laquelle les batteries, chargeurs et appareils se combinent en toute flexibilité.
+- Manipulation confortable - Grâce à la poignée auxiliaire réglable et au manche télescopique, le coupe-bordures s’adapte individuellement à la taille de l’utilisateur.
+- Protection des plantes - Le dispositif d’écartement en métal solide protège les fleurs, plantes d’ornement et autres objets fragiles lorsque le coupe-bordures sans fil fonctionne avec le fil.
+- Bloc moteur inclinable et pivotant - Le bloc moteur s’incline sur 3 positions et pivote à 180°, pour couper le gazon à proximité de bordures ou dans des zones étroites.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQH9B43{{</world>}}

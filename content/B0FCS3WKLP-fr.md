@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Prise en charge du logiciel de contrôle déclairage de la carte mère
 - Avec 9 LED adressables, il peut afficher 16,8 millions de couleurs deffets lumineux
-- Fournit 62,72 CFM de volume dair et 1,47 mm-H2O de pression statique
 - Équipé de quatre caloducs en cuivre en forme de U de Ø6 mm qui entrent directement en contact avec le processeur pour une conduction thermique rapide et stable
+- Fournit 62,72 CFM de volume dair et 1,47 mm-H2O de pression statique
 - Comprend un ensemble de supports, compatible avec une variété de processeurs Intel et AMD
 
 [🛒 Achète-le!!]({{< param buyurl >}})

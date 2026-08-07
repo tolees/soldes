@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOITES de classement avec élastiques - étiquette au dos pour identifier le contenu.
+- COULEURS ASSORTIES : bleu, jaune, noir, rose, rouge, turquoise, vert, violet
 - MATIÈRE : véritable carte lustrée 600g/m2 homogène et résistante qui posséde un aspect qualitatif supérieur.
 - DOS : 25 mm - capacité : 200 feuillets de 80 grammes.
 - DIMENSIONS : 25 x 33 cm pour documents au format A4
-- COULEURS ASSORTIES : bleu, jaune, noir, rose, rouge, turquoise, vert, violet
+- BOITES de classement avec élastiques - étiquette au dos pour identifier le contenu.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GAOFQWC{{</world>}}

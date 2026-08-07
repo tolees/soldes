@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - INTERRUPTEURS NOUVELLE GÉNÉRATION - Les interrupteurs Golden Micro IP54 durent plus qu’une vie pour des clics précis, avec en prime une résistance à la poussière et à l’eau;
-- UNE PERFORMANCE QUI VOUS SURPASSE - Autonomie de 200 heures grâce à la technologie sans fil Quantum 2.0 à 2,4 GHz sans décalage pour les jeux et à la connexion Bluetooth 5.0;
 - AQUABARRIER - Les intérieurs de la souris sont protégés des éclaboussures, de la poussière et de la saleté, technologie classée IP54;
 - PRÉCISION AU PIXEL PRÈS - Grand capteur gaming optique TrueMove Air co-développé avec PixArt;
-- SUPERBE RVB - Le RVB 3 zones PrismSync rayonnant brille en 16,8 millions de couleurs configurables;
+- UNE PERFORMANCE QUI VOUS SURPASSE - Autonomie de 200 heures grâce à la technologie sans fil Quantum 2.0 à 2,4 GHz sans décalage pour les jeux et à la connexion Bluetooth 5.0;
 - ULTRA-LÉGÈRE - La coque délibérément trouée réduit le poids à 68 g pour un gameplay rapide et sans effort;
+- SUPERBE RVB - Le RVB 3 zones PrismSync rayonnant brille en 16,8 millions de couleurs configurables;
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0966V1GPG{{</world>}}

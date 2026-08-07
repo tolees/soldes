@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vélo statique pliable, fonctionnement magnétique. Système Silence Fit: pédalage plus agile et silencieux.
 - Pulsomètre qui indique la fréquence cardiaque pendant l’entraînement. Écran LCD qui indique le temps, la vitesse, les calories brûlées, la distance parcourue et les pulsations. Fonction SCAN intégrée.
+- Vélo statique pliable, fonctionnement magnétique. Système Silence Fit: pédalage plus agile et silencieux.
 - 8 niveaux de résistance variable pour simuler des plaines et des montagnes. Volant d’inertie 2’5 Kg. La meilleure transmission fluide par courroie.
 - Xtreme Confort: Selle au confort maximal, conçue pour vous. Ergonomie avancée pour obtenir une position optimale d’entraînement, grâce à son design et ses éléments totalement ajustables.
 - Pédales avec courroie pour une meilleure sécurité et un confort maximal. Facile à déplacer grâce à ses roues de transport.

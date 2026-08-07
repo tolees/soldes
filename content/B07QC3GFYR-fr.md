@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Un monde ouvert vaste et varié à explorer
+- Un monde ouvert vaste et varié à explorer
 - Battez-vous pour la liberté à lépoque de lindépendance américaine
-- Un monde ouvert vaste et varié à explorer
-- Un monde ouvert vaste et varié à explorer
 - Optimisé pour la Nintendo Switch
 
 [🛒 Achète-le!!]({{< param buyurl >}})

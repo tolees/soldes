@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Expression de design aérodynamique avec une face avant en maille élégante inspirée des parois rocheuses
 - Boîtier Airflow avec une ventilation abondante et un guide dair qui dirige lair vers les composants
 - Compatible avec un radiateur supérieur de 280 mm et un radiateur avant de 360 mm
+- Expression de design aérodynamique avec une face avant en maille élégante inspirée des parois rocheuses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CS3TNXBW{{</world>}}

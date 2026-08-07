@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chausson intérieur amovible en feutre recyclé lavable de 6 mm
-- Coque en caoutchouc vulcanisé imperméable fabriquée à la main avec semelle extérieure à chevrons
 - Bouchon antigel en feutre collé de 2,5 mm
+- Coque en caoutchouc vulcanisé imperméable fabriquée à la main avec semelle extérieure à chevrons
+- Chausson intérieur amovible en feutre recyclé lavable de 6 mm
 - Dessus en nylon imperméable. Construction imperméable à coutures scellées. Les lacets ne sont pas étanches.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

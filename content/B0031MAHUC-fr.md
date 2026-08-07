@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige : daim et nubuck
 - Doublure : tissu
 - Matériau de la semelle : cuir synthétique
+- Tige : daim et nubuck
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0031MAHUC{{</world>}}

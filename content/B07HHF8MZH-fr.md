@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utilisation des embouts de soudage ET
-- Unité dalimentation, 1 canal 70 W avec fer à souder WEP 70 et support de sécurité PH 70 ; Coupe-fil 170 mm ; Fil à souder WSW SCN M1 de 100 g ; Embouts de soudage ETA 1,6 mm ; ETB 2,4 mm
 - Mode veille et recul automatique pour économiser lénergie, protéger léquipement
 - Fil à souder WSW ; fil à souder polyvalent avec dexcellentes propriétés dhumectation
+- Unité dalimentation, 1 canal 70 W avec fer à souder WEP 70 et support de sécurité PH 70 ; Coupe-fil 170 mm ; Fil à souder WSW SCN M1 de 100 g ; Embouts de soudage ETA 1,6 mm ; ETB 2,4 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HHF8MZH{{</world>}}

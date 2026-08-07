@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids du colis: 105. 0 grams
 - Volume du colis: 250. 0 milliliters
-- Wafer 2en1: aliment complet enrichi en algues spirulina et en acides gras essentiels pour renforcer le système immunitaire des poissons et pour garantir une vie saine et une bonne santé aliment riche en végétaux de qualité supérieure pour tous les gros poissons de fond herbivores riche en fibres essentielles ne trouble pas leau
-- Conseil dalimentation : donnez à vos poissons seulement la quantité quils peuvent consommer en 30 minutes
 - Aliment complet pour poissons de fond herbivores de grande taille
+- Wafer 2en1: aliment complet enrichi en algues spirulina et en acides gras essentiels pour renforcer le système immunitaire des poissons et pour garantir une vie saine et une bonne santé aliment riche en végétaux de qualité supérieure pour tous les gros poissons de fond herbivores riche en fibres essentielles ne trouble pas leau
+- Poids du colis: 105. 0 grams
+- Conseil dalimentation : donnez à vos poissons seulement la quantité quils peuvent consommer en 30 minutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004AWIUH4{{</world>}}

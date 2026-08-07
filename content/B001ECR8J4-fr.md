@@ -28,47 +28,47 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 x Papillon – 2 – 3
-- 9/64’’ – 5/32’’
-- 6,35 magnétique
-- 1 x Porte-embouts
-- 5 x PHILLIPS
-- T8 – T10 – T15 – T20 – T25
-- 3 x 6 PANS percé 4,0 - 5,0 - 6,0 mm
-- T27 – T30 – T35 – T40
-- 9 x TORX percé
-- 6,35 mm – 25 mm
-- 3 x TORX percé T15 - T20 - T30
-- 1/4”
-- 9 x TORX
-- 12 x 6 pans percé
-- 1,5 – 2,0 – 2,5 – 3,0 – 4,0 – 5,0 –
-- 1 x Porte-douilles
-- 2,0 – 2,5 – 3,0 – 4,0 – 5,0 – 6,0 mm
-- PH0 – PH1 – PH2 – PH2 – PH3
-- 17 x Embouts 6,35 mm - 75 mm
-- 3 x TORQ-SET 6 - 8 - 10 mm
 - 5 x POZIDRIV
-- 4 x SPANNER 4 - 6 - 8 -10
-- 5/64’’ – 3/31’’ – 7/64’’ – 1/8’’
-- 6,5 – 7,0 – 8,0 mm
-- 79 x Embouts
-- 9 x Fente
-- 9 x 6 pans
-- 3 x TORQ-SET 6 – 8 – 10 mm
-- 5,5 – 6,0 – 8,0 mm
-- T27 – T30 – T35 – T40
 - PZ0 – PZ1 – PZ2 – PZ2 – PZ3
-- 4 x TRI-WING 1 – 2 – 3 – 4
-- 4 x TRI-WING 1 - 2 - 3 - 4
-- 1 x Douille adaptateur 6,35
 - 4 x ROBERTSON 0 - 1 - 2 - 3
+- 3 x TORX percé T15 - T20 - T30
+- 9 x 6 pans
 - 4 x SPANNER 4 – 6 – 8 – 10
 - 1/4”
-- 3,0 – 4,0 – 4,5 – 5,0 – 5,5 – 6,0
-- 3 x XZN M5 – M6 – M8
-- T8 – T10 – T15 – T20 – T25
+- 9 x TORX percé
+- 3 x Papillon – 2 – 3
+- 12 x 6 pans percé
+- 4 x TRI-WING 1 – 2 – 3 – 4
 - 6,35
+- T27 – T30 – T35 – T40
+- T8 – T10 – T15 – T20 – T25
+- 9 x TORX
+- 2,0 – 2,5 – 3,0 – 4,0 – 5,0 – 6,0 mm
+- 1 x Porte-douilles
+- 3 x 6 PANS percé 4,0 - 5,0 - 6,0 mm
+- 6,35 mm – 25 mm
+- T8 – T10 – T15 – T20 – T25
+- 3 x TORQ-SET 6 – 8 – 10 mm
+- 3 x XZN M5 – M6 – M8
+- 4 x SPANNER 4 - 6 - 8 -10
+- 9 x Fente
+- 5,5 – 6,0 – 8,0 mm
+- T27 – T30 – T35 – T40
+- 9/64’’ – 5/32’’
+- 1 x Douille adaptateur 6,35
+- 5 x PHILLIPS
+- 6,35 magnétique
+- 6,5 – 7,0 – 8,0 mm
+- 1,5 – 2,0 – 2,5 – 3,0 – 4,0 – 5,0 –
+- 17 x Embouts 6,35 mm - 75 mm
+- 79 x Embouts
+- 1 x Porte-embouts
+- PH0 – PH1 – PH2 – PH2 – PH3
+- 3 x TORQ-SET 6 - 8 - 10 mm
+- 3,0 – 4,0 – 4,5 – 5,0 – 5,5 – 6,0
+- 1/4”
+- 5/64’’ – 3/31’’ – 7/64’’ – 1/8’’
+- 4 x TRI-WING 1 - 2 - 3 - 4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001ECR8J4{{</world>}}

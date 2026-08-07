@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - NOGENT Eplucheur bois 2 tranchant lame 6 cm Matière Inox Couleur Marron
-- Nombre de pièces: 1.0
 - Couleur: Merisier
 - Number of items: 1.0
+- Nombre de pièces: 1.0
 - Les informations ci-dessous sappliquent à chaque unité du pack
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

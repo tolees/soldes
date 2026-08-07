@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Refroidissement de processeur avancé tout-en-un : fournit tout ce dont vous avez besoin pour faire fonctionner votre dernier processeur Intel ou AMD au maximum de ses performances tout en maîtrisant la chaleur des processeurs haut de gamme.
-- Conception raffinée de tête de pompe et 16 LED RGB : conception contemporaine de la tête de pompe, avec 16 LED RGB diffuses paramétrables individuellement, assurant un look unique et des effets lumineux éblouissants.
-- Uniformisez votre configuration : le puissant logiciel CORSAIR iCUE permet de contrôler et synchroniser l’éclairage RGB de votre refroidisseur avec tous les dispositifs compatibles iCUE, de surveiller la température du processeur et du liquide de refroidissement et de régler la vitesse des ventilateurs et de la pompe.
 - Performances de refroidissement de pointe : augmentez les performances de votre processeur avec refroidissement liquide piloté par deux ventilateurs CORSAIR AirGuide AF ELITE Series de 140 mm fournissant un flux d’air puissant contrôlé par PWM compris entre 450 et 1 400 tr/min.
+- Uniformisez votre configuration : le puissant logiciel CORSAIR iCUE permet de contrôler et synchroniser l’éclairage RGB de votre refroidisseur avec tous les dispositifs compatibles iCUE, de surveiller la température du processeur et du liquide de refroidissement et de régler la vitesse des ventilateurs et de la pompe.
+- Conception raffinée de tête de pompe et 16 LED RGB : conception contemporaine de la tête de pompe, avec 16 LED RGB diffuses paramétrables individuellement, assurant un look unique et des effets lumineux éblouissants.
 - Modes de refroidissement spécialisés pour un fonctionnement silencieux : les modes de refroidissement Zero RPM et vitesse de pompe variable dans iCUE réduisent le bruit au minimum lorsque votre système est en veille ou faiblement sollicité.
+- Refroidissement de processeur avancé tout-en-un : fournit tout ce dont vous avez besoin pour faire fonctionner votre dernier processeur Intel ou AMD au maximum de ses performances tout en maîtrisant la chaleur des processeurs haut de gamme.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YC262VM{{</world>}}

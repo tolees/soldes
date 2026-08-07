@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Glow* effet peau nue (*éclat)
+- Formulée avec un mélange de vitamines E et B5 pour offrir jusquà 24 heures dhydratation
+- Formule composée à 98 % dingrédients naturels
 - Disponible dans 6 teintes modulables pour toutes les carnations.
 - Texture fraîche et ultra sensorielle
-- Formulée avec un mélange de vitamines E et B5 pour offrir jusquà 24 heures dhydratation
-- Glow* effet peau nue (*éclat)
-- Formule composée à 98 % dingrédients naturels
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK3WPL1L{{</world>}}

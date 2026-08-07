@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Impression directe
-- 1200 x 1200 DPI
+- 10,1 kg
 - Mémoire interne: 128 Mo
+- 1200 x 1200 DPI
 - A4 32 ppm
 - Port USB Wifi
-- 10,1 kg
-- Domestique et professionnel Laser Impression mono
+- Impression directe
 - Copie simple Numérisation mono
 - Couleurs dimpression: Noir
+- Domestique et professionnel Laser Impression mono
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CK2TN13B{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UNE REMORQUE POUR ENCORE PLUS DE POSSIBILITÉS : Pour charger et transporter fruits et légumes du potager... ou emporter partout avec soi ses jouets favoris na jamais été aussi amusant !
 - Y A PAS MIEUX POUR AIDER SES PARENTS A ENTRETENIR LE POTAGER ! : Un super tracteur pour samuser dans le jardin par tous les temps, Voilà un programme bien bucolique pour nos kids à la main verte !
 - UN CAPOT OUVRANT POUR LES PETIT(E)S MECANOS : On change les bougies, une petite vidange et sa repart pour de nouvelles aventures !
-- UNE REMORQUE POUR ENCORE PLUS DE POSSIBILITÉS : Pour charger et transporter fruits et légumes du potager... ou emporter partout avec soi ses jouets favoris na jamais été aussi amusant !
-- CEST DU COSTAUD ! : Fabriquer des jouets d’extérieur assez costauds pour résister aux enfants les plus intrépides, cest ce quon fait depuis plus de 70 ans. Qui a dit quun jouet en plastique ne pouvait pas durer ? En tout cas pas nous !
 - MADE IN FRANCE DEPUIS… TOUJOURS ! : Depuis ses origines Falk relève le défi d’imaginer, concevoir et fabriquer ses jouets en France, dans nos ateliers situés à Oyonnax en région Rhône-Alpes, tout en travaillant avec des partenaires locaux dans le but de dynamiser l’activité économique de notre région et de limiter notre impact écologique
+- CEST DU COSTAUD ! : Fabriquer des jouets d’extérieur assez costauds pour résister aux enfants les plus intrépides, cest ce quon fait depuis plus de 70 ans. Qui a dit quun jouet en plastique ne pouvait pas durer ? En tout cas pas nous !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L83G3NQ{{</world>}}

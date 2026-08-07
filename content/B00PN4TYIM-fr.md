@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plug & Play via port USB : Branchez simplement sur le port USB-A de votre appareil et utilisez immédiatement (câble de 180 cm offrant une flexibilité suffisante). Disponible en noir et blanc-gris
-- Lecteur de carte à puce PC/SC compatible CCID : offre une saisie PIN sécurisée (lecteur de classe 2), répond aux exigences FIPS-201 et prend en charge les protocoles T=0, T=1, S=8, S=9 et S=10
-- Pratique : Ce clavier filaire plat permet la lecture et l’écriture de cartes à puce conformes à la norme ISO 7816 et bénéficie d’une prise en charge des pilotes pour Windows, macOS et Linux
 - Clavier de sécurité intelligent avec terminal Smartcard : répond aux exigences essentielles en matière de signatures électroniques, d’authentification, de chiffrement des données et de gestion des droits d’accès
+- Lecteur de carte à puce PC/SC compatible CCID : offre une saisie PIN sécurisée (lecteur de classe 2), répond aux exigences FIPS-201 et prend en charge les protocoles T=0, T=1, S=8, S=9 et S=10
 - Fiable : inscription durable sur les touches, jusquà 10 millions de frappes sans perte de qualité de saisie, certification GS (« sécurité testée »)
+- Pratique : Ce clavier filaire plat permet la lecture et l’écriture de cartes à puce conformes à la norme ISO 7816 et bénéficie d’une prise en charge des pilotes pour Windows, macOS et Linux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00PN4TYIM{{</world>}}

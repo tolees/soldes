@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux roulements à billes pour des différents niveaux de jeu et une corde extra pour yo-yo sont incluses.
 - Roulements à billes en acier inoxydable pour des figures très longues
-- De débutant à professionnel avec le yo-yo ARROW.
 - Système de réponse en silicone. Fabriqué en plastique très dur. Conçu pour une meilleure stabilité, des temps de rotation longs, un bon équilibre et il est très facile de monter le yo-yo sur la corde.
 - Le ARROW a un creux métallique dans son corps en plastique solide qui améliore la rotation du yo-yo et nous donne la possibilité de faire des "fingerspin grinds".
+- De débutant à professionnel avec le yo-yo ARROW.
+- Deux roulements à billes pour des différents niveaux de jeu et une corde extra pour yo-yo sont incluses.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DRLJDRS{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Maniable dans chaque situation : extrêmement compacte et ergonomique pour des tronçonnages rapides sur les chantiers
+- Professional 12V System. Puissance compacte. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
 - Progression de travail rapide grâce au puissant moteur sans charbon
 - Livré avec : GWS 12V-76, 1 disque à tronçonner au carbure, 1 disque Carbide Multi Wheel 76 x 10 mm, 2 disques à tronçonner pour inox, capot de protection, 1/2 calage L-BOXX
 - Capot de protection réglable facilement sans clé.
-- Maniable dans chaque situation : extrêmement compacte et ergonomique pour des tronçonnages rapides sur les chantiers
-- Professional 12V System. Puissance compacte. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BE0R82M{{</world>}}

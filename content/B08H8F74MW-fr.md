@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UTILISATION FACILE ET INTUITIVE. Fonctionnement simple et intuitif avec molette et système déconomisation dénergie avec arrêt automatique
-- FINITIONS ET ACCESSOIRES. Avec un plateau chauffe-tasses sur le dessus pour réchauffer vos tasses avant utilisation et profiter dun café chaud fraîchement préparé. Comprend une cuillère à mesurer et un pressoir pour le café ; le bac dégouttage est amovible pour un meilleur nettoyage
-- OPTION DE PRÉPARATION DOUBLE CAFÉ. Café moulu traditionnel ou système de dosettes de café. Porte-filtre métallique avec filtre pour pouvoir préparer 1 ou 2 cafés en même temps et filtre papier spécial pour dosettes de café; dispose dun réservoir deau amovible dune capacité de 1,2 L
 - BUSE VAPEUR. Avec buse vapeur réglable pour faire mousser le lait, chauffer leau pour les infusions ou chauffer toutes sortes de liquides
+- FINITIONS ET ACCESSOIRES. Avec un plateau chauffe-tasses sur le dessus pour réchauffer vos tasses avant utilisation et profiter dun café chaud fraîchement préparé. Comprend une cuillère à mesurer et un pressoir pour le café ; le bac dégouttage est amovible pour un meilleur nettoyage
 - PRESSION ET PUISSANCE. Machine à café expresso avec pompe à pression de 20 bars et 850W de puissance pour café, cappuccinos et infusions
+- OPTION DE PRÉPARATION DOUBLE CAFÉ. Café moulu traditionnel ou système de dosettes de café. Porte-filtre métallique avec filtre pour pouvoir préparer 1 ou 2 cafés en même temps et filtre papier spécial pour dosettes de café; dispose dun réservoir deau amovible dune capacité de 1,2 L
+- UTILISATION FACILE ET INTUITIVE. Fonctionnement simple et intuitif avec molette et système déconomisation dénergie avec arrêt automatique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08H8F74MW{{</world>}}

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lisez dans toutes les conditions déclairage : ajustez laffichage de blanc à ambre pour pouvoir lire au soleil ou dans le noir.
-- Dévorez vos livres sans interruption : une seule charge via USB-C vous offre jusquà 8 semaines dautonomie.
-- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
-- Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
-- Essayez la fonctionnalité Couleur de la page pour inverser le noir du texte et le blanc de larrière-plan des pages dans vos livres. Bien que différente du mode sombre, cette fonctionnalité permet une lecture confortable, tout en affichant les images et couvertures en couleur.
-- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
 - Lisez en couleur : avec son contraste élevé et ses couleurs fidèles au papier, le nouvel écran Colorsoft 7" met en valeur le contenu et la couverture de vos livres, et vous permet de lire sans vous fatiguer les yeux.
+- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
+- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
+- Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
 - Large sélection : accédez instantanément à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour bénéficier dun accès à un catalogue encore plus vaste de contenu, dont des best-sellers.
+- Dévorez vos livres sans interruption : une seule charge via USB-C vous offre jusquà 8 semaines dautonomie.
+- Essayez la fonctionnalité Couleur de la page pour inverser le noir du texte et le blanc de larrière-plan des pages dans vos livres. Bien que différente du mode sombre, cette fonctionnalité permet une lecture confortable, tout en affichant les images et couvertures en couleur.
+- Lisez dans toutes les conditions déclairage : ajustez laffichage de blanc à ambre pour pouvoir lire au soleil ou dans le noir.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CX8MQF7R{{</world>}}

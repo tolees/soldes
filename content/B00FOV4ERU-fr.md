@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dimensions : 53 x 53 x 0,1 cm
 - Couleur : Violet
-- 100% PVC
 - Description du produit: Tapis de douche PVC "Galets". 100% PVC. Antidérapant. Pas de Phthalates. Couleur : violet. 53x53cm.
+- 100% PVC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00FOV4ERU{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La maquette à construire comprend 15 minifigurines LEGO Le Seigneur des anneaux, notamment des personnages tels que Frodon, Sam, Bilbon Sacquet, Boromir, Gimli, Aragorn, Legolas et Gandalf le Gris
-- Créez le Conseil dElrond et asseyez les minifigurines autour de la pierre sur laquelle est posé lAnneau Unique, explorez des intérieurs familiers, comme la chambre de Frodon et le bureau dElrond
-- Rejoignez la Communauté de lAnneau alors que ses membres arrivent à Fondcombe pour le Conseil dElrond avec cette maquette LEGO Icons Le Seigneur des Anneaux pour adultes de 6 167 pièces
 - Ce grand set LEGO pour adultes comprend la maison dElrond magnifiquement détaillée, décorée de feuillage dautomne qui donne limpression dêtre au cœur de la forêt de Fondcombe
 - Cette réplique de Fondcombe, composée de 6 167 pièces, est un projet de construction gratifiant qui vous transportera dans la Terre du Milieu ; un super cadeau pour les fans du Seigneur des Anneaux
 - Recréez des moments emblématiques du film avec la gloriette des Elfes et le moment où la Communauté commence son voyage sur le pont construit en briques et la rivière « qui coule »
+- Rejoignez la Communauté de lAnneau alors que ses membres arrivent à Fondcombe pour le Conseil dElrond avec cette maquette LEGO Icons Le Seigneur des Anneaux pour adultes de 6 167 pièces
+- La maquette à construire comprend 15 minifigurines LEGO Le Seigneur des anneaux, notamment des personnages tels que Frodon, Sam, Bilbon Sacquet, Boromir, Gimli, Aragorn, Legolas et Gandalf le Gris
 - Ce modèle comporte des références à la trilogie du Seigneur des Anneaux, notamment une forge elfique, les fragments de Narsil, et des peintures et des statues de lhistoire de la Terre du Milieu
+- Créez le Conseil dElrond et asseyez les minifigurines autour de la pierre sur laquelle est posé lAnneau Unique, explorez des intérieurs familiers, comme la chambre de Frodon et le bureau dElrond
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

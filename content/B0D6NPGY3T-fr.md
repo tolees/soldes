@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lacets élastiques pour ajuster lajustement, semelle intérieure amovible
-- Chaussures faciles à enfiler
 - Baskets basses confortables et respirantes pour garçon, style basket-ball
 - Respirant
+- Chaussures faciles à enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6NPGY3T{{</world>}}

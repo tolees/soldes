@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - AJUSTEMENT SANS COUTURE_ Tous les casques de ski POC sont conçus pour assurer un ajustement sans couture aux lunettes de ski POC et permettre à l’air chaud de s’échapper pour éviter la buée.
 - CONÇU POUR LA MONTAGNE_ Ce casque de ski pour homme ou femme offre un maintien parfait à tous les skieurs et snowboardeurs. Un casque de protection pour le ski, idéal pour le hors-piste.
 - LÉGER ET RÉGLABLE_ Les casques POC sont dotés d’un système de réglage à 360° intégral assurant un ajustement sûr et confortable. Toutes leurs sangles peuvent également être réglées pour vous offrir plus de sécurité, quelle que soit la forme de votre visage.
-- PROTECTION SÛRE_ La coque en PC robuste et durable est parfaitement fixée à la doublure du casque pour une stabilité exceptionnelle et la doublure en EPS offre une protection légère et optimale.
 - CONDUITS D´AÉRATION_ Les conduits d’aération permettent l’évacuation de la chaleur du casque, minimisant ainsi la buée dans le masque. Les canaux de ventilation assurent une circulation optimale de l’air dans le casque pour un confort amélioré.
+- PROTECTION SÛRE_ La coque en PC robuste et durable est parfaitement fixée à la doublure du casque pour une stabilité exceptionnelle et la doublure en EPS offre une protection légère et optimale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RZL3BW3{{</world>}}

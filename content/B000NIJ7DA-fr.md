@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- STRATÉGIE ET LOGIQUE : Les joueurs peuvent modifier les combinaisons adverses pour optimiser leur score. Le premier à ne plus avoir de plaques remporte la victoire !
+- CONTENU DU COFFRET : Comprend 106 plaques (8 séries de couleurs numérotées de 1 à 13, et 2 Jokers), 4 réglettes et les règles du jeu en français pour une expérience conviviale
+- LOISIR ÉDUCATIF ET CONVIVIAL : Rummikub est un jeu familial qui développe la réflexion et favorise les moments de partage entre petits et grands
+- JEU DE RÉFLEXION MULTIJOUEUR : Rummikub Chiffres est un jeu stratégique où le but est de créer des suites ou des séries de chiffres pour être le premier à se débarrasser de toutes ses plaques
 - JEUX DE FAMILLE : Ce jeu de société Rummikub Chiffres est un cadeau danniversaire pour les fans de jeux de chiffres et les amateurs de jeux logiques
 - ACTIVITÉ EN FAMILLE OU ENTRE AMIS : Ce jeu de plateau captivant se joue de 2 à 4 joueurs et dure environ 45 minutes; un jeu pour les enfants dès 7 ans et les amateurs de jeux éducatifs
-- CONTENU DU COFFRET : Comprend 106 plaques (8 séries de couleurs numérotées de 1 à 13, et 2 Jokers), 4 réglettes et les règles du jeu en français pour une expérience conviviale
-- STRATÉGIE ET LOGIQUE : Les joueurs peuvent modifier les combinaisons adverses pour optimiser leur score. Le premier à ne plus avoir de plaques remporte la victoire !
-- JEU DE RÉFLEXION MULTIJOUEUR : Rummikub Chiffres est un jeu stratégique où le but est de créer des suites ou des séries de chiffres pour être le premier à se débarrasser de toutes ses plaques
-- LOISIR ÉDUCATIF ET CONVIVIAL : Rummikub est un jeu familial qui développe la réflexion et favorise les moments de partage entre petits et grands
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000NIJ7DA{{</world>}}

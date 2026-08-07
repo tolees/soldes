@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 0
 - 0
+- 0
+- 0
 - Fabriqué à partir de 100 % coton biologique
-- 0
-- 0
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D5J24KQV{{</world>}}

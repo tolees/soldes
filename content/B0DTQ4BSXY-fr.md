@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détails recherchés
 - Confort maximal
+- Détails recherchés
 - Ergonomique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

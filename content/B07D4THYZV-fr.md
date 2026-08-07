@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
-- Alimentation humide pour chat - Pourcentage de viande très élevé - Vitamines et minéraux essentiels - Sans céréales
-- Composition : Viande et abats 99 % (dinde : viande, cœur, foie, gésier), minéraux 0.5 %, coquilles dœuf 0.5 %
 - Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 - MjAMjAM - Tout simplement parce que cest bon
+- Composition : Viande et abats 99 % (dinde : viande, cœur, foie, gésier), minéraux 0.5 %, coquilles dœuf 0.5 %
+- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
+- Alimentation humide pour chat - Pourcentage de viande très élevé - Vitamines et minéraux essentiels - Sans céréales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07D4THYZV{{</world>}}

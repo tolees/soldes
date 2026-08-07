@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bee Blue est une gamme créée daprès les dernières tendances daménagement de bureaux. Très déco, parfaite au bureau comme dans nos intérieurs pour le Home Office, elle est destinée à booster la performance et lenthousiasme
 - DIMENSIONS : Profondeur 26,3 x largeur 26,3 x hauteur 33,5 cm
 - Certifié Ange Bleu car réalisé à partir de plastique recyclé post-consommation - Garantie 1 an - vendu en lot de 8 corbeilles couleur safran
 - Design simple et épuré : une partie brillante très opaque pour un design recherché
+- Bee Blue est une gamme créée daprès les dernières tendances daménagement de bureaux. Très déco, parfaite au bureau comme dans nos intérieurs pour le Home Office, elle est destinée à booster la performance et lenthousiasme
 - Cette corbeille à papier Bee Blue dune capacité de 15 litres est très pratique. Ses poignées sont intégrées pour un transport et un vidage aisés ; son intérieur est facilement nettoyable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

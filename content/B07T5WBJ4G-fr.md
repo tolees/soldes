@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le meilleur de (vinyle 180 g)
-- Abis musique
 - Pas maintenant
+- Abis musique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07T5WBJ4G{{</world>}}

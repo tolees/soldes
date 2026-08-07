@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jouet interactif – Élancez-vous dans la course, gagnez des récompenses numériques de la boîte à objets, battez le Bob-omb et le Thwomp et voyez comment Mario réagit aux plaques vertes et rouges
 - Jouet de construction Mario Kart en briques pour garçon ou fille dès 7 ans – Ce set LEGO permet de créer un parcours amusant et de se lancer dans des courses interactives haletantes, avec Mario dans son kart standard
 - Stimulez la créativité des enfants – Conçus pour jouer seul ou à plusieurs, les jouets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
 - Construire et faire la course – Les enfants samusent avec le kart standard qui peut déraper et lancer des carapaces, 3 barrières de piste, 2 cônes de signalisation, une zone de départ et un cercle des vainqueurs avec des briques d’action
-- Jouet interactif – Élancez-vous dans la course, gagnez des récompenses numériques de la boîte à objets, battez le Bob-omb et le Thwomp et voyez comment Mario réagit aux plaques vertes et rouges
+- 3 figurines LEGO Super Mario – Inclut une figurine LEGO Mario interactive, les figurines d’un Bob-omb et d’un Thwomp, ainsi qu’un élément Banane avec un visage
 - Un cadeau LEGO Super Mario passionnant pour les garçons, les filles et tous les gamers dès 7 ans – Offrez aux enfants des heures de jeu de course avec ce set de construction LEGO
 - Des possibilités de jeu illimitées – Explorez la gamme complète de sets LEGO Super Mario : Mario Kart (vendus séparément) et retrouvez d’autres karts et personnages à construire et à affronter dans des courses palpitantes
-- 3 figurines LEGO Super Mario – Inclut une figurine LEGO Mario interactive, les figurines d’un Bob-omb et d’un Thwomp, ainsi qu’un élément Banane avec un visage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWF3YGN3{{</world>}}

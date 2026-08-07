@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très bonnes performances de perçage, endurance élevée et plus grande autonomie grâce au moteur sans charbon
-- Changement d’accessoires facile : La perceuse-visseuse à percussion sans fil est dotée d’un mandrin de 13 mm robuste en métal assurant un maintien ferme des forets et embouts
 - Fourni avec : UniversalImpact 18V-60, 2 batteries 2,0 Ah, chargeur AL 18V-20, coffret de transport
-- POWER FOR ALL ALLIANCE: 1 BATTERIE, ​10+ MARQUES, ​150+ OUTILS
+- Changement d’accessoires facile : La perceuse-visseuse à percussion sans fil est dotée d’un mandrin de 13 mm robuste en métal assurant un maintien ferme des forets et embouts
+- Très bonnes performances de perçage, endurance élevée et plus grande autonomie grâce au moteur sans charbon
 - Les outils de la gamme « Universal » Bosch – polyvalents et solides avec des solutions intelligentes pour de plus grands projets
+- POWER FOR ALL ALLIANCE: 1 BATTERIE, ​10+ MARQUES, ​150+ OUTILS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MTPGVBH{{</world>}}

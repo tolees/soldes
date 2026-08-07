@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de talons: plat
-- Matériau de semelle: caoutchouc
-- Largeur de la chaussure: moyen
 - Doublure: synthétique
+- Largeur de la chaussure: moyen
+- Matériau de semelle: caoutchouc
 - Dessus: cuir
+- Type de talons: plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QW53H2Z{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre chronographe quartz pour homme.
 - Cadran round en couleur blanc en verre minéral.
-- Boîtier round de acier inoxydable, couleur gris.
 - Bracelet de acier inoxydable, couleur gris, avec fermeture double bouton poussoir.
+- Montre chronographe quartz pour homme.
+- Boîtier round de acier inoxydable, couleur gris.
 - Résistance à leau: 3 atm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Brosse pour machine
+- Diamètre : 120 mm - Alésage : 19,5 mm - Forme : Cylindrique
 - Fartools
 - Référence : FA-110886
-- Diamètre : 120 mm - Alésage : 19,5 mm - Forme : Cylindrique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BYC317M{{</world>}}

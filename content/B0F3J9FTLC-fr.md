@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dans le mode Balade, vous pouvez quitter la route pour rouler où vous voulez afin dexplorer les zones qui vous intriguent et de prendre des photos entre amis à des endroits pittoresques. Mario Kart World fera son arrivée le 5 juin sur Nintendo Switch 2.
 - Participez au tout nouveau mode Survie où vous traversez le monde dune seule traite, avec des points de passage qui balisent le parcours. Si vous ne vous placez pas suffisamment haut dans le top lorsque vous les franchissez, cest lélimination directe.
-- Découvrez également le pack Nintendo Switch 2 + Mario Kart World, qui inclut la console et un code de téléchargement pour Mario Kart World, disponible le 5 juin au lancement de la Nintendo Switch 2.
+- Embarquez pour des courses effrénées autour du monde. Ensemble, où vous voulez, quand vous voulez.
 - Uniquement compatible avec la console Nintendo Switch 2
 - Mettez le pied au plancher dans Mario Kart World, une toute nouvelle expérience prenant place dans un vaste monde interconnecté. Faites la course sans interruption à travers des circuits interconnectés qui proposent une expérience inédite dans la série. Les courses peuvent réunir jusquà 24 pilotes.
-- Embarquez pour des courses effrénées autour du monde. Ensemble, où vous voulez, quand vous voulez.
+- Dans le mode Balade, vous pouvez quitter la route pour rouler où vous voulez afin dexplorer les zones qui vous intriguent et de prendre des photos entre amis à des endroits pittoresques. Mario Kart World fera son arrivée le 5 juin sur Nintendo Switch 2.
+- Découvrez également le pack Nintendo Switch 2 + Mario Kart World, qui inclut la console et un code de téléchargement pour Mario Kart World, disponible le 5 juin au lancement de la Nintendo Switch 2.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F3J9FTLC{{</world>}}

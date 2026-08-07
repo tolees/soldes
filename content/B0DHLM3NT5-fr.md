@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Batterie POWERSHARE 20V incluse : utilisez la même batterie sur plus de 200 outils sans fil worx 20V/40V/80V max pour le bricolage et le jardinage pendant l’hivernage
 - Navigation par caméra 4k et ia adaptative : le robot tondeuse vision détecte, identifie et évite les obstacles avec sa caméra 4k et son Intelligence Artificielle, même sous la pluie ou la nuit (accessoire led en option). il s’adapte aux pentes jusqu’à 30 % et bénéficie de mises à jour automatiques OTA (wi-fi)
-- Reconnaissance visuelle ultra précise : landroid vision identifie les zones à tondre et évite les objets, animaux ou plantes sensibles grâce à son IA connectée à une base mondiale partagée avec tous les robots vision
+- Robot tondeuse personnalisable selon vos besoins : améliorez la sécurité avec l’alarme ou le gps (accessoires en option), tondez la nuit grâce à la LED vision et protégez votre robot avec un garage robuste
 - Application mobile intuitive : contrôlez votre robot à distance via l’application worx (wifi/bluetooth), gérez la tonte multizone, personnalisez les horaires et localisez votre robot en cas de vol (gps en option)
 - Résistant et silencieux : conçu pour fonctionner sous la pluie (IPX5) et pendant la nuit, le robot vision offre une tonte discrète et efficace sans nuisance pour le voisinage ou les animaux nocturnes
-- Batterie POWERSHARE 20V incluse : utilisez la même batterie sur plus de 200 outils sans fil worx 20V/40V/80V max pour le bricolage et le jardinage pendant l’hivernage
+- Reconnaissance visuelle ultra précise : landroid vision identifie les zones à tondre et évite les objets, animaux ou plantes sensibles grâce à son IA connectée à une base mondiale partagée avec tous les robots vision
 - Robot compact : design discret, faible consommation, tonte automatique optimisée et technologie intelligente pour un entretien de jardin effficace
-- Robot tondeuse personnalisable selon vos besoins : améliorez la sécurité avec l’alarme ou le gps (accessoires en option), tondez la nuit grâce à la LED vision et protégez votre robot avec un garage robuste
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHLM3NT5{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise.
 - Câble HO5 VV-F - Section 3G1,5 mm²
-- Enrouleur Rallonge Ménager Domestique 10m 16A - Section 3G1,5 mm²
 - Puissance enroulée 1100W - Puissanc déroulée : 3200W
+- Enrouleur Rallonge Ménager Domestique 10m 16A - Section 3G1,5 mm²
+- Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01BYO2FBC{{</world>}}

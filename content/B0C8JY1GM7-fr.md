@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle : 100 % EVA
-- Better Leather
 - Couleur : blanc naturel
+- Better Leather
 - Matériau extérieur : 100 % cuir de vachette
 
 [🛒 Achète-le!!]({{< param buyurl >}})

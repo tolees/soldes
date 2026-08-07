@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montage : Montage facile et sans outils grâce à la fixation rapide élastique.
-- Batterie : Batterie Li-ion rechargeable (700 mAh) rechargeable par port micro USB
 - DURÉE D’ÉCLAIRAGE : Jusquà environ 4 heures.
-- Sécurité : Boîtier résistant aux éclaboussures conforme à la norme IP44.
-- PHARE ARRIÈRE :. 5 LED haute puissance vers larrière avec éclairage au sol à 360° pour une meilleure visibilité
+- Montage : Montage facile et sans outils grâce à la fixation rapide élastique.
 - CHARGEMENT : Câble de chargement inclus dans la livraison. Le temps de charge, avec le chargeur fourni, varie entre 6 et 7 heures. 2 heures.
-- [Léclairage est livré sans le vélo électrique de l’illustration. Ceci sert uniquement à des fins de décoration].
-- Compatible avec : Supports universels pour feux avant et arrière, avec fermeture rapide, rotation à 90 °
 - Homologué code de la route allemand, avec homologation KBA (Autorité fédérale allemande des véhicules à moteur) pour les feux avant et arrière.
+- Compatible avec : Supports universels pour feux avant et arrière, avec fermeture rapide, rotation à 90 °
+- Sécurité : Boîtier résistant aux éclaboussures conforme à la norme IP44.
+- [Léclairage est livré sans le vélo électrique de l’illustration. Ceci sert uniquement à des fins de décoration].
+- Batterie : Batterie Li-ion rechargeable (700 mAh) rechargeable par port micro USB
+- PHARE ARRIÈRE :. 5 LED haute puissance vers larrière avec éclairage au sol à 360° pour une meilleure visibilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T1CFJ9Z{{</world>}}

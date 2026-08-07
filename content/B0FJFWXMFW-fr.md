@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SÉCURITÉ: la technologie Power Delivery (PD) et Adaptive Fast Charge (AFC) protègent vos appareils contre les surchauffes et les courts-circuits, garantissant une recharge rapide et sûre
+- CHARGE RAPIDE 100W : équipé de 3 ports USB-C Power Delivery (PD) et 1 port USB-A Adaptive Fast Charge (AFC), il est capable dalimenter jusquà 4 appareils simultanément, avec une délivrance jusquà 100 watts. Il peut alimenter rapidement nimporte quel appareil : smartphones iPhone et Android comme Samsung, Oppo, Xiaomi et Google en 10 minutes, tablettes et iPad en 20, ordinateurs portables et MacBook en 30 (les temps de charge sont indicatifs et dépendent de la batterie de lappareil en charge)
 - ADAPTATEUR DE VOYAGE INTERNATIONAL: Rechargez vos appareils où que vous soyez. Grâce à ce chargeur de voyage universel avec prise US intégrée et ses adaptateurs (UK/EU/AU), vous pouvez recharger votre ordinateur portable, tablette, téléphone, liseuse et enceinte partout dans le monde.
 - ADAPTIVE FAST CHARGE (AFC): technologie qui règle automatiquement la puissance de sortie pour offrir la meilleure vitesse de charge possible, basée sur les capacités de lappareil connecté
-- CHARGE RAPIDE 100W : équipé de 3 ports USB-C Power Delivery (PD) et 1 port USB-A Adaptive Fast Charge (AFC), il est capable dalimenter jusquà 4 appareils simultanément, avec une délivrance jusquà 100 watts. Il peut alimenter rapidement nimporte quel appareil : smartphones iPhone et Android comme Samsung, Oppo, Xiaomi et Google en 10 minutes, tablettes et iPad en 20, ordinateurs portables et MacBook en 30 (les temps de charge sont indicatifs et dépendent de la batterie de lappareil en charge)
-- SÉCURITÉ: la technologie Power Delivery (PD) et Adaptive Fast Charge (AFC) protègent vos appareils contre les surchauffes et les courts-circuits, garantissant une recharge rapide et sûre
 - DESIGN COMPACT : grâce à ses dimensions réduites ce chargeur de voyage est portable, léger et compact, il vous permet de lavoir toujours avec vous pendant vos voyages. Inclus dans la boîte : Adaptateur, fiches internationales et une pochette de voyage pratique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

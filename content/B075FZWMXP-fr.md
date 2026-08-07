@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La semelle intermédiaire offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
-- Semelle extérieure en TPU multifonctionnelle, légère et flexible conçue pour toutes sortes d’activités
 - Tige en cuir souple, doublure confortable en microfibre et fermeture réglable pour un ajustement sur mesure
 - Technologie ECCO RECEPTOR pour une excellente stabilité et un soutien dynamique de limpact au sol jusquau soulèvement du pied
+- Semelle extérieure en TPU multifonctionnelle, légère et flexible conçue pour toutes sortes d’activités
 - Assise plantaire confortable et vêtue de microfibre, dotée d’une couche de mousse supplémentaire pour un amorti longue durée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

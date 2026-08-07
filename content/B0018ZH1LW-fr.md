@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Feutre universel pour la rétroprojection et la plupart des surfaces : papier, carton, film de rétroprojection, plastique, métal, polystyrène, verre, porcelaine, bois, cuir, pierre,
 - Séchage rapide sur le support, idéal pour les gauchers
+- Feutre universel pour la rétroprojection et la plupart des surfaces : papier, carton, film de rétroprojection, plastique, métal, polystyrène, verre, porcelaine, bois, cuir, pierre,
 - Couleur: Rouge
 - Encre non permanente soluble à l’eau, sans xylène ni toluène, effaçable sur les films transparents à l’aide d’un chiffon humide
 

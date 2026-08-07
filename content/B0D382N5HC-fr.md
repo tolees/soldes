@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige basse en cuir durable, libérant la cheville
-- Semelle intermédiaire avec rembourrage EVA double densité
 - Semelle Vibram MULAZ dédiée à lalpinisme, précise et accrocheuse
+- Semelle intermédiaire avec rembourrage EVA double densité
 - Protection en caoutchouc
+- Tige basse en cuir durable, libérant la cheville
 - Semelle supérieure offrant un excellent niveau de confort anatomique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Part de polyester recyclé
-- 2 poches avant à fermeture éclair
 - Laminé GORE-TEX 2 couches avec membrane ePE sans PFC
 - Capuche avec réglage à 1 point
 - Fermeture éclair frontale déperlante
+- 2 poches avant à fermeture éclair
+- Part de polyester recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DSPTLSLL{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Sac à poussière spécial (ASIN:B084ZK8N8X) pour la poubelle intelligente M7Pro
 - Lorsque le sac à poussière est plein, remplacez-le par un nouveau lorsque le voyant du collecteur de poussière clignote en jaune.
-- Il peut vider automatiquement les ordures dans le poubelle du robot M7 PRO. Durée dexécution : 100-150 minutes
 - Il est recommandé de remplacer le sac à poussière toutes les 6-8 semaines.
+- Il peut vider automatiquement les ordures dans le poubelle du robot M7 PRO. Durée dexécution : 100-150 minutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07ZQ41XQ6{{</world>}}

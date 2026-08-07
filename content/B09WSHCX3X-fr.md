@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéales pour vos séances de récupération
+- Le nec plus ultra de lélectrostimulation sportive avec des fonctions uniques Compex : Mi-autorange pour un confort dutilisation et Mi-action pour personnaliser vos exercices.
 - 4 canaux indépendants permettant de travailler simultanément 2 groupes musculaires.
 - Convient pour 20 à 30 utilisations
-- Stimulateur musculaire proposant 30 programmes : 13 programmes préparation physique, 10 programmes anti-douleur, 5 programmes récupération, 2 programmes rééducation et 10 programmes fitness.
 - Compatible avec lapplication gratuite Compex Coach (disponible sur Android et Iphone) pour vous aider à fixer et suivre vos objectifs personnels.
-- Le nec plus ultra de lélectrostimulation sportive avec des fonctions uniques Compex : Mi-autorange pour un confort dutilisation et Mi-action pour personnaliser vos exercices.
+- Idéales pour vos séances de récupération
+- Stimulateur musculaire proposant 30 programmes : 13 programmes préparation physique, 10 programmes anti-douleur, 5 programmes récupération, 2 programmes rééducation et 10 programmes fitness.
 - Compatible avec tous les Compex à fils ou sans fils avec connectique SNAP
 - Sachet de 2 Electrodes Compex EASY SNAP 5 x 10 cm - 1 SNAP
 

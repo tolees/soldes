@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctions déclairage: 3 - avec feu de clignotant/avec feu arrière/avec feu de stop
+- Type de lampe: LED
 - Couleur du carter: noir
 - Longueur: 95mm - Hauteur: 36mm - Type de lampe: LED - Nombre des LEDs: 17
-- Vérifié par la CEE
-- Nombre des LEDs: 17
 - Marque de conformité: E9 6650, ECE
-- Type de lampe: LED
 - Nombre de fonctions déclairage: 3
+- Nombre des LEDs: 17
 - Diamètre [mm]: 95
+- Vérifié par la CEE
+- Fonctions déclairage: 3 - avec feu de clignotant/avec feu arrière/avec feu de stop
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00V0COPF8{{</world>}}

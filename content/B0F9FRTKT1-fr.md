@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissante retroprojection:Avec jusqu’à 1035 lm, ce projecteur mural peut briller de mille feux. Sa gradation ultra-précise lui permet aussi de créer une belle ambiance tamisée ou de faire office de veilleuse élégante
-- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique G
 - Matériaux de qualité : Le projecteur mural est fait en aluminium avec une finition mat, vous permettant de ne pas être ébloui par le reflet de la télévision sur le luminaire
-- Projection de lumière plus large : Peu importe la distance à laquelle il est placé du mur, le projecteur Play Wall Washer couvre trois fois plus de surface en lumière colorée que les autres projecteurs muraux
 - Un design compact : Malgré sa puissance lumineuse élevée, le projecteur Hue Play Wall Washer est de petite taille, seulement 15,7 cm x 9,1 cm. Ce qui permet de le placer nimporte où comme par exemple sur un meuble TV ou un buffet
+- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique G
+- Projection de lumière plus large : Peu importe la distance à laquelle il est placé du mur, le projecteur Play Wall Washer couvre trois fois plus de surface en lumière colorée que les autres projecteurs muraux
+- Puissante retroprojection:Avec jusqu’à 1035 lm, ce projecteur mural peut briller de mille feux. Sa gradation ultra-précise lui permet aussi de créer une belle ambiance tamisée ou de faire office de veilleuse élégante
 - Technologie ColorCast :Une première en son genre, le placement innovant des LED parfaitement agencées projette les couleurs comme aucun autre éclairage en dégradé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

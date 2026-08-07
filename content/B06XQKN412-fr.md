@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haut de gamme : tirette et extrémité de la fermeture éclair en cuir véritable pour plus d’élégance
-- Contenu du coffret : sacoche de protection Wacom large
 - Généreuse : de la place pour votre appareil, votre ordinateur portable et/ou votre clavier ainsi que vos stylets et câbles (454 x 305 x 15 mm)
 - Pratique : en nylon étanche et résistant, elle est dotée d’une doublure intérieure pour protéger votre appareil et vos accessoires Wacom
+- Haut de gamme : tirette et extrémité de la fermeture éclair en cuir véritable pour plus d’élégance
+- Contenu du coffret : sacoche de protection Wacom large
 - Compatibilité : Wacom Intuos Pro, Wacom Cintiq Pro 13/ 16, Wacom Cintiq 16 et Wacom MobileStudio Pro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

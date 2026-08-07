@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
-- Semelle extérieure en caoutchouc.
-- Tige textile et synthétique.
 - Chaussant standard.
+- Semelle extérieure en caoutchouc.
+- Doublure textile.
+- Tige textile et synthétique.
 - Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

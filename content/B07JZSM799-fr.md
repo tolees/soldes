@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon chino décontracté avec technologie Smart 360 Flex pour plus délasticité et de confort
-- Coupe droite
-- Poche de sécurité invisible avec une fermeture zippée dissimulée et une petite poche pour les pièces
 - Ceinture élastique Flex Comfort Waistband pour plus de stretch
+- Poche de sécurité invisible avec une fermeture zippée dissimulée et une petite poche pour les pièces
+- Coupe droite
+- Pantalon chino décontracté avec technologie Smart 360 Flex pour plus délasticité et de confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JZSM799{{</world>}}

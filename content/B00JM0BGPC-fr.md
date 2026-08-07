@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : une cafetière électrique; dimensions 190 x 208 x 146 mm
-- La machine permet datteindre une température dinfusion optimale; pour libérer parfaitement tous les arômes de votre café,et vous permettre de le déguster à température idéale
-- Profitez de la fonction arrêt automatique qui permet à lappareil de séteindre automatiquement quelques minutes après la fin de la préparation de votre café
 - La cafetière est dotée dun design compact qui sintègrera parfaitement dans toutes les cuisines
 - La cafetière dune capacité de 0,25L, ou 2 tasses de café, possède un réservoir deau transparent facile à remplir et à nettoyer ainsi que dune verseuse en verre avec porte-filtre amovible
+- Profitez de la fonction arrêt automatique qui permet à lappareil de séteindre automatiquement quelques minutes après la fin de la préparation de votre café
+- Contenu : une cafetière électrique; dimensions 190 x 208 x 146 mm
+- La machine permet datteindre une température dinfusion optimale; pour libérer parfaitement tous les arômes de votre café,et vous permettre de le déguster à température idéale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JM0BGPC{{</world>}}

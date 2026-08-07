@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plus de 155 cm de taille et 31 kg
-- Design élégant, réplique exacte du modèle original (Dynamo HS-5) ; écran couleur BOE 17 pouces haute résolution
 - Une véritable borne darcade de collection qui incarne lesprit des années 90 ; auvent lumineux et fente à pièces lumineuse moulée en 3D
+- Plus de 155 cm de taille et 31 kg
 - Deux haut-parleurs pour un son dynamique ; connexion Wi-Fi pour des parties multijoueurs en ligne et des classements en ligne
+- Design élégant, réplique exacte du modèle original (Dynamo HS-5) ; écran couleur BOE 17 pouces haute résolution
 - 14 jeux classiques inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

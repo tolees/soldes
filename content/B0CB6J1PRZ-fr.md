@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mack est détachable de l’atelier de peinture itinérant et possède des éléments qui changent de couleur. Essayez d’arroser son éclair !
+- Utilisez de l’eau chaude pour changer la couleur de la voiture et de l’eau glacée pour retrouver la couleur originale. Changez un seul endroit ou la voiture entière, et recommencez à l’infini !
 - Pulvérisez la bombe de « peinture » sur Flash McQueen ou plongez ce dernier dans le réservoir pour transformer ce véhicule Color Changers.
 - Avec autant de possibilités de jeu dès l’ouverture de la boîte, ce coffret Mack avec changement de couleur est un cadeau idéal pour les enfants et les fans de Cars à partir de 4 ans. Avec son récupérateur d’eau, le nettoyage est un jeu d’enfant.
+- Mack est détachable de l’atelier de peinture itinérant et possède des éléments qui changent de couleur. Essayez d’arroser son éclair !
 - Prenez la route avec style grâce au Coffret Mack Atelier de Peinture Itinérant Color Changers inspiré des films Cars de Disney · Pixar, avec Flash McQueen inclus !
-- Utilisez de l’eau chaude pour changer la couleur de la voiture et de l’eau glacée pour retrouver la couleur originale. Changez un seul endroit ou la voiture entière, et recommencez à l’infini !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB6J1PRZ{{</world>}}

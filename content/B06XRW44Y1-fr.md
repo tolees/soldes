@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur : 14 cm - Largeur : 14 cm - Hauteur : 8 cm - Poids : 2,2 kg - Partie fonctionnelle diamètre : 10,5 cm - Diamètre du fond : 7,5 cm - Profondeur : 5 cm - Quantité de remplissage : 0,34 L - Granit naturel
+- RÖSLE Mortier en granit : Mortier en pierre de haute qualité pour broyer des herbes, des épices et pour la fabrication de pâtes de curry, de vos propres mélanges dépices ou de pesto : un mortier pour tous ceux qui attachent de limportance à un équipement de cuisine de qualité
+- Pratique : le fond antidérapant en caoutchouc mousse offre une bonne stabilité et protège les surfaces de travail sensibles
 - Fiable : Le mortier est en granit noir, ce qui en fait un outil fiable - contrairement à la porcelaine et à la céramique, les effets de force tels que le pilage de grains durs ne posent aucun problème
 - Tout comme le mortier en granit, le pilon correspondant est fabriqué en pierre de granit - le pilon et le mortier sont bonnement adaptés lun à lautre et fournissent ainsi les bons résultats de râpage
-- Pratique : le fond antidérapant en caoutchouc mousse offre une bonne stabilité et protège les surfaces de travail sensibles
-- RÖSLE Mortier en granit : Mortier en pierre de haute qualité pour broyer des herbes, des épices et pour la fabrication de pâtes de curry, de vos propres mélanges dépices ou de pesto : un mortier pour tous ceux qui attachent de limportance à un équipement de cuisine de qualité
+- Longueur : 14 cm - Largeur : 14 cm - Hauteur : 8 cm - Poids : 2,2 kg - Partie fonctionnelle diamètre : 10,5 cm - Diamètre du fond : 7,5 cm - Profondeur : 5 cm - Quantité de remplissage : 0,34 L - Granit naturel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XRW44Y1{{</world>}}

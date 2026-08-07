@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- il assure un ajustement optimal
+- 65%POLYESTER 35% COTON
 - il sagit dun produit authentique et original SCHOTT NYC
 - Ce style a été produit de manière durable
-- 65%POLYESTER 35% COTON
-- il assure un ajustement optimal
 - Confortable à porter
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

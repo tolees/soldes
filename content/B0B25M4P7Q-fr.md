@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- chaussure de randonnée multifonctionnelle
+- étanche
 - semelle de randonnée robuste
 - très bon amortissement
+- chaussure de randonnée multifonctionnelle
 - respirant
-- étanche
 - Jack Wolfskin Vojo 3 Texapore MID M Chaussures de marche Kaki Phantom 40 EU, Kaki Phantom, 40 EU
 
 [🛒 Achète-le!!]({{< param buyurl >}})

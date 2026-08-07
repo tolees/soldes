@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition: Chicken meat, liver, heart, gizzard (56%), meat stock (28.5%), shrimp (14.5%), minerals (1%)
 - Laliment complet et les collations de MjAMjAM offrent une alimentation adaptée à lespèce, naturelle et axée sur les proies. Notre fournisseur le plus important - la nature !
+- Composition: Chicken meat, liver, heart, gizzard (56%), meat stock (28.5%), shrimp (14.5%), minerals (1%)
 - Pour nos repas, nous utilisons principalement des ingrédients provenant de fermes régionales. Élevés ou cultivés avec beaucoup damour, ils sont soumis aux contrôles de qualité les plus stricts.
 - Le bien-être animal est notre priorité absolue, cest pourquoi nous évitons les colorants et attractifs, le sucre, le gluten, les céréales, le soja, les sous-produits végétaux et les conservateurs synthétiques.
 

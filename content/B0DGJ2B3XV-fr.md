@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MULTIPLES POINTS DARTICULATION : Cette figurine a une tête, des bras et des jambes articulés pour que les fans puissent lexposer dans des poses dynamiques
+- CRÉER SA PROPRE SCÈNE : Il existe dautres figurines Star Wars : La Revanche des Sith, dont R2-D2 et Comte Dooku pour recréer ses scènes emblématiques préférées (vendues séparément, dans la limite des stocks)
 - DESIGN ET DÉCO PREMIUM À LÉCHELLE 15 CM : Les fans et les collectionneurs peuvent exposer dans leur collection cette figurine de 15 cm avec son design et sa déco inspirés du personnage
 - ACCESSOIRE INSPIRÉ DU PERSONNAGE : Cette figurine Kit Fisto inclut un sabre laser
 - PERSONNAGE EMBLÉMATIQUE, EMBALLAGE ANNIVERSAIRE : On peut exposer la figurine sur son étagère ou sur son bureau avec son emballage sous blister nostalgique et illustrations commémoratives
-- CRÉER SA PROPRE SCÈNE : Il existe dautres figurines Star Wars : La Revanche des Sith, dont R2-D2 et Comte Dooku pour recréer ses scènes emblématiques préférées (vendues séparément, dans la limite des stocks)
 - 20E ANNIVERSAIRE DE STAR WARS : LA REVANCHE DES SITH : Cette figurine Kit Fisto est inspirée de lÉpisode III de la trilogie classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

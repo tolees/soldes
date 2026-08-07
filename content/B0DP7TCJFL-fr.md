@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti renforcé, grâce au Système Zéro Shock
 - Fast In System : enfilage facile et rapide sans les mains
+- Amorti renforcé, grâce au Système Zéro Shock
 - Chaussures légères
 - Lacets élastiques pour ajuster le chaussant
 - Semelle intérieure amovible

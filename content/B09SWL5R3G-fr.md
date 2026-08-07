@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col rembourré coupe basse
-- Semelle intermédiaire en mousse
 - Inserts perforés sur la pointe
+- Semelle intermédiaire en mousse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09SWL5R3G{{</world>}}

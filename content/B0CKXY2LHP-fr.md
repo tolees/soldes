@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bout renforcé.
 - Chaussant standard.
-- Doublure textile.
-- Doublure textile.
 - Contient au moins 20 % de matériaux recyclés.
-- Tige en cuir.
 - Semelle extérieure en caoutchouc.
 - Fermeture à lacets.
+- Tige en cuir.
+- Doublure textile.
+- Doublure textile.
+- Bout renforcé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKXY2LHP{{</world>}}

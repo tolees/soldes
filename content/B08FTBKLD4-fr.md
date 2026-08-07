@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La lampe a une hauteur de 26 cm et un diamètre de 16 cm
 - Lampe de table Sophia avec base en céramique dorée et abat-jour en velours vert/doré
+- La lampe a une hauteur de 26 cm et un diamètre de 16 cm
 - Ampoule non incluse. Ampoule recommandée : 1 x E14 maximum 40 watts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

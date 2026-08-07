@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Noir
 - Matière : Toile
 - Taille : 42 EU
+- Couleur : Noir
 - Saison : Printemps Été
 - Fermeture : Lacets
 

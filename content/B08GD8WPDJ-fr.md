@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élaboré par des nutritionnistes spécialisés, en collaboration avec des vétérinaires.
 - Sans arômes, colorants, conservateurs ou antioxydants artificiels ajoutés
+- Élaboré par des nutritionnistes spécialisés, en collaboration avec des vétérinaires.
 - Marque Amazon - Nourriture pour chiens à vie - Tapotez avec du poulet et du cœur gourmet avec des carottes et des pâtes (10 plateaux de 300 g)
 - À partir de vitamine D3 pour des os et des dents en bonne santé et de vitamine E pour aider à maintenir une bonne fonction immunitaire Avec des protéines de qualité pour soutenir les muscles forts
 

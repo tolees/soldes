@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Au-delà des murs du destin
-- Un système de combat évolué
 - Un monde gigantesque
+- Un système de combat évolué
+- Au-delà des murs du destin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJ52C4Q8{{</world>}}

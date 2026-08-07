@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Visualiseur et webcam deux en un : retournez la tête de la caméra DO-CAM pour basculer entre le partage de documents et la communication « directe ». Utilisez le bouton « retourner » pour que les images soient toujours bien orientées. (DO-CAM ne dispose pas dun microphone intégré. Pour passer des appels vidéo avec la DO-CAM, vous devrez utiliser le microphone intégré de votre ordinateur ou un microphone USB externe.)
+- Stabilité et flexibilité hors pair : toutes les parties interconnectées de la DO-CAM sont entièrement réglables, ce qui vous permet de filmer du contenu depuis différents angles, hauteurs et orientations. Un support de câble a été ajouté pour ranger le câble USB connecté.
 - Compatibilité matérielle et logicielle : la DO-CAM est une caméra UVC standard qui fonctionne avec Mac, PC Windows et Chromebook via USB. Vous pouvez utiliser le logiciel Visualizer dIPEVO ou bien le logiciel tiers de votre choix.
 - Qualité dimage exceptionnelle : la DO-CAM est équipée dun capteur dimages Sony CMOS de 8 Mpx qui offre des performances exceptionnelles en matière de réduction du bruit et de reproduction des couleurs. Filmez les détails de vos éléments en résolution ultra HD jusquà 3264 x 2448.
-- Stabilité et flexibilité hors pair : toutes les parties interconnectées de la DO-CAM sont entièrement réglables, ce qui vous permet de filmer du contenu depuis différents angles, hauteurs et orientations. Un support de câble a été ajouté pour ranger le câble USB connecté.
-- Visualiseur et webcam deux en un : retournez la tête de la caméra DO-CAM pour basculer entre le partage de documents et la communication « directe ». Utilisez le bouton « retourner » pour que les images soient toujours bien orientées. (DO-CAM ne dispose pas dun microphone intégré. Pour passer des appels vidéo avec la DO-CAM, vous devrez utiliser le microphone intégré de votre ordinateur ou un microphone USB externe.)
 - Légère et compacte : la DO-CAM est pratique à utiliser, à ranger et à transporter. En effet, cette caméra qui a la taille dun petit étui à crayons est la plus légère du marché (335 g).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

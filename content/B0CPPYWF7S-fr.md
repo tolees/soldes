@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enfilage facile et rapide
 - Semelle intérieure amovible
+- Enfilage facile et rapide
 - Fermeture à un scratch et lacets élastiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

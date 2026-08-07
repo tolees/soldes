@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 OPTIONS DE JEU À CONSTRUIRE EN FAMILLE – Ce modèle de voiture est doté du paratonnerre du 1er film et, comme dans le 2ème film, peut être transformé en mode voiture volante en basculant les roues
-- VOITURE JOUET DE RETOUR VERS LE FUTUR POUR GARÇON OU FILLE DÈS 9 ANS – Les fans de la trilogie seront ravi.e.s de créer et exposer cette maquette de la machine à remonter le temps
-- ACCESSOIRES AUTHENTIQUES – Cette réplique intègre des détails de la version cinématographique, dont les prises d’air à l’arrière, le cockpit, le convecteur temporel & le calculateur de temps
 - VOITURES DE LÉGENDE, POUR JOUER & EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles
 - DÉVELOPPEZ VOTRE PASSION – Découvrez d’autres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques
-- CADEAU ORIGINAL POUR GARÇON OU FILLE DÈS 9 ANS, INSPIRÉ DE RETOUR VERS LE FUTUR – Cette maquette offre une fabuleuse expérience de construction et surprendra les enfants, les cinéphiles & les adultes nostalgiques
+- VOITURE JOUET DE RETOUR VERS LE FUTUR POUR GARÇON OU FILLE DÈS 9 ANS – Les fans de la trilogie seront ravi.e.s de créer et exposer cette maquette de la machine à remonter le temps
 - 2 MINIFIGURINES – Ce jeu LEGO, inspiré de Retour vers le futur, inclut 2 personnages de la franchise cinématographique : Doc Brown & Marty McFly, à placer dans le cockpit pour imaginer un jeu de rôle palpitant
+- CADEAU ORIGINAL POUR GARÇON OU FILLE DÈS 9 ANS, INSPIRÉ DE RETOUR VERS LE FUTUR – Cette maquette offre une fabuleuse expérience de construction et surprendra les enfants, les cinéphiles & les adultes nostalgiques
+- ACCESSOIRES AUTHENTIQUES – Cette réplique intègre des détails de la version cinématographique, dont les prises d’air à l’arrière, le cockpit, le convecteur temporel & le calculateur de temps
+- 2 OPTIONS DE JEU À CONSTRUIRE EN FAMILLE – Ce modèle de voiture est doté du paratonnerre du 1er film et, comme dans le 2ème film, peut être transformé en mode voiture volante en basculant les roues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXDXXYR{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Réglage par pédale
 - Échelle transformable 3 plans
 - Solides éléments de guidage avec patins plastique
 - Utilisation polyvalente comme échelle simple, échelle coulissante et échelle-chevalet
-- Réglage par pédale
 - 3 x 12 échelons
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

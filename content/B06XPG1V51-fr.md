@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GROHE TurboStat Régulation thermostatique quasi-instantanée
+- GROHE EcoJoy économie d’eau
 - Bouton poussoir SmartControl pour ON-OFF, tourner pour l’ajustement du débit EcoJoy au débit maximum
 - GROHE CoolTouch Minimise les risques de brûlures
-- GROHE EcoJoy économie d’eau
+- GROHE TurboStat Régulation thermostatique quasi-instantanée
 - Débit minimum nécessaire 10 l/min
 
 [🛒 Achète-le!!]({{< param buyurl >}})

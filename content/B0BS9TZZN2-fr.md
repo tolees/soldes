@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile à utiliser : La GST 18V-125 B est facile à utiliser et offre des caractéristiques essentielles : porte-lame SDS, LED d’éclairage, mouvement pendulaire à 4 positions, présélection de vitesse
-- Puissante : Conception robuste et moteur sans charbon pour une très grande autonomie et une plus longue durée de vie
 - Livré avec : GST 18V-125 B, 1 lame de scie sauteuse T 144 D Speed for Wood, set d’aspiration
+- Puissante : Conception robuste et moteur sans charbon pour une très grande autonomie et une plus longue durée de vie
 - Autres fonctions : Permet d’effectuer des coupes biaises jusqu’à 45°, dispose d’un patin de glissement en plastique amovible pour protéger les pièces
 - AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
+- Facile à utiliser : La GST 18V-125 B est facile à utiliser et offre des caractéristiques essentielles : porte-lame SDS, LED d’éclairage, mouvement pendulaire à 4 positions, présélection de vitesse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BS9TZZN2{{</world>}}

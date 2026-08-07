@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 - Un fit polyvalent à la taille haute flatteuse
 - Jambe droite ultra-moderne
+- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D54MRVT7{{</world>}}

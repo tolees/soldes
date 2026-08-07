@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Configuration simple via Wi-Fi 2,4 GHz, sans hub supplémentaire, compatible avec les applications Garza Smart, Tuya Smart et Smart Life, contrôle individuel des prises et du port USB
 - Puissance maximale admissible de 2 300 W et intensité maximale de 10 A ; port USB avec 5 V et 2,4 A au total
-- Protection contre les surcharges, les surtensions et les pics de tension, ainsi quune sécurité enfants pour une plus grande tranquillité desprit
 - Permet de programmer la mise en marche et larrêt en fonction de lheure, de la météo, dune minuterie ou dun compte à rebours, et de créer des automatisations et des scénarios
 - Prise WiFi double Garza Smart pour lintérieur, avec 2 prises électriques et 2 ports USB, commande à distance via smartphone et assistants vocaux.
 - Suivi de la consommation quotidienne, mensuelle et annuelle pour gérer lénergie et optimiser les économies à la maison
-- Configuration simple via Wi-Fi 2,4 GHz, sans hub supplémentaire, compatible avec les applications Garza Smart, Tuya Smart et Smart Life, contrôle individuel des prises et du port USB
+- Protection contre les surcharges, les surtensions et les pics de tension, ainsi quune sécurité enfants pour une plus grande tranquillité desprit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0922WVQ4T{{</world>}}

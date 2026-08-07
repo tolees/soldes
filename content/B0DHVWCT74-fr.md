@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure Traxion.
 - Poids : 390 g (pointure 42 2/3).
-- Fermeture à lacets.
-- RAIN.RDY.
-- Languette à goussets.
+- Chaussant standard.
+- Semelle intermédiaire en EVA.
 - Drop semelle intermédiaire : 10 mm (talon : 27 mm / 17 mm).
 - Tige textile avec bout renforcé.
-- Chaussant standard.
-- Semelle extérieure Traxion.
-- Semelle intermédiaire en EVA.
 - Contient au moins 20 % de matériaux recyclés et renouvelables.
+- RAIN.RDY.
+- Fermeture à lacets.
+- Languette à goussets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVWCT74{{</world>}}

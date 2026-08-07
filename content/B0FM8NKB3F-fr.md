@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appelez votre pigeon pour accéder à de nouvelles zones, vous déplacer rapidement et planifier vos itinéraires
 - Explorez d’immenses maps de parkour vertigineuses
+- Appelez votre pigeon pour accéder à de nouvelles zones, vous déplacer rapidement et planifier vos itinéraires
 - Débloquez plus de 100 options de personnalisation pour vous et votre pigeon
-- Des tonnes de défis et de modes de jeu, en solo ou entre amis (Jusqu’à 4 joueurs) :
 - Découvrez, apprenez, et maîtrisez, puis combinez des dizaines de tricks
+- Des tonnes de défis et de modes de jeu, en solo ou entre amis (Jusqu’à 4 joueurs) :
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FM8NKB3F{{</world>}}

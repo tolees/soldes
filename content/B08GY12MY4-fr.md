@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Découvrez toutes les meilleures marques chez EMP!
 - Cadeaux, Chats, Gothic, Horreur
-- Statuette présentant les caractéristiques suivantes:
 - Statuette || Marchandises fun et de fans || Motif: Uni
+- Statuette présentant les caractéristiques suivantes:
 - Mesures: Taille standard
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

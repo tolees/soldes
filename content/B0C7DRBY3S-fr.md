@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Creature in the Well est un jeu dexploration de donjon, de type hack & slash et en vue de dessus, aux airs de flippers; dernier membre de lunité BOT-C, vous vous aventurez dans une montagne au beau milieu dun désert pour reprendre le contrôle dun ancien complexe hanté par une créature désespérée. Équipez-vous dun équipement puissant pour libérer la ville de Mirage dune terrible tempête de sable
 - Explorez des donjons : aventurez-vous dans les profondeurs de la montagne en déverrouillant huit donjons créés méticuleusement, chacun proposant un gameplay, des objets et des secrets uniques
-- Venez à bout de la créature : surmontez les nombreux défis laissés sur votre chemin par la créature et affrontez-la lors de combats aussi complexes quépiques
-- Plus de 20 objets uniques : personnalisez votre style de jeu avec des armes et équipements améliorables
 - Du flipper à lépée : chargez des orbes dénergie puis faites-les ricocher pour réactiver la machine et mettre un terme à la tempête
+- Creature in the Well est un jeu dexploration de donjon, de type hack & slash et en vue de dessus, aux airs de flippers; dernier membre de lunité BOT-C, vous vous aventurez dans une montagne au beau milieu dun désert pour reprendre le contrôle dun ancien complexe hanté par une créature désespérée. Équipez-vous dun équipement puissant pour libérer la ville de Mirage dune terrible tempête de sable
+- Plus de 20 objets uniques : personnalisez votre style de jeu avec des armes et équipements améliorables
+- Venez à bout de la créature : surmontez les nombreux défis laissés sur votre chemin par la créature et affrontez-la lors de combats aussi complexes quépiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7DRBY3S{{</world>}}

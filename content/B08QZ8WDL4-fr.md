@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En combinaison avec les batteries ProCORE18V, le nouveau moteur haute performance sans charbon offre une puissance comparable à celle d’un outil filaire.
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Utilisation polyvalente : maîtrise totale de la puissance grâce aux 3 plages de présélection de vitesse/couple
-- Livré avec : boulonneuse sans fil professionnelle Bosch Professional GDS 18V-1050 H, calage L-BOXX 1/1 pour outil et chargeur, L-BOXX 136
 - Une puissance remarquable : 1 050 Nm en serrage et jusqu’à 1 700 Nm en desserrage
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
+- Livré avec : boulonneuse sans fil professionnelle Bosch Professional GDS 18V-1050 H, calage L-BOXX 1/1 pour outil et chargeur, L-BOXX 136
+- En combinaison avec les batteries ProCORE18V, le nouveau moteur haute performance sans charbon offre une puissance comparable à celle d’un outil filaire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QZ8WDL4{{</world>}}

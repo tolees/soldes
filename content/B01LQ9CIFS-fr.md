@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Différents motifs : vagues, dents de scie et dentelles
 - 16,0 cm avec grands anneaux
+- Différents motifs : vagues, dents de scie et dentelles
 - couleur assortie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

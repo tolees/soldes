@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Combined salt and pepper grinder.
-- Made from rubber-sprayed plastic, for a non-slip finish
-- Uses premium quality ceramic grinders that maintain their sharpness without absorbing taste or aroma.
 - Adjust the level of the grind from fine to coarse with a simple twist.
+- Uses premium quality ceramic grinders that maintain their sharpness without absorbing taste or aroma.
+- Made from rubber-sprayed plastic, for a non-slip finish
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVCCCFY7{{</world>}}

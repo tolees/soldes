@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sa texture délicate enrobe chaque boucle pour une tenue naturelle et une définition optimale sans les alourdir.
-- Connu pour ses vertus hydratantes, l’Aloe Vera apporte souplesse et douceur avec l’association du Pitaya, aux vertus sublimatrices. Résultat ? Une définition précise sans effet cartonné.
 - Conçue pour les cheveux ondulés, bouclés et frisés, cette mousse légère et aérienne, enrichie en Aloe Vera, est lalliée idéale pour des boucles parfaitement définies et rebondies.
+- Connu pour ses vertus hydratantes, l’Aloe Vera apporte souplesse et douceur avec l’association du Pitaya, aux vertus sublimatrices. Résultat ? Une définition précise sans effet cartonné.
+- Sa texture délicate enrobe chaque boucle pour une tenue naturelle et une définition optimale sans les alourdir.
 - Révélez toute la beauté de vos boucles avec la Mousse Bouclante Acticurl Expert !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

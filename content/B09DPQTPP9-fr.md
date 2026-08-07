@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Durable
-- Enceinte
 - Audiocore
+- Enceinte
 - AC875
 
 [🛒 Achète-le!!]({{< param buyurl >}})

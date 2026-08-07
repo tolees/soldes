@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GRANDE POUPÉE 30 CM - La grande taille de cette poupée Shibajuku la rend très agréable pour jouer et utiliser les accessoires disponibles dans la collection.
 - COLLECTION SHIBAJUKU - Cette poupée fait partie de la collection Shibajuku Anime, collectors edition. Il existe 5 modèles de poupées kawai disponibles avec leurs accessoires.
-- JOUET ENFANT 3 ANS ET PLUS - Une poupée adaptée pour les enfants à partir de 3 ans. Cette poupée kawai dinspiration japonaise permet de stimuler la créativité avec les accessoires de mode, et est bien maniable avec son grand format.
 - POUPÉE INSPIRÉE DE LA MODE JAPONAISE - La poupée Akira incarne le style unique et coloré des rues de Tokyo, permettant aux enfants de simmerger dans la culture japonaise et de développer leur sens de la mode.
+- JOUET ENFANT 3 ANS ET PLUS - Une poupée adaptée pour les enfants à partir de 3 ans. Cette poupée kawai dinspiration japonaise permet de stimuler la créativité avec les accessoires de mode, et est bien maniable avec son grand format.
 - ACCESSOIRES PERSONNALISABLES - Chaque poupée est livrée avec des accessoires tendance, offrant aux enfants la possibilité de personnaliser et de styliser Akira selon leurs envies, stimulant ainsi leur créativité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

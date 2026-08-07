@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gel contour des yeux hydratant et illuminateur pour lutter contre lapparence des poches et des cernes.
 - Appliquez le matin et le soir sur le contour de l’œil en lissant de lintérieur vers lextérieur.
 - Ce soin est enrichi en Caféine, Vitamine C et en Micro-Perles illuminatrices connus pour réveiller le regard. Lapparence des poches et des cernes est visiblement réduite. Les ridules de déshydratation sont atténuée pour un regard revitalisé.
+- Gel contour des yeux hydratant et illuminateur pour lutter contre lapparence des poches et des cernes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00UN5MV86{{</world>}}

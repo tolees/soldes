@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ras du cou
 - Ajustement régulier
-- Tissu doux
-- Logo Nike sur le devant
 - Department: Homme
+- Tissu doux
+- Ras du cou
+- Logo Nike sur le devant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FKCKLHV{{</world>}}

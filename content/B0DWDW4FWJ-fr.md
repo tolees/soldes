@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design Lamborghini authentique – Chaque modèle de voiture de course présente des détails de conception identiques aux véhicules dorigine, dont les prises d’air, les ailerons & les optiques futuristes en forme de Y
 - Des voitures à construire, pour jouer et exposer – Les sets LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-uns des véhicules les plus mythiques au monde
 - Jouets voitures pour garçon ou fille dès 10 ans – Les enfants & les fans de course automobile peuvent construire, exposer & piloter ces 2 répliques de voitures LEGO Speed Champions
 - Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- Design Lamborghini authentique – Chaque modèle de voiture de course présente des détails de conception identiques aux véhicules dorigine, dont les prises d’air, les ailerons & les optiques futuristes en forme de Y
 - Voitures à offrir aux fans de sport automobile – Ce set LEGO Lamborghini est une belle idée de cadeau à offrir à un garçon ou une fille de 10 ans et plus ou à un adulte collectionneur de voitures
-- 2 minifigurines de pilotes – Chaque maquette de voiture Lamborghini s’accompagne d’une minifigurine de pilote portant une combinaison et un casque dédiés
 - Jouets de construction à exposer comme décoration – Après des heures de jeu en autonomie, les enfants peuvent exposer les véhicules sur une étagère ou leur table de chevet
+- 2 minifigurines de pilotes – Chaque maquette de voiture Lamborghini s’accompagne d’une minifigurine de pilote portant une combinaison et un casque dédiés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDW4FWJ{{</world>}}

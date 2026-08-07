@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compartiment principal zippé facile daccès
-- Fabriqué dans un mélange 60% nylon 40% polyester
 - Emportez votre portable grâce au compartiment rembourré pour ordinateur jusquà 15"
+- Fabriqué dans un mélange 60% nylon 40% polyester
+- Compartiment principal zippé facile daccès
 - Hauteur : 43 cm, Largeur : 29,5 cm, Profondeur : 25 cm
 - Les bretelles matelassées et le dos matelassé permettent un port ergonomique
 

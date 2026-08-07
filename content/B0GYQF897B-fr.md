@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profite de la formule la plus moussante jamais développée par AXE, pour une peau irrésistiblement douce et propre.
 - Verse le gel douche dans le creux de ta main. Laisse-toi emporter par notre expérience de douche ultime et fais mousser sur ton corps.
-- Découvre le gel douche homme AXE Blue Lavender au format 225 ml, issu de notre nouvelle gamme Axe Ultime, aux parfums dexception et à la mousse ultra-onctueuse.
-- Le parfum vivifiant et frais, aux notes de lavande, de menthe et dambre de ce gel douche, est élaboré par des maîtres parfumeurs renommés.
-- Tu aimes le parfum de ce gel douche ? AXE Blue Lavender existe aussi en déodorant pour encore plus de fraîcheur. En plus, la bouteille de ce gel douche est 100 % en plastique recyclé et entièrement recyclable. Dépose-la dans le bac de tri !
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Le parfum vivifiant et frais, aux notes de lavande, de menthe et dambre de ce gel douche, est élaboré par des maîtres parfumeurs renommés.
+- Profite de la formule la plus moussante jamais développée par AXE, pour une peau irrésistiblement douce et propre.
+- Tu aimes le parfum de ce gel douche ? AXE Blue Lavender existe aussi en déodorant pour encore plus de fraîcheur. En plus, la bouteille de ce gel douche est 100 % en plastique recyclé et entièrement recyclable. Dépose-la dans le bac de tri !
+- Découvre le gel douche homme AXE Blue Lavender au format 225 ml, issu de notre nouvelle gamme Axe Ultime, aux parfums dexception et à la mousse ultra-onctueuse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GYQF897B{{</world>}}

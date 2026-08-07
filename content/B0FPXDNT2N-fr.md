@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MAQUETTE DE VOITURE À CONSTRUIRE POUR ADULTE – Créez un véhicule de légende minutieusement détaillé avec La voiture de course 1966 Ford GT40 MKII LEGO Technic, conçue pour les fans de voitures de sport
-- MOTEUR V8 DÉTAILLÉ & DESIGN AUTOMOBILE – Ouvrez le capot moteur du véhicule pour révéler le moteur V8, puis admirez l’élégante livrée originale noire & argentée, inspirée de la véritable Ford GT40 MKII de 1966
-- ENCORE PLUS DE SETS À DÉCOUVRIR – Découvrez d’autres kits de construction de la gamme LEGO Technic (vendus séparément), dont les détails et les fonctionnalités réalistes raviront les adultes à la recherche de projets immersifs
-- ACCESSOIRES AUTHENTIQUES – Explorez les fonctionnalités réalistes de la célèbre voiture de course comme la direction fonctionnelle, le moteur V8, les jantes dorées et les portes & le capot ouvrants
-- IDÉE DE CADEAU POUR ADULTE – Ce set LEGO Technic est un formidable cadeau danniversaire pour les adultes passionné.e.s de voitures de course et de construction de maquettes détaillées
 - UN MODÈLE À CONSTRUIRE & À EXPOSER AVEC FIERTÉ – Savourez un projet de construction immersif, puis exposez cette voiture vintage à la maison ou au bureau pour rendre hommage à ce véhicule de légende
+- ENCORE PLUS DE SETS À DÉCOUVRIR – Découvrez d’autres kits de construction de la gamme LEGO Technic (vendus séparément), dont les détails et les fonctionnalités réalistes raviront les adultes à la recherche de projets immersifs
+- IDÉE DE CADEAU POUR ADULTE – Ce set LEGO Technic est un formidable cadeau danniversaire pour les adultes passionné.e.s de voitures de course et de construction de maquettes détaillées
+- MOTEUR V8 DÉTAILLÉ & DESIGN AUTOMOBILE – Ouvrez le capot moteur du véhicule pour révéler le moteur V8, puis admirez l’élégante livrée originale noire & argentée, inspirée de la véritable Ford GT40 MKII de 1966
+- ACCESSOIRES AUTHENTIQUES – Explorez les fonctionnalités réalistes de la célèbre voiture de course comme la direction fonctionnelle, le moteur V8, les jantes dorées et les portes & le capot ouvrants
 - INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui permet d’enregistrer vos sets, de suivre votre progression, de zoomer et même de faire pivoter vos modèles en 3D
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Inserts perforés sur la pointe
-- Semelle intermédiaire en mousse
 - Col rembourré coupe basse
+- Semelle intermédiaire en mousse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09SWNGW4P{{</world>}}

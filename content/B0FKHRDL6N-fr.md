@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 70 heures* dautonomie de batterie sans fil : Obtenez jusquà 70 heures de jeu sur une seule charge, ce qui est suffisant pour participer à des scrims ou des tournois prolongés. *Jusquà 70 heures dautonomie de la batterie en utilisant 2,4 GHz avec un taux dinterrogation de 1 kHz.
-- Équipée du capteur MARKSMAN S de CORSAIR pour un véritable suivi de 33 000 DPI, une vitesse de 750 IPS et une accélération de 50 G. Restez concentré sur la cible dans des scénarios rapides et sous haute pression
 - Taux dinterrogation de 8 000 Hz pour une frappe défiant la latence jusquà huit fois plus rapide que linterrogation standard. Quelles soient filaires ou sans fil, vos commandes sont enregistrées instantanément
-- Bénéficiez dun retour tactile satisfaisant grâce aux switchs mécaniques personnalisés CORSAIR. Ils sont également incroyablement fiables, des scrims à la scène, évalués jusquà 100 millions de clics
 - Conception ultralégère de 36 g : Conçue dès le départ pour les joueurs de FPS délite, la conception de 36 g offre une agilité et un contrôle maximum pour des mouvements rapides et une visée de haute précision
+- Bénéficiez dun retour tactile satisfaisant grâce aux switchs mécaniques personnalisés CORSAIR. Ils sont également incroyablement fiables, des scrims à la scène, évalués jusquà 100 millions de clics
+- Équipée du capteur MARKSMAN S de CORSAIR pour un véritable suivi de 33 000 DPI, une vitesse de 750 IPS et une accélération de 50 G. Restez concentré sur la cible dans des scénarios rapides et sous haute pression
+- Jusquà 70 heures* dautonomie de batterie sans fil : Obtenez jusquà 70 heures de jeu sur une seule charge, ce qui est suffisant pour participer à des scrims ou des tournois prolongés. *Jusquà 70 heures dautonomie de la batterie en utilisant 2,4 GHz avec un taux dinterrogation de 1 kHz.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FKHRDL6N{{</world>}}

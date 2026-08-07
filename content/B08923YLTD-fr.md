@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Autonomie jusquà 16 heures en mode clignotement et 6 heures en mode fixe.
-- Feu arrière : visibilité dans toutes les conditions déclairage. Jusquà 1,6 km de distance.
 - Radar arrière : avertit des véhicules qui sapprochent de larrière jusquà 140 mètres.
+- Feu arrière : visibilité dans toutes les conditions déclairage. Jusquà 1,6 km de distance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08923YLTD{{</world>}}

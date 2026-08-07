@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 【M𝐮𝐥𝐭𝐢-𝐮𝐬𝐚𝐠𝐞】Mettez le bandeau pour le transformer en lampe frontale ou lampe de poche, et le clip de poche peut être utilisé pour lattacher aux sacs à dos et aux ceintures. Facile à transporter
 - 【É𝐜𝐥𝐚𝐢𝐫 𝐋𝐮𝐦𝐢𝐧𝐞𝐮𝐱】En plus de léclairage LED blanc haute performance, les LED rouges peuvent être utilisées pour maintenir la vision nocturne ou servir dexcellent signal davertissement durgence
-- 【𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐢𝐞 𝐞𝐧 𝐯𝐞𝐢𝐥𝐥𝐞 】 Après avoir été complètement chargée à laide du câble de chargement MCC3, la durée de vie maximale de la batterie est de 10 jours, fournissant une lumière fiable pour un travail à long terme
-- 【𝐓𝐚𝐢𝐥𝐥𝐞 𝐝𝐮 𝐩𝐫𝐨𝐝𝐮𝐢𝐭】 2.53 x 0.87x0.81 pouces (64.3 x 22x20.6 mm), 198 g, petite taille, léger, facile à transporter
 - 【𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞】1250 Lumens maximum , portée max 155 mètres, 7 modes déclairage : lumière blanche (Turbo/Élevé/Moyen/Faible/Lune), lumière rouge (Élevé/Faible), adapté au camping, à la pêche, à la randonnée et à dautres occasions
+- 【𝐓𝐚𝐢𝐥𝐥𝐞 𝐝𝐮 𝐩𝐫𝐨𝐝𝐮𝐢𝐭】 2.53 x 0.87x0.81 pouces (64.3 x 22x20.6 mm), 198 g, petite taille, léger, facile à transporter
+- 【𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐢𝐞 𝐞𝐧 𝐯𝐞𝐢𝐥𝐥𝐞 】 Après avoir été complètement chargée à laide du câble de chargement MCC3, la durée de vie maximale de la batterie est de 10 jours, fournissant une lumière fiable pour un travail à long terme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DYDJSLF2{{</world>}}

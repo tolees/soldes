@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets
 - Tige ripstop avec empiècements
+- Fermeture à lacets
 - Chaussant standard
 - Semelle de propreté antimicrobienne OrthoLite et membrane GORE-TEX
 

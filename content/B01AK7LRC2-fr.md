@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gamme: Python Dimensions: 181mm X 96mm X 236mm
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique f
 - Philips - Luminaire extérieur - Applique Python inox 1x6W 230V
+- Gamme: Python Dimensions: 181mm X 96mm X 236mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01AK7LRC2{{</world>}}

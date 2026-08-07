@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTERNATIONAL
 - R&P INTERNATIONAL
+- INTERNATIONAL
 - POLICE
 - MUSIC
 

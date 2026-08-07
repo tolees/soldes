@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Caméra 50 MP avec IA pour des photos exceptionnelles
+- Résistant (IP48) et endurant avec batterie longue durée
+- Ecran externe intelligent 3,6 ’’/ Interne : 6.9 “
 - Contenu de la boîte: coque de protection et câble USB type-C vers USB type-C
 - Assistant personnel à portée de main avec Moto AI
-- Ecran externe intelligent 3,6 ’’/ Interne : 6.9 “
-- Résistant (IP48) et endurant avec batterie longue durée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FTT4LN64{{</world>}}

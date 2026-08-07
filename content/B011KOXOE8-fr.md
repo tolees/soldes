@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aucune ampoule incluse dans la livraison; Lampoule LED filament est disponible séparément sous la référence EGLO 11491
-- Convient à toute ampoule avec culot E27, puissance maximale de 60 watts par douille Dimmable selon lampoule utilisée
 - La suspension avec un abat-jour décoratif en acier de couleur cuivre sintègre parfaitement aux tendances industrielles, vintage et modernes
+- Convient à toute ampoule avec culot E27, puissance maximale de 60 watts par douille Dimmable selon lampoule utilisée
 - Dimensions : hauteur maximale 110 cm, diamètre 29 cm
 - Le luminaire de salle à manger apporte une touche particulière à chaque pièce – que ce soit dans la cuisine, le salon ou au-dessus de la table à manger dans la salle à manger
+- Aucune ampoule incluse dans la livraison; Lampoule LED filament est disponible séparément sous la référence EGLO 11491
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B011KOXOE8{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wi-Fi, LAN, Bluetooth - Pilotez votre interrupteur Shelly Pro 2PM à distance via Wi-Fi ou LAN pour une sécurité et une fiabilité améliorées ; *La connexion Bluetooth sert uniquement à des objectifs dinclusion ou de passerelle
-- Interrupteur connecté sur rail DIN - Conçu pour répondre à la norme mondiale du rail DIN, linterrupteur Shelly Pro 2PM (2 canaux, 25 A total) se monte directement dans le tableau électrique pour répondre aux besoins dautomatisation de votre entreprise, commerce, usine ou autre bâtiment professionnel, administratif ou résidentiel
 - Horaires & Scènes intelligentes - En entreprise ou commerce, programmez des horaires pour éteindre automatiquement vos lumières et équipements en dehors les heures de travail
+- Sécurité améliorée - Le dispositif est encore muni dune protection contre la surchauffe, les surintensités, les surtensions et les surpuissances
+- Interrupteur connecté sur rail DIN - Conçu pour répondre à la norme mondiale du rail DIN, linterrupteur Shelly Pro 2PM (2 canaux, 25 A total) se monte directement dans le tableau électrique pour répondre aux besoins dautomatisation de votre entreprise, commerce, usine ou autre bâtiment professionnel, administratif ou résidentiel
 - Commande vocale ou via App - Lapp Shelly Smart Control vous aide à contrôler vos appareils et équipements électriques à distance, personnalisant vos automatisations à linfini; Par ailleurs, ce dispositif permet encore un pilotage à travers plusieurs assistant vocaux et systèmes de Domotique, dont Alexa, Google et SmartThings
 - Mode volet roulant connecté - À part de contrôler deux circuits séparés et den suivre la consommation dénergie, Shelly Pro 2PM est particulièrement utile pour automatiser des volets roulants, portails, auvents, store-bannes et autres moteurs CA bidirectionnels
-- Sécurité améliorée - Le dispositif est encore muni dune protection contre la surchauffe, les surintensités, les surtensions et les surpuissances
+- Wi-Fi, LAN, Bluetooth - Pilotez votre interrupteur Shelly Pro 2PM à distance via Wi-Fi ou LAN pour une sécurité et une fiabilité améliorées ; *La connexion Bluetooth sert uniquement à des objectifs dinclusion ou de passerelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B4HHMP6B{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verrouillage simple avec code chiffré : Grâce aux rouleaux à chiffres à 2 composants, les chiffres sont bien lisibles en permanence - avec protection de lecture spéciale contre les manipulations de la serrure
-- Sûr, fiable et stable. Cest ce que représente le nom ABUS. Quil sagisse de la protection à domicile, de la sécurité des objets ou de la sécurité mobile, ABUS définit les standards.
 - Antivol pour vélos haut de gamme : Tresor 1385/110 - longueur 110 cm, poids 1350 g, niveau de sécurité ABUS 7, couleur noir
+- Sûr, fiable et stable. Cest ce que représente le nom ABUS. Quil sagisse de la protection à domicile, de la sécurité des objets ou de la sécurité mobile, ABUS définit les standards.
+- Verrouillage simple avec code chiffré : Grâce aux rouleaux à chiffres à 2 composants, les chiffres sont bien lisibles en permanence - avec protection de lecture spéciale contre les manipulations de la serrure
 - Chaîne en acier robuste pour une bonne résistance : la chaîne carrée de 7 mm de haute qualité est en acier spécialement trempé et est recouverte dune gaine textile pour protéger la peinture des dommages.
 - Antivol à combinaison tendance avec niveau de sécurité ABUS 7 : avec ce modèle, ABUS propose un antivol simple et moderne pour une bonne protection en cas de risque de vol moyen.
 

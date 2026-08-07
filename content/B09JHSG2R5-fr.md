@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étendez votre installation Nanoleaf Lines avec les 3 barres supplémentaires du pack dextension.
 - Ce pack nécessite un kit de démarrage Nanoleaf Lines pour fonctionner.
-- Chaque pack dextension comprend 3 barres avec des connecteurs de montage et du ruban adhésif.
+- Étendez votre installation Nanoleaf Lines avec les 3 barres supplémentaires du pack dextension.
 - Nanoleaf
+- Chaque pack dextension comprend 3 barres avec des connecteurs de montage et du ruban adhésif.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09JHSG2R5{{</world>}}

@@ -30,11 +30,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poids du colis: 0.05 kilogrammes
 - Volume du colis: 50.0 millilitres
-- Sa teneur en aloe vera lui confère une action hydratante et contribue à réduire les irritations
-- Gel pour le visage formulé avec 15% dacide glycolique partiellement neutralisé (équivalent à 6,1% dacide glycolique libre)
-- Augmente léclat de la peau
-- Exfolie la surface de la peau;ce qui contribue à en lisser la texture et à favoriser le processus de renouvellement de la peau
 - Type de peau : Combinaison
+- Sa teneur en aloe vera lui confère une action hydratante et contribue à réduire les irritations
+- Augmente léclat de la peau
+- Gel pour le visage formulé avec 15% dacide glycolique partiellement neutralisé (équivalent à 6,1% dacide glycolique libre)
+- Exfolie la surface de la peau;ce qui contribue à en lisser la texture et à favoriser le processus de renouvellement de la peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0849B6XKD{{</world>}}

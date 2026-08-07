@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DIMENSIONS : H 270 mm x L 90 mm x L 85 mm. Le couvercle et la tasse vont au lave-vaisselle dans le panier supérieur
+- BLENDER PUISSANT ET HAUTE PERFORMANCE : le blender le plus compact et le plus silencieux de Ninja. Mixez des fruits surgelés et des glaçons avec BlastBlade Assembly en acier inoxydable pour broyer les glaçons et créez des boissons délicieuses
 - EMMENEZ LE PARTOUT : mélangez et buvez dans la même tasse grâce au couvercle anti-fuite avec bec verseur. Poignée de transport confortable. Idéal à la salle de sport, au travail, au parc et plus encore. Couvre-gobelets et lames pour un rangement sûr
 - COMPREND : Ninja Blast Blender portable, base moteur rechargeable USB-C, tasse de 530 ml* sans BPA , un couvercle résistant aux fuites à ouverture facile, couvre-lames et couvercle tasse, un câble USB-C, un guide de recettes. Poids : 790 g. Couleur : Noir
-- BLENDER PUISSANT ET HAUTE PERFORMANCE : le blender le plus compact et le plus silencieux de Ninja. Mixez des fruits surgelés et des glaçons avec BlastBlade Assembly en acier inoxydable pour broyer les glaçons et créez des boissons délicieuses
-- DIMENSIONS : H 270 mm x L 90 mm x L 85 mm. Le couvercle et la tasse vont au lave-vaisselle dans le panier supérieur
-- BATTERIE LONGUE DURÉE : La base USB-C rechargeable vous permet de réaliser plus de 10 mélanges sur une seule charge, avec jusquà 2 heures dautonomie. Une charge complète prend environ 2 heures
 - BLENDER SANS FIL PORTABLE : Mixez facilement de délicieux smoothies, shakes protéinés et boissons glacées où et quand vous le souhaitez grâce à ce mini-blender puissant et portable
+- BATTERIE LONGUE DURÉE : La base USB-C rechargeable vous permet de réaliser plus de 10 mélanges sur une seule charge, avec jusquà 2 heures dautonomie. Une charge complète prend environ 2 heures
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLY983L7{{</world>}}

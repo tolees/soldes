@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - GRANDE CAPACITÉ - Capable de stocker 75 feuilles de papier 80 g/m² jusquau format A3
 - CARACTÉRISTIQUES - Polypropylène anti-copie de 200 microns, rabat pliable avec fermeture à bouton-pression de couleur assortie, finition « Superline » et porte-stylo pratique découpé sous le rabat
-- DURABLE - Fabriqué à partir de polypropylène recyclé 100% de sources responsables, fourni dans un emballage recyclable
+- DIMENSIONS - Chaque chemise porte-documents mesure 2 mm ou 7 mm, bouton-pression inclus (profondeur) x 449 mm (largeur) x 325 mm (hauteur)
 - A3 POCHETTE PORTE-DOCUMENTS - Lot de 5 ECO pochettes en polypropylène recyclé, de couleurs pastel transparentes
 - ORGANISATION FACILE - Les couleurs pastel transparentes assorties permettent didentifier rapidement et facilement les documents, ce qui est utile pour ranger les projets artistiques et les travaux de conception, le matériel scolaire et de bricolage, ainsi que dautres documents volumineux
-- DIMENSIONS - Chaque chemise porte-documents mesure 2 mm ou 7 mm, bouton-pression inclus (profondeur) x 449 mm (largeur) x 325 mm (hauteur)
+- DURABLE - Fabriqué à partir de polypropylène recyclé 100% de sources responsables, fourni dans un emballage recyclable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001O3PAGQ{{</world>}}

@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Emballage : box refermable, conçu pour une présentation à plat ou pendue
+- Modeler, cuire, jouer
+- Niveaux de difficulté de 1 à 3 qui aident les utilisateurs à determiner leur niveau de dextérité
+- Form&Play : modeler et jouer
+- Conforme à la norme EN 71
+- Instructions enfantines attractives, 28 pages à garder et à collectionner
 - Projet pré-définis avec un pas à pas détaillé
 - Favorise : la psychomotricité, la créativité, les jeux de rôle et limagination
-- Instructions enfantines attractives, 28 pages à garder et à collectionner
-- Form&Play : modeler et jouer
-- Fabriqué en Allemagne
-- Emballage : box refermable, conçu pour une présentation à plat ou pendue
-- Niveaux de difficulté de 1 à 3 qui aident les utilisateurs à determiner leur niveau de dextérité
 - Des outils de modelage et une notice pour guider les enfants dans la création
-- Conforme à la norme EN 71
-- Modeler, cuire, jouer
+- Fabriqué en Allemagne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00ILKWBAI{{</world>}}

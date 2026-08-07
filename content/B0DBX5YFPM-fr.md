@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRÈS PRATIQUE & COMPLET, grâce à son format tablette très apprécié des enfants pour faire comme les grands et un emplacement spécial au dos pour ranger les planches, doté de 2 niveaux sonores et dun arrêt automatique
 - UNE TOUTE PREMIÈRE ENCYCLOPÉDIE pour les tout-petits. Un jeu-imagier parlant pour les accompagner dans leurs premières découvertes; il suffit d’appuyer sur l’image avec son doigt : Mon Premier Dokéo parle, chante, raconte…
-- 3 MODES ET 3 NIVEAUX DE DIFFICULTÉS pour accompagner lenfant dans son évolution et ses différents apprentissages sur chaque planche on retrouve un mode Imagier, un mode Découverte, une Comptine et 3 jeux de difficultés progressives
-- PPRENDRE TOUT EN SAMUSANT! Grâce aux 24 planches thématisées sur son quotidien, lenfant fait ses premières découvertes : la maison, la ville, les animaux, les chiffres, les formes, les couleurs, les contraires
+- TRÈS PRATIQUE & COMPLET, grâce à son format tablette très apprécié des enfants pour faire comme les grands et un emplacement spécial au dos pour ranger les planches, doté de 2 niveaux sonores et dun arrêt automatique
 - CONTENU : 1 jeu électronique avec rangement au dos, 24 planches 16 x 16 cm et 1 planche d’éveil musical, fonctionne avec 3 piles AAA-LR03 non fournies
+- PPRENDRE TOUT EN SAMUSANT! Grâce aux 24 planches thématisées sur son quotidien, lenfant fait ses premières découvertes : la maison, la ville, les animaux, les chiffres, les formes, les couleurs, les contraires
+- 3 MODES ET 3 NIVEAUX DE DIFFICULTÉS pour accompagner lenfant dans son évolution et ses différents apprentissages sur chaque planche on retrouve un mode Imagier, un mode Découverte, une Comptine et 3 jeux de difficultés progressives
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBX5YFPM{{</world>}}
