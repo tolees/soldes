@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Helly Hansen Hommes Veste Crew 2.0 Bleu Marine 2XL'
+date: 2026-08-15 09:43:22
+image: 'https://m.media-amazon.com/images/I/31O-Wv8MiFL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CKSSQN6D-fr Helly Hansen Hommes Veste Crew 2.0 Bleu Marine 2XL'
+sku: 'B0CKSSQN6D-fr'
+tags: [ '🇫🇷', ]
+actualPrice: 65.0 EUR
+currency: EUR
+price: 65.0
+comparePrice: 155.0 EUR
+prodname: 'Helly Hansen Hommes Veste Crew 2.0 Bleu Marine 2XL'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B0CKSSQN6D/?tag=tolees0d-21'
+descuento: '58.06'
+average: '73.56'
+---
+
+Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Les poches pour les mains doublées de polaire douce offrent de la chaleur et un rangement sûr pendant les journées actives
+- La conception jusqu’aux hanches vous protège sans restreindre vos mouvements
+- Les matériaux approuvés Bluesign et le DWR sans PFC garantissent une performance durable
+- Les poignets réglables et le cordon de serrage à l’ourlet permettent un ajustement et un confort sur mesure
+- Le tissu de protection HELLY TECH offre une couverture imperméable et coupe-vent complète pour les conditions imprévisibles.
+
+[🛒 Achetez-le maintenant!!]({{< param buyurl >}})
+{{<world>}}B0CKSSQN6D{{</world>}}
