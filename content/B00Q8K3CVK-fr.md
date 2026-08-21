@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bougies issues du développement de lorigine : Lutilisation de lIridium prolonge la durée de vie de la bougie et augmente la capacité dinflammation du mélange.
-- Économique à lusage : Lexcellent pouvoir dallumage contribue à une performance plus efficace du moteur, réduit la consommation de carburant ainsi que limpact sur lenvironnement.
-- Démarrage optimal : Lélectrode centrale en Iridium, très fine et soudée au laser, assure une puissance dallumage idéale et favorise la propagation du front de flamme dans la chambre de combustion.
-- Indications : Avant le montage, veuillez respecter les instructions générales de montage !
 - Contenu de la livraison : 1x bougie dallumage NGK Laser Iridium ILKAR7J7G
+- Indications : Avant le montage, veuillez respecter les instructions générales de montage !
+- Démarrage optimal : Lélectrode centrale en Iridium, très fine et soudée au laser, assure une puissance dallumage idéale et favorise la propagation du front de flamme dans la chambre de combustion.
+- Économique à lusage : Lexcellent pouvoir dallumage contribue à une performance plus efficace du moteur, réduit la consommation de carburant ainsi que limpact sur lenvironnement.
+- Bougies issues du développement de lorigine : Lutilisation de lIridium prolonge la durée de vie de la bougie et augmente la capacité dinflammation du mélange.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00Q8K3CVK{{</world>}}

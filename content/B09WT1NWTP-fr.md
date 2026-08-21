@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- + 1 Sachet de 2 Electrodes Compex EASY SNAP 5 x 10 cm - Double snap
-- Stimulateur musculaire Compex Fit 5.0 proposant 30 programmes : 14 programmes fitness, 4 programmes récupération/massage, 10 programmes anti-douleur et 2 programmes rééducation
 - Stimulateur sans fil ultra-simple dutilisation avec son écran couleur indiquant tous les placements délectrodes. Liberté totale sans les câbles. Pour tous les adeptes du fitness et de la remise en forme
 - + 1 Gel Conducteur 250Gr - Idéal pour améliorer le confort dutilisation et prolonger la durée de vie des électrodes
+- Stimulateur musculaire Compex Fit 5.0 proposant 30 programmes : 14 programmes fitness, 4 programmes récupération/massage, 10 programmes anti-douleur et 2 programmes rééducation
+- + 1 Sachet de 2 Electrodes Compex EASY SNAP 5 x 10 cm - Double snap
 - + 1 Sachet de 4 Electrodes Compex EASY SNAP 5 x 5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rappel : Le matériel de la console Nintendo Switch 2 est différent de celui de la Nintendo Switch, et certains jeux Nintendo Switch peuvent ne pas être pris en charge sur la Nintendo Switch 2 ou ne pas être entièrement compatibles avec elle.
 - Jouez et créez dans les rééditions rétro de deux adorables jeux de MySims : Collection cosy
-- Des personnages sympathiques vous accompagneront dès le début, et vous en rencontrerez encore plus au fur et à mesure que vous jouerez ; Vous ne construisez pas seulement des maisons, mais aussi des communautés dhabitants adorables et mémorables
 - Entièrement compatible avec la Switch 2
 - Créez d’adorables Sims et personnalisez les mondes qui les entourent ; Débloquez des vêtements et des options de construction en terminant différentes tâches ; il y a une multitude d’options à découvrir et deux mondes uniques à développer
+- Des personnages sympathiques vous accompagneront dès le début, et vous en rencontrerez encore plus au fur et à mesure que vous jouerez ; Vous ne construisez pas seulement des maisons, mais aussi des communautés dhabitants adorables et mémorables
 - Détendez-vous avec ces doux contes de créativité et de découverte ; Explorez deux mondes remplis d’énigmes à résoudre, de lieux à débloquer et d’habitants excentriques qui ont besoin d’aide
-- Rappel : Le matériel de la console Nintendo Switch 2 est différent de celui de la Nintendo Switch, et certains jeux Nintendo Switch peuvent ne pas être pris en charge sur la Nintendo Switch 2 ou ne pas être entièrement compatibles avec elle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DFD2ML75{{</world>}}

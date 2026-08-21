@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 🥧 TARE : remise à zéro de la balance et annulation de la pesée précédente et/ou du poids du récipient, Idéal pour ajouter d’autres ingrédients à la préparation
+- ✅ RÉSISTANT : Résistante aux dépôts de poussière et aux éclaboussures (IP52), Arrêt automatique, Adaptateur inclus pour une alimentation sur piles ou secteur
 - 💡 CONVERSION LIQUIDE : une touche pour le changement d’unités de mesures (g/ml), Possibilité de peser à la fois des ingrédients solides et liquides dans le même bol
 - ✅ PROFESSIONNELLE : Balance de cuisine électronique professionnelle, Large plateau en inox, Grande lisibilité grâce à l’écran LCD rétro-éclairé et l’affichage numérique, Touches sensitives, Graduation 2/10g, Portée jusqu’à 10 kg
 - 🟦⬜🟥 TERRAILLON : marque française centenaire propose des pèse-personnes électroniques et mécaniques, des balances de cuisine, une collection d’ustensiles de pâtisserie et une sélection d’objets connectés afin de vous accompagner au quotidien dans toutes vos activités
-- 🥧 TARE : remise à zéro de la balance et annulation de la pesée précédente et/ou du poids du récipient, Idéal pour ajouter d’autres ingrédients à la préparation
-- ✅ RÉSISTANT : Résistante aux dépôts de poussière et aux éclaboussures (IP52), Arrêt automatique, Adaptateur inclus pour une alimentation sur piles ou secteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002VXCD4K{{</world>}}

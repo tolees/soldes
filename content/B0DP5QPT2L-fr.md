@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Memoire interne: 128 Go - RAM: 4 Go
 - Smartphone sous systeme Android 14
+- Memoire interne: 128 Go - RAM: 4 Go
 - Ecran de 6.7 - 4G: Oui
 - Appareil photo de 50 + 5 + 2 Mégapixels
 

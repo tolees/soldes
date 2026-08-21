@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enregistrez des photos et des vidéos sur la carte MicroSD
-- La caméra enregistre des photos et vidéos dès que quelquun sonne. Vous pouvez sauvegarder vos images sur une carte microSD (32 Go maximum, non incluse).
 - Utilisez le câblage de votre interphone actuel pour installer votre visiophone. Le matériel nécessaire (câble à 2 fils, adaptateur 15 V...) est inclus. Installez aussi un écran supplémentaire pour répondre depuis une autre pièce de la maison.
-- Sachez qui sonne à la porte en un clin dœil grâce à ce système dinterphone vidéo Byron. La vision nocturne de la caméra 720 p vous permet davoir des images claires même de nuit.
-- 6 badges RFID sont inclus 2 badges administrateurs rouges et 4 invités (noirs). Vous contrôlez ainsi laccès à votre maison.
+- La caméra enregistre des photos et vidéos dès que quelquun sonne. Vous pouvez sauvegarder vos images sur une carte microSD (32 Go maximum, non incluse).
 - Son écran tactile de 7" vous permet de voir et de communiquer avec vos visiteurs et, si votre porte est équipée dune gâche électrique, de leur ouvrir à distance.
+- Sachez qui sonne à la porte en un clin dœil grâce à ce système dinterphone vidéo Byron. La vision nocturne de la caméra 720 p vous permet davoir des images claires même de nuit.
+- Enregistrez des photos et des vidéos sur la carte MicroSD
+- 6 badges RFID sont inclus 2 badges administrateurs rouges et 4 invités (noirs). Vous contrôlez ainsi laccès à votre maison.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T31J9GG{{</world>}}

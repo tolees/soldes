@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LED de qualité supérieure.
-- Couleur: Weiss
 - Matériel: Aluminium
 - Number of items: 1.0
+- Couleur: Weiss
+- LED de qualité supérieure.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KRJLF4Q{{</world>}}

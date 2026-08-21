@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - RÉÉCRIVEZ LE DESTIN. SAUVEZ LA PERSE. PÉRISSEZ EN ESSAYANT : Façonnez la légende dun prince épargné par la mort, qui condamna son peuple à cause dune erreur fatale
 - DES ESSAIS UNIQUES : Aucun essai ne se répète. Plongez dans cette aventure en constante évolution dans laquelle la narration, la métaprogression, les modificateurs de difficulté, les événements aléatoires et les niveaux générés de manière procédurale vous donneront envie de continuer à essayer
-- MAÎTRISEZ UN STYLE ACROBATIQUE EFFRÉNÉ : En tant que prince de Perse, lagilité est votre arme la plus puissante. Esquivez des pièges, sprintez sur les murs, enchaînez des combos acrobatiques et frappez avec précision. Chaque mouvement est une opportunité et chaque combat récompensera votre technique et votre style
 - COMBATTEZ À VOTRE MANIÈRE : Découvrez, débloquez et maîtrisez plus de 100 armes et médaillons uniques. Adaptez, améliorez et personnalisez votre équipement à chaque essai, et créez des combinaisons mortelles adaptées à votre style de jeu
+- MAÎTRISEZ UN STYLE ACROBATIQUE EFFRÉNÉ : En tant que prince de Perse, lagilité est votre arme la plus puissante. Esquivez des pièges, sprintez sur les murs, enchaînez des combos acrobatiques et frappez avec précision. Chaque mouvement est une opportunité et chaque combat récompensera votre technique et votre style
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G2CBQ661{{</world>}}

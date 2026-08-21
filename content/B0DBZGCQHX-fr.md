@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçue avec des pros pour gagner : Dotée d’une vitesse et d’une précision accrues, la souris de gaming sans fil PRO 2 LIGHTSPEED vous aide à affûter votre compétitivité pour vous rapprocher de la victoire
-- Un gaming en toute tranquillité, où que vous jouiez : Notre système sans fil LIGHTSPEED est testé pour offrir une expérience fiable et réactive digne d’un tournoi (1)
 - Personnalisable selon le style de jeu et la prise en main, la souris PRO 2 LIGHTSPEED convient à tous grâce à sa conception modulaire ambidextre et à ses boutons latéraux magnétiques programmables
-- Le professionnalisme à chaque clic, la maîtrise à chaque mouvement : Les switchs LIGHTFORCE associent la vitesse et la fiabilité des switchs optiques au clic familier des switchs mécaniques
 - Digne d’un champion: HERO 2, le capteur le plus sophistiqué pour le gaming, offre une précision professionnelle jusqu’à 44 000 PPP un suivi pouvant atteindre 88 g d’accélération à plus de 888 IPS (1)
-- (1) Nécessitent le logiciel Logitech G HUB ; testé sur le tapis de souris G640 (2) L’autonomie de la batterie peut varier en fonction de l’utilisateur et des conditions en cas de mouvement constant
+- Conçue avec des pros pour gagner : Dotée d’une vitesse et d’une précision accrues, la souris de gaming sans fil PRO 2 LIGHTSPEED vous aide à affûter votre compétitivité pour vous rapprocher de la victoire
+- Le professionnalisme à chaque clic, la maîtrise à chaque mouvement : Les switchs LIGHTFORCE associent la vitesse et la fiabilité des switchs optiques au clic familier des switchs mécaniques
+- Un gaming en toute tranquillité, où que vous jouiez : Notre système sans fil LIGHTSPEED est testé pour offrir une expérience fiable et réactive digne d’un tournoi (1)
 - Remarque : statistiques de la série PRO basées sur les données 2024 de prosettings.net
 - Cette souris gaming qui fait ses preuves en championnat offre une autonomie allant jusqu’à 95 heures,charge USB-C,un taux d’interrogation de 8 kHz avec le récepteur PRO LIGHTSPEED,vendu séparément(2)
+- (1) Nécessitent le logiciel Logitech G HUB ; testé sur le tapis de souris G640 (2) L’autonomie de la batterie peut varier en fonction de l’utilisateur et des conditions en cas de mouvement constant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DBZGCQHX{{</world>}}

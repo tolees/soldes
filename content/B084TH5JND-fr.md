@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriquées en Espagne
-- Hauteur du talon : 6,50 cm
-- Numéro darticle du fabricant : Julia Shine B3
-- Matière principale : nappa, matériau de la doublure : cuir matière de semelle : mousse EVA semelle intérieure amovible insert : non
 - Panama Jack Sandales à lanières pour femme - Or/doré
+- Hauteur du talon : 6,50 cm
+- Matière principale : nappa, matériau de la doublure : cuir matière de semelle : mousse EVA semelle intérieure amovible insert : non
+- Numéro darticle du fabricant : Julia Shine B3
+- Fabriquées en Espagne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084TH5JND{{</world>}}

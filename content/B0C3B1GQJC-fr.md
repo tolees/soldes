@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Livré avec : UniversalLeafBlower 18V-130, 1 batterie 2,5 Ah, chargeur AL 18V-20, dans un carton
+- Buse pratique : le système de fixation par clic et rotation de la buse robuste permet de lancer rapidement dans les travaux de nettoyage du jardin
 - Speed Control : les deux vitesses permettent d’optimiser rapidement la puissance, le niveau sonore et l’autonomie
 - Ventilateur radial puissant : garantit de très bonnes performances de soufflage pour le retrait rapide des déchets végétaux
-- Livré avec : UniversalLeafBlower 18V-130, 1 batterie 2,5 Ah, chargeur AL 18V-20, dans un carton
 - Les outils de jardin Universal de Bosch : polyvalents et puissants pour une grande variété de tâches
-- Buse pratique : le système de fixation par clic et rotation de la buse robuste permet de lancer rapidement dans les travaux de nettoyage du jardin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3B1GQJC{{</world>}}

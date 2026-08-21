@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Noir
-- Arrêt automatique
 - <b> Dimensions </b>: 26,8 x 23,8 x 35,8 cm
-- Poids du produit :2.13 kilogrammes
-- Set petit-déjeuner assorti
-- Réservoir de 1,2 L
-- <b> Garantie </b>: 2 an(s)
-- Aroma Swirl
+- Couleur : Noir
 - 1000 W
+- Poids du produit :2.13 kilogrammes
+- Aroma Swirl
 - Système anti-gouttes
+- Réservoir de 1,2 L
+- Set petit-déjeuner assorti
+- Arrêt automatique
+- <b> Garantie </b>: 2 an(s)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00R04CAH0{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Senlève graduellement des cheveux (lavable).
 - Plus la couleur initiale des cheveux est claire, plus le résultat est intense.
 - Le numéro 1 de la coloration de cheveux alternative aux USA (N.Y.C.).-
-- faite à partir dingrédients purement végétaux (végétaliens) et NON testée sur les animaux.
+- Senlève graduellement des cheveux (lavable).
 - Le résultat de la coloration varie en fonction de la structure des cheveux et de la tonalité de la couleur.
+- faite à partir dingrédients purement végétaux (végétaliens) et NON testée sur les animaux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BDJBJDE{{</world>}}

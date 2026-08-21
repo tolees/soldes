@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard.
+- Encolure ras-du-cou à bord-côte.
 - Emmanchures tombantes.
 - 55 % coton, 36 % polyester (recyclé), 9 % viscose.
-- Encolure ras-du-cou à bord-côte.
+- Coupe standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D19HQ85G{{</world>}}

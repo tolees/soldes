@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Alimentation humide pour chat - Protéine dinsectes - Vitamines et minéraux essentiels - Sans céréales
+- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
+- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
 - MjAMjAM - Tout simplement parce que cest bon
 - Composition : Viande et abats 53.5 % (poulet : viande, cœur, foie, gésier), insectes 45.5 %, coquilles dœuf 0.5 %, minéraux 0.5 %
-- Alimentation humide pour chat - Protéine dinsectes - Vitamines et minéraux essentiels - Sans céréales
-- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
-- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0821DCMSQ{{</world>}}

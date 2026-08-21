@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRIMER EN SÉRUM : Découvrez le Sérum Grippy, un primer perfecteur de teint qui fixe le maquillage avec sa texture ultra-fondante, aussi fluide quun sérum ! Convient à tous les types de peaux, même sensibles
-- LAUDACE NEW-YORKAISE : Née dans leffervescence de la ville qui ne dort jamais, Maybelline New York offre un maquillage tendance et ultra-performant pour tous les looks, tous les styles, toutes les carnations
 - HYDRATE ET FIXE PENDANT 24H : Testée sous contrôle dermatologique, cette base de maquillage fixe pendant 24 heures* tout en laissant la peau hydratée toute la journée**, Pour un maquillage impeccable qui ne bouge pas !
 - APPLIQUEZ, ÉTALEZ, AGRIPPEZ : Appliquez uniformément sur le visage à laide du compte-gouttes et tapotez la peau du bout des doigts, Laissez sécher 20 secondes pour activer la formule agrippante avant dappliquer le maquillage
 - TECHNOLOGIE EXCLUSIVE SERUM-TO-GRIP : La base de teint prolonge la tenue du maquillage grâce à sa technologie Serum-to-Grip, Formulée avec 2% de niacinamide et de laloe vera, elle donne à la peau un aspect frais et repulpé
+- PRIMER EN SÉRUM : Découvrez le Sérum Grippy, un primer perfecteur de teint qui fixe le maquillage avec sa texture ultra-fondante, aussi fluide quun sérum ! Convient à tous les types de peaux, même sensibles
+- LAUDACE NEW-YORKAISE : Née dans leffervescence de la ville qui ne dort jamais, Maybelline New York offre un maquillage tendance et ultra-performant pour tous les looks, tous les styles, toutes les carnations
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNT5HBHB{{</world>}}

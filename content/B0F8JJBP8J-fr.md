@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- OPTIMISÉ PS5: Profite des capacités de la PlayStation 5 avec des temps de chargement rapides et la fonction de vibration du contrôleur
-- GRAPHISMES RÉTRO: Style visuel charmant avec des environnements colorés et détaillés dans une esthétique pixel art nostalgique
-- NIVEAUX VARIÉS: Une série de stages uniques avec des mécaniques de jeu différentes, des pièges et des collectibles à découvrir
-- GAMEPLAY PRÉCIS: Un jeu de plateforme rapide qui exige timing et précision pour traverser des niveaux pleins de défis et dobstacles
 - CONTENU EXCLUSIF: Le chapitre final de la série Awesome Pea avec de nouveaux défis et des niveaux inédits
+- GRAPHISMES RÉTRO: Style visuel charmant avec des environnements colorés et détaillés dans une esthétique pixel art nostalgique
+- GAMEPLAY PRÉCIS: Un jeu de plateforme rapide qui exige timing et précision pour traverser des niveaux pleins de défis et dobstacles
+- OPTIMISÉ PS5: Profite des capacités de la PlayStation 5 avec des temps de chargement rapides et la fonction de vibration du contrôleur
+- NIVEAUX VARIÉS: Une série de stages uniques avec des mécaniques de jeu différentes, des pièges et des collectibles à découvrir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F8JJBP8J{{</world>}}

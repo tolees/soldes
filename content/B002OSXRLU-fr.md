@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Référence 402341
 - Un produit exclusif de la marque VERBATIM. Une sélection des meilleurs produits dimage et son sur le marché.
+- Référence 402341
 - VERBATIM - Disques Blu-Ray 25Gb Jc5 43715 - Consommables et Accessoires - Média vierges
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

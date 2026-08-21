@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FERMETURE AUTOMATIQUE : Dun seul geste, la poussette se ferme delle-même et se transporte facilement grâce à son poids plume. Les obstacles en ville ne vous feront plus peur !
 - SIEGE : Siège très large et rembourré, avec kit de confort inclus, pour accueillir lenfant de la naissance jusquà 22 kg.
-- CANOPY SOLAIRE : La canopy solaire extensible est imperméable et protégée contre les rayons UV50+. La fenêtre pratique en maille de la canopy permet aux parents de surveiller lenfant lorsquils en ont besoin.
+- FERMETURE AUTOMATIQUE : Dun seul geste, la poussette se ferme delle-même et se transporte facilement grâce à son poids plume. Les obstacles en ville ne vous feront plus peur !
 - PRATIQUE ET LEGERE : La poussette GLEE de Chicco est la poussette conçue pour se promener en ville en toute liberté, grâce à sa praticité et à sa légèreté. Le siège confortable et les lignes épurées rendront vos journées plus lumineuses et vous permettront de profiter de chaque instant passé avec votre bébé !
+- CANOPY SOLAIRE : La canopy solaire extensible est imperméable et protégée contre les rayons UV50+. La fenêtre pratique en maille de la canopy permet aux parents de surveiller lenfant lorsquils en ont besoin.
 - ROUES DE HAUTE QUALITÉ : Toutes les roues sont équipées de roulements à billes et damortisseurs pour garantir une grande maniabilité sur toutes les surfaces. Les roues avant sont également polyvalentes, offrant le choix entre deux modes : - Fixe, recommandé pour les terrains non pavés ; - Pivotantes, pour une utilisation en ville
 
 [🛒 Achète-le!!]({{< param buyurl >}})

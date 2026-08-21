@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie 5 ans (2+3 ans offerts) sur votre outil WORX, sa batterie et son chargeur sous condition d’enregistrement dans les 30 jours sur eu.worx.com, pour plus de sérénité
-- Carter robuste et résistant aux chocs, conçu pour affronter les conditions extérieures tout au long de l’année
 - Moteur performant avec technologie intellicut qui adapte la puissance automatiquement selon la densité de l’herbe pour des résultats constants
-- Design compact et léger offrant une grande maniabilité, idéal pour les zones étroites, les bordures et les recoins difficiles
-- Témoin de niveau de charge sur la tondeuse pour surveiller l’autonomie restante d’un simple coup d’œil pendant la tonte
 - Système 2-en-1 : choisissez entre le ramassage dans le bac de 30l ou le mulching pour fertiliser naturellement la pelouse
-- Tondeuse à gazon sans fil 40v (2x20v) conçue pour les jardins de 200 m² jusqu’à 460 m², livrée avec 2 batteries lithium-ion et un chargeur double port
-- Batteries POWERSHARE compatibles avec plus de 200 outils de bricolage et de jardinage WORX 20V, 40V et 80V max
+- Témoin de niveau de charge sur la tondeuse pour surveiller l’autonomie restante d’un simple coup d’œil pendant la tonte
 - Largeur de coupe de 34 cm avec réglage de hauteur centralisé à 6 positions, pour une tonte sur mesure selon les saisons
 - Poignée ergonomique repliable pour un rangement vertical facile et gain de place dans le garage ou l’abri de jardin
+- Tondeuse à gazon sans fil 40v (2x20v) conçue pour les jardins de 200 m² jusqu’à 460 m², livrée avec 2 batteries lithium-ion et un chargeur double port
+- Garantie 5 ans (2+3 ans offerts) sur votre outil WORX, sa batterie et son chargeur sous condition d’enregistrement dans les 30 jours sur eu.worx.com, pour plus de sérénité
+- Design compact et léger offrant une grande maniabilité, idéal pour les zones étroites, les bordures et les recoins difficiles
+- Batteries POWERSHARE compatibles avec plus de 200 outils de bricolage et de jardinage WORX 20V, 40V et 80V max
+- Carter robuste et résistant aux chocs, conçu pour affronter les conditions extérieures tout au long de l’année
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CHNV628{{</world>}}

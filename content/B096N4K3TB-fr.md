@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus : cuir imperméable, certifié LWG Gold, coutures scellées, doublure en fausse fourrure, doublure isolante, PrimaLoft 200 g
-- La Varanger est notre ultime botte décontractée pour temps froid avec une coque de protection en caoutchouc, une tige en cuir entièrement imperméable, des coutures entièrement scellées, une chaussette isolante intérieure amovible Primaloft et feutre, une semelle intérieure en fausse fourrure avec bloqueur de bouclier en aluminium.
 - Bon pour : ski de station, vie urbaine et urbaine, hiver
+- La Varanger est notre ultime botte décontractée pour temps froid avec une coque de protection en caoutchouc, une tige en cuir entièrement imperméable, des coutures entièrement scellées, une chaussette isolante intérieure amovible Primaloft et feutre, une semelle intérieure en fausse fourrure avec bloqueur de bouclier en aluminium.
 - Semelle extérieure : HH Max-Grip, HH Surround-Grip
 - Semelle intermédiaire : chaussette isolante amovible, construction en caoutchouc vulcanisé
 

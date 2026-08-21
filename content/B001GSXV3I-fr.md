@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un style américain
-- Denim authentique au stretch ultra-doux. Un jean qui en mettra plein la vue. C’est le Levis Stellar Stretch. Grâce à son excellente mémoire de forme, il épouse vos courbes et suit vos mouvements, sans se relâcher ou se détendre à l’excès, où que vous alliez et en toutes circonstances.
-- 100% Coton
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 - Lavage en machine, 30° max.
-- Fermeture : fermeture éclair
-- Le blue-jean original depuis 1873
-- Ceci est un authentique produit Levi’s
 - Le jean à la coupe droite originale
+- Ceci est un authentique produit Levi’s
+- Fermeture : fermeture éclair
+- Un style américain
+- 100% Coton
+- Denim authentique au stretch ultra-doux. Un jean qui en mettra plein la vue. C’est le Levis Stellar Stretch. Grâce à son excellente mémoire de forme, il épouse vos courbes et suit vos mouvements, sans se relâcher ou se détendre à l’excès, où que vous alliez et en toutes circonstances.
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
+- Le blue-jean original depuis 1873
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001GSXV3I{{</world>}}

@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Genre : Masculin
 - Matière : Textile, Synthétique
+- Pointure : 42 EU
 - Age : Adulte
 - Fermeture : Lacets
-- Pointure : 42 EU
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNG7376P{{</world>}}

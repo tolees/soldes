@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intérieure rembourrée sur le devant : amorti optimal
-- Doublure : 87 % textile (60 % polyuréthane, 40 % polyester), 13 % textile (60 % nylon, 40 % polyuréthane)
-- Cuir lisse
 - Semelle extérieure 100 % TPU : longue durée de vie
+- Cuir lisse
 - Couleur : noir
+- Doublure : 87 % textile (60 % polyuréthane, 40 % polyester), 13 % textile (60 % nylon, 40 % polyuréthane)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BPLHKB5{{</world>}}

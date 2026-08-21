@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sortie de chauffe-eau domestique
-- Si leau chaude est produite à une température supérieure à 60°C, un dispositif abaisseur de température doit être interposé. Ce dispositif doit être placé le plus près possible de lappareil de production deau chaude et dans le même local.
 - Entrée de salle de bain, cuisine et douche (collectivités)
+- Si leau chaude est produite à une température supérieure à 60°C, un dispositif abaisseur de température doit être interposé. Ce dispositif doit être placé le plus près possible de lappareil de production deau chaude et dans le même local.
 - Ce produit se positionne sur lentrée et la sortie du chauffe-eau. Il isole le chauffe-eau des courants vagabonds et évite le phènomène délectrolyse.
 - Température maxi: 90°C - Pression maxi : 10bars
 

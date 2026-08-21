@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtration améliorée: Augmentation significative de la surface du filtre à charbon actif, maillage plus fin pour une meilleure réduction des particules grossières, maillage fin intégré qui piège et retient les particules filtrées et grille plus fine de la cartouche qui réduit efficacement la sortie des particules noires
-- Cartouche filtrante compatible avec toutes les carafes filtrantes Amazon Basics ainsi quavec toutes les carafes filtrantes BRITA, nouvelles et anciennes
-- Mise en route facile en 4 étapes, pas de trempage préalable requis
 - La cartouche doit être remplacée tous les 30 jours ou après 150L de filtration, selon la dureté de leau
+- Cartouche filtrante compatible avec toutes les carafes filtrantes Amazon Basics ainsi quavec toutes les carafes filtrantes BRITA, nouvelles et anciennes
+- Filtration améliorée: Augmentation significative de la surface du filtre à charbon actif, maillage plus fin pour une meilleure réduction des particules grossières, maillage fin intégré qui piège et retient les particules filtrées et grille plus fine de la cartouche qui réduit efficacement la sortie des particules noires
+- Mise en route facile en 4 étapes, pas de trempage préalable requis
 - Réduit efficacement la présence de chlore, de calciare et dautres impuretés présentes dans leau du robinet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en nylon
-- Diamètre du cadran : 42 millimètres
-- Boîtier en acier inoxydable
 - Cadran texturé noir
+- Bracelet en nylon
+- Boîtier en acier inoxydable
+- Diamètre du cadran : 42 millimètres
 - Résistance à leau: 100.0 mètres
 - Bracelet vert
 

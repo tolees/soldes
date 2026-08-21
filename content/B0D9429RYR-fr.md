@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Domaines dapplication: tout, voyages, paysages, sports, nature, architecture, basse lumière et portraits - équivalent à un objectif 35 mm de 24-200 mm
-- Même sans trépied, il est possible de prendre des photos nettes au téléobjectif à main levée, même avec des temps dexposition plus longs, et les mouvements de lappareil photo pendant lenregistrement vidéo sont considérablement réduits
 - Une qualité dimage exceptionnelle, malgré un design très compact avec des images très nettes jusquaux bords de limage
+- Même sans trépied, il est possible de prendre des photos nettes au téléobjectif à main levée, même avec des temps dexposition plus longs, et les mouvements de lappareil photo pendant lenregistrement vidéo sont considérablement réduits
 - Boitier métallique de haute qualité avec une excellent piqué en longue focale pour une utilisation comme télé-macro
+- Domaines dapplication: tout, voyages, paysages, sports, nature, architecture, basse lumière et portraits - équivalent à un objectif 35 mm de 24-200 mm
 - Le premier mécanisme Sync IS (pour Olympus / OM SYSTEM) répond directement au stabilisateur dimage 5 axes des appareils OM-D et assure une meilleure compensation jusquà 6 niveaux dIL
 
 [🛒 Achète-le!!]({{< param buyurl >}})

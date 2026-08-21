@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de la collection de poupées classiques sur Disney Store, Tiana est fournie dans une boîte illustrée avec vitrine transparente, fabriquée en papier durable 100 % recyclable et ne contenant pas de plastique.
-- Faites vos achats en toute confiance avec la marque officielle Disney Store, gage dune poupée authentique de haute qualité.
 - Inspirée du film Disney La Princesse et la Grenouille (2009), cette poupée classique à leffigie de Tiana deviendra vite lun des jouets fétiches de tout fan des princesses Disney, que vous loffriez pour un anniversaire, à Noël ou juste pour faire plaisir.
+- Produit de la collection de poupées classiques sur Disney Store, Tiana est fournie dans une boîte illustrée avec vitrine transparente, fabriquée en papier durable 100 % recyclable et ne contenant pas de plastique.
 - Vêtue de sa superbe robe verte à pétales, Tiana va illuminer le bal masqué ! Cette poupée articulée est un véritable appel à toujours aller de lavant, jusquau bout de son rêve. Tiana est accompagnée dune jolie brosse à cheveux miniature.
+- Faites vos achats en toute confiance avec la marque officielle Disney Store, gage dune poupée authentique de haute qualité.
 - Avec sa chevelure implantée réaliste et sa tenue pleine de détails, cette poupée à leffigie de Tiana, lambitieuse cuisinière, est parfaite pour rejouer vos scènes préférées du film.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Stylo bille contenant un produit biocide antibactérien (substance active : ions argent) qui détruit rapidement les bactéries déposées à la surface du stylo et empêche leur prolifération. Testé suivant la norme ISO 22196 (action antibactérienne sur les plastiques)
 - Corps opaque bleu ciel, capuchon bleu translucide, embout et indicateur à la couleur de l’encre
 - Made in France
-- Idéal pour un public B2B dans les domaines : médical, alimentaire, industriel, scolaire... où les stylos sont partagés
 - Longue durée d’écriture, jusqu’à 1200 m / Bille en carbure de tungstène haute résistance / Rechargeable avec les recharges BKL77
+- Idéal pour un public B2B dans les domaines : médical, alimentaire, industriel, scolaire... où les stylos sont partagés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q5WBSKY{{</world>}}

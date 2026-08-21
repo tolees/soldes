@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tricot
 - Pull
+- Tricot
 - Cardigan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

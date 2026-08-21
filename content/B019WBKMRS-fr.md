@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur permanente jusquà 24 heures disponible en 22 tons
-- Résistance absolue pour des lèvres hydratées et confortables, sans retouches
-- Rouge à lèvres longue durée pour un résultat mat intact 24 heures
 - Sa texture liquide enrichie en acide hyaluronique se fixe sur vos lèvres sans tcher ou se fissurer
+- Couleur permanente jusquà 24 heures disponible en 22 tons
+- Rouge à lèvres longue durée pour un résultat mat intact 24 heures
 - Appliquez dabord la couleur avec des pigments mats et une fois séché, appliquez lhydratant rehausseur de couleur
+- Résistance absolue pour des lèvres hydratées et confortables, sans retouches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B019WBKMRS{{</world>}}

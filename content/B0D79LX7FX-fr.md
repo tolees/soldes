@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FF BLAST pour un meilleur retour dénergie
-- PureGEL évolué pour un confort supérieur
-- Semelle extérieure AHAR+ résistante
 - Tige respirante et légère
+- PureGEL évolué pour un confort supérieur
+- FF BLAST pour un meilleur retour dénergie
+- Semelle extérieure AHAR+ résistante
 - Idéal pour lentraînement quotidien et les distances moyennes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

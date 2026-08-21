@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poche kangourou.
+- Capuche réglable par cordon de serrage.
 - Emmanchures tombantes.
 - Coupe standard.
-- 70 % coton, 30 % polyester (recyclé).
-- Bords-côtes aux poignets et à la base.
-- Contient au moins 70 % de matériaux recyclés et renouvelables.
-- Capuche réglable par cordon de serrage.
 - Pan arrière légèrement plus court.
-- Poche kangourou.
+- Bords-côtes aux poignets et à la base.
+- 70 % coton, 30 % polyester (recyclé).
+- Contient au moins 70 % de matériaux recyclés et renouvelables.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZP87XT7{{</world>}}

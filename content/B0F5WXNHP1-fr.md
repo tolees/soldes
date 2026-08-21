@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Réservoir en nylon transparent : Doté d’un design angulaire, d’un maillage anti-vortex et d’un orifice de remplissage qui facilite le remplissage, le réservoir intégré de 440 ml met en valeur le liquide de refroidissement.
 - Écran LCD IPS lumineux : Montrez votre créativité et personnalisez votre système avec l’affichage de la température du liquide de refroidissement en temps réel, de GIF et de memes animés ou encore du logo de votre équipe sur un écran LCD IPS personnalisé 30 FPS doté d’une résolution de 480 x 480, d’un rétroéclairage ultra lumineux de 600 cd/m² et d’une profondeur de couleur de 24 bits.
-- Refroidissement contrôlé : Une pompe FlowDrive Max hautes performances offre un flux optimal dans n’importe quelle situation. Profitez de performances consistantes sur la durée et, pour plus de sérénité, de la garantie de trois ans CORSAIR.
-- Éclairage RGB époustouflant : 22 LED RGB paramétrables individuellement créent une expérience visuelle personnalisable et immersive améliorée par le logiciel CORSAIR iCUE.
 - Contrôle connecté de la température dans la boucle : Ajustez précisément le débit de votre pompe en utilisant le capteur de température de liquide de refroidissement intégré et le logiciel CORSAIR iCUE.
+- Éclairage RGB époustouflant : 22 LED RGB paramétrables individuellement créent une expérience visuelle personnalisable et immersive améliorée par le logiciel CORSAIR iCUE.
+- Refroidissement contrôlé : Une pompe FlowDrive Max hautes performances offre un flux optimal dans n’importe quelle situation. Profitez de performances consistantes sur la durée et, pour plus de sérénité, de la garantie de trois ans CORSAIR.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F5WXNHP1{{</world>}}

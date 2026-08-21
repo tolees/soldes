@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement silencieux avec roulement à dôme magnétique : Le roulement à dôme magnétique CORSAIR conserve les performances de la technologie ML et réduit encore davantage la friction à faible vitesse de rotation.
-- Votre système au frais : Des vitesses de rotation impressionnantes contrôlées par PWM, de 480 à 2 400 tr/min pour une vitesse sur mesure, propulsant jusqu’à 63,1 CFM d’air avec une pression statique de 3,8 mm-H2O.
 - Mode Zero RPM : Les signaux PWM Zero RPM éliminent les bruits du ventilateur à faible charge.
 - Ponts inclus : Reliez votre ventilateur à dautres ventilateurs iCUE LINK QX120 RGB sans fil, à laide des ponts, et connectez-les en toute simplicité à un hub du système iCUE LINK (vendu séparément) à laide dun unique câble.
+- Fonctionnement silencieux avec roulement à dôme magnétique : Le roulement à dôme magnétique CORSAIR conserve les performances de la technologie ML et réduit encore davantage la friction à faible vitesse de rotation.
+- Votre système au frais : Des vitesses de rotation impressionnantes contrôlées par PWM, de 480 à 2 400 tr/min pour une vitesse sur mesure, propulsant jusqu’à 63,1 CFM d’air avec une pression statique de 3,8 mm-H2O.
 - Mode déclairage exclusif Time Warp : Doté de 34 LED RGB réparties sur deux zones lumineuses distinctes, de chaque côté, et alimenté par iCUE LINK pour des modes déclairage exclusifs comme Time Warp (requiert le hub du système iCUE LINK, vendu séparément).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

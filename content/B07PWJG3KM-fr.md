@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SOIN CAPILLAIRE : Un shampoing qui élimine les impuretés et révèle la beauté des cheveux – le soin parfait pour vos cheveux
-- SHAMPOING : Nourrit vos cheveux, définit vos ondulations et boucles, pour un rebond naturel et une définition qui dure
-- NOURRISSANT : Formule sans sulfate enrichie en huile de jojoba et en panthénol pour nourrir et équilibrer lhydratation des cheveux
 - ONDULATIONS SOUPLES : Riche en vitamines, minéraux et acides gras essentiels, cette formule prend soin des cheveux en douceur et facilite le coiffage
 - ACTION ANTI-FRISOTTIS : Formulé avec le complexe Nourish-In pour nourrir les cheveux et leur redonner souplesse et douceur
+- NOURRISSANT : Formule sans sulfate enrichie en huile de jojoba et en panthénol pour nourrir et équilibrer lhydratation des cheveux
+- SHAMPOING : Nourrit vos cheveux, définit vos ondulations et boucles, pour un rebond naturel et une définition qui dure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PWJG3KM{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revisitez vos souvenirs avec ce coffret Harry Potter x Polly Pocket compact aux formes de Poudlard et orné d’étoiles scintillantes.
-- Parfait pour les collectionneurs, ce coffret est fourni dans un emballage de présentation haut de gamme confectionné avec des matériaux de qualité et orné de détails travaillés, en hommage à l’univers Harry Potter.
-- C’est un cadeau idéal non seulement pour les fans de Polly Pocket, mais aussi et surtout pour les fans de Harry Potter !
-- À votre arrivée, utilisez le choixpeau pour découvrir qui appartient à quelle maison ! Fêtez le début d’une nouvelle année scolaire avec les professeurs Dumbledore et McGonagall en dégustant un festin dans la Grande Salle.
-- Prenez le chemin de Poudlard avec Harry Potter, Ron et Hermione depuis la gare de King’s Cross. Arrivez dans la soirée et naviguez jusqu’au château de Poudlard.
 - Les fans peuvent jouer avec les 5 personnages principaux, les 11 accessoires et les 4 lieux emblématiques du premier fil de la saga, Harry Potter à l’école des sorciers !
+- Revisitez vos souvenirs avec ce coffret Harry Potter x Polly Pocket compact aux formes de Poudlard et orné d’étoiles scintillantes.
+- Prenez le chemin de Poudlard avec Harry Potter, Ron et Hermione depuis la gare de King’s Cross. Arrivez dans la soirée et naviguez jusqu’au château de Poudlard.
+- À votre arrivée, utilisez le choixpeau pour découvrir qui appartient à quelle maison ! Fêtez le début d’une nouvelle année scolaire avec les professeurs Dumbledore et McGonagall en dégustant un festin dans la Grande Salle.
+- C’est un cadeau idéal non seulement pour les fans de Polly Pocket, mais aussi et surtout pour les fans de Harry Potter !
+- Parfait pour les collectionneurs, ce coffret est fourni dans un emballage de présentation haut de gamme confectionné avec des matériaux de qualité et orné de détails travaillés, en hommage à l’univers Harry Potter.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCSZWMW1{{</world>}}

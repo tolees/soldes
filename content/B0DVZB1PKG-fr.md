@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Circum-aural 20 - 20000 Hz
-- Sans fil Connectivité USB Bluetooth 5.2 Connectivité RF
 - Batterie intégré Lithium Polymère (LiPo)
 - Camouflage Gaming Arceau Casque
+- Sans fil Connectivité USB Bluetooth 5.2 Connectivité RF
+- Circum-aural 20 - 20000 Hz
 - Type de microphone: Boom
 
 [🛒 Achète-le!!]({{< param buyurl >}})

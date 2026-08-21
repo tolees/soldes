@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type dajustement:Coupe régulière
 - Instructions dentretien:Lavage en machine
 - Type de fermeture:À enfiler
+- Type dajustement:Coupe régulière
 - Composition de matériau:98% Coton, 2% Élasthannene
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

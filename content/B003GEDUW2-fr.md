@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Raccord conducteur confortable de 0,5 à 2,5 mm²
-- Raccordement jusquà 8 conducteurs
-- Pour conducteurs monofilaires
 - Boîtier transparent
 - Température ambiante maximale : 60 °C
+- Raccordement jusquà 8 conducteurs
+- Raccord conducteur confortable de 0,5 à 2,5 mm²
+- Pour conducteurs monofilaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003GEDUW2{{</world>}}

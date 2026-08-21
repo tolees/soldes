@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un produit exclusif de la marque UMEC
 - UMEC - Référence 129432
+- Un produit exclusif de la marque UMEC
 - feuille anneaux métalliques Boîte 20 Unités - UMEC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

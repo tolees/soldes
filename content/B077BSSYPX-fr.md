@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AC1200
 - ultra compact
+- AC1200
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077BSSYPX{{</world>}}

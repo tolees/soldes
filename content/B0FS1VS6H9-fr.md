@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EUROPA NE SERA PAS SEULE A AFFRONTER CETTE AVENTURE: Dans les entrailles du géant, elle rencontre Apino, un adorable ours flottant qui semble posséder des pouvoirs magiques. En explorant le château, Apino peut purger Talos de la corruption et tirer divers projectiles capables de détruire les cristaux sombres et dinfliger des dégâts.
 - UTILISEZ LES ÉLÉMENTS ET MAITRISEZ LEUR POUVOIR: Obtenez des armures élémentaires autrefois précieuses pour les civilisations anciennes, passez de lune à lautre instantanément et débloquez des capacités spéciales pour poursuivre votre exploration.
-- LÉDITION COLLECTOR CONTIENT: le jeu 9 Years of Shadows au format physique, la Carte Postale Le Secret de Talos, un Poster recto-verso, des Cartes Holographiques, le tout dans un Coffret Collector.
 - EXPLORATION: Parcourez les niveaux tortueux de Talos, une forteresse ancestrale abritant les vestiges de plusieurs civilisations
 - LA MUSIQUE EST LAME DU JEU: Revitalisez le monde grâce à une bande-son émouvante composée par Miguel Hasson, incluant des morceaux relaxants en 432 Hz des célèbres compositeurs Michiru Yamane (Castlevania) et Norihiko Hibino (Metal Gear Solid).
+- LÉDITION COLLECTOR CONTIENT: le jeu 9 Years of Shadows au format physique, la Carte Postale Le Secret de Talos, un Poster recto-verso, des Cartes Holographiques, le tout dans un Coffret Collector.
+- EUROPA NE SERA PAS SEULE A AFFRONTER CETTE AVENTURE: Dans les entrailles du géant, elle rencontre Apino, un adorable ours flottant qui semble posséder des pouvoirs magiques. En explorant le château, Apino peut purger Talos de la corruption et tirer divers projectiles capables de détruire les cristaux sombres et dinfliger des dégâts.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FS1VS6H9{{</world>}}

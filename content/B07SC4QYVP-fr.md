@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection Helly Tech
 - YKK Vislon
+- Protection Helly Tech
 - Tissu de protection HELLY TECH
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

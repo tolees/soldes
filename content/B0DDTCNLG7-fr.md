@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La lentille polarisée Garmin Clarity intégrée permet datténuer les reflets du pare-brise pour afficher clairement les détails importants des vidéos
-- Commandes vocales : utilisez votre voix pour demander à la caméra denregistrer des vidéos, de démarrer/darrêter lenregistrement audio et bien plus encore (disponible en anglais, allemand, français, espagnol, italien et suédois)
 - Restez concentré sur la route avec la Garmin Dash Cam Mini 3 à commande vocale. Cette caméra intégrée ultra compacte de la taille dune clé enregistre automatiquement des vidéos haute définition 1080p. Elle est également équipée dune lentille polarisée Garmin Clarity intégrée et dun objectif large à 140 degrés. Vous disposez ainsi dun témoin oculaire au regard perçant sur la route. Certaines juridictions réglementent ou interdisent lutilisation de cette caméra. Commandes vocales disponibles dans plusieurs langues.
-- Enregistre des vidéos HD 1080p nettes, et son angle de vue large à 140 degrés capture les moindres détails quelles que soient les conditions de luminosité
 - Caméra embarquée ultra compacte, de la taille dune clé, qui passe quasiment inaperçue sur votre pare-brise
+- Commandes vocales : utilisez votre voix pour demander à la caméra denregistrer des vidéos, de démarrer/darrêter lenregistrement audio et bien plus encore (disponible en anglais, allemand, français, espagnol, italien et suédois)
+- La lentille polarisée Garmin Clarity intégrée permet datténuer les reflets du pare-brise pour afficher clairement les détails importants des vidéos
+- Enregistre des vidéos HD 1080p nettes, et son angle de vue large à 140 degrés capture les moindres détails quelles que soient les conditions de luminosité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DDTCNLG7{{</world>}}

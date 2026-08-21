@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure intérieure avec feuille d’aluminium isolante
 - Montage collé
+- Doublure intérieure avec feuille d’aluminium isolante
 - Gomme protectrice pour les terrains rocheux
 - Aluminia Thermal Insulation
 - La construction WaterProof de Mammut garantit imperméabilité, respirabilité et longévité. Les pieds restent ainsi au sec et dans un confort thermique idéal. Toutes les coutures sont étanchées au niveau de la membrane intérieure.

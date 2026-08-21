@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Microphone zoom/canon mono avec 3 modes denregistrement
-- produit 2: Matériaux légers, bandoulière, poche de rangement pour Memory Stick ou carte SD
-- produit 2: Livrée avec une bandoulière rembourrée
 - produit 2: Comprend un espace de stockage pour cartes mémoire
-- produit 2: Compatible avec la plupart des modèles Handycam
-- produit 1: Compatible devices: Kamera
+- produit 1: Microphone zoom/canon mono avec 3 modes denregistrement
+- produit 2: Livrée avec une bandoulière rembourrée
 - produit 1: Couleur: Noir
+- produit 2: Compatible avec la plupart des modèles Handycam
+- produit 2: Matériaux légers, bandoulière, poche de rangement pour Memory Stick ou carte SD
+- produit 1: Compatible devices: Kamera
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09C8X3WJ6{{</world>}}

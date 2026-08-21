@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture par bouton et zip
+- Poches dos passepoilées avec fermeture à bouton
+- Taille mi-haute
 - Style chino classique
 - Modèle plissé sur le devant
-- Taille mi-haute
-- Poches dos passepoilées avec fermeture à bouton
-- Fermeture par bouton et zip
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FJRMFS4R{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids de larticle : 648 g
+- Type de sangle : bandoulière
+- Niveau de résistance à leau : non résistant à leau
 - Compartiment de rangement séparé pour ordinateur portable.
 - Sac à dos dordinateur
-- Poids de larticle : 648 g
-- Niveau de résistance à leau : non résistant à leau
-- Type de sangle : bandoulière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08P25R6MD{{</world>}}

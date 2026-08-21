@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière de la tige : 100 % cuir
-- Matière de la première de propreté : 100 % polyester
-- 100% leather
 - Matière de la semelle extérieure : 100 % caoutchouc
+- Matière de la tige : 100 % cuir
+- 100% leather
 - Matière de la doublure : 100 % polyester
+- Matière de la première de propreté : 100 % polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVH6FQ7J{{</world>}}

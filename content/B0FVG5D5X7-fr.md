@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SEMELLE M-TRAC offrant une ACCROCHE EXCELLENTE et une DURABILITÉ supérieure sur terrains variés
 - RIPSTOP MESH résistant et respirant pour une CHAUSSURE légère et durable
-- PARE-PIERRE TPU et SEMELLE ORTHOLITE pour PROTECTION et MAINTIEN longue durée
 - GORE-TEX IMPERMÉABLE pour des pieds AU SEC sous la pluie comme dans la boue
+- PARE-PIERRE TPU et SEMELLE ORTHOLITE pour PROTECTION et MAINTIEN longue durée
+- SEMELLE M-TRAC offrant une ACCROCHE EXCELLENTE et une DURABILITÉ supérieure sur terrains variés
 - AMORTI EVA BI-DENSITÉ procurant CONFORT et STABILITÉ tout au long de la marche
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ICONIQUE ET INTEMPOREL : au quotidien ou pour la détente, ce modèle passe-partout se distingue par son confort exceptionnel. Le logo Tommy Hilfiger sur la poitrine attire tous les regards.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
+- ICONIQUE ET INTEMPOREL : au quotidien ou pour la détente, ce modèle passe-partout se distingue par son confort exceptionnel. Le logo Tommy Hilfiger sur la poitrine attire tous les regards.
 - CHIC : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Il est très apprécié grâce à sa matière exclusive et à sa coupe classique.
 - MATIÈRE ET ENTRETIEN : 100 % coton en transition. Lavage en machine.
 - EXCELLENT CONFORT : grâce à ses lignes indémodables, ce modèle convient à tous types de corps. Jeunes ou moins jeunes, tous aimeront le recevoir en cadeau.

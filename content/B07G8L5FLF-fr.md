@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabrication certifiée OEKO-TEX Standard 100 (système de certification indépendant qui garantit une conception sous haute sécurité et respectueuse de lenvironnement)
+- Dimensions : 90 x 200 cm
+- Drap-housse entièrement composé de jersey de coton
 - Doux sur la peau, confortable et respirant
 - Entretien facile : lavage en machine à 60 °C et séchage au sèche-linge à basse température
 - Entièrement composé de coton peigné et de tissage fin - 150 g/m²
-- Dimensions : 90 x 200 cm
-- Fabrication certifiée OEKO-TEX Standard 100 (système de certification indépendant qui garantit une conception sous haute sécurité et respectueuse de lenvironnement)
-- Drap-housse entièrement composé de jersey de coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07G8L5FLF{{</world>}}

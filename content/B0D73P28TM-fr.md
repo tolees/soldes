@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PLATEAU DE JEU SUR LE THÈME DE POUDLARD : Dans ce jeu de plateau familial, les joueurs explorent les salles de classe, salles communes et lieux emblématiques de Poudlard pour gagner des points de maison.
+- INSPIRÉ DE HARRY POTTER : Bienvenue à Poudlard ! Les joueurs incarnent un élève dans le jeu de plateau Monopoly Harry Potter qui combine le jeu Monopoly classique aux illustrations, aux lieux et à la thématique du monde des sorciers.
 - CARTES HIBOU EXPRESS ET PORTE-CARTE : Ce jeu de société famille inclut les cartes Hibou Express, qui remplacent les cartes Chance et Caisse de communauté. Sous la chouette des neiges, les Beuglantes peuvent perturber la partie.
 - CHOISIR UNE MAISON : Gryffondor, Poufsouffle, Serdaigle ou Serpentard ? Chaque joueur choisit une carte de maison pour laquelle il recevra des points dans ce jeu de société.
-- INSPIRÉ DE HARRY POTTER : Bienvenue à Poudlard ! Les joueurs incarnent un élève dans le jeu de plateau Monopoly Harry Potter qui combine le jeu Monopoly classique aux illustrations, aux lieux et à la thématique du monde des sorciers.
+- PLATEAU DE JEU SUR LE THÈME DE POUDLARD : Dans ce jeu de plateau familial, les joueurs explorent les salles de classe, salles communes et lieux emblématiques de Poudlard pour gagner des points de maison.
 - PIONS DORÉS EMBLÉMATIQUES : Les joueurs parcourent le plateau avec un des six pions dorés sur le thème des transports enchantés : hippogriffe, Magicobus, Poudlard Express, moto de Hagrid, Sombral et Éclair de feu.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

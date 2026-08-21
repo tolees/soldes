@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 tailles de grossissement : 100X / 250X / 1000X
-- Chaque activité est expliquée en détails,
-- Oculaires en verre
-- Nécessite 2 piles LR06 (non incluses)
-- 50 activités scientifiques et amusantes,
 - Nombreux accessoires : lamelles, pince, mélangeur, boite de Petri, micro-trancheuse
+- 3 tailles de grossissement : 100X / 250X / 1000X
+- Nécessite 2 piles LR06 (non incluses)
+- Oculaires en verre
+- 50 activités scientifiques et amusantes,
+- Chaque activité est expliquée en détails,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01EF8A8EU{{</world>}}

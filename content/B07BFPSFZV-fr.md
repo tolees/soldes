@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MODERNE : le tambour de câble avec boîtier en plastique spécial utilise un étrier de fixation pivotant en métal pour un montage individuel et marque des points grâce à un gabarit de perçage intégré pour un montage facile
-- SÛR : lenrouleur de câble électrique pour lintérieur évite que le câble ne traîne, met de lordre dans chaque atelier et réduit considérablement le risque daccident pendant le travail
-- PRATIQUE : Enroulement propre et freiné du câble grâce au guidage automatique avec Stop at any point - une fonction utile qui permet darrêter le câble en tout point
-- LIVRAISON : 1x HAZET 9040D-2,5 Enrouleur de câble pour lintérieur avec disjoncteur I Longueur du câble : 20 m, câble de raccordement : 1,5 m, câble : H07RN-F 3 x 2,5 mm2 I Poids net : 9,2 kg
 - Fabriqué en Allemagne : HAZET est lun des principaux fabricants doutils de qualité destinés aux professionnels et dispose à cet égard de plus de 155 ans dexpérience dans le développement et la production
+- SÛR : lenrouleur de câble électrique pour lintérieur évite que le câble ne traîne, met de lordre dans chaque atelier et réduit considérablement le risque daccident pendant le travail
+- MODERNE : le tambour de câble avec boîtier en plastique spécial utilise un étrier de fixation pivotant en métal pour un montage individuel et marque des points grâce à un gabarit de perçage intégré pour un montage facile
+- LIVRAISON : 1x HAZET 9040D-2,5 Enrouleur de câble pour lintérieur avec disjoncteur I Longueur du câble : 20 m, câble de raccordement : 1,5 m, câble : H07RN-F 3 x 2,5 mm2 I Poids net : 9,2 kg
+- PRATIQUE : Enroulement propre et freiné du câble grâce au guidage automatique avec Stop at any point - une fonction utile qui permet darrêter le câble en tout point
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BFPSFZV{{</world>}}

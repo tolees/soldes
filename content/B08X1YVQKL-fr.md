@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair intérieure pour les chausser et déchausser aisément
-- Confectionnée en cuirs nubuck gras produits dans nos propres tanneries
-- Doublure chaude et semelle intercalaire en feutre pour un confort optimal pendant les mois d’hiver
 - La technologie GORE-TEX imperméable conserve les pieds au sec
+- Fermeture éclair intérieure pour les chausser et déchausser aisément
 - Le garde-boue offre une protection par temps humide pour conserver les bottes en état plus longtemps
+- Doublure chaude et semelle intercalaire en feutre pour un confort optimal pendant les mois d’hiver
+- Confectionnée en cuirs nubuck gras produits dans nos propres tanneries
 - La semelle extérieure FLUIDFORM bicomposant en PU et caoutchouc est très confortable, résistante, flexible, légère et offre une bonne adhérence
 
 [🛒 Achète-le!!]({{< param buyurl >}})

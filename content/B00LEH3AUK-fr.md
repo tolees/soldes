@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité: 280 ml / 0,28 L
 - Très facile à nettoyer.
+- Mangeoire en acier inoxydable ou drainage pour les oiseaux
 - Ajoutez un crochet pour être facile à accrocher et à retirer.
 - Mesure: 10 x 12,5 x 6,5 cm
-- Mangeoire en acier inoxydable ou drainage pour les oiseaux
+- Capacité: 280 ml / 0,28 L
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00LEH3AUK{{</world>}}

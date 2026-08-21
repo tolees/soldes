@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran blanc semi-brillant avec logo emblématique LACOSTE à 3 heures.
-- Bracelet blanc en silicone avec motif petit piqué
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
-- Mouvement à quartz à 3 aiguilles
 - Épaisseur du boîtier 8,85mm / Diamètre du boîtier 32 mm
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
+- Cadran blanc semi-brillant avec logo emblématique LACOSTE à 3 heures.
+- Mouvement à quartz à 3 aiguilles
+- Bracelet blanc en silicone avec motif petit piqué
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B7MNG5JQ{{</world>}}

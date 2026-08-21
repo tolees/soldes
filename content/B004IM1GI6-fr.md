@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en cuir avec superpositions pour le maintien et perforations pour la circulation de lair
 - Semelle dair encapsulée sur toute la longueur pour plus de confort et de soutien
+- Dessus en cuir avec superpositions pour le maintien et perforations pour la circulation de lair
 - La semelle extérieure en caoutchouc plein est durable et offre une bonne traction sur différentes surfaces
 - Chaussure dentraînement Nike Air Monarch IV pour homme
 

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UN PUISSANT RÉCIT INITIATIQUE
+- L’ASSASSIN ULTIME
+- UN HOMMAGE À L’OPUS ORIGINAL
 - Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
 - UNE VILLE DYNAMIQUE ET IMMERSIVE
-- L’ASSASSIN ULTIME
 - CONTENU ADDITIONNEL : L’édition Deluxe dAssassins Creed Mirage comprend le contenu numérique sous forme de code dans la boîte : Une tenue inspirée par Prince of Persia, des apparences daigle et de monture, des armes et bien plus ! Contenu bonus: un artbook numérique et la bande originale numérique.
-- UN PUISSANT RÉCIT INITIATIQUE
-- UN HOMMAGE À L’OPUS ORIGINAL
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDZ139TS{{</world>}}

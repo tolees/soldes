@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FORMAT COMPACT - Le facteur de forme ATX compact de 150x150 mm garantit une installation pratique et facile dans la plupart des boîtiers PC. Cela libère de lespace pour la gestion des câbles et la circulation de lair dans le reste du système.
-- CERTIFIÉE 80 PLUS GOLD - Avec la certification 80 PLUS Gold (jusquà 90 % de rendement), cette alimentation est idéale pour alimenter le matériel très gourmand en énergie, comme les GPU et les CPU.
-- CONNECTEUR 12V-2x6 NATIF - Équipée de connecteurs PCIe 12V-2x6 natifs, elle peut fournir jusquà 600W de puissance pour prendre en charge les GPU PCIe 5.1.
 - FONCTIONNEMENT SILENCIEUX - Le niveau sonore moyen est maintenu à un niveau aussi bas que celui dune nuit paisible. Équipé dun ventilateur de 135 mm à roulement hydrodynamique (FDB), conçu pour améliorer la durabilité.
+- CERTIFIÉE 80 PLUS GOLD - Avec la certification 80 PLUS Gold (jusquà 90 % de rendement), cette alimentation est idéale pour alimenter le matériel très gourmand en énergie, comme les GPU et les CPU.
 - CONCEPTION DURABLE - Un LLC half-bridge avec convertisseur CC/CC et une conception à PFC actif garantissent une sortie fiable (protection OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO).
+- CONNECTEUR 12V-2x6 NATIF - Équipée de connecteurs PCIe 12V-2x6 natifs, elle peut fournir jusquà 600W de puissance pour prendre en charge les GPU PCIe 5.1.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DMSWJL8G{{</world>}}

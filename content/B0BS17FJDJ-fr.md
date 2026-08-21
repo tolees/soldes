@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ACCESSOIRES INCLUS BATTLE PACK - Ce coffret de figurines Dragon Ball comprend plusieurs mains et accessoires disponibles pour recréer toutes les scènes de la série Dragon Ball Super.
+- LICENCE OFFICIELLE DRAGON BALL - Figurines collector issues de la série Dragon Ball Super. Une collaboration officielle entre Bandai et la licence Dragon Ball.
+- COFFRET 2 FIGURINES MANGA DRAGON BALL - Ce Battle Pack Dragon Stars compend 2 figurines issues de Dragon Ball : Golden Freezer vs Super Saiyan Blue Goku. Un coffret explosif pour recréer des combats entre ces deux personnages emblématiques.
+- FIGURINES ARTICULÉES - Les figurines daction Dragon Stars font 17 cm et sont articulées sur plusieurs parties pour pouvoir créer et imaginer des postures de combat comme dans le manga Dragon Ball.
 - JOUET ENFANT 4 ANS ET + - Ce pack de 2 figurines daction est un cadeau idéal pour tous les enfants à partir de 4 ans, mais aussi pour tous les fans de Dragon Ball, petits et grands !
 - COLLECTION DRAGON STARS - Collectionnez toutes les figurines Dragon Stars de Bandai. Recréez les combats mythiques de la série et des films Dragon Ball grâce à larène Tenkaichi Budokai (référence 36790 - vendue séparément).
-- LICENCE OFFICIELLE DRAGON BALL - Figurines collector issues de la série Dragon Ball Super. Une collaboration officielle entre Bandai et la licence Dragon Ball.
-- FIGURINES ARTICULÉES - Les figurines daction Dragon Stars font 17 cm et sont articulées sur plusieurs parties pour pouvoir créer et imaginer des postures de combat comme dans le manga Dragon Ball.
-- COFFRET 2 FIGURINES MANGA DRAGON BALL - Ce Battle Pack Dragon Stars compend 2 figurines issues de Dragon Ball : Golden Freezer vs Super Saiyan Blue Goku. Un coffret explosif pour recréer des combats entre ces deux personnages emblématiques.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BS17FJDJ{{</world>}}

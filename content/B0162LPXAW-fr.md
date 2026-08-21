@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Risque de moisissure : affichage « Faible », « Moyen », ou « Haut », indicateur intérieur et extérieur
-- Température Intérieure : Unité : °C ou °F, de 0°C à 50°C (32°F à 122°F), précision : +/-1°C/2°F, résolution : 0.1°C, enregistrement quotidien des Mini/Maxi, indicateur de tendance, alertes haute et basse programmables
-- Laissez toujours le temps au produit de se stabiliser sans déplacement | Ne laissez pas les plastiques et autres conducteurs entrer en contact avec lappareil | Lexposition du produit à toute source de chaleur (même petite comme les lumières, les projecteurs, les radiateurs, la lumière du soleil, etc.) peut affecter la température
-- Réglage manuel de l’heure, format : 12H ou 24H, Choix de la langue (Français, Allemand, Italien, Néerlandais, Espagnol, Danois, Anglais)
-- Alarme avec Snooze
-- Point de Rosée : Unité : °C ou °F
-- Calendrier : jour / mois / date
-- Température Extérieure : Unité : °C ou °F, de -40°C à 60°C (-40 °F à 140 °F), précision : +/-1°C/2°F, résolution : 0.1°C, enregistrement quotidien des Mini/Maxi, indicateur de tendance, alertes haute et basse programmables
 - Hygrométrie Intérieure : unité : %RH, de 1% à 99% RH, résolution : 1% RH, indicateur de tendance
+- Risque de moisissure : affichage « Faible », « Moyen », ou « Haut », indicateur intérieur et extérieur
+- Point de Rosée : Unité : °C ou °F
+- Laissez toujours le temps au produit de se stabiliser sans déplacement | Ne laissez pas les plastiques et autres conducteurs entrer en contact avec lappareil | Lexposition du produit à toute source de chaleur (même petite comme les lumières, les projecteurs, les radiateurs, la lumière du soleil, etc.) peut affecter la température
+- Calendrier : jour / mois / date
+- Réglage manuel de l’heure, format : 12H ou 24H, Choix de la langue (Français, Allemand, Italien, Néerlandais, Espagnol, Danois, Anglais)
+- Température Extérieure : Unité : °C ou °F, de -40°C à 60°C (-40 °F à 140 °F), précision : +/-1°C/2°F, résolution : 0.1°C, enregistrement quotidien des Mini/Maxi, indicateur de tendance, alertes haute et basse programmables
+- Température Intérieure : Unité : °C ou °F, de 0°C à 50°C (32°F à 122°F), précision : +/-1°C/2°F, résolution : 0.1°C, enregistrement quotidien des Mini/Maxi, indicateur de tendance, alertes haute et basse programmables
+- Alarme avec Snooze
 - Hygrométrie Extérieure : unité : %RH, de 1% à 99% RH, résolution : 1% RH, indicateur de tendance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

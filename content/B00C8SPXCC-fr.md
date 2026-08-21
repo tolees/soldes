@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
-- Complexe Ginseng Blanc : composé d’extraits de racine de ginseng blanc, de réglisse, d’igname sauvage, de prèle et de fruit de kigelia, ce complexe unique est connu pour son action protectrice, lissante et hydratante sur la peau
-- Soin 3-en-1 lissant, anticernes et effet peau de bébé : BB Eye Touche Parfaite est un produit triple action pour parfaire la peau délicate du contour des yeux. Résulat, cernes et poches sont diminuées, les rides et ridules lissées et le regard plus frais
 - Astuce beauté : pour un résultat optimal, appliquez le produit par touches et lissez délicatement le contour de lœil. Il sagit dune excellente base de maquillage. Ce soin a été testé sous contrôle dermatologique
+- Soin 3-en-1 lissant, anticernes et effet peau de bébé : BB Eye Touche Parfaite est un produit triple action pour parfaire la peau délicate du contour des yeux. Résulat, cernes et poches sont diminuées, les rides et ridules lissées et le regard plus frais
 - Yeux défatigués et regard éclatant : cette crème soyeuse, issue de la technologie coréenne, allie soin lissant surpuissant et effet anticernes, pour un regard lumineux et parfait. Il sagit dun complément idéal à la BB Crème au Ginseng
+- Complexe Ginseng Blanc : composé d’extraits de racine de ginseng blanc, de réglisse, d’igname sauvage, de prèle et de fruit de kigelia, ce complexe unique est connu pour son action protectrice, lissante et hydratante sur la peau
+- Produits non testés sur animaux, notre priorité : Erborian na jamais testé ses produits, ses ingrédients ou ses matières premières sur les animaux. Les matières premières de nos fournisseurs ne sont également jamais testées sur les animaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00C8SPXCC{{</world>}}

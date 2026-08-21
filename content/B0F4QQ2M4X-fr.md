@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mélange de coton polaire
-- Drapeau Tommy brodé sur la poitrine
 - Ourlet et poignets côtelés
+- Drapeau Tommy brodé sur la poitrine
+- Mélange de coton polaire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4QQ2M4X{{</world>}}

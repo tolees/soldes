@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Stabilité accrue】 Ces deux bras de support coulissant pour appareil photo peuvent augmenter la stabilité lorsquun curseur est utilisé sur un seul trépied, pas besoin dun deuxième trépied. La charge maximale est de 7 kg
-- Facile à transporter : le bouton de réglage est conçu pour vous aider à régler rapidement la longueur et à verrouiller le bras en toute sécurité pendant lenregistrement. Le bras de support peut être rangé dans un sac pour trépied (avec une longueur de rangement de seulement 59 cm), de sorte quil peut être facilement emporté en voyage
 - Installation rapide avec têtes sphériques : aux deux extrémités se trouvent deux petites têtes sphériques pour un montage facile et rapide sous plusieurs angles
+- 【Stabilité accrue】 Ces deux bras de support coulissant pour appareil photo peuvent augmenter la stabilité lorsquun curseur est utilisé sur un seul trépied, pas besoin dun deuxième trépied. La charge maximale est de 7 kg
 - Bras de support coulissant extensible : le bras de support coulissant peut être réglé de 59 cm à 96 cm de longueur. Idéal pour les sliders de différentes tailles
 - 【Large compatibilité avec pince en C】 Le bras de support se fixe à votre trépied avec la pince en C. La largeur maximale de réglage de la pince en C est de 5,2 cm. La pince dispose également dun rembourrage en caoutchouc antidérapant pour augmenter la friction et éviter les rayures sur les pieds du trépied. Compatible avec une grande variété de trépieds avec pieds fins ou épais
+- Facile à transporter : le bouton de réglage est conçu pour vous aider à régler rapidement la longueur et à verrouiller le bras en toute sécurité pendant lenregistrement. Le bras de support peut être rangé dans un sac pour trépied (avec une longueur de rangement de seulement 59 cm), de sorte quil peut être facilement emporté en voyage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09B3HSWWS{{</world>}}

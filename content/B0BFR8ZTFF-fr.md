@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [𝗟𝗘𝗗 𝗱𝗲 𝗰𝗼𝘂𝗹𝗲𝘂𝗿 𝘂𝗻𝗶𝗳𝗼𝗿𝗺é𝗺𝗲𝗻𝘁 𝗿é𝗽𝗮𝗿𝘁𝗶𝗲𝘀] Trois LED de couleur rouge, verte ou bleue sont réparties uniformément autour de la lentille convergente, ce qui permet dutiliser la lampe de poche dans toutes les situations
-- [𝗦𝘂𝗿𝗳𝗮𝗰𝗲 𝗲𝘀𝘁𝗵é𝘁𝗶𝗾𝘂𝗲 𝗲𝘁 𝗱𝘂𝗿𝗮𝗯𝗹𝗲] La surface en silicone et lœillet de la lanière de capture cachée améliorent la maniabilité lors du rangement et de lutilisation quotidienne. De plus, la lampe de poche est étanche selon la norme IPX8 et résiste à des chocs de 1,5m
-- [𝗣𝗲𝘁𝗶𝘁𝗲 𝗲𝘁 𝗽𝘂𝗶𝘀𝘀𝗮𝗻𝘁𝗲] Des dimensions plus petites que les précédentes lampes de poche de la série Marauder, mais une puissance et des fonctionnalités complètes
-- [𝗗𝗲𝘂𝘅 𝘁𝘆𝗽𝗲𝘀 𝗱é𝗰𝗹𝗮𝗶𝗿𝗮𝗴𝗲 𝗲𝘁 𝗴𝗿𝗮𝗱𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲] Dispose dun faisceau lumineux circulaire focalisé de 600 mètres de long provenant de la LED centrale et dun projecteur de 7000 lumens provenant des 9 LED environnantes. Un simple commutateur de mode permet de passer de la lumière focalisée à la lumière dambiance et de 7 niveaux de luminosité
 - [𝗣𝗹𝘂𝘀 𝘀û𝗿 𝗲𝘁 𝗽𝗹𝘂𝘀 𝗽𝗿𝗮𝘁𝗶𝗾𝘂𝗲] Un capteur de chaleur intégré et des ailettes de refroidissement assurent la sécurité en cas de surchauffe et de blocage de lobjectif. La batterie au lithium 24Wh adaptée assure une longue autonomie. Désormais compatible avec le câble de recharge magnétique MCC3 dOlight.
+- [𝗣𝗲𝘁𝗶𝘁𝗲 𝗲𝘁 𝗽𝘂𝗶𝘀𝘀𝗮𝗻𝘁𝗲] Des dimensions plus petites que les précédentes lampes de poche de la série Marauder, mais une puissance et des fonctionnalités complètes
+- [𝗦𝘂𝗿𝗳𝗮𝗰𝗲 𝗲𝘀𝘁𝗵é𝘁𝗶𝗾𝘂𝗲 𝗲𝘁 𝗱𝘂𝗿𝗮𝗯𝗹𝗲] La surface en silicone et lœillet de la lanière de capture cachée améliorent la maniabilité lors du rangement et de lutilisation quotidienne. De plus, la lampe de poche est étanche selon la norme IPX8 et résiste à des chocs de 1,5m
+- [𝗗𝗲𝘂𝘅 𝘁𝘆𝗽𝗲𝘀 𝗱é𝗰𝗹𝗮𝗶𝗿𝗮𝗴𝗲 𝗲𝘁 𝗴𝗿𝗮𝗱𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲] Dispose dun faisceau lumineux circulaire focalisé de 600 mètres de long provenant de la LED centrale et dun projecteur de 7000 lumens provenant des 9 LED environnantes. Un simple commutateur de mode permet de passer de la lumière focalisée à la lumière dambiance et de 7 niveaux de luminosité
+- [𝗟𝗘𝗗 𝗱𝗲 𝗰𝗼𝘂𝗹𝗲𝘂𝗿 𝘂𝗻𝗶𝗳𝗼𝗿𝗺é𝗺𝗲𝗻𝘁 𝗿é𝗽𝗮𝗿𝘁𝗶𝗲𝘀] Trois LED de couleur rouge, verte ou bleue sont réparties uniformément autour de la lentille convergente, ce qui permet dutiliser la lampe de poche dans toutes les situations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BFR8ZTFF{{</world>}}

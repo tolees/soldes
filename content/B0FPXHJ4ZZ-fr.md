@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAQUETTE AVEC FONCTIONNALITÉS EXPLOSIVES – Coupez des arbres pour bloquer l’entrée de l’abri, puis préparez-vous à l’action lorsque la fonction explosion le fait voler en éclats
-- ENCORE PLUS DE POSSIBILITÉS DE JEU – Explorez la gamme complète de kits de construction (vendus séparément) pour placer l’action palpitante du jeu vidéo entre les mains des enfants
-- DÉCORATION GAMING – Profitez daccessoires réalistes, comme la pelle d’Alex, un établi, des torches, un coffre avec des graines, un os et des cerises
-- CADEAU POUR GAMERS – Ce set est un beau cadeau danniversaire à offrir à un garçon ou une fille dès 8 ans qui aime le jeu vidéo Minecraft et les loisirs créatifs
 - 7 FIGURINES EN BRIQUES POUR LE JEU CRÉATIF – Rejouez des scènes culte du jeu vidéo dans le biome de la forêt de bouleaux et de la taïga enneigée avec Alex, un squelette, un Creeper, un loup des bois, un cochon froid, un lapin albinos et une abeille
+- MAQUETTE AVEC FONCTIONNALITÉS EXPLOSIVES – Coupez des arbres pour bloquer l’entrée de l’abri, puis préparez-vous à l’action lorsque la fonction explosion le fait voler en éclats
+- DÉCORATION GAMING – Profitez daccessoires réalistes, comme la pelle d’Alex, un établi, des torches, un coffre avec des graines, un os et des cerises
 - MINECRAFT DANS LA VIE RÉELLE – Les joueurs.ses peuvent créer et personnaliser des décors du célèbre jeu, puis réagencer, recréer et réinventer la maquette au fil du jeu
+- ENCORE PLUS DE POSSIBILITÉS DE JEU – Explorez la gamme complète de kits de construction (vendus séparément) pour placer l’action palpitante du jeu vidéo entre les mains des enfants
 - JOUET INTERACTIF MINECRAFT POUR GARÇON OU FILLE DÈS 8 ANS – Embarquez pour L’aventure de la première nuit LEGO Minecraft invitant les joueurs.ses à extraire des ressources pour construire un abri tout en repoussant les créatures hostiles
+- CADEAU POUR GAMERS – Ce set est un beau cadeau danniversaire à offrir à un garçon ou une fille dès 8 ans qui aime le jeu vidéo Minecraft et les loisirs créatifs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXHJ4ZZ{{</world>}}

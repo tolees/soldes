@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COULEURS INTENSES : crayon doté dune mine extra large et solide ( 10 mm). Sa mine riche en pigments (8 fois plus quun crayon de couleur standard) possède un pouvoir couvrant exceptionnel même sur supports sombres
-- CRAYON ECO-RESPONSABLE : Le crayon STABILO woody 3in1 est fabriqué en bois certifié PEFC (bois issu de forêts gérées durablement). Il ne sèche pas. Il est sans odeur, sans solvant
-- CRAYON POLYVALENT : STABILO woody est un crayon de couleur multi-usage et multi-surfaces. A la fois crayon de couleur, aquarelle, craie grasse et marqueur. Son corps large est parfait pour les petites main denfants
 - CRAYON EFFACABLE : le crayon Woody sefface dun coup de chiffon humide sur les surfaces lisses telles que le verre ou les tableaux blancs
 - CRAYON MULTI-SURFACES : Le crayon de couleur STABILO woody 3in1 écrit sur toutes les surfaces : ardoise, tableau blanc, verre, carton, plastique, bois, tableau noir, vitre, papier, beton
+- CRAYON POLYVALENT : STABILO woody est un crayon de couleur multi-usage et multi-surfaces. A la fois crayon de couleur, aquarelle, craie grasse et marqueur. Son corps large est parfait pour les petites main denfants
+- CRAYON ECO-RESPONSABLE : Le crayon STABILO woody 3in1 est fabriqué en bois certifié PEFC (bois issu de forêts gérées durablement). Il ne sèche pas. Il est sans odeur, sans solvant
+- COULEURS INTENSES : crayon doté dune mine extra large et solide ( 10 mm). Sa mine riche en pigments (8 fois plus quun crayon de couleur standard) possède un pouvoir couvrant exceptionnel même sur supports sombres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000MQHDKM{{</world>}}

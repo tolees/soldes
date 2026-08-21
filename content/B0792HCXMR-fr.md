@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : Synthétique
-- Doublure : Synthétique
-- Matériau de semelle : Caoutchouc
-- Dessus : Cuir
 - Type de talons : Plat
+- Semelle intérieure : Synthétique
+- Matériau de semelle : Caoutchouc
+- Doublure : Synthétique
+- Dessus : Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0792HCXMR{{</world>}}

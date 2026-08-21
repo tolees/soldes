@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRATIQUE ET FACILE À TRANSPORTER : Compact (26 x 26 cm) et pratique, le jeu de société permet de ranger les pions directement dans la grille avec un couvercle refermable. Idéal pour les vacances, les sorties ou jouer chez des amis sans s’encombrer.
-- DES MODES DE JEU VARIÉS : Relevez des défis funs en essayant d’occuper les 4 coins ou les 4 cases centrales. Le jeu de société propose plusieurs façons de jouer entre amis pour stimuler la stratégie et renouveler chaque partie avec de nouveaux objectifs.
 - FAIS REBONDIR TES PIONS POUR GAGNER : Rouges contre jaunes : les enfants et les adultes font rebondir leurs pions sur une surface plane pour les faire tomber dans la grille ! Vise juste, vole des cases et aligne 4 pions pour gagner ce jeu de stratégie plein d’action et de précision.
-- UN JEU DE SOCIÉTÉ RAPIDE ET FOU : Dans Puissance 4 Folie, tout le monde joue en même temps ! Ce jeu de famille revisite le classique Puissance 4 avec des rebonds rapides et dynamiques. Pour plus de calme, jouez chacun votre tour dans une version plus stratégique et posée.
+- DES MODES DE JEU VARIÉS : Relevez des défis funs en essayant d’occuper les 4 coins ou les 4 cases centrales. Le jeu de société propose plusieurs façons de jouer entre amis pour stimuler la stratégie et renouveler chaque partie avec de nouveaux objectifs.
 - PARTIES COURTES ET AMUSANTES : Facile à apprendre et rapide à jouer, une partie dure moins de 10 minutes. C’est un jeu de société idéal pour les familles, les enfants à partir de 8 ans, les soirées jeux ou les trajets en voiture !
+- UN JEU DE SOCIÉTÉ RAPIDE ET FOU : Dans Puissance 4 Folie, tout le monde joue en même temps ! Ce jeu de famille revisite le classique Puissance 4 avec des rebonds rapides et dynamiques. Pour plus de calme, jouez chacun votre tour dans une version plus stratégique et posée.
+- PRATIQUE ET FACILE À TRANSPORTER : Compact (26 x 26 cm) et pratique, le jeu de société permet de ranger les pions directement dans la grille avec un couvercle refermable. Idéal pour les vacances, les sorties ou jouer chez des amis sans s’encombrer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FCG4JD3Q{{</world>}}

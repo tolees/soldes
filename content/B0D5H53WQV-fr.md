@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour le volley-ball et les sauts explosifs
-- Semelle spécifique pour usage intérieur
-- Tige respirante et durable
 - Coupe basse pour une agilité accrue
+- Semelle spécifique pour usage intérieur
+- Idéal pour le volley-ball et les sauts explosifs
+- Tige respirante et durable
 - Amorti FLYTEFOAM et GEL
 
 [🛒 Achète-le!!]({{< param buyurl >}})

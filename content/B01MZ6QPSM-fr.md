@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CARACTÉRISTIQUES : Laspirateur est doté dun indicateur de nettoyage du filtre, dune fonction « pousser et nettoyer », dune fonction de contrôle de la puissance et dune prise de courant intégrée pour les outils électriques. Il dispose dun réservoir de 30 L et peut être utilisé avec ou sans sac.
-- ACCESSOIRES : Laspirateur comprend un suceur pour sols secs et humides, un suceur plat, un crochet de rangement pour le flexible, un sac jetable et un filtre. Découvrez dautres accessoires en visitant notre boutique Amazon
 - FONCTION DE SOUFFLEUR : il se transforme en un parfait souffleur pour enlever les feuilles, la poussière et les débris des patios, des terrasses, des jardins, etc. Peut également être utilisé pour souffler les produits gonflables.
 - ASPIRATEURS NILFISK : Le Multi II 30 T possède un réservoir en acier inoxydable de grande capacité et des capacités daspiration et de soufflage pour sattaquer aux débris humides et secs dans votre maison, votre jardin, votre atelier ou votre voiture.
 - ASPIRATION PUISSANTE : grâce à son variateur de vitesse, il élimine sans effort la saleté, le sable, les granulés de bois, le gravier et même les débris de verre. Il fonctionne également comme un aspirateur à eau pour recueillir les liquides renversés.
+- CARACTÉRISTIQUES : Laspirateur est doté dun indicateur de nettoyage du filtre, dune fonction « pousser et nettoyer », dune fonction de contrôle de la puissance et dune prise de courant intégrée pour les outils électriques. Il dispose dun réservoir de 30 L et peut être utilisé avec ou sans sac.
+- ACCESSOIRES : Laspirateur comprend un suceur pour sols secs et humides, un suceur plat, un crochet de rangement pour le flexible, un sac jetable et un filtre. Découvrez dautres accessoires en visitant notre boutique Amazon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MZ6QPSM{{</world>}}

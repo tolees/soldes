@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SCÈNE URBAINE MODULAIRE – Créez votre propre scène urbaine en combinant ce set avec d’autres modèles de la collection de bâtiments modulaires LEGO, comme le kit 76324 (vendu séparément)
-- CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami.e ou membre de la famille peut, depuis son propre appareil, construire une partie du set
-- JOUET DE CONSTRUCTION DE SUPER-HÉROS POUR GARÇON OU FILLE DÈS 8 ANS – Passez à l’action avec L’affrontement légendaire entre Spider-Man et Hulk, un set LEGO mettant en scène des personnages de l’univers de Spider-Man : Brand New Day
 - DÉCORATION & ACCESSOIRES – Le kit contient des meubles, des outils de construction, une zone de réception, un décor de parc et un chariot de hot-dogs qui s’ouvre avec des saucisses et du pain
-- 6 PERSONNAGES DU FILM – Inclut les minifigurines de Spider-Man, Tarantula, Scorpion, Boomerang et d’une vendeuse de hot-dogs, des tiges transparentes pour plus d’action aérienne, ainsi qu’une grande figurine de Hulk en briques
-- CADEAU MARVEL POUR ENFANT – Offrez ce jouet LEGO pour filles et garçons dès 8 ans pour un anniversaire ou une autre occasion spéciale et faites le bonheur des jeunes super-héros
 - JEU CRÉATIF – Appuyez sur un levier à l’arrière pour faire exploser la façade et révéler l’incroyable Hulk, puis reconstruisez facilement le bâtiment pour dautres aventures
+- CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami.e ou membre de la famille peut, depuis son propre appareil, construire une partie du set
+- SCÈNE URBAINE MODULAIRE – Créez votre propre scène urbaine en combinant ce set avec d’autres modèles de la collection de bâtiments modulaires LEGO, comme le kit 76324 (vendu séparément)
+- CADEAU MARVEL POUR ENFANT – Offrez ce jouet LEGO pour filles et garçons dès 8 ans pour un anniversaire ou une autre occasion spéciale et faites le bonheur des jeunes super-héros
+- JOUET DE CONSTRUCTION DE SUPER-HÉROS POUR GARÇON OU FILLE DÈS 8 ANS – Passez à l’action avec L’affrontement légendaire entre Spider-Man et Hulk, un set LEGO mettant en scène des personnages de l’univers de Spider-Man : Brand New Day
+- 6 PERSONNAGES DU FILM – Inclut les minifigurines de Spider-Man, Tarantula, Scorpion, Boomerang et d’une vendeuse de hot-dogs, des tiges transparentes pour plus d’action aérienne, ainsi qu’une grande figurine de Hulk en briques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FTFSDHK7{{</world>}}

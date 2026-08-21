@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- TV PARTOUT SANS CÂBLES – Transmettez le signal HDMI d’un décodeur, PC ou lecteur vers une TV ou un projecteur dans une autre pièce, sans tirer de câbles, pour plus de liberté d’installation.
+- LOOPTHROUGH + RETOUR IR – Regardez le même contenu sur deux écrans grâce au loopthrough et contrôlez vos appareils à distance via le retour infrarouge avec votre télécommande habituelle.
 - ULTRA HD 4K60 NETTE – Prend en charge la 4K60 avec HDR pour une image détaillée, idéale pour films et streaming, tout en gardant un salon propre sans goulottes ni perçage.
 - USB KVM PRATIQUE – Branchez clavier et souris au récepteur pour piloter un PC à distance, parfait pour un media center ou un poste de travail sans déplacer l’ordinateur.
 - PORTÉE MAISON ENTIÈRE – Jusqu’à 50 m à travers murs et plafonds et jusqu’à 100 m en champ libre, pratique pour chambre, bureau ou une TV placée ailleurs dans la maison.
-- LOOPTHROUGH + RETOUR IR – Regardez le même contenu sur deux écrans grâce au loopthrough et contrôlez vos appareils à distance via le retour infrarouge avec votre télécommande habituelle.
-- TV PARTOUT SANS CÂBLES – Transmettez le signal HDMI d’un décodeur, PC ou lecteur vers une TV ou un projecteur dans une autre pièce, sans tirer de câbles, pour plus de liberté d’installation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLZJBBN3{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LES CRAYONS DE COULEUR SPECIAL ARDOISE : Ces crayons Maped Markerpeps sont conçus pour convenir parfaitement à un usage sur ardoise blanche. Leur mine grasse, spécialement formulée pour un usage sur ardoise, permet dobtenir avec facilité une écriture parfaitement lisible. Pratique, lécriture est effaçable à sec sur les ardoises blanches.
 - CRAYONS ERGONOMIQUES : Un crayon qui tient bien en main est un rayon que lon aime utiliser, et qui favorise lapprentissage. Ces crayons pour ardoise son facile à manipuler grâce à leur format Jumbo et à leur corps de forme triangulaire, idéal pour les petites mains des enfants.
 - AVEC TAILLE-CRAYONS : Cette boîte carton contient 4 crayons (bleu, noir, vert, rouge) et un taille-crayons 1 trou parfaitement adapté, pour avoir toujours ses crayons de couleur pour ardoise prêts à lemploi.
 - CHANGER LE MONDE AVEC SES MAINS : Maped innove depuis plus de 75 ans pour que les enfants du monde entier cultivent leur imaginaire, développent leurs savoirs, apprennent et créent avec leurs mains. Des outils innovants et des fournitures scolaires durables spécialement conçus pour eux… Jour après jour, Maped permet aux enfants de changer le monde avec leurs mains !
-- LES CRAYONS DE COULEUR SPECIAL ARDOISE : Ces crayons Maped Markerpeps sont conçus pour convenir parfaitement à un usage sur ardoise blanche. Leur mine grasse, spécialement formulée pour un usage sur ardoise, permet dobtenir avec facilité une écriture parfaitement lisible. Pratique, lécriture est effaçable à sec sur les ardoises blanches.
 - CRAYONS DURABLES : Les crayons Markerpeps sont fabriqués en bois durable, certifié FSC.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

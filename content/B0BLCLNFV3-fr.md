@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce style a été produit de manière durable
-- Confortable à porter
-- il sagit dun produit authentique et original PUMA
-- il assure un ajustement optimal
 - Idéal pour toutes les occasions et toutes les saisons
+- il sagit dun produit authentique et original PUMA
+- Confortable à porter
+- Ce style a été produit de manière durable
+- il assure un ajustement optimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BLCLNFV3{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur :Cuir - Synthétique/PU
-- Type de talon : Sans talon
-- Matériau unique : Caoutchouc
 - Matériau intérieur : Feutre
+- Matériau unique : Caoutchouc
+- Type de talon : Sans talon
 - Type de fermeture : SANS LACETS
 
 [🛒 Achète-le!!]({{< param buyurl >}})

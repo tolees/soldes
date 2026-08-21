@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lorsque votre réseau Wi-Fi n’est pas accessible, contrôlez-la avec votre téléphone portable ou votre tablette pour diffuser tous les contenus de votre appareil
 - L’enceinte intelligente la plus polyvalente de Bose: une enceinte domestique, une enceinte portable et une enceinte à contrôle vocal dans un même appareil
 - Profitez d’un son profond, clair et authentique à 360 degrés et de basses puissantes, où que vous soyez, quelle que soit la musique que vous écoutez
-- Lorsque votre réseau Wi-Fi n’est pas accessible, contrôlez-la avec votre téléphone portable ou votre tablette pour diffuser tous les contenus de votre appareil
-- Quand votre réseau Wi-Fi est accessible, contrôlez l’enceinte avec votre voix et utilisez Amazon Alexa ou l’Assistant Google pour accéder à des services musicaux intégrés tels que Amazon Music, Spotify et Pandora
 - À la maison, vous pouvez la déplacer d’une pièce à l’autre et, à l’extérieur, l’emmener partout où vous allez
+- Quand votre réseau Wi-Fi est accessible, contrôlez l’enceinte avec votre voix et utilisez Amazon Alexa ou l’Assistant Google pour accéder à des services musicaux intégrés tels que Amazon Music, Spotify et Pandora
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W4CM3SC{{</world>}}

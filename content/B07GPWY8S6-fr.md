@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- IDÉAL POUR PC – Avec sa taille compacte, la barre de son Arys sinstalle bien sous votre écran ; dans un espace minimal, elle offre un son puissant avec ces enceintes pour PC et ordinateur portable
 - COMMANDE AISÉE – La commande du volume éclairée très design située sur la façade de la barre de son USB vous permet de régler aisément le volume de la barre de son
 - DESIGN ROBUSTE – La barre de son PC Trust Arys allie design et durabilité : sa façade en grille métallique allie esthétique et protection
-- IDÉAL POUR PC – Avec sa taille compacte, la barre de son Arys sinstalle bien sous votre écran ; dans un espace minimal, elle offre un son puissant avec ces enceintes pour PC et ordinateur portable
 - SON DE HAUTE QUALITÉ – Avec une puissance de crête de 12 W, la barre de son PC compacte sait se faire entendre : le son clair viendra enrichir les spectacles et vidéos que vous regardez
 - ALIMENTATION USB – Lenceinte USB ne nécessite pas de prise électrique en guise dalimentation secteur. Branchez simplement le câble USB sur votre PC ou ordinateur portable pour lalimenter
 

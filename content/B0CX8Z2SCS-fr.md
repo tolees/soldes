@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COUVERTURE : 60 m2 (avec 1 renouvellement dair par heure) / 12 m2 (4,8 renouvellements dair par heure). Performances silencieuses et lumières à intensité variable pour une utilisation nocturne
-- FILTRE DURABLE : Pas besoin de remplacer votre filtre pendant 5 ans (testé selon GB/T18801-2015 P.CCM, basé sur une baisse de 50 % du CADR,surface de nettoyage de 12 m² et fonctionnement quotidien de 12 heures à la vitesse maximale du ventilateur)
-- INCLUT : 1x NeverChange jusquà 5 ans Purificateur dair HP150 (prise UE), 1x filtre HEPA NeverChange, 1x cartouche de technologie anti-odeur. Dimensions : H38,5 cm x L23,7 cm x P26,6 cm. Poids : 3,32 kg. Couleur : blanc
 - SURVEILLE LA QUALITÉ DE LAIR : Auto IQ réagit automatiquement aux changements de lenvironnement et ajuste la puissance de nettoyage pendant journée.La qualité de lair saméliore grâce aux résultats en temps réel affichés sur un écran LED
 - Filtre à 4 couches : piège les allergènes et les irritants, y compris la poussière, le pollen, les squames danimaux et les allergènes. La technologie anti-odeurs libère un parfum frais et neutralise les odeurs pour une maison plus fraîche
+- INCLUT : 1x NeverChange jusquà 5 ans Purificateur dair HP150 (prise UE), 1x filtre HEPA NeverChange, 1x cartouche de technologie anti-odeur. Dimensions : H38,5 cm x L23,7 cm x P26,6 cm. Poids : 3,32 kg. Couleur : blanc
+- FILTRE DURABLE : Pas besoin de remplacer votre filtre pendant 5 ans (testé selon GB/T18801-2015 P.CCM, basé sur une baisse de 50 % du CADR,surface de nettoyage de 12 m² et fonctionnement quotidien de 12 heures à la vitesse maximale du ventilateur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CX8Z2SCS{{</world>}}

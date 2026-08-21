@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Sticks TMR - Profitez dun niveau de contrôle inédit avec les sticks TMR (Tunneling Magnetoresistance) conçus pour offrir encore plus de précision, réduire la dérive et garantir des performances durables pour un gameplay plus fluide et réactif
 - Sans fil et rechargeable - Jouez toute la journée à vos jeux Nintendo préférés, grâce à une portée sans fil allant jusquà 9 m et à la batterie rechargeable intégrée qui offre jusquà 40 heures de jeu par charge
+- Boutons daction rapide assignables - Réassignez les fonctions des deux boutons programmables à larrière, pour accélérer les réactions et bénéficier dune expérience de gameplay plus personnalisée
 - Produit sous licence officielle de Nintendo - La qualité et la sécurité de cette manette sans fil sous licence officielle de Nintendo ont été rigoureusement testées, pour une compatibilité et des performances fiables avec la console de votre choix
 - Bouton C pour GameChat - Le bouton C intégré vous donne un accès rapide aux fonctionnalités clés GameChat, pour améliorer la communication sans interrompre le jeu
-- Boutons daction rapide assignables - Réassignez les fonctions des deux boutons programmables à larrière, pour accélérer les réactions et bénéficier dune expérience de gameplay plus personnalisée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FS225TQW{{</world>}}

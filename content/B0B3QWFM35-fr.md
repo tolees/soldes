@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Illuminez votre installation de jeu avec 18 LED RGB personnalisables individuellement orant des eets lumineux harmonisés.
 - La conception des pales du ventilateur ore un équilibre exceptionnel entre la pression statique et la circulation de l’air tout en garantissant un fonctionnement silencieux
-- La conception des pales du ventilateur ore un équilibre exceptionnel entre la pression statique et la circulation de l’air tout en garantissant un fonctionnement silencieux
 - Personnalisez les combinaisons d’éclairage grâce à l’application NZXT CAM. Vous pouvez réaliser une synchronisation parfaite avec tous vos accessoires d’éclairage compatibles.
+- La conception des pales du ventilateur ore un équilibre exceptionnel entre la pression statique et la circulation de l’air tout en garantissant un fonctionnement silencieux
 - Illuminez votre installation de jeu avec 18 LED RGB personnalisables individuellement orant des eets lumineux harmonisés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

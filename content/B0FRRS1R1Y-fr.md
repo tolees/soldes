@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Résistant à leau: 3 bar -Poids: 34 g
 - La nouvelle CITIZEN Suratto redéfinit l’horlogerie ultra-plate, avec une hauteur de seulement 4,71 mm — incluant son verre saphir, son cadran translucide, sa cellule solaire et son boîtier en acier inoxydable avec fond vissé Cette montre analogique est équipée de l’énergie solaire
 - Bracelet de Haute qualité en Cuir Noir, 21 cm de longueur et 20 mm de largeur avec une Boucle Ardillon
 - La montre est livrée dans une belle boîte cadeau avec une de 2 ans
-- Résistant à leau: 3 bar -Poids: 34 g
 - Diamètre du boîtier: 38 mm, Épaisseur du boîtier: 47 mm, Couleur du boîtier:Argent et Couleur du cadran: Gris
 
 [🛒 Achète-le!!]({{< param buyurl >}})

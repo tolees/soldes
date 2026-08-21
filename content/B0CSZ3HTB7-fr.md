@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Maintenant avec 6 personnages de jeu supplémentaires ! Rejoignez léquipe dès maintenant : transformez-vous en lun des personnages inclus ou imprimez-vous comme modèle sur le site Web.
 - Le célèbre jeu de cache-cache sur Mister X et les détectives à Londres : fun et jeux garantis ! Maintenant dans un nouveau design et des figurines de jeu individuelles ! Sur notre site Web, vous pouvez télécharger vos photos et imprimer un modèle; cela vous permet de devenir détective, détective, Mme X ou Monsieur X vous-même !
 - Pour 2 à 6 joueurs âgés de 8 ans et plus, durée de jeu : 45 minutes
-- Maintenant avec 6 personnages de jeu supplémentaires ! Rejoignez léquipe dès maintenant : transformez-vous en lun des personnages inclus ou imprimez-vous comme modèle sur le site Web.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSZ3HTB7{{</world>}}

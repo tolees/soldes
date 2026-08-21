@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Partagez sans fil des images issues dordinateurs et terminaux mobiles depuis le navigateur Google Chrome.
-- Une puissante solution de production sans fil avec surface de contrôle et interface audio physiques, et appli complète pour iPad.
 - Utilisez simultanément les images de quatre terminaux, plus la caméra de liPad hôte.
+- Une puissante solution de production sans fil avec surface de contrôle et interface audio physiques, et appli complète pour iPad.
+- Sauvegardez et rappelez 30 Scenes avec titres, visuels et fenêtres dincrustation dimage.
+- Partagez sans fil des images issues dordinateurs et terminaux mobiles depuis le navigateur Google Chrome.
+- Connexion directe à YouTube, Facebook Live, Twitch, et les canaux RTMP via Wi-Fi ou réseaux 4G/5G.
 - Une surface de contrôle et une interface audio physiques intuitives avec deux entrées XLR, une entrée minijack stéréo, et des sorties pour casque audio ou enceintes.
+- Permet la connexion sans fil de quatre caméras de smartphones et tablettes iOS et Android compatibles.
 - Commutez les caméras, les fichiers média et les Scenes à laide de nombreux effets de transition.
 - À laide dun iPad et de quelques smartphones, le révolutionnaire système AeroCaster Roland vous permet de commuter et diffuser sans fil sur votre plateforme favorite en quelques minutes.
-- Permet la connexion sans fil de quatre caméras de smartphones et tablettes iOS et Android compatibles.
-- Connexion directe à YouTube, Facebook Live, Twitch, et les canaux RTMP via Wi-Fi ou réseaux 4G/5G.
-- Sauvegardez et rappelez 30 Scenes avec titres, visuels et fenêtres dincrustation dimage.
 - Une plateforme média pour intégrer vidéos, sons, photos et visuels depuis votre médiathèque diPad.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

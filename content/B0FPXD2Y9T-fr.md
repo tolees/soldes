@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUET DE CONSTRUCTION BATMAN POUR GARÇON OU FILLE DÈS 12 ANS – Célébrez le 20ème anniversaire du jeu vidéo LEGO DC Batman avec le set Logo de Batman à construire & exposer
-- ENCORE PLUS DE JEUX DE CONSTRUCTION LEGO DC – Inspirez une infinité de jeux créatifs et d’options de décoration avec la vaste gamme de sets de construction LEGO DC Super Heroes
 - MAQUETTE LEGO DC AVEC 2 MINIFIGURINES DE BATMAN – Inclut une minifigurine de Batman & une pièce commémorative dorées, ainsi qu’une minifigurine de Batman qui peut être placée dans une trappe ouvrante au centre du modèle
-- CONSTRUCTION, DÉCORATION MURALE & BONUS – Exposez cette maquette Batman sur son support robuste ou en l’accrochant au mur ; obtenez un personnage doré pour jouer dans le jeu vidéo LEGO Batman en scannant le code QR
 - ACCESSOIRES AUTHENTIQUES – Le Bat-Signal présente une finition de type « greeble » et inclut des accessoires de l’univers DC, amovibles et repositionnables, dont des Batarangs et le marteau de Harley Quinn
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- CONSTRUCTION, DÉCORATION MURALE & BONUS – Exposez cette maquette Batman sur son support robuste ou en l’accrochant au mur ; obtenez un personnage doré pour jouer dans le jeu vidéo LEGO Batman en scannant le code QR
 - CADEAU GAMING POUR ADO DÈS 12 ANS – Offrez ce jeu LEGO à un garçon ou une fille, fan de construction LEGO & de super-héros, pour un anniversaire ou toute autre occasion spéciale
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- ENCORE PLUS DE JEUX DE CONSTRUCTION LEGO DC – Inspirez une infinité de jeux créatifs et d’options de décoration avec la vaste gamme de sets de construction LEGO DC Super Heroes
+- JOUET DE CONSTRUCTION BATMAN POUR GARÇON OU FILLE DÈS 12 ANS – Célébrez le 20ème anniversaire du jeu vidéo LEGO DC Batman avec le set Logo de Batman à construire & exposer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXD2Y9T{{</world>}}

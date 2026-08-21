@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACCESSOIRES RÉALISTES – Cette voiture de course inclut une direction fonctionnelle, une suspension 4 roues, un différentiel, un moteur 6 cylindres, des portes & un coffre ouvrants, ainsi que des crics pneumatiques synchronisés pour soulever le véhicule
-- ENCORE PLUS DE SETS À DÉCOUVRIR – Offrez plus d’action avec la gamme de sets LEGO Technic (vendus séparément), intégrant des mouvements et des mécanismes réalistes qui inspirent les jeunes constructeurs.trices
-- VOITURE JOUET POUR GARÇON OU FILLE DÈS 11 ANS – Alimentez la passion des ados pour la course automobile avec le jeu de construction Voiture Porsche 911 GT3 R REXY AO Racing LEGO Technic
-- JEU & DÉCORATION – Les enfants profitent dun projet gratifiant en assemblant ce kit de construction, puis jouent avec leur maquette avant de l’exposer comme décoration sur une étagère ou un bureau
 - CADEAU POUR PASSIONNÉ.E.S DE VOITURES DE COURSE DÈS 11 ANS – Ce véhicule LEGO Technic est un cadeau amusant pour un garçon ou une fille adolescent.e qui aime les bolides
+- VOITURE JOUET POUR GARÇON OU FILLE DÈS 11 ANS – Alimentez la passion des ados pour la course automobile avec le jeu de construction Voiture Porsche 911 GT3 R REXY AO Racing LEGO Technic
 - UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans lassemblage intuitif : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- ACCESSOIRES RÉALISTES – Cette voiture de course inclut une direction fonctionnelle, une suspension 4 roues, un différentiel, un moteur 6 cylindres, des portes & un coffre ouvrants, ainsi que des crics pneumatiques synchronisés pour soulever le véhicule
+- JEU & DÉCORATION – Les enfants profitent dun projet gratifiant en assemblant ce kit de construction, puis jouent avec leur maquette avant de l’exposer comme décoration sur une étagère ou un bureau
+- ENCORE PLUS DE SETS À DÉCOUVRIR – Offrez plus d’action avec la gamme de sets LEGO Technic (vendus séparément), intégrant des mouvements et des mécanismes réalistes qui inspirent les jeunes constructeurs.trices
 - DESIGN DINOSAURE – Découvrez la superbe livrée dinosaure de ce véhicule inspiré d’un T-rex et rendez hommage à l’un des favoris du monde de la compétition d’endurance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

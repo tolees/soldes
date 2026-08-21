@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cahier format A5 avec reliure cousue à ouverture de 180º. Contient 160 pages de 90gsm.
-- Il dispose de la certification FSC, garantissant quil a été fabriqué avec du papier provenant de forêts gérées de manière responsable.
 - Cet imprimé se retrouve sur plusieurs autres produits, y compris un Agenda scolaire 2025-26, ce qui encouragera la vente croisée.
+- Il dispose de la certification FSC, garantissant quil a été fabriqué avec du papier provenant de forêts gérées de manière responsable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F7GP84NQ{{</world>}}

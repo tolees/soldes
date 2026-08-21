@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - JEU IMMERSIF ET SANS CADRE - Les écrans incurvés de MSI offrent une expérience de jeu plus immersive grâce à une courbure de 1500R (rayon de 1500 mm) et à un design sans cadre, qui réduit le contour visible entre les écrans.
-- CONTRASTE DYNAMIQUE & NIGHT VISION - La dalle VA offre un excellent contraste natif de 1300:1 et prend en charge le contraste dynamique (100 000 000:1) ; MSI Night Vision permet daméliorer les détails clés dans les environnements de jeu les plus sombres.
-- 23,6" FHD, 180 HZ - La dalle Rapid VA haute définition 1920 x 1080 (format 16:9) offre une fréquence élevée de 180 Hz (Adaptive Sync) pour un suivi fluide de la visée et des mouvements ; le temps de réponse de 1 ms (GtG) est idéal pour lesport.
 - LARGE GAMUT - Le G27C3 offre jusquà 16,7 millions de couleurs à 117 % sRGB pour des images et des détails plus immersifs ; il est doté du filtre logiciel Less Blue Light et de lanti-scintillement pour des couleurs plus fidèles et moins de fatigue.
+- CONTRASTE DYNAMIQUE & NIGHT VISION - La dalle VA offre un excellent contraste natif de 1300:1 et prend en charge le contraste dynamique (100 000 000:1) ; MSI Night Vision permet daméliorer les détails clés dans les environnements de jeu les plus sombres.
 - CONNECTIVITÉ HDMI CEC - Les possibilités de raccordement aux PC, Mac, consoles et ordinateurs portables incluent DisplayPort 1.2a (FHD/180 Hz) et HDMI 2.0b CEC (FHD/180 Hz) ; larrière de lécran est équipé dun joystick de navigation à 5 directions.
+- 23,6" FHD, 180 HZ - La dalle Rapid VA haute définition 1920 x 1080 (format 16:9) offre une fréquence élevée de 180 Hz (Adaptive Sync) pour un suivi fluide de la visée et des mouvements ; le temps de réponse de 1 ms (GtG) est idéal pour lesport.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRNN1Z9Y{{</world>}}

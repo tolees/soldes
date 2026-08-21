@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maniable : compacte avec poignée supplémentaire amovible pour une prise en main parfaite
 - Pratique : système de centrage automatique de bande assurant le maintien de la bande dans la bonne position lors des ponçages
 - Composition du colis : 1 ponceuse à bande PBS 75 A, 1 bande abrasive G 80 et un lot de 9 abrasifs Bosch (3x G 60, 3x G 80 et 3x G 100)
 - Boîtier microfiltre réduisant les projections de poussière pour un travail propre
 - Ponçage efficace idéal pour poncer de grandes surfaces planes sur de nombreux matériaux dont le bois et le métal (puissant moteur de 710 W)
+- Maniable : compacte avec poignée supplémentaire amovible pour une prise en main parfaite
 - Lot de 9 abrasifs pour ponceuse à bande de 75 x 533 mm (3x G 60, 3x G 80 et 3x G 100)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

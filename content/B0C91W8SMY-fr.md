@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadre léger en aluminium.
-- Verre CinemaSeries - Il présente un faible indice de réfraction, une neutralité des couleurs et une transmission parfaite de la cible. Fabriqué en Allemagne.
 - Conçu avec précision pour le DJI Mavic 3 Pro
+- Cadre léger en aluminium.
 - Indicateur de polarisation gravé au laser pour un réglage rapide de la force
+- Verre CinemaSeries - Il présente un faible indice de réfraction, une neutralité des couleurs et une transmission parfaite de la cible. Fabriqué en Allemagne.
 - Comprend un filtre CP + un étui de protection.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

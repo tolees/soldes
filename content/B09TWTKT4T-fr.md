@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Loading IR via logiciel
 - Chorus, Phaser, Delay, Hall
+- Loading IR via logiciel
 - Pédale rechargeable multi-effets
 - 8 simulation dampli classique
 

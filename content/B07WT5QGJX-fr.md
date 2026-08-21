@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% naturel et Végan 🌼 Produit de commerce équitable 🌼 Adapté et sans danger pour les peaux sensibles (même les bébés) 🌼 Sans parabens, produits chimiques ou silicones 🌼
-- ✳️ Lun des principaux avantages de notre authentique savon de Castille réside dans le fait quen utilisant des huiles végétales (80% de la composition du savon est de lhuile dolive) Vous pouvez ajouter des huiles essentielles naturelles ou des essences pour les savons.
 - ✳️ Plus de 18 utilisations différentes et à base dingrédients 100% naturels. En gel douche, shampoing sans sulfate, savons naturels, savon pour le visage (points noirs, nettoyant pour le visage, nettoyant pour les pores, nettoyant pour le visage professionnel). Des cosmétiques naturels pour tous.
 - ✳️ Savon fabriqué en Espagne, UNIQUEMENT à base dhuile dolive biologique, de glycérine pure et de soda, recette traditionnelle. Le savon neutre de Castille, sans parfum, est l’un des produits les plus étonnants que vous puissiez avoir. Pour ses propriétés, pour ses avantages et pour ses nombreuses utilisations.
+- 100% naturel et Végan 🌼 Produit de commerce équitable 🌼 Adapté et sans danger pour les peaux sensibles (même les bébés) 🌼 Sans parabens, produits chimiques ou silicones 🌼
 - ✳️ Il sagit du premier savon liquide AUTHENTIQUE sur le marché, sans ingrédient agressif ni détergent, il est 100% naturel et ne contient pas de graisse animale. 0% de parabens, silicones, huiles minérales, SLS, ingrédients dorigine animale, parfum, colorants.
+- ✳️ Lun des principaux avantages de notre authentique savon de Castille réside dans le fait quen utilisant des huiles végétales (80% de la composition du savon est de lhuile dolive) Vous pouvez ajouter des huiles essentielles naturelles ou des essences pour les savons.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WT5QGJX{{</world>}}

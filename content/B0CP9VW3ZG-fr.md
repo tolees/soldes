@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- An extensive tale to read, enhanced by breathtaking artwork and a stirring original musical score.
 - Enter a rich, multi-layered world filled with characters to meet and relationships to develop.
+- An extensive tale to read, enhanced by breathtaking artwork and a stirring original musical score.
 - An extraordinary, all-new adventure from Otomate, premier developers of unique story-based games including an all-star voice cast.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

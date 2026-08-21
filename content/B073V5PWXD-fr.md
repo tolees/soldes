@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transformez votre manière de bricoler avec un seul outil pour une multitude d’applications.
 - Réalisez des coupes précises, droites ou en courbe, grâce au mouvement pendulaire intégré pour une efficacité optimale.
 - Maîtrisez tous vos projets avec une prise en main confortable et un fonctionnement simple, même d’une seule main.
-- Bénéficiez d’un outil 2-en-1 ultra polyvalent pour couper bois, métal, plastique, PVC, aluminium ou branches.
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max
 - Gagnez du temps avec un changement de lame sans outil, compatible avec lames de scie sauteuse et sabre standards.
 - Basculez facilement entre scie sauteuse et scie sabre grâce à la tête pivotante et au bouton-poussoir intégrés.
-- Profitez d’une lumière LED pour éclairer la zone de coupe et travailler avec précision même dans les zones sombres.
-- Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max
 - Travaillez dans des espaces restreints grâce au design compact et léger de cette scie multifonction WORX.
+- Bénéficiez d’un outil 2-en-1 ultra polyvalent pour couper bois, métal, plastique, PVC, aluminium ou branches.
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Transformez votre manière de bricoler avec un seul outil pour une multitude d’applications.
+- Profitez d’une lumière LED pour éclairer la zone de coupe et travailler avec précision même dans les zones sombres.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073V5PWXD{{</world>}}

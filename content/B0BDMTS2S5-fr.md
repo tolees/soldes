@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Là où les histoires commencent : Explorez le monde de schleich et découvrez lincroyable potentiel de jeu créatif offert par nos jouets réalistes, conçus pour être transmis de génération en génération
-- HORSE CLUB : 4 jeunes filles, liées par leur amour des chevaux et de laventure, forment le HORSE CLUB ! Collectionnez des dizaines de jouets et figurines équestres pour les enfants de plus de 5 ans
-- Prêts pour laventure : Avec un cheval Criollo schleich, 3 brides, 3 selles, du foin et de lavoine, des carottes, des pommes et bien plus encore, cette extension de sellerie contient tout ce quil faut !
 - Jouets articulés : Le coffret schleich comprend une figurine dont les membres sont entièrement articulés. Lattention portée aux détails crée un monde merveilleux et stimule limagination
 - Des histoires sans fin : Cette extension décurie schleich contient tout ce quil faut pour que les chevaux soient heureux ! Faites-les briller avec la brosse avant de les récompenser avec une pomme
+- Prêts pour laventure : Avec un cheval Criollo schleich, 3 brides, 3 selles, du foin et de lavoine, des carottes, des pommes et bien plus encore, cette extension de sellerie contient tout ce quil faut !
+- HORSE CLUB : 4 jeunes filles, liées par leur amour des chevaux et de laventure, forment le HORSE CLUB ! Collectionnez des dizaines de jouets et figurines équestres pour les enfants de plus de 5 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDMTS2S5{{</world>}}

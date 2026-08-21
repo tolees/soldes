@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Épaisseur du boîtier 8,1mm / Diamètre du boîtier 35 mm
 - Mouvement à quartz à 2 aiguilles
 - Cadran argent blanc avec la partie droite du cadran dun effet texturé verticale
-- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 - Bracelet rigide or acier inoxydable
+- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BYZNV8YH{{</world>}}

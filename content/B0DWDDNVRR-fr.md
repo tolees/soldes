@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeux de construction LEGO Nintendo à collectionner – Explorez la gamme de sets LEGO Super Mario : Mario Kart (vendus séparément) et retrouvez d’autres véhicules et personnages pour jouer à la course et inventer des histoires
-- Favoriser le jeu créatif – Conçus pour jouer seul ou à plusieurs, les sets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
 - Cadeau LEGO Super Mario amusant pour un garçon ou une fille dès 8 ans – Offrez ce set de construction aux fans de jeux vidéo (un set 71439, 71440, 71441 ou 72043, vendu séparément, est requis pour le jeu interactif)
+- Favoriser le jeu créatif – Conçus pour jouer seul ou à plusieurs, les sets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation, ainsi que de nombreux défis amusants récompensés par des pièces numériques
+- Jeu de construction Mario Kart pour garçon ou fille dès 8 ans – Faites équipe avec Wario dans le Beat-bolide ou Roi Boo dans le Quad nounours et affrontez-vous en lançant des carapaces
 - 2 figurines LEGO Super Mario – Ce set de jeu inclut les figurines de Wario et Roi Boo favorisant ainsi le jeu de rôle
 - Jeu interactif en briques – Conduisez le Beat-bolide ou le Quad nounours avec la figurine LEGO de Mario, Luigi ou Peach (non incluses) pour déclencher des effets sonores/visuels Mario Kart lorsque vous klaxonnez et dérapez
 - Véhicules Mario Kart interchangeables – Le Beat-bolide et le Quad nounours intègrent des fonctions lancement de carapaces (2 vertes et 1 rouge) et dérapage, et le Beat-bolide est doté d’un planeur amovible, également adaptable sur le Quad nounours
-- Jeu de construction Mario Kart pour garçon ou fille dès 8 ans – Faites équipe avec Wario dans le Beat-bolide ou Roi Boo dans le Quad nounours et affrontez-vous en lançant des carapaces
+- Jeux de construction LEGO Nintendo à collectionner – Explorez la gamme de sets LEGO Super Mario : Mario Kart (vendus séparément) et retrouvez d’autres véhicules et personnages pour jouer à la course et inventer des histoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNVRR{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture zippée double curseur à rabat pressionné
 - 1 poche intérieure zippée et 1 poche intérieure pressionnée
-- Badge schott nyc manche gauche
 - Capuche fixe avec cordon de serrage
+- Fermeture zippée double curseur à rabat pressionné
+- Badge schott nyc manche gauche
 - Finition bord côte poignets
 
 [🛒 Achète-le!!]({{< param buyurl >}})

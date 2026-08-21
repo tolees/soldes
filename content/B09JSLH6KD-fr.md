@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec une corde pour des descentes en rappel spectaculaires
-- Dimensions : de lavion : 30,5 x 30 x 15 cm (LxPxH), du bateau gonflable : 14 x 7,5 x 4 cm (LxPxH)
 - Contient deux personnages, un avion, un bateau et de nombreux accessoires
 - Alerte alerte On a besoin de renfort
+- Dimensions : de lavion : 30,5 x 30 x 15 cm (LxPxH), du bateau gonflable : 14 x 7,5 x 4 cm (LxPxH)
+- Avec une corde pour des descentes en rappel spectaculaires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09JSLH6KD{{</world>}}

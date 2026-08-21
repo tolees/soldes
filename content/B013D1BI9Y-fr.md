@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stabilisation dimage :Y
-- Ouverture focale minimum :200
-- unknown_modifier
-- Ouverture focale maximum :500
 - stabilisateur dimages
+- unknown_modifier
+- Ouverture focale minimum :200
+- Ouverture focale maximum :500
+- Stabilisation dimage :Y
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B013D1BI9Y{{</world>}}

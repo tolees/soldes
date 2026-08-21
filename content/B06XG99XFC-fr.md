@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE GRAND CLASSIQUE DES JEUX DE FAMILLE DEPUIS 40 ANS : Un jeu de société dès 7 ans où petits et grands saffrontent à armes égales dans une chasse aux trésors qui mêle stratégie, observation et réflexion.
 - UN LABYRINTHE QUI CHANGE À CHAQUE PARTIE : Glissez une plaque pour modifier tout le labyrinthe, ouvrez de nouveaux passages, bloquez vos adversaires. Créez votre chemin vers les trésors en déplaçant les couloirs du plateau. Aucune partie ne se ressemble.
+- LE GRAND CLASSIQUE DES JEUX DE FAMILLE DEPUIS 40 ANS : Un jeu de société dès 7 ans où petits et grands saffrontent à armes égales dans une chasse aux trésors qui mêle stratégie, observation et réflexion.
 - LA GAMME COMPLÈTE LABYRINTHE : Découvrez aussi Labyrinthe Harry Potter, Pokémon, Disney, PatPatrouille et Stitch. Même mécanique, univers différents. Parfait pour collectionner ou offrir.
 - AMUSANT ET FACILE À APPRENDRE : Règles simples expliquées en 5 minutes, parties rapides de 20-30 min. Développe lanticipation, la vision spatiale et la pensée stratégique. Un jeu qui grandit avec vos enfants.
 - QUALITÉ RAVENSBURGER : Plateau robuste, 34 plaques couloir épaisses, 24 cartes trésor illustrées, 4 figurines colorées. Matériel durable pour des centaines de parties.

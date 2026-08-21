@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier
-- - Couleur de la Boîte: Argent
-- Mouvement
 - - Verre: Verre Minéral
 - - Matérial de la Boîtier: Acier inoxydable
+- Boîtier
+- Mouvement
+- - Couleur de la Boîte: Argent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CT91F4D2{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UTILISATION PRÉFÉRÉE : Remplir avec 5 à 6 cm de litière pour permettre à votre chat de creuser et éviter que les grumeaux ne collent au fond. Retirer les grumeaux quotidiennement et ajouter de la litière hygiénique fraîche
-- INSTRUCTIONS DÉLIMINATION : Ne pas composter ni creuser dans le jardin, car les excréments de chat peuvent contenir des bactéries. Pour des raisons dhygiène, il est recommandé de porter des gants jetables ou en caoutchouc lors de la manipulation de la litière souillée et du lavage du bac, Une marque Amazon
-- À base de plantes : La litière agglomérante Lifelong pour chat est à base de maïs, sans OGM (Organismes Génétiquement Modifiés).
 - SANS DANGER POUR LES SITES FOSSILES : Litière jetable dans les toilettes, sans danger pour les sites de fosses septiques*, selon la réglementation locale en matière délimination des déchets
+- UTILISATION PRÉFÉRÉE : Remplir avec 5 à 6 cm de litière pour permettre à votre chat de creuser et éviter que les grumeaux ne collent au fond. Retirer les grumeaux quotidiennement et ajouter de la litière hygiénique fraîche
 - LITIÈRE AGGLOMÉRANTE POUR CHAT : Litière 100 % naturelle, agglomérante et très absorbante
 - ADAPTÉ AUX CHATONS : Convient aux chats de tous types, âges et tailles
+- INSTRUCTIONS DÉLIMINATION : Ne pas composter ni creuser dans le jardin, car les excréments de chat peuvent contenir des bactéries. Pour des raisons dhygiène, il est recommandé de porter des gants jetables ou en caoutchouc lors de la manipulation de la litière souillée et du lavage du bac, Une marque Amazon
+- À base de plantes : La litière agglomérante Lifelong pour chat est à base de maïs, sans OGM (Organismes Génétiquement Modifiés).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B083VBYDM1{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Toucher intuitif
 - Plus de flexibilité
+- Toucher intuitif
 - Conception simplifiée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

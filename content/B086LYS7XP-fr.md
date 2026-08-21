@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système TDS : le système de triple distribution des micro-ondes émet la chaleur à 3 points différents assurant une cuisson optimale des aliments
-- Glass design : finition verre et panneau tactile pour sadapter à votre cuisine comme un élément de design
 - Recettes prédéfinies, cuisinez une grande variété daliments frais avec les recettes automatiques
+- Glass design : finition verre et panneau tactile pour sadapter à votre cuisine comme un élément de design
+- Système TDS : le système de triple distribution des micro-ondes émet la chaleur à 3 points différents assurant une cuisson optimale des aliments
 - Home Dessert : 10 recettes prédéfinies pour profiter de gâteaux faits maison, préparez des brownies, des puddings, des gâteaux au chocolat et bien plus encore avec une seule touche
 - Grill : pour une touche finale, il donne une dorure homogène à vos plats
 

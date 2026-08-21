@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tenue jusquà 24h
-- 99% d’ingrédients d’origine naturelle
-- Pour un look effet mouvement souple
-- Volume & Effet matifiant
 - Poudre coiffante 2en1
+- Volume & Effet matifiant
+- Pour un look effet mouvement souple
+- 99% d’ingrédients d’origine naturelle
 - Formule végane
 
 [🛒 Achète-le!!]({{< param buyurl >}})

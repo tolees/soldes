@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assure une sensation agréable de fraîcheur avec une finition soyeuse et sans aspect brillant
-- Tous types de peaux, y compris les peaux atopiques
 - Hydrate comme une crème et est absorbé rapidement comme un gel avec SPF 50
+- Tous types de peaux, y compris les peaux atopiques
+- Assure une sensation agréable de fraîcheur avec une finition soyeuse et sans aspect brillant
 - Le photoprotecteur tout-terrain pour toute la famille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

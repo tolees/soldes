@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sadapte à votre environnement : lécran antireflets et léclairage avant à réglage automatique vous permettent de lire en plein soleil ou dans le noir.
+- Large sélection : bénéficiez de laccès à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour débloquer encore plus de contenu.
+- Une autonomie à lépreuve du temps : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 8 semaines ; vous pouvez également recharger votre appareil via une station de charge sans fil (vendue séparément).
+- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
 - Lisez en couleur : avec son contraste élevé et ses couleurs fidèles au papier, le nouvel écran Colorsoft 7" met en valeur le contenu et la couverture de vos livres, et vous permet de lire sans vous fatiguer les yeux.
 - Évadez-vous au fil des pages : avec Kindle, concentrez-vous uniquement sur votre lecture, sans vous laisser distraire par les réseaux sociaux, les notifications ou dautres applications.
-- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
 - Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
+- Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
+- Sadapte à votre environnement : lécran antireflets et léclairage avant à réglage automatique vous permettent de lire en plein soleil ou dans le noir.
 - Plus de livres et plus dendroits : avec son design fin et léger, et sa capacité de stockage de 32 Go, Kindle Colorsoft Signature Edition vous permet demporter votre bibliothèque partout.
-- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
-- Une autonomie à lépreuve du temps : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 8 semaines ; vous pouvez également recharger votre appareil via une station de charge sans fil (vendue séparément).
-- Large sélection : bénéficiez de laccès à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour débloquer encore plus de contenu.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CX8YKQ2H{{</world>}}

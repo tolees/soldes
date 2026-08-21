@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Performant et polyvalent : l’outil est compatible avec une large gamme d’accessoires et permet de venir à bout aussi bien des tâches de nettoyage quotidiennes que des salissures tenaces
-- Nettoyage efficace, aux quatre coins de la maison : le nettoyeur haute pression débite 270 litres d’eau par heure grâce à son puissant moteur de 1100 W et sa pression de 100 bar
+- Les outils de jardin Easy de Bosch : pour les jardins de petites et moyennes superficies
 - Faible encombrement : rangement dans très peu d’espace car le tuyau flexible du nettoyeur vient se loger dans le corps de l’outil
 - Intensité de nettoyage réglable : vous pouvez adapter la taille du jet et l’intensité du nettoyage selon la tâche pour davantage d’efficacité (d’un rinçage en douceur à un nettoyage intensif)
-- Les outils de jardin Easy de Bosch : pour les jardins de petites et moyennes superficies
+- Performant et polyvalent : l’outil est compatible avec une large gamme d’accessoires et permet de venir à bout aussi bien des tâches de nettoyage quotidiennes que des salissures tenaces
+- Nettoyage efficace, aux quatre coins de la maison : le nettoyeur haute pression débite 270 litres d’eau par heure grâce à son puissant moteur de 1100 W et sa pression de 100 bar
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B086XYVJG9{{</world>}}

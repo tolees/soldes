@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Touches à double injection PBT : Moulées avec précision, elles résistent à l’usure, à la décoloration et à l’effet de brillance, avec une épaisseur d’1,5 mm garantissant une grande stabilité.
-- Technologie d’hyper-traitement CORSAIR AXON : Transmet vos entrées jusqu’à 8x plus rapidement que les claviers gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
-- Switches mécaniques 100 percent CHERRY MX RGB Red : Offrent un déplacement linéaire avec une tension de ressort minimale afin de fournir une frappe de touche douce, idéale pour le gaming.
-- Câble USB type C tressé et amovible : Vous permet d’utiliser facilement le K65 RGB MINI en déplacement en le connectant à n’importe quel système.
-- Personnalisez votre jeu : Affichez votre style avec un rétroéclairage RGB par touche dynamique ainsi qu’avec une touche CORSAIR et une barre d’espace irradiante supplémentaires incluses.
 - Format compact, grandes fonctionnalités : Le K65 RGB MINI fournit des fonctionnalités de pointe dans un format 60 percent pour s’intégrer facilement dans les espaces réduits.
+- Touches à double injection PBT : Moulées avec précision, elles résistent à l’usure, à la décoloration et à l’effet de brillance, avec une épaisseur d’1,5 mm garantissant une grande stabilité.
+- Personnalisez votre jeu : Affichez votre style avec un rétroéclairage RGB par touche dynamique ainsi qu’avec une touche CORSAIR et une barre d’espace irradiante supplémentaires incluses.
+- Switches mécaniques 100 percent CHERRY MX RGB Red : Offrent un déplacement linéaire avec une tension de ressort minimale afin de fournir une frappe de touche douce, idéale pour le gaming.
+- Technologie d’hyper-traitement CORSAIR AXON : Transmet vos entrées jusqu’à 8x plus rapidement que les claviers gaming traditionnels avec un taux d’interrogation de 8 000 Hz.
+- Câble USB type C tressé et amovible : Vous permet d’utiliser facilement le K65 RGB MINI en déplacement en le connectant à n’importe quel système.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09F9SJHQM{{</world>}}

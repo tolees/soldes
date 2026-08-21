@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CORPS RÉALISTE DE JEUNE ADOLESCENTE : La poupée peut tenir assise et debout toute seule. Corps légèrement potelé avec une poitrine naissante
-- POUPÉE MANNEQUIN : Melody porte une robe à capuche et une paire de bottines amovibles, le look parfait pour cette musicienne rock. Elle possède également une paire de rollers amovibles. Ses longs cheveux châtain sont lumineux et ondulés
-- POUPÉE AU VISAGE EN VINYLE ET YEUX PEINTS : Melody a un visage en vinyle souple très doux qui sent bon la vanille. Elle a de jolis yeux bleus
 - CRÉATION FRANÇAISE : Un style « à la française » imaginé depuis 1979 à Langeais, au cœur de la Touraine.
+- CORPS RÉALISTE DE JEUNE ADOLESCENTE : La poupée peut tenir assise et debout toute seule. Corps légèrement potelé avec une poitrine naissante
+- POUPÉE AU VISAGE EN VINYLE ET YEUX PEINTS : Melody a un visage en vinyle souple très doux qui sent bon la vanille. Elle a de jolis yeux bleus
 - CARACTÉRISTIQUES : Hauteur 28 cm. Yeux peints. Matières douces. Poupée à collectionner. Chaussures interchangeables. Boucles d’oreilles amovibles. 6 accessoires dont un petit chien. Dès 4 ans
+- POUPÉE MANNEQUIN : Melody porte une robe à capuche et une paire de bottines amovibles, le look parfait pour cette musicienne rock. Elle possède également une paire de rollers amovibles. Ses longs cheveux châtain sont lumineux et ondulés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BQYXTMBP{{</world>}}

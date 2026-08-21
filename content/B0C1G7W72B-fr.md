@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 【Durée de vie de la batterie : 5 ans】Alimentée par une pile CR2477, la durée de vie de la pile est supérieure à 5 ans, ce qui élimine les problèmes liés aux remplacements fréquents de la pile.
-- 【Alerte anti-sabotage】Équipé de fonctions de protection contre les manipulations, il garantit votre tranquillité desprit. Vous recevrez des notifications App sur votre téléphone si le capteur est altéré.
-- 【Surveillance des portes et fenêtres】Allumer automatiquement les lumières à louverture dune porte, déclencher des alarmes sonores et visuelles en cas dentrée non autorisée et envoyer des notifications sur lapplication pour vous tenir informé.
-- 【La scène locale intelligente】Avec la scène intelligente locale, la liaison de scène entre les appareils Zigbee peut être exécutée normalement tant que vos appareils Zigbee sont sous tension, même si le réseau est déconnecté.
 - 【Compatible Zigbee 3.0】 Sintègre parfaitement aux hubs Zigbee utilisant le protocole Zigbee 3.0, tels que SONOFF NSPanel Pro, SONOFF iHost, SONOFF ZB Bridge Pro, SONOFF ZBDongle-E, et Echo Plus 2nd...
+- 【La scène locale intelligente】Avec la scène intelligente locale, la liaison de scène entre les appareils Zigbee peut être exécutée normalement tant que vos appareils Zigbee sont sous tension, même si le réseau est déconnecté.
+- 【Surveillance des portes et fenêtres】Allumer automatiquement les lumières à louverture dune porte, déclencher des alarmes sonores et visuelles en cas dentrée non autorisée et envoyer des notifications sur lapplication pour vous tenir informé.
+- 【Alerte anti-sabotage】Équipé de fonctions de protection contre les manipulations, il garantit votre tranquillité desprit. Vous recevrez des notifications App sur votre téléphone si le capteur est altéré.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C1G7W72B{{</world>}}

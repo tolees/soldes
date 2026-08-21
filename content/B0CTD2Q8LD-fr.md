@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAKE IT MINI MEGA BUFFET : MGAs Miniverse devient Megaverse avec notre tout nouveau Make it Mini Mega Buffet. MGAs Miniverse est le mini objet de collection original que vous pouvez fabriquer, faire durcir, exposer et utiliser
-- FAITES DURCIR : Une fois votre mini-création terminée, placez-la au soleil ou sous une lumière UV 365nm jusquà ce que la résine ait durci. Une fois la résine durcie, vous avez une pièce de collection prête à être exposée
-- MÉLANGEZ : Cest vous le chef ! Mélangez les éléments de votre Make It Mini Mega Buffet pour créer vos propres créations
 - EXPOSEZ : Amusez-vous à exposer vos figurines
+- MÉLANGEZ : Cest vous le chef ! Mélangez les éléments de votre Make It Mini Mega Buffet pour créer vos propres créations
+- FAITES DURCIR : Une fois votre mini-création terminée, placez-la au soleil ou sous une lumière UV 365nm jusquà ce que la résine ait durci. Une fois la résine durcie, vous avez une pièce de collection prête à être exposée
+- MAKE IT MINI MEGA BUFFET : MGAs Miniverse devient Megaverse avec notre tout nouveau Make it Mini Mega Buffet. MGAs Miniverse est le mini objet de collection original que vous pouvez fabriquer, faire durcir, exposer et utiliser
 - FABRIQUEZ : Avec 8 recettes et plus de 60 pièces dans le pack, vous pouvez préparer toutes sortes de plats différents et uniques. Cest à vous de jouer dans la mini-cuisine. Suivez les instructions pour préparer vos minis Mega Buffet Make It
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idée de cadeau danniversaire pour un garçon ou une fille dès 9 ans, fan de Spider-Man – Ce set de super-héros est un superbe cadeau pour les fans de films Marvel, d’action, d’aventure et de jeux de combats à construire
-- Minifigurines LEGO ǀ Marvel – Le set inclut des minifigurines du film Spider-Man 2 de Marvel Studios : Spider-Man, Docteur Octopus, J. Jonah Jameson et Tante May
-- Aventures & action – Spider-Man lance une grande toile pour arrêter un train hors de contrôle avec des passagers à bord, mais Docteur Octopus accroche un de ses 2 tentacules mécaniques avec des pinces qui se fixent sur le train pour le broyer
 - Jouet de construction avec super-héros pour garçon ou fille dès 9 ans – Ce train à construire LEGO ǀ Marvel ravira les garçons et les filles de 9 ans et plus, passionnés par lunivers Marvel
-- Sets LEGO ǀ Marvel collector – La minifigurine de Spider-Man possède deux têtes interchangeables et le toit du train se retire pour accéder à l’intérieur pouvant accueillir un passager
+- Minifigurines LEGO ǀ Marvel – Le set inclut des minifigurines du film Spider-Man 2 de Marvel Studios : Spider-Man, Docteur Octopus, J. Jonah Jameson et Tante May
 - Instructions de montage 3D – Les enfants peuvent télécharger l’application LEGO Builder pour une expérience de construction immersive utilisant des outils de zoom, rotation et suivi de la progression
+- Idée de cadeau danniversaire pour un garçon ou une fille dès 9 ans, fan de Spider-Man – Ce set de super-héros est un superbe cadeau pour les fans de films Marvel, d’action, d’aventure et de jeux de combats à construire
+- Aventures & action – Spider-Man lance une grande toile pour arrêter un train hors de contrôle avec des passagers à bord, mais Docteur Octopus accroche un de ses 2 tentacules mécaniques avec des pinces qui se fixent sur le train pour le broyer
+- Sets LEGO ǀ Marvel collector – La minifigurine de Spider-Man possède deux têtes interchangeables et le toit du train se retire pour accéder à l’intérieur pouvant accueillir un passager
 - Jouets à construire LEGO ǀ Marvel – La vaste gamme de sets LEGO ǀ Marvel offre aux enfants un univers d’aventures infinies, de construction et de jeux créatifs avec des super-héros
 
 [🛒 Achète-le!!]({{< param buyurl >}})

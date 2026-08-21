@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lavage en machine
 - Laine
 - Bouton80% Laine
-- Lavage en machine
 - 20% Nylon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

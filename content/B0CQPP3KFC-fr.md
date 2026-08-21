@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fabriqué à partir dune combinaison de cuir nubuck cicatrisant et huilé qui offre une texture
 - Style à lacets avec crochets et œillets pour un look robuste
-- La semelle légère offre amorti et flexibilité, en utilisant la technologie innovante ECCO Fluidform Direct Comfort
 - Semelle extérieure en caoutchouc offrant une bonne adhérence
+- La semelle légère offre amorti et flexibilité, en utilisant la technologie innovante ECCO Fluidform Direct Comfort
 - Rembourrage sur le côté et le col pour un amorti supplémentaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})

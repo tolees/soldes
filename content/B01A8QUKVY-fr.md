@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Trépied Photo Compact et Portable】Le trépied de voyage pèse 1,4 kg avec une taille de paquet de 43,5 cm et une capacité de charge maximale de 8 kg. Ce trépied professionnel peut être rapidement et infiniment ajusté de 49 cm à 158 cm avec des pieds à 4 sections, très portable et idéal pour les voyages et les prises de vue en extérieur
+- 【Tête Sphérique Panoramique Détachable】La rotule sphérique stable peut tourner à 360° en position panoramique pour une prise de vue flexible. Vous pouvez facilement prendre des photos à partir dangles libres sans opérations compliquées. Le niveau à bulle de la tête à bille peut vous aider à calibrer avec précision la position horizontale de léquipement de prise de vue
 - 【Trépied Camera 4 en 1】Le trépied photo C5i peut être facilement converti en monopode et peut être utilisé pour la macrophotographie avec la colonne centrale réversible à 180°, offrant une variété doptions de positionnement pour une prise de vue créative. Le trépied de voyage dispose également dun support pour smartphone, permettant aux photographes de basculer de manière flexible entre différents appareils lors de la prise de photos
 - 【Trépied en Aluminium Stable et Durable】Rollei C5i est fabriqué en aluminium solide avec une stabilité fiable. Le bas de la colonne centrale est intégré avec un jarret caché, qui peut être utilisé pour accrocher des objets pour une plus grande stabilité
-- 【Tête Sphérique Panoramique Détachable】La rotule sphérique stable peut tourner à 360° en position panoramique pour une prise de vue flexible. Vous pouvez facilement prendre des photos à partir dangles libres sans opérations compliquées. Le niveau à bulle de la tête à bille peut vous aider à calibrer avec précision la position horizontale de léquipement de prise de vue
+- 【Trépied Photo Compact et Portable】Le trépied de voyage pèse 1,4 kg avec une taille de paquet de 43,5 cm et une capacité de charge maximale de 8 kg. Ce trépied professionnel peut être rapidement et infiniment ajusté de 49 cm à 158 cm avec des pieds à 4 sections, très portable et idéal pour les voyages et les prises de vue en extérieur
 - 【Haute Compatibilité】Le trépied dslr est équipé de trous filetés standard de 1/4 et 3/8, convenant à la plupart des appareils photo, appareils photo DSLR, smartphones, caméscopes, lunettes de visée, projecteurs, stabilisateurs, etc. Prend en charge la fixation jusquà 3 appareils sur ce trépied pour une prise de vue simultanée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

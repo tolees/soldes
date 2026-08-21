@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CEST DU COSTAUD ! : Fabriquer des jouets d’extérieur assez costauds pour résister aux enfants les plus intrépides, cest ce quon fait depuis plus de 70 ans. Qui a dit quun jouet en plastique ne pouvait pas durer ? En tout cas pas nous !
 - UN VOLANT DIRECTIONNEL POUR MANŒUVRER COMME LES GRANDS ! : Un tracteur qui se dirige comme un vrai. Tuut Tuut ! Avec son klaxon, votre enfant vous avertit quil va falloir lui laisser la voie libre !
-- UNE REMORQUE POUR ENCORE PLUS DE POSSIBILITÉS : Pour charger et transporter fruits et légumes du potager...ou emporter partout avec soi ses jouets favoris na jamais été aussi amusant !
 - MADE IN FRANCE DEPUIS… TOUJOURS ! : Depuis ses origines Falk relève le défi d’imaginer, concevoir et fabriquer ses jouets en France, dans nos ateliers situés à Oyonnax en région Rhône-Alpes, tout en travaillant avec des partenaires locaux dans le but de dynamiser l’activité économique de notre région et de limiter notre impact écologique.
+- CEST DU COSTAUD ! : Fabriquer des jouets d’extérieur assez costauds pour résister aux enfants les plus intrépides, cest ce quon fait depuis plus de 70 ans. Qui a dit quun jouet en plastique ne pouvait pas durer ? En tout cas pas nous !
 - UNE PELLE FRONTALE COMME LES VRAIES : Facile de se glisser dans la peau dun conducteur de travaux avec cette pelle frontale particulièrement réaliste et entièrement articulée. Une poignée et un levier, il nen faut pas plus pour prendre les commandes et prendre en main le projet piscine des parents !
+- UNE REMORQUE POUR ENCORE PLUS DE POSSIBILITÉS : Pour charger et transporter fruits et légumes du potager...ou emporter partout avec soi ses jouets favoris na jamais été aussi amusant !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01F4PYLQ4{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ceinture et bas de jambe avec cordon de serrage extra large
+- look militaire élégant
 - haute qualité
 - dans un style vintage
 - matériau très robuste
-- look militaire élégant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0051FJNZC{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La nouvelle solution dalimentation biphasée avec une sortie pouvant atteindre 14 W prend en charge les derniers disques NVMe
+- Prise en charge de quatre disques PCIe 3.0 M.2 maximum avec une bande passante de transfert allant jusquà 128 Gbps
 - Technologie de pointe innovante
 - Grand dissipateur thermique réduisant les températures M.2 SSD pour des vitesses de transfert sans entrave et une fiabilité accrue
-- Prise en charge de quatre disques PCIe 3.0 M.2 maximum avec une bande passante de transfert allant jusquà 128 Gbps
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PCKTL1J{{</world>}}

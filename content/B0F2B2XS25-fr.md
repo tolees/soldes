@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCOUVREZ NOTRE DERNIER MODÈLE : Blink Outdoor 4 est notre caméra de surveillance connectée sans fil 4e génération vous permettant de surveiller lensemble de votre domicile (intérieur comme extérieur), directement depuis votre smartphone via lapplication Blink.
 - ENREGISTREZ ET PARTAGEZ DES CLIPS : profitez du stockage illimité pour conserver des clips dévénements jusquà 30 jours dans le Cloud grâce à labonnement Blink (essai gratuit de 30 jours et Sync Module Core inclus).
 - CONTENU DE LA BOÎTE : quatre caméras, quatre modules dextension de piles, un appareil Sync Module Core, vingt-quatre piles AA au lithium métallique, quatre kits de fixation, un câble USB et un adaptateur secteur.
-- ZONES DE CONFIDENTIALITÉ : créez jusquà deux zones de confidentialité pour exclure certaines parties du champ de vision de Blink Outdoor 4. Préservez la vie privée de vos voisins et personnalisez votre système de surveillance.
-- DÉTECTION DES PERSONNES : recevez une notification chaque fois quune personne est détectée grâce à la vision par ordinateur disponible avec labonnement Blink en option (vendu séparément).
-- AUTONOMIE DE QUATRE ANS : installez les piles AA au lithium incluses en quelques minutes et profitez dune autonomie pouvant aller jusquà quatre ans.
 - VOYEZ ET ENTENDEZ LES VISITEURS, ET PARLEZ-LEUR VIA LAPPLICATION BLINK : profitez de la vidéo en direct HD 1080p, de la vision nocturne infrarouge et du système audio bidirectionnel au son clair.
+- DÉCOUVREZ NOTRE DERNIER MODÈLE : Blink Outdoor 4 est notre caméra de surveillance connectée sans fil 4e génération vous permettant de surveiller lensemble de votre domicile (intérieur comme extérieur), directement depuis votre smartphone via lapplication Blink.
+- ZONES DE CONFIDENTIALITÉ : créez jusquà deux zones de confidentialité pour exclure certaines parties du champ de vision de Blink Outdoor 4. Préservez la vie privée de vos voisins et personnalisez votre système de surveillance.
+- AUTONOMIE DE QUATRE ANS : installez les piles AA au lithium incluses en quelques minutes et profitez dune autonomie pouvant aller jusquà quatre ans.
 - DÉTECTION DE MOUVEMENTS AVANCÉE : recevez des notifications de mouvements sur votre smartphone encore plus rapidement avec la détection de mouvements avancée double zone.
+- DÉTECTION DES PERSONNES : recevez une notification chaque fois quune personne est détectée grâce à la vision par ordinateur disponible avec labonnement Blink en option (vendu séparément).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2B2XS25{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LOT DE PLUSIEURS LOTS DE LUXE POUR POUPÉES DE 14 POUCES
 - Marque : Glitter Girls
+- LOT DE PLUSIEURS LOTS DE LUXE POUR POUPÉES DE 14 POUCES
 - Dimensions du colis : 5,5 L x 8,5 H x 3,0 W (pouces)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

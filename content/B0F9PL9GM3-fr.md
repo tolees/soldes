@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DEUX TÊTES DE NETTOYAGE – Nos deux têtes de nettoyage interchangeables sont idéales pour venir à bout des taches tenaces danimaux et de taches de bois.
 - NETTOYANT AUTO-NETTOYANT : La fonction de rinçage du tuyau intégrée garantit une hygiène optimale entre chaque utilisation. Les réservoirs séparés de 1,6 l de solution propre et de 1 l deau sale facilitent et accélèrent le remplissage et la vidange.
 - COMPACT ET PRATIQUE – Avec un poids de seulement 3,89 kg et une poignée de transport intégrée, cet aspirateur léger est facile à ranger et à déplacer. Le long câble dalimentation de 4,5 m vous offre une grande liberté de mouvement, même dans votre voiture.
-- NETTOYAGE MULTI-SURFACES – Nos deux accessoires de nettoyage, laccessoire multi-usages et laccessoire pour sols durs, garantissent un nettoyage complet et uniforme des tapis, escaliers, tissus dameublement, intérieurs de voiture, parquets et bien plus encore.
+- DEUX TÊTES DE NETTOYAGE – Nos deux têtes de nettoyage interchangeables sont idéales pour venir à bout des taches tenaces danimaux et de taches de bois.
 - CONTENU DE LA BOÎTE : Nettoyeur de taches de 3,89 kg, 2 accessoires de nettoyage, 250 ml de solution, accessoire multi-usages, brosse pour sols durs, réservoir deau propre, réservoir deau sale, tuyau extensible de 1,5 m, câble dalimentation de 4,5 m.
+- NETTOYAGE MULTI-SURFACES – Nos deux accessoires de nettoyage, laccessoire multi-usages et laccessoire pour sols durs, garantissent un nettoyage complet et uniforme des tapis, escaliers, tissus dameublement, intérieurs de voiture, parquets et bien plus encore.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F9PL9GM3{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle intercalaire bénéficie de la technologie ECCO SHOCK THRU pour un amorti accru
-- Montée sur une forme anatomique dotée de la technologie ECCO FLUIDFORM Direct Comfort qui épouse la forme naturelle du pied, pour un maintien et une stabilité accrus
+- Semelle extérieure en caoutchouc pour plus de résistance et d’adhérence quel que soit le terrain
 - Confectionnée en cuir pleine fleur ou nubuck résistants utilisant la technologie DriTan, produits dans nos propres tanneries
 - La technologie GORE-TEX garantit une chaussure imperméable et respirante
-- Semelle extérieure en caoutchouc pour plus de résistance et d’adhérence quel que soit le terrain
+- Montée sur une forme anatomique dotée de la technologie ECCO FLUIDFORM Direct Comfort qui épouse la forme naturelle du pied, pour un maintien et une stabilité accrus
 - La technologie FLUIDFORM et la forme épousant le pied offrent un support anatomique et une adhérence intégrale et durable entre la tige et la semelle, sans les compromis communs avec les assemblages cousus et/ou collés.
+- La semelle intercalaire bénéficie de la technologie ECCO SHOCK THRU pour un amorti accru
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L5FBNKD{{</world>}}

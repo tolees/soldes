@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pays dorigine : république populaire de chine
 - Spécification : 162 mm, 450 mm, 12 segments, 11,5 mm
 - Couronne de forage à eau diamantée 1 1/4" unc
+- Pays dorigine : république populaire de chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0120DPE0K{{</world>}}

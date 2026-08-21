@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 9 BOOSTERS POUR JOUER AVEC DES AMIS : les boosters de jeu sont le meilleur moyen de découvrir ce que Magic peut vous offrir. Ils sont parfaits pour construire des decks, jouer avec des amis, et sont super amusants à ouvrir
-- CARTE À ILLUSTRATION ALTERNATIVE EXCLUSIVE : chaque bundle contient également une carte promo Premium brillante avec une illustration alternative impossible à trouver dans d’autres boosters
 - ACCESSOIRES DE JEU SPÉCIAUX : chaque bundle comprend aussi des accessoires exclusifs, dont un dé spécial pour tenir le compte de vos points de vie et une boîte rigide SPIDER-MAN pour tout ranger
+- CARTE À ILLUSTRATION ALTERNATIVE EXCLUSIVE : chaque bundle contient également une carte promo Premium brillante avec une illustration alternative impossible à trouver dans d’autres boosters
+- CARTES ET ACCESSOIRES SPIDER-MAN : traversez le Spider-Verse avec une boîte contenant des boosters à ouvrir, des cartes de terrain pour compléter vos decks, une carte promo avec une illustration alternative et des accessoires de jeu Spider-Man spéciaux
+- 30 CARTES DE TERRAIN POUR CONSTRUIRE DES DECKS : Chaque deck a besoin de cartes de terrains pour donner de l’énergie à vos capacités. Ce bundle contient 30 cartes de terrain de l’extension (15 Premium, 15 non-Premium), notamment 10 avec une illustration qui couvre la totalité de la carte
 - LIBÉREZ LE POUVOIR DE L’ARAIGNÉE : votre fidèle serviteur Spider-Man débarque dans Magic: The Gathering avec des cartes représentant vos personnages et vos méchants préférés de Spider-Man, et de nouvelles mécaniques thématiques
 - LANCEZ-VOUS DANS LE JEU : Magic: The Gathering est un jeu de cartes à collectionner à laspect stratégique poussé, aux illustrations splendides et aux histoires fantastiques qui rassemble une communauté de fans prospère autour dune expérience de jeu de cartes sans pareille
-- 30 CARTES DE TERRAIN POUR CONSTRUIRE DES DECKS : Chaque deck a besoin de cartes de terrains pour donner de l’énergie à vos capacités. Ce bundle contient 30 cartes de terrain de l’extension (15 Premium, 15 non-Premium), notamment 10 avec une illustration qui couvre la totalité de la carte
-- CARTES ET ACCESSOIRES SPIDER-MAN : traversez le Spider-Verse avec une boîte contenant des boosters à ouvrir, des cartes de terrain pour compléter vos decks, une carte promo avec une illustration alternative et des accessoires de jeu Spider-Man spéciaux
+- 9 BOOSTERS POUR JOUER AVEC DES AMIS : les boosters de jeu sont le meilleur moyen de découvrir ce que Magic peut vous offrir. Ils sont parfaits pour construire des decks, jouer avec des amis, et sont super amusants à ouvrir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DV1WGZ3S{{</world>}}

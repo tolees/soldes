@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Outils
 - Facile à utiliser
+- Outils
 - Qualité supérieure
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

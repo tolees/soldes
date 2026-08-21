@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Expérience de jeu rapide : emplacements PCIe 4.0, Lightning Gen 4 x4 M.2 avec M.2 Shield Frozr, USB 3.2 Gen 2x2 20G
-- Prend en charge la mémoire DDR5, double canal DDR5 6000+MHz (OC)
 - Solution thermique de qualité supérieure : dissipateur thermique étendu, coussinets thermiques MOSFET évalués pour 7 W/mK, des coussinets thermiques supplémentaires et M.2 Shield Frozr sont conçus pour un système haute performance et un travail continu
+- Prend en charge la mémoire DDR5, double canal DDR5 6000+MHz (OC)
+- Expérience de jeu rapide : emplacements PCIe 4.0, Lightning Gen 4 x4 M.2 avec M.2 Shield Frozr, USB 3.2 Gen 2x2 20G
 - Prend en charge les processeurs de bureau AMD Ryzen série 7000
 - Conception dalimentation améliorée : système dalimentation double rail 12 + 2 + 1, deux connecteurs dalimentation CPU à 8 broches, Core Boost, Memory Boost
 

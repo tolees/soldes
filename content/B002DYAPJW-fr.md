@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITÉ OPTIMALE ✦ SUPERDIET a sélectionné pour vous du charbon activé, vegan, fabriquée en France dans nos ateliers des Haut-de-France, et dans un emballage en matière 100% Recyclée et recyclable.
+- BALLONNEMENT DIMINUE ✦ Les ballonnements intestinaux sont dus à laccumulation de gaz intestinaux ne pouvant être éliminés. Notre Charbon Végétal Activé possède une capacité d’absorption qui fixe les gaz qui sont ensuite éliminés par lorganisme,.
 - L’IMPORTANCE DE L’ACTIVATION ✦ L’activation du charbon végétal, réalisée par combustion puis choc thermique à la vapeur d’eau, crée des pores qui augmentent son pouvoir adsorbant en retenant liquides et gaz.
 - CONSEILS D’UTILISATION ✦ Prendre 6 gélules maximum par jour : 3 gélules 30 minutes avant le début d’un repas puis 3 gélules à la fin de ce repas. Destiné aux adultes et enfants de plus de 6 ans (se référer aux précautions demploi).
-- BALLONNEMENT DIMINUE ✦ Les ballonnements intestinaux sont dus à laccumulation de gaz intestinaux ne pouvant être éliminés. Notre Charbon Végétal Activé possède une capacité d’absorption qui fixe les gaz qui sont ensuite éliminés par lorganisme,.
 - NOS VALEURS ✦ Fondée en 1961 par M.René Haussin, naturopathe reconnu, SUPERDIET est une marque française basée dans les Hauts-de-France. Pionnier du Bio et engagé, nous fabriquons des compléments alimentaires respectueux de la Santé et de l’Homme.
+- QUALITÉ OPTIMALE ✦ SUPERDIET a sélectionné pour vous du charbon activé, vegan, fabriquée en France dans nos ateliers des Haut-de-France, et dans un emballage en matière 100% Recyclée et recyclable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002DYAPJW{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Arishi V4W
 - Fermeture à lacets pour un ajustement sûr
+- Arishi V4W
 - Semelle intermédiaire Fresh Foam amortie conçue pour offrir une foulée légère et amortie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

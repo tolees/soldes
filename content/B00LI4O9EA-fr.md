@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immersion exceptionnelle
-- Qualité de fabrication irréprochable
 - Produit destiné aux joueurs exigeants
+- Qualité de fabrication irréprochable
+- Immersion exceptionnelle
 - Adaptateur / convertisseur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

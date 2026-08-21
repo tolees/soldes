@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INCROYABLEMENT NET : Lentille asphérique extrême (XA), verre ED et super ED (Très faible dispersion), pour une résolution, une clarté et un contraste exceptionnels
 - RAPIDE & PRECIS : Contrôle de lobjectif très précis et silencieux grâce au système Direct Drive SSM, en photo comme en vidéo
 - CAPTUREZ TOUS LES DETAILS : Revêtement Nano antireflet Sony pour éliminer les reflets et leffet de « flare »
-- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Un diaphragme circulaire à 9 lamelles qui permet de beaux effets de bokeh
 - GRANDE ERGONOMIE : Design résistant à la poussière et à lhumidité, pour une protection et une fiabilité maximale dans tous les environnements
+- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Un diaphragme circulaire à 9 lamelles qui permet de beaux effets de bokeh
+- INCROYABLEMENT NET : Lentille asphérique extrême (XA), verre ED et super ED (Très faible dispersion), pour une résolution, une clarté et un contraste exceptionnels
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01BUAVMQY{{</world>}}

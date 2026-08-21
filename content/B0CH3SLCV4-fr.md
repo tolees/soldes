@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matin et soir, sur peau propre, prélevez une noisette de crème et appliquez-la par touche autour des yeux en tamponnant délicatement pour dégonfler et stimuler la circulation sanguine. Répétez jusquà absorption pour lisser et lifter.
-- La crème pour les yeux Blue Pro-Retinol est une innovation de Bioscience. Enrichie en Pro-Rétinol, cette crème offre une action resurfaçante continue. Elle corrige lapparence des rides et ridules, améliore la texture et la tonicité de la peau du contour de loeil sensible.
 - Dès la première utilisation, la peau retrouve +50% délasticité et +25% de fermeté. Après 1 mois, les ridules et les pattes doie sont réduites.
+- La crème pour les yeux Blue Pro-Retinol est une innovation de Bioscience. Enrichie en Pro-Rétinol, cette crème offre une action resurfaçante continue. Elle corrige lapparence des rides et ridules, améliore la texture et la tonicité de la peau du contour de loeil sensible.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CH3SLCV4{{</world>}}

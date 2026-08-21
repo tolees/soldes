@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lecture des médias, superpositions graphiques, clé chromatique automatique, transitions et création de scènes multi-sources toutes accessibles depuis le panneau avant avec des boutons dédiés
-- Caractéristiques innovantes telles que le mode Inspect pour prévisualiser en toute sécurité une entrée et le commutation automatique intelligent pour un passage sans interruption des sources vidéo et des scènes en fonction des entrées audio
 - Deux prises combo Neutrik de qualité studio avec des préamplis Revolution Preamps à faible bruit et à gain élevé pour capturer un audio cristallin à partir de microphones XLR, dinstruments ou de toute autre source audio
-- Diffusez directement sur toutes les principales plateformes via Wi-Fi ou Ethernet, ou sur un logiciel de diffusion via USB et enregistrez directement sur un périphérique de stockage USB externe, y compris un enregistrement isolé (ISO) pour une flexibilité de post-édition
+- Caractéristiques innovantes telles que le mode Inspect pour prévisualiser en toute sécurité une entrée et le commutation automatique intelligent pour un passage sans interruption des sources vidéo et des scènes en fonction des entrées audio
 - Basculer entre jusquà six sources vidéo (4x HDMI et 2x USB) et sept scènes multi-sources entièrement personnalisables à la pression dun bouton
+- Diffusez directement sur toutes les principales plateformes via Wi-Fi ou Ethernet, ou sur un logiciel de diffusion via USB et enregistrez directement sur un périphérique de stockage USB externe, y compris un enregistrement isolé (ISO) pour une flexibilité de post-édition
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP7SCRYB{{</world>}}

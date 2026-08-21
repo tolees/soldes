@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coque en fibres de carbone hyper résistante pour un poids ultra léger (1300g +/- 50g) / EPS Multi densité pour une absorption des chocs optimisée / Ecran incolore 3D traité anti rayures + écran solaire anti-UV / Ventilation : 3 entrées dair et 1 extracteur arrière Intérieur en tissu hypoallergénique
 - Homologué ECE 22.06
+- Coque en fibres de carbone hyper résistante pour un poids ultra léger (1300g +/- 50g) / EPS Multi densité pour une absorption des chocs optimisée / Ecran incolore 3D traité anti rayures + écran solaire anti-UV / Ventilation : 3 entrées dair et 1 extracteur arrière Intérieur en tissu hypoallergénique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CTKM4D5N{{</world>}}

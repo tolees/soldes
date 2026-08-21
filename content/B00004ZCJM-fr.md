@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- <b>Garantie du fabricant</b>: 2 ans
+- <b>Dimensions</b>: 77 mm
 - <b>Description du produit</b>: Tiffen - 77UVP
 - <b>Type de produit</b>: Filtre UV pour Appareil photo
-- <b>Dimensions</b>: 77 mm
-- <b>Garantie du fabricant</b>: 2 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00004ZCJM{{</world>}}

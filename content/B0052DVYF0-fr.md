@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sac à outils en polyester résistant, avec fermeture adhésive et clip ceinture
-- Dimensions (l x H x P) : 75 x 180 x 55 mm
 - Knipex Jeu de mini-pinces en pochette de ceinture à outils à 2 pièces (carte LS/blister) 00 20 72 V01
+- Dimensions (l x H x P) : 75 x 180 x 55 mm
+- Sac à outils en polyester résistant, avec fermeture adhésive et clip ceinture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0052DVYF0{{</world>}}

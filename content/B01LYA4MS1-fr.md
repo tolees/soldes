@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : GBH 2-28 F, poignée auxiliaire, butée de profondeur 210 mm, chiffon, mandrin automatique, mandrin interchangeable SDS plus, coffret de transport
 - Force de frappe de 3,2 J pour des perçages tout en puissance
 - Système Vibration Control pour une utilisation prolongée sans effort lors de travaux de longue durée
-- KickBack Control pour une meilleure protection de l’utilisateur
 - Modèle le plus performant de la gamme des perforateurs SDS plus Bosch de 2 kg avec mandrin interchangeable
+- KickBack Control pour une meilleure protection de l’utilisateur
+- Livré avec : GBH 2-28 F, poignée auxiliaire, butée de profondeur 210 mm, chiffon, mandrin automatique, mandrin interchangeable SDS plus, coffret de transport
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01LYA4MS1{{</world>}}

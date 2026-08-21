@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CHAR REQUIN-TIGRE – Les enfants peuvent construire la maquette sous forme de char requin avec bouche ouvrante, queue mobile et 2 nacelles latérales avec fusils, compartiment & place pour minifigurine de pilote
-- BATEAU PIRATE – Grâce aux mêmes briques, les enfants peuvent assembler un bateau requin-tigre avec un canon, des fusils latéraux, une bouche qui s’ouvre, un compartiment pour le trésor et une ancre
-- 5 MINIFIGURINES – Inclut les minifigurines de Mateo, Izzie, M. Oz, l’Empereur des cauchemars & Arika, ainsi que Z-Blob, un gnome, 3 araignées, 2 habitants du monde des rêves & 2 cristo-créatures
-- CADEAU POUR GARÇON OU FILLE DÈS 9 ANS – Ce jouet de construction est un superbe cadeau d’anniversaire pour les enfants dès 9 ans, fans de la série TV LEGO DREAMZzz
-- ENCORE PLUS DE JOUETS CRÉATIFS – Poursuivez l’aventure imaginative avec d’autres kits de construction de la collection LEGO DREAMZzz (vendus séparément), mettant en scène des animaux, des robots et des véhicules
 - UNE CONSTRUCTION IMMERSIVE – Ce set LEGO DREAMZzz inclut des instructions de montage basées sur une histoire, également disponibles dans l’application LEGO Builder avec des outils de zoom, rotation et suivi de la progression
 - JEU DE CONSTRUCTION 2-EN-1 : JOUET REQUIN TRANSFORMABLE – Alimentez l’imagination des enfants avec le set Le char requin-tigre LEGO DREAMZzz pour garçon ou fille dès 9 ans, proposant 2 options de construction amusantes
+- CADEAU POUR GARÇON OU FILLE DÈS 9 ANS – Ce jouet de construction est un superbe cadeau d’anniversaire pour les enfants dès 9 ans, fans de la série TV LEGO DREAMZzz
+- 5 MINIFIGURINES – Inclut les minifigurines de Mateo, Izzie, M. Oz, l’Empereur des cauchemars & Arika, ainsi que Z-Blob, un gnome, 3 araignées, 2 habitants du monde des rêves & 2 cristo-créatures
+- BATEAU PIRATE – Grâce aux mêmes briques, les enfants peuvent assembler un bateau requin-tigre avec un canon, des fusils latéraux, une bouche qui s’ouvre, un compartiment pour le trésor et une ancre
+- ENCORE PLUS DE JOUETS CRÉATIFS – Poursuivez l’aventure imaginative avec d’autres kits de construction de la collection LEGO DREAMZzz (vendus séparément), mettant en scène des animaux, des robots et des véhicules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXG554X{{</world>}}

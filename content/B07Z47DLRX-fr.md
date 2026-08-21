@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ACCESSOIRES INCLUS - Plusieurs mains disponibles pour recréer toutes les scènes de la série
-- FIGURINE MANGA - Personnage : Super Saiyan Goku
-- LICENCE OFFICIELLE - Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
 - COLLECTION DRAGON STARS - Collectionnez toutes les figurines Dragon Stars de Bandai
 - FIGURINE ARTICULÉE - Figurine de 17 cm, très détaillée avec 16 points darticulation
+- FIGURINE MANGA - Personnage : Super Saiyan Goku
+- LICENCE OFFICIELLE - Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Z47DLRX{{</world>}}

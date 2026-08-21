@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FOCUS MANUEL, CORRECTION KEYSTONE & TÉLÉCOMMANDE – Ajustez facilement la netteté et l’angle de projection grâce au réglage manuel du focus et à la correction trapézoïdale. La télécommande incluse permet une utilisation confortable à distance
-- MULTIPLES CONNECTIQUES POUR SMARTPHONE, PC, CONSOLE & PLUS – Équipé des ports HDMI, VGA, AV, USB et MicroSD, le vidéoprojecteur LED est compatible avec ordinateur portable, TV Box, console de jeux, clé USB, disque dur externe et de nombreux appareils multimédias
-- HAUT-PARLEURS STÉRÉO INTÉGRÉS & LECTEUR MULTIMÉDIA – Les haut-parleurs stéréo 2x2W intégrés offrent un son clair sans équipement audio supplémentaire. Le lecteur multimédia intégré permet de lire directement vidéos, photos et musique via USB, carte MicroSD ou disque dur externe
 - MINI VIDÉOPROJECTEUR LED AVEC IMAGE JUSQU’À 176 POUCES – Le Technaxx TX-113 transforme votre salon, chambre ou jardin en véritable home cinéma. Avec une taille de projection de 32" à 176", ce mini projecteur est idéal pour les films, séries, jeux vidéo, événements sportifs et soirées cinéma
+- FOCUS MANUEL, CORRECTION KEYSTONE & TÉLÉCOMMANDE – Ajustez facilement la netteté et l’angle de projection grâce au réglage manuel du focus et à la correction trapézoïdale. La télécommande incluse permet une utilisation confortable à distance
+- HAUT-PARLEURS STÉRÉO INTÉGRÉS & LECTEUR MULTIMÉDIA – Les haut-parleurs stéréo 2x2W intégrés offrent un son clair sans équipement audio supplémentaire. Le lecteur multimédia intégré permet de lire directement vidéos, photos et musique via USB, carte MicroSD ou disque dur externe
+- MULTIPLES CONNECTIQUES POUR SMARTPHONE, PC, CONSOLE & PLUS – Équipé des ports HDMI, VGA, AV, USB et MicroSD, le vidéoprojecteur LED est compatible avec ordinateur portable, TV Box, console de jeux, clé USB, disque dur externe et de nombreux appareils multimédias
 - 1800 LUMENS, TECHNOLOGIE LED & DURÉE DE VIE 40 000 HEURES – Le projecteur portable offre une image lumineuse avec 1800 lumens, un contraste 2000:1 et une longue durée de vie LED jusqu’à 40 000 heures. Idéal pour les soirées cinéma, le gaming et les présentations dans des pièces sombres
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
 - BOUCLES SOUPLES, DEFINIES ET HYDRATEES : Ce masque LOréal Curl Expression offre deux fois plus dhydratation et enveloppe la fibre capillaire de sa texture beurre ultra-riche pour renforcer sa barrière hydrolipidique.
 - CONSEILS DUTILISATION : Après le shampoing Curl Expression, répartir le masque hydratant sur les longueurs et pointes. Laisser poser 10 minutes, puis rincer soigneusement. Poursuivre avec une crème de finition Curl Expression.
-- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce masque cheveux est enrichi en glycérine hydratante dorigine végétale, en urea H qui renforce lhydratation capillaire et en extrait dhibiscus riche en acides aminés et vitamines.
 - MASQUE CAPILLAIRE POUR CHEVEUX CREPUS & BOUCLES : Le Masque LOréal Professionnel Curl Expression est un soin hydratant intensif qui nourrit en profondeur et démêle les cheveux afro, crépus ou bouclés et leur laisse un parfum floral envoûtant.
+- LEXPERTISE PROFESSIONNELLE A DOMICILE : LOréal Professionnel Paris met linnovation au service de votre style avec des soins, appareils et outils de coiffure conçus par des experts pour recréer chez vous lexcellence des salons parisiens.
+- FORMULE ENRICHIE EN ACTIFS CONCENTRES : Ce masque cheveux est enrichi en glycérine hydratante dorigine végétale, en urea H qui renforce lhydratation capillaire et en extrait dhibiscus riche en acides aminés et vitamines.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09YDJBTD4{{</world>}}

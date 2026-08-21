@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 figurines LEGO Nintendo à collectionner pour un jeu de rôle amusant – Ce set inclut les figurines de Bébé Mario et Bébé Luigi, ainsi que 6 ballons à construire (3 rouges, 3 verts)
-- Voitures Mario Kart – Placez Bébé Mario dans sa Paracoccinelly et Bébé Luigi dans son Tubul R3 et lancez des carapaces pour essayer de faire éclater les ballons
 - Cadeau d’anniversaire Mario Kart pour enfants – Offrez ce jouet LEGO Super Mario à des garçons, des filles et des passionnés de jeux vidéo dès 8 ans. Un set 71439, 71440 ou 71441 (vendu séparément) est nécessaire pour le jeu interactif
+- Voitures Mario Kart – Placez Bébé Mario dans sa Paracoccinelly et Bébé Luigi dans son Tubul R3 et lancez des carapaces pour essayer de faire éclater les ballons
+- 2 figurines LEGO Nintendo à collectionner pour un jeu de rôle amusant – Ce set inclut les figurines de Bébé Mario et Bébé Luigi, ainsi que 6 ballons à construire (3 rouges, 3 verts)
 - Stimulez la créativité des enfants – Conçus pour jouer seul ou à plusieurs, les jouets LEGO Super Mario offrent d’incroyables possibilités d’extension et de transformation ainsi que de nombreux défis amusants récompensés par des pièces numériques
 - Sets de construction collector Nintendo – Explorez la gamme de sets LEGO Super Mario : Mario Kart (vendus séparément) et retrouvez d’autres véhicules et personnages pour jouer à la course et inventer des histoires
 - Jeu de construction LEGO Mario Kart en briques – Joignez vos forces à celles de Bébé Mario ou Bébé Luigi pour jouer à faire la course et à éclater des ballons avec ce set LEGO Super Mario débordant d’aventure

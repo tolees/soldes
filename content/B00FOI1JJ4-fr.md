@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étendue
+- Acrylique
 - À enfiler
 - 100% Coton
+- Étendue
 - Lavage en machine
-- Acrylique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00FOI1JJ4{{</world>}}

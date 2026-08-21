@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Léger, 245 grammes. Dimensions, 18,5x27x14 cm
+- Une fermeture par bouton pression et cordon coulissant pour protéger au mieux les affaires
 - Des bretelles moussées confortables et ajustables à la taille de l’enfant.
 - Le sac à dos Lion Lécole des Tanns est le compagnon idéal pour votre tout-petit ! Matière éco-responsable : polyester de haute qualité issu de bouteilles plastiques recyclées. Matière résistante à leau. Le Lion se décline dans les tons oranges et arbore fièrement une douce crinière en feutrine.
-- Une fermeture par bouton pression et cordon coulissant pour protéger au mieux les affaires
 - Une couronne étirable avec étiquette porte-nom pour marquer le sac au nom de l’enfant
-- Léger, 245 grammes. Dimensions, 18,5x27x14 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WJD9THF{{</world>}}

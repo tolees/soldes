@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LAVABLE EN MACHINE : Ce doudou est lavable en machine à 30°. Nous vous conseillons de procéder à un premier lavage (dans un sac à doudou pour le protéger), avant toute utilisation.
 - BOITE CADEAU : Présenté dans une belle boîte, cest un cadeau idéal dès la naissance pour jouer, cajoler ou décorer la chambre.
-- IDÉE CADEAU DE NAISSANCE : Ce doudou est une excellente idée cadeau pour les bébés filles. Présenté avec soin, il fera un cadeau de naissance apprécié lors dune baby shower ou dans le cadre dune naissance.
 - DOUDOU : Offrez à votre bébé doudou lapin de Doudou et Compagnie, un compagnon doux et pratique que pourra garder bébé à portée de main tout en apportant réconfort et sécurité.
 - GARANTIE DOUDOU PERDU : Ce doudou est un cadeau idéal pour les bébés filles. Il est présenté dans une jolie boîte, prêt à être offert lors dune baby shower, dune naissance ou dun baptême. Garantie Doudou : Grâce à son numéro unique, Doudou perdu est vite retrouvé ! Enregistrez votre Doudou et découvrez toutes les garanties sur le site doudouetcompagnie.com
-- LAVABLE EN MACHINE : Ce doudou est lavable en machine à 30°. Nous vous conseillons de procéder à un premier lavage (dans un sac à doudou pour le protéger), avant toute utilisation.
+- IDÉE CADEAU DE NAISSANCE : Ce doudou est une excellente idée cadeau pour les bébés filles. Présenté avec soin, il fera un cadeau de naissance apprécié lors dune baby shower ou dans le cadre dune naissance.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TS0VPCA{{</world>}}

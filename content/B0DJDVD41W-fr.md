@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette chaussette enveloppante offrant un compromis idéal entre confort, durabilité et performance grâce à sa tige en polycoton doublée en chanvre
-- Chaussons souples pour grimpeurs débutants à la recherche de sensations dans la dimension verticale spécialement conçus pour la pratique de l’escalade en intérieur, Compatibles en extérieur
-- Le produit TAILLE PETIT
-- Excellent ratio adhérence/durabilité grâce à la gomme historique 4 Points Grip Durable de la marque, Serrage velcro pour un réglage précis et un chaussage et déchaussage rapide
 - Forme axée droite et semelle symétrique avec talon généreux pour un confort d’utilisation optimisé, Pointe profilée pour une meilleure précision lors de la grimpe
+- Excellent ratio adhérence/durabilité grâce à la gomme historique 4 Points Grip Durable de la marque, Serrage velcro pour un réglage précis et un chaussage et déchaussage rapide
+- Le produit TAILLE PETIT
+- Chaussons souples pour grimpeurs débutants à la recherche de sensations dans la dimension verticale spécialement conçus pour la pratique de l’escalade en intérieur, Compatibles en extérieur
+- Languette chaussette enveloppante offrant un compromis idéal entre confort, durabilité et performance grâce à sa tige en polycoton doublée en chanvre
 - Contenu : 1x paire de chaussons d’escalade adulte Easy Up Millet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

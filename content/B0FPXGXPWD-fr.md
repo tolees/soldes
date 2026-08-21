@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FIGURINE DE DRAGON 2-EN-1 – Métamorphosez le dragon à 4 pattes en robot articulé se tenant debout et maniant un sabre, sans avoir à reconstruire le set
-- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection permet aux fans de ninjas de s’évader dans un monde fantastique immersif, pour un jeu interactif aux côtés de leurs héros préférés
-- UNE FAÇON AMUSANTE DE CRÉER – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - DÉCORATION DYNAMIQUE AVEC ROBOT ARTICULÉ – Le kit comprend également le robot de l’impératrice Béatrix, avec plusieurs éléments mobiles, un cockpit ouvrant pour minifigurine et l’Arme de la désolation
-- JOUET NINJA POUR GARÇON OU FILLE DÈS 9 ANS – Les fans recréent des scènes de bataille palpitantes de la saison 4 de la série TV NINJAGO Le soulèvement des dragons avec le jeu de construction LEGO NINJAGO Le robot dragon transformable de Braséra
-- 6 MINIFIGURINES – Les enfants peuvent se plonger dans un jeu de rôle passionnant opposant les guerriers ninjas Braséra, Arin et Sora à l’impératrice Béatrix, au Monstre de glace et au Monstre acide
+- UNE FAÇON AMUSANTE DE CRÉER – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - IDÉE DE CADEAU AMUSANT POUR LES ENFANTS – Cette figurine de dragon transformable est un superbe cadeau danniversaire à offrir à un garçon ou une fille qui aime les ninjas et le jeu créatif
+- 6 MINIFIGURINES – Les enfants peuvent se plonger dans un jeu de rôle passionnant opposant les guerriers ninjas Braséra, Arin et Sora à l’impératrice Béatrix, au Monstre de glace et au Monstre acide
+- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection permet aux fans de ninjas de s’évader dans un monde fantastique immersif, pour un jeu interactif aux côtés de leurs héros préférés
+- JOUET NINJA POUR GARÇON OU FILLE DÈS 9 ANS – Les fans recréent des scènes de bataille palpitantes de la saison 4 de la série TV NINJAGO Le soulèvement des dragons avec le jeu de construction LEGO NINJAGO Le robot dragon transformable de Braséra
+- FIGURINE DE DRAGON 2-EN-1 – Métamorphosez le dragon à 4 pattes en robot articulé se tenant debout et maniant un sabre, sans avoir à reconstruire le set
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXGXPWD{{</world>}}

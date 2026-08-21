@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Une expérience narrative sereine et évocatrice
 - Expérience sereine et évocatrice, dénuée de danger, de frustration ou de mort, GRIS vous invite à explorer un monde conçu avec un grand souci du détail, un monde pittoresque qui prend vie grâce à des visuels délicats, des animations fouillées et une bande-son originale des plus subtiles. Tout au long du jeu, des casse-têtes légers, un soupçon de plateformes et des défis facultatifs (qui mettront à lépreuve vos réflexes de joueur) se révèlent à mesure que le monde de GRIS souvre à vous
 - GRIS ne sembarrasse pas de longs textes boursouflés : cette expérience onirique est seulement ponctuée par de simples rappels des commandes affichés sous forme dicônes universelles. Ainsi, vous pourrez vous laisser bercer par latmosphère chimérique du jeu, quelle que soit votre langue natale
-- Une expérience narrative sereine et évocatrice
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DTLN5ZF3{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ecrans carrés, vitres arrières standards : 36 cm x 44 cm. 100% Polyester traité anti-UV
-- Protection efficace les passagers et de votre habitacle contre le soleil et la chaleur avec ses 2 faces : noire et aluminium
-- Se replient en un tour de main et se rangent dans la pochette fournie dans le kit
 - Ventouses sécurisées sans aucun risque dingestion par vos enfants
+- Protection efficace les passagers et de votre habitacle contre le soleil et la chaleur avec ses 2 faces : noire et aluminium
+- Ecrans carrés, vitres arrières standards : 36 cm x 44 cm. 100% Polyester traité anti-UV
+- Se replient en un tour de main et se rangent dans la pochette fournie dans le kit
 - 2 Rideaux pare soleil occultants avec ventouses
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

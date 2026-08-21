@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Finition couleur noir. Il dispose de 2 prises Schuko de type F (EU) avec une puissance maximale admissible jusquà 3 000W - 13A, 1 connecteur HDMI, 1 port réseau RJ45 non blindé, 1 connecteur USB A et 1 connecteur USB C (1x3A, 2x1 . 5A) charge rapide et avec une plage dapplication de 5V 3A, 9V 2A, 12V 1,5 A.
 - Montage encastré: requiert dun usinage de 225x111mm sur le meuble.
 - Câbles de connexion inclus pour connecter les périphériques sans outils. Câble de 1,5 m avec prise pour un fonctionnement à 250V AC 50Hz.
-- Finition couleur noir. Il dispose de 2 prises Schuko de type F (EU) avec une puissance maximale admissible jusquà 3 000W - 13A, 1 connecteur HDMI, 1 port réseau RJ45 non blindé, 1 connecteur USB A et 1 connecteur USB C (1x3A, 2x1 . 5A) charge rapide et avec une plage dapplication de 5V 3A, 9V 2A, 12V 1,5 A.
-- La fixation au meuble est possible grâce à les équerres et vis fournies dans lensemble.
 - Couvercle d’élévation automatique via un bouton-poussoir pour accéder facilement aux connecteurs.
+- La fixation au meuble est possible grâce à les équerres et vis fournies dans lensemble.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BHDZLRPV{{</world>}}

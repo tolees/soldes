@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDÉE DE CADEAU DANNIVERSAIRE POUR PASSIONNÉ.E.S DAUTOMOBILE – Ce kit LEGO est un cadeau amusant à offrir à un garçon ou une fille dès 14 ans, fan de Fast and Furious
 - VOITURE DE COURSE COLLECTOR POUR ADO DÈS 14 ANS – Offrez aux garçons et aux filles une activité manuelle immersive et invitez-les à assembler cette superbe Voiture Mitsubishi Eclipse de Fast and Furious
-- RÉFÉRENCES AU FILM CULTE – Les fans peuvent s’amuser à repérer les nombreux détails intégrés dans cette maquette, tels que la carrosserie customisée et les modifications du pilote
+- INSTRUCTIONS INTUITIVES – L’application LEGO Builder permet aux constructeurs .trices de sauvegarder leurs sets, de suivre leur progression, de zoomer et de faire pivoter leurs modèles avec des instructions en 3D
 - SCÈNES DE COURSE PALPITANTES – Dirigez la voiture à l’aide de la molette sur le toit pour recréer vos scènes préférées et vous glisser dans la peau de pilotes de courses de rue légendaires, comme Brian O’Conner
 - DÉCORATION INTÉRIEURE DÉTAILLÉE – Soulevez le capot pour admirer le moteur avec ses pistons mobiles, ouvrez les portes pour examiner l’habitacle et le coffre pour ranger les 2 bonbonnes de NOS
-- INSTRUCTIONS INTUITIVES – L’application LEGO Builder permet aux constructeurs .trices de sauvegarder leurs sets, de suivre leur progression, de zoomer et de faire pivoter leurs modèles avec des instructions en 3D
+- IDÉE DE CADEAU DANNIVERSAIRE POUR PASSIONNÉ.E.S DAUTOMOBILE – Ce kit LEGO est un cadeau amusant à offrir à un garçon ou une fille dès 14 ans, fan de Fast and Furious
+- RÉFÉRENCES AU FILM CULTE – Les fans peuvent s’amuser à repérer les nombreux détails intégrés dans cette maquette, tels que la carrosserie customisée et les modifications du pilote
 - ENCORE PLUS DE JOUETS À DÉCOUVRIR – Offrez d’autres options de jeu avec la gamme de sets LEGO Technic (vendus séparément), intégrant des mouvements et des mécanismes réalistes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

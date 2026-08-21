@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 6 cartes à collectionner Cuphead Funnies
 - Un visuel exclusif du studio MDHR qui varie selon la plateforme
 - Lexpansion "Delicious Last Course"
-- 6 cartes à collectionner Cuphead Funnies
 - Lédition Physique de Cuphead contient
 - Une Carte de membre du Club Cuphead
 

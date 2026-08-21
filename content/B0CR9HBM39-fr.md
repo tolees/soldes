@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient au moins 20 % de matériaux recyclés.
 - Semelle extérieure en caoutchouc.
 - Tige textile.
 - Fermeture à lacets.
-- Doublure textile.
+- Contient au moins 20 % de matériaux recyclés.
 - Chaussant standard.
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR9HBM39{{</world>}}

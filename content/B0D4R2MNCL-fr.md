@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRÊT À LEMPLOI : Choisissez la simplicité avec cette commande déclairage à variation rotative complète, à combiner avec la plaque de finition de votre choix, qui offre une solution efficace et prête à installer dès louverture de la boîte.
-- FACILE À INSTALLER : Profitez dune installation aisée avec linterrupteur variateur rotatif mural Céliane. Sa connexion simple sur bornes à vis avec ou sans le neutre, assure une mise en place fiable idéale pour tous types de projets.
 - DESIGN ET INTUITIF : Cet interrupteur variateur au design moderne permet de créer lambiance par simple rotation de la bague lumineuse. Il est compatible avec les lampes de 200W maximum*.
-- LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
+- FACILE À INSTALLER : Profitez dune installation aisée avec linterrupteur variateur rotatif mural Céliane. Sa connexion simple sur bornes à vis avec ou sans le neutre, assure une mise en place fiable idéale pour tous types de projets.
 - LA QUALITÉ CÉLIANE : La gamme Céliane rime avec qualité, esthétique et innovation. La finition soignée et la robustesse des composants des produits Céliane assurent une utilisation fiable et durable dans le temps.
+- PRÊT À LEMPLOI : Choisissez la simplicité avec cette commande déclairage à variation rotative complète, à combiner avec la plaque de finition de votre choix, qui offre une solution efficace et prête à installer dès louverture de la boîte.
+- LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D4R2MNCL{{</world>}}

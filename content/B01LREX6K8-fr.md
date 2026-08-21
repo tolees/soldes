@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- assure du fabricant dun an et 2 ans supplémentaires si enregistré dans les 30 jours suivant lachat. Cette assure ne sapplique pas lorsque des pièces ou accessoires non dorigine ou recommandés sont montés sur loutil
+- 2 modes dimpact sélectionnables, haut et bas
 - Moteur sans balais
 - Filetage grossier (longueur) 22 mm à 90 mm
-- Boulon standard m5 à M14
 - Boulon à haute résistance m5 à M12
-- 2 modes dimpact sélectionnables, haut et bas
+- Boulon standard m5 à M14
+- assure du fabricant dun an et 2 ans supplémentaires si enregistré dans les 30 jours suivant lachat. Cette assure ne sapplique pas lorsque des pièces ou accessoires non dorigine ou recommandés sont montés sur loutil
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01LREX6K8{{</world>}}

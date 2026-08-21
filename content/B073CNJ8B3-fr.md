@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBLE AVEC: CITROËN BERLINGO, BERLINGO Kasten/Großraumlimousine, C4 GRAND PICASSO II, C4 PICASSO II, C4 SPACETOURER, GRAND C4 SPACETOURER, PEUGEOT 308 II, 308 SW I, 308 SW II, PARTNER Kasten/Großraumlimousine
 - ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
+- COMPATIBLE AVEC: CITROËN BERLINGO, BERLINGO Kasten/Großraumlimousine, C4 GRAND PICASSO II, C4 PICASSO II, C4 SPACETOURER, GRAND C4 SPACETOURER, PEUGEOT 308 II, 308 SW I, 308 SW II, PARTNER Kasten/Großraumlimousine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073CNJ8B3{{</world>}}

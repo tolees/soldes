@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tête, Corps Et Clés Argentés
-- Plateaux Creux
 - Étui "Light"
+- Plateaux Creux
+- Tête, Corps Et Clés Argentés
 - Mécaniques En Ligne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

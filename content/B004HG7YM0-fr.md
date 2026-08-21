@@ -28,18 +28,18 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SPÉCIALISTE BEAUX-ARTS PAR EXCELLENCE : Clairefontaine Rhodia propose des produits hautement qualitatifs adaptés à vos besoins et à toutes les techniques de dessin.
+- FABRIQUÉ EN FRANCE : cette pochette est fabriquée dans les Vosges. Le papier est sans acide et certifié PEFC, pour une gestion durable des forêts.
+- FORMAT A4 : cette pochette de 12 feuilles de papier calque est refermable. Elle se transporte facilement et permet de protéger et conserver les dessins à labri de la lumière et de la poussière.
+- PAPIER CALQUE MILLIMÉTRÉ : bien translucide, ce papier gradué tous les millimètres convient pour le dessin au crayon graphite, au crayon de couleur, au feutre, au marqueur, au stylo technique et à lencre. Très résistant, il peut être gommé ou gratté sans risque de déchirure.
+- POCHETTE DESSIN SCOLAIRE : cette pochette de papier dessin est LA pochette incontournable de la rentrée des classes !
+- FABRIQUÉ EN FRANCE : cette pochette est fabriquée dans les Vosges. Le papier est sans acide et certifié PEFC, pour une gestion durable des forêts.
 - PAPIER 70g : parfaitement lisse, ce papier se gomme facilement, sans risque de déchirure. Il permet une bonne lisibilité et convient très bien pour les travaux géométriques et les cours darts plastiques.
 - PAPIER CALQUE MILLIMÉTRÉ : bien translucide, ce papier gradué tous les millimètres convient pour le dessin au crayon graphite, au crayon de couleur, au feutre, au marqueur, au stylo technique et à lencre. Très résistant, il peut être gommé ou gratté sans risque de déchirure.
+- SPÉCIALISTE BEAUX-ARTS PAR EXCELLENCE : Clairefontaine Rhodia propose des produits hautement qualitatifs adaptés à vos besoins et à toutes les techniques de dessin.
+- POCHETTE DESSIN SCOLAIRE : cette pochette de papier dessin est LA pochette incontournable de la rentrée des classes !
+- PAPIER 70g : parfaitement lisse, ce papier se gomme facilement, sans risque de déchirure. Il permet une bonne lisibilité et convient très bien pour les travaux géométriques et les cours darts plastiques.
 - FORMAT A4 : cette pochette de 12 feuilles de papier calque est refermable. Elle se transporte facilement et permet de protéger et conserver les dessins à labri de la lumière et de la poussière.
 - SPÉCIALISTE BEAUX-ARTS PAR EXCELLENCE : Clairefontaine Rhodia propose des produits hautement qualitatifs adaptés à vos besoins et à toutes les techniques de dessin.
-- PAPIER 70g : parfaitement lisse, ce papier se gomme facilement, sans risque de déchirure. Il permet une bonne lisibilité et convient très bien pour les travaux géométriques et les cours darts plastiques.
-- PAPIER CALQUE MILLIMÉTRÉ : bien translucide, ce papier gradué tous les millimètres convient pour le dessin au crayon graphite, au crayon de couleur, au feutre, au marqueur, au stylo technique et à lencre. Très résistant, il peut être gommé ou gratté sans risque de déchirure.
-- FORMAT A4 : cette pochette de 12 feuilles de papier calque est refermable. Elle se transporte facilement et permet de protéger et conserver les dessins à labri de la lumière et de la poussière.
-- FABRIQUÉ EN FRANCE : cette pochette est fabriquée dans les Vosges. Le papier est sans acide et certifié PEFC, pour une gestion durable des forêts.
-- FABRIQUÉ EN FRANCE : cette pochette est fabriquée dans les Vosges. Le papier est sans acide et certifié PEFC, pour une gestion durable des forêts.
-- POCHETTE DESSIN SCOLAIRE : cette pochette de papier dessin est LA pochette incontournable de la rentrée des classes !
-- POCHETTE DESSIN SCOLAIRE : cette pochette de papier dessin est LA pochette incontournable de la rentrée des classes !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004HG7YM0{{</world>}}

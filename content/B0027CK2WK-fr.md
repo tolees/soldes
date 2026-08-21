@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pommeau boule lumineux bleu. Aluminium brossé et base brillante.
-- La lumière diffuse au travers du nom WRC découpé dans le dôme. 6 diodes permettent 3 types déclairage : permanent, alterné, tournant.
 - Interrupteur marche/arrêt des diodes.
 - Montage universel. Piles et accessoires de montage fournis.
+- La lumière diffuse au travers du nom WRC découpé dans le dôme. 6 diodes permettent 3 types déclairage : permanent, alterné, tournant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0027CK2WK{{</world>}}

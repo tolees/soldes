@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DIFFUSION ULTRA PRÉCISE sans effet matière pour résultat matifiant impeccable.
 - SPRAY FIXATEUR MAYBELLINE Lasting Fix teint parfait matifié 16H.
+- DIFFUSION ULTRA PRÉCISE sans effet matière pour résultat matifiant impeccable.
 - APPLICATION : bien agiter, vaporiser brume circulaire à 20-25cm du visage clos.
 - MAQUILLAGE FIXÉ 16H sans briller, couler, virer, se dessécher ou migrer durablement.
 - PRODUIT : Maybelline Lasting Fix Spray Fixateur 100 ML

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dying
-- supreme
 - Reign
+- supreme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007PLRM12{{</world>}}

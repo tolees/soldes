@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Capteur : Détecteur de mouvement PIR et capteur de lumière du jour assortis à la couleur du boîtier, éclairage orienté vers la demande, moins de pollution lumineuse
 - Installation : Assemblage complet et accessoires de connexion inclus, source lumineuse non incluse, connexion par des professionnels
+- Classe de protection : IP65 protégé contre les jets deau, adapté pour les zones extérieures non protégées comme les entrées, terrasses et façades
 - Version : Douille E27 pour une grande flexibilité dans le choix des ampoules, compatible avec les lampes SMART+ pour des applications intelligentes.
 - Lampe vendue séparément
-- Capteur : Détecteur de mouvement PIR et capteur de lumière du jour assortis à la couleur du boîtier, éclairage orienté vers la demande, moins de pollution lumineuse
-- Classe de protection : IP65 protégé contre les jets deau, adapté pour les zones extérieures non protégées comme les entrées, terrasses et façades
 - Design : Applique murale de caractère au design de cloche lumineuse avec capteur PIR intégré, aluminium moulé sous pression anthracite, style lanterne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
-- REMARQUE: Air Filter, Filter Type: Filter Insert, Height: 50, Length: 346, Width: 204
-- COMPATIBLE AVEC: CITROËN BERLINGO Kasten/Großraumlimousine, BERLINGO MULTISPACE, C3 II, C3 PICASSO, C4 AIRCROSS, C4 GRAND PICASSO I, C4 II, C4 PICASSO I Großraumlimousine, C4 PICASSO II, C5 III, C5 III Break, C-ELYSEE, DS3, DS3 Cabriolet, DS4, DS5, JUMPY II, JUMPY II Kasten, PEUGEOT 2008 I, 206+, 207, 207 CC, 207 SW, 208 I, 3008 I Großraumlimousine, 301, 308 CC, 308 I, 308 SW I, 4008, 5008, 508 I, 508 SW I, EXPERT Kasten, EXPERT Pritsche/Fahrgestell, EXPERT TEPEE, PARTNER
 - INFORMATION TECHNIQUE: Filtre à air, hauteur: 50, largeur: 204, longueur: 346, Type de filtre: Cartouche filtrante
+- REMARQUE: Air Filter, Filter Type: Filter Insert, Height: 50, Length: 346, Width: 204
+- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
+- COMPATIBLE AVEC: CITROËN BERLINGO Kasten/Großraumlimousine, BERLINGO MULTISPACE, C3 II, C3 PICASSO, C4 AIRCROSS, C4 GRAND PICASSO I, C4 II, C4 PICASSO I Großraumlimousine, C4 PICASSO II, C5 III, C5 III Break, C-ELYSEE, DS3, DS3 Cabriolet, DS4, DS5, JUMPY II, JUMPY II Kasten, PEUGEOT 2008 I, 206+, 207, 207 CC, 207 SW, 208 I, 3008 I Großraumlimousine, 301, 308 CC, 308 I, 308 SW I, 4008, 5008, 508 I, 508 SW I, EXPERT Kasten, EXPERT Pritsche/Fahrgestell, EXPERT TEPEE, PARTNER
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00F8J27KE{{</world>}}

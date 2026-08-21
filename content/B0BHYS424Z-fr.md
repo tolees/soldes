@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo petit et léger avec une superbe qualité dimage et des capacités vidéo 4K
-- Processeur Truepic IX et capteur Live MOS de 20,4 mégapixels avec technologie de réduction de la poussière
 - Fonctionnalités de photographie informatique comme la prise de vue haute résolution, le filtre ND intégré, le mode Live Composite et lhyperfocus
 - Résistance accrue à la poussière, aux éclaboussures et au gel grâce à lindice de protection IP-53
 - Système de stabilisation dimage sur 5 axes intégré au boîtier bien connu et optimisé
+- Appareil photo petit et léger avec une superbe qualité dimage et des capacités vidéo 4K
+- Processeur Truepic IX et capteur Live MOS de 20,4 mégapixels avec technologie de réduction de la poussière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BHYS424Z{{</world>}}

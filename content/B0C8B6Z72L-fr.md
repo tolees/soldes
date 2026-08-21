@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Récipient amovible pour deux types de grains avec Aroma Seal : conservez et mélangez deux mélanges différents ensemble ou passez des grains décaféinés aux grains normaux
 - Infusion tout-en-1 : infusion dans la carafe ou directement dans votre tasse*, mug* ou gobelet** préféré, à siroter pendant que vous vous rendez au travail
 - Broyeur conique intégré : personnalisez la mouture et libérez tout larôme de vos grains. Désactivez-la pour utiliser du café moulu prêt à lemploi
 - Dosage Intelligent : assure un rapport parfait entre leau et le café à chaque infusion, éliminant ainsi les approximations et permettant de réduire les remplissages. Le café est toujours le meilleur, il ne contient jamais trop deau ni n’est amer
+- Récipient amovible pour deux types de grains avec Aroma Seal : conservez et mélangez deux mélanges différents ensemble ou passez des grains décaféinés aux grains normaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C8B6Z72L{{</world>}}

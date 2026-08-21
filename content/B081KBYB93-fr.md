@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau de semelle: Caoutchouc
-- Dessus: Smooth Leather
 - Doublure: Textile
+- Dessus: Smooth Leather
 - Semelle intérieure: Synthetic
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelles en TPU légères résistantes à labrasion
 - Construction technique type Strobel
+- Semelles en TPU légères résistantes à labrasion
 - Composition du matériau principal en cuir lisse
 - Coutures à 360° pour une plus longue durée de vie
 

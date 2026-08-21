@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CADEAU STAR WARS POUR ADULTE – Faites-vous plaisir ou offrez cet adorable set de construction de Yoda à un.e adulte passionné.e par la saga fantastique
-- DÉCORATION POUR LE BUREAU OU LE SALON – Placez votre création sur le support à construire (avec plaque nominative) à côté de la minifigurine LEGO Star Wars de Yoda et faites pivoter le buste sur le support pour lobserver sous tous les angles
 - INSTRUCTIONS NUMÉRIQUES – Avec l’application LEGO Builder, vous pouvez construire vos modèles à l’aide d’instructions en 3D, suivre votre progression et sauvegarder tous vos sets au même endroit
-- D’UNE GALAXIE LOINTAINE, TRÈS LOINTAINE À VOTRE SALON – Les sets LEGO Star Wars à collectionner sont conçus pour les adultes qui apprécient les activités créatives et immersives pour profiter dun moment de détente
-- CONSTRUISEZ VOTRE COLLECTION – Ce set fait partie de la collection de bustes LEGO Star Wars (chaque set est vendu séparément) et offre un défi amusant et créatif à tous les fans
 - SET DE CONSTRUCTION COLLECTOR POUR ADULTE AVEC MAÎTRE YODA – Recréez les caractéristiques uniques de Yoda, tel quil apparaît dans Star Wars : L’Attaque des clones, avec le kit Le buste de Yoda LEGO Star Wars
+- D’UNE GALAXIE LOINTAINE, TRÈS LOINTAINE À VOTRE SALON – Les sets LEGO Star Wars à collectionner sont conçus pour les adultes qui apprécient les activités créatives et immersives pour profiter dun moment de détente
+- CADEAU STAR WARS POUR ADULTE – Faites-vous plaisir ou offrez cet adorable set de construction de Yoda à un.e adulte passionné.e par la saga fantastique
+- CONSTRUISEZ VOTRE COLLECTION – Ce set fait partie de la collection de bustes LEGO Star Wars (chaque set est vendu séparément) et offre un défi amusant et créatif à tous les fans
 - DÉTAILS AUTHENTIQUES – Construisez un sabre laser que Maître Yoda peut tenir dans ses mains et ajustez la tête et les oreilles du personnage pour varier ses expressions
+- DÉCORATION POUR LE BUREAU OU LE SALON – Placez votre création sur le support à construire (avec plaque nominative) à côté de la minifigurine LEGO Star Wars de Yoda et faites pivoter le buste sur le support pour lobserver sous tous les angles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXFW8XB{{</world>}}

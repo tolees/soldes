@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SYSTÈME ANTI-CALCAIRE : Collecteur de calcaire breveté pour des performances durables et une plus longue durée de vie de la centrale vapeur
 - SMART LED VISION : Une lumière LED sur la pointe du fer sallume automatiquement lorsque celui-ci est en position horizontale, pour des résultats toujours parfaits où que vous soyez
 - POLYVALENCE : Une solution 2-en-1 qui repasse et défroisse pour des retouches de dernière minute ou des sessions de repassage plus longues qui vous permettent darborer une tenue impeccable en un rien de temps
 - PUISSANCE VAPEUR EXCEPTIONNELLE : Une centrale vapeur ultra-puissante avec un débit de vapeur continu allant jusquà 180 g/min, un jet de vapeur de 680 g/min pour les plis et faux plis tenaces, et une pression vapeur allant jusquà 8,3 bars
+- SYSTÈME ANTI-CALCAIRE : Collecteur de calcaire breveté pour des performances durables et une plus longue durée de vie de la centrale vapeur
 - Réparabilité 15 ans, Garantie 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La Makita i-Size, homologuée selon la norme ECE R129/03, représente le dernier développement en matière de sécurité des véhicules. Elle est homologuée de 76 cm (15 mois) à 150 cm dans le sens de la marche avec deux configurations différentes
-- Dossier réglable en 4 positions différentes et appui-tête réglable en hauteur
-- Mokita I-Size est le siège auto Chicco homologué selon la dernière norme ECE R129/03 pour le transport denfants mesurant entre 76 et 150 cm et peut être utilisé dès 15 mois.
-- Siège auto indispensable mais intelligent qui suit la croissance de lenfant de 15 mois à 12 ans, de 76 à 105 cm, il ne peut être installé quavec des connecteurs lsofix. À partir de 100 cm, il peut être installé avec ou sans connecteurs lsofix
 - SOFT REDUCER INCLUS : le coussin de réduction souple convient aux petits enfants et offre un confort supplémentaire pour tous les trajets. Elle est autorisée pour une utilisation de 76 cm/15 mois à 87 cm
+- Siège auto indispensable mais intelligent qui suit la croissance de lenfant de 15 mois à 12 ans, de 76 à 105 cm, il ne peut être installé quavec des connecteurs lsofix. À partir de 100 cm, il peut être installé avec ou sans connecteurs lsofix
+- Mokita I-Size est le siège auto Chicco homologué selon la dernière norme ECE R129/03 pour le transport denfants mesurant entre 76 et 150 cm et peut être utilisé dès 15 mois.
+- Dossier réglable en 4 positions différentes et appui-tête réglable en hauteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJM9RTQ9{{</world>}}

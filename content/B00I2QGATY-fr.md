@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : hauteur : 192 cm, diamètre socle : 26 cm, diamètre abat-jour : 55 cm
-- Le boîtier de l’éclairage allée est fabriqué en fonte d’aluminium stable ; Ce matériau est synonyme de durabilité, protège contre la rouille et donne au luminaire un aspect noble
-- Résistant aux intempéries, cette lanterne extérieure à poser est protégée contre les éclaboussures (IP44) ; Cela permet une utilisation sûre dans les espaces extérieurs tels que le jardin, la terrasse, le garage, labri de jardin, les chemins, les allées ou les entrées
 - Ce grand lampadaire vintage à 3 branches séduit à première vue par son design classique et par la forme de lanterne ; La lampe à poser est façonnée en blanc et comporte de nombreux détails fins
+- Le boîtier de l’éclairage allée est fabriqué en fonte d’aluminium stable ; Ce matériau est synonyme de durabilité, protège contre la rouille et donne au luminaire un aspect noble
+- Dimensions : hauteur : 192 cm, diamètre socle : 26 cm, diamètre abat-jour : 55 cm
+- Résistant aux intempéries, cette lanterne extérieure à poser est protégée contre les éclaboussures (IP44) ; Cela permet une utilisation sûre dans les espaces extérieurs tels que le jardin, la terrasse, le garage, labri de jardin, les chemins, les allées ou les entrées
 - Les ampoules représentées ne sont pas incluses et sont disponibles séparément sous la référence EGLO 11932 ; Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 watts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

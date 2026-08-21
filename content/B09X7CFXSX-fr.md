@@ -32,8 +32,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Vitesses de capture allant jusquà 140 Mo/s (256 Go-1To)
 - Gagnez du temps avec des vitesses de déchargement de carte allant jusquà 200 Mo/s, optimisées par la technologie SanDisk QuickFlow (64 Go - 1To)
 - Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30)
-- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09X7CFXSX{{</world>}}

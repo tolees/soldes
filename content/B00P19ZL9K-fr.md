@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stitchdown-Style: Durable, flexible properties and perfect fit
-- Genuine Leather
 - stretchy Scuba Material facilitates the entry
+- Genuine Leather
+- Stitchdown-Style: Durable, flexible properties and perfect fit
 - Comfort wide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- HÉRITAGE LÉGENDAIRE: Une réinvention moderne de la célèbre série NINJA GAIDEN avec des mécaniques de jeu actualisées
 - ÉDITION SPÉCIALE: Une version exclusive du jeu daction-plateforme NINJA GAIDEN: Ragebound pour Playstation 5 avec contenu bonus
 - GAMEPLAY DYNAMIQUE: Une aventure ninja spectaculaire combinant action intense et platforming précis dans un style side-scrolling
-- VERSION FRANÇAISE: Interface et textes entièrement localisés en français pour une expérience de jeu optimale
 - DÉVELOPPEMENT EXPERT: Créé par léquipe talentueuse derrière Blasphemous, offrant une expérience de jeu sophistiquée
-- HÉRITAGE LÉGENDAIRE: Une réinvention moderne de la célèbre série NINJA GAIDEN avec des mécaniques de jeu actualisées
+- VERSION FRANÇAISE: Interface et textes entièrement localisés en français pour une expérience de jeu optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FD3TJ9K6{{</world>}}

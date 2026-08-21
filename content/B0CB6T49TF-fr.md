@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COULEUR VIBRANTE: Formulé avec la technologie Metal Purifier, il optimise la protection contre les radicaux libres et encapsule les métaux nocifs présents dans leau pour maintenir léclat de la couleur.
-- SOIN DES CHEVEUX : Associez ce shampoing à laprès-shampoing et au masque pour une protection encore plus intense de la couleur.
 - BRILLANCE : Formule énergisante à base de lime caviar et de Vitamine E pour lutter contre loxydation, préservant ainsi léclat de vos cheveux colorés.
 - PROTECTION DE LA COULEUR : Sa formule au pH faible optimisé aide à fermer la cuticule après la coloration, pour une couleur qui dure plus longtemps - préserve la couleur des cheveux et leur brillance
+- SOIN DES CHEVEUX : Associez ce shampoing à laprès-shampoing et au masque pour une protection encore plus intense de la couleur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB6T49TF{{</world>}}

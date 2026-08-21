@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DISTORSION VOCALE ÉLECTRONIQUE : En appuyant sur un bouton, les fans peuvent modifier leur voix pour ressembler à celle dun Scout Trooper
-- SCOUT TROOPER : Comparés aux autres Stormtroopers, les Scout Troopers, utilisés par lEmpire pour différentes missions, étaient légèrement armés, ce qui leur permettaient de se déplacer rapidement et facilement dans des environnements variés
-- UNE COLLECTION ÉPIQUE : Dautres articles de cosplay premium Star Wars The Black Series comme des sabres laser Force FX (vendus séparément, dans la limite des stocks) sont également disponibles
 - CASQUE ÉLECTRONIQUE PREMIUM : Avec sa déco premium, son design inspiré du film, son ajustabilité et son système de distorsion vocale électronique, ce casque de Scout Trooper Black Series de taille réelle est a sa place dans toute collection
 - DESIGN INSPIRÉ DU FILM STAR WARS : LE RETOUR DU JEDI : Les fans peuvent recréer des scènes de la galaxie Star Wars grâce à ce casque premium de cosplay inspiré du film
+- DISTORSION VOCALE ÉLECTRONIQUE : En appuyant sur un bouton, les fans peuvent modifier leur voix pour ressembler à celle dun Scout Trooper
+- UNE COLLECTION ÉPIQUE : Dautres articles de cosplay premium Star Wars The Black Series comme des sabres laser Force FX (vendus séparément, dans la limite des stocks) sont également disponibles
+- SCOUT TROOPER : Comparés aux autres Stormtroopers, les Scout Troopers, utilisés par lEmpire pour différentes missions, étaient légèrement armés, ce qui leur permettaient de se déplacer rapidement et facilement dans des environnements variés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDJ9BGHM{{</world>}}

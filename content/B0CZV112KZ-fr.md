@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande capacité de refroidissement : Les points de montage des ventilateurs latéraux, du toit et de lunité dalimentation, pouvant accueillir jusquà 10 ventilateurs de 120 mm, garantissent que vous ne sacrifiez pas le refroidissement au profit de lesthétique dun panneau frontal en verre.
-- Une construction exceptionnelle avec une vue exceptionnelle : Le 3500X dispose de tous les avantages en matière de refroidissement et de toutes les fonctions essentielles dont vous avez besoin pour construire un PC exceptionnel, prenant en charge les cartes mères de format Mini-ITX à EATX, avec une esthétique en verre enveloppante pour vous offrir une vue à la hauteur.
-- Ventilateurs iCUE LINK et System Hub pour bien commencer votre construction : Trois ventilateurs RX120 RGB préinstallés et un System Hub iCUE LINK vous permettent de démarrer dans lécosystème révolutionnaire iCUE LINK, avec des connexions simplifiées et un câblage réduit pour une construction facile et parfaite.
 - Compatible avec les cartes mères à connexion inversée : Validé pour une utilisation avec les cartes mères ASUS BTF et MSI Project Zero dont les connexions sont situées à larrière de la carte, afin que votre vue ne soit pas gâchée par des câbles branchés.
+- Ventilateurs iCUE LINK et System Hub pour bien commencer votre construction : Trois ventilateurs RX120 RGB préinstallés et un System Hub iCUE LINK vous permettent de démarrer dans lécosystème révolutionnaire iCUE LINK, avec des connexions simplifiées et un câblage réduit pour une construction facile et parfaite.
+- Une construction exceptionnelle avec une vue exceptionnelle : Le 3500X dispose de tous les avantages en matière de refroidissement et de toutes les fonctions essentielles dont vous avez besoin pour construire un PC exceptionnel, prenant en charge les cartes mères de format Mini-ITX à EATX, avec une esthétique en verre enveloppante pour vous offrir une vue à la hauteur.
+- Grande capacité de refroidissement : Les points de montage des ventilateurs latéraux, du toit et de lunité dalimentation, pouvant accueillir jusquà 10 ventilateurs de 120 mm, garantissent que vous ne sacrifiez pas le refroidissement au profit de lesthétique dun panneau frontal en verre.
 - Panneaux en verre trempé amovibles : Les panneaux de verre avant et latéraux facilement amovibles facilitent la construction et laccès à votre système une fois celui-ci terminé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

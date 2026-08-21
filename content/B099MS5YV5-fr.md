@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assise plantaire de forme anatomique revêtue de daim doux
-- Le PU souple et réactif assure un excellent retour d’énergie
 - Confectionnée en cuir ECCO haut de gamme produit dans nos propres tanneries
+- Assise plantaire de forme anatomique revêtue de daim doux
 - Deux attaches à fermeture rapide pour un ajustement parfait
+- Le PU souple et réactif assure un excellent retour d’énergie
 - Sandale monobloc réalisée avec la technologie ECCO FLUIDFORM Direct Comfort, qui offre souplesse et flexibilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

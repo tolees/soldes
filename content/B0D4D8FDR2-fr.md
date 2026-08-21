@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: FIGURINE MANGA - Personnage : Goku, avec son look du film Dragon Ball Super - Super Hero.
-- produit 1: FIGURINE ARTICULÉE - La figurine daction fait 17 cm et est articulée sur plusieurs parties pour pouvoir créer et imaginer des postures de combat.
-- produit 2: LICENCE OFFICIELLE - Figurine officielle Bandai collector issue du film Dragon Ball Super - Super Hero.
-- produit 2: FIGURINE ARTICULÉE - La figurine daction fait 17 cm et est articulée sur plusieurs parties pour pouvoir créer et imaginer des postures de combat.
-- produit 1: LICENCE OFFICIELLE DRAGON BALL - Figurine officielle Bandai collector issue du film Dragon Ball Super - Super Hero.
-- produit 1: ACCESSOIRES INCLUS - Plusieurs mains disponibles pour recréer toutes les scènes de la série Dragon Ball Super et du film Dragon Ball Super - Super Hero.
-- produit 2: FIGURINE MANGA - Personnage : Vegeta, avec son look du film Dragon Ball Super - Super Hero.
 - produit 2: ACCESSOIRES INCLUS - Plusieurs mains disponibles pour recréer toutes les scènes de la série Dragon Ball Super et du film Dragon Ball Super - Super Hero.
+- produit 1: FIGURINE MANGA - Personnage : Goku, avec son look du film Dragon Ball Super - Super Hero.
+- produit 2: FIGURINE ARTICULÉE - La figurine daction fait 17 cm et est articulée sur plusieurs parties pour pouvoir créer et imaginer des postures de combat.
+- produit 2: FIGURINE MANGA - Personnage : Vegeta, avec son look du film Dragon Ball Super - Super Hero.
+- produit 1: FIGURINE ARTICULÉE - La figurine daction fait 17 cm et est articulée sur plusieurs parties pour pouvoir créer et imaginer des postures de combat.
+- produit 1: LICENCE OFFICIELLE DRAGON BALL - Figurine officielle Bandai collector issue du film Dragon Ball Super - Super Hero.
+- produit 2: LICENCE OFFICIELLE - Figurine officielle Bandai collector issue du film Dragon Ball Super - Super Hero.
+- produit 1: ACCESSOIRES INCLUS - Plusieurs mains disponibles pour recréer toutes les scènes de la série Dragon Ball Super et du film Dragon Ball Super - Super Hero.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D4D8FDR2{{</world>}}

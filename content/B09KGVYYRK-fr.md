@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du foret de centrage : 6 mm | Filetage du réceptacle-support : M16 x 1,5
-- Longueur totale : 120 mm | Matériau du foret de centrage : HSS
-- Le foret de centrage permet un positionnement et guidage facile de la scie-cloche
-- À utiliser avec des perceuses ou des visseuses sans fil | Empreinte six pans mâle : 11 mm
 - Pour les scies-cloches de diamètre Ø : 33 - 152 mm | Convient pour la scie-cloche de, Ø 68 mm, profondeur 40 mm (art. 50368)
+- Le foret de centrage permet un positionnement et guidage facile de la scie-cloche
+- Longueur totale : 120 mm | Matériau du foret de centrage : HSS
+- À utiliser avec des perceuses ou des visseuses sans fil | Empreinte six pans mâle : 11 mm
+- Diamètre du foret de centrage : 6 mm | Filetage du réceptacle-support : M16 x 1,5
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09KGVYYRK{{</world>}}

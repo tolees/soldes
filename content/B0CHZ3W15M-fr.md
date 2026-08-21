@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Il est parfait pour une journée dans le parc ou pour les journées de détente à la maison dans le jardin
 - The logo brodé
+- Coupe classique
 - Réglable à larrière
 - Une visière incurvée et un bandeau interne évacuant lhumidité gardent votre visage au frais et au sec
-- Coupe classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHZ3W15M{{</world>}}

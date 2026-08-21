@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Localisation des dégâts : chaque balle compte, visez au plus juste !
 - RE Engine : Des zombies et des décors comme vous n’en n’avez jamais vus
-- Vue à la 3ème personne : Gameplay plus moderne et immersif
 - Plusieurs modes de difficulté : du débutant au vétéran
+- Vue à la 3ème personne : Gameplay plus moderne et immersif
 - 2 personnages jouables / 2 scénarios : Incarnez Léon ou Claire dans 2 scénarios propres
+- Localisation des dégâts : chaque balle compte, visez au plus juste !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DN1YSHBZ{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tenue niveau 2.
 - tenue légère
-- Enrichie de sels minéraux et de cire dabeille
+- Tenue niveau 2.
 - argile sculptante
 - effet mat
+- Enrichie de sels minéraux et de cire dabeille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00X5N36MS{{</world>}}

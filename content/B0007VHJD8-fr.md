@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Diamètre du plateau de ponçage 125 mm
-- Système auto-agrippant pour le remplacement rapide et aisé des disques de ponçage
-- Livré avec : PEX 220 A, 1 feuille abrasive K 80 Ø 125 mm, boîtier microfiltre
 - Raccord pour l’aspiration des poussières
+- Livré avec : PEX 220 A, 1 feuille abrasive K 80 Ø 125 mm, boîtier microfiltre
+- Système auto-agrippant pour le remplacement rapide et aisé des disques de ponçage
 - Manipulation aisée dune seule main pour un travail sans effort lors des travaux en hauteur et sur surfaces courbes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

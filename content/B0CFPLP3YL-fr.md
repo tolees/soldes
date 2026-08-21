@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notre Kindle le plus rapide : lécran Paperwhite 7" nouvelle génération offre un meilleur contraste et des changements de page 25 % plus rapides.
 - Sadapte à votre environnement : léclairage avant à réglage automatique vous permet de lire en plein soleil ou dans le noir.
-- Adapté aux voyages : grâce à son design ultra-fin et à son écran antireflets plus grand, lisez confortablement, où que vous soyez.
-- Large sélection : bénéficiez de laccès à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour débloquer encore plus de contenu.
-- Une autonomie à lépreuve du temps : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 12 semaines ; vous pouvez également recharger votre appareil via une station de charge sans fil (vendue séparément).
-- Faites passer votre expérience de lecture au niveau supérieur : Kindle Signature Edition est doté dun éclairage avant à réglage automatique, de la charge sans fil et de 32 go de stockage.
 - Évadez-vous au fil des pages : avec Kindle, concentrez-vous uniquement sur votre lecture, sans vous laisser distraire par les réseaux sociaux, les notifications ou dautres applications.
+- Une autonomie à lépreuve du temps : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 12 semaines ; vous pouvez également recharger votre appareil via une station de charge sans fil (vendue séparément).
+- Adapté aux voyages : grâce à son design ultra-fin et à son écran antireflets plus grand, lisez confortablement, où que vous soyez.
+- Faites passer votre expérience de lecture au niveau supérieur : Kindle Signature Edition est doté dun éclairage avant à réglage automatique, de la charge sans fil et de 32 go de stockage.
+- Large sélection : bénéficiez de laccès à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour débloquer encore plus de contenu.
 - Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
+- Notre Kindle le plus rapide : lécran Paperwhite 7" nouvelle génération offre un meilleur contraste et des changements de page 25 % plus rapides.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFPLP3YL{{</world>}}

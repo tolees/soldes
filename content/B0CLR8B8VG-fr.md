@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - OMNI-HEAT : pour une chaleur polyvalente et légère dans un froid doux à sévère. Nos vêtements réfléchissants brevetés sont le système ultime de gestion de la chaleur corporelle pour une performance en plein air. Réfléchit et retient la chaleur du corps avec un confort respirant et une chaleur améliorée.
-- Caractéristiques pratiques : comprend des poches zippées pour les mains, un protège-menton doux et un ourlet réglable avec cordon de serrage qui aide à bloquer le froid.
 - OMNI-SHIELD : pour de légères précipitations et une protection quotidienne contre les taches, ce vêtement repousse la pluie, résiste aux taches et sèche rapidement.
+- Caractéristiques pratiques : comprend des poches zippées pour les mains, un protège-menton doux et un ourlet réglable avec cordon de serrage qui aide à bloquer le froid.
 - Coupe active : une coupe moderne pour les femmes actives, ce gilet isotherme est conçu pour un confort ultime dans toutes les aventures.
 - Isolation Thermarator : pour les conditions froides nécessitant une chaleur légère. Synthétique performant qui ressemble et se sent comme du duvet avec un rapport chaleur/poids élevé fabriqué à partir de fibres ultra-fines qui piègent la chaleur même lorsquelles sont mouillées.
 

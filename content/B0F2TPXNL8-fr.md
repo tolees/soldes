@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Visez avec le redoutable joystick rouge qui correspond au port de poitrine du DOOM Slayer
-- Saisissez les poignées caoutchoutées dotées au toucher cuir pour rester au plus près de l’action
-- Armez-vous de la manette DOOM : The Dark Ages Edition Limitée, inspirée de l’armure du DOOM Slayer
-- Accédez à un pouvoir ancien avec les boutons ABXY verts combinés à partir de l’alphabet Sentinelle. Levez votre bouclier-tronçonneuse avec la gâchette orange gauche pour verrouiller votre intention mortelle
-- Inclus le contenu téléchargeable de l’apparence DOOM Slayer Executioner pour DOOM : The Dark Ages (jeu vendu séparément)
 - Combattez des hordes de démons avec une armure vert mat, inspirée de DOOM Slayer, et dotée de pointes de casque en 3D ainsi que d’un revêtement plaqué sur le boîtier supérieur
+- Inclus le contenu téléchargeable de l’apparence DOOM Slayer Executioner pour DOOM : The Dark Ages (jeu vendu séparément)
+- Armez-vous de la manette DOOM : The Dark Ages Edition Limitée, inspirée de l’armure du DOOM Slayer
+- Saisissez les poignées caoutchoutées dotées au toucher cuir pour rester au plus près de l’action
+- Visez avec le redoutable joystick rouge qui correspond au port de poitrine du DOOM Slayer
+- Accédez à un pouvoir ancien avec les boutons ABXY verts combinés à partir de l’alphabet Sentinelle. Levez votre bouclier-tronçonneuse avec la gâchette orange gauche pour verrouiller votre intention mortelle
 - Comprend les technologies Xbox Wireless et Bluetooth pour jouer sans fil sur les consoles compatibles, les PC et appareils compatibles cloud
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

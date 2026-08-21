@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Avec des accessoires de mode comme un éventail et un sac à main, les enfants comme les collectionneurs vont adorer aider la poupée Draculaura à se préparer pour son effroyable fête
 - En matière de fête, plus on est de fous, plus on rit Découvrez toute la collection Anniversaire Monstrueusement Mémorable de Monster High pour organiser une fête monstrueuse avec toute la bande.
-- Des accessoires sur le thème de la fête, comme un paquet cadeau en forme de cercueil contenant une surprise, vous permettent d’imaginer un Anniversaire Monstrueusement Mémorable Contient également une invitation, un ballon orné d’ailes de chauve-souris et une carte d’anniversaire.
 - On fête un Anniversaire Monstrueusement Mémorable à Monster High La poupée Draculaura fête ses 1600 ans et porte un superbe look composé d’une vamptastique robe de fête et d’accessoires sang-sationnels
 - Elle porte une robe rose satinée, une jupe cage toile d’araignée et des gants noirs. Un col en « perles » recouvre ses épaules, tandis que ses talons ornés de nœuds complètent son look mortel
+- Des accessoires sur le thème de la fête, comme un paquet cadeau en forme de cercueil contenant une surprise, vous permettent d’imaginer un Anniversaire Monstrueusement Mémorable Contient également une invitation, un ballon orné d’ailes de chauve-souris et une carte d’anniversaire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DLCHQFFH{{</world>}}

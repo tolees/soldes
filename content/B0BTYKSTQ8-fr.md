@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Type de manche : Manche longue
 - Conseils dentretien : Lavage en machine
-- Fermeture : Fermeture éclair
 - Composition de matériau : 100% Nylon
+- Fermeture : Fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BTYKSTQ8{{</world>}}

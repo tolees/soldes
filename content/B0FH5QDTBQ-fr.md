@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- QUALITÉ SONORE ULTIME - Votre musique na jamais sonné aussi bien. Laudio haute résolution inégalé du Px8 S2, optimisé par un traitement 24 bits, de puissants transducteurs Carbon Cone de 40 mm et les technologies sans fil Qualcomm aptX Lossless et Adaptive, vous rapprochent encore davantage de lintention de lartiste.
-- AVEC VOUS TOUTE LA JOURNÉE - Bénéficiez de votre musique préférée toute la journée. Le Px8 S2 offre une autonomie de 30 heures et la fonction de recharge rapide vous permet de bénéficier de sept heures dautonomie après seulement 15 minutes de recharge. Vous ne serez ainsi jamais à court de musique.
 - UNE QUALITÉ DAPPEL IRRÉPROCHABLE - Concentrez-vous sur lessentiel. Le Px8 S2 utilise quatre microphones positionnés avec précision dans chaque écouteur et une technologie vocale de nouvelle génération pour garantir une qualité dappel cristalline.
+- AVEC VOUS TOUTE LA JOURNÉE - Bénéficiez de votre musique préférée toute la journée. Le Px8 S2 offre une autonomie de 30 heures et la fonction de recharge rapide vous permet de bénéficier de sept heures dautonomie après seulement 15 minutes de recharge. Vous ne serez ainsi jamais à court de musique.
 - DESIGN HAUT DE GAMME, AJUSTEMENT PARFAIT - Le Px8 S2 est un véritable plaisir à porter. Sa forme plus fine a été testée ergonomiquement pour offrir lexpérience la plus confortable et la plus aboutie que nous ayons jamais conçue pour un casque supra-auriculaire. Avec son cuir Nappa raffiné sur toutes les surfaces principales et ses câbles apparents, le Px8 S2 offre un look et un son exceptionnels.
 - FAITES ABSTRACTION DU MONDE EXTÉRIEUR - Bénéficiez dun son ininterrompu où que vous soyez. La technologie avancée de réduction du bruit du Px8 S2 sadapte à votre environnement grâce à huit microphones pour des performances optimisées.
+- QUALITÉ SONORE ULTIME - Votre musique na jamais sonné aussi bien. Laudio haute résolution inégalé du Px8 S2, optimisé par un traitement 24 bits, de puissants transducteurs Carbon Cone de 40 mm et les technologies sans fil Qualcomm aptX Lossless et Adaptive, vous rapprochent encore davantage de lintention de lartiste.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FH5QDTBQ{{</world>}}

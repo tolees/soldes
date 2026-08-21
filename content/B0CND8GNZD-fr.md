@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Émail
-- Fabriqué en cristal
 - argent sterling
-- Taille 58
 - Noir
+- Fabriqué en cristal
+- Taille 58
+- Émail
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CND8GNZD{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Immersive Audio
-- Built-In Google TV
 - Gimbal Design
+- Built-In Google TV
+- Immersive Audio
 - 1080P FHD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

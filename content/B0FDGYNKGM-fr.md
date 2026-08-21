@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissage alvéolé
-- Standard
-- Épaules légèrement tombantes
-- Ceinture à nouer
 - Dobby de pur coton
+- Standard
+- Tissage alvéolé
+- Ceinture à nouer
 - Col châle
 - Cache-cœur
+- Épaules légèrement tombantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDGYNKGM{{</world>}}

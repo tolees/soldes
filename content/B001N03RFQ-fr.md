@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nid pour hamster
 - En fibres naturelles
 - Peut être utilisé comme nid ou caché.
+- Nid pour hamster
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001N03RFQ{{</world>}}

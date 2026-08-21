@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Batterie massive de 6500 mAh (typ.) avec HyperCharge 100 W】Grâce à une teneur de 10 % en silicium-carbone, la capacité de la batterie du REDMI Note 15 Pro+ 5G est considérablement améliorée, offrant une expérience d’autonomie ultra-longue sans précédent.
-- 【Nouveau système de caméra 200 MP à ultra-haute netteté】Le REDMI Note 15 Pro+ 5G est équipé de son tout nouveau capteur principal 200 MP de 4ᵉ génération, associé à un grand capteur inédit de 1/1,4", offrant un niveau de détail d’image sans précédent.
 - 【Assistant IA】Optimisation intelligente en un seul geste, améliorant les possibilités d’imagerie et l’efficacité créative.
 - 【Résistance à la poussière et à l’eau P66 / IP68】Le REDMI Note 15 Pro+ 5G a passé avec succès le test de résistance à l’eau de 2 mètres pendant 24 heures réalisé par TÜV SÜD. Aucun souci face aux éclaboussures du quotidien : même une immersion accidentelle ou une chute dans l’eau n’affectera pas ses performances.
 - 【Écran immersif 6,83" 1.5K Eye-Care pour une utilisation en plein soleil】Doté de matériaux lumineux de niveau flagship pour une consommation d’énergie réduite et une luminosité maximale pouvant atteindre 3200 nits, l’écran restitue des détails éclatants et reste parfaitement lisible même dans des environnements très lumineux.
+- 【Batterie massive de 6500 mAh (typ.) avec HyperCharge 100 W】Grâce à une teneur de 10 % en silicium-carbone, la capacité de la batterie du REDMI Note 15 Pro+ 5G est considérablement améliorée, offrant une expérience d’autonomie ultra-longue sans précédent.
+- 【Nouveau système de caméra 200 MP à ultra-haute netteté】Le REDMI Note 15 Pro+ 5G est équipé de son tout nouveau capteur principal 200 MP de 4ᵉ génération, associé à un grand capteur inédit de 1/1,4", offrant un niveau de détail d’image sans précédent.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FY3TJ7NF{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SPRAY PROTECTEUR SOLAIRE POUR CHEVEUX : Notre spray démêlant possède un complexe de filtres UV pour protéger contre les rayons nuisibles, prévenant la décoloration et les dommages
 - COMMENT UTILISER : Secouez-moi et vaporisez-moi sur cheveux humides ou secs. Pas besoin de rinçage ! Emportez-moi avec vous dans votre sac et vaporisez-moi de nouveau après chaque bain ou exposition au soleil
-- Hydratation légère : Profitez dune hydratation non grasse qui garde les cheveux frais, lisses et rebondissants. Idéal pour les journées dété humides et ensoleillées
 - FRIZZ EASE AND SHINE SPRAY : Notre spray sans rinçage lisse la cuticule, contrôle les frisottis et améliore la brillance naturelle pour des cheveux lisses, radieux et forts
+- Hydratation légère : Profitez dune hydratation non grasse qui garde les cheveux frais, lisses et rebondissants. Idéal pour les journées dété humides et ensoleillées
+- SPRAY PROTECTEUR SOLAIRE POUR CHEVEUX : Notre spray démêlant possède un complexe de filtres UV pour protéger contre les rayons nuisibles, prévenant la décoloration et les dommages
 - NOURRIR ET RÉPARER : Enrichie en provitamine B5 et vitamine E, cette formule répare profondément et renforce les cheveux, augmentant leur résilience et leur éclat
 
 [🛒 Achète-le!!]({{< param buyurl >}})

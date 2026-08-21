@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe slim.
-- Achetez une taille plus petite
-- Matière externe : toile 100 % polyester recyclé.
 - Enduction déperlante sans PFC.
+- Matière externe : toile 100 % polyester recyclé.
 - Matelassage : 80 % duvet de canard, 20 % plumes.
+- Coupe slim.
 - Poches à boutons-pression le long des coutures latérales.
 - Zip sur toute la longueur.
+- Achetez une taille plus petite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5RZJM6N{{</world>}}

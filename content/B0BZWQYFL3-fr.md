@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Taille-haie] Fonction scie, double affûtage des dents au diamant et design en ligne LINEA : lappareil présente une fonction scie avec double affûtage des dents au diamant. Le système LINEA garantit un équilibre parfait, un poids réduit et une meilleure manœuvrabilité
-- [Tronçonneuse] alimentée par une batterie Lithium+ 18V ONE+. Idéale pour le petit élagage, lébranchage, et l’abattage de petit diamètre
 - [Taille-haie] Maîtrisez parfaitement votre taille-haie : bénéficiez du confort des poignées ergonomiques. Dissociable de la lame, le collecteur de déchets HEDGESWEEP permet d’évacuer les coupes sans effort, en les poussant hors de la haie, pour une finition impeccable
-- [Tronçonneuse] Entretien facilité : Tendeur de chaîne latéral. Maintien de la tension de chaîne latéral pour un ajustement sûr, robuste et précis. Stockage de la clé de service dans la poignée pour un entretien facile et rapide
-- 3 ans de garantie sur les outils de bricolage et de jardinage : nos outils sont conçus pour durer, notre garantie aussi. Tous nos outils et batteries sont garantis 2 ans et, si le consommateur enregistre le produit dans les 30 jours suivant lachat, 3 ans
-- [Tronçonneuse] Confort d’utilisation : poignée arrière ergonomique micro-alvéolée GripZone pour une prise en main ferme et confortable. Meilleure maîtrise de la machine
-- [Tronçonneuse] Longueur du guide 20 cm - 33 maillons / Pas-de-chaîne - Jauge : 3,8” LP - 1,1 mm / Vitesse de la chaîne 4,6 m/s
-- [Tronçonneuse] Sécurité optimale : frein de chaîne mécanique activé par la main gauche
 - Concept 18V ONE+ : alimentez ce modèle électrique et tous vos appareils et outils de bricolage et jardinage avec la même batterie pour + de 200 outils. Antichocs, elle est dotée de la technologie Lithium+ IntelliCell et évite la surcharge et la surchauffe
+- [Tronçonneuse] Entretien facilité : Tendeur de chaîne latéral. Maintien de la tension de chaîne latéral pour un ajustement sûr, robuste et précis. Stockage de la clé de service dans la poignée pour un entretien facile et rapide
+- [Tronçonneuse] Sécurité optimale : frein de chaîne mécanique activé par la main gauche
+- 3 ans de garantie sur les outils de bricolage et de jardinage : nos outils sont conçus pour durer, notre garantie aussi. Tous nos outils et batteries sont garantis 2 ans et, si le consommateur enregistre le produit dans les 30 jours suivant lachat, 3 ans
+- [Taille-haie] Fonction scie, double affûtage des dents au diamant et design en ligne LINEA : lappareil présente une fonction scie avec double affûtage des dents au diamant. Le système LINEA garantit un équilibre parfait, un poids réduit et une meilleure manœuvrabilité
+- [Tronçonneuse] Longueur du guide 20 cm - 33 maillons / Pas-de-chaîne - Jauge : 3,8” LP - 1,1 mm / Vitesse de la chaîne 4,6 m/s
+- [Tronçonneuse] Confort d’utilisation : poignée arrière ergonomique micro-alvéolée GripZone pour une prise en main ferme et confortable. Meilleure maîtrise de la machine
+- [Tronçonneuse] alimentée par une batterie Lithium+ 18V ONE+. Idéale pour le petit élagage, lébranchage, et l’abattage de petit diamètre
 - [Taille-haie] : lappareil est livré avec 1 collecteur de déchets HEDGESWEEP et 1 fourreau de protection. Il convient pour les jeunes et moyennes haies, les rameaux fins, les haies classiques et la taille régulière
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Livré avec : GTB 18V-45, 1 embout de vissage 2, 1 clip de ceinture, 1 porte-embout, dans L-BOXX 136
-- Très bonne maniabilité : grâce à la forme mince et au faible poids (moins de 1 kg) pour un travail rapide et facile
-- Confort amélioré : grâce à sa butée de profondeur rétractable permettant de dévisser des vis en conservant la profondeur réglée
 - Excellent confort d’utilisation : le mode PowerSAVE augmente de manière significative le nombre de vissages réalisables avec une charge de batterie
+- Très bonne maniabilité : grâce à la forme mince et au faible poids (moins de 1 kg) pour un travail rapide et facile
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
+- Confort amélioré : grâce à sa butée de profondeur rétractable permettant de dévisser des vis en conservant la profondeur réglée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BC94WCN6{{</world>}}

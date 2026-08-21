@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 % microfibre polyester 85 g/m² pour une douceur et une résistance optimales
 - Facile dentretien : lavable en machine à 40 °C, ne pas blanchir, passe au sèche-linge à faible température
-- Anti-plis - Superbe couleur bleu marine
-- Drap-housse avec bonnet élastique pour un ajustement optimal sur des matelas dune épaisseur allant jusquà 30 cm
 - Inclut 1 drap-housse de 160 x 200 x 30 cm
+- Drap-housse avec bonnet élastique pour un ajustement optimal sur des matelas dune épaisseur allant jusquà 30 cm
+- Anti-plis - Superbe couleur bleu marine
+- 100 % microfibre polyester 85 g/m² pour une douceur et une résistance optimales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00Q4TNDWS{{</world>}}

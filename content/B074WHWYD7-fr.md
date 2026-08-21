@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Diamètre du boîtier 44 mm / Épaisseur du boîtier 10,85mm
 - Mouvement multifonction à quartz avec trois sous-cadrans
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 - Bracelet en cuir façon croco marron foncé
 - Cadran bleu
+- Diamètre du boîtier 44 mm / Épaisseur du boîtier 10,85mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B074WHWYD7{{</world>}}

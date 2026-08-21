@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SPÉCIALISTE BEAUX-ARTS PAR EXCELLENCE : Clairefontaine Rhodia propose des produits hautement qualitatifs adaptés à vos besoins et à toutes les techniques de dessin.
 - BLOC PASTELMAT : ce bloc encollé de carte 360g est idéal pour la technique du pastel. Toutes les feuilles sont blanches.
 - SANS ACIDE : ce papier est sans acide et de pH neutre pour une parfaite conservation des dessins dans le temps.
 - PAPIER UNIQUE ET NOVATEUR : la surface douce et adhérente du papier Pastelmat permet de multiplier les couches de pigments sans effets de saturation et sans fixatif. Ni abrasif comme le papier de verre, ni mou comme le papier velours, le papier Pastelmat est à tester !
 - FORMAT 24x30 : ce bloc de 12 feuilles possède entre chaque feuille un intercalaire en papier cristal pour protéger vos dessins ! Sa finition encollée vous permet de détacher facilement les feuilles.
-- SPÉCIALISTE BEAUX-ARTS PAR EXCELLENCE : Clairefontaine Rhodia propose des produits hautement qualitatifs adaptés à vos besoins et à toutes les techniques de dessin.
 - IDÉAL POUR LE PASTEL SEC : ce papier est idéal pour la technique du pastel sec. Il permet de recevoir des traits énergiques comme les plus doux estompages. De plus, une fois mouillé ou gommé, il conserve ses propriétés ! Il supporte aussi bien les techniques humides ou lalcool sans même affecter son grain ou sa surface accrochante !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

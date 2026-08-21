@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tous les prix incluent la TVA. Facture fournie
 - Adapté à de nombreuses utilisations
+- Tous les prix incluent la TVA. Facture fournie
 - Excellent rapport qualité/prix
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

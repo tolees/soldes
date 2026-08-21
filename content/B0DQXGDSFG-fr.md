@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule
-- La Grand Sport arbore des détails authentiques : les ailes authentiques, les pots d’échappement métalliques et le capot qui s’ouvre et se ferme confèrent encore plus d’authenticité au modèle
-- Voiture en métal exclusive et plaque signature en métal : contient une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponibles en exclusivité dans les coffrets Mattel Brick Shop
 - Construisez la légendaire voiture de course : la Corvette Grand Sport à l’échelle 1/16 aux nombreux détails réalistes à construire entièrement
+- La Grand Sport arbore des détails authentiques : les ailes authentiques, les pots d’échappement métalliques et le capot qui s’ouvre et se ferme confèrent encore plus d’authenticité au modèle
 - Compatible avec d’autres marques : les pièces sont compatibles avec tous les coffrets de construction Mattel Brick Shop et d’autres grandes marques
+- Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule
+- Voiture en métal exclusive et plaque signature en métal : contient une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponibles en exclusivité dans les coffrets Mattel Brick Shop
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQXGDSFG{{</world>}}

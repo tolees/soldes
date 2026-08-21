@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poche kangourou fendue
 - Poignets côtelés, bord incurvé
 - Capuche avec col montant sur le devant et cordons de serrage
 - Fermeture zippée
 - Empiècements côtelés sur les côtés et à la taille
-- Poche kangourou fendue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B6CZCKW5{{</world>}}

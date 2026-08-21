@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en 49mm, 67mm, 77mm, 82mm, 95mm, 95mm Coarse, et Helix MagLock
-- Conception bi-rotative - permet un contrôle indépendant de la polarisation par rapport au réglage de la densité visuelle.
 - Filtre Peter McKinnon Signature - combine la polarisation et le ND variable
-- Tout nouveau verre Chroma - offre une précision des couleurs neutres inégalée.
+- Conception bi-rotative - permet un contrôle indépendant de la polarisation par rapport au réglage de la densité visuelle.
+- Disponible en 49mm, 67mm, 77mm, 82mm, 95mm, 95mm Coarse, et Helix MagLock
 - Revêtement 16 couches - anti-rayures / anti-réflexion / anti-empreintes digitales
+- Tout nouveau verre Chroma - offre une précision des couleurs neutres inégalée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D5MV6JSX{{</world>}}

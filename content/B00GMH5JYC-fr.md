@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JEU DE RAPIDITÉ AUX GOBELETS COLORÉS : Une carte est révélée avec une combinaison à reproduire. Alignez ou empilez vite vos 5 gobelets pour reproduire exactement la disposition indiquée. Le premier à terminer appuie sur la sonnette et remporte la carte !
-- IDÉE CADEAU ENFANTS ET ADULTES : Crazy Cups est un cadeau parfait pour les enfants dès 6 ans. Dynamique, visuel et accessible, il est aussi idéal pour des soirées en famille ou avec des amis, grâce à ses parties ultra-rapides et ses fous rires garantis.
 - DE 2 À 4 JOUEURS DÈS 6 ANS : Parties de 10 minutes seulement, à rejouer à linfini. Parfait pour les enfants dès 6 ans, aussi amusant pour les adultes. Idéal pour des petites tablées dynamiques cherchant un jeu de réflexes immédiatement fun et accessible.
 - RAPIDITÉ, OBSERVATION & COORDINATION : Lire la carte, visualiser la combinaison, aligner les gobelets dans le bon ordre et la bonne couleur… Crazy Cups développe la vitesse de traitement visuel, la coordination main-œil et la concentration sous pression.
+- IDÉE CADEAU ENFANTS ET ADULTES : Crazy Cups est un cadeau parfait pour les enfants dès 6 ans. Dynamique, visuel et accessible, il est aussi idéal pour des soirées en famille ou avec des amis, grâce à ses parties ultra-rapides et ses fous rires garantis.
 - JEU EN FRANÇAIS FORMAT VOYAGE : Édité par Gigamic. Ses gobelets colorés sont robustes et légers. Sa boîte compacte (16 x 11,5 x 3,5 cm) semporte facilement partout. Idéal à glisser dans un sac pour animer nimporte quelle soirée.
+- JEU DE RAPIDITÉ AUX GOBELETS COLORÉS : Une carte est révélée avec une combinaison à reproduire. Alignez ou empilez vite vos 5 gobelets pour reproduire exactement la disposition indiquée. Le premier à terminer appuie sur la sonnette et remporte la carte !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00GMH5JYC{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Puissance de 2000 W permettant datteindre la température de chauffe souhaitée rapidement (190°C) - Thermostat réglable jusquà 190 °C - Témoin lumineux de fonctionnement - Sécurité double thermostat
 - Friteuse électrique traditionnelle, forme rectangulaire adaptée pour frire tous les aliments : Poissons entiers, frites, nuggets, beignets, boulettes de viandes, légumes - Cuve 3 litres, idéale pour 4 personnes
 - Cuissons successives possibles dans la même huile, sans aucun transfert de goût, ni dodeurs, grâce à sa zone froide, située sous la résistance
 - Faible encombrement : Se range très facile grâce à sa poignée rabattable et son espace de rangement pour le câble électrique
-- Puissance de 2000 W permettant datteindre la température de chauffe souhaitée rapidement (190°C) - Thermostat réglable jusquà 190 °C - Témoin lumineux de fonctionnement - Sécurité double thermostat
 - Tout est amovible et démontable : Cuve intérieure émaillée, Panier, Couvercle, Bloc de chauffe, Manteau Inox. Toutes les pièces sont compatibles lave-vaisselle, sauf le bloc de chauffe/Résistances - Couvercle avec fenêtre, filtre et poignée isolante
 
 [🛒 Achète-le!!]({{< param buyurl >}})

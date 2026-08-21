@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LE POUVOIR DU JEU : Avec des collections audacieuses et innovantes, Janod accompagne les enfants dans une belle aventure : grandir ! De beaux jouets travaillés dans le moindre détail pour apprendre en samusant, explorer le monde, rêver et partager.
-- LIVRE MAGNÉTIQUE : Avec ce jeu Janod en forme de livre, votre enfant peut reconstituer 16 sportives et sportifs en positionnant les pièces magnétiques selon les cartes modèles, ou imaginer des mix farfelus et amusants.
-- CARACTÉRISTIQUES : Coffret avec 16 cartes sport et 48 aimants. Jeu inclusif avec représentation du handisport. Boîte en carton rigide épais certifié FSC. Dimensions : 19 x 4 x 26 cm (LxlxH). Recommandé pour les enfants de 3 à 8 ans.
 - JOUET ÉDUCATIF DÈS 3 ANS : Le Magnétibook stimule le sens de lobservation, la dextérité et la précision de votre enfant tout en découvrant 16 sports à reproduire. Son vocabulaire senrichit de nouveaux mots sur le thème du sport.
 - PRATIQUE : Son format livre permet dy ranger tous les magnets puis de linsérer facilement dans les meubles denfant ou dans la bibliothèque. Facile à transporter, il peut être utilisé pour jouer nimporte où, seul ou à plusieurs.
+- LIVRE MAGNÉTIQUE : Avec ce jeu Janod en forme de livre, votre enfant peut reconstituer 16 sportives et sportifs en positionnant les pièces magnétiques selon les cartes modèles, ou imaginer des mix farfelus et amusants.
+- CARACTÉRISTIQUES : Coffret avec 16 cartes sport et 48 aimants. Jeu inclusif avec représentation du handisport. Boîte en carton rigide épais certifié FSC. Dimensions : 19 x 4 x 26 cm (LxlxH). Recommandé pour les enfants de 3 à 8 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQCN46Z5{{</world>}}

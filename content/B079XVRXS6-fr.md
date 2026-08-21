@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 🦕 FIGURINES ATTACHANTES ET MISE EN SCÈNE FORTE – Les dinosaures et leurs œufs renforcent l’immersion et l’engagement émotionnel. Les enfants s’impliquent naturellement dans la mission de sauvetage, créant une expérience narrative forte.
 - 🧠 COOPÉRATION, PLANIFICATION ET PRISE DE DÉCISION – Tous les joueurs réfléchissent ensemble pour optimiser déplacements et placements. Le jeu développe communication, stratégie collective et gestion des priorités.
-- ⏳ UNE TENSION CONSTANTE DU DÉBUT À LA FIN – La progression imprévisible de la lave crée un suspense permanent. Chaque décision compte et peut influencer l’issue de la partie, rendant chaque session différente et mémorable.
 - 🧩 MÉCANIQUE DE POSE DE TUILES ÉVOLUTIVE – À chaque tour, une nouvelle tuile est révélée et placée sur le plateau, transformant le paysage. Cette mécanique dynamique développe anticipation, planification et vision stratégique chez les enfants.
 - 🌋 UN JEU COOPÉRATIF INTENSE ET IMMERSIF – Les volcans entrent en éruption et la lave progresse tuile après tuile. Les joueurs doivent unir leurs forces pour sauver les dinosaures et leurs œufs avant qu’ils ne soient pris au piège. Chaque tour modifie le terrain et oblige à adapter la stratégie collective.
-- 🦕 FIGURINES ATTACHANTES ET MISE EN SCÈNE FORTE – Les dinosaures et leurs œufs renforcent l’immersion et l’engagement émotionnel. Les enfants s’impliquent naturellement dans la mission de sauvetage, créant une expérience narrative forte.
+- ⏳ UNE TENSION CONSTANTE DU DÉBUT À LA FIN – La progression imprévisible de la lave crée un suspense permanent. Chaque décision compte et peut influencer l’issue de la partie, rendant chaque session différente et mémorable.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079XVRXS6{{</world>}}

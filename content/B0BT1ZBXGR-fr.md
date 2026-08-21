@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couverture jusquà 250 m² pour 100 appareils. Étendez la couverture jusquà 250 m² avec chaque satellite supplémentaire (RBS860 vendu séparément).
-- Connectez vos ordinateurs, consoles de jeux, lecteurs de streaming et bien plus encore grâce aux 4 ports Gigabit disponibles sur le routeur et satellites. Il y a également un Port 10G
-- Avec le WiFi 6 Mesh AX6000, profitez dun streaming continu, des parties de jeux vidéos HD sans lag et dun télétravail ultra-fluide grâce aux débits allant jusquà 6 Gbit/s
-- Compatible avec tous les fournisseurs daccès à Internet jusquà 2,5 Gbit/s, quelque soit la connexion (ADSL, câble, fibre, satellite etc). Se connecte à votre box existante et remplace son WiFi.
 - NETGEAR Armor, optimisé par Bitdefender, protège tous vos appareils domestiques des virus, des logiciels malveillants et du vol de données . Offert pour 1 an
-- Sinstalle en quelques minutes avec lapplication Orbi App : gérez facilement les paramètres WiFi, testez la vitesse dInternet et surveillez lutilisation des données à distance
 - Assurez à vos enfants une expérience en ligne sûre en utilisant le contrôle parental intelligent NETGEAR (essai gratuit de 30 jours).
+- Compatible avec tous les fournisseurs daccès à Internet jusquà 2,5 Gbit/s, quelque soit la connexion (ADSL, câble, fibre, satellite etc). Se connecte à votre box existante et remplace son WiFi.
+- Connectez vos ordinateurs, consoles de jeux, lecteurs de streaming et bien plus encore grâce aux 4 ports Gigabit disponibles sur le routeur et satellites. Il y a également un Port 10G
+- Couverture jusquà 250 m² pour 100 appareils. Étendez la couverture jusquà 250 m² avec chaque satellite supplémentaire (RBS860 vendu séparément).
+- Avec le WiFi 6 Mesh AX6000, profitez dun streaming continu, des parties de jeux vidéos HD sans lag et dun télétravail ultra-fluide grâce aux débits allant jusquà 6 Gbit/s
+- Sinstalle en quelques minutes avec lapplication Orbi App : gérez facilement les paramètres WiFi, testez la vitesse dInternet et surveillez lutilisation des données à distance
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BT1ZBXGR{{</world>}}

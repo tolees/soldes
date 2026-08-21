@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute qualité
-- Waterproof Formule enrichie en collagène et pigments noirs extrêmes
-- Grande valeur.
-- Brosse fibres en zigzag qui capte tous les cils
-- Mascara volume extrême sur-mesure
 - Propose la meilleure variété de produits
-- Résultat longue tenue
+- Grande valeur.
 - Cils démultipliés sans paquet
+- Mascara volume extrême sur-mesure
+- Haute qualité
+- Résultat longue tenue
+- Brosse fibres en zigzag qui capte tous les cils
+- Waterproof Formule enrichie en collagène et pigments noirs extrêmes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TRRMQSR{{</world>}}

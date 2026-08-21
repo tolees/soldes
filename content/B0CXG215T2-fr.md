@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fond de teint léger en croslite
 - Rouler révolutionnaire
 - Silhouette élégante à deux sangles
+- Fond de teint léger en croslite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXG215T2{{</world>}}

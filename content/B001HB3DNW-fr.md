@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La lampe de phare halogène dOsram de type 64210L sadapte à tous les culots H7.
 - En tant que membre de la famille LONGLIFE, elle séduit avant tout par sa durée de vie particulièrement longue.
+- La lampe de phare halogène dOsram de type 64210L sadapte à tous les culots H7.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001HB3DNW{{</world>}}

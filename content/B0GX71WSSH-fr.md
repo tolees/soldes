@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONNECTEZ-VOUS AUX VISITEURS : voyez, entendez et parlez en temps réel avec la vidéo en direct et le système audio bidirectionnel.
-- ECHO SPOT : un réveil connecté élégant avec un son de qualité et Alexa, pour vous réveiller, vous relaxer et bien plus encore.
-- SON PUISSANT IMPOSANT : profitez dun son riche, de basses profondes et de voix claires. Demandez simplement à Alexa de lire de la musique, des podcasts et des livres audio de vos fournisseurs de service préférés (Amazon Music, Apple Music, Spotify, etc.). Consultez le titre des chansons dun simple coup dœil et touchez lécran pour contrôler votre musique.
 - Ce pack inclut 1 Echo Spot (Nouvelle génération), et 1 sonnette vidéo Ring sans fil (Battery Video Doorbell) (nouvelle génération) : tout ce dont vous avez besoin pour démarrer votre maison connectée.
-- ZOOMEZ JUSQU’À 6x : repérez des détails à distance, inspectez les visages et plus encore grâce au zoom amélioré jusqu’à 6x.
-- CAPTUREZ CHAQUE DÉTAIL AVEC LA VIDÉO RETINAL 2K : des plans larges aux plus rapprochés, observez votre domicile ou votre entreprise avec une vidéo dune netteté remarquable.
+- SON PUISSANT IMPOSANT : profitez dun son riche, de basses profondes et de voix claires. Demandez simplement à Alexa de lire de la musique, des podcasts et des livres audio de vos fournisseurs de service préférés (Amazon Music, Apple Music, Spotify, etc.). Consultez le titre des chansons dun simple coup dœil et touchez lécran pour contrôler votre musique.
 - RÉVEIL CONNECTÉ PERSONNALISABLE : consultez lheure, la météo et le titre des chansons dun simple coup dœil, contrôlez vos appareils connectés compatibles, et bien plus encore. Personnalisez votre écran en sélectionnant le style de cadran et thème couleur de votre choix.
+- CAPTUREZ CHAQUE DÉTAIL AVEC LA VIDÉO RETINAL 2K : des plans larges aux plus rapprochés, observez votre domicile ou votre entreprise avec une vidéo dune netteté remarquable.
+- ECHO SPOT : un réveil connecté élégant avec un son de qualité et Alexa, pour vous réveiller, vous relaxer et bien plus encore.
+- CONNECTEZ-VOUS AUX VISITEURS : voyez, entendez et parlez en temps réel avec la vidéo en direct et le système audio bidirectionnel.
+- ZOOMEZ JUSQU’À 6x : repérez des détails à distance, inspectez les visages et plus encore grâce au zoom amélioré jusqu’à 6x.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GX71WSSH{{</world>}}

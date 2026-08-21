@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ACCESSOIRES INCLUS - Plusieurs mains disponibles ainsi quun accessoire pour recréer toutes les scènes de la série Dragon Ball Daima.
 - LICENCE OFFICIELLE DRAGON BALL - Figurine officielle Bandai issue du tout dernier animé : Dragon Ball Daima.
-- FIGURINE MANGA VEGETA SUPER SAIYAN 3 - Personnage : Vegeta en version Super Saiyan 3, avec son look dans lanimé Dragon Ball Daima.
 - FIGURINE ARTICULÉE - La figurine daction fait 17 cm et est articulée sur plusieurs parties pour pouvoir créer et imaginer des postures de combat.
+- FIGURINE MANGA VEGETA SUPER SAIYAN 3 - Personnage : Vegeta en version Super Saiyan 3, avec son look dans lanimé Dragon Ball Daima.
+- ACCESSOIRES INCLUS - Plusieurs mains disponibles ainsi quun accessoire pour recréer toutes les scènes de la série Dragon Ball Daima.
 - JOUET ENFANT 4 ANS ET + - Une figurine Vegeta Super Saiyan 3 pour tous les fans de Dragon Ball à partir de 4 ans. Un format idéal pour être exposée ou pour un premier jouet de collection.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

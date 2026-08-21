@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE EXPÉRIENCE RICHE EN REBONDISSEMENTS : Les mécaniques de gestion de crise, d’anticipation et de choix énergétiques offrent des parties variées, intenses et pleines de rebondissements. Chaque session est unique, garantissant une forte rejouabilité et une profondeur stratégique.
-- JEU DE PLATEAU COMPÉTITIF POUR ADOS ET ADULTES : Accessible dès 12 ans, le jeu de société CATAN Énergies est conçu pour 3 à 4 joueurs. Avec des parties d’environ 90 minutes, il est parfait pour les soirées entre amis ou en famille qui recherchent stratégie, immersion et rejouabilité.
-- JEU STRATÉGIQUE AUTOUR DU DÉVELOPPEMENT DURABLE : le jeu de société CATAN Énergies revisite l’univers culte de Catan avec une mécanique innovante de gestion des ressources et de choix énergétiques. Chaque partie oppose stratégie économique et conscience écologique pour un jeu de plateau moderne et captivant.
-- COMPTATIBLE AVEC LORIGINAL : Cette version peut être jouée seule ou combinée avec le jeu de base Catan pour enrichir votre expérience de jeu;
 - VERSION FRANÇAISE ÉDITÉE PAR KOSMOS : le jeu de société CATAN Énergies est un jeu de société indépendant, complet et immersif. Avec son matériel soigné et ses règles accessibles, il séduira aussi bien les fans de Catan que les nouveaux joueurs à la recherche d’un jeu compétitif moderne et écologique.
 - DÉVELOPPEZ VOTRE RÉSEAU ÉNERGÉTIQUE : Construisez colonies, routes et centrales électriques en choisissant entre énergies renouvelables ou polluantes. Chaque décision impacte la prospérité de votre île, et vos choix tactiques détermineront l’équilibre entre croissance et durabilité.
+- JEU DE PLATEAU COMPÉTITIF POUR ADOS ET ADULTES : Accessible dès 12 ans, le jeu de société CATAN Énergies est conçu pour 3 à 4 joueurs. Avec des parties d’environ 90 minutes, il est parfait pour les soirées entre amis ou en famille qui recherchent stratégie, immersion et rejouabilité.
+- JEU STRATÉGIQUE AUTOUR DU DÉVELOPPEMENT DURABLE : le jeu de société CATAN Énergies revisite l’univers culte de Catan avec une mécanique innovante de gestion des ressources et de choix énergétiques. Chaque partie oppose stratégie économique et conscience écologique pour un jeu de plateau moderne et captivant.
+- UNE EXPÉRIENCE RICHE EN REBONDISSEMENTS : Les mécaniques de gestion de crise, d’anticipation et de choix énergétiques offrent des parties variées, intenses et pleines de rebondissements. Chaque session est unique, garantissant une forte rejouabilité et une profondeur stratégique.
+- COMPTATIBLE AVEC LORIGINAL : Cette version peut être jouée seule ou combinée avec le jeu de base Catan pour enrichir votre expérience de jeu;
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DG8SQKBQ{{</world>}}

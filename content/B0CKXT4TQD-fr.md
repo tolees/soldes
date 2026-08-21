@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en EVA double densité.
 - Fermeture à lacets.
-- Chaussant large.
 - Renfort en TPU au médio-pied.
+- Semelle intermédiaire en EVA double densité.
+- Chaussant large.
 - Tige en maille.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

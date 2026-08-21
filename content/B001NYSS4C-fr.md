@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPOSITION NATURELLE, BREVETEE, ET CONTROLEE : contient 41 Huiles Essentielles 100% pures et naturelles, formule brevetée 100% dorigine végétale et contrôlée par Ecocert. Sans gaz propulseur.
-- MODE DEMPLOI : 2 pulvérisations 1 à 2 fois par jour, orientées vers le haut, pour une pièce d’environ 12m². Laisser agir 30 minutes puis aérer. En présence denfants ou danimaux, attendre 60 minutes avant de les réintégrée à la pièce aérée.
 - SPRAY MULTI-USAGE : Sutilise aussi bien sur les surfaces et textiles de votre maison (chambre, canapé, salle de bain, toilettes, pièces humides) quà votre lieu de travail ou dans lhabitacle de votre voiture.
-- EFFICACITE PROUVEE : élimine plus de 99,9% des virus et bactéries. Testé scientifiquement sur les virus de la grippe A et gastro-entérite, sur les bactéries responsables dinfection respiratoire, et sur des moisissures. Tolérance testée cliniquement.
+- MODE DEMPLOI : 2 pulvérisations 1 à 2 fois par jour, orientées vers le haut, pour une pièce d’environ 12m². Laisser agir 30 minutes puis aérer. En présence denfants ou danimaux, attendre 60 minutes avant de les réintégrée à la pièce aérée.
 - RENDEZ VOTRE AIR INTERIEUR PLUS SAIN : limite les sources dallergies et dépidémies, chasse les polluants et les mauvaises odeurs en laissant un parfum frais et agréable. Format pratique.
+- EFFICACITE PROUVEE : élimine plus de 99,9% des virus et bactéries. Testé scientifiquement sur les virus de la grippe A et gastro-entérite, sur les bactéries responsables dinfection respiratoire, et sur des moisissures. Tolérance testée cliniquement.
+- COMPOSITION NATURELLE, BREVETEE, ET CONTROLEE : contient 41 Huiles Essentielles 100% pures et naturelles, formule brevetée 100% dorigine végétale et contrôlée par Ecocert. Sans gaz propulseur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001NYSS4C{{</world>}}

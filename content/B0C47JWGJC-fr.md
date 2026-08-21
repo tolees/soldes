@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Design : mannequin avec pied blanc et motifs Paris sur le torse - Bordure ornementée
 - Détails : buste hauteur entre env. 130 à 167 cm - Hauteur du torse env. 65 cm - LxP : env. 41x34 cm
 - Adaptable : poupée à hauteur réglable, idéale pour personnaliser votre atelier
 - Créativité : créez votre propre mode grâce à ce mannequin de couture idéal pour prendre les mesures
-- Design : mannequin avec pied blanc et motifs Paris sur le torse - Bordure ornementée
 - Décoratif : déposez une touche classique authentique dans votre intérieur ou présentez vos vêtements
 
 [🛒 Achète-le!!]({{< param buyurl >}})

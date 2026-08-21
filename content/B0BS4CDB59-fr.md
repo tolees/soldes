@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires fous : chargez le Rage Fire motorisé avec une lunette de précision et des unités de stockage de fléchettes modulaires pour contenir 46 fléchettes supplémentaires.
 - BLASTER À ALIMENTATION PAR COURROIE : Le Rage Fire motorisé a une ceinture dune capacité de 40 fléchettes qui alimente et tourne automatiquement à travers le blaster.
 - INSANE BLASTER : laissez-vous époustoufler par le X-Shot Insanity Motorized Rage Fire Blaster. Combinez le Rage Fire avec dautres Insanity Blasters pour créer le blaster le plus EPIC que vous ayez jamais vu !
-- BLASTER MOTORISÉ : Lancez 40 fléchettes daffilée avec le dynamitage motorisé X-Shot Insanity !
+- Accessoires fous : chargez le Rage Fire motorisé avec une lunette de précision et des unités de stockage de fléchettes modulaires pour contenir 46 fléchettes supplémentaires.
 - TRÉPIED RAGE FIRE : Le trépied pivote à 360 degrés et pivote verticalement pour exploser dans nimporte quelle direction. Retirez le blaster du trépied lorsque vous devez être en déplacement.
+- BLASTER MOTORISÉ : Lancez 40 fléchettes daffilée avec le dynamitage motorisé X-Shot Insanity !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BS4CDB59{{</world>}}

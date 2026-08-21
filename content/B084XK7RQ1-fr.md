@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Texture légère à absorption rapide
 - Enrichi en ingrédients naturels
-- Optimal pour les peaux sèches et sensibles
+- Texture légère à absorption rapide
 - Hydrate intensément la peau
+- Optimal pour les peaux sèches et sensibles
 - Utilisation quotidienne pour une peau douce
 
 [🛒 Achète-le!!]({{< param buyurl >}})

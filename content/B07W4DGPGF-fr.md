@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pro Precision: LIGHTFORCE hybrid switches deliver pro-level precision and reliability with tactile click
-- Wireless Mouse for Gaming: A pro gaming icon—now faster and more precise; it is designed in collaboration with the world’s leading esports pros and engineered to win
 - Most Advanced Optical Sensor in Gaming: HERO 2 with tracking over 888+ IPS, up to 44,000 DPI, precise sensor calibration with zero smoothing, acceleration or filtering with this gaming mouse
 - Zero-Additive PTFE Mouse Feet: This superlight mouse glides smoothly with seamless connection to your game with Zero-additive PTFE mouse feet
+- Wireless Mouse for Gaming: A pro gaming icon—now faster and more precise; it is designed in collaboration with the world’s leading esports pros and engineered to win
 - Note: PRO Series statistics based on 2024 data from prosettings.net
 - Better Performance: The Logitech Superlight 2, our championship winning wireless mouse gaming is now even better; with 8 kHz polling, USB-C charging, 95-hour battery life and POWERPLAY compatibility at 60 g
+- Pro Precision: LIGHTFORCE hybrid switches deliver pro-level precision and reliability with tactile click
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W4DGPGF{{</world>}}

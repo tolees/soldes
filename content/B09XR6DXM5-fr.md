@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Membrane imperméable Gore-Tex, respirabilité exceptionnelle et performance imperméable
 - Lacets 100 % recyclés, toile et doublure en maille
 - Languette à soufflet pour empêcher les débris dentrer
 - Embout de protection et semelle en caoutchouc Vibram TC5+
-- Membrane imperméable Gore-Tex, respirabilité exceptionnelle et performance imperméable
 - Dessus en cuir de porc et maille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

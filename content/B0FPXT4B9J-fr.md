@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75420 Smart Play : Le Landspeeder de Luke - Set Compatible - Jouet Interactif - Smart Tag & Minifigurine de Luke Skywalker - Idée Cadeau dès 6 Ans pour Garçon Fille ou Fan Adulte'
-date: 2026-08-19 17:34:39
+date: 2026-08-20 22:34:32
 image: 'https://m.media-amazon.com/images/I/51T6Pki6bJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXT4B9J/?tag=tolees0d-21'
 descuento: '32.51'
-average: '24.8395121951221'
+average: '24.8907142857144'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SMART MINIFIGURINE LEGO STAR WARS – Donnez vie à SMART Luke Skywalker avec une SMART Brique (non incluse) pour un jeu dynamique où les mouvements et situations du personnage déclenchent des réactions
+- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 6 ans, un.e ado ou un.e adulte collectionneur.se
+- JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s pour recréer des scènes de films épiques : prenez le rôle de Luke Skywalker explorant le désert de Tatooine dans son Landspeeder et imaginez une rencontre avec le Jawa et le droïde Gonk
 - INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets
+- COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique dun set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément)
 - LA GALAXIE VOUS RÉPOND – Une fois connectée au SMART Tag du Landspeeder, la SMART Brique LEGO (non incluse) répond aux mouvements et aux couleurs avec des sons et lumières, en activant les fonctionnalités de klaxon, de ravitaillement et de réparation
 - JOUET DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut un Landspeeder avec un SMART Tag et une SMART Minifigurine de Luke Skywalker avec un sabre laser, une station de ravitaillement, Jawa et un droïde Gonk
-- JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s pour recréer des scènes de films épiques : prenez le rôle de Luke Skywalker explorant le désert de Tatooine dans son Landspeeder et imaginez une rencontre avec le Jawa et le droïde Gonk
-- COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique dun set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément)
-- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 6 ans, un.e ado ou un.e adulte collectionneur.se
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXT4B9J{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- AUTONOMIE DE 3 À 5 JOURS : Cette montre équipée dune batterie en Lithium Polymère de 380mAh vous permet de pouvoir profiter de la montre pour une durée moyenne de 3 à 5 jours. Son écran AMOLED de 1,7 pouces permet dafficher lheure même lorsque la montre est en veille.
 - MONTRE CONNECTÉE DOTÉE DE PLUSIEURS FONCTIONNALITÉS : Cette montre connectée comporte plusieurs fonctionnalités (fréquence cardiaque, lecteur de musique, alarme, suivi des activités physiques, …). Il est donc maintenant possible de suivre ses activités physiques ainsi que ses données essentielles.
 - DÉCOUVREZ LA GAMME ICE-WATCH : La marque ICE-WATCH offre une gamme de produits large et diversifiée, ce qui vous permettra de toujours trouver un produit ICE-WATCH pour vous satisfaire vous ou vos proches. Tous nos produits sont livrés avec un manuel dinstruction et sont garantis 2 ans.
-- AUTONOMIE DE 3 À 5 JOURS : Cette montre équipée dune batterie en Lithium Polymère de 380mAh vous permet de pouvoir profiter de la montre pour une durée moyenne de 3 à 5 jours. Son écran AMOLED de 1,7 pouces permet dafficher lheure même lorsque la montre est en veille.
 - COMPATIBLE AVEC DES SMARTPHONES IOS 9;0+ ET ANDROID 5.1+ : cette montre connectée avec son design moderne et équipé dun écran AMOLED compact de 1.7 pouces. Cette montre vous garantit confort, lisibilité et luminosité!
 - RÉSISTANT À LEAU : Cette montre, parfaite au quotidien, est résistante à leau certifiée IP68. Elle résiste aux éclaboussures. Cependant, elle nest pas adaptées pour les sports aquatiques (nage, plongée, ...).
 

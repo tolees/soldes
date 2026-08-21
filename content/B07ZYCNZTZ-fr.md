@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- JOUET POUR SAMUSER DEHORS ENTRE AMIS : Ce blaster est idéal pour le jeu en extérieur et pour les sessions entre amis pendant les après-midis ensoleillés. Convient aux filles et aux garçons à partir de 8 ans
 - JEUX DEXTÉRIEUR POUR ENFANT NERF ELITE : Inclut 12 fléchettes en mousse Nerf Elite officielles. Après avoir rempli le barillet, on actionne la glissière damorçage et on appuie sur la détente pour tirer une fléchette.
 - BLASTER PRÊT À ÊTRE PERSONNALISÉ : On peut personnaliser le blaster pour toute mission de jeu en extérieur en utilisant les 2 rails tactiques et les points de fixation pour crosse et pour canon (crosse et rallonge de crosse non incluses)
-- JOUET POUR SAMUSER DEHORS ENTRE AMIS : Ce blaster est idéal pour le jeu en extérieur et pour les sessions entre amis pendant les après-midis ensoleillés. Convient aux filles et aux garçons à partir de 8 ans
-- RAILS TACTIQUES : Le blaster Commander RD-6 a 2 rails tactiques permettant dy ajouter des accessoires Nerf afin de le personnaliser pour chaque compétition ou mission de jeu en extérieur (accessoires vendus séparément).
 - BARILLET ROTATIF 6 FLÉCHETTES, TIRE LES FLÉCHETTES JUSQUÀ 27 M : Lors des jeux en extérieur, on peut tirer 6 fléchettes de suite à partir de son barillet rotatif 6 fléchettes (jusquà 27 m de distance).
+- RAILS TACTIQUES : Le blaster Commander RD-6 a 2 rails tactiques permettant dy ajouter des accessoires Nerf afin de le personnaliser pour chaque compétition ou mission de jeu en extérieur (accessoires vendus séparément).
 - TIR À RÉPÉTITION : On peut rapidement tirer les 6 fléchettes en maintenant la détente du blaster enfoncée et en actionnant la glissière à répétition. Les jeux en extérieur nen seront que plus amusants !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

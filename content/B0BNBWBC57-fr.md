@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONFORT VISUEL - Les caractéristiques certifiées TÜV Rheinland Eye Comfort incluent des filtres de réduction de lumière bleue, une technologie anti-scintillement & une finition décran anti-reflet; Haut-parleurs intégrés (2 x 2W) & assemblage sans outil
-- DALLE INCURVÉE 34 POUCES UWQHD - Dalle VA 1500R incurvée immersive 34" & sans distorsion avec résolution UWQHD (3440x1440); Un taux de rafraîchissement de 100Hz améliore lexpérience visuelle quotidienne avec des fréquences dimages plus fluides & plus rapides
 - CONNECTIVITÉ MODERNE & HÉRITÉE - Prend en charge deux sources avec les ports HDMI 2.0b (3440x1440/100Hz), DisplayPort 1.2a (3440x1440/100Hz); Comprend aussi un verrou Kensington
 - HAUTE QUALITÉ DIMAGE - Supporte une gamme de couleurs sRGB 116% (8 bits, 1,07 milliards de couleurs) & un rapport de contraste exceptionnel (3000:1), tout en offrant une gamme de fonctionnalités douces pour les yeux pour une meilleure productivité
+- DALLE INCURVÉE 34 POUCES UWQHD - Dalle VA 1500R incurvée immersive 34" & sans distorsion avec résolution UWQHD (3440x1440); Un taux de rafraîchissement de 100Hz améliore lexpérience visuelle quotidienne avec des fréquences dimages plus fluides & plus rapides
 - SIMPLE MAIS FLEXIBLE - Lapplication MSI Display Kit permet des paramètres daffichage & de couleur supplémentaires; Le moniteur est livré avec des supports de fixation VESA de 100mm pour un montage mural ou sur bras (par exemple avec MSI VESA Arm MT81)
+- CONFORT VISUEL - Les caractéristiques certifiées TÜV Rheinland Eye Comfort incluent des filtres de réduction de lumière bleue, une technologie anti-scintillement & une finition décran anti-reflet; Haut-parleurs intégrés (2 x 2W) & assemblage sans outil
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNBWBC57{{</world>}}

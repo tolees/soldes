@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance moteur de 400 W qui permet de grimper des pentes jusquà 22 % et offre une accélération rapide en mode sport (3 modes de conduite : piéton, standard et sportif).
+- Pneus tubeless 12" et système de suspension avec amortissement avant pour plus de confort de conduite et moins de vibrations.
 - Avec homologation pour la circulation publique (ABE, eKFV), frein à disque avant et frein électrique arrière, indice de protection IPX5, lumière avant et arrière, réflecteurs et clignotants pour une sécurité optimale.
 - Batterie de 468 Wh (10 Ah) avec longue autonomie jusquà 70 km (en fonction de la pression des pneus, des conditions de voie, de la taille et du poids de lutilisateur).
 - Écran LED qui affiche la vitesse, le niveau de batterie et les modes de conduite.
-- Pneus tubeless 12" et système de suspension avec amortissement avant pour plus de confort de conduite et moins de vibrations.
+- Puissance moteur de 400 W qui permet de grimper des pentes jusquà 22 % et offre une accélération rapide en mode sport (3 modes de conduite : piéton, standard et sportif).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GGZK1TXZ{{</world>}}

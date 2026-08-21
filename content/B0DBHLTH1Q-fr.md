@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La Moka Express de Bialetti rencontre les intrigues de Bridgerton : la cafetière originale, symbole du style italien dans le monde entier, rencontre les bavardages et les intrigues de la célèbre série Netflix de Shondaland. Sa forme emblématique datant de 1933 est rehaussée de motifs floraux et à de décorations dorées pour rendre la pause-café encore plus précieuse et romantique.
 - Instructions pour le nettoyage : la cafetière Moka Express Bialetti se rince seulement à l’eau après l’utilisation. Le produit ne doit pas être lavé au lave-vaisselle, car cela pourrait l’endommager et altérer le goût du café.
 - Qualité Bialetti : produit de haute qualité. Soupape de sécurité unique qui peut être inspectée et facilement nettoyée. Elle dispose d’une poignée dorée et ergonomique pour faciliter la prise en main du produit. Le produit est disponible en deux tailles (3 tasses et 6 tasses) et convient aux plaques de cuisson à gaz.
+- La Moka Express de Bialetti rencontre les intrigues de Bridgerton : la cafetière originale, symbole du style italien dans le monde entier, rencontre les bavardages et les intrigues de la célèbre série Netflix de Shondaland. Sa forme emblématique datant de 1933 est rehaussée de motifs floraux et à de décorations dorées pour rendre la pause-café encore plus précieuse et romantique.
 - Comment préparer le café : remplir la base d’eau jusqu’à la soupape de sécurité, mettre l’entonnoir et le remplir de café moulu pour moka sans tasser, fermer la moka et la placer sur la table de cuisson. Attendre la fin de la distribution à l’intérieur du collecteur, éteindre le feu. Savourez maintenant un bon café tout en découvrant les derniers potins.
 - Un format pour chaque besoin : la dimension de la cafetière est mesurée en tasses. Le café peut être dégusté dans des tasses à expresso ou dans des tasses plus grandes, selon le goût de chacun. C’est pourquoi la collection Bridgerton est disponible en deux formats - 3 tasses et 6 tasses (130 ml et 270 ml)
 

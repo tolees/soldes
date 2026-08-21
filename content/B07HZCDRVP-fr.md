@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Destruction jusquà 11-10 feuilles à la fois (70-80g/m²) à la fois, Adapté au déchiquetage des papiers, agrafes et trombones, Opération silencieuse pour une perturbation minimale à la maison ou au bureau
 - 2 ans de garantie contre les défauts, Commandes tactiles simples et intuitives pour un usage facile, Technologie anti-bourrage grâce à la fonction marche arrière sactionnant automatiquement en cas dinsertion dun volume de papier trop conséquent
-- Le pouvoir de déchiqueter davantage avec un temps de fonctionnement continu de 2 heures, Temps de refroidissement de 60 minutes, Corbeille avec capacité généreuse de 23 L - 250 feuilles A4 pour une élimination facile
-- Destructeur coupe micro pour une destruction quotidienne sécurisée, Idéal pour un usage à la maison ou au bureau, Découpe en particules de 2x15 mm pour une prévention contre le vol didentité
 - Contents: 1x Destructeur Coupe Micro Rexel Momentum M510, Dimensions (HxLxP): 46.5 x 37 x 27.9 cm, Poids: 12.5 kg, 2104575EU
+- Destructeur coupe micro pour une destruction quotidienne sécurisée, Idéal pour un usage à la maison ou au bureau, Découpe en particules de 2x15 mm pour une prévention contre le vol didentité
+- Le pouvoir de déchiqueter davantage avec un temps de fonctionnement continu de 2 heures, Temps de refroidissement de 60 minutes, Corbeille avec capacité généreuse de 23 L - 250 feuilles A4 pour une élimination facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HZCDRVP{{</world>}}

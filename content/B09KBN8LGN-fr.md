@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau avant en verre trempé monté sur support : la conception de la fenêtre agrandie permet aux utilisateurs de profiter pleinement des visuels captivants des ventilateurs ARGB avant, sils choisissent de les installer.
 - Large compatibilité : A23 prend en charge les radiateurs jusquà 360 mm, les cartes graphiques jusquà 380 mm de long et les refroidisseurs de processeur jusquà 165 mm de haut.
 - Connecteurs cachés : compatibles avec les cartes mères dotées de connecteurs cachés, ce qui maximise la gestion propre des câbles pour une construction sans encombrement.
+- Panneau avant en verre trempé monté sur support : la conception de la fenêtre agrandie permet aux utilisateurs de profiter pleinement des visuels captivants des ventilateurs ARGB avant, sils choisissent de les installer.
 - Gestion des câbles étendue : lA23 offre un compartiment derrière la carte mère dune largeur de 33 mm pour garder votre câblage rangé et bien rangé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

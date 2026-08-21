@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chemise à carreaux en flanelle de Brandit avec finition ronde. Classique avec deux poches poitrine boutonnées, boutonnière continue et coupe droite.
-- Nombreuses couleurs et tailles.
-- Finition de qualité - Entretien : lavable en machine à 30 °C.
-- Coupe droite classique.
 - Doux pour la peau et chaud en pur coton.
+- Coupe droite classique.
+- Finition de qualité - Entretien : lavable en machine à 30 °C.
+- Nombreuses couleurs et tailles.
+- Chemise à carreaux en flanelle de Brandit avec finition ronde. Classique avec deux poches poitrine boutonnées, boutonnière continue et coupe droite.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BMLJBL0{{</world>}}

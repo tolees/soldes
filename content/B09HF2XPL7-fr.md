@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ASSASSINS CREED II - Ezio est un jeune Assassin qui perpétue lhéritage de sa famille, à travers lItalie de la Renaissance, de Florence jusqu’à Venise. Plongez dans un récit épique au cœur d’une ère de richesses et de conspirations. Perfectionnez vos talents dAssassin tout en maniant des armes et des instruments créés par Léonard de Vinci en personne.
-- Affûtez vos compétences en tant que Maître Assassin au fil de trois récits comportant des missions à fins multiples. Éliminez furtivement vos adversaires à laide d’armes létales, désarmez-les ou retournez leurs armes contre eux et assassinez-les avec votre Lame Secrète.
 - Incarnez Ezio, le héros le plus iconique de la franchise Assassin’s Creed, dans une aventure qui le verra évoluer de jeune noble italien au plus légendaire des Assassins de la Confrérie.
+- ASSASSINS CREED II - Ezio est un jeune Assassin qui perpétue lhéritage de sa famille, à travers lItalie de la Renaissance, de Florence jusqu’à Venise. Plongez dans un récit épique au cœur d’une ère de richesses et de conspirations. Perfectionnez vos talents dAssassin tout en maniant des armes et des instruments créés par Léonard de Vinci en personne.
 - ASSASSINS CREED BROTHERHOOD - Ezio mène un combat de longue haleine contre le puissant Ordre des Templiers. Voyagez dans la plus grande ville dItalie, Rome, centre du pouvoir, de la cupidité et de la corruption. Prouvez vos talents de meneur et votre puissance alors que vous prenez la tête d’une Confrérie entière d’Assassins.
+- Affûtez vos compétences en tant que Maître Assassin au fil de trois récits comportant des missions à fins multiples. Éliminez furtivement vos adversaires à laide d’armes létales, désarmez-les ou retournez leurs armes contre eux et assassinez-les avec votre Lame Secrète.
 - ASSASSINS CREED REVELATIONS - Ezio abandonne sa vie et se lance dans une quête ultime. Marchez sur les traces dAltaïr, votre illustre mentor, lors d’un voyage plein de découvertes et de révélations. Cette quête dangereuse vous mènera à Constantinople, au cœur de l’empire ottoman, où une armée de Templiers menace de déstabiliser la région.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

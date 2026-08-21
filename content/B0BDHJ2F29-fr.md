@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CÉLÉBRER LHÉRITAGE : La gamme Transformers Legacy Evolution célèbre 40 ans dhistoire Transformers. La figurine Autobot Devcon est inspirée du dessin animé Transformers: Generation 1
-- LE COMBAT ÉVOLUE : Les robots Transformers sont améliorés avec Evo-Fusion ! Le combat évolue en combinant le blaster et les deux propulseurs pour former un canon laser
 - SUPER ACCESSOIRES : Ce jouet Autobot Devcon pour filles et garçons, à partir de 8 ans, inclut un blaster et 2 propulseurs qui peuvent se fixer sur la figurine dans les deux modes
 - 2 MODES ÉPIQUES : La figurine Transformers se convertit du mode robot au mode aéronef cybertronien en 13 étapes
+- LE COMBAT ÉVOLUE : Les robots Transformers sont améliorés avec Evo-Fusion ! Le combat évolue en combinant le blaster et les deux propulseurs pour former un canon laser
+- CÉLÉBRER LHÉRITAGE : La gamme Transformers Legacy Evolution célèbre 40 ans dhistoire Transformers. La figurine Autobot Devcon est inspirée du dessin animé Transformers: Generation 1
 - FICHE TECHNIQUE : Il suffit de scanner le QR code sur les packs pour révéler les caractéristiques techniques des personnages du multivers ! Chaque pack permet daccéder aux caractéristiques de son personnage (vendus séparément, dans la limite des stocks)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez à tous vos jeux quel que soit votre setup matériel et logiciel, avec OMEN Gaming Hub[4], votre boutique unique pour personnaliser votre écosystème. Unissez toutes les forces dans la bataille, de l’écran jusqu’au PC en passant par une sélection d’accessoires conçus pour affronter vos adversaires.
 - Ne ratez aucun détail au cœur de l’action, grâce à un temps de réponse GTG de 1 ms avec Overdrive et à un taux de rafraîchissement de 165 Hz, le tout associé à la technologie AMD FreeSync Premium[2].
+- Jouez à tous vos jeux quel que soit votre setup matériel et logiciel, avec OMEN Gaming Hub[4], votre boutique unique pour personnaliser votre écosystème. Unissez toutes les forces dans la bataille, de l’écran jusqu’au PC en passant par une sélection d’accessoires conçus pour affronter vos adversaires.
 - Explorez vos jeux préférés avec un gameplay ultra-réaliste en résolution FHD[3]. Explorez vos univers en ne laissant échapper aucune couleur ni nuance grâce à la couverture sRBG de 99 % et DCI-P3 de 95 %[1]. Ne ratez aucun détail même dans les ombres grâce à la technologie HDR.
 - Mêlant sophistication et design, le nouvel écran OMEN élève votre setup grâce à un pied réglable.
 

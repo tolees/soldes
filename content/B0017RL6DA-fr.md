@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur blanche
-- Taille: 220 mm x 110 mm, grammage: 75 g/m²
-- Format DIN-L sans fenêtre
 - Taille: 220 mm x 110 mm, grammage: 75 g/m² Avec fermeture autocollante par pression interne
+- Format DIN-L sans fenêtre
+- Taille: 220 mm x 110 mm, grammage: 75 g/m²
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0017RL6DA{{</world>}}

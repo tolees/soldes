@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce jeu inclut des accessoires pour toutes sortes de tours de Magie, un livret d’instruction pas à pas avec 125 tours qui n’en finiront pas de vous étonner
-- Une baguette de magicien, un chapeau haut de forme, un faux lapin, des gobelets, des anneaux, un jeu de cartes, un disque dhypnose, une corde, un foulard... les possibilités sont multiples et nombreuses.
+- Créez des illusions où les objets apparaissent, disparaissent et se transforment devant vos yeux. Les grands classiques de la magie sont présents tels que le tour des boules & des tasses, avec des gobelets chromés de qualité. L’essentiel des tours de magie n’aura plus de secret pour vous !
 - Découvrez dans ce coffret tout l’essentiel pour devenir un vrai magicien !
 - A partir de 8 ans.
-- Créez des illusions où les objets apparaissent, disparaissent et se transforment devant vos yeux. Les grands classiques de la magie sont présents tels que le tour des boules & des tasses, avec des gobelets chromés de qualité. L’essentiel des tours de magie n’aura plus de secret pour vous !
+- Une baguette de magicien, un chapeau haut de forme, un faux lapin, des gobelets, des anneaux, un jeu de cartes, un disque dhypnose, une corde, un foulard... les possibilités sont multiples et nombreuses.
+- Ce jeu inclut des accessoires pour toutes sortes de tours de Magie, un livret d’instruction pas à pas avec 125 tours qui n’en finiront pas de vous étonner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00OD3OC0O{{</world>}}

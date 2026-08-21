@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INCLUT : Base moteur 1 700W (prise UE), 2 récipients en verre lavables au lave-vaisselle (1,4L et 3,8L), 2 plaques antiadhésives, 2 couvercles de conservation. H : 34,5cm x L : 30,4cm x P : 34cm. Couleur : Gris
 - Un appareil. Des possibilités illimitées. Pour une cuisine toujours en ordre - un appareil de cuisson polyvalent conçu pour gagner de la place
+- Prêt à l’emploi : Léger et facile à transporter, CRISPi vous suit partout - Idéal pour les petites cuisines, au travail ou pendant vos escapades du weekend
 - Libérez votre plan de travail : CRISPi se range facilement pour une cuisine toujours en ordre
 - Cuisinez en toute transparence : Récipients en verre Cleancrisp pour une cuisine et une conservation saine
-- Prêt à l’emploi : Léger et facile à transporter, CRISPi vous suit partout - Idéal pour les petites cuisines, au travail ou pendant vos escapades du weekend
+- INCLUT : Base moteur 1 700W (prise UE), 2 récipients en verre lavables au lave-vaisselle (1,4L et 3,8L), 2 plaques antiadhésives, 2 couvercles de conservation. H : 34,5cm x L : 30,4cm x P : 34cm. Couleur : Gris
 - Surface en verre non-poreuse, facile à nettoyer : Les récipients en verre CleanCrisp sont compatibles au lave-vaisselle et facile à nettoyer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

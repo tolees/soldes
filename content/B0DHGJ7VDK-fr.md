@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Commande vocale et via l’application Xiaomi Home
+- Reprise automatique du nettoyage après recharge
+- Zones de nettoyage et zones interdites – il nettoie uniquement où vous le souhaitez
 - Cartographie des pièces en temps réel avec capteur LDS précis
 - Mode de lavage intensif avec distribution homogène de l’eau
-- Zones de nettoyage et zones interdites – il nettoie uniquement où vous le souhaitez
-- Reprise automatique du nettoyage après recharge
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHGJ7VDK{{</world>}}

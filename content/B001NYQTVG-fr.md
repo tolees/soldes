@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classique
 - Fermeture: fermeture éclair
 - Doublure: Textile
+- Classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001NYQTVG{{</world>}}

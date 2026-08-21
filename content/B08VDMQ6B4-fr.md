@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ECLAIRAGE PERSONNALISE - choisissez la couleur de la lumière par fonction TOUCH entre blanc chaud, blanc neutre et blanc froid.
-- DIMMABLE – ce lampadaire est dimmable en 4 niveaux avec l’interrupteur TOUCH sur la lampe. Choisissez entre 4 niveaux de luminosité: 25%, 50%, 75% et 100%. Le dernier niveau de luminosité reste mémorisé.
-- FLEXIBLE - la tête du lampadaire a une manche flexible enduite pour un toucher très agréable qui vous permet d’orienter la lumière dans toutes les directions. Cette fonctionnalité permet une utilisation comme lampadaire ainsi que comme liseuse.
-- DESIGN - ce lampadaire de design sobre et moderne saura vous séduire par ses nombreuses fonctionnalités et sintégrera parfaitement dans tous les intérieurs et toutes les pièces: salon, salle à manger, bureau, chambre.
 - ECLAIRAGE - la fonction CCT permet dadapter la température de la lumière entre un blanc chaud/blanc neutre/blanc froid de 3.000K / 4.000K / 6.500Kelvin. Toutes ces nuances de lumière sont aussi dimmables. La fonction mémoire enregistre le dernier réglage.
+- DIMMABLE – ce lampadaire est dimmable en 4 niveaux avec l’interrupteur TOUCH sur la lampe. Choisissez entre 4 niveaux de luminosité: 25%, 50%, 75% et 100%. Le dernier niveau de luminosité reste mémorisé.
+- DESIGN - ce lampadaire de design sobre et moderne saura vous séduire par ses nombreuses fonctionnalités et sintégrera parfaitement dans tous les intérieurs et toutes les pièces: salon, salle à manger, bureau, chambre.
+- FLEXIBLE - la tête du lampadaire a une manche flexible enduite pour un toucher très agréable qui vous permet d’orienter la lumière dans toutes les directions. Cette fonctionnalité permet une utilisation comme lampadaire ainsi que comme liseuse.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08VDMQ6B4{{</world>}}

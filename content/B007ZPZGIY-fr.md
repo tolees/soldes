@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONFORTABLE: Support textile 100% coton pour plus de confort lors de la taille des rosiers.
 - PRATIQUE: Poignets ajustés et cordon daccrochage pratique.
 - QUALITATIF: Garantie qualité de 2 ans.
-- RESPIRANT: Doté dun dos aéré qui permet de réguler laération de la main.
-- CONFORTABLE: Support textile 100% coton pour plus de confort lors de la taille des rosiers.
 - RESISTANT: Un gant anti-perforation pour la taille des épineux, en latex naturel adhérisé de couleur verte.
+- RESPIRANT: Doté dun dos aéré qui permet de réguler laération de la main.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007ZPZGIY{{</world>}}

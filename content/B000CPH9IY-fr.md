@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MUSIC
 - INTERNATIONAL
 - FLACK ROBERTA
 - THE VERY BEST OF ROBERTA FLACK
-- MUSIC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000CPH9IY{{</world>}}

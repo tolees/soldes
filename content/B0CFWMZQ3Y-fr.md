@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Que contient la boîte ? Tout ce dont votre enfant a besoin pour construire une caserne de pompiers avec une piste datterrissage, un drone, un camion de pompiers, 5 figurines de pompiers et une figurine de chien de pompier
-- Découvrez un univers de jeu imaginatif : votre enfant aura encore plus de plaisir et daventure en utilisant ce set avec dautres ensembles LEGO City (vendus séparément)
+- Jouet station de pompiers : découvrez LEGO Builder, une application qui permet aux enfants dexplorer et de sauvegarder des ensembles virtuels, de zoomer et de faire pivoter les versions 3D des modèles
 - Une idée de cadeau danniversaire amusante pour votre petit : offrez aux garçons et aux filles âgés de 6 ans et plus ce jouet de construction LEGO City comme cadeau danniversaire, pour des fêtes spéciales ou juste pour le plaisir
 - Une ville sans limites : LEGO City est un lieu où les enfants peuvent laisser libre cours à leur imagination sans limites ; ses structures, ses véhicules-jouets et ses citoyens sont une motivation excitante qui les pousse à construire
-- Jouet station de pompiers : découvrez LEGO Builder, une application qui permet aux enfants dexplorer et de sauvegarder des ensembles virtuels, de zoomer et de faire pivoter les versions 3D des modèles
-- Caserne de pompiers avec camion de pompiers pour enfants dès 6 ans : lensemble LEGO City comprend une caserne de pompiers moderne avec un centre de contrôle ainsi quun jouet de camion de pompiers pour des aventures de lutte contre les incendies
 - Caractéristiques amusantes des pompiers LEGO : salle de contrôle, kitchenette, lit et poteau pour les minifigurines de pompier, ainsi quun camion jouet avec un tuyau, une échelle modulaire et des accessoires de lutte contre lincendie
+- Que contient la boîte ? Tout ce dont votre enfant a besoin pour construire une caserne de pompiers avec une piste datterrissage, un drone, un camion de pompiers, 5 figurines de pompiers et une figurine de chien de pompier
+- Découvrez un univers de jeu imaginatif : votre enfant aura encore plus de plaisir et daventure en utilisant ce set avec dautres ensembles LEGO City (vendus séparément)
+- Caserne de pompiers avec camion de pompiers pour enfants dès 6 ans : lensemble LEGO City comprend une caserne de pompiers moderne avec un centre de contrôle ainsi quun jouet de camion de pompiers pour des aventures de lutte contre les incendies
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFWMZQ3Y{{</world>}}

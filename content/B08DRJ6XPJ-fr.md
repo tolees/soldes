@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONNECTIVITÉ INTELLIGENTE : Grâce au Bluetooth et au Wi-Fi, la machine à café Vertuo Pop vous garantit toujours la meilleure expérience de café Nespresso grâce à la mise à jour automatique du logiciel
-- DE BON GOÛT : Nespresso Vertuo Next propose une gamme complète de capsules de café, dun espresso fruité plus doux à une grande tasse, le tout dune simple pression sur un bouton et avec une crema lisse ; pack de démarrage inclus
-- TECHNOLOGIE DEXTRACTIION : Technologie dextraction brevetée développée par Nespresso qui tourne jusquà 7 000 fois par minute pour mélanger le café moulu avec de leau, produisant un résultat parfait dans la tasse pour chaque mélange
 - 5 TAILLES DE TASSE : 5 tailles de café Nespresso de 40 ml à 414 ml. Alto, Mug/Café, Gran Lungo et Espresso via 3 tailles de capsules. Grande capsule pour Alto et Mug/Café, Moyenne pour Gran Lungo et Double Espresso et petite pour Espresso
+- DE BON GOÛT : Nespresso Vertuo Next propose une gamme complète de capsules de café, dun espresso fruité plus doux à une grande tasse, le tout dune simple pression sur un bouton et avec une crema lisse ; pack de démarrage inclus
+- CONNECTIVITÉ INTELLIGENTE : Grâce au Bluetooth et au Wi-Fi, la machine à café Vertuo Pop vous garantit toujours la meilleure expérience de café Nespresso grâce à la mise à jour automatique du logiciel
+- TECHNOLOGIE DEXTRACTIION : Technologie dextraction brevetée développée par Nespresso qui tourne jusquà 7 000 fois par minute pour mélanger le café moulu avec de leau, produisant un résultat parfait dans la tasse pour chaque mélange
 - UNE TOUCHE : créez un café long exceptionnel ou un espresso authentique dune simple pression sur un bouton ; la capsule est automatiquement éjectée après linfusion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

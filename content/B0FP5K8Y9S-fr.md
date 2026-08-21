@@ -29,15 +29,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RÉPONSE VERBALE OU DISSUASIVE EN TEMPS RÉEL: Utilisez l’audio bidirectionnel pour accueillir les visiteurs, donner des instructions ou avertir les intrus, où que vous soyez
+- SOS d’urgence, instantanément depuis votre écran verrouillé : le premier système de caméras avec un bouton SOS intégré, pour un accès rapide aux services d’urgence locaux quand vous en avez le plus besoin
+- NOUVELLE APPLICATION ARLO SECURE: Réagissez plus rapidement; personnalisez vos paramètres et bénéficiez d’un meilleur contrôle de votre sécurité grâce à l’application Arlo Secure
 - PROTECTION CONTRE LES MENACES À DISTANCE : La sirène et le projecteur intégrés font fuir les intrus dès qu’ils sont détectés
-- SANS FRAIS MENSUELS: Profitez de la détection de mouvement, de la diffusion en direct et de l’audio bidirectionnel sans abonnement obligatoire; un essai gratuit d’Arlo Secure est inclus pour découvrir les fonctionnalités premium
-- PRÉCISION SUR CE QUI COMPTE: Avec un champ de vision de 130° et un zoom 12x, vous ne manquerez aucun visage, aucune plaque d’immatriculation, aucun mouvement
-- Conçu pour stopper les menaces avant quelles ne causent des dommages : le Système dAlerte Avancé alimenté par IA d’Arlo identifie ce qu’il voit et sait s’il s’agit d’un inconnu, d’un visage familier, de véhicules, d’animaux et même de flammes; Il dissuade les intrus grâce à un projecteur automatique et une puissante sirène
+- ABONNEMENT ARLO SECURE: Recevez des alertes de mouvement avancées basées sur l’IA (personnes, colis, animaux); définissez des zones d’activité personnalisées, bénéficiez du stockage cloud et du remplacement en cas de vol de votre caméra — résiliable à tout moment
 - COMPATIBLE AVEC VOS APPAREILS CONNECTÉS: Le Arlo Essential 3 fonctionne avec vos assistants vocaux et appareils connectés préférés; comme Alexa, pour une utilisation simple et pratique
 - UNE IMAGE HD NETTE, DE JOUR COMME DE NUIT: La vidéo HD nette et la vision nocturne couleur vous permettent d’observer clairement ce qui se passe, même dans l’obscurité
-- ABONNEMENT ARLO SECURE: Recevez des alertes de mouvement avancées basées sur l’IA (personnes, colis, animaux); définissez des zones d’activité personnalisées, bénéficiez du stockage cloud et du remplacement en cas de vol de votre caméra — résiliable à tout moment
-- NOUVELLE APPLICATION ARLO SECURE: Réagissez plus rapidement; personnalisez vos paramètres et bénéficiez d’un meilleur contrôle de votre sécurité grâce à l’application Arlo Secure
-- SOS d’urgence, instantanément depuis votre écran verrouillé : le premier système de caméras avec un bouton SOS intégré, pour un accès rapide aux services d’urgence locaux quand vous en avez le plus besoin
+- PRÉCISION SUR CE QUI COMPTE: Avec un champ de vision de 130° et un zoom 12x, vous ne manquerez aucun visage, aucune plaque d’immatriculation, aucun mouvement
+- SANS FRAIS MENSUELS: Profitez de la détection de mouvement, de la diffusion en direct et de l’audio bidirectionnel sans abonnement obligatoire; un essai gratuit d’Arlo Secure est inclus pour découvrir les fonctionnalités premium
+- Conçu pour stopper les menaces avant quelles ne causent des dommages : le Système dAlerte Avancé alimenté par IA d’Arlo identifie ce qu’il voit et sait s’il s’agit d’un inconnu, d’un visage familier, de véhicules, d’animaux et même de flammes; Il dissuade les intrus grâce à un projecteur automatique et une puissante sirène
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FP5K8Y9S{{</world>}}

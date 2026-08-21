@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Line for confort
-- The Hood C pack into the collar for When i not raining
+- Total protection from the éléments whilst being confortable on the inside
 - Helly tech protection - fully waterproof, windproof and breathable
 - Prima loft Black 100g Synthetic insolation offre thermal properties and water repellency - a great alternative to USING Down
-- Total protection from the éléments whilst being confortable on the inside
+- The Hood C pack into the collar for When i not raining
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XGW29XJ{{</world>}}

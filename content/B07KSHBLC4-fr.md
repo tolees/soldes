@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Café équilibré recouvert dune couche de mousse
-- Café moulu en dosettes filtre
 - Spécialement conçue pour votre machine à café Senseo
+- Café moulu en dosettes filtre
+- Café équilibré recouvert dune couche de mousse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KSHBLC4{{</world>}}

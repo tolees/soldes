@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRATIQUE : le palan à plaque professionnel avec filet trapézoïdal facile à manier TR 16 x 5 peut être utilisé pour une course de serrage de 115 mm, une largeur totale de 440 mm et une longueur de cliquet de 275 mm
-- HAUTE QUALITÉ : le tirefonds avec crochet galvanisé et cliquet chromé est extrêmement massif et donc idealement adapté aux exigences sévères ainsi quaux grandes forces de serrage lors de lutilisation
+- PERFORMANT : le tendeur de poutre matricé convainc lors du serrage, de la traction et de la compression de bois grâce à des crochets de traction trempés et à une manipulation ergonomique grâce au cliquet réversible
 - Fabriqué en Allemagne : HAZET est lun des principaux fabricants doutils de qualité destinés aux professionnels et dispose à cet égard de plus de 155 ans dexpérience dans le développement et la production
 - LIVRAISON : 1x HAZET 1774-1 Appareil de traction de poutre I Course de serrage : 115 mm, largeur totale : 440 mm, longueur du cliquet : 275 mm, filet trapézoïdal TR 16 x 5 I Dimensions de lappareil : 280 x 40 x 220 mm, poids net : 2,7 kg
-- PERFORMANT : le tendeur de poutre matricé convainc lors du serrage, de la traction et de la compression de bois grâce à des crochets de traction trempés et à une manipulation ergonomique grâce au cliquet réversible
+- HAUTE QUALITÉ : le tirefonds avec crochet galvanisé et cliquet chromé est extrêmement massif et donc idealement adapté aux exigences sévères ainsi quaux grandes forces de serrage lors de lutilisation
+- PRATIQUE : le palan à plaque professionnel avec filet trapézoïdal facile à manier TR 16 x 5 peut être utilisé pour une course de serrage de 115 mm, une largeur totale de 440 mm et une longueur de cliquet de 275 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00HPWTR5U{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Piel transpirable
-- Flexibles
 - Aspecto y tacto clásicos
 - Alta calidad
+- Flexibles
 - Cojín suave
 
 [🛒 Achète-le!!]({{< param buyurl >}})

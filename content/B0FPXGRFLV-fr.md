@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CADEAU VOITURE LEGO F1 DÈS 10 ANS – Cette maquette de bolide offre une expérience de construction et de jeu amusante : un fabuleux cadeau pour un enfant dès 10 ans ou un.e adulte fan de Formule 1
-- JOUET VOITURE POUR GARÇON OU FILLE DÈS 10 ANS – Construisez et mettez en scène des courses de F1 palpitantes avec la maquette LEGO Speed Champions de la Voiture de course Audi Revolut F1 Team R26
-- MINIFIGURINE COLLECTOR DE PILOTE DE F1 – Cette voiture de sport est accompagnée d’une minifigurine de pilote portant un casque et une tenue Audi, à placer dans le cockpit
 - ACCESSOIRES AUTHENTIQUES – La voiture LEGO présente de nombreux détails de conception identiques à ceux du véritable bolide ; il sagit de la maquette de la toute nouvelle écurie qui rejoindra la grille de départ de F1 en 2026
+- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits de construction LEGO Speed Champions invitent les enfants et les fans de voitures à construire les répliques d’une large gamme de véhicules de légende
 - ENCORE PLUS DE JEUX F1 – Organisez des courses avec toute la famille autour du drapeau à damier avec d’autres sets de construction de la gamme LEGO F1 (vendus séparément)
 - DÉCORATION SAISISSANTE – Garçons et filles peuvent exposer fièrement cette voiture de Formule 1 dans leur chambre, sur une étagère, un bureau ou une table de chevet
-- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits de construction LEGO Speed Champions invitent les enfants et les fans de voitures à construire les répliques d’une large gamme de véhicules de légende
+- MINIFIGURINE COLLECTOR DE PILOTE DE F1 – Cette voiture de sport est accompagnée d’une minifigurine de pilote portant un casque et une tenue Audi, à placer dans le cockpit
+- CADEAU VOITURE LEGO F1 DÈS 10 ANS – Cette maquette de bolide offre une expérience de construction et de jeu amusante : un fabuleux cadeau pour un enfant dès 10 ans ou un.e adulte fan de Formule 1
+- JOUET VOITURE POUR GARÇON OU FILLE DÈS 10 ANS – Construisez et mettez en scène des courses de F1 palpitantes avec la maquette LEGO Speed Champions de la Voiture de course Audi Revolut F1 Team R26
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXGRFLV{{</world>}}

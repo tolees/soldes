@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manipulation confortable – Le marteau perforateur dispose d’une poignée principale anti-vibration à surface Softgrip et d’une poignée auxiliaire fixée par rainurage.
-- Transport – Le marteau perforateur est vendu dans le coffret E-Box très pratique. Il facilite le transport et offre une grande mobilité, quel que soit le lieu d’utilisation de l’outil.
-- Outil 4-en-1 : 4 fonctions – perçage, perçage à percussion, burinage avec et sans fixation du burin – réunies dans un concentré de puissance unique pour la maison et le jardin
-- Puissance – Avec une puissance de 1 600 W, le mécanisme de frappe pneumatique assure une avancée optimale et sa force de frappe de 4,5 J permet de relever tous les défis.
 - Butée de profondeur – La butée de profondeur en métal massif est réglable en continu et assure une profondeur de perçage idéale.
-- Variateur électronique – Le variateur électronique assure un travail adapté aux matériaux et aux applications, et un perçage progressif pour une précision absolue.
+- Outil 4-en-1 : 4 fonctions – perçage, perçage à percussion, burinage avec et sans fixation du burin – réunies dans un concentré de puissance unique pour la maison et le jardin
+- Manipulation confortable – Le marteau perforateur dispose d’une poignée principale anti-vibration à surface Softgrip et d’une poignée auxiliaire fixée par rainurage.
 - Utilisation agile – Grâce au câble d’alimentation de 3 m, l’outil conserve un grand rayon d’action. Le mandrin SDS Plus semi-automatique est pratique et facilite le changement d’outil.
+- Variateur électronique – Le variateur électronique assure un travail adapté aux matériaux et aux applications, et un perçage progressif pour une précision absolue.
+- Transport – Le marteau perforateur est vendu dans le coffret E-Box très pratique. Il facilite le transport et offre une grande mobilité, quel que soit le lieu d’utilisation de l’outil.
+- Puissance – Avec une puissance de 1 600 W, le mécanisme de frappe pneumatique assure une avancée optimale et sa force de frappe de 4,5 J permet de relever tous les défis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKX6TBN1{{</world>}}

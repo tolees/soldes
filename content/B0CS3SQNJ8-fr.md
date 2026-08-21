@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier de charge en format de poche : le boîtier de charge ultrafin se glisse dans une poche. Vos écouteurs sont protégés et se chargent quand vous ne les utilisez pas. Le mode mono permet d’utiliser un des écouteurs pendant que l’autre charge.
 - Des appels clairs : votre voix s’entendra clairement lors de vos appels. Une micro dédié reprend le son de votre voix et un algorithme de réduction de bruit atténue certains bruits de fond qui vous entourent.
-- Ajustement confortable, commandes tactiles : embouts en silicone interchangeables pour un ajustement parfait, tout en douceur dans le conduit auditif. Commandes tactiles simples. Amplification dynamique des basses, contrôle du volume ou prendre un appel.
 - 18 h d’autonomie avec le boîtier : 6 h d’autonomie après une charge complète, 12 h supplémentaires grâce au boîtier. Charge complète en 2 h dans le boîtier. Une charge rapide ? 15 mn de charge = 1 h de plus. Le boîtier peut être chargé via USB-C.
 - Résistance aux éclaboussures/sueur IPX4 : l’indice IPX4 protège ces écouteurs des éclaboussures. Ils ne craignent pas un peu de pluie ! Vous les portez pour faire du sport ou quand il fait particulièrement chaud ? Ils ne craignent pas non plus la sueur.
+- Ajustement confortable, commandes tactiles : embouts en silicone interchangeables pour un ajustement parfait, tout en douceur dans le conduit auditif. Commandes tactiles simples. Amplification dynamique des basses, contrôle du volume ou prendre un appel.
+- Boîtier de charge en format de poche : le boîtier de charge ultrafin se glisse dans une poche. Vos écouteurs sont protégés et se chargent quand vous ne les utilisez pas. Le mode mono permet d’utiliser un des écouteurs pendant que l’autre charge.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CS3SQNJ8{{</world>}}

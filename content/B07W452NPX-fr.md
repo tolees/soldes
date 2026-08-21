@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : cuir
 - Forme du talon : plat
 - Matériau intérieur : textile
 - Doublure : doublure froide
+- Matériau extérieur : cuir
 - Largeur de la chaussure : large
 - Fermeture : synthétique
 

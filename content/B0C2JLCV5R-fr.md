@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Technologie CORSAIR AirGuide : Les deux ventilateurs 3 pin inclus offrent des performances silencieuses à 24,7 dBA et sont dotés de la technologie CORSAIR AirGuide qui augmente la pression statique et dirige le flux d’air pour un refroidissement amélioré
 - Panneau avant optimisé offrant une circulation de l’air hautes performances : Un panneau avant en acier optimisé garantit une circulation de l’air maximale vers votre système pour un refroidissement exceptionnelle
 - Remarquable potentiel de refroidissement : L’intérieur spacieux permet d’accueillir jusqu’à huit ventilateurs de 120 mm ou quatre de 140 mm, ainsi que plusieurs radiateurs dont un de 360 mm à l’avant et un de 280 mm en haut (selon la hauteur de RAM)
-- Refroidissement de carte graphique dédié : Prend en charge les dernières cartes graphiques avec deux supports pour ventilateur de 120 mm supplémentaires sur le cache d’alimentation permettant d’installer les ventilateurs de façon à diriger le flux d’air vers la carte graphique
 - Prise en charge des cartes graphiques à quatre slots : Installez aisément une carte graphique à quatre slots d’une longueur maximale de 360 mm pour créer un système haut de gamme ultraperformant
-- Technologie CORSAIR AirGuide : Les deux ventilateurs 3 pin inclus offrent des performances silencieuses à 24,7 dBA et sont dotés de la technologie CORSAIR AirGuide qui augmente la pression statique et dirige le flux d’air pour un refroidissement amélioré
+- Refroidissement de carte graphique dédié : Prend en charge les dernières cartes graphiques avec deux supports pour ventilateur de 120 mm supplémentaires sur le cache d’alimentation permettant d’installer les ventilateurs de façon à diriger le flux d’air vers la carte graphique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C2JLCV5R{{</world>}}

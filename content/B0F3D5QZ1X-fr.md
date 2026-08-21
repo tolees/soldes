@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TECHNOLOGIE INVERTER : - Amorçage immédiat grâce à sa tension à vide élevée. - Puissance de soudage constante. - Fusion très douce due à son courant continu. - Protégé contre les surintensités.
 - AIDES AU SOUDAGE : Hot Start, amorçage facilité. Arc Force : augmentation ponctuelle du courant en situation de soudage difficile. Antisticking : réduit les risques de collage de l’électrode en cas de contact avec la pièce.
-- Livré en coffret avec Masque, Gants Tablier, Marteau Brosse et électrodes en acier rutiles
 - SOUDAGE MMA : Soude avec une grande facilité la plupart des électrodes enrobées : rutile, inox, fonte et basique (jusqu’au Ø 4 mm)
+- TECHNOLOGIE INVERTER : - Amorçage immédiat grâce à sa tension à vide élevée. - Puissance de soudage constante. - Fusion très douce due à son courant continu. - Protégé contre les surintensités.
+- Livré en coffret avec Masque, Gants Tablier, Marteau Brosse et électrodes en acier rutiles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F3D5QZ1X{{</world>}}

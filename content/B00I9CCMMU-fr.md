@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Polished Smooth est le cuir original Dr. Martens : super résistant, avec une finition lisse et brillante. Nettoyez-le avec un chiffon humide et entretenez-le avec le cirage Dr. Martens.
-- Une évolution intrépide de notre botte à 8 trous, élevant notre silhouette vers de nouveaux sommets incontournables. Atteignez de nouveaux sommets. Soyez encore plus audacieux.
 - La semelle Quad crantée, de 5,08 cm de hauteur, est conçue pour assurer la sécurité. Il figure sur nos bottes Jadon, conçues pour les personnes qui nont pas peur de se démarquer.
+- Une évolution intrépide de notre botte à 8 trous, élevant notre silhouette vers de nouveaux sommets incontournables. Atteignez de nouveaux sommets. Soyez encore plus audacieux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00I9CCMMU{{</world>}}

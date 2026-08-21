@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col rembourré
-- Languette sur le talon
 - Chaussure de course
+- Languette sur le talon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN76ZMYY{{</world>}}

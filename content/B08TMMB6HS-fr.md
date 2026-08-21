@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire absorbant les chocs
 - Maille athlétique
+- Semelle intermédiaire absorbant les chocs
 - Skechers Logo
 - Légères
 

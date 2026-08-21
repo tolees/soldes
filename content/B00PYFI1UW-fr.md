@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire
 - Mode
+- Accessoire
 - Classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

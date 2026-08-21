@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【LÈVE-COUVERCLE INCLUS ET ENTRETIEN SIMPLE】 Le lève-couvercle aide à manipuler le couvercle chaud avec davantage de contrôle. Après utilisation, nettoyez la fonte à la main, séchez-la immédiatement et appliquez une fine couche d’huile avant de la ranger afin de limiter la rouille.
-- 【COUVERCLE UTILISABLE COMME POÊLE】 Le couvercle réversible peut servir de poêle ou de plaque de cuisson pour saisir, griller et frire les aliments. Son bord surélevé permet également de déposer des braises sur le dessus afin de diffuser la chaleur autour des préparations.
 - 【FONTE PRÉ-CULOTTÉE ET CHALEUR HOMOGÈNE】 Fabriquée en fonte robuste et pré-culottée, la cocotte retient durablement la chaleur et la répartit de manière régulière. Elle convient pour mijoter, rôtir, cuire du pain, frire, griller ou maintenir les plats au chaud.
 - 【CAPACITÉ 4,2 L POUR LES REPAS EN PLEIN AIR】 Ce four néerlandais en fonte offre suffisamment d’espace pour préparer soupes, ragoûts, viandes rôties, pain et plats mijotés. Sa capacité de 4,2 L convient particulièrement aux repas en famille ou entre amis lors du camping, des barbecues et des sorties en plein air.
+- 【COUVERCLE UTILISABLE COMME POÊLE】 Le couvercle réversible peut servir de poêle ou de plaque de cuisson pour saisir, griller et frire les aliments. Son bord surélevé permet également de déposer des braises sur le dessus afin de diffuser la chaleur autour des préparations.
 - 【CONÇUE POUR LA CUISSON AU FEU DE CAMP】 Les pieds intégrés maintiennent la cocotte au-dessus des braises, tandis que l’anse robuste permet de la suspendre au-dessus du feu. Elle peut être utilisée sur un feu de camp, un barbecue au charbon, une cuisinière à gaz ou dans un four.
+- 【LÈVE-COUVERCLE INCLUS ET ENTRETIEN SIMPLE】 Le lève-couvercle aide à manipuler le couvercle chaud avec davantage de contrôle. Après utilisation, nettoyez la fonte à la main, séchez-la immédiatement et appliquez une fine couche d’huile avant de la ranger afin de limiter la rouille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082TPV1Z9{{</world>}}

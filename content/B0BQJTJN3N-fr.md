@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Devant doublé
 - Coton stretch ultra-doux
-- Confectionnés en coton de culture biologique
 - Ceinture élastique confortable avec logo
 - Ne remontent pas sur les cuisses
+- Confectionnés en coton de culture biologique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQJTJN3N{{</world>}}

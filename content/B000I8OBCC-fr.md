@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : diamètre 90 cm / Grande aiguille (minutes) longueur 52,5 cm / Petite aiguille (heures) longueur 40,5 cm / Support central diamètre 10 cm
-- Adeptes du minimalisme, voici une horloge géante grise faite pour vous : ses aiguilles sont si grandes que cette horloge XL décore un mur entier et ne nécessite plus de chiffres pour deviner lheure ! Avec son support central et ses deux grandes aiguilles sans chiffres, lhorloge Little Big Time mêle sobriété et élégance. Horloge à fixer au mur. Fonctionne avec une pile AA LR06 (non incluse).
-- Alimentation : 1 pile AA LR06 / Conditions dutilisation : à fixer au mur
 - Couleur : gris argent / Design : Box32 Design
 - Matière : aluminium
+- Alimentation : 1 pile AA LR06 / Conditions dutilisation : à fixer au mur
+- Adeptes du minimalisme, voici une horloge géante grise faite pour vous : ses aiguilles sont si grandes que cette horloge XL décore un mur entier et ne nécessite plus de chiffres pour deviner lheure ! Avec son support central et ses deux grandes aiguilles sans chiffres, lhorloge Little Big Time mêle sobriété et élégance. Horloge à fixer au mur. Fonctionne avec une pile AA LR06 (non incluse).
+- Dimensions : diamètre 90 cm / Grande aiguille (minutes) longueur 52,5 cm / Petite aiguille (heures) longueur 40,5 cm / Support central diamètre 10 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000I8OBCC{{</world>}}

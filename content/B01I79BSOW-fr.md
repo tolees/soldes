@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Équipement Perma
-- Jambes droites
+- Jean classique à cinq poches en denim authentique
 - Composé dun mélange de coton de qualité supérieure
 - Détails sportifs
-- Jean classique à cinq poches en denim authentique
+- Jambes droites
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01I79BSOW{{</world>}}

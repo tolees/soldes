@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tapie dans l’ombre, une créature mystérieuse vous traque sans relâche. Elle semble anticiper chacun de vos gestes. Rien ne lui échappe. Le moindre mouvement peut trahir votre position. Ruser, fuir, avancer : votre survie ne tient qu’à un fil.
 - Précommandez la version physique de Resonance: A Plague Tale Legacy pour recevoir le DLC « Heritage Pack ».
-- Alternez entre le Moyen Âge et les temps anciens de la civilisation minoenne. Découvrez une nouvelle histoire dans l’univers de A Plague Tale, à travers les destins croisés de deux héros liés par la Macula.
-- Marchez dans les pas de ceux qui vous ont précédée et plongez au cœur d’un monde visuellement éblouissant pour en percer les mystères et relever des défis mortels.
+- Tapie dans l’ombre, une créature mystérieuse vous traque sans relâche. Elle semble anticiper chacun de vos gestes. Rien ne lui échappe. Le moindre mouvement peut trahir votre position. Ruser, fuir, avancer : votre survie ne tient qu’à un fil.
 - Utilisez votre agilité, votre ruse et vos réflexes affûtés pour esquiver de nombreux pièges, parer des coups puissants et porter des frappes décisives.
+- Marchez dans les pas de ceux qui vous ont précédée et plongez au cœur d’un monde visuellement éblouissant pour en percer les mystères et relever des défis mortels.
+- Alternez entre le Moyen Âge et les temps anciens de la civilisation minoenne. Découvrez une nouvelle histoire dans l’univers de A Plague Tale, à travers les destins croisés de deux héros liés par la Macula.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GT1TP7L4{{</world>}}

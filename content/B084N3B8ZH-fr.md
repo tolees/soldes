@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 poches latérales & 2 poches intérieures Doublure ouatinée
-- Coupe : standard
-- Entretien: lavage main
 - Veste boutonnée, style «DW»
+- Coupe : standard
 - Cuir de vachette
+- Entretien: lavage main
+- 2 poches latérales & 2 poches intérieures Doublure ouatinée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084N3B8ZH{{</world>}}

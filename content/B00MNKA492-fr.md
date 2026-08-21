@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection contre les éclaboussures – IPX6
 - Maniable – longueur de 115 millimètres pour un poids de seulement 98 grammes et un diamètre de tête de 25 millimètres
-- Fonctionne avec des piles – utilisation de trois piles alcalines AAA (micro, 1,5 V)
 - Portée déclairage de qualité – jusquà 240 lumens
+- Protection contre les éclaboussures – IPX6
+- Fonctionne avec des piles – utilisation de trois piles alcalines AAA (micro, 1,5 V)
 - Une qualité déclairage Ledlenser exceptionnelle – la luminosité, la portée déclairage et lautonomie sont parfaitement adaptées à la source dénergie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

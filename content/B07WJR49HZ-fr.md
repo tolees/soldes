@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il comprend plusieurs poches frontales et latérales, des poches en filet extensibles pour séparer les articles secs et humides, des crochets à ressort pour les combinaisons humides, une poche en filet pour les bouteilles deau, des sangles réglables et un espace de rangement protecteur pour les appareils électroniques de grande taille.
-- Le sac à dos TYR Alliance est conçu avec une technologie de tissu qui garantit une sensation de légèreté et une construction durable et résistante à leau.
 - Rembourrage en forme de contour pour une ergonomie et un confort lombaire idéaux
+- Le sac à dos TYR Alliance est conçu avec une technologie de tissu qui garantit une sensation de légèreté et une construction durable et résistante à leau.
+- Il comprend plusieurs poches frontales et latérales, des poches en filet extensibles pour séparer les articles secs et humides, des crochets à ressort pour les combinaisons humides, une poche en filet pour les bouteilles deau, des sangles réglables et un espace de rangement protecteur pour les appareils électroniques de grande taille.
 - Dimensions : 20" H x 13,5" L x 10,5" P (51 cm x 34 cm x 27 cm)
 - Poids : 1.85 lbs / 0.84 kg
 

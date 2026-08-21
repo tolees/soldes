@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ventilation intérieure dynamique
 - Refroidit jusqu’à 25 ºC en dessous de la température ambiante et chauffe jusqu’à +65 ºC
 - Glacière pratique 12 V DC et 230 V AC
 - Ventilateur inusable
+- Ventilation intérieure dynamique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0823BXQTS{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque lot contient 80 enveloppes de 85 g de Felix Sensations
-- La nourriture humide pour chat Purina Felix Sensations est une gamme de recettes avec de tendres bouchées enveloppées dans différentes gelées savoureuses pour bon goût
 - La nourriture humide pour chat Felix Sensations est une source dacides gras essentiels Omega 6 et de vitamines pour aider votre chat à rester plein de vitalité
+- La nourriture humide pour chat Purina Felix Sensations est une gamme de recettes avec de tendres bouchées enveloppées dans différentes gelées savoureuses pour bon goût
+- Chaque lot contient 80 enveloppes de 85 g de Felix Sensations
 - Les recettes de Felix Sensations sont une bonne bonté et répondent à 100 % aux besoins quotidiens de votre chat
 - Le chat humide Felix Sensations est disponible dans une grande variété de délicieuses recettes pour ravir les sens de votre chat
 

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Solution de stockage polyvalente pour tous les besoins : choisissez parmi 500 Go, 1 To ou 2 To de capacité, entièrement équipé dun câble USB-C pour une connexion transparente à Windows 10+, MacOS 10.x+ et plus encore. Compact (72x40x9mm) et prêt à lemploi grâce au système de fichiers exFAT.
-- - Compact, robuste et durable : le boîtier élégant en aluminium anthracite offre une résistance aux chocs (1500 g/0,5 ms), un fonctionnement silencieux (0 dB) et une faible consommation dénergie, parfait pour les déplacements ou une utilisation durable.
 - SSD haute performance à une vitesse impressionnante : le SSD externe TX800 de Intenso offre des vitesses de transfert de données ultra rapides allant jusquà 2100 Mo/s avec son interface super rapide USB 3.2 Gen 2x2 (20 Gb/s) - Idéal pour les applications gourmandes en données, les sauvegardes et léchange rapide de fichiers volumineux.
+- - Compact, robuste et durable : le boîtier élégant en aluminium anthracite offre une résistance aux chocs (1500 g/0,5 ms), un fonctionnement silencieux (0 dB) et une faible consommation dénergie, parfait pour les déplacements ou une utilisation durable.
+- Solution de stockage polyvalente pour tous les besoins : choisissez parmi 500 Go, 1 To ou 2 To de capacité, entièrement équipé dun câble USB-C pour une connexion transparente à Windows 10+, MacOS 10.x+ et plus encore. Compact (72x40x9mm) et prêt à lemploi grâce au système de fichiers exFAT.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQWY417S{{</world>}}

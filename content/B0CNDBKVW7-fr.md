@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transparent
 - Métallique unique plaqué or 14 carats
 - Charm dangle
 - Zircon cubique
+- Transparent
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNDBKVW7{{</world>}}

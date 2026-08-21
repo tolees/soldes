@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES DENTS SAINES AVEC ELMEX : Marque N°1 recommandée par les dentistes, Elmex propose à ses consommateurs des produits dhygiène bucco-dentaire performants aux bienfaits scientifiquement prouvés.
 - MULTIACTION : Ce dentifrice Elmex lutte contre les caries et le tartre dentaire, reminéralise lémail, aide à protéger les dents contre la sensibilité dentaire et contribue à rétablir la blancheur naturelle des dents.
-- MODE DEMPLOI : Procédez à un brossage régulier, deux fois par jour, de préférence après les repas, pendant deux minutes. Pour plus defficacité, ce dentifrice peut être associé à la solution dentaire Elmex Sensitive Original.
+- DES DENTS SAINES AVEC ELMEX : Marque N°1 recommandée par les dentistes, Elmex propose à ses consommateurs des produits dhygiène bucco-dentaire performants aux bienfaits scientifiquement prouvés.
 - DENTIFRICE MENTHE FRAÎCHE ANTI-CARIES : Elmex dentifrice Anti-Caries Haleine Fraîche possède une formule aromatisée à la menthe, conçue pour prévenir certains problèmes bucco-dentaires comme les caries, laccumulation de tartre, lirritation des gencives.
+- MODE DEMPLOI : Procédez à un brossage régulier, deux fois par jour, de préférence après les repas, pendant deux minutes. Pour plus defficacité, ce dentifrice peut être associé à la solution dentaire Elmex Sensitive Original.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BFBNFB29{{</world>}}

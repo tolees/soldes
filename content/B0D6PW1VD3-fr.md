@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit végétalien
 - Mousse viscoélastique
 - Slip Ins intégrés
-- Produit végétalien
 - Slip-Ins
 
 [🛒 Achète-le!!]({{< param buyurl >}})

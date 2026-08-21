@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur : 51 cm, Largeur : 32,5 cm, Profondeur : 24 cm
 - Des sangles de compression et de fixation pour garantir un maintien idéal pendant le transport
-- Fabriqué dans un mélange 60% nylon 40% polyester
 - Système de roulement facile pour naviguer dans les rues de la ville, les aéroports achalandés et encore
+- Fabriqué dans un mélange 60% nylon 40% polyester
+- Hauteur : 51 cm, Largeur : 32,5 cm, Profondeur : 24 cm
 - Compartiment double à fermeture éclair pour garder vos affaires en sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

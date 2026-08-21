@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Fermeture éclair
 - Type de col: Rond
+- Fermeture: Fermeture éclair
 - Synthétique
 - Lavage en machine
 

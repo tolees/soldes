@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LLC Half Bridge Topologie avec conception de module DC-DC
 - Condensateur 100 % japonais 105 C
 - Protection de niveau industriel avec OVP, OCP, OPP, OTP, SCP, UVP
+- LLC Half Bridge Topologie avec conception de module DC-DC
 - Certifié 80 Plus Gold pour une grande efficacité
 - Design PFC actif
 

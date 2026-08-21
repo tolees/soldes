@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Membrane GORE-TEX
-- Chaussant standard
 - Tige en ripstop et bout moulé
+- Chaussant standard
 - Système de laçage rapide
+- Membrane GORE-TEX
 - Une chaussure de randonnée imperméable, conçue en partie à base de matières recyclées
 
 [🛒 Achète-le!!]({{< param buyurl >}})

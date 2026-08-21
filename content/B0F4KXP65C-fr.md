@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - DES RÈGLES SIMPLES pour les plus petits. Un joueur lance les dés et il peut se déplacer dautant de cases que la somme des 2 dés. Sil arrive sur la case dun arbre, il peut regarder ce quil y a dessous. Il faut bien mémoriser limage, car lorsquelle sera demandée au château, il faudra désigner larbre correspondant.
 - UN LIVRE DE CONTES : Les contes sinvitent dans La Forêt Enchantée. Ce classique du jeu dé se voit offrir une toute nouvelle édition autour des contes qui bercent notre enfance. Retrouvez 13 contes dhiver issus du monde entier à lire au coin du feu.
 - INITIE LES PLUS PETITS : La Forêt Enchantée est un jeu aux règles simplissimes et faciles à expliquer ! Il initie en douceur les plus jeunes aux premières règles de jeu de société et les éléments en 3D rendent le jeu dautant plus amusant et immersif.
-- UN LIVRE DE CONTES : Les contes sinvitent dans La Forêt Enchantée. Ce classique du jeu dé se voit offrir une toute nouvelle édition autour des contes qui bercent notre enfance. Retrouvez 13 contes dhiver issus du monde entier à lire au coin du feu.
 - DES RÈGLES SIMPLES pour les plus petits. Un joueur lance les dés et il peut se déplacer dautant de cases que la somme des 2 dés. Sil arrive sur la case dun arbre, il peut regarder ce quil y a dessous. Il faut bien mémoriser limage, car lorsquelle sera demandée au château, il faudra désigner larbre correspondant.
+- UN LIVRE DE CONTES : Les contes sinvitent dans La Forêt Enchantée. Ce classique du jeu dé se voit offrir une toute nouvelle édition autour des contes qui bercent notre enfance. Retrouvez 13 contes dhiver issus du monde entier à lire au coin du feu.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4KXP65C{{</world>}}

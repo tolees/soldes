@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 3 tableaux autocollants à décorer avec 2 tubes de paillettes, 1 spatule
-- La paillette : une activité phare pour les filles au résultat brillant très spectaculaire
-- Une activité créative qui apporte calme, concentration et apaisement
 - Fabriqué en Chine
+- Contenu : 3 tableaux autocollants à décorer avec 2 tubes de paillettes, 1 spatule
+- Une activité créative qui apporte calme, concentration et apaisement
+- La paillette : une activité phare pour les filles au résultat brillant très spectaculaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Q6JP3WQ{{</world>}}

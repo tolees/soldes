@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DUEL TACTIQUE ET INTERACTIF: Conçu par les renommés Marc André (Splendor) et Bruno Cathala (7 Wonders Duel), ce jeu propose une interaction intense et des décisions cruciales qui peuvent frustrer votre adversaire, ajoutant une dimension compétitive et stratégique.
-- PORTABLE ET PRATIQUE: Avec une édition plus moderne et transportable, Splendor Duel est parfait pour les voyages ou les soirées jeu en petit comité. Sa conception compacte permet de lemporter partout et de jouer nimporte où.
 - TROIS MODES DE VICTOIRE: Testez différentes stratégies avec trois conditions de victoire distinctes. Collectez des pierres précieuses, utilisez les pouvoirs des bâtiments et adaptez-vous aux mouvements de votre adversaire pour gagner.
-- IDÉAL POUR LES FANS DE SPLENDOR ET NOUVEAUX JOUEURS: Que vous soyez un vétéran de Splendor ou un débutant dans les jeux de stratégie, Splendor Duel est une excellente introduction aux jeux de duel avec une courbe dapprentissage accessible et des parties compétitives et serrées.
+- DUEL TACTIQUE ET INTERACTIF: Conçu par les renommés Marc André (Splendor) et Bruno Cathala (7 Wonders Duel), ce jeu propose une interaction intense et des décisions cruciales qui peuvent frustrer votre adversaire, ajoutant une dimension compétitive et stratégique.
 - JEU STRATEGIE POUR 2 JOUEURS : Splendor Duel offre une expérience de jeu de cartes tactique pour 2 joueurs, enrichie dune mécanique innovante et élégante. Profitez dun jeu profond avec des règles simples mais qui garantit une grande rejouabilité.
+- PORTABLE ET PRATIQUE: Avec une édition plus moderne et transportable, Splendor Duel est parfait pour les voyages ou les soirées jeu en petit comité. Sa conception compacte permet de lemporter partout et de jouer nimporte où.
+- IDÉAL POUR LES FANS DE SPLENDOR ET NOUVEAUX JOUEURS: Que vous soyez un vétéran de Splendor ou un débutant dans les jeux de stratégie, Splendor Duel est une excellente introduction aux jeux de duel avec une courbe dapprentissage accessible et des parties compétitives et serrées.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VLKJDP3{{</world>}}

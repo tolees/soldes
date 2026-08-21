@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Date de sortie : 17 juillet 2025
 - Détruisez à plein régime !
-- Incarnez Donkey Kong et pulvérisez presque tout ce qui se trouve autour de vous, grimpez le long de presque toutes les parois et arrachez des morceaux de terrain pour les lancer, afin de faire rimer « exploration » et « démolition » dans un monde où plus vous détruisez le décor à coups de poings, plus de nouvelles zones souvrent à vous.
 - Préparez-vous pour Donkey Kong Bananza, un tout nouveau jeu daction et daventure en 3D à venir en exclusivité sur Nintendo Switch 2.
+- Incarnez Donkey Kong et pulvérisez presque tout ce qui se trouve autour de vous, grimpez le long de presque toutes les parois et arrachez des morceaux de terrain pour les lancer, afin de faire rimer « exploration » et « démolition » dans un monde où plus vous détruisez le décor à coups de poings, plus de nouvelles zones souvrent à vous.
 - Préparez-vous pour une aventure fracassante pleine de surprises et de bananes dans Donkey Kong Bananza, qui fera son arrivée le 17 juillet sur Nintendo Switch 2.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

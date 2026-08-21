@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSPIRÉ PAR LA TRADITION : Akashi Meisei est un whisky rond et élégant assemblé par la distillerie japonaise Eigashima Un whisky où la tradition japonaise coïncide avec les techniques de production écossaises
-- VIEILLISSEMENT ACCÉLÉRÉ : Le climat spécifique du Japon, les étés chauds et les hivers froids permettent aux whiskies Akashi de bénéficier d’un vieillissement plus rapide, leur conférant complexité et richesse
-- LE SAVOIR-FAIRE JAPONAIS : Assemblé par la distillerie Eigashima, la première à avoir obtenu la licence de distillation au Japon La distillerie s’appuie sur un savoir-faire séculaire acquis dans la production de spiritueux traditionnels japonais tels que l’Umeshu, le Saké ou le Shochu
 - PEUT ÊTRE DÉGUSTÉ DE PLUSIEURS FAÇONS : Peut être dégusté pur ou à la manière japonaise traditionnelle : dans un verre highball avec de l’eau gazeuse et de la glace
+- LE SAVOIR-FAIRE JAPONAIS : Assemblé par la distillerie Eigashima, la première à avoir obtenu la licence de distillation au Japon La distillerie s’appuie sur un savoir-faire séculaire acquis dans la production de spiritueux traditionnels japonais tels que l’Umeshu, le Saké ou le Shochu
+- VIEILLISSEMENT ACCÉLÉRÉ : Le climat spécifique du Japon, les étés chauds et les hivers froids permettent aux whiskies Akashi de bénéficier d’un vieillissement plus rapide, leur conférant complexité et richesse
+- INSPIRÉ PAR LA TRADITION : Akashi Meisei est un whisky rond et élégant assemblé par la distillerie japonaise Eigashima Un whisky où la tradition japonaise coïncide avec les techniques de production écossaises
 - UN WHISKY ÉLÉGANT : Fabriqué à partir de 30% d’orge maltée, Akashi Meisei est vieilli pendant 3 ans en fûts de bourbon Le pourcentage élevé d’orge maltée dans ce mélange apporte plus de complexité et de piquant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

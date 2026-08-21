@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc.
-- Chaussant standard.
-- Tige en cuir et matière synthétique.
-- Doublure textile.
 - Empeigne perforée.
 - Fermeture à lacets.
+- Chaussant standard.
+- Doublure textile.
+- Tige en cuir et matière synthétique.
+- Semelle extérieure en caoutchouc.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2GFBC3D{{</world>}}

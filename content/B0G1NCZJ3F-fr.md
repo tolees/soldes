@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRÈS HAUTE PROTECTION SOLAIRE SPF 50+ : Ce lait solaire offre une protection spf 50+ visage et corps hydrate 24h et protège la peau Fini invisible, sans traces blanches, non gras, non collant
 - PROTECTION SOLAIRE COMPLÈTE : Cette crème solaire protège la peau des UVA, UVB et UVA longs. Cet écran solaire est hypoallergénique, non comédogène, résistant à leau et au sable
 - APPLICATION : Appliquez généreusement lécran solaire sur le visage et/ou le corps 30 minutes avant lexposition. Renouvelez lapplication toutes les 2 heures
-- FORMULE HYDRATANTE 24H : Enrichie aux 3 céramides essentiels, en vitamine E et grâce à la technologie MVE, cette crème solaire renforce la barrière cutanée pendant et après lexposition
 - EXPERTISE CERAVE : Développé avec des dermatologues, le lait solaire CeraVe est adapté à tous types de peaux, même sensibles. Cette crème solaire convient à toute la famille, dès 3 ans
+- FORMULE HYDRATANTE 24H : Enrichie aux 3 céramides essentiels, en vitamine E et grâce à la technologie MVE, cette crème solaire renforce la barrière cutanée pendant et après lexposition
+- TRÈS HAUTE PROTECTION SOLAIRE SPF 50+ : Ce lait solaire offre une protection spf 50+ visage et corps hydrate 24h et protège la peau Fini invisible, sans traces blanches, non gras, non collant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G1NCZJ3F{{</world>}}

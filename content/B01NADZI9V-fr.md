@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Composant certifiés NF
-- Coffret électrique équipé et prêt pour une installation domestique dans un appartement de type T3
-- Équipé de 9 disjoncteurs
 - Livré avec accessoires
+- Coffret électrique équipé et prêt pour une installation domestique dans un appartement de type T3
 - Certifié conforme aux nouvelles disposition de la norme NFC 15-100
+- Équipé de 9 disjoncteurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NADZI9V{{</world>}}

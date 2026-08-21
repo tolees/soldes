@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - POLYVALENTE POUR DIFFÉRENTES APPLICATIONS : Avec les modes de fonctionnement Standard et ECO et une fonction minuterie
-- PUISSANTE POMPE À EAU 18V : Pompe de transfert auto-amorçante avec un débit de 2 800 l/h
-- LIVRÉ AVEC : GTP18V-28
 - ROBUSTE : Supporte les rudes conditions du chantier et permet un changement facile de la turbine
 - PRATIQUE : Filetage extérieur G3/4" pour les raccords de tuyaux
+- LIVRÉ AVEC : GTP18V-28
+- PUISSANTE POMPE À EAU 18V : Pompe de transfert auto-amorçante avec un débit de 2 800 l/h
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0G65D6D2Z{{</world>}}

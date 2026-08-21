@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- EMBARQUE POUR UNE AVENTURE QUI RÉCHAUFFE LE CŒUR : Bluey est en train de dessiner quand Papa lui chipe soudainement le Stylo dOr dont elle a besoin ! Transportée dans le monde dessiné à la main de Bluey, Maman conçoit les contrées, Papa débarque sur son vélo cool en tant que roi autoproclamé Goldie Cornes, et Bingo se transforme en son alter ego klaxon-joyeux — Bingooie ! Et les voilà partis pour une quête palpitante à la recherche du Stylo dOr – avec des tonnes de fun en chemin.
 - UNE NOUVELLE HISTOIRE DE BLUEY : Plonge dans un jeu daventure porté par une toute nouvelle histoire du créateur de la série ! Découvre lhumour et la tendresse que Bluey apporte dans ce nouveau jeu fun pour toute la famille – avec une histoire de Joe Brumm.
 - DU FUN POUR TOUS : Tout comme la série animée, la quête de Bluey pour le Stylo dOr fera éclater de rire et encouragera les joueurs de tous âges à réfléchir et à explorer à travers le jeu.
-- DÉCOUVRE DES MONDES DESSINÉS À LA MAIN : Explore neuf niveaux regorgeant de montagnes enneigées, de plages dorées et enchanteresses, de forêts verdoyantes et luxuriantes – et découvre loutback australien !
 - PARS DANS DES QUÊTES PLEINES DE FUN : Découvre des trésors cachés, résous des énigmes et trouve des mini-quêtes espiègles pendant que tu glisses, voles et skates à travers toutes sortes de défis et daventures !
-- EMBARQUE POUR UNE AVENTURE QUI RÉCHAUFFE LE CŒUR : Bluey est en train de dessiner quand Papa lui chipe soudainement le Stylo dOr dont elle a besoin ! Transportée dans le monde dessiné à la main de Bluey, Maman conçoit les contrées, Papa débarque sur son vélo cool en tant que roi autoproclamé Goldie Cornes, et Bingo se transforme en son alter ego klaxon-joyeux — Bingooie ! Et les voilà partis pour une quête palpitante à la recherche du Stylo dOr – avec des tonnes de fun en chemin.
+- DÉCOUVRE DES MONDES DESSINÉS À LA MAIN : Explore neuf niveaux regorgeant de montagnes enneigées, de plages dorées et enchanteresses, de forêts verdoyantes et luxuriantes – et découvre loutback australien !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FXMPWPV2{{</world>}}

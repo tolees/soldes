@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMMENT LUTILISER ? Répartir uniformément sur cheveux humides, en travaillant par sections. Selon le résultat désiré, détendre ou froisser les boucles, puis sécher comme à votre habitude. Réappliquer sur cheveux secs si nécessaire.
+- HYDRATE ET DÉFINIT LES BOUCLES : Les boucles sont hydratées et redéfinies jusqu’à 72 h avec une thermoprotection jusqu’à 230 °C pour un style parfaitement contrôlé.
+- FORMULE A L’HUILE DE JOJOBA & SQUALANE : La formule vegan de cette crème est enrichie en huile de jojoba et squalane pour nourrir intensément la fibre capillaire tout en respectant les boucles.
 - ADN POWERED BY SCIENCE : Depuis 1960, Redken place la science au cœur de sa conception produit pour des soins capillaires professionnels ciblés pour chacun et une empreinte visiblement plus durable.
 - CREME DE DEFINITION THERMOPROTECTRICE POUR CHEVEUX BOUCLES : Cette crème sans rinçage Redken est destinée aux cheveux bouclés, frisés et crépus. Elle hydrate, dompte les frisottis et aide à sublimer les boucles au quotidien.
-- FORMULE A L’HUILE DE JOJOBA & SQUALANE : La formule vegan de cette crème est enrichie en huile de jojoba et squalane pour nourrir intensément la fibre capillaire tout en respectant les boucles.
-- HYDRATE ET DÉFINIT LES BOUCLES : Les boucles sont hydratées et redéfinies jusqu’à 72 h avec une thermoprotection jusqu’à 230 °C pour un style parfaitement contrôlé.
+- COMMENT LUTILISER ? Répartir uniformément sur cheveux humides, en travaillant par sections. Selon le résultat désiré, détendre ou froisser les boucles, puis sécher comme à votre habitude. Réappliquer sur cheveux secs si nécessaire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D1GQBWV2{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le gyroscope 6 axes permet d’obtenir une distance de décollage ultrafaible pour un suivi plus précis lorsque vous repositionnez la souris, et il est programmable avec des mouvements d’inclinaison afin que vous puissiez mapper les commandes du jeu - telles que le rechargement ou le changement d’arme - comme de simples mouvements de souris
-- Les switchs OMRON optiques pour les clics gauche et droit génèrent des réactions ultrarapides et précises, et sont garantis pour 70 millions de clics afin de résister à des années d’usage rigoureux
-- Affichant une résolution native exceptionnelle de 26 000 DPI, un suivi (IPS) de 650 pouces par seconde et une accélération allant jusqu’à 50 G, le capteur optique CORSAIR MARKSMAN capture avec précision chaque mouvement de souris, personnalisable par paliers d’1 DPI.
 - Le châssis en aluminium anodisé emblématique de la M65 RGB ULTRA garantit une longue durée de vie avec une forme familière.
+- Les switchs OMRON optiques pour les clics gauche et droit génèrent des réactions ultrarapides et précises, et sont garantis pour 70 millions de clics afin de résister à des années d’usage rigoureux
+- Le gyroscope 6 axes permet d’obtenir une distance de décollage ultrafaible pour un suivi plus précis lorsque vous repositionnez la souris, et il est programmable avec des mouvements d’inclinaison afin que vous puissiez mapper les commandes du jeu - telles que le rechargement ou le changement d’arme - comme de simples mouvements de souris
+- Affichant une résolution native exceptionnelle de 26 000 DPI, un suivi (IPS) de 650 pouces par seconde et une accélération allant jusqu’à 50 G, le capteur optique CORSAIR MARKSMAN capture avec précision chaque mouvement de souris, personnalisable par paliers d’1 DPI.
 - La technologie d’hypertraitement CORSAIR AXON enregistre et transmet vos mouvements et clics jusqu’à huit fois plus rapidement que les souris gaming traditionnelles grâce à un taux d’interrogation natif de 8 000 Hz
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dos en laiton massif pour une rigidité maximale
 - Idéal pour les joints à tenon, les moulures, les goujons, les corniches, les architraves et les plinthes
 - Coupe fine - action de coupe lisse et nette
-- Poignée en bois confortable incorporant 3 rivets bifurqués
-- Dos en laiton massif pour une rigidité maximale
-- 10 pouces x 15 points par pouce
 - Une scie à découper fine à utiliser le long du grain et à travers le grain
+- 10 pouces x 15 points par pouce
+- Poignée en bois confortable incorporant 3 rivets bifurqués
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004QN55OS{{</world>}}

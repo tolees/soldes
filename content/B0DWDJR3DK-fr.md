@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadeau magique pour un garçon ou une fille dès 9 ans, fan de Harry Potter – Ce jeu de construction est un fantastique cadeau d’anniversaire pour tous les jeunes sorciers, sorcières et moldus à partir de 9 ans, passionné(s) par la saga
-- Fonction de rétrofriction – Le livre est doté de roues cachées et d’une fonction de rétrofriction : placez-le sur une surface plane, tirez-le en arrière, lâchez-le et regardez-le s’enfuir à toute vitesse avec une bouche mordant tout sur son passage
+- Une vaste gamme – Avec les sets LEGO Harry Potter à collectionner (vendus séparément), les jeunes sorciers, sorcières et moldus rejouent des scènes culte de la saga, inventent leurs propres histoires ou exposent des modèles détaillés
 - Personnage Harry Potter – Une fois la construction terminée, exposez le livre à côté de la minifigurine LEGO de Neville Londubat tenant une version miniature du Monstrueux livre des monstres
 - Aide à la construction – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent zoomer, faire pivoter les maquettes en 3D, suivre leur progression et sauvegarder leurs sets
-- Détails & accessoires authentiques – Ce set offre un défi de construction amusant permettant aux enfants de recréer les détails en fourrure de la couverture du livre dans le style LEGO, ainsi que ses yeux, ses dents et ses crocs
 - Jeu de construction de livre de sorciers pour garçon ou fille dès 9 ans – Créez un Monstrueux livre de monstres en briques qui mord avec ce fantastique & amusant set LEGO Harry Potter
-- Une vaste gamme – Avec les sets LEGO Harry Potter à collectionner (vendus séparément), les jeunes sorciers, sorcières et moldus rejouent des scènes culte de la saga, inventent leurs propres histoires ou exposent des modèles détaillés
+- Détails & accessoires authentiques – Ce set offre un défi de construction amusant permettant aux enfants de recréer les détails en fourrure de la couverture du livre dans le style LEGO, ainsi que ses yeux, ses dents et ses crocs
+- Fonction de rétrofriction – Le livre est doté de roues cachées et d’une fonction de rétrofriction : placez-le sur une surface plane, tirez-le en arrière, lâchez-le et regardez-le s’enfuir à toute vitesse avec une bouche mordant tout sur son passage
+- Cadeau magique pour un garçon ou une fille dès 9 ans, fan de Harry Potter – Ce jeu de construction est un fantastique cadeau d’anniversaire pour tous les jeunes sorciers, sorcières et moldus à partir de 9 ans, passionné(s) par la saga
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDJR3DK{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LONGUE DUREE : La poignée, la gâchette et la valve sont en plastique acétal particulièrement robuste, les joints sont en nitrile Toutes les pièces sont spécialement conçues pour une longue durée de vie
 - LIVRAISON : 1x HAZET 9040P-4 Pistolet de soufflage | Tube courbé de 100mm de long et 8mm de diamètre | Pression de service recommandée Pression de service : 6 bar, Domaine dapplication : -10° à 80° C, Volume : 85,4 dB (A)
-- QUALITÉ : HAZET est lun des principaux fabricants doutils de qualité destinés à un usage professionnel et dispose de plus de 155 ans dexpérience dans le développement et la production
 - COMPACT : le pistolet à air comprimé est idéal pour éliminer les salissures dans les endroits difficiles daccès Il dispose dun tube courbé de 100 mm et dune buse Venturi spéciale 
 - PRISE EN MAIN : la poignée isolante permet une prise en main confortable du pistolet à air comprimé Le dos de la poignée a été plié de manière ergonomique, de sorte quil épouse littéralement la forme de la main 
+- LONGUE DUREE : La poignée, la gâchette et la valve sont en plastique acétal particulièrement robuste, les joints sont en nitrile Toutes les pièces sont spécialement conçues pour une longue durée de vie
+- QUALITÉ : HAZET est lun des principaux fabricants doutils de qualité destinés à un usage professionnel et dispose de plus de 155 ans dexpérience dans le développement et la production
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B075X64YYJ{{</world>}}

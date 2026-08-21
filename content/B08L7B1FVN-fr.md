@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle côtelée.
 - Pointe arrondie douce.
 - Contrefort de talon renforcé.
-- Semelle côtelée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L7B1FVN{{</world>}}

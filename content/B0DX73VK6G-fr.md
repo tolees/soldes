@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu – Le kit de drainage GE-DP 7535 N LL ECO Einhell comprend 1 adaptateur universel, 1 flexible à gaine tissée de 10 m avec 3 raccords rapides, 1 connecteur rapide et 1 caisson en plastique.
-- Performance – Avec son moteur de 750 W, le kit de drainage GE-DP 7535 N LL ECO Einhell peut atteindre un débit de refoulement max. de 18 500 l/h et une hauteur de refoulement max. de 9 m.
-- Aide en cas d’inondation – Le kit de drainage est opérationnel très rapidement en cas d’inondation. La pompe combinée est adaptée aux eaux claires et chargées.
-- 2-en-1 – La pompe peut être utilisée aussi bien pour les eaux chargées (diamètre de particules jusqu’à 35 mm) que pour les eaux claires jusqu’à une hauteur d’eau résiduelle de 1 mm.
-- Niveau d’aspiration – La pompe permet l’aspiration à plat d’eaux claires jusqu’à une hauteur d’eau résiduelle de 1 mm. Le niveau d’aspiration se règle sur 4 positions jusqu’à 35 mm.
-- Mode ÉCO – Le mode ÉCO de la pompe pour eaux claires et eaux chargées permet un débit de refoulement élevé pour une consommation d’énergie moindre.
 - Raccordements – Le raccord rapide permet de changer rapidement le flexible et l’adaptateur universel est compatible avec des tuyaux de 25/38 mm et un filetage extérieur de 33,3 mm (1").
+- Mode ÉCO – Le mode ÉCO de la pompe pour eaux claires et eaux chargées permet un débit de refoulement élevé pour une consommation d’énergie moindre.
+- 2-en-1 – La pompe peut être utilisée aussi bien pour les eaux chargées (diamètre de particules jusqu’à 35 mm) que pour les eaux claires jusqu’à une hauteur d’eau résiduelle de 1 mm.
+- Aide en cas d’inondation – Le kit de drainage est opérationnel très rapidement en cas d’inondation. La pompe combinée est adaptée aux eaux claires et chargées.
+- Niveau d’aspiration – La pompe permet l’aspiration à plat d’eaux claires jusqu’à une hauteur d’eau résiduelle de 1 mm. Le niveau d’aspiration se règle sur 4 positions jusqu’à 35 mm.
+- Performance – Avec son moteur de 750 W, le kit de drainage GE-DP 7535 N LL ECO Einhell peut atteindre un débit de refoulement max. de 18 500 l/h et une hauteur de refoulement max. de 9 m.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DX73VK6G{{</world>}}

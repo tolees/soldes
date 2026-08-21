@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Instructions de montage détaillées étape par étape pour un montage facile (français non garanti).
-- Capacité : jusquà 6 personnes.
-- Dimensions : 77 x 110-158 x 110 cm (hauteur x largeur x profondeur).
-- Environ 5 cm dépaisseur. Pieds métalliques de 6 x 2 cm couleur graphite.
-- Couleur : nordique.
 - Charnières métalliques pour lextension. Système d’extension espagnol. La rallonge est stockée à lintérieur de la table par des traverses de soutien.
+- Dimensions : 77 x 110-158 x 110 cm (hauteur x largeur x profondeur).
+- Capacité : jusquà 6 personnes.
+- Couleur : nordique.
+- Environ 5 cm dépaisseur. Pieds métalliques de 6 x 2 cm couleur graphite.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZRV8HC6{{</world>}}

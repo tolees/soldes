@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des basses puissantes avec une faible distorsion : le design breveté Power Port de Polk offre plus de puissance et moins de distorsion grâce à une surface plus large et un flux dair plus régulier Associé au puissant woofer de 6,5" de lES20, cela signifie des basses sans effort
-- Profitez de vos films, de votre musique et de vos jeux avec un son pleine gamme haute résolution grâce à votre système audio home cinéma ou votre système hi-fi
 - Puissance de sortie: 150.0 W
+- Profitez de vos films, de votre musique et de vos jeux avec un son pleine gamme haute résolution grâce à votre système audio home cinéma ou votre système hi-fi
+- Des basses puissantes avec une faible distorsion : le design breveté Power Port de Polk offre plus de puissance et moins de distorsion grâce à une surface plus large et un flux dair plus régulier Associé au puissant woofer de 6,5" de lES20, cela signifie des basses sans effort
 - ÉCOUTEZ PLUS DE DÉTAILS : le tweeter à dôme en térylène certifié Hi-Res Audio de lES20 offre des aigus cristallins (40+ kHz) pour la musique haute résolution provenant de services tels que Apple Music, Tidal, Amazon Music HD, Qobuz et Spotify HiFi, ainsi que les bandes sonores des derniers films Ultra HD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

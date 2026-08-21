@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personnalisation poussée: Avec KEYCONTROL, les joueurs peuvent programmer jusquà 15 fonctions par touche pour personnaliser l’expérience de jeu et créer un centre de contrôle personnalisé.
-- Le contrôle au bout des doigts: Trois touches de raccourci permettent daccéder rapidement à la technologie sans fil LIGHTSPEED, à la connectivité Bluetooth et au mode jeu.
-- Contacts linéaires GL Red avec frappe souple: Les contacts mécaniques GL ultra-plats de ce clavier gaming compact sont lubrifiés en usine pour une sensation plus douce, un déclenchement rapide et une frappe précise.
 - Bénéficiez dune vitesse ultra-rapide et fiable de 1 ms avec la technologie sans fil LIGHTSPEED et le couplage 2:1 avec une souris gaming sans fil compatible sur un seul port USB.
-- 36 heures de jeu: Continuez à jouer sans fil avec une autonomie allant jusqu’à 36 heures. L’autonomie varie en fonction des conditions d’utilisation.
-- Touches en PBT: Les touches en PBT à double frappe offrent plus de durabilité pour les moments de jeu les plus intenses et sont aussi belles que performantes grâce à leur conception anti dépôts gras et à leur toucher de qualité supérieure.
 - Clavier gaming mécanique: Le Logitech G515 LIGHTSPEED TKL présente un profil ultra-plat sans pavé numérique, avec une connectivité à trois modes via le transfert de données sans fil LIGHTSPEED, Bluetooth ou filaire.
+- Contacts linéaires GL Red avec frappe souple: Les contacts mécaniques GL ultra-plats de ce clavier gaming compact sont lubrifiés en usine pour une sensation plus douce, un déclenchement rapide et une frappe précise.
+- Le contrôle au bout des doigts: Trois touches de raccourci permettent daccéder rapidement à la technologie sans fil LIGHTSPEED, à la connectivité Bluetooth et au mode jeu.
+- Touches en PBT: Les touches en PBT à double frappe offrent plus de durabilité pour les moments de jeu les plus intenses et sont aussi belles que performantes grâce à leur conception anti dépôts gras et à leur toucher de qualité supérieure.
 - LIGHTSYNC RVB: Accédez à près de 16,8 millions de couleurs pour personnaliser votre clavier gaming RVB, créer des thèmes et synchroniser dautres équipements Logitech G dans le G HUB.
+- 36 heures de jeu: Continuez à jouer sans fil avec une autonomie allant jusqu’à 36 heures. L’autonomie varie en fonction des conditions d’utilisation.
+- Personnalisation poussée: Avec KEYCONTROL, les joueurs peuvent programmer jusquà 15 fonctions par touche pour personnaliser l’expérience de jeu et créer un centre de contrôle personnalisé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D3HL36NC{{</world>}}

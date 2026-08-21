@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - APPLICATION : Appliquez une couche de la base Infinite Shine Primer, suivie de deux couches fines de vernis, puis terminez avec une couche de top coat Infinite Shine Gloss.
-- VERNIS LONGUE TENUE : Offrez à vos ongles l’éclat d’un fini impeccable, avec ce vernis à séchage rapide, longue tenue et résistant aux éclats, aux taches et aux rayures. Parfait en toutes occasions.
 - OPI : Pour les professionnels du salon et la manucure à la maison, pour des couleurs audacieuses et des ongles sublimés — un cadeau à offrir ou à s’offrir.
-- VERNIS À ONGLES : Profitez de la tenue d’une manucure gel, sans les contraintes ! Grâce à la technologie gel pré-polymérisé, bénéficiez jusqu’à 11 jours de tenue avec la facilité d’application d’un vernis OPI classique.
 - EFFET GEL : L’effet d’un vernis gel avec la simplicité d’un vernis classique, sans lampe UV — couleur intense qui ne ternit pas et application uniforme grâce au pinceau OPI Pro-Wide.
+- VERNIS À ONGLES : Profitez de la tenue d’une manucure gel, sans les contraintes ! Grâce à la technologie gel pré-polymérisé, bénéficiez jusqu’à 11 jours de tenue avec la facilité d’application d’un vernis OPI classique.
+- VERNIS LONGUE TENUE : Offrez à vos ongles l’éclat d’un fini impeccable, avec ce vernis à séchage rapide, longue tenue et résistant aux éclats, aux taches et aux rayures. Parfait en toutes occasions.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRG38V7K{{</world>}}

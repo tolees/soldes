@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POSITION DE LA POSITION DE LA POSITION DE LA POIGNÉE GAUCHE : la poignée ergonomique et compacte courbée et létoile Le système dattache Everlast assure une meilleure durabilité à chaque lancer de la ligne.
-- Caractéristiques de la traînée : fibre de carbone Star Drag, max : 9 kg. Le système de frein multi-disques vous permet de régler plus facilement pendant un combat. Capacité mono yd/lb : 135/10 110/12 80/17. Capacité de tresse : 135/20, 105/30, 75/50.
 - Construction légère : la bobine du moulinet Max Digital Line Counter Baitcast est fabriquée à partir daluminium usiné, ce qui offre une résistance sans ajouter de poids excessif. Ce moulinet Baitcast est à la fois durable et léger avec 243,8 g.
 - Taux de récupération : récupère 66 cm de ligne à chaque tour de manivelle. Ratio de transmission de 6,4:1. Fabriqué avec les engrenages en laiton Dura pour prolonger la durée de vie de votre moulinet.
 - 5 roulements au total : 4 roulements à billes plus 1 roulement anti-retour instantané pour un fonctionnement fluide pour toute expérience de pêche. Le compteur de ligne numérique éclairé mesure avec précision la ligne pour une précision extrême de pêche à la traîne et/ou de descente.
+- Caractéristiques de la traînée : fibre de carbone Star Drag, max : 9 kg. Le système de frein multi-disques vous permet de régler plus facilement pendant un combat. Capacité mono yd/lb : 135/10 110/12 80/17. Capacité de tresse : 135/20, 105/30, 75/50.
+- POSITION DE LA POSITION DE LA POSITION DE LA POIGNÉE GAUCHE : la poignée ergonomique et compacte courbée et létoile Le système dattache Everlast assure une meilleure durabilité à chaque lancer de la ligne.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DDDK9YR{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtre Inox amovible pour thé et tisanes
-- Puissance 900-1100W; AC 220-240V-50 / 60Hz dalimentation
-- Lumière LED pour léclairage
-- Pichet en verre gradué; Capacité 1L
-- Résistance cachée
 - Commutateur de commutation de libération automatique
+- Lumière LED pour léclairage
+- Filtre Inox amovible pour thé et tisanes
+- Résistance cachée
+- Puissance 900-1100W; AC 220-240V-50 / 60Hz dalimentation
+- Pichet en verre gradué; Capacité 1L
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HRY69HH{{</world>}}

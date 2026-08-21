@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Verseuse isotherme de capacité de 1 L, soit 12 tasses
-- Inclus une cuillère dosette pratique - se range sur la machine. La mesure à café intégrée vous assure un dosage parfait à chaque fois
 - Système stop goutte pour se servir avant la fin du cycle
 - Technologie ‘WhirlTech’ – distribution de l’eau en tourbillon pour un maximum d’arômes et un meilleur goût du café moulu
+- Inclus une cuillère dosette pratique - se range sur la machine. La mesure à café intégrée vous assure un dosage parfait à chaque fois
 - Design & finition élégantes tout en acier brossé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande emblématique à lintérieur du col
 - Manches courtes
-- Branding Tommy Hilfiger
-- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Popeline de pur coton
+- Branding Tommy Hilfiger
+- Bande emblématique à lintérieur du col
+- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Col boutonné
 
 [🛒 Achète-le!!]({{< param buyurl >}})

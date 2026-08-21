@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Light Fusion 400】50 Mpx, Capteur de 1/2,88 pouce, Super pixels 4 en 1 de 1,22 µm, Objectif 5P, Clarté des portraits améliorée par lIA, Assistant créatif IA : outils dédition dimages
-- 【Performances améliorées】Snapdragon 6 Gen 3, jusquà 16 Go de RAM avec extension de mémoire, jusquà 1 To de stockage extensible
-- 【Design incurvé 3D léger et résistant】Design ultrafin de 7,35 mm digne dun flagship, batterie silicium-carbone longue durée - conserve plus de 80 % de sa capacité après 1 600 cycles
-- 【Écran haut de gamme haute luminosité protégeant les yeux】Écran Flow AMOLED vibrant de 6,77", taux de rafraîchissement élevé pouvant atteindre 120Hz, profondeur de couleur : 12 bits, plus de 68,7 milliards de couleurs, large gamme de couleurs DCI-P3
 - 【Haut-parleurs stéréo à haut volume】Augmentation du volume de 300%, prise en charge du haut volume dans tous les scénarios, conception à deux haut-parleurs stéréo, certifications audio
+- 【Écran haut de gamme haute luminosité protégeant les yeux】Écran Flow AMOLED vibrant de 6,77", taux de rafraîchissement élevé pouvant atteindre 120Hz, profondeur de couleur : 12 bits, plus de 68,7 milliards de couleurs, large gamme de couleurs DCI-P3
+- 【Performances améliorées】Snapdragon 6 Gen 3, jusquà 16 Go de RAM avec extension de mémoire, jusquà 1 To de stockage extensible
+- 【Light Fusion 400】50 Mpx, Capteur de 1/2,88 pouce, Super pixels 4 en 1 de 1,22 µm, Objectif 5P, Clarté des portraits améliorée par lIA, Assistant créatif IA : outils dédition dimages
+- 【Design incurvé 3D léger et résistant】Design ultrafin de 7,35 mm digne dun flagship, batterie silicium-carbone longue durée - conserve plus de 80 % de sa capacité après 1 600 cycles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0G269WF6V{{</world>}}

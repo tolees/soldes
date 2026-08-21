@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fluide Hydraulique, Liquide Hydraulique:
 - MANNOL Huile hydraulique
 - Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
+- Fluide Hydraulique, Liquide Hydraulique:
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00NP40XVE{{</world>}}

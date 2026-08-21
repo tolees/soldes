@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DENTRETIEN : Il est recommandé de laver le jean en cycle délicat à 30 °C et de le repasser jusquà 110 °C maximum
-- CASUAL & COOL : Les jeans à teneur en stretch sont particulièrement confortables au quotidien et peuvent être idéalement combinés avec des hauts décontractés
-- REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
-- REMARQUE : la coupe emblématique REPLAY dispose de 5 poches pratiques et dune braguette zippée classique;Le jean slim fit sadapte idéalement grâce à sa taille normale et sa jambe légèrement fuselée
 - AVEC POWER STRETCH : Le jean est comme une seconde peau grâce au matériau Power Stretch;Le tissu doux assure un confort optimal et un ajustement idéal, quelle que soit la durée pendant laquelle vous portez le pantalon
+- CASUAL & COOL : Les jeans à teneur en stretch sont particulièrement confortables au quotidien et peuvent être idéalement combinés avec des hauts décontractés
+- REMARQUE : la coupe emblématique REPLAY dispose de 5 poches pratiques et dune braguette zippée classique;Le jean slim fit sadapte idéalement grâce à sa taille normale et sa jambe légèrement fuselée
+- CONSEILS DENTRETIEN : Il est recommandé de laver le jean en cycle délicat à 30 °C et de le repasser jusquà 110 °C maximum
+- REPLAY est depuis 40 ans lune des principales marques italiennes de denim haut de gamme et de style de vie pour hommes et femmes;La marque est synonyme dinnovation, dauthenticité et met davantage laccent sur la durabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082DLW3V7{{</world>}}

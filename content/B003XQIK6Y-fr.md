@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les batteries restent opérationnelles pendant au moins 3 ans
-- Pile(2x) R20 D
 - Les batteries Philips ZnC contiennent 0 % de métaux lourds nocifs
+- Les batteries restent opérationnelles pendant au moins 3 ans
 - Le chlorure de zinc de haute qualité garantit une longue durée de vie
+- Pile(2x) R20 D
 - Sélection de couleurs malheureusement pas possible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

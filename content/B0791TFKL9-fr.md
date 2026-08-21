@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Convient au porte-vélos Thule VeloSpace XT pour 3 vélos.
-- Montage aisé du vélo grâce au bras de fixation amovible avec molette verrouillable.
 - Permet de transporter un vélo en plus de votre coffre de rangement Thule BackSpace XT.
 - À utiliser avec le Thule VeloSpace XT Bike Adapter.
+- Montage aisé du vélo grâce au bras de fixation amovible avec molette verrouillable.
 - Bike Arm compatible avec le porte-vélo Velospace XT 3 pour transporter 1 vélo en plus du coffre BackSpace XT
 
 [🛒 Achète-le!!]({{< param buyurl >}})

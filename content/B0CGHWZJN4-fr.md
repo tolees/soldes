@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse Entirement Variable : La commande de vitesse entièrement variable de 5.000 à 35.000 tr/min permet une précision et un contrôle maximum dans de nombreuses applications différentes.
 - Garantie : 2 ans de garantie par défaut. Obtenez 1 an de garantie en plus en enregistrant votre outil sur MyDremel
 - Confort : Ergonomie améliorée avec un meilleur positionnement des boutons et une prise en main confortable anti-dérapante pour une manipulation aisée et un contrôle supérieur.
+- Vitesse Entirement Variable : La commande de vitesse entièrement variable de 5.000 à 35.000 tr/min permet une précision et un contrôle maximum dans de nombreuses applications différentes.
 - Puissance Portable : La batterie haute puissance de 12V 2Ah permet une grande autonomie et a été testée pour résister aux applications les plus agressives.
 - EZ Twist : Avec un embout EZ-Twist pour un changement daccessoires plus rapide et plus facile, parfait pour les accessoires Dremel MAX durables et de haute performance.
 

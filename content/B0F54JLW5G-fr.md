@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réparabilité 15 ans, Garantie 2 ans
 - Centrale vapeur dotée d’une technologie haute pression pour une efficacité professionnelle
 - Système exclusif double protection avec le Protect System qui transforme les gouttes et les tâches en vapeur pour une protection anti-tâches ; système Anti-Calc pour des performances vapeur longue durée
+- Réparabilité 15 ans, Garantie 2 ans
 - Gain de temps à travers la puissance vapeur haute pression ; vapeur boost intense jusquà 490 g/minute pour éliminer les plis épais des vêtements
 - Vapeur continue jusquà 140 g/minute pour un repassage parfait
 

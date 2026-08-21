@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des heures de jeu créatif – Le jouet LEGO inclut la tête de R7-D4, à fixer sur le fuselage devant le cockpit, pour que le fidèle droïde de Star Wars puisse accompagner Plo Koon dans ses missions
+- Jeu de construction LEGO Star Wars miniature pour garçon ou fille dès 6 ans – Initiez les jeunes enfants aux aventures de Star Wars : The Clone Wars avec cette version LEGO Star Wars Microfighters rapide à construire du chasseur Jedi de Plo Koon
 - Une gamme à explorer – Ce set fait partie d’une collection amusante de Microfighters LEGO Star Wars rapides à construire (vendus séparément), qui peuvent être combinés pour enrichir le jeu interactif et laction
-- Cadeau Star Wars pour garçon, fille et fans de 6 ans et plus – Ce vaisseau spatial LEGO Star Wars à construire constitue un beau cadeau danniversaire à offrir aux enfants qui aiment les jeux créatifs sur le thème de la saga
 - Sets LEGO Star Wars collector – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux adultes fans de Star Wars de rejouer des scènes culte, d’imaginer de nouvelles aventures ou d’exposer les maquettes construites
 - Toute première maquette à construire LEGO Star Wars Microfighters d’un chasseur Jedi – Ce chasseur Jedi miniature aux couleurs de Plo Koon est doté d’un cockpit pour une minifigurine LEGO et de 2 fusils à tenons
-- Jeu de construction LEGO Star Wars miniature pour garçon ou fille dès 6 ans – Initiez les jeunes enfants aux aventures de Star Wars : The Clone Wars avec cette version LEGO Star Wars Microfighters rapide à construire du chasseur Jedi de Plo Koon
+- Des heures de jeu créatif – Le jouet LEGO inclut la tête de R7-D4, à fixer sur le fuselage devant le cockpit, pour que le fidèle droïde de Star Wars puisse accompagner Plo Koon dans ses missions
 - Minifigurine LEGO de Plo Koon – Ce fantastique set LEGO inclut Plo Koon, le personnage de Star Wars, avec un sabre laser bleu qui se clipse sous le Microfighter
+- Cadeau Star Wars pour garçon, fille et fans de 6 ans et plus – Ce vaisseau spatial LEGO Star Wars à construire constitue un beau cadeau danniversaire à offrir aux enfants qui aiment les jeux créatifs sur le thème de la saga
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDJVSVG{{</world>}}

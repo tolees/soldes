@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en Allemagne
-- Conviennent pour le béton, la maçonnerie et la brique silico-calcaire
-- Progression de travail agressive et fonctionnement silencieux grâce à l’agencement asymétrique des dents
-- Composants inclus : un foret à béton SDS-max
 - Diamètre : 68 millimètres
 - Dimensions: 68x160x290mm
+- Conviennent pour le béton, la maçonnerie et la brique silico-calcaire
+- Composants inclus : un foret à béton SDS-max
+- Progression de travail agressive et fonctionnement silencieux grâce à l’agencement asymétrique des dents
+- Fabriqué en Allemagne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000XIZ5RC{{</world>}}

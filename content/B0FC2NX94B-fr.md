@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capteurs : Capteur de mouvement et de lumière du jour pour un contrôle automatique ; Trois modes de fonctionnement permettent un éclairage flexible et adapté aux besoins
 - Assemblage : boîtier en acier inoxydable facile à assembler ; résistant aux influences météorologiques; idéal pour une utilisation extérieure à long terme
-- Classe de protection : IP44 protège contre la poussière et les projections deau ; convient aux espaces extérieurs protégés tels que les balcons, les terrasses, les entrées ou les zones couvertes
 - Ce produit est un produit d’éclairage. Les produits d’éclairage sont des luminaires qui peuvent être démontés pour vérifier séparément la ou les sources lumineuses qu’ils contiennent. Ce produit contient une source lumineuse de classe énergétique G
+- Capteurs : Capteur de mouvement et de lumière du jour pour un contrôle automatique ; Trois modes de fonctionnement permettent un éclairage flexible et adapté aux besoins
 - Conception : Lampe à énergie solaire avec boîtier robuste en acier inoxydable ; design moderne pour les espaces extérieurs tels que les entrées, les terrasses ou les balcons abrités
+- Classe de protection : IP44 protège contre la poussière et les projections deau ; convient aux espaces extérieurs protégés tels que les balcons, les terrasses, les entrées ou les zones couvertes
 - Source lumineuse : Intégrée et non remplaçable ; La technologie LED fournit un éclairage économe en énergie avec une longue durée de vie et peu dentretien
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SET DE CÉLÉBRATION LEGO NINJAGO – Le jeu 15e anniversaire - La forge des quatre armes pour garçon ou fille dès 14 ans est une fidèle réplique du premier lieu de l’épisode pilote de la série TV
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- CADEAU POUR ADOLESCENT.E.S – Cette maquette NINJAGO, célébrant le 15e anniversaire et incluant un lieu emblématique de la série, est un superbe cadeau danniversaire pour les ados dès 14 ans & les fans
-- 6 MINIFIGURINES LEGO NINJAGO – Ce kit, mettant en scène un bâtiment, inclut des personnages de la série TV : Maya, Ray, Nya, Kai forgeron, Maître Wu et la minifigurine collector du Maître élémentaire de la Terre
 - MAQUETTE DE FORGE – La maison LEGO inclut un atelier avec des outils ; le set souvre en deux pour révéler une chambre & une forge remplies de détails de la série
+- CADEAU POUR ADOLESCENT.E.S – Cette maquette NINJAGO, célébrant le 15e anniversaire et incluant un lieu emblématique de la série, est un superbe cadeau danniversaire pour les ados dès 14 ans & les fans
 - TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection de jouets permet aux enfants et aux fans de ninjas de s’évader dans un monde fantastique immersif, pour laisser libre cours à leur imagination et s’amuser avec leurs héros ninjas
+- SET DE CÉLÉBRATION LEGO NINJAGO – Le jeu 15e anniversaire - La forge des quatre armes pour garçon ou fille dès 14 ans est une fidèle réplique du premier lieu de l’épisode pilote de la série TV
+- 6 MINIFIGURINES LEGO NINJAGO – Ce kit, mettant en scène un bâtiment, inclut des personnages de la série TV : Maya, Ray, Nya, Kai forgeron, Maître Wu et la minifigurine collector du Maître élémentaire de la Terre
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - ACCESSOIRES AMUSANTS – Ce jouet ninja, célébrant les Maîtres du Spinjitzu, inclut des cartes cachées derrière des supports de casques & de cagoules ; les enfants peuvent pousser un panneau pour révéler la carte secrète des armes d’or
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA PALETTE COMPLETE DE COULEURS : cet étui carton contient toutes les couleurs existantes de STABILO point 88.
-- FEUTRE LONGUE DUREE : le stylo-feutre point 88 offre jusquà 1 000 mètres decriture. La pointe baguée est idéale pour tracer ou souligner avec une règle
-- FEUTRE ECORESPONSABLE : le feutre fin STABILO point 88 est certifié ISCC Plus. Le corps du stylo et son capuchon sont fabriqués avec 96% de plastique biosourcé et certifié selon la norme ISCC Plus (bilan de masse).
-- STYLO FEUTRE CULTE : Fabriqué en Allemagne, STABILO point 88 est le stylo parfait des lyccéens,des étudiants, des profesionnels et des amateurs de dessin. Grace à son corps hexagonal fin, il se range facilement dans toutes les trousses
-- 65 COULEURS DISPONIBLES : classiques, pastel, vives ou fluo
 - STYLO FEUTRE A POINTE FINE : le stylo feutre STABILO point 88 possède une pointe en nylon gainée de métal qui assure une excellente glisse sur le papier. La pointe aiguille au tracé 0,4 mm fait du stylo point 88 le feutre idéal pour lécriture fine et les dessins et tracés précis. Avec point 88, vous bénéficiez de la précision dun stylo bille avec lintensité dun feutre.
+- LA PALETTE COMPLETE DE COULEURS : cet étui carton contient toutes les couleurs existantes de STABILO point 88.
+- STYLO FEUTRE CULTE : Fabriqué en Allemagne, STABILO point 88 est le stylo parfait des lyccéens,des étudiants, des profesionnels et des amateurs de dessin. Grace à son corps hexagonal fin, il se range facilement dans toutes les trousses
+- FEUTRE LONGUE DUREE : le stylo-feutre point 88 offre jusquà 1 000 mètres decriture. La pointe baguée est idéale pour tracer ou souligner avec une règle
+- 65 COULEURS DISPONIBLES : classiques, pastel, vives ou fluo
+- FEUTRE ECORESPONSABLE : le feutre fin STABILO point 88 est certifié ISCC Plus. Le corps du stylo et son capuchon sont fabriqués avec 96% de plastique biosourcé et certifié selon la norme ISCC Plus (bilan de masse).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TKY527R{{</world>}}

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Épaisseur du boîtier 9,2mm / Diamètre du boîtier 36 mm
 - Mouvement à quartz à 3 aiguilles
 - Bracelet blanc en silicone avec motif petit piqué
-- Cadran blanc semi-brillant avec détails dorés chair et logo emblématique LACOSTE à 3 heures.
 - Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
+- Cadran blanc semi-brillant avec détails dorés chair et logo emblématique LACOSTE à 3 heures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B7NLL93M{{</world>}}

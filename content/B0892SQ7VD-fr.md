@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détails du produit : Dimensions : 100 x 24 mm – Matériau : polypropylène (PP) – Contenu : 50 cales de vitrage de 1 mm (jaune) – 2 mm (vert) – 3 mm (bleu) – 4 mm (rouge) – 5 mm (marron) & 6 mm (noir)
-- Caractéristiques du produit : les plaquettes peuvent être facilement empilées – elles conviennent donc également pour compenser les plus grandes irrégularités – La surface striée assure un maintien sûr et empêche tout glissement accidentel
 - Kit pratique : différentes tailles de 1 à 6 mm de hauteur pour tous les projets assemblés Manipulation facile grâce aux différentes couleurs par hauteur Rangement ordonné dans un seau en plastique solide
+- Caractéristiques du produit : les plaquettes peuvent être facilement empilées – elles conviennent donc également pour compenser les plus grandes irrégularités – La surface striée assure un maintien sûr et empêche tout glissement accidentel
 - Utilisation universelle : pour aligner le verre dans le cadre de la fenêtre Idéal pour la construction de tringles de portes Facile à compenser et stabiliser les sous-constructions, par exemple au plafond et au mur Pour un joint de dilatation uniforme au sol
 
 [🛒 Achète-le!!]({{< param buyurl >}})

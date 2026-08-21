@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appliquez généreusement une noisette de lAqua-Gelée auto-bronzante sur le visage, le cou et le décolleté. Texture caramel nacrée. Ne laisse pas de traces.
 - Découvrez le nouveau Aqua-Gelée Autobronzant : un sérum auto-bronzant avec une formule hydratante.
+- Appliquez généreusement une noisette de lAqua-Gelée auto-bronzante sur le visage, le cou et le décolleté. Texture caramel nacrée. Ne laisse pas de traces.
 - Les résultats* : La peau parait sublimée pour 73% des femmes Le teint parait plus éclatant : 80% Le hâle parait plus lumineux : 75% *Auto évaluation, 3 semaines, 76 femmes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMPLACEMENT À CHAUD - Remplacez facilement les switches mécaniques dorigine par des switchs compatibles à 3 broches, sans soudure. Personnalisez votre expérience de frappe en toute simplicité, en garantissant flexibilité et durabilité.
-- SWITCHES MÉCANIQUES ULTRA-RÉSISTANTS - Les switches mécaniques Red ont une durée de vie de 50 millions de frappes par touche et offrent une course linéaire régulière de 2,1 mm et une course totale de 4,0 mm (force dactionnement de 45 g).
 - ORIENTÉ PRO-GAMING - La fonction Rollover 6+N et lanti-ghosting complet des touches évitent tout conflit de signal ou toute pression manquée sur les touches en basculant automatiquement entre 6 et N touches pour garantir une expérience de jeu précise.
-- TOUCHES ERGONOMIQUES - Le GK320 utilise une dispositions de clavier de taille normale avec des touches High-Low ergonomiques pour un meilleur confort ; il est doté dun couvercle magnétique amovible pour un look and feel personnalisé.
+- SWITCHES MÉCANIQUES ULTRA-RÉSISTANTS - Les switches mécaniques Red ont une durée de vie de 50 millions de frappes par touche et offrent une course linéaire régulière de 2,1 mm et une course totale de 4,0 mm (force dactionnement de 45 g).
+- REMPLACEMENT À CHAUD - Remplacez facilement les switches mécaniques dorigine par des switchs compatibles à 3 broches, sans soudure. Personnalisez votre expérience de frappe en toute simplicité, en garantissant flexibilité et durabilité.
 - RÉTROÉCLAIRAGE LED RVB - Égayez lambiance en jouant avec des effets prédéfinis pour créer latmosphère souhaitée. Des raccourcis clavier programmés permettent daccéder facilement à tous les effets lumineux.
+- TOUCHES ERGONOMIQUES - Le GK320 utilise une dispositions de clavier de taille normale avec des touches High-Low ergonomiques pour un meilleur confort ; il est doté dun couvercle magnétique amovible pour un look and feel personnalisé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FSLT33D3{{</world>}}

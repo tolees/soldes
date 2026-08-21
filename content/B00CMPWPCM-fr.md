@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 24 dents Carbure. Assure une coupe rapide et agressive, idéale pour le dégrossissage.
 - 1 lame de scie circulaire. Remplace une lame usée pour retrouver des performances de coupe optimales.
-- Alésage 16 mm. Standard compatible avec de nombreuses scies circulaires du marché (ex: R18CS7).
 - Débit de bois massif, planches de coffrage et panneaux avec une scie circulaire de 190 mm.
+- Alésage 16 mm. Standard compatible avec de nombreuses scies circulaires du marché (ex: R18CS7).
 - Lame au carbure de tungstène pour une longévité accrue. Conception optimisée pour une coupe rapide.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

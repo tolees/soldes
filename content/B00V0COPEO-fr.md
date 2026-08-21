@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fonctions déclairage: 1 - avec feu de brouillard arrière
 - Type de lampe: LED
-- Couleur du carter: noir
 - Ø: 95mm - Longueur: 43mm - Hauteur: 36mm - Type de lampe: LED - Nombre des LEDs: 17
+- Type de fixation: pour fixation à lhorizontale
 - Nombre de fonctions déclairage: 1
+- Diamètre [mm]: 95
 - Type de protec. (Code IP): IP67
 - Marque de conformité: E9 1158, ECE
-- Fonctions déclairage: 1 - avec feu de brouillard arrière
 - Nombre des LEDs: 17
-- Diamètre [mm]: 95
-- Type de fixation: pour fixation à lhorizontale
+- Couleur du carter: noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00V0COPEO{{</world>}}

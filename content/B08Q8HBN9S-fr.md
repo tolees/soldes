@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Quadruple capteur photo ultra grand angle mode portrait & macro
 - Grand écran panoramique 6,5’’ tft
-- Autonomie renforcée 5000 mah + charge rapide
 - Caméra principale haute résolution 48 mp pour des photos nettes
 - Sécurité sans faille : votre smartphone est protégé dès la minute où il s’allume grâce à une sécurité multi-niveaux. Elle protège vos informations les plus sensibles contre les logiciels malveillants et autres menaces
+- Autonomie renforcée 5000 mah + charge rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q8HBN9S{{</world>}}

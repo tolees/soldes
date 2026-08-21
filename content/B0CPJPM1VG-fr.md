@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoyeur haute pression pour éliminer la saleté tenace sur les surfaces domestiques extérieures, les autos, les motos, les sols, les escaliers, les piscines, les outils et les murs
-- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
-- Enrouleur statique avec système de blocage : après emploi, le flexible haute pression senroule facilement et se range dans le compartiment prévu à cet effet
-- Pression (bar) max. 170 ; Puissance absorbée (kW) 2,4; Débit (l/h) max. 500 ; Température eau dalimentation (°C) max. 50
-- Équipement : pistolet, lance et flexible à haute pression (6 m), rotabuse, buse à jet réglable, kit canon à mousse (0,4 l) applicable au pistolet
 - Dotée dune fonction auto-amorçante : si le raccordement au réseau deau est impossible, le nettoyeur haute pression peut aspirer leau dans un réservoir.
+- Pression (bar) max. 170 ; Puissance absorbée (kW) 2,4; Débit (l/h) max. 500 ; Température eau dalimentation (°C) max. 50
+- Raccord rapide entrée eau avec filtre contrôlable qui retient les impuretés et garantit le parfait fonctionnement du nettoyeur
+- Équipement : pistolet, lance et flexible à haute pression (6 m), rotabuse, buse à jet réglable, kit canon à mousse (0,4 l) applicable au pistolet
+- Nettoyeur haute pression pour éliminer la saleté tenace sur les surfaces domestiques extérieures, les autos, les motos, les sols, les escaliers, les piscines, les outils et les murs
+- Enrouleur statique avec système de blocage : après emploi, le flexible haute pression senroule facilement et se range dans le compartiment prévu à cet effet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPJPM1VG{{</world>}}

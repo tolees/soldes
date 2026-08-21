@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Room Sense-microphone : Microphone intégré permet de pratiquer sans avoir à vous connecter à une table de mixage
 - vocal effets peuvent avec le Perform gratuit V Application smartphone (disponible pour iOS et Android) directement ins Perform V être gebeamt
 - Presets de Beaming offrent par exemple harmonie voix, Effets de hardtune, mégaphone ainsi que presets dans le style de chansons
 - Entrée AUX permet le facon dun signal audio dun périphérique externe
-- Room Sense-microphone : Microphone intégré permet de pratiquer sans avoir à vous connecter à une table de mixage
 - Les principaux effets de classique vocal, y compris 4 effets reverb, echo et variantes de double
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

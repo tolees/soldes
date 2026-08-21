@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussure basse
+- Logo PUMA sur la languette
 - Semelle intermédiaire EVA pour le confort
 - Tige en textile à base de maille
-- Logo PUMA sur la languette
 - Semelle en caoutchouc non marquante pour ladhérence
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

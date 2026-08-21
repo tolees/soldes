@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CADEAU HARRY POTTER – Ce jouet de construction LEGO Harry Potter est une idée de cadeau magique à offrir aux garçons et aux filles, fans de Harry Potter dès 7 ans
-- JOUET AVEC CHÂTEAU DE POUDLARD POUR ENFANTS – Recréez la cérémonie du Choixpeau magique au château de Poudlard de Harry Potter à l’école des sorciers avec ce set LEGO Harry Potter, spécial 25e anniversaire, pour garçon ou fille dès 7 ans
-- JEU INTERACTIF AMÉLIORÉ – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction numérique : ils peuvent zoomer, faire pivoter les modèles en 3D, sauvegarder leurs sets et suivre leur progression
-- DÉTAILS AMUSANTS – Inventez des histoires avec le Patronus chat, faisant partie d’une collection de Patronus spéciale 25e anniversaire (sets vendus séparément), la table remplie de nourriture et le compteur de points
-- ROUE MAGIQUE – Inclut une roue des maisons à faire tourner et le Choixpeau magique qui se place sur la tête de chaque élève pour découvrir sa maison : Serpentard, Serdaigle, Poufsouffle ou Gryffondor
 - 4 MINIFIGURINES LEGO HARRY POTTER POUR LE JEU DE RÔLE – Revivez la cérémonie du Choixpeau magique avec professeure McGonagall, Harry, Hermione et Drago munis d’une baguette magique
 - MAQUETTE COLLECTOR LEGO HARRY POTTER – Ce jouet d’aventures fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour recréer le château de Poudlard en briques le plus détaillé à ce jour
+- DÉTAILS AMUSANTS – Inventez des histoires avec le Patronus chat, faisant partie d’une collection de Patronus spéciale 25e anniversaire (sets vendus séparément), la table remplie de nourriture et le compteur de points
+- JOUET AVEC CHÂTEAU DE POUDLARD POUR ENFANTS – Recréez la cérémonie du Choixpeau magique au château de Poudlard de Harry Potter à l’école des sorciers avec ce set LEGO Harry Potter, spécial 25e anniversaire, pour garçon ou fille dès 7 ans
+- JEU INTERACTIF AMÉLIORÉ – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction numérique : ils peuvent zoomer, faire pivoter les modèles en 3D, sauvegarder leurs sets et suivre leur progression
+- ROUE MAGIQUE – Inclut une roue des maisons à faire tourner et le Choixpeau magique qui se place sur la tête de chaque élève pour découvrir sa maison : Serpentard, Serdaigle, Poufsouffle ou Gryffondor
+- CADEAU HARRY POTTER – Ce jouet de construction LEGO Harry Potter est une idée de cadeau magique à offrir aux garçons et aux filles, fans de Harry Potter dès 7 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXDX74V{{</world>}}

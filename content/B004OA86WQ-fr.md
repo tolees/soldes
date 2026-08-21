@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La cafetière moka dAlessi a une forme arrondie qui exprime sa parenté avec la moka traditionnelle, véritable éloge du rituel quotidien de la préparation du café
+- Matériau : aluminium moulé avec poignée et bouton en résine thermoplastique noire
 - Tailles disponibles : 1, 3, 6 tasses
 - Designer: Alessandro Mendini
-- Matériau : aluminium moulé avec poignée et bouton en résine thermoplastique noire
 - Taille et capacité : diamètre 10,4 cm, hauteur 20,6 cm, capacité 30 cl
-- La cafetière moka dAlessi a une forme arrondie qui exprime sa parenté avec la moka traditionnelle, véritable éloge du rituel quotidien de la préparation du café
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004OA86WQ{{</world>}}

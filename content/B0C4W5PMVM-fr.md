@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grâce au module d’éclairage encastrable, vous contrôlez à distance vos lustres et plafonniers sans qu’il soit nécessaire de tirer un câble
 - Télécommande: 3 canaux + 1 fonction groupe
 - Nombre maximum d’émetteur: jusqu’à 32 commandes - 100% compatible à la gamme DiO 1.0 - Application pour smartphone gratuite (nécessite la LiteBox ou la centrale DiO) - Contenu: 2 modules On/Off 1000W, 2 télécommande, pile CR2032
+- Grâce au module d’éclairage encastrable, vous contrôlez à distance vos lustres et plafonniers sans qu’il soit nécessaire de tirer un câble
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4W5PMVM{{</world>}}

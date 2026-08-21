@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coutures à 360° pour plus de durabilité
-- Couleur : blanc
 - Dessus : cuir (cuir de veau)
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
 - XL extra léger pour plus de légèreté et dabsorption des chocs
+- Couleur : blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VPR229W{{</world>}}

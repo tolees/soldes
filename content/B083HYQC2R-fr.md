@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour le métal : Ce foret convient pour une utilisation avec la tôle, laluminium et lacier de construction, mais aussi le plastique et le bois
-- Ajustement universel : Cet foret est universellement compatible avec les perceuses-visseuses et les visseuses à percussion de toutes les marques avec support hexagonal de ¼"
 - Perçage rapide et facile : Grâce à la pointe de centrage PointTeQ automatique, vous pouvez percer rapidement et avec efficacité, sans poinçonnage préalable ou pré-perçage
-- Le foret ne glisse pas : Pour un perçage fiable sans glissement du foret, lemmanchement hexagonal de ¼" senclenche en toute sécurité dans le mandrin de serrage de la perceuse-visseuse ou de la visseuse à percussion
+- Ajustement universel : Cet foret est universellement compatible avec les perceuses-visseuses et les visseuses à percussion de toutes les marques avec support hexagonal de ¼"
+- Idéal pour le métal : Ce foret convient pour une utilisation avec la tôle, laluminium et lacier de construction, mais aussi le plastique et le bois
 - Contenu : 1 foret de 2,0 mm, (longueur de travail : 24 mm), 1 foret de 3,0 mm, (longueur de travail : 33), 1 foret de 4,0 mm, (longueur de travail : 43), 1 foret de 5,0 mm, (longueur de travail : 52), 1 foret de 6,0 mm, (longueur de travail : 57)
+- Le foret ne glisse pas : Pour un perçage fiable sans glissement du foret, lemmanchement hexagonal de ¼" senclenche en toute sécurité dans le mandrin de serrage de la perceuse-visseuse ou de la visseuse à percussion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083HYQC2R{{</world>}}

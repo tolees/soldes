@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [auto-decharge] faible auto-décharge
-- Courant de court-circuit: 630 A
-- [maintenance] aucune maintenance
-- [duree de vie] longue durée de vie
 - [installation] installation toutes positions
+- [maintenance] aucune maintenance
+- [auto-decharge] faible auto-décharge
+- [duree de vie] longue durée de vie
 - [technologie] technologie agm pour recombinaison éfficace des gaz (vrla)
+- Courant de court-circuit: 630 A
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06Y1DVTRZ{{</world>}}

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ÉCONOMIQUE : cahier protège-cahiers tout en 1 ! Couverture solide en polypro transparent, imperméable et indéchirable. RELIURE PIQUÉE : le bon rapport qualité/prix. Les pages sont reliées entre elles par des agrafes
 - MADE IN FRANCE et CERTIFIÉ PEFC : pour la gestion durable des forêts
-- PRATIQUE : 2 rabats-pochettes intégrés à la couverture pour Marquer les pages et ranger les documents utiles + 1 étiquette adhésive pour personnaliser le cahier
 - PAPIERS BLANCS : papier Clairefontaine Blanc Vélin Velouté 90 g/m² de QUALITÉ SUPÉRIEURE pour les pages grands carreaux, et papier Dessin Clairefontaine EXTRA BLANC 125 g/m² pour les pages unies
 - 1 CAHIER DE COULEUR ALÉATOIRE : bleu, bleu marine, violet, rose, rouge, orange, jaune, vert, incolore ou noir. PETIT FORMAT 17x22 cm : format écolier, se range facilement dans le cartable (plus petit que le A4)
+- PRATIQUE : 2 rabats-pochettes intégrés à la couverture pour Marquer les pages et ranger les documents utiles + 1 étiquette adhésive pour personnaliser le cahier
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071JNWGQD{{</world>}}

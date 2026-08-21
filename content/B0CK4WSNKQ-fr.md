@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boitier seul – pas d’optiques livrées. Compatibilité des objectifs RF et objectifs EF via ladaptateur
+- COMPATIBLE AVEC LES OBJECTIFS RF : dont RF 75-300mm, RF-S 55-210mm et RF 100-400mm, idéal pour la faune, le voyage et le sport - découvrez-en plus dans la Boutique Canon
+- Filtres créatifs et mode Creative Assist Connectivité HDMI et USB Type C pour les accessoires
 - Écran LCD de 7,5 cm (3,0 pouces) de 1,04 m de points et EVF OLED de type 0,39 m de points Vidéo 4K UHD jusquà 25p, Full HD jusquà 60p, HD jusquà 120p, Timelapse jusquà 30p
 - AF CMOS Dual Pixel avec AF suivi du visage+ et détection des yeux sur 88 % du cadre Compact et léger, avec flash intégré et EVF
-- COMPATIBLE AVEC LES OBJECTIFS RF : dont RF 75-300mm, RF-S 55-210mm et RF 100-400mm, idéal pour la faune, le voyage et le sport - découvrez-en plus dans la Boutique Canon
-- Boitier seul – pas d’optiques livrées. Compatibilité des objectifs RF et objectifs EF via ladaptateur
-- Filtres créatifs et mode Creative Assist Connectivité HDMI et USB Type C pour les accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK4WSNKQ{{</world>}}

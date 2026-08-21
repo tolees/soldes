@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Prendre deux comprimés par jour avec de la nourriture
 - Les comprimés Natures Aid Raspberry Leaf sont une alternative pratique au thé à la feuille de framboise
 - Fabriqué au Royaume-Uni selon les BPF et les normes pharmaceutiques
+- Prendre deux comprimés par jour avec de la nourriture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001SUQ5ZA{{</world>}}

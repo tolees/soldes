@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Performances : isolation et étanchéité assurées par le garnissage synthétique en polyester recyclé et l’extérieur en polyamide, Déperdition thermique réduite grâce au rabat antifroid interne, Température de confort 5°C
 - Confort : forme sarcophage à la coupe profilée reconnue pour son isolation optimale, Recommandé pour les déplacements car léger et facile à transporter grâce à son sac de compression inclus
+- Contenu : 1x sac de couchage adulte Baikal 1100 Reg Millet, Housse de rangement incluse, Longueur : 215 cm, Poids : 1270 g, Volume : 8,5 L, Couleur : Saphir (bleu). Ouverture zippée gauche
 - Sac de couchage pour homme et femme pour des nuits à l’abri du froid et de l’humidité, Idéal pour le couchage dappoint lors de la pratique du camping, de la randonnée et du trekking
 - Praticité : modèle jumelable avec fermeture à droite, Capuche dotée d’un cordon de serrage pour minimiser les entrées d’air, Poche intérieure pratique pour conserver vos accessoires à portée de main
-- Contenu : 1x sac de couchage adulte Baikal 1100 Reg Millet, Housse de rangement incluse, Longueur : 215 cm, Poids : 1270 g, Volume : 8,5 L, Couleur : Saphir (bleu). Ouverture zippée gauche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CP2NWLYD{{</world>}}

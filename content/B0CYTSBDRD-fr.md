@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussant standard.
-- Fermeture à lacet.
 - Doublure textile.
+- Fermeture à lacet.
 - Tige textile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

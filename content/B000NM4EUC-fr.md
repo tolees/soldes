@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pâte à modeler pour les enfants à partir de 3 ans. Séchage à lair libre en 24 heures (selon lépaisseur de lartisanat). Aucun four ou micro-ondes nest nécessaire. Argile prête à lemploi et prête à peindre ; une fois ouverte, conserver dans un récipient fermé pour éviter le dessèchement.
+- Argile non cuite, modelable, très facile à travailler et à nettoyer. Parfait pour être utilisé avec des moules et pour réaliser des reliefs. Peut être décoré avec tous types de peintures à leau, gouache acrylique, marqueurs spéciaux et vernis.
+- Peut être utilisé pour couvrir différentes surfaces telles que le bois, le plastique, le carton, le verre ou le métal. Idéal pour les travaux manuels, les projets, les décorations de Noël, les gravures, les miniatures, les poupées,
 - Produit de bonne qualité, fabriqué en Espagne. Recommandé par les éducateurs scolaires.
 - Jovi Air Dry est une pâte à modeler à base dargile humide avec un toucher doux et agréable à base dingrédients naturels; non toxique, sans odeur et sans gluten. 1kg, couleur terracota.
-- Peut être utilisé pour couvrir différentes surfaces telles que le bois, le plastique, le carton, le verre ou le métal. Idéal pour les travaux manuels, les projets, les décorations de Noël, les gravures, les miniatures, les poupées,
-- Argile non cuite, modelable, très facile à travailler et à nettoyer. Parfait pour être utilisé avec des moules et pour réaliser des reliefs. Peut être décoré avec tous types de peintures à leau, gouache acrylique, marqueurs spéciaux et vernis.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000NM4EUC{{</world>}}

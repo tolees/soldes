@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alimentation électrique : 5x piles LR6/AA pour le robot (non incluses) + 2x piles LR6/AA pour la télécommande (non incluses). Comprend : 1 robot + 1 télécommande + 1 manuel dinstructions + 9 disques en mousse.
+- PROGRAMMABLE - Un véritable robot STEM qui aide les enfants à découvrir la logique de la programmation. Programmez jusquà 40 actions. Ajoutez de la musique pour créer et sauvegarder vos chorégraphies !
 - INTERACTIF - Un robot entièrement en français pour les enfants qui parle, danse, raconte des blagues, bouge avec vos mouvements, joue de la musique et propose des tonnes deffets sonores et lumineux !
 - RÉPÈTE CE QUE VOUS DITES - Grâce à la fonction de lecture et denregistrement, Powerman répétera ce que vous dites. Il pourra également les mémoriser et les réutiliser plus tard.
+- CAPTEUR DE GESTES - Powerman suivra les mouvements de vos mains en allant en avant, en arrière, à gauche ou à droite !
 - CRÉEZ VOS PROPRES HISTOIRES - Avec le Créateur dhistoires, vous pouvez créer jusquà 10 000 histoires drôles et loufoques ! Comprend également 10 fables dEsope, parfaites comme histoires à dormir debout.
-- PROGRAMMABLE - Un véritable robot STEM qui aide les enfants à découvrir la logique de la programmation. Programmez jusquà 40 actions. Ajoutez de la musique pour créer et sauvegarder vos chorégraphies !
+- Alimentation électrique : 5x piles LR6/AA pour le robot (non incluses) + 2x piles LR6/AA pour la télécommande (non incluses). Comprend : 1 robot + 1 télécommande + 1 manuel dinstructions + 9 disques en mousse.
+- TIRE DES DISQUES EN MOUSSE - Il tire des disques en mousse de couleur ! Pas dinquiétude, ils sont souples et sans danger pour jouer partout à la maison.
+- JOUE DE LA MUSIQUE ET DANSE - Écoutez ses différents morceaux de musique et regardez-le danser dans votre chambre comme aucun autre robot.
 - THE ULTIMATE POWERMAN - La version la plus complète de Powerman avec plus de 300 quiz dapprentissage parmi 6 activités éducatives : apprenez les chiffres, les animaux, la vie quotidienne, les instruments de musique... parfait pour les enfants !
 - AVEC TÉLÉCOMMANDE ! - Contrôlez Powerman Max en avant, en arrière, à droite et à gauche, il va dans toutes les directions !
-- JOUE DE LA MUSIQUE ET DANSE - Écoutez ses différents morceaux de musique et regardez-le danser dans votre chambre comme aucun autre robot.
-- CAPTEUR DE GESTES - Powerman suivra les mouvements de vos mains en allant en avant, en arrière, à gauche ou à droite !
-- TIRE DES DISQUES EN MOUSSE - Il tire des disques en mousse de couleur ! Pas dinquiétude, ils sont souples et sans danger pour jouer partout à la maison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0995YRVN4{{</world>}}

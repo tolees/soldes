@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
 - ÉDUCATIF - Activités éducatives avec différents niveaux : Langues, Mathématiques, Logique, Dactylographie, Sections musicales, Lecture de l’heure.
+- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
 - AMUSANT - Comprend également de nombreux jeux pour s’amuser après lapprentissage.
 - ANIMATIONS GRAPHIQUES - Écran LCD avec des animations.
 - SUPER DESIGN - Format pratique ultra-léger, pour une prise en main facile. Ergonomie inspirée de véritables ordinateurs.

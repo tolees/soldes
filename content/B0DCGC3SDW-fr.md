@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🕹️ Joystick MULTIFONCTION 3-EN-1 : Prenez le contrôle total de vos engins avec un manche ultra-complet intégrant 6 boutons, 1 molette, 1 mini-stick, 2 interrupteurs à bascule et 2 gâchettes. Gérez vos outils, bras articulés et caméras sans jamais lâcher les commandes.
 - 🎯 PRÉCISION MAGNÉTIQUE H.E.A.R.T : Profitez dune précision chirurgicale constante et durable. Grâce aux capteurs magnétiques H.E.A.R.T (HallEffect AccuRate Technology), le FarmStick élimine les zones mortes et lusure mécanique pour une fluidité parfaite sur tous les axes.
-- 🚜 COMPATIBILITÉ PS5 & PC (OPTIMISÉ FS25) : Le SimTask FarmStick est le compagnon idéal pour Farming Simulator 25. Sur PS5, il sutilise en complément dun volant (comme le T128 ou T248) pour une immersion totale. Sur PC, branchez-le et jouez instantanément grâce à sa configuration Plug & Play.
-- 🖱️ CONCEPTION AMBIDEXTRE & ÉVOLUTIVE : Conçu pour tous les setups, ce joystick est 100% ambidextre. Utilisez-le avec un volant de course (vendu séparément) pour conduire vos tracteurs, ou combinez deux FarmSticks en même temps pour piloter des engins de construction lourds.
-- 💪 ERGONOMIE POUR SESSIONS PROLONGÉES : Inspiré des commandes réelles des tracteurs haut de gamme, le FarmStick offre une prise en main confortable qui réduit la fatigue. Sa base robuste et lestée garantit une stabilité maximale, même lors des manœuvres les plus intenses.
 - 🧑‍🌾 JUSQUÀ 33 BOUTONS DACTION : Ne soyez jamais limité ! Avec son accélérateur manuel intégré et ses 33 boutons daction, vous pouvez cartographier chaque fonction de vos machines agricoles, forestières ou de chantier. Un véritable poste de pilotage professionnel à portée de main.
+- 🖱️ CONCEPTION AMBIDEXTRE & ÉVOLUTIVE : Conçu pour tous les setups, ce joystick est 100% ambidextre. Utilisez-le avec un volant de course (vendu séparément) pour conduire vos tracteurs, ou combinez deux FarmSticks en même temps pour piloter des engins de construction lourds.
+- 🚜 COMPATIBILITÉ PS5 & PC (OPTIMISÉ FS25) : Le SimTask FarmStick est le compagnon idéal pour Farming Simulator 25. Sur PS5, il sutilise en complément dun volant (comme le T128 ou T248) pour une immersion totale. Sur PC, branchez-le et jouez instantanément grâce à sa configuration Plug & Play.
+- 💪 ERGONOMIE POUR SESSIONS PROLONGÉES : Inspiré des commandes réelles des tracteurs haut de gamme, le FarmStick offre une prise en main confortable qui réduit la fatigue. Sa base robuste et lestée garantit une stabilité maximale, même lors des manœuvres les plus intenses.
+- 🕹️ Joystick MULTIFONCTION 3-EN-1 : Prenez le contrôle total de vos engins avec un manche ultra-complet intégrant 6 boutons, 1 molette, 1 mini-stick, 2 interrupteurs à bascule et 2 gâchettes. Gérez vos outils, bras articulés et caméras sans jamais lâcher les commandes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DCGC3SDW{{</world>}}

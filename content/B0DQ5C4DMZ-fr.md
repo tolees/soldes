@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il peut être joué seul, en choisissant parmi 3 difficultés pour relever un véritable défi. Ou jusquà 4 amis peuvent également unir leurs forces en mode coopératif, en se battant et en saidant les uns les autres pour surmonter tous les obstacles qui se dressent sur leur chemin.
-- Kemono Heroes combine des éléments de run and gun, de laction arcade rapide avec des dashs et des slashs, avec des personnages cool et doux.
-- Des armes et des pouvoirs à débloquer et beaucoup de fun et daction !
-- 4 personnages principaux, chacun doté de compétences spéciales. Coopération locale de 1 à 4 joueurs.
 - Run n Slash n Gun et des graphismes 16 bits époustouflants. 4 mondes avec 3 étapes chacun.
+- 4 personnages principaux, chacun doté de compétences spéciales. Coopération locale de 1 à 4 joueurs.
+- Kemono Heroes combine des éléments de run and gun, de laction arcade rapide avec des dashs et des slashs, avec des personnages cool et doux.
+- Il peut être joué seul, en choisissant parmi 3 difficultés pour relever un véritable défi. Ou jusquà 4 amis peuvent également unir leurs forces en mode coopératif, en se battant et en saidant les uns les autres pour surmonter tous les obstacles qui se dressent sur leur chemin.
+- Des armes et des pouvoirs à débloquer et beaucoup de fun et daction !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQ5C4DMZ{{</world>}}

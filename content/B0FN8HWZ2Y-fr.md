@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Console, manette et cartouche ACTIVISION COLLECTION 1 incluses.
 - · +50 ans d’histoire du jeu vidéo : revivez les plus grands classiques officiels de l’arcade, des consoles et des ordinateurs de l’époque grâce à l’écosystème des cartouches Evercade.
 - · 100 % compatible avec les cartouches Evercade : plus de 60 cartouches et 600 jeux disponibles.
+- Console, manette et cartouche ACTIVISION COLLECTION 1 incluses.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FN8HWZ2Y{{</world>}}

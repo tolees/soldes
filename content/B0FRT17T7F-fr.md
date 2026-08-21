@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONFORT ACCRU: le mode Boost antiallergie capture tous les allergènes via un programme de 8h alliant une action de boost et une filtration continue, idéal pour le quotidien et la saison des pollens
-- TRÈS EFFICACE: pour les pièces de 52m2 max. (estimation selon la norme NRCC), il capture jusquà 100% des allergènes (test laboratoire externe sur des allergènes de bouleau, intégralité de lappareil, vitesse max., 2024), jusquà 99,9% des particules fines de 0,5micron, 99,99% des virus dans lair (tests laboratoire externe sur une souche H1N1, intégralité de lappareil, vitesse max., 2024, un purificateur dair seul ne dispense pas des autres mesures de prévention) et les polluants chimiques, y compris le formaldéhyde grâce à un filtre 3-en-1 HEPA ALLERGY+ (filtration supérieure aux filtres HEPA H13 en CADR selon les normes GB/T18801)
 - PURIFICATION RAPIDE: purifie une pièce de 20m2 en 15minutes grâce à un flux dair pur élevé (CADR) de 200m3/h (surface couverte estimée pour une hauteur sous plafond standard de 2,5m)
-- QUALITÉ DE LAIR EN TEMPS RÉEL: le capteur AirPrecision mesure et affiche le niveau de pollution de la pièce via 4couleurs et ajuste la vitesse de filtration pour une efficacité optimale
 - ENGAGEMENT DE RÉPARABILITÉ PENDANT 15ANS AU JUSTE PRIX: faites réparer votre produit par notre réseau de 6200centres de réparation dans le monde pour qu’il dure dans le temps
+- TRÈS EFFICACE: pour les pièces de 52m2 max. (estimation selon la norme NRCC), il capture jusquà 100% des allergènes (test laboratoire externe sur des allergènes de bouleau, intégralité de lappareil, vitesse max., 2024), jusquà 99,9% des particules fines de 0,5micron, 99,99% des virus dans lair (tests laboratoire externe sur une souche H1N1, intégralité de lappareil, vitesse max., 2024, un purificateur dair seul ne dispense pas des autres mesures de prévention) et les polluants chimiques, y compris le formaldéhyde grâce à un filtre 3-en-1 HEPA ALLERGY+ (filtration supérieure aux filtres HEPA H13 en CADR selon les normes GB/T18801)
+- QUALITÉ DE LAIR EN TEMPS RÉEL: le capteur AirPrecision mesure et affiche le niveau de pollution de la pièce via 4couleurs et ajuste la vitesse de filtration pour une efficacité optimale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FRT17T7F{{</world>}}

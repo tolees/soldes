@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet éclairage extérieur LED est facile à intégrer dans un système Philips Hue existant. Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison.
-- Embellissez votre jardin grâce aux 16 millions de couleurs disponibles avec ce spot extérieur étanche
-- Classe de protection IP44 (optimisé pour lextérieur) : grâce à son boîtier de qualité supérieure, la lampe de jardin est protégée contre lhumidité et la poussière. Réglez les itinéraires personnalisés pour allumer et éteindre automatiquement la lumière
 - Créez vos propres configurations de lumières intelligentes de votre éclairage extérieur Philips et obtenez des scénarios lumineux parfaitement adaptés à vos besoins et vos envies
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique g
 - Ce spot Philips HUE fonctionne avec Amazon Alexa, Google Home et Apple HomeKit
+- Embellissez votre jardin grâce aux 16 millions de couleurs disponibles avec ce spot extérieur étanche
+- Cet éclairage extérieur LED est facile à intégrer dans un système Philips Hue existant. Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison.
+- Classe de protection IP44 (optimisé pour lextérieur) : grâce à son boîtier de qualité supérieure, la lampe de jardin est protégée contre lhumidité et la poussière. Réglez les itinéraires personnalisés pour allumer et éteindre automatiquement la lumière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BY26RTM{{</world>}}

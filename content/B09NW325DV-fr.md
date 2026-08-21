@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MULTILINGUE : le menu et les définitions des codes DTC sont disponibles en 7 langues : anglais, français, allemand, italien, espagnol, portugais, japonais.
 - UTILISATION FACILE : branchez le connecteur dans la prise DLC à 16 broches, mettez le contact et le lecteur se connectera au véhicule. Le menu principal saffichera automatiquement pour faciliter la navigation.
-- Plus de 10 fonctions OBD2 : ce lecteur vous offre toutes les fonctions OBD2 pour les véhicules compatibles avec le protocole OBD/EOBD/CAN (Controller Area Network). Les fonctionnalités OBD les plus utilisées incluent la lecture et l’effacement des codes d’erreur, la préparation I/M, le flux de données graphiques, l’image fixe, le test des capteurs O2, le test de la surveillance embarquée, le test EVAP et les informations du véhicule.
-- MISE À JOUR GRATUITE DU LOGICIEL : ce lecteur de codes peut être mis à jour gratuitement. Il suffit de connecter lappareil à un ordinateur et dinstaller les mises à jour sur le site Web de TOPDON. Les lecteurs présentant des caractéristiques similaires nécessitent généralement un abonnement annuel.
+- MULTILINGUE : le menu et les définitions des codes DTC sont disponibles en 7 langues : anglais, français, allemand, italien, espagnol, portugais, japonais.
 - LARGE COMPATIBILITɠ: ce lecteur de codes OBD2 fonctionne sur la plupart des voitures américaines construites après 1996, des voitures européennes construites après 2000 et des voitures asiatiques construites après 2008. Notre service dassistance est à votre disposition 24 h / 24 pour résoudre rapidement vos problèmes à ladresse suivante : support@topdon.com.
+- MISE À JOUR GRATUITE DU LOGICIEL : ce lecteur de codes peut être mis à jour gratuitement. Il suffit de connecter lappareil à un ordinateur et dinstaller les mises à jour sur le site Web de TOPDON. Les lecteurs présentant des caractéristiques similaires nécessitent généralement un abonnement annuel.
+- Plus de 10 fonctions OBD2 : ce lecteur vous offre toutes les fonctions OBD2 pour les véhicules compatibles avec le protocole OBD/EOBD/CAN (Controller Area Network). Les fonctionnalités OBD les plus utilisées incluent la lecture et l’effacement des codes d’erreur, la préparation I/M, le flux de données graphiques, l’image fixe, le test des capteurs O2, le test de la surveillance embarquée, le test EVAP et les informations du véhicule.
 - CONTRÔLE ANTI-POLLUTION EN UN CLIC : Le bouton de préparation I/M vérifie les gaz d’échappement pour aider les véhicules à réussir les tests anti-pollution en un clic.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

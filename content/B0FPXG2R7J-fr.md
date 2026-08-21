@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MAQUETTE DE MOTO AVEC SIDE-CAR – Jouez et exposez cette décoration miniature qui inclut la toute première maquette LEGO à l’échelle des minifigurines de la moto volante de Hagrid avec son side-car
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive ; ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- JOUET MOTO POUR ENFANTS – Recréez la scène dans laquelle Hagrid et Harry s’échappent et rejoignent le Terrier dans Harry Potter et les Reliques de la Mort avec ce jeu de construction pour garçons et filles dès 8 ans
-- DÉCOR RECRÉANT LA RUE PRIVET DRIVE – Encouragez le jeu créatif : les enfants créent leur propre mini construction de rue, incluant un lampadaire et 2 pots de fleurs pouvant se renverser au cours de l’action
-- PETIT CADEAU HARRY POTTER POUR ENFANTS – Ce set LEGO Harry Potter est un cadeau magique à offrir pour un anniversaire à un garçon ou une fille dès 8 ans, fan du célèbre sorcier
-- UNE VASTE COLLECTION – Avec les sets LEGO Harry Potter collector, les jeunes sorciers, sorcières et moldus rejouent des scènes culte de la saga, inventent leurs propres histoires ou créent de beaux décors à exposer
 - 4 MINIFIGURINES LEGO HARRY POTTER – Le kit inclut Harry Potter, Hagrid avec ses lunettes de moto signature et 2 Mangemorts ; placez Hagrid sur la moto et Harry dans le side-car pour recréer la scène du film
+- JOUET MOTO POUR ENFANTS – Recréez la scène dans laquelle Hagrid et Harry s’échappent et rejoignent le Terrier dans Harry Potter et les Reliques de la Mort avec ce jeu de construction pour garçons et filles dès 8 ans
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive ; ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- PETIT CADEAU HARRY POTTER POUR ENFANTS – Ce set LEGO Harry Potter est un cadeau magique à offrir pour un anniversaire à un garçon ou une fille dès 8 ans, fan du célèbre sorcier
+- DÉCOR RECRÉANT LA RUE PRIVET DRIVE – Encouragez le jeu créatif : les enfants créent leur propre mini construction de rue, incluant un lampadaire et 2 pots de fleurs pouvant se renverser au cours de l’action
+- UNE VASTE COLLECTION – Avec les sets LEGO Harry Potter collector, les jeunes sorciers, sorcières et moldus rejouent des scènes culte de la saga, inventent leurs propres histoires ou créent de beaux décors à exposer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2R7J{{</world>}}

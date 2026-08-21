@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SONNERIE FORTE RÉGLABLE : Adaptez votre expérience sonore avec le téléphone filaire TMAX 10+ grâce à une sonnerie à 2 niveaux ajustable par curseur pour répondre à vos besoins découte : Haut (85dB) et Bas (65dB). Il est aussi compatible avec les aides auditives.
-- HAUT-PARLEUR & AUDIO BOOST : Ce téléphone est équipé dune touche damplification audio du combiné qui double le volume sonore en 1 clic jusquà 20dB et dune touche mains libres avec volume réglable pour continuer votre conversation sans avoir à tenir le combiné.
-- TOUCHES D’APPEL AVEC PHOTOS : 6 touches d’appel direct sont personnalisables avec de grandes photos. Cela permet d’identifier extrêmement simplement la touche à presser pour appeler ses correspondants privilégiés. Vous pouvez également enregistrer 10 mémoires indirectes (0 à 9).
 - LEADER DE LA TÉLÉPHONIE : Marque d’origine française spécialisée dans les télécommunications, Alcatel est l’un des leaders mondiaux dans le domaine de la téléphonie.
+- HAUT-PARLEUR & AUDIO BOOST : Ce téléphone est équipé dune touche damplification audio du combiné qui double le volume sonore en 1 clic jusquà 20dB et dune touche mains libres avec volume réglable pour continuer votre conversation sans avoir à tenir le combiné.
+- SONNERIE FORTE RÉGLABLE : Adaptez votre expérience sonore avec le téléphone filaire TMAX 10+ grâce à une sonnerie à 2 niveaux ajustable par curseur pour répondre à vos besoins découte : Haut (85dB) et Bas (65dB). Il est aussi compatible avec les aides auditives.
+- TOUCHES D’APPEL AVEC PHOTOS : 6 touches d’appel direct sont personnalisables avec de grandes photos. Cela permet d’identifier extrêmement simplement la touche à presser pour appeler ses correspondants privilégiés. Vous pouvez également enregistrer 10 mémoires indirectes (0 à 9).
 - IDÉAL POUR LES SÉNIORS : Le téléphone fixe filaire Alcatel TMAX 10+ possède des grosses touches pour simplifier la saisie des numéros, ainsi quun témoin lumineux qui alerte des appels entrants. Les touches sont en relief et en Braille. Il fonctionne sans piles ni alimentation secteur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

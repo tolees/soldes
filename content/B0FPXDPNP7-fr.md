@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUET ROBOT POUR APPRENDRE À CONSTRUIRE FACILEMENT – Garçons & filles de 4 ans et plus apprennent à créer, puis à mettre en scène des combats de ninja, avec le jeu de construction Le combat du robot dragon de Jay LEGO NINJAGO
-- FIGURINES ARTICULÉES – Les deux robots aux corps articulés ont un cockpit ouvrant pour accueillir une minifigurine et son arme et peuvent bouger queue, jambes et bras pour adopter différentes postures de combat
-- 2 MINIFIGURINES NINJAGO – Ce jeu interactif inclut Jay et un méchant monstre mutant, invitant les enfants à recréer l’action de la saison 4 de la série TV NINJAGO Le soulèvement des dragons
-- INTRODUCTION À LA CONSTRUCTION – Avec les sets LEGO pour enfants de 4 ans et plus, les plus jeunes apprennent à construire et partagent des moments agréables en famille
-- CADEAU AMUSANT POUR FAN DE NINJA – Ce ensemble LEGO, fait pour la construction et le jeu, est un superbe cadeau à offrir aux enfants dès 4 ans pour stimuler leur imagination et développer leurs compétences narratives
-- ENCORE PLUS D’AVENTURES AVEC LES NINJAS – Découvrez d’autres jouets NINJAGO (sets vendus séparément) incluant des robots, des dragons, des temples et des véhicules détaillés
 - ACCESSOIRES – Ce set daction inclut 4 armes interchangeables renforçant sa dimension ludique : 2 sabres, une lance et un jeu de griffes
+- 2 MINIFIGURINES NINJAGO – Ce jeu interactif inclut Jay et un méchant monstre mutant, invitant les enfants à recréer l’action de la saison 4 de la série TV NINJAGO Le soulèvement des dragons
+- ENCORE PLUS D’AVENTURES AVEC LES NINJAS – Découvrez d’autres jouets NINJAGO (sets vendus séparément) incluant des robots, des dragons, des temples et des véhicules détaillés
+- INTRODUCTION À LA CONSTRUCTION – Avec les sets LEGO pour enfants de 4 ans et plus, les plus jeunes apprennent à construire et partagent des moments agréables en famille
+- JOUET ROBOT POUR APPRENDRE À CONSTRUIRE FACILEMENT – Garçons & filles de 4 ans et plus apprennent à créer, puis à mettre en scène des combats de ninja, avec le jeu de construction Le combat du robot dragon de Jay LEGO NINJAGO
+- CADEAU AMUSANT POUR FAN DE NINJA – Ce ensemble LEGO, fait pour la construction et le jeu, est un superbe cadeau à offrir aux enfants dès 4 ans pour stimuler leur imagination et développer leurs compétences narratives
+- FIGURINES ARTICULÉES – Les deux robots aux corps articulés ont un cockpit ouvrant pour accueillir une minifigurine et son arme et peuvent bouger queue, jambes et bras pour adopter différentes postures de combat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPNP7{{</world>}}

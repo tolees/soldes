@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vitesses de transfert des données rapides, jusqu’à 200 Mo/s¹ en lecture
 - Design métallique ultra-compact et de qualité supérieure
 - Stockage haute capacité jusquà 256 Go²
-- Vitesses de transfert des données rapides, jusqu’à 200 Mo/s¹ en lecture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1W59VH3{{</world>}}

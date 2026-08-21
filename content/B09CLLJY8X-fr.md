@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Personalisation incomparable: LiveDash OLED 2ʺ, Éclairage exclusif ASUS Aura Sync RGB, comprenant un connecteur RGB et trois connecteurs adressables Gén. 2 RGB
-- Alimentation robuste: 18+2 Phases dalimentation évaluées à 90 A, Connecteurs dalimentation ProCool II, bobines microfines avec alliage spécial et condensateurs 10 K en métal noir fabriqués au Japon
-- Clavis USB fourni pour un son haute-fidélité.
-- Connectivité haute performance: USB 3.2 Gén. 2x2 paneau avant avec charge rapide PD3.0 60W, WiFi 6E embarqué, Marvell
-- AQtion 10 Gb Ethernet, Intel 2.5 Gb Ethernet, et ASUS LANGuard.
 - Socket AM4 AMD: Équipée pour les processeurs AMD Ryzen 5000 Series / 5000 G-Series / 4000 G-Series / 3000 Series / 3000 G-Series / 2000 Series / et 2000 G-Series.
+- AQtion 10 Gb Ethernet, Intel 2.5 Gb Ethernet, et ASUS LANGuard.
 - Design thermique complet: Dissipateurs thermiques VRM plus intégré Protection E/S en aluminium, protection thermique hautement conductrice, 5 dissipateurs thermiques M.2 avec plaques arrières intégrées et zone de Refroidissement Liquide ROG.
+- Connectivité haute performance: USB 3.2 Gén. 2x2 paneau avant avec charge rapide PD3.0 60W, WiFi 6E embarqué, Marvell
+- Alimentation robuste: 18+2 Phases dalimentation évaluées à 90 A, Connecteurs dalimentation ProCool II, bobines microfines avec alliage spécial et condensateurs 10 K en métal noir fabriqués au Japon
 - Audio gaming de pointe: ROG SupremeFX ALC4082 avec ESS ES9018Q2C DAC et le convertisseur numérique-analogique ROG
+- Clavis USB fourni pour un son haute-fidélité.
+- Personalisation incomparable: LiveDash OLED 2ʺ, Éclairage exclusif ASUS Aura Sync RGB, comprenant un connecteur RGB et trois connecteurs adressables Gén. 2 RGB
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09CLLJY8X{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GORE Selected Fabrics: résistant à l’eau et extrêmement respirant
-- Coupe ajustée pour une résistance minimale contre le vent et des performances optimales/une coupe spécifique au vélo
-- Cuissard à bretelles pour hommes, idéal pour les cyclistes par temps froid
 - GORE C5 Thermo Bib Tights+, Taille: L, Couleur: Noir/Jaune Fluo, 100643
+- GORE Selected Fabrics: résistant à l’eau et extrêmement respirant
+- Cuissard à bretelles pour hommes, idéal pour les cyclistes par temps froid
+- Coupe ajustée pour une résistance minimale contre le vent et des performances optimales/une coupe spécifique au vélo
 - GORE WINDSTOPPER Cup-Technologie, Matériau thermique avec imprégnation REP
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

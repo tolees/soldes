@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Description du produit</b>: Pieds surélevés pour permettre lécoulement de leau et laération - Motif permettant de couper un trou pour accueillir la plupart des ouvertures de drainage - silicone résistant à la chaleur - Passe au lave vaisselle
 - <b> Matière </b>: Plastique
+- <b>Description du produit</b>: Pieds surélevés pour permettre lécoulement de leau et laération - Motif permettant de couper un trou pour accueillir la plupart des ouvertures de drainage - silicone résistant à la chaleur - Passe au lave vaisselle
 - <b> Couleur </b>: Gris
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- R&P INTERNATIONAL
-- POLICE
 - INTERNATIONAL
 - MUSIC
+- POLICE
+- R&P INTERNATIONAL
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00009NJFO{{</world>}}

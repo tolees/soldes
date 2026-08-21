@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Catégorie : irrigation de jardin - Emballage : rouleau - Tresse : fil - tresse croisée - Pression déclatement : 20 bar
-- Accessoires : - Embout -Connecteur rapide - arrêt -Connecteur rapide - débit - Raccordement avec filetage G3/4" femelle
 - Température de fonctionnement : -10 / + 50°C - Nombre de couches : 4 - Taille : 1/2" - Longueur : 15m
 - Technologies : - Conformité REACH - Résistance aux UV - Anti-algues - Toutes saisons - Flexi
+- Catégorie : irrigation de jardin - Emballage : rouleau - Tresse : fil - tresse croisée - Pression déclatement : 20 bar
+- Accessoires : - Embout -Connecteur rapide - arrêt -Connecteur rapide - débit - Raccordement avec filetage G3/4" femelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSH673LC{{</world>}}

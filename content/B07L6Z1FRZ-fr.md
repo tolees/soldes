@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité 50 kg - Graduation : 5 g de 0 à 15 kg / 10 g de 15 à 50 kg
+- Fonction HOLD : Maintien laffichage après avoir retiré le colis. Cest pratique !
+- Grand écran LCD rétroéclairé (82 x 45 mm) - Hauteur des caractères 30 mm - 3 décimales
 - Garantie 5 ans - Garantie et SAV en France
 - Large plateau inox amovible, facilement lavable : 300 x 230 mm
-- Grand écran LCD rétroéclairé (82 x 45 mm) - Hauteur des caractères 30 mm - 3 décimales
-- Fonction HOLD : Maintien laffichage après avoir retiré le colis. Cest pratique !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L6Z1FRZ{{</world>}}

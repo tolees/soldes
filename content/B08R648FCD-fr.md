@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- produit 1: Convertisseurs de qualité studio pour lenregistrement et la lecture en 24 bit/192 kHz
 - produit 2: C ble microphone standard
-- produit 2: C ble noir
 - produit 2: Conforme à la directive européenne RoHS
+- produit 1: 2 préamplis micro à semi-conducteurs XMAX-L dune limpidité cristalline pour capturer tous les détails
+- produit 2: C ble noir
 - produit 2: Longueur 3 m
 - produit 1: Interface audio 2x2 compatible USB-C, alimentée par le bus
 - produit 1: 2 entrées instrument/ligne à grande réserve de niveau pour enregistrer la guitare, la basse et vos appareils de niveau de ligne préférés
-- produit 1: Convertisseurs de qualité studio pour lenregistrement et la lecture en 24 bit/192 kHz
-- produit 1: 2 préamplis micro à semi-conducteurs XMAX-L dune limpidité cristalline pour capturer tous les détails
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08R648FCD{{</world>}}

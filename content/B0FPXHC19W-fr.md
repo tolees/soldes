@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FIGURINE DANIMAL & 3 MINIFIGURINES – Construisez la chouette blanche Hedwige, pièce maîtresse de ce set LEGO Harry Potter, et ajoutez les minifigurines de Harry Potter, Hermione Granger & Ron Weasley
 - INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui permet d’enregistrer vos sets, de suivre votre progression, de zoomer et même de faire pivoter vos modèles en 3D
-- SCÈNES CULTE – Construisez des scènes miniatures de Harry Potter à l’école des sorciers, une carte Chocogrenouille avec Dumbledore, la pierre philosophale, 2 gallions et plus encore
 - SETS LEGO POUR ADULTE – Cette maquette LEGO Harry Potter fait partie d’une série de sets de construction d’exception destinés aux adultes qui aiment se plonger dans des projets créatifs
 - SET DE COLLECTION POUR ADULTE LEGO HARRY POTTER – Célébrez le 25e anniversaire de Harry Potter à l’école des sorciers avec cette maquette Édition collector qui inclut des scènes et des personnages culte
-- CADEAU HARRY POTTER POUR ADULTE – Offrez cette maquette LEGO Harry Potter, spéciale 25e anniversaire, à un.e adulte fan de Harry Potter ou à un.e collectionneur.se
+- FIGURINE DANIMAL & 3 MINIFIGURINES – Construisez la chouette blanche Hedwige, pièce maîtresse de ce set LEGO Harry Potter, et ajoutez les minifigurines de Harry Potter, Hermione Granger & Ron Weasley
+- SCÈNES CULTE – Construisez des scènes miniatures de Harry Potter à l’école des sorciers, une carte Chocogrenouille avec Dumbledore, la pierre philosophale, 2 gallions et plus encore
 - FONCTIONNALITÉS AMUSANTES – Faites tourner les 3 molettes pour ouvrir la malle et révéler une scène miniature dattaque de troll dans la salle de bain; faites pivoter la tête d’Hedwige ou déplacer la Reine sur l’échiquier magique
+- CADEAU HARRY POTTER POUR ADULTE – Offrez cette maquette LEGO Harry Potter, spéciale 25e anniversaire, à un.e adulte fan de Harry Potter ou à un.e collectionneur.se
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXHC19W{{</world>}}

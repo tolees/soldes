@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🦹 BLUFF, TACTIQUE ET TRAHISON : Les retournements de situations sont légions car certaines cartes ont des rôles spécifiques. Des espions pourraient se glisser dans votre jeu et rendre lissue incertaine. À moins que des assassins viennent vous retirer les cartes vous rapportant le plus.
-- 👑 OBJECTIF : À chaque tour, vous jouez 3 cartes : une à la table de la Reine pour influencer le statut d’une famille, une chez vous et une chez un adversaire. En fin de partie, c’est le rapport de force au banquet qui détermine quelles familles vous rapportent ou vous font perdre des points. Vous devrez collectionner les bonnes familles tout en préservant leur valeur à la table de la reine.
-- 👨‍👩‍👦‍👦 2 à 5 joueurs🎂 8 ans et plus ⏱20 minutes de jeu environ
-- 👸 INTRIGUE À LA COUR : Dans ce jeu de cartes tous les coups sont permis. Ce soir a lieu le banquet de la reine. Un évènement majeur où les familles du royaume veulent se montrer à leur avantage. Les manœuvres vont bon train et tous les coups sont permis pour placer son favori sur le devant de la scène.
 - 🏰 POUR JOUER EN FAMILLE OU ENTRES AMIS : Ce jeu de société est accessible dès 8 ans et peut se jouer jusquà 5 joueurs. Les parties sont rapides et les règles sont simples avec quelques types de cartes à apprendre.
+- 👨‍👩‍👦‍👦 2 à 5 joueurs🎂 8 ans et plus ⏱20 minutes de jeu environ
+- 👑 OBJECTIF : À chaque tour, vous jouez 3 cartes : une à la table de la Reine pour influencer le statut d’une famille, une chez vous et une chez un adversaire. En fin de partie, c’est le rapport de force au banquet qui détermine quelles familles vous rapportent ou vous font perdre des points. Vous devrez collectionner les bonnes familles tout en préservant leur valeur à la table de la reine.
+- 🦹 BLUFF, TACTIQUE ET TRAHISON : Les retournements de situations sont légions car certaines cartes ont des rôles spécifiques. Des espions pourraient se glisser dans votre jeu et rendre lissue incertaine. À moins que des assassins viennent vous retirer les cartes vous rapportant le plus.
+- 👸 INTRIGUE À LA COUR : Dans ce jeu de cartes tous les coups sont permis. Ce soir a lieu le banquet de la reine. Un évènement majeur où les familles du royaume veulent se montrer à leur avantage. Les manœuvres vont bon train et tous les coups sont permis pour placer son favori sur le devant de la scène.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CWVMYLBJ{{</world>}}

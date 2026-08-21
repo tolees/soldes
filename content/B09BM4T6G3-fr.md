@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NETTOYAGE : Surface solide en verre trempé résistant aux taches et aux odeurs ; à nettoyer avec un chiffon humide ; ne pas immerger dans leau ; ne pas mettre au lave-vaisselle ; sécher soigneusement
-- FONCTIONNALITÉ UNIQUE : bouton rotatif au design inspiré des fours électriques KitchenAid, tournez-le pour changer dunité de mesure et appuyez pour remettre la balance à zéro ou pour léteindre
 - PILES : alimenté par 3 piles AAA (non incluses) ; la balance peut être éteinte manuellement et séteindra automatiquement après 3 minutes sans changement de poids sur les plateformes
-- CUISINEZ EN TOUTE CONFIANCE : pesez les ingrédients secs (capacité 5000 g, précision 1 g) et liquides (capacité 5000 ml, précision 1 ml)
+- NETTOYAGE : Surface solide en verre trempé résistant aux taches et aux odeurs ; à nettoyer avec un chiffon humide ; ne pas immerger dans leau ; ne pas mettre au lave-vaisselle ; sécher soigneusement
 - FONCTION TARE : la fonction tare remet la balance à zéro pour soustraire le poids du récipient ou pour peser tous vos ingrédients dans un même récipient
+- CUISINEZ EN TOUTE CONFIANCE : pesez les ingrédients secs (capacité 5000 g, précision 1 g) et liquides (capacité 5000 ml, précision 1 ml)
+- FONCTIONNALITÉ UNIQUE : bouton rotatif au design inspiré des fours électriques KitchenAid, tournez-le pour changer dunité de mesure et appuyez pour remettre la balance à zéro ou pour léteindre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BM4T6G3{{</world>}}

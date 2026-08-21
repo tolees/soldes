@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jeu de construction pour garçon ou fille dès 10 ans avec maquette LEGO de voiture Ferrari – Ce jouet de construction invite garçons et filles à construire un modèle réduit réaliste de la Ferrari FXX K, présentant des caractéristiques authentiques
-- Livrée emblématique – Avec sa livrée rouge Ferrari emblématique, cette maquette réduite constitue une décoration fascinante qui sera du plus bel effet dans la chambre dun(e) fan de supercars
-- Instructions intuitives – L’application LEGO Builder guide votre enfant et lui permet de vivre une aventure de construction intuitive : il peut zoomer, faire pivoter les maquettes en 3D, sauvegarder ses sets et suivre sa progression
-- Portes en élytre – Les enfants peuvent s’amuser à assembler tous les détails de cette réplique de Ferrari, tels que les portes en élytre ou le capot et le coffre qui s’ouvrent
+- Un jouet de construction STEM avec des caractéristiques réalistes – Invitez les jeunes constructeurs à découvrir des concepts d’ingénierie et de mécanique en construisant le moteur V12 avec pistons mobiles et en testant le différentiel
 - Un cadeau pour les passionné(e)s de voitures dès 10 ans – Ce set LEGO constitue un cadeau original pour un garçon ou une fille qui aime les modèles réduits de voitures, ainsi que pour tous les passionné(e)s de Ferrari
 - Introduction à l’ingénierie – Les modèles à construire LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie
-- Un jouet de construction STEM avec des caractéristiques réalistes – Invitez les jeunes constructeurs à découvrir des concepts d’ingénierie et de mécanique en construisant le moteur V12 avec pistons mobiles et en testant le différentiel
+- Livrée emblématique – Avec sa livrée rouge Ferrari emblématique, cette maquette réduite constitue une décoration fascinante qui sera du plus bel effet dans la chambre dun(e) fan de supercars
+- Portes en élytre – Les enfants peuvent s’amuser à assembler tous les détails de cette réplique de Ferrari, tels que les portes en élytre ou le capot et le coffre qui s’ouvrent
+- Jeu de construction pour garçon ou fille dès 10 ans avec maquette LEGO de voiture Ferrari – Ce jouet de construction invite garçons et filles à construire un modèle réduit réaliste de la Ferrari FXX K, présentant des caractéristiques authentiques
+- Instructions intuitives – L’application LEGO Builder guide votre enfant et lui permet de vivre une aventure de construction intuitive : il peut zoomer, faire pivoter les maquettes en 3D, sauvegarder ses sets et suivre sa progression
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DWDRX69Q{{</world>}}

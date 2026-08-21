@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Se range à plat
-- Patins antiglisse
-- Stable et facile à installer
-- Léger et pratique
 - 2 parties croisées
+- Patins antiglisse
+- Léger et pratique
+- Se range à plat
+- Stable et facile à installer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000RW1P5K{{</world>}}

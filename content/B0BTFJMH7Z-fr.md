@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manchon:Manche longue
-- Type dajustement:Régulière
 - Composition du matériau:Coton de transition / en conversion (55 %), Better Cotton Initiative (45 %)
 - Instructions dentretien:Lavage en machine
+- Type dajustement:Régulière
+- Manchon:Manche longue
 - Fermeture:Cordon de serrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

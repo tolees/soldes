@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fonction débrayable : souvre même si une clé est restée dans la porte côté intérieur.
 - Niveau de sécurité 3.
-- Jeu de 2 cylindres sentrouvrant débrayables ASTRAL 2,9 en laiton nickelé 10 pistons, 2 entrées 30+30, protection contre le perçage et le crochetage. Carte personnelle.
 - 4 clés réversibles.
+- Jeu de 2 cylindres sentrouvrant débrayables ASTRAL 2,9 en laiton nickelé 10 pistons, 2 entrées 30+30, protection contre le perçage et le crochetage. Carte personnelle.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BG4SKDF{{</world>}}

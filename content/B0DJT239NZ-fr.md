@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Sans BPA] Fabriqué en plastique de haute qualité
+- [Mesures] Porte-savon 15 x 8,2 x 2,1 cm, gobelet, 6 x 7,6 x 11 cm; et doseur 7,6 x 7,6 x 16 cm
+- [Mesures] Porte-savon 15 x 8,2 x 2,1 cm, gobelet, 6 x 7,6 x 11 cm; et doseur 7,6 x 7,6 x 16 cm
 - Design minimaliste : le design des lignes épurées et épurées de la série sadapte à tous les types de salles de bains
-- [Mesures] Porte-savon 15 x 8,2 x 2,1 cm, gobelet, 6 x 7,6 x 11 cm; et doseur 7,6 x 7,6 x 16 cm
-- [Mesures] Porte-savon 15 x 8,2 x 2,1 cm, gobelet, 6 x 7,6 x 11 cm; et doseur 7,6 x 7,6 x 16 cm
+- [Sans BPA] Fabriqué en plastique de haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJT239NZ{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité: 220.0
-- Dimensions de lemballage de larticle: 9.8 L x 19.2 H x 13.0 W (centimeters)
 - Couleur : Transparent
+- Dimensions de lemballage de larticle: 9.8 L x 19.2 H x 13.0 W (centimeters)
 - Verre trempé double
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

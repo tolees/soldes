@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LICENCE OFFICIELLE DISNEY VAIANA – Inspirée du film Vaiana 2, cette rame magique est un jouet authentique sous licence officielle.
-- EXPÉRIENCE DE JEU INTERACTIVE – Permet aux enfants de revivre les aventures de Vaiana et d’explorer leur imagination à travers le jeu.
 - TAILLE ADAPTÉE AUX ENFANTS – Conçue pour une prise en main facile, idéale pour les petits aventuriers dès 3 ans.
+- EXPÉRIENCE DE JEU INTERACTIVE – Permet aux enfants de revivre les aventures de Vaiana et d’explorer leur imagination à travers le jeu.
 - IDÉE CADEAU ENFANTS – Un jouet idéal pour un anniversaire, Noël ou toute occasion spéciale pour les fans de Vaiana.
 - RAME MAGIQUE EFFETS LUMINEUX ET SONORES – Appuie sur la rame pour déclencher des lumières et des sons immersifs qui rappellent l’univers du film.
 

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en mesh.
 - Logo de léquipe de Formule 1 Mercedes - AMG Petronas.
-- Contient au moins 20 % de matériaux recyclés.
-- Semelle extérieure en caoutchouc.
 - Semelle intermédiaire Cloudfoam.
-- Chaussant standard.
-- Fermeture à lacets.
+- Contient au moins 20 % de matériaux recyclés.
 - Renfort au talon et renfort en TPU.
+- Fermeture à lacets.
+- Tige en mesh.
+- Semelle extérieure en caoutchouc.
+- Chaussant standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVV5D3J{{</world>}}

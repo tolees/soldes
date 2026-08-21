@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 - Un modèle fuselé classique pour tous les jours
+- LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
 - Plus d’aisance pour plus de confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})

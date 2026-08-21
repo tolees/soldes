@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- STRATÉGIE AUDACIEUSE : On élabore des stratégies avec les cartes Tactique où figurent des régiments et des actions de combat. Les joueurs déclarent leurs attaques et déploient leurs régiments. Ils peuvent effectuer des ralliements, du sabotage, des bombardements, de lespionnage et autres manœuvres tactiques
-- ON COLLECTE DES JETONS CONQUÊTE POUR GAGNER : Inclut 6 jetons Conquête de différentes couleurs. Les joueurs les récupèrent quand ils ont toutes les cartes Continent dune même couleur. Pour gagner, il faut être le premier à avoir 2 jetons Conquête
-- CONQUÉRIR DES CONTINENTS À COUP DE DÉS : Dans ce jeu de conquête stratégique, les joueurs essayent de conquérir le plus de continents possible. Les joueurs saffrontent pour une des 42 cartes Continent en lançant les dés
-- DES PARTIES DENVIRON 20 MINUTES : Ce jeu de cartes et de dés permet de vivre toute lintensité du jeu de plateau Risk, sauf que les parties sont plus rapides et demandent moins de préparation Une partie du jeu de stratégie Risk Strike environ 20 minutes
 - JEU RISK AVEC DES CARTES ET DES DÉS : La conquête du monde en un éclair ! Pas besoin de plateau de jeu ! Ce jeu rapide de cartes et de dés Risk Strike est une toute nouvelle manière de jouer à Risk
+- STRATÉGIE AUDACIEUSE : On élabore des stratégies avec les cartes Tactique où figurent des régiments et des actions de combat. Les joueurs déclarent leurs attaques et déploient leurs régiments. Ils peuvent effectuer des ralliements, du sabotage, des bombardements, de lespionnage et autres manœuvres tactiques
+- DES PARTIES DENVIRON 20 MINUTES : Ce jeu de cartes et de dés permet de vivre toute lintensité du jeu de plateau Risk, sauf que les parties sont plus rapides et demandent moins de préparation Une partie du jeu de stratégie Risk Strike environ 20 minutes
+- CONQUÉRIR DES CONTINENTS À COUP DE DÉS : Dans ce jeu de conquête stratégique, les joueurs essayent de conquérir le plus de continents possible. Les joueurs saffrontent pour une des 42 cartes Continent en lançant les dés
+- ON COLLECTE DES JETONS CONQUÊTE POUR GAGNER : Inclut 6 jetons Conquête de différentes couleurs. Les joueurs les récupèrent quand ils ont toutes les cartes Continent dune même couleur. Pour gagner, il faut être le premier à avoir 2 jetons Conquête
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C7VRSXQX{{</world>}}

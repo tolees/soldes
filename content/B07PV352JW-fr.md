@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SE NETTOIE À LEAU : Nettoyez vos outils à leau avant séchage. Le séchage : hors poussière, entre 30 minutes et 1 h, et à cœur entre 1 à 8 jours selon l’épaisseur.
-- APPLICATION : Cet auxiliaire peut sutiliser en mélange avec les couleurs Studio Acrylics et Mat Pub ou seul comme comme un vernis brillant appliqué au pinceau. Fluidifiez les couleurs des gammes Studio Acrylics ou Mat Pub et obtenez la viscosité souhaitée sans amaigrir la peinture (contrairement à l’ajout d’eau). Pour les techniques de dripping et de pouring, ce liant se mélange à la couleur pour faire des filaments ou en coulée sur un support.
 - LIANT ACRYLIQUE FLUIDE : Ce médium de lissage fluide, brillant, transparent et non-jaunissant est idéal pour créer des marbrures et des coulures nettes, lisses et laquées. Conçu pour fluidifier vos couleurs de façon optimale, il permet de réaliser les techniques de coulage ou « pouring ». Indélébile après séchage, il donne un film souple. Flacon de 1 litre.
-- LE SAVOIR-FAIRE PÉBÉO : Précurseur de l’acrylique en France, depuis 1930, Pébéo inscrit son histoire à travers un travail étroit avec les étudiants, graphistes, peintres amateurs et professionnels de l’univers des Beaux-Arts.
+- SE NETTOIE À LEAU : Nettoyez vos outils à leau avant séchage. Le séchage : hors poussière, entre 30 minutes et 1 h, et à cœur entre 1 à 8 jours selon l’épaisseur.
 - DES COULEURS INTACTES : Transparent et non jaunissant, ce liant naltère pas les couleurs originales de votre peinture : pas de mauvaise surprise après le séchage. Ce médium peut aussi sutiliser avec lhuile de silicone Pébéo pour obtenir des effets alvéolés.
+- LE SAVOIR-FAIRE PÉBÉO : Précurseur de l’acrylique en France, depuis 1930, Pébéo inscrit son histoire à travers un travail étroit avec les étudiants, graphistes, peintres amateurs et professionnels de l’univers des Beaux-Arts.
+- APPLICATION : Cet auxiliaire peut sutiliser en mélange avec les couleurs Studio Acrylics et Mat Pub ou seul comme comme un vernis brillant appliqué au pinceau. Fluidifiez les couleurs des gammes Studio Acrylics ou Mat Pub et obtenez la viscosité souhaitée sans amaigrir la peinture (contrairement à l’ajout d’eau). Pour les techniques de dripping et de pouring, ce liant se mélange à la couleur pour faire des filaments ou en coulée sur un support.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07PV352JW{{</world>}}

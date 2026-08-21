@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : toile
-- Matériau intérieur : textile
 - Fermeture : caoutchouc
+- Matériau intérieur : textile
+- Matériau extérieur : toile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DKZ3HRD{{</world>}}

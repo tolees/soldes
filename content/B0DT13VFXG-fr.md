@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EXCELLENT CONFORT : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Il est très apprécié grâce à sa matière souple et à sa coupe classique.
-- CONFORT CLASSIQUE : ce modèle, avec un cordon serrage au niveau de la ceinture, est agréable à porter. Les deux poches plaquées sur le côté, la poche arrière passepoilée et le branding Tommy Hilfiger rehaussent le côté élégant.
-- CHIC ET VERSATILE : ce modèle se distingue par son confort inégalé et son tissu doux. Une valeur sûre pour s’habiller tous les jours ou s’offrir un moment de détente à la maison.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
+- CHIC ET VERSATILE : ce modèle se distingue par son confort inégalé et son tissu doux. Une valeur sûre pour s’habiller tous les jours ou s’offrir un moment de détente à la maison.
+- CONFORT CLASSIQUE : ce modèle, avec un cordon serrage au niveau de la ceinture, est agréable à porter. Les deux poches plaquées sur le côté, la poche arrière passepoilée et le branding Tommy Hilfiger rehaussent le côté élégant.
 - MATIÈRE ET ENTRETIEN : 60 % coton en transition et 40 % polyester PES. Lavage en machine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

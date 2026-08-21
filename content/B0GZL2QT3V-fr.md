@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UN PLATFORMER 2.9D ÉNERGIQUE : 4 mondes hauts en couleur et une montée en intensité progressive jusqu’à l’affrontement final contre la reine Momie.
 - DE NOMBREUX DOJOS POUR LES FANS DE DÉFIS : Des challenges solo/coop, des niveaux chronos et des épreuves compétitives offrant des récompenses et du contenu bonus.
 - TROIS MARSUPILAMIS JOUABLES : Chaque marsupilami possède une capacité unique. Change de personnage en solo ou en duo afin de progresser dans les niveaux et daccéder à certaines zones…
 - COOP LOCALE À 2 JOUEURS : Profite de toute l’aventure à deux et affronte tes amis dans les Battle Dojos, des mini-jeux rapides et compétitifs.
-- UN PLATFORMER 2.9D ÉNERGIQUE : 4 mondes hauts en couleur et une montée en intensité progressive jusqu’à l’affrontement final contre la reine Momie.
 - UN UNIVERS VIVANT, COLORÉ ET FIDÈLE À LA LICENCE : Des environnements et des boss mémorables, des niveaux cachés et une ambiance rythmée et fun pour toute la famille.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

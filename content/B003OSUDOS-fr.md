@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Panneau frontal zippé pour un accès facile, avec de la place pour des ordinateurs portables de 13"
+- Poche intérieure en filet avec fermeture éclair
+- Fabriqué en 100 % nylon
 - Hauteur : 44 cm, largeur : 29,5 cm, profondeur : 22 cm
 - Compartiment principal avec poche frontale spacieuse pour ranger les petits objets ; bretelles rembourrées avec SGS
-- Fabriqué en 100 % nylon
-- Poche intérieure en filet avec fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003OSUDOS{{</world>}}

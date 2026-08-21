@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard
 - Semelle extérieure Sprintplate 360 multi-surfaces/terrains fermes
+- Coupe standard
 - Doublure textile
 - Tige en Fiberskin avec imprimé Sprintgrid
 - Fermeture à lacets

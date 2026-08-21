@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAPED: depuis sa création en 1947, la société MAPED (manufacture darticles de précision et de dessin) appuie son développement sur son savoir-faire industriel, sa culture d’innovation et sa réactivité pour offrir à ses utilisateurs des solutions toujours
-- Gamme incassable: ce kit de géométrie MAPED est composé d’instruments d’une gamme réalisée en matériau 100 % résistant aux chocs. Les produits peuvent donc supporter flexions, torsions et chocs sans se casser. Idéaux dans les cartables surchargés et pour
 - Instruments ergonomiques: Les 4 pièces du kit MAPED offrent une facilité de traçage et de mesure pour les collégiens et les lycéens. Ils se manient aisément et se glissent facilement dans les cartables surchargés. Les doubles graduations sont imprimées av
+- MAPED: depuis sa création en 1947, la société MAPED (manufacture darticles de précision et de dessin) appuie son développement sur son savoir-faire industriel, sa culture d’innovation et sa réactivité pour offrir à ses utilisateurs des solutions toujours
 - Le kit en détail: la règle 30 cm incassable est graduée sur les deux côtés. Le triple décimètre est doté d’un toucher soft antidérapant et d’une petite poignée pour une utilisation facile et agréable. L’équerre 60° et l’équerre 45° sont graduées sur deux
+- Gamme incassable: ce kit de géométrie MAPED est composé d’instruments d’une gamme réalisée en matériau 100 % résistant aux chocs. Les produits peuvent donc supporter flexions, torsions et chocs sans se casser. Idéaux dans les cartables surchargés et pour
 - La panoplie de traçage complète: spécialement conçu par MAPED, ce kit réunit tous les instruments de traçage dont votre enfant a besoin pour apprendre et réussir en cours de géométrie. Lignes droites, angles droits et angles géométriques, plus rien n’est
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

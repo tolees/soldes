@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - OBJET BONUS DANS LE JEU – Les instructions sont disponibles dans l’application LEGO Builder et le set inclut un objet bonus : une tenue de Cate Miaoudi à débloquer dans le jeu LEGO Fortnite
-- MINIFIGURINE LEGO FORTNITE – Donnez vie à l’action du jeu vidéo avec la minifigurine de KIT qui peut être exposée à côté de la maquette principale
+- IDÉE DE CADEAU POUR GAMER – Marquez des points en offrant ce jouet en briques à un garçon ou une fille de 12 ans ou plus, passionné.e de jeu vidéo et de loisirs créatifs, pour un anniversaire ou une autre occasion spéciale
 - PRODUITS DÉRIVÉS LEGO FORTNITE – Complétez votre butin avec d’autres sets de construction à collectionner de la gamme LEGO Fortnite, tous vendus séparément
 - DÉCORATION GAMING POUR ADO – Les fans peuvent transformer les aventures de LEGO Fortnite en jeu de rôle, puis exposer la figurine de Mécha sur un bureau ou une étagère pour créer une décoration spectaculaire
-- JOUET ROBOT POUR GARÇON OU FILLE DÈS 12 ANS – Plein gaz sur la créativité avec le set de construction KIT LEGO Fortnite pour les adolescent.e.s dès 12 ans, inspiré du célébre jeu sandbox
 - ACCESSOIRES & FONCTIONNALITÉS – Le modèle de KIT est doté de bras et jambes mobiles et tient un pic Griffes de puissance ; une manivelle dans son dos permet de faire tourner la roue de moto
-- IDÉE DE CADEAU POUR GAMER – Marquez des points en offrant ce jouet en briques à un garçon ou une fille de 12 ans ou plus, passionné.e de jeu vidéo et de loisirs créatifs, pour un anniversaire ou une autre occasion spéciale
+- MINIFIGURINE LEGO FORTNITE – Donnez vie à l’action du jeu vidéo avec la minifigurine de KIT qui peut être exposée à côté de la maquette principale
+- JOUET ROBOT POUR GARÇON OU FILLE DÈS 12 ANS – Plein gaz sur la créativité avec le set de construction KIT LEGO Fortnite pour les adolescent.e.s dès 12 ans, inspiré du célébre jeu sandbox
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXCX3LT{{</world>}}

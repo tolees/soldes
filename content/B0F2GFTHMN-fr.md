@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard.
-- Lacets.
-- Semelle de propreté en textile.
 - Semelle intermédiaire en EVA.
+- Lacets.
 - Tige en textile et matière synthétique.
+- Semelle de propreté en textile.
+- Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2GFTHMN{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle PureGEL au talon pour un confort accru
+- Tige en mesh technique léger et stable
 - Idéal pour les coureurs qui sentraînent en soirée
 - Amorti FF BLAST+ Eco à retour dénergie élevé
-- Tige en mesh technique léger et stable
+- Semelle PureGEL au talon pour un confort accru
 - Détails réfléchissants à 360° pour une visibilité nocturne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

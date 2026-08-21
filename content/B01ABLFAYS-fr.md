@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le jet réglable sadapte parfaitement à lobjet à traiter
+- Pour les projets petits à moyens
 - Pour peintures murales pour lintérieur
 - Application de peinture avec un pouvoir couvrant homogène en seulement une étape de travail
-- Pour les projets petits à moyens
+- Le jet réglable sadapte parfaitement à lobjet à traiter
 - Pistolet démontable permettant un changement rapide du pistolet et un nettoyage facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

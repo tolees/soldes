@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche utilitaire avant avec organiseur
 - Housse rembourrée pour ordinateur portable 15 inch
+- Poche utilitaire avant avec organiseur
 - 100 % polyester recyclé 600 deniers
 - Deux compartiments principaux
 - Poche de rangement avant zippée

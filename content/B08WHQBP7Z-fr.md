@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur standard
 - Fermeture éclair
+- Longueur standard
 - Classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

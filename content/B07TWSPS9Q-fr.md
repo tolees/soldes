@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 0.33kg Poids x 7L Volume
 - 22 Hauteur x 29 Largeur x 16.5 Profondeur cm
-- 100% Polyamide
 - Sac à Bandoulière avec Compartiment pour Téléphone
+- 0.33kg Poids x 7L Volume
 - Hydrofuge
+- 100% Polyamide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TWSPS9Q{{</world>}}

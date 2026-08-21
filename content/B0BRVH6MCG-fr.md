@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design moderne
-- Pinocchio à vélo
 - Tissu respirant
+- Pinocchio à vélo
+- Design moderne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRVH6MCG{{</world>}}

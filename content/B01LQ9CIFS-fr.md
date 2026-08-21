@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- couleur assortie.
 - 16,0 cm avec grands anneaux
+- couleur assortie.
 - Différents motifs : vagues, dents de scie et dentelles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

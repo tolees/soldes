@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VISION PAR FAIBLE LUMINOSITÉ : obtenez une image claire de ce quil se passe sur le pas de votre porte au crépuscule et même une fois la nuit tombée.
+- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : avec un abonnement Ring Home, sauvegardez vos vidéos enregistrées jusquà 180 jours pour les revoir à tout moment, recevez des notifications de personnes et de colis, et bien plus encore. (Vendu séparément).*
 - VIDÉO HD 1536p : caméra-sonnette vidéo sans fil avec vidéo HD 1536p pour mieux voir les visiteurs grâce à une vue plus large.
+- DÉTECTION DE MOUVEMENTS 3D ET ZONES AÉRIENNES : repérez quand et où un événement de mouvements commence grâce à la vue aérienne de la carte.
+- VISION PAR FAIBLE LUMINOSITÉ : obtenez une image claire de ce quil se passe sur le pas de votre porte au crépuscule et même une fois la nuit tombée.
+- NOTIFICATIONS DE COLIS : obtenez des notifications en temps réel lorsquun colis arrive grâce à la fonctionnalité Notifications de colis, disponible avec un abonnement Ring Home (vendu séparément).
+- FONCTIONNE AVEC ALEXA : jumelez cet appareil avec un Ring Chime ou un appareil avec Alexa intégré compatible pour entendre les notifications audio dans votre domicile.
 - SYSTÈME AUDIO BIDIRECTIONNEL : parlez aux personnes se trouvant sur le pas de la porte.
 - VIDÉO EN PLAN MOYEN : suivez les livraisons de colis sur le pas de votre porte et profitez dun plan plus large pour mieux voir les visiteurs.
-- VOYEZ-EN PLUS. SACHEZ-EN PLUS. PROTÉGEZ PLUS : avec un abonnement Ring Home, sauvegardez vos vidéos enregistrées jusquà 180 jours pour les revoir à tout moment, recevez des notifications de personnes et de colis, et bien plus encore. (Vendu séparément).*
-- FONCTIONNE AVEC ALEXA : jumelez cet appareil avec un Ring Chime ou un appareil avec Alexa intégré compatible pour entendre les notifications audio dans votre domicile.
-- NOTIFICATIONS DE COLIS : obtenez des notifications en temps réel lorsquun colis arrive grâce à la fonctionnalité Notifications de colis, disponible avec un abonnement Ring Home (vendu séparément).
-- DÉTECTION DE MOUVEMENTS 3D ET ZONES AÉRIENNES : repérez quand et où un événement de mouvements commence grâce à la vue aérienne de la carte.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B2BNM4PV{{</world>}}

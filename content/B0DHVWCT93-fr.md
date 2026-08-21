@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
 - Tige textile avec bout renforcé.
 - RAIN.RDY.
-- Semelle intermédiaire en EVA.
 - Chaussant standard.
+- Semelle intermédiaire en EVA.
+- Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVWCT93{{</world>}}

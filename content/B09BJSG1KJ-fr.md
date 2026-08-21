@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - DIFFÉRENTES OPTIONS DE FIXATION : Cette prise multiple peut être installée par fixation au mur avec des vis (non fournies), par fixation avec collier (non fourni) ou simplement en la posant sur un meuble.
 - DESIGN ROTATIF ET INNOVANT : Cette rallonge multiprise se distingue par son design cylindrique rotatif qui permet dorienter les prises selon vos besoins. Le socle rétractable des prises empêche laccumulation de poussière hors utilisation.
+- PROTECTION PARAFOUDRE : Cette multiprise est munie dun parafoudre pour protéger les appareils branchés contre les surtensions et dun voyant signalant l’état du parafoudre (vert, la multiprise est protégée ; éteint, la protection nest plus active).
 - LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
 - OPTIMISATION DES BRANCHEMENTS : Ce bloc multiprise Legrand possède des prises orientées à 45° et 90° et deux chargeurs USB-A/USB-C pour des branchements multiples sans risque de bloquer les autres prises.
-- PROTECTION PARAFOUDRE : Cette multiprise est munie dun parafoudre pour protéger les appareils branchés contre les surtensions et dun voyant signalant l’état du parafoudre (vert, la multiprise est protégée ; éteint, la protection nest plus active).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BJSG1KJ{{</world>}}

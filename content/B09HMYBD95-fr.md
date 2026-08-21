@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe classique
-- Coupe droite
 - Col rond
-- Respirante
+- Coupe classique
 - Tissu doux
+- Coupe droite
+- Respirante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HMYBD95{{</world>}}

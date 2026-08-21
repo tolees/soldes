@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - BattleBus Outfit: Bot Air Balloon Back Bling, Pick Axle Pickaxe
-- Roll out, Rise up or Beep Beep with the Transformers Pack! Includes 3 Outfits, 3 Back Blings, 3 Pickaxes, 2 Emotes and 1,000 V-Bucks!
 - +1,000 V-Bucks!
-- Bumblebee Outfit: Bumblebees Wings Back Bling, Stinger Sword Pickaxe, Battle Ready Emote
+- Roll out, Rise up or Beep Beep with the Transformers Pack! Includes 3 Outfits, 3 Back Blings, 3 Pickaxes, 2 Emotes and 1,000 V-Bucks!
 - Megatron Outfit: Decepticon Emblem Back Bling, Energon Mace Pickaxe, Fusion Cannon Emote
+- Bumblebee Outfit: Bumblebees Wings Back Bling, Stinger Sword Pickaxe, Battle Ready Emote
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB88ZDHQ{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Branding Tommy Hilfiger
+- Bande emblématique à lintérieur du col
 - Drapeau Tommy Hilfiger brodé sur la poitrine
+- Branding Tommy Hilfiger
 - Col en V
 - Standard
-- Bande emblématique à lintérieur du col
 - Tissu en pur coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})

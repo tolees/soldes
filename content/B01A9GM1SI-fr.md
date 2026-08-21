@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec éclairage LED pour une bonne visibilité de la zone de travail
-- Mécanisme de frappe pneumatique pour des perçages très faciles dans le béton
-- Moteur puissant et engrenage métallique pour un couple élevé
 - Perceuse à percussion sans fil te-hd 18 li kit - 18 v / 1,5 mah - régime i : 0-1100 trs/min / régime ii : 0-5700 trs/min - 9,9 nm - mandrin 12 mm - temps de charge 30 min, - quick-stop - livré en coffret plastique avec 1 batterie et 1 chargeur
-- Livré sans batterie, ni chargeur (disponible séparément)
+- Moteur puissant et engrenage métallique pour un couple élevé
 - 3 fonctions: vissage, perçage, perçage à percussion même dans le béton
+- Mécanisme de frappe pneumatique pour des perçages très faciles dans le béton
+- Livré sans batterie, ni chargeur (disponible séparément)
+- Avec éclairage LED pour une bonne visibilité de la zone de travail
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01A9GM1SI{{</world>}}

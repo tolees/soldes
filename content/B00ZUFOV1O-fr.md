@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NETTOYANT MULTI-USAGES pour vos surfaces en marbres ou pierres naturelles polies comme vos meubles de salle de bain, plan de travail, table, pierres tombales…
 - SPECIAL MARBRE - Nettoyant spécialement conçu pour vos surfaces en marbre, pierres marbrières, granite, pierres bleues, pierres naturelles polies.
 - APTE AU CONTACT ALIMENTAIRE avec rinçage selon larrêté du 8/09/99. Il est en pH neutre.
-- MODE DEMPLOI : Pulvériser à environ 20cm de la surface. Etaler avec une éponge humide. Laisser agir quelques minutes. Nettoyer, rincer puis essuyer avec une microfibre.
+- NETTOYANT MULTI-USAGES pour vos surfaces en marbres ou pierres naturelles polies comme vos meubles de salle de bain, plan de travail, table, pierres tombales…
 - NOTRE ENGAGEMENT : Engagé dans une démarche responsable, Starwax œuvre pour réduire le plastique vierge, remplacer par du plastique recyclé ou du carton et proposer des recharges.
+- MODE DEMPLOI : Pulvériser à environ 20cm de la surface. Etaler avec une éponge humide. Laisser agir quelques minutes. Nettoyer, rincer puis essuyer avec une microfibre.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00ZUFOV1O{{</world>}}

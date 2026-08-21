@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CET AUTOMNE… LA MORT A UNE CLÉ DE CHAMBRE ! Dans ce jeu de plateforme 2.5D baigné de sang, tout droit sorti de vos pires cauchemars : Affrontez des étages cauchemardesques à thème horrifique ! Faites face à des tueurs inspirés des recoins les plus glauques de votre vidéoclub local
-- Sept tueurs en série. Un hôtel hanté. Et une seconde personnalité dans sa tête… Voici le Dr Carnival : meurtrier, psychopathe, monstre ancien dévastateur — et la clé de sa survie
 - À chaque fois que vous mourez, votre ancien vous revient se battre à vos côtés — comme un fantôme assoiffé de vengeance ! LE SANG, C’EST LE POUVOIR ! Plus vous tuez, plus vous devenez puissant. Mais si le sang cesse de couler… c’est vous la prochaine cible
-- L’ÉVEIL DE CARNIVAL ! Déchaînez la puissance brutale du tueur en série dans votre esprit. Renversez le cours du combat. Devenez une légende
 - MODE COOPÉRATIF EN LIGNE ! Campagnes jusqu’à 4 joueurs
+- L’ÉVEIL DE CARNIVAL ! Déchaînez la puissance brutale du tueur en série dans votre esprit. Renversez le cours du combat. Devenez une légende
+- Sept tueurs en série. Un hôtel hanté. Et une seconde personnalité dans sa tête… Voici le Dr Carnival : meurtrier, psychopathe, monstre ancien dévastateur — et la clé de sa survie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FJSJ6LGK{{</world>}}

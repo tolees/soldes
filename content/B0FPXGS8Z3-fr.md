@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN JOUET INTERACTIF – Le tracteur dispose de points dattache à lavant et larrière à utiliser comme boule dattelage pour remorquer des véhicules ou connecter des outils
-- QUE CONTIENT LA BOÎTE ? – Ce set LEGO inclut tout ce dont les jeunes constructeurs.trices ont besoin pour assembler un tracteur agricole vert sarcelle avec 4 gros pneus en caoutchouc, ainsi qu’une minifigurine de fermier
-- JOUET TRACTEUR DÈS 6 ANS – Le jeu de construction Le tracteur LEGO City entraîne les enfants passionnés par l’univers de la ferme et le jeu créatif
 - CADEAU POUR GARÇON OU FILLE SUR LE THÈME DE LA FERME – Ce tracteur agricole à construire est un très beau cadeau à offrir pour un anniversaire aux enfants dès 6 ans qui aiment les camions et la campagne
-- DÉTAILS RÉALISTES – Soulevez le capot du tracteur pour explorer le moteur et retirez le toit de la cabine pour un accès facile permettant dinstaller la minifigurine du fermier
+- JOUET TRACTEUR DÈS 6 ANS – Le jeu de construction Le tracteur LEGO City entraîne les enfants passionnés par l’univers de la ferme et le jeu créatif
+- QUE CONTIENT LA BOÎTE ? – Ce set LEGO inclut tout ce dont les jeunes constructeurs.trices ont besoin pour assembler un tracteur agricole vert sarcelle avec 4 gros pneus en caoutchouc, ainsi qu’une minifigurine de fermier
+- UN JOUET INTERACTIF – Le tracteur dispose de points dattache à lavant et larrière à utiliser comme boule dattelage pour remorquer des véhicules ou connecter des outils
 - ENCORE PLUS DE SETS LEGO CITY À DÉCOUVRIR – Les enfants multiplient les options de jeu et pimentent leurs aventures en combinant ce tracteur avec d’autres sets de la gamme LEGO City (vendus séparément)
+- DÉTAILS RÉALISTES – Soulevez le capot du tracteur pour explorer le moteur et retirez le toit de la cabine pour un accès facile permettant dinstaller la minifigurine du fermier
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXGS8Z3{{</world>}}

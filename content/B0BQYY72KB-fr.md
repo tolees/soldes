@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CRÉATION FRANÇAISE : Un style « à la française » imaginé depuis 1979 à Langeais, au cœur de la Touraine.
 - POUPON SOUPLE FACILE À MANIPULER ET À FAIRE SÉCHER : Avec son corps souple, il prend les mêmes positions qu’un vrai bébé. Il flotte dans le bain et sèche après le bain grâce à l’attache cousue dans son dos.
-- CARACTÉRISTIQUES : Hauteur 30 cm. Yeux dormeurs. Matières douces. Comprend 1 Jouet de bain. Dès 18 mois
-- POUPON AU CORPS SOUPLE QUI VA DANS L’EAU : Lenfant pourra jouer aussi bien dans son bain qu’à la piscine ou à la mer. Le jouet de bain vendu avec Bébé Bain Marin permet encore plus de jeux ! Avec Corolle, l’heure du bain, c’est de la rigolade !
 - POUPON AU VISAGE RÉALISTE EN VINYLE ET YEUX DORMEURS : Bébé bain Marin fait dodo quand on le couche sur le dos. Son visage, ses bras et ses jambes sont très doux et sentent bon la vanille.
+- POUPON AU CORPS SOUPLE QUI VA DANS L’EAU : Lenfant pourra jouer aussi bien dans son bain qu’à la piscine ou à la mer. Le jouet de bain vendu avec Bébé Bain Marin permet encore plus de jeux ! Avec Corolle, l’heure du bain, c’est de la rigolade !
+- CARACTÉRISTIQUES : Hauteur 30 cm. Yeux dormeurs. Matières douces. Comprend 1 Jouet de bain. Dès 18 mois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BQYY72KB{{</world>}}

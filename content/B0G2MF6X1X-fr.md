@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie GEL pour un amorti supérieur
 - Semelle extérieure en caoutchouc durable pour une adhérence optimale
+- Technologie GEL pour un amorti supérieur
 - Tige respirante pour un confort accru pendant le jeu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

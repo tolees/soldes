@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DES SOINS SOLAIRES POUR TOUTE LA FAMILLE : Garnier Ambre Solaire est une marque familiale experte en protection solaire, proposant des produits innovants pour protéger tous les types de peaux, même les plus sensibles.
-- ENRICHI EN VITAMINE E & BEURRE DE KARITE : Vegan et approuvée par Cruelty Free International, la formule de ce stick solaire est enrichie en vitamine E, beurre de karité et beurre de cacao, aux propriétés hydratantes et protectrices.
 - HAUTE PROTECTION SOLAIRE POUR LE VISAGE : Découvrez le stick SPF50+ Garnier qui protège dès la première application. Offrant 8H dhydratation, il convient à toutes les carnations et sutilise sous ou sur le maquillage. Non comédogène et hypoallergénique.
+- ENRICHI EN VITAMINE E & BEURRE DE KARITE : Vegan et approuvée par Cruelty Free International, la formule de ce stick solaire est enrichie en vitamine E, beurre de karité et beurre de cacao, aux propriétés hydratantes et protectrices.
 - CONSEILS DAPPLICATION : Appliquez le stick solaire sur le visage juste avant lexposition au soleil. Renouvelez lapplication fréquemment et généreusement pour maintenir la protection, comme base ou sur le maquillage, surtout après avoir nagé, transpiré ou sêtre essuyé*.
 - TEXTURE EXTRA LÉGÈRE ET FINI INVISIBLE : Profitez dune application rapide et dune peau hydratée à 94% avec cette crème solaire en stick à la texture ultra-légère. Son fini invisible garantit une protection efficace sans compromis sur le confort.
 

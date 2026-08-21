@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine
 - Zip
-- Manche longue
-- 100% Polyamides
-- Classique
+- Lavage en machine
 - Fermeture éclair
+- Manche longue
+- Classique
+- 100% Polyamides
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VTHVCCV{{</world>}}

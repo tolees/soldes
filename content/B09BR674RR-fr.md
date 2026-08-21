@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JACQUELINE de YONG JDYSKYLAR Veste matelassée à capuche pour femme OTW NOOS, Forest Night, M
-- Type de détail : Parka Type de manchette : Poignets côtelés Doublure : Entièrement doublée avec une doublure 100 % polyester Longueur/Taille : Longue Fermeture/Braguette : Fermeture entièrement zippée Poche main : Poches latérales avec fermeture zippée Type de manche : Épaules descendues Occasion/Style : Modèle douillet pour jours dhiver Elément de fixation : Polyester
 - Marque : JDY
-- Taille M
+- JACQUELINE de YONG JDYSKYLAR Veste matelassée à capuche pour femme OTW NOOS, Forest Night, M
 - CouleurForest Night
+- Type de détail : Parka Type de manchette : Poignets côtelés Doublure : Entièrement doublée avec une doublure 100 % polyester Longueur/Taille : Longue Fermeture/Braguette : Fermeture entièrement zippée Poche main : Poches latérales avec fermeture zippée Type de manche : Épaules descendues Occasion/Style : Modèle douillet pour jours dhiver Elément de fixation : Polyester
+- Taille M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BR674RR{{</world>}}

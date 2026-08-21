@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUET ÉDUCATIF À CONSTRUIRE ET RECONSTRUIRE POUR SAMUSER DE MANIÈRE CRÉATIVE - Les enfants regroupent les briques par couleur, chargent le camion avec des lettres pour construire leurs propres mots, puis prennent le camion pour partir en promenade
-- JEU INTERACTIF DÉVELOPPANT LA MOTRICITÉ FINE CHEZ LES TOUT-PETITS - Le set comprend un camion mobile avec une remorque amovible, 2 figurines LEGO DUPLO et 26 briques ABC
 - JOUET DE CONSTRUCTION MONTESSORI DÈS 24 MOIS POUR APPRENDRE LALPHABET AUX JEUNES ENFANTS - Montez à bord du set LEGO DUPLO Le Camion de lAlphabet pour des séances de jeu amusantes
-- JOUETS ÉDUCATIFS POUR TOUT-PETITS - Initiez les tout-petits à lapprentissage par le jeu créatif ouvert avec les ensembles de jeu LEGO DUPLO remplis de personnages variés et de scènes familières
+- JEU INTERACTIF DÉVELOPPANT LA MOTRICITÉ FINE CHEZ LES TOUT-PETITS - Le set comprend un camion mobile avec une remorque amovible, 2 figurines LEGO DUPLO et 26 briques ABC
 - ACCESSOIRES POUR LE JEU CRÉATIF - Lélément de jouet stéréo LEGO DUPLO encourage les petits à chanter lalphabet et les initie à la lecture des lettres
+- JOUET ÉDUCATIF À CONSTRUIRE ET RECONSTRUIRE POUR SAMUSER DE MANIÈRE CRÉATIVE - Les enfants regroupent les briques par couleur, chargent le camion avec des lettres pour construire leurs propres mots, puis prennent le camion pour partir en promenade
+- JOUETS ÉDUCATIFS POUR TOUT-PETITS - Initiez les tout-petits à lapprentissage par le jeu créatif ouvert avec les ensembles de jeu LEGO DUPLO remplis de personnages variés et de scènes familières
 - IDÉE DE CADEAU POUR LES JEUNES ENFANTS DÈS 2 ANS - Ce set de jeu est un superbe cadeau danniversaire pour introduire les lettres de lalphabet chez les enfants en bas âge qui aiment les véhicules
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SÉCURITÉ ET CONFORT : Motorisation sécurisée avec détection dobstacles automatique grâce aux photocellules, protégeant ainsi vos proches. La batterie de secours permet douvrir et de fermer votre portail même en cas de coupure de courant
+- GARANTIE ET FABRICATION FRANÇAISE : Cette motorisation pour portail coulissant est proposée avec une garantie de 5 ans, assurant qualité et fiabilité, et est conçue et fabriquée en France
 - PILOTAGE À DISTANCE : Grâce à la motorisation connectée, pilotez votre portail à distance sur smartphone via TaHoma (en option) ou commande vocale via Alexa et Google Assistant, garantissant un accès pratique et sécurisé, même sous la pluie
+- COMPATIBILITÉ : Motorisez un portail allant jusquà 8 mètres de large et 600 kilos maximum ; adapté aux portails en bois, aluminium, fer et PVC ; ouverture rapide en 8 secondes
 - CONTRÔLE UNIFIÉ : Les télécommandes du Slidymoove connecté sont compatibles avec les motorisations Somfy RTS, permettant de piloter votre portail, porte de garage et volets roulants depuis une seule télécommande
 - CONTENU DU PACK : Motorisation portail coulissant comprenant un kit de connectivité ; un moteur ; deux télécommandes à deux touches ; quatre mètres de crémaillères (12x33 cm) ; un feu orange ; une batterie de secours ; deux cellules photoélectriques
-- COMPATIBILITÉ : Motorisez un portail allant jusquà 8 mètres de large et 600 kilos maximum ; adapté aux portails en bois, aluminium, fer et PVC ; ouverture rapide en 8 secondes
-- GARANTIE ET FABRICATION FRANÇAISE : Cette motorisation pour portail coulissant est proposée avec une garantie de 5 ans, assurant qualité et fiabilité, et est conçue et fabriquée en France
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHSKVWDH{{</world>}}

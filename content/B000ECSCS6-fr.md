@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUS FEUX : Les ustensiles de la gamme CARBONE PLUS De Buyer nécessite un culottage dès la première utilisation. Elle est compatible avec tous types de feu, dont induction.
-- CUISSON MAÎTRISÉE : Fabriquée à partir dune tôle dacier blanche épaisse, la poêle à frire CARBONE PLUS De Buyer offre une montée rapide en température ainsi quune diffusion homogène de la chaleur. Grâce à sa capacité à atteindre des températures élevées, elle favorise la réaction de Maillard et la caramélisation des jus.
-- ENTRETIEN : Déglacez et rincez à leau chaude, séchez puis huilez légèrement la poêle avant de la stocker dans un endroit sec. Il est important de ne pas employer de détergents ni de mettre au lave-vaisselle.
 - ICONIQUE : La poêle à frire CARBONE PLUS De Buyer est fabriquée en tôle dacier, ce qui en fait un choix idéal pour la saisie, la grillade et la dorure de divers aliments tels que la viande, le poisson et les œufs. Sa poignée en feuillard riveté assure une fixation solide, garantissant quelle ne se détache pas. La courbure à la française confère une manipulation aisée et une prise en main ergonomique.
+- CUISSON MAÎTRISÉE : Fabriquée à partir dune tôle dacier blanche épaisse, la poêle à frire CARBONE PLUS De Buyer offre une montée rapide en température ainsi quune diffusion homogène de la chaleur. Grâce à sa capacité à atteindre des températures élevées, elle favorise la réaction de Maillard et la caramélisation des jus.
+- TOUS FEUX : Les ustensiles de la gamme CARBONE PLUS De Buyer nécessite un culottage dès la première utilisation. Elle est compatible avec tous types de feu, dont induction.
+- ENTRETIEN : Déglacez et rincez à leau chaude, séchez puis huilez légèrement la poêle avant de la stocker dans un endroit sec. Il est important de ne pas employer de détergents ni de mettre au lave-vaisselle.
 - DIMENSIONS : Le diamètre extérieur de cette poêle à frire CARBONE PLUS De Buyer est de 26 cm, sa surface intérieure utile est, quant à elle, de 18,5 cm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

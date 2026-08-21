@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PARFUMS ICONIQUES AUSSIE: Des senteurs délicieuses, ludiques et exubérantes avec des notes de fraise, dorange et de vanille, pour des cheveux qui sentent divinement bon
-- HYDRATE ET RÉGÉNÈRE: Emmenez vos cheveux secs et abîmés en voyage en Australie avec ce shampoing hydratant qui revitalise et restaure vos mèches
-- POUR DES RÉSULTATS OPTIMAUX (quel autre type?), utilisez avec le revitalisant Aussie Miracle Moist ou le? Minute Miracle Deep Conditioner
 - LA PHILOSOPHIE AUSSIE : "Il y a plus dans la vie que les cheveux, mais cest un bon point de départ
-- SANS CRUAUTÉ: Aussie est reconnu par PETA comme une marque sans cruauté, opposée aux tests sur les animaux
+- PARFUMS ICONIQUES AUSSIE: Des senteurs délicieuses, ludiques et exubérantes avec des notes de fraise, dorange et de vanille, pour des cheveux qui sentent divinement bon
 - INFUSÉ dHUILE DE NOIx DE MACADAMIA AUSTRALIENNE, ce shampoing laisse vos cheveux incroyablement hydratés—car vos cheveux méritent un soin aussi AUSSOM que vous!
+- SANS CRUAUTÉ: Aussie est reconnu par PETA comme une marque sans cruauté, opposée aux tests sur les animaux
+- POUR DES RÉSULTATS OPTIMAUX (quel autre type?), utilisez avec le revitalisant Aussie Miracle Moist ou le? Minute Miracle Deep Conditioner
+- HYDRATE ET RÉGÉNÈRE: Emmenez vos cheveux secs et abîmés en voyage en Australie avec ce shampoing hydratant qui revitalise et restaure vos mèches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FB9N613W{{</world>}}

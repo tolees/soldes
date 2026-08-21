@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 📏 DIMENSIONS : 37 x 27.7 x H 20 cm.
+- 🌱 BOIS CERTIFIÉ FSC – Fabriquée en bois certifié FSC issu de forêts gérées de manière responsable, pour allier qualité, respect de l’environnement et sécurité.
 - 🏠 REFUGE DOUILLET POUR PETITS ANIMAUX – Maison en bois offrant un espace sûr et confortable où hamsters, gerbilles, souris, lapins et cobayes peuvent se reposer, se cacher et se sentir protégés.
 - 🔧 MONTAGE SANS OUTILS – Conçue pour un montage rapide et intuitif, elle s’assemble facilement sans outil afin d’être prête en quelques étapes simples.
 - 🇮🇹 QUALITÉ FERPLAST – Produit Ferplast, marque italienne spécialisée dans les accessoires pour animaux, alliant fonctionnalité, souci du détail et praticité au quotidien.
-- 🌱 BOIS CERTIFIÉ FSC – Fabriquée en bois certifié FSC issu de forêts gérées de manière responsable, pour allier qualité, respect de l’environnement et sécurité.
-- 📏 DIMENSIONS : 37 x 27.7 x H 20 cm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BEF2QZC{{</world>}}

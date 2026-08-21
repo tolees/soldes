@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 【Autonomie】Batterie 815 mAh : jusqu’à 21 jours en utilisation légère et 14 jours en usage normal. Suivi santé continu sans recharges régulières.
-- 【Sport et Navigation】plus de 150 modes sportifs, GNSS optimisé et recherche satellite rapide. Cartes couleur hors ligne pour navigation et alertes sans réseau cellulaire.
 - 【Suivi santé】Nouveau capteur 4 LED + 4 PD pour une précision renforcée. Algorithme sommeil 2.0 améliore la détection et l’analyse des phases de repos.
+- 【Sport et Navigation】plus de 150 modes sportifs, GNSS optimisé et recherche satellite rapide. Cartes couleur hors ligne pour navigation et alertes sans réseau cellulaire.
 - 【Écosystème】XIAOMI HyperOS permet de piloter à distance téléphone, tablette, écouteurs et appareils XIAOMI Home grâce à des gestes rapides.
 - 【Écran et Design】Écran AMOLED 1,48 pouces 2500 nits parfaitement lisible en plein soleil. Boîtier 46 mm avec taux d’affichage amélioré et finitions élégantes.
 

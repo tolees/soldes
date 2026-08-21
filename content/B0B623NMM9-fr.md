@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🎭 Nouvelle édition, nouveau look : les illustrations et la boîte ont été entièrement relookées, le jeu culte de bluff et déduction reste inchangé dans ses règles !
-- 👥 4 à 8 joueurs, dès 10 ans, parties de 20 min : rapide à prendre en main, idéal pour les soirées animées ou les week-ends en famille.
 - 🏆 Récompensé Grand Prix du Jouet en 2022 : un jeu original, malin et fun, plébiscité par les pros du jouet.
 - 🌱 Écoresponsable : fabriqué en Europe, sur papier responsable. Par les créateurs de Pili Pili, Mouton Mouton, Speed Bac, Momo et Pigeon Pigeon.
+- 👥 4 à 8 joueurs, dès 10 ans, parties de 20 min : rapide à prendre en main, idéal pour les soirées animées ou les week-ends en famille.
 - 🕵️ Jeu de bluff et de déduction : trouvez les traîtres cachés parmi votre société secrète, avec mots de passe et indices piégeux !
 - 😏 Suspense et fous rires garantis : chaque joueur donne un mot... mais attention aux imposteurs et au mystérieux journaliste !
+- 🎭 Nouvelle édition, nouveau look : les illustrations et la boîte ont été entièrement relookées, le jeu culte de bluff et déduction reste inchangé dans ses règles !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B623NMM9{{</world>}}

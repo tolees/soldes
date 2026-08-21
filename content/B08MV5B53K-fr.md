@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAKING LIFE EASY: EMOS, une marque de Legrand, propose des produits électriques de haute qualité à des prix abordables pour un usage privé ou professionnel. Chacun de nos produits est soigneusement testé dans notre laboratoire pour garantir sa qualité et
-- INSTALLATION PROFI ET PROTECTION CONTRE LE GEL : Conçu pour un montage rapide en surface, le thermostat dambiance fonctionne avec 2x piles AA 1,5V (incluses) et offre une protection contre le gel. Linstallation par un technicien est recommandée
-- RÉGULATION DE LA TEMPÉRATURE PROGRAMMABLE AVEC OPENTHERM : le thermostat régule la température de 5°C à 35°C par paliers de 0,5°C, avec OpenTherm et 6 changements programmables par jour. Sensibilité de commutation réglable de 0,2°C à 2°C (EMOS P5606OT)
-- POUR LES SYSTÈMES DE CHAUFFAGE ET DE REFROIDISSEMENT : le régulateur de température commande de manière fiable les systèmes de chauffage et de refroidissement, assure des températures homogènes toute lannée et réduit les coûts énergétiques
 - FACILITE DUTILISATION AVEC AFFICHAGE RÉTROÉCLAIRÉ : laffichage éclairé indique clairement les températures actuelles et réglées, facilite lutilisation en cas de faible luminosité et favorise une programmation conviviale du chauffage
+- RÉGULATION DE LA TEMPÉRATURE PROGRAMMABLE AVEC OPENTHERM : le thermostat régule la température de 5°C à 35°C par paliers de 0,5°C, avec OpenTherm et 6 changements programmables par jour. Sensibilité de commutation réglable de 0,2°C à 2°C (EMOS P5606OT)
+- MAKING LIFE EASY: EMOS, une marque de Legrand, propose des produits électriques de haute qualité à des prix abordables pour un usage privé ou professionnel. Chacun de nos produits est soigneusement testé dans notre laboratoire pour garantir sa qualité et
+- POUR LES SYSTÈMES DE CHAUFFAGE ET DE REFROIDISSEMENT : le régulateur de température commande de manière fiable les systèmes de chauffage et de refroidissement, assure des températures homogènes toute lannée et réduit les coûts énergétiques
+- INSTALLATION PROFI ET PROTECTION CONTRE LE GEL : Conçu pour un montage rapide en surface, le thermostat dambiance fonctionne avec 2x piles AA 1,5V (incluses) et offre une protection contre le gel. Linstallation par un technicien est recommandée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08MV5B53K{{</world>}}

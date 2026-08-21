@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Conçu pour des collages devant résister à des hautes températures (cuisine, proximité source de chaleur)
-- Résistance élevée à la chaleur (+ 120 °C)
-- Peut être appliquée au pistolet en association avec Pattex diluant (30% maximum)
-- Sans durcisseur à ajouter
 - Colle à double encollage pour lassemblage et le placage de nombreux matériaux
+- Peut être appliquée au pistolet en association avec Pattex diluant (30% maximum)
+- Résistance élevée à la chaleur (+ 120 °C)
+- Sans durcisseur à ajouter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B008F7YBKK{{</world>}}

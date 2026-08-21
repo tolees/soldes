@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Attention : maintenez la tasse en position verticale. Pour des raisons de sécurité, la tasse nest pas étanche en raison dune possible surpression
 - Le débit des fluides est réglé en tournant la vis dans le couvercle
-- Base en caoutchouc antidérapante et poignée ergonomique confortable avec bande en silicone
 - Presse française
+- Base en caoutchouc antidérapante et poignée ergonomique confortable avec bande en silicone
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0044CNPWK{{</world>}}

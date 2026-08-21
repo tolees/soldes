@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure moulée confortable
 - Tige en cuir souple
 - Logo encadré tiré des archives Reebok
 - Coupe basse
+- Semelle intérieure moulée confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01MQQEZTV{{</world>}}

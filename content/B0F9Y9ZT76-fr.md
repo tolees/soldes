@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- AF PLUS RAPIDE, PLUS NET ET PLUS INTELLIGENT. Le système autofocus est presque 3 fois plus rapide que le Z5 et sensible jusqu’à -10 EV
+- CAPTEUR D’IMAGE STABILISÉ DE 24,5 MILLIONS DE PIXELS AU FORMAT FX . Capteur plein format rétro-éclairé et stabilisé sur 5 axes avec option Focus point VR pour gagner jusqu’à 7.5 stops
 - Lalliage de magnésium de ladaptateur FTZ II est solide et léger avec une finition durable
+- Étanches aux intempéries pour préserver la performance des appareils photo et objectifs de niveau professionnel
 - DES PERFORMANCES DE HAUT VOL. Bénéficiez de rafales jusqu’à 14ips en RAW et 30ips en JPEG pleine définition. Profitez du pré-déclenchement et enregistrez jusqu’à 1 seconde d’images le déclencheur
 - Design épuré pour une prise de vue confortable dans toutes les directions
-- CAPTEUR D’IMAGE STABILISÉ DE 24,5 MILLIONS DE PIXELS AU FORMAT FX . Capteur plein format rétro-éclairé et stabilisé sur 5 axes avec option Focus point VR pour gagner jusqu’à 7.5 stops
-- Étanches aux intempéries pour préserver la performance des appareils photo et objectifs de niveau professionnel
-- AF PLUS RAPIDE, PLUS NET ET PLUS INTELLIGENT. Le système autofocus est presque 3 fois plus rapide que le Z5 et sensible jusqu’à -10 EV
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F9Y9ZT76{{</world>}}

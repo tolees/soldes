@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué par des experts : Baker Ross a conçu et fourni les meilleurs loisirs créatifs et jouets pour des écoles, des groupes, et des parents depuis plus que 40 ans. Tous les jouets et produits Baker Ross conforment aux normes générales de Sécurité, et lâge minimal est noté, le cas échéant.
-- 8 motifs différents à colorier
-- Mode demploi inclus (en anglais)
 - Chaque boule de neige contient des paillettes - ajouter seulement de leau.
+- Fabriqué par des experts : Baker Ross a conçu et fourni les meilleurs loisirs créatifs et jouets pour des écoles, des groupes, et des parents depuis plus que 40 ans. Tous les jouets et produits Baker Ross conforment aux normes générales de Sécurité, et lâge minimal est noté, le cas échéant.
+- Mode demploi inclus (en anglais)
+- 8 motifs différents à colorier
 - Hauteur: 5 cm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

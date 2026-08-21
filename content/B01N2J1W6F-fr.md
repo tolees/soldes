@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une sensation extrêmement réactive et expressive
-- Châssis en métal ultra robuste
 - True Bypass pour une intégrité de signal ultime
+- Une sensation extrêmement réactive et expressive
 - Un Overdrive transparent avec effet à lampe pour guitares électriques
+- Châssis en métal ultra robuste
 - Une plage de gain très étendue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

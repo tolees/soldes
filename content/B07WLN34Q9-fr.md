@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas de vis additionnelles, tous les éléments nécessaires inclus.
-- Adapté aux moteurs diesel 1.5 et 1.6 HDi, BlueHDi et TDCi.
 - Assure synchronisation entre vilebrequin et arbres à cames.
 - Inclut courroie CD41223, galet tendeur GE359.31, et pompe à eau WP014.
 - Courroie de 20 mm de large avec 141 dents pour un calage fiable.
+- Adapté aux moteurs diesel 1.5 et 1.6 HDi, BlueHDi et TDCi.
+- Pas de vis additionnelles, tous les éléments nécessaires inclus.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WLN34Q9{{</world>}}

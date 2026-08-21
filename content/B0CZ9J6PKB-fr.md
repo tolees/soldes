@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Petit col avec demi-zip.
-- Matiere Principale: 100% Polyester(71% Recyclé)
-- CLIMACOOL.
 - Coupe standard.
+- CLIMACOOL.
+- Matiere Principale: 100% Polyester(71% Recyclé)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CZ9J6PKB{{</world>}}

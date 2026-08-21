@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE BATTERIE POUR TOUS - Les batteries 40V Greenworks de 2Ah jusqu’à 6Ah en puissance sont polyvalentes et compatibles avec de nombreux produits Greenworks de jardinage et d’atelier
-- LIBERTÉ SANS FIL - Fini lemmêlement des câbles & soyez tout le temps opérationnel - le système de gestion de la batterie assure plus de sécurité et de longévité à votre batterie Greenworks
-- CARACTÉRISTIQUES - Son affichage LED indique immédiatement le niveau de charge actuel. Toujours rechargeable, quelle que soit la tension de charge actuelle, sans effet de mémoire
 - BATTERIE PUISSANTE LI-ION - Idéale pour nos outils sans fil nécessitant plus de puissance et une durée de fonctionnement plus longue (tondeuses à gazon, nettoyeurs haute pression ou tronçonneuses Greenworks)
+- LIBERTÉ SANS FIL - Fini lemmêlement des câbles & soyez tout le temps opérationnel - le système de gestion de la batterie assure plus de sécurité et de longévité à votre batterie Greenworks
+- UNE BATTERIE POUR TOUS - Les batteries 40V Greenworks de 2Ah jusqu’à 6Ah en puissance sont polyvalentes et compatibles avec de nombreux produits Greenworks de jardinage et d’atelier
+- CARACTÉRISTIQUES - Son affichage LED indique immédiatement le niveau de charge actuel. Toujours rechargeable, quelle que soit la tension de charge actuelle, sans effet de mémoire
 - DESIGN COMPACT - La batterie 40V convainc par son boîtier robuste et son confort maximal - la protection intégrée contre la décharge profonde prolonge nettement la durée de vie de la batterie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

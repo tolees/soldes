@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 💚 MjAMjAM : aliment complet avec un pourcentage de viande extra élevé, des vitamines et des minéraux essentiels, sans céréales
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
 - 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
 - 👵DÉLICATION : recette spéciale pour les chats seniors à partir denviron 11 ans
-- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 💚 MjAMjAM : aliment complet avec un pourcentage de viande extra élevé, des vitamines et des minéraux essentiels, sans céréales
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D9BD3MQ4{{</world>}}

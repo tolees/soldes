@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Champ de vision clair et contrasté : le revêtement multicouche réduit les réflexions indésirables.
 - Design extérieur fonctionnel : accès facile à la molette de mise au point et excellente prise en main du corps des jumelles.
-- Zoom optique: 10.0 multiplier_x
-- Objectifs à grande ouverture pour une observation claire et lumineuse : ces jumelles possèdent des lentilles de grand diamètre (plus de 40 millimètres) pour assurer une remarquable capture de la lumière.
 - Revêtement caoutchouté : prise en main confortable et surface antidérapante.
+- Objectifs à grande ouverture pour une observation claire et lumineuse : ces jumelles possèdent des lentilles de grand diamètre (plus de 40 millimètres) pour assurer une remarquable capture de la lumière.
+- Zoom optique: 10.0 multiplier_x
+- Champ de vision clair et contrasté : le revêtement multicouche réduit les réflexions indésirables.
 - Adaptateur de trépied TP-3 (en option) : permet l’installation sur un trépied.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

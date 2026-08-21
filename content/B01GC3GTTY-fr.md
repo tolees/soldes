@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - JEU ÉDUCATIF ET AMUSANT : Times Up! : Kids est plus quun simple jeu de société, cest une occasion dapprendre en samusant. Pas besoin de savoir lire ! Les enfants développeront leur vocabulaire, leur mémoire et leur capacité dassociation tout en passant un bon moment.En 2 manches, faites deviner un maximum d’images. Décrivez d’abord les images. Puis mimez-les
 - FACILE À APPRENDRE ET RAPIDE À JOUER : Les règles de de ce jeu de cartes sont simples à comprendre, ce qui permet aux enfants de se lancer rapidement dans le jeu. Chaque partie dure environ 20 minutes, parfait pour une activité ludique sans sennuyer.
-- PAS BESOIN DE SAVOIR LIRE : Times Up! : Kids version Chat est spécialement conçu pour divertir les enfants à partir de 4 ans. Ils adoreront les cartes colorées et les défis amusants qui stimuleront leur imagination et leur créativité.
 - JEU DAMBIANCE EN FAMILLE : Times Up! : Kids peut être joué par 2 à 12 joueurs, ce qui en fait un jeu dambiance idéal pour les soirées en famille, les fêtes danniversaire ou les après-midis entre copains. Partagez des moments de complicité et de rires avec ce jeu captivant.
+- PAS BESOIN DE SAVOIR LIRE : Times Up! : Kids version Chat est spécialement conçu pour divertir les enfants à partir de 4 ans. Ils adoreront les cartes colorées et les défis amusants qui stimuleront leur imagination et leur créativité.
 - VARIÉTÉ DE CARTES ET THÈMES : Times Up! : Kids propose une large gamme de cartes avec différents thèmes adaptés aux enfants, tels que les animaux, les objets du quotidien, les métiers, etc. Chaque partie est une nouvelle aventure passionnante.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

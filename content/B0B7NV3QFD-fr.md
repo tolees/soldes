@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pliable - VelocityOne Stand se plie sans devoir retirer les accessoires, ce qui vous permet de garder votre installation en place, mais de la ranger de manière pratique lorsque vous ne lutilisez pas
+- Réglable - À laide de pinces à fixation rapide, le support VelocityOne Stand vous permet de régler la hauteur, langle et la longueur à volonté, ainsi que linclinaison des plateformes de montage supérieure et inférieure
+- Pieds en caoutchouc réglables - Les pieds en caoutchouc anti-balancement sont réglables pour que le Stand reste bien en place pendant son utilisation
 - Compatibilité universelle - VelocityOne Stand est conçu pour le système de contrôle de vol universel VelocityOne Flight et les pédales de direction VelocityOne Rudder. Le support fonctionne également avec la plupart des autres manches, volants de course et pédales de direction et de course dautres fabricants
 - Plateformes en acier solide - La construction en acier résistant maintient vos accessoires de simulation en toute sécurité, et les trous de fixation spécifiques à VelocityOne et universels vous permettent dinstaller vos accessoires de simulation de façon permanente
-- Réglable - À laide de pinces à fixation rapide, le support VelocityOne Stand vous permet de régler la hauteur, langle et la longueur à volonté, ainsi que linclinaison des plateformes de montage supérieure et inférieure
-- Pliable - VelocityOne Stand se plie sans devoir retirer les accessoires, ce qui vous permet de garder votre installation en place, mais de la ranger de manière pratique lorsque vous ne lutilisez pas
-- Pieds en caoutchouc réglables - Les pieds en caoutchouc anti-balancement sont réglables pour que le Stand reste bien en place pendant son utilisation
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B7NV3QFD{{</world>}}

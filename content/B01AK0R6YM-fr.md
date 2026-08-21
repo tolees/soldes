@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La technologie innovante Power Core comprend un moteur de moyeu de 85 watts, sans entretien, à couple élevé, qui permet daccélérer en douceur jusquà 16 km/h en appuyant sur laccélérateur.
-- Les roues arrière motrices offrent un meilleur contrôle de léquilibre et une meilleure traction pour une conduite plus sûre et plus stable
-- Cadre et fourche légers, tout en acier, et pneu arrière sans chambre à air, pour une conduite solide.
 - Edad:8+, Poids maximum : 54 kg.
 - Batterie: 12V 7Ah
+- Cadre et fourche légers, tout en acier, et pneu arrière sans chambre à air, pour une conduite solide.
+- Les roues arrière motrices offrent un meilleur contrôle de léquilibre et une meilleure traction pour une conduite plus sûre et plus stable
+- La technologie innovante Power Core comprend un moteur de moyeu de 85 watts, sans entretien, à couple élevé, qui permet daccélérer en douceur jusquà 16 km/h en appuyant sur laccélérateur.
 - Caractéristiques supplémentaires : frein avant à commande manuelle et béquille rétractabl
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
-- JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 10 ANS AVEC FIGURINE DE GROGU – Créez un adorable décor de manière ludique avec le set de construction Grogu (apprenti du Mandalorien) LEGO Star Wars, inspiré de Star Wars : The Mandalorian and Grogu
 - ACCESSOIRES AUTHENTIQUES – Recréez larmure en beskar de Grogu, construisez sa sacoche, glissez un biscuit bleu à lintérieur et placez-en un autre dans sa main
+- JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 10 ANS AVEC FIGURINE DE GROGU – Créez un adorable décor de manière ludique avec le set de construction Grogu (apprenti du Mandalorien) LEGO Star Wars, inspiré de Star Wars : The Mandalorian and Grogu
 - PERSONNAGE ARTICULÉ – Actionnez le levier pour faire tourner la tête de Grogu, fixez ses bras de différentes manières et ajustez sa bouche, ses oreilles, ses mains et ses doigts pour varier les poses
 - EXPLOREZ LA GAMME – Découvrez dautres sets LEGO Star Wars à collectionner, inspirés de Star Wars : The Mandalorian and Grogu (vendus séparément), pour revivre des scènes passionnantes ou imaginer de nouvelles histoires
-- CADEAU STAR WARS POUR ENFANT DÈS 10 ANS – Ce jouet de construction est un superbe cadeau pour les garçons, les filles et tous les fans de Star Wars : The Mandalorian and Grogu de 10 ans et plus
 - DÉCORATION STAR WARS – Assemblez, puis exposez cette maquette en briques avec la plaque descriptive de Grogu et sa figurine LEGO Star Wars de taille standard
+- INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
+- CADEAU STAR WARS POUR ENFANT DÈS 10 ANS – Ce jouet de construction est un superbe cadeau pour les garçons, les filles et tous les fans de Star Wars : The Mandalorian and Grogu de 10 ans et plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXFMP3M{{</world>}}

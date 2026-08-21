@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fini les mauvaises odeurs : comprend deux filtres à charbon de Ø176, idéal pour éliminer à la fois les mauvaises odeurs et la fumée. Protégez-vous de la graisse : la hotte aspirante contient un filtre à graisse en aluminium à 5 couches.
 - Hotte télescopique : elle sintègre parfaitement aux meubles de votre cuisine et évite dinterférer avec le design du mobilier. Contrôle par mouvement de la main : la hotte peut être contrôlée par des gestes de la main.
 - Économies maximales à chaque utilisation : grâce à son étiquette énergétique classe A++ et à son moteur Inverter, vous économiserez au maximum à chaque utilisation, jour après jour. Choisissez la vitesse que vous voulez : la hotte offre 3 niveaux de vitesse qui sadaptent à vos besoins et une fonction Booster qui accélère lintensité daspiration pour obtenir des résultats immédiats.
-- Fini les mauvaises odeurs : comprend deux filtres à charbon de Ø176, idéal pour éliminer à la fois les mauvaises odeurs et la fumée. Protégez-vous de la graisse : la hotte aspirante contient un filtre à graisse en aluminium à 5 couches.
 - Puissance daspiration de 550 m³/h : oubliez la fumée grâce à sa grande puissance daspiration de 550 m³/h. Puissance pour tout aspirer : sa puissance de moteur de 70 W permet daspirer toute la fumée et les vapeurs présentes dans la cuisine. Commande tactile : sélectionnez de manière confortable et précise les fonctions que vous offre la hotte aspirante.
 - Grande largeur: la hotte aspirante a une largeur de 60 cm, taille idéale pour ne pas vous soucier de la fumée. Finition en verre noir: hotte aspirante avec finitions en verre noir, pour un design stylé et élégant.
 

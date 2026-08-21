@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Assistant personnel Moto AI – Une intelligence artificielle à votre service au quotidien.
 - Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
-- Contenu de la boite: Coque de protection, Câble USB type-C
 - Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
+- Contenu de la boite: Coque de protection, Câble USB type-C
 - Résistance à l’eau (IP68/IP69) – Conçu pour durer, même face aux éclaboussures et à la poussière.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

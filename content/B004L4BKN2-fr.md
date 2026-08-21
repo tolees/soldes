@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Encre liquide aux couleurs intenses
-- Sans xylène ni toluène
 - S’efface à sec sur tableau blanc, sans laisser de trace
-- Marqueur pour tableaux blancs
 - Bouton poussoir pour réencrer la pointe à tout moment
+- Marqueur pour tableaux blancs
 - Dimensions : 140x100x30 mm
 - Pointe conique moyenne de 4mm
+- Sans xylène ni toluène
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004L4BKN2{{</world>}}

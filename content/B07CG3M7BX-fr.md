@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petite étiquette au look denim sur le côté.
 - Composition : 100 % coton.
+- Petite étiquette au look denim sur le côté.
 - Tricot étroit.
 - En coton agréable.
 

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maille double
 - 100 % polyester (100 % recyclé)
+- Maille double
 - Coupe slim
 - Zip sur toute la longueur à l’avant, au centre
 

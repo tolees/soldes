@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Choisissez votre essence : Capri Line ou Positano, découvrez toute la gamme
-- Café délicieux : la bouilloire en aluminium de 850 W et la pompe de 15 bars de pression assurent des expressos corsés et crémeux au parfum intense et parfumé
-- Style méditerranéen : inspiré des couleurs Capri et Positano avec des finitions soignées et raffinées
-- Cappuccinateur : lappareil Maxi-Cappuccino est lallié idéal pour la préparation de mousse de lait en combinaison avec un expresso italien
-- Facile à utiliser : très pratique avec bac dégouttement amovible en acier inoxydable, réservoir amovible de 0,9 l pour un remplissage facile
 - Poudre ou dosettes ESE : filtre pour 1 tasse + dosettes et une autre pour 2 tasses pour utiliser à la fois du café moulu et des dosettes ESE
+- Facile à utiliser : très pratique avec bac dégouttement amovible en acier inoxydable, réservoir amovible de 0,9 l pour un remplissage facile
+- Café délicieux : la bouilloire en aluminium de 850 W et la pompe de 15 bars de pression assurent des expressos corsés et crémeux au parfum intense et parfumé
+- Cappuccinateur : lappareil Maxi-Cappuccino est lallié idéal pour la préparation de mousse de lait en combinaison avec un expresso italien
+- Choisissez votre essence : Capri Line ou Positano, découvrez toute la gamme
+- Style méditerranéen : inspiré des couleurs Capri et Positano avec des finitions soignées et raffinées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBJ49QVV{{</world>}}

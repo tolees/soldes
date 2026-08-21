@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- GRANDE CAPACITɠ: une grande capacité de 7 L pour les pièces volumineuses comme un poulet rôti de 1.3 kg ou 1.2 kg de frites, idéale jusquà 8 personnes
 - PLUS BESOIN DE SECOUER VOS ALIMENTS FRÉQUEMMENT : Cuisson homogène et garantie grâce à la double zone de cuisson. Par le haut avec la technologie infrarouge exclusive Moulinex qui permet de cuire plus rapidement vos ingrédients, pour des résultats croustillants à chaque fois. Et par le bas par convection pour garantir lhomogénéité de cuisson
 - PANNEAU NUMÉRIQUE : un air fryer facile à utiliser avec 8 modes de cuisson, un mode manuel, et une fonction de maintien au chaud
-- GRANDE CAPACITɠ: une grande capacité de 7 L pour les pièces volumineuses comme un poulet rôti de 1.3 kg ou 1.2 kg de frites, idéale jusquà 8 personnes
 - RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6 200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
 - CONTRÔLE FACILE : pas besoin douvrir le panier, surveillez la cuisson de vos ingrédients à travers le hublot
 

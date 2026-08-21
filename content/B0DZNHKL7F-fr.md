@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : 1 x SoftBalls DLSC551 Accessoires pour machines à café DeLonghi
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Petites billes avec un grand effet : il suffit de placer le sac avec le nettoyant dans le réservoir deau de votre voiture, de remplacer après trois mois et de recycler le sac utilisé comme plastique
-- Pour un maximum de plaisir de café : les billes souples sont sans produits chimiques, compatibles avec tous les filtres traditionnels en résine et charbon et nettoient votre machine à café entièrement automatique, porte-filtre, machine à café à capsules ou filtre de manière fiable
-- Nettoyage intense : leffet naturel dun biocatalyseur sur les billes réduit la dureté de leau, sans altérer la teneur en ions de calcium et de magnésium
 - Préventif ou aigu : les innovantes SoftBalls sont un système breveté pour prévenir efficacement les dépôts de calcaire pour une plus longue durée de vie de la machine à café
+- Contenu de la livraison : 1 x SoftBalls DLSC551 Accessoires pour machines à café DeLonghi
+- Pour un maximum de plaisir de café : les billes souples sont sans produits chimiques, compatibles avec tous les filtres traditionnels en résine et charbon et nettoient votre machine à café entièrement automatique, porte-filtre, machine à café à capsules ou filtre de manière fiable
+- Petites billes avec un grand effet : il suffit de placer le sac avec le nettoyant dans le réservoir deau de votre voiture, de remplacer après trois mois et de recycler le sac utilisé comme plastique
+- Nettoyage intense : leffet naturel dun biocatalyseur sur les billes réduit la dureté de leau, sans altérer la teneur en ions de calcium et de magnésium
+- Les informations ci-dessous sappliquent à chaque unité du pack
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZNHKL7F{{</world>}}

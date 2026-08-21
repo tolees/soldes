@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ADAPTÉ AUX CHIOTS ET PETITS CHIENS : FRONTLINE Combo Chien S convient aux chiots à partir de 8 semaines et 2 kg de poids corporel ainsi quaux chiens de 2 kg à 10 kg. Ne pas utiliser chez le lapin.
-- DOUBLE ACTION : Cet antiparasitaire pour chien élimine les puces, les tiques et les poux broyeurs, tout en prévenant linfestation de votre logement par les œufs et larves de puces grâce à son inhibiteur actif de croissance qui empêche léclosion des oeufs de puces dans votre habitat1.
 - FABRIQUÉ EN FRANCE : Chaque traitement anti-puces et anti-tiques Frontline est fabriqué en France, selon des procédés de qualité et une expertise de plus de 20 ans en santé vétérinaire.
 - UN HABITAT BIEN PROTÉGÉ : Seulement 5% des puces évoluent sur votre chien; les 95% restantes vivent dans votre foyer. FRONTLINE COMBO chien tue les puces de lanimal et inhibe le développement de leurs larves dans votre logement.
 - EFFICACITÉ : Application sous forme de pipettes pour une utilisation simple, ce traitement offre au chien une protection contre les puces pendant 8 semaines et contre les tiques pendant 4 semaines.
+- DOUBLE ACTION : Cet antiparasitaire pour chien élimine les puces, les tiques et les poux broyeurs, tout en prévenant linfestation de votre logement par les œufs et larves de puces grâce à son inhibiteur actif de croissance qui empêche léclosion des oeufs de puces dans votre habitat1.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004L8T2MY{{</world>}}

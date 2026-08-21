@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ambré Boisé Floral - Bois de Cashmeran, Accord de Jasmin Sambac & Ambre Blanc
-- Les notes riches et sensuelles de leau de parfum Alien reflètent la force féminine : un puissant parfum floral aux notes de Jasmin mêlées à des notes boisées et ambrées.
-- Vaporisez un nuage puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements. Complétez la gestuelle en parfumant les points de pulsation : poignet, cou, pliure du bras.
 - Redonnez vie éternellement à votre parfum en le rechargeant chez vous avec le flacon recharge 100ml.
 - L’eau de parfum Alien de Mugler est un talisman capable de révéler la lumière et la force créatrice de chaque femme. Il illumine d’un halo extraordinaire celle qui le porte. Alien Eau de Parfum diffuse paix et sérénité dans son sillage, grâce à son parfum talisman.
+- Vaporisez un nuage puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements. Complétez la gestuelle en parfumant les points de pulsation : poignet, cou, pliure du bras.
+- Les notes riches et sensuelles de leau de parfum Alien reflètent la force féminine : un puissant parfum floral aux notes de Jasmin mêlées à des notes boisées et ambrées.
+- Ambré Boisé Floral - Bois de Cashmeran, Accord de Jasmin Sambac & Ambre Blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08ZXY1B7H{{</world>}}

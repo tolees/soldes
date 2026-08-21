@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : 80 % tissu (69 % PET recyclé - 16 % élasthanne recyclé - 15 % fil PU) - 20 % tissu (100 % PET recyclé)
+- Matériau extérieur : 100 % tissu (69 % PET recyclé - 16 % élasthanne recyclé - 15 % fil PU)
 - Semelle extérieure : 51 % EVA recyclé - 49 % EVA
 - Couleur : multicolore
-- Matériau extérieur : 100 % tissu (69 % PET recyclé - 16 % élasthanne recyclé - 15 % fil PU)
+- Doublure : 80 % tissu (69 % PET recyclé - 16 % élasthanne recyclé - 15 % fil PU) - 20 % tissu (100 % PET recyclé)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D79G8RN2{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction double couche
-- Longueur hanches
 - Imperméable, coupe-vent et respirant
-- Extérieur : 100 % polyester Intérieur : 100 % polyuréthane
+- Longueur hanches
+- Doublure en maille pour le confort
+- Construction double couche
 - Poches poitrine zippées
 - Col confortable avec doublure polaire Polartec
-- Doublure en maille pour le confort
+- Extérieur : 100 % polyester Intérieur : 100 % polyuréthane
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N0PW6X5{{</world>}}

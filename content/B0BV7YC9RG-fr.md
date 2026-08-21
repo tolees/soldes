@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les aliments complets de MjAMjAM offrent une nutrition pour chat adaptée à lespèce, naturelle et proche de la proie. Notre fournisseur le plus important, la nature, nous fournit tous les ingrédients importants pour répondre à notre philosophie et aux besoins de votre animal de compagnie.
 - Le bien-être animal est notre priorité absolue. Pour cette raison, nous évitons délibérément : les colorants et attractifs, le sucre, le gluten, les céréales et le soja, les sous-produits végétaux et les conservateurs de synthèse.
+- Les aliments complets de MjAMjAM offrent une nutrition pour chat adaptée à lespèce, naturelle et proche de la proie. Notre fournisseur le plus important, la nature, nous fournit tous les ingrédients importants pour répondre à notre philosophie et aux besoins de votre animal de compagnie.
 - Nourriture naturelle pour chats sans céréales avec une teneur en viande très élevée
 - Pour nos repas, nous utilisons principalement des ingrédients provenant de fermes régionales. Élevés ou cultivés avec beaucoup damour, ils sont soumis aux contrôles de qualité les plus stricts. Nous nutilisons que des ingrédients 100% de qualité alimentaire.
 

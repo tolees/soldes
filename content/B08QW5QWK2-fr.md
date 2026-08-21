@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle: Caoutchouc
-- Doublure: Synthétique
 - Largeur de la chaussure: Moyen
-- Type de talons: Plat
-- Hauteur de la tige : Knöchel
-- Fermeture: À enfiler
 - Dessus: Cuir
+- Hauteur de la tige : Knöchel
+- Matériau de semelle: Caoutchouc
+- Fermeture: À enfiler
+- Type de talons: Plat
+- Doublure: Synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QW5QWK2{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR LES CUISINES : grâce à la technologie bi-capteur, convient également à lutilisation dans les cuisines
-- CERTIFIÉ : Détecteur de fumée/de chaleur avec certification Q-Label, testé selon EN 14604:2005/AC:2008 et test supplémentaire selon vfdb14-01 - Made in Germany
-- RÉSEAU : 15 détecteurs de fumée RWM450 peuvent être reliés entre eux par radio - si lun deux signale une alarme (88 dB de volume), tous les autres détecteurs du groupe radio se mettent également en marche.
-- PILE DE 12 ANS : pile fixe au lithium de 3V avec une durée de vie de 12 ans pour une sécurité à long terme.
 - PAS DE CLIGNOTANT : détecteur sans lumière clignotante - peut être utilisé sans déranger dans la chambre à coucher, la chambre denfant, le salon, le couloir et même dans les cuisines et les caravanes/camping-cars
-- DÉTAILS DE PRODUITS : Le détecteur avertit de la chaleur et de la fumée - poids 312 g, diamètre 10,5 cm, hauteur 4 cm, couleur blanc pur, volume dalarme 88 dB, portée radio env. 400 m (en champ libre)
+- RÉSEAU : 15 détecteurs de fumée RWM450 peuvent être reliés entre eux par radio - si lun deux signale une alarme (88 dB de volume), tous les autres détecteurs du groupe radio se mettent également en marche.
 - BOUTON DE TEST : bouton de test de grande surface pour lautotest manuel et la mise en sourdine en cas de fausse alarme
+- CERTIFIÉ : Détecteur de fumée/de chaleur avec certification Q-Label, testé selon EN 14604:2005/AC:2008 et test supplémentaire selon vfdb14-01 - Made in Germany
+- DÉTAILS DE PRODUITS : Le détecteur avertit de la chaleur et de la fumée - poids 312 g, diamètre 10,5 cm, hauteur 4 cm, couleur blanc pur, volume dalarme 88 dB, portée radio env. 400 m (en champ libre)
+- POUR LES CUISINES : grâce à la technologie bi-capteur, convient également à lutilisation dans les cuisines
+- PILE DE 12 ANS : pile fixe au lithium de 3V avec une durée de vie de 12 ans pour une sécurité à long terme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B010SE5JJO{{</world>}}

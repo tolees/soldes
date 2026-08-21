@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Un large compartiment principal qui peut contenir des stylos
-- produit 1: La grande poche frontale dispose dun organiseur intérieur pour garder vos affaires en ordre
-- produit 2: Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
-- produit 1: Hauteur : 42 cm, Largeur : 32 cm, Profondeur : 25,5 cm
 - produit 1: Deux compartiments principaux pour une organisation facile
-- produit 1: Fabrication 100% nylon ultra-résistant
+- produit 2: Un large compartiment principal qui peut contenir des stylos
 - produit 2: Fabrication 100% nylon ultra-résistant
+- produit 2: Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
+- produit 1: La grande poche frontale dispose dun organiseur intérieur pour garder vos affaires en ordre
+- produit 1: Fabrication 100% nylon ultra-résistant
+- produit 1: Hauteur : 42 cm, Largeur : 32 cm, Profondeur : 25,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CH38MDD9{{</world>}}

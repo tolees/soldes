@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La membrane imperméable empêche leau de séchapper et laisse lhumidité séchapper
 - Semelle intermédiaire légère en mousse EVA pour plus de stabilité et de confort
 - MERRELL, BOOT, MASCULINO, ADULTO, ALPINE 83 SNKR RECRAFT MID WP GREEN, 43
+- La membrane imperméable empêche leau de séchapper et laisse lhumidité séchapper
 - Assise plantaire amovible en mousse EVA 50 % recyclée
 - Partie supérieure en cuir suédé imperméable et maille
 - Deux passants pour le talon et la languette facilitent lentrée et sont compatibles avec les mousquetons

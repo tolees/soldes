@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
-- Mise au point silencieuse, stabilisateur dimage à 4 vitesses, design compact
 - Voyages, portraits, vlogs, quotidien, nourriture
 - Voir ci-dessous pour specs & informations complémentaires
 - Cet objectif est uniquement compatible avec les modèles « EOS R » tels que EOS R100, R50, R10, R6, R7, R8
+- Mise au point silencieuse, stabilisateur dimage à 4 vitesses, design compact
+- Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B25V8BRL{{</world>}}

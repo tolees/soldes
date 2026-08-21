@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un résultat optimal : le nettoyeur de vitres WV 7 Signature Line de Kärcher aspire les fenêtres humides, les miroirs, les carrelages et autres surfaces lisses sans laisser de gouttes ni de traces
-- Autonomie extra longue : laspirateur de vitres peut être utilisé jusquà 100 min avec une seule charge. Laffichage LED de létat de charge permet de toujours garder un œil sur le temps restant
-- Nombreux accessoires : pour pré-nettoyer les surfaces, le kit comprend un pulvérisateur avec raclette et 2 housses en microfibres pour les surfaces intérieures et extérieures, ainsi quun grattoir
 - 2 buses : les grandes surfaces peuvent être nettoyées rapidement avec la buse daspiration de 280 mm de large ; pour les petites surfaces et les endroits étroits, celle de 170 mm est plus adaptée
+- Un résultat optimal : le nettoyeur de vitres WV 7 Signature Line de Kärcher aspire les fenêtres humides, les miroirs, les carrelages et autres surfaces lisses sans laisser de gouttes ni de traces
+- Nombreux accessoires : pour pré-nettoyer les surfaces, le kit comprend un pulvérisateur avec raclette et 2 housses en microfibres pour les surfaces intérieures et extérieures, ainsi quun grattoir
+- Autonomie extra longue : laspirateur de vitres peut être utilisé jusquà 100 min avec une seule charge. Laffichage LED de létat de charge permet de toujours garder un œil sur le temps restant
 - Livraison : nettoyeur de vitres WV 7 Signature Line avec chargeur, pulvérisateur, bonnettes microfibres, raclette, nettoyant pour vitres 20 ml, 2 buses daspiration, étui de rangement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

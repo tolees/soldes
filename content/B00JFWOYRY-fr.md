@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mettez vos aliments au frais : Idéal pour le réfrigérateur, le bord en silicone repose hermétiquement contre la paroi du récipient, tandis que le verre transparent permet de voir le contenu
 - Format universel : Disponibles dans 8 tailles, différentes, de 5 cm à 28 cm pour préserver les arômes de vos plats
 - Plus besoin de transvaser : Transformez vos saladiers ou casseroles en récipients de conservation pratiques avec ce couvercle en verre trempé et au bord siliconé
 - Données produit : Ø 12 cm - Verre trempé, silicone noir - Transparent - Fermeture hermétique - Sassocie parfaitement avec les saladiers, casseroles et poêles RÖSLE
+- Mettez vos aliments au frais : Idéal pour le réfrigérateur, le bord en silicone repose hermétiquement contre la paroi du récipient, tandis que le verre transparent permet de voir le contenu
 - Fait pour durer : Hygiénique, sans goût, inodore et facile à entretenir - Se lave facilement à la main et passe au lave-vaisselle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage ARGB intense et personnalisable – Huit LED par ventilateur permettent un éclairage intense et personnalisable contrôlé par le contrôle ARGB intégré à votre carte mère (nécessite une carte mère compatible)
-- Unifiez votre installation – Les ventilateurs RS-R ARGB sont disponibles en noir ou en blanc pour convenir à différentes versions de PC
 - Haute pression statique – Les ventilateurs RS-R ARGB fonctionnent bien en refroidissant les radiateurs avec une pression statique de 2,81 mm H2O pour passer à travers les obstructions
+- Unifiez votre installation – Les ventilateurs RS-R ARGB sont disponibles en noir ou en blanc pour convenir à différentes versions de PC
 - Rotor inversé pour un éclairage impeccable – Atteignez votre idéale esthétique avec des ventilateurs à rotor inversé garantissant que léclairage RGB est entièrement visible, même lorsquil est monté pour ladmission
+- Éclairage ARGB intense et personnalisable – Huit LED par ventilateur permettent un éclairage intense et personnalisable contrôlé par le contrôle ARGB intégré à votre carte mère (nécessite une carte mère compatible)
 - Performances PWM précises – Réglez la vitesse de votre ventilateur jusquà 2 100 RPM tout en fournissant un flux dair allant jusquà 65,8 CFM à votre système. Réglez la vitesses du ventilateur plus basse pour le faire fonctionner silencieusement, ou plus rapidement lorsque vous devez déplacer beaucoup dair
 
 [🛒 Achète-le!!]({{< param buyurl >}})

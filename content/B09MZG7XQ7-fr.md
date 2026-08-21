@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - IDEE CADEAU - Cest le cadeau parfait pour vos enfants pour toutes les occasions: Noël, Anniversaire, Pâques !
+- VOITURE TOUT-TERRAIN - Rien ne lui résiste avec ses suspensions avant et arrière et ses pneus chartés Exost pour des excursions sur tous les terrains
 - DESIGN URBAIN - Buggy à suspensions ultra solides version compacte, et au look urbain pour affronter ses adversaires avec style; avec une vitesse de 7km/h, lancez-vous dans la course et profitez d un temps de jeu allant jusquà 25min sur une portée de 20 mètres
 - TECHNOLOGIE 2,4 Ghz - Jeu en intérieur et extérieur (hormis sur leau), jusquà 10 joueurs en simultané. Se recharge sur batterie (USB)
-- VOITURE TOUT-TERRAIN - Rien ne lui résiste avec ses suspensions avant et arrière et ses pneus chartés Exost pour des excursions sur tous les terrains
 - CARACTERISTIQUES TECHNIQUES - Portée 20 mètres max; Vitesse réelle : 7km/h, vitesse à léchelle : 168km/h; Temps de jeu : jusquà 25min; Piles : batterie rechargeable USB (voiture) incluse et 2 x AA (télécommande) non incluses. Dimensions : (L)20 x (P)12 x (H)12 cm; Dès 5 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Juste assez extensible pour rester confortable toute la journée
 - Ceci est un authentique produit Levi’s
 - Coupe effet sur mesure
-- Juste assez extensible pour rester confortable toute la journée
 - Jambes plus ajustées que le Levis 511
 
 [🛒 Achète-le!!]({{< param buyurl >}})

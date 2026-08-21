@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rincer à leau froide
-- Se concentrant sur le front, le nez et le menton
 - Bio-organique organique le miel de manuka possède une foule de propriétés rétablissant es, nourrissantes et rajeunissantes
 - Visage humide puis massage doucement une petite quantité de lavage du visage sur la peau dans des mouvements circulaires
+- Rincer à leau froide
+- Se concentrant sur le front, le nez et le menton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B071GRJHZT{{</world>}}

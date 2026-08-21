@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format compact à emporter partout !
-- Alimentation : 3 piles LR03/AAA (non fournies)
-- Parcourez le menu principal et choisissez parmi 250 jeux : snake, jeux de brique, jeux dadresse et daction, bataille navale, sudoku, foot, basket et jeux de course
-- Écran couleur LCD 2,5’’ (6,35 cm)
-- Processeur 8-bit avec une technologie graphique de 16-bit pour un plus grand confort
-- 250 jeux en 1 : sport, action, logique, jeux de plateforme, aventure et bien plus !
-- Chassez les monstres et les aliens, évitez les pièges, marquez des buts et gagnez des courses, des heures de jeux garanties pour tout le monde!
 - Haut-parleur et bouton volume
+- Processeur 8-bit avec une technologie graphique de 16-bit pour un plus grand confort
+- Parcourez le menu principal et choisissez parmi 250 jeux : snake, jeux de brique, jeux dadresse et daction, bataille navale, sudoku, foot, basket et jeux de course
+- 250 jeux en 1 : sport, action, logique, jeux de plateforme, aventure et bien plus !
+- Alimentation : 3 piles LR03/AAA (non fournies)
+- Chassez les monstres et les aliens, évitez les pièges, marquez des buts et gagnez des courses, des heures de jeux garanties pour tout le monde!
+- Format compact à emporter partout !
+- Écran couleur LCD 2,5’’ (6,35 cm)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B087JX7KB2{{</world>}}

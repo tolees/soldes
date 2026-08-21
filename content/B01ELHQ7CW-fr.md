@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facundo Paraiso est un rhum à offrir à tous ceux qui apprécient les spiritueux les plus raffinés. Il est présenté dans un coffret cadeau avec une bouteille unique, véritable œuvre d’art en soi
-- Paraiso est élaboré à partir de rhums de Porto Rico et des Bahamas puis vieilli dans des fûts de chêne blanc, permettant au bois, au soleil et à l’air marin de créer un rhum remarquablement éthéré
-- Facundo Paraiso symbolise la quintessence de l’art du rhum. C’est un spiritueux exceptionnel, créé par l’assemblage de rhums soigneusement sélectionnés dans la réserve de la famille Bacardi
 - Chef-d’œuvre absolu de rhum ambré, Paraiso se déguste pur, en laissant lentement ses saveurs révéler d’étonnantes complexités et de surprenantes subtilités
+- Paraiso est élaboré à partir de rhums de Porto Rico et des Bahamas puis vieilli dans des fûts de chêne blanc, permettant au bois, au soleil et à l’air marin de créer un rhum remarquablement éthéré
 - Facundo Paraiso est élaboré à partir des rhums les plus rares, les plus fins et les plus distingués de la réserve de la famille Bacardi. Il est ensuite affiné dans des fûts français XO de xérès
+- Facundo Paraiso symbolise la quintessence de l’art du rhum. C’est un spiritueux exceptionnel, créé par l’assemblage de rhums soigneusement sélectionnés dans la réserve de la famille Bacardi
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01ELHQ7CW{{</world>}}

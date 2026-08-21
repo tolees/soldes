@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame 6 cm inox
-- Poignard MORA ELDRISS
 - Etui rigide Noir
+- Poignard MORA ELDRISS
 - Manche gomme Noir
+- Lame 6 cm inox
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01J7MM5M2{{</world>}}

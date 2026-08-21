@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture à lacets.
-- Tige en cuir enduit.
-- Chaussant standard.
 - Doublure textile.
+- Chaussant standard.
+- Tige en cuir enduit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHGJTFHC{{</world>}}

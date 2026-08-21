@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de 51 Litres
-- Fabriqué aux Etats-Unis
 - Glacière de haute qualité avec dexcellentes performances de refroidissement dIgloo
+- Fabriqué aux Etats-Unis
+- Capacité de 51 Litres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MZG8N11{{</world>}}

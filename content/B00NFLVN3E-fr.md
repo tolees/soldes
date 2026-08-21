@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b> Couleur </b>: Graphite
-- <b> Garantie </b>: 1 an(s)
 - <b>Description du produit</b>: Boîte de rangement empilable de la série "Robusta" dOctobre Il dispose de deux poignées et dun couvercle avec peut (sil vous plaît commander séparément) sont combinés. Les boîtes Robusta offrent la polyvalence. Idéal comme un transport et de stockage récipients pour le ménage, industrielle ou commerciale. Ils peuvent être empilées avec ou sans couvercle solidement à achotter. Les boîtes Robusta ont un impact élevé et résistance aux rayures. Le matériau est résistant à la plupart des acides et alcalis. Il est sûr alimentaire, inodore et sans saveur. Les dimensions les quantités optimisés pour une utilisation avec des palettes Euro.
 - Convient aux aliments
-- Extrêmement stable grâce à la latéral et rainures longitudinales
 - <b> Matière </b>: Plastique
+- <b> Garantie </b>: 1 an(s)
+- <b> Couleur </b>: Graphite
+- Extrêmement stable grâce à la latéral et rainures longitudinales
 - Résiste aux substance acide et basiques allant de +100 jusquà -20,
 
 [🛒 Achète-le!!]({{< param buyurl >}})

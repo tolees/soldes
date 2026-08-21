@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage des oreillettes à 6 zones - optimisé par Razer Chroma RGB : avec un accès à 16,8 millions de couleurs et une suite deffets lumineux, appliquez vos paramètres préférés et regardez-les fonctionner de manière transparente avec plus de 300 jeux et 500 appareils chez plus de 50 partenaires.
-- Micro cardioïde Razer HyperClear détachable - pour une capture vocale cristalline : Entendez-vous clairement pendant les jeux et les appels grâce à un micro réglé pour supprimer les bruits de fond. Pour une utilisation mobile, le casque peut être retiré à tout moment afin de faciliter les déplacements.
-- Razer SmartSwitch Dual Wireless - pour basculer rapidement entre Razer HyperSpeed et Bluetooth : Passez de la connexion de votre PC ou console à celle de votre téléphone dun simple geste. Profitez dun son transparent pour toute activité en vous associant simultanément à un appareil 2,4 GHz et à un appareil Bluetooth.
-- Autonomie de 70 heures avec chargeur de type C - pour une utilisation tout au long de la journée : Travaillez toute la journée, jouez et faites la navette en toute tranquillité. Soyez prêt à tout affronter grâce à cet essentiel de tous les jours, toujours prêt à lemploi.
 - Membranes Razer TriForce 40 mm - pour des performances audio haut de gamme : Notre conception brevetée de haut-parleurs en trois parties produit des aigus, des médiums et des graves exceptionnels qui ne sembrouillent pas, pour une immersion plus profonde dans les jeux et une expérience découte plus dynamique pour la musique et les vidéos.
 - Conception ergonomique de 285 g - pour un confort tout au long de la journée, à lintérieur comme à lextérieur : Conçu pour les marathons de jeu et suffisamment portable pour les trajets quotidiens, sa construction légère est complétée par des coussinets en mousse à mémoire de forme respirante et des oreillettes pivotantes pour un ajustement parfait et confortable.
+- Éclairage des oreillettes à 6 zones - optimisé par Razer Chroma RGB : avec un accès à 16,8 millions de couleurs et une suite deffets lumineux, appliquez vos paramètres préférés et regardez-les fonctionner de manière transparente avec plus de 300 jeux et 500 appareils chez plus de 50 partenaires.
+- Razer SmartSwitch Dual Wireless - pour basculer rapidement entre Razer HyperSpeed et Bluetooth : Passez de la connexion de votre PC ou console à celle de votre téléphone dun simple geste. Profitez dun son transparent pour toute activité en vous associant simultanément à un appareil 2,4 GHz et à un appareil Bluetooth.
+- Micro cardioïde Razer HyperClear détachable - pour une capture vocale cristalline : Entendez-vous clairement pendant les jeux et les appels grâce à un micro réglé pour supprimer les bruits de fond. Pour une utilisation mobile, le casque peut être retiré à tout moment afin de faciliter les déplacements.
+- Autonomie de 70 heures avec chargeur de type C - pour une utilisation tout au long de la journée : Travaillez toute la journée, jouez et faites la navette en toute tranquillité. Soyez prêt à tout affronter grâce à cet essentiel de tous les jours, toujours prêt à lemploi.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DH58V1BK{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Parfait pour les 5 ans et plus
-- Contenance : 970 L
 - La puissante soufflerie incluse gonfle le parc aquatique en 2 minutes
+- Contenance : 970 L
+- Parfait pour les 5 ans et plus
 - Matière avec doubles coutures pour une plus grande résistance
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Confort de port eleve
 - Haute qualite
 - Sechage rapide
-- Confort de port eleve
 - Marque: Nike
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

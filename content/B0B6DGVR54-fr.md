@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : plat
-- Matériau extérieur : cuir
-- Fermeture : éthylène-acétate de vinyle
 - Largeur de la chaussure : moyenne
+- Forme du talon : plat
+- Fermeture : éthylène-acétate de vinyle
 - Matériau intérieur : animal recyclé
+- Matériau extérieur : cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B6DGVR54{{</world>}}

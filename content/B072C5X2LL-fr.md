@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend: Peigne 43 cm poupée, craies de couleur, les cheveux et les gencives
-- Couleurs amusantes Wicks et les coiffures Nancy
 - Créer des craies de couleur dans les cheveux un effet arc-en-Nancy
 - Nancy poupée avec les cheveux longs supplémentaires
+- Comprend: Peigne 43 cm poupée, craies de couleur, les cheveux et les gencives
+- Couleurs amusantes Wicks et les coiffures Nancy
 - Âge recommandé: 4 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

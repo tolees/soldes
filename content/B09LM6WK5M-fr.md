@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : EasyGrassCut 18V-230, 1 batterie PBA 18V 2,0 Ah W-B, chargeur AL 1810 CV, carton
-- POWER FOR ALL ALLIANCE: 1 BATTERIE, 10+ MARQUES, 150+ OUTILS.
-- Les outils de jardin Easy de Bosch : pour les jardins de petites et moyennes superficies
-- Maniement facile : faible poids et puissant moteur pour un travail facile et efficace
 - Travail sans interruption : utilisation continue du coupe-bordures Bosch grâce au système faisant avancer le fil à chaque pression sur la gâchette
+- Livré avec : EasyGrassCut 18V-230, 1 batterie PBA 18V 2,0 Ah W-B, chargeur AL 1810 CV, carton
+- Les outils de jardin Easy de Bosch : pour les jardins de petites et moyennes superficies
+- POWER FOR ALL ALLIANCE: 1 BATTERIE, 10+ MARQUES, 150+ OUTILS.
+- Maniement facile : faible poids et puissant moteur pour un travail facile et efficace
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LM6WK5M{{</world>}}

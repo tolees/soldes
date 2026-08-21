@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCRAN LCD AVEC S-METER ET SORTIE HAUT-PARLEUR : L’écran rétroéclairé affiche les fonctions actives et le niveau du signal grâce au S-Meter. À l’arrière, une prise haut-parleur et un réglage RF Gain permettent d’optimiser la réception en environnement bruyant
-- DOUBLE SQUELCH ET CANAUX D’URGENCE 9/19 : Squelch numérique réglable sur 9 et 28 niveaux pour réduire les interférences. Les canaux 9 et 19 préconfigurés permettent un accès rapide aux communications d’urgence pour plus de sécurité sur la route
-- KIT COMPLET AVEC PORT USB ET ANTENNE LC29 À BASE MAGNÉTIQUE : Le kit inclut la radio M-MINI USB avec prise RJ45, microphone UP/DOWN, câble pour allume-cigare, support avec vis et antenne CB LC29 à base magnétique. Le USB permet de recharger d’autres appareils
-- INNOVATION ET FIABILITÉ DEPUIS 1959 : Fort de plus de 65 ans d’expérience, Midland est un leader italien de la communication radio, pionnier du sans fil, qui conçoit des solutions audio innovantes et performantes pour toutes les situations
 - RADIO CB MOBILE AVEC 40 CANAUX AM/FM ET 4W DE PUISSANCE : Radio M-MINI USB sans licence avec 40 canaux AM/FM et 4W de puissance, compatible avec les principales bandes européennes, dont la bande 27 CH utilisée en Italie et dans de nombreux pays UE
+- KIT COMPLET AVEC PORT USB ET ANTENNE LC29 À BASE MAGNÉTIQUE : Le kit inclut la radio M-MINI USB avec prise RJ45, microphone UP/DOWN, câble pour allume-cigare, support avec vis et antenne CB LC29 à base magnétique. Le USB permet de recharger d’autres appareils
+- ÉCRAN LCD AVEC S-METER ET SORTIE HAUT-PARLEUR : L’écran rétroéclairé affiche les fonctions actives et le niveau du signal grâce au S-Meter. À l’arrière, une prise haut-parleur et un réglage RF Gain permettent d’optimiser la réception en environnement bruyant
+- INNOVATION ET FIABILITÉ DEPUIS 1959 : Fort de plus de 65 ans d’expérience, Midland est un leader italien de la communication radio, pionnier du sans fil, qui conçoit des solutions audio innovantes et performantes pour toutes les situations
+- DOUBLE SQUELCH ET CANAUX D’URGENCE 9/19 : Squelch numérique réglable sur 9 et 28 niveaux pour réduire les interférences. Les canaux 9 et 19 préconfigurés permettent un accès rapide aux communications d’urgence pour plus de sécurité sur la route
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B088MQY2L1{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DÉTECTE 3 GAZ : soyez alerté en cas de fuite de méthane, propane ou butane avec le détecteur de gaz Smartwares FGA-13410 et sa sirène de 85 dB.
 - VOYANTS LEDS : des indicateurs lumineux vous indiquent tout dysfonctionnement de votre appareil ou sil arrive en fin de vie (durée de vie : 5 ans).
 - BOUTON DE TEST : testez le bon fonctionnement de votre détecteur tous les 6 mois environ en pressant la touche de test.
-- DÉTECTE 3 GAZ : soyez alerté en cas de fuite de méthane, propane ou butane avec le détecteur de gaz Smartwares FGA-13410 et sa sirène de 85 dB.
 - SANS PILE : ce détecteur de gaz est alimenté sur le secteur. Aucune pile nest nécessaire.
 - INSTALLATION SIMPLE : choisissez un endroit assez proche de la source de gaz, fixez le détecteur sur le mur à laide des vis fournies et branchez-le à une prise électrique.
 

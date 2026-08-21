@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ampoule LED longue durée de vie
+- Ampoule LED longue durée de vie
 - Lumière blanche et froide
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
-- Lumière blanche et froide
-- Ampoule LED longue durée de vie
 - Meilleur pour votre portefeuille et pour la planète
-- Ampoule LED longue durée de vie
+- Lumière blanche et froide
 - Éclairage instantané, dès lallumage
 - Éclairage instantané, dès lallumage
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes

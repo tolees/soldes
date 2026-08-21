@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MATIERE : carton ondulé 100% recyclé certifié FSC et 100% recyclable
-- TAILLE : l x H x L : 335 x 271 x 470 mm
-- RESPECT DE LENVIRONNEMENT : Toutes les encres utilisées sont à base d’eau et les adhésifs utilisés sont garantis sans solvant.
 - CONTENANCE : Grande caisse pour archives, peut contenir 5 boîtes d’archives de la gamme Earth Series dos de 80 mm
+- RESPECT DE LENVIRONNEMENT : Toutes les encres utilisées sont à base d’eau et les adhésifs utilisés sont garantis sans solvant.
+- TAILLE : l x H x L : 335 x 271 x 470 mm
 - SOLIDITÉ : Construction ultra résistante avec double épaisseur à la base et sur les poignées
+- MATIERE : carton ondulé 100% recyclé certifié FSC et 100% recyclable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0030DMOVM{{</world>}}

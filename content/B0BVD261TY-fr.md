@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le connecteur Flex permet de retirer le vélo accouplé
 - Léger et compact pliable
-- Centre de gravité bas
 - Spécialement conçu pour le transport de charges et les charges encombrantes
+- Centre de gravité bas
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVD261TY{{</world>}}

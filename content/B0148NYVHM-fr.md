@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA QUALITÉ LAYS 3D, UNE PRIORITÉ : Depuis 2021, Lays 3Ds vous propose une recette sans conservateurs, sans colorants, ni arômes artificiels pour ses références phares Lays 3Ds nature et bacon ! Cette initiative sinscrit dans notre démarche damélioration continue de nos recettes, afin de proposer des produits mariant plaisir & qualité
 - À conserver à labri de la chaleur et de lhumidité
+- LA QUALITÉ LAYS 3D, UNE PRIORITÉ : Depuis 2021, Lays 3Ds vous propose une recette sans conservateurs, sans colorants, ni arômes artificiels pour ses références phares Lays 3Ds nature et bacon ! Cette initiative sinscrit dans notre démarche damélioration continue de nos recettes, afin de proposer des produits mariant plaisir & qualité
 - Découvrez toutes les variétés Bénénuts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

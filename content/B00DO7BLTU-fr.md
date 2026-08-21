@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette lampe à poser séduit à première vue par son design classique et par la forme de lanterne
-- Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 watts; Dimensions : hauteur : 100 cm, diamètre : 17,5 cm, diamètre socle : 13 cm
 - Lampoule nest pas incluse dans la livraison
-- Le boîtier du poteau éclairage est fabriqué en acier inoxydable stable ; Ce matériau est synonyme de durabilité, protège contre la rouille et donne au luminaire un aspect noble
+- Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 watts; Dimensions : hauteur : 100 cm, diamètre : 17,5 cm, diamètre socle : 13 cm
 - Résistant aux intempéries, ce potelet éclairage extérieur est protégé contre les éclaboussures (IP44) ; Cela permet une utilisation sûre dans les espaces extérieurs tels que le jardin, la terrasse, le garage, labri de jardin, les chemins, les allées ou les entrées
+- Cette lampe à poser séduit à première vue par son design classique et par la forme de lanterne
+- Le boîtier du poteau éclairage est fabriqué en acier inoxydable stable ; Ce matériau est synonyme de durabilité, protège contre la rouille et donne au luminaire un aspect noble
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00DO7BLTU{{</world>}}

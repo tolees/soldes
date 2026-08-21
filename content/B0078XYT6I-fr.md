@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chronométrage 12/24 heures: Les heures peuvent être affichées au format 12 heures ou 24 heures
 - Éclairage de lécran : lumière LED, avec rémanence
+- Chronométrage 12/24 heures: Les heures peuvent être affichées au format 12 heures ou 24 heures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0078XYT6I{{</world>}}

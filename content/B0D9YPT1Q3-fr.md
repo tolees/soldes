@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RENCONTRE LÉQUIPE BOUH – Clawdeen, Draculaura et Frankie sont tes nouveaux meilleurs amis !
-- CRÉE TON PERSONNAGE – Sois toi-même. Sois unique. Soit un Monster.
-- RÉSOUS LES SECRETS CRÂNIBULEUX – Découvre les secrets des Pièces cachées et ce qui se passe à Monster High.
 - DÉCOUVRE LE MONDE DE Monster High – Explore lécole et tous ses secrets monstrueux.
+- CRÉE TON PERSONNAGE – Sois toi-même. Sois unique. Soit un Monster.
 - DÉBLOQUE DE NOUVELLES COMPÉTENCES – Débloque de supers compétences comme Saut de vampire ou Ruée de gorgone.
+- RÉSOUS LES SECRETS CRÂNIBULEUX – Découvre les secrets des Pièces cachées et ce qui se passe à Monster High.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9YPT1Q3{{</world>}}

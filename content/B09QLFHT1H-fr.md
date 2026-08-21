@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FILTRE À POUSSIÈRE MAGNÉTIQUE ETVITRE EN VERRE TREMPÉ - Les filtres à poussière magnétiques empêchent la poussière de tomber à lintérieur tout en étant faciles à retirer pour le nettoyage. Dévoilez vos composants grâce à une solide vitre en verre trempé
-- MODULE DE CONTROLE ARGB - Contrôleur intégré pour 1 à 6 dispositifs. 26 effets LED qui peuvent être commandés individuellement via Mystic Light (connecteur 3 broches 5 V).
 - PANNEAU E/S - Le panneau de contrôle dE/S situé en haut de la face avant comprend les boutons dalimentation et de réinitialisation, les ports micro/audio et 2 ports USB 3.2 Gen 1 Type-A (5 Gb/s). Le bouton LED permet le contrôle via le hub ARGB.
-- SUPPORT DES COMPOSANTS - Supporte les GPU de 300 mm de long (4 slots), un refroidisseur de CPU de 160 mm de haut et un bloc dalimentation ATX de 180 mm de long.
 - SYSTÈME DE REFROIDISSEMENT OPTIMISÉ - Le MAG FORGE M100R est doté dune façade en mesh qui assure la circulation de lair pour refroidir le système. Il est livré avec 4 ventilateurs ARGB de 120 mm : 3 à lavant et 1 à larrière.
+- MODULE DE CONTROLE ARGB - Contrôleur intégré pour 1 à 6 dispositifs. 26 effets LED qui peuvent être commandés individuellement via Mystic Light (connecteur 3 broches 5 V).
+- FILTRE À POUSSIÈRE MAGNÉTIQUE ETVITRE EN VERRE TREMPÉ - Les filtres à poussière magnétiques empêchent la poussière de tomber à lintérieur tout en étant faciles à retirer pour le nettoyage. Dévoilez vos composants grâce à une solide vitre en verre trempé
+- SUPPORT DES COMPOSANTS - Supporte les GPU de 300 mm de long (4 slots), un refroidisseur de CPU de 160 mm de haut et un bloc dalimentation ATX de 180 mm de long.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09QLFHT1H{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets
+- LA GALAXIE VOUS RÉPOND – Une fois connectée à lun des SMART Tags du vaisseau spatial, la SMART Brique LEGO (non incluse) active les fonctionnalités dentraînement au sabre laser, chocs de sabres laser, ravitaillement et saut hypervitesse
 - CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 9 ans, un.e ado ou un.e adulte collectionneur.se
-- JOUET DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut une maquette de Faucon Millenium avec 4 SMART Tags, 4 SMART Minifigurines, des canons à tenons et un toit articulé pour accèder à tout lintérieur détaillé
+- 4 SMART MINIFIGURINES LEGO STAR WARS – Donnez vie aux SMART Minifigurines de Luke Skywalker avec un sabre laser, Han Solo, Chewbacca et C-3PO grâce à une SMART Brique (non incluse), en dévoilant leurs voix uniques et leurs réactions
 - COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique dun set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément)
 - JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s pour recréer des scènes de films emblématiques : aidez Luke Skywalker à appréhender la Force, jouez au Dejarik, transportez le réservoir de carburant précaire et voyagez à la vitesse de la lumière
-- 4 SMART MINIFIGURINES LEGO STAR WARS – Donnez vie aux SMART Minifigurines de Luke Skywalker avec un sabre laser, Han Solo, Chewbacca et C-3PO grâce à une SMART Brique (non incluse), en dévoilant leurs voix uniques et leurs réactions
-- LA GALAXIE VOUS RÉPOND – Une fois connectée à lun des SMART Tags du vaisseau spatial, la SMART Brique LEGO (non incluse) active les fonctionnalités dentraînement au sabre laser, chocs de sabres laser, ravitaillement et saut hypervitesse
+- JOUET DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut une maquette de Faucon Millenium avec 4 SMART Tags, 4 SMART Minifigurines, des canons à tenons et un toit articulé pour accèder à tout lintérieur détaillé
+- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXQLVBV{{</world>}}

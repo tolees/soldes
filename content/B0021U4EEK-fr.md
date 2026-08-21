@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PAPIERS BLANCS : vélin surfin 70 g/m² pour les pages grands carreaux, et Dessin 90 g/m² pour les pages unies RÉGLURE TRICOLORE : marge rouge, lignes violettes et interlignes bleues, pour un meilleur confort décriture
-- COUVERTURE : carte couchée recyclée vernie RELIURE PIQUÉE : le bon rapport qualité/prix Les pages sont reliées entre elles par des agrafes
-- 1 CAHIER DE COULEUR ALÉATOIRE : violet, bleu violace, rouge ou vert sapin PETIT FORMAT : format écolier, se range facilement dans le cartable
-- MADE IN FRANCE et CERTIFIÉ PEFC : pour la gestion durable des forêts
 - RÉGLURE TRICOLORE : marge rouge, lignes violettes et interlignes bleues, pour un meilleur confort décriture
+- COUVERTURE : carte couchée recyclée vernie RELIURE PIQUÉE : le bon rapport qualité/prix Les pages sont reliées entre elles par des agrafes
+- MADE IN FRANCE et CERTIFIÉ PEFC : pour la gestion durable des forêts
+- PAPIERS BLANCS : vélin surfin 70 g/m² pour les pages grands carreaux, et Dessin 90 g/m² pour les pages unies RÉGLURE TRICOLORE : marge rouge, lignes violettes et interlignes bleues, pour un meilleur confort décriture
+- 1 CAHIER DE COULEUR ALÉATOIRE : violet, bleu violace, rouge ou vert sapin PETIT FORMAT : format écolier, se range facilement dans le cartable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0021U4EEK{{</world>}}

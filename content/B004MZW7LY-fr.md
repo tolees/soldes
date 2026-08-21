@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Frisbee 25,4 CM
-- couleur bleu
-- caoutchouc particuliérement résistant
 - Couleur: bleu/vert
+- caoutchouc particuliérement résistant
+- couleur bleu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004MZW7LY{{</world>}}

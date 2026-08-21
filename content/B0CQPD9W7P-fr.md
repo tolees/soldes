@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lorsqu’il ne leur reste plus qu’une seule carte, les joueurs doivent toujours penser à crier « UNO »
 - Des symboles graphiques ont été ajoutés à chaque carte afin d’aider à identifier leur(s) couleur(s). Cela permettra aux joueurs atteints d’une quelconque forme de daltonisme de jouer facilement
 - Excellente idée de cadeau pour les fans du jeu UNO et les collectionneurs à partir de 7 ans
-- Lorsqu’il ne leur reste plus qu’une seule carte, les joueurs doivent toujours penser à crier « UNO »
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CQPD9W7P{{</world>}}

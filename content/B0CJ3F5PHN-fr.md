@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de Talon : Plat
 - Matériau unique : 100% EVA
 - Matériau extérieur : Tissu
 - Type de fermeture : Lacet
+- Type de Talon : Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ3F5PHN{{</world>}}

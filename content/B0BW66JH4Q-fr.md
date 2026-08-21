@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie WiFi 6 à quatre flux haute efficacité
-- Point daccès double bande avec (4) ports GbE RJ45
 - 【Double bande 2,4/5 GHz】U6-IW prend en charge les bandes de fréquences 2,4 Ghz et 5 Ghz.
+- Point daccès double bande avec (4) ports GbE RJ45
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BW66JH4Q{{</world>}}

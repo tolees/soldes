@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Retrouvez laction intense et survoltée qui a fait de NINJA GAIDEN une série de jeux daction incontournable. Découvrez la renaissance dun jeu mythique au style captivant qui ravira la nouvelle génération de joueurs
-- Comprend le jeu de base (disque) et des bonus exclusifs comme des apparences darme et de personnage pour Yakumo et Ryu, du contenu à venir*, 50 000 Ninja Coin bonus, et des objets bonus en jeu
-- Précommandez dès maintenant ! Téléchargement de contenu requis
-- Une pluie de miasmes incessante sabat sur une Tokyo dun futur proche à la suite de la résurrection dun vieil ennemi. Le sort de la ville est entre les mains du jeune Yakumo
 - NINJA GAIDEN 4, cest la fusion des combats rythmés de Team NINJA et du gameplay énergique et sophistiqué de PlatinumGames. Prenez part à des combats visuellement époustouflants qui récompensent la précision et la stratégie
+- Précommandez dès maintenant ! Téléchargement de contenu requis
+- Comprend le jeu de base (disque) et des bonus exclusifs comme des apparences darme et de personnage pour Yakumo et Ryu, du contenu à venir*, 50 000 Ninja Coin bonus, et des objets bonus en jeu
+- Une pluie de miasmes incessante sabat sur une Tokyo dun futur proche à la suite de la résurrection dun vieil ennemi. Le sort de la ville est entre les mains du jeune Yakumo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FCYV6GY7{{</world>}}

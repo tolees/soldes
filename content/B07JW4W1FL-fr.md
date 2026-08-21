@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 cache-cou unisexe Columbia, Trail Shaker, couleur : City Grey (gris), taille : O/S, numéro darticle 1862541
 - Cordon de serrage en haut à larrière pour un ajustement pratique et un ajustement optimal
+- Contenu : 1 cache-cou unisexe Columbia, Trail Shaker, couleur : City Grey (gris), taille : O/S, numéro darticle 1862541
 - Gamme remarquable de couleurs contrastantes, chacune pouvant être combinée de manière polyvalente
 - Doublure thermo-réfléchissante omni-Heat pour plus de chaleur
 - Cache-cou polyvalent, couche de base idéale pour les pistes de ski, coupe-vent utile pour les aventures en ville et à la campagne

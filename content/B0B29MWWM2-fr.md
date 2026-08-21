@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les Levis Western Shirts ont fait le bonheur de plusieurs générations et continuent de chambouler le code vestimentaire actuel
-- Confectionné avec soin en coton biologique et Lyocell TENCEL, une fibre douce issue de bois récoltés de façon durable
 - Un style américain intemporel par excellence
+- Confectionné avec soin en coton biologique et Lyocell TENCEL, une fibre douce issue de bois récoltés de façon durable
 - Ceci est un authentique produit Levi’s
 - Reprend toutes les caractéristiques qui distinguent la chemise Western du reste
 - Reprend toutes les caractéristiques qui distinguent la chemise Western du reste

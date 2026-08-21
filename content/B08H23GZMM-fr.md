@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nettoyeur haute pression à eau froide avec l’exclusif Dualtech System comportant la présence de 2 unités pompe-moteur. Possibilité d’activer un seule unité pompe-moteur ou les deux pour augmenter de plus de 50 % la performance par rapport à un traditionnel nettoyeur Home & Garden
-- Le nettoyeur est livré avec le révolutionnaire adaptateur TWIN NOZZLE à appliquer à la lance : deux buses peuvent y être installées pour doubler la surface lavée et pour nettoyer la même superficie en mettant jusqu’à 70 % de temps en moins
 - En mode Fast Cleaning (2 POWER UNITS), le débit de l’eau grimpe à 850 l/h (plus du double d’un habituel nettoyeur pour la maison) pour éliminer, sans efforts et plus vite, la saleté la plus tenace sur les grandes surfaces ou pour nettoyer les murs verticaux jusqu’à 5 m de haut
-- Le mode Eco Soft Cleaning (1 POWER UNIT) est recommandé pour réaliser des lavages légers sur les petites surfaces et éviter ainsi d’inutiles gaspillages d’énergie
 - Pression (bar) max. 150 ; Puissance absorbée (kW) 2,5 ; Débit (l/h) max. 810 ; Température eau d’alimentation (°C) max. 50
+- Le mode Eco Soft Cleaning (1 POWER UNIT) est recommandé pour réaliser des lavages légers sur les petites surfaces et éviter ainsi d’inutiles gaspillages d’énergie
+- Le nettoyeur est livré avec le révolutionnaire adaptateur TWIN NOZZLE à appliquer à la lance : deux buses peuvent y être installées pour doubler la surface lavée et pour nettoyer la même superficie en mettant jusqu’à 70 % de temps en moins
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08H23GZMM{{</world>}}

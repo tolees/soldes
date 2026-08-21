@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire amortissante pour un confort supérieur lors des longues courses.
 - Semelle extérieure en caoutchouc à haute adhérence pour une tenue optimale sur les surfaces glissantes.
+- Semelle intermédiaire amortissante pour un confort supérieur lors des longues courses.
 - Tige respirante favorisant la ventilation et gardant les pieds au frais.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

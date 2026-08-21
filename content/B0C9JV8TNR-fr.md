@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier
 - - Verre: Acrylique
-- - Couleur de la Boîte: Or
 - - Matérial de la Boîtier: Acier inoxydable
 - - Forme de la Boîtier: Rectangulaire
+- Boîtier
+- - Couleur de la Boîte: Or
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C9JV8TNR{{</world>}}

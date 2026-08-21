@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Diamètre extérieur [mm]: 107
-- Diamètre intérieur [mm]: 10
 - Hauteur [mm]: 132
+- Diamètre intérieur [mm]: 10
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DZG1TX8{{</world>}}

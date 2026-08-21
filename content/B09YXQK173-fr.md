@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DESIGN INTELLIGENT - Panneau verre trempé 4mm légèrement décalé pour la circulation de lair, supporte les refroidisseurs CPU de max 175mm; Baie PSU (max 220mm) avec entrées dair haut/côté/bas, cage HDD 3.5" coulissante; 4 filtres anti-poussière inclus
 - PANNEAU E/S INSTA-LIGHT - Panneau E/S à lavant du panneau supérieur avec boutons dalimentation et reset, prises micro/audio, un USB 3.2 Gen 2x2 Type-C (20Gb/s), 2 x USB 3.2 Gen 1 Type-A (5Gb/s); Switch LED passant par le hub ARGB pour un contrôle manuel
-- SUPPORT DE CARTE GRAPHIQUE ARGB - Stand ARGB réglable dans 4 directions pour supporter les GPU jusquà max. 360mm; Bracket PCIe arrière à 7 slots échangeable avec bracket PCIe vertical à 4 slots (câble riser et ventilateurs NON inclus)
 - AIRFLOW INCROYABLE - Façade perforée (1mm) et panneau supérieur perforé supportant chacun jusquà 3 x ventilateurs 120mm ou 1 x radiateur 360mm; Arrière: 1 vent./rad. 120mm, brackets pour jusquà 3 ventilateurs; 4 x ventilateurs PWM ARGB 120mm, hub 6-fan
 - BOÎTIER MOYEN TOUR AVEC MYSTIC LIGHT - Boîtier PC mid-tower conçu pour accueillir les cartes mères E-ATX, ATX, Micro-ATX et Mini-ITX; Le châssis polyvalent de 505 x 235 x 510 mm comprend un rétroéclairage ARGB Mystic Light et un contrôleur préinstallés
+- DESIGN INTELLIGENT - Panneau verre trempé 4mm légèrement décalé pour la circulation de lair, supporte les refroidisseurs CPU de max 175mm; Baie PSU (max 220mm) avec entrées dair haut/côté/bas, cage HDD 3.5" coulissante; 4 filtres anti-poussière inclus
+- SUPPORT DE CARTE GRAPHIQUE ARGB - Stand ARGB réglable dans 4 directions pour supporter les GPU jusquà max. 360mm; Bracket PCIe arrière à 7 slots échangeable avec bracket PCIe vertical à 4 slots (câble riser et ventilateurs NON inclus)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09YXQK173{{</world>}}

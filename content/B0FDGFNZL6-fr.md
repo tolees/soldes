@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignets arrondis à un bouton
 - Bande emblématique à lintérieur du col
-- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Col boutonné
-- Standard
 - Branding Tommy Hilfiger
+- Poignets arrondis à un bouton
+- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Popeline de pur coton
+- Standard
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDGFNZL6{{</world>}}

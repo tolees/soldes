@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle de tonalité pour modeler le ton
-- Mini-ampli de 1 W
 - Ampli dentraînement idéal pour guitare électrique/lead
+- Mini-ampli de 1 W
+- Contrôle de tonalité pour modeler le ton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000RW1UYG{{</world>}}

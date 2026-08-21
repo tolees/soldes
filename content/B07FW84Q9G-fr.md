@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tissu imperméable, respirant, ripstop, 2 couches, coutures thermosoudées et doublure en mesh évacuant rapidement lhumidité pour le confort
 - Finition hydrofuge durable et non toxique sans PFC
 - Poches poitrine et arrière zippées
-- Tissu imperméable, respirant, ripstop, 2 couches, coutures thermosoudées et doublure en mesh évacuant rapidement lhumidité pour le confort
 - Rabat tempête interne sous zip intégral avant
 - Ventilation zippée sous les bras
 

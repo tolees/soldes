@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Boîtier rond en acier inoxydable, avec un cadran en arGent
-- Boîtier de 26 mm, largeur de bracelet 14 mm, cristal minéral, mouvement de quartz avec affichage analogique à deux mains, importé
 - Résistant à leau jusquà 30 m: résistera aux éclaboussures dans leau
+- Boîtier de 26 mm, largeur de bracelet 14 mm, cristal minéral, mouvement de quartz avec affichage analogique à deux mains, importé
 - Bracelet en maille milanaise en acier inoxydable en argent
 
 [🛒 Achète-le!!]({{< param buyurl >}})

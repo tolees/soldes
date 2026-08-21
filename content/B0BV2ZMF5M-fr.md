@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comme membre officiel de la VESA, nous avons produit et testé ce câble selon leurs spécifications – la broche 20 n’est pas raccordée pour prévenir les risques de court-circuit. Et grâce au mécanisme de verrouillage, les connecteurs ne bougent pas
 - Ce câble DisplayPort bidirectionnel pour moniteur (mâle/mâle) fonctionne avec les PC et portables, les moniteurs et les projecteurs. Avec la prise en charge de G-Sync/FreeSync, le moniteur et la carte graphique sont toujours sur la même fréquence
-- Avec une bande passante de 32,4 Gbit/s (HBR3), ce câble DP prend en charge des résolutions UHD allant jusqu’à 8K (7680×4320), des fréquences de 144 Hz, 165 Hz voire 240 Hz à 1440p, des signaux HDR10 pour la vidéo et surround 7.1 pour l’audio
-- Ce câble DisplayPort 1.4 certifié VESA est conçu avec un blindage AIS (Anti-interférences), les connecteurs disposant dun blindage métallique multicouches et les conducteurs en cuivre dun gainage supplémentaire, pour une protection maximale
 - Aucun risque avec la garantie constructeur de 36 mois
+- Avec une bande passante de 32,4 Gbit/s (HBR3), ce câble DP prend en charge des résolutions UHD allant jusqu’à 8K (7680×4320), des fréquences de 144 Hz, 165 Hz voire 240 Hz à 1440p, des signaux HDR10 pour la vidéo et surround 7.1 pour l’audio
+- Comme membre officiel de la VESA, nous avons produit et testé ce câble selon leurs spécifications – la broche 20 n’est pas raccordée pour prévenir les risques de court-circuit. Et grâce au mécanisme de verrouillage, les connecteurs ne bougent pas
+- Ce câble DisplayPort 1.4 certifié VESA est conçu avec un blindage AIS (Anti-interférences), les connecteurs disposant dun blindage métallique multicouches et les conducteurs en cuivre dun gainage supplémentaire, pour une protection maximale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BV2ZMF5M{{</world>}}

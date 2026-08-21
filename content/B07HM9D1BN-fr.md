@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emballage fabriqué avec plus de 90% de papier recyclé. Emballage recyclable, vérifiez vos installations de recyclage locales
 - Lames à Double Tranchant pour un rasage de près unique et confortable
 - Manche en métal premium
+- Emballage fabriqué avec plus de 90% de papier recyclé. Emballage recyclable, vérifiez vos installations de recyclage locales
 - Qualité Barbier pour un rasage traditionnel
 
 [🛒 Achète-le!!]({{< param buyurl >}})

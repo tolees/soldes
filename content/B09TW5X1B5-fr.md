@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette chaussure multi-usages robuste répond à tous vos besoins, de la marche au travail. Ultra-légère grâce à sa semelle bi-matière, elle est équipée dune membrane MTD étanche et respirante et de croute de cuir responsable. Existe aussi en version haute.
 - Pare-pierres avant résistant et durable - Semelle confortable - Membrane étanche et respirable - Technologie MTD.
 - Tige : 65% Croûte de cuir de vache et 35% Polyester. Doublure : 100% Polyamide. Membrane : 100% Polyester. Semelle extérieure : Caoutchouc.
+- Cette chaussure multi-usages robuste répond à tous vos besoins, de la marche au travail. Ultra-légère grâce à sa semelle bi-matière, elle est équipée dune membrane MTD étanche et respirante et de croute de cuir responsable. Existe aussi en version haute.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09TW5X1B5{{</world>}}

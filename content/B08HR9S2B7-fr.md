@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Construite pour durer : le design en nid d’abeille de la Model O Wireless permet d’obtenir la souris poids plume sans fil ultime, sans compromettre sa durabilité. Avec ses switches Omron de pointe assurant 20M de clics et sa très haute qualité de conception, la Model O Wireless est construite pour durer.
 - Rapide comme l’éclair : avec sa connectivité sans fil 2,4 GHz, la latence sans fil de la Model O Wireless est la plus basse de sa catégorie. Avec sa latence d’1 ms et sa connexion stable et puissante, ses performances sont incroyablement constantes.
-- Durée de vie de la batterie : la durée de vie de la batterie de la Model O Wireless est la plus élevée de sa catégorie : jusqu’à 71 heures* de jeu en mode sans fil. Vous pouvez aussi jouer pendant la charge, au moyen du câble en paracorde USB-C Ascended ultra flexible. *Avec RGB désactivé
 - RGB personnalisable : faites votre choix parmi 16,8M de couleurs, réglables rapidement sans logiciel, au moyen des boutons de la souris. Glorious CORE permet une personnalisation plus poussée, pour qu’elle soit assortie au reste de votre équipement.
 - Optimisée pour la compétition : précision extrême avec vitesse de tracking de 400 IPS, 19 000 DPI max et taux de polling jusqu’à 1000 Hz. Le capteur BAMF de conception propriétaire apporte une performance inégalée, avec une consommation réduite, pour de longues séances de jeu sans fil.
-- Construite pour durer : le design en nid d’abeille de la Model O Wireless permet d’obtenir la souris poids plume sans fil ultime, sans compromettre sa durabilité. Avec ses switches Omron de pointe assurant 20M de clics et sa très haute qualité de conception, la Model O Wireless est construite pour durer.
+- Durée de vie de la batterie : la durée de vie de la batterie de la Model O Wireless est la plus élevée de sa catégorie : jusqu’à 71 heures* de jeu en mode sans fil. Vous pouvez aussi jouer pendant la charge, au moyen du câble en paracorde USB-C Ascended ultra flexible. *Avec RGB désactivé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HR9S2B7{{</world>}}

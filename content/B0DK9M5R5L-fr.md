@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Total : environ 1576 pièces
+- Comprend des autocollants pour différentes caractéristiques du stade
 - Avertissement : risque détouffement - petites pièces
+- Recommandé pour les enfants à partir de 12 ans
 - Jouet de construction à assembler pour former une réplique miniature dun stade
 - Entièrement assemblé : environ 18 cm x 13 cm x 7 cm
-- Comprend des autocollants pour différentes caractéristiques du stade
-- Recommandé pour les enfants à partir de 12 ans
+- Total : environ 1576 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK9M5R5L{{</world>}}

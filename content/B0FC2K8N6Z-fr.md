@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lampe vendue séparément
-- Classe de protection : IP44 protège contre la poussière et les projections deau ; idéal pour les espaces extérieurs protégés tels que les terrasses, les balcons, les entrées ou les zones couvertes
 - Montage : support mural facile à monter ; Le boîtier robuste en acier inoxydable est résistant aux intempéries et durable
-- Source lumineuse : Intégrée et non remplaçable ; La technologie LED fournit un éclairage économe en énergie avec une longue durée de vie et un entretien minimal
+- Classe de protection : IP44 protège contre la poussière et les projections deau ; idéal pour les espaces extérieurs protégés tels que les terrasses, les balcons, les entrées ou les zones couvertes
+- Lampe vendue séparément
 - Capteurs : Les capteurs de mouvement et de lumière du jour contrôlent automatiquement l’éclairage ; Trois modes de fonctionnement permettent une utilisation flexible et adaptée aux besoins de la lumière
+- Source lumineuse : Intégrée et non remplaçable ; La technologie LED fournit un éclairage économe en énergie avec une longue durée de vie et un entretien minimal
 - Conception : Lampe dextérieur à énergie solaire avec boîtier robuste en acier inoxydable noir ; idéal pour les entrées, patios, balcons ou autres espaces extérieurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

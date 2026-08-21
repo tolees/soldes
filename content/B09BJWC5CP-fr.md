@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CORDON DALIMENTATION PRATIQUE : Le cordon inclus offre une longueur suffisante pour placer votre multiprise de la façon la plus discrète possible, tout en permettant un branchement fiable de tous types dappareils.
-- LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
-- OPTIMISATION DES BRANCHEMENTS : Ce bloc multiprise Legrand possède des prises orientées à 45° pour brancher les fiches mâles et une prise à 90° pour les transformateurs, pour des branchements multiples sans risque de bloquer les autres prises.
 - DIFFÉRENTES OPTIONS DE FIXATION : Cette prise multiple peut être installée par fixation au mur avec des vis (non fournies), par fixation avec collier (non fourni) ou simplement en la posant sur un meuble.
+- OPTIMISATION DES BRANCHEMENTS : Ce bloc multiprise Legrand possède des prises orientées à 45° pour brancher les fiches mâles et une prise à 90° pour les transformateurs, pour des branchements multiples sans risque de bloquer les autres prises.
+- LEGRAND, 150 ANS DINNOVATION : Simplifier la vie, assurer confort et sécurité, favoriser lefficacité énergétique... tout en préservant lenvironnement et en contribuant à la transformation numérique. Tels sont les piliers de notre engagement.
 - DESIGN ROTATIF ET INNOVANT : Cette rallonge multiprise se distingue par son design cylindrique rotatif qui permet dorienter les prises selon vos besoins. Le socle rétractable des prises empêche laccumulation de poussière hors utilisation.
+- CORDON DALIMENTATION PRATIQUE : Le cordon inclus offre une longueur suffisante pour placer votre multiprise de la façon la plus discrète possible, tout en permettant un branchement fiable de tous types dappareils.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09BJWC5CP{{</world>}}

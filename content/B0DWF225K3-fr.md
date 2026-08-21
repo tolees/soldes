@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- SÉRIE EN LIGNE – Stimulez la créativité des enfants avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, dans laquelle les enfants font connaissance avec les personnages de Heartlake City
+- RACONTONS UNE HISTOIRE D’AMITIÉ – Les jeux de construction LEGO Friends invitent les enfants à explorer une large gamme de sets sur l’amitié et leur offrent lopportunité d’imaginer leurs propres histoires
+- JEU CRÉATIF AVEC PERSONNAGES AMUSANTS – Inclut les mini-poupées d’Aliya et Liann, les micro-poupées de Victoria & dElla, un chat, 3 poneys et de nombreux accessoires stimulant limagination des enfants
+- JEU DE CONSTRUCTION LEGO FRIENDS AVEC CHEVAUX POUR FILLE OU GARÇON DÈS 7 ANS – Ce set LEGO inclut une écurie à construire, une charrette tirée par les poneys & un treuil pour les balles de foin
 - TREUIL FONCTIONNEL – Ce jouet sur le thème de léquitation inclut un treuil pour hisser et descendre les balles de foin que les enfants transportent dans la charrette ou rangent dans le grenier à foin
 - ACCESSOIRES POUR CHEVAUX – Le set inclut une écurie & un espace de vie, ainsi que des accessoires pour prendre soin des animaux dont des rubans, des brosses, un four, des biscuits, des mûres, une carotte ou des lanternes
-- JEU DE CONSTRUCTION LEGO FRIENDS AVEC CHEVAUX POUR FILLE OU GARÇON DÈS 7 ANS – Ce set LEGO inclut une écurie à construire, une charrette tirée par les poneys & un treuil pour les balles de foin
-- SÉRIE EN LIGNE – Stimulez la créativité des enfants avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, dans laquelle les enfants font connaissance avec les personnages de Heartlake City
-- JEU CRÉATIF AVEC PERSONNAGES AMUSANTS – Inclut les mini-poupées d’Aliya et Liann, les micro-poupées de Victoria & dElla, un chat, 3 poneys et de nombreux accessoires stimulant limagination des enfants
-- RACONTONS UNE HISTOIRE D’AMITIÉ – Les jeux de construction LEGO Friends invitent les enfants à explorer une large gamme de sets sur l’amitié et leur offrent lopportunité d’imaginer leurs propres histoires
 - CADEAU CHEVAL POUR UNE FILLE OU UN GARÇON PASSIONNÉ(E) DÉQUITATION – Ce set de jeu sur l’amitié est un superbe cadeau danniversaire pour les passionné(e)s danimaux dès 7 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

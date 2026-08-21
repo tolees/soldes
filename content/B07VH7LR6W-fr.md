@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage de plafond au design industriel élégant pour un usage intérieur comme le salon, la cuisine ou dans la salle à manger au-dessus de la table
-- Dimensions : Hauteur : 110 cm max, Longueur : 100 cm, Largeur : 20 cm
-- Les ampoules à filament ne sont pas incluses à la livraison et sont disponibles séparément sous la référence EGLO 110054 ; Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 W; Dimmable en fonction de lampoule utilisée
 - Lorsque le luminaire intérieur est allumé, labat-jour en fil métallique crée un fascinant jeu dombre et de lumière; Grâce à la technique denroulement simple, les abat-jour peuvent être accrochés à différentes hauteurs
+- Éclairage de plafond au design industriel élégant pour un usage intérieur comme le salon, la cuisine ou dans la salle à manger au-dessus de la table
 - Le mélange de matériaux modernes, à savoir une poutre en bois véritable massif et clair et de lacier noir, donne à cette lampe de plafond un aspect résolument vintage
+- Les ampoules à filament ne sont pas incluses à la livraison et sont disponibles séparément sous la référence EGLO 110054 ; Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 W; Dimmable en fonction de lampoule utilisée
+- Dimensions : Hauteur : 110 cm max, Longueur : 100 cm, Largeur : 20 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07VH7LR6W{{</world>}}

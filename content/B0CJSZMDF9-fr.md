@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - PAS BESOIN DE TAILLE-CRAYON : Ce crayon à lèvres longue tenue et non-desséchant pivote en toute simplicité pour dessiner et définir les lèvres.
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
-- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum.
-- AIDE À FIXER LE ROUGE À LÈVRES : Utilisez le crayon à lèvres Clinique avant votre rouge à lèvres pour lempêcher de filer.
 - CRAYON LÈVRES CRÉMEUX : Sa formule non desséchante dessine et définit les lèvres avec facilité.
+- AIDE À FIXER LE ROUGE À LÈVRES : Utilisez le crayon à lèvres Clinique avant votre rouge à lèvres pour lempêcher de filer.
+- EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJSZMDF9{{</world>}}

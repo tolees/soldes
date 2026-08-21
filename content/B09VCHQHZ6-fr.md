@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- nombre de cœurs du processeur : 8, nombre de threads : 16
 - Type de mémoire système : DDR4 jusquà 3200 MHz
-- 65 Dans la configuration
-- Prise du processeur : AM4
 - Horloge de base : 3,4 GHz, puissance maximale : jusquà 4,6 GHz
+- 65 Dans la configuration
+- nombre de cœurs du processeur : 8, nombre de threads : 16
+- Prise du processeur : AM4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VCHQHZ6{{</world>}}

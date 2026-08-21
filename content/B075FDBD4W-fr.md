@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils d’utilisation : utiliser sur cheveux secs ou humides, en appliquant des mi-longueurs aux pointes. Sécher à l’air libre ou au sèche-cheveux.
 - Style « retour de plage » : Texture tonique est incontournable pour obtenir des ondulations coiffées-décoiffées facilement. Appliquer le spray sur cheveux humides et sécher à l’air libre ou au sèche-cheveux.
+- Conseils d’utilisation : utiliser sur cheveux secs ou humides, en appliquant des mi-longueurs aux pointes. Sécher à l’air libre ou au sèche-cheveux.
 - 94 % d’origine naturelle* : le sucre de canne et le sel d’Epsom du spray pour cheveux donnent un effet décoiffé sans aspect cartonné et le babassu contribue à apporter de la texture.
 - Spray coiffant texturant : Texture tonique crée de la définition et sublime la texture naturelle des cheveux. Pour un aspect décoiffé naturel en quelques pulvérisations seulement de ce soin polyvalent.
 

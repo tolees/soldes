@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FABRIQUÉES EN FRANCE ET APPROUVÉES PAR L’ECARF : Ariel Pods est fabriqué en France et approuvé par l’ECARF (Centre européen de recherche sur les allergies)
 - À TENIR HORS DE PORTÉE DES ENFANTS: Toujours garder la lessive Ariel PODS hors de portée des enfants
-- DISSOLUTION RAPIDE MÊME À FROID : Les capsules Ariel PODS se dissolvent rapidement, même à froid
 - COMMENT UTILISER VOS ARIEL PODS : Placez d’abord la capsule au fond de la machine, puis les vêtements au-dessus pour éliminer les tâches tenaces, même à froid
+- DISSOLUTION RAPIDE MÊME À FROID : Les capsules Ariel PODS se dissolvent rapidement, même à froid
+- FABRIQUÉES EN FRANCE ET APPROUVÉES PAR L’ECARF : Ariel Pods est fabriqué en France et approuvé par l’ECARF (Centre européen de recherche sur les allergies)
 - ACTION DÉTACHANTE IMPECCABLE EN 1 LAVAGE : La lessive en capsules Ariel PODS 3en1 offre une élimination impeccable des tâches en un seul lavage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

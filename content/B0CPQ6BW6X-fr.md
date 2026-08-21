@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussures faciles à enfiler
 - Boucle sur la sangle pour ajuster lajustement
+- Chaussures faciles à enfiler
 - Respirant
 - Effet damortissement exceptionnel
 

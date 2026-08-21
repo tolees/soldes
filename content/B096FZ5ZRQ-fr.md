@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- L’expérience Pokémon la plus réaliste jamais créée vous attend début 2022
 - Vous êtes plongé dans le monde ouvert de la région de Sinnoh à l’état sauvage
 - Vous avez tout à découvrir car vous devrez constituer le tout premier Pokédex de l’histoire
+- L’expérience Pokémon la plus réaliste jamais créée vous attend début 2022
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B096FZ5ZRQ{{</world>}}

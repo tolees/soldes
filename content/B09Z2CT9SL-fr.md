@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les dispositifs d’aspiration Bosch GDE 125 EA-T Professional et GDE 115 / 125 FC-T Professional
-- Livré avec : GWS 17-125 S, poignée auxiliaire antivibrations, capot de protection, capot protection en métal pour tronçonner, filtre à poussière, clé à ergots, flasque de serrage, écrou de serrage
-- Puissance élevée, grande capacité de surcharge et protection améliorée contre les poussières grâce aux ouïes d’aération placées au dos de l’outil
 - Puissant moteur de 1 700 W et poignée nettement plus fine
+- Livré avec : GWS 17-125 S, poignée auxiliaire antivibrations, capot de protection, capot protection en métal pour tronçonner, filtre à poussière, clé à ergots, flasque de serrage, écrou de serrage
+- Compatible avec les dispositifs d’aspiration Bosch GDE 125 EA-T Professional et GDE 115 / 125 FC-T Professional
+- Puissance élevée, grande capacité de surcharge et protection améliorée contre les poussières grâce aux ouïes d’aération placées au dos de l’outil
 - KickBack Control, protection anti-redémarrage et poignée latérale Vibration Control pour une sécurité renforcée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

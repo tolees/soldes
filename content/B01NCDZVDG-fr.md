@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Distance entre les vélos est de 22/19 cm
-- Capacité de charge est de 60 Kg
-- Convient aux cadres de dimensions 22-80 mm
 - Si le véhicule est équipé d’une prise électrique à 7 broches, ladaptateur Thule référence 9906 la convertit et permet d’adapter les produits Thule à 13 broches.
+- Convient aux cadres de dimensions 22-80 mm
+- Capacité de charge est de 60 Kg
 - Entièrement pliable pour un montage, une utilisation et un rangement faciles
 
 [🛒 Achète-le!!]({{< param buyurl >}})

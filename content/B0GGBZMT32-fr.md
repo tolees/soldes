@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spécialement conçue pour le Google Pixel 10a, elle se décline dans les mêmes couleurs.
 - Fabriquée de manière responsable, elle contient au moins 36 % de plastique recyclé.
+- Spécialement conçue pour le Google Pixel 10a, elle se décline dans les mêmes couleurs.
 - Conçue pour protéger votre smartphone, elle a été testée contre les chutes pendants plusieurs centaines dheures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

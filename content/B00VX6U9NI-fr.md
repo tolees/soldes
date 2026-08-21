@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Choisissez votre couleur parmi les teintes disponibles, pour un teint parfait tout au long de la journée !
-- Application : appliquez ce fond-de-teint à l’aide de vos doigts ou du pinceau à fond-de-teint de votre choix. Déposez des points sur les joues, le menton, le front et le nez et estompez la matière en commençant par le centre du visage. Lissez la matière en réalisant des mouvements circulaires jusqu’à obtenir le fini souhaité. N’hésitez pas à réappliquer du produit sur les zones où vous souhaitez plus de couvrance.
-- Fond de teint 24H tenue + soin pour les peaux mixtes à grasses, à la formule nourrissante et protectrice, régulant l’excès de sébum.
 - Sa formule légère, sans huile et sans parfum, est maintenant davantage enrichie en vitamine E, vous offrant ainsi une nutrition intense et une protection de la peau contre la pollution. Résultat : un fini mat grâce aux poudres minérales d’origine naturelle présentes dans la formule, (qui permettent de réguler l’excès du sébum), une longue tenue qui résiste à toutes les épreuves (humidité, chaleur, transpiration).
 - Veuillez noter que vous pouvez recevoir l’un ou l’autre des packagings apparaissant sur la deuxième image de cette page produit.
+- Fond de teint 24H tenue + soin pour les peaux mixtes à grasses, à la formule nourrissante et protectrice, régulant l’excès de sébum.
+- Choisissez votre couleur parmi les teintes disponibles, pour un teint parfait tout au long de la journée !
+- Application : appliquez ce fond-de-teint à l’aide de vos doigts ou du pinceau à fond-de-teint de votre choix. Déposez des points sur les joues, le menton, le front et le nez et estompez la matière en commençant par le centre du visage. Lissez la matière en réalisant des mouvements circulaires jusqu’à obtenir le fini souhaité. N’hésitez pas à réappliquer du produit sur les zones où vous souhaitez plus de couvrance.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00VX6U9NI{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 2: Lame rabot Hss
-- produit 1: Pratique : Un stockage à bord de fers de rechange est disponible pour un changement de lame rapide
 - produit 1: Plus produit : Sa semelle large vous offre une meilleure stabilité
-- produit 1: Performant : Découvrez un moteur sans charbon qui vous offre des performances de rabotage idéales pour les applications prolongées
-- produit 2: Nombre darticle : une
-- produit 2: Dimensions (L x l x h) : 17 x 7,2 x 0,2 cm
 - produit 1: Ergonomie : Léger, compact et ergonomique pour une utilisation confortable dans toutes les orientations
+- produit 1: Performant : Découvrez un moteur sans charbon qui vous offre des performances de rabotage idéales pour les applications prolongées
+- produit 2: Dimensions (L x l x h) : 17 x 7,2 x 0,2 cm
+- produit 2: Lame rabot Hss
+- produit 2: Nombre darticle : une
+- produit 1: Pratique : Un stockage à bord de fers de rechange est disponible pour un changement de lame rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D413YC7L{{</world>}}

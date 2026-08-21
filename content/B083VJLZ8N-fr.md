@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglage central de la hauteur de coupe (25 mm 75 mm) Facile à ajuster avec levier
-- Moteur "brushless" avec batterie Samsung lithium ion 40V et 2.5Ah pour une tonte rapide
 - Puissante, fiable et facile à manœuvrer
 - Largeur de coupe 37 cm, adaptée aux pelouses faisant jusquà 400m²
+- Réglage central de la hauteur de coupe (25 mm 75 mm) Facile à ajuster avec levier
+- Moteur "brushless" avec batterie Samsung lithium ion 40V et 2.5Ah pour une tonte rapide
 - Large bac de ramassage (40 litres) de type hybride, avec indicateur de niveau de remplissage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

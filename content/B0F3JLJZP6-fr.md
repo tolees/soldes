@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Extérieur: Extérieur: 100% Polyester(100% Recyclé) / Interieur: 100% Polyuréthane Thermoplastique / Doublure: 100% Polyester(100% Recyclé) / Poches: 100% Polyester(100% Recyclé)
 - Coupe standard
+- Extérieur: Extérieur: 100% Polyester(100% Recyclé) / Interieur: 100% Polyuréthane Thermoplastique / Doublure: 100% Polyester(100% Recyclé) / Poches: 100% Polyester(100% Recyclé)
 - Zip sur toute la longueur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

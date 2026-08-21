@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 en 1 : la nacelle devient un siège
+- Roues tout-terrain
 - suspension des roues avant
 - Eos Lux TPE B/Stormy Blue-light blue PU1
-- 2 en 1 : la nacelle devient un siège
 - unité de siège réversible
-- Roues tout-terrain
 - Pare-soleil XXL avec insert en maille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

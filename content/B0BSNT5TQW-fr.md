@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DOUBLE STABILISATION : jusquà 6.5 stops en capteur+optique avec la nouvelle technologie innovante Active I.S. pour les images les plus stables dans toutes les conditions, même sans stabilisateur externe.
+- AUTOFOCUS HYBRIDE PHASE & CONTRASTE : 779 points de focus pour une mise au point ultra rapide et précise, même dans les conditions les plus difficiles, en photo comme en vidéo, sur les yeux, visages et animaux, de près comme de loin.
+- VIDÉO PROFESSIONNELLE : enregistrement vidéo 6K 10bit 30p & 4:2:2 10bit en C4K 60p INTERNE et ILLIMITÉ dans tous les formats sans aucune chauffe. Profil V-Log 14+ stops & Mode Anamorphique stabilisé, Slow Motion 180ips. ProRes RAW via HDMI optionnel.
 - BOÎTIER RAPIDE & INTUITIF : une rafale à 30 i/s sur 200 im. en AFC & AFS pour les scènes les plus impressionnantes, dans un boîtier compact, résistant et tropicalisé, avec viseur OLED 3680K pts, écran tactile orientable, et une autonomie de 1500 im.
 - UNE QUALITÉ DIMAGE INCROYABLE : un capteur plein format de 24,2 MP avec Double ISO natif, pour des images époustouflantes même en basse lumière, ainsi quun mode Haute Résolution 96 MP en RAW & JPEG pour des images ultra riches.
-- VIDÉO PROFESSIONNELLE : enregistrement vidéo 6K 10bit 30p & 4:2:2 10bit en C4K 60p INTERNE et ILLIMITÉ dans tous les formats sans aucune chauffe. Profil V-Log 14+ stops & Mode Anamorphique stabilisé, Slow Motion 180ips. ProRes RAW via HDMI optionnel.
-- AUTOFOCUS HYBRIDE PHASE & CONTRASTE : 779 points de focus pour une mise au point ultra rapide et précise, même dans les conditions les plus difficiles, en photo comme en vidéo, sur les yeux, visages et animaux, de près comme de loin.
+- DOUBLE STABILISATION : jusquà 6.5 stops en capteur+optique avec la nouvelle technologie innovante Active I.S. pour les images les plus stables dans toutes les conditions, même sans stabilisateur externe.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSNT5TQW{{</world>}}

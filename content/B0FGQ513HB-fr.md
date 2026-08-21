@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Véhicule de collection officiel Retour vers le Futur conçu par Numskull avec des détails fidèles au film
-- Comprend des portes papillon ouvrantes, des roues mobiles et des circuits temporels détaillés inspirés de la DeLorean iconique
-- Fabriqué en PVC et ABS de qualité supérieure pour une durabilité en intérieur comme en extérieur
-- Intérieur conçu pour accueillir jusquà deux figurines Mini TUBBZ pour jouer ou exposer (Mini TUBBZ non inclus)
 - Un ajout parfait à toute collection Retour vers le Futur ou TUBBZ, idéal pour les fans, collectionneurs et cadeaux
+- Comprend des portes papillon ouvrantes, des roues mobiles et des circuits temporels détaillés inspirés de la DeLorean iconique
+- Intérieur conçu pour accueillir jusquà deux figurines Mini TUBBZ pour jouer ou exposer (Mini TUBBZ non inclus)
+- Fabriqué en PVC et ABS de qualité supérieure pour une durabilité en intérieur comme en extérieur
+- Véhicule de collection officiel Retour vers le Futur conçu par Numskull avec des détails fidèles au film
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FGQ513HB{{</world>}}

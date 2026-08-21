@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection maximale tout en garantissant une vision claire et précise. Le design profilé de la monture assure une couverture complète des yeux.
 - Lunettes de soleil pour les sports de vitesse
+- Protection maximale tout en garantissant une vision claire et précise. Le design profilé de la monture assure une couverture complète des yeux.
 - Cette forme de nez spécifique élimine toute irritation ou pression, assurant un port agréable et un confort optimal tout au long de vos aventures en plein air.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

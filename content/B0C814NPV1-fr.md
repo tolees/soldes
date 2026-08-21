@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- produit 2: Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
+- produit 1: Hauteur : 40 cm, Largeur : 30 cm, Profondeur : 18 cm
+- produit 1: Fabrication 100% nylon ultra-résistant
 - produit 1: Large compartiment principal avec notre poche frontale signature
 - produit 2: Fabrication 100% nylon ultra-résistant
-- produit 1: Fabrication 100% nylon ultra-résistant
-- produit 2: Hauteur : 6 cm, Largeur : 20,5 cm, Profondeur : 7,5 cm
-- produit 2: Un large compartiment principal qui peut contenir des stylos
-- produit 1: Hauteur : 40 cm, Largeur : 30 cm, Profondeur : 18 cm
 - produit 1: Bretelles et dos rembourrés pour un port confortable où que vous alliez
+- produit 2: Un large compartiment principal qui peut contenir des stylos
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C814NPV1{{</world>}}

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La brosse 3D capture, recouvre et allonge chaque cil
-- Couleur noire extrême, zéro bavure
 - Hydro-gels pour un film ultra-doux sur les cils
-- Définit, allonge et recourbe les cils avec zéro paquet
 - Formule enrichie en vitamine E avec agents filmogènes, cires et pigments
+- Couleur noire extrême, zéro bavure
+- Définit, allonge et recourbe les cils avec zéro paquet
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00MGK9Q0C{{</world>}}

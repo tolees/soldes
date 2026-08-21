@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie PureGEL
 - Membrane GORE-TEX invisible
 - Conception qui assure un contact total avec le sol
+- Technologie PureGEL
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D79H65TN{{</world>}}

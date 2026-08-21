@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONSEILS DUTILISATION : Pulvérisez le spray eau micellaire Activilong sur cheveux secs sur les racines et le cuir chevelu. Frictionnez puis essuyez le surplus avec une serviette.
 - ACTIVILONG, UNE MARQUE FRANÇAISE : Depuis 1983, ACTIVILONG a su simposer pour devenir aujourdhui la marque de référence des cheveux texturés en proposant des produits français de haute qualité et accessibles à toutes.
+- UN NETTOYANT SANS RINÇAGE : Ce spray cheveux Activilong sans rinçage nettoie, désodorise et hydrate vos cheveux, tout en apaisant les cuirs chevelus sensibles. Peut sutiliser entre deux shampooings pour les espacer.
 - INGRÉDIENTS NATURELS : Ce soin cheveux Activilong est composé à 98 % dingrédients dorigine naturelle et associe les bienfaits du romarin, du bois dInde et du tea tree afin dhydrater et dapaiser le cuir chevelu.
 - HYDRATE ET REVITALISE LA CHEVELURE : Ce Spray Micellaire Rafraîchissant, à la texture liquide, va venir hydrater le cheveu en profondeur pour des cheveux revitalisés, doux et brillants au quotidien.
-- UN NETTOYANT SANS RINÇAGE : Ce spray cheveux Activilong sans rinçage nettoie, désodorise et hydrate vos cheveux, tout en apaisant les cuirs chevelus sensibles. Peut sutiliser entre deux shampooings pour les espacer.
+- CONSEILS DUTILISATION : Pulvérisez le spray eau micellaire Activilong sur cheveux secs sur les racines et le cuir chevelu. Frictionnez puis essuyez le surplus avec une serviette.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B57GTS73{{</world>}}

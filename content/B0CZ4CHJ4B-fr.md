@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 💚 100% BIO : Aliment complet sans céréales et naturel pour chats avec une teneur en viande extra élevée - monoprotéine
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 - 👩‍🌾 REGIONAL : composé dingrédients issus dune agriculture écologique et régionale
 - 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 - 🐾 BIEN-ÊTRE DES ANIMAUX : le bien-être des animaux est toujours une priorité lors de la production
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en maille et en synthétique
 - Semelle en caoutchouc pour ladhérence
+- Tige en maille et en synthétique
 - Logo PUMA sur la languette et au talon
 - Fermeture à lacets pour un maintien optimal
 

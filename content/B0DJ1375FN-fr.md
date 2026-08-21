@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 95 % coton, 5 % élasthanne.
-- Emmanchures tombantes.
+- Bords-côtes aux poignets et à la base.
 - Coupe standard.
 - Poches kangourou.
-- 55 % coton, 36 % polyester (recyclé), 9 % viscose.
-- Bords-côtes aux poignets et à la base.
 - Zip sur toute la longueur avec capuche réglable par cordon de serrage.
+- 95 % coton, 5 % élasthanne.
+- 55 % coton, 36 % polyester (recyclé), 9 % viscose.
 - Contient au moins 70 % de matériaux recyclés et renouvelables.
+- Emmanchures tombantes.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DJ1375FN{{</world>}}

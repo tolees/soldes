@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets
 - Matériau intérieur : synthétique
 - Semelle : caoutchouc
 - Matériau extérieur : toile
+- Lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08GPV6K5Q{{</world>}}

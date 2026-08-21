@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- MADE IN FRANCE : Pour vous offrir la meilleure qualité à un prix accessible et préserver l’emploi, nous sommes fiers de vous offrir des produits 100% fabriqués dans le Nord de la France
 - DESIGN : Ce meuble télé blanc et chêne Hamilton arbore un style scandinave qui viendra réchauffer votre salon et y apporter de la lumière. Le design tendance du meuble tv est souligné par ses discrètes poignées grises en aluminium
 - ROBUSTESSE : Robuste, la structure de votre meuble tv de 135 cm de longueur en fait de panneaux de particules épais de 15 et de 25 mm. De plus, votre meuble tv en bois offre de belles dimensions avec ses 39,6 cm de profondeur et peut supporter une charge maximale de 40 kg
-- MADE IN FRANCE : Pour vous offrir la meilleure qualité à un prix accessible et préserver l’emploi, nous sommes fiers de vous offrir des produits 100% fabriqués dans le Nord de la France
 - GARANTIE 2 ANS ET CERTIFICATION PFEC : Demeyere est une entreprise engagée certifiée PEFC (Programme pour la Reconnaissance des Certifications Forestières) depuis 2005. Achetez votre meuble télé en toute confiance avec notre garantie de 2 ans
 - ESPACE TV & RANGEMENT : Optez pour un meuble tv bois blanc vous permettant d’optimiser l’espace de rangement de votre salon. Ce meuble télé possède 2 niches très larges ainsi que 2 placards à portes battantes. Il est idéal pour un écran de 55 pouces ou 140 cm
 

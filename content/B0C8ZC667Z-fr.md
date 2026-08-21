@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de fermeture:Bouton
-- Type dajustement:Régulière
 - Composition de matériau:Polyester recyclé (66%), viscose (32%), élasthanne (2%)
+- Type dajustement:Régulière
 - Instructions dentretien:Lavage en machine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

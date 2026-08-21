@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Indicateur de batterie】Voyant dalimentation tricolore au centre du bouton, indiquant la puissance restante ; charge MCC3 à la queue, très grande capacité, très longue durée de vie de la batterie : batterie personnalisée 5000 mAh 3,6 V 21700, clair de lune. La durée de vie de la batterie est de 72 jours.
 - 【Performances puissantes】Petite taille et longue portée : la lampe de poche EDC avec la plus longue portée parmi les produits de même taille, avec une luminosité allant jusquà 1350 lumens, une portée de 730 mètres et une intensité lumineuse maximale de 134,000 CD.
-- 【Fonctionnement à double interrupteur】La version agrandie du bouton arrière a des pressions claires et lourdes, et lutilisateur peut personnaliser le mode régulier/tactique du bouton arrière (lumière tactique, stroboscopique, lumière constante); bouton latéral en métal, cinq niveaux de la luminosité est facultative et il existe un mode stroboscopique.
 - 【Diverses fonctions】Composant de queue Odin GL partagé, compatible avec la queue magnétique et la queue de rat; il est également livré en standard avec un étui en nylon et un clip de poche bidirectionnel en acier inoxydable, facile à transporter et peut être chargé lorsquil est installé dans létui.
+- 【Fonctionnement à double interrupteur】La version agrandie du bouton arrière a des pressions claires et lourdes, et lutilisateur peut personnaliser le mode régulier/tactique du bouton arrière (lumière tactique, stroboscopique, lumière constante); bouton latéral en métal, cinq niveaux de la luminosité est facultative et il existe un mode stroboscopique.
+- 【Indicateur de batterie】Voyant dalimentation tricolore au centre du bouton, indiquant la puissance restante ; charge MCC3 à la queue, très grande capacité, très longue durée de vie de la batterie : batterie personnalisée 5000 mAh 3,6 V 21700, clair de lune. La durée de vie de la batterie est de 72 jours.
 - 【Assurance qualité】IPX8 étanche, résistant aux chutes de 1,5 mètres, durable, belle apparence, structure en alliage daluminium du corps principal, oxydation dure à trois niveaux de surface; anneau de bouton en acier inoxydable bleu traité PVD et anneau de pression de tête.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

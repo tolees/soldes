@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Amorti optimal qui offre protection et absorption des impacts et des sollicitations
-- Chaussures légères
 - Fermeture à lacets; Semelle intérieure amovible
+- Chaussures légères
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP7SK3R5{{</world>}}

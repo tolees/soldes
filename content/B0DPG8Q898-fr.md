@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- __Branding:__ Woven Label at Ticket Pocket, Leather Patch on Back Waistband, Logo Woven Label on Back Pocket
 - __Wash:__ Medium Blue Wash Created Through Multiple Processes for a Vintage Look
-- __Fabric:__ Cotton Elastane Denim: 99% Cotton, 1% Elastane [15 oz.]
 - __Other:__ Denim Story Print Inside Pocketing
+- __Branding:__ Woven Label at Ticket Pocket, Leather Patch on Back Waistband, Logo Woven Label on Back Pocket
+- __Fabric:__ Cotton Elastane Denim: 99% Cotton, 1% Elastane [15 oz.]
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DPG8Q898{{</world>}}

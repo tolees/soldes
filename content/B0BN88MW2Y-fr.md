@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - produit 2: PROTECTION CONTRE LES INTEMPÉRIES Protégez votre Module Extérieur des intempéries et ne laissez rentrer que l’air nécessaire.
-- produit 1: Soyez alerté par notifications lors d’un changement dans l’environnement de cette pièce
 - produit 1: Visualisez l’historique de la pièce et les graphiques depuis l’application
-- produit 1: Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
+- produit 1: Soyez alerté par notifications lors d’un changement dans l’environnement de cette pièce
+- produit 2: SUPPORT 3-EN-1 Le support permet de fixer le Module Extérieur sur un poteau, un mur ou le Support Mural Netatmo.
 - produit 1: Accédez aux mesures de température, de concentration en CO2 et d’humidité d’une autre pièce en temps réel sur votre smartphone
+- produit 1: Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
 - produit 2: INSTALLATION FACILE Votre abri est livré monté, vous navez plus quà le fixer à un poteau ou à le visser à laide des accessoires fournis.
 - produit 2: DES MESURES ENCORE PLUS FIABLES Vous observerez alors des températures normalisées, au plus proche des mesures fournies par les instituts météo.
-- produit 2: SUPPORT 3-EN-1 Le support permet de fixer le Module Extérieur sur un poteau, un mur ou le Support Mural Netatmo.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN88MW2Y{{</world>}}

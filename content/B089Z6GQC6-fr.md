@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coupe moulante
-- Coton et élasthanne
 - Taille élastique
-- BCI : en achetant des produits PUMA en coton, vous soutenez la culture de coton durable par le biais de la Better Cotton Initiative. En savoir plus : bettercotton.org/francais
+- Coton et élasthanne
 - Logo PUMA N° 1 imprimé en caoutchouc sur la jambe gauche
+- BCI : en achetant des produits PUMA en coton, vous soutenez la culture de coton durable par le biais de la Better Cotton Initiative. En savoir plus : bettercotton.org/francais
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B089Z6GQC6{{</world>}}

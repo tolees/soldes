@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabricant : CP GABA GmbH.
-- Référence :12447835.
 - Quantité :150 ml.
+- Référence :12447835.
+- Fabricant : CP GABA GmbH.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0087ARE8Q{{</world>}}

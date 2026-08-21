@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vision infrarouge sur 40 mètres
 - Alimentation 12V CC ou via PoE
 - IP67
+- Vision infrarouge sur 40 mètres
 - Emplacement pour carte micro SD jusquà 256 Go
 - Prise de vue en 2560x 1400 à 20 fps
 

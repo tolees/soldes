@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 【Wait, This Costs HOW Little?!】Avec le rapport qualité-prix élevé et la large palette de couleurs de l’OVERTURE PLA, stockez sans culpabilité pour vos grands projets – qu’il s’agisse d’armures cosplay, de cadeaux de Noël ou d’un squelette de T-Rex imprimé en 3D.
 - 【Smooth Printing, Zero Clogging!】Notre formule anti-bouchage et notre processus de séchage de 24 heures garantissent une expérience d’impression fluide et sans bulles. Dites adieu aux bourrages frustrants et bonjour à une créativité ininterrompue avec l’OVERTURE PLA.
-- 【Endless Creativity, Vibrant Colors!】L’OVERTURE PLA est compatible avec la plupart des imprimantes 3D grand public et industrielles, que vous soyez amateur, propriétaire de petite entreprise ou chercheur. Notre gamme de couleurs vibrantes donne vie à vos designs les plus imaginatifs.
 - 【Impression fluide & supportée】 Imprimez en toute confiance. Le filament Overture est fourni avec un support dédié et une durée de conservation d’un an pour les bobines non ouvertes (si elles sont stockées correctement). Nous nous engageons à fournir des solutions rapides pour une expérience d’impression fluide. Votre partenaire fiable en impression 3D.
+- 【Endless Creativity, Vibrant Colors!】L’OVERTURE PLA est compatible avec la plupart des imprimantes 3D grand public et industrielles, que vous soyez amateur, propriétaire de petite entreprise ou chercheur. Notre gamme de couleurs vibrantes donne vie à vos designs les plus imaginatifs.
 - 【Set It & Forget It】Pourquoi lutter contre les bouchons ? L’OVERTURE PLA offre une précision de ±0,02 mm et des bobines sans enchevêtrement, idéal pour les impressions marathon 24h/24. Compatible avec la plupart des imprimantes FDM – aucun suivi requis !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

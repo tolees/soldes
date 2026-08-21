@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - ROBOT – Le méchant robot miniature a des bras, des épaules, des jambes, un torse, des hanches et des genoux mobiles ; il est doté d’un cockpit pouvant accueillir la minifigurine du monstre de la Terre
-- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection de jouets permet aux enfants et aux fans de ninjas de s’évader dans un monde fantastique immersif, pour laisser libre cours à leur imagination et s’amuser avec leurs héros ninjas
-- CADEAU ORIGINAL POUR GARÇON OU FILLE DÈS 8 ANS – Ce jouet NINJAGO, favorisant le jeu de rôle, est un superbe cadeau pour les enfants passionnés de culture fantastique
 - FIGURINE ARTICULÉE – Doté d’une selle pour minifigurine, le dragon vert est un magnifique objet de décoration intérieure qui peut déployer ou replier ses ailes et bouger la mâchoire, la tête, le cou, les pattes, les griffes et la queue
+- TOUT UN UNIVERS DE SETS LEGO NINJAGO – Cette vaste collection de jouets permet aux enfants et aux fans de ninjas de s’évader dans un monde fantastique immersif, pour laisser libre cours à leur imagination et s’amuser avec leurs héros ninjas
 - 8 MINIFIGURINES NINJAGO – Le set inclut Zane, Sora, Arin, Dragon Lloyd, Dragon Cole, un monstre acide, un monstre de la Terre et la cheffe loyaliste ; chaque personnage possède son arme
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- CADEAU ORIGINAL POUR GARÇON OU FILLE DÈS 8 ANS – Ce jouet NINJAGO, favorisant le jeu de rôle, est un superbe cadeau pour les enfants passionnés de culture fantastique
 - DRAGON ÉPIQUE – Rejouez des scènes de la saison 4 de la série TV NINJAGO Le soulèvement des dragons avec le jouet de construction Le dragon de vie LEGO NINJAGO
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

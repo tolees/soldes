@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériau de semelle: Caoutchouc
 - Semelle intérieure: Synthétique
-- Doublure: Synthétique
 - Dessus: Cuir-Synthétique/PU
+- Doublure: Synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07KJZBHJQ{{</world>}}

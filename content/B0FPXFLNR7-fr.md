@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉCORATION INTÉRIEURE AVEC PLANTES COLORÉES – Exposez vos adorables plantes pour décorer une chambre, une bibliothèque ou un bureau, et impressionner vos ami.e.s en les faisant balancer grâce à leur base arrondie
-- CONTENANTS DE COULEUR PASTEL – Ce set inclut un pot vert pâle et un pot rose pâle interchangeables ; chaque plante dispose de petites racines visibles lorsquelles sont soulevées
-- IDÉE DE CADEAU ORIGINAL POUR UNE FILLE OU UN GARÇON DÈS 9 ANS – Semez des graines de joie en offrant ce jeu créatif pour un anniversaire aux enfants et à toutes/tous celles/ceux qui aiment les fleurs LEGO
 - JEU DE CONSTRUCTION POUR FILLE & GARÇON DÈS 9 ANS AVEC PLANTES ARTIFICIELLES – Les enfants cultivent leur imagination avec le set Petites plantes dansantes LEGO Botanicals pour les amoureuses.eux de la nature
-- LEGO BOTANICALS – Cultivez votre jardin intérieur avec d’autres sets de fleurs (vendus séparément) de la collection LEGO Botanicals qui propose un vaste choix de bouquets éclatants, de plantes en pot et plus encore
-- À COMBINER À L’INFINI – Ces plantes et ces pots sont compatibles avec le set Petites plantes souriantes LEGO Botanicals (10349), vendu séparément, invitant ainsi les enfants à créer une décoration personnalisée
+- CONTENANTS DE COULEUR PASTEL – Ce set inclut un pot vert pâle et un pot rose pâle interchangeables ; chaque plante dispose de petites racines visibles lorsquelles sont soulevées
+- DÉCORATION INTÉRIEURE AVEC PLANTES COLORÉES – Exposez vos adorables plantes pour décorer une chambre, une bibliothèque ou un bureau, et impressionner vos ami.e.s en les faisant balancer grâce à leur base arrondie
 - 2 POTS DE FLEURS LEGO – Créez Lumi, un delosperma (pourpier) portant des boutons violets, Ellie, un echeveria avec une hampe florale corail, et 2 pots dotés de bras et de visages souriants
+- À COMBINER À L’INFINI – Ces plantes et ces pots sont compatibles avec le set Petites plantes souriantes LEGO Botanicals (10349), vendu séparément, invitant ainsi les enfants à créer une décoration personnalisée
+- IDÉE DE CADEAU ORIGINAL POUR UNE FILLE OU UN GARÇON DÈS 9 ANS – Semez des graines de joie en offrant ce jeu créatif pour un anniversaire aux enfants et à toutes/tous celles/ceux qui aiment les fleurs LEGO
+- LEGO BOTANICALS – Cultivez votre jardin intérieur avec d’autres sets de fleurs (vendus séparément) de la collection LEGO Botanicals qui propose un vaste choix de bouquets éclatants, de plantes en pot et plus encore
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXFLNR7{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez
-- Notre Kindle le plus rapide : lécran Paperwhite 7" nouvelle génération offre un meilleur contraste et des changements de page 25 % plus rapides.
-- Une autonomie à lépreuve de vos plus longs romans : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 12 semaines.
-- Évadez-vous au fil des pages : avec Kindle, concentrez-vous uniquement sur votre lecture, sans vous laisser distraire par les réseaux sociaux, les notifications ou dautres applications.
-- Lisez dans toutes les conditions déclairage : ajustez laffichage de blanc à ambre pour pouvoir lire au soleil ou dans le noir.
 - Adapté aux voyages : grâce à son design ultra-fin et à son écran antireflets plus grand, lisez confortablement, où que vous soyez.
+- Lisez dans toutes les conditions déclairage : ajustez laffichage de blanc à ambre pour pouvoir lire au soleil ou dans le noir.
+- Évadez-vous au fil des pages : avec Kindle, concentrez-vous uniquement sur votre lecture, sans vous laisser distraire par les réseaux sociaux, les notifications ou dautres applications.
+- Une autonomie à lépreuve de vos plus longs romans : une seule charge via USB-C vous permet dutiliser votre appareil jusquà 12 semaines.
+- Notre Kindle le plus rapide : lécran Paperwhite 7" nouvelle génération offre un meilleur contraste et des changements de page 25 % plus rapides.
 - Large sélection : bénéficiez de laccès à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour débloquer encore plus de contenu
+- Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFPR32B1{{</world>}}

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - COMPLET : le YOO Twist dispose de 8 berceuses, dun capteur de température, dune fonction Talkie Walkie. Ce babyphone vidéo a une portée de 300m et ne nécessite pas dappairage entre les unités !
-- DURABLE : garanti à vie, ce babyphone est réparable et a été conçu avec des matériaux durables. Avec la Technologie Sleep, vous faites des économies dénergie en prolongeant lautonomie de la batterie
-- GRAND ECRAN : le babyphone YOO Twist dispose dun écran de 3,5" (7.6 cm). Vous voyez en détail la chambre grâce à sa vision nocturne, sa qualité de limage, à la taille de lécran et au zoom x2
-- CAMERA A 360° : la caméra sincline davant en arrière et de droite à gauche. Vous la gérez simplement depuis lécran (unité parent). Vous pouvez connecter jusquà 4 caméras (vendues séparément)
 - INNOVATION : la technologie Sleep (mode VOX optimisé) vous informe avec une alerte sonore ou visuelle lorsque votre bébé se réveille. Quand il dort, il német aucune onde dans la chambre
+- CAMERA A 360° : la caméra sincline davant en arrière et de droite à gauche. Vous la gérez simplement depuis lécran (unité parent). Vous pouvez connecter jusquà 4 caméras (vendues séparément)
+- GRAND ECRAN : le babyphone YOO Twist dispose dun écran de 3,5" (7.6 cm). Vous voyez en détail la chambre grâce à sa vision nocturne, sa qualité de limage, à la taille de lécran et au zoom x2
+- DURABLE : garanti à vie, ce babyphone est réparable et a été conçu avec des matériaux durables. Avec la Technologie Sleep, vous faites des économies dénergie en prolongeant lautonomie de la batterie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BJ6HKCVP{{</world>}}

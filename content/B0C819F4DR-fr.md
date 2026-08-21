@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - SILICONE SOUPLE, RÉSISTANT ET LAVABLE Fabriquée en silicone souple et durable, cette housse protège tout en restant agréable au toucher. Elle est lavable à l’eau et au savon et passe au lave-vaisselle. Le dessous texturé améliore l’adhérence sur différentes surfaces.
 - POIGNÉE ADAPTÉE AUX PETITES MAINS Grâce à sa poignée intégrée, l’enfant transporte facilement sa conteuse partout : à la maison, en voyage, à l’école ou chez les grands-parents. Sa prise en main ergonomique est pensée pour les enfants de 3 à 8 ans.
-- COQUE OFFICIELLE LUNII – PLUSIEURS COLORIS DISPONIBLES Accessoire officiel Lunii spécialement conçu pour Ma Fabrique à Histoires. Disponible en plusieurs coloris : jaune, vert, bleu, orange et violet, pour personnaliser la conteuse selon les envies de l’enfant.
 - ACCÈS COMPLET À TOUTES LES FONCTIONS Compatible avec tous les modèles de Ma Fabrique à Histoires, la coque permet un accès simple à toutes les fonctionnalités : molette interactive, boutons de choix, pictogrammes, réglage du volume, connecteur de charge et prise Jack pour casque.
+- COQUE OFFICIELLE LUNII – PLUSIEURS COLORIS DISPONIBLES Accessoire officiel Lunii spécialement conçu pour Ma Fabrique à Histoires. Disponible en plusieurs coloris : jaune, vert, bleu, orange et violet, pour personnaliser la conteuse selon les envies de l’enfant.
 - PROTECTION POUR MA FABRIQUE À HISTOIRES La coque officielle Lunii protège efficacement la boîte à histoires contre les chocs, les rayures et les petites chutes du quotidien. Idéale pour accompagner l’enfant dans toutes ses aventures. Elle est conçue pour être retirée par un adulte pour plus de sécurité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

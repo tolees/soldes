@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bain Satin est un shampoing à la formule légère nacrée qui nettoie et hydrate en profondeur les cheveux secs, fins à moyens. Enrichi en protéines dorigine végétale et en Niacinamide, il intègre les nutriments essentiels pour revitaliser les cheveux et les protéger du dessèchement sans les alourdir.
-- Il revitalise, renforce et hydrate la fibre capillaire en profondeur. Les cheveux fins retrouvent leur douceur et leur brillance (90%).
 - Appliquer le shampoing sur cheveux mouillés. Émulsionner et masser le cuir chevelu et les longueurs, puis rincer. Procéder à un second shampoing, masser, puis rincer. Pour une routine capillaire nutritive complète, utiliser le Lait Vital Nutritive puis la Lotion Thermique Sublimatrice.
+- Il revitalise, renforce et hydrate la fibre capillaire en profondeur. Les cheveux fins retrouvent leur douceur et leur brillance (90%).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BZZJYKZ6{{</world>}}

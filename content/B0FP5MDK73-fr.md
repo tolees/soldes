@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Surface de repassage de 110 x 33 cm.
 - La housse est composée de 100 % coton, améliorant la respiration de la table et évitant les condensations de vapeur.
+- Surface de repassage de 110 x 33 cm.
 - Ses pieds offrent une grande stabilité et une hauteur ajustable jusquà 89 cm.
 - Structure de support ultra-résistante, adaptée pour des fers à repasser jusquà 5 kg.
 - Housse résistante aux brûlures grâce à sa protection ignifuge et ses finitions à haute résistance à la chaleur.

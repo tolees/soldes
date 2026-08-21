@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style confortable par PUMA
 - Détails de la marque PUMA
+- Style confortable par PUMA
 - Bande PUMA sur les côtés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

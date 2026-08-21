@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DIMENSIONS : 24 x 32 cm pour format A4 - paquet de 25.
+- COULEURS ASSORTIES : PASTEL - bleu clair, bulle, canari, rose, vert clair - un classement discret que lon peut identifier au crayon ou au feutre léger.
+- CHEMISE Poche SUPER 210 g/m² - SUPER est une gamme de chemises et de sous chemises haute qualité, aux coloris pastel pour un classement doux, facile à identifier en écrivant au simple stylo le contenu.
+- EPAISSEUR : rigide 210 g /m2 - pour un usage intensif et un classement volumineux pouvant contenir jusquà 300 feuilles.
 - QUALITE : La carte est noble, résistante et certifiée PEFC. Elle présente une excellente résistante au pliage, au déchirement, et aux manipulations.
 - PRESENTATION : chemise composée de 1 poche - grâce à son rabat enveloppant, la pochette enveloppe protège parfaitement les documents qui peuvent ainsi être classés dans des dossiers suspendus, des boites de classement ou des chemises en sous dossier - soufflet de 32 mm.
-- CHEMISE Poche SUPER 210 g/m² - SUPER est une gamme de chemises et de sous chemises haute qualité, aux coloris pastel pour un classement doux, facile à identifier en écrivant au simple stylo le contenu.
-- COULEURS ASSORTIES : PASTEL - bleu clair, bulle, canari, rose, vert clair - un classement discret que lon peut identifier au crayon ou au feutre léger.
-- DIMENSIONS : 24 x 32 cm pour format A4 - paquet de 25.
-- EPAISSEUR : rigide 210 g /m2 - pour un usage intensif et un classement volumineux pouvant contenir jusquà 300 feuilles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N2VXCYZ{{</world>}}

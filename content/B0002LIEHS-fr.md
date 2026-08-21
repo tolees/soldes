@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Age : à partir de 14 ans
 - Voici ce qui caractérise la collection High Quality de Clementoni : des images captivantes, une impression de qualité, des découpes précises et un matériau résistant; Cette gamme de puzzle élégante a été créée pour ceux qui ont la passion des détails
 - Fabriqué en Italie
-- Age : à partir de 14 ans
 - Puzzle de 1000 pièces de dimension de 69 x 50 cm
 - Très attentif à l’écologie, Clementoni utilise une forte proportion de matériaux recyclés, évitant ainsi l’utilisation de composants polluants
 

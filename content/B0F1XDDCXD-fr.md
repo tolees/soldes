@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle de propreté en textile
 - Semelle extérieure en caoutchouc
-- Chaussant standard
 - Tige en matière synthétique
+- Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F1XDDCXD{{</world>}}

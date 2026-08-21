@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roues : Custom Real Riders
+- Couleur de carrosserie : rouge, blanc et noir, vernis brillant
 - Base : châssis entièrement métallique noir satiné. Couleur de la fenêtre : teinte claire. Couleur intérieure : noir
 - Emballé sur une carte blister illustrée et emballé dans un étui de protection Kar Keepers.
-- Couleur de carrosserie : rouge, blanc et noir, vernis brillant
 - Type de carrosserie : ZAMAC
+- Roues : Custom Real Riders
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FFT8VQLG{{</world>}}

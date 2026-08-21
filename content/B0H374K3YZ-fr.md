@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Souris gaming sans fil rapide et précise: une icône du gaming professionnel, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
-- Le capteur le plus avancé dans le monde du gaming: HERO 2 offre un suivi sur 888+ IPS, jusqu’à 44 000 DPI et un étalonnage précis du capteur sans lissage, accélération ni filtrage (1)
-- Précision professionnelle: les switchs hybrides optiques-mécaniques LIGHTFORCE offrent une précision et une fiabilité professionnelles, ainsi qu’un actionnement optique à très faible latence avec des clics nets et tactiles
-- Performance avancée: notre souris sans fil, utilisée par les joueurs d’esport, avec capteur HERO 2 avancé, performances sans fil LIGHTSPEED fiables, charge USB-C et autonomie de 88 heures, le tout pour un poids de 60 g
-- (1) Les fonctions avancées nécessitent le logiciel Logitech G HUB, testé sur le tapis de souris G640
-- (2) En mouvement constant à un taux de rapport de 1 kHz; l’autonomie de la batterie varie en fonction des conditions d’utilisation
-- Connexion fiable: la technologie sans fil LIGHTSPEED offre une expérience rapide et de fiabilité professionnelle; augmentez votre vitesse de transmission de 1 kHz (2) à 8 kHz avec le récepteur sans fil PRO LIGHTSPEED (vendu séparément)
 - Patins de souris en PTFE sans additif: les patins de souris en PTFE sans additif assurent une glisse fluide et une connexion fluide à votre jeu
+- Performance avancée: notre souris sans fil, utilisée par les joueurs d’esport, avec capteur HERO 2 avancé, performances sans fil LIGHTSPEED fiables, charge USB-C et autonomie de 88 heures, le tout pour un poids de 60 g
+- Connexion fiable: la technologie sans fil LIGHTSPEED offre une expérience rapide et de fiabilité professionnelle; augmentez votre vitesse de transmission de 1 kHz (2) à 8 kHz avec le récepteur sans fil PRO LIGHTSPEED (vendu séparément)
+- Souris gaming sans fil rapide et précise: une icône du gaming professionnel, conçue en collaboration avec les plus grands pros de l’esport et pensée pour gagner
+- Précision professionnelle: les switchs hybrides optiques-mécaniques LIGHTFORCE offrent une précision et une fiabilité professionnelles, ainsi qu’un actionnement optique à très faible latence avec des clics nets et tactiles
+- (2) En mouvement constant à un taux de rapport de 1 kHz; l’autonomie de la batterie varie en fonction des conditions d’utilisation
+- Le capteur le plus avancé dans le monde du gaming: HERO 2 offre un suivi sur 888+ IPS, jusqu’à 44 000 DPI et un étalonnage précis du capteur sans lissage, accélération ni filtrage (1)
+- (1) Les fonctions avancées nécessitent le logiciel Logitech G HUB, testé sur le tapis de souris G640
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0H374K3YZ{{</world>}}
