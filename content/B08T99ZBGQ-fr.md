@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pédale de sustain universelle
-- Tout pour le beat making - 16 pads rétroéclairés RGB sensibles à la vélocité avec mode Note Repeat pour le beat making, le lancement de clips, les déclenchements de son et bien dautres
 - Maîtrise absolue de votre production production - 8 potentiomètres, boutons et 9 faders assignables pour un contrôle en MIDI de vos instruments virtuels, plugins d’effets, commandes DAW et autres
+- Pédale de sustain universelle
 - Un clavier MIDI complet - 61 touches semi-lestées sensibles à la vélocité avec aftertouch et zones assignables pour utiliser des instruments virtuels ou des plugins de synthétiseurs virtuels
-- Compatible avec tous les claviers électroniques
 - Design classique
+- Compatible avec tous les claviers électroniques
+- Tout pour le beat making - 16 pads rétroéclairés RGB sensibles à la vélocité avec mode Note Repeat pour le beat making, le lancement de clips, les déclenchements de son et bien dautres
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T99ZBGQ{{</world>}}

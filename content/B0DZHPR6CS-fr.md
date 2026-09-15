@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Memoire interne: 128 Go - RAM: 6 Go
+- Appareil photo de 50 + 8 + 2 Mégapixels
 - Smartphone sous systeme Android 15
 - Ecran de 6.7 - 4G: Oui
-- Appareil photo de 50 + 8 + 2 Mégapixels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DZHPR6CS{{</world>}}

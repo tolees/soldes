@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fortifie
 - Équilibre pH : 4, 0 à 5, 0
 - Apporte de la brillance aux cheveux
+- Fortifie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TWV3S41{{</world>}}

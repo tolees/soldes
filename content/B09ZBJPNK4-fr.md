@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Blanc chaud
-- Non dimmable
 - Faites des économies dénergie avec les ampoules LED Philips
+- Non dimmable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZBJPNK4{{</world>}}

@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à utiliser : peut être ouvert et refermé d’une seule main
-- Nombre d’utilisations : env. 100 avec SDS max (env. 1 ml pour SDS max, env 0,5 ml pour SDS plus)
-- Fabriqué en Allemagne
 - Convient aux forets et burins avec système de raccordement SDS plus ou SDS max
-- Contenu : 1 tube de graisse de 100 ml
 - Qualité Bosch : une plus longue durabilité du foret/burin grâce à la réduction du frottement
+- Nombre d’utilisations : env. 100 avec SDS max (env. 1 ml pour SDS max, env 0,5 ml pour SDS plus)
+- Contenu : 1 tube de graisse de 100 ml
+- Fabriqué en Allemagne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q48Z9NK{{</world>}}

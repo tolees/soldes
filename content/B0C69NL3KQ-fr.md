@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de la semelle:Caoutchouc
-- Type de talon:Plat
 - Matériau intérieur:Synthétique
+- Type de talon:Plat
 - Matériau extérieur:Cuir
+- Matériau de la semelle:Caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C69NL3KQ{{</world>}}

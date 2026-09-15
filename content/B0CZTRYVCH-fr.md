@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
-- Matériau extérieur : 100 % cuir de vachette
 - Doublure : 100 % PET recyclé
+- Matériau extérieur : 100 % cuir de vachette
 - Couleur : marron foncé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

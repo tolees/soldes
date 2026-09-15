@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chorus, Phaser, Delay, Hall
 - 8 simulation dampli classique
-- Loading IR via logiciel
+- Chorus, Phaser, Delay, Hall
 - Pédale rechargeable multi-effets
+- Loading IR via logiciel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09TWTKT4T{{</world>}}

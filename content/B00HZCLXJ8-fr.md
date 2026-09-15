@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
-- Tige : Cuir de vachette / Tissu technique
 - Couleur : noir
+- Tige : Cuir de vachette / Tissu technique
+- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
 - Doublure :
 - Fermeture Velcro pour un bon ajustement
 

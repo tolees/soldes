@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo PUMA Cat sur la poitrine
-- Capuche
 - Manches longues
+- Capuche
 - Nylon et polyester
+- Logo PUMA Cat sur la poitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07XFXD2Q8{{</world>}}

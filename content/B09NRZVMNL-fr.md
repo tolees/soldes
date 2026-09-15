@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc
-- Enfiler
-- Plat
 - Synthetic
+- Enfiler
+- Caoutchouc
+- Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NRZVMNL{{</world>}}

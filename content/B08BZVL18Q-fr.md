@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Saison : Printemps Été
-- Fermeture : Lacets
-- Matière : Coton
 - Taille : 45 EU
 - Couleur : Marron
+- Fermeture : Lacets
+- Matière : Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08BZVL18Q{{</world>}}

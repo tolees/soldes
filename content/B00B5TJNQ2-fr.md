@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué en France pour une qualité durable.
 - Récupérateur de graisses pour une cuisine plus saine
+- Fabriqué en France pour une qualité durable.
 - Plancha idéale pour cuisiner poissons et aliments délicats.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

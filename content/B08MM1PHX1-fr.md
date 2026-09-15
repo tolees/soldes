@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition : viande de poulet, foie, cœur, gésier (56%), bouillon de viande (28,5%), crevettes (14,5%), minéraux (1%)
-- Aliment complet, très haute teneur en viande, monoprotéine, vitamines et minéraux importants, sans céréales
 - Délicieux repas pour votre chéri
-- Fournit à votre chéri toutes les vitamines et minéraux importants
+- Composition : viande de poulet, foie, cœur, gésier (56%), bouillon de viande (28,5%), crevettes (14,5%), minéraux (1%)
 - Pour nos repas, nous utilisons principalement des ingrédients provenant de fermes régionales. Élevés ou cultivés avec beaucoup damour, ils sont soumis aux contrôles de qualité les plus stricts.
+- Fournit à votre chéri toutes les vitamines et minéraux importants
+- Aliment complet, très haute teneur en viande, monoprotéine, vitamines et minéraux importants, sans céréales
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08MM1PHX1{{</world>}}

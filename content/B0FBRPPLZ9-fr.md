@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sarcasme, slapstick et sorciers farfelus : Rencontre des personnages bizarres, des dialogues encore plus étranges et savoure l’humour unique de Simon, entre insolence et flegme “very british”.
+- Entre formules magiques et engrenages : Le point-and-click classique optimisé avec des mécaniques modernes. Résous des énigmes loufoques, déchiffre des mécanismes antiques et accumule (encore) bien trop d’objets.
 - Un style dessiné à la main et une voix emblématique : Avec des graphismes dessinés avec soin et la voix originale de Simon, interprétée par le comédien vocal britannique Chris Barrie, le jeu est comme un voyage dans les années 90, mais avec une meilleure résolution.
 - Une histoire pleine de cœur, d’humour et de chapeau : Entre amour maternel, déménagement forcé et un bon brin de chaos, les péripéties de Simon sur la voie de l’héroïsme (non désirées) commencent.
-- Entre formules magiques et engrenages : Le point-and-click classique optimisé avec des mécaniques modernes. Résous des énigmes loufoques, déchiffre des mécanismes antiques et accumule (encore) bien trop d’objets.
 - Préquelle officielle de la série culte : Découvre ce que Simon a vécu juste avant son premier faux pas magique dans le monde fantastique. Bien avant qu’il ne commence à insulter les portes parlantes.
 - Alchimie, magie & autres maladresses : Expérimente des sorts, des instruments alchimiques et des recettes douteuses. Avec un peu de chance, le résultat sera même celui auquel tu t’attendais.
 

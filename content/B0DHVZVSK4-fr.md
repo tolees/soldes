@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
-- Semelle de propreté antimicrobienne Ortholite
-- Chaussant standard
-- Tige ripstop avec empiècements
-- Semelle extérieure en caoutchouc Continental
-- Semelle intermédiaire en EVA LIGHTMOTION
 - Fermeture à lacets
 - Poids : 350 g (pointure 38 2/3)
+- Chaussant standard
+- Semelle intermédiaire en EVA LIGHTMOTION
+- Tige ripstop avec empiècements
+- Drop semelle intermédiaire : 10 mm (talon : 32 mm / avant-pied : 22 mm)
+- Semelle extérieure en caoutchouc Continental
+- Semelle de propreté antimicrobienne Ortholite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVZVSK4{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EN ISO 20347:2021
-- Semelle intérieure en mousse à mémoire de forme
 - Sans nœud
+- EN ISO 20347:2021
 - OB E FO SR
+- Semelle intérieure en mousse à mémoire de forme
 - Chaussures athlétiques à enfiler avec dessous antidérapant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

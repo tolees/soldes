@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction vulcanisée
-- Dessus en toile 170 g
 - Semelle extérieure en caoutchouc collante résistante à labrasion
+- Dessus en toile 170 g
+- Construction vulcanisée
 - Logo imprimé HD
 
 [🛒 Achète-le!!]({{< param buyurl >}})

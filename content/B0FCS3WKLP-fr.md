@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Avec 9 LED adressables, il peut afficher 16,8 millions de couleurs deffets lumineux
+- Équipé de quatre caloducs en cuivre en forme de U de Ø6 mm qui entrent directement en contact avec le processeur pour une conduction thermique rapide et stable
 - Fournit 62,72 CFM de volume dair et 1,47 mm-H2O de pression statique
 - Prise en charge du logiciel de contrôle déclairage de la carte mère
-- Équipé de quatre caloducs en cuivre en forme de U de Ø6 mm qui entrent directement en contact avec le processeur pour une conduction thermique rapide et stable
 - Comprend un ensemble de supports, compatible avec une variété de processeurs Intel et AMD
-- Avec 9 LED adressables, il peut afficher 16,8 millions de couleurs deffets lumineux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FCS3WKLP{{</world>}}

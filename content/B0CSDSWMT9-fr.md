@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encolure avec boutons
 - Col pointu
+- Encolure avec boutons
 - Coupe classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

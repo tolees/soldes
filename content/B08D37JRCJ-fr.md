@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brand: IsNtree
 - Product type: SUNSCREEN
+- Brand: IsNtree
 - ISNTREE Hyaluronic Acid Airy Sun Stick - crème solaire idéale pour les déplacements avec SPF 50+
 
 [🛒 Achète-le!!]({{< param buyurl >}})

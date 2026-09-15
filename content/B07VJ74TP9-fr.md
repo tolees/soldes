@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durabilité :
 - Système damortissement
+- Durabilité :
 - Légères
 
 [🛒 Achète-le!!]({{< param buyurl >}})

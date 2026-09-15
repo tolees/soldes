@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lextérieur hydrofuge protège vos affaires des pluies légères.
-- Design compact idéal pour transporter uniquement lessentiel.
 - EK30Y | 30 ans
 - Coloris bleu cascade vibrant, parfait pour ajouter une touche de couleur à votre tenue
+- Design compact idéal pour transporter uniquement lessentiel.
+- Lextérieur hydrofuge protège vos affaires des pluies légères.
 - Tissu hydrofuge
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Adhérence fiable: bonne prise en main sur différentes surfaces pour des résultats impressionnants
-- Fixation recommandée: un spray fixateur est recommandé pour une conservation durable des œuvres
-- Dépose douce de la couleur: application douce et uniforme pour des créations sur de grandes surfaces et des dégradés fins
 - Utilisations multiples: facile à mélanger et à estomper pour des effets créatifs sur papier, carton ou supports spéciaux
+- Dépose douce de la couleur: application douce et uniforme pour des créations sur de grandes surfaces et des dégradés fins
+- Fixation recommandée: un spray fixateur est recommandé pour une conservation durable des œuvres
 - Couleurs intenses et brillantes: 12 craies pastel douces colorées avec une grande luminosité et une pigmentation riche pour des œuvres dart expressives
 
 [🛒 Achète-le!!]({{< param buyurl >}})

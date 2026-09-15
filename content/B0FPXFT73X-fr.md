@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DÉTAILS AUTHENTIQUES – Pour célébrer le 1 000ème GRAND PRIX de McLaren, la moitié du casque reprend la couleur orange papaye officielle, tandis que lautre côté affiche le jaune fluo caractéristique de Lando Norris
-- DÉCORATION FORMULE 1 – Cette maquette 3D est une pièce de décoration sportive que les fans peuvent afficher fièrement aux côtés d’autres casques LEGO F1, vendus séparément
+- LEGO EDITIONS – En explorant la collection LEGO Editions, vous découvrirez dautres sets inspirés de l’univers des courses automobiles (vendus séparément) qui feront le bonheur des fans de Formule 1
+- OBJET DÉRIVÉ F1 LANDO NORRIS – Ce kit inclut une minifigurine de Lando Norris, une plaque portant sa signature, ainsi que son numéro de pilote et son logo imprimé sur le support
 - ARRÊT AU STAND NUMÉRIQUE – Les jeunes pilotes peuvent simmerger dans laction de la F1 en suivant leur progression, en zoomant et en faisant pivoter leurs créations dans lapplication LEGO Builder
 - CASQUE DE COURSE F1 LEGO – Créez un produit dérivé de Formule 1 avec le set McLaren Mastercard F1 Team Casque de Lando Norris LEGO Editions, pour ado ou passionné.e de course automobile dès 14 ans
 - CADEAU POUR PASSIONNÉ.E.S DE SPORT AUTOMOBILE DÈS 14 ANS – Ce set LEGO un fabuleux cadeau inspiré de l’univers des sports automobiles, à offrir pour un anniversaire ou une autre occasion spéciale à un.e ado ou adulte, fan de mécanique
-- OBJET DÉRIVÉ F1 LANDO NORRIS – Ce kit inclut une minifigurine de Lando Norris, une plaque portant sa signature, ainsi que son numéro de pilote et son logo imprimé sur le support
-- LEGO EDITIONS – En explorant la collection LEGO Editions, vous découvrirez dautres sets inspirés de l’univers des courses automobiles (vendus séparément) qui feront le bonheur des fans de Formule 1
+- DÉCORATION FORMULE 1 – Cette maquette 3D est une pièce de décoration sportive que les fans peuvent afficher fièrement aux côtés d’autres casques LEGO F1, vendus séparément
+- DÉTAILS AUTHENTIQUES – Pour célébrer le 1 000ème GRAND PRIX de McLaren, la moitié du casque reprend la couleur orange papaye officielle, tandis que lautre côté affiche le jaune fluo caractéristique de Lando Norris
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXFT73X{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier en acier inoxydable
+- Résistance à leau: 100.0 mètres
 - Diamètre du cadran : 42 millimètres
+- Boîtier en acier inoxydable
 - Bracelet vert
 - Bracelet en nylon
 - Cadran texturé noir
-- Résistance à leau: 100.0 mètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00B3Q3C4G{{</world>}}

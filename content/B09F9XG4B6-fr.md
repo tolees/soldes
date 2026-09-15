@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ATTENTION : votre carte mère doit supporter le mode bifurcation (PCIe 16x vers 4x PCIe 4x), sans quoi un seul SSD sera reconnu.
-- Cet adaptateur PCIe U.2 NVMe vous permet dajouter quatre SSD NVMe U.2 PCIe x4 2,5" à haut débit à votre PC sur un emplacement PCIe x16 disponible. Vous pourrez monter les disque U.2 PCIe directement sur ladaptateur, ce qui vous offre un moyen simple et pratique daméliorer les performances de votre système.
-- Dimensions : 286mm x 123mm, poids 115g. La carte est longue, vérifiez bien quelle rentrera dans votre installation.
-- PCIe 16x 3.0. Compatible pour SSD U.2, montage direct sur la carte sans recours à un cordon. Connecteurs 68 points SFF-8639 pour SSD U.2. Compatible avec tous les SSD U.2 NVMe 2.5" utilisant linterface SFF-8639 (exemple : Intel 750 etc...).
 - Ne requiert pas de pilote, fonctionne de façon transparente pour le système dexploitation.Le système dexploitation doit supporter les SSD U2 (Win 10 recommandé).
+- Dimensions : 286mm x 123mm, poids 115g. La carte est longue, vérifiez bien quelle rentrera dans votre installation.
+- ATTENTION : votre carte mère doit supporter le mode bifurcation (PCIe 16x vers 4x PCIe 4x), sans quoi un seul SSD sera reconnu.
+- PCIe 16x 3.0. Compatible pour SSD U.2, montage direct sur la carte sans recours à un cordon. Connecteurs 68 points SFF-8639 pour SSD U.2. Compatible avec tous les SSD U.2 NVMe 2.5" utilisant linterface SFF-8639 (exemple : Intel 750 etc...).
+- Cet adaptateur PCIe U.2 NVMe vous permet dajouter quatre SSD NVMe U.2 PCIe x4 2,5" à haut débit à votre PC sur un emplacement PCIe x16 disponible. Vous pourrez monter les disque U.2 PCIe directement sur ladaptateur, ce qui vous offre un moyen simple et pratique daméliorer les performances de votre système.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09F9XG4B6{{</world>}}

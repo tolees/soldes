@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La figurine pour les toy photographers ! Avec les autres figurines articulées de Street Fighter, tu pourras recréer les scènes du jeu vidéo !
-- Avec plus dune vingtaine darticulations et ses accessoires, cette figurine offre des fonctions complètes de jeu !
 - Plonge dans lunivers de Street Fighter ! Retrouve la figurine articulée de 15cm de Dee Jay, lun des personnages principaux !
 - En plus, la tête et les mains sont interchangeables !
 - Sous licence officielle Capcom. A partir de 8 ans.
+- Avec plus dune vingtaine darticulations et ses accessoires, cette figurine offre des fonctions complètes de jeu !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CK76N4YT{{</world>}}

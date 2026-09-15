@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La couche intérieure en mousse confortable Ortholite ajoute un amorti à long terme
-- Légères
 - Semelle extérieure à traction flexible
+- Légères
+- La couche intérieure en mousse confortable Ortholite ajoute un amorti à long terme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPJR73DB{{</world>}}

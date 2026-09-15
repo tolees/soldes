@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Versions avec réflecteur triangulaire pour caravane/remorque
+- Type de fixation: pour fixation à lhorizontale - Numéro darticle en paire: 2VA 007 502-021
 - Pour une installation horizontale
 - non certifié SAE/Vérifié par la CEE - Type de protec. (Code IP): IPX6K /IPX9K/IP5KX
-- Fonctions déclairage: 6 - avec feu de clignotant/avec feu de stop/avec feu arrière/avec feu de marquage des côtés/avec feu de brouillard arrière/avec feu déclairage arrière
-- Type de fixation: pour fixation à lhorizontale - Numéro darticle en paire: 2VA 007 502-021
-- Longueur: 446mm - Largeur: 170mm - Hauteur: 143mm - Type de lampe: P21/5W/PY21W/P21W - pour remorques/avec ampoules
 - sans boîtier - Couleur du carter: blanc/marron
+- Versions avec réflecteur triangulaire pour caravane/remorque
+- Fonctions déclairage: 6 - avec feu de clignotant/avec feu de stop/avec feu arrière/avec feu de marquage des côtés/avec feu de brouillard arrière/avec feu déclairage arrière
+- Longueur: 446mm - Largeur: 170mm - Hauteur: 143mm - Type de lampe: P21/5W/PY21W/P21W - pour remorques/avec ampoules
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002BW0KMS{{</world>}}

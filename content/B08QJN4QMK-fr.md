@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baskets de marche confortables à enfiler
-- Lavable en machine
 - Semelle extérieure en caoutchouc souple avec design Burst Grip
 - Dessus en maille douce chinée
 - Remarque : Veuillez vérifier le tableau des tailles et mesurer votre pied avant dacheter
+- Baskets de marche confortables à enfiler
+- Lavable en machine
 - Talon de 22,9 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

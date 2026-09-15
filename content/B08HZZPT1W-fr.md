@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poids du colis: 1.0 kilograms
-- Fabricant : Revlon
 - Volume du colis: 1000.0 milliliters
+- Fabricant : Revlon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HZZPT1W{{</world>}}

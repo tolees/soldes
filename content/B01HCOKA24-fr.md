@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions (LATBP30) : H:45cmx L:32cmx P:24cm
+- Capacité 45L
 - Capacité 45L
 - idéale pour la pratique des sports aquatiques
-- Capacité 45L
+- Dimensions (LATBP30) : H:45cmx L:32cmx P:24cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01HCOKA24{{</world>}}

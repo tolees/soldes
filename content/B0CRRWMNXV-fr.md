@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Shampoing épaississant sans silicone qui donne aux cheveux un volume instantané et une épaisseur visible. Renforce les cheveux fins contre les agressions liées au coiffage
 - Shampoing enrichi de biotine et eau de rose
+- Shampoing épaississant sans silicone qui donne aux cheveux un volume instantané et une épaisseur visible. Renforce les cheveux fins contre les agressions liées au coiffage
 - Testé par le Swisse Vitamin Institute
 - Utilisez-le avec l’après-shampoing Lift & Volume pour une routine de soins des cheveux complète
 - Bouteille XL de 1 litre. Tirez sur la pompe pour activer le distributeur

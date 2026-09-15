@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce style a été produit de manière durable
-- il sagit dun produit authentique et original BOSS
 - Confortable à porter
+- il sagit dun produit authentique et original BOSS
 - il assure un ajustement optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

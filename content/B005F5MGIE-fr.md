@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La protège des agressions
 - Le karité calme les tiraillements, nourrit la peau
 - Produit de qualité
+- La protège des agressions
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005F5MGIE{{</world>}}

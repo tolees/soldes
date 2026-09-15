@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fermeture à boutons
 - Empiècement dépaule avec passant
-- Poche poitrine, fermeture à boutons
-- Col de chemise
 - Poignets réglables, fermeture à boutons
+- Col de chemise
+- Poche poitrine, fermeture à boutons
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DSWH8M12{{</world>}}

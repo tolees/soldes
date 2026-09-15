@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - VIE, MORT ET CONSÉQUENCES Personne n’est à l’abri de l’incendie : identifiez les coupables avant que vos amis de Caledon ne périssent dans les flammes. Qui survivra ? Ça dépendra de vous !
 - UNE BANDE ORIGINALE EXCLUSIVE Une bande originale riche et soignée qui inclut des morceaux nostalgiques et inédits.
 - SOYEZ PUNK Dans la peau de l’insolente Chloe, vous devrez faire appel à votre ruse, votre esprit et vos répliques acérées pour démêler les secrets de ses visions ainsi que ses doubles souvenirs.
-- UNE CONCLUSION ÉPIQUE La saga de Max et Chloe et le destin de Caledon sont entre vos mains ! Incarnez Max et Chloe dans une histoire inédite au dénouement épique.
 - LE POUVOIR DE REMBOBINER REVIENT Le pouvoir emblématique de Max est de retour ! Revenez sur vos décisions, changez le cours des conversations et manipulez votre environnement pour résoudre des énigmes en quatre dimensions.
+- UNE CONCLUSION ÉPIQUE La saga de Max et Chloe et le destin de Caledon sont entre vos mains ! Incarnez Max et Chloe dans une histoire inédite au dénouement épique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GHSYQHP6{{</world>}}

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ultrasnelle fixatie: Droogt in slechts 3 seconden om make-up onmiddellijk te fixeren.
 - Optimale applicatie: Verspreidt een fijne micro-nevel voor een gelijkmatige verdeling, zonder een plakkerig residu achter te laten.
-- Handige formaten: Verkrijgbaar in twee maten (75ML en 150ML) om aan alle behoeften te voldoen.
 - Transfervrij en multi-resistent: De formule is transferproof, waterproof, veegvast en hitte- en zweetbestendig.
+- Handige formaten: Verkrijgbaar in twee maten (75ML en 150ML) om aan alle behoeften te voldoen.
 - Langdurige houdbaarheid: Zorgt voor een onberispelijke en frisse make-up tot 36 uur lang
 
 [🛒 Achète-le!!]({{< param buyurl >}})

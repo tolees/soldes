@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contrôle du direct
+- Contrôle parental
 - Dolby AC4 et HDR10
 - Enregistrez la TNT en HD directement sur disque externe ou clé USB
 - Regardez les chaînes gratuites de la TNT en Ultra Haute Définition (UHD) 4K.
-- Contrôle du direct
-- Contrôle parental
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWS1Z81G{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle: Autres Fibres
 - Lacets
+- Semelle: Autres Fibres
 - Upper: Other Materials
 - Doublure: Textile
 - Chaussant standard

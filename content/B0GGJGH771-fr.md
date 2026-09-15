@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible 513 / 530 & 560 mm
 - Pieds réglables
+- Compatible 513 / 530 & 560 mm
 - Résistant jusquà 450kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})

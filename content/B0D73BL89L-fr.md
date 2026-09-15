@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La semelle légère offre un amorti et une flexibilité grâce à la technologie innovante ECCO FLUIDFORM confort direct
-- Fabriqué en cuir ECCO souple de qualité supérieure
 - Design classique pour une polyvalence et un look tendance intemporel
+- Fabriqué en cuir ECCO souple de qualité supérieure
 - La fermeture élastique assure un ajustement confortable pendant la marche
 - Col rembourré pour plus de confort
 

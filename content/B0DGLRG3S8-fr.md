@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DRAGON ET DRESSEUR ARTICULÉS - Votre duo prend la pose ; La figurine dresseur Varek possède des détails réalistes ainsi quune tête, des bras et des jambes articulés ; La figurine dragon Gronk possède des ailes mobiles et est articulée
-- CADEAU ENFANT - Pour un anniversaire ou Noël, offrez le Pack Dragon & Viking Dragons How To Train Your Dragon à votre enfant ; faîtes redécouvrir à vos enfants lunivers de la série et du film danimation Dragons pour des heures de jeu formidables
 - LAISSEZ LIBRE COURS À VOTRE IMAGINATION - Survolez le monde des dragons et recréez avec votre duo de figurines les scènes palpitantes de Dragons How To Train Your Dragon, le film de DreamWorks
-- COLLECTIONNEZ-LES TOUS - Ajoutez tous vos duos de dragons et dresseurs préférés à votre collection de héros, comme Harold et Krokmou, Astrid et Tempête, Varek et Gronk et bien dautres (vendus séparément) pour imaginer de toutes nouvelles aventures
 - STYLE FIDÈLE AU FILM - Chaque Pack Dragon & Viking de la série télévisée danimation How To Train Your Dragon raconte lhistoire de dragons et de vikings ; Les figurines DreamWorks Dragons sont identiques aux personnages du film
+- CADEAU ENFANT - Pour un anniversaire ou Noël, offrez le Pack Dragon & Viking Dragons How To Train Your Dragon à votre enfant ; faîtes redécouvrir à vos enfants lunivers de la série et du film danimation Dragons pour des heures de jeu formidables
+- COLLECTIONNEZ-LES TOUS - Ajoutez tous vos duos de dragons et dresseurs préférés à votre collection de héros, comme Harold et Krokmou, Astrid et Tempête, Varek et Gronk et bien dautres (vendus séparément) pour imaginer de toutes nouvelles aventures
+- DRAGON ET DRESSEUR ARTICULÉS - Votre duo prend la pose ; La figurine dresseur Varek possède des détails réalistes ainsi quune tête, des bras et des jambes articulés ; La figurine dragon Gronk possède des ailes mobiles et est articulée
 - FILM DRAGON HOW TO TRAIN YOUR DRAGON - Entrez dans lunivers fantastique de Dragon avec les figurines articulées Dragon & Viking ; Volez de l’autre côté du monde caché dans une fantastique aventure pour sauver les Dragons
 - JOUET ENFANT 4 ANS ET + - Le Pack Dragon & Viking Dragons convient aux enfants de 4 ans et + ; Les enfants adoreront le divertissement trépidant de leurs propres répliques réalistes Dragons ; jouet enfant 4 ans facile à prendre en main
 

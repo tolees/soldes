@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tissu de bain en nylon
+- Deux poches fendues sur les côtés
 - Taille élastique à cordon de serrage
 - Drapeau Tommy Hilfiger brodé sur la hanche
-- Deux poches fendues sur les côtés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FDH1Y3LH{{</world>}}

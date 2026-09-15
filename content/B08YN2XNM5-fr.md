@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Stable et durable : Le bras magique articulé est fabriqué en alliage daluminium et en acier inoxydable, solide avec une plus grande durabilité, anti-corrosion et résistant à labrasion
-- Compact et léger : ne pèse que 0,18 kg, le bras magique est léger et pratique à transporter dans une poche, parfait pour les événements intérieurs et extérieurs ; 15 cm de long avec une capacité de charge maximale de 2 kg.
 - Large angle de prise de vue : Deux têtes articulées à 360 degrés ajustent tous les angles en fonction de vos besoins, offrant une large gamme dhorizons de prise de vue. Un bouton pour verrouiller toutes les positions, facile à utiliser
 - Excellente compatibilité : la vis standard de 6,35 mm aux deux extrémités est compatible avec flash, lumière vidéo LED, microphone, moniteur LCD, super pince et autres accessoires avec trou de vis de 6,35 mm, tels que le cadre de fixation, la tige de 15 mm, la cage de téléphone/appareil photo, etc.
 - Design de coussin en caoutchouc : conçu avec un coussin en caoutchouc antidérapant sur le bas des deux extrémités pour éviter les rayures de l’écran ou de la lumière et aider à mieux verrouiller léquipement.
+- Compact et léger : ne pèse que 0,18 kg, le bras magique est léger et pratique à transporter dans une poche, parfait pour les événements intérieurs et extérieurs ; 15 cm de long avec une capacité de charge maximale de 2 kg.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YN2XNM5{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
 - Doublure textile
-- Tige en matière synthétique
-- Fermeture à lacets
 - Chaussant standard
+- Semelle extérieure en caoutchouc
+- Fermeture à lacets
+- Tige en matière synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C3JNR2Y4{{</world>}}

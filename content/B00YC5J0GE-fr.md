@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOS ANIMAUX SONT AUSSI NOTRE FAMILLE : Pour préserver le bien-être de nos compagnons, Beaphar donne accès à des soins et des produits de qualité à prix abordables à tous les propriétaires d’animaux
 - CONSEILS D’UTILISATION : Appliquer l’après-shampoing de Beaphar pour chien sur son pelage préalablement lavé, et masser. Laisser agir 2-3 min, brosser puis rincer abondamment et sécher
-- UN PELAGE HYDRATÉ : Grâce à ses ingrédients, cet après-shampoing nourrit, hydrate le pelage de votre chien et possède des propriétés réparatrices. Il laisse un pelage soyeux et délicatement parfumé
 - COMPOSITION : Cet après-shampoing contient de l’huile de pépins de raisins (riche en vitamine E) et des extraits de fraise (riche en vitamine C et A) adoucissant et protégeant le pelage des chiens
+- UN PELAGE HYDRATÉ : Grâce à ses ingrédients, cet après-shampoing nourrit, hydrate le pelage de votre chien et possède des propriétés réparatrices. Il laisse un pelage soyeux et délicatement parfumé
 - BONNE SANTÉ DU POIL : Élaboré par nos vétérinaires, cet après-shampoing pour chien prend soin des pelages fragiles et les protège du dessèchement. Il rend le pelage plus doux et plus brillant
+- NOS ANIMAUX SONT AUSSI NOTRE FAMILLE : Pour préserver le bien-être de nos compagnons, Beaphar donne accès à des soins et des produits de qualité à prix abordables à tous les propriétaires d’animaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00YC5J0GE{{</world>}}

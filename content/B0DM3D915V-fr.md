@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Membrane imperméable GORE-TEX Invisible Fit
-- Tige respirante et protectrice
+- Amorti DNA LOFT v3
 - Idéal pour les courses sur route sous la pluie
 - Prise en charge des GuideRails pour une stabilité ciblée
-- Amorti DNA LOFT v3
+- Tige respirante et protectrice
+- Membrane imperméable GORE-TEX Invisible Fit
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DM3D915V{{</world>}}

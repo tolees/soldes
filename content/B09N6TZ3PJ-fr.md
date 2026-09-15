@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cuir classique
 - marque : reebok
 - fabricant : reebok
+- Cuir classique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09N6TZ3PJ{{</world>}}

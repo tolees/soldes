@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pull/Sweater
 - Classique
+- Pull/Sweater
 - 50% Coton Recyclé Ecotec, 50% Polyester recyclé
-- Lavage machine à 30° avec des couleurs similaires sur cycle délicat ou laine / pas de blanchiment / séchage à plat pas de séchage en tambour ménager / repassage fer doux / pas de nettoyage à sec
-- Manche longue
 - Fermeture éclair
+- Manche longue
+- Lavage machine à 30° avec des couleurs similaires sur cycle délicat ou laine / pas de blanchiment / séchage à plat pas de séchage en tambour ménager / repassage fer doux / pas de nettoyage à sec
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084ZGHNQJ{{</world>}}

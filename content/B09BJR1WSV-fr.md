@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Large 7-inch viewfinder with 600 nits
 - 3840 x 2160 (Ultra HD) up to 60 fps
 - Specially designed for live production
-- Large 7-inch viewfinder with 600 nits
 - Caméra de studio
 
 [🛒 Achète-le!!]({{< param buyurl >}})

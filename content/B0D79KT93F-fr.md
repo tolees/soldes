@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- FF BLAST+ Eco léger et réactif
 - Version Trail avec adhérence améliorée
 - Semelle extérieure à crampons pour une meilleure adhérence sur les chemins de terre
-- FF BLAST+ Eco léger et réactif
-- PureGEL pour une absorption des chocs efficace
 - Idéal pour les itinéraires mixtes route-chemin
+- PureGEL pour une absorption des chocs efficace
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D79KT93F{{</world>}}

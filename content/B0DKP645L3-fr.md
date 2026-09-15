@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AI features: Gemini
-- Système de caméra AI 108MP avec OIS ;
 - Charge turbo de 45W avec batterie de 5110mAh ;
+- Système de caméra AI 108MP avec OIS ;
+- AI features: Gemini
 - Écran de soins oculaires de 120 Hz, luminosité maximale de 2100 nits, verre Corning Gorilla 5 ;
 - MédiaTekDimensity 7025-Ultra, technologie de processus de fabrication de 6 nm ;
 

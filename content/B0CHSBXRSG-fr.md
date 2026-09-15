@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Numéro de modèle : CMP5AGTFING
-- Poids de larticle : 0 kg
 - Le kit daccessoires DOMINATOR TITANIUM Fin comprend une paire de barres supérieures conçues pour changer radicalement lesthétique de votre DOMINATOR TITANIUM DDR5 DRAM.
+- Poids de larticle : 0 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHSBXRSG{{</world>}}

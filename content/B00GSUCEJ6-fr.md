@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nous disons non aux tests sur les animaux. Cosnova est cotée au niveau international avec essence et CATRICE chez PETA Germany et PETA.
 - La sœur folle du mascara love extreme, pour encore plus de volume
+- Nous disons non aux tests sur les animaux. Cosnova est cotée au niveau international avec essence et CATRICE chez PETA Germany et PETA.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GSUCEJ6{{</world>}}

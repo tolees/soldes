@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manche longue
-- Fermeture: Fermeture éclair
 - 100% Polyester
-- Hand Wash Only
 - Slim
+- Hand Wash Only
+- Fermeture: Fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W4SWZ46{{</world>}}

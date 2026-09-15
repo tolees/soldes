@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Encre grise, soluble à leau
+- Pointe acrylique moyenne de 2mm résistante
 - Feutre décriture et de dessin
 - Couleurs vives
-- Pointe acrylique moyenne de 2mm résistante
-- Encre grise, soluble à leau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CJT7LH0{{</world>}}

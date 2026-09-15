@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- argenté
 - Durable
+- argenté
 - Pandora
 - Produit de haute qualité
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
 - Chaussant standard.
 - Tige textile avec bout renforcé.
 - Semelle intermédiaire en EVA.
+- Doublure textile.
 - Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - EN TOUTE OCCASION : ce modèle casual est très agréable à porter. Au quotidien ou pendant le sport. Le logo Tommy Hilfiger sur la poitrine attire tous les regards.
+- MATIÈRE ET ENTRETIEN : 100 % coton régénératif. Lavage en machine.
 - UNE QUALITÉ ÉPROUVÉE : Connue dans le monde entier pour sa qualité et sa simplicité, la marque propose depuis 1985 un vaste choix de modèles déclinés dans les célèbres coloris bleu foncé, blanc et rouge.
 - ICONIQUE ET INTEMPOREL : ce modèle signé Tommy Hilfiger séduit par ses lignes décontractées. Il est très apprécié grâce à sa matière souple et à sa coupe classique.
-- MATIÈRE ET ENTRETIEN : 100 % coton régénératif. Lavage en machine.
 - EXCELLENT CONFORT : ce sweat à capuche indémodable, avec cordon de serrage convient à tous types de corps. Jeunes ou moins jeunes, tous aimeront le recevoir en cadeau.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

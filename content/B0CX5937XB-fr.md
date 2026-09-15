@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Boitier en de taille small + (36mm) avec bracelet en plastique.
 - Plongez dans un monde de douceur avec la ICE cosmos - Vanilla. Une teinte beige délicate sublimée par des cristaux chatoyants dans des tons de bleu, de beige et de blanc, évoquant la sérénité dun ciel étoilé baigné par la lueur de la lune.
-- Collection ICE cosmos
 - Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée.
 - Livré avec un manuel dinstructions et une boîte de présentation.
+- Collection ICE cosmos
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CX5937XB{{</world>}}

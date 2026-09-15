@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu de la boîte: coque de protection et câble USB type-C vers USB type-C
-- Caméra 50 MP avec IA pour des photos exceptionnelles
 - Assistant personnel à portée de main avec Moto AI
 - Résistant (IP48) et endurant avec batterie longue durée
+- Caméra 50 MP avec IA pour des photos exceptionnelles
 - Ecran externe intelligent 3,6 ’’/ Interne : 6.9 “
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

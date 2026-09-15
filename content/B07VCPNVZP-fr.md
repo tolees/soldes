@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîte ronde en acier inoxydable avec un cadran noir
 - Résistant à leau jusquà 30 m: résistera aux éclaboussures dans leau
+- Boîte ronde en acier inoxydable avec un cadran noir
 - Bracelet noire en acier inoxydable
 - 43mm boîtier, 22mm largeur de bracelet, cristal minéral, mouvement chronographe à quartz, importé
 

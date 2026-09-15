@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mécaniques En Ligne
 - Tête, Corps Et Clés Argentés
 - Étui "Light"
 - Plateaux Creux
+- Mécaniques En Ligne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00HJGVF3E{{</world>}}

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Boîtier
-- - Forme de la Boîtier: Rectangulaire
 - - Matérial de la Boîtier: Acier inoxydable
 - - Couleur de la Boîte: Or
+- - Forme de la Boîtier: Rectangulaire
 - - Verre: Acrylique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

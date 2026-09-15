@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
 - Âge recommandé : à partir de 12 ans
-- Casse-tête de 1000 pièces
+- Puzzles haut de gamme SCHMIDT SPIELE – avec une qualité que vous pouvez comprendre
 - Puzzlemaße: 69,3 x 49,3 cm
+- Casse-tête de 1000 pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQ17P9MF{{</world>}}

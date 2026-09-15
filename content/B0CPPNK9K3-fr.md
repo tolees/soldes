@@ -28,19 +28,19 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOMBRE DE POCHETTES : 20 - cristal lisse haute transparence pour une lecture parfaite des documents et un confort dans linsertion des feuilles
+- NOMBRE DE VUES : 40
+- Couleur aléatoire : bleu pastel, corail, jaune, mauve, vert pastel.
 - Épaisseur: 5/10E
-- DIMENSIONS : 24 x 32 cm pour documents au format A4 - appelés également porte-vues ou reliures, les protège-documents permettent de feuilleter aisément des documents.
-- COULEURS ALÉATOIRES : bleu pastel, corail, jaune, mauve, vert pastel
-- ASTUCE : pour choisir votre protège-documents, identifiez le nombre de pages de votre dossier et choisissez la capacité en conséquence. 1 pochette = 2 vues (recto et verso)
-- COUVERTURE : en polypropylène recyclé translucide semi-rigide 5/10ème
+- NOMBRE DE POCHETTES : 20 - cristal lisse haute transparence pour une lecture parfaite des documents et un confort dans linsertion des feuilles
 - A la suite du succès de la gamme Chromaline très populaire en scolaire comme en bureau, Exacompta lance Chromaline pastel, un assorti de couleurs douces pour une ambiance zen et hygge.
 - Pour le home office ou le scolaire, retrouvez les incontournables du classement en polypropylène translucide dans des couleurs tendance assorties à la gamme Aquarel.
+- ASTUCE : pour choisir votre protège-documents, identifiez le nombre de pages de votre dossier et choisissez la capacité en conséquence. 1 pochette = 2 vues (recto et verso)
 - A la suite du succès de la gamme Chromaline très populaire en scolaire comme en bureau, Exacompta lance Chromaline pastel, un assorti de couleurs douces pour une ambiance zen et hygge.
-- NOMBRE DE VUES : 40
+- COULEURS ALÉATOIRES : bleu pastel, corail, jaune, mauve, vert pastel
 - Couverture souple translucide. Pochettes cristal lisse haute transparence. 40 vues / 20 pochettes.
-- Couleur aléatoire : bleu pastel, corail, jaune, mauve, vert pastel.
+- DIMENSIONS : 24 x 32 cm pour documents au format A4 - appelés également porte-vues ou reliures, les protège-documents permettent de feuilleter aisément des documents.
 - Appelés également porte-vues ou reliures, les protèges documents permettent de feuilleter aisément des documents au format A4.
+- COUVERTURE : en polypropylène recyclé translucide semi-rigide 5/10ème
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPPNK9K3{{</world>}}

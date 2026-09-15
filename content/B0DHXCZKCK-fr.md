@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
+- Fermeture à lacets
 - Tige textile
+- Doublure textile
+- Chaussant standard
+- Poids : 246 grammes (pointure FR 42 2/3)
 - Semelle extérieure en caoutchouc
 - Drop semelle intermédiaire : 6 mm (talon 27 mm/avant-pied 21 mm)
-- Fermeture à lacets
-- Doublure textile
-- Poids : 246 grammes (pointure FR 42 2/3)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHXCZKCK{{</world>}}

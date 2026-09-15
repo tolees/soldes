@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Standard
+- Patte à trois boutons
 - Col polo
 - Piqué de pur coton
-- Patte à trois boutons
+- Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FDL5V7MH{{</world>}}

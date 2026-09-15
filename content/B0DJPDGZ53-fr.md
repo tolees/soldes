@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE 3 EN 1 : - Apaise - Répare - Hydrate les couches superficielles de la peau.
 - CONSEILS DUTILISATION : Appliquer Osmo Soft 2 à 3 fois par jour sur la peau exposée. Précautions demploi : Appliquer sur peau saine. Tenir hors de portée des enfants. Conservation : Ne pas exposer à une source de chaleur directe. Ne pas dépasser la date limite dutilisation.
 - OSMO SOFT : Une technologie innovante pour réparer les peaux echauffées
+- FORMULE 3 EN 1 : - Apaise - Répare - Hydrate les couches superficielles de la peau.
 - GEL pour apaiser les peaux échauffées. Osmo Soft est un gel réparateur destiné aux peaux agressées et déshydratées après une exposition prolongée au soleil. Apaise immédiatement, répare les peaux échauffées, hydrate les couches superficielles de la peau. Gel frais non collant qui permet de se rhabiller immédiatement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

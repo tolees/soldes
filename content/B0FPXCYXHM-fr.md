@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CADEAU POUR FANS DE VOITURES – Ce jouet Flash McQueen offre une expérience de construction en famille et de jeu gratifiante et constitue une superbe idée de cadeau pour un garçon ou une fille dès 9 ans
-- MAQUETTE CARS À LÉCHELLE DUNE MINIFIGURINE – Après la construction amusante de ce set collector Flash McQueen, les enfants peuvent lexposer fièrement comme décoration sur une étagère ou un bureau
 - CHÂSSIS DÉTAILLÉ – Ce modèle de Flash McQueen est la seule voiture LEGO Speed Champions dotée d’un châssis détaillé, pour un jeu encore plus passionnant
-- DÉVELOPPEZ LA PASSION DE LA COURSE – Découvrez dautres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques
+- MAQUETTE CARS À LÉCHELLE DUNE MINIFIGURINE – Après la construction amusante de ce set collector Flash McQueen, les enfants peuvent lexposer fièrement comme décoration sur une étagère ou un bureau
 - VOITURE JOUET ROUGE FLASH McQUEEN DU FILM CARS – Les enfants dès 9 ans peuvent célébrer le 20ème anniversaire du film Cars de Disney Pixar avec le jouet de construction LEGO Speed Champions|Flash McQueen
 - DESIGN & ACCESSOIRES AUTHENTIQUES – La réplique reprend des caractéristiques, dont le sourire de Flash, léclair jaune & orange, les autocollants de phares, le numéro 95, le logo du sponsor Rust-eze et l’inscription « Lightyear » sur les pneus
+- CADEAU POUR FANS DE VOITURES – Ce jouet Flash McQueen offre une expérience de construction en famille et de jeu gratifiante et constitue une superbe idée de cadeau pour un garçon ou une fille dès 9 ans
+- DÉVELOPPEZ LA PASSION DE LA COURSE – Découvrez dautres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques
 - VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

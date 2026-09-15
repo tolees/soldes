@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Il y a des mini-jeux aussi, beaucoup de mini jeux.
-- Non, mais vraiment, il y a tellement de chèvres. Trouvez sabot à votre pied en arborant le skin de la grande chèvre, de la chèvre à rayures et bien d’autres !
 - Cette édition contient tous les DLCs de Goat Simulator 3
-- Ils ont même ajouté un tas de contenu supplémentaire depuis la sortie du jeu, petits chanceux !
 - Vous pouvez être une chèvre. Trois de vos amis peuvent aussi être des chèvres et vous rejoindre en coop locale ou en ligne.
+- Ils ont même ajouté un tas de contenu supplémentaire depuis la sortie du jeu, petits chanceux !
+- Non, mais vraiment, il y a tellement de chèvres. Trouvez sabot à votre pied en arborant le skin de la grande chèvre, de la chèvre à rayures et bien d’autres !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GVZ93M33{{</world>}}

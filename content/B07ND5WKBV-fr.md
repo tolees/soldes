@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Smart 360 Flex Chino Tapered
 - BCI, WATERLESS
+- Smart 360 Flex Chino Tapered
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ND5WKBV{{</world>}}

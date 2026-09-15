@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROTECTION CONTRE LA CHALEUR : sérum capillaire pour cheveux secs et frisés, aide à protéger des UVs et de la chaleur (230°C), garantit 96 heures sans frisottis et laisse les cheveux soyeux et brillants.
-- CONSEIL DUTILISATION : Appliquez 1 à 3 pressions dans la paume de vos mains et répartissez uniformément des longueurs jusqu’aux pointes sur cheveux humides ou secs. Peignez. Ne pas rincer. Attendez 30 secondes avant de coiffer et ajoutez une petite quantité sur cheveux secs après le coiffage pour contrôler les frisottis.
-- PARFUM FLORAL : Avec des notes de jasmin, de vanille, de bergamote, de pêche et de bois de santal, c’est un véritable bouquet floral qui parfume vos cheveux à chaque utilisation.
 - RITUEL DE SOIN CAPILLAIRE : Pour des résultats optimaux, utiliser le Sérum Huile Miracle avec le shampoing, l’après-shampoing ou le masque ULTIMATE SMOOTH. Le résultat : Jusqu’à 2x moins de frisottis en utilisant la routine complète.
+- PARFUM FLORAL : Avec des notes de jasmin, de vanille, de bergamote, de pêche et de bois de santal, c’est un véritable bouquet floral qui parfume vos cheveux à chaque utilisation.
 - cheveux bouclés soin cheveux vanille pêche parfum cheveux squalane cheveux ondulés cheveux fins coiffeur bois de santal masque capillaire cheveux colorés cheveux frisés bergamote jasmin salon de coiffure cheveux afro cadeau beauté cheveux frisés lisse les cheveux cheveux secs cheveux longs
+- CONSEIL DUTILISATION : Appliquez 1 à 3 pressions dans la paume de vos mains et répartissez uniformément des longueurs jusqu’aux pointes sur cheveux humides ou secs. Peignez. Ne pas rincer. Attendez 30 secondes avant de coiffer et ajoutez une petite quantité sur cheveux secs après le coiffage pour contrôler les frisottis.
+- PROTECTION CONTRE LA CHALEUR : sérum capillaire pour cheveux secs et frisés, aide à protéger des UVs et de la chaleur (230°C), garantit 96 heures sans frisottis et laisse les cheveux soyeux et brillants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQ1CJJ7N{{</world>}}

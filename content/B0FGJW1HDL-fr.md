@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La puissance lumineuse atteint 1 000 lumens avec une portée de 200 mètres et une autonomie de 22 heures. Elle est alimentée par une pile au lithium certifiée UL 1642, intégrée dans notre technologie de sécurité avancée pour assurer une sécurité et une durabilité maximales.
+- La lampe de poche est étanche à leau et à la poussière (IP67) et résiste aux chocs. Elle résiste à une profondeur deau de 1 m pendant 30 minutes et à des chutes dune hauteur maximale de 2 m. Pour protéger le port USB-C de la poussière et de leau, il est intégré et caché dans lembout. Une LED indique la capacité de la batterie et lactivité de charge. Pour recharger, il suffit dutiliser le port USB-C intégré.
+- La LED haute performance offre 5 modes déclairage (turbo, haut, moyen, bas, stroboscopique). Avec le système de mise au point de précision, le faisceau lumineux peut être ajusté de manière fluide du mode focalisé au mode large afin de sadapter parfaitement à chaque situation
 - Contenu de lemballage : VARTA Night Cutter Pro F20R (incl. lanyard), pas de câble USB-C inclus
 - La Night Cutter Pro F20R de VARTA est une lampe torche rechargeable haut de gamme en aluminium de qualité aéronautique, au design élégant et aux caractéristiques de robustesse et de durabilité. Elle est donc parfaite dans toutes les situations, que ce soit pour une promenade nocturne, pour la maison ou pour toute autre activité de plein air.
-- La LED haute performance offre 5 modes déclairage (turbo, haut, moyen, bas, stroboscopique). Avec le système de mise au point de précision, le faisceau lumineux peut être ajusté de manière fluide du mode focalisé au mode large afin de sadapter parfaitement à chaque situation
-- La lampe de poche est étanche à leau et à la poussière (IP67) et résiste aux chocs. Elle résiste à une profondeur deau de 1 m pendant 30 minutes et à des chutes dune hauteur maximale de 2 m. Pour protéger le port USB-C de la poussière et de leau, il est intégré et caché dans lembout. Une LED indique la capacité de la batterie et lactivité de charge. Pour recharger, il suffit dutiliser le port USB-C intégré.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FGJW1HDL{{</world>}}

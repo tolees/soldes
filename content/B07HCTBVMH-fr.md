@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour découvrir des sons et des effets visuels en manipulant chacune des touches de formes, couleurs et textures différentes.
 - 3 modes de jeux: sons & bruits, musique et mode "suis-moi".Sons et bruits: l’enfant découvre des sons et des effets visuels en manipulant chacune des grosses touches.Musiques: l’enfant va déclencher des séquences musicales qui, mises bout à bout vont créer une musique complète."Suis-moi": la base colorée de chacun des tubes s’illumine successivement et d’une façon Aléatoire pour inciter bébé à manipuler les touches de même couleur et découvrir les différents sons.
-- La balle guide lenfant en sautant de tube en tube, en fonction de ses manipulations.
-- Linstrument idéal pour stimuler léveil des sens par la musique.
 - 4 effets lumineux, 13 effets sonores, 4 instruments de musique et 1 chanson.
+- La balle guide lenfant en sautant de tube en tube, en fonction de ses manipulations.
+- Pour découvrir des sons et des effets visuels en manipulant chacune des touches de formes, couleurs et textures différentes.
+- Linstrument idéal pour stimuler léveil des sens par la musique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HCTBVMH{{</world>}}

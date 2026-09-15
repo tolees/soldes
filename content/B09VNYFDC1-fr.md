@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux compartiments principaux
-- Poche de rangement avant zippée
-- 100 % polyester recyclé 600 deniers
 - Housse rembourrée pour ordinateur portable 15 inch
+- Deux compartiments principaux
+- 100 % polyester recyclé 600 deniers
+- Poche de rangement avant zippée
 - Poche utilitaire avant avec organiseur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle Vibram Chameleon Sport Sandal/caoutchouc TC5+ Pointures Royaume
-- Système de fermeture velcro pour un réglage rapide
-- Bras de stabilité du talon Semelle intermédiaire/extérieure
-- Tige en daim
-- Doublure en Lycra et néoprène traitée avec la solution antimicrobienne Aegis pour un confort matelassé
 - CARACTÉRISTIQUES Tige/Doublure
+- Bras de stabilité du talon Semelle intermédiaire/extérieure
+- Doublure en Lycra et néoprène traitée avec la solution antimicrobienne Aegis pour un confort matelassé
+- Tige en daim
+- Système de fermeture velcro pour un réglage rapide
+- Semelle Vibram Chameleon Sport Sandal/caoutchouc TC5+ Pointures Royaume
 - Le coussin dair Merrell Air Cushion intégré dans le talon absorbe les chocs et améliore la stabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

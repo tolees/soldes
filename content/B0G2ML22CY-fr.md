@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire rembourrée pour un confort durable.
 - Tige synthétique légère pour une plus grande agilité.
+- Semelle intermédiaire rembourrée pour un confort durable.
 - Semelle extérieure en caoutchouc pour une adhérence optimale sur les surfaces intérieures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

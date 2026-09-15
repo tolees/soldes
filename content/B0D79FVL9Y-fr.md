@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : 100 % tissu (100 % PET recyclé)
-- Doublure : 63 % cuir de porc - 37 % tissu (100 % polyester recyclé)
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
+- Doublure : 63 % cuir de porc - 37 % tissu (100 % polyester recyclé)
 - Couleur : bleu marine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

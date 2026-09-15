@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéales aussi pour des mailings originaux, et pour toute type dévènements spéciaux: mariage, naissance, anniversaire.
-- Afin de personnaliser des cadeaux, des invitations, des bouteilles de vin, utilisez les nouvelles étiquettes couleurs crème
-- Nombre détiquettes: 360
 - Format: 63,5 x 42,3
+- Nombre détiquettes: 360
+- Afin de personnaliser des cadeaux, des invitations, des bouteilles de vin, utilisez les nouvelles étiquettes couleurs crème
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008EGKYR6{{</world>}}

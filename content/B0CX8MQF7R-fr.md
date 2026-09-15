@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Essayez la fonctionnalité Couleur de la page pour inverser le noir du texte et le blanc de larrière-plan des pages dans vos livres. Bien que différente du mode sombre, cette fonctionnalité permet une lecture confortable, tout en affichant les images et couvertures en couleur.
-- Lisez en couleur : avec son contraste élevé et ses couleurs fidèles au papier, le nouvel écran Colorsoft 7" met en valeur le contenu et la couverture de vos livres, et vous permet de lire sans vous fatiguer les yeux.
-- Dévorez vos livres sans interruption : une seule charge via USB-C vous offre jusquà 8 semaines dautonomie.
-- Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
 - Mettez vos pages en couleur : surlignez vos passages préférés en jaune, orange, bleu ou rose.
-- Large sélection : accédez instantanément à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour bénéficier dun accès à un catalogue encore plus vaste de contenu, dont des best-sellers.
+- Une nouvelle expérience : lécran Kindle Colorsoft est optimisé pour une lecture en couleur et présente des différences avec lécran de Kindle Paperwhite qui est, quant à lui, optimisé pour une lecture en noir et blanc.
 - Résistance à leau et tranquillité desprit : lisez à la piscine, dans votre bain ou partout où vous voulez.
 - Lisez dans toutes les conditions déclairage : ajustez laffichage de blanc à ambre pour pouvoir lire au soleil ou dans le noir.
+- Large sélection : accédez instantanément à des millions de titres dans la boutique Kindle et ajoutez un abonnement Kindle pour bénéficier dun accès à un catalogue encore plus vaste de contenu, dont des best-sellers.
+- Dévorez vos livres sans interruption : une seule charge via USB-C vous offre jusquà 8 semaines dautonomie.
+- Lisez en couleur : avec son contraste élevé et ses couleurs fidèles au papier, le nouvel écran Colorsoft 7" met en valeur le contenu et la couverture de vos livres, et vous permet de lire sans vous fatiguer les yeux.
+- Essayez la fonctionnalité Couleur de la page pour inverser le noir du texte et le blanc de larrière-plan des pages dans vos livres. Bien que différente du mode sombre, cette fonctionnalité permet une lecture confortable, tout en affichant les images et couvertures en couleur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CX8MQF7R{{</world>}}

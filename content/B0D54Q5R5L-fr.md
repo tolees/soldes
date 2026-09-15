@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce jean est réalisé avec notre technologie Levis Eco Ease. Pourquoi Eco ? Contient du coton de culture bio. Pourquoi Ease ? Une merveille de confort et de stretch
-- Relativement étroit du bassin à la cuisse, sans excès pour bouger aisément
 - LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
+- Relativement étroit du bassin à la cuisse, sans excès pour bouger aisément
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D54Q5R5L{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compacte et légère : la pompe à air sans fil EasyInflate 18V-500 convient en intérieur comme à lextérieur
 - Contenu de la livraison : EasyInflate 18V-500, 1 batterie 2,0 Ah, chargeur AL 18V-20, 3 buses, 1 tuyau flexible, 1 sac en tissu, livré dans un carton
 - Gonflage et dégonflage sans effort grâce à un débit de sortie maximal de 530 l/min
 - Pompe polyvalente : grâce aux 3 buses, elle permet de gonfler divers objets tels que des bouées de piscine ou des bateaux et matelas pneumatiques
+- Compacte et légère : la pompe à air sans fil EasyInflate 18V-500 convient en intérieur comme à lextérieur
 - Fonctionnement pratique : interrupteur marche/arrêt facile dutilisation et tuyau flexible de 50 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

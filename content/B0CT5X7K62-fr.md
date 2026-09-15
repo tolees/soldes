@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches haut: Poches zippées
-- Poignets à bouton fonctionnel
 - Regular fit
 - Fermeture haut: Fermeture par zip et bouton
+- Poignets à bouton fonctionnel
+- Poches haut: Poches zippées
 - Nombre de boutons: 4 boutons ou plus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

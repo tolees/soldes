@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dessus en cuir de porc et maille
 - La languette à soufflet empêche les débris dentrer
-- Lacets, sangles et doublure en maille 100 % recyclés
 - Embout de protection et semelle en caoutchouc Vibram TC5+
+- Lacets, sangles et doublure en maille 100 % recyclés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09FNQYFDN{{</world>}}

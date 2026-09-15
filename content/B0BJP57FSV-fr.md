@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alarme avec volume réglable et choix de sonneries inspirées de lunivers Super Mario.
-- Écran LCD digital avec rétro-éclairage temporaire.
 - Un réveil au style super cool avec sa figurine Yoshi.
 - Facile à utiliser : appuyez sur le dessus du réveil ou de Yoshi pour éteindre l’alarme.
 - Bouton pour déclencher des effets sonores du monde de Mario super chouettes (bruits de sauts, pièces etc...).
+- Écran LCD digital avec rétro-éclairage temporaire.
+- Alarme avec volume réglable et choix de sonneries inspirées de lunivers Super Mario.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BJP57FSV{{</world>}}

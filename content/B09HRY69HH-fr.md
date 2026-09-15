@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance 900-1100W; AC 220-240V-50 / 60Hz dalimentation
-- Lumière LED pour léclairage
-- Commutateur de commutation de libération automatique
 - Résistance cachée
-- Pichet en verre gradué; Capacité 1L
 - Filtre Inox amovible pour thé et tisanes
+- Pichet en verre gradué; Capacité 1L
+- Puissance 900-1100W; AC 220-240V-50 / 60Hz dalimentation
+- Commutateur de commutation de libération automatique
+- Lumière LED pour léclairage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HRY69HH{{</world>}}

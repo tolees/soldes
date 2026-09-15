@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussette moulée amovible, offrant un soutien.
 - Baskets Girly FILA avec lADN FILA typique. Détails : couche supplémentaire à la languette pour guider et couvrir partiellement les lacets, avec le logo F.
+- Chaussette moulée amovible, offrant un soutien.
 - Anneaux en D en métal coloré pour guider les lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

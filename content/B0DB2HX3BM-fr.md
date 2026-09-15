@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Visière préformée.
 - Logo Mercedes - AMG Petronas Formula One Team.
 - 100 % polyester (recyclé).
-- Visière préformée.
 - Patte arrière réglable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

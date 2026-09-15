@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée criss crosssharpening technologie
-- Diamant pour roues de fraise sans bord
 - Convient pour des couteaux européens et asiatiques style
+- Diamant pour roues de fraise sans bord
+- Poignée criss crosssharpening technologie
 - Convient pour droite et bord dentelé couteaux
 - 3 étapes processus daiguisage
 

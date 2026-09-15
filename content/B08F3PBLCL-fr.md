@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Texas Instruments TI
 - T Python Edition Graphing Calculator
 - 84 Plus CE
-- Texas Instruments TI
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08F3PBLCL{{</world>}}

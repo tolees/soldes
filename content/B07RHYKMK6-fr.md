@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Montre analogique quartz pour homme.
-- Bracelet de acier inoxydable, couleur gris, avec fermeture double bouton poussoir.
 - Boîtier round de acier inoxydable, couleur gris.
+- Bracelet de acier inoxydable, couleur gris, avec fermeture double bouton poussoir.
+- Montre analogique quartz pour homme.
 - Résistance à leau: 10 atm.
 - Cadran round en couleur noir en verre minéral.
 

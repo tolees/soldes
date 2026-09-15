@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plat
-- Scratch
-- Cuir
 - Moyen
+- Cuir
+- Scratch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07ST2HKVT{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ☑️ SÉCURITÉ ET DURABILITÉ : Les moustiques et moustiques tigres sont porteurs de virus dangereux tels que la Dengue, le Zika et d’autres. Le piège BG-Mosquitaire est spécialement conçu pour capturer ces espèces sans utiliser d’insecticides, couvrant une surface d’environ 300 m².
-- ☑️ COMPLÉMENTARITÉ : Les moustiques sont attirés par le CO₂ expiré par l’homme. Le piège d’extérieur BG-Mosquitaire peut être rendu encore plus efficace en l’utilisant avec du CO₂. Le CO₂ attire toutes les espèces de moustiques, augmente les captures par 5 et étend la zone couverte à environ 700 m². Pour ajouter du CO₂, équipez le piège des accessoires vendus séparément : BG-Booster et BG-CO₂ Timer, reliés à une bouteille de gaz CO₂ (non incluse).
-- ☑️ EFFICACITÉ PROUVÉE : Biogents est la marque n°1 en France et n°1 en efficacité* (*sur le marché des pièges à moustiques). Branchez simplement le piège et laissez-le fonctionner 24h/24 pour capturer en continu les moustiques avant qu’ils ne piquent.
 - ☑️ LE PIÈGE BG MOSQUITAIRE COMPREND : Piège anti-moustiques d’extérieur BG-Mosquitaire, deux sacs de capture, une alimentation extérieure et un attractif BG-Sweetscent (efficace 2 mois).
+- ☑️ EFFICACITÉ PROUVÉE : Biogents est la marque n°1 en France et n°1 en efficacité* (*sur le marché des pièges à moustiques). Branchez simplement le piège et laissez-le fonctionner 24h/24 pour capturer en continu les moustiques avant qu’ils ne piquent.
+- ☑️ COMPLÉMENTARITÉ : Les moustiques sont attirés par le CO₂ expiré par l’homme. Le piège d’extérieur BG-Mosquitaire peut être rendu encore plus efficace en l’utilisant avec du CO₂. Le CO₂ attire toutes les espèces de moustiques, augmente les captures par 5 et étend la zone couverte à environ 700 m². Pour ajouter du CO₂, équipez le piège des accessoires vendus séparément : BG-Booster et BG-CO₂ Timer, reliés à une bouteille de gaz CO₂ (non incluse).
+- ☑️ SÉCURITÉ ET DURABILITÉ : Les moustiques et moustiques tigres sont porteurs de virus dangereux tels que la Dengue, le Zika et d’autres. Le piège BG-Mosquitaire est spécialement conçu pour capturer ces espèces sans utiliser d’insecticides, couvrant une surface d’environ 300 m².
 - ☑️ PIÈGES À MOUSTIQUES BIOGENTS EFFICACES : Grâce à nos produits, vous pouvez contrôler avec succès le nombre de moustiques dans votre jardin. Luttez contre les moustiques de manière écologique et ciblée !
 - ☑️ TECHNOLOGIE AVANCÉE : Scientifiquement prouvé, le piège BG-Mosquitaire attire les moustiques tigres en imitant l’odeur humaine et les capture sans insecticides.
 

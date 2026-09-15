@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - MODÈLE TEDDY ROCK : Ta poupée passionnée de musique, au look audacieux inspiré de lunivers kawaii.
-- STYLE : Elle porte un t-shirt noir orné dun motif Hello Kitty et une jupe décorée de notes de musique pour un style rock. Ses manches rayées lui ajoutent une touche punk, tandis que ses chaussures roses apportent une note pétillante !
-- POUPÉE ARTICULÉE : 15 points darticulation, permettant des centaines de poses possibles pour imaginer des histoires toujours plus créatives et encore plus de réalisme !
 - TAILLE : Mesure 20 cm.
-- AGE : Pour les enfants à partir de 4 ans.
-- 3 AUTRES MODÈLES DISPONIBLES : Golden Diva (la rebelle), Candy Unicorn (qui incarne la douceur) et Pretty Pink (la plus mignonne). Collectionne-les tous !
+- POUPÉE ARTICULÉE : 15 points darticulation, permettant des centaines de poses possibles pour imaginer des histoires toujours plus créatives et encore plus de réalisme !
 - HELLO KITTY 4SF - FOR SUPER FANS : Replonge dans lunivers kawaï de Hello Kitty avec cette gamme inédite de poupées articulées au style unique, inspiré de lemblématique personnage.
+- STYLE : Elle porte un t-shirt noir orné dun motif Hello Kitty et une jupe décorée de notes de musique pour un style rock. Ses manches rayées lui ajoutent une touche punk, tandis que ses chaussures roses apportent une note pétillante !
+- 3 AUTRES MODÈLES DISPONIBLES : Golden Diva (la rebelle), Candy Unicorn (qui incarne la douceur) et Pretty Pink (la plus mignonne). Collectionne-les tous !
+- AGE : Pour les enfants à partir de 4 ans.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DYK2TS7H{{</world>}}

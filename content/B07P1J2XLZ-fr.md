@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du talon : 2 cm
 - Matériau extérieur : cuir
-- Matériau intérieur : synthétique
 - Forme du talon : plat
+- Hauteur du talon : 2 cm
 - Semelle : caoutchouc
+- Matériau intérieur : synthétique
 - Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

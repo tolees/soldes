@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- il assure un ajustement optimal
-- il sagit dun produit authentique et original PUMA
 - Confortable à porter
+- il assure un ajustement optimal
 - Ce style a été produit de manière durable
+- il sagit dun produit authentique et original PUMA
 - Idéal pour toutes les occasions et toutes les saisons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Âge recommandé : 14 ans | Nombre de joueurs : 1-5 | Temps estimé : 90 min | Édition en italien
-- La saison 4 élargit laction de Cthulhu : Death May Die et de peur de lincongné, amenant la folie dans des endroits encore inexplorés…
 - Les épisodes de la saison 4 vous emmèneront dans des terres lointaines : des sables dÉgypte à un varc qui traverse des dimensions aliennes ; du ciel au-dessus des nuages à bord dun Zeppelin, à lhortorique ville de Dunwich
+- La saison 4 élargit laction de Cthulhu : Death May Die et de peur de lincongné, amenant la folie dans des endroits encore inexplorés…
 - Les cultistes ont de nouvelles ressources à disposition et sont à un pas de compléter le rituel avec lequel ils évoqueront un grand Ancien dans notre réalité
+- Âge recommandé : 14 ans | Nombre de joueurs : 1-5 | Temps estimé : 90 min | Édition en italien
 - Cette extension comprend 6 nouveaux enquêteurs et 6 nouveaux épisodes, et introduit des créatures inimaginables provenant de notre et dautres mondes ! Non seulement vous serez confronté à de nouveaux monstres cauchemars : aussi Nyarlathotep, le nouveau Grand Ancien, saura comment vous mettre à dure épreuve
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

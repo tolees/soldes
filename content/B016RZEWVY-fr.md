@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fournit une protection contre lhumidité, les UV et la chaleur.
 - sans fixation
-- Tenue niveau 1.
 - pour une brillance lumineuse.
+- Tenue niveau 1.
+- Fournit une protection contre lhumidité, les UV et la chaleur.
 - spray de brillance cheveux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

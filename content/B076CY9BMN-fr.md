@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Moteur sans charbon et système 12 V pour une grande compacité
+- Forme innovante, faible poids et équilibrage parfait pour un grand confort d’utilisation et une prise en main ergonomique
 - Professional 12V System. Puissance compacte. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension
 - Livré avec : GKF 12V-8, 2 batteries de 3,0 Ah, chargeur rapide GBA 12V-40, pince de serrage 8 mm, clé plate 17 mm, dans L-BOXX 136
-- Forme innovante, faible poids et équilibrage parfait pour un grand confort d’utilisation et une prise en main ergonomique
 - Grande maniabilité et liberté de mouvement grâce à l’absence de fil
 
 [🛒 Achète-le!!]({{< param buyurl >}})

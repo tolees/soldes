@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
+- Mouvement à quartz à 2 aiguilles
 - Cadran soleil argent blanc avec motif iconique Lacoste de monogramme "L"
 - Bracelet milanais en acier inoxydable
-- Mouvement à quartz à 2 aiguilles
+- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 - Épaisseur du boîtier 6,2mm / Diamètre du boîtier 35 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

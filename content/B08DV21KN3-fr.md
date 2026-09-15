@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Protection extrêmement élevée contre la poussière et leau (indice de protection IP68) grâce à la technologie Flex Sealing
+- Recharge pratique de la batterie grâce au dispositif Magnetic Charge System
+- Technologie Advanced Focus System pour un éclairage efficace et sur mesure dans les états focalisé et défocalisé
 - Constant Light pour un flux lumineux constant sur une longue période
 - Smart Light Technology pour personnaliser toutes les fonctions déclairage
-- Protection extrêmement élevée contre la poussière et leau (indice de protection IP68) grâce à la technologie Flex Sealing
-- Technologie Advanced Focus System pour un éclairage efficace et sur mesure dans les états focalisé et défocalisé
-- Recharge pratique de la batterie grâce au dispositif Magnetic Charge System
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DV21KN3{{</world>}}

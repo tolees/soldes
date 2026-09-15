@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Communication bidirectionnelle avec vidéo en direct via un moniteur ou une application smartphone/tablette
-- ELRO Color Night Vision Technology avec des LED blanches de vision nocturne
+- Enregistrer des photos ou des vidéos sur le smartphone
 - Avec 2x 7 pouces/ 18cm écran couleur avec aluminium brossé
 - Réception de la sonnerie en tant que notification push dans lELRO Intercom App
-- Enregistrer des photos ou des vidéos sur le smartphone
+- ELRO Color Night Vision Technology avec des LED blanches de vision nocturne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08NCLM4TJ{{</world>}}

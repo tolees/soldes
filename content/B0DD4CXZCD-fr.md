@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ERGONOMIQUE ET NATUREL - La position naturelle du bébé est soutenue à chaque étape de sa croissance, de la tête aux hanches
-- MOUVEMENT ET BALANCEMENT NATUREL - Pas de prise, de piles ou dinterrupteur. Auto-régulation en douceur, car le bébé déclenche lui-même le mouvement du transat
-- CONFORT MAXIMAL - Tissu doux et respirant. Les boucles sont certifiés bluesign
 - EVOLUTIF ET MULTIFONCTIONNEL - transat pour nouveau-né, transat pour bébé et chaise pour jeune enfant. Tout en un. Avec 3 positions réglables en hauteur, facile à utiliser grâce à un réglage par pédale
+- ERGONOMIQUE ET NATUREL - La position naturelle du bébé est soutenue à chaque étape de sa croissance, de la tête aux hanches
+- CONFORT MAXIMAL - Tissu doux et respirant. Les boucles sont certifiés bluesign
+- MOUVEMENT ET BALANCEMENT NATUREL - Pas de prise, de piles ou dinterrupteur. Auto-régulation en douceur, car le bébé déclenche lui-même le mouvement du transat
 - POUR TOUS LES JOURS - Parfaitement adapté au transport ou au rangement. Le transat se replie complètement à plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

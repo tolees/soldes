@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Blouson perfecto en cuir agneau ref_jaj32128 - XXL
-- Schott
 - Racine > Accueil > Cuir Homme > Style perfecto homme
+- Schott
 - Livraison à domicile contre signature
+- Blouson perfecto en cuir agneau ref_jaj32128 - XXL
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AAQRDLS{{</world>}}

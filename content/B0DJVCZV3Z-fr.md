@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception hybride route/sentier
 - Esthétique rétro
+- Conception hybride route/sentier
 - Système damortissement de pointe
 
 [🛒 Achète-le!!]({{< param buyurl >}})

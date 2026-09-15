@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Lavage à la main seulement
 - 100% Polyester
-- Fermeture: À enfiler
 - Classique
+- Fermeture: À enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09X75RDK4{{</world>}}

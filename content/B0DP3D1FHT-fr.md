@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ajoutez des notes, soulignez du texte ou entourez des mots directement sur la page
-- Écrivez, surlignez et effacez vos annotations sur les liseuses Kobo Libra Colour, Kobo Sage et Kobo Elipsa 2E
-- Léger et ergonomique avec une mine repensée, le stylet Kobo Stylus 2 offre un meilleur design pour une expérience d’écriture plus fluide
-- Disponible en noir ou blanc
 - Se recharge via un port USB-C
+- Écrivez, surlignez et effacez vos annotations sur les liseuses Kobo Libra Colour, Kobo Sage et Kobo Elipsa 2E
+- Disponible en noir ou blanc
+- Léger et ergonomique avec une mine repensée, le stylet Kobo Stylus 2 offre un meilleur design pour une expérience d’écriture plus fluide
+- Ajoutez des notes, soulignez du texte ou entourez des mots directement sur la page
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DP3D1FHT{{</world>}}

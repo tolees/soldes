@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 FONCTIONS EN 1 : fait office de mijoteuse, de cuiseur de riz, de cuiseur vapeur et de plaque de cuisson avec 8 fonctions : modes Saisir/faire sauter, Mijoter, Riz blanc, Riz brun, Pâtes, Braiser, Cuire à la vapeur et Garder au chaud
-- DIMENSIONS : H : 28 cm x L : 42 cm x P : 29 cm
+- INCLUT : base du cuiseur Ninja Foodi PossibleCooker, récipient de cuisson, spatule à riz, grille de cuisson, verre doseur, guide d’inspiration et de recettes. Poids : 5,5 kg. Couleur : bleu nuit
 - CUISSON DANS UN SEUL RÉCIPIENT : saisissez et faites sauter légumes et viandes, puis utilisez la fonction de cuisson lente pour des plats plus savoureux et des viandes plus tendres
 - PRÉPAREZ JUSQU’À 6 PORTIONS FAMILIALES : faites cuire jusqu’à 500 g de pâtes, 800 g de riz ou une pièce de viande de 1,8 kg
-- INCLUT : base du cuiseur Ninja Foodi PossibleCooker, récipient de cuisson, spatule à riz, grille de cuisson, verre doseur, guide d’inspiration et de recettes. Poids : 5,5 kg. Couleur : bleu nuit
+- 8 FONCTIONS EN 1 : fait office de mijoteuse, de cuiseur de riz, de cuiseur vapeur et de plaque de cuisson avec 8 fonctions : modes Saisir/faire sauter, Mijoter, Riz blanc, Riz brun, Pâtes, Braiser, Cuire à la vapeur et Garder au chaud
 - RÉCIPIENT DE CUISSON AMOVIBLE ALLANT AU FOUR (JUSQU’À 240 °C) : préparez des gratins croustillants grâce à la cuisson au four et donnez une dernière touche à vos plats, lasagnes et quiches
+- DIMENSIONS : H : 28 cm x L : 42 cm x P : 29 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DDQJ27CH{{</world>}}

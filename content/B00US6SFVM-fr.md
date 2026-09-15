@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La puissance est de 3680W
+- Sécurité : un dispositif darrêt durgence
 - Dispose : dun boîtier robuste en plastique, dune fenêtre à charnière et dune poignée de transport
 - Contenu du colis : 1x Coffret de chantier 4 prises de courant 2P+T 16A/230V~ à clapet avec 1 x fiche 2P+T 16A/230V~
-- Sécurité : un dispositif darrêt durgence
 - Protection : 1 disjoncteur différentiel 30mA - 16A - 230V~
-- La puissance est de 3680W
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00US6SFVM{{</world>}}

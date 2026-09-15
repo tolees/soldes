@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Guide de lame trempé
 - Pour ouvrir des cartons, rainurer du carton épais et retirer les couvercles de boîtes.
 - Poignée en élastomère avec une fonction unique de tournevis.
-- DRIVER Cutter avec curseur et aileron
 - avec verrouillage automatique de la lame (coulisse)
+- DRIVER Cutter avec curseur et aileron
+- Guide de lame trempé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N9T1NM0{{</world>}}

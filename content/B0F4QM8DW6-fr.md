@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond
-- Bande signature à lintérieur de lencolure
 - Col, poignets et ourlet côtelés
+- Bande signature à lintérieur de lencolure
 - Coton pur
+- Col rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4QM8DW6{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCRAN ERGONOMIQUE ET CURVE : Inclinez lécran pour trouver léquilibre idéal et maintenir une bonne posture pendant le jeu. Ce moniteur incurvé (1500R) minimise les tensions sur les yeux et le cou
 - RÉPONSE HAUTE VITESSE : Explorez un jeu rapide et sans ralentissement avec le moniteur gaming 180 Hz et lécran VA Mat LED (1920x1080). La réponse de 1 ms (VRB) assure des images claires
+- ÉCRAN ERGONOMIQUE ET CURVE : Inclinez lécran pour trouver léquilibre idéal et maintenir une bonne posture pendant le jeu. Ce moniteur incurvé (1500R) minimise les tensions sur les yeux et le cou
 - PROTECTION OCULAIRE : Protégez vos yeux de la fatigue avec Acer BlueLight, VisionCare 1.0, Flickerless, et profitez de sessions de jeu sans reflets grâce à Acer ComfyView et Low Dimming
 - IMAGES INCROYABLES : Le HDR 10 améliore la qualité et le contraste de votre moniteur gaming Acer Nitro. Elle amène le gameplay à un niveau supérieur grâce à une plus grande précision des couleurs
 - SUPERBEMENT SYNCHRONISÉ : AMD FreeSync Premium élimine interruptions et interférences dans le jeu, synchronisant le taux de rafraîchissement du moniteur pour des graphiques fluides et réactifs

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cocotte ronde en fonte émaillée avec un volume de 2, 6 l, idéale pour faire dorer, mijoter et servir de la viande, du poisson, des fruits ou des légumes
-- Contenu : 1 x cocotte staub, dimensions avec couverclepoignées (lxh) : 28, 4 x 14, 7 cm, diamètre : 22 cm, diamètre du fond : 17, 1 cm, volume : 2, 6 l, poids : 4 kg, couleur : Noir mat, 40509-305-0
 - Design pratique et cuisson réussie : Poignée ergonomique pour une manipulation facile, bouton de couvercle en métal résistant à la chaleur jusquà 250 degrèsc, couleur vive et attrayante, lettrage en relief
 - Fabriqué en france - Fabrication artisanale unique, durable et résistant aux rayures grce à lémaillage intérieur, résistant à lacide, aucune altération du goût des aliments, lavable à la main ou au lave-vaisselle
+- Cocotte ronde en fonte émaillée avec un volume de 2, 6 l, idéale pour faire dorer, mijoter et servir de la viande, du poisson, des fruits ou des légumes
+- Contenu : 1 x cocotte staub, dimensions avec couverclepoignées (lxh) : 28, 4 x 14, 7 cm, diamètre : 22 cm, diamètre du fond : 17, 1 cm, volume : 2, 6 l, poids : 4 kg, couleur : Noir mat, 40509-305-0
 - Cuisson économe en énergie au four ou sur toute source de chaleur, y compris linduction, résultat juteux et tendre grce au couvercle spécial avec rétention de lhumidité, conservation long-terme de la température des aliments chauds ou froids
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

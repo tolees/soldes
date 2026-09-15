@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% ARABICA
-- CERTIFIÉ RAINFOREST ALLIANCE : Le café que nous utilisons pour ce produit est certifié Rainforest Alliance, ce qui signifie que non seulement il a bon goût, mais quil est également bon pour la planète. Lors de chaque achat, vous aidez des centaines dagriculteurs et leurs familles à travers le monde et vous contribuez à la protection de la planète : buvez mieux, agissez mieux
 - SOURCE: Torréfié et emballé en Belgique
+- TAILLE: 2 lots : 2 x 1 kg, total 2 kg
+- FACILITÉ DUTILISATION: Convient à toutes les préparations selon la finesse de la mouture. Espresso = fine. Filtre = moyenne. Moka italienne = moyenne. Cafetière = grosse
+- INTENSITÉ: 3/5
+- CERTIFIÉ RAINFOREST ALLIANCE : Le café que nous utilisons pour ce produit est certifié Rainforest Alliance, ce qui signifie que non seulement il a bon goût, mais quil est également bon pour la planète. Lors de chaque achat, vous aidez des centaines dagriculteurs et leurs familles à travers le monde et vous contribuez à la protection de la planète : buvez mieux, agissez mieux
 - IMPORTANT : La couleur de lemballage du produit peut varier
 - QUALITÉ: Emballé dans une atmosphère protectrice pour une fraîcheur optimale
-- INTENSITÉ: 3/5
-- FACILITÉ DUTILISATION: Convient à toutes les préparations selon la finesse de la mouture. Espresso = fine. Filtre = moyenne. Moka italienne = moyenne. Cafetière = grosse
-- TAILLE: 2 lots : 2 x 1 kg, total 2 kg
+- 100% ARABICA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CGXZMT3{{</world>}}

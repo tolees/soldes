@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur du câble : 3m
 - Sous licence officielle de Nintendo
-- Inclut la fonction Turbo
 - Gâchettes à action rapide
 - Prise en main ergonomique
+- Inclut la fonction Turbo
+- Longueur du câble : 3m
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBN97QR1{{</world>}}

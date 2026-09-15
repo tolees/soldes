@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- __Matière :__ coton et coton recyclé
+- Poche arrière passepoilée
 - __Coupe :__ coupe Relaxed fit
 - Poches avant
 - __taille :__ taille élastique
-- Poche arrière passepoilée
-- __Matière :__ coton et coton recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNWQ2DTS{{</world>}}

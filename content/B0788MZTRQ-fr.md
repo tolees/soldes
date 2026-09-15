@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5 FILTRES GEL: Transparent, rouge, vert, bleu et jaune sont disponibles, créant divers effets à différentes températures de couleur
-- GRILLE DE NID DABEILLES: Fournir plus de direction de la lumière, plus précis et pratique
-- FONCTION SNOOT: vous aider à concentrer la lumière dans une petite zone et à identifier les détails du produit
 - CONSTRUCTION METALLIQUE: Fabriqué en alliage daluminium, ce qui le rend plus durable et robuste
+- FONCTION SNOOT: vous aider à concentrer la lumière dans une petite zone et à identifier les détails du produit
+- GRILLE DE NID DABEILLES: Fournir plus de direction de la lumière, plus précis et pratique
+- 5 FILTRES GEL: Transparent, rouge, vert, bleu et jaune sont disponibles, créant divers effets à différentes températures de couleur
 - COMPATIBILITE: Convient pour studio flash lampe stroboscopique avec Bowens monture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

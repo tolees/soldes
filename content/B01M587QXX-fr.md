@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Joint d’étanchéité sous le couvercle : IP53
-- Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
 - Attaches latérales permettant d’assembler plusieurs organiseurs: accroît la capacité de stockage - Attaches plastiques
+- Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
 - Couvercle en polycarbonate transparent avec encoches pour le maintien des compartiments
+- Joint d’étanchéité sous le couvercle : IP53
 - Pas de poignée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

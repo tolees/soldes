@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DÉTAIL 2: Pencil Bag
-- FIT: Slim Fit
 - DÉTAIL 1: Deux poches extérieures et deux poches intérieures
+- FIT: Slim Fit
 - Veste bomber pour hommes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

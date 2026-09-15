@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- UN CHANTIER POUR JOUER – Inspirez des heures de jeu créatif avec un camion-benne, une chargeuse sur roues et un bureau de chantier mobile avec intérieur détaillé, ainsi que 3 minifigurines et un adorable carlin
-- ACCESSOIRES – Après avoir déplacé 2 blocs de pierre et 10 rochers, faites une pause dans le bureau avec réfrigérateur, pizza, journal, outils, gamelle pour chien et plus encore
-- VÉHICULES DE CONSTRUCTION FONCTIONNELS – Ramassez des gravats avec le godet mobile de la chargeuse et embarquez-les dans le camion-benne doté d’une suspension et d’une benne basculante pour faciliter le déchargement
 - JEU DE CONSTRUCTION AVEC JOUETS CAMIONS POUR GARÇON OU FILLE DÈS 8 ANS – Stimulez limagination des enfants avec le set Le camion-benne et la chargeuse frontale LEGO City
-- GUIDE NUMÉRIQUE – L’application LEGO Builder guide les constructeurs.trices dans un parcours créatif où ils peuvent zoomer, faire pivoter leurs modèles en 3D et enregistrer leur progression
+- ACCESSOIRES – Après avoir déplacé 2 blocs de pierre et 10 rochers, faites une pause dans le bureau avec réfrigérateur, pizza, journal, outils, gamelle pour chien et plus encore
 - CADEAU AMUSANT POUR ENFANT – Ce set LEGO est une superbe idée de cadeau d’anniversaire à offrir à un garçon ou une fille dès 8 ans qui aime les véhicules de chantier et les activités manuelles
 - ENCORE PLUS D’AVENTURES À DÉCOUVRIR – Les enfants peuvent multiplier les options de jeu en combinant ce set avec d’autres modèles de la gamme LEGO City (vendus séparément)
+- UN CHANTIER POUR JOUER – Inspirez des heures de jeu créatif avec un camion-benne, une chargeuse sur roues et un bureau de chantier mobile avec intérieur détaillé, ainsi que 3 minifigurines et un adorable carlin
+- VÉHICULES DE CONSTRUCTION FONCTIONNELS – Ramassez des gravats avec le godet mobile de la chargeuse et embarquez-les dans le camion-benne doté d’une suspension et d’une benne basculante pour faciliter le déchargement
+- GUIDE NUMÉRIQUE – L’application LEGO Builder guide les constructeurs.trices dans un parcours créatif où ils peuvent zoomer, faire pivoter leurs modèles en 3D et enregistrer leur progression
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2Q6D{{</world>}}

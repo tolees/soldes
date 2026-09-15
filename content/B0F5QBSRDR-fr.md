@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - RGB DYNAMIQUE SUR 3 ZONES — L’éclairage dynamique emblématique de SteelSeries illumine votre bureau comme bon vous semble
-- PLUS RAPIDE QUE JAMAIS — La plus rapide de sa catégorie : surclassez la concurrence avec une latence quasi-instantanée de 1,35 milliseconde.
-- CÄBLE EN PARACORDE SUPER MESH — Le tressage du câble est amélioré pour encore plus de souplesse et toujours moins de friction
 - VRAI SUIVI 1 À 1 — Le capteur optique TrueMove Core 8,5K DPI reflète avec exactitude vos mouvements les plus précis pour réaliser les tirs les plus précis.
 - DURABILITÉ DE 60 MILLIONS DE CLICS — Résistance incroyable avec un switch conçu pour durer, qui délivrera toujours des clics nets et précis
+- PLUS RAPIDE QUE JAMAIS — La plus rapide de sa catégorie : surclassez la concurrence avec une latence quasi-instantanée de 1,35 milliseconde.
+- CÄBLE EN PARACORDE SUPER MESH — Le tressage du câble est amélioré pour encore plus de souplesse et toujours moins de friction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F5QBSRDR{{</world>}}

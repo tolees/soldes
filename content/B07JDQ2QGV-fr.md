@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRATIQUE AU QUOTIDIEN – Fournit avec une batterie lithium rechargeable pour une utilisation prolongée et prend en charge une carte SD jusquà 32 Go (non incluse) pour stocker vos photos et vidéos sans souci.
 - FONCTIONNALITÉS INTELLIGENTES – Équipé dun stabilisateur numérique, détecteur de visage, retardateur (2s/5s/10s) et flash avec réduction des yeux rouges, le Realishot DC5200 garantit des photos parfaites, même dans des environnements sombres.
 - ÉCRAN TFT LCD 2,4 – Profitez dun écran TFT LCD de 2,4 pouces pour visionner vos photos et vidéos avec une grande clarté et parcourir facilement le menu pour ajuster vos paramètres.
+- PRATIQUE AU QUOTIDIEN – Fournit avec une batterie lithium rechargeable pour une utilisation prolongée et prend en charge une carte SD jusquà 32 Go (non incluse) pour stocker vos photos et vidéos sans souci.
 - RÉSOLUTION PHOTO ET VIDÉO – Capturez des photos en haute résolution de 21 MP et réalisez des vidéos en HD (1280x720), pour des images claires, nettes et détaillées à chaque prise de vue.
 - ZOOM DIGITAL 8X – Avec un zoom numérique 8x, lappareil vous permet de vous rapprocher de vos sujets, vous offrant flexibilité et précision pour des prises de vue variées, que ce soit de près ou de loin.
 

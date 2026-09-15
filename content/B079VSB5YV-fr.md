@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le filtre dune porosité de 180 microns permet de collecter les impuretés les plus fines
-- Cycles programmables de 2, 3 et 4 heures, Capacité de filtration denviron 20 m3 par heure
-- Le robot nettoie grâce à sa brosse et filtre leau, ce qui permet de collecter les débris en suspension
 - Equipé dun ruban lumineux LED multicolore sur tout le pourtour, pour suivre lévolution du robot sous leau et créer une agréable animation la nuit
+- Cycles programmables de 2, 3 et 4 heures, Capacité de filtration denviron 20 m3 par heure
 - Nettoie le fond, les parois et la ligne deau de la piscine
+- Le robot nettoie grâce à sa brosse et filtre leau, ce qui permet de collecter les débris en suspension
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079VSB5YV{{</world>}}

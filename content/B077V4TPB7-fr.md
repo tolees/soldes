@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydrofuge
 - 100% Polyamide
 - 26 Hauteur x 33 Largeur x 4.5 Profondeur cm
+- Hydrofuge
 - Sac épaule Moyen Bandoulière
 - 0.28kg Poids x 5L Volume
 

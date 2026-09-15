@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mouvement planétaire pour un mélange parfait
 - Batteur Crochet Pétrisseur Fouet
+- Mouvement planétaire pour un mélange parfait
 - Sélecteur 6 vitesses + Impulsion
 
 [🛒 Achète-le!!]({{< param buyurl >}})

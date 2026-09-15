@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière : matériau composite
+- Affichage de la pression : Analogique 2, 5 "
 - Fabricant Lezyne
 - Pression maximale : 220PSI/15 bar
-- Affichage de la pression : Analogique 2, 5 "
 - Référence fabricant : de 1 FP mafl de v104
+- Matière : matériau composite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073R1FK5G{{</world>}}

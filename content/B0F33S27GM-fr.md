@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tige en matière synthétique avec empiècements en suède.
 - Semelle cupsole en caoutchouc.
-- Fermeture à lacets.
 - Chaussant standard.
 - Doublure en mesh.
+- Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F33S27GM{{</world>}}

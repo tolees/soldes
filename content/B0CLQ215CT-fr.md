@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Genoux articulés
 - Isolation : 60 g/m²
+- Taille réglable
 - Système de croissance Outgrown
 - Guêtres intérieures pour les jambes
 - Protège-poignet renforcé avec tête de marteau.
 - Onglets réglables à la taille
-- Genoux articulés
 - Tissu imperméable
-- Taille réglable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLQ215CT{{</world>}}

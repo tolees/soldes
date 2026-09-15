@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COL POLO : ce modèle classique se distingue par son élégance simple et son style décontracté, ainsi que par ses lignes intemporelles grâce au logo brodé sur la poitrine
-- MARC OߴPOLO : cette marque internationale d’origine scandinave propose une mode exclusive qui allie individualité et authenticité Les matières naturelles et le design intemporel permettent d’affirmer son style – la liberté d’être soi-même
-- COTON BIOLOGIQUE : confectionné à partir de 100 % coton biologique certifié, il est le gage d’une qualité durable Laver à 40 °C, programme délicat
 - REGULAR FIT : grâce au piqué de coton et aux bordures étroites au niveau des manches, il vous sied à merveille Il est agréable à porter et sa coupe droite offre une grande liberté de mouvement
+- COTON BIOLOGIQUE : confectionné à partir de 100 % coton biologique certifié, il est le gage d’une qualité durable Laver à 40 °C, programme délicat
+- MARC OߴPOLO : cette marque internationale d’origine scandinave propose une mode exclusive qui allie individualité et authenticité Les matières naturelles et le design intemporel permettent d’affirmer son style – la liberté d’être soi-même
 - POLO BASIQUE : que vous le portiez avec un jean et des baskets ou avec un pantalon et des chelsea boots, il sublime toutes vos tenues Parfait pour un chic casual ou une élégance indémodable
+- COL POLO : ce modèle classique se distingue par son élégance simple et son style décontracté, ainsi que par ses lignes intemporelles grâce au logo brodé sur la poitrine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09MRZWHHF{{</world>}}

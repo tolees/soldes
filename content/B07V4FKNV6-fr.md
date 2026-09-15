@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GUIDE DES TAILLES : Choisissez la taille la plus adaptée à votre fille, en suivant les indications de la image
 - SANDALES FILLE : Sandales Chicco, avec pratique fermeture à scratch, idéales pour un look décontracté et tendance. Adaptées à toutes les occasions
 - CONFORT : Les sandales Chicco sont confortables, flexibles, légères, respirantes et pratiques
+- GUIDE DES TAILLES : Choisissez la taille la plus adaptée à votre fille, en suivant les indications de la image
 - Note: Selon les clients, cet article a tendance à tailler un peu petit. Si votre enfant se situe entre deux tailles ou si vous souhaitez une coupe plus confortable, nous vous recommandons de choisir une taille au-dessus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

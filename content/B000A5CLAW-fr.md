@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
-- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
 - Capacité : 40 cl.
 - Isotherme. Conserve les boissons au chaud (ou froid) plus longtemps.
+- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
+- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
 - Passe au lave-vaisselle, au four et au micro-onde.
 - Livré en coffret cadeau de 2 verres.
 

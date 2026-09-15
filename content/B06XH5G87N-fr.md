@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine
 - 100% Polyester
-- Moyen - Standard
 - Fermeture: Fermeture éclair
+- Lavage en machine
 - Multipack: 1
+- Moyen - Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XH5G87N{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit officiel : produit sous licence officielle Pokémon de Jazwares.
 - Lanceurs de spinner : comprend également deux lanceurs Poké Ball Spinner et une arène de combat.
 - Spinners de combat : dispose de deux toupies de combat avec Pikachu et Mew.
-- Produit officiel : produit sous licence officielle Pokémon de Jazwares.
 - Ensemble darène : battez face à face avec lensemble Pokémon Battle Spinner Arena.
 - Détails authentiques : les spinners semblent avoir sauté directement de la série animée Pokémon
 

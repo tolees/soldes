@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure à traction flexible
-- Semelle intérieure confortable rembourrée en mousse à mémoire de forme refroidie à lair
 - Dessus en maille jersey avec lacets extensibles
+- Semelle intérieure confortable rembourrée en mousse à mémoire de forme refroidie à lair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9BPPHWJ{{</world>}}

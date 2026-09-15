@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FIGURINE MANGA - Personnage : Shanks Le Roux, le pirate qui a inspiré Luffy et capitaine de léquipage du Roux
-- FIGURINE ARTICULÉE - Figurine 17 cm entièrement articulée grâce à ses 16 points darticulation.
-- COLLECTION ANIME HEROES - La collection Anime Heroes de Bandai, regroupe les figurines des héros des plus grands animés japonais.
 - ACCESSOIRES INCLUS - Utilisez les différents jeux de mains et daccessoires pour recréer toutes les scènes de la série
 - LICENCE OFFICIELLE ONE PIECE - Figurine Shanks articulée issue de la série animée One Piece
+- COLLECTION ANIME HEROES - La collection Anime Heroes de Bandai, regroupe les figurines des héros des plus grands animés japonais.
+- FIGURINE MANGA - Personnage : Shanks Le Roux, le pirate qui a inspiré Luffy et capitaine de léquipage du Roux
+- FIGURINE ARTICULÉE - Figurine 17 cm entièrement articulée grâce à ses 16 points darticulation.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DZ4XL5V{{</world>}}

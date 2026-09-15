@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc durable pour une adhérence optimale.
 - Technologie GEL pour un amorti efficace.
+- Semelle extérieure en caoutchouc durable pour une adhérence optimale.
 - Conception légère pour améliorer la vitesse et lagilité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

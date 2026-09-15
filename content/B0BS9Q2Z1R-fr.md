@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Progression de travail rapide : grâce au moteur sans charbon et au Professional 18V System Bosch - batterie recommandée : ProCORE18V 4.0Ah.
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Grande facilité d’utilisation : grâce au concept d’utilisation intuitive et au système de plateaux de ponçage interchangeables.
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Maîtrise parfaite : grâce à une très bonne ergonomie et un excellent équilibrage avec le centre de gravité proche de la pièce
+- Progression de travail rapide : grâce au moteur sans charbon et au Professional 18V System Bosch - batterie recommandée : ProCORE18V 4.0Ah.
 - Livré avec : GSS 18V-13, sac à poussière, 1 plateau 80 x 130 mm, 1 plateau triangulaire 100 x 150 mm, 1 plateau 113 x 101 mm, 3 feuilles abrasives C470, gabarit de perforation, L-BOXX
 
 [🛒 Achète-le!!]({{< param buyurl >}})

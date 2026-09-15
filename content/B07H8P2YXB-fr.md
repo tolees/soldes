@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour la dégustation du tous les vins.
-- Fabrication 100% Française
 - Fabriqué en verre ultra Transparent, 100% clarté, 0% de coloration.
-- Vendu en boite de 6 pièces.
+- Idéal pour la dégustation du tous les vins.
 - Grande finesse du verre et du buvant pour un grand confort de dégustation
+- Fabrication 100% Française
+- Vendu en boite de 6 pièces.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07H8P2YXB{{</world>}}

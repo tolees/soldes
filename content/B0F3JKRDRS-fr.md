@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coupe slim
 - Zip sur toute la longueur à l’avant, au centre
 - 100 % polyester (100 % recyclé)
 - Maille double
-- Coupe slim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F3JKRDRS{{</world>}}

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col: Rond
-- Coupe : Regular
-- Manche : Longue
-- Couleur : Multicolore
 - Imprimé floral
+- Couleur : Multicolore
+- Manche : Longue
+- Coupe : Regular
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FGJP3LQF{{</world>}}

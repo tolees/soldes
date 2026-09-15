@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le CUBE Street II à vos côtés, vous disposez des outils dont vous avez besoin pour faire passer votre message avec confiance dans toute situation de mobilité, dun concert en pleine rue à une présentation publique.
+- Évolution du populaire CUBE Street Roland, et désormais intégré à la gamme BOSS, ce puissant ampli à piles vous procure un riche son stéréo pour les concerts de rue et autres prestations mobiles.
 - Les deux canaux vous permettent de brancher micros et instruments et davoir immédiatement un bon son, sans accessoire supplémentaire.
 - Travaillez ou improvisez à laide de lappli CUBE JAM pour iOS.
-- Fonctionne sur huit piles alcalines AA ou avec ladaptateur secteur inclus.
-- Enregistrez ou diffusez en direct laudio de vos concerts sur un ordinateur ou un terminal mobile via USB ou i-CUBE Link
-- Disponible en noir ou rouge.
-- Évolution du populaire CUBE Street Roland, et désormais intégré à la gamme BOSS, ce puissant ampli à piles vous procure un riche son stéréo pour les concerts de rue et autres prestations mobiles.
-- Une fonction dharmonisation vocale, un Looper et des effets sont également disponibles pour donner encore plus de qualité à vos prestations et impressionner les foules.
 - Un mode Eco pour augmenter lautonomie de jeu (puissance de sortie max : 5 watts).
+- Disponible en noir ou rouge.
+- Fonctionne sur huit piles alcalines AA ou avec ladaptateur secteur inclus.
+- Avec le CUBE Street II à vos côtés, vous disposez des outils dont vous avez besoin pour faire passer votre message avec confiance dans toute situation de mobilité, dun concert en pleine rue à une présentation publique.
+- Enregistrez ou diffusez en direct laudio de vos concerts sur un ordinateur ou un terminal mobile via USB ou i-CUBE Link
+- Une fonction dharmonisation vocale, un Looper et des effets sont également disponibles pour donner encore plus de qualité à vos prestations et impressionner les foules.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097R4LZH6{{</world>}}

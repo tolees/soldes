@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie de montage exclusive pour un excellent maintien du verre dans sa bague même en cas de choc
-- Traitement optique exclusif sur 16 couches double-face pour des résultats exceptionnels
 - Verre optique chimiquement renforcé par procédé thermique exclusif
+- Traitement optique exclusif sur 16 couches double-face pour des résultats exceptionnels
+- Technologie de montage exclusive pour un excellent maintien du verre dans sa bague même en cas de choc
 - Bague ultra-fine avec filetage avant pour monter un bouchon ou dautres filtres
 - Traitement oléophobe et hydrophobe supérieurs pour un nettoyage facile
 

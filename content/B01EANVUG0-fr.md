@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo hh brodé sur la manche
-- Upf 30+
 - Type de tissu: 100 % polyester
+- Upf 30+
 - Tissu tactel à séchage rapide gaufré et piqué, 195 g/m11
+- Logo hh brodé sur la manche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01EANVUG0{{</world>}}

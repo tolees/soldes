@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrastant Accents De Couture
-- Cuir Pleine Supérieure
-- Kickers Kick Lo Mens
-- La Conception De Chaussures Bas
 - Kickers Onglets De Marque Sur Le Côté Extérieurs
+- La Conception De Chaussures Bas
+- Kickers Kick Lo Mens
+- Cuir Pleine Supérieure
+- Contrastant Accents De Couture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001JAGNDI{{</world>}}

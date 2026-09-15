@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur du talon : 2,2 cm
-- Matériau de la semelle : synthétique
-- Fermeture : crochet et boucle
-- Type de talon : plat
-- Type de tissu : 100 % textile (PET recyclé)
-- Matériau extérieur : toile
-- Doublure : synthétique
 - Ne résiste pas à leau
+- Hauteur du talon : 2,2 cm
+- Fermeture : crochet et boucle
+- Doublure : synthétique
+- Type de talon : plat
+- Matériau de la semelle : synthétique
+- Matériau extérieur : toile
 - Largeur de la chaussure : étroite
+- Type de tissu : 100 % textile (PET recyclé)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VD1PQC3{{</world>}}

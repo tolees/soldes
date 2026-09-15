@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids : 275 g (pointure 38 2/3)
+- Semelle de propreté antimicrobienne OrthoLite
 - Drop semelle intermédiaire : 10 mm (talon 34 mm / avant-pied 24 mm).
-- Tige en mesh
+- Drop semelle intermédiaire : 10 mm (talon 34 mm/avant-pied 24 mm)
 - Fermeture à lacets
+- Semelle extérieure Adiwear
+- Tige en mesh
 - Coupe standard
 - Doublure textile
-- Semelle de propreté antimicrobienne OrthoLite
-- Drop semelle intermédiaire : 10 mm (talon 34 mm/avant-pied 24 mm)
-- Semelle extérieure Adiwear
-- Poids : 275 g (pointure 38 2/3)
 - Amorti Bounce 2.0 et semelle intermédiaire Cloudfoam
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

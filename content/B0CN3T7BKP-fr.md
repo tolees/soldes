@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contents: 1x Columbia Powder Lite II, Veste pour Homme, Colour: Noir (Black), Size: M, Article: 2086964
-- Veste dhiver déperlante pour homme, Idéale pour les journées froides dhiver en ville, les randonnées et autres activités de plein air, Coupe moderne
-- Zip pratique sur toute la longueur, 2 poches zippées pour des mains chaudes et en sécurité
 - Ajustement optimal grâce aux poignets élastiques et au cordon de serrage réglable à lourlet
+- Veste dhiver déperlante pour homme, Idéale pour les journées froides dhiver en ville, les randonnées et autres activités de plein air, Coupe moderne
+- Contents: 1x Columbia Powder Lite II, Veste pour Homme, Colour: Noir (Black), Size: M, Article: 2086964
+- Zip pratique sur toute la longueur, 2 poches zippées pour des mains chaudes et en sécurité
 - Particulièrement chaude grâce à la technologie Omni-Heat avec doublure thermoréfléchissante, Matière déperlante pour une protection optimale contre lhumidité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

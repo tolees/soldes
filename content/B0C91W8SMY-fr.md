@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadre léger en aluminium.
-- Conçu avec précision pour le DJI Mavic 3 Pro
-- Indicateur de polarisation gravé au laser pour un réglage rapide de la force
 - Comprend un filtre CP + un étui de protection.
+- Indicateur de polarisation gravé au laser pour un réglage rapide de la force
 - Verre CinemaSeries - Il présente un faible indice de réfraction, une neutralité des couleurs et une transmission parfaite de la cible. Fabriqué en Allemagne.
+- Conçu avec précision pour le DJI Mavic 3 Pro
+- Cadre léger en aluminium.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C91W8SMY{{</world>}}

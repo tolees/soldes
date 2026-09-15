@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lempreinte Black Point optimise la précision et la protection anticorrosion
-- Isolée, testée unitairement conformément à la norme IEC 60900
 - Lame à diamètre réduit et isolation protectrice intégrée
 - Emmanchement hexagonal 9 mm, avec chanfrein dentrée
 - Lame interchangeable Kraftform Kompakt VDE pour vis PlusMinus à fente/Phillips
+- Isolée, testée unitairement conformément à la norme IEC 60900
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1G1WZWB{{</world>}}

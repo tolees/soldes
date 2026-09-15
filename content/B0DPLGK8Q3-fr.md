@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LÉGER ET CONFORTABLE : Short de course pour homme léger et extrêmement confortable avec une coupe confortable et une coupe ample offrant le confort supérieur dun collant de course.
-- POLYVALENCE : Avec son logo réfléchissant, il est idéal pour les courses par temps chaud, les entraînements rapides ou comme short confortable pour diverses activités.
-- CE QUI EST INCLUS : 1 x short de course 2 en 1 Homme GOREWEAR Concurve 5", Couleur : Gris, Taille : M, Art. 101018
 - LIBERTÉ DE MOUVEMENT SANS RESTRICTION : Matériau à peine perceptible avec un design Kinetic Garment orienté sur les mouvements du corps. Coutures réduites pour moins de frottements. Poches à la ceinture arrière et sur la jambe droite.
+- POLYVALENCE : Avec son logo réfléchissant, il est idéal pour les courses par temps chaud, les entraînements rapides ou comme short confortable pour diverses activités.
+- LÉGER ET CONFORTABLE : Short de course pour homme léger et extrêmement confortable avec une coupe confortable et une coupe ample offrant le confort supérieur dun collant de course.
+- CE QUI EST INCLUS : 1 x short de course 2 en 1 Homme GOREWEAR Concurve 5", Couleur : Gris, Taille : M, Art. 101018
 - COURIR SANS GÊNE : Profitez dune liberté de mouvement maximale sans distraction. Le matériau à peine perceptible avec un design Kinetic Garment orienté sur les mouvements du corps et des coutures réduites offre un confort maximal.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

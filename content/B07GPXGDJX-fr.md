@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage Goga Mat Arch.
 - Chaussures de ville.
 - Coupe décontractée.
+- Rembourrage Goga Mat Arch.
 - Mousse à mémoire de forme Air-Cooled Memory Foam.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

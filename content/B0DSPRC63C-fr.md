@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ourlet réglable par cordon de serrage
-- Manches préformées avec fermeture velcro
-- Matière GORE-TEX 3 couches avec membrane ePE sans PFC
 - Dos de matière teinté en fil (Solution Dyed) pour une production plus durable avec consommation d’eau fortement réduite
+- Matière GORE-TEX 3 couches avec membrane ePE sans PFC
+- Manches préformées avec fermeture velcro
 - Face avant et arrière en polyester 100 % recyclé
+- Ourlet réglable par cordon de serrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSPRC63C{{</world>}}

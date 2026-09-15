@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Monotrou sur plage - Levier de commande métallique - Hauteur sous bec : 246 mm
-- Version rehaussée - GROHE Longlife cartouche en céramique 28 mm
-- Flexibles de raccordement souples, sertis d’usine
-- avec limiteur de température - GROHE StarLight Chrome éclatant et durable
-- GROHE Zero conduit deau isolé - sans plomb ni nickel - GROHE EcoJoy mousseur 5 l/min
 - Système de montage rapide - Corps lisse avec bonde clic clac plastique
+- Version rehaussée - GROHE Longlife cartouche en céramique 28 mm
+- GROHE Zero conduit deau isolé - sans plomb ni nickel - GROHE EcoJoy mousseur 5 l/min
+- avec limiteur de température - GROHE StarLight Chrome éclatant et durable
+- Monotrou sur plage - Levier de commande métallique - Hauteur sous bec : 246 mm
+- Flexibles de raccordement souples, sertis d’usine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WWJRGL1{{</world>}}

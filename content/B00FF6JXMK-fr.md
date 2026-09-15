@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verre minéral
-- Type daffichage : digital
 - Garantie fabricant : 2 ans
 - Étanchéité : 20 bar/200 mètres
+- Verre minéral
+- Type daffichage : digital
 - Diamètre du cadran : 52 millimètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

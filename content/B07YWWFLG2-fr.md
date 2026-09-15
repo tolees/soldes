@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - construction variable
-- Pour les enfants à partir de 3 ans
 - Développe la coordination œil-main, la créativité et la pensée logique.
+- Pour les enfants à partir de 3 ans
 - Contient des briques de jeu, des billes, un tremplin, un entonnoir à sonnette, un entonnoir en spirale, une roue à billes et 18 dominos colorés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transmission par chaîne unique
 - Batteur à 2 voies
+- Transmission par chaîne unique
 - Caméra concentrique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

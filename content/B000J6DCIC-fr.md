@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Noir
 - Poids : 0.01 kilogrammes
 - Couleur : Noir
 - Poids : 0.01 kilogrammes
+- Couleur : Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000J6DCIC{{</world>}}

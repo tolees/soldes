@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ce lot comprend : 6 ciseaux à bois 6 mm, 13 mm, 19 mm, 25 mm, 32 mm et 38 mm, 1 guide daffûtage et 1 pierre à aiguiser (grain 120/240)
 - Étui de rangement : Mallette de rangement moulée afin de garder les outils rangés et protégés
 - Design confortable : Les poignées confortables et profilées réduisent la fatigue de la main et améliorent la précision
-- Ce lot comprend : 6 ciseaux à bois 6 mm, 13 mm, 19 mm, 25 mm, 32 mm et 38 mm, 1 guide daffûtage et 1 pierre à aiguiser (grain 120/240)
 - Traitement thermique : Lames en alliage dacier au chrome vanadium traité thermiquement, petits biseaux latéraux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

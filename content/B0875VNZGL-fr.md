@@ -28,20 +28,20 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon chino habillé avec technologie Smart 360 Flex
-- Fermeture zippée
-- Slim fit
-- Ceinture élastique Flex Comfort Waistband pour plus de stretch
-- Coupe slim ajustée
-- Ultra-stretch soft cotton fabric for maximum flexibility and comfort
-- Crafted Khaki Slim
-- Zip fly
-- Flexible waistband for added stretch and extra comfort
-- Refined chino pants with Smart 36 Flex 4-way stretch technology
-- Poche de sécurité invisible avec une fermeture zippée dissimulée et une petite poche pour les pièces
 - Tissu en coton doux ultra stretch pour encore plus délasticité et de confort
+- Coupe slim ajustée
+- Flexible waistband for added stretch and extra comfort
+- Slim fit
 - Crafted Khaki Slim
 - Features a hidden security pocket with a concealed zipper and coin compartment
+- Pantalon chino habillé avec technologie Smart 360 Flex
+- Ultra-stretch soft cotton fabric for maximum flexibility and comfort
+- Crafted Khaki Slim
+- Refined chino pants with Smart 36 Flex 4-way stretch technology
+- Ceinture élastique Flex Comfort Waistband pour plus de stretch
+- Fermeture zippée
+- Poche de sécurité invisible avec une fermeture zippée dissimulée et une petite poche pour les pièces
+- Zip fly
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0875VNZGL{{</world>}}

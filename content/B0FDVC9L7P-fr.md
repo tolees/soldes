@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc durable pour une adhérence fiable sur diverses surfaces.
 - Amorti avancé pour un confort supérieur pendant la course.
+- Semelle extérieure en caoutchouc durable pour une adhérence fiable sur diverses surfaces.
 - Tige en mesh respirant pour une ventilation optimale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Numéro d’article: 10-4256-1571
 - Villeroy & Boch
 - It’s My moment tasse ALMOND bulbeuse
-- Numéro d’article: 10-4256-1571
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Q1CGJKW{{</world>}}

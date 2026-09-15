@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellente neutralité colorimétrique et rendu des contrastes
-- Verre optique minéral ultra-clear à très haute résolution
 - Traitement optique multicouches exclusif Accu-ND double-face
 - Filtre Densité neutre pour photo & vidéo
 - Absorption 10 diaphs (ND 3.0)
+- Excellente neutralité colorimétrique et rendu des contrastes
+- Verre optique minéral ultra-clear à très haute résolution
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LCYHYLR{{</world>}}

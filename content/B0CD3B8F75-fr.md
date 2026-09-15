@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pointure : 44 EU
-- Age : Adulte
-- Matière : Synthétique, Textile
 - Genre : Unisexe
+- Age : Adulte
 - Fermeture : Lacets
+- Matière : Synthétique, Textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CD3B8F75{{</world>}}

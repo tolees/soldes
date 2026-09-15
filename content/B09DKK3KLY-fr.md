@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Lames de canne à pêche en carbone
 - Construction en pointe solide pour une sensibilité incroyable et une excellente reconnaissance des touches
 - Poignées en liège
-- Action parabolique progressive spéciale pour éviter la perte dune truite hachée
 - Anneaux légers en acier inoxydable
+- Action parabolique progressive spéciale pour éviter la perte dune truite hachée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DKK3KLY{{</world>}}

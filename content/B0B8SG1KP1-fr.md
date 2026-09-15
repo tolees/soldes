@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- International color standard 100% sRGB and 100% Rec. 709 wide color gamut
-- Extensive connectivity including DP over USB-C with 90W Power Delivery, DisplayPort daisy-chaining, HDMI, USB hub and RJ45 LAN port for the most flexibility
-- 75Hz refresh rate and Adaptive-Sync technology (48~75Hz) to animated content with fast action and eliminate screen tearing
-- Garantie 5 ans (dont 2 ans dextension après inscription du produit sur ASUS.fr
-- VESA wall-mountable and ergonomic design with tilt, swivel, pivot and height adjustments for a comfortable viewing experience
 - 24.1-inch 16:10 WUXGA (1920 x 1200) IPS display with frameless design
+- 75Hz refresh rate and Adaptive-Sync technology (48~75Hz) to animated content with fast action and eliminate screen tearing
+- International color standard 100% sRGB and 100% Rec. 709 wide color gamut
+- Garantie 5 ans (dont 2 ans dextension après inscription du produit sur ASUS.fr
+- Extensive connectivity including DP over USB-C with 90W Power Delivery, DisplayPort daisy-chaining, HDMI, USB hub and RJ45 LAN port for the most flexibility
+- VESA wall-mountable and ergonomic design with tilt, swivel, pivot and height adjustments for a comfortable viewing experience
 - Calman Verified with factory calibrated for excellent Delta E < 2 color accuracy
 
 [🛒 Achète-le!!]({{< param buyurl >}})

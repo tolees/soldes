@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simple à utiliser, puissant et polyvalent
-- Enfonce des vis dun diamètre de 10 à 35 mm dans le bois et jusquà 10 mm dans la maçonnerie et le métal
-- Longue durée de vie avec des fonctionnalités électroniques qui protègent le moteur et prolongent la durée de vie de la batterie
 - Éléments fournis : GSB 18V-25, 2 batteries GBA 2,0 Ah, GAL 18V-40, L-BOXX
+- Enfonce des vis dun diamètre de 10 à 35 mm dans le bois et jusquà 10 mm dans la maçonnerie et le métal
+- Simple à utiliser, puissant et polyvalent
+- Longue durée de vie avec des fonctionnalités électroniques qui protègent le moteur et prolongent la durée de vie de la batterie
 - AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils des marques de l’Alliance batteries AMPShare
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

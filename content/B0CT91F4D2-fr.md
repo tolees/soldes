@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier
-- - Matérial de la Boîtier: Acier inoxydable
 - Mouvement
 - - Couleur de la Boîte: Argent
+- Boîtier
+- - Matérial de la Boîtier: Acier inoxydable
 - - Verre: Verre Minéral
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

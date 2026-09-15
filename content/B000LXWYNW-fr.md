@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Aliment complet pour Cichlidés de taille moyenne de 5 à 10 cm - pour plus de longévité et déclat des couleurs
-- Mélange de 2 types de granulés assurant une alimentation variée et équilibrée aux Cichlidés de taille moyenne (et particulièrement les Cichlidés Africains)
 - Contient toutes les substances nutritives, vitamines et oligo-éléments essentiels pour favoriser léclat des couleurs et renforcer la résistance des poissons
+- Mélange de 2 types de granulés assurant une alimentation variée et équilibrée aux Cichlidés de taille moyenne (et particulièrement les Cichlidés Africains)
 - Conseils dutilisation : A distribuer plusieurs fois par jour en petites rations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

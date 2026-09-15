@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 - CONTENU DE LA LIVRAISON: 1x kit (2 pièces) dessuie-glaces BOSCH Aerotwin Retrofit AR705S avant
 - COMPATIBLE AVEC: SUZUKI SWACE, TOYOTA COROLLA Kombi, COROLLA Schrägheck, COROLLA Stufenheck
-- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KSH74N5{{</world>}}

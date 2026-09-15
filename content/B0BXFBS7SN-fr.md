@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRODUIT : Avec lanceur de pizza motorisé, appuie sur la tranche de pizza pour faire sortir le lanceur du camion, puis appuie sur le bouton pour dégommer les méchants mutants
 - PILES : Fonctionne avec 3 piles AA (non incluses) pour utiliser le lanceur de pizza motorisé
 - COMPATIBLE : Le camion peut accueillir les 4 figurines articulées Tortue Ninja de 12 cm Tortues Ninja (Vendues séparément)
 - LICENCE : Produit officiel TORTUES NINJA
+- PRODUIT : Avec lanceur de pizza motorisé, appuie sur la tranche de pizza pour faire sortir le lanceur du camion, puis appuie sur le bouton pour dégommer les méchants mutants
 - AGE : Pour les enfants à partir de 4 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})

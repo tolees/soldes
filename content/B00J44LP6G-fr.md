@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué à partir dun matériau de qualité médicale, sans danger pour la peau
-- Fourni en paquet de trois ou de dix unités
 - Deux points de fixation et une fente pour la gestion des câbles
+- Fourni en paquet de trois ou de dix unités
 - LinvisiLav est conçu pour dissimuler plus facilement les micros-cravates RØDE. Sa structure souple absorbe le bruit et les vibrations, tandis que son profil large et plat offre une protection contre les éléments et permet un montage flexible. Il dispose de deux points de fixation au cas où un micro redondant serait nécessaire, et dun guide-câble sur le côté.
 - Système de montage discret pour les microphones cravates
+- Fabriqué à partir dun matériau de qualité médicale, sans danger pour la peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00J44LP6G{{</world>}}

@@ -29,25 +29,25 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manchettes élastiquées
-- doublure du corps en maillefilet
-- doublure du corps en maillefilet
-- Cordon de serrage élastique à la capuche et à lourlet
-- doublure de la mentonnière et nuque en Tricot brossé
 - Manchettes élastiquées
-- Logo Imprimé par transfert thermique
-- finition déperlante DWR
-- Logo Imprimé par transfert thermique
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Deux poches principales zippées à rabat
-- Capuche fixe avec Cordon de serrage unidirectionnel
 - Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - finition déperlante DWR
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - Deux poches principales zippées à rabat
-- doublure de la mentonnière et nuque en Tricot brossé
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Deux poches principales zippées à rabat
+- Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - Cordon de serrage élastique à la capuche et à lourlet
+- doublure du corps en maillefilet
+- doublure de la mentonnière et nuque en Tricot brossé
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- finition déperlante DWR
+- doublure de la mentonnière et nuque en Tricot brossé
+- doublure du corps en maillefilet
+- Cordon de serrage élastique à la capuche et à lourlet
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Logo Imprimé par transfert thermique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Relais dimage et graphique haute définition 1080p cristallin
-- Moniteur numérique IPS de 24 pouces pour le bureau et le divertissement
 - Haut-parleurs intégrés pour une performance audio claire et nette
+- Moniteur numérique IPS de 24 pouces pour le bureau et le divertissement
+- Relais dimage et graphique haute définition 1080p cristallin
 - Plug and Play, facile à connecter et à installer
 - IMPORTANT : Retirez le film protecteur (avec code de date) de la surface du panneau avant utilisation. Ce film protège contre les rayures lors de l’expédition.
 - Caractéristiques supplémentaires : compatibilité VESA et max 100 Hz

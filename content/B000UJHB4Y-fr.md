@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Utiliser matin et soir
-- Skin type: Toutes
-- Un produit de beauté unique et exclusif
 - Avec votre annulaire, appliquer avec modération sur la zone oculaire en utilisant un mouvement léger
+- Skin type: Toutes
 - Appropriée pour tous les types de peau
+- Un produit de beauté unique et exclusif
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000UJHB4Y{{</world>}}

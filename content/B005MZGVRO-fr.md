@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pour les campeurs et les buveurs occasionnels de café : infusion douce à la main sans électricité pour un café particulièrement aromatique, bonne prise en main des tasses individuelles, des cafetières ou des pichets isolants grâce à une grande base de fixation (Ø 11 cm)
 - Fabriqué en Allemagne ; Durable, conception soignée et résistante, Nettoyage facile, Lavable au lave-vaisselle
 - Contenu: 1x Westmark Porte-filtre/Filtre à café, Taille du filtre 6, dimensions : 18,5 x 16,1 x 13,7 cm, poids : 108 grammes, matériau : plastique (PP), couleur : noir, 24462261
-- Pour les campeurs et les buveurs occasionnels de café : infusion douce à la main sans électricité pour un café particulièrement aromatique, bonne prise en main des tasses individuelles, des cafetières ou des pichets isolants grâce à une grande base de fixation (Ø 11 cm)
 - Porte-filtre à café classique en plastique pour linfusion manuelle de café en poudre jusquà 6 tasses de café frais, convient également pour le thé en vrac
 - Filtre à rainure à lintérieur pour une bonne tenue des filtres en papier et pour un écoulement optimal dans la tasse ou le pot, insertion facile des filtres en papier (taille 6) et versement deau chaude sur la poudre de café, manipulation facile grâce à la poignée étroite
 

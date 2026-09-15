@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Selon la directive européenne sur létiquetage énergétique, en raison de ses paramètres, ce produit ne nécessite pas dinformations détiquetage énergétique
-- Extension intelligente : le centre de contrôle Hue Bridge disponible séparément peut contrôler, automatiser et faire fonctionner la prise avec dautres lampes ou accessoires depuis nimporte où dans le monde.
 - Contrôle pratique de la lumière : compatible avec Amazon Echo Dot (3ème génération), Echo Plus et Echo Show (2ème génération), la prise Hue peut être contrôlée à la voix ou en un clic
-- DESIGN MODERNE Grâce à son design discret et compact mesurant 2 x 2 x 3,3 pouces, la prise intelligente Philips Hue blanche sintègre dans nimporte quel intérieur
 - Flexibilité illimitée : la Hue Smart Plug transforme nimporte quelle lampe conventionnelle en lumière intelligente et complète le réseau Zigbee et Bluetooth
 - Pas besoin de recâblage : branchez-le simplement sur nimporte quelle prise, la fiche connecte la lampe à votre Hue Smart Home pour un fonctionnement pratique
+- Selon la directive européenne sur létiquetage énergétique, en raison de ses paramètres, ce produit ne nécessite pas dinformations détiquetage énergétique
+- Extension intelligente : le centre de contrôle Hue Bridge disponible séparément peut contrôler, automatiser et faire fonctionner la prise avec dautres lampes ou accessoires depuis nimporte où dans le monde.
+- DESIGN MODERNE Grâce à son design discret et compact mesurant 2 x 2 x 3,3 pouces, la prise intelligente Philips Hue blanche sintègre dans nimporte quel intérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09CV7QQKB{{</world>}}

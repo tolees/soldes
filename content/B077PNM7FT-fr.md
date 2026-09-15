@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Welt pockets
-- Flexible Comfort Waistband
 - Zip fly
-- Straight fit
+- Welt pockets
 - Signature Khaki Straight
+- Flexible Comfort Waistband
+- Straight fit
 - Wrinkle-free stretch cotton blend fabric
 - Refined chino pants with no wrinkle technology
 

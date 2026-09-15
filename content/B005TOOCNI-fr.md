@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Livré avec : GKT 55 GCE, 1 lame de scie circulaire pour bois, L-BOXX
 - Le système daspiration de poussières efficace et la lame silencieuse assurent un grand confort dutilisation en intérieur
 - Coupes de très grande précision grâce aux composants de grande qualité, à la lame de précision et au système de rails de guidage adapté
 - Le variateur de vitesse permet de réaliser des coupes dans une grande variété de matériaux
-- Livré avec : GKT 55 GCE, 1 lame de scie circulaire pour bois, L-BOXX
 - Très grande précision pour des coupes parfaites
 
 [🛒 Achète-le!!]({{< param buyurl >}})

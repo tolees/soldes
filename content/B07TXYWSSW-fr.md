@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce produit contient une source de lumière, il est possible de démonter le produit afin de contrôler séparément le fonctionnement de la source de lumière
-- Immédiatement à pleine lumière, pas de temps de préchauffage grâce au module LED intégré et à économie dénergie
-- Utilisation extérieure irréprochable avec la classe de protection IP65
-- Matériau du boîtier en aluminium de haute qualité
-- Technologie LED la plus récente et durable ; aucune ampoule ordinaire nest incluse
-- Alimentation électrique via un câble de 2 mètres de long avec fiche Schuko
 - Chambre à ouverture rapide intégrée pour ajuster langle du faisceau
+- Matériau du boîtier en aluminium de haute qualité
+- Utilisation extérieure irréprochable avec la classe de protection IP65
+- Alimentation électrique via un câble de 2 mètres de long avec fiche Schuko
+- Technologie LED la plus récente et durable ; aucune ampoule ordinaire nest incluse
+- Immédiatement à pleine lumière, pas de temps de préchauffage grâce au module LED intégré et à économie dénergie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TXYWSSW{{</world>}}

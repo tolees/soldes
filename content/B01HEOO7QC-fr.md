@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 6 à 8 personnes
 - Elément de chauffe horizontal
-- Appareil à raclette traditionnel
 - Inclinable et réglable en hauteur avec poignées en bois
+- Appareil à raclette traditionnel
 - Socle porte-fromage pivotant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

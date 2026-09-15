@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de manche : Manche longue
-- Conseils dentretien : Lavage en machine
 - Fermeture : Fermeture éclair
+- Conseils dentretien : Lavage en machine
+- Type de manche : Manche longue
 - Composition de matériau : 100% Nylon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

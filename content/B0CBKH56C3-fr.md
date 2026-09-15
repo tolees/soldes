@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Lavable en machine à 30 °C, passe au sèche-linge à basse température.
 - Comprend 2 grandes serviettes de bain.
 - Fabriqué en tissu 100 % coton.
-- Couleurs résistantes, très absorbantes et à séchage rapide.
 - Dimensions : 100 x 150 cm.
+- Couleurs résistantes, très absorbantes et à séchage rapide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CBKH56C3{{</world>}}

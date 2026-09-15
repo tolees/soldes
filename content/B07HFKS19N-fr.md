@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Système de montage facile pour onduleur et support.
 - Redémarrage automatique après surcharge, surtension ou sous-tension
 - Large plage de tension dentrée DC - Idéal pour les véhicules conformes aux normes européennes 6
-- Mode économie dénergie avec fonction réveil automatique.
 - La tension de sortie sinusoïdale pure de 230 V AC est adaptée aux appareils électriques sensibles.
+- Mode économie dénergie avec fonction réveil automatique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HFKS19N{{</world>}}

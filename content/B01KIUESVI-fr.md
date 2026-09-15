@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Faible consommation dénergie, fonctionnement froid et silencieux
-- Idéal pour booster le système et les applications de tous les types dordinateur
-- Capacité de 240 Go
-- Format Slim 7 mm
-- Interface Serial ATA III6 GBPs
 - Vitesse de lectureécriture séquentielle : jusquà 550Mos515Mos
+- Idéal pour booster le système et les applications de tous les types dordinateur
+- Format Slim 7 mm
+- Faible consommation dénergie, fonctionnement froid et silencieux
+- Capacité de 240 Go
+- Interface Serial ATA III6 GBPs
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

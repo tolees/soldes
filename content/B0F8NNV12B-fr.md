@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - NOUVEL APPAREIL PHOTO POLAROID : Le Polaroid GO est si mignon quon a envie de lui pincer les joues. Créez en grand avec le plus petit membre de la famille Polaroid.
-- RETARDATEUR ET PRÊT POUR SELFIE : Trouvez votre lumière avec le miroir à selfie réfléchissant et choisissez votre pose avec suffisamment de temps, grâce au retardateur.
-- CRÉEZ EN GRAND, EN PLUS PETIT : Portable, portable et emportez-le partout. Lappareil photo Polaroid Go est votre nouveau mini partenaire créatif.
 - NOUVEAU FORMAT DE FILM : Lappareil photo Polaroid Go naccepte que les films au format Polaroid Go. Retrouvez la magie Polaroid que vous connaissez et appréciez, en plus petit.
 - DOUBLE EXPOSITION, MOITIÉ PLUS PETITE : Ajoutez une autre couche à votre vision créative avec la fonction de double exposition facile à utiliser.
+- CRÉEZ EN GRAND, EN PLUS PETIT : Portable, portable et emportez-le partout. Lappareil photo Polaroid Go est votre nouveau mini partenaire créatif.
+- RETARDATEUR ET PRÊT POUR SELFIE : Trouvez votre lumière avec le miroir à selfie réfléchissant et choisissez votre pose avec suffisamment de temps, grâce au retardateur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F8NNV12B{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Choisissez un GPU jusquà 413 mm, ou jusquà 380 mm avec un radiateur avant de 420 mm
 - Améliorez lapparence de votre console de jeu grâce à des détails élégants en bois et en alliage
 - Compatible avec les radiateurs avant jusquà 420 mm et les radiateurs supérieurs jusquà 360 mm
-- Conçu pour les cartes mères E-ATX/ATX/mATX/MiTX
 - Prenez une longueur davance sur votre construction grâce aux trois ventilateurs Aspect PWM de 140 mm inclus
+- Choisissez un GPU jusquà 413 mm, ou jusquà 380 mm avec un radiateur avant de 420 mm
+- Conçu pour les cartes mères E-ATX/ATX/mATX/MiTX
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJCJ3ZZB{{</world>}}

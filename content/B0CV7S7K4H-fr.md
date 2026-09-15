@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Finitions poignets et bas de vêtement en bord côte
-- Logo brodé à scratch
 - 2 poches basses à rabat pressionné & 2 poches intérieures pressionnées
+- Logo brodé à scratch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV7S7K4H{{</world>}}

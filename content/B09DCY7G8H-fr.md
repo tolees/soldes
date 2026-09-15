@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de remplissage jusquà 5 L
 - Rondelle et tubes de remplissage en acier inoxydable
 - Cylindre, axe et plaque de pression en acier inoxydable
+- Capacité de remplissage jusquà 5 L
 - Écrous en acier inoxydable, boulons et vis
 - Boîtier et plaque de base en acier inoxydable
 

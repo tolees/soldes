@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tension dentrée de 75 à 1000 VCA
 - Les LED indiquent lorientation des phases (sens horaire ou antihoraire) et si chaque phase est sous tension
+- Tension dentrée de 75 à 1000 VCA
+- Pinces crocodiles entièrement isolées avec mâchoires larges
 - Boîtier durable avec aimant à larrière pour fixation à un panneau de distribution CA pour une mesure facile
 - Plage de fréquences de 45 à 65 Hz
-- Pinces crocodiles entièrement isolées avec mâchoires larges
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009VHWHTK{{</world>}}

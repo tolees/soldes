@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- massage sensuel et lubrifiant intime à lextrait dAloe Vera
 - pas darôme mais a un goût sucré agréable
+- massage sensuel et lubrifiant intime à lextrait dAloe Vera
 - À base deau nest pas gras et ne tache pas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

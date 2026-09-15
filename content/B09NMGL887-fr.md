@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Synthetic
 - Enfiler
-- Plat
 - Cuir
+- Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NMGL887{{</world>}}

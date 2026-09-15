@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design triangulaire : plus stable et fiable ; chaque bras de perche est livré avec 4 vis dexpansion, qui permettent au bras dêtre fermement fixé au mur
 - Remarque : (2) bras de perche inclus ; ce bras de perche doit être fixé à un mur robuste et la lumière mono sur limage nest pas incluse
 - Compatibilité : ce bras mural est parfait pour soutenir des équipements photographiques tels que les lampes flash vidéo de studio, les lumières mono, les boîtes à lumière, les parapluies et les réflecteurs
-- Rotation : le bras de la perche peut être tourné jusquà 180 degrés, vous permettant de régler langle et la hauteur de manière synchrone
 - Réglable : il peut être fixé sur un mur fixe et sa longueur est réglable de 103 cm à 180 centimètres
+- Design triangulaire : plus stable et fiable ; chaque bras de perche est livré avec 4 vis dexpansion, qui permettent au bras dêtre fermement fixé au mur
+- Rotation : le bras de la perche peut être tourné jusquà 180 degrés, vous permettant de régler langle et la hauteur de manière synchrone
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08VGGYNY1{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Instructions dentretien:Lavage en machine
-- Type dajustement:Coupe régulière
-- Type de fermeture:À enfiler
 - Composition de matériau:98% Coton, 2% Élasthannene
+- Type de fermeture:À enfiler
+- Type dajustement:Coupe régulière
+- Instructions dentretien:Lavage en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNHDVXPM{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour nourrir sans laisser de résidus sur le balcon et la terrasse
 - Aliment complémentaire de haute qualité pour tous les oiseaux sauvages granivores
+- Idéal pour nourrir sans laisser de résidus sur le balcon et la terrasse
 - Idéal aussi pour les petits oiseaux sauvages
 - Servies entières ou cassées sans coquilles
 

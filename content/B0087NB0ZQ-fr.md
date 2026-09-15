@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Appels mains libres
 - Musique stéréo et contrôle de la piste via Bluetooth
 - Conférence intercom jusquà 4 motards
 - Casque sans fil Bluetooth 3.0 et interphone à longue portée avec système Easy-contrôle (molette)
-- Appels mains libres
 - Profils de volume individuels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

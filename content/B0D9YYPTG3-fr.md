@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pompe pré-assemblée et dotée d’un collier de serrage supérieur permettant une rotation à 360° pour une installation rapide et facile
-- Le tamis de pré-filtration retient les particules plus larges pour protéger le rotor de la pompe et prolonger sa durée de vie
-- Réservoir de filtration durable et anticorrosion
 - Débit de la pompe : 3 596 L/h
+- Réservoir de filtration durable et anticorrosion
+- Le tamis de pré-filtration retient les particules plus larges pour protéger le rotor de la pompe et prolonger sa durée de vie
 - Compatible avec les piscines hors sol de 1 100 à 18 100 L
+- Pompe pré-assemblée et dotée d’un collier de serrage supérieur permettant une rotation à 360° pour une installation rapide et facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9YYPTG3{{</world>}}

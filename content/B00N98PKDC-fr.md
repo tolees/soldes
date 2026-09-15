@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce produit nest pas autorisé pour une installation permanente dans des bâtiments
-- Transmet avec le signal sonore à basse fréquence la puissance électrique pour la commande des haut-parleurs
 - Relie les connexions des haut-parleurs dun amplificateur audio à une enceinte acoustique
+- Ce produit nest pas autorisé pour une installation permanente dans des bâtiments
 - Matériau du conducteur interne: CCA (aluminium recouvert de cuivre) ; section du conducteur interne: 0,75mm² ; longueur du câble : 50 mètres de câble
+- Transmet avec le signal sonore à basse fréquence la puissance électrique pour la commande des haut-parleurs
 - Câble de haut-parleur rouge / noir avec un diamètre extérieur de 2,5mm x 5,2mm et 2 x 24 conducteurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

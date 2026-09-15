@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poches structurées à empiècements avec poche à monnaie intégrée
+- Avant plissé
 - Poches dos carrées, fermeture à bouton
 - Lourlet de la jambe se replie, il nest pas fixe
-- Avant plissé
-- Poches structurées à empiècements avec poche à monnaie intégrée
 - Braguette zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

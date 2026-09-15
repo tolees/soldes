@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- RICHESSE BRÉSILIENNE - La formule ultra-riche, infusée au beurre de Murumuru, offre un éclat radieux digne dune déesse brésilienne ! Contient des perles ultra-raffinées et des pigments matifiants
 - QUAND LA NATURE RENCONTRE LA SCIENCE - Chez Physicians Formula, nous sélectionnons des ingrédients purs et efficaces. La peau mérite un maximum de bien-être et nous tenons cette promesse chaque jour
 - SÛR ET FIABLE - Chez Physicians Formula, nous garantissons toujours la sécurité et la qualité de nos produits cosmétiques. Vous ne serez jamais déçu(e) !
-- RICHESSE BRÉSILIENNE - La formule ultra-riche, infusée au beurre de Murumuru, offre un éclat radieux digne dune déesse brésilienne ! Contient des perles ultra-raffinées et des pigments matifiants
 - INGRÉDIENTS MIN, PERFORMANCES MAX - Nos formules sont élaborées avec peu dingrédients, mais testées pour des performances maximales, vous naurez donc jamais à sacrifier votre santé pour la beauté
 - RESPECTUEUX POUR LA PEAU - Infusé en beurre de Murumuru, beurre de Cupuacu et beurre de Tucuma, ce mélange dAmazonie est riche en nutriments et rempli dacides gras essentiels et de provitamines
 

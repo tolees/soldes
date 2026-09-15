@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En polycarbonate
 - Prédisposé à recevoir un film Pinlock
+- En polycarbonate
 - Traité anti-rayures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

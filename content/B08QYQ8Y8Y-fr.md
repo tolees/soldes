@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage à la main seulement
+- 82% Coton, 18% Polyester
 - Fermeture: Pull On
 - Standard
+- Lavage à la main seulement
 - Manche longue
 - Type de col: sweatshirt
-- 82% Coton, 18% Polyester
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QYQ8Y8Y{{</world>}}

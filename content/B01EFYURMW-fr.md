@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Température sur la pointe de 800 °c
-- Pile alcaline interne à longue durée de vie (environ 60 minutes)
 - Poids : 65 g
 - Système bipolaire auto-alimentée jetable stérile pour la cauterizzazione de petits pots
+- Température sur la pointe de 800 °c
 - Longueur : 18 cm
+- Pile alcaline interne à longue durée de vie (environ 60 minutes)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01EFYURMW{{</world>}}

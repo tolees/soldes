@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaque mouvement détecté est enregistré manuellement ou automatiquement sur une carte micro SD jusquà 128 Gb (non fournie) et lobservateur peut regarder en direct et à distance depuis son smartphone ou sa tablette avec lapplication My Chacon (disponible pour iOS et Android)
-- La caméra intérieure pivotante de Chacon vous permet de surveiller votre maison discrètement depuis votre smartphone
-- Installation facile · Compatible avec Google Home et Amazon Alexa · 1920 x 1080 p
 - Surveillance des angles et des angles les plus petits : Avec sa haute résolution (1920 x 1080p), lIP CAM-RI03 est un appareil photo qui trouvera facilement sa place dans votre maison
 - Original et discret, il surveille votre maison à distance, jour comme nuit, avec une vision nocturne jusquà 8 m et un grand angle de vue grâce à une rotation horizontale de 355° et une rotation verticale de 55°
+- La caméra intérieure pivotante de Chacon vous permet de surveiller votre maison discrètement depuis votre smartphone
+- Chaque mouvement détecté est enregistré manuellement ou automatiquement sur une carte micro SD jusquà 128 Gb (non fournie) et lobservateur peut regarder en direct et à distance depuis son smartphone ou sa tablette avec lapplication My Chacon (disponible pour iOS et Android)
+- Installation facile · Compatible avec Google Home et Amazon Alexa · 1920 x 1080 p
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B096XJBK8H{{</world>}}

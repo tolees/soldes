@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : matrice de poinçonnage Bosch Pro, PG21, acier inoxydable
 - Pour percer des trous dans lacier jusquà 3 mm dépaisseur et lacier inoxydable jusquà 2,5 mm dépaisseur, par exemple lors de linstallation de boîtiers électriques et darmoires de commutation
+- Contenu de la livraison : matrice de poinçonnage Bosch Pro, PG21, acier inoxydable
 - Conçu pour percer des trous sans bavure dans la tôle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

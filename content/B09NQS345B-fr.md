@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Certification Global Recycled Standard
 - Semelle extérieure: EVA pour plus de légèreté (20% recyclé)
 - Ortholite smelle interne pour amorti et respirabilité
-- Certification Global Recycled Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NQS345B{{</world>}}

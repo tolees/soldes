@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Drap-housse avec bonnet élastique pour un ajustement optimal sur des matelas dune épaisseur allant jusquà 30 cm
-- Facile dentretien : lavable en machine à 40 °C, Utilisez uniquement un agent de blanchiment sans chlore lorsque cela est nécessaire, passe au sèche-linge à faible température
 - 100 % microfibre polyester 85 g/m² pour une douceur et une résistance optimales
 - Inclut 1 drap-housse de 90 x 200 x 30 cm
 - Anti-plis - Couleur blanche unie permettant de facilement le coordonner à dautres éléments
+- Facile dentretien : lavable en machine à 40 °C, Utilisez uniquement un agent de blanchiment sans chlore lorsque cela est nécessaire, passe au sèche-linge à faible température
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01E6XB5L4{{</world>}}

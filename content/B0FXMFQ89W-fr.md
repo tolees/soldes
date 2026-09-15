@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPOSITION: Corps en plastique robuste ; lame en acier inoxydable extrêmement tranchante avec affûtage lisse pour des coupes nettes et régulières
+- DESCRIPTION: Mandoline réglable 4 épaisseurs de coupe Fackelmann, fabriquée en Allemagne et de haute qualité, avec lame hautement affûtée pour des coupes précises et régulières
+- PETIT +: Curseur réglable pour quatre épaisseurs de coupe, facilitant la préparation de divers plats ; le poussoir protège efficacement vos doigts pendant l’utilisation
 - UTILISATION: Idéale pour couper courgettes, concombres, carottes, chou, pommes de terre et autres légumes ou fruits, pour des salades, flans de légumes, gratins dauphinois ou beignets aussi beaux que délicieux
 - DIMENSIONS: Compacte avec des mesures de 31 × 12 × 3,5 cm, facile à manier et à ranger
-- PETIT +: Curseur réglable pour quatre épaisseurs de coupe, facilitant la préparation de divers plats ; le poussoir protège efficacement vos doigts pendant l’utilisation
-- DESCRIPTION: Mandoline réglable 4 épaisseurs de coupe Fackelmann, fabriquée en Allemagne et de haute qualité, avec lame hautement affûtée pour des coupes précises et régulières
+- COMPOSITION: Corps en plastique robuste ; lame en acier inoxydable extrêmement tranchante avec affûtage lisse pour des coupes nettes et régulières
 - ENTRETIEN: Facile à nettoyer avec une éponge, convient parfaitement pour un usage quotidien en cuisine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

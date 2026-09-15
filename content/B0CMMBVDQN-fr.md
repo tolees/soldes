@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Coupe active, Matière coupe-vent, Matière imperméable
 - Veste de trekking SENECA GTX 2L nous accompagne dans toutes nos sorties en montagne, sa membrane GORE-TEX ePE à la fois imperméable et respirante nous protège durablement des intempéries tout en minimisant son impact sur l’environnement
-- 2 poches mains zippées sous rabats, Ouverture centrale avec zip étanche YKK, Bas réglable par cordon élastique et autobloqueur
-- Capuche attenante, ergonomique ajustable 3D par cordon élastiqué, visière intégrée avec câble de maintien, Ventilations dessous de bras zippées
 - Poignets réglables par pattes velcro, Sous patte de protection, Bas de vêtement ajustable en 1 point, Construction 2 couches avec doublure filet pour le confort
+- Capuche attenante, ergonomique ajustable 3D par cordon élastiqué, visière intégrée avec câble de maintien, Ventilations dessous de bras zippées
+- 2 poches mains zippées sous rabats, Ouverture centrale avec zip étanche YKK, Bas réglable par cordon élastique et autobloqueur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CMMBVDQN{{</world>}}

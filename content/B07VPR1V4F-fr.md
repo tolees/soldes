@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tige : Cuir (Cuir de vachette)
 - Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
-- Couleur : blanc
 - XL EXTRALIGHT, tout en légèreté et absorption des chocs
+- Couleur : blanc
 - Coutures à 360° pour une meilleure durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

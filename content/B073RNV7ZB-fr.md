@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Polartec
-- ouverture à lavant avec zip spirale ykk
-- coutures plates pour moins dépaisseur
-- Cette fermeture éclair intégrale ultra-légère est un must
-- Poches pour les mains avec zip ykk
-- Design en polaire super léger avec fermeture éclair intégrale
 - Avec une excellente polyvalence toute lannée, ce haut léger en polaire brossé convient aussi bien pour le sport que pour les loisirs
-- Polartec 100 g
-- Logo hh brodé sur la poitrine
+- Poches pour les mains avec zip ykk
+- Cette fermeture éclair intégrale ultra-légère est un must
+- Design en polaire super léger avec fermeture éclair intégrale
+- coutures plates pour moins dépaisseur
+- ouverture à lavant avec zip spirale ykk
 - Fermeture éclair intégrale YKK
+- Logo hh brodé sur la poitrine
+- Polartec 100 g
+- Polartec
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073RNV7ZB{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IBILI
-- Coupe-légumes professionnel
 - Durable
+- Coupe-légumes professionnel
+- IBILI
 - Country of origine: Espagne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Membrane GORE-TEX.
-- Système de laçage rapide.
-- Poids : 393,5 g (pointure 42 2/3).
-- Semelle intermédiaire en EVA.
-- Tige textile et synthétique avec empiècements résistant à labrasion.
-- Languette à goussets.
 - Semelle extérieure en caoutchouc Continental.
-- Drop semelle intermédiaire : 10 mm (talon : 29 mm / avant-pied : 19 mm).
+- Semelle intermédiaire en EVA.
+- Poids : 393,5 g (pointure 42 2/3).
 - Chaussant standard.
+- Système de laçage rapide.
+- Languette à goussets.
+- Tige textile et synthétique avec empiècements résistant à labrasion.
+- Membrane GORE-TEX.
+- Drop semelle intermédiaire : 10 mm (talon : 29 mm / avant-pied : 19 mm).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVTZ7Y4{{</world>}}

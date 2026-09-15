@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle extérieure en caoutchouc.
 - Fermeture à lacets.
-- Tige textile.
-- Doublure textile.
 - Chaussant standard.
 - Contient au moins 20 % de matériaux recyclés.
+- Doublure textile.
+- Tige textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR9HBM39{{</world>}}

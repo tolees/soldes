@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drop semelle intermédiaire : 8,5 mm (talon : 20,5 mm / avant-pied : 12 mm)
-- Drop semelle intermédiaire : 8,5 mm (talon : 20,5 mm / avant-pied : 12 mm)
-- Chaussant standard
-- Fermeture à lacets avec scratch
-- Poids : 171 g
 - Semelle extérieure Traxion
-- Semelle de propreté avec outil de mesure de la longueur Adifit
-- Semelle intermédiaire en EVA
+- Drop semelle intermédiaire : 8,5 mm (talon : 20,5 mm / avant-pied : 12 mm)
+- Poids : 171 g
 - Tige en mesh avec empiècements résistants à labrasion
+- Semelle intermédiaire en EVA
+- Semelle de propreté avec outil de mesure de la longueur Adifit
+- Chaussant standard
+- Drop semelle intermédiaire : 8,5 mm (talon : 20,5 mm / avant-pied : 12 mm)
+- Fermeture à lacets avec scratch
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHZH2NCG{{</world>}}

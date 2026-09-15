@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusqu’à 2 jours d’autonomie et charge rapide 25W Une batterie longue durée qui peut être rechargée en un éclair
 - Ecran 6,4’’ Super AMOLED 120Hz Un écran très lumineux et ultra-fluide
+- Triple capteur photo et selfie 32MP Pour changer d’angle de vue et capturer chaque détail
+- Jusqu’à 2 jours d’autonomie et charge rapide 25W Une batterie longue durée qui peut être rechargée en un éclair
 - Capteur principal 50MP avec stabilisation optique Des photos stables et nettes, même la nuit
 - Résistant à l’eau et à la poussière (IP67) Pour être emmené partout avec vous
-- Triple capteur photo et selfie 32MP Pour changer d’angle de vue et capturer chaque détail
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV4HC8PT{{</world>}}

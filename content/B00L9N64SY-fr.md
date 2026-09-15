@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- NOTES DE FOND : Patchouli, mousse.
+- NOTES DE CŒUR : Rose, jasmin.
+- PLUS DE 700 INGRÉDIENTS : Avec sa composition envoûtante, ce parfum Clinique est bien plus quun simple parfum.
 - NOTES DE TÊTE : Muguet, camomille.
 - COMPLEXE. SENSUEL. CHALEUREUX. Le parfum culte Aromatics Elixir est une fragrance audacieuse. Les parfumeurs le qualifient de chypré, un mélange de notes boisées et de mousse.
-- PLUS DE 700 INGRÉDIENTS : Avec sa composition envoûtante, ce parfum Clinique est bien plus quun simple parfum.
-- NOTES DE CŒUR : Rose, jasmin.
-- NOTES DE FOND : Patchouli, mousse.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00L9N64SY{{</world>}}

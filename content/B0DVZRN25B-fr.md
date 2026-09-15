@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Moniteur de bureau
-- Technologie IPS
-- 60,5 cm
-- Webcam
 - LED Full HD
+- Moniteur de bureau
+- Webcam
+- 60,5 cm
+- Technologie IPS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVZRN25B{{</world>}}

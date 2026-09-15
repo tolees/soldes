@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONÇU POUR DES PERFORMANCES OPTIMALES : gardez le contrôle de vos conversations grâce à une autonomie en mode conversation jusquà 21 heures (jusquà 10 heures en mode conversation avec une charge rapide de 15 minutes), des commandes simples sur loreille et des capteurs intelligents pour la prise dappels automatique. Portée sans fil jusquà 30 m.
-- RESTEZ CONNECTÉ : connectez jusquà deux appareils Bluetooth (PC, Mac, iPhone, Android) à tout moment grâce à la technologie multipoint (mémorise jusquà 8 appareils Bluetooth). Ladaptateur BT700 inclus permet de meilleures performances audio et une expérience utilisateur plus homogène que la connexion directe à un PC/Mac via Bluetooth.
-- METTEZ-VOUS DANS LAMBIANCE : restez concentré en éliminant les perturbations extérieures grâce au système adaptatif dannulation active du bruit (ANC) et au design circum-aural. Haut-parleurs de 40 mm et codec aptX-HD de haute qualité pour une expérience immersive avec les jeux mobiles, la musique ou les films.
+- CONTENU DE LA BOÎTE : tout ce dont vous avez besoin, y compris un micro-casque Voyager Surround 80, un étui de transport, un adaptateur Bluetooth USB-C BT700, un adaptateur USB-C vers USB-A, un câble de chargement USB-C vers USB-C, un câble USB-C vers Jack 3,5 mm et un guide de lutilisateur
 - PRENEZ VOS APPELS OÙ QUE VOUS SOYEZ : profitez dun son optimal grâce aux 6 microphones intégrés pour une transmission audio claire et limpide, le tout dans un design sans perche.
 - CERTIFIÉ MICROSOFT TEAMS : accédez instantanément à Microsoft Teams avec un bouton Teams dédié. Conforme aux exigences des microphones haut de gamme pour Microsoft Teams Open Office. Profitez dune expérience de collaboration fluide avec les principales plates-formes, notamment Zoom, Google Meet et bien dautres.
 - CONCENTRATION ET CONFORT : vous en oublierez que vous portez un micro-casque avec son design en fibre de carbone élégant, ses écouteurs ultra-doux et son serre-tête réglable pour un port ultra-léger.
-- CONTENU DE LA BOÎTE : tout ce dont vous avez besoin, y compris un micro-casque Voyager Surround 80, un étui de transport, un adaptateur Bluetooth USB-C BT700, un adaptateur USB-C vers USB-A, un câble de chargement USB-C vers USB-C, un câble USB-C vers Jack 3,5 mm et un guide de lutilisateur
+- RESTEZ CONNECTÉ : connectez jusquà deux appareils Bluetooth (PC, Mac, iPhone, Android) à tout moment grâce à la technologie multipoint (mémorise jusquà 8 appareils Bluetooth). Ladaptateur BT700 inclus permet de meilleures performances audio et une expérience utilisateur plus homogène que la connexion directe à un PC/Mac via Bluetooth.
+- CONÇU POUR DES PERFORMANCES OPTIMALES : gardez le contrôle de vos conversations grâce à une autonomie en mode conversation jusquà 21 heures (jusquà 10 heures en mode conversation avec une charge rapide de 15 minutes), des commandes simples sur loreille et des capteurs intelligents pour la prise dappels automatique. Portée sans fil jusquà 30 m.
+- METTEZ-VOUS DANS LAMBIANCE : restez concentré en éliminant les perturbations extérieures grâce au système adaptatif dannulation active du bruit (ANC) et au design circum-aural. Haut-parleurs de 40 mm et codec aptX-HD de haute qualité pour une expérience immersive avec les jeux mobiles, la musique ou les films.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BW4XP541{{</world>}}

@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Design élégant et polyvalent qui se marie facilement avec tout autre style de meubles. Sadapte à lespace, sadapte au budget.
 - Fabriqué à partir de bois composite de qualité CARB.
 - Créez plus despace de rangement en ayant cette bibliothèque dans votre chambre.
-- Dimensions : 23,62 x 30,48 x 106,17 cm
 - Dispose de 3 étagères ouvertes pour laffichage et le rangement. Armoire fermée en bas pour garder votre chambre loin du désordre. Chaque étagère peut supporter jusquà 7 kg.
+- Dimensions : 23,62 x 30,48 x 106,17 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BWMYCGJ4{{</world>}}

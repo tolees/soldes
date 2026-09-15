@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【4K Ultra HD】Équipée d’un capteur professionnel de 8 MP, la caméra offre des images en ultra haute définition 4K avec un rendu d’une netteté exceptionnelle offrant un niveau de détail impressionnant.
 - 【Détection et suivi des personnes】Dès qu’une personne est détectée, ses mouvements sont suivis automatiquement et une notification est envoyée immédiatement sur votre smartphone.
-- 【Cache objectif physique】Protégez votre vie privée facilement. Lorsque la caméra n’est pas utilisée, vous pouvez activer le cache physique de l’objectif depuis votre smartphone. Une fois activé, l’objectif se rétracte automatiquement dans le boîtier pour garantir votre intimité. Vous pouvez également personnaliser les horaires d’activation selon vos besoins.
 - 【Wi-Fi 6 double bande】La caméra bénéficie d’une bande passante élevée réduisant les interférences réseau. La technologie OFDMA permet une latence réduite, une connexion plus stable et une expérience plus fluide.
+- 【Cache objectif physique】Protégez votre vie privée facilement. Lorsque la caméra n’est pas utilisée, vous pouvez activer le cache physique de l’objectif depuis votre smartphone. Une fois activé, l’objectif se rétracte automatiquement dans le boîtier pour garantir votre intimité. Vous pouvez également personnaliser les horaires d’activation selon vos besoins.
+- 【4K Ultra HD】Équipée d’un capteur professionnel de 8 MP, la caméra offre des images en ultra haute définition 4K avec un rendu d’une netteté exceptionnelle offrant un niveau de détail impressionnant.
 - 【Détection et suivi des animaux de compagnie】La caméra suit automatiquement et enregistre les mouvements de votre animal.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

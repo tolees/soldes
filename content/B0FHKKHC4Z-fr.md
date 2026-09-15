@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Attaque secondaire ! Un deuxième bouton sur le dos déclenche une attaque latérale des mâchoires et une seconde mutation offensive, où les plaques de protection de son dos s’étendent !
-- Ride ’N Rampage : Colossal Chase! Faites la course avec différents véhicules sur terre, dans les airs et sur mer, et jouez à un jeu de tir renversant pour extraire l’ADN des dinosaures !
-- Un nouveau géant dans votre collection. Mesurant 38 cm de long, ce gorgosaure au design authentique est prêt à passer à l’action contre ses adversaires. Il complète à merveille n’importe quelle collection pour les fans à partir de 4 ans.
-- Évolution et queue qui tourne ! Un bouton situé sur le côté du dinosaure active une attaque tourante spectaculaire de sa queue et une extension des pointes de la queue. Cette mutation décuple sa puissance d’attaque !
-- Scannez et collectionnez ! Dans l’application gratuite Jurassic World Play, scannez le code présent sur la patte du dinosaure à l’aide d’un appareil connecté compatible (non inclus) pour débloquer des activités en réalité augmentée et constituer une collection de dinosaures numériques !
 - Attaque enragée ! Le gorgosaure revient à la vie avec cette figurine Jurassic World Géants Féroces, qui inclut 2 attaques furieuses et une évolution de son corps.
+- Scannez et collectionnez ! Dans l’application gratuite Jurassic World Play, scannez le code présent sur la patte du dinosaure à l’aide d’un appareil connecté compatible (non inclus) pour débloquer des activités en réalité augmentée et constituer une collection de dinosaures numériques !
+- Un nouveau géant dans votre collection. Mesurant 38 cm de long, ce gorgosaure au design authentique est prêt à passer à l’action contre ses adversaires. Il complète à merveille n’importe quelle collection pour les fans à partir de 4 ans.
+- Ride ’N Rampage : Colossal Chase! Faites la course avec différents véhicules sur terre, dans les airs et sur mer, et jouez à un jeu de tir renversant pour extraire l’ADN des dinosaures !
+- Évolution et queue qui tourne ! Un bouton situé sur le côté du dinosaure active une attaque tourante spectaculaire de sa queue et une extension des pointes de la queue. Cette mutation décuple sa puissance d’attaque !
+- Attaque secondaire ! Un deuxième bouton sur le dos déclenche une attaque latérale des mâchoires et une seconde mutation offensive, où les plaques de protection de son dos s’étendent !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FHKKHC4Z{{</world>}}

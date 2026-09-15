@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo sur la languette, inspiré du 991 original en fausse dentelle
-- Dispositif CR translucide sur le talon
 - Semelle intermédiaire double densité avec amorti ABZORB et SBS
+- Dispositif CR translucide sur le talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYC15LSL{{</world>}}

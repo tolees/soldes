@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LICENCE OFFICIELLE NARUTO - Figurine collector issue de la série Naruto Shippuden
 - FIGURINE ARTICULÉE - Figurine de 17 cm, très détaillée avec 16 points darticulation
-- COLLECTION ANIME HEROES - Collectionnez toutes les figurines Anime Heroes de Bandai
 - FIGURINE MANGA - Personnage : Naruto Uzumaki, célèbre ninja de Konoha qui est le héros du manga et animé Naruto.
+- LICENCE OFFICIELLE NARUTO - Figurine collector issue de la série Naruto Shippuden
 - ACCESSOIRES INCLUS - Plusieurs mains disponibles pour recréer toutes les scènes de la série Naruto
+- COLLECTION ANIME HEROES - Collectionnez toutes les figurines Anime Heroes de Bandai
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081QXS7SS{{</world>}}

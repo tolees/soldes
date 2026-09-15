@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transformez une monoculture morte dun autre temps en un jardin magique hétéroclite et florissant. Créez un foyer pour des tonnes de créatures adorables — et grattouillez-les toutes !
-- Cultivez et récoltez des fruits et légumes biologiques, des herbes aromatiques et des fleurs resplendissantes.
 - Exprimez-vous en décorant votre petit nid douillet avec vos propres creations. Explorez lîle et découvrez son histoire antique.
+- Cultivez et récoltez des fruits et légumes biologiques, des herbes aromatiques et des fleurs resplendissantes.
 - Découvrez et préparez de délicieuses recettes des quatre coins du monde dans votre Chaudron Magique.
+- Transformez une monoculture morte dun autre temps en un jardin magique hétéroclite et florissant. Créez un foyer pour des tonnes de créatures adorables — et grattouillez-les toutes !
 - Faites-vous de nouveaux amis parmi les villageois et participez à la renaissance de lesprit de communauté.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

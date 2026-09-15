@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - PARTENAIRES : invitez un ami et patrouillez ensemble
 - RESPONSABILITÉS : plus de 50 infractions et délits
+- PATROUILLEZ : découvrez le quotidien dun agent de police
 - GRAND MONDE OUVERT : trois districts composés de plusieurs quartiers chacun, avec leur propre touche distinctive
 - JOUEZ À VOTRE FAÇON : choisissez entre le mode Occasionnel et le mode Simulation
-- PATROUILLEZ : découvrez le quotidien dun agent de police
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D94B48CQ{{</world>}}

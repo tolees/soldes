@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Confectionnée en cuir haut de gamme ou en nubuck gras résistant signés ECCO
-- Construction ECCO FLUIDFORM emblématique sans couture pour un mouvement souple, flexible et fluide
-- Semelle extérieure légère en PU à la texture unique
 - Double élastique renforcé pour les enfiler facilement
+- Semelle extérieure légère en PU à la texture unique
+- Construction ECCO FLUIDFORM emblématique sans couture pour un mouvement souple, flexible et fluide
 - Doublure textile douce
 - Ajustement double grâce à la semelle intérieure revêtue de cuir bébéficiant de la technologie ECCO PHORENE
 

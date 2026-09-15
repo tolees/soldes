@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cuir nubuck pour une sandale haut de gamme sur les sentiers
 - Bout de la chaussure: Rond
 - Merrell, shoe, femenino, adulto, vapor glove 6 purple, 40
-- Cuir nubuck pour une sandale haut de gamme sur les sentiers
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D4Z3T19X{{</world>}}

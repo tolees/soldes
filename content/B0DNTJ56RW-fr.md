@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poche kangourou
 - Standard
-- Épaules tombantes
 - Tissu éponge en pur coton
 - Poignets et ourlet côtelés
+- Épaules tombantes
 - Encolure à capuche avec cordon de serrage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

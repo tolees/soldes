@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super Design Spiderman !
-- Lumière LED à faible consommation en énergie avec changement de couleur
 - Alimentation : piles 3 x 1,5V AAA/LR03 (non incluses)
+- Lumière LED à faible consommation en énergie avec changement de couleur
 - Fonction haut-parleur avec câble auxiliaire double tête (inclus)
+- Super Design Spiderman !
 - Changement de couleur : bleu, jaune, rouge et vert.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

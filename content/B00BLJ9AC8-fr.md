@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - La forme hexagonale des crayons garantit non seulement une prise en main confortable, mais permet également un dessin précis
 - Le set dartiste comprend cinq crayons de graphite de dureté HB, 2B, 4B, 6B et 8B
-- Le Castell 9000 Jumbo est idéal pour les travaux artistiques, les croquis rapides, les esquisses et les dessins de grande taille
 - Ils sont recouverts dun vernis à leau respectueux de la nature et sont particulièrement résistants à la casse afin de garantir une utilisation durable et longue durée
+- Le Castell 9000 Jumbo est idéal pour les travaux artistiques, les croquis rapides, les esquisses et les dessins de grande taille
 - Les crayons à dessin ont une mine graphite particulièrement épaisse et douce dun diamètre de 5,3 mm, idéale pour des effets expressifs et picturaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

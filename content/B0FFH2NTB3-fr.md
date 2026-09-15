@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BASE ANTIDÉRAPANTE EN CAOUTCHOUC - Assure une excellente stabilité sur toutes les surfaces de travail
 - PRODUIT OFFICIEL DISNEY STITCH - Inspiré du célèbre personnage de Lilo & Stitch, pour une touche de fun et de tendresse
+- BASE ANTIDÉRAPANTE EN CAOUTCHOUC - Assure une excellente stabilité sur toutes les surfaces de travail
 - IMPERMÉABLE - Conçu pour résister aux éclaboussures et préserver l’esthétique du tapis jour après jour
 - GRUPO ERIK - L’univers de tes personnages préférés prend vie. De Stitch aux plus grands classiques, notre papeterie et notre merchandising reflètent les tendances actuelles et l’amour des licences.
 - TISSU HAUTE DENSITÉ - Offrant une surface lisse et durable, parfaite pour un usage intensif avec tout type de souris

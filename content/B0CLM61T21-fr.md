@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
-- Poids : 319 g (pointure 42 2/3).
-- Semelle extérieure en TPU.
 - Drop semelle intermédiaire : 6 mm (talon 35 mm / avant-pied 29 mm).
-- Semelle intermédiaire Cloudfoam.
-- Tige textile.
 - Chaussant standard.
+- Fermeture à lacets.
+- Semelle intermédiaire Cloudfoam.
 - Doublure textile.
+- Tige textile.
+- Semelle extérieure en TPU.
+- Poids : 319 g (pointure 42 2/3).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLM61T21{{</world>}}

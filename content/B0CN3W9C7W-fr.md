@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste dhiver déperlante pour homme, Idéale pour les journées froides dhiver en ville, les randonnées et autres activités de plein air, Coupe moderne
 - Particulièrement chaude grâce à Omni-Heat avec doublure thermoréfléchissante, Isolation Thermorégulatrice pour une protection optimale contre le vent et les intempéries
 - Contents: 1x Columbia Powder Lite II, Veste à Capuche pour Homme, Colour: Noir (Black), Size: XXL, Article: 2086944
+- Veste dhiver déperlante pour homme, Idéale pour les journées froides dhiver en ville, les randonnées et autres activités de plein air, Coupe moderne
 - Zip entier pratique, 2 poches zippées pour des mains chaudes et en sécurité
 - Cordon de serrage à lourlet pour un confort optimal, Poignets élastiques pour un stockage optimal de la chaleur
 

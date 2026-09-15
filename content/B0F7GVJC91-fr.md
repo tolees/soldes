@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Comprend une feuille dautocollants.
-- Carnet au format A4 avec reliure spirale et couverture rigide.
 - Avec 160 pages carrées de 90 g/m², certifiées FSC, ce qui garantit que le papier provient de forêts gérées de manière responsable.
+- Carnet au format A4 avec reliure spirale et couverture rigide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F7GVJC91{{</world>}}

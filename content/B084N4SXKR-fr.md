@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester
 - Manche longue
+- 100% Polyester
 - Retirer la bordure de capuche avant le lavage
 - Classique
 

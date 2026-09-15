@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en mesh respirant pour une excellente ventilation.
 - Semelle extérieure en caoutchouc durable pour une adhérence optimale sur diverses surfaces.
+- Tige en mesh respirant pour une excellente ventilation.
 - Technologie de semelle intermédiaire avancée pour un amorti supérieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

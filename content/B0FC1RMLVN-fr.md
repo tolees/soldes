@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Documents à portée de main : importez des documents depuis Google Drive et Microsoft OneDrive directement sur votre appareil pour les annoter. Exportez vos carnets de notes vers Microsoft OneNote.
-- Nouvel écran Colorsoft : lécran sur mesure à base doxyde offre des couleurs contrastées, fidèles au papier. Il ne fatigue pas les yeux et ne produit pas de scintillements gênants lorsque vous écrivez.
-- Longue autonomie : profitez de plusieurs semaines de lecture et décriture avec une seule charge.
 - La sensation du papier : surface texturée et réactivité optimale pour une expérience décriture naturelle. Le stylet premium inclus ne nécessite aucune charge.
-- Carnet de notes intégré avec outils IA : trouvez des informations même si vous ne vous souvenez pas des mots-clés exacts, générez des résumés et discutez de vos notes pour en extraire des idées. Peaufinez votre écriture manuscrite ou convertissez vos notes en texte.
-- Notez vos idées dans les documents et livres : commencez simplement à écrire et la fonctionnalité Active Canvas créera un espace pour vos notes. Agrandissez les marges pour avoir plus despace ou réduisez-les pour voir le texte dorigine.
+- Nouvel écran Colorsoft : lécran sur mesure à base doxyde offre des couleurs contrastées, fidèles au papier. Il ne fatigue pas les yeux et ne produit pas de scintillements gênants lorsque vous écrivez.
 - Fin, léger et rapide : cet appareil au design inspiré du papier vous offre confort et fluidité. Avec son écran 11", vous disposez dun grand espace pour écrire, lire et laisser libre cours à vos idées.
+- Longue autonomie : profitez de plusieurs semaines de lecture et décriture avec une seule charge.
+- Notez vos idées dans les documents et livres : commencez simplement à écrire et la fonctionnalité Active Canvas créera un espace pour vos notes. Agrandissez les marges pour avoir plus despace ou réduisez-les pour voir le texte dorigine.
+- Carnet de notes intégré avec outils IA : trouvez des informations même si vous ne vous souvenez pas des mots-clés exacts, générez des résumés et discutez de vos notes pour en extraire des idées. Peaufinez votre écriture manuscrite ou convertissez vos notes en texte.
+- Documents à portée de main : importez des documents depuis Google Drive et Microsoft OneDrive directement sur votre appareil pour les annoter. Exportez vos carnets de notes vers Microsoft OneNote.
 - Notre Kindle Scribe le plus perfectionné : doté dun écran Colorsoft 11" avec éclairage avant, carnet de notes intégré, outils IA et prise en charge des principaux services Cloud.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

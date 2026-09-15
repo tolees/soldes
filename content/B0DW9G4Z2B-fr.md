@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Glide-Step
 - Lavable en machine
-- Végétalien
 - Slip-Ins
+- Glide-Step
+- Végétalien
 - Mousse à mémoire de forme refroidie par air
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Amusez-vous à faire deviner ou à deviner un animal, un objet, un métier, un personnage… avec toutes les cartes transparentes !
+- Imagine Famille est la version enfants et parents du fameux jeu Imagine !
 - A partir de 8 ans
 - Un jeu testé et approuvé par les enfants qui stimule la créativité et l’imagination !
-- Imagine Famille est la version enfants et parents du fameux jeu Imagine !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08CH6W75H{{</world>}}

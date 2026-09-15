@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une fonction « changement de voix » pour des fous rires garantis ! 3 effets : voix très aigue, voix très grave ou écho.
-- 2 micros inclus pour chanter comme une star !
 - Lecteur karaoké portable pour enfants, fonctionne sans fil avec tous les appareils équipés de Bluetooth !
 - Prise AUX IN, ports USB et de carte TF/micro SD (jusquà 32 GB) pour écouter des chansons sur des supports audio externes ! Prise pour casque.
+- 2 micros inclus pour chanter comme une star !
 - Fonction enregistrement pour s’enregistrer en train de chanter !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trous daération
-- Système de fermeture à pédale
 - Sol avec bord incliné qui protège de la boue et de leau
 - Dimensions : 132 x 71,5 x 113,5 cm
+- Système de fermeture à pédale
 - Finition affection bois
+- Trous daération
 - Supports internes intégrés pour montage détagères
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

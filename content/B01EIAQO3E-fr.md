@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtres dhabitacle MANN-FILTER - Avec charbon actif - Protection contre presque 100% des particules de pollen / suie de diesel / l’usure des pneus / gaz nocifs et odeurs désagréables
-- Trouvez le bon filtre : pièce de rechange en sélectionnant la marque, le modèle, le type de véhicule et le moteur dans la zone supérieure ou également via les numéros de clé (HSN/TSN) des documents du véhicule
+- MANN-FILTER Filtre à air dhabitacle CUK 24 013 / Filtre à pollen avec charbon actif / Dimensions (mm): H = 21 ; A = 239 ; B = 194 / Filtre Premium en qualité dorigine
 - MANN-FILTER se conforme aux exigences du règlement REACH et sengage à respecter la protection de lenvironnement lors du développement, de la fabrication et du recyclage de ses produits
 - Le charbon actif industriel offre une protection contre les gaz nocifs tels que lozone, loxyde dazote ou le dioxyde de soufre et élimine efficacement les odeurs désagréables pendant lentretien
-- MANN-FILTER Filtre à air dhabitacle CUK 24 013 / Filtre à pollen avec charbon actif / Dimensions (mm): H = 21 ; A = 239 ; B = 194 / Filtre Premium en qualité dorigine
+- Filtres dhabitacle MANN-FILTER - Avec charbon actif - Protection contre presque 100% des particules de pollen / suie de diesel / l’usure des pneus / gaz nocifs et odeurs désagréables
+- Trouvez le bon filtre : pièce de rechange en sélectionnant la marque, le modèle, le type de véhicule et le moteur dans la zone supérieure ou également via les numéros de clé (HSN/TSN) des documents du véhicule
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01EIAQO3E{{</world>}}

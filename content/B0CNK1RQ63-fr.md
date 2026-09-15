@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Instructions dentretien:Lavage en machine
 - Composition de matériau:99% Coton, 1% Élasthannene
 - Type dajustement:Droite
-- Instructions dentretien:Lavage en machine
 - Type de fermeture:Bouton
 
 [🛒 Achète-le!!]({{< param buyurl >}})

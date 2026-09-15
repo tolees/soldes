@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Marque : Samsung
-- Smart Book Cover de Samsung enveloppe avec élégance votre Galaxy Tab S11 Ultra. Replier le dos pour créer un support robuste qui prend en charge la visualisation à la fois verticale et horizontale
 - Grâce au design magnétique, vous pouvez installer et retirer la coque avec facilité
+- Smart Book Cover de Samsung enveloppe avec élégance votre Galaxy Tab S11 Ultra. Replier le dos pour créer un support robuste qui prend en charge la visualisation à la fois verticale et horizontale
 - Smart Book Cover active instantanément votre tablette dès quelle souvre et la remet en mode veille une fois le travail terminé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

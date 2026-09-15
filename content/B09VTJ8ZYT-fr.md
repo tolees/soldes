@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
 - Nous vous recommandons de commander une taille au-dessus de votre taille habituelle
+- Fermeture éclair
 - Polyamides recyclé
 - Lavage en machine
 

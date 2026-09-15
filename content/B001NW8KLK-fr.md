@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effort minimal : Le poids et la forme conique de cet outil permettent de répartir la force de façon efficace - Rien ne colle, donnez forme à votre viande directement sur le plan de travail
-- Aplanir sans marteler : La grande surface et le poids de cet attendrisseur vous permettent daplatir la viande ou le poisson pour mieux réussir la cuisson des escalopes viennoises ou cordons bleus
 - Données produit : 33 x 9 x 9,5 cm (L x l x h) - Manche 14 cm, Ø 19 mm - Inox 18/10 (très brillant)
+- Aplanir sans marteler : La grande surface et le poids de cet attendrisseur vous permettent daplatir la viande ou le poisson pour mieux réussir la cuisson des escalopes viennoises ou cordons bleus
+- Effort minimal : Le poids et la forme conique de cet outil permettent de répartir la force de façon efficace - Rien ne colle, donnez forme à votre viande directement sur le plan de travail
 - Fait pour durer : Hygiénique, sans goût, et inodore grâce à lacier inoxydable 18/10 - Ne rouille pas - Passe au lave-vaisselle pour une grande facilité dentretien
 - Design professionnel : Laplatisseur est doté dun manche de forme ergonomique pour plus de maniabilité et confort dutilisation, et dun œillet de suspension pour un rangement pratique
 

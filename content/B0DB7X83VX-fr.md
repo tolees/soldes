@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tige respirante et renforcée
-- Semelle intérieure à adhérence maximale
-- Amorti FLYTEFOAM pour un amorti léger et réactif
 - TWISTRUSS pour des mouvements fluides et stables
+- Amorti FLYTEFOAM pour un amorti léger et réactif
+- Semelle intérieure à adhérence maximale
 - Idéal pour le volley-ball de compétition
 
 [🛒 Achète-le!!]({{< param buyurl >}})

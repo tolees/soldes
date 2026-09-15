@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Base ajustable
-- Offre du confort
 - Poches devant d’inspiration cargo
+- Base ajustable
 - Poches à rabat boutonné au dos
+- Offre du confort
 - Braguette zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- VRM PUISSANT, compatible Ryzen 9000 - La carte graphique MPG B650I EDGE WIFI dispose dun chipset AMD B650 (AM5, Ryzen 7000 à 9000) et dun VRM à 8+2 phases directes avec SPS de 80 A et de larchitecture Core Boost qui supporte loverclocking multicœur
-- REFROIDISSEMENT INTÉGRÉ - Le refroidissement du VRM comprend des pads thermiques 7 W/mK pour MOSFET et un radiateur plus large, un radiateur pour chipset, des slots M.2 Shield Frozr, un header pour pompe et un PCB à 10 couches de 2oz de cuivre épaissi.
 - DEUX CONNECTEURS M.2 - Les solutions de stockage incluent deux slots M.2 Gen4 x4 64 Gb/s slots avec Shield Frozr qui protège contre le phénomène de throttling.
+- VRM PUISSANT, compatible Ryzen 9000 - La carte graphique MPG B650I EDGE WIFI dispose dun chipset AMD B650 (AM5, Ryzen 7000 à 9000) et dun VRM à 8+2 phases directes avec SPS de 80 A et de larchitecture Core Boost qui supporte loverclocking multicœur
 - CONNEXION WI-FI 6E - Puce Wi-Fi 6E avec Bluetooth 5.2 et connecteur LAN 2,5 Gb/s. Les ports arrière incluent des ports USB 3.2 Gen2x2 Type-C (20 Gb/s), un PORT HDMI 2.1 et un jack audio HD 7.1 avec Audio Boost 5.
+- REFROIDISSEMENT INTÉGRÉ - Le refroidissement du VRM comprend des pads thermiques 7 W/mK pour MOSFET et un radiateur plus large, un radiateur pour chipset, des slots M.2 Shield Frozr, un header pour pompe et un PCB à 10 couches de 2oz de cuivre épaissi.
 - MÉMOIRE DDR5, SLOT PCI-E 4.0 x16 - Deux slots DIMM DDR5 SMT permettant un overclocking extrême de la mémoire (1DPC 1R, 6600+ MHz) et un slot PCIe 4.0 x16 Steel Armor (64 Gb/s) pour la prise en charge de cartes graphiques.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

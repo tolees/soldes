@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les feux auxiliaires LED intégrés à trois niveaux de luminosité et trois options de température de couleur illuminent vos sujets dune lumière parfaite, où que vous alliez
 - Compatibilité: Osmo Mobile 7P, Osmo Mobile 7, Osmo Mobile 6, Osmo Mobile SE, DJI OM 5, DJI OM 4 SE, DJI OM 4
+- Le design magnétique peut affecter dautres produits magnétiques; Ne placez pas la bride de téléphone à proximité dune carte bancaire, un stimulateur cardiaque, disque dur externe ou tout autre appareil similaire
+- De plus, certaines fonctions de téléphone nécessitent l’utilisation de signaux magnétiques pour transmettre des données; Dans ce cas, nous recommandons de retirer la bride de téléphone avant dutiliser la fonction
 - Conçue pour les prises de vue par faible luminosité, la bride de smartphone à lampe intégrée DJI OM est dotée d’un design magnétique pour un montage pratique
 - Contenu de lemballage: Bride de téléphone à lampe intégrée DJI OM x1
-- De plus, certaines fonctions de téléphone nécessitent l’utilisation de signaux magnétiques pour transmettre des données; Dans ce cas, nous recommandons de retirer la bride de téléphone avant dutiliser la fonction
-- Le design magnétique peut affecter dautres produits magnétiques; Ne placez pas la bride de téléphone à proximité dune carte bancaire, un stimulateur cardiaque, disque dur externe ou tout autre appareil similaire
-- Les feux auxiliaires LED intégrés à trois niveaux de luminosité et trois options de température de couleur illuminent vos sujets dune lumière parfaite, où que vous alliez
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09B7Q7YF5{{</world>}}

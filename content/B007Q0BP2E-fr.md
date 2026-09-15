@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nettoyeur en laine, coloré
 - Longueur 20 cm
+- Nettoyeur en laine, coloré
 - Pour flûtes à bec soprano
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

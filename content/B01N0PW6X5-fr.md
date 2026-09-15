@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches poitrine zippées
 - Extérieur : 100 % polyester Intérieur : 100 % polyuréthane
-- Construction double couche
-- Longueur hanches
 - Doublure en maille pour le confort
-- Col confortable avec doublure polaire Polartec
 - Imperméable, coupe-vent et respirant
+- Longueur hanches
+- Poches poitrine zippées
+- Construction double couche
+- Col confortable avec doublure polaire Polartec
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N0PW6X5{{</world>}}

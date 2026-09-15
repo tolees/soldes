@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sound by Bose pour une qualité audio premium
 - Charge sans fil
 - Autonomie jusqu’à 38h
-- Sound by Bose pour une qualité audio premium
 - Son spatialisé Dolby Atmos avec suivi des mouvements de tête
 - Réduction active de bruit personnalisée
 

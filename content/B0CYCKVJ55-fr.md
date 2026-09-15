@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mesures: Taille standard
 - Un véritable attrape-loeil pour chez vous!
+- Mesures: Taille standard
 - Animation, Chats, Merchandising Pop Culture, Séries TV
 - Funko Pop! présentant les caractéristiques suivantes:
 - Figurine de collection || Marchandises fun et de fans || Motif: Uni

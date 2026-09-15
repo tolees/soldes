@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- king tony
 - Taraud / Filière : Porte-outil à cliquet pour taraud 1/2 D. 38
+- king tony
 - Taraud/Filière : Porte-outil à cliquet pour taraud 1/2 D. 38
-- Durable
 - 5 mm - 6 à 12 mm - M5 à M12
+- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B084DNKTL7{{</world>}}

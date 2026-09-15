@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Facile et rapide à mettre en place
 - Fermeture simple riptape
+- Facile et rapide à mettre en place
 - Fermeture à lacets élastiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})

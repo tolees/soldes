@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Collage et étanchéité déquipements divers : les lanterneaux, aérateurs, traversées de parois
-- Excellente résistance au vieillissement et aux conditions climatiques
-- Bonne adhérence sur de nombreux supports sans traitement de surface particulier
 - Sans isocyanate, sans solvant, sans phtalate, sans PVC
+- Bonne adhérence sur de nombreux supports sans traitement de surface particulier
+- Excellente résistance au vieillissement et aux conditions climatiques
 - Adapté au collage et l’étanchéité de joint en intérieur ou en extérieur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

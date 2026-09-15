@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zone de stockage: petite sacoche hermétique
-- Usage eau douce + lac
 - Vinyle renforcé très résistant
 - Assise et dossier gonflables amovibles et ajustables
+- Usage eau douce + lac
+- Zone de stockage: petite sacoche hermétique
 - 3 chambres à air indépendantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

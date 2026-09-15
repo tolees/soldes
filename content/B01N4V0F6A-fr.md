@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzle du peintre de lumière Thomas Kinkade
-- SCHMIDT SPIELE Des puzzles haut de gamme, dune qualité que vous pouvez manier
-- Dimensions du casse-tête : 69, 30 x 49, 30 cm
 - 1000 pièces de puzzle
+- Dimensions du casse-tête : 69, 30 x 49, 30 cm
+- SCHMIDT SPIELE Des puzzles haut de gamme, dune qualité que vous pouvez manier
+- Puzzle du peintre de lumière Thomas Kinkade
 - Âge recommandé : à partir de 12 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

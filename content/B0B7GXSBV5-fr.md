@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Veste tendance de Lonsdale
-- Petit logo brodé sur la poitrine
-- Fabriqué en coton et polyester pur
 - Doublure intérieure contrastée
+- Fabriqué en coton et polyester pur
+- Petit logo brodé sur la poitrine
 - Coupe moulante (slim fit)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

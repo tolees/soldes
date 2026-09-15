@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriquée en matériau Curv : extrêmement résistant et incroyablement léger
-- Composants ultra légers et dun grand confort
 - Made in Europe
+- Composants ultra légers et dun grand confort
 - Design unique assurant labsorption des chocs dans les angles
 - Garantie 10 ans internationale
 

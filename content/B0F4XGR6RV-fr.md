@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu super extensible
-- Design à cinq poches
-- Passants de ceinture
 - Fermeture par bouton et zip
+- Passants de ceinture
+- Design à cinq poches
+- Tissu super extensible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4XGR6RV{{</world>}}

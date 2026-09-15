@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur blanche
 - Taille: 220 mm x 110 mm, grammage: 75 g/m² Avec fermeture autocollante par pression interne
 - Taille: 220 mm x 110 mm, grammage: 75 g/m²
+- Couleur blanche
 - Format DIN-L sans fenêtre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

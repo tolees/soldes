@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entièrement effaçable avec les doigts, une gomme à papier ou un pinceau à pastel
 - Idéal pour dessiner les moindres détails
-- Application douce et soyeuse avec une grande luminosité et une couleur éclatante
-- 24 couleurs différentes
 - Dans un étui en carton
+- 24 couleurs différentes
+- Application douce et soyeuse avec une grande luminosité et une couleur éclatante
+- Entièrement effaçable avec les doigts, une gomme à papier ou un pinceau à pastel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000OMMN4A{{</world>}}

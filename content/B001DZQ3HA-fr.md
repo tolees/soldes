@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pour le perçage des aciers non alliés, métaux non ferreux, fontes et plastiques.
-- Excellent centrage, démarrage de précision sans pré-percer, pénétration rapide sans effort.
-- Conforme à la norme din 338.
-- Affûtage en croix à 118°.
-- Dimètre : 4,2mm
 - Faible risque de rupture grâce à sa robustesse et son élasticité maximale
+- Dimètre : 4,2mm
+- Conforme à la norme din 338.
+- Excellent centrage, démarrage de précision sans pré-percer, pénétration rapide sans effort.
+- Affûtage en croix à 118°.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001DZQ3HA{{</world>}}

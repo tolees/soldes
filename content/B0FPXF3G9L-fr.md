@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - OBJET BONUS DANS LE JEU – Les instructions sont disponibles dans l’application LEGO Builder et le set inclut un objet bonus : un pack de décoration Ravitaillement à débloquer dans le jeu LEGO Fortnite
-- DÉCORATION GAMING POUR ADO – Profitez du set pour rejouer des scènes du célèbre jeu sandbox, puis exposez le modèle dans une chambre denfant, sur un bureau ou une étagère
-- UN LARGAGE PLEIN DE DÉTAILS – La maquette se compose de 3 parties : la base, la fumée et le ravitaillement lui-même qui s’ouvre pour révéler du bleuvage, de la laine, une banane et des graines de framboise
-- PRODUITS DÉRIVÉS LEGO FORTNITE – Complétez votre butin avec d’autres sets de construction à collectionner de la gamme, tous vendus séparément
 - 3 MINIFIGURINES LEGO FORTNITE – Stimulez limagination des enfants avec 3 minifigurines : Poiscaille avec de la dynamite, Léviathan avec une hache et Soldat d’épice avec un bouclier et une torche
 - IDÉE DE CADEAU POUR GAMER – Transposant le jeu vidéo dans la vie réelle, ce kit LEGO est un cadeau amusant à offrir à un garçon ou une fille passionné.e de jeu vidéo et de loisirs créatifs pour un anniversaire ou une autre occasion spéciale
+- UN LARGAGE PLEIN DE DÉTAILS – La maquette se compose de 3 parties : la base, la fumée et le ravitaillement lui-même qui s’ouvre pour révéler du bleuvage, de la laine, une banane et des graines de framboise
+- DÉCORATION GAMING POUR ADO – Profitez du set pour rejouer des scènes du célèbre jeu sandbox, puis exposez le modèle dans une chambre denfant, sur un bureau ou une étagère
+- PRODUITS DÉRIVÉS LEGO FORTNITE – Complétez votre butin avec d’autres sets de construction à collectionner de la gamme, tous vendus séparément
 - JOUET DE CONSTRUCTION LEGO FORTNITE POUR FILLE OU GARÇON DÈS 10 ANS – Le plaisir du jeu vidéo sort des limites de l’écran avec le kit Ravitaillement pour jeunes gamers.ses
 
 [🛒 Achète-le!!]({{< param buyurl >}})

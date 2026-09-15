@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bretelle amovible et ajustable et bretelles à longueur fixe
-- Compartiment principal zippé et compartiment à stylos
-- Petit mini-sac fourre-tout
 - Tiré du Kipling x Anna Sui Collection
+- Petit mini-sac fourre-tout
+- Compartiment principal zippé et compartiment à stylos
+- Bretelle amovible et ajustable et bretelles à longueur fixe
 - Poche avant extérieure zippée et 3 poches intérieures
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

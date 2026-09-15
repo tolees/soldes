@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Statuette présentant les caractéristiques suivantes:
-- Statuette || Marchandises fun et de fans || Motif: Uni
 - Mesures: Taille standard
 - Découvrez toutes les meilleures marques chez EMP!
 - Cadeaux, Chats, Gothic, Horreur
+- Statuette || Marchandises fun et de fans || Motif: Uni
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08GY12MY4{{</world>}}

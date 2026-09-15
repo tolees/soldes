@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction type bottine imperméable avec coutures étanches
-- Semelle intermédiaire Techlite légère
 - Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
+- Semelle intermédiaire Techlite légère
+- Construction type bottine imperméable avec coutures étanches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00KWK8FJQ{{</world>}}

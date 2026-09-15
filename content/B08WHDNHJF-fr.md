@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de manche : Sans manche
 - Composition de matériau : 100% Polyamides
+- Type de manche : Sans manche
 - Instructions dentretien : Lavage en machine
 - Matériau intérieur : 100% Nylon
 

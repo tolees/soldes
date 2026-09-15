@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 3 ans de garantie
 - Fourni avec des accessoires dinstallation
-- Fabriqué en Allemagne
 - Convient pour leau douce et leau de mer (sauf le thermofiltre - pour leau douce uniquement)
 - Réglages individuels des programmes : Débit constant, mode bio, mode pulsé et mode manuel
-- 3 ans de garantie
+- Fabriqué en Allemagne
 - Easy Clean - nettoyage facile et sûr du média filtrant à laide du couvercle de nettoyage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

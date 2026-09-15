@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La reconnaissance automatique de la capsule permet une adaptation optimale des paramètres dextraction pour une expérience de café personnalisée et inoubliable
-- Un assortiment de 12 capsules offert
-- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
-- 4 tailles de tasse, allant de lEspresso au Mug pour sadapter à toutes vos envies
-- Un unique bouton permettant de réaliser facilement un café parfait de la longueur de votre choix
 - La technologie dextraction par Centrifusion garantit une qualité de café supérieure
+- La reconnaissance automatique de la capsule permet une adaptation optimale des paramètres dextraction pour une expérience de café personnalisée et inoubliable
+- Un unique bouton permettant de réaliser facilement un café parfait de la longueur de votre choix
+- 4 tailles de tasse, allant de lEspresso au Mug pour sadapter à toutes vos envies
+- Engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets
+- Un assortiment de 12 capsules offert
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089BPVJRP{{</world>}}

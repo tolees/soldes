@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en cuir synthétique et empiècements en daim
-- Col et languette rembourrés
 - Logo sur la languette
-- Fermeture à lacets sur le devant
+- Col et languette rembourrés
 - Logo brodé au niveau du talon
+- Fermeture à lacets sur le devant
+- Dessus en cuir synthétique et empiècements en daim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HCC9LHZ{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette imprimée avec logo sur la languette
-- Col et languette rembourrés
 - Semelle moulée
+- Languette imprimée avec logo sur la languette
 - Logo imprimé au niveau du talon et de la fenêtre
+- Col et languette rembourrés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGD1KNH4{{</world>}}

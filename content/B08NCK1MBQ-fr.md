@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La LED adressable prête avec lextension de lumière Mystic fournit un connecteur JRAINBOW pour une fonction complète pour se connecter à des bandes RVB adressables et contrôler la lumière RVB tout autour du système
 - Alimenté par AMD Ryzen 9, Ryzen7, Ryzen 5 AM4 de 3e génération pour optimiser la connectivité et la vitesse avec Lightning M.2, PCIe 4.0, USB 3.2 Gen1 et jusquà 128 Go de DDR4 (4400 MHz)
 - La technologie Core Boost combine des dispositions de circuit dalimentation optimisées et un design dalimentation numérique qui permet un débit précis et constant au processeur
+- La LED adressable prête avec lextension de lumière Mystic fournit un connecteur JRAINBOW pour une fonction complète pour se connecter à des bandes RVB adressables et contrôler la lumière RVB tout autour du système
 - Avec les processeurs Ryzen de 3e génération
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette légère en maille
 - La surface de roulement emblématique de DC
+- Languette légère en maille
 - Trous daération pour plus de respirabilité
 - Col et languette rembourrés de mousse pour plus de confort et de soutien
 - Dessus en cuir nubuck et/ou en cuir (selon la couleur)

@@ -31,9 +31,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - DÉCORATION DE CHAMBRE POUR ENFANT – Garçons et filles peuvent exposer ce jeu de construction LEGO collector dans leur chambre sur une étagère ou une table de chevet
 - UN CADEAU POUR LES ENFANTS – Ce jouet voiture LEGO McLaren offre une expérience de construction amusante et constitue un superbe cadeau danniversaire pour un garçon ou une fille dès 9 ans ou un fan adulte de sport automobile
 - VOITURE DE COURSE MCLAREN ORANGE – Le jouet McLaren W1 LEGO Speed Champions permet aux garçons & aux filles dès 9 ans de construire, exposer et jouer à la course
+- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles
 - DÉTAILS AUTHENTIQUES – Inclut des éléments de la véritable supercar, dont un aileron arrière réglable pour la route ou la course, un moteur arrière, un cockpit et un écran multimédia intérieur
 - MINIFIGURINE LEGO DE PILOTE – Cette maquette de voiture de course inclut une minifigurine de pilote avec des cheveux, une clé à molette, ainsi qu’une tenue et un casque McLaren, à placer dans le cockpit
-- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXDQM2S{{</world>}}

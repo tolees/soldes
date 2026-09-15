@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roulettes: adaptées aux sols durs (parquet, carrelage, etc) et sols mous (moquettes, etc)
 - Fabriquée en France
-- Entièrement monté; garantie fabricant de douze ans
 - Confort et soutien tout au long de la journée: l’assise et le dossier de Amia forment un système synchronisé qui suit les mouvements du corps afin d’offrir un confort optimal sur la durée
 - Chaise ergonomique: profondeur d’assise réglable, accotoirs réglables, soutien lombaire réglable, assise pneumatique réglable en hauteur, tension d’inclinaison réglable, dossier et assise drapés
+- Roulettes: adaptées aux sols durs (parquet, carrelage, etc) et sols mous (moquettes, etc)
+- Entièrement monté; garantie fabricant de douze ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNVSJ3JV{{</world>}}

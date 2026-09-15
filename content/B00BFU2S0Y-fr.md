@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de freinage OE : Teves
 - WVA No: 24538 - 24914
-- Conforme à la norme ECE - R90, équivalente à lOE
 - sans indicateur dusure
+- Système de freinage OE : Teves
+- Conforme à la norme ECE - R90, équivalente à lOE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BFU2S0Y{{</world>}}

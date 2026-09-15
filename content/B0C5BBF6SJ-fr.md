@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire confortable en EVA
 - Sandales à sangle avec 2 bandes Velcro réglables pour un ajustement parfait. Un confort supplémentaire au talon et à la cheville permet de les porter toute la journée.
+- Semelle intermédiaire confortable en EVA
 - Semelle extérieure en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

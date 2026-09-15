@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Permet de mettre de lordre dans votre cuisine
-- Combinaison dacier de haute qualité, de plastique et de bois.
 - Dimensions (L x h x l) : 47 x 20 x 33,5 cm, 1,9 kg.
+- Combinaison dacier de haute qualité, de plastique et de bois.
 - Rangement peu encombrant pour la vaisselle avec range-couverts flexible.
 - Conçu au Japon.
 

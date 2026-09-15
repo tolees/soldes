@@ -28,23 +28,23 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
-- Poches pour les mains avec fermeture éclair ykk
 - Droite
+- Fermeture: Cordon de serrage, Fermeture éclair
+- Imperméable, coupe-vent et respirant
 - Ourlet inférieur réglable à laide dun cordon de serrage
 - Rabat anti-tempête à lavant
-- Imperméable, coupe-vent et respirant
+- Poignets réglables
+- Poches pour les mains avec fermeture éclair ykk
+- Moyen - Standard
 - Helly tech protection : allié à cette technologie, les vêtements portés au quotidien par temps modéré vous garderont au sec afin de garantir votre confort. dotés de coutures entièrement scellées et confectionnés dans des textiles imperméables, coupe-vent et respirants.
 - Helly tech protection
+- Lavage 30°, pas de séchage en tambour, repassage doux, pas de nettoyage à sec, laver les couleurs foncées séparément, pas deau de javel
+- Fermeture éclair ykk à lavant et arrière
 - Mentonnière anti-frottement
 - Chine
-- Imperméable et respirante
-- Poignets réglables
-- Capuche fixe ajustable dune main
 - Multipack: 1
-- Fermeture éclair ykk à lavant et arrière
-- Moyen - Standard
-- Fermeture: Cordon de serrage, Fermeture éclair
+- Capuche fixe ajustable dune main
+- Imperméable et respirante
 - Face: 100% Polyester / Back: 100% Polyurethane
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

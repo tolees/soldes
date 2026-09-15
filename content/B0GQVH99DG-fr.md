@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le parfum réconfortant de vanille et de patchouli de ce gel douche, est élaboré par des maîtres parfumeurs renommés.
 - Verse le gel douche dans le creux de ta main. Laisse-toi emporter par notre expérience de douche ultime et fais mousser sur ton corps.
+- Le parfum réconfortant de vanille et de patchouli de ce gel douche, est élaboré par des maîtres parfumeurs renommés.
 - Découvre le gel douche homme AXE Marshmallow Smoke au format 2 x 225 ml, issu de notre nouvelle gamme Axe Ultime, aux parfums dexception et à la mousse ultra-onctueuse.
 - Profite de la formule la plus moussante jamais développée par AXE, pour une peau irrésistiblement douce et propre.
 - Tu aimes le parfum de ce gel douche ? AXE Marshmallow Smoke existe aussi en déodorant pour encore plus de fraîcheur. En plus, la bouteille de ce gel douche est 100 % en plastique recyclé et entièrement recyclable. Dépose-la dans le bac de tri !

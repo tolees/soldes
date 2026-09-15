@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Installation flexible et compatibilité : nécessite un câble neutre (conducteur neutre). Prend en charge différents types dinterrupteurs externes tels que les interrupteurs de porte, les interrupteurs à bascule, les boutons et les interrupteurs SPDT. Parfait pour le contrôle intelligent des portes de garage, des chaudières, etc. Convient également pour les ampoules intelligentes – avec le « relais », elles restent en ligne.
 - Sécurité grâce à la qualité : des normes électriques strictes garantissent une longue durée de vie - Les temps de commutation du relais dépassent au moins 100 000 cycles. Le boîtier PC évalué V-0 offre une protection anti-incendie de première classe, des bornes à vis améliorées optimisent lefficacité et protègent les fils.
-- Contrôle intelligent Zigbee : basé sur le protocole Zigbee 3.0, nécessite une passerelle Zigbee (non incluse). Permet une intégration transparente avec Alexa et Google Home pour un contrôle vocal pratique de vos appareils.
 - Couverture Zigbee complète : assure une connexion fiable sur le réseau Zigbee, renforce la force du signal et étend la couverture pour des performances optimales, idéal pour les grands espaces de vie.
+- Installation flexible et compatibilité : nécessite un câble neutre (conducteur neutre). Prend en charge différents types dinterrupteurs externes tels que les interrupteurs de porte, les interrupteurs à bascule, les boutons et les interrupteurs SPDT. Parfait pour le contrôle intelligent des portes de garage, des chaudières, etc. Convient également pour les ampoules intelligentes – avec le « relais », elles restent en ligne.
+- Contrôle intelligent Zigbee : basé sur le protocole Zigbee 3.0, nécessite une passerelle Zigbee (non incluse). Permet une intégration transparente avec Alexa et Google Home pour un contrôle vocal pratique de vos appareils.
 - Puissance compacte et extension : en tant quappareil à canal unique de 10 A, il sadapte à la plupart des boîtes de montage standard. Prend en charge jusquà 64 terminaux Zigbee, idéal pour étendre votre système Smart Home.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

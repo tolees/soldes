@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FERMETURE À ÉLASTIQUES : pour un excellent maintien des documents et dessins
-- CARTON À DESSIN KRAFT BRUN : ces cartons à dessin rigides sont parfaits pour transporter et protéger vos dessins
-- ÉPAISSEUR DE 3 cm : doté dun dos toilé, ces cartons à dessin peuvent accueillir jusquà 3 cm dépaisseur de papier
-- FORMAT 52x72 cm : ce carton à dessin est conçu pour accueillir des papiers allant jusquau format 50x70 cm
 - MADE IN FRANCE : le papier intérieur est sans acide pour que vos œuvres gardent toutes leurs couleurs Fabriqué en France
+- ÉPAISSEUR DE 3 cm : doté dun dos toilé, ces cartons à dessin peuvent accueillir jusquà 3 cm dépaisseur de papier
+- FERMETURE À ÉLASTIQUES : pour un excellent maintien des documents et dessins
+- FORMAT 52x72 cm : ce carton à dessin est conçu pour accueillir des papiers allant jusquau format 50x70 cm
+- CARTON À DESSIN KRAFT BRUN : ces cartons à dessin rigides sont parfaits pour transporter et protéger vos dessins
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0048DL4WI{{</world>}}

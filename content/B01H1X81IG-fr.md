@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant à leau
 - Panama Jack Bottines pour homme, marron / marron
+- Résistant à leau
 - Hauteur du talon : 2,00 cm
 - Fabriqué en Espagne
 - Matériau principal : imperméable Nappa Greased, matériau de doublure : Natural Fur/Real Fur Sole Matériau : TPU intérieur RemovableInsert : No

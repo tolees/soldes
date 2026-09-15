@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% de polyester recyclé
 - la tuyauterie dépaule inspire un look classique au football
 - Coupe près du corps pour une sensation sur mesure
+- 100% de polyester recyclé
 - La technologie Dri-FIT vous permet de rester au sec, confortable et concentré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

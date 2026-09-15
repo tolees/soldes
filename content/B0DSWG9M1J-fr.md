@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transformez les plus petits détails en images spectaculaires. Fleurs, bruine, gouttes de pluie… utilisez la mise au point macro pour obtenir des photos aux couleurs vives et au contraste saisissant dans les moindres détails.
-- Une batterie fiable qui tient toute une journée. La batterie adaptative de votre Google Pixel 9a peut offrir plus de 24 heures dautonomie. Vous en voulez encore plus ? Activez lultra économiseur de batterie pour quelle dure jusquà 100 heures.
-- Des couleurs vives. Un design original. Fabriqué à partir de matériaux recyclés, le Google Pixel 9a possède une finition satinée et se décline en versions Noir Volcanique, Porcelaine, Rose Pivoine et Iris.
-- Prenez la photo. Et soyez dessus. Grâce à la fonctionnalité Majouter, tout le monde est sur la photo. Prenez une première photo de groupe, puis changez de photographe. Le Google Pixel fusionne les deux, comme par magie.
 - Demandez à Gemini dobtenir plus dinformations dans différentes applications. Gagnez du temps en demandant à Gemini de trouver des informations et deffectuer des tâches dans vos applications Google.
+- Une batterie fiable qui tient toute une journée. La batterie adaptative de votre Google Pixel 9a peut offrir plus de 24 heures dautonomie. Vous en voulez encore plus ? Activez lultra économiseur de batterie pour quelle dure jusquà 100 heures.
+- Transformez les plus petits détails en images spectaculaires. Fleurs, bruine, gouttes de pluie… utilisez la mise au point macro pour obtenir des photos aux couleurs vives et au contraste saisissant dans les moindres détails.
+- Prenez la photo. Et soyez dessus. Grâce à la fonctionnalité Majouter, tout le monde est sur la photo. Prenez une première photo de groupe, puis changez de photographe. Le Google Pixel fusionne les deux, comme par magie.
+- Des couleurs vives. Un design original. Fabriqué à partir de matériaux recyclés, le Google Pixel 9a possède une finition satinée et se décline en versions Noir Volcanique, Porcelaine, Rose Pivoine et Iris.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSWG9M1J{{</world>}}

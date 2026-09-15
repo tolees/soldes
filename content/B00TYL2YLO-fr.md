@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le chargeur AL-KO Easy Flex, vous pouvez charger complètement la batterie EasyFlex 20 V Max/2,5 Ah en 50 minutes maximum. Compatible avec les batteries B 50 Li et B 100 Li
 - Avec le chargeur AL-KO EasyFlex, la batterie EasyFlex peut être chargée efficacement et rapidement, tandis que le voyant LED de lappareil indique quand votre batterie est complètement chargée.
 - La gamme doutils de jardin sans fil EasyFlex comprend un souffleur à feuilles, un taille-haie portatif à longue portée, un coupe-herbe, un sécateur, un désherbeur et un pulvérisateur pour plantes. En outre, la batterie EasyFlex peut également être utilisée pour alimenter une tondeuse à gazon ainsi quune radio DAB, une lampe LED et une scie à main.
+- Avec le chargeur AL-KO Easy Flex, vous pouvez charger complètement la batterie EasyFlex 20 V Max/2,5 Ah en 50 minutes maximum. Compatible avec les batteries B 50 Li et B 100 Li
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TYL2YLO{{</world>}}

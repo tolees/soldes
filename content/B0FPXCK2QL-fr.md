@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUET AVEC CHÂTEAU DE POUDLARD – Rejouez les aventures fantastiques de Harry Potter dans différentes salles du château avec ce jeu de construction détaillé LEGO Harry Potter Le Château de Poudlard : l’Infirmerie, pour filles et garçons dès 9 ans
-- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive ; ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- DE NOMBREUX DÉTAILS & ACCESSOIRES – Découvrez le Patronus loup, faisant partie d’une collection de Patronus spéciale 25e anniversaire de LEGO Harry Potter (sets vendus séparément), et 2 portraits collector de Poudlard (sur 14)
-- CONSTRUCTION DE 3 ÉTAGES – Explorez le bâtiment à 3 niveaux, incluant la salle de classe amovible de défense contre les forces du Mal au rez-de-chaussée, l’infirmerie et la salle commune de Serdaigle
-- 7 MINIFIGURINES LEGO HARRY POTTER – Remus Lupin, Ron Weasley, un Détraqueur, Harry Potter, Hermione Granger, Pénélope Deauclaire & la Dame Grise
-- MAQUETTE COLLECTOR LEGO HARRY POTTER – Ce set de construction fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer le château de Poudlard en briques le plus détaillé à ce jour
 - CADEAU HARRY POTTER POUR ENFANTS – Ce jeu de construction LEGO Harry Potter est un cadeau d’anniversaire magique à offrir à une fille ou un garçon dès 9 ans, fan du monde des sorciers
+- MAQUETTE COLLECTOR LEGO HARRY POTTER – Ce set de construction fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer le château de Poudlard en briques le plus détaillé à ce jour
+- CONSTRUCTION DE 3 ÉTAGES – Explorez le bâtiment à 3 niveaux, incluant la salle de classe amovible de défense contre les forces du Mal au rez-de-chaussée, l’infirmerie et la salle commune de Serdaigle
+- UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive ; ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
+- 7 MINIFIGURINES LEGO HARRY POTTER – Remus Lupin, Ron Weasley, un Détraqueur, Harry Potter, Hermione Granger, Pénélope Deauclaire & la Dame Grise
+- DE NOMBREUX DÉTAILS & ACCESSOIRES – Découvrez le Patronus loup, faisant partie d’une collection de Patronus spéciale 25e anniversaire de LEGO Harry Potter (sets vendus séparément), et 2 portraits collector de Poudlard (sur 14)
+- JOUET AVEC CHÂTEAU DE POUDLARD – Rejouez les aventures fantastiques de Harry Potter dans différentes salles du château avec ce jeu de construction détaillé LEGO Harry Potter Le Château de Poudlard : l’Infirmerie, pour filles et garçons dès 9 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FPXCK2QL{{</world>}}

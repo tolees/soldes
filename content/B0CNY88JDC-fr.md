@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design léger
 - Semelle intermédiaire absorbant les chocs
 - Semelle extérieure flexible
+- Design léger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CNY88JDC{{</world>}}

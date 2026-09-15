@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans silicone
-- Formulé avec 91% dingrédients dorigine naturelle
 - Formule végan
+- Formulé avec 91% dingrédients dorigine naturelle
+- Sans silicone
 - Élimine lexcès de sébum sur les cheveux et le cuir chevelu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

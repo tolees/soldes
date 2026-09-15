@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROTÈGE LA COULEUR JUSQU’À 8 SEMAINES : Ce shampoing professionnel protège la couleur du jour 1 jusqu’à 8 semaines*. Il lutte activement contre loxydation et le ternissement. Les cheveux sont instantanément nourris, doux et éclatants.
 - FORMULE ANTIOXYDANTE SUBLIMATRICE : Enrichie en resvératrol à l’action antioxydante, la formule élimine les impuretés tout en protégeant la fibre. Elle aide à maintenir lintensité de la couleur pour un éclat longue durée.
-- BESOIN DE PROTEGER LA COULEUR DE VOS CHEVEUX ? Le shampoing Vitamino Color nettoie délicatement et aide à protéger la coloration. Il convient parfaitement aux cheveux colorés ou méchés, fins, normaux et épais.
 - LE PROTOCOLE VITAMINO COLOR : Appliquer uniformément sur cheveux mouillés, émulsionner pour créer une mousse onctueuse, puis rincer abondamment. Pour un résultat optimal, poursuivre avec le Masque et le Lait 10-en-1 Vitamino Color.
+- BESOIN DE PROTEGER LA COULEUR DE VOS CHEVEUX ? Le shampoing Vitamino Color nettoie délicatement et aide à protéger la coloration. Il convient parfaitement aux cheveux colorés ou méchés, fins, normaux et épais.
+- PROTÈGE LA COULEUR JUSQU’À 8 SEMAINES : Ce shampoing professionnel protège la couleur du jour 1 jusqu’à 8 semaines*. Il lutte activement contre loxydation et le ternissement. Les cheveux sont instantanément nourris, doux et éclatants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09717FJLL{{</world>}}

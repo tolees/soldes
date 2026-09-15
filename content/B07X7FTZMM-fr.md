@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Panneau antivol amovible. Amplificateur MOSFET 50W x 4
-- Récupérateur sonore avancé. Réglez la sortie audio avec légaliseur 5 bandes graphique. Châssis court.
-- Accessoires : Étui de protection pour panneau avant. Sorties RCA pré-amplifiées 1. (arrière ou caisson de basse).
-- Application de contrôle à distance avancée (Pioneer ARC).
-- Lecture via USB : fichiers audio MP3, WMA, WAV et FLAC
 - Affichage de caractères cyrilliques. Compatible avec Android, AOA 2.0. Connectez nimporte quel appareil avec un câble dinterface USB pour le charger et profiter dun son clair et défini.
+- Lecture via USB : fichiers audio MP3, WMA, WAV et FLAC
 - Autoradio récepteur 1 DIN avec éclairage rouge, USB et compatible avec les appareils Android.
+- Récupérateur sonore avancé. Réglez la sortie audio avec légaliseur 5 bandes graphique. Châssis court.
+- Application de contrôle à distance avancée (Pioneer ARC).
+- Panneau antivol amovible. Amplificateur MOSFET 50W x 4
+- Accessoires : Étui de protection pour panneau avant. Sorties RCA pré-amplifiées 1. (arrière ou caisson de basse).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07X7FTZMM{{</world>}}

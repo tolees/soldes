@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle en caoutchouc robuste assure une adhérence sûre sur différentes surfaces
 - Le design chic de Nike allie performance sportive et style moderne
+- La semelle en caoutchouc robuste assure une adhérence sûre sur différentes surfaces
 - Tige en mesh respirant pour un confort et une ventilation optimaux
 - Système damorti tendu dans la semelle intermédiaire pour un confort de course optimal
 

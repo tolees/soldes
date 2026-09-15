@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le Gantelet Oni : Un artefact mystique permettant dabsorber les âmes Genma pour décupler votre puissance
-- Incarnez Miyamoto Musashi : Un samouraï au visage inspiré du légendaire acteur Toshiro Mifune
 - Le retour de la saga Onimusha : Une aventure dans un Kyoto corrompu par le mal
 - Affrontez les Genma : Des démons venus des enfers qui plongent la capitale dans la terreur
+- Incarnez Miyamoto Musashi : Un samouraï au visage inspiré du légendaire acteur Toshiro Mifune
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0H4HGNFHG{{</world>}}

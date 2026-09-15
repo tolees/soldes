@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un jean de 5 poches coupé dans un ajustement super slim, offrant un ajustement serré de la taille à la cheville.
-- Cinq poches
 - Fermeture à zip devant
+- Cinq poches
+- Un jean de 5 poches coupé dans un ajustement super slim, offrant un ajustement serré de la taille à la cheville.
 - Ce jean Revend est conçu dans une coupe skinny. Les poches arrière sont renforcées avec une couche supplémentaire en bas.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soyez toujours prêt avec le tissu Hydroshell 2L entièrement respirant et imperméable
 - Augmentez laction grâce à une taille élastique avec un réglage latéral facile et des jambes articulées pour une plus grande liberté
+- Soyez toujours prêt avec le tissu Hydroshell 2L entièrement respirant et imperméable
 - Lorsque les choses deviennent difficiles, laissez entrer une brise rafraîchissante grâce aux fermetures éclair latérales 3/4 et aux fermetures à pression
 - La fermeture éclair sur la colline est un travail difficile. Avec fermeture éclair cette veste? Moins, grâce à sa fermeture éclair bidirectionnelle
 

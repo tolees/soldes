@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 70 % laine mélangée, nettoyage à sec uniquement
-- 152,4 x 213,4 cm
 - Croix blanches cousues à la main à chaque extrémité
-- Poids extra lourd : presque 2,7 kg. !
 - Châtaigne marron - Nuances de brun mon varient légèrement
+- Poids extra lourd : presque 2,7 kg. !
+- 152,4 x 213,4 cm
+- 70 % laine mélangée, nettoyage à sec uniquement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01GSAYRJ0{{</world>}}

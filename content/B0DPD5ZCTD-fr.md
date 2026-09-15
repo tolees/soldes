@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture à tirer
-- Point rond
 - Sans talon
+- Point rond
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPD5ZCTD{{</world>}}

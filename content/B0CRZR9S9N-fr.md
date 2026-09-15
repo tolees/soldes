@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poches arrière à rabat fermées par boutons-pression dissimulés
 - Ourlet ajustable à la jambe par bande intégrée
-- Poches cargo sur la cuisse fermées par boutons-pression dissimulés et poche zippée en dessous
 - Poches à empiècements avec extrafort le long du bord
+- Poches cargo sur la cuisse fermées par boutons-pression dissimulés et poche zippée en dessous
 - Braguette zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Description du produit</b>: Wentronic NK 113 W-200
-- <b>Couleur de câble</b>: Blanc
 - <b>Longueur de câble</b>: 2m
+- <b>Couleur de câble</b>: Blanc
+- <b>Description du produit</b>: Wentronic NK 113 W-200
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B002E4WJ1S{{</world>}}

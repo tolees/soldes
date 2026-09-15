@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - DU MULTIJOUEUR INTUITIF ET LUDIQUE, ACCESSIBLE À TOUS : En famille ou entre amis, MARVEL Cosmic Invasion vous offre la possibilité de jouer en local ou en ligne, et de bénéficier dun système sadaptant au niveau de chacun
-- MAÎTRISEZ LE SYSTÈME PAR ÉQUIPES COSMIC SWAP : Le système par équipes Cosmic Swap permet de choisir deux Super Héros à chaque niveau et de passer instantanément de lun à lautre. Créez des combos uniques et de puissantes attaques spéciales grâce aux capacités des personnages qui encouragent les associations inventives et une approche plus tactique des combats
 - UNE DIRECTION ARTISTIQUE RÉTRO RENVERSANTE : MARVEL Cosmic Invasion rend hommage à lune des époques les plus emblématiques de Marvel avec ses exceptionnels graphismes en pixel art haut en couleur
-- 15 SUPER HÉROS JOUABLES : Les inconditionnels de la vieille école et les fans de fraîche date ont rendez-vous avec des visages familiers et de nouvelles stars grâce à une sélection de personnages tirés de lunivers Marvel
 - Steelbook, Cartes d’art premium, Feuilles d’autocollants, Affiche, Et tous les contenus, ainsi que le jeu physique, seront emballés dans une boîte de collection
+- MAÎTRISEZ LE SYSTÈME PAR ÉQUIPES COSMIC SWAP : Le système par équipes Cosmic Swap permet de choisir deux Super Héros à chaque niveau et de passer instantanément de lun à lautre. Créez des combos uniques et de puissantes attaques spéciales grâce aux capacités des personnages qui encouragent les associations inventives et une approche plus tactique des combats
+- 15 SUPER HÉROS JOUABLES : Les inconditionnels de la vieille école et les fans de fraîche date ont rendez-vous avec des visages familiers et de nouvelles stars grâce à une sélection de personnages tirés de lunivers Marvel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G1ZD6R3Q{{</world>}}

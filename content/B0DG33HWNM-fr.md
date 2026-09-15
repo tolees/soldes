@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Prenez de lavance sur votre construction avec les trois ventilateurs PWM Aspect de 140 mm inclus.
-- Choisissez un GPU jusquà 413 mm, ou jusquà 380 mm avec un radiateur avant de 420 mm.
 - Améliorez lapparence de votre station de jeu avec des détails en bois et en alliage élégants.
-- Conçu pour les cartes mères ATX et mATX avec des connecteurs cachés à larrière (les cartes mères à connexion standard ne sont pas prises en charge).
 - Profitez dune ventilation naturelle grâce à un devant ouvert et un mesh intégré au design stylé.
+- Choisissez un GPU jusquà 413 mm, ou jusquà 380 mm avec un radiateur avant de 420 mm.
+- Conçu pour les cartes mères ATX et mATX avec des connecteurs cachés à larrière (les cartes mères à connexion standard ne sont pas prises en charge).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DG33HWNM{{</world>}}
