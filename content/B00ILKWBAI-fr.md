@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conforme à la norme EN 71
-- Modeler, cuire, jouer
-- Emballage : box refermable, conçu pour une présentation à plat ou pendue
 - Form&Play : modeler et jouer
-- Favorise : la psychomotricité, la créativité, les jeux de rôle et limagination
-- Instructions enfantines attractives, 28 pages à garder et à collectionner
 - Niveaux de difficulté de 1 à 3 qui aident les utilisateurs à determiner leur niveau de dextérité
+- Conforme à la norme EN 71
+- Favorise : la psychomotricité, la créativité, les jeux de rôle et limagination
 - Fabriqué en Allemagne
+- Emballage : box refermable, conçu pour une présentation à plat ou pendue
+- Instructions enfantines attractives, 28 pages à garder et à collectionner
+- Modeler, cuire, jouer
 - Projet pré-définis avec un pas à pas détaillé
 - Des outils de modelage et une notice pour guider les enfants dans la création
 

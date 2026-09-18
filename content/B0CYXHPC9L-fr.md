@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zip sur toute la longueur. Col montant.
-- Poches sur les côtés.
-- Base réglable à laide dun cordon de serrage
-- Matelassage : matelassage synthétique.
-- Enduction déperlante.
-- Coupe standard.
 - Poignets élastiques.
 - Extérieur : 100 % polyester (recyclé).
+- Zip sur toute la longueur. Col montant.
+- Poches sur les côtés.
+- Coupe standard.
+- Enduction déperlante.
+- Matelassage : matelassage synthétique.
+- Base réglable à laide dun cordon de serrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYXHPC9L{{</world>}}

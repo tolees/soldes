@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autocollant et gommette geometrique
-- Blanc
-- Sticker et autocollant
 - Papier
 - Gommettes rouleau Rond Ø 15 mm Blanc x 2 832 - Apl
+- Sticker et autocollant
+- Autocollant et gommette geometrique
+- Blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007ORILDA{{</world>}}

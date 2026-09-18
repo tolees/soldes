@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les tableaux électriques de marque Siemens
 - Compatible avec les interrupteurs différentiels des séries 5sv33 et 5sv43 Siemens
-- Peigne électrique double horizontal avec connexion inter différentiel 40A et 63A
-- Longueur : 1 rangée
 - Pour tableaux électriques Phase + Neutre
+- Longueur : 1 rangée
+- Compatible avec les tableaux électriques de marque Siemens
+- Peigne électrique double horizontal avec connexion inter différentiel 40A et 63A
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M045YBM{{</world>}}

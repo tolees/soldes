@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
-- Doublure textile.
 - Tige en cuir enduit.
+- Fermeture à lacets.
 - Chaussant standard.
+- Doublure textile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHGJTFHC{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RESTEZ EN SÉCURITÉ GRÂCE AUX ALERTES SILENCIEUSES: Envoyez discrètement une Alerte silencieuse à vos proches en cas de danger
 - UN TRACKER AU TOP: Protégez les objets perdus ou volés et facilitez la vie de votre famille. Attachez-le à vos objets du quotidien comme vos clés, votre gourde ou votre sac
-- RETROUVEZ VOTRE TÉLÉPHONE: Votre téléphone se cache sous un coussin ? Utilisez Tile pour le faire sonner, même lorsquil est en silencieux
+- RESTEZ EN SÉCURITÉ GRÂCE AUX ALERTES SILENCIEUSES: Envoyez discrètement une Alerte silencieuse à vos proches en cas de danger
 - SUTILISE AVEC LIFE360: Ajoutez vos Tiles à Life360, la meilleure application de sécurité et de connexion familiale qui vous permet de voir toutes les personnes et tous les objets sur une seule carte
+- RETROUVEZ VOTRE TÉLÉPHONE: Votre téléphone se cache sous un coussin ? Utilisez Tile pour le faire sonner, même lorsquil est en silencieux
 - RETROUVEZ VOS OBJETS: Faites sonner votre Tile égaré ou détectez-le dans lapplication gratuite
 
 [🛒 Achète-le!!]({{< param buyurl >}})

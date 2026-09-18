@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ensuite lance-toi à la poursuite de papillon pour le combattre. Le premier joueur qui rejoint papillon et le bat au combat de dés, sauve Paris et remporte la partie.
-- Aide Ladybug et Chat Noir à les libérer de leurs akumas dans un combat de dés, pour gagner des indices et découvrir où se cache Papillon.
 - Pour enfants à partir de 5 ans.
 - Papillon a ensorcelé 6 collégiens pour quils terrorisent la ville.
 - Contenu: 1 plateau de jeu, 4 pions de Ladybug, 1 pion de Chat Noir, 1 pion de Papillon, 6 pions de collégiens, des décors en carton, 5 jetons akuma, 1 dé de déplacement, 4 dés de bataille.
+- Aide Ladybug et Chat Noir à les libérer de leurs akumas dans un combat de dés, pour gagner des indices et découvrir où se cache Papillon.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079NS9QTS{{</world>}}

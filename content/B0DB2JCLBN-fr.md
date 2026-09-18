@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Roues tout-terrain
 - unité de siège réversible
-- Eos Lux TPE B/Stormy Blue-light blue PU1
+- Roues tout-terrain
 - Pare-soleil XXL avec insert en maille
 - 2 en 1 : la nacelle devient un siège
 - suspension des roues avant
+- Eos Lux TPE B/Stormy Blue-light blue PU1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DB2JCLBN{{</world>}}

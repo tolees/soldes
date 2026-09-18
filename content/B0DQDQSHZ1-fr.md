@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DES PERSONNAGES RÉINVENTÉS AVEC UN STYLE MODERNE !
 - LEXPÉRIENCE ULTIME DU JEU DACTION !
+- DES PERSONNAGES RÉINVENTÉS AVEC UN STYLE MODERNE !
 - UN JEU D’ACTION HALETANT ET STRATÉGIQUE !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

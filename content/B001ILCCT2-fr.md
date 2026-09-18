@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec réception de goupille de blocage et joint en caoutchouc
-- Ouverture de clé: 24 mm
 - Couple max. 682 Nm
-- Traitement de surface: phosphaté
-- En acier chrome-molybdène
-- Convient pour cliquet et clé à choc
+- Ouverture de clé: 24 mm
+- Avec réception de goupille de blocage et joint en caoutchouc
 - Longueur : 78 mm
 - Empreinte: Six pans
+- Convient pour cliquet et clé à choc
+- En acier chrome-molybdène
+- Traitement de surface: phosphaté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001ILCCT2{{</world>}}

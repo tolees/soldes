@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige respirante pour un confort accru pendant le jeu
 - Semelle extérieure en caoutchouc durable pour une adhérence optimale
+- Tige respirante pour un confort accru pendant le jeu
 - Technologie GEL pour un amorti supérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

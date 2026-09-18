@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rangement coulissant pour bouteilles de cuisine avec deux paniers et 3 séparateurs pour le panier inférieur.
+- Valable pour les modules dune largeur intérieure minimale de 112 mm et dune profondeur minimale de 460 mm. Compatible avec les modules avec des panneaux de 16, 18 et 19 mm.
+- Capacité de charge jusquà 30 kg et ajustement total de la porte (5D). Réglage de ±2,5 mm sur les côtés, ±2,25 mm en profondeur et jusquà 13 mm en hauteur.
 - Structure en acier avec finition gris anthracite et séparateurs en plastique gris.
 - Montage facile sur le côté gauche au moyen de 2 guides à rouleaux avec extraction totale et fermeture en douceur.
-- Capacité de charge jusquà 30 kg et ajustement total de la porte (5D). Réglage de ±2,5 mm sur les côtés, ±2,25 mm en profondeur et jusquà 13 mm en hauteur.
-- Valable pour les modules dune largeur intérieure minimale de 112 mm et dune profondeur minimale de 460 mm. Compatible avec les modules avec des panneaux de 16, 18 et 19 mm.
+- Rangement coulissant pour bouteilles de cuisine avec deux paniers et 3 séparateurs pour le panier inférieur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKHY79ZS{{</world>}}

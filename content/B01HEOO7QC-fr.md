@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclinable et réglable en hauteur avec poignées en bois
 - Socle porte-fromage pivotant
-- Appareil à raclette traditionnel
 - 6 à 8 personnes
+- Appareil à raclette traditionnel
 - Elément de chauffe horizontal
+- Inclinable et réglable en hauteur avec poignées en bois
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01HEOO7QC{{</world>}}

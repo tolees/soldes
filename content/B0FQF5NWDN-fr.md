@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Des fils multicolores sont tissés ensemble sur un métier Jacquard pour obtenir une texture agréable au toucher ainsi qu’une teinte riche et intense.
-- Cette coque est fabriquée dans une matière technique tissée sur mesure et composée de polyester 100 % recyclé.
-- Le contour de la coque est recouvert d’un TPU légèrement texturé pour une meilleure prise en main.
 - Conçue par Apple, la coque en tissage technique avec MagSafe offre une protection et une élégante personnalisation à votre iPhone 17 Pro.
+- Le contour de la coque est recouvert d’un TPU légèrement texturé pour une meilleure prise en main.
+- Cette coque est fabriquée dans une matière technique tissée sur mesure et composée de polyester 100 % recyclé.
 - Les boutons en aluminium anodisé offrent un retour précis.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

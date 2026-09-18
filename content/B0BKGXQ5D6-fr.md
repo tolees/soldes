@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PUISSANCE - Fonctionnant avec une batterie XR 18V (vendue séparément), cette boulonneuse utilise un moteur brushless qui fournit une puissance constante et fiable, augmentant lefficacité et la durabilité de loutil. La technologie brushless réduit lusure du moteur et prolonge la durée de vie de loutil, garantissant des performances optimales à chaque utilisation.
 - ERGONOMIE - Conçue pour un confort dutilisation maximal, cette boulonneuse est légère et bien équilibrée, facilitant la manipulation et réduisant la fatigue lors des longues sessions de travail. La poignée ergonomique offre une prise en main confortable et sécurisée, permettant un contrôle précis et une utilisation prolongée sans inconfort.
 - EFFICACITÉ - La boulonneuse DEWALT XR 18V est équipée de trois vitesses plus un mode précision, offrant un contrôle complet de la vitesse pour des applications variées. Cette fonctionnalité permet des ajustements rapides et faciles en fonction des exigences spécifiques du travail, assurant des résultats précis et fiables.
 - HAUTE PERFORMANCE - La boulonneuse DEWALT XR 18V brushless ½” est conçue pour offrir une performance exceptionnelle dans les applications de serrage et de desserrage. Idéale pour les travaux professionnels et de bricolage, cette boulonneuse assure une PUISSANCE - et une précision maximales grâce à son moteur sans balai et ses multiples réglages de vitesse.
-- PUISSANCE - Fonctionnant avec une batterie XR 18V (vendue séparément), cette boulonneuse utilise un moteur brushless qui fournit une puissance constante et fiable, augmentant lefficacité et la durabilité de loutil. La technologie brushless réduit lusure du moteur et prolonge la durée de vie de loutil, garantissant des performances optimales à chaque utilisation.
 - PRATICITÉ - Livrée sans batterie ni chargeur, la boulonneuse XR 18V brushless est compatible avec les batteries XR 18V existantes de DEWALT, offrant une solution économique pour ceux qui possèdent déjà des outils de la gamme. Son design robuste et ses multiples réglages de vitesse en font un outil indispensable pour les professionnels et les bricoleurs exigeants, prêts à réaliser des travaux de serrage et de desserrage avec précision et efficacité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

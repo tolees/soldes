@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pommeau de levier compatible avec les pommeaux pour les vraies voitures (taille M8, remplacements non-inclus)
-- Compatible with HORIs Force Feedback Racing Wheels and other Force Feedback brands.
 - Capteurs à effet Hall précis et durables
 - Expérience de course réaliste
+- Compatible with HORIs Force Feedback Racing Wheels and other Force Feedback brands.
+- Pommeau de levier compatible avec les pommeaux pour les vraies voitures (taille M8, remplacements non-inclus)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFG1SFXH{{</world>}}

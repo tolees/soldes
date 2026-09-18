@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dos en maille élastique rayée
 - Tissu avant en microfibre coupe-vent
 - Pliable dans très peu despace
-- Dos en maille élastique rayée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B081QMH8VD{{</world>}}

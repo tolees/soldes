@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cuir
 - Medium
 - Plat
-- Cuir
 - Scratch
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profil bas pour un look propre et polyvalent
 - Doublure textile
 - Les baskets allient un design vintage Reebok avec un bord net et moderne
+- Profil bas pour un look propre et polyvalent
 - Avec des lignes élégantes et des détails emblématiques à rayures latérales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

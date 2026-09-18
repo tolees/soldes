@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande variété d’accessoires Starlock pour une multitude d’applications
-- Butée de profondeur pour un sciage à la lame segment précis
 - Le système Bosch MagnetHold facilite le changement d’accessoires
-- Moteur puissant de 220 W avec variateur électronique
 - Lieferumfang: Lame segment BIM Wood and Metal, 85 mm, ACZ 85 EB (2 609 256 943);Plateau de ponçage pour ponceuse Delta, 93 mm, AVZ 93 G (2 609 256 956);Kit de feuilles abrasives Delta (2 609 256 A54);Lame plongeante HCS pour bois, 32 x 40 mm, AIZ 32 EPC (2 609 256 947);Clé six pans mâle;Butée de profondeur à 4 positions pour lames segments (2 609 256 C61);Coffret de transport
+- Moteur puissant de 220 W avec variateur électronique
+- Butée de profondeur pour un sciage à la lame segment précis
+- Grande variété d’accessoires Starlock pour une multitude d’applications
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01D080ILY{{</world>}}

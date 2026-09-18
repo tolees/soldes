@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec un assemblage de câbles à deux axes passifs de 3 mètres
-- Offre un moyen économique de se connecter dans des racks et entre des racks adjacents
-- Connecteur 10G SFP+ des deux côtés
 - 10 Gigabit Ethernet (3m de longueur)
+- Connecteur 10G SFP+ des deux côtés
 - Deux connecteurs SFP + de chaque côté, le TL-SM5220-3M convient aux courtes distances
+- Offre un moyen économique de se connecter dans des racks et entre des racks adjacents
+- Avec un assemblage de câbles à deux axes passifs de 3 mètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XNLQ74V{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inverseur automatique pour 2 sorties
-- Montage mural apparent
-- Levier de commande métallique
-- GROHE Longlife cartouche en céramique 46 mm
 - GROHE StarLight Chrome éclatant et durable
+- Montage mural apparent
+- Inverseur automatique pour 2 sorties
+- Levier de commande métallique
 - Saillie (en mm) : 166
+- GROHE Longlife cartouche en céramique 46 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00IE9NT2A{{</world>}}

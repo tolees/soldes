@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable
 - Poids léger
+- Confortable
 - Cuir souple
 - Cuir responsable
 

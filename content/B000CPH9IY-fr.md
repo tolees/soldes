@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- INTERNATIONAL
 - THE VERY BEST OF ROBERTA FLACK
 - MUSIC
+- INTERNATIONAL
 - FLACK ROBERTA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

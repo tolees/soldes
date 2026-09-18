@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile
-- Tige synthétique
 - Semelle extérieure en caoutchouc
+- Doublure textile
 - Fermeture à lacets
 - Coupe standard
+- Tige synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHZS7Z1L{{</world>}}

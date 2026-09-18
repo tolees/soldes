@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le parfum réconfortant du linge propre séchant dans une douce brise d’été
 - Le design en forme de sablier en verre crée une ouverture plus large permettant à la cire de fondre complètement, ce qui offre une expérience olfactive plus homogène.
+- Le parfum réconfortant du linge propre séchant dans une douce brise d’été
 - Le mélange premium de cires produit une belle combustion sans résidu salissant.
 - Chaque parfum est soigneusement sélectionné et testé afin de garantir que cette bougie emplit la pièce de son parfum longue durée.
 - La mèche en bois brevetée des bougies Pluswick Innovation crépite lorsqu’elle brûle, offrant une ambiance raffinée de feu de cheminée.

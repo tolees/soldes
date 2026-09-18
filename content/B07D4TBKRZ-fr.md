@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alimentation humide pour chat - pourcentage de viande très élevé - Vitamines et minéraux essentiels - Sans céréales
 - pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
+- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
+- Alimentation humide pour chat - pourcentage de viande très élevé - Vitamines et minéraux essentiels - Sans céréales
 - MjAMjAM - Tout simplement parce que cest bon
 - Composition : Viande et abats 93.9 % (poulet : viande, foie, cœur), carottes 5 %, minéraux 1 %, menthe à chat 0.1 %
-- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07D4TBKRZ{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des chaussures qui offrent un niveau d’isolation thermique optimal
-- Des chaussures légères pour une plus grande liberté de mouvement
 - Chaussant facile à régler grâce à la fermeture à lacets
 - Les technologies Amphibiox rendent la tige imperméable, pour une protection supérieure quelles que soient les conditions météo
+- Des chaussures légères pour une plus grande liberté de mouvement
+- Des chaussures qui offrent un niveau d’isolation thermique optimal
 - Semelle intérieure amovible
 - Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
 

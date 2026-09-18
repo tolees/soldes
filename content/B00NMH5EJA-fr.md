@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pointe moyenne polyvalente de 1,0 mm pour des traits épais et parfaitement définis
-- Flux d’encre régulier et constant pour une écriture sans effort
 - Pointe en acier inoxydable mise en valeur pour un aspect élégant ; disponible en noir, bleu, rouge et vert.
+- Pointe moyenne polyvalente de 1,0 mm pour des traits épais et parfaitement définis
 - Zone de préhension texturée et corps en caoutchouc sur toute la longueur pour plus de confort
 - Les stylos bille rétractables à encre bleue offrent une expérience d’écriture confortable et fluide dans un design épuré.
+- Flux d’encre régulier et constant pour une écriture sans effort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00NMH5EJA{{</world>}}

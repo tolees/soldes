@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame 6 cm inox
 - Poignard MORA ELDRISS
+- Lame 6 cm inox
 - Manche gomme Noir
 - Etui rigide Noir
 

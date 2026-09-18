@@ -32,8 +32,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Ce spot Philips HUE fonctionne avec Amazon Alexa, Google Home et Apple HomeKit
 - Classe de protection IP44 (optimisé pour lextérieur) : grâce à son boîtier de qualité supérieure, la lampe de jardin est protégée contre lhumidité et la poussière. Réglez les itinéraires personnalisés pour allumer et éteindre automatiquement la lumière
 - Créez vos propres configurations de lumières intelligentes de votre éclairage extérieur Philips et obtenez des scénarios lumineux parfaitement adaptés à vos besoins et vos envies
-- Cet éclairage extérieur LED est facile à intégrer dans un système Philips Hue existant. Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison.
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique g
+- Cet éclairage extérieur LED est facile à intégrer dans un système Philips Hue existant. Un Philips Hue Bridge est nécessaire pour le commander, celui-ci nest pas inclus dans la livraison.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BY26RTM{{</world>}}

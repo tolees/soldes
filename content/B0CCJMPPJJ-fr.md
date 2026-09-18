@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sandales de sport compensées
 - Garantie certifiée Global Recycled Standard (GRS)
 - Semelle intérieure rembourrée pour assurer le plus grand confort
+- Sandales de sport compensées
 - La semelle combine une partie doublée en raphia et EVA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

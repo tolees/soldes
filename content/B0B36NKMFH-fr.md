@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - bonne qualité.
-- 002 brun noir
 - Bourjois
 - Mascara 99% dingrédients dorigine naturelle Vegan Formule soin Longue tenue
+- 002 brun noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B36NKMFH{{</world>}}

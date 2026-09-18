@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zoom optique x40 : Approchez-vous de vos sujets avec un zoom X40, parfait pour photographier des scènes éloignées et détaillées.
-- Stabilisateur optique (OIS) : Réduisez les tremblements et obtenez des photos nettes même en mouvement ou en zoom maximal.
-- Grand angle 24 mm : Capturez des paysages ou des groupes avec un champ de vision élargi grâce au grand angle de 24 mm.
 - Appareil photo bridge KODAK Pixpro AZ405 : Capturez des images haute résolution de 20 MP et des vidéos en Full HD 1080p, idéal pour immortaliser vos souvenirs avec précision.
+- Grand angle 24 mm : Capturez des paysages ou des groupes avec un champ de vision élargi grâce au grand angle de 24 mm.
+- Stabilisateur optique (OIS) : Réduisez les tremblements et obtenez des photos nettes même en mouvement ou en zoom maximal.
+- Zoom optique x40 : Approchez-vous de vos sujets avec un zoom X40, parfait pour photographier des scènes éloignées et détaillées.
 - Accessoires inclus : Fonctionne avec 4 piles AA pour une autonomie flexible, capuchon dobjectif et dragonne inclus pour une utilisation pratique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- AMBIANCE: Immersion totale grâce à une bande sonore urbaine et un environnement post-apocalyptique détaillé
+- HISTOIRE: Plongez dans ANTRO, une métropole souterraine sous lancienne Barcelone, où 1% de lhumanité survit après lEffondrement
+- UNIVERS: Explorez un monde stratifié où les classes sociales sont définies par les niveaux souterrains, du plus pauvre au plus riche
 - MISSION PRINCIPALE: Livrez un mystérieux colis tout en luttant contre le régime totalitaire de La Cúpula dans les profondeurs dANTRO
 - GAMEPLAY: Aventure captivante en 2.5D mêlant action, énigmes et plateformes dans un monde souterrain dystopique
-- HISTOIRE: Plongez dans ANTRO, une métropole souterraine sous lancienne Barcelone, où 1% de lhumanité survit après lEffondrement
-- AMBIANCE: Immersion totale grâce à une bande sonore urbaine et un environnement post-apocalyptique détaillé
-- UNIVERS: Explorez un monde stratifié où les classes sociales sont définies par les niveaux souterrains, du plus pauvre au plus riche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXFWDB95{{</world>}}

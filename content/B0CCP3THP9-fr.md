@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Verre: Verre Minéral
 - - Forme de la Boîtier: Rond
+- - Verre: Verre Minéral
 - - Couleur de la Boîte: Argent
 - Boîtier
 - - Matérial de la Boîtier: Acier inoxydable

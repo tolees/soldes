@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coffret de dessins aux effets pointillés et aux couleurs métalliques
-- Le Pixelo électronique permet de colorier en pointillés
 - Dès 6 ans
-- Réalisation de dessins de chteau, dun hippocampe, dun dauphin et dune sirène, de caméléons
-- Pixelo - Coffret Metallique - Dessins et Coloriages - Dès 6 ans - Lansay
 - Contient : 1 Pixelo électronique, 8 illustrations, 6 feutres métalliques Fonctionne avec 1 pile LR03AAA, non incluse
+- Coffret de dessins aux effets pointillés et aux couleurs métalliques
+- Pixelo - Coffret Metallique - Dessins et Coloriages - Dès 6 ans - Lansay
+- Le Pixelo électronique permet de colorier en pointillés
+- Réalisation de dessins de chteau, dun hippocampe, dun dauphin et dune sirène, de caméléons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TZ5GGNB{{</world>}}

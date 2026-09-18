@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPATIBILITÉ : cet objectif dappareil photo Canon produit une qualité dimage très détaillée avec nimporte quel appareil photo du système Canon EOS R. Conçu pour les appareils photo APS-C du système EOS R
 - OBJECTIF CANON : capturez le monde avec un téléobjectif zoom compact et léger doté dun stabilisateur dimage avancé et dune plage polyvalente de 18 à 150mm, pour un usage quotidien et la vidéo
-- OBJECTIF D’APPAREIL PHOTO VLOG : lobjectif de lappareil photo Canon permet un superbe contrôle créatif, tandis quun stabilisateur dimage optique à 4,5 vitesses offre des photos nettes et des vidéos fluides
 - PHOTOGRAPHIE : capturez des sujets proches et lointains avec puissance et flexibilité avec une plage de 18 à 150mm. Rapprochez-vous des sujets éloignés et des moments importants
 - FORMAT PRATIQUE & PORTABLE : idéal pour les voyages ou une utilisation quotidienne, sa taille compacte signifie que vous pouvez le laisser sur votre appareil photo toute la journée ou lemporter dans votre sac
+- OBJECTIF D’APPAREIL PHOTO VLOG : lobjectif de lappareil photo Canon permet un superbe contrôle créatif, tandis quun stabilisateur dimage optique à 4,5 vitesses offre des photos nettes et des vidéos fluides
+- COMPATIBILITÉ : cet objectif dappareil photo Canon produit une qualité dimage très détaillée avec nimporte quel appareil photo du système Canon EOS R. Conçu pour les appareils photo APS-C du système EOS R
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B25VFZJ7{{</world>}}

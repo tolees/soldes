@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design ergonomique et compact pour une manipulation facile même à une main
-- Parfaite pour les finitions précises, les travaux de rénovation, le ponçage de meubles ou de moulures
-- Livrée avec plusieurs têtes interchangeables : patin classique, plateau ROS, tête de ponçage de détail, doigt de ponçage
-- Système Hyperlock exclusif avec 1 tonne de force de serrage pour maintenir les têtes fermement en place
-- Ponceuse électrique multifonction idéale pour le bois, le métal, les angles serrés et les surfaces complexes
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
-- Changement rapide des têtes sans outil grâce au système de fixation innovant WORX
-- Ponceuse sans fil WORX 20V 5-en-1 pour ponçage orbital, de finition, de détail, de contour et à bande étroite
 - Microfiltre DustStop avec sac à poussière pour capter efficacement la poussière et garder votre espace de travail propre
+- Parfaite pour les finitions précises, les travaux de rénovation, le ponçage de meubles ou de moulures
+- Ponceuse électrique multifonction idéale pour le bois, le métal, les angles serrés et les surfaces complexes
+- Changement rapide des têtes sans outil grâce au système de fixation innovant WORX
+- Design ergonomique et compact pour une manipulation facile même à une main
+- Système Hyperlock exclusif avec 1 tonne de force de serrage pour maintenir les têtes fermement en place
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Livrée avec plusieurs têtes interchangeables : patin classique, plateau ROS, tête de ponçage de détail, doigt de ponçage
+- Ponceuse sans fil WORX 20V 5-en-1 pour ponçage orbital, de finition, de détail, de contour et à bande étroite
 - Compatible avec toutes les batteries WORX PowerShare 20V, 40V, 80V MAX (version vendue sans batterie ni chargeur)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La quête du sceau infernal : Rassemblez les pages magiques perdues de la Divine Comédie et réunissez-les pour accomplir le rituel qui maintient les portes de lEnfer fermées.
-- Déterrez une vérité fragmentée : Fouillez lenvironnement pour trouver des objets de collection cachés et des pages de journal. Reconstituez lhistoire tragique de la lignée Alighieri et les souvenirs oubliés de la vie de Gabriele pour comprendre le véritable coût du Rituel.
 - Résolution dénigmes thématiques : Déchiffrez des énigmes ésotériques et naviguez dans un voyage psychologique éprouvant qui vous force à affronter les peurs et les traumatismes les plus profonds de Gabriele.
+- Déterrez une vérité fragmentée : Fouillez lenvironnement pour trouver des objets de collection cachés et des pages de journal. Reconstituez lhistoire tragique de la lignée Alighieri et les souvenirs oubliés de la vie de Gabriele pour comprendre le véritable coût du Rituel.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0H3C832XJ{{</world>}}

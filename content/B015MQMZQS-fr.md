@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le couvercle et les outils de découpe sadaptent au bol de cuisson
 - Réalise les 5 fonctions-clés grâce aux 3 disques réversibles (Râpé fin - Râpé gros - Tranché fin - Tranché gros - Gratté). Conçu pour le robot: Companion HF900, Companion XL HF807 et Companion HF800
 - Compatible avec tous les modèles de robot cuiseur Companion
+- Le couvercle et les outils de découpe sadaptent au bol de cuisson
 - Découpe parfaitement, directement dans le bol de cuisson pour plus de praticité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

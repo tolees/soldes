@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : cuir (cuir de veau)
 - XL extra léger pour plus de légèreté et dabsorption des chocs
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
+- Dessus : cuir (cuir de veau)
 - Couleur : noir
 - Semelle intérieure : OrthoLite pour amortir
 

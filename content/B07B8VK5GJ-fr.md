@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - convertisseur audio & vidéo analogique vers numérique
-- Augmente de la résolution vidéo jusquau 1080p
-- commutateur vidéo
 - Sorties audio numérique
+- commutateur vidéo
+- Augmente de la résolution vidéo jusquau 1080p
 - Grce au DHD-P, vous allez pouvoir reliez votre source vidéo utilisant une prise péritel (ex: magnétoscope ou console de jeux) sur un TV nacceptant que des signaux numérique HDMI. De plus, grce à son commutateur vidéo intégré, vous allez pouvoir également y brancher une seconde source HDMI et ainsi pouvoir regarder lune et/ou lautre sur votre TV.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

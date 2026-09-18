@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pièces authentiques fabriquées par iRobot
 - 2 brosses en caoutchouc multi surfaces pour aspirateur robot iRobot Roomba séries e et i
+- Pièces authentiques fabriquées par iRobot
 - Frottent, détachent et envoient la saleté dans le conduit daspiration
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

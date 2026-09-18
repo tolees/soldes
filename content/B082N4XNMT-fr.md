@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : caoutchouc
-- Lavable en machine
 - Matériau extérieur : synthétique
+- Lavable en machine
 - Matériau intérieur : synthétique
 - Technologie Comfort Pillar
 - Fermeture : lacets
+- Semelle : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082N4XNMT{{</world>}}

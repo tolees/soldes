@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bande de roulement en caoutchouc
 - Semelle en mousse avec amorti Max Air
 - Tige en cuir et cuir synthétique
-- Bande de roulement en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CHAHJXQ{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cycle de production : 12 kg sur 24 heures / 9 glaçons par cycle (chaque cycle est denviron 8 minutes). La forme du cube à glace est en balle (26 x 30 mm).
-- La machine à glace Lacor est fabriquée en ABS et polypropylène de haute qualité. Sans BPA. Fonctionnement simple et intuitif : remplissez le réservoir deau et les premiers glaçons seront créés en quelques minutes.
 - Comprend un bouchon à la base pour vider leau. Taille compacte : 36 x 24 x 33 cm.
 - Alarme sonore qui avertit si le réservoir est plein ou si vous avez besoin de plus deau. Fenêtre transparente pour voir le processus sans ouvrir la machine.
+- Cycle de production : 12 kg sur 24 heures / 9 glaçons par cycle (chaque cycle est denviron 8 minutes). La forme du cube à glace est en balle (26 x 30 mm).
+- La machine à glace Lacor est fabriquée en ABS et polypropylène de haute qualité. Sans BPA. Fonctionnement simple et intuitif : remplissez le réservoir deau et les premiers glaçons seront créés en quelques minutes.
 - Cycle de production automatique et silencieux. Détection infrarouge : sarrête automatiquement si le réservoir est détecté.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

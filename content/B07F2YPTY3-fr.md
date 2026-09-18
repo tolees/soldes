@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Logo PUMA sur la languette et au talon
+- Fermeture à lacets pour un maintien optimal
 - Tige en maille et en synthétique
 - Semelle en caoutchouc pour ladhérence
-- Fermeture à lacets pour un maintien optimal
-- Logo PUMA sur la languette et au talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07F2YPTY3{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lames doublement affutées pour une coupe 2 fois plus rapide (DualCut)
 - Technologie anti-bourrage: jusquà 80% de bourrage de cheveux en moins (Trim-n-Flow)
 - Mode Turbo: rasage encore plus rapide + batterie puissante (jusquà 90 min dautonomie pour 1 heure de charge)
 - 100% étanche
+- Lames doublement affutées pour une coupe 2 fois plus rapide (DualCut)
 - 28 hauteurs de coupe verrouillables + 1 sabot barbe et 2 sabots cheveux inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

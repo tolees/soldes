@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques : tenues interchangeables, bras et jambes mobiles
 - Comprend : 7 personnages de hibou
+- Caractéristiques : tenues interchangeables, bras et jambes mobiles
 - Design : couleurs vives stimulent le développement cognitif
 
 [🛒 Achète-le!!]({{< param buyurl >}})

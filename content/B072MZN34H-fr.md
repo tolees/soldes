@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçu et développé en Europe – Fabriqué en Chine
 - Affi­chage numérique de lheure sur lécran LCD.
-- Découvrez 4 superbes effets sonores en appuyant sur Chase et Marshall.
 - Pour un sommeil paisible, une simple pression sur la base permet denclencher la veilleuse pour une durée de 15 minutes.
-- Alarme avec fonction "snooze" (répétition).
-- Alimentation: 4 piles LR6/AA (non fournies).
+- Conçu et développé en Europe – Fabriqué en Chine
 - Réveil projecteur La PatPatrouille pour vous plonger au cœur de l’ambiance du jeu !
+- Alarme avec fonction "snooze" (répétition).
+- Découvrez 4 superbes effets sonores en appuyant sur Chase et Marshall.
+- Alimentation: 4 piles LR6/AA (non fournies).
 - Appuyer sur le bouton "PROJECT" pour projeter lheure au plafond.
 - Garantie : 2 ans
 

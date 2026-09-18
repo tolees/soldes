@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 20 % de couple en plus par rapport à la précédente génération grâce à un moteur plus performant
 - Plus grande autonomie : visse jusquà 190 vis avec une charge grâce à la batterie 2,0 Ah Lithium-Ion améliorée
+- LIXO – 7e génération de la visseuse à succès
 - Détection de câbles sous tension et de métal : le Truvo détecte des câbles sous tension jusqu’à 50 mm de profondeur et du métal jusqu’à 70 mm; l’utilisateur est averti par une lumière rouge clignotante et un signal davertissement sonore; des LED dédiées permettent de distinguer métal et câble sous tension
 - Aussitôt prêt à l’emploi : détection facile par simple appui sur un bouton; nouveau concept sonore avec logique d’assistance indiquant clairement où il vaut mieux ne pas percer
-- LIXO – 7e génération de la visseuse à succès
 - Autocalibrage : le scanneur mural se calibre automatiquement dès que l’appareil est appliqué contre un mur et il se recalibre dès qu’il est changé de position
-- 20 % de couple en plus par rapport à la précédente génération grâce à un moteur plus performant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FTKD1NSH{{</world>}}

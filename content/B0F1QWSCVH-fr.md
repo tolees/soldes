@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Isolation acoustique, microphone bidirectionnel désactivable par basculement
 - Conception du casque légère
-- Écouteurs de 40 mm de qualité supérieure pour un son cristallin
-- Sous licence officielle de Nintendo
 - Réglage du volume sur le casque
+- Sous licence officielle de Nintendo
+- Écouteurs de 40 mm de qualité supérieure pour un son cristallin
+- Isolation acoustique, microphone bidirectionnel désactivable par basculement
 - Coussinets haut de gamme à isolation acoustique avec ajustement enveloppant confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

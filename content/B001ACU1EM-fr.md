@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de talon : Plat
-- Matériau extérieur :Cuir
 - Matériau unique : 100% EVA
+- Matériau extérieur :Cuir
 - Type de fermeture : Lacet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

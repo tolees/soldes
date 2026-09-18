@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Entièrement doublé
 - Emballage: Boîte
 - Lacets
-- Entièrement doublé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CST8K81M{{</world>}}

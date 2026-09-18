@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baskets de course Bexley South M fabriquées avec une combinaison de couleurs et de matériaux, doublure de col contrastée
-- Œillet technique et languette au talon avec division de couture, logo 1973 sur le talon, pièce réfléchissante sur le côté, semelle intermédiaire confortable en EVA avec deux lignes de couleur différentes sur le talon, semelle extérieure en caoutchouc bicolore personnalisée et logo classique imprimé sur le côté
 - 75 % polyuréthane, 25 % polyamide
+- Œillet technique et languette au talon avec division de couture, logo 1973 sur le talon, pièce réfléchissante sur le côté, semelle intermédiaire confortable en EVA avec deux lignes de couleur différentes sur le talon, semelle extérieure en caoutchouc bicolore personnalisée et logo classique imprimé sur le côté
+- Baskets de course Bexley South M fabriquées avec une combinaison de couleurs et de matériaux, doublure de col contrastée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DTPNWP2D{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : 100 % cuir de vachette
 - Doublure : 44 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 34 % cuir de porc 22 % polyester recyclé
 - Better Leather,Better Linings
+- Matériau extérieur : 100 % cuir de vachette
 - Couleur : noir
 - Semelle extérieure : 100 % EVA
 

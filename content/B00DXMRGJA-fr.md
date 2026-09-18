@@ -29,13 +29,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - <b>Description du produit</b>: Nikon PROSTAFF 5 10x50
-- Largeur: 14 cm
-- Poids: 815g
+- <b>Poids</b>: 815g
 - <b>Profondeur</b>: 18,7 cm
 - Description du produit: Nikon PROSTAFF 5 10x50
+- Poids: 815g
 - <b>Largeur</b>: 14 cm
-- <b>Poids</b>: 815g
 - Profondeur: 18,7 cm
+- Largeur: 14 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00DXMRGJA{{</world>}}

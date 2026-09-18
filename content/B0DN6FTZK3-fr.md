@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Confort et douceur
 - Design urbain et élégant
 - Entretien facile
-- Confort et douceur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DN6FTZK3{{</world>}}

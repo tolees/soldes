@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compact et léger, ce perforateur est idéal pour les aplications de chevillage
+- Idéal pour le perçage de trous de 4 à 28 mm de diamètre dans le béton, la brique ou divers matériaux
 - Le moteur sans charbons réduit la taille de loutil tout en maximisant sa puissance et en offrant une durée dutilisation prolongée
 - Stop de rotation pour les travaux de burinage légers
 - LED améliorant la visibilité lors du percage
-- Idéal pour le perçage de trous de 4 à 28 mm de diamètre dans le béton, la brique ou divers matériaux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XSHPHSQ{{</world>}}

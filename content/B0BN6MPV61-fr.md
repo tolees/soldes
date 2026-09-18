@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussures légères
-- Fermeture à lacets; Semelle intérieure amovible
 - Amorti renforcé, grâce au Système Zéro Shock
+- Fermeture à lacets; Semelle intérieure amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BN6MPV61{{</world>}}

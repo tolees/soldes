@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Synchronise le taux de rafraîchissement de lécran avec la carte graphique pour éliminer les déchirures et les saccades de lécran.
-- Réduit les émissions de lumière bleue pour réduire la fatigue oculaire et améliorer le confort.
 - Taux de rafraîchissement de 144 Hz pour des images ultra fluides et brillantes
+- Réduit les émissions de lumière bleue pour réduire la fatigue oculaire et améliorer le confort.
+- Synchronise le taux de rafraîchissement de lécran avec la carte graphique pour éliminer les déchirures et les saccades de lécran.
 - Réduit le scintillement de lécran pour minimiser la fatigue oculaire lors dune utilisation prolongée.
 - Réponse rapide de 0,5 ms (MPRT) pour une image nette et un jeu fluide
 

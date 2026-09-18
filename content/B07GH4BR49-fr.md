@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité – Se mélange facilement avec des peintures acryliques et vinyles dans toutes les proportions, offrant un fini brillant
 - Qualité artistique – Médium liquide de qualité professionnelle de Lefranc & Bourgeois, formulé pour les artistes
 - Création de glacis – Conçu pour produire des couches translucides avec des peintures acryliques, avec un fini brillant et transparent
-- Amélioration de la transparence – Le médium lisse les couleurs et augmente leur clarté et luminosité
 - Effets spéciaux – Idéal pour créer des effets de goutte, des flaques de couleur ou des glacis brillants
+- Compatibilité – Se mélange facilement avec des peintures acryliques et vinyles dans toutes les proportions, offrant un fini brillant
+- Amélioration de la transparence – Le médium lisse les couleurs et augmente leur clarté et luminosité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GH4BR49{{</world>}}

@@ -29,15 +29,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Assise plantaire Cloudfoam Plus.
-- Fermeture à lacets.
-- Semelle extérieure en caoutchouc.
-- Doublure textile.
 - Semelle intermédiaire Bounce 2.0.
-- Tige en mesh.
-- Contient au moins 20 % de matériaux recyclés.
-- Fidèle à la taille
-- Poids : 306 g (pointure 42 2/3).
+- Fermeture à lacets.
 - Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
+- Tige en mesh.
+- Semelle extérieure en caoutchouc.
+- Contient au moins 20 % de matériaux recyclés.
+- Poids : 306 g (pointure 42 2/3).
+- Fidèle à la taille
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHXGJF71{{</world>}}

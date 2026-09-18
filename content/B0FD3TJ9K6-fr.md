@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ÉDITION SPÉCIALE: Une version exclusive du jeu daction-plateforme NINJA GAIDEN: Ragebound pour Playstation 5 avec contenu bonus
-- DÉVELOPPEMENT EXPERT: Créé par léquipe talentueuse derrière Blasphemous, offrant une expérience de jeu sophistiquée
-- GAMEPLAY DYNAMIQUE: Une aventure ninja spectaculaire combinant action intense et platforming précis dans un style side-scrolling
 - HÉRITAGE LÉGENDAIRE: Une réinvention moderne de la célèbre série NINJA GAIDEN avec des mécaniques de jeu actualisées
+- GAMEPLAY DYNAMIQUE: Une aventure ninja spectaculaire combinant action intense et platforming précis dans un style side-scrolling
+- DÉVELOPPEMENT EXPERT: Créé par léquipe talentueuse derrière Blasphemous, offrant une expérience de jeu sophistiquée
 - VERSION FRANÇAISE: Interface et textes entièrement localisés en français pour une expérience de jeu optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

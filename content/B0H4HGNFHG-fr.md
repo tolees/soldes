@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le retour de la saga Onimusha : Une aventure dans un Kyoto corrompu par le mal
 - Le Gantelet Oni : Un artefact mystique permettant dabsorber les âmes Genma pour décupler votre puissance
+- Le retour de la saga Onimusha : Une aventure dans un Kyoto corrompu par le mal
 - Affrontez les Genma : Des démons venus des enfers qui plongent la capitale dans la terreur
 - Incarnez Miyamoto Musashi : Un samouraï au visage inspiré du légendaire acteur Toshiro Mifune
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le col rembourré améliore le confort autour de la cheville
 - La semelle extérieure EXTRALIGHT garantit une traction et une durabilité sans effort
-- La selle Penny Loafer ajoute une touche classique
 - CLARKS Berwick Lo Black Leather 39,5
+- La selle Penny Loafer ajoute une touche classique
+- Le col rembourré améliore le confort autour de la cheville
 - Assise plantaire en mousse souple offrant un confort tout au long de la journée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

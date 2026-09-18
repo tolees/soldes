@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Version française
+- Descriptif produit : Un pack de 3 petits véhicules à thème à collectionner : Capucine jolie citadine, Clémence SOS ambulance, Barnabé super pompier.
 - Effets sonores réalistes.
 - Montées sur 4 petites roues, les Tut Tut Bolides accompagnent Bébé dans ses premières découvertes : nom, fonctions et particularités de chacun des véhicules, développement de la motricité.
-- Version française
 - 2 chansons rigolotes par véhicule.
-- Descriptif produit : Un pack de 3 petits véhicules à thème à collectionner : Capucine jolie citadine, Clémence SOS ambulance, Barnabé super pompier.
 - Un bouton lumineux en forme de visage rigolo déclenche une chanson, des phrases et des effets sonores.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

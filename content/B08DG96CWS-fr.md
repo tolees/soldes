@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
-- Doublure :
 - Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - 70 % Textile (100 % Polyester) 30 % Textile (50 % Polyester - 50 % PU）
+- Couleur : noir
+- Doublure :
 - Tige : Cuir de vachette / Textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

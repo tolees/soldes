@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type dajustement : Spécifique au véhicule
 - Composants inclus : Accessoires identiques à lOE inclus
+- Type dajustement : Spécifique au véhicule
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0764GJYPW{{</world>}}

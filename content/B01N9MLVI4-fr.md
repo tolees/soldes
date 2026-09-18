@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formule prête à l’emploi
-- Produit de qualité.
 - Couleur : Jaune.
+- Produit de qualité.
+- Formule prête à l’emploi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N9MLVI4{{</world>}}

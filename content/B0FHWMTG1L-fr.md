@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Démarche écologique
 - Priorité aux ingrédients d’origine naturelle
+- Démarche écologique
 - Les informations ci-dessous sappliquent à chaque unité du pack
 - L’Arbre Vert dispose de son propre site de production français, à Saint benoit (86) où 90% du volume de ses produits sont fabriqués
 

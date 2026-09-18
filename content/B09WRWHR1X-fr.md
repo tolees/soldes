@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Pneus antidérapants et amortisseurs avec chambre à air de 8,5 pouces
 - La vitesse maximale peut atteindre 25 km/h
 - Conduisez sur des surfaces inclinées jusquà 21 percent
-- Pneus antidérapants et amortisseurs avec chambre à air de 8,5 pouces
 - Moteur sans balais puissant et performant
 - Avec 3 vitesses réglables
 

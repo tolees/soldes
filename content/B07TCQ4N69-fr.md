@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Brosse carbure de silicium - préconisation décapage ultra fort sur surfaces planes métal ou préparation avant soudure (diamètre 120mm. Largeur 100mm)
-- Numéro de modèle : 110888
 - Produit de haute qualité
+- Brosse carbure de silicium - préconisation décapage ultra fort sur surfaces planes métal ou préparation avant soudure (diamètre 120mm. Largeur 100mm)
 - Durable
+- Numéro de modèle : 110888
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TCQ4N69{{</world>}}

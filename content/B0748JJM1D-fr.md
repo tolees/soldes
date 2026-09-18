@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériel professionnel
 - Solide à lutilisation
+- Matériel professionnel
 - Bonne prise en main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

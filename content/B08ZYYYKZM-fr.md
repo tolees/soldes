@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÂGE : Un ordinateur comme les grands pensé pour les enfants de 5 à 12 ans
 - SÉCURISÉ : Navigateur internet avec liste blanche : lenfant na accès quaux sites approuvés par VTech et ses parents / Contrôles parentaux renforcés : arrêts programmés & limitation du temps de jeu / Vidéo de sensibilisation aux données personnelles, au temps de jeu sur écran et aux dérives dInternet et des réseaux sociaux
-- VERSION : Française
 - CARACTÉRISTIQUES TECHNIQUES : écran 5 (taille en cm : 11,1 x 6,2 cm / 12,5 cm de diagonale), clavier AZERTY, souris, mémoire de 8GB extensible via carte micro-SD (non incluse)
+- ÂGE : Un ordinateur comme les grands pensé pour les enfants de 5 à 12 ans
+- VERSION : Française
 - CONTENU : + de 50 activités et applications dont un vrai logiciel de traitement de texte pour faire ses devoirs et samuser / + de 20 fiches de révision incluses sur différents thèmes. Lenfant peut enregistrer son fichier en PDF, sur la carte micro-SD
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

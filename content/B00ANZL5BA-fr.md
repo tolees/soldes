@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Aliment complémentaire de haute qualité pour tous les oiseaux sauvages granivores
+- Servies entières ou cassées sans coquilles
 - Idéal pour nourrir sans laisser de résidus sur le balcon et la terrasse
 - Idéal aussi pour les petits oiseaux sauvages
-- Servies entières ou cassées sans coquilles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00ANZL5BA{{</world>}}

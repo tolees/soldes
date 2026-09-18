@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 ans de Garantie Internationale
 - Taille taille unique
 - Noir
-- 2 ans de Garantie Internationale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09BCPP68Q{{</world>}}

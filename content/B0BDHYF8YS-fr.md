@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatibilité : PlayStation
-- Commandes audio faciles d’accès
 - Amélioration de l’expérience de chat dans le jeu
 - Confort et légèreté
 - Un son clair et net dans le jeu
+- Commandes audio faciles d’accès
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BDHYF8YS{{</world>}}

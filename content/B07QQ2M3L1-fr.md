@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCONOMIQUE - La technologie LED fait économiser jusquà 80 % dénergie par rapport aux ampoules à incandescence classiques.
-- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
-- KIT COMPLET - Le kit se compose de trois luminaires fournis avec module LED
-- PROTECTION CONTRE LES ASPERSIONS - Protection IP44
-- GRADABLE - Lintensité des lampes peut être ajustée
 - Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique G.
+- ÉCONOMIQUE - La technologie LED fait économiser jusquà 80 % dénergie par rapport aux ampoules à incandescence classiques.
+- KIT COMPLET - Le kit se compose de trois luminaires fournis avec module LED
+- GRADABLE - Lintensité des lampes peut être ajustée
+- PROTECTION CONTRE LES ASPERSIONS - Protection IP44
+- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07QQ2M3L1{{</world>}}

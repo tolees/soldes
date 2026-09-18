@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Zip
 - Manche longue
-- 100% Polyamides
 - Fermeture éclair
 - Lavage en machine
-- Zip
 - Classique
+- 100% Polyamides
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VTJVD56{{</world>}}

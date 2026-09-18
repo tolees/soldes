@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Taille: Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Matériau de semelle: Caoutchouc
 - Dessus: Cuir
+- Doublure: Maille
 - Type de talons: Plat
 - Semelle intérieure amovible: false
-- Doublure: Maille
 - Semelle intérieure: Synthétique
-- Matériau de semelle: Caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XKXKP4C{{</world>}}

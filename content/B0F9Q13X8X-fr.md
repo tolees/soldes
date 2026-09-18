@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petite taille, grand son, tient dans une grande poche de veste
 - Bluetooth pour vous permettre de diffuser du contenu à partir dun téléphone ou dune tablette
+- Linterrupteur de voyage empêche lappareil de se mettre en marche pendant le voyage
 - Piles AA ou piles rechargeables LR6
 - Radio portable DAB+/FM
-- Linterrupteur de voyage empêche lappareil de se mettre en marche pendant le voyage
+- Petite taille, grand son, tient dans une grande poche de veste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F9Q13X8X{{</world>}}

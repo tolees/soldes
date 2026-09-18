@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cuir
-- Talon bloc
 - Synthétique
+- Talon bloc
 - Moyen
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

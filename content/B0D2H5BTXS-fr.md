@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Après une seule application, il a été cliniquement prouvé que la crème anti-rougeurs : répare la barrière cutanée de 65 % en une heure** et améliore instantanément l’hydratation de 27 %**
 - Au bout de deux semaines, la peau présente une amélioration clinique*** : des rougeurs visibles, de la réparation de la barrière cutanée, des niveaux d’hydratation.
+- Ce qu’elle contient : un complexe de Cica avancé à l’extrait de centella asiatica dérivé de CoolSonic apaise et réduit les rougeurs. Le R-Protector a un pouvoir apaisant. L’allantoïne répare la barrière cutanée.
 - ** Test clinique mené sur 30 femmes après une seule application de la crème réparatrice.
 - Crème gel légère sans : huile minérale, gluten.
-- Ce qu’elle contient : un complexe de Cica avancé à l’extrait de centella asiatica dérivé de CoolSonic apaise et réduit les rougeurs. Le R-Protector a un pouvoir apaisant. L’allantoïne répare la barrière cutanée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D2H5BTXS{{</world>}}

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - La courroie a des côtés lisses et adhérants - faites-les basculer pour passer de lun à lautre.
 - Les ajusteurs rapides en aluminium vous permettent de modifier la longueur de la sangle dun seul doigt lorsque la sangle est sur votre corps.
 - Les ancrages sont équipés de cordons thermoplastiques anti-abrasion à deux couches qui indiquent sils ont été endommagés et doivent être remplacés.
-- Les sangles fines et non rembourrées offrent un confort tout au long de la journée, tout en se rangeant facilement dans votre sac photo.
 - Idéal pour une large gamme de combinaisons appareil photo/objectif. Confort maximal avec les appareils photo sans miroir.
+- Les sangles fines et non rembourrées offrent un confort tout au long de la journée, tout en se rangeant facilement dans votre sac photo.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0781RYKTW{{</world>}}

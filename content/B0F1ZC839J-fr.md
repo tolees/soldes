@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Modèle : sweat-shir
+- Matériau : coton
 - Marque : Tommy Hilfiger
 - Article : MW0MW37235
-- Modèle : sweat-shir
 - Couleur : bleu
-- Matériau : coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F1ZC839J{{</world>}}

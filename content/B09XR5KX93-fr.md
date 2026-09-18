@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets 100 Percentage recyclés, toile et doublure en maille
-- Embout de protection et semelle en caoutchouc Vibram TC5
-- Dessus en cuir de porc et maille
 - Membrane imperméable Gore-Tex, respirabilité exceptionnelle et performance imperméable
+- Embout de protection et semelle en caoutchouc Vibram TC5
+- Lacets 100 Percentage recyclés, toile et doublure en maille
 - Languette à soufflet pour empêcher les débris dentrer
+- Dessus en cuir de porc et maille
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XR5KX93{{</world>}}

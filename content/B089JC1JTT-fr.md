@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en 3 teintes personnalisables, choisissez votre teinte en fonction du résultat final souhaité et appliquez-la autant de fois que nécessaire : Light Glow, Medium Tanze, Dark Bronze ; Avec 2 à 12 gouttes, vous pouvez choisir le niveau de luminosité souhaité
-- Mélangez les gouttes à votre routine de soins de la peau, de maquillage ou de soins du corps pour un éclat nourri et 100 % personnalisable. Cette formule flexible convient aussi bien aux débutants qu’aux bronzants expérimentés qui aiment un autobronzant d’apparence naturelle. Plus vous ajoutez de gouttes, plus vous brillez
 - L’utilisation de nos gouttes autobronzantes Tanologist procure éclat, souplesse et hydratation grâce à notre trio doux pour la peau de pamplemousse rose, de baies de goji et de genévrier ; La formule non comédogène s’intègre à votre routine de soins de la peau existante et peut être utilisée à la fois sur le visage et le corps
-- Pas de guide de couleur signifie : pas de pores obstrués, pas d’effet desséchant sur la peau, pas de transfert de bronzage sur les draps ou les vêtements
+- Disponible en 3 teintes personnalisables, choisissez votre teinte en fonction du résultat final souhaité et appliquez-la autant de fois que nécessaire : Light Glow, Medium Tanze, Dark Bronze ; Avec 2 à 12 gouttes, vous pouvez choisir le niveau de luminosité souhaité
 - Ce bronzant pour le visage et le corps a été testé et approuvé par des dermatologues, il convient donc aux peaux sensibles et ne contient pas d’ingrédients irritants qui provoquent des boutons et des pores obstrués
+- Pas de guide de couleur signifie : pas de pores obstrués, pas d’effet desséchant sur la peau, pas de transfert de bronzage sur les draps ou les vêtements
+- Mélangez les gouttes à votre routine de soins de la peau, de maquillage ou de soins du corps pour un éclat nourri et 100 % personnalisable. Cette formule flexible convient aussi bien aux débutants qu’aux bronzants expérimentés qui aiment un autobronzant d’apparence naturelle. Plus vous ajoutez de gouttes, plus vous brillez
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B089JC1JTT{{</world>}}

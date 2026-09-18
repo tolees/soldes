@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure : 45 % caoutchouc - 38 % EVA - 17 % caoutchouc naturel
 - Couleur : noir
 - Matériau extérieur : 100 % cuir de vachette
-- Semelle extérieure : 45 % caoutchouc - 38 % EVA - 17 % caoutchouc naturel
 - Doublure : 53 % polyamide, 40 % polyester recyclé, 7 % cuir de vachette
 
 [🛒 Achète-le!!]({{< param buyurl >}})

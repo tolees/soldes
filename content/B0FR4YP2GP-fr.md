@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Séchage rapide
 - Détection de pause
 - Apprentissage de la fixation
 - Mode protection du cuir chevelu
+- Séchage rapide
 - Protection contre les dommages causés par la chaleur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

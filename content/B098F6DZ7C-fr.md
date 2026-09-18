@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Peforations sur la pointe et les côtés pour plus de confort et de respirabilité
 - Perforations sur les côtés et au niveau des orteils
 - Semelle extérieure en caoutchouc
 - Col bas rembourré, stylé et agréable au toucher
+- Peforations sur la pointe et les côtés pour plus de confort et de respirabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098F6DZ7C{{</world>}}

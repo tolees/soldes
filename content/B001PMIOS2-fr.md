@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance de 750 W pour une progression de travail rapide
-- Carter en métal robuste pour une grande longévité
-- Livré avec : GSB 16 RE, poignée auxiliaire, butée de profondeur 210 mm, mandrin automatique 13 mm, coffret de transport
 - La plus rapide de sa catégorie
+- Livré avec : GSB 16 RE, poignée auxiliaire, butée de profondeur 210 mm, mandrin automatique 13 mm, coffret de transport
+- Carter en métal robuste pour une grande longévité
+- Puissance de 750 W pour une progression de travail rapide
 - Conception compacte pour une maniabilité parfaite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

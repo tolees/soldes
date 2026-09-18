@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poche poitrine
-- Ourlet ajustable
 - Capuche ajustable
 - Poignets élastiques
+- Ourlet ajustable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9HGPPLH{{</world>}}

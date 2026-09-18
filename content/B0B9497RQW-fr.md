@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hermes Eau de Basilic Pourpre EdC 100 Ml
 - Marque : Hermes
-- Une fragrance fraîche et énergique
 - Produit de qualité supérieure
+- Hermes Eau de Basilic Pourpre EdC 100 Ml
+- Une fragrance fraîche et énergique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B9497RQW{{</world>}}

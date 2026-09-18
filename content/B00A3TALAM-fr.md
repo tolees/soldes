@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Angel Eau de Parfum, le premier parfum gourmand. En 1992, Mugler révolutionne lunivers de la parfumerie en proposant une fragrance pionnière, jamais sentie auparavant : sans fleurs mais avec des matières premières addictives, jouées en overdose pour une sensualité affirmée.
 - Redonnez vie éternellement à votre parfum en le rechargeant chez vous avec le flacon recharge 100ml.
 - Ambré Gourmand - Patchouli, Accord Praline & Absolu de Vanille
-- Vaporisez un nuage puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements. Complétez la gestuelle en parfumant les points de pulsation : poignet, cou, pliure du bras.
 - Angel Eau de Parfum, le premier parfum gourmand iconique, associe la puissance du patchouli à la sensualité des notes de praline, de fruits rouges et dabsolu de vanille.
+- Vaporisez un nuage puis traversez le pour laisser la fragrance se déposer sur les cheveux, les vêtements. Complétez la gestuelle en parfumant les points de pulsation : poignet, cou, pliure du bras.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00A3TALAM{{</world>}}

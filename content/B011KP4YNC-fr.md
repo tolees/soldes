@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : hauteur : max 110 cm, diamètre : 32,5 cm
-- Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 watts ; Puissance réglable en fonction de lampoule utilisée
-- L‘ampoule à filament représentée n’est pas incluse et est disponible séparément sous la référence EGLO 110075
 - Le côté intérieur blanc de l’abat-jour offre un contraste saisissant à la couleur noir mat de ce plafonnier suspendu
+- L‘ampoule à filament représentée n’est pas incluse et est disponible séparément sous la référence EGLO 110075
+- Convient à toute ampoule équipée dun culot E27 pour une puissance maximale par douille de 60 watts ; Puissance réglable en fonction de lampoule utilisée
 - Grâce à son design simple, ce luminaire intérieur est un véritable accroche-regard et met en valeur n’importe quelle pièce – que ce soit le salon, la cuisine ou la salle à manger en-dessus de la table à manger
+- Dimensions : hauteur : max 110 cm, diamètre : 32,5 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B011KP4YNC{{</world>}}

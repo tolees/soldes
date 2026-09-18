@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - R50A
 - Pentel roller encre Ball Pentel R50, noir - Recycology</li><li>largeur du tracé: 0,4 mm, diamètre de la bille: 0,8 mm</li><li>pointe en plastique avec ressort, capuchon avec agrafe, cou-</li><li>leur du corps: vert, Recycology: 76% de matières recyclées</li><li>(R50-A)
-- Roller pointe plastique
 - Vendu à lunité
+- Roller pointe plastique
 - Pentel - R50/A-N
 
 [🛒 Achète-le!!]({{< param buyurl >}})

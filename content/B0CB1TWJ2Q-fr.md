@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus en maille géo avec lacets extensibles
-- Skechers Semelle intérieure confortable en mousse à mémoire de forme
 - Semelle intermédiaire légère et flexible absorbant les chocs
+- Skechers Semelle intérieure confortable en mousse à mémoire de forme
 - Skechers Logo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie à lair
 - Hydrofuge
+- Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie à lair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F849HW3H{{</world>}}

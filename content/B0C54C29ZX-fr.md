@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets
 - Entièrement doublé
+- Lacets
 - Emballage: Boîte
 
 [🛒 Achète-le!!]({{< param buyurl >}})

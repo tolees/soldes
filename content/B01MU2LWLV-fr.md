@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 12 niveaux de température de 60 °C à 600 °C
-- Pour une durée de vie plus longue des éléments chauffants, un mode de refroidissement est prévu en plus des deux niveaux de soufflerie
 - Le meilleur - le FURNO 500 pense avec vous : grce à la fonction mémoire, les derniers réglages peuvent être enregistrés et ainsi réaffichés
+- Pour une durée de vie plus longue des éléments chauffants, un mode de refroidissement est prévu en plus des deux niveaux de soufflerie
 - Le modèle polyvalent pour les utilisateurs avancés : le FURNO 500 est un pistolet à air chaud électronique professionnel avec écran graphique LED
 - Caractéristiques du produit : Affichage graphique LEDAccesoires inclus: buse jet concentré et buse de protection
 

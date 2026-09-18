@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : argenté
 - Type de fermoir : mousqueton
 - Finition : poli-brillant
 - Matériau : argent 925
+- Couleur : argenté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D8PNF4XT{{</world>}}

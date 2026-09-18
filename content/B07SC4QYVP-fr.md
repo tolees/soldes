@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu de protection HELLY TECH
-- YKK Vislon
 - Protection Helly Tech
+- YKK Vislon
+- Tissu de protection HELLY TECH
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07SC4QYVP{{</world>}}

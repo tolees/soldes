@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Physiologique, doux et confortable
-- Taille et largeur de l’assise entièrement réglables
 - Lavable en machine à 40°C
+- Taille et largeur de l’assise entièrement réglables
 - Portage de 0 à 3 ans
+- Physiologique, doux et confortable
 - Fonctionnalités améliorées et nouveau design
 
 [🛒 Achète-le!!]({{< param buyurl >}})

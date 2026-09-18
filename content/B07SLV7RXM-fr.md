@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une couche épaisse de mousse sans utiliser un tuyau !
 - 1,5 Litres
+- Une couche épaisse de mousse sans utiliser un tuyau !
 - Livré avec 3 valves pour la mousse sèche, moyenne et humide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

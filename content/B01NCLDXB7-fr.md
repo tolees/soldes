@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau de semelle : Caoutchouc
 - Doublure : Synthetic
 - Largeur de la chaussure : Moyen
-- Dessus : smooth_leather
 - Foulée : Neutre
-- Matériau de semelle : Caoutchouc
+- Dessus : smooth_leather
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01NCLDXB7{{</world>}}

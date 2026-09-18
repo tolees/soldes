@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en cuir pour un confort optimal
-- Semelle extérieure en caoutchouc pour plus de traction et de durabilité
 - Coupe basse pour une silhouette élégante et sophistiquée
 - Dessus en cuir et textile
+- Semelle extérieure en caoutchouc pour plus de traction et de durabilité
+- Dessus en cuir pour un confort optimal
 - La semelle intermédiaire en EVA est légère et confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

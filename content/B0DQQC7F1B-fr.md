@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contrôle TONE avant le contrôle GAIN
-- Piles AAA incluses
 - Contrôles : niveau, tone, drive
+- Piles AAA incluses
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQQC7F1B{{</world>}}

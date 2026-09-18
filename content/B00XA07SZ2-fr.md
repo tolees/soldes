@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À base deau nest pas gras et ne tache pas
 - pas darôme mais a un goût sucré agréable
+- À base deau nest pas gras et ne tache pas
 - massage sensuel et lubrifiant intime à lextrait dAloe Vera
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

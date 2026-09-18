@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Écran immersif 6,72’’ FHD+ 120Hz pour une fluidité et une expérience visuelle exceptionnelle
 - Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
-- Batterie longue durée avec charge rapide : restez connecté toute la journée sans attendre
-- Double capteur photo 50MP pour des clichés nets et détaillés en toute situation
 - Design résistant et étanche : conçu pour durer, même dans des conditions extrêmes
+- Écran immersif 6,72’’ FHD+ 120Hz pour une fluidité et une expérience visuelle exceptionnelle
+- Double capteur photo 50MP pour des clichés nets et détaillés en toute situation
+- Batterie longue durée avec charge rapide : restez connecté toute la journée sans attendre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F9L6GVH2{{</world>}}

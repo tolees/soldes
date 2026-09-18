@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc pleine longueur
 - Talon et œillet moulés
+- Caoutchouc pleine longueur
 - Bout arrondi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

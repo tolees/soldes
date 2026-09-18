@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quantité de colis darticles : 1
-- Dimensions de lemballage de larticle ( L x L x H) en cm : 2 x 7.6 x 12
 - Pochettes souples classiques de format japonais Ultimate Guard (Transparent)
+- Dimensions de lemballage de larticle ( L x L x H) en cm : 2 x 7.6 x 12
 - Matériau : Plastique
+- Quantité de colis darticles : 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00FAQCE08{{</world>}}

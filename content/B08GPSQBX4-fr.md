@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériau intérieur : synthétique
 - Lacets
-- Semelle : caoutchouc
 - Matériau extérieur : toile
+- Semelle : caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08GPSQBX4{{</world>}}

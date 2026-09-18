@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COMPOSITION : conforme à lespèce, à la nature et à la ruche
-- REGIONAL : composé dingrédients provenant de fermes régionales
 - CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 - MjAMjAM : aliment complet sans céréales et naturel pour chats avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels
+- REGIONAL : composé dingrédients provenant de fermes régionales
+- COMPOSITION : conforme à lespèce, à la nature et à la ruche
 - TAILLE : emballage de 125g pour de petites portions ou pour goûter
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

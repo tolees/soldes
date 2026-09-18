@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contrôle total pour un fini impeccable.
-- Fournit une protection contre lhumidité, les UV et la chaleur.
 - Tenue Niveau 4.
+- Fournit une protection contre lhumidité, les UV et la chaleur.
 - fixation extra forte
 - spray de finition cheveux
 

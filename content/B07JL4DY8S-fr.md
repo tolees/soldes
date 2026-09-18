@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Restez à laise sur vos chaussures Davis Square avec un amorti qui se comprime à moins de 5 % et possède une finition anti-odeur brevetée à base de sel pour lutter contre les champignons, les bactéries et les odeurs qui gère également lhumidité pour un environnement de chaussure plus frais et plus sec.
 - La semelle en caoutchouc offre une excellente traction sur diverses surfaces, améliore la durabilité et offre une adhérence et une stabilité supérieures, ce qui les rend idéales pour les terrains accidentés et pour un usage quotidien.
+- Restez à laise sur vos chaussures Davis Square avec un amorti qui se comprime à moins de 5 % et possède une finition anti-odeur brevetée à base de sel pour lutter contre les champignons, les bactéries et les odeurs qui gère également lhumidité pour un environnement de chaussure plus frais et plus sec.
 - Notre formule spéciale repousse les taches à base deau, gardant vos chaussures Davis Square neuves plus longtemps; fonctionne sur le daim, le cuir, la toile et le tissu. Ne contient pas de PFC (perfluorocarbures).
 - Fabriqué avec du cuir Timberland : nos cuirs sont rigoureusement testés pour répondre à des normes élevées de durabilité et de qualité, développant un look unique et distingué au fil du temps.
 - La doublure de ces chaussures est composée dau moins 40 % de bouteilles en plastique PET recyclées, qui sont collectées, déchiquetées et transformées en un matériau respirant et durable.

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Knipex Tenaille russe (Pinces bétonneur ou pinces réparateur) noire atramentisée 280 mm 99 00 280 EAN
-- Tranchants trempés, dureté denv. 61 HRC
 - Pour torsader et couper des fils à ligaturer en bobine en une seule opération: rapide, fiable et économique
+- Tranchants trempés, dureté denv. 61 HRC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0002YYM5S{{</world>}}

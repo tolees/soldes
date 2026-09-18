@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige : daim et nubuck
 - Matériau de la semelle : cuir synthétique
+- Tige : daim et nubuck
 - Doublure : tissu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

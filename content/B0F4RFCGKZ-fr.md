@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- aromaSelect : Trois profils darômes différents à choisir en fonction de vos goûts personnels.
 - Cold Brew : pour une expérience gustative rafraîchissante et inégalée
 - coffeeWorld : explorez la large variété de spécialités de café internationales, dun seul coup dœil
-- aromaSelect : Trois profils darômes différents à choisir en fonction de vos goûts personnels.
 - Favoris : Sauvegardez facilement jusquà 10 créations personnelles.
 - iSelect Display : écran tactile de 5" se manipulant tel un smartphone, pour une utilisation intuitive
 

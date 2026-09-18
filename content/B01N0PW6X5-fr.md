@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imperméable, coupe-vent et respirant
 - Construction double couche
-- Extérieur : 100 % polyester Intérieur : 100 % polyuréthane
+- Col confortable avec doublure polaire Polartec
 - Poches poitrine zippées
 - Doublure en maille pour le confort
-- Col confortable avec doublure polaire Polartec
+- Imperméable, coupe-vent et respirant
+- Extérieur : 100 % polyester Intérieur : 100 % polyuréthane
 - Longueur hanches
 
 [🛒 Achète-le!!]({{< param buyurl >}})

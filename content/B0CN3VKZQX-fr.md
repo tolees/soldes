@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Omni-Tech imperméable et respirante pour le confort et le maintien au sec, Isolation thermique Omni-Heat pour une chaleur en toutes saisons
 - Rangement des objets de valeur grâce aux poches zippées mains et à la poche intérieure de sécurité, Veste modulable en 3 combinaisons différentes
+- Technologie Omni-Tech imperméable et respirante pour le confort et le maintien au sec, Isolation thermique Omni-Heat pour une chaleur en toutes saisons
 - Bonne amplitude de mouvement et de réactivité grâce à la capuche tempête amovible, aux poignets réglables aux manches et à lourlet réglable par cordon de serrage
 - Veste imperméable polyvalente 3 en 1 avec revêtement extérieur durable, Doublure intérieure détachable pouvant servir de veste légère, Coupe Active
 - Contents: 1x Columbia Element Blocker III Interchange, Veste de Pluie pour Homme, Colour: Noir (Black), Size: XXL, Article: 2090122

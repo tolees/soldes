@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Score numérique: affichage du score le plus élevé sur lécran LCD
-- Conçu et développé en Europe - Fabriqué en Chine.
-- 4 flippers (leviers) et 5 bumpers (obstacles)
 - 1 balle à lintérieur
-- Bouton de réinitialisation et possibilité de couper la musique
-- 2 supports pour avoir langle parfait pour jouer.
+- Score numérique: affichage du score le plus élevé sur lécran LCD
 - Garantie : 2 ans.
 - Musique, effets sonores et lumineux comme dans un vrai jeu de flipper
+- 4 flippers (leviers) et 5 bumpers (obstacles)
+- 2 supports pour avoir langle parfait pour jouer.
 - Un flipper de table électronique avec un superbe design Spider-Man! Jouez seul ou défiez vos amis!
 - Alimentation : 3 piles LR14 / C de 1,5V (non incluses)
+- Bouton de réinitialisation et possibilité de couper la musique
+- Conçu et développé en Europe - Fabriqué en Chine.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B087V7YJ1J{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- OBSERVEZ LES OBJETS CÉLESTES : dispose d’une ouverture de 76 mm pour des vues claires et détaillées des objets célestes
-- LE TÉLESCOPE D’ENTRÉE DE GAMME BIEN AIMÉ DE CELESTRON SE PARE D’UN NOUVEAU LOOK ! Télescope Signature Series FirstScope avec image de la Lune par le maître de l’imagerie lunaire et membre de l’équipe Celestron, Robert Reeves
+- EN PRIME ! Logiciel dastronomie pour une meilleure expérience d’observation des étoiles
 - MONTURE DE STYLE DOBSON : pointage et suivi faciles et intuitifs
 - COMPACT ET PORTATIF : télescope de table conçu pour les débutants et les passionnés dastronomie
-- EN PRIME ! Logiciel dastronomie pour une meilleure expérience d’observation des étoiles
+- LE TÉLESCOPE D’ENTRÉE DE GAMME BIEN AIMÉ DE CELESTRON SE PARE D’UN NOUVEAU LOOK ! Télescope Signature Series FirstScope avec image de la Lune par le maître de l’imagerie lunaire et membre de l’équipe Celestron, Robert Reeves
+- OBSERVEZ LES OBJETS CÉLESTES : dispose d’une ouverture de 76 mm pour des vues claires et détaillées des objets célestes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07DJPD2VH{{</world>}}

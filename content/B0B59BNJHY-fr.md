@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lampe de chantier LED avec mât extensible et 2 pieds rétractables réglables jusquà 140cm en hauteur, projecteur inclinable et pivotant pour un éclairage parfait de la surface (hauteur max. 183cm)
 - Phare de chantier LED Multi Battery avec capot de protection amovible et 4 adaptateurs pour les standards de batterie (adaptateur en commun pour Milwaukee/Dewalt) pour outillage électrique Powertool
-- Projecteur LED compatible avec les fabricants de batterie Powertool 18V, diverses capacités en Ah : Bosch Professional, Dewalt, Fein, Festool, Flex, Hikoki, Makita, Metabo CAS, Milwaukee
-- Brennnenstuhl est membre de l’AMPShare powered by Bosch Professional: l’alliance batteries AMPShare permet d’utiliser des projecteurs de chantier Brennenstuhl avec des batteries 18V Bosch Professional
 - Spot de chantier avec trépied télescopique intégré, entièrement repliable - montage rapide, en un tour de main - éclairage LED polyvalent, utilisable dans de nombreux domaines (chantier, hall)
+- Lampe de chantier LED avec mât extensible et 2 pieds rétractables réglables jusquà 140cm en hauteur, projecteur inclinable et pivotant pour un éclairage parfait de la surface (hauteur max. 183cm)
+- Brennnenstuhl est membre de l’AMPShare powered by Bosch Professional: l’alliance batteries AMPShare permet d’utiliser des projecteurs de chantier Brennenstuhl avec des batteries 18V Bosch Professional
+- Projecteur LED compatible avec les fabricants de batterie Powertool 18V, diverses capacités en Ah : Bosch Professional, Dewalt, Fein, Festool, Flex, Hikoki, Makita, Metabo CAS, Milwaukee
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B59BNJHY{{</world>}}

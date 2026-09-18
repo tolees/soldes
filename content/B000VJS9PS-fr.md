@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fond de teint fluide Vichy Dermablend. Haute Couvrance et action anti-imperfection. Teint lumineux et unifié. Convient aux peaux sensibles.
 - Appliquer une noisette de fond de teint et estomper sur le visage. Appliquer localement sur les imperfections.
+- Fond de teint fluide Vichy Dermablend. Haute Couvrance et action anti-imperfection. Teint lumineux et unifié. Convient aux peaux sensibles.
 - Effet mat. Tenue longue durée 16H. Peau hydratée pendant 24h.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

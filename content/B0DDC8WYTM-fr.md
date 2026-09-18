@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 13 commandes personnalisables - Configurations illimitées : Assignez une combinaison infinie de commandes et de macros sur 13 commandes faciles daccès, y compris la fameuse gâchette multifonction, pour exécuter des actions essentielles telles que push-to-talk, ping et bien plus encore.
-- Éclairage Chroma à 11 zones avec sous-brillance complète - Propulsé par Razer Chroma RGB : personnalisez chaque zone à partir de plus de 16,8 millions de couleurs et dinnombrables effets de lumière, et vivez une plus grande immersion en réagissant dynamiquement avec plus de 200 jeux intégrés à Chroma.
-- Commutateurs de souris optiques Razer Gen-3 - Durabilité et rapidité inégalées : Avec un cycle de vie amélioré de 90 millions de clics, sans problème de double-clic, et un déclenchement rapide de 0,2 ms sans délai dattente, profitez dune fiabilité et dune rapidité inégalées.
-- Capteur optique Razer Focus Pro 35K Gen-2 - Une précision inégalée : Bénéficiez des meilleures performances de suivi sur une plus grande variété de surfaces, y compris le verre, grâce à des fonctions intelligentes et à des ajustements par paliers de 1 DPI pour une visée et un contrôle plus granulaires.
-- Câble Razer Speedflex - Traînée minimale pour des mouvements plus fluides : Tissé pour une plus grande flexibilité et conçu pour produire une traînée minimale, vous serez en mesure deffectuer des mouvements plus rapides et plus fluides pour un contrôle plus serré de la souris.
 - Molette configurable Razer HyperScroll Tilt Wheel - Molette de défilement à 4 voies avec 3 modes uniques : Choisissez entre le défilement tactile et le défilement fluide, ou passez automatiquement de lun à lautre en fonction de votre vitesse de défilement en mode Smart-Reel - maintenant configurable sur Synapse
 - Optimiser la précision de la souris - Améliorez la précision en désactivant l’option « Améliorer la précision du pointeur » dans les paramètres de souris de Windows, et optimisez encore les performances avec l’application Razer Synapse.
+- 13 commandes personnalisables - Configurations illimitées : Assignez une combinaison infinie de commandes et de macros sur 13 commandes faciles daccès, y compris la fameuse gâchette multifonction, pour exécuter des actions essentielles telles que push-to-talk, ping et bien plus encore.
+- Câble Razer Speedflex - Traînée minimale pour des mouvements plus fluides : Tissé pour une plus grande flexibilité et conçu pour produire une traînée minimale, vous serez en mesure deffectuer des mouvements plus rapides et plus fluides pour un contrôle plus serré de la souris.
+- Commutateurs de souris optiques Razer Gen-3 - Durabilité et rapidité inégalées : Avec un cycle de vie amélioré de 90 millions de clics, sans problème de double-clic, et un déclenchement rapide de 0,2 ms sans délai dattente, profitez dune fiabilité et dune rapidité inégalées.
+- Éclairage Chroma à 11 zones avec sous-brillance complète - Propulsé par Razer Chroma RGB : personnalisez chaque zone à partir de plus de 16,8 millions de couleurs et dinnombrables effets de lumière, et vivez une plus grande immersion en réagissant dynamiquement avec plus de 200 jeux intégrés à Chroma.
+- Capteur optique Razer Focus Pro 35K Gen-2 - Une précision inégalée : Bénéficiez des meilleures performances de suivi sur une plus grande variété de surfaces, y compris le verre, grâce à des fonctions intelligentes et à des ajustements par paliers de 1 DPI pour une visée et un contrôle plus granulaires.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DDC8WYTM{{</world>}}

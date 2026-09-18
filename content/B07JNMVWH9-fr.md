@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contient 1 plateau principal 3 plateaux annexes 210 cartes 30 cartes « missions » 60 jetons « coupe des quatre maisons » 36 jetons « objets » 20 jetons « poudre de Chemisette » 10 jetons « portoloin » 15 ﬁches personnage et 15 pions
+- Passez vos examens dans les salles de cours et réalisez vos missions où vous revivrez toutes les aventures d’harry Potter et de ses amis
 - Pour remporter la partie vous devez gagner le plus de points de la coupe des 4 maisons face aux élèves de gryffondor poufsouffle serdaigle et serpentard en accomplissant vos missions dans Poudlard et ses environ
 - Vous venez de recevoir votre lettre d’acceptation pour entrer dans la plus grande école de sorcellerie au monde « Poudlard » dirigée par le plus grand sorcier de tous les temps albums Dumbledore
-- Passez vos examens dans les salles de cours et réalisez vos missions où vous revivrez toutes les aventures d’harry Potter et de ses amis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07JNMVWH9{{</world>}}

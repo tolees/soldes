@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en Richter et Country Tuning
-- Idéal pour le folk et la campagne pour rock et pop
-- La polyvalence le rend parfait pour les professionnels et les débutants
 - Un son unique et doux
+- La polyvalence le rend parfait pour les professionnels et les débutants
+- Idéal pour le folk et la campagne pour rock et pop
 - 1er harmonica diatonique avec plaques de roseaux encastrées dans le peigne
+- Disponible en Richter et Country Tuning
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DXLFQ5YW{{</world>}}

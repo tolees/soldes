@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière externe : Cuir
 - Matière interne : Cuir
 - Semelle externe : Caoutchouc
+- Matière externe : Cuir
 - Semelle interne : Cuir
 - Type de fermeture : Scratch
 

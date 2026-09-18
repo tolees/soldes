@@ -31,11 +31,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - produit 2: Catalog#: 06025 1724732
 - produit 2: Record Label: Polar
 - produit 1: Country Of Release: NLD
-- produit 1: Year Of Release: 2011
-- produit 2: Country Of Release: NLD
 - produit 2: Year Of Release: 2008
-- produit 1: Record Label: Island
+- produit 2: Country Of Release: NLD
 - produit 1: Catalog#: 06025 2772417
+- produit 1: Year Of Release: 2011
+- produit 1: Record Label: Island
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09RGZ146S{{</world>}}

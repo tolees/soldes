@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : caoutchouc
-- Fermeture : lacets
 - Matériau intérieur : synthétique
+- Semelle : caoutchouc
 - Matériau extérieur : cuir
+- Fermeture : lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07NZCS5TM{{</world>}}

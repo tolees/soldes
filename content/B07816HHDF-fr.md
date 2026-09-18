@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- T-shirt de protection solaire
-- Matière extensible procure une plus grande liberté de mouvement
-- Tissus respirant et elastique pour une meilleure régulation thermique
 - Protection UV 97.5% protège la peau des rayons nocifs du soleil et du vent
+- Matière extensible procure une plus grande liberté de mouvement
+- T-shirt de protection solaire
+- Tissus respirant et elastique pour une meilleure régulation thermique
 - Coutures plates pour un plus grand confort et éviter les frottements
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

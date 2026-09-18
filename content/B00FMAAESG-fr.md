@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fluide De Transmission Automatique, Huile De Transmission Automatique, Huile De Boîte De Vitesse Automatique, Huile De Boîte Automatique, Huile Pour Boîte De Vitesse Automatique, Huile ATF: compatible avec VOLVO FL 6, compatible avec VOLVO FM 12, compatible avec VOLVO FM 7, compatible avec VOLVO FH 12, compatible avec SCANIA 3 - series, compatible avec SCANIA P,G,R,T - series, compatible avec DAF CF, compatible avec DAF LF
 - MANNOL Huile pour boîte automatique
+- Fluide De Transmission Automatique, Huile De Transmission Automatique, Huile De Boîte De Vitesse Automatique, Huile De Boîte Automatique, Huile Pour Boîte De Vitesse Automatique, Huile ATF: compatible avec VOLVO FL 6, compatible avec VOLVO FM 12, compatible avec VOLVO FM 7, compatible avec VOLVO FH 12, compatible avec SCANIA 3 - series, compatible avec SCANIA P,G,R,T - series, compatible avec DAF CF, compatible avec DAF LF
 - Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Stanley cric 2 tonnes hauteur mini 85mm, hauteur maxi 381mm - STMT81251-1
-- Ergonomie : Une poignée de transport est disponible pour faciliter le transport du cric
-- Pratique : Avec une hauteur mini de 85mm, vous accédez à tout type de véhicules
 - Durabilité : Le cric résiste très bien à la rouille
+- Pratique : Avec une hauteur mini de 85mm, vous accédez à tout type de véhicules
+- Stanley cric 2 tonnes hauteur mini 85mm, hauteur maxi 381mm - STMT81251-1
 - Léger : le cric est léger, se positionne rapidement et il est très maniable
+- Ergonomie : Une poignée de transport est disponible pour faciliter le transport du cric
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07CKZXB35{{</world>}}

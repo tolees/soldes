@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure : 100 % EVA
 - Better Leather
-- Matériau extérieur : 100 % cuir de vachette
 - Doublure : 46 % cuir de porc 32 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 22 % polyester recyclé
+- Semelle extérieure : 100 % EVA
+- Matériau extérieur : 100 % cuir de vachette
 - Couleur : vert foncé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

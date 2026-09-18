@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellent rapport qualité
 - Entièrement compatible avec les autres marques
+- Excellent rapport qualité
 - Tout ce qui apparaît sur limage du produit est inclus dans le jeu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

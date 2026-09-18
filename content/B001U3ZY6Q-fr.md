@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b>Description du produit</b>: Tiffen - 52BPM14
 - <b>Garantie du fabricant</b>: 2 ans
-- <b>Type de produit</b>: Filtre Black Pro-Mist 1/4
+- <b>Description du produit</b>: Tiffen - 52BPM14
 - <b>Diamètre</B>: 52 mm
+- <b>Type de produit</b>: Filtre Black Pro-Mist 1/4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001U3ZY6Q{{</world>}}

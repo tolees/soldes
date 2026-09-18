@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige textile avec bout renforcé.
-- Semelle intermédiaire en EVA.
 - RAIN.RDY.
+- Semelle intermédiaire en EVA.
 - Fermeture à lacets.
+- Tige textile avec bout renforcé.
 - Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyamide
-- 0.28kg Poids x 5L Volume
 - Sac épaule Moyen Bandoulière
 - 26 Hauteur x 33 Largeur x 4.5 Profondeur cm
 - Hydrofuge
+- 100% Polyamide
+- 0.28kg Poids x 5L Volume
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077V4TPB7{{</world>}}

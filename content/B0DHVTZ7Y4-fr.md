@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure en caoutchouc Continental.
 - Languette à goussets.
 - Chaussant standard.
+- Semelle intermédiaire en EVA.
 - Membrane GORE-TEX.
 - Drop semelle intermédiaire : 10 mm (talon : 29 mm / avant-pied : 19 mm).
-- Semelle extérieure en caoutchouc Continental.
+- Poids : 393,5 g (pointure 42 2/3).
 - Système de laçage rapide.
 - Tige textile et synthétique avec empiècements résistant à labrasion.
-- Semelle intermédiaire en EVA.
-- Poids : 393,5 g (pointure 42 2/3).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVTZ7Y4{{</world>}}

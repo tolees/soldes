@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 66 x 53 cm
 - Montage facile
+- Dimensions : 66 x 53 cm
 - Utilisation pratique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

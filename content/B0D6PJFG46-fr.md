@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit végétalien
+- Mousse à mémoire de forme refroidie à lair
 - Coussin de talon
 - Glide-Step
-- Mousse à mémoire de forme refroidie à lair
-- Produit végétalien
 - Slip-Ins
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

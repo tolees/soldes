@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Délais de livraison : 48h à 72H
 - Type de fermeture : Lacet
-- Matière(s) : - Type de baskets : Montantes
 - Noir
 - Réf : M3310_38
+- Matière(s) : - Type de baskets : Montantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B002VSH69M{{</world>}}

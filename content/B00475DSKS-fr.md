@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 clapets anti-odeurs inclus. Conforme à la norme DIN EN 274/19545.
 - Avec deux raccords siphons 1 (2,54 cm) pour les lave-linges et lave-vaisselles.
-- Contenu : 1x Siphon 1 1/2" flexible, 2x Raccords siphons et 2x Clapets anti-odeurs.
-- Convient pour les raccords muraux de 40 mm ; 50 mm.
+- 2 clapets anti-odeurs inclus. Conforme à la norme DIN EN 274/19545.
 - Siphon avec tuyau flexible (34 cm) en plastique.
+- Convient pour les raccords muraux de 40 mm ; 50 mm.
+- Contenu : 1x Siphon 1 1/2" flexible, 2x Raccords siphons et 2x Clapets anti-odeurs.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00475DSKS{{</world>}}

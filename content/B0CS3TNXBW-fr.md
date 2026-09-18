@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boîtier Airflow avec une ventilation abondante et un guide dair qui dirige lair vers les composants
 - Expression de design aérodynamique avec une face avant en maille élégante inspirée des parois rocheuses
 - Compatible avec un radiateur supérieur de 280 mm et un radiateur avant de 360 mm
-- Boîtier Airflow avec une ventilation abondante et un guide dair qui dirige lair vers les composants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CS3TNXBW{{</world>}}

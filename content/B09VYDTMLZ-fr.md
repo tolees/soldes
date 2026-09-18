@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester
 - Fermeture éclair
+- 100% Polyester
 - Lavage en machine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

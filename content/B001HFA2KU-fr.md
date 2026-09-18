@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La taille est sans fermeture
 - Bijou Femme en Argent 925/1000
+- La taille est sans fermeture
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001HFA2KU{{</world>}}

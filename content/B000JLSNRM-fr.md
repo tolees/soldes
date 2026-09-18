@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grandes surfaces de serrage parallèles
 - Léger et maniable
 - Puissance de serrage jusquà 1500 N
+- Grandes surfaces de serrage parallèles
 - Pour tous types de serrages
 - Utilisation universelle
 

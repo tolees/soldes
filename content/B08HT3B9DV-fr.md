@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage instantané, dès lallumage
 - Meilleur pour votre portefeuille et pour la planète
-- Retrouvez la lumière blanche et chaude des ampoules à incandescence
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 - Ampoule LED longue durée de vie
+- Éclairage instantané, dès lallumage
+- Retrouvez la lumière blanche et chaude des ampoules à incandescence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08HT3B9DV{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : 44 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 34 % cuir de porc 22 % polyester recyclé
 - Better Leather,Better Linings
-- Couleur : marron foncé
 - Semelle extérieure : 100 % EVA
+- Doublure : 44 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 34 % cuir de porc 22 % polyester recyclé
+- Couleur : marron foncé
 - Matériau extérieur : 100 % cuir de vachette
 
 [🛒 Achète-le!!]({{< param buyurl >}})

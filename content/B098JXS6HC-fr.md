@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Mandrin automatique Autolock pour des changements de forets rapides et pratiques
 - Perçage sans effort jusqu’à 13 mm dans la maçonnerie et jusqu’à 25 mm dans le bois
-- Fonction Electronic Speed Control Bosch permettant d’adapter automatiquement la vitesse via la gâchette lors des perçages
 - Lieferumfang: Poignée supplémentaire;Butée de profondeur;Coffret de transport
 - Légère (1,7 kg), compacte et ergonomique pour un maniement facile
+- Fonction Electronic Speed Control Bosch permettant d’adapter automatiquement la vitesse via la gâchette lors des perçages
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B098JXS6HC{{</world>}}

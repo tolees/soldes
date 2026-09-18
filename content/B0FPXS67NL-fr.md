@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LA GALAXIE VOUS RÉPOND – Une fois connectée à lun des 3 SMART Tags, la SMART Brique LEGO (non incluse) active les fonctionnalités interactives de musique, chants, bruits de mixeur de boissons, ainsi que pas et ronflements de Dewback
-- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 8 ans, un.e ado ou un.e adulte collectionneur.se
 - JEU SANS ÉCRAN – Partagez un moment en famille ou entre ami.e.s pour recréer des scènes épiques : jouez le moment où Obi-Wan Kenobi arrive à la cantina pendant que le groupe joue sur scène et que lon sert à boire au bar
 - JEU DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut une maquette de la Cantina de Mos Eisley avec 2 SMART Tags, 1 scène, des fauteuils avec sièges éjectables, 1 bar, 1 Dewback avec 1 SMART Tag et 2 SMART Minifigurines
 - INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets
 - 2 SMART MINIFIGURINES LEGO STAR WARS – Donnez vie aux SMART Minifigurines dObi-Wan Kenobi et de Greedo grâce à une SMART Brique (non incluse) pour un jeu dynamique, en dévoilant leurs voix uniques et leurs réactions
+- LA GALAXIE VOUS RÉPOND – Une fois connectée à lun des 3 SMART Tags, la SMART Brique LEGO (non incluse) active les fonctionnalités interactives de musique, chants, bruits de mixeur de boissons, ainsi que pas et ronflements de Dewback
 - COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique dun set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément)
+- CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau danniversaire extraordinaire pour un garçon, une fille dès 8 ans, un.e ado ou un.e adulte collectionneur.se
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPXS67NL{{</world>}}

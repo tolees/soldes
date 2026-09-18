@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant jusquà 450kg
 - Pieds réglables
+- Résistant jusquà 450kg
 - Compatible 513 / 530 & 560 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

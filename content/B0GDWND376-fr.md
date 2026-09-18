@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le jerrican est pourvu dune anse solide
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Jerrican très solide et robuste avec robinet
 - Équipé dun bouchon de ventilation
+- Jerrican très solide et robuste avec robinet
+- Les informations ci-dessous sappliquent à chaque unité du pack
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GDWND376{{</world>}}

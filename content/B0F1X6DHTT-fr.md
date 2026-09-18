@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
-- Chaussant standard
 - Tige en matière synthétique
 - Semelle de propreté en textile
+- Chaussant standard
+- Semelle extérieure en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1X6DHTT{{</world>}}

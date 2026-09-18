@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capuchon compressible dans le col
+- Double rabat avant en tissu principal
 - Capuchon ajustable avec cordon de serrage élastique
 - Poche Napoléon avec fermeture éclair YKK et trou pour écouteurs
-- Double rabat avant en tissu principal
+- Capuchon compressible dans le col
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07V5JSRL1{{</world>}}

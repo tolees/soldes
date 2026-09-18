@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cuir nubuck lisse produit par ECCO qui offre une allure élégante et décontractée
 - La doublure en cuir et textile offre un confort à l’intérieur, tandis que la semelle intérieure vêtue de cuir assure un aspect et un toucher élégant
-- Une Derby dotée d’éléments classiques et habillés comme la trépointe en cuir, mais qui conserve une allure et une fonctionnalité modernes
 - La semelle légère offre amorti et flexibilité grâce à la construction ECCO FLUIDFORM
 - La semelle intérieure amovible assure un confort optimal et offre plus de largeur lorsqu’elle est retirée
+- Une Derby dotée d’éléments classiques et habillés comme la trépointe en cuir, mais qui conserve une allure et une fonctionnalité modernes
 - La semelle intermédiaire souple ECCO PHORENE offre un excellent retour d’énergie, tandis que notre point SHOCK THRU innovant procure une absorption des chocs à chaque pas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Thermo Stretch Comfort : Un sommeil confortable et un réchauffement rapide grâce à une couverture intérieure et extérieure bien ajustée qui peut être étirée de 25 % en largeur.
 - Poche intérieure avec fermeture velcro
 - Isolation parfaite grâce à la construction élaborée des tuiles avec un recouvrement 1,3 fois supérieur.
+- Thermo Stretch Comfort : Un sommeil confortable et un réchauffement rapide grâce à une couverture intérieure et extérieure bien ajustée qui peut être étirée de 25 % en largeur.
 - Hauteur maximale de lutilisateur ~200 cm
 - Sac de compression
 

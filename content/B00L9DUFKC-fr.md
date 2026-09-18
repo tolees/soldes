@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dessus en toile 170 g
 - Logo imprimé HD
-- Semelle extérieure en caoutchouc collante résistante à labrasion
 - Construction vulcanisée
+- Semelle extérieure en caoutchouc collante résistante à labrasion
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00L9DUFKC{{</world>}}

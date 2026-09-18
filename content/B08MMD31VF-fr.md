@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RESCUE NUIT KIDS participe à des douces nuits sans soucis pour un réveil la tête pleine de beaux rêves
-- Comment le prendre? 4 gouttes directement sur la langue ou dans un verre deau à renouveler si nécessaire
-- Avoir sans cesse le mental en activité, est indéniablement lune des causes qui empêche un endormissement serein : pensez à RESCUE NUIT KIDS
 - RESCUE NUIT KIDS est un mélange de 5 Fleurs de Bach Original + la Fleur White Chestnut qui s’adresse à ceux qui ont besoin de sérénité au niveau des pensées
 - Complément alimentaire, sans accoutumance ni effets indésirables. Sans alcool
+- Avoir sans cesse le mental en activité, est indéniablement lune des causes qui empêche un endormissement serein : pensez à RESCUE NUIT KIDS
+- RESCUE NUIT KIDS participe à des douces nuits sans soucis pour un réveil la tête pleine de beaux rêves
+- Comment le prendre? 4 gouttes directement sur la langue ou dans un verre deau à renouveler si nécessaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08MMD31VF{{</world>}}

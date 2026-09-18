@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- protection cousue des orteils et du talon
 - Crochets métalliques pour faciliter le laçage
 - TEXAPORE CORE - protection fiable contre les intempéries, imperméable et respirant
-- protection cousue des orteils et du talon
 - Semelle intermédiaire amortissante en EVA
 - Tige robuste en cuir velours
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le coussin réducteur pour nouveau-né réversible s’utilise des deux côtés et peut de retirer du siège pour tenir compagnie à bébé
-- 2 positions d’inclinaison
 - Vibrations apaisantes, 7 mélodies, commande du volume et arrêt automatique
 - Appuie-tête et coussin réducteur pour nouveau-né en forme d’adorable lapin
+- 2 positions d’inclinaison
+- Le coussin réducteur pour nouveau-né réversible s’utilise des deux côtés et peut de retirer du siège pour tenir compagnie à bébé
 - Jeu de lumière scintillante sur la barre d’activités à baldaquin
 
 [🛒 Achète-le!!]({{< param buyurl >}})

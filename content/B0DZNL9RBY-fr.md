@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Aileron de radiateur : oui
 - Les produits internationaux ont des conditions distinctes, sont vendus depuis létranger et peuvent différer des produits locaux, notamment en ce qui concerne lajustement, la classification par âge et la langue du produit, létiquetage ou les instructions.
 - Type de modèle : résine
-- Aileron de radiateur : oui
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZNL9RBY{{</world>}}

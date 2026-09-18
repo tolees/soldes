@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Tissu résistant
 - Matériau supérieur
-- Department: Mixte
 - Matériel: Polyester
+- Department: Mixte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094DYRFTN{{</world>}}

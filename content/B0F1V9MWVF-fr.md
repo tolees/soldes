@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Anniversary Edition
 - Photo(s)
+- Anniversary Edition
 - Embossed Packaging
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE INNOVANTE : Enrichi en polymères extensibles, peptides, biotine et extraits naturels de plantes, ce mascara élaboré avec la technologie exclusive Elastic Stretch fortifie et prolonge les cils pour un regard audacieux.
+- DES RESULTATS SPECTACULAIRES : Ce mascara volumisant allonge, sépare et soulève vos cils afin de leur donner lapparence que vous souhaitez. 96 % des utilisatrices ont remarqué des cils plus longs, plus volumineux et plus pulpeux*.
 - DES SOINS INNOVANTS POUR REVELER VOTRE BEAUTE NATURELLE : IT Cosmetics collabore avec des chirurgiens plasticiens pour créer des soins efficaces, aux formules douces, qui réinventent les standards de la beauté et subliment toutes les peaux.
 - POUR DES CILS SUBLIMES : Le mascara noir Superhero Super Black allonge et volumise les cils en un clin dœil. Facile à appliquer grâce à une brosse au pouvoir métamorphosant, il transforme votre regard de façon spectaculaire.
 - TRANSFORMEZ VOTRE REGARD : Appliquez de la racine à la pointe, avec la brosse au pouvoir métamorphosant, en réalisant des zigzags. Vous voulez plus de volume ? Appliquez simplement plus de couches !
-- DES RESULTATS SPECTACULAIRES : Ce mascara volumisant allonge, sépare et soulève vos cils afin de leur donner lapparence que vous souhaitez. 96 % des utilisatrices ont remarqué des cils plus longs, plus volumineux et plus pulpeux*.
+- FORMULE INNOVANTE : Enrichi en polymères extensibles, peptides, biotine et extraits naturels de plantes, ce mascara élaboré avec la technologie exclusive Elastic Stretch fortifie et prolonge les cils pour un regard audacieux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01AKTZFZU{{</world>}}

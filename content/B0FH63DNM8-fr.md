@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - LA TAILLE PARFAITE : Les mini-votos remplis de Yankee Candle sont la taille parfaite pour échantillonner et trouver votre nouvelle fragrance préférée.
-- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
 - EMBALLAGES RECYCLABLES : Aidez Yankee Candle à donner une seconde vie à cet emballage en le recyclant correctement, et continuez à répandre la joie
 - UN BEAU CADEAU DE BOUGIE : Les étiquettes décoratives présentent des images de parfums illustrées à la main et sont aussi séduisantes que leur odeur.
+- MÉLANGE DE CIRE DE SOJA : Pour des couleurs éclatantes et une combustion uniforme
 - BOUGIES DE NOËL : Ce coffret cadeau comprend quatre mini-bougies parfumées Signature dans les fragrances Holiday Winterfest, Santa on Skis, Vanilla Flurries et Slopeside Spritz.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

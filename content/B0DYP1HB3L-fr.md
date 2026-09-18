@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Choose your Fate - Explore multiple character paths and change the course of the story! Play through the game multiple times to uncover the entire tale.
-- Experience stunning artwork - Witness this colourful story coming to life with beautiful character illustrations and dynamic background effects.
 - Play the Best - Experience a crime-solving mystery from famed developer Otomate (Idea Factory), makers of the finest visual novel/romance simulation adventures.
+- Experience stunning artwork - Witness this colourful story coming to life with beautiful character illustrations and dynamic background effects.
+- Choose your Fate - Explore multiple character paths and change the course of the story! Play through the game multiple times to uncover the entire tale.
 - Unravel the Enigma - Use your detective skills to question the eclectic members of the “Mystery Club” and solve this challenging interactive puzzle.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

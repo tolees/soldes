@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rembourrage en mousse au niveau de la languette et du col pour plus de confort et de maintien
-- __Empeigne :__ empeigne à plusieurs panneaux
-- Logo sur le quartier en TPR moulé
 - Doublure en mesh pour plus de confort
+- __Empeigne :__ empeigne à plusieurs panneaux
+- Rembourrage en mousse au niveau de la languette et du col pour plus de confort et de maintien
 - __Empeigne :__ empeigne en cuir, nubuck ou mesh (en fonction du coloris)
+- Logo sur le quartier en TPR moulé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SSSLZBM{{</world>}}

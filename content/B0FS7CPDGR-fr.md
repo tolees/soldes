@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plongez-vous dans ce qui fait lessence du survival horror et de la série, avec des combats, des enquêtes, des puzzles et de la gestion de ressources.
-- Retour à la ville du désastre et du désespoir, redécouvrez la zone dévastée de Racoon City.
 - Resident Evil Requiem : Préparez-vous à échapper à la mort dans une intense expérience qui vous glacera le sang.
+- Plongez-vous dans ce qui fait lessence du survival horror et de la série, avec des combats, des enquêtes, des puzzles et de la gestion de ressources.
 - Alternez librement à tout moment entre vue à la première ou à la troisième personne !
 - Une nouvelle ère de survival horror commence en 2026…
+- Retour à la ville du désastre et du désespoir, redécouvrez la zone dévastée de Racoon City.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FS7CPDGR{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Leaves hair soft, shiny, and more manageable
 - Moisturizing shampoo for frizz-free hair
+- Leaves hair soft, shiny, and more manageable
 - Ideal for all hair types, especially frizzy hair
 
 [🛒 Achète-le!!]({{< param buyurl >}})

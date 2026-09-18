@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- sangle de poitrine réglable en continu
-- housse de pluie détachable
 - Le compartiment séparé pour la poche dhydratation est compatible avec des systèmes dhydratation jusquà 2 litres.
+- sangle de poitrine réglable en continu
 - Une ventilation maximale grâce au système de dos en filet Aircomfort assure un confort de port optimal
+- housse de pluie détachable
 - Porte-lunettes et porte-bâtons
 
 [🛒 Achète-le!!]({{< param buyurl >}})

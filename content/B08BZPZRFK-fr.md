@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plage de température de fonctionnement: 220-250 ° C
 - Offre une résistance rigide et durable (comme lABS)
+- Plage de température de fonctionnement: 220-250 ° C
 - Température de la plaque de base: 90 ° C
 - Compatible avec TOUTES les imprimantes 3D FDM
 

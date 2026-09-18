@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entretien: lavage main
-- Coupe : standard
-- Cuir de vachette
 - Veste boutonnée, style «DW»
+- Coupe : standard
 - 2 poches latérales & 2 poches intérieures Doublure ouatinée
+- Cuir de vachette
+- Entretien: lavage main
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084N3B8ZH{{</world>}}

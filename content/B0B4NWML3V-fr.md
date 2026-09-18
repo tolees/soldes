@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : polyester
-- Semelle : caoutchouc
 - Forme du talon : pas de talon
 - Matériau intérieur : synthétique
+- Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B4NWML3V{{</world>}}

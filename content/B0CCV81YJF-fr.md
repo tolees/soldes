@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 5 thèmes : le sang et la circulation; le système nerveux et les sens; la respiration; la digestion et les organes; les os et les muscles
+- Recommandé à partir de 6 ans
 - Il était une fois; série culte créée par albert barillé et qui as su fédérer les enfants autour du savoir et se sont imposées depuis leur lancement en 1978 comme fl euron de l’animation ludo-éducative française
 - De nouvelles questions sur le thème de la vie
-- Recommandé à partir de 6 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCV81YJF{{</world>}}

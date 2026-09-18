@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le trou de suspension permet de ranger le niveau à bulle en aluminium de manière pratique ou de le placer sur un mur doutils. (kwb Art. No. 065064)
 - Niveau à bulle fabriqué en aluminium avec des surfaces dappui rectifiées avec une grande précision : pour une précision de 0,5 mm par mètre.
+- Le trou de suspension permet de ranger le niveau à bulle en aluminium de manière pratique ou de le placer sur un mur doutils. (kwb Art. No. 065064)
 - Le niveau à bulle en métal léger dispose de 1 fiole pour les mesures horizontales et de 1 fiole pour les mesures verticales.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

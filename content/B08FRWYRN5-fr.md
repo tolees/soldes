@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Short homme ultraléger pour le trail running, idéal pour les conditions climatiques chaudes
-- Cuissard intérieur fixe, Ceinture réglable avec 4 poches autour et 1 grande poche sur le dos, Coutures flat-lock
 - GORE Selected Fabric : Evacuation rapide de l’humidité et respirabilité extrême
+- Cuissard intérieur fixe, Ceinture réglable avec 4 poches autour et 1 grande poche sur le dos, Coutures flat-lock
+- Short homme ultraléger pour le trail running, idéal pour les conditions climatiques chaudes
 - GORE WEAR Short Ultimate 2 en 1, Taille: L, Couleur: Noir, 100759
 - Une coupe souple pour une silhouette sportive et une excellente mobilité, coupe spécifique au coureur, Détails réfléchissants
 

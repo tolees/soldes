@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - CONTENU DE LA LIVRAISON: 1x BOSCH bobine dallumage
-- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 - COMPATIBLE AVEC: AUDI A1, A1 City Carver, A1 Sportback, A1 Sportback, A3, A3 Cabriolet, A3 Limousine, A3 Limousine, A3 Sportback, A3 Sportback, A4 B9, A4 B9 Avant, A5, A5 Sportback, Q2, Q3, Q3, Q3 Sportback, CUPRA FORMENTOR, LEON, LEON Sportstourer, SEAT ALHAMBRA, ALHAMBRA VAN, ARONA, ATECA, IBIZA IV, IBIZA IV SC, IBIZA IV ST, IBIZA V, LEON, LEON, LEON Kasten/Schrägheck, LEON SC, LEON Sportstourer, LEON ST, LEON ST Kasten/Kombi, Mii, TARRACO, TOLEDO IV, SKODA CITIGO, FABIA III, FABIA III Kombi,
+- ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00XVSVLA6{{</world>}}

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans solvant
-- Idéale pour les enfants
-- Lavable à 30°C
-- UHU vous accompagne dans tous vos projets de loisirs créatifs, DIY et bricolage
-- Prise initiale: 1mn et prise finale: 1h
-- Flacon souple et spatule intégrée pour une application facile
 - Transparente après séchage
 - Colle indispensable pour vos loisirs créatifs!
+- Flacon souple et spatule intégrée pour une application facile
+- Sans solvant
+- Lavable à 30°C
+- UHU vous accompagne dans tous vos projets de loisirs créatifs, DIY et bricolage
+- Idéale pour les enfants
+- Prise initiale: 1mn et prise finale: 1h
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003L1FN5M{{</world>}}

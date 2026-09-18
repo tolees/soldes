@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Robustesse
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Robustesse
 - Matériau de qualité supérieure
 - Dimensions de qualité supérieure :
 

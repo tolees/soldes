@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE 100% PROPRE : Sa formule sans sulfates ne contient ni silicones, ni agents conditionneurs ni épaississants. Composée d’un mélange unique de 8 nettoyants non décapants, elle nettoie efficacement tout en respectant la fibre et le cuir chevelu.
-- VOTRE RITUEL COLOR SECURITY : Appliquer sur cheveux mouillés, masser pour faire mousser puis rincer. Répéter pour de meilleurs résultats. Poursuivre avec l’après‑shampoing Color Security pour prolonger la propreté et préserver l’éclat de la couleur.
 - MARRE DES CHEVEUX TERNES ? Color Security est un shampoing 100% sans résidus et sans sulfates pour cheveux colorés qui nettoie en profondeur sans laisser de dépôts. Il laisse les cheveux et le cuir chevelu parfaitement propres, frais et légers.
+- FORMULE 100% PROPRE : Sa formule sans sulfates ne contient ni silicones, ni agents conditionneurs ni épaississants. Composée d’un mélange unique de 8 nettoyants non décapants, elle nettoie efficacement tout en respectant la fibre et le cuir chevelu.
 - DES CHEVEUX WOW AU QUOTIDIEN : Fondée par Gail Federici et Ken Paves, Color Wow s’appuie sur l’expertise scientifique pour développer des soins capillaires innovants et efficaces, avec des résultats visibles qui font vraiment WOW.
+- VOTRE RITUEL COLOR SECURITY : Appliquer sur cheveux mouillés, masser pour faire mousser puis rincer. Répéter pour de meilleurs résultats. Poursuivre avec l’après‑shampoing Color Security pour prolonger la propreté et préserver l’éclat de la couleur.
 - PRESERVE LA COULEUR LAVAGE APRES LAVAGE : Ce shampoing sans sulfate maintient la cuticule lisse et fermée, ce qui aide à préserver l’éclat de la couleur même après 20 lavages. Les cheveux retrouvent fraîcheur, légèreté et un aspect sain.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

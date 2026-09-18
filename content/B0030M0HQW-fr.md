@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Frame Drums Renaissance 12", Tambourin, prétendus
 - prétendus
 - peau Renaissance
-- Frame Drums Renaissance 12", Tambourin, prétendus
 - Corps Acousticon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

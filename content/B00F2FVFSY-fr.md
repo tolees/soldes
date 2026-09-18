@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Pression 3.5 bars
 - Fer professionnel
+- Table active soufflante/aspirante
 - Arrêt automatique au bout de 10min
 - Ergonomique 3 niveaux de hauteur de table
-- Table active soufflante/aspirante
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00F2FVFSY{{</world>}}

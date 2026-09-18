@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance incroyable avec la puce A15 Bionic
-- De nouvelles façons de profiter de votre télé avec Photos, l’App Store et Apple Music
+- Fonctionnalité Améliorer les dialogues pour faire ressortir les voix au milieu de la musique et des sons en arrière-plan
 - Dolby Atmos pour un son en trois dimensions, comme au cinéma
+- Puissance incroyable avec la puce A15 Bionic
 - Dernières nouveautés – séries, films, sport, télé en direct – réunies au même endroit
-- Écoute individuelle en utilisant jusqu’à deux paires d’AirPods
+- De nouvelles façons de profiter de votre télé avec Photos, l’App Store et Apple Music
+- Programmes et films Apple Original d’Apple TV+
 - Télécommande Apple TV Remote avec clickpad tactile pour un contrôle plus précis
 - 4K Dolby Vision et HDR10+ pour une qualité d’image éclatante
-- Programmes et films Apple Original d’Apple TV+
-- Fonctionnalité Améliorer les dialogues pour faire ressortir les voix au milieu de la musique et des sons en arrière-plan
+- Écoute individuelle en utilisant jusqu’à deux paires d’AirPods
 - AirPlay, pour afficher sur votre téléviseur les contenus de vos iPhone, iPad et Mac
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

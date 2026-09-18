@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La capuche avec cordon de serrage vous permet dajuster votre housse.
-- Poche kangourou sur le devant
 - Poche avant
+- Poche kangourou sur le devant
+- La capuche avec cordon de serrage vous permet dajuster votre housse.
 - Mens Fleece Pullover Soccer Hoodie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

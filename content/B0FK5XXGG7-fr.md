@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient pour toutes les pièces
 - Fort pouvoir opacifiant
-- Recouvrable dès 2H pour un chantier express
+- Convient pour toutes les pièces
 - Accroche multi-supports : bois, métal, supports poreux
+- Recouvrable dès 2H pour un chantier express
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FK5XXGG7{{</world>}}

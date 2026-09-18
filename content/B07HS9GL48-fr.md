@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Imperméable
-- Matériau intérieur : textile
-- Forme du talon : plat
-- Collection : passage (NOS)
 - Largeur de la chaussure : moyenne
-- Matériau extérieur : synthétique
-- Hauteur du talon : 2,0 cm
 - Fermeture : caoutchouc
+- Hauteur du talon : 2,0 cm
+- Collection : passage (NOS)
+- Forme du talon : plat
+- Imperméable
+- Matériau extérieur : synthétique
+- Matériau intérieur : textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07HS9GL48{{</world>}}

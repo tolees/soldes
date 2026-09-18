@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ceinture élastique
 - Confortable
-- Belle matière
 - Lot de 3
+- Belle matière
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Z39TZJR{{</world>}}

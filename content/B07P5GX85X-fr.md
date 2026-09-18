@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vendu dans chaque
 - Facile à utiliser
 - Pour moto série SF Système de communication Bluetooth
+- Vendu dans chaque
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07P5GX85X{{</world>}}

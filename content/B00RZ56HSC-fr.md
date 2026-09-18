@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité (Ah): 80 Ah
 - Dimensions (L x P x H): 315 x 175 x 175 mm
 - Technologie de la batterie: batterie humide
-- Modèle no. 580406074
-- Courant dessai à froid: 740 A
 - Tension: 12 V
 - Poids de larticle: 19,21 kg
+- Capacité (Ah): 80 Ah
+- Modèle no. 580406074
+- Courant dessai à froid: 740 A
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RZ56HSC{{</world>}}

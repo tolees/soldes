@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offrez un cadeau original et produit exclusif de la marque Hohner
 - En qualité supérieure
+- Offrez un cadeau original et produit exclusif de la marque Hohner
 - Ref. 1680001
 
 [🛒 Achète-le!!]({{< param buyurl >}})

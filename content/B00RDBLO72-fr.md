@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confectionnée en riche cuir ultra souple signé ECCO
-- Semelle extérieure texturée en PU et TPU pour une meilleure adhérence, quels que soient le terrain et les conditions météorologiques
-- Ajustement anatomique ECCO FLUIDFORM pour une sensation naturelle
-- Semelle intérieure moulée en cuir et en tissu pour un amorti et une respirabilité exceptionnels
 - Un confort immédiat
+- Semelle extérieure texturée en PU et TPU pour une meilleure adhérence, quels que soient le terrain et les conditions météorologiques
+- Semelle intérieure moulée en cuir et en tissu pour un amorti et une respirabilité exceptionnels
+- Confectionnée en riche cuir ultra souple signé ECCO
+- Ajustement anatomique ECCO FLUIDFORM pour une sensation naturelle
 - Le système de lacets longs vous permet de les ajuster pour un confort optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

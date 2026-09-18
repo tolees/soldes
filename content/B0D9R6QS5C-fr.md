@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ses cheveux bruns sont relevés et des éléments encadrent son visage et accentuent ses lèvres pulpeuses. Autre détail soigné : ses ongles parés de verni noir apparaissent à travers ses gants transparents.
 - La poupée Barbie 80ème Anniversaire de Mattel rend un vibrant hommage à un héritage qui, depuis des décennies, inspire des enfants de tous âges.
 - Des escarpins rouge rubis complètent son look éblouissant, tandis que ses pendants d’oreilles ornés d’un "M" doré rendent hommage à l’ancien logo Matty Mattel.
 - La poupée Barbie est prête pour le tapis rouge dans une robe pailletée rehaussée de manches en forme de nœud et d’une traîne spectaculaire, toutes deux confectionnées en tulle.
+- Ses cheveux bruns sont relevés et des éléments encadrent son visage et accentuent ses lèvres pulpeuses. Autre détail soigné : ses ongles parés de verni noir apparaissent à travers ses gants transparents.
 - Mattel a été fondée il y a 8 décennies et a depuis toujours permis à des générations de jouer. Cette poupée Barbie 80ème anniversaire de Mattel célèbre l’héritage de l’emblématique fabricant de jouet !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Thème : généraliste
+- Le premier jeu pour adultes, pensé par des adolescents, fabriqué par des enfants
 - 600 cartes : 140 questions et 460 réponses
 - Jeu de cartes pour lapéro
+- Thème : généraliste
 - Partie : 20-30 min, 3 à 10 joueurs
-- Le premier jeu pour adultes, pensé par des adolescents, fabriqué par des enfants
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079TL2CWQ{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire image & son
 - PENTAX
+- Accessoire image & son
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SKO4FUE{{</world>}}

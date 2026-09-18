@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayons de la plus haute qualité
-- 6 degrés de dureté différents
 - Idéal pour les domaines techniques et artistiques
+- 6 degrés de dureté différents
+- Crayons de la plus haute qualité
 - Gradation fine des degrés de dureté
 - mine incassable
 

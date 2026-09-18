@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- doublure de la mentonnière et nuque en Tricot brossé
-- Logo Imprimé par transfert thermique
-- doublure du corps en maillefilet
-- Logo Imprimé par transfert thermique
-- Manchettes élastiquées
-- finition déperlante DWR
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- Deux poches principales zippées à rabat
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - doublure de la mentonnière et nuque en Tricot brossé
 - Capuche fixe avec Cordon de serrage unidirectionnel
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- doublure du corps en maillefilet
+- Manchettes élastiquées
+- finition déperlante DWR
+- Deux poches principales zippées à rabat
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Deux poches principales zippées à rabat
 - finition déperlante DWR
+- Logo Imprimé par transfert thermique
+- Manchettes élastiquées
 - Cordon de serrage élastique à la capuche et à lourlet
-- doublure du corps en maillefilet
+- Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- doublure de la mentonnière et nuque en Tricot brossé
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - Cordon de serrage élastique à la capuche et à lourlet
-- Manchettes élastiquées
+- doublure du corps en maillefilet
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

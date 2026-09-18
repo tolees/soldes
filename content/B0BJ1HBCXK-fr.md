@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable : grille de protection qui assure sécurité et robustesse.
-- Rechargeable avec câble USB inclus. Temps de charge : 45 minutes / Autonomie : 5 minutes.
-- Le tout premier drone à induction Lexibook volant jusqu’à 5km/h (3 miles).
-- Facile à utiliser et contrôlable sans télécommande grâce à son détecteur de mouvement.
-- Adapté pour les enfants et pour l’apprentissage des cascades et des loopings.
 - Peut être utilisé à l’intérieur comme à l’extérieur.
+- Le tout premier drone à induction Lexibook volant jusqu’à 5km/h (3 miles).
+- Maintien de laltitude !
+- Rechargeable avec câble USB inclus. Temps de charge : 45 minutes / Autonomie : 5 minutes.
 - Utilisation facile et adaptée aux enfants.
 - Effets lumineux !
+- Adapté pour les enfants et pour l’apprentissage des cascades et des loopings.
+- Facile à utiliser et contrôlable sans télécommande grâce à son détecteur de mouvement.
 - Contrôle gestuel : Il vous suivra partout avec le simple geste de votre main.
-- Maintien de laltitude !
+- Durable : grille de protection qui assure sécurité et robustesse.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BJ1HBCXK{{</world>}}

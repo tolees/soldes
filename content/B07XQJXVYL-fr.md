@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 x ensemble de 18 aiguilles.
 - Ergonomique :
+- 1 x ensemble de 18 aiguilles.
 - Tailles : 3,5 mm, 4 mm, 4,5 mm, 5 mm et 6 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

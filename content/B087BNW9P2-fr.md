@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Installez Votre Visiophone Sans Travaux Complexes – Aucun câble n’est nécessaire entre la platine de rue et le moniteur. Le système s’installe rapidement et offre une solution pratique pour équiper votre habitation sans raccordement.
-- Gardez Un Historique De Vos Visiteurs – La caméra enregistre automatiquement les photos dans sa mémoire interne de 8 Mo. Ajoutez une carte micro SD de 4 à 32 Go non fournie pour sauvegarder également les vidéos des passages.
 - Un Interphone Connecté Pensé Pour Votre Quotidien – Le moniteur sans fil rechargeable permet de répondre facilement à vos visiteurs tout en offrant une portée pouvant atteindre 200 mètres en champ libre. Une solution pratique qui allie liberté dutilisation, confort et communication
-- Contrôlez Vos Accès En Toute Simplicité – Déclenchez à distance louverture dun portail motorisé ou dune gâche électrique compatible directement depuis le moniteur. La platine extérieure IP65 et son angle de vision de 110° assurent une surveillance fiable de votre entrée.
+- Installez Votre Visiophone Sans Travaux Complexes – Aucun câble n’est nécessaire entre la platine de rue et le moniteur. Le système s’installe rapidement et offre une solution pratique pour équiper votre habitation sans raccordement.
 - SCS Sentinel, Expert Français du Confort, de l’Accès et la Sécurisation de l’habitat – Depuis de nombreuses années, SCS Sentinel conçoit des solutions dédiées à l’accès, à la sécurité et au confort de la maison. Des équipements fiables pensés pour simplifier durablement le quotidien
+- Gardez Un Historique De Vos Visiteurs – La caméra enregistre automatiquement les photos dans sa mémoire interne de 8 Mo. Ajoutez une carte micro SD de 4 à 32 Go non fournie pour sauvegarder également les vidéos des passages.
+- Contrôlez Vos Accès En Toute Simplicité – Déclenchez à distance louverture dun portail motorisé ou dune gâche électrique compatible directement depuis le moniteur. La platine extérieure IP65 et son angle de vision de 110° assurent une surveillance fiable de votre entrée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B087BNW9P2{{</world>}}

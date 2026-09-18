@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc de traction Omni-Grip non marquant.
 - Semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
+- Caoutchouc de traction Omni-Grip non marquant.
 - Cuir enduit de polyuréthane, daim, tige en maille avec matériel en métal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

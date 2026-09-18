@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Logo ROXY
 - __matière :__ matière éponge imprimée en coton
+- __Compartiments :__ poche kangourou sur le devant
 - Boutons-pression sur les côtés
 - __dimensions :__ 59 [h] x 56 [l] cm
-- __Compartiments :__ poche kangourou sur le devant
-- Logo ROXY
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08N34SSLW{{</world>}}

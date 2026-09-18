@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - JEUX DÉCHECS ÉLECTRONIQUE DE VOYAGE - Un jeu déchecs compact et pratique, idéal pour les déplacements avec son couvercle intégré.
 - RÈGLES COMPLÈTES - Connaît toutes les règles des échecs, y compris la règle des 50 coups, le pat, la promotion des pions et la prise en passant.
-- POUR TOUS NIVEAUX - Convient aux débutants comme aux joueurs confirmés, avec 64 niveaux de difficulté dont 5 niveaux pour débutants répartis en 4 styles de jeux différents.
 - À EMPORTER PARTOUT - Les pièces et le plateau sont conçus pour un transport sécurisé, même en cours de partie.
+- POUR TOUS NIVEAUX - Convient aux débutants comme aux joueurs confirmés, avec 64 niveaux de difficulté dont 5 niveaux pour débutants répartis en 4 styles de jeux différents.
 - FONCTIONS AVANCÉES - Visualisation des coups par voyants lumineux et mémorisation des positions en cours de partie.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Mouvement linéaire et circulaire】 NEEWER SD001 est un chariot de caméra manuel articulé qui se déplace en lignes droites ou en cercle pour déplacer et pivoter les enregistrements. En ajustant les roues à -45°/+45°, vous pouvez contrôler les zones panoramiques pour capturer des sujets de différentes tailles avec vos appareils photo sans miroir, mini caméscopes, téléphones et caméras daction (adaptateur vendu séparément)
-- Compact et léger : cette poussette légère au format de poche mesure 100 x 84 x 20 mm et pèse 200 g. Il est portable pour les prises de vue en plein air. La construction en alliage daluminium noir assure une longue durée de vie
 - Roues lisses et silencieuses : les roues rembourrées avec des anneaux en caoutchouc souple se déplacent silencieusement et en douceur sur le sol, la table et le curseur de lappareil photo pour un environnement denregistrement vidéo sans bruit. Ne convient pas aux téléobjectifs
+- Compact et léger : cette poussette légère au format de poche mesure 100 x 84 x 20 mm et pèse 200 g. Il est portable pour les prises de vue en plein air. La construction en alliage daluminium noir assure une longue durée de vie
+- 【Mouvement linéaire et circulaire】 NEEWER SD001 est un chariot de caméra manuel articulé qui se déplace en lignes droites ou en cercle pour déplacer et pivoter les enregistrements. En ajustant les roues à -45°/+45°, vous pouvez contrôler les zones panoramiques pour capturer des sujets de différentes tailles avec vos appareils photo sans miroir, mini caméscopes, téléphones et caméras daction (adaptateur vendu séparément)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BTCT7BJP{{</world>}}

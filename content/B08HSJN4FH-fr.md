@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hydratant
-- Wella Professionals
-- 150 ml
 - Lustrant
+- 150 ml
+- Wella Professionals
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HSJN4FH{{</world>}}

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle en caoutchouc souple
 - design de style de vie sportif
-- Confort au quotidien
 - Coussinet GEL amélioré
+- Confort au quotidien
 - Tige en mesh léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})

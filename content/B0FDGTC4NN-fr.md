@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il sagit dun produit Calvin Klein authentique et original
 - Ce style a été produit de manière durable
+- Il sagit dun produit Calvin Klein authentique et original
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDGTC4NN{{</world>}}

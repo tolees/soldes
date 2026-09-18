@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Construction respirante et imperméable Omni-Tech
 - Semelle intercalaire Techlite pour un amorti confortable et une excellente restitution de l’énergie
-- Languette à soufflet et renfort à l’avant-pied
 - Tige en maille et cuir suédé avec renforts en cuir synthétique
+- Languette à soufflet et renfort à l’avant-pied
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09L4S4FZ5{{</world>}}

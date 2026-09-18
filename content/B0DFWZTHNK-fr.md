@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONTENU: GKS 18V-57-2 GX, L-BOXX
-- FACILE À UTILISER : Réglage de la profondeur à une main et levier à distance pour ouvrir facilement le capot de protection inférieur à une main.
+- IHM : Fonction : tr/min, fonction Stop Control marche/arrêt et mode éco. État : Contrôle de la surchauffe et KickBack Control
 - PROTECTION DE LUTILISATEUR : Fonction Stop Control pour détecter automatiquement la fin de la coupe ; KickBack Control ; adaptateur Click & Clean intégré pour collecteur la poussière ; éclairage LED pour un éclairage et un guidage optimaux
 - PRÉCISION DE COUPE : Compatible avec le rail de guidage transversal et le système de guidage, se transforme en scie à onglet avec FSN X, design compact pour les coupes rapprochées, et coupe jusquà 57 mm avec un biseau de 50°.
-- IHM : Fonction : tr/min, fonction Stop Control marche/arrêt et mode éco. État : Contrôle de la surchauffe et KickBack Control
+- CONTENU: GKS 18V-57-2 GX, L-BOXX
+- FACILE À UTILISER : Réglage de la profondeur à une main et levier à distance pour ouvrir facilement le capot de protection inférieur à une main.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DFWZTHNK{{</world>}}

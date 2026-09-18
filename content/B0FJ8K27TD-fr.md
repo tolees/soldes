@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TESTEZ VOS RÉFLEXES : Cherchez les symboles qui vont ensemble et soyez le plus rapide pour attraper le totem en bois. Mais attention, si vous lattrapez au mauvais moment, ça pourrait vous faire perdre des points !
-- PORTABLE ET RÉSISTANT : Il est super pratique avec son totem en bois solide, ce qui te permet demporter partout avec toi les rires et le fun de Jungle Speed.
 - DONKEY KONG : Cette édition spéciale Donkey Kong de lunivers Nintendo propose des composants exclusifs et un gameplay unique.
+- TESTEZ VOS RÉFLEXES : Cherchez les symboles qui vont ensemble et soyez le plus rapide pour attraper le totem en bois. Mais attention, si vous lattrapez au mauvais moment, ça pourrait vous faire perdre des points !
 - PARFAIT POUR TOUTE LA FAMILLE : Idéal pour les enfants dès7 ans et jusquà 8 joueurs.
+- PORTABLE ET RÉSISTANT : Il est super pratique avec son totem en bois solide, ce qui te permet demporter partout avec toi les rires et le fun de Jungle Speed.
 - DU FUN À FOND : Jungle Speed, cest un jeu de dextérité super cool où il faut avoir des réflexes rapides et un œil vif pour gagner.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protéines de haute qualité
 - Mélange de saveurs
 - 100% naturel
+- Protéines de haute qualité
 - Avec un bouillon hydratant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

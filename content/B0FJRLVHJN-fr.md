@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Simple à utiliser, puissant et polyvalent
+- Éléments fournis : GSB 18V-25, 2 batteries GBA 2,0 Ah, GAL 18V-40, L-BOXX
 - Longue durée de vie avec des fonctionnalités électroniques qui protègent le moteur et prolongent la durée de vie de la batterie
 - Enfonce des vis dun diamètre de 10 à 35 mm dans le bois et jusquà 10 mm dans la maçonnerie et le métal
+- Simple à utiliser, puissant et polyvalent
 - AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils des marques de l’Alliance batteries AMPShare
-- Éléments fournis : GSB 18V-25, 2 batteries GBA 2,0 Ah, GAL 18V-40, L-BOXX
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FJRLVHJN{{</world>}}

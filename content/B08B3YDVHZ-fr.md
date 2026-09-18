@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - Coutures à 360° pour une meilleure durabilité
-- Couleur : noir
+- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - Semelle intérieure : OrthoLite pour un meilleur amorti
 - Tige : Cuir de vachette
+- Couleur : noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08B3YDVHZ{{</world>}}

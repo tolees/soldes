@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Durability
 - Flexibilité
 - Poids léger
-- Durability
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08R7W6XM5{{</world>}}

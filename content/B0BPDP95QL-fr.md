@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Forme du talon : sans talon
 - Niveau de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
-- Forme du talon : sans talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPDP95QL{{</world>}}

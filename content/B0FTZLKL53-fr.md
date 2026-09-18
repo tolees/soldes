@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Surface de cuisson Ø 57 cm – suffisante pour jusqu’à 8 personnes
-- Thermomètre intégré au couvercle – contrôle précis de la température sans ouvrir
 - Cuve et couvercle émaillés – conservation optimale de la chaleur et protection contre la rouille
-- Contenu : 1 × barbecue à charbon Weber Original Kettle Premium 57 cm avec roues, noir
 - Grille articulée compatible GBS – ajout facile de charbon et utilisation d’accessoires comme pierre à pizza ou cocotte
+- Contenu : 1 × barbecue à charbon Weber Original Kettle Premium 57 cm avec roues, noir
+- Thermomètre intégré au couvercle – contrôle précis de la température sans ouvrir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FTZLKL53{{</world>}}

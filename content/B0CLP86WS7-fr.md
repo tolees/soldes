@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confectionnées dans un mélange de matières
 - Entièrement doublé
 - Lacets
+- Confectionnées dans un mélange de matières
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLP86WS7{{</world>}}

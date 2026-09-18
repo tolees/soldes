@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fourni avec un câble, un support et une fixation RAM
+- À utiliser sur une autre moto ou pour remplacer une fixation égarée
+- Compatible avec les modèles Rider 550/500/450/420/410/400/42/40
 - Permet dalimenter lappareil aussi bien sur les moteurs 12 V ou 24 V, pour partir sans attendre
 - Recharge aisée : le TomTom Rider se recharge pendant que vous roulez
-- Compatible avec les modèles Rider 550/500/450/420/410/400/42/40
-- À utiliser sur une autre moto ou pour remplacer une fixation égarée
+- Fourni avec un câble, un support et une fixation RAM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00V5U7OEE{{</world>}}

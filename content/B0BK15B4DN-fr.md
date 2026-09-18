@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Complexe de vitamines C,E et B5
-- Un teint frais, unifié et éclatant
-- Formule composée à 85% dingrédients dorigine naturelle
 - Hydratation 24 Longue tenue jusquà 16h
+- Formule composée à 85% dingrédients dorigine naturelle
+- Un teint frais, unifié et éclatant
 - Fond de teint Clean et Vegan
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

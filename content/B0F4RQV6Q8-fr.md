@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
 - Tommy Hilfiger Logo en relief sur le talon
+- Semelle extérieure en caoutchouc
 - Tommy Hilfiger Logo sur le côté et la languette
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage entièrement blanc
 - Commande au volant
+- Éclairage entièrement blanc
 - Châssis court
-- Radio FM/AM avec 1 sortie pré-sortie
 - Aux et USB
+- Radio FM/AM avec 1 sortie pré-sortie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YNZTHTP{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TRÉPIED ROBUSTE POUR VOS APPAREILS OPTIQUES : stabilisez votre longue-vue, appareil photo, petit télescope ou vos jumelles pour une image de meilleure qualité
-- RÉGLABLE : réglez-le à la hauteur souhaitée grâce aux jambes en quatre sections et à la colonne centrale. Assurez-vous que votre trépied est stable en utilisant les pieds rétractables à pointe et le niveau à bulle inclus
-- TÊTE PANORAMIQUE BIDIRECTIONNELLE : la poignée unique facilite le déplacement de la tête et les deux boutons de réglage permettent de régler la tension des mouvements verticaux et latéraux
 - PLATINE À DÉCLENCHEMENT RAPIDE : avec une monture au filetage standard 1/4"-20, elle facilite le montage des optiques. Pour plus de tranquillité d’esprit, la platine comporte un rail d’équilibrage avec une sécurité pour l’empêcher de glisser
+- RÉGLABLE : réglez-le à la hauteur souhaitée grâce aux jambes en quatre sections et à la colonne centrale. Assurez-vous que votre trépied est stable en utilisant les pieds rétractables à pointe et le niveau à bulle inclus
+- TRÉPIED ROBUSTE POUR VOS APPAREILS OPTIQUES : stabilisez votre longue-vue, appareil photo, petit télescope ou vos jumelles pour une image de meilleure qualité
 - STOCKAGE ET MAINTENANCE : quand le trépied n’est pas en service, utiliser le sac fourni avec sa bandoulière pour en faciliter le stockage et le transport
+- TÊTE PANORAMIQUE BIDIRECTIONNELLE : la poignée unique facilite le déplacement de la tête et les deux boutons de réglage permettent de régler la tension des mouvements verticaux et latéraux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00NI9CV7K{{</world>}}

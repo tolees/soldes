@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- T-shirt à manches courtes
 - Produit de fabrication excellente
+- T-shirt à manches courtes
 - Longue durée de vie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

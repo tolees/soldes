@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 - Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
 - Composition : Viande et abats 99 % (agneau : viande, cœur, foie, poumons, reins, panse), minéraux 0.5 %, coquilles dœuf 0.5 %
-- MjAMjAM - Tout simplement parce que cest bon
+- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 - Alimentation humide pour chat - Pourcentage de viande très élevé - Vitamines et minéraux essentiels - Sans céréales
+- MjAMjAM - Tout simplement parce que cest bon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07D4TK1G4{{</world>}}

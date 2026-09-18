@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Made in Germany - 100% contrôlé - Garantie constructeur 5 ans
-- Avec protection contre les surcharges · Version française (type E) · Indicateur de fonctionnement optique
 - Le répartiteur dénergie spécial empêche un consommateur de déclencher le fusible ou de créer un incendie de ligne en cas de coupure de courant dépendant de la puissance (3400W)
-- Lors du branchement dun sèche-linge, dun lave-linge ou dune chaudière et dun lave-vaisselle sur un circuit électrique, il peut y avoir une surcharge lors du chauffage simultané des deux appareils
+- Avec protection contre les surcharges · Version française (type E) · Indicateur de fonctionnement optique
 - Dès que la puissance absorbée diminue, le deuxième consommateur est automatiquement réactivé
+- Lors du branchement dun sèche-linge, dun lave-linge ou dune chaudière et dun lave-vaisselle sur un circuit électrique, il peut y avoir une surcharge lors du chauffage simultané des deux appareils
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081RL2C7P{{</world>}}

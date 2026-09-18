@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Style: Alliance et anneau
 - Coleur: Argenté
 - Pierre: Zircon cubique
 - Marque: Pandora
-- Style: Alliance et anneau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HKWX7HY{{</world>}}

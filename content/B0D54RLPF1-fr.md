@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Régulier au niveau de la cuisse
 - Offre une coupe très ajustée au départ. Se détend un peu avec le temps. Parfait pour un denim rigide et classique.
 - LEVIS TAB : il existe différentes variantes de la célèbre « tab » rouge. Que ce soit LEVIS, Levis, sans inscription ou dans une autre couleur, il sagit dun produit Levis original
+- Régulier au niveau de la cuisse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D54RLPF1{{</world>}}

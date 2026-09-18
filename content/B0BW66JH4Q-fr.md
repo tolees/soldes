@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Double bande 2,4/5 GHz】U6-IW prend en charge les bandes de fréquences 2,4 Ghz et 5 Ghz.
 - Point daccès double bande avec (4) ports GbE RJ45
+- 【Double bande 2,4/5 GHz】U6-IW prend en charge les bandes de fréquences 2,4 Ghz et 5 Ghz.
 - Technologie WiFi 6 à quatre flux haute efficacité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

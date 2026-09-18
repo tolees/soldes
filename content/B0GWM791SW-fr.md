@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jouez en solo ou en 1v1 local : défiez un ami ou un membre de votre famille dans un match de tennis 1v1 en coopération en écran partagé local, ou jouez en mode Histoire à votre rythme !
 - Plusieurs façons de jouer : des matchs classiques aux mini-jeux amusants, il y en a pour tous les goûts. Lancez-vous dans un mode Histoire narratif, plongez dans des mini-jeux pour encore plus de fun, ou grimpez au sommet en mode Tournoi pour décrocher la victoire !
 - Du fun instantané pour tous : pas besoin dêtre un pro pour samuser ! Commencez à jouer immédiatement grâce à des commandes faciles à prendre en main, accessibles à toute la famille.
-- Personnages stars de Nickelodeon : choisissez votre star parmi 15 personnages Nickelodeon emblématiques issus de Bob léponge, Avatar : Le dernier maître de lair, Les Tortues Ninja et bien plus encore !
 - Jouez à votre façon : choisissez parmi plus de 500 tenues et accessoires pour personnaliser votre personnage Nickelodeon comme bon vous semble, et affichez votre personnalité sur le court de tennis. Renversez le cours du match grâce à de puissantes capacités ultimes propres à chaque personnage !
+- Personnages stars de Nickelodeon : choisissez votre star parmi 15 personnages Nickelodeon emblématiques issus de Bob léponge, Avatar : Le dernier maître de lair, Les Tortues Ninja et bien plus encore !
+- Jouez en solo ou en 1v1 local : défiez un ami ou un membre de votre famille dans un match de tennis 1v1 en coopération en écran partagé local, ou jouez en mode Histoire à votre rythme !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GWM791SW{{</world>}}

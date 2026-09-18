@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grandes poches sur les jambes, une avec une poche extérieure supplémentaire
-- Department : Homme
 - Type de tissu : 73% Polyamide, 27% Coton
+- Department : Homme
 - Fermetures éclair à hauteur de genou qui les transforment en short
 - Pantalon confortable
 

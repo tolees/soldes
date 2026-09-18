@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- la conception étanche (jusqu’à 1 m pendant 10 minutes maximum) et anti-buée vous permet de poursuivre vos observations en toute clarté quelles que soient les conditions météorologiques. Le gainage caoutchouté protège les jumelles des coups et chocs
-- conception optique de qualité avec traitement multicouche sur l’ensemble des lentilles et prismes pour offrir des images plus lumineuses. Traitement de correction de phase des prismes en toit garantissant une excellente définition même par faible luminosité.
-- disponibles dans les tailles 8x42, 10x42, 8x30 et 10x30.
 - Spécifique P7: appliqué à l’objectif et aux oculaires, le traitement hydrofuge et oléophobe permet d’éliminer facilement l’humidité, les traces de doigt et les salissures
+- conception optique de qualité avec traitement multicouche sur l’ensemble des lentilles et prismes pour offrir des images plus lumineuses. Traitement de correction de phase des prismes en toit garantissant une excellente définition même par faible luminosité.
+- la conception étanche (jusqu’à 1 m pendant 10 minutes maximum) et anti-buée vous permet de poursuivre vos observations en toute clarté quelles que soient les conditions météorologiques. Le gainage caoutchouté protège les jumelles des coups et chocs
+- disponibles dans les tailles 8x42, 10x42, 8x30 et 10x30.
 - tous les modèles sont équipés d’un grand dégagement oculaire (15 mm au minimum), ce qui en fait les jumelles idéales pour les porteurs de lunettes. Les œilletons en caoutchouc à crans facilitent le positionnement correct des yeux si vous ne portez pas de lunettes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

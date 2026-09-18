@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La semelle légère offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
-- Des élastiques discrets assurent un chaussant réglable ainsi qu’enfilage aisé
-- Semelle intérieure amovible revêtue de cuir pour un confort accru
 - Confectionnée en nubuck ultra doux produit dans nos propres tanneries
-- Doublée de textile pour davantage de douceur et de respirabilité
+- Semelle intérieure amovible revêtue de cuir pour un confort accru
 - Bande de cuir décorative sur l’empeigne et semelle extérieure compensée tendance
+- Doublée de textile pour davantage de douceur et de respirabilité
+- Des élastiques discrets assurent un chaussant réglable ainsi qu’enfilage aisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X16P1TW{{</world>}}

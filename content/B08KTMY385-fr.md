@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Easily mounted tempered glass side panel lets you showcase your components (Pop Silent TG)
-- Up to three HDDs and six SSDs (or two HDDs and five SSDs with one optical bay in use)
 - Excellent noise reduction thanks to a closed front, a closed top, bitumen side panels and sound-damping foam
-- Accommodates ATX / mATX / Mini ITX Motherboards
 - Comes with three of our 120 mm Aspect fans
+- Up to three HDDs and six SSDs (or two HDDs and five SSDs with one optical bay in use)
+- Accommodates ATX / mATX / Mini ITX Motherboards
+- Easily mounted tempered glass side panel lets you showcase your components (Pop Silent TG)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08KTMY385{{</world>}}

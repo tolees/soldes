@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE DÉBUT DUNE AVENTURE D&D LÉGENDAIRE : créez votre premier personnage, affrontez des monstres, sauvez vos amis et accomplissez des quêtes palpitantes. Cest le début dune épopée légendaire. Cest D&D pour tous.
-- UN JEU AMUSANT ET RAPIDE POUR VOS AMIS ET VOTRE FAMILLE : vous pouvez jouer à Heroes of the Borderlands en faisant de courtes sessions, ce qui est idéal pour vos soirées jeux avec vos amis et votre famille.
 - PRÉPAREZ ET JOUEZ EN QUELQUES MINUTES : passez directement au jeu avec une création de personnage rapide, un guide de démarrage rapide pratique, et des composantes dapprentissage intuitives.
-- TOUT CE DONT VOUS AVEZ BESOIN POUR VOUS AMUSER PENDANT DES HEURES : cette boîte tout-en-un contient des plateaux de classe de personnage, des documents immersifs, des dés, des plans, des jetons, un suivi des combats, ainsi que des cartes pour les objets magiques, les sorts, les monstres, et bien plus encore !
 - ACCOMPLISSEZ DES QUÊTES ÉPIQUES : les trois livrets daventure proposent des dizaines de rencontres de combat, dinteractions sociales et dexploration.
+- LE DÉBUT DUNE AVENTURE D&D LÉGENDAIRE : créez votre premier personnage, affrontez des monstres, sauvez vos amis et accomplissez des quêtes palpitantes. Cest le début dune épopée légendaire. Cest D&D pour tous.
+- TOUT CE DONT VOUS AVEZ BESOIN POUR VOUS AMUSER PENDANT DES HEURES : cette boîte tout-en-un contient des plateaux de classe de personnage, des documents immersifs, des dés, des plans, des jetons, un suivi des combats, ainsi que des cartes pour les objets magiques, les sorts, les monstres, et bien plus encore !
+- UN JEU AMUSANT ET RAPIDE POUR VOS AMIS ET VOTRE FAMILLE : vous pouvez jouer à Heroes of the Borderlands en faisant de courtes sessions, ce qui est idéal pour vos soirées jeux avec vos amis et votre famille.
 - CHOISISSEZ VOTRE FAÇON DE JOUER : choisirez-vous daffronter le gobelin, de le raisonner ou de vous faufiler discrètement derrière lui ?
 
 [🛒 Achète-le!!]({{< param buyurl >}})

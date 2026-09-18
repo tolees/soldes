@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plus léger pour moins d’impact sur l’environnement
-- Certifié Ecolabel européen
-- Papier pour impression laser et jet dencre noir & blanc
-- Grammage : 75 g/m² ; Format: A4
 - Excellente fiabilité
+- Certifié Ecolabel européen
+- Grammage : 75 g/m² ; Format: A4
+- Papier pour impression laser et jet dencre noir & blanc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DGLZHJFB{{</world>}}

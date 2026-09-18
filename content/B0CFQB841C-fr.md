@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Figurine Sonic
 - Livré avec étiquettes
+- Figurine Sonic
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CFQB841C{{</world>}}

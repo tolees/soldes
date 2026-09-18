@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verre trempé résistant
-- Monture en aluminium ultrafine et usinée avec précision
 - Filtre haute-résolution
+- Monture en aluminium ultrafine et usinée avec précision
+- Verre trempé résistant
 - Etui souple de rangement inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

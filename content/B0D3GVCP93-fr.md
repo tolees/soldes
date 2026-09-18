@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Précision maximale: Le capteur HERO 25K de cette souris gaming sans fil assure un suivi exactement à léchelle du sous-micron sans lissage pour un jeu sans fil précis
-- Jeu maximal: Cette souris gaming sans fil passe de la connectivité sans fil LIGHTSPEED, robuste et à latence faible, à la connectivité Bluetooth pour une flexibilité sans fil totale
-- Vitesse maximale: Switchs optiques/mécaniques LIGHTFORCE avec vitesse optique, sensation mécanique et performances de jeu optimisées
-- Poids minimal: La Logitech G309 LIGHTSPEED est une souris gaming légère qui ne pèse que 86 g avec la pile AA incluse ou 68 g (sans pile) avec lutilisation du système de charge sans fil POWERPLAY
 - Charge minimale: Plus de 300 heures avec une pile AA ou une autonomie illimitée avec POWERPLAY, pour vous permettre de vous concentrer sur le jeu, et non sur lautonomie de la pile.
+- Jeu maximal: Cette souris gaming sans fil passe de la connectivité sans fil LIGHTSPEED, robuste et à latence faible, à la connectivité Bluetooth pour une flexibilité sans fil totale
+- Précision maximale: Le capteur HERO 25K de cette souris gaming sans fil assure un suivi exactement à léchelle du sous-micron sans lissage pour un jeu sans fil précis
+- Poids minimal: La Logitech G309 LIGHTSPEED est une souris gaming légère qui ne pèse que 86 g avec la pile AA incluse ou 68 g (sans pile) avec lutilisation du système de charge sans fil POWERPLAY
+- Vitesse maximale: Switchs optiques/mécaniques LIGHTFORCE avec vitesse optique, sensation mécanique et performances de jeu optimisées
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D3GVCP93{{</world>}}

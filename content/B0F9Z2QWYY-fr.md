@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Conçu pour être entièrement compatible avec le cardan et les optiques du Mavic 4 Pro.
+- Le polariseur intégré réduit les reflets et les éblouissements, pour une plus grande profondeur des couleurs.
+- Surfaces internes entièrement noircies pour éliminer les reflets dans lobjectif
 - ND8 est obtenu en installant ND16 et en augmentant lISO ou louverture dun cran.
 - Comprend ND4, ND16, ND64 pour toutes les conditions déclairage
-- Conçu pour être entièrement compatible avec le cardan et les optiques du Mavic 4 Pro.
-- Surfaces internes entièrement noircies pour éliminer les reflets dans lobjectif
-- Le polariseur intégré réduit les reflets et les éblouissements, pour une plus grande profondeur des couleurs.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F9Z2QWYY{{</world>}}

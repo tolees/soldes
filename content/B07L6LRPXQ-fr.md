@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 24 préparations (animaux, plantes, insectes, fibres, pollen)
 - Préparations permanentes pour une entrée parfaite en microscopie
 - 6 diapositives avec préparations passionnantes
-- 24 préparations (animaux, plantes, insectes, fibres, pollen)
 - Contenu de la livraison : kit dexpérimentation comprenant 6 lames avec un total de 24 préparations
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

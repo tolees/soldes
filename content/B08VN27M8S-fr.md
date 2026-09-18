@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - coupe pr s du corps
-- 100% Coton
 - 3 patte de boutonnage
 - Benne contraste avec les manches et le col
 - tricot classique en piquŽ
+- 100% Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08VN27M8S{{</world>}}

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 TAILLES DE TASSE, Espresso et Lungo
+- ENGAGEMENT DE REPARABILITE 15 ANS au juste prix grâce à notre réseau de 6200 réparateurs dans le monde (pour contribuer à la protection de l’environnement et à la réduction des déchets)
+- Une machine à café ELEGANTE ET DESIGN
 - UN ASSORTIMENT DE CAPSULES OFFERT
 - PRECHAUFFAGE RAPIDE EN 25 SECONDES
 - ARRET AUTOMATIQUE après 9 minutes dinutilisation
-- Une machine à café ELEGANTE ET DESIGN
-- ENGAGEMENT DE REPARABILITE 15 ANS au juste prix grâce à notre réseau de 6200 réparateurs dans le monde (pour contribuer à la protection de l’environnement et à la réduction des déchets)
-- 2 TAILLES DE TASSE, Espresso et Lungo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N2X7FRR{{</world>}}

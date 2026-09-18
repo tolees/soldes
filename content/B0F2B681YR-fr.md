@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo linéaire sur le patch au talon et la languette
+- Semelle de propreté en textile
+- Lacets
 - Chaussant standard
 - Tige en textile et matière synthétique
-- Lacets
-- Construction Col Cement
-- Semelle de propreté en textile
 - 3 bandes sur les côtés
 - Semelle de propreté en textile
+- Construction Col Cement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F2B681YR{{</world>}}
